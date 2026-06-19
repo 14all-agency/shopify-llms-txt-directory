@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2023-12-01T15:50:56Z
 - Contact Email: servizioclienti@fantasycalzature.com
-- Updated At: 2026-06-11T00:00:39.309Z
+- Updated At: 2026-06-19T00:00:42.497Z
 
 ## Products
 
@@ -322,7 +322,7 @@
   Updated: 2026-06-08T12:44:12Z
   Total Products: 621
 - [Collezione DONNA 2023 – Moda Esclusiva](https://www.fantasycalzature.com/collections/donna): Scopri collezioni DONNA uniche. Stili alla moda per ogni occasione. Acquista ora e trasforma il tuo look!
-  Updated: 2026-06-09T11:18:06Z
+  Updated: 2026-06-13T11:17:12Z
   Total Products: 1897
 - [Collezione Unisex - Stile Elegante e Versatile](https://www.fantasycalzature.com/collections/unisex): Esplora la nostra esclusiva collezione Unisex. Moda innovativa per tutti, design unico. Acquista ora!
   Updated: 2026-06-08T12:44:24Z
@@ -331,7 +331,7 @@
   Updated: 2026-04-20T22:04:35Z
   Total Products: 0
 - [Indice dei Prodotti Intelligenti - Collezione Unica](https://www.fantasycalzature.com/collections/globofilter-best--products-index): Scopri la nostra collezione di prodotti intelligenti, progettati per migliorare la tua vita quotidiana con innovazione e funzionalità.
-  Updated: 2026-06-09T11:18:06Z
+  Updated: 2026-06-17T14:43:53Z
   Total Products: 2985
 - [OUTLET Online: Sconti fino al 70% sui Migliori Brand](https://www.fantasycalzature.com/collections/outlet): Scopri l'OUTLET: risparmia oltre il 70% su moda, elettronica e molto altro. Offerte imperdibili, quantità limitate!
   Updated: 2026-06-08T12:44:27Z
@@ -340,7 +340,7 @@
   Updated: 2026-06-08T12:48:55Z
   Total Products: 991
 - [Scarpe Donna Trendy 2024 | Modelli Esclusivi Online](https://www.fantasycalzature.com/collections/scarpe-donna): Scopri la collezione di Scarpe Donna: eleganza, comfort e stile. Acquista ora i modelli esclusivi e trend del 2024. Spedizione veloce!
-  Updated: 2026-06-09T11:18:06Z
+  Updated: 2026-06-13T11:17:12Z
   Total Products: 1154
 - [Sneakers Donna | Ultima Collezione & Stili Esclusivi](https://www.fantasycalzature.com/collections/sneakers-donna): Scopri la collezione di sneakers donna. Stili esclusivi per comfort e tendenza. Acquista il tuo paio ideale ora!
   Updated: 2026-06-08T12:49:09Z
@@ -373,13 +373,13 @@
   Updated: 2026-06-08T12:49:34Z
   Total Products: 55
 - [Sandali Donna 2023: Stile e Comfort](https://www.fantasycalzature.com/collections/sandalo-donna): Scopri la nostra collezione di Sandali Donna! Design moderni, comfort eccellente per il tuo look estivo. Acquista ora!
-  Updated: 2026-06-08T12:48:58Z
+  Updated: 2026-06-13T11:17:12Z
   Total Products: 376
 - [Pantofole Donna - Comfort e Stile per la Casa](https://www.fantasycalzature.com/collections/pantofole-donna): Scopri la nostra collezione di pantofole donna. Comfort, qualità e design per il tuo benessere quotidiano. Acquista ora!
   Updated: 2026-06-08T12:49:10Z
   Total Products: 5
 - [Borsa Donna - Eleganza & Stile per Ogni Occasione](https://www.fantasycalzature.com/collections/borsa-donna): Scopri la nostra collezione di Borse da Donna. Design unici e qualità superiore per il tuo look quotidiano. Acquista ora!
-  Updated: 2026-06-08T12:48:58Z
+  Updated: 2026-06-13T11:17:12Z
   Total Products: 521
 - [Borse a Mano da Donna - Eleganza e Stile](https://www.fantasycalzature.com/collections/borsa-a-mano-donna): Scopri la nostra collezione di borse a mano da donna. Stile unico e qualità superiore per il tuo look quotidiano.
   Updated: 2026-06-08T12:49:21Z
@@ -388,7 +388,7 @@
   Updated: 2026-06-08T12:48:59Z
   Total Products: 21
 - [Shopping Donna - Moda e Trend per Lei](https://www.fantasycalzature.com/collections/shopping-donna): Scopri la nostra Shopping Collection donna: capi alla moda, accessori chic e le ultime tendenze per il tuo stile unico.
-  Updated: 2026-06-08T12:48:59Z
+  Updated: 2026-06-13T11:17:12Z
   Total Products: 71
 - [Borsa a Spalla Donna | Eleganza & Funzionalità](https://www.fantasycalzature.com/collections/borsa-a-spalla-donna): Scopri la nostra collezione di Borse a Spalla Donna. Design unici per stile e comfort quotidiani. Acquista ora la tua preferita!
   Updated: 2026-06-08T12:49:06Z
@@ -514,16 +514,16 @@
   Updated: 2026-06-08T12:49:08Z
   Total Products: 2
 - [Ultimate Search - Do not delete](https://www.fantasycalzature.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best  items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2026-06-09T11:18:06Z
+  Updated: 2026-06-17T14:43:53Z
   Total Products: 2985
 - [Valigie e Trolley](https://www.fantasycalzature.com/collections/valigeria)
   Updated: 2026-04-20T22:04:53Z
   Total Products: 0
 - [PE26](https://www.fantasycalzature.com/collections/pe26): Scopri la nuova collezione Primavera/Estate 2026 di Fantasy Calzature e Accessori!Un mix di eleganza, tendenze e comfort, pensato per affrontare con stile la stagione calda.Ogni dettaglio è studiato per offrirti stile e raffinatezza in ogni occasione.Non perdere l’opportunità di rinnovare il tuo look con i nostri esclusivi modelli!
-  Updated: 2026-06-09T11:18:06Z
+  Updated: 2026-06-13T11:17:12Z
   Total Products: 468
 - [ARREDO CASA](https://www.fantasycalzature.com/collections/arredo-casa)
-  Updated: 2026-06-09T11:16:06Z
+  Updated: 2026-06-17T14:43:53Z
   Total Products: 82
 - [Occhiali](https://www.fantasycalzature.com/collections/occhiali): Occhiali e occhiali da sole a prezzi incredibili!
   Updated: 2026-06-09T11:17:22Z
@@ -584,6 +584,14 @@
     Updated: 2026-06-09T00:21:54Z
     Author: Fantasy
     Tags: calzature, calzature indispensabili guardaroba, calzature invernali, migliori scarpe per l'inverno, moda invernale, scarpe, scarpe donna, scarpe uomo, stivali
+  - [Guida Completa all'Acquisto delle Scarpe da Uomo Ideali](https://www.fantasycalzature.com/blogs/calzature/guida-completa-allacquisto-delle-scarpe-da-uomo-ideali): Guida Completa all'Acquisto delle Scarpe da Uomo Ideali
+    Updated: 2026-06-13T00:12:22Z
+    Author: Fantasy
+    Tags: acquisto scarpe, calzature, guida all'acquisto di calzature, moda, scarpe, scarpe da uomo ideali, scarpe donna, scarpe uomo, stili di calzature
+  - [Come Riconoscere Materiali di Qualità nelle Calzature](https://www.fantasycalzature.com/blogs/calzature/come-riconoscere-materiali-di-qualita-nelle-calzature): Come Riconoscere Materiali di Qualità nelle Calzature
+    Updated: 2026-06-16T00:22:40Z
+    Author: Fantasy
+    Tags: calzature, calzature durevoli, materiali unici, pelle, riconoscere materiali di qualità, scarpe, scarpe di qualità, scarpe donna, scarpe uomo, scegliere scarpe migliori
 - [Accessori Moda: Tendenze, Consigli e Idee di Stile | Fantasy Calzature](https://www.fantasycalzature.com/blogs/accessori-moda): Esplora le ultime tendenze in fatto di accessori moda: borse, cinture, gioielli e molto altro. Consigli di stile e guide all'acquisto dal team di Fantasy Calzature e Accessori.
   - [Borse alla moda per ogni occasione scopri gli stili più trendy](https://www.fantasycalzature.com/blogs/accessori-moda/borse-alla-moda-per-ogni-occasione-scopri-gli-stili-piu-trendy): Borse alla moda per ogni occasione scopri gli stili più trendy
     Updated: 2026-05-04T13:59:45Z
@@ -609,6 +617,14 @@
     Updated: 2026-06-04T00:08:27Z
     Author: Fantasy
     Tags: accessori, accessori per occhiali, borse, moda, occhiali, occhiali da vista, stili occhiali, tendenze moda, ultime novità occhiali
+  - [I Migliori Accessori Moda per Esaltare il Tuo Look Quotidiano](https://www.fantasycalzature.com/blogs/accessori-moda/i-migliori-accessori-moda-per-esaltare-il-tuo-look-quotidiano): I Migliori Accessori Moda per Esaltare il Tuo Look Quotidiano
+    Updated: 2026-06-11T00:05:48Z
+    Author: Fantasy
+    Tags: accessori, accessori moda, accessori per ogni occasione, borse, look quotidiano, moda, occhiali, stile, suggerimenti di stile, tendenze moda
+  - [La Storia delle Borse: Dai Modelli Iconici a Quelli Moderni](https://www.fantasycalzature.com/blogs/accessori-moda/la-storia-delle-borse-dai-modelli-iconici-a-quelli-moderni): La Storia delle Borse: Dai Modelli Iconici a Quelli Moderni
+    Updated: 2026-06-18T00:06:40Z
+    Author: Fantasy
+    Tags: accessori, borse, evoluzione della moda, moda, modelli iconici, occhiali, storia borse, sviluppo delle borse, tendenze moderne
 
 ## Store Pages
 
@@ -654,6 +670,8 @@
   Updated: 2026-04-22T08:29:38Z
 - [Magazine](https://www.fantasycalzature.com/pages/magazine)
   Updated: 2026-04-30T11:50:00Z
+- [DIritto di recesso](https://www.fantasycalzature.com/pages/diritto-di-recesso)
+  Updated: 2026-06-15T10:45:37Z
 
 ## Policies
 
