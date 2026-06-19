@@ -6,12 +6,12 @@
 - Timezone: America/Detroit
 - Created At: 2026-05-16T10:20:43Z
 - Contact Email: mwltrs.111@yahoo.com
-- Updated At: 2026-06-11T00:00:36.101Z
+- Updated At: 2026-06-19T00:00:39.222Z
 
 ## Products
 
 - [USB RGBIC LED Strip Lights for PC Monitor, App Controlled Gaming](https://pixxelcore.myshopify.com/products/usb-rgbic-led-strip-lights-for-pc-monitor-app-controlled-gaming-backlight-with-music-sync-24-to-34-inch-computer-screen-led-lighting-for-gaming-room-decor): FOR PC USE ONLY USB Powered RGBIC LED Strip LightingYou power the LED strip using a standard USB  - Pixxel Core USB RGBIC LED Strip Lights for PC Monitor, App Controlled Gaming Backlight with Music
-  Updated: 2026-06-10T22:27:56Z
+  Updated: 2026-06-15T17:54:42Z
   Vendor: NSD Gaming Supply
   Product Type: 
   Availability: Available
@@ -40,14 +40,14 @@
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/578cdbcf3c0fb6e938af2ae366afeddc.jpg?v=1779296204
   Price: $69.99 USD
 - [XVX M67 JadeStone Stellar White VIA Tri-Mode Mechanical Keyboard with](https://pixxelcore.myshopify.com/products/xvx-m67-jadestone-stellar-white-via-tri-mode-mechanical-keyboard-with-imd-tech-keycaps): Specifications Model: XVX M67 JadeStone Stellar White Keycap: IMD Topographic pattern and legend  - Pixxel Core XVX M67 JadeStone Stellar White VIA Tri-Mode Mechanical Keyboard with IMD-Tech Keycaps
-  Updated: 2026-06-10T23:08:16Z
+  Updated: 2026-06-18T21:13:42Z
   Vendor: XVX Keyboard Channel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/3_1367867e-9f3c-4253-991c-6fd3a0348064.jpg?v=1779296573
   Price: $59.99 USD
 - [XVX M67 Miami VIA Tri-Mode Mechanical Keyboard with IMD-Tech Keycaps -](https://pixxelcore.myshopify.com/products/xvx-m67-miami-via-tri-mode-mechanical-keyboard-with-imd-tech-keycaps): Specifications Model: XVX M67 Miami Total Keys: 67 keys Case Material:  Plastics Keyboard Layout: US  - Pixxel Core XVX M67 Miami VIA Tri-Mode Mechanical Keyboard with IMD-Tech Keycaps
-  Updated: 2026-06-07T03:06:09Z
+  Updated: 2026-06-17T07:02:09Z
   Vendor: XVX Keyboard Channel
   Product Type: Keyboard
   Availability: Available
@@ -67,383 +67,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/837637586628.jpg?v=1779297000
   Price: $69.99 USD
-- [Computer Sofa Chair Office Gaming - Pixxel Core Furniture 2026](https://pixxelcore.myshopify.com/products/lazy-computer-sofa-chair-home-comfortable-sedentary-backrest-desk-bedroom-lazy-office-ergonomic-designer-game-chair-furniture): Relax in comfort while working or gaming with Lazy Computer  Chair. SpecificationsType: Computer  - Pixxel Core Computer Sofa Chair Office Gaming
-  Updated: 2026-06-10T23:48:50Z
-  Vendor: OBA
-  Product Type: Furniture
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/sample_product_2_de0f00a3-e65b-403c-b3f4-e40563ba6922.png?v=1779658387
-  Price: $722.46 USD
-- [beFree Sound Dual Compact LED Gaming Speakers - Pixxel Core](https://pixxelcore.myshopify.com/products/befree-sound-dual-compact-led-gaming-speakers): Elevate your gaming experience with the beFree Sound Color LED Gaming Speakers. Add colorful lights  - Pixxel Core beFree Sound Dual Compact LED Gaming Speakers
-  Updated: 2026-06-07T03:06:12Z
-  Vendor: BEFREE SOUND
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/BFS-N115__21791.1694809468.1280.1280.jpg?v=1779658392
-  Price: $50.62 USD
-- [GameFitz Gaming Chair in Black - Pixxel Core Gaming Accessories 2026](https://pixxelcore.myshopify.com/products/gamefitz-gaming-chair-in-black): Enhance your gaming set up with the GameFitz Gaming Chair in Black. This chair features both a head  - Pixxel Core GameFitz Gaming Chair in Black
-  Updated: 2026-06-07T06:21:07Z
-  Vendor: Gamefitz
-  Product Type: Gaming Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/GF-2001__77570.1694810188.1280.1280.jpg?v=1779658400
-  Price: $228.49 USD
-- [55 Inch Gaming Desk With LED Lights - Pixxel Core Desk 2026](https://pixxelcore.myshopify.com/products/55-inch-gaming-desk-with-led-lights-computer-desk-with-storage-shelves-reversible-desk-with-monitor-stand-carbon-fiber-black): Elevate your gaming and workspace with a 55-inch gaming desk that blends immersive LED ambience,  - Pixxel Core 55 Inch Gaming Desk With LED Lights
-  Updated: 2026-06-10T01:03:26Z
-  Vendor: ShipItFurniture
-  Product Type: Desk
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/784a81ea17fabc0770caf76bd7670ab8.jpg?v=1779658385
-  Price: $130.00 USD
-- [Blue Gaming Chair with Pocket Spring Cushion and Cooling Gel Pad -](https://pixxelcore.myshopify.com/products/blue-gaming-chair-with-pocket-spring-cushion-for-long-gaming-sessions): Stay comfortable during long sessions with the Blue Gaming Chair featuring pocket spring cushioning and a cooling gel pad for optimal support and temperature control.
-  Updated: 2026-06-10T13:12:01Z
-  Vendor: ShipItFurniture
-  Product Type: Furniture
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/4f93c25f753099b99ac69b237b0e7acf.jpg?v=1779658405
-  Price: $219.99 USD
-- [47 Inch RGB Gaming Desk For Home Office And Gaming Setup - Pixxel Core](https://pixxelcore.myshopify.com/products/gaming-desk-with-6-drawers-computer-desk-with-led-lights-power-outlets-and-type-c-47-inch-office-desk-with-storage-monitor-stand-writing-desk-work-desk-home-office-bedroom-study-black): Elevate your gaming and work setup with a 47-inch RGB gaming desk that blends high-performance  - Pixxel Core 47 Inch RGB Gaming Desk For Home Office And Gaming Setup
-  Updated: 2026-06-10T01:46:29Z
-  Vendor: ShipItFurniture
-  Product Type: Desks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/642e61517ffbfcaec20eaff5089bca1a.jpg?v=1779658409
-  Price: $159.99 USD
-- [Carabux USB4 Thunderbolt Enclosure With Cooling Fan - Tool-Free 40Gbps](https://pixxelcore.myshopify.com/products/carabux-usb4-thunderbolt-enclosure-with-cooling-fan-tool-free-40gbps-ssd-case-for-m2-2280-nvme-drives): Experience High-Speed Data Transfer with the USB4  Enclosure With Cooling Fan The USB4  - Pixxel Core Carabux USB4 Thunderbolt Enclosure With Cooling Fan - Tool-Free 40Gbps SSD Case for M.2 2280 NVMe
-  Updated: 2026-06-10T14:06:31Z
-  Vendor: Carabux
-  Product Type: usb enclosure
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/CARABUX_USB411.jpg?v=1780799946
-  Price: $52.79 USD
-- [Retro Punk Mechanical Gaming Keyboard RGB Backlit - Pixxel Core](https://pixxelcore.myshopify.com/products/retro-punk-mechanical-gaming-keyboard-rgb-backlit): Elevate your gaming experience with the NNEOBA Retro Punk Mechanical Keyboard. Featuring vibrant RGB  - Pixxel Core Retro Punk Mechanical Gaming Keyboard RGB Backlit
-  Updated: 2026-06-10T23:48:37Z
-  Vendor: OBA
-  Product Type: Computers & Laptops > Computer Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/Retro-Punk-Mechanical-Keyboard-Blue-Black-Brown-Switch-104-Keys-USB-Wired-Gaming-Keyboards-RGB-Backlit_ee5fca6f-bfa6-4d6b-85a5-8316f1c0fd84.webp?v=1780799998
-  Price: $89.53 USD
-- [Ultimate Gaming and Office Keyboard and Mouse Set with Mechanical](https://pixxelcore.myshopify.com/products/ultimate-gaming-and-office-keyboard-and-mouse-set-with-mechanical-touch-and-headset-wired): Enhnce your gming nd office experience with our feture-pcked Keybord nd Mouse Set, including  - Pixxel Core Ultimate Gaming and Office Keyboard and Mouse Set with Mechanical Touch and Headset - Wired
-  Updated: 2026-06-10T23:52:17Z
-  Vendor: TM
-  Product Type: Electronics > Computer Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/e75c576915b00b89eda8b6549cb179ed-PhotoRoom.png-PhotoRoom.png?v=1780800072
-  Price: $129.67 USD
-- [Tri-Mode RGB Gaming Mouse with Magnetic Charging Base - Pixxel Core](https://pixxelcore.myshopify.com/products/tri-mode-rgb-gaming-mouse-with-magnetic-charging-base): Elevate your gaming with NNEOBA X6 RGB Tri-Mode Mouse and magnetic base. Specifications: Model: X6  - Pixxel Core Tri-Mode RGB Gaming Mouse with Magnetic Charging Base
-  Updated: 2026-06-10T23:48:37Z
-  Vendor: OBA
-  Product Type: Electronics > Computer Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/X6-PAW3395-Bluetooth-Mouse-Tri-Mode-Connection-RGB-Touch-Magnetic-Charging-Base-Macro-Gaming-Mouse_56ef80f3-439d-441d-aa17-3cba0c60f67b.webp?v=1780800090
-  Price: $96.32 USD
-- [3D VR Glasses with Smart Goggles for Smartphones - Pixxel Core](https://pixxelcore.myshopify.com/products/3d-vr-glasses-with-smart-goggles-for-smartphones): Experience immersive 3D gaming and movies with NNEOBA VR Glasses. Enjoy panoramic views, adjustable  - Pixxel Core 3D VR Glasses with Smart Goggles for Smartphones
-  Updated: 2026-06-10T23:50:10Z
-  Vendor: TM
-  Product Type: Electronics > Computer Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/VR-Glasses-Virtual-Reality-Headset-Viar-Devices-Helmet-3D-Lenses-Smart-Goggles-For-Smartphones-Phone-Mobile.webp?v=1780800097
-  Price: $105.59 USD
-- [Wireless Gaming Mouse 8K Polling RGB Dock - Pixxel Core Electronics >](https://pixxelcore.myshopify.com/products/wireless-gaming-mouse-8k-polling-rgb-dock): Lightweight, ergonomic design for right-handed gamers with 8K polling rate and RGB magnetic charging  - Pixxel Core Wireless Gaming Mouse 8K Polling RGB Dock
-  Updated: 2026-06-10T23:49:55Z
-  Vendor: OBA
-  Product Type: Electronics > Computer Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/Delux-M900PRO-Wireless-Gaming-Mouse-Ergonomic-8K-Polling-Rate-PAW3395-63g-Magnetic-RGB-Charging-Dock-for_4c791291-c34a-4926-bc9d-495ab3b72f71.webp?v=1780800099
-  Price: $129.67 USD
-- [Essential Wired Gaming Mouse 6400DPI with 5 Buttons - Pixxel Core](https://pixxelcore.myshopify.com/products/essential-wired-gaming-mouse-6400dpi-with-5-buttons): Upgrade your gaming experience with NNEOBA’s 6400DPI wired gaming mouse, featuring 5 programmable  - Pixxel Core Essential Wired Gaming Mouse 6400DPI with 5 Buttons
-  Updated: 2026-06-10T23:48:34Z
-  Vendor: OBA
-  Product Type: Electronics > Computer Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/Original-Razer-DeathAdder-Essential-Wired-Gaming-Mouse-Mice-6400DPI-Optical-Sensor-5-Independently-Buttons-For-Laptop_db4e647e-85f2-416a-b34a-3441db4f4f78.webp?v=1780800111
-  Price: $72.86 USD
-- [Multifunctional Gaming  With Integrated LED Lighting - Pixxel Core](https://pixxelcore.myshopify.com/products/multifunctional-gaming-desk-with-integrated-led-lighting): Light up your gameplay and streamline your setup with a multifunctional gaming desk designed for  - Pixxel Core Multifunctional Gaming Desk With Integrated LED Lighting
-  Updated: 2026-06-10T14:23:21Z
-  Vendor: ShipItFurniture
-  Product Type: Desk
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/9c0c10eec5ababafe4fb38b3d3cec76c.jpg?v=1780800244
-  Price: $122.31 USD
-- [ 3D Style Gaming Keyboard Mat - Pixxel Core Keyboard Mat 2026](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat): Limited Edition Keyboard Mat Exclusive QcK micro-woven cloth for maximum control Optimized for low  - Pixxel Core  3D Style Gaming Keyboard Mat
-  Updated: 2026-06-07T14:44:11Z
-  Vendor: MAOKEI
-  Product Type: Keyboard Mat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/maokei--3d-style-gaming-keyboard-mat-1005004194451860-6-29x25cm-102563.jpg?v=1780800247
-  - [29x25CM](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521559941174)
-    Availability: Available
-    Price: $33.05 USD
-  - [300X800X2MM](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521559973942)
-    Availability: Available
-    Price: $30.62 USD
-  - [400x800x2mm](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521560006710)
-    Availability: Available
-    Price: $34.23 USD
-  - [400x900x3mm](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521560039478)
-    Availability: Available
-    Price: $36.28 USD
-  - [300X600X2MM](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521560072246)
-    Availability: Available
-    Price: $25.13 USD
-  - [400x700x2mm](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521560105014)
-    Availability: Available
-    Price: $34.28 USD
-  - [400x800x3mm](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521560137782)
-    Availability: Available
-    Price: $34.81 USD
-  - [350X600X2MM](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521560170550)
-    Availability: Available
-    Price: $33.31 USD
-  - [300x700x2mm](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521560203318)
-    Availability: Available
-    Price: $31.33 USD
-  - [400x900x2mm](https://pixxelcore.myshopify.com/products/-3d-style-gaming-keyboard-mat?variant=46521560236086)
-    Availability: Available
-    Price: $36.40 USD
-- [Pink Ergonomic Gaming Chair With Adjustable Lumbar Support - Pixxel](https://pixxelcore.myshopify.com/products/pink-ergonomic-gaming-chair-with-adjustable-lumbar-support): Level up your comfort and performance with the N-GEN Ergonomic Gaming Chair in a bold pink PU  - Pixxel Core Pink Ergonomic Gaming Chair With Adjustable Lumbar Support
-  Updated: 2026-06-10T12:27:18Z
-  Vendor: ShipItFurniture
-  Product Type: n/a
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/fd036688d2717132dd0196d8df958da6.jpg?v=1780800264
-  Price: $94.99 USD
-- [Large Gaming Desk with Pegboard and Cable Management - Pixxel Core n/a](https://pixxelcore.myshopify.com/products/large-gaming-desk-with-pegboard-and-cable-management): Elevate your gaming setup with the Large Gaming Desk with Pegboard and Cable Management, a premium  - Pixxel Core Large Gaming Desk with Pegboard and Cable Management
-  Updated: 2026-06-10T14:29:30Z
-  Vendor: ShipItFurniture
-  Product Type: n/a
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/large-gaming-desk-with-pegboard-and-cable-management-6416425.jpg?v=1780800294
-  Price: $649.99 USD
-- [Funny Playstation Gaming Decal for Car & Truck Windows](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows): The More You Play With It Playstation Video Games
-  Updated: 2026-06-07T14:45:12Z
-  Vendor: Rad Dezigns
-  Product Type: Automotive > Decals & Magnets > Window Decals
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Purple_9227.jpg?v=1780800308
-  - [5in X 4in / White](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562136630)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_White_4186.jpg?v=1780800308
-    Price: $4.35 USD
-  - [5in X 4in / Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562169398)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Black_3337.jpg?v=1780800308
-    Price: $4.35 USD
-  - [5in X 4in / Matte Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562202166)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Matte_Black_1784.jpg?v=1780800309
-    Price: $4.35 USD
-  - [5in X 4in / Silver](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562234934)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Silver_6602.jpg?v=1780800309
-    Price: $4.35 USD
-  - [5in X 4in / Pink](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562267702)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Pink_5584.jpg?v=1780800310
-    Price: $4.35 USD
-  - [5in X 4in / Yellow](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562300470)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Yellow_4270.jpg?v=1780800311
-    Price: $4.35 USD
-  - [5in X 4in / Red](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562333238)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Red_1963.jpg?v=1780800311
-    Price: $4.35 USD
-  - [5in X 4in / Purple](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562366006)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Purple_9227.jpg?v=1780800308
-    Price: $4.35 USD
-  - [6in X 4.8in / White](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562398774)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_White_4186.jpg?v=1780800308
-    Price: $4.64 USD
-  - [6in X 4.8in / Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562431542)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Black_3337.jpg?v=1780800308
-    Price: $4.64 USD
-  - [6in X 4.8in / Matte Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562464310)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Matte_Black_1784.jpg?v=1780800309
-    Price: $4.64 USD
-  - [6in X 4.8in / Silver](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562497078)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Silver_6602.jpg?v=1780800309
-    Price: $4.64 USD
-  - [6in X 4.8in / Pink](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562529846)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Pink_5584.jpg?v=1780800310
-    Price: $4.64 USD
-  - [6in X 4.8in / Yellow](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562562614)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Yellow_4270.jpg?v=1780800311
-    Price: $4.64 USD
-  - [6in X 4.8in / Red](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562595382)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Red_1963.jpg?v=1780800311
-    Price: $4.64 USD
-  - [6in X 4.8in / Purple](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562628150)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Purple_9227.jpg?v=1780800308
-    Price: $4.64 USD
-  - [8in X 6.4in / White](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562660918)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_White_4186.jpg?v=1780800308
-    Price: $5.43 USD
-  - [8in X 6.4in / Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562693686)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Black_3337.jpg?v=1780800308
-    Price: $5.43 USD
-  - [8in X 6.4in / Matte Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562726454)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Matte_Black_1784.jpg?v=1780800309
-    Price: $5.43 USD
-  - [8in X 6.4in / Silver](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562759222)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Silver_6602.jpg?v=1780800309
-    Price: $5.43 USD
-  - [8in X 6.4in / Pink](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562791990)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Pink_5584.jpg?v=1780800310
-    Price: $5.43 USD
-  - [8in X 6.4in / Yellow](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562824758)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Yellow_4270.jpg?v=1780800311
-    Price: $5.43 USD
-  - [8in X 6.4in / Red](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562857526)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Red_1963.jpg?v=1780800311
-    Price: $5.43 USD
-  - [8in X 6.4in / Purple](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562890294)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Purple_9227.jpg?v=1780800308
-    Price: $5.43 USD
-  - [10in X 8.0in / White](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562923062)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_White_4186.jpg?v=1780800308
-    Price: $7.00 USD
-  - [10in X 8.0in / Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562955830)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Black_3337.jpg?v=1780800308
-    Price: $7.00 USD
-  - [10in X 8.0in / Matte Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521562988598)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Matte_Black_1784.jpg?v=1780800309
-    Price: $7.00 USD
-  - [10in X 8.0in / Silver](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563021366)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Silver_6602.jpg?v=1780800309
-    Price: $7.00 USD
-  - [10in X 8.0in / Pink](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563054134)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Pink_5584.jpg?v=1780800310
-    Price: $7.00 USD
-  - [10in X 8.0in / Yellow](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563086902)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Yellow_4270.jpg?v=1780800311
-    Price: $7.00 USD
-  - [10in X 8.0in / Red](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563119670)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Red_1963.jpg?v=1780800311
-    Price: $7.00 USD
-  - [10in X 8.0in / Purple](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563152438)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Purple_9227.jpg?v=1780800308
-    Price: $7.00 USD
-  - [12in X 9.6in / White](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563185206)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_White_4186.jpg?v=1780800308
-    Price: $10.42 USD
-  - [12in X 9.6in / Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563217974)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Black_3337.jpg?v=1780800308
-    Price: $10.42 USD
-  - [12in X 9.6in / Matte Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563250742)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Matte_Black_1784.jpg?v=1780800309
-    Price: $10.42 USD
-  - [12in X 9.6in / Silver](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563283510)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Silver_6602.jpg?v=1780800309
-    Price: $10.42 USD
-  - [12in X 9.6in / Pink](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563316278)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Pink_5584.jpg?v=1780800310
-    Price: $10.42 USD
-  - [12in X 9.6in / Yellow](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563349046)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Yellow_4270.jpg?v=1780800311
-    Price: $10.42 USD
-  - [12in X 9.6in / Red](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563381814)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Red_1963.jpg?v=1780800311
-    Price: $10.42 USD
-  - [12in X 9.6in / Purple](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563414582)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Purple_9227.jpg?v=1780800308
-    Price: $10.42 USD
-  - [14in X 11.2in / White](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563447350)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_White_4186.jpg?v=1780800308
-    Price: $12.74 USD
-  - [14in X 11.2in / Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563480118)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Black_3337.jpg?v=1780800308
-    Price: $12.74 USD
-  - [14in X 11.2in / Matte Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563512886)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Matte_Black_1784.jpg?v=1780800309
-    Price: $12.74 USD
-  - [14in X 11.2in / Silver](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563545654)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Silver_6602.jpg?v=1780800309
-    Price: $12.74 USD
-  - [14in X 11.2in / Pink](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563578422)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Pink_5584.jpg?v=1780800310
-    Price: $12.74 USD
-  - [14in X 11.2in / Yellow](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563611190)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Yellow_4270.jpg?v=1780800311
-    Price: $12.74 USD
-  - [14in X 11.2in / Red](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563643958)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Red_1963.jpg?v=1780800311
-    Price: $12.74 USD
-  - [14in X 11.2in / Purple](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563676726)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Purple_9227.jpg?v=1780800308
-    Price: $12.74 USD
-  - [16in X 12.8in / White](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563709494)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_White_4186.jpg?v=1780800308
-    Price: $14.94 USD
-  - [16in X 12.8in / Black](https://pixxelcore.myshopify.com/products/funny-playstation-gaming-decal-for-car-truck-windows?variant=46521563742262)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/12553_Black_3337.jpg?v=1780800308
-    Price: $14.94 USD
-- [beFree Sound Color LED 2.1 Gaming Speaker System - Pixxel Core](https://pixxelcore.myshopify.com/products/befree-sound-color-led-21-gaming-speaker-system): Immerse yourself into gameplay or relax with some casual downtime with this set up. With a high  - Pixxel Core beFree Sound Color LED 2.1 Gaming Speaker System
-  Updated: 2026-06-10T14:32:55Z
-  Vendor: BEFREE SOUND
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/BFS-S500__00020.1694809486.1280.1280.jpg?v=1780800310
-  Price: $60.11 USD
-- [White 47Inch Premium Grade Gaming  With Pegboard - Pixxel Core](https://pixxelcore.myshopify.com/products/white-47inch-premium-grade-gaming-desk-with-pegboard): Maximize focus and organization with a 47-inch white premium desk designed for work, study, and  - Pixxel Core White 47Inch Premium Grade Gaming Desk With Pegboard
-  Updated: 2026-06-10T13:48:29Z
-  Vendor: ShipItFurniture
-  Product Type: Desk
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/28b379d8221655bc86195634b166f3f7.jpg?v=1780800341
-  Price: $155.59 USD
-- [57Inch Workstation  With Music Sync LED Pro Gaming - Pixxel Core](https://pixxelcore.myshopify.com/products/57inch-workstation-desk-with-music-sync-led-pro-gaming): Turn your gaming setup into a commanding command center with the 57-Inch Workstation Desk featuring  - Pixxel Core 57Inch Workstation Desk With Music Sync LED Pro Gaming
-  Updated: 2026-06-10T13:06:44Z
-  Vendor: ShipItFurniture
-  Product Type: Desk
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/950e5966a884e85b6544a7aa20549910.jpg?v=1780800404
-  Price: $87.95 USD
 - [Handheld Game Console for Kids/Adults X12 Pro - Pixxel Core Video](https://pixxelcore.myshopify.com/products/handheld-game-console-for-kids-adults-x12-pro): Experience endless entertainment with the Handheld Game Console for Kids/Adults X12 Pro, the  - Pixxel Core Handheld Game Console for Kids/Adults X12 Pro
-  Updated: 2026-06-10T07:05:23Z
+  Updated: 2026-06-17T07:07:45Z
   Vendor: DailySale
   Product Type: Video Games & Consoles
   Availability: Available
@@ -457,18 +82,22 @@
     Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/handheld-game-console-for-kidsadults-x12-pro-video-games-consoles-red-dailysale-366229.jpg?v=1780800611
     Price: $70.00 USD
 - [N64 Nintendo 64 Video Game Cartridge Collection - Pixxel Core  2026](https://pixxelcore.myshopify.com/products/n64-nintendo-64-video-game-cartridge-collection): Nintendo 64 huge video game collection! All games are NTSC USA Version. 50 different games in total!  - Pixxel Core N64 Nintendo 64 Video Game Cartridge Collection
-  Updated: 2026-06-07T14:51:30Z
+  Updated: 2026-06-18T19:17:29Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/Nintendo_64_Video_Game_Collection_Gold_Zelda.jpg?v=1780800686
-  - [Wrestlemania 2000](https://pixxelcore.myshopify.com/products/n64-nintendo-64-video-game-cartridge-collection?variant=46521567805494)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20260128_161314_4e9e312f-2342-40f4-bd7c-035c7e2654ed.jpg?v=1780800687
-    Price: $21.99 USD
+  - [Worms Armageddon](https://pixxelcore.myshopify.com/products/n64-nintendo-64-video-game-cartridge-collection?variant=46521571016758)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20250909_141520_c886db56-0fa2-4439-9b32-22d3a7beeeb0.jpg?v=1780800686
+    Price: $22.99 USD
   - [Yoshi's Story](https://pixxelcore.myshopify.com/products/n64-nintendo-64-video-game-cartridge-collection?variant=46521567838262)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20250513_205153_22f9b6bd-9f26-435a-aa3a-cf1acbfe5468.jpg?v=1780800687
+    Price: $21.99 USD
+  - [Wrestlemania 2000](https://pixxelcore.myshopify.com/products/n64-nintendo-64-video-game-cartridge-collection?variant=46521567805494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20260128_161314_4e9e312f-2342-40f4-bd7c-035c7e2654ed.jpg?v=1780800687
     Price: $21.99 USD
   - [007 The World is Not Enough](https://pixxelcore.myshopify.com/products/n64-nintendo-64-video-game-cartridge-collection?variant=46521567871030)
     Availability: Not Available
@@ -658,19 +287,15 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/UTF-820250419_180826_3745d84e-4aef-4974-a562-cce172778b01.jpg?v=1780800686
     Price: $23.99 USD
-  - [Mario Tennis](https://pixxelcore.myshopify.com/products/n64-nintendo-64-video-game-cartridge-collection?variant=46521569411126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/Mario_Tennis_Video_Game_Cartridge.jpg?v=1780800686
-    Price: $22.99 USD
 - [Pokemon Platinum NDS Video Game Cartridge Nintendo DS 2008 - Pixxel](https://pixxelcore.myshopify.com/products/pokemon-platinum-nds-video-game-cartridge-nintendo-ds-2008): Nintendo DS non oem reproduction Pokemon Platinum video game cartridge. Game cartridge comes with a  - Pixxel Core Pokemon Platinum NDS Video Game Cartridge Nintendo DS 2008
-  Updated: 2026-06-07T14:51:51Z
+  Updated: 2026-06-17T20:28:18Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/PokemonPlatinumVideoGame.jpg?v=1780800707
   Price: $22.99 USD
 - [Pokemon Emerald GBA Video Game Cartridge Game Boy Advance 2005 -](https://pixxelcore.myshopify.com/products/pokemon-emerald-gba-video-game-cartridge-game-boy-advance-2005): Gmeboy Advnce non oem reproduction Pokemon Emerld video gme crtridge. Gme crtridge comes with  - Pixxel Core Pokemon Emerald GBA Video Game Cartridge Game Boy Advance 2005
-  Updated: 2026-06-10T23:23:56Z
+  Updated: 2026-06-17T20:28:18Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
@@ -684,21 +309,21 @@
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/Pokemon_Crystal_Video_Game_ba64920f-0dbe-41db-b96a-b78c78114422.jpg?v=1780800724
   Price: $13.00 USD
 - [Pokemon Black Version 2 NDS Video Game Cartridge Nintendo DS 2012 -](https://pixxelcore.myshopify.com/products/pokemon-black-version-2-nds-video-game-cartridge-nintendo-ds-2012): Nintendo DS non oem reproduction Pokemon Black 2 video game cartridge. Game cartridge comes with a  - Pixxel Core Pokemon Black Version 2 NDS Video Game Cartridge Nintendo DS 2012
-  Updated: 2026-06-09T19:47:46Z
+  Updated: 2026-06-17T12:48:52Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20250220_163634.jpg?v=1780800740
   Price: $31.99 USD
 - [Pokemon Black Version 1 NDS Video Game Cartridge Nintendo DS 2011 -](https://pixxelcore.myshopify.com/products/pokemon-black-version-1-nds-video-game-cartridge-nintendo-ds-2011): Nintendo DS non oem reproduction Pokemon Black 1 video game cartridge. Game cartridge comes with a  - Pixxel Core Pokemon Black Version 1 NDS Video Game Cartridge Nintendo DS 2011
-  Updated: 2026-06-07T14:52:35Z
+  Updated: 2026-06-16T14:37:17Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20250220_163531.jpg?v=1780800752
   Price: $31.99 USD
 - [Pokemon Emerald FireRed Ruby Sapphire GBA Video Game French German -](https://pixxelcore.myshopify.com/products/pokemon-emerald-firered-ruby-sapphire-gba-video-game-french-german): For  are non oem reproduction of the 5 classic Pokemon games for the GBA, fully translated in  - Pixxel Core Pokemon Emerald FireRed Ruby Sapphire GBA Video Game French German
-  Updated: 2026-06-08T12:48:47Z
+  Updated: 2026-06-12T21:58:23Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
@@ -800,28 +425,28 @@
     Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20240706_151927.jpg?v=1780800770
     Price: $54.00 USD
 - [Pokemon White Version 1 NDS Video Game Cartridge Nintendo DS 2011 -](https://pixxelcore.myshopify.com/products/pokemon-white-version-1-nds-video-game-cartridge-nintendo-ds-2011): Nintendo DS non oem reproduction Pokemon White 1 video game cartridge. Game cartridge comes with a  - Pixxel Core Pokemon White Version 1 NDS Video Game Cartridge Nintendo DS 2011
-  Updated: 2026-06-07T14:53:01Z
+  Updated: 2026-06-16T03:31:02Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20250220_163722.jpg?v=1780800777
   Price: $31.99 USD
 - [Pokemon White Version 2 NDS Video Game Cartridge Nintendo DS 2012 -](https://pixxelcore.myshopify.com/products/pokemon-white-version-2-nds-video-game-cartridge-nintendo-ds-2012): Nintendo DS non oem reproduction Pokemon White 2 video game cartridge. Game cartridge comes with a  - Pixxel Core Pokemon White Version 2 NDS Video Game Cartridge Nintendo DS 2012
-  Updated: 2026-06-07T14:53:08Z
+  Updated: 2026-06-18T14:38:36Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20250220_164140.jpg?v=1780800783
   Price: $31.99 USD
 - [Pokemon FireRed Rocket GBA ROM Hack Video Game Cartridge Custom -](https://pixxelcore.myshopify.com/products/pokemon-firered-rocket-gba-rom-hack-video-game-cartridge-custom): Instead of playing the main character Red or Green, you play as a Team Rocket grunt. That’s right,  - Pixxel Core Pokemon FireRed Rocket GBA ROM Hack Video Game Cartridge Custom
-  Updated: 2026-06-07T14:53:13Z
+  Updated: 2026-06-16T22:36:17Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/Pokemon_FireRed_Rocket_Video_Game_c1f8d676-9c1c-450d-b7a4-f2d1236cf4f2.jpg?v=1780800789
   Price: $19.49 USD
 - [Pokemon Unbound GBA ROM Hack Video Game Custom Gameboy Advance -](https://pixxelcore.myshopify.com/products/pokemon-unbound-gba-rom-hack-video-game-custom-gameboy-advance): This is version 2.1.1.1 Pokémon Unbound is filled with many features like difficulty settings, A new  - Pixxel Core Pokemon Unbound GBA ROM Hack Video Game Custom Gameboy Advance
-  Updated: 2026-06-08T12:29:37Z
+  Updated: 2026-06-15T17:50:13Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
@@ -835,7 +460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/20260131_150432.jpg?v=1780800808
   Price: $13.00 USD
 - [Legend of Zelda 7 in 1 Collection GBA Video Game Boy Advance Cartidge](https://pixxelcore.myshopify.com/products/legend-of-zelda-7-in-1-collection-gba-video-game-boy-advance-cartidge): For  is a 7 in 1 Legend of Zelda GBA game cartridge. This amazing collection of classic Zelda  - Pixxel Core Legend of Zelda 7 in 1 Collection GBA Video Game Boy Advance Cartidge
-  Updated: 2026-06-07T14:53:52Z
+  Updated: 2026-06-16T13:48:25Z
   Vendor: VintageVideoGameStore
   Product Type: 
   Availability: Available
@@ -1010,7 +635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/2434/2838/files/S30b9d8a10a9543b6ad1c07aff1bcd29da.webp?v=1780801451
     Price: $38.99 USD
 - [Wired Gaming Keyboard & Mouse Combo - 104-Key Anti-Ghosting RGB](https://pixxelcore.myshopify.com/products/wired-gaming-keyboard-mouse-combo-104-key-anti-ghosting-rgb-backlight): Built for fast-paced gaming and everyday performance, the Wired Gaming Keyboard &amp; Mouse Combo  - Pixxel Core Wired Gaming Keyboard & Mouse Combo - 104-Key Anti-Ghosting RGB Backlight
-  Updated: 2026-06-07T15:04:31Z
+  Updated: 2026-06-12T17:00:19Z
   Vendor: Zerodamage Sahara Case LLC
   Product Type: Desk Accessories
   Availability: Available
@@ -1208,25 +833,25 @@
 ## Collections
 
 - [Featured Products - Pixxel Core](https://pixxelcore.myshopify.com/collections/featured-products): - Pixxel Core
-  Updated: 2026-06-10T23:48:51Z
+  Updated: 2026-06-17T23:48:00Z
   Total Products: 9
 - [Electronics and Accessories example products - Pixxel Core](https://pixxelcore.myshopify.com/collections/electronics-and-accessories-example-products): - Pixxel Core
   Updated: 2026-06-10T04:47:15Z
   Total Products: 15
 - [All Products - Pixxel Core](https://pixxelcore.myshopify.com/collections/all-products): All Products - Pixxel Core
-  Updated: 2026-06-10T23:52:18Z
+  Updated: 2026-06-17T23:50:50Z
   Total Products: 63
 - [PC Tech | Accessories, Keyboards, Mice & More - Pixxel Core](https://pixxelcore.myshopify.com/collections/pc-tech-accessories-keyboards-mice-more): Upgrade your setup with the latest PC tech, high-performance accessories, and must-have desk  - Pixxel Core
-  Updated: 2026-06-10T23:50:24Z
+  Updated: 2026-06-17T23:49:40Z
   Total Products: 7
 - [Furniture - Pixxel Core](https://pixxelcore.myshopify.com/collections/furniture): - Pixxel Core
-  Updated: 2026-06-10T23:48:51Z
+  Updated: 2026-06-17T23:48:00Z
   Total Products: 10
 - [Keyboards | Mice - Pixxel Core](https://pixxelcore.myshopify.com/collections/keyboards-mice): - Pixxel Core
-  Updated: 2026-06-10T23:52:18Z
+  Updated: 2026-06-17T23:49:53Z
   Total Products: 18
 - [Consoles | Controllers - Pixxel Core](https://pixxelcore.myshopify.com/collections/consoles-controllers): - Pixxel Core
-  Updated: 2026-06-10T23:50:11Z
+  Updated: 2026-06-17T23:50:50Z
   Total Products: 8
 
 ## Blogs
