@@ -6,7 +6,7 @@
 - Timezone: Africa/Dakar
 - Created At: 2026-04-24T07:54:06Z
 - Contact Email: comservicess3@gmail.com
-- Updated At: 2026-06-12T00:00:26.855Z
+- Updated At: 2026-06-19T00:00:35.192Z
 
 ## Products
 
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/LesMysteresCachesd_Ayatal-Kursi.png?v=1777240133
   Price: €6.99 EUR
 - [Les 99 Versets pour le Rizq](https://islamcity.fr/products/les-99-versets-pour-le-rizq): Les 99 Versets pour le Rizq Ouvrez les portes de votre subsistance grâce à la puissance des versets du Coran. Vous ressentez des blocages dans votre vie financière ? Malgré vos efforts, les résultats tardent à venir ? Il est temps d'agir autrement… en revenant à la source la plus puissante : la parole d’Allah. Une méthode spirituelle simple et puissante Ce livre vous guide pas à pas pour utiliser 99 versets puissants afin d’attirer la baraka, lever les blocages et améliorer votre rizq. Ce que vous allez découvrir : ✔ 99 versets sur le rizq (arabe + phonétique + traduction) ✔ Des méthodes simples à appliquer immédiatement ✔ Des routines spirituelles efficaces (matin et soir) ✔ Des clés pour attirer l’abondance et la bénédiction ✔ Une meilleure confiance en Allah (Tawakkul) Imaginez… ✔ Voir votre situation évoluer progressivement✔ Ressentir une ouverture dans votre subsistance✔ Retrouver la paix et la confiance 🎁 BONUS : Des invocations et conseils pratiques pour renforcer l’effet des versets. 👉 Commander maintenant Accès immédiat après achat • Format PDF • Lecture sur téléphone, tablette et ordinateur
-  Updated: 2026-05-27T01:48:16Z
+  Updated: 2026-06-13T12:14:23Z
   Vendor: Islamcity
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/ChatGPTImage25juin2025_18_35_51.png?v=1777240895
   Price: €10.00 EUR
 - [Les 114 Douas des 114 Sourates](https://islamcity.fr/products/les-114-douas-des-114-sourates): Les 114 Douas des 114 SouratesUn voyage spirituel unique au cœur du Coran Et si chaque sourate du Coran devenait une clé pour transformer ta vie ? Dans ce livre exceptionnel, tu découvriras 114 douas soigneusement associées aux 114 sourates du Coran, pour t’accompagner dans toutes les situations : difficultés, besoins, protection, réussite, paix intérieure et élévation spirituelle. Chaque doua a été pensée pour t’aider à : Te rapprocher d’Allah sincèrement Trouver des solutions spirituelles à tes problèmes Attirer les bénédictions (baraka) dans ta vie Renforcer ta foi et ta connexion au Coran Ce que tu vas trouver dans ce livre : 114 douas puissantes liées à chaque sourate Une méthode simple pour les utiliser efficacement Des pratiques accessibles à tous, débutants comme avancés Un outil spirituel à utiliser chaque jour Ce livre n’est pas seulement un recueil…C’est un guide pratique, une clé spirituelle, un compagnon de vie pour tous ceux qui veulent vivre le Coran autrement. Que tu cherches la réussite, la protection, la guérison ou la paix intérieure, ce livre te donne les clés pour agir dès aujourd’hui.
-  Updated: 2026-06-09T08:59:56Z
+  Updated: 2026-06-17T07:26:53Z
   Vendor: Islamcity
   Product Type: 
   Availability: Available
@@ -244,7 +244,7 @@
     Availability: Available
     Price: €80.00 EUR
 - [Les Douas que le Prophète recommandait](https://islamcity.fr/products/les-douas-que-le-prophete-recommandait-1): Les Douas que le Prophète recommandait est un guide spirituel complet qui rassemble les invocations et supplications que le Prophète Mohamed (paix et bénédictions sur lui) enseignait et pratiquait régulièrement. Cet ouvrage offre aux croyants une source authentique pour enrichir leur vie quotidienne par des douas éprouvées. Découvrez les invocations pour chaque moment de la journée : au réveil, avant les repas, en cas de difficultés, lors des voyages et bien d'autres occasions. Chaque doua est présentée avec ses références islamiques, permettant une compréhension profonde de son importance spirituelle. Parfait pour les musulmans souhaitant renforcer leur connexion avec Allah à travers les enseignements du Prophète, ce livre constitue un compagnon précieux pour la méditation et la prière. Idéal pour les familles, les étudiants en sciences islamiques et tous ceux en quête de guidance spirituelle authentique.
-  Updated: 2026-06-04T21:05:18Z
+  Updated: 2026-06-17T07:26:33Z
   Vendor: Islamcity
   Product Type: pdf
   Availability: Available
@@ -313,7 +313,7 @@
   Updated: 2026-06-09T11:23:09Z
   Total Products: 1
 - [Les livres PDF](https://islamcity.fr/collections/les-livres-pdf): Commandez en toute sécurité et recevez instantanément votre lien de téléchargement de votre livre.
-  Updated: 2026-06-09T11:23:09Z
+  Updated: 2026-06-17T11:23:53Z
   Total Products: 16
 - [Les écritures](https://islamcity.fr/collections/les-ecritures): Dans cette catégorie vous avez l'occasion de commander en ligne des écritures à transformer en eau bénite pour la protection, le déblocage, l'ouverture, la chance, l'ouverture dans votre activité, avoir des papiers etc....
   Updated: 2026-06-05T18:15:29Z
@@ -339,6 +339,9 @@
     Author: My Store Admin
   - [Générateur de Salats ala Nabi](https://islamcity.fr/blogs/news/generateur-de-salats-ala-nabi)
     Updated: 2026-05-16T14:37:26Z
+    Author: My Store Admin
+  - [Connaitre son étoile](https://islamcity.fr/blogs/news/connaitre-son-etoile)
+    Updated: 2026-06-14T14:50:42Z
     Author: My Store Admin
 
 ## Store Pages
