@@ -8,26 +8,26 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-04T20:23:58Z
 - Contact Email: hello@meridiangrace.shop
-- Updated At: 2026-06-05T00:00:23.508Z
+- Updated At: 2026-06-19T00:00:37.698Z
 
 ## Products
 
 - [eBike Boys 750W: High-Performance, Water Resistant 7-Speed Electric](https://meridiangrace.shop/products/ebike-boys-750w-motor-e-bike-water-resistant-7-speed-performance): Conquer any terrain with the eBike Boys 750W Electric Bike. Water-resistant, 7-speed, and durable for both city commutes and weekend adventures. Ride smarter!
-  Updated: 2026-05-26T16:16:24Z
+  Updated: 2026-06-18T12:00:30Z
   Vendor: eBike Boys
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ebike-boys-750w-wet-forest-road-shot.png?v=1778339068
   Price: $596.99 USD
 - [eBike Boys 52V 750W - Ride Farther & Faster with 17AH Battery](https://meridiangrace.shop/products/ebike-boys-52v-750w--ebike-17ah-battery-top-speed-32km-h): Experience unmatched power and endurance with the eBike Boys 52V 750W eBike: 32km/h speed, 100km range, fat tires, and quick charging. Ride farther, faster!
-  Updated: 2026-05-26T16:16:25Z
+  Updated: 2026-06-18T12:01:18Z
   Vendor: eBike Boys
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ebike-boys-52v-750w--ebike-riverside-morning-shot.png?v=1778339013
   Price: $1,999.99 USD
 - [1200W Electric Bike 48V - 20" Fat Tire, Fast Speed | eBike Boys](https://meridiangrace.shop/products/ebike-boys-1200w-lithium-electric-bike-48v-20-wheel-fast-speed): Shop the eBike Boys 1200W 48V electric bike with 20" fat tires, oil disc brakes, waterproof wiring, and 50+ km/h top speed. Built for speed and adventure.
-  Updated: 2026-05-26T16:16:27Z
+  Updated: 2026-06-18T12:01:13Z
   Vendor: eBike Boys
   Product Type: Electric Bike
   Availability: Available
@@ -48,7 +48,7 @@
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/deepower-s7pro-mountain-ridge-sunset-shot.png?v=1778338835
   Price: $1,246.98 USD
 - [800W Off-Road Electric Scooter - Foldable, 45km/h | eBike Boys](https://meridiangrace.shop/products/ebike-boys-800w-off-road-electric-scooter-10-tires-foldable-design): Shop the eBike Boys 800W M4PRO electric scooter with 10-inch off-road tires, 48V battery, 45km range, foldable design, and disc brakes. Fast & portable.
-  Updated: 2026-05-26T16:16:28Z
+  Updated: 2026-06-18T12:00:54Z
   Vendor: eBike Boys
   Product Type: Electric Scooter
   Availability: Available
@@ -100,22 +100,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/dyu-c3-folding-electric-bike-urban-transit-lifestyle-shot.png?v=1778338480
   Price: $1,239.99 USD
-- [eMoto C93™ – 20" Retro-Style Electric Bike 1000W | 48V 20Ah Battery](https://meridiangrace.shop/products/emoto-c93™-20-retro-style-electric-bike-1000w-48v-20ah-battery): Classic Look. Electric Soul. Ready to Ride. The eMoto C93™ combines vintage motorcycle aesthetics with powerful modern e-bike tech. With fat tires, dual suspension, and a removable 48V battery, this urban cruiser is built to turn heads and crush miles. ⚡ Key Features: 🏁 1000W high-torque rear hub motor (peak power) 🔋 48V 20Ah lithium battery – removable & rechargeable 🪶 Lightweight aluminum alloy frame with leather-look saddle 🚦 7-speed Shimano gear system + pedal assist & throttle 🛞 20" x 4" fat tires – smooth on pavement, ready for off-road 🛑 Dual hydraulic disc brakes + shock-absorbing front fork 🔌 USB charging port + LED headlight 📐 Technical Specs: Feature Detail Top Speed ~28–30 mph (45–48 km/h) Max Range ~40–55 miles (65–88 km) Battery 48V 20Ah lithium (removable) Charging Time 7–10 hours Motor 1000W Rear Hub Weight (Net) 39 kg Seat Height Adjustable Load Capacity 300 lbs / 136 kg Saddle Style Retro Brown PU Leather Tire Size 20" x 4.0" 🇺🇸 Shipping Info:✅ Ships from: United States Warehouse🚚 Fast delivery: 3–7 business days via FedEx (USA only)📦 Free shipping with secure packaging included 🏍️ Ride vintage. Power modern. The C93 eBike – shipped from the U.S. and ready to roll.
-  Updated: 2026-05-26T16:16:29Z
-  Vendor: Trustymall
-  Product Type: Biking
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/emoto-c93-retro-golden-hour-street-shot.png?v=1778338427
-  - [B](https://meridiangrace.shop/products/emoto-c93™-20-retro-style-electric-bike-1000w-48v-20ah-battery?variant=52484817682708)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/cf865f3b-5eb1-4694-9b5d-6fb6cd36bf8a.jpg?v=1778287454
-    Price: $2,391.82 USD
-  - [A](https://meridiangrace.shop/products/emoto-c93™-20-retro-style-electric-bike-1000w-48v-20ah-battery?variant=52484817715476)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/a44d962f-083a-4d51-a691-18c0c6e57a3b_ed4d3830-6c8d-48e2-bf05-f1c2ec425847.jpg?v=1778287454
-    Price: $2,391.82 USD
-- [eBike Boys COROMA Electric Scooter - Foldable, Adjustable Handlebar, 20 MPH](https://meridiangrace.shop/products/ebike-boys-coroma-electric-scooter-foldable-adjustable-handlebar-20-mph): Fold It. Ride It. Own the Commute. The CAROMA E22 PRO electric scooter blends smart tech, adjustable comfort, and a foldable design into one sleek package. Whether you're cutting through city streets or cruising the neighborhood, this scooter delivers a smooth, confident ride — every time. ⚡ Key Features: 🏁 350W rated motor (630W peak) — reaches up to 20 MPH 🔋 285Wh high-capacity battery — up to 20 miles per charge 📱 App-connected: control speed modes, cruise control, and lighting from your phone 📏 Adjustable handlebar height: 40" to 46" — fits adults and teens 🛞 6.5" solid tires + rear shock absorption for all-terrain comfort 💡 Triple lighting system: auto-sensing LED headlight, side ambient light, and brake tail light 🛑 Dual braking system for safe, efficient stops 🧳 Quick-release folding system — folds to 44.5" x 18.5" x 19.7" ⚖️ Max load capacity: 265 lbs | UL2272  📐 Technical Specs: Feature Detail Motor 350W rated / 630W peak Top Speed 20 MPH Battery 36V / 285Wh lithium Range Per Charge Up to 20 miles (40–60 km) Charging Time 6–8 hours Tire Size 6.5" solid tires Handlebar Height Adjustable 40"–46" Folded Size 44.5" x 18.5" x 19.7" Product Dimensions 32" (L) x 40" (H) Product Weight ~26 lbs Max Load 265 lbs Certification UL2272, CE Foldable Yes 🇺🇸 Shipping Info: ✅ Ships from: United States Warehouse 🚚 Fast delivery: 3–7 business days (USA only) 📦 Free shipping with secure packaging included 🛴 Smart. Foldable. Built for your commute. The CAROMA E22 PRO — shipped from the U.S. and ready to roll.
-  Updated: 2026-05-28T22:06:54Z
+- [COROMA Electric Scooter - Foldable, Adjustable Handlebar, 20 MPH](https://meridiangrace.shop/products/ebike-boys-coroma-electric-scooter-foldable-adjustable-handlebar-20-mph): Fold It. Ride It. Own the Commute. The CAROMA E22 PRO electric scooter blends smart tech, adjustable comfort, and a foldable design into one sleek package. Whether you're cutting through city streets or cruising the neighborhood, this scooter delivers a smooth, confident ride — every time. ⚡ Key Features: 🏁 350W rated motor (630W peak) — reaches up to 20 MPH 🔋 285Wh high-capacity battery — up to 20 miles per charge 📱 App-connected: control speed modes, cruise control, and lighting from your phone 📏 Adjustable handlebar height: 40" to 46" — fits adults and teens 🛞 6.5" solid tires + rear shock absorption for all-terrain comfort 💡 Triple lighting system: auto-sensing LED headlight, side ambient light, and brake tail light 🛑 Dual braking system for safe, efficient stops 🧳 Quick-release folding system — folds to 44.5" x 18.5" x 19.7" ⚖️ Max load capacity: 265 lbs | UL2272  📐 Technical Specs: Feature Detail Motor 350W rated / 630W peak Top Speed 20 MPH Battery 36V / 285Wh lithium Range Per Charge Up to 20 miles (40–60 km) Charging Time 6–8 hours Tire Size 6.5" solid tires Handlebar Height Adjustable 40"–46" Folded Size 44.5" x 18.5" x 19.7" Product Dimensions 32" (L) x 40" (H) Product Weight ~26 lbs Max Load 265 lbs Certification UL2272, CE Foldable Yes 🇺🇸 Shipping Info: ✅ Ships from: United States Warehouse 🚚 Fast delivery: 3–7 business days (USA only) 📦 Free shipping with secure packaging included 🛴 Smart. Foldable. Built for your commute. The CAROMA E22 PRO — shipped from the U.S. and ready to roll.
+  Updated: 2026-06-18T12:00:49Z
   Vendor: eBike Boys
   Product Type: Electric Scooter
   Availability: Available
@@ -147,7 +133,7 @@
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/Se065c78aa51d4ae0a86b15c6b99c5e53G.webp?v=1778853543
   Price: $2,923.99 USD
 - [Old School EBike T-Shirt](https://meridiangrace.shop/products/old-school-ebike-t-shirt): Product: District DM130 District ® Perfect Tri ® Tee. DM130 4.5 oz., 50% polyester 25% combed ring-spun cotton 25% rayon Rib-knit neck Tear-away label Shoulder-to-shoulder taping - Crown&Co
-  Updated: 2026-06-04T20:34:57Z
+  Updated: 2026-06-18T12:35:27Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -1046,16 +1032,19 @@
 ## Collections
 
 - [Home page](https://meridiangrace.shop/collections/frontpage)
-  Updated: 2026-05-26T16:16:24Z
+  Updated: 2026-06-17T23:59:58Z
   Total Products: 1
 - [Electric Bikes - High Performance eBikes | Crown&Co](https://meridiangrace.shop/collections/electric-bikes): Shop Crown&Co's electric bikes. Powerful motors, long-range batteries, and fat-tire designs for commuting and off-road adventures.
-  Updated: 2026-06-02T13:00:39Z
+  Updated: 2026-06-18T00:00:55Z
   Total Products: 9
 - [Electric Scooters - Fast & Foldable Scooters | Crown&Co](https://meridiangrace.shop/collections/electric-scooters): Shop Crown&Co's electric scooters. Dual motors, long range, and foldable designs for commuters and thrill-seekers alike.
-  Updated: 2026-06-02T13:00:53Z
+  Updated: 2026-06-18T00:00:32Z
   Total Products: 4
 - [Merchandise — Premium Branded Apparel | Meridian Grace](https://meridiangrace.shop/collections/merchandise): Shop Meridian Grace branded merchandise including t-shirts, sweaters, and more.
   Updated: 2026-05-28T22:34:22Z
+  Total Products: 6
+- [ Colletcion - Crown&Co](https://meridiangrace.shop/collections/-colletcion): - Crown&Co
+  Updated: 2026-06-18T00:00:17Z
   Total Products: 6
 
 ## Blogs
@@ -1102,9 +1091,33 @@
     Author: Meridian Grace
     Tags: best electric scooter options, bike, choosing electric bike, electric, electric bike, electric bikes, electric scooter, electric scooters, lifestyle electric transportation, scooter
   - [Troubleshooting Common Electric Bike and Scooter Issues and Solutions](https://meridiangrace.shop/blogs/news/troubleshooting-common-electric-bike-and-scooter-issues-and-solutions): Troubleshooting Common Electric Bike and Scooter Issues and Solutions
-    Updated: 2026-06-03T09:32:53Z
+    Updated: 2026-06-05T01:29:25Z
     Author: Meridian Grace
     Tags: bike issues, bikes, common scooter repairs, electric, electric bike, electric bike solutions, electric scooter, scooter problems, scooters, troubleshooting electric
+  - [Exploring the Environmental Impact of Electric Bikes and Scooters](https://meridiangrace.shop/blogs/news/exploring-the-environmental-impact-of-electric-bikes-and-scooters): Exploring the Environmental Impact of Electric Bikes and Scooters
+    Updated: 2026-06-05T09:08:51Z
+    Author: Meridian Grace
+    Tags: benefits of electric bikes, bikes, eco-friendly transportation, electric, electric bike, electric scooter, environmental impact of scooters, scooters, sustainable commuting, urban mobility solutions
+  - [Step-by-Step Guide to Maintaining Your Electric Bike and Scooter](https://meridiangrace.shop/blogs/news/step-by-step-guide-to-maintaining-your-electric-bike-and-scooter): Step-by-Step Guide to Maintaining Your Electric Bike and Scooter
+    Updated: 2026-06-08T09:22:58Z
+    Author: Meridian Grace
+    Tags: bike upkeep tips, electric, electric bike, electric bikes, electric scooter, guide to maintenance, maintain electric scooter, maintenance, scooter, scooter care
+  - [Frequently Asked Questions About Electric Bikes and Scooters](https://meridiangrace.shop/blogs/news/frequently-asked-questions-about-electric-bikes-and-scooters): Frequently Asked Questions About Electric Bikes and Scooters
+    Updated: 2026-06-10T09:24:02Z
+    Author: Meridian Grace
+    Tags: best electric scooter brands, bikes, e-bike benefits, electric, electric bike, electric bikes, electric scooter, electric scooters, scooter buying guide, scooters
+  - [How to Integrate Electric Bikes and Scooters into Your Daily Routine](https://meridiangrace.shop/blogs/news/how-to-integrate-electric-bikes-and-scooters-into-your-daily-routine): How to Integrate Electric Bikes and Scooters into Your Daily Routine
+    Updated: 2026-06-12T09:10:03Z
+    Author: Meridian Grace
+    Tags: bikes, daily commuting, eco-friendly transportation, electric, electric bike, electric scooter, integrate electric bikes, riding electric scooters, scooters, urban mobility
+  - [Understanding the Mechanics Behind Electric Bikes and Scooters](https://meridiangrace.shop/blogs/news/understanding-the-mechanics-behind-electric-bikes-and-scooters): Understanding the Mechanics Behind Electric Bikes and Scooters
+    Updated: 2026-06-15T09:21:10Z
+    Author: Meridian Grace
+    Tags: bike mechanics, bikes, electric, electric bike, electric bikes, electric scooter, electric scooters, scooter design, scooters, understanding electric vehicles
+  - [Comparing Costs: Electric Bike and Scooter vs. Traditional Commuting](https://meridiangrace.shop/blogs/news/comparing-costs-electric-bike-and-scooter-vs-traditional-commuting): Comparing Costs: Electric Bike and Scooter vs. Traditional Commuting
+    Updated: 2026-06-17T09:21:37Z
+    Author: Meridian Grace
+    Tags: affordable urban mobility, bike, commuting options, cost comparison, eco-friendly commuting solutions, electric, electric bike, electric scooter, electric transport, scooter
 
 ## Store Pages
 
