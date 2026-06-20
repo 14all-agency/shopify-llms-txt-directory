@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-15T07:07:28Z
 - Contact Email: qc.trueprofit@firegroup.io
-- Updated At: 2026-06-13T00:00:37.124Z
+- Updated At: 2026-06-20T00:00:39.409Z
 
 ## Products
 
@@ -141,6 +141,11 @@
   Updated: 2026-05-15T07:07:35Z
 - [Your Privacy Choices](https://triettm-trueprofit-stag-678.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-05-15T07:07:36Z
+
+## Policies
+
+- [Privacy Policy](https://triettm-trueprofit-stag-678.myshopify.com/policies/privacy-policy)
+  Updated: 2026-05-15T03:07:37-04:00
 
 ## Optional
 
