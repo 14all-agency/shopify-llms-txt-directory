@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2026-04-17T23:45:10Z
 - Contact Email: hello@foreverlovegifts.com
-- Updated At: 2026-06-14T00:00:43.454Z
+- Updated At: 2026-06-21T00:00:45.180Z
 
 ## Products
 
@@ -2003,6 +2003,15 @@
     Author: User
   - [Why a Handmade Gift Means So Much More](https://foreverlovegifts.com/blogs/news/why-a-handmade-gift-means-so-much-more): Why a Handmade Gift Means So Much More
     Updated: 2026-06-13T00:21:08Z
+    Author: User
+  - [Checklist of Must-Have Gifts for Every Celebration](https://foreverlovegifts.com/blogs/news/checklist-of-must-have-gifts-for-every-celebration): Checklist of Must-Have Gifts for Every Celebration
+    Updated: 2026-06-14T00:40:24Z
+    Author: User
+  - [How One Gift Can Change Everything](https://foreverlovegifts.com/blogs/news/how-one-gift-can-change-everything): How One Gift Can Change Everything
+    Updated: 2026-06-17T00:31:58Z
+    Author: User
+  - [Explore the Trending Gifts That Everyone Loves](https://foreverlovegifts.com/blogs/news/explore-the-trending-gifts-that-everyone-loves): Explore the Trending Gifts That Everyone Loves
+    Updated: 2026-06-20T00:13:29Z
     Author: User
 
 ## Store Pages
