@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-06-14T04:00:33.859Z
+- Updated At: 2026-06-21T04:00:36.309Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2740,53 +2740,7 @@ File Size: 30 MB
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Latex_Bloomers_Photo_Set.jpg?v=1744584718
   Price: $70.00 USD
-- [Latex Bloomers Video](https://www.carrielachance.com/products/latex-bloomers-video-download): Those of you with a latex fetish are in for a real treat with this one. Carrie is wearing a latex tube top and latex bloomers from Latex Lovers with my Christian Louboutin Exagona heels. Ladies from yesteryear often wore bloomer but it’s safe to say Carrie puts her own unique spin on them. The latex is skin tight and showcases every part of Carrie’s flawless body. As usual, her Louboutin game is seriously on point. A woman with this kind of love for heels is incredibly sexy. There’s something for everybody here. This video is from Carrie LaChance – Gallery #172
-
-Latex Bloomers Video 🔞
-Run Time: 5 min
-Year: 2015
-File Size: 171 MB
-  Updated: 2026-04-26T20:05:44Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $60.00 USD
-- [Class In Session Photo Set](https://www.carrielachance.com/products/class-in-session-photo-set-download): Carrie is rocking the sexy teacher look in this set and she’s looking incredible doing it. If Carrie were really a teacher, I’d pray that she taught  Ed. I’m totally feeling the glasses (I’m sure a lot of you agree with that) and I think they make Carrie look more beautiful than usual if that’s even possible. She’s wearing a white blouse, thong, socks, and Louboutin high heel slingbacks. The thong shows off Carrie’s booty and the high socks and sexy beyond belief. Where were the teachers who looked like Carrie when I was in high school?
-
-Carrie LaChance – Gallery #173 🔞
-Total Images: 81 Photos
-Year: 2015
-File Size: 16 MB
-  Updated: 2026-04-26T20:05:45Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Class_In_Session_Photo_Set.jpg?v=1744584616
-  Price: $80.00 USD
-- [Class In Session Video](https://www.carrielachance.com/products/class-in-session-video-download): Carrie is rocking the sexy teacher look in this set and she’s looking incredible doing it. If Carrie were really a teacher, I’d pray that she taught  Ed. I’m totally feeling the glasses (I’m sure a lot of you agree with that) and I think they make Carrie look more beautiful than usual if that’s even possible. She’s wearing a white blouse, thong, socks, and Louboutin high heel slingbacks. The thong shows off Carrie’s booty and the high socks and sexy beyond belief. Where were the teachers who looked like Carrie when I was in high school? This video is from Carrie LaChance – Gallery #173
-
-Class In Session Video 🔞
-Run Time: 10 min 29 sec
-Year: 2015
-File Size: 315 MB
-  Updated: 2026-04-26T20:05:45Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $70.00 USD
-- [Rubber Doll Photo Set](https://www.carrielachance.com/products/rubber-doll-photo-set-download): Latex, latex everywhere and boy are we loving it. Carrie is wearing a latex bodysuit and transparent skirt with Christian Louboutin Daffodile heels. Nobody rocks latex-like Carrie and that’s probably because of her perfectly gym-toned body. If there are any flaws on this petite hottie they must be hidden because I can’t find one. Latex lovers around the world would likely have given a limb to be present at this shoot and to be completely honest, I’m not sure I blame them.
-
-Carrie LaChance – Gallery #174 🔞
-Total Images: 41 Photos
-Year: 2015
-File Size: 7 MB
-  Updated: 2026-04-26T20:05:45Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Rubber_Doll_Photo_Set.jpg?v=1744584462
-  Price: $60.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTY2OTk0ODA4OTk5LCJsYXN0X3ZhbHVlIjoiNTU2Njk5NDgwODk5OSJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTY2MTAxOTc5MzAzLCJsYXN0X3ZhbHVlIjoiNTU2NjEwMTk3OTMwMyJ9)
 
 ## Collections
 
@@ -3215,6 +3169,33 @@ File Size: 7 MB
     Updated: 2026-06-14T00:03:47Z
     Author: Carrie LaChance
     Tags: emotional journey, empowering intimate tales,  diaries,  diary, glamour, glamour stories, high heel affair blog, romance, seduction, seductive stories, seductive storytelling
+  - [Pinup Footsteps Sensual Adventures with Carrie LaChance in Stilettos Glamour and Latex](https://www.carrielachance.com/blogs/carrie-lachance/pinup-footsteps-sensual-adventures-with-carrie-lachance-in-stilettos-glamour-and-latex): Pinup Footsteps Sensual Adventures with Carrie LaChance in Stilettos Glamour and Latex
+    Updated: 2026-06-15T08:00:38Z
+    Author: Carrie LaChance
+    Tags: behind the scense, carrie lachance, glamorous photography tips, glamour, glamour model, heels, high heels, latex fashion, latex model, life of a model, outfit of the day, pantyhose, pinup, pinup model, sensual adventures, sexy model, stilettos, vintage pinup style
+  - [Elevate Your Photoshoots: Mastering the Glamour Model Pose with Confidence](https://www.carrielachance.com/blogs/carrie-lachance/elevate-your-photoshoots-mastering-the-glamour-model-pose-with-confidence): Elevate Your Photoshoots: Mastering the Glamour Model Pose with Confidence
+    Updated: 2026-06-16T00:03:12Z
+    Author: Carrie LaChance
+    Tags: confidence, glamor shots, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, improve modeling skills, modeling, modeling tips, photography, photography tips, photoshoot, pose techniques, poses, posing tips, social media model, taking good selfies, tips for models
+  - [You Too Can Turn Content Creation Into Your Dream Job](https://www.carrielachance.com/blogs/carrie-lachance/you-too-can-turn-content-creation-into-your-dream-job): You Too Can Turn Content Creation Into Your Dream Job
+    Updated: 2026-06-17T10:01:06Z
+    Author: Carrie LaChance
+  - [Glossy Legs and Lingerie: Unraveling the Feminine Mystique of High Heels](https://www.carrielachance.com/blogs/carrie-lachance/glossy-legs-and-lingerie-unraveling-the-feminine-mystique-of-high-heels): Glossy Legs and Lingerie: Unraveling the Feminine Mystique of High Heels
+    Updated: 2026-06-18T00:02:00Z
+    Author: Carrie LaChance
+    Tags: attraction, beauty and confidence, feminine mystique, footwear psychology, glossy legs, heels, high, high heels, psychology of high heels, why men love women in heels
+  - [Take the Lead in Love: Winning Your Girlfriend's Heart as She Struts in Stilettos](https://www.carrielachance.com/blogs/carrie-lachance/take-the-lead-in-love-winning-your-girlfriends-heart-as-she-struts-in-stilettos): Take the Lead in Love: Winning Your Girlfriend's Heart as She Struts in Stilettos
+    Updated: 2026-06-19T00:02:12Z
+    Author: Carrie LaChance
+    Tags: advice, confidence in dating, dating, dating advice, girlfriend guide, how to find a high heel girl, how to find right girl, love tips, relationships, stiletto style, winning her heart
+  - [High Heels and Glossy Legs A Winning Combination in so Many Ways](https://www.carrielachance.com/blogs/carrie-lachance/high-heels-and-glossy-legs-a-winning-combination-in-so-many-ways): High Heels and Glossy Legs A Winning Combination in so Many Ways
+    Updated: 2026-06-20T00:01:36Z
+    Author: Carrie LaChance
+    Tags: fashion tips, glossy legs, high heels, how to wear pantyhose, legs, nylons, pantyhose, stylish combinations
+  - [Diamonds and Lingerie: Embracing the Art of Feminine Seduction](https://www.carrielachance.com/blogs/carrie-lachance/diamonds-and-lingerie-embracing-the-art-of-feminine-seduction): Diamonds and Lingerie: Embracing the Art of Feminine Seduction
+    Updated: 2026-06-21T00:04:06Z
+    Author: Carrie LaChance
+    Tags: diaries, embracing feminine power,  diary,  storytelling, expressing sensual desire, feminine allure, glamour, glamour stories, intimate experiences, seduction, seductive stories
 
 ## Store Pages
 
