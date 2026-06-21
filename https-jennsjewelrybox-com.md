@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-03-24T11:13:03Z
 - Contact Email: annb2601mx@gmail.com
-- Updated At: 2026-06-13T00:00:40.665Z
+- Updated At: 2026-06-21T00:00:43.288Z
 
 ## Products
 
@@ -226,12 +226,12 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4380_transformation_12024.png?v=1779918561
     Price: $109.00 USD
 - [Love Knot Stud Earrings – Timeless 14k White Gold Finish Jewelry](https://jennsjewelrybox.com/products/love-knot-stud-earrings-shop-231720-7483): Explore the elegance of Love Knot Stud Earrings, featuring a cubic zirconia stone in 14k white gold finish. Perfect for any occasion and everyday wear.
-  Updated: 2026-06-10T20:05:34Z
+  Updated: 2026-06-20T15:36:00Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_3460_transformation_8690.jpg?v=1779918547
-  Price: $29.95 USD
+  Price: $29.00 USD
 - [Forever Love Necklace in 14k White Gold or 18k Yellow Gold Finish](https://jennsjewelrybox.com/products/forever-love-necklace-shop-231720-8579): Shop the Forever Love Necklace with a sparkling cubic zirconia and a polished heart pendant, perfect for lasting love. Available in white or yellow gold finishes.
   Updated: 2026-06-06T14:51:27Z
   Vendor: ShineOn Fulfillment
@@ -496,7 +496,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4736_transformation_16499.png?v=1779938880
     Price: $79.00 USD
 - [LED Light Up Acrylic Heart Keepsake - Mother’s Day Gift with Wooden Base](https://jennsjewelrybox.com/products/md-heart-plaque-shop-231720-9323-led-light-up-acrylic-heart-keepsake): Celebrate Mom with this LED Light Up Acrylic Heart Keepsake featuring floral design and heartfelt message, beautifully illuminated for a special touch. Perfect Mother’s Day gift!
-  Updated: 2026-06-06T14:51:28Z
+  Updated: 2026-06-20T15:36:03Z
   Vendor: ShineOn Fulfillment
   Product Type: Decorative Plaques
   Availability: Available
@@ -504,11 +504,11 @@
   - [Corded LED Base](https://jennsjewelrybox.com/products/md-heart-plaque-shop-231720-9323-led-light-up-acrylic-heart-keepsake?variant=44916879229043)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_5653_transformation_18706.png?v=1780593231
-    Price: $39.95 USD
+    Price: $39.00 USD
   - [Battery Powered LED Base](https://jennsjewelrybox.com/products/md-heart-plaque-shop-231720-9323-led-light-up-acrylic-heart-keepsake?variant=44916879261811)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_8198_transformation_23711.png?v=1779940169
-    Price: $39.95 USD
+    Price: $39.00 USD
 - [Graduate Glow Acrylic Keepsake - LED Light-Up Graduation Photo Display](https://jennsjewelrybox.com/products/graduate-glow-acrylic-keepsake-led-light-up-photo-with-wood-base-shop-231720-3585): Discover the Graduate Glow Acrylic Keepsake, a stunning LED light-up photo with wood base, perfect for celebrating graduation milestones with elegance and sentiment.
   Updated: 2026-06-06T14:51:28Z
   Vendor: ShineOn Fulfillment
@@ -590,7 +590,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_1597_transformation_8643.jpg?v=1780604044
     Price: $64.00 USD
 - [Paw Print Acrylic Keepsake with wooden LED base](https://jennsjewelrybox.com/products/paw-print-acrylic-keepsake-with-wooden-led-base-shop-231720-3183): Keep the memory of a beloved pet close with this heartfelt Paw Print Acrylic Keepsake. Thoughtfully designed to honor the love and companionship you shared, this meaningful piece offers comfort while serving as a beautiful tribute to a pet who left paw prints on your heart forever. Perfect for displaying in your home or gifting to someone grieving the loss of a cherished dog or cat, this acrylic keepsake is a lasting reminder that their love and memory will always remain. Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-06-12T05:40:15Z
+  Updated: 2026-06-17T16:36:07Z
   Vendor: ShineOn Fulfillment
   Product Type: Decorative Plaques
   Availability: Available
@@ -625,63 +625,113 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_9506_transformation_27858.jpg?v=1780616593
     Price: $89.00 USD
-- [Black Chronograph Watch | Copper Dial | Stainless Steel | Gift Box Included](https://jennsjewelrybox.com/products/black-chronograph-watch-shop-231720-5336): Give the gift of time with this bold and sophisticated Black Chronograph Watch. Whether you're celebrating a wedding, anniversary, Father's Day, or simply want to show a special man in your life that he's appreciated, this versatile timepiece delivers lasting style and everyday durability. Featuring a striking copper dial with a classic three-dial chronograph face and calendar function, this watch is as functional as it is handsome. Built from premium 316L stainless steel with a scratch-proof, water-resistant finish, it's crafted to keep up with life's moments — big and small. Powered by reliable quartz movement, so it's always ready to wear right out of the box. Your watch arrives beautifully packaged in a gift box, ready to give — no wrapping required. Product Details: Stainless Steel (316L) Luxury Copper Dial Quartz Movement Water Resistance: 3ATM (30m/100ft) Face Diameter: 1.5″ (38.1mm) Watch Strap: 7″ (177.8mm) Adjustable Clasp: 3″ (76.2mm)
-  Updated: 2026-06-12T04:33:51Z
+- [Black Chronograph Watch | Copper Dial & Stainless Steel | Gift Box Included](https://jennsjewelrybox.com/products/black-chronograph-watch-shop-231720-5336): Give the gift of time with this bold and sophisticated Black Chronograph Watch. Whether you're celebrating a wedding, anniversary, Father's Day, or simply want to sh
+  Updated: 2026-06-17T14:05:01Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4398_transformation_12008.jpg?v=1781197855
+  Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4398_transformation_12008.jpg?v=1781705100
   Price: $89.00 USD
-- [Openwork Skeleton Watch | Automatic Movement | Leather Band | Luxury Gift Box](https://jennsjewelrybox.com/products/openwork-watch-shop-231720-6551): Give the gift of luxury with this handsome and daring timepiece. The Openwork Watch is the perfect blend of classic design and modern styling, making it an essential accessory for your remarkable style. This watch sports a genuine leather strap, is splash resistant, and has increased durability thanks to hardened mineral glass. Our unique skeleton dial feature allows you to peer directly into the inner workings of your watch. Beautifully crafted to be automatic, this watch requires motion instead of batteries. You will keep precise time simply by wearing it, no winding necessary. This magnificent piece makes the perfect gift for yourself or any man in your life looking to add a tasteful element into his wardrobe. Your watch is lovingly packaged in our mahogany style luxury box for easy gifting. Product Specifications: Genuine Black Leather Band Hardened Mineral Crystal Glass 3 ATM Water Resistant Movement: Automatic Band length: 200 mm (approximately 7.9") Adjustment length: 168 mm - 216 mm (6.6" - 8.5")
-  Updated: 2026-06-12T03:09:06Z
+- [Eternal Hope Necklace - Elegant Jewelry Gift with Cushion-Cut CZ](https://jennsjewelrybox.com/products/eternal-hope-necklace-shop-231720-8863): Discover the stunning Eternal Hope Necklace featuring a cushion-cut cubic zirconia. Perfect for gifting, its elegant design makes it a timeless accessory.
+  Updated: 2026-06-16T09:17:09Z
+  Vendor: ShineOn Fulfillment
+  Product Type: necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4501_transformation_13678.jpg?v=1781553355
+  - [14k White Gold Finish / Standard Box](https://jennsjewelrybox.com/products/eternal-hope-necklace-shop-231720-8863?variant=45105950425203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4501_transformation_13678.jpg?v=1781553355
+    Price: $59.00 USD
+  - [14k White Gold Finish / Luxury Box](https://jennsjewelrybox.com/products/eternal-hope-necklace-shop-231720-8863?variant=45105950457971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4503_transformation_13679.jpg?v=1781553354
+    Price: $79.00 USD
+- [Custom Pet Photo Heart Necklace | Personalized Pet Memorial Jewelry](https://jennsjewelrybox.com/products/custom-pet-photo-heart-necklace-shop-231720-2894): Discover the perfect Custom Pet Photo Heart Necklace to cherish your pet’s memory. Personalized with their photo and name, a heartfelt gift for pet lovers.
+  Updated: 2026-06-18T04:15:25Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
-  Price: $125.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_106_transformation_298.png?v=1781712961
+  - [Luxury Necklace (Silver) / No](https://jennsjewelrybox.com/products/custom-pet-photo-heart-necklace-shop-231720-2894?variant=45111942905971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_106_transformation_298.png?v=1781712961
+    Price: $54.00 USD
+  - [Luxury Necklace (Silver) / Yes](https://jennsjewelrybox.com/products/custom-pet-photo-heart-necklace-shop-231720-2894?variant=45111942938739)
+    Availability: Available
+    Price: $64.00 USD
+  - [Luxury Necklace (Gold) / No](https://jennsjewelrybox.com/products/custom-pet-photo-heart-necklace-shop-231720-2894?variant=45111942971507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_125_transformation_430.png?v=1781712006
+    Price: $74.00 USD
+  - [Luxury Necklace (Gold) / Yes](https://jennsjewelrybox.com/products/custom-pet-photo-heart-necklace-shop-231720-2894?variant=45111943004275)
+    Availability: Available
+    Price: $84.00 USD
+- [Custom Pet Photo Circle Necklace | Personalized Memorial Jewelry](https://jennsjewelrybox.com/products/custom-pet-photo-circle-necklace-personalized-cat-dog-memorial-jewelry-for-pet-moms-shop-231720-3689): Create a lasting memory with our Custom Pet Photo Circle Necklace, featuring full-color pet photos and optional engraving, perfect for pet lovers.
+  Updated: 2026-06-18T04:37:42Z
+  Vendor: ShineOn Fulfillment
+  Product Type: Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_10_transformation_256.png?v=1781712973
+  - [Luxury Necklace (Silver) / No](https://jennsjewelrybox.com/products/custom-pet-photo-circle-necklace-personalized-cat-dog-memorial-jewelry-for-pet-moms-shop-231720-3689?variant=45111952179315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_10_transformation_256.png?v=1781712973
+    Price: $54.00 USD
+  - [Luxury Necklace (Silver) / Yes](https://jennsjewelrybox.com/products/custom-pet-photo-circle-necklace-personalized-cat-dog-memorial-jewelry-for-pet-moms-shop-231720-3689?variant=45111952212083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_102_transformation_268.png?v=1781712983
+    Price: $64.00 USD
+  - [Luxury Necklace (Gold) / No](https://jennsjewelrybox.com/products/custom-pet-photo-circle-necklace-personalized-cat-dog-memorial-jewelry-for-pet-moms-shop-231720-3689?variant=45111952244851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_129_transformation_428.png?v=1781712987
+    Price: $74.00 USD
+  - [Luxury Necklace (Gold) / Yes](https://jennsjewelrybox.com/products/custom-pet-photo-circle-necklace-personalized-cat-dog-memorial-jewelry-for-pet-moms-shop-231720-3689?variant=45111952277619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_130_transformation_343.png?v=1781712990
+    Price: $84.00 USD
 
 ## Collections
 
 - [Home page Collection | Discover Our Best Products for Your Home](https://jennsjewelrybox.com/collections/frontpage): Explore our Home page collection for top-quality products to enhance your living space. Shop now and experience the best in home essentials and decor.
-  Updated: 2026-06-11T17:10:47Z
+  Updated: 2026-06-20T15:36:04Z
   Total Products: 6
 - [Milestones Collection - Celebrate Your Achievements with Unique Keepsakes](https://jennsjewelrybox.com/collections/milestones): Discover our Milestones collection, perfect for commemorating special achievements and life moments. Shop now for meaningful keepsakes to cherish forever.
-  Updated: 2026-06-11T17:37:56Z
-  Total Products: 9
+  Updated: 2026-06-13T14:02:30Z
+  Total Products: 8
 - [Personalized Gifts Collection | Unique Custom Gift Ideas for Every Occasion](https://jennsjewelrybox.com/collections/personalized-gifts): Discover the perfect Personalized Gifts for any celebration. Our collection offers unique, custom gifts that will make your loved ones feel special. Shop now for personalized gifts they will cherish.
-  Updated: 2026-06-11T17:37:56Z
+  Updated: 2026-06-17T16:21:39Z
   Total Products: 12
 - [Discover Stylish Collections for Her | Perfect Gifts & Fashion for Her](https://jennsjewelrybox.com/collections/gifts-for-her): Explore our exclusive collection for her, featuring trendy fashion, accessories, and gift ideas to celebrate and style her perfectly. Shop now for her.
-  Updated: 2026-06-10T20:05:35Z
-  Total Products: 16
+  Updated: 2026-06-20T15:36:04Z
+  Total Products: 18
 - [For Him Collection | Stylish and Unique Gifts for Him](https://jennsjewelrybox.com/collections/gifts-for-him): Discover the perfect gifts in our 'For Him' collection. Unique, stylish, and thoughtful options to impress and delight the special man in your life.
-  Updated: 2026-06-11T17:37:56Z
-  Total Products: 9
+  Updated: 2026-06-13T14:02:30Z
+  Total Products: 8
 - [Graduation Gifts | Unique and Memorable Presents for Graduates](https://jennsjewelrybox.com/collections/graduation-gifts): Discover the perfect graduation gifts for celebrating achievements. Shop our wide selection of thoughtful and memorable graduation gifts today.
-  Updated: 2026-06-11T17:37:56Z
-  Total Products: 13
+  Updated: 2026-06-20T15:36:01Z
+  Total Products: 12
 - [Elegant Wedding Collection | Perfect Attire & Accessories for Your Special Day](https://jennsjewelrybox.com/collections/wedding): Discover our stunning Wedding collection featuring elegant attire and accessories to make your special day unforgettable. Shop the best Wedding items now.
-  Updated: 2026-06-10T20:05:35Z
-  Total Products: 6
-- [In Memoriam Collection | Honoring Loved Ones with Respect & Dignity](https://jennsjewelrybox.com/collections/in-memoriam): Explore our In Memoriam collection to find meaningful tributes and memorial items. Celebrate the lives of loved ones with dignity and heartfelt remembrance.
-  Updated: 2026-06-11T17:40:11Z
-  Total Products: 4
-- [All Jewelry Products – Shop Every Style | Jenn's Jewelry Box](https://jennsjewelrybox.com/collections/all-products): Browse every piece in our collection at Jenn's Jewelry Box — necklaces, bracelets, rings, and more.
-  Updated: 2026-06-11T17:40:11Z
-  Total Products: 27
-- [Gifts for Mom/Mama/StepMom/Bonus Mom](https://jennsjewelrybox.com/collections/gifts-for-mom-mama-stepmom-bonus-mom): Celebrate the love of a mother, mama, stepmom, or bonus mom with meaningful jewelry and heartfelt keepsakes she’ll treasure for years to come.
-  Updated: 2026-06-10T20:05:35Z
-  Total Products: 8
-- [Featured Gifts](https://jennsjewelrybox.com/collections/featured-gifts-for-every-meaningful-moment): Explore a curated collection of heartfelt jewelry gifts, including timeless necklaces, elegant earrings, and a classic men’s bracelet, thoughtfully chosen to celebrate love, connection, and special moments.
-  Updated: 2026-06-11T17:37:56Z
+  Updated: 2026-06-20T15:36:01Z
   Total Products: 7
-- [Meaningful Gifts for Your Daughter/StepDaughter](https://jennsjewelrybox.com/collections/meaningful-gifts-for-your-daughter): Celebrate the special bond you share with meaningful jewelry and heartfelt keepsakes designed to remind your daughter how deeply she is loved.
-  Updated: 2026-06-10T20:05:35Z
+- [In Memoriam Collection | Honoring Loved Ones with Respect & Dignity](https://jennsjewelrybox.com/collections/in-memoriam): Explore our In Memoriam collection to find meaningful tributes and memorial items. Celebrate the lives of loved ones with dignity and heartfelt remembrance.
+  Updated: 2026-06-17T16:21:39Z
   Total Products: 5
+- [All Jewelry Products – Shop Every Style | Jenn's Jewelry Box](https://jennsjewelrybox.com/collections/all-products): Browse every piece in our collection at Jenn's Jewelry Box — necklaces, bracelets, rings, and more.
+  Updated: 2026-06-20T15:36:04Z
+  Total Products: 29
+- [Gifts for Mom/Mama/StepMom/Bonus Mom](https://jennsjewelrybox.com/collections/gifts-for-mom-mama-stepmom-bonus-mom): Celebrate the love of a mother, mama, stepmom, or bonus mom with meaningful jewelry and heartfelt keepsakes she’ll treasure for years to come.
+  Updated: 2026-06-20T15:36:04Z
+  Total Products: 10
+- [Featured Gifts](https://jennsjewelrybox.com/collections/featured-gifts-for-every-meaningful-moment): Explore a curated collection of heartfelt jewelry gifts, including timeless necklaces, elegant earrings, and a classic men’s bracelet, thoughtfully chosen to celebrate love, connection, and special moments.
+  Updated: 2026-06-20T15:36:01Z
+  Total Products: 6
+- [Meaningful Gifts for Your Daughter/StepDaughter](https://jennsjewelrybox.com/collections/meaningful-gifts-for-your-daughter): Celebrate the special bond you share with meaningful jewelry and heartfelt keepsakes designed to remind your daughter how deeply she is loved.
+  Updated: 2026-06-20T15:36:01Z
+  Total Products: 7
 - [Father’s Day Gifts for Dad/StepDad/Bonus Dad/GrandPa](https://jennsjewelrybox.com/collections/meaningful-father-s-day-gifts-for-dad-stepdad-bonus-dad-grandpa): Celebrate Dad with meaningful gifts designed to honor his strength, love, and the special role he holds in your life.
-  Updated: 2026-06-11T17:37:56Z
-  Total Products: 8
+  Updated: 2026-06-13T14:02:30Z
+  Total Products: 7
 - [Heartfelt Birthday Gifts to Treasure](https://jennsjewelrybox.com/collections/heartfelt-birthday-gifts-to-treasure): Celebrate their special day with thoughtful jewelry and cherished keepsakes designed to make their birthday even more unforgettable.
-  Updated: 2026-06-10T20:05:35Z
+  Updated: 2026-06-20T15:36:01Z
   Total Products: 9
 
 ## Store Pages
