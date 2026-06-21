@@ -6,3200 +6,1660 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2025-12-30T03:37:42Z
 - Contact Email: franceajluxe@gmail.com
-- Updated At: 2026-06-10T00:00:37.476Z
+- Updated At: 2026-06-21T00:00:39.549Z
 
 ## Products
 
-- [Layered Crystal Chain Anklet — 2 or 4 Layer Gold & Silver Women's | AJ Euro](https://ajeuro.com/products/layered-crystal-chain-anklet-2-4-layer-gold-silver-womens): Layered crystal chain anklet in 2-layer or 4-layer styles. Available in gold and silver alloy. Lightweight women's ankle jewellery. Ships to France and the UK.
-  Updated: 2026-06-07T13:27:07Z
+- [Q80 Ear Clip Bone Conduction Headphones — Bluetooth 5.3 Stereo | AJ Euro](https://ajeuro.com/products/q80-ear-clip-bone-conduction-headphones-bluetooth-5-3): Q80 ear clip Bluetooth 5.3 headphones with noise reduction, multipoint connection and battery display. 3 colours. Ships to Europe.
+  Updated: 2026-06-12T14:28:28Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f6801384-453b-486b-a2ad-01ad75df3431.jpg?v=1771988505
-  - [Four Layers Of Gold](https://ajeuro.com/products/layered-crystal-chain-anklet-2-4-layer-gold-silver-womens?variant=47587047309504)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/be98c925-40f0-437c-9d9f-7eb408c763a1.jpg?v=1773202295
+  - [Black](https://ajeuro.com/products/q80-ear-clip-bone-conduction-headphones-bluetooth-5-3?variant=47772925657280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/401bd0ec-2f10-4b54-b8c5-5e217387742c.jpg?v=1771988512
-    Price: €15.20 EUR
-  - [Two Layers Of Gold](https://ajeuro.com/products/layered-crystal-chain-anklet-2-4-layer-gold-silver-womens?variant=47587047342272)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eb2ce106-8585-4fce-99d3-b0b365957785.jpg?v=1773202302
+    Price: €31.90 EUR
+  - [Khaki](https://ajeuro.com/products/q80-ear-clip-bone-conduction-headphones-bluetooth-5-3?variant=47772925690048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/06a5a637-7041-4b1c-a20f-2bb5e7d7b873.jpg?v=1771988512
-    Price: €15.10 EUR
-  - [Two Silver](https://ajeuro.com/products/layered-crystal-chain-anklet-2-4-layer-gold-silver-womens?variant=47587047375040)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e617293e-198a-4ff1-81a0-451de243722d.jpg?v=1773202302
+    Price: €31.90 EUR
+  - [White](https://ajeuro.com/products/q80-ear-clip-bone-conduction-headphones-bluetooth-5-3?variant=47772925722816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3fca494b-c897-4307-8147-8dd619696558.jpg?v=1771988512
-    Price: €15.10 EUR
-  - [Four Silver](https://ajeuro.com/products/layered-crystal-chain-anklet-2-4-layer-gold-silver-womens?variant=47587047407808)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cdaeaf90-f1ec-471a-aac4-b4eb0ce24a2f.jpg?v=1771988512
-    Price: €14.90 EUR
-- [USB Mini Humidifier with Projection Night Light — 200ml 5Hr 40ml/h | AJ Euro](https://ajeuro.com/products/usb-mini-humidifier-projection-night-light-200ml-5hr-ultrasonic): Ultrasonic USB humidifier with projection night light, 200ml tank, 5hr runtime, 40ml/h mist and under 30dB operation. 4 colours. Ships to France and the UK.
-  Updated: 2026-05-24T06:26:56Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2d1d8fad-7ebe-4999-aa3d-e38260e8cb06.jpg?v=1773202302
+    Price: €31.90 EUR
+- [HY300 Ultra Mini Projector 720p HD — 170 ANSI Lumens Portable | AJ Euro](https://ajeuro.com/products/hy300-ultra-mini-projector-720p-hd-170-ansi-lumens): HY300 Ultra mini projector — 720p HD, 170 ANSI lumens, EU and UK plug compatible. Ideal for bedroom and home cinema use. Ships to Europe.
+  Updated: 2026-06-12T14:25:14Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/52741d81-89be-4f22-b1de-3acc0faf5755.jpg?v=1771988800
-  - [Blue / USB](https://ajeuro.com/products/usb-mini-humidifier-projection-night-light-200ml-5hr-ultrasonic?variant=47587054944448)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a44587f0-2a1c-4f2c-8fe6-71538b237f64.jpg?v=1773203306
+  - [White / AU / HY300PRO](https://ajeuro.com/products/hy300-ultra-mini-projector-720p-hd-170-ansi-lumens?variant=47772946202816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4891069651112.jpg?v=1771988814
-    Price: €30.00 EUR
-  - [Cotton swab / 10pc](https://ajeuro.com/products/usb-mini-humidifier-projection-night-light-200ml-5hr-ultrasonic?variant=47587054977216)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/684cda1b-6b4a-4ee9-a43d-581f1686dde4.jpg?v=1773203311
+    Price: €89.99 EUR
+  - [White / AU / HY300ultra](https://ajeuro.com/products/hy300-ultra-mini-projector-720p-hd-170-ansi-lumens?variant=47772946235584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9e678587-50ac-4aae-acf0-b87b7929d4b6.jpg?v=1771988814
-    Price: €25.00 EUR
-  - [Cotton swab / 1pc](https://ajeuro.com/products/usb-mini-humidifier-projection-night-light-200ml-5hr-ultrasonic?variant=47587055009984)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9454e342-9f87-4e3a-8c6f-d185df7f3ec8.jpg?v=1773203311
+    Price: €93.99 EUR
+  - [White / EU / HY300PRO](https://ajeuro.com/products/hy300-ultra-mini-projector-720p-hd-170-ansi-lumens?variant=47772946268352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/13c1521b-9353-47a7-96a0-9611b34695ea.jpg?v=1771988814
-    Price: €10.00 EUR
-  - [Dark blue / USB](https://ajeuro.com/products/usb-mini-humidifier-projection-night-light-200ml-5hr-ultrasonic?variant=47587055042752)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/684cda1b-6b4a-4ee9-a43d-581f1686dde4.jpg?v=1773203311
+    Price: €89.99 EUR
+  - [White / EU / HY300ultra](https://ajeuro.com/products/hy300-ultra-mini-projector-720p-hd-170-ansi-lumens?variant=47772946301120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/200387297490.jpg?v=1771988814
-    Price: €32.00 EUR
-  - [Pink / USB](https://ajeuro.com/products/usb-mini-humidifier-projection-night-light-200ml-5hr-ultrasonic?variant=47587055075520)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9454e342-9f87-4e3a-8c6f-d185df7f3ec8.jpg?v=1773203311
+    Price: €93.99 EUR
+  - [White / UK / HY300PRO](https://ajeuro.com/products/hy300-ultra-mini-projector-720p-hd-170-ansi-lumens?variant=47772946333888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2801146276333.jpg?v=1771988814
-    Price: €37.00 EUR
-  - [White / USB](https://ajeuro.com/products/usb-mini-humidifier-projection-night-light-200ml-5hr-ultrasonic?variant=47587055108288)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/684cda1b-6b4a-4ee9-a43d-581f1686dde4.jpg?v=1773203311
+    Price: €89.99 EUR
+  - [White / UK / HY300ultra](https://ajeuro.com/products/hy300-ultra-mini-projector-720p-hd-170-ansi-lumens?variant=47772946366656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1464471534447.jpg?v=1771988814
-    Price: €36.00 EUR
-- [Waterproof Outdoor Bluetooth Speaker 10W — Subwoofer Stereo 333g | AJ Euro](https://ajeuro.com/products/waterproof-outdoor-bluetooth-speaker-10w-subwoofer-stereo-333g): 10W waterproof outdoor Bluetooth speaker with subwoofer stereo, 333g and 152mm compact body. Built-in rechargeable battery. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:37Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9454e342-9f87-4e3a-8c6f-d185df7f3ec8.jpg?v=1773203311
+    Price: €93.99 EUR
+  - [White / US / HY300PRO](https://ajeuro.com/products/hy300-ultra-mini-projector-720p-hd-170-ansi-lumens?variant=47772946399424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/684cda1b-6b4a-4ee9-a43d-581f1686dde4.jpg?v=1773203311
+    Price: €89.99 EUR
+  - [White / US / HY300ultra](https://ajeuro.com/products/hy300-ultra-mini-projector-720p-hd-170-ansi-lumens?variant=47772946432192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9454e342-9f87-4e3a-8c6f-d185df7f3ec8.jpg?v=1773203311
+    Price: €93.99 EUR
+- [HD Wireless Baby Monitor ABM501 — 5-inch 720p Cry Detection | AJ Euro](https://ajeuro.com/products/hd-wireless-baby-monitor-abm501-5-inch-720p-cry-detection): HD wireless baby monitor with 5-inch 720p screen, cry detection, temperature monitoring and VOX mode. EU and UK plug included. Ships to Europe.
+  Updated: 2026-06-12T14:20:30Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1719050389483.jpg?v=1772250510
-  - [Black](https://ajeuro.com/products/waterproof-outdoor-bluetooth-speaker-10w-subwoofer-stereo-333g?variant=47594442522816)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/050141d9-58e1-4565-8817-2a9b9d8f353f.jpg?v=1773203804
+  - [White / AU](https://ajeuro.com/products/hd-wireless-baby-monitor-abm501-5-inch-720p-cry-detection?variant=47772954427584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2963408139326.jpg?v=1772250517
-    Price: €45.99 EUR
-  - [Black1](https://ajeuro.com/products/waterproof-outdoor-bluetooth-speaker-10w-subwoofer-stereo-333g?variant=47594442555584)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/75474f5a-4c66-4b80-8621-f1f3cefebd84.jpg?v=1773203812
+    Price: €82.12 EUR
+  - [White / EU](https://ajeuro.com/products/hd-wireless-baby-monitor-abm501-5-inch-720p-cry-detection?variant=47772954460352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1719050389483_70d29986-6ce8-4483-ad5b-d89e9651367f.jpg?v=1772250517
-    Price: €45.99 EUR
-  - [Blue](https://ajeuro.com/products/waterproof-outdoor-bluetooth-speaker-10w-subwoofer-stereo-333g?variant=47594442588352)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/75474f5a-4c66-4b80-8621-f1f3cefebd84.jpg?v=1773203812
+    Price: €82.12 EUR
+  - [White / UK](https://ajeuro.com/products/hd-wireless-baby-monitor-abm501-5-inch-720p-cry-detection?variant=47772954493120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/293466137520.jpg?v=1772250517
-    Price: €45.99 EUR
-  - [Red](https://ajeuro.com/products/waterproof-outdoor-bluetooth-speaker-10w-subwoofer-stereo-333g?variant=47594442621120)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/75474f5a-4c66-4b80-8621-f1f3cefebd84.jpg?v=1773203812
+    Price: €82.12 EUR
+  - [White / US](https://ajeuro.com/products/hd-wireless-baby-monitor-abm501-5-inch-720p-cry-detection?variant=47772954525888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/244887475609.jpg?v=1772250517
-    Price: €45.99 EUR
-  - [Red1](https://ajeuro.com/products/waterproof-outdoor-bluetooth-speaker-10w-subwoofer-stereo-333g?variant=47594442653888)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1717335575568.jpg?v=1772250517
-    Price: €45.99 EUR
-- [DX09 Clip-On Open-Ear Headphones — Waterproof Bluetooth 5.3 Sports | AJ Euro](https://ajeuro.com/products/dx09-clip-on-open-ear-headphones-waterproof-bluetooth-5-3-sports): DX09 ear clip open-ear Bluetooth 5.3 headphones with waterproof build, breathing light, voice control and 4hr battery. Sports use. Ships to France and the UK.
-  Updated: 2026-06-09T02:27:08Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/75474f5a-4c66-4b80-8621-f1f3cefebd84.jpg?v=1773203812
+    Price: €82.12 EUR
+- [Magnetic Ball Desktop Microphone with LED Light — USB-C Pickup | AJ Euro](https://ajeuro.com/products/magnetic-ball-desktop-microphone-led-usb-c-pickup): Ball-shaped USB-C desktop microphone with LED light and 60Hz–15kHz pickup. For karaoke, streaming and home recording. Ships to Europe.
+  Updated: 2026-06-11T18:39:33Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0497762e-6c2b-4eea-b8cb-cf78de2b8819_trans.jpg?v=1772262772
-  - [Black](https://ajeuro.com/products/dx09-clip-on-open-ear-headphones-waterproof-bluetooth-5-3-sports?variant=47595500175552)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1bd11a16-a105-4ff0-9604-50a479bcf773.jpg?v=1773204476
+  - [Black / USB](https://ajeuro.com/products/magnetic-ball-desktop-microphone-led-usb-c-pickup?variant=47772961833152)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/55677466-8758-4d16-bbdc-a70043485940.jpg?v=1772262776
-    Price: €15.29 EUR
-  - [Skin color box](https://ajeuro.com/products/dx09-clip-on-open-ear-headphones-waterproof-bluetooth-5-3-sports?variant=47595500208320)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/45249d4a-c9a5-494b-bfa7-9edae5cb5ad2.jpg?v=1773204482
+    Price: €83.44 EUR
+  - [White / USB](https://ajeuro.com/products/magnetic-ball-desktop-microphone-led-usb-c-pickup?variant=47772961865920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fcdbef5e-e8a8-4667-be7b-e359107ad98c.jpg?v=1772262776
-    Price: €15.29 EUR
-  - [Skin color in kraft paper](https://ajeuro.com/products/dx09-clip-on-open-ear-headphones-waterproof-bluetooth-5-3-sports?variant=47595500241088)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ddeb224a-db5e-4ed9-b619-b94a95acc134.jpg?v=1772262776
-    Price: €15.29 EUR
-  - [White](https://ajeuro.com/products/dx09-clip-on-open-ear-headphones-waterproof-bluetooth-5-3-sports?variant=47595500273856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3f664fe7-2392-48e3-89a2-18fc00e82d3f.jpg?v=1772262776
-    Price: €15.29 EUR
-- [LED Faucet Water Thermometer — Real-Time Digital Bath Display 5–85°C | AJ Euro](https://ajeuro.com/products/led-faucet-water-thermometer-real-time-digital-bath-display-5-85c): LED faucet water thermometer — real-time 5–85°C display, ±0.5°C accuracy, water-powered. Ideal for baby baths and daily use. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:37Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5d6a2ffd-9b70-48a5-855e-2a03d7a8a737.jpg?v=1773204482
+    Price: €86.44 EUR
+- [Pixel Expression Alarm Clock with Night Light — Digital Bedside | AJ Euro](https://ajeuro.com/products/pixel-expression-alarm-clock-night-light-digital): Pixel expression alarm clock with dual alarms, snooze and soft night light. Basic and Expression models available. 1500mAh battery. Ships to Europe.
+  Updated: 2026-06-11T18:35:59Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1618540839512.jpg?v=1772422848
-  - [Generation](https://ajeuro.com/products/led-faucet-water-thermometer-real-time-digital-bath-display-5-85c?variant=47598665236672)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1612338392015.jpg?v=1773204820
+  - [Pink / A](https://ajeuro.com/products/pixel-expression-alarm-clock-night-light-digital?variant=47772965208256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1618540839515.jpg?v=1772422852
-    Price: €19.37 EUR
-  - [Second generation](https://ajeuro.com/products/led-faucet-water-thermometer-real-time-digital-bath-display-5-85c?variant=47598665269440)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1612338392018.jpg?v=1773204825
+    Price: €26.11 EUR
+  - [Pink / B](https://ajeuro.com/products/pixel-expression-alarm-clock-night-light-digital?variant=47772965241024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1618540839515.jpg?v=1772422852
-    Price: €22.99 EUR
-- [Anti-Snoring Earpiece with Sleep Tracker — Bone Conduction Sleeplus | AJ Euro](https://ajeuro.com/products/anti-snoring-earpiece-sleep-tracker-bone-conduction-sleeplus-app): Anti-snoring earpiece with bone conduction detection, adaptive vibration response and Sleeplus App sleep tracking. Rechargeable. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:37Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1612338392018.jpg?v=1773204825
+    Price: €28.87 EUR
+  - [White / A](https://ajeuro.com/products/pixel-expression-alarm-clock-night-light-digital?variant=47772965273792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1612338392032.jpg?v=1773204826
+    Price: €26.11 EUR
+  - [White / B](https://ajeuro.com/products/pixel-expression-alarm-clock-night-light-digital?variant=47772965306560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1612338392032.jpg?v=1773204826
+    Price: €28.87 EUR
+- [Handheld Red Light Therapy Device — Infrared Pain Relief 808nm | AJ Euro](https://ajeuro.com/products/handheld-red-light-therapy-device-infrared-808nm-650nm): Handheld red light therapy device — 808nm infrared and 650nm red diodes for muscle and joint relief. Carrying case included. Ships to Europe.
+  Updated: 2026-06-11T18:30:32Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ca5fcdac-7531-4a60-9fb2-91350ce7e815.jpg?v=1772433864
-  Price: €107.18 EUR
-- [Bone Conduction Bluetooth 5.0 Headphones — Titanium Hook Open-Ear | AJ Euro](https://ajeuro.com/products/bone-conduction-bluetooth-5-0-headphones-titanium-hook-open-ear): Bone conduction Bluetooth 5.0 headphones — open-ear titanium hook, 230mAh USB-C, waterproof. Glasses-friendly. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:37Z
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/83654498-481e-4a75-9b08-e71152d97b13.jpg?v=1773280816
+  Price: €175.23 EUR
+- [Electric Heated Waist Belt — USB Rechargeable Heat Therapy Wrap | AJ Euro](https://ajeuro.com/products/electric-heated-waist-abdomen-belt-usb-rechargeable): USB rechargeable heated waist and abdomen belt with 5 temperature settings from 40–60°C. 1800mAh battery, soft deer velvet fabric. Ships to Europe.
+  Updated: 2026-06-11T18:26:43Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/920932309693.jpg?v=1772503793
-  - [Black](https://ajeuro.com/products/bone-conduction-bluetooth-5-0-headphones-titanium-hook-open-ear?variant=47601487708352)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/43015897-fb95-4e9d-a9c2-15db354b4763_trans.jpg?v=1773281269
+  - [Beige](https://ajeuro.com/products/electric-heated-waist-abdomen-belt-usb-rechargeable?variant=47779450814656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/536167520967.jpg?v=1772503802
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/611a9f7d-ceba-49fb-9f8d-e68a24521d85_trans.jpg?v=1773281275
+    Price: €18.60 EUR
+  - [Girl Pink](https://ajeuro.com/products/electric-heated-waist-abdomen-belt-usb-rechargeable?variant=47779450847424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dcb9b7f9-c720-460b-925e-2e247d940e46_trans.jpg?v=1773281275
+    Price: €18.60 EUR
+  - [Pearl White](https://ajeuro.com/products/electric-heated-waist-abdomen-belt-usb-rechargeable?variant=47779450880192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e06849e-8271-43d3-9468-5ee8339db0cf_trans.jpg?v=1773281275
+    Price: €18.60 EUR
+- [80W Party Speaker with 2 Wireless Mics, RGB Lights & Remote | AJ Euro](https://ajeuro.com/products/80w-party-speaker-wireless-mics-rgb-lights-remote-wb10s): 80W Bluetooth 5.0 party speaker with 2 wireless mics, RGB lighting, remote control, guitar input and 12hr battery. Karaoke ready. Ships to Europe.
+  Updated: 2026-06-11T18:20:53Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/df4eb3d5-b4fd-4011-a95b-ddd1ac259902.jpg?v=1773282096
+  Price: €142.50 EUR
+- [CAMEWIN Carbon Fibre Pickleball Paddle — PP Honeycomb 200g | AJ Euro](https://ajeuro.com/products/camewin-carbon-fibre-pickleball-paddle-pp-honeycomb-200g): CAMEWIN carbon fibre pickleball paddle with PP honeycomb core, 200g weight and double-sided glass carbon face. Includes carry bag. Ships to Europe.
+  Updated: 2026-06-11T14:46:50Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5eb70fb4-e13b-441d-9466-4d720c587b2a.jpg?v=1773284253
+  Price: €98.61 EUR
+- [Pickleball Paddle Set — 2 Carbon Fibre Paddles, 4 Balls & Bag | AJ Euro](https://ajeuro.com/products/pickleball-paddle-set-2-carbon-fibre-paddles-4-balls-bag): Complete pickleball set — 2 carbon fibre paddles, 4 balls and carry bag. 5 set options. Great for beginners. Ships to Europe.
+  Updated: 2026-06-11T14:42:19Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f59210aa-d2b2-43bb-85d5-116bfe39a2ad.jpg?v=1773284551
+  - [Set1](https://ajeuro.com/products/pickleball-paddle-set-2-carbon-fibre-paddles-4-balls-bag?variant=47779895378112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/140aa3b7-6575-4c96-a226-c00f7c1adecd.jpg?v=1773284554
+    Price: €31.00 EUR
+  - [Set2](https://ajeuro.com/products/pickleball-paddle-set-2-carbon-fibre-paddles-4-balls-bag?variant=47779895410880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0999665b-9383-4cb4-8652-4b4b222b0334.jpg?v=1773284554
+    Price: €31.00 EUR
+  - [Set3](https://ajeuro.com/products/pickleball-paddle-set-2-carbon-fibre-paddles-4-balls-bag?variant=47779895443648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b0a2f937-066c-496f-8687-0b51f6cfe138.jpg?v=1773284554
+    Price: €31.00 EUR
+  - [Set4](https://ajeuro.com/products/pickleball-paddle-set-2-carbon-fibre-paddles-4-balls-bag?variant=47779895476416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5c184823-4e1b-435c-8f3c-b55f2248687f.jpg?v=1773284554
+    Price: €31.00 EUR
+  - [Set5](https://ajeuro.com/products/pickleball-paddle-set-2-carbon-fibre-paddles-4-balls-bag?variant=47779895509184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d41fe916-168b-4ca6-b46a-0696c591cf69.jpg?v=1773284554
+    Price: €31.00 EUR
+- [CAMEWIN Carbon Fibre Padel Racket Round Head 360g EVA Foam | AJ Euro](https://ajeuro.com/products/camewin-4018-carbon-fibre-padel-racket-round-head-360g): CAMEWIN 4018 carbon fibre padel racket with EVA foam core, round head shape and 360g weight. 25.5×26.5cm hitting area. Ships to Europe.
+  Updated: 2026-06-11T14:39:02Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/18ea9963-1ad2-4e44-857b-cb5d6e2cbc9c.jpg?v=1773284843
+  - [Green](https://ajeuro.com/products/camewin-4018-carbon-fibre-padel-racket-round-head-360g?variant=47780017209536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d8facea7-b732-4ce9-a53b-a50062ceb27e.jpg?v=1773284848
     Price: €49.99 EUR
-  - [Grey](https://ajeuro.com/products/bone-conduction-bluetooth-5-0-headphones-titanium-hook-open-ear?variant=47601487741120)
+  - [Pink](https://ajeuro.com/products/camewin-4018-carbon-fibre-padel-racket-round-head-360g?variant=47780017242304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e4d21b0b-4f89-4e33-a9de-b376842de016.jpg?v=1772503802
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3ed8c134-76d2-4f19-9c89-f1709d503901.jpg?v=1773284847
     Price: €49.99 EUR
-- [USB Mini Humidifier — 7-Colour LED Night Light Aromatherapy Diffuser | AJ Euro](https://ajeuro.com/products/usb-mini-humidifier-7-colour-led-night-light-aromatherapy-diffuser): USB humidifier with 7-colour LED, 9hr runtime, 50ml/h mist and essential oil compatibility. 3W quiet operation. Black or white. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:37Z
+  - [Purple](https://ajeuro.com/products/camewin-4018-carbon-fibre-padel-racket-round-head-360g?variant=47780017275072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8883b1cd-20ec-4e66-acde-51a989dfea94.jpg?v=1773284847
+    Price: €49.99 EUR
+- [3-in-1 Dog Water Bottle with Food Box & Waste Bag Dispenser | AJ Euro](https://ajeuro.com/products/pet-water-bottle-feeder-bowl-garbage-bag-storage-portable-pet-outdoor-travel-3-in-1-dog-water-bottle): 3-in-1 dog water bottle with food box and waste bag dispenser. 300ml or 500ml, 4 colours. Ideal for walks and travel. Ships to Europe.
+  Updated: 2026-06-10T19:29:20Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/564835242744.jpg?v=1772505119
-  - [Black](https://ajeuro.com/products/usb-mini-humidifier-7-colour-led-night-light-aromatherapy-diffuser?variant=47601494589632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2858755523564.jpg?v=1772505125
-    Price: €33.99 EUR
-  - [White](https://ajeuro.com/products/usb-mini-humidifier-7-colour-led-night-light-aromatherapy-diffuser?variant=47601494622400)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/745514388201.jpg?v=1772505125
-    Price: €33.99 EUR
-- [Digital Electronic Measuring Wheel — 99m LCD USB-C 35g 8 Functions | AJ Euro](https://ajeuro.com/products/digital-electronic-measuring-wheel-99m-lcd-usb-c-35g): Digital measuring wheel — 99m range, 0.5% accuracy, 1.8" LCD and 200-day USB-C battery. 35g aluminium body. Ships to France and the UK.
-  Updated: 2026-05-22T21:31:29Z
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e2219810-b602-49c3-89d3-c856ece134e9.jpg?v=1773284921
+  Price: €19.99 EUR
+- [Carbon Fibre Padel Racket — Round Head Power Bat 460×260mm | AJ Euro](https://ajeuro.com/products/carbon-fibre-padel-racket-round-head-power-460mm): Carbon and glass fibre round head padel racket with perforated face and 460×260mm hitting surface. Power-oriented design. Ships to Europe.
+  Updated: 2026-06-10T19:25:05Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/74e7659c-c381-4668-919a-348c64114d35.jpg?v=1772505931
-  - [Black](https://ajeuro.com/products/digital-electronic-measuring-wheel-99m-lcd-usb-c-35g?variant=47601497637056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/79ff5a4f-cf6d-44b2-a2a2-c83b59ce2986.jpg?v=1772505943
-    Price: €17.18 EUR
-  - [Black 2PCS](https://ajeuro.com/products/digital-electronic-measuring-wheel-99m-lcd-usb-c-35g?variant=47601497669824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/34ce8b35-b538-4c49-b419-cfe9ea5adc41.jpg?v=1772505943
-    Price: €33.99 EUR
-  - [Black 3PCS](https://ajeuro.com/products/digital-electronic-measuring-wheel-99m-lcd-usb-c-35g?variant=47601497702592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b0d84e15-c532-4647-b365-66028e04deed.jpg?v=1772505943
-    Price: €44.99 EUR
-  - [Black 5PCS](https://ajeuro.com/products/digital-electronic-measuring-wheel-99m-lcd-usb-c-35g?variant=47601497735360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/62f06a16-7a7b-468d-bb05-d153d189ab85.jpg?v=1772505943
-    Price: €80.99 EUR
-- [Floating Waterproof Phone Bag — PVC Dry Bag Beach & Water Sports | AJ Euro](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports): Floating waterproof PVC phone bag for 99% of smartphones. Touchscreen usable, watertight seal. 9 colours. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:38Z
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f5f770d6-cabb-486c-b005-901ee9b32a80.jpg?v=1773285038
+  Price: €64.55 EUR
+- [Professional Pickleball Paddle — Wooden Graphic Design 11 Styles | AJ Euro](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design): Wooden pickleball paddle in 11 graphic designs including starry sky, coral reef and vortex. Standard 400×192mm dimensions. Ships to Europe.
+  Updated: 2026-06-10T19:22:20Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f65d6c18-f19b-4ecb-8c41-9e9a137e151a.jpg?v=1772507437
-  - [Black / Suitable for 99mobile phones / 1PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510318272)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d82d1554-47bd-467d-bc8c-85d34320aac0_trans.jpg?v=1773285437
+  - [Angel](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780148805824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d09426ee-59a1-4c7a-b55c-56b164862db0.jpg?v=1772507450
-    Price: €5.72 EUR
-  - [Black / Suitable for 99mobile phones / 2PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510351040)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2658d7a1-dead-406f-9f47-e91b3e4b4850_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Cat](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780148838592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/298f9463-a575-4644-b316-b4a8154541cd.jpg?v=1772507450
-    Price: €9.66 EUR
-  - [Blue / Suitable for 99mobile phones / 1PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510383808)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d214cbe6-dd2f-43ad-800f-c557db2506c1_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Colored Fish](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780148871360)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cc9845e4-8f88-4363-aa5b-41b21eb585db.jpg?v=1772507450
-    Price: €5.72 EUR
-  - [Blue / Suitable for 99mobile phones / 2PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510416576)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f40a0856-b7e2-4770-9c18-f0e7a2ca31bc_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Colored Stripes](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780148904128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a2d3a5c9-b467-4804-8f92-01eb9f33fa74.jpg?v=1772507450
-    Price: €9.66 EUR
-  - [Green / Suitable for 99mobile phones / 1PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510449344)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7f2da164-66f0-4c7a-857d-07d612bc9b15_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Ice Seal Light](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780148936896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/149f5487-67a4-418b-80ff-98028f5a443e.jpg?v=1772507450
-    Price: €5.72 EUR
-  - [Green / Suitable for 99mobile phones / 2PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510482112)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/64e82563-23bc-43d8-beff-4649b94b2a01_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Light Deer](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780148969664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/825276e2-c460-4368-9589-7c247927a8b1.jpg?v=1772507450
-    Price: €9.66 EUR
-  - [Lake blue / Suitable for 99mobile phones / 1PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510514880)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/db149946-f4db-42f9-8ea8-77262ff97655_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Red Sun](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780149002432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d3991f96-da55-4257-a404-30ee15d77e70.jpg?v=1772507450
-    Price: €5.72 EUR
-  - [Lake blue / Suitable for 99mobile phones / 2PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510547648)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/be23e7ae-858c-4faf-9fbe-a0696fd721a9_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Sea Coral](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780149035200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9e5dc0c5-7fa5-4ec0-a78e-ee4dd00e6deb.jpg?v=1772507450
-    Price: €9.66 EUR
-  - [Orange / Suitable for 99mobile phones / 1PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510580416)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5175be7c-397c-465a-9826-0877500c29d9_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Starry Night Ancient Town](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780149067968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/495f0f2b-742d-4593-861e-94e7c2a27bce.jpg?v=1772507450
-    Price: €5.72 EUR
-  - [Orange / Suitable for 99mobile phones / 2PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510613184)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bdff992a-1134-429e-8542-3ee66747da63_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Starry Sky Female](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780149100736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f773241c-5041-48f8-b09c-04e09eb6f972.jpg?v=1772507450
-    Price: €9.66 EUR
-  - [Pink / Suitable for 99mobile phones / 1PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510645952)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/10a239e1-54d7-4af4-96af-9f256f7bfc7b_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+  - [Vortex](https://ajeuro.com/products/professional-pickleball-paddle-wooden-graphic-design?variant=47780149133504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2ba8004b-ca34-44e7-8908-8a2bac54a618.jpg?v=1772507450
-    Price: €5.72 EUR
-  - [Pink / Suitable for 99mobile phones / 2PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510678720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ad46700c-fd62-4bc9-8895-42519ea91557.jpg?v=1772507450
-    Price: €9.66 EUR
-  - [Purple / Suitable for 99mobile phones / 1PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510711488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/578ee2d0-60b7-4702-9447-c3055d00fa92.jpg?v=1772507450
-    Price: €5.72 EUR
-  - [Purple / Suitable for 99mobile phones / 2PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510744256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/432f28c8-9d4c-46e8-9c22-f4c4b178970d.jpg?v=1772507450
-    Price: €9.66 EUR
-  - [White / Suitable for 99mobile phones / 1PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510777024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5fcc149a-7076-4c8d-b231-58dbee337393.jpg?v=1772507450
-    Price: €5.72 EUR
-  - [White / Suitable for 99mobile phones / 2PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510809792)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e7ccda3d-d8bb-48af-b13e-dff5b9521b65.jpg?v=1772507450
-    Price: €9.66 EUR
-  - [Yellow / Suitable for 99mobile phones / 1PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510842560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a714d094-6bd5-48e5-9302-f5c3b90f6995.jpg?v=1772507450
-    Price: €5.72 EUR
-  - [Yellow / Suitable for 99mobile phones / 2PC](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports?variant=47601510875328)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ef339a30-8d62-4fda-9f30-f8d1cbfb6054.jpg?v=1772507450
-    Price: €9.66 EUR
-- [Washable Pet Bed for Cats & Dogs — All-Season Warm Kennel S/M/L | AJ Euro](https://ajeuro.com/products/washable-pet-bed-cats-dogs-all-season-warm-kennel-s-m-l): Machine-washable pet bed for cats and dogs in 3 sizes — S 49×35cm, M 57×40cm, L 73×50cm. Warm all-season fabric. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:38Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5c9ebd6e-a3be-49a2-993d-9247df03e910_trans.jpg?v=1773285449
+    Price: €16.27 EUR
+- [Carbon Fibre Beach Tennis Racket with EVA Core — 46cm | AJ Euro](https://ajeuro.com/products/carbon-fibre-beach-tennis-racket-eva-core-46cm): Carbon fibre beach tennis racket with EVA foam core and drilled face. High stability, accurate ball control. Grey, green or orange. Ships to Europe.
+  Updated: 2026-06-10T19:19:20Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1616402993896.jpg?v=1772507955
-  - [Black / L](https://ajeuro.com/products/washable-pet-bed-cats-dogs-all-season-warm-kennel-s-m-l?variant=47601517297856)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/858a7b69-89ee-4562-995a-815b67ea5ace.jpg?v=1773285554
+  - [Green](https://ajeuro.com/products/carbon-fibre-beach-tennis-racket-eva-core-46cm?variant=47780160733376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1616402993896_7ebd8dec-3732-4cb1-a866-36cd74d74bbe.jpg?v=1772507960
-    Price: €97.41 EUR
-  - [Black / M](https://ajeuro.com/products/washable-pet-bed-cats-dogs-all-season-warm-kennel-s-m-l?variant=47601517330624)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9e842d03-e6fb-45d3-9411-dba06617a508.jpg?v=1773285558
+    Price: €50.50 EUR
+  - [Grey](https://ajeuro.com/products/carbon-fibre-beach-tennis-racket-eva-core-46cm?variant=47780160766144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1616402993896_7ebd8dec-3732-4cb1-a866-36cd74d74bbe.jpg?v=1772507960
-    Price: €87.09 EUR
-  - [Black / S](https://ajeuro.com/products/washable-pet-bed-cats-dogs-all-season-warm-kennel-s-m-l?variant=47601517363392)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/858a7b69-89ee-4562-995a-815b67ea5ace_1e91da79-a788-4584-90ad-1fecff50ac91.jpg?v=1773285558
+    Price: €50.50 EUR
+  - [Orange](https://ajeuro.com/products/carbon-fibre-beach-tennis-racket-eva-core-46cm?variant=47780160798912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1616402993896_7ebd8dec-3732-4cb1-a866-36cd74d74bbe.jpg?v=1772507960
-    Price: €58.10 EUR
-  - [Green / L](https://ajeuro.com/products/washable-pet-bed-cats-dogs-all-season-warm-kennel-s-m-l?variant=47601517396160)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1616402993914.jpg?v=1772507960
-    Price: €97.41 EUR
-  - [Green / M](https://ajeuro.com/products/washable-pet-bed-cats-dogs-all-season-warm-kennel-s-m-l?variant=47601517428928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1616402993914.jpg?v=1772507960
-    Price: €87.09 EUR
-  - [Green / S](https://ajeuro.com/products/washable-pet-bed-cats-dogs-all-season-warm-kennel-s-m-l?variant=47601517461696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1616402993914.jpg?v=1772507960
-    Price: €58.10 EUR
-- [Cat & Dog Slow Feeder Bowl — Anti-Gulp Bloat Stop PP Safe 3 Colours | AJ Euro](https://ajeuro.com/products/cat-dog-slow-feeder-bowl-anti-gulp-bloat-stop-pp-safe-3-colours): Slow feeder bowl for cats and dogs with raised maze pattern to reduce gulping, bloating and choking. Food-safe PP, 3 colours. Ships to France and the UK.
-  Updated: 2026-06-04T21:27:15Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d61367e7-416a-4a13-884a-ddf1f2ee0e1b.jpg?v=1773285558
+    Price: €50.50 EUR
+- [AMASPORT ERA 1.0 Carbon Fibre Padel Racket 18K | AJ Euro](https://ajeuro.com/products/amasport-era-1-0-carbon-fibre-padel-racket-18k): AMASPORT ERA 1.0 professional carbon fibre padel racket with teardrop shape and 18K construction. Balanced power and control. Ships to Europe.
+  Updated: 2026-06-10T19:17:17Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3d15f29e-52f2-4d5f-bfd5-e5eedb851eec.jpg?v=1772508189
-  - [Green](https://ajeuro.com/products/cat-dog-slow-feeder-bowl-anti-gulp-bloat-stop-pp-safe-3-colours?variant=47601518969024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3f2fd331-bd46-4e91-939b-2fe10bc16685.jpg?v=1772508197
-    Price: €12.02 EUR
-  - [Orange](https://ajeuro.com/products/cat-dog-slow-feeder-bowl-anti-gulp-bloat-stop-pp-safe-3-colours?variant=47601519001792)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1dbcc4f1-e501-49d0-9e5c-87db96fe6ace.jpg?v=1772508197
-    Price: €12.02 EUR
-  - [Pink](https://ajeuro.com/products/cat-dog-slow-feeder-bowl-anti-gulp-bloat-stop-pp-safe-3-colours?variant=47601519034560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d9f45be0-81b0-485c-a73e-3498828b065a.jpg?v=1772508197
-    Price: €12.02 EUR
-  - [Set](https://ajeuro.com/products/cat-dog-slow-feeder-bowl-anti-gulp-bloat-stop-pp-safe-3-colours?variant=47601519067328)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f0f25a94-d40c-4d77-880b-aca7d7d40eee.jpg?v=1772508197
-    Price: €20.19 EUR
-  - [Set1](https://ajeuro.com/products/cat-dog-slow-feeder-bowl-anti-gulp-bloat-stop-pp-safe-3-colours?variant=47601519100096)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/afbbfb2a-2ded-4970-b2bc-a204d1c3372c.jpg?v=1772508197
-    Price: €20.19 EUR
-- [Silicone Pet Shampoo Brush — 2-in-1 Soap Dispenser & Grooming Scrubber | AJ Euro](https://ajeuro.com/products/silicone-pet-shampoo-brush-2-in-1-soap-dispenser-grooming-scrubber): 2-in-1 silicone pet shampoo brush with soap dispenser and massage bristles. Gentle for cats and dogs. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:38Z
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7d7c44b5-d464-4032-aad1-5f73cb47f7df_fine.jpg?v=1773285772
+  Price: €300.45 EUR
+- [Circle Ring Wireless Earbuds — Bluetooth 5.0 20m Extended Range | AJ Euro](https://ajeuro.com/products/circle-ring-wireless-earbuds-bluetooth-5-20m-range): Bluetooth 5.0 wireless earbuds with extended 20m range, battery display and voice control. Bilateral stereo sound. Ships to Europe.
+  Updated: 2026-06-10T19:14:05Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1805162207164764160.jpg?v=1772508357
-  - [Blue](https://ajeuro.com/products/silicone-pet-shampoo-brush-2-in-1-soap-dispenser-grooming-scrubber?variant=47601519263936)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4942549762584.jpg?v=1773286146
+  - [Black](https://ajeuro.com/products/circle-ring-wireless-earbuds-bluetooth-5-20m-range?variant=47780173709504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1858785251267186688.jpg?v=1772508368
-    Price: €9.79 EUR
-  - [Pink](https://ajeuro.com/products/silicone-pet-shampoo-brush-2-in-1-soap-dispenser-grooming-scrubber?variant=47601519296704)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/713076566926.jpg?v=1773286151
+    Price: €49.50 EUR
+  - [White](https://ajeuro.com/products/circle-ring-wireless-earbuds-bluetooth-5-20m-range?variant=47780173742272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1858785248893210624.jpg?v=1772508368
-    Price: €9.79 EUR
-  - [Yellow](https://ajeuro.com/products/silicone-pet-shampoo-brush-2-in-1-soap-dispenser-grooming-scrubber?variant=47601519329472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1858785247785914368.jpg?v=1772508368
-    Price: €9.79 EUR
-- [2-in-1 USB Misting Fan & Humidifier — 3 Speed Desk Spray Fan | AJ Euro](https://ajeuro.com/products/2-in-1-usb-misting-fan-humidifier-3-speed-desk-spray-cooling): 2-in-1 USB misting fan and humidifier with 3 speed modes, brushless motor and adjustable tilt. USB powered. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:38Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6112869925406.jpg?v=1773286151
+    Price: €49.50 EUR
+- [M15 Wireless Earbuds Multipoint Connection — Bluetooth 5.0 | AJ Euro](https://ajeuro.com/products/m15-wireless-earbuds-multipoint-bluetooth-5): M15 Bluetooth 5.0 earbuds with multipoint connection, battery display and voice control. Stereo sound. Ships to Europe.
+  Updated: 2026-06-10T19:09:42Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7ec13bd7-a52e-43e3-afb9-cace6d10f7c3.jpg?v=1772521731
-  - [Green](https://ajeuro.com/products/2-in-1-usb-misting-fan-humidifier-3-speed-desk-spray-cooling?variant=47601934336192)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1337223666509.jpg?v=1773286396
+  - [M12black](https://ajeuro.com/products/m15-wireless-earbuds-multipoint-bluetooth-5?variant=47780179837120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dd6233d9-5965-4ea2-aa59-4c1bc3899fb3.jpg?v=1772521741
-    Price: €28.65 EUR
-  - [White](https://ajeuro.com/products/2-in-1-usb-misting-fan-humidifier-3-speed-desk-spray-cooling?variant=47601934368960)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2628676778049.jpg?v=1773286400
+    Price: €27.68 EUR
+  - [M12white](https://ajeuro.com/products/m15-wireless-earbuds-multipoint-bluetooth-5?variant=47780179869888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/83ed6d7f-8983-48a3-8e2b-d1e7c6892897.jpg?v=1772521742
-    Price: €28.65 EUR
-- [Portable USB Blender 600ml — Borosilicate Glass Juicer Cup 3 Colours | AJ Euro](https://ajeuro.com/products/portable-usb-blender-600ml-borosilicate-glass-juicer-cup): Portable USB blender with borosilicate glass liner, 600–800ml capacity, wide mouth and dual safety protection. 3 colours. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:38Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5187508806952.jpg?v=1773286400
+    Price: €27.68 EUR
+  - [M15](https://ajeuro.com/products/m15-wireless-earbuds-multipoint-bluetooth-5?variant=47780179902656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4773451297509.jpg?v=1773286400
+    Price: €28.73 EUR
+- [Wireless Sports Bluetooth Headphones Over-Ear Stereo V5.0 | AJ Euro](https://ajeuro.com/products/wireless-sports-bluetooth-headphones-over-ear-v5): Bluetooth 5.0 sports headphones with 15m range, battery display and stereo sound. Secure over-ear fit for gym and running. Ships to Europe.
+  Updated: 2026-06-10T19:07:31Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7a592688-7dfd-4a58-aa59-08610c891d51.jpg?v=1772521938
-  - [Fresh Orange](https://ajeuro.com/products/portable-usb-blender-600ml-borosilicate-glass-juicer-cup?variant=47601935843520)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619851800289.jpg?v=1773286494
+  - [Black](https://ajeuro.com/products/wireless-sports-bluetooth-headphones-over-ear-v5?variant=47780182458560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1a30a217-b923-4b50-a309-75b56101e230.jpg?v=1772521947
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619851800289_3d903e5d-3918-4234-a5c2-ab5f86d0eb5d.jpg?v=1773286498
+    Price: €29.22 EUR
+  - [Red](https://ajeuro.com/products/wireless-sports-bluetooth-headphones-over-ear-v5?variant=47780182491328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619851800290.jpg?v=1773286498
+    Price: €29.22 EUR
+- [Bluetooth Glasses with Polarised Lenses & Stereo Speakers | AJ Euro](https://ajeuro.com/products/bluetooth-glasses-polarised-lenses-stereo-speakers): Bluetooth glasses with polarised lenses, built-in stereo speakers and 7hr talk time. Myopia inner frame included. Ships to Europe.
+  Updated: 2026-06-10T19:04:46Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a9bbb474-d174-46e8-91d6-a1436ef02667.jpg?v=1773286778
+  - [Black frame polarized gray fil](https://ajeuro.com/products/bluetooth-glasses-polarised-lenses-stereo-speakers?variant=47780189012160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a9bbb474-d174-46e8-91d6-a1436ef02667_e1f7cf7a-1c70-4e1f-bf4b-a25d46cf3196.jpg?v=1773286782
+    Price: €49.99 EUR
+  - [Medium blue frame polarized gr](https://ajeuro.com/products/bluetooth-glasses-polarised-lenses-stereo-speakers?variant=47780189044928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/930bf69a-edd9-4fb0-b310-2d7e7dff75ea.jpg?v=1773286782
+    Price: €49.99 EUR
+  - [Medium red frame polarized gra](https://ajeuro.com/products/bluetooth-glasses-polarised-lenses-stereo-speakers?variant=47780189077696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1e0b4f2d-d269-4bac-bd2f-dbe41d5e1d32.jpg?v=1773286782
+    Price: €49.99 EUR
+- [Wireless Earbuds with HD Calls & Touch Control — Bluetooth 5.1 | AJ Euro](https://ajeuro.com/products/wireless-earbuds-hd-calls-touch-control-bluetooth-5-1): Bluetooth 5.1 wireless earbuds with titanium speakers, HD calls, touch control and waterproof design. 300mAh case, 6 colours. Ships to Europe.
+  Updated: 2026-06-10T19:00:45Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/49d013d9-c960-41dd-a5e1-b938cd51f94c.jpg?v=1773287650
+  - [Black](https://ajeuro.com/products/wireless-earbuds-hd-calls-touch-control-bluetooth-5-1?variant=47780210901184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ae3d183c-d053-48dd-8c41-676532d0c753.jpg?v=1773287654
+    Price: €19.99 EUR
+  - [Blue](https://ajeuro.com/products/wireless-earbuds-hd-calls-touch-control-bluetooth-5-1?variant=47780210933952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/92751a78-6d3e-40a8-8593-8b457e193ce1.jpg?v=1773287654
+    Price: €23.99 EUR
+  - [Green](https://ajeuro.com/products/wireless-earbuds-hd-calls-touch-control-bluetooth-5-1?variant=47780210966720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cfe39117-c3bc-47e6-88d1-ba928e9667bd.jpg?v=1773287655
+    Price: €19.99 EUR
+  - [Pink](https://ajeuro.com/products/wireless-earbuds-hd-calls-touch-control-bluetooth-5-1?variant=47780210999488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cf2d14f6-3f64-4cf0-986e-af7abaaeae0d.jpg?v=1773287654
+    Price: €19.99 EUR
+  - [Purple](https://ajeuro.com/products/wireless-earbuds-hd-calls-touch-control-bluetooth-5-1?variant=47780211032256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d04d5dfd-e299-46ba-9f8a-ac9cbd0856f5.jpg?v=1773287655
+    Price: €19.99 EUR
+  - [White](https://ajeuro.com/products/wireless-earbuds-hd-calls-touch-control-bluetooth-5-1?variant=47780211065024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5d6eaedf-9c12-4074-8981-f27cc8cca6d7.jpg?v=1773287655
+    Price: €19.99 EUR
+- [5-in-1 Wireless Charger with Bluetooth Speaker — 23W QC3.0 | AJ Euro](https://ajeuro.com/products/5-in-1-wireless-charger-bluetooth-speaker-23w-qc3): 5-in-1 wireless charger with Bluetooth speaker, 23W QC3.0 fast charging and magnetic support. Universal compatibility. Ships to Europe.
+  Updated: 2026-06-10T18:57:19Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dec0ae27-6948-4b73-97de-4a5d644b8bf6.jpg?v=1773288056
+  - [Black](https://ajeuro.com/products/5-in-1-wireless-charger-bluetooth-speaker-23w-qc3?variant=47780221354176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/49d37334-80f3-4af8-8da4-0fb1c9313387.jpg?v=1773288060
+    Price: €36.70 EUR
+  - [White](https://ajeuro.com/products/5-in-1-wireless-charger-bluetooth-speaker-23w-qc3?variant=47780221386944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/864ef200-892a-4d05-bf2e-8cae26d4e186.jpg?v=1773288060
+    Price: €36.70 EUR
+- [Portable Bluetooth Speaker 2.1 Stereo with Subwoofer Bass | AJ Euro](https://ajeuro.com/products/portable-bluetooth-speaker-2-1-stereo-subwoofer-bass): Portable 2.1 Bluetooth speaker with subwoofer bass and high-volume stereo sound. Built-in battery, wireless connectivity. Ships to Europe.
+  Updated: 2026-06-10T18:52:55Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1611622a-8af4-4683-a481-0e6576fc61ed.jpg?v=1773288323
+  Price: €69.90 EUR
+- [Bone Conduction Bluetooth Headphones — Open-Ear Sports 24Hr | AJ Euro](https://ajeuro.com/products/bone-conduction-bluetooth-headphones-open-ear-sports-t22): Open-ear bone conduction Bluetooth 5.3 sports headphones with 9hr single charge and 24hr total battery. Hi-Fi driver, 50Hz–20kHz. Ships to Europe.
+  Updated: 2026-06-10T18:49:13Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8d2eaa4e-9b3d-4bfd-bf3c-fd40ef82ac70.jpg?v=1773288559
+  - [Black](https://ajeuro.com/products/bone-conduction-bluetooth-headphones-open-ear-sports-t22?variant=47780244750528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/45f66fd8-67b1-466b-ba9e-70c1f17895b4.jpg?v=1773288563
+    Price: €36.90 EUR
+  - [Grey](https://ajeuro.com/products/bone-conduction-bluetooth-headphones-open-ear-sports-t22?variant=47780244783296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/825c5f09-f279-478a-8c07-9b297924c7c3.jpg?v=1773288563
+    Price: €36.90 EUR
+  - [Orange blue](https://ajeuro.com/products/bone-conduction-bluetooth-headphones-open-ear-sports-t22?variant=47780244816064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/faeeed5b-6c04-4f1d-ad06-19f94e84adb2.jpg?v=1773288564
+    Price: €36.90 EUR
+  - [Orange gold](https://ajeuro.com/products/bone-conduction-bluetooth-headphones-open-ear-sports-t22?variant=47780244848832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7ef25b75-7178-4a94-80a5-a672e30edda0.jpg?v=1773288563
+    Price: €36.90 EUR
+  - [White](https://ajeuro.com/products/bone-conduction-bluetooth-headphones-open-ear-sports-t22?variant=47780244881600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/58431d48-0618-413b-ae7f-721f777c3fd2.jpg?v=1773288564
+    Price: €36.90 EUR
+- [XG-12 TWS Wireless Earbuds — Bluetooth 5.0 & 350mAh Case | AJ Euro](https://ajeuro.com/products/xg-12-tws-wireless-earbuds-bluetooth-5-charging-case): XG-12 TWS Bluetooth 5.0 earbuds with 4hr music time, 120hr standby and 350mAh charging case for 3 full recharges. Ships to Europe.
+  Updated: 2026-06-10T18:35:56Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3442718383967.jpg?v=1773288857
+  - [Black Binaural bin](https://ajeuro.com/products/xg-12-tws-wireless-earbuds-bluetooth-5-charging-case?variant=47780252090560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/401876111077.jpg?v=1773288863
+    Price: €27.82 EUR
+  - [Red Binaural bin](https://ajeuro.com/products/xg-12-tws-wireless-earbuds-bluetooth-5-charging-case?variant=47780252123328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2827285462024.jpg?v=1773288863
+    Price: €27.82 EUR
+  - [Single Charging](https://ajeuro.com/products/xg-12-tws-wireless-earbuds-bluetooth-5-charging-case?variant=47780252156096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/573830951624.jpg?v=1773288863
+    Price: €20.96 EUR
+  - [Single USB](https://ajeuro.com/products/xg-12-tws-wireless-earbuds-bluetooth-5-charging-case?variant=47780252188864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4133529610324.jpg?v=1773288863
+    Price: €13.72 EUR
+  - [White Binaural bin](https://ajeuro.com/products/xg-12-tws-wireless-earbuds-bluetooth-5-charging-case?variant=47780252221632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/138652374065.jpg?v=1773288863
+    Price: €27.82 EUR
+- [Wireless Bluetooth Headphones 20W Full Frequency Audio 6Hr | AJ Euro](https://ajeuro.com/products/wireless-bluetooth-headphones-20w-full-frequency): 20W wireless Bluetooth headphones with 20Hz–20kHz audio range, 6hr talk time and 1.5hr fast charge. A2DP, AVRCP, HFP supported. Ships to Europe.
+  Updated: 2026-06-10T18:45:10Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3293390984386.jpg?v=1773288999
+  Price: €42.56 EUR
+- [X10 Wireless Earbuds with 3000mAh Charging Case — Bluetooth 5.0 | AJ Euro](https://ajeuro.com/products/x10-wireless-earbuds-3000mah-charging-case-bluetooth-5): X10 Bluetooth 5.0 wireless earbuds with 8hr call time, 7hr music playback and 3000mAh charging case. 100hr standby. Ships to Europe.
+  Updated: 2026-06-10T18:23:46Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/14483534801014.jpg?v=1773289383
+  Price: €49.99 EUR
+- [ANC Wireless Earbuds with Wireless Charging Case — Bluetooth 5.0 | AJ Euro](https://ajeuro.com/products/anc-wireless-earbuds-wireless-charging-case-bluetooth-5): ANC wireless earbuds with Bluetooth 5.0, bilateral stereo and 1000mAh charging case. USB-C and wireless charging supported. Ships to Europe.
+  Updated: 2026-06-10T16:31:08Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/487464422405.jpg?v=1773289627
+  Price: €87.56 EUR
+- [Over-Ear Bluetooth Headphones with NFC & Digital Display V5.0 | AJ Euro](https://ajeuro.com/products/over-ear-bluetooth-headphones-nfc-digital-display): Bluetooth 5.0 over-ear headphones with NFC pairing, digital battery display, multipoint connection and voice control. Stereo sound. Ships to Europe.
+  Updated: 2026-06-10T16:25:35Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6766927062747.jpg?v=1773289917
+  - [Black](https://ajeuro.com/products/over-ear-bluetooth-headphones-nfc-digital-display?variant=47780279845056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4644455244216.jpg?v=1773289922
+    Price: €26.70 EUR
+  - [White](https://ajeuro.com/products/over-ear-bluetooth-headphones-nfc-digital-display?variant=47780279877824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2043163761246.jpg?v=1773289922
+    Price: €26.70 EUR
+- [Wireless Bluetooth Headset with Subwoofer Bass — 10Hr Battery | AJ Euro](https://ajeuro.com/products/wireless-bluetooth-headset-subwoofer-bass-10hr): Single-ear Bluetooth headset with subwoofer bass, 10hr talk and music time, 40hr standby and 2hr charge time. LED status indicator. Ships to Europe.
+  Updated: 2026-06-10T16:12:18Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/106361940193.jpg?v=1773290150
+  - [Black](https://ajeuro.com/products/wireless-bluetooth-headset-subwoofer-bass-10hr?variant=47780331225280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/284318308926.jpg?v=1773290158
+    Price: €47.75 EUR
+  - [Blue](https://ajeuro.com/products/wireless-bluetooth-headset-subwoofer-bass-10hr?variant=47780331258048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/106361940193_64601248-a7d5-4bf6-a319-ad6a93bfdc08.jpg?v=1773290158
+    Price: €47.75 EUR
+  - [Q623BLUE](https://ajeuro.com/products/wireless-bluetooth-headset-subwoofer-bass-10hr?variant=47780331290816)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eee0e546-768f-4906-9c24-0759e1c469df.jpg?v=1773290158
+    Price: €30.20 EUR
+  - [Q623RED](https://ajeuro.com/products/wireless-bluetooth-headset-subwoofer-bass-10hr?variant=47780331323584)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8e345a51-1243-48b5-90d3-079b52b38a74.jpg?v=1773290158
+    Price: €30.20 EUR
+- [Cordless Ionic Hair Straightener Comb — Wireless Styling | AJ Euro](https://ajeuro.com/products/wireless-anion-does-not-hurt-hair-portable-straight-comb): Wireless ionic hair straightener comb for damage-free styling. USB rechargeable, 35W, 5 colour options. Ships to France and the United Kingdom.
+  Updated: 2026-05-22T04:14:58Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9ba1bf53-e992-4280-9511-74a01e457c42.jpg?v=1773366888
+  - [Black](https://ajeuro.com/products/wireless-anion-does-not-hurt-hair-portable-straight-comb?variant=47785707143360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5239c656-5d94-432d-82fb-f8eec4af45c8.jpg?v=1773366891
+    Price: €32.37 EUR
+  - [Gray](https://ajeuro.com/products/wireless-anion-does-not-hurt-hair-portable-straight-comb?variant=47785707176128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1e6add29-838a-4a94-b055-e22739029109.jpg?v=1773366892
+    Price: €32.37 EUR
+  - [Pink](https://ajeuro.com/products/wireless-anion-does-not-hurt-hair-portable-straight-comb?variant=47785707208896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/510b2c94-ad7b-4bf9-9997-152e01c63ddc.jpg?v=1773366892
+    Price: €32.37 EUR
+  - [Purple](https://ajeuro.com/products/wireless-anion-does-not-hurt-hair-portable-straight-comb?variant=47785707241664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3954c455-1332-4220-b586-8041b07b4271_trans.jpg?v=1773366892
+    Price: €32.37 EUR
+  - [White](https://ajeuro.com/products/wireless-anion-does-not-hurt-hair-portable-straight-comb?variant=47785707274432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1a6f9720-381e-4f13-8d02-eb2b88ca7f44.jpg?v=1773366892
+    Price: €32.37 EUR
+- [Wireless Ionic Hair Straightener Comb — 2600mAh USB-C | AJ Euro](https://ajeuro.com/products/wireless-charging-anion-straight-comb-usb-charging-for-curling-or-straightening): Cordless ionic straightener comb, 2600mAh battery, 60-min styling, constant 200°C heat. Anti-scalding, USB-C rechargeable. Ships to Europe.
+  Updated: 2026-06-10T16:08:17Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/796cb955-57af-46c4-8f7f-62ef017e49ab.jpg?v=1773367273
+  Price: €37.00 EUR
+- [Cordless Ionic 2-in-1 Hair Curler & Straightener Comb | AJ Euro](https://ajeuro.com/products/womens-home-anion-wireless-portable-hair-curler-and-straightener-dual-use-electric-comb): Wireless cordless 2-in-1 hair curler and straightener with negative ion technology and USB-C charging. 30W lithium battery powered. Ships to Europe.
+  Updated: 2026-06-10T16:05:23Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/259bf945-6e5a-47f6-85af-d9746e658a82_trans.jpg?v=1773367498
+  - [Black / English Packaging](https://ajeuro.com/products/womens-home-anion-wireless-portable-hair-curler-and-straightener-dual-use-electric-comb?variant=47785715499200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ff79d8a4-f1df-46b9-889a-b11c4b5d7cbd.jpg?v=1773367504
+    Price: €36.50 EUR
+  - [Black / Neutral Packaging](https://ajeuro.com/products/womens-home-anion-wireless-portable-hair-curler-and-straightener-dual-use-electric-comb?variant=47785715531968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ff79d8a4-f1df-46b9-889a-b11c4b5d7cbd.jpg?v=1773367504
+    Price: €36.50 EUR
+  - [Pink / English Packaging](https://ajeuro.com/products/womens-home-anion-wireless-portable-hair-curler-and-straightener-dual-use-electric-comb?variant=47785715564736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/12be6b65-b89e-46dc-8a32-bf80d5014aad.jpg?v=1773367504
+    Price: €36.50 EUR
+- [2-in-1 Ionic Hair Straightener & Curling Comb — Ceramic PTC | AJ Euro](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic): Ceramic 2-in-1 hair straightener and curling comb. Heats in 10 seconds, 36hr hold, wet and dry use. LCD and standard models. Ships to Europe.
+  Updated: 2026-06-10T16:03:04Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/07f21a1e-7ec9-4723-b209-6fbffac0294e.jpg?v=1773367849
+  - [Army Green / AU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719398592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/86f05cae-052d-46e1-ac39-071408c4ce71.jpg?v=1773367858
+    Price: €30.84 EUR
+  - [Army Green / EU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719431360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/86f05cae-052d-46e1-ac39-071408c4ce71.jpg?v=1773367858
     Price: €32.42 EUR
-  - [Grass Green](https://ajeuro.com/products/portable-usb-blender-600ml-borosilicate-glass-juicer-cup?variant=47601935876288)
+  - [Army Green / UK / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719464128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6e46e57e-b2a1-40b8-acb4-adf3966af453.jpg?v=1772521948
-    Price: €32.42 EUR
-  - [Light Purple](https://ajeuro.com/products/portable-usb-blender-600ml-borosilicate-glass-juicer-cup?variant=47601935909056)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/86f05cae-052d-46e1-ac39-071408c4ce71.jpg?v=1773367858
+    Price: €34.81 EUR
+  - [Army Green / US / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719496896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/760ed57d-ccd2-42f4-9407-47290cd72575.jpg?v=1772521947
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/86f05cae-052d-46e1-ac39-071408c4ce71.jpg?v=1773367858
     Price: €32.42 EUR
-- [Fish Scale Scraper with Cover — Food-Grade Kitchen Scaler 3 Colours | AJ Euro](https://ajeuro.com/products/fish-scale-scraper-cover-food-grade-kitchen-scaler-3-colours): Fish scale scraper with built-in cover to contain scales while scraping. Food-grade AS/ABS, 58g, 16.5cm. White, green or blue. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:39Z
+  - [Champagne gold / AU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719529664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7210a1b0-72b1-4c9a-92d8-78c0786e2dd0.jpg?v=1773367858
+    Price: €32.63 EUR
+  - [Champagne gold / AU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719562432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7210a1b0-72b1-4c9a-92d8-78c0786e2dd0.jpg?v=1773367858
+    Price: €36.14 EUR
+  - [Champagne gold / EU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719595200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7210a1b0-72b1-4c9a-92d8-78c0786e2dd0.jpg?v=1773367858
+    Price: €38.36 EUR
+  - [Champagne gold / UK / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719627968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7210a1b0-72b1-4c9a-92d8-78c0786e2dd0.jpg?v=1773367858
+    Price: €41.03 EUR
+  - [Champagne gold / US / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719660736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7210a1b0-72b1-4c9a-92d8-78c0786e2dd0.jpg?v=1773367858
+    Price: €38.36 EUR
+  - [Grey / AU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719693504)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/090f1587-94e8-451f-9794-8a5e07ee809b.jpg?v=1773367858
+    Price: €30.84 EUR
+  - [Grey / AU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719726272)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/090f1587-94e8-451f-9794-8a5e07ee809b.jpg?v=1773367858
+    Price: €34.48 EUR
+  - [Grey / EU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719759040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/090f1587-94e8-451f-9794-8a5e07ee809b.jpg?v=1773367858
+    Price: €37.87 EUR
+  - [Grey / UK / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719791808)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/090f1587-94e8-451f-9794-8a5e07ee809b.jpg?v=1773367858
+    Price: €39.72 EUR
+  - [Grey / US / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719824576)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/090f1587-94e8-451f-9794-8a5e07ee809b.jpg?v=1773367858
+    Price: €37.87 EUR
+  - [Pink / AU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719857344)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/34e5a48b-5555-45bd-a2f3-3b22eb0919aa.jpg?v=1773367858
+    Price: €30.84 EUR
+  - [Pink / AU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719890112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15dc2d12-2fa2-416f-bdd9-fe00f5e00d0b.jpg?v=1773367858
+    Price: €34.48 EUR
+  - [Pink / EU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719922880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/34e5a48b-5555-45bd-a2f3-3b22eb0919aa.jpg?v=1773367858
+    Price: €32.42 EUR
+  - [Pink / EU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719955648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15dc2d12-2fa2-416f-bdd9-fe00f5e00d0b.jpg?v=1773367858
+    Price: €36.56 EUR
+  - [Pink / UK / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785719988416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/34e5a48b-5555-45bd-a2f3-3b22eb0919aa.jpg?v=1773367858
+    Price: €34.81 EUR
+  - [Pink / UK / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720021184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15dc2d12-2fa2-416f-bdd9-fe00f5e00d0b.jpg?v=1773367858
+    Price: €39.29 EUR
+  - [Pink / US / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720053952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/34e5a48b-5555-45bd-a2f3-3b22eb0919aa.jpg?v=1773367858
+    Price: €32.42 EUR
+  - [Pink / US / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720086720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15dc2d12-2fa2-416f-bdd9-fe00f5e00d0b.jpg?v=1773367858
+    Price: €36.89 EUR
+  - [Purple / AU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720119488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/062c08d9-a4e1-4a77-85e7-7dd4884a03d9.jpg?v=1773367858
+    Price: €30.84 EUR
+  - [Purple / AU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720152256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b5a15629-f0d1-47f0-9c1e-411d0a011c7d.jpg?v=1773367858
+    Price: €34.48 EUR
+  - [Purple / EU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720185024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/062c08d9-a4e1-4a77-85e7-7dd4884a03d9.jpg?v=1773367858
+    Price: €32.42 EUR
+  - [Purple / EU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720217792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b5a15629-f0d1-47f0-9c1e-411d0a011c7d.jpg?v=1773367858
+    Price: €36.56 EUR
+  - [Purple / UK / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720250560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/062c08d9-a4e1-4a77-85e7-7dd4884a03d9.jpg?v=1773367858
+    Price: €34.81 EUR
+  - [Purple / UK / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720283328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b5a15629-f0d1-47f0-9c1e-411d0a011c7d.jpg?v=1773367858
+    Price: €39.29 EUR
+  - [Purple / US / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720316096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/062c08d9-a4e1-4a77-85e7-7dd4884a03d9.jpg?v=1773367858
+    Price: €32.42 EUR
+  - [Purple / US / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720348864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b5a15629-f0d1-47f0-9c1e-411d0a011c7d.jpg?v=1773367858
+    Price: €36.56 EUR
+  - [White / AU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720381632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c4628241-0087-4a4f-a24d-7115acd462a2.jpg?v=1773367858
+    Price: €30.84 EUR
+  - [White / AU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720414400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f204086c-fa29-4a9f-a9ef-7bb810bc5994.jpg?v=1773367858
+    Price: €34.74 EUR
+  - [White / EU / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720447168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c4628241-0087-4a4f-a24d-7115acd462a2.jpg?v=1773367858
+    Price: €32.42 EUR
+  - [White / EU / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720479936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f204086c-fa29-4a9f-a9ef-7bb810bc5994.jpg?v=1773367858
+    Price: €36.56 EUR
+  - [White / UK / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720512704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c4628241-0087-4a4f-a24d-7115acd462a2.jpg?v=1773367858
+    Price: €34.81 EUR
+  - [White / UK / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720545472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f204086c-fa29-4a9f-a9ef-7bb810bc5994.jpg?v=1773367858
+    Price: €39.29 EUR
+  - [White / US / File transfer](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720578240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c4628241-0087-4a4f-a24d-7115acd462a2.jpg?v=1773367858
+    Price: €32.42 EUR
+  - [White / US / LCD model](https://ajeuro.com/products/2-in-1-ionic-hair-straightener-curling-comb-ceramic?variant=47785720611008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f204086c-fa29-4a9f-a9ef-7bb810bc5994.jpg?v=1773367858
+    Price: €36.56 EUR
+- [Electric Scalp Massager with Liquid Guide — Hair Growth Device | AJ Euro](https://ajeuro.com/products/electric-scalp-massager-liquid-guide-hair-growth): Electric scalp massager with liquid guide for serums and oils. Stimulates circulation, supports hair growth. USB-C rechargeable. Ships to Europe.
+  Updated: 2026-06-10T15:56:15Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3140862281920.jpg?v=1772522199
-  - [16x5.5x4.2cm / blue](https://ajeuro.com/products/fish-scale-scraper-cover-food-grade-kitchen-scaler-3-colours?variant=47601937154240)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e48e36ff-d45a-42d9-acba-4e6e6c73f1c6.jpg?v=1773368281
+  - [Dark Gray](https://ajeuro.com/products/electric-scalp-massager-liquid-guide-hair-growth?variant=47785724739776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3140862281920_b65ffa22-4fa2-4ffe-ac1a-f7f4028ecf0a.jpg?v=1772522208
-    Price: €11.45 EUR
-  - [16x5.5x4.2cm / green](https://ajeuro.com/products/fish-scale-scraper-cover-food-grade-kitchen-scaler-3-colours?variant=47601937187008)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ce895d56-3b22-4ecb-b427-5282fb3325af.jpg?v=1773368288
+    Price: €27.00 EUR
+  - [Grey purple](https://ajeuro.com/products/electric-scalp-massager-liquid-guide-hair-growth?variant=47785724772544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9b012ea0-eb1d-4efb-a9c7-8fb6c283a8bc.jpg?v=1772522208
-    Price: €11.45 EUR
-  - [16x5.5x4.2cm / white](https://ajeuro.com/products/fish-scale-scraper-cover-food-grade-kitchen-scaler-3-colours?variant=47601937219776)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d5e124a7-a245-4862-98e5-f881d90bf616.jpg?v=1773368288
+    Price: €27.00 EUR
+  - [Red](https://ajeuro.com/products/electric-scalp-massager-liquid-guide-hair-growth?variant=47785724805312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1617988566446.jpg?v=1772522208
-    Price: €11.45 EUR
-  - [20x5.5cm / Blue](https://ajeuro.com/products/fish-scale-scraper-cover-food-grade-kitchen-scaler-3-colours?variant=47601937252544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2e9ff689-35ac-4848-b9be-7a4bf30c0cf2.jpg?v=1772522208
-    Price: €14.51 EUR
-  - [20x5.5cm / GreenA](https://ajeuro.com/products/fish-scale-scraper-cover-food-grade-kitchen-scaler-3-colours?variant=47601937285312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/aac13b4b-3528-43e6-9e57-7a4315946067.jpg?v=1772522208
-    Price: €14.51 EUR
-- [3D Sports Knee Pad — Nylon Lycra Compression Brace S–XXL 4 Colours | AJ Euro](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl): 3D weave sports knee pad with double beam pressure belt and high-elasticity Nylon Lycra Latex construction. Sizes S–XXL, 4 colours. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:39Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4a09417d-b6f4-4795-ab50-b3472605109d.jpg?v=1773368288
+    Price: €27.00 EUR
+- [Ionic Hair Dryer 1200W with Diffuser & Hot Cold Settings | AJ Euro](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser): 1200W ionic hair dryer with negative ions, 3 speeds, hot and cold air, diffuser included. UK and EU compatible. Ships to Europe.
+  Updated: 2026-06-10T15:53:54Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a5f88bdc-eeff-4950-8ca9-b083c8416da1.jpg?v=1772593592
-  - [Black Red / 2XL / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605036941504)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1620811677002.jpg?v=1773369349
+  - [Black / 220V / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734471872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/83289095-b27f-480b-881f-f028a6b666c7.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Black Red / L / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605036974272)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032947.jpg?v=1773369368
+    Price: €44.64 EUR
+  - [Black / 220V / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734504640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/83289095-b27f-480b-881f-f028a6b666c7.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Black Red / M / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037007040)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032947.jpg?v=1773369368
+    Price: €50.49 EUR
+  - [Black / EU / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734537408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/83289095-b27f-480b-881f-f028a6b666c7.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Black Red / S / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037039808)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8b09e6f9-c3c2-4e8b-aa27-ddf0808b4434.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Black / EU / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734570176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/83289095-b27f-480b-881f-f028a6b666c7.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Black Red / XL / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037072576)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8b09e6f9-c3c2-4e8b-aa27-ddf0808b4434.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Black / EU / Gift box 3 air nozzle](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734602944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/83289095-b27f-480b-881f-f028a6b666c7.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Black / 4XL / 1pc](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037105344)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0d9916d1-bd53-45d7-8dfc-64470b9b4f30.jpg?v=1773369368
+    Price: €50.49 EUR
+  - [Black / UK / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734635712)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €9.00 EUR
-  - [Black / L / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037138112)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/21873d49-f292-49c3-b3a6-4275f1652de2.jpg?v=1773369368
+    Price: €50.74 EUR
+  - [Black / UK / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734668480)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €9.00 EUR
-  - [Black / L / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037170880)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/21873d49-f292-49c3-b3a6-4275f1652de2.jpg?v=1773369368
+    Price: €56.71 EUR
+  - [Black / US / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734701248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €15.99 EUR
-  - [Black / M / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037203648)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cdaea49a-a76d-4848-8021-d51963436cb4.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Black / US / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734734016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €9.00 EUR
-  - [Black / M / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037236416)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cdaea49a-a76d-4848-8021-d51963436cb4.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Green / 220V / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734766784)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €15.99 EUR
-  - [Black / S / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037269184)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032953.jpg?v=1773369368
+    Price: €44.64 EUR
+  - [Green / 220V / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734799552)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €9.00 EUR
-  - [Black / S / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037301952)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032953.jpg?v=1773369368
+    Price: €50.95 EUR
+  - [Green / EU / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734832320)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €15.99 EUR
-  - [Black / XL / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037334720)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b8153b36-9a75-48cd-aaa9-5e77df2b9185.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Green / EU / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734865088)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €9.00 EUR
-  - [Black / XL / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037367488)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b8153b36-9a75-48cd-aaa9-5e77df2b9185.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Green / UK / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734897856)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €15.99 EUR
-  - [Black / XXL / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037400256)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/74b80c5c-8010-491c-87ee-500b8be06200.jpg?v=1773369368
+    Price: €50.74 EUR
+  - [Green / UK / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734930624)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Black / XXL / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037433024)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/74b80c5c-8010-491c-87ee-500b8be06200.jpg?v=1773369368
+    Price: €56.71 EUR
+  - [Green / US / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734963392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7ed66c71-c4cd-4608-8d3c-b724cd80b284.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Green / US / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785734996160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7ed66c71-c4cd-4608-8d3c-b724cd80b284.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Grey / 220V / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735028928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032944.jpg?v=1773369368
+    Price: €44.64 EUR
+  - [Grey / 220V / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735061696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032944.jpg?v=1773369368
+    Price: €50.49 EUR
+  - [Grey / EU / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735094464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/61483bef-a37c-4ca9-9200-9085b78164c7.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Grey / EU / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735127232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/61483bef-a37c-4ca9-9200-9085b78164c7.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Grey / UK / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735160000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/43415e29-9933-457c-b9c9-031b29771f89.jpg?v=1773369368
+    Price: €52.60 EUR
+  - [Grey / UK / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735192768)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/43415e29-9933-457c-b9c9-031b29771f89.jpg?v=1773369368
+    Price: €58.57 EUR
+  - [Grey / US / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735225536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2dc3b447-4107-4c26-acdd-763fcd28ca20.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Grey / US / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735258304)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2dc3b447-4107-4c26-acdd-763fcd28ca20.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Purple / 220V / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735291072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3bd23158-b222-4afd-90f9-171ed7020560.jpg?v=1773369368
+    Price: €51.67 EUR
+  - [Purple / 220V / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735323840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3bd23158-b222-4afd-90f9-171ed7020560.jpg?v=1773369368
+    Price: €57.04 EUR
+  - [Purple / EU / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735356608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f326a212-3e82-4eca-a975-119dffc33189.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Purple / EU / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735389376)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f326a212-3e82-4eca-a975-119dffc33189.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Purple / UK / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735422144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1323c979-556f-485a-8b04-805d7b8a5300.jpg?v=1773369368
+    Price: €50.74 EUR
+  - [Purple / UK / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735454912)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1323c979-556f-485a-8b04-805d7b8a5300.jpg?v=1773369368
+    Price: €56.71 EUR
+  - [Purple / US / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735487680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a6a4c707-c307-4d72-9b4b-c4c0351605e8.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Purple / US / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735520448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a6a4c707-c307-4d72-9b4b-c4c0351605e8.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Red / 220V / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735553216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032956.jpg?v=1773369368
+    Price: €44.64 EUR
+  - [Red / 220V / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735585984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032956.jpg?v=1773369368
+    Price: €50.49 EUR
+  - [Red / EU / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735618752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7df09ddc-7439-42f9-bc2b-4a0134ee1f13.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Red / EU / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735651520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7df09ddc-7439-42f9-bc2b-4a0134ee1f13.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Red / EU / Gift box 3 air nozzle](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735684288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eedd0d0c-2602-4d8f-b8c7-f3d6ea1fd8f2.jpg?v=1773369368
+    Price: €50.49 EUR
+  - [Red / UK / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735717056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8f729780-7ce3-4e1b-a807-5984091e21e4.jpg?v=1773369368
+    Price: €50.74 EUR
+  - [Red / UK / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735749824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8f729780-7ce3-4e1b-a807-5984091e21e4.jpg?v=1773369368
+    Price: €56.71 EUR
+  - [Red / US / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735782592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/43355b03-daee-42db-9631-dfd6ea7a978f.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Red / US / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735815360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/43355b03-daee-42db-9631-dfd6ea7a978f.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Silver / 220V / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735848128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032951.jpg?v=1773369368
+    Price: €44.64 EUR
+  - [Silver / 220V / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735880896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619174032951.jpg?v=1773369368
+    Price: €50.49 EUR
+  - [Silver / EU / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735913664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dd35ebc3-b7bc-4584-ac6a-879187471778.jpg?v=1773369368
+    Price: €49.22 EUR
+  - [Silver / EU / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735946432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dd35ebc3-b7bc-4584-ac6a-879187471778.jpg?v=1773369368
+    Price: €55.51 EUR
+  - [Silver / EU / Gift box 3 air nozzle](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785735979200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2d449cb5-da27-4862-b505-3e95009fbfd7.jpg?v=1773369368
+    Price: €50.49 EUR
+  - [Silver / UK / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785736011968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b13d2931-edd7-411a-b2a1-cb8056c90eee.jpg?v=1773369368
+    Price: €50.74 EUR
+  - [Silver / UK / Gift box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785736044736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b13d2931-edd7-411a-b2a1-cb8056c90eee.jpg?v=1773369368
+    Price: €56.71 EUR
+  - [Silver / US / Color box](https://ajeuro.com/products/ionic-hair-dryer-1200w-hot-cold-diffuser?variant=47785736077504)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cedf77b8-fd3c-49f6-aaf6-9464703f3757.jpg?v=1773369368
+    Price: €49.22 EUR
+- [Self-Cleaning Hairbrush with 3D Air Cushion — Scalp Massage | AJ Euro](https://ajeuro.com/products/self-cleaning-air-cushion-hairbrush-scalp-massage): Self-cleaning hairbrush with 3D air cushion, anti-static bristles and scalp massage. Suits all hair types. Green, pink or white. Ships to Europe.
+  Updated: 2026-06-10T15:46:38Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1716285580209557504.jpg?v=1773369650
+  - [Green](https://ajeuro.com/products/self-cleaning-air-cushion-hairbrush-scalp-massage?variant=47785737846976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1fe122e5-3172-4737-ae71-22f11cb3f0a9.jpg?v=1773369660
+    Price: €14.99 EUR
+  - [Pink](https://ajeuro.com/products/self-cleaning-air-cushion-hairbrush-scalp-massage?variant=47785737879744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1716285581677563904.jpg?v=1773369661
+    Price: €14.99 EUR
+  - [White](https://ajeuro.com/products/self-cleaning-air-cushion-hairbrush-scalp-massage?variant=47785737912512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1716285581555929088.jpg?v=1773369660
+    Price: €14.99 EUR
+- [Cordless Automatic Hair Curler with LCD Display — Ceramic | AJ Euro](https://ajeuro.com/products/cordless-automatic-hair-curler-lcd-ceramic): Rechargeable cordless hair curler with ceramic tourmaline barrel, LCD display and 60-min run time. 3 heat settings, anti-tangle protection. ​​​​Ships to Europe.​
+  Updated: 2026-06-10T15:25:53Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c20134e0-109c-4db8-a8d8-74f28e66f78d.jpg?v=1773370916
+  - [Black / USB](https://ajeuro.com/products/cordless-automatic-hair-curler-lcd-ceramic?variant=47785796042944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/11055363541858.jpg?v=1773370923
+    Price: €29.99 EUR
+  - [Pink / USB](https://ajeuro.com/products/cordless-automatic-hair-curler-lcd-ceramic?variant=47785796075712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/891100732347.jpg?v=1773370924
+    Price: €29.99 EUR
+  - [Pinkgrey / USB](https://ajeuro.com/products/cordless-automatic-hair-curler-lcd-ceramic?variant=47785796108480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9e9f905b-b187-4bba-b492-0c8e8fa0fc86.jpg?v=1773370923
+    Price: €32.55 EUR
+  - [White / USB](https://ajeuro.com/products/cordless-automatic-hair-curler-lcd-ceramic?variant=47785796141248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2216497574802.jpg?v=1773370923
+    Price: €29.99 EUR
+- [Snail Mini Bluetooth Headset — Single-Ear Wireless Earpiece | AJ Euro](https://ajeuro.com/products/snail-mini-bluetooth-headset-single-ear): Compact single-ear Bluetooth 4.0 headset with multipoint connection, Smart Caller ID and voice answering. Available in gold, black and white. Ships to Europe.
+  Updated: 2026-06-10T14:35:05Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1354205191450.jpg?v=1773372085
+  - [Black](https://ajeuro.com/products/snail-mini-bluetooth-headset-single-ear?variant=47785810264256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/799498334584.jpg?v=1773372089
+    Price: €29.99 EUR
+  - [Gold](https://ajeuro.com/products/snail-mini-bluetooth-headset-single-ear?variant=47785810297024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/852264268280.jpg?v=1773372089
+    Price: €29.99 EUR
+  - [sliver](https://ajeuro.com/products/snail-mini-bluetooth-headset-single-ear?variant=47785810329792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2651398134147.jpg?v=1773372089
+    Price: €29.99 EUR
+- [OWS Open-Ear Bluetooth Earphones V5.4 with Charging Case | AJ Euro](https://ajeuro.com/products/ows-open-ear-bluetooth-earphones-charging-case): Open-ear OWS Bluetooth earphones with 15m range, 5–6hr battery and 600mAh charging case. Voice control, AAC audio. Ships to Europe.
+  Updated: 2026-06-10T14:31:09Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/49d2d6f8-40f4-4436-82f9-62f16bf4155c_trans.jpg?v=1773372435
+  - [LX80 Black](https://ajeuro.com/products/ows-open-ear-bluetooth-earphones-charging-case?variant=47785822814400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/789c7ddd-8d9a-4bf1-91c4-828194d8956f_fine.jpg?v=1773372441
+    Price: €40.23 EUR
+  - [LX80 Purple](https://ajeuro.com/products/ows-open-ear-bluetooth-earphones-charging-case?variant=47785822847168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0fc52b77-47ed-45f6-bbce-8c51b3b056bc_fine.jpg?v=1773372441
+    Price: €40.23 EUR
+  - [LX80 Skin Color](https://ajeuro.com/products/ows-open-ear-bluetooth-earphones-charging-case?variant=47785822879936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c010062d-c6d2-4fc3-8777-f0a6e66e145a_fine.jpg?v=1773372441
+    Price: €40.23 EUR
+- [Jade Roller & Gua Sha Crystal Facial Massage Set | AJEuro](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage): Crystal jade roller and Gua Sha set for facial massage, skincare, and self-care. Delivered to France, Spain, Italy & Germany.
+  Updated: 2026-06-09T15:26:04Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/81e7b2ba-9fe8-4dbd-9eb7-d3d3d8dc4579.jpg?v=1779680037
+  - [Amethyst Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322046886080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b9560cb9-fdc9-49f7-8a68-eb22f6106620.jpg?v=1779680037
+    Price: €24.99 EUR
+  - [Blue Aventurine Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322046918848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f354d34a-259c-403a-b513-98be93fc723c.jpg?v=1779680037
+    Price: €18.99 EUR
+  - [Blue Dot Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322046951616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0bb806fb-e062-4971-b558-590f84c1426d.jpg?v=1779680037
+    Price: €18.99 EUR
+  - [Gray Agate Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322046984384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/67eac80e-ad2b-4778-9984-4ec5c7b06834.jpg?v=1779680037
+    Price: €19.99 EUR
+  - [Green Aventurine Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047017152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4474fa08-a18b-4064-8754-76f5880e0fac.jpg?v=1779680037
+    Price: €18.99 EUR
+  - [Obsidian Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047049920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0962c958-c01d-425d-a973-8759cf68b7f8.jpg?v=1779680037
     Price: €16.99 EUR
-  - [Black / XXXL / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037465792)
+  - [Opal Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047082688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/15118668647615.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Black / XXXL / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037498560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/965c3901-4ebe-4585-9cfa-1fbd20d020f3.jpg?v=1772593611
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/17350f5a-161b-4bc2-8a4e-72e0fda24650.jpg?v=1779680037
     Price: €16.99 EUR
-  - [Green / 2xl / 4pcs](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037531328)
+  - [Pink Crystal Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047115456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c7e8736b-f3fd-4e5b-9bf2-c095f71cd626.jpg?v=1772593610
-    Price: €29.99 EUR
-  - [Green / 3xl / 4pcs](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037564096)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a73f184f-7066-4344-b426-2d2d4f62e8b9.jpg?v=1779680037
+    Price: €18.99 EUR
+  - [Southern Jade Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047148224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c7e8736b-f3fd-4e5b-9bf2-c095f71cd626.jpg?v=1772593610
-    Price: €29.99 EUR
-  - [Green / 4XL / 1pc](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037596864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2356167983895.jpg?v=1772593612
-    Price: €9.90 EUR
-  - [Green / L / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037629632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1459921296215.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Green / L / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037662400)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/126387957961.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Green / L / 4pcs](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037695168)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c7e8736b-f3fd-4e5b-9bf2-c095f71cd626.jpg?v=1772593610
-    Price: €29.99 EUR
-  - [Green / M / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037727936)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1459921296215.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Green / M / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037760704)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/126387957961.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Green / M / 4pcs](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037793472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c7e8736b-f3fd-4e5b-9bf2-c095f71cd626.jpg?v=1772593610
-    Price: €29.99 EUR
-  - [Green / S / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037826240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1459921296215.jpg?v=1772593611
-    Price: €9.99 EUR
-  - [Green / S / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037859008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/126387957961.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Green / S / 4pcs](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037891776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c7e8736b-f3fd-4e5b-9bf2-c095f71cd626.jpg?v=1772593610
-    Price: €29.99 EUR
-  - [Green / XL / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037924544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bc2a04f2-e1b9-49c7-a7cd-b9f646c74add.jpg?v=1772593611
-    Price: €9.99 EUR
-  - [Green / XL / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037957312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/126387957961.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Green / XXL / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605037990080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1459921296215.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Green / XXL / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038022848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/126387957961.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Green / XXXL / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038055616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1459921296215.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Green / XXXL / 2PCS](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038088384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1417350358616.jpg?v=1772593610
-    Price: €15.99 EUR
-  - [Green / Xl / 4pcs](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038121152)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c7e8736b-f3fd-4e5b-9bf2-c095f71cd626.jpg?v=1772593610
-    Price: €29.99 EUR
-  - [Lake blue / 4XL / 1pc](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038153920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a5f88bdc-eeff-4950-8ca9-b083c8416da1_7e2dc082-a345-4ed8-b172-53458636f81c.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Lake blue / L / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038186688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a5f88bdc-eeff-4950-8ca9-b083c8416da1_7e2dc082-a345-4ed8-b172-53458636f81c.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Lake blue / M / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038219456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a5f88bdc-eeff-4950-8ca9-b083c8416da1_7e2dc082-a345-4ed8-b172-53458636f81c.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Lake blue / S / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038252224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a5f88bdc-eeff-4950-8ca9-b083c8416da1_7e2dc082-a345-4ed8-b172-53458636f81c.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Lake blue / XL / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038284992)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a5f88bdc-eeff-4950-8ca9-b083c8416da1_7e2dc082-a345-4ed8-b172-53458636f81c.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Lake blue / XXL / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038317760)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a5f88bdc-eeff-4950-8ca9-b083c8416da1_7e2dc082-a345-4ed8-b172-53458636f81c.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Lake blue / XXXL / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038350528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a5f88bdc-eeff-4950-8ca9-b083c8416da1_7e2dc082-a345-4ed8-b172-53458636f81c.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Lake blue / XXXL / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038383296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/be51b2c0-e88b-433b-823b-37bc4c70132b.jpg?v=1772593611
-    Price: €15.99 EUR
-  - [Orange / 4XL / 1pc](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038416064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1477723311212.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Orange / L / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038448832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1748901533928.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Orange / L / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038481600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1748901533928.jpg?v=1772593611
-    Price: €15.99 EUR
-  - [Orange / M / 1PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038514368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1748901533928.jpg?v=1772593611
-    Price: €9.90 EUR
-  - [Orange / M / 2PC](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl?variant=47605038547136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1748901533928.jpg?v=1772593611
-    Price: €15.99 EUR
-- [Double Wall Insulated Sports Water Bottle 500ml — Stainless Steel | AJ Euro](https://ajeuro.com/products/double-wall-insulated-sports-water-bottle-500ml-stainless-steel): 500ml double-wall stainless steel insulated sports water bottle. Hot and cold retention, fits bicycle cages and cup holders. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:39Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1662561062973.jpg?v=1772594103
-  - [Black](https://ajeuro.com/products/double-wall-insulated-sports-water-bottle-500ml-stainless-steel?variant=47605049131200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/11920670050985.jpg?v=1772594111
-    Price: €19.99 EUR
-  - [Green](https://ajeuro.com/products/double-wall-insulated-sports-water-bottle-500ml-stainless-steel?variant=47605049163968)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8823667281348.jpg?v=1772594112
-    Price: €19.99 EUR
-  - [Pink](https://ajeuro.com/products/double-wall-insulated-sports-water-bottle-500ml-stainless-steel?variant=47605049196736)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4300155737422.jpg?v=1772594112
-    Price: €19.99 EUR
-  - [Silver](https://ajeuro.com/products/double-wall-insulated-sports-water-bottle-500ml-stainless-steel?variant=47605049229504)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1462004103559.jpg?v=1772594111
-    Price: €19.99 EUR
-- [Cordless 2-in-1 Hair Straightener & Curler Comb — 35W 45Min LCD | AJ Euro](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless): Cordless 2-in-1 hair straightener and curler comb with 35W heating, 160–200°C, 45min battery and LCD display. USB-C charging. Ships to France and the UK.
-  Updated: 2026-06-06T02:27:19Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d0564d84-61e4-40ec-9780-a1f0aeada15d.jpg?v=1772595363
-  - [LCD Black English](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060337856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7318f4d0-9c5b-4969-93bb-12f77abc885c.jpg?v=1772595388
-    Price: €25.99 EUR
-  - [LCD Black English 2pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060370624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6c4a6fc0-0dec-41de-ba58-84265866d5c8.jpg?v=1772595388
-    Price: €47.99 EUR
-  - [LCD Black English 3pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060403392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3dedd88b-c751-4950-bfbb-8970920a33bf.jpg?v=1772595388
-    Price: €71.99 EUR
-  - [LCD Black English set1](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060436160)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ba46cbc7-ff3c-4c75-b66e-ebcdc09fab14.jpg?v=1772595388
-    Price: €27.99 EUR
-  - [LCD Black English set2](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060468928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b8af1292-84a8-49cc-b138-1e8bfdd6b64a.jpg?v=1772595388
-    Price: €27.99 EUR
-  - [LCD Blue English](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060501696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/86c10925-d173-4934-bcfa-951351d9e6fc.jpg?v=1772595388
-    Price: €25.99 EUR
-  - [LCD Blue English 2pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060534464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5fffa99f-811a-431a-b559-6ead9b3e22b9.jpg?v=1772595388
-    Price: €47.99 EUR
-  - [LCD Blue English 3pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060567232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/20efa710-6312-4f83-82fc-d1dad4bce9d7.jpg?v=1772595388
-    Price: €72.99 EUR
-  - [LCD White English](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060600000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5aa3158c-86a3-405c-acc4-acb83e44e23a.jpg?v=1772595388
-    Price: €25.99 EUR
-  - [LCD White English 2pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060632768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4dd1809e-5101-40fb-9082-0b7aee61568c.jpg?v=1772595388
-    Price: €47.99 EUR
-  - [LCD White English 3pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060665536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4c9d20bb-d706-4b9b-9c5b-a46935976239.jpg?v=1772595388
-    Price: €72.99 EUR
-  - [LCD taro purple](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060698304)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/beabe4c1-8676-4e6d-b985-8f610561e10c.jpg?v=1772595388
-    Price: €25.99 EUR
-  - [LCD taro purple 2pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060731072)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2dec8007-8900-49f0-8397-60655ee0557b.jpg?v=1772595388
-    Price: €47.99 EUR
-  - [LCD taro purple 3pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060763840)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b5dc45b6-aac2-43fb-8c7b-48731ae84762.jpg?v=1772595388
-    Price: €72.99 EUR
-  - [LCD unpredictable blue](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060796608)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bc3897fb-f67e-400a-9d48-c8357c977401.jpg?v=1772595388
-    Price: €25.99 EUR
-  - [LCD unpredictable blue 2pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060829376)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1051c077-b96b-41e5-9301-ebb1cd53e14c.jpg?v=1772595388
-    Price: €47.99 EUR
-  - [LCD unpredictable blue 3pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060862144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4b645467-aa77-4cf0-afc2-46f9ed41d0fc.jpg?v=1772595388
-    Price: €72.99 EUR
-  - [Pink](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060894912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4f3d0b35-d321-49ba-8ac8-c58007ebd662.jpg?v=1772595388
-    Price: €25.99 EUR
-  - [Pink 2pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060927680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6e639b22-2a88-4bbf-8ba0-74dabf0a7de9.jpg?v=1772595388
-    Price: €47.99 EUR
-  - [Pink 3pcs](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060960448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ca4f7dcd-f088-4cc7-9f02-2db97088c9d0.jpg?v=1772595388
-    Price: €72.99 EUR
-  - [Purple](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605060993216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0fe50eac-94bb-45db-b9fc-5555c01ab296.jpg?v=1772595388
-    Price: €25.99 EUR
-  - [Set](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061025984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fe8e2fc2-1cb9-48a2-91e0-d2aa24e3599a.jpg?v=1772595388
-    Price: €26.99 EUR
-  - [Set1](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061058752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d240dba9-0533-4089-b7d8-70fa85e34054.jpg?v=1772595388
-    Price: €26.99 EUR
-  - [Set10](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061091520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9edc67ca-1632-452e-849d-059069d167e7.jpg?v=1772595388
-    Price: €28.99 EUR
-  - [Set2](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061124288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f026a9ef-ace5-4305-8905-d93e8156573f.jpg?v=1772595388
-    Price: €26.99 EUR
-  - [Set3](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061157056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fdc944ff-6a9d-466c-9816-655f7a25792f.jpg?v=1772595388
-    Price: €26.99 EUR
-  - [Set4](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061189824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d2a0df18-35e4-493c-bec7-98751b67e377.jpg?v=1772595388
-    Price: €26.99 EUR
-  - [Set5](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061222592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ca7886e5-a4c4-4700-b214-fee88f2b5a5a.jpg?v=1772595388
-    Price: €26.99 EUR
-  - [Set6](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061255360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8bfe1ca0-d20d-43e1-a9fa-9ad1e2a70147.jpg?v=1772595388
-    Price: €28.99 EUR
-  - [Set7](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061288128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bf1ac8cf-ab66-4be3-ad8d-cb6ea3deda12.jpg?v=1772595388
-    Price: €28.99 EUR
-  - [Set8](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061320896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1adf0422-bc19-4751-80b0-5d617f756217.jpg?v=1772595388
-    Price: €28.99 EUR
-  - [Set9](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless?variant=47605061353664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a168e6d0-506c-4469-93d9-c2c5e96c33aa.jpg?v=1772595388
-    Price: €28.99 EUR
-- [Infrared Heated Knee & Joint Massager Wrap — Vibration 3-Speed 12W | AJ Euro](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed): Infrared heated knee and joint massager wrap — vibration, jade beads, 45–60°C heat and 3 timer settings. Rechargeable. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:39Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/da47bfcc-d7be-4c12-8614-ec6e558edb22.jpg?v=1772596406
-  - [Black set / Q 1PC / US](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072232640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1d2a6664-cc51-481a-be0a-02eeb607d026.jpg?v=1772596419
-    Price: €109.99 EUR
-  - [Black / Q 1PC / AU](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072265408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/548190589897.jpg?v=1772596419
-    Price: €27.99 EUR
-  - [Black / Q 1PC / EU](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072298176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/548190589897.jpg?v=1772596419
-    Price: €27.99 EUR
-  - [Black / Q 1PC / UK](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072330944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/548190589897.jpg?v=1772596419
-    Price: €27.99 EUR
-  - [Black / Q 1PC / US](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072363712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/548190589897.jpg?v=1772596419
-    Price: €27.99 EUR
-  - [Black / Q 2PC / EU](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072396480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1096022187421.jpg?v=1772596419
-    Price: €49.99 EUR
-  - [Black / Q 2PC / UK](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072429248)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1096022187421.jpg?v=1772596419
-    Price: €51.99 EUR
-  - [Black / Q 2PC / US](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072462016)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1096022187421.jpg?v=1772596419
-    Price: €49.99 EUR
-  - [Black / Q 3PC / UK](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072494784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6862c3cf-a159-4f0f-a50d-25eb4cceb529.jpg?v=1772596419
-    Price: €72.99 EUR
-  - [Black / Q 3PC / US](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072527552)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6862c3cf-a159-4f0f-a50d-25eb4cceb529.jpg?v=1772596419
-    Price: €73.99 EUR
-  - [Black / Q 4PC / EU](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072560320)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f523a7c4-f379-4f5a-8fd2-bb5de889f87d.jpg?v=1772596419
-    Price: €90.99 EUR
-  - [Black / Q 4PC / UK](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072593088)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f523a7c4-f379-4f5a-8fd2-bb5de889f87d.jpg?v=1772596419
-    Price: €91.99 EUR
-  - [Black / Q 4PC / US](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072625856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f523a7c4-f379-4f5a-8fd2-bb5de889f87d.jpg?v=1772596419
-    Price: €90.99 EUR
-  - [Black / Q3PC / EU](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed?variant=47605072658624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6862c3cf-a159-4f0f-a50d-25eb4cceb529.jpg?v=1772596419
-    Price: €73.99 EUR
-- [Self-Cleaning Hairbrush with 3D Air Cushion — Scalp Massage Detangling | AJ Euro](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling): Self-cleaning hairbrush with one-key hair release, 3D air cushion base, scalp massage and anti-static bristles. For all hair types. Ships to France and the UK.
-  Updated: 2026-06-09T22:28:48Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bd634f89-fe46-4b87-a74d-c9db19461aef.jpg?v=1772597939
-  - [3pcs Set A](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092483264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bde314b2-ca2a-41ff-b226-f3809bafa361.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [3pcs Set B](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092516032)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c26c3d54-31a2-4d5a-9191-bccd11458b55.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [3pcs Set C](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092548800)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/85aad5a8-836a-46c6-9a0b-512bd193d3b7.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Big red Pressed Hair Removal](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092581568)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e4d677a6-b2e4-4389-952e-5b8ad32ff7ca.jpg?v=1772597980
-    Price: €25.99 EUR
-  - [Big red base](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092614336)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9a3527a5-4f21-4b87-bb0d-6b0d9fc370cb.jpg?v=1772597980
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bc09959d-9967-4466-a46f-281e5284e9ae.jpg?v=1779680037
     Price: €13.99 EUR
-  - [Black gold](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092647104)
+  - [Stainless Steel Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047180992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/75fb9d49-f48b-4cc8-8c47-592f90d08e0f.jpg?v=1772597981
-    Price: €23.99 EUR
-  - [Black gold Set](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092679872)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f476fc1b-682f-499c-bb91-0a14b2c0eae1.jpg?v=1772597981
-    Price: €32.99 EUR
-  - [Black purple](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092712640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f58dccf0-527c-460a-ba01-dc509c535a7e.jpg?v=1772597980
-    Price: €25.99 EUR
-  - [Black purple Set](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092745408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/20dbc111-3e9d-4594-8384-79e9bf06de92.jpg?v=1772597980
-    Price: €32.99 EUR
-  - [Elegant white](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092778176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f7390122-c568-45c6-99b6-df79a471219e.jpg?v=1772597980
-    Price: €25.99 EUR
-  - [Elegant white 2PC](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092810944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e30bf6c0-a817-43cf-a640-0e5a6962b4b5.jpg?v=1772597980
-    Price: €47.99 EUR
-  - [Elegant white Set](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092843712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6c14f0dd-53d0-4ed0-b290-e258e5bd0e7d.jpg?v=1772597980
-    Price: €32.99 EUR
-  - [Hollowed out red suit](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092876480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/626ee412-4a44-4a3c-b6f5-66021ecd642a.jpg?v=1772597980
-    Price: €32.99 EUR
-  - [Rose red Pressed Hair Removal](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092909248)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e48d546e-8148-40d3-917d-690b054674cc.jpg?v=1772597980
-    Price: €25.99 EUR
-  - [Rose red base](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092942016)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/99754bd0-0ed8-4d13-a19d-e199f41e455b.jpg?v=1772597980
-    Price: €13.99 EUR
-  - [Set A](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605092974784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/65038d95-ed6b-43c9-a1f3-f642c29cd143.jpg?v=1772597980
-    Price: €32.99 EUR
-  - [Set B](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093007552)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9762cbbd-69a5-488b-be58-51de5437ee60.jpg?v=1772597980
-    Price: €32.99 EUR
-  - [Set C](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093040320)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/27ab0db1-2a09-4df0-ab2f-71eb05c62e76.jpg?v=1772597980
-    Price: €32.99 EUR
-  - [Set D](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093073088)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5eeed2aa-c3f7-4c1c-9100-b5bf27162065.jpg?v=1772597980
-    Price: €47.99 EUR
-  - [Set E](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093105856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/621f8de1-a157-481c-a7ae-cb9c8b46fa17.jpg?v=1772597980
-    Price: €47.99 EUR
-  - [Set F](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093138624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a0c6d755-3dd3-4e2b-8201-f92353fe7bb3.jpg?v=1772597981
-    Price: €47.99 EUR
-  - [Set G](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093171392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/050972cb-be99-4c8b-9d1d-e0d45089d8bc.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set H](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093204160)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2d9c8249-3182-4fe8-bc9c-305fab9b0977.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set I](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093236928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4d9c6a4a-156c-477f-90e5-e91fb76552dc.jpg?v=1772597981
-    Price: €65.99 EUR
-  - [Set J](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093269696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d2caea74-2b2b-418e-aaa1-6a9c89c7947f.jpg?v=1772597981
-    Price: €47.99 EUR
-  - [Set K](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093302464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c781fcdb-fbba-41be-b0c2-0049257c3c6e.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set L](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093335232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e15c8d55-7ac4-4163-83dc-12422f087320.jpg?v=1772597980
-    Price: €47.99 EUR
-  - [Set M](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093368000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ca0eedcf-f518-49db-8663-f1fe23bcbb54.jpg?v=1772597980
-    Price: €47.99 EUR
-  - [Set N](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093400768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/250a3371-7368-402f-ac6e-32f2f35cdab5.jpg?v=1772597980
-    Price: €47.99 EUR
-  - [Set O](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093433536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0863cc46-0904-489f-b715-921604efdc5e.jpg?v=1772597980
-    Price: €47.99 EUR
-  - [Set P](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093466304)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2d1e1d8f-b21b-44a0-8a0f-79d451c969e0.jpg?v=1772597980
-    Price: €47.99 EUR
-  - [Set Q](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093499072)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7ffb9ff3-f477-4c6c-8e12-7e966c7b6536.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set R](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093531840)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7f4065db-789d-4901-b80d-66c9a0a5a302.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set S](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093564608)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e273f9a5-2285-4f1b-bc8e-b32ac2922f57.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set T](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093597376)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/334f3587-2464-4dd6-bfa6-5c12843125a0.jpg?v=1772597981
-    Price: €65.99 EUR
-  - [Set U](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093630144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cb2bc4aa-b8a9-4be5-b8b4-64c331b83070.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set V](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093662912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/59e9420f-bc22-4cbe-a5dc-9c731c3a96d0.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set W](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093695680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ea601a08-ebd9-4c6c-a9f9-686bff3d8cba.jpg?v=1772597981
-    Price: €65.99 EUR
-  - [Set X](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093728448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/37d764f6-8b3b-4149-a03e-062bb75a5b35.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set Y](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093761216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/aac6a0c3-f71e-478a-b732-feaa8e1284c7.jpg?v=1772597981
-    Price: €65.99 EUR
-  - [Set Z](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093793984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5b8ba9cb-69ec-4482-a3f0-044a58f06679.jpg?v=1772597980
-    Price: €65.99 EUR
-  - [Set1](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093826752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eecc02d6-3207-41a4-a034-13d27c9125ba.jpg?v=1772597980
-    Price: €43.99 EUR
-  - [Set2](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093859520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f1179204-d911-42c4-95ab-2d4fd337991e.jpg?v=1772597980
-    Price: €43.99 EUR
-  - [Set3](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093892288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/21d1ad04-8dcf-4f99-aaec-2049dd22e36a.jpg?v=1772597980
-    Price: €43.99 EUR
-  - [Set4](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093925056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/326897bb-405e-46cc-b2b4-e850d945988d.jpg?v=1772597980
-    Price: €43.99 EUR
-  - [Set5](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093957824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b1774f2f-e58b-4347-b538-2b172658b5cc.jpg?v=1772597980
-    Price: €43.99 EUR
-  - [Set6](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605093990592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/65c0f05a-32f7-42e0-9a45-067a7bd0dc02.jpg?v=1772597980
-    Price: €43.99 EUR
-  - [Set7](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605094023360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/58ba1aa5-36fe-44ae-908e-6b0e97008f7f.jpg?v=1772597981
-    Price: €69.00 EUR
-  - [Set8](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605094056128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/646d0088-ccfb-479a-97c4-f74834396acd.jpg?v=1772597980
-    Price: €69.00 EUR
-  - [Set9](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling?variant=47605094088896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ccdc24d3-b8f1-45d9-a372-280728913e2d.jpg?v=1772597980
-    Price: €69.00 EUR
-- [Crystal Hair Eraser — Nano-Glass Painless Hair Removal & Exfoliating | AJ Euro](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating): Nano-glass crystal hair eraser — painless hair removal and exfoliation on legs and arms. Reusable, chemical-free. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:39Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6d01df76-d6b6-4a92-9d54-0b0221a12989.jpg?v=1772598849
-  - [Black](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605103820992)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/681d69f0-6ac3-4c3e-ac7f-f7899d8c5b1c.jpg?v=1772598865
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ae95e5b4-0a4c-47f4-ae86-70632b348e8d.jpg?v=1779680037
     Price: €19.99 EUR
-  - [Black 2pc](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605103853760)
+  - [Tiger Eye Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047213760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/16893664-71ac-4276-88c8-0f9cdbc4172d.jpg?v=1772598865
-    Price: €34.99 EUR
-  - [Black 3pc](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605103886528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a038f8bf-9837-49f0-a419-f10b208604f8.jpg?v=1772598865
-    Price: €42.99 EUR
-  - [Green without logo](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605103919296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/53cdef0f-31e4-457e-bcbd-12c2ff6c5048.jpg?v=1772598865
-    Price: €19.99 EUR
-  - [Green without logo 2PC](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605103952064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a5da2890-2341-47b2-9600-ae94d2845eb6.jpg?v=1772598865
-    Price: €34.99 EUR
-  - [Green without logo 3PC](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605103984832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dd6de55b-d809-4abf-8de3-2c1d8346eac6.jpg?v=1772598865
-    Price: €42.99 EUR
-  - [Purple](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605104017600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6983a208-c605-44cd-888f-41eeb0e75c26.jpg?v=1772598865
-    Price: €19.99 EUR
-  - [Purple 2pc](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605104050368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3735286d-fd0c-44c4-962c-5f7d79692442.jpg?v=1772598865
-    Price: €34.99 EUR
-  - [Purple 3pc](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605104083136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d8a2ca87-83ae-4c82-ae63-6cd9275bb052.jpg?v=1772598865
-    Price: €42.99 EUR
-  - [Set3](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605104115904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/14b929bb-4551-4b0b-950a-fbe3c785dca1.jpg?v=1772598865
-    Price: €19.99 EUR
-  - [Set5](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605104148672)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a173be05-5e60-4944-82e0-5a21ba31038b.jpg?v=1772598865
-    Price: €42.99 EUR
-  - [Set6](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating?variant=47605104181440)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d7eca69e-579c-4bf0-80a7-6188fab2ba20.jpg?v=1772598865
-    Price: €34.99 EUR
-- [Portable Wireless Electric Juicer Cup — USB Rechargeable Mini Blender | AJ Euro](https://ajeuro.com/products/portable-wireless-electric-juicer-cup-usb-rechargeable-mini-blender): Portable wireless electric juicer cup in food-safe PP, USB rechargeable, 447g. White or green. For home, office, gym and travel. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:40Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3fb8d007-a681-40ff-80f6-f942656e12fc.jpg?v=1772599226
-  - [Green / USB](https://ajeuro.com/products/portable-wireless-electric-juicer-cup-usb-rechargeable-mini-blender?variant=47605106507968)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1e3dc8be-09d3-4d97-84a4-75d555408f0e.jpg?v=1772599229
-    Price: €32.99 EUR
-  - [White / USB](https://ajeuro.com/products/portable-wireless-electric-juicer-cup-usb-rechargeable-mini-blender?variant=47605106540736)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6a0546f8-db0e-4f5e-bcc3-43223186c552.jpg?v=1772599229
-    Price: €32.99 EUR
-- [4-Layer Automatic Egg Roller Tray — 30-Egg Fridge Organiser | AJ Euro](https://ajeuro.com/products/4-layer-automatic-egg-roller-tray-30-egg-fridge-organiser): 4-layer automatic egg roller tray for 30 eggs. Individual slots prevent breakage, gravity-fed rolling design. 4 colours. Ships to France and the UK.
-  Updated: 2026-06-02T11:27:17Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/469dfeea-8d5e-493c-b7c6-7f9f8d9d3a88.jpg?v=1772599905
-  - [Black / Without packing / 1PC](https://ajeuro.com/products/4-layer-automatic-egg-roller-tray-30-egg-fridge-organiser?variant=47605126856896)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dba7678f-8bff-4b11-adca-0be9f407d652.jpg?v=1772599917
-    Price: €29.99 EUR
-  - [Gray / Without packing / 1PC](https://ajeuro.com/products/4-layer-automatic-egg-roller-tray-30-egg-fridge-organiser?variant=47605126889664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1871b13d-a8a0-48f9-a60b-b2ea241ad2a9_trans.jpg?v=1772599917
-    Price: €29.99 EUR
-  - [Small Yellow / Without packing / 1PC](https://ajeuro.com/products/4-layer-automatic-egg-roller-tray-30-egg-fridge-organiser?variant=47605126922432)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e139ff4c-e1ca-4e3f-987b-87caa4383e9e.jpg?v=1772599917
-    Price: €29.99 EUR
-  - [Small Yellow / Without packing / 3PCS](https://ajeuro.com/products/4-layer-automatic-egg-roller-tray-30-egg-fridge-organiser?variant=47605126955200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/469dfeea-8d5e-493c-b7c6-7f9f8d9d3a88_a93840b2-4728-44ea-96bb-0e5a8d0464fd.jpg?v=1772599917
-    Price: €72.99 EUR
-  - [White / Without packing / 1PC](https://ajeuro.com/products/4-layer-automatic-egg-roller-tray-30-egg-fridge-organiser?variant=47605126987968)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7c647dff-d6f8-4038-addb-cd3d9727603b.jpg?v=1772599917
-    Price: €29.99 EUR
-  - [White / Without packing / 3PCS](https://ajeuro.com/products/4-layer-automatic-egg-roller-tray-30-egg-fridge-organiser?variant=47605127020736)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7c647dff-d6f8-4038-addb-cd3d9727603b.jpg?v=1772599917
-    Price: €72.99 EUR
-- [3-in-1 USB Mosquito Killer Fan & Night Light — Rechargeable 8000mAh | AJ Euro](https://ajeuro.com/products/3-in-1-usb-mosquito-killer-fan-night-light-rechargeable): 3-in-1 USB rechargeable mosquito killer, bladeless desk fan and night light. Available in 2400–8000mAh battery options. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:40Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/35c0ab4f-bb84-466f-b398-925f83909fbd.jpg?v=1772604226
-  - [Rechargeable 2400 MA / White](https://ajeuro.com/products/3-in-1-usb-mosquito-killer-fan-night-light-rechargeable?variant=47605210579136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/efb87ef4-24db-42c4-ae64-e9b70192f039_trans.jpg?v=1772604234
-    Price: €38.00 EUR
-  - [Rechargeable 4000 MA / White](https://ajeuro.com/products/3-in-1-usb-mosquito-killer-fan-night-light-rechargeable?variant=47605210611904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/57e3bc48-baf9-4478-b602-2725b3378f21_trans.jpg?v=1772604234
-    Price: €42.00 EUR
-  - [Rechargeable 4800 MA / White](https://ajeuro.com/products/3-in-1-usb-mosquito-killer-fan-night-light-rechargeable?variant=47605210644672)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/31a088b1-80ed-4e05-af57-90cdecf2773a_trans.jpg?v=1772604233
-    Price: €46.00 EUR
-  - [Rechargeable 8000 MA / White](https://ajeuro.com/products/3-in-1-usb-mosquito-killer-fan-night-light-rechargeable?variant=47605210677440)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c2c88d64-f7be-4331-aa21-77ea1a461736_trans.jpg?v=1772604234
-    Price: €50.00 EUR
-- [Women's Loose Long Sleeve Button-Up Shirt — Pleated Lapel S–5XL | AJ Euro](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl): Women's loose long sleeve button-up shirt with pleated lapel collar. Solid colour, 65cm medium length, sizes S to 5XL. Ships to France and the United Kingdom.
-  Updated: 2026-06-09T18:26:27Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/92bbf2d8-4d0c-424d-bfec-882e1bde3f88.jpg?v=1772676349
-  - [Black / 3XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317294272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a38a7eb2-91c4-47a3-8c39-ebe97da5a7b3.jpg?v=1772676363
-    Price: €26.56 EUR
-  - [Black / 4XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317327040)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a38a7eb2-91c4-47a3-8c39-ebe97da5a7b3.jpg?v=1772676363
-    Price: €26.63 EUR
-  - [Black / 5XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317359808)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a38a7eb2-91c4-47a3-8c39-ebe97da5a7b3.jpg?v=1772676363
-    Price: €26.70 EUR
-  - [Black / L](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317392576)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a38a7eb2-91c4-47a3-8c39-ebe97da5a7b3.jpg?v=1772676363
-    Price: €28.40 EUR
-  - [Black / M](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317425344)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a38a7eb2-91c4-47a3-8c39-ebe97da5a7b3.jpg?v=1772676363
-    Price: €27.74 EUR
-  - [Black / S](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317458112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a38a7eb2-91c4-47a3-8c39-ebe97da5a7b3.jpg?v=1772676363
-    Price: €27.38 EUR
-  - [Black / XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317490880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a38a7eb2-91c4-47a3-8c39-ebe97da5a7b3.jpg?v=1772676363
-    Price: €29.15 EUR
-  - [Black / XXL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317523648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a38a7eb2-91c4-47a3-8c39-ebe97da5a7b3.jpg?v=1772676363
-    Price: €26.49 EUR
-  - [Blue / 3XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317556416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bfcd6c58-2024-428b-a1bc-1d019d477315.jpg?v=1772676363
-    Price: €27.06 EUR
-  - [Blue / 4XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317589184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bfcd6c58-2024-428b-a1bc-1d019d477315.jpg?v=1772676363
-    Price: €26.63 EUR
-  - [Blue / 5XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317621952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bfcd6c58-2024-428b-a1bc-1d019d477315.jpg?v=1772676363
-    Price: €26.70 EUR
-  - [Blue / L](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317654720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bfcd6c58-2024-428b-a1bc-1d019d477315.jpg?v=1772676363
-    Price: €26.35 EUR
-  - [Blue / M](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317687488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bfcd6c58-2024-428b-a1bc-1d019d477315.jpg?v=1772676363
-    Price: €29.77 EUR
-  - [Blue / S](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317720256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bfcd6c58-2024-428b-a1bc-1d019d477315.jpg?v=1772676363
-    Price: €29.18 EUR
-  - [Blue / XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317753024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bfcd6c58-2024-428b-a1bc-1d019d477315.jpg?v=1772676363
-    Price: €26.42 EUR
-  - [Blue / XS](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317785792)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bfcd6c58-2024-428b-a1bc-1d019d477315.jpg?v=1772676363
-    Price: €25.85 EUR
-  - [Blue / XXL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317818560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bfcd6c58-2024-428b-a1bc-1d019d477315.jpg?v=1772676363
-    Price: €26.49 EUR
-  - [CXCS102 / L](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317851328)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/58f0e8ae-654c-4089-87ef-ccff092d4835_fine.jpg?v=1772676363
-    Price: €26.13 EUR
-  - [Gray / 3XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317884096)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a3e42a1-4d52-4002-9d53-1cb478f4e1bf.jpg?v=1772676363
-    Price: €26.56 EUR
-  - [Gray / 4XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317916864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a3e42a1-4d52-4002-9d53-1cb478f4e1bf.jpg?v=1772676363
-    Price: €26.63 EUR
-  - [Gray / 5XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317949632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a3e42a1-4d52-4002-9d53-1cb478f4e1bf.jpg?v=1772676363
-    Price: €26.70 EUR
-  - [Gray / L](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609317982400)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a3e42a1-4d52-4002-9d53-1cb478f4e1bf.jpg?v=1772676363
-    Price: €26.35 EUR
-  - [Gray / M](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318015168)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a3e42a1-4d52-4002-9d53-1cb478f4e1bf.jpg?v=1772676363
-    Price: €26.27 EUR
-  - [Gray / S](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318047936)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a3e42a1-4d52-4002-9d53-1cb478f4e1bf.jpg?v=1772676363
-    Price: €26.20 EUR
-  - [Gray / XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318080704)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a3e42a1-4d52-4002-9d53-1cb478f4e1bf.jpg?v=1772676363
-    Price: €26.42 EUR
-  - [Gray / XXL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318113472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a3e42a1-4d52-4002-9d53-1cb478f4e1bf.jpg?v=1772676363
-    Price: €28.54 EUR
-  - [Green / 3XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318146240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2a647cfc-61de-4c69-9c16-b56a7892d995.jpg?v=1772676363
-    Price: €26.56 EUR
-  - [Green / 4XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318179008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2a647cfc-61de-4c69-9c16-b56a7892d995.jpg?v=1772676363
-    Price: €26.63 EUR
-  - [Green / 5XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318211776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2a647cfc-61de-4c69-9c16-b56a7892d995.jpg?v=1772676363
-    Price: €26.70 EUR
-  - [Green / L](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318244544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2a647cfc-61de-4c69-9c16-b56a7892d995.jpg?v=1772676363
-    Price: €26.35 EUR
-  - [Green / M](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318277312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2a647cfc-61de-4c69-9c16-b56a7892d995.jpg?v=1772676363
-    Price: €26.27 EUR
-  - [Green / S](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318310080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2a647cfc-61de-4c69-9c16-b56a7892d995.jpg?v=1772676363
-    Price: €26.20 EUR
-  - [Green / XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318342848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2a647cfc-61de-4c69-9c16-b56a7892d995.jpg?v=1772676363
-    Price: €29.48 EUR
-  - [Green / XXL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318375616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2a647cfc-61de-4c69-9c16-b56a7892d995.jpg?v=1772676363
-    Price: €26.49 EUR
-  - [Khaki / 3XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318408384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e7cd35f-4c50-46b9-ac58-9914cda8fce7.jpg?v=1772676363
-    Price: €26.56 EUR
-  - [Khaki / 4XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318441152)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e7cd35f-4c50-46b9-ac58-9914cda8fce7.jpg?v=1772676363
-    Price: €26.63 EUR
-  - [Khaki / 5XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318473920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e7cd35f-4c50-46b9-ac58-9914cda8fce7.jpg?v=1772676363
-    Price: €26.70 EUR
-  - [Khaki / L](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318506688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e7cd35f-4c50-46b9-ac58-9914cda8fce7.jpg?v=1772676363
-    Price: €28.94 EUR
-  - [Khaki / M](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318539456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e7cd35f-4c50-46b9-ac58-9914cda8fce7.jpg?v=1772676363
-    Price: €26.27 EUR
-  - [Khaki / S](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318572224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e7cd35f-4c50-46b9-ac58-9914cda8fce7.jpg?v=1772676363
-    Price: €26.20 EUR
-  - [Khaki / XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318604992)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e7cd35f-4c50-46b9-ac58-9914cda8fce7.jpg?v=1772676363
-    Price: €29.09 EUR
-  - [Khaki / XXL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318637760)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e7cd35f-4c50-46b9-ac58-9914cda8fce7.jpg?v=1772676363
-    Price: €26.49 EUR
-  - [Peacock Green / 3XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318670528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/46de0f95-6e15-4791-ae8c-e6686be609e3.jpg?v=1772676363
-    Price: €26.56 EUR
-  - [Peacock Green / 4XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318703296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/46de0f95-6e15-4791-ae8c-e6686be609e3.jpg?v=1772676363
-    Price: €26.63 EUR
-  - [Peacock Green / 5XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318736064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/46de0f95-6e15-4791-ae8c-e6686be609e3.jpg?v=1772676363
-    Price: €26.70 EUR
-  - [Peacock Green / L](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318768832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/46de0f95-6e15-4791-ae8c-e6686be609e3.jpg?v=1772676363
-    Price: €26.35 EUR
-  - [Peacock Green / M](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318801600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/46de0f95-6e15-4791-ae8c-e6686be609e3.jpg?v=1772676363
-    Price: €26.27 EUR
-  - [Peacock Green / S](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318834368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/46de0f95-6e15-4791-ae8c-e6686be609e3.jpg?v=1772676363
-    Price: €26.20 EUR
-  - [Peacock Green / XL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318867136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/46de0f95-6e15-4791-ae8c-e6686be609e3.jpg?v=1772676363
-    Price: €29.48 EUR
-  - [Peacock Green / XXL](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl?variant=47609318899904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/46de0f95-6e15-4791-ae8c-e6686be609e3.jpg?v=1772676363
-    Price: €26.49 EUR
-- [40oz Insulated Stainless Steel Tumbler with Handle & Straw | AJ Euro](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold): 40oz double-wall vacuum insulated stainless steel tumbler with handle, straw and leak-proof lid. Hot 12hr, cold 24hr. Ships to France and the UK.
-  Updated: 2026-06-05T02:27:19Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cee3f7df-3fff-49cf-ad9e-ef4e16d5f586.jpg?v=1772677641
-  - [Bay leaves / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609336725696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e99f9fb1-2c68-47ea-b734-c55082456eb4.jpg?v=1772677666
-    Price: €21.99 EUR
-  - [Bay leaves / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609336758464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e99f9fb1-2c68-47ea-b734-c55082456eb4.jpg?v=1772677666
-    Price: €37.99 EUR
-  - [Black / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609336791232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eaa17627-3e82-43a9-8c0a-b16a75039858.jpg?v=1772677666
-    Price: €21.99 EUR
-  - [Black / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609336824000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eaa17627-3e82-43a9-8c0a-b16a75039858.jpg?v=1772677666
-    Price: €31.99 EUR
-  - [Black1 / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609336856768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8175ac8e-2170-4023-a0ff-d8fcfe96a35c.jpg?v=1772677666
-    Price: €11.99 EUR
-  - [Charcoal / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609336889536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7a4821ad-e168-4de0-a2da-3368c02f802f.jpg?v=1772677666
-    Price: €21.99 EUR
-  - [Charcoal / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609336922304)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7a4821ad-e168-4de0-a2da-3368c02f802f.jpg?v=1772677666
-    Price: €37.99 EUR
-  - [Christmas Red B / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609336955072)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/30de8bde-d599-4f95-93b2-f77a7f6b5900.jpg?v=1772677666
-    Price: €21.99 EUR
-  - [Christmas Red B / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609336987840)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/30de8bde-d599-4f95-93b2-f77a7f6b5900.jpg?v=1772677666
-    Price: €37.99 EUR
-  - [Christmas Red / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337020608)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/27692a52-7d39-4395-b62e-43bf58355c63.jpg?v=1772677667
-    Price: €21.99 EUR
-  - [Cream white / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337053376)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7e42e70c-aeed-4e9e-9597-70f8d5f4b58e.jpg?v=1772677666
-    Price: €21.99 EUR
-  - [Cream white / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337086144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7e42e70c-aeed-4e9e-9597-70f8d5f4b58e.jpg?v=1772677666
-    Price: €37.99 EUR
-  - [Cream / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337118912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/92bc9f5a-7103-48c1-a5f0-68dae08f62ae.jpg?v=1772677666
-    Price: €12.99 EUR
-  - [Dunes / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337151680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/29e4484e-01ee-493f-a647-9208968e7fb7.jpg?v=1772677667
-    Price: €21.99 EUR
-  - [Dunes / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337184448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/29e4484e-01ee-493f-a647-9208968e7fb7.jpg?v=1772677667
-    Price: €37.99 EUR
-  - [Eucalyptus / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337217216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b5877cbd-5ef7-483a-8fd0-4b8823d28615.jpg?v=1772677666
-    Price: €21.99 EUR
-  - [Eucalyptus / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337249984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b5877cbd-5ef7-483a-8fd0-4b8823d28615.jpg?v=1772677666
-    Price: €37.99 EUR
-  - [Fog color / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337282752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c1b1f0a2-4ffb-4c6e-82a7-e8b92fb72a4f.jpg?v=1772677666
-    Price: €21.99 EUR
-  - [Fog color / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337315520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c1b1f0a2-4ffb-4c6e-82a7-e8b92fb72a4f.jpg?v=1772677666
-    Price: €37.99 EUR
-  - [Halloween Cream black / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337348288)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/caa0a020-e85d-4069-b350-219b5b1442a4.jpg?v=1772677667
-    Price: €23.99 EUR
-  - [Halloween Cream white B / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337381056)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2e95100b-46e2-47f5-b72c-91935e885f1c.jpg?v=1772677667
-    Price: €23.99 EUR
-  - [Halloween Cream white / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337413824)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5dfdc16e-e77a-468c-975e-47ebc36f3b9a.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Halloween dark Blue B / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337446592)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c746674d-7521-4896-ba06-f34dac252c2c.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Halloween dark Blue / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337479360)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/85871a92-5a4c-47f7-80e2-1ca28a1c460a.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Light Blue / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337512128)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6a41447d-f48c-4228-b990-9b993bb2237a.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Light Green / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337544896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/02b1ae29-3b91-4cfd-bc25-9155cb92556b.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Light Green / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337577664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/02b1ae29-3b91-4cfd-bc25-9155cb92556b.jpg?v=1772677666
-    Price: €47.99 EUR
-  - [Light Grey / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337610432)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7e70429a-a98a-4db4-bafb-52d829857ebe.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Light Pink / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337643200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7a94ef25-2009-4b2a-93b6-6c64d2bc9a67.jpg?v=1772677666
-    Price: €11.99 EUR
-  - [Light Purple / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337675968)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a35aecd4-4ff7-4716-92f0-32096e45cd62.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Light powder / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337708736)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fc51cf03-d41d-432f-9a75-b4a2d6cb15ba.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Peony color / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337741504)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/773d6d31-5c20-48c3-aecc-f1dae536250c.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Pink love A / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337774272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/21087b52-2755-4f7a-9342-3d2be75fa096.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Pink / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337807040)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/557c66c5-9540-4509-a197-53e8f3b09ba7.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Red rust / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337839808)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/39f62135-9227-4347-9e5b-cb085eeb6796.jpg?v=1772677666
-    Price: €21.99 EUR
-  - [Red rust / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337872576)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/39f62135-9227-4347-9e5b-cb085eeb6796.jpg?v=1772677666
-    Price: €37.99 EUR
-  - [Rose Red / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337905344)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7bfe5357-bfad-47bf-a63c-ee50e402940b.jpg?v=1772677667
-    Price: €23.99 EUR
-  - [Rose quartz / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337938112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/78b8c1e9-3a4a-4cd5-9491-0bb57250df61.jpg?v=1772677666
-    Price: €21.99 EUR
-  - [Rose quartz / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609337970880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/78b8c1e9-3a4a-4cd5-9491-0bb57250df61.jpg?v=1772677666
-    Price: €37.99 EUR
-  - [Roseo / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338003648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/68dccf3e-e82b-4801-b241-71b6f424ab60.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Roseo / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338036416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/68dccf3e-e82b-4801-b241-71b6f424ab60.jpg?v=1772677666
-    Price: €42.99 EUR
-  - [Rust / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338069184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/374b36c9-aaa1-4a1d-8387-c528b63568bb.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Second generation light green / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338101952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dee4682a-d2f6-4bfd-aa7e-f83c9275d20f.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Storm sea / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338134720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f9451712-09d2-4c69-af31-cbbfff66f4e9.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Storm sea / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338167488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f9451712-09d2-4c69-af31-cbbfff66f4e9.jpg?v=1772677666
-    Price: €42.99 EUR
-  - [Straw / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338200256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/621ff5f6-ca76-4120-802f-50624793c84c.jpg?v=1772677666
-    Price: €7.00 EUR
-  - [Style1 / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338233024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7242a202-bae7-496f-bc6f-c1c312815199.jpg?v=1772677666
-    Price: €23.99 EUR
-  - [Thermal sublimation / 1200ML / 1PC](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338265792)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1772677666
-    Price: €42.99 EUR
-  - [Thermal sublimation / 1200ML / 2PCS](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold?variant=47609338298560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1772677666
-    Price: €42.99 EUR
-- [TWS T5 Bluetooth 5.0 Earbuds — IPX5 3500mAh Power Bank Case 140Hr | AJ Euro](https://ajeuro.com/products/tws-t5-bluetooth-5-0-earbuds-ipx5-3500mah-power-bank-case-140hr): TWS T5 Bluetooth 5.0 earbuds with IPX5, 3500mAh power bank case, 140hr standby and 4hr playback. Ships to France and the United Kingdom.
-  Updated: 2026-05-22T04:14:40Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1615884215987.jpg?v=1772678079
-  - [Black](https://ajeuro.com/products/tws-t5-bluetooth-5-0-earbuds-ipx5-3500mah-power-bank-case-140hr?variant=47609343312064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bc6c5cfb-da3f-4454-8bf6-20ccc3964eec.jpg?v=1772678089
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f9d72c8c-16ad-4310-9d30-c3f77cc8a829.jpg?v=1779680037
     Price: €22.99 EUR
-  - [Black 2PCS](https://ajeuro.com/products/tws-t5-bluetooth-5-0-earbuds-ipx5-3500mah-power-bank-case-140hr?variant=47609343344832)
+  - [White Crystal Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047246528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/39681a0d-d90b-4a38-9137-702fa4f3d8be.jpg?v=1772678088
-    Price: €39.99 EUR
-  - [Black 3PCS](https://ajeuro.com/products/tws-t5-bluetooth-5-0-earbuds-ipx5-3500mah-power-bank-case-140hr?variant=47609343377600)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/69c1f749-9f5a-40b8-ae90-d26806e608fc.jpg?v=1779680037
+    Price: €18.99 EUR
+  - [White Jade Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047279296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f4b3c766-27e0-477d-89c7-5e8c08372591.jpg?v=1772678088
-    Price: €54.55 EUR
-  - [Blue](https://ajeuro.com/products/tws-t5-bluetooth-5-0-earbuds-ipx5-3500mah-power-bank-case-140hr?variant=47609343410368)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c6d4c009-95d4-4720-aee0-fd827b83c0c1.jpg?v=1779680037
+    Price: €16.99 EUR
+  - [Xiuyan Jade Suit](https://ajeuro.com/products/jade-roller-heart-shaped-suit-crystal-massage?variant=48322047312064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1614232393502.jpg?v=1772678088
-    Price: €23.99 EUR
-  - [Blue 2PCS](https://ajeuro.com/products/tws-t5-bluetooth-5-0-earbuds-ipx5-3500mah-power-bank-case-140hr?variant=47609343443136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eabe19db-e0c7-4338-8023-cf19e4ce8e4a.jpg?v=1772678088
-    Price: €41.99 EUR
-  - [Blue 3PCS](https://ajeuro.com/products/tws-t5-bluetooth-5-0-earbuds-ipx5-3500mah-power-bank-case-140hr?variant=47609343475904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5e950601-8f06-4a4d-b944-96012ea1cb04.jpg?v=1772678088
-    Price: €57.99 EUR
-- [Foldable Bluetooth 5.0 Over-Ear Headphones — CVC6.0 LED 8Hr | AJ Euro](https://ajeuro.com/products/foldable-bluetooth-5-0-over-ear-headphones-cvc6-led-8hr-360hr-standby): Bluetooth 5.0 over-ear headphones with CVC6.0 noise reduction, 8hr playback, 360hr standby, breathing LED and 3.5mm wired mode. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:40Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f8f3b4e9-1514-4715-9d3e-b22b304d1a0b.jpg?v=1779680037
+    Price: €14.99 EUR
+- [Ice Face Roller Massager for Face & Skincare | AJEuro](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance): Cooling ice face roller helps reduce puffiness, refresh skin, and enhance skincare routines. Delivered to France, Spain, Italy & Germany.
+  Updated: 2026-06-09T15:20:48Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/11142c7e-300a-41a8-9fbc-7dd1daf34803.jpg?v=1772678820
-  - [Black](https://ajeuro.com/products/foldable-bluetooth-5-0-over-ear-headphones-cvc6-led-8hr-360hr-standby?variant=47609347735744)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3b556bf1-1795-4f1f-92bd-71357e8f1a31.jpg?v=1779680161
+  - [Gold Black / 1PCS](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322048917696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6cabc831-988c-4060-a7b4-a223736b3e3a.jpg?v=1772678823
-    Price: €22.64 EUR
-  - [Black plus red](https://ajeuro.com/products/foldable-bluetooth-5-0-over-ear-headphones-cvc6-led-8hr-360hr-standby?variant=47609347768512)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4d0c47e4-3706-4651-b997-fbddc2b4ad1d.jpg?v=1779680162
+    Price: €15.99 EUR
+  - [Gold Black / 2piecesPP box](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322048950464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5bd3d1a7-b4eb-4730-a592-ad4436e1387b.jpg?v=1772678823
-    Price: €22.64 EUR
-  - [Red and black](https://ajeuro.com/products/foldable-bluetooth-5-0-over-ear-headphones-cvc6-led-8hr-360hr-standby?variant=47609347801280)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/11142c7e-300a-41a8-9fbc-7dd1daf34803_ba1481e8-677b-4b6e-a969-b3f3d91e0bba.jpg?v=1772678823
-    Price: €22.64 EUR
-  - [White](https://ajeuro.com/products/foldable-bluetooth-5-0-over-ear-headphones-cvc6-led-8hr-360hr-standby?variant=47609347834048)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0c64e31f-347e-4f95-9a7f-89e41d84b94d.jpg?v=1772678823
-    Price: €22.64 EUR
-- [Foldable Bluetooth 5.0 Headphones — Wireless & Wired with TV Adaptor | AJ Euro](https://ajeuro.com/products/foldable-bluetooth-5-0-headphones-wireless-wired-tv-adaptor): Foldable Bluetooth 5.0 headphones with 40mm drivers, wired mode, TV adaptor option and 4–8hr wireless battery. 5 colours. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:41Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e1e77207-c728-4080-9e59-9875fc9d4f70.jpg?v=1772678925
-  - [Black](https://ajeuro.com/products/foldable-bluetooth-5-0-headphones-wireless-wired-tv-adaptor?variant=47609351045312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/346fcc52-aee0-4ef7-a456-acf99cd0ecf0.jpg?v=1772678927
-    Price: €14.17 EUR
-  - [Blue](https://ajeuro.com/products/foldable-bluetooth-5-0-headphones-wireless-wired-tv-adaptor?variant=47609351078080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e1e77207-c728-4080-9e59-9875fc9d4f70_d4062c2f-38fc-48b4-a788-fdb55a7b7fb9.jpg?v=1772678927
-    Price: €14.77 EUR
-  - [Green](https://ajeuro.com/products/foldable-bluetooth-5-0-headphones-wireless-wired-tv-adaptor?variant=47609351110848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eceae964-7ed6-4a6f-85b8-21e86f5a389c.jpg?v=1772678927
-    Price: €14.77 EUR
-  - [Red](https://ajeuro.com/products/foldable-bluetooth-5-0-headphones-wireless-wired-tv-adaptor?variant=47609351143616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b935f96f-07a0-485e-be26-72cd5eb92d0e.jpg?v=1772678927
-    Price: €14.77 EUR
-  - [White](https://ajeuro.com/products/foldable-bluetooth-5-0-headphones-wireless-wired-tv-adaptor?variant=47609351176384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/70678c0e-94bf-4841-ba00-d5d6da02bce1.jpg?v=1772678927
-    Price: €14.77 EUR
-- [Gaming Bluetooth 5.1 Earbuds — Zero Latency NFC 120Hr Multipoint | AJ Euro](https://ajeuro.com/products/gaming-bluetooth-5-1-earbuds-zero-latency-nfc-120hr-multipoint): Gaming Bluetooth 5.1 earbuds with zero latency, NFC pairing, multipoint connection and 120hr battery. 15m range, bilateral stereo. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:41Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2ec3240d-37ba-48b9-bf4b-409263e43be8.jpg?v=1772679092
-  Price: €18.00 EUR
-- [Bluetooth Music Headband — Wireless Sleep & Sports Headband Speakers | AJ Euro](https://ajeuro.com/products/bluetooth-music-headband-wireless-sleep-sports-speakers): Bluetooth music headband with 32mm speakers, washable fabric and 3–6hr playback. For sleep, sport and daily wear. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:41Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1571259420192.jpg?v=1772679935
-  - [Black](https://ajeuro.com/products/bluetooth-music-headband-wireless-sleep-sports-speakers?variant=47609377718464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1972846758822_6bfe0e97-9bb5-46cb-9e8b-cd94c8f31a1c.jpg?v=1772679949
-    Price: €20.19 EUR
-  - [Dark grey](https://ajeuro.com/products/bluetooth-music-headband-wireless-sleep-sports-speakers?variant=47609377751232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/373893618034.jpg?v=1772679949
-    Price: €19.81 EUR
-  - [Light Blue](https://ajeuro.com/products/bluetooth-music-headband-wireless-sleep-sports-speakers?variant=47609377784000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4782109747965.jpg?v=1772679949
-    Price: €21.99 EUR
-  - [Light Gray](https://ajeuro.com/products/bluetooth-music-headband-wireless-sleep-sports-speakers?variant=47609377816768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/921832645197.jpg?v=1772679949
-    Price: €20.19 EUR
-  - [Red](https://ajeuro.com/products/bluetooth-music-headband-wireless-sleep-sports-speakers?variant=47609377849536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/781017a3-2886-4577-bdfc-a51cf8058938.jpg?v=1772679949
-    Price: €20.19 EUR
-- [R180 TWS Bluetooth 5.0 Earbuds — 20m Range Bilateral Stereo | AJ Euro](https://ajeuro.com/products/r180-tws-bluetooth-5-0-earbuds-20m-range-bilateral-stereo): R180 TWS Bluetooth 5.0 earbuds with 20m extended range and bilateral stereo. Compatible with iOS and Android. 3 colour options. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:41Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/442533556648.jpg?v=1772680361
-  - [Black](https://ajeuro.com/products/r180-tws-bluetooth-5-0-earbuds-20m-range-bilateral-stereo?variant=47609386500288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1243157612883.jpg?v=1772680366
-    Price: €45.29 EUR
-  - [Blue](https://ajeuro.com/products/r180-tws-bluetooth-5-0-earbuds-20m-range-bilateral-stereo?variant=47609386533056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622084752878.jpg?v=1772680366
-    Price: €45.29 EUR
-  - [White](https://ajeuro.com/products/r180-tws-bluetooth-5-0-earbuds-20m-range-bilateral-stereo?variant=47609386565824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2424635339227.jpg?v=1772680366
-    Price: €45.29 EUR
-  - [Golden](https://ajeuro.com/products/r180-tws-bluetooth-5-0-earbuds-20m-range-bilateral-stereo?variant=47609386598592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/442533556648_014125e7-189b-47c4-b31b-1d4a34807767.jpg?v=1772680366
-    Price: €45.29 EUR
-- [Ear Clip Open-Ear Bluetooth 5.2 Headphones — 36Hr HIFI Dual Drive | AJ Euro](https://ajeuro.com/products/ear-clip-open-ear-bluetooth-5-2-headphones-36hr-hifi-dual-drive): Bluetooth 5.2 ear clip headphones with dual-drive HIFI sound, 36hr battery and 350mAh USB-C charging case. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:41Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/029b739e-5785-4d5e-8a34-7afef9ddfaf7.jpg?v=1772680704
-  - [Black / With display](https://ajeuro.com/products/ear-clip-open-ear-bluetooth-5-2-headphones-36hr-hifi-dual-drive?variant=47609389449408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3f159e4d-9af2-4bb6-b1db-5d352c479332.jpg?v=1772680717
-    Price: €33.63 EUR
-  - [White / With display](https://ajeuro.com/products/ear-clip-open-ear-bluetooth-5-2-headphones-36hr-hifi-dual-drive?variant=47609389482176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/36e9d134-b0f8-4c03-9ac8-a3ce94e942ee.jpg?v=1772680717
-    Price: €33.63 EUR
-  - [White / Without display](https://ajeuro.com/products/ear-clip-open-ear-bluetooth-5-2-headphones-36hr-hifi-dual-drive?variant=47609389514944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f937822c-a54f-490c-9097-33641c2ed508.jpg?v=1772680717
-    Price: €36.05 EUR
-- [HY300 Android Smart Mini Projector 720p — 120 ANSI Lumens Home | AJ Euro](https://ajeuro.com/products/hy300-android-smart-mini-projector-720p-120-ansi-lumens): HY300 Android smart mini projector with 720p resolution and 120 ANSI lumens. Built-in Android OS, remote control, EU and US plug. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:41Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2f15f144-e03d-4954-9a4c-1a001d8ed1ac.jpg?v=1772681150
-  - [White / AU](https://ajeuro.com/products/hy300-android-smart-mini-projector-720p-120-ansi-lumens?variant=47609391317184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b26172dd-17ee-40bf-96dc-ea81bc01bae6.jpg?v=1772681164
-    Price: €112.26 EUR
-  - [White / American Standard](https://ajeuro.com/products/hy300-android-smart-mini-projector-720p-120-ansi-lumens?variant=47609391349952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d1db7ffa-5b6c-440b-be0b-f4a9aaa58abc.jpg?v=1772681164
-    Price: €110.47 EUR
-- [Wired USB Gaming Headset — 50mm 110dB with Mic 3m Braided Cable | AJ Euro](https://ajeuro.com/products/wired-usb-gaming-headset-50mm-110db-mic-3m-braided-cable): Wired USB gaming headset with 50mm moving coil drivers, 110dB sensitivity, built-in mic and 3m braided cable. 4 colours. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:41Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/adffcf6c-95ce-4804-8d80-03719916da26.jpg?v=1772681442
-  - [Blue](https://ajeuro.com/products/wired-usb-gaming-headset-50mm-110db-mic-3m-braided-cable?variant=47609392890048)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/308481f2-5e63-4320-b28e-b28d8a146453.jpg?v=1772681449
-    Price: €35.93 EUR
-  - [Orange](https://ajeuro.com/products/wired-usb-gaming-headset-50mm-110db-mic-3m-braided-cable?variant=47609392922816)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2b795524-7312-4525-9788-3f443dcb3447.jpg?v=1772681449
-    Price: €35.93 EUR
-  - [Purple](https://ajeuro.com/products/wired-usb-gaming-headset-50mm-110db-mic-3m-braided-cable?variant=47609392955584)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/adffcf6c-95ce-4804-8d80-03719916da26_2425b717-56d0-4921-b853-f0545172031f.jpg?v=1772681449
-    Price: €35.93 EUR
-  - [Red](https://ajeuro.com/products/wired-usb-gaming-headset-50mm-110db-mic-3m-braided-cable?variant=47609392988352)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/743f41ac-4cb8-4120-b86f-93d727529e7e.jpg?v=1772681449
-    Price: €35.93 EUR
-- [Portable Bluetooth Speaker 20W — Waterproof FM Radio TF Card 8Hr | AJ Euro](https://ajeuro.com/products/portable-bluetooth-speaker-20w-waterproof-fm-radio-tf-card-8hr): 20W waterproof Bluetooth speaker with dual drivers, FM radio, TF card playback, 8hr battery and CE certification. Ships to France and the United Kingdom.
-  Updated: 2026-05-22T04:14:42Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1bbcd2ad-4c51-402d-8e2f-ec36f8bef62c.jpg?v=1772681959
-  - [Black / 10W speaker 10W wireless charg](https://ajeuro.com/products/portable-bluetooth-speaker-20w-waterproof-fm-radio-tf-card-8hr?variant=47609395282112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b44f7ea0-df1c-4f2a-aba7-db346bfedb9f.jpg?v=1772681964
-    Price: €40.43 EUR
-  - [Black / 10W speaker 15W wireless charg](https://ajeuro.com/products/portable-bluetooth-speaker-20w-waterproof-fm-radio-tf-card-8hr?variant=47609395314880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b44f7ea0-df1c-4f2a-aba7-db346bfedb9f.jpg?v=1772681964
-    Price: €38.35 EUR
-  - [Black / Ony Bluetooth speaker](https://ajeuro.com/products/portable-bluetooth-speaker-20w-waterproof-fm-radio-tf-card-8hr?variant=47609395347648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b44f7ea0-df1c-4f2a-aba7-db346bfedb9f.jpg?v=1772681964
-    Price: €28.25 EUR
-  - [Black / Touch version 10W speaker](https://ajeuro.com/products/portable-bluetooth-speaker-20w-waterproof-fm-radio-tf-card-8hr?variant=47609395380416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b44f7ea0-df1c-4f2a-aba7-db346bfedb9f.jpg?v=1772681964
-    Price: €40.43 EUR
-  - [White / 10W speaker 10W wireless charg](https://ajeuro.com/products/portable-bluetooth-speaker-20w-waterproof-fm-radio-tf-card-8hr?variant=47609395413184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cd7f4ccf-56b5-4d51-a12f-0f33eb7b4faa.jpg?v=1772681964
-    Price: €40.43 EUR
-  - [White / 10W speaker 15W wireless charg](https://ajeuro.com/products/portable-bluetooth-speaker-20w-waterproof-fm-radio-tf-card-8hr?variant=47609395445952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cd7f4ccf-56b5-4d51-a12f-0f33eb7b4faa.jpg?v=1772681964
-    Price: €38.35 EUR
-  - [White / Ony Bluetooth speaker](https://ajeuro.com/products/portable-bluetooth-speaker-20w-waterproof-fm-radio-tf-card-8hr?variant=47609395478720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cd7f4ccf-56b5-4d51-a12f-0f33eb7b4faa.jpg?v=1772681964
-    Price: €28.25 EUR
-- [TWS Bluetooth 5.1 Earbuds — Copper Ring Speaker Digital Display | AJ Euro](https://ajeuro.com/products/tws-bluetooth-5-1-earbuds-copper-ring-speaker-digital-display): Bluetooth 5.1 TWS earbuds with true copper ring speaker, digital battery display and 200mAh charging case for 3 recharges. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:42Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/37817d84-dc0e-4dcd-ba06-70977be81475.jpg?v=1772682285
-  Price: €18.00 EUR
-- [IPX7 Waterproof TWS Earbuds — Bluetooth 5.1 LED Display Touch Control | AJ Euro](https://ajeuro.com/products/ipx7-waterproof-tws-earbuds-bluetooth-5-1-led-display-touch-control): IPX7 waterproof TWS earbuds with Bluetooth 5.1, LED battery display, touch controls and Hi-Fi stereo. Auto-pairing. Ships to France and the United Kingdom.
-  Updated: 2026-05-22T04:14:42Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/259c0891-c261-493f-b6bc-660a663ef60c.jpg?v=1772682627
-  Price: €35.99 EUR
-- [Bluetooth 5.0 Semi-In-Ear Wireless Earbuds — HD Stereo Bilateral | AJ Euro](https://ajeuro.com/products/bluetooth-5-0-semi-in-ear-wireless-earbuds-hd-stereo-bilateral): Bluetooth 5.0 semi-in-ear earbuds with bilateral stereo, HD voice and English prompts. 10–15m range. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:42Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/386132459951.jpg?v=1772682907
-  - [Black](https://ajeuro.com/products/bluetooth-5-0-semi-in-ear-wireless-earbuds-hd-stereo-bilateral?variant=47609473335488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/386132459951_dabbe90d-8ece-4f0b-8467-70c905ba8b03.jpg?v=1772682916
-    Price: €35.00 EUR
-  - [Skin](https://ajeuro.com/products/bluetooth-5-0-semi-in-ear-wireless-earbuds-hd-stereo-bilateral?variant=47609473368256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1374339813797.jpg?v=1772682916
-    Price: €35.00 EUR
-  - [White](https://ajeuro.com/products/bluetooth-5-0-semi-in-ear-wireless-earbuds-hd-stereo-bilateral?variant=47609473401024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1802047212405.jpg?v=1772682916
-    Price: €35.00 EUR
-- [Magnetic Resonance Induction Speaker 3W — No Bluetooth Needed | AJ Euro](https://ajeuro.com/products/magnetic-resonance-induction-speaker-3w-no-bluetooth-phone): Magnetic resonance induction speaker — place your phone on it and it plays instantly. No Bluetooth, no cables. 3W, 60Hz–15kHz. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:42Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1601322728280.png?v=1772683287
-  Price: €35.64 EUR
-- [Mini Waterproof Bluetooth Speaker 3W — 5Hr Battery Hands-Free | AJ Euro](https://ajeuro.com/products/mini-waterproof-bluetooth-speaker-3w-5hr-battery-led-hands-free): Mini waterproof Bluetooth speaker with 3W output, 5hr battery, hands-free mic and 10m range. 85mm compact disc design. Ships to France and the United Kingdom.
-  Updated: 2026-05-22T04:14:42Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/244063327040.jpg?v=1772684384
-  - [4pcs set](https://ajeuro.com/products/mini-waterproof-bluetooth-speaker-3w-5hr-battery-led-hands-free?variant=47609485394112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/80343ed1-3e65-4401-9ff0-986ed8b56157.jpg?v=1772684388
-    Price: €28.85 EUR
-  - [Black](https://ajeuro.com/products/mini-waterproof-bluetooth-speaker-3w-5hr-battery-led-hands-free?variant=47609485426880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/244063327040_4a032df2-e968-4b0d-b103-fba311d49baa.jpg?v=1772684388
-    Price: €15.66 EUR
-  - [Blue](https://ajeuro.com/products/mini-waterproof-bluetooth-speaker-3w-5hr-battery-led-hands-free?variant=47609485459648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/69929641500180.jpg?v=1772684388
-    Price: €15.66 EUR
-  - [Green](https://ajeuro.com/products/mini-waterproof-bluetooth-speaker-3w-5hr-battery-led-hands-free?variant=47609485492416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2438999798040.jpg?v=1772684388
-    Price: €15.66 EUR
-  - [Pink](https://ajeuro.com/products/mini-waterproof-bluetooth-speaker-3w-5hr-battery-led-hands-free?variant=47609485525184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1141014607880.jpg?v=1772684388
-    Price: €15.36 EUR
-  - [White](https://ajeuro.com/products/mini-waterproof-bluetooth-speaker-3w-5hr-battery-led-hands-free?variant=47609485557952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1790191358.jpg?v=1772684388
-    Price: €15.66 EUR
-- [AUSDOM BASS ONE Over-Ear Headphones — 50Hr Bass Boost Qualcomm BT5.0 | AJ Euro](https://ajeuro.com/products/ausdom-bass-one-over-ear-headphones-50hr-bass-boost-qualcomm-bt5): AUSDOM BASS ONE headphones — 40mm drivers, ANC, 50hr battery and 2000mAh case for 220hr total playback. USB-C fast charge. Ships to France and the UK.
-  Updated: 2026-05-30T07:26:52Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2435993274459.jpg?v=1772685134
-  - [Black](https://ajeuro.com/products/ausdom-bass-one-over-ear-headphones-50hr-bass-boost-qualcomm-bt5?variant=47609488441536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2435993274459_a2ff37e4-0114-47cd-9115-5f60e8218195.jpg?v=1772685139
-    Price: €25.22 EUR
-  - [White](https://ajeuro.com/products/ausdom-bass-one-over-ear-headphones-50hr-bass-boost-qualcomm-bt5?variant=47609488474304)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3188178699614.jpg?v=1772685139
-    Price: €25.22 EUR
-- [Magcubic HY300 Mini Projector — 720p WiFi Bluetooth 5.0 Auto Keystone | AJ Euro](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone): Magcubic HY300 mini projector with 720p, dual-band WiFi, Bluetooth 5.0, auto keystone and 130-inch projection. 120 ANSI lumens. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:43Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b03b0490-9caa-4e3f-9f2a-355bfb189d0f.jpg?v=1772686028
-  - [Black / Remote control](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517244608)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/71cdbc1c-d55d-45e1-bdc7-1e499bc2e97e_721501a0-b4fd-43af-8b56-3f1b4fb79405.jpg?v=1772686038
-    Price: €12.99 EUR
-  - [HY300 Set / Australian Regulations](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517277376)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8ba2fb73-320d-405c-b4ac-f988c61f4b2e.jpg?v=1772686038
-    Price: €99.99 EUR
-  - [HY300 Set1 / Australian Regulations](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517310144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a4e07b0-947a-43c7-bcb2-9d3bf78b0320.jpg?v=1772686038
-    Price: €103.99 EUR
-  - [HY300 / American Standard](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517342912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1d293389-6bc7-46a1-b9c3-41c9ca9b620a_trans.jpg?v=1772686038
-    Price: €89.99 EUR
-  - [HY300 / Australian Regulations](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517375680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1d293389-6bc7-46a1-b9c3-41c9ca9b620a_trans.jpg?v=1772686038
-    Price: €89.99 EUR
-  - [HY300 / British Standard](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517408448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1d293389-6bc7-46a1-b9c3-41c9ca9b620a_trans.jpg?v=1772686038
-    Price: €89.99 EUR
-  - [HY300 / European Standard](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517441216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1d293389-6bc7-46a1-b9c3-41c9ca9b620a_trans.jpg?v=1772686038
-    Price: €89.99 EUR
-  - [Silvery / American Standard](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517473984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_1a6bf1bb-12cd-4ba3-8c70-be2b196b69c2.jpg?v=1772686038
-    Price: €89.99 EUR
-  - [Silvery / Australian Regulations](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517506752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_1a6bf1bb-12cd-4ba3-8c70-be2b196b69c2.jpg?v=1772686038
-    Price: €89.99 EUR
-  - [Silvery / British Standard](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517539520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_1a6bf1bb-12cd-4ba3-8c70-be2b196b69c2.jpg?v=1772686038
-    Price: €89.99 EUR
-  - [Silvery / European Standard](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone?variant=47609517572288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_1a6bf1bb-12cd-4ba3-8c70-be2b196b69c2.jpg?v=1772686038
-    Price: €89.99 EUR
-- [YD03 TWS Wireless Earbuds — Bluetooth 5.3 LED Display Breathing Light | AJ Euro](https://ajeuro.com/products/yd03-tws-wireless-earbuds-bluetooth-5-3-led-display-breathing-light): YD03 Bluetooth 5.3 earbuds with LED battery display, graphene diaphragm and noise-cancelling mic. 4–5hr battery. Ships to France and the UK.
-  Updated: 2026-06-04T03:27:06Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e18cca14-8953-4cf9-9966-c55e7c99f5ee.jpg?v=1772686257
-  - [Black set / usb](https://ajeuro.com/products/yd03-tws-wireless-earbuds-bluetooth-5-3-led-display-breathing-light?variant=47609525141696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fb243b47-2d8d-48ed-9184-15dc36bd7c71.jpg?v=1772686265
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f8e8c69d-cdad-4664-8193-333010b2cf19.jpg?v=1779680161
     Price: €28.99 EUR
-  - [Black / usb](https://ajeuro.com/products/yd03-tws-wireless-earbuds-bluetooth-5-3-led-display-breathing-light?variant=47609525174464)
+  - [Gold White / 1PCS](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322048983232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e084bda0-747c-4b27-945c-e83db3706cb9.jpg?v=1772686265
-    Price: €25.99 EUR
-  - [Set1 / usb](https://ajeuro.com/products/yd03-tws-wireless-earbuds-bluetooth-5-3-led-display-breathing-light?variant=47609525207232)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b287a363-cdbd-4f23-a7ce-c985627b16f3.jpg?v=1779680161
+    Price: €15.99 EUR
+  - [Gold White / 2piecesPP box](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322049016000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/95243e3e-f9f8-4186-8896-bce9619e0cbc.jpg?v=1772686265
-    Price: €55.99 EUR
-  - [White gray / Wired earphone](https://ajeuro.com/products/yd03-tws-wireless-earbuds-bluetooth-5-3-led-display-breathing-light?variant=47609525240000)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/669b2a38-1203-4073-b943-9c771b9c71e0.jpg?v=1779680161
+    Price: €28.99 EUR
+  - [Rose Gold Black / 1PCS](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322049048768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1772686265
-    Price: €5.00 EUR
-- [Reusable Pet Hair Remover Brush — Self-Cleaning Lint Roller | AJ Euro](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller): Reusable electrostatic pet hair remover with built-in dustbin and self-cleaning brush head. No refills needed. White, green or pink. Ships to France and the UK.
-  Updated: 2026-06-05T19:26:28Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/797e5eb8-dccd-4fcc-817f-816ac195a50c.jpg?v=1779680161
+    Price: €15.99 EUR
+  - [Rose Gold Black / 2piecesPP box](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322049081536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/63ea12a5-19c1-41c7-b6c1-959714d33935.jpg?v=1779680161
+    Price: €29.99 EUR
+  - [Rose Gold White / 1PCS](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322049114304)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3201571d-15e6-472f-b599-8ff7a6dc9f49.jpg?v=1779680161
+    Price: €15.99 EUR
+  - [Rose Gold White / 2piecesPP box](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322049147072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/590adc93-903a-450a-9c25-756704871fba.jpg?v=1779680161
+    Price: €29.99 EUR
+  - [Silver Black / 1PCS](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322049179840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2859f43a-a166-4b8d-8828-1935b944119b.jpg?v=1779680161
+    Price: €14.99 EUR
+  - [Silver Black / 2piecesPP box](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322049212608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/79c16979-9740-4114-9ff2-ad7d3fd0670b.jpg?v=1779680161
+    Price: €27.99 EUR
+  - [Silver White / 1PCS](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322049245376)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/56c51a35-eb30-4ce4-bf0b-d663a3bafee7.jpg?v=1779680161
+    Price: €14.99 EUR
+  - [Silver White / 2piecesPP box](https://ajeuro.com/products/fashion-simple-home-beauty-massage-ice-appliance?variant=48322049278144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0b8d0eee-d8a8-4765-86d7-e15b48110840.jpg?v=1779680161
+    Price: €27.99 EUR
+- [Anti-Acne LED Light Therapy Face Mask | AJEuro](https://ajeuro.com/products/anti-acne-led-mask-spectrometer): LED light therapy face mask with infrared technology to support clearer-looking skin and home skincare routines. Delivered across Europe.
+  Updated: 2026-06-09T14:58:24Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1615203197971.jpg?v=1772690970
-  - [Blue](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609624821952)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eee73e9a-6faf-4237-877a-b1c21adc7d03.jpg?v=1779680236
+  - [AU / White](https://ajeuro.com/products/anti-acne-led-mask-spectrometer?variant=48322050588864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1617961882551.jpg?v=1772690984
-    Price: €16.53 EUR
-  - [Blue 2pcs](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609624854720)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eee73e9a-6faf-4237-877a-b1c21adc7d03.jpg?v=1779680236
+    Price: €54.99 EUR
+  - [EU / White](https://ajeuro.com/products/anti-acne-led-mask-spectrometer?variant=48322050621632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0cec5a1d-5305-4e6a-ab64-00b686b96b84.jpg?v=1772690984
-    Price: €30.39 EUR
-  - [Blue3pcs](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609624887488)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eee73e9a-6faf-4237-877a-b1c21adc7d03.jpg?v=1779680236
+    Price: €54.99 EUR
+  - [UK / White](https://ajeuro.com/products/anti-acne-led-mask-spectrometer?variant=48322050654400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/603ce475-0a0b-4874-aa83-0c0ad1af6e31.jpg?v=1772690984
-    Price: €44.30 EUR
-  - [Green](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609624920256)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eee73e9a-6faf-4237-877a-b1c21adc7d03.jpg?v=1779680236
+    Price: €54.99 EUR
+  - [US / White](https://ajeuro.com/products/anti-acne-led-mask-spectrometer?variant=48322050687168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1615203197680.jpg?v=1772690984
-    Price: €16.53 EUR
-  - [Green 2pcs](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609624953024)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eee73e9a-6faf-4237-877a-b1c21adc7d03.jpg?v=1779680236
+    Price: €54.99 EUR
+- [7-Color LED Photon Beauty Mask with Infrared Light Therapy | AJEuro](https://ajeuro.com/products/infrared-photon-beauty-apparatus-colorful-led-household-silicone-portable-beauty-mask-breathable): LED photon beauty mask with 7-color light therapy and infrared technology for home skincare. Delivered across Europe.
+  Updated: 2026-06-09T14:20:53Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/781fa57f-5c04-49ba-9b8f-257376f26c43_trans.jpg?v=1779680319
+  - [Black Infrared](https://ajeuro.com/products/infrared-photon-beauty-apparatus-colorful-led-household-silicone-portable-beauty-mask-breathable?variant=48322052882624)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a83f9f04-a48d-4254-9210-a45348d7eea7.jpg?v=1772690984
-    Price: €30.39 EUR
-  - [Green Set](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609624985792)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/56af5762-e340-4bfb-a98a-fe881e0cd4c0.jpg?v=1779680319
+    Price: €49.99 EUR
+  - [Black Seven Colors](https://ajeuro.com/products/infrared-photon-beauty-apparatus-colorful-led-household-silicone-portable-beauty-mask-breathable?variant=48322052915392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cec40f16-3106-41c3-ae7b-7d47ee80f321.jpg?v=1772690984
-    Price: €26.48 EUR
-  - [Green3pcs](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625018560)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/56af5762-e340-4bfb-a98a-fe881e0cd4c0.jpg?v=1779680319
+    Price: €42.99 EUR
+  - [White Infrared](https://ajeuro.com/products/infrared-photon-beauty-apparatus-colorful-led-household-silicone-portable-beauty-mask-breathable?variant=48322052948160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/14db11f7-939d-4b76-9826-9200401e62c3.jpg?v=1772690984
-    Price: €44.30 EUR
-  - [Pink](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625051328)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2b945110-05f2-4eb5-b0e3-a5e93f7ec821.jpg?v=1779680319
+    Price: €49.99 EUR
+  - [White Seven Colors](https://ajeuro.com/products/infrared-photon-beauty-apparatus-colorful-led-household-silicone-portable-beauty-mask-breathable?variant=48322052980928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1615203197678.jpg?v=1772690984
-    Price: €16.53 EUR
-  - [Pink 2pcs](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625084096)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2b945110-05f2-4eb5-b0e3-a5e93f7ec821.jpg?v=1779680319
+    Price: €42.99 EUR
+- [Facial Ice Roller Mold for Puffiness & Skincare | AJEuro](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies): Cooling facial ice roller helps reduce puffiness, refresh skin, and improve your skincare routine. Delivered across Europe.
+  Updated: 2026-06-17T19:27:09Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9d17595e-9b7c-4a76-ac16-433409962038.jpg?v=1779680452
+  - [Black](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322054815936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/be18cd13-7816-40b9-ba7d-bddf39f683bd.jpg?v=1772690984
-    Price: €30.41 EUR
-  - [Pink Set](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625116864)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/67df43eb-41d0-46d9-800b-21ebfcd24f00.jpg?v=1779680452
+    Price: €10.99 EUR
+  - [Black 2pcs](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322054848704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3fc821c4-437e-4985-a226-6f1e25d133f7.jpg?v=1772690984
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d65fec75-4491-4986-88a2-a87512b0412e.jpg?v=1779680452
+    Price: €15.99 EUR
+  - [Black set1](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322054881472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/217ac9d7-c270-44c2-be9a-945c3e74d5b0.jpg?v=1779680452
+    Price: €15.99 EUR
+  - [Black set2](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322054914240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8346377b-275f-48f4-acbe-743d45b3b419.jpg?v=1779680452
+    Price: €24.99 EUR
+  - [Blue](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322054947008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4c1cf1f1-a1f6-4921-8536-d7e145adc73e.jpg?v=1779680452
+    Price: €10.99 EUR
+  - [Green](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322054979776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ab513c1f-ee8a-45e6-994c-eb1dbfdedeef.jpg?v=1779680452
+    Price: €10.99 EUR
+  - [Pink](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322055012544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bcdf9d33-c69c-451f-8e35-fc651a0328b7.jpg?v=1779680452
+    Price: €10.99 EUR
+  - [Pink and Green](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322055045312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a387e1a0-6a58-4214-b1ea-57873104d6c3.jpg?v=1779680452
+    Price: €10.99 EUR
+  - [Purple](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322055078080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a99a3d49-a033-4e6c-96db-76a6df78bc77.jpg?v=1779680452
+    Price: €10.99 EUR
+  - [Purple And Pink](https://ajeuro.com/products/apply-face-ice-tray-shell-pattern-facial-edema-massage-ice-tray-beauty-supplies?variant=48322055110848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6c44dc89-7647-41a9-874f-2987526a2ba8.jpg?v=1779680452
+    Price: €10.99 EUR
+- [1080° Rotating Magnetic Car Phone Holder | AJEuro](https://ajeuro.com/products/rotate-metal-magnetic-car-phone-holder-foldable-universal-mobile-phone-stand-air-vent-magnet-mount-gps-support): Strong magnetic car phone holder with 1080° rotation for secure hands-free navigation and driving. Delivered across Europe.
+  Updated: 2026-06-08T18:50:53Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/01bb5fe6-966d-471a-943a-51cedab57861_9af2d831-e4a5-47f4-ac04-46496b51c757.jpg?v=1779776670
+  - [Black and Silver](https://ajeuro.com/products/rotate-metal-magnetic-car-phone-holder-foldable-universal-mobile-phone-stand-air-vent-magnet-mount-gps-support?variant=48324068606144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/472558d6-3752-4597-8758-2ef60eb933cd.jpg?v=1779776670
+    Price: €14.99 EUR
+  - [Folding Magnetic Black](https://ajeuro.com/products/rotate-metal-magnetic-car-phone-holder-foldable-universal-mobile-phone-stand-air-vent-magnet-mount-gps-support?variant=48324068638912)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/07f58c31-3db8-4dd2-9527-0bd1aa30f36e.jpg?v=1779776670
+    Price: €10.99 EUR
+  - [Folding Magnetic Black set](https://ajeuro.com/products/rotate-metal-magnetic-car-phone-holder-foldable-universal-mobile-phone-stand-air-vent-magnet-mount-gps-support?variant=48324068671680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a8eb38f0-9993-4975-9ea4-a7c8fa0d5404.jpg?v=1779776670
+    Price: €11.99 EUR
+  - [Folding Magnetic Silver](https://ajeuro.com/products/rotate-metal-magnetic-car-phone-holder-foldable-universal-mobile-phone-stand-air-vent-magnet-mount-gps-support?variant=48324068704448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/aef45166-5b48-41ef-a6e2-c2a9d98c5b57.jpg?v=1779776670
+    Price: €10.99 EUR
+  - [Folding Magnetic Silver set](https://ajeuro.com/products/rotate-metal-magnetic-car-phone-holder-foldable-universal-mobile-phone-stand-air-vent-magnet-mount-gps-support?variant=48324068737216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f8363aae-7338-4c37-87bc-d9d7dce8f348.jpg?v=1779776670
+    Price: €11.99 EUR
+  - [Set A](https://ajeuro.com/products/rotate-metal-magnetic-car-phone-holder-foldable-universal-mobile-phone-stand-air-vent-magnet-mount-gps-support?variant=48324068769984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f7d81f27-1827-402b-93e7-049fea0280be.jpg?v=1779776670
+    Price: €16.99 EUR
+- [360° Rotating Metal Phone Stand for Desk | AJEuro](https://ajeuro.com/products/360degree-rotation-mobile-phone-bracket-metal): Adjustable 360° rotating metal phone stand for hands-free viewing, video calls, gaming, and work. Delivered across Europe.
+  Updated: 2026-06-08T16:21:09Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2ce325dc-23d8-4ca9-b671-a80bc61fef57.jpg?v=1779776825
+  - [Black / K39B](https://ajeuro.com/products/360degree-rotation-mobile-phone-bracket-metal?variant=48324069327040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9071e964-6c69-468a-a8ce-ca4b1cefa44f.jpg?v=1779776825
+    Price: €12.99 EUR
+  - [Black / K8](https://ajeuro.com/products/360degree-rotation-mobile-phone-bracket-metal?variant=48324069359808)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/60aba614-ab99-4490-96f7-794f4679a79a.jpg?v=1779776825
+    Price: €12.99 EUR
+  - [Set1 / set1](https://ajeuro.com/products/360degree-rotation-mobile-phone-bracket-metal?variant=48324069392576)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/86687eee-3bd3-4ca7-b0ac-7c07132ba64e.jpg?v=1779776825
+    Price: €12.99 EUR
+  - [Set2 / Set2](https://ajeuro.com/products/360degree-rotation-mobile-phone-bracket-metal?variant=48324069425344)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bf624ad3-d301-4d28-85c6-cc74eb162132.jpg?v=1779776825
+    Price: €12.99 EUR
+  - [White / K39B](https://ajeuro.com/products/360degree-rotation-mobile-phone-bracket-metal?variant=48324069458112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/148f071e-ed77-4500-a505-858d5de14380.jpg?v=1779776825
+    Price: €17.99 EUR
+  - [White / K8](https://ajeuro.com/products/360degree-rotation-mobile-phone-bracket-metal?variant=48324069490880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a0bb3069-0a25-4db7-b1b2-476b317afea0.jpg?v=1779776825
+    Price: €17.99 EUR
+- [Silicone Cable Organizer Clips for Desk Cable Management | AJEuro](https://ajeuro.com/products/data-cable-storage-and-arrangement-buckle-cable-management-card): Organize charging cables, USB cords, and earphones with silicone cable clips. Delivered to France, Spain, Italy & Germany.
+  Updated: 2026-06-08T16:13:49Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/974209931878.jpg?v=1779777786
+  - [Black 3 clips / 1pcs](https://ajeuro.com/products/data-cable-storage-and-arrangement-buckle-cable-management-card?variant=48324089249984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/831705686318.jpg?v=1779777786
+    Price: €9.99 EUR
+  - [Black 4 clips / 1pcs](https://ajeuro.com/products/data-cable-storage-and-arrangement-buckle-cable-management-card?variant=48324089282752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/824055164370.jpg?v=1779777786
+    Price: €9.99 EUR
+  - [Black 4 clips / 2pcs](https://ajeuro.com/products/data-cable-storage-and-arrangement-buckle-cable-management-card?variant=48324089315520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/25611089601.jpg?v=1779777786
+    Price: €11.99 EUR
+  - [Black 5 clips / 1pcs](https://ajeuro.com/products/data-cable-storage-and-arrangement-buckle-cable-management-card?variant=48324089348288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1239192094686.jpg?v=1779777786
+    Price: €9.99 EUR
+  - [Black 7 clips / 1pcs](https://ajeuro.com/products/data-cable-storage-and-arrangement-buckle-cable-management-card?variant=48324089381056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/569572103055.jpg?v=1779777786
+    Price: €10.99 EUR
+  - [Black 7 clips / 2pcs](https://ajeuro.com/products/data-cable-storage-and-arrangement-buckle-cable-management-card?variant=48324089413824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8720134567889.jpg?v=1779777786
+    Price: €15.99 EUR
+  - [Pink 4 clips / 2pcs](https://ajeuro.com/products/data-cable-storage-and-arrangement-buckle-cable-management-card?variant=48324089446592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/275490852726.jpg?v=1779777786
+    Price: €10.99 EUR
+- [Wireless Hair Straightening Comb & Curling Iron | AJEuro](https://ajeuro.com/products/usb-wireless-charging-hair-straightening-comb-portable): Cordless USB rechargeable hair straightener and curling iron with ceramic heating. Fast styling for smooth, straight, or curled hair.
+  Updated: 2026-06-08T16:06:27Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/db85a51c-be13-4d71-9534-026e837a3e2a.jpg?v=1779777888
+  - [White / EU](https://ajeuro.com/products/usb-wireless-charging-hair-straightening-comb-portable?variant=48324090003648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0f2c8d2c-cf2f-4514-b81e-d39468defddd.jpg?v=1779777888
+    Price: €49.99 EUR
+  - [White / US](https://ajeuro.com/products/usb-wireless-charging-hair-straightening-comb-portable?variant=48324090036416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0f2c8d2c-cf2f-4514-b81e-d39468defddd.jpg?v=1779777888
+    Price: €49.99 EUR
+  - [White / USB](https://ajeuro.com/products/usb-wireless-charging-hair-straightening-comb-portable?variant=48324090069184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0f2c8d2c-cf2f-4514-b81e-d39468defddd.jpg?v=1779777888
+    Price: €49.99 EUR
+- [Heated Eye Massager for Dark Circles & Wrinkles | AJEuro](https://ajeuro.com/products/eye-beauty-instrument): Heated eye massager for dark circles and wrinkles. Delivered to France, Spain, Italy & Germany with a 30-day return policy.
+  Updated: 2026-06-08T15:41:31Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2134806386638.jpg?v=1779777951
+  Price: €33.85 EUR
+- [Heated Eye Massager for Dark Circles & Wrinkles | AJEuro](https://ajeuro.com/products/mini-eye-massager-electric-vibration-anti-ageing-wrinkle-dark-circles-removal-pen-beauty-care-tool-massage-portable-eye-care-pen): Reduce dark circles, puffiness, and fine lines with a heated eye massager. Micro-vibration technology enhances skincare absorption.
+  Updated: 2026-06-08T15:09:54Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dd8cdce7-2197-4bf5-865b-8db93f235d13.jpg?v=1779778054
+  - [Pink / USB](https://ajeuro.com/products/mini-eye-massager-electric-vibration-anti-ageing-wrinkle-dark-circles-removal-pen-beauty-care-tool-massage-portable-eye-care-pen?variant=48324094197952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a9382436-dcd1-418d-abe1-a5f89dcc55d0.jpg?v=1779778053
+    Price: €20.99 EUR
+  - [White / USB](https://ajeuro.com/products/mini-eye-massager-electric-vibration-anti-ageing-wrinkle-dark-circles-removal-pen-beauty-care-tool-massage-portable-eye-care-pen?variant=48324094230720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dbf3cd2a-6e63-4137-8ce9-b329f3b571c1.jpg?v=1779778054
+    Price: €19.99 EUR
+- [Purple Teeth Whitening Strips — 7 Pairs Dry Application Adults | AJ Euro](https://ajeuro.com/products/purple-teeth-whitening-strips-7-pairs-dry-application-adults): Purple dry-application teeth whitening strips — 7 pairs, no residue, no gel mess. Colour-correcting formula for  use. Ships to Europe.
+  Updated: 2026-06-19T19:28:37Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dee05a84-0c90-4b78-b24b-de54cba44383.jpg?v=1780300381
+  - [1 Box](https://ajeuro.com/products/purple-teeth-whitening-strips-7-pairs-dry-application-adults?variant=48347650195648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/92ae2e2b-2720-477e-bd29-b138d04b7b82.jpg?v=1780300381
+    Price: €17.90 EUR
+  - [2 Box](https://ajeuro.com/products/purple-teeth-whitening-strips-7-pairs-dry-application-adults?variant=48347650228416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/35522298-3936-40da-b466-31f593f397a9.jpg?v=1780300381
+    Price: €32.90 EUR
+  - [3 Box](https://ajeuro.com/products/purple-teeth-whitening-strips-7-pairs-dry-application-adults?variant=48347650261184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f7e60a91-5188-46a7-8e84-b44a23e3ac73.jpg?v=1780300381
+    Price: €45.90 EUR
+- [R6 Smart Ring — Sleep Tracker Heart Rate Blood Oxygen Waterproof | AJ Euro](https://ajeuro.com/products/r6-smart-ring-sleep-tracker-heart-rate-blood-oxygen-waterproof): R6 smart ring with heart rate, blood oxygen, sleep and step tracking. Waterproof, sizes 8–12. Black, silver or gold. Ships to Europe.
+  Updated: 2026-06-10T02:27:55Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/db282a44-1a69-4c9e-a0ca-d9fa47e256b5_trans.jpg?v=1780300647
+  Price: €34.90 EUR
+- [Portable USB Blender 350ml — Tritan 14000 RPM 2000mAh Smoothie Cup | AJ Euro](https://ajeuro.com/products/portable-usb-blender-350ml-tritan-14000-rpm-2000mah-smoothie): 350ml Tritan portable USB blender with 14,000 RPM 304 stainless steel blade, 2000mAh battery and 15 blend cycles per charge. Ships to Europe.
+  Updated: 2026-06-15T08:25:16Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a7a4a2dd-130b-4422-9af8-cc37e6cb788c.jpg?v=1780304582
+  - [Pink](https://ajeuro.com/products/portable-usb-blender-350ml-tritan-14000-rpm-2000mah-smoothie?variant=48347940290752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/515604249728.jpg?v=1780304582
+    Price: €31.49 EUR
+  - [White](https://ajeuro.com/products/portable-usb-blender-350ml-tritan-14000-rpm-2000mah-smoothie?variant=48347940323520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/508747023957.jpg?v=1780304582
+    Price: €31.49 EUR
+- [Women's Butt Lifting Seamless Leggings — Gym Yoga Fitness S–3XL | AJ Euro](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl): Women's butt lifting seamless leggings in 66% nylon blend. Sizes S–3XL, 8 colours. For gym, yoga, running and cycling. Ships to Europe.
+  Updated: 2026-06-06T15:23:34Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/35fcbd7c-d996-4e1b-9172-532bf5d4938c.jpg?v=1780544998
+  - [Army green / L](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838261952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/58e407a2-d2d0-422a-af11-6970f958ab39.jpg?v=1780544998
     Price: €26.49 EUR
-  - [Pink3pcs](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625149632)
+  - [Army green / M](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838294720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d3f1c978-e8bc-497c-9cd3-db0ad9f8c308.jpg?v=1772690984
-    Price: €44.32 EUR
-  - [Set](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625182400)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/58e407a2-d2d0-422a-af11-6970f958ab39.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Army green / S](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838327488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5bda207d-5937-472c-a3c4-999c81d14c6d.jpg?v=1772690984
-    Price: €30.39 EUR
-  - [Set1](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625215168)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/58e407a2-d2d0-422a-af11-6970f958ab39.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Army green / XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838360256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a0587817-c0c5-4d0b-ae00-70e5783d83e1.jpg?v=1772690984
-    Price: €169.51 EUR
-  - [Set2](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625247936)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/53558e1d-bf5d-4935-a1ef-d139a9ef8662.jpg?v=1772690984
-    Price: €43.48 EUR
-  - [White](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625280704)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1615203230753.jpg?v=1772690984
-    Price: €16.53 EUR
-  - [White 2pcs](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625313472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d548daaa-d603-4c0e-9bd8-636765c6e926.jpg?v=1772690984
-    Price: €30.41 EUR
-  - [White Set](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625346240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b94ae03f-39e8-42bb-b066-98e18d51d499.jpg?v=1772690984
-    Price: €26.48 EUR
-  - [White3pcs](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller?variant=47609625379008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/42a036c6-36b4-4f08-8986-0a6812822073.jpg?v=1772690984
-    Price: €44.32 EUR
-- [3-in-1 Electric Steam Pet Brush — USB Rechargeable Cat & Dog Grooming | AJ Euro](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb): 3-in-1 electric steam pet brush with steam spray, silicone bristles and USB charging. Suits all coat types. Ships to France and the United Kingdom.
-  Updated: 2026-06-07T18:28:17Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6725c8e0-9ca8-49e6-88d0-d74f7e323431.jpg?v=1772763743
-  - [Light Purple / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574381760)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fb30acba-c96b-46c6-b20f-14c7731434aa.jpg?v=1772763755
-    Price: €22.75 EUR
-  - [Milk Brown set / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574414528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4d4f5086-660f-4427-acdb-95b0a2ee61a2.jpg?v=1772763755
-    Price: €32.00 EUR
-  - [Milk Brown / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574447296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f5b55d05-8bad-4e64-bf2d-4c825667852c.jpg?v=1772763755
-    Price: €22.75 EUR
-  - [Milk Brown2pcs / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574480064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e4ea290f-8e54-412c-9abe-24cd760cb4c6_trans.jpg?v=1772763755
-    Price: €22.75 EUR
-  - [Porcelain White set / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574512832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/81e135e6-371c-4757-92a2-1b9cb1b4a4e5.jpg?v=1772763755
-    Price: €32.00 EUR
-  - [Porcelain White / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574545600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9f0d1bcc-113c-4b7e-a0ee-db2fddfaf824.jpg?v=1772763755
-    Price: €22.75 EUR
-  - [Purple / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574578368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f5887d64-1257-4036-8cfe-877542e0592c.jpg?v=1772763755
-    Price: €23.75 EUR
-  - [Set / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574611136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7165df38-bfc9-42c1-99a3-6d2e4d645b25.jpg?v=1772763756
-    Price: €32.00 EUR
-  - [White 2pcs / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574643904)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/58e407a2-d2d0-422a-af11-6970f958ab39.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Army green / XXL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294306496)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f015378b-94d4-49af-9a65-16642d82bde6.jpg?v=1772763755
-    Price: €25.70 EUR
-- [Galaxy Star Projector with Bluetooth Speaker — 8 Colours Remote | AJ Euro](https://ajeuro.com/products/galaxy-star-projector-bluetooth-speaker-8-colours-remote-timer): Galaxy star projector with 8 colour effects, 3W Bluetooth 5.0 speaker, remote control and 2/4hr auto-off timer. Covers 60m². Ships to France and the UK.
-  Updated: 2026-05-22T04:14:43Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3967057213961.jpg?v=1772764996
-  - [Black](https://ajeuro.com/products/galaxy-star-projector-bluetooth-speaker-8-colours-remote-timer?variant=47613598990528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1380993456657.jpg?v=1772765000
-    Price: €38.00 EUR
-  - [White](https://ajeuro.com/products/galaxy-star-projector-bluetooth-speaker-8-colours-remote-timer?variant=47613599023296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2308173597902.jpg?v=1772765000
-    Price: €38.00 EUR
-- [Self-Stirring Coffee Mug 400ml — Electric Auto-Mix Stainless Steel | AJ Euro](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel): Electric self-stirring coffee mug with handle, 400ml stainless steel, auto-mix at the press of a button. 8 colour options. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:43Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6b9eaea2-7800-41fa-b4c1-b7e32015808e.jpg?v=1772765763
-  - [Black / 220VUS / 450ml](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel?variant=47613608067264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2c33ade0-3f55-4212-8f11-ad3c8ff6de50.jpg?v=1772765769
-    Price: €19.99 EUR
-  - [Blue / 220VUS / 450ml](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel?variant=47613608100032)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f6b98726-4378-46f2-b15a-74947811a09f.jpg?v=1772765769
-    Price: €19.99 EUR
-  - [Green / 220VUS / 450ml](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel?variant=47613608132800)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2ff52780-336b-4f55-9739-f7fb6af29acb.jpg?v=1772765769
-    Price: €19.99 EUR
-  - [Pink / 220VUS / 450ml](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel?variant=47613608165568)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b7a38391-26b1-47ec-80f5-26a7286dca5d.jpg?v=1772765769
-    Price: €19.99 EUR
-  - [Red / 220VUS / 450ml](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel?variant=47613608198336)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a3b82d4c-8dea-4c83-8268-214d982299ec.jpg?v=1772765769
-    Price: €19.99 EUR
-  - [Wathet / 220VUS / 450ml](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel?variant=47613608231104)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6949f45a-cba1-425e-9d19-4341faa32776.jpg?v=1772765769
-    Price: €19.99 EUR
-  - [White / 220VUS / 450ml](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel?variant=47613608263872)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e820ae3d-97b9-4947-a16c-18874ee8e299.jpg?v=1772765769
-    Price: €19.99 EUR
-  - [Yellow / 220VUS / 450ml](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel?variant=47613608296640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4ab29705-cd8a-4f87-a60a-32c8453f3f1e.jpg?v=1772765771
-    Price: €19.99 EUR
-- [Wireless Bluetooth 4.1 Headset — 180° Rotating Single-Ear | AJ Euro](https://ajeuro.com/products/wireless-bluetooth-4-1-headset-180-rotating-single-ear-business): Bluetooth 4.1 single-ear headset with 180° rotation, multipoint pairing and voice prompts. 170mAh battery. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:44Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2430513179770.jpg?v=1772766127
-  - [Gray](https://ajeuro.com/products/wireless-bluetooth-4-1-headset-180-rotating-single-ear-business?variant=47613612392640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1123830232811.jpg?v=1772766131
-    Price: €21.55 EUR
-  - [Green](https://ajeuro.com/products/wireless-bluetooth-4-1-headset-180-rotating-single-ear-business?variant=47613612425408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3126964036178.jpg?v=1772766130
-    Price: €21.55 EUR
-  - [Red](https://ajeuro.com/products/wireless-bluetooth-4-1-headset-180-rotating-single-ear-business?variant=47613612458176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/32591334481.jpg?v=1772766130
-    Price: €21.55 EUR
-- [M3 Smart Fitness Bracelet — IP68 Heart Rate Blood Pressure Monitor | AJ Euro](https://ajeuro.com/products/m3-smart-fitness-bracelet-ip68-heart-rate-blood-pressure-monitor): M3 smart bracelet with heart rate, blood pressure, sleep monitoring and IP68 waterproof rating. Multi-sport modes. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:44Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/380211518689.jpg?v=1772766308
-  - [Black](https://ajeuro.com/products/m3-smart-fitness-bracelet-ip68-heart-rate-blood-pressure-monitor?variant=47613615440064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/64412273794.jpg?v=1772766315
-    Price: €10.00 EUR
-  - [Black set](https://ajeuro.com/products/m3-smart-fitness-bracelet-ip68-heart-rate-blood-pressure-monitor?variant=47613615472832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/14559cc5-dc38-4442-8774-32e2e35a8216.jpg?v=1772766315
-    Price: €10.00 EUR
-  - [Blue](https://ajeuro.com/products/m3-smart-fitness-bracelet-ip68-heart-rate-blood-pressure-monitor?variant=47613615505600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/818688953435.jpg?v=1772766315
-    Price: €10.00 EUR
-  - [Red](https://ajeuro.com/products/m3-smart-fitness-bracelet-ip68-heart-rate-blood-pressure-monitor?variant=47613615538368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1397463538469.jpg?v=1772766315
-    Price: €10.00 EUR
-- [Y5S Mini Bluetooth Projector — HD Portable Home Theatre Projector | AJ Euro](https://ajeuro.com/products/y5s-mini-bluetooth-projector-hd-portable-home-theatre): Y5S mini Bluetooth projector with HD projection and auto keystone correction. Portable home theatre and outdoor use. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:44Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a3fcff45-c002-4f4f-a1e2-87a5f40425d2.jpg?v=1772767696
-  - [American Standard](https://ajeuro.com/products/y5s-mini-bluetooth-projector-hd-portable-home-theatre?variant=47613635526848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/edd64c1a-8ea1-4a6e-87c0-4034f6bc2465.jpg?v=1772767703
-    Price: €62.23 EUR
-  - [European standard](https://ajeuro.com/products/y5s-mini-bluetooth-projector-hd-portable-home-theatre?variant=47613635559616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/66924b52-36bb-44ac-92ef-af38b57fedb9.jpg?v=1772767703
-    Price: €62.23 EUR
-- [V10 Action Camera 16MP Waterproof — 0.96" Screen Sports Cam | AJ Euro](https://ajeuro.com/products/v10-action-camera-16mp-waterproof-0-96-screen-sports-cam): V10 action camera — 16MP, 0.96" screen, waterproof shell and 90min battery. TF card storage. For outdoor sports and travel. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:44Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bb61d051-c9da-4248-9865-a2df7fbba33b_trans.jpg?v=1772768037
-  - [Black](https://ajeuro.com/products/v10-action-camera-16mp-waterproof-0-96-screen-sports-cam?variant=47613638967488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9cc1c6b1-5bc0-414c-805f-5c1348b8b671_trans.jpg?v=1772768043
-    Price: €62.34 EUR
-  - [Blue](https://ajeuro.com/products/v10-action-camera-16mp-waterproof-0-96-screen-sports-cam?variant=47613639000256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/89fd409b-4acc-4d88-a641-a6af7495ea95_trans.jpg?v=1772768044
-    Price: €62.34 EUR
-  - [Gold](https://ajeuro.com/products/v10-action-camera-16mp-waterproof-0-96-screen-sports-cam?variant=47613639033024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6427abf8-59ec-4b0a-a3b6-a5bf63049411_trans.jpg?v=1772768044
-    Price: €62.34 EUR
-  - [Grey](https://ajeuro.com/products/v10-action-camera-16mp-waterproof-0-96-screen-sports-cam?variant=47613639065792)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/595f305d-0860-4aaf-8f2f-0f38440e261f_trans.jpg?v=1772768043
-    Price: €62.34 EUR
-  - [Pink](https://ajeuro.com/products/v10-action-camera-16mp-waterproof-0-96-screen-sports-cam?variant=47613639098560)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8a49eaa1-8ede-4f58-bd31-7eaf20ede563_trans.jpg?v=1772768043
-    Price: €62.34 EUR
-  - [White](https://ajeuro.com/products/v10-action-camera-16mp-waterproof-0-96-screen-sports-cam?variant=47613639131328)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/42410df6-4bbb-4c3d-b981-bebd0c585821_trans.jpg?v=1772768043
-    Price: €62.34 EUR
-  - [Yellow](https://ajeuro.com/products/v10-action-camera-16mp-waterproof-0-96-screen-sports-cam?variant=47613639164096)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a69533f9-875c-438e-a590-dd850d9b67d6_trans.jpg?v=1772768043
-    Price: €62.34 EUR
-- [3-in-1 Wireless Power Bank 10000mAh — Qi Wireless USB Charging | AJ Euro](https://ajeuro.com/products/3-in-1-wireless-power-bank-10000mah-qi-wireless-usb-charging): 10000mAh 3-in-1 power bank with Qi wireless output, USB output and wireless input. 135×73×19mm, 220g slim design. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:44Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/79402852827.jpg?v=1772768471
-  - [Black](https://ajeuro.com/products/3-in-1-wireless-power-bank-10000mah-qi-wireless-usb-charging?variant=47613644734656)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/79402852827_8e911d7b-5ca3-4d8b-8305-674642408226.jpg?v=1772768482
-    Price: €18.54 EUR
-  - [Gray](https://ajeuro.com/products/3-in-1-wireless-power-bank-10000mah-qi-wireless-usb-charging?variant=47613644767424)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1849735364070.jpg?v=1772768482
-    Price: €18.54 EUR
-  - [White](https://ajeuro.com/products/3-in-1-wireless-power-bank-10000mah-qi-wireless-usb-charging?variant=47613644800192)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1827694293480.jpg?v=1772768482
-    Price: €18.54 EUR
-- [Galaxy Star Projector Night Light — Colour Discs & Bluetooth Bedroom | AJ Euro](https://ajeuro.com/products/galaxy-star-projector-night-light-colour-discs-bluetooth): Galaxy star projector with adjustable focus, interchangeable colour discs and 7 configurations including Bluetooth and music modes. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:44Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/96a6864a-cd91-47fa-9853-58e983400a33.jpg?v=1772769010
-  - [A / USB](https://ajeuro.com/products/galaxy-star-projector-night-light-colour-discs-bluetooth?variant=47613655580864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/752b9e0c-e2c0-40d0-a56a-1ae8aa4c2a15.jpg?v=1772769020
-    Price: €45.99 EUR
-  - [B / USB](https://ajeuro.com/products/galaxy-star-projector-night-light-colour-discs-bluetooth?variant=47613655613632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6eaaa80a-1373-4805-bdb5-90f42ec9bed5.jpg?v=1772769020
-    Price: €50.99 EUR
-  - [C / USB](https://ajeuro.com/products/galaxy-star-projector-night-light-colour-discs-bluetooth?variant=47613655646400)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d886c463-aa44-4348-89db-3b6d3fa705b2.jpg?v=1772769020
-    Price: €52.99 EUR
-  - [D / USB](https://ajeuro.com/products/galaxy-star-projector-night-light-colour-discs-bluetooth?variant=47613655679168)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2fb4dedd-78eb-46db-be54-23a0bca8d44e.jpg?v=1772769020
-    Price: €60.99 EUR
-  - [E / USB](https://ajeuro.com/products/galaxy-star-projector-night-light-colour-discs-bluetooth?variant=47613655711936)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d886c463-aa44-4348-89db-3b6d3fa705b2.jpg?v=1772769020
-    Price: €65.99 EUR
-  - [F / USB](https://ajeuro.com/products/galaxy-star-projector-night-light-colour-discs-bluetooth?variant=47613655744704)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2fb4dedd-78eb-46db-be54-23a0bca8d44e.jpg?v=1772769020
-    Price: €55.99 EUR
-  - [G / USB](https://ajeuro.com/products/galaxy-star-projector-night-light-colour-discs-bluetooth?variant=47613655777472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7b27bd25-9e6d-42bf-9eda-f354075179d3.jpg?v=1772769020
-    Price: €50.99 EUR
-- [Robot Vacuum Cleaner 3-in-1 Sweep Mop & Suction — Smart Home | AJ Euro](https://ajeuro.com/products/robot-vacuum-cleaner-3-in-1-sweep-mop-suction-smart-home): 3-in-1 robot vacuum with automatic sweep, mop and suction for 150m². Slim 6cm profile, fits under furniture. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:44Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9a8acad3-46ca-4914-8816-92416b59ba0d_trans.jpg?v=1772770397
-  - [Black / USB](https://ajeuro.com/products/robot-vacuum-cleaner-3-in-1-sweep-mop-suction-smart-home?variant=47613680943296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622351486032.jpg?v=1772770403
-    Price: €45.00 EUR
-  - [White / USB](https://ajeuro.com/products/robot-vacuum-cleaner-3-in-1-sweep-mop-suction-smart-home?variant=47613680976064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622351486029.jpg?v=1772770403
-    Price: €45.00 EUR
-- [60W Multi-Function Charging Cable with Storage Box — USB-C Lightning | AJ Euro](https://ajeuro.com/products/60w-multi-function-charging-cable-storage-box-usb-c-lightning): 60W 3-in-1 charging cable with USB-C, Lightning and Micro-USB in a storage box with SIM pin. White or blue. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:45Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ead33727-bcdc-4862-86c1-80a8a0f85272.jpg?v=1772770715
-  - [Black](https://ajeuro.com/products/60w-multi-function-charging-cable-storage-box-usb-c-lightning?variant=47613690314944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/538aa4eb-0082-41be-8cc2-90cf619f2b08.jpg?v=1772770723
-    Price: €9.50 EUR
-  - [Blue](https://ajeuro.com/products/60w-multi-function-charging-cable-storage-box-usb-c-lightning?variant=47613690347712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f3f1433d-66ac-456d-8b57-44fcd0eea82e.jpg?v=1772770723
-    Price: €10.51 EUR
-  - [White](https://ajeuro.com/products/60w-multi-function-charging-cable-storage-box-usb-c-lightning?variant=47613690380480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e5b2b116-9681-447a-b243-8ce5b47295dd.jpg?v=1772770723
-    Price: €10.51 EUR
-- [2-in-1 Fast Charging Cable with Phone Stand — 240W USB-C Braided | AJ Euro](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided): 240W USB-C braided fast charging cable with built-in 360° adjustable phone stand. 90° elbow connector, up to 2m length. Ships to France and the UK.
-  Updated: 2026-05-29T03:26:55Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1b7dfc4b-d2cd-49ad-8fee-558f5fbab21d.jpg?v=1772770911
-  - [240w / Black / Bare wire](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692641472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ebcf881b-07a9-40a7-8898-0c6f786d39f7_trans.jpg?v=1772770922
-    Price: €8.00 EUR
-  - [240w / Black / English Box](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692674240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/17cb4deb-f608-4add-9276-61729d994e7b.jpg?v=1772770921
-    Price: €8.00 EUR
-  - [240w / Black / English Pouch](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692707008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4249ec39-88b3-413b-80ff-dedbb741566f.jpg?v=1772770922
-    Price: €8.00 EUR
-  - [240w / Black / Loose Wire](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692739776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/aef558f8-3b1f-451e-a39c-6b2d9bfd6295.jpg?v=1772770922
-    Price: €8.00 EUR
-  - [30W / Black / Bare wire](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692772544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bb2108c5-c099-4b9d-884e-c811c69c74cd_fine.jpg?v=1772770921
-    Price: €8.00 EUR
-  - [30W / Black / English Box](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692805312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8903022c-1692-4b07-9db5-a8850c7f480b.jpg?v=1772770922
-    Price: €8.00 EUR
-  - [30W / Black / English Pouch](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692838080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a377f597-54f1-4114-bde0-73729887b871.jpg?v=1772770922
-    Price: €8.00 EUR
-  - [30W / Black / Loose Wire](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692870848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e8678c0b-30eb-458d-ad58-dfeb53c6b160_fine.jpg?v=1772770921
-    Price: €11.00 EUR
-  - [65w / Black / Bare wire](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692903616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a6cd19f1-dffc-4044-b900-1343b95413c2_fine.jpg?v=1772770921
-    Price: €9.00 EUR
-  - [65w / Black / English Box](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692936384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/73afbce5-0301-4487-9734-eb6be8b2df11.jpg?v=1772770922
-    Price: €9.00 EUR
-  - [65w / Black / English Pouch](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613692969152)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4913fbc1-2ccd-4108-afbf-9506adfcc1a9.jpg?v=1772770922
-    Price: €9.00 EUR
-  - [65w / Black / Loose Wire](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided?variant=47613693001920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/38df8304-4b0d-4908-aa06-69ae7f31a23b.jpg?v=1772770922
-    Price: €9.00 EUR
-- [A9 Mini WiFi Security Camera 1080P — Night Vision 70min Battery | AJ Euro](https://ajeuro.com/products/a9-mini-wifi-security-camera-1080p-night-vision-70min): A9 mini WiFi security camera with 1080P HD, infrared night vision, 70min battery and TF card storage. Rotating bracket included. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:45Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/28862357197380.jpg?v=1772771808
-  - [Black Set / 64GB](https://ajeuro.com/products/a9-mini-wifi-security-camera-1080p-night-vision-70min?variant=47613705420992)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ac7923e0-03a6-47f7-9490-174471aad609.jpg?v=1772771819
-    Price: €15.36 EUR
-  - [Black set / 128GB](https://ajeuro.com/products/a9-mini-wifi-security-camera-1080p-night-vision-70min?variant=47613705453760)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/47f6a977-8d0a-4aad-8abf-b983bf1ae241.png?v=1772771819
-    Price: €16.08 EUR
-  - [Black / 1080p](https://ajeuro.com/products/a9-mini-wifi-security-camera-1080p-night-vision-70min?variant=47613705486528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3071150321069.jpg?v=1772771819
-    Price: €7.81 EUR
-  - [TF / 128GB](https://ajeuro.com/products/a9-mini-wifi-security-camera-1080p-night-vision-70min?variant=47613705519296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/567d74a6-4f00-4e20-9553-81c10abd7990.jpg?v=1772771819
-    Price: €11.02 EUR
-  - [TF / 32GB](https://ajeuro.com/products/a9-mini-wifi-security-camera-1080p-night-vision-70min?variant=47613705552064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622531859919.jpg?v=1772771819
-    Price: €6.75 EUR
-  - [TF / 64GB](https://ajeuro.com/products/a9-mini-wifi-security-camera-1080p-night-vision-70min?variant=47613705584832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622531859919.jpg?v=1772771819
-    Price: €10.34 EUR
-  - [White / 1080p](https://ajeuro.com/products/a9-mini-wifi-security-camera-1080p-night-vision-70min?variant=47613705617600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1430841752085.jpg?v=1772771819
-    Price: €7.81 EUR
-- [2-in-1 Electric Mosquito Swatter & LED Trap — 1200mAh Rechargeable | AJ Euro](https://ajeuro.com/products/2-in-1-electric-mosquito-swatter-led-trap-1200mah-rechargeable): 2-in-1 electric mosquito swatter and LED trap with 1200mAh battery and 21-day standby. Covers 150m². No chemicals needed. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:45Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/600a53af-ee2c-480d-b85d-83f31bc67ed6.jpg?v=1772772141
-  - [Black / USB](https://ajeuro.com/products/2-in-1-electric-mosquito-swatter-led-trap-1200mah-rechargeable?variant=47613708402880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c8d93419-0d96-4d29-ac0e-67c9fcfa7ca7.jpg?v=1772772146
-    Price: €22.22 EUR
-  - [Green / USB](https://ajeuro.com/products/2-in-1-electric-mosquito-swatter-led-trap-1200mah-rechargeable?variant=47613708435648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4865b607-bfe9-4b17-a86f-dadea15d898b.jpg?v=1772772145
-    Price: €22.22 EUR
-  - [White / USB](https://ajeuro.com/products/2-in-1-electric-mosquito-swatter-led-trap-1200mah-rechargeable?variant=47613708468416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/600a53af-ee2c-480d-b85d-83f31bc67ed6_63b3565c-aec7-48bd-884f-972aafa7d3df.jpg?v=1772772145
-    Price: €22.22 EUR
-- [Bluetooth Sports Sunglasses — Open-Ear Wireless Audio 6-8Hr | AJ Euro](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr): Bluetooth 5.0 sports sunglasses with open-ear audio, hands-free calls and 6–8hr battery. Waterproof, ultralight 16.6g. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:45Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6ba556ca-c359-47ef-83f0-13b008e2e817.jpg?v=1772772531
-  - [Korean mirror frame black](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr?variant=47613711089856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8e17344c-89a0-46d0-a16d-0049b77d5bf3.jpg?v=1772772541
-    Price: €24.67 EUR
-  - [Korean style frame brown](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr?variant=47613711122624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/312386ad-1479-4641-b131-cc785c2dc31e.jpg?v=1772772541
-    Price: €24.67 EUR
-  - [Korean style frame white](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr?variant=47613711155392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c3387202-c09b-4063-8baa-927b58170ae3.jpg?v=1772772541
-    Price: €24.67 EUR
-  - [Round frame black](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr?variant=47613711188160)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/903fb507-e4c8-42cd-9368-2cd6d853b979.jpg?v=1772772541
-    Price: €24.67 EUR
-  - [Round frame brown](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr?variant=47613711220928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b08fdb9e-1592-4468-9f27-90adf4df064c.jpg?v=1772772541
-    Price: €24.67 EUR
-  - [Round frame white](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr?variant=47613711253696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6d3e4f30-41d0-4a36-935a-73784c600b12.jpg?v=1772772540
-    Price: €24.67 EUR
-  - [Square frame black](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr?variant=47613711286464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d008a4c9-a57c-4a5f-b623-e7105231eeb1.jpg?v=1772772541
-    Price: €24.67 EUR
-  - [Square frame brown](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr?variant=47613711319232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ac872f96-3d9a-4b8d-8d32-e6f9c259b7af.jpg?v=1772772541
-    Price: €24.67 EUR
-  - [Square frame white](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr?variant=47613711352000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1977cb0b-37e8-47b9-b64a-f55d96a2798d.jpg?v=1772772541
-    Price: €24.67 EUR
-- [Pet Deshedding Massage Comb — Stainless Steel Cat & Dog Brush | AJ Euro](https://ajeuro.com/products/pet-deshedding-massage-comb-stainless-steel-cats-dogs): Stainless steel pet deshedding comb for cats and dogs. Removes loose hair, prevents matting and promotes coat health. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:45Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7b026313-6571-46c4-9351-0199ed00b13b.jpg?v=1772777927
-  - [Yellow](https://ajeuro.com/products/pet-deshedding-massage-comb-stainless-steel-cats-dogs?variant=47614196547776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/86a62170-fd63-44ad-9a2c-575d05ac47b3.jpg?v=1772777936
-    Price: €14.23 EUR
-  - [Yellow 2PC](https://ajeuro.com/products/pet-deshedding-massage-comb-stainless-steel-cats-dogs?variant=47614196580544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e8e9ae66-9a02-4531-a5b6-8068c5f71b92.jpg?v=1772777936
-    Price: €26.99 EUR
-  - [Yellow 3PC](https://ajeuro.com/products/pet-deshedding-massage-comb-stainless-steel-cats-dogs?variant=47614196613312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0a081df1-e3c0-40c2-99c2-954a36f2b124.jpg?v=1772777936
-    Price: €36.99 EUR
-- [Bamboo Wireless Keyboard & Mouse Set — Eco-Friendly USB Combo | AJ Euro](https://ajeuro.com/products/bamboo-wireless-keyboard-mouse-set-eco-friendly-usb): Natural bamboo wireless keyboard and mouse set with 10m range, 1600 DPI mouse and waterproof membrane. Plug-and-play USB. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:45Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2739499406325.jpg?v=1772847624
-  - [Natural French version](https://ajeuro.com/products/bamboo-wireless-keyboard-mouse-set-eco-friendly-usb?variant=47617170145472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1066003528479.jpg?v=1772847629
-    Price: €59.99 EUR
-  - [Wooden lubricious](https://ajeuro.com/products/bamboo-wireless-keyboard-mouse-set-eco-friendly-usb?variant=47617170178240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2739499406325_05ea72cc-7471-4c10-9a9a-0625d5f8db40.jpg?v=1772847629
-    Price: €50.99 EUR
-- [IPL Hair Removal Device — 500,000 Flashes 5-Speed Home Use | AJ Euro](https://ajeuro.com/products/ipl-hair-removal-device-500000-flashes-5-speed-home-use): Home IPL hair removal device — 5 energy levels, 500,000 flashes and 430–1200nm wavelength. UK and EU plug compatible. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:46Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6dfce89a-f579-4ee0-8311-2f24241f6295.jpg?v=1772848188
-  - [Green / EU](https://ajeuro.com/products/ipl-hair-removal-device-500000-flashes-5-speed-home-use?variant=47617174274240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a9e11cc-7f6d-4921-ab5a-1bc5c42bc4e6.jpg?v=1772848191
-    Price: €38.55 EUR
-  - [Green / UK](https://ajeuro.com/products/ipl-hair-removal-device-500000-flashes-5-speed-home-use?variant=47617174307008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a9e11cc-7f6d-4921-ab5a-1bc5c42bc4e6.jpg?v=1772848191
-    Price: €38.55 EUR
-  - [Green / US](https://ajeuro.com/products/ipl-hair-removal-device-500000-flashes-5-speed-home-use?variant=47617174339776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3a9e11cc-7f6d-4921-ab5a-1bc5c42bc4e6.jpg?v=1772848191
-    Price: €38.55 EUR
-  - [White / EU](https://ajeuro.com/products/ipl-hair-removal-device-500000-flashes-5-speed-home-use?variant=47617174372544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f3f10e5f-8a08-40a6-a4e6-4099d467f9c1.jpg?v=1772848191
-    Price: €38.55 EUR
-  - [White / UK](https://ajeuro.com/products/ipl-hair-removal-device-500000-flashes-5-speed-home-use?variant=47617174405312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f3f10e5f-8a08-40a6-a4e6-4099d467f9c1.jpg?v=1772848191
-    Price: €38.55 EUR
-  - [White / US](https://ajeuro.com/products/ipl-hair-removal-device-500000-flashes-5-speed-home-use?variant=47617174438080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f3f10e5f-8a08-40a6-a4e6-4099d467f9c1.jpg?v=1772848191
-    Price: €38.55 EUR
-- [Electronic Mosquito Bite Relief Pen — Chemical-Free Itch Relief | AJ Euro](https://ajeuro.com/products/electronic-mosquito-bite-relief-pen-antipruritic-itch-relief): Electronic bite relief pen — chemical-free itch relief in 3–5 seconds. Safe for children over 2 and pregnant women. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:46Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e4c1319e-a2cc-4942-a729-10afcb18c5be.jpg?v=1772849366
-  Price: €20.72 EUR
-- [Alarm Clock Bluetooth Speaker 3W — FM Radio TF Card Display | AJ Euro](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display): 4-in-1 alarm clock Bluetooth speaker with FM radio, TF card, digital display and 4hr battery. 3W stereo, Bluetooth 4.1. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:46Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dbcf6774-6f0d-4262-8b80-9d5bbaf5ff14.jpg?v=1772849912
-  - [Black 1200 / USB](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display?variant=47617187152064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1bd4b946-1590-49b7-a504-6e28a75824ca_trans.jpg?v=1772849918
-    Price: €20.09 EUR
-  - [Black / USB](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display?variant=47617187184832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dbcf6774-6f0d-4262-8b80-9d5bbaf5ff14_48dda780-94ba-4d6e-8563-f13ada51d492.jpg?v=1772849918
-    Price: €17.32 EUR
-  - [Blue / USB](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display?variant=47617187217600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3775893b-9105-4f52-8e88-314543228ba9.jpg?v=1772849918
-    Price: €17.32 EUR
-  - [Gray / USB](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display?variant=47617187250368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/26d98325-2f55-48fb-b905-3cf55c54abea.jpg?v=1772849918
-    Price: €17.32 EUR
-  - [Pink / USB](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display?variant=47617187283136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8e93b4f0-ef53-4941-b5bb-78d18386e580.jpg?v=1772849918
-    Price: €17.32 EUR
-  - [Red / USB](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display?variant=47617187315904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0647bf49-dcf0-4ca9-8a55-e54e4463a9b8.jpg?v=1772849918
-    Price: €17.32 EUR
-  - [White 1200 / USB](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display?variant=47617187348672)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/60c3d0dc-5951-4900-8f67-3a370c56a0fb_trans.jpg?v=1772849918
-    Price: €20.09 EUR
-  - [White / USB](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display?variant=47617187381440)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/93d0123a-17de-4b99-85cb-427efd9f8490.jpg?v=1772849918
-    Price: €17.32 EUR
-- [Portable Neck Fan with Lanyard — 1800mAh USB Rechargeable 3-Speed | AJ Euro](https://ajeuro.com/products/portable-neck-fan-lanyard-1800mah-usb-rechargeable-3-speed): Portable neck fan with lanyard — 1800mAh battery, 3 speeds, 2–6hr runtime and silent motor. USB rechargeable. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:46Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1536423708680.jpg?v=1772850345
-  - [Black](https://ajeuro.com/products/portable-neck-fan-lanyard-1800mah-usb-rechargeable-3-speed?variant=47617190789312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/96af089c-9ed2-4b9a-b764-6f14643608dd.jpg?v=1772850354
-    Price: €32.99 EUR
-  - [Green](https://ajeuro.com/products/portable-neck-fan-lanyard-1800mah-usb-rechargeable-3-speed?variant=47617190822080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3666607369213.jpg?v=1772850354
-    Price: €32.99 EUR
-  - [Orange](https://ajeuro.com/products/portable-neck-fan-lanyard-1800mah-usb-rechargeable-3-speed?variant=47617190854848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/054d7eee-84d9-4a3c-a7a8-f43845e26025.jpg?v=1772850354
-    Price: €32.99 EUR
-  - [Pink](https://ajeuro.com/products/portable-neck-fan-lanyard-1800mah-usb-rechargeable-3-speed?variant=47617190887616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9d45f075-c39a-4a14-aff0-a381218b3abd.jpg?v=1772850354
-    Price: €32.99 EUR
-  - [White](https://ajeuro.com/products/portable-neck-fan-lanyard-1800mah-usb-rechargeable-3-speed?variant=47617190920384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1336611467638.jpg?v=1772850354
-    Price: €32.99 EUR
-- [Foot Warmer Slippers — Unisex Cosy Home Slippers 4 Colours | AJ Euro](https://ajeuro.com/products/foot-warmer-slippers-unisex-cosy-4-colours): Cosy unisex foot warmer slippers with PU upper. One size, 4 colours — stellar blue, glacier blue, amber orange and yellow. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:46Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6363c315-707b-4345-94ab-d62ded6318d9.jpg?v=1772850693
-  - [Blue / USB](https://ajeuro.com/products/foot-warmer-slippers-unisex-cosy-4-colours?variant=47617192493248)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bbb2696f-9f65-4b3d-b025-359ec4ae04ed.jpg?v=1772850697
-    Price: €38.66 EUR
-  - [Khaki / USB](https://ajeuro.com/products/foot-warmer-slippers-unisex-cosy-4-colours?variant=47617192526016)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/53821aac-8332-4d1d-beed-1ecb8308ba60.jpg?v=1772850697
-    Price: €38.66 EUR
-  - [Light Blue / USB](https://ajeuro.com/products/foot-warmer-slippers-unisex-cosy-4-colours?variant=47617192558784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b696ba53-e9e0-4a70-a393-9a57d29c8c87.jpg?v=1772850697
-    Price: €38.66 EUR
-  - [Orange / USB](https://ajeuro.com/products/foot-warmer-slippers-unisex-cosy-4-colours?variant=47617192591552)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6a9ae947-006b-491b-a4ce-b9defd617528.jpg?v=1772850697
-    Price: €38.66 EUR
-- [Condenser Microphone with Tripod Stand — 3.5mm iPhone & PC | AJ Euro](https://ajeuro.com/products/condenser-microphone-tripod-stand-3-5mm-home-studio-iphone-pc): Condenser microphone with tripod, 3.5mm jack, compatible with iPhone and PC. Omnidirectional, home studio ready. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:46Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/108c4876-5c0a-40f3-b078-d13c995788cd.jpg?v=1772851097
-  Price: €38.80 EUR
-- [S5 Mini Bluetooth Subwoofer Speaker — TF Card Portable 8 Colours | AJ Euro](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours): S5 mini Bluetooth subwoofer speaker with 32GB TF card and 10m range. 8 colour options including ocean blue and army green. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:46Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092868059.jpg?v=1772851502
-  - [A1Ablue](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours?variant=47617199374528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092868059_78da47b2-72ae-4512-a30a-fd1f4f9aba68.jpg?v=1772851507
-    Price: €22.78 EUR
-  - [A2Ablue](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours?variant=47617199407296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092868065.jpg?v=1772851507
-    Price: €22.78 EUR
-  - [Army green](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours?variant=47617199440064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092868354.jpg?v=1772851507
-    Price: €22.78 EUR
-  - [Black](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours?variant=47617199472832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092868351.jpg?v=1772851507
-    Price: €22.78 EUR
-  - [Cyan](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours?variant=47617199505600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092868064.jpg?v=1772851507
-    Price: €22.78 EUR
-  - [Ocean blue](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours?variant=47617199538368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092868203.jpg?v=1772851507
-    Price: €22.78 EUR
-  - [Red](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours?variant=47617199571136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092876797.jpg?v=1772851507
-    Price: €22.78 EUR
-  - [Red brocade](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours?variant=47617199603904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092868062.jpg?v=1772851507
-    Price: €22.78 EUR
-- [Wireless Lavalier Microphone — Dual Core Noise Cancelling USB-C & Lightning](https://ajeuro.com/products/wireless-lavalier-microphone-dual-core-noise-cancelling-usb-c-lightning): Wireless lavalier mic with dual-core noise cancellation, 95dB SNR and 12hr battery. USB-C and Lightning, single and dual configs. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:46Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cec76796-595b-4b63-8fd1-806864f8f426.jpg?v=1773022720
-  - [Black / Apple one for one / USB](https://ajeuro.com/products/wireless-lavalier-microphone-dual-core-noise-cancelling-usb-c-lightning?variant=47660860702912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0672749e-c318-4567-af04-ff314ce32598.jpg?v=1773022725
-    Price: €45.55 EUR
-  - [Black / Type C one for one / USB](https://ajeuro.com/products/wireless-lavalier-microphone-dual-core-noise-cancelling-usb-c-lightning?variant=47660860735680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c12db48c-015a-493a-886d-e3c1d9718500.jpg?v=1773022725
-    Price: €43.55 EUR
-  - [Black / Type C one for two / USB](https://ajeuro.com/products/wireless-lavalier-microphone-dual-core-noise-cancelling-usb-c-lightning?variant=47660860768448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a58fdb07-60e9-47d5-8334-8c65a080ea3d.jpg?v=1773022725
-    Price: €63.55 EUR
-  - [Black / Type C plus apple one for two / USB](https://ajeuro.com/products/wireless-lavalier-microphone-dual-core-noise-cancelling-usb-c-lightning?variant=47660860801216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fd5d1d62-1f7f-4ba1-bd67-e535a2e3034b.jpg?v=1773022725
-    Price: €64.55 EUR
-- [10W Wireless Charging Pad — Qi Fast Charger Samsung Capacitor | AJ Euro](https://ajeuro.com/products/10w-wireless-charging-pad-qi-fast-charger-samsung-capacitor): 10W Qi wireless charging pad with Nuvoton chip and Samsung capacitor. 5W and 10W modes, ABS silicone non-slip surface, 138mm. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:47Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1781067298128.jpg?v=1773023332
-  - [Grey](https://ajeuro.com/products/10w-wireless-charging-pad-qi-fast-charger-samsung-capacitor?variant=47660867518656)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1781067298128_3a10dfb4-da8e-46b5-b64e-d7f05a3c3757.jpg?v=1773023336
-    Price: €13.00 EUR
-  - [White](https://ajeuro.com/products/10w-wireless-charging-pad-qi-fast-charger-samsung-capacitor?variant=47660867551424)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1458191160591.jpg?v=1773023337
-    Price: €13.00 EUR
-- [Water Bottle Bluetooth Speaker 2×5W — 800mAh 4Hr Wireless | AJ Euro](https://ajeuro.com/products/water-bottle-bluetooth-speaker-2x5w-800mah-4hr-wireless): Water bottle Bluetooth 4.1 speaker with 2×5W stereo output, 800mAh battery and 4hr playback. 15m range. Ships to France and the United Kingdom.
-  Updated: 2026-05-22T04:14:47Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4761677327905.jpg?v=1773023486
-  - [Black](https://ajeuro.com/products/water-bottle-bluetooth-speaker-2x5w-800mah-4hr-wireless?variant=47660871057600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/726548918920.jpg?v=1773023492
-    Price: €20.12 EUR
-  - [Blue](https://ajeuro.com/products/water-bottle-bluetooth-speaker-2x5w-800mah-4hr-wireless?variant=47660871090368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1028578421263.jpg?v=1773023492
-    Price: €20.12 EUR
-  - [Cyan](https://ajeuro.com/products/water-bottle-bluetooth-speaker-2x5w-800mah-4hr-wireless?variant=47660871123136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1180773486677.jpg?v=1773023492
-    Price: €20.12 EUR
-  - [Red](https://ajeuro.com/products/water-bottle-bluetooth-speaker-2x5w-800mah-4hr-wireless?variant=47660871155904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/252347630163.jpg?v=1773023492
-    Price: €20.12 EUR
-- [Universal Travel Adapter with Dual USB — 6-in-1 1500W 100-240V | AJ Euro](https://ajeuro.com/products/universal-travel-adapter-dual-usb-6-in-1-1500w-100-240v): 6-in-1 universal travel adapter with dual USB 2400mA charging, 1500W load and 100–240V compatibility. Flame-retardant PC housing. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:47Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/863343185250.jpg?v=1773023846
-  - [black](https://ajeuro.com/products/universal-travel-adapter-dual-usb-6-in-1-1500w-100-240v?variant=47660875448512)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/863343185250_be6f317a-c853-4092-b468-5cb9fa8c30eb.jpg?v=1773023850
-    Price: €20.52 EUR
-  - [blue](https://ajeuro.com/products/universal-travel-adapter-dual-usb-6-in-1-1500w-100-240v?variant=47660875481280)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2307359187678.jpg?v=1773023850
-    Price: €20.52 EUR
-  - [green](https://ajeuro.com/products/universal-travel-adapter-dual-usb-6-in-1-1500w-100-240v?variant=47660875514048)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2307359187678.jpg?v=1773023850
-    Price: €20.52 EUR
-  - [orange](https://ajeuro.com/products/universal-travel-adapter-dual-usb-6-in-1-1500w-100-240v?variant=47660875546816)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/863343185250_be6f317a-c853-4092-b468-5cb9fa8c30eb.jpg?v=1773023850
-    Price: €20.52 EUR
-  - [red](https://ajeuro.com/products/universal-travel-adapter-dual-usb-6-in-1-1500w-100-240v?variant=47660875579584)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/894264322776.jpg?v=1773023850
-    Price: €20.52 EUR
-- [Floating Waterproof Bluetooth Speaker — IP6 Pool & Bath Speaker | AJ Euro](https://ajeuro.com/products/floating-waterproof-bluetooth-speaker-ip6-pool-bath): IP6 floating waterproof Bluetooth speaker with TWS, 5W dual drivers and glow logo. 4hr battery. Pool and bath use. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:47Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619144619760.jpg?v=1773024157
-  - [Blue / USB](https://ajeuro.com/products/floating-waterproof-bluetooth-speaker-ip6-pool-bath?variant=47660876529856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619144619772.jpg?v=1773024160
-    Price: €33.55 EUR
-  - [Green / USB](https://ajeuro.com/products/floating-waterproof-bluetooth-speaker-ip6-pool-bath?variant=47660876562624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619144619755.jpg?v=1773024160
-    Price: €33.55 EUR
-  - [Grey / USB](https://ajeuro.com/products/floating-waterproof-bluetooth-speaker-ip6-pool-bath?variant=47660876595392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619144619766.jpg?v=1773024160
-    Price: €33.55 EUR
-- [Smoke-Filtering Ashtray Air Purifier — Negative Ion Odour Removal | AJ Euro](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal): Ashtray with negative ion air purifier for smoke and odour removal. 3600 RPM, silent under 36dB, covers 20m². Ships to France and the UK.
-  Updated: 2026-05-25T05:26:56Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fb6e4737-0b72-461d-b7bb-7bf7210c8412.jpg?v=1773025119
-  - [Filter cotton sheets 5pcs](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660878725312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dff013e8-7579-4c29-bdc1-d28ea9b78043.jpg?v=1773025137
-    Price: €6.00 EUR
-  - [Gray](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660878758080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/360979ad-5e2d-4f0d-ad37-bfbadbc4adfb.jpg?v=1773025137
-    Price: €13.50 EUR
-  - [Gray2pcs](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660878790848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b3fa326c-8f95-4616-abcb-78585c2a8147.jpg?v=1773025137
-    Price: €24.50 EUR
-  - [Round filter](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660878823616)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b2933c29-c0fa-491b-81b7-abc714a43a6c.jpg?v=1773025137
-    Price: €5.00 EUR
-  - [Round filter 10pcs](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660878856384)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4f6f9b35-3e68-4e86-9cba-05e1566131ba.jpg?v=1773025137
-    Price: €13.00 EUR
-  - [Round filter 5pcs](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660878889152)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/db61a61b-3694-4093-9841-f19a7a99f521.jpg?v=1773025137
-    Price: €8.00 EUR
-  - [Round filter2pcs](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660878921920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ef6d2b61-7aef-406a-a5f1-a9fd43c2373e.jpg?v=1773025137
-    Price: €6.00 EUR
-  - [Set1](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660878954688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7c4b7908-c8a8-45d2-8a16-fa01e54d9911.jpg?v=1773025137
-    Price: €15.40 EUR
-  - [Set2](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660878987456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/43c805be-91ab-4b9c-b4f5-07afa4065295.jpg?v=1773025137
-    Price: €16.40 EUR
-  - [Set3](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879020224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c9ead3d6-20cf-494e-9c37-cda1cbeb3df4.jpg?v=1773025137
-    Price: €16.40 EUR
-  - [Set4](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879052992)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4952bbd4-f025-4a62-9f15-cf3190cfe441.jpg?v=1773025137
-    Price: €16.40 EUR
-  - [Set5](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879085760)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/271ca362-e60f-4044-a72a-5cafc12e2003.jpg?v=1773025138
-    Price: €16.40 EUR
-  - [Set6](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879118528)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/34dd2bc6-ba73-47f9-98f0-1fb5a687c381.jpg?v=1773025137
-    Price: €16.40 EUR
-  - [Set7](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879151296)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/08c81b95-43ad-40b8-b4a2-d761e294621e.jpg?v=1773025138
-    Price: €16.40 EUR
-  - [Set8](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879184064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e6532af-89ea-4f5c-8d01-fe29095a88d4.jpg?v=1773025137
-    Price: €16.40 EUR
-  - [Set9](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879216832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9a6578c0-86f0-438f-832e-32e7d7f19e2a.jpg?v=1773025137
-    Price: €16.40 EUR
-  - [Square Blue](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879249600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e27db6b8-dd7d-43b6-a6b8-9ccba292fa9d.jpg?v=1773025137
-    Price: €15.00 EUR
-  - [Square Green](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879282368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9fafa73b-e309-41f6-8aaa-367938d67ad7.jpg?v=1773025137
-    Price: €15.00 EUR
-  - [Square Grey](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879315136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4638ce2a-587e-4dc2-8c26-5a83a8f266a2.jpg?v=1773025137
-    Price: €15.00 EUR
-  - [Square filter](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879347904)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/45a6fb09-4e4b-47cc-80da-e1bbe0d2a3e5.jpg?v=1773025137
-    Price: €5.00 EUR
-  - [Square filter 10pcs](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879380672)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/94214a65-7c76-4044-a03e-5f9d1a990b02.jpg?v=1773025137
-    Price: €13.00 EUR
-  - [Starry Sky Green](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879413440)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1d186999-a1cd-4629-8193-ea8cf88bab93.jpg?v=1773025137
-    Price: €15.00 EUR
-  - [Starry Sky Green2pcs](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879446208)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a70d5925-9701-49b2-8ec4-7dadc735c4b6.jpg?v=1773025137
-    Price: €26.00 EUR
-  - [White](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879478976)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0b53aee2-cbf5-407e-b036-c4801596237e.jpg?v=1773025137
-    Price: €15.00 EUR
-  - [White2pcs](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal?variant=47660879511744)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e42f20aa-9ddb-4dfa-96c7-559b28e20ade.jpg?v=1773025138
-    Price: €26.00 EUR
-- [Self-Stirring Magnetic Travel Mug — 304 Stainless Steel USB | AJ Euro](https://ajeuro.com/products/self-stirring-magnetic-travel-mug-304-stainless-steel-usb): Self-stirring magnetic mug with 304 stainless steel liner, USB charging and one-button operation. 301–400ml, white or brown. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:47Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f3056a17-58dd-451b-81c1-6b3845de34d8.jpg?v=1773025626
-  - [Coffee](https://ajeuro.com/products/self-stirring-magnetic-travel-mug-304-stainless-steel-usb?variant=47660928794816)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2919878172719.jpg?v=1773025636
-    Price: €14.60 EUR
-  - [Coffee USB charging](https://ajeuro.com/products/self-stirring-magnetic-travel-mug-304-stainless-steel-usb?variant=47660928827584)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a06b7e2a-28b6-4ac0-a63d-eaf0b4f016bd.jpg?v=1773025637
-    Price: €14.60 EUR
-  - [Suit](https://ajeuro.com/products/self-stirring-magnetic-travel-mug-304-stainless-steel-usb?variant=47660928860352)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8a2d2606-a69c-4a57-8300-1411c8aa4099.jpg?v=1773025636
-    Price: €25.60 EUR
-  - [Suit2pcs](https://ajeuro.com/products/self-stirring-magnetic-travel-mug-304-stainless-steel-usb?variant=47660928893120)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/14592537-4057-4930-a464-e5be9671f33b.jpg?v=1773025636
-    Price: €40.20 EUR
-  - [White](https://ajeuro.com/products/self-stirring-magnetic-travel-mug-304-stainless-steel-usb?variant=47660928925888)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/53188518051186.jpg?v=1773025636
-    Price: €14.60 EUR
-  - [White USB charging](https://ajeuro.com/products/self-stirring-magnetic-travel-mug-304-stainless-steel-usb?variant=47660928958656)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dad6d0ef-1d2d-4291-9668-57110b744416.jpg?v=1773025636
-    Price: €15.20 EUR
-- [Double Wall Glass Tea Bottle with Infuser — 400ml/450ml Borosilicate | AJ Euro](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml): Double wall borosilicate glass tea bottle with stainless steel infuser and leak-proof seal. 400ml or 450ml, 8 colours. Ships to France and the UK.
-  Updated: 2026-05-25T06:28:47Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1f101ae7-2243-4b84-9600-18acbd1b00f4.jpg?v=1773026148
-  - [Black / 400ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47660999999680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3c0a7383-1edb-436a-baaf-f84693eeb740.jpg?v=1773026161
-    Price: €24.50 EUR
-  - [Black / 450ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000032448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/47ce6cc3-de07-4c5d-b036-dd2e72dfb824.jpg?v=1773026162
-    Price: €27.50 EUR
-  - [Blue / 400ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000065216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/60cbc9b3-51ac-4aa6-83bc-6b03cf365b12.jpg?v=1773026161
-    Price: €24.50 EUR
-  - [Blue / 450ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000097984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/82c76f24-d4b6-49a0-9fb7-b2787f438a76.jpg?v=1773026162
-    Price: €27.50 EUR
-  - [Green / 400ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000130752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/59c896fc-a597-4fff-acc8-a42f63e5c1c6.jpg?v=1773026161
-    Price: €24.50 EUR
-  - [Green / 450ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000163520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2c7ff312-5bdc-478b-a004-fd9bb30ac15e.jpg?v=1773026162
-    Price: €27.50 EUR
-  - [Grey / 400ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000196288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1884a41b-ef58-41bc-a878-e68d1fee9f9c.jpg?v=1773026162
-    Price: €24.50 EUR
-  - [Grey / 450ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000229056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ec8185a0-de15-447f-8db1-55583b89c0b6.jpg?v=1773026161
-    Price: €27.50 EUR
-  - [Pink / 400ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000261824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0e81b369-9928-4a26-99c5-535521f8ec84.jpg?v=1773026162
-    Price: €24.50 EUR
-  - [Pink / 450ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000294592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d6565603-1579-44b1-a9e5-473302974a23.jpg?v=1773026162
-    Price: €27.50 EUR
-  - [White / 400ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000327360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/60906612-9a52-4ed1-a2dd-e7dbe0d6dd27.jpg?v=1773026161
-    Price: €24.50 EUR
-  - [White / 450ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000360128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3f4942f5-509a-4066-82e2-c1aacd18dd74.jpg?v=1773026162
-    Price: €27.50 EUR
-  - [Yellow / 400ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000392896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5cfeaa99-4688-4def-b7d3-39d579826980.jpg?v=1773026162
-    Price: €24.50 EUR
-  - [Yellow / 450ml](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml?variant=47661000425664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f866be43-4f99-4405-8661-c9133a148fda.jpg?v=1773026162
-    Price: €27.50 EUR
-- [Diamond Tungsten Pull-Through Knife Sharpener — Kitchen Tool | AJ Euro](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool): Diamond and tungsten pull-through knife sharpener with disassembly design for easy cleaning. Sharpen in 3–4 strokes. Ships to France and the United Kingdom.
-  Updated: 2026-06-08T08:27:01Z
-  Vendor: Company of Animals
-  Product Type: Electronics, Mobile communication and ac
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2396837222033.jpg?v=1773026639
-  - [Black](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090046144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2907743894891.jpg?v=1773026653
-    Price: €16.50 EUR
-  - [Black Set](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090078912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7099960269220.jpg?v=1773026652
-    Price: €22.45 EUR
-  - [Black no logo](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090111680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bd8f917d-e33e-4cdc-b005-588a7ce50a1a.jpg?v=1773026653
-    Price: €16.50 EUR
-  - [Charcoal black](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090144448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/257539379812.jpg?v=1773026652
-    Price: €9.20 EUR
-  - [Charcoal black 1](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090177216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/521179915146.jpg?v=1773026653
-    Price: €16.50 EUR
-  - [Charcoal black set](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090209984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/11575266568051.jpg?v=1773026653
-    Price: €22.45 EUR
-  - [Green](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090242752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1396501767419.jpg?v=1773026654
-    Price: €16.50 EUR
-  - [Green Set](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090275520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9427437271673.jpg?v=1773026653
-    Price: €22.50 EUR
-  - [Grey](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090308288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7854890657604.jpg?v=1773026653
-    Price: €9.20 EUR
-  - [Grey 1](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090341056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3241881774931.jpg?v=1773026652
-    Price: €16.50 EUR
-  - [Grey set](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090373824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2138025688142.jpg?v=1773026653
-    Price: €22.50 EUR
-  - [Marble](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090406592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/707243506820.jpg?v=1773026652
-    Price: €16.50 EUR
-  - [Marble Set](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090439360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/219585965827.jpg?v=1773026653
-    Price: €22.50 EUR
-  - [Purple](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090472128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/872178112465.jpg?v=1773026653
-    Price: €9.20 EUR
-  - [Purple 1](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090504896)
+    Price: €26.49 EUR
+  - [Army green / 3XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294339264)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4532277172667.jpg?v=1773026652
-    Price: €16.50 EUR
-  - [Purple set](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090537664)
+    Price: €26.49 EUR
+  - [Flower grey / L](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838393024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eac1c46a-8d62-45d3-b4bb-7423d9a834aa.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Flower grey / M](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838425792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eac1c46a-8d62-45d3-b4bb-7423d9a834aa.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Flower grey / S](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838458560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eac1c46a-8d62-45d3-b4bb-7423d9a834aa.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Flower grey / XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838491328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eac1c46a-8d62-45d3-b4bb-7423d9a834aa.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Flower grey / XXL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294372032)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/13778496922598.jpg?v=1773026653
-    Price: €22.50 EUR
-  - [Red](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090570432)
+    Price: €26.49 EUR
+  - [Flower grey / 3XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294404800)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Gray blue / L](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838524096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1438081947079.jpg?v=1773026652
-    Price: €16.50 EUR
-  - [Red Set](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090603200)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/df593e0f-e1de-4774-aba7-b563598ac823.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Gray blue / M](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838556864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/479328379590.jpg?v=1773026652
-    Price: €22.50 EUR
-  - [Stone green](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090635968)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/df593e0f-e1de-4774-aba7-b563598ac823.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Gray blue / S](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838589632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/06d93a89-c150-4906-b753-af5ee63aafe1.jpg?v=1773026653
-    Price: €16.50 EUR
-  - [Stone green set](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool?variant=47661090668736)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/df593e0f-e1de-4774-aba7-b563598ac823.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Gray blue / XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838622400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2b887c27-98c2-43af-bc72-f9a9307d3dc7.jpg?v=1773026653
-    Price: €22.50 EUR
-- [6-Blade Portable USB Blender 140W — 400ml Smoothie Cup 22000 RPM | AJ Euro](https://ajeuro.com/products/6blade-portable-blender-mini-juicer-cup-extractor-smoothie-usb-charging-fruit-squeezer-blender-food-mixer-ice-crusher-portable-juicer-machine): 140W 6-blade portable USB blender at 22,000 RPM. Crushes ice, blends frozen fruit and makes smoothies in a 400ml travel cup. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:48Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/df593e0f-e1de-4774-aba7-b563598ac823.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Gray blue / XXL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294437568)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Gray blue / 3XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294470336)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Green black / L](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838655168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cacf65ab-f992-4e64-ac61-ae01042d1c67.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Green black / M](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838687936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cacf65ab-f992-4e64-ac61-ae01042d1c67.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Green black / S](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838720704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cacf65ab-f992-4e64-ac61-ae01042d1c67.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Green black / XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838753472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cacf65ab-f992-4e64-ac61-ae01042d1c67.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Green black / XXL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294503104)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Green black / 3XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294535872)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Pink / L](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838786240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9113d99f-45d9-4edd-9f50-aac8c3333416.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Pink / M](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838819008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9113d99f-45d9-4edd-9f50-aac8c3333416.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Pink / S](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838851776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9113d99f-45d9-4edd-9f50-aac8c3333416.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Pink / XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838884544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9113d99f-45d9-4edd-9f50-aac8c3333416.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Pink / XXL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294568640)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Pink / 3XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294601408)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Purple / L](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838917312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/077993fd-7b51-4997-aa13-81ebb4588ed5.jpg?v=1780544999
+    Price: €26.49 EUR
+  - [Purple / M](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838950080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/077993fd-7b51-4997-aa13-81ebb4588ed5.jpg?v=1780544999
+    Price: €26.49 EUR
+  - [Purple / S](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362838982848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/077993fd-7b51-4997-aa13-81ebb4588ed5.jpg?v=1780544999
+    Price: €26.49 EUR
+  - [Purple / XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362839015616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/077993fd-7b51-4997-aa13-81ebb4588ed5.jpg?v=1780544999
+    Price: €26.49 EUR
+  - [Purple / XXL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294634176)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Purple / 3XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294666944)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Watermelon red / L](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362839048384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/79771bf1-af25-4b9e-8b25-c7ab254feb2c.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Watermelon red / M](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362839081152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/79771bf1-af25-4b9e-8b25-c7ab254feb2c.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Watermelon red / S](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362839113920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/79771bf1-af25-4b9e-8b25-c7ab254feb2c.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Watermelon red / XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48362839146688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/79771bf1-af25-4b9e-8b25-c7ab254feb2c.jpg?v=1780544998
+    Price: €26.49 EUR
+  - [Watermelon red / XXL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294699712)
+    Availability: Not Available
+    Price: €26.49 EUR
+  - [Watermelon red / 3XL](https://ajeuro.com/products/womens-butt-lifting-seamless-leggings-gym-yoga-fitness-s-3xl?variant=48371294732480)
+    Availability: Not Available
+    Price: €26.49 EUR
+- [OUHOE Anti-Ageing Roll-On Face Serum — Bee Venom & Hyaluronic Acid | AJ Euro](https://ajeuro.com/products/ouhoe-anti-ageing-roll-on-face-serum-bee-venom-hyaluronic-acid-10ml): OUHOE anti-ageing roll-on serum with bee venom, hyaluronic acid and aloe vera. 10ml, metal roller, sensitive skin safe. Ships to Europe.
+  Updated: 2026-06-06T15:20:02Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b2db15a6-30cf-46e7-b691-7be5b36ce723.jpg?v=1773028965
-  - [Pink / Six Knife and Single Cover](https://ajeuro.com/products/6blade-portable-blender-mini-juicer-cup-extractor-smoothie-usb-charging-fruit-squeezer-blender-food-mixer-ice-crusher-portable-juicer-machine?variant=47661106331840)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f5c21f1e-b01a-4a27-8d38-1a140eae466c.jpg?v=1773028975
-    Price: €16.70 EUR
-  - [Pink / Six Knives and Double Cups](https://ajeuro.com/products/6blade-portable-blender-mini-juicer-cup-extractor-smoothie-usb-charging-fruit-squeezer-blender-food-mixer-ice-crusher-portable-juicer-machine?variant=47661106364608)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9ff014b2-5ce5-4dc8-8272-dc3787bde068.jpg?v=1773028975
-    Price: €18.70 EUR
-  - [Pink / Six knives](https://ajeuro.com/products/6blade-portable-blender-mini-juicer-cup-extractor-smoothie-usb-charging-fruit-squeezer-blender-food-mixer-ice-crusher-portable-juicer-machine?variant=47661106397376)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c2ffe580-698e-4d80-8cb4-4f3e8fd5b69d.jpg?v=1773028975
-    Price: €18.70 EUR
-  - [Tunisian dark blue / Six Knife and Single Cover](https://ajeuro.com/products/6blade-portable-blender-mini-juicer-cup-extractor-smoothie-usb-charging-fruit-squeezer-blender-food-mixer-ice-crusher-portable-juicer-machine?variant=47661106430144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fedab8fb-5693-449f-bc19-1baba6603765.jpg?v=1773028975
-    Price: €16.70 EUR
-  - [Tunisian dark blue / Six Knives and Double Cups](https://ajeuro.com/products/6blade-portable-blender-mini-juicer-cup-extractor-smoothie-usb-charging-fruit-squeezer-blender-food-mixer-ice-crusher-portable-juicer-machine?variant=47661106462912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cb815cab-d6de-4b8e-9ab6-712a9d5b0ed5.jpg?v=1773028975
-    Price: €18.70 EUR
-  - [Tunisian dark blue / Six knives](https://ajeuro.com/products/6blade-portable-blender-mini-juicer-cup-extractor-smoothie-usb-charging-fruit-squeezer-blender-food-mixer-ice-crusher-portable-juicer-machine?variant=47661106495680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b26667b1-dc24-44a4-acf2-4250f5736e02.jpg?v=1773028975
-    Price: €18.70 EUR
-- [Mini PTC Ceramic Fan Heater — 15–32°C Adjustable 12Hr Timer | AJ Euro](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool): Mini PTC ceramic fan heater — 15–32°C adjustable, 12hr timer, hot and cool air modes. Compact EU plug. Ships to France and the UK.
-  Updated: 2026-06-05T06:27:07Z
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a462e05a-b256-4775-aca1-7a766bdbcb21.jpg?v=1780625508
+  Price: €14.90 EUR
+- [Hoygi Vitamin C Face Serum — Ferulic Konjac Hyaluronic Acid 30ml | AJ Euro](https://ajeuro.com/products/hoygi-vitamin-c-face-serum-ferulic-konjac-hyaluronic-acid-30ml): Hoygi 30ml Vitamin C serum with ferulic acid, hyaluronic acid, Vitamin E and konjac root. Fragrance-free, lightweight, daily use. Ships to Europe.
+  Updated: 2026-06-06T15:18:47Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/44713d94-d307-4753-af15-c0008058b583.jpg?v=1773029490
-  - [Black with remote control / AU](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool?variant=47661178486976)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a1989372-0154-41dd-8f7c-69f232e0175e.jpg?v=1773029499
-    Price: €30.93 EUR
-  - [Black with remote control / EU](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool?variant=47661178519744)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a1989372-0154-41dd-8f7c-69f232e0175e.jpg?v=1773029499
-    Price: €30.93 EUR
-  - [Black with remote control / UK](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool?variant=47661178552512)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a1989372-0154-41dd-8f7c-69f232e0175e.jpg?v=1773029499
-    Price: €32.88 EUR
-  - [Black with remote control / US](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool?variant=47661178585280)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a1989372-0154-41dd-8f7c-69f232e0175e.jpg?v=1773029499
-    Price: €30.93 EUR
-  - [Black / AU](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool?variant=47661178618048)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2db3eaee-1761-4361-a943-22ef86908f77_bf3902ef-aa26-46c6-bbbf-f7756ac90d90.jpg?v=1773029499
-    Price: €25.65 EUR
-  - [Black / EU](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool?variant=47661178650816)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/49832e62-bdf1-4583-842e-8b8d3d6df36a_8fd0dd75-85d7-466e-a1fc-d9958fd44e7b.jpg?v=1773029499
-    Price: €24.28 EUR
-  - [Black / UK](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool?variant=47661178683584)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7fc25ccc-b6e4-40db-a048-021f71f9f3d2_c081ad38-c575-4b4a-8179-43436cc0bcdb.jpg?v=1773029499
-    Price: €26.46 EUR
-  - [Black / US](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool?variant=47661178716352)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d043cb98-20f9-4a85-83e0-82038975fc55_917dfa30-ea70-40ac-918f-3a9fad7a0b1d.jpg?v=1773029499
-    Price: €25.96 EUR
-- [Compression Ankle Support Sleeve — Unisex Sports & Daily Wear | AJ Euro](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear): Unisex compression ankle support sleeve for gym, running and daily wear. One size, 3 colour options. Ships to France and the United Kingdom.
-  Updated: 2026-06-07T01:28:56Z
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/93f7c23a-4095-4356-8f39-8972db2825dc.jpg?v=1780625639
+  Price: €11.90 EUR
+- [OUHOE Vitamin C Squalane Face Serum — Brightening 30ml Hyaluronic | AJ Euro](https://ajeuro.com/products/ouhoe-vitamin-c-squalane-face-serum-brightening-30ml-hyaluronic): OUHOE 30ml Vitamin C squalane face serum with hyaluronic acid and collagen. Brightening, moisturising, lightweight formula. Ships to Europe.
+  Updated: 2026-06-06T15:16:03Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/825c3411-5799-45bd-8bdb-0052c8c970bb.jpg?v=1773029987
-  - [Black And Gray Set / Average Size / 1PCS](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear?variant=47661332005056)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/807297b2-1999-4be5-82f5-6b76ef2ece84.jpg?v=1780625734
+  - [Essence liquid](https://ajeuro.com/products/ouhoe-vitamin-c-squalane-face-serum-brightening-30ml-hyaluronic?variant=48365428080832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b2cbb5f3-f643-4499-9a71-fc0feffdc349.jpg?v=1773030000
-    Price: €21.77 EUR
-  - [Black And Gray / Average Size / 1PCS](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear?variant=47661332037824)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/807297b2-1999-4be5-82f5-6b76ef2ece84.jpg?v=1780625734
+    Price: €18.49 EUR
+  - [Set](https://ajeuro.com/products/ouhoe-vitamin-c-squalane-face-serum-brightening-30ml-hyaluronic?variant=48365428113600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7ead595c-cbb0-4628-98aa-51f6ad503b1c_trans.jpg?v=1773029998
-    Price: €14.77 EUR
-  - [Black And Gray / Average Size / 2PCS](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear?variant=47661332070592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4322dee0-2d45-4909-8870-0834cded9d2b.jpg?v=1773029998
-    Price: €25.77 EUR
-  - [Black And Green Set / Average Size / 1PCS](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear?variant=47661332103360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/420eb49c-91fa-47c7-91d1-9195cf8b3d36.jpg?v=1773029998
-    Price: €21.77 EUR
-  - [Black And Green / Average Size / 1PCS](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear?variant=47661332136128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bd6dcd06-5104-463d-9c42-5e739a81c1e9_trans.jpg?v=1773029998
-    Price: €14.77 EUR
-  - [Black And Green / Average Size / 2PCS](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear?variant=47661332168896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/721e1015-b780-4675-826f-029789d70e45.jpg?v=1773029998
-    Price: €25.77 EUR
-  - [Black And Purple Set / Average Size / 1PCS](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear?variant=47661332201664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/56ae8bdd-2100-46fb-b94d-0231d9808425.jpg?v=1773029998
-    Price: €21.77 EUR
-  - [Black And Purple / Average Size / 1PCS](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear?variant=47661332234432)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9e78ad80-bd97-4c62-bf65-6a7e45d2b7ab_trans.jpg?v=1773029998
-    Price: €14.77 EUR
-  - [Black And Purple / Average Size / 2PCS](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear?variant=47661332267200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/54b4fa86-47f6-4127-a904-7580efeb193c.jpg?v=1773029998
-    Price: €25.77 EUR
-- [Portable Bluetooth Subwoofer Speaker 5W — 6Hr Battery TF Card | AJ Euro](https://ajeuro.com/products/portable-bluetooth-subwoofer-speaker-5w-6hr-battery-tf-card): 5W portable Bluetooth subwoofer speaker with 95dB SNR, 6hr battery, 1200mAh and 32GB TF card support. Dual channel stereo. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:48Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/8dfd4a63-99f6-4a0e-9eeb-f77ed1a58ac7.jpg?v=1780625734
+    Price: €21.49 EUR
+- [AI Smart Bluetooth Glasses — Camera Real-Time Translation Anti-Blue | AJ Euro](https://ajeuro.com/products/ai-smart-bluetooth-glasses-camera-real-time-translation): AI smart glasses with camera, real-time translation and magnetic interchangeable lenses. Ships to France, Italy, Spain and Germany.
+  Updated: 2026-06-15T02:23:02Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/91904309151.jpg?v=1773030643
-  - [Black](https://ajeuro.com/products/portable-bluetooth-subwoofer-speaker-5w-6hr-battery-tf-card?variant=47661341475008)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a56a7dc9-84a2-42a7-bd7d-14acff764338_trans.jpg?v=1780975861
+  - [Black Antiblue Ray Lens](https://ajeuro.com/products/ai-smart-bluetooth-glasses-camera-real-time-translation?variant=48389301993664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/91904309151_86c09515-a162-4283-8537-a85fb889d8a0.jpg?v=1773030647
-    Price: €19.55 EUR
-  - [Blue](https://ajeuro.com/products/portable-bluetooth-subwoofer-speaker-5w-6hr-battery-tf-card?variant=47661341507776)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b920c5a9-3248-4b72-bd4d-f9f22f4be40a_trans.jpg?v=1780975861
+    Price: €59.00 EUR
+  - [Black Lens](https://ajeuro.com/products/ai-smart-bluetooth-glasses-camera-real-time-translation?variant=48389302026432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5401997413345.jpg?v=1773030647
-    Price: €19.55 EUR
-  - [Green](https://ajeuro.com/products/portable-bluetooth-subwoofer-speaker-5w-6hr-battery-tf-card?variant=47661341540544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1092682259803.jpg?v=1773030647
-    Price: €19.55 EUR
-  - [Grey](https://ajeuro.com/products/portable-bluetooth-subwoofer-speaker-5w-6hr-battery-tf-card?variant=47661341573312)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9908619625851.jpg?v=1773030647
-    Price: €19.55 EUR
-  - [Orange](https://ajeuro.com/products/portable-bluetooth-subwoofer-speaker-5w-6hr-battery-tf-card?variant=47661341606080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/964231963863.jpg?v=1773030647
-    Price: €19.55 EUR
-  - [Red](https://ajeuro.com/products/portable-bluetooth-subwoofer-speaker-5w-6hr-battery-tf-card?variant=47661341638848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2297220107320.jpg?v=1773030647
-    Price: €19.55 EUR
-- [H60 Portable Bluetooth Speaker 30W Waterproof — FM Radio | AJ Euro](https://ajeuro.com/products/h60-portable-bluetooth-speaker-30w-waterproof-fm-radio-tf-card): H60 30W waterproof Bluetooth speaker with dual 66mm drivers, 3000mAh battery, FM radio, TF card and AUX input. Built for outdoor use. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:49Z
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/793df777-706d-4ec0-a523-739b0ecc0081_trans.jpg?v=1780975861
+    Price: €59.00 EUR
+- [M62 Bone Conduction Bluetooth Headset — Open-Ear 8Hr Waterproof | AJ Euro](https://ajeuro.com/products/wireless-ear-hook-bluetooth-headset-gas-bone-conduction-long-endurance): M62 open-ear bone conduction headset — 8hr battery, waterproof, noise reduction and digital display. Ships to France, Italy, Spain and Germany.
+  Updated: 2026-06-17T14:54:29Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/953aad90-f244-48c6-89b0-f2e6cf0b6805.jpg?v=1773031112
-  - [Black / USB](https://ajeuro.com/products/h60-portable-bluetooth-speaker-30w-waterproof-fm-radio-tf-card?variant=47661344587968)
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/11236a72-7478-4770-9dce-a68fc417d184.jpg?v=1781664834
+  - [M62 Black](https://ajeuro.com/products/wireless-ear-hook-bluetooth-headset-gas-bone-conduction-long-endurance?variant=48433078730944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/85679a98-3727-4913-8a5a-228c6dbe782d.jpg?v=1773031115
-    Price: €65.18 EUR
-  - [Blue / USB](https://ajeuro.com/products/h60-portable-bluetooth-speaker-30w-waterproof-fm-radio-tf-card?variant=47661344620736)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/650f58f6-0576-4710-a687-0eb524a7dca7.jpg?v=1781664834
+    Price: €24.00 EUR
+  - [M62 Skin Color](https://ajeuro.com/products/wireless-ear-hook-bluetooth-headset-gas-bone-conduction-long-endurance?variant=48433078763712)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/9920018f-fd75-41b7-8b94-4cc974d490b2.jpg?v=1773031115
-    Price: €65.18 EUR
-  - [Green / USB](https://ajeuro.com/products/h60-portable-bluetooth-speaker-30w-waterproof-fm-radio-tf-card?variant=47661344653504)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4c4a233f-9bf0-476e-87ee-a99aabda4efe.jpg?v=1773031115
-    Price: €65.18 EUR
-  - [Grey / USB](https://ajeuro.com/products/h60-portable-bluetooth-speaker-30w-waterproof-fm-radio-tf-card?variant=47661344686272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d51e82bd-e51d-49df-9266-ce124187ad13.jpg?v=1773031115
-    Price: €65.18 EUR
-  - [Red / USB](https://ajeuro.com/products/h60-portable-bluetooth-speaker-30w-waterproof-fm-radio-tf-card?variant=47661344719040)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/93ae781c-3958-490f-ba40-205a47e15ac0.jpg?v=1773031115
-    Price: €65.18 EUR
-[List Continued](https://ajeuro.com/a/llms-agent/llms.txt?shop=tzt1c6-v1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTA4NTk4ODQ1NjMyLCJsYXN0X3ZhbHVlIjoiODUwODU5ODg0NTYzMiJ9)
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/05f58fd9-35b5-45df-9a68-355d156b4603.jpg?v=1781664834
+    Price: €24.00 EUR
+- [Natural Jade Gua Sha Beauty Set — Face Scraper Roller Anti-Ageing | AJ Euro](https://ajeuro.com/products/natural-jade-gua-sha-beauty-set-face-scraper-roller-anti-ageing): Natural jade Gua Sha set — promotes circulation, reduces puffiness and aids skincare absorption. Ships to France, Italy, Spain and Germany.
+  Updated: 2026-06-17T20:21:07Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1694484020762.jpg?v=1781684460
+  Price: €15.90 EUR
 
 ## Collections
 
 - [Home page](https://ajeuro.com/collections/frontpage): Welcome to AJ Euro, your one-stop European online store for quality products across every area of your life. From consumer electronics and audio equipment to pet supplies, home essentials, kitchen tools, beauty products, sports gear, and fashion accessories — everything you need is here in one place. We serve customers across France and the United Kingdom, with all prices displayed in Euros and straightforward delivery to your door. Our catalogue of over 300 products is updated regularly with new arrivals across all categories, so there's always something new to discover. At AJ Euro, we believe everyday products should be reliable, affordable, and easy to find. Every purchase comes with a 30-day return policy and clear shipping information upfront — because shopping online should be simple and stress-free. Browse our featured products below or explore our collections to find exactly what you're looking for.
-  Updated: 2026-06-09T07:36:21Z
-  Total Products: 30
+  Updated: 2026-06-17T08:23:52Z
+  Total Products: 19
 - [Electronics — Projectors, Chargers, Cameras & More | AJ Euro](https://ajeuro.com/collections/electronics): Shop electronics at AJ Euro — mini projectors, wireless chargers, security cameras, bamboo keyboards and more. Ships to France and the UK. EUR pricing.
-  Updated: 2026-06-09T07:36:50Z
-  Total Products: 79
-- [Audio — Bluetooth Speakers, Earbuds & Headphones | AJ Euro](https://ajeuro.com/collections/audio): Shop Bluetooth speakers, TWS earbuds, over-ear headphones, bone conduction headsets and microphones at AJ Euro. Ships to France and the UK.
-  Updated: 2026-06-09T07:36:50Z
-  Total Products: 55
-- [Home & Living — Gadgets, Humidifiers & Home Essentials | AJ Euro](https://ajeuro.com/collections/home-living): Shop home gadgets at AJ Euro — humidifiers, galaxy projectors, robot vacuums, mosquito killers, fans and more. Ships to France and the UK. EUR pricing.
-  Updated: 2026-06-04T08:09:54Z
-  Total Products: 52
-- [Kitchen — Blenders, Mugs, Tumblers & Kitchen Gadgets | AJ Euro](https://ajeuro.com/collections/kitchen): Shop kitchen gadgets at AJ Euro — portable blenders, self-stirring mugs, insulated tumblers, glass tea bottles and storage tools. Ships to France and the UK.
-  Updated: 2026-06-04T08:09:54Z
+  Updated: 2026-06-17T04:43:40Z
   Total Products: 23
+- [Audio — Bluetooth Speakers, Earbuds & Headphones | AJ Euro](https://ajeuro.com/collections/audio): Shop Bluetooth speakers, TWS earbuds, over-ear headphones, bone conduction headsets and microphones at AJ Euro. Ships to France and the UK.
+  Updated: 2026-06-17T04:43:40Z
+  Total Products: 20
+- [Home & Living — Gadgets, Humidifiers & Home Essentials | AJ Euro](https://ajeuro.com/collections/home-living): Shop home gadgets at AJ Euro — humidifiers, galaxy projectors, robot vacuums, mosquito killers, fans and more. Ships to France and the UK. EUR pricing.
+  Updated: 2026-06-15T08:25:17Z
+  Total Products: 4
+- [Kitchen — Blenders, Mugs, Tumblers & Kitchen Gadgets | AJ Euro](https://ajeuro.com/collections/kitchen): Shop kitchen gadgets at AJ Euro — portable blenders, self-stirring mugs, insulated tumblers, glass tea bottles and storage tools. Ships to France and the UK.
+  Updated: 2026-06-15T08:25:17Z
+  Total Products: 1
 - [Beauty & Care — Hair Tools, IPL & Wellness Devices | AJ Euro](https://ajeuro.com/collections/beauty-care): Shop beauty tools at AJ Euro — cordless hair straighteners, ionic dryers, IPL hair removal, scalp massagers and wellness devices. Ships to France and the UK.
-  Updated: 2026-06-05T04:22:33Z
-  Total Products: 22
+  Updated: 2026-06-17T08:24:21Z
+  Total Products: 15
 - [Pet Supplies — Feeders, Grooming & Pet Accessories | AJ Euro](https://ajeuro.com/collections/pet-supplies): Shop pet supplies at AJ Euro — automatic feeders, slow feeder bowls, grooming brushes, pet beds and lint rollers for cats and dogs. Ships to France and the UK.
-  Updated: 2026-05-22T04:14:36Z
-  Total Products: 12
+  Updated: 2026-06-15T08:11:57Z
+  Total Products: 1
 - [Sports — Padel, Pickleball, Knee Supports & Active Wear | AJ Euro](https://ajeuro.com/collections/sports): Shop sports at AJ Euro — padel rackets, pickleball paddles, knee supports, ankle braces and cycling accessories. Ships to France and the UK.
-  Updated: 2026-06-04T04:19:21Z
-  Total Products: 18
+  Updated: 2026-06-15T08:11:49Z
+  Total Products: 9
 - [Fashion — Clothing, Jewellery & Accessories | AJ Euro](https://ajeuro.com/collections/fashion): Shop fashion at AJ Euro — layered anklets, women's shirts, Bluetooth headbands and cosy slippers. Everyday style for France and the UK. EUR pricing.
-  Updated: 2026-06-04T04:19:21Z
-  Total Products: 7
+  Updated: 2026-06-15T08:11:47Z
+  Total Products: 1
 - [](https://ajeuro.com/collections/): At AJ Euro, we believe great products should be accessible to everyone. Our Deals collection brings together the best current offers across all our categories — electronics, pet supplies, home goods, beauty, sports, and fashion — all in one place, updated regularly so you never miss a saving. Whether you're hunting for a discounted Bluetooth speaker, a reduced-price pet accessory, or a fashion essential at a lower cost, our deals page is the first place to look. All prices are displayed in Euros, with delivery available to France and the United Kingdom. Deals are updated frequently and stock is limited, so we recommend checking back often. Every discounted product still comes with AJ Euro's standard 30-day return policy and the same quality assurance as our full-price range. Browse all current deals below and grab your favourites before they  out.
   Updated: 2026-05-22T04:14:37Z
   Total Products: 0
