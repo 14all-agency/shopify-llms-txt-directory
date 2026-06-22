@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2022-09-30T02:43:56Z
 - Contact Email: help@drplus-usa.com
-- Updated At: 2026-06-14T00:00:37.645Z
+- Updated At: 2026-06-22T00:00:40.322Z
 
 ## Products
 
@@ -60,40 +60,47 @@
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/products/EPA_2.png?v=1678152668
   Price: ￥4,900.00 JPY
 - [100%アルロース使用のゼロカロリー甘味料。砂糖の代わりにコーヒー、料理、お菓子作りに使いやすい低糖質スイートナーです](https://drplus-japan.com/products/allulose): 砂糖やはちみつの代替品としてご使用いただけるカロリーゼロの天然の甘味料。自然界にわずかしか存在しない約50種類の希少糖。オリゴ糖・食物繊維などの混合物一切なしの純度100％のアルロースです。
-  Updated: 2026-05-14T17:49:51Z
+  Updated: 2026-06-20T11:09:16Z
   Vendor: Dr.Plus formula
   Product Type: 甘味料
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/Allulose.jpg?v=1696291224
   Price: ￥3,890.00 JPY
-- [ルクマパウダー ナチュラル甘味料 16オンス](https://drplus-japan.com/products/ルクマパウダー-ナチュラル甘味料-16オンス): 商品説明 ルクマはペルー原産の自然な甘みを持つ果実で、「インカ帝国の黄金」とも呼ばれています。メープルのようなやさしい甘さが特徴で、日々の食事や飲み物に栄養をプラスする食材として親しまれています。 本品は100％ナチュラルパウダーで、素材本来の風味と栄養価を保つために最小限の加工のみを行っています。天然原料を使用しているため
-  Updated: 2026-03-04T05:23:13Z
+- [Dr. Plus ルクマパウダー 16オンス | ナチュラル甘味料 粉末タイプ スムージー・ベーキング用](https://drplus-japan.com/products/ルクマパウダー-ナチュラル甘味料-16オンス): 商品説明 ルクマはペルー原産の自然な甘みを持つ果実で、「インカ帝国の黄金」とも呼ばれています。メープルのようなやさしい甘さが特徴で、日々の食事や飲み物に栄養をプラスする食材として親しまれています。 本品は100％ナチュラルパウダーで、素材本来の風味と栄養価を保つために最小限の加工のみを行っています。天然原料を使用しているため
+  Updated: 2026-06-20T11:12:35Z
   Vendor: Dr.Plus formula
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/Lacuma1.jpg?v=1772473787
   Price: ￥4,999.00 JPY
 - [Dr.Plus Formula グリーンバナナパウダー（未熟バナナ）16oz（454g）– グルテンフリー・無添加](https://drplus-japan.com/products/dr-plus-formula-グリーンバナナパウダー-未熟バナナ-16oz-454g-グルテンフリー-無添加): 商品の説明 グリーンバナナパウダーは、未熟なバナナから作られた自然由来の食品で、レジスタントスターチや食物繊維を豊富に含んでいます。砂糖や添加物を一切使用していないため、毎日の食事に安心して取り入れることができます。 グルテンフリーで使いやすく、小麦粉の代替としても活用できるため、健康志向の方や食事管理を意識している方
-  Updated: 2026-04-22T15:34:18Z
+  Updated: 2026-06-20T11:02:10Z
   Vendor: Dr.Plus formula
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/DrPlus.jpg?v=1774282970
   Price: ￥5,990.00 JPY
 - [ブルーベリーパウダー - フリーズドライ 100％ナチュラル、無添加、ヴィーガン 16oz](https://drplus-japan.com/products/ブルーベリーパウダー-フリーズドライ-100-ナチュラル-無添加-ヴィーガン-16oz): 商品の説明 ブルーベリーパウダーは、フリーズドライ製法で作られた100％ナチュラルなパウダーです。ブルーベリー本来の風味や鮮やかな色合いをそのまま楽しめ、さまざまな料理や飲み物に簡単に取り入れることができます。 添加物や保存料を使用していないため、安心して毎日の食事に取り入れることができ、健康志向の方にもおすすめです。
-  Updated: 2026-04-22T15:36:47Z
+  Updated: 2026-06-20T11:02:48Z
   Vendor: Dr.Plus formula
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/DrPlusBlueberry2.jpg?v=1774370228
   Price: ￥10,920.00 JPY
 - [パンプキンパウダー Pumpkin Powder 無添加, 食物繊維 454g](https://drplus-japan.com/products/パンプキンパウダー-pumpkin-powder-無添加-食物繊維-454g): 商品の説明 パンプキンパウダーは、かぼちゃを丁寧に乾燥させて作られた100％ナチュラルなパウダーです。自然な甘みや風味、鮮やかなオレンジ色をそのまま閉じ込めており、さまざまな料理や飲み物に簡単に取り入れることができます。 砂糖や保存料、人工添加物を一切使用していないため、安心して毎日の食事に取り入れることができ、健康志向
-  Updated: 2026-04-21T15:50:49Z
+  Updated: 2026-06-20T11:14:27Z
   Vendor: Dr.Plus formula
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/DrPlusPumpkin2.jpg?v=1774627579
   Price: ￥5,631.00 JPY
+- [カムカムパウダー 大容量 粉末タイプ Dr. Plus Camu Camu Powder 1lb 454g |  スムージー・ジュース・ヨーグルト用](https://drplus-japan.com/products/dr-plus-camu-camu-powder-454g): 自然由来のビタミンCを含むDr. Plus カムカムパウダー。454g大容量の粉末タイプで、スムージー、ジュース、ヨーグルトに手軽に混ぜて楽しめます。
+  Updated: 2026-06-20T11:01:12Z
+  Vendor: Dr.Plus formula
+  Product Type: Supplement
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/2039/1663/files/dr-camucamu.jpg?v=1781892920
+  Price: ￥8,200.00 JPY
 
 ## Collections
 
@@ -101,8 +108,8 @@
   Updated: 2026-02-20T19:09:47Z
   Total Products: 2
 - [全ての商品](https://drplus-japan.com/collections/all)
-  Updated: 2026-06-06T06:12:29Z
-  Total Products: 15
+  Updated: 2026-06-19T18:27:23Z
+  Total Products: 16
 - [商品の形状](https://drplus-japan.com/collections/material)
   Updated: 2025-04-21T18:12:20Z
   Total Products: 0
@@ -178,6 +185,9 @@
 - [コエンザイム](https://drplus-japan.com/collections/コエンザイム)
   Updated: 2026-02-20T19:19:55Z
   Total Products: 2
+- [パウダー・粉末](https://drplus-japan.com/collections/パウダー-粉末)
+  Updated: 2026-06-19T18:27:23Z
+  Total Products: 6
 
 ## Blogs
 
@@ -190,6 +200,15 @@
     Updated: 2026-06-12T21:43:02Z
     Author: Reiko Yamada
     Tags: Dr.Plus Formula, カプセルサプリ, ビタミンC, ビタミンCサプリ, リポソームビタミンC, 健康習慣, 免疫サポート, 美容サプリ, 高濃度ビタミンC
+  - [リポソームビタミンCの効果と選び方 | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/リポソームビタミンcの効果と選び方-基本ガイド): リポソームビタミンCの効果と選び方 | Dr.Plus formula
+    Updated: 2026-06-17T01:00:06Z
+    Author: Dr.Plus Formula
+  - [高濃度ビタミンCの効果を解説 | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/高濃度ビタミンcの効果を最大化する摂り方のコツ): 高濃度ビタミンCの効果を解説 | Dr.Plus formula
+    Updated: 2026-06-18T00:00:06Z
+    Author: Dr.Plus Formula
+  - [リポソームカプセルの選び方と特徴 | 効果を実感するコツ | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/リポソームカプセルの特徴と選び方-失敗しない基礎知識): リポソームカプセルの選び方と特徴 | 効果を実感するコツ | Dr.Plus formula
+    Updated: 2026-06-17T01:00:07Z
+    Author: Dr.Plus Formula
 
 ## Store Pages
 
