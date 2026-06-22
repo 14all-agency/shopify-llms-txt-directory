@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-03-10T09:59:04Z
 - Contact Email: artbotano@gmail.com
-- Updated At: 2026-06-14T00:00:35.041Z
+- Updated At: 2026-06-22T00:00:37.948Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-light-sky-perfume-bottle.webp?v=1773334703
   Price: Rs 2,999.00 PKR
 - [Titanium Rush – Amber Floral Eau de Parfum for Men](https://botanoart.com/products/titanium-rush): Titanium Rush is an exquisite amber floral fragrance — saffron, ambergris, amberwood, cedar, and fir resin. A mesmerizing fusion of sweetness and intensity. 30% EDP. Lasts up to 8 hours.
-  Updated: 2026-06-04T07:25:51Z
+  Updated: 2026-06-18T14:13:12Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
@@ -94,7 +94,7 @@
   Updated: 2026-06-04T11:20:33Z
   Total Products: 3
 - [Men's Luxury Perfumes – Bold, Woody & Powerful Fragrances](https://botanoart.com/collections/mens-perfumes): Discover BotanoArt's premium collection of men's perfumes. From the commanding presence of Executive Edge to the sacred depth of Friday — five bold fragrances engineered for confidence, power, and unforgettable impact.
-  Updated: 2026-06-04T07:26:21Z
+  Updated: 2026-06-19T11:25:15Z
   Total Products: 5
 - [Unisex Luxury Perfumes – Timeless Fragrances for Everyone](https://botanoart.com/collections/unisex-perfumes): Experience BotanoArt's unisex perfume collection — three timeless fragrances that transcend gender. From the cosmic depth of Galactic Rush to the ethereal calm of Light Sky and the meditative warmth of Dream Horizon.
   Updated: 2026-06-04T07:26:12Z
