@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2014-08-11T19:42:15Z
 - Contact Email: emeloul@aol.com
-- Updated At: 2026-06-14T00:00:37.061Z
+- Updated At: 2026-06-22T00:00:40.949Z
 
 # Heat Equalizer
 
@@ -29,7 +29,7 @@ The website includes product usage information, warranty details, shipping polic
 ## Products
 
 - [Never burn your food again! Enhance Cooking Precision with the Heat Equalizer Heat Diffuser | Gas & Electric Stoves | heat diffuser for gas stove](https://heatequalizer.com/products/the-heat-equalizer-heat-diffuser-for-gas-stove-aluminum-copper-alloy-hot-plate-stove-burner-cover-ring-plate-cover): Never burn your food again! Revolutionize your cooking experience with the Heat Equalizer Heat Diffuser. Heat diffuser for gas stove, Achieve uniform heat distribution on both gas and electric stoves, ensuring every dish is perfection. Say goodbye to hot spots and hello to culinary precision. Upgrade your kitchen now!
-  Updated: 2026-06-10T13:59:17Z
+  Updated: 2026-06-18T14:59:11Z
   Vendor: Heat Equalizer
   Product Type: heat diffusers
   Availability: Available
@@ -94,7 +94,7 @@ The website includes product usage information, warranty details, shipping polic
 ## Collections
 
 - [The Heat Equalizer Heat Diffuser for Gas Stove Enhance Cooking](https://heatequalizer.com/collections/kitchen-essentials): Never Burn Your Food Again! Transform your cooking experience with The Heat Equalizer Heat Diffuser for Gas Stove. Designed to distribute heat evenly, reduce hot spots, and prevent scorching, this premium diffuser enhances your culinary creations. Say goodbye to uneven cooking.
-  Updated: 2026-06-11T11:00:38Z
+  Updated: 2026-06-19T11:00:36Z
   Total Products: 4
 
 ## Blogs
@@ -166,6 +166,8 @@ The website includes product usage information, warranty details, shipping polic
   Updated: 2023-04-11T06:42:55Z
 - [Recover ](https://heatequalizer.com/pages/recover-)
   Updated: 2024-02-16T06:31:19Z
+- [12-inch-cast-iron-plate](https://heatequalizer.com/pages/12-inch-cast-iron-plate)
+  Updated: 2026-06-21T06:19:11Z
 
 ## Policies
 
