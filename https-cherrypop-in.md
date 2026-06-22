@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-05-30T08:15:58Z
 - Contact Email: support@cherrypop.in
-- Updated At: 2026-06-15T00:00:31.078Z
+- Updated At: 2026-06-22T00:00:35.474Z
 
 ## Products
 
@@ -810,19 +810,19 @@
 ## Collections
 
 - [Home page](https://cherrypop.in/collections/frontpage)
-  Updated: 2026-06-12T04:01:40Z
+  Updated: 2026-06-16T03:00:51Z
   Total Products: 1
 - [Budget Friendly](https://cherrypop.in/collections/beaded-tank-tops)
-  Updated: 2026-06-12T04:01:40Z
+  Updated: 2026-06-16T03:00:51Z
   Total Products: 8
 - [Top Rated](https://cherrypop.in/collections/top-rated)
-  Updated: 2026-06-12T04:01:40Z
+  Updated: 2026-06-16T03:00:51Z
   Total Products: 8
 - [Latest](https://cherrypop.in/collections/latest)
-  Updated: 2026-06-12T04:01:40Z
+  Updated: 2026-06-16T03:00:51Z
   Total Products: 8
 - [Beaded Tops](https://cherrypop.in/collections/beaded-tops)
-  Updated: 2026-06-12T04:01:40Z
+  Updated: 2026-06-16T03:00:51Z
   Total Products: 38
 - [Graphic Tees](https://cherrypop.in/collections/graphic-tees)
   Updated: 2026-06-12T04:01:40Z
@@ -850,6 +850,16 @@
     Updated: 2026-06-12T06:35:45Z
     Author: My Store Admin
     Tags: aesthetic fashion, beaded fashion tops, beaded tank tops for women, black rib tank top, celestial star tank top, CherryPop, crab tank top, cute tank tops, designer tank tops India, evil eye tank top, fashion tank tops, graphic tank tops women, hand beaded tank tops, handcrafted fashion, jellyfish tank top, mom era tank top, party tank tops, premium tank tops, premium women's fashion, resort wear women, ribbed tank tops women, statement tank tops, strawberry tank top, summer tank tops, trendy women's tops, unique women's clothing, vacation outfits women, white rib tank top, women's casual wear, women's tank tops, y2k fashion tops
+  - [CherryPop Ladybug Handcrafted Cotton Rib Tank Top A Fashion Essential](https://cherrypop.in/blogs/news/cherrypop-ladybug-handcrafted-cotton-rib-tank-top-a-fashion-essential): CherryPop Ladybug Handcrafted Cotton Rib Tank Top A Fashion Essential
+    Updated: 2026-06-15T01:52:36Z
+    Author: CherryPop
+  - [Where to Buy Premium Hand-Beaded Tank Tops Online | Best Women's Fashion Guide 2026](https://cherrypop.in/blogs/news/where-to-buy-premium-hand-beaded-tank-tops-online): Where to Buy Premium Hand-Beaded Tank Tops Online | Best Women's Fashion Guide 2026
+    Updated: 2026-06-16T04:01:28Z
+    Author: My Store Admin
+    Tags: beaded fashion trends, buy beaded tops online, CherryPop, embellished tank tops, hand beaded tank tops, handcrafted clothing, handcrafted fashion India, luxury casual wear, premium beaded tops, premium women's apparel, ribbed tank tops for women, statement fashion, stylish tank tops for women, women's fashion 2026, women's tank tops
+  - [How to Elevate Your Wardrobe with the In My Mom Era Beaded Embroidery Sleeveless Tank Top](https://cherrypop.in/blogs/news/how-to-elevate-your-wardrobe-with-the-in-my-mom-era-beaded-embroidery-sleeveless-tank-top): How to Elevate Your Wardrobe with the In My Mom Era Beaded Embroidery Sleeveless Tank Top
+    Updated: 2026-06-17T01:31:24Z
+    Author: CherryPop
 
 ## Store Pages
 
@@ -861,16 +871,14 @@
   Updated: 2026-06-12T02:52:14Z
 - [Store Policies | CherryPop](https://cherrypop.in/pages/store-policies): Store PoliciesAt CherryPop, we want you to shop with confidence. Please read our store policies below.Return & Refund PolicyWe accept returns withi...
   Updated: 2026-06-04T11:12:59Z
-- [Cancellation & Refund Policy | CherryPop](https://cherrypop.in/pages/cancellation-refund): Cancellation & Refund PolicyAt CherryPop, we strive to ensure your complete satisfaction. Please read our cancellation and refund policy carefully....
-  Updated: 2026-06-04T11:12:59Z
+- [Cancellation & Refund Policy | CherryPop](https://cherrypop.in/pages/refund-policy): Cancellation & Refund PolicyAt CherryPop, we strive to ensure your complete satisfaction. Please read our cancellation and refund policy carefully....
+  Updated: 2026-06-19T11:33:04Z
 - [Privacy Policy | CherryPop](https://cherrypop.in/pages/privacy-policy): Privacy PolicyAt CherryPop, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your perso...
   Updated: 2026-06-04T11:08:28Z
 - [Return Policy | CherryPop](https://cherrypop.in/pages/return-policy): Return PolicyAt CherryPop, your satisfaction is our priority. If you're not completely happy with your purchase, we're here to help.Return WindowWe...
   Updated: 2026-06-04T11:12:59Z
 - [FAQs | CherryPop](https://cherrypop.in/pages/faqs): Frequently Asked QuestionsGot questions? We've got answers! If you can't find what you're looking for, feel free to reach out via our Contact Us pa...
   Updated: 2026-06-04T11:12:59Z
-- [Your Privacy Choices](https://cherrypop.in/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-06-07T07:49:04Z
 - [Shipping Policy](https://cherrypop.in/pages/shipping-policy): CherryPop ke liye ek professional Shipping Policy: At CherryPop, we are committed to delivering your orders safely and on time. Please review our s...
   Updated: 2026-06-12T03:18:19Z
 
