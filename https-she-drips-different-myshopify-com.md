@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2026-04-24T04:37:15Z
-- Updated At: 2026-06-14T00:00:36.516Z
+- Updated At: 2026-06-22T00:00:39.328Z
 
 ## Products
 
@@ -147,7 +147,7 @@
     Availability: Available
     Price: $19.95 USD
 - [Cool Summer Slide Sandals](https://she-drips-different.myshopify.com/products/cool-summer-slide-sandals): The Big Size 47 Summer Slippers are designed for both men and women, featuring a soft EVA bottom that provides comfort for indoor and outdoor use. Lightweight and easy to wear, these flip-flops are perfect for casual beach outings or relaxing at home, ensuring your feet stay cool and comfortable all summer long.
-  Updated: 2026-05-27T01:35:08Z
+  Updated: 2026-06-17T21:59:30Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -766,7 +766,7 @@
 ## Collections
 
 - [Home page](https://she-drips-different.myshopify.com/collections/frontpage)
-  Updated: 2026-05-27T01:35:05Z
+  Updated: 2026-06-18T01:55:57Z
   Total Products: 22
 - [Jewelry + Accessories](https://she-drips-different.myshopify.com/collections/jewelry-accessories): Jewelry selections as well as beautiful accessories.
   Updated: 2026-05-27T01:35:06Z
