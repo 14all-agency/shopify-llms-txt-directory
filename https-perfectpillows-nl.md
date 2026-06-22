@@ -10,20 +10,20 @@
 - Contact Email: info@perfectpillows.nl
 - Contact Phone: 06-14567151
 - Address: Jarmuiden 30-b, 1046 AD Amsterdam
-- Updated At: 2026-06-15T00:00:41.739Z
+- Updated At: 2026-06-22T00:00:44.496Z
 
 ## Products
 
 - [Strak kussen](https://perfectpillows.nl/products/strak-kussen): Strak gevormd kussen met schuimvulling, stevige afwerking.
-  Updated: 2026-06-14T21:25:08Z
+  Updated: 2026-06-21T22:31:53Z
 - [Strak kussen met schuine  kanten](https://perfectpillows.nl/products/strak-kussen-met-schuine-kanten): Strak kussen met één of twee schuine zijden.
-  Updated: 2026-06-14T07:35:16Z
+  Updated: 2026-06-19T07:35:16Z
 - [Rugkussen schuin](https://perfectpillows.nl/products/rugkussen-schuin): Schuin gevormd rugkussen strak afgewerkt voor ondersteuning.
-  Updated: 2026-06-14T05:03:50Z
+  Updated: 2026-06-20T18:15:40Z
 - [Plof kussen met zijband](https://perfectpillows.nl/products/plof-kussen-met-zijband): Zacht kussen met vlokvulling en hogere kern
-  Updated: 2026-06-14T20:46:48Z
+  Updated: 2026-06-21T18:16:36Z
 - [Plof kussen zonder zijband](https://perfectpillows.nl/products/plof-kussen-zonder-zijband): Rond plofkussen met losse vlokvulling, tot 100 cm
-  Updated: 2026-06-14T14:53:12Z
+  Updated: 2026-06-21T18:54:56Z
 - [Sunbrella Natté](https://perfectpillows.nl/products/sunbrella-furniture-natte)
   Updated: 2026-05-03T14:30:26Z
 - [Sunbrella Solids](https://perfectpillows.nl/products/sunbrella-furniture-solids)
@@ -107,10 +107,10 @@
   Updated: 2026-05-05T11:43:11Z
   Total Products: 29
 - [Kussens op maat | Perfect passend en snel geleverd](https://perfectpillows.nl/collections/kussens): Kussens op maat laten maken voor binnen en buiten. Kies jouw stof, maat en afwerking. Binnen 7 dagen geleverd uit eigen atelier.
-  Updated: 2026-06-12T11:28:56Z
+  Updated: 2026-06-20T11:26:17Z
   Total Products: 5
 - [Alle kussens op maat | Stel jouw kussen samen](https://perfectpillows.nl/collections/all): Ontdek al onze kussens op maat en stel eenvoudig jouw ideale kussen samen. Voor binnen en buiten, perfect passend en binnen 7 dagen geleverd.
-  Updated: 2026-06-12T11:28:56Z
+  Updated: 2026-06-20T11:26:17Z
   Total Products: 5
 - [Kussenhoezen op maat bestellen | Duurzame outdoor & Sunbrella stoffen](https://perfectpillows.nl/collections/kussenhoezen-op-maat): Bestel kussenhoezen op maat in elke gewenste stof en kleur. Duurzame outdoor en Sunbrella stoffen, perfect passend gemaakt voor jouw tuin of interieur.
   Updated: 2026-05-05T19:35:08Z
@@ -156,10 +156,13 @@
     Updated: 2026-05-29T19:56:44Z
     Author: Ali Temiz
   - [Kussens op maat voor horeca & strandtenten](https://perfectpillows.nl/blogs/news/kussens-op-maat-voor-horeca-strandtenten): <p>PerfectPillows ontwerpt en produceert hoogwaardige kussens op maat voor horeca en strandtenten. We denken mee vanaf het eerste idee, adviseren over stoffen en vullingen, komen op locatie meten en bezorgen de kussens persoonlijk. Voor intensief buitengebruik werken we met Sunbrella: waterafstotend, schimmelwerend, vuilafstotend en verkrijgbaar in talloze kleuren en structuren. Voor inspiratie ben je altijd welkom in onze showroom in Amsterdam.</p>
-    Updated: 2026-06-05T16:41:52Z
+    Updated: 2026-06-18T19:07:53Z
     Author: Ali Temiz
-  - [Kussens op maat bestellen? Zo meet je jouw bank op! | Perfectpillows](https://perfectpillows.nl/blogs/news/kussens-op-maat-bank-opmetej): Kussens op maat bestellen? Zo meet je jouw bank op! | Perfectpillows
-    Updated: 2026-06-12T18:17:00Z
+  - [Kussens op maat bestellen? Zo meet je jouw bank op](https://perfectpillows.nl/blogs/news/kussens-op-maat-bank-opmeten): Kussens op maat bestellen? Zo meet je jouw bank op
+    Updated: 2026-06-18T19:18:09Z
+    Author: Ali Temiz
+  - [Tuinkussens op maat laten maken | Offerte aanvragen | PerfectPillows](https://perfectpillows.nl/blogs/news/tuinkussens-op-maat-laten-maken): Tuinkussens op maat laten maken | Offerte aanvragen | PerfectPillows
+    Updated: 2026-06-19T19:51:55Z
     Author: Ali Temiz
 
 ## Store Pages
