@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-01-21T05:18:30Z
 - Contact Email: ash@heaustralia.com.au
-- Updated At: 2026-06-09T14:26:39.232Z
+- Updated At: 2026-06-22T00:00:37.357Z
 
 ## Products
 
@@ -194,7 +194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/860003886762.jpg?v=1769074549
   Price: $224.95 AUD
 - [DOMINA Black Rope Teddy & Cuffs – One-Shoulder M/L](https://wildmart.com.au/products/domina-one-shoulder-rope-teddy-cuffs-black-m-l-black-m-l-size): Shop DOMINA One-Shoulder Rope Teddy & Cuffs Black M/L at Wildmart for stylish restraint and ultimate pleasure. Order now – get yours today from Wildmart!
-  Updated: 2026-04-20T05:58:15Z
+  Updated: 2026-06-18T09:57:22Z
   Vendor: wildmart.com
   Product Type: LINGERIE & BODY WEAR
   Availability: Available
@@ -208,14 +208,14 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/2414BLK-SM-B.jpg?v=1769074877
   Price: $74.95 AUD
 - [DOMINA Pink Rope Teddy & Cuffs – One-Shoulder M/L | wildmart](https://wildmart.com.au/products/domina-one-shoulder-rope-teddy-cuffs-pink-pink-m-l-size): Shop DOMINA One-Shoulder Rope Teddy & Cuffs Pink M/L at Wildmart for stylish restraint and playful pleasure. Order now – get yours today from Wildmart!
-  Updated: 2026-04-20T05:58:14Z
+  Updated: 2026-06-18T06:46:36Z
   Vendor: wildmart.com
   Product Type: LINGERIE & BODY WEAR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/2414PNK-ML-B.jpg?v=1769074878
   Price: $58.95 AUD
 - [DOMINA Pink Rope Teddy & Cuffs – One-Shoulder S/M](https://wildmart.com.au/products/domina-one-shoulder-rope-teddy-cuffs-pink-pink-s-m-size): Get DOMINA One-Shoulder Rope Teddy & Cuffs Pink S/M at Wildmart for stylish restraint and playful pleasure. Shop now – order today from Wildmart!
-  Updated: 2026-04-20T05:58:14Z
+  Updated: 2026-06-17T23:47:38Z
   Vendor: wildmart.com
   Product Type: LINGERIE & BODY WEAR
   Availability: Available
@@ -404,46 +404,46 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/WS972.jpg?v=1769074898
   Price: $719.95 AUD
 - [Clone A Willy Kit Molding Powder Refill | Custom Replica Kit | Wildmart](https://wildmart.com.au/products/clone-a-willy-kit-molding-powder-refill): Get Clone A Willy Kit Molding Powder Refill at Wildmart for easy DIY creations and personalized fun. Shop now – order today from Wildmart!
-  Updated: 2026-04-20T05:58:04Z
+  Updated: 2026-06-19T12:48:33Z
   Vendor: Clone a Willy
   Product Type: Dildos & Strapons
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/113262_1.jpg?v=1769075338
+  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/Clone-A-Willy_molding_powder.jpg?v=1781873254
   Price: $26.95 AUD
 - [Clone A Willy Kit Silicone Refill | Custom Replica Refill | Wildmart](https://wildmart.com.au/products/clone-a-willy-kit-silicone-refill): Shop Clone A Willy Kit Silicone Refill at Wildmart for easy refills and personalized pleasure. Order now and create your custom experience – get yours today from Wildmart!
-  Updated: 2026-04-20T05:58:04Z
+  Updated: 2026-06-19T12:46:46Z
   Vendor: Clone a Willy
   Product Type: Dildos & Strapons
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/130076_1.jpg?v=1769075340
+  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/Two_cylindrical_containers_with_lids.jpg?v=1781873192
   Price: $37.95 AUD
 - [Clone A Willy Plus Balls Kit | Vibrating Dildo Set | Wildmart](https://wildmart.com.au/products/clone-a-willy-plus-balls-kit-vibrating-dildo): Get Clone a Willy Plus Balls Kit Vibrating Dildo at Wildmart for personalized fun and ultimate pleasure. Shop now – order today from Wildmart!
-  Updated: 2026-05-13T12:18:48Z
+  Updated: 2026-06-19T12:45:37Z
   Vendor: Clone a Willy
   Product Type: Dildos & Strapons
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/113260_1.jpg?v=1769075340
+  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/Clone-A-Willy_product_packaging.jpg?v=1781872992
   Price: $127.95 AUD
 - [Clone A Pussy Kit | Create a Realistic Custom Replica | Wildmart](https://wildmart.com.au/products/clone-a-pussy): Shop Clone a Pussy Kit at Wildmart for fun and personalized pleasure. Order now and create your custom experience – get yours today from Wildmart!
-  Updated: 2026-04-20T05:58:03Z
+  Updated: 2026-06-19T12:42:15Z
   Vendor: Clone a Willy
   Product Type: Male  Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/113261_3.jpg?v=1769075341
+  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/Clone-A-Pussy_product.jpg?v=1781872905
   Price: $36.95 AUD
-- [Refill your Clone A Willy Kit with | hot pink silicone | Wildmart](https://wildmart.com.au/products/clone-a-willy-kit-silicone-refill-hot-pink): Get Clone A Willy Kit Silicone Refill Hot Pink at Wildmart for fun and personalized pleasure. Shop now and create your custom experience – order today from Wildmart!
-  Updated: 2026-05-03T23:55:17Z
+- [Refill your Clone A Willy Kit with | Hot Pink Silicone | Wildmart](https://wildmart.com.au/products/clone-a-willy-kit-silicone-refill-hot-pink): Get Clone A Willy Kit Silicone Refill Hot Pink at Wildmart for fun and personalized pleasure. Shop now and create your custom experience – order today from Wildmart!
+  Updated: 2026-06-19T12:38:53Z
   Vendor: Clone a Willy
   Product Type:  Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/165146_1.jpg?v=1769075342
   Price: $37.95 AUD
 - [Clone A Willy Kit Silicone Refill | Medium Skin Tone | Wildmart](https://wildmart.com.au/products/clone-a-willy-kit-silicone-refill-medium-skin-tone): Shop Clone A Willy Kit Silicone Refill Medium Skin Tone at Wildmart for easy refills and personalized pleasure. Order now – get yours today from Wildmart!
-  Updated: 2026-04-20T05:58:03Z
+  Updated: 2026-06-19T12:40:47Z
   Vendor: Clone a Willy
   Product Type:  Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/167660_1.jpg?v=1769075343
+  Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/Two_cylindrical_containers.jpg?v=1781872832
   Price: $37.95 AUD
 - [Enduro Blaster 12.7 cm | Flesh 5" Realistic Dong | Wildmart](https://wildmart.com.au/products/enduro-blaster-flesh-12-7-cm-5-dong): Get Enduro Blaster Flesh 12.7 cm Dong at Wildmart for realistic design and ultimate pleasure. Shop now and elevate your experience – order today from Wildmart!
   Updated: 2026-04-20T05:58:03Z
@@ -962,28 +962,28 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/156348_1.jpg?v=1769131990
   Price: $15.95 AUD
 - [Luiza Thong Red | Sexy & Comfortable Lingerie | Wildmart](https://wildmart.com.au/products/luiza-thong-red): Get Luiza Thong Red at Wildmart for a perfect blend of style and comfort. Shop now and refresh your lingerie collection – order today from Wildmart!
-  Updated: 2026-04-20T05:57:40Z
+  Updated: 2026-06-18T02:46:39Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/156350_1.jpg?v=1769131991
   Price: $15.95 AUD
 - [Bodysuit BS036 Black | Sexy & Elegant Lingerie | Wildmart](https://wildmart.com.au/products/bodysuit-bs036-black): Shop Bodysuit BS036 Black at Wildmart for a sleek and elegant look. Order now to upgrade your wardrobe – get yours today from Wildmart!
-  Updated: 2026-04-20T05:57:39Z
+  Updated: 2026-06-17T23:47:38Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/155410_1.jpg?v=1769131992
   Price: $38.95 AUD
 - [Bodysuit BS036 Red | Sexy & Elegant Lingerie | Wildmart](https://wildmart.com.au/products/bodysuit-bs036-red): Get Bodysuit BS036 Red at Wildmart for a bold and stylish look. Shop now and elevate your wardrobe – order yours today from Wildmart!
-  Updated: 2026-04-20T05:57:39Z
+  Updated: 2026-06-18T05:50:31Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/155411_1.jpg?v=1769131992
   Price: $30.95 AUD
 - [Bodysuit BS036 White | Sexy & Elegant Lingerie | Wildmart](https://wildmart.com.au/products/bodysuit-bs036-white): Shop Bodysuit BS036 White at Wildmart for a chic and comfortable fit. Order now to enhance your wardrobe – grab yours today from Wildmart!
-  Updated: 2026-04-20T05:57:39Z
+  Updated: 2026-06-17T23:50:25Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
@@ -1004,35 +1004,35 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/155417_1.jpg?v=1769131995
   Price: $39.95 AUD
 - [Lace Boyshort Hot Pink | Sexy & Comfortable Lingerie | Wildmart](https://wildmart.com.au/products/lace-boyshort-hot-pink): Shop Lace Boyshort Hot Pink at Wildmart for ultimate comfort and style. Grab yours now and feel confident every day – order today from Wildmart!
-  Updated: 2026-04-20T05:57:37Z
+  Updated: 2026-06-18T06:43:03Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161325_1.jpg?v=1769131995
   Price: $17.95 AUD
 - [Lace Boyshort Orange | Sexy & Comfortable Lingerie | Wildmart](https://wildmart.com.au/products/lace-boyshort-orange): Get Lace Boyshort Orange at Wildmart for a perfect blend of comfort and style. Shop now and elevate your everyday wardrobe – buy today from Wildmart!
-  Updated: 2026-04-20T05:57:37Z
+  Updated: 2026-06-18T01:26:22Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161326_1.jpg?v=1769131996
   Price: $17.95 AUD
 - [Lace Boyshort Red | Sexy & Comfortable Lingerie | Wildmart](https://wildmart.com.au/products/lace-boyshort-red): Shop Lace Boyshort Red at Wildmart – bold, comfortable and flattering. Buy now to add a vibrant and stylish touch to your lingerie collection.
-  Updated: 2026-04-20T05:57:37Z
+  Updated: 2026-06-18T12:56:17Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161327_1.jpg?v=1769131997
   Price: $17.95 AUD
 - [Lace Boyshort White | Sexy & Comfortable Lingerie | Wildmart](https://wildmart.com.au/products/lace-boyshort-white): Shop Lace Boyshort White at Wildmart – elegant, comfortable and flattering. Buy now to enhance your lingerie collection with this stylish piece.
-  Updated: 2026-04-20T05:57:36Z
+  Updated: 2026-06-18T03:28:51Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161329_1.jpg?v=1769131997
   Price: $17.95 AUD
 - [Sexy Lace Thong Orange | Elegant & Comfortable Lingerie | wildmart](https://wildmart.com.au/products/sexy-lace-thong-orange): Shop Sexy Lace Thong Orange at Wildmart – vibrant, comfortable and flattering. Buy now to add a bold and stylish touch to your lingerie collection.
-  Updated: 2026-04-20T05:57:36Z
+  Updated: 2026-06-18T03:45:00Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
@@ -1067,21 +1067,21 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161281_1.jpg?v=1769132001
   Price: $15.95 AUD
 - [Y Back Thong White | Sexy & Comfortable Lingerie | Wildmart](https://wildmart.com.au/products/y-back-thong-white): Shop Y Back Thong White at Wildmart – sleek, comfortable and flattering. Buy now to enhance your lingerie collection with this must-have piece.
-  Updated: 2026-04-20T05:57:35Z
+  Updated: 2026-06-18T00:52:00Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161283_1.jpg?v=1769132002
   Price: $15.95 AUD
 - [Lace Keyhole Pantie Black | Sexy & Elegant Lingerie | Wildmart](https://wildmart.com.au/products/lace-keyhole-pantie-black): Shop Lace Keyhole Pantie Black at Wildmart – sexy, elegant and comfortable. Buy now to add a bold and stylish touch to your lingerie collection.
-  Updated: 2026-04-20T05:57:35Z
+  Updated: 2026-06-18T01:47:06Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161285_1.jpg?v=1769132002
   Price: $15.95 AUD
 - [Lace Keyhole Pantie Red | Sexy & Elegant Lingerie | Wildmart](https://wildmart.com.au/products/lace-keyhole-pantie-red): Shop Lace Keyhole Pantie Red at Wildmart – sexy, elegant and comfortable. Buy now to add a bold and stylish touch to your lingerie collection.
-  Updated: 2026-04-20T05:57:34Z
+  Updated: 2026-06-18T05:28:33Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
@@ -1095,7 +1095,7 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161293_1.jpg?v=1769132005
   Price: $15.95 AUD
 - [Perfect Thong White | Sexy & Comfortable Lingerie| Wildmart](https://wildmart.com.au/products/perfect-thong-white): Shop Perfect Thong White at Wildmart – comfortable, stylish and flattering. Buy now to enhance your lingerie collection with this essential piece.
-  Updated: 2026-04-20T05:57:34Z
+  Updated: 2026-06-18T01:34:34Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
@@ -1109,14 +1109,14 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161300_1.jpg?v=1769132007
   Price: $17.95 AUD
 - [High Leg Thong White | Sexy & Comfortable Lingerie | wildmart](https://wildmart.com.au/products/high-leg-thong-white): Shop High Leg Thong White at Wildmart – stylish, comfortable and flattering. Buy now to upgrade your lingerie collection with this must-have piece.
-  Updated: 2026-04-20T05:57:33Z
+  Updated: 2026-06-17T20:54:56Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/161302_1.jpg?v=1769132008
   Price: $17.95 AUD
 - [Lace Boyshort Black | Sexy & Comfortable Lingerie | wildmart](https://wildmart.com.au/products/lace-boyshort-black): Shop Lace Boyshort Black at Wildmart – elegant, comfortable and flattering. Buy now to add a touch of style and confidence to your lingerie collection.
-  Updated: 2026-04-20T05:57:33Z
+  Updated: 2026-06-18T01:46:35Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
@@ -1130,7 +1130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/162902_1.jpg?v=1769132010
   Price: $31.95 AUD
 - [Bodysuit BS088 White | Sexy & Elegant Lingerie | wildmart](https://wildmart.com.au/products/bodysuit-bs088-white): Shop Bodysuit BS088 White at Wildmart – stylish, comfortable and flattering. Buy now to elevate your wardrobe with this must-have piece.
-  Updated: 2026-04-20T05:57:33Z
+  Updated: 2026-06-18T00:37:07Z
   Vendor: wildmart.com
   Product Type: Lingerie
   Availability: Available
@@ -2119,13 +2119,13 @@
   Updated: 2026-05-14T03:29:17Z
   Total Products: 5
 - [Bondage Toys | BDSM & Bondage Gear Australia](https://wildmart.com.au/collections/bondage): Explore bondage toys and accessories at Wildmart Australia. Discover quality gear, trusted brands & discreet delivery. Shop the bondage collection now at Wildmart.
-  Updated: 2026-05-15T11:41:43Z
+  Updated: 2026-06-18T12:32:53Z
   Total Products: 30
 - [Clone-A-Willy Molding Kits | Buy Online Australia](https://wildmart.com.au/collections/clone-a-willy): Create a personalized toy with Clone-A-Willy kits at Wildmart Australia. Fun, safe & discreet. Order your kit today and start your custom experience!
-  Updated: 2026-05-14T03:29:17Z
+  Updated: 2026-06-19T16:24:27Z
   Total Products: 6
 - [Dildos |  Pleasure Toys Australia](https://wildmart.com.au/collections/dildos): Shop  Toys for Couples at Wildmart – premium, body-safe products designed to enhance intimacy and pleasure. Buy now to elevate your shared experiences.
-  Updated: 2026-05-14T03:29:21Z
+  Updated: 2026-06-19T16:24:27Z
   Total Products: 21
 - [LELO  Toys | Premium Pleasure Toys Australia](https://wildmart.com.au/collections/lelo): Discover premium LELO toys at Wildmart Australia. Luxury designs, top brands & discreet delivery. Browse the collection and order your LELO today!
   Updated: 2026-05-14T03:29:21Z
@@ -2134,7 +2134,7 @@
   Updated: 2026-03-27T04:09:04Z
   Total Products: 9
 - [Sexy Lingerie | Women’s Lingerie Australia](https://wildmart.com.au/collections/lingerie): Shop stylish lingerie at Wildmart Australia. Discover sexy, comfy styles for every occasion. Browse now and upgrade your wardrobe today!
-  Updated: 2026-04-10T04:05:01Z
+  Updated: 2026-06-18T16:29:16Z
   Total Products: 26
 - [ Dolls | Realistic Love Dolls Australia](https://wildmart.com.au/collections/-dolls): Shop realistic  dolls and love dolls in Australia. Explore high-quality  dolls with discreet shipping and great prices. Order online today.
   Updated: 2026-05-14T04:23:43Z
@@ -2161,7 +2161,7 @@
   Updated: 2026-05-18T11:43:17Z
   Total Products: 70
 - [Ladies  Toys |  Toys for Women Australia](https://wildmart.com.au/collections/ladies--toys): Discover premium ladies  toys at Wildmart Australia. Enjoy top brands, body-safe designs & discreet delivery. Shop now and explore at Wildmart!
-  Updated: 2026-05-18T11:43:17Z
+  Updated: 2026-06-19T16:24:27Z
   Total Products: 192
 - [Vibrators |  Vibrators Australia](https://wildmart.com.au/collections/vibrators): Shop premium dildos at Wildmart Australia. Explore top brands, body-safe designs & discreet delivery. Browse the collection and order today at Wildmart.
   Updated: 2026-05-18T11:43:17Z
@@ -2176,16 +2176,16 @@
   Updated: 2026-05-18T11:43:17Z
   Total Products: 29
 - [Trending Toys](https://wildmart.com.au/collections/trending-toys): Shop Trending Toys at Wildmart – discover the hottest pleasure products everyone is talking about. Buy now to experience the latest sensations.
-  Updated: 2026-05-15T11:41:43Z
+  Updated: 2026-06-19T16:24:19Z
   Total Products: 12
 - [Valentine's Day Toys](https://wildmart.com.au/collections/valentines-day-toys): Shop Valentine’s Day Toys Collection at Wildmart Australia. Find fun, romantic gifts to surprise your loved ones. Order now before it’s gone!
-  Updated: 2026-05-18T11:43:17Z
+  Updated: 2026-06-18T08:35:42Z
   Total Products: 55
 - [Pjur Lube | Premium Personal Lubricants Australia](https://wildmart.com.au/collections/pjur): Shop Pjur lubricants at Wildmart Australia. Premium, body-safe lubes for smooth pleasure with discreet delivery. Browse the range and order today!
   Updated: 2026-05-14T04:23:43Z
   Total Products: 8
 - [  Toys Australia | Save Big on  Toys | Wildmart](https://wildmart.com.au/collections/special-offers): Shop   toys Australia at Wildmart. Explore special offers,  deals and save big on premium  toys online.
-  Updated: 2026-05-18T11:43:17Z
+  Updated: 2026-06-18T08:35:42Z
   Total Products: 53
 - [B-Vibe](https://wildmart.com.au/collections/b-vibe)
   Updated: 2026-05-14T04:23:51Z
@@ -2243,10 +2243,13 @@
     Updated: 2026-05-15T16:44:14Z
     Author: Dona Senara
   - [How to Ride a Dildo Perfectly?](https://wildmart.com.au/blogs/news/how-to-ride-a-dildo-perfectly)
-    Updated: 2026-05-15T16:50:15Z
+    Updated: 2026-06-11T08:51:34Z
     Author: Dona Senara
   - [Why  Wellness Should Be Part of Everyday Health](https://wildmart.com.au/blogs/news/why--wellness-should-be-part-of-everyday-health)
     Updated: 2026-05-22T19:14:29Z
+    Author: Dona Senara
+  - [Types of  Toys](https://wildmart.com.au/blogs/news/types-of--toys)
+    Updated: 2026-06-12T19:42:30Z
     Author: Dona Senara
 
 ## Store Pages
