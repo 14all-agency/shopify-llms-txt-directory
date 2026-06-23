@@ -8,7 +8,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-29T15:35:06Z
 - Contact Email: sav.lecomptoirdesfragrances@gmail.com
-- Updated At: 2026-06-16T00:00:34.637Z
+- Updated At: 2026-06-23T00:00:37.149Z
 
 ## Products
 
@@ -27,7 +27,7 @@
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/magique_5.jpg?v=1781134020
   Price: 34,90 € EUR
 - [Oud Nomade - Extrait de Parfum Homme - Inspiré de Ombre Nomade](https://www.lecomptoirdesfragrances.com/products/parfum-oudnomade): Parfum Oude Nomade, parfum dupe masculin, extrait de parfum fabriqué en France. Sillage intense et raffiné, inspiré Ombre Nomade, parfait pour les occasions spéciales.
-  Updated: 2026-06-11T11:11:00Z
+  Updated: 2026-06-20T11:50:12Z
   Vendor: Comptoir Des Fragrances
   Product Type: Inspiration Ombre Nomade
   Availability: Available
