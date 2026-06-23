@@ -6,971 +6,971 @@
 - Timezone: America/Santiago
 - Created At: 2025-09-10T20:41:23Z
 - Contact Email: soporte@sb100dobrasil.cl
-- Updated At: 2026-06-09T20:33:26.243Z
+- Updated At: 2026-06-23T00:00:45.696Z
 
 ## Products
 
 - [Semi Definitiva TECHNOLOGY 3000 1L](https://www.sb100dobrasil.cl/products/semi-definitiva-technology-3000): Tecnología 3000 SIC Alisado Superior Semi Definitivo 1l Su fórmula desestructura el cabello; al mismo tiempo; La manteca de murumuru y el aceite de semilla de grosella espinosa hidratan y mantienen el equilibrio natural del cabello. Nutre y protege el cabello desde la raíz hasta las puntas, manteniendo el cabello con un aspecto sano y liso. Activos principales: Ácido málico extraído de manzanas, Ácido hialurónico, Aceite de semilla de grosella y Manteca de Murumuru. Resultado: Alisado Superior Semipermanente. Nutrición e hidratación sin dañar el cabello. ¿Para qué tipo de cabello? Apto para todo tipo de cabello, alinea las hebras, reduce el volumen y aporta suavidad. Técnicas de Reducción de Volumen Paso a Paso 1 – Dividir el cabello en 4 partes, aplicar Tecnology 3000 SIC Semi Definitiva mechón a mechón con una brocha, respetando siempre 1 centímetro desde la raíz. Poner una funda de plástico. Nota: No es necesario lavarse el cabello para aplicar el producto; 2 – Dejar actuar de 50 a 60 minutos, según la estructura del cabello, realineando los mechones con un peine fino cada 10 minutos. Pasado el tiempo de descanso, enjuaga tu cabello con abundante agua; 3 – Seca y alisa los mechones finos de 5 a 10 veces cada mechón. 4 – Luego termina como desees. *Prueba de hebra Aplica una cantidad de producto en un mechón de la parte superior de tu cabeza. Espere 15 minutos, enjuague, luego cepille y alise. Si hay signos de daño en el cabello, no aplicar el producto hasta que se haya recuperado y haya sido sometido a una prueba de nueva mecha.
-  Updated: 2026-06-09T15:22:32Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: SIC
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/alisado_3000_1l.jpg?v=1778773532
   Price: 99.990,00 $ CLP
 - [Acondicionador Matizador Rubio Ceniza 300ml - Gota Dourada](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-rubio-ceniza-3d-300-ml): ✨Acondicionador Matizador 3D Rubio Ceniza – 300 ml 🌟 Cabello rubio ceniza, luminoso y libre de tonos amarillentos. El Acondicionador Matizador 3D Rubio Ceniza 300 ml fue desarrollado para cabellos rubios naturales, decolorados o con mechas que necesitan mantener un tono frío y uniforme. Su fórmula enriquecida con pigmentos ceniza y pantenol neutraliza los tonos amarillentos, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para mantener un rubio ceniza saludable, luminoso y sin opacidad. 🧬 Ingredientes clave 💎 Pigmentos ceniza: Neutralizan los tonos amarillentos y cálidos. 💧 Pantenol: Hidrata y fortalece la fibra capilar. 🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios 🌟 Neutraliza los tonos amarillentos no deseados. 💎 Cabello más suave, manejable y con color uniforme. 💧 Hidratación intensa sin apelmazar. 🌬️ Rubios ceniza, luminosos y saludables. 🧼 Cómo se usa 1️⃣ Lava el cabello con champú habitual o matizador. 2️⃣ Aplica el acondicionador 3D Rubio Ceniza de medios a puntas. 3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Rubio Ceniza y mantener un rubio ceniza radiante y uniforme en presentación de 300 ml.
-  Updated: 2026-06-09T15:22:32Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/perolamatiz.jpg?v=1777305235
   Price: 13.990,00 $ CLP
 - [Crema Activador Mis Rizos Perfectos Argán y Queratina - Gota Dourada](https://www.sb100dobrasil.cl/products/crema-de-peinar-mi-activador-de-rizos-perfectos-argan-y-queratina-1-kg): ✨ Activador de Mis Rizos Perfectos Gota Dourada – 1 kg 🌟 Rizos definidos, fuertes e hidratados. El Activador de Rizos Perfectos Argán y Queratina fue desarrollado para potenciar la forma natural de los rizos, otorgando definición, fuerza y control del frizz. Su fórmula enriquecida con aceite de argán y queratina fortalece la fibra capilar, hidrata profundamente y aporta suavidad y brillo, facilitando el peinado y realzando la elasticidad natural de los rizos. Ideal para cabellos rizados u ondulados que necesitan nutrición, fortalecimiento y definición duradera. 🧬 Ingredientes clave💎 Aceite de argán: Nutre, aporta brillo y suavidad extrema.💧 Queratina: Fortalece y repara la fibra capilar.🌿 Extractos naturales: Hidratan y mejoran la elasticidad del rizo. ✨ Beneficios🌟 Definición intensa y duradera de los rizos.💎 Cabello más fuerte, manejable y con brillo saludable.💧 Hidratación profunda sin apelmazar.🌬️ Reduce frizz y mejora la elasticidad del rizo. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo o seco.2️⃣ Distribuye uniformemente de medios a puntas.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Mis Rizos Perfectos y potenciar la definición, fuerza y nutrición de los rizos.
-  Updated: 2026-06-09T03:30:25Z
+  Updated: 2026-06-20T02:17:37Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MeuCachoPerfeitoCremadePeinarArganyQueratina.jpg?v=1777303881
   Price: 13.990,00 $ CLP
 - [Meu Cacho Perfeito Queratina Vegetal y Colágeno – Crema De Peinar 1 kg](https://www.sb100dobrasil.cl/products/crema-de-peinar-mis-rizos-perfectos-queratina-vegetal-y-colageno-1-kg): ✨ Crema de Peinar Mis Rizos Perfectos – 1 kgCon queratina vegetal y colágeno. Define y fortalece los rizos, hidrata profundamente y deja el cabello suave, brillante y con movimiento natural desde la primera aplicación. ✨ Crema de Peinar Mis Rizos Perfectos – 1 kg 🌟 Rizos definidos, fuertes e hidratados. La Crema de Peinar Mis Rizos Perfectos con queratina vegetal y colágeno fue desarrollada para quienes buscan resaltar la belleza de sus rizos mientras fortalecen y nutren la fibra capilar. Su fórmula enriquecida con queratina vegetal y colágeno aporta fuerza, elasticidad y suavidad, definiendo los rizos sin apelmazarlos y reduciendo el frizz. Ideal para cabellos rizados u ondulados que necesitan nutrición, fortaleza y control del rizo. 🧬 Ingredientes clave💎 Queratina vegetal: Fortalece y repara la fibra capilar.💧 Colágeno: Aporta elasticidad y mejora la estructura del rizo.🌿 Extractos naturales: Hidratan, suavizan y aportan brillo saludable. ✨ Beneficios🌟 Definición y control del rizo sin apelmazar.💎 Cabello más fuerte, suave y manejable.💧 Hidratación intensa que respeta la forma natural del rizo.🌬️ Reduce frizz y mejora la elasticidad del cabello. 🧼 Cómo se usa1️⃣ Aplica una cantidad adecuada sobre el cabello húmedo o seco.2️⃣ Distribuye de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Mis Rizos Perfectos y potenciar la definición, fortaleza y nutrición de los rizos en presentación de 1 kg.
-  Updated: 2026-06-09T03:35:17Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/CremaDePeinarMisRizosPerfectosQueratinaVegetalyColageno.jpg?v=1777301966
   Price: 13.990,00 $ CLP
 - [Máscara Vegano Amazonía 1 kg](https://www.sb100dobrasil.cl/products/mascara-vegano-amazonia-1-kg): ✨ Máscara Vegano Amazonia – 1 kg🌟 Cabello reparado, nutrido e hidratado en profundidad. La Máscara Vegano Amazonia fue desarrollada para quienes buscan recuperar la salud y vitalidad del cabello de manera natural y responsable. Su fórmula enriquecida con extractos vegetales y aceites nutritivos penetra profundamente en la fibra capilar, reparando daños, aportando hidratación intensa y dejando un acabado suave, brillante y manejable. Ideal para todo tipo de cabello que necesita nutrición y fortalecimiento sin químicos agresivos. 🧬 Ingredientes clave💎 Aceites nutritivos: Hidratan, suavizan y aportan brillo saludable.🌿 Extractos vegetales: Nutren, fortalecen y protegen la fibra capilar.💧 Componentes acondicionadores: Facilitan el desenredo y reducen el frizz. ✨ Beneficios🌟 Reparación profunda de la fibra capilar.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa y duradera.🌬️ Reduce frizz y fortalece el cabello contra daños futuros. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello limpio y húmedo.2️⃣ Distribuye uniformemente de medios a puntas.3️⃣ Deja actuar 3 a 5 minutos y enjuaga con abundante agua. Ideal para complementar con la línea Amazonia Vegano y mantener el cabello nutrido, reparado e hidratado de manera natural y responsable.
-  Updated: 2026-06-09T15:22:23Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mascara-amazonia.jpg?v=1778773532
   Price: 47.990,00 $ CLP
 - [Pack Hidratación Sic](https://www.sb100dobrasil.cl/products/pack-hidratacion-sic): ✨ Pack Hidratación SIC Amazonia🌟 Rutina completa para hidratación y definición.Kit capilar que combina limpieza, hidratación, nutrición y finalización, ayudando a mejorar la apariencia del cabello, dejándolo más suave, brillante y manejable. 🧴 Contenido del pack🫧 Shampoo Vegano Amazonia 1 L: Limpia y nutre.💧 Máscara Vegano Amazonia 1 Kg: Hidratación intensiva.🌀 Activador de Cachos 250 g: Define y controla el frizz.🌿 Aceite Pracaxi 30 ml: Aporta brillo y protección.💎 Cristal Reparador 30 ml: Sella puntas y protege. ✨ Beneficios🌟 Hidratación profunda.💧 Nutrición y suavidad.🌀 Definición de rizos y control del frizz.💎 Brillo y protección de puntas. 🧼 Cómo se usa1️⃣ Lavar con shampoo.2️⃣ Aplicar la máscara y enjuagar.3️⃣ Usar activador de cachos para definir.4️⃣ Finalizar con aceite o cristal en puntas. Ideal para cabellos rizados u ondulados que buscan hidratación y definición.
-  Updated: 2026-06-07T16:50:44Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/32.png?v=1759154808
   Price: 124.900,00 $ CLP
 - [Acondicionador Fortalecedor para Cabello Rizado 430 ml](https://www.sb100dobrasil.cl/products/acondicionador-fortalecedor-para-cabello-rizado-430-ml): 🌀 Acondicionador Fortalecedor Capilar para Cabello Rizado – 430 ml ✨ Hidratación intensa y fortalecimiento para rizos saludables y resistentes. El Acondicionador Fortalecedor para Cabello Rizado ha sido diseñado para nutrir la fibra capilar después de la limpieza, aportando suavidad, fuerza y definición sin apelmazar. Su fórmula con biotina, pantenol y proteínas vegetales ayuda a reducir la rotura, controla el frizz y mantiene los rizos más flexibles y brillantes. 🧬 Ingredientes clave💪 Biotina: Refuerza la estructura del cabello y previene la caída por quiebre.💧 Pantenol (Pro-Vitamina B5): Proporciona hidratación profunda y elasticidad.🌱 Proteínas vegetales: Reparan y nutren la fibra capilar. ✨ Beneficios🌟 Desenredo fácil y sin tirones.💧 Hidratación equilibrada que evita el frizz.🌀 Rizos más definidos, suaves y resistentes.💎 Brillo natural y sensación ligera. 🧼 Cómo se usa1️⃣ Después del shampoo, aplica sobre el cabello húmedo, de medios a puntas.2️⃣ Masajea suavemente y deja actuar unos minutos.3️⃣ Enjuaga bien.4️⃣ Para mejores resultados, completa el ritual con el Champú Fortalecedor Cabello Rizado y la Mascarilla Fortalecedora.
-  Updated: 2026-06-09T03:28:46Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/condicionadorcacheados.jpg?v=1777301874
   Price: 12.990,00 $ CLP
 - [Mascarilla Fortalecedora para Cabello Rizado 1 kg Gota Dourada](https://www.sb100dobrasil.cl/products/mascarilla-fortalecedora-cabello-rizado-1-kg): Hidratación profunda y rizos más fuertes desde la raíz hasta las puntas. Con biotina, pantenol y proteínas vegetales. Nutre e Hidrata profundamente, fortalece y define los rizos, reduciendo el frizz y la rotura capilar. Envio a todo Chile.
-  Updated: 2026-06-09T03:32:15Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: Mascara Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/06341_gota_dourada_fortalecimiento_rizos.png?v=1779040746
   Price: 13.990,00 $ CLP
 - [Hialurónico - Kit Shampoo y Acondicionador 300 ml](https://www.sb100dobrasil.cl/products/kit-hialuronico-300-ml): ✨ Kit Hialurónico – 300 mlCon ácido hialurónico y pantenol. Limpia, hidrata y suaviza el cabello, dejando un brillo saludable y manejabilidad desde la primera aplicación. ✨ Kit Hialurónico – 300 ml 🌟 Cabello hidratado, suave y con brillo saludable. El Kit Hialurónico fue desarrollado para quienes buscan limpieza, nutrición e hidratación intensiva en un solo paso. Su fórmula enriquecida con ácido hialurónico y pantenol fortalece la fibra capilar, hidrata en profundidad y deja el cabello manejable, suave y con un acabado brillante. Ideal para todo tipo de cabello que necesita cuidado diario y protección contra la resequedad. 🧬 Ingredientes clave💎 Ácido hialurónico: Hidrata profundamente y retiene la humedad en la fibra capilar.💧 Pantenol: Fortalece y suaviza el cabello, aportando manejabilidad.🌿 Extractos acondicionadores: Facilitan el desenredo y aportan brillo saludable. ✨ Beneficios🌟 Limpieza suave y efectiva.💎 Hidratación intensa y duradera.💧 Cabello más suave, manejable y con brillo natural.🌬️ Fortalece la fibra capilar y reduce el frizz. 🧼 Cómo se usa1️⃣ Lava el cabello con el shampoo Hialurónico del kit, masajeando suavemente.2️⃣ Aplica el acondicionador Hialurónico, de medios a puntas, y deja actuar 2 a 3 minutos.3️⃣ Enjuaga y seca como de costumbre. Ideal para complementar con la línea Hialurónica y mantener un cabello hidratado, suave y saludable en una presentación práctica de 300 ml.
-  Updated: 2026-06-09T03:43:04Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/22.png?v=1759154830
   Price: 15.990,00 $ CLP
 - [Acondicionador Matizador 3D Marsala 120 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-marsala-120-ml): ✨ Acondicionador Matizador 3D Marsala – 120 mlCon pigmentos marsala y pantenol. Neutraliza tonos indeseados, hidrata profundamente y deja el cabello con un color intenso, brillante y saludable desde la primera aplicación. ✨ Acondicionador Matizador 3D Marsala – 120 ml 🌟 Cabello con color marsala intenso, brillante y uniforme. El Acondicionador Matizador 3D Marsala 120 ml fue desarrollado para cabellos teñidos o con mechas que necesitan mantener un tono cálido y elegante sin perder intensidad. Su fórmula enriquecida con pigmentos marsala y pantenol neutraliza los tonos no deseados, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para cabellos que buscan un color sofisticado y duradero. 🧬 Ingredientes clave💎 Pigmentos marsala: Neutralizan tonos indeseados y realzan la intensidad del color.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Mantiene y potencia el color marsala intenso.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación profunda sin apelmazar.🌬️ Color brillante, saludable y duradero. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Marsala de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Marsala y mantener un cabello con color intenso y radiante en presentación práctica de 120 ml.
-  Updated: 2026-06-09T15:22:16Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/03-1.png?v=1759154839
   Price: 6990,00 $ CLP
 - [Acondicionador Matizador 3D Super Black 120 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-super-black-120-ml): ✨ Acondicionador Matizador 3D Super Black – 120 mlCon pigmentos negros y pantenol. Neutraliza tonos cálidos, hidrata profundamente y deja el cabello negro intenso, suave y brillante desde la primera aplicación. ✨ Acondicionador Matizador 3D Super Black – 120 ml 🌟 Cabello negro intenso, brillante y sin tonos indeseados. El Acondicionador Matizador 3D Super Black 120 ml fue desarrollado para cabellos negros o muy oscuros que necesitan mantener un color profundo y uniforme. Su fórmula enriquecida con pigmentos negros y pantenol neutraliza los tonos cálidos no deseados, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para cabellos teñidos, con mechas oscuras o naturales que buscan un negro intenso y saludable. 🧬 Ingredientes clave💎 Pigmentos negros: Neutralizan tonos cálidos y amarillentos.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Neutraliza tonos cálidos no deseados.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación intensa sin apelmazar.🌬️ Color negro intenso, brillante y saludable. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Super Black de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Super Black y mantener un color intenso y radiante, ahora en presentación práctica de 120 ml.
-  Updated: 2026-06-09T15:22:15Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/04-1.png?v=1759154849
   Price: 6990,00 $ CLP
 - [Acondicionador Matizador 3D Rojo Intenso 120 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-rojo-intenso-120-ml): ✨ Acondicionador Matizador 3D Rojo Intenso – 120 mlCon pigmentos rojos y pantenol. Intensifica el color, hidrata profundamente y deja el cabello rojo brillante, suave y lleno de vida desde la primera aplicación. ✨ Acondicionador Matizador 3D Rojo Intenso – 120 ml 🌟 Cabello rojo intenso, brillante y con color duradero. El Acondicionador Matizador 3D Rojo Intenso 120 ml fue desarrollado para cabellos teñidos o con mechas rojas que necesitan mantener un tono vibrante y uniforme. Su fórmula enriquecida con pigmentos rojos y pantenol intensifica el color, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para mantener un rojo intenso, saludable y con apariencia radiante. 🧬 Ingredientes clave💎 Pigmentos rojos: Intensifican y mantienen el color.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Mantiene y potencia el color rojo intenso.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación profunda sin apelmazar.🌬️ Color vibrante, brillante y saludable. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Rojo Intenso de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Rojo Intenso y mantener un cabello rojo vibrante y radiante en presentación práctica de 120 ml.
-  Updated: 2026-06-09T15:22:14Z
+  Updated: 2026-06-10T17:38:13Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/Sin-titulo-1-1.png?v=1759154858
   Price: 6990,00 $ CLP
 - [Meu Cacho Perfeito Aguacate, Argán y Coco - Crema de Peinar 1 kg](https://www.sb100dobrasil.cl/products/crema-de-peinar-mis-rizos-perfectos-aguacate-argan-y-coco-1-kg): ✨ Mis Rizos Perfectos Crema para Peinar – 1 kg 🌟 Rizos definidos, hidratados y llenos de brillo. La Crema para Peinar Mis Rizos Perfectos fue desarrollada para quienes desean resaltar la belleza de sus rizos con nutrición profunda y control del frizz. Su fórmula enriquecida con aceite de aguacate y aceite de argán fortalece la fibra capilar, hidrata en profundidad y aporta suavidad y brillo, facilitando el peinado y definiendo los rizos sin apelmazarlos. Ideal para cabellos rizados u ondulados que necesitan nutrición, elasticidad y control. 🧬 Ingredientes clave💎 Aceite de aguacate: Nutre y fortalece la fibra capilar.💧 Aceite de argán: Repara, aporta brillo y suavidad extrema.🌿 Extractos naturales: Protegen y mejoran la elasticidad del rizo. ✨ Beneficios🌟 Definición y control del rizo sin apelmazar.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa que respeta la forma natural del rizo.🌬️ Reduce frizz y facilita el peinado. 🧼 Cómo se usa1️⃣ Aplica una cantidad adecuada sobre el cabello húmedo o seco.2️⃣ Distribuye de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Mis Rizos Perfectos y potenciar la definición, nutrición y brillo de los rizos.
-  Updated: 2026-06-09T03:38:00Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MisRizosPerfectosCremadePeinarAguacate_ArganyCoco-1kg.jpg?v=1777303926
   Price: 13.990,00 $ CLP
 - [Kit Gotissima Top Hair – Shampoo y Acondicionador 300 ml](https://www.sb100dobrasil.cl/products/kit-gotissima-top-hair-300-ml): ✨ Kit Gotissima Top Hair – Shampoo y Acondicionador 300 ml🌟 Cabello fuerte, reparado y con brillo saludable. El Kit Gotisima Top Hair fue desarrollado para cabellos que necesitan reparación profunda y fortalecimiento. Su fórmula enriquecida con keratina vegetal, pantenol y aceites nutritivos actúa directamente sobre la fibra capilar, reparando daños, fortaleciendo el cabello y proporcionando suavidad y brillo desde la primera aplicación. Ideal para cabellos dañados, quebradizos o con tratamientos químicos. 🧬 Ingredientes clave💎 Keratina vegetal: Repara y fortalece la fibra capilar.💧 Pantenol: Hidrata y aumenta la elasticidad del cabello.🌿 Aceites nutritivos: Nutren, sellan la cutícula y aportan suavidad extrema. ✨ Beneficios🌟 Fortalecimiento y reparación profunda del cabello.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa sin apelmazar.🌬️ Protege contra daños causados por químicos y herramientas de calor. 🧼 Cómo se usa1️⃣ Lava con el shampoo Top Hair sobre el cabello húmedo, masajeando suavemente. Enjuaga bien.2️⃣ Aplica el acondicionador Top Hair de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga.
-  Updated: 2026-06-09T03:55:34Z
+  Updated: 2026-06-10T17:38:13Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/gotissimatophair.jpg?v=1777302844
   Price: 9990,00 $ CLP
 - [Kit Gotissima Show Curl – Shampoo y Acondicionador 300 ml](https://www.sb100dobrasil.cl/products/kit-gotissima-show-curl-300-ml): ✨ Kit Gotisima Show Curl orvalho de jojoba – 300 ml🌟 Rizos definidos, hidratados y con brillo natural. Con pantenol, aceites nutritivos y extracto de aloe vera. Define y controla los rizos, hidrata profundamente y deja el cabello suave, brillante y con movimiento natural desde la primera aplicación. El Kit Gotisima Show Curl fue desarrollado para quienes desean resaltar la belleza de sus rizos sin frizz ni resequedad. Su fórmula enriquecida con pantenol, aceites nutritivos y extracto de aloe vera hidrata profundamente, define cada rizo y aporta suavidad y brillo. Ideal para cabellos rizados o con ondas que necesitan control, nutrición y elasticidad. 🧬 Ingredientes clave💎 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Aceites nutritivos: Nutren, sellan la cutícula y aportan suavidad extrema.💧 Extracto de aloe vera: Hidrata profundamente y mejora la elasticidad del cabello. ✨ Beneficios🌟 Definición y control del rizo sin frizz.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa que respeta la forma natural del rizo.🌬️ Rizos elásticos y con movimiento natural. 🧼 Cómo se usa1️⃣ Lava con el shampoo Show Curl sobre el cabello húmedo, masajeando suavemente. Enjuaga bien.2️⃣ Aplica el acondicionador Show Curl de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea Gotisima Show Curl y potenciar la definición de los rizos.
-  Updated: 2026-06-09T03:29:13Z
+  Updated: 2026-06-20T02:17:37Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/04.png?v=1759154873
   Price: 9990,00 $ CLP
 - [Máscara Intensiva Free Damage](https://www.sb100dobrasil.cl/products/mascara-intensiva-free-damage): Repara el daño profundo, nutre y fortalece la fibra capilar con esta mascarilla intensiva de SIC. Ideal para cabellos debilitados por calor o químicos. La Máscara Intensiva Free Damage de SIC Cosmetics es un tratamiento capilar restaurador que actúa en las capas internas del cabello para reparar el daño estructural causado por el uso frecuente de secador, plancha, tintes o procesos químicos. Beneficios principales: ✔️ Reconstrucción profunda de la fibra capilar ✔️ Reducción visible del quiebre y las puntas abiertas ✔️ Cabello más fuerte, suave y brillante desde el primer uso Ideal para incluir en tu rutina semanal de reparación capilar. Apta para todo tipo de cabello, en especial los sensibilizados o tratados químicamente.
-  Updated: 2026-06-09T15:22:11Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SIC017.jpg?v=1760054163
   Price: 49.990,00 $ CLP
 - [Champú Detox Free Metal](https://www.sb100dobrasil.cl/products/champu-detox-free-metal): Elimina residuos de metales pesados y toxinas del cuero cabelludo con este shampoo detox de uso profesional. Ideal para su uso luego de tratamientos químicos. El Shampoo Detox Free Metal de SIC Cosmetics es un tratamiento profesional diseñado para purificar el cuero cabelludo y la fibra capilar. Su fórmula avanzada ayuda a remover residuos de metales pesados, minerales y toxinas acumuladas por el agua, productos y contaminación ambiental. Beneficios principales: ✔️ Limpieza profunda sin resecar ✔️ Ideal como primer paso antes de alisados, coloraciones o tratamientos intensivos ✔️ Favorece una mejor absorción de activos en tratamientos posteriores Indicado para todo tipo de cabello, especialmente en rutinas post-tratamiento o como detox semanal.
-  Updated: 2026-06-09T15:22:10Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SIC016.jpg?v=1760054167
   Price: 41.990,00 $ CLP
 - [Pack Gota Estelar – Brillo, nutrición y matizado profesional](https://www.sb100dobrasil.cl/products/pack-gota-estelar-brillo-nutricion-y-matizado-profesional): Un trío poderoso para el cuidado del cabello rubio, decolorado o dañado. Brillo, nutrición profunda y matizado 3D desde la primera aplicación. Pack Gota Estelar – Kit completo para cabellos rubios y decolorados ¿Buscas un cabello brillante, suave y sin tonos amarillos indeseados? Este pack es tu solución profesional en casa. El Pack Gota Estelar combina lo mejor de Gota Dourada y Gotíssima para hidratar, reconstruir y matizar el cabello dañado o rubio desde la primera aplicación. Incluye: ✔️ Shampoo Gotíssima Blond Girl 300 mlCon pantenol, miel y quinoa. Limpieza suave y reparadora para cabellos rubios o con mechas. ✔️ Acondicionador Gotíssima Blond Girl 300 mlNutrición intensiva para desenredar, suavizar y devolver la elasticidad a la fibra capilar. ✔️ Acondicionador Matizador 3D Pérola 300 mlNeutraliza los tonos amarillos, aporta brillo y deja el cabello luminoso gracias al extracto de perla y proteína de soya. 💜 Ideal para:Cabellos rubios, decolorados, con mechas o dañados por el calor. 🔥 Resultados:Cabello más brillante, nutrido, sin frizz y con un tono más uniforme y saludable. Modo de uso sugerido: Lava tu cabello con el shampoo Blond Girl. Aplica el acondicionador Blond Girl de medios a puntas, deja actuar y enjuaga. 1 o 2 veces por semana, reemplaza el acondicionador por el Matizador 3D Pérola para mantener el tono perfecto.
-  Updated: 2026-06-07T16:50:44Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/Pack.png?v=1760054171
   Price: 23.990,00 $ CLP
 - [Pack Liso Prolongado Radiante](https://www.sb100dobrasil.cl/products/pack-liso-radiante): Kit Completo Fortalecimiento Cabello Liso Escova Gota Dourada Mantén tu cabello liso, suave, brillante y sin frizz por más tiempo. El Kit Completo Fortalecimiento Cabello Liso Escova Gota Dourada es una rutina capilar diseñada para cuidar, hidratar y prolongar el efecto liso del cabello. Incluye shampoo, acondicionador, mascarilla y crema sin enjuague, entregando un tratamiento completo desde el lavado hasta la finalización. Ideal para cabellos lisos, alisados, con frizz o difíciles de peinar, ayudando a mantener una apariencia más disciplinada, suave y con brillo de salón todos los días. ¿Para qué sirve? Este pack ayuda a mantener el cabello más liso, manejable y controlado, reduciendo el frizz y mejorando la suavidad de la fibra capilar. Su fórmula con activos como keratina, aceite de argán y extractos naturales ayuda a fortalecer el cabello, sellar la cutícula, aportar brillo y prolongar el efecto liso por más tiempo. ¿Qué incluye el pack? Shampoo Gota Dourada Liso Profesional 430 mlLimpia suavemente el cabello, eliminando impurezas sin resecar. Prepara la fibra capilar para recibir los siguientes pasos de la rutina, dejando el cabello más ligero, limpio y manejable. Acondicionador Gota Dourada Liso Profesional 430 mlAyuda a desenredar, suavizar y sellar la cutícula capilar. Aporta una sensación más sedosa al cabello y contribuye a mantener el efecto liso por más tiempo. Mascarilla Capilar Gota Dourada Liso Profesional 1 kgTratamiento intensivo que hidrata, nutre y fortalece la hebra capilar. Ayuda a devolver el brillo natural, mejorar la textura del cabello y reducir la apariencia de resequedad. Crema Sin Enjuague Liso Prolongado 320 mlLeave-in sin enjuague que ayuda a controlar el frizz, facilitar el peinado y mantener el cabello más alineado durante el día. Ideal para finalizar la rutina y proteger el aspecto liso del cabello. Beneficios principales ✅ Ayuda a mantener el cabello liso por más tiempo.✅ Controla el frizz desde la primera aplicación.✅ Aporta hidratación, nutrición y suavidad.✅ Mejora el brillo y la apariencia saludable del cabello.✅ Facilita el peinado y reduce el volumen no deseado.✅ Ayuda a sellar la cutícula capilar.✅ Ideal para rutinas post-alisado.✅ Rutina completa para lavar, tratar, acondicionar y finalizar. ¿Cómo se usa? 1. Shampoo:Aplica sobre el cabello mojado, masajeando suavemente el cuero cabelludo y el largo del cabello. Enjuaga con abundante agua. Repite si es necesario. 2. Acondicionador:Después del shampoo, aplica de medios a puntas. Deja actuar unos minutos y enjuaga. 3. Mascarilla:Utiliza 1 a 2 veces por semana como tratamiento intensivo. Aplica sobre el cabello limpio y húmedo, deja actuar de 10 a 15 minutos y enjuaga completamente. 4. Crema sin enjuague:Aplica una pequeña cantidad sobre el cabello húmedo o seco, distribuyendo de medios a puntas. No enjuagar. Peina como de costumbre. Ideal para Cabellos lisos, alisados, con frizz, con volumen no deseado, opacos o difíciles de manejar. Resultado esperado Cabello más liso, suave, brillante, hidratado y disciplinado, con menor frizz y una sensación sedosa al tacto.
-  Updated: 2026-06-09T15:22:08Z
+  Updated: 2026-06-11T17:48:22Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/packescova.jpg?v=1777305010
-  Price: 50.960,00 $ CLP
+  Price: 45.990,00 $ CLP
 - [Mascara Botox Matizador SIC Cosmeticos](https://www.sb100dobrasil.cl/products/botox-matizador): Cabello rubio con mechas Especialmente desarrollado para cabellos rubios o con mechas. Su fórmula contiene Colágeno, Elastina, Activo Violeta Ácido importado de Estados Unidos. Cabello increíblemente hidratado, suave, sin encrespamiento y con el tono perfecto. Sobre el producto Su fórmula contiene: Violeta Ácido que actúa como tinte, neutralizando el amarillo no deseado, intensificando y haciendo el color más vibrante. También contiene Colágeno, Elastina y Lípidos, que en conjunto actúan sobre la fibra capilar, fortaleciendo la estructura interna y externa del cabello dañado, favoreciendo su recuperación. Sus principios activos asientan las cutículas aportando suavidad, sedosidad y brillo intenso. Cómo aplicar Mascara Botox Matizador SIC CosmeticosAplicar sobre el cabello lavado y aún húmedo, masajeando suavemente el Botox Matizador SIC, dejándolo actuar durante 10 minutos, para potenciar los resultados se puede utilizar un gorro. Enjuague bien. Cantidad900 gramos.
-  Updated: 2026-06-09T15:22:07Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: SIC
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mascara_botox_matizadora_sic_cosmeticos_profesional_900_gr.png?v=1778778599
   Price: 41.990,00 $ CLP
 - [Cauterizador Toque de Seda 1L | SIC Tratamiento Capilar Profesional](https://www.sb100dobrasil.cl/products/cauterizador-toque-de-seda-1l): Cauterizador profesional SIC Toque de Seda 1L. Recupera elasticidad, sella cutículas y elimina el frizz desde la primera aplicación. Envío a todo Chile.
-  Updated: 2026-06-09T15:22:07Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: SIC
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/toque_de_seda.jpg?v=1778773532
   Price: 99.990,00 $ CLP
 - [Acondicionador Matizador 3D Rubio Ceniza 120 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-rubio-ceniza-120-ml): ✨ Acondicionador Matizador 3D Rubio Ceniza – 120 mlCon pigmentos ceniza y pantenol. Neutraliza los tonos amarillentos, hidrata profundamente y deja el cabello rubio ceniza, suave y brillante desde la primera aplicación. ✨ Acondicionador Matizador 3D Rubio Ceniza – 120 ml 🌟 Cabello rubio ceniza, luminoso y libre de tonos amarillentos. El Acondicionador Matizador 3D Rubio Ceniza 120 ml fue desarrollado para cabellos rubios naturales, decolorados o con mechas que necesitan mantener un tono frío y uniforme. Su fórmula enriquecida con pigmentos ceniza y pantenol neutraliza los tonos amarillentos, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para mantener un rubio ceniza saludable, luminoso y sin opacidad. 🧬 Ingredientes clave💎 Pigmentos ceniza: Neutralizan los tonos amarillentos y cálidos.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Neutraliza los tonos amarillentos no deseados.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación intensa sin apelmazar.🌬️ Rubios ceniza, luminosos y saludables. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Rubio Ceniza de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Rubio Ceniza y mantener un rubio ceniza radiante y uniforme en presentación práctica de 120 ml.
-  Updated: 2026-06-09T04:00:29Z
+  Updated: 2026-06-10T17:38:14Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/27.png?v=1760054190
   Price: 6990,00 $ CLP
 - [Shampoo Hialurónico 300 ml](https://www.sb100dobrasil.cl/products/champu-hialuronico-300-ml): ✨ Shampoo Hialurónico – 300 ml 🌟 Cabello limpio, hidratado y con brillo saludable. El Shampoo Hialurónico de Gota Dourada fue desarrollado para limpiar el cabello mientras proporciona una hidratación profunda, fortaleciendo la fibra capilar y aportando suavidad y brillo. Su fórmula enriquecida con ácido hialurónico y pantenol ayuda a mantener la hidratación natural del cabello, ideal para todo tipo de cabello que necesita nutrición y cuidado diario. 🧬 Ingredientes clave💎 Ácido hialurónico: Hidrata profundamente y retiene la humedad en la fibra capilar.💧 Pantenol: Fortalece, hidrata y aporta suavidad al cabello.🌿 Extractos acondicionadores: Facilitan el desenredo y aportan brillo saludable. ✨ Beneficios🌟 Limpieza efectiva sin resecar el cabello.💎 Hidratación profunda y duradera.💧 Cabello más suave, manejable y con brillo natural.🌬️ Fortalece la fibra capilar y protege contra el frizz. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo y masajea suavemente hasta generar espuma.2️⃣ Deja actuar 1 a 2 minutos y enjuaga con abundante agua.3️⃣ Repite si es necesario y complementa con acondicionador o crema hidratante. Ideal para complementar con la línea Hialurónica y mantener un cabello hidratado, suave y saludable.
-  Updated: 2026-06-09T15:22:01Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/06.png?v=1760054208
   Price: 8990,00 $ CLP
 - [Meu Cacho Perfeito Aloe – Crema de Peinar 1kg](https://www.sb100dobrasil.cl/products/crema-de-peinar-mis-rizos-perfectos-aloe-oil-1-kg): ✨ Mis Rizos Perfectos Aloe Oil Crema para Peinar – 1 kg 🌟 Rizos definidos, hidratados y con brillo saludable. La Crema para Peinar Mis Rizos Perfectos Aloe Oil fue desarrollada para quienes buscan cuidar y definir sus rizos con nutrición profunda y control del frizz. Su fórmula enriquecida con aloe vera y aceites nutritivos hidrata la fibra capilar, fortalece el cabello y aporta suavidad y brillo, facilitando el peinado y definiendo los rizos sin apelmazarlos. Ideal para cabellos rizados u ondulados que necesitan elasticidad, suavidad y control. 🧬 Ingredientes clave💎 Aloe vera: Hidrata, calma y mejora la elasticidad del rizo.💧 Aceites nutritivos: Nutren, suavizan y fortalecen la fibra capilar.🌿 Extractos naturales: Aportan suavidad y brillo saludable. ✨ Beneficios🌟 Definición y control del rizo sin apelmazar.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa que respeta la forma natural del rizo.🌬️ Reduce frizz y facilita el peinado. 🧼 Cómo se usa1️⃣ Aplica una cantidad adecuada sobre el cabello húmedo o seco.2️⃣ Distribuye de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Mis Rizos Perfectos y potenciar la definición, nutrición y suavidad de los rizos.
-  Updated: 2026-06-09T03:45:34Z
+  Updated: 2026-06-11T18:16:28Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/006.png?v=1760054218
   Price: 13.990,00 $ CLP
 - [Meu Cacho Perfeito Coco y D Pantenol – Crema para Peinar 1 kg](https://www.sb100dobrasil.cl/products/crema-de-peinar-mis-rizos-perfectos-coco-y-d-pantenol-1-kg): ✨ Mis Rizos Perfectos Crema para Peinar – 1 kg 🌟 Rizos definidos, hidratados y con brillo saludable. La Crema para Peinar Mis Rizos Perfectos con aceite de coco fue desarrollada para quienes buscan nutrir y definir sus rizos con cuidado intensivo. Su fórmula enriquecida con aceite de coco hidrata profundamente, fortalece la fibra capilar y aporta suavidad y brillo, facilitando el peinado y definiendo los rizos sin apelmazarlos. Ideal para cabellos rizados u ondulados que necesitan nutrición, elasticidad y control del frizz. 🧬 Ingredientes clave💎 Aceite de coco: Nutre, hidrata y fortalece la fibra capilar.🌿 Extractos naturales: Suavizan, aportan brillo y mejoran la elasticidad del rizo. ✨ Beneficios🌟 Definición y control del rizo sin apelmazar.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa que respeta la forma natural del rizo.🌬️ Reduce frizz y facilita el peinado. 🧼 Cómo se usa1️⃣ Aplica una cantidad adecuada sobre el cabello húmedo o seco.2️⃣ Distribuye de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Mis Rizos Perfectos y potenciar la definición, nutrición y suavidad de los rizos.
-  Updated: 2026-06-09T03:45:13Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MisRizosPerfectosCremaparaPeinarCocoyDPantenol.jpg?v=1777304016
   Price: 13.990,00 $ CLP
 - [Meu Cacho Perfeito Coco y Macadamia – Crema De Peinar 1kg](https://www.sb100dobrasil.cl/products/crema-de-peinar-mis-rizos-perfectos-aceite-de-coco-y-macadamia-1-kg): ✨ Mis Rizos Perfectos Crema para Peinar – 1 kg 🌟 Rizos definidos, hidratados y con brillo saludable. La Crema para Peinar Mis Rizos Perfectos con aceite de macadamia fue desarrollada para quienes buscan nutrir y definir sus rizos con cuidado intensivo. Su fórmula enriquecida con aceite de macadamia hidrata profundamente, fortalece la fibra capilar y aporta suavidad y brillo, facilitando el peinado y definiendo los rizos sin apelmazarlos. Ideal para cabellos rizados u ondulados que necesitan nutrición, elasticidad y control del frizz. 🧬 Ingredientes clave💎 Aceite de macadamia: Nutre, hidrata y fortalece la fibra capilar.🌿 Extractos naturales: Suavizan, aportan brillo y mejoran la elasticidad del rizo. ✨ Beneficios🌟 Definición y control del rizo sin apelmazar.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa que respeta la forma natural del rizo.🌬️ Reduce frizz y facilita el peinado. 🧼 Cómo se usa1️⃣ Aplica una cantidad adecuada sobre el cabello húmedo o seco.2️⃣ Distribuye de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Mis Rizos Perfectos y potenciar la definición, nutrición y suavidad de los rizos.
-  Updated: 2026-06-09T03:52:34Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/crema_de_peinar_gota_dourada_meu_cacho_perfeito_aceite_de_coco_aceite_de_macadamia.png?v=1778698285
   Price: 13.990,00 $ CLP
 - [Meu Cacho Perfeito Vitamina E y Quinoa - Crema De Peinar 1 kg](https://www.sb100dobrasil.cl/products/crema-de-peinar-mis-rizos-perfectos-vitamina-e-y-quinoa-1-kg): ✨ Crema de Peinar Mis Rizos Perfectos – 1 kg 🌟 Rizos definidos, hidratados y con brillo saludable. La Crema de Peinar Mis Rizos Perfectos con vitamina E y quinoa fue desarrollada para quienes buscan nutrir y proteger sus rizos, manteniendo su definición y elasticidad natural. Su fórmula enriquecida con vitamina E y extracto de quinoa hidrata profundamente, aporta fuerza, suavidad y brillo, facilitando el peinado y reduciendo el frizz. Ideal para cabellos rizados u ondulados que necesitan nutrición, protección y control del rizo. 🧬 Ingredientes clave💎 Vitamina E: Potente antioxidante que protege y fortalece la fibra capilar.💧 Quinoa: Nutre, hidrata y mejora la elasticidad del rizo.🌿 Extractos naturales: Suavizan y aportan brillo saludable. ✨ Beneficios🌟 Definición y control del rizo sin apelmazar.💎 Cabello más fuerte, suave y manejable.💧 Hidratación intensa que respeta la forma natural del rizo.🌬️ Reduce frizz y protege el cabello de daños ambientales. 🧼 Cómo se usa1️⃣ Aplica una cantidad adecuada sobre el cabello húmedo o seco.2️⃣ Distribuye de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Mis Rizos Perfectos y potenciar la definición, nutrición y protección de los rizos en presentación de 1 kg.
-  Updated: 2026-06-09T15:21:58Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/CremaDePeinarMisRizosPerfectosVitaminaEyQuinoa1kg.jpg?v=1777302019
   Price: 13.990,00 $ CLP
 - [Shampoo Home Care Tecnology 3000 Sic Cosmeticos Profesional Brasil](https://www.sb100dobrasil.cl/products/shampoo-home-care-tecnology-3000-250-ml): Limpieza profunda y cuidado para cabellos tratados químicamente. Formulado para ayudar a mantener la apariencia del cabello alisado, teñido o decolorado, aportando suavidad, hidratación y protección del color. Envio a todo Chile.
-  Updated: 2026-06-09T04:01:29Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoo-kit-homcare.jpg?v=1778773532
   Price: 14.990,00 $ CLP
 - [Mask Home Care Tecnology 3000 250 ml](https://www.sb100dobrasil.cl/products/mask-home-care-tecnology-3000-250-ml): ✨ Mask Home Care Tecnology 3000 – 250 ml🌟 Cabello reparado, fuerte e hidratado. La Mask Home Care Tecnology 3000 fue desarrollada para reparar daños, nutrir y fortalecer el cabello en casa. Su fórmula enriquecida con queratina y aceites nutritivos penetra profundamente en la fibra capilar, aportando suavidad, brillo y manejabilidad desde la primera aplicación. Ideal para cabellos secos, dañados o con frizz que necesitan nutrición intensa y cuidado profesional en casa. 🧬 Ingredientes clave💎 Queratina: Fortalece y repara la fibra capilar.💧 Aceites nutritivos: Hidratan, suavizan y aportan brillo saludable.🌿 Extractos acondicionadores: Facilitan el desenredo y reducen el frizz. ✨ Beneficios🌟 Reparación profunda y fortalecimiento del cabello.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa y duradera.🌬️ Control del frizz y protección de la fibra capilar. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello limpio y húmedo, de medios a puntas.2️⃣ Deja actuar 3 a 5 minutos.3️⃣ Enjuaga con abundante agua y peina como de costumbre. Ideal para complementar con la rutina Home Care Tecnology 3000 y mantener el cabello reparado, hidratado y saludable desde la comodidad del hogar.
-  Updated: 2026-06-09T15:21:56Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mascara.jpg?v=1778773532
   Price: 14.900,00 $ CLP
 - [Desfrizante Home Care Tecnology 3000 250 ml](https://www.sb100dobrasil.cl/products/desfrizante-home-care-tecnology-3000-250-ml): ✨ Desfrizante Home Care Tecnology 3000 – 250 ml🌟 Cabello liso, disciplinado y con brillo saludable. El Desfrizante Home Care Tecnology 3000 fue desarrollado para alisar y nutrir el cabello en casa, proporcionando un acabado suave y manejable sin dañar la fibra capilar. Su fórmula enriquecida con queratina y aceites nutritivos repara, fortalece y controla el frizz, dejando un cabello sedoso y brillante desde la primera aplicación. Ideal para cabellos con encrespamiento o difíciles de manejar que buscan un alisado eficaz y duradero. 🧬 Ingredientes clave💎 Queratina: Fortalece y repara la fibra capilar.💧 Aceites nutritivos: Hidratan, suavizan y aportan brillo saludable.🌿 Extractos acondicionadores: Facilitan el peinado y controlan el frizz. ✨ Beneficios🌟 Alisado efectivo y control del frizz.💎 Cabello más suave, manejable y con brillo saludable.💧 Nutrición e hidratación profunda sin apelmazar.🌬️ Facilita el peinado y protege la fibra capilar. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello limpio y húmedo, de medios a puntas.2️⃣ Deja actuar según las indicaciones del producto (consultar instrucciones).3️⃣ Enjuaga y peina como desees, utilizando secador o plancha si se requiere. Ideal para complementar con la rutina de cuidado capilar Home Care Tecnology 3000 y mantener un cabello liso, fuerte y saludable en casa.
-  Updated: 2026-06-09T04:01:09Z
+  Updated: 2026-06-20T18:57:38Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/desfrizante.jpg?v=1778773532
   Price: 14.900,00 $ CLP
 - [SIC Shampoo Vegano Amazonía Vegano 1 lt](https://www.sb100dobrasil.cl/products/champu-vegano-amazonia-vegano-1-lt): ✨ Shampoo Vegano Amazonia Sic Cosmetics – 1 L 🌟 Cabello limpio, nutrido e hidratado. El Shampoo Vegano Amazonia fue desarrollado para limpiar y cuidar el cabello de manera natural y responsable. Su fórmula enriquecida con extractos vegetales y aceites nutritivos hidrata profundamente, fortalece la fibra capilar y deja un acabado suave, brillante y manejable sin químicos agresivos. Ideal para todo tipo de cabello que busca nutrición y cuidado diario. 🧬 Ingredientes clave💎 Aceites nutritivos: Hidratan, suavizan y aportan brillo saludable.🌿 Extractos vegetales: Nutren y fortalecen la fibra capilar.💧 Componentes acondicionadores: Facilitan el desenredo y reducen el frizz. ✨ Beneficios🌟 Limpieza suave y efectiva sin resecar el cabello.💎 Cabello más suave, manejable y con brillo natural.💧 Hidratación profunda y duradera.🌬️ Fortalece la fibra capilar y reduce el frizz. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo y masajea suavemente hasta generar espuma.2️⃣ Deja actuar 1 a 2 minutos y enjuaga con abundante agua.3️⃣ Repite si es necesario y complementa con la Máscara Vegano Amazonia o acondicionador de la línea. Ideal para complementar con la línea Amazonia Vegano y mantener un cabello limpio, hidratado y saludable de manera natural y responsable.
-  Updated: 2026-06-09T15:21:54Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampo_vegano.jpg?v=1778773532
   Price: 37.990,00 $ CLP
 - [Activador de cachos Amazonía Vegano 250 gr](https://www.sb100dobrasil.cl/products/activador-de-cachos-amazonia-vegano-250-gr): ✨ Activador de Cachos Amazonia Vegano – 250 g🌟 Rizos definidos, hidratados y con movimiento natural. El Activador de Cachos Amazonia Vegano fue desarrollado para quienes buscan resaltar la belleza de sus rizos de manera natural y responsable. Su fórmula enriquecida con extractos vegetales y aceites nutritivos define los rizos, hidrata la fibra capilar y aporta suavidad y brillo, reduciendo el frizz y facilitando el peinado. Ideal para cabellos rizados u ondulados que necesitan nutrición, elasticidad y definición. 🧬 Ingredientes clave💎 Extractos vegetales: Nutren y fortalecen la fibra capilar.💧 Aceites nutritivos: Hidratan y aportan brillo saludable.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Definición natural de los rizos sin apelmazar.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa que respeta la forma del rizo.🌬️ Reduce frizz y mejora la elasticidad del cabello. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo o seco.2️⃣ Distribuye uniformemente de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Amazonia Vegano y potenciar la definición, nutrición y suavidad de los rizos de manera natural y responsable.
-  Updated: 2026-06-09T15:21:54Z
+  Updated: 2026-06-16T02:04:02Z
   Vendor: SIC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/amazonia.jpg?v=1778773532
+  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/activador_de_rizos_amazonia_sic.jpg?v=1781532223
   Price: 17.990,00 $ CLP
 - [Spray Protector Térmico 3x1  240 ml](https://www.sb100dobrasil.cl/products/spray-protector-termico-3x1-240-ml): ✨ 3x1 Protector Térmico – 240 ml 🌟 Cabello protegido, hidratado y con brillo saludable. El 3x1 Protector Térmico fue desarrollado para proteger el cabello del daño causado por herramientas de calor como planchas, secadores o rizadores, mientras hidrata y controla el frizz. Su fórmula ligera y nutritiva fortalece la fibra capilar, aportando suavidad, brillo y manejabilidad, sin dejar sensación pesada. Ideal para todo tipo de cabello que requiere protección diaria y cuidado integral. 🧬 Ingredientes clave💎 Filtro térmico: Protege la fibra capilar de altas temperaturas.💧 Ingredientes hidratantes: Mantienen la hidratación y suavidad del cabello.🌿 Extractos nutritivos: Aportan brillo y manejabilidad. ✨ Beneficios🌟 Protege el cabello del calor hasta 220 °C.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidrata y nutre sin apelmazar.🌬️ Controla frizz y aporta acabado sedoso. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo o seco antes de usar herramientas de calor.2️⃣ Distribuye uniformemente de medios a puntas.3️⃣ Peina como de costumbre y procede al estilizado térmico. Ideal para complementar con la rutina de cuidado capilar y mantener el cabello protegido, hidratado y con brillo saludable.
-  Updated: 2026-06-09T15:21:53Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/009.png?v=1760054282
   Price: 19.990,00 $ CLP
 - [Cristal reparador de puntas 30 ml](https://www.sb100dobrasil.cl/products/cristal-reparador-de-puntas-30-ml): ✨ Cristal Reparador de Puntas – 30 ml🌟 Puntas reparadas, cabello suave y con brillo saludable. El Cristal Reparador de Puntas fue desarrollado para sellar las puntas abiertas y proteger la fibra capilar del daño diario. Su fórmula enriquecida con aceites nutritivos y vitaminas hidrata profundamente, reduce el frizz y aporta un acabado sedoso y brillante sin dejar sensación pesada. Ideal para todo tipo de cabello que requiere cuidado focalizado en las puntas. 🧬 Ingredientes clave💎 Aceites nutritivos: Hidratan, suavizan y aportan brillo saludable.💧 Vitaminas: Fortalecen y protegen la fibra capilar.🌿 Ingredientes acondicionadores: Facilitan el peinado y reducen el frizz. ✨ Beneficios🌟 Repara y sella puntas abiertas.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidrata y nutre sin apelmazar.🌬️ Controla frizz y protege la fibra capilar. 🧼 Cómo se usa1️⃣ Aplica unas gotas sobre las puntas del cabello limpio o seco.2️⃣ Distribuye suavemente con los dedos o un peine de dientes anchos.3️⃣ Peina y estiliza como de costumbre. Ideal para complementar con tu rutina de cuidado capilar y mantener las puntas reparadas, suaves y brillantes.
-  Updated: 2026-06-09T15:21:52Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/reparador_de_pontas.jpg?v=1778773532
   Price: 17.990,00 $ CLP
 - [Aceite Pracaxi Vegano Amazonía 30 ml](https://www.sb100dobrasil.cl/products/aceite-pracaxi-vegano-amazonia-30-ml): ✨ Aceite Pracaxi Vegano Amazonia – 30 ml🌟 Cabello hidratado, nutrido y con brillo saludable. El Aceite Pracaxi Vegano Amazonia fue desarrollado para proporcionar nutrición intensa y cuidado natural al cabello seco, dañado o con frizz. Su fórmula 100% vegetal, enriquecida con aceite de pracaxi, hidrata profundamente, fortalece la fibra capilar y aporta un acabado sedoso y brillante, dejando el cabello suave, manejable y saludable. Ideal para todo tipo de cabello que busca nutrición y protección sin químicos agresivos. 🧬 Ingredientes clave💎 Aceite de pracaxi: Nutre, hidrata y mejora la elasticidad del cabello.🌿 Extractos vegetales: Suavizan, aportan brillo y protegen la fibra capilar.💧 Componentes acondicionadores: Facilitan el desenredo y reducen el frizz. ✨ Beneficios🌟 Hidrata y nutre profundamente la fibra capilar.💎 Cabello más suave, manejable y con brillo saludable.💧 Reduce el frizz y protege el cabello contra daños ambientales.🌬️ Acabado sedoso sin sensación grasa. 🧼 Cómo se usa1️⃣ Aplica unas gotas sobre el cabello húmedo o seco, de medios a puntas.2️⃣ Distribuye uniformemente con las manos o un peine de dientes anchos.3️⃣ Peina y estiliza como desees. Ideal para complementar con la línea Amazonia Vegano y mantener el cabello nutrido, hidratado y con brillo saludable de manera natural.
-  Updated: 2026-06-09T15:21:51Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: SIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/amazonia_sic_vegano_oleo.jpg?v=1778773532
   Price: 31.990,00 $ CLP
 - [Acondicionador Matizador 3D Grafito 300 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-grafito-300-ml): ✨ Acondicionador Matizador 3D Grafito – 300 mlCon pigmentos grises y pantenol. Neutraliza tonos cálidos no deseados, hidrata profundamente y deja el cabello gris/negro platinado, suave y brillante desde la primera aplicación. ✨ Acondicionador Matizador 3D Grafito – 300 ml 🌟 Cabello gris/negro platinado, uniforme y brillante. El Acondicionador Matizador 3D Grafito fue desarrollado para cabellos gris platinado, negro cenizo o con mechas que necesitan neutralizar tonos cálidos y mantener un color intenso y elegante. Su fórmula enriquecida con pigmentos grises y pantenol neutraliza los tonos amarillentos o cobrizos, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para mantener un color sofisticado, frío y duradero. 🧬 Ingredientes clave💎 Pigmentos grises: Neutralizan tonos cálidos y mantienen el color frío.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Neutraliza tonos cálidos no deseados.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación profunda sin apelmazar.🌬️ Color gris/negro intenso, brillante y saludable. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Grafito de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Grafito y mantener un cabello con color frío, intenso y radiante.
-  Updated: 2026-06-09T15:21:49Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/10.png?v=1760054309
   Price: 13.990,00 $ CLP
 - [Champú Fortalecedor para Cabello Rizado 430 ml](https://www.sb100dobrasil.cl/products/champu-fortalecedor-para-cabello-rizado-430-ml): 🌀 Champú Fortalecedor Cabello Rizado – 430 mlCon biotina, pantenol y proteínas vegetales. Limpia suavemente, hidrata y fortalece los rizos, dejándolos definidos, resistentes y con brillo natural. 🌀 Champú Fortalecedor Capilar para Cabello Rizado – 430 ml ✨ Limpieza suave que cuida y fortalece tus rizos desde la raíz hasta las puntas. El Champú Fortalecedor para Cabello Rizado está especialmente desarrollado para las necesidades de los rizos, que requieren limpieza eficaz sin resecar y un refuerzo extra de nutrición. Su fórmula con biotina, pantenol y proteínas vegetales fortalece la fibra capilar, reduce la rotura y mantiene los rizos más definidos, brillantes y saludables. 🧬 Ingredientes clave💪 Biotina: Promueve el fortalecimiento y resistencia del cabello.💧 Pantenol (Pro-Vitamina B5): Aporta hidratación profunda y elasticidad.🌱 Proteínas vegetales: Nutren y reparan la fibra capilar. ✨ Beneficios🌟 Limpieza eficaz sin resecar los rizos.💧 Hidratación equilibrada y control del frizz.🌀 Rizos más fuertes, definidos y elásticos.💎 Brillo natural y sensación de suavidad. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo, masajeando suavemente el cuero cabelludo y los rizos.2️⃣ Enjuaga con abundante agua.3️⃣ Repite si es necesario.4️⃣ Completa el ritual con el Acondicionador Fortalecedor Cabello Rizado y la Mascarilla Fortalecedora para resultados más duraderos.
-  Updated: 2026-06-09T03:27:21Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoo_fortalecimiento_cacheados_rizos.jpg?v=1778772155
   Price: 12.990,00 $ CLP
 - [Crema de Peinar sin Enjuague Fortalecedor Rizos 320 ml](https://www.sb100dobrasil.cl/products/crema-de-peinar-sin-enjuague-fortalecedor-para-cabello-rizado-320-ml): 🌀 Crema de Peinar Fortalecedora Sin Enjuague para Cabello Rizado – 320 ml ✨ Definición, fuerza y control del frizz en un solo paso. La Crema de Peinar Fortalecedora para Cabello Rizado fue desarrollada para hidratar, proteger y dar forma a los rizos durante todo el día. Su fórmula ligera sin enjuague con biotina, pantenol y proteínas vegetales ayuda a reducir la rotura, controla el frizz y mantiene los rizos más flexibles, fuertes y con brillo natural. 🧬 Ingredientes clave💪 Biotina: Refuerza y fortalece la fibra capilar.💧 Pantenol (Pro-Vitamina B5): Retiene la hidratación y aporta elasticidad.🌱 Proteínas vegetales: Reparan y nutren el cabello, mejorando su resistencia. ✨ Beneficios🌟 Rizos definidos y con movimiento natural.💧 Hidratación prolongada sin dejar residuos.🌀 Control del frizz incluso en ambientes húmedos.💎 Brillo y suavidad desde el primer uso. 🧼 Cómo se usa1️⃣ Aplica una pequeña cantidad sobre el cabello limpio y húmedo.2️⃣ Distribuye uniformemente de medios a puntas.3️⃣ Peina como de costumbre y deja secar al aire o con difusor.4️⃣ No enjuagar.
-  Updated: 2026-06-09T15:33:05Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/hidratantecapilarcacheados.jpg?v=1777303015
   Price: 10.990,00 $ CLP
 - [Aceite Finalizador Fortalecedor Rizos 60 ml](https://www.sb100dobrasil.cl/products/aceite-de-acabado-fortalecedor-para-cabello-rizado-60-ml): ✨ Aceite de Acabado Fortalecedor para Cabello Rizado – 60 ml🌟 Rizos definidos, hidratados y con fuerza natural. El Aceite de Acabado Fortalecedor para Cabello Rizado fue desarrollado para proporcionar nutrición profunda y control a los rizos sin apelmazarlos. Su fórmula enriquecida con aceites nutritivos y pantenol fortalece la fibra capilar, define los rizos y aporta brillo y suavidad, facilitando el peinado y reduciendo el frizz. Ideal para rizos secos, dañados o con tendencia al encrespamiento. 🧬 Ingredientes clave💎 Aceites nutritivos: Hidratan y suavizan cada hebra.💧 Pantenol: Fortalece e hidrata la fibra capilar.🌿 Extractos naturales: Protegen y mejoran la elasticidad del rizo. ✨ Beneficios🌟 Definición y control del rizo sin apelmazar.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación profunda que mejora la elasticidad del rizo.🌬️ Reduce frizz y facilita el peinado. 🧼 Cómo se usa1️⃣ Aplica unas gotas sobre los rizos secos o húmedos.2️⃣ Distribuye de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define el rizo según tu estilo. Ideal para complementar con la línea Gotisima Show Curl y potenciar la definición y nutrición de los rizos.
-  Updated: 2026-06-09T03:27:38Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/gota_dourada_aceite_finalizador_fortalecimiento_rizos_pro.png?v=1778867498
   Price: 10.990,00 $ CLP
 - [Mascarilla Fortalecedora Capilar para Cabello Liso 1 kg](https://www.sb100dobrasil.cl/products/mascarilla-fortalecedora-capilar-para-cabello-liso-1-kg): Mascarilla Fortalecedora Capilar Cabello Liso – 1 kg Un cuidado intensivo para revitalizar tu cabello liso desde la raíz hasta las puntas. La Mascarilla Fortalecedora Capilar ofrece una hidratación profunda y reparación intensiva para cabellos lisos que necesitan nutrición y resistencia. Su fórmula concentrada, con biotina, pantenol y proteínas vegetales, fortalece la fibra capilar, reduce la rotura y aporta suavidad extrema, dejando el cabello con un liso más duradero, manejable y lleno de brillo natural. Ingredientes clave Biotina: Aporta fuerza y favorece el crecimiento saludable. Pantenol (Pro-Vitamina B5): Retiene la humedad y mejora la elasticidad. Proteínas vegetales: Reparan, nutren y protegen la estructura del cabello. Beneficios Hidratación profunda y reparación desde la primera aplicación. Cabello más fuerte y resistente a la rotura. Suavidad y sedosidad sin apelmazar. Brillo saludable y movimiento natural. Cómo se usa1️⃣ Después del shampoo, aplica la mascarilla sobre el cabello húmedo.2️⃣ Masajea suavemente y deja actuar entre 5 y 10 minutos.3️⃣ Enjuaga bien y continúa con acondicionador para sellar la hidratación.4️⃣ Usa 1 a 2 veces por semana para mantener tu cabello liso fuerte y saludable.
-  Updated: 2026-06-09T03:36:30Z
+  Updated: 2026-06-19T03:55:38Z
   Vendor: Gota Dorada
   Product Type: Mascara Capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mascaraescovaMascaraesco.jpg?v=1777303303
   Price: 13.990,00 $ CLP
 - [Champú Fortalecedor Capilar para Cabello Liso 430 ml](https://www.sb100dobrasil.cl/products/champu-fortalecedor-capilar-para-cabello-liso-430-ml): Champú fortalecedor que protege el cabello liso del daño por calor, combate el frizz y aporta fuerza, brillo y resistencia. 🧴 Champú Fortalecedor Capilar Cabello Liso – 430 ml 🌟 Diseñado especialmente para cabellos lisos que necesitan fuerza, vitalidad y movimiento. El Champú Fortalecedor Capilar limpia suavemente sin resecar, mientras refuerza la fibra capilar desde la raíz. Su fórmula enriquecida con biotina, pantenol y proteínas vegetales ayuda a prevenir la caída por quiebre, hidrata y deja el cabello más resistente, brillante y con un liso saludable. Ideal para uso diario o como complemento de rutinas de cuidado capilar. 🧬 Ingredientes clave💪 Biotina: Estimula el crecimiento y fortalece la fibra.💧 Pantenol (Pro-Vitamina B5): Hidrata y aporta elasticidad.🌱 Proteínas vegetales: Reestructuran y protegen el cabello. ✨ Beneficios🌟 Cabello más fuerte y resistente a la rotura.💧 Hidratación y suavidad sin frizz.💎 Brillo natural y movimiento ligero.🛡️ Protege y mantiene el liso por más tiempo. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo, masajeando el cuero cabelludo.2️⃣ Enjuaga bien y repite si es necesario.3️⃣ Para mejores resultados, combina con el Acondicionador Fortalecedor Cabello Liso.
-  Updated: 2026-06-09T03:34:09Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/gota_dourada_shampoo_escova_fortalecimientos_liso.jpg?v=1778772123
   Price: 12.990,00 $ CLP
 - [Acondicionador Fortalecedor Cabello Liso 430ml](https://www.sb100dobrasil.cl/products/acondicionador-fortalecedor-capilar-para-cabello-liso-430-ml): 🧴 Acondicionador Fortalecedor Capilar Cabello Liso – 430 ml 🌟 El aliado perfecto para mantener tu cabello liso, fuerte y con movimiento natural. El Acondicionador Fortalecedor Capilar nutre y desenreda de forma suave, dejando el cabello más resistente, brillante y libre de frizz. Su fórmula enriquecida con biotina, pantenol y proteínas vegetales refuerza la fibra capilar, aporta hidratación profunda y protege contra el quiebre, manteniendo el liso saludable y duradero. 🧬 Ingredientes clave💪 Biotina: Fortalece y estimula el crecimiento del cabello.💧 Pantenol (Pro-Vitamina B5): Hidrata, suaviza y da elasticidad.🌱 Proteínas vegetales: Reparan, nutren y protegen la fibra capilar. ✨ Beneficios🌟 Cabello más fuerte y resistente a la rotura.💧 Hidratación y suavidad extrema.💎 Brillo natural y movimiento ligero.🛡️ Protección y durabilidad del liso. 🧼 Cómo se usa1️⃣ Aplica después del shampoo sobre el cabello limpio y húmedo.2️⃣ Deja actuar unos minutos para una mejor absorción.3️⃣ Enjuaga bien y finaliza con la Crema de Peinar Fortalecedora Cabello Liso si deseas un acabado más definido y protegido.
-  Updated: 2026-06-09T03:37:06Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/acondicionadorescova.jpg?v=1777301624
   Price: 12.990,00 $ CLP
 - [Crema de Peinar sin Enjuague Fortalecedor para Cabello Liso 320 ml](https://www.sb100dobrasil.cl/products/crema-de-peinar-sin-enjuague-fortalecedor-para-cabello-liso-320-ml): 🪻 Crema de Peinar Fortalecedora Capilar Cabello Liso – 300 ml ✨ El aliado perfecto para mantener tu liso fuerte, suave y sin frizz. La Crema de Peinar Fortalecedora Cabello Liso es un tratamiento sin enjuague formulado con biotina, pantenol y proteínas vegetales que hidratan, fortalecen y protegen la fibra capilar durante todo el día. Ideal para desenredar fácilmente, controlar el frizz y dejar el cabello más manejable, sedoso y con un brillo saludable. 🧬 Ingredientes clave💪 Biotina: Fortalece y estimula un cabello más resistente.💧 Pantenol (Pro-Vitamina B5): Aporta hidratación y elasticidad.🌱 Proteínas vegetales: Reparan y nutren en profundidad. ✨ Beneficios🌟 Fortalecimiento visible y reducción del quiebre.💧 Hidratación ligera sin dejar residuos.💎 Brillo y suavidad con control de frizz.✂️ Facilita el peinado y reduce la rotura por cepillado. 🧼 Cómo se usa1️⃣ Aplica una cantidad adecuada sobre el cabello húmedo o seco.2️⃣ Distribuye uniformemente de medios a puntas.3️⃣ No enjuagar. Peina como de costumbre.4️⃣ Uso diario para mantener tu cabello liso más fuerte y saludable.
-  Updated: 2026-06-09T03:59:58Z
+  Updated: 2026-06-19T03:55:40Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/fortalecimientoescova.jpg?v=1777302121
   Price: 10.990,00 $ CLP
 - [Kit Gotissima Shine Hair – Shampoo y Acondicionador 300 ml](https://www.sb100dobrasil.cl/products/kit-gotissima-shine-hair-300-ml): ✨ Kit Gotissima Shine Hair Algas Marinas – 300 ml🌟 Brillo intenso y nutrición que transforman tu cabello. El Kit Gotissima Shine Hair fue creado para devolver la luminosidad natural y la vitalidad al cabello opaco y sin vida. Su fórmula, enriquecida con aceite de argán y vitamina E, nutre en profundidad, controla el frizz y aporta un brillo espejo que realza la belleza de cada hebra. Ideal para todo tipo de cabello que busca un acabado luminoso, sedoso y con movimiento natural. 🧬 Ingredientes clave🌿 Aceite de Argán: Nutrición intensa y reparación de daños.💎 Vitamina E: Potente antioxidante que protege y prolonga la salud capilar.💧 Complejo hidratante: Mantiene la suavidad sin apelmazar. ✨ Beneficios🌟 Brillo espejo visible desde la primera aplicación.💧 Hidratación y nutrición profunda.💎 Cabello más suave, ligero y lleno de vida.🌬️ Control del frizz y acabado sedoso. 🧼 Cómo se usa1️⃣ Lava el cabello con el shampoo Shine Hair, masajeando suavemente. Enjuaga bien.2️⃣ Aplica el acondicionador Shine Hair de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Para mejores resultados, utiliza junto con otros productos de la línea Gotissima Shine Hair.
-  Updated: 2026-06-09T15:21:44Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/kit_Gotissima_shampoo_y_acondicionador_shine_hair.png?v=1780006084
   Price: 9990,00 $ CLP
 - [Acondicionador Matizador 3D Platinado 120 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-platinado-120-ml): ✨ Acondicionador Matizador 3D Platinado – 120 mlCon pigmentos violetas y pantenol. Neutraliza tonos amarillentos, hidrata profundamente y deja el cabello rubio platinado, suave y brillante desde la primera aplicación. ✨ Acondicionador Matizador 3D Platinado – 120 ml 🌟 Cabello rubio platinado, luminoso y libre de tonos amarillentos. El Acondicionador Matizador 3D Platinado 120 ml fue desarrollado para cabellos rubios, decolorados o con mechas que necesitan mantener un tono frío y uniforme. Su fórmula enriquecida con pigmentos violetas y pantenol neutraliza los tonos amarillentos, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para mantener un rubio platinado saludable, vibrante y sin opacidad. 🧬 Ingredientes clave💎 Pigmentos violetas: Neutralizan los tonos amarillentos y cálidos.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Neutraliza los tonos amarillentos no deseados.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación intensa sin apelmazar.🌬️ Rubios platinados, luminosos y saludables. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Platinado de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Platinado y mantener un rubio platinado radiante y uniforme en presentación práctica de 120 ml.
-  Updated: 2026-06-09T03:53:41Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/01_c06e6d8d-d545-45fe-ad20-e871178a4063.png?v=1760054358
   Price: 6990,00 $ CLP
 - [Acondicionador Matizador 3D Grafito 120 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-grafito-120-ml): ✨ Acondicionador Matizador 3D Grafito – 120 mlCon pigmentos grises y pantenol. Neutraliza tonos cálidos no deseados, hidrata profundamente y deja el cabello gris/negro platinado, suave y brillante desde la primera aplicación. ✨ Acondicionador Matizador 3D Grafito – 120 ml 🌟 Cabello gris/negro platinado, uniforme y brillante. El Acondicionador Matizador 3D Grafito 120 ml fue desarrollado para cabellos gris platinado, negro cenizo o con mechas que necesitan neutralizar tonos cálidos y mantener un color intenso y elegante. Su fórmula enriquecida con pigmentos grises y pantenol neutraliza los tonos amarillentos o cobrizos, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para mantener un color sofisticado, frío y duradero. 🧬 Ingredientes clave💎 Pigmentos grises: Neutralizan tonos cálidos y mantienen el color frío.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Neutraliza tonos cálidos no deseados.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación profunda sin apelmazar.🌬️ Color gris/negro intenso, brillante y saludable. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Grafito de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Grafito y mantener un cabello con color frío, intenso y radiante en presentación práctica de 120 ml.
-  Updated: 2026-06-09T03:39:51Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/02-1.png?v=1760054361
   Price: 6990,00 $ CLP
 - [Meu Cacho Perfeito Aguacate, Aloe y Coco – Crema de Peinar 1kg](https://www.sb100dobrasil.cl/products/crema-de-peinar-mis-rizos-perfectos-aguacate-aloe-vera-y-coco-1-kg): ✨ Mis Rizos Perfectos Crema para Peinar – 1 kgCon aceite de aguacate y aloe vera. Define y controla los rizos, hidrata profundamente y deja el cabello suave, brillante y con movimiento natural desde la primera aplicación. ✨ Mis Rizos Perfectos Crema para Peinar – 1 kg 🌟 Rizos definidos, hidratados y con movimiento natural. La Crema para Peinar Mis Rizos Perfectos fue desarrollada para quienes desean resaltar la belleza de sus rizos sin frizz ni resequedad. Su fórmula enriquecida con aceite de aguacate y aloe vera hidrata profundamente, define cada rizo y aporta suavidad y brillo, facilitando el peinado y reduciendo el encrespamiento. Ideal para cabellos rizados u ondulados que necesitan nutrición, elasticidad y control. 🧬 Ingredientes clave💎 Aceite de aguacate: Nutre y fortalece la fibra capilar.💧 Aloe vera: Hidrata profundamente y mejora la elasticidad del rizo.🌿 Extractos naturales: Aportan suavidad y brillo saludable. ✨ Beneficios🌟 Definición y control del rizo sin apelmazar.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa que respeta la forma natural del rizo.🌬️ Reduce frizz y facilita el peinado. 🧼 Cómo se usa1️⃣ Aplica una cantidad adecuada sobre el cabello húmedo o seco.2️⃣ Distribuye de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Mis Rizos Perfectos y potenciar la definición, nutrición y suavidad de los rizos.
-  Updated: 2026-06-09T03:35:48Z
+  Updated: 2026-06-16T16:11:28Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MisRizosPerfectosCremaparaPeinarCocoyDPantenol_76162dc1-f2b4-45ab-9a46-127c11e787b0.jpg?v=1777304890
   Price: 13.990,00 $ CLP
 - [Meu Cacho Perfeito Argán - Crema de Peinar 1 kg](https://www.sb100dobrasil.cl/products/crema-de-peinar-mis-rizos-perfectos-argan-1-kg): ✨ Mis Rizos Perfectos Crema para Peinar – 1 kg 🌟 Rizos definidos, hidratados y con brillo intenso. La Crema para Peinar Mis Rizos Perfectos fue desarrollada para quienes buscan resaltar la belleza de sus rizos con nutrición profunda y control del frizz. Su fórmula enriquecida con aceite de argán fortalece y repara la fibra capilar, hidrata en profundidad y aporta suavidad y brillo, facilitando el peinado y definiendo los rizos sin apelmazarlos. Ideal para cabellos rizados u ondulados que necesitan elasticidad, suavidad y control. 🧬 Ingredientes clave💎 Aceite de argán: Nutre, repara y aporta brillo extremo.🌿 Extractos naturales: Hidratan, suavizan y mejoran la elasticidad del rizo. ✨ Beneficios🌟 Definición y control del rizo sin apelmazar.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa que respeta la forma natural del rizo.🌬️ Reduce frizz y facilita el peinado. 🧼 Cómo se usa1️⃣ Aplica una cantidad adecuada sobre el cabello húmedo o seco.2️⃣ Distribuye de medios a puntas con las manos o un peine de dientes anchos.3️⃣ Peina y define los rizos según tu estilo. Ideal para complementar con la línea Mis Rizos Perfectos y potenciar la definición, nutrición y brillo de los rizos.
-  Updated: 2026-06-09T03:55:54Z
+  Updated: 2026-06-17T13:01:27Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MisRizosPerfectosCremadePeinarArgan-1kg.jpg?v=1777303973
+  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/07857_padronizada.jpg?v=1781626422
   Price: 13.990,00 $ CLP
 - [Kit Gotissima Stop Frizz – Shampoo y Acondicionador 300 ml](https://www.sb100dobrasil.cl/products/kit-gotissima-stop-frizz-300-ml): ✨ Kit Gotissima Stop Frizz – 300 mlCon queratina vegetal, aceites nutritivos y pantenol. Controla el frizz, hidrata profundamente y deja el cabello suave, brillante y disciplinado desde la primera aplicación. ✨ Kit Gotissima Stop Frizz – 300 ml 🌟 Cabello libre de frizz, suave y con brillo radiante. El Kit Gotissima Stop Frizz fue desarrollado para quienes buscan un cabello disciplinado, hidratado y sin frizz. Su fórmula enriquecida con queratina vegetal, pantenol y una mezcla de aceites nutritivos actúa directamente en la fibra capilar, reparando daños y proporcionando un efecto anti-frizz prolongado. Perfecto para mantener el pelo bajo control en climas húmedos o con tendencia al encrespamiento. 🧬 Ingredientes clave💎 Queratina vegetal: Fortalece y repara la fibra capilar.💧 Pantenol: Hidrata en profundidad y aumenta la elasticidad.🌿 Aceites nutritivos: Sellan la cutícula y aportan suavidad extrema. ✨ Beneficios🌟 Control del frizz hasta por 48 horas.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa sin apelmazar.🌬️ Protección contra humedad y frizz. 🧼 Cómo se usa1️⃣ Lava con el shampoo Stop Frizz sobre el cabello húmedo, masajeando suavemente. Enjuaga bien.2️⃣ Aplica el acondicionador Stop Frizz, distribuyendo de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea Gotissima Stop Frizz y potenciar sus resultados.
-  Updated: 2026-06-09T03:38:22Z
+  Updated: 2026-06-19T03:55:38Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/gottisimastopfrizz.jpg?v=1777302981
   Price: 9990,00 $ CLP
 - [Kit Gotissima Blond Girl – Shampoo y Acondicionador 300 ml](https://www.sb100dobrasil.cl/products/kit-gotissima-blond-girl-300-ml): ✨ Kit Gotisima Blond Girl – 300 mlCon pantenol, miel, quinua y bálsamo. Neutraliza los tonos amarillentos, aporta brillo y suavidad, dejando el cabello rubio radiante y saludable desde la primera aplicación. ✨ Kit Gotisima Blond Girl – 300 ml 🌟 Cabello rubio luminoso, suave y lleno de vida. El Kit Gotisima Blond Girl fue desarrollado para quienes desean mantener un rubio radiante y libre de tonos amarillentos. Su fórmula enriquecida con pantenol, miel, quinua y bálsamo actúa directamente sobre la fibra capilar, reparando daños y aportando brillo, suavidad y vitalidad al cabello. Ideal para cabellos rubios naturales o con mechas que necesitan cuidado especializado. 🧬 Ingredientes clave💎 Pantenol: Hidrata y fortalece la fibra capilar.💧 Miel: Nutre y aporta brillo natural.🌿 Quinua: Repara y revitaliza la fibra capilar.🛡️ Bálsamo: Facilita el desenredo y suaviza el cabello. ✨ Beneficios🌟 Neutraliza los tonos amarillentos y mantiene el rubio luminoso.💎 Cabello más suave, manejable y con brillo saludable.💧 Hidratación intensa y nutrición profunda.🌬️ Fortalece y protege la fibra capilar. 🧼 Cómo se usa1️⃣ Lava con el shampoo Blond Girl sobre el cabello húmedo, masajeando suavemente. Enjuaga bien.2️⃣ Aplica el acondicionador Blond Girl de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea Gotisima Blond Girl y potenciar sus resultados.
-  Updated: 2026-06-09T15:21:40Z
+  Updated: 2026-06-16T01:50:23Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/Gottisimablondgirl.jpg?v=1777302907
+  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/gotissima_mundial_futbol.jpg?v=1781531409
   Price: 9990,00 $ CLP
 - [Acondicionador Matizador 3D Platinado 300 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-platinado-300-ml): ✨ Acondicionador Matizador 3D Platinado – 300 ml🌟 Cabello rubio platinado, luminoso y libre de tonos amarillentos. El Acondicionador Matizador 3D Platinado fue desarrollado para cabellos rubios, decolorados o con mechas que necesitan mantener un tono frío y uniforme. Su fórmula enriquecida con pigmentos violetas y pantenol neutraliza los tonos amarillentos, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para mantener un rubio platinado saludable, vibrante y sin opacidad. 🧬 Ingredientes clave💎 Pigmentos violetas: Neutralizan los tonos amarillentos y cálidos.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Neutraliza los tonos amarillentos no deseados.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación intensa sin apelmazar.🌬️ Rubios platinados, luminosos y saludables. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Platinado de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Platinado y mantener un rubio platinado radiante y uniforme.
-  Updated: 2026-06-09T03:44:50Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/matizadorplatinado.jpg?v=1777303792
   Price: 13.990,00 $ CLP
 - [Acondicionador Matizador 3D Rojo Intenso 300 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-rojo-intenso-300-ml): ✨ Acondicionador Matizador 3D Rojo Intenso – 300 ml 🌟 Cabello rojo intenso, brillante y con color duradero. El Acondicionador Matizador 3D Rojo Intenso fue desarrollado para cabellos teñidos o con mechas rojas que necesitan mantener un tono vibrante y uniforme. Su fórmula enriquecida con pigmentos rojos y pantenol intensifica el color, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para mantener un rojo intenso, saludable y con apariencia radiante. 🧬 Ingredientes clave💎 Pigmentos rojos: Intensifican y mantienen el color.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Mantiene y potencia el color rojo intenso.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación profunda sin apelmazar.🌬️ Color vibrante, brillante y saludable. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Rojo Intenso de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Rojo Intenso y mantener un cabello rojo vibrante y radiante.
-  Updated: 2026-06-09T15:21:37Z
+  Updated: 2026-06-10T17:38:14Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/matizador_gota_dourada_vermelho_intenso.jpg?v=1778772067
   Price: 13.990,00 $ CLP
 - [Acondicionador Matizador 3D Super Black 300 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-super-black-300-ml): ✨ Acondicionador Matizador 3D Super Black – 300 mlCon pigmentos negros y pantenol. Neutraliza tonos indeseados, hidrata profundamente y deja el cabello suave, brillante y con color intenso desde la primera aplicación. ✨ Acondicionador Matizador 3D Super Black – 300 ml 🌟 Cabello negro intenso, brillante y sin tonos indeseados. El Acondicionador Matizador 3D Super Black fue desarrollado para cabellos negros o muy oscuros que necesitan mantener un color profundo y uniforme. Su fórmula enriquecida con pigmentos negros y pantenol neutraliza los tonos cálidos no deseados, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para cabellos teñidos, con mechas oscuras o naturales que buscan un negro intenso y saludable. 🧬 Ingredientes clave💎 Pigmentos negros: Neutralizan tonos cálidos y amarillentos.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Neutraliza tonos cálidos no deseados.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación intensa sin apelmazar.🌬️ Color negro intenso, brillante y saludable. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Super Black de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Super Black y mantener un color intenso y radiante.
-  Updated: 2026-06-09T15:21:36Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/matizadorsuerblack.jpg?v=1777303841
   Price: 13.990,00 $ CLP
 - [Acondicionador Matizador 3D Marsala 300 ml](https://www.sb100dobrasil.cl/products/acondicionador-matizador-3d-marsala-300-ml): ✨ Acondicionador Matizador 3D Marsala – 300 mlCon pigmentos marsala y pantenol. Neutraliza tonos indeseados, hidrata profundamente y deja el cabello con un color intenso, brillante y saludable desde la primera aplicación. ✨ Acondicionador Matizador 3D Marsala – 300 ml 🌟 Cabello con color marsala intenso, brillante y uniforme. El Acondicionador Matizador 3D Marsala fue desarrollado para cabellos teñidos o con mechas que necesitan mantener un tono cálido y elegante sin perder intensidad. Su fórmula enriquecida con pigmentos marsala y pantenol neutraliza los tonos no deseados, hidrata la fibra capilar y aporta suavidad y brillo desde la primera aplicación. Ideal para cabellos que buscan un color sofisticado y duradero. 🧬 Ingredientes clave💎 Pigmentos marsala: Neutralizan tonos indeseados y realzan la intensidad del color.💧 Pantenol: Hidrata y fortalece la fibra capilar.🌿 Ingredientes acondicionadores: Suavizan y facilitan el desenredo. ✨ Beneficios🌟 Mantiene y potencia el color marsala intenso.💎 Cabello más suave, manejable y con color uniforme.💧 Hidratación profunda sin apelmazar.🌬️ Color brillante, saludable y duradero. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo habitual o matizador.2️⃣ Aplica el acondicionador 3D Marsala de medios a puntas.3️⃣ Deja actuar 2 a 3 minutos y enjuaga. Ideal para complementar con la línea de Matizadores 3D Marsala y mantener un cabello con color intenso y radiante.
-  Updated: 2026-06-09T03:33:22Z
+  Updated: 2026-06-16T02:02:38Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/matizadormarsala.jpg?v=1777303744
+  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/matizador_3d_mundial_futbol.jpg?v=1781532147
   Price: 13.990,00 $ CLP
 - [Botox Vegano Reductor de volumen y frizz SIC Cosméticos](https://www.sb100dobrasil.cl/products/botox-vegano-sic-cosmeticos): Te lo dejo adaptado al formato ecommerce, más limpio, comercial y profesional, quitando toda la parte demasiado técnica de los taninos: BTX Botox Vegano Reductor de Volumen y Frizz SIC Cosméticos Tratamiento vegano de alineación capilar que ayuda a reducir el volumen, controlar el frizz y mejorar la apariencia de la fibra capilar. El BTX Botox Vegano SIC Cosméticos es un tratamiento sinérgico desarrollado para alinear, nutrir y reparar el cabello, dejando las hebras más suaves, brillantes, hidratadas y con un acabado más disciplinado. Su fórmula combina ácido tánico, manteca de karité, manteca de murumuru y aceite de pracaxi, activos que trabajan en conjunto para ayudar a sellar la cutícula, fortalecer la fibra capilar y entregar un efecto de cabello más liso, alineado y saludable. ¿Para qué sirve? Este tratamiento está diseñado para cabellos con frizz, volumen excesivo, resequedad o falta de disciplina. Ayuda a mejorar la textura del cabello, aportando suavidad, brillo y manejabilidad desde la primera aplicación. Gracias a su acción alineadora, el cabello queda con un aspecto más ordenado, nutrido y con movimiento natural, sin perder su apariencia saludable. Principales activos Ácido tánicoActivo de origen vegetal que ayuda a alinear la fibra capilar, sellar las cutículas y prolongar el efecto disciplinado del cabello. También aporta acción antioxidante, ayudando a proteger la hebra frente a agresiones externas. Manteca de karitéIngrediente altamente nutritivo que ayuda a hidratar, suavizar y mejorar la elasticidad del cabello seco o dañado. Manteca de murumuruAporta nutrición intensa, ayuda a controlar el frizz y mejora la textura del cabello, dejándolo más sedoso y manejable. Aceite de pracaxiAceite vegetal rico en propiedades acondicionadoras. Ayuda a aportar brillo, suavidad y control al cabello, favoreciendo un acabado más pulido. Beneficios principales ✅ Reduce el volumen no deseado.✅ Ayuda a controlar el frizz.✅ Alinea y disciplina la fibra capilar.✅ Aporta brillo, suavidad e hidratación.✅ Nutre y fortalece el cabello.✅ Ayuda a sellar las cutículas.✅ Mejora la manejabilidad del cabello.✅ Ideal para cabellos secos, rebeldes, con frizz o con exceso de volumen.✅ Fórmula vegana con activos de origen vegetal. ¿Cómo se usa? 1. Lavado:Lava el cabello con shampoo para retirar impurezas y preparar la fibra capilar para recibir el tratamiento. 2. Secado:Seca el cabello entre un 70% y 100% con secador. 3. Aplicación:Divide el cabello en 4 partes iguales. Aplica el BTX Botox Vegano SIC Cosméticos mechón por mechón, respetando aproximadamente 1 cm desde la raíz. 4. Tiempo de pausa:Deja actuar entre 40 y 60 minutos, según la necesidad del cabello. 5. Enjuague:Después del tiempo de pausa, realinea los mechones con la ayuda de un peine fino y enjuaga con abundante agua. 6. Finalización:Seca, cepilla y plancha en mechones finos de 5 a 10 veces por mechón para activar el resultado del tratamiento. Ideal para Cabellos con frizz, volumen excesivo, resequedad, falta de brillo o dificultad para mantener un acabado disciplinado y alineado. Resultado esperado Cabello más alineado, suave, brillante, hidratado y con menor volumen, logrando un acabado más disciplinado, pulido y saludable. Recomendación:Producto de uso profesional. Se recomienda realizar prueba de mecha antes de la aplicación completa.
-  Updated: 2026-06-09T15:21:31Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: SIC
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/btx_vegano.jpg?v=1778773532
   Price: 69.990,00 $ CLP
 - [Acondicionador Fortalecedor Cabello Tratado Químicamente 430ml](https://www.sb100dobrasil.cl/products/acondicionador-fortalecimiento-para-cabellos-tratados-quimicamente-430ml): El acondicionador fortalecedor para cabello tratado químicamente 430 ml ha sido desarrollado especialmente para cabello teñido, alisado o que ha sido sometido a procesos químicos. Su fórmula avanzada contiene queratina, que proporciona una hidratación intensa, una restauración profunda y un brillo duradero a los cabellos resecos. Beneficios del acondicionador fortalecedor para cabellos químicamente tratadosHidratación intensa para cabellos químicamente tratados.Recarga de queratina para cabellos dañados.Brillo y suavidad prolongados.Reducción del frizz y mayor alineación capilar. Modo de uso: Después de lavar el cabello con champú, aplique el Acondicionador Fortalecedor para Cabello Químicamente Tratado 430 ml sobre el cabello húmedo. Deje actuar durante 1 minuto y enjuague completamente. Para obtener mejores resultados, utilice toda la línea Fortalecedor para Cabello Químicamente Tratado. Preguntas frecuentes ¿Se puede usar el acondicionador Fortalecimiento para Cabellos Químicamente Tratados 430 ml al diario?Sí, su fórmula suave permite su uso diario para mantener la hidratación y la protección del cabello. ¿Este acondicionador ayuda a reducir el frizz ?Sí, el acondicionador Fortalecimiento para Cabellos Químicamente Tratados 430 ml contiene ingredientes que alisan el cabello y reducen el frizz . ¿Es necesario usar otros productos de la línea ?Para obtener mejores resultados, recomendamos el uso completo de la línea Fortalecimiento para Cabellos Tratados Químicamente, que incluye champú, mascarilla y crema sin enjuague. ¿Este acondicionador apelmaza el cabello?No, su fórmula ha sido desarrollada para acondicionar sin dejar el cabello pesado o graso.
-  Updated: 2026-06-09T03:33:49Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/acondicionadorquimicamentetratados.jpg?v=1777301659
   Price: 12.990,00 $ CLP
-- [Champú Fortalecedor cabello tratado químicamente - 430ml](https://www.sb100dobrasil.cl/products/champu-para-cabello-tratado-quimicamente-gota-dourada-430-ml): El champú Gota Dourada Fortalecimiento para cabello tratado químicamente 430 ml ha sido desarrollado para restaurar y fortalecer el cabello que ha sido sometido a procesos químicos, promoviendo una recarga intensa de queratina. Beneficios del champú Gota Dourada Fortalece el cabello debilitado por los procesos químicos.Recupera la estructura capilar.Aporta brillo y suavidad.Ayuda al crecimiento saludable del cabello. Cómo usar el champú Gota Dourada Para obtener mejores resultados, siga estos pasos:- Aplique sobre el cabello mojado y masajee suavemente.- Deje actuar durante unos minutos.- Aclare bien y repita la aplicación si es necesario. Preguntas frecuentes ¿Se puede usar a diario el champú Gota Dourada Fortalecimiento Químicamente Tratados?Sí, su fórmula está indicada para el uso diario, ya que ayuda a la recuperación continua del cabello. ¿Este champú es adecuado para todo tipo de cabello?Está especialmente formulado para cabellos químicamente tratados, pero puede ser utilizado por cualquier persona que desee fortalecer su cabello. ¿Puedo usar este champú en cabello teñido?Sí, ayuda a mantener la salud del cabello teñido, evitando la sequedad. ¿El champú Gota Dourada ayuda al crecimiento del cabello?Sí, su fórmula fortalece la raíz y estimula el crecimiento saludable del cabello.
-  Updated: 2026-06-09T03:30:45Z
+- [Shampoo Fortalecedor cabello tratado químicamente - 430ml](https://www.sb100dobrasil.cl/products/champu-para-cabello-tratado-quimicamente-gota-dourada-430-ml): El champú Gota Dourada Fortalecimiento para cabello tratado químicamente 430 ml ha sido desarrollado para restaurar y fortalecer el cabello que ha sido sometido a procesos químicos, promoviendo una recarga intensa de queratina. Beneficios del champú Gota Dourada Fortalece el cabello debilitado por los procesos químicos.Recupera la estructura capilar.Aporta brillo y suavidad.Ayuda al crecimiento saludable del cabello. Cómo usar el champú Gota Dourada Para obtener mejores resultados, siga estos pasos:- Aplique sobre el cabello mojado y masajee suavemente.- Deje actuar durante unos minutos.- Aclare bien y repita la aplicación si es necesario. Preguntas frecuentes ¿Se puede usar a diario el champú Gota Dourada Fortalecimiento Químicamente Tratados?Sí, su fórmula está indicada para el uso diario, ya que ayuda a la recuperación continua del cabello. ¿Este champú es adecuado para todo tipo de cabello?Está especialmente formulado para cabellos químicamente tratados, pero puede ser utilizado por cualquier persona que desee fortalecer su cabello. ¿Puedo usar este champú en cabello teñido?Sí, ayuda a mantener la salud del cabello teñido, evitando la sequedad. ¿El champú Gota Dourada ayuda al crecimiento del cabello?Sí, su fórmula fortalece la raíz y estimula el crecimiento saludable del cabello.
+  Updated: 2026-06-20T09:34:31Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoquimicamente.jpg?v=1777305315
   Price: 12.990,00 $ CLP
 - [Máscara Fortalecimiento Químicamente Tratados Gota Dorada 1 Kg](https://www.sb100dobrasil.cl/products/mascara-fortalecimiento-quimicamente-tratados-gota-dorada-1-kg): ✨ Máscara Fortalecimiento Cabellos Químicamente Tratados – 1 Kg🌟 Reparación intensiva para cabello dañado por químicos.Mascarilla desarrollada para ayudar a restaurar la apariencia del cabello debilitado por alisados, tintes u otros procesos químicos, aportando hidratación, suavidad y brillo. 🧬 Ingredientes clave💎 Queratina: Contribuye a la reparación y fortalecimiento de la fibra capilar. ✨ Beneficios🌟 Hidratación profunda.💪 Ayuda a fortalecer el cabello dañado.💎 Aporta brillo y suavidad.✨ Mejora la apariencia del cabello seco y sin vida. 🧼 Cómo se usa1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas.3️⃣ Dejar actuar 1 minuto o hasta 15 minutos con gorro.4️⃣ Enjuagar bien. 📅 FrecuenciaUso semanal. Ideal para cabellos tratados químicamente o dañados.
-  Updated: 2026-06-09T03:41:49Z
+  Updated: 2026-06-20T18:57:40Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mascaraquimicamente_c60f7c75-b9bc-4f1b-bc30-f67bfb9164b1.jpg?v=1763002698
   Price: 13.990,00 $ CLP
 - [Crema sin enjuague para cabello tratado químicamente 320 ml](https://www.sb100dobrasil.cl/products/crema-sin-enjuague-para-cabello-tratado-quimicamente-320-ml): La crema sin enjuague para cabello tratado químicamente Gota Dourada 320 ml ha sido desarrollada para proporcionar hidratación prolongada, fortalecimiento y protección al cabello. Con una fórmula enriquecida con arginina, vitamina C y aceite de coco, restaura el cabello seco, reduce la caída por rotura y combate el frizz, garantizando un alineamiento perfecto y duradero. Beneficios de la crema sin enjuague para cabello tratado químicamente Gota Dourada 320 ml Hidratación profunda y prolongada. Fortalece la fibra capilar. Combate la caída por rotura. Reduce el frizz y alinea el cabello. Brillo intenso y suavidad. Modo de uso Después de lavar el cabello con champú y acondicionador, aplique una pequeña cantidad de la crema sin enjuague Cabellos Tratados Químicamente Gota Dourada 320 ml desde la raíz hasta las puntas. No lo utilice en cabello seco. Para obtener mejores resultados, utilice toda la línea Fortalecimiento de Cabello con Escova Gota Dourada. Preguntas frecuentes ¿Se puede usar a diario la crema sin enjuague Cabellos Tratados Químicamente Gota Dourada 320 ml? Sí, el producto ha sido desarrollado para su uso diario, proporcionando una hidratación continua y fortaleciendo el cabello. ¿El Crema sin enjuague Cabellos Tratados Químicamente Gota Dourada 320 ml apelmaza el cabello? No, siempre que se aplique en la cantidad recomendada. El exceso de producto puede dejar el cabello con un aspecto apelmazado ¿El Crema sin enjuague Cabellos Tratados Químicamente Gota Dourada 320 ml ayuda al crecimiento capilar? Sí, su fórmula con arginina y vitamina C fortalece el cabello, reduciendo la rotura y favoreciendo un crecimiento saludable. ¿El Crema sin enjuague Cabellos Tratados Químicamente Gota Dourada 320 ml tiene protección térmica? El producto ayuda a proteger el cabello contra las agresiones externas, pero no sustituye a un protector térmico específico para altas temperaturas.
-  Updated: 2026-06-09T03:41:18Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/quimicamentesinenjuage.jpg?v=1777305280
   Price: 10.990,00 $ CLP
-- [Kit Fortalecimiento Tratados Químicamente Gota Dourada](https://www.sb100dobrasil.cl/products/kit-fortalecimiento-tratados-quimicamente-gota-dourada)
-  Updated: 2026-06-09T15:21:25Z
+- [Kit Fortalecimiento Tratados Químicamente Gota Dourada](https://www.sb100dobrasil.cl/products/kit-fortalecimiento-tratados-quimicamente-gota-dourada): ✨ Kit Fortalecimiento para Cabellos Tratados Químicamente Gota Dourada🌟 Restauración y fortalecimiento para cabellos alisados, teñidos o decolorados. Este kit fue desarrollado especialmente para ayudar a recuperar la salud del cabello que ha sido sometido a procesos químicos como coloraciones, alisados, decoloraciones y otros tratamientos. Su fórmula regeneradora actúa profundamente sobre la fibra capilar, aportando una reposición de queratina que ayuda a restaurar la resistencia, elasticidad y brillo natural del cabello. Con el uso frecuente, el cabello luce más suave, fuerte y saludable, recuperando su vitalidad y manejabilidad. 🧬 Ingredientes clave 💪 QueratinaProteína esencial para la estructura capilar. Ayuda a fortalecer la fibra, mejorar la elasticidad y reducir la fragilidad del cabello tratado químicamente. 🌿 Extracto de JaborandiConocido por sus propiedades fortalecedoras y revitalizantes. Ayuda a estimular el cuero cabelludo y favorece un cabello con apariencia más saludable y resistente. ✨ Beneficios 🌟 Ayuda a restaurar la fibra capilar dañada por procesos químicos.💪 Reposición de queratina para mayor resistencia y elasticidad.💧 Aporta hidratación y suavidad.💎 Devuelve el brillo natural del cabello.✨ Cabello más fuerte, manejable y saludable.🛡️ Ayuda a proteger la estructura capilar frente a futuras agresiones. 🌱 Características 🚫 Fórmula sin sal.💧 Limpia y cuida el cabello sin resecarlo.✨ Ideal para cabellos alisados, teñidos, decolorados o químicamente tratados. 💇 Tipo de cabello recomendado ✔ Cabello teñido✔ Cabello decolorado✔ Cabello alisado✔ Cabello con daño químico✔ Cabello quebradizo o debilitado Ideal para quienes buscan recuperar la fuerza, suavidad y vitalidad de un cabello que ha pasado por tratamientos químicos frecuentes.
+  Updated: 2026-06-11T18:00:47Z
   Vendor: Gota Dorada
-  Product Type: 
+  Product Type: Kit cuidado capilar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/packquimicamente.jpg?v=1777305088
-  Price: 50.960,00 $ CLP
+  Price: 45.990,00 $ CLP
 - [Shampoo Acondicionador Hombre 2 en 1 Biotina 430 ml](https://www.sb100dobrasil.cl/products/champu-acondicionador-homem-biotina-430-ml): ✨ Champú Fortalecedor Capilar para Cabello Rizado – 430 ml🌟 Limpieza suave y fortalecimiento para rizos.Champú desarrollado para cabellos rizados, que limpia eficazmente sin resecar, ayudando a mantener los rizos más definidos, hidratados y con mejor apariencia. 🧬 Ingredientes clave💪 Biotina: Contribuye al fortalecimiento del cabello.💧 Pantenol (Pro-Vitamina B5): Aporta hidratación y elasticidad.🌱 Proteínas vegetales: Ayudan a nutrir la fibra capilar. ✨ Beneficios🌟 Limpieza suave sin resecar.💧 Hidratación equilibrada.🌀 Rizos más definidos y manejables.💎 Aporta suavidad y brillo. 🧼 Cómo se usa1️⃣ Aplicar sobre el cabello húmedo.2️⃣ Masajear suavemente cuero cabelludo y largos.3️⃣ Enjuagar con abundante agua.4️⃣ Repetir si es necesario. Ideal para cabellos rizados que necesitan limpieza y fortalecimiento.
-  Updated: 2026-06-09T15:21:24Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/ShampooAcondicionadorHombre2en1Biotina430ml.jpg?v=1777305345
   Price: 12.990,00 $ CLP
 - [Tonico Fortalecimento Homem Biotina - 100ml](https://www.sb100dobrasil.cl/products/tonico-homem-biotina-100-ml): ✨ Tónico Fortalecedor Masculino Gota Dourada – 100 ml🌟 Anticaída y crecimiento para cabello y barba.Tratamiento capilar diseñado para fortalecer la raíz, mejorar la resistencia del cabello y la barba, y aportar una sensación refrescante en el cuero cabelludo. 🧬 Ingredientes clave💎 Biotina (Vitamina B7): Contribuye al fortalecimiento capilar.⚡ Cafeína: Ayuda a estimular el crecimiento.❄️ Mentol: Aporta sensación refrescante. ✨ Beneficios🌟 Ayuda a fortalecer cabello y barba.💪 Mejora la resistencia y reduce la rotura.💧 Aporta sensación fresca y revitalizante.💎 Favorece un aspecto más saludable. 🧼 Cómo se usa1️⃣ Aplicar directamente en la raíz del cabello o barba.2️⃣ Masajear suavemente.3️⃣ Dejar actuar al menos 2 horas.4️⃣ Lavar si se desea. 📅 FrecuenciaUsar 3 veces por semana. Ideal para hombres que buscan fortalecer el cabello y la barba.
-  Updated: 2026-06-09T15:21:24Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/https-_www.sb100dobrasil.cl_products_tonico-homem-biotina-100-ml.jpg?v=1777303049
   Price: 8990,00 $ CLP
 - [Gelatina Uva Gota Dourada 500 gr](https://www.sb100dobrasil.cl/products/gelatina-de-uva): ✨ Gelatina de Uva Gota Dourada – 500 g🌟 Definición ligera y protección para el cabello.Gelatina capilar que ayuda a definir rizos y ondas, aportando brillo y una apariencia más saludable sin dejar sensación rígida. 🧬 Ingredientes clave🍇 Activo de uva: Ayuda a hidratar y mantener el cabello saludable. ✨ Beneficios🌟 Define rizos y ondas con movimiento natural.💧 Aporta hidratación y brillo.🛡️ Forma una capa protectora contra agresiones externas.🌬️ Ligereza sin apelmazar ni acartonar. 🧼 Cómo se usa1️⃣ Aplicar sobre el cabello limpio y húmedo, por secciones.2️⃣ Distribuir de raíz a puntas.3️⃣ Desenredar para una aplicación uniforme.4️⃣ Amasar de puntas hacia arriba para definir.5️⃣ No enjuagar y dejar secar al natural o con difusor. Ideal para cabellos ondulados, rizados o que buscan definición sin rigidez.
-  Updated: 2026-06-09T03:38:41Z
+  Updated: 2026-06-16T02:07:24Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/gelatinauva.jpg?v=1777302772
+  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/Gelatina_uva_gota_dourada_definicion_antifrizz.jpg?v=1781532422
   Price: 12.990,00 $ CLP
 - [Gelatina Kids Tutti - Frutti 500ml](https://www.sb100dobrasil.cl/products/gelatina-kids-tuttu-frutti-500ml): La gelatina Kids Tutti-Frutti Gota Daurada 500 g es la elección perfecta para quienes desean dar un toque especial a los rizos. Con delicadas partículas de purpurina, aporta brillo y encanto al cabello, convirtiendo la rutina de cuidado en un auténtico momento de diversión y magia. Su fórmula exclusiva hidrata, suaviza y define los rizos, al tiempo que actúa como un escudo antiencrespamiento, manteniendo el cabello alineado y listo para todas las aventuras. Beneficios Brillo encantador con partículas de purpurina que hacen que los rizos sean aún más atractivos. Definición de los rizos para un aspecto más natural y bonito. Escudo antiencrespamiento que mantiene el cabello alineado durante todo el día. Hidratación profunda que garantiza un cabello suave y saludable. Fórmula ligera que no apelmaza el cabello, dejándolo suelto y con movimiento. Modo de uso Con el cabello limpio y húmedo, divídelo en mechones pequeños.Aplique la Gelatina Kids Tutti-Frutti Gota Dorada 500 g mechón por mechón, distribuyéndola uniformemente desde el largo hasta las puntas. Desenrede el cabello con un peine de púas anchas para garantizar una aplicación uniforme. A continuación, amase los rizos con las manos, realizando un movimiento desde las puntas hacia la raíz. Repita el movimiento hasta conseguir la definición ideal para sus rizos. Para el acabado de los peinados, se recomienda utilizar hasta 30 g del producto, ajustando la cantidad según la longitud y el volumen del cabello. No enjuague. Deje que el cabello se seque al aire o utilice un difusor para acelerar el proceso.
-  Updated: 2026-06-09T03:36:07Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/gelatinakids.jpg?v=1777302692
   Price: 12.990,00 $ CLP
 - [Crema de peinar Sin enjuague Hialuronico 120 ml](https://www.sb100dobrasil.cl/products/crema-de-peinar-sin-enjuague-hialuronico-320-ml): ✨ Crema para Peinar Hialurónica Gota Dourada – 120 ml🌟 Hidratación intensa y suavidad sin apelmazar.Crema de peinar de textura ligera que ayuda a hidratar, fortalecer y mejorar la apariencia del cabello, dejándolo más suave, brillante y manejable. 🧬 Ingredientes clave💧 Ácido hialurónico: Aporta hidratación profunda.⚡ Cafeína: Contribuye al fortalecimiento capilar. ✨ Beneficios🌟 Hidratación intensa.💎 Aporta brillo y suavidad.💪 Ayuda a fortalecer el cabello.🌬️ Mejora la manejabilidad sin apelmazar. 🧼 Cómo se usa1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de raíz a puntas.3️⃣ Modelar y finalizar como de costumbre. 📅 FrecuenciaUso diario. Ideal para todo tipo de cabello, especialmente seco o dañado. Preguntas frecuentes ¿El Crema para peinar hialurónica Gota Dourada apelmaza el cabello?¡No! La fórmula es ligera y de rápida absorción, lo que garantiza la hidratación sin apelmazar el cabello. ¿Puedo usar la Crema para peinar hialurónica Gota Dourada a diario?Sí, el uso diario potencia los efectos hidratantes y fortalecedores del cabello. ¿El producto es adecuado para todo tipo de cabello?Sí, especialmente para cabellos secos y dañados que necesitan una hidratación intensa. Conclusión Si desea un cabello más sano, suave y brillante, la crema para peinar Hialurônico Gota Dourada 120 ml es la elección adecuada. ¡No pierda tiempo y pruebe esta súper hidratación!
-  Updated: 2026-06-09T15:21:22Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/cremadepentearhialuronico.jpg?v=1777302065
   Price: 8990,00 $ CLP
 - [Meu Cacho Perfeito Aloe vera - Kit  Shampoo + Acondicionador 300 ml](https://www.sb100dobrasil.cl/products/kit-champu-mis-rizos-perfecto-aloe-oil-300-ml): El champú Mi Rizo Perfecto Aloe Vera Gota Dourada y el acondicionador Mi Cacho Perfecto Babosa Gota Dourada ofrecen un cuidado completo para el cabello rizado. Con extracto de aloe vera, fortalecen, hidratan y restauran el cabello desde la raíz. Además, dejan el cabello ligero, brillante y lleno de vida, ideal para el uso diario. Beneficios: Hidratación profunda con ligereza Fuerza y resistencia para el cabello Brillo natural y suavidad intensa Reducción de la caída y la rotura Mejora en la definición de los rizos
-  Updated: 2026-06-09T03:39:13Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/KitShampooMisRizosPerfectoAloevera300ml.jpg?v=1777303165
   Price: 15.990,00 $ CLP
 - [Kit Shampoo Mis Rizos Perfecto Aceite Coco y Macadamia  300 ml](https://www.sb100dobrasil.cl/products/kit-champu-mis-rizos-perfecto-aceite-de-macadamia-300-ml): El kit Mi Rizo Perfecto Aceite de Coco e Macadamia ofrece una solución completa para quienes desean unos rizos más sanos y bonitos, ya que limpia, nutre y revitaliza profundamente el cabello. Además, su uso regular ayuda a combatir el frizz y a fortalecer la fibra capilar, garantizando unos rizos definidos y suaves. Así que, si buscas un cuidado eficaz y nutritivo para tu cabello rizado, este kit es ideal porque combina potentes aceites naturales y una fragancia afrutada que encanta los sentidos. ¿Qué es el kit Mi Rizo Perfecto Aceite de Coco y Macadamia? Este kit contiene champú y acondicionador enriquecidos con los activos del aceite de macadamia y el aceite de coco, que juntos promueven una limpieza suave, una hidratación intensa y una protección prolongada para el cabello rizado. Con una fórmula especialmente desarrollada, el kit revitaliza y alinea el cabello, además de reducir el frizz y protegerlo contra los daños externos. Beneficios: Revitaliza los rizos, devolviéndoles la vida y el brillo natural. Nutrición profunda con acción regeneradora del cabello Reduce el frizz y sella las cutículas para una definición prolongada Hidratación intensa que fortalece la fibra capilar Aporta suavidad y un tacto sedoso al cabello Fragancia afrutada suave con notas de frambuesa, violeta, fresa, almizcle, vainilla y chantilly Ingredientes clave y sus beneficios Aceite de macadamia Nutre intensamente el cabello, sellando las cutículas Protege contra las agresiones externas y mantiene el brillo natural Ayuda a controlar el frizz y deja el cabello suave Aceite de coco Hidrata profundamente y fortalece la fibra capilar Aporta brillo y suavidad, revitalizando los rizos Ayuda a proteger contra los daños causados por agentes externos
-  Updated: 2026-06-09T03:42:46Z
+  Updated: 2026-06-20T02:17:33Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/KitShampooMisRizosPerfectoAceiteCocoyMacadamia300ml.jpg?v=1777303129
   Price: 15.990,00 $ CLP
 - [Meu Cacho Perfeito Argan y Queratina - Kit  Shampoo + Acondicionador 300 ml](https://www.sb100dobrasil.cl/products/kit-champu-mis-rizos-perfecto-argan-y-queratina-300-ml): El champú Mi Rizo Perfecto Argan y Queratina Gota Dourada y el acondicionador Mi Rizo Perfecto Argan y Queratina Gota Dourada forman un kit completo para la limpieza, nutrición y reparación del cabello. Enriquecidos con aceite de argán y queratina, aportan fuerza, brillo y definición a los rizos, especialmente en cabellos secos o tratados químicamente. Beneficios: Nutrición intensa y duradera. Fortalecimiento de la fibra capilar. Brillo y suavidad inmediatos. Reducción del frizz y definición de los rizos. Reparación profunda desde la raíz. Aceite de argán y queratina: potentes activos El aceite de argán hidrata en profundidad y protege contra los daños externos, mientras que la queratina fortalece y reestructura las fibras capilares. Juntos, proporcionan un tratamiento completo que transforma el cabello dañado en una melena sana, resistente y con movimiento natural. Modo de uso del champú y acondicionador mi rizo perfecto Aplicar el champú sobre el cabello mojado, masajeando suavemente.Aclarar y repetir si es necesario.A continuación, aplicar el acondicionador, dejar actuar durante unos minutos y aclarar bien. Ingredientes principales Champú: aceite de argán, queratina hidrolizada, poliquaternio-7, ácido cítrico. Acondicionador: aceite de argán, queratina hidrolizada, aceite de coco, alcohol cetostearílico. ¿Para quién es indicado? Ideal para cabellos rizados, especialmente aquellos que sufren de sequedad o han sido sometidos a tratamientos químicos. Se puede usar a diario y proporciona resultados visibles desde las primeras aplicaciones. Sin embargo, las personas alérgicas al hexil cinamal o al terpineol deben evitar su uso. Diferencias del kit Mi Rizo Perfecto A diferencia de otros productos de la categoría, este kit combina una acción reparadora con una hidratación profunda. Esto significa que el cabello queda más fuerte por dentro y más bonito por fuera, todo ello con una envolvente fragancia floral oriental. Fragancia Salida: ylang ylang, lavanda, lilaCuerpo: jazmín, flor de naranjo, muguetFondo: musgo, vainilla, haba tonkaInformación adicional Contenido: 300 ml cada frascoUso: diarioEnvase: PEAD (reciclable y resistente)Textura: cremosa y fácil de aplicar
-  Updated: 2026-06-09T03:34:27Z
+  Updated: 2026-06-16T02:06:13Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/KitShampooMisRizosPerfectosArganyQueratina300ml.jpg?v=1777303246
+  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/rizo_perfecto_argan_keratina_shampoo_acondicionador.jpg?v=1781532360
   Price: 15.990,00 $ CLP
 - [Kit club niño rizos 980 ml](https://www.sb100dobrasil.cl/products/kit-champu-club-nino-rizos): Ha sido desarrollado para cuidar el cabello rizado de los niños de forma suave y eficaz. Con una fórmula exclusiva que contiene manteca de karité, vitamina E, caléndula y algodón, este kit proporciona hidratación, definición y protección para los rizos de los más pequeños. Este completo kit contiene todo lo necesario para cuidar el cabello rizado de los niños, proporcionando resultados increíbles. Al adquirir el Kit Infantil Clubinho Cacheados Gota Dourada 340 ml, obtienes: Champú Infantil: limpieza suave sin resecar el cabello. Acondicionador Infantil: hidratación y nutrición intensa para los rizos. Crema para peinar infantil: definición y control del frizz, dejando los rizos suaves. Beneficios: 1. Champú Infantil – Limpieza Suave El champú infantil ha sido desarrollado para limpiar delicadamente los cabellos rizados, eliminando las impurezas sin dañar la hidratación natural. Con caléndula y algodón, mantiene el cuero cabelludo protegido y sano. 2. Acondicionador infantil: hidratación profunda El acondicionador infantil contiene manteca de karité y vitamina E, que juntas proporcionan una hidratación intensa, ayudando a mantener los rizos definidos, suaves y sin frizz. 3. Crema para peinar infantil – Definición de rizos La crema para peinar del kit ayuda a mantener los rizos bien definidos durante todo el día. Su fórmula con manteca de karité y vitamina E aporta brillo y controla el frizz, dejando el cabello más fácil de peinar y con un aspecto saludable.
-  Updated: 2026-06-09T15:21:19Z
+  Updated: 2026-06-11T17:50:08Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/packclubinhocacheado.jpg?v=1777304959
-  Price: 23.990,00 $ CLP
+  Price: 20.990,00 $ CLP
 - [Kit Club niño Suavidad - 980 ml](https://www.sb100dobrasil.cl/products/kit-champu-club-nino-suavidad): Ha sido desarrollado con mucho cariño para cuidar el cabello de los niños. Con una fórmula única y eficaz, proporciona hidratación profunda, protección y suavidad para todo tipo de cabello. Enriquecido con manteca de karité y vitamina E, el kit proporciona un cuidado completo, dejando el cabello de los niños suave y fuerte, con un brillo natural. Beneficios: Hidratación intensa: la manteca de karité actúa profundamente en el cabello, dejándolo hidratado y nutrido. Protección y fortalecimiento: la vitamina E actúa como antioxidante natural, protegiendo el cuero cabelludo y fortaleciendo el cabello desde la raíz. Cabello suave y sedoso: el kit contiene caléndula y algodón, ingredientes que suavizan el cabello y le dan una sensación de suavidad. Limpieza suave: la fórmula del champú y el acondicionador es suave y no agresiva, ideal para el uso diario en niños. Incluye Shampoo 340 ml Acondicionador 340 ml Crema de peinar 300 ml
-  Updated: 2026-06-09T15:21:18Z
+  Updated: 2026-06-11T17:49:54Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/kit_clubinho_suavidad.png?v=1778698631
-  Price: 23.990,00 $ CLP
+  Price: 20.990,00 $ CLP
 - [Tonico Fortalecimiento y Anticaída Ajo 100ml](https://www.sb100dobrasil.cl/products/tonico-fortalecimiento-ajo-100ml): ✨ Tónico Fortalecedor Tradicional Gota Dourada – 100 ml🌟 Fortalecimiento desde la raíz y cuidado del cuero cabelludo.Tónico capilar que actúa directamente en la raíz, ayudando a mejorar la apariencia del cabello, aportando fuerza y vitalidad con el uso continuo. 🧬 Ingredientes clave🧄 Aceite y extracto de ajo: Contribuyen al fortalecimiento capilar.🌿 Aloe vera: Ayuda a hidratar y cuidar el cuero cabelludo.🌼 Caléndula: Aporta cuidado y suavidad. ✨ Beneficios🌟 Ayuda a fortalecer la raíz.💧 Mejora la apariencia del cabello.💎 Aporta vitalidad y resistencia. 🧼 Cómo se usa1️⃣ Aplicar directamente en la raíz del cabello.2️⃣ Masajear suavemente.3️⃣ Dejar actuar al menos 2 horas.4️⃣ Lavar el cabello como de costumbre. 📅 FrecuenciaUsar 3 veces por semana. Ideal para todo tipo de cabello, especialmente con caída o fragilidad. Preguntas frecuentes 1. ¿El tónico fortalecedor tradicional Gota Dourada 100 ml es eficaz contra la caída del cabello?Sí, el tónico fortalecedor tradicional Gota Dourada 100 ml está formulado para fortalecer la raíz del cabello, ayudando a combatir la caída y promoviendo un cabello más fuerte y saludable. 2. ¿Cómo se aplica correctamente el Tónico Fortalecedor Tradicional Gota Dourada 100 ml?Se debe aplicar 1 dosis del Tónico Fortalecedor Tradicional Gota Dourada 100 ml directamente en la raíz del cabello, dejando que el producto actúe durante al menos 2 horas. Repita el tratamiento 3 veces por semana durante 3 meses. 3. ¿El Tónico Fortalecedor Tradicional Gota Dorada 100 ml se puede usar en todo tipo de cabello?Sí, el Tónico Fortalecedor Tradicional Gota Dorada 100 ml está indicado para todo tipo de cabello, especialmente para aquellos que sufren de caída excesiva y fragilidad capilar. 4. ¿Cuáles son los ingredientes principales del Tónico Fortalecedor Tradicional Gota Dorada 100 ml?Los ingredientes principales del Tónico Fortalecedor Tradicional Gota Dorada 100 ml son aceite de ajo, extracto de ajo, aloe vera y caléndula, conocidos por sus propiedades fortalecedoras y regeneradoras para el cabello.
-  Updated: 2026-06-09T03:44:30Z
+  Updated: 2026-06-16T02:04:58Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/gota_dourada_tonico_ajo.jpg?v=1778772091
+  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/tonico_ajo_gota_dourada_brasil_mundial_futbol.jpg?v=1781532287
   Price: 9990,00 $ CLP
 - [Kit Fortalecimiento Hombre - Cabello y Barba](https://www.sb100dobrasil.cl/products/kit-fortalecimiento-cabello-y-barba): El kit para hombre Gota Dourada es ideal para hombres que buscan un cuidado completo y eficaz para su cabello y barba. Desarrollado con potentes ingredientes activos como biotina, cafeína y mentol, este kit hidrata, fortalece y combate la caída del cabello, dejando los cabellos más sanos y revitalizados. Si desea un cabello y una barba más fuertes, hidratados y con un brillo saludable, el kit Gota Dourada para hombre es la elección adecuada para su cuidado diario. Beneficios Fortalecimiento y crecimiento: El tónico para hombre Gota Dourada, con biotina y cafeína, fortalece la raíz y estimula el crecimiento saludable del cabello, combatiendo la caída. Hidratación profunda: La combinación de activos del kit proporciona una hidratación intensa, dejando el cabello y la barba más suaves y sedosos.Sensación refrescante: El mentol presente en el kit proporciona una sensación refrescante y revitalizante, garantizando una experiencia de uso placentera. Control de la caída: El uso continuo del kit de la línea para hombre Gota Dourada ayuda a reducir la caída del cabello, promoviendo un cabello más fuerte y saludable.Aspecto brillante: Con el fortalecimiento y la hidratación, tanto el cabello como la barba ganan brillo natural y un aspecto saludable. ¿Cómo usar? Para garantizar los mejores resultados con el kit para hombre Gota Dourada, siga los pasos que se indican a continuación: Champú acondicionador 2x1: aplique el champú sobre el cabello y la barba húmedos. Masajee bien y aclare a continuación. El champú limpiará en profundidad mientras hidrata y fortalece el cabello. Tónico para hombre Gota Dourada: Después de lavar el cabello y la barba, aplique el tónico directamente en la raíz del cabello y en la piel de la barba. Masajee bien y deje que el producto actúe. No es necesario enjuagar Preguntas frecuentes 1. ¿Se puede usar el kit para hombre Gota Dourada todos los días?Sí, el kit para hombre Gota Dourada se puede usar a diario. El champú 2x1 es lo suficientemente suave como para usarlo a diario y el tónico se puede aplicar en la raíz y en la barba todos los días para obtener mejores resultados. 2. ¿El Kit Línea Hombre Gota Dourada es adecuado para todo tipo de cabello?Sí, el Kit Línea Hombre Gota Dorada es adecuado para todo tipo de cabello y barba, especialmente para quienes buscan fortalecer el cabello y combatir la caída del cabello. 3. ¿El kit para hombre Gota Dourada ayuda a combatir la caída del cabello?Sí, la biotina y la cafeína presentes en el kit para hombre Gota Dourada son eficaces para fortalecer el cabello y reducir su caída, favoreciendo un crecimiento saludable.
-  Updated: 2026-06-09T15:21:16Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/kit_homem_biotina_fortalecimiento_de_cabello_y_barba.jpg?v=1778696467
   Price: 22.990,00 $ CLP
 - [Club niño Suavidad Shampoo y acondicionador](https://www.sb100dobrasil.cl/products/kit-champu-club-nino-suavidad-copia): ✨ Kit Capilar Infantil Hidratante🌟 Hidratación, suavidad y protección para uso diario.Kit desarrollado para el cuidado del cabello infantil, con una fórmula suave que limpia, hidrata y protege, dejando el cabello más manejable, suave y con brillo natural. 🧬 Ingredientes clave🧈 Manteca de karité: Aporta hidratación y nutrición.💎 Vitamina E: Contribuye a la protección del cabello.🌼 Caléndula: Ayuda a suavizar.🌿 Algodón: Aporta suavidad y cuidado. ✨ Beneficios🌟 Hidratación intensa.💧 Cabello más suave y manejable.💎 Aporta brillo natural.🫧 Limpieza suave, ideal para uso diario. 🧼 Cómo se usa1️⃣ Aplicar el shampoo sobre el cabello húmedo, masajear y enjuagar.2️⃣ Aplicar acondicionador en largos y puntas.3️⃣ Enjuagar bien. Ideal para todo tipo de cabello infantil.
-  Updated: 2026-06-09T15:21:16Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/clubinhotodotipodecabello_6cef8279-e95e-4eb9-b8db-76a5093cf86c.jpg?v=1777301757
   Price: 14.990,00 $ CLP
 - [Club niño Rizos Shampoo y Acondicionador](https://www.sb100dobrasil.cl/products/kit-champu-club-nino-rizos-copia): Ha sido desarrollado para cuidar el cabello rizado de los niños de forma suave y eficaz. Con una fórmula exclusiva que contiene manteca de karité, vitamina E, caléndula y algodón, este kit proporciona hidratación, definición y protección para los rizos de los más pequeños. Este completo kit contiene todo lo necesario para cuidar el cabello rizado de los niños, proporcionando resultados increíbles. Al adquirir el Kit Infantil Clubinho Cacheados Gota Dourada 340 ml, obtienes: Champú Infantil: limpieza suave sin resecar el cabello. Acondicionador Infantil: hidratación y nutrición intensa para los rizos. Beneficios: 1. Champú Infantil – Limpieza Suave El champú infantil ha sido desarrollado para limpiar delicadamente los cabellos rizados, eliminando las impurezas sin dañar la hidratación natural. Con caléndula y algodón, mantiene el cuero cabelludo protegido y sano. 2. Acondicionador infantil: hidratación profunda El acondicionador infantil contiene manteca de karité y vitamina E, que juntas proporcionan una hidratación intensa, ayudando a mantener los rizos definidos, suaves y sin frizz.
-  Updated: 2026-06-09T03:43:26Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Gota Dorada
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/clubinhocacheado.jpg?v=1777301717
   Price: 14.990,00 $ CLP
 - [Divino Potinho 2 en 1 Kids - Crema de peinar 250 grs](https://www.sb100dobrasil.cl/products/crema-de-peinar-mis-rizos-perfectos-argan-1-kg-copia): ✨ Crema de Peinar Divino Potinho Kids – 250 ml🌟 Cuidado suave para cabello ondulado, rizado, crespo y afro.Crema capilar 2 en 1 desarrollada especialmente para niños, que ayuda a hidratar, desenredar y definir los rizos de forma natural, aportando suavidad, brillo y control del frizz. 🧬 Ingredientes clave🥥 Aceite de coco: Ayuda a hidratar y aportar suavidad.🌿 Linaza: Contribuye a la definición y manejabilidad de los rizos. ✨ Beneficios🌀 Ayuda a definir rizos y ondas.💧 Hidratación y nutrición suave.🌬️ Control del frizz.💎 Aporta brillo y suavidad.✨ Acción desenredante para un peinado más fácil. 🧼 Cómo se usa✔ Como crema de peinar: aplicar una pequeña cantidad sobre cabello húmedo o seco y no enjuagar.✔ Como tratamiento: aplicar después del lavado, dejar actuar 3 minutos y enjuagar. 🌱 Fórmula🌿 Vegana y cruelty free✔ Dermatológicamente testeada🚫 Libre de sulfatos, parabenos, siliconas, petrolato y aceite mineral Ideal para cabello infantil ondulado, rizado, crespo o afro.
-  Updated: 2026-06-09T15:21:14Z
+  Updated: 2026-06-10T17:38:12Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/CREMADEPEINAR2EN1KIDS250GRS-FRONTAL_bb3f27c5-b926-4ebd-94b0-ef6fd8d75365.jpg?v=1773635681
   Price: 9990,00 $ CLP
 - [Crema de peinar 2 en 1 Mais Cachinhos Kids 250grs](https://www.sb100dobrasil.cl/products/crema-de-peinar-2-en-1-mais-cachinhos-kids-250grs): ✨ Crema de Peinar 2 en 1 Mais Cachinhos Kids – 250 g🌟 Cuidado suave para cabello rizado, crespo y ondulado infantil.Crema multifuncional desarrollada para niños mayores de 3 años, que ayuda a hidratar, definir los rizos y controlar el frizz, dejando el cabello más suave, brillante y fácil de peinar. 🧬 Ingredientes clave🌿 Aloe vera: Ayuda a hidratar y suavizar el cabello.💧 D-Pantenol: Contribuye a la hidratación y brillo.🧈 Manteca de karité: Nutre y mejora la suavidad del cabello. ✨ Beneficios🌀 Ayuda a definir rizos y ondas.💧 Hidratación y nutrición suave.🌬️ Control del frizz.💎 Cabello más brillante y manejable.✨ No deja residuos pesados. 🧼 Cómo se usa✔ Como crema de peinar: aplicar sobre cabello húmedo o seco y no enjuagar.✔ Como tratamiento: aplicar sobre el cabello limpio, dejar actuar 3 minutos y enjuagar. 🌱 Fórmula🌿 Vegana🚫 Libre de sulfatos, parabenos, siliconas, petrolato y aceite mineral✔ Dermatológicamente testeada Ideal para cabello infantil rizado, crespo u ondulado.
-  Updated: 2026-06-09T15:21:13Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/Cremadepeinar2en1MaisCachinhosKids250grs-frontal.webp?v=1773638935
   Price: 9990,00 $ CLP
 - [Spray desenredante divino Potinho Kids 250 grs](https://www.sb100dobrasil.cl/products/spray-desenredante-divino-potinho-kids-250-grs): ✨ Spray Desenredante Divino Potinho Kids🌟 Desenredado fácil y cuidado suave para rizos infantiles.Spray sin enjuague desarrollado para facilitar el peinado del cabello ondulado, rizado o afro infantil, ayudando a desenredar suavemente, controlar el frizz y aportar brillo sin dejar residuos pesados. 🧬 Ingredientes clave🥥 Aceite de coco: Ayuda a hidratar y suavizar el cabello.🌿 Linaza: Contribuye a la definición y manejabilidad de los rizos. ✨ Beneficios🌟 Desenreda sin tirones.🌀 Ayuda a definir y revitalizar los rizos.🌬️ Control del frizz y encrespamiento.💎 Aporta brillo y suavidad.✨ Fórmula ligera sin sensación pesada. 🧼 Cómo se usa1️⃣ Agitar antes de usar.2️⃣ Aplicar sobre cabello húmedo o seco.3️⃣ Rociar de manera uniforme sobre largos y puntas.4️⃣ Distribuir con los dedos o un cepillo suave.5️⃣ No enjuagar. 🌱 Fórmula🌿 Vegana y cruelty free🚫 Libre de sulfatos, parabenos, siliconas, petrolato y aceite mineral✔ Dermatológicamente testeada Ideal para cabello infantil ondulado, rizado o afro.
-  Updated: 2026-06-09T15:21:12Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/spraydesenredante.jpg?v=1773640415
   Price: 12.990,00 $ CLP
 - [Shampoo rizos perfectos Mais Cachos 325 ml](https://www.sb100dobrasil.cl/products/shampoo-rizos-perfectos-mais-cachos-325-ml): ✨ Shampoo Skala Mais Cachos – 325 ml🌟 Limpieza suave e hidratación para rizos definidos.Shampoo desarrollado para cabellos rizados, crespos, ondulados o en transición, que ayuda a limpiar suavemente sin resecar, aportando nutrición, brillo y mejor definición. 🧬 Ingredientes clave💧 D-Pantenol: Ayuda a hidratar y mejorar la suavidad del cabello.🌿 Aceite de ricino: Contribuye a fortalecer y mejorar la apariencia de los rizos.🧈 Manteca de karité: Nutre y ayuda a mantener la hidratación. ✨ Beneficios🌀 Ayuda a definir rizos y ondas.💧 Hidratación y nutrición intensa.🌬️ Control del frizz.💎 Aporta brillo y suavidad.✨ Limpia sin resecar el cabello. 🧼 Cómo se usa1️⃣ Aplicar sobre el cabello húmedo.2️⃣ Masajear suavemente el cuero cabelludo y largos.3️⃣ Enjuagar con abundante agua.4️⃣ Repetir si es necesario. 🌱 Fórmula🌿 Vegana🚫 Libre de sulfatos, parabenos, siliconas, petrolatos y aceites minerales Ideal para cabellos rizados, crespos, ondulados o en transición.
-  Updated: 2026-06-09T15:21:12Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoo_mais_cachos.jpg?v=1773640398
   Price: 12.990,00 $ CLP
 - [Shampoo Oleo de coco 325 ml](https://www.sb100dobrasil.cl/products/shampoo-oleo-de-coco-325-ml): ✨ Shampoo Óleo de Coco Sin Sal – 325 ml Con óleo de coco nutritivo. Este shampoo sin sal limpia suavemente mientras aporta hidratación, nutrición y control del frizz, ayudando a devolver la suavidad y el brillo natural al cabello seco o deshidratado. ✨ Shampoo Óleo de Coco Sin Sal – 325 ml🌟 Nutrición e hidratación para cabello seco. El Shampoo Óleo de Coco Sin Sal 325 ml está formulado para limpiar el cabello de forma delicada mientras aporta nutrición e hidratación capilar. Su fórmula con óleo de coco (Cocos Nucifera Oil) ayuda a mejorar la suavidad, controlar el frizz y dejar el cabello más manejable y brillante. 🧬 Ingredientes clave 🥥 Óleo de coco: nutre la fibra capilar y ayuda a mantener la hidratación del cabello.💧 Activos hidratantes: ayudan a reducir la resequedad y mejorar la suavidad.✨ Agentes acondicionadores: aportan brillo y mejoran la manejabilidad. ✨ Beneficios 🌟 Limpieza suave sin resecar.💧 Hidratación y nutrición capilar.🌬️ Control del frizz.💎 Cabello más suave y brillante.✨ Ideal para uso frecuente. 💇 Tipo de cabello recomendado ✔ Cabello seco✔ Cabello deshidratado✔ Cabello con frizz✔ Cabello ondulado o rizado✔ Cabello liso con resequedad 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello húmedo.2️⃣ Masajear suavemente hasta formar espuma.3️⃣ Enjuagar con abundante agua.4️⃣ Repetir si es necesario. 💡 Para mejores resultados, complementar con acondicionador o mascarilla de la línea Óleo de Coco
-  Updated: 2026-06-09T15:21:11Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoooleodecoco.webp?v=1773643858
   Price: 8590,00 $ CLP
 - [Shampoo maracuya y aceite de pataua 325 ml](https://www.sb100dobrasil.cl/products/shampoo-oleo-de-coco): El shampoo de Maracuyá, proporciona una nutrición amazónica al cabello, otorgando una gran resistencia y fuerza a los cabellos. Ayuda en la prevención de la caída, otorgando fuerza y resistencia a los cabellos. Ideal para cabellos frágiles y debilitados
-  Updated: 2026-06-09T15:21:10Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoomaracuyayaceite.webp?v=1773644629
   Price: 8590,00 $ CLP
 - [Shampoo Mango y castaña 325 ml](https://www.sb100dobrasil.cl/products/shampoo-mango-y-castana-325-ml): ✨ Shampoo Hidratante Mango y Nuez de Brasil🌟 Hidratación profunda y nutrición para cabello seco. El Shampoo Mango y Nuez de Brasil fue desarrollado para proporcionar una limpieza suave mientras hidrata profundamente el cabello seco, opaco y encrespado. Su fórmula nutritiva ayuda a restaurar la suavidad, mejorar la manejabilidad del cabello y aportar brillo natural desde la raíz hasta las puntas.La nuez de Brasil, proveniente de la Selva Amazónica y conocida por sus propiedades altamente nutritivas, combinada con la manteca de mango, ayuda a fortalecer la fibra capilar, mejorar la hidratación y reducir el frizz. Este shampoo hidratante es ideal para quienes buscan recuperar la vitalidad del cabello seco y mantener un cabello más suave, brillante y saludable. 🧬 Ingredientes clave 🥭 Manteca de mango: nutre intensamente el cabello y mejora la hidratación natural de la fibra capilar.💎 Aceite de nuez de Brasil: aporta nutrición profunda, suavidad y brillo al cabello.💧 Pantenol (Provitamina B5): ayuda a fortalecer el cabello y mejorar su hidratación.✨ Vitamina E: contribuye a proteger el cabello y aportar brillo saludable. ✨ Beneficios 🌟 Limpia suavemente el cabello sin resecarlo.💧 Proporciona hidratación profunda para cabello seco y deshidratado.🌬️ Ayuda a reducir el frizz y mejorar la manejabilidad del cabello.💎 Aporta brillo natural y suavidad desde la primera aplicación. ⚠️ Precauciones Uso externo. Evitar el contacto con los ojos y las membranas mucosas. En caso de contacto con los ojos, lavar con abundante agua. Mantener fuera del alcance de los niños y conservar lejos de la luz solar y del calor intenso.
-  Updated: 2026-06-09T15:21:09Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoomangoycastana1.webp?v=1773644968
   Price: 8590,00 $ CLP
 - [Shampoo Karité 325 ml](https://www.sb100dobrasil.cl/products/shampoo-karite-325-ml): Shampoo Karité Hidratante 325 ml | Nutrición para Cabello Seco Con manteca de karité nutritiva. Este shampoo hidratante limpia suavemente mientras aporta nutrición profunda, hidratación y control del frizz, ayudando a restaurar la suavidad y el brillo natural del cabello seco o dañado. ✨ Shampoo Karité (Shea Butter) – 325 ml🌟 Nutrición intensa y reparación para cabello seco o quebradizo. El Shampoo Karité 325 ml está formulado para limpiar el cabello de forma delicada mientras aporta nutrición profunda e hidratación capilar. Su fórmula enriquecida con manteca de karité, vitamina E y D-Pantenol ayuda a nutrir la fibra capilar, restaurar la suavidad del cabello y mejorar su resistencia. Gracias a sus propiedades emolientes, este shampoo nutritivo para cabello seco y dañado ayuda a fortalecer el cabello, reducir la resequedad y devolver la belleza natural a los hilos capilares. Es ideal para cabellos debilitados por tratamientos químicos, calor o procesos de coloración. 🧬 Ingredientes clave 🧈 Manteca de karité (Shea Butter): nutre profundamente el cabello y ayuda a restaurar la suavidad.💧 D-Pantenol (Provitamina B5): fortalece la fibra capilar y mejora la hidratación del cabello.✨ Vitamina E: ayuda a proteger el cabello y aporta brillo natural. ✨ Beneficios 🌟 Limpieza suave sin resecar el cabello.💧 Nutrición profunda para cabello seco o dañado.🌬️ Ayuda a controlar el frizz y mejorar la manejabilidad.💎 Cabello más suave, fuerte y con brillo natural.✨ Ideal para el cuidado diario del cabello. 💇 Tipo de cabello recomendado ✔ Cabello seco✔ Cabello dañado✔ Cabello quebradizo✔ Cabello tratado químicamente✔ Cabello con frizz 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello húmedo.2️⃣ Masajear suavemente el cuero cabelludo hasta obtener una espuma cremosa.3️⃣ Enjuagar con abundante agua.4️⃣ Repetir la aplicación si es necesario. 💡 Para potenciar los resultados, complementar con acondicionador o mascarilla de la línea Skala Karité.
-  Updated: 2026-06-09T15:21:08Z
+  Updated: 2026-06-10T17:38:13Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampookarite.jpg?v=1773645488
   Price: 8590,00 $ CLP
 - [Shampoo bomba de vitaminas Abacate 325 ml](https://www.sb100dobrasil.cl/products/shampoo-bomba-de-vitaminas-abacate-325-ml): ✨ Shampoo Skala Bomba de Vitaminas Abacate – 325 ml🌟 Limpieza nutritiva para cabello seco, débil o sin vida.Shampoo formulado para ayudar a fortalecer, hidratar y revitalizar el cabello, aportando nutrientes esenciales que mejoran su apariencia, suavidad y brillo natural. 🧬 Ingredientes clave🥑 Aceite de aguacate: Ayuda a nutrir e hidratar profundamente.🌿 Aceite de ricino: Contribuye al fortalecimiento de la fibra capilar.💧 D-Pantenol: Aporta hidratación, fuerza y elasticidad.💎 Vitamina E: Ayuda a proteger y mantener el cabello saludable.🌱 Aloe vera: Favorece la hidratación y suavidad. ✨ Beneficios🌟 Nutrición profunda para cabello seco o dañado.💧 Hidratación y suavidad duradera.💪 Ayuda a reducir la rotura por quiebre.💎 Brillo natural y aspecto saludable.✨ Cabello más manejable y resistente. 🧼 Cómo se usa1️⃣ Aplicar sobre el cabello húmedo.2️⃣ Masajear suavemente el cuero cabelludo y largos.3️⃣ Enjuagar con abundante agua.4️⃣ Repetir si es necesario. 🌱 Fórmula🌿 Vegana y cruelty free🚫 Libre de sal, parabenos, siliconas, aceites minerales y alcoholes secantes Ideal para cabellos secos, debilitados, opacos o con tendencia a la rotura.
-  Updated: 2026-06-09T15:21:07Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoososvitaminas.webp?v=1773645714
   Price: 8590,00 $ CLP
 - [Shampoo Babosa Aloe Vera 325 ml](https://www.sb100dobrasil.cl/products/shampoo-babosa-aloe-vera-325-ml): ✨ Shampoo Babosa (Aloe Vera) – 325 ml🌟 Hidratación intensa, control de frizz y definición para cabello rizado. Con extracto de aloe vera, manteca de karité y D-Pantenol. Este shampoo hidratante para cabello rizado limpia suavemente mientras aporta hidratación profunda, nutrición capilar y control del frizz, ayudando a mantener los rizos suaves, definidos y con brillo natural. ✨ Shampoo Babosa (Aloe Vera) – 325 ml🌟 Hidratación intensa, control de frizz y definición para cabello rizado. El Shampoo Babosa Skala Expert 325 ml fue desarrollado especialmente para cubrir las necesidades del cabello rizado y ondulado, aportando hidratación profunda y cuidado capilar. Su fórmula combina aloe vera, manteca de karité y D-Pantenol, un trío ideal que ayuda a restaurar la hidratación natural del cabello, fortalecer la fibra capilar y mejorar la elasticidad de los rizos. Gracias a sus activos nutritivos, este shampoo ayuda a reducir el frizz, mejorar la manejabilidad y dejar los rizos más definidos, suaves y brillantes. 🧬 Ingredientes clave 🌿 Aloe vera (babosa): rico en vitaminas, minerales y aminoácidos que ayudan a tratar profundamente la fibra capilar.🧈 Manteca de karité: ayuda a mantener el cabello saludable y nutrido.💧 D-Pantenol (Provitamina B5): aporta hidratación, fuerza y elasticidad al cabello. ✨ Beneficios 🌟 Limpieza suave sin resecar el cabello.💧 Hidratación profunda para cabello rizado o seco.🌬️ Ayuda a controlar el frizz y mejorar la definición de los rizos.💎 Cabello más suave, brillante y manejable.✨ Ideal para el cuidado diario del cabello rizado. 💇 Tipo de cabello recomendado ✔ Cabello rizado✔ Cabello ondulado✔ Cabello seco✔ Cabello con frizz✔ Cabello que necesita hidratación 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello mojado.2️⃣ Masajear suavemente el cuero cabelludo con la yema de los dedos hasta obtener espuma cremosa.3️⃣ Distribuir de raíz a puntas.4️⃣ Enjuagar con abundante agua.5️⃣ Repetir la aplicación si es necesario.
-  Updated: 2026-06-09T15:21:06Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/shampoobabosa.png?v=1773646331
   Price: 8590,00 $ CLP
 - [Mascara Watermelon (Sandia) - Mascarilla Capilar 1000 grs](https://www.sb100dobrasil.cl/products/mascara-watermelon-1000-grs-sandia): ✨ Mascarilla Capilar Sandía Watermelon – 1000 g🌟 Nutrición intensa y definición duradera para rizos. La Mascarilla Watermelon Sandía 1000 g fue desarrollada para revitalizar y nutrir el cabello rizado y afro, proporcionando hidratación profunda y definición prolongada. Su fórmula enriquecida con aceite de semilla de sandía ayuda a mejorar la elasticidad del cabello, fortalecer la fibra capilar y aportar suavidad y brillo natural. Esta crema capilar 2 en 1 es ideal para quienes buscan versatilidad en su rutina capilar, ya que puede utilizarse como tratamiento profundo, crema para peinar o co-wash. Gracias a sus activos nutritivos y a las vitaminas A y C, ayuda a mantener el cabello fuerte, hidratado y con rizos definidos por más tiempo. 🧬 Ingredientes clave 🍉 Aceite de semilla de sandía: nutre profundamente la fibra capilar y ayuda a mejorar la hidratación del cabello.💧 Vitaminas A y C: contribuyen a fortalecer el cabello y mejorar su vitalidad.✨ Activos nutritivos: ayudan a mejorar la suavidad, el brillo y la manejabilidad del cabello. ✨ Beneficios 🌟 Nutrición profunda para cabello rizado o afro.💧 Hidratación que ayuda a mantener los rizos suaves y saludables.🌬️ Definición de rizos por hasta 72 horas.💎 Cabello más brillante, suave y manejable.✨ Crema 2 en 1 que puede usarse como tratamiento, crema de peinar o co-wash. 💇 Tipo de cabello recomendado ✔ Cabello rizado✔ Cabello afro✔ Ondas y rizos tipo 2A a 4C✔ Cabello seco o deshidratado✔ Cabello que necesita nutrición capilar 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas masajeando suavemente.3️⃣ Dejar actuar unos minutos para un tratamiento nutritivo.4️⃣ Enjuagar con abundante agua o usar como crema de peinar sin enjuague según la rutina capilar. 💡 Para mejores resultados, complementar con otros productos de la línea Watermelon para potenciar la nutrición y definición de los rizos.
-  Updated: 2026-06-09T15:21:05Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/ChatGPTImage25may2026_03_39_46p.m..png?v=1779737999
   Price: 10.490,00 $ CLP
 - [Mascara Strawberry 1000g SKALA - SB100%DoBrasil](https://www.sb100dobrasil.cl/products/mascara-strawberry-fresa-1000g): El extracto de fresa y aceite de oliva, aporta nutrición profunda, brillo intenso y suavidad duradera. Restaura la fibra capilar y mejora la manejabilidad para todo tipo de Cabello
-  Updated: 2026-06-09T15:21:05Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-026065_padronizada.png?v=1779808312
   Price: 10.490,00 $ CLP
 - [Maracuya y Aceite de Pataua – Mascara 1000 grs](https://www.sb100dobrasil.cl/products/mascara-maracuya-y-aceite-de-pataua-1000-grs): ✨ Mascarilla Capilar Maracuyá y Aceite de Patauá – 1000 g🌟 Fuerza, nutrición y resistencia para todo tipo de cabello. La Mascarilla Maracuyá & Aceite de Patauá está inspirada en la riqueza natural de Brasil y desarrollada para aportar nutrición profunda, fuerza y resistencia al cabello. Su fórmula combina ingredientes amazónicos que ayudan a revitalizar la fibra capilar y mejorar la salud del cabello. El aceite de patauá, conocido como el “Aceite de Oliva Amazónico”, es reconocido por sus propiedades nutritivas que ayudan a fortalecer el cabello y favorecer su crecimiento saludable. Combinado con el maracuyá, aporta frescura, vitalidad y una fragancia tropical que transforma la rutina de cuidado capilar en una experiencia sensorial única. Esta crema capilar 2 en 1 es ideal para quienes buscan versatilidad en su rutina capilar, ya que puede utilizarse como tratamiento profundo, crema para peinar o co-wash, aportando nutrición natural y fortaleciendo el cabello desde la raíz hasta las puntas. 🧬 Ingredientes clave Aceite de patauá: nutre profundamente la fibra capilar y ayuda a fortalecer el cabello. Maracuyá: aporta vitalidad, frescura y ayuda a mejorar la apariencia del cabello. Activos nutritivos: contribuyen a mejorar la suavidad y manejabilidad del cabello. ✨ Beneficios 🌟 Nutrición profunda para todo tipo de cabello.💧 Ayuda a fortalecer la fibra capilar.🌬️ Mejora la resistencia y vitalidad del cabello.💎 Cabello más suave, brillante y saludable.✨ Crema 2 en 1 que puede utilizarse como tratamiento capilar, crema para peinar o co-wash. 💇 Tipo de cabello recomendado ✔ Todo tipo de cabello✔ Cabello seco o debilitado✔ Cabello con frizz✔ Cabello que necesita nutrición capilar 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas masajeando suavemente.3️⃣ Dejar actuar unos minutos para un tratamiento nutritivo.4️⃣ Enjuagar con abundante agua o usar como crema de peinar según la rutina capilar. 🌿 Libre de sulfatos, parabenos, petrolato, siliconas y aceite mineral.
-  Updated: 2026-06-09T15:21:04Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-024681_padronizada.png?v=1779822059
   Price: 10.490,00 $ CLP
 - [Mascara Abacate Plus 1000 grs](https://www.sb100dobrasil.cl/products/mascara-abacate-plus-1000-grs): ✨ Mascarilla Capilar Aguacate (Palta) y Aceite de Ricino – 1000 g🌟 Hidratación, fuerza y crecimiento saludable para todo tipo de cabello. La Mascarilla Abacate Skala Brasil fue desarrollada para revitalizar el cabello debilitado, proporcionando hidratación profunda y fortalecimiento capilar. Su fórmula enriquecida con aceite de aguacate y aceite de ricino ayuda a mejorar la salud de la fibra capilar, aportando suavidad, brillo y mayor resistencia al cabello. El aceite de ricino es conocido por sus propiedades fortalecedoras que ayudan a estimular el crecimiento saludable del cabello y mejorar la resistencia de las hebras. Combinado con el aguacate, aporta hidratación intensa, suavidad y control del frizz, dejando el cabello más manejable y saludable. 🧬 Ingredientes clave 🥑 Aceite de aguacate: nutre profundamente la fibra capilar y aporta hidratación esencial.🌿 Aceite de ricino: ayuda a fortalecer el cabello y estimular su crecimiento saludable.💧 Activos hidratantes: contribuyen a mejorar la suavidad y manejabilidad del cabello. ✨ Beneficios 🌟 Hidratación profunda para todo tipo de cabello.💧 Ayuda a fortalecer la fibra capilar.🌬️ Control del frizz y mejora de la manejabilidad.💎 Cabello más suave, brillante y saludable.✨ Nutrición natural con ingredientes de origen vegetal. 💇 Tipo de cabello recomendado ✔ Todo tipo de cabello✔ Cabello débil o sin vida✔ Cabello seco o deshidratado✔ Cabello con frizz✔ Cabello que necesita hidratación capilar 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas masajeando suavemente.3️⃣ Dejar actuar unos minutos para un tratamiento hidratante.4️⃣ Enjuagar con abundante agua o usar como crema de peinar según la rutina capilar.
-  Updated: 2026-06-09T15:21:03Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mascaraabacate.png?v=1773679357
   Price: 10.490,00 $ CLP
 - [Mascara Babosa Aloe Vera 1000 grs](https://www.sb100dobrasil.cl/products/mascara-babosa-aloe-vera-1000-grs): ✨ Mascarilla Capilar Babosa Aloe Vera – 1000 g🌟 Hidratación profunda y nutrición para cabello rizado. La Mascarilla Babosa Aloe Vera 1000 g fue desarrollada especialmente para atender las necesidades del cabello rizado, proporcionando hidratación profunda y cuidado capilar intensivo. Su fórmula enriquecida con aloe vera, manteca de karité y D-Pantenol ayuda a nutrir la fibra capilar, mejorar la elasticidad del cabello y devolver la suavidad natural a los rizos. El aloe vera, conocido por su alto contenido de vitaminas, minerales y aminoácidos, contribuye a hidratar profundamente el cabello y mejorar su vitalidad. Esta crema capilar 2 en 1 es ideal para quienes buscan versatilidad en su rutina capilar, ya que puede utilizarse como tratamiento profundo, crema para peinar o co-wash, ayudando a mantener los rizos hidratados, suaves y con un brillo espectacular. 🧬 Ingredientes clave 🌿 Aloe vera (babosa): hidrata profundamente el cabello y mejora la salud de la fibra capilar.🧈 Manteca de karité: ayuda a nutrir y proteger el cabello, aportando suavidad.💧 D-Pantenol (Provitamina B5): fortalece la fibra capilar y mejora la hidratación del cabello. ✨ Beneficios 🌟 Hidratación profunda para cabello rizado.💧 Nutrición que ayuda a mejorar la elasticidad del cabello.🌬️ Control del frizz y mejora de la definición de los rizos.💎 Cabello más suave, brillante y saludable.✨ Crema 2 en 1 que puede utilizarse como tratamiento capilar, crema de peinar o co-wash. 💇 Tipo de cabello recomendado ✔ Cabello rizado✔ Cabello ondulado✔ Rizos tipo 2A a 4C✔ Cabello seco o deshidratado✔ Cabello con frizz 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas masajeando suavemente.3️⃣ Dejar actuar unos minutos para un tratamiento hidratante.4️⃣ Enjuagar con abundante agua o usar como crema de peinar según la rutina capilar.
-  Updated: 2026-06-09T15:21:02Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mascarababosa.png?v=1773679668
   Price: 10.490,00 $ CLP
 - [Mascara Bomba de vitaminas Banana y Bacuri 1000 grs](https://www.sb100dobrasil.cl/products/mascara-bomba-de-vitaminas-banana-y-bacuri-1000-grs): ✨ Mascarilla Capilar Banana y Bacuri – 1000 g🌟 Reparación profunda y revitalización para todo tipo de cabello. La Mascarilla Banana & Bacuri 1000 g fue desarrollada para revitalizar el cabello y restaurar la salud de la fibra capilar. Su fórmula enriquecida con banana, bacuri, colágeno vegetal y ceramidas ayuda a reparar el cabello dañado, mejorar la suavidad y devolver el brillo natural al cabello. La banana aporta nutrientes esenciales que ayudan a fortalecer el cabello y mejorar su apariencia. El bacuri, conocido por sus propiedades nutritivas, ayuda a restaurar la suavidad y proteger la fibra capilar. Junto con el colágeno vegetal y las ceramidas, contribuyen a mejorar la elasticidad del cabello y reducir el frizz. Esta crema capilar 2 en 1 es ideal para quienes buscan versatilidad en su rutina capilar, ya que puede utilizarse como tratamiento profundo, crema para peinar o co-wash, proporcionando reparación y nutrición intensiva para el cabello. 🧬 Ingredientes clave 🍌 Banana: aporta nutrientes que ayudan a fortalecer y revitalizar el cabello.🌰 Bacuri: nutre profundamente la fibra capilar y mejora la suavidad del cabello.💧 Colágeno vegetal: ayuda a mejorar la elasticidad y resistencia del cabello.✨ Ceramidas: contribuyen a reparar la fibra capilar y mejorar la textura del cabello. ✨ Beneficios 🌟 Reparación intensa para todo tipo de cabello.💧 Nutrición profunda que revitaliza la fibra capilar.🌬️ Control del frizz y mejora de la manejabilidad.💎 Cabello más suave, brillante y saludable.✨ Crema 2 en 1 que puede utilizarse como tratamiento capilar, crema de peinar o co-wash. 💇 Tipo de cabello recomendado ✔ Todo tipo de cabello✔ Cabello dañado o debilitado✔ Cabello seco o sin brillo✔ Cabello con frizz✔ Cabello que necesita reparación capilar 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas masajeando suavemente.3️⃣ Dejar actuar unos minutos para un tratamiento reparador.4️⃣ Enjuagar con abundante agua o usar como crema de peinar según la rutina capilar. 💡 Para mejores resultados, complementar con otros productos de la línea Banana para potenciar la reparación y nutrición del cabello.
-  Updated: 2026-06-09T15:21:01Z
+  Updated: 2026-06-10T17:38:07Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mascarabananaybacuri.webp?v=1773679929
   Price: 10.490,00 $ CLP
 - [Grape (Uva) – Mascara Capilar 1000 grs](https://www.sb100dobrasil.cl/products/mascara-grape-1000-grs-uva): ✨ Mascarilla Capilar Uva con Aceite de Semilla de Uva – 1000 g🌟 Hidratación intensa y brillo radiante para todo tipo de cabello. La Mascarilla Uva Skala Frutástica 1000 g fue desarrollada para hidratar profundamente el cabello mientras mejora su brillo natural y suavidad. Su fórmula enriquecida con aceite de semilla de uva ayuda a nutrir la fibra capilar, mejorar la apariencia del cabello y dejarlo más suave y manejable. El aceite de semilla de uva es conocido por sus propiedades antioxidantes y nutritivas, que ayudan a fortalecer la fibra capilar y aportar brillo al cabello. Esta mascarilla es ideal para revitalizar el cabello opaco y devolverle su apariencia saludable. Esta crema capilar 2 en 1 es perfecta para quienes buscan versatilidad en su rutina capilar, ya que puede utilizarse como tratamiento profundo, crema para peinar o co-wash, proporcionando hidratación y cuidado capilar intensivo. 🧬 Ingredientes clave 🍇 Aceite de semilla de uva: ayuda a nutrir el cabello y aportar brillo natural.💧 Activos hidratantes: ayudan a mantener la hidratación del cabello.✨ Antioxidantes naturales: contribuyen a proteger la fibra capilar y mejorar su apariencia. ✨ Beneficios 🌟 Hidratación profunda para todo tipo de cabello.💧 Cabello más suave y manejable.🌬️ Mejora el brillo natural del cabello.💎 Aroma fresco e irresistible a uva.✨ Crema 2 en 1 que puede utilizarse como tratamiento capilar, crema de peinar o co-wash. 💇 Tipo de cabello recomendado ✔ Todo tipo de cabello✔ Cabello seco o deshidratado✔ Cabello opaco✔ Cabello con frizz✔ Cabello que necesita hidratación capilar 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas masajeando suavemente.3️⃣ Dejar actuar unos minutos para un tratamiento hidratante.4️⃣ Enjuagar con abundante agua o usar como crema de peinar según la rutina capilar.
-  Updated: 2026-06-09T15:21:00Z
+  Updated: 2026-06-16T01:31:13Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-026076_padronizada.png?v=1779820251
   Price: 10.490,00 $ CLP
 - [Mais Cachinhos Kids – Mascara Capilar Rizos 1000 grs](https://www.sb100dobrasil.cl/products/mascara-mais-cachinhos-kids-1000-grs): ✨ Mascarilla Capilar Kids Mais Cachinhos – 1000 g🌟 Hidratación suave y definición para rizos infantiles. La Mascarilla SKALA BRASIL Mais Cachinhos Kids 1000 g fue especialmente formulada para atender las necesidades del cabello rizado infantil, proporcionando hidratación profunda y cuidado delicado para el cuero cabelludo sensible de los niños. Su fórmula enriquecida con aloe vera, manteca de karité y D-Pantenol ayuda a hidratar la fibra capilar, mejorar la suavidad del cabello y aportar brillo natural a los rizos. Gracias a sus ingredientes nutritivos, esta mascarilla ayuda a mantener los rizos suaves, definidos y saludables. Esta línea está indicada para niños a partir de 3 años, ofreciendo una rutina de cuidado capilar segura y especialmente diseñada para el cabello infantil. 🧬 Ingredientes clave 🌿 Aloe vera (babosa): hidrata profundamente el cabello y mejora su vitalidad.🧈 Manteca de karité: nutre y suaviza la fibra capilar, ayudando a mantener los rizos saludables.💧 D-Pantenol (Provitamina B5): fortalece el cabello y mejora la hidratación capilar. ✨ Beneficios 🌟 Hidratación profunda para cabello rizado infantil.💧 Cabello más suave y manejable.🌬️ Ayuda a mantener la definición natural de los rizos.💎 Brillo natural y apariencia saludable.✨ Crema 2 en 1 que puede utilizarse como tratamiento capilar, crema de peinar o co-wash. 💇 Tipo de cabello recomendado ✔ Cabello rizado infantil✔ Rizos tipo 2C a 4C✔ Cabello seco o deshidratado✔ Cabello que necesita hidratación suave 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas masajeando suavemente.3️⃣ Dejar actuar unos minutos para un tratamiento hidratante.4️⃣ Enjuagar con abundante agua o usar como crema de peinar según la rutina capilar.
-  Updated: 2026-06-09T15:20:58Z
+  Updated: 2026-06-19T20:03:27Z
   Vendor: Skala
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MASCARA_MAIS_CACHINHOS_KIDS.jpg?v=1778529083
   Price: 9990,00 $ CLP
 - [Mais Lisos – Mascara Capilar 1000 grs](https://www.sb100dobrasil.cl/products/mascara-mais-lisos-1000-grs): ✨ Mascarilla Capilar Mais Lisos – 1000 g🌟 Cabello más liso, suave y manejable. Mascarilla capilar desarrollada para cabello liso natural o alisado, que ayuda a hidratar, nutrir y mejorar la alineación de la fibra capilar, dejando el cabello más suave y con menos frizz. Su fórmula enriquecida con proteínas de arroz, almidón de maíz y aminoácidos ayuda a fortalecer la fibra capilar, reducir el volumen del cabello y mantener el cabello más alineado y manejable. Gracias a sus activos nutritivos, contribuye a mejorar la suavidad del cabello y controlar el frizz, dejando el cabello más liso y brillante. Esta crema capilar 2 en 1 es ideal para quienes buscan versatilidad en su rutina capilar, ya que puede utilizarse como tratamiento profundo, crema para peinar o co-wash, aportando nutrición y cuidado intensivo para el cabello liso. 🧬 Ingredientes clave🌾 Proteínas de arroz: Ayudan a fortalecer y suavizar la fibra capilar.🌽 Almidón de maíz: Contribuye a controlar el volumen y mejorar la alineación.💧 Aminoácidos: Ayudan a nutrir y mejorar la resistencia del cabello. ✨ Beneficios🌟 Ayuda a mantener el cabello más alineado.💧 Hidratación y nutrición profunda.🌬️ Control del frizz y reducción de volumen.💎 Cabello más suave, brillante y manejable. 🧼 Cómo se usa1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas.3️⃣ Dejar actuar unos minutos.4️⃣ Enjuagar bien o usar como crema de peinar según necesidad. 📅 Uso versátil✔ Tratamiento capilar✔ Crema para peinar✔ Co-wash 🌱 Fórmula🚫 Libre de sulfatos, parabenos, petrolato, siliconas y aceite mineral Ideal para cabello liso, alisado o con frizz.
-  Updated: 2026-06-09T15:20:58Z
+  Updated: 2026-06-19T20:02:46Z
   Vendor: Skala
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MASCARA_MAIS_LISOS.jpg?v=1778527480
   Price: 9990,00 $ CLP
 - [Potao do amor – Mascara Capilar 1000 grs](https://www.sb100dobrasil.cl/products/mascara-potao-do-amor-1000-grs): Mascarilla Capilar Potão do Amor 1000 g | Reparación, Brillo y Reconstrucción Capilar Con una poderosa combinación de 18 ingredientes nutritivos. Esta mascarilla capilar reparadora ayuda a revitalizar el cabello, restaurar la fibra capilar y devolver el brillo natural para un cabello más fuerte, saludable y lleno de vitalidad. ✨ Mascarilla Capilar Potão do Amor – 1000 g🌟 Reparación profunda y brillo para todo tipo de cabello. La Mascarilla SKALA BRASIL Potão do Amor 1000 g fue creada especialmente para quienes buscan un tratamiento intensivo contra los daños diarios del cabello. Su fórmula exclusiva combina 18 ingredientes potentes que ayudan a renovar la apariencia del cabello, mejorar la suavidad y devolver la vitalidad natural a la fibra capilar. Gracias a sus activos nutritivos, esta mascarilla contribuye a restaurar el cabello debilitado, mejorar el brillo y aportar una apariencia más saludable. Es ideal para quienes desean recuperar la fuerza del cabello y mantenerlo protegido frente a las agresiones diarias. 🧬 Ingredientes clave 🌿 Mezcla de 18 ingredientes nutritivos: ayudan a revitalizar la fibra capilar y mejorar la apariencia del cabello.💧 Activos hidratantes: contribuyen a mantener la hidratación natural del cabello.✨ Nutrientes fortalecedores: ayudan a mejorar la resistencia y el brillo del cabello. ✨ Beneficios 🌟 Reparación intensiva para cabello dañado o debilitado.💧 Hidratación y nutrición profunda.🌬️ Mejora la suavidad y manejabilidad del cabello.💎 Cabello más brillante, fuerte y saludable.✨ Crema 2 en 1 que puede utilizarse como tratamiento capilar, crema de peinar o co-wash. 💇 Tipo de cabello recomendado ✔ Todo tipo de cabello✔ Cabello dañado o debilitado✔ Cabello opaco✔ Cabello con frizz✔ Cabello que necesita reconstrucción capilar 🧼 Cómo se usa 1️⃣ Aplicar sobre el cabello limpio y húmedo.2️⃣ Distribuir de medios a puntas masajeando suavemente.3️⃣ Dejar actuar unos minutos para un tratamiento reparador.4️⃣ Enjuagar con abundante agua o usar como crema de peinar según la rutina capilar.
-  Updated: 2026-06-09T15:20:56Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKMC-023375_padronizada.png?v=1779821248
   Price: 9990,00 $ CLP
 - [Amido de Milho (Almidon de Maiz) 250 grs – Crema para peinar 3 en 1](https://www.sb100dobrasil.cl/products/crema-para-peinar-3-en-1-amido-de-milho-250-grs-almidon-de-maiz): ✨ Crema para Peinar 3 en 1 Amido de Milho Skala🌟 Multifuncional: acondicionador, tratamiento y leave-in.Crema capilar 3 en 1 que ayuda a hidratar, fortalecer y mejorar la apariencia del cabello, dejándolo más suave, brillante y manejable. 🧬 Ingredientes clave🌽 Almidón de maíz: Aporta suavidad y ayuda a controlar el frizz.🧈 Manteca de karité: Hidrata y mejora la elasticidad.🥥 Aceite de coco: Nutre y aporta brillo.💧 D-Pantenol: Ayuda a fortalecer e hidratar. ✨ Beneficios🌟 Nutrición y fortalecimiento.💧 Hidratación y suavidad inmediata.🌬️ Control del frizz y mejor manejabilidad.💎 Aporta brillo y elasticidad.🔥 Protección térmica. 🧼 Cómo se usa✔ Como acondicionador: aplicar sobre cabello húmedo, dejar actuar 2 minutos y enjuagar.✔ Como tratamiento: aplicar de medios a puntas, dejar 3–15 minutos y enjuagar.✔ Como crema de peinar: aplicar en cabello húmedo o seco y no enjuagar. 📅 FrecuenciaUso diario o según necesidad. Ideal para todo tipo de cabello, especialmente seco, dañado o con frizz.
-  Updated: 2026-06-09T15:20:55Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/cremaparapeinaramidodemilho_301fcfd3-d279-42d1-b411-645ba09578f3.webp?v=1773681976
   Price: 9990,00 $ CLP
 - [Acachonados – Mascara Capilar 1000 grs](https://www.sb100dobrasil.cl/products/mascara-acachonados): ✨ Máscara Capilar Skala Acachonados – 1000 gCon aceites de argán, coco, patauá y carbón activado. Nutre y ayuda a definir rizos. 🧬 Ingredientes clave✨ Aceite de argán: Aporta brillo y suavidad.🥥 Aceite de coco: Ayuda a nutrir e hidratar.🌿 Aceite de patauá: Contribuye a la manejabilidad del cabello.🖤 Carbón activado: Ayuda a eliminar impurezas y exceso de grasa. ✨ Beneficios🌟 Hidratación y nutrición profunda.🌀 Mejora la definición de rizos.💧 Ayuda a controlar el frizz.💎 Aporta suavidad y brillo. 🧼 Cómo se usa✔ Como mascarilla: aplicar sobre el cabello húmedo, dejar actuar de 3 a 15 minutos y enjuagar.✔ Como crema de peinar: aplicar pequeña cantidad sobre cabello húmedo o seco y no enjuagar. 🌱 Fórmula🌿 Vegana y cruelty free🚫 Libre de sulfatos, parabenos y siliconas Ideal para cabello rizado, crespo o en transición.
-  Updated: 2026-06-09T15:20:54Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Skala
   Product Type: Mascara Capilar
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/skala_mascara_capilar_acachonados_2_en_1_crema_de_peinar_hidratante.png?v=1778802298
   Price: 9990,00 $ CLP
 - [Bomba de vitaminas 650 ml – Kit Shampoo/Acondicionador](https://www.sb100dobrasil.cl/products/kit-shampoo-acondicionador-bomba-de-vitaminas-650-ml): ✨ Kit Skala Bomba de Vitaminas – 650 ml🌟 Fortalecimiento, hidratación y cuidado diario para el cabello.Kit capilar formulado para ayudar a revitalizar, hidratar y fortalecer el cabello, aportando nutrientes esenciales que mejoran su apariencia, suavidad y resistencia. 🧬 Ingredientes clave🟡 Vitamina A: Ayuda a mantener el cabello saludable.💎 Vitamina E: Contribuye a nutrir y proteger la fibra capilar.💧 D-Pantenol: Aporta hidratación, fuerza y elasticidad.🌿 Proteínas vegetales: Ayudan a restaurar la suavidad y el brillo. ✨ Beneficios🌟 Ayuda a fortalecer el cabello.💧 Hidratación y nutrición profunda.💎 Aporta brillo y suavidad.✨ Mejora la apariencia del cabello opaco o debilitado. 🧴 Contenido del kit🫧 1 Shampoo Bomba de Vitaminas – 650 ml💧 1 Acondicionador Bomba de Vitaminas – 650 ml 🧼 Cómo se usa1️⃣ Aplicar el shampoo sobre el cabello húmedo y masajear.2️⃣ Enjuagar con abundante agua.3️⃣ Aplicar el acondicionador en largos y puntas.4️⃣ Dejar actuar unos minutos y enjuagar. 🌱 Fórmula🌿 Vegana🚫 Libre de parabenos, siliconas, vaselina y aceites minerales Ideal para cabellos opacos, quebradizos o que necesitan fortalecimiento y reparación.
-  Updated: 2026-06-09T15:20:53Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/kitsosvitaminas.jpg?v=1773683062
   Price: 9990,00 $ CLP
 - [Oleo de coco (Aceite de coco) – Mascara Capilar 1000 grs](https://www.sb100dobrasil.cl/products/mascara-oleo-de-coco-1000-grs-aceite-de-coco): ✨ Máscara Skala Óleo de Coco – 1000 g🌟 Nutrición e hidratación para cabello seco o dañado. Con aceite de coco, vitamina E y D-Pantenol. Nutre e hidrata profundamente el cabello. Mascarilla capilar formulada para ayudar a hidratar y fortalecer el cabello, mejorando la suavidad, el brillo y la apariencia de cabellos secos, porosos o con frizz. 🧬 Ingredientes clave🥥 Aceite de coco: Ayuda a nutrir y suavizar el cabello.💎 Vitamina E: Contribuye al cuidado capilar.💧 D-Pantenol: Aporta hidratación y suavidad. ✨ Beneficios🌟 Hidratación profunda.💧 Nutrición intensa para cabello seco o poroso.🌬️ Ayuda a controlar el frizz.💎 Cabello más suave y brillante. 🧼 Cómo se usa✔ Como tratamiento: aplicar de medios a puntas, dejar actuar 3 minutos (o hasta 15 minutos con gorro) y enjuagar.✔ Como co-wash: aplicar en cuero cabelludo, masajear y enjuagar.✔ Como crema de peinar: aplicar pequeña cantidad y no enjuagar. 🌱 Fórmula🌿 Vegana🚫 Libre de sulfatos, parabenos, siliconas, petrolato y aceite mineral Ideal para cabellos secos, dañados, rizados o muy porosos.
-  Updated: 2026-06-09T15:20:52Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Skala
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/oleo_coco_mascara.jpg?v=1778527767
   Price: 10.490,00 $ CLP
 - [Mais Cachos 650 ml – Kit Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-shampoo-acondicionador-mais-cachos-650-ml): ✨ Kit Shampoo y Acondicionador Mais Cachos – 650 ml🌟 Hidratación, definición y cuidado completo para cabello rizado. El Kit Shampoo + Acondicionador Mais Cachos 650 ml fue desarrollado especialmente para cubrir las necesidades del cabello rizado, encrespado o en transición. Su fórmula rica en nutrientes ayuda a hidratar profundamente la fibra capilar, mejorar la manejabilidad del cabello y resaltar la definición natural de los rizos. El shampoo Mais Cachos limpia delicadamente el cuero cabelludo mientras nutre el cabello sin resecarlo. Su fórmula libre de sulfatos, parabenos, siliconas, petrolatos y aceites minerales ayuda a mantener el equilibrio natural del cabello, proporcionando una limpieza suave que protege los rizos. El acondicionador Mais Cachos complementa el cuidado capilar ayudando a desenredar el cabello, aportar suavidad y mejorar la elasticidad de los rizos, dejando el cabello más fuerte, brillante y fácil de peinar. 🧬 Ingredientes clave 🌿 Activos nutritivos: ayudan a hidratar profundamente el cabello rizado.💧 Ingredientes hidratantes: contribuyen a mejorar la elasticidad y suavidad del cabello.✨ Nutrientes fortalecedores: ayudan a mejorar la resistencia de la fibra capilar. ✨ Beneficios 🌟 Hidratación profunda para cabello rizado o encrespado.💧 Limpieza suave que no reseca el cabello.🌬️ Mejora la definición natural de los rizos.💎 Cabello más suave, brillante y manejable.✨ Ayuda a fortalecer y revitalizar la fibra capilar. 💇 Tipo de cabello recomendado ✔ Cabello rizado✔ Cabello encrespado✔ Cabello en transición✔ Cabello seco o con frizz 📦 Contenido del kit ✔ 1 Shampoo Mais Cachos – 325 ml✔ 1 Acondicionador Mais Cachos – 325 ml 🧼 Cómo se usa 1️⃣ Aplicar el shampoo sobre el cabello húmedo.2️⃣ Masajear suavemente desde la raíz hasta las puntas.3️⃣ Dejar actuar 1 minuto y enjuagar con abundante agua.4️⃣ Aplicar el acondicionador de medios a puntas.5️⃣ Dejar actuar unos minutos y enjuagar.
-  Updated: 2026-06-09T15:20:52Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/acondicionadormaiscachos.png?v=1773684263
   Price: 9990,00 $ CLP
 - [Bomba de Biotina 650 ml – Kit Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-shampoo-acondicionador-bomba-de-biotina-650-ml): ✨ Kit Shampoo y Acondicionador Bomba de Biotina – 650 ml🌟 Fuerza, nutrición y crecimiento saludable para el cabello. El Kit Shampoo + Acondicionador Bomba de Biotina 650 ml fue desarrollado para fortalecer el cabello y mejorar su salud capilar gracias a su fórmula exclusiva con tecnología NutriForce. Esta tecnología ayuda a proteger el cabello contra daños externos y la pérdida de hidratación, fortaleciendo la fibra capilar y mejorando la resistencia del cabello. Su combinación de biotina, D-Pantenol y ácidos grasos vegetales ayuda a nutrir profundamente el cabello, fortalecerlo y mejorar su apariencia. El shampoo Bomba de Biotina limpia suavemente el cuero cabelludo mientras ayuda a fortalecer el cabello debilitado. El acondicionador Bomba de Biotina complementa el tratamiento aportando nutrición, suavidad y manejabilidad. 🧬 Ingredientes clave 💊 Biotina: ayuda a fortalecer el cabello y combatir la caída capilar.💧 D-Pantenol (Provitamina B5): aporta hidratación y mejora la resistencia del cabello.🌿 Ácidos grasos vegetales: ayudan a nutrir profundamente el cabello dañado o debilitado.✨ Ácido oleico y ácido behénico: contribuyen a mejorar la suavidad y nutrición capilar. ✨ Beneficios 🌟 Fortalece la fibra capilar desde la raíz.💧 Nutrición profunda para cabello debilitado.🌬️ Ayuda a proteger el cabello contra daños externos.💎 Cabello más fuerte, saludable y brillante.✨ Favorece un crecimiento capilar más fuerte y resistente. 💇 Tipo de cabello recomendado ✔ Cabello debilitado✔ Cabello con caída✔ Cabello dañado✔ Cabello que necesita fortalecimiento capilar 📦 Contenido del kit ✔ 1 Shampoo Bomba de Biotina – 325 ml✔ 1 Acondicionador Bomba de Biotina – 325 ml 🧼 Cómo se usa 1️⃣ Aplicar el shampoo sobre el cabello húmedo.2️⃣ Masajear suavemente el cuero cabelludo hasta formar espuma.3️⃣ Enjuagar con abundante agua.4️⃣ Aplicar el acondicionador de medios a puntas.5️⃣ Dejar actuar unos minutos y enjuagar.
-  Updated: 2026-06-09T15:20:51Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/kitcajabombadebiotina.webp?v=1773685137
   Price: 9990,00 $ CLP
 - [Crespo Divino 650 ml  – Kit Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-shampoo-acondicionador-crespo-divino-650-ml): ✨ Kit Shampoo y Acondicionador Crespo Divino – 650 mlHidratación y Definición para Cabello en Transición 📦 Contenido del kit ✔ 1 Shampoo Crespo Divino – 325 ml✔ 1 Acondicionador Crespo Divino – 325 ml Con aceite de ricino, aceite de argán, queratina vegetal y colágeno vegetal. Este kit capilar para cabello rizado o en transición ayuda a hidratar, nutrir y revitalizar el cabello mientras reduce el frizz y mejora la definición natural de los rizos. ✨ Kit Shampoo y Acondicionador Crespo Divino – 650 ml🌟 Hidratación, fuerza y definición para cabello en transición. El Kit Shampoo + Acondicionador Crespo Divino 650 ml fue desarrollado especialmente para quienes están en proceso de transición capilar, es decir, recuperando la textura natural del cabello rizado después de daños por químicos, tintes, decoloraciones o herramientas de calor. Durante la transición capilar, el cabello presenta dos texturas diferentes: la parte nueva que crece con rizos naturales y la parte dañada o alisada. Por eso es importante utilizar productos que hidraten, fortalezcan y restauren la fibra capilar, ayudando a recuperar la salud del cabello. Su fórmula enriquecida con aceite de ricino, aceite de argán, queratina vegetal y colágeno vegetal ayuda a nutrir profundamente el cabello, reducir la porosidad, mejorar la elasticidad y devolver el brillo natural al cabello rizado o crespo. 🧬 Ingredientes clave 🌿 Aceite de ricino: fortalece la fibra capilar y ayuda a combatir la caída causada por la rotura del cabello.✨ Aceite de argán: rico en vitamina E y ácidos grasos que aportan nutrición, reparación y brillo.💧 Queratina vegetal: ayuda a restaurar y renovar la estructura dañada del cabello.🌱 Colágeno vegetal: rico en aminoácidos que favorecen la hidratación y resistencia del cabello. ✨ Beneficios 🌟 Hidratación profunda para cabello rizado o crespo.💧 Reduce la porosidad y mejora la salud capilar.🌬️ Control del frizz y mayor definición de los rizos.💎 Cabello más suave, brillante y saludable.✨ Ideal para el proceso de transición capilar. 💇 Tipo de cabello recomendado ✔ Cabello rizado o crespo✔ Cabello en transición capilar✔ Cabello poroso o reseco✔ Cabello con frizz✔ Cabello dañado por químicos o calor 🧼 Cómo se usa 1️⃣ Aplicar el shampoo sobre el cabello húmedo.2️⃣ Masajear suavemente hasta obtener espuma cremosa.3️⃣ Enjuagar con abundante agua y repetir si es necesario.4️⃣ Aplicar el acondicionador sobre el cabello limpio y húmedo.5️⃣ Dejar actuar de 1 a 3 minutos y enjuagar.
-  Updated: 2026-06-09T15:20:49Z
+  Updated: 2026-06-10T17:38:12Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKKT024660_padronizada.jpg?v=1779820382
   Price: 9990,00 $ CLP
 - [Amido de Milho (Almidon de Maiz) 650 ml – Kit Shampo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-shampo-acondicionador-amido-de-milho-650-ml-almidon-de-maiz): ✨Kit Shampoo y Acondicionador Almidón de Maíz 650 ml SKALA🌟Reparación, Brillo y Fuerza Capilar El Kit Shampoo + Acondicionador Almidón de Maíz 650 ml fue formulado para quienes buscan un aliado para el cuidado capilar diario. Su combinación de almidón de maíz, manteca de karité y aceite de coco ayuda a fortalecer la fibra capilar, mejorar el brillo natural y aportar suavidad al cabello opaco o debilitado. El almidón de maíz ayuda a reconstruir la fibra capilar y devolver el brillo al cabello sin vida. La manteca de karité contribuye a mantener el cabello saludable y nutrido, mientras que el aceite de coco aporta reparación, hidratación y facilita el peinado, dejando el cabello más suave y manejable. 🧬 Ingredientes clave 🌽 Almidón de maíz: fortalece la fibra capilar y aporta brillo al cabello opaco.🧈 Manteca de karité: ayuda a mantener el cabello nutrido y saludable.🥥 Aceite de coco: aporta reparación, hidratación y suavidad al cabello. ✨ Beneficios 🌟 Fortalece la fibra capilar y mejora la salud del cabello.💧 Nutrición e hidratación para el cuidado diario.🌬️ Cabello más suave y fácil de peinar.💎 Aporta brillo natural y vitalidad.✨ Ayuda a mantener el cabello fuerte y saludable. 💇 Tipo de cabello recomendado ✔ Todo tipo de cabello✔ Cabello opaco o sin brillo✔ Cabello debilitado✔ Cabello seco o deshidratado 📦 Contenido del kit ✔ 1 Shampoo Almidón de Maíz – 325 ml✔ 1 Acondicionador Almidón de Maíz – 325 ml 🧼 Cómo se usa 1️⃣ Aplicar el shampoo sobre el cabello húmedo.2️⃣ Masajear suavemente el cuero cabelludo hasta formar espuma.3️⃣ Enjuagar con abundante agua y repetir si es necesario.4️⃣ Aplicar el acondicionador sobre el cabello limpio y húmedo.5️⃣ Dejar actuar de 1 a 3 minutos y enjuagar.
-  Updated: 2026-06-09T15:20:49Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SKKT-015831_padronizada.png?v=1779821697
   Price: 9990,00 $ CLP
 - [Coctel de frutas Family – Mascara Capilar 1 kg](https://www.sb100dobrasil.cl/products/mascara-coctel-de-frutas-family-1000-grs): ✨ Skala Cóctel de Frutas – 1000 g🌟 Hidratación y brillo para todo tipo de cabello.Crema capilar 2 en 1 de uso versátil que ayuda a hidratar, suavizar y mejorar la apariencia del cabello, dejándolo más manejable y con brillo natural. 🧬 Ingredientes clave🍍 Piña: Rica en vitaminas que ayudan al cuidado del cabello.🥥 Agua de coco: Aporta hidratación y suavidad.🫐 Mora: Contribuye a la nutrición y brillo. ✨ Beneficios🌟 Hidratación intensa.💧 Ayuda a controlar el frizz.💎 Aporta brillo y suavidad.✨ Mejora la apariencia del cabello seco u opaco. 🧼 Cómo se usa✔ Como acondicionador: aplicar después del shampoo, dejar actuar 3 minutos y enjuagar.✔ Como tratamiento: aplicar mechón a mechón, dejar actuar hasta 15 minutos y enjuagar.✔ Como crema de peinar: aplicar una pequeña cantidad y no enjuagar. 🌱 Fórmula🌿 Vegana y cruelty free🚫 Sin sulfatos, siliconas, oleo mineral, parabenos ni petrolatos Ideal para todo tipo de cabello, especialmente seco o sin brillo. Acción en 3 Minutos.
-  Updated: 2026-06-09T15:20:48Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Skala
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MASCARA_COCTEL_DE_FRUTAS_FAMILY.jpg?v=1778527150
   Price: 10.490,00 $ CLP
 - [Mais Crespinhos Kids 1 kg – Mascara Capilar 2 en 1](https://www.sb100dobrasil.cl/products/mais-crespinhos-kids-mascara-2-en-1): ✨ Skala Mais Crespinhos Kids – 1000 g🌟 Hidratación y definición suave para cabello crespo y rizado infantil.Crema 2 en 1 desarrollada especialmente para el cuidado del cabello crespo, afro y muy rizado de niños, ayudando a nutrir, controlar el frizz y mantener los rizos suaves y definidos. 🧬 Ingredientes clave✨ Aceite de argán: Aporta nutrición e hidratación.🥥 Aceite de coco: Ayuda a reparar y suavizar el cabello.🌿 Linaza: Contribuye al fortalecimiento y definición.🌸 Extracto de amaranto: Ayuda a controlar el frizz y aportar movimiento. ✨ Beneficios🌀 Define y modela rizos suavemente.💧 Nutrición e hidratación profunda.🌬️ Control del frizz sin dejar residuos pesados.💎 Cabello más suave, brillante y manejable. 🧼 Cómo se usa✔ Como tratamiento: aplicar sobre cabello húmedo, dejar actuar unos minutos y enjuagar.✔ Como crema de peinar: aplicar pequeña cantidad sobre cabello húmedo o seco y no enjuagar. 🌱 Fórmula🌿 Vegana y cruelty free🚫 Libre de sulfatos, parabenos, siliconas y petrolatos Ideal para cabello infantil crespo, afro o muy rizado.
-  Updated: 2026-06-09T15:20:47Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Skala
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/skala_crema_de_peinar_hidratante_mais_crespinhos_rizos.png?v=1779737530
   Price: 9990,00 $ CLP
 - [Mayonesa capilar – Mascara Nutritiva 1000 grs](https://www.sb100dobrasil.cl/products/mascara-mayonesa-capilar-nutritiva-1000-grs): ✨ Máscara Skala Mayonesa Capilar Nutritiva – 1000 g🌟 Nutrición intensa y suavidad para todo tipo de cabello. Con aceites vegetales, manteca de karité y proteínas. Nutre y fortalece el cabello.Mascarilla capilar desarrollada para ayudar a nutrir, hidratar y mejorar la apariencia del cabello seco, maltratado o con frizz, dejándolo más suave, brillante y manejable. 🧬 Ingredientes clave🌿 Aceites vegetales (ricino, argán y maíz): Ayudan a nutrir y suavizar el cabello.🧈 Manteca de karité: Aporta hidratación y elasticidad.💧 Proteínas: Contribuyen al fortalecimiento capilar. ✨ Beneficios🌟 Nutrición profunda.💧 Ayuda a mejorar la elasticidad.🌬️ Control del frizz y reducción de puntas abiertas.💎 Facilita el desenredo y aporta brillo. 🧼 Cómo se usa✔ Como tratamiento rápido: aplicar después del shampoo, dejar actuar 3 minutos y enjuagar.✔ Como tratamiento profundo: dejar actuar 15–20 minutos con gorro y enjuagar.✔ Como crema de peinar: aplicar pequeña cantidad y no enjuagar. 🌱 Fórmula🌿 Vegana🚫 Libre de sulfatos, parabenos, siliconas y petrolatos Ideal para la etapa de nutrición del cronograma capilar.
-  Updated: 2026-06-09T15:20:46Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Skala
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mascaramayonessa.jpg?v=1778528105
   Price: 10.490,00 $ CLP
 - [Raízes do Morro – Mascarilla Capilar 1 kg](https://www.sb100dobrasil.cl/products/mascara-raices-del-morro-1000-grs): ✨ Mascarilla Capilar Raízes do Morro – 1 kg🌟 Nutrición intensa inspirada en la esencia brasileña.La mascarilla Raízes do Morro de Skala Expert está formulada para proporcionar una nutrición profunda al cabello. Su combinación de aceite de coco, açaí y mantecas brasileñas permite una acción intensiva en la fibra capilar, ayudando a mejorar la suavidad, el brillo y la resistencia del cabello, dejándolo con una apariencia más saludable. 🧬 Ingredientes clave💎 Aceite de coco: Contribuye a la hidratación, suavidad y brillo del cabello.💧 Açaí: Rico en antioxidantes que actúan en la fibra capilar.🌿 Mantecas brasileñas: Ayudan a nutrir y mejorar la apariencia del cabello. ✨ Beneficios🌟 Nutrición profunda del cabello.💎 Aporta suavidad y brillo natural.💧 Contribuye a mejorar la resistencia del cabello.🌬️ Facilita la peinabilidad. Ideal para incorporar en tu rutina capilar y mantener el cabello nutrido, suave y con brillo.
-  Updated: 2026-06-09T15:20:45Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Skala
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/skala_raizes_do_morro.jpg?v=1774463014
   Price: 9990,00 $ CLP
 - [Potao desmaiado – Mascara  1000 grs](https://www.sb100dobrasil.cl/products/mascara-potao-desmaiado-1000-grs-potencia): ✨ Skala Potão Desmaiado – 1000 g🌟 Efecto disciplinado y suavidad para todo tipo de cabello.Tratamiento capilar 2 en 1 que ayuda a alinear la fibra capilar, reducir el frizz y mejorar la apariencia del cabello, dejándolo más suave, manejable y con movimiento natural. 🧬 Ingredientes clave🧄 Aceite de ricino: Contribuye a nutrir y fortalecer.✨ Aceite de argán: Aporta brillo y suavidad.🥥 Aceite de coco: Ayuda a hidratar y reparar. ✨ Beneficios🌟 Ayuda a reducir el frizz y volumen.💧 Nutrición e hidratación profunda.💎 Aporta suavidad y brillo.✨ Cabello más alineado y manejable. 🧼 Cómo se usa✔ Como mascarilla: aplicar después del shampoo, dejar actuar 3 minutos (o hasta 15 minutos con gorro) y enjuagar.✔ Como crema de peinar: aplicar una pequeña cantidad en cabello húmedo o seco y no enjuagar. 🌱 Fórmula🌿 Vegana🚫 Sin sulfatos, parabenos, siliconas ni petrolatos Ideal para quienes buscan control del frizz y efecto disciplinado.
-  Updated: 2026-06-09T15:20:44Z
+  Updated: 2026-06-19T19:58:47Z
   Vendor: Skala
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/potao_desmaiado_mascara_capilar_skala.jpg?v=1779737314
   Price: 10.490,00 $ CLP
 - [Cabelo Perfeito – Kit Shampoo 750 ml + Acondicionador 550 ml](https://www.sb100dobrasil.cl/products/kit-cabelo-perfeito-shampoo-750ml-acond-550ml): ✨ Kit Cabelo Perfeito – Shampoo 750 ml + Acondicionador 550 ml🌟 El secreto para un cabello perfecto.Descubre el Kit Perfect Hair de KNUT, una combinación de shampoo y acondicionador con una fórmula que une el poder revitalizante del escaramujo con los beneficios antioxidantes de la baya de goji. Diseñado para ofrecer una experiencia de cuidado capilar que va más allá de la limpieza, aportando vitalidad y una apariencia más saludable al cabello. 🧬 Ingredientes clave💎 Escaramujo: Con poder revitalizante.💧 Baya de goji: Aporta beneficios antioxidantes. ✨ Beneficios🌟 Experiencia de cuidado capilar más allá de la limpieza habitual.💎 Aporta vitalidad al cabello.💧 Contribuye a una apariencia más saludable. 🧼 Cómo se usa1️⃣ Aplica el shampoo sobre el cabello mojado.2️⃣ Masajea suavemente y enjuaga.3️⃣ Continúa con el acondicionador y enjuaga. Ideal para complementar con la línea Perfect Hair de KNUT.
-  Updated: 2026-06-09T15:20:45Z
+  Updated: 2026-06-10T17:38:13Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/cabello_perfectoknutg.jpg?v=1774460113
   Price: 23.980,00 $ CLP
 - [Cabelo Perfeito – Mascarilla Capilar 500 g](https://www.sb100dobrasil.cl/products/mascara-cabelo-perfeito-500-grs): ✨ Mascarilla Capilar Cabelo Perfeito – 500 g🌟 Reparación, hidratación y brillo para cabello seco o dañado.La Mascarilla Cabelo Perfeito KNUT es un tratamiento capilar intensivo formulado para revitalizar el cabello seco, dañado o quebradizo. Su combinación de aceites y activos nutritivos ayuda a mejorar la apariencia de la fibra capilar, aportando hidratación, suavidad y brillo. Además, contribuye a facilitar el desenredado y mejorar la manejabilidad del cabello, dejándolo con un aspecto más saludable. 🧬 Ingredientes clave💎 Aceite de argán: Ayuda a aportar brillo y mejorar la apariencia del cabello.💧 Manteca de karité: Contribuye a nutrir y suavizar la fibra capilar.🌿 Aceite de rosa mosqueta: Aporta nutrientes que ayudan a revitalizar el cabello.🍒 Extracto de goji: Contribuye con antioxidantes para el cuidado del cabello. ✨ Beneficios🌟 Hidratación y nutrición del cabello.💎 Aporta suavidad y brillo.💧 Ayuda a mejorar la manejabilidad y el desenredado.🌬️ Contribuye a controlar el frizz. 🧼 Cómo se usa1️⃣ Lava el cabello y retira el exceso de agua.2️⃣ Aplica la mascarilla sobre el cabello limpio y húmedo, de medios a puntas.3️⃣ Masajea suavemente para distribuir el producto.4️⃣ Deja actuar entre 3 y 5 minutos, o hasta 10–15 minutos para un tratamiento más intensivo.5️⃣ Enjuaga con abundante agua. Ideal para incorporar en tu rutina capilar y mantener el cabello más suave, manejable y con brillo.
-  Updated: 2026-06-09T15:20:42Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/CABELLO_PERFEITO.jpg?v=1774281967
   Price: 15.980,00 $ CLP
 - [Cabelo Perfeito – Spray Protector térmico 200 ml](https://www.sb100dobrasil.cl/products/leave-in-condicionador-cabelo-perfeito-200ml-protector-termico): ✨ Spray Protector térmico Cabelo Perfeito – 200 ml🌟 Protección diaria y acabado ligero para tu cabello.El Perfect Hair Spray sin enjuague de KNUT es el complemento ideal para tu rutina capilar. Su fórmula ligera actúa como una barrera protectora frente al calor del secador y la plancha, ayudando a mantener la apariencia del cabello y controlar el encrespamiento. Puede usarse en cabello húmedo o seco, facilitando el desenredado y aportando un acabado suave sin sensación pesada. 🧬 Ingredientes clave💎 Fórmula ligera: Diseñada para proteger sin apelmazar el cabello. ✨ Beneficios🌟 Protección frente al calor de herramientas térmicas.💎 Facilita el desenredado del cabello.💧 Ayuda a controlar el frizz.🌬️ Uso diario sin sensación pesada. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo o seco.2️⃣ Distribuye de manera uniforme en largos y puntas.3️⃣ No enjuagar y peinar como de costumbre. Ideal para incorporar en tu rutina diaria y mantener el cabello protegido, suave y manejable.
-  Updated: 2026-06-09T15:20:42Z
+  Updated: 2026-06-10T17:38:08Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/cabello_perfeito_proteccion_termica.jpg?v=1774459897
   Price: 13.980,00 $ CLP
 - [Reflex – Shampoo 250 ml](https://www.sb100dobrasil.cl/products/shampoo-reflex-250ml): ✨ Shampoo Reflex – 250 ml🌟 Cabello liso, suave y sin frizz desde el lavado.El Shampoo Reflex de KNUT está formulado para limpiar profundamente mientras nutre y alisa la fibra capilar. Su poderosa combinación de aceite de grosella negra, aceite de monoi, aceite de ojon y aminoácidos esenciales ayuda a controlar el frizz, restaurar la luminosidad y aportar una suavidad duradera sin apelmazar. Ideal para todo tipo de cabello que busca un acabado liso, sedoso y con brillo saludable. 🧬 Ingredientes clave💎 Aceite de grosella negra: Nutre y aporta brillo intenso.💧 Aceite de monoi: Hidrata y suaviza profundamente el cabello.🌿 Aceite de ojon y aminoácidos esenciales: Reparan, fortalecen y alisan la fibra capilar. ✨ Beneficios🌟 Limpieza profunda con efecto alisante.💎 Reduce el frizz y mejora la manejabilidad.💧 Cabello suave, sedoso y con brillo natural.🌬️ Nutre sin apelmazar, ideal para uso frecuente. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello mojado.2️⃣ Masajea el cuero cabelludo hasta generar abundante espuma.3️⃣ Deja actuar de 4 a 6 minutos y enjuaga bien. Ideal para complementar con la línea Reflex de KNUT y potenciar el alisado, la nutrición y el control del frizz.
-  Updated: 2026-06-09T15:20:41Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SHAMPOO_LUMINOSIDAD_250ML.jpg?v=1774282076
   Price: 15.980,00 $ CLP
 - [Reflex – Acondicionador 250 ml](https://www.sb100dobrasil.cl/products/acondicionador-reflex-250ml): ✨ Acondicionador Reflex – 250 ml🌟 Cabello suave, liso y sin frizz por más tiempo.El Acondicionador Reflex de KNUT está formulado para complementar el tratamiento alisante y nutritivo de la línea. Su combinación de aceite de grosella negra, aceite de monoi, aceite de ojon y aminoácidos esenciales hidrata profundamente, desenreda y sella la fibra capilar, reduciendo el frizz y potenciando el brillo natural. Deja el cabello suave, ligero y protegido, sin apelmazar. Ideal para todo tipo de cabello que busca un acabado sedoso y luminoso. 🧬 Ingredientes clave💎 Aceite de grosella negra: Nutre y aporta brillo intenso.💧 Aceite de monoi: Hidrata y suaviza la fibra capilar.🌿 Aceite de ojon y aminoácidos esenciales: Reparan, fortalecen y ayudan a alisar el cabello. ✨ Beneficios🌟 Suaviza y desenreda sin apelmazar.💎 Controla el frizz y mejora la manejabilidad.💧 Aporta hidratación, brillo y efecto sedoso.🌬️ Protege la fibra capilar y potencia el alisado. 🧼 Cómo se usa1️⃣ Aplica después del shampoo y mascarilla sobre el cabello húmedo.2️⃣ Distribuye de medios a puntas, evitando el cuero cabelludo.3️⃣ Deja actuar de 4 a 6 minutos y enjuaga con abundante agua. Ideal para complementar con la línea Reflex de KNUT y potenciar el alisado, la nutrición y el brillo del cabello.🌱 Fórmula consciente🐰 Libre de crueldad animal🚫 Libre de parabenos y ftalatos♻️ Envase reciclable
-  Updated: 2026-06-09T15:20:40Z
+  Updated: 2026-06-10T17:38:12Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/reflex_acondicionador.jpg?v=1774282503
   Price: 15.980,00 $ CLP
 - [Reflex – Mascarilla capilar 200 g](https://www.sb100dobrasil.cl/products/mascara-k-force-300g): ✨ Reflex Hair Mask  – 200 g🌟 Cabello más suave, sedoso y con brillo duradero.La mascarilla Reflex de KNUT está formulada para nutrir, proteger y mejorar la apariencia del cabello. Su combinación de aceites y aminoácidos esenciales ayuda a aportar suavidad, controlar el frizz y restaurar la luminosidad, dejando el cabello con un acabado sedoso y sin apelmazar. Apta para todo tipo de cabello. 🧬 Ingredientes clave💎 Aceite de grosella negra: Contribuye a nutrir y aportar brillo.💧 Aceite de monoi: Ayuda a suavizar y mejorar la apariencia del cabello.🌿 Aceite de ojon: Contribuye a la nutrición y protección de la fibra capilar.✨ Aminoácidos esenciales: Ayudan a mejorar la apariencia y suavidad del cabello. ✨ Beneficios🌟 Nutrición y suavidad del cabello.💎 Aporta brillo y luminosidad.💧 Ayuda a controlar el frizz.🌬️ Cabello más manejable y con acabado sedoso. 🧼 Cómo se usa1️⃣ Lava el cabello con shampoo y retira el exceso de agua.2️⃣ Aplica sobre el cabello húmedo, mechón a mechón, distribuyendo de arriba hacia abajo.3️⃣ Repite hasta que el cabello absorba el producto.4️⃣ Deja actuar de 5 a 15 minutos y enjuaga.5️⃣ Finaliza con acondicionador y fluido capilar según rutina. 🌱 Fórmula consciente🐰 Libre de crueldad animal🚫 Libre de parabenos y ftalatos♻️ Envase reciclable Ideal para incorporar en tu rutina capilar y mantener el cabello suave, brillante y sin frizz.
-  Updated: 2026-06-09T15:20:39Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/reflexmascara_9f053256-bdc6-4556-b6f9-20856df98a14.jpg?v=1774460825
   Price: 17.990,00 $ CLP
 - [Reflex – Extreme PowerDose Brillo y Liso Absoluto 10 ml](https://www.sb100dobrasil.cl/products/extreme-powerdose-reflex-10ml): ✨ Extreme PowerDose Reflex – 10 ml🌟 Reparación intensiva para cabello extremadamente dañado.Extreme PowerDose Reflex de KNUT es un tratamiento concentrado indicado para cabellos extremadamente dañados y sin vida. Su potente fórmula contiene 20 veces más ingredientes activos que una mascarilla tradicional y combina aceite de grosella negra, aceite de monoi y aminoácidos esenciales para aportar un efecto nutritivo, sedoso y libre de frizz. Ayuda a restaurar la luminosidad y el brillo del cabello sin apelmazar, dejando una sensación de suavidad por más tiempo. 🧬 Ingredientes clave💎 Aceite de grosella negra: Aporta nutrición y brillo.💧 Aceite de monoi: Contribuye a la suavidad del cabello.🌿 Aminoácidos esenciales: Ayudan a mejorar la condición de la fibra capilar. ✨ Beneficios🌟 Tratamiento intensivo para cabello extremadamente dañado.💎 Aporta efecto nutritivo y sedoso.💧 Ayuda a restaurar la luminosidad y el brillo.🌬️ Contribuye a un cabello libre de frizz sin apelmazar. 🧼 Cómo se usa1️⃣ Aplica después de lavar el cabello con shampoo sobre el cabello húmedo.2️⃣ Distribuye mechón a mechón con movimientos de deslizamiento de arriba hacia abajo.3️⃣ Deja actuar de 10 a 20 minutos y enjuaga. Ideal para complementar con la línea Reflex de KNUT y potenciar la nutrición, suavidad y brillo del cabello.
-  Updated: 2026-06-09T03:58:57Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/reflex_extreme_powerdose_professional.jpg?v=1774283557
   Price: 5980,00 $ CLP
 - [K-Force – Spray Leave-in 70 ml](https://www.sb100dobrasil.cl/products/leave-in-k-force-spray-70-ml): ✨ Leave-in K-Force Spray – 70 ml🌟 Fuerza, suavidad y ligereza en cada aplicación.El Leave-in K-Force Spray de KNUT está formulado para restaurar la suavidad y fortalecer la fibra capilar, actuando en la regeneración y formación del cabello. Su contenido de vitaminas ayuda a promover la fuerza y la elasticidad, contribuyendo a un cabello más fuerte y brillante. Puede aplicarse sobre cabello húmedo o seco, entregando hidratación y suavidad inmediata sin dejar residuos ni apelmazar. 🧬 Ingredientes clave💎 Vitaminas: Contribuyen a la fuerza y elasticidad del cabello. ✨ Beneficios🌟 Fortalece la fibra capilar.💎 Aporta suavidad y brillo.💧 Contribuye a la hidratación sin apelmazar.🌬️ Puede aplicarse en cabello húmedo o seco sin dejar residuos. 🧼 Cómo se usa1️⃣ Agita antes de usar.2️⃣ Aplica directamente sobre el cabello en la dirección del crecimiento.3️⃣ Peina para distribuir uniformemente. No enjuagar. 🌱 Fórmula consciente🐰 Libre de crueldad animal🚫 Libre de parabenos y ftalatos♻️ Envase reciclable Ideal para complementar con la línea K-Force de KNUT y mantener el cabello fuerte, suave y brillante en cualquier momento del día.
-  Updated: 2026-06-09T15:20:36Z
+  Updated: 2026-06-10T17:38:14Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/fuerza_de_biotina.jpg?v=1774283839
   Price: 10.980,00 $ CLP
 - [Menta Pimienta Detox Capilar – Shampoo 250 ml](https://www.sb100dobrasil.cl/products/shampoo-menta-pimienta-detox-capilar-250-ml): ✨ Shampoo Menta Pimienta Detox Capilar – 250 ml🌟 Limpieza equilibrante y frescura para cabello mixto.El Shampoo Menta Pimienta de KNUT, sin sal, está indicado para cabellos mixtos con raíces grasas y puntas secas. Su fórmula con extracto de menta y raíz de pimienta activa la circulación y la oxigenación capilar, ayudando a equilibrar la grasa del cuero cabelludo. Aporta brillo y suavidad con cada uso, fortalece las raíces y previene la caída prematura del cabello asociada al exceso de grasa, favoreciendo un crecimiento más saludable sin resecar. Entrega una sensación refrescante en cada aplicación. 🧬 Ingredientes clave💎 Extracto de menta: Aporta frescura y estimula la circulación.💧 Raíz de pimienta: Favorece la oxigenación capilar. ✨ Beneficios🌟 Equilibra la grasa en cabello mixto.💎 Aporta brillo y suavidad con cada uso.💧 Fortalece las raíces y previene la caída por exceso de grasa.🌬️ Sensación refrescante sin resecar el cabello. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello mojado y masajea suavemente.2️⃣ Deja actuar brevemente.3️⃣ Enjuaga y repite si es necesario. Ideal para complementar con el acondicionador Menta Pimienta de KNUT y mantener el equilibrio, frescura y cuidado del cabello mixto.
-  Updated: 2026-06-09T15:20:35Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/knut_pimienta_menta.jpg?v=1774283318
   Price: 11.980,00 $ CLP
 - [Menta Pimienta – Acondicionador 250 ml](https://www.sb100dobrasil.cl/products/acondicionador-menta-pimienta-250-ml): ✨ Acondicionador Menta Pimienta – 250 ml🌟 Equilibrio perfecto entre frescura y nutrición.El Acondicionador Mint Pepper de KNUT está especialmente formulado para cabellos mixtos, con raíces grasas y puntas secas. Su textura ligera y refrescante acondiciona sin apelmazar, mientras el extracto de menta y la raíz de pimienta activan la circulación y la oxigenación del cuero cabelludo. Ayuda a equilibrar la producción de grasa, fortalece las raíces y previene la caída prematura asociada al exceso de sebo. Deja el cabello suave, brillante y revitalizado, además de protegerlo contra los daños causados por el sol y el cloro. 🧬 Ingredientes clave💎 Extracto de menta: Refresca, equilibra y estimula el cuero cabelludo.💧 Raíz de pimienta: Activa la circulación y fortalece las raíces.🌿 Agentes acondicionadores: Hidratan y suavizan sin aportar peso. ✨ Beneficios🌟 Equilibra raíces grasas y puntas secas.💎 Fortalece el cabello y ayuda a prevenir la caída por exceso de grasa.💧 Aporta suavidad y brillo sin apelmazar.🌬️ Sensación refrescante y protección frente al sol y cloro. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello mojado después del champú.2️⃣ Masajea suavemente de medios a puntas.3️⃣ Deja actuar unos instantes y enjuaga con abundante agua. Ideal para complementar con la línea Mint Pepper de KNUT y mantener el equilibrio, frescura y salud del cabello mixto.
-  Updated: 2026-06-09T15:20:32Z
+  Updated: 2026-06-10T17:38:13Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/knut_acon_menta_pimienta_1.jpg?v=1774464994
   Price: 11.980,00 $ CLP
 - [Scalp Scrub Detox Therapy  – Exfoliante Capilar 300 g](https://www.sb100dobrasil.cl/products/scalp-scrub-esfoliante-capilar-300g): ✨ Exfoliante Capilar Scalp Scrub – 300 g🌟 Cuero cabelludo limpio, equilibrado y revitalizado.El Scalp Scrub de KNUT es un tratamiento exfoliante pre-champú diseñado para limpiar profundamente el cuero cabelludo sin agredirlo. Su fórmula con microesferas de origen mineral y extractos fitoterapéuticos elimina células muertas, residuos químicos y contaminación acumulada, mientras estimula la microcirculación y regula el exceso de grasa. Aporta frescura, equilibrio y prepara la fibra capilar para recibir mejor los tratamientos, favoreciendo un crecimiento más sano, fuerte y brillante. Apto para todo tipo de cabello. 🧬 Ingredientes clave💎 Microesferas exfoliantes minerales: Limpian en profundidad y eliminan impurezas.💧 Extracto de menta: Refresca y estimula la microcirculación.🌿 Complejo de extractos naturales: Romero, hamamelis, hinojo, manzanilla, té verde, rosa y malva que purifican, equilibran y tonifican el cuero cabelludo. ✨ Beneficios🌟 Exfoliación profunda y suave del cuero cabelludo.💎 Elimina impurezas, residuos y exceso de grasa.💧 Estimula la microcirculación y equilibra el pH.🌬️ Cabello más limpio, fresco y preparado para tratamientos. 🧼 Cómo se usa1️⃣ Aplica directamente sobre el cuero cabelludo y cabello húmedo.2️⃣ Masajea suavemente con movimientos circulares durante unos minutos.3️⃣ Enjuaga con agua tibia y continúa con tu rutina de lavado habitual. Ideal para complementar con la línea de tratamiento KNUT y potenciar la limpieza profunda, el equilibrio y la salud del cuero cabelludo.
-  Updated: 2026-06-09T15:20:31Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: KNUT
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/knut_scalp_scrub_exfoliante_capilar.jpg?v=1774279066
   Price: 15.980,00 $ CLP
 - [Máscara Ultra Silver Platinum  – 150 g](https://www.sb100dobrasil.cl/products/knut-mascara-ultra-silver-platinum-150g): ✨ Máscara Ultra Silver Platinum KNUT – 150 g🌟 Tono platino intenso y acción ultrarrápida.La mascarilla tonalizante Ultra Silver de KNUT está diseñada para cabellos rubios o blancos que buscan un efecto platino visible en poco tiempo. Su fórmula con fitopigmentos violetas, combinada con aceites vegetales de avellana, macadamia y linaza, actúa en solo minutos para aportar tono, hidratación y suavidad. Un tratamiento de alto rendimiento para el cuidado del cabello claro con resultados rápidos. 🧬 Ingredientes clave💎 Fitopigmentos violetas: Aportan el tono platino al cabello.💧 Aceite de avellana: Contribuye a la hidratación y suavidad.🌿 Aceites de macadamia y linaza: Aportan nutrición y suavidad al cabello. ✨ Beneficios🌟 Aporta tono rubio platino en pocos minutos.💎 Hidratación y suavidad en la fibra capilar.💧 Acción rápida con resultados visibles.🌬️ Ideal para cabellos rubios o blancos. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo siguiendo la dirección del crecimiento.2️⃣ Masajea suavemente.3️⃣ Deja actuar un máximo de 2 minutos y enjuaga. ⚠️ Precauciones⏱️ No exceder el tiempo de aplicación de 2 minutos. Ideal para complementar con la línea Silver de KNUT y mantener el tono platino, la hidratación y la suavidad del cabello.
-  Updated: 2026-06-09T14:17:54Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: KNUT
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/ultra_silver.jpg?v=1774283422
   Price: 11.980,00 $ CLP
 - [Rosa Mosqueta y Keratina – Aceite Capilar 100 ml](https://www.sb100dobrasil.cl/products/aceite-rosa-mosqueta-y-keratina): ✨ Aceite Capilar Rosa Mosqueta y KeratinaCon rosa mosqueta y keratina. Promueve la restauración, protección y efecto antiencrespamiento en el cabello. ✨ Aceite Capilar Rosa Mosqueta y Keratina🌟 Restauración, nutrición y control del frizz.El Aceite Capilar de Rosa Mosqueta y Keratina Golden Body está formulado para promover la restauración y protección del cabello, aportando hidratación, nutrición y control del encrespamiento. Gracias a sus propiedades, ayuda a mejorar la apariencia del cabello, dejándolo más suave, brillante y manejable. 🧬 Ingredientes clave💎 Aceite de rosa mosqueta: Aporta hidratación y propiedades regenerativas.💧 Keratina: Contribuye a la protección y fortalecimiento de la fibra capilar. ✨ Beneficios🌟 Hidratación profunda y prevención de la sequedad.💎 Nutrición y fortalecimiento del cabello.💧 Ayuda a reparar daños causados por agentes externos.🌬️ Control del frizz y mejora de la suavidad y el brillo. 🧼 Cómo se usa1️⃣ Aplica uniformemente sobre el cabello.2️⃣ Deja actuar durante al menos 10 minutos.3️⃣ Enjuaga o deja actuar según el resultado deseado. Ideal para incorporar en tu rutina de cuidado capilar y potenciar la hidratación, protección y suavidad del cabello.
-  Updated: 2026-06-09T15:20:30Z
+  Updated: 2026-06-19T15:18:17Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/rosa_mosqueta_oleo_capilar_rosa_mosqueta_keratina..jpg?v=1774380798
   Price: 7990,00 $ CLP
 - [Ricino y manteca de murumuru – Aceite Capilar 100 ml](https://www.sb100dobrasil.cl/products/aceite-de-ricino-y-manteca-de-murumuru): ✨ Aceite Capilar Ricino y Murumuru Corpo Dourado – 100 ml🌟 Nutrición profunda y reparación para un cabello revitalizado.El Aceite Capilar de Ricino y Manteca de Murumuru de Corpo Dourado es un tratamiento intensivo diseñado para nutrir y reparar el cabello. Esta combinación ayuda a fortalecer, revitalizar y controlar el frizz, aportando brillo y contribuyendo a recuperar la humedad natural del cabello seco o dañado. También puede utilizarse como parte de rutinas de cuidado capilar para mejorar la suavidad y luminosidad. 🧬 Ingredientes clave💎 Aceite de ricino: Contribuye al fortalecimiento y resistencia de la fibra capilar.💧 Manteca de murumuru: Ayuda a retener la humedad y prevenir la sequedad. ✨ Beneficios🌟 Nutrición profunda para el cabello.💎 Fortalecimiento y mejora de la resistencia capilar.💧 Control del frizz y aporte de brillo.🌬️ Contribuye a la suavidad y luminosidad del cabello. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello, pestañas o cejas según necesidad.2️⃣ Distribuye en puntas secas o como tratamiento antes del lavado.3️⃣ También puede utilizarse como nutrición nocturna o para facilitar peinados como trenzas. Ideal para incorporar en rutinas de cuidado capilar enfocadas en nutrición, suavidad y brillo.
-  Updated: 2026-06-09T03:55:16Z
+  Updated: 2026-06-19T14:31:27Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/OLEO_CAPILAR_RICINO_MANTEIGA_DE_MURUMURU.jpg?v=1774381024
   Price: 7990,00 $ CLP
 - [Coco y manteca de Pistacho  – Aceite Capilar 100 ml](https://www.sb100dobrasil.cl/products/aceite-de-coco-y-manteca-de-pistacho): ✨ Aceite Iluminador Coco y manteca de Pistacho Corpo Dourado – 100 mlCon aceite de coco y manteca de pistacho. Nutre, sella la humedad y aporta brillo al cabello y la piel. ✨ Aceite Iluminador Coco y Pistacho Corpo Dourado – 100 ml🌟 Nutrición, brillo y suavidad para cabello y cuerpo.El Aceite Iluminador de Coco y Pistacho de Corpo Dourado es un producto diseñado para nutrir profundamente y sellar la humedad, aportando brillo tanto al cabello como a la piel. Su fórmula combina la nutrición del aceite de coco con la manteca de pistacho, siendo ideal para combatir el frizz y la resequedad. Puede utilizarse como finalizador capilar o como hidratante corporal, dejando una sensación de suavidad y luminosidad. 🧬 Ingredientes clave💎 Aceite de coco: Aporta nutrición y ayuda a mantener la hidratación.💧 Manteca de pistacho: Contribuye a la suavidad y nutrición. ✨ Beneficios🌟 Nutrición intensa y sellado de la humedad.💎 Aporta brillo y suavidad.💧 Ayuda a controlar el frizz y la resequedad.🌬️ Facilita el desenredo y el peinado, incluyendo trenzas. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello como finalizador o tratamiento según necesidad.2️⃣ Distribuye en medios y puntas o donde se requiera.3️⃣ También puede aplicarse sobre la piel como hidratante corporal. Ideal para incorporar en rutinas de cuidado capilar y corporal, aportando nutrición, brillo y suavidad.
-  Updated: 2026-06-09T15:20:28Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/oloecapilarcocomanteigadepistache.jpg?v=1774381448
   Price: 7990,00 $ CLP
 - [Argán Siliconado – Aceite Capilar](https://www.sb100dobrasil.cl/products/aceite-de-argan-siliconado): ✨ Aceite de Argán SiliconadoPromueve la nutrición, protección y suavidad del cabello. Aporta hidratación, brillo y control del frizz. ✨ Aceite de Argán Siliconado🌟 Nutrición, brillo y control para todo tipo de cabello.El aceite de argán siliconado es un tratamiento capilar que ayuda a nutrir, proteger y suavizar el cabello. Gracias a sus propiedades, aporta hidratación profunda, contribuye a reducir el frizz y el encrespamiento, y mejora la apariencia general del cabello, dejándolo más brillante y manejable. También ayuda a fortalecer la fibra capilar y protegerla de agresiones externas. 🧬 Ingredientes clave💎 Aceite de argán: Rico en ácidos grasos, antioxidantes y vitamina E, aporta hidratación, protección y brillo. ✨ Beneficios🌟 Hidratación profunda y mejora de la apariencia del cabello.💎 Reducción del frizz y encrespamiento.💧 Aporta brillo y suavidad.🌬️ Contribuye al fortalecimiento, protección y mejora de la elasticidad del cabello. 🧼 Cómo se usa❗ No se especifica el modo de uso en la información proporcionada. Ideal para incorporar en rutinas de cuidado capilar enfocadas en nutrición, suavidad y control del frizz.
-  Updated: 2026-06-09T15:20:28Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/argan_siliconado_oleo_capilar.jpg?v=1774452324
   Price: 7990,00 $ CLP
 - [Aceite Capilar Aloe y Keratina | sb100doBrasil.cl](https://www.sb100dobrasil.cl/products/aceite-capilar-babosa-y-keratina): Nutrición brasileña premium: hidratación profunda y reparación duradera. Aporta suavidad, vitalidad y control total del frizz. ¡Resultados de salón en casa!
-  Updated: 2026-06-09T15:20:27Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/aceite_babosa_aloe_y_manteca_de_karite_corpo_dourado.png?v=1778822725
   Price: 1990,00 $ CLP
 - [Morango (Fresa) – Kit Capilar Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-morango-fresa): ✨ Kit Capilar Morango (Fresa) Corpo Dourado – Shampoo + Acondicionador🌟 Hidratación, suavidad y aroma frutal para tu cabello.El Kit Capilar Morango de Corpo Dourado combina shampoo y acondicionador para limpiar, hidratar y revitalizar el cabello. Su fórmula con extracto de fresa ayuda a nutrir la fibra capilar, aportar brillo natural y reducir el encrespamiento, dejando el cabello suave, ligero y con un aroma afrutado. Ideal para uso diario, especialmente en cabellos secos o sin vida. 🧬 Ingredientes clave💎 Extracto de fresa: Contribuye a nutrir la fibra capilar y aportar brillo. ✨ Beneficios🌟 Limpia, hidrata y revitaliza el cabello.💎 Aporta brillo natural y suavidad.💧 Ayuda a reducir el encrespamiento.🌬️ Deja un aroma afrutado en el cabello. 🧼 Cómo se usa1️⃣ Aplica el shampoo sobre el cabello mojado y masajea hasta formar espuma.2️⃣ Enjuaga y repite si es necesario.3️⃣ Aplica el acondicionador de medios a puntas, deja actuar de 2 a 3 minutos y enjuaga completamente. Ideal para incorporar en tu rutina capilar diaria y mantener el cabello limpio, suave y con un aroma agradable.
-  Updated: 2026-06-09T15:20:26Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SONHO_DA_MORANGO_jpg.jpg?v=1774464877
   Price: 14.990,00 $ CLP
 - [Rosa Mosqueta – Kit Capilar Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-rosa-mosqueta-shampoo-acondicionador): Kit Capilar shampoo mas acondicionador Rosa Mosqueta Corpo Dourado hidratan, suavizan y devuelven la vitalidad al cabello opaco y dañado. El Kit Rosa Mosqueta de Corpo Dourado combina el poder nutritivo del aceite de rosa mosqueta con activos reparadores que hidratan, suavizan y devuelven la vitalidad al cabello opaco y dañado. Su fórmula rica en antioxidantes y ácidos grasos esenciales fortalece la fibra capilar, aportando un acabado sedoso, con brillo natural y lleno de movimiento. Este kit capilar ayuda a: Reparar el cabello seco y maltratado. Hidratar profundamente desde la raíz hasta las puntas. Restaurar el brillo natural y la suavidad del cabello. Proteger contra el frizz y la resequedad. Ideal para uso frecuente, el Kit Rosa Mosqueta es perfecto para quienes buscan un tratamiento capilar completo que regenere y revitalice su melena con resultados visibles desde la primera aplicación. ✔️ Fórmula con aceite de rosa mosqueta✔️ Cabello más fuerte, brillante y suave✔️ Control del frizz e hidratación prolongada✔️ Marca innovadora en cuidado capilar
-  Updated: 2026-06-09T15:20:25Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/ROSA_MOSQUETA_KIT_jpg.jpg?v=1774464799
   Price: 14.990,00 $ CLP
 - [Liso de Arrasar – Kit Capilar Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-liso-de-arrasar): ✨ Kit Capilar Liso de Arrasar – Shampoo + Acondicionador🌟 Cabello más liso, suave y manejable desde el primer uso.El Kit Capilar Liso de Arrasar de Corpo Dourado está diseñado para cabellos lisos naturales, alisados o con frizz. Su fórmula combina biotina, extracto de bambú y almidón de maíz para ayudar a controlar el volumen, mejorar la suavidad y aportar brillo. Contribuye a mantener la fibra capilar protegida, dejando el cabello más manejable, fácil de peinar y con un aroma suave y limpio. 🧬 Ingredientes clave💎 Biotina: Contribuye al fortalecimiento y ayuda a evitar la caída por quiebre.💧 Extracto de bambú: Aporta elasticidad, brillo y resistencia.🌿 Almidón de maíz: Ayuda a controlar el volumen y suavizar la fibra capilar. ✨ Beneficios🌟 Efecto liso prolongado desde el primer uso.💎 Control del frizz y del volumen, incluso en climas húmedos.💧 Aporta brillo y suavidad al cabello.🌬️ Cabello más manejable y fácil de peinar. 🧼 Cómo se usa1️⃣ Aplica el shampoo sobre el cabello mojado y masajea el cuero cabelludo. Enjuaga.2️⃣ Aplica el acondicionador de medios a puntas, deja actuar de 2 a 3 minutos y enjuaga.3️⃣ Para mejores resultados, utiliza la línea completa Liso de Arrasar. Ideal para incorporar en tu rutina capilar y mantener el cabello más liso, suave y controlado.
-  Updated: 2026-06-09T15:20:24Z
+  Updated: 2026-06-10T17:38:14Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/corpo_liso_de_arrazar_kit_0386f2c3-953e-4aae-bb3d-65bafea939dd.jpg?v=1774461506
   Price: 14.990,00 $ CLP
 - [Me Cacheia Muito  – Kit Capilar Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-me-cacheia-muito): ✨ Kit Capilar Rizos Poderosos – Shampoo + Acondicionador🌟 Rizos más definidos, hidratados y llenos de vida.El Pack Rizos Poderosos combina D-Pantenol, aceite de ricino y manteca de karité para brindar hidratación profunda, fuerza y definición al cabello rizado. El D-Pantenol ayuda a mantener la humedad del cabello, el aceite de ricino contribuye a revitalizar el cabello seco y la manteca de karité aporta nutrición intensa. El resultado son rizos más flexibles, saludables y con brillo. 🧬 Ingredientes clave💎 D-Pantenol: Ayuda a mantener la humedad del cabello.💧 Aceite de ricino: Contribuye a reparar y revitalizar el cabello seco.🌿 Manteca de karité: Aporta nutrición y ayuda a combatir las puntas partidas. ✨ Beneficios🌟 Hidratación profunda y definición de los rizos.💎 Aporta fuerza y mejora la flexibilidad del cabello.💧 Contribuye a un cabello más saludable y brillante.🌬️ Rizos con mejor apariencia y vitalidad. 🧼 Cómo se usa1️⃣ Aplica el shampoo sobre el cabello mojado, masajeando desde la raíz hasta las puntas. Enjuaga y repite si es necesario.2️⃣ Aplica el acondicionador mechón a mechón, masajeando suavemente.3️⃣ Deja actuar durante 3 minutos y enjuaga con abundante agua. 🌱 Fórmula consciente🌿 Producto vegano🚫 Libre de fragancia, parabenos, siliconas, sulfatos y alcohol Ideal para incorporar en tu rutina capilar diaria y mantener rizos hidratados, definidos y con mejor apariencia.
-  Updated: 2026-06-09T15:20:24Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/corpo_me_cachela_muito.jpg?v=1774454029
   Price: 14.990,00 $ CLP
 - [Pistache Supremo – Kit Capilar Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-pistache-supremo): ✨ Kit Capilar Pistache Supremo – Shampoo + Acondicionador🌟 Nutrición profunda y brillo para todo tipo de cabello.El Kit Capilar Pistache Supremo de Corpo Dourado está formulado para nutrir, hidratar y mejorar la apariencia del cabello, especialmente en cabellos secos, quebradizos o con frizz. Su combinación de ingredientes ayuda a fortalecer la fibra capilar, aportando suavidad, brillo y un aroma a pistache. 🧬 Ingredientes clave💎 Extracto de pistache: Rico en antioxidantes y nutrientes que contribuyen al fortalecimiento del cabello.💧 Aceites naturales: Ayudan a hidratar y suavizar el cabello.🌿 Vitaminas esenciales: Contribuyen a la regeneración y revitalización del cabello. ✨ Beneficios🌟 Nutre y ayuda a reparar el cabello dañado.💎 Aporta brillo y suavidad.💧 Facilita el desenredo y ayuda a controlar el frizz.🌬️ Deja un aroma a pistache en el cabello. 🧼 Cómo se usa1️⃣ Aplica el shampoo sobre el cabello mojado, masajea suavemente y enjuaga.2️⃣ Aplica el acondicionador, deja actuar de 3 a 5 minutos y enjuaga.3️⃣ Utiliza de 2 a 3 veces por semana según necesidad. Ideal para incorporar en tu rutina capilar y mantener el cabello nutrido, suave y con brillo.
-  Updated: 2026-06-09T15:20:23Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/KIT_PISTACHO_jpg.jpg?v=1774464734
   Price: 14.990,00 $ CLP
 - [Melancia (Sandía) – Kit Capilar Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-capilar-sandia-adictiva): ✨ Kit Capilar Sandía Adictiva Corpo Dourado – Shampoo + Acondicionador🌟 Hidratación, nutrición y frescura para tu cabello.El Kit Capilar Sandía Adictiva de Corpo Dourado está formulado para nutrir, hidratar y revitalizar el cabello desde la raíz hasta las puntas. Ideal para cabellos secos, dañados o sin brillo, combina ingredientes naturales y activos que ayudan a mejorar la suavidad, el manejo y la apariencia del cabello, dejando un aroma fresco y frutal a sandía. 🧬 Ingredientes clave💎 Extracto de sandía: Aporta propiedades antioxidantes y nutritivas.💧 Aceites naturales: Contribuyen a fortalecer y suavizar la fibra capilar.🌿 Vitaminas esenciales: Ayudan a la regeneración del cabello. ✨ Beneficios🌟 Hidrata y ayuda a reparar el cabello seco o dañado.💎 Aporta brillo y suavidad.💧 Facilita el desenredo y ayuda a controlar el frizz.🌬️ Deja un aroma fresco y frutal. 🧼 Cómo se usa1️⃣ Aplica el shampoo sobre el cabello mojado, masajea suavemente y enjuaga.2️⃣ Luego aplica el acondicionador, deja actuar de 3 a 5 minutos y enjuaga.3️⃣ Utiliza de 2 a 3 veces por semana según necesidad. Ideal para incorporar en tu rutina capilar y mantener el cabello hidratado, suave y con un aroma fresco.
-  Updated: 2026-06-09T03:54:03Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/kit_sandia_melancia.jpg?v=1774462075
   Price: 14.990,00 $ CLP
 - [Aloe Caprichoso – Kit Capilar Shampoo + Acondicionador](https://www.sb100dobrasil.cl/products/kit-capilar-aloe-caprichoso): ✨ Kit Capilar Aloe Caprichoso Corpo Dourado – Shampoo + Acondicionador 🌟 Hidratación y reparación para un cabello suave y revitalizado. El Kit Capilar Aloe Caprichoso de Corpo Dourado combina aloe vera y manteca de karité para brindar hidratación intensa y ayudar a la reparación del cabello. Está diseñado para mejorar la suavidad, el brillo y la vitalidad de la fibra capilar, contribuyendo a protegerla del daño diario. Apto para todo tipo de cabello. 🧬 Ingredientes clave 💎 Aloe vera: Calma, hidrata y fortalece el cabello. 💧 Manteca de karité: Nutre en profundidad y ayuda a controlar el frizz. ✨ Beneficios 🌟 Hidratación intensa y reparación del cabello. 💎Recupera la suavidad y el brillo natural. 💧 Contribuye a la nutrición y control del frizz. 🌬️Apto para todo tipo de cabello. 🧼 Cómo se usa 1️⃣ Aplica el champú sobre el cabello mojado y masajea suavemente. 2️⃣ Enjuaga y repite si es necesario. 3️⃣ Continúa con el acondicionador y enjuaga. Ideal para incorporar como rutina capilar y mantener el cabello hidratado, nutrido y con apariencia saludable.
-  Updated: 2026-06-09T15:20:33Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/corpo_dourado_caprichosa_babosa_7d5d3d85-1126-40b3-a496-48910f1006eb.jpg?v=1774461601
   Price: 14.990,00 $ CLP
 - [Morango (Fresa) 1 kg – Mascarilla Capilar 2 en 1](https://www.sb100dobrasil.cl/products/potao-morango): ✨ Mascarilla y Crema de Peinar Morango (Fresa)🌟 Hidratación, brillo y suavidad con aroma a fresa.La Mascarilla y Crema de Peinar Morango de Corpo Dourado está formulada para revitalizar, hidratar y mejorar la apariencia del cabello. Enriquecida con extracto de fresa, ayuda a fortalecer la fibra capilar, reducir el encrespamiento y aportar suavidad, dejando el cabello con un aroma afrutado. La mascarilla actúa proporcionando hidratación y nutrición, mientras que la crema de peinar facilita el desenredado y mejora la manejabilidad. 🧬 Ingredientes clave💎 Extracto de fresa: Contribuye a nutrir la fibra capilar y aportar brillo. ✨ Beneficios🌟 Hidratación y nutrición para el cabello.💎 Aporta suavidad y brillo natural.💧 Ayuda a reducir el encrespamiento.🌬️ Facilita el desenredado y mejora la manejabilidad. 🧼 Cómo se usa1️⃣ Aplica la mascarilla como tratamiento capilar y enjuaga después de su uso.2️⃣ Utiliza la crema de peinar sobre el cabello para facilitar el peinado.3️⃣ Distribuye según necesidad para controlar el frizz y mantener el cabello manejable. Ideal para incorporar en tu rutina capilar y mantener el cabello hidratado, suave y con un aroma agradable.
-  Updated: 2026-06-09T15:20:20Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/SONHO_DE_MORANGO__jpg.jpg?v=1774464684
   Price: 14.990,00 $ CLP
 - [Rosa Mosqueta 1 kg – Mascarilla Capilar 2 en 1](https://www.sb100dobrasil.cl/products/potado-rosa-mosqueta): ✨ Mascarilla y Crema de Peinar Rosa Mosqueta🌟 Reparación, hidratación y brillo natural para tu cabello.La línea Rosa Mosqueta de Corpo Dourado combina el poder regenerador del aceite de rosa mosqueta con activos hidratantes que ayudan a reparar y revitalizar el cabello. Su fórmula, rica en ácidos grasos esenciales y antioxidantes, aporta nutrición, suavidad y brillo, mejorando la apariencia del cabello en cada uso. 🧬 Ingredientes clave💎 Aceite de rosa mosqueta: Aporta nutrición, antioxidantes y ácidos grasos esenciales. ✨ Beneficios🌟 Hidratación y reparación para cabello seco, dañado u opaco.💎 Aporta suavidad y brillo natural.💧 Ayuda a controlar el frizz y proteger contra la resequedad.🌬️ Contribuye a un cabello con mejor apariencia y vitalidad. 🧼 Cómo se usa1️⃣ Aplica la mascarilla como tratamiento capilar y enjuaga después de su uso.2️⃣ Utiliza la crema de peinar sobre el cabello para facilitar el peinado.3️⃣ Distribuye según necesidad para controlar el frizz y mantener el cabello manejable. Ideal para incorporar en tu rutina capilar y mantener el cabello hidratado, suave y con brillo natural.
-  Updated: 2026-06-09T15:20:19Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/rosa_mosqueta_2_en_1_806f15a6-4ac1-4b6a-9e1c-9f239ce15930.jpg?v=1774461913
   Price: 14.990,00 $ CLP
 - [Aceite de Coco 1 kg –  Mascarilla Capilar](https://www.sb100dobrasil.cl/products/potao-coco): ✨ Mascarilla Capilar 2 en 1 Óleo de Coco – 1 kg🌟 Nutrición y suavidad para todo tipo de cabello.La Crema Óleo de Coco de Corpo Dourado es un tratamiento capilar 2 en 1 que puede utilizarse como crema de hidratación o como crema de peinar. Su fórmula con óleo de coco y óleo de oliva ayuda a hidratar profundamente, combatir el frizz y devolver el brillo y la suavidad al cabello, mejorando su apariencia y vitalidad. 🧬 Ingredientes clave💎 Óleo de coco: Contribuye a la hidratación y nutrición del cabello.💧 Óleo de oliva: Aporta suavidad y ayuda a mejorar la apariencia del cabello. ✨ Beneficios🌟 Nutrición intensa para todo tipo de cabello.💎 Control del frizz y reducción de puntas abiertas.💧 Aporta brillo, suavidad y vitalidad.🌬️ Contribuye a mejorar la apariencia del cabello seco o dañado. 🧼 Cómo se usa1️⃣ Como hidratante: aplica sobre el cabello limpio, masajea y deja actuar entre 10 y 20 minutos, luego enjuaga.2️⃣ Como crema de peinar: aplica sobre el cabello húmedo o seco, distribuyendo en medios y puntas.3️⃣ Ajusta la frecuencia según necesidad del cabello. 🌱 Fórmula consciente🌿 Producto vegano🐰 No testeado en animales🚫 Libre de parabenos Ideal para incorporar en tu rutina capilar y mantener el cabello nutrido, suave y con brillo.
-  Updated: 2026-06-09T03:54:27Z
+  Updated: 2026-06-15T14:54:59Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/oleo_de_coco_nutritivo_crema_hidratante_beb057ce-ae9c-4f3a-ae2e-50e6933f61d5.jpg?v=1774461698
   Price: 14.990,00 $ CLP
 - [Meu Argan Favorito 1 kg  – Mascarilla Hidratante](https://www.sb100dobrasil.cl/products/mascarilla-hidratante-argan): ✨ Mascarilla Capilar Meu Argan Favorito – 1 kg🌟 Hidratación profunda y nutrición para un cabello más suave y brillante.La Mascarilla Capilar Meu Argan Favorito está enriquecida con aceite de argán y D-Pantenol, siendo ideal para todo tipo de cabello. Su fórmula nutritiva y reparadora ayuda a recuperar la suavidad y el brillo natural, protegiendo la fibra capilar de daños externos. Puede utilizarse como tratamiento intensivo o como acondicionador de uso diario, aportando un cabello más manejable y con mejor apariencia. 🧬 Ingredientes clave💎 Aceite de argán: Aporta nutrición y ayuda a mejorar el brillo del cabello.💧 D-Pantenol: Contribuye a la hidratación del cabello. ✨ Beneficios🌟 Nutre y ayuda a reparar el cabello.💎 Aporta brillo y suavidad.💧 Ayuda a controlar el frizz y la sequedad.🌬️ Contribuye a proteger la fibra capilar de agresiones externas. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello limpio y húmedo.2️⃣ Como mascarilla: deja actuar entre 5 y 10 minutos y enjuaga.3️⃣ Como acondicionador: aplica una pequeña cantidad de medios a puntas, masajea y enjuaga. Ideal para incorporar en tu rutina capilar y mantener el cabello nutrido, suave y con brillo.
-  Updated: 2026-06-09T15:20:17Z
+  Updated: 2026-06-10T17:38:12Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/mew_argan_favorito_crema_hidratante_f9b310d8-3f04-45bf-b3eb-2ce39ede93ad.jpg?v=1774461651
   Price: 14.990,00 $ CLP
 - [Fabulosos Ondulados 1 kg  – Mascarilla Capilar 2 en 1](https://www.sb100dobrasil.cl/products/mascarilla-fabulosos-ondulados): ✨ Mascarilla Capilar 2 en 1 Fabulosos Ondulados – 1 kg🌟 Definición y nutrición para ondas naturales.La Mascarilla Capilar 2 en 1 Fabulosos Ondulados está especialmente formulada para cabellos ondulados, rizados o con textura natural. Su fórmula nutritiva y reparadora actúa en profundidad, ayudando a definir y mantener las ondas de forma natural sin apelmazar. Puede utilizarse como mascarilla intensiva o como acondicionador de uso frecuente, aportando suavidad, brillo y mejor manejabilidad desde la primera aplicación. 🧬 Ingredientes clave💎 Fórmula nutritiva: Contribuye a hidratar y mejorar la apariencia del cabello. ✨ Beneficios🌟 Hidrata y nutre el cabello en profundidad.💎 Ayuda a definir y mantener ondas suaves y naturales.💧 Reduce el frizz y mejora la manejabilidad.🌬️ Aporta brillo y suavidad al cabello. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello limpio y húmedo.2️⃣ Como mascarilla: deja actuar entre 5 a 10 minutos y enjuaga.3️⃣ Como acondicionador: aplica una pequeña cantidad, masajea suavemente y enjuaga. Ideal para incorporar en tu rutina capilar y realzar la forma natural de tus ondas con hidratación y suavidad.
-  Updated: 2026-06-09T15:20:17Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/fabulosos_ondulados_6d31d63d-494a-4f7d-b295-abb39ba13001.jpg?v=1774461752
   Price: 14.990,00 $ CLP
 - [Liso de arrasar 1 kg  – Mascarilla Capilar 2 en 1](https://www.sb100dobrasil.cl/products/potao-liso-de-arrasar): ✨ Mascarilla Capilar 2 en 1 Liso de Arrasar – 1 kg🌟 Efecto liso, suavidad y brillo en cada uso.La Mascarilla Capilar 2 en 1 Liso de Arrasar está diseñada para cabellos lisos o alisados. Su fórmula ayuda a hidratar profundamente, reducir el frizz y alinear la fibra capilar, dejando el cabello más suave, brillante y con un efecto liso duradero. Puede utilizarse como tratamiento o como crema de peinar, aportando un acabado pulido y mejorando la apariencia del cabello desde la primera aplicación. 🧬 Ingredientes clave💎 Biotina: Contribuye a fortalecer la fibra capilar y mejorar la elasticidad.💧 Extracto de brote de bambú: Ayuda a nutrir y mejorar la apariencia del cabello.🌿 Almidón de maíz: Contribuye a controlar el volumen y el resecamiento. ✨ Beneficios🌟 Hidratación profunda y efecto liso duradero.💎 Reduce el frizz y mejora la suavidad.💧 Aporta brillo y mejora la manejabilidad.🌬️ Ayuda a controlar el volumen y sellar las puntas. 🧼 Cómo se usa1️⃣ Aplica la mascarilla como tratamiento capilar y enjuaga después de su uso.2️⃣ Utiliza la crema de peinar sobre el cabello para facilitar el peinado.3️⃣ Distribuye según necesidad para controlar el frizz y mantener el cabello manejable. Ideal para incorporar en tu rutina capilar y mantener el cabello más liso, suave y con mejor apariencia.
-  Updated: 2026-06-09T15:20:16Z
+  Updated: 2026-06-10T17:38:12Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/liso_de_arrasar_2_en_1.jpg?v=1774458025
   Price: 14.990,00 $ CLP
 - [Cepillo Flexible Desenredante - Cabello Rizado](https://www.sb100dobrasil.cl/products/cepillo-pelo-rizado-regulable): Elimina nudos sin dolor y cuida tu cuero cabelludo gracias a sus cerdas redondas y espaciadas. Ligero, duradero y antideslizante, con soporte trasero ajustable y compartimento para bandas de goma. Su diseño masajea el cuero cabelludo mientras peinas, dejando el cabello suave, definido y sin enredos. Resistente al agua y fácil de limpiar. 📦 Incluye:1 cepillo desenredanteUn soporte desmontable en la parte posterior
-  Updated: 2026-06-09T15:20:15Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Oi Tudo Bem
   Product Type: 
   Availability: Available
@@ -992,139 +992,135 @@
     Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/Cepillo_cerdas_sueltas_-_Rosado.jpg?v=1774487757
     Price: 7990,00 $ CLP
 - [Me Cacheia Muito 1 kg  – Mascarilla Capilar 2 en 1](https://www.sb100dobrasil.cl/products/mascara-potao-me-cacheia-muito): ✨ Mascarilla Capilar 2 en 1 Me Cacheia Muito – 1 kg🌟 Hidratación y nutrición para rizos definidos y manejables.Esta crema 2 en 1 está diseñada para cabellos crespos y rizados, combinando D-panthenol, aceite de ricino y manteca de karité. Su fórmula ayuda a hidratar profundamente, aportar nutrición y mejorar la apariencia del cabello resecado. Además, contribuye a controlar el frizz, combatir las puntas dobles y mantener el cabello más manejable. 🧬 Ingredientes clave💎 D-panthenol: Contribuye a la hidratación del cabello.💧 Aceite de ricino: Aporta nutrición y ayuda a mejorar la apariencia del cabello seco.🌿 Manteca de karité: Ayuda a nutrir y suavizar la fibra capilar. ✨ Beneficios🌟 Hidratación profunda para cabellos rizados y crespos.💎 Aporta nutrición y mejora la apariencia del cabello resecado.💧 Ayuda a controlar el frizz y las puntas dobles.🌬️ Contribuye a un cabello más manejable. 🧼 Cómo se usa1️⃣ Como crema para peinar: aplica una pequeña cantidad en las manos y distribuye a lo largo del cabello, evitando las raíces.2️⃣ Como crema de hidratación: aplica después del lavado, mechón por mechón, masajeando suavemente.3️⃣ Deja actuar de 10 a 20 minutos y enjuaga. Ideal para incorporar en tu rutina capilar y mantener rizos hidratados, nutridos y con mejor apariencia.
-  Updated: 2026-06-09T15:20:14Z
+  Updated: 2026-06-10T17:38:09Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/me_caheia_muito_2_en_1_9d41207f-5cee-4bff-ac91-e9c4c23ec56f.jpg?v=1774461827
   Price: 14.990,00 $ CLP
 - [Melancia (Sandía) 1 kg – Mascarilla Capilar 2 en 1](https://www.sb100dobrasil.cl/products/mascara-melancia-sandia): ✨ Mascara Capilar 2 en 1 Melancia (Sandía) – 1 kg🌟 Hidratación ligera y frescura para el uso diario.La crema 2 en 1 Melancia de Corpo Dourado es un producto multifuncional que puede utilizarse como mascarilla con enjuague o como crema para peinar sin enjuague. Su fórmula con extracto de sandía, rica en vitaminas A, C y licopeno, ayuda a hidratar la fibra capilar aportando una sensación de frescura y ligereza. Ideal para cabellos que necesitan hidratación sin perder volumen, deja el cabello con brillo, suavidad y un aroma frutal. 🧬 Ingredientes clave💎 Extracto de sandía: Rico en vitaminas A, C y licopeno, contribuye a la hidratación del cabello. ✨ Beneficios🌟 Hidratación ligera sin sensación pesada.💎 Aporta brillo y mejora la apariencia del cabello.💧 Ayuda a controlar el frizz y facilita el desenredado.🌬️ Deja un aroma fresco y frutal en el cabello. 🧼 Cómo se usa1️⃣ Como mascarilla: aplica sobre el cabello húmedo, deja actuar y enjuaga.2️⃣ Como crema de peinar: aplica sobre el cabello y distribuye sin enjuagar.3️⃣ Ajusta la cantidad según necesidad y tipo de uso. 🌱 Fórmula consciente🌿 Fórmula vegana Ideal para incorporar en tu rutina capilar diaria y mantener el cabello hidratado, suave y con un acabado ligero.
-  Updated: 2026-06-09T15:20:13Z
+  Updated: 2026-06-20T02:17:28Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MELANCIA_SANDIA_2_EN_UNO_5d880b88-080c-4174-9876-a6b29e89f464.jpg?v=1774461785
   Price: 14.990,00 $ CLP
 - [Santo Potão 1 kg – Mascarilla Capilar](https://www.sb100dobrasil.cl/products/crema-capilar-santo-potao): ✨ Crema Capilar y Mascarilla Santo Potão🌟 Nutrición y reparación intensiva para tu cabello.La Crema Capilar y Mascarilla Santo Potão de Corpo Dourado está formulada para brindar un cuidado profundo al cabello. Su combinación de aceites naturales y activos nutritivos penetra en la fibra capilar, ayudando a mejorar su apariencia y dejándolo más fuerte, suave y con brillo natural. Puede utilizarse como crema de tratamiento o como mascarilla, adaptándose a distintas necesidades de cuidado capilar. 🧬 Ingredientes clave💎 Aceites naturales: Aportan nutrición al cabello.💧 Activos nutritivos: Contribuyen a mejorar la suavidad y el aspecto del cabello. ✨ Beneficios🌟 Hidratación profunda y nutrición intensiva.💎 Cabello más fuerte, suave y con brillo natural.💧 Ideal para cabello seco, dañado o con frizz.🌬️ Deja el cabello sedoso, manejable y revitalizado. 🧼 Cómo se usa1️⃣ Aplica después del lavado sobre el cabello húmedo.2️⃣ Deja actuar de 3 a 5 minutos como crema capilar.3️⃣ Para tratamiento profundo, deja actuar de 15 a 20 minutos como mascarilla y enjuaga. Ideal para incorporar en tu rutina de cuidado capilar y adaptar su uso según el nivel de nutrición que necesite tu cabello.
-  Updated: 2026-06-09T15:20:13Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/santo_potao_salva_fios_2_en_1_ea7b3114-4d17-4286-89f6-fc9c8de1fdfc.jpg?v=1774461884
   Price: 14.990,00 $ CLP
 - [Pistache supremo 1 kg – Mascarilla Capilar 2 en 1](https://www.sb100dobrasil.cl/products/crema-capilar-pistache-supremo): ✨ Mascarilla Capilar Pistache Supremo🌟 Nutrición y suavidad intensiva para tu cabello.La Mascarilla Capilar Pistache Supremo está formulada con mantequilla de pistacho y aceite de linaza, ingredientes que ayudan a nutrir profundamente el cabello, controlar el frizz y mejorar su apariencia. Ideal para todo tipo de cabello, especialmente reseco o sin vida, aportando suavidad, elasticidad y brillo natural. 🧬 Ingredientes clave💎 Mantequilla de pistacho: Contribuye a la nutrición y fortalecimiento del cabello.💧 Aceite de linaza: Aporta suavidad y elasticidad a la fibra capilar. ✨ Beneficios🌟 Nutrición profunda del cabello.💎 Control del frizz y mejora del brillo natural.💧 Aporta suavidad y elasticidad.🌬️ Ideal para cabello reseco o sin vida. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo después del lavado.2️⃣ Deja actuar de 3 a 5 minutos como crema capilar.3️⃣ Para un tratamiento intensivo, deja actuar de 15 a 20 minutos y enjuaga. Ideal para incorporar en tu rutina capilar y mantener el cabello nutrido, suave y con brillo.
-  Updated: 2026-06-09T15:20:12Z
+  Updated: 2026-06-20T02:17:27Z
   Vendor: Corpo Dourado
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/pistache_supremo_2_en_1_cf399d47-3fcf-4fd4-919e-6581fdf53ad4.jpg?v=1774461978
   Price: 14.990,00 $ CLP
 - [Blancos y Grisáceos – Acondicionador](https://www.sb100dobrasil.cl/products/acondicionados-blanco-grisaceos): ✨ Acondicionador Blancos y Grisáceos 🌟 Hidratación, brillo y cuidado para cabellos blancos y grises.El acondicionador líquido de Lola está especialmente formulado para cabellos blancos y grisáceos. Su textura ligera ayuda a hidratar, iluminar y mejorar la apariencia del cabello, aportando brillo y suavidad. Además, contribuye a proteger contra los rayos UVB y a mejorar la elasticidad y resistencia de la fibra capilar. 🧬 Ingredientes clave💎 Fitoceramidas: Contribuyen a la reparación de la fibra capilar.💧 Ácido hialurónico: Ayuda a hidratar y mejorar la apariencia del cabello. ✨ Beneficios🌟 Ilumina y aporta brillo al cabello.💎 Hidratación y suavidad.💧 Contribuye a mejorar la elasticidad y resistencia.🌬️ Ayuda a proteger contra los rayos UVB. 🧼 Cómo se usa1️⃣ Agita antes de usar.2️⃣ Aplica una pequeña cantidad sobre el cabello limpio y húmedo, masajeando bien.3️⃣ Deja actuar de 1 a 2 minutos.4️⃣ Emulsiona añadiendo un poco de agua y enjuaga abundantemente.5️⃣ Finaliza como desees. ⚠️ Precauciones👁️ Evitar el contacto con los ojos.🔥 Puede generar una sensación de calor durante la aplicación. Ideal para incorporar en tu rutina capilar y mantener el cabello hidratado, brillante y con mejor apariencia.
-  Updated: 2026-06-09T15:20:11Z
+  Updated: 2026-06-10T17:38:13Z
   Vendor: Lola
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/BLANCO_GRISACEOS_ACONDICIONADOR.jpg?v=1774463248
   Price: 9990,00 $ CLP
 - [Blancos y Grisáceos – Shampoo Hidratante 250 ml](https://www.sb100dobrasil.cl/products/hidratante-blanco-y-grisaceos): ✨ Shampoo Hidratante Blancos y Grisáceos – 250 ml🌟 Limpieza, hidratación y brillo para cabellos blancos y grises.El shampoo Blancos y Grisáceos de Lola está formulado para limpiar suavemente mientras ayuda a mantener la salud del cabello. Su acción iluminadora contribuye a reavivar el brillo y a cuidar el color en el uso diario, dejando el cabello con una apariencia más luminosa y saludable. 🧬 Ingredientes clave💎 Fórmula hidratante: Diseñada para limpiar sin resecar el cabello. ✨ Beneficios🌟 Limpia suavemente el cabello.💎 Ayuda a mantener el brillo y la luminosidad.💧 Contribuye al cuidado diario del color.🌬️ Aporta hidratación al cabello. 🧼 Cómo se usa1️⃣ Agita antes de usar.2️⃣ Aplica sobre el cabello húmedo en cuero cabelludo y largos.3️⃣ Masajea suavemente hasta emulsionar.4️⃣ Enjuaga bien. Ideal para incorporar en tu rutina capilar diaria y mantener el cabello limpio, hidratado y con brillo.
-  Updated: 2026-06-09T15:20:10Z
+  Updated: 2026-06-10T17:38:11Z
   Vendor: Lola
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/BLANCO_GRISACEOS_HIDRATANTE.jpg?v=1774465305
   Price: 9990,00 $ CLP
 - [Meu Cacho Minha Vida – Jelly Gel](https://www.sb100dobrasil.cl/products/meu-cacho-minha-vida-jelly): ✨ Meu Cacho Minha Vida Jelly Gel🌟 Definición y control para rizos y ondas.El Jelly Gel Meu Cacho Minha Vida está formulado para crear rizos y ondas con alta definición. Su fórmula con ingredientes humectantes ayuda a mantener el cabello con menos frizz, aportando volumen y una mejor apariencia en el peinado. 🧬 Ingredientes clave💎 Aceite de patauá: Contribuye a la hidratación del cabello.💧 Extractos de plantas: Ayudan al cuidado del cabello. ✨ Beneficios🌟 Define rizos y ondas.💎 Ayuda a controlar el frizz.💧 Aporta volumen. 🧼 Cómo se usa1️⃣ Aplica sobre el cabello húmedo o mojado.2️⃣ Distribuye en todos los largos.3️⃣ Amasa de abajo hacia arriba para definir los rizos. 🌱 Fórmula consciente🌿 Producto vegano🚫 Libre de parabenos, ftalatos, sulfatos y siliconas insolubles🚫 Sin óleo mineral, parafina ni derivados animales
-  Updated: 2026-06-09T15:20:09Z
+  Updated: 2026-06-10T17:38:10Z
   Vendor: Lola
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/MeuCachoMinhaVidaJellyGel.jpg?v=1774887335
   Price: 12.990,00 $ CLP
-- [Blancos y Grisáceos – Shampoo Silver 250 ml](https://www.sb100dobrasil.cl/products/silver-blancos-y-grisaceos): ✨ Blancos y Grisáceos Shampoo Silver – 250 ml🌟 Neutralización y cuidado para cabellos blancos y grises.El Shampoo Silver Blancos Grisáceos está formulado para neutralizar los tonos amarillentos del cabello, ayudando a mantener el color. Además, contribuye a hidratar y proteger el cabello frente a la oxidación y los rayos UVB, mejorando su apariencia. 🧬 Ingredientes clave💎 Pigmentos violetas: Ayudan a neutralizar tonos amarillentos. ✨ Beneficios🌟 Neutraliza reflejos amarillentos.💎 Ayuda a mantener el brillo del cabello.💧 Contribuye a la hidratación.🌬️ Protección frente a rayos UVB y oxidación. 🧼 Cómo se usa1️⃣ Agita antes de usar.2️⃣ Aplica sobre el cabello húmedo en cuero cabelludo y largos.3️⃣ Masajea suavemente hasta emulsionar.4️⃣ Deja actuar 2 minutos o hasta lograr la neutralización deseada.5️⃣ Enjuaga bien. Ideal para alternar con el shampoo hidratante de la línea según necesidad.
-  Updated: 2026-06-09T15:20:08Z
-  Vendor: Lola
-  Product Type: 
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0954/8811/4979/files/BLANCO_GRISACEOS_SILVER.jpg?v=1774476735
-  Price: 9990,00 $ CLP
-[List Continued](https://www.sb100dobrasil.cl/a/llms-agent/llms.txt?shop=qu960b-8u.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE2NjAyNjMwNTgyNywibGFzdF92YWx1ZSI6IjEwMTY2MDI2MzA1ODI3In0%3D)
+[List Continued](https://www.sb100dobrasil.cl/a/llms-agent/llms.txt?shop=qu960b-8u.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE2NjAyMzM4OTQ3NSwibGFzdF92YWx1ZSI6IjEwMTY2MDIzMzg5NDc1In0%3D)
 
 ## Collections
 
 - [Línea Profesional](https://www.sb100dobrasil.cl/collections/sic)
-  Updated: 2026-06-09T15:22:34Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 19
 - [Rizado](https://www.sb100dobrasil.cl/collections/rizado)
-  Updated: 2026-06-09T15:21:59Z
+  Updated: 2026-06-20T11:26:25Z
   Total Products: 33
 - [Crema de Peinar](https://www.sb100dobrasil.cl/collections/crema-de-peinar-1): Definición y Suavidad Extrema. Consigue una melena perfecta con nuestras cremas de peinar de alta gama. Hidratación profunda y desenredo fácil con la calidad del hair care brasileño original ¡Resultados de salón en casa!
-  Updated: 2026-06-09T15:21:59Z
+  Updated: 2026-06-20T11:26:25Z
   Total Products: 27
 - [Mascarilla Capilar](https://www.sb100dobrasil.cl/collections/mascaras)
-  Updated: 2026-06-09T15:21:57Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 46
 - [Post Alisado](https://www.sb100dobrasil.cl/collections/post-alisado)
-  Updated: 2026-06-09T15:21:57Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 3
 - [Gota Dourada Cuidado Capilar - SB100%doBrasil](https://www.sb100dobrasil.cl/collections/gotissima): Productos capilares brasileños para fortalecer el cabello, apoyar su crecimiento y dejarlo más saludable, brillante y resistente desde la raíz.
-  Updated: 2026-06-09T15:22:32Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 82
 - [Cabello Liso](https://www.sb100dobrasil.cl/collections/cabello-liso)
-  Updated: 2026-06-09T15:22:10Z
+  Updated: 2026-06-19T11:27:49Z
   Total Products: 14
 - [Cabello Rizado](https://www.sb100dobrasil.cl/collections/cabello-rizado)
-  Updated: 2026-06-09T15:22:06Z
+  Updated: 2026-06-20T11:26:25Z
   Total Products: 43
 - [Cabellos Quimicamente Tratados](https://www.sb100dobrasil.cl/collections/cabellos-quimicamente-tratados)
-  Updated: 2026-06-09T15:21:26Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 13
 - [Línea Capilar Hombre - SB100%doBrasil](https://www.sb100dobrasil.cl/collections/linea-hombre): Descubre cuidado capilar masculino con productos brasileños diseñados para hidratar, fortalecer y mantener el cabello limpio, suave y saludable
   Updated: 2026-06-09T15:21:26Z
   Total Products: 4
 - [Pack liso escova de Gota Dourada - SB100%doBrasil](https://www.sb100dobrasil.cl/collections/pack-liso-escova): Linea Escova de Gota Dourada que incluye shampoo, acondicionador, mascarilla y crema sin enjuague con fórmula profesional. Ideal para mantener el alisado, controlar el frizz y devolver el brillo desde la primera aplicación.
-  Updated: 2026-06-09T15:22:10Z
+  Updated: 2026-06-19T11:27:49Z
   Total Products: 5
 - [Aceites Capilares Brasileños | Compra en sb100doBrasil.cl](https://www.sb100dobrasil.cl/collections/aceites): Descubre el secreto del brillo brasileño con nuestra selección de aceites capilares de calidad premium. Nutrición profunda, control del frizz y suavidad extrema con lo mejor del hair care de Brasil.¡Dale a tu cabello el cuidado profesional que merece!
-  Updated: 2026-06-09T15:21:53Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 8
 - [Lola From Rio - SB100%doBrasil](https://www.sb100dobrasil.cl/collections/lola-from-rio): Productos capilares 100% brasileños, veganos y libres de crueldad para cuidar tu cabello con fórmulas conscientes, modernas y efectivas.
-  Updated: 2026-06-09T15:20:12Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 52
 - [SKALA Cuidado Capilar - SB100%doBrasil](https://www.sb100dobrasil.cl/collections/skala): Productos capilares brasileños 100% veganos, con 0% ingredientes de origen animal, para hidratar, nutrir y cuidar todo tipo de cabello.
   Updated: 2026-06-09T15:21:16Z
   Total Products: 36
 - [Corpo Dourado Cuidado Capilar Brasileño - SB100%doBrasil](https://www.sb100dobrasil.cl/collections/corpo-dourado): Corpo Dourado ofrece cuidado capilar brasileño con fórmulas pensadas para hidratar, nutrir y dejar el cabello visiblemente más suave y brillante.
-  Updated: 2026-06-09T15:20:27Z
+  Updated: 2026-06-20T11:26:25Z
   Total Products: 25
 - [KNUT cuidado capilar brasileño - SB100%doBrasil](https://www.sb100dobrasil.cl/collections/knut): Tratamientos Capilares Brasileños profesionales, eficaces y dinámicos.
 KNUT esta enfocado en el cuidado capilar con eficiencia, integridad y flexibilidad.
   Updated: 2026-06-09T15:20:44Z
   Total Products: 13
 - [Oi Tudo Bem](https://www.sb100dobrasil.cl/collections/oi-tudo-bem)
-  Updated: 2026-06-08T11:22:10Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 15
 - [Sic Professional Cosmetics - SB100%doBrasil](https://www.sb100dobrasil.cl/collections/sic-professional-cosmetics): Cosméticos profesionales brasileños para cuidado capilar, con excelencia, ética y sostenibilidad para lograr resultados visibles y confiables. 
 Envios a Todo Chile.
-  Updated: 2026-06-09T15:22:34Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 19
 - [Pack Capilar Rizos Definicion pro Gota Dourada - SB100%doBrasil](https://www.sb100dobrasil.cl/collections/pack-rizos-definicion-pro): Pack capilar para rizos con champú, acondicionador, mascarilla y crema sin enjuague. Hidrata, controla frizz y define ondas, rizos y afro.
-  Updated: 2026-06-09T15:21:34Z
+  Updated: 2026-06-14T11:27:16Z
   Total Products: 8
 - [Matizadores](https://www.sb100dobrasil.cl/collections/matizadores)
   Updated: 2026-06-09T15:22:18Z
   Total Products: 15
 - [Shampoo y Acondicionador](https://www.sb100dobrasil.cl/collections/shampoo-y-acondicionador)
-  Updated: 2026-06-09T15:22:32Z
+  Updated: 2026-06-20T11:26:25Z
   Total Products: 92
 - [Packs / Kits](https://www.sb100dobrasil.cl/collections/packs-kit): Conoce todos los packs y kits de productos capilares brasileños de SB 100% Do Brasil. Compra el pack o kit y ahorra dinero!
-  Updated: 2026-06-09T15:22:10Z
+  Updated: 2026-06-20T11:26:25Z
   Total Products: 41
 - [Pack Quimicamente Tratados](https://www.sb100dobrasil.cl/collections/fortalecimiento-quimicamente-tratados)
-  Updated: 2026-06-09T15:21:26Z
+  Updated: 2026-06-21T11:22:34Z
   Total Products: 6
 - [Linea Infantil](https://www.sb100dobrasil.cl/collections/linea-infantil): Linea de productos capilares brasileños creados para el cuidado y necesidades de los niños.Todo tipo de cabello. aportando brillo, suavidad y definicion.
-  Updated: 2026-06-09T15:21:21Z
+  Updated: 2026-06-11T17:50:09Z
   Total Products: 12
+- [Seleccion Ganadora](https://www.sb100dobrasil.cl/collections/seleccion-destacada): En este mundial de futbol, conoce los productos capilares de nuestra seleccion ganadora!
+  Updated: 2026-06-15T14:16:18Z
+  Total Products: 6
 
 ## Policies
 
