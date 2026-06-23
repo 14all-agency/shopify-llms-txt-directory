@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2026-03-15T11:22:50Z
 - Contact Email: contact.needs@coretelk.com
-- Updated At: 2026-06-15T00:00:43.147Z
+- Updated At: 2026-06-23T00:00:45.645Z
 
 At NEEDs, we provide everything you need — from premium mobile accessories to everyday essentials. We specialise in high-quality products including phone cases, chargers, cables, and accessories, with plans to expand into toys, footwear, bags, clothing, and solar lighting.
 
@@ -116,7 +116,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6804000874A-1.jpg?v=1773882808
   Price: £23.07 GBP
 - [M02S AI Translation Smart Glasses with Camera IP65 Waterproof Video Recording Music Eyeglasses](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses): 【Multifunctional Smart Eyewear】Integrates high-definition camera, AI voice assistant, Bluetooth-compatible calling, and directional audio output for an enhanced tech-enabled experience. 【AI-Powered Assistance】Supports advanced language models like ChatGPT, offering instant voice-activated chat and intelligent image recognition. 【Precision Audio Technology】Dual-speaker design with directional sound output ensures privacy and superior audio quality. 【High-Quality Image Capture】Built-in 8MP camera allows hands-free photo and video recording from a first-person perspective. 【Durable Construction】IP65 water-resistant rating protects against sweat and rain, suitable for various environments. 【Extended Battery Life】290mAh battery provides up to 7 hours of music playback or 4 hours of talk time on a single charge. 【Customizable Lenses】Compatible with  lenses (not included), making it suitable for users with visual impairments. Specifications: Frame Material: TR90 (frame), ABS + PMMA (temple) Water Resistance: IP65 Platform: JL7018F + Allwinner V821 (camera controller) Bluetooth-compatible Version: 5.3 (dual-mic ENC) Speaker: 15*10*2 Antenna: Wire antenna Bluetooth-compatible Range: ≥10 meters in open space Battery Capacity: 290mAh Charging Time: 2 hours Internal Storage: 4GB Camera: 8MP for Sony 219 sensor Photo Format: JPG, 1080P 30fps Video Format: AVI, 1080P 30fps Audio Recording: OGG format App: HeyCyan (6-month free trial for members) Dimensions: 146mm (width) x 160mm (length) x 53mm (height) Lens Width: 53mm Bridge Width: 15mm Weight: 35g Package included 1 x Smart Glasses 1 x Charging Cable 1 x Cleaning Cloth 1 x English Manual Specifications Brand N/A Certificate CE-RED,CE-RoHS ColorStyle B Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.202kg Volume Weight 0.137kg Package Length 17.000cm Package Width 6.000cm Package Height 6.000cm
-  Updated: 2026-06-02T08:44:37Z
+  Updated: 2026-06-15T03:08:09Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -124,11 +124,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Plano Lens](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses?variant=57506417213814)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899004099A-1_3eb98127-68e8-41fd-9d99-3a2835d601d5.jpg?v=1773882845
-    Price: £35.71 GBP
+    Price: £38.41 GBP
   - [Sunglasses Lens](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses?variant=57506417181046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899004099B-1.jpg?v=1773882843
-    Price: £35.71 GBP
+    Price: £38.41 GBP
 - [Wireless Noise Cancelling Earbuds Dual Mic Bluetooth 5.0 - NEEDs](https://coretelk.com/products/fineblue-wireless-stereo-tws-earphones-dual-mic-anc-noise-cancellation-bluetooth-compatible-headsets-1): Shop wireless noise cancelling earbuds with dual mic and Bluetooth 5.0. TWS stereo sound. Free shipping available at NEEDs.
   Updated: 2026-06-01T03:40:48Z
   Vendor: Needs
@@ -355,7 +355,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6803000642A-1.jpg?v=1773884268
   Price: £42.73 GBP
 - [M02S AI Translation Smart Glasses with Camera IP65 Waterproof Video Recording Music Eyeglasses](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses-1): 【Multifunctional Smart Eyewear】Integrates high-definition camera, AI voice assistant, Bluetooth-compatible calling, and directional audio output for an enhanced tech-enabled experience. 【AI-Powered Assistance】Supports advanced language models like ChatGPT, offering instant voice-activated chat and intelligent image recognition. 【Precision Audio Technology】Dual-speaker design with directional sound output ensures privacy and superior audio quality. 【High-Quality Image Capture】Built-in 8MP camera allows hands-free photo and video recording from a first-person perspective. 【Durable Construction】IP65 water-resistant rating protects against sweat and rain, suitable for various environments. 【Extended Battery Life】290mAh battery provides up to 7 hours of music playback or 4 hours of talk time on a single charge. 【Customizable Lenses】Compatible with  lenses (not included), making it suitable for users with visual impairments. Specifications: Frame Material: TR90 (frame), ABS + PMMA (temple) Water Resistance: IP65 Platform: JL7018F + Allwinner V821 (camera controller) Bluetooth-compatible Version: 5.3 (dual-mic ENC) Speaker: 15*10*2 Antenna: Wire antenna Bluetooth-compatible Range: ≥10 meters in open space Battery Capacity: 290mAh Charging Time: 2 hours Internal Storage: 4GB Camera: 8MP for Sony 219 sensor Photo Format: JPG, 1080P 30fps Video Format: AVI, 1080P 30fps Audio Recording: OGG format App: HeyCyan (6-month free trial for members) Dimensions: 146mm (width) x 160mm (length) x 53mm (height) Lens Width: 53mm Bridge Width: 15mm Weight: 35g Package included 1 x Smart Glasses 1 x Charging Cable 1 x Cleaning Cloth 1 x English Manual Specifications Brand N/A Certificate CE-RED,CE-RoHS ColorStyle B Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.202kg Volume Weight 0.137kg Package Length 17.000cm Package Width 6.000cm Package Height 6.000cm
-  Updated: 2026-06-02T08:44:38Z
+  Updated: 2026-06-15T03:08:10Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -363,11 +363,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Plano Lens](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses-1?variant=57506724610422)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899004099A-1_d18a9e58-9d17-4f27-a1b3-0adb94a40492.jpg?v=1773884300
-    Price: £35.71 GBP
+    Price: £38.41 GBP
   - [Sunglasses Lens](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses-1?variant=57506724577654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899004099B-1_bf9b32fe-5a70-4f64-831f-295381136c41.jpg?v=1773884298
-    Price: £35.71 GBP
+    Price: £38.41 GBP
 - [L801 AI Smart Glasses 8MP Camera Video Recording Music Playback Voice Call Translation Eyeglasses](https://coretelk.com/products/l801-ai-smart-glasses-8mp-camera-video-recording-music-playback-voice-call-translation-eyeglasses): 【AI-Powered Translation】Enjoy free 6-month access to app-based translation services, supporting multiple languages for seamless communication. 【High-Quality Camera】Equipped with an 8MP camera featuring image stabilization for crisp photos and 1200P HD video recording. 【Dual Microphone System】Enhanced noise reduction ensures clear audio capture for recordings and calls. 【Multifunctional Smart Glasses】Combines photography, video recording, music playback, voice calls, and AI-assisted features in one sleek device. 【Comfortable Design】Features a comfortable nose pad for extended wear and durable hinges for smooth opening and closing. 【Immersive Audio】Dual directional surround stereo speakers provide an exceptional audio experience. Specifications: Dimensions: 150*155mm Material: Plastic body with metal hinges Camera: 8MP IMX219 sensor with image stabilization Video Quality: 1200P HD Audio: Dual microphones with noise reduction, high-quality speakers Connectivity: Bluetooth-compatible 5.4, Wi-Fi Battery: 3.8V/270mAh polymer lithium battery Charging: Magnetic charging Storage: 4GB Compatibility: Android 6.0+ and iOS 10.0+ Controls: Two physical buttons + touch controls Additional Features: Wear detection, music control, voice assistant, object recognition App: Hey Cyan Processor: JL7018F CPU Note: APP translation is free for half a year.Package included 1 x AI Smart Glasses 1 x Charging Cable 1 x English and Chinese User Manual 1 x Glasses Cloth 1 x Glasses Pouch 1 x Glasses Leather Case 1 x Set of Nose Pads Specifications Brand N/A Certificate CE,CE-RoHS Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.269kg Volume Weight 0.215kg Package Length 20.000cm Package Width 8.000cm Package Height 6.000cm
   Updated: 2026-06-02T21:44:29Z
   Vendor: Needs
@@ -643,7 +643,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/100102752D-1.jpg?v=1773884572
     Price: £12.96 GBP
 - [Smart Fingerprint Padlock Small Size Padlock Cabinet Fingerprint Lock Mini Fingerprint Lock](https://coretelk.com/products/smart-fingerprint-padlock-small-size-padlock-cabinet-fingerprint-lock-mini-fingerprint-lock): This is an intelligent fingerprint padlock, which can be unlocked only by fingerprints instead of keys. It is suitable for the security of doors, backpacks, suitcases and many kinds of lockers in public places. Equipped with a professional fingerprint module scheme, this product has great stability Lock Head: Made of professional high toughness stainless steel Lock Body: Made of high-density zinc alloy, solid and durable Large Capacity Battery: 180mAh, can stand for 3000 hours after charging USB Charging Port: Suitable for a mobile phone charger and power bank 10 groups of fingerprints can be recorded Low Voltage Alarm Function: Flash for 10 seconds. It is able to be unlocked about 200 times after alarming Solve the problems of key forgetting and  leaking Specifications: Lock body material: zinc alloy Unlocking method: fingerprint recognition unlocking Status prompt: three-color LED + buzzer Number of fingerprints stored: 10 (2 for administrators, 8 for ordinary users) Press times during fingerprint entry: 10 times Charging time: 2-4 hours Charging interface: USB Number of times of unlocking after fully charged: 9000 times Maximum standby time: 1 year Low battery alarm: The red light flashes for 10 seconds after unlocking, indicating that the current is low, and the lock can be unlocked up to 200 times. waterproof grade: IP62 Working ambient temperature: -20℃ to +65℃ Product size: 76*46*13mm Lock beam diameter: 5mm Product net weight: 98 grams Package included 1 x Fingerprint Lock 1 x USB Charging Cable 1 x English and Chinese Users Manual Specifications Color Black Gross Weight 0.151kg Volume Weight 0.038kg Package Length 10.800cm Package Width 7.800cm Package Height 2.000cm
-  Updated: 2026-06-10T04:26:17Z
+  Updated: 2026-06-22T02:25:05Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -651,11 +651,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Black](https://coretelk.com/products/smart-fingerprint-padlock-small-size-padlock-cabinet-fingerprint-lock-mini-fingerprint-lock?variant=57506736636278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/TP10310354469A-1.jpg?v=1773884570
-    Price: £11.71 GBP
+    Price: £11.69 GBP
   - [Silver](https://coretelk.com/products/smart-fingerprint-padlock-small-size-padlock-cabinet-fingerprint-lock-mini-fingerprint-lock?variant=57506736669046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/TP10310354469B-1.jpg?v=1773884572
-    Price: £11.71 GBP
+    Price: £11.69 GBP
 - [T268 5 in 1 Magnetic Wireless Charger for iPhone / Apple Watch / AirPods Charging Station](https://coretelk.com/products/t268-5-in-1-magnetic-wireless-charger-for-iphone-apple-watch-airpods-charging-station): 【5-in-1 Multifunctional Charger】Supports wireless charging for your phone, smartwatch, and earphones, along with an ambient light and an extra USB output for added convenience 【Magnetic Fast Charging】Designed with strong magnetic alignment, ensuring secure and efficient wireless charging for iPhone 12-16 series 【Charge Multiple Devices Simultaneously】Power up multiple devices at once, saving both time and space for a clutter-free charging experience 【Adjustable Ambient Light】Built-in soft ambient light with touch control, allowing you to adjust as needed 【Safe & Reliable Protection】Equipped with multiple safety features, including overvoltage, overcurrent, and temperature protection, ensuring secure charging Specifications: Input: 9V/4A 12V/2.5A Output Power: Mobile phone: 5W, 7.5W, 10W, 15W; Watch: 3W; Earphone: 2W Conversion efficiency: less than 80% Transmission distance: <5mm Product size: 175*85*120mm Product material: ABS+zinc alloy Compatible with Universal Models Universal Package included 1 x Magnetic Wireless Charger 1 x English and Chinese User Manual Other items not included Specifications Brand N/A Color Black Packaging Type Colored Box Plug Type (For Supply) N/A Support FOD Function Yes User Manual (Language) English and Chinese Gross Weight 0.339kg Volume Weight 0.492kg Package Length 18.600cm Package Width 12.700cm Package Height 9.300cm
   Updated: 2026-05-30T15:41:37Z
   Vendor: Needs
@@ -1217,21 +1217,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6626000521A-1.jpg?v=1773884772
   Price: £25.59 GBP
-- [K10 Wireless Lavalier Mic DSP Noise Canceling Microphone  (2 Microphones+1 Receiver)](https://coretelk.com/products/k10-wireless-lavalier-mic-dsp-noise-canceling-microphone-2-microphones-1-receiver): 2.4G wireless transmission, with unlimited transmission distance up to 20 meters, low data transmission delay, indoor and outdoor unrestricted Plug and pay. Just plug the receiver into your cell phone, the wireless microphone will be automatically paired and start working The wireless microphone is small and lightweight, can be easily put into pockets, handbags, briefcases and so on Adopting noise reduction chip, filtering excess noises, vocals are clearer, you can record clearly even in noisy environments With a 600mAh battery charging bin, convenient to charge your microphone on the go Specifications: Microphone: digital silicone mic Input voltage: 5V Battery capacity: microphone: 80mAh (2pcs=160mAh); charging bin battery: 600mAh Working time: about 6h Signal-to-noise ratio: 64DBM adaptive noise reduction Transmission delay: 30MS Sensitivity: -42DB Frequency response range: 20-20KHZ Transmission distance: 20m (without obstacles) Package included 2 x Microphones 1 x Receiver 1 x Charging Bin 1 x English User Manual 1 x Charging Cable Other items not included Specifications Certificate CE ColorStyle B Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.168kg Volume Weight 0.108kg Package Length 11.700cm Package Width 10.800cm Package Height 3.800cm
-  Updated: 2026-06-01T04:30:33Z
-  Vendor: Needs
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/681400664A-1.jpg?v=1773884782
-  - [Type-C/Black Yellow](https://coretelk.com/products/k10-wireless-lavalier-mic-dsp-noise-canceling-microphone-2-microphones-1-receiver?variant=57506746696054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/681400664A-1.jpg?v=1773884782
-    Price: £25.76 GBP
-  - [For iPhone/Black Yellow](https://coretelk.com/products/k10-wireless-lavalier-mic-dsp-noise-canceling-microphone-2-microphones-1-receiver?variant=57506746728822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/681400664B-1.jpg?v=1773884784
-    Price: £25.94 GBP
-[List Continued](https://coretelk.com/a/llms-agent/llms.txt?shop=equasw-ja.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY1ODE3MjAyMzE1OCwibGFzdF92YWx1ZSI6IjE1NjU4MTcyMDIzMTU4In0%3D)
+[List Continued](https://coretelk.com/a/llms-agent/llms.txt?shop=equasw-ja.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY1ODE3MTk5MDM5MCwibGFzdF92YWx1ZSI6IjE1NjU4MTcxOTkwMzkwIn0%3D)
 
 ## Collections
 
@@ -1260,16 +1246,16 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Updated: 2026-05-26T20:19:43Z
   Total Products: 0
 - [Smart Devices — Smartwatches, Glasses & Car Accessories | NEEDs](https://coretelk.com/collections/smart-device): Shop smart devices at NEEDs. Smartwatches, smart glasses, car accessories, microphones, tripods and more. Fast shipping & secure payment.
-  Updated: 2026-06-10T10:31:19Z
+  Updated: 2026-06-22T08:25:03Z
   Total Products: 125
 - [Wireless Earphones & Earbuds - Noise Cancelling Bluetooth - NEEDs](https://coretelk.com/collections/earphones): Browse wireless earphones and earbuds with ANC, touch control, and Bluetooth. Free shipping available. Shop at NEEDs.
   Updated: 2026-06-09T07:27:39Z
   Total Products: 107
 - [AI Smart Glasses with HD Camera & Bluetooth Music - NEEDs](https://coretelk.com/collections/smart-glasses): Shop AI smart glasses with HD recording, Bluetooth calling, and real-time translation. Waterproof options available. Shop at NEEDs.
-  Updated: 2026-06-09T07:27:40Z
+  Updated: 2026-06-15T03:08:12Z
   Total Products: 31
 - [Real-Time Translation Earphones & Headsets 144 Languages - NEEDs](https://coretelk.com/collections/translation-devices): Shop smart translation earphones with real-time voice translation in 144+ languages. Noise reduction & Bluetooth. Shop at NEEDs.
-  Updated: 2026-06-09T07:27:41Z
+  Updated: 2026-06-15T03:08:12Z
   Total Products: 28
 - [Smart Watches with Fitness Tracking & Bluetooth - NEEDs](https://coretelk.com/collections/smart-watches): Browse smart watches with fitness tracking, heart rate monitor, and Bluetooth. Free shipping available. Shop at NEEDs.
   Updated: 2026-06-09T07:27:42Z
@@ -1278,10 +1264,10 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Updated: 2026-06-10T09:08:20Z
   Total Products: 26
 - [Car Accessories Dash Cams Chargers & Bluetooth Mounts - NEEDs](https://coretelk.com/collections/car-accessories-shop): Shop car accessories including dash cams, car chargers, Bluetooth transmitters and phone mounts. Free shipping. Shop at NEEDs.
-  Updated: 2026-06-10T10:31:19Z
+  Updated: 2026-06-22T08:25:03Z
   Total Products: 76
 - [Mobile Phone Accessories Cases Chargers & Screen Protectors - NEEDs](https://coretelk.com/collections/mobile-phone-accessories): Shop mobile phone accessories including cases, chargers, screen protectors and cables. Free shipping available. Shop at NEEDs.
-  Updated: 2026-06-09T07:27:47Z
+  Updated: 2026-06-22T08:25:03Z
   Total Products: 799
 - [Studio Microphones & Photography Lighting for Creators - NEEDs](https://coretelk.com/collections/studio-and-microphones): Shop studio microphones, wireless lavalier mics, ring lights and photography lighting for streaming and content creation. Shop at NEEDs.
   Updated: 2026-06-09T07:27:58Z
@@ -1352,6 +1338,18 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Updated: 2026-06-14T19:00:56Z
     Author: NEEDs
     Tags: digital, digital transformation, everyday tech solutions, future gadget management, gadget organization, gadgets, tech, tech essentials
+  - [Can Budget Earbuds Have Great Sound? — The Ultimate Guide](https://coretelk.com/blogs/news/can-budget-earbuds-have-great-sound-the-ultimate-guide): Can Budget Earbuds Have Great Sound? — The Ultimate Guide
+    Updated: 2026-06-17T19:02:39Z
+    Author: NEEDs
+    Tags: affordable earbuds for gaming, audio, best budget earbuds review, budget earbuds, digital, digital transformation, quality sound experience, sound
+  - [Eco-friendly Mobile Chargers — What You Need in 2026](https://coretelk.com/blogs/news/eco-friendly-mobile-chargers-what-you-need-in-2026): Eco-friendly Mobile Chargers — What You Need in 2026
+    Updated: 2026-06-19T19:01:43Z
+    Author: NEEDs
+    Tags: digital, eco, eco-friendly charging solutions, future energy solutions, green, mobile chargers, renewable energy innovations, sustainable technology
+  - [Must-Have Travel Tech Accessories — Explore Your Options](https://coretelk.com/blogs/news/must-have-travel-tech-accessories-explore-your-options): Must-Have Travel Tech Accessories — Explore Your Options
+    Updated: 2026-06-21T19:00:41Z
+    Author: NEEDs
+    Tags: accessories, digital, digital tools, essential tech for travelers, must-have travel gear, tech gadgets, travel, travel tech
 
 ## Store Pages
 
