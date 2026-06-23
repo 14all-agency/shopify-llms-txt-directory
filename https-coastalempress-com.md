@@ -20,7 +20,7 @@ Coastal Empress is a popular shopping destination for tourists visiting Long Bea
 - Contact Email: ce.boutiquelb@gmail.com
 - Contact Phone: 888-336-7396
 - Address: 2401 Pacific Ave N. Ste. A Long Beach, WA 98631
-- Updated At: 2026-06-15T00:00:26.403Z
+- Updated At: 2026-06-23T00:00:32.908Z
 
 Coastal Empress is a boutique gift shop located in Long Beach, WA on the Long Beach Peninsula. We specialize in unique gifts, seasonal home decor, self-care products, artisan teas, books, jewelry, bridal gifts, candles, bath and body products, gourmet treats, and thoughtfully curated collections. We feature products from women owned businesses, small makers and artisans across the United States. Visitors can discover new arrivals weekly, seasonal greenhouse displays and gifts for every occasion. Coastal Empress is a popular shopping destination for tourists visiting Long Beach, WA and the Washington Coast. 
 
