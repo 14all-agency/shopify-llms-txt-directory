@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-04-09T01:33:29Z
 - Contact Email: support@jellova.com
-- Updated At: 2026-06-11T00:00:27.400Z
+- Updated At: 2026-06-23T02:33:45.942Z
 
 ## Products
 
-- [Ice Blue Jelly Tote Bag – Clear Aesthetic Y2K Handbag](https://jellova.com/products/ice-blue-jelly-tote-bag): Ice blue jelly bag in medium size, perfect for daily use or work. Y2K transparent candy bag for women, clean style, lightweight, and versatile.
-  Updated: 2026-06-07T18:20:18Z
+- [Ice Blue Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/ice-blue-jelly-tote-bag): Ice blue jelly bag in medium size, perfect for daily use or work. Y2K transparent candy bag for women, clean style, lightweight, and versatile.
+  Updated: 2026-06-17T21:35:07Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -22,8 +22,8 @@
   - [Medium](https://jellova.com/products/ice-blue-jelly-tote-bag?variant=46849500119229)
     Availability: Available
     Price: $88.00 USD
-- [Butter Yellow Jelly Mood Bag](https://jellova.com/products/butter-yellow-jelly-mood-bag-medium): Butter yellow jelly bag in medium size, perfect for sunny days or casual outings. Y2K transparent candy bag for women, fresh, warm, and easy to match.
-  Updated: 2026-06-09T20:47:28Z
+- [Butter Yellow Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/butter-yellow-jelly-mood-bag-medium): Butter yellow jelly bag in medium size, perfect for sunny days or casual outings. Y2K transparent candy bag for women, fresh, warm, and easy to match.
+  Updated: 2026-06-17T03:44:52Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -37,8 +37,8 @@
   - [Large](https://jellova.com/products/butter-yellow-jelly-mood-bag-medium?variant=46878902714557)
     Availability: Available
     Price: $98.00 USD
-- [Black Jelly Firkin Bag](https://jellova.com/products/black-jelly-firkin-bag): Black jelly bag in medium size, perfect for everyday outfits and formal occasions. Y2K transparent candy bag for women, sleek, versatile, and timeless.
-  Updated: 2026-06-05T01:20:18Z
+- [Black Jelly Firkin Bag – Y2K Jelly Birkin Tote | Jellova](https://jellova.com/products/black-jelly-firkin-bag): The Black Jelly Firkin Bag is a translucent, Birkin-style jelly tote in structured 3mm PVC. A water-resistant Y2K candy bag, in Small, Medium & Large.
+  Updated: 2026-06-22T23:07:03Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -48,14 +48,14 @@
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/BlackJellyFirkinBag-Small.webp?v=1776752847
     Price: $78.00 USD
   - [Medium](https://jellova.com/products/black-jelly-firkin-bag?variant=46812140372157)
-    Availability: Not Available
+    Availability: Available
     Price: $88.00 USD
   - [Large](https://jellova.com/products/black-jelly-firkin-bag?variant=46812140404925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/BlackJellyBag_MediumY2KCandyBag_1.webp?v=1776310650
     Price: $98.00 USD
 - [White Jelly Firkin Bag – Y2K Clear Jelly Tote | Jellova](https://jellova.com/products/white-jelly-firkin-bag): Shop the original White Jelly Firkin Bag — a translucent Y2K clear jelly tote in a Birkin-style silhouette. Sizes S/M/L, worldwide shipping. See prices.
-  Updated: 2026-06-05T03:33:09Z
+  Updated: 2026-06-12T19:15:10Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -71,8 +71,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/WhiteJellyFirkinBag40-Y2KCandyBag_1.webp?v=1776320669
     Price: $98.00 USD
-- [Lavender Jelly Firkin Bag](https://jellova.com/products/lavender-jelly-firkin-bag): Lavender jelly bag in medium size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, dreamy, light, and eye-catching.
-  Updated: 2026-06-04T14:30:30Z
+- [Lavender Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/lavender-jelly-firkin-bag): Lavender jelly bag in medium size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, dreamy, light, and eye-catching.
+  Updated: 2026-06-17T03:43:07Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -89,8 +89,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/LavenderJellyFirkinBag40_7.webp?v=1776410461
     Price: $98.00 USD
-- [Pink Jelly Firkin Mood Bag](https://jellova.com/products/pink-jelly-firkin-mood-bag): Pink jelly bag in medium size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
-  Updated: 2026-06-09T19:44:51Z
+- [Pink Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/pink-jelly-firkin-mood-bag): Pink jelly bag in medium size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
+  Updated: 2026-06-22T19:13:58Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -104,15 +104,15 @@
   - [Large](https://jellova.com/products/pink-jelly-firkin-mood-bag?variant=46812144566461)
     Availability: Available
     Price: $98.00 USD
-- [Watermelon Red Jelly Mood Bag-Large](https://jellova.com/products/watermelon-red-jelly-mood-bag-40): Watermelon Red jelly bag in medium size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
-  Updated: 2026-06-03T15:19:31Z
+- [Watermelon Red Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/watermelon-red-jelly-mood-bag-40): Watermelon Red jelly bag in medium size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
+  Updated: 2026-06-22T19:58:37Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/WatermelonRedJellyMoodBag40_1.webp?v=1776414429
   Price: $98.00 USD
-- [Neon Green Y2K Jelly Firkin Bag](https://jellova.com/products/neon-green-y2k-jelly-firkin-bag): Neon green jelly bag in medium size, perfect for parties or bold daily outfits. Y2K transparent candy bag for women, eye-catching, fun, and lightweight.
-  Updated: 2026-06-03T15:18:54Z
+- [Neon Green Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/neon-green-y2k-jelly-firkin-bag): Neon green jelly bag in medium size, perfect for parties or bold daily outfits. Y2K transparent candy bag for women, eye-catching, fun, and lightweight.
+  Updated: 2026-06-17T04:53:07Z
   Vendor: Jellova
   Product Type: Firkin Bag
   Availability: Available
@@ -129,8 +129,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Neon_Green_Y2K_Jelly_Bag_40_1.webp?v=1776415254
     Price: $98.00 USD
-- [Aqua Jelly Firkin Mood Bag](https://jellova.com/products/aqua-jelly-firkin-mood-bag): Aqua jelly bag in medium size, perfect for summer outfits or daily use. Y2K transparent candy bag for women, fresh, lightweight, and easy to style.
-  Updated: 2026-06-10T14:02:26Z
+- [Aqua Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/aqua-jelly-firkin-mood-bag): Aqua jelly bag in medium size, perfect for summer outfits or daily use. Y2K transparent candy bag for women, fresh, lightweight, and easy to style.
+  Updated: 2026-06-21T09:56:37Z
   Vendor: Jellova
   Product Type: Firkin Bag
   Availability: Available
@@ -147,8 +147,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Mint_Jelly_Mood_Bag_35-Y2K_Candy_Girl_Energy_2.webp?v=1776415430
     Price: $98.00 USD
-- [Orange Jelly Firkin Mood Bag](https://jellova.com/products/orange-jelly-firkin-mood-bag): Orange jelly bag in Large size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
-  Updated: 2026-06-04T14:30:29Z
+- [Orange Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/orange-jelly-firkin-mood-bag): Orange jelly bag in Large size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
+  Updated: 2026-06-17T03:44:32Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -162,92 +162,92 @@
   - [Large](https://jellova.com/products/orange-jelly-firkin-mood-bag?variant=46812186280125)
     Availability: Available
     Price: $98.00 USD
-- [Y2K Digital Pet Bag Charm#001](https://jellova.com/products/keychain-001): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
-  Updated: 2026-06-05T14:43:26Z
+- [Y2K Digital Pet Bag Charm – Cute Keychain No.1 | Jellova](https://jellova.com/products/keychain-001): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
+  Updated: 2026-06-17T03:50:53Z
   Vendor: Jellova
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/O1CN01L5NSHs1l6iEXb5VPP__2443444770_1.jpg?v=1776678221
   Price: $16.99 USD
-- [Y2K Digital Pet Bag Charm#002](https://jellova.com/products/keychain-002): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
-  Updated: 2026-06-05T14:43:18Z
+- [Y2K Digital Pet Bag Charm – Cute Keychain No.2 | Jellova](https://jellova.com/products/keychain-002): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
+  Updated: 2026-06-17T03:51:11Z
   Vendor: JELLOVA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Keychain_001.webp?v=1776678615
   Price: $16.99 USD
-- [Y2K Digital Pet Bag Charm#003](https://jellova.com/products/keychain-003): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
-  Updated: 2026-06-05T14:43:15Z
+- [Y2K Digital Pet Bag Charm – Cute Keychain No.3 | Jellova](https://jellova.com/products/keychain-003): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
+  Updated: 2026-06-17T03:51:26Z
   Vendor: JELLOVA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Keychain_003.webp?v=1776678818
   Price: $16.99 USD
-- [Y2K Digital Pet Bag Charm#004](https://jellova.com/products/keychain-004): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
-  Updated: 2026-06-05T14:43:05Z
+- [Y2K Digital Pet Bag Charm – Cute Keychain No.4 | Jellova](https://jellova.com/products/keychain-004): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
+  Updated: 2026-06-17T03:51:41Z
   Vendor: JELLOVA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Keychain_004.webp?v=1776678993
   Price: $16.99 USD
-- [Y2K Digital Pet Bag Charm#005](https://jellova.com/products/keychain-005): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
-  Updated: 2026-06-05T14:42:56Z
+- [Y2K Digital Pet Bag Charm – Cute Keychain No.5 | Jellova](https://jellova.com/products/keychain-005): Y2K-inspired multi-element bag charm featuring a nostalgic digital pet design. This edgy yet cute keychain blends sweet-cool aesthetics with niche subculture vibes—perfect for elevating your bag with a trendy, Miu-style statement.
+  Updated: 2026-06-17T03:51:56Z
   Vendor: JELLOVA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Keychain_005.webp?v=1776679142
   Price: $16.99 USD
-- [Baby Blue Jelly Mood Bag – Large](https://jellova.com/products/baby-blue-jelly-mood-bag-large): Baby Blue jelly Firkin bag in Large size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
-  Updated: 2026-06-09T19:44:54Z
+- [Baby Blue Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/baby-blue-jelly-mood-bag-large): Baby Blue jelly Firkin bag in Large size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
+  Updated: 2026-06-22T21:04:44Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/BabyBlueJellyMoodBag_Large_1.webp?v=1776743352
   Price: $98.00 USD
-- [Plum Jelly Mood Bag – Large](https://jellova.com/products/plum-jelly-mood-bag-large): Plum jelly bag in Large size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
-  Updated: 2026-06-04T14:30:27Z
+- [Plum Jelly Firkin Bag (Large) – Clear Y2K Tote | Jellova](https://jellova.com/products/plum-jelly-mood-bag-large): Plum jelly bag in Large size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
+  Updated: 2026-06-17T03:46:36Z
   Vendor: Jellova
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/PlumJellyMoodBag_Large_1.webp?v=1776743863
   Price: $98.00 USD
-- [Cream Jelly Mood Bag – Large](https://jellova.com/products/cream-jelly-mood-bag-large): Cream jelly Firkin bag in Large size, perfect for soft aesthetic outfits and daily styling. minimal vibe while still keeping that signature Y2K translucent glow.
-  Updated: 2026-06-03T15:19:35Z
+- [Cream Jelly Firkin Bag – Clear Y2K Tote | Jellova](https://jellova.com/products/cream-jelly-mood-bag-large): Cream jelly Firkin bag in Large size, perfect for soft aesthetic outfits and daily styling. minimal vibe while still keeping that signature Y2K translucent glow.
+  Updated: 2026-06-22T04:48:46Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/CreamJellyMoodBag_Large_8.webp?v=1776744641
   Price: $98.00 USD
-- [Plum Jelly Mood Bag – Small](https://jellova.com/products/plum-jelly-mood-bag-small): Plum jelly Firkin bag in Small size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
-  Updated: 2026-06-03T15:20:00Z
+- [Plum Jelly Firkin Bag (Small) – Clear Y2K Tote | Jellova](https://jellova.com/products/plum-jelly-mood-bag-small): Plum jelly Firkin bag in Small size, perfect for soft aesthetic outfits and daily styling. Y2K transparent candy bag for women, cute, playful, and eye-catching.
+  Updated: 2026-06-18T05:59:52Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/PlumJellyMoodBag_Small_bcbf9c73-4c90-4b60-9261-01550dab238f.webp?v=1776752144
   Price: $78.00 USD
-- [Coral Jelly Shoulder Firkin Bag – Medium Limited Edition](https://jellova.com/products/coral-jelly-shoulder-firkin-bag-medium): Coral jelly shoulder firkin bag with floral print. Y2K-inspired, lightweight, stylish, and perfect for adding a playful touch to any outfit.
-  Updated: 2026-06-03T15:20:08Z
+- [Coral Jelly Firkin Shoulder Bag – Y2K Clear | Jellova](https://jellova.com/products/coral-jelly-shoulder-firkin-bag-medium): Coral jelly shoulder firkin bag with floral print. Y2K-inspired, lightweight, stylish, and perfect for adding a playful touch to any outfit.
+  Updated: 2026-06-17T03:48:08Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/CoralJellyShoulderFirkinBag_Medium_1.webp?v=1777010123
   Price: $108.00 USD
-- [White Jelly Shoulder Firkin Bag – Medium Limited Edition](https://jellova.com/products/white-jelly-shoulder-firkin-bag-medium): White jelly shoulder firkin bag with floral print. Y2K-inspired, medium size, stylish, lightweight, and perfect for adding a playful touch to any outfit.
-  Updated: 2026-06-03T15:20:23Z
+- [White Jelly Firkin Shoulder Bag – Y2K Clear | Jellova](https://jellova.com/products/white-jelly-shoulder-firkin-bag-medium): White jelly shoulder firkin bag with floral print. Y2K-inspired, medium size, stylish, lightweight, and perfect for adding a playful touch to any outfit.
+  Updated: 2026-06-17T03:48:35Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/WhiteJellyShoulderFirkinBag_Medium_4.webp?v=1777017724
   Price: $108.00 USD
-- [Sky Blue Jelly Shoulder Firkin Bag – Medium Limited Edition](https://jellova.com/products/sky-blue-jelly-shoulder-firkin-bag-medium): Sky blue jelly shoulder firkin bag with floral print. Y2K-inspired, medium size, fun, stylish, and perfect for adding a playful pop to your outfit.
-  Updated: 2026-06-03T15:20:15Z
+- [Sky Blue Jelly Firkin Shoulder Bag – Y2K Clear | Jellova](https://jellova.com/products/sky-blue-jelly-shoulder-firkin-bag-medium): Sky blue jelly shoulder firkin bag with floral print. Y2K-inspired, medium size, fun, stylish, and perfect for adding a playful pop to your outfit.
+  Updated: 2026-06-17T03:48:54Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/SkyBlueJellyShoulderFirkinBag_Medium_4.webp?v=1777018268
   Price: $108.00 USD
-- [Jelly JPG Shoulder Birkin](https://jellova.com/products/jelly-jpg-shoulder-birkin): Shop the Jelly JPG Shoulder Bag — jelly birkin vibes, East-West silhouette, long shoulder straps. Wipe-clean PVC. Free U.S. shipping on $85+.
-  Updated: 2026-06-06T14:12:17Z
+- [Jelly Firkin Shoulder Bag – Clear Y2K Purse | Jellova](https://jellova.com/products/jelly-jpg-shoulder-birkin): Shop the Jelly JPG Shoulder Bag — jelly birkin vibes, East-West silhouette, long shoulder straps. Wipe-clean PVC. Free U.S. shipping on $85+.
+  Updated: 2026-06-17T03:49:11Z
   Vendor: JELLOVA
   Product Type: JPG Shoulder Birkin
   Availability: Available
@@ -280,8 +280,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyJPGShoulderBirkin_1.webp?v=1779695983
     Price: $88.00 USD
-- [Jelly Kitten Heel Thong Sandals — 8 Colors](https://jellova.com/products/jelly-kitten-heel-thong-sandals): Step into Y2K style with the Jelly Kitten Heel Thong Sandals — transparent jelly heels with a chic minimalist look, perfect for summer outfits and vacations.
-  Updated: 2026-06-03T03:14:06Z
+- [Jelly Kitten Heel Sandals – Clear Y2K Thong Heels | Jellova](https://jellova.com/products/jelly-kitten-heel-thong-sandals): Step into Y2K style with the Jelly Kitten Heel Thong Sandals — transparent jelly heels with a chic minimalist look, perfect for summer outfits and vacations.
+  Updated: 2026-06-17T03:50:30Z
   Vendor: JELLOVA
   Product Type: Jelly Shoes
   Availability: Available
@@ -479,7 +479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyClearKittenHeelThongSandals_3.webp?v=1779864518
     Price: $68.99 USD
 - [Worry-Free Purchase](https://jellova.com/products/worry-free-purchase): Worry-Free Shopping with SeelAdd extra protection to eligible purchases for peace of mind. Coverage details vary by order. See your specific protections in the widget at cart/checkout, and review complete coverage information in your confirmation email.Having issues? Visit Seel Resolution Center for easy claims and resolution.Note: This is a value-added service by Seel. Do not purchase as a standalone item.
-  Updated: 2026-06-07T09:40:09Z
+  Updated: 2026-06-12T04:31:19Z
   Vendor: Seel
   Product Type: SEEL-WFP
   Availability: Available
@@ -634,72 +634,118 @@
   - [USD44.99 / This purchase is backed by Seel’s worry-free protection.](https://jellova.com/products/worry-free-purchase?variant=46854184861885)
     Availability: Available
     Price: $44.99 USD
-- [Jelly Baguette Shoulder Bag](https://jellova.com/products/jelly-baguette-shoulder-bag): Shop the Jelly Baguette Shoulder Bag — jelly Firkin vibes, East-West silhouette, long shoulder straps. Wipe-clean PVC. Free U.S. shipping on $85+.
-  Updated: 2026-06-09T09:08:43Z
+- [Jelly Firkin Baguette Bag – Clear Y2K Shoulder | Jellova](https://jellova.com/products/jelly-baguette-shoulder-bag): Shop the Jelly Baguette Shoulder Bag — jelly Firkin vibes, East-West silhouette, long shoulder straps. Wipe-clean PVC. Free U.S. shipping on $85+.
+  Updated: 2026-06-18T04:56:26Z
   Vendor: JELLOVA
   Product Type: Baguette Shoulder Bag
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyBaguetteShoulderBag_1.jpg?v=1780995413
+  Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Jelly_Baguette_Shoulder_Bag_ef7fbe91-992c-41ee-be44-fb88b8b15225.webp?v=1781237361
   - [Blossom](https://jellova.com/products/jelly-baguette-shoulder-bag?variant=46878911791293)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Jelly_Baguette_Shoulder_Bag_ef7fbe91-992c-41ee-be44-fb88b8b15225.webp?v=1781237361
     Price: $88.00 USD
   - [Lavender](https://jellova.com/products/jelly-baguette-shoulder-bag?variant=46878911824061)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyBaguetteShoulderBag_4.jpg?v=1780995412
     Price: $88.00 USD
   - [White](https://jellova.com/products/jelly-baguette-shoulder-bag?variant=46878911856829)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyBaguetteShoulderBag_2.jpg?v=1780995412
     Price: $88.00 USD
   - [Yellow](https://jellova.com/products/jelly-baguette-shoulder-bag?variant=46878911889597)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyBaguetteShoulderBag_3.jpg?v=1780995412
     Price: $88.00 USD
   - [Aqua](https://jellova.com/products/jelly-baguette-shoulder-bag?variant=46878911922365)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Jelly_Baguette_Shoulder_Bag_3.jpg?v=1780996101
     Price: $88.00 USD
   - [Lime](https://jellova.com/products/jelly-baguette-shoulder-bag?variant=46878911955133)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Jelly_Baguette_Shoulder_Bag_1_60e82b34-816d-4b2a-9075-2a17f059747c.webp?v=1781255624
     Price: $88.00 USD
   - [Tangerine](https://jellova.com/products/jelly-baguette-shoulder-bag?variant=46878911987901)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Jelly_Baguette_Shoulder_Bag_2_b8cec816-af07-43c7-b607-2a13c9ed006e.webp?v=1781255624
+    Price: $88.00 USD
+- [Studded Jelly Firkin Bag – Y2K Clear Underarm | Jellova](https://jellova.com/products/studded-jelly-firkin-shoulder-bag): The studded jelly firkin — a limited-edition clear TPU shoulder bag with silver studs and a matching card-holder charm, in baby blue or pink. Ships worldwide.
+  Updated: 2026-06-18T04:56:14Z
+  Vendor: JELLOVA
+  Product Type: Studded Shoulder Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/StuddedJellyFirkinShoulderBag_1.webp?v=1781239428
+  - [Baby Blue](https://jellova.com/products/studded-jelly-firkin-shoulder-bag?variant=46928231628989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/StuddedJellyFirkinShoulderBag_1.webp?v=1781239428
+    Price: $128.00 USD
+  - [Pink](https://jellova.com/products/studded-jelly-firkin-shoulder-bag?variant=46928231661757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/StuddedJellyFirkinShoulderBag_2.webp?v=1781239428
+    Price: $128.00 USD
+- [Grey Croc Jelly Firkin Bag – Clear Crocodile Tote | Jellova](https://jellova.com/products/grey-croc-jelly-firkin-bag): Grey croc jelly Firkin bag: a clear, embossed-crocodile PVC tote in a Birkin-style shape. Vegan, water-resistant, Y2K. Small $78 · Med $88 · Large $98.
+  Updated: 2026-06-18T04:56:01Z
+  Vendor: JELLOVA
+  Product Type: Firkin Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/GreyCrocJellyFirkinBag_2.webp?v=1781252912
+  Price: $168.00 USD
+- [Jelly Tote Bag | Translucent TPU Beach Bag | Jellova](https://jellova.com/products/jelly-tote-bag): Shop our translucent jelly tote bag in 6 candy colors — lightweight, water-resistant TPU with a roomy open-top design. The perfect Y2K beach & city tote.
+  Updated: 2026-06-22T06:25:32Z
+  Vendor: JELLOVA
+  Product Type: Tote
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyToteBag_TranslucentTPU_8.jpg?v=1781754660
+  - [Pink](https://jellova.com/products/jelly-tote-bag?variant=46949940625597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyToteBag_TranslucentTPU_8.jpg?v=1781754660
+    Price: $88.00 USD
+  - [Yellow](https://jellova.com/products/jelly-tote-bag?variant=46949940658365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyToteBag_TranslucentTPU_22.jpg?v=1781754660
+    Price: $88.00 USD
+  - [Apple green](https://jellova.com/products/jelly-tote-bag?variant=46949940691133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyToteBag_TranslucentTPU_2.jpg?v=1781754660
+    Price: $88.00 USD
+  - [Blue](https://jellova.com/products/jelly-tote-bag?variant=46949940723901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyToteBag_TranslucentTPU_6.jpg?v=1781754660
+    Price: $88.00 USD
+  - [Haze blue](https://jellova.com/products/jelly-tote-bag?variant=46949940756669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyToteBag_TranslucentTPU_16.jpg?v=1781754661
+    Price: $88.00 USD
+  - [Gray](https://jellova.com/products/jelly-tote-bag?variant=46949940789437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyToteBag_TranslucentTPU_20.jpg?v=1781754660
     Price: $88.00 USD
 
 ## Collections
 
-- [JELLY BAGS](https://jellova.com/collections/frontpage): The jelly birkin bag, a PVC bag, has once again entered the public eye. This choice not only evokes collective memories of Y2K millennial aesthetics but also brings the once-phenomenal "Candy Bag" back into the public eye.
-  Updated: 2026-06-10T11:22:09Z
-  Total Products: 29
-- [Small Jelly Firkin Bags – Mini Y2K Clear Jelly Totes | Jellova](https://jellova.com/collections/small-jelly): Shop small & mini jelly firkin bags — compact translucent Y2K clear jelly totes in candy colors. Lightweight, waterproof, worldwide shipping.
-  Updated: 2026-06-05T03:35:53Z
-  Total Products: 7
-- [Jelly Firkin– Medium](https://jellova.com/collections/medium-jelly)
-  Updated: 2026-06-08T11:23:35Z
-  Total Products: 7
-- [Jelly Firkin-Large](https://jellova.com/collections/large-jelly)
-  Updated: 2026-06-10T11:22:09Z
-  Total Products: 12
-- [Accessories](https://jellova.com/collections/accessories)
-  Updated: 2026-06-05T02:43:22Z
+- [Jelly Firkin Bags – Clear Y2K Jelly Totes from $78 | Jellova](https://jellova.com/collections/frontpage): Shop Jellova's jelly firkin bags – translucent Y2K jelly totes in candy colors, structured 3mm vegan PVC. Sizes S/M/L from $78. Worldwide shipping to Australia, US & UK.
+  Updated: 2026-06-22T11:23:18Z
+  Total Products: 33
+- [Jelly Bag Accessories & Charms – Y2K | Jellova](https://jellova.com/collections/accessories): Finish your look with Jellova accessories — jelly bag charms, keychains and add-ons for your jelly firkin bag. Y2K candy aesthetic, worldwide shipping from $78.
+  Updated: 2026-06-12T11:24:57Z
   Total Products: 5
-- [LIMITED FLORAL SERIES](https://jellova.com/collections/limited-edition-floral-series)
-  Updated: 2026-06-10T09:57:21Z
-  Total Products: 3
-- [BEST SELLERS](https://jellova.com/collections/best-sellers)
-  Updated: 2026-06-10T11:22:09Z
+- [Limited Jelly Firkin Bags – Y2K Edition | Jellova](https://jellova.com/collections/limited-edition-floral-series): Jellova's Limited Floral Series — clear jelly shoulder firkin bags with pressed-floral detail. Medium, structured vegan PVC, $108. Limited stock, ships worldwide.
+  Updated: 2026-06-18T03:55:00Z
+  Total Products: 6
+- [Best Sellers – Top Jelly Firkin Bags | Jellova](https://jellova.com/collections/best-sellers): Jellova best sellers — our most-loved jelly firkin bags and jelly shoes in candy Y2K shades. Shop the top translucent totes from $78. Worldwide shipping.
+  Updated: 2026-06-22T11:23:18Z
   Total Products: 14
-- [NEW JPG BK SERIES](https://jellova.com/collections/jpg-jelly-shoulder-birkin)
-  Updated: 2026-06-10T09:58:11Z
+- [Jelly Shoulder Birkin – JPG Series Y2K Jelly Bag | Jellova](https://jellova.com/collections/jpg-jelly-shoulder-birkin): The Jelly JPG Shoulder Birkin — a clear Y2K jelly bag with a shoulder strap and structured silhouette. Vegan PVC, $88. Jellova's newest series, shipping worldwide.
+  Updated: 2026-06-12T03:42:05Z
   Total Products: 1
 - [JELLY SHOES](https://jellova.com/collections/jelly-shoes)
   Updated: 2026-06-10T09:55:03Z
   Total Products: 1
-- [Jelly Firkin Bags – Shop All Y2K Clear Jelly Totes | Jellova](https://jellova.com/collections/jelly-bags): The signature. Translucent jelly firkins, mood bags and shoulder Firkins in every candy shade — built from structured 3mm PVC, vegan and wipe-clean.
-  Updated: 2026-06-10T11:22:09Z
-  Total Products: 29
-- [Jelly Shoes](https://jellova.com/collections/jelly-shoes-1): Now walking. Jelly kitten-heel thong sandals — soft PVC, a 2" lift and all-day comfort, in shades that pair perfectly with your Jellova bag.
-  Updated: 2026-06-10T09:58:32Z
+- [Jelly Firkin Bags – Shop All Y2K Clear Jelly Totes | Jellova](https://jellova.com/collections/jelly-bags): Jellova is the home of the original jelly firkin bag — clear Y2K candy totes, jelly shoes and bag charms. Vegan PVC, sizes S–L, worldwide shipping from $78.
+  Updated: 2026-06-22T11:23:18Z
+  Total Products: 30
+- [Jelly Shoes – Y2K Kitten-Heel Jelly Sandals | Jellova](https://jellova.com/collections/jelly-shoes-1): Jellova jelly shoes — soft PVC kitten-heel thong sandals with a 2-inch lift and all-day comfort. Candy shades to match your jelly firkin bag. Ships worldwide.
+  Updated: 2026-06-12T03:43:03Z
   Total Products: 1
-- [Charms](https://jellova.com/collections/charms): The finishing touch. Y2K-inspired jelly bag charms — clip one on and make your Jellova yours.
-  Updated: 2026-06-05T02:43:51Z
-  Total Products: 0
 
 ## Blogs
 
@@ -710,6 +756,16 @@
   - [Jelly Firkin Price Guide 2026: How Much Does a Jelly Firkin Bag Cost?](https://jellova.com/blogs/jellova-journal/jelly-firkin-price): Jelly Firkin Price Guide 2026: How Much Does a Jelly Firkin Bag Cost?
     Updated: 2026-06-08T09:36:52Z
     Author: AdminMy Store
+  - [What Is a Jelly Firkin？](https://jellova.com/blogs/jellova-journal/what-is-a-jelly-firkin): What Is a Jelly Firkin？
+    Updated: 2026-06-12T02:26:54Z
+    Author: AdminMy Store
+  - [Jelly Firkin Australia: Prices, Shipping & Delivery Times](https://jellova.com/blogs/jellova-journal/jelly-firkin-australia): Jelly Firkin Australia: Prices, Shipping & Delivery Times
+    Updated: 2026-06-13T02:27:48Z
+    Author: AdminMy Store
+  - [Black Jelly Firkin: Price, Styling & Why It's the Most Versatile Jelly Bag](https://jellova.com/blogs/jellova-journal/black-jelly-firkin): <p>Jelly Firkins come in every candy color imaginable, but the black jelly Firkin is the one that earns its place in daily rotation. If you want the Y2K, jelly-Birkin look without committing to a bold neon, black is the answer.</p>
+    Updated: 2026-06-23T02:29:34Z
+    Author: AdminMy Store
+    Tags: black jelly firkin, jelly firkin
 
 ## Store Pages
 
@@ -731,6 +787,8 @@
   Updated: 2026-06-10T08:20:21Z
 - [FAQ](https://jellova.com/pages/faq): Jellova FAQ Everything about Jellova jelly bags, jelly shoes, materials, care, sizing, and orders. Products & materials What does Jellova ? Jel...
   Updated: 2026-06-03T03:38:22Z
+- [Student ](https://jellova.com/pages/student-): Student Discount20% Off
+  Updated: 2026-06-11T09:30:22Z
 
 ## Policies
 
