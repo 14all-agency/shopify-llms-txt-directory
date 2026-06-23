@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2020-09-29T11:31:34Z
 - Contact Email: support@talikacosmetics.com
-- Updated At: 2026-06-14T00:00:34.259Z
+- Updated At: 2026-06-23T00:00:38.813Z
 
 ## Products
 
@@ -47,14 +47,14 @@
     Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-masks-3-de_ucollete_u.jpg?v=1674555098
     Price: $38.00 USD
 - [Shipping insurance](https://talika-us.myshopify.com/products/shipping-insurance)
-  Updated: 2026-06-13T08:32:09Z
+  Updated: 2026-06-22T07:35:17Z
   Vendor: ShopWill
   Product Type: ShopWill
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/files/protection.jpg?v=1724942586
   Price: $6.00 USD
 - [Upgrade to Priority Processing](https://talika-us.myshopify.com/products/upgrade-to-priority-processing): With Priority Processing, your order is fast-tracked through our warehouse and dispatched ahead of all standard orders. This optional upgrade ensures your package is picked, packed, and handed off to the carrier as quickly as possible.
-  Updated: 2026-06-10T18:14:08Z
+  Updated: 2026-06-17T19:24:13Z
   Vendor: Talikacosmetics
   Product Type: 
   Availability: Available
@@ -184,13 +184,13 @@
   Updated: 2026-06-02T11:10:28Z
   Total Products: 6
 - [All](https://talika-us.myshopify.com/collections/all)
-  Updated: 2026-06-13T11:10:14Z
+  Updated: 2026-06-22T11:09:01Z
   Total Products: 167
 - [](https://talika-us.myshopify.com/collections/): Save 40% in the Talika ! For a limited time only - all at discounted prices.
   Updated: 2026-05-26T19:56:02Z
   Total Products: 7
 - [all](https://talika-us.myshopify.com/collections/all-1)
-  Updated: 2026-06-13T11:10:14Z
+  Updated: 2026-06-17T11:09:33Z
   Total Products: 182
 - [SH](https://talika-us.myshopify.com/collections/sh)
   Updated: 2026-06-13T11:10:14Z
@@ -199,7 +199,7 @@
   Updated: 2026-05-26T19:56:02Z
   Total Products: 1
 - [EasyGift All Products](https://talika-us.myshopify.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-06-13T11:10:14Z
+  Updated: 2026-06-22T11:09:01Z
   Total Products: 162
 - [Pigment Patches](https://talika-us.myshopify.com/collections/pigment-patches)
   Updated: 2026-05-26T19:56:02Z
@@ -208,7 +208,7 @@
   Updated: 2026-05-26T19:56:03Z
   Total Products: 5
 - [New! Shopify performance sharing is now turned on](https://talika-us.myshopify.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-06-13T11:10:14Z
+  Updated: 2026-06-22T11:09:01Z
   Total Products: 183
 
 ## Blogs
