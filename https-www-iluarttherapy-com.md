@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-23T01:48:24Z
 - Contact Email: info@iluarttherapy.com
-- Updated At: 2026-06-16T11:45:31.411Z
+- Updated At: 2026-06-24T00:00:39.642Z
 
 ## Products
 
@@ -19,7 +19,7 @@
 - [Shipping Policy](https://www.iluarttherapy.com/policies/shipping-policy)
   Updated: 2026-01-01T08:07:48+05:30
 - [Refund Policy](https://www.iluarttherapy.com/policies/refund-policy)
-  Updated: 2026-05-16T07:57:18+05:30
+  Updated: 2026-06-21T08:15:27+05:30
 - [Terms of Service](https://www.iluarttherapy.com/policies/terms-of-service)
   Updated: 2026-05-16T07:56:50+05:30
 - [Contact Information](https://www.iluarttherapy.com/policies/contact-information)
