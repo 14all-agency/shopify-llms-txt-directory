@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-02-21T11:48:38Z
 - Contact Email: support@kidsely.com
-- Updated At: 2026-06-16T00:00:49.679Z
+- Updated At: 2026-06-24T00:00:49.178Z
 
 ## Products
 
@@ -82,72 +82,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/imgi_75_H5780d1fa7d414991860c86e26bc00eccv.jpg?v=1765447290
     Price: $29.99 USD
-- [Knit Baby Overalls with Wooden Buttons - Vintage Style Romper (6-18M)](https://kidsely.com/products/knit-overalls): A cute and comfortable outfit set designed for 6-18 month olds. This sleeveless knit romper comes with a matching hat, offering a soft, breathable feel and a stylish neutral look—perfect for everyday wear or special moments. Key Points: Soft knit fabric, gentle on baby’s skin Sleeveless design for all-day comfort Neutral colors, suitable for both boys and girls Includes matching hat for a complete look Easy strap style for quick dressing Ideal for newborns, infants, and toddlers
-  Updated: 2026-06-08T03:58:37Z
-  Vendor: kidsely
-  Product Type: Baby Overalls
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Grey_Knit_Baby_Overalls_with_Hat_main.avif?v=1767467928
-  - [Dark Khaki / 3M](https://kidsely.com/products/knit-overalls?variant=51691918721343)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/imgi_114_S8e79f9c370174083a6cc6fc6ebc92bbaD_b53ed08d-2131-49b5-b53f-50e793ed17d5.jpg?v=1769541880
-    Price: $36.99 USD
-  - [Dark Khaki / 6M](https://kidsely.com/products/knit-overalls?variant=51691918754111)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/imgi_114_S8e79f9c370174083a6cc6fc6ebc92bbaD_b53ed08d-2131-49b5-b53f-50e793ed17d5.jpg?v=1769541880
-    Price: $36.99 USD
-  - [Dark Khaki / 9M](https://kidsely.com/products/knit-overalls?variant=51691918655807)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/imgi_114_S8e79f9c370174083a6cc6fc6ebc92bbaD_b53ed08d-2131-49b5-b53f-50e793ed17d5.jpg?v=1769541880
-    Price: $36.99 USD
-  - [Dark Khaki / 12M](https://kidsely.com/products/knit-overalls?variant=51691918688575)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/imgi_114_S8e79f9c370174083a6cc6fc6ebc92bbaD_b53ed08d-2131-49b5-b53f-50e793ed17d5.jpg?v=1769541880
-    Price: $36.99 USD
-  - [Dark Khaki / 18M](https://kidsely.com/products/knit-overalls?variant=51691918786879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/imgi_114_S8e79f9c370174083a6cc6fc6ebc92bbaD_b53ed08d-2131-49b5-b53f-50e793ed17d5.jpg?v=1769541880
-    Price: $36.99 USD
-  - [Aqua Blue / 3M](https://kidsely.com/products/knit-overalls?variant=51691918557503)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Blue_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
-  - [Aqua Blue / 6M](https://kidsely.com/products/knit-overalls?variant=51691918590271)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Blue_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
-  - [Aqua Blue / 9M](https://kidsely.com/products/knit-overalls?variant=51691918983487)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Blue_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
-  - [Aqua Blue / 12M](https://kidsely.com/products/knit-overalls?variant=51691919016255)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Blue_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
-  - [Aqua Blue / 18M](https://kidsely.com/products/knit-overalls?variant=51691918623039)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Blue_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
-  - [Rose Red / 3M](https://kidsely.com/products/knit-overalls?variant=51691918885183)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Red_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
-  - [Rose Red / 6M](https://kidsely.com/products/knit-overalls?variant=51691918917951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Red_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
-  - [Rose Red / 9M](https://kidsely.com/products/knit-overalls?variant=51691918819647)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Red_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
-  - [Rose Red / 12M](https://kidsely.com/products/knit-overalls?variant=51691918852415)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Red_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
-  - [Rose Red / 18M](https://kidsely.com/products/knit-overalls?variant=51691918950719)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Red_Knit_Baby_Overalls_with_Hat_main.avif?v=1769541880
-    Price: $36.99 USD
 - [Cute Animal Baby Cotton Clothing Set](https://kidsely.com/products/cute-animal-baby-cotton-clothing-set): Keep your baby warm and adorable this winter with our Cute Animal Baby Cotton Clothing Set! This cozy 2-piece outfit includes a long-sleeve top and matching pants, made from soft, breathable cotton that's gentle on delicate skin. Featuring fun animal designs, easy movement, and machine-washable durability—perfect for newborns and infants.
   Updated: 2026-05-26T17:28:18Z
   Vendor: kidsely
@@ -329,13 +263,13 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-vintage-leaf-knit-baby-blanket-green.avif?v=1768010934
     Price: $36.99 USD
 - [Soft Knit Baby Blanket with Scalloped Edge](https://kidsely.com/products/wrap-crib-soft-quilt-toddler): This newborn baby bedding blanket is made from soft knit cotton to keep your little one warm and comfortable. Designed for both baby boys and girls, it’s perfect for swaddling, stroller use, or cozy sleep at home. The classic solid design adds a cute, timeless look while being gentle on delicate skin. Key Points: Soft, breathable cotton Comfortable and safe for newborns & toddlers Ideal for swaddling, stroller, crib, or nap time Suitable for baby boys and girls Beautiful, modern colors Perfect everyday use Lightweight, warm, and easy to carry
-  Updated: 2026-06-14T04:03:15Z
+  Updated: 2026-06-18T04:01:17Z
   Vendor: kidsely
   Product Type: Baby Blankets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S16ce7685462a4dcf9b3425e6bd1c065c9.avif?v=1765880038
   - [Green](https://kidsely.com/products/wrap-crib-soft-quilt-toddler?variant=51693163249983)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd881a8ab62cb481cae3dcb27adb43287X.avif?v=1765880869
     Price: $49.99 USD
   - [Pink](https://kidsely.com/products/wrap-crib-soft-quilt-toddler?variant=51693163282751)
@@ -351,7 +285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1d741b581e0b494aba3077d375f3e9b4X.avif?v=1765880869
     Price: $49.99 USD
 - [Heirloom Bear Baby Blanket - 100% Cotton Knit & Lace Border](https://kidsely.com/products/heirloom-bear-baby-blanket-cotton-knit): Shop our heirloom 100% cotton knit baby blanket with a cute embroidered bear and lace border. The perfect newborn keepsake or christening gift. Breathable and soft.
-  Updated: 2026-06-15T03:59:38Z
+  Updated: 2026-06-22T04:01:08Z
   Vendor: kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -361,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-bear-baby-blanket-cotton-knit-dusty-purple.avif?v=1768164003
     Price: $48.99 USD
   - [White](https://kidsely.com/products/heirloom-bear-baby-blanket-cotton-knit?variant=51705568362815)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-bear-baby-blanket-cotton-knit-white.avif?v=1768164785
     Price: $48.99 USD
   - [Dusty Rose](https://kidsely.com/products/heirloom-bear-baby-blanket-cotton-knit?variant=51705568395583)
@@ -369,11 +303,11 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-bear-baby-blanket-cotton-knit-dusty-rose.png?v=1768164785
     Price: $48.99 USD
   - [Chocolate](https://kidsely.com/products/heirloom-bear-baby-blanket-cotton-knit?variant=51705568428351)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-bear-baby-blanket-cotton-knit-chocolate.avif?v=1768164785
     Price: $48.99 USD
   - [Blue](https://kidsely.com/products/heirloom-bear-baby-blanket-cotton-knit?variant=51705568461119)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-bear-baby-blanket-cotton-knit-dusty-rose-sage-green.png?v=1768164785
     Price: $48.99 USD
   - [Sage Green](https://kidsely.com/products/heirloom-bear-baby-blanket-cotton-knit?variant=51705568493887)
@@ -389,7 +323,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-bear-baby-blanket-cotton-knit-cream.png?v=1768164785
     Price: $48.99 USD
 - [Cotton Knit Baby Blanket - Breathable Goose Design Quilt](https://kidsely.com/products/cotton-knit-goose-baby-blanket-crib-quilt): Shop our breathable 100% cotton knit baby blanket. Featuring a cute goose design, this 90x70cm blanket is perfect for cribs, strollers, and sensitive newborn skin.
-  Updated: 2026-06-15T19:28:09Z
+  Updated: 2026-06-23T15:02:09Z
   Vendor: kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -415,7 +349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/cotton-knit-goose-baby-blanket-crib-quilt-cream.webp?v=1768158081
     Price: $34.99 USD
 - [Baby Blanket - Soft Cotton Knit Cute Deer Nursery Design](https://kidsely.com/products/baby-blanket-soft-cotton-knit-cute-deer): Shop our soft 100% cotton knit baby blanket featuring a cute deer design. Perfect for strollers, nurseries, and cozy comfort. Breathable, durable, and unisex.
-  Updated: 2026-06-15T19:31:49Z
+  Updated: 2026-06-22T04:01:09Z
   Vendor: kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -1083,7 +1017,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/teddy-bear-kimono-romper-hat-set-sage-green.jpg?v=1767991103
     Price: $36.99 USD
 - [Ribbed Cotton Kimono Baby Romper & Hat Set | Newborn Bear Outfit](https://kidsely.com/products/ribbed-cotton-kimono-romper-hat-set): Wrap your little one in our soft Ribbed Cotton Kimono Romper & Hat Set. Features easy side-ties, breathable fabric, and a cute bear patch. Shop sizes 0-6M.
-  Updated: 2026-06-15T03:00:10Z
+  Updated: 2026-06-23T03:13:47Z
   Vendor: kidsely
   Product Type: Baby Sleepsuit
   Availability: Available
@@ -1197,7 +1131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/imgi_27_Af284d1dfde41463db5bc8a1dbcdf4472D_jpg_220x220q75_jpg.jpg?v=1765446583
     Price: $44.90 USD
 - [360° Spin Bowl](https://kidsely.com/products/360-spin-bowl): Universal Gyro Bowl – 360° Rotary Spill-Proof Feeding & Balance Toy - Keep mealtime fun and mess-free! This innovative gyro bowl rotates 360° to prevent spills, making it perfect for toddlers and young children learning to eat independently. Beyond feeding, it doubles as a playful balance and coordination trainer, engaging your child’s motor skills. Key Features: 360° Rotating Design: Spins freely to reduce spills and messes. Spill-Proof Feeding: Ideal for toddlers learning self-feeding. Durable & Safe: Made with child-friendly, BPA-free materials. Balance & Motor Skill Training: Encourages coordination and dexterity. Easy to Clean: Smooth surface for quick washing.
-  Updated: 2026-06-10T04:00:33Z
+  Updated: 2026-06-23T04:02:07Z
   Vendor: kidsely
   Product Type: Baby Feeding Bowls
   Availability: Available
@@ -1259,7 +1193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S2a680a8c8b7942c6b42d19bc2079f088P.webp?v=1756477428
     Price: $19.99 USD
 - [Tiny Nails Kit](https://kidsely.com/products/tiny-nails-kit): Tiny Nails Kit - Keep your little one’s nails neat and safe with this all-in-one baby manicure set. Key Features: Kid-Safe Design: Rounded edges on scissors and clippers prevent accidental cuts. Complete Care Set: Includes nail scissors, clippers, trimmer, file, and tweezers. Portable & Organized: Comes with a compact storage box for travel and home use. Easy & Comfortable: Ergonomic handles for gentle, precise nail care. Durable & Hygienic: High-quality materials ensure long-lasting use and easy cleaning.
-  Updated: 2026-06-15T04:00:13Z
+  Updated: 2026-06-23T04:02:07Z
   Vendor: kidsely
   Product Type: Baby Grooming Accessories
   Availability: Available
@@ -1326,7 +1260,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S9b2c3bc168d94aafa7d0853b04b0a26ds.webp?v=1756893795
     Price: $55.87 USD
 - [Gentle Nail Care](https://kidsely.com/products/gentle-nail-care): Gentle Nail Care - Keep your little one’s nails neat and safe with this Baby Care Multifunctional Electric Nail Trimmer Set. Designed especially for newborns and toddlers, it trims nails gently without sharp edges. Key Features: Safe and gentle trimming without hurting soft skin Multiple grinding heads for different ages Low noise motor – can be used even while baby sleeps Compact, lightweight, and easy to carry Perfect for fingernails and toenails.
-  Updated: 2026-06-14T04:03:27Z
+  Updated: 2026-06-21T04:00:43Z
   Vendor: kidsely
   Product Type: Baby Grooming Accessories
   Availability: Available
@@ -1340,7 +1274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Untitleddesign-2025-09-06T145424.863.jpg?v=1757151349
     Price: $36.98 USD
 - [Shower Cap Shield](https://kidsely.com/products/shower-cap-shield): Shower Cap Shield - Make bath time safe and fun with this Children’s Shower Shampoo Hat. Designed for comfort and protection, it keeps water, soap, and shampoo away from your child’s eyes and ears. Soft & Adjustable – Fits comfortably on different head sizes. Waterproof Design – Prevents water from dripping into eyes and ears. Safe Protection – Protects sensitive skin during hair washing. Lightweight & Comfortable – Easy for kids to wear without irritation. Fun & Practical – Turns bath time into an enjoyable experience. Perfect for babies and kids, this shampoo hat ensures a tear-free hair wash every time.
-  Updated: 2026-06-10T04:00:43Z
+  Updated: 2026-06-17T04:01:27Z
   Vendor: kidsely
   Product Type: Bath Accessories
   Availability: Available
@@ -1372,7 +1306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc8412864d2504ce7bafcdb152bbf7800P.webp?v=1757149738
     Price: $28.99 USD
 - [Baby Bath Cushion](https://kidsely.com/products/baby-bath-cushion): Baby Bath Cushion - Ensure safe and comfortable bath time for your newborn with this adjustable bath tub shower cushion. Designed for support and relaxation, it makes bathing easier for both babies and parents. Key Features: Adjustable & Supportive: Provides gentle support for newborns during bath time. Floating & Soft: Keeps your baby safe while floating comfortably in water. Portable & Foldable: Easy to carry and store, perfect for travel. Durable & Safe: Made with baby-friendly, water-resistant materials. Easy to Clean: Quick-dry design for hassle-free maintenance. This bath seat pad makes bath time safer, fun, and stress-free for your little one.
-  Updated: 2026-05-26T17:28:33Z
+  Updated: 2026-06-17T04:01:26Z
   Vendor: kidsely
   Product Type: Bath Accessories
   Availability: Available
@@ -1619,8 +1553,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/H9c80dc12852541828fb83c78c0a68435H_620c1300-1059-4789-8f0c-7edf9e52b8c1.webp?v=1767998879
     Price: $13.99 USD
-- [Plush High-Cuff Knit Baby Booties |Soft Sole (0-12M)](https://kidsely.com/products/high-cuff-knit-bootie): Keep tiny toes toasty warm with our Plush High-Cuff Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-06-15T02:44:13Z
+- [Plush High-Cuff Knit Baby Booties |Soft Sole (0-18M)](https://kidsely.com/products/high-cuff-knit-bootie): Keep tiny toes toasty warm with our Plush High-Cuff Knit Baby Booties. Designed for infants aged 0–18 months.  Shop now!
+  Updated: 2026-06-19T04:00:58Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -1633,11 +1567,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/knit_baby_booties_with_high_ribbed_ankle_cuff_main.webp?v=1767799296
     Price: $28.99 USD
-  - [Oatmeal / 6-9M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114579263)
+  - [Oatmeal / 6-12M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114579263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/knit_baby_booties_with_high_ribbed_ankle_cuff_main.webp?v=1767799296
     Price: $28.99 USD
-  - [Oatmeal / 9-12M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114612031)
+  - [Oatmeal / 12-18M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114612031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/knit_baby_booties_with_high_ribbed_ankle_cuff_main.webp?v=1767799296
     Price: $28.99 USD
@@ -1649,11 +1583,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S0ecd44ff7f534605b50b27814b8c204dx.webp?v=1767795864
     Price: $28.99 USD
-  - [White / 6-9M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114710335)
+  - [White / 6-12M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114710335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S0ecd44ff7f534605b50b27814b8c204dx.webp?v=1767795864
     Price: $28.99 USD
-  - [White / 9-12M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114743103)
+  - [White / 12-18M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114743103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S0ecd44ff7f534605b50b27814b8c204dx.webp?v=1767795864
     Price: $28.99 USD
@@ -1665,11 +1599,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S38663fe7376b4eeb9bc9d328eec62bfe4.webp?v=1767795864
     Price: $28.99 USD
-  - [Dusty Rose / 6-9M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114841407)
+  - [Dusty Rose / 6-12M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114841407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S38663fe7376b4eeb9bc9d328eec62bfe4.webp?v=1767795864
     Price: $28.99 USD
-  - [Dusty Rose / 9-12M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114874175)
+  - [Dusty Rose / 12-18M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114874175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S38663fe7376b4eeb9bc9d328eec62bfe4.webp?v=1767795864
     Price: $28.99 USD
@@ -1681,16 +1615,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S5a8bdbe2b1c54c489acf37a0944415bf7.webp?v=1767795864
     Price: $28.99 USD
-  - [Khaki / 6-9M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114972479)
+  - [Khaki / 6-12M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697114972479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S5a8bdbe2b1c54c489acf37a0944415bf7.webp?v=1767795864
     Price: $28.99 USD
-  - [Khaki / 9-12M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697115005247)
+  - [Khaki / 12-18M](https://kidsely.com/products/high-cuff-knit-bootie?variant=51697115005247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S5a8bdbe2b1c54c489acf37a0944415bf7.webp?v=1767795864
     Price: $28.99 USD
-- [Sneaker Style Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/sneaker-style-knit-booties): Give baby a sporty look with these sneaker-style knit booties. Featuring adjustable laces and soft anti-slip soles. Fits 0-12M. Shop now!
-  Updated: 2026-06-15T02:43:51Z
+- [Sneaker Style Knit Baby Booties | Soft Sole (0-18M)](https://kidsely.com/products/sneaker-style-knit-booties): Give baby a sporty look with these sneaker-style knit booties. Featuring adjustable laces and soft anti-slip soles. Fits 0-18M. Shop now!
+  Updated: 2026-06-22T04:01:19Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -1700,14 +1634,14 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sneaker_Style_Knit_Baby_Booties_Main.webp?v=1767736325
     Price: $29.99 USD
   - [Light Green / 3-6M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108129087)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sneaker_Style_Knit_Baby_Booties_Main.webp?v=1767736325
+    Price: $29.99 USD
+  - [Light Green / 6-12M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108161855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sneaker_Style_Knit_Baby_Booties_Main.webp?v=1767736325
     Price: $29.99 USD
-  - [Light Green / 6-9M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108161855)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sneaker_Style_Knit_Baby_Booties_Main.webp?v=1767736325
-    Price: $29.99 USD
-  - [Light Green / 9-12M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108194623)
+  - [Light Green / 12-18M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108194623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sneaker_Style_Knit_Baby_Booties_Main.webp?v=1767736325
     Price: $29.99 USD
@@ -1719,11 +1653,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sf6b54270cbb644c4b1960e448f09c0b5z.webp?v=1767795811
     Price: $29.99 USD
-  - [Brick Red / 6-9M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108292927)
+  - [Brick Red / 6-12M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108292927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sf6b54270cbb644c4b1960e448f09c0b5z.webp?v=1767795811
     Price: $29.99 USD
-  - [Brick Red / 9-12M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695107932479)
+  - [Brick Red / 12-18M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695107932479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sf6b54270cbb644c4b1960e448f09c0b5z.webp?v=1767795811
     Price: $29.99 USD
@@ -1735,16 +1669,16 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sde3d1cad8ac140ffbe12f36c101d9de32.webp?v=1767795811
     Price: $29.99 USD
-  - [Grey / 6-9M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108030783)
+  - [Grey / 6-12M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108030783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sde3d1cad8ac140ffbe12f36c101d9de32.webp?v=1767795811
     Price: $29.99 USD
-  - [Grey / 9-12M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108063551)
+  - [Grey / 12-18M](https://kidsely.com/products/sneaker-style-knit-booties?variant=51695108063551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sde3d1cad8ac140ffbe12f36c101d9de32.webp?v=1767795811
     Price: $29.99 USD
-- [Soft-Knit Ruffled Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/ruffled-knit-baby-booties): Add a touch of sweetness to every outfit with our Soft-Knit Ruffled Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-06-15T02:19:29Z
+- [Soft-Knit Ruffled Baby Booties | Soft Sole (0-18M)](https://kidsely.com/products/ruffled-knit-baby-booties): Add a touch of sweetness to every outfit with our Soft-Knit Ruffled Baby Booties. Designed for infants aged 0–18 months.  Shop now!
+  Updated: 2026-06-17T01:53:25Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -1757,11 +1691,11 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Ruffled_Baby_Booties_Main.webp?v=1767798634
     Price: $24.99 USD
-  - [Dusty Rose/White / 6-9M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142516543)
+  - [Dusty Rose/White / 6-12M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142516543)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Ruffled_Baby_Booties_Main.webp?v=1767798634
     Price: $24.99 USD
-  - [Dusty Rose/White / 9-12M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142483775)
+  - [Dusty Rose/White / 12-18M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142483775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Ruffled_Baby_Booties_Main.webp?v=1767798634
     Price: $24.99 USD
@@ -1773,11 +1707,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Beige_knitted_baby_booties_with_white_ruffle_tops_main.webp?v=1767795733
     Price: $24.99 USD
-  - [Beige/White / 6-9M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142647615)
+  - [Beige/White / 6-12M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142647615)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Beige_knitted_baby_booties_with_white_ruffle_tops_main.webp?v=1767795733
     Price: $24.99 USD
-  - [Beige/White / 9-12M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142614847)
+  - [Beige/White / 12-18M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142614847)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Beige_knitted_baby_booties_with_white_ruffle_tops_main.webp?v=1767795733
     Price: $24.99 USD
@@ -1789,11 +1723,11 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1da1ce2d10fa490fb4c5851df4e3fe53y_43173d95-7809-4cdc-8b97-fe211d0b3808.webp?v=1767795733
     Price: $24.99 USD
-  - [Aqua Blue/White / 6-9M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142778687)
+  - [Aqua Blue/White / 6-12M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142778687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1da1ce2d10fa490fb4c5851df4e3fe53y_43173d95-7809-4cdc-8b97-fe211d0b3808.webp?v=1767795733
     Price: $24.99 USD
-  - [Aqua Blue/White / 9-12M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142745919)
+  - [Aqua Blue/White / 12-18M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142745919)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1da1ce2d10fa490fb4c5851df4e3fe53y_43173d95-7809-4cdc-8b97-fe211d0b3808.webp?v=1767795733
     Price: $24.99 USD
@@ -1805,16 +1739,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sea116785796d4fbaa322c64f574236a50_5c5efd4e-553e-43f6-a139-2d34a7bad341.webp?v=1767795733
     Price: $24.99 USD
-  - [White/Pink / 6-9M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142909759)
+  - [White/Pink / 6-12M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142909759)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sea116785796d4fbaa322c64f574236a50_5c5efd4e-553e-43f6-a139-2d34a7bad341.webp?v=1767795733
     Price: $24.99 USD
-  - [White/Pink / 9-12M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142876991)
+  - [White/Pink / 12-18M](https://kidsely.com/products/ruffled-knit-baby-booties?variant=51696142876991)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sea116785796d4fbaa322c64f574236a50_5c5efd4e-553e-43f6-a139-2d34a7bad341.webp?v=1767795733
     Price: $24.99 USD
-- [Ribbon-Tie Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/ribbon-tie-knit-booties): Combine the coziness of a favorite sock with the structure of a shoe in our Ribbon-Tie Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-06-15T02:43:04Z
+- [Ribbon-Tie Knit Baby Booties | Soft Sole (0-18M)](https://kidsely.com/products/ribbon-tie-knit-booties): Combine the coziness of a favorite sock with the structure of a shoe in our Ribbon-Tie Knit Baby Booties. Designed for infants aged 0–18 months.  Shop now!
+  Updated: 2026-06-17T01:55:43Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -1827,11 +1761,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S78131897861e47cca8caf424170c65138_171c6566-89ab-44c8-88c4-fffab92c5422.webp?v=1767795686
     Price: $31.99 USD
-  - [Sage / 6-9M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970367295)
+  - [Sage / 6-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970367295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S78131897861e47cca8caf424170c65138_171c6566-89ab-44c8-88c4-fffab92c5422.webp?v=1767795686
     Price: $31.99 USD
-  - [Sage / 9-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970465599)
+  - [Sage / 12-18M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970465599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S78131897861e47cca8caf424170c65138_171c6566-89ab-44c8-88c4-fffab92c5422.webp?v=1767795686
     Price: $31.99 USD
@@ -1843,11 +1777,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S6d9dbebee512459b909ec1e9d3a71432k_b069349e-4e66-4e4d-ba21-f312e287a86a.webp?v=1767795686
     Price: $31.99 USD
-  - [Pink / 6-9M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970236223)
+  - [Pink / 6-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970236223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S6d9dbebee512459b909ec1e9d3a71432k_b069349e-4e66-4e4d-ba21-f312e287a86a.webp?v=1767795686
     Price: $31.99 USD
-  - [Pink / 9-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970334527)
+  - [Pink / 12-18M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970334527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S6d9dbebee512459b909ec1e9d3a71432k_b069349e-4e66-4e4d-ba21-f312e287a86a.webp?v=1767795686
     Price: $31.99 USD
@@ -1859,11 +1793,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S77f21f9fd8d7411e8b295aecd6b52b78w_fac1b7ef-ab73-4a2c-bc91-7f2981c861a7.webp?v=1767795686
     Price: $31.99 USD
-  - [Grey / 6-9M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970137919)
+  - [Grey / 6-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970137919)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S77f21f9fd8d7411e8b295aecd6b52b78w_fac1b7ef-ab73-4a2c-bc91-7f2981c861a7.webp?v=1767795686
     Price: $31.99 USD
-  - [Grey / 9-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970563903)
+  - [Grey / 12-18M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970563903)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S77f21f9fd8d7411e8b295aecd6b52b78w_fac1b7ef-ab73-4a2c-bc91-7f2981c861a7.webp?v=1767795686
     Price: $31.99 USD
@@ -1875,11 +1809,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sfe94fa39a6244d669b4aecb2886705922_1a48ee6a-fdb3-4a2e-b6cd-982fe3774cb8.webp?v=1767795686
     Price: $31.99 USD
-  - [Oatmeal / 6-9M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969875775)
+  - [Oatmeal / 6-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969875775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sfe94fa39a6244d669b4aecb2886705922_1a48ee6a-fdb3-4a2e-b6cd-982fe3774cb8.webp?v=1767795686
     Price: $31.99 USD
-  - [Oatmeal / 9-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969974079)
+  - [Oatmeal / 12-18M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969974079)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sfe94fa39a6244d669b4aecb2886705922_1a48ee6a-fdb3-4a2e-b6cd-982fe3774cb8.webp?v=1767795686
     Price: $31.99 USD
@@ -1891,11 +1825,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S0d0c49261ac943c182def4d3dd1b3dccu_fdabf798-4c4c-45f2-b766-5dc181640b81.webp?v=1767795686
     Price: $31.99 USD
-  - [White / 6-9M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970006847)
+  - [White / 6-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970006847)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S0d0c49261ac943c182def4d3dd1b3dccu_fdabf798-4c4c-45f2-b766-5dc181640b81.webp?v=1767795686
     Price: $31.99 USD
-  - [White / 9-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970105151)
+  - [White / 12-18M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970105151)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S0d0c49261ac943c182def4d3dd1b3dccu_fdabf798-4c4c-45f2-b766-5dc181640b81.webp?v=1767795686
     Price: $31.99 USD
@@ -1907,11 +1841,11 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S71f055e7143e49118b1f29456c6822d2n_e5e61d16-c734-453b-bf24-d6d710e91d50.webp?v=1767795686
     Price: $31.99 USD
-  - [Green / 6-9M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970498367)
+  - [Green / 6-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696970498367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S71f055e7143e49118b1f29456c6822d2n_e5e61d16-c734-453b-bf24-d6d710e91d50.webp?v=1767795686
     Price: $31.99 USD
-  - [Green / 9-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969711935)
+  - [Green / 12-18M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969711935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S71f055e7143e49118b1f29456c6822d2n_e5e61d16-c734-453b-bf24-d6d710e91d50.webp?v=1767795686
     Price: $31.99 USD
@@ -1923,16 +1857,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se26346857f314c5c93d719f95f9c34f1x_0cd8b9df-4423-4174-bf66-1bddcb2e5f84.webp?v=1767795686
     Price: $31.99 USD
-  - [Coffee / 6-9M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969744703)
+  - [Coffee / 6-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969744703)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se26346857f314c5c93d719f95f9c34f1x_0cd8b9df-4423-4174-bf66-1bddcb2e5f84.webp?v=1767795686
     Price: $31.99 USD
-  - [Coffee / 9-12M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969843007)
+  - [Coffee / 12-18M](https://kidsely.com/products/ribbon-tie-knit-booties?variant=51696969843007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se26346857f314c5c93d719f95f9c34f1x_0cd8b9df-4423-4174-bf66-1bddcb2e5f84.webp?v=1767795686
     Price: $31.99 USD
-- [Soft-Knit Solid Ruffled Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/solid-ruffled-knit-booties): Wrap your little one’s feet in timeless elegance with our Soft-Knit Solid Ruffled Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-06-14T14:40:30Z
+- [Soft-Knit Solid Ruffled Baby Booties | Soft Sole (0-18M)](https://kidsely.com/products/solid-ruffled-knit-booties): Wrap your little one’s feet in timeless elegance with our Soft-Knit Solid Ruffled Knit Baby Booties. Designed for infants aged 0–18 months.  Shop now!
+  Updated: 2026-06-17T02:25:09Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -1945,11 +1879,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-soft-knit-baby-booties.webp?v=1781448028
     Price: $29.99 USD
-  - [Beige / 6-9M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186360127)
+  - [Beige / 6-12M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186360127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-soft-knit-baby-booties.webp?v=1781448028
     Price: $29.99 USD
-  - [Beige / 9-12M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186327359)
+  - [Beige / 12-18M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186327359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-soft-knit-baby-booties.webp?v=1781448028
     Price: $29.99 USD
@@ -1961,11 +1895,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb5cb190a769b49d48eb3684ab7e9ac8cG_e8df36e2-73bc-47e0-abba-7d704924698a.webp?v=1767795636
     Price: $29.99 USD
-  - [Light Green / 6-9M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186491199)
+  - [Light Green / 6-12M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186491199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb5cb190a769b49d48eb3684ab7e9ac8cG_e8df36e2-73bc-47e0-abba-7d704924698a.webp?v=1767795636
     Price: $29.99 USD
-  - [Light Green / 9-12M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186458431)
+  - [Light Green / 12-18M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186458431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb5cb190a769b49d48eb3684ab7e9ac8cG_e8df36e2-73bc-47e0-abba-7d704924698a.webp?v=1767795636
     Price: $29.99 USD
@@ -1977,11 +1911,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S0bda6b0fa25a4df29abaf38687805b0fz_33121914-b35f-44d0-a94d-fafc9f5d832b.webp?v=1767795636
     Price: $29.99 USD
-  - [White / 6-9M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186622271)
+  - [White / 6-12M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186622271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S0bda6b0fa25a4df29abaf38687805b0fz_33121914-b35f-44d0-a94d-fafc9f5d832b.webp?v=1767795636
     Price: $29.99 USD
-  - [White / 9-12M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186589503)
+  - [White / 12-18M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186589503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S0bda6b0fa25a4df29abaf38687805b0fz_33121914-b35f-44d0-a94d-fafc9f5d832b.webp?v=1767795636
     Price: $29.99 USD
@@ -1993,16 +1927,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S971f4d073f354926a9e3d05a6e7e830aR_c735762a-08cc-4f6b-9904-61761c467b4a.webp?v=1767795636
     Price: $29.99 USD
-  - [Dusty Rose / 6-9M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186753343)
+  - [Dusty Rose / 6-12M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186753343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S971f4d073f354926a9e3d05a6e7e830aR_c735762a-08cc-4f6b-9904-61761c467b4a.webp?v=1767795636
     Price: $29.99 USD
-  - [Dusty Rose / 9-12M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186720575)
+  - [Dusty Rose / 12-18M](https://kidsely.com/products/solid-ruffled-knit-booties?variant=51696186720575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S971f4d073f354926a9e3d05a6e7e830aR_c735762a-08cc-4f6b-9904-61761c467b4a.webp?v=1767795636
     Price: $29.99 USD
-- [Textured Rib Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/ribbed-knit-baby-booties): Add a timeless staple to your baby's wardrobe with our Textured Rib Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-06-15T02:22:03Z
+- [Textured Rib Knit Baby Booties | Soft Sole (0-18M)](https://kidsely.com/products/ribbed-knit-baby-booties): Add a timeless staple to your baby's wardrobe with our Textured Rib Knit Baby Booties. Designed for infants aged 0–18 months.  Shop now!
+  Updated: 2026-06-21T04:00:58Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -2015,11 +1949,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Textured_Rib_Knit_Baby_Booties_Main.webp?v=1767798878
     Price: $32.99 USD
-  - [Denim Blue / 6-9M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883433791)
+  - [Denim Blue / 6-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883433791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Textured_Rib_Knit_Baby_Booties_Main.webp?v=1767798878
     Price: $32.99 USD
-  - [Denim Blue / 9-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883237183)
+  - [Denim Blue / 12-18M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883237183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Textured_Rib_Knit_Baby_Booties_Main.webp?v=1767798878
     Price: $32.99 USD
@@ -2031,11 +1965,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S57ae1038433f4974b4c22dff372833f6f_fe5655f6-1709-4f2d-8d47-6e6e3d5becf5.webp?v=1767795577
     Price: $32.99 USD
-  - [Light Camel / 6-9M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883859775)
+  - [Light Camel / 6-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883859775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S57ae1038433f4974b4c22dff372833f6f_fe5655f6-1709-4f2d-8d47-6e6e3d5becf5.webp?v=1767795577
     Price: $32.99 USD
-  - [Light Camel / 9-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883630399)
+  - [Light Camel / 12-18M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883630399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S57ae1038433f4974b4c22dff372833f6f_fe5655f6-1709-4f2d-8d47-6e6e3d5becf5.webp?v=1767795577
     Price: $32.99 USD
@@ -2047,11 +1981,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd2ea42737c9a4d4e85c8be12044fc5a35_0595cffb-36a1-48a2-a1c9-a77c398f9ac5.webp?v=1767795577
     Price: $32.99 USD
-  - [Dusty Rose / 6-9M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883204415)
+  - [Dusty Rose / 6-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883204415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd2ea42737c9a4d4e85c8be12044fc5a35_0595cffb-36a1-48a2-a1c9-a77c398f9ac5.webp?v=1767795577
     Price: $32.99 USD
-  - [Dusty Rose / 9-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882975039)
+  - [Dusty Rose / 12-18M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882975039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd2ea42737c9a4d4e85c8be12044fc5a35_0595cffb-36a1-48a2-a1c9-a77c398f9ac5.webp?v=1767795577
     Price: $32.99 USD
@@ -2063,11 +1997,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S16ec29a07c9c42ae976759439e73a760l_67fca999-95df-4b19-ac4f-949f30b7b925.webp?v=1767795577
     Price: $32.99 USD
-  - [Grey / 6-9M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883073343)
+  - [Grey / 6-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883073343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S16ec29a07c9c42ae976759439e73a760l_67fca999-95df-4b19-ac4f-949f30b7b925.webp?v=1767795577
     Price: $32.99 USD
-  - [Grey / 9-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882843967)
+  - [Grey / 12-18M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882843967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S16ec29a07c9c42ae976759439e73a760l_67fca999-95df-4b19-ac4f-949f30b7b925.webp?v=1767795577
     Price: $32.99 USD
@@ -2079,11 +2013,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f86d61f4da64e1c9393f90dbb9b5e70c_a0f7d880-a9b8-46db-abcd-ff3b919668f7.webp?v=1767795577
     Price: $32.99 USD
-  - [White / 6-9M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883335487)
+  - [White / 6-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883335487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f86d61f4da64e1c9393f90dbb9b5e70c_a0f7d880-a9b8-46db-abcd-ff3b919668f7.webp?v=1767795577
     Price: $32.99 USD
-  - [White / 9-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883106111)
+  - [White / 12-18M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883106111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f86d61f4da64e1c9393f90dbb9b5e70c_a0f7d880-a9b8-46db-abcd-ff3b919668f7.webp?v=1767795577
     Price: $32.99 USD
@@ -2095,11 +2029,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S86f9ea35ba6c4184b1c1f675fcb116a8f_ef080afa-125d-416d-a30e-a5e2e4bd1331.webp?v=1767795577
     Price: $32.99 USD
-  - [Light Green / 6-9M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883597631)
+  - [Light Green / 6-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883597631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S86f9ea35ba6c4184b1c1f675fcb116a8f_ef080afa-125d-416d-a30e-a5e2e4bd1331.webp?v=1767795577
     Price: $32.99 USD
-  - [Light Green / 9-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883466559)
+  - [Light Green / 12-18M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883466559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S86f9ea35ba6c4184b1c1f675fcb116a8f_ef080afa-125d-416d-a30e-a5e2e4bd1331.webp?v=1767795577
     Price: $32.99 USD
@@ -2111,11 +2045,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sbd1c9f46a9ec4a53a9bd04579e3e2e384_a1639ca4-0b3e-47fa-ac27-9b6230ec4237.webp?v=1767795577
     Price: $32.99 USD
-  - [Pink / 6-9M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883728703)
+  - [Pink / 6-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883728703)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sbd1c9f46a9ec4a53a9bd04579e3e2e384_a1639ca4-0b3e-47fa-ac27-9b6230ec4237.webp?v=1767795577
     Price: $32.99 USD
-  - [Pink / 9-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883499327)
+  - [Pink / 12-18M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883499327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sbd1c9f46a9ec4a53a9bd04579e3e2e384_a1639ca4-0b3e-47fa-ac27-9b6230ec4237.webp?v=1767795577
     Price: $32.99 USD
@@ -2127,11 +2061,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f417e491fe7483e84bbc3e34ceb765cc_8e986d31-fb6a-4cba-89ad-b1871b55c193.webp?v=1767795577
     Price: $32.99 USD
-  - [Coffee / 6-9M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882942271)
+  - [Coffee / 6-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882942271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f417e491fe7483e84bbc3e34ceb765cc_8e986d31-fb6a-4cba-89ad-b1871b55c193.webp?v=1767795577
     Price: $32.99 USD
-  - [Coffee / 9-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882712895)
+  - [Coffee / 12-18M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882712895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f417e491fe7483e84bbc3e34ceb765cc_8e986d31-fb6a-4cba-89ad-b1871b55c193.webp?v=1767795577
     Price: $32.99 USD
@@ -2143,16 +2077,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S67068a13afc9490b8cac40fb952c3015w_4e0b548e-3d3d-42cb-a321-f468d4e3196b.webp?v=1767795577
     Price: $32.99 USD
-  - [Dark Green / 6-9M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882811199)
+  - [Dark Green / 6-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696882811199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S67068a13afc9490b8cac40fb952c3015w_4e0b548e-3d3d-42cb-a321-f468d4e3196b.webp?v=1767795577
     Price: $32.99 USD
-  - [Dark Green / 9-12M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883761471)
+  - [Dark Green / 12-18M](https://kidsely.com/products/ribbed-knit-baby-booties?variant=51696883761471)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S67068a13afc9490b8cac40fb952c3015w_4e0b548e-3d3d-42cb-a321-f468d4e3196b.webp?v=1767795577
     Price: $32.99 USD
-- [Boutique Style Cuffed Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/boutique-style-knit-baby-booties): Keep little feet warm with these boutique knit booties. Featuring a cozy cuff and safe anti-slip sole. Soft, breathable, and perfect for 0-12 months. Shop now!
-  Updated: 2026-06-13T04:04:42Z
+- [Boutique Style Cuffed Knit Baby Booties | Soft Sole (0-18M)](https://kidsely.com/products/boutique-style-knit-baby-booties): Keep little feet warm with these boutique knit booties. Featuring a cozy cuff and safe anti-slip sole. Soft, breathable, and perfect for 0-18 months. Shop now!
+  Updated: 2026-06-21T04:00:48Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -2165,11 +2099,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-boutique-style-knit-baby-booties-infant.webp?v=1779385206
     Price: $34.99 USD
-  - [Beige / 6-9M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512800063)
+  - [Beige / 6-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512800063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-boutique-style-knit-baby-booties-infant.webp?v=1779385206
     Price: $34.99 USD
-  - [Beige / 9-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512701759)
+  - [Beige / 12-18M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512701759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-boutique-style-knit-baby-booties-infant.webp?v=1779385206
     Price: $34.99 USD
@@ -2181,11 +2115,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb79ca82d6cf6404d8d8de593eba1c6c9P.webp?v=1767795432
     Price: $34.99 USD
-  - [White / 6-9M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512111935)
+  - [White / 6-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512111935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb79ca82d6cf6404d8d8de593eba1c6c9P.webp?v=1767795432
     Price: $34.99 USD
-  - [White / 9-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512013631)
+  - [White / 12-18M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512013631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb79ca82d6cf6404d8d8de593eba1c6c9P.webp?v=1767795432
     Price: $34.99 USD
@@ -2197,11 +2131,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sef6061b9e290450388a9ad6f60f1069dQ.webp?v=1767795432
     Price: $34.99 USD
-  - [Pink / 6-9M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512243007)
+  - [Pink / 6-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512243007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sef6061b9e290450388a9ad6f60f1069dQ.webp?v=1767795432
     Price: $34.99 USD
-  - [Pink / 9-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512144703)
+  - [Pink / 12-18M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512144703)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sef6061b9e290450388a9ad6f60f1069dQ.webp?v=1767795432
     Price: $34.99 USD
@@ -2213,11 +2147,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Saead57366a6d4b03a759cb56ac65ad5er.webp?v=1767795432
     Price: $34.99 USD
-  - [Coffee / 6-9M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512374079)
+  - [Coffee / 6-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512374079)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Saead57366a6d4b03a759cb56ac65ad5er.webp?v=1767795432
     Price: $34.99 USD
-  - [Coffee / 9-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512275775)
+  - [Coffee / 12-18M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512275775)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Saead57366a6d4b03a759cb56ac65ad5er.webp?v=1767795432
     Price: $34.99 USD
@@ -2229,11 +2163,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S8af8c2b432de4886b68167dc262d4cdcJ.webp?v=1767795432
     Price: $34.99 USD
-  - [Khaki-Coffee / 6-9M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512505151)
+  - [Khaki-Coffee / 6-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512505151)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S8af8c2b432de4886b68167dc262d4cdcJ.webp?v=1767795432
     Price: $34.99 USD
-  - [Khaki-Coffee / 9-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512406847)
+  - [Khaki-Coffee / 12-18M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512406847)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S8af8c2b432de4886b68167dc262d4cdcJ.webp?v=1767795432
     Price: $34.99 USD
@@ -2245,11 +2179,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd9e39bcc720a4d669feb358ee8ee16a01.webp?v=1767795432
     Price: $34.99 USD
-  - [White-Blue / 6-9M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512668991)
+  - [White-Blue / 6-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512668991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd9e39bcc720a4d669feb358ee8ee16a01.webp?v=1767795432
     Price: $34.99 USD
-  - [White-Blue / 9-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512570687)
+  - [White-Blue / 12-18M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512570687)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd9e39bcc720a4d669feb358ee8ee16a01.webp?v=1767795432
     Price: $34.99 USD
@@ -2261,11 +2195,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd7aa7a5f8b1a4abdb8bb8bc0e0061304T.webp?v=1767795432
     Price: $34.99 USD
-  - [Light Green / 6-9M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512931135)
+  - [Light Green / 6-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512931135)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd7aa7a5f8b1a4abdb8bb8bc0e0061304T.webp?v=1767795432
     Price: $34.99 USD
-  - [Light Green / 9-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512832831)
+  - [Light Green / 12-18M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512832831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd7aa7a5f8b1a4abdb8bb8bc0e0061304T.webp?v=1767795432
     Price: $34.99 USD
@@ -2277,16 +2211,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb5f9e02448334a66932ef6509b42a335c.webp?v=1767795432
     Price: $34.99 USD
-  - [Aqua Blue / 6-9M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694513029439)
+  - [Aqua Blue / 6-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694513029439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb5f9e02448334a66932ef6509b42a335c.webp?v=1767795432
     Price: $34.99 USD
-  - [Aqua Blue / 9-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512963903)
+  - [Aqua Blue / 12-18M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512963903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb5f9e02448334a66932ef6509b42a335c.webp?v=1767795432
     Price: $34.99 USD
 - [Chunky Knit Lace-Up Knit Baby Booties (0-12M)| Soft Sole (0-12M)](https://kidsely.com/products/lace-up-knit-baby-booties): Keep your little one’s feet snug and secure with our Chunky Knit Lace-Up Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-06-15T02:21:12Z
+  Updated: 2026-06-23T17:06:49Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -2300,7 +2234,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f86d61f4da64e1c9393f90dbb9b5e70c_80f27489-e1e6-4baf-abb3-cdcdb0c9e3a2.webp?v=1767795346
     Price: $28.99 USD
   - [White / 6-12M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427106623)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f86d61f4da64e1c9393f90dbb9b5e70c_80f27489-e1e6-4baf-abb3-cdcdb0c9e3a2.webp?v=1767795346
     Price: $28.99 USD
   - [White / 12-18M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427139391)
@@ -2312,7 +2246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd2ea42737c9a4d4e85c8be12044fc5a35_18e29c37-7526-4f3b-9060-df3ee7e9aa50.webp?v=1767795346
     Price: $28.99 USD
   - [Dusty Rose / 3-6M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427073855)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd2ea42737c9a4d4e85c8be12044fc5a35_18e29c37-7526-4f3b-9060-df3ee7e9aa50.webp?v=1767795346
     Price: $28.99 USD
   - [Dusty Rose / 6-12M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427434303)
@@ -2328,7 +2262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f417e491fe7483e84bbc3e34ceb765cc_f96b6a88-f7f0-4934-bbe4-bc5fb89f1a8b.webp?v=1767795346
     Price: $28.99 USD
   - [Coffee / 3-6M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427270463)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1f417e491fe7483e84bbc3e34ceb765cc_f96b6a88-f7f0-4934-bbe4-bc5fb89f1a8b.webp?v=1767795346
     Price: $28.99 USD
   - [Coffee / 6-12M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427696447)
@@ -2356,7 +2290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S16ec29a07c9c42ae976759439e73a760l_167f0d15-cfab-487d-958b-677161c7706b.webp?v=1767795346
     Price: $28.99 USD
   - [Denim Blue / 0-3M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427499839)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb3bc363daefe46058260e29cb0c0361dZ_529f61d6-1ce1-43ef-a539-5f3042a3df5c.webp?v=1767795346
     Price: $28.99 USD
   - [Denim Blue / 3-6M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427532607)
@@ -2372,7 +2306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb3bc363daefe46058260e29cb0c0361dZ_529f61d6-1ce1-43ef-a539-5f3042a3df5c.webp?v=1767795346
     Price: $28.99 USD
   - [Dark Green / 0-3M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427630911)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S67068a13afc9490b8cac40fb952c3015w_619af550-e54d-4481-8b51-65c9c7d118b2.webp?v=1767795346
     Price: $28.99 USD
   - [Dark Green / 3-6M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427663679)
@@ -2392,7 +2326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S57ae1038433f4974b4c22dff372833f6f_ffe3ff45-531f-4880-bff1-761f44e3e53c.webp?v=1767795346
     Price: $28.99 USD
   - [Light Camel / 3-6M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427860287)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S57ae1038433f4974b4c22dff372833f6f_ffe3ff45-531f-4880-bff1-761f44e3e53c.webp?v=1767795346
     Price: $28.99 USD
   - [Light Camel / 6-12M](https://kidsely.com/products/lace-up-knit-baby-booties?variant=51696427761983)
@@ -2403,8 +2337,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S57ae1038433f4974b4c22dff372833f6f_ffe3ff45-531f-4880-bff1-761f44e3e53c.webp?v=1767795346
     Price: $28.99 USD
-- [Vintage-Inspired Moccasin Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/moccasin-knit-baby-booties): Add boho style with these vintage-inspired moccasin knit booties. Featuring secure ankle ties and safe anti-slip soles. Perfect for 0-12M. Shop now!
-  Updated: 2026-06-15T02:20:53Z
+- [Vintage-Inspired Moccasin Knit Baby Booties | Soft Sole (0-18M)](https://kidsely.com/products/moccasin-knit-baby-booties): Add boho style with these vintage-inspired moccasin knit booties. Featuring secure ankle ties and safe anti-slip soles. Perfect for 0-18M. Shop now!
+  Updated: 2026-06-17T01:52:16Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -2417,11 +2351,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sf882d842ac484081bbcb7e885e6c9468S_334e8592-ed91-4878-a54d-8aa3411b04fa.webp?v=1767795163
     Price: $31.99 USD
-  - [Green / 6-9M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800465215)
+  - [Green / 6-12M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800465215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sf882d842ac484081bbcb7e885e6c9468S_334e8592-ed91-4878-a54d-8aa3411b04fa.webp?v=1767795163
     Price: $31.99 USD
-  - [Green / 9-12M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800432447)
+  - [Green / 12-18M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800432447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sf882d842ac484081bbcb7e885e6c9468S_334e8592-ed91-4878-a54d-8aa3411b04fa.webp?v=1767795163
     Price: $31.99 USD
@@ -2433,11 +2367,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Scb284521944a4f37a6092684e13a03268_f168ec6b-a046-40dd-918d-11eaeb06441a.webp?v=1767795163
     Price: $31.99 USD
-  - [White / 6-9M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800727359)
+  - [White / 6-12M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800727359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Scb284521944a4f37a6092684e13a03268_f168ec6b-a046-40dd-918d-11eaeb06441a.webp?v=1767795163
     Price: $31.99 USD
-  - [White / 9-12M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800694591)
+  - [White / 12-18M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800694591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Scb284521944a4f37a6092684e13a03268_f168ec6b-a046-40dd-918d-11eaeb06441a.webp?v=1767795163
     Price: $31.99 USD
@@ -2449,204 +2383,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S70a7b16969d14ad0abb966fe7932e68cn_5462499b-0d57-45b5-9ad1-7a20eb48e553.webp?v=1767795163
     Price: $31.99 USD
-  - [Light Camel / 6-9M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800596287)
+  - [Light Camel / 6-12M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800596287)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S70a7b16969d14ad0abb966fe7932e68cn_5462499b-0d57-45b5-9ad1-7a20eb48e553.webp?v=1767795163
     Price: $31.99 USD
-  - [Light Camel / 9-12M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800563519)
+  - [Light Camel / 12-18M](https://kidsely.com/products/moccasin-knit-baby-booties?variant=51696800563519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S70a7b16969d14ad0abb966fe7932e68cn_5462499b-0d57-45b5-9ad1-7a20eb48e553.webp?v=1767795163
     Price: $31.99 USD
-- [SoftStride Knit Walkers](https://kidsely.com/products/softstride-knit-walkers): SoftStride Knit Walkers - Keep your little one’s feet warm, comfortable, and stylish with these soft-bottom knitted baby shoes. Perfect for newborns and toddlers learning to walk, these boots are gentle, flexible, and safe for early steps. Key Features: Soft Knitted Material: Gentle and breathable for delicate baby feet. Non-Slip Soft Sole: Ensures safety while learning to walk. Unisex Design: Suitable for both boys and girls. Lightweight & Flexible: Comfortable for all-day wear. Easy to Wear: Stretchable design for quick on and off. Solid Color Style: Simple yet stylish for any outfit. Age Range 0-18m: Perfect for infants and toddlers.
-  Updated: 2026-06-15T04:00:13Z
-  Vendor: kidsely
-  Product Type: Baby Booties
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Untitleddesign-2025-09-13T175618.816.jpg?v=1757766479
-  - [82W2294 / 12](https://kidsely.com/products/softstride-knit-walkers?variant=51381686436159)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se9c7449b788140c9a00977362b4a77e1A.webp?v=1757766479
-    Price: $32.48 USD
-  - [82W2294 / 10](https://kidsely.com/products/softstride-knit-walkers?variant=51381686468927)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se9c7449b788140c9a00977362b4a77e1A.webp?v=1757766479
-    Price: $32.28 USD
-  - [82W2294 / 11](https://kidsely.com/products/softstride-knit-walkers?variant=51381686501695)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se9c7449b788140c9a00977362b4a77e1A.webp?v=1757766479
-    Price: $32.38 USD
-  - [82W2294 1 / 12](https://kidsely.com/products/softstride-knit-walkers?variant=51381686534463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Seb41848bd5ad48da8b4431e974f14a4dg.webp?v=1757766479
-    Price: $32.48 USD
-  - [82W2294 / 9](https://kidsely.com/products/softstride-knit-walkers?variant=51381686567231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se9c7449b788140c9a00977362b4a77e1A.webp?v=1757766479
-    Price: $32.18 USD
-  - [82W2294 1 / 10](https://kidsely.com/products/softstride-knit-walkers?variant=51381686599999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Seb41848bd5ad48da8b4431e974f14a4dg.webp?v=1757766479
-    Price: $32.28 USD
-  - [82W2294 1 / 11](https://kidsely.com/products/softstride-knit-walkers?variant=51381686632767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Seb41848bd5ad48da8b4431e974f14a4dg.webp?v=1757766479
-    Price: $32.38 USD
-  - [82W2294 2 / 12](https://kidsely.com/products/softstride-knit-walkers?variant=51381686665535)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S98ae11744158457791c96e4ada08e5bd4.webp?v=1757766479
-    Price: $32.48 USD
-  - [82W2294 1 / 9](https://kidsely.com/products/softstride-knit-walkers?variant=51381686698303)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Seb41848bd5ad48da8b4431e974f14a4dg.webp?v=1757766479
-    Price: $32.18 USD
-  - [82W2294 2 / 10](https://kidsely.com/products/softstride-knit-walkers?variant=51381686731071)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S98ae11744158457791c96e4ada08e5bd4.webp?v=1757766479
-    Price: $32.28 USD
-  - [82W2294 2 / 11](https://kidsely.com/products/softstride-knit-walkers?variant=51381686763839)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S98ae11744158457791c96e4ada08e5bd4.webp?v=1757766479
-    Price: $32.38 USD
-  - [82W2294 3 / 12](https://kidsely.com/products/softstride-knit-walkers?variant=51381686796607)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S51fb514e42fd4825b9480d1a5c92ec89W.webp?v=1757766479
-    Price: $32.48 USD
-  - [82W2294 2 / 9](https://kidsely.com/products/softstride-knit-walkers?variant=51381686829375)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S98ae11744158457791c96e4ada08e5bd4.webp?v=1757766479
-    Price: $32.18 USD
-  - [82W2294 3 / 10](https://kidsely.com/products/softstride-knit-walkers?variant=51381686862143)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S51fb514e42fd4825b9480d1a5c92ec89W.webp?v=1757766479
-    Price: $32.28 USD
-  - [82W2294 3 / 11](https://kidsely.com/products/softstride-knit-walkers?variant=51381686894911)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S51fb514e42fd4825b9480d1a5c92ec89W.webp?v=1757766479
-    Price: $32.38 USD
-  - [82W2294 3 / 9](https://kidsely.com/products/softstride-knit-walkers?variant=51381686927679)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S51fb514e42fd4825b9480d1a5c92ec89W.webp?v=1757766479
-    Price: $32.18 USD
-- [Hand-Knit Baby Shoes](https://kidsely.com/products/hand-knit-baby-shoes): Hand-Knit Baby Shoes - Keep your little one cozy and safe with these soft, hand-knitted socks shoes, perfect for newborns and toddlers learning to walk. Lightweight, breathable, and comfortable, they are ideal for first steps at home or outdoors. Key Features: Hand-knitted with soft, breathable yarn Anti-slip sole for safe first steps Lightweight and flexible for comfort Ideal for newborns and 0-1Y toddlers Cute solid color design Soft-soled for gentle foot support Perfect for indoor and outdoor use
-  Updated: 2026-06-15T02:20:25Z
-  Vendor: kidsely
-  Product Type: Baby Booties
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S74bc61d4fde64bf0833af97b3c8adcf2A.webp?v=1757764791
-  - [82W3363 / 9](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695119679)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sae6d9c6933f7482ba5ca004ceaa3a7b2y.webp?v=1757764820
-    Price: $28.75 USD
-  - [82W3363 / 10](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695152447)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sae6d9c6933f7482ba5ca004ceaa3a7b2y.webp?v=1757764820
-    Price: $28.81 USD
-  - [82W3363 / 11](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695185215)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sae6d9c6933f7482ba5ca004ceaa3a7b2y.webp?v=1757764820
-    Price: $29.75 USD
-  - [82W3363 / 12](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695217983)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sae6d9c6933f7482ba5ca004ceaa3a7b2y.webp?v=1757764820
-    Price: $29.98 USD
-  - [82W3363 1 / 9](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695250751)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S544449c00198438aa1bdb132a090aa1f8.webp?v=1757764820
-    Price: $28.75 USD
-  - [82W3363 1 / 10](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695283519)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S544449c00198438aa1bdb132a090aa1f8.webp?v=1757764820
-    Price: $28.81 USD
-  - [82W3363 1 / 11](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695316287)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S544449c00198438aa1bdb132a090aa1f8.webp?v=1757764820
-    Price: $29.75 USD
-  - [82W3363 1 / 12](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695349055)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S544449c00198438aa1bdb132a090aa1f8.webp?v=1757764820
-    Price: $29.98 USD
-  - [82W3363 2 / 9](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695381823)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc09c1eef762949728e569a1827e1f6d0g.webp?v=1757764820
-    Price: $28.75 USD
-  - [82W3363 2 / 10](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695414591)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc09c1eef762949728e569a1827e1f6d0g.webp?v=1757764820
-    Price: $28.81 USD
-  - [82W3363 2 / 11](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695447359)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc09c1eef762949728e569a1827e1f6d0g.webp?v=1757764820
-    Price: $29.75 USD
-  - [82W3363 2 / 12](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695480127)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc09c1eef762949728e569a1827e1f6d0g.webp?v=1757764820
-    Price: $29.98 USD
-  - [82W3363 3 / 9](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695512895)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S6d3dc7a9219b47478193d25c0c864f3aR.webp?v=1757764820
-    Price: $28.75 USD
-  - [82W3363 3 / 10](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695545663)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S6d3dc7a9219b47478193d25c0c864f3aR.webp?v=1757764820
-    Price: $28.81 USD
-  - [82W3363 3 / 11](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695578431)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S6d3dc7a9219b47478193d25c0c864f3aR.webp?v=1757764820
-    Price: $29.75 USD
-  - [82W3363 3 / 12](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695611199)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S6d3dc7a9219b47478193d25c0c864f3aR.webp?v=1757764820
-    Price: $29.98 USD
-  - [82W3363 4 / 9](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695643967)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc092682424334281be316c52b5b332bfT.webp?v=1757764820
-    Price: $28.75 USD
-  - [82W3363 4 / 10](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695676735)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc092682424334281be316c52b5b332bfT.webp?v=1757764820
-    Price: $28.81 USD
-  - [82W3363 4 / 11](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695709503)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc092682424334281be316c52b5b332bfT.webp?v=1757764820
-    Price: $29.75 USD
-  - [82W3363 4 / 12](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695742271)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc092682424334281be316c52b5b332bfT.webp?v=1757764820
-    Price: $29.98 USD
-  - [82W3363 5 / 9](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695775039)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S04348c770e294be1aa8bc6158675e981i.webp?v=1757764820
-    Price: $28.75 USD
-  - [82W3363 5 / 10](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695807807)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S04348c770e294be1aa8bc6158675e981i.webp?v=1757764820
-    Price: $28.81 USD
-  - [82W3363 5 / 11](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695840575)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S04348c770e294be1aa8bc6158675e981i.webp?v=1757764820
-    Price: $29.75 USD
-  - [82W3363 5 / 12](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695873343)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S04348c770e294be1aa8bc6158675e981i.webp?v=1757764820
-    Price: $29.98 USD
-  - [82W3363 6 / 9](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695906111)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S13ae6c409def4330b41145fe9c0795667.webp?v=1757762984
-    Price: $28.75 USD
-  - [82W3363 6 / 10](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695938879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S13ae6c409def4330b41145fe9c0795667.webp?v=1757762984
-    Price: $28.81 USD
-  - [82W3363 6 / 11](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381695971647)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S13ae6c409def4330b41145fe9c0795667.webp?v=1757762984
-    Price: $29.75 USD
-  - [82W3363 6 / 12](https://kidsely.com/products/hand-knit-baby-shoes?variant=51381696004415)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S13ae6c409def4330b41145fe9c0795667.webp?v=1757762984
-    Price: $29.98 USD
-- [Heirloom Button Strap Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/button-strap-knit-booties): Give baby a vintage look with these heirloom button strap knit booties. Featuring a secure strap, wooden button, and safe anti-slip sole. Fits 0-12M. Shop now!
-  Updated: 2026-06-07T04:00:04Z
+- [Heirloom Button Strap Knit Baby Booties | Soft Sole (0-18M)](https://kidsely.com/products/button-strap-knit-booties): Give baby a vintage look with these heirloom button strap knit booties. Featuring a secure strap, wooden button, and safe anti-slip sole. Fits 0-18M. Shop now!
+  Updated: 2026-06-20T04:02:50Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Apparel Accessories > Baby & Toddler Shoes > Booties > Chunky Knit
   Availability: Available
@@ -2659,11 +2405,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Heirloom_Button_Strap_Knit_Baby_Booties_Main.webp?v=1767796645
     Price: $29.99 USD
-  - [Light Camel / 6-9M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029742911)
+  - [Light Camel / 6-12M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029742911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Heirloom_Button_Strap_Knit_Baby_Booties_Main.webp?v=1767796645
     Price: $29.99 USD
-  - [Light Camel / 9-12M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029775679)
+  - [Light Camel / 12-18M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029775679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Heirloom_Button_Strap_Knit_Baby_Booties_Main.webp?v=1767796645
     Price: $29.99 USD
@@ -2675,11 +2421,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb7bc778b8b5a4deba9c670a60076ad59S_61aa7fdc-00ab-49bb-bc25-95f55bf931a2.webp?v=1767794711
     Price: $29.99 USD
-  - [White / 6-9M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029382463)
+  - [White / 6-12M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029382463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb7bc778b8b5a4deba9c670a60076ad59S_61aa7fdc-00ab-49bb-bc25-95f55bf931a2.webp?v=1767794711
     Price: $29.99 USD
-  - [White / 9-12M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029415231)
+  - [White / 12-18M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029415231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb7bc778b8b5a4deba9c670a60076ad59S_61aa7fdc-00ab-49bb-bc25-95f55bf931a2.webp?v=1767794711
     Price: $29.99 USD
@@ -2691,11 +2437,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S806b7fbde77e42efa3b4455dfa940a5aW_c078a73e-e32b-44f8-b0a7-dc946cb80674.webp?v=1767794711
     Price: $29.99 USD
-  - [Pink / 6-9M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029480767)
+  - [Pink / 6-12M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029480767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S806b7fbde77e42efa3b4455dfa940a5aW_c078a73e-e32b-44f8-b0a7-dc946cb80674.webp?v=1767794711
     Price: $29.99 USD
-  - [Pink / 9-12M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029513535)
+  - [Pink / 12-18M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029513535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S806b7fbde77e42efa3b4455dfa940a5aW_c078a73e-e32b-44f8-b0a7-dc946cb80674.webp?v=1767794711
     Price: $29.99 USD
@@ -2707,11 +2453,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sa311ddd23582419494ff8d5c191fb575P_b3525f35-2196-44af-b09e-560092b76ae4.webp?v=1767794711
     Price: $29.99 USD
-  - [Green / 6-9M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029611839)
+  - [Green / 6-12M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029611839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sa311ddd23582419494ff8d5c191fb575P_b3525f35-2196-44af-b09e-560092b76ae4.webp?v=1767794711
     Price: $29.99 USD
-  - [Green / 9-12M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029644607)
+  - [Green / 12-18M](https://kidsely.com/products/button-strap-knit-booties?variant=51697029644607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sa311ddd23582419494ff8d5c191fb575P_b3525f35-2196-44af-b09e-560092b76ae4.webp?v=1767794711
     Price: $29.99 USD
@@ -2862,7 +2608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/silicone-cat-suction-plate-beige.webp?v=1767994534
     Price: $29.99 USD
 - [Silicone Bear Suction Bowl Set | 3-Piece Feeding Kit](https://kidsely.com/products/silicone-bear-suction-plate-bowl-set): Make mealtime fun with this bear-shaped silicone feeding set. Includes suction bowl, spoon, and fork. Divided sections for picky eaters. BPA-free.
-  Updated: 2026-05-26T17:28:39Z
+  Updated: 2026-06-19T04:00:59Z
   Vendor: kidsely
   Product Type: Baby Feeding Sets
   Availability: Available
@@ -2880,11 +2626,11 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/silicone-bear-suction-bowl-set-pink.webp?v=1767925927
     Price: $39.99 USD
   - [Teal](https://kidsely.com/products/silicone-bear-suction-plate-bowl-set?variant=51700735344959)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/silicone-bear-suction-bowl-set-teal.webp?v=1767925943
     Price: $39.99 USD
 - [100% Cotton Knit Baby Blanket - Tulip Pattern Swaddle | 32" x 40"](https://kidsely.com/products/100-cotton-knit-baby-blanket-pretty-floral-design): Wrap your newborn in pure comfort. Crafted from 100% natural cotton, this soft 32" x 40" knit blanket features a breathable design perfect for swaddles & strollers.
-  Updated: 2026-06-15T03:02:17Z
+  Updated: 2026-06-23T05:22:02Z
   Vendor: kidsely
   Product Type: Baby & Toddler > Nursery Bedding > Baby Blankets > Tulip Print
   Availability: Available
@@ -3005,7 +2751,239 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/9-piece-silicone-crab-feeding-set-green.webp?v=1769546935
     Price: $74.99 USD
-[List Continued](https://kidsely.com/a/llms-agent/llms.txt?shop=d68668-af.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE5NzE0Mjk5NTI2MywibGFzdF92YWx1ZSI6IjEwMTk3MTQyOTk1MjYzIn0%3D)
+- [4-Piece Silicone Crab Feeding Set | Plate Bowl & Utensils](https://kidsely.com/products/4-piece-silicone-crab-feeding-set): The perfect starter set for baby led weaning. Includes a crab suction plate, bowl, and soft silicone fork and spoon. BPA-free, non-slip, and dishwasher safe.
+  Updated: 2026-05-26T17:28:40Z
+  Vendor: kidsely
+  Product Type: Baby Feeding Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/4-piece-silicone-crab-feeding-set-main.webp?v=1767923772
+  - [Yellow](https://kidsely.com/products/4-piece-silicone-crab-feeding-set?variant=51698379161919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/4-piece-silicone-crab-feeding-set-main.webp?v=1767923772
+    Price: $51.99 USD
+  - [Light Blue](https://kidsely.com/products/4-piece-silicone-crab-feeding-set?variant=51698379194687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/4-piece-silicone-crab-feeding-set-blue.webp?v=1769546548
+    Price: $51.99 USD
+  - [Blue Grey](https://kidsely.com/products/4-piece-silicone-crab-feeding-set?variant=51698379227455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/4-piece-silicone-crab-feeding-set-blue-grey.webp?v=1769546548
+    Price: $51.99 USD
+  - [Dusty Rose](https://kidsely.com/products/4-piece-silicone-crab-feeding-set?variant=51698379260223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/4-piece-silicone-crab-feeding-set-dusty-rose.webp?v=1769546548
+    Price: $51.99 USD
+  - [Pink](https://kidsely.com/products/4-piece-silicone-crab-feeding-set?variant=51698379292991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/4-piece-silicone-crab-feeding-set-pink.webp?v=1769546548
+    Price: $51.99 USD
+  - [White](https://kidsely.com/products/4-piece-silicone-crab-feeding-set?variant=51698379325759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/4-piece-silicone-crab-feeding-set-white.webp?v=1769546548
+    Price: $51.99 USD
+  - [Green](https://kidsely.com/products/4-piece-silicone-crab-feeding-set?variant=51698379358527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/4-piece-silicone-crab-feeding-set-green.webp?v=1769546548
+    Price: $51.99 USD
+- [Sleeveless 100% Cotton Baby Sleep Sack | Premium Wearable Blanket](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack): Keep baby safe and cozy in our Sleeveless 100% Premium Cotton Sleep Sack. Soft, breathable, and hip-healthy. Available in 16 adorable patterns. Sizes 0-18m.
+  Updated: 2026-06-17T04:01:47Z
+  Vendor: kidsely
+  Product Type: Baby Sleep Sacks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-toddler-sleeveless-sleep-sack-yellow-polka-dot.png?v=1775828348
+  - [Yellow Dot / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489705791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-mustard-yellow-dot.png?v=1769543614
+    Price: $34.99 USD
+  - [Yellow Dot / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489476415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-mustard-yellow-dot.png?v=1769543614
+    Price: $34.99 USD
+  - [Yellow Dot / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489509183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-mustard-yellow-dot.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Swan / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489541951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-pink-swan.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Swan / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489574719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-pink-swan.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Swan / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488165695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-pink-swan.png?v=1769543614
+    Price: $34.99 USD
+  - [Snail & Hedgehog / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488198463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-snail-hedgehog.png?v=1769543614
+    Price: $34.99 USD
+  - [Snail & Hedgehog / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488231231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-snail-hedgehog.png?v=1769543614
+    Price: $34.99 USD
+  - [Snail & Hedgehog / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488263999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-snail-hedgehog.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Duck / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488427839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-farm-goose.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Duck / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488296767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-farm-goose.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Duck / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488329535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-farm-goose.png?v=1769543614
+    Price: $34.99 USD
+  - [Navy Dot / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488362303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-navy-dot.png?v=1769543614
+    Price: $34.99 USD
+  - [Navy Dot / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488395071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-navy-dot.png?v=1769543614
+    Price: $34.99 USD
+  - [Navy Dot / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488591679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-navy-dot.png?v=1769543614
+    Price: $34.99 USD
+  - [Gold Star / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488460607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-cream-gold-star.png?v=1769543614
+    Price: $34.99 USD
+  - [Gold Star / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488493375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-cream-gold-star.png?v=1769543614
+    Price: $34.99 USD
+  - [Gold Star / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488526143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-cream-gold-star.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Car / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488558911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-cars-traffic.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Car / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488853823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-cars-traffic.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Car / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488886591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-cars-traffic.png?v=1769543614
+    Price: $34.99 USD
+  - [Khaki Star / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488624447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-warm-taupe-star.png?v=1769543614
+    Price: $34.99 USD
+  - [Khaki Star / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488657215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-warm-taupe-star.png?v=1769543614
+    Price: $34.99 USD
+  - [Khaki Star / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488689983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-warm-taupe-star.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Sheep / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488919359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-counting-sheep.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Sheep / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488952127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-counting-sheep.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Sheep / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488722751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-counting-sheep.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Leaf / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488755519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-botanical-leaf.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Leaf / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488788287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-botanical-leaf.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Leaf / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488821055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-botanical-leaf.png?v=1769543614
+    Price: $34.99 USD
+  - [Pine / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489181503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-pine-forest.png?v=1769543614
+    Price: $34.99 USD
+  - [Pine / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704488984895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-pine-forest.png?v=1769543614
+    Price: $34.99 USD
+  - [Pine / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489017663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-pine-forest.png?v=1769543614
+    Price: $34.99 USD
+  - [Gray Star / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489050431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-slate-blue-star.png?v=1769543614
+    Price: $34.99 USD
+  - [Gray Star / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489345343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-slate-blue-star.png?v=1769543614
+    Price: $34.99 USD
+  - [Gray Star / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489378111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-slate-blue-star.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Triangle / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489083199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-geometric-triangle.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Triangle / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489115967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-geometric-triangle.png?v=1769543614
+    Price: $34.99 USD
+  - [Beige Triangle / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489148735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-geometric-triangle.png?v=1769543614
+    Price: $34.99 USD
+  - [Rainbow / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489410879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-boho-rainbow.png?v=1769543614
+    Price: $34.99 USD
+  - [Rainbow / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489443647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-boho-rainbow.png?v=1769543614
+    Price: $34.99 USD
+  - [Rainbow / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489214271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-boho-rainbow.png?v=1769543614
+    Price: $34.99 USD
+  - [Dachshund / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489247039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-dachshund-puppy.png?v=1769543614
+    Price: $34.99 USD
+  - [Dachshund / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489279807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-dachshund-puppy.png?v=1769543614
+    Price: $34.99 USD
+  - [Dachshund / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489312575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-dachshund-puppy.png?v=1769543614
+    Price: $34.99 USD
+  - [Fox / S (0-6M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489607487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-woodland-fox.png?v=1769543614
+    Price: $34.99 USD
+  - [Fox / M  (6-12M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489640255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-woodland-fox.png?v=1769543614
+    Price: $34.99 USD
+  - [Fox / L (12-18M)](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack?variant=51704489673023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-woodland-fox.png?v=1769543614
+    Price: $34.99 USD
+[List Continued](https://kidsely.com/a/llms-agent/llms.txt?shop=d68668-af.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE5ODk5NDk3NzA4NywibGFzdF92YWx1ZSI6IjEwMTk4OTk0OTc3MDg3In0%3D)
 
 ## Collections
 
@@ -3016,8 +2994,8 @@
   Updated: 2026-06-01T13:16:29Z
   Total Products: 7
 - [0-3T Apparel](https://kidsely.com/collections/apparel)
-  Updated: 2026-06-15T11:17:40Z
-  Total Products: 49
+  Updated: 2026-06-22T11:14:47Z
+  Total Products: 48
 - [Feeding](https://kidsely.com/collections/feeding)
   Updated: 2026-06-02T11:23:01Z
   Total Products: 18
@@ -3028,14 +3006,14 @@
   Updated: 2026-06-14T11:18:23Z
   Total Products: 21
 - [Handmade Knit Baby Booties | Soft Sole Pre-Walkers (0-12M) Collection](https://kidsely.com/collections/crib-shoes): Shop our collection of handmade knit baby booties for 0-12 months. Featuring soft anti-slip soles, ruffled details, and secure ties. The perfect cozy crib shoes.
-  Updated: 2026-06-15T11:17:40Z
-  Total Products: 46
+  Updated: 2026-06-23T11:17:54Z
+  Total Products: 45
 - [Accessories](https://kidsely.com/collections/accessories)
   Updated: 2026-06-14T11:18:23Z
   Total Products: 28
 - [Clothing](https://kidsely.com/collections/clothing)
-  Updated: 2026-06-15T11:17:40Z
-  Total Products: 49
+  Updated: 2026-06-22T11:14:47Z
+  Total Products: 48
 - [Blankets](https://kidsely.com/collections/blankets)
   Updated: 2026-06-15T22:14:44Z
   Total Products: 12
@@ -3052,29 +3030,29 @@
   Updated: 2026-06-05T11:15:45Z
   Total Products: 7
 - [Boys](https://kidsely.com/collections/boys)
-  Updated: 2026-06-15T11:17:40Z
-  Total Products: 108
+  Updated: 2026-06-23T22:18:29Z
+  Total Products: 112
 - [All Products](https://kidsely.com/collections/all-products)
-  Updated: 2026-06-15T20:38:16Z
-  Total Products: 350
+  Updated: 2026-06-23T21:33:07Z
+  Total Products: 371
 - [Spring 2026](https://kidsely.com/collections/spring-2026)
-  Updated: 2026-06-15T17:44:21Z
-  Total Products: 107
+  Updated: 2026-06-23T11:17:54Z
+  Total Products: 106
 - [Baby Girl Dresses | Vintage, Boho & Cottagecore Styles | Kidsely](https://kidsely.com/collections/baby-girls-dresses): Shop our curated collection of baby girl dresses. From vintage smocked florals to boho lace and cottagecore styles, find the perfect dress for every special occasion.
-  Updated: 2026-06-15T19:51:31Z
-  Total Products: 57
+  Updated: 2026-06-23T11:17:54Z
+  Total Products: 61
 - [Baby Girl Rompers | Vintage & Boho Boutique Styles | Kidsely](https://kidsely.com/collections/baby-girls-rompers-and-tops): Shop our curated collection of baby girl rompers. From vintage-inspired lace to boho floral embroidery and soft cotton bubbles—find the perfect piece today.
-  Updated: 2026-06-15T17:44:21Z
-  Total Products: 77
+  Updated: 2026-06-22T16:48:04Z
+  Total Products: 80
 - [Baby Girl Matching Sets | Boutique Coordinated Outfits | Kidsely](https://kidsely.com/collections/baby-girl-matching-sets): Shop our curated baby girl matching sets. From vintage floral 2-piece outfits to boho linen bloomer sets, find the perfect gift-ready look for your little one.
-  Updated: 2026-06-15T11:17:40Z
-  Total Products: 49
+  Updated: 2026-06-22T11:14:47Z
+  Total Products: 51
 - [Baby Boys Matching Sets](https://kidsely.com/collections/baby-boys-matching-sets)
-  Updated: 2026-06-10T11:19:46Z
-  Total Products: 25
+  Updated: 2026-06-19T01:56:01Z
+  Total Products: 27
 - [Baby Boys Rompers & Tops](https://kidsely.com/collections/baby-boys-rompers-and-tops)
-  Updated: 2026-06-14T11:18:23Z
-  Total Products: 37
+  Updated: 2026-06-19T11:18:46Z
+  Total Products: 38
 - [Baby Girls Sleepwear](https://kidsely.com/collections/baby-girls-sleepwear)
   Updated: 2026-06-05T11:15:45Z
   Total Products: 14
@@ -3082,76 +3060,76 @@
   Updated: 2026-06-05T11:15:45Z
   Total Products: 14
 - [Baby Boys Overalls & Bottoms](https://kidsely.com/collections/baby-boys-overalls-and-bottoms)
-  Updated: 2026-06-12T11:20:44Z
-  Total Products: 8
+  Updated: 2026-06-19T11:18:46Z
+  Total Products: 9
 - [Baby Girls Overalls & Bottoms](https://kidsely.com/collections/baby-girls-overalls-and-bottoms)
-  Updated: 2026-06-10T11:19:46Z
+  Updated: 2026-06-21T11:16:19Z
   Total Products: 14
 - [Baby Matching Sets](https://kidsely.com/collections/baby-matching-sets)
-  Updated: 2026-06-15T11:17:40Z
-  Total Products: 68
+  Updated: 2026-06-22T11:14:47Z
+  Total Products: 70
 - [Spring 2026](https://kidsely.com/collections/spring-2026-1)
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-23T11:17:54Z
   Total Products: 97
 - [Baby Girls  (0-3T)](https://kidsely.com/collections/baby-girls-collection)
-  Updated: 2026-06-15T17:44:21Z
-  Total Products: 178
+  Updated: 2026-06-23T12:53:02Z
+  Total Products: 187
 - [Baby Boys (0-3T)](https://kidsely.com/collections/baby-boys-collection)
-  Updated: 2026-06-14T11:18:23Z
-  Total Products: 74
+  Updated: 2026-06-19T11:18:46Z
+  Total Products: 76
 - [Butterfly Wing Baby Clothes | Whimsical Rompers & Dresses](https://kidsely.com/collections/butterfly-wing-baby-clothes): Give your little one wings with our whimsical butterfly baby apparel. Unique wing-back dresses and rompers for magical milestones. Shop the collection! Free Shipping!
-  Updated: 2026-06-13T11:16:27Z
+  Updated: 2026-06-19T11:18:46Z
   Total Products: 13
 - [Girls Dresses](https://kidsely.com/collections/girls-dresses)
-  Updated: 2026-06-11T11:17:33Z
-  Total Products: 23
+  Updated: 2026-06-23T11:17:54Z
+  Total Products: 27
 - [Girls (3T+)](https://kidsely.com/collections/girls-3t)
-  Updated: 2026-06-11T11:17:33Z
-  Total Products: 26
+  Updated: 2026-06-23T11:17:54Z
+  Total Products: 30
 - [Girls Matching Sets](https://kidsely.com/collections/girls-matching-sets)
-  Updated: 2026-06-09T11:16:08Z
+  Updated: 2026-06-19T01:55:58Z
   Total Products: 4
 - [Girls Hair Accessories](https://kidsely.com/collections/girls-headbands)
   Updated: 2026-06-02T10:13:56Z
   Total Products: 5
 - [Girls Swimwear](https://kidsely.com/collections/girls-swimwear)
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-22T11:14:47Z
   Total Products: 17
 - [Mother's Day Gifts](https://kidsely.com/collections/mothers-day-gifts): Mother’s Day Baby Apparel & Gift Collection (2026) Looking for the best first Mother’s Day baby outfit? The Kidsely 2026 collection features boutique-quality apparel, including our signature Tulip Petal Dress, designed for spring family photoshoots and garden brunches. Collection At-A-Glance Best For: First Mother's Day, Spring Photos, Baby Gifts Shipping Deadline: Order by April 26, 2026 for May 10 Delivery Sizes Available: 0-3 Months to 24 Months Trending: The Tulip Petal Baby Dress Our hero product for 2026 is the Tulip Petal Romper Dress. It features 3D fabric "petals" and adjustable straps, making it a unique keepsake for a new mom’s first celebration. This piece pairs perfectly with white knee-high socks or floral headbands. Common Questions What are the best colors for Mother's Day baby photos? For 2026, soft pastels like blush pink, sage green, and creamy whites are trending. Our Tulip dress incorporates these shades to complement most outdoor garden settings. How long does shipping take for Mother's Day outfits? Standard shipping typically takes 10–14 days. To ensure arrival by Mother's Day (May 10), please place your order no later than April 26.
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-22T11:14:47Z
   Total Products: 13
 - [Floral Baby Rompers](https://kidsely.com/collections/floral-baby-rompers)
-  Updated: 2026-06-15T17:44:21Z
+  Updated: 2026-06-20T11:17:57Z
   Total Products: 23
 - [Summer Fruit Baby Clothes, Rompers & Dresses | Kidsely](https://kidsely.com/collections/the-fresh-picked-fruit-collection): Shop our boutique baby fruit collection featuring sweet strawberry, cherry, watermelon, and new peach prints. High-quality summer rompers, dresses & swimsuits!
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-21T11:16:19Z
   Total Products: 21
 - [4th of July Baby Clothes, Patriotic Rompers & Outfits | Kidsely](https://kidsely.com/collections/usa): Shop our boutique 4th of July baby and toddler collection. Discover USA floral knit rompers, patriotic seersucker sets, flag outfits, and toddler star skirts.
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-19T11:18:46Z
   Total Products: 19
 - [Boys Swimwear](https://kidsely.com/collections/boys-swimwear)
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-22T11:14:47Z
   Total Products: 8
 - [Boutique Baby & Toddler Summer Clothes | Cute Outfits | Kidsely](https://kidsely.com/collections/summer-collection): Shop boutique baby & toddler summer clothes. Discover cute floral sundresses, 4th of July patriotic rompers, fruit prints, and lightweight boy muslin sets
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-23T11:17:54Z
   Total Products: 143
 - [Hats](https://kidsely.com/collections/hats)
-  Updated: 2026-06-14T11:18:23Z
-  Total Products: 1
+  Updated: 2026-06-18T23:09:05Z
+  Total Products: 6
 - [Baby Girl Shoes | First Walkers, Sandals & Mary Janes | Kidsely](https://kidsely.com/collections/girls-prewalker-shoes): Shop our boutique baby girl shoe collection. Discover soft non-slip Mary Janes, summer sandals, and lightweight toddler sneakers for every occasion.
-  Updated: 2026-06-15T11:17:40Z
-  Total Products: 23
+  Updated: 2026-06-23T22:27:49Z
+  Total Products: 29
 - [Baby Boy Shoes | First Walkers, Sandals & Sneakers | Kidsely](https://kidsely.com/collections/boys-prewalker-shoes): Shop our master boutique baby boy shoe collection. Discover soft non-slip oxford dress shoes, summer sandals, canvas trainers, and quick-dry water shoes.
-  Updated: 2026-06-15T11:17:40Z
-  Total Products: 20
+  Updated: 2026-06-23T22:18:29Z
+  Total Products: 23
 - [Baby Girl Sandals & First Walker Summer Shoes | Kidsely](https://kidsely.com/collections/girls-prewalker-sandals): Shop our boutique baby girl sandals. Discover soft rubber sole first walkers, boho pom-pom sandals, cherry accents, and leather bowknot summer shoes.
-  Updated: 2026-06-09T11:16:08Z
-  Total Products: 5
-- [Baby Girl Dress Shoes & Mary Janes | Kidsely](https://kidsely.com/collections/girls-prewalker-dress-shoes): Shop boutique baby girl dress shoes. Discover non-slip rubber sole Mary Janes, patent leather bowknot flats, lace baptism shoes, and wedding-ready princess flats.
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-23T22:27:49Z
   Total Products: 9
+- [Baby Girl Dress Shoes & Mary Janes | Kidsely](https://kidsely.com/collections/girls-prewalker-dress-shoes): Shop boutique baby girl dress shoes. Discover non-slip rubber sole Mary Janes, patent leather bowknot flats, lace baptism shoes, and wedding-ready princess flats.
+  Updated: 2026-06-22T19:21:26Z
+  Total Products: 11
 - [Baby & Toddler Water Shoes | Quick-Dry Aqua Socks | Kidsely](https://kidsely.com/collections/water-shoes): Shop boutique baby & toddler water shoes. Discover non-slip pool sneakers, quick-dry aqua socks, and breathable mesh swim shoes for the beach and splash pad.
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-22T11:14:47Z
   Total Products: 2
 - [Girls Prewalker Sneakers](https://kidsely.com/collections/girls-prewalker-sneakers)
   Updated: 2026-06-02T10:44:39Z
@@ -3159,30 +3137,33 @@
 - [Girls Prewalker Sneakers](https://kidsely.com/collections/girls-prewalker-sneakers-1)
   Updated: 2026-06-02T10:44:49Z
   Total Products: 5
-- [Girls Knit Booties](https://kidsely.com/collections/girls-knit-booties)
-  Updated: 2026-06-15T16:16:40Z
-  Total Products: 12
+- [Girls Booties & Crib Shoes](https://kidsely.com/collections/girls-knit-booties)
+  Updated: 2026-06-22T19:22:52Z
+  Total Products: 14
 - [Baby Boy Summer Sandals & First Walkers | Kidsely](https://kidsely.com/collections/boys-prewalker-sandals): Shop boutique baby boy sandals. Discover non-slip soft sole first walkers, breathable mesh shoes, summer vegan leather sandals, and nautical anchor prints.
-  Updated: 2026-06-14T11:18:23Z
-  Total Products: 7
+  Updated: 2026-06-23T22:18:29Z
+  Total Products: 10
 - [Baby Boy Dress Shoes & Oxford Mary Janes | Kidsely](https://kidsely.com/collections/boys-prewalker-dress-shoes): Shop boutique baby boy dress shoes. Discover high-gloss patent leather oxfords, pebbled brogue lace-up shoes, and anti-slip formal flats perfect for weddings and baptisms.
-  Updated: 2026-06-05T16:30:10Z
+  Updated: 2026-06-19T11:18:46Z
   Total Products: 4
-- [Boys Knit Booties](https://kidsely.com/collections/boys-knit-booties)
-  Updated: 2026-06-14T15:06:41Z
+- [Boys Booties & Crib Shoes](https://kidsely.com/collections/boys-knit-booties)
+  Updated: 2026-06-16T17:32:00Z
   Total Products: 10
 - [Baby & Toddler Boy Sneakers & Casual Shoes | Kidsely](https://kidsely.com/collections/boys-prewalker-sneakers): Shop boutique baby boy sneakers. Discover high-top canvas sneakers, non-slip athletic trainers, and lightweight mesh knit shoes built for playground fun.
   Updated: 2026-06-05T16:36:34Z
   Total Products: 5
 - [First Birthday Outfits](https://kidsely.com/collections/first-birthday-outfits)
-  Updated: 2026-06-13T11:16:27Z
+  Updated: 2026-06-19T11:18:46Z
   Total Products: 9
 - [Western Americana Baby Clothes & Patriotic Rompers | Kidsely](https://kidsely.com/collections/western): Shop our Western Americana baby clothing capsule. Discover vintage patriotic rompers, fringe moccasins, and rustic summer outfits for infants and toddlers.
-  Updated: 2026-06-15T11:17:40Z
+  Updated: 2026-06-21T11:16:19Z
   Total Products: 17
 - [Fall](https://kidsely.com/collections/fall)
-  Updated: 2026-06-15T19:18:10Z
-  Total Products: 45
+  Updated: 2026-06-22T16:43:40Z
+  Total Products: 55
+- [Matching sister](https://kidsely.com/collections/matching-sister)
+  Updated: 2026-06-22T21:16:36Z
+  Total Products: 10
 
 ## Blogs
 
@@ -3275,6 +3256,22 @@
     Updated: 2026-06-15T06:01:02Z
     Author: Kidsely
     Tags: cottagecore, cute summer outfits, dresses, embroidery, kid fashion, little girls, strawberry dress, whimsical embroidery designs
+  - [Floral Embroidery Dresses for Little Girls: Picking the Perfect Style](https://kidsely.com/blogs/news/floral-embroidery-dresses-for-little-girls-picking-the-perfect-style): Floral Embroidery Dresses for Little Girls: Picking the Perfect Style
+    Updated: 2026-06-16T08:01:46Z
+    Author: Kidsely
+    Tags: choosing girl’s attire, dress styles, dresses, embroidery, floral, floral dress patterns, kids fashion, little girls
+  - [10 Adorable Ways to Dress Your Baby Girl in a Lace Embroidery Romper Dress](https://kidsely.com/blogs/news/10-adorable-ways-to-dress-your-baby-girl-in-a-lace-embroidery-romper-dress): 10 Adorable Ways to Dress Your Baby Girl in a Lace Embroidery Romper Dress
+    Updated: 2026-06-18T00:06:57Z
+    Author: Kidsely
+    Tags: baby girl outfits, charming baby attire, cute baby dresses, dress, fashionable baby girl wear, lace, lace embroidery, romper
+  - [Exploring Timeless Elegance with the Cherry Embroidered Bubble Dress for Toddlers and Babies](https://kidsely.com/blogs/news/exploring-timeless-elegance-with-the-cherry-embroidered-bubble-dress-for-toddlers-and-babies): Exploring Timeless Elegance with the Cherry Embroidered Bubble Dress for Toddlers and Babies
+    Updated: 2026-06-22T06:01:59Z
+    Author: Kidsely
+    Tags: baby fashion, bubble dress, cherry motif dress, children's clothing, dress, elegant toddler attire, embroidery, toddlers
+  - [Why Your Little Girl's Summer Wardrobe Needs a White Lace Ruffle Dress](https://kidsely.com/blogs/news/why-your-little-girls-summer-wardrobe-needs-a-white-lace-ruffle-dress): Why Your Little Girl's Summer Wardrobe Needs a White Lace Ruffle Dress
+    Updated: 2026-06-23T08:01:24Z
+    Author: Kidsely
+    Tags: dress, girl clothes, kids fashion, lace, ruffle dresses, summer, summer wardrobe essentials, white lace dress ideas
 
 ## Store Pages
 
