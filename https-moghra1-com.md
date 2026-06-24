@@ -6,26 +6,26 @@
 - Timezone: Europe/Dublin
 - Created At: 2026-05-14T14:58:07Z
 - Contact Email: moghramanagment@gmail.com
-- Updated At: 2026-06-17T00:00:39.399Z
+- Updated At: 2026-06-24T00:00:41.821Z
 
 ## Products
 
 - [Crystal Heart Evil Eye Jewellery Set — Gold Necklace, Earrings & Ring | Mo Ghrá](https://moghra1.com/products/crystal-heart-evil-eye-jewelry-set): Gold-tone crystal heart evil eye jewellery set — necklace, earrings & open ring. Rhinestone accents, gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:40Z
+  Updated: 2026-06-22T20:29:06Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/29d68807-d4de-4de5-afa4-d075ca867be1.jpg?v=1778772877
   Price: €23.80 EUR
 - [White Crystal Evil Eye Jewellery Set — Gold Necklace, Earrings & Ring | Mo Ghrá](https://moghra1.com/products/white-crystal-evil-eye-jewelry-set): White crystal evil eye jewellery set in gold-tone — infinity necklace, earrings & ring. Elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:44Z
+  Updated: 2026-06-22T20:29:11Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/0175b934-64d6-461e-b3ae-20e364101b08.jpg?v=1778772878
   Price: €22.10 EUR
 - [Custom Script Name Necklace — Personalised Silver, Gold & Rose Gold | Mo Ghrá](https://moghra1.com/products/custom-minimal-script-name-necklace): Personalised script name necklace in copper or S925 silver. Choose your finish and chain length (40–60cm). A meaningful gift for any occasion.
-  Updated: 2026-06-16T10:36:06Z
+  Updated: 2026-06-22T21:30:39Z
   Vendor: Mo Ghrá
   Product Type: Necklace
   Availability: Available
@@ -121,7 +121,7 @@
     Availability: Available
     Price: €37.40 EUR
 - [Custom Multiple Name Necklace — Personalised Family & Couple Jewellery | Mo Ghrá](https://moghra1.com/products/custom-multiple-name-necklace-with-chain-options): Personalised multi-name necklace in silver, gold or rose gold. Up to 4 names, 3 chain styles, 5 lengths. Perfect gift for family, couples & friends.
-  Updated: 2026-06-16T10:35:57Z
+  Updated: 2026-06-22T20:29:18Z
   Vendor: Mo Ghrá
   Product Type: Necklace
   Availability: Available
@@ -217,49 +217,49 @@
     Availability: Available
     Price: €47.60 EUR
 - [Bohemian Evil Eye Jewellery Set — Gold Necklace, Bracelet & Earrings | Mo Ghrá](https://moghra1.com/products/bohemian-evil-eye-necklace-bracelet-and-earring-set): Bohemian evil eye jewellery set in gold-tone — necklace, bracelet & earrings. Symbolic, stylish & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:42Z
+  Updated: 2026-06-22T21:30:16Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/208d49d3-191a-4f4f-9134-ca4ce34906d7.jpg?v=1778773057
   Price: €25.50 EUR
 - [Middle Eastern Evil Eye Jewellery Set — Gold Necklace, Bracelet & Earrings | Mo Ghrá](https://moghra1.com/products/middle-eastern-evil-eye-necklace-bracelet-and-earring-set): Middle Eastern evil eye jewellery set in gold-tone — necklace, bracelet & earrings. Symbolic, elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:43Z
+  Updated: 2026-06-22T21:30:21Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/3939fb13-ebc5-4bdd-8e6c-0afee201b2b2.jpg?v=1778773061
   Price: €20.40 EUR
 - [Turkish Evil Eye Flower Jewellery Set — Gold Necklace, Bracelet & Earrings | Mo Ghrá](https://moghra1.com/products/turkish-evil-eye-flower-jewelry-set): Turkish evil eye flower jewellery set in gold-tone — necklace, bracelet & earrings. Nazar-inspired, feminine & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:50Z
+  Updated: 2026-06-22T21:30:17Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/0d72450c-7620-4308-81d6-04a1ddb9df24.jpg?v=1778773067
   Price: €22.10 EUR
 - [Bohemian Evil Eye Jewellery Set Blue Edition — Necklace, Bracelet & Earrings | Mo Ghrá](https://moghra1.com/products/bohemian-evil-eye-necklace-bracelet-and-earring-set-1): Bohemian blue evil eye jewellery set in gold-tone — necklace, bracelet & earrings. Symbolic, stackable & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:43Z
+  Updated: 2026-06-22T21:30:21Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/2b162959-f298-4c3a-9c98-35adec240227.jpg?v=1778773116
   Price: €22.10 EUR
 - [Evil Eye Jewellery Set — Gold Necklace, Earrings & Ring | Mo Ghrá](https://moghra1.com/products/evil-eye-necklace-earrings-and-ring-set): Gold-tone evil eye jewellery set — necklace, earrings & ring. Symbolic, stylish & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:37Z
+  Updated: 2026-06-22T21:30:16Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/13d729dc-9b28-464a-9b7b-2b7260030551.jpg?v=1778773118
   Price: €18.70 EUR
 - [Bohemian Blue Evil Eye Tassel Jewellery Set — Necklace, Bracelet & Earrings | Mo Ghrá](https://moghra1.com/products/bohemian-blue-evil-eye-tassel-necklace-bracelet-and-earring-set): Bohemian blue evil eye tassel jewellery set in gold-tone — necklace, bracelet & earrings. Bold, boho & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:48Z
+  Updated: 2026-06-22T21:30:28Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/22be28fc-7bdd-4ba5-a316-822c9043c9c4.jpg?v=1778773121
   Price: €22.10 EUR
 - [18K Gold Geometric Necklace](https://moghra1.com/products/18k-gold-geometric-minimalist-irregular-necklace): Material: 18K Gold, Titanium Steel18K Gold Geometric Minimalist Irregular NecklaceAt the core of this necklace's design language lies a interplay of geometric and irregular lines. By fusing a minimalist aesthetic with 18K gold craftsmanship, it exudes a sophisticated quality that is at once simple and deeply artistic. Its free-flowing silhouette drapes naturally across the collarbone, subtly highlighting a unique sense of style.✨ Design Highlights🔶 Geometric Irregularity | Artistic FlairBreaking away from traditional symmetrical structures, this piece adopts irregular geometric forms to create a visual effect that embodies both individuality and high-end sophistication.✨ Minimalist Style | Simplicity is the Ultimate SophisticationFeaturing clean, crisp lines and free of unnecessary embellishments, the design embodies a modern, "light luxury" aesthetic.💛 18K Gold Finish | Warm, Delicate LusterThe gold finish radiates a soft, refined glow that elevates the overall quality—timeless and enduringly beautiful.🔗 Exquisite Chain | Natural FitThe chain is smooth and lightweight, ensuring comfortable wear while gracefully accentuating the contours of the neck for an elegant look.🌿 Lightweight Design | Effortless ComfortThe entire piece is remarkably light, making it perfect for all-day wear without any sense of burden—ideal for your daily routine.👗 Versatile Appeal | Effortlessly StylishWhether for commuting, casual outings, or a date night, this necklace pairs effortlessly with any outfit, instantly elevating your overall look with a touch of refinement.🎁 The Perfect Gift | A Unique, High-End ChoiceWith its distinctive design that stands out from the crowd, this necklace makes an ideal gift for a loved one—or a delightful treat for yourself.
-  Updated: 2026-06-16T10:35:48Z
+  Updated: 2026-06-22T21:30:27Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -273,14 +273,14 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/b0f7fb6d-6c48-4283-8859-ffd2c79434a3.jpg?v=1778773121
     Price: €15.30 EUR
 - [Turkish Evil Eye Jewellery Set — Gold Necklace, Earrings & Ring | Mo Ghrá](https://moghra1.com/products/turkish-evil-eye-necklace-earrings-and-ring-set): Turkish evil eye jewellery set in gold-tone — necklace, earrings & ring. Nazar-inspired, meaningful & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:47Z
+  Updated: 2026-06-22T21:30:31Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/725874c1-1a44-416d-b074-58115867470c.jpg?v=1778773123
   Price: €20.40 EUR
 - [Snake Adjustable Open Ring with Zircon Inlay — Gold & White | Mo Ghrá](https://moghra1.com/products/snake-shaped-adjustable-open-ring-with-zircon-inlay): Snake-shaped adjustable open ring in titanium steel with cubic zirconia inlay. Gold or white finish. Hypoallergenic & fits most sizes. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:11Z
+  Updated: 2026-06-22T21:33:28Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -294,7 +294,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/6a7c81e0-90b5-4c53-8ea4-aa4cc2175298.jpg?v=1778773129
     Price: €20.40 EUR
 - [S925 Silver Snake Necklace & Earrings Set with Zirconia — 4 Colours | Mo Ghrá](https://moghra1.com/products/s925-silver-and-zircon-snake-design-necklace-and-earrings-jewelry-set): S925 silver snake necklace & earrings set with zirconia inlay — 4 colour options. Hypoallergenic, elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:50Z
+  Updated: 2026-06-22T21:30:28Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -316,7 +316,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/b1fe6a5d-2830-4455-818a-62fa4fc3d0a2.jpg?v=1778773179
     Price: €66.30 EUR
 - [Flat Snake-Chain Engravable Choker Necklace — Gold & Silver | Mo Ghrá](https://moghra1.com/products/flat-snake-chain-necklace-versatile-diy-engravable-choker): Flat snake-chain choker necklace with custom engraving option — gold or silver. Minimalist, personal & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:43Z
+  Updated: 2026-06-22T21:30:27Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -330,7 +330,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/583cfa27-53ee-4b73-8750-88a697c86b92.jpg?v=1778773179
     Price: €23.80 EUR
 - [Iridescent Blue Freshwater Pearl Jewellery Set — Necklace, Bracelet & Earrings | Mo Ghrá](https://moghra1.com/products/freshwater-pearl-set-iridescent-blue-pearl-necklace-bracelet-and-hoop-earrings): Iridescent blue freshwater pearl jewellery set — necklace, bracelet & earrings. Luminous, elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:48Z
+  Updated: 2026-06-22T21:30:19Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -348,7 +348,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/d53d74e6-6b93-471e-82da-907908913968.jpg?v=1778773182
     Price: €20.40 EUR
 - [S925 Silver Serpent Necklace & Earring Set with Zirconia | Mo Ghrá](https://moghra1.com/products/s925-silver-zircon-snake-necklace-and-earring-set): S925 silver serpent necklace & earring set with zirconia inlay. Hypoallergenic, elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:51Z
+  Updated: 2026-06-22T21:30:20Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -370,7 +370,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/82f20f20-e20f-4636-b437-110e218f5226.jpg?v=1778773182
     Price: €73.10 EUR
 - [S925 Silver Moissanite Ring — Moissanite, Zircon or Empty Setting | Mo Ghrá](https://moghra1.com/products/s925-sterling-silver-ring-with-moissanite-stone): S925 silver ring with moissanite D colour, zircon or empty setting. Sizes US 5–9. Brilliant, elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:20Z
+  Updated: 2026-06-22T21:33:33Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -436,7 +436,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/ff71e361-0424-429f-9bd8-ad009f38a5d4.jpg?v=1778773244
     Price: €45.90 EUR
 - [18K Gold Ladybug Necklace & Bracelet Set — Oil Drip Enamel | Mo Ghrá](https://moghra1.com/products/18k-gold-classic-ladybug-necklace-and-bracelet): 18K gold ladybug necklace & bracelet set with oil drip enamel finish. Titanium steel, lucky symbol & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:58:04Z
+  Updated: 2026-06-22T21:34:48Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -458,7 +458,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/d6c173a2-88e1-412e-8034-d2e26ff8ccb8.jpg?v=1778773249
     Price: €22.10 EUR
 - [18K Gold Serpent Bracelet — White Topaz, 5 Colourways | Mo Ghrá](https://moghra1.com/products/18k-gold-snake-and-marcasite-bracelet): 18K gold serpent bracelet with white topaz — 5 colourways incl. turquoise, green & red. Elegant, symbolic & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:59:46Z
+  Updated: 2026-06-22T21:34:56Z
   Vendor: Artshiney
   Product Type: Bracelet
   Availability: Available
@@ -484,14 +484,14 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/741cf8bb-394f-42cc-9824-103a4da8e395.jpg?v=1778773269
     Price: €37.40 EUR
 - [Stainless Steel Cuban Chain Bracelet — Two-Tone | Mo Ghrá](https://moghra1.com/products/stainless-steel-cuban-chain-bracelet-1): Stainless steel Cuban chain bracelet with two-tone finish. Hypoallergenic, durable & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:58:03Z
+  Updated: 2026-06-22T21:35:01Z
   Vendor: Artshiney
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/3196575c-17e0-4277-91d0-0cdfed892979_c5ae41fd-a542-4b44-b322-7d94b1a8b6ca.jpg?v=1778773269
   Price: €18.70 EUR
 - [S925 Silver Serpent Necklace Set — Full Zirconia Pavé | Mo Ghrá](https://moghra1.com/products/s925-silver-snake-shaped-necklace-set-with-full-zirconia-pave): S925 silver serpent necklace set with full zirconia pavé — purple, red & emerald. Bold, brilliant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:53Z
+  Updated: 2026-06-22T21:30:24Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -509,7 +509,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/97bfe6ee-541f-4fc0-970c-8622cee168ea.jpg?v=1778773298
     Price: €47.60 EUR
 - [S925 Silver Little Serpent Pendant Necklace — 4 Colourways | Mo Ghrá](https://moghra1.com/products/little-serpent-series-pendant-necklace): S925 silver little serpent pendant necklace in red, white, green & royal blue enamel. Hypoallergenic & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:49Z
+  Updated: 2026-06-22T21:30:24Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -531,7 +531,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/0c988468-5c7d-44f0-b238-07125043690c.jpg?v=1778773298
     Price: €47.60 EUR
 - [S925 Silver Snake Necklace with Cubic Zirconia | Mo Ghrá](https://moghra1.com/products/s925-silver-snake-shaped-cubic-zirconia-necklace): Shop the S925 Silver Snake Necklace with Cubic Zirconia at Mo Ghrá — sterling silver, luminous CZ accents. Elegant serpent style for everyday wear.
-  Updated: 2026-06-16T10:35:52Z
+  Updated: 2026-06-22T21:30:29Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -553,7 +553,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/84bf5a73-c75e-47a1-8164-8a09dcfd1142.jpg?v=1778773302
     Price: €74.80 EUR
 - [S925 Silver Serpent Teardrop Tassel Zirconia Set — Earrings & Necklace | Mo Ghrá](https://moghra1.com/products/serpentine-teardrop-tassel-zircon-earrings-necklace-set): S925 silver serpent teardrop tassel zirconia earrings & necklace set — 4 colourways. Hypoallergenic & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:57Z
+  Updated: 2026-06-22T21:30:30Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -575,7 +575,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/6f5bbc44-4214-477b-bbbf-ca94ec863f4c.jpg?v=1778773306
     Price: €85.00 EUR
 - [S925 Silver Serpent Necklace with Zirconia — 4 Colourways | Mo Ghrá](https://moghra1.com/products/s925-silver-snake-themed-necklace-with-diamond-accents): S925 silver serpent necklace with zirconia in purple, red, green & white. Hypoallergenic, elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:49Z
+  Updated: 2026-06-22T21:30:35Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -597,7 +597,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/c194d3ac-0e29-4981-bedf-c92beebc833e.jpg?v=1778773357
     Price: €81.60 EUR
 - [Retro Serpent Necklace Set — Titanium Steel & Zirconia | Mo Ghrá](https://moghra1.com/products/stylish-retro-snake-necklace-set): Retro serpent necklace set in titanium steel with zirconia — red, emerald, white & royal blue. Hypoallergenic & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:07Z
+  Updated: 2026-06-22T21:30:38Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -619,7 +619,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/fd562267-7468-4845-87cb-0966943d3761.jpg?v=1778773359
     Price: €71.40 EUR
 - [S925 Silver Serpent Tassel Necklace with Zirconia — 3 Colourways | Mo Ghrá](https://moghra1.com/products/serpentine-tassel-necklace-with-diamonds-and-zirconia): S925 silver serpent tassel necklace with zirconia — turquoise, white & pomegranate red. Hypoallergenic & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:58Z
+  Updated: 2026-06-22T21:30:29Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -637,7 +637,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/6278183f-c00c-471c-a80a-d1bf8a17ebb2.jpg?v=1778773359
     Price: €86.70 EUR
 - [Serpent Tassel Necklace with Zirconia — Statement Edition | Mo Ghrá](https://moghra1.com/products/serpentine-tassel-necklace-with-diamonds-and-zirconia-1): Serpent tassel necklace with zirconia — turquoise, white & green. S925 silver & titanium steel. Hypoallergenic & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:47Z
+  Updated: 2026-06-22T21:30:23Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -655,7 +655,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/d0bf7abb-dc90-4717-92d0-dbaacbf7188a.jpg?v=1778773365
     Price: €74.80 EUR
 - [18K Gold Micro-Pavé Serpent Necklace — 5 Stone Colourways | Mo Ghrá](https://moghra1.com/products/18k-solid-gold-micro-pave-diamond-snake-necklace): 18K gold micro-pavé serpent necklace — purple, red, white, green & turquoise. Premium quality & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:56Z
+  Updated: 2026-06-22T21:30:34Z
   Vendor: Mo Ghrá
   Product Type: Necklace
   Availability: Available
@@ -681,7 +681,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/96551ab0-cf2c-4239-a32f-37fe23b61b51.jpg?v=1778773419
     Price: €57.80 EUR
 - [18K Gold Serpent & Bamboo Knot Zirconia Necklace — 3 Colourways | Mo Ghrá](https://moghra1.com/products/18k-gold-petite-luxury-snake-and-bamboo-knot-zircon-necklace): 18K gold serpent & bamboo knot zirconia necklace — red, green jadeite & white. Elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:49Z
+  Updated: 2026-06-22T21:30:28Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -699,7 +699,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/85c2506a-bc31-45a2-a901-2df8115b738f.jpg?v=1778773420
     Price: €61.20 EUR
 - [18K Gold Serpent Necklace & Earring Set — Gold & Silver | Mo Ghrá](https://moghra1.com/products/18k-gold-snake-style-necklace-and-earring-set): 18K gold serpent necklace & earring set in gold or silver. Hypoallergenic titanium steel, elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:56Z
+  Updated: 2026-06-22T21:30:30Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -713,7 +713,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/496bc2a6-f319-402a-8775-8fa283671ffc.jpg?v=1778773422
     Price: €62.90 EUR
 - [18K Gold & S925 Silver Multi-Strand Contrast Bracelet | Mo Ghrá](https://moghra1.com/products/18k-gold-and-s925-silver-multi-strand-bracelet-with-contrasting-colors): 18K gold & S925 silver multi-strand contrast bracelet — 2 styles. Lightweight, hypoallergenic & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:59:15Z
+  Updated: 2026-06-22T21:36:08Z
   Vendor: Artshiney
   Product Type: Bracelet
   Availability: Available
@@ -727,7 +727,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/3ab91e1e-2545-4e9f-a78f-4c96dc6f26f1.jpg?v=1778773434
     Price: €18.70 EUR
 - [S925 Silver Numeric Heart & Cubic Zirconia Bracelet — White & Rose Red | Mo Ghrá](https://moghra1.com/products/s925-silver-number-spliced-heart-cubic-zirconia-bracelet): S925 silver numeric heart & cubic zirconia bracelet — white & rose red. Hypoallergenic, meaningful & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:59:07Z
+  Updated: 2026-06-22T21:34:55Z
   Vendor: Artshiney
   Product Type: Bracelet
   Availability: Available
@@ -741,14 +741,14 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/831b49cb-4dc1-4c07-9bb4-3b3ddcdbb4d9.jpg?v=1778773483
     Price: €23.80 EUR
 - [18K Gold Horseshoe Buckle & U-Clasp Chain Link Bracelet | Mo Ghrá](https://moghra1.com/products/18k-gold-horseshoe-buckle-chain-link-u-shaped-clasp-bracelet): 18K gold horseshoe buckle & U-clasp chain link bracelet. Titanium steel, hypoallergenic & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:58:58Z
+  Updated: 2026-06-22T21:34:52Z
   Vendor: Artshiney
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/17f5f6df-cd65-4735-b2d0-599334b97a49.jpg?v=1778773549
   Price: €18.70 EUR
 - [18K Gold Snake Motif Titanium Steel Stud Earrings with Zircon | Mo Ghrá](https://moghra1.com/products/snake-shaped-titanium-steel-stud-earrings-with-diamond-accents): 18K gold snake motif titanium steel stud earrings with zircon — 4 colourways. Hypoallergenic & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:55Z
+  Updated: 2026-06-22T21:33:18Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -770,7 +770,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/f8c4496d-e9a3-432a-9e67-8e6482ee4b35.jpg?v=1778773599
     Price: €25.50 EUR
 - [S925 Silver Post Snake Stud Earrings with Zircon — 3 Colourways | Mo Ghrá](https://moghra1.com/products/s925-silver-needle-zircon-snake-stud-earrings): S925 silver post snake stud earrings with zircon in 3 colourways. Hypoallergenic, lightweight & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:57Z
+  Updated: 2026-06-22T21:30:33Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -788,7 +788,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/9caf3c2a-34ff-4955-9f49-f89def08db48.jpg?v=1778773602
     Price: €23.80 EUR
 - [18K Gold Geometric Square Zircon Earrings — 9 Colours | Mo Ghrá](https://moghra1.com/products/18k-gold-geometric-square-zircon-earrings): 18K gold geometric square zircon earrings in 9 colours. Lightweight, face-flattering & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:00Z
+  Updated: 2026-06-22T21:33:18Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -830,7 +830,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/5659f005-d376-40e9-bba9-70fda9dd249d.jpg?v=1778773657
     Price: €15.30 EUR
 - [18K Gold & S925 Silver Intersecting Lines Necklace & Earring Set | Mo Ghrá](https://moghra1.com/products/18k-gold-and-s925-silver-trendy-intersecting-lines-titanium-steel-necklace): 18K gold & S925 silver intersecting lines necklace & earring set — 7 styles. Titanium steel, hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:58Z
+  Updated: 2026-06-22T21:30:35Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -864,7 +864,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/92c98206-79ea-42ac-9a25-16880272abb0.jpg?v=1778773658
     Price: €20.40 EUR
 - [18K Gold Birthstone Earrings — All 12 Months | Mo Ghrá](https://moghra1.com/products/18k-gold-12-birthstone-earrings): 18K gold birthstone earrings for all 12 months. Meaningful, lightweight & the perfect birthday gift. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:14Z
+  Updated: 2026-06-22T21:33:22Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -914,7 +914,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/ef4da014-6824-4707-b196-45c84eff4dde.jpg?v=1778773665
     Price: €15.30 EUR
 - [18K Gold Rhombus Four-Leaf Clover Jewellery Set — 4 Pieces | Mo Ghrá](https://moghra1.com/products/18k-gold-rhombus-shaped-four-leaf-clover-necklace-bracelet-earrings-and-ring-set): 18K gold rhombus four-leaf clover necklace, bracelet, earrings & ring set — 4 colours. Lucky & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:05Z
+  Updated: 2026-06-22T21:30:34Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -1000,14 +1000,14 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/bded4f3e-d369-464a-b6ba-f5ba68d36340.jpg?v=1778773716
     Price: €15.30 EUR
 - [S925 Silver Circle Hoop Earrings — Minimalist Light Luxury | Mo Ghrá](https://moghra1.com/products/circle-hoop-earrings-a-luxurious-and-sophisticated-ear-jewelry-piece): S925 silver circle hoop earrings — 2.6cm, 10g, hypoallergenic. Minimalist light luxury for everyday wear. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:55Z
+  Updated: 2026-06-22T21:30:26Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/0555d0c4-b459-4d2a-877d-83c03456bd7a.jpg?v=1778773718
   Price: €20.40 EUR
 - [18K Gold Ladybug Necklace & Earrings Set — Lucky Symbol | Mo Ghrá](https://moghra1.com/products/18k-gold-ladybug-titanium-steel-necklace-and-earrings): 18K gold ladybug necklace & earrings set — 4 necklace styles. Lucky symbol, 8g, hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:01Z
+  Updated: 2026-06-22T21:30:35Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -1033,21 +1033,21 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/1bbe294a-d7c9-4328-8e48-4082670af625.jpg?v=1778773720
     Price: €20.40 EUR
 - [S925 Silver Cat’s Eye Four-Leaf Clover Earrings — Lucky Symbol | Mo Ghrá](https://moghra1.com/products/s925-sterling-silver-cats-eye-clover-earrings): S925 silver cat’s eye four-leaf clover earrings. Lucky symbol, hypoallergenic, luminous cat’s eye effect. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:51Z
+  Updated: 2026-06-22T21:33:17Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/59f265e8-f705-4115-bb2f-ada93c4b7b9a.jpg?v=1778773720
   Price: €15.30 EUR
 - [18K Gold & S925 Silver Dangle Earrings — Autumn/Winter Light Luxury | Mo Ghrá](https://moghra1.com/products/light-luxury-and-sophisticated-autumn-winter-earrings): 18K gold & S925 silver dangle earrings — 5g, face-elongating, perfect for autumn/winter outfits. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:51Z
+  Updated: 2026-06-22T21:33:17Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/2353b65e-ebe7-4832-b02d-c70ec31e3802.jpg?v=1778773726
   Price: €18.70 EUR
 - [S925 Silver Vintage Linear-Set Zirconia Chain Bracelet — 2 Styles | Mo Ghrá](https://moghra1.com/products/retro-light-luxury-bracelet-with-linear-set-drills-and-chain-link): S925 silver vintage linear-set zirconia chain bracelet in 2 styles. Lightweight, hypoallergenic light luxury. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:59:55Z
+  Updated: 2026-06-22T21:35:11Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -1061,7 +1061,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/6006dbb5-003c-44dc-b4cb-2c3f02ff55ec.jpg?v=1778773735
     Price: €27.20 EUR
 - [18K Gold Pearl Bracelet — 5 Styles | Mo Ghrá](https://moghra1.com/products/18k-gold-pearl-bracelet): 18K gold pearl bracelet in 5 styles. 7g, hypoallergenic titanium steel, elegant & gift-ready. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:58:57Z
+  Updated: 2026-06-22T21:35:04Z
   Vendor: Artshiney
   Product Type: Bracelet
   Availability: Available
@@ -1087,7 +1087,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/4cd2d5f4-07a6-467c-a3b7-bb5ca80c9649.jpg?v=1778773735
     Price: €20.40 EUR
 - [18K Gold Dripping Insect Earrings & Necklace Set — Playful Luxury | Mo Ghrá](https://moghra1.com/products/18k-gold-insect-earring-necklace): 18K gold dripping insect earrings & necklace set. Vivid enamel colours, lightweight, hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:00Z
+  Updated: 2026-06-22T21:33:17Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -1101,7 +1101,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/d67ce5d1-e982-4e17-925c-a4526cd800e0.jpg?v=1778773775
     Price: €22.10 EUR
 - [Custom Engraved Script Name Drop Earrings with Birth Flower | Mo Ghrá](https://moghra1.com/products/custom-engraved-script-name-drop-earrings-with-flower): Custom script name drop earrings with birth flower — copper or S925 silver, 3 finishes. Personalised gift. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:35:59Z
+  Updated: 2026-06-22T21:33:20Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -1125,7 +1125,7 @@
     Availability: Available
     Price: €42.50 EUR
 - [Custom Engraved Script Name Stud Earrings — Copper or S925 Silver | Mo Ghrá](https://moghra1.com/products/custom-engraved-script-name-stud-earrings): Custom script name stud earrings — copper or S925 silver, 3 finishes. Personalised gift for any occasion. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:04Z
+  Updated: 2026-06-22T21:33:19Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -1149,7 +1149,7 @@
     Availability: Available
     Price: €42.50 EUR
 - [Custom Heart Name Stud Earrings — Copper or S925 Silver | Mo Ghrá](https://moghra1.com/products/heart-name-stud-earrings): Custom heart name stud earrings — copper or S925 silver, 3 finishes. Romantic personalised gift. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:05Z
+  Updated: 2026-06-22T21:33:20Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -1173,7 +1173,7 @@
     Availability: Available
     Price: €37.40 EUR
 - [Custom Engraved Script Name Belly Ring — Copper or S925 Silver | Mo Ghrá](https://moghra1.com/products/custom-engraved-script-name-belly-ring): Custom script name belly ring with CZ stones — copper or S925 silver, 3 finishes. Personalised gift. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:02Z
+  Updated: 2026-06-22T21:33:26Z
   Vendor: Artshiney
   Product Type: Body Jewellery
   Availability: Available
@@ -1197,7 +1197,7 @@
     Availability: Available
     Price: €35.70 EUR
 - [18K Gold Smooth Pig Nose Necklace, Bracelet & Earrings Set | Mo Ghrá](https://moghra1.com/products/18k-gold-plated-smooth-pig-nose-design-necklace-bracelet-and-earrings-set): 18K gold smooth pig nose jewellery set — necklace, bracelet & earrings, gold or steel. 15g, hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:10Z
+  Updated: 2026-06-22T21:33:28Z
   Vendor: Artshiney
   Product Type: Jewelry Set
   Availability: Available
@@ -1235,7 +1235,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/d85820ac-b75e-4e7a-b108-cc3046d04ee9.jpg?v=1778773959
     Price: €17.00 EUR
 - [Custom Engraved Script Name Belly Ring | Mo Ghrá](https://moghra1.com/products/custom-engraved-script-name-belly-ring-1): Personalised belly ring with custom engraved script name. A unique, meaningful gift — beautifully crafted for everyday wear.
-  Updated: 2026-06-16T10:36:09Z
+  Updated: 2026-06-22T21:33:26Z
   Vendor: Artshiney
   Product Type: Body Jewellery
   Availability: Available
@@ -1250,14 +1250,14 @@
     Availability: Available
     Price: €25.50 EUR
 - [18K Gold Luxury Tassel Earrings with Cubic Zirconia | Mo Ghrá](https://moghra1.com/products/18k-gold-lightweight-luxury-tassel-earrings-with-cubic-zirconia): Lightweight 18K gold tassel earrings with cubic zirconia. Effortlessly elegant — perfect for evening wear or gifting.
-  Updated: 2026-06-16T10:36:07Z
+  Updated: 2026-06-22T21:33:16Z
   Vendor: Artshiney
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/128ab1ef-f1be-42bf-983f-2ebd3da4e46f.jpg?v=1778774019
   Price: €18.70 EUR
 - [S925 Silver Starburst Stud Earrings with Diamonds | Mo Ghrá](https://moghra1.com/products/s925-silver-starburst-stud-earrings-with-diamonds): Sparkling S925 silver starburst stud earrings set with diamonds. Timeless elegance in a lightweight, everyday-wear design.
-  Updated: 2026-06-16T10:36:00Z
+  Updated: 2026-06-22T21:33:25Z
   Vendor: Artshiney
   Product Type: Earrings
   Availability: Available
@@ -1279,7 +1279,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/9260b231-2d76-4df0-a9f1-eeddff855388.jpg?v=1778774030
     Price: €25.50 EUR
 - [S925 Silver Classic Six-Prong Elegant Ring | Mo Ghrá](https://moghra1.com/products/s925-silver-classic-six-prong-elegant-ring): Shop S925 Silver Classic Six-Prong Elegant Ring at Mo Ghrá. Elegant jewellery and timeless accessories crafted for everyday style and gifting.
-  Updated: 2026-06-16T10:36:03Z
+  Updated: 2026-06-22T21:33:29Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -1315,7 +1315,7 @@
     Availability: Available
     Price: €37.40 EUR
 - [S925 Silver Fan-Shaped Accent Bracelet — 4 Colour Options](https://moghra1.com/products/s925-silver-light-luxury-fan-shaped-accent-bracelet): Grace at the wrist. The S925 Silver Fan-Shaped Accent Bracelet takes the graceful contours of a fan as its design highlight — soft, fluid lines that convey understated elegance with a distinctly refined, high-end feel. Crafted from premium S925 sterling silver and adorned with cubic zirconia stones that catch the light beautifully, the delicate chain rests naturally against the skin, accentuating the graceful lines of the wrist. Light and airy in design, it remains comfortable and pleasant to wear even for extended periods. Available in four colour combinations: white, emerald, royal blue, and pomegranate red on white.Choose Your Colour White on white — classic, clean, and timeless Emerald on white — rich green accent for a vibrant touch Royal blue on white — deep blue for a bold, sophisticated look Pomegranate red on white — warm red accent for a romantic, festive feel Design Highlights Fan motif — inspired by the graceful contours of a fan, soft fluid lines that convey understated elegance Cubic zirconia accents — catch the light beautifully for a subtle yet dazzling effect S925 sterling silver — fine texture, hypoallergenic, and comfortable for everyday wear Delicate chain — smooth and fine, rests naturally against the skin to accentuate wrist lines Lightweight and airy — comfortable for extended wear, suitable for casual, professional, or date-night outfits Materials S925 sterling silver with cubic zirconia accents Hypoallergenic and skin-friendly Care Instructions Keep away from water, perfume, and harsh chemicals Wipe gently with a soft dry cloth after wearing Store in a jewellery pouch to protect the finish and stones
-  Updated: 2026-06-16T10:36:23Z
+  Updated: 2026-06-22T21:33:27Z
   Vendor: Artshiney
   Product Type: Bracelet
   Availability: Available
@@ -1337,14 +1337,14 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/f092907c-c98a-4a26-95cd-b0db1c24f032.jpg?v=1778774079
     Price: €27.20 EUR
 - [S925 Silver & Cubic Zirconia Camellia Bracelet | Mo Ghrá](https://moghra1.com/products/s925-silver-cubic-zirconia-camellia-bracelet): Shop the S925 Silver Camellia Bracelet at Mo Ghrá — cubic zirconia floral charm, lightweight and tarnish-resistant. A refined gift.
-  Updated: 2026-06-16T10:35:54Z
+  Updated: 2026-06-22T21:33:19Z
   Vendor: Artshiney
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/2fab3fe3-fc35-472d-b926-7d1441f483f9.jpg?v=1778774080
   Price: €22.10 EUR
 - [S925 Silver Premium Triangular Diamond Ring | Mo Ghrá](https://moghra1.com/products/s925-silver-premium-triangular-diamond-ring): Shop S925 Silver Premium Triangular Diamond Ring at Mo Ghrá. Elegant jewellery and timeless accessories crafted for everyday style and gifting.
-  Updated: 2026-06-16T10:36:08Z
+  Updated: 2026-06-22T21:33:29Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -1380,7 +1380,7 @@
     Availability: Available
     Price: €25.50 EUR
 - [18K Gold Luxury Earrings with Cubic Zirconia | Mo Ghrá](https://moghra1.com/products/18k-gold-luxury-earrings-with-cubic-zirconia): Dazzling 18K gold earrings set with sparkling cubic zirconia. Lightweight luxury for everyday elegance or special occasions.
-  Updated: 2026-06-16T10:35:53Z
+  Updated: 2026-06-22T21:33:18Z
   Vendor: Artshiney
   Product Type: Earrings
   Availability: Available
@@ -1402,7 +1402,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/1f61d6c8-7ac1-4b2d-8ad0-e0d38fceb981.jpg?v=1778774082
     Price: €20.40 EUR
 - [Light luxury S925 sterling silver moissanite sunflower ring | Mo Ghrá](https://moghra1.com/products/light-luxury-s925-sterling-silver-moissanite-sunflower-ring): Shop Light luxury S925 sterling silver moissanite sunflower ring at Mo Ghrá. Elegant jewellery and timeless accessories crafted for everyday style and gifting.
-  Updated: 2026-06-16T10:36:14Z
+  Updated: 2026-06-22T21:33:33Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -1468,14 +1468,14 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/9579efc8-4c06-4402-b3c0-943414df927d.jpg?v=1778774138
     Price: €34.00 EUR
 - [18K Gold-Plated Spiral Titanium Steel Necklace with Cubic Zirconia | Mo Ghrá](https://moghra1.com/products/18k-gold-plated-small-spiral-titanium-steel-necklace-with-cubic-zirconia): Shop the 18K Gold Spiral Necklace at Mo Ghrá — titanium steel, cubic zirconia, hypoallergenic. A delicate, dazzling everyday necklace.
-  Updated: 2026-06-16T10:36:06Z
+  Updated: 2026-06-22T21:33:28Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/092abf04-51aa-469b-97f9-329ae0500978.jpg?v=1778774138
   Price: €20.40 EUR
 - [S925 Sterling Silver Moissanite Square Ring | Mo Ghrá](https://moghra1.com/products/s925-sterling-silver-moissanite-square-ring): S925 sterling silver square ring with brilliant moissanite. Bold geometric design with exceptional sparkle — a luxurious statement piece.
-  Updated: 2026-06-16T10:36:23Z
+  Updated: 2026-06-22T21:33:29Z
   Vendor: Mo Ghrá
   Product Type: Rings
   Availability: Available
@@ -1541,7 +1541,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/34c8697c-3a79-4f70-bee6-1668f6841e5b.jpg?v=1778774140
     Price: €32.30 EUR
 - [S925 Silver Micro-Pavé Zircon Leaf & Fishtail Chain Bracelet — 4 Colours | Mo Ghrá](https://moghra1.com/products/s925-silver-micro-pave-zircon-leaf-and-fishtail-link-chain): S925 silver micro-pavé zircon leaf & fishtail chain bracelet, 4 colours. Hypoallergenic, lightweight. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:15Z
+  Updated: 2026-06-22T21:33:21Z
   Vendor: Artshiney
   Product Type: Necklace
   Availability: Available
@@ -1563,7 +1563,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/c5fceabd-3fe9-4b62-9e20-21ec5286aa47.jpg?v=1778774143
     Price: €25.50 EUR
 - [Custom Double Name Ring with Personalised Birthstones — Copper or S925 Silver | Mo Ghrá](https://moghra1.com/products/custom-double-name-ring-with-personalized-birthstones): Custom double name ring with personalised birthstones — copper or S925 silver, 3 finishes, US 5–13. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:22Z
+  Updated: 2026-06-22T21:33:45Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -1719,7 +1719,7 @@
     Availability: Available
     Price: €39.10 EUR
 - [S925 Silver Lotus Moissanite Ring — Moissanite, Zircon or Empty Setting | Mo Ghrá](https://moghra1.com/products/s925-sterling-silver-anemone-flower-moissanite-diamond-ring): S925 silver lotus moissanite ring — moissanite, zircon or empty setting, US 5–9, 5g. Hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:17Z
+  Updated: 2026-06-22T21:33:33Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -1785,7 +1785,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/23d7147a-219b-4100-bac4-a0a429a60765.jpg?v=1778774195
     Price: €28.90 EUR
 - [18K Gold Multi-Layer Zirconia Stackable Titanium Steel Ring — 3 Styles | Mo Ghrá](https://moghra1.com/products/zirconia-studded-multi-layered-stackable-titanium-steel-ring): 18K gold multi-layer zirconia stackable titanium steel ring, 3 styles, 4g. Lightweight luxury, hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:06Z
+  Updated: 2026-06-22T21:33:28Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -1803,7 +1803,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/98158a67-eab0-452e-affa-db9ebc3adbad.jpg?v=1778774198
     Price: €20.40 EUR
 - [18K Gold Heart Ring — Titanium Steel, 2 Styles, US 6–8 | Mo Ghrá](https://moghra1.com/products/18k-gold-heart-ring-in-titanium-steel): 18K gold heart ring in titanium steel, 2 styles, US 6–8. Romantic, hypoallergenic, fade-resistant. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:15Z
+  Updated: 2026-06-22T21:33:31Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -1829,7 +1829,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/451eb99a-db59-4773-9d29-9a9f44a8269b.jpg?v=1778774200
     Price: €20.40 EUR
 - [S925 Silver Moissanite Twisted Band Four-Prong Ring — US 5–9 | Mo Ghrá](https://moghra1.com/products/s925-sterling-silver-moissanite-micro-set-twisted-band-square-four-prong-diamond-ring): S925 silver moissanite twisted band four-prong ring — moissanite, zircon or empty setting, US 5–9, 5g. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:10Z
+  Updated: 2026-06-22T21:33:29Z
   Vendor: Mo Ghrá
   Product Type: Jewelry Set
   Availability: Available
@@ -1895,7 +1895,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/6f23fdcd-0239-42f1-b905-77ec49601e17.jpg?v=1778774203
     Price: €32.30 EUR
 - [S925 Silver 1ct Moissanite Crown Ring — Moissanite, Zircon or Empty Setting | Mo Ghrá](https://moghra1.com/products/s925-silver-1ct-moissanite-queen-crown-ring): S925 silver 1ct moissanite crown ring — moissanite, zircon or empty setting, US 5–9, 7g. Hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:27Z
+  Updated: 2026-06-22T21:33:47Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -1961,7 +1961,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/2b17f2f2-26d8-4406-b168-71662d730b8c.jpg?v=1778774255
     Price: €39.10 EUR
 - [S925 Silver Moissanite Ring — Moissanite, Zircon or Empty Setting, US 5–9 | Mo Ghrá](https://moghra1.com/products/s925-sterling-silver-ring-with-moissanite): S925 silver moissanite ring — moissanite, zircon or empty setting, US 5–9, 7g. Hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:29Z
+  Updated: 2026-06-22T21:33:38Z
   Vendor: Mo Ghrá
   Product Type: Rings
   Availability: Available
@@ -2027,7 +2027,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/355e7b8e-1135-4aeb-be71-a13960fc557b.jpg?v=1778774256
     Price: €44.20 EUR
 - [S925 Silver Four-Prong Moissanite Curved Ring — Moissanite, Zircon or Empty Setting | Mo Ghrá](https://moghra1.com/products/s925-silver-four-prong-moissanite-curved-ring): S925 silver four-prong moissanite curved ring — moissanite, zircon or empty setting, US 5–9, 7g. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:12Z
+  Updated: 2026-06-22T21:33:33Z
   Vendor: Mo Ghrá
   Product Type: Rings
   Availability: Available
@@ -2093,7 +2093,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/ad250e16-3c48-452e-aef6-fd2d691781ac.jpg?v=1778774258
     Price: €30.60 EUR
 - [S925 Silver 0.5ct Moissanite Petal Ring — Moissanite, Zircon or Empty Setting | Mo Ghrá](https://moghra1.com/products/s925-sterling-silver-0-5ct-moissanite-petal-ring): S925 silver 0.5ct moissanite petal ring — moissanite, zircon or empty setting, US 5–9, 7g. Hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:31Z
+  Updated: 2026-06-22T21:33:42Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -2159,7 +2159,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/b3feb414-2cd5-4799-bb80-c3bbb5b3d63f.jpg?v=1778774260
     Price: €30.60 EUR
 - [Smart Health Monitoring Ring — Heart Rate, Blood Oxygen & Sleep | Mo Ghrá](https://moghra1.com/products/smart-heart-rate-blood-oxygen-and-ring): Smart health monitoring ring — heart rate, blood oxygen & sleep tracking, titanium steel, waterproof, US 7–10. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:15Z
+  Updated: 2026-06-22T21:33:35Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -2197,7 +2197,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/96e8f982-081b-4a4d-a45c-6205cd68b3a4.jpg?v=1778774264
     Price: €49.30 EUR
 - [18K Gold & S925 Silver Spinning CZ Anxiety-Relief Ring — 3 Styles | Mo Ghrá](https://moghra1.com/products/18k-gold-s925-silver-stress-relief-zirconia-ring): 18K gold & S925 silver spinning CZ anxiety-relief ring, 3 styles, gold or silver, adjustable, 8g. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:27Z
+  Updated: 2026-06-22T21:33:44Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -2227,21 +2227,21 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/090c4e72-393a-4e42-b269-aa1814b9693a.jpg?v=1778774317
     Price: €15.30 EUR
 - [Floral Zircon Spinning Anxiety-Relief Ring — 18K Gold, Adjustable | Mo Ghrá](https://moghra1.com/products/floral-zircon-rotatable-stress-relief-ring): Floral zircon spinning anxiety-relief ring, 18K gold titanium steel, adjustable, 8g. Hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:36:24Z
+  Updated: 2026-06-22T21:33:35Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/0e7ab916-f59c-4ef9-b24b-b264e973077b.jpg?v=1778774325
   Price: €15.30 EUR
 - [18K Gold Hollow Buckle Ring — Titanium Steel, Adjustable | Mo Ghrá](https://moghra1.com/products/18k-gold-openwork-ring-with-buckle-design): 18K gold hollow buckle ring, titanium steel, adjustable, 8g. Structural light luxury design, hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:38:53Z
+  Updated: 2026-06-22T21:33:35Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/f2a5094b-5acb-42ab-b2df-05b2cfa0b223.jpg?v=1778774496
   Price: €17.00 EUR
 - [S925 Silver Marquise Full Diamond Ring — Cubic Zirconia, US 6–10 | Mo Ghrá](https://moghra1.com/products/s925-silver-ring-with-pave-marquise-cut-stones): S925 silver marquise full diamond ring, cubic zirconia, US 6–10, 10g. Elongated design, hypoallergenic. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:38:55Z
+  Updated: 2026-06-22T21:33:33Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -2267,7 +2267,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/49903041-aa14-48b8-958c-17da39dbf333.jpg?v=1778774497
     Price: €17.00 EUR
 - [Customised Initial Open Ring — 1 or 2 Initials, Copper or S925 Silver | Mo Ghrá](https://moghra1.com/products/customized-initial-open-ring): Customised initial open ring, 1 or 2 initials, copper or S925 silver, US 5–13. Personalised jewellery gift. Shop at Mo Ghrá.
-  Updated: 2026-06-16T10:59:37Z
+  Updated: 2026-06-22T21:34:49Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -2423,7 +2423,7 @@
     Availability: Available
     Price: €37.40 EUR
 - [Customized Initial Open Ring | Mo Ghrá](https://moghra1.com/products/customized-initial-open-ring-1): Shop Customized Initial Open Ring at Mo Ghrá. Elegant jewellery and timeless accessories crafted for everyday style and gifting.
-  Updated: 2026-06-16T10:59:10Z
+  Updated: 2026-06-22T21:34:47Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -2579,14 +2579,14 @@
     Availability: Available
     Price: €37.40 EUR
 - [18K Gold Heart-Shaped Luxury Earrings | Mo Ghrá](https://moghra1.com/products/18k-gold-heart-shaped-luxury-earrings): Elegant 18K gold heart-shaped earrings for a romantic, luxurious look. A perfect gift for her — beautifully crafted and lightweight.
-  Updated: 2026-06-16T10:38:54Z
+  Updated: 2026-06-22T21:33:36Z
   Vendor: Artshiney
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/06917ca7-f9bd-42e3-97d9-5898c0e5720c.jpg?v=1778774559
   Price: €22.10 EUR
 - [Customized Smooth Name Engraving Ring | Mo Ghrá](https://moghra1.com/products/customized-smooth-name-engraving-ring): Shop Customized Smooth Name Engraving Ring at Mo Ghrá. Elegant jewellery and timeless accessories crafted for everyday style and gifting.
-  Updated: 2026-06-16T10:58:14Z
+  Updated: 2026-06-22T21:33:54Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -2742,7 +2742,7 @@
     Availability: Available
     Price: €32.30 EUR
 - [Customized Birthstone Name Open Ring | Mo Ghrá](https://moghra1.com/products/customized-birthstone-name-open-ring): Shop Customized Birthstone Name Open Ring at Mo Ghrá. Elegant jewellery and timeless accessories crafted for everyday style and gifting.
-  Updated: 2026-06-16T10:57:59Z
+  Updated: 2026-06-22T21:33:56Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -2898,7 +2898,7 @@
     Availability: Available
     Price: €34.00 EUR
 - [Custom smooth name engraving ring (inside and out) | Mo Ghrá](https://moghra1.com/products/custom-smooth-name-engraving-ring-inside-and-out): Shop Custom smooth name engraving ring (inside and out) at Mo Ghrá. Elegant jewellery and timeless accessories crafted for everyday style and gifting.
-  Updated: 2026-06-16T10:57:57Z
+  Updated: 2026-06-22T21:33:43Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -3054,7 +3054,7 @@
     Availability: Available
     Price: €32.30 EUR
 - [Personalized open ring with birthstones in the shape of numbers and le](https://moghra1.com/products/personalized-open-ring-with-birthstones-in-the-shape-of-numbers-and-letters): Shop Personalized open ring with birthstones in the shape of numbers and letters at Mo Ghrá. Elegant jewellery and timeless accessories crafted for everyday style and gifting.
-  Updated: 2026-06-16T10:58:04Z
+  Updated: 2026-06-22T21:33:58Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -3210,7 +3210,7 @@
     Availability: Available
     Price: €34.00 EUR
 - [18K gold-plated, lightweight, luxurious, and high-quality pearl and titanium steel ring.](https://moghra1.com/products/18k-gold-plated-lightweight-luxurious-and-high-quality-pearl-and-titanium-steel-ring): Material: 18K Gold, Titanium SteelWeight: 5gThis 18K gold lightweight luxury pearl titanium steel ring combines the gentle luster of pearls with the modern texture of metal, presenting a subtle yet undeniable sense of high-end elegance. Elegant with a modern touch, this is a lightweight luxury ring that becomes more appealing the more you look at it.Design Highlights:🤍 Gentle Pearl EmbellishmentFeaturing carefully selected round and delicate pearls with a soft and natural luster, creating an elegant contrast with the cool texture of the metal, highlighting a woman's gentle yet sophisticated temperament.💛 18K Gold Color × Titanium Steel MaterialThe outer layer features a warm 18K gold luster, while the core uses titanium steel, which is wear-resistant, oxidation-resistant, and does not fade easily, combining high-end texture with everyday durability.✨ Lightweight Luxury Minimalist DesignThe overall lines are simple and smooth, with meticulous proportions and no complicated decorations, yet every detail reflects sophistication. Suitable for wearing alone or stacking, the style is versatile and easy to match.🌟 Enhances Hand Shape and Elevates TemperamentThe ring's clean and crisp design makes hands appear fairer and more slender, effortlessly adding elegance and sophistication to everyday outfits.🎁 Perfect for Personal Use or as a GiftThe design is timeless and suitable for all ages. Whether for daily wear, dating, commuting, or as a gift, it's a perfect choice.This 18K gold lightweight luxury pearl titanium steel ring perfectly balances the gentleness of pearls with the strength of metal, offering understated luxury and enduring elegance – an indispensable choice for adding a touch of class to your fingers.
-  Updated: 2026-06-16T10:39:06Z
+  Updated: 2026-06-22T21:33:49Z
   Vendor: Artshiney
   Product Type: Ring
   Availability: Available
@@ -3228,7 +3228,7 @@
     Image: https://cdn.shopify.com/s/files/1/1049/0504/8395/files/d0a7b9d5-9785-4998-a225-582d803062d7.jpg?v=1778774628
     Price: €17.00 EUR
 - [Customized Double Name Open Ring | Mo Ghrá](https://moghra1.com/products/customized-double-name-open-ring-1): Shop Customized Double Name Open Ring at Mo Ghrá. Elegant jewellery and timeless accessories crafted for everyday style and gifting.
-  Updated: 2026-06-16T10:58:00Z
+  Updated: 2026-06-22T21:33:57Z
   Vendor: Mo Ghrá
   Product Type: Ring
   Availability: Available
@@ -3384,7 +3384,7 @@
     Availability: Available
     Price: €37.40 EUR
 - [Small Cross Cubic Zirconia Bracelet](https://moghra1.com/products/small-cross-cubic-zirconia-bracelet): Material: S925 Silver / Cubic ZirconiaSmall Cross & Cubic Zirconia BraceletThis bracelet centers on a minimalist small cross motif, accented by sparkling cubic zirconia and a delicate chain structure. The result is a style that is understated and pure, yet possesses a touch of refined luxury. Its petite silhouette peeks out subtly from the wrist, offering a clean, crisp aesthetic imbued with a gentle luster.✨ Design Highlights✝️ Small Cross Motif | Meaningful SimplicityThe cross shape is clean and uncluttered, symbolizing protection and faith, and conveying a quiet yet steadfast strength.💎 Cubic Zirconia Accents | Soft, Subtle SparkleFeaturing carefully selected cubic zirconia stones, the bracelet offers a subtle shimmer under the light—exquisite without being ostentatious.🔗 Delicate Chain | Contours to the WristThe chain is fine and smooth, sitting naturally and comfortably against the skin to accentuate the elegant lines of the wrist.🌿 Lightweight Design | Effortless for Daily WearThe overall design is compact and lightweight, ensuring comfort and ease even when worn for extended periods.✨ Minimalist Style | Versatile for Any OccasionPerfect for daily wear, commuting, or layering with other pieces; it effortlessly elevates your overall look with a touch of sophistication.🎁 Ideal Gift Choice | Meaningful & BeautifulCombining thoughtful design with symbolic significance, this bracelet makes a gentle and lovely choice—whether as a gift for a friend or a treat for yourself.
-  Updated: 2026-06-16T10:57:47Z
+  Updated: 2026-06-22T21:34:47Z
   Vendor: Artshiney
   Product Type: Bracelet
   Availability: Available
@@ -3480,6 +3480,15 @@
     Author: Mo Ghrá
   - [How to Assess Quality When Buying Gold Jewelry](https://moghra1.com/blogs/news/how-to-assess-quality-when-buying-gold-jewelry): How to Assess Quality When Buying Gold Jewelry
     Updated: 2026-06-15T02:30:47Z
+    Author: Mo Ghrá
+  - [A Full Comparison of Popular Jewelry Styles and What They Say About You](https://moghra1.com/blogs/news/a-full-comparison-of-popular-jewelry-styles-and-what-they-say-about-you): A Full Comparison of Popular Jewelry Styles and What They Say About You
+    Updated: 2026-06-17T02:04:35Z
+    Author: Mo Ghrá
+  - [Decoding Gemstone Meanings What Your Jewelry Says About You](https://moghra1.com/blogs/news/decoding-gemstone-meanings-what-your-jewelry-says-about-you): Decoding Gemstone Meanings What Your Jewelry Says About You
+    Updated: 2026-06-21T00:12:15Z
+    Author: Mo Ghrá
+  - [The Evolution of Jewelry Through the Ages A Historical Perspective](https://moghra1.com/blogs/news/the-evolution-of-jewelry-through-the-ages-a-historical-perspective): The Evolution of Jewelry Through the Ages A Historical Perspective
+    Updated: 2026-06-22T02:29:28Z
     Author: Mo Ghrá
 
 ## Store Pages
