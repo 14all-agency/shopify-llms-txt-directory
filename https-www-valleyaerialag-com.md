@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-01T01:45:12Z
 - Contact Email: eugene@virelo.ag
-- Updated At: 2026-06-17T00:00:36.883Z
+- Updated At: 2026-06-24T00:00:38.761Z
 
 Valley Aerial Ag
 
@@ -257,7 +257,7 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
 - [Our Mission](https://www.valleyaerialag.com/pages/our-mission): Our Mission Agriculture doesn't stop when equipment breaks down, parts are delayed, or support is unavailable. Crops still need to be protected, fi...
   Updated: 2026-06-08T04:13:10Z
 - [How to Become an Unmanned Ag Drone Pilot in California](https://www.valleyaerialag.com/pages/how-to-become-an-unmanned-ag-drone-pilot-in-california): Path to Becoming an Unmanned Ag Pilot in California A practical guide for aspiring agricultural drone pilots Agricultural drones are creating a new...
-  Updated: 2026-06-09T18:10:15Z
+  Updated: 2026-06-20T13:42:49Z
 - [How to Start an Agricultural Drone Business in California](https://www.valleyaerialag.com/pages/how-to-start-an-agricultural-drone-business-in-california): Licensing Requirements for Agricultural Drone Operators in California California has some of the most thorough agricultural regulations in the coun...
   Updated: 2026-06-09T13:52:26Z
 
