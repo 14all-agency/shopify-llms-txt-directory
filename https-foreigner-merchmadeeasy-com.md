@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-04-11T17:41:16Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-06-16T19:02:57.431Z
+- Updated At: 2026-06-24T00:00:26.824Z
 
 ## Products
 
@@ -261,7 +261,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FORTourBook_Front.png?v=1686343104
   Price: $50.00 USD
 - [Juke Box Hero Tee - Black](https://foreigner.merchmadeeasy.com/products/jukebox-hero-tee): He's got stars in his eyes 🌟 100% ring-spun cotton Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 18 16 3/4 M 29 20 17 3/4 L 30 22 19 1/4 XL 31 24 20 1/4 2XL 32 26 21 1/2 3XL 33 28 22 3/4
-  Updated: 2026-06-03T20:46:17Z
+  Updated: 2026-06-20T14:38:43Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -392,7 +392,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FORBottleCapSticker.png?v=1688067143
   Price: $5.00 USD
 - [Farewell - The Very Best of Foreigner (Black Vinyl)](https://foreigner.merchmadeeasy.com/products/farewell-the-very-best-of-foreigner-black-vinyl): A must-have collector's album featuring Foreigner's greatest hits produced by Mick Jones with Jeff Pilson. These impressive recordings were mixed by Wyn Davies and mastered for vinyl by Chris Bellman. Full details and photo on the four color card inner sleeve TRACK LIST: SIDE A 1. Feels Like The First Time 2. Cold As Ice 3. Long, Long Way From Home 4. Hot Blooded 5. Double Vision 6. Head Games SIDE B 1. Dirty White Boy 2. Urgent 3. Waiting For A Girl Like You 4. Juke Box Hero 5. I Want To Know What Love Is
-  Updated: 2026-06-03T20:46:19Z
+  Updated: 2026-06-19T17:56:46Z
   Vendor: Foreigner
   Product Type: Vinyl
   Availability: Available
@@ -422,6 +422,30 @@
   - [3XL](https://foreigner.merchmadeeasy.com/products/4ever-zip-hoodie?variant=46723282141504)
     Availability: Not Available
     Price: $50.00 USD
+- [Eagle Long Sleeve Tee](https://foreigner.merchmadeeasy.com/products/eagle-long-sleeve-tee): The classic Eagle design re-imagined and printed on a long sleeve t-shirt! Pre-shrunk 100% cotton long sleeve t-shirt in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 26 16 25 1/2 M 27 18 26 L 29 20 26 1/2 XL 31 22 27 2XL 32 24 27 1/2 3XL 33 26 28
+  Updated: 2026-06-16T19:58:41Z
+  Vendor: Foreigner
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOREagleLongsleeveBack.png?v=1694716455
+  - [S](https://foreigner.merchmadeeasy.com/products/eagle-long-sleeve-tee?variant=46739264373056)
+    Availability: Not Available
+    Price: $45.00 USD
+  - [M](https://foreigner.merchmadeeasy.com/products/eagle-long-sleeve-tee?variant=46739264405824)
+    Availability: Not Available
+    Price: $45.00 USD
+  - [L](https://foreigner.merchmadeeasy.com/products/eagle-long-sleeve-tee?variant=46739264438592)
+    Availability: Not Available
+    Price: $45.00 USD
+  - [XL](https://foreigner.merchmadeeasy.com/products/eagle-long-sleeve-tee?variant=46739264471360)
+    Availability: Not Available
+    Price: $45.00 USD
+  - [2XL](https://foreigner.merchmadeeasy.com/products/eagle-long-sleeve-tee?variant=46739264504128)
+    Availability: Available
+    Price: $45.00 USD
+  - [3XL](https://foreigner.merchmadeeasy.com/products/eagle-long-sleeve-tee?variant=46739323846976)
+    Availability: Not Available
+    Price: $45.00 USD
 - [4Ever Blue Denim Jacket](https://foreigner.merchmadeeasy.com/products/4ever-blue-denim-jacket): Celebrate Foreigner forever with this zip hoodie! Please note these run slightly small – size up 99% Cotton, 1% Spandex denim jacket Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 26 19 1/2 24 1/2 M 26 1/2 21 1/2 25 3/4 L 27 23 1/2 25 1/4 XL 27 1/2 25 1/2 25 1/4 2XL 28 27 25 1/2 3XL 28 1/2 28 1/2 25 3/4
   Updated: 2026-06-03T20:46:20Z
   Vendor: Foreigner
@@ -499,12 +523,36 @@
     Availability: Available
     Price: $40.00 USD
 - [Cold As Ice Tin Sign](https://foreigner.merchmadeeasy.com/products/cold-as-ice-tin-sign): Finally, a way to show off your great taste in music to the world. Display it proudly! 13" tin sign
-  Updated: 2026-06-13T04:03:37Z
+  Updated: 2026-06-23T01:11:52Z
   Vendor: Foreigner
   Product Type: Sign
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/159362_1_289667_d.png?v=1698949357
   Price: $50.00 USD
+- [Guitar Tee](https://foreigner.merchmadeeasy.com/products/guitar-tee): An online-exclusive version of this brand-new guitar design! 100% Airlume combed and ring-spun cotton t-shirt in off-white Size Chart Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
+  Updated: 2026-06-16T19:58:36Z
+  Vendor: Foreigner
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FORGuitarTee.png?v=1706902876
+  - [S](https://foreigner.merchmadeeasy.com/products/guitar-tee?variant=47819385831744)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [M](https://foreigner.merchmadeeasy.com/products/guitar-tee?variant=47819385864512)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [L](https://foreigner.merchmadeeasy.com/products/guitar-tee?variant=47819385897280)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [XL](https://foreigner.merchmadeeasy.com/products/guitar-tee?variant=47819385962816)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [2XL](https://foreigner.merchmadeeasy.com/products/guitar-tee?variant=47819385995584)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [3XL](https://foreigner.merchmadeeasy.com/products/guitar-tee?variant=47819386028352)
+    Availability: Available
+    Price: $40.00 USD
 - [2024 Plane Tour Tee](https://foreigner.merchmadeeasy.com/products/2024-plane-tour-tee): Join Foreigner as they jet across America this year! 100% ring-spun cotton in navy Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 18 16 3/4 M 29 20 17 3/4 L 30 22 19 1/4 XL 31 24 20 1/4 2XL 32 26 21 1/2 3XL 33 28 22 3/4
   Updated: 2026-06-03T20:46:22Z
   Vendor: Foreigner
@@ -557,6 +605,30 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FORTicketMagnetBlack.png?v=1708717578
   Price: $10.00 USD
+- [Urgent Mineral Wash Tee](https://foreigner.merchmadeeasy.com/products/urgent-mineral-wash-tee): 100% heavyweight pre-shrunk cotton t-shirt in mineral navy Size Chart Size Body Length (in) Chest Width (in) S 25 16 M 27 18 L 27 1/2 20 XL 28 1/2 22 2XL 29 24 3XL 30 27 1/2
+  Updated: 2026-06-16T19:58:33Z
+  Vendor: Foreigner
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_0003_161771_1_295117_d.png?v=1717687918
+  - [S](https://foreigner.merchmadeeasy.com/products/urgent-mineral-wash-tee?variant=48895566512448)
+    Availability: Available
+    Price: $40.00 USD
+  - [M](https://foreigner.merchmadeeasy.com/products/urgent-mineral-wash-tee?variant=48895566577984)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [L](https://foreigner.merchmadeeasy.com/products/urgent-mineral-wash-tee?variant=48895566643520)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [XL](https://foreigner.merchmadeeasy.com/products/urgent-mineral-wash-tee?variant=48895566709056)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [2XL](https://foreigner.merchmadeeasy.com/products/urgent-mineral-wash-tee?variant=48895566774592)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [3XL](https://foreigner.merchmadeeasy.com/products/urgent-mineral-wash-tee?variant=48895566840128)
+    Availability: Available
+    Price: $40.00 USD
 - [Juicebox Hero Tee](https://foreigner.merchmadeeasy.com/products/juicebox-hero-tee): Match with your little one! 100% ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26 3XL 33 1/2 28
   Updated: 2026-06-03T20:46:24Z
   Vendor: Foreigner
@@ -603,7 +675,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Hall Of Fame Zip Hoodie](https://foreigner.merchmadeeasy.com/products/hall-of-fame-zip-hoodie): Celebrate Foreigner's induction to the Rock and Roll Hall of Fame (finally) with this zip hoodie chronicling the band's long and storied path to the hall! 50/50 cotton/poly fleece zip hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/4 M 29 22 35 1/4 L 30 24 36 1/4 XL 31 26 37 1/4 2XL 32 28 37 1/4 3XL 33 30 38 1/4
-  Updated: 2026-06-03T20:46:24Z
+  Updated: 2026-06-16T20:59:51Z
   Vendor: Foreigner
   Product Type: Hoodie
   Availability: Available
@@ -651,7 +723,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [2024 USA Tour Tee](https://foreigner.merchmadeeasy.com/products/2024-usa-tour-tee): Ready for blast off! 100% ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-06-03T20:46:25Z
+  Updated: 2026-06-21T22:22:26Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -699,7 +771,7 @@
     Availability: Available
     Price: $140.00 USD
 - [Turning Back The Time Tee](https://foreigner.merchmadeeasy.com/products/turning-back-the-time-tee): 100% ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-06-03T20:46:25Z
+  Updated: 2026-06-17T19:54:30Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -797,7 +869,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Rose Heart Ladies Tee](https://foreigner.merchmadeeasy.com/products/rose-heart-ladies-tee): Feel what love is with this lovely Ladies tee! 65% polyester, 35% viscose ladies scoopneck t-shirt in black Size Chart Size Body Length (in) Chest Width (Laid Flat) S 25 1/4 20 M 25 3/4 21 1/2 L 26 1/2 23 1/2 XL 27 25 1/2 2XL 27 1/2 27 1/2
-  Updated: 2026-06-11T05:30:56Z
+  Updated: 2026-06-20T14:38:42Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -818,7 +890,7 @@
     Availability: Available
     Price: $35.00 USD
 - [I Want To Know What Love Is Ladies Glitter Tee](https://foreigner.merchmadeeasy.com/products/i-want-to-know-what-love-is-ladies-glitter-tee): Flowy ladies tee with glitter text in black
-  Updated: 2026-06-03T20:46:44Z
+  Updated: 2026-06-16T23:01:42Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -944,7 +1016,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Juke Box Hero Koozie](https://foreigner.merchmadeeasy.com/products/juke-box-hero-koozie): Neoprene koozie made for standard 12oz beverages
-  Updated: 2026-06-03T20:46:45Z
+  Updated: 2026-06-20T14:38:47Z
   Vendor: Foreigner
   Product Type: Koozie
   Availability: Available
@@ -958,7 +1030,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_Titles_Tote.png?v=1748465812
   Price: $25.00 USD
 - [2025 World Tour Hat - Navy](https://foreigner.merchmadeeasy.com/products/2025-world-tour-hat-navy): Low-profile, mesh-back trucker hat in Navy
-  Updated: 2026-06-15T20:28:57Z
+  Updated: 2026-06-18T18:49:33Z
   Vendor: Foreigner
   Product Type: Hat
   Availability: Available
@@ -989,7 +1061,7 @@
     Availability: Available
     Price: $55.00 USD
 - [2025 Eagle Tour Tee - Black](https://foreigner.merchmadeeasy.com/products/2025-eagle-tour-tee-black): 100% ringspun cotton t-shirt in Black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-15T20:29:34Z
+  Updated: 2026-06-22T00:59:41Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -1034,7 +1106,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_0002_164484_1_301156_d.png?v=1748451756
   Price: $15.00 USD
 - [World Tour Sticker Pack](https://foreigner.merchmadeeasy.com/products/world-tour-sticker-pack): Set of 4 vinyl die-cut stickers, each measuring 3" wide
-  Updated: 2026-06-15T20:29:14Z
+  Updated: 2026-06-16T23:01:42Z
   Vendor: Foreigner
   Product Type: Sticker Pack
   Availability: Available
@@ -1074,7 +1146,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_Blanket.png?v=1761755696
   Price: $65.00 USD
 - [Foreigner x Lynyrd Skynyrd Event Tee](https://foreigner.merchmadeeasy.com/products/foreigner-x-lynyrd-skynyrd-event-tee): Grab a limited edition tee after you buy your tickets to see two legendary bands! 100% ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-14T15:06:12Z
+  Updated: 2026-06-20T18:06:51Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -1171,7 +1243,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_4_Deluxe_Poster.png?v=1763763996
   Price: $20.00 USD
 - [50th Anniversary Eagle Tour Tee](https://foreigner.merchmadeeasy.com/products/2026-eagle-tour-tee): 100% ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-16T06:30:08Z
+  Updated: 2026-06-21T09:55:32Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -1243,7 +1315,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Rose Guitar Ladies Tee](https://foreigner.merchmadeeasy.com/products/rose-guitar-ladies-tee): 65% polyester, 35% viscose ladies scoopneck t-shirt in vintage black Size Chart Size Body Length (in) Chest Width (Laid Flat) S 25 1/4 20 M 25 3/4 21 1/2 L 26 1/2 23 1/2 XL 27 25 1/2 2XL 27 1/2 27 1/2
-  Updated: 2026-06-11T14:01:49Z
+  Updated: 2026-06-19T18:40:23Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -1264,7 +1336,7 @@
     Availability: Available
     Price: $35.00 USD
 - [50th Anniversary Juke Box Tee](https://foreigner.merchmadeeasy.com/products/50th-anniversary-juke-box-tee): 100% ringspun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-15T21:00:39Z
+  Updated: 2026-06-18T00:31:28Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -1288,7 +1360,7 @@
     Availability: Available
     Price: $35.00 USD
 - [50th Anniversary Eagle Zip Hoodie](https://foreigner.merchmadeeasy.com/products/50th-anniversary-eagle-zip-hoodie): 50/50 cotton/poly fleece zip hoodie in heather dark grey Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/4 M 29 22 35 1/4 L 30 24 36 1/4 XL 31 26 37 1/4 2XL 32 28 37 1/4 3XL 33 30 38 1/4
-  Updated: 2026-06-08T23:01:18Z
+  Updated: 2026-06-21T09:55:34Z
   Vendor: Foreigner
   Product Type: Hoodie
   Availability: Available
@@ -1312,21 +1384,21 @@
     Availability: Available
     Price: $70.00 USD
 - [50th Anniversary Eagle Patch Hat](https://foreigner.merchmadeeasy.com/products/50th-anniversary-eagle-patch-hat): 100% cotton twill trucker cap with mesh backing in black with patch design
-  Updated: 2026-06-15T20:29:13Z
+  Updated: 2026-06-18T22:31:04Z
   Vendor: Foreigner
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_0002_166955_1_307083_d.png?v=1770405029
   Price: $35.00 USD
 - [50th Anniversary Juke Box Tote](https://foreigner.merchmadeeasy.com/products/50th-anniversary-juke-box-tote): 100% cotton tote in natural
-  Updated: 2026-06-03T20:47:29Z
+  Updated: 2026-06-19T23:01:21Z
   Vendor: Foreigner
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_0005_166952_1_307080_d.png?v=1770405030
   Price: $25.00 USD
 - [50th Anniversary Ticket Magnet](https://foreigner.merchmadeeasy.com/products/50th-anniversary-ticket-magnet): Didn't get a physical ticket for your Foreigner show? Grab an acrylic Ticket Magnet to remember the concert forever! 5 inches wide
-  Updated: 2026-06-03T20:56:18Z
+  Updated: 2026-06-22T10:27:06Z
   Vendor: Foreigner
   Product Type: Magnet
   Availability: Available
@@ -1339,8 +1411,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_0003_166954_1_307082_d.png?v=1770405029
   Price: $5.00 USD
-- [Foreigner 2026-2027 Calendar](https://foreigner.merchmadeeasy.com/products/foreigner-2026-2027-calendar): Please note: this is a pre-order item and will ship in 2-3 weeks. Celebrate Foreigner all year long with this 18-month wall calendar spanning July 2026-December 2027. Featuring rare photographs of the band members, this calendar brings the energy and presence of Foreigner into your space every day. Perfect for fans and collectors, it combines functionality with premium imagery that captures the essence of one of rock's greatest acts. Display your fandom while staying organized throughout the year.
-  Updated: 2026-06-15T13:41:13Z
+- [Foreigner 2026-2027 Calendar](https://foreigner.merchmadeeasy.com/products/foreigner-2026-2027-calendar): Please note: this is a pre-order item and will ship in 1-2 weeks. Celebrate Foreigner all year long with this 18-month wall calendar spanning July 2026-December 2027. Featuring rare photographs of the band members, this calendar brings the energy and presence of Foreigner into your space every day. Perfect for fans and collectors, it combines functionality with premium imagery that captures the essence of one of rock's greatest acts. Display your fandom while staying organized throughout the year.
+  Updated: 2026-06-19T21:11:35Z
   Vendor: Foreigner
   Product Type: Calendar
   Availability: Available
@@ -1350,13 +1422,13 @@
 ## Collections
 
 - [Home page](https://foreigner.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-23T11:12:45Z
   Total Products: 139
 - [Apparel](https://foreigner.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 69
 - [Accessories](https://foreigner.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-23T11:12:45Z
   Total Products: 62
 - [Music](https://foreigner.merchmadeeasy.com/collections/music)
   Updated: 2026-04-14T20:52:02Z
@@ -1365,13 +1437,13 @@
   Updated: 2026-06-16T11:47:59Z
   Total Products: 16
 - [Tour Merch](https://foreigner.merchmadeeasy.com/collections/tour-merch)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 113
 - [Hot Blooded](https://foreigner.merchmadeeasy.com/collections/hot-blooded)
-  Updated: 2026-06-06T05:05:58Z
+  Updated: 2026-06-16T19:58:23Z
   Total Products: 14
 - [Juke Box Hero](https://foreigner.merchmadeeasy.com/collections/juke-box-hero)
-  Updated: 2026-06-06T05:05:58Z
+  Updated: 2026-06-21T11:11:39Z
   Total Products: 3
 - [Double Vision](https://foreigner.merchmadeeasy.com/collections/double-vision)
   Updated: 2026-06-06T05:06:10Z
@@ -1389,46 +1461,46 @@
   Updated: 2026-06-13T11:10:23Z
   Total Products: 4
 - [Farewell Tour](https://foreigner.merchmadeeasy.com/collections/farewell-tour)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 51
 - [All](https://foreigner.merchmadeeasy.com/collections/all)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-23T11:12:45Z
   Total Products: 143
 - [](https://foreigner.merchmadeeasy.com/collections/)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 47
 - [Best Sellers](https://foreigner.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-23T11:12:45Z
   Total Products: 143
 - [Holiday](https://foreigner.merchmadeeasy.com/collections/holiday)
-  Updated: 2026-06-13T11:10:23Z
+  Updated: 2026-06-23T11:12:45Z
   Total Products: 7
 - [Media](https://foreigner.merchmadeeasy.com/collections/media)
-  Updated: 2026-06-13T11:10:23Z
+  Updated: 2026-06-20T11:12:35Z
   Total Products: 13
 - [Cyber Monday](https://foreigner.merchmadeeasy.com/collections/cyber-monday)
   Updated: 2026-05-19T16:02:07Z
   Total Products: 3
 - [Valentine Collection](https://foreigner.merchmadeeasy.com/collections/valentine-collection)
-  Updated: 2026-05-27T14:36:53Z
+  Updated: 2026-06-16T19:58:37Z
   Total Products: 5
 - [2024 Tour Merch](https://foreigner.merchmadeeasy.com/collections/2024-tour-merch)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 32
 - [4 for $40](https://foreigner.merchmadeeasy.com/collections/4-for-40)
   Updated: 2026-05-19T16:01:56Z
   Total Products: 1
 - [National Vinyl Record Day](https://foreigner.merchmadeeasy.com/collections/national-vinyl-record-day)
-  Updated: 2026-05-27T14:13:25Z
+  Updated: 2026-06-20T11:12:35Z
   Total Products: 9
 - [Coasters](https://foreigner.merchmadeeasy.com/collections/coasters)
   Updated: 2026-05-19T16:02:05Z
   Total Products: 1
 - [Just In](https://foreigner.merchmadeeasy.com/collections/just-in)
-  Updated: 2026-06-06T17:19:57Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 5
 - [Turning Back The Time Collection](https://foreigner.merchmadeeasy.com/collections/turning-back-the-time-collection)
-  Updated: 2026-06-06T17:35:50Z
+  Updated: 2026-06-18T11:12:00Z
   Total Products: 6
 - [The Signed Section](https://foreigner.merchmadeeasy.com/collections/the-signed-section)
   Updated: 2026-06-06T18:22:10Z
@@ -1437,46 +1509,46 @@
   Updated: 2026-04-14T20:52:04Z
   Total Products: 0
 - [Tees](https://foreigner.merchmadeeasy.com/collections/tees)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 52
 - [2025 World Tour Merch](https://foreigner.merchmadeeasy.com/collections/2025-world-tour-merch)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 18
 - [New Arrivals](https://foreigner.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-23T11:12:45Z
   Total Products: 143
 - [Red Stickers](https://foreigner.merchmadeeasy.com/collections/red-stickers)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 21
 - [White Stickers](https://foreigner.merchmadeeasy.com/collections/white-stickers)
-  Updated: 2026-06-13T11:10:23Z
+  Updated: 2026-06-23T11:12:45Z
   Total Products: 13
 - [Blue Stickers](https://foreigner.merchmadeeasy.com/collections/blue-stickers)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 36
 - [Jukebox Hero Collection | Foreigner Official Online Store](https://foreigner.merchmadeeasy.com/collections/jukebox-hero): Shop the full Jukebox Hero Collection including crewnecks, t-shirts and accessories.
-  Updated: 2026-06-04T11:11:40Z
+  Updated: 2026-06-21T11:11:39Z
   Total Products: 8
 - [4 Deluxe](https://foreigner.merchmadeeasy.com/collections/4-deluxe)
   Updated: 2026-06-08T18:35:39Z
   Total Products: 5
 - [EasyGift All Products](https://foreigner.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-23T11:12:45Z
   Total Products: 143
 - [BFCM 2025](https://foreigner.merchmadeeasy.com/collections/bfcm-2025)
-  Updated: 2026-06-14T11:11:22Z
+  Updated: 2026-06-21T11:11:39Z
   Total Products: 8
 - [Stocking Stuffers](https://foreigner.merchmadeeasy.com/collections/stocking-stuffers)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 20
 - [The Love Collection](https://foreigner.merchmadeeasy.com/collections/the-love-collection)
-  Updated: 2026-06-11T11:11:18Z
+  Updated: 2026-06-21T11:11:39Z
   Total Products: 7
 - [2026 Tour Merch](https://foreigner.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 11
 - [Double Vision - BOGO 50%](https://foreigner.merchmadeeasy.com/collections/double-vision-bogo-50): Buy a Foreigner x Lynyrd Skynyrd Tee, Get another tee 50% off! Now through 4/19
-  Updated: 2026-06-16T11:47:59Z
+  Updated: 2026-06-22T11:17:04Z
   Total Products: 10
 
 ## Store Pages
@@ -1493,15 +1565,17 @@
   Updated: 2023-10-06T14:45:31Z
 - [Privacy Policy](https://foreigner.merchmadeeasy.com/pages/privacy-policy): Futureshirts, INC. ("Futureshirts", the "Company," "we," "us," or "our") know that our users care how their personally identifiable information ("I...
   Updated: 2023-10-13T14:24:13Z
+- [Withdrawal form](https://foreigner.merchmadeeasy.com/pages/eu-withdrawal-form)
+  Updated: 2026-06-18T14:51:38Z
 
 ## Policies
 
 - [Privacy Policy](https://foreigner.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2025-05-04T15:40:58-05:00
+  Updated: 2026-06-18T10:00:25-05:00
 - [Shipping Policy](https://foreigner.merchmadeeasy.com/policies/shipping-policy)
   Updated: 2024-02-16T13:45:45-06:00
 - [Refund Policy](https://foreigner.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2024-02-16T13:45:45-06:00
+  Updated: 2026-06-18T10:00:15-05:00
 - [Terms of Service](https://foreigner.merchmadeeasy.com/policies/terms-of-service)
   Updated: 2023-10-13T09:29:36-05:00
 - [Contact Information](https://foreigner.merchmadeeasy.com/policies/contact-information)
