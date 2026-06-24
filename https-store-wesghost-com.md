@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-09-19T18:40:40Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-06-16T19:01:13.017Z
+- Updated At: 2026-06-24T00:00:28.989Z
 
 ## Products
 
@@ -65,13 +65,13 @@
     Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/163725_4_299592_d_1.png?v=1737047686
     Price: $60.00 USD
 - [ROT TEE](https://store.wesghost.com/products/rot-tee): nothing else left, take everything from me 100% heavyweight US cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-06-10T21:11:19Z
+  Updated: 2026-06-21T19:23:07Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/163727_1_299569_blog_739768_1_1.png?v=1749501796
   - [S](https://store.wesghost.com/products/rot-tee?variant=49681032544552)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
   - [M](https://store.wesghost.com/products/rot-tee?variant=49681032577320)
     Availability: Not Available
@@ -89,14 +89,14 @@
     Availability: Not Available
     Price: $30.00 USD
 - [BALACLAVA KEYCHAIN](https://store.wesghost.com/products/balaclava-keychain): it kills me slowly Acrylic keychain
-  Updated: 2026-06-10T21:11:18Z
+  Updated: 2026-06-20T05:54:06Z
   Vendor: WesGhost
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_Balaclava_Keychain.png?v=1736179933
   Price: $10.00 USD
 - [AM I DREAMING? TEE](https://store.wesghost.com/products/am-i-dreaming-tee): do I want her? or do I just want love instead? 100% heavyweight cotton t-shirt in crystal black Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 17 1/2 M 27 19 L 27 20 XL 29 1/2 23 2XL 29 1/2 25
-  Updated: 2026-06-13T20:08:21Z
+  Updated: 2026-06-22T03:59:37Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -138,28 +138,28 @@
     Availability: Not Available
     Price: $40.00 USD
 - [WESGHOST COLLECTIVE PATCH](https://store.wesghost.com/products/wesghost-collective-patch): Woven patch
-  Updated: 2026-06-04T03:54:08Z
+  Updated: 2026-06-21T20:54:38Z
   Vendor: WesGhost
   Product Type: Patch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_Collective_Patch.png?v=1764020764
   Price: $10.00 USD
 - [GHOST EMBROIDERED BEANIE](https://store.wesghost.com/products/ghost-embroidered-beanie): 100% acrylic beanie with embroidered design
-  Updated: 2026-06-16T01:26:13Z
+  Updated: 2026-06-21T18:08:43Z
   Vendor: WesGhost
   Product Type: Beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_0000_166774_1_306753_blog_783967_1.png?v=1770750786
   Price: $25.00 USD
 - [GHOST ACRYLIC KEYCHAIN](https://store.wesghost.com/products/ghost-acrylic-keychain): Acrylic keychain, available in white
-  Updated: 2026-06-16T01:26:12Z
+  Updated: 2026-06-21T20:54:28Z
   Vendor: WesGhost
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_0004_166773_1_306751_blog_782372_4.png?v=1770750782
   Price: $15.00 USD
 - [WESGHOST COLLECTIVE TEE](https://store.wesghost.com/products/wesghost-collective-tee): 100% heavyweight US cotton t-shirt in charcoal grey Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26
-  Updated: 2026-06-16T04:04:55Z
+  Updated: 2026-06-23T22:41:07Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -180,7 +180,7 @@
     Availability: Available
     Price: $30.00 USD
 - [NAILS TEE](https://store.wesghost.com/products/nails-tee): 100% heavyweight US cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26
-  Updated: 2026-06-16T04:04:51Z
+  Updated: 2026-06-22T19:29:59Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -201,28 +201,28 @@
     Availability: Available
     Price: $40.00 USD
 - [BULLET HAT](https://store.wesghost.com/products/bullet-hat): 100% polyester, foam-front/mesh-back 5-panel hat in charcoal grey
-  Updated: 2026-06-16T04:04:55Z
+  Updated: 2026-06-18T19:34:56Z
   Vendor: WesGhost
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESGBulletHat.png?v=1776892934
   Price: $35.00 USD
 - [BULLET BALACLAVA](https://store.wesghost.com/products/bullet-balaclava): 100% acrylic braided knit balaclava in red
-  Updated: 2026-06-16T01:26:14Z
+  Updated: 2026-06-22T19:29:58Z
   Vendor: WesGhost
   Product Type: Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESGRedMask.png?v=1776892934
   Price: $45.00 USD
 - [GHOST STICKER - RED](https://store.wesghost.com/products/ghost-sticker-red): 3" tall die-cut sticker
-  Updated: 2026-06-16T01:26:16Z
+  Updated: 2026-06-21T07:27:26Z
   Vendor: WesGhost
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESGRedLogoSticker.png?v=1776892934
   Price: $5.00 USD
 - [LOGO STICKER - BLACK](https://store.wesghost.com/products/logo-sticker-black): 3" tall die-cut sticker
-  Updated: 2026-06-16T01:26:28Z
+  Updated: 2026-06-21T07:27:37Z
   Vendor: WesGhost
   Product Type: Sticker
   Availability: Available
@@ -235,40 +235,40 @@
   Updated: 2026-04-14T21:03:14Z
   Total Products: 4
 - [Apparel](https://store.wesghost.com/collections/apparel)
-  Updated: 2026-06-16T11:46:00Z
+  Updated: 2026-06-23T11:20:35Z
   Total Products: 16
 - [Accessories](https://store.wesghost.com/collections/accessories)
-  Updated: 2026-06-16T11:46:00Z
+  Updated: 2026-06-23T11:20:35Z
   Total Products: 18
 - [All](https://store.wesghost.com/collections/all)
-  Updated: 2026-06-16T11:46:00Z
+  Updated: 2026-06-23T11:20:35Z
   Total Products: 39
 - [Don't Worry, I'll Be Fine Tour Merch](https://store.wesghost.com/collections/dont-worry-ill-be-fine-tour-merch)
   Updated: 2026-06-06T15:51:41Z
   Total Products: 6
 - [Hats](https://store.wesghost.com/collections/hats)
-  Updated: 2026-06-16T11:46:00Z
+  Updated: 2026-06-22T11:16:36Z
   Total Products: 4
 - [Music](https://store.wesghost.com/collections/music)
   Updated: 2024-09-30T15:06:24Z
   Total Products: 0
 - [ROT](https://store.wesghost.com/collections/rot)
-  Updated: 2026-06-11T11:18:49Z
+  Updated: 2026-06-22T11:16:36Z
   Total Products: 4
 - [Am I Dreaming? Collection](https://store.wesghost.com/collections/am-i-dreaming-collection)
-  Updated: 2026-06-14T11:17:08Z
+  Updated: 2026-06-22T11:16:36Z
   Total Products: 7
 - [2025 Tour](https://store.wesghost.com/collections/2025-tour)
-  Updated: 2026-06-16T11:46:00Z
+  Updated: 2026-06-22T11:16:36Z
   Total Products: 9
 - [Chokehold](https://store.wesghost.com/collections/chokehold)
-  Updated: 2026-06-16T11:46:00Z
+  Updated: 2026-06-22T11:16:36Z
   Total Products: 4
 - [2026 Tour](https://store.wesghost.com/collections/2026-tour)
-  Updated: 2026-06-16T11:46:00Z
+  Updated: 2026-06-23T11:20:35Z
   Total Products: 6
 - [GHOSTCORE.](https://store.wesghost.com/collections/ghostcore)
-  Updated: 2026-06-16T11:46:00Z
+  Updated: 2026-06-23T11:20:35Z
   Total Products: 7
 
 ## Store Pages
@@ -277,15 +277,17 @@
   Updated: 2023-09-19T18:40:42Z
 - [Your Privacy Choices](https://store.wesghost.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-28T15:45:14Z
+- [Withdrawal form](https://store.wesghost.com/pages/eu-withdrawal-form)
+  Updated: 2026-06-19T14:37:01Z
 
 ## Policies
 
 - [Privacy Policy](https://store.wesghost.com/policies/privacy-policy)
-  Updated: 2025-06-24T12:24:30-05:00
+  Updated: 2026-06-19T09:52:05-05:00
 - [Shipping Policy](https://store.wesghost.com/policies/shipping-policy)
   Updated: 2024-09-18T13:07:37-05:00
 - [Refund Policy](https://store.wesghost.com/policies/refund-policy)
-  Updated: 2024-09-18T13:07:29-05:00
+  Updated: 2026-06-19T09:45:55-05:00
 - [Terms of Service](https://store.wesghost.com/policies/terms-of-service)
   Updated: 2024-09-18T13:07:18-05:00
 - [Contact Information](https://store.wesghost.com/policies/contact-information)
