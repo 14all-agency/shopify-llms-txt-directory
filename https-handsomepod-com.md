@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2023-10-04T15:04:02Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-06-12T19:40:34.316Z
+- Updated At: 2026-06-24T00:00:34.333Z
 
 ## Products
 
 - [Handsome Tote](https://handsomepod.com/products/handsome-tote): 100% cotton tote bag in black
-  Updated: 2026-06-11T21:34:48Z
+  Updated: 2026-06-23T12:11:37Z
   Vendor: Handsome Podcast
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSM_0000_160458_1_291960_d.png?v=1699376074
   Price: $25.00 USD
 - [Pretty Little Lady Crewneck](https://handsomepod.com/products/pretty-little-lady-crewneck): 100% cotton-faced exterior crewneck, made from a 65/35 cotton/polyester blend in natural Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 20 23 1/2 M 28 21 24 L 29 23 24 XL 30 25 24 2XL 31 26 1/2 24 3XL 32 28 24
-  Updated: 2026-06-11T20:43:58Z
+  Updated: 2026-06-23T23:20:18Z
   Vendor: Handsome Podcast
   Product Type: Crewneck
   Availability: Available
@@ -42,21 +42,14 @@
     Availability: Available
     Price: $60.00 USD
 - [Lil Cowboy Hat](https://handsomepod.com/products/lil-cowboy-hat): 100% cotton twill, low profile hat in brown
-  Updated: 2026-06-10T21:51:37Z
+  Updated: 2026-06-21T13:37:07Z
   Vendor: Handsome Podcast
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSMlilcowboyhatfront.png?v=1704395616
   Price: $30.00 USD
-- [Tig Sticker](https://handsomepod.com/products/tig-sticker): Happy Birthday Tig! Sticker only available as a free gift with purchase! 3.5" inch wide vinyl sticker
-  Updated: 2026-06-11T14:36:04Z
-  Vendor: Handsome Podcast
-  Product Type: Stickers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSMTigSticker.png?v=1710968883
-  Price: $4.00 USD
 - [Keep It Handsome Tank](https://handsomepod.com/products/keep-it-handsome-tank): S-XL: 52% Airlume combed and ring-spun cotton, 48% poly, 2XL-4XL: 50/50 cotton/poly. Tanks come in dark heather Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-11T19:08:47Z
+  Updated: 2026-06-21T12:11:56Z
   Vendor: Handsome Podcast
   Product Type: Tank Top
   Availability: Available
@@ -74,7 +67,7 @@
     Availability: Available
     Price: $35.00 USD
   - [2XL](https://handsomepod.com/products/keep-it-handsome-tank?variant=41299351142502)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [3XL](https://handsomepod.com/products/keep-it-handsome-tank?variant=41299351175270)
     Availability: Not Available
@@ -83,28 +76,28 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Keep It Handsome Trucker Hat](https://handsomepod.com/products/keep-it-handsome-trucker-hat): 5-panel, mid-profile mesh back trucker hat in white/black
-  Updated: 2026-06-11T23:39:09Z
+  Updated: 2026-06-22T03:25:08Z
   Vendor: Handsome Podcast
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSMTruckerHat.png?v=1714162835
   Price: $30.00 USD
 - [Fortune Sticker](https://handsomepod.com/products/fortune-sticker): Happy Birthday Fortune! Sticker only available as a free gift with purchase! 3.5" inch tall vinyl sticker
-  Updated: 2026-06-11T14:52:37Z
+  Updated: 2026-06-23T19:59:37Z
   Vendor: Handsome Podcast
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSMFortuneSticker.png?v=1719847565
   Price: $4.00 USD
 - [Keep It Handsome Mug](https://handsomepod.com/products/keep-it-handsome-mug): 14oz ceramic mug, printed on both sides Dishwasher-safe but hand-wash recommended
-  Updated: 2026-06-11T23:39:08Z
+  Updated: 2026-06-22T02:35:47Z
   Vendor: Handsome Podcast
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSMKeepItHandsomeMug.png?v=1719847983
   Price: $25.00 USD
 - [Yeah Ghost Tee](https://handsomepod.com/products/yeah-ghost-tee): 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-05T21:00:11Z
+  Updated: 2026-06-15T03:48:16Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -122,13 +115,13 @@
     Availability: Available
     Price: $35.00 USD
   - [2XL](https://handsomepod.com/products/yeah-ghost-tee?variant=42132622147686)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [3XL](https://handsomepod.com/products/yeah-ghost-tee?variant=42132622180454)
     Availability: Available
     Price: $35.00 USD
 - [Keep It Handsome Hoodie](https://handsomepod.com/products/keep-it-handsome-hoodie): May take up to one week to ship 50/50 cotton/poly fleece hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 5/8 3XL 33 30 38 1/8
-  Updated: 2026-06-11T04:23:58Z
+  Updated: 2026-06-22T14:51:07Z
   Vendor: Handsome Podcast
   Product Type: Hoodie
   Availability: Available
@@ -152,7 +145,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Keep It Handsome Sweatpants](https://handsomepod.com/products/keep-it-handsome-sweatpants): 50/50 cotton/poly fleece sweatpants in black Size Chart Size Inseam (in) Waist (Laid Flat) S 29 3/4 13 3/4 M 30 15 1/4 L 30 1/4 16 3/4 XL 30 1/2 18 1/4 2XL 30 1/2 19 1/4 3XL 30 3/4 21 1/4
-  Updated: 2026-06-01T15:22:12Z
+  Updated: 2026-06-18T01:21:06Z
   Vendor: Handsome Podcast
   Product Type: Sweatpants
   Availability: Available
@@ -230,7 +223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSM_Pahnties_2-Pack.png?v=1738865531
     Price: $35.00 USD
 - [Handsome Ringer Tee](https://handsomepod.com/products/handsome-ringer-tee): 100% cotton ringer t-shirt in White with Navy Blue sleeve details Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-06T12:53:58Z
+  Updated: 2026-06-19T04:00:53Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -254,7 +247,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Lil Cowboy Zip Hoodie](https://handsomepod.com/products/lil-cowboy-zip-hoodie): 50/50 cotton/poly fleece zip-up hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 5/8 3XL 33 30 38 1/8
-  Updated: 2026-06-11T11:56:49Z
+  Updated: 2026-06-19T17:02:49Z
   Vendor: Handsome Podcast
   Product Type: Hoodie
   Availability: Available
@@ -278,7 +271,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Yeah Ghost Crewneck](https://handsomepod.com/products/yeah-ghost-crewneck): 50/50 cotton/poly fleece hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 5/8 3XL 33 30 38 1/8
-  Updated: 2026-05-27T00:14:07Z
+  Updated: 2026-06-21T08:23:37Z
   Vendor: Handsome Podcast
   Product Type: Crewneck
   Availability: Available
@@ -302,7 +295,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Names Tee](https://handsomepod.com/products/names-tee): 100% ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-06-11T20:43:51Z
+  Updated: 2026-06-22T14:49:42Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -326,7 +319,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Put That on the List Notepad](https://handsomepod.com/products/put-it-on-the-list-notepad): 3x9" notepad with 50 sheets of paper
-  Updated: 2026-06-11T23:39:07Z
+  Updated: 2026-06-22T02:35:49Z
   Vendor: Handsome Podcast
   Product Type: Stationery
   Availability: Available
@@ -340,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HDSM_Bumper_Sticker.png?v=1762203674
   Price: $8.00 USD
 - [Peanut Butter B*tch Tee](https://handsomepod.com/products/peanut-butter-b-tch-tee): 100% ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-06-01T19:55:31Z
+  Updated: 2026-06-19T18:30:11Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -364,7 +357,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Party Kisser Tee](https://handsomepod.com/products/party-kisser-tee): 90/10 cotton/polyester t-shirt in sport grey Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-06-10T21:02:38Z
+  Updated: 2026-06-14T19:51:32Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -376,7 +369,7 @@
     Availability: Not Available
     Price: $35.00 USD
   - [L](https://handsomepod.com/products/party-kisser-tee?variant=44843870814310)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XL](https://handsomepod.com/products/party-kisser-tee?variant=44843870847078)
     Availability: Not Available
@@ -387,8 +380,8 @@
   - [3XL](https://handsomepod.com/products/party-kisser-tee?variant=44843870912614)
     Availability: Not Available
     Price: $35.00 USD
-- [Keep It Handsome Tie Dye Tee](https://handsomepod.com/products/keep-it-handsome-tie-dye-tee): Please note: orders containing this item will ship mid-June 100% cotton, heavyweight pre-shrunk t-shirt in rainbow tie dye Size Chart Size Body Length (in) Chest Width (in) S 27 17 M 28 19 L 29 20 XL 29 1/2 22 2XL 30 25 3XL 30 26
-  Updated: 2026-06-11T14:36:07Z
+- [Keep It Handsome Tie Dye Tee](https://handsomepod.com/products/keep-it-handsome-tie-dye-tee): 100% cotton, heavyweight pre-shrunk t-shirt in rainbow tie dye Size Chart Size Body Length (in) Chest Width (in) S 27 17 M 28 19 L 29 20 XL 29 1/2 22 2XL 30 25 3XL 30 26
+  Updated: 2026-06-23T18:53:55Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -411,8 +404,8 @@
   - [3XL](https://handsomepod.com/products/keep-it-handsome-tie-dye-tee?variant=45647126724710)
     Availability: Available
     Price: $40.00 USD
-- [Handsome Muscle Tank](https://handsomepod.com/products/handsome-muscle-tank): Please note: orders containing this item will ship mid-June 100% heavyweight cotton muscle tank in faded black Size Chart Size Body Length (in) Chest Width (in) S 25 19 M 26 20 L 27 22 XL 28 24 2XL 29 26 3XL 30 28
-  Updated: 2026-06-11T16:11:39Z
+- [Handsome Muscle Tank](https://handsomepod.com/products/handsome-muscle-tank): 100% heavyweight cotton muscle tank in faded black Size Chart Size Body Length (in) Chest Width (in) S 25 19 M 26 20 L 27 22 XL 28 24 2XL 29 26 3XL 30 28
+  Updated: 2026-06-23T18:53:44Z
   Vendor: Handsome Podcast
   Product Type: Tank Top
   Availability: Available
@@ -435,15 +428,15 @@
   - [3XL](https://handsomepod.com/products/handsome-muscle-tank?variant=45647140061286)
     Availability: Available
     Price: $40.00 USD
-- [Upside Down Trucker Hat](https://handsomepod.com/products/upside-down-trucker-hat): Please note: orders containing this item will ship mid-June 5-panel, mid-profile mesh back trucker hat in green
-  Updated: 2026-06-09T00:17:34Z
+- [Upside Down Trucker Hat](https://handsomepod.com/products/upside-down-trucker-hat): 5-panel, mid-profile mesh back trucker hat in green
+  Updated: 2026-06-22T19:22:43Z
   Vendor: Handsome Podcast
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HDSM_Upside_Hat.png?v=1779459974
   Price: $40.00 USD
-- [Handsome Rainbow Bandana](https://handsomepod.com/products/handsome-rainbow-bandana): Please note: orders containing this item will ship mid-June 22x22" cotton bandana with a rainbow gradient
-  Updated: 2026-06-11T16:31:31Z
+- [Handsome Rainbow Bandana](https://handsomepod.com/products/handsome-rainbow-bandana): 22x22" cotton bandana with a rainbow gradient
+  Updated: 2026-06-19T13:37:20Z
   Vendor: Handsome Podcast
   Product Type: Bandana
   Availability: Available
@@ -453,46 +446,46 @@
 ## Collections
 
 - [Home Page](https://handsomepod.com/collections/frontpage)
-  Updated: 2026-06-12T11:17:38Z
+  Updated: 2026-06-23T11:16:23Z
   Total Products: 41
 - [Apparel](https://handsomepod.com/collections/apparel)
-  Updated: 2026-06-12T11:17:38Z
+  Updated: 2026-06-23T11:16:23Z
   Total Products: 24
 - [Accessories](https://handsomepod.com/collections/accessories)
-  Updated: 2026-06-12T11:17:38Z
+  Updated: 2026-06-23T11:16:23Z
   Total Products: 20
 - [All](https://handsomepod.com/collections/all)
-  Updated: 2026-06-12T11:17:38Z
-  Total Products: 48
+  Updated: 2026-06-23T11:16:23Z
+  Total Products: 47
 - [New](https://handsomepod.com/collections/new)
-  Updated: 2026-06-08T08:47:58Z
+  Updated: 2026-06-20T11:15:03Z
   Total Products: 3
 - [Best Sellers](https://handsomepod.com/collections/best-sellers)
-  Updated: 2026-06-12T11:17:38Z
-  Total Products: 43
+  Updated: 2026-06-23T11:16:23Z
+  Total Products: 47
 - [Pride](https://handsomepod.com/collections/pride-2024)
-  Updated: 2026-06-12T11:17:38Z
+  Updated: 2026-06-23T11:16:23Z
   Total Products: 5
 - [Handsome Coffee Collection](https://handsomepod.com/collections/handsome-coffee-collection)
-  Updated: 2026-06-12T11:17:38Z
+  Updated: 2026-06-22T11:18:39Z
   Total Products: 2
 - [More For You](https://handsomepod.com/collections/more-for-you)
   Updated: 2026-06-08T11:06:53Z
   Total Products: 1
 - [Pride Outfit Ideas](https://handsomepod.com/collections/pride-outfit-ideas)
-  Updated: 2026-06-12T11:17:38Z
+  Updated: 2026-06-23T11:16:23Z
   Total Products: 10
 - [EasyGift All Products](https://handsomepod.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-06-12T11:17:38Z
+  Updated: 2026-06-23T11:16:23Z
   Total Products: 48
 - [Handsome Halloween](https://handsomepod.com/collections/handsome-halloween)
-  Updated: 2026-06-12T11:17:38Z
+  Updated: 2026-06-21T11:14:24Z
   Total Products: 3
 - [Sample ](https://handsomepod.com/collections/sample)
-  Updated: 2026-06-12T11:17:38Z
+  Updated: 2026-06-23T11:16:23Z
   Total Products: 7
 - [Party Kisser](https://handsomepod.com/collections/party-kisser)
-  Updated: 2026-06-11T11:18:43Z
+  Updated: 2026-06-15T11:19:05Z
   Total Products: 3
 
 ## Store Pages
@@ -503,15 +496,17 @@
   Updated: 2026-01-28T15:25:08Z
 - [Tour](https://handsomepod.com/pages/tour)
   Updated: 2025-01-16T15:40:28Z
+- [Withdrawal form](https://handsomepod.com/pages/eu-withdrawal-form)
+  Updated: 2026-06-17T21:45:12Z
 
 ## Policies
 
 - [Privacy Policy](https://handsomepod.com/policies/privacy-policy)
-  Updated: 2025-05-20T16:48:51-05:00
+  Updated: 2026-06-18T13:25:27-05:00
 - [Shipping Policy](https://handsomepod.com/policies/shipping-policy)
   Updated: 2024-02-16T16:15:48-06:00
 - [Refund Policy](https://handsomepod.com/policies/refund-policy)
-  Updated: 2026-06-12T10:01:46-05:00
+  Updated: 2026-06-18T09:59:42-05:00
 - [Terms of Service](https://handsomepod.com/policies/terms-of-service)
   Updated: 2024-02-16T16:15:28-06:00
 - [Contact Information](https://handsomepod.com/policies/contact-information)
