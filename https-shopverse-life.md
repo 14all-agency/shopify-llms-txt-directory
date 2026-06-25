@@ -2,7 +2,7 @@
 
 > ShopVerse is a modern eCommerce store specializing in lifestyle products, home improvement solutions, wellness accessories, personal care items, innovative gadgets, and practical everyday essentials. Customers choose ShopVerse for curated products that improve comfort, organization, productivity, relaxation, and overall quality of life. The company's mission is to provide affordable, useful, and trending products that bring value to homes and daily routines.
 
-- Updated At: 2026-06-09T22:21:06.178Z
+- Updated At: 2026-06-25T00:00:38.789Z
 
 ## Products
 
@@ -2039,7 +2039,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/3464/6104/files/Sc8f4850018714238ac0d994eeead5aaaD.webp?v=1779816519
     Price: $72.34 USD
 - [100% Linen Short Sleeve Shirt for Men Breathable Summer Casual Top Minimalist Loose Fit Button-Up Shirt  Natural Wrinkle Texture](https://shopverse.life/products/100-linen-short-sleeve-shirt-for-men-breathable-summer-casual-top-minimalist-loose-fit-button-up-shirt-natural-wrinkle-texture): SPECIFICATIONSApplicable Scene: OfficeApplicable Season: Four SeasonsBrand: HankanonBrand Name: NONECN: ShanghaiClosure Type: Single BreastedCollar: Turn-Down CollarCraft of Weaving: TattingFabric Type: BroadclothGender: MenHigh-concerned chemical: NoneItem Type: SHIRTSMaterial: LinenMeasurement: Measuerd Lying Flat, There Can Be 1~3cm Differences.Origin: Mainland ChinaPattern Type: SolidPlace Of Origin: China (mainland)Shirts Type: Casual ShirtsSizes: M,L,XL,XXL,XXXLSleeve Length(cm): Short (4 - 16 Inch)Sleeve Style: regularStyle: Casualsize_info: {"sizeInfoList":[{"length":{"cm":"98","inch":"38.58"},"size":"M - fits 48-60kg","vid":-1},{"length":{"cm":"102","inch":"40.16"},"size":"L - fits 60-70kg","vid":-2},{"length":{"cm":"106","inch":"41.73"},"size":"XL - fits 70-80kg","vid":-3},{"length":{"cm":"110","inch":"43.31"},"size":"XXL - fits 80-90kg","vid":-4},{"length":{"cm":"114","inch":"44.88"},"size":"3XL - fits 90-95kg","vid":-5}]}whether full opening: Yes
-  Updated: 2026-06-01T17:44:42Z
+  Updated: 2026-06-18T04:43:19Z
   Vendor: Walter Store
   Product Type: 
   Availability: Available
