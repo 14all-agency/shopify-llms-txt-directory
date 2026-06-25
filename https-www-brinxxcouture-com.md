@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-05-26T00:00:49.859Z
+- Updated At: 2026-06-25T00:00:49.816Z
 
 ## Products
 
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Versace-Bright-Crystal-Eau-De-Toilette-Brinxx-Couture-1268.jpg?v=1739985112
     Price: $130.00 USD
 - [Lux Mesh Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/lux-mesh-bodycon-dress): Elevate your style with the Lux Mesh Bodycon Dress, featuring a layered mesh lining and a flattering V-neck. It's bubble sleeves add a touch of drama.
-  Updated: 2026-04-01T16:56:10Z
+  Updated: 2026-06-19T13:12:29Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -43,7 +43,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lux-Mesh-Bodycon-Dress-Brinxx-Couture-320.jpg?v=1739985178
     Price: $49.99 USD
   - [L](https://www.brinxxcouture.com/products/lux-mesh-bodycon-dress?variant=41811281248438)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lux-Mesh-Bodycon-Dress-Brinxx-Couture-320.jpg?v=1739985178
     Price: $49.99 USD
 - [Rib Knit Houndstooth Top And Skirt Set - Brinxx Couture](https://www.brinxxcouture.com/products/rib-knit-houndstooth-top-and-skirt-set): Create a stylish look with this contemporary Rib Knit Top and Skirt Set. Perfect for a dinner date or an evening out, this set features rib knit fabric.
@@ -62,7 +62,7 @@
     Availability: Not Available
     Price: $49.99 USD
 - [Floral Sweetheart Top - Brinxx Couture](https://www.brinxxcouture.com/products/floral-sweetheart-top): Be effortlessly chic in this beautiful floral sweetheart top. Crafted in a lightweight material, this piece is designed to flatter your silhouette. Ships Free!
-  Updated: 2026-05-05T11:31:27Z
+  Updated: 2026-06-12T13:33:46Z
   Vendor: Brinxx Couture
   Product Type: Default
   Availability: Available
@@ -72,7 +72,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-Sweetheart-Top-Brinxx-Couture-7410.jpg?v=1739985197
     Price: $39.99 USD
   - [M](https://www.brinxxcouture.com/products/floral-sweetheart-top?variant=41811525304502)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-Sweetheart-Top-Brinxx-Couture-7410.jpg?v=1739985197
     Price: $39.99 USD
   - [L](https://www.brinxxcouture.com/products/floral-sweetheart-top?variant=41811525337270)
@@ -220,7 +220,7 @@
     Availability: Available
     Price: $34.99 USD
 - [Long Sleeve Midi Dress With Low V Neck Front And Back With Ruching On Sides And Chest](https://www.brinxxcouture.com/products/cap2-24-cd2784-id-55569): Elevate your style with this gorgeous Long Sleeve Midi Dress - featuring a low V-neck front and back, ruching on sides and chest, in black. 🖤
-  Updated: 2026-04-28T11:32:57Z
+  Updated: 2026-06-07T12:28:46Z
   Vendor: Brinxx Couture
   Product Type: Default
   Availability: Available
@@ -272,24 +272,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Knit-Slit-Tank-Dress-and-Bolero-Set-Brinxx-Couture-1117.jpg?v=1739986656
     Price: $40.00 USD
-- [Faux Leather Sleeveless Cropped Top - Brinxx Couture](https://www.brinxxcouture.com/products/faux-leather-sleeveless-cropped-top): Elevate your style with this Faux Leather Sleeveless Cropped Top. Its sleek, fitted design enhances your silhouette while the high-quality faux leather.
-  Updated: 2026-05-19T13:25:27Z
-  Vendor: Brinxx Couture
-  Product Type: Default
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Faux-Leather-Sleeveless-Cropped-Top-Brinxx-Couture-9756.jpg?v=1739986808
-  - [S](https://www.brinxxcouture.com/products/faux-leather-sleeveless-cropped-top?variant=41951392465078)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Faux-Leather-Sleeveless-Cropped-Top-Brinxx-Couture-6498.jpg?v=1739986812
-    Price: $39.00 USD
-  - [M](https://www.brinxxcouture.com/products/faux-leather-sleeveless-cropped-top?variant=41951392497846)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Faux-Leather-Sleeveless-Cropped-Top-Brinxx-Couture-6498.jpg?v=1739986812
-    Price: $39.00 USD
-  - [L](https://www.brinxxcouture.com/products/faux-leather-sleeveless-cropped-top?variant=41951392530614)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Faux-Leather-Sleeveless-Cropped-Top-Brinxx-Couture-6498.jpg?v=1739986812
-    Price: $39.00 USD
 - [Black Knit Tank 3 Piece Set with Duster](https://www.brinxxcouture.com/products/mis2-24-mc004-1-id-55968b-1): knit tank top, pants and duster 3 piece set 95% Polyester 2% Metallic 3% Spandex
   Updated: 2026-04-01T16:56:15Z
   Vendor: Brinxx Couture
@@ -336,21 +318,21 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Horizontal-Ribbed-Sweater-Brinxx-Couture-5914.jpg?v=1739987523
     Price: $27.00 USD
 - [Ruffled Flounce Sleeve V-Neck Belted Dress](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress): Shop our Ruffled Flounce Sleeve V-Neck Belted Dress | Casual style with buttoned detail and flattering belted waist | Multiple sizes available - [Store Name]
-  Updated: 2026-04-01T16:56:16Z
+  Updated: 2026-06-15T02:20:33Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
   - [Green / S](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524425910)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
     Price: $28.00 USD
   - [Green / M](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524458678)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
     Price: $28.00 USD
   - [Green / L](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524491446)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
     Price: $28.00 USD
   - [Green / XL](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524524214)
@@ -358,7 +340,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
     Price: $28.00 USD
   - [Magenta / S](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524556982)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-6099.jpg?v=1739987617
     Price: $28.00 USD
   - [Magenta / M](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524589750)
@@ -374,7 +356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-6099.jpg?v=1739987617
     Price: $28.00 USD
 - [Textured High Waist Yoga Pants - Brinxx Couture](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings): Elevate your yoga practice with our Textured High Waist Yoga Pants. The high waist provides support while the textured fabric adds a touch of style. Move with confidence and comfort, while enhancing your silhouette. Perfect for any active lifestyle.
-  Updated: 2026-05-24T04:24:48Z
+  Updated: 2026-06-22T02:50:57Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -524,7 +506,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Straight-Synthetic-Wig-26-Brinxx-Couture-3851.jpg?v=1739988465
   Price: $33.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2026-04-19T10:10:49Z
+  Updated: 2026-06-23T02:50:54Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -678,11 +660,11 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7754.jpg?v=1739988679
     Price: $31.00 USD
   - [Salmon / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462238390)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7754.jpg?v=1739988679
     Price: $31.00 USD
   - [Salmon / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462271158)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7754.jpg?v=1739988679
     Price: $31.00 USD
   - [Salmon / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462303926)
@@ -714,7 +696,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7134.jpg?v=1709270849
     Price: $31.00 USD
   - [Purple / M](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462533302)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7134.jpg?v=1709270849
     Price: $31.00 USD
   - [Purple / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462566070)
@@ -792,7 +774,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sterling-Silver-Cross-Moissanite-Necklace-Brinxx-Couture-8258.jpg?v=1709274798
   Price: $99.99 USD
 - [Fringe Hem Short Sleeve Deep V Cover Up Dress](https://www.brinxxcouture.com/products/fringe-hem-short-sleeve-deep-v-cover-up-dress): Wrap yourself in style with our Fringe Hem Cover Up Dress! Short sleeves, openwork neckline, slightly stretchy, and made of 100% polyester. Perfect for any occasion!
-  Updated: 2026-05-05T11:39:26Z
+  Updated: 2026-06-17T20:36:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -810,7 +792,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Hem-Short-Sleeve-Deep-V-Cover-Up-Dress-Brinxx-Couture-9282.jpg?v=1709275108
     Price: $27.00 USD
 - [Fringe Trim Button-Up Shirt Dress](https://www.brinxxcouture.com/products/fringe-trim-button-up-shirt-dress): Fringe Trim Button-Up Shirt Dress. Long sleeves & collared neckline contrast the fringed hem on this statement dress. Hand wash cold.
-  Updated: 2026-05-08T06:54:27Z
+  Updated: 2026-06-18T03:34:59Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -924,7 +906,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Cutout-Tied-Backless-Bikini-Set-Brinxx-Couture-3496.jpg?v=1709279890
     Price: $25.00 USD
 - [Chain Strap Cropped Cami](https://www.brinxxcouture.com/products/chain-strap-cropped-cami): Add a touch of glam to your wardrobe with our Chain Strap Cropped Cami. Perfectly combined chain neckline, spaghetti straps, and cropped length - a must-have for every fashion-forward individual. SEO optimized.
-  Updated: 2026-05-18T03:20:56Z
+  Updated: 2026-06-18T01:53:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1047,7 +1029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Rainbow-Stripe-Openwork-Long-Sleeve-Cover-Up-Brinxx-Couture-6679.jpg?v=1709285910
     Price: $29.00 USD
 - [Fringe Trim Flare Sleeve Openwork Cover Up](https://www.brinxxcouture.com/products/fringe-trim-flare-sleeve-openwork-cover-up): Get beach-ready in style with our Fringe Trim Flare Sleeve Openwork Cover Up. Slightly stretchy with a sheer finish, this polyester stunner comes in S to XL sizes. #BrinxxCouture #CoverUp #BeachWear
-  Updated: 2026-04-01T16:56:24Z
+  Updated: 2026-06-18T01:32:24Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1081,7 +1063,7 @@
     Availability: Available
     Price: $28.00 USD
 - [Crisscross Halter Neck Openwork Cover-Up Dress](https://www.brinxxcouture.com/products/crisscross-halter-neck-openwork-cover-up-dress): Get ready for summer in this sexy crisscross halter cover-up dress! Perfect for the beach or pool, shop now at Brinxx Couture.
-  Updated: 2026-04-01T16:56:24Z
+  Updated: 2026-06-18T08:38:08Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1137,7 +1119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Contrast-Fringe-Trim-Cover-Up-Dress-Brinxx-Couture-1909.jpg?v=1709286506
     Price: $33.00 USD
 - [Long Sleeve Round Neck Openwork Cover-Up](https://www.brinxxcouture.com/products/long-sleeve-round-neck-openwork-cover-up): Cover up in style with our Long Sleeve Openwork Cover-Up! Perfect for any occasion. Get affordable, stylish women's clothing at Brinxx Couture.
-  Updated: 2026-04-01T16:56:24Z
+  Updated: 2026-06-16T03:37:05Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1303,7 +1285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Round-Neck-Openwork-Cover-Up-Brinxx-Couture-2363.jpg?v=1709837973
     Price: $29.00 USD
 - [Side Slit Plunge Openwork Cover-Up](https://www.brinxxcouture.com/products/side-slit-plunge-openwork-cover-up): Be effortlessly chic in our Side Slit Openwork Cover-Up. V-neck, short sleeves, sheer and slightly stretchy. Perfect for beach days! #BrinxxCouture
-  Updated: 2026-04-01T16:56:24Z
+  Updated: 2026-06-17T21:37:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1327,84 +1309,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Swim-Cover-Up-Brinxx-Couture-7824.jpg?v=1709286797
   Price: $31.00 USD
-- [Adjustable Strap Zip-Up Shaping Bodysuit](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit): Shape up and zip up with our Adjustable Strap Shaping Bodysuit! Look stunning while staying comfortable. Get yours now at Brinxx Couture.
-  Updated: 2026-04-01T16:56:25Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-  - [Black / S](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113235910838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-8310.jpg?v=1709287528
-    Price: $28.00 USD
-  - [Black / M](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113235943606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-8310.jpg?v=1709287528
-    Price: $28.00 USD
-  - [Black / L](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113235976374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-8310.jpg?v=1709287528
-    Price: $28.00 USD
-  - [Black / XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236009142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-8310.jpg?v=1709287528
-    Price: $28.00 USD
-  - [Black / 2XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236041910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-8310.jpg?v=1709287528
-    Price: $28.00 USD
-  - [Black / 3XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236074678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-8310.jpg?v=1709287528
-    Price: $28.00 USD
-  - [Black / 4XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236107446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-8310.jpg?v=1709287528
-    Price: $28.00 USD
-  - [Black / 5XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236140214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-8310.jpg?v=1709287528
-    Price: $28.00 USD
-  - [Black / 6XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236172982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-8310.jpg?v=1709287528
-    Price: $28.00 USD
-  - [Apricot / S](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236205750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-    Price: $28.00 USD
-  - [Apricot / M](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236238518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-    Price: $28.00 USD
-  - [Apricot / L](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236271286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-    Price: $28.00 USD
-  - [Apricot / XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236304054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-    Price: $28.00 USD
-  - [Apricot / 2XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236336822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-    Price: $28.00 USD
-  - [Apricot / 3XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236369590)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-    Price: $28.00 USD
-  - [Apricot / 4XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236402358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-    Price: $28.00 USD
-  - [Apricot / 5XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236435126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-    Price: $28.00 USD
-  - [Apricot / 6XL](https://www.brinxxcouture.com/products/full-size-adjustable-strap-zip-up-shaping-bodysuit?variant=42113236467894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Adjustable-Strap-Zip-Up-Shaping-Bodysuit-Brinxx-Couture-862.jpg?v=1709287387
-    Price: $28.00 USD
 - [Full Size Spliced Lace Pull-On Shaping Shorts](https://www.brinxxcouture.com/products/full-size-spliced-lace-pull-on-shaping-shorts): Flaunt your legs with our Full Size Spliced Lace Shorts! Shape and style in one, shop now at www.brinxxcouture.com.
   Updated: 2026-04-01T16:56:25Z
   Vendor: Brinxx Couture
@@ -1568,7 +1472,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Waisted-Pull-On-Shaping-Shorts-Brinxx-Couture-7501.jpg?v=1709287762
     Price: $34.00 USD
 - [Full Size Scalloped Lace Trim Pull-On Shaping Shorts](https://www.brinxxcouture.com/products/full-size-scalloped-lace-trim-pull-on-shaping-shorts): Get ready to strut your stuff in our Full Size Scalloped Lace Trim Shaping Shorts! Hand wash cold. Available in sizes S-6XL. Only at Brinxx Couture.
-  Updated: 2026-04-01T16:56:26Z
+  Updated: 2026-06-18T01:51:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1757,7 +1661,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Hip-Lifting-Shaping-Shorts-Brinxx-Couture-684.jpg?v=1709288289
     Price: $29.00 USD
 - [Lace Detail Zip-Up Under-Bust Shaping Bodysuit](https://www.brinxxcouture.com/products/full-size-lace-detail-zip-up-under-bust-shaping-bodysuit): Shape your curves in style with our Lace Detail Zip-Up Bodysuit. Minimalist design with under-bust shaping. Available in full size run. Shop now at Brinxx Couture.
-  Updated: 2026-04-01T16:56:27Z
+  Updated: 2026-06-17T23:30:05Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1955,7 +1859,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Spaghetti-Strap-Lace-Trim-Shaping-Bodysuit-Brinxx-Couture-8701.jpg?v=1709288525
     Price: $39.00 USD
 - [Cutout Under-Bust Shaping Bodysuit - Brinxx Couture](https://www.brinxxcouture.com/products/full-size-cutout-under-bust-shaping-bodysuit): Shape up your wardrobe with our Cutout Under-Bust Shaping Bodysuit! Zipper closure, slightly stretchy and available in sizes S-6XL. Shop now at Brinxx Couture!
-  Updated: 2026-04-01T16:56:27Z
+  Updated: 2026-06-18T00:30:13Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1997,7 +1901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cutout-Under-Bust-Shaping-Bodysuit-Brinxx-Couture-1146.jpg?v=1709288573
     Price: $30.00 USD
 - [Zip-Up Lace Trim Shaping Shorts](https://www.brinxxcouture.com/products/full-size-zip-up-lace-trim-shaping-shorts): Get the perfect hourglass shape with our Zip-Up Lace Trim Shaping Shorts. With lace detailing and a comfortable stretch, it's affordable style at www.brinxxcouture.com. #shapewear #womenfashion
-  Updated: 2026-04-01T16:56:27Z
+  Updated: 2026-05-26T00:10:27Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -2174,7 +2078,99 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Irregular-Smocked-Strapless-Dress-Brinxx-Couture-6098.jpg?v=1709289552
     Price: $18.00 USD
-[List Continued](https://www.brinxxcouture.com/a/llms-agent/llms.txt?shop=f1c589.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTYyNTM5MDQwOTUwLCJsYXN0X3ZhbHVlIjoiNzU2MjUzOTA0MDk1MCJ9)
+- [Knitted Square Neck Back Tie Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/knitted-square-neck-back-tie-long-sleeve-dress): Get ready to turn heads in our Women's Knitted Square Neck Sexy Backless Tie Long Sleeve Dress! Soft, sexy, and perfect for any occasion. Shop now on Brinxx Couture.
+  Updated: 2026-04-06T23:54:39Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Women-s-Knitted-Square-Neck-Sexy-Backless-Tie-Long-Sleeve-Dress-Brinxx-Couture-6198.jpg?v=1709290389
+  - [Black / S](https://www.brinxxcouture.com/products/knitted-square-neck-back-tie-long-sleeve-dress?variant=42122555097270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Women-s-Knitted-Square-Neck-Sexy-Backless-Tie-Long-Sleeve-Dress-Brinxx-Couture-6198.jpg?v=1709290389
+    Price: $29.99 USD
+  - [caramel / S](https://www.brinxxcouture.com/products/knitted-square-neck-back-tie-long-sleeve-dress?variant=42122555130038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Women-s-Knitted-Square-Neck-Sexy-Backless-Tie-Long-Sleeve-Dress-Brinxx-Couture-8147.jpg?v=1709290417
+    Price: $29.99 USD
+  - [Black / M](https://www.brinxxcouture.com/products/knitted-square-neck-back-tie-long-sleeve-dress?variant=42122555162806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Women-s-Knitted-Square-Neck-Sexy-Backless-Tie-Long-Sleeve-Dress-Brinxx-Couture-6198.jpg?v=1709290389
+    Price: $29.99 USD
+  - [caramel / M](https://www.brinxxcouture.com/products/knitted-square-neck-back-tie-long-sleeve-dress?variant=42122555195574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Women-s-Knitted-Square-Neck-Sexy-Backless-Tie-Long-Sleeve-Dress-Brinxx-Couture-8147.jpg?v=1709290417
+    Price: $29.99 USD
+  - [Black / L](https://www.brinxxcouture.com/products/knitted-square-neck-back-tie-long-sleeve-dress?variant=42122555228342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Women-s-Knitted-Square-Neck-Sexy-Backless-Tie-Long-Sleeve-Dress-Brinxx-Couture-6198.jpg?v=1709290389
+    Price: $29.99 USD
+  - [caramel / L](https://www.brinxxcouture.com/products/knitted-square-neck-back-tie-long-sleeve-dress?variant=42122555261110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Women-s-Knitted-Square-Neck-Sexy-Backless-Tie-Long-Sleeve-Dress-Brinxx-Couture-8147.jpg?v=1709290417
+    Price: $29.99 USD
+  - [caramel / XL](https://www.brinxxcouture.com/products/knitted-square-neck-back-tie-long-sleeve-dress?variant=42122555293878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Women-s-Knitted-Square-Neck-Sexy-Backless-Tie-Long-Sleeve-Dress-Brinxx-Couture-8147.jpg?v=1709290417
+    Price: $29.99 USD
+  - [Black / XL](https://www.brinxxcouture.com/products/knitted-square-neck-back-tie-long-sleeve-dress?variant=42122555326646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Women-s-Knitted-Square-Neck-Sexy-Backless-Tie-Long-Sleeve-Dress-Brinxx-Couture-6198.jpg?v=1709290389
+    Price: $29.99 USD
+- [Open Back Slim Dress - Brinxx Couture](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress): Bring allure and confidence to your look with this Open Back Slim Dress. Its sleek silhouette provides a graceful and polished silhouette, while the open back adds a seductive and stylish touch. Perfect for any occasion, this dress will make you stand out in any crowd.
+  Updated: 2026-04-01T16:56:28Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-8008.jpg?v=1709290611
+  - [Pink / S](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558177462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-8008.jpg?v=1709290611
+    Price: $15.99 USD
+  - [Grey / S](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558210230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-7216.jpg?v=1709290636
+    Price: $15.99 USD
+  - [White / S](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558242998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-4495.jpg?v=1709290661
+    Price: $15.99 USD
+  - [Black / S](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558275766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-4320.jpg?v=1709290685
+    Price: $15.99 USD
+  - [White / M](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558341302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-4495.jpg?v=1709290661
+    Price: $15.99 USD
+  - [Pink / M](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558374070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-8008.jpg?v=1709290611
+    Price: $15.99 USD
+  - [Black / M](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558406838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-4320.jpg?v=1709290685
+    Price: $15.99 USD
+  - [Grey / M](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558439606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-7216.jpg?v=1709290636
+    Price: $15.99 USD
+  - [White / L](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558472374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-4495.jpg?v=1709290661
+    Price: $15.99 USD
+  - [Pink / L](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558505142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-8008.jpg?v=1709290611
+    Price: $15.99 USD
+  - [Grey / L](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558537910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-7216.jpg?v=1709290636
+    Price: $15.99 USD
+  - [Black / L](https://www.brinxxcouture.com/products/womens-contrasting-color-suspender-sexy-open-back-slim-dress?variant=42122558570678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-4320.jpg?v=1709290685
+    Price: $15.99 USD
+[List Continued](https://www.brinxxcouture.com/a/llms-agent/llms.txt?shop=f1c589.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTYzMTM1ODExNzY2LCJsYXN0X3ZhbHVlIjoiNzU2MzEzNTgxMTc2NiJ9)
 
 ## Collections
 
@@ -2182,79 +2178,79 @@
   Updated: 2026-04-01T16:56:09Z
   Total Products: 0
 - [Women's Dresses - Casual to Formal Styles - Brinxx Couture](https://www.brinxxcouture.com/collections/dresses): Discover elegant dresses for every occasion. From casual day dresses to formal evening gowns, find your perfect fit and style.
-  Updated: 2026-05-18T11:22:36Z
+  Updated: 2026-06-24T01:37:08Z
   Total Products: 241
 - [Luxury Beauty & Skincare - Brinxx Couture](https://www.brinxxcouture.com/collections/beauty): Discover curated beauty essentials from prestige brands. Premium skincare, makeup, and fragrances that elevate your daily ritual. Free shipping.
-  Updated: 2026-04-01T16:56:09Z
+  Updated: 2026-06-08T07:31:28Z
   Total Products: 14
 - [Co-ord Sets & Matching Outfits - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover coordinated sets and matching outfits designed for effortless style. From casual to dressy, find perfectly paired pieces.
-  Updated: 2026-05-08T20:45:25Z
+  Updated: 2026-06-08T07:31:20Z
   Total Products: 65
 - [Plus Size Clothing - Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover stylish plus size clothing designed to celebrate your confidence. From dresses to activewear, find pieces that fit beautifully.
-  Updated: 2026-04-23T02:15:12Z
+  Updated: 2026-06-15T01:53:16Z
   Total Products: 40
 - [Women's Activewear & Fitness Gear - Brinxx Couture](https://www.brinxxcouture.com/collections/best-womens-activewear): Discover stylish activewear designed for performance and comfort. From leggings to sports bras, elevate your fitness wardrobe.
-  Updated: 2026-05-14T18:26:43Z
+  Updated: 2026-06-08T07:31:36Z
   Total Products: 17
 - [Accessories - Jewelry, Bags & More - Brinxx Couture](https://www.brinxxcouture.com/collections/accessories): Discover curated accessories including jewelry, handbags, scarves, and belts. Elevate any outfit with refined finishing touches.
-  Updated: 2026-05-14T17:50:10Z
+  Updated: 2026-06-08T07:31:36Z
   Total Products: 35
 - [Women's Jackets & Coats - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-jackets): Discover refined jackets and outerwear for every season. From tailored blazers to cozy coats, find the perfect layer to elevate your style.
-  Updated: 2026-05-14T18:28:53Z
+  Updated: 2026-06-08T07:33:11Z
   Total Products: 25
 - [Women's Tops & Blouses - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-tops): Discover refined tops and blouses for every occasion. From casual tees to elegant blouses, find versatile pieces that elevate your wardrobe.
-  Updated: 2026-05-14T18:26:43Z
-  Total Products: 51
+  Updated: 2026-06-08T07:33:58Z
+  Total Products: 50
 - [Women's Bottoms - Pants & Skirts - Brinxx Couture](https://www.brinxxcouture.com/collections/bottoms): Discover refined bottoms for every occasion. From tailored pants to flowing skirts, find versatile pieces that elevate your everyday style.
-  Updated: 2026-05-14T17:48:51Z
+  Updated: 2026-06-08T07:33:58Z
   Total Products: 25
 - [Women's Hats - Fedoras, Beanies & More - Brinxx Couture](https://www.brinxxcouture.com/collections/hats): Discover stylish hats for every season. From classic fedoras to cozy beanies and sun hats, find the perfect topper.
-  Updated: 2026-04-01T16:56:10Z
+  Updated: 2026-06-08T07:33:59Z
   Total Products: 5
 - [Women's Handbags & Purses - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-handbags-purses): Discover refined handbags and purses for every occasion. From structured totes to elegant clutches, find the perfect bag.
-  Updated: 2026-04-28T02:35:35Z
+  Updated: 2026-06-08T07:33:59Z
   Total Products: 26
 - [Women's Shoes - Heels, Flats & Boots - Brinxx Couture](https://www.brinxxcouture.com/collections/shoes): Discover stylish women's shoes for every occasion. From elegant heels to comfortable flats and boots, find your perfect pair.
-  Updated: 2026-04-28T02:27:48Z
+  Updated: 2026-06-08T07:34:07Z
   Total Products: 11
 - [Women's Sleepwear & Pajamas - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-sleepwear): Discover comfortable sleepwear and pajamas for restful nights. From cozy sets to elegant robes, find pieces for relaxation.
-  Updated: 2026-04-01T16:56:10Z
+  Updated: 2026-06-08T07:35:46Z
   Total Products: 5
 - [Women's Wigs - Natural & Stylish Hair - Brinxx Couture](https://www.brinxxcouture.com/collections/wigs): Discover high-quality wigs in various styles and colors. From natural looks to bold transformations, find your perfect hair.
-  Updated: 2026-04-01T16:56:10Z
-  Total Products: 9
+  Updated: 2026-06-22T02:20:56Z
+  Total Products: 11
 - [Women's Perfume & Fragrances - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-perfume): Discover luxury perfumes and fragrances for every mood. From floral to woody scents, find your signature fragrance.
-  Updated: 2026-04-01T16:56:10Z
+  Updated: 2026-06-08T07:40:24Z
   Total Products: 9
 - [Women's Lingerie & Intimates - Brinxx Couture](https://www.brinxxcouture.com/collections/lingerie): Discover elegant lingerie and intimates designed for comfort and confidence. From bras to sleepwear, find pieces that celebrate you.
-  Updated: 2026-04-01T16:56:10Z
+  Updated: 2026-06-08T07:41:57Z
   Total Products: 1
 - [Women's Swimwear - Bikinis & One-Pieces - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-swimwear): Discover stylish swimwear for every body. From classic bikinis to elegant one-pieces, find the perfect suit for sun and surf.
-  Updated: 2026-05-14T16:38:36Z
+  Updated: 2026-06-23T14:57:05Z
   Total Products: 46
 - [Women's Fashion  - Up to 70% Off Clothing - Brinxx Couture](https://www.brinxxcouture.com/collections/): Shop our biggest ! Save up to 70% on women's clothing, dresses, tops & accessories. Limited time offers on trendy fashion. Free shipping on all orders.
-  Updated: 2026-04-29T07:03:57Z
+  Updated: 2026-06-08T07:44:48Z
   Total Products: 25
 - [Women's Shapewear - Smoothing & Sculpting - Brinxx Couture](https://www.brinxxcouture.com/collections/shapewear-for-women): Discover comfortable shapewear for smoothing and sculpting. From bodysuits to high-waist shorts, find confidence-boosting essentials.
-  Updated: 2026-04-01T16:56:10Z
+  Updated: 2026-06-08T07:45:00Z
   Total Products: 22
 - [Women's Jewelry - Necklaces, Earrings & More - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-jewelry): Discover elegant jewelry including necklaces, earrings, bracelets, and rings. Find delicate pieces to elevate any look.
-  Updated: 2026-05-18T11:22:36Z
+  Updated: 2026-06-08T07:45:03Z
   Total Products: 39
 - [Plus Size Tops & Curvy Women's Blouses - Brinxx Couture](https://www.brinxxcouture.com/collections/curvy-confident-tops): Shop stylish plus size tops at Brinxx Couture. Flattering blouses, tees & tunics in sizes XL-5XL. Free shipping on all orders. Embrace your curves.
-  Updated: 2026-05-14T17:49:22Z
+  Updated: 2026-06-08T07:48:18Z
   Total Products: 27
 - [Plus Size Dresses | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-dresses): Discover stylish plus size dresses for every occasion at Brinxx Couture. Shop now for trendy designs and unbeatable prices!
-  Updated: 2026-04-23T02:15:12Z
+  Updated: 2026-06-15T01:53:16Z
   Total Products: 32
 - [Plus Size Swimwear | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-swimwear): Find the perfect plus size swimwear at Brinxx Couture. Shop stylish and flattering swimsuits for every body type.
-  Updated: 2026-04-01T16:56:11Z
+  Updated: 2026-06-08T07:48:18Z
   Total Products: 3
 - [Women's Sunglasses - Stylish UV Protection - Brinxx Couture](https://www.brinxxcouture.com/collections/designer-sunglasses): Discover stylish sunglasses with UV protection. From classic aviators to trendy oversized frames, find your perfect pair.
-  Updated: 2026-05-14T17:50:10Z
+  Updated: 2026-06-08T07:48:20Z
   Total Products: 14
 - [Plus Size Clothing Sets | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-sets): Discover stylish plus size clothing sets at Brinxx Couture. Shop matching tops and bottoms for a coordinated look.
-  Updated: 2026-04-01T16:56:11Z
+  Updated: 2026-06-08T07:51:42Z
   Total Products: 2
 - [Christmas Fashion - Brinxx Couture](https://www.brinxxcouture.com/collections/christmas-fashion): Shop the latest Christmas fashion trends at Brinxx Couture! Find everything from festive dresses and sweaters to cozy pajamas and accessories.
   Updated: 2024-05-21T06:39:42Z
@@ -2266,46 +2262,46 @@
   Updated: 2025-08-18T18:43:19Z
   Total Products: 0
 - [Plus Size Active Wear | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-activewear): Stay fit and stylish with our collection of plus size active wear. Shop comfortable and trendy workout clothes at Brinxx Couture.
-  Updated: 2026-04-01T16:56:11Z
+  Updated: 2026-06-08T09:23:42Z
   Total Products: 12
 - [Women’s Graphic Tees | Brinxx Couture](https://www.brinxxcouture.com/collections/graphic-tees): Express your style with our collection of women’s graphic tees. Shop trendy and unique designs at Brinxx Couture.
-  Updated: 2026-04-01T16:56:11Z
+  Updated: 2026-06-08T09:28:23Z
   Total Products: 3
 - [New Arrivals | Latest Fashion, Jewelry & Accessories Online](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they  out.
-  Updated: 2026-05-19T00:22:06Z
+  Updated: 2026-06-08T09:29:50Z
   Total Products: 33
 - [Best Sellers in Women’s Clothing | Trendy & Stylish Outfits](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
-  Updated: 2026-04-01T16:56:11Z
+  Updated: 2026-06-08T09:30:03Z
   Total Products: 13
 - [Women’s Jeans | Brinxx Couture](https://www.brinxxcouture.com/collections/jeans): Find the perfect pair of jeans at Brinxx Couture. Shop our collection of stylish and comfortable jeans for women in various fits and styles.
-  Updated: 2026-04-01T16:56:11Z
+  Updated: 2026-06-08T09:29:57Z
   Total Products: 8
 - [Trendy Women’s Skirts | Brinxx Couture](https://www.brinxxcouture.com/collections/skirts): Discover our collection of trendy skirts for women. From casual to dressy, find the perfect skirt for any occasion at Brinxx Couture.
-  Updated: 2026-04-08T08:17:55Z
+  Updated: 2026-06-08T09:29:51Z
   Total Products: 6
 - [Women’s Pants | Brinxx Couture](https://www.brinxxcouture.com/collections/pants): Shop stylish and comfortable pants for women at Brinxx Couture. From casual to formal, find the perfect fit for every occasion.
-  Updated: 2026-05-14T17:48:51Z
+  Updated: 2026-06-08T09:29:51Z
   Total Products: 16
 - [Stylish Women's Coats | Winter, Trench, Wool & More](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2026-04-22T02:48:53Z
+  Updated: 2026-06-08T09:29:58Z
   Total Products: 41
 - [Fashionable Women’s Scarves | Brinxx Couture](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
-  Updated: 2026-04-17T03:13:17Z
+  Updated: 2026-06-08T09:29:51Z
   Total Products: 5
 - [Women's Heels Collection | Stylish & Comfortable Heels Online](https://www.brinxxcouture.com/collections/heels): Shop our Women's Heels Collection for stylish, comfortable, and elegant heels. Perfect for every occasion, from casual outings to formal events. Explore now
-  Updated: 2026-05-14T17:53:05Z
+  Updated: 2026-06-18T12:43:29Z
   Total Products: 28
 - [Comfortable Women’s Flats](https://www.brinxxcouture.com/collections/flats): Discover stylish and comfortable flats for women at Brinxx Couture. Perfect for everyday wear and available in various styles.
-  Updated: 2026-04-20T02:41:15Z
-  Total Products: 2
+  Updated: 2026-06-22T01:57:05Z
+  Total Products: 3
 - [Women's Fashion Boots - Designer Footwear Collection](https://www.brinxxcouture.com/collections/boots): Discover our Women's Boots Collection featuring trendy, durable, and comfortable boots. Perfect for all seasons and styles. Shop now for your perfect pair!
-  Updated: 2026-04-28T02:27:48Z
+  Updated: 2026-06-08T09:29:51Z
   Total Products: 11
 - [Women's Sweaters & Knits - Brinxx Couture](https://www.brinxxcouture.com/collections/sweaters): Discover cozy sweaters and knits for every season. From chunky cardigans to lightweight pullovers, find warmth with refined style.
-  Updated: 2026-05-14T17:58:11Z
+  Updated: 2026-06-08T09:29:54Z
   Total Products: 15
 - [Cozy Women’s Cardigans | Brinxx Couture](https://www.brinxxcouture.com/collections/cardigans): Stay warm and stylish with our collection of cozy cardigans. Perfect for layering and available in various styles. Shop now at Brinxx Couture!
-  Updated: 2026-04-22T03:03:34Z
+  Updated: 2026-06-08T09:30:04Z
   Total Products: 12
 - [Women's Casual Wear example products](https://www.brinxxcouture.com/collections/womens-casual-wear-example-products)
   Updated: 2026-04-06T19:35:15Z
@@ -2824,6 +2820,10 @@
     Updated: 2025-09-27T05:40:08Z
     Author: Wendell Kennedy
     Tags: affordable fashion, Brinxx Couture, budget-friendly style, chic and cheap, fashion guide, fashion tips, fashion trends 2025, fashion-forward looks, online shopping, seasonal fashion, style on a budget, stylish clothing online, trendy women’s clothing, wardrobe essentials, women’s outfits under $50
+  - [Summer 2026 Style Guide | Women's Summer Fashion | Brinxx Couture](https://www.brinxxcouture.com/blogs/fashion-blog/summer-2026-style-guide-the-edit-you-need-right-now): Summer 2026 Style Guide | Women's Summer Fashion | Brinxx Couture
+    Updated: 2026-06-22T02:28:53Z
+    Author: Brinxx Couture
+    Tags: plus size style, style guide, summer 2026, summer fashion, swimwear, women's dresses
 
 ## Store Pages
 
