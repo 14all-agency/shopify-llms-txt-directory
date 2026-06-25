@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2021-01-09T19:52:42Z
 - Contact Email: opartysrl@gmail.com
-- Updated At: 2026-06-17T16:22:20.740Z
+- Updated At: 2026-06-25T00:00:29.295Z
 
 ## Products
 
@@ -148,7 +148,7 @@
   Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/products/Capodanno2.png?v=1639476714
   Price: 54,90 € EUR
 - [Accessori Photo Booth per feste ed eventi | Oparty.it](https://www.oparty.it/products/accessori-photo-booth): Accessori photo booth personalizzabili per fotografie divertenti. Ideali per matrimoni, compleanni, eventi aziendali, baby shower, lauree, feste private.
-  Updated: 2026-06-17T11:53:27Z
+  Updated: 2026-06-17T23:51:08Z
   Vendor: Oparty
   Product Type: Accessori
   Availability: Available
@@ -439,16 +439,16 @@
 ## Collections
 
 - [Cornici Social Networks Personalizzabili | Oparty.it](https://www.oparty.it/collections/cornici-social-networks): Cornici photo booth a tema social networks. Ideali per divertire gli ospiti durante le feste, eventi privati e aziendali. Personalizza il tuo party!
-  Updated: 2026-06-17T11:50:55Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 6
 - [Cornici Personalizzabili | Oparty.it](https://www.oparty.it/collections/cornici-personalizzate): Scopri la gamma di cornici oparty: il contenuto lo scegli tu! Ideale per eventi e festeggiamenti. Personalizzabili al 100% anche da mobile. Spedizione 24h
-  Updated: 2026-06-17T14:39:20Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 30
 - [Prodotti Personalizzabili per feste ed eventi | Oparty.it](https://www.oparty.it/collections/tutti-i-prodotti): Scopri tutti i prodotti personalizzabili Oparty per rendere unico il tuo evento! Cornici selfie, striscioni, accessori photo booth, oggetti giganti, etc.
-  Updated: 2026-06-17T14:39:20Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 34
 - [OrderlyEmails - Recommended Products](https://www.oparty.it/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-06-17T14:39:20Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 38
 - [Cornici Photo Booth di Natale e Capodanno | Oparty.it](https://www.oparty.it/collections/natale-e-capodanno): Cornici photo booth a tema di Natale e Capodanno. Ideali per divertire gli ospiti durante le feste, eventi privati e aziendali. Personalizza il tuo party!
   Updated: 2023-12-16T21:47:37Z
@@ -457,22 +457,22 @@
   Updated: 2026-06-17T14:38:53Z
   Total Products: 4
 - [Cornici Wedding personalizzabili | Oparty.it](https://www.oparty.it/collections/cornici-wedding): Scopri le nostra collezione di cornici a tema wedding. Ideale per coinvolgere gli invitati e fare fotografie divertenti. Spedizione gratuita 24/48 ore.
-  Updated: 2026-06-17T14:39:20Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 15
 - [Prodotti Wedding personalizzabili | Oparty.it](https://www.oparty.it/collections/wedding): Scopri la nostra collezione di prodotti a tema wedding. Ideale per coinvolgere gli invitati e fare fotografie divertenti. Spedizione gratuita 24/48 ore.
-  Updated: 2026-06-17T14:39:20Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 16
 - [Prodotti a tema social Personalizzabili | Oparty.it](https://www.oparty.it/collections/social): Scopri la nostra collezione di prodotti a tema social. Ideale per coinvolgere gli invitati e fare fotografie divertenti. Spedizione gratuita 24/48 ore.
-  Updated: 2026-06-17T14:38:53Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 8
 - [Laurea](https://www.oparty.it/collections/laurea)
-  Updated: 2026-06-17T14:38:53Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 10
 - [Comunione](https://www.oparty.it/collections/comunione)
-  Updated: 2026-06-17T14:38:53Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 11
 - [Compleanno](https://www.oparty.it/collections/compleanni)
-  Updated: 2026-06-17T14:38:53Z
+  Updated: 2026-06-18T11:08:23Z
   Total Products: 8
 - [Neon](https://www.oparty.it/collections/neon)
   Updated: 2023-11-12T19:03:41Z
