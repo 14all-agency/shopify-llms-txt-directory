@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-04-07T04:56:42Z
 - Contact Email: rpulsifer@-crafted.com
-- Updated At: 2026-06-17T21:00:46.261Z
+- Updated At: 2026-06-25T00:00:25.890Z
 
 ## Collections
 
@@ -55,6 +55,17 @@
 - [Default example products](https://-crafted.com/collections/asset-pack-49740840962-example-products)
   Updated: 2026-06-16T22:13:25Z
   Total Products: 3
+
+## Blogs
+
+- [-Crafted Briefing](https://-crafted.com/blogs/-crafted-journal): Discover actionable guides on AI automation, ecommerce productivity, and Shopify Flow setups. The -Crafted Journal by Pulsifer Enterprises LLC shares simple, proven ways to work smarter and scale sustainably.
+  - [The 20-Minute Weekly Review That Can Prevent Most Operational Problems](https://-crafted.com/blogs/-crafted-journal/the-20-minute-weekly-review-that-can-prevent-most-operational-problems)
+    Updated: 2026-06-19T15:21:21Z
+    Author: Rich Pulsifer
+  - [Enhancing Operational Efficiency Using AI in Wholesale Distribution](https://-crafted.com/blogs/-crafted-journal/enhancing-operational-efficiency-using-ai-in-wholesale-distribution): Enhancing Operational Efficiency Using AI in Wholesale Distribution
+    Updated: 2026-06-23T07:01:13Z
+    Author: -Crafted Editorial Team
+    Tags: ai, ai implementation for distributors, ai in logistics, automation, business process automation, data analytics, distributor automation, efficiency, improve operations, operational efficiency wholesale, supply chain, wholesale distribution, wholesale distribution ai
 
 ## Policies
 
