@@ -9,7 +9,7 @@
 - Created At: 2026-04-06T10:15:38Z
 - Contact Email: info@silynxcom.com
 - Contact Phone: +1 571-748-7152
-- Updated At: 2026-06-18T00:00:44.315Z
+- Updated At: 2026-06-25T00:00:45.184Z
 
 ## Products
 
@@ -861,6 +861,10 @@
     Tags: investor-relations, press-release
   - [Press Release: Silynxcom Secures Order from European Army, Marking Entry into Additional European Market](https://silynxcom.com/blogs/press-releases/silynxcom-secures-order-from-european-army-marking-entry-into-additional-european-market): Press Release: Silynxcom Secures Order from European Army, Marking Entry into Additional European Market
     Updated: 2026-05-31T09:04:09Z
+    Author: Silynx Communications
+    Tags: investor-relations, press-release
+  - [Press Release: Silynxcom's Tactical Protective Systems Demonstrated by Multiple Agents at Eurosatory 2026](https://silynxcom.com/blogs/press-releases/silynxcom-s-tactical-protective-systems-demonstrated-by-multiple-agents-at-eurosatory-2026): Press Release: Silynxcom's Tactical Protective Systems Demonstrated by Multiple Agents at Eurosatory 2026
+    Updated: 2026-06-23T19:40:22Z
     Author: Silynx Communications
     Tags: investor-relations, press-release
 
