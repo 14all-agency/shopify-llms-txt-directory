@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-04T20:23:58Z
 - Contact Email: hello@meridiangrace.shop
-- Updated At: 2026-06-19T00:00:37.698Z
+- Updated At: 2026-06-26T00:00:39.003Z
 
 ## Products
 
@@ -133,7 +133,7 @@
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/Se065c78aa51d4ae0a86b15c6b99c5e53G.webp?v=1778853543
   Price: $2,923.99 USD
 - [Old School EBike T-Shirt](https://meridiangrace.shop/products/old-school-ebike-t-shirt): Product: District DM130 District ® Perfect Tri ® Tee. DM130 4.5 oz., 50% polyester 25% combed ring-spun cotton 25% rayon Rib-knit neck Tear-away label Shoulder-to-shoulder taping - Crown&Co
-  Updated: 2026-06-18T12:35:27Z
+  Updated: 2026-06-25T20:38:42Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -289,7 +289,7 @@
     Availability: Available
     Price: $20.72 USD
 - [Varsity Logo T-Shirt](https://meridiangrace.shop/products/varsity-logo-t-shirt): Product: Bella + Canvas 3413C Unisex Triblend Short-Sleeve T-Shirt 3.8 oz., 40 singles 50% polyester, 25% combed and ringspun cotton, 25% rayon Black Heather Triblend: 70% combed ring-spun cotton, 15% polyester, 15% rayon Contrast color fleck yarn Pre-shrunk Semi fit Unisex sizing Sideseamed Tear away label Lightly textured print friendly surface Size Body length Body width Sleeve length XS 27" 16 1/2" 8" S 28" 18" 8.25" M 29" 20" 8.63" L 30" 22" 9.13" XL 31" 24" 9.63" 2XL 32" 26" 10.25" 3XL 33" 28" 10 7/8" 4XL 34" 30" 11 1/2" - Meridian Grace
-  Updated: 2026-05-28T22:05:01Z
+  Updated: 2026-06-22T18:38:48Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -495,7 +495,7 @@
     Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ninjapod_12844418_f_3413C_00_f.jpg?v=1779213941
     Price: $26.88 USD
 - [Sunset Cruisin T-Shirt](https://meridiangrace.shop/products/sunset-cruisin-t-shirt): Product: Sport-Tek ST350 Sport-Tek ® PosiCharge ® Competitor™ Tee. ST350 3.8 oz., 100% polyester interlock PosiCharge technology Removable tag for comfort and relabeling Set-in sleeves Moisture-wicking Size Sleeve Chest Body length XS 17 3/4" 18 1/2" 27" S 18 1/2/4" 20" 28" M 19 1/4" 21 1/2" 29" L 20" 23" 30" XL 20 3/4" 24 1/2" 31" 2XL 21 1/2" 26" 32" 3XL 22 1/4" 28" 32 1/2" 4XL 23" 30" 33" - Meridian Grace
-  Updated: 2026-05-28T22:04:28Z
+  Updated: 2026-06-20T03:43:39Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -1118,6 +1118,18 @@
     Updated: 2026-06-17T09:21:37Z
     Author: Meridian Grace
     Tags: affordable urban mobility, bike, commuting options, cost comparison, eco-friendly commuting solutions, electric, electric bike, electric scooter, electric transport, scooter
+  - [Top Safety Tips for Riding Electric Bikes and Scooters](https://meridiangrace.shop/blogs/news/top-safety-tips-for-riding-electric-bikes-and-scooters): Top Safety Tips for Riding Electric Bikes and Scooters
+    Updated: 2026-06-19T09:09:40Z
+    Author: Meridian Grace
+    Tags: best safety practices for electric bikes, bikes, electric, electric bike, electric scooter, guide to scooter safety, riding scooters, safety tips, scooters
+  - [Electric Bikes and Scooters: Transforming Urban Mobility](https://meridiangrace.shop/blogs/news/electric-bikes-and-scooters-transforming-urban-mobility): Electric Bikes and Scooters: Transforming Urban Mobility
+    Updated: 2026-06-22T09:13:13Z
+    Author: Meridian Grace
+    Tags: benefits of electric bikes in cities, best electric scooters for commuting, bikes, electric, electric bike, electric scooter, emobility trends, scooters, sustainable transport, urban commuting
+  - [Energy Efficiency Explained: Why Choose an Electric Bike or Scooter?](https://meridiangrace.shop/blogs/news/energy-efficiency-explained-why-choose-an-electric-bike-or-scooter): Energy Efficiency Explained: Why Choose an Electric Bike or Scooter?
+    Updated: 2026-06-24T09:13:34Z
+    Author: Meridian Grace
+    Tags: benefits of electric bikes, bikes, choosing electric scooters, eco-friendly transportation, electric, electric bike, electric mobility, electric scooter, energy efficiency, scooters
 
 ## Store Pages
 
