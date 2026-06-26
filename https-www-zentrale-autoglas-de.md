@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-12-08T07:33:19Z
 - Contact Email: post@zentrale-autoglas.de
-- Updated At: 2026-06-19T00:00:36.344Z
+- Updated At: 2026-06-26T00:00:37.731Z
 
 ## Collections
 
@@ -80,6 +80,16 @@
     Author: EComposer
   - [Umweltplakette anbringen bei Neuverglasung](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/umweltplakette-anbringen-bei-neuverglasung)
     Updated: 2026-01-29T16:52:52Z
+    Author: EComposer
+- [Autoglas-FAQ](https://www.zentrale-autoglas.de/blogs/autoglas-faq)
+  - [Wie kann ich eine Werkstatt für Autoglas Reparatur in meiner Nähe finden?](https://www.zentrale-autoglas.de/blogs/autoglas-faq/werkstatt-autoglas-reparatur-finden)
+    Updated: 2026-06-22T13:09:52Z
+    Author: EComposer
+  - [Wie kann ich einen Steinschlag an der Windschutzscheibe schnell reparieren lassen?](https://www.zentrale-autoglas.de/blogs/autoglas-faq/steinschlag-windschutzscheibe-schnell-reparieren)
+    Updated: 2026-06-22T16:42:51Z
+    Author: EComposer
+  - [Wo finde ich eine Werkstatt für Busglas-Reparatur in meiner Nähe?](https://www.zentrale-autoglas.de/blogs/autoglas-faq/werkstatt-busglas-reparatur-naehe)
+    Updated: 2026-06-22T16:59:16Z
     Author: EComposer
 
 ## Store Pages
