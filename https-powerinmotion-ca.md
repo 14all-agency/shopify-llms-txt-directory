@@ -10,25 +10,10 @@
 - Contact Email: info@powerinmotion.ca
 - Contact Phone: 403-233-8841
 - Address: Unit 101 4405 9st SE, T2G 3C8, Calgary AB
-- Updated At: 2026-06-09T00:00:49.570Z
+- Updated At: 2026-06-26T01:21:29.116Z
 
 ## Products
 
-- [Folding Bikes | Montague Paratrooper Pro Best 26" Compact Mountain Bike](https://powerinmotion.ca/products/montague-paratrooper-pro_folding-bikes_canada-wide-shipping-pim): The Montague Paratrooper Pro is an Awesome  Mountain Folding Bike At an even more Unbelievable price, with 27 speeds, a suspension fork, and a lightweight! With Discounted / Free Shipping Rates from PIM to  Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-05-26T17:05:17Z
-  Vendor: Montague
-  Product Type: Folding Bike
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/montague-folding-bike-18-26-black-montague-paratrooper-pro-28624771285092.jpg?v=1686946872
-  - [16” / 26" / Black](https://powerinmotion.ca/products/montague-paratrooper-pro_folding-bikes_canada-wide-shipping-pim?variant=42975871139940)
-    Availability: Not Available
-    Price: $1,955.00 CAD
-  - [18" / 26" / Black](https://powerinmotion.ca/products/montague-paratrooper-pro_folding-bikes_canada-wide-shipping-pim?variant=39565853753444)
-    Availability: Not Available
-    Price: $1,955.00 CAD
-  - [20" / 26" / Black](https://powerinmotion.ca/products/montague-paratrooper-pro_folding-bikes_canada-wide-shipping-pim?variant=39565853786212)
-    Availability: Available
-    Price: $1,955.00 CAD
 - [Folding Bikes | Montague Navigator 700c Compact Road Bike](https://powerinmotion.ca/products/montague-navigator_folding-bikes_canada-wide-shipping-pim): The Montague Navigator is an Incredible  Pavement / City / Road Folding Bike At an even more spectacular price, with 27 speeds, and lightweight! With Discounted / Free Shipping Rates from PIM to Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
   Updated: 2026-05-26T17:05:17Z
   Vendor: Montague
@@ -69,22 +54,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bike-basket-default-title-tern-market-basket-31100306882660.jpg?v=1709687151
   Price: $129.99 CAD
-- [Tern - Luggage Truss G2 - Classic](https://powerinmotion.ca/products/tern-luggage-truss): Almost every Tern bike* is built with a hidden Easter egg. Pop off the head-badge (gently!) to find two screw holes. Attach a Luggage Truss, and mount cargo conveniently on the front of your frame. With your cargo mounted on the frame instead of the fork, the steering is nimble and responsive. By keeping your backpack, groceries, and essentials up front, they’re accessible when you need them. Enjoy the smart (and secret) way to carry your gear. Head tube mounted design keeps weight on your frame, instead of your fork, for improved steering stability KLICKfix™ quick-release connector lets you attach and detach bags and baskets at the push of a button Low profile design doesn’t affect bike folded size Integrated lock keeps your bags and baskets secure Compatible with KLICKfix™ bags, racks, and baskets
-  Updated: 2026-05-26T17:05:19Z
+- [Tern - Luggage Truss G2 - Classic](https://powerinmotion.ca/products/tern-luggage-truss): Tern Luggage Truss Gen 2 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --black: #111110; --white: #fafaf8; --gray-100: #f5f5f3; --gray-200: #e8e8e5; --gray-400: #a8a8a4; --gray-600: #6b6b67; --accent: #d95f2b; --accent-light: #f5e8e0; --font-sans: 'DM Sans', sans-serif; --font-mono: 'DM Mono', monospace; } body { font-family: var(--font-sans); background: var(--white); color: var(--black); min-height: 100vh; padding: 0; } .page { max-width: 760px; margin: 0 auto; padding: 3rem 2rem 5rem; } .breadcrumb { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); margin-bottom: 2.5rem; letter-spacing: 0.02em; flex-wrap: wrap; } .breadcrumb span { color: var(--gray-200); } .product-header { margin-bottom: 2rem; } .badge-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 0.75rem; } .badge { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--accent-light); color: var(--accent); border: 1px solid #e8c4ae; border-radius: 3px; padding: 3px 8px; } .badge-alt { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--gray-100); color: var(--gray-600); border: 1px solid var(--gray-200); border-radius: 3px; padding: 3px 8px; } .badge-warn { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: #fff8e1; color: #b45309; border: 1px solid #fde68a; border-radius: 3px; padding: 3px 8px; } h1 { font-size: 34px; font-weight: 600; line-height: 1.15; color: var(--black); margin-bottom: 0.35rem; letter-spacing: -0.025em; } .subtitle { font-size: 13px; font-family: var(--font-mono); color: var(--gray-400); letter-spacing: 0.04em; margin-bottom: 0.5rem; } .tagline { font-size: 16px; color: var(--gray-600); line-height: 1.5; } .price-hero { display: flex; align-items: baseline; gap: 10px; margin-top: 1rem; } .price-hero .price { font-size: 32px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-hero .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .divider { border: none; border-top: 1px solid var(--gray-200); margin: 2rem 0; } .description { font-size: 15px; line-height: 1.75; color: #333332; margin-bottom: 2rem; } .notice { background: #fff8e1; border: 1px solid #fde68a; border-radius: 8px; padding: 0.9rem 1.1rem; font-size: 13px; color: #92400e; margin-bottom: 2rem; line-height: 1.5; } .notice strong { font-weight: 600; } .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--gray-200); border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .stat { background: var(--white); padding: 1.1rem 0.75rem; text-align: center; } .stat-value { font-size: 17px; font-weight: 600; color: var(--black); letter-spacing: -0.02em; display: block; } .stat-label { font-size: 10px; color: var(--gray-400); font-family: var(--font-mono); margin-top: 4px; display: block; } .section-label { font-size: 13px; font-family: var(--font-sans); font-weight: 600; letter-spacing: -0.01em; color: var(--black); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); display: inline-block; } .features { display: flex; flex-direction: column; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .feature { display: grid; grid-template-columns: 3px 1fr; border-bottom: 1px solid var(--gray-200); transition: background 0.15s; } .feature:last-child { border-bottom: none; } .feature:hover { background: var(--gray-100); } .feature-accent { background: transparent; transition: background 0.15s; } .feature:hover .feature-accent { background: var(--accent); } .feature-content { padding: 1.1rem 1.25rem; } .feature-title { font-size: 14px; font-weight: 600; color: var(--black); margin-bottom: 3px; } .feature-desc { font-size: 13px; color: var(--gray-600); line-height: 1.5; } .spec-group { margin-bottom: 1.75rem; } .specs-table { width: 100%; border-collapse: collapse; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; font-size: 13px; } .specs-table tr { border-bottom: 1px solid var(--gray-200); } .specs-table tr:last-child { border-bottom: none; } .specs-table tr:hover td { background: var(--gray-100); } .specs-table td { padding: 9px 14px; background: var(--white); transition: background 0.1s; vertical-align: top; } .specs-table td:first-child { color: var(--gray-600); font-family: var(--font-mono); font-size: 11px; width: 42%; letter-spacing: 0.01em; } .specs-table td:last-child { color: var(--black); font-weight: 500; } .price-row { display: flex; align-items: baseline; gap: 12px; margin-bottom: 0.4rem; } .price { font-size: 28px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .sku { font-size: 11px; color: var(--gray-400); font-family: var(--font-mono); letter-spacing: 0.04em; margin-bottom: 2rem; } .footer-line { border-top: 1px solid var(--gray-200); padding-top: 1.5rem; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; } @media (max-width: 560px) { h1 { font-size: 26px; } .stats { grid-template-columns: repeat(2, 1fr); } .page { padding: 2rem 1.25rem 4rem; } } accessories/tern/Luggage Truss Gen 2 Tern KLICKfix Mount Head Tube Frame-Mounted Gen 2 Requires Head Tube Screw Holes Luggage Truss Gen 2 · KLICKfix Adapter · Head Tube Mount · 3.2 kg · Aluminum Tern Luggage TrussGen 2 A head-tube mounted KLICKfix adapter that brings front cargo to Tern bikes without a full rack. Mounts via hidden screw holes under the head badge — 88g, low-profile, locking, and compatible with the full KLICKfix ecosystem of bags, baskets, and racks. $97 CAD Requires two screw holes in the head tube. The Luggage Truss mounts to hidden screw holes beneath the head badge on compatible Tern bikes. Not all Tern models have these holes — verify via Tern's compatibility checker before ordering. Also ensure your chosen bag or basket does not contact the front tire or fender when fitted. 3.2 kg load capacity (7 lb) KLICKfix quick-release system 88g truss weight The Tern Luggage Truss Gen 2 is a mounting adapter, not a rack. It attaches to two screw holes hidden beneath the head badge on compatible Tern bikes and provides a KLICKfix quick-release interface for bags, baskets, and racks in the KLICKfix ecosystem. Mounting to the head tube rather than the fork keeps cargo weight on the frame — better steering feel under load. The profile is low enough that folded bike dimensions are unaffected on folding models. An integrated locking mechanism secures attached accessories against theft or accidental release. Highlights Head tube mount — frame weight, not fork weight Attaching to the head tube rather than the fork keeps cargo load tied to the frame structure. The fork remains unloaded, steering stays responsive, and the front end doesn't wander under weight. The same principle behind the Hauler and Transporteur racks, at a much smaller scale and weight. KLICKfix quick-release — attach and remove without tools The KLICKfix interface clicks bags and baskets on and off the truss in seconds. Lock the accessory in place with the integrated mechanism; release with a lever. Compatible with the broad KLICKfix accessory ecosystem — bags, baskets, racks, and third-party KLICKfix products all use the same connection standard. Integrated locking — cargo stays secure A locking mechanism on the truss prevents attached accessories from being knocked off or removed without deliberately releasing the lock. Provides basic theft deterrence for unattended bags and baskets in addition to preventing accidental detachment over rough terrain. Low-profile — folded dimensions unchanged The Luggage Truss Gen 2 sits tight to the head tube and does not add meaningfully to the bike's profile when folded. Tern folding bikes that carry this truss can still be folded and stored without the truss interfering with the folded footprint. Compatible accessories — Hold 'Em Basket, HQ Bag, Kanga Rack Tern's own KLICKfix-compatible accessories include the Hold 'Em Basket Gen 1, HQ Bag Gen 1, and Kanga Rack Gen 1. All attach directly to the Luggage Truss. Any third-party KLICKfix-format accessory is also compatible. Specifications Brand Tern Model Luggage Truss Gen 2 Type Head tube KLICKfix mounting adapter Load capacity 3.2 kg (7 lb) Truss weight 88g (0.195 lb) per set Material Aluminum Max dimensions 133 × 85 × 65 mm (5.2 × 3.3 × 2.6 in) Mount type Head tube — 2 screw holes required (hidden under head badge) Connection system KLICKfix quick-release Locking Integrated lock mechanism Fold impact None — low-profile, folded dimensions unchanged Compatible accessories Hold 'Em Basket Gen 1 · HQ Bag Gen 1 · Kanga Rack Gen 1 · all KLICKfix accessories Compatibility Most Tern bikes with head tube screw holes — verify with Tern compatibility checker $97 CAD Tern Luggage Truss Gen 2 · KLICKfix Head Tube Adapter · 3.2 kg · Aluminum Tern © 2026 Luggage Truss Gen 2
+  Updated: 2026-06-20T19:46:27Z
   Vendor: Tern
   Product Type: Front Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-front-rack-classic-tern-luggage-truss-28624820437092.jpg?v=1709687161
-  Price: $99.00 CAD
-- [Tern - Sidekick™ Seat Pad](https://powerinmotion.ca/products/tern-sidekick-seat-pad): The GSD lets you bring up to two older kids* or  passengers along for the ride. The Sidekick Seat Pad lets that passenger ride in comfort. With a KLICKfix rack mount, the Sidekick Seat Pad clips on and off in seconds. Pair it with the rest of the Sidekick kit for extra comfort and convenience. The Sidekick Seat Pad is a seating component of the Passenger System. Other accessories are required in order to safely carry passengers. LEARN MORE Adds a comfortable rack-top cushion to the GSD Attaches with a KLICKfix Rackpack mount, for installation and removal in seconds Designed to fit two Sidekick Seat Pads on a single GSD rack, or one Sidekick Seat Pad and one Thule Maxi seat, for carrying young and old children together Water-resistant design for all-weather riding Includes reflective accents for night-time visibility *Recommended age: 10 or above. Recommended height: 140 cm or above. Check the Passenger System page for more information.
-  Updated: 2026-05-26T17:05:19Z
+  Price: $97.00 CAD
+- [TERN - Sidekick™ Seat Pad](https://powerinmotion.ca/products/tern-sidekick-seat-pad): Tern Sidekick Seat Pad *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --black: #111110; --white: #fafaf8; --gray-100: #f5f5f3; --gray-200: #e8e8e5; --gray-400: #a8a8a4; --gray-600: #6b6b67; --accent: #d95f2b; --accent-light: #f5e8e0; --font-sans: 'DM Sans', sans-serif; --font-mono: 'DM Mono', monospace; } body { font-family: var(--font-sans); background: var(--white); color: var(--black); min-height: 100vh; padding: 0; } .page { max-width: 760px; margin: 0 auto; padding: 3rem 2rem 5rem; } .breadcrumb { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); margin-bottom: 2.5rem; letter-spacing: 0.02em; flex-wrap: wrap; } .breadcrumb span { color: var(--gray-200); } .product-header { margin-bottom: 2rem; } .badge-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 0.75rem; } .badge { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--accent-light); color: var(--accent); border: 1px solid #e8c4ae; border-radius: 3px; padding: 3px 8px; } .badge-alt { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--gray-100); color: var(--gray-600); border: 1px solid var(--gray-200); border-radius: 3px; padding: 3px 8px; } .badge-warn { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: #fff8e1; color: #b45309; border: 1px solid #fde68a; border-radius: 3px; padding: 3px 8px; } h1 { font-size: 34px; font-weight: 600; line-height: 1.15; color: var(--black); margin-bottom: 0.35rem; letter-spacing: -0.025em; } .subtitle { font-size: 13px; font-family: var(--font-mono); color: var(--gray-400); letter-spacing: 0.04em; margin-bottom: 0.5rem; } .tagline { font-size: 16px; color: var(--gray-600); line-height: 1.5; } .price-hero { display: flex; align-items: baseline; gap: 10px; margin-top: 1rem; } .price-hero .price { font-size: 32px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-hero .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .divider { border: none; border-top: 1px solid var(--gray-200); margin: 2rem 0; } .description { font-size: 15px; line-height: 1.75; color: #333332; margin-bottom: 2rem; } .notice { background: #fff8e1; border: 1px solid #fde68a; border-radius: 8px; padding: 0.9rem 1.1rem; font-size: 13px; color: #92400e; margin-bottom: 2rem; line-height: 1.5; } .notice strong { font-weight: 600; } .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--gray-200); border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .stat { background: var(--white); padding: 1.1rem 0.75rem; text-align: center; } .stat-value { font-size: 17px; font-weight: 600; color: var(--black); letter-spacing: -0.02em; display: block; } .stat-label { font-size: 10px; color: var(--gray-400); font-family: var(--font-mono); margin-top: 4px; display: block; } .stat-sub { font-size: 9px; color: var(--gray-400); font-family: var(--font-mono); margin-top: 2px; display: block; } .section-label { font-size: 13px; font-family: var(--font-sans); font-weight: 600; letter-spacing: -0.01em; color: var(--black); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); display: inline-block; } .features { display: flex; flex-direction: column; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .feature { display: grid; grid-template-columns: 3px 1fr; border-bottom: 1px solid var(--gray-200); transition: background 0.15s; } .feature:last-child { border-bottom: none; } .feature:hover { background: var(--gray-100); } .feature-accent { background: transparent; transition: background 0.15s; } .feature:hover .feature-accent { background: var(--accent); } .feature-content { padding: 1.1rem 1.25rem; } .feature-title { font-size: 14px; font-weight: 600; color: var(--black); margin-bottom: 3px; } .feature-desc { font-size: 13px; color: var(--gray-600); line-height: 1.5; } .spec-group { margin-bottom: 1.75rem; } .specs-table { width: 100%; border-collapse: collapse; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; font-size: 13px; } .specs-table tr { border-bottom: 1px solid var(--gray-200); } .specs-table tr:last-child { border-bottom: none; } .specs-table tr:hover td { background: var(--gray-100); } .specs-table td { padding: 9px 14px; background: var(--white); transition: background 0.1s; vertical-align: top; } .specs-table td:first-child { color: var(--gray-600); font-family: var(--font-mono); font-size: 11px; width: 42%; letter-spacing: 0.01em; } .specs-table td:last-child { color: var(--black); font-weight: 500; } .price-row { display: flex; align-items: baseline; gap: 12px; margin-bottom: 0.4rem; } .price { font-size: 28px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .sku { font-size: 11px; color: var(--gray-400); font-family: var(--font-mono); letter-spacing: 0.04em; margin-bottom: 2rem; } .footer-line { border-top: 1px solid var(--gray-200); padding-top: 1.5rem; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; } @media (max-width: 560px) { h1 { font-size: 26px; } .stats { grid-template-columns: repeat(2, 1fr); } .page { padding: 2rem 1.25rem 4rem; } } accessories/tern/Sidekick Seat Pad Tern Passenger Seat KLICKfix Rackpack Water-Resistant Reflective Accents 140 cm / 10+ Years Min. GSD / HSD / Quick Haul Sidekick Seat Pad · Passenger · KLICKfix Rackpack · PU Leather · Water-Resistant · GSD / HSD / Quick Haul Tern Sidekick Seat Pad A padded passenger seat for Tern cargo bike rear racks — clips on and off via KLICKfix Rackpack in seconds, water-resistant polyurethane leather, reflective accents for visibility. Up to two pads on the GSD; one on the HSD. Part of the Tern Passenger System. $90 CAD · per pad Passenger seat — consult the Tern Passenger Guide before use. The Sidekick Seat Pad is part of the Tern Passenger System. Carrying passengers safely requires additional accessories beyond the seat pad itself. Read Tern's Passenger Guide to understand the complete required setup for your bike and passenger. Recommended for passengers 140 cm (4'7") or taller — approximately 10 years and older, though individual variation applies. The GSD accepts up to two seat pads; the HSD accepts one. KLICKfix Rackpack clip-on mount 2 pads max on GSD 1 pad on HSD / Quick Haul 140 cm passenger minimum height The Tern Sidekick Seat Pad adds a padded seat to the rear rack of compatible Tern cargo bikes, turning the cargo platform into a comfortable passenger perch. It mounts via KLICKfix Rackpack — the same interface used by Tern's cargo bags and baskets — so the pad clips on and off in seconds without tools. When cargo use is needed, the pad comes off; when carrying a passenger, it goes back on. Polyurethane leather over foam handles weather without absorbing water, and reflective detailing improves visibility of the passenger from behind at night. The Sidekick Seat Pad is one component of the Tern Passenger System — carrying passengers safely requires the full setup specified in Tern's Passenger Guide. Highlights KLICKfix Rackpack — on and off in seconds The seat pad uses the same KLICKfix Rackpack interface as Tern's cargo bags. Twist-lock onto a compatible rear rack, twist-release to remove. No tools, no adjustment, no setup. The seat pad and a cargo bag are interchangeable on the same rack — switch between passenger and cargo configurations quickly. Polyurethane leather + foam — padded and weather-ready PU leather over foam gives cushioning without the water absorption of fabric. The surface wipes clean and sheds light rain — a rear rack seat is exposed to weather from below (road spray) and above. PU leather holds up to this; fabric would eventually saturate and degrade. The foam layer provides enough cushioning for regular urban distances. Reflective accents — passenger visibility at night The seat pad includes reflective detailing that returns light from behind. A passenger sitting on a rear rack is in a position that can reduce their rear visibility relative to a rider on a solo bike — the reflective accents compensate, making the pad (and by extension the passenger) visible to following traffic under headlights. Two pads on GSD — one on HSD and Quick Haul The GSD's longer rear platform accommodates two Sidekick Seat Pads side by side, allowing two passengers to ride simultaneously. The HSD and Quick Haul have a shorter rear deck and accept a single pad. Confirm your specific configuration via Tern's Passenger Guide — both the rack space and the bike's load rating must support the intended passenger setup. 140 cm / 10+ years — minimum passenger size Tern recommends the Sidekick Seat Pad for passengers at least 140 cm (4'7") tall — roughly 10 years old and up, though individual variation means height is a better guide than age. Younger or smaller passengers may not have sufficient leg reach to sit safely on a rear rack seat. Consult Tern's Passenger Guide and, for children, a paediatrician if in doubt about suitability. Part of the Tern Passenger System The seat pad is one component in Tern's broader Passenger System — a set of accessories designed together for safe passenger transport on cargo bikes. The complete system typically includes handlebars or holds for the passenger to grip, footrests (such as Sidekick Doublewide Decks), and potentially a safety harness depending on the passenger. The seat pad alone is not a complete passenger setup — read the Tern Passenger Guide before carrying anyone. Specifications Brand Tern Model Sidekick Seat Pad Type Rear rack passenger seat pad Material Polyurethane leather over foam Weather resistance Water-resistant — PU leather surface Visibility Reflective accents Dimensions 305 × 185 × 95 mm (12 × 7.3 × 3.7 in) Weight ~356g per pad (~771g per set of two) Mounting KLICKfix Rackpack — tool-free clip on/off Max pads — GSD 2 pads Max pads — HSD / Quick Haul 1 pad Passenger minimum 140 cm (4'7") / approx. 10+ years System Tern Passenger System — additional accessories required Compatible bikes GSD · HSD · Quick Haul — verify with Tern compatibility checker $90 CAD · per pad Tern Sidekick Seat Pad · Passenger · KLICKfix Rackpack · PU Leather · Water-Resistant · GSD / HSD / Quick Haul Tern © 2026 Sidekick Seat Pad
+  Updated: 2026-06-19T16:55:07Z
   Vendor: Tern
   Product Type: Front Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-front-rack-default-title-tern-sidekick-seat-pad-28624858513508.jpg?v=1709687174
-  Price: $95.00 CAD
+  Price: $90.00 CAD
 - [Selle Royal - Respiro - Moderate](https://powerinmotion.ca/products/selle-royal-respiro-moderate): An anatomically designed saddle with RoyalgelTM Technology and equipped with a ventilation channel that reduces pressure in the perineal area while improving respiration. These features combine with one of the most advanced products of the Selle Royal range to ensure comfort and relief even after prolonged use. ROYALGEL Thanks to its unique tridimensional gel structure, Royalgel™ guarantees the highest level of comfort, reducing pressure peaks by 40% compared to standard padding materials. VENTILATION CHANNEL This is a unique feature, specific to the Respiro line, guaranteeing high respiration while relieving pressure on the perineal area. COOL COVER Our extraordinary cover is up to 25°C cooler than a standard black saddle due to its special material composition which reflects sunlight. WATER-RESISTANT Royal Vacuum Light is a patented Selle Royal technology that allows the saddle to be 100% sealed and therefore water-resistant. Saddles made with this production method are furthermore 20% lighter than ordinary ones of the same category. ELASTOMERS Absorbing even the most severe and unexpected shocks, elastomers work both vertically and horizontally for safe, silent, and permanently non-deformable performance. INTEGRATED CLIP SYSTEM A patented clip system is positioned at the rear of the saddle for easy attachment of a Selle Royal saddle bag or other accessories.
-  Updated: 2026-06-06T23:54:31Z
+  Updated: 2026-06-23T08:52:26Z
   Vendor: Selle Royal
   Product Type: Bike Seat
   Availability: Available
@@ -131,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-pannier-bag-default-title-tern-cargo-hold-37-panniers-28704611565668.jpg?v=1686867882
   Price: $317.00 CAD
 - [Thule - Yepp Nexxt Maxi](https://powerinmotion.ca/products/thule-yepp-nexxt-maxi): Lightweight and safe rear-rack-mounted child bike seat with a contemporary design, providing premium comfort for your child.Features Maximum child comfort and a safe, custom fit thanks to the adjustable padded 5-point harness Provides a smooth ride for your child in the soft and shock-absorbing seat Lightweight yet sturdy seat combining a hard outer shell with soft padding for premium child comfort Very quick, easy, and convenient securing of your child with the magnetic childproof safety buckle Ensures a perfect fit as your child grows thanks to adjustable footrests and foot straps Quick and easy mounting of the child bike seat on your bike’s rear rack Added visibility thanks to built-in reflector Easy to clean and to keep dry due to the seat’s water-repellent materials Max child weight: 18 kg Weight: 3.0 kg Safety harness: 5-point Meets safety standards: yes Colors: Obsidian, Mint Green, Monument
-  Updated: 2026-03-31T21:52:04Z
+  Updated: 2026-06-19T20:47:56Z
   Vendor: Thule
   Product Type: Bike Child Seat
   Availability: Available
@@ -149,14 +134,14 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/thule-bike-child-seat-obsidian-thule-yepp-nexxt-maxi-31105997930596.jpg?v=1686947667
     Price: $349.99 CAD
 - [Thule - Yepp Rear Rack](https://powerinmotion.ca/products/thule-yepp-rear-rack): A sturdy steel rack which allows for mounting Thule Yepp Maxi Easyfit and Thule Yepp Nexxt Child Bike seats.Features Compatible with most 26" city and hybrid wheeled bikes Supports up to 35Kg/77 lbs
-  Updated: 2026-03-31T21:52:04Z
+  Updated: 2026-06-19T20:47:56Z
   Vendor: Thule
   Product Type: Bicycle Front & Rear Racks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/thule-bicycle-front-rear-racks-default-title-thule-yepp-rear-rack-28704794443876.jpg?v=1687054850
   Price: $109.99 CAD
 - [Thule - Tour Rack](https://powerinmotion.ca/products/thule-tour-rack): The patented rack attaches to the front or rear of most bicycles, from full-suspension mountain bikes to commuter and road bikes. Features Installation and removal is easy with convenient access to the mounting system Pedal comfortably with adjustable deck and rails that provide maximum heel  Rack remains secure under heavy loads with rubberized grips that prevent sliding and protect the bicycle frame Stay visible with the integrated light/reflector mount Tire  up to 29" x 2.5"
-  Updated: 2026-03-31T21:52:11Z
+  Updated: 2026-06-19T20:47:56Z
   Vendor: Thule
   Product Type: Bicycle Front & Rear Racks
   Availability: Available
@@ -170,7 +155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/thule-bicycle-front-rear-racks-yes-thule-tour-rack-28704853753956.jpg?v=1687032072
     Price: $149.99 CAD
 - [Thule - Pack 'n Pedal Bike Basket](https://powerinmotion.ca/products/thule-pack-n-pedal-bike-basket-1): Versatile and stylish bike basket that securely mounts to front or rear bike racks and delivers plenty of added storage space. Attaches to bike rack decks/rails on the front or rear of the bike (rack sold separately) Easy to install and remove with readily available tools Fits best on Thule racks, but will work on virtually any bike rack A lightweight basket is designed to safely accommodate small and large items
-  Updated: 2026-03-31T21:52:10Z
+  Updated: 2026-06-19T20:47:56Z
   Vendor: Thule
   Product Type: Bike Basket
   Availability: Available
@@ -240,8 +225,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/power-in-motion-bicycle-mirrors-default-title-mirrycle-bar-end-mirror-31106102984804.jpg?v=1687031048
   Price: $34.00 CAD
-- [TERN - Cargo Rack](https://powerinmotion.ca/products/tern-cargo-rack): The Cargo Rack is a robust rear rack for Tern bikes. Constructed of thick-gauge aluminum tubing with an ultra-rigid DoubleTruss™ 3D design, the rack supports it all—full-sized panniers on upper or lower rails and KLICKfix™ Rackpack compatible baskets and trunk bags on the upper deck. With 25 kg (55 lb) load capacity—and our unique SideStrap™ anti-roll anchoring system to keep cargo tied down securely—the Cargo Rack is our strongest and most versatile rack ever. Rigid DoubleTruss™ 3D design KLICKfix™ Rackpack compatible Mount trunk bags or baskets to the top deck, and panniers on lower rails Lower rails keep panniers further back for greater heel  Anchor points keep pannier bags from sliding Built-in light/reflector mount with internal cable routing for powered rear light Adjustable height 
-  Updated: 2026-05-26T17:05:23Z
+- [TERN - Cargo Rack](https://powerinmotion.ca/products/tern-cargo-rack): Tern Cargo Rack *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --black: #111110; --white: #fafaf8; --gray-100: #f5f5f3; --gray-200: #e8e8e5; --gray-400: #a8a8a4; --gray-600: #6b6b67; --accent: #d95f2b; --accent-light: #f5e8e0; --font-sans: 'DM Sans', sans-serif; --font-mono: 'DM Mono', monospace; } body { font-family: var(--font-sans); background: var(--white); color: var(--black); min-height: 100vh; padding: 0; } .page { max-width: 760px; margin: 0 auto; padding: 3rem 2rem 5rem; } .breadcrumb { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); margin-bottom: 2.5rem; letter-spacing: 0.02em; flex-wrap: wrap; } .breadcrumb span { color: var(--gray-200); } .product-header { margin-bottom: 2rem; } .badge-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 0.75rem; } .badge { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--accent-light); color: var(--accent); border: 1px solid #e8c4ae; border-radius: 3px; padding: 3px 8px; } .badge-alt { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--gray-100); color: var(--gray-600); border: 1px solid var(--gray-200); border-radius: 3px; padding: 3px 8px; } .badge-warn { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: #fff8e1; color: #b45309; border: 1px solid #fde68a; border-radius: 3px; padding: 3px 8px; } h1 { font-size: 34px; font-weight: 600; line-height: 1.15; color: var(--black); margin-bottom: 0.35rem; letter-spacing: -0.025em; } .subtitle { font-size: 13px; font-family: var(--font-mono); color: var(--gray-400); letter-spacing: 0.04em; margin-bottom: 0.5rem; } .tagline { font-size: 16px; color: var(--gray-600); line-height: 1.5; } .price-hero { display: flex; align-items: baseline; gap: 10px; margin-top: 1rem; } .price-hero .price { font-size: 32px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-hero .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .divider { border: none; border-top: 1px solid var(--gray-200); margin: 2rem 0; } .description { font-size: 15px; line-height: 1.75; color: #333332; margin-bottom: 2rem; } .notice { background: #fff8e1; border: 1px solid #fde68a; border-radius: 8px; padding: 0.9rem 1.1rem; font-size: 13px; color: #92400e; margin-bottom: 2rem; line-height: 1.5; } .notice strong { font-weight: 600; } .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--gray-200); border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .stat { background: var(--white); padding: 1.1rem 0.75rem; text-align: center; } .stat-value { font-size: 17px; font-weight: 600; color: var(--black); letter-spacing: -0.02em; display: block; } .stat-label { font-size: 10px; color: var(--gray-400); font-family: var(--font-mono); margin-top: 4px; display: block; } .section-label { font-size: 13px; font-family: var(--font-sans); font-weight: 600; letter-spacing: -0.01em; color: var(--black); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); display: inline-block; } .features { display: flex; flex-direction: column; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .feature { display: grid; grid-template-columns: 3px 1fr; border-bottom: 1px solid var(--gray-200); transition: background 0.15s; } .feature:last-child { border-bottom: none; } .feature:hover { background: var(--gray-100); } .feature-accent { background: transparent; transition: background 0.15s; } .feature:hover .feature-accent { background: var(--accent); } .feature-content { padding: 1.1rem 1.25rem; } .feature-title { font-size: 14px; font-weight: 600; color: var(--black); margin-bottom: 3px; } .feature-desc { font-size: 13px; color: var(--gray-600); line-height: 1.5; } .spec-group { margin-bottom: 1.75rem; } .specs-table { width: 100%; border-collapse: collapse; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; font-size: 13px; } .specs-table tr { border-bottom: 1px solid var(--gray-200); } .specs-table tr:last-child { border-bottom: none; } .specs-table tr:hover td { background: var(--gray-100); } .specs-table td { padding: 9px 14px; background: var(--white); transition: background 0.1s; vertical-align: top; } .specs-table td:first-child { color: var(--gray-600); font-family: var(--font-mono); font-size: 11px; width: 42%; letter-spacing: 0.01em; } .specs-table td:last-child { color: var(--black); font-weight: 500; } .price-row { display: flex; align-items: baseline; gap: 12px; margin-bottom: 0.4rem; } .price { font-size: 28px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .sku { font-size: 11px; color: var(--gray-400); font-family: var(--font-mono); letter-spacing: 0.04em; margin-bottom: 2rem; } .footer-line { border-top: 1px solid var(--gray-200); padding-top: 1.5rem; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; } @media (max-width: 560px) { h1 { font-size: 26px; } .stats { grid-template-columns: repeat(2, 1fr); } .page { padding: 2rem 1.25rem 4rem; } } accessories/tern/Cargo Rack Tern Rear Rack 25 kg Capacity DoubleTruss 3D KLICKfix Rackpack Tern Folding Bikes Only Cargo Rack · Rear · DoubleTruss 3D · 25 kg · KLICKfix Rackpack · Dual Rail · Alloy 6061 Tern Cargo Rack A high-capacity rear rack for Tern folding bikes — DoubleTruss 3D structure, 25 kg capacity, dual-rail pannier system with heel  design, SideStrap anti-roll, KLICKfix Rackpack compatibility, and integrated rear light mount with internal cable routing. $138 CAD Tern folding bikes only — rear rack. The Cargo Rack mounts to the rear of compatible Tern folding bikes. It is not a front rack. Verify your specific model using Tern's compatibility checker before ordering. 25 kg load capacity (55 lb) Rear rack DoubleTruss 3D 0.94 kg rack weight The Tern Cargo Rack is a full-featured rear rack engineered around the geometry of Tern folding bikes — where rear rack placement, heel , and fold compatibility are all tighter constraints than on a standard bicycle. The DoubleTruss 3D structure uses thick-gauge 6061 aluminium in a three-dimensional truss pattern to achieve rack rigidity without excess weight. Dual rails — upper and lower — accommodate both full-sized panniers and KLICKfix Rackpack baskets and trunk bags simultaneously or interchangeably. The SideStrap anti-roll system anchors panniers against rotation. An integrated light and reflector mount with internal cable routing keeps the rear end clean. Highlights DoubleTruss 3D — rigid structure, controlled weight The DoubleTruss 3D design builds the rack structure as a three-dimensional truss rather than a flat ladder frame. The additional depth adds torsional stiffness — resistance to the twisting forces a heavy pannier load introduces. Thick-gauge 6061 aluminium throughout; the rack doesn't flex when loaded. Dual-rail system — upper and lower pannier attachment Two sets of rails — upper and lower — give panniers two hook attachment points rather than one, and allow different sized bags to be positioned at the correct height. Full-sized panniers and KLICKfix Rackpack baskets can both run on the dual-rail system, giving flexibility across cargo types. Lower rails — heel  on folding bikes Rear rack positioning on folding bikes often places rails closer to the rider's heel than on full-size bikes. The lower rails on the Cargo Rack are positioned to maximise heel  — reducing the chance of heel strike on loaded panniers during the pedal stroke. SideStrap anti-roll — panniers stay put The SideStrap system provides an anchor point that prevents panniers from rotating around the rail under load — a common issue on racks without an anti-roll mechanism. Loaded panniers shift their centre of gravity as contents settle; SideStrap keeps them upright and stable regardless. KLICKfix Rackpack compatible — baskets and trunk bags The rack platform is KLICKfix Rackpack compatible — Tern's Dry Goods Bag Gen 1, Kontti Basket Gen 1, and other KLICKfix Rackpack accessories clip directly on without straps. Switch between pannier and basket setups without tools or re-threading. Integrated light mount — internal cable routing A dedicated rear light and reflector mount is built into the rack structure. Cable routing runs internally — no exposed wires along the rack body. Cleaner appearance and less risk of cable snagging on panniers or cargo during loading and unloading. Adjustable height  The rack height can be adjusted to accommodate different tyre profiles and frame geometries across compatible Tern folding bike models. Verify fit via Tern's compatibility checker — height adjustment range is finite and must suit the specific frame. Specifications Brand Tern Model Cargo Rack Position Rear rack Load capacity 25 kg (55 lb) Rack weight 0.94 kg (2.1 lb) Material Aluminium 6061 — DoubleTruss 3D structure Dimensions 445 × 180 × 250 mm (17.5 × 7.1 × 9.8 in) Rail system Dual rail — upper and lower, heel  design Anti-roll SideStrap system Bag compatibility Full-size panniers · KLICKfix Rackpack baskets · trunk bags Recommended bags Dry Goods Bag Gen 1 · Kontti Basket Gen 1 Light mount Integrated — internal cable routing Height Adjustable  Compatibility Tern folding bikes — verify with Tern compatibility checker $138 CAD Tern Cargo Rack · Rear · DoubleTruss 3D · 25 kg · KLICKfix Rackpack · Dual Rail · #6061 Tern © 2026 Cargo Rack
+  Updated: 2026-06-19T16:27:36Z
   Vendor: Tern
   Product Type: Bicycle Front & Rear Racks
   Availability: Available
@@ -275,20 +260,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-default-title-bixpy-transom-adapter-j-2-motors-31100292431972.png?v=1686947831
   Price: $364.99 CAD
-- [SR Suntour - NCX Suspension Seatpost 27.2mm](https://powerinmotion.ca/products/suntour-ncx-suspension-seatpost): The NCX seat post has been engineered and built for years of comfort and performance. The unique and patented parallelogram design allows for smooth small bump compliance with a total of 50mm travel to make for a smooth ride. Comfort, low maintenance, and long-term durability are what this post is all about. The SR SUNTOUR NCX seat post is best in class for performance and value. This is a must-have accessory for any cyclist looking for the ultimate in comfort. Alleviate back pain and saddle soreness. SPECIFICATIONS Latest version 50mm of travel Stainless steel bushings 25mm offset saddle clamp Patented parallelogram suspension design Preload adjustable Internal coil spring for the ultimate in comfort The side clamp has a radial detent with a wide tilt adjustment range Weight 765g Requires 110mm of exposed seat post to the saddle rails for installation Maximum extension of 300mm height for 350mm length Maximum extension of 350mm height for 400mm length Stock standard spring is rated for riders of 140-180lbs +/- Optional hard and soft springs sold separately Optional cover sold separately 7mm rail saddle rail clamp diameter SP12 models are 27.2 and 31.6mm sizes SP17 models are 30.9mm size 2-year manufacturers warranty included Made in Taiwan
-  Updated: 2026-05-26T17:05:24Z
-  Vendor: Suntour
-  Product Type: Bicycle Seatposts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/suntour-bicycle-seatposts-default-title-suntour-ncx-suspension-seatpost-31106125594724.jpg?v=1687032132
-  Price: $150.00 CAD
 - [49n - Alloy Stay Mount Kickstand](https://powerinmotion.ca/products/49n-alloy-stay-mount-kickstand): • Lightweight adjustable alloy kickstand• Chainstay-mount, compatible with disc-brake equipped bikes
-  Updated: 2026-06-04T21:46:08Z
+  Updated: 2026-06-21T00:47:19Z
   Vendor: Live To Play
   Product Type: Bicycle Kickstands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/49n-bicycle-kickstands-default-title-49n-alloy-stay-mount-kickstand-31106119139428.jpg?v=1687031145
-  Price: $45.00 CAD
+  Price: $50.00 CAD
 - [49n - Classic Bar](https://powerinmotion.ca/products/49n-classic-bar): • Offers a comfortable riding position for urban and city bikes• Lightweight and a durable alloy construction• 70mm rise with a 50 degrees sweep• 580mm width
   Updated: 2026-05-26T17:05:25Z
   Vendor: 49N
@@ -414,14 +392,14 @@
     Availability: Available
     Price: $639.99 CAD
 - [Thule Smartphone Bike Mount](https://powerinmotion.ca/products/thule-smartphone-bike-mount): Effortlessly access apps, navigation, music, and more by mounting a smartphone to standard bicycle handlebars. Compatible with virtually any smartphone, with or without case, up to 3.5in x 0.7in x 6.7in (8.9cm x 1cm x 17cm) Keep smartphone safe and secure due to textured side clamps and additional rubberized skeleton web Quick and easy access to all ports and controls Quick and easy to install onto Thule Single Handlebar Mount (included) A smartphone can be viewed in either portrait or landscape mode
-  Updated: 2026-03-31T21:52:33Z
+  Updated: 2026-06-19T20:47:56Z
   Vendor: Thule
   Product Type: Phone Mount
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/thule-phone-mount-default-title-thule-smartphone-bike-mount-29383405109348.jpg?v=1686946679
   Price: $35.00 CAD
 - [Thule Shield Pannier](https://powerinmotion.ca/products/thule-shield-pannier): 13L This set of waterproof touring panniers comes with an easy-to-use attachment system making it perfect for any bike journey. Includes two 13L pannier bags Protect contents from heavy rain or splashing with IPX4 waterproof rating Keep papers and small items organized and protected in three interior pockets Easily carry off the bike with a removable shoulder strap Stay visible and safe with light attachment loops on both sides of the bag Enhanced visibility thanks to the reflective panels Securely attach and easily remove from 8-16mm racks without using adapters 17L Thule Shield pannier 17L is an urban bike bag perfect for bike commutes. Protect contents from heavy rain or splashing with IPX4 waterproof rating Easily carry off the bike with removable shoulder strap Stay visible and safe with light attachment loops on both sides of the bag Enhanced visibility thanks to the reflective panels Includes one 17L pannier bag Protect your 15" MacBook®/14" PC in the padded compartment Additional padded storage for a 10.5" tablet and files Quickly access your phone, keys or wallet in the exterior pocket Securely attach and easily remove from 8-16mm racks without using adapters 25L This set of large, waterproof touring panniers comes with an easy-to-use attachment system making it perfect for any bike journey. Protect contents from heavy rain or splashing with IPX4 waterproof rating Keep papers and small items organized and protected in three interior pockets Easily carry off the bike with a removable shoulder strap Stay visible and safe with light attachment loops on both sides of the bag Enhanced visibility thanks to the reflective panels Includes two 25L pannier bags Securely attach and easily remove from 8-16mm racks without using adapters
-  Updated: 2026-04-06T07:39:33Z
+  Updated: 2026-06-19T20:47:57Z
   Vendor: Thule
   Product Type: Bike Bag
   Availability: Available
@@ -506,8 +484,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bike-dog-cat-bag-default-title-tern-dog-roof-mini-29544444854372.jpg?v=1687055654
   Price: $140.00 CAD
-- [Tern Cargo Tray](https://powerinmotion.ca/products/tern-cargo-tray): The Cargo Tray creates a strong, generously sized cargo platform atop your bike's rear rack. The L-shape makes it perfect for hauling XXL stuff that won't fit in a crate or basket—like a cooler full of cold drinks, a stack of jumbo pizza boxes, or the new microwave you just bought. The Cargo Tray can carry up to 30 kg (66 lb) of cargo and has passed ISO's safety and performance standard for bicycle luggage carriers. A hefty L-shaped tray turns your bike into a flatbed pickup truck. Learn more about how to Carry Cargo on the HSD. The roomy platform lets you haul bulky items that won’t fit in a basket or four-sided tray 30 kg (66 lb) capacity Tested for safety and performance—ISO-11243  Won't interfere with vertical parking Made from oversized aluminum tubing for lightweight durability Easily mounts to any Tern bike featuring the Upper Deck System Specifications COLOR Black MAX DIMENSIONS (PER UNIT) 458 × 396 × 172.5 mm (18 × 15.6 × 6.8 in) LOAD CAPACITY 30 kg (66.1 lb) RECOMMENDED PRODUCTS Batten™ Straps MATERIAL Aluminum WEIGHT (PER SET) 1.06 kg (2.3 lb)
-  Updated: 2026-05-26T17:05:31Z
+- [TERN - Cargo Tray](https://powerinmotion.ca/products/tern-cargo-tray): Tern Cargo Tray *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --black: #111110; --white: #fafaf8; --gray-100: #f5f5f3; --gray-200: #e8e8e5; --gray-400: #a8a8a4; --gray-600: #6b6b67; --accent: #d95f2b; --accent-light: #f5e8e0; --font-sans: 'DM Sans', sans-serif; --font-mono: 'DM Mono', monospace; } body { font-family: var(--font-sans); background: var(--white); color: var(--black); min-height: 100vh; padding: 0; } .page { max-width: 760px; margin: 0 auto; padding: 3rem 2rem 5rem; } .breadcrumb { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); margin-bottom: 2.5rem; letter-spacing: 0.02em; flex-wrap: wrap; } .breadcrumb span { color: var(--gray-200); } .product-header { margin-bottom: 2rem; } .badge-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 0.75rem; } .badge { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--accent-light); color: var(--accent); border: 1px solid #e8c4ae; border-radius: 3px; padding: 3px 8px; } .badge-alt { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--gray-100); color: var(--gray-600); border: 1px solid var(--gray-200); border-radius: 3px; padding: 3px 8px; } .badge-warn { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: #fff8e1; color: #b45309; border: 1px solid #fde68a; border-radius: 3px; padding: 3px 8px; } h1 { font-size: 34px; font-weight: 600; line-height: 1.15; color: var(--black); margin-bottom: 0.35rem; letter-spacing: -0.025em; } .subtitle { font-size: 13px; font-family: var(--font-mono); color: var(--gray-400); letter-spacing: 0.04em; margin-bottom: 0.5rem; } .tagline { font-size: 16px; color: var(--gray-600); line-height: 1.5; } .price-hero { display: flex; align-items: baseline; gap: 10px; margin-top: 1rem; } .price-hero .price { font-size: 32px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-hero .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .divider { border: none; border-top: 1px solid var(--gray-200); margin: 2rem 0; } .description { font-size: 15px; line-height: 1.75; color: #333332; margin-bottom: 2rem; } .notice { background: #fff8e1; border: 1px solid #fde68a; border-radius: 8px; padding: 0.9rem 1.1rem; font-size: 13px; color: #92400e; margin-bottom: 2rem; line-height: 1.5; } .notice strong { font-weight: 600; } .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--gray-200); border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .stat { background: var(--white); padding: 1.1rem 0.75rem; text-align: center; } .stat-value { font-size: 17px; font-weight: 600; color: var(--black); letter-spacing: -0.02em; display: block; } .stat-label { font-size: 10px; color: var(--gray-400); font-family: var(--font-mono); margin-top: 4px; display: block; } .section-label { font-size: 13px; font-family: var(--font-sans); font-weight: 600; letter-spacing: -0.01em; color: var(--black); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); display: inline-block; } .features { display: flex; flex-direction: column; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .feature { display: grid; grid-template-columns: 3px 1fr; border-bottom: 1px solid var(--gray-200); transition: background 0.15s; } .feature:last-child { border-bottom: none; } .feature:hover { background: var(--gray-100); } .feature-accent { background: transparent; transition: background 0.15s; } .feature:hover .feature-accent { background: var(--accent); } .feature-content { padding: 1.1rem 1.25rem; } .feature-title { font-size: 14px; font-weight: 600; color: var(--black); margin-bottom: 3px; } .feature-desc { font-size: 13px; color: var(--gray-600); line-height: 1.5; } .spec-group { margin-bottom: 1.75rem; } .specs-table { width: 100%; border-collapse: collapse; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; font-size: 13px; } .specs-table tr { border-bottom: 1px solid var(--gray-200); } .specs-table tr:last-child { border-bottom: none; } .specs-table tr:hover td { background: var(--gray-100); } .specs-table td { padding: 9px 14px; background: var(--white); transition: background 0.1s; vertical-align: top; } .specs-table td:first-child { color: var(--gray-600); font-family: var(--font-mono); font-size: 11px; width: 42%; letter-spacing: 0.01em; } .specs-table td:last-child { color: var(--black); font-weight: 500; } .price-row { display: flex; align-items: baseline; gap: 12px; margin-bottom: 0.4rem; } .price { font-size: 28px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .sku { font-size: 11px; color: var(--gray-400); font-family: var(--font-mono); letter-spacing: 0.04em; margin-bottom: 2rem; } .footer-line { border-top: 1px solid var(--gray-200); padding-top: 1.5rem; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; } @media (max-width: 560px) { h1 { font-size: 26px; } .stats { grid-template-columns: repeat(2, 1fr); } .page { padding: 2rem 1.25rem 4rem; } } accessories/tern/Cargo Tray Tern Rear Cargo Tray 30 kg Capacity L-Shaped ISO-11243 Vertical Parking Safe HSD / Quick Haul / Short Haul Cargo Tray · Rear · L-Shaped · 30 kg · ISO-11243 · Vertical Parking · HSD / Quick Haul / Short Haul Tern Cargo Tray An L-shaped rear cargo tray for Tern cargo bikes — 30 kg capacity, lightweight aluminium tubing, ISO-11243 , and designed to carry oversized items a basket or flat tray can't handle without blocking vertical parking. $145 CAD HSD, Quick Haul, and Short Haul only — not the GSD. The Cargo Tray mounts to the rear rack of compatible cargo bikes. It is not compatible with the Tern GSD. Verify your specific model using Tern's compatibility checker before ordering. 30 kg load capacity (66 lb) L-shaped open-front cradle design 1.06 kg tray weight (2.3 lb) The Tern Cargo Tray is a rear-mounted cargo platform for the HSD, Quick Haul, and Short Haul cargo bikes. Its defining characteristic is an L-shaped cross-section — a flat base with a vertical rear wall — that cradles cargo from behind rather than relying entirely on straps or tray walls on all sides. This shape handles the category of items that don't fit neatly into a basket or Eurocrate: pizza boxes, coolers, wide appliance boxes, flat-pack items. At 1.06 kg it's significantly lighter than the Shortbed Tray and rated to 30 kg. ISO-11243 certification confirms the rack meets international safety and performance standards for bicycle cargo systems. The tray is designed to clear the bike's vertical parking geometry — bikes that stand on their rear wheel can continue to do so with the tray installed. Highlights L-shaped — cradles what baskets and flat trays can't The L-profile has a flat base and a raised rear wall. This cradle shape secures cargo from sliding backward without needing full enclosure — open at the front and sides. Items that are too wide for a basket, too flat for a crate, or too large for conventional bags rest against the rear wall and sit on the base. Pizza boxes, coolers, small appliances, flat-pack furniture: all candidates for the L-tray where everything else falls short. Vertical parking — tray doesn't block it Many Tern cargo bikes support vertical parking — standing the bike on its rear wheel to reduce floor footprint in hallways, lifts, or storage rooms. The Cargo Tray is designed around this constraint: its geometry doesn't interfere with the rear-wheel stand position. Bikes that could be parked vertically before can continue to do so with the tray installed and loaded cargo removed. ISO-11243  — independently tested ISO-11243 is the international standard for bicycle luggage carriers — it specifies structural requirements, load testing, and performance criteria for racks and cargo platforms. Certification means the Cargo Tray has been tested to an external standard, not just Tern's internal spec. For a cargo component carrying 30 kg on a bike, independent certification is meaningful assurance. Lightweight aluminium tubing — 1.06 kg At 1.06 kg, the Cargo Tray is light for its 30 kg capacity rating. Aluminium tubing construction keeps tare weight down — relevant when the bike and rider together already represent significant mass before any cargo is added. Less rack weight means more of the 30 kg allowance is available for the actual load. Batten Straps Gen 1 compatible The Cargo Tray works with Tern's Batten Straps Gen 1 for securing cargo that doesn't self-contain within the L-shaped cradle. Loose bags, groceries without a crate, or cargo that needs to be held against the rear wall — Batten Straps provide the tie-down points. Straps are sold separately. Specifications Brand Tern Model Cargo Tray Type Rear cargo tray — L-shaped Load capacity 30 kg (66 lb) Tray weight 1.06 kg (2.3 lb) Material Aluminium tubing Dimensions 458 × 396 × 172.5 mm (18 × 15.6 × 6.8 in) Profile L-shaped — flat base + raised rear wall Vertical parking Compatible — does not obstruct Certification ISO-11243 Compatible accessories Batten Straps Gen 1 (sold separately) Also available Shortbed Tray ($248) — flat bed, 35 kg, GSD/HSD/Quick Haul/Short Haul Compatible bikes HSD · Quick Haul · Short Haul — verify with Tern compatibility checker $145 CAD Tern Cargo Tray · Rear · L-Shaped · 30 kg · ISO-11243 · HSD / Quick Haul / Short Haul Tern © 2026 Cargo Tray
+  Updated: 2026-06-19T16:51:12Z
   Vendor: Tern
   Product Type: Bicycle Front & Rear Racks
   Availability: Available
@@ -521,7 +499,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-vehicle-bicycle-rack-accessories-default-title-tern-batten-straps-31106002387044.jpg?v=1686947624
   Price: $30.00 CAD
 - [SunSeeker - Eco-Delta SX - Recumbent Trike](https://powerinmotion.ca/products/sunseeker-eco-delta-sx-recumbent-trike): The Eco Delta SX is the newest edition to the Sun Seeker delta trike family. This is our most affordable trike, but just because its affordable doesn’t mean that it is not full of features. It has a fully adjustable mesh-back saddle with a padded bottom that keeps you cool and comfortable on long outings. There are spare bottle mounts on the handlebar and seat frame to let you carry plenty of hydration for the long hauls. Specifications WHEEL BASE 42 1/2 – 63″ (126-160cm) OVERALL LENGTH 68 3/4″-82 1/4″ (125-209cm) WIDTH 30 1/2″ (77.5cm) SEAT HEIGHT 20 1/2″ -22 3/4″ (52-58cm) B.B. HEIGHT 20″ (51cm) FRAME High Tensile Tig Welded Steel FORK High Tensile Steel BB Loose Ball 68mm CRANK Single Alloy 170mm 38t F. DERAILLEUR N/A R. DERAILLEUR Sunrace SHIFTER Sunrace FREEWHEEL 13-32 7 Speed GEAR INCH RANGE 22-55 PEDALS Alloy Cage BRAKE FRONT Promax Alloy Linear Pull BRAKE REAR Promax Mechanical Disc BRAKE LEVERS Promax Locking Linear Pull HEADSET 1 1/8″ Steel HANDLEBAR Steel w/2 Bottle Braze-ons STEM Alloy 240mm Recumbent 2pc HUB FRONT B/O HUB REAR Sealed Bearing Trike RIM FRONT 20×1.50 36h Alloy RIM REAR 20×1.50 36h Alloy SPOKES 14g. Stainless Steel TIRE FRONT 20×1.50 Kenda Kwest TIRE REAR 20×1.50 Kenda Kwest SADDLE Steel Frame 1pc – Padded/Mesh w/ Bottle Braze-ons SEAT SLIDE Rans Style WEIGHT 57 lbs. WEIGHT LIMIT 300 lbs. X-SEAM 31″-53″ (31-79cm)
-  Updated: 2026-06-08T22:41:22Z
+  Updated: 2026-06-16T13:36:02Z
   Vendor: Sunseeker
   Product Type: Tricycles
   Availability: Available
@@ -594,20 +572,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/riese-muller-electric-bike-default-title-riese-muller-load-75-touring-31100288368740.png?v=1686947766
   Price: $11,629.00 CAD
-- [Tern Short Haul D8](https://powerinmotion.ca/products/tern-short-haul-d8-1): Tern Short Haul D8 — Compact Cargo Bike *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --black: #111110; --white: #fafaf8; --gray-100: #f5f5f3; --gray-200: #e8e8e5; --gray-400: #a8a8a4; --gray-600: #6b6b67; --accent: #d95f2b; --accent-light: #f5e8e0; --font-sans: 'DM Sans', sans-serif; --font-mono: 'DM Mono', monospace; } body { font-family: var(--font-sans); background: var(--white); color: var(--black); min-height: 100vh; padding: 0; } .page { max-width: 760px; margin: 0 auto; padding: 3rem 2rem 5rem; } .breadcrumb { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); margin-bottom: 2.5rem; letter-spacing: 0.02em; flex-wrap: wrap; } .breadcrumb span { color: var(--gray-200); } .product-header { margin-bottom: 2rem; } .badge-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 0.75rem; } .badge { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--accent-light); color: var(--accent); border: 1px solid #e8c4ae; border-radius: 3px; padding: 3px 8px; } .badge-alt { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--gray-100); color: var(--gray-600); border: 1px solid var(--gray-200); border-radius: 3px; padding: 3px 8px; } h1 { font-size: 34px; font-weight: 600; line-height: 1.15; color: var(--black); margin-bottom: 0.35rem; letter-spacing: -0.025em; } .subtitle { font-size: 13px; font-family: var(--font-mono); color: var(--gray-400); letter-spacing: 0.04em; margin-bottom: 0.5rem; } .tagline { font-size: 16px; color: var(--gray-600); line-height: 1.5; } .price-hero { display: flex; align-items: baseline; gap: 10px; margin-top: 1rem; } .price-hero .price { font-size: 32px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-hero .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .divider { border: none; border-top: 1px solid var(--gray-200); margin: 2rem 0; } .description { font-size: 15px; line-height: 1.75; color: #333332; margin-bottom: 2rem; } .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--gray-200); border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .stat { background: var(--white); padding: 1.1rem 0.75rem; text-align: center; } .stat-value { font-size: 17px; font-weight: 600; color: var(--black); letter-spacing: -0.02em; display: block; } .stat-label { font-size: 10px; color: var(--gray-400); font-family: var(--font-mono); margin-top: 4px; display: block; } .section-label { font-size: 13px; font-family: var(--font-sans); font-weight: 600; letter-spacing: -0.01em; text-transform: none; color: var(--black); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); display: inline-block; } .features { display: flex; flex-direction: column; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .feature { display: grid; grid-template-columns: 3px 1fr; border-bottom: 1px solid var(--gray-200); transition: background 0.15s; } .feature:last-child { border-bottom: none; } .feature:hover { background: var(--gray-100); } .feature-accent { background: transparent; transition: background 0.15s; } .feature:hover .feature-accent { background: var(--accent); } .feature-content { padding: 1.1rem 1.25rem; } .feature-title { font-size: 14px; font-weight: 600; color: var(--black); margin-bottom: 3px; } .feature-desc { font-size: 13px; color: var(--gray-600); line-height: 1.5; } .spec-group { margin-bottom: 1.75rem; } .specs-table { width: 100%; border-collapse: collapse; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; font-size: 13px; } .specs-table tr { border-bottom: 1px solid var(--gray-200); } .specs-table tr:last-child { border-bottom: none; } .specs-table tr:hover td { background: var(--gray-100); } .specs-table td { padding: 9px 14px; background: var(--white); transition: background 0.1s; vertical-align: top; } .specs-table td:first-child { color: var(--gray-600); font-family: var(--font-mono); font-size: 11px; width: 42%; letter-spacing: 0.01em; } .specs-table td:last-child { color: var(--black); font-weight: 500; } .colours { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 2rem; } .colour-chip { display: flex; align-items: center; gap: 8px; font-size: 13px; font-family: var(--font-mono); padding: 6px 14px 6px 10px; border: 1px solid var(--gray-200); border-radius: 4px; color: var(--black); background: var(--white); } .colour-swatch { width: 14px; height: 14px; border-radius: 50%; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0; } .price-row { display: flex; align-items: baseline; gap: 12px; margin-bottom: 0.4rem; } .price { font-size: 28px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .sku { font-size: 11px; color: var(--gray-400); font-family: var(--font-mono); letter-spacing: 0.04em; margin-bottom: 2rem; } .footer-line { border-top: 1px solid var(--gray-200); padding-top: 1.5rem; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; } @media (max-width: 560px) { h1 { font-size: 26px; } .stats { grid-template-columns: repeat(2, 1fr); } .page { padding: 2rem 1.25rem 4rem; } } bikes / cargo bikes / Short Haul D8 Tern Non-Electric Cargo Bike Gen 1 EFBE  Short Haul D8 · Gen 1 · 1×8 · Non-Electric Short Haul D8 Tern's most affordable cargo bike — no motor, no battery, just a strong, light, capable platform for hauling kids, groceries, and gear on human power. $1,499 CAD 16.1 kg weight 140 kg max GVW 50 kg rear rack capacity The Short Haul D8 proves you don't need a motor to haul seriously. At 16.1 kg it's the lightest bike in the Tern lineup by a wide margin — and at $1,499, the most affordable. The EFBE Tri-Test  6061-AL frame carries up to 140 kg gross vehicle weight, the Atlas Q rear rack handles 50 kg with optional vertical parking, and hydraulic disc brakes stop it reliably whether you're loaded or light. Shimano Altus 1×8 shifting, Schwalbe Big Apple tires, and a wide fit range round out a bike that does real cargo work without the complexity or cost of an e-bike. Highlights 16.1 kg — the lightest Tern we carry No motor, no battery means a genuinely light bike. At 16.1 kg (35.5 lb) the Short Haul D8 is dramatically lighter than any e-cargo bike — easier to lift, carry up stairs, load into a vehicle, or just push around when you need to. 140 kg GVW — EFBE Tri-Test  Frame and steel fork EFBE Tri-Test  to 140 kg (308 lb) gross vehicle weight. The same rigorous independent safety testing as Tern's e-cargo bikes — just without the motor. Carries passengers, children, and full cargo loads with confidence. 50 kg Atlas Q rear rack + optional 20 kg front rack 6-point mounting Atlas Q Rack rated to 50 kg (110 lb) with UpperDeck Mount System and vertical parking. Add an optional front rack for up to 20 kg more carrying capacity. Compatible with the full Short Haul accessory range — child seats, panniers, cargo bags. Hydraulic disc brakes Front and rear hydraulic disc brakes deliver consistent, powerful stopping regardless of weather or load — a meaningful spec upgrade at this price point that puts it ahead of most cargo bikes in this range. Shimano Altus 1×8 — 31"–95" gear range Shimano Altus rear derailleur with 11–34T cassette and trigger shifter. Wide 31"–95" gear range handles loaded urban riding and gentle hills without needing a motor to get up them. Ultra-low 49 cm standover At 49 cm (19"), the step-over height is low enough to mount and dismount easily at traffic stops — even with a fully loaded rack or child seat behind you. Wide rider fit — 147–190 cm Adjustable stem and seatpost fit riders from 4'10" to 6'3" across a wide saddle-to-pedal range of 62–110 cm. One frame, shared easily across most adults. Vertical parking The Atlas Q Rack supports vertical parking — stand the bike upright on its rear wheel for tight storage in hallways, storage rooms, or small garages. Available colours Burnt Orange Black Drivetrain Shifter 1×8-speed, trigger Rear derailleur Shimano Altus Cassette 11–34T, 8-speed Crankset Forged 6061-AL crankarm Bottom bracket FSA, cartridge, sealed bearings Chain KMC, 8-speed Gear range 31"–95" (2.45–7.57 m) Pedals Urban, non-slip surface Brakes Front brake Hydraulic disc Rear brake Hydraulic disc Levers Hydraulic disc Wheels & Tires Front hub Disc, aluminium Rear hub 8-speed, disc, aluminium Rims Doublewall, for disc Tires Schwalbe Big Apple, 55-406, puncture protection, Reflex Spokes Stainless steel Frame & Cockpit Frame Tern Short Haul, patented design, 6061-AL, EFBE Tri-Test : 140 kg Fork Steel, EFBE : 140 kg Stem Forged, 31.8mm Handlebar Low riser, 31.8mm, 6061-AL Headset TH, cartridge bearings Saddle Velo Comfort Seatpost 31.6mm, 6061-AL, micro-adjust clamp Grips Velo ergonomic, lock-on Load & Capacity Max GVW 140 kg (308 lb) Max rider weight 120 kg (265 lb) Rear rack capacity 50 kg (110 lb) Front rack capacity 20 kg (44 lb) — optional rack Rack Atlas Q Rack — 6-point mounting, UpperDeck Mount System, vertical parking Kickstand Pletscher design, rear mount Standover height 49 cm (19.3 in) Rider height range 147–190 cm (4'10"–6'3") Frame sizes One size Dimensions Weight 16.1 kg (35.5 lb) Folding Does not fold Extras Fenders SplashGuard, stainless hardware Chainguard SKS Chainblade Luggage socket Combo Mount Bell Aluminium $1,499 CAD Tern Short Haul D8 · Gen 1 · One Size · Burnt Orange / Black Tern Bicycles © 2026 Short Haul D8 Gen 1
-  Updated: 2026-06-08T21:12:07Z
-  Vendor: Tern
-  Product Type: Cargo Bike
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-cargo-bike-20-wheels-satin-black-tern-short-haul-d8-31109491687524.jpg?v=1687039703
-  - [Satin Black](https://powerinmotion.ca/products/tern-short-haul-d8-1?variant=41454394507364)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-cargo-bike-20-wheels-satin-black-tern-short-haul-d8-30594938667108.jpg?v=1686867197
-    Price: $1,499.00 CAD
-  - [Burnt Orange](https://powerinmotion.ca/products/tern-short-haul-d8-1?variant=41454394540132)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-cargo-bike-20-wheels-satin-black-tern-short-haul-d8-31109491687524.jpg?v=1687039703
-    Price: $1,499.00 CAD
 - [Riese & Muller Load 75 Vario](https://powerinmotion.ca/products/riese-muller-load-75-vario): The Load 75 vario in detail Frame colour: coal grey matt*; white*Suspension fork: SR Suntour Mobie A32, 20", 50mmRear shock: X-Fusion GlydeHeadset: Acros AZX-221, block lock; TH No. 9, semi-integratedSeatpost: JD/Riese & Müller, Alu, 34,9 x 430mmSeatclamp: TranzX, 40,0 mm, QRTires: Schwalbe Big Ben Plus 55-406 Reflex; Schwalbe Big Ben Plus 55-559 Reflex; Schwalbe Smart Sam Plus 57-559 Reflex*; Schwalbe Smart Sam Plus 60-406 Reflex*Tubes: Schwalbe AV13; Schwalbe AV7Rims: Alex MD30 26"; Alex MD30, 20"Front hub: Novatec Disc 32HRear hub: Enviolo 380, 36HBattery: Bosch PowerPack 500 Performance, 36 V, 13,4 Ah/500Wh ( 2x )Motor: Cargo Line Cruise (Gen4)Display: Bosch Intuvia; Bosch Nyon*; Bosch SmartphoneHub*Crankset: FSA/Riese & Müller, 170 mmChain ring: 55T, for Gates drive belt CDXChain guard: Belt guardChain: Gates drive belt CDXPinion: 22T, for Gates drive belt CDXSaddle: Selle Royal New Lookin Evo R&MPedals: VP R&M CustomShifter: Enviolo grip shift Twist Display Pure, continuousHandlebar: FSA V-Drive, 31,8 mm, AluStem: Riese & Müller, adjustable height and angleGrips: Ergon ergonomicBrakes: Tektro TRP C 2.3 disc brakeFront light: Supernova M99 Mini Pro-25Tail light: Supernova M99, integrated brake lightMudguards: SKS A65RLuggage rack: Riese & Müller*Rubber: Bibia*Bell: BillyKickstand: Kickstand Riese & MüllerLock: ABUS Shield X+*RX Hardware: RX Chip (für RX Services)* The specification table indicates all available components for this model – not just the basic equipment. Some of the options listed are only available for a surcharge. For more information, see the Configurator. Riese & Müller reserves the right to make technical modifications as well as changes to the shape, colour and/or weight within reasonable limits. * May differ depending on the availability in your country, design or configuration of the model.
   Updated: 2026-05-26T17:05:33Z
   Vendor: Riese & Muller
@@ -672,7 +636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/low-profile-thruhull-pedal-drive-adapter-j-2-motors__48724.jpg?v=1707955392
     Price: $234.99 CAD
 - [Service - Tune Ups](https://powerinmotion.ca/products/service-tune-ups): Keep your wheels turning smoothly with our Basic Bike Tune-Up. This comprehensive service includes wheel truing, bearing surface adjustments, gear and brake calibrations, a complete safety check, and tire inspection. Ride confidently, knowing you have optimal performance and security on every outing. Listed price does not include the cost of parts. Service Tiers Safety Check Bolt Check Tire Inflation Component Inspection Brake Inspection Shifter Inspection Basic Tune-Up Everything in Safety Check Drivetrain Tuning Brake Adjustment and Tune Wheel Truing Tire Check / Inflation Drivetrain Lubrication Firmware Update Test Ride Bike Inspection (Assessment on all components on the bike) Bike Wipe Down Standard Tune Everything in Basic Tune-Up Tubeless Sealant Refresh Brake Bleed Includes 3 Spoke Replacements If Needed Pro Tune Everything in Standard Tune Full Bike Deep Clean and Re-Grease
-  Updated: 2026-06-05T16:37:48Z
+  Updated: 2026-06-25T20:43:07Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -711,7 +675,7 @@
     Availability: Not Available
     Price: $55.00 CAD
 - [Service - Wheel, Spoke, services](https://powerinmotion.ca/products/service-wheel-ebike-motor-services): Experience the luxury of having your wheels professionally serviced - from spoke cutting to wheel builds. Our highly skilled technicians are available for an exclusive, rare service, providing competent and cost-effective solutions to your wheel needs. *For Spoke cutting appointment services; Spoke machine set up Spoke and Nipple costs are added to the costs*
-  Updated: 2026-06-03T18:46:17Z
+  Updated: 2026-06-20T18:58:05Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -738,7 +702,7 @@
     Availability: Available
     Price: $45.00 CAD
 - [Service - Brake Services](https://powerinmotion.ca/products/service-brake-services-1): Stay safe with our brake services. Our technicians will take care of all your bike's brake needs, with brake pad replacement, brake adjustment, or a hydraulic brake bleed. Enjoy the luxury of a safe ride, catered to your specific needs. *listed price does not include parts cost*
-  Updated: 2026-06-05T19:19:47Z
+  Updated: 2026-06-16T20:40:59Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -771,7 +735,7 @@
     Availability: Available
     Price: $299.99 CAD
 - [MotionHeat | Heated Gloves Complete Set](https://powerinmotion.ca/products/heated-glove-liner-complete-set): Powerful Heated Gloves, with runtimes & temperatures surpassing the competition. Our Heated gloves provide the benefits of a tight comfortable fit. And Adaptability with every type of glove. MotionHeat Heated Gloves are without a doubt the best on the market with limitless options. Shipping Internationally.
-  Updated: 2026-05-26T17:05:37Z
+  Updated: 2026-06-18T02:18:36Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -897,7 +861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Untitleddesign.png?v=1707334220
     Price: $570.00 CAD
 - [Heated Glover Liner & Mitten Bundles](https://powerinmotion.ca/products/heated-glover-liner-mitten-bundles): Features: 🕐 Long Lasting: 3 hours (high) / 9 hours (low) with 12v 3.2Ah batteries 🔥ULTRAHOT 12V and 16V batteries getting up to 60°C / 140°F ✋ Full Hand Heating: Even warmth across the back of your hand, fingers, and thumb 🏔️ Portable Design: Compact & Easy-to-use 🔋 Safe Battery: Quality LG cells with a BMS (battery management system) 📱 Touchscreen Compatible: Fingertips usable with touchscreens Each Complete Kit Includes: One pair of heated glove liners One pair of Flip Open Mittens 2 batteries [Extended sets include 4 batteries] One charger [Standard (1ah, 2 batteries) or Fast (4ah, 4 batteries), based on package] One stickman wire Owners Manual (Chart above is for Standard 12V 3.2ah Battery) Click HERE for the entire run-time chart, and HERE for the sizing chart.
-  Updated: 2026-05-26T17:05:38Z
+  Updated: 2026-06-18T04:21:24Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -1103,7 +1067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/19_67cf27c2-466f-4ebb-be9e-25eee6375d30.png?v=1707334825
     Price: $305.00 CAD
 - [Split Mitten - Insulated Shell](https://powerinmotion.ca/products/split-mitten-insulated-shell): Features: 🖐️ Isolated Index and Middle Finger for tactility 🔥 High insulation Primaloft 💨Windproof 💦 Water-resistant 🏔️ Portable & Easy-to-use 🔋 Save battery life by running the liner at a lower temperature Includes: One pair of regular mittens Wrist Straps
-  Updated: 2026-05-26T17:05:38Z
+  Updated: 2026-06-18T07:21:53Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1124,7 +1088,7 @@
     Availability: Available
     Price: $95.00 CAD
 - [Heated Glove Liner - Left Hand or Right Hand Glove Liner](https://powerinmotion.ca/products/heated-glove-liner-left-hand-or-right-hand-glove-liner): *requires a battery to be used (sold separately) Features: 🔥12V and 16V batteries getting up to 60°C / 140°F ✋ Full heating on the back of the hand and on every finger 🏔️ Portable & Easy-to-use 🔋 Perfect outdoors accessory 📱 Touch screen compatible fingertips Includes: A singular glove
-  Updated: 2026-05-26T17:05:38Z
+  Updated: 2026-06-18T08:08:27Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1314,322 +1278,18 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/PairofInsolesALT.png?v=1709686859
     Price: $1,030.00 CAD
-- [Heated Insoles - Complete Set](https://powerinmotion.ca/products/heated-insoles-complete-set): Features: 🕐 3 hours on high / 9 hours on low 🔥12V Easily Heats up to 50°C / 122°F ✋ Full heating on the base of toes 🏔️ Portable & Easy-to-use 🔋 Perfect outdoors accessory Complete Kit Includes: One pair of heated insoles or DIY Kit Two batteries Two leg straps to house the batteries One charger Pair of Extension Cables Owners Manual
-  Updated: 2026-05-26T17:05:39Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsolesCompleteSet.jpg?v=1707334936
-  - [D.I.Y. Kit / Compact (12v 1ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583027300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/DIYInsoleCompleteset12v1.0ah.png?v=1707334936
-    Price: $255.00 CAD
-  - [D.I.Y. Kit / Standard (12v 3.2ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583060068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/DIYInsoleCompleteset12v3.2ah.png?v=1707334936
-    Price: $305.00 CAD
-  - [US Men's 6 - 6.5 / Women's 7 -7.5 / Compact (12v 1ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583191140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v1.0ah.png?v=1707334936
-    Price: $270.00 CAD
-  - [US Men's 6 - 6.5 / Women's 7 -7.5 / Standard (12v 3.2ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583223908)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v3.2ah.png?v=1707334936
-    Price: $325.00 CAD
-  - [US Men's 7 - 7.5 / Women's 8 - 8.5 / Compact (12v 1ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583289444)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v1.0ah.png?v=1707334936
-    Price: $270.00 CAD
-  - [US Men's 7 - 7.5 / Women's 8 - 8.5 / Standard (12v 3.2ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583322212)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v3.2ah.png?v=1707334936
-    Price: $325.00 CAD
-  - [US Men's 8 - 8.5 / Women's 9 - 9.5 / Compact (12v 1ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583354980)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v1.0ah.png?v=1707334936
-    Price: $270.00 CAD
-  - [US Men's 8 - 8.5 / Women's 9 - 9.5 / Standard (12v 3.2ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583387748)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v3.2ah.png?v=1707334936
-    Price: $325.00 CAD
-  - [US Men's 9 - 9.5 / Women's 10 - 10.5 / Compact (12v 1ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583420516)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v1.0ah.png?v=1707334936
-    Price: $270.00 CAD
-  - [US Men's 9 - 9.5 / Women's 10 - 10.5 / Standard (12v 3.2ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583453284)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v3.2ah.png?v=1707334936
-    Price: $325.00 CAD
-  - [US Men's 10 - 10.5 / Women's 11 - 11.5 / Compact (12v 1ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583486052)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v1.0ah.png?v=1707334936
-    Price: $270.00 CAD
-  - [US Men's 10 - 10.5 / Women's 11 - 11.5 / Standard (12v 3.2ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583518820)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v3.2ah.png?v=1707334936
-    Price: $325.00 CAD
-  - [US Men's 11 - 11.5 / Women's 12 - 12.5 / Compact (12v 1ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583551588)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v1.0ah.png?v=1707334936
-    Price: $270.00 CAD
-  - [US Men's 11 - 11.5 / Women's 12 - 12.5 / Standard (12v 3.2ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583584356)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v3.2ah.png?v=1707334936
-    Price: $325.00 CAD
-  - [US Men's 12 - 12.5 / Women's 13 -13.5 / Compact (12v 1ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583617124)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v1.0ah.png?v=1707334936
-    Price: $270.00 CAD
-  - [US Men's 12 - 12.5 / Women's 13 -13.5 / Standard (12v 3.2ah)](https://powerinmotion.ca/products/heated-insoles-complete-set?variant=42879583649892)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v3.2ah.png?v=1707334936
-    Price: $325.00 CAD
-- [Cables and Accessories](https://powerinmotion.ca/products/cables-and-accessories): Features: 🔌We have many different accessory cables to suit your heating needs *Please select the option of an adaptor and/or charger Includes: One cable of your choice
-  Updated: 2026-05-26T17:05:39Z
-  Vendor: Motion Heat
-  Product Type: Electronics Component Connectors
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/StickManDiagram-WebV2_95ab35cb-2de5-4e27-adf8-b6c4f5c787b3.jpg?v=1707334968
-  - [StickMan Harness](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585189988)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/StickManDiagram-WebV2_95ab35cb-2de5-4e27-adf8-b6c4f5c787b3.jpg?v=1707334968
-    Price: $25.00 CAD
-  - [USB Adaptor (12V Battery > USB)](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585222756)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/2.1mmtoUSB_b0160f4b-ed06-4e0c-a171-dff250c44c93.jpg?v=1707334968
-    Price: $20.00 CAD
-  - [Milwaukee Heated Jacket Adaptor - Single Battery](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585255524)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/2.1mmFto2.1mmF-MilwaukeeSingleandY-Split_6adde257-61e1-4e19-8029-df70e5cd91d1.jpg?v=1707334968
-    Price: $10.00 CAD
-  - [Milwaukee Heated Jacket Adaptor - Dual Battery](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585288292)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/2.1mmFto2.1mmF-MilwaukeeSingleandY-Split_6adde257-61e1-4e19-8029-df70e5cd91d1.jpg?v=1707334968
-    Price: $15.00 CAD
-  - [Moto Connector - 3/8" Eyelet to 2.1mm Male with Fuse](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585321060)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Eyeletto2.1mm_ed243269-c5e3-48ed-9ebb-7bb91c65288c.jpg?v=1707334968
-    Price: $30.00 CAD
-  - [Trailer Connector - SAE Connector to 2.1mm Male with Fuse](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585353828)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/2.1mmtoSAE_0b155ecf-fec1-46ac-9fff-2925836e6fd1.jpg?v=1707334968
-    Price: $30.00 CAD
-  - [Snowmobile Connector - RCA Male to RCA Female and 2.1mm Male](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585386596)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/RCA-MtoRCAFand2.1mm_39403a06-28cd-4baf-8190-639c7f7ceac7.jpg?v=1707334968
-    Price: $20.00 CAD
-  - [12V to Auto Aux](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585419364)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/2.1toCarAux.jpg?v=1707334968
-    Price: $22.00 CAD
-  - [100cm Extension Wire (Pair)](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585452132)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/ExtensionCablePairWeb.png?v=1707334968
-    Price: $25.00 CAD
-  - [100cm Flat Extension Wire (Pair)](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585484900)
-    Availability: Available
-    Price: $25.00 CAD
-  - [60cm Extension Wire (Pair)](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585517668)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/ExtensionCablePairWeb.png?v=1707334968
-    Price: $15.00 CAD
-  - [130cm Extension Wire (Pair)](https://powerinmotion.ca/products/cables-and-accessories?variant=42879585550436)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/ExtensionCablePairWeb.png?v=1707334968
-    Price: $30.00 CAD
-- [Chargers](https://powerinmotion.ca/products/chargers): Features: 🔌We have many different accessory chargers to suit your heating needs *Please select the option of a charger Includes: One charger of your choice
-  Updated: 2026-05-26T17:05:39Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/US-WallCharger_0b0110b9-af79-48fc-a003-f408cd514654.jpg?v=1707334979
-  - [12V / Regular Charger](https://powerinmotion.ca/products/chargers?variant=42879585976420)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/US-WallCharger_0b0110b9-af79-48fc-a003-f408cd514654.jpg?v=1707334979
-    Price: $20.00 CAD
-  - [12V / Fast Charger](https://powerinmotion.ca/products/chargers?variant=42879586009188)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/12VFastCharger_5bf2779c-77f3-43ea-89dd-1d6241823a7b.jpg?v=1707334979
-    Price: $75.00 CAD
-  - [12V / Car Charger](https://powerinmotion.ca/products/chargers?variant=42879586041956)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/CarCharger_686baa1d-5743-494c-9395-c2b39f5c0824.jpg?v=1707334979
-    Price: $20.00 CAD
-  - [16V / Regular Charger](https://powerinmotion.ca/products/chargers?variant=42879586074724)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/US-WallCharger_0b0110b9-af79-48fc-a003-f408cd514654.jpg?v=1707334979
-    Price: $20.00 CAD
-  - [16V / Fast Charger](https://powerinmotion.ca/products/chargers?variant=42879586107492)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/12VFastCharger_5bf2779c-77f3-43ea-89dd-1d6241823a7b.jpg?v=1707334979
-    Price: $115.00 CAD
-  - [16V / Car Charger](https://powerinmotion.ca/products/chargers?variant=42879586140260)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/CarCharger_686baa1d-5743-494c-9395-c2b39f5c0824.jpg?v=1707334979
-    Price: $20.00 CAD
-- [Heated Belt - Back Warmer Only](https://powerinmotion.ca/products/heated-belt-back-warmer-only): Features: 🔥12V and 16V batteries getting up to 60°C / 140°F ✋ Full heating to your back 🏔️ Portable & Easy-to-use 🔋 Perfect outdoors accessory Includes: One Heated Belt / Back Warmer Pair of 130cm extension Cables
-  Updated: 2026-05-26T17:05:39Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/MotionHeatBackWarmer.jpg?v=1707334984
-  Price: $100.00 CAD
-- [Heated Insole - Leg Straps](https://powerinmotion.ca/products/heated-insole-leg-straps): * Does not Include Batteries or Insoles (Sold Separately) Features: 🔥12V and 16V batteries getting up to 60°C 🏔️ lightweight, low profile design 🔋 Perfect outdoors accessory Includes: One pair of insole Leg Straps Click HERE for the full run time chart
-  Updated: 2026-05-26T17:05:39Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/LegStrap_efba42e2-4eb6-492a-9faa-8ce01e53e9b1.png?v=1707334993
-  Price: $85.00 CAD
-- [Batteries](https://powerinmotion.ca/products/batteries): Features: 🔋 We  12V and 16V batteries, which means our gear gets HOT. Most other heated gloves use either 5v or 7v, which simply does not get hot enough, or have a long enough run time. Combo Kit Includes: 2 batteries of your choice 1 charger Single Battery Kit Includes: 1 Battery of your choice
-  Updated: 2026-05-26T17:05:40Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/12V3.2ahSquare.jpg?v=1707335022
-  - [Compact (12v 1Ah) / Single Battery](https://powerinmotion.ca/products/batteries?variant=42879589056612)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/12V-1Ah-5x5.jpg?v=1707335022
-    Price: $55.00 CAD
-  - [Compact (12v 1Ah) / Combo Kit](https://powerinmotion.ca/products/batteries?variant=42879589089380)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/9.png?v=1707335022
-    Price: $100.00 CAD
-  - [Standard (12v 3.2Ah) / Single Battery](https://powerinmotion.ca/products/batteries?variant=42879589122148)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/12V3.2ahSquare.jpg?v=1707335022
-    Price: $85.00 CAD
-  - [Standard (12v 3.2Ah) / Combo Kit](https://powerinmotion.ca/products/batteries?variant=42879589154916)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/10.png?v=1707335022
-    Price: $140.00 CAD
-  - [Extended Run Time (12v 5Ah) / Single Battery](https://powerinmotion.ca/products/batteries?variant=42879589220452)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Battery-12V5ah.jpg?v=1707335022
-    Price: $135.00 CAD
-  - [Extended Run Time (12v 5Ah) [ With Fast Charger ] / Combo Kit](https://powerinmotion.ca/products/batteries?variant=42879589253220)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/11.png?v=1707335022
-    Price: $260.00 CAD
-  - [Compact Extra Heat (16v 1.0Ah) / Single Battery](https://powerinmotion.ca/products/batteries?variant=42879589285988)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Battery-16V3.2ah.jpg?v=1707335022
-    Price: $70.00 CAD
-  - [Compact Extra Heat (16v 1.0Ah) / Combo Kit](https://powerinmotion.ca/products/batteries?variant=42879589318756)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/12.png?v=1707335022
-    Price: $120.00 CAD
-  - [Standard Extra Heat (16v 3.2Ah) / Single Battery](https://powerinmotion.ca/products/batteries?variant=42879589351524)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Battery-16V3.2ah.jpg?v=1707335022
-    Price: $110.00 CAD
-  - [Standard Extra Heat (16v 3.2Ah) / Combo Kit](https://powerinmotion.ca/products/batteries?variant=42879589384292)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/13.png?v=1707335022
-    Price: $170.00 CAD
-  - [Extended Run Time Extra Heat (16v 5Ah) / Single Battery](https://powerinmotion.ca/products/batteries?variant=42879589417060)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Battery-16V5ah.jpg?v=1707335022
-    Price: $180.00 CAD
-  - [Extended Run Time Extra Heat (16v 5Ah) [ With Fast Charger ] / Combo Kit](https://powerinmotion.ca/products/batteries?variant=42879589449828)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/14.png?v=1707335022
-    Price: $340.00 CAD
-- [Heated Glove Liner - Liners Only](https://powerinmotion.ca/products/heated-glove-liner-liners-only): *requires a battery to be used (sold separately) Features: 🔥ULTRAHOT 12V and 16V batteries getting up to 60°C / 140°F ✋ Full heating on the back of the hand and on every finger 🏔️ Portable & Easy-to-use 🔋 Perfect outdoor accessory 📱 Touch screen-compatible fingertips Includes: One pair of glove liners One owners manual
-  Updated: 2026-05-26T17:05:40Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/GloveLinerOnly-Web_6e3f5856-93e4-4a30-b1e2-1fff04300181.jpg?v=1707335035
-  - [X-Small](https://powerinmotion.ca/products/heated-glove-liner-liners-only?variant=42879589974116)
-    Availability: Available
-    Price: $130.00 CAD
-  - [Small](https://powerinmotion.ca/products/heated-glove-liner-liners-only?variant=42879590006884)
-    Availability: Available
-    Price: $130.00 CAD
-  - [Medium](https://powerinmotion.ca/products/heated-glove-liner-liners-only?variant=42879590039652)
-    Availability: Available
-    Price: $130.00 CAD
-  - [Large](https://powerinmotion.ca/products/heated-glove-liner-liners-only?variant=42879590072420)
-    Availability: Available
-    Price: $130.00 CAD
-  - [X-Large](https://powerinmotion.ca/products/heated-glove-liner-liners-only?variant=42879590105188)
-    Availability: Available
-    Price: $130.00 CAD
-- [Flip-Open Mitten - Insulated Shell](https://powerinmotion.ca/products/flip-open-mitten-insulated-shell): Features: 🖐️ Fold over fingers for quick access 🔥 High insulation Primaloft 💨Windproof 💦 Water-resistant 🏔️ Portable & Easy-to-use 🔋 Save battery life by running the liner at a lower temperature Includes: One pair of regular mittens Please Note: These are not electronically heated and are only used as a shell for insulation.
-  Updated: 2026-05-26T17:05:40Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/MittenFrontandBack.jpg?v=1707335053
-  - [X-Small](https://powerinmotion.ca/products/flip-open-mitten-insulated-shell?variant=42879591907428)
-    Availability: Available
-    Price: $95.00 CAD
-  - [Small](https://powerinmotion.ca/products/flip-open-mitten-insulated-shell?variant=42879591940196)
-    Availability: Available
-    Price: $95.00 CAD
-  - [Medium](https://powerinmotion.ca/products/flip-open-mitten-insulated-shell?variant=42879591972964)
-    Availability: Available
-    Price: $95.00 CAD
-  - [Large](https://powerinmotion.ca/products/flip-open-mitten-insulated-shell?variant=42879592005732)
-    Availability: Available
-    Price: $95.00 CAD
-  - [X-Large](https://powerinmotion.ca/products/flip-open-mitten-insulated-shell?variant=42879592038500)
-    Availability: Available
-    Price: $95.00 CAD
-- [Insole Do It Yourself Kit Only](https://powerinmotion.ca/products/insole-do-it-yourself-kit-only): Features: 🔥12V and 16V batteries getting up to 50°C / 122°F ✋ Heating element on toes 🏔️ Create your perfect heated insoles specific to your boot or shoe 🔋 Perfect outdoor accessory * must have heated vest or leg strap to use heated insoles Complete Kit Includes: Two heating elements Two bottom adhesive fabric Two top adhesive fabric Two 100cm extension wire cables for connection to heated vest Owners Manual Click HERE for the full run-time chart
-  Updated: 2026-05-26T17:05:40Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/DIYKitWEB.jpg?v=1707335059
-  Price: $55.00 CAD
-- [Heated Insoles - Insoles Only](https://powerinmotion.ca/products/heated-insoles-insoles-only): *requires a battery to be used (sold separately) Features: 🔥12V and 16V batteries getting up to 50°C / 122°F ✋ Heating element on toes 🏔️ Flat, lightweight, low-profile design 🔋 Perfect outdoors accessory * must have heated vest or leg strap to use heated insoles Complete Kit Includes: One pair of insoles Two flat-wire cables Owners Manual Click HERE for the full run time chart
-  Updated: 2026-05-26T17:05:40Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/HeatedInsole.png?v=1707335079
-  - [US Men's 6 - 6.5 / Women's 7 -7.5](https://powerinmotion.ca/products/heated-insoles-insoles-only?variant=42879595282532)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleOnly.png?v=1707335079
-    Price: $75.00 CAD
-  - [US Men's 7 - 7.5 / Women's 8 - 8.5](https://powerinmotion.ca/products/heated-insoles-insoles-only?variant=42879595315300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleOnly.png?v=1707335079
-    Price: $75.00 CAD
-  - [US Men's 8 - 8.5 / Women's 9 - 9.5](https://powerinmotion.ca/products/heated-insoles-insoles-only?variant=42879595348068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleOnly.png?v=1707335079
-    Price: $75.00 CAD
-  - [US Men's 9 - 9.5 / Women's 10 - 10.5](https://powerinmotion.ca/products/heated-insoles-insoles-only?variant=42879595380836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleOnly.png?v=1707335079
-    Price: $75.00 CAD
-  - [US Men's 10 - 10.5 / Women's 11 - 11.5](https://powerinmotion.ca/products/heated-insoles-insoles-only?variant=42879595413604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleOnly.png?v=1707335079
-    Price: $75.00 CAD
-  - [US Men's 11 - 11.5 / Women's 12 - 12.5](https://powerinmotion.ca/products/heated-insoles-insoles-only?variant=42879595446372)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleOnly.png?v=1707335079
-    Price: $75.00 CAD
-  - [US Men's 12 - 12.5 / Women's 13 -13.5](https://powerinmotion.ca/products/heated-insoles-insoles-only?variant=42879595479140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleOnly.png?v=1707335079
-    Price: $75.00 CAD
-[List Continued](https://powerinmotion.ca/a/llms-agent/llms.txt?shop=powerinmotion.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NDAzMTIwNDI3MTA4LCJsYXN0X3ZhbHVlIjoiNzQwMzEyMDQyNzEwOCJ9)
+[List Continued](https://powerinmotion.ca/a/llms-agent/llms.txt?shop=powerinmotion.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NDAzMTE4MjY0NDIwLCJsYXN0X3ZhbHVlIjoiNzQwMzExODI2NDQyMCJ9)
 
 ## Collections
 
 - [Power in Motion Calgary Featured Products  | Canada Wide Shipping PIM](https://powerinmotion.ca/collections/featured-products): Power In Motion's most popular products! iGo Electric bikes | Surface 604 electric bikes | Segway Ninebot electric scooters | Aqua Marina Paddleboards | Bixpy Watercraft Motors | Thule Child Seats Hitch Racks Chariots and bike accessories | Montague & Tern Folding Bikes  | Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-05-26T16:40:48Z
+  Updated: 2026-06-16T11:52:48Z
   Total Products: 23
 - [Top Electric Bikes in Calgary | iGo, Tern, R&M E-Bikes](https://powerinmotion.ca/collections/electric-bikes): Explore the best electric bikes for  in Calgary, Alberta. Find top brands like iGo, Tern, and Riese & Müller. Whether you need commuter, mountain, folding, or cargo e-bikes, we offer quality and performance. Shop now with expert support and nationwide shipping across Canada. Get the perfect electric bike today!
-  Updated: 2026-06-03T18:29:20Z
+  Updated: 2026-06-24T11:03:31Z
   Total Products: 43
 - [Best Electric Bike Conversion Kits For  in Canada](https://powerinmotion.ca/collections/electric-bike-conversion-kits): Explore the best electric bike conversion kits in Canada, including Bafang and mid-drive options. Convert your bike with our top-rated kits, including your choice of 36v, 48v & 52v batteries. Learn how to install and discover if electric bike conversion kits are worth it. Shop now at Power In Motion.ca!
-  Updated: 2026-06-07T11:02:57Z
+  Updated: 2026-06-24T11:03:31Z
   Total Products: 9
 - [Fat Tire](https://powerinmotion.ca/collections/fat-bikes): Fat Bikes are ideal for the all-season rider, whether you’re looking for a winter adventure in the mountains or trying to make it to work in 15cm of fresh snow.  The wide tire provides increased traction and grips the road in slushy and slippery conditions.  Fat Bikes can also be equipped with studded tires for the ultimate winter riding experience!
   Updated: 2026-06-03T18:29:33Z
@@ -1638,14 +1298,14 @@
   Updated: 2026-05-26T16:40:48Z
   Total Products: 0
 - [Bike Accessories | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/all-parts-accessories): Accessories from Rocklock, Suntour Selle Royal, 49N, Ergon Thule, Tern, Montague, and more. From break pads, tubes, seat posts, seats, helmets, locks, water bottle holders and more. Check out Power in Motion and personalize your bike today! Disocunted / Free Shipping Rates from Power In Motion to | Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador | Compact Folding Bike | Pavement / City / Road Folding Bike | Pavement / City / Road Folding Electric Bike | Dahon | Tern | Montague | Link D8 | Link A7 | Paratrooper | Boston | Urban | Paratrooper Pro | Electric Bike | Ebike | iGO | IGO | igo | Surface 604 | Smartmotion | Paddleboard | Kayak | Conoe | Raft | Inflatable | Aqua Marina | Conversion | Hub Motor | Mid Drive Moter | 500w | 750w | 1000w | 250w | Power In Motion | Calgary | Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon
-  Updated: 2026-06-08T11:03:11Z
+  Updated: 2026-06-23T17:21:29Z
   Total Products: 137
 - [Sales &  Items | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/sales--items): Looking for a ? Or in the mood to save some money. Check out Power In Motion's  section to get a  on everything from E-bikes to speakers. These deals won't stay long so don't wait! Come visit Power In Motion today!
   Updated: 2026-06-08T22:41:23Z
   Total Products: 19
 - [All Products | Power In Motion | Calgary | Alberta | Canada](https://powerinmotion.ca/collections/all-products): Electric Bikes, Folding Bikes, Electric Skateboards, Electric Scooters, Bike Accessories, Electric bike conversions and more! At Power In Motion you are  to find a product that will suit your needs with a reasonable price, and high quality from your favorite brands all from all around the biking world. Check out Power In Motion and revolutionize your ride today! Power In Motion | Calgary | Canada | Surface 604 | Tern | Montague | iGO | Electric Bikes | Ebikes | Electric Skateboards | Electric Scooters | Folding Bikes | Segway | Ninebot | Segway Ninebot | Michael Blast | T4B | Topeak |Shirmano | Dahon | Easymotion | Schwalbe | Thule | Selle Royal | Conversion Kit | Bafang | Hub Motor Conversion Kit | Mid-Drive Conversion Kit | Helmet | Bike Helmet | Bike Fenders | City | Urban | Old |
-  Updated: 2026-06-08T22:41:23Z
-  Total Products: 912
+  Updated: 2026-06-25T21:56:05Z
+  Total Products: 922
 - [iGO Electric Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/igo-bikes): Power In Motion | PIM | iGo | Berri | Bonaventure | Atwater | Outland Royal | Oka | Laurentian  | Vendome | Extreme 3.0 | Camillien | Electric Bikes | Folding Bikes | Folding Electric Bike | Electric Mountain Bike | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia
   Updated: 2026-06-08T06:59:45Z
   Total Products: 8
@@ -1653,13 +1313,13 @@
   Updated: 2026-06-08T00:19:24Z
   Total Products: 12
 - [Tern Folding Bikes for  Canada | Compact & Electric Options](https://powerinmotion.ca/collections/tern-folding-bikes-canada): Discover Tern folding bikes in Canada, including the Tern GSD, HSD, Quick Haul, Vektron, Link, Verge and more models. Explore our selection of foldable electric bikes, perfect for commuting and travel. Shop compact, portable, and lightweight folding bikes for adults at Power In Motion. Get your Tern ebike fold up today
-  Updated: 2026-06-05T11:03:07Z
+  Updated: 2026-06-23T11:05:37Z
   Total Products: 34
 - [Montague Folding Bikes in Canada | Foldable Mountain & Road Bicycles](https://powerinmotion.ca/collections/montague-folding-bikes-canada): Discover premium Montague folding bikes in Calgary, Canada. Shop our range of foldable mountain and road bikes, including electric bicycles. Explore lightweight, compact designs perfect for adults. Find the best folding e-bikes, racing bikes, and more at Power In Motion. Buy now for unbeatable prices.
-  Updated: 2026-06-06T11:03:14Z
+  Updated: 2026-06-16T11:52:48Z
   Total Products: 12
 - [All Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/all-bikes): Folding Bikes, Mountain Bikes, Fat Bikes , City Bikes , Cruiser Bikes, Electric Bikes, and more. From popular brands like Surface 604, Tern, iGO, Montague, Michael Blast, Del Sol, Evo, and more. With prices ranging from cheap, to expensive to cover any budget. At Power in Motion Calgary your bound to find a bike perfect for you! Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-06-05T11:03:07Z
+  Updated: 2026-06-16T11:52:48Z
   Total Products: 50
 - [Best Segway Escooters in Calgary | Top Electric Scooters in Canada](https://powerinmotion.ca/collections/segway-escooters-calgary-canada): Discover the best Segway escooters in Calgary, available for purchase in Canada. Whether you're looking for an electric scooter for daily commutes or searching for the best escooter near you, find top-rated options at competitive prices. Learn where to buy and how much escooters cost.
   Updated: 2026-06-03T19:41:38Z
@@ -1674,10 +1334,10 @@
   Updated: 2026-05-26T16:40:49Z
   Total Products: 0
 - [Bafang Motor Kits](https://powerinmotion.ca/collections/bafang-motor-kits)
-  Updated: 2026-06-03T19:41:45Z
+  Updated: 2026-06-24T11:03:31Z
   Total Products: 5
 - [Electric Bike Batteries](https://powerinmotion.ca/collections/electric-bike-batteries)
-  Updated: 2026-06-07T11:02:57Z
+  Updated: 2026-06-24T11:03:31Z
   Total Products: 19
 - [Del Sol Cruiser Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/del-sol-standard-bikes)
   Updated: 2026-06-03T19:41:52Z
@@ -1707,19 +1367,19 @@
   Updated: 2026-06-02T23:25:04Z
   Total Products: 27
 - [20”, 26”, & 700c Folding Bikes for  in Calgary](https://powerinmotion.ca/collections/folding-bikes): Explore the best folding bikes in Calgary, including Tern and Montague models. Whether you need a compact, foldable bike for commuting or a lightweight foldable bicycle for travel, find the perfect fold up bike for adults and beginners at Power In Motion. With shipping all across Canada!
-  Updated: 2026-06-05T11:03:07Z
+  Updated: 2026-06-16T11:52:48Z
   Total Products: 16
 - [Comfort - Non Electric](https://powerinmotion.ca/collections/comfort-non-electric)
   Updated: 2024-03-11T23:20:45Z
   Total Products: 0
 - [All Products - For Setting Tax Level](https://powerinmotion.ca/collections/all-products-for-setting-tax-level)
-  Updated: 2026-06-08T11:03:11Z
-  Total Products: 145
+  Updated: 2026-06-25T21:37:19Z
+  Total Products: 144
 - [Bixpy Watercraft Motor](https://powerinmotion.ca/collections/bixpy-watercraft-motor): Transform your family trip with Bixpy's watercraft motor! With its fantastic fin adapter, you can use the Bixpy on paddleboards, boats, Kayaks, canoes, and more! As the first dealers in Canada, we at Power In Motion Calgary are incredibly pleased with the options Bixpy's J-2 outbound motor kit and the various accessories such as Kayak adapters, Transarm adapters, Fin adapters, Solar Panels, and more interact with the Bixpy system. in Bixpy's own words; Since the shipment of Bixpy's first motors and batteries in late 2017, we have motorized thousands of kayaks, paddleboards, divers, snorkelers, and other water enthusiasts as we have created an industry of motorizing personal watercraft. There are now thousands of videos and pictures online of people using our products to enjoy their local waterways in a way not possible before. It gives us great joy to know we are part of this story. And we’re just getting started!
   Updated: 2026-06-03T20:07:46Z
   Total Products: 24
 - [Thule](https://powerinmotion.ca/collections/thule)
-  Updated: 2026-06-03T20:13:24Z
+  Updated: 2026-06-24T11:03:31Z
   Total Products: 149
 - [Smartmotion](https://powerinmotion.ca/collections/smartmotion)
   Updated: 2026-06-03T20:14:09Z
@@ -1731,7 +1391,7 @@
   Updated: 2026-06-03T20:16:59Z
   Total Products: 4
 - [Standard Commuter, Road, & Mountain Bikes | Power In Motion | Calgary](https://powerinmotion.ca/collections/bikes): Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon |Power In Motion | PIM | iGo | Berri | Bonaventure | Atwater | Outland Royal | Oka | Laurentian  | Vendome | Extreme 3.0 | Camillien | Electric Bikes| Folding Bikes | Folding Electric Bike | Electric Mountain Bike | Surface 604 Electric Bikes | Rook | Colt | Quad | Explorer | Boar Explorer | Tern Folding Bikes | Folding Bikes | Tern Link A7 | Tern Link C8 | Tern Link D8 | Tern Link S8i | Tern Verge D9 | Tern Node D8 | Tern Verge S8i | Tern Node D7i | Tern Eclipse D16 | Tern Vektron Q9 | Tern HSD P9 | Tern HSD S8i | Tern GSD S10 | Tern GSD S00 | Tern GSD r14 | Montague Full Size Mountain, Road Folding Bikes | Montague Paratrooper Folding Bike | Montageue Paratrooper Pro Mountain Bike | Montague Urban Road Bike | Montague Navigator Folding Road Bike |
-  Updated: 2026-06-05T11:03:07Z
+  Updated: 2026-06-23T11:05:37Z
   Total Products: 28
 - [Kayaks & Rafts | Power In Motion | Calgary, Canada](https://powerinmotion.ca/collections/kayaks-rafts): Kayaks | Inflatable Kayaks | Rafts | Inflatable Rafts | Boats | Inflatable Boats | Calgary | Edmonton | Red Deer | Canmore | Banff | Alberta | Canada | British Columbia | Canoes | Affordable | Lightweight | Compact | Inexpensive | high quality | Kayak Paddles | Tolling Motor | Bixpy Kayak | Bixpy Boat |
   Updated: 2026-06-03T20:24:47Z
@@ -1746,7 +1406,7 @@
   Updated: 2026-05-26T16:40:50Z
   Total Products: 0
 - [Converted Bikes](https://powerinmotion.ca/collections/converted-bikes)
-  Updated: 2026-06-07T11:02:57Z
+  Updated: 2026-06-12T11:03:57Z
   Total Products: 7
 - [Riese & Muller Bikes](https://powerinmotion.ca/collections/riese-muller-bikes): Discover the world of Riese & Müller bikes at Powerinmotion Calgary! These bikes have revolutionized the industry time and time again, constantly pushing the boundaries of innovation. Whether you're an athlete, commuter, family rider, bike tourist, or tradesperson, Riese & Müller has an E-Bike that's perfect for you. Can't find the specific model you're looking for? Don't worry! We have the ability to order any bike from Riese & Müller's impressive lineup. Just visit Riese & Müller's website (https://www.r-m.de/en-ca/) to explore the full range of options and find your dream bike. But wait, there's more! If you're in Calgary, don't miss the chance to visit our storefront and experience the extraordinary Load4 75 Envilo, Delite4 Rohloff, and Packster 70 Envilo in person. We offer test rides and demos for interested buyers, so you can feel the thrill and quality of these exceptional bikes firsthand. Join the Riese & Müller revolution and elevate your cycling experience like never before!
   Updated: 2026-06-03T20:52:24Z
@@ -1758,19 +1418,19 @@
   Updated: 2026-05-26T16:40:50Z
   Total Products: 0
 - [New products](https://powerinmotion.ca/collections/new-products)
-  Updated: 2026-06-08T22:41:23Z
-  Total Products: 942
+  Updated: 2026-06-25T21:56:05Z
+  Total Products: 952
 - [Best  products](https://powerinmotion.ca/collections/best--products)
-  Updated: 2026-06-08T22:41:23Z
-  Total Products: 942
+  Updated: 2026-06-25T21:56:05Z
+  Total Products: 952
 - [Special Order](https://powerinmotion.ca/collections/special-order): These items are available for special order and are not stocked at our store fronts
   Updated: 2026-06-04T11:03:07Z
   Total Products: 167
 - [Pre Order](https://powerinmotion.ca/collections/pre-order): These products can be put on pre-order if out of stock currently
-  Updated: 2026-06-08T07:01:53Z
+  Updated: 2026-06-23T17:21:29Z
   Total Products: 96
 - [Mechanic Services](https://powerinmotion.ca/collections/mechanic-services): Welcome to Power In Motion, your go-to destination for top-notch bike mechanic services! We take pride in offering a comprehensive range of professional bike services to keep your two-wheeled companion in peak condition. Our highly skilled and experienced bike mechanics are here to ensure that your cycling experience is smooth, safe, and enjoyable. Whether you're a casual rider, a passionate cyclist, or a competitive athlete, we've got you covered with our specialized services.
-  Updated: 2026-06-06T11:03:14Z
+  Updated: 2026-06-21T11:03:43Z
   Total Products: 7
 - [Tires](https://powerinmotion.ca/collections/tires)
   Updated: 2026-06-03T21:36:41Z
@@ -1968,7 +1628,7 @@
   Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Tern Accessories](https://powerinmotion.ca/collections/tern-accessories)
-  Updated: 2026-06-03T21:47:30Z
+  Updated: 2026-06-21T11:03:43Z
   Total Products: 102
 - [HLC ONLINE ONLY](https://powerinmotion.ca/collections/hlc-online-only)
   Updated: 2026-05-26T16:40:55Z
@@ -2292,13 +1952,13 @@
   Updated: 2025-02-07T23:34:34Z
   Total Products: 0
 - [AddMotor](https://powerinmotion.ca/collections/addmotor): 🚴♂️ Addmotor Electric Trikes — Stability Meets Power & Comfort Discover the full lineup of Addmotor electric trikes, engineered for riders who want a perfect blend of confidence, comfort, and electric performance. Whether you’re cruising through city streets, running daily errands, or exploring neighbourhood paths, Addmotor trikes deliver a stable three-wheel ride, strong motor support, and smart features for everyday life. Each trike in this collection is designed with: Powerful motors for strong starts and smooth hill climbs Long-range batteries built for real-world distances Comfort-first geometry that’s easy on and easy off Integrated lights and displays for safer, more visible rides Cargo-friendly designs perfect for shopping, gear, or fun outings From compact folding options like the Citytri series to rugged, cargo-ready builds like the Grandtan M-340, Addmotor electric trikes bring three-wheel confidence to every rider — whether you’re new to e-mobility or a seasoned commuter. Ride with balance. Ride with power. Ride Addmotor.
-  Updated: 2026-06-04T04:05:26Z
+  Updated: 2026-06-24T11:03:31Z
   Total Products: 4
 - [CYC MOTOR LTD.](https://powerinmotion.ca/collections/cyc-motor-ltd): ⚡ CYC Motor LTD — Electrifying the Ride, Redefining Possibilities Welcome to CYC Motor LTD, where passion meets performance and innovation fuels every revolution. Born from a deep love of electric mobility and engineered for riders who demand power, precision, and reliability, our products represent the cutting edge of electric transportation technology. At CYC Motor LTD, we don’t just build products — we elevate experiences. From high-performance electric bicycle hubs and torque-sensor systems to modular motor kits that transform ordinary bikes into exhilarating electric machines, every component is crafted with purpose. We serve everyone from commuters seeking effortless urban travel to adventure riders chasing limitless terrain. 🔥 What Makes CYC Legendary? 🚀 Unmatched Performance: Industry-leading torque sensors, robust motors, and high-efficiency components designed to deliver power when you need it — without compromise. 🛠️ Precision Engineering: Every part is built with meticulous attention to detail, blending durability with intelligent design so you ride with confidence. ⚙️ Customizable & Modular: Whether you’re upgrading a daily commuter or building a bespoke electric beast, CYC’s systems are engineered for flexibility and seamless integration. 🌍 Designed for Real Riders: Tested against real-world use — from city streets to off-road trails — so your ride feels intuitive and unstoppable. 🔩 Our Products — Built to Transform ⚡ Electric Conversion KitsTurn any compatible bike into an electrifying ride. Easy to install, powerful to ride — embracing the future of motion has never been easier. 🔧 Motors & SensorsHigh-torque drive systems and precision sensors that unlock smooth acceleration, responsive control, and maximum efficiency with every pedal. 🧰 Accessories & Add-OnsFrom screens and controllers to compatible batteries and wiring harnesses — every part supports a unified, superior riding experience. 🛣️ More Than Products — A Movement CYC Motor LTD isn’t just a brand — it’s a community of innovators, commuters, DIY builders, and trailblazers. Everything we build is meant to inspire freedom — to transform your ride, empower your adventure, and push the boundaries of what’s possible on two wheels. Whether you’re upgrading a daily ride, shaping a performance machine, or pioneering your next project, you're riding with the best in modern electric mobility. ⚡ Ride Further. Ride Smarter. Ride CYC. Join the revolution.
-  Updated: 2026-06-07T11:02:57Z
+  Updated: 2026-06-12T11:03:57Z
   Total Products: 7
 - [Electric Trikes](https://powerinmotion.ca/collections/electric-trike)
-  Updated: 2026-06-04T04:35:56Z
+  Updated: 2026-06-24T11:03:31Z
   Total Products: 4
 - [Electric Comfort Bikes](https://powerinmotion.ca/collections/electric-comfort-bikes)
   Updated: 2026-06-04T04:36:03Z
@@ -2325,13 +1985,13 @@
   Updated: 2026-06-04T04:38:37Z
   Total Products: 1
 - [Folding Bikes](https://powerinmotion.ca/collections/folding-bikes-1)
-  Updated: 2026-06-05T11:03:07Z
+  Updated: 2026-06-16T11:52:48Z
   Total Products: 23
 - [Cargo Bikes](https://powerinmotion.ca/collections/cargo-bikes)
-  Updated: 2026-06-04T04:38:29Z
+  Updated: 2026-06-23T11:05:37Z
   Total Products: 1
 - [Road Bikes](https://powerinmotion.ca/collections/road-bikes)
-  Updated: 2026-06-04T04:38:39Z
+  Updated: 2026-06-12T21:45:48Z
   Total Products: 7
 - [Mountian Bike](https://powerinmotion.ca/collections/mountian-bike)
   Updated: 2026-05-26T16:40:58Z
@@ -2346,10 +2006,10 @@
   Updated: 2026-06-04T04:46:48Z
   Total Products: 2
 - [CYC Conversion Kit](https://powerinmotion.ca/collections/cyc-conversion-kit)
-  Updated: 2026-06-07T11:02:57Z
+  Updated: 2026-06-12T11:03:57Z
   Total Products: 3
 - [TERN Accessory / Front Rack](https://powerinmotion.ca/collections/tern-accessory-front-rack)
-  Updated: 2026-05-26T16:40:58Z
+  Updated: 2026-06-21T11:03:43Z
   Total Products: 3
 - [TERN Accessory / Storage & Transport](https://powerinmotion.ca/collections/tern-accessory-storage-transport)
   Updated: 2026-05-26T16:40:58Z
