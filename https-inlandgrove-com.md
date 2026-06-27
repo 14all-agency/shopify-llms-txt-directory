@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2024-02-01T16:53:23Z
 - Contact Email: james.carlson@shopify.com
-- Updated At: 2026-06-20T00:00:34.784Z
+- Updated At: 2026-06-27T00:00:34.735Z
 
 ## Products
 
 - [Green Bear Golf Hat – Eco-Friendly Performance Cap | Inland Grove](https://inlandgrove.com/products/green-bear): Sustainable golf hat made from recycled materials. Laser-perforated for breathability. Perfect for eco-conscious golfers.
-  Updated: 2026-06-18T23:49:15Z
+  Updated: 2026-06-25T16:32:21Z
   Vendor: Inland Grove
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/the-green-bear-hathats-6655914.png?v=1781826554
   Price: $35.00 USD
 - [The Range Hat | Inland Grove](https://inlandgrove.com/products/the-range-hat): Stay motivated on and off the golf course with Inland Grove’s Range Hat. A premium golf streetwear cap for learners, athletes, and growth-minded players.
-  Updated: 2026-06-19T15:56:48Z
+  Updated: 2026-06-25T16:32:21Z
   Vendor: Inland Grove
   Product Type: Hats
   Availability: Available
@@ -35,15 +35,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/the-range-pink-editionhats-2518722.png?v=1779424035
     Price: $45.00 USD
-- [Glove Caddy | Inland Grove](https://inlandgrove.com/products/glove-caddy): Premium leather golf glove holder with storage for tees and markers. Organize your essentials with Inland Grove’s iconic design.
-  Updated: 2026-06-17T17:12:40Z
-  Vendor: Inland Grove
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/the-glove-caddyaccessories-5433510.png?v=1779424034
-  Price: $40.00 USD
 - [Inland Grove Signature Golf Glove](https://inlandgrove.com/products/inland-grove-signature-golf-glove): *{box-sizing:border-box;margin:0;padding:0;} .ig{font-family:'Courier New',Courier,monospace;width:100%;padding:1.5rem 0;} .ig-header{border-bottom:1px solid #111;padding-bottom:1rem;margin-bottom:1.2rem;} .ig-name{font-size:15px;letter-spacing:0.18em;font-weight:700;color:#111;text-transform:uppercase;margin-bottom:0.8rem;} .ig-actions{display:flex;gap:1.5rem;} .ig-btn{background:none;border:none;cursor:pointer;font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:0.15em;color:#111;padding:0;text-transform:uppercase;display:flex;align-items:center;gap:6px;opacity:0.5;transition:opacity 0.15s;} .ig-btn:hover,.ig-btn.active{opacity:1;} .ig-btn-sym{font-size:16px;line-height:1;} .ig-panel{display:none;padding:1rem 0;border-bottom:1px solid #ddd;} .ig-panel.visible{display:grid;grid-template-columns:1fr 1fr;gap:0.3rem 2rem;} .ig-panel-colors.visible{display:block;} .ig-spec{font-size:12px;letter-spacing:0.12em;color:#111;line-height:2.2;text-transform:uppercase;border-bottom:0.5px solid #e8e8e8;padding-bottom:2px;} .ig-panel-label{font-size:10px;letter-spacing:0.2em;color:#999;text-transform:uppercase;grid-column:1/-1;margin-bottom:0.3rem;} .ig-color-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:0.5px solid #e8e8e8;} .ig-swatch{width:18px;height:18px;border-radius:50%;flex-shrink:0;border:0.5px solid rgba(0,0,0,0.15);} .ig-color-name{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#111;} .ig-color-desc{font-size:10px;letter-spacing:0.08em;color:#888;margin-top:2px;} Inland Grove Signature Golf Glove ✦ Details 🎨 Colors ⎓ Care Product details 100% Premium Cabretta Leather Embroidered Inland Grove Logo Dark Green with Contrast Stitching Caddy Bear Embossed Closure Tailored Fit — Molds to Hand Includes Matching Zippered Pouch Men's & Women's Sizing Dark Green Dark forest green with cream contrast stitching Care instructions Wipe Clean with Damp Cloth Air Dry Naturally Store in Included Pouch Condition Periodically with Leather Conditioner Do Not Machine Wash or Bleach var igCurrent='specs'; function igToggle(panel){ var s=document.getElementById('ig-panel-specs'); var col=document.getElementById('ig-panel-colors'); var c=document.getElementById('ig-panel-care'); var sb=document.getElementById('ig-specs-btn'); var colb=document.getElementById('ig-colors-btn'); var cb=document.getElementById('ig-care-btn'); [s,col,c].forEach(function(el){el.classList.remove('visible');}); [sb,colb,cb].forEach(function(b){b.classList.remove('active');}); if(igCurrent===panel){igCurrent=null;return;} if(panel==='specs'){s.classList.add('visible');sb.classList.add('active');} else if(panel==='colors'){col.classList.add('visible');colb.classList.add('active');} else{c.classList.add('visible');cb.classList.add('active');} igCurrent=panel; }
-  Updated: 2026-06-17T17:12:40Z
+  Updated: 2026-06-26T17:54:28Z
   Vendor: Inland Grove
   Product Type: Accessories
   Availability: Available
@@ -73,7 +66,7 @@
     Availability: Available
     Price: $20.00 USD
   - [White / M](https://inlandgrove.com/products/inland-grove-signature-golf-glove?variant=43913080438818)
-    Availability: Available
+    Availability: Not Available
     Price: $2.00 USD
   - [White / L](https://inlandgrove.com/products/inland-grove-signature-golf-glove?variant=43913080471586)
     Availability: Available
@@ -85,7 +78,7 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Caddy Bear Hoodie](https://inlandgrove.com/products/caddy-bear-hoodie): *{box-sizing:border-box;margin:0;padding:0;} .ig{font-family:'Courier New',Courier,monospace;width:100%;padding:1.5rem 0;} .ig-header{border-bottom:1px solid #111;padding-bottom:1rem;margin-bottom:1.2rem;} .ig-name{font-size:15px;letter-spacing:0.18em;font-weight:700;color:#111;text-transform:uppercase;margin-bottom:0.8rem;} .ig-actions{display:flex;gap:1.5rem;} .ig-btn{background:none;border:none;cursor:pointer;font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:0.15em;color:#111;padding:0;text-transform:uppercase;display:flex;align-items:center;gap:6px;opacity:0.5;transition:opacity 0.15s;} .ig-btn:hover,.ig-btn.active{opacity:1;} .ig-btn-sym{font-size:16px;line-height:1;} .ig-panel{display:none;padding:1rem 0;border-bottom:1px solid #ddd;} .ig-panel.visible{display:grid;grid-template-columns:1fr 1fr;gap:0.3rem 2rem;} .ig-panel-colors.visible{display:block;} .ig-spec{font-size:12px;letter-spacing:0.12em;color:#111;line-height:2.2;text-transform:uppercase;border-bottom:0.5px solid #e8e8e8;padding-bottom:2px;} .ig-panel-label{font-size:10px;letter-spacing:0.2em;color:#999;text-transform:uppercase;grid-column:1/-1;margin-bottom:0.3rem;} .ig-color-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:0.5px solid #e8e8e8;} .ig-swatch{width:18px;height:18px;border-radius:50%;flex-shrink:0;border:0.5px solid rgba(0,0,0,0.15);} .ig-color-name{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#111;} .ig-color-desc{font-size:10px;letter-spacing:0.08em;color:#888;margin-top:2px;} Caddy Bear Hoodie ✦ Details 🎨 Colors ⎓ Care Product details Premium Fleece Fabric Classic Fit Caddy Bear Graphic Kangaroo Pocket Drawstring Hood On & Off Course Forest Green Rich forest green with Caddy Bear graphic Care instructions Machine Wash Cold Tumble Dry Low Do Not Bleach Avoid Iron on Graphic var igCurrent='specs'; function igToggle(panel){ var s=document.getElementById('ig-panel-specs'); var col=document.getElementById('ig-panel-colors'); var c=document.getElementById('ig-panel-care'); var sb=document.getElementById('ig-specs-btn'); var colb=document.getElementById('ig-colors-btn'); var cb=document.getElementById('ig-care-btn'); [s,col,c].forEach(function(el){el.classList.remove('visible');}); [sb,colb,cb].forEach(function(b){b.classList.remove('active');}); if(igCurrent===panel){igCurrent=null;return;} if(panel==='specs'){s.classList.add('visible');sb.classList.add('active');} else if(panel==='colors'){col.classList.add('visible');colb.classList.add('active');} else{c.classList.add('visible');cb.classList.add('active');} igCurrent=panel; }
-  Updated: 2026-06-19T15:43:22Z
+  Updated: 2026-06-25T16:32:20Z
   Vendor: Inland Grove
   Product Type: Tops
   Availability: Available
@@ -111,8 +104,22 @@
   - [Forest Green / XXXL](https://inlandgrove.com/products/caddy-bear-hoodie?variant=44620173312034)
     Availability: Not Available
     Price: $75.00 USD
+- [The Greenside Patch Hat](https://inlandgrove.com/products/greenside-patch-hat): *{box-sizing:border-box;margin:0;padding:0;} .ig{font-family:'Courier New',Courier,monospace;width:100%;padding:1.5rem 0;} .ig-header{border-bottom:1px solid #111;padding-bottom:1rem;margin-bottom:1.2rem;} .ig-name{font-size:15px;letter-spacing:0.18em;font-weight:700;color:#111;text-transform:uppercase;margin-bottom:0.8rem;} .ig-actions{display:flex;gap:1.5rem;} .ig-btn{background:none;border:none;cursor:pointer;font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:0.15em;color:#111;padding:0;text-transform:uppercase;display:flex;align-items:center;gap:6px;opacity:0.5;transition:opacity 0.15s;} .ig-btn:hover,.ig-btn.active{opacity:1;} .ig-btn-sym{font-size:16px;line-height:1;} .ig-panel{display:none;padding:1rem 0;border-bottom:1px solid #ddd;} .ig-panel.visible{display:grid;grid-template-columns:1fr 1fr;gap:0.3rem 2rem;} .ig-panel-colors.visible{display:block;} .ig-spec{font-size:12px;letter-spacing:0.12em;color:#111;line-height:2.2;text-transform:uppercase;border-bottom:0.5px solid #e8e8e8;padding-bottom:2px;} .ig-panel-label{font-size:10px;letter-spacing:0.2em;color:#999;text-transform:uppercase;grid-column:1/-1;margin-bottom:0.3rem;} .ig-color-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:0.5px solid #e8e8e8;} .ig-swatch{width:18px;height:18px;border-radius:50%;flex-shrink:0;border:0.5px solid rgba(0,0,0,0.15);} .ig-color-name{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#111;} .ig-color-desc{font-size:10px;letter-spacing:0.08em;color:#888;margin-top:2px;} The Greenside Patch Hat ✦Details 🎨Colors ⎓Care Product details Unstructured 6-Panel Lightweight Nylon Woven Greenside Patch Low-Profile Crown Pre-Curved Brim Strapback Closure White White with woven Greenside patch Care instructions Spot Clean Preferred Hand Wash Cold Air Dry Only Do Not Machine Wash
+  Updated: 2026-06-26T15:49:48Z
+  Vendor: Inland Grove
+  Product Type: Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/the-greenside-patch-hathats-9727426.png?v=1781826550
+  Price: $40.00 USD
+- [Caddy The Bear Hat (Perforated)](https://inlandgrove.com/products/caddy-the-bear-hat-perforated): *{box-sizing:border-box;margin:0;padding:0;} .ig{font-family:'Courier New',Courier,monospace;width:100%;padding:1.5rem 0;} .ig-header{border-bottom:1px solid #111;padding-bottom:1rem;margin-bottom:1.2rem;} .ig-name{font-size:15px;letter-spacing:0.18em;font-weight:700;color:#111;text-transform:uppercase;margin-bottom:0.8rem;} .ig-actions{display:flex;gap:1.5rem;} .ig-btn{background:none;border:none;cursor:pointer;font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:0.15em;color:#111;padding:0;text-transform:uppercase;display:flex;align-items:center;gap:6px;opacity:0.5;transition:opacity 0.15s;} .ig-btn:hover,.ig-btn.active{opacity:1;} .ig-btn-sym{font-size:16px;line-height:1;} .ig-panel{display:none;padding:1rem 0;border-bottom:1px solid #ddd;} .ig-panel.visible{display:grid;grid-template-columns:1fr 1fr;gap:0.3rem 2rem;} .ig-panel-colors.visible{display:block;} .ig-spec{font-size:12px;letter-spacing:0.12em;color:#111;line-height:2.2;text-transform:uppercase;border-bottom:0.5px solid #e8e8e8;padding-bottom:2px;} .ig-panel-label{font-size:10px;letter-spacing:0.2em;color:#999;text-transform:uppercase;grid-column:1/-1;margin-bottom:0.3rem;} .ig-color-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:0.5px solid #e8e8e8;} .ig-swatch{width:18px;height:18px;border-radius:50%;flex-shrink:0;border:0.5px solid rgba(0,0,0,0.15);} .ig-color-name{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#111;} .ig-color-desc{font-size:10px;letter-spacing:0.08em;color:#888;margin-top:2px;} Caddy The Bear Hat ✦Details 🎨Colors ⎓Care Product details Unstructured 6-Panel Lightweight Nylon Oversized Caddy Embroidery Perforated Panels Pre-Curved Brim Strapback Closure Black / White Black with white Caddy Bear embroidery Care instructions Spot Clean Preferred Hand Wash Cold Air Dry Only Do Not Machine Wash
+  Updated: 2026-06-26T15:49:32Z
+  Vendor: Inland Grove
+  Product Type: Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/caddy-the-bear-hat-perforatedhats-6852544.png?v=1781826556
+  Price: $40.00 USD
 - [The Lefty Tee](https://inlandgrove.com/products/phil-mickelson-masters-2004): *{box-sizing:border-box;margin:0;padding:0;} .ig{font-family:'Courier New',Courier,monospace;width:100%;padding:1.5rem 0;} .ig-header{border-bottom:1px solid #111;padding-bottom:1rem;margin-bottom:1.2rem;} .ig-name{font-size:15px;letter-spacing:0.18em;font-weight:700;color:#111;text-transform:uppercase;margin-bottom:0.8rem;} .ig-actions{display:flex;gap:1.5rem;} .ig-btn{background:none;border:none;cursor:pointer;font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:0.15em;color:#111;padding:0;text-transform:uppercase;display:flex;align-items:center;gap:6px;opacity:0.5;transition:opacity 0.15s;} .ig-btn:hover,.ig-btn.active{opacity:1;} .ig-btn-sym{font-size:16px;line-height:1;} .ig-panel{display:none;padding:1rem 0;border-bottom:1px solid #ddd;} .ig-panel.visible{display:grid;grid-template-columns:1fr 1fr;gap:0.3rem 2rem;} .ig-panel-colors.visible{display:block;} .ig-spec{font-size:12px;letter-spacing:0.12em;color:#111;line-height:2.2;text-transform:uppercase;border-bottom:0.5px solid #e8e8e8;padding-bottom:2px;} .ig-panel-label{font-size:10px;letter-spacing:0.2em;color:#999;text-transform:uppercase;grid-column:1/-1;margin-bottom:0.3rem;} .ig-color-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:0.5px solid #e8e8e8;} .ig-swatch{width:18px;height:18px;border-radius:50%;flex-shrink:0;border:0.5px solid rgba(0,0,0,0.15);} .ig-color-name{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#111;} .ig-color-desc{font-size:10px;letter-spacing:0.08em;color:#888;margin-top:2px;} The Lefty Tee ✦ Details 🎨 Colors ⎓ Care Product details 100% Cotton Classic Fit Front Graphic Print Inland Grove Wordmark Everyday Weight Soft & Breathable White White base with full front graphic Care instructions Machine Wash Cold Tumble Dry Low Do Not Bleach Avoid Iron on Graphic var igCurrent='specs'; function igToggle(panel){ var s=document.getElementById('ig-panel-specs'); var col=document.getElementById('ig-panel-colors'); var c=document.getElementById('ig-panel-care'); var sb=document.getElementById('ig-specs-btn'); var colb=document.getElementById('ig-colors-btn'); var cb=document.getElementById('ig-care-btn'); [s,col,c].forEach(function(el){el.classList.remove('visible');}); [sb,colb,cb].forEach(function(b){b.classList.remove('active');}); if(igCurrent===panel){igCurrent=null;return;} if(panel==='specs'){s.classList.add('visible');sb.classList.add('active');} else if(panel==='colors'){col.classList.add('visible');colb.classList.add('active');} else{c.classList.add('visible');cb.classList.add('active');} igCurrent=panel; }
-  Updated: 2026-06-19T15:42:57Z
+  Updated: 2026-06-25T16:32:21Z
   Vendor: Inland Grove
   Product Type: 
   Availability: Available
@@ -139,7 +146,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Fathers Day Tee](https://inlandgrove.com/products/tiger-earl-tee): *{box-sizing:border-box;margin:0;padding:0;} .ig{font-family:'Courier New',Courier,monospace;width:100%;padding:1.5rem 0;} .ig-header{border-bottom:1px solid #111;padding-bottom:1rem;margin-bottom:1.2rem;} .ig-name{font-size:15px;letter-spacing:0.18em;font-weight:700;color:#111;text-transform:uppercase;margin-bottom:0.8rem;} .ig-actions{display:flex;gap:1.5rem;} .ig-btn{background:none;border:none;cursor:pointer;font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:0.15em;color:#111;padding:0;text-transform:uppercase;display:flex;align-items:center;gap:6px;opacity:0.5;transition:opacity 0.15s;} .ig-btn:hover,.ig-btn.active{opacity:1;} .ig-btn-sym{font-size:16px;line-height:1;} .ig-panel{display:none;padding:1rem 0;border-bottom:1px solid #ddd;} .ig-panel.visible{display:grid;grid-template-columns:1fr 1fr;gap:0.3rem 2rem;} .ig-panel-colors.visible{display:block;} .ig-spec{font-size:12px;letter-spacing:0.12em;color:#111;line-height:2.2;text-transform:uppercase;border-bottom:0.5px solid #e8e8e8;padding-bottom:2px;} .ig-panel-label{font-size:10px;letter-spacing:0.2em;color:#999;text-transform:uppercase;grid-column:1/-1;margin-bottom:0.3rem;} .ig-color-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:0.5px solid #e8e8e8;} .ig-swatch{width:18px;height:18px;border-radius:50%;flex-shrink:0;border:0.5px solid rgba(0,0,0,0.15);} .ig-color-name{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#111;} .ig-color-desc{font-size:10px;letter-spacing:0.08em;color:#888;margin-top:2px;} The Father's Day Tee ✦ Details 🎨 Colors ⎓ Care Product details 100% Cotton Classic Fit Front Graphic Print Caddy Logo at Back Inland Grove Wordmark Everyday Weight Black Black base with full front graphic Care instructions Machine Wash Cold Tumble Dry Low Do Not Bleach Avoid Iron on Graphic var igCurrent='specs'; function igToggle(panel){ var s=document.getElementById('ig-panel-specs'); var col=document.getElementById('ig-panel-colors'); var c=document.getElementById('ig-panel-care'); var sb=document.getElementById('ig-specs-btn'); var colb=document.getElementById('ig-colors-btn'); var cb=document.getElementById('ig-care-btn'); [s,col,c].forEach(function(el){el.classList.remove('visible');}); [sb,colb,cb].forEach(function(b){b.classList.remove('active');}); if(igCurrent===panel){igCurrent=null;return;} if(panel==='specs'){s.classList.add('visible');sb.classList.add('active');} else if(panel==='colors'){col.classList.add('visible');colb.classList.add('active');} else{c.classList.add('visible');cb.classList.add('active');} igCurrent=panel; }
-  Updated: 2026-06-19T15:42:47Z
+  Updated: 2026-06-25T16:32:21Z
   Vendor: Inland Grove
   Product Type: Tops
   Availability: Available
@@ -166,7 +173,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Classic Knit](https://inlandgrove.com/products/striped-knitted-polo): *{box-sizing:border-box;margin:0;padding:0;} .ig{font-family:'Courier New',Courier,monospace;width:100%;padding:1.5rem 0;} .ig-header{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #111;padding-bottom:1rem;margin-bottom:1.2rem;} .ig-name{font-size:15px;letter-spacing:0.18em;font-weight:700;color:#111;text-transform:uppercase;} .ig-actions{display:flex;gap:1.5rem;} .ig-btn{background:none;border:none;cursor:pointer;font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:0.15em;color:#111;padding:0;text-transform:uppercase;display:flex;align-items:center;gap:6px;opacity:0.5;transition:opacity 0.15s;} .ig-btn:hover,.ig-btn.active{opacity:1;} .ig-btn-sym{font-size:16px;line-height:1;} .ig-panel{display:none;padding:1rem 0;border-bottom:1px solid #ddd;} .ig-panel.visible{display:grid;grid-template-columns:1fr 1fr;gap:0.3rem 2rem;} .ig-panel-colors.visible{display:block;} .ig-spec{font-size:12px;letter-spacing:0.12em;color:#111;line-height:2.2;text-transform:uppercase;border-bottom:0.5px solid #e8e8e8;padding-bottom:2px;} .ig-panel-label{font-size:10px;letter-spacing:0.2em;color:#999;text-transform:uppercase;grid-column:1/-1;margin-bottom:0.3rem;} .ig-color-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:0.5px solid #e8e8e8;} .ig-swatch{width:18px;height:18px;border-radius:50%;flex-shrink:0;border:0.5px solid rgba(0,0,0,0.15);} .ig-color-name{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#111;} .ig-color-desc{font-size:10px;letter-spacing:0.08em;color:#888;margin-top:2px;} The Classic Knit ✦ Details 🎨 Colors ⎓ Care Product details Knitted Construction 100% Cotton Ribbed Collar & Cuffs Embroidered Caddy Logo Vertical Stripe Design Natural Stretch Navy Deep navy base with contrasting stripe detail Forest Green Rich forest green with citrus orange stripes Cream Warm cream base with forest green stripes Care instructions Machine Wash Cold Lay Flat to Dry Do Not Bleach Cool Iron If Needed var igCurrent='specs'; function igToggle(panel){ var s=document.getElementById('ig-panel-specs'); var col=document.getElementById('ig-panel-colors'); var c=document.getElementById('ig-panel-care'); var sb=document.getElementById('ig-specs-btn'); var colb=document.getElementById('ig-colors-btn'); var cb=document.getElementById('ig-care-btn'); [s,col,c].forEach(function(el){el.classList.remove('visible');}); [sb,colb,cb].forEach(function(b){b.classList.remove('active');}); if(igCurrent===panel){igCurrent=null;return;} if(panel==='specs'){s.classList.add('visible');sb.classList.add('active');} else if(panel==='colors'){col.classList.add('visible');colb.classList.add('active');} else{c.classList.add('visible');cb.classList.add('active');} igCurrent=panel; }
-  Updated: 2026-06-19T15:42:48Z
+  Updated: 2026-06-25T16:32:21Z
   Vendor: Inland Grove
   Product Type: Tops
   Availability: Available
@@ -232,7 +239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/classic-knittops-6589104.png?v=1781826561
     Price: $90.00 USD
 - [The Staple Polo](https://inlandgrove.com/products/the-staple-cotton-polo): *{box-sizing:border-box;margin:0;padding:0;} .ig{font-family:'Courier New',Courier,monospace;width:100%;padding:1.5rem 0;} .ig-header{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #111;padding-bottom:1rem;margin-bottom:1.2rem;} .ig-name{font-size:15px;letter-spacing:0.18em;font-weight:700;color:#111;text-transform:uppercase;} .ig-actions{display:flex;gap:1.5rem;} .ig-btn{background:none;border:none;cursor:pointer;font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:0.15em;color:#111;padding:0;text-transform:uppercase;display:flex;align-items:center;gap:6px;opacity:0.5;transition:opacity 0.15s;} .ig-btn:hover,.ig-btn.active{opacity:1;} .ig-btn-sym{font-size:16px;line-height:1;} .ig-panel{display:none;padding:1rem 0;border-bottom:1px solid #ddd;} .ig-panel.visible{display:grid;grid-template-columns:1fr 1fr;gap:0.3rem 2rem;} .ig-panel-colors.visible{display:block;} .ig-spec{font-size:12px;letter-spacing:0.12em;color:#111;line-height:2.2;text-transform:uppercase;border-bottom:0.5px solid #e8e8e8;padding-bottom:2px;} .ig-panel-label{font-size:10px;letter-spacing:0.2em;color:#999;text-transform:uppercase;grid-column:1/-1;margin-bottom:0.3rem;} .ig-color-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:0.5px solid #e8e8e8;} .ig-swatch{width:18px;height:18px;border-radius:50%;flex-shrink:0;border:0.5px solid rgba(0,0,0,0.15);} .ig-color-name{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#111;} .ig-color-desc{font-size:10px;letter-spacing:0.08em;color:#888;margin-top:2px;} The Staple Polo ✦ Details 🎨 Colors ⎓ Care Product details 3-Button Placket 100% Cotton Structured Collar Embroidered Caddy Logo Classic Fit Breathable Fabric Cream Warm cream with forest green Caddy logo Forest Green Forest green with white Caddy logo Care instructions Machine Wash Cold Tumble Dry Low Do Not Bleach Warm Iron If Needed var igCurrent='specs'; function igToggle(panel){ var s=document.getElementById('ig-panel-specs'); var col=document.getElementById('ig-panel-colors'); var c=document.getElementById('ig-panel-care'); var sb=document.getElementById('ig-specs-btn'); var colb=document.getElementById('ig-colors-btn'); var cb=document.getElementById('ig-care-btn'); [s,col,c].forEach(function(el){el.classList.remove('visible');}); [sb,colb,cb].forEach(function(b){b.classList.remove('active');}); if(igCurrent===panel){igCurrent=null;return;} if(panel==='specs'){s.classList.add('visible');sb.classList.add('active');} else if(panel==='colors'){col.classList.add('visible');colb.classList.add('active');} else{c.classList.add('visible');cb.classList.add('active');} igCurrent=panel; }
-  Updated: 2026-06-19T15:42:47Z
+  Updated: 2026-06-25T16:32:21Z
   Vendor: Inland Grove
   Product Type: Tops
   Availability: Available
@@ -294,7 +301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/the-staple-polotops-1787863.jpg?v=1781826551
     Price: $80.00 USD
 - [The Grove Quarter Zip](https://inlandgrove.com/products/the-grove-quarter-zip): *{box-sizing:border-box;margin:0;padding:0;} .ig{font-family:'Courier New',Courier,monospace;width:100%;padding:1.5rem 0;} .ig-header{border-bottom:1px solid #111;padding-bottom:1rem;margin-bottom:1.2rem;} .ig-name{font-size:15px;letter-spacing:0.18em;font-weight:700;color:#111;text-transform:uppercase;margin-bottom:0.8rem;} .ig-actions{display:flex;gap:1.5rem;} .ig-btn{background:none;border:none;cursor:pointer;font-family:'Courier New',Courier,monospace;font-size:12px;letter-spacing:0.15em;color:#111;padding:0;text-transform:uppercase;display:flex;align-items:center;gap:6px;opacity:0.5;transition:opacity 0.15s;} .ig-btn:hover,.ig-btn.active{opacity:1;} .ig-btn-sym{font-size:16px;line-height:1;} .ig-panel{display:none;padding:1rem 0;border-bottom:1px solid #ddd;} .ig-panel.visible{display:grid;grid-template-columns:1fr 1fr;gap:0.3rem 2rem;} .ig-panel-colors.visible{display:block;} .ig-spec{font-size:12px;letter-spacing:0.12em;color:#111;line-height:2.2;text-transform:uppercase;border-bottom:0.5px solid #e8e8e8;padding-bottom:2px;} .ig-panel-label{font-size:10px;letter-spacing:0.2em;color:#999;text-transform:uppercase;grid-column:1/-1;margin-bottom:0.3rem;} .ig-color-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:0.5px solid #e8e8e8;} .ig-swatch{width:18px;height:18px;border-radius:50%;flex-shrink:0;border:0.5px solid rgba(0,0,0,0.15);} .ig-color-name{font-size:12px;letter-spacing:0.12em;text-transform:uppercase;color:#111;} .ig-color-desc{font-size:10px;letter-spacing:0.08em;color:#888;margin-top:2px;} The Grove Quarter Zip ✦ Details 🎨 Colors ⎓ Care Product details 89% Cotton / 5% Wool 4% Polyester / 2% Spandex Quarter Zip Design Embroidered Caddy Logo Structured Collar Light Warmth & Stretch Forest Green Forest green with cream Caddy embroidery Cream Warm cream with forest green Caddy embroidery Care instructions Machine Wash Cold Lay Flat or Hang Dry Do Not Bleach Avoid Iron on Logo var igCurrent='specs'; function igToggle(panel){ var s=document.getElementById('ig-panel-specs'); var col=document.getElementById('ig-panel-colors'); var c=document.getElementById('ig-panel-care'); var sb=document.getElementById('ig-specs-btn'); var colb=document.getElementById('ig-colors-btn'); var cb=document.getElementById('ig-care-btn'); [s,col,c].forEach(function(el){el.classList.remove('visible');}); [sb,colb,cb].forEach(function(b){b.classList.remove('active');}); if(igCurrent===panel){igCurrent=null;return;} if(panel==='specs'){s.classList.add('visible');sb.classList.add('active');} else if(panel==='colors'){col.classList.add('visible');colb.classList.add('active');} else{c.classList.add('visible');cb.classList.add('active');} igCurrent=panel; }
-  Updated: 2026-06-18T23:49:14Z
+  Updated: 2026-06-25T16:32:21Z
   Vendor: Inland Grove
   Product Type: Outerwear
   Availability: Available
@@ -346,22 +353,22 @@
   Updated: 2026-06-17T17:12:39Z
   Total Products: 4
 - [All Products](https://inlandgrove.com/collections/all)
-  Updated: 2026-06-17T17:12:39Z
-  Total Products: 41
+  Updated: 2026-06-26T23:25:36Z
+  Total Products: 75
 - [Accessories](https://inlandgrove.com/collections/accessories-1)
-  Updated: 2026-06-17T17:12:39Z
+  Updated: 2026-06-21T11:09:39Z
   Total Products: 4
 - [Hats](https://inlandgrove.com/collections/hats-2)
-  Updated: 2026-06-17T17:12:39Z
+  Updated: 2026-06-20T11:09:57Z
   Total Products: 7
 - [Tops](https://inlandgrove.com/collections/tops-2)
-  Updated: 2026-06-17T17:12:39Z
-  Total Products: 15
+  Updated: 2026-06-26T18:50:18Z
+  Total Products: 37
 - [Past Releases](https://inlandgrove.com/collections/past-releases)
   Updated: 2026-06-17T17:12:40Z
   Total Products: 5
 - [New Arrivals](https://inlandgrove.com/collections/new-arrivals)
-  Updated: 2026-06-17T17:12:40Z
+  Updated: 2026-06-20T11:09:57Z
   Total Products: 8
 - [Juneteenth collection](https://inlandgrove.com/collections/juneteenth-collection)
   Updated: 2026-06-17T17:12:40Z
@@ -370,35 +377,38 @@
   Updated: 2025-10-10T00:24:46Z
   Total Products: 0
 - [Collection all for Inkybay](https://inlandgrove.com/collections/inkybay-all)
-  Updated: 2026-06-14T11:09:41Z
-  Total Products: 41
+  Updated: 2026-06-26T23:25:36Z
+  Total Products: 75
 - [Hoodie](https://inlandgrove.com/collections/hoodie)
-  Updated: 2026-06-17T17:12:40Z
-  Total Products: 1
+  Updated: 2026-06-25T23:26:15Z
+  Total Products: 2
 - [Tees](https://inlandgrove.com/collections/tees)
-  Updated: 2026-06-17T17:12:40Z
-  Total Products: 6
+  Updated: 2026-06-26T04:08:20Z
+  Total Products: 10
 - [Cart Upsells](https://inlandgrove.com/collections/cart-upsells)
-  Updated: 2026-06-17T17:12:40Z
+  Updated: 2026-06-21T11:09:39Z
   Total Products: 6
 - [Inland Grove proudly presents our PGA Show 2026 collection.](https://inlandgrove.com/collections/inland-grove-proudly-presents-our-pga-show-2026-collection): Founded in 2023, Inland Grove quickly established itself in the e-commerce space by bringing a fresh perspective to golf—introducing a distinctive logo, elevated design, and a storytelling-driven approach to every release. What began as a direct-to-consumer brand has evolved into a curated presence at select courses across the country. Now, Inland Grove is entering its next chapter—expanding into premier courses, resorts, clubs, and retail partners who share our belief that golf apparel should feel intentional, modern, and culturally relevant both on and off the course.
   Updated: 2026-06-17T17:12:40Z
   Total Products: 0
 - [PGA  Wholesale Collection - Inland Grove](https://inlandgrove.com/collections/pga-show-collection): Wholesale products for conference orders
-  Updated: 2026-06-14T11:09:41Z
+  Updated: 2026-06-20T11:09:57Z
   Total Products: 15
 - [Summer 2026](https://inlandgrove.com/collections/summer-2027)
-  Updated: 2026-06-18T23:46:15Z
+  Updated: 2026-06-21T11:09:39Z
   Total Products: 22
 - [Tops](https://inlandgrove.com/collections/tops)
-  Updated: 2026-06-18T23:46:28Z
+  Updated: 2026-06-20T11:09:57Z
   Total Products: 9
 - [Hats](https://inlandgrove.com/collections/hats)
-  Updated: 2026-06-18T23:46:31Z
+  Updated: 2026-06-20T11:09:57Z
   Total Products: 6
 - [Accessories](https://inlandgrove.com/collections/accessories)
-  Updated: 2026-06-18T23:46:34Z
+  Updated: 2026-06-21T11:09:39Z
   Total Products: 4
+- [AW26](https://inlandgrove.com/collections/aw26): AW26 All Orders (Magic & PGA Show)
+  Updated: 2026-06-26T23:25:08Z
+  Total Products: 33
 
 ## Blogs
 
