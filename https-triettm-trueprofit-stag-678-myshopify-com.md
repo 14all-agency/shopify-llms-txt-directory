@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-15T07:07:28Z
 - Contact Email: qc.trueprofit@firegroup.io
-- Updated At: 2026-06-20T00:00:39.409Z
+- Updated At: 2026-06-27T00:00:41.477Z
 
 ## Products
 
@@ -47,13 +47,13 @@
   Image: https://cdn.shopify.com/s/files/1/0760/7946/4640/files/Main.jpg?v=1778828875
   Price: $885.95 USD
 - [The Minimal Snowboard](https://triettm-trueprofit-stag-678.myshopify.com/products/the-minimal-snowboard)
-  Updated: 2026-05-15T07:07:58Z
+  Updated: 2026-06-20T13:11:31Z
   Vendor: triettm-trueprofit-stag-678
   Product Type: 
   Availability: Available
   Price: $885.95 USD
 - [Hidden Snowboard](https://triettm-trueprofit-stag-678.myshopify.com/products/the-hidden-snowboard): hidden snowboard winter sport snowboarding
-  Updated: 2026-05-15T19:08:05Z
+  Updated: 2026-06-20T13:11:32Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
