@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2021-06-04T07:09:00Z
 - Contact Email: info@katana-japonais.com
-- Updated At: 2026-06-19T00:00:43.015Z
+- Updated At: 2026-06-27T00:00:44.002Z
 
 ## Products
 
@@ -173,7 +173,7 @@
     Availability: Available
     Price: 930,00 € EUR
 - [Katana Fuyu 冬 | Katana Japonais](https://katana-japonais.com/products/katana-fuyu): Le katana Fuyu, à l’esthétique soignée et à la lame robuste, est l’arme parfaite pour les passionnés d’arts martiaux et de culture traditionnelle japonaise.
-  Updated: 2026-06-18T18:52:56Z
+  Updated: 2026-06-22T10:18:02Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -227,7 +227,7 @@
     Availability: Available
     Price: 560,00 € EUR
 - [Katana Jin 寺院 | Katana Japonais](https://katana-japonais.com/products/katana-jin): Le katana Jin allie design épuré et robustesse exceptionnelle. Une pièce d’exception pour les passionnés d’arts martiaux et de culture traditionnelle japonaise.
-  Updated: 2026-06-05T21:36:27Z
+  Updated: 2026-06-26T14:15:40Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -461,7 +461,7 @@
     Availability: Available
     Price: 400,00 € EUR
 - [Katana Yoru 夜 | Katana Japonais](https://katana-japonais.com/products/katana-yoru): Le katana Yoru, symbole de la nuit, combine une lame robuste et un design épuré. Idéal pour les collectionneurs et amateurs de culture japonaise.
-  Updated: 2026-06-05T21:36:29Z
+  Updated: 2026-06-19T20:32:47Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -641,7 +641,7 @@
     Availability: Available
     Price: 1 130,00 € EUR
 - [Katana Gin 銀 | Katana Japonais](https://katana-japonais.com/products/katana-gin): Le katana Gin, avec ses finitions argentées, incarne l’élégance et la précision de l’artisanat japonais. Parfait pour les amateurs de sabres d’exception.
-  Updated: 2026-06-05T21:36:31Z
+  Updated: 2026-06-20T23:45:26Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -803,7 +803,7 @@
     Availability: Available
     Price: 590,00 € EUR
 - [Support Katana | Katana Japonais](https://katana-japonais.com/products/support-katana): Gamme de supports de Katanas pour un, deux ou trois Sabres. Il n'est pas possible de commander un support seul sans sabre.
-  Updated: 2026-06-18T19:04:52Z
+  Updated: 2026-06-26T14:15:40Z
   Vendor: Katana Japonais
   Product Type: Support Katana
   Availability: Available
@@ -857,7 +857,7 @@
     Availability: Available
     Price: 1 330,00 € EUR
 - [Sur Mesure | Katana Japonais](https://katana-japonais.com/products/katana-sur-mesure): Concevez un katana sur mesure qui correspond à vos goûts et besoins. Choisissez les matériaux, les finitions et les détails pour une lame exclusive.
-  Updated: 2026-06-14T14:32:22Z
+  Updated: 2026-06-19T19:54:47Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1181,7 +1181,7 @@
     Availability: Available
     Price: 300,00 € EUR
 - [Katana Kamon 家紋 | Katana Japonais](https://katana-japonais.com/products/katana-kamon): Le katana Kamon, orné de motifs traditionnels japonais, reflète l’élégance et l’héritage culturel des samouraïs. Parfait pour collectionneurs exigeants.
-  Updated: 2026-06-18T18:53:02Z
+  Updated: 2026-06-20T15:10:35Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1283,7 +1283,7 @@
     Availability: Available
     Price: 830,00 € EUR
 - [Katana Suhama Giri 家紋 | Katana Japonais](https://katana-japonais.com/products/katana-suhama-giri): Le Katana Suhama Giri associe une lame précise et un design raffiné, représentant l’équilibre parfait entre tradition et modernité japonaise.
-  Updated: 2026-06-05T21:36:36Z
+  Updated: 2026-06-20T11:03:08Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1874,7 +1874,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Enma | Katana Japonais](https://katana-japonais.com/products/katana-enma): Procurez-vous le katana Enma, sabre emblématique de Zoro dans One Piece. Une réplique de qualité pour les amateurs d'anime et d'armes japonaises.
-  Updated: 2026-06-15T11:37:52Z
+  Updated: 2026-06-23T19:30:01Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -1928,7 +1928,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Zoro | Katana Japonais](https://katana-japonais.com/products/katana-zoro): Explorez les katanas de Zoro, répliques fidèles de l’univers One Piece. Des lames de collection idéales pour les passionnés d’anime et de sabres légendaires.
-  Updated: 2026-06-08T15:21:44Z
+  Updated: 2026-06-26T07:11:12Z
   Vendor: Katana Japonais
   Product Type: Katana
   Availability: Available
@@ -2819,30 +2819,30 @@
   Updated: 2026-06-05T21:36:24Z
   Total Products: 1
 - [Katanas | Katana Japonais](https://katana-japonais.com/collections/katana-sabre-japonais): Découvrez notre collection de Katana Japonais forgés à la main. +150 Katanas uniques dans des aciers et forges différentes. Marque #1 sur les Katanas.
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 244
 - [Katanas Entrée de Gamme | Katana Japonais](https://katana-japonais.com/collections/katanas-entree-de-gamme): Découvrez notre collection de Katanas d'Entrée de Gamme. Offrez-vous un Katana fait à la main à partir de 200 €.
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 85
 - [Katanas Milieu de Gamme | Katana Japonais](https://katana-japonais.com/collections/katanas-milieu-de-gamme): Découvrez notre sélection de Katanas Milieu de Gamme. Gamme parfaite pour un Katana de haute qualité avec de nombreux détails offrant la possibilité de pratiquer la coupe. Artisanat, solidité et tranchant.
 Acier T10, Damas, 1095 et vrai Hamon.
-  Updated: 2026-06-15T11:09:24Z
+  Updated: 2026-06-21T11:06:01Z
   Total Products: 84
 - [Katanas Hauts de Gamme | Katana Japonais](https://katana-japonais.com/collections/katanas-hauts-de-gamme): Les meilleurs Aciers et techniques de forge réunies dans la création de votre Katana. Parfait pour trancher, décorer et la collection.
 Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par nos meilleurs maîtres de la Forge.
-  Updated: 2026-06-17T11:07:55Z
+  Updated: 2026-06-21T11:06:01Z
   Total Products: 141
 - [THAITSUKISWORD](https://katana-japonais.com/collections/thaitsukisword)
   Updated: 2026-06-05T21:36:24Z
   Total Products: 5
 - [KATANA JAPONAIS](https://katana-japonais.com/collections/katana-japonais)
-  Updated: 2026-06-17T11:07:55Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 68
 - [Armures de samouraïs - Héritage guerrier japonais](https://katana-japonais.com/collections/armure-samourai): Explorez notre collection d’armures de samouraïs, mêlant esthétique et héritage martial. Idéales pour les passionnés d’histoire et de culture japonaise.
   Updated: 2026-06-05T21:36:24Z
   Total Products: 6
 - [Tous nos Produits | Katana Japonais](https://katana-japonais.com/collections/all)
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 497
 - [Tanto japonais - Lames courtes et traditionnelles](https://katana-japonais.com/collections/tanto-japonais): Explorez notre sélection de tantos japonais, des lames courtes conçues avec précision et élégance. Des pièces parfaites pour collectionneurs et amateurs.
   Updated: 2026-06-05T21:36:25Z
@@ -2854,19 +2854,19 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
   Updated: 2026-06-05T21:36:25Z
   Total Products: 0
 - [Nouvelles Pièces | Katana Japonais](https://katana-japonais.com/collections/nouvelles-pieces-katana): Nos derniers Katanas dans cette collection.
-  Updated: 2026-06-08T11:07:18Z
+  Updated: 2026-06-20T11:06:57Z
   Total Products: 35
 - [Sabres Japonais Authentiques | Katana Japonais](https://katana-japonais.com/collections/sabre-japonais-authentiques): Découvrez notre collection de sabres japonais authentiques, forgés par des maîtres japonais. Des Katanas aux Tanto, chaque pièce témoigne de l'héritage du Soleil-Levant. Trouvez votre chef-d'œuvre
   Updated: 2026-06-05T21:36:25Z
   Total Products: 91
 - [Katanas manga - Répliques Fidèles Forgées Main](https://katana-japonais.com/collections/katana-manga): Retrouvez notre collection de katanas inspirés des mangas. Des répliques soignées pour les fans et collectionneurs d’univers animés japonais.
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 28
 - [Katana Demon Slayer - Collection des Sabres Nichirin](https://katana-japonais.com/collections/katana-demon-slayer): Explorez la collection des katanas Demon Slayer, des répliques fidèles inspirées des lames emblématiques de l’anime. Parfaites pour les fans et collectionneurs.
   Updated: 2026-06-14T11:10:44Z
   Total Products: 15
 - [Katana One Piece - Collection des Katana de Pirates](https://katana-japonais.com/collections/katana-one-piece): Explorez notre collection de katanas One Piece, des répliques fidèles des sabres iconiques de l’anime. Idéal pour les fans et les collectionneurs passionnés.
-  Updated: 2026-06-16T11:12:21Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 8
 - [Katana Naruto - Les Katana de Ninja](https://katana-japonais.com/collections/katana-naruto): Plongez dans l'univers Naruto avec nos katanas exclusifs! De Seven Ninja Swordsmen à Sasuke, qualité garantie. Rejoignez le monde des ninjas
   Updated: 2026-06-18T11:09:00Z
@@ -2878,13 +2878,13 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
   Updated: 2026-06-06T06:42:21Z
   Total Products: 4
 - [Black Friday | Katana Japonais](https://katana-japonais.com/collections/black-friday-katana-japonais): Profitez de 10 % de réduction sur tous nos sabres en-plus des rabais déjà présents.
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 99
 - [Gamme Découverte - Notre gamme à moins de 200€ | Katana Japonais](https://katana-japonais.com/collections/gamme-decouverte-katana-japonais)
   Updated: 2026-06-05T21:36:25Z
   Total Products: 5
 - [Supports de katana - Présentoirs élégants et robustes](https://katana-japonais.com/collections/supports-de-katana): Choisissez parmi notre collection de supports pour katana, alliant esthétique et robustesse. Parfaits pour exposer et protéger vos sabres japonais.
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 9
 - [Katana Japonais Authentique | Katana Japonais](https://katana-japonais.com/collections/katana-japonais-authentique): À la recherche d'un Katana Japonais Authentique ? Découvrez notre collection de sabres directement expédiés depuis le Japon, faits par des forgerons reconnus.
   Updated: 2026-06-05T21:36:25Z
@@ -2899,13 +2899,13 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
   Updated: 2026-06-06T21:41:01Z
   Total Products: 18
 - [all](https://katana-japonais.com/collections/all-1)
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 495
 - [Black Friday 2024](https://katana-japonais.com/collections/black-friday-2024)
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 386
 - [VENTES FLASH](https://katana-japonais.com/collections/ventes-flash)
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 15
 - [missing](https://katana-japonais.com/collections/missing)
   Updated: 2026-06-07T11:12:20Z
@@ -2914,10 +2914,10 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
   Updated: 2026-06-05T21:36:26Z
   Total Products: 2
 - [Manganese Steel](https://katana-japonais.com/collections/manganese-steel)
-  Updated: 2026-06-17T11:07:55Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 22
 - [T10 Steel](https://katana-japonais.com/collections/t10-steel)
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-21T11:06:01Z
   Total Products: 63
 - [Kobuse](https://katana-japonais.com/collections/kobuse)
   Updated: 2026-06-07T06:57:00Z
@@ -2929,35 +2929,35 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
   Updated: 2026-06-07T06:56:48Z
   Total Products: 1
 - [Damas](https://katana-japonais.com/collections/damas)
-  Updated: 2026-06-17T11:07:55Z
+  Updated: 2026-06-21T11:06:01Z
   Total Products: 48
 - [1060 Steel](https://katana-japonais.com/collections/1060-steel)
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 21
 - [1095 Steel](https://katana-japonais.com/collections/1095-steel)
-  Updated: 2026-06-07T06:56:49Z
+  Updated: 2026-06-21T11:06:01Z
   Total Products: 4
 - [Épées Médiévales Faites à la Main | Épées Européennes](https://katana-japonais.com/collections/epee-medievale): Les épées médiévales représentent le cœur de l’histoire martiale européenne, ayant évolué au fil des siècles sur les champs de bataille, dans les tournois et les duels. De l’ère viking à la Renaissance, chaque type d’épée était conçu pour répondre aux besoins de son époque — qu’il s’agisse d’écraser les armures, de porter des estocs rapides ou d’imposer une présence sur le champ de bataille. Notre collection réunit des épées inspirées de modèles historiques, conçues pour les collectionneurs, les pratiquants de HEMA, les reconstituteurs et les passionnés de culture médiévale, alliant artisanat traditionnel et durabilité moderne. Pourquoi choisir une épée médiévale ? Contrairement à de nombreuses autres armes, les épées médiévales se distinguent par leur équilibre et leur polyvalence. Ce ne sont pas seulement des outils de guerre mais aussi des icônes culturelles symbolisant statut, honneur et maîtrise martiale. Leur conception impliquait une attention particulière à la répartition du poids, au creusement de la gouttière pour renforcer la lame et la rendre plus souple, ainsi qu’aux quillons et pommeaux conçus pour protéger la main tout en offrant un meilleur contrôle. Choisir une épée médiévale, c’est posséder un fragment d’histoire vivante — une pièce qui incarne à la fois l’art et la fonctionnalité. Qu’il s’agisse de l’élégance d’une épée de chevalier ou de la puissance brute d’un espadon, ces lames vous relient directement aux traditions de l’Europe médiévale. Les principaux types d’épées médiévales La diversité des épées médiévales reflète l’évolution des besoins en combat et en culture. Chaque type avait des caractéristiques propres adaptées à des contextes variés — du duel en un contre un aux batailles rangées, en passant par les affrontements en armures lourdes. Voici les catégories les plus emblématiques : Épée d’armes (Épée de chevalier) – Une lame double tranchant maniée à une main et portée au côté du chevalier. Utilisée du XIᵉ au XVᵉ siècle, c’était l’arme chevaleresque par excellence, idéale avec un bouclier ou une bocle. Épée Espadon – Connue pour sa poignée « une main et demie », elle devint populaire aux XIVᵉ–XVIᵉ siècles. Alliant portée, puissance et précision, elle était prisée autant sur les champs de bataille que lors des duels judiciaires. Aujourd’hui, elle reste centrale dans la pratique du HEMA. Épée bâtarde – Entre l’épée d’armes et l’espadon, l’épée bâtarde offrait une grande flexibilité : assez légère pour être maniée à une main, mais redoutable lorsqu’elle était utilisée à deux mains. Espadon / Zweihänder – Immenses épées à deux mains utilisées à la fin du Moyen Âge et à la Renaissance. Elles excellaient pour briser les formations de piques et intimider par leur taille impressionnante. Claymore – L’iconique épée écossaise à deux mains, reconnaissable à ses gardes inclinées vers l’avant ou en trèfle. Symbole d’orgueil clanique, elle était redoutable en combat ouvert. Épée Viking – Caractérisée par une lame large, une garde courte et un pommeau lobé, l’épée viking illustre l’artisanat du haut Moyen Âge. Conçue pour les coups puissants dans les formations de boucliers, elle est l’une des plus emblématiques des Âges Sombres. Fauchon – Une lame à un seul tranchant proche d’un grand couteau ou machette, prisée pour son efficacité tranchante. Elle fut largement utilisée par l’infanterie pour sa simplicité et sa redoutable puissance. Messer – Populaire en Allemagne, cette épée à un seul tranchant brouillait la frontière entre couteau et espadon. Pratique, abordable et efficace au corps-à-corps. Estoc – Une épée conçue pour l’estoc, avec une lame rigide souvent dépourvue de tranchant, faite pour percer les cottes de mailles et les armures de plates. Elle symbolise l’adaptation des armes face aux progrès défensifs. Épée d’estoc et taille – Hybride de la Renaissance, combinant des tranchants pour la taille et une pointe rigide pour l’estoc, souvent dotée de gardes plus complexes pour protéger la main. Épées médiévales phares de notre collection Notre sélection comprend à la fois des modèles historiques emblématiques et des réinterprétations modernes. Chaque lame est forgée avec soin, solidité et esthétique, adaptée à l’exposition, l’entraînement ou la reconstitution. Découvrez nos pièces phares : Épée Viking Valeur Écarlate – Une arme audacieuse du haut Moyen Âge, conçue pour des coups tranchants puissants. Avec sa large lame et son pommeau lobé, elle évoque la bravoure des guerriers vikings et leurs légendaires raids. Épée Espadon Croc-de-l’Ombre – Équilibrée pour le combat historique comme pour l’exposition, cette épée associe élégance et précision mortelle. Son design reflète les armes polyvalentes à une main et demie des chevaliers du Moyen Âge tardif. Épée Espadon Serment de Fer – D’une prestance imposante, cette immense épée à deux mains incarne l’autorité brute. Parfaite pour les reconstitutions et les collections, elle symbolise la puissance des fantassins et mercenaires médiévaux. Épée Bâtarde Aubépine Noire – Une lame hybride polyvalente adaptée aussi bien au maniement à une main qu’à deux mains. Ses lignes raffinées et son équilibre en font une arme flexible pour divers styles de combat. Comment choisir la bonne épée médiévale Avant d’acheter une épée médiévale, il est essentiel de définir son usage. Toutes les épées ne sont pas conçues pour la même fonction, et choisir la bonne garantit sécurité et satisfaction : Exposition & Collection : Choisissez des épées fidèles aux modèles historiques et esthétiques. Recherchez des finitions traditionnelles, des pommeaux d’époque et des détails décoratifs. HEMA & Entraînement : Pour l’entraînement, privilégiez la maniabilité. Sélectionnez des épées au poids adapté, bien équilibrées, avec des lames solides mais flexibles pour un usage répété en toute sécurité. Reconstitution : Les reconstituteurs ont besoin d’épées robustes capables de résister à un usage fréquent. Privilégiez des montures solides, des tranchants émoussés et des poignées sûres, tout en restant fidèles aux modèles historiques. En identifiant votre objectif principal — décoration, pratique ou reconstitution — vous trouverez l’épée médiévale idéale pour vos besoins. Matériaux & Fabrication d’une épée médiévale La durabilité et la performance d’une épée médiévale reposent sur sa conception. Notre collection met en avant des lames forgées en acier à ressort et aciers à haute teneur en carbone, réputés pour leur solidité et leur capacité à garder un tranchant. Les gardes et pommeaux sont souvent réalisés en acier inoxydable 304 ou en acier forgé, garantissant résistance et fidélité historique. Les poignées possèdent une âme en bois enveloppée de cuir, cordage ou cuir bovin, alliant confort et authenticité. Les gouttières, rainures longitudinales de la lame, sont taillées avec soin pour alléger l’arme tout en conservant sa rigidité. Chaque épée subit un traitement thermique méticuleux, assurant l’équilibre parfait entre souplesse et dureté. Portée culturelle & historique des épées médiévales Les épées médiévales témoignent de siècles d’innovation, répondant aux évolutions des armures, des tactiques et du contexte social. Les épées vikings incarnaient l’esprit des pillards et guerriers, tandis que les épées de chevaliers symbolisaient la chevalerie et le devoir féodal. Avec l’amélioration des armures, les espadons et estocs apparurent pour contrer les plates. En Écosse, les claymores devinrent des symboles d’identité clanique, tandis qu’en Allemagne, messers et grandes épées gagnèrent en popularité. Posséder l’une de ces épées, c’est entrer en contact avec les traditions martiales européennes et préserver un fragment d’histoire qui a façonné des civilisations entières. Comment entretenir votre épée médiévale Un entretien adéquat garantit la longévité et la beauté de votre épée médiévale. Gardez la lame légèrement huilée pour éviter la rouille et la corrosion. Traitez de temps en temps les poignées et fourreaux en cuir pour maintenir leur souplesse et leur aspect. Conservez toujours votre épée dans un endroit sec, à l’abri de l’humidité et des températures extrêmes. Si vous utilisez votre épée pour le HEMA ou les reconstitutions, vérifiez régulièrement la solidité des gardes, poignées et pommeaux pour plus de sécurité. En suivant ces conseils, votre épée conservera son attrait esthétique et sa fiabilité fonctionnelle.
-  Updated: 2026-06-07T23:19:02Z
+  Updated: 2026-06-23T11:07:55Z
   Total Products: 19
 - [Sabres Japonais forgés à la Main](https://katana-japonais.com/collections/sabres-japonais-forges-a-la-main)
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 303
 - [Sabre Naginata](https://katana-japonais.com/collections/sabre-naginata)
   Updated: 2026-06-10T12:29:50Z
   Total Products: 1
 - [Sabres Kydex Tactique | Katana Japonais](https://katana-japonais.com/collections/sabres-kydex-tactique)
-  Updated: 2026-06-08T11:07:18Z
+  Updated: 2026-06-20T11:06:57Z
   Total Products: 21
 - [Meilleures Ventes](https://katana-japonais.com/collections/meilleures-ventes)
-  Updated: 2026-06-18T11:09:00Z
+  Updated: 2026-06-26T15:48:25Z
   Total Products: 208
 
 ## Blogs
 
 - [Blog katana - Guides, conseils et culture japonaise](https://katana-japonais.com/blogs/blog-katana): Explorez notre blog dédié aux katanas : techniques, entretien et culture japonaise. Une ressource incontournable pour les passionnés d’arts martiaux.
   - [Katana prix - Guide des tarifs pour sabres japonais](https://katana-japonais.com/blogs/blog-katana/katana-prix): Katana prix - Guide des tarifs pour sabres japonais
-    Updated: 2025-02-12T12:22:16Z
+    Updated: 2026-06-23T22:27:30Z
     Author: Katana Japonais
   - [Tameshigiri - Art de tester les katanas japonais](https://katana-japonais.com/blogs/blog-katana/tameshigiri): Tameshigiri - Art de tester les katanas japonais
     Updated: 2025-02-11T13:31:15Z
@@ -2969,10 +2969,10 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-12T11:54:55Z
     Author: Katana Japonais
   - [Kaiken : Le petit dague traditionnel japonais](https://katana-japonais.com/blogs/blog-katana/le-kaiken): Kaiken : Le petit dague traditionnel japonais
-    Updated: 2025-02-12T11:53:39Z
+    Updated: 2026-06-23T22:27:29Z
     Author: Katana Japonais
   - [Kabutowari : L’arme brise-casque des samouraïs](https://katana-japonais.com/blogs/blog-katana/kabutowari): Kabutowari : L’arme brise-casque des samouraïs
-    Updated: 2025-02-12T11:54:35Z
+    Updated: 2026-06-23T22:27:28Z
     Author: Katana Japonais
   - [Sashimono : Les bannières des armées japonaises](https://katana-japonais.com/blogs/blog-katana/sashimono): Sashimono : Les bannières des armées japonaises
     Updated: 2025-02-12T12:07:03Z
@@ -2987,7 +2987,7 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-11T18:52:42Z
     Author: Katana Japonais
   - [Tamahagane - L’acier légendaire des katanas japonais](https://katana-japonais.com/blogs/blog-katana/tamahagane): Tamahagane - L’acier légendaire des katanas japonais
-    Updated: 2025-02-11T13:40:46Z
+    Updated: 2026-06-23T22:27:28Z
     Author: Adrien Lescate
   - [Kodachi vs Wakizashi - Comparaison complète](https://katana-japonais.com/blogs/blog-katana/kodachi-vs-wakizashi): Kodachi vs Wakizashi - Comparaison complète
     Updated: 2025-02-11T13:10:15Z
@@ -3002,7 +3002,7 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-12T11:50:38Z
     Author: Katana Japonais
   - [Wakizashi : L’arme complémentaire des samouraïs](https://katana-japonais.com/blogs/blog-katana/wakizashi): Wakizashi : L’arme complémentaire des samouraïs
-    Updated: 2025-02-12T12:05:31Z
+    Updated: 2026-06-23T22:27:27Z
     Author: Katana Japonais
   - [Naginata : Origines, utilisation et symbolique](https://katana-japonais.com/blogs/blog-katana/naginata): Naginata : Origines, utilisation et symbolique
     Updated: 2025-02-12T11:46:17Z
@@ -3017,43 +3017,43 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-12T12:15:29Z
     Author: Katana Japonais
   - [Mune d’un katana : Comprendre l’épine dorsale de la lame](https://katana-japonais.com/blogs/blog-katana/mune-katana): Mune d’un katana : Comprendre l’épine dorsale de la lame
-    Updated: 2025-02-12T12:00:34Z
+    Updated: 2026-06-23T22:27:26Z
     Author: Katana Japonais
   - [Certificat et fourreau de katana : Authenticité et protection](https://katana-japonais.com/blogs/blog-katana/certificat-fourreau-katana): Certificat et fourreau de katana : Authenticité et protection
-    Updated: 2025-02-12T12:02:11Z
+    Updated: 2026-06-23T22:27:25Z
     Author: Katana Japonais
   - [Acier Tamahagane - L'essence des lames japonaises d'exception](https://katana-japonais.com/blogs/blog-katana/acier-tamahagane): Acier Tamahagane - L'essence des lames japonaises d'exception
-    Updated: 2025-02-11T14:24:24Z
+    Updated: 2026-06-23T22:27:24Z
     Author: Katana Japonais
   - [Katana polissage : Guide pour préserver l’éclat de la lame](https://katana-japonais.com/blogs/blog-katana/katana-polissage): Katana polissage : Guide pour préserver l’éclat de la lame
     Updated: 2025-02-11T13:00:29Z
     Author: Katana Japonais
   - [Polissage du katana : Techniques et importance](https://katana-japonais.com/blogs/blog-katana/polissage-katana): Polissage du katana : Techniques et importance
-    Updated: 2025-02-12T11:43:42Z
+    Updated: 2026-06-23T22:27:23Z
     Author: Katana Japonais
   - [Entretien du katana : Techniques pour préserver la lame](https://katana-japonais.com/blogs/blog-katana/entretenir-katana): Entretien du katana : Techniques pour préserver la lame
     Updated: 2025-02-11T19:15:07Z
     Author: Katana Japonais
   - [Exposer un katana : Astuces et conseils de présentation](https://katana-japonais.com/blogs/blog-katana/exposer-katana): Exposer un katana : Astuces et conseils de présentation
-    Updated: 2025-02-12T11:49:35Z
+    Updated: 2026-06-23T22:27:22Z
     Author: Katana Japonais
   - [Katana rouillé : Techniques de nettoyage et prévention](https://katana-japonais.com/blogs/blog-katana/katana-rouille): Katana rouillé : Techniques de nettoyage et prévention
-    Updated: 2025-02-12T11:51:14Z
+    Updated: 2026-06-23T22:27:21Z
     Author: Katana Japonais
   - [Polissage du Katana - 6 points essentiels](https://katana-japonais.com/blogs/blog-katana/polissage-katana-6-choses): Polissage du Katana - 6 points essentiels
     Updated: 2025-02-11T13:17:06Z
     Author: Katana Japonais
   - [Poids d’un katana - Facteurs et influence sur le maniement](https://katana-japonais.com/blogs/blog-katana/katana-poids): Poids d’un katana - Facteurs et influence sur le maniement
-    Updated: 2025-02-12T12:17:47Z
+    Updated: 2026-06-23T22:27:20Z
     Author: Katana Japonais
   - [Forgeron de sabre japonais : Artisanat et héritage](https://katana-japonais.com/blogs/blog-katana/forgeron-sabre-japonais): Forgeron de sabre japonais : Artisanat et héritage
-    Updated: 2025-02-12T11:45:15Z
+    Updated: 2026-06-23T22:27:19Z
     Author: Katana Japonais
   - [Iaito : Katana pour l’entraînement en toute sécurité](https://katana-japonais.com/blogs/blog-katana/iaito): Iaito : Katana pour l’entraînement en toute sécurité
-    Updated: 2025-02-12T11:51:46Z
+    Updated: 2026-06-23T22:27:18Z
     Author: Katana Japonais
   - [Armure des samouraïs - Guide complet sur les équipements traditionnels](https://katana-japonais.com/blogs/blog-katana/guide-armure-samourai): Armure des samouraïs - Guide complet sur les équipements traditionnels
-    Updated: 2025-02-12T12:16:40Z
+    Updated: 2026-06-23T22:27:18Z
     Author: Katana Japonais
   - [Bushido - Code d’honneur des samouraïs japonais](https://katana-japonais.com/blogs/blog-katana/bushido): Bushido - Code d’honneur des samouraïs japonais
     Updated: 2025-02-11T13:37:24Z
@@ -3065,7 +3065,7 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-12T12:02:43Z
     Author: Katana Japonais
   - [Masamune - Légendaire forgeron japonais et ses lames iconiques](https://katana-japonais.com/blogs/blog-katana/masamune): Masamune - Légendaire forgeron japonais et ses lames iconiques
-    Updated: 2025-02-12T12:02:58Z
+    Updated: 2026-06-23T22:27:17Z
     Author: Katana Japonais
   - [Armure samouraï : Héritage guerrier du Japon](https://katana-japonais.com/blogs/blog-katana/armure-samourai-japonais): Armure samouraï : Héritage guerrier du Japon
     Updated: 2025-02-12T12:04:01Z
@@ -3086,22 +3086,22 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-12T11:39:46Z
     Author: Katana Japonais
   - [Guide complet du sabre de samouraï : Histoire et usage](https://katana-japonais.com/blogs/blog-katana/guide-complet-du-sabre-de-samourai): Guide complet du sabre de samouraï : Histoire et usage
-    Updated: 2025-02-11T19:17:37Z
+    Updated: 2026-06-23T22:27:16Z
     Author: Katana Japonais
   - [Katana trempé à l'argile - Technique et avantages](https://katana-japonais.com/blogs/blog-katana/katana-trempe-a-largile): Katana trempé à l'argile - Technique et avantages
-    Updated: 2025-02-12T12:11:28Z
+    Updated: 2026-06-23T22:27:15Z
     Author: Katana Japonais
   - [Les forgerons au Japon : Héritage et artisanat d’art](https://katana-japonais.com/blogs/blog-katana/les-forgerons-au-japon-une-tradition-dartisanat-dart): Les forgerons au Japon : Héritage et artisanat d’art
     Updated: 2025-02-11T19:14:26Z
     Author: Katana Japonais
   - [Guide d’achat : Choisir un katana full tang de qualité](https://katana-japonais.com/blogs/blog-katana/guide-dachat-du-katana-full-tang): Guide d’achat : Choisir un katana full tang de qualité
-    Updated: 2025-02-11T13:01:21Z
+    Updated: 2026-06-23T22:27:14Z
     Author: Katana Japonais
   - [Katana vs épée longue : Comparatif et caractéristiques](https://katana-japonais.com/blogs/blog-katana/katana-contre-epee-longue): Katana vs épée longue : Comparatif et caractéristiques
-    Updated: 2025-02-12T11:32:26Z
+    Updated: 2026-06-23T22:27:13Z
     Author: Katana Japonais
   - [Quelle est la longueur standard d’un katana ?](https://katana-japonais.com/blogs/blog-katana/quel-est-la-longueur-dun-katana): Quelle est la longueur standard d’un katana ?
-    Updated: 2025-02-11T19:09:58Z
+    Updated: 2026-06-23T22:27:12Z
     Author: Katana Japonais
   - [Légalité des katanas : Histoire et réglementation](https://katana-japonais.com/blogs/blog-katana/quand-les-katanas-sont-ils-devenus-illegaux): Légalité des katanas : Histoire et réglementation
     Updated: 2025-02-12T11:41:13Z
@@ -3137,13 +3137,13 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-12T12:14:17Z
     Author: Katana Japonais
   - [Les différents Hamon du Katana - Guide des styles et significations](https://katana-japonais.com/blogs/blog-katana/les-differents-hamon-du-katana): Les différents Hamon du Katana - Guide des styles et significations
-    Updated: 2025-02-11T18:38:35Z
+    Updated: 2026-06-23T22:27:11Z
     Author: Katana Japonais
   - [Où acheter un katana au Japon ? Conseils et adresses](https://katana-japonais.com/blogs/blog-katana/au-acheter-un-katana-au-japon): Où acheter un katana au Japon ? Conseils et adresses
-    Updated: 2025-02-11T19:08:39Z
+    Updated: 2026-06-23T22:27:10Z
     Author: Katana Japonais
   - [Reconnaître un vrai katana : Conseils et astuces](https://katana-japonais.com/blogs/blog-katana/comment-savoir-si-mon-katana-est-un-vrai): Reconnaître un vrai katana : Conseils et astuces
-    Updated: 2025-02-12T11:37:48Z
+    Updated: 2026-06-23T22:27:09Z
     Author: Katana Japonais
   - [Katana Demon Slayer : Lame inspirée de l’univers manga](https://katana-japonais.com/blogs/blog-katana/katana-demon-slayer): Katana Demon Slayer : Lame inspirée de l’univers manga
     Updated: 2025-02-12T11:31:16Z
@@ -3191,25 +3191,25 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-11T18:52:49Z
     Author: Katana Japonais
   - [Types de sabres japonais utilisés par les guerriers samouraïs](https://katana-japonais.com/blogs/blog-katana/types-de-sabres-japonais-utilises-par-les-guerriers-samourais)
-    Updated: 2025-02-11T19:22:37Z
+    Updated: 2026-06-23T22:27:08Z
     Author: Katana Japonais
   - [Polissage des sabres japonais : Un art essentiel](https://katana-japonais.com/blogs/blog-katana/polissage-des-sabres-japonais-lartisanat-et-son-importance): Polissage des sabres japonais : Un art essentiel
-    Updated: 2025-02-12T11:24:49Z
+    Updated: 2026-06-23T22:27:07Z
     Author: Katana Japonais
   - [Tamahagane - L’acier idéal pour un Katana ?](https://katana-japonais.com/blogs/blog-katana/le-tamahagane-est-il-le-meilleur-acier-pour-un-katana): Tamahagane - L’acier idéal pour un Katana ?
-    Updated: 2025-02-11T18:51:00Z
+    Updated: 2026-06-23T22:27:06Z
     Author: Katana Japonais
   - [Prix d’un Katana - Coûts et facteurs à connaître](https://katana-japonais.com/blogs/blog-katana/exploration-de-larmement-des-samourais-combien-coute-un-katana): Prix d’un Katana - Coûts et facteurs à connaître
-    Updated: 2025-02-11T18:53:55Z
+    Updated: 2026-06-23T22:27:05Z
     Author: Katana Japonais
   - [Qu’est-ce qu’un Katana ? Origines et caractéristiques essentielles](https://katana-japonais.com/blogs/blog-katana/quest-ce-quun-katana): Qu’est-ce qu’un Katana ? Origines et caractéristiques essentielles
-    Updated: 2025-02-11T18:44:21Z
+    Updated: 2026-06-23T22:27:04Z
     Author: Katana Japonais
   - [Quelle est la longueur d’un Katana ? Taille et variantes ées](https://katana-japonais.com/blogs/blog-katana/quelle-est-la-longueur-dun-katana): Quelle est la longueur d’un Katana ? Taille et variantes ées
     Updated: 2025-02-11T18:43:43Z
     Author: Katana Japonais
   - [Degré de tranchant d’un Katana - Performance et précision](https://katana-japonais.com/blogs/blog-katana/quel-est-le-degre-de-tranchant-dun-katana): Degré de tranchant d’un Katana - Performance et précision
-    Updated: 2025-02-11T18:44:46Z
+    Updated: 2026-06-23T22:27:03Z
     Author: Katana Japonais
   - [Comment nettoyer un Katana - Entretien traditionnel et précis](https://katana-japonais.com/blogs/blog-katana/comment-nettoyer-un-katana): Comment nettoyer un Katana - Entretien traditionnel et précis
     Updated: 2025-02-11T18:39:53Z
@@ -3227,7 +3227,7 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-11T18:47:57Z
     Author: Katana Japonais
   - [Le seppuku - Origines et rituel des samouraïs](https://katana-japonais.com/blogs/blog-katana/quest-ce-que-le-seppuku-origines-rituel-et-formes): Le seppuku - Origines et rituel des samouraïs
-    Updated: 2025-02-11T13:39:08Z
+    Updated: 2026-06-23T22:27:02Z
     Author: Katana Japonais
   - [Les plus célèbres sabres japonais | katana japonais](https://katana-japonais.com/blogs/blog-katana/les-plus-celebres-sabres-japonais): Les plus célèbres sabres japonais | katana japonais
     Updated: 2024-01-24T15:43:05Z
@@ -3242,16 +3242,16 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-11T19:00:29Z
     Author: Katana Japonais
   - [Qu’est-ce qu’une épée Iaito ? Utilisation et spécificités](https://katana-japonais.com/blogs/blog-katana/quest-ce-quune-epee-iaito): Qu’est-ce qu’une épée Iaito ? Utilisation et spécificités
-    Updated: 2025-02-11T18:46:10Z
+    Updated: 2026-06-23T22:27:01Z
     Author: Katana Japonais
   - [Vrai vs faux Katana : Identifier une lame authentique](https://katana-japonais.com/blogs/blog-katana/vrai-vs-faux-katana): Vrai vs faux Katana : Identifier une lame authentique
-    Updated: 2025-02-11T13:25:04Z
+    Updated: 2026-06-23T22:27:00Z
     Author: Katana Japonais
   - [Tameshigiri : L’art de tester un katana en action](https://katana-japonais.com/blogs/blog-katana/quest-ce-que-le-tameshigiri): Tameshigiri : L’art de tester un katana en action
-    Updated: 2025-02-11T18:55:23Z
+    Updated: 2026-06-23T22:26:59Z
     Author: Katana Japonais
   - [Comment exposer un Katana | katana japonais](https://katana-japonais.com/blogs/blog-katana/comment-exposer-un-katana): Comment exposer un Katana | katana japonais
-    Updated: 2024-01-24T15:42:54Z
+    Updated: 2026-06-23T22:26:58Z
     Author: Katana Japonais
   - [Pourquoi les katanas sont-ils courbés ? Secrets de la lame](https://katana-japonais.com/blogs/blog-katana/pourquoi-les-katanas-sont-ils-courbes): Pourquoi les katanas sont-ils courbés ? Secrets de la lame
     Updated: 2025-02-11T18:56:08Z
@@ -3263,10 +3263,10 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-11T18:57:30Z
     Author: Katana Japonais
   - [Acheter un Katana - Guide et conseils pratiques](https://katana-japonais.com/blogs/blog-katana/ou-acheter-un-katana): Acheter un Katana - Guide et conseils pratiques
-    Updated: 2025-02-11T13:12:44Z
+    Updated: 2026-06-23T22:26:57Z
     Author: Katana Japonais
   - [Duel de samouraï : Codes et histoire des combats](https://katana-japonais.com/blogs/blog-katana/duel-de-samourai): Duel de samouraï : Codes et histoire des combats
-    Updated: 2025-02-11T18:58:11Z
+    Updated: 2026-06-23T22:26:56Z
     Author: Katana Japonais
   - [Comment tenir un katana : Techniques et conseils](https://katana-japonais.com/blogs/blog-katana/tenir-le-katana): Comment tenir un katana : Techniques et conseils
     Updated: 2025-02-11T18:59:08Z
@@ -3281,13 +3281,13 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-11T14:03:34Z
     Author: Katana Japonais
   - [Comment vérifier l’authenticité de votre Katana ?](https://katana-japonais.com/blogs/blog-katana/comment-puis-je-savoir-si-mon-katana-est-authentique): Comment vérifier l’authenticité de votre Katana ?
-    Updated: 2025-02-11T14:40:23Z
+    Updated: 2026-06-23T22:26:55Z
     Author: Katana Japonais
   - [Découvrez les plus grands forgerons de katanas de l'histoire du Japon](https://katana-japonais.com/blogs/blog-katana/qui-est-le-plus-celebre-forgeron-de-sabres-samourai-1): Découvrez les plus grands forgerons de katanas de l'histoire du Japon
     Updated: 2025-02-02T11:29:30Z
     Author: Katana Japonais
   - [Sabre Japonais WWII - Héritage Historique et Militaire](https://katana-japonais.com/blogs/blog-katana/decouverte-du-sabre-japonais-de-la-seconde-guerre-mondiale): Sabre Japonais WWII - Héritage Historique et Militaire
-    Updated: 2025-02-11T14:42:19Z
+    Updated: 2026-06-23T22:26:54Z
     Author: Katana Japonais
   - [Katana Demon Slayer - Guide Complet des Sabres](https://katana-japonais.com/blogs/blog-katana/katana-demon-slayer-101): Katana Demon Slayer - Guide Complet des Sabres
     Updated: 2025-02-11T14:41:06Z
@@ -3296,13 +3296,13 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-11T14:31:27Z
     Author: Katana Japonais
   - [Polissage d’un Sabre Japonais - Techniques et Conseils](https://katana-japonais.com/blogs/blog-katana/polissage-dun-sabre-japonais): Polissage d’un Sabre Japonais - Techniques et Conseils
-    Updated: 2025-02-10T20:37:01Z
+    Updated: 2026-06-23T22:26:53Z
     Author: Katana Japonais
   - [One Piece Katana 101 - Guide Essentiel pour les Fans](https://katana-japonais.com/blogs/blog-katana/one-piece-katana-101-le-guide-indispensable-pour-tous-les-fans): One Piece Katana 101 - Guide Essentiel pour les Fans
     Updated: 2025-02-11T13:58:51Z
     Author: Katana Japonais
   - [Katana full tang - Définition et conseils d’achat](https://katana-japonais.com/blogs/blog-katana/katana-full-tang-quoi-et-ou-acheter): Katana full tang - Définition et conseils d’achat
-    Updated: 2025-02-11T13:39:58Z
+    Updated: 2026-06-23T22:26:52Z
     Author: Katana Japonais
   - [Petite histoire des samouraïs - Héritage japonais en 2024](https://katana-japonais.com/blogs/blog-katana/petite-histoire-des-samourais-ce-quil-faut-savoir-en-2024): Petite histoire des samouraïs - Héritage japonais en 2024
     Updated: 2025-02-11T13:56:08Z
@@ -3311,7 +3311,7 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-02-11T13:44:44Z
     Author: Katana Japonais
   - [Acheter un katana en France - Guide et conseils](https://katana-japonais.com/blogs/blog-katana/katana-france): Acheter un katana en France - Guide et conseils
-    Updated: 2025-02-11T13:42:34Z
+    Updated: 2026-06-23T22:26:51Z
     Author: Katana Japonais
   - [Quelle est le Sabre Japonais le Plus Cher ?](https://katana-japonais.com/blogs/blog-katana/quelle-est-le-sabre-japonais-le-plus-cher)
     Updated: 2025-04-09T04:34:57Z
@@ -3320,10 +3320,10 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-04-09T04:31:03Z
     Author: Katana Japonais
   - [Où trouver un magasin de Sabres Japonais au Japon ?](https://katana-japonais.com/blogs/blog-katana/ou-trouver-un-magasin-de-sabres-japonais-au-japon)
-    Updated: 2025-04-09T04:45:43Z
+    Updated: 2026-06-23T22:26:50Z
     Author: Katana Japonais
   - [Le Sabre légendaire Honjo Masamune](https://katana-japonais.com/blogs/blog-katana/le-sabre-legendaire-honjo-masamune)
-    Updated: 2025-04-09T04:53:56Z
+    Updated: 2026-06-23T22:26:49Z
     Author: Katana Japonais
   - [Qu'est-ce qu'une poignée de sabre ? Pièces, pommeau, poignée et garde](https://katana-japonais.com/blogs/blog-katana/quest-ce-quune-poignee-de-sabre-pieces-pommeau-poignee-et-garde)
     Updated: 2025-04-09T08:00:56Z
@@ -3335,22 +3335,22 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-04-09T09:31:46Z
     Author: Katana Japonais
   - [Tout ce qu'il faut savoir sur le Naginata | Katana Japonais](https://katana-japonais.com/blogs/blog-katana/tout-ce-quil-faut-savoir-sur-le-naginata): Tout ce qu'il faut savoir sur le Naginata | Katana Japonais
-    Updated: 2025-04-09T09:43:53Z
+    Updated: 2026-06-23T22:26:48Z
     Author: Katana Japonais
   - [Sabres courts : Aperçu historique et pratique](https://katana-japonais.com/blogs/blog-katana/sabres-courts-apercu-historique-et-pratique)
-    Updated: 2025-04-09T09:55:44Z
+    Updated: 2026-06-23T22:26:47Z
     Author: Katana Japonais
   - [A quel point un Katana est Tranchant ? | Katana Japonais](https://katana-japonais.com/blogs/blog-katana/a-quel-point-un-katana-est-tranchant): A quel point un Katana est Tranchant ? | Katana Japonais
-    Updated: 2025-04-09T10:05:18Z
+    Updated: 2026-06-23T22:26:46Z
     Author: Katana Japonais
   - [Wakizashi VS Tanto : La Comparaison | Katana Japonais](https://katana-japonais.com/blogs/blog-katana/wakizashi-vs-tanto-la-comparaison): Wakizashi VS Tanto : La Comparaison | Katana Japonais
-    Updated: 2025-04-09T10:14:21Z
+    Updated: 2026-06-23T22:26:45Z
     Author: Katana Japonais
   - [Le Guide des armes traditionnelles chinoises | Katana Japonais](https://katana-japonais.com/blogs/blog-katana/le-guide-des-armes-traditionnelles-chinoises): Le Guide des armes traditionnelles chinoises | Katana Japonais
     Updated: 2025-04-09T10:24:32Z
     Author: Katana Japonais
   - [Boshi : la pointe Artistique du Sabre Japonais | Katana Japonais](https://katana-japonais.com/blogs/blog-katana/boshi-la-pointe-artistique-du-sabre-japonais): Boshi : la pointe Artistique du Sabre Japonais | Katana Japonais
-    Updated: 2025-04-09T10:32:45Z
+    Updated: 2026-06-23T22:26:44Z
     Author: Katana Japonais
   - [Chokutō VS Katana : Deux lames légendaires du Japon](https://katana-japonais.com/blogs/blog-katana/chokuto-vs-katana)
     Updated: 2025-04-16T04:57:31Z
@@ -3362,16 +3362,16 @@ Lames haut de gamme avec Hamon, Forge Kobuse, San-mai. Katanas réalisés par no
     Updated: 2025-04-16T04:57:31Z
     Author: Katana Japonais
   - [Quelle est la différence entre un fourreau et une gaine ?](https://katana-japonais.com/blogs/blog-katana/difference-fourreau-gaine)
-    Updated: 2025-04-16T04:49:45Z
+    Updated: 2026-06-23T22:26:43Z
     Author: Katana Japonais
   - [Épée large vs Katana : Le choc des lames (Quand l'Orient rencontre l'Occident)](https://katana-japonais.com/blogs/blog-katana/epee-large-vs-katana-le-choc-des-lames-quand-lorient-rencontre-loccident)
     Updated: 2025-04-16T04:57:15Z
     Author: Katana Japonais
   - [Les Katanas Sont-ils Légaux à Posséder ? Guide par Pays](https://katana-japonais.com/blogs/blog-katana/les-katanas-sont-ils-legaux-a-posseder-guide-par-pays)
-    Updated: 2025-12-04T12:57:38Z
+    Updated: 2026-06-23T22:26:42Z
     Author: Satiana Katana
   - [Le katana peut-il couper l'acier ? Mythe ou réalité ?](https://katana-japonais.com/blogs/blog-katana/le-katana-peut-il-couper-lacier-mythe-ou-realite)
-    Updated: 2025-12-04T13:05:18Z
+    Updated: 2026-06-23T22:26:41Z
     Author: Satiana Katana
   - [Un Katana à 200€, ça Vaut le Coup ? Réponse Honnête pour les Débutants](https://katana-japonais.com/blogs/blog-katana/un-katana-200-euros-ca-vaut-le-coup)
     Updated: 2026-05-28T11:20:04Z
