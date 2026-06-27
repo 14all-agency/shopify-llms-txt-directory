@@ -6,58 +6,58 @@
 - Timezone: America/New_York
 - Created At: 2023-06-04T13:58:10Z
 - Contact Email: hello@thephoenixcandles.com
-- Updated At: 2026-06-18T00:00:43.729Z
+- Updated At: 2026-06-27T00:00:42.896Z
 
 ## Products
 
 - [Perseverance | Tiger's Eye Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/perseverance-tigers-eye-crystal-infused-candle): Perseverance is an aromachology soy candle with tiger's eye. Grounding gardenia and mandarin for the days you need to remember your own strength. Handmade in NJ
-  Updated: 2026-06-16T08:16:13Z
+  Updated: 2026-06-26T07:12:15Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Perserverance.jpg?v=1773339766
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Perseverance_crystal-infused_soy_candle_by_The_Phoenix_Candles_open_matte_cream_vessel_with_wooden_wick_centered.png?v=1782414281
   Price: $60.00 USD
 - [Hope | Amazonite Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/hope-amazonite-crystal-infused-candle): Hope is an aromachology soy candle with amazonite. A warm citrus and neroli blend for the seasons when letting yourself believe again feels brave. Handmade in NJ.
-  Updated: 2026-06-16T08:15:50Z
+  Updated: 2026-06-25T19:14:43Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Hope.jpg?v=1773432160
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Hope_crystal-infused_soy_candle.png?v=1782414603
   Price: $60.00 USD
 - [Optimism | Citrine Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/optimism-citrine-crystal-infused-candle): Optimism is an aromachology soy candle with citrine. Bright bergamot and guava to help you shift the lens and find the light in the ordinary. Handcrafted in NJ.
-  Updated: 2026-06-16T08:15:32Z
+  Updated: 2026-06-26T17:21:04Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Optimism.jpg?v=1781126210
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Optimism_crystal-infused_soy_candle.png?v=1782494138
   Price: $60.00 USD
 - [Empowerment | Sodalite Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/empowerment-sodalite-crystal-infused-candle): Empowerment is an aromachology soy candle with sodalite. A crisp bergamot and eucalyptus blend for the woman ready to trust her own voice again. Handmade in NJ.
-  Updated: 2026-06-16T08:15:12Z
+  Updated: 2026-06-26T17:11:13Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Empowerment_Candle.jpg?v=1773339156
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Empowerment_crystal-infused_soy_candle.png?v=1782493472
   Price: $60.00 USD
 - [Nurture | Amethyst Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/nurture-amethyst-crystal-infused-candle): Nurture is an aromachology soy candle with amethyst. Warm citrus and turmeric for the woman who gives endlessly and forgets to receive. Handmade in New Jersey.
-  Updated: 2026-06-16T08:14:54Z
+  Updated: 2026-06-26T17:01:26Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Nurture.jpg?v=1773339117
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Nurture_crystal-infused_soy_candle.png?v=1782493097
   Price: $60.00 USD
 - [Intuition | Clear Quartz Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/intuition-clear-quartz-crystal-infused-candle): Intuition is an aromachology soy candle with clear quartz. Calming sage and violet to help you reconnect with your inner knowing. Handcrafted in New Jersey.
-  Updated: 2026-06-16T08:14:11Z
+  Updated: 2026-06-26T16:40:21Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Intuition.jpg?v=1773339044
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Intuition_crystal-infused_soy_candle.png?v=1782491593
   Price: $60.00 USD
 - [Xenacious | Carnelian Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/xenacious-carnelian-crystal-infused-candle): Xenacious is an aromachology soy candle with carnelian. Vibrant lemon and jasmine for the woman ready to explore who she is beyond her roles. Handcrafted in NJ.
-  Updated: 2026-06-16T08:13:51Z
+  Updated: 2026-06-26T16:24:58Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Xenacious.jpg?v=1773339087
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_the_Xenacious_crystal-infused_soy_candle.png?v=1782491351
   Price: $60.00 USD
 - [Wooden Wick Trimmer](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length): Care for your Phoenix Candles with this amazing addition to your candle care kit. Trim your wooden wicks to just the right length before each burn with this luxurious wick trimmer. 6.8" length
   Updated: 2026-04-08T19:15:05Z
@@ -74,31 +74,79 @@
   - [Black](https://thephoenixcandles.com/products/gold-wooden-wick-trimmer-6-8-length?variant=52856273600828)
     Availability: Available
     Price: $20.00 USD
-- [Year of the Fire Horse | Aromachology Soy Candle with Fire Quartz Crystal | The Phoenix Candles](https://thephoenixcandles.com/products/year-of-the-fire-horse): You've spent so long tending to everyone else's fire that you've forgotten how brightly your own can burn. The Year of the Fire Horse was poured for the woman who feels that restless spark stirring beneath the surface — the one who's done dimming herself to make others comfortable, done waiting for permission to take up space.Infused with Fire Quartz — a crystal known for reigniting vitality, courage, and grounded inner power — this candle holds space for the version of you that's ready to rise without apology. This bold, layered fragrance opens with fiery citrus and warm spice, softens into honeyed plum and creamy cacao, and grounds you in the quiet strength of cedarwood and balsam. As the wooden wick crackles and its warmth fills your space, let it remind you: your fire was never the problem. It was always the point. 12 ounces | Up to 72 hours burn timeHANDCRAFTED IN SMALL BATCHES THE SCENT SCIENCE-BACKED AROMACHOLOGY Top notes: Blood Orange, Cinnamon Bark, Fresh Nutmeg Heart notes: Ginger Snap, Plum Honey, Fir Balsam Base notes: Cacao Blanc, Brown Vanilla, Cedarwood THE CRYSTAL INTENTIONAL ENERGY + PROTECTION Nestled within every Fire Horse candle is a genuine Fire Quartz crystal — a stone forged from the union of Clear Quartz and Hematite, carrying both amplifying clarity and fierce, grounded strength. Fire Quartz is intentionally chosen for its ability to transform scattered energy into focused determination and to reignite the inner flame that self-doubt has quietly dimmed. As the candle burns, its energy invites you to stop second-guessing your power and start wielding it — not recklessly, but with the steady, unstoppable force of a woman who finally remembers who she is. THE VESSEL COLOR PSYCHOLOGY + SIGHT The Year of the Fire Horse is housed in a matte crimson vessel — a bold departure and a deliberate one. In color psychology, crimson is the color of deep passion, life force, and unapologetic presence. It doesn't ask to be noticed — it commands it. Unlike softer hues that soothe, crimson activates — stirring courage in the chest and warmth in the belly, reminding your body what it feels like to be fully alive. The matte finish tempers its intensity into something rich and grounded, while an exclusive Fire Horse design engraved into the vessel marks this as a one-of-a-kind seasonal artifact — a symbol of the untamed spirit this candle was made to honor. THE EXTRAS Included with every candle is a complimentary set of matches and a blank intention card, shaped like a little coaster to rest beneath your candle. Write down a thought you want to carry, a reminder, an intention, a single word, and tuck it under the flame. While the candle burns above it and the crystal waits sealed at the base, your intention stays close, a quiet anchor for whatever you are reaching for.
-  Updated: 2026-06-16T08:13:23Z
+- [Year of the Fire Horse | Aromachology Soy Candle with Fire Quartz Crystal | The Phoenix Candles](https://thephoenixcandles.com/products/year-of-the-fire-horse): You've spent so long tending to everyone else's fire that you've forgotten how brightly your own can burn. The Year of the Fire Horse was poured for the woman who feels that restless spark stirring beneath the surface — the one who's done dimming herself to make others comfortable, done waiting for permission to take up space.Infused with Fire Quartz — a crystal known for reigniting vitality, courage, and grounded inner power — this candle holds space for the version of you that's ready to rise without apology. This bold, layered fragrance opens with fiery citrus and warm spice, softens into honeyed plum and creamy cacao, and grounds you in the quiet strength of cedarwood and balsam. As the wooden wick crackles and its warmth fills your space, let it remind you: your fire was never the problem. It was always the point. 12 ounces | Up to 72 hours burn timeHANDCRAFTED IN SMALL BATCHES THE SCENT SCIENCE-BACKED AROMACHOLOGY Top notes: Blood Orange, Cinnamon Bark, Fresh Nutmeg Heart notes: Ginger Snap, Plum Honey, Fir Balsam Base notes: Cacao Blanc, Brown Vanilla, Cedarwood THE AROMACHOLOGY WHY THIS SCENT WORKS Blood orange and cinnamon bark open this blend with two of the most activating scents in Aromachology research. Citrus compounds stimulate alertness and elevate mood, while cinnamon has been studied for its ability to increase cognitive performance and reduce the mental sluggishness that self-doubt quietly causes. Ginger in the heart is a known mood amplifier, warming the body and loosening emotional tension held in the chest. Plum honey adds a grounding sweetness that prevents the warmth from tipping into agitation. In the base, cedarwood and brown vanilla bring the nervous system back to center, creating the rare combination of fired-up and fully grounded that makes true courage possible. THE CRYSTAL INTENTIONAL ENERGY + PROTECTION Nestled within every Fire Horse candle is a genuine Fire Quartz crystal — a stone forged from the union of Clear Quartz and Hematite, carrying both amplifying clarity and fierce, grounded strength. Fire Quartz is intentionally chosen for its ability to transform scattered energy into focused determination and to reignite the inner flame that self-doubt has quietly dimmed. As the candle burns, its energy invites you to stop second-guessing your power and start wielding it — not recklessly, but with the steady, unstoppable force of a woman who finally remembers who she is. THE VESSEL COLOR PSYCHOLOGY + SIGHT The Year of the Fire Horse is housed in a matte crimson vessel — a bold departure and a deliberate one. In color psychology, crimson is the color of deep passion, life force, and unapologetic presence. It doesn't ask to be noticed — it commands it. Unlike softer hues that soothe, crimson activates — stirring courage in the chest and warmth in the belly, reminding your body what it feels like to be fully alive. The matte finish tempers its intensity into something rich and grounded, while an exclusive Fire Horse design engraved into the vessel marks this as a one-of-a-kind seasonal artifact — a symbol of the untamed spirit this candle was made to honor. THE EXTRAS Included with every candle is a complimentary set of matches and a blank intention card, shaped like a little coaster to rest beneath your candle. Write down a thought you want to carry, a reminder, an intention, a single word, and tuck it under the flame. While the candle burns above it and the crystal waits sealed at the base, your intention stays close, a quiet anchor for whatever you are reaching for.
+  Updated: 2026-06-26T16:50:32Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Photoroom_20260310_163446.png?v=1773174922
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/The_Year_of_the_Fire_Horse_limited-edition_soy_candle.png?v=1782492576
   Price: $60.00 USD
-- [The Refill](https://thephoenixcandles.com/products/the-refill-bundle): Three soy candles for the season that drains you. Be held, choose your light, believe in renewal. Science-backed Aromachology, all three for $150. Free shipping.
-  Updated: 2026-06-15T15:57:07Z
+- [The Refill Bundle](https://thephoenixcandles.com/products/the-refill-bundle): Three soy candles for the season that drains you. Be held, choose your light, believe in renewal. Science-backed Aromachology, all three for $150. Free shipping.
+  Updated: 2026-06-23T03:49:29Z
   Vendor: The Phoenix Candles
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/the_refill_summer_edit_three_candle_bundle.png?v=1781111523
   Price: $150.00 USD
+- [Bergamot, Lavender & Clean Cotton | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/bergamot-lavender-clean-cotton): A calming blend of bergamot, lavender, and clean cotton formulated to quiet the noise and ease anxious tension. Handcrafted in small batches in New Jersey.
+  Updated: 2026-06-25T05:14:24Z
+  Vendor: The Phoenix Candles
+  Product Type: Candle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_The_Lab_limited-edition_Bergamot_Lavender_and_Clean_Cotton_soy_candle.png?v=1782321899
+  - [7 oz](https://thephoenixcandles.com/products/bergamot-lavender-clean-cotton?variant=53154472886588)
+    Availability: Available
+    Price: $35.00 USD
+  - [12 oz](https://thephoenixcandles.com/products/bergamot-lavender-clean-cotton?variant=53154472853820)
+    Availability: Available
+    Price: $50.00 USD
+- [Gardenia + Grapefruit | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/gardenia-grapefruit): A mood-lifting blend of gardenia and grapefruit formulated to restore joy and emotional openness. Handcrafted in small batches in New Jersey.
+  Updated: 2026-06-25T05:12:43Z
+  Vendor: The Phoenix Candles
+  Product Type: Candle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_The_Lab_limited-edition_Gardenia_and_Grapefruit_soy_candle.png?v=1782320969
+  - [7 oz](https://thephoenixcandles.com/products/gardenia-grapefruit?variant=53154473673020)
+    Availability: Available
+    Price: $35.00 USD
+  - [12 oz](https://thephoenixcandles.com/products/gardenia-grapefruit?variant=53154473640252)
+    Availability: Available
+    Price: $50.00 USD
+- [Pomelo + Purple Basil | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/pomelo-purple-basil): A clarifying blend of pomelo and purple basil formulated to sharpen focus and ease mental fatigue. Handcrafted in small batches in New Jersey.
+  Updated: 2026-06-25T05:13:55Z
+  Vendor: The Phoenix Candles
+  Product Type: Candle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_The_Lab_limited-edition_Pomelo_and_Purple_Basil_soy_candle.png?v=1782322690
+  - [7 oz](https://thephoenixcandles.com/products/pomelo-purple-basil?variant=53154483700028)
+    Availability: Available
+    Price: $35.00 USD
+  - [12 oz](https://thephoenixcandles.com/products/pomelo-purple-basil?variant=53154483667260)
+    Availability: Available
+    Price: $50.00 USD
+- [Lemon, Rosemary + Jasmine | Aromachology Soy Candle | The Phoenix Candles](https://thephoenixcandles.com/products/lemon-rosemary-jasmine): A layered blend of lemon, rosemary, and jasmine formulated to sharpen focus, stabilize mood, and keep you grounded through it all. Handcrafted in small batches in New Jersey.
+  Updated: 2026-06-25T05:13:31Z
+  Vendor: The Phoenix Candles
+  Product Type: Candle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0773/6252/8572/files/Overhead_flat_lay_of_The_Lab_Lemon_Rosemary_Jasmine.png?v=1782320074
+  - [7 oz](https://thephoenixcandles.com/products/lemon-rosemary-jasmine?variant=53154487632188)
+    Availability: Available
+    Price: $35.00 USD
+  - [12 oz](https://thephoenixcandles.com/products/lemon-rosemary-jasmine?variant=53154487599420)
+    Availability: Available
+    Price: $50.00 USD
 
 ## Collections
 
 - [classics](https://thephoenixcandles.com/collections/classics): These are the candles that started it all — the heart of everything we pour. Each Classic was born from a deeply personal place: a desire to hold space for the emotions we so often tuck away, and to honor the quiet strength it takes to simply show up for ourselves. Every fragrance in this collection is intentionally paired with a specific crystal and a grounding intention — creating a multisensory ritual that invites you to slow down, breathe deeply, and reconnect with the woman beneath the noise. From the warmth of the wax to the weight of the stone nestled inside, each element has been chosen to guide you back to center. These aren't candles you simply light — they're anchors for the moments you carve out just for you. Whether it's five quiet minutes before the house wakes or a full evening of stillness, The Classics are here to remind you: you are already enough.Every candle is hand-poured in small batches — never mass-produced, always made with intention. New drops release every 4 to 6 weeks. Join the List to be the first to know when the next batch is ready.
-  Updated: 2026-06-16T12:19:27Z
+  Updated: 2026-06-22T18:41:59Z
   Total Products: 7
-- [the lab](https://thephoenixcandles.com/collections/the-lab): Every Phoenix candle begins with a quest — patience, precision, and purpose converging in pursuit of the perfect sensory ritual. The Lab is where that journey unfolds: countless fragrance combinations tested, refined, and reimagined to find the ideal match for each intention. This line represents the beautiful byproducts of our experimentation — candles that didn't quite find their place in our core collection, yet were poured with the same love, clean ingredients, and intentional energy that define everything we create. Because we believe in honoring every part of the process, nothing crafted with care goes to waste. These candles carry the same transformative potential — a quiet invitation to pause, breathe, and reconnect with yourself. Kindly note that these candles are NOT crystal infused. Each Lab candle is hand-poured in a single, unrepeatable batch — born from experimentation and released once. When it's gone, it's gone for good. If something calls to you, trust that. Join the List to be the first to know when new experiments drop. New experiments coming soon — stay tuned.
-  Updated: 2026-04-08T19:15:02Z
-  Total Products: 0
+- [the lab](https://thephoenixcandles.com/collections/the-lab): Every Phoenix candle begins with a quest — patience, precision, and purpose converging in pursuit of the perfect sensory ritual. The Lab is where that journey unfolds: countless fragrance combinations tested, refined, and reimagined to find the ideal match for each intention. This line represents the beautiful byproducts of our experimentation — candles that didn't quite find their place in our core collection, yet were poured with the same love, clean ingredients, and intentional energy that define everything we create. Because we believe in honoring every part of the process, nothing crafted with care goes to waste. These candles carry the same transformative potential — a quiet invitation to pause, breathe, and reconnect with yourself. Kindly note that these candles are NOT crystal infused and 7oz candle vessels are NOT engraved. Each Lab candle is hand-poured in a single, unrepeatable batch — born from experimentation and released once. When it's gone, it's gone for good. If something calls to you, trust that. Join the List to be the first to know when new experiments drop.
+  Updated: 2026-06-24T17:42:19Z
+  Total Products: 4
 - [limited editions](https://thephoenixcandles.com/collections/limited-editions): Some moments are fleeting — and so are these candles. Our Limited Edition collection is crafted seasonally, drawing inspiration from the rhythms of nature and the emotional landscape of each passing season. Each release is intentionally micro-batch: once they're gone, they don't return. This isn't scarcity for its own sake — it's a reflection of how we move through life. Seasons shift, intentions evolve, and some rituals are meant to be savored in the moment. If one calls to you, trust that instinct. These are invitations to honor the present — to pause and hold space for what this season of your life is asking of you. The next release is coming soon — stay close.
-  Updated: 2026-06-15T20:21:40Z
+  Updated: 2026-06-22T18:42:35Z
   Total Products: 2
 - [accessories](https://thephoenixcandles.com/collections/accessories)
   Updated: 2026-04-08T19:15:02Z
@@ -107,10 +155,10 @@
   Updated: 2026-06-16T12:19:27Z
   Total Products: 3
 - [Shop All Candles | Crystal-Infused Aromachology Soy Candles | The Phoenix Candles](https://thephoenixcandles.com/collections/shop-all): Browse our full collection of handmade, crystal-infused aromachology soy candles. Toxin-free, vegan & wooden wick. Each one a purposeful self-care ritual. Shop now.
-  Updated: 2026-06-16T12:19:27Z
-  Total Products: 9
+  Updated: 2026-06-24T17:42:19Z
+  Total Products: 13
 - [summer edit](https://thephoenixcandles.com/collections/summer-edit): Three soy candles for the woman summer drains instead of restores. Be held, choose your light, believe in renewal. Science-backed Aromachology, soul-led ritual.
-  Updated: 2026-06-16T12:19:27Z
+  Updated: 2026-06-22T15:49:20Z
   Total Products: 4
 
 ## Blogs
@@ -177,6 +225,10 @@
     Updated: 2026-06-12T19:30:04Z
     Author: Shaina Brooks
     Tags: aromachology, candle rituals, intentional living, invisible load, mental load, motherhood, rest, summer burnout, summer self-care, The Refill
+  - [When the Thing You Love Most Brings Up Everything You Haven’t Healed Yet](https://thephoenixcandles.com/blogs/rise-up/building-a-business-while-healing-from-trauma): <p><meta charset="UTF-8"><span>Nobody warned you about this part. The part where building something you love reaches into the past and pulls out everything you thought you'd already dealt with. The insecurity. The voice. The question that shows up at 11 p.m.: </span><em>Who do you think you are?</em></p>
+    Updated: 2026-06-23T16:28:29Z
+    Author: Shaina Brooks
+    Tags: emotional wellness, female entrepreneurship, healing and building, imposter syndrome, intentional living, woman-owned business
 
 ## Store Pages
 
@@ -190,8 +242,8 @@
   Updated: 2026-03-16T21:03:55Z
 - [Candle Care Tips | How to Get the Perfect Burn | The Phoenix Candles](https://thephoenixcandles.com/pages/care): Follow these tips to get the most out of your full-sensory candle experience.
   Updated: 2026-03-16T21:04:31Z
-- [Join the List](https://thephoenixcandles.com/pages/join-the-list)
-  Updated: 2026-03-26T16:32:00Z
+- [Join the List](https://thephoenixcandles.com/pages/join-the-list): 
+  Updated: 2026-06-23T18:31:46Z
 - [Free Self-Care Ritual Guide for Busy Women | The Phoenix Candles](https://thephoenixcandles.com/pages/reset-rituals): A free ritual guide for the woman who holds everything together — and is ready to hold space for herself too.
   Updated: 2026-04-16T21:07:17Z
 
