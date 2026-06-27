@@ -13,7 +13,7 @@ We focus on graceful silhouettes, premium fabrics, modest elegance, and thoughtf
 - Created At: 2026-02-27T07:06:18Z
 - Contact Email: shopmalof@gmail.com
 - Address: Skycity Complex, Sanat Nagar, Srinagar, Jammu and Kashmir, India - 190005
-- Updated At: 2026-06-18T00:00:47.054Z
+- Updated At: 2026-06-27T00:00:45.250Z
 
 MALOF is a modern Kashmiri ethnic fashion brand based in Srinagar, India, specializing in elegant womenswear designed for festive occasions, intimate gatherings, and refined everyday dressing.
 
