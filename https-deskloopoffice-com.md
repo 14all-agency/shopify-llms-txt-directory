@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-12-02T18:55:37Z
 - Contact Email: careshop1203@gmail.com
-- Updated At: 2026-06-20T00:00:42.543Z
+- Updated At: 2026-06-27T00:00:47.796Z
 
 ## Products
 
@@ -1652,7 +1652,7 @@
   Updated: 2026-06-06T10:27:49Z
   Total Products: 647
 - [Notebooks & notepads](https://deskloopoffice.com/collections/notebooks-notepads): Shop stylish notebooks and notepads for journaling, planning, school, or gifting. Perfect for writers, students, and creative thinkers.
-  Updated: 2026-06-10T11:15:06Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 4165
 - [Office chairs](https://deskloopoffice.com/collections/office-chairs): Shop modern ergonomic office chairs with lumbar support and adjustable features for home and work. Comfortable, stylish, and built for all-day productivity.
   Updated: 2026-06-12T11:16:15Z
@@ -1706,10 +1706,10 @@
   Updated: 2026-06-06T10:33:22Z
   Total Products: 829
 - [Pens & Pencils](https://deskloopoffice.com/collections/pens-pencils): Shop premium pens and pencils for writing, sketching, and note-taking. Explore gel pens, mechanical pencils, and more—perfect for work, school, or creative projects.
-  Updated: 2026-06-06T10:32:16Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 5010
 - [Correction Tape & Fluids](https://deskloopoffice.com/collections/correction-tape-fluids): Shop correction tapes and fluids for clean, precise edits. Ideal for school or office use. Fast-drying and mess-free options available.
-  Updated: 2026-06-06T10:33:17Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 5901
 - [Copy & Printing Paper](https://deskloopoffice.com/collections/copy-printing-paper): Shop premium copy and printing paper for home and office. Compatible with inkjet and laser printers. Bright, smooth, and reliable for everyday printing.
   Updated: 2026-06-06T10:32:39Z
@@ -1724,28 +1724,28 @@
   Updated: 2026-06-06T10:32:17Z
   Total Products: 422
 - [Sticky Notes & Flags](https://deskloopoffice.com/collections/sticky-notes-flags): Explore sticky notes and page flags for easy labeling, organizing, and planning. Great for school, work, and everyday productivity.
-  Updated: 2026-06-06T10:32:57Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 136
 - [Envelopes & Mailing Supplies | DeskLoop](https://deskloopoffice.com/collections/envelopes-mailing-supplies): Shop envelopes, padded mailers, shipping labels, and mailing accessories for business and home. USPS-ready, durable, and practical.
-  Updated: 2026-06-06T10:32:18Z
+  Updated: 2026-06-24T06:14:33Z
   Total Products: 1442
 - [Staplers & PunchesGet things together—literally. Our collection of staplers, punches, and staples is built to keep your documents neat, secure, and presentation-ready. Whether you're working from home, running an office, or managing classroom materials, we've got you covered with durable, efficient tools.  ✔️ Desktop and handheld staplers   ✔️ Heavy-duty and electric options   ✔️ Hole punches for standard or specialty paper   ✔️ Refill staples and accessories included   ✔️ Perfect for school, office, or home setups](https://deskloopoffice.com/collections/staplers-punches): Get things together—literally. Our collection of staplers, punches, and staples is built to keep your documents neat, secure, and presentation-ready. Whether you're working from home, running an office, or managing classroom materials, we've got you covered with durable, efficient tools. ✔️ Desktop and handheld staplers ✔️ Heavy-duty and electric options ✔️ Hole punches for standard or specialty paper ✔️ Refill staples and accessories included ✔️ Perfect for school, office, or home setups
   Updated: 2026-06-06T10:33:07Z
   Total Products: 330
 - [Tape & Dispensers | DeskLoop](https://deskloopoffice.com/collections/tape-dispensers): Shop all types of tape and dispensers—adhesive, correction, duct, masking, and more. Perfect for office, school, and creative tasks.
-  Updated: 2026-06-06T10:32:52Z
+  Updated: 2026-06-24T05:57:46Z
   Total Products: 2403
 - [Scissors & Cutting Tools| DeskLoop](https://deskloopoffice.com/collections/scissors-cutting-tools): Shop office scissors, utility knives, and cutting tools for crafting, organizing, and school. Sharp, ergonomic, and ready to work.
   Updated: 2026-06-06T10:33:24Z
   Total Products: 171
 - [Clips & Fasteners | DeskLoop](https://deskloopoffice.com/collections/clips-fasteners): Shop binder clips, paper clips, push pins, and fasteners for organizing documents. Perfect for school, office, or creative use.
-  Updated: 2026-06-06T10:32:49Z
+  Updated: 2026-06-24T05:57:46Z
   Total Products: 1802
 - [Rulers & Measuring Tools | DeskLoop](https://deskloopoffice.com/collections/rulers-measuring-tools): Discover rulers, tapes, and layout tools for precision measuring. Ideal for school, office, art, and engineering use.
   Updated: 2026-06-06T10:32:30Z
   Total Products: 455
 - [Labels & Stamp Supplies | DeskLoop](https://deskloopoffice.com/collections/labels-stamp-supplies): Find labeling tools and stamp supplies for organizing, mailing, and processing. Shop labels, label makers, stamps, and ink pads.
-  Updated: 2026-06-06T10:32:19Z
+  Updated: 2026-06-24T00:29:48Z
   Total Products: 2311
 - [Filing, Binders & Accessories | DeskLoop](https://deskloopoffice.com/collections/filing-binders-accessories): Shop file folders, binders, and organizing accessories. Stay organized with pocket folders, hanging files, and durable binder solutions.
   Updated: 2026-06-06T10:32:29Z
@@ -1754,7 +1754,7 @@
   Updated: 2026-06-06T10:32:31Z
   Total Products: 1105
 - [Forms & Recordkeeping | DeskLoop](https://deskloopoffice.com/collections/forms-recordkeeping): Browse forms, log books, and recordkeeping tools for offices, schools, and clinics. Designed for accuracy, compliance, and organization.
-  Updated: 2026-06-06T10:32:28Z
+  Updated: 2026-06-24T06:14:33Z
   Total Products: 1842
 - [Lap Desks for Bed, Couch & Travel | DeskLoop](https://deskloopoffice.com/collections/lap-desks): Shop comfy and portable lap desks for bed, couch, or travel. Ideal for remote work, study, or relaxing at home.
   Updated: 2026-06-06T10:32:21Z
@@ -1805,7 +1805,7 @@
   Updated: 2026-05-26T13:48:46Z
   Total Products: 0
 - [sticker](https://deskloopoffice.com/collections/sticker): Organize smarter, plan prettier. This sticker collection brings a dose of creativity and structure to your workspace — from colorful index tabs and sticky labels to note stickers that keep your ideas flowing. Whether you're marking key pages, color-coding your study notes, or decorating your journals, these small details make a big impact. Designed for students, creators, and professionals who love to stay organized with style. ✨Pro tip: Pair your stickers with our best- spiral notebooks and planners for a clean, cohesive desk setup.
-  Updated: 2026-06-06T10:59:14Z
+  Updated: 2026-06-24T00:29:48Z
   Total Products: 1021
 - [chair](https://deskloopoffice.com/collections/chair): Level up your workspace comfort. From ergonomic desk chairs that support marathon work sessions to stylish drafting chairs that fit your standing desk setup, this collection has every seat your space needs. Whether you're gaming, designing, or typing away on your next big idea, find a chair that matches your posture, style, and grind. Built for comfort, designed for productivity. 💡Pro tip: Pair your new chair with an adjustable desk or keyboard stand for the ultimate ergonomic upgrade.
   Updated: 2026-06-12T11:16:15Z
@@ -1817,7 +1817,7 @@
   Updated: 2026-06-06T11:00:09Z
   Total Products: 355
 - [Luxury Fountain Pens & Refills | DeskLoop Office](https://deskloopoffice.com/collections/fountain-pens-refills): Shop elegant fountain pens and premium refills. Experience smooth ink flow, timeless design, and craftsmanship that inspires every word.
-  Updated: 2026-06-06T10:59:43Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 662
 - [Brush Pens & Calligraphy Tools for Creative Writing | DeskLoop Office](https://deskloopoffice.com/collections/brush-pens-calligraphy-tools): Shop brush pens and calligraphy tools for lettering, journaling, and art. Flexible tips and vibrant inks for smooth creative expression.
   Updated: 2026-06-06T10:59:44Z
@@ -1835,7 +1835,7 @@
   Updated: 2026-06-06T11:00:08Z
   Total Products: 6
 - [Ink Bottles & Pen Cleaning Kits | DeskLoop Office](https://deskloopoffice.com/collections/ink-bottles-pen-cleaners): Shop premium ink bottles and pen cleaners to maintain smooth, consistent writing. Perfect for fountain pens, artists, and journaling enthusiasts.
-  Updated: 2026-06-10T11:15:06Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 7562
 - [Art Sketchbooks & Drawing Pads for Artists | DeskLoop Office](https://deskloopoffice.com/collections/art-sketchbooks-drawing-pads): Shop professional sketchbooks and drawing pads for artists and designers. High-quality paper for pencils, pens, and markers—made to inspire.
   Updated: 2026-06-06T10:59:39Z
@@ -1859,7 +1859,7 @@
   Updated: 2026-06-06T11:00:24Z
   Total Products: 1088
 - [Bulletin & Cork Boards for Home and Office | DeskLoop Office](https://deskloopoffice.com/collections/bulletin-boards-cork-boards): Shop bulletin and cork boards for visual organization. Display notes, photos, and goals with style in your home, studio, or workspace.
-  Updated: 2026-06-06T11:00:16Z
+  Updated: 2026-06-24T02:47:06Z
   Total Products: 3162
 - [Push Pins & Thumb Tacks for Boards | DeskLoop Office](https://deskloopoffice.com/collections/push-pins-thumb-tacks): Shop stylish push pins and thumb tacks to organize notes and ideas. Perfect for cork boards, planners, and creative desk setups.
   Updated: 2026-06-06T10:59:42Z
@@ -1871,10 +1871,10 @@
   Updated: 2026-06-06T10:59:54Z
   Total Products: 336
 - [Daily & Weekly Planners for Organized Living | DeskLoop Office](https://deskloopoffice.com/collections/daily-weekly-planners): Shop daily and weekly planners to manage your time and goals. Minimalist, functional designs for productive days and balanced weeks.
-  Updated: 2026-06-06T10:59:57Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 1059
 - [Goal Trackers & Habit Journals for Motivation | DeskLoop Office](https://deskloopoffice.com/collections/goal-trackers-habit-journals): Shop goal trackers and habit journals designed to build consistency. Plan, reflect, and track your progress with every page.
-  Updated: 2026-06-10T11:15:06Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 5054
 - [Sticky Tabs & Page Flags for Organization | DeskLoop Office](https://deskloopoffice.com/collections/sticky-tabs-page-flags): Shop sticky tabs and page flags to organize notes and planners. Colorful, practical tools for better studying, planning, and productivity.
   Updated: 2026-06-06T10:59:43Z
@@ -1889,7 +1889,7 @@
   Updated: 2026-06-10T11:15:06Z
   Total Products: 153
 - [Legal Pads & Perforated Notebooks | DeskLoop Office](https://deskloopoffice.com/collections/legal-pads-perforated-notebooks): Shop legal pads and perforated notebooks for professional note-taking. Tear-off pages, clean designs, and premium paper for every workspace.
-  Updated: 2026-06-10T11:15:06Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 4165
 - [Mini Notebooks & Pocket Journals | DeskLoop Office](https://deskloopoffice.com/collections/mini-notebooks-pocket-journals): Shop mini notebooks and pocket journals for on-the-go ideas. Compact, durable, and perfect for travel, meetings, and daily inspiration.
   Updated: 2026-06-06T10:59:55Z
@@ -1970,10 +1970,10 @@
   Updated: 2026-06-06T11:24:25Z
   Total Products: 565
 - [Storage & Inventory Labels for Warehouse Organization - DeskLoop Office](https://deskloopoffice.com/collections/storage-inventory-labels): Shop professional storage and inventory labels. Thermal shipping labels, printable address labels, color-coded stickers for warehouse and inventory management.
-  Updated: 2026-06-06T11:24:12Z
+  Updated: 2026-06-24T00:29:48Z
   Total Products: 1263
 - [Under $15 Finds](https://deskloopoffice.com/collections/under-15-finds)
-  Updated: 2026-06-06T11:32:13Z
+  Updated: 2026-06-25T11:15:45Z
   Total Products: 2175
 - [Premium Products Over $1000 - Luxury Office Design | DeskLoop Office](https://deskloopoffice.com/collections/premium-products-over-1000): Shop our curated collection of premium office products priced at $1000 and above. Exclusive high-end desk accessories, ergonomic furniture, and luxury stationery.
   Updated: 2026-06-06T11:33:32Z
