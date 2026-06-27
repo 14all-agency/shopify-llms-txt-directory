@@ -6,26 +6,26 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-02-19T13:05:44Z
 - Contact Email: info@bhavestore.com
-- Updated At: 2026-06-19T22:39:31.018Z
+- Updated At: 2026-06-27T00:00:29.240Z
 
 ## Products
 
 - [Mobil Oyun Tetik Aparatı - As Q Senin ile Keskin Kontrol](https://bhavestore.com/products/ace-q): As Q Senin mobil oyun tetik aparatı ile oyunlarda hızlı ve hassas saldırılar yapın. Üstün performans için ideal oyun aksesuarı.
-  Updated: 2026-06-18T07:10:45Z
+  Updated: 2026-06-26T13:17:27Z
   Vendor: bhave
   Product Type: Tetik
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/0_10194ce8-dd42-498a-b444-23ef4ced9fdd.png?v=1779810974
   Price: ₺519,99 TRY
 - [Carbon Parmaklık - En İyi Mobil Oyun Parmaklığı](https://bhavestore.com/products/carbon-parmaklik): Carbon parmaklık ile mobil oyun deneyiminizi geliştirin. Dayanıklı ve konforlu mobil oyun parmaklığı şimdi satın alın.
-  Updated: 2026-06-19T20:46:37Z
+  Updated: 2026-06-26T21:33:27Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/CARBON1.png?v=1779811031
   Price: ₺139,99 TRY
 - [Hibrit Mobil Oyun Parmaklık - Konforlu Oyun Deneyimi](https://bhavestore.com/products/hybrid): Hibrit mobil oyun parmaklık ile oyun oynarken maksimum rahatlık ve kontrol sağlayın. Dayanıklı ve kullanışlı tasarım ile en iyi performans.
-  Updated: 2026-06-19T21:52:48Z
+  Updated: 2026-06-26T22:41:09Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
@@ -51,38 +51,48 @@
     Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/S2_83c9545e-60a1-43b7-bb08-d0546cbe9eb4.png?v=1779811055
     Price: ₺199,99 TRY
 - [Silver Parmaklık Mobil Oyun Parmaklık Seti - Rahat Kullanım](https://bhavestore.com/products/silver-parmaklik): Silver parmaklık ile mobil oyun parmaklık seti deneyiminizi geliştirin. Konforlu ve sağlam tasarımla daha iyi kontrol sizde.
-  Updated: 2026-06-19T20:27:47Z
+  Updated: 2026-06-26T23:25:26Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/SILVER3.png?v=1779811058
   Price: ₺199,99 TRY
 - [Silver Pro Parmaklık | PUBG Mobile Parmaklık Kalitesi](https://bhavestore.com/products/silver-pro-parmaklik): Silver Pro Parmaklık ile PUBG Mobile parmaklık deneyiminizi geliştirin. Dayanıklı ve hassas tasarım ile oyun performansınızı artırın.
-  Updated: 2026-06-19T21:52:47Z
+  Updated: 2026-06-26T21:35:18Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/SILVERPRO4_6abb08c1-c8c2-4b45-9f8e-029b45f6d181.png?v=1779811067
-  Price: ₺199,99 TRY
-- [Aero Q Taşınlabilir Fan ile Serinlik Her Yerde](https://bhavestore.com/products/aeroqtasinlabilir-fan): Yenilikçi Aero Q taşınlabilir fan ile istediğiniz her yerde ferahlatıcı serinliğin keyfini çıkarın. Hafif ve güçlü tasarım sunar.
-  Updated: 2026-06-19T17:42:07Z
+  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/SILVERPRO4_6abb08c1-c8c2-4b45-9f8e-029b45f6d181.png?v=1782161898
+  Price: ₺219,99 TRY
+- [Taşınabilir Fan Aero Q: Kompakt, Sessiz ve Uzun Pil Ömrü](https://bhavestore.com/products/aeroqtasinlabilir-fan): Taşınabilir Fan Aero Q ile yüksek performans ve dayanıklılık bir arada. Hafif ve şık tasarımıyla kablosuz serinlik artık cebinizde. Hemen keşfedin!
+  Updated: 2026-06-26T19:38:10Z
   Vendor: Bhave
   Product Type: Soğutucu
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/shopifyh.png?v=1779811082
-  Price: ₺1.199,99 TRY
+  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/aeropost1kopya.png?v=1782418949
+  Price: ₺1.299,99 TRY
+- [Bhave Cut Akıllı Şarj Ayırıcı](https://bhavestore.com/products/bhave-cut-akilli-sarj-ayirici): Batarya Sağlığında Yeni Standart: Fiziksel Güç Kesme Teknolojisi. Piyasadaki standart şarj çözümleri, cihazınız dolduğunda sadece akımı "yavaşlatır" veya "beklemeye" alır. Bhave Cut ise bir adım öteye geçerek, dolum tamamlandığında güç akışını fiziksel olarak koparır. Bhave Cut, gelişmiş sensörleri sayesinde cihazınızın %100 doluluğa ulaştığını algılar ve içerisindeki mekanik röle sistemi ile elektriksel bağlantıyı tamamen keser. Bu, cihazınızın sabaha kadar veya uzun süreli şarjlarda "damlama şarj" (trickle charging) stresine maruz kalmasını engeller. Bataryanızın ömrünü doğrudan koruma altına alan bu donanımsal çözüm, yüksek performanslı cihazlarınızın uzun vadeli sağlığı için tasarlanmıştır. Neden Bhave Cut (Fiziksel Kesme)? %100 Donanımsal Güvenlik: Şarj bittiğinde elektrik devresi fiziksel olarak açılır. "Şarj bitti" sinyalini fiziksel kesintiyle taçlandırır. 140W Yüksek Hız: Fiziksel kesme teknolojisi, performans kaybı yaşatmaz; 140W gücüyle cihazlarınızı en hızlı şekilde doldurur. Sıfır Enerji Tüketimi: Bağlantı fiziksel olarak kesildiği için, şarj tamamlandığında adaptörünüz boşta enerji harcamaz; tam bir verimlilik sunar. Uzun Ömürlü Batarya: "Overcharge" (aşırı şarj) riskini tamamen ortadan kaldırarak pilinizin kimyasal ömrünü korur. Minimalist Bhave Tasarımı: Teknik gücü, sade ve profesyonel bir dış görünümle masanıza taşır.
+  Updated: 2026-06-26T08:27:08Z
+  Vendor: Bhave
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/png_c3bf1d6d-da5a-4838-b470-d7014ee35973.png?v=1782419004
+  Price: ₺1.249,99 TRY
 
 ## Collections
 
 - [Parmak Eldiven Espor ile Oyun Performansınızı Artırın](https://bhavestore.com/collections/parmaklik): Parmak Eldiven Espor, oyuncular için konfor ve kontrol sağlar. Parmaklık modelleri hakkında detaylı bilgi alın.
-  Updated: 2026-06-19T11:28:34Z
+  Updated: 2026-06-26T16:19:16Z
   Total Products: 4
 - [Mobil Oyun Tetik – En İyi Oyuncu Deneyimi](https://bhavestore.com/collections/tetik): Mobil Oyun Tetik ile oyun performansınızı artırın. Hızlı ve etkili mobil oyun tetik mekanizmaları hakkında her şey burada.
-  Updated: 2026-06-07T11:18:28Z
+  Updated: 2026-06-25T12:30:25Z
   Total Products: 1
 - [Telefon Soğutucu Fan ile Mobil Cihazınızı Serin Tutun](https://bhavestore.com/collections/sogutucu): Telefon Soğutucu Fan sayesinde cihazınız ısınmaz, performansınız düşmez. Taşınabilir ve etkili soğutma çözümü.
-  Updated: 2026-06-18T11:28:08Z
+  Updated: 2026-06-26T16:19:16Z
   Total Products: 2
+- [Kablo/Adaptör](https://bhavestore.com/collections/kablo-adaptor): Oyun performansınız, ekipmanınızın kalitesiyle başlar. Bhave olarak, en yüksek verimlilik ve minimum gecikme hedefiyle seçtiğimiz premium kablo ve adaptör serimiz; sinyal kaybını minimize eden yüksek kaliteli malzemelerle tasarlandı. İster masaüstü kurulumunuzu optimize edin, ister mobil oyun deneyiminizi bir üst seviyeye taşıyın; cihazlarınız arasındaki bağı güçlendirecek, dayanıklı ve şık tasarımlı bağlantı çözümlerini keşfedin. Kesintisiz bağlantı, mutlak kontrol.
+  Updated: 2026-06-25T12:41:24Z
+  Total Products: 1
 
 ## Blogs
 
