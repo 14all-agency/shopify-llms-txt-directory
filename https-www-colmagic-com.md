@@ -6,19 +6,19 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-03-08T12:51:31Z
 - Contact Email: colmagicoffical@gmail.com
-- Updated At: 2026-06-20T00:00:37.003Z
+- Updated At: 2026-06-27T00:00:38.465Z
 
 ## Products
 
 - [Synthetic Lash Extension Kit | ColMagic DIY Mixed Eyelashes](https://www.colmagic.com/products/colmagic-diy-mixed-eyelashes-kit-10-1colmagic-diy-eyelash-kit-300-clusters-10-18mm-natural-volume-lashes-waterproofsynthetic-lash-extension): Achieve stunning natural volume with ColMagic DIY synthetic lash extension kit featuring 300 waterproof clusters from 10-18mm.
-  Updated: 2026-06-02T17:57:15Z
+  Updated: 2026-06-24T10:11:09Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/1.jpg?v=1778074229
   Price: $29.99 USD
 - [DIY Eyelash Extension Kit | ColMagic Mixed Length Lashes](https://www.colmagic.com/products/colmagic-diy-lashes-extension-kit-mixed-length-5-18mm-waterproof-gentle): Get perfect lashes at home with ColMagic DIY eyelash extension kit. Waterproof, gentle, and mixed length 8-16mm for natural volume and style.
-  Updated: 2026-06-05T19:18:16Z
+  Updated: 2026-06-24T10:10:00Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/black_lashes_tool.jpg?v=1780644160
     Price: $39.99 USD
 - [COLMAGIC Lash Cluster Kit for Fluffy, Spiky Lashes](https://www.colmagic.com/products/colmagic-diy-lash-extension-kit-8-16mm-mixed-cluster-lashes-waterproof-eyelash-kit-with-bond-seal-tools-for-beginners): Discover the COLMAGIC lash cluster kit with 8-14mm fluffy spiky lashes, waterproof formula, and easy application for a long-lasting anime eye effect.
-  Updated: 2026-06-05T01:29:53Z
+  Updated: 2026-06-24T10:08:39Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -255,7 +255,7 @@
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/e5617ecd_08de248a-41ea-4688-bb45-999ae98aedea.png?v=1778203706
   Price: $8.02 USD
 - [DIY Spiky Lash Clusters for Fluffy Mixed Volume Look](https://www.colmagic.com/products/upgraded-diy-spiky-fairy-lash-clusters-fluffy-80d-100d-mix-individual-lashes-black-stem-150pcs-10-22mm): DIY spiky fairy lash clusters for a fluffy, textured lash look. Build customizable volume and dimension at home for everyday wear or special occasions.
-  Updated: 2026-06-01T02:05:37Z
+  Updated: 2026-06-24T10:07:55Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -355,6 +355,9 @@
 - [Colmagic All items - COLMAGIC](https://www.colmagic.com/collections/colmagic-all-items): - COLMAGIC
   Updated: 2026-06-05T07:18:11Z
   Total Products: 23
+- [COLMAGIC Lash Clusters](https://www.colmagic.com/collections/colmagic-lash-clusters): Shop COLMAGIC lash clusters, DIY lash extension kits, lash bond and seal, and lash tools for natural, wispy, and salon-inspired lashes at home. Create soft everyday looks or fuller eye makeup styles with easy-to-use cluster lashes.
+  Updated: 2026-06-25T08:32:47Z
+  Total Products: 5
 
 ## Blogs
 
