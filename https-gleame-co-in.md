@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-09T06:52:22Z
 - Contact Email: noreply@gleame.co.in
-- Updated At: 2026-06-16T00:00:36.583Z
+- Updated At: 2026-06-27T00:00:38.770Z
 
 ## Products
 
 - [Balaclava Ninja Hoodie - Men & Women - Gleame](https://gleame.co.in/products/balaclava-hoodie-with-mask-black): Product Details Crafted from a premium fleece cotton blend, this hoodie combines comfort, durability, and modern streetwear style. Featuring a built-in balaclava mask, it offers versatile wear for both casual and outdoor settings. Features: Material: Fleece Cotton blend (soft, warm, and durable) Sleeve: Long sleeves with ribbed cuffs Neck: Hooded with full zip-up closure Design: All-in-one hoodie with integrated balaclava mask Breathable: Mask made from breathable fabric for all-day comfort Fit: Tailored modern fit for a sleek look Style: Unisex design, suitable for men and women Care Instructions: Machine wash cold at 30°C / 85°F Do not bleach Do not tumble dry Do not dry clean Iron on low heat if needed Additional Details: Standard length hoodie with adjustable coverage Built-in balaclava for extra warmth and protection Ideal for everyday wear, outdoor activities, and urban fashion - Gleame
-  Updated: 2026-06-09T08:15:55Z
+  Updated: 2026-06-24T19:22:18Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -120,1465 +120,6 @@
   - [2XL](https://gleame.co.in/products/but-why-nihilist-penguin-oversized-hoodie?variant=47042068152474)
     Availability: Available
     Price: ₹1,799.00 INR
-- [Acid Wash Tanjiro T-Shirt | Oversized Demon Slayer Style for Fans](https://gleame.co.in/products/boiled-tanjiro-t-shirt): Elevate your style with the Acid Wash Tanjiro T-Shirt from Demon Slayer. This oversized tee combines comfort and unique design, perfect for anime fans. Order yours today!
-  Updated: 2026-06-03T16:14:51Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/31831051.jpg?v=1780215627
-  - [S](https://gleame.co.in/products/boiled-tanjiro-t-shirt?variant=47065234112666)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/boiled-tanjiro-t-shirt?variant=47065234145434)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/boiled-tanjiro-t-shirt?variant=47065234178202)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/boiled-tanjiro-t-shirt?variant=47065234210970)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/boiled-tanjiro-t-shirt?variant=47065234243738)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Gyomei T-Shirt | Oversized Demon Slayer Fashion Statement](https://gleame.co.in/products/gyomei-oversized-t-shirt): Elevate your style with our Acid Wash Gyomei T-Shirt from Demon Slayer. This oversized tee blends comfort and trendy design, making it a must-have for fans. Get yours now!
-  Updated: 2026-06-09T07:52:58Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/wmremove-transformed_1_1.jpg?v=1780215648
-  - [Grey / S](https://gleame.co.in/products/gyomei-oversized-t-shirt?variant=47065261408410)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/gyomei-oversized-t-shirt?variant=47065261441178)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/gyomei-oversized-t-shirt?variant=47065261473946)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/gyomei-oversized-t-shirt?variant=47065261506714)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/gyomei-oversized-t-shirt?variant=47065261539482)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Giyu Oversized T-Shirt | Demon Slayer - Gleame](https://gleame.co.in/products/giyu): Product Details Premium oversized T-shirt inspired by Giyu Tomioka — the Water Hashira of the Demon Slayer Corps, known for his calm dominance, unmatched swordsmanship, and silent strength. Designed for true anime fans who value composure, loyalty, and lethal precision. Character Highlights: Water Hashira of the Demon Slayer Corps Master of Water Breathing techniques Cold, calm, and reserved personality Elite swordsman respected for skill and discipline Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Premium oversized streetwear feel Comfortable for all-day wear Perfect for Demon Slayer anime fans - Gleame
-  Updated: 2026-06-13T16:14:42Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46213446.jpg?v=1780215687
-  - [Grey / S](https://gleame.co.in/products/giyu?variant=47065266684058)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46213446.jpg?v=1780215687
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/giyu?variant=47065268125850)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46213446.jpg?v=1780215687
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/giyu?variant=47065268158618)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46213446.jpg?v=1780215687
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/giyu?variant=47065268191386)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46213446.jpg?v=1780215687
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/giyu?variant=47065268224154)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46213446.jpg?v=1780215687
-    Price: ₹1,299.00 INR
-- [Acid Wash Zenitsu T-Shirt | Oversized Demon Slayer Style for Fans](https://gleame.co.in/products/zenitsu-oversized-t-shirt-demon-slayer): Shop the Acid Wash Zenitsu Oversized T-Shirt from Demon Slayer. Stand out with this stylish, comfortable tee featuring your favorite character. Perfect for anime fans!
-  Updated: 2026-06-15T12:50:58Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/40132851.jpg?v=1780215729
-  - [Grey / S](https://gleame.co.in/products/zenitsu-oversized-t-shirt-demon-slayer?variant=47065295290522)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/40132851.jpg?v=1780215729
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/zenitsu-oversized-t-shirt-demon-slayer?variant=47065295323290)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/40132851.jpg?v=1780215729
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/zenitsu-oversized-t-shirt-demon-slayer?variant=47065295356058)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/40132851.jpg?v=1780215729
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/zenitsu-oversized-t-shirt-demon-slayer?variant=47065295388826)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/40132851.jpg?v=1780215729
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/zenitsu-oversized-t-shirt-demon-slayer?variant=47065295421594)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/40132851.jpg?v=1780215729
-    Price: ₹1,299.00 INR
-- [Acid Wash Kocho Oversized T-Shirt | Demon Slayer - Gleame](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer): Product Details Premium oversized T-shirt inspired by Shinobu Kocho — the Insect Hashira of the Demon Slayer Corps, known for her deadly intelligence, poison mastery, and calm yet terrifying presence. Designed for anime fans who appreciate elegance, strategy, and silent lethality. Character Highlights: Insect Hashira of the Demon Slayer Corps Poison-based combat lethal to demons Graceful yet ruthless fighting style Sharp intellect and  expertise Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Premium oversized streetwear feel Lightweight yet powerful aesthetic Perfect for Demon Slayer anime fans - Gleame
-  Updated: 2026-06-03T16:14:58Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62323194.jpg?v=1780215788
-  - [Grey / S](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065306890394)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62323194.jpg?v=1780215788
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065306923162)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62323194.jpg?v=1780215788
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065306955930)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62323194.jpg?v=1780215788
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065306988698)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62323194.jpg?v=1780215788
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307021466)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62323194.jpg?v=1780215788
-    Price: ₹1,299.00 INR
-  - [Beige / S](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307054234)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/98319369.jpg?v=1780215809
-    Price: ₹1,299.00 INR
-  - [Beige / M](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307087002)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/98319369.jpg?v=1780215809
-    Price: ₹1,299.00 INR
-  - [Beige / L](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307119770)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/98319369.jpg?v=1780215809
-    Price: ₹1,299.00 INR
-  - [Beige / XL](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307152538)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/98319369.jpg?v=1780215809
-    Price: ₹1,299.00 INR
-  - [Beige / 2XL](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307185306)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/98319369.jpg?v=1780215809
-    Price: ₹1,299.00 INR
-  - [Heavenly / S](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307218074)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/69952297.jpg?v=1780215830
-    Price: ₹1,299.00 INR
-  - [Heavenly / M](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307250842)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/69952297.jpg?v=1780215830
-    Price: ₹1,299.00 INR
-  - [Heavenly / L](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307283610)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/69952297.jpg?v=1780215830
-    Price: ₹1,299.00 INR
-  - [Heavenly / XL](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307316378)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/69952297.jpg?v=1780215830
-    Price: ₹1,299.00 INR
-  - [Heavenly / 2XL](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307349146)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/69952297.jpg?v=1780215830
-    Price: ₹1,299.00 INR
-  - [Pink / S](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307381914)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/71270751.jpg?v=1780215850
-    Price: ₹1,299.00 INR
-  - [Pink / M](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307414682)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/71270751.jpg?v=1780215850
-    Price: ₹1,299.00 INR
-  - [Pink / L](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307447450)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/71270751.jpg?v=1780215850
-    Price: ₹1,299.00 INR
-  - [Pink / XL](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307480218)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/71270751.jpg?v=1780215850
-    Price: ₹1,299.00 INR
-  - [Pink / 2XL](https://gleame.co.in/products/kocho-oversized-t-shirt-demon-slayer?variant=47065307512986)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/71270751.jpg?v=1780215850
-    Price: ₹1,299.00 INR
-- [Acid Wash Kokushibo Oversized T-Shirt | Demon Slayer - Gleame](https://gleame.co.in/products/kokushibo-oversized-t-shirt-demon-slayer): Product Details Premium oversized T-shirt inspired by Kokushibo — the Upper Rank One demon of Demon Slayer, known for his terrifying aura, moon-breathing mastery, and god-level swordsmanship. Designed for anime fans who admire absolute power, dominance, and fearsome presence. Character Highlights: Upper Rank One of the Twelve Kizuki Moon Breathing user with monstrous techniques Unmatched sword skill even among Hashira Cold, ruthless, and disciplined warrior mindset Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Dark, dominant streetwear aesthetic Heavyweight premium oversized feel Perfect for hardcore Demon Slayer fans - Gleame
-  Updated: 2026-06-03T16:14:59Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/45736828_1.jpg?v=1780215870
-  - [Grey / S](https://gleame.co.in/products/kokushibo-oversized-t-shirt-demon-slayer?variant=47065310462106)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/kokushibo-oversized-t-shirt-demon-slayer?variant=47065310494874)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/kokushibo-oversized-t-shirt-demon-slayer?variant=47065310527642)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/kokushibo-oversized-t-shirt-demon-slayer?variant=47065310560410)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/kokushibo-oversized-t-shirt-demon-slayer?variant=47065310593178)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Inosuke Oversized T-Shirt | Demon Slayer - Gleame](https://gleame.co.in/products/inosuke-oversized-t-shirt-demon-slayer): Product Details Premium oversized T-shirt inspired by Inosuke Hashibira — the feral warrior of Demon Slayer, known for his beast-like instincts, raw aggression, and unpredictable combat style. Designed for anime fans who embrace chaos, confidence, and untamed power. Character Highlights: Beast Breathing user with wild, self-created techniques Unmatched flexibility and heightened senses Fearless, loud, and aggressive personality Dual-sword fighter with brutal close-range attacks Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Bold, aggressive streetwear aesthetic Durable heavyweight oversized feel Perfect for high-energy Demon Slayer fans - Gleame
-  Updated: 2026-06-03T16:15:00Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64940003.jpg?v=1780215891
-  - [Grey / S](https://gleame.co.in/products/inosuke-oversized-t-shirt-demon-slayer?variant=47065314820250)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64940003.jpg?v=1780215891
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/inosuke-oversized-t-shirt-demon-slayer?variant=47065314853018)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64940003.jpg?v=1780215891
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/inosuke-oversized-t-shirt-demon-slayer?variant=47065314885786)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64940003.jpg?v=1780215891
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/inosuke-oversized-t-shirt-demon-slayer?variant=47065314918554)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64940003.jpg?v=1780215891
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/inosuke-oversized-t-shirt-demon-slayer?variant=47065314951322)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64940003.jpg?v=1780215891
-    Price: ₹1,299.00 INR
-- [Acid Wash Inosuke V2 Oversized T-Shirt | Demon Slayer - Gleame](https://gleame.co.in/products/inosuke-v2-oversized-t-shirt-demon-slayer): Product Details Premium oversized T-shirt inspired by Inosuke Hashibira — the feral warrior of Demon Slayer, known for his beast-like instincts, raw aggression, and unpredictable combat style. Designed for anime fans who embrace chaos, confidence, and untamed power. Character Highlights: Beast Breathing user with wild, self-created techniques Unmatched flexibility and heightened senses Fearless, loud, and aggressive personality Dual-sword fighter with brutal close-range attacks Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Bold, aggressive streetwear aesthetic Durable heavyweight oversized feel Perfect for high-energy Demon Slayer fans - Gleame
-  Updated: 2026-06-03T16:15:01Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/14764289.jpg?v=1780215933
-  - [Grey / S](https://gleame.co.in/products/inosuke-v2-oversized-t-shirt-demon-slayer?variant=47065325273242)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/14764289.jpg?v=1780215933
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/inosuke-v2-oversized-t-shirt-demon-slayer?variant=47065325306010)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/14764289.jpg?v=1780215933
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/inosuke-v2-oversized-t-shirt-demon-slayer?variant=47065325338778)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/14764289.jpg?v=1780215933
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/inosuke-v2-oversized-t-shirt-demon-slayer?variant=47065325371546)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/14764289.jpg?v=1780215933
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/inosuke-v2-oversized-t-shirt-demon-slayer?variant=47065325404314)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/14764289.jpg?v=1780215933
-    Price: ₹1,299.00 INR
-- [Acid Wash Levi Oversized T-Shirt | Attack on Titan - Gleame](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan): Product Details Premium oversized T-shirt inspired by Levi Ackerman — humanity’s strongest soldier in Attack on Titan, known for his cold precision, unmatched combat skills, and ruthless efficiency. Designed for anime fans who respect discipline, dominance, and absolute skill. Character Highlights: Humanity’s strongest soldier Master of ODM combat with flawless control Elite Ackerman strength and instincts Calm, ruthless, and tactical battlefield mindset Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Sharp, minimal streetwear aesthetic Heavyweight premium oversized feel Perfect for Attack on Titan anime fans - Gleame
-  Updated: 2026-06-05T12:15:57Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/81322983.jpg?v=1780215973
-  - [Grey / S](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065343721626)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/81322983.jpg?v=1780215973
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065343754394)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/81322983.jpg?v=1780215973
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065343787162)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/81322983.jpg?v=1780215973
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065343819930)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/81322983.jpg?v=1780215973
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065343852698)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/81322983.jpg?v=1780215973
-    Price: ₹1,299.00 INR
-  - [Beige / S](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065343885466)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13271282.jpg?v=1780215993
-    Price: ₹1,299.00 INR
-  - [Beige / M](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065343918234)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13271282.jpg?v=1780215993
-    Price: ₹1,299.00 INR
-  - [Beige / L](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065343951002)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13271282.jpg?v=1780215993
-    Price: ₹1,299.00 INR
-  - [Beige / XL](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065343983770)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13271282.jpg?v=1780215993
-    Price: ₹1,299.00 INR
-  - [Beige / 2XL](https://gleame.co.in/products/levi-oversized-t-shirt-attack-on-titan?variant=47065344016538)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13271282.jpg?v=1780215993
-    Price: ₹1,299.00 INR
-- [Acid Wash Eren Oversized T-Shirt | Attack on Titan - Gleame](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan): Product Details Premium oversized T-shirt inspired by Eren Yeager — the symbol of freedom and destruction in Attack on Titan, known for his unbreakable will, ruthless determination, and god-like power. Designed for anime fans who resonate with rebellion, sacrifice, and absolute resolve. Character Highlights: Bearer of the Founding & Attack Titan Driven by freedom at any cost Cold, determined, and relentless mindset World-shaking power that changed history Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Dark, rebellious streetwear aesthetic Heavyweight premium oversized feel Perfect for Attack on Titan anime fans - Gleame
-  Updated: 2026-06-03T16:15:05Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/52895200.jpg?v=1780216013
-  - [Grey / S](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353027738)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/52895200.jpg?v=1780216013
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353060506)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/52895200.jpg?v=1780216013
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353093274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/52895200.jpg?v=1780216013
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353126042)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/52895200.jpg?v=1780216013
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353158810)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/52895200.jpg?v=1780216013
-    Price: ₹1,299.00 INR
-  - [Beige / S](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353191578)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/79820633.jpg?v=1780216056
-    Price: ₹1,299.00 INR
-  - [Beige / M](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353224346)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/79820633.jpg?v=1780216056
-    Price: ₹1,299.00 INR
-  - [Beige / L](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353257114)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/79820633.jpg?v=1780216056
-    Price: ₹1,299.00 INR
-  - [Beige / XL](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353289882)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/79820633.jpg?v=1780216056
-    Price: ₹1,299.00 INR
-  - [Beige / 2XL](https://gleame.co.in/products/eren-oversized-t-shirt-attack-on-titan?variant=47065353322650)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/79820633.jpg?v=1780216056
-    Price: ₹1,299.00 INR
-- [Acid Wash Yami Oversized T-Shirt | Black Clover - Gleame](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover): Product Details Premium oversized T-shirt inspired by Yami Sukehiro — the Captain of the Black Bulls, known for his dark magic mastery, overwhelming physical strength, and fearless leadership. Designed for anime fans who believe in pushing past limits and winning no matter the odds. Character Highlights: Captain of the Black Bulls squad Dark Magic user with dimension-cutting attacks Limit-breaking mindset and raw combat power Fearless, bold, and inspirational leader Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Bold, dominant streetwear aesthetic Heavyweight premium oversized feel Perfect for Black Clover anime fans - Gleame
-  Updated: 2026-06-03T16:15:07Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/61474422.jpg?v=1780216076
-  - [Grey / S](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065356566682)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065356599450)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065356632218)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065356664986)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065356697754)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Beige / S](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065357713562)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Beige / M](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065357746330)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Beige / L](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065357779098)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Beige / XL](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065357811866)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Beige / 2XL](https://gleame.co.in/products/yami-oversized-t-shirt-black-clover?variant=47065357844634)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Killua Oversized T-Shirt | Hunter x Hunter - Gleame](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter): Product Details Premium oversized T-shirt inspired by Killua Zoldyck — the elite assassin prodigy of Hunter x Hunter, known for his lightning-fast reflexes, god-speed Nen, and lethal precision. Designed for anime fans who value speed, intelligence, and silent dominance. Character Highlights: Assassin prodigy from the Zoldyck family Lightning Nen user with Godspeed techniques Cold, tactical, and highly intelligent mindset Explosive speed and reflexes in combat Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Sharp, electric streetwear aesthetic Heavyweight premium oversized feel Perfect for Hunter x Hunter anime fans - Gleame
-  Updated: 2026-06-03T16:15:08Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/59201214.jpg?v=1780216136
-  - [Grey / S](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376456858)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/59201214.jpg?v=1780216136
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376489626)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/59201214.jpg?v=1780216136
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376522394)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/59201214.jpg?v=1780216136
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376555162)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/59201214.jpg?v=1780216136
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376587930)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/59201214.jpg?v=1780216136
-    Price: ₹1,299.00 INR
-  - [Heavenly / S](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376620698)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/93904061.jpg?v=1780216157
-    Price: ₹1,299.00 INR
-  - [Heavenly / M](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376653466)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/93904061.jpg?v=1780216157
-    Price: ₹1,299.00 INR
-  - [Heavenly / L](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376686234)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/93904061.jpg?v=1780216157
-    Price: ₹1,299.00 INR
-  - [Heavenly / XL](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376719002)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/93904061.jpg?v=1780216157
-    Price: ₹1,299.00 INR
-  - [Heavenly / 2XL](https://gleame.co.in/products/killua-oversized-t-shirt-hunter-x-hunter?variant=47065376751770)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/93904061.jpg?v=1780216157
-    Price: ₹1,299.00 INR
-- [Acid Wash Ace Oversized T-Shirt | One Piece - Gleame](https://gleame.co.in/products/ace-oversized-t-shirt-one-piece): Product Details Premium oversized T-shirt inspired by Portgas D. Ace — the Fire Fist of One Piece, known for his flame-flame powers, fearless spirit, and unbreakable loyalty. Designed for anime fans who value freedom, brotherhood, and burning will. Character Highlights: Fire Fist Ace, wielder of the Flame-Flame Devil Fruit Former commander of the Whitebeard Pirates Fearless, loyal, and proud warrior spirit Symbol of brotherhood and sacrifice Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Bold, fiery streetwear aesthetic Heavyweight premium oversized feel Perfect for One Piece anime fans - Gleame
-  Updated: 2026-06-03T16:15:10Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/83153621.jpg?v=1780216200
-  - [Grey / S](https://gleame.co.in/products/ace-oversized-t-shirt-one-piece?variant=47065435996314)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/ace-oversized-t-shirt-one-piece?variant=47065436029082)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/ace-oversized-t-shirt-one-piece?variant=47065436061850)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/ace-oversized-t-shirt-one-piece?variant=47065436094618)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/ace-oversized-t-shirt-one-piece?variant=47065436127386)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Zoro Oversized T-Shirt | One Piece - Gleame](https://gleame.co.in/products/zoro-oversized-t-shirt-one-piece): Product Details Premium oversized T-shirt inspired by Roronoa Zoro — the combatant of the Straw Hat Pirates, known for his three-sword style, iron will, and king-level ambition. Designed for anime fans who respect loyalty, discipline, and overwhelming strength. Character Highlights: Master of Three-Sword Style (Santoryu) Right-hand man of the future Pirate King Unbreakable will and warrior’s pride King of Hell aura with advanced Haki Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Bold, warrior-style streetwear aesthetic Heavyweight premium oversized feel Perfect for One Piece anime fans - Gleame
-  Updated: 2026-06-03T16:15:12Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13583472.jpg?v=1780216245
-  - [Grey / S](https://gleame.co.in/products/zoro-oversized-t-shirt-one-piece?variant=47065495044250)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13583472.jpg?v=1780216245
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/zoro-oversized-t-shirt-one-piece?variant=47065495077018)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13583472.jpg?v=1780216245
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/zoro-oversized-t-shirt-one-piece?variant=47065495109786)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13583472.jpg?v=1780216245
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/zoro-oversized-t-shirt-one-piece?variant=47065495142554)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13583472.jpg?v=1780216245
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/zoro-oversized-t-shirt-one-piece?variant=47065495175322)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/13583472.jpg?v=1780216245
-    Price: ₹1,299.00 INR
-- [Acid Wash Shanks Oversized T-Shirt | One Piece - Gleame](https://gleame.co.in/products/shanks-oversized-t-shirt-one-piece): Product Details Premium oversized T-shirt inspired by Red-Haired Shanks — one of the Four Emperors of the Sea, known for his overwhelming Haki, fearless presence, and unmatched authority. Designed for anime fans who respect true power, leadership, and calm dominance. Character Highlights: One of the Four Emperors (Yonko) Master of Conqueror’s Haki at the highest level Calm, confident, and fearless leadership style Respected across the seas by pirates and Marines alike Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Royal, dominant streetwear aesthetic Heavyweight premium oversized feel Perfect for One Piece anime fans - Gleame
-  Updated: 2026-06-03T16:15:13Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/18242395.jpg?v=1780216290
-  - [Grey / S](https://gleame.co.in/products/shanks-oversized-t-shirt-one-piece?variant=47065532924058)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/shanks-oversized-t-shirt-one-piece?variant=47065532956826)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/shanks-oversized-t-shirt-one-piece?variant=47065532989594)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/shanks-oversized-t-shirt-one-piece?variant=47065533022362)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/shanks-oversized-t-shirt-one-piece?variant=47065533055130)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Luffy Gear 5 Oversized T-Shirt | One Piece - Gleame](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece): Product Details Premium oversized T-shirt inspired by Monkey D. Luffy – Gear 5 — the Sun God Nika awakening, known for his limitless freedom, cartoon-like power, and reality-defying combat. Designed for anime fans who believe in absolute freedom, joy in battle, and unstoppable will. Character Highlights: Gear 5 Awakening — Sun God Nika form Reality-bending abilities fueled by imagination Joyful, fearless, and unstoppable fighting style Embodiment of freedom in the One Piece world Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Playful yet powerful streetwear aesthetic Heavyweight premium oversized feel Perfect for One Piece Gear 5 fans - Gleame
-  Updated: 2026-06-06T20:50:26Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/93429783.jpg?v=1780216333
-  - [Grey / S](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece?variant=47065596625050)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece?variant=47065596657818)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece?variant=47065596690586)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece?variant=47065596723354)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece?variant=47065596756122)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Gama Sennin Oversized T-Shirt | Naruto - Gleame](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto): Product Details Premium oversized T-shirt inspired by Jiraiya — the legendary Gama Sennin (Toad Sage), known for his Sage Mode mastery, powerful jutsu, and unbreakable spirit. Designed for anime fans who respect wisdom earned through battle, freedom, and legacy. Character Highlights: One of the Legendary Sannin Toad Sage with Sage Mode mastery Mentor of Naruto and key pillar of his journey Wise, fearless, and free-spirited warrior Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Legendary, nostalgic streetwear aesthetic Heavyweight premium oversized feel Perfect for Naruto anime fans - Gleame
-  Updated: 2026-06-03T16:15:21Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/16293484.jpg?v=1780216499
-  - [Grey / S](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068170748058)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/77964716.jpg?v=1780216520
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068170780826)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/77964716.jpg?v=1780216520
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068170813594)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/77964716.jpg?v=1780216520
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068170846362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/77964716.jpg?v=1780216520
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068170879130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/77964716.jpg?v=1780216520
-    Price: ₹1,299.00 INR
-  - [Beige / S](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068170911898)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/47791774.jpg?v=1780216561
-    Price: ₹1,299.00 INR
-  - [Beige / M](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068170944666)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/47791774.jpg?v=1780216561
-    Price: ₹1,299.00 INR
-  - [Beige / L](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068170977434)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/47791774.jpg?v=1780216561
-    Price: ₹1,299.00 INR
-  - [Beige / XL](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068171010202)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/47791774.jpg?v=1780216561
-    Price: ₹1,299.00 INR
-  - [Beige / 2XL](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068171042970)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/47791774.jpg?v=1780216561
-    Price: ₹1,299.00 INR
-  - [Pink / S](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068171075738)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/97043209.jpg?v=1780216540
-    Price: ₹1,299.00 INR
-  - [Pink / M](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068171108506)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/97043209.jpg?v=1780216540
-    Price: ₹1,299.00 INR
-  - [Pink / L](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068171141274)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/97043209.jpg?v=1780216540
-    Price: ₹1,299.00 INR
-  - [Pink / XL](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068171174042)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/97043209.jpg?v=1780216540
-    Price: ₹1,299.00 INR
-  - [Pink / 2XL](https://gleame.co.in/products/gama-sennin-oversized-t-shirt-naruto?variant=47068171206810)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/97043209.jpg?v=1780216540
-    Price: ₹1,299.00 INR
-- [Acid Wash Kakashi Oversized T-Shirt | Naruto - Gleame](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto): Product Details Premium oversized T-shirt inspired by Kakashi Hatake — the legendary Copy Ninja of the Hidden Leaf, known for his Sharingan mastery, tactical genius, and calm dominance. Designed for anime fans who value intelligence, precision, and quiet strength. Character Highlights: The Copy Ninja with mastery over a thousand jutsu Sharingan user with elite combat awareness Former Anbu captain and elite shinobi Calm, strategic, and battle-hardened mindset Features: Material: 100% premium cotton Fabric Weight: Heavyweight, breathable fabric Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch premium anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Minimal, elite streetwear aesthetic Heavyweight premium oversized feel Perfect for Naruto anime fans - Gleame
-  Updated: 2026-06-03T16:15:23Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/28941688.jpg?v=1780216583
-  - [Grey / S](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068178874522)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068178907290)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068178940058)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068178972826)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068179005594)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Heavenly / S](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068179038362)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Heavenly / M](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068179071130)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Heavenly / L](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068179103898)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Heavenly / XL](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068179136666)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Heavenly / 2XL](https://gleame.co.in/products/kakashi-oversized-t-shirt-naruto?variant=47068179169434)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Jiraiya Oversized T-Shirt | Naruto - Gleame](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto): Product Details Premium oversized T-shirt inspired by Jiraiya — the legendary Toad Sage from Naruto. Known for his Sage Mode, powerful ninjutsu, and  - Gleame
-  Updated: 2026-06-03T16:15:55Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/34303448.jpg?v=1780216644
-  - [Grey / S](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186116250)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/34303448.jpg?v=1780216644
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186149018)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/34303448.jpg?v=1780216644
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186181786)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/34303448.jpg?v=1780216644
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186214554)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/34303448.jpg?v=1780216644
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186247322)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/34303448.jpg?v=1780216644
-    Price: ₹1,299.00 INR
-  - [Beige / S](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186280090)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/90556849.jpg?v=1780216688
-    Price: ₹1,299.00 INR
-  - [Beige / M](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186312858)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/90556849.jpg?v=1780216688
-    Price: ₹1,299.00 INR
-  - [Beige / L](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186345626)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/90556849.jpg?v=1780216688
-    Price: ₹1,299.00 INR
-  - [Beige / XL](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186378394)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/90556849.jpg?v=1780216688
-    Price: ₹1,299.00 INR
-  - [Beige / 2XL](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186411162)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/90556849.jpg?v=1780216688
-    Price: ₹1,299.00 INR
-  - [Heavenly / S](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186443930)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49225832.jpg?v=1780216731
-    Price: ₹1,299.00 INR
-  - [Heavenly / M](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186476698)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49225832.jpg?v=1780216731
-    Price: ₹1,299.00 INR
-  - [Heavenly / L](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186509466)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49225832.jpg?v=1780216731
-    Price: ₹1,299.00 INR
-  - [Heavenly / XL](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186542234)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49225832.jpg?v=1780216731
-    Price: ₹1,299.00 INR
-  - [Heavenly / 2XL](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186575002)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49225832.jpg?v=1780216731
-    Price: ₹1,299.00 INR
-  - [Pink / S](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186607770)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/87923625.jpg?v=1780216709
-    Price: ₹1,299.00 INR
-  - [Pink / M](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186640538)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/87923625.jpg?v=1780216709
-    Price: ₹1,299.00 INR
-  - [Pink / L](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186673306)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/87923625.jpg?v=1780216709
-    Price: ₹1,299.00 INR
-  - [Pink / XL](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186706074)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/87923625.jpg?v=1780216709
-    Price: ₹1,299.00 INR
-  - [Pink / 2XL](https://gleame.co.in/products/jiraiya-oversized-t-shirt-naruto?variant=47068186738842)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/87923625.jpg?v=1780216709
-    Price: ₹1,299.00 INR
-- [Acid Wash Madara Oversized T-Shirt | Naruto - Gleame](https://gleame.co.in/products/madara-oversized-t-shirt-naruto): Product Details Premium oversized T-shirt inspired by Madara Uchiha — the legendary Uchiha clan leader from Naruto. Known for his Rinnegan, Susanoo,  - Gleame
-  Updated: 2026-05-31T08:39:35Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/43050920.jpg?v=1780216751
-  - [Grey / S](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189098138)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189130906)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189163674)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189196442)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189229210)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Beige / S](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189261978)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Beige / M](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189294746)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Beige / L](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189327514)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Beige / XL](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189360282)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-  - [Beige / 2XL](https://gleame.co.in/products/madara-oversized-t-shirt-naruto?variant=47068189393050)
-    Availability: Not Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Gojo Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/gojo-oversized-t-shirt-jujutsu-kaisen): Product Details Premium oversized T-shirt inspired by Satoru Gojo — the strongest Jujutsu Sorcerer from Jujutsu Kaisen. Known for his Limitless  - Gleame
-  Updated: 2026-05-31T14:40:29Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/89177892.jpg?v=1780216794
-  - [Grey / S](https://gleame.co.in/products/gojo-oversized-t-shirt-jujutsu-kaisen?variant=47068232056986)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/gojo-oversized-t-shirt-jujutsu-kaisen?variant=47068232089754)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/gojo-oversized-t-shirt-jujutsu-kaisen?variant=47068232122522)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/gojo-oversized-t-shirt-jujutsu-kaisen?variant=47068232155290)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/gojo-oversized-t-shirt-jujutsu-kaisen?variant=47068232188058)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Geto Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/geto-oversized-t-shirt-jujutsu-kaisen): Product Details Premium oversized T-shirt inspired by Suguru Geto — the powerful Curse User from Jujutsu Kaisen. Known for his Cursed Spirit  - Gleame
-  Updated: 2026-05-31T14:40:29Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64209002.jpg?v=1780216815
-  - [Grey / S](https://gleame.co.in/products/geto-oversized-t-shirt-jujutsu-kaisen?variant=47068233662618)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64209002.jpg?v=1780216815
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/geto-oversized-t-shirt-jujutsu-kaisen?variant=47068233695386)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64209002.jpg?v=1780216815
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/geto-oversized-t-shirt-jujutsu-kaisen?variant=47068233728154)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64209002.jpg?v=1780216815
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/geto-oversized-t-shirt-jujutsu-kaisen?variant=47068233760922)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64209002.jpg?v=1780216815
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/geto-oversized-t-shirt-jujutsu-kaisen?variant=47068233793690)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/64209002.jpg?v=1780216815
-    Price: ₹1,299.00 INR
-- [Acid Wash Baki Oversized T-Shirt | Baki - Gleame](https://gleame.co.in/products/baki-oversized-t-shirt-baki): Product Details Premium oversized T-shirt inspired by Baki Hanma — the ultimate underground fighter, known for his inhuman endurance, ruthless  - Gleame
-  Updated: 2026-05-31T08:41:02Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/94192751.jpg?v=1780216836
-  - [S](https://gleame.co.in/products/baki-oversized-t-shirt-baki?variant=47071647989914)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/baki-oversized-t-shirt-baki?variant=47071648022682)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/baki-oversized-t-shirt-baki?variant=47071648055450)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/baki-oversized-t-shirt-baki?variant=47071648088218)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/baki-oversized-t-shirt-baki?variant=47071648120986)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Yujiro Oversized T-Shirt | Baki - Gleame](https://gleame.co.in/products/yujiro-oversized-t-shirt-baki): Product Details Premium oversized T-shirt inspired by Yujiro Hanma — the Strongest Creature on Earth, known for his overwhelming physical dominance,  - Gleame
-  Updated: 2026-05-31T08:41:20Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/44086002.jpg?v=1780216879
-  - [Grey / S](https://gleame.co.in/products/yujiro-oversized-t-shirt-baki?variant=47071657754778)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/44086002.jpg?v=1780216879
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/yujiro-oversized-t-shirt-baki?variant=47071657787546)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/44086002.jpg?v=1780216879
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/yujiro-oversized-t-shirt-baki?variant=47071657820314)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/44086002.jpg?v=1780216879
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/yujiro-oversized-t-shirt-baki?variant=47071657853082)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/44086002.jpg?v=1780216879
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/yujiro-oversized-t-shirt-baki?variant=47071657885850)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/44086002.jpg?v=1780216879
-    Price: ₹1,299.00 INR
-- [Acid Wash Jack Oversized T-Shirt | Baki - Gleame](https://gleame.co.in/products/jack-oversized-t-shirt-baki): Product Details Premium oversized T-shirt inspired by Jack Hanma — the most relentless fighter of the Baki universe, known for his brutal training,  - Gleame
-  Updated: 2026-05-31T08:41:41Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/14151568_1.jpg?v=1780216900
-  - [S](https://gleame.co.in/products/jack-oversized-t-shirt-baki?variant=47071663423642)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/jack-oversized-t-shirt-baki?variant=47071663456410)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/jack-oversized-t-shirt-baki?variant=47071663489178)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/jack-oversized-t-shirt-baki?variant=47071663521946)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/jack-oversized-t-shirt-baki?variant=47071663554714)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Guts Oversized T-Shirt | Berserk - Gleame](https://gleame.co.in/products/guts-oversized-t-shirt-berserk): Product Details Premium oversized T-shirt inspired by Guts — the Black Swordsman, known for his unbreakable will, brutal strength, and endless war  - Gleame
-  Updated: 2026-05-31T08:42:45Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/58521182.jpg?v=1780216924
-  - [Grey / S](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716245658)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/58521182.jpg?v=1780216924
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716278426)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/58521182.jpg?v=1780216924
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716311194)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/58521182.jpg?v=1780216924
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716343962)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/58521182.jpg?v=1780216924
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716376730)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/58521182.jpg?v=1780216924
-    Price: ₹1,299.00 INR
-  - [Beige / S](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716409498)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/20964400.jpg?v=1780216964
-    Price: ₹1,299.00 INR
-  - [Beige / M](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716442266)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/20964400.jpg?v=1780216964
-    Price: ₹1,299.00 INR
-  - [Beige / L](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716475034)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/20964400.jpg?v=1780216964
-    Price: ₹1,299.00 INR
-  - [Beige / XL](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716507802)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/20964400.jpg?v=1780216964
-    Price: ₹1,299.00 INR
-  - [Beige / 2XL](https://gleame.co.in/products/guts-oversized-t-shirt-berserk?variant=47071716540570)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/20964400.jpg?v=1780216964
-    Price: ₹1,299.00 INR
-- [Acid Wash Megumi Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/megumi-oversized-t-shirt-jujutsu-kaisen): Product Details Premium oversized T-shirt inspired by Megumi Fushiguro — the strategic Jujutsu Sorcerer from Jujutsu Kaisen. Known for his Ten Shadows  - Gleame
-  Updated: 2026-05-31T14:40:29Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/42698041.jpg?v=1780216986
-  - [Grey / S](https://gleame.co.in/products/megumi-oversized-t-shirt-jujutsu-kaisen?variant=47071733252250)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/42698041.jpg?v=1780216986
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/megumi-oversized-t-shirt-jujutsu-kaisen?variant=47071733285018)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/42698041.jpg?v=1780216986
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/megumi-oversized-t-shirt-jujutsu-kaisen?variant=47071733317786)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/42698041.jpg?v=1780216986
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/megumi-oversized-t-shirt-jujutsu-kaisen?variant=47071733350554)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/42698041.jpg?v=1780216986
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/megumi-oversized-t-shirt-jujutsu-kaisen?variant=47071733383322)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/42698041.jpg?v=1780216986
-    Price: ₹1,299.00 INR
-- [Acid Wash Itadori Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen): Product Details Premium oversized T-shirt inspired by Yuji Itadori — the vessel of Sukuna, known for his superhuman strength, unbreakable resolve, and  - Gleame
-  Updated: 2026-05-31T14:40:29Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/87943963.jpg?v=1780217008
-  - [S](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen?variant=47071821103258)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen?variant=47071821136026)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen?variant=47071821168794)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen?variant=47071821201562)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen?variant=47071821234330)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Itadori V2 Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen-copy): Product Details Premium oversized T-shirt inspired by Yuji Itadori — the fearless Jujutsu Sorcerer from Jujutsu Kaisen. Known for his immense physical  - Gleame
-  Updated: 2026-05-31T08:43:50Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/83627326.jpg?v=1780217029
-  - [S](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen-copy?variant=47071821693082)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen-copy?variant=47071821725850)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen-copy?variant=47071821758618)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen-copy?variant=47071821791386)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/itadori-oversized-t-shirt-jujutsu-kaisen-copy?variant=47071821824154)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Maki Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/maki-oversized-t-shirt-jujutsu-kaisen): Product Details Premium oversized T-shirt inspired by Maki Zenin — the fearless and powerful Jujutsu Sorcerer from Jujutsu Kaisen. Known for her  - Gleame
-  Updated: 2026-05-31T14:40:29Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/90079437.jpg?v=1780217051
-  - [S](https://gleame.co.in/products/maki-oversized-t-shirt-jujutsu-kaisen?variant=47071835652250)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/maki-oversized-t-shirt-jujutsu-kaisen?variant=47071835685018)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/maki-oversized-t-shirt-jujutsu-kaisen?variant=47071835717786)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/maki-oversized-t-shirt-jujutsu-kaisen?variant=47071835750554)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/maki-oversized-t-shirt-jujutsu-kaisen?variant=47071835783322)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Nanami Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/https-anbuwear-com-wp-content-uploads-2025-07-46356037-jpg): Product Details Premium oversized T-shirt inspired by Kento Nanami — the disciplined and elite Jujutsu Sorcerer from Jujutsu Kaisen. Known for his  - Gleame
-  Updated: 2026-05-31T08:44:33Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46356037.jpg?v=1780217071
-  - [Grey / S](https://gleame.co.in/products/https-anbuwear-com-wp-content-uploads-2025-07-46356037-jpg?variant=47071838634138)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46356037.jpg?v=1780217071
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/https-anbuwear-com-wp-content-uploads-2025-07-46356037-jpg?variant=47071838666906)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46356037.jpg?v=1780217071
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/https-anbuwear-com-wp-content-uploads-2025-07-46356037-jpg?variant=47071838699674)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46356037.jpg?v=1780217071
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/https-anbuwear-com-wp-content-uploads-2025-07-46356037-jpg?variant=47071838732442)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46356037.jpg?v=1780217071
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/https-anbuwear-com-wp-content-uploads-2025-07-46356037-jpg?variant=47071838765210)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/46356037.jpg?v=1780217071
-    Price: ₹1,299.00 INR
-- [Acid Wash Nobara Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/nobara-oversized-t-shirt-jujutsu-kaisen): Product Details Premium oversized T-shirt inspired by Nobara Kugisaki — the bold and confident Jujutsu Sorcerer from Jujutsu Kaisen. Known for her  - Gleame
-  Updated: 2026-05-31T14:40:39Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/39747679.jpg?v=1780217094
-  - [S](https://gleame.co.in/products/nobara-oversized-t-shirt-jujutsu-kaisen?variant=47071849709722)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/nobara-oversized-t-shirt-jujutsu-kaisen?variant=47071849742490)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/nobara-oversized-t-shirt-jujutsu-kaisen?variant=47071849775258)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/nobara-oversized-t-shirt-jujutsu-kaisen?variant=47071849808026)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/nobara-oversized-t-shirt-jujutsu-kaisen?variant=47071849840794)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Sukuna Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/sukuna-oversized-t-shirt-jujutsu-kaisen): Product Details Premium oversized T-shirt inspired by Ryomen Sukuna — the King of Curses from Jujutsu Kaisen. Known for his overwhelming cursed  - Gleame
-  Updated: 2026-05-31T14:40:30Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/60060216.jpg?v=1780217116
-  - [Grey / S](https://gleame.co.in/products/sukuna-oversized-t-shirt-jujutsu-kaisen?variant=47071853052058)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/60060216.jpg?v=1780217116
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/sukuna-oversized-t-shirt-jujutsu-kaisen?variant=47071853084826)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/60060216.jpg?v=1780217116
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/sukuna-oversized-t-shirt-jujutsu-kaisen?variant=47071853117594)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/60060216.jpg?v=1780217116
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/sukuna-oversized-t-shirt-jujutsu-kaisen?variant=47071853150362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/60060216.jpg?v=1780217116
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/sukuna-oversized-t-shirt-jujutsu-kaisen?variant=47071853183130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/60060216.jpg?v=1780217116
-    Price: ₹1,299.00 INR
-- [Acid Wash Toji Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/toji-oversized-t-shirt-jujutsu-kaisen): Product Details Premium oversized T-shirt inspired by Toji Fushiguro — the legendary Sorcerer Killer from Jujutsu Kaisen. Known for his Heavenly  - Gleame
-  Updated: 2026-05-31T14:40:29Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/42205951.jpg?v=1780217158
-  - [S](https://gleame.co.in/products/toji-oversized-t-shirt-jujutsu-kaisen?variant=47071868715162)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/toji-oversized-t-shirt-jujutsu-kaisen?variant=47071868747930)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/toji-oversized-t-shirt-jujutsu-kaisen?variant=47071868780698)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/toji-oversized-t-shirt-jujutsu-kaisen?variant=47071868813466)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/toji-oversized-t-shirt-jujutsu-kaisen?variant=47071868846234)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Yuta Oversized T-Shirt | Jujutsu Kaisen - Gleame](https://gleame.co.in/products/yuta-oversized-t-shirt-jujutsu-kaisen): Product Details Premium oversized T-shirt inspired by Yuta Okkotsu — the powerful Jujutsu Sorcerer from Jujutsu Kaisen. Known for his immense cursed  - Gleame
-  Updated: 2026-05-31T14:40:32Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/77624982.jpg?v=1780217181
-  - [S](https://gleame.co.in/products/yuta-oversized-t-shirt-jujutsu-kaisen?variant=47071871303834)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/yuta-oversized-t-shirt-jujutsu-kaisen?variant=47071871336602)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/yuta-oversized-t-shirt-jujutsu-kaisen?variant=47071871369370)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/yuta-oversized-t-shirt-jujutsu-kaisen?variant=47071871402138)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/yuta-oversized-t-shirt-jujutsu-kaisen?variant=47071871434906)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Akaza Oversized T-Shirt | Demon Slayer - Gleame](https://gleame.co.in/products/akaza-oversized-t-shirt-demon-slayer): Product Details Premium acid wash oversized T-shirt inspired by Akaza — the Upper Rank Three demon from Demon Slayer: Kimetsu no Yaiba. Known for his  - Gleame
-  Updated: 2026-05-31T14:40:40Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62932602.jpg?v=1780217205
-  - [Grey / S](https://gleame.co.in/products/akaza-oversized-t-shirt-demon-slayer?variant=47071880478874)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62932602.jpg?v=1780217205
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/akaza-oversized-t-shirt-demon-slayer?variant=47071880511642)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62932602.jpg?v=1780217205
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/akaza-oversized-t-shirt-demon-slayer?variant=47071880544410)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62932602.jpg?v=1780217205
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/akaza-oversized-t-shirt-demon-slayer?variant=47071880577178)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62932602.jpg?v=1780217205
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/akaza-oversized-t-shirt-demon-slayer?variant=47071880609946)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/62932602.jpg?v=1780217205
-    Price: ₹1,299.00 INR
-- [Acid Wash Rengoku Oversized T-Shirt | Demon Slayer - Gleame](https://gleame.co.in/products/rengoku-oversized-t-shirt-demon-slayer): Product Details Premium oversized acid wash T-shirt inspired by Kyojuro Rengoku from Demon Slayer (Kimetsu no Yaiba) — the powerful Flame Hashira.  - Gleame
-  Updated: 2026-05-31T14:40:29Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/65280431.jpg?v=1780217251
-  - [Grey / S](https://gleame.co.in/products/rengoku-oversized-t-shirt-demon-slayer?variant=47398102466714)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/65280431.jpg?v=1780217251
-    Price: ₹1,299.00 INR
-  - [Grey / M](https://gleame.co.in/products/rengoku-oversized-t-shirt-demon-slayer?variant=47398102499482)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/65280431.jpg?v=1780217251
-    Price: ₹1,299.00 INR
-  - [Grey / L](https://gleame.co.in/products/rengoku-oversized-t-shirt-demon-slayer?variant=47398102532250)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/65280431.jpg?v=1780217251
-    Price: ₹1,299.00 INR
-  - [Grey / XL](https://gleame.co.in/products/rengoku-oversized-t-shirt-demon-slayer?variant=47398102565018)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/65280431.jpg?v=1780217251
-    Price: ₹1,299.00 INR
-  - [Grey / 2XL](https://gleame.co.in/products/rengoku-oversized-t-shirt-demon-slayer?variant=47398102597786)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/65280431.jpg?v=1780217251
-    Price: ₹1,299.00 INR
-- [Acid Wash Roronoa Zoro Oversized T-Shirt | One Piece - Gleame](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece): Product Details Premium oversized T-shirt inspired by Roronoa Zoro — the legendary swordsman of the Straw Hat Pirates from One Piece. Known for his  - Gleame
-  Updated: 2026-05-31T14:40:30Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/42b288762d6eef17a95c8643b6e10cce_jpg_1fafa906-dc36-425d-ba0e-7be304a5f340.webp?v=1780217659
-  - [S](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece?variant=47820631965850)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece?variant=47820631998618)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece?variant=47820632031386)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece?variant=47820632064154)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece?variant=47820632096922)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Roronoa Zoro Oversized T-Shirt | One Piece - Gleame](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece): Product Details Premium oversized T-shirt inspired by Roronoa Zoro — the legendary swordsman of the Straw Hat Pirates from One Piece, known for his  - Gleame
-  Updated: 2026-05-31T08:55:02Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/d52252686a5f44f600fed047bd51ff28_jpg.webp?v=1780217701
-  - [S](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece?variant=47820638978202)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece?variant=47820639010970)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece?variant=47820639043738)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece?variant=47820639076506)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece?variant=47820639109274)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Roronoa Zoro Oversized T-Shirt | One Piece V2 - Gleame](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2): Product Details Premium oversized T-shirt inspired by Roronoa Zoro — the legendary swordsman of the Straw Hat Pirates from One Piece, known for his  - Gleame
-  Updated: 2026-05-31T08:56:09Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/e647a1f531d5c8c0f6e258f9f97fff32_jpg.webp?v=1780217726
-  - [Black / S](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820646285466)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b7708d1d95097f1f667d5883f88fa747_jpg.webp?v=1778348392
-    Price: ₹1,299.00 INR
-  - [Black / M](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820646318234)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b7708d1d95097f1f667d5883f88fa747_jpg.webp?v=1778348392
-    Price: ₹1,299.00 INR
-  - [Black / L](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820646351002)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b7708d1d95097f1f667d5883f88fa747_jpg.webp?v=1778348392
-    Price: ₹1,299.00 INR
-  - [Black / XL](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820646383770)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b7708d1d95097f1f667d5883f88fa747_jpg.webp?v=1778348392
-    Price: ₹1,299.00 INR
-  - [Black / 2XL](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820646416538)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b7708d1d95097f1f667d5883f88fa747_jpg.webp?v=1778348392
-    Price: ₹1,299.00 INR
-  - [White / S](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820646973594)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b2a1d448950ca83a36fc2fde07c26a17_jpg.webp?v=1778348397
-    Price: ₹1,299.00 INR
-  - [White / M](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820647006362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b2a1d448950ca83a36fc2fde07c26a17_jpg.webp?v=1778348397
-    Price: ₹1,299.00 INR
-  - [White / L](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820647039130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b2a1d448950ca83a36fc2fde07c26a17_jpg.webp?v=1778348397
-    Price: ₹1,299.00 INR
-  - [White / XL](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820647071898)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b2a1d448950ca83a36fc2fde07c26a17_jpg.webp?v=1778348397
-    Price: ₹1,299.00 INR
-  - [White / 2XL](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820647104666)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/b2a1d448950ca83a36fc2fde07c26a17_jpg.webp?v=1778348397
-    Price: ₹1,299.00 INR
-- [Roronoa Zoro Oversized T-Shirt | One Piece v3 - Gleame](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v3): Product Details Premium oversized T-shirt inspired by Roronoa Zoro — the legendary swordsman of the Straw Hat Pirates from One Piece, known for his  - Gleame
-  Updated: 2026-05-31T08:57:14Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/fa4f888d74c2a3215711240d8ce60708.jpg?v=1780217812
-  - [S](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v3?variant=47820651167898)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v3?variant=47820651200666)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v3?variant=47820651233434)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v3?variant=47820651266202)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/roronoa-zoro-oversized-t-shirt-one-piece-v3?variant=47820651298970)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Roronoa Zoro Oversized T-Shirt | One Piece V2 - Gleame](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece-v2): Product Details Premium oversized T-shirt inspired by Roronoa Zoro — the legendary swordsman of the Straw Hat Pirates from One Piece. Known for his  - Gleame
-  Updated: 2026-06-13T16:23:36Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/8f074979c2cecbb24dc7d08d89697ce3_jpg.webp?v=1780217857
-  - [S](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820661850266)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820661883034)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820661915802)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820661948570)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-roronoa-zoro-oversized-t-shirt-one-piece-v2?variant=47820661981338)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Doflamingo Oversized T-Shirt | One Piece - Gleame](https://gleame.co.in/products/acid-wash-doflamingo-oversized-t-shirt-one-piece): Product Details Premium oversized T-shirt inspired by Donquixote Doflamingo — the ruthless Warlord of the Sea from One Piece. Known for his  - Gleame
-  Updated: 2026-05-31T14:40:43Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/83804344_jpg.webp?v=1780217903
-  - [S](https://gleame.co.in/products/acid-wash-doflamingo-oversized-t-shirt-one-piece?variant=47820681052314)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-doflamingo-oversized-t-shirt-one-piece?variant=47820681085082)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-doflamingo-oversized-t-shirt-one-piece?variant=47820681117850)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-doflamingo-oversized-t-shirt-one-piece?variant=47820681150618)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-doflamingo-oversized-t-shirt-one-piece?variant=47820681183386)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Luffy Gear 5 Oversized T-Shirt | One Piece - Gleame](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1): Product Details Premium oversized T-shirt inspired by Monkey D. Luffy — the future King of the Pirates from One Piece, known for his fearless spirit,  - Gleame
-  Updated: 2026-05-31T08:59:30Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/39001307.jpg?v=1780217947
-  - [Black / S](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715557018)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/39001307.jpg?v=1780217947
-    Price: ₹999.00 INR
-  - [Black / M](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715589786)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/39001307.jpg?v=1780217947
-    Price: ₹999.00 INR
-  - [Black / L](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715622554)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/39001307.jpg?v=1780217947
-    Price: ₹999.00 INR
-  - [Black / XL](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715655322)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/39001307.jpg?v=1780217947
-    Price: ₹999.00 INR
-  - [Black / 2XL](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715688090)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/39001307.jpg?v=1780217947
-    Price: ₹999.00 INR
-  - [White / S](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715720858)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49987093.jpg?v=1780217969
-    Price: ₹999.00 INR
-  - [White / M](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715753626)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49987093.jpg?v=1780217969
-    Price: ₹999.00 INR
-  - [White / L](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715786394)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49987093.jpg?v=1780217969
-    Price: ₹999.00 INR
-  - [White / XL](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715819162)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49987093.jpg?v=1780217969
-    Price: ₹999.00 INR
-  - [White / 2XL](https://gleame.co.in/products/luffy-gear-5-oversized-t-shirt-one-piece-1?variant=47820715851930)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/49987093.jpg?v=1780217969
-    Price: ₹999.00 INR
-- [Acid Wash Pain Oversized T-Shirt | Naruto - Gleame](https://gleame.co.in/products/acid-wash-pain-oversized-t-shirt-naruto): Product Details Premium oversized T-shirt inspired by Pain (Nagato) — the god-like leader of the Akatsuki from Naruto. Known for his Rinnegan, Six  - Gleame
-  Updated: 2026-05-31T08:59:52Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/21704085.jpg?v=1780217991
-  - [S](https://gleame.co.in/products/acid-wash-pain-oversized-t-shirt-naruto?variant=47820807307418)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-pain-oversized-t-shirt-naruto?variant=47820807340186)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-pain-oversized-t-shirt-naruto?variant=47820807372954)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-pain-oversized-t-shirt-naruto?variant=47820807405722)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-pain-oversized-t-shirt-naruto?variant=47820807438490)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Itachi Uchiha Oversized T-Shirt | Naruto - Gleame](https://gleame.co.in/products/acid-wash-itachi-uchiha-oversized-t-shirt-naruto): Product Details Premium oversized T-shirt inspired by Itachi Uchiha — the legendary Uchiha prodigy from Naruto. Known for his Sharingan, Mangekyo  - Gleame
-  Updated: 2026-05-31T09:00:44Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/87063828_jpg.webp?v=1780218021
-  - [S](https://gleame.co.in/products/acid-wash-itachi-uchiha-oversized-t-shirt-naruto?variant=47820897910938)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-itachi-uchiha-oversized-t-shirt-naruto?variant=47820897943706)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-itachi-uchiha-oversized-t-shirt-naruto?variant=47820897976474)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-itachi-uchiha-oversized-t-shirt-naruto?variant=47820898009242)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-itachi-uchiha-oversized-t-shirt-naruto?variant=47820898042010)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Sasuke Uchiha Oversized T-Shirt | Naruto - Gleame](https://gleame.co.in/products/acid-wash-sasuke-uchiha-oversized-t-shirt-naruto): Product Details Premium oversized T-shirt inspired by Sasuke Uchiha — the powerful Uchiha clan prodigy from Naruto. Known for his Sharingan, Rinnegan,  - Gleame
-  Updated: 2026-05-31T09:01:29Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/78854308.jpg?v=1780218066
-  - [S](https://gleame.co.in/products/acid-wash-sasuke-uchiha-oversized-t-shirt-naruto?variant=47820919111834)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-sasuke-uchiha-oversized-t-shirt-naruto?variant=47820919144602)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-sasuke-uchiha-oversized-t-shirt-naruto?variant=47820919177370)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-sasuke-uchiha-oversized-t-shirt-naruto?variant=47820919210138)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-sasuke-uchiha-oversized-t-shirt-naruto?variant=47820919242906)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Rikudo Sennin (Sage of Six Paths) Oversized TShirt | Naruto](https://gleame.co.in/products/acid-wash-rikudo-sennin-sage-of-six-paths-oversized-t-shirt-naruto): Product Details Premium oversized T-shirt inspired by Rikudo Sennin (Hagoromo Otsutsuki) — the legendary Sage of Six Paths from Naruto. Known for his  - Gleame
-  Updated: 2026-05-31T09:01:52Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/86505471_jpg.webp?v=1780218111
-  - [S](https://gleame.co.in/products/acid-wash-rikudo-sennin-sage-of-six-paths-oversized-t-shirt-naruto?variant=47821012271258)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-rikudo-sennin-sage-of-six-paths-oversized-t-shirt-naruto?variant=47821012304026)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-rikudo-sennin-sage-of-six-paths-oversized-t-shirt-naruto?variant=47821012336794)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-rikudo-sennin-sage-of-six-paths-oversized-t-shirt-naruto?variant=47821012369562)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-rikudo-sennin-sage-of-six-paths-oversized-t-shirt-naruto?variant=47821012402330)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Griffith Oversized T-Shirt | Berserk - Gleame](https://gleame.co.in/products/acid-wash-griffith-oversized-t-shirt-berserk): Product Details Premium acid wash oversized T-shirt inspired by Griffith — the White Hawk and leader of the Band of the Hawk from Berserk, known for his ambition, charisma, and god-like transformation into Femto. Designed for anime streetwear lovers who resonate with ambition, dominance, and elite mindset, this acid wash oversized tee delivers a dark, royal, and powerful aesthetic. Character Highlights: Leader of the Band of the Hawk Dream-driven ambition to rule his own kingdom Transformation into Femto — god-like power Charismatic yet ruthless personality Features: Material: 100% premium cotton Wash: Acid wash finish for vintage streetwear look Fabric Weight: Heavyweight, breathable, and durable Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: High-definition soft-touch anime graphic print Style: Unisex anime streetwear Why You’ll Love It: Dark royal aesthetic inspired by Griffith Acid wash vintage finish for premium streetwear vibe Unique and bold anime design Rep ambition and dominance in your style Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Premium acid wash oversized quality Dark anime streetwear aesthetic Perfect gift for Berserk fans Keywords: Griffith t-shirt Berserk, acid wash oversized tee, anime streetwear India, Berserk anime clothing, acid wash t-shirt men women, dark anime clothing India
-  Updated: 2026-05-31T09:02:36Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/78091186_jpg.webp?v=1780218133
-  - [S](https://gleame.co.in/products/acid-wash-griffith-oversized-t-shirt-berserk?variant=47821214056602)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-griffith-oversized-t-shirt-berserk?variant=47821214089370)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-griffith-oversized-t-shirt-berserk?variant=47821214122138)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-griffith-oversized-t-shirt-berserk?variant=47821214154906)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-griffith-oversized-t-shirt-berserk?variant=47821214187674)
-    Availability: Available
-    Price: ₹1,299.00 INR
 - [Guts Oversized T-Shirt | Berserk - Gleame](https://gleame.co.in/products/guts-oversized-t-shirt-berserk-1): Product Details Premium oversized T-shirt inspired by Guts — the Black Swordsman from Berserk, known for his brutal strength, relentless will, and  - Gleame
   Updated: 2026-05-31T09:02:58Z
   Vendor: Gleame
@@ -1749,71 +290,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/61714366_jpg.webp?v=1780218443
     Price: ₹1,199.00 INR
-- [Acid Wash Katsuki Bakugo Oversized T-Shirt | My Hero Academia - Gleame](https://gleame.co.in/products/acid-wash-katsuki-bakugo-oversized-t-shirt-my-hero-academia): Product Details Premium 240 GSM acid wash oversized T-shirt inspired by Katsuki Bakugo — the explosive hero from My Hero Academia. Known for his fierce attitude, explosive power, and relentless ambition, this T-shirt is made for those who aim to dominate and never settle for less. 💥 Why This T-Shirt Stands Out: Heavyweight 240 GSM fabric – premium, thick & durable Acid wash finish – unique vintage streetwear look Oversized fit – trending anime streetwear style High-definition Bakugo print – bold & long-lasting 🔥 Character Energy: Explosion Quirk master Aggressive, confident & unstoppable mindset Top-tier combat skills & strategy Driven to become the No.1 Hero 📌 Product Features: Material: 100% premium cotton Fabric: 240 GSM heavyweight quality Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: Soft-touch, high-quality anime print Style: Unisex streetwear 🧼 Care Instructions: Machine wash cold (30°C) Wash inside-out Do not bleach Do not tumble dry Iron inside-out on low heat 🚀 Perfect For: My Hero Academia fans & anime lovers Streetwear outfits & college wear Gym, casual styling & daily wear ⚡ Limited Stock – High Demand Product Don’t miss out – grab yours before it sells out. Keywords: Katsuki Bakugo T-shirt, My Hero Academia oversized T-shirt, anime acid wash T-shirt India, 240 GSM anime T-shirt, Bakugo merch India, anime streetwear India, oversized anime T-shirt - Gleame
-  Updated: 2026-05-26T11:09:25Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/2026-05-02_11.12.23.jpg?v=1779793764
-  - [S](https://gleame.co.in/products/acid-wash-katsuki-bakugo-oversized-t-shirt-my-hero-academia?variant=47952318005402)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-katsuki-bakugo-oversized-t-shirt-my-hero-academia?variant=47952318038170)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-katsuki-bakugo-oversized-t-shirt-my-hero-academia?variant=47952318070938)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-katsuki-bakugo-oversized-t-shirt-my-hero-academia?variant=47952318103706)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-katsuki-bakugo-oversized-t-shirt-my-hero-academia?variant=47952318136474)
-    Availability: Available
-    Price: ₹1,299.00 INR
-- [Acid Wash Izuku Midoriya Oversized T-Shirt | My Hero Academia - Gleame](https://gleame.co.in/products/acid-wash-izuku-midoriya-oversized-t-shirt-my-hero-academia): Product Details Premium 240 GSM acid wash oversized T-shirt inspired by Izuku Midoriya (Deku) — the rising hero from My Hero Academia. Known for his One For All power, determination, and never-give-up mindset, this T-shirt is made for those who keep pushing forward no matter what. 🟢 Why This T-Shirt Stands Out: Heavyweight 240 GSM fabric – premium, thick & durable Acid wash finish – unique vintage streetwear look Oversized fit – trending anime streetwear style High-definition Deku print – bold & long-lasting 🔥 Character Energy: Wielder of One For All Never gives up, no matter the odds Highly intelligent & strategic fighter Dreams of becoming the No.1 Hero 📌 Product Features: Material: 100% premium cotton Fabric: 240 GSM heavyweight quality Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: Soft-touch, high-quality anime print Style: Unisex streetwear 🧼 Care Instructions: Machine wash cold (30°C) Wash inside-out Do not bleach Do not tumble dry Iron inside-out on low heat 🚀 Perfect For: My Hero Academia fans & anime lovers College outfits & streetwear styling Casual wear, gym & daily outfits ⚡ Limited Stock – High Demand Product Grab yours now before it sells out. SEO Keywords: Deku T-shirt, Izuku Midoriya oversized T-shirt, My Hero Academia anime T-shirt India, 240 GSM anime T-shirt, acid wash anime T-shirt, anime streetwear India, Deku merch India - Gleame
-  Updated: 2026-05-26T11:09:26Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/2026-05-02_11.17.20.jpg?v=1779793766
-  - [S](https://gleame.co.in/products/acid-wash-izuku-midoriya-oversized-t-shirt-my-hero-academia?variant=47952321151130)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [M](https://gleame.co.in/products/acid-wash-izuku-midoriya-oversized-t-shirt-my-hero-academia?variant=47952321183898)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [L](https://gleame.co.in/products/acid-wash-izuku-midoriya-oversized-t-shirt-my-hero-academia?variant=47952321216666)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [XL](https://gleame.co.in/products/acid-wash-izuku-midoriya-oversized-t-shirt-my-hero-academia?variant=47952321249434)
-    Availability: Available
-    Price: ₹1,299.00 INR
-  - [2XL](https://gleame.co.in/products/acid-wash-izuku-midoriya-oversized-t-shirt-my-hero-academia?variant=47952321282202)
-    Availability: Available
-    Price: ₹1,299.00 INR
 - [Monkey D. Luffy Edition Oversized Jersey - Gleame](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey): Product Details Premium anime jersey inspired by Monkey D. Luffy — the fearless Captain of the Straw Hat Pirates from One Piece. Known for his Gum-Gum powers, unstoppable determination, and dream to become the Pirate King, this jersey is perfect for anime streetwear lovers and One Piece fans who carry a never-give-up attitude. Character Highlights: Captain of the Straw Hat Pirates User of the Gomu Gomu no Mi (Rubber Devil Fruit) Future King of the Pirates Fearless, energetic, and loyal leader Features: Fit: Relaxed jersey fit Print: High-definition anime graphic print Style: Unisex anime streetwear jersey Design: Breathable and lightweight sports-style design Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Iconic Straw Hat pirate-inspired design Perfect for anime fans and streetwear outfits Great choice for everyday wear and anime events - Gleame
-  Updated: 2026-06-15T18:25:35Z
+  Updated: 2026-06-25T06:09:00Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/3-1_1080x_78b15b0c-6864-457a-a0af-9a464fb78249.jpg?v=1779793767
   - [S](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400329370)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400362138)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400394906)
     Availability: Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400427674)
-    Availability: Not Available
-    Price: ₹999.00 INR
-  - [2XL](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400460442)
     Availability: Available
     Price: ₹999.00 INR
+  - [2XL](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400460442)
+    Availability: Not Available
+    Price: ₹999.00 INR
 - [Demon Slayer Legacy – Zenitsu Oversized Jersey - Gleame](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey): Product Details Premium oversized anime jersey inspired by Zenitsu Agatsuma — the lightning-fast Demon Slayer from Demon Slayer: Kimetsu no Yaiba. Known for his Thunder Breathing techniques, hidden strength, and incredible speed when unconscious, this jersey is perfect for anime streetwear lovers and Demon Slayer fans who connect with courage beneath fear. Character Highlights: Demon Slayer Corps member User of Thunder Breathing (First Form specialist) Unmatched speed and lightning-fast reflexes Timid yet powerful warrior with hidden potential Features: Fit: Oversized relaxed fit Print: High-definition soft-touch anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Lightning-inspired anime streetwear aesthetic Bold and energetic design for standout style Perfect for Demon Slayer anime fans - Gleame
-  Updated: 2026-06-15T15:42:27Z
+  Updated: 2026-06-26T10:17:10Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -1822,19 +321,19 @@
     Availability: Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476809882)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476842650)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476875418)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [2XL](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476908186)
     Availability: Available
     Price: ₹999.00 INR
 - [Demon Aura Jersey Oversized Jersey - Gleame](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey): Product Details Premium oversized mesh anime jersey inspired by Zenitsu Agatsuma in his electrifying Demon Aura form from Demon Slayer: Kimetsu no Yaiba. Surrounded by a thunder-charged aura and lightning-fast energy, this design captures his ultimate speed, focus, and unleashed power. Perfect for anime streetwear lovers and Demon Slayer fans who want a bold and high-energy look. Character Highlights: Thunder Breathing master with intense aura presence Iconic lightning-charged combat state Extreme speed and precision strikes Fear transformed into pure power Features: Fabric: Breathable mesh for all-day comfort Fit: Oversized relaxed fit Print: High-definition soft-touch anime print with aura effects Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Electric aura-inspired anime streetwear aesthetic High-energy lightning design for standout looks Perfect for Demon Slayer anime fans - Gleame
-  Updated: 2026-06-15T18:25:38Z
+  Updated: 2026-06-26T11:25:37Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -1843,10 +342,10 @@
     Availability: Not Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522095258)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522128026)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522160794)
     Availability: Available
@@ -1855,19 +354,19 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Monkey D. Luffy – One Piece Black Edition Oversized Jersey - Gleame](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey): Product Details Premium oversized mesh anime jersey inspired by Monkey D. Luffy — the fearless Captain of the Straw Hat Pirates from One Piece. Driven by his dream to become the King of the Pirates, Luffy is known for his Gum-Gum powers, unstoppable determination, and fearless spirit. This jersey is perfect for anime streetwear lovers and One Piece fans who represent freedom and adventure. Character Highlights: Captain of the Straw Hat Pirates User of the Gomu Gomu no Mi (Gum-Gum Fruit) Future King of the Pirates Fearless, energetic, and battle-driven leader Features: Fabric: Breathable mesh for all-day comfort Fit: Oversized relaxed fit Print: High-definition soft-touch anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Adventure-inspired anime streetwear aesthetic Bold pirate-themed design for standout style Perfect for One Piece anime fans - Gleame
-  Updated: 2026-06-15T20:18:20Z
+  Updated: 2026-06-26T17:10:59Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/id-11134207-7ra0t-md1dgtagowev03.jpg?v=1779793774
   - [S](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728533658)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728566426)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728599194)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728631962)
     Availability: Available
@@ -1876,25 +375,25 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Monkey D. Luffy – White Edition Jersey - Gleame](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey): Product Details Premium oversized white mesh anime jersey inspired by Monkey D. Luffy — the fearless Captain of the Straw Hat Pirates from One Piece. This White Edition highlights a clean, powerful aesthetic while representing Luffy’s limitless determination, Gum-Gum powers, and dream to become the King of the Pirates. Perfect for anime streetwear lovers and One Piece fans who want a bold yet minimal look. Character Highlights: Captain of the Straw Hat Pirates User of the Gomu Gomu no Mi (Gum-Gum Fruit) Future King of the Pirates Fearless and unstoppable leader Features: Fabric: Breathable mesh for all-day comfort Fit: Oversized relaxed fit Print: High-definition soft-touch anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Clean white anime streetwear aesthetic Minimal yet bold pirate-inspired design Perfect for One Piece anime fans - Gleame
-  Updated: 2026-06-15T18:20:48Z
+  Updated: 2026-06-25T11:47:18Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/id-11134207-7ra0i-md1d5ok9gldocc.jpg?v=1779793776
   - [S](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727452314)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727485082)
     Availability: Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727517850)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727550618)
     Availability: Available
     Price: ₹999.00 INR
   - [2XL](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727583386)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
 - [Vintage Washed Denim CNY Oversized Unisex Jacket](https://gleame.co.in/products/vintage-washed-denim-cny-oversized-unisex-jacket): Elevate your street style with this Vintage Washed Denim CNY Jacket, a statement piece that blends modern streetwear aesthetics with traditional Chinese-inspired detailing. Designed with an oversized, relaxed fit, this unisex denim jacket delivers effortless comfort and standout urban appeal. Crafted from high-quality washed denim, the jacket features a soft, vintage-inspired light blue finish that adds a worn-in, retro vibe. The standout Chinese knot button detail at the collar gives this piece a unique cultural touch, making it perfect for Lunar New Year outfits, festival styling, or everyday streetwear looks. The ribbed cuffs and hem provide structure while maintaining comfort, and the roomy silhouette makes it ideal for layering over hoodies, tees, or sweaters. Functional front pockets add practicality without compromising the clean, minimal design. NOTE : It doesn't come with adidas tags and labels Features: Material: 92% polyester, 8% elastane Fit: Oversized relaxed fit Style: Unisex streetwear Jacket Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat
   Updated: 2026-06-04T11:11:27Z
@@ -1980,17 +479,38 @@
   - [2XL](https://gleame.co.in/products/spain-world-cup-2026-away-jersey-embroidery?variant=48131537043610)
     Availability: Not Available
     Price: ₹1,199.00 INR
+- [Monkey D. Luffy – Gear 5 Edition Oversied Jersey](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey): Product Details Premium anime jersey inspired by Monkey D. Luffy Gear 5 — the legendary awakened form of the future Pirate King from One Piece. Unleashing the true power of the Hito Hito no Mi, Model: Nika, Gear 5 represents ultimate freedom, limitless creativity, and unmatched strength. Perfect for anime streetwear lovers and One Piece fans who embody a fearless spirit. Character Highlights: Awakened Gear 5 Form of Monkey D. Luffy User of the Mythical Zoan Devil Fruit: Hito Hito no Mi, Model: Nika The Warrior of Liberation Limitless power, freedom, and imagination Features: Fit: Relaxed jersey fit Print: High-definition Gear 5 anime graphic print Style: Unisex anime streetwear jersey Design: Breathable and lightweight sports-style design Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Iconic Gear 5 Nika-inspired design Perfect for One Piece fans and anime streetwear outfits Great choice for conventions, anime events, and everyday wear
+  Updated: 2026-06-25T10:15:12Z
+  Vendor: Gleame
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/sg-11134201-7rdye-md1glrvdqse4f1_1.jpg?v=1781713440
+  - [S](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556044442)
+    Availability: Available
+    Price: ₹999.00 INR
+  - [M](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556077210)
+    Availability: Available
+    Price: ₹999.00 INR
+  - [L](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556109978)
+    Availability: Available
+    Price: ₹999.00 INR
+  - [XL](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556142746)
+    Availability: Available
+    Price: ₹999.00 INR
+  - [2XL](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556175514)
+    Availability: Available
+    Price: ₹999.00 INR
 
 ## Collections
 
 - [Hoodie - Gleame](https://gleame.co.in/collections/balaclava-hoodies): - Gleame
-  Updated: 2026-06-04T11:11:26Z
+  Updated: 2026-06-25T11:20:27Z
   Total Products: 7
 - [Jacket - Gleame](https://gleame.co.in/collections/jacket): - Gleame
   Updated: 2026-06-04T11:11:26Z
   Total Products: 2
 - [Best Seller - Gleame](https://gleame.co.in/collections/best-seller): - Gleame
-  Updated: 2026-06-15T11:19:36Z
+  Updated: 2026-06-26T15:42:17Z
   Total Products: 6
 - [Leather Jacket - Gleame](https://gleame.co.in/collections/leather-jacket): - Gleame
   Updated: 2026-06-04T11:11:26Z
@@ -1999,47 +519,47 @@
   Updated: 2026-06-04T11:11:26Z
   Total Products: 2
 - [Search collection - Gleame](https://gleame.co.in/collections/search-collection): - Gleame
-  Updated: 2026-06-04T11:11:27Z
+  Updated: 2026-06-25T11:20:27Z
   Total Products: 6
 - [Nihilist Penguine - Gleame](https://gleame.co.in/collections/nihilist-penguine): - Gleame
   Updated: 2026-06-04T11:11:27Z
   Total Products: 4
 - [Demon Slayer - Gleame](https://gleame.co.in/collections/demon-slayer): - Gleame
-  Updated: 2026-06-13T11:20:46Z
+  Updated: 2026-06-25T11:40:17Z
   Total Products: 19
 - [Hunter x Hunter Merchandise | Official Collectibles and Apparel](https://gleame.co.in/collections/hunter-x-hunter): Discover the best Hunter x Hunter merchandise! Explore our exclusive collection, featuring unique apparel, collectibles, and more for every true fan. Shop now and elevate your fandom!
-  Updated: 2026-06-04T11:11:27Z
+  Updated: 2026-06-24T10:20:15Z
   Total Products: 2
 - [One Piece Collection - Discover Unique Gear and Accessories Today](https://gleame.co.in/collections/one-piece): Explore our exclusive One Piece collection, featuring unique styles inspired by the beloved anime series. Shop now for distinctive pieces that bring adventure to your wardrobe!
-  Updated: 2026-06-14T11:21:26Z
+  Updated: 2026-06-25T11:38:47Z
   Total Products: 11
 - [Black Clover Merchandise - Shop Stylish Apparel and Collectibles Now](https://gleame.co.in/collections/black-clover): Explore our exclusive Black Clover merchandise collection! Find unique apparel, accessories, and collectibles that every fan will love. Shop now and unleash your inner magic!
-  Updated: 2026-06-04T11:11:27Z
+  Updated: 2026-06-25T11:40:30Z
   Total Products: 1
 - [Attack On Titan Merchandise | Authentic Gear & Collectibles Online](https://gleame.co.in/collections/aot): Explore our exclusive collection of Attack On Titan merchandise! Find unique apparel, collectibles, and accessories that bring your favorite anime to life. Shop now!
-  Updated: 2026-06-06T11:16:41Z
+  Updated: 2026-06-24T10:20:10Z
   Total Products: 2
 - [Anime Merchandise - Unleash Your Fandom with Unique Collectibles](https://gleame.co.in/collections/anime): Discover our Anime Merchandise Collection and unleash your fandom! Shop unique apparel, accessories, and collectibles that showcase your love for anime today!
-  Updated: 2026-06-14T11:21:26Z
+  Updated: 2026-06-25T11:40:30Z
   Total Products: 60
 - [Jujutsu Kaisen Merchandise | Shop Unique Collectibles and Gear](https://gleame.co.in/collections/jujutsu-kaisen): Shop the ultimate Jujutsu Kaisen Merchandise collection! Discover exclusive apparel, accessories, and collectibles that let you embrace the spirit of your favorite anime.
-  Updated: 2026-06-04T11:11:27Z
+  Updated: 2026-06-24T10:20:49Z
   Total Products: 11
 - [Naruto - Gleame](https://gleame.co.in/collections/naruto): - Gleame
-  Updated: 2026-06-04T11:11:27Z
+  Updated: 2026-06-24T10:21:00Z
   Total Products: 8
 - [Baki - Gleame](https://gleame.co.in/collections/baki): - Gleame
-  Updated: 2026-06-04T11:11:27Z
+  Updated: 2026-06-24T10:20:37Z
   Total Products: 3
 - [Berserk - Gleame](https://gleame.co.in/collections/berserk): - Gleame
-  Updated: 2026-06-04T11:11:27Z
+  Updated: 2026-06-24T10:21:01Z
   Total Products: 3
 - [Bleach - Gleame](https://gleame.co.in/collections/bleach): - Gleame
   Updated: 2026-06-04T11:11:27Z
   Total Products: 4
 - [Anime Jersey - Gleame](https://gleame.co.in/collections/anime-jersey): - Gleame
-  Updated: 2026-06-15T11:19:36Z
-  Total Products: 6
+  Updated: 2026-06-26T15:42:17Z
+  Total Products: 7
 - [CNY Jacket](https://gleame.co.in/collections/cny-jacket)
   Updated: 2026-06-04T11:17:53Z
   Total Products: 2
@@ -2183,6 +703,26 @@
     Updated: 2026-06-15T15:02:31Z
     Author: Gleame
     Tags: anime, anime jersey, boxy fit, fashion, latest anime fashion trends, luffy jersey, mastering streetwear tips, oversized, oversized jersey, streetwear
+  - [Master the Streetwear Aesthetic with the Zenitsu Yellow Edition Oversized Anime Jersey and Its Boxy Fit](https://gleame.co.in/blogs/streetwear/master-the-streetwear-aesthetic-with-the-zenitsu-yellow-edition-oversized-anime-jersey-and-its-boxy-fit): Master the Streetwear Aesthetic with the Zenitsu Yellow Edition Oversized Anime Jersey and Its Boxy Fit
+    Updated: 2026-06-16T15:01:59Z
+    Author: Gleame
+    Tags: aesthetic fashion, anime, anime jersey, boxy fit, oversized, streetwear, stylish anime apparel, trendy streetwear jerseys, zenitsu jersey
+  - [Unleashing Bold Streetwear Vibes with Zenitsu Yellow Edition Oversized Anime Jersey Boxy Fit](https://gleame.co.in/blogs/streetwear/unleashing-bold-streetwear-vibes-with-zenitsu-yellow-edition-oversized-anime-jersey-boxy-fit): Unleashing Bold Streetwear Vibes with Zenitsu Yellow Edition Oversized Anime Jersey Boxy Fit
+    Updated: 2026-06-17T15:02:51Z
+    Author: Gleame
+    Tags: anime, anime jersey, bold streetwear style, boxy fit, fashion, oversized, oversized jersey, streetwear, streetwear for anime fans, zenitsu outfit
+  - [Exploring the Boxy Fit Revolution in Anime Streetwear with Luffy Jerseys](https://gleame.co.in/blogs/streetwear/exploring-the-boxy-fit-revolution-in-anime-streetwear-with-luffy-jerseys): Exploring the Boxy Fit Revolution in Anime Streetwear with Luffy Jerseys
+    Updated: 2026-06-22T15:02:24Z
+    Author: Gleame
+    Tags: anime, anime jersey, anime merchandise, anime streetwear india, anime-inspired clothing, boxy fit, creative outfit ideas, fashion trends, jersey styles, luffy, luffy jersey, one piece jersey, oversized, oversized anime jersey, premium anime clothing, streetwear, zoro jersey
+  - [The Comprehensive Guide to Selecting Your Perfect Anime Jersey from India](https://gleame.co.in/blogs/streetwear/the-comprehensive-guide-to-selecting-your-perfect-anime-jersey-from-india): The Comprehensive Guide to Selecting Your Perfect Anime Jersey from India
+    Updated: 2026-06-23T15:02:24Z
+    Author: Gleame
+    Tags: anime, anime jersey, anime jerseys, anime merchandise, anime streetwear india, best anime jerseys, boxy fit, custom anime, fashion, india apparel, jersey, luffy jersey, one piece jersey, oversized, oversized anime jersey, premium anime clothing, selecting anime clothing, streetwear, zoro jersey
+  - [Unveiling the Allure of Oversized Anime Jerseys Featuring Zoro's Style](https://gleame.co.in/blogs/streetwear/unveiling-the-allure-of-oversized-anime-jerseys-featuring-zoros-style): Unveiling the Allure of Oversized Anime Jerseys Featuring Zoro's Style
+    Updated: 2026-06-24T15:02:48Z
+    Author: Gleame
+    Tags: anime, anime fashion, anime jersey, anime merchandise, anime streetwear india, boxy fit, jerseys, luffy jersey, one piece clothing, one piece jersey, oversized, oversized anime jersey, oversized anime styles, oversized jerseys, premium anime clothing, streetwear, zoro, zoro inspired apparel, zoro jersey
 
 ## Store Pages
 
@@ -2228,13 +768,13 @@
 - [Privacy Policy](https://gleame.co.in/policies/privacy-policy)
   Updated: 2026-05-08T12:11:31+05:30
 - [Shipping Policy](https://gleame.co.in/policies/shipping-policy)
-  Updated: 2025-12-21T22:09:51+05:30
+  Updated: 2026-06-22T20:44:13+05:30
 - [Refund Policy](https://gleame.co.in/policies/refund-policy)
-  Updated: 2026-02-14T20:01:28+05:30
+  Updated: 2026-06-22T20:45:53+05:30
 - [Terms of Service](https://gleame.co.in/policies/terms-of-service)
   Updated: 2026-05-25T15:37:07+05:30
 - [Contact Information](https://gleame.co.in/policies/contact-information)
-  Updated: 2026-06-04T16:40:48+05:30
+  Updated: 2026-06-22T20:48:58+05:30
 
 ## Optional
 
