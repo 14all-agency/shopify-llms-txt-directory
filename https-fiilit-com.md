@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2017-10-12T15:13:09Z
 - Contact Email: fiilit@parfumduvoyage.com
-- Updated At: 2026-06-11T00:00:36.364Z
+- Updated At: 2026-06-27T00:00:46.094Z
 
 ## Products
 
 - [SURYA - BALI Eau de Parfum](https://fiilit.com/products/eau-de-parfum-voyage-surya-bali): Sous un soleil ardent, les fleurs dégagent leur parfum tel un onguent enveloppant. Surya désigne le soleil à Bali. Gourmand, Envoûtant, Coloré, Floral, Solaire.
-  Updated: 2026-06-10T19:27:57Z
+  Updated: 2026-06-26T07:59:22Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/surya-bali-eau-de-parfum-7251186.jpg?v=1769187696
     Price: 189,00 € EUR
 - [TUMBAO - CUBA Eau de Parfum](https://fiilit.com/products/eau-de-parfum-tumbao-cuba): Tumbao désigne un rythme cubain et une manière charmante de danser. Cette création s’ouvre sur des notes  de citron vert, de gingembre bleu et de cardamome. Le tabac blond et le rhum brun nous transportent dans une bodeguita festive, tandis que le piri-piri ajoute une note aphrodisiaque à ce parfum généreux, puissant et vibrant, un des classiques de notre collection.
-  Updated: 2026-06-10T20:26:11Z
+  Updated: 2026-06-25T21:13:06Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/tumbao-cuba-eau-de-parfum-3781548.jpg?v=1769187691
     Price: 189,00 € EUR
 - [IRIDA - CYCLADES Eau de Parfum](https://fiilit.com/products/irida-cyclades-eau-de-parfum): Par ses reflets changeants à la vitesse d’un courant d’air, Cyclades nous entraine tour à tour dans une fraicheur lumineuse de petit-grain et de bergamote puis..
-  Updated: 2026-06-10T19:28:03Z
+  Updated: 2026-06-26T17:14:06Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -105,14 +105,14 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/irida-cyclades-eau-de-parfum-8024189.jpg?v=1769187693
     Price: 49,00 € EUR
 - [Set découverte de 14 échantillons](https://fiilit.com/products/set-echantillon): Parfum du Voyage vous offrent un voyage olfactif unique à partir des matières naturelles locales propres à chaque fragrance. Découvrez les 14 parfums du voyage éthiques, unisexes et nomades, avec le set découverte. Un bon de réduction de 20€ vous sera envoyé avec cette commande. Ce bon de réduction est valable lors de votre prochaine commande pour un montant minimum de 74€ et par personne. Ainsi, le set de 14 échantillons 1,5mL vous sera totalement remboursé lors de cet achat. Un essai découverte serein. Et vous, quel est votre voyage olfactif préféré ? Vous avez aussi la possibilité de composer votre propre set d'échantillons.
-  Updated: 2026-06-10T20:26:17Z
+  Updated: 2026-06-26T19:58:06Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2447/7731/files/Discover-set-samples-Set-echantillons-hero-image-principale-produit.jpg?v=1773331692
   Price: 20,00 € EUR
 - [Le Coffret Collector (Offre : 2ème à -50%)](https://fiilit.com/products/coffret-eau-de-parfum-edition-limitee): Une dernière chance de posséder l'histoire à prix privilégié. Ce coffret réunit le design originel scellé de notre flacon 50ml et son inséparable format voyage 11ml. OFFRE EXCLUSIVE : Pour l'achat d'un coffret, le second est à moitié prix. Soit les deux coffrets pour 81€ (au lieu de 108€). L'occasion rêvée de faire des réserves ou de gâter un proche.
-  Updated: 2026-06-10T19:28:06Z
+  Updated: 2026-06-24T14:10:21Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -134,7 +134,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/le-coffret-collector-offre-2eme-a-50-7494620.jpg?v=1769187676
     Price: 54,00 € EUR
 - [Pack de 10 échantillons](https://fiilit.com/products/pack-de-10-echantillon): Pack de 10 échantillons par fragrance
-  Updated: 2026-06-02T14:10:18Z
+  Updated: 2026-06-23T12:58:37Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -274,20 +274,20 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/products/testeur-eau-de-parfum-11ml-avec-ecrin-bois-de-voyage-7820508.jpg?v=1769187746
     Price: 29,00 € EUR
 - [100 Touches à parfum FiiLiT](https://fiilit.com/products/100-touches-a-parfum): 100 Touches à parfum personnalisées FiiLiT
-  Updated: 2026-04-20T16:35:45Z
+  Updated: 2026-06-23T12:01:26Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Display
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2447/7731/products/100-touches-a-parfum-3633911.jpg?v=1769187673
   Price: 8,00 € EUR
 - [SAUDADE - AMAZONIA Eau de Parfum](https://fiilit.com/products/eau-de-parfum-saudade-amazonia): Eau de parfum 100% naturelle, fraiche, pétillante, sensuelle, colorée, venue du poumon de la planète, l'Amazonie, apporte une nostalgie délicieuse, nommée Saudade.
-  Updated: 2026-06-10T19:28:08Z
+  Updated: 2026-06-20T03:18:36Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2447/7731/files/saudade-amazonia-eau-de-parfum-1013765.jpg?v=1769187693
   - [50mL](https://fiilit.com/products/eau-de-parfum-saudade-amazonia?variant=55522034975102)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/saudade-amazonia-eau-de-parfum-1013765.jpg?v=1769187693
     Price: 74,00 € EUR
   - [11mL avec écrin](https://fiilit.com/products/eau-de-parfum-saudade-amazonia?variant=45146545193124)
@@ -307,7 +307,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/saudade-amazonia-eau-de-parfum-5995789.jpg?v=1769187692
     Price: 89,00 € EUR
 - [KADO - JAPON Eau de Parfum](https://fiilit.com/products/kado-japon-eau-de-parfum): Kado, la voie des fleurs, l'art de les faire vivre, annonce la tradition florale japonaise. L' Eau de Parfum révèle les sens, aériens et denses du soleil levant.  95% naturelle.
-  Updated: 2026-06-10T19:28:12Z
+  Updated: 2026-06-25T21:13:05Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -341,7 +341,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/products/kado-japon-eau-de-parfum-3144167.jpg?v=1769187692
     Price: 49,00 € EUR
 - [MAZHAR - ATLAS Eau de Parfum](https://fiilit.com/products/mazhar-atlas-eau-de-parfum): Sous le climat méditerranéen, près de l'Oasis perdue Mazhar, les fleurs de néroli  font éclater les senteurs et les couleurs de l'Atlas. Eau de parfum 95 % naturelle douce, gourmande, exaltante et solaire.
-  Updated: 2026-06-10T19:28:15Z
+  Updated: 2026-06-25T15:40:59Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -375,7 +375,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/mazhar-atlas-eau-de-parfum-9102668.jpg?v=1769187696
     Price: 49,00 € EUR
 - [TEHANI - POLYNESIE Eau de Parfum](https://fiilit.com/products/tehani-polynesie-eau-de-parfum): Tehani signifie caresse de fleurs odorantes à Tahiti. Une eau de parfum qui retrouve à merveille la fleur de Tiaré, l'ylang ylang, la coco et la vanille du paradis polynésien.
-  Updated: 2026-06-10T19:28:18Z
+  Updated: 2026-06-24T15:24:22Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -409,7 +409,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/tehani-polynesie-eau-de-parfum-7297793.jpg?v=1769187691
     Price: 189,00 € EUR
 - [MUSHUSSU - BABYLONIA Eau de Parfum](https://fiilit.com/products/eau-de-parfum-mushussu-babylonia): Des jardins suspendus de Babylone protégés par le génie Mushussu, émane cette eau de parfum charnelle, orientale, subtile d'agrumes, d'encens, de santal et de oud.
-  Updated: 2026-06-10T19:28:21Z
+  Updated: 2026-06-25T15:40:57Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -443,13 +443,13 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/mushussu-babylonia-eau-de-parfum-3769123.jpg?v=1769187730
     Price: 49,00 € EUR
 - [WAKA - MADAGASCAR Eau de Parfum](https://fiilit.com/products/eau-de-parfum-waka-madagascar): Au carrefour de l’océan Indien, les cultures s’entremêlent . Une Eau de parfum 100 % naturelle aphrodisiaque, stimulante et bienfaitrice.
-  Updated: 2026-06-10T19:28:24Z
+  Updated: 2026-06-20T03:18:45Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2447/7731/files/waka-madagascar-eau-de-parfum-3535007.jpg?v=1769187692
   - [50mL](https://fiilit.com/products/eau-de-parfum-waka-madagascar?variant=55521065075070)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/waka-madagascar-eau-de-parfum-3535007.jpg?v=1769187692
     Price: 74,00 € EUR
   - [11mL avec écrin](https://fiilit.com/products/eau-de-parfum-waka-madagascar?variant=45146554532004)
@@ -483,7 +483,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/products/sac-en-lin-9304638.jpg?v=1776180336
     Price: 2,57 € EUR
 - [Eau de Parfum 11mL](https://fiilit.com/products/tester-11ml): Testeur
-  Updated: 2026-06-08T13:33:10Z
+  Updated: 2026-06-16T13:38:06Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -567,7 +567,7 @@
   Image: https://cdn.shopify.com/s/files/1/2447/7731/files/presentoir-5-eaux-de-parfum-best-sellers-11ml-avec-testeurs-2327251.jpg?v=1769187680
   Price: 380,00 € EUR
 - [Set échantillons Personnalisable](https://fiilit.com/products/set-echantillon-personnalisable): Créez votre expérience olfactives à travers des fabuleux parfums du voyage, écologiques, unisexes et nomades, avec ce set d’échantillons. Les Eaux de parfum FiiLiT vous offrent un voyage olfactif unique à partir des matières naturelles locales propres à chaque fragrance. Une idée originale à composez vous même pour vous ou offrir en cadeau afin de découvrir ou redécouvrir des parfums uniques et différents. Si vous n'êtes pas sûr.e de vos choix, opter pour le set de la collection complète ici.​ Pour composer votre set d'échantillon, cochez les parfums que vous souhaitez si dessous dans l'espace de configuration si dessous et cliquer sur valider pour ajouter au panier la composition de votre set. Vous pouvez modifier votre sélection et revalider autant de fois que vous le souhaitez.
-  Updated: 2026-06-06T12:41:48Z
+  Updated: 2026-06-24T15:24:32Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -637,7 +637,7 @@
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/set-echantillons-personnalisable-8015940.jpg?v=1769187749
     Price: 2,00 € EUR
 - [Eau de Parfum 50mL](https://fiilit.com/products/eau-de-parfum-50-ml-rechargeable): Testeurs refill 50 ml
-  Updated: 2026-05-26T09:48:57Z
+  Updated: 2026-06-23T12:01:26Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -709,7 +709,7 @@
 - [ICE - BOREAL Eau de Parfum](https://fiilit.com/products/ice-boreal-eau-de-parfum): L’eau des glaces respire de sensations de fraicheur. Le voyage de ICE nous transporte des pôles aux forêts boréales
 de la taïga du cercle polaire en passant par les plaines de la toundra. C’est une ode à la résonance merveilleuse des
 aurores boréales ondulant le long des latitudes tel un philtre d’amour insufflé par Frija déesse de l’amour scandinave.
-  Updated: 2026-06-10T19:28:27Z
+  Updated: 2026-06-25T21:13:05Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -739,7 +739,7 @@ aurores boréales ondulant le long des latitudes tel un philtre d’amour insuff
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/ice-boreal-eau-de-parfum-9440818.jpg?v=1769187686
     Price: 189,00 € EUR
 - [JOLI COEUR - LA REUNION Eau de Parfum](https://fiilit.com/products/joli-coeur-la-reunion-eau-de-parfum): Joli Cœur est une gourmandise irrésistible de douceur. Cet extrait de bonheur est aussi ce petit nom affectueux donné sur l’ile de La Réunion pour appeler les personnes aimées avec le plus beau des sourires. Joli cœur est aussi un bois très connu et indigène de la Réunion dont la feuille est merveilleusement parfumée. Cette explosion volcanique d’harmonieux parfums de vanille drapés de cacao et d’amande, enrobe les cœurs les plus endurcis.
-  Updated: 2026-06-10T19:28:29Z
+  Updated: 2026-06-25T21:13:06Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -769,7 +769,7 @@ aurores boréales ondulant le long des latitudes tel un philtre d’amour insuff
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/joli-coeur-la-reunion-eau-de-parfum-1339584.jpg?v=1776154746
     Price: 189,00 € EUR
 - [INDIA - PATCHILAÏ Eau de Parfum](https://fiilit.com/products/india-patchilai-eau-de-parfum): La sensualité enveloppante de l’essence de Patchouli est sculptée par la douceur miellée du benjoin. Cette fragrance profonde s’imagine éthérée par des notes de bergamote acidulée et de cardamone légèrement mentholée. Un soupçon de magie, un pétale d’ylang-ylang, revisite cet oriental boisé.
-  Updated: 2026-06-10T19:28:32Z
+  Updated: 2026-06-20T03:19:13Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -800,7 +800,7 @@ aurores boréales ondulant le long des latitudes tel un philtre d’amour insuff
     Price: 189,00 € EUR
 - [AMANTE - ANDALUCÍA Eau de Parfum](https://fiilit.com/products/amante-andalucia-eau-de-parfum): Au rythme du flamenco, les agrumes gorgés de soleil explosent de sensualités. Ce parfum pétillant danse entre les
 notes de fraicheur et chaleur. Au coeur, la mandora, amante de douceur et de vitalité, bat la chamade. Un instant délicieux emprunté à l’allure enflamméedes plus beaux amants.
-  Updated: 2026-06-10T19:28:35Z
+  Updated: 2026-06-25T15:40:59Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -830,7 +830,7 @@ notes de fraicheur et chaleur. Au coeur, la mandora, amante de douceur et de vit
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/amante-andalucia-eau-de-parfum-6068284.jpg?v=1769187691
     Price: 189,00 € EUR
 - [LE TEMPS DES SONGES - AUSTRALIA Eau de Parfum](https://fiilit.com/products/le-temps-des-songes-australia-eau-de-parfum): Dans Le Temps des Songes, la fraîcheur de l’eucalyptus et les notes fleuries du boronia provoquent une rencontre magnétique avec le bois de santal australien, nous ouvrant aux plus beaux rêves olfactifs.
-  Updated: 2026-06-10T19:28:38Z
+  Updated: 2026-06-26T07:59:28Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -860,7 +860,7 @@ notes de fraicheur et chaleur. Au coeur, la mandora, amante de douceur et de vit
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/le-temps-des-songes-australia-eau-de-parfum-3352413.jpg?v=1769187697
     Price: 189,00 € EUR
 - [LA PERLA MAYA - YUCATÁN Eau de Parfum](https://fiilit.com/products/la-perla-maya-yucatan-eau-de-parfum): Dans cette eau de parfum soliflore, la tubéreuse, perle des Mayas, fleur à la fragrance blanche et puissante, se mêle aux notes cotonneuses de mimosa et de vanille qui arrondissent ses effluves enchanteresses.
-  Updated: 2026-06-10T19:28:41Z
+  Updated: 2026-06-24T15:35:20Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -890,7 +890,7 @@ notes de fraicheur et chaleur. Au coeur, la mandora, amante de douceur et de vit
     Image: https://cdn.shopify.com/s/files/1/2447/7731/files/la-perla-maya-yucatan-eau-de-parfum-3945098.jpg?v=1769187690
     Price: 189,00 € EUR
 - [ROSE DÉSIR - DAMAS Eau de Parfum](https://fiilit.com/products/rose-desir-damas-eau-de-parfum): Les notes ambrées de la rose turque se marient à celles fruitées et joyeuses de la bulgare, illuminées par les effluves séductrices de l’égyptienne.
-  Updated: 2026-06-10T19:28:43Z
+  Updated: 2026-06-24T12:32:37Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -945,7 +945,7 @@ notes de fraicheur et chaleur. Au coeur, la mandora, amante de douceur et de vit
     Availability: Available
     Price: 200,00 € EUR
 - [Le Trio Collector (Édition Scellée - 2+1 Offert)](https://fiilit.com/products/trio-collector): Une occasion rare de posséder nos créations originelles. Pour l'achat de deux flacons 50ml Édition Limitée, nous vous offrons le 3ème flacon de votre choix. Note importante : Ces flacons "Collection" sont des modèles scellés (non rechargeables). Une dernière chance de les acquérir avant leur disparition. Ces flacons sont des capsules temporelles : conçus pour conserver le parfum intact, ils ne s'ouvrent pas, garantissant l'étanchéité parfaite des premières éditions.
-  Updated: 2026-06-10T19:28:44Z
+  Updated: 2026-06-20T03:18:58Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
@@ -960,77 +960,77 @@ Parfait pour ceux qui aiment la diversité et l'aventure olfactive, ce coffret v
 Véritable invitation à la découverte, cette "sacoche des sens" est une véritable expérience immersive à savourer à chaque vaporisation.&nbsp;
 
 "Ouvrons nos cœurs aux surprises de la vie. Simplicité et légèreté, voilà la clé du bonheur."
-  Updated: 2026-06-10T19:28:46Z
+  Updated: 2026-06-20T03:19:04Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2447/7731/files/Travel-Set-La-Sacoche-Des-Sens-3_3ea19ef5-a8e4-411a-b892-a704cc5c7195.jpg?v=1774022596
   Price: 68,00 € EUR
 - [Personnaliser votre Coffret Parfum du Voyage](https://fiilit.com/products/coffret-du-voyage-personnalisable): Devenez le créateur de votre propre voyage. Composez votre trio parfait en choisissant 3 parfums 11ml parmi toute notre collection. Du Japon (KADO) à Cuba (TUMBAO), dessinez votre propre carte olfactive. Ce coffret inclut notre élégant écrin de voyage en bois pour protéger et sublimer votre flacon favori. Osez l'ultime liberté de voyager.
-  Updated: 2026-06-10T19:28:47Z
+  Updated: 2026-06-20T03:19:08Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2447/7731/files/lecrin-du-voyageur-personnalisable-composez-votre-voyage-6878338.jpg?v=1769187621
   Price: 54,00 € EUR
 - [L'Escale Offerte (2 Flacons + 1 Voyage Offert)](https://fiilit.com/products/offre-speciale-2-parfums-50-ml-achetes-1-parfum-11ml-cadeau-offert): Voyez plus grand. Pour tout achat de deux flacons 50ml de votre choix, nous vous offrons la liberté d'explorer une troisième destination. Recevez en cadeau immédiat un format voyage 11ml (valeur 17€) à glisser dans votre poche. C'est le moment idéal pour constituer votre vestiaire olfactif ou pour gâter vos proches.
-  Updated: 2026-06-10T19:28:48Z
+  Updated: 2026-06-20T03:19:12Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2447/7731/files/lescale-offerte-2-flacons-1-voyage-offert-9786218.png?v=1769187615
   Price: 138,00 € EUR
 - [Coffret Parfum Duo Rechargeable à personnaliser](https://fiilit.com/products/coffret-duo): L'alliance parfaite entre sédentarité et nomadisme. Composez votre rituel complet en associant votre flacon signature 50ml pour le quotidien et votre format voyage 11ml avec son écrin en bois pour vos escapades. Profitez de 10€ de réduction sur ce duo inséparable, présenté dans son pochon en lin. Osez vivre votre parfum sans frontière.
-  Updated: 2026-06-10T19:28:49Z
+  Updated: 2026-06-20T03:19:09Z
   Vendor: FiiLiT Parfum du Voyage
   Product Type: Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2447/7731/files/le-duo-signature-personnalisable-3783574.jpg?v=1769187619
   Price: 88,00 € EUR
 - [Bundle : L'Écrin Du Voyageur (Personnalisable)](https://fiilit.com/products/la-sacoche-des-sens-votre-set-de-voyage-sur-mesure-copy): This product is auto-generated by the Easify Box Builder app, grouping box items into one product at cart and checkout. Do not delete to ensure bundling works. Keep Active: Set product status to Active in the Online Store. Visibility: Hidden from collections, store search, and search engines by default. Details: Name and image match the box. Tagged “Easify Box Builder” for admin filtering. No inventory tracking. Accidental Deletion: If deleted, you’ll be guided to recreate it when accessing the associated box. Need Help? Reach out via our in-app 24/7 live chat.
-  Updated: 2026-04-03T14:09:20Z
+  Updated: 2026-06-19T20:35:29Z
   Vendor: FiiLiT Parfum du voyage
   Product Type: 
   Availability: Available
   Price: 0,00 € EUR
 - [Bundle : Travel Set : La Sacoche Des Sens](https://fiilit.com/products/travel-set-la-sacoche-des-sens): This product is auto-generated by the Easify Box Builder app, grouping box items into one product at cart and checkout. Do not delete to ensure bundling works. Keep Active: Set product status to Active in the Online Store. Visibility: Hidden from collections, store search, and search engines by default. Details: Name and image match the box. Tagged “Easify Box Builder” for admin filtering. No inventory tracking. Accidental Deletion: If deleted, you’ll be guided to recreate it when accessing the associated box. Need Help? Reach out via our in-app 24/7 live chat.
-  Updated: 2026-04-03T14:09:21Z
+  Updated: 2026-06-19T20:35:29Z
   Vendor: FiiLiT Parfum du voyage
   Product Type: 
   Availability: Available
   Price: 0,00 € EUR
 - [Bundle : Le Duo Signature (Personnalisable)](https://fiilit.com/products/bundle-lecrin-du-voyageur-personnalisable-copy): This product is auto-generated by the Easify Box Builder app, grouping box items into one product at cart and checkout. Do not delete to ensure bundling works. Keep Active: Set product status to Active in the Online Store. Visibility: Hidden from collections, store search, and search engines by default. Details: Name and image match the box. Tagged “Easify Box Builder” for admin filtering. No inventory tracking. Accidental Deletion: If deleted, you’ll be guided to recreate it when accessing the associated box. Need Help? Reach out via our in-app 24/7 live chat.
-  Updated: 2026-04-03T14:09:21Z
+  Updated: 2026-06-19T20:35:29Z
   Vendor: FiiLiT Parfum du voyage
   Product Type: 
   Availability: Available
   Price: 0,00 € EUR
 - [Bundle : L'Escale Offerte (2 Flacons + 1 Voyage Offert)](https://fiilit.com/products/bundle-lecrin-du-voyageur-personnalisable-copy-1): This product is auto-generated by the Easify Box Builder app, grouping box items into one product at cart and checkout. Do not delete to ensure bundling works. Keep Active: Set product status to Active in the Online Store. Visibility: Hidden from collections, store search, and search engines by default. Details: Name and image match the box. Tagged “Easify Box Builder” for admin filtering. No inventory tracking. Accidental Deletion: If deleted, you’ll be guided to recreate it when accessing the associated box. Need Help? Reach out via our in-app 24/7 live chat.
-  Updated: 2026-04-03T14:09:21Z
+  Updated: 2026-06-19T20:35:30Z
   Vendor: FiiLiT Parfum du voyage
   Product Type: 
   Availability: Available
   Price: 0,00 € EUR
 - [Bundle : Trio Collector (Édition Scellée - 2+1 Offert)](https://fiilit.com/products/bundle-le-duo-signature-personnalisable-copy): This product is auto-generated by the Easify Box Builder app, grouping box items into one product at cart and checkout. Do not delete to ensure bundling works. Keep Active: Set product status to Active in the Online Store. Visibility: Hidden from collections, store search, and search engines by default. Details: Name and image match the box. Tagged “Easify Box Builder” for admin filtering. No inventory tracking. Accidental Deletion: If deleted, you’ll be guided to recreate it when accessing the associated box. Need Help? Reach out via our in-app 24/7 live chat.
-  Updated: 2026-04-03T14:09:21Z
+  Updated: 2026-06-19T20:35:30Z
   Vendor: FiiLiT Parfum du voyage
   Product Type: 
   Availability: Available
   Price: 0,00 € EUR
 - [Bundle : Le Coffret Collector (Offre : 2ème à -50%)](https://fiilit.com/products/le-coffret-collector-offre-2eme-a-50): This product is auto-generated by the Easify Box Builder app, grouping box items into one product at cart and checkout. Do not delete to ensure bundling works. Keep Active: Set product status to Active in the Online Store. Visibility: Hidden from collections, store search, and search engines by default. Details: Name and image match the box. Tagged “Easify Box Builder” for admin filtering. No inventory tracking. Accidental Deletion: If deleted, you’ll be guided to recreate it when accessing the associated box. Need Help? Reach out via our in-app 24/7 live chat.
-  Updated: 2026-04-03T14:09:22Z
+  Updated: 2026-06-19T20:35:30Z
   Vendor: FiiLiT Parfum du voyage
   Product Type: 
   Availability: Available
   Price: 0,00 € EUR
 - [Bundle : LE SET DÉCOUVERTE À LA CARTE (1.5mL)](https://fiilit.com/products/bundle-travel-set-la-sacoche-des-sens-copy): This product is auto-generated by the Easify Box Builder app, grouping box items into one product at cart and checkout. Do not delete to ensure bundling works. Keep Active: Set product status to Active in the Online Store. Visibility: Hidden from collections, store search, and search engines by default. Details: Name and image match the box. Tagged “Easify Box Builder” for admin filtering. No inventory tracking. Accidental Deletion: If deleted, you’ll be guided to recreate it when accessing the associated box. Need Help? Reach out via our in-app 24/7 live chat.
-  Updated: 2026-04-03T14:09:22Z
+  Updated: 2026-06-19T20:35:30Z
   Vendor: FiiLiT Parfum du voyage
   Product Type: 
   Availability: Available
   Price: 0,00 € EUR
 - [Bundle : Trio Heritage](https://fiilit.com/products/bundle-le-set-decouverte-a-la-carte-1-5ml-copy): This product is auto-generated by the Easify Box Builder app, grouping box items into one product at cart and checkout. Do not delete to ensure bundling works. Keep Active: Set product status to Active in the Online Store. Visibility: Hidden from collections, store search, and search engines by default. Details: Name and image match the box. Tagged “Easify Box Builder” for admin filtering. No inventory tracking. Accidental Deletion: If deleted, you’ll be guided to recreate it when accessing the associated box. Need Help? Reach out via our in-app 24/7 live chat.
-  Updated: 2026-04-03T14:09:22Z
+  Updated: 2026-06-19T20:35:30Z
   Vendor: FiiLiT Parfum du voyage
   Product Type: 
   Availability: Available
@@ -1039,31 +1039,31 @@ Véritable invitation à la découverte, cette "sacoche des sens" est une vérit
 ## Collections
 
 - [Eaux de Parfum Unisexes & Naturelles | Collection FiiLiT Parfum du Voyage](https://fiilit.com/collections/parfums): Portez l'audace d'un créateur. Nos eaux de parfum naturelles et éthiques capturent l'âme de Bali, Cuba, Japon. Sillage longue tenue et formules propres.
-  Updated: 2026-06-10T11:08:55Z
+  Updated: 2026-06-26T11:36:10Z
   Total Products: 18
 - [Coffrets Cadeaux Parfum & Sets Découverte | FiiLiT Parfum du Voyage](https://fiilit.com/collections/idees-cadeaux): Offrez un voyage olfactif. Coffrets personnalisables, sets de découverte et éditions collector. Le cadeau éthique et original pour homme et femme.
-  Updated: 2026-06-10T11:08:55Z
+  Updated: 2026-06-26T11:36:10Z
   Total Products: 8
 - [Recharges de Parfum](https://fiilit.com/collections/recharges): Rechargez vos parfums préférés avec nos recharges de 200mL. Suivez nos étapes simples pour remplir vos flacons de 11mL ou 50mL facilement.
   Updated: 2026-06-02T05:00:09Z
   Total Products: 2
 - [Professionnels](https://fiilit.com/collections/professionnels): Outils de ventes, testeurs, présentation
-  Updated: 2026-06-02T05:00:10Z
+  Updated: 2026-06-24T11:11:06Z
   Total Products: 13
 - [Collection limitée](https://fiilit.com/collections/collection-limitee): Bienvenue dans notre univers parfumé en édition limitée, où l'exclusivité rencontre l'opportunité. Venez explorer, découvrir et vous laisser séduire par nos offres spéciales et nos parfums uniques. Profitez d'une sélection d'articles à -20%. C'est le moment de vous offrir le luxe à prix réduit, avec notre collection exclusive en édition limitée. Attention, les flacons 50mL et 100mL en édition limitée ne sont pas rechargeables ! La différence avec les autres flacons concerne seulement les packagings et non les fragrances.
-  Updated: 2026-06-09T11:06:57Z
+  Updated: 2026-06-26T11:36:10Z
   Total Products: 4
 - [Parfum de Niche Naturel & Éthique | FiiLiT Parfum du Voyage](https://fiilit.com/collections/all): Découvrez une parfumerie de voyage audacieuse. Des eaux de parfum 100% naturelles, vegan et unisexes, inspirées des plus belles destinations du monde.
-  Updated: 2026-06-10T11:08:55Z
+  Updated: 2026-06-26T11:36:10Z
   Total Products: 27
 - [Digital Goods VAT Tax](https://fiilit.com/collections/digital-goods-vat-tax)
   Updated: 2026-03-11T15:24:23Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on](https://fiilit.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-06-10T11:08:55Z
+  Updated: 2026-06-26T11:36:10Z
   Total Products: 65
 - [Matériel de vente & Outils de Découverte](https://fiilit.com/collections/materiel-de-vente-outils-de-decouverte): Transformez chaque visite en voyage olfactif. Équipez votre point de vente avec nos outils de découverte professionnels. Un parfum testé est un parfum adopté : offrez à vos clients l'expérience complète FiiLiT Parfum du Voyage grâce à nos testeurs, présentoirs et touches à parfum. 💡 Astuce Pro : Complétez votre assortiment ! Pour accompagner vos ventes, nos testeurs 50mL vous sont offerts par palier selon vos volumes de commande de parfums.
-  Updated: 2026-06-02T16:11:02Z
+  Updated: 2026-06-24T11:11:06Z
   Total Products: 13
 
 ## Blogs
