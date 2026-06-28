@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2026-05-03T06:29:11Z
 - Contact Email: info@firehotsaucega.com
-- Updated At: 2026-06-21T00:00:34.843Z
+- Updated At: 2026-06-28T00:00:36.289Z
 
 ## Collections
 
