@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-09-27T16:41:54Z
 - Contact Email: james.findlater@shopify.com
-- Updated At: 2026-06-08T15:04:04.192Z
+- Updated At: 2026-06-28T00:00:37.048Z
 
 ## Products
 
@@ -533,6 +533,9 @@
 - [VIP exclusives](https://teddyhensen.myshopify.com/collections/vip-exclusives)
   Updated: 2025-01-28T18:44:28Z
   Total Products: 4
+- [AVADA - Best Sellers](https://teddyhensen.myshopify.com/collections/avada-best-sellers)
+  Updated: 2026-06-08T15:05:08Z
+  Total Products: 26
 
 ## Store Pages
 
