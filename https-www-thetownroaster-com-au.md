@@ -8,12 +8,12 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-03-17T00:53:52Z
 - Contact Email: contact@thetownroaster.com.au
-- Updated At: 2026-06-20T00:00:40.427Z
+- Updated At: 2026-06-28T00:00:43.452Z
 
 ## Products
 
 - [Big Easy Espresso Blend coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/big-easy-espresso-blend): Buy our most popular coffee, Big Easy Espresso Blend coffee beans from The Town Roaster. A rich coffee with a sweet chocolate finish. Free Delivery for orders over $30.
-  Updated: 2026-06-19T06:24:46Z
+  Updated: 2026-06-27T23:19:35Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -73,7 +73,7 @@
     Availability: Available
     Price: $68.00 AUD
 - [Coffee Espresso Blend Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/espresso-blend-subscription): Never run out of coffee again with Espresso Blend Subscription coffee beans from The Town Roaster. With Free Delivery for all subscriptions.
-  Updated: 2026-06-19T11:02:08Z
+  Updated: 2026-06-23T22:04:09Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -133,7 +133,7 @@
     Availability: Available
     Price: $62.00 AUD
 - [Coffee Single Origin Espresso Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/single-origin-espresso-subscription): Never run out of coffee again with Single Origin Espresso Roast Subscription coffee beans from The Town Roaster. With Free Delivery for all subscriptions.
-  Updated: 2026-06-13T23:01:57Z
+  Updated: 2026-06-27T23:01:16Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Aeropress_Filters.png?v=1774053346
   Price: $16.50 AUD
 - [Colombia Popayan Decaf coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/colombia-decaf): Buy Colombia Popayan Decaf coffee beans from The Town Roaster. This coffee is nicely balanced with a chocolate sweetness. With Free Delivery for orders over $30.
-  Updated: 2026-06-10T22:48:57Z
+  Updated: 2026-06-24T20:43:08Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -274,14 +274,14 @@
     Availability: Available
     Price: $78.00 AUD
 - [Coffee Filters Moccamaster #1 Filters at The Town Roaster](https://www.thetownroaster.com.au/products/moccamaster-1-filters): Buy Moccamaster No 1 Filters from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-06-05T00:48:48Z
+  Updated: 2026-06-23T01:38:38Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Mocca_1.png?v=1774053274
   Price: $19.80 AUD
 - [Coffee Filters Moccamaster #4 Filters at The Town Roaster](https://www.thetownroaster.com.au/products/moccamaster-4-filters): Buy Moccamaster No 4 Filters from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-06-17T04:40:32Z
+  Updated: 2026-06-23T01:38:56Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
@@ -366,7 +366,7 @@
     Availability: Available
     Price: $45.00 AUD
 - [Winter Seasonal Blend](https://www.thetownroaster.com.au/products/winter-blend): Winter Seasonal Espresso Blend coffee beans. A full-bodied, rich coffee tasting of toffee apple. Delicious with milk or black. Free shipping for orders over $30.
-  Updated: 2026-06-14T21:48:27Z
+  Updated: 2026-06-27T23:19:36Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -538,7 +538,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/CamperMugLifeonEasyStreet.png?v=1732062922
   Price: $16.50 AUD
 - [Coffee Single Origin Filter Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/single-origin-filter-subscription): Never run out of coffee again with Single Origin Filter Roast Subscription coffee beans from The Town Roaster. Free Delivery for all subscriptions.
-  Updated: 2026-06-05T00:50:06Z
+  Updated: 2026-06-26T23:20:43Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -597,8 +597,68 @@
   - [Ground Stovetop / 1kg](https://www.thetownroaster.com.au/products/single-origin-filter-subscription?variant=41633147224247)
     Availability: Available
     Price: $73.00 AUD
+- [Colombia El Indio](https://www.thetownroaster.com.au/products/colombia-el-indio): Buy Single Origin Colombia El Indio coffee beans from The Town Roaster. Free Shipping for orders over $30.
+  Updated: 2026-06-24T21:13:49Z
+  Vendor: The Town Roaster
+  Product Type: Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Colombia_El_Indio.jpg?v=1779859521
+  - [Whole / 250g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248340151)
+    Availability: Available
+    Price: $23.00 AUD
+  - [Whole / 500g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248372919)
+    Availability: Available
+    Price: $43.00 AUD
+  - [Whole / 1kg](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248405687)
+    Availability: Available
+    Price: $83.00 AUD
+  - [Ground Espresso / 250g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248438455)
+    Availability: Available
+    Price: $23.00 AUD
+  - [Ground Espresso / 500g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248471223)
+    Availability: Available
+    Price: $43.00 AUD
+  - [Ground Espresso / 1kg](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248503991)
+    Availability: Available
+    Price: $83.00 AUD
+  - [Ground Aeropress / 250g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248536759)
+    Availability: Available
+    Price: $23.00 AUD
+  - [Ground Aeropress / 500g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248569527)
+    Availability: Available
+    Price: $43.00 AUD
+  - [Ground Aeropress / 1kg](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248602295)
+    Availability: Available
+    Price: $83.00 AUD
+  - [Ground Pour-over / 250g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248635063)
+    Availability: Available
+    Price: $23.00 AUD
+  - [Ground Pour-over / 500g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248667831)
+    Availability: Available
+    Price: $43.00 AUD
+  - [Ground Pour-over / 1kg](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248700599)
+    Availability: Available
+    Price: $83.00 AUD
+  - [Ground Plunger / 250g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248733367)
+    Availability: Available
+    Price: $23.00 AUD
+  - [Ground Plunger / 500g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248766135)
+    Availability: Available
+    Price: $43.00 AUD
+  - [Ground Plunger / 1kg](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248798903)
+    Availability: Available
+    Price: $83.00 AUD
+  - [Ground Stovetop / 250g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248831671)
+    Availability: Available
+    Price: $23.00 AUD
+  - [Ground Stovetop / 500g](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248864439)
+    Availability: Available
+    Price: $43.00 AUD
+  - [Ground Stovetop / 1kg](https://www.thetownroaster.com.au/products/colombia-el-indio?variant=41661248897207)
+    Availability: Available
+    Price: $83.00 AUD
 - [Organic Espresso Blend coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/organic-blend): Buy Organic Espresso Blend coffee beans from The Town Roaster. Sourced from Fair-Trade & Organic coffee producers. With Free Delivery for orders over $30.
-  Updated: 2026-06-18T09:55:47Z
+  Updated: 2026-06-24T20:57:05Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -665,7 +725,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/SttokeCup8oz.jpg?v=1771971595
   Price: $47.00 AUD
 - [Coffee Filters Hario V60 02 Filters 100 Pack at The Town Roaster](https://www.thetownroaster.com.au/products/hario-v60-02-filters-100): Buy Hario V60 02 White Paper Filters 100 Pack for pour-over from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-06-05T00:52:07Z
+  Updated: 2026-06-22T01:16:09Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
@@ -695,68 +755,8 @@
   - [Ground Stovetop](https://www.thetownroaster.com.au/products/am-pm-coffee-kit?variant=44731048427703)
     Availability: Available
     Price: $41.00 AUD
-- [Coffee beans Ethiopia Guji Guribea Organic at The Town Roaster](https://www.thetownroaster.com.au/products/ethiopia-guribea): Buy Single Origin Ethiopia Guji Guribea Organic coffee beans from The Town Roaster. Coffee is organically grown and harvested. With Free Delivery for orders over $30.
-  Updated: 2026-06-15T22:12:28Z
-  Vendor: The Town Roaster
-  Product Type: Coffee
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Guribea_Organic_bag_ae67a1e5-1ed7-4fa3-8314-7b481795bfc4.jpg?v=1778213020
-  - [Whole / 250g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345254583)
-    Availability: Available
-    Price: $24.00 AUD
-  - [Ground Espresso / 250g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345287351)
-    Availability: Available
-    Price: $24.00 AUD
-  - [Ground Aeropress / 250g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345320119)
-    Availability: Available
-    Price: $24.00 AUD
-  - [Ground Pour-over / 250g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345352887)
-    Availability: Available
-    Price: $24.00 AUD
-  - [Ground Plunger / 250g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345385655)
-    Availability: Available
-    Price: $24.00 AUD
-  - [Ground Stovetop / 250g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345418423)
-    Availability: Available
-    Price: $24.00 AUD
-  - [Whole / 500g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345451191)
-    Availability: Available
-    Price: $45.00 AUD
-  - [Ground Espresso / 500g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345483959)
-    Availability: Available
-    Price: $45.00 AUD
-  - [Ground Aeropress / 500g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345516727)
-    Availability: Available
-    Price: $45.00 AUD
-  - [Ground Pour-over / 500g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345549495)
-    Availability: Available
-    Price: $45.00 AUD
-  - [Ground Plunger / 500g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345582263)
-    Availability: Available
-    Price: $45.00 AUD
-  - [Ground Stovetop / 500g](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345615031)
-    Availability: Available
-    Price: $45.00 AUD
-  - [Whole / 1kg](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345647799)
-    Availability: Available
-    Price: $87.00 AUD
-  - [Ground Espresso / 1kg](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345680567)
-    Availability: Available
-    Price: $87.00 AUD
-  - [Ground Aeropress / 1kg](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345713335)
-    Availability: Available
-    Price: $87.00 AUD
-  - [Ground Pour-over / 1kg](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345746103)
-    Availability: Available
-    Price: $87.00 AUD
-  - [Ground Plunger / 1kg](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345778871)
-    Availability: Available
-    Price: $87.00 AUD
-  - [Ground Stovetop / 1kg](https://www.thetownroaster.com.au/products/ethiopia-guribea?variant=44815345811639)
-    Availability: Available
-    Price: $87.00 AUD
 - [Coffee Ethiopia Chelchele coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/ethiopia-chelchele): Buy coffee beans Ethiopia Chelchele Single Origin coffee beans from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-06-01T22:39:17Z
+  Updated: 2026-06-24T20:20:05Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -815,50 +815,50 @@
   - [Ground Stovetop / 1kg](https://www.thetownroaster.com.au/products/ethiopia-chelchele?variant=45363061489847)
     Availability: Available
     Price: $87.00 AUD
-- [Coffee beans Guatemala Chicoj at The Town Roaster](https://www.thetownroaster.com.au/products/guatemala-chicoj): Buy Guatemala Chicoj Single Origin coffee beans from The Town Roaster. The co-op has 7 certifications, including Organic Fairtrade. With Free Delivery for orders over $30.
-  Updated: 2026-06-09T22:23:22Z
+- [Coffee beans Costa Rica Finca Principe Azul coffee at The Town Roaster](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul): Buy Costa Rica Finca Principe Azul Light Espresso roast Single Origin coffee beans from The Town Roaster. With Free Delivery for orders over $30.
+  Updated: 2026-06-24T20:11:44Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Guata_Chicoj_bag_614f197e-e28c-4bb1-a430-2058be467082.jpg?v=1778212938
-  - [Whole / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194701889719)
+  Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Costa_Azul_110e4487-563d-4c28-a09d-8b3d92667bad.jpg?v=1782276710
+  - [Whole / 250g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725141175)
     Availability: Available
     Price: $30.00 AUD
-  - [Ground Espresso / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194701922487)
+  - [Ground Espresso / 250g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725173943)
     Availability: Available
     Price: $30.00 AUD
-  - [Ground Aeropress / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194701955255)
+  - [Ground Aeropress / 250g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725206711)
     Availability: Available
     Price: $30.00 AUD
-  - [Ground Pour-over / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194701988023)
+  - [Ground Pour-over / 250g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725239479)
     Availability: Available
     Price: $30.00 AUD
-  - [Ground Plunger / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702020791)
+  - [Ground Plunger / 250g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725272247)
     Availability: Available
     Price: $30.00 AUD
-  - [Ground Stovetop / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702053559)
+  - [Ground Stovetop / 250g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725305015)
     Availability: Available
     Price: $30.00 AUD
-  - [Whole / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702086327)
+  - [Whole / 500g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725337783)
     Availability: Available
     Price: $58.00 AUD
-  - [Ground Espresso / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702119095)
+  - [Ground Espresso / 500g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725370551)
     Availability: Available
     Price: $58.00 AUD
-  - [Ground Aeropress / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702151863)
+  - [Ground Aeropress / 500g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725403319)
     Availability: Available
     Price: $58.00 AUD
-  - [Ground Pour-over / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702184631)
+  - [Ground Pour-over / 500g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725436087)
     Availability: Available
     Price: $58.00 AUD
-  - [Ground Plunger / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702217399)
+  - [Ground Plunger / 500g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725468855)
     Availability: Available
     Price: $58.00 AUD
-  - [Ground Stovetop / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702250167)
+  - [Ground Stovetop / 500g](https://www.thetownroaster.com.au/products/costa-rica-finca-principe-azul?variant=47193725501623)
     Availability: Available
     Price: $58.00 AUD
 - [Filter roast coffee beans Ethiopia Single Farmer at The Town Roaster](https://www.thetownroaster.com.au/products/ethiopia-halo-beriti): Buy Ethiopia Halo Beriti from The Town Roaster. Ethiopian Single Origin Filter Roast coffee beans from the Single Farmer Project. With Free Delivery for orders over $30.
-  Updated: 2026-06-17T16:33:55Z
+  Updated: 2026-06-24T20:11:59Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -918,7 +918,7 @@
     Availability: Available
     Price: $87.00 AUD
 - [Single Origin Coffee El Salvador Finca Talquesalar at The Town Roaster](https://www.thetownroaster.com.au/products/el-salvador-finca-talquesalar): Buy Single Origin El Salvador Finca Talquesalar Filter Roast coffee beans from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-06-17T16:40:46Z
+  Updated: 2026-06-24T20:21:51Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -981,16 +981,16 @@
 ## Collections
 
 - [Coffee Beans available to buy online](https://www.thetownroaster.com.au/collections/products): Buy coffee beans online from The Town Roaster. Espresso blends, Single Origins and Filter Roast coffee beans available.
-  Updated: 2026-06-19T11:13:14Z
+  Updated: 2026-06-26T14:12:11Z
   Total Products: 29
 - [Coffee Subscriptions](https://www.thetownroaster.com.au/collections/subscriptions): Buy The Town Roaster Coffee Subscription and never run out of coffee
-  Updated: 2026-06-19T11:13:14Z
+  Updated: 2026-06-27T11:13:09Z
   Total Products: 7
 - [Coffee Making Equipment](https://www.thetownroaster.com.au/collections/equipment): Filter papers and reuasble cups for your coffee making needs.
-  Updated: 2026-06-01T11:11:50Z
+  Updated: 2026-06-22T11:12:06Z
   Total Products: 15
 - [Gifts](https://www.thetownroaster.com.au/collections/gifts): The Town Roaster gift ideas for the coffee lovers in your life
-  Updated: 2026-06-18T11:11:25Z
+  Updated: 2026-06-24T05:02:16Z
   Total Products: 13
 
 ## Blogs
