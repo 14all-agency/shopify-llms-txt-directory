@@ -10,7 +10,7 @@
 - Contact Email: info@tienda-alpine.com
 - Contact Phone: +57 320 2851156
 - Address: Calle 74 # 86-40, 111051 Bogotá, D.C. DC, Colombia
-- Updated At: 2026-06-20T05:38:37.965Z
+- Updated At: 2026-06-28T00:00:27.278Z
 
 ## Products
 
@@ -50,7 +50,7 @@
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/1_4ac5bdfa-57ea-4df0-9d00-8f21c447bee2.png?v=1754929486
   Price: 34.290,00 $ COP
 - [Kit 3 Palos De Café Perro L](https://tienda-alpine.com/products/kit-3-palos-de-cafe-perro-l): Combo por 3 juguetes en madera de árbol de café para perro. Tamaño del juguete: L.Peso del juguete: 400g.Material: 100% Madera de árbol de caféDimensiones del juguete: 30cm x 4 - 5cm. Recomendado para perros entre 12 - 20 kg de peso corporal.
-  Updated: 2026-06-19T13:40:07Z
+  Updated: 2026-06-23T16:20:27Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
@@ -88,11 +88,27 @@
 ## Collections
 
 - [Kits de 3 Unidades](https://tienda-alpine.com/collections/frontpage): ¡¡ Ahorra -10% en nuestros kits de palitos de madera de árbol de café !!
-  Updated: 2026-06-16T13:30:00Z
+  Updated: 2026-06-24T11:24:44Z
   Total Products: 5
 - [AVADA - Best Sellers](https://tienda-alpine.com/collections/avada-best-sellers)
-  Updated: 2026-06-19T11:24:39Z
+  Updated: 2026-06-24T11:24:44Z
   Total Products: 10
+
+## Blogs
+
+- [Noticias](https://tienda-alpine.com/blogs/noticias)
+  - [“Beneficios del Palo de Café para Perros que No Sabías”](https://tienda-alpine.com/blogs/noticias/beneficios-del-palo-de-cafe-para-perros-que-no-sabias): “Beneficios del Palo de Café para Perros que No Sabías”
+    Updated: 2026-06-20T14:45:54Z
+    Author: Alpine
+  - [10 Beneficios de los Palitos de Café para la Salud de tu Perro](https://tienda-alpine.com/blogs/noticias/10-beneficios-de-los-palitos-de-cafe-para-la-salud-de-tu-perro): 10 Beneficios de los Palitos de Café para la Salud de tu Perro
+    Updated: 2026-06-21T00:45:24Z
+    Author: Alpine
+  - [Cómo Introducir la Madera de Café para Perros en su Rutina Diaria](https://tienda-alpine.com/blogs/noticias/como-introducir-la-madera-de-cafe-para-perros-en-su-rutina-diaria): Cómo Introducir la Madera de Café para Perros en su Rutina Diaria
+    Updated: 2026-06-23T00:51:15Z
+    Author: Alpine
+  - [Resolviendo Problemas Comunes: Masticadores vs. Madera de Café para Perros](https://tienda-alpine.com/blogs/noticias/resolviendo-problemas-comunes-masticadores-vs-madera-de-cafe-para-perros): Resolviendo Problemas Comunes: Masticadores vs. Madera de Café para Perros
+    Updated: 2026-06-25T00:49:51Z
+    Author: Alpine
 
 ## Store Pages
 
