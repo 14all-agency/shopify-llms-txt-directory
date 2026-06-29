@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2022-09-30T02:43:56Z
 - Contact Email: help@drplus-usa.com
-- Updated At: 2026-06-22T00:00:40.322Z
+- Updated At: 2026-06-29T00:00:42.210Z
 
 ## Products
 
@@ -208,6 +208,9 @@
     Author: Dr.Plus Formula
   - [リポソームカプセルの選び方と特徴 | 効果を実感するコツ | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/リポソームカプセルの特徴と選び方-失敗しない基礎知識): リポソームカプセルの選び方と特徴 | 効果を実感するコツ | Dr.Plus formula
     Updated: 2026-06-17T01:00:07Z
+    Author: Dr.Plus Formula
+  - [健康サプリメントの選び方｜成分と効果で選ぶ | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/健康サプリメントの選び方-理想の成分と確認ポイント): 健康サプリメントの選び方｜成分と効果で選ぶ | Dr.Plus formula
+    Updated: 2026-06-24T18:24:48Z
     Author: Dr.Plus Formula
 
 ## Store Pages
