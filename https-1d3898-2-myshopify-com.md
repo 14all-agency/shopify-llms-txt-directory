@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2026-06-19T00:00:48.207Z
+- Updated At: 2026-06-29T00:00:47.090Z
 
 ## Products
 
 - [FESTOON Floral Digital Print Fabric - 58" Width Cotton Hand](https://1d3898-2.myshopify.com/products/festoon-floral-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): Shop FESTOON Floral Digital Print Fabric by the yard for home decor. Size: 58" width. 100% polyester, customizable cuts. Elegant medium-weight fabric.
-  Updated: 2026-06-18T15:52:53Z
+  Updated: 2026-06-28T16:56:45Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -231,7 +231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VINTAGE-TERRACOTTA-90.jpg?v=1757518828
     Price: $1.00 USD
 - [Black Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/black-brocade-velvet-fabric-72-inch): Premium black brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -243,7 +243,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Red Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/red-brocade-velvet-fabric-72-inch): Premium red brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -255,7 +255,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/blush-brocade-velvet-fabric-72-inch): Premium blush brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -267,7 +267,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Champagne Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/champagne-brocade-velvet-fabric-72-inch): Premium champagne brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -279,7 +279,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Forest Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/forest-brocade-velvet-fabric-72-inch): Premium forest brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -291,7 +291,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Gold Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/gold-brocade-velvet-fabric-72-inch): Premium gold brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -303,7 +303,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ice Blue Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/ice-blue-brocade-velvet-fabric-72-inch): Premium ice blue brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -315,7 +315,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ivory Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/ivory-brocade-velvet-fabric-72-inch): Premium ivory brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -327,7 +327,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/navy-brocade-velvet-fabric-72-inch): Premium navy brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -339,7 +339,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Burgundy Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/burgundy-brocade-velvet-fabric-72-inch): Premium burgundy brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -351,7 +351,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Olive Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/olive-brocade-velvet-fabric-72-inch): Premium olive brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -363,7 +363,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Brocade Velvet Fabric by the Yard | 72" Wide](https://1d3898-2.myshopify.com/products/white-brocade-velvet-fabric-72-inch): Premium white brocade velvet, 72" wide. Medium-weight 100% polyester for light upholstery, drapery, tablecloths & home decor. Order yards or sample.
-  Updated: 2026-06-18T15:52:40Z
+  Updated: 2026-06-28T16:56:26Z
   Vendor: Fabrics Star
   Product Type: Brocade Velvet Fabric
   Availability: Available
@@ -375,7 +375,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Silver/White Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/silver-white-stretch-velvet-sequin-fabric-48-inch): Shop premium silver/white stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:42Z
+  Updated: 2026-06-28T16:56:21Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -387,7 +387,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/black-stretch-velvet-sequin-fabric-48-inch): Shop premium black stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -399,7 +399,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Burgundy Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/burgundy-stretch-velvet-sequin-fabric-48-inch): Shop premium burgundy stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -411,7 +411,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Emerald Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/emerald-stretch-velvet-sequin-fabric-48-inch): Shop premium emerald stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -423,7 +423,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Forest Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/forest-stretch-velvet-sequin-fabric-48-inch): Shop premium forest stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -435,7 +435,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/blush-stretch-velvet-sequin-fabric-48-inch): Shop premium blush stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -447,7 +447,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Gold/Black Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/gold-black-stretch-velvet-sequin-fabric-48-inch): Shop premium gold/black stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -459,7 +459,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Greenery Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/greenery-stretch-velvet-sequin-fabric-48-inch): Shop premium greenery stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -471,7 +471,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Grey Stretch Velvet Sequin Fabric by the Yard | 48 Inch Wide](https://1d3898-2.myshopify.com/products/grey-stretch-velvet-sequin-fabric-48-inch): Shop premium grey stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -483,7 +483,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Indigo Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/indigo-stretch-velvet-sequin-fabric-48-inch): Shop premium indigo stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -495,7 +495,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ivory Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/ivory-stretch-velvet-sequin-fabric-48-inch): Shop premium ivory stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -507,7 +507,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Stretch Velvet Sequin Fabric by the Yard | 48 Inch Wide](https://1d3898-2.myshopify.com/products/navy-stretch-velvet-sequin-fabric-48-inch): Shop premium navy stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -519,7 +519,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Pink Stretch Velvet Sequin Fabric by the Yard | 48 Inch Wide](https://1d3898-2.myshopify.com/products/pink-stretch-velvet-sequin-fabric-48-inch): Shop premium pink stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -531,7 +531,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Red Stretch Velvet Sequin Fabric by the Yard | 48 Inch Wide](https://1d3898-2.myshopify.com/products/red-stretch-velvet-sequin-fabric-48-inch): Shop premium red stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -543,7 +543,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Sunburst Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/sunburst-stretch-velvet-sequin-fabric-48-inch): Shop premium sunburst stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -555,7 +555,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ultra Violet Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/ultra-violet-stretch-velvet-sequin-fabric-48-inch): Shop premium ultra violet stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -567,7 +567,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Brown Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/brown-stretch-velvet-sequin-fabric-48-inch): Shop premium brown stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -579,7 +579,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Coral Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/coral-stretch-velvet-sequin-fabric-48-inch): Shop premium coral stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -591,7 +591,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Crimson Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/crimson-stretch-velvet-sequin-fabric-48-inch): Shop premium crimson stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -603,7 +603,7 @@
     Availability: Available
     Price: $1.00 USD
 - [French Blue Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/french-blue-stretch-velvet-sequin-fabric-48-inch): Shop premium french blue stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:51Z
+  Updated: 2026-06-28T16:56:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -615,7 +615,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Garnet Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/garnet-stretch-velvet-sequin-fabric-48-inch): Shop premium garnet stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -627,7 +627,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Gold Stretch Velvet Sequin Fabric by the Yard | 48 Inch Wide](https://1d3898-2.myshopify.com/products/gold-stretch-velvet-sequin-fabric-48-inch): Shop premium gold stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -639,7 +639,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Iridescent Whit Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/iridescent-whit-stretch-velvet-sequin-fabric-48-inch): Shop premium iridescent whit stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -651,7 +651,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Lilac Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/lilac-stretch-velvet-sequin-fabric-48-inch): Shop premium lilac stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -663,7 +663,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Mint Green Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/mint-green-stretch-velvet-sequin-fabric-48-inch): Shop premium mint green stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -675,7 +675,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Moonlight Blue Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/moonlight-blue-stretch-velvet-sequin-fabric-48-inch): Shop premium moonlight blue stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:51Z
+  Updated: 2026-06-28T16:56:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -687,7 +687,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Orange Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/orange-stretch-velvet-sequin-fabric-48-inch): Shop premium orange stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -699,7 +699,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Plum Stretch Velvet Sequin Fabric by the Yard | 48 Inch Wide](https://1d3898-2.myshopify.com/products/plum-stretch-velvet-sequin-fabric-48-inch): Shop premium plum stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -711,7 +711,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Rose Stretch Velvet Sequin Fabric by the Yard | 48 Inch Wide](https://1d3898-2.myshopify.com/products/rose-stretch-velvet-sequin-fabric-48-inch): Shop premium rose stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -723,7 +723,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Rust Stretch Velvet Sequin Fabric by the Yard | 48 Inch Wide](https://1d3898-2.myshopify.com/products/rust-stretch-velvet-sequin-fabric-48-inch): Shop premium rust stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -735,7 +735,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Sky Blue Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/sky-blue-stretch-velvet-sequin-fabric-48-inch): Shop premium sky blue stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:51Z
+  Updated: 2026-06-28T16:56:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -747,7 +747,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blue Stretch Velvet Sequin Fabric by the Yard | 48 Inch Wide](https://1d3898-2.myshopify.com/products/blue-stretch-velvet-sequin-fabric-48-inch): Shop premium blue stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:51Z
+  Updated: 2026-06-28T16:56:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -759,7 +759,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Yellow Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/yellow-stretch-velvet-sequin-fabric-48-inch): Shop premium yellow stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:42Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -771,7 +771,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Multi Royal Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/multi-royal-stretch-velvet-sequin-fabric-48-inch): Shop premium multi royal stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:32Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -783,7 +783,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Multi Copper Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/multi-copper-stretch-velvet-sequin-fabric-48-inch): Shop premium multi copper stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:32Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -795,7 +795,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black/Silver Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/black-silver-stretch-velvet-sequin-fabric-48-inch): Shop premium black/silver stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:53Z
+  Updated: 2026-06-28T16:56:33Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -807,7 +807,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Crystal White Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/crystal-white-stretch-velvet-sequin-fabric-48-inch): Shop premium crystal white stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:53Z
+  Updated: 2026-06-28T16:56:33Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -819,7 +819,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Maize Stretch Velvet Sequin Fabric - 48 Inch](https://1d3898-2.myshopify.com/products/maize-stretch-velvet-sequin-fabric-48-inch): Shop premium maize stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:53Z
+  Updated: 2026-06-28T16:56:33Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -831,7 +831,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Wild Salmon Color Changing Sensory Wall Reversible Sequin Fabric - ...](https://1d3898-2.myshopify.com/products/wild-salmon-color-changing-sensory-wall-reversible-sequin-fabric-52-inch): Shop premium wild salmon color changing sensory wall reversible sequin fabric by the yard. 52 Inch wide, ideal for evening wear & home decor. Order swatches ...
-  Updated: 2026-06-18T15:52:54Z
+  Updated: 2026-06-28T16:56:34Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -843,7 +843,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black/Coffee Color Changing Sensory Wall Reversible Sequin Fabric -...](https://1d3898-2.myshopify.com/products/black-coffee-color-changing-sensory-wall-reversible-sequin-fabric-52-inch): Shop premium black/coffee color changing sensory wall reversible sequin fabric by the yard. 52 Inch wide, ideal for evening wear & home decor. Order swatches...
-  Updated: 2026-06-18T15:52:55Z
+  Updated: 2026-06-28T16:56:35Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -855,7 +855,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chablis Color Changing Sensory Wall Reversible Sequin Fabric - 52 Inch](https://1d3898-2.myshopify.com/products/chablis-color-changing-sensory-wall-reversible-sequin-fabric-52-inch): Shop premium chablis color changing sensory wall reversible sequin fabric by the yard. 52 Inch wide, ideal for evening wear & home decor. Order swatches avai...
-  Updated: 2026-06-18T15:52:54Z
+  Updated: 2026-06-28T16:56:34Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -867,7 +867,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Emerald Color Changing Sensory Wall Reversible Sequin Fabric - 52 Inch](https://1d3898-2.myshopify.com/products/emerald-color-changing-sensory-wall-reversible-sequin-fabric-52-inch): Shop premium emerald color changing sensory wall reversible sequin fabric by the yard. 52 Inch wide, ideal for evening wear & home decor. Order swatches avai...
-  Updated: 2026-06-18T15:52:54Z
+  Updated: 2026-06-28T16:56:34Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -879,7 +879,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Pink/White Color Changing Sensory Wall Reversible Sequin Fabric - 5...](https://1d3898-2.myshopify.com/products/pink-white-color-changing-sensory-wall-reversible-sequin-fabric-52-inch): Shop premium pink/white color changing sensory wall reversible sequin fabric by the yard. 52 Inch wide, ideal for evening wear & home decor. Order swatches a...
-  Updated: 2026-06-18T15:52:55Z
+  Updated: 2026-06-28T16:56:35Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -891,7 +891,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black/Gold Color Changing Sensory Wall Reversible Sequin Fabric - 5...](https://1d3898-2.myshopify.com/products/black-gold-color-changing-sensory-wall-reversible-sequin-fabric-52-inch): Shop premium black/gold color changing sensory wall reversible sequin fabric by the yard. 52 Inch wide, ideal for evening wear & home decor. Order swatches a...
-  Updated: 2026-06-18T15:52:55Z
+  Updated: 2026-06-28T16:56:35Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -903,7 +903,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White/Gold Color Changing Sensory Wall Reversible Sequin Fabric - 5...](https://1d3898-2.myshopify.com/products/white-gold-color-changing-sensory-wall-reversible-sequin-fabric-52-inch): Shop premium white/gold color changing sensory wall reversible sequin fabric by the yard. 52 Inch wide, ideal for evening wear & home decor. Order swatches a...
-  Updated: 2026-06-18T15:52:56Z
+  Updated: 2026-06-28T16:56:36Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -915,7 +915,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Twilight Color Changing Sensory Wall Reversible Sequin Fabric - 52 ...](https://1d3898-2.myshopify.com/products/twilight-color-changing-sensory-wall-reversible-sequin-fabric-52-inch): Shop premium twilight color changing sensory wall reversible sequin fabric by the yard. 52 Inch wide, ideal for evening wear & home decor. Order swatches ava...
-  Updated: 2026-06-18T15:52:56Z
+  Updated: 2026-06-28T16:55:45Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -927,7 +927,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/black-soft-velvet-fabric-118-inch): Shop premium black soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:57Z
+  Updated: 2026-06-28T16:55:46Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -939,7 +939,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/blush-soft-velvet-fabric-118-inch): Shop premium blush soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:05Z
+  Updated: 2026-06-28T16:55:46Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -951,7 +951,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Baby Blue Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/baby-blue-soft-velvet-fabric-118-inch): Shop premium baby blue soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:07Z
+  Updated: 2026-06-28T16:55:46Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -963,7 +963,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Brick Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/brick-soft-velvet-fabric-118-inch): Shop premium brick soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:07Z
+  Updated: 2026-06-28T16:55:47Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -975,7 +975,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ivory Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/ivory-soft-velvet-fabric-118-inch): Shop premium ivory soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:07Z
+  Updated: 2026-06-28T16:55:47Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -987,7 +987,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Hunter Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/hunter-soft-velvet-fabric-118-inch): Shop premium hunter soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:07Z
+  Updated: 2026-06-28T16:55:47Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -999,7 +999,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Maroon Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/maroon-soft-velvet-fabric-118-inch): Shop premium maroon soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:08Z
+  Updated: 2026-06-28T16:55:48Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1011,7 +1011,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Eggshell Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/eggshell-soft-velvet-fabric-118-inch): Shop premium eggshell soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:08Z
+  Updated: 2026-06-28T16:55:48Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1023,7 +1023,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Olive Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/olive-soft-velvet-fabric-118-inch): Shop premium olive soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:09Z
+  Updated: 2026-06-28T16:55:48Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1035,7 +1035,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Silver Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/silver-soft-velvet-fabric-118-inch): Shop premium silver soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:09Z
+  Updated: 2026-06-28T16:55:49Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1047,7 +1047,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Mauve Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/mauve-soft-velvet-fabric-118-inch): Shop premium mauve soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:09Z
+  Updated: 2026-06-28T16:55:49Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1059,7 +1059,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/white-soft-velvet-fabric-118-inch): Shop premium white soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:57Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1071,7 +1071,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/navy-soft-velvet-fabric-118-inch): Shop premium navy soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:09Z
+  Updated: 2026-06-28T16:55:49Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1083,7 +1083,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Royal Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/royal-soft-velvet-fabric-118-inch): Shop premium royal soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:10Z
+  Updated: 2026-06-28T16:55:50Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1095,7 +1095,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Roseet Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/roseet-soft-velvet-fabric-118-inch): Shop premium roseet soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:10Z
+  Updated: 2026-06-28T16:55:50Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1107,7 +1107,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Soft Green Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/soft-green-soft-velvet-fabric-118-inch): Shop premium soft green soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:11Z
+  Updated: 2026-06-28T16:55:50Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1119,7 +1119,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Wedgwood Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/wedgwood-soft-velvet-fabric-118-inch): Shop premium wedgwood soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:11Z
+  Updated: 2026-06-28T16:55:51Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1131,7 +1131,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Amber Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/amber-soft-velvet-fabric-118-inch): Shop premium amber soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:11Z
+  Updated: 2026-06-28T16:55:51Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1143,7 +1143,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Aqua Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/aqua-soft-velvet-fabric-118-inch): Shop premium aqua soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:12Z
+  Updated: 2026-06-28T16:55:51Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1155,7 +1155,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Antique White Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/antique-white-soft-velvet-fabric-118-inch): Shop premium antique white soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:52Z
+  Updated: 2026-06-28T16:56:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1167,7 +1167,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Cinnamon Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/cinnamon-soft-velvet-fabric-118-inch): Shop premium cinnamon soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:12Z
+  Updated: 2026-06-28T16:55:52Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1179,7 +1179,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Lime Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/lime-soft-velvet-fabric-118-inch): Shop premium lime soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:12Z
+  Updated: 2026-06-28T16:55:53Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1191,7 +1191,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Deer Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/deer-soft-velvet-fabric-118-inch): Shop premium deer soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:13Z
+  Updated: 2026-06-28T16:55:53Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1203,7 +1203,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Grass Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/grass-soft-velvet-fabric-118-inch): Shop premium grass soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:13Z
+  Updated: 2026-06-28T16:55:54Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1215,7 +1215,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Loden Green Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/loden-green-soft-velvet-fabric-118-inch): Shop premium loden green soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:57Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1227,7 +1227,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Mint Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/mint-soft-velvet-fabric-118-inch): Shop premium mint soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:57Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1239,7 +1239,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Purple Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/purple-soft-velvet-fabric-118-inch): Shop premium purple soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:57Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1251,7 +1251,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Paprika Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/paprika-soft-velvet-fabric-118-inch): Shop premium paprika soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:57Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1263,7 +1263,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Tulip Soft Velvet Fabric by the Yard | 118 Inch Wide](https://1d3898-2.myshopify.com/products/tulip-soft-velvet-fabric-118-inch): Shop premium tulip soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:57Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1275,7 +1275,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/black-soft-velvet-fabric-72-inch): Shop premium black soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1287,7 +1287,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Avocado Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/avocado-soft-velvet-fabric-72-inch): Shop premium avocado soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1299,7 +1299,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/blush-soft-velvet-fabric-72-inch): Shop premium blush soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1311,7 +1311,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Charcoal Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/charcoal-soft-velvet-fabric-72-inch): Shop premium charcoal soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1323,7 +1323,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Champagne Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/champagne-soft-velvet-fabric-72-inch): Shop premium champagne soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1335,7 +1335,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chocolate Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/chocolate-soft-velvet-fabric-72-inch): Shop premium chocolate soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1347,7 +1347,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Dark Navy Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/dark-navy-soft-velvet-fabric-72-inch): Shop premium dark navy soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1359,7 +1359,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/navy-soft-velvet-fabric-72-inch): Shop premium navy soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1371,7 +1371,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Grey Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/grey-soft-velvet-fabric-72-inch): Shop premium grey soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1383,7 +1383,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Levende Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/levende-soft-velvet-fabric-72-inch): Shop premium levende soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1395,7 +1395,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ivory Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/ivory-soft-velvet-fabric-72-inch): Shop premium ivory soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1407,7 +1407,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Royal Blue Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/royal-blue-soft-velvet-fabric-72-inch): Shop premium royal blue soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1419,7 +1419,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Rose Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/rose-soft-velvet-fabric-72-inch): Shop premium rose soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1431,7 +1431,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Malaga Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/malaga-soft-velvet-fabric-72-inch): Shop premium malaga soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1443,7 +1443,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Gold Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/gold-soft-velvet-fabric-72-inch): Shop premium gold soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1455,7 +1455,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Dusty Rose Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/dusty-rose-soft-velvet-fabric-72-inch): Shop premium dusty rose soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1467,7 +1467,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Russet Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/russet-soft-velvet-fabric-72-inch): Shop premium russet soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1479,7 +1479,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Silver Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/silver-soft-velvet-fabric-72-inch): Shop premium silver soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:14Z
+  Updated: 2026-06-28T16:55:55Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1491,7 +1491,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Seafoam Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/seafoam-soft-velvet-fabric-72-inch): Shop premium seafoam soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:15Z
+  Updated: 2026-06-28T16:55:55Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1503,7 +1503,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/white-soft-velvet-fabric-72-inch): Shop premium white soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:15Z
+  Updated: 2026-06-28T16:55:55Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1515,7 +1515,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Soft Green Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/soft-green-soft-velvet-fabric-72-inch): Shop premium soft green soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:15Z
+  Updated: 2026-06-28T16:55:56Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1527,7 +1527,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Brass Soft Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/brass-soft-velvet-fabric-72-inch): Shop premium brass soft velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:15Z
+  Updated: 2026-06-28T16:55:56Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1539,7 +1539,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/black-abstract-crushed-velvet-fabric-118-inch): Shop premium black abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:16Z
+  Updated: 2026-06-28T16:55:56Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1551,7 +1551,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Burgundy Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/burgundy-abstract-crushed-velvet-fabric-118-inch): Shop premium burgundy abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:16Z
+  Updated: 2026-06-28T16:55:57Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1563,7 +1563,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Forest Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/forest-abstract-crushed-velvet-fabric-118-inch): Shop premium forest abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:16Z
+  Updated: 2026-06-28T16:55:57Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1575,7 +1575,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/blush-abstract-crushed-velvet-fabric-118-inch): Shop premium blush abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:17Z
+  Updated: 2026-06-28T16:55:57Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1587,7 +1587,7 @@
     Availability: Available
     Price: $1.00 USD
 - [French Blue Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/french-blue-abstract-crushed-velvet-fabric-118-inch): Shop premium french blue abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:17Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1599,7 +1599,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Mauve Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/mauve-abstract-crushed-velvet-fabric-118-inch): Shop premium mauve abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:17Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1611,7 +1611,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Gold Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/gold-abstract-crushed-velvet-fabric-118-inch): Shop premium gold abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:58Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1623,7 +1623,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Maize Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/maize-abstract-crushed-velvet-fabric-118-inch): Shop premium maize abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:59Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1635,7 +1635,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Natural Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/natural-abstract-crushed-velvet-fabric-118-inch): Shop premium natural abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:59Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1647,7 +1647,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ocean Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/ocean-abstract-crushed-velvet-fabric-118-inch): Shop premium ocean abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:59Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1659,7 +1659,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/navy-abstract-crushed-velvet-fabric-118-inch): Shop premium navy abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:18Z
+  Updated: 2026-06-28T16:55:59Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1671,7 +1671,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Olive Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/olive-abstract-crushed-velvet-fabric-118-inch): Shop premium olive abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:56:00Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1683,7 +1683,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Plum Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/plum-abstract-crushed-velvet-fabric-118-inch): Shop premium plum abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:19Z
+  Updated: 2026-06-28T16:56:00Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1695,7 +1695,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Rose Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/rose-abstract-crushed-velvet-fabric-118-inch): Shop premium rose abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:20Z
+  Updated: 2026-06-28T16:56:01Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1707,7 +1707,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Silver Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/silver-abstract-crushed-velvet-fabric-118-inch): Shop premium silver abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:20Z
+  Updated: 2026-06-28T16:56:01Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1719,7 +1719,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Seafoam Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/seafoam-abstract-crushed-velvet-fabric-118-inch): Shop premium seafoam abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:20Z
+  Updated: 2026-06-28T16:56:01Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1731,7 +1731,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Taupe Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/taupe-abstract-crushed-velvet-fabric-118-inch): Shop premium taupe abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:20Z
+  Updated: 2026-06-28T16:56:02Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1743,7 +1743,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Abstract Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/white-abstract-crushed-velvet-fabric-118-inch): Shop premium white abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:21Z
+  Updated: 2026-06-28T16:56:02Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1755,7 +1755,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Brocade Scroll Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/black-brocade-scroll-velvet-fabric-58-inch): Shop premium black brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:21Z
+  Updated: 2026-06-28T16:56:02Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1767,7 +1767,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Brocade Scroll Velvet Fabric by the Yard | 58 Inch Wide](https://1d3898-2.myshopify.com/products/navy-brocade-scroll-velvet-fabric-58-inch): Shop premium navy brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:21Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1779,7 +1779,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Charcoal Brocade Scroll Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/charcoal-brocade-scroll-velvet-fabric-58-inch): Shop premium charcoal brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1791,7 +1791,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chocolate Brocade Scroll Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/chocolate-brocade-scroll-velvet-fabric-58-inch): Shop premium chocolate brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1803,7 +1803,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Burgundy Brocade Scroll Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/burgundy-brocade-scroll-velvet-fabric-58-inch): Shop premium burgundy brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1815,7 +1815,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Forest Brocade Scroll Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/forest-brocade-scroll-velvet-fabric-58-inch): Shop premium forest brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1827,7 +1827,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Brocade Scroll Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/white-brocade-scroll-velvet-fabric-58-inch): Shop premium white brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1839,7 +1839,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ivory Brocade Scroll Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/ivory-brocade-scroll-velvet-fabric-58-inch): Shop premium ivory brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1851,7 +1851,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Brocade Scroll Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/blush-brocade-scroll-velvet-fabric-58-inch): Shop premium blush brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1863,7 +1863,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Sand Brocade Scroll Velvet Fabric by the Yard | 58 Inch Wide](https://1d3898-2.myshopify.com/products/sand-brocade-scroll-velvet-fabric-58-inch): Shop premium sand brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:24Z
+  Updated: 2026-06-28T16:56:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1875,7 +1875,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Taupe Brocade Scroll Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/taupe-brocade-scroll-velvet-fabric-58-inch): Shop premium taupe brocade scroll velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:24Z
+  Updated: 2026-06-28T16:56:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1887,7 +1887,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Brocade Damask Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/black-brocade-damask-velvet-fabric-58-inch): Shop premium black brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1899,7 +1899,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Brocade Damask Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/blush-brocade-damask-velvet-fabric-58-inch): Shop premium blush brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:26Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1911,7 +1911,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chocolate Brocade Damask Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/chocolate-brocade-damask-velvet-fabric-58-inch): Shop premium chocolate brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:26Z
+  Updated: 2026-06-28T16:56:08Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1923,7 +1923,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Cafe Brocade Damask Velvet Fabric by the Yard | 58 Inch Wide](https://1d3898-2.myshopify.com/products/cafe-brocade-damask-velvet-fabric-58-inch): Shop premium cafe brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:26Z
+  Updated: 2026-06-28T16:56:08Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1935,7 +1935,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Sand Brocade Damask Velvet Fabric by the Yard | 58 Inch Wide](https://1d3898-2.myshopify.com/products/sand-brocade-damask-velvet-fabric-58-inch): Shop premium sand brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:26Z
+  Updated: 2026-06-28T16:56:08Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1947,7 +1947,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Taupe Brocade Damask Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/taupe-brocade-damask-velvet-fabric-58-inch): Shop premium taupe brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:27Z
+  Updated: 2026-06-28T16:56:09Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1959,7 +1959,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Burgundy Brocade Damask Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/burgundy-brocade-damask-velvet-fabric-58-inch): Shop premium burgundy brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:28Z
+  Updated: 2026-06-28T16:56:10Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1971,7 +1971,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Charcoal Brocade Damask Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/charcoal-brocade-damask-velvet-fabric-58-inch): Shop premium charcoal brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:10Z
+  Updated: 2026-06-28T16:55:50Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1983,7 +1983,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ivory Brocade Damask Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/ivory-brocade-damask-velvet-fabric-58-inch): Shop premium ivory brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:10Z
+  Updated: 2026-06-28T16:55:50Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1995,7 +1995,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Seafoam Brocade Damask Velvet Fabric - 58 Inch](https://1d3898-2.myshopify.com/products/seafoam-brocade-damask-velvet-fabric-58-inch): Shop premium seafoam brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:10Z
+  Updated: 2026-06-28T16:55:50Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2007,7 +2007,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Brocade Damask Velvet Fabric by the Yard | 58 Inch Wide](https://1d3898-2.myshopify.com/products/navy-brocade-damask-velvet-fabric-58-inch): Shop premium navy brocade damask velvet fabric by the yard. 58 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:10Z
+  Updated: 2026-06-28T16:55:50Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2019,7 +2019,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/black-shiny-velvet-fabric-72-inch): Shop premium black shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2031,7 +2031,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Red Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/red-shiny-velvet-fabric-72-inch): Shop premium red shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:28Z
+  Updated: 2026-06-28T16:56:10Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2043,7 +2043,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Fire Red Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/fire-red-shiny-velvet-fabric-72-inch): Shop premium fire red shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:28Z
+  Updated: 2026-06-28T16:56:10Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2055,7 +2055,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/white-shiny-velvet-fabric-72-inch): Shop premium white shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:29Z
+  Updated: 2026-06-28T16:56:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2067,7 +2067,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Antique White Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/antique-white-shiny-velvet-fabric-72-inch): Shop premium antique white shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:29Z
+  Updated: 2026-06-28T16:56:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2079,7 +2079,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Apple Green Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/apple-green-shiny-velvet-fabric-72-inch): Shop premium apple green shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2091,7 +2091,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Begonia Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/begonia-shiny-velvet-fabric-72-inch): Shop premium begonia shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2103,7 +2103,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Aqua Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/aqua-shiny-velvet-fabric-72-inch): Shop premium aqua shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:29Z
+  Updated: 2026-06-28T16:56:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2115,7 +2115,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/blush-shiny-velvet-fabric-72-inch): Shop premium blush shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2127,7 +2127,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Burgundy Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/burgundy-shiny-velvet-fabric-72-inch): Shop premium burgundy shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2139,7 +2139,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Champagne Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/champagne-shiny-velvet-fabric-72-inch): Shop premium champagne shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2151,7 +2151,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Charcoal Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/charcoal-shiny-velvet-fabric-72-inch): Shop premium charcoal shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2163,7 +2163,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Cherry Red Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/cherry-red-shiny-velvet-fabric-72-inch): Shop premium cherry red shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:28Z
+  Updated: 2026-06-28T16:56:10Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2175,7 +2175,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chocolate Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/chocolate-shiny-velvet-fabric-72-inch): Shop premium chocolate shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2187,7 +2187,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Dark Blue Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/dark-blue-shiny-velvet-fabric-72-inch): Shop premium dark blue shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2199,7 +2199,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Forest Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/forest-shiny-velvet-fabric-72-inch): Shop premium forest shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2211,7 +2211,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Gold Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/gold-shiny-velvet-fabric-72-inch): Shop premium gold shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2223,7 +2223,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Fucshia Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/fucshia-shiny-velvet-fabric-72-inch): Shop premium fucshia shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2235,7 +2235,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Grey Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/grey-shiny-velvet-fabric-72-inch): Shop premium grey shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2247,7 +2247,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Levender Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/levender-shiny-velvet-fabric-72-inch): Shop premium levender shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:29Z
+  Updated: 2026-06-28T16:56:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2259,7 +2259,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Ivory Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/ivory-shiny-velvet-fabric-72-inch): Shop premium ivory shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2271,7 +2271,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Lilac Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/lilac-shiny-velvet-fabric-72-inch): Shop premium lilac shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2283,7 +2283,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Mauve Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/mauve-shiny-velvet-fabric-72-inch): Shop premium mauve shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2295,7 +2295,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Malaga Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/malaga-shiny-velvet-fabric-72-inch): Shop premium malaga shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2307,7 +2307,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/navy-shiny-velvet-fabric-72-inch): Shop premium navy shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2319,7 +2319,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Plum Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/plum-shiny-velvet-fabric-72-inch): Shop premium plum shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2331,7 +2331,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Olive Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/olive-shiny-velvet-fabric-72-inch): Shop premium olive shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2343,7 +2343,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Rust Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/rust-shiny-velvet-fabric-72-inch): Shop premium rust shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2355,7 +2355,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Seafoam Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/seafoam-shiny-velvet-fabric-72-inch): Shop premium seafoam shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2367,7 +2367,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Silver Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/silver-shiny-velvet-fabric-72-inch): Shop premium silver shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2379,7 +2379,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Tiffany Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/tiffany-shiny-velvet-fabric-72-inch): Shop premium tiffany shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:22Z
+  Updated: 2026-06-28T16:56:03Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2391,7 +2391,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Wine Shiny Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/wine-shiny-velvet-fabric-72-inch): Shop premium wine shiny velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:29Z
+  Updated: 2026-06-28T16:56:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2403,7 +2403,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Shiny Crushed Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/black-shiny-crushed-velvet-fabric-72-inch): Shop premium black shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2415,7 +2415,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blue Shiny Crushed Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/blue-shiny-crushed-velvet-fabric-72-inch): Shop premium blue shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2427,7 +2427,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Shiny Crushed Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/blush-shiny-crushed-velvet-fabric-72-inch): Shop premium blush shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2439,7 +2439,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Forest Shiny Crushed Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/forest-shiny-crushed-velvet-fabric-72-inch): Shop premium forest shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2451,7 +2451,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Gold Shiny Crushed Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/gold-shiny-crushed-velvet-fabric-72-inch): Shop premium gold shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2463,7 +2463,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Charcoal Shiny Crushed Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/charcoal-shiny-crushed-velvet-fabric-72-inch): Shop premium charcoal shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2475,7 +2475,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Shiny Crushed Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/white-shiny-crushed-velvet-fabric-72-inch): Shop premium white shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2487,7 +2487,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Shiny Crushed Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/navy-shiny-crushed-velvet-fabric-72-inch): Shop premium navy shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2499,7 +2499,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Burgundy Shiny Crushed Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/burgundy-shiny-crushed-velvet-fabric-72-inch): Shop premium burgundy shiny crushed velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:23Z
+  Updated: 2026-06-28T16:56:04Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2511,7 +2511,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Goldenrod Brocade Hunter Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/goldenrod-brocade-hunter-velvet-fabric-72-inch): Shop premium goldenrod brocade hunter velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:13Z
+  Updated: 2026-06-28T16:55:54Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2523,7 +2523,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Sky Blue Brocade Hunter Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/sky-blue-brocade-hunter-velvet-fabric-72-inch): Shop premium sky blue brocade hunter velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:13Z
+  Updated: 2026-06-28T16:55:54Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2535,7 +2535,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Gold Brocade Hunter Velvet Fabric by the Yard | 72 Inch Wide](https://1d3898-2.myshopify.com/products/gold-brocade-hunter-velvet-fabric-72-inch): Shop premium gold brocade hunter velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:13Z
+  Updated: 2026-06-28T16:55:54Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2547,7 +2547,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/black-huntsville-brocade-velvet-fabric-72-inch): Shop premium black huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:24Z
+  Updated: 2026-06-28T16:56:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2559,7 +2559,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Charcoal Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/charcoal-huntsville-brocade-velvet-fabric-72-inch): Shop premium charcoal huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:24Z
+  Updated: 2026-06-28T16:56:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2571,7 +2571,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Forest Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/forest-huntsville-brocade-velvet-fabric-72-inch): Shop premium forest huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:24Z
+  Updated: 2026-06-28T16:56:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2583,7 +2583,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Copper Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/copper-huntsville-brocade-velvet-fabric-72-inch): Shop premium copper huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:24Z
+  Updated: 2026-06-28T16:56:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2595,7 +2595,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/blush-huntsville-brocade-velvet-fabric-72-inch): Shop premium blush huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:29Z
+  Updated: 2026-06-28T16:56:12Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2607,7 +2607,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Plum Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/plum-huntsville-brocade-velvet-fabric-72-inch): Shop premium plum huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:30Z
+  Updated: 2026-06-28T16:56:13Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2619,7 +2619,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/navy-huntsville-brocade-velvet-fabric-72-inch): Shop premium navy huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:30Z
+  Updated: 2026-06-28T16:56:13Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2631,7 +2631,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Green Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/green-huntsville-brocade-velvet-fabric-72-inch): Shop premium green huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:31Z
+  Updated: 2026-06-28T16:56:14Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2643,7 +2643,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Red Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/red-huntsville-brocade-velvet-fabric-72-inch): Shop premium red huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:31Z
+  Updated: 2026-06-28T16:56:14Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2655,7 +2655,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Maize Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/maize-huntsville-brocade-velvet-fabric-72-inch): Shop premium maize huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:31Z
+  Updated: 2026-06-28T16:56:14Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2667,7 +2667,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Oyster Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/oyster-huntsville-brocade-velvet-fabric-72-inch): Shop premium oyster huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:32Z
+  Updated: 2026-06-28T16:56:15Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2679,7 +2679,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Sky Blue Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/sky-blue-huntsville-brocade-velvet-fabric-72-inch): Shop premium sky blue huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:32Z
+  Updated: 2026-06-28T16:56:15Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2691,7 +2691,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Silver Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/silver-huntsville-brocade-velvet-fabric-72-inch): Shop premium silver huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:24Z
+  Updated: 2026-06-28T16:56:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2703,7 +2703,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Wine Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/wine-huntsville-brocade-velvet-fabric-72-inch): Shop premium wine huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:24Z
+  Updated: 2026-06-28T16:56:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2715,7 +2715,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Huntsville Brocade Velvet Fabric - 72 Inch](https://1d3898-2.myshopify.com/products/white-huntsville-brocade-velvet-fabric-72-inch): Shop premium white huntsville brocade velvet fabric by the yard. 72 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:24Z
+  Updated: 2026-06-28T16:56:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2727,7 +2727,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/black-riverdale-crushed-velvet-fabric-118-inch): Shop premium black riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2739,7 +2739,7 @@
     Availability: Available
     Price: $1.00 USD
 - [White Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/white-riverdale-crushed-velvet-fabric-118-inch): Shop premium white riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:32Z
+  Updated: 2026-06-28T16:56:16Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2751,7 +2751,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Navy Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/navy-riverdale-crushed-velvet-fabric-118-inch): Shop premium navy riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2763,7 +2763,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Seafoam Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/seafoam-riverdale-crushed-velvet-fabric-118-inch): Shop premium seafoam riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2775,7 +2775,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Rosset Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/rosset-riverdale-crushed-velvet-fabric-118-inch): Shop premium rosset riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2787,7 +2787,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Eggshell Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/eggshell-riverdale-crushed-velvet-fabric-118-inch): Shop premium eggshell riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2799,7 +2799,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Gold Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/gold-riverdale-crushed-velvet-fabric-118-inch): Shop premium gold riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2811,7 +2811,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Maroon Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/maroon-riverdale-crushed-velvet-fabric-118-inch): Shop premium maroon riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2823,7 +2823,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Hunter Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/hunter-riverdale-crushed-velvet-fabric-118-inch): Shop premium hunter riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2835,7 +2835,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Silver Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/silver-riverdale-crushed-velvet-fabric-118-inch): Shop premium silver riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:25Z
+  Updated: 2026-06-28T16:56:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2847,7 +2847,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Antique White Riverdale Crushed Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/antique-white-riverdale-crushed-velvet-fabric-118-inch): Shop premium antique white riverdale crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:32Z
+  Updated: 2026-06-28T16:56:16Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2859,7 +2859,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Black Chenille Soft Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/black-chenille-soft-velvet-fabric-118-inch): Shop premium black chenille soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:26Z
+  Updated: 2026-06-28T16:56:08Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -2871,7 +2871,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Begonia Chenille Soft Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/begonia-chenille-soft-velvet-fabric-118-inch): Shop premium begonia chenille soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:26Z
+  Updated: 2026-06-28T16:56:08Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -2883,7 +2883,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Blush Chenille Soft Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/blush-chenille-soft-velvet-fabric-118-inch): Shop premium blush chenille soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:26Z
+  Updated: 2026-06-28T16:56:08Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -2894,243 +2894,219 @@
   - [Sample 3x3 Inch](https://1d3898-2.myshopify.com/products/blush-chenille-soft-velvet-fabric-118-inch?variant=52349966811417)
     Availability: Available
     Price: $1.00 USD
-- [Burgundy Chenille Soft Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/burgundy-chenille-soft-velvet-fabric-118-inch): Shop premium burgundy chenille soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:26Z
-  Vendor: Fabrics Star
-  Product Type: Chenille Fabric
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHENILLE-BURGUNDY-22-1_1.jpg?v=1757517374
-  - [Cut by the Yard](https://1d3898-2.myshopify.com/products/burgundy-chenille-soft-velvet-fabric-118-inch?variant=52349966844185)
-    Availability: Available
-    Price: $22.00 USD
-  - [Sample 3x3 Inch](https://1d3898-2.myshopify.com/products/burgundy-chenille-soft-velvet-fabric-118-inch?variant=52349966876953)
-    Availability: Available
-    Price: $1.00 USD
-- [Forest Chenille Soft Velvet Fabric - 118 Inch](https://1d3898-2.myshopify.com/products/forest-chenille-soft-velvet-fabric-118-inch): Shop premium forest chenille soft velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-06-18T15:52:26Z
-  Vendor: Fabrics Star
-  Product Type: Chenille Fabric
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHENILLE-FOREST-21-1.jpg?v=1757517376
-  - [Cut by the Yard](https://1d3898-2.myshopify.com/products/forest-chenille-soft-velvet-fabric-118-inch?variant=52349967728921)
-    Availability: Available
-    Price: $22.00 USD
-  - [Sample 3x3 Inch](https://1d3898-2.myshopify.com/products/forest-chenille-soft-velvet-fabric-118-inch?variant=52349967761689)
-    Availability: Available
-    Price: $1.00 USD
-[List Continued](https://1d3898-2.myshopify.com/a/llms-agent/llms.txt?shop=1d3898-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYxMjIwODIwNjEwNSwibGFzdF92YWx1ZSI6IjEwNjEyMjA4MjA2MTA1In0%3D)
+[List Continued](https://1d3898-2.myshopify.com/a/llms-agent/llms.txt?shop=1d3898-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYxMjIwNzQ4NTIwOSwibGFzdF92YWx1ZSI6IjEwNjEyMjA3NDg1MjA5In0%3D)
 
 ## Collections
 
 - [Premium Woven Fabric Online | Buy High Quality Woven Fabric](https://1d3898-2.myshopify.com/collections/woven): Shop premium woven fabrics at Fabrics Star. Discover high-quality woven fabric online and buy the perfect material for your creative projects today!
-  Updated: 2026-05-07T21:59:36Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 1
 - [Buy Sequin Fabric Online | Sequins By The Yard - Fabrics Star](https://1d3898-2.myshopify.com/collections/sequin-fabrics): Shop sequin fabrics online at Fabrics Star. Find dazzling & elegant sequins by the yard for your next project, offering sparkle and style in every design.
-  Updated: 2026-06-16T12:01:00Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 123
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://1d3898-2.myshopify.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2026-06-17T11:14:05Z
+  Updated: 2026-06-28T11:13:22Z
   Total Products: 245
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://1d3898-2.myshopify.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
-  Updated: 2026-06-15T11:13:14Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 120
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://1d3898-2.myshopify.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2026-06-06T11:12:45Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 580
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://1d3898-2.myshopify.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
-  Updated: 2026-06-11T11:13:45Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 119
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard - Fabrics Star](https://1d3898-2.myshopify.com/collections/jacquard-print-fabric): Shop elegant jacquard print fabric at Fabrics Star. Discover unique designs and premium-quality jacquard print materials for your creative projects!
-  Updated: 2026-05-07T23:01:20Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 46
 - [Our Full line of Fabrics](https://1d3898-2.myshopify.com/collections/our-full-line-of-fabrics)
-  Updated: 2026-06-17T11:14:05Z
+  Updated: 2026-06-28T11:13:22Z
   Total Products: 1782
 - [New! Shopify performance sharing is now turned on](https://1d3898-2.myshopify.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-06-17T11:14:05Z
+  Updated: 2026-06-28T11:13:22Z
   Total Products: 1782
 - [110](https://1d3898-2.myshopify.com/collections/110)
-  Updated: 2026-06-17T11:14:05Z
+  Updated: 2026-06-23T11:15:21Z
   Total Products: 873
 - [72](https://1d3898-2.myshopify.com/collections/72)
-  Updated: 2026-06-16T12:01:00Z
+  Updated: 2026-06-28T11:13:22Z
   Total Products: 140
 - [APPPlaza - Best Sellers](https://1d3898-2.myshopify.com/collections/appplaza-best-sellers)
-  Updated: 2026-06-17T11:14:05Z
+  Updated: 2026-06-28T11:13:22Z
   Total Products: 1782
 - [Vails Collection](https://1d3898-2.myshopify.com/collections/vails-collection): Embossed brocade velvet from the Vails Collection — 72" wide, medium-weight 100% polyester. Sold by the yard with $1 sample swatches. Available in 12 colors: Black, Red, Blush, Champagne, Forest, Gold, Ice Blue, Ivory, Navy, Burgundy, Olive, and White.
   Updated: 2026-05-08T01:39:37Z
   Total Products: 12
 - [ANTHIUM Collection](https://1d3898-2.myshopify.com/collections/anthium-tablecloths): All ANTHIUM tablecloths available in multiple colors and sizes.
-  Updated: 2026-05-08T01:39:40Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 7
 - [AQUARIUM Collection](https://1d3898-2.myshopify.com/collections/aquarium-tablecloths)
-  Updated: 2026-05-08T01:39:48Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 6
 - [ATRIUM Collection](https://1d3898-2.myshopify.com/collections/atrium-tablecloths)
-  Updated: 2026-05-08T01:39:48Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 5
 - [AURURA Collection](https://1d3898-2.myshopify.com/collections/aurura-tablecloths)
-  Updated: 2026-05-08T01:39:40Z
+  Updated: 2026-06-24T17:19:16Z
   Total Products: 4
 - [AZALEA Collection](https://1d3898-2.myshopify.com/collections/azalea-tablecloths)
-  Updated: 2026-05-08T01:40:10Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 4
 - [BANGKOK Collection](https://1d3898-2.myshopify.com/collections/bangkok-tablecloths)
-  Updated: 2026-05-05T22:39:33Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 0
 - [BARNES Collection](https://1d3898-2.myshopify.com/collections/barnes-tablecloths)
-  Updated: 2026-05-08T01:39:41Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 6
 - [CARNATION Collection](https://1d3898-2.myshopify.com/collections/carnation-tablecloths)
-  Updated: 2026-05-08T01:39:48Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 4
 - [CATCH Collection](https://1d3898-2.myshopify.com/collections/catch-tablecloths)
-  Updated: 2026-05-08T01:39:41Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 9
 - [CELESTE Collection](https://1d3898-2.myshopify.com/collections/celeste-tablecloths)
-  Updated: 2026-05-05T22:39:35Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 0
 - [COBBLESTONE Collection](https://1d3898-2.myshopify.com/collections/cobblestone-tablecloths)
-  Updated: 2026-05-08T01:39:41Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 7
 - [COLORADO Collection](https://1d3898-2.myshopify.com/collections/colorado-tablecloths)
-  Updated: 2026-05-08T01:39:47Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 10
 - [Corn Collection](https://1d3898-2.myshopify.com/collections/corn-tablecloths)
-  Updated: 2026-05-05T22:40:00Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 0
 - [FLAX Collection](https://1d3898-2.myshopify.com/collections/flax-tablecloths)
-  Updated: 2026-05-05T22:40:00Z
+  Updated: 2026-06-24T17:19:17Z
   Total Products: 0
 - [HARVEST TRAIL Collection](https://1d3898-2.myshopify.com/collections/harvest-trail-tablecloths)
-  Updated: 2026-05-05T22:40:01Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 0
 - [HILLS Collection](https://1d3898-2.myshopify.com/collections/hills-tablecloths)
-  Updated: 2026-05-08T01:39:42Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 5
 - [LADINO Collection](https://1d3898-2.myshopify.com/collections/ladino-tablecloths)
-  Updated: 2026-05-19T11:17:31Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 9
 - [LUXURIOUS Collection](https://1d3898-2.myshopify.com/collections/luxurious-tablecloths)
-  Updated: 2026-05-05T22:40:02Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 0
 - [MARMORE Collection](https://1d3898-2.myshopify.com/collections/marmore-tablecloths)
-  Updated: 2026-05-08T01:39:42Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 8
 - [MATISE Collection](https://1d3898-2.myshopify.com/collections/matise-tablecloths)
-  Updated: 2026-05-08T01:39:42Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 5
 - [MINIRAL Collection](https://1d3898-2.myshopify.com/collections/miniral-tablecloths)
-  Updated: 2026-05-08T01:39:43Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 6
 - [MOBILE Collection](https://1d3898-2.myshopify.com/collections/mobile-tablecloths)
-  Updated: 2026-05-08T01:40:12Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 7
 - [MOWHAK Collection](https://1d3898-2.myshopify.com/collections/mowhak-tablecloths)
-  Updated: 2026-05-08T01:39:43Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 8
 - [MULTI Collection](https://1d3898-2.myshopify.com/collections/multi-tablecloths)
-  Updated: 2026-05-08T01:39:56Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 6
 - [NOBLE Collection](https://1d3898-2.myshopify.com/collections/noble-tablecloths)
-  Updated: 2026-05-08T01:39:43Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 9
 - [Newport 72 Collection](https://1d3898-2.myshopify.com/collections/newport-72-tablecloths)
-  Updated: 2026-06-13T11:12:06Z
+  Updated: 2026-06-24T17:19:18Z
   Total Products: 7
 - [Newport Beach Collection](https://1d3898-2.myshopify.com/collections/newport-beach-tablecloths)
-  Updated: 2026-06-10T11:14:01Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 8
 - [Newport118 Collection](https://1d3898-2.myshopify.com/collections/newport118-tablecloths)
-  Updated: 2026-05-05T22:40:34Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 0
 - [ON THE VINE Collection](https://1d3898-2.myshopify.com/collections/on-the-vine-tablecloths)
-  Updated: 2026-06-06T11:12:45Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 5
 - [RATTLE Collection](https://1d3898-2.myshopify.com/collections/rattle-tablecloths)
-  Updated: 2026-05-08T01:39:51Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 7
 - [REBA Collection](https://1d3898-2.myshopify.com/collections/reba-tablecloths)
-  Updated: 2026-05-08T01:39:44Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 9
 - [RELLA Collection](https://1d3898-2.myshopify.com/collections/rella-tablecloths)
-  Updated: 2026-05-08T01:39:57Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 7
 - [RENE Collection](https://1d3898-2.myshopify.com/collections/rene-tablecloths)
-  Updated: 2026-05-08T01:39:44Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 1
 - [RHONDA Collection](https://1d3898-2.myshopify.com/collections/rhonda-tablecloths)
-  Updated: 2026-05-08T01:39:58Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 14
 - [ROLLS ROYCE Collection](https://1d3898-2.myshopify.com/collections/rolls-royce-tablecloths)
-  Updated: 2026-05-08T01:39:45Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 6
 - [RUSSEL Collection](https://1d3898-2.myshopify.com/collections/russel-tablecloths)
-  Updated: 2026-05-08T01:40:16Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 6
 - [SAPPHIRE Collection](https://1d3898-2.myshopify.com/collections/sapphire-tablecloths)
-  Updated: 2026-05-08T01:39:45Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 5
 - [SHADOW STRIPE Collection](https://1d3898-2.myshopify.com/collections/shadow-stripe-tablecloths)
-  Updated: 2026-05-05T22:41:02Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 0
 - [Shadow Collection](https://1d3898-2.myshopify.com/collections/shadow-tablecloths)
-  Updated: 2026-05-05T22:41:03Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 0
 - [SUPERB Collection](https://1d3898-2.myshopify.com/collections/superb-tablecloths)
-  Updated: 2026-05-08T01:39:45Z
+  Updated: 2026-06-24T17:19:19Z
   Total Products: 8
 - [SUPREME Collection](https://1d3898-2.myshopify.com/collections/supreme-tablecloths)
-  Updated: 2026-05-08T01:39:46Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 13
 - [THAILAND Collection](https://1d3898-2.myshopify.com/collections/thailand-tablecloths)
-  Updated: 2026-05-05T22:41:31Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 0
 - [TIMES AROUND Collection](https://1d3898-2.myshopify.com/collections/times-around-tablecloths)
-  Updated: 2026-05-08T01:39:46Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 5
 - [TIMES SQUARE Collection](https://1d3898-2.myshopify.com/collections/times-square-tablecloths)
-  Updated: 2026-05-19T11:17:31Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 7
 - [TIMES TABLE Collection](https://1d3898-2.myshopify.com/collections/times-table-tablecloths)
-  Updated: 2026-05-08T01:39:58Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 5
 - [Triangle Collection](https://1d3898-2.myshopify.com/collections/triangle-tablecloths)
-  Updated: 2026-05-08T01:39:46Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 15
 - [Tropical Collection](https://1d3898-2.myshopify.com/collections/tropical-tablecloths)
-  Updated: 2026-05-29T11:13:14Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 8
 - [VELUXE Collection](https://1d3898-2.myshopify.com/collections/veluxe-tablecloths)
-  Updated: 2026-06-07T11:14:28Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 18
 - [VELVERY Collection](https://1d3898-2.myshopify.com/collections/velvery-tablecloths)
-  Updated: 2026-05-05T22:41:35Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 0
 - [VINETREE Collection](https://1d3898-2.myshopify.com/collections/vinetree-tablecloths)
-  Updated: 2026-05-08T01:39:47Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 7
 - [WP-GLORY Collection](https://1d3898-2.myshopify.com/collections/wp-glory-tablecloths)
-  Updated: 2026-05-05T22:41:36Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 0
 - [WP-GRACEFUL Collection](https://1d3898-2.myshopify.com/collections/wp-graceful-tablecloths)
-  Updated: 2026-05-19T11:17:31Z
+  Updated: 2026-06-24T17:19:20Z
   Total Products: 4
 - [Velvet Fabrics](https://1d3898-2.myshopify.com/collections/velvet-fabrics-1): Premium velvet fabric by the yard — soft, plush, and rich. Perfect for upholstery, drapery, tablecloths, and luxury home decor. Includes brocade velvet, crushed velvet, chenille, and stretch velvet.
-  Updated: 2026-06-17T11:14:05Z
+  Updated: 2026-06-28T11:13:22Z
   Total Products: 368
 - [Jacquard Fabrics](https://1d3898-2.myshopify.com/collections/jacquard-fabrics): Jacquard fabric by the yard — woven patterns, textured feel, ideal for upholstery, drapery, and statement home decor.
-  Updated: 2026-06-06T11:12:45Z
+  Updated: 2026-06-23T11:15:21Z
   Total Products: 626
 - [Lace &amp; Mesh Fabrics](https://1d3898-2.myshopify.com/collections/lace-amp-mesh-fabrics): Embroidered lace, mesh, and sheer fabrics by the yard. Perfect for veils, gowns, table overlays, and decorative accents.
   Updated: 2026-06-15T11:13:14Z
   Total Products: 185
 - [Sequin Fabrics](https://1d3898-2.myshopify.com/collections/sequin-fabrics-1): Sequin fabric by the yard — sparkling sequin mesh, reversible sequins, and stretch sequin. Perfect for stage costumes, evening wear, and decorative arts.
-  Updated: 2026-06-16T12:01:00Z
+  Updated: 2026-06-19T11:15:44Z
   Total Products: 72
 - [Digital Print Fabrics](https://1d3898-2.myshopify.com/collections/digital-print-fabrics): Digital print fabric by the yard — floral, abstract, and pattern prints with a cotton hand. Ideal for home decor, drapery, and craft projects.
-  Updated: 2026-06-11T11:13:45Z
+  Updated: 2026-06-20T11:13:46Z
   Total Products: 119
 - [Brocade Velvet Fabrics](https://1d3898-2.myshopify.com/collections/brocade-velvet-fabrics): Embossed brocade velvet by the yard — heavyweight, soft, and rich. Available in 12+ colors per family. Perfect for upholstery, drapery, and luxury home decor.
   Updated: 2026-05-08T01:40:17Z
@@ -3525,6 +3501,18 @@
     Author: User
   - [Comparing Plant-Based Fabrics for the Eco-Conscious Consumer](https://1d3898-2.myshopify.com/blogs/news/comparing-plant-based-fabrics-for-the-eco-conscious-consumer): Comparing Plant-Based Fabrics for the Eco-Conscious Consumer
     Updated: 2026-06-17T02:02:11Z
+    Author: User
+  - [Choosing the Right Fabrics for Seasonal Decor Transformation](https://1d3898-2.myshopify.com/blogs/news/choosing-the-right-fabrics-for-seasonal-decor-transformation): Choosing the Right Fabrics for Seasonal Decor Transformation
+    Updated: 2026-06-21T00:09:40Z
+    Author: User
+  - [Everyday Challenges with Fabrics and Practical Fixes](https://1d3898-2.myshopify.com/blogs/news/everyday-challenges-with-fabrics-and-practical-fixes): Everyday Challenges with Fabrics and Practical Fixes
+    Updated: 2026-06-22T02:27:17Z
+    Author: User
+  - [How Textural Fabrics Elevate Interior Spaces Beautifully](https://1d3898-2.myshopify.com/blogs/news/how-textural-fabrics-elevate-interior-spaces-beautifully): How Textural Fabrics Elevate Interior Spaces Beautifully
+    Updated: 2026-06-24T02:11:02Z
+    Author: User
+  - [The Complete Guide to Layering Fabrics for Fall Warmth](https://1d3898-2.myshopify.com/blogs/news/the-complete-guide-to-layering-fabrics-for-fall-warmth): The Complete Guide to Layering Fabrics for Fall Warmth
+    Updated: 2026-06-28T00:08:05Z
     Author: User
 
 ## Store Pages
