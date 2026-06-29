@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-12T04:06:04Z
 - Contact Email: hello@harroman.com
-- Updated At: 2026-06-22T00:00:36.951Z
+- Updated At: 2026-06-29T00:00:38.800Z
 
 ## Products
 
 - [HARROMAN Shave Stick – 2-in-1 Facial Cleansing & Shaving Soap](https://www.harroman.com/products/harroman-shave-stick-for-cuts-prevent-razor-burn-nicks-ingrown-hairs): Discover the HARROMAN shave stick: softens beard roots, protects skin, moisturizes & soothes. Perfect for travel with creamy, convenient 2-in-1 formula.
-  Updated: 2026-06-21T12:28:49Z
+  Updated: 2026-06-28T16:52:07Z
   Vendor: Harroman
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/Image_20260618151925_152_1.png?v=1781767680
     Price: $39.00 USD
 - [Harroman 5 Blade Razor – Platinum-Coated Precision Shaver](https://www.harroman.com/products/harroman-razor-5-blade-razor-platinum-coated-razor-premium-shaving-with-blade): Experience smooth shaving with the Harroman 5 blade razor featuring platinum-coated blades for ultimate precision and comfort.
-  Updated: 2026-06-14T04:35:17Z
+  Updated: 2026-06-28T15:35:26Z
   Vendor: HARROMAN
   Product Type: 
   Availability: Available
@@ -39,16 +39,16 @@
 ## Collections
 
 - [home page](https://www.harroman.com/collections/frontpage)
-  Updated: 2026-06-21T11:21:00Z
+  Updated: 2026-06-28T11:19:41Z
   Total Products: 2
 - [APPPlaza - Best Sellers](https://www.harroman.com/collections/appplaza-best-sellers)
-  Updated: 2026-06-21T11:21:00Z
+  Updated: 2026-06-28T11:19:41Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.harroman.com/collections/avada-best-sellers)
-  Updated: 2026-06-21T11:21:00Z
+  Updated: 2026-06-28T11:19:41Z
   Total Products: 2
 - [All item](https://www.harroman.com/collections/all-item)
-  Updated: 2026-06-21T11:21:00Z
+  Updated: 2026-06-28T11:19:41Z
   Total Products: 2
 
 ## Blogs
@@ -364,6 +364,27 @@
     Author: harroman
   - [Shaving Techniques that Suit Every Facial Hair Type](https://www.harroman.com/blogs/blog-post/shaving-techniques-that-suit-every-facial-hair-type): Shaving Techniques that Suit Every Facial Hair Type
     Updated: 2026-06-21T17:29:53Z
+    Author: harroman
+  - [The Evolution of Razors and Shave Sticks Transforming Men’s Shaving](https://www.harroman.com/blogs/blog-post/the-evolution-of-razors-and-shave-sticks-transforming-men-s-shaving): The Evolution of Razors and Shave Sticks Transforming Men’s Shaving
+    Updated: 2026-06-23T17:10:24Z
+    Author: harroman
+  - [How to Choose the Best Razor for a Perfect Shaving Experience](https://www.harroman.com/blogs/blog-post/how-to-choose-the-best-razor-for-a-perfect-shaving-experience): How to Choose the Best Razor for a Perfect Shaving Experience
+    Updated: 2026-06-23T17:10:27Z
+    Author: harroman
+  - [Shaving Solution Guide Solving Razor Burn and Skin Irritation](https://www.harroman.com/blogs/blog-post/shaving-solution-guide-solving-razor-burn-and-skin-irritation): Shaving Solution Guide Solving Razor Burn and Skin Irritation
+    Updated: 2026-06-24T17:08:52Z
+    Author: harroman
+  - [Understanding Shave Bars Why They Are Essential in Your Routine](https://www.harroman.com/blogs/blog-post/understanding-shave-bars-why-they-are-essential-in-your-routine): Understanding Shave Bars Why They Are Essential in Your Routine
+    Updated: 2026-06-25T17:05:03Z
+    Author: harroman
+  - [Step-by-Step Guide to Using a Shave Stick for Unmatched Smoothness](https://www.harroman.com/blogs/blog-post/step-by-step-guide-to-using-a-shave-stick-for-unmatched-smoothness): Step-by-Step Guide to Using a Shave Stick for Unmatched Smoothness
+    Updated: 2026-06-26T17:25:56Z
+    Author: harroman
+  - [What Makes a Good Razor A Comparative Breakdown for Optimal Shaving](https://www.harroman.com/blogs/blog-post/what-makes-a-good-razor-a-comparative-breakdown-for-optimal-shaving): What Makes a Good Razor A Comparative Breakdown for Optimal Shaving
+    Updated: 2026-06-27T17:23:21Z
+    Author: harroman
+  - [The History Behind Your Shaving Tools Blades Shave Bars and More](https://www.harroman.com/blogs/blog-post/the-history-behind-your-shaving-tools-blades-shave-bars-and-more): The History Behind Your Shaving Tools Blades Shave Bars and More
+    Updated: 2026-06-28T17:22:41Z
     Author: harroman
 
 ## Store Pages
