@@ -6,12 +6,12 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-10-28T12:54:56Z
 - Contact Email: info@evacozy.com
-- Updated At: 2026-06-22T00:00:43.263Z
+- Updated At: 2026-06-29T13:31:02.667Z
 
 ## Products
 
 - [Plush Winter Slippers Deep Blue EVA Sole Synthetic Fur | EvaCozy](https://evacozy.com/products/plush-winter-slippers): Ultra-plush winter slippers with synthetic fur interior, memory foam footbed & waterproof EVA anti-slip sole. Green, Black, Deep Blue & Beige. Sizes 36–45.
-  Updated: 2026-06-21T13:15:08Z
+  Updated: 2026-06-29T13:10:33Z
   Vendor: EvaCozy
   Product Type: Plush Winter Slippers
   Availability: Available
@@ -97,7 +97,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/white-product-shot.png?v=1769459623
     Price: $36.99 USD
 - [Plush Platform Slippers Waterproof Base Memory Foam Fur | EvaCozy](https://evacozy.com/products/plush-platform-slippers): Plush platform slippers with soft fur upper, waterproof platform base & memory foam footbed. Khaki, Gray, Black & Brown. Anti-slip sole. Sizes 36–45.
-  Updated: 2026-06-21T13:13:43Z
+  Updated: 2026-06-29T13:10:33Z
   Vendor: EvaCozy
   Product Type: Plush Platform Slippers
   Availability: Available
@@ -183,7 +183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-platform-slippers-canada-evacozy-womens-house-slippers-4667049.webp?v=1769000440
     Price: $34.99 USD
 - [Non-Slip House Slippers Enclosed Heel Memory Foam Coffee | EvaCozy](https://evacozy.com/products/non-slip-house-slippers): Non-slip house slippers with high-traction rubber sole, enclosed heel design & memory foam footbed. Beige, Coffee, Khaki & Black. Sizes 36–45.
-  Updated: 2026-06-21T13:10:15Z
+  Updated: 2026-06-29T13:10:34Z
   Vendor: EvaCozy
   Product Type: Non-Slip House Slippers
   Availability: Available
@@ -269,7 +269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/plush-winter-slippers-canada-evacozy-non-slip-house-slippers-3366838.webp?v=1764621706
     Price: $39.99 USD
 - [Winter Plush Slippers Gift Box Orange Green Navy 6 Colors | EvaCozy](https://evacozy.com/products/winter-plush-slippers-evacozy-warm): Winter plush slippers with thick fur lining, gift box packaging & moisture-resistant EVA sole. 6 colors incl. Orange, Green & Navy. Sizes 36–49.
-  Updated: 2026-06-21T13:05:39Z
+  Updated: 2026-06-29T13:10:34Z
   Vendor: EvaCozy
   Product Type: Winter Plush Slippers
   Availability: Available
@@ -443,7 +443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/evacozy-winter-plush-slippers-2482666.webp?v=1764621722
     Price: $39.99 USD
 - [Fluffy Winter Slippers Extra-Thick Insulation Chocolate Grey | EvaCozy](https://evacozy.com/products/fluffy-winter-slippers): Extra-thick fluffy winter slippers with superior cold-climate insulation & cushioned anti-slip sole. Black, Beige, Chocolate & Dark Grey. Sizes 36–45.
-  Updated: 2026-06-21T13:02:41Z
+  Updated: 2026-06-29T13:10:34Z
   Vendor: EvaCozy
   Product Type: Fluffy Winter Slippers
   Availability: Available
@@ -529,7 +529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/fluffy-winter-slippers-evacozy-warm-house-slippers-5350288.webp?v=1764621735
     Price: $34.99 USD
 - [Women's Suede Fleece Slippers Faux Fur Lining Pink Khaki | EvaCozy](https://evacozy.com/products/best-winter-slippers-for-women): Women's luxury suede fleece slippers with white faux fur lining & cushioned footbed. Pink, Dark Khaki, Gray, Khaki & Black. Sizes 36–45. Non-slip sole.
-  Updated: 2026-06-21T23:50:51Z
+  Updated: 2026-06-29T13:10:34Z
   Vendor: EvaCozy
   Product Type: Fleece House Slippers
   Availability: Available
@@ -635,7 +635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/best-winter-slippers-for-women-soft-luxury-fleece-house-black-36-474.webp?v=1768742706
     Price: $37.49 USD
 - [Women's Fluffy Slippers Cloud-Like Fur Memory Foam 5 Colors | EvaCozy](https://evacozy.com/products/womens-fluffy-slippers-evacozy-warm): Women's fluffy slippers with ultra-plush cloud-like fur texture, memory foam comfort & feminine design. Black, Grey, Brown, Khaki & Beige Grey. Sizes 36–41.
-  Updated: 2026-06-21T13:01:54Z
+  Updated: 2026-06-29T13:10:34Z
   Vendor: EvaCozy
   Product Type: Fluffy Slippers
   Availability: Available
@@ -701,7 +701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/womens-fluffy-slippers-evacozy-warm-winter-shoes-1998501.webp?v=1764621773
     Price: $29.99 USD
 - [Cotton Winter Slippers Hypoallergenic Moisture-Wicking | EvaCozy](https://evacozy.com/products/cotton-winter-slippers): Natural cotton winter slippers with moisture-wicking breathable fabric & hypoallergenic lining for sensitive skin. Anti-slip sole. Khaki, Black & Brown.
-  Updated: 2026-06-21T13:01:10Z
+  Updated: 2026-06-29T13:10:34Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -743,7 +743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/evacozy-cotton-slippers-winter-plush-boots-for-women-men-2528247.webp?v=1764653277
     Price: $39.99 USD
 - [Fur Lined Chelsea Boots Army Green Memory Foam Elastic Panel | EvaCozy](https://evacozy.com/products/fur-lined-chelsea-boots): Fur-lined Chelsea boots with plush fur interior, memory foam insole & elastic side panels. Brown, Army Green & Black ankle boots. Sizes 36–41.
-  Updated: 2026-06-21T12:57:39Z
+  Updated: 2026-06-29T13:10:35Z
   Vendor: EvaCozy
   Product Type: Fur Lined Chelsea Boots
   Availability: Available
@@ -821,7 +821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/evacozy-chelsea-ankle-winter-boots-plush-fur-lined-warm-slippers-for-women-8152835.webp?v=1764621797
     Price: $47.99 USD
 - [Waterproof Furry Mules All-Weather Cozy Fur Interior | EvaCozy](https://evacozy.com/products/waterproof-furry-mules): Waterproof furry mules with protective outer shell, cozy fur interior & backless slip-on design. All-weather rain & snow protection. Khaki & White.
-  Updated: 2026-06-21T12:51:49Z
+  Updated: 2026-06-29T13:10:35Z
   Vendor: EvaCozy
   Product Type: Women’s Mules & Slippers
   Availability: Available
@@ -847,7 +847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S7ddf860089224400adc1557c50707866X.jpg?v=1764653117
     Price: $39.99 USD
 - [Winter Plush Platform Mules Fur Interior Memory Foam Brown | EvaCozy](https://evacozy.com/products/winter-plush-platform-mules): Winter plush platform mules with soft fur interior, memory foam footbed & waterproof anti-slip sole. Black, Khaki & Brown backless design. Sizes 36–43.
-  Updated: 2026-06-21T12:48:50Z
+  Updated: 2026-06-29T13:10:35Z
   Vendor: EvaCozy
   Product Type: Winter Plush Platform
   Availability: Available
@@ -949,7 +949,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S10937ab4fea34c318c07a65f76088e8cB.jpg?v=1764652798
     Price: $49.99 USD
 - [Rhinestone Platform Slippers Crystal Embellished Camel | EvaCozy](https://evacozy.com/products/rhinestone-platform-slippers): Rhinestone platform slippers with sparkling crystal embellishments, memory foam footbed & anti-slip platform sole. Camel, Black & Khaki. Sizes 36–43.
-  Updated: 2026-06-21T12:45:26Z
+  Updated: 2026-06-29T13:10:35Z
   Vendor: EvaCozy
   Product Type: Women’s Winter Slippers
   Availability: Available
@@ -1051,7 +1051,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S9010bd72e4a041a7a52bd341b506a25aS.jpg?v=1764652508
     Price: $49.99 USD
 - [Men's EVA Summer Slippers Waterproof Breathable Gray | EvaCozy](https://evacozy.com/products/mens-eva-summer-slippers): Men's waterproof EVA summer slippers with breathable ventilated construction & anti-slip sole. Black, White & Gray. Big sizes 40–49 (US 6.5–11.5).
-  Updated: 2026-06-21T12:42:31Z
+  Updated: 2026-06-29T13:10:35Z
   Vendor: EvaCozy
   Product Type: Summer Slippers
   Availability: Available
@@ -1117,7 +1117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sd0d243e1cff5494eb8e49f6a4a5f421bP_e3d72721-3d66-45f4-88c8-6419812e6d6d.png?v=1764681108
     Price: $29.99 USD
 - [Unisex Non-Slip Couple Slippers Matching Set His Hers | EvaCozy](https://evacozy.com/products/unisex-non-slip-couple-slippers): Unisex non-slip couple slippers in coordinating matching set for his & hers. Anti-slip sole, soft cushioning. White & Black. Sizes 36–45. From $24.99.
-  Updated: 2026-06-21T12:41:41Z
+  Updated: 2026-06-29T13:10:35Z
   Vendor: EvaCozy
   Product Type: Summer Slippers
   Availability: Available
@@ -1163,7 +1163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sbb765c15c24a4b45a0a1cba3952cb452B_29809b60-90fe-4b49-be31-bd6cd0642196.png?v=1764684413
     Price: $24.99 USD
 - [Non-Slip EVA Summer Slippers Pool Beach Safety Grip | EvaCozy](https://evacozy.com/products/non-slip-eva-summer-slippers): Non-slip EVA summer slippers with superior grip traction & textured anti-slip sole for pool, beach & bathroom safety. White, Black & Khaki. Sizes 36–45.
-  Updated: 2026-06-21T12:37:27Z
+  Updated: 2026-06-29T13:10:36Z
   Vendor: EvaCozy
   Product Type: Summer Slippers
   Availability: Available
@@ -1229,7 +1229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S8135bbfbeb4f41d39afbc3548ec48eecI.png?v=1764685402
     Price: $29.99 USD
 - [Winter Cushioned Slippers Memory Foam 8 Colors Burgundy | EvaCozy](https://evacozy.com/products/winter-cushioned-slippers): Winter cushioned slippers with thick memory foam, shock-absorbing layers & pressure-relieving padding. 8 colors incl. Burgundy & Green. Sizes 36–45.
-  Updated: 2026-06-21T12:33:07Z
+  Updated: 2026-06-29T13:10:36Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -1395,7 +1395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf1bfa1c541af491b9d9c3a9927a394b8k.jpg?v=1768999965
     Price: $39.99 USD
 - [Plush Cotton Winter Slippers Chocolate Natural Breathable | EvaCozy](https://evacozy.com/products/plush-cotton-winter-slippers): Plush cotton winter slippers with ultra-soft natural cotton interior & temperature-regulating breathable comfort. Chocolate, Black & Khaki. Sizes 36–41.
-  Updated: 2026-06-21T12:31:05Z
+  Updated: 2026-06-29T13:10:36Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -1437,7 +1437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sb00871c548d6450a8491de36990e10baR.jpg?v=1764823886
     Price: $39.99 USD
 - [Height Increasing Beach Slippers Hidden 2-3 Inch Platform | EvaCozy](https://evacozy.com/products/height-increasing-beach-slippers): Beach slippers with hidden 2–3 inch height-boosting platform & water-friendly anti-slip sole. Light Green, Beige, Pink, White & Black. Sizes 35–40.
-  Updated: 2026-06-21T12:25:42Z
+  Updated: 2026-06-29T13:10:36Z
   Vendor: EvaCozy
   Product Type: Summer Slippers
   Availability: Available
@@ -1503,7 +1503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sa8e369231d664daebedb6a01a265c222Z_f87c4c24-0eac-46b2-983f-17517e631f99.jpg?v=1765609319
     Price: $29.99 USD
 - [Men's Toe-Cap Sandals Impact Protection Rugged Sole | EvaCozy](https://evacozy.com/products/protective-toe-cap-sandals-for-men): Men's protective toe-cap sandals with reinforced impact-resistant cap, ergonomic arch support & rugged anti-slip sole. Green, Black, Dark Khaki, Blue.
-  Updated: 2026-06-21T12:24:30Z
+  Updated: 2026-06-29T13:10:36Z
   Vendor: EvaCozy
   Product Type: Summer Slippers
   Availability: Available
@@ -1573,7 +1573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S117dd7c615774d0684bc4e29fef6197c0.jpg?v=1765630182
     Price: $29.99 USD
 - [Men's EVA Sandals Arch Support Contoured Footbed Anti-Slip | EvaCozy](https://evacozy.com/products/mens-eva-sandals): Men's EVA open sandals with contoured arch-support footbed & anti-slip rubber sole. Black, White & Khaki. Beach, gym & everyday. Sizes 38–45.
-  Updated: 2026-06-21T12:17:31Z
+  Updated: 2026-06-29T13:10:36Z
   Vendor: EvaCozy
   Product Type: Summer Slippers
   Availability: Available
@@ -1627,7 +1627,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S4c83b490f99946f9abf48551e0a0ee1bn.jpg?v=1769001682
     Price: $29.99 USD
 - [Fur-Lined Waterproof EVA Clogs 6 Colors Pink Green Winter | EvaCozy](https://evacozy.com/products/warm-fur-lined-winter-slippers): Fur-lined waterproof EVA closed-toe clogs in 6 colors incl. Pink & Green. Anti-slip sole for indoor & outdoor winter wear. Unisex sizes 36–45.
-  Updated: 2026-06-21T21:22:05Z
+  Updated: 2026-06-29T13:10:37Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -1753,7 +1753,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sccb326672c664d4d80dfa9e39363886fO.jpg?v=1765632647
     Price: $39.99 USD
 - [Men's Waterproof Fur-Lined Slippers Blue Half-Slide US UK EU | EvaCozy](https://evacozy.com/products/mens-waterproof-slippers-winter): Men's waterproof fur-lined half-slide slippers with anti-slip sole. Blue, Black & White. US/UK/EU sizing. On  $44.99. Sizes 38–47.
-  Updated: 2026-06-21T21:20:26Z
+  Updated: 2026-06-29T13:10:37Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -1807,7 +1807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S37e8cc29629f472f8b6baef139763ec0C.jpg?v=1765633465
     Price: $44.99 USD
 - [Matching Couple Slippers Winter Gift Valentine Anniversary | EvaCozy](https://evacozy.com/products/couple-slippers-winter-matching): Matching winter couple slippers gift-boxed for Valentine's & anniversaries. His-and-hers in Black, Blue Gray, Brown & Beige White. Sizes 36–49.
-  Updated: 2026-06-21T17:38:21Z
+  Updated: 2026-06-29T13:10:37Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -1925,7 +1925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S7a877e1e6a7647a096b3dfeb13732182P.jpg?v=1765634620
     Price: $39.99 USD
 - [Men's Garden Clogs Camouflage Waterproof Yard Work Outdoor | EvaCozy](https://evacozy.com/products/mens-garden-clogs-outdoor): Men's waterproof garden clogs with camouflage pattern & easy-clean sole. Gray Blue, Gray Red, Gray Orange. Sizes 40–47 (US 7.5–11.5). Yard & camping.
-  Updated: 2026-06-21T17:33:13Z
+  Updated: 2026-06-29T13:10:37Z
   Vendor: EvaCozy
   Product Type: Summer Slippers
   Availability: Available
@@ -2027,7 +2027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sd8ce49cf8ddf4f9f9f50c10e64e18e84f.jpg?v=1765639964
     Price: $29.99 USD
 - [Men's Beach Flip Flops 6 Colors Breathable Up to Size 47 | EvaCozy](https://evacozy.com/products/mens-beach-flip-flops-big-size): Men's beach flip flops with breathable ventilation & cushioned footbed. Flip flop in EvaCozy. 6 colors incl. Green & Red. Sizes 40–47 (US 14).
-  Updated: 2026-06-21T17:29:04Z
+  Updated: 2026-06-29T13:10:37Z
   Vendor: EvaCozy
   Product Type: Summer Slippers
   Availability: Available
@@ -2225,7 +2225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S57f262542cdc4d2bac164e75b98322e6p.jpg?v=1765641393
     Price: $24.99 USD
 - [Men's Premium Memory Foam House Slippers Hardwood Stairs | EvaCozy](https://evacozy.com/products/mens-memory-foam-house-slippers): Men's premium memory foam slippers with pressure-relief insole & rubber outsole for hardwood, tile & stairs. Black & Gray. Sizes 40–49 (US 8–11.5).
-  Updated: 2026-06-21T17:25:07Z
+  Updated: 2026-06-29T13:10:37Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2271,7 +2271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sc947aaa0a7e0445aa76a51bbcf1045d4A_18d2fdc8-ce6d-4a44-a313-ccf321da0f40.jpg?v=1769002055
     Price: $39.99 USD
 - [Women's Faux Fur Exterior Ankle Boot Platform Slippers | EvaCozy](https://evacozy.com/products/womens-fluffy-platform-slippers): Women's fluffy platform ankle boot slippers with faux fur exterior & fur-lined interior. Fashion-forward double-fur design. Sizes 36–45. $39.99.
-  Updated: 2026-06-21T17:13:31Z
+  Updated: 2026-06-29T13:10:38Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2337,7 +2337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Se62bde09bad745d1844622debce7b217Y.jpg?v=1765979803
     Price: $39.99 USD
 - [Women's Waterproof Furry Clogs Metal Buckle Winter Mules | EvaCozy](https://evacozy.com/products/waterproof-furry-clogs-women): Women's waterproof furry clogs with designer metal buckle & fur lining. Clog silhouette in EvaCozy. Khaki, Black & White. Sizes 36–41.
-  Updated: 2026-06-21T17:09:58Z
+  Updated: 2026-06-29T13:10:38Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2379,7 +2379,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S46f59aa9d1b9448f8b5474e5af49e31bV.jpg?v=1766306235
     Price: $39.99 USD
 - [Non-Slip Chef Shoes Oil-Resistant Velvet Lining Khaki Black | EvaCozy](https://evacozy.com/products/non-slip-chef-shoes): Unisex non-slip chef shoes with oil-resistant EVA, warm velvet lining & easy-clean design. Khaki & Black. Sizes 36–47 (US 4.5–11). Men & women.
-  Updated: 2026-06-21T17:05:48Z
+  Updated: 2026-06-29T13:10:38Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2433,7 +2433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S41e7416c6ea041ea86857de46dd34302M.jpg?v=1766306111
     Price: $39.99 USD
 - [Fleece-Lined Waterproof Shoes Dog Walking Couples Unisex | EvaCozy](https://evacozy.com/products/fleece-lined-waterproof-shoes): Fleece-lined waterproof shoes for men & women. Breathable insulation, non-slip sole. Perfect for dog walking & couples. White & Black. Sizes 36–45.
-  Updated: 2026-06-21T17:02:43Z
+  Updated: 2026-06-29T13:10:38Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2479,7 +2479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sf9868a1a19664b078cad47601bcfcbd2f.jpg?v=1766305947
     Price: $49.99 USD
 - [Women's Fluffy Faux Fur Platform Ankle Boot Slippers | EvaCozy](https://evacozy.com/products/womens-fluffy-platform-slippers-winter-ankle-boot): Women's fluffy faux fur platform slippers with ankle boot silhouette, contoured footbed & non-slip base. Khaki, Brown & Black. Sizes 36–41.
-  Updated: 2026-06-21T17:00:43Z
+  Updated: 2026-06-29T13:10:38Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2521,7 +2521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S4112f7364c27490b922614fed668473fB.jpg?v=1766291370
     Price: $49.99 USD
 - [Waterproof Winter Slippers Deep-Tread EVA Sole Icy Walkways | EvaCozy](https://evacozy.com/products/waterproof-slippers-thick-sole-winter-plush-indoor-outdoor): Waterproof winter slippers with extra-thick EVA sole & deep-tread grip for icy walkways and snow. Snow-climate slipper in EvaCozy. Sizes 36–45.
-  Updated: 2026-06-21T16:56:07Z
+  Updated: 2026-06-29T13:10:39Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2567,7 +2567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S362ae44aa1fb43428546f29a1f545a2al.jpg?v=1769002723
     Price: $37.99 USD
 - [Chunky Platform Slippers Waterproof Fleece EVA  | EvaCozy](https://evacozy.com/products/chunky-platform-slippers): Chunky platform slippers with waterproof fleece lining & EVA sole. On  from $49.99. Women's sizes 36–41 only. Black & White. Indoor-outdoor.
-  Updated: 2026-06-21T16:52:33Z
+  Updated: 2026-06-29T13:10:39Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2597,7 +2597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S6a59cae16c854b40b3874a10d7dc0dacC_a8396609-4a5b-4a00-99eb-13c601caec30.jpg?v=1766309147
     Price: $37.49 USD
 - [Women's Furry Slippers Orange Yellow Pink Memory Foam | EvaCozy](https://evacozy.com/products/women-winter-furry-slippers-warm-fluffy): Women's winter furry slippers with memory foam footbed & non-slip sole. Exclusive Orange & Yellow slippers in EvaCozy. 5 vivid colors. Sizes 36–45.
-  Updated: 2026-06-21T16:48:22Z
+  Updated: 2026-06-29T13:10:39Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2703,7 +2703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S524e91ec0641430d8aa505a574eeb954W.jpg?v=1766582657
     Price: $39.99 USD
 - [Women's Waterproof Fleece Cotton Slippers Reinforced Toe Cap | EvaCozy](https://evacozy.com/products/women-winter-cotton-slippers-waterproof-fleece): Women's waterproof cotton slippers with fleece lining & reinforced toe cap. Toe-cap slipper in EvaCozy. Khaki, Black & Brown. Sizes 36–45.
-  Updated: 2026-06-21T16:43:13Z
+  Updated: 2026-06-29T13:10:39Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2769,7 +2769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S8bb54acf7c594cc5b559afbc35b0b93ez.jpg?v=1767366162
     Price: $39.99 USD
 - [Unisex Waterproof Platform Slippers Couples Gift 9 Styles | EvaCozy](https://evacozy.com/products/women-men-winter-slippers): Unisex waterproof platform slippers for couples with plush lining & non-slip rubber sole. 9 style variants in Black, White & Brown. Sizes 36–45.
-  Updated: 2026-06-21T16:37:52Z
+  Updated: 2026-06-29T13:10:39Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -2955,7 +2955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S6ac8dc32a88648959e01d90ed590d9115.jpg?v=1766586914
     Price: $39.99 USD
 - [Platform Winter Slippers Tire Outsole Hairy Cotton Lining | EvaCozy](https://evacozy.com/products/best-warm-winter-slippers-platform-anti-slip): Warm platform winter slippers with exclusive tire outsole, height-boosting sole & plush hairy cotton lining. Black, Beige & Khaki. Sizes 36–45.
-  Updated: 2026-06-21T16:36:30Z
+  Updated: 2026-06-29T13:10:40Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -3021,7 +3021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/Sab9e22e99a8541a5bef56580d635e03au.jpg?v=1766588785
     Price: $49.99 USD
 - [Men's Waterproof Chef Shoes Anti-Slip Kitchen Work EU 39-46 | EvaCozy](https://evacozy.com/products/waterproof-chef-shoes-men-anti-slip-kitchen-footwear): Men's waterproof chef shoes with anti-slip EVA sole for greasy floors & warm cotton lining. Professional kitchen work shoe in EvaCozy. Sizes 39–46.
-  Updated: 2026-06-21T16:30:14Z
+  Updated: 2026-06-29T13:10:40Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -3059,7 +3059,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S67ad53208576464a81dd28a9b3ce2c900.jpg?v=1766646351
     Price: $39.99 USD
 - [Waterproof Winter Slippers Memory Foam EVA Unisex Couples | EvaCozy](https://evacozy.com/products/waterproof-winter-slippers): Waterproof winter slippers with memory foam EVA sole & plush cotton lining. Waterproof comfort in EvaCozy. Unisex. Beige & Black. Sizes 36–45.
-  Updated: 2026-06-21T16:19:51Z
+  Updated: 2026-06-29T13:10:40Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -3109,22 +3109,22 @@
 ## Collections
 
 - [Cozy Comfort Platform and Winter Slippers Collection](https://evacozy.com/collections/winter-slippers): EvaCozy Cozy Comfort Platform and Winter Slippers feature soft fleece designs and stylish platform looks perfect for warm winter slippers indoors and out.
-  Updated: 2026-06-20T13:02:28Z
-  Total Products: 74
+  Updated: 2026-06-29T13:10:33Z
+  Total Products: 77
 - [Best  Slippers | Top-Rated Platform & Seasonal Styles - EvaCozy](https://evacozy.com/collections/best--slippers): Shop customer-favorite slippers! Plush platform styles, winter warmth, and summer comfort. Thousands of 5-star reviews. Find your perfect pair!
-  Updated: 2026-06-20T13:57:13Z
-  Total Products: 140
+  Updated: 2026-06-29T13:10:33Z
+  Total Products: 143
 - [Comfy Platform Flip Flops for Everyday Summer Style](https://evacozy.com/collections/summer-slippers): EvaCozy offers comfy platform flip flops and summer slippers for men and women, featuring lightweight non-slip designs and cozy summer slippers.
-  Updated: 2026-06-20T13:57:13Z
+  Updated: 2026-06-29T13:10:33Z
   Total Products: 63
 - [Slippers On  - Premium Comfort at  Prices | EvaCozy](https://evacozy.com/collections/on-): Shop slippers on  at EvaCozy. Incredible deals on memory foam, waterproof, and luxury slippers. Premium comfort at unbeatable prices.
-  Updated: 2026-06-17T15:49:41Z
+  Updated: 2026-06-29T13:10:33Z
   Total Products: 14
 - [Slippers](https://evacozy.com/collections/slippers): Discover slippers for every season at EvaCozy. Breathable summer styles and warm winter designs — year-round comfort for indoors and out.
-  Updated: 2026-06-20T13:04:01Z
-  Total Products: 91
+  Updated: 2026-06-29T13:10:33Z
+  Total Products: 94
 - [Best EVA Slippers Special Offers & Deals – EvaCozy](https://evacozy.com/collections/special-offers): Shop EvaCozy's best EVA slipper deals — anti-slip, soft-sole comfort footwear at special prices. Limited-time offers on top-rated styles.
-  Updated: 2026-06-17T15:49:42Z
+  Updated: 2026-06-29T13:10:33Z
   Total Products: 14
 
 ## Blogs
@@ -3242,6 +3242,10 @@
     Updated: 2026-06-16T12:00:10Z
     Author: EvaCozy
     Tags: breathable materials, cooling slippers, EVA slippers, heat relief, hot weather, June 2026, moisture management, summer comfort, summer slippers, temperature control
+  - [Travel-Friendly Slippers | Packable Comfort for Summer Vacations](https://evacozy.com/blogs/slipper-news-blog/travel-friendly-slippers-packable-comfort-for-summer-vacations): Travel-Friendly Slippers | Packable Comfort for Summer Vacations
+    Updated: 2026-06-23T12:00:06Z
+    Author: EvaCozy
+    Tags: beach vacation, June 2026, lightweight footwear, packable slippers, packing guide, summer vacation, travel comfort, travel slippers, travel tips, vacation essentials
   - [Slippers for Arthritis 2026 | Joint Pain Support & Comfort](https://evacozy.com/blogs/slipper-news-blog/best-slippers-for-arthritis-and-joint-pain-support-comfort-guide-2026): Slippers for Arthritis 2026 | Joint Pain Support & Comfort
     Updated: 2026-05-15T06:52:36Z
     Author: EvaCozy
@@ -3315,7 +3319,7 @@
     Author: EvaCozy
     Tags: buying guide, comfort guide, fit problems, fitting guide, how slippers should fit, proper fit, sizing tips, slipper fit, slipper sizing, tight vs loose
   - [Best Slippers for Working from Home 2026: WFH Comfort Guide](https://evacozy.com/blogs/slipper-news-blog/best-slippers-for-working-from-home-professionals-comfort-guide-2026): Best Slippers for Working from Home 2026: WFH Comfort Guide
-    Updated: 2026-06-20T12:00:05Z
+    Updated: 2026-06-22T13:47:37Z
     Author: EvaCozy
     Tags: all-day comfort, ergonomic footwear, home office, productivity, professional slippers, remote work, remote worker, standing desk, WFH essentials, work from home
   - [Best Fluffy Slippers for Women 2026 | Comfort & Style](https://evacozy.com/blogs/slipper-news-blog/best-fluffy-slippers-for-women-2026-ultimate-comfort-style-guide): Best Fluffy Slippers for Women 2026 | Comfort & Style
@@ -3330,6 +3334,26 @@
     Updated: 2026-06-18T12:00:06Z
     Author: EvaCozy
     Tags: american holidays, cozy home, home comfort, indoor slippers, long weekend comfort, MLK weekend, plush house shoes, rest and recovery, stay home USA, winter weekend
+  - [Waterproof Outdoor Sandals for Men: All-Terrain Summer Footwear](https://evacozy.com/blogs/slipper-news-blog/waterproof-outdoor-sandals-for-men-when-clogs-meet-all-terrain-capability): Waterproof Outdoor Sandals for Men: All-Terrain Summer Footwear
+    Updated: 2026-05-22T03:28:53Z
+    Author: EvaCozy
+    Tags: all terrain sandals USA, garden footwear men, men garden shoes, men outdoor footwear, men waterproof clogs, waterproof clog sandals, waterproof garden clogs men, waterproof outdoor sandals men, waterproof summer sandals
+  - [Big Size Beach Flip Flops for Men: Summer Sandals That Actually Fit](https://evacozy.com/blogs/slipper-news-blog/big-size-beach-flip-flops-why-large-footed-men-deserve-better-summer-sandals): Big Size Beach Flip Flops for Men: Summer Sandals That Actually Fit
+    Updated: 2026-05-28T12:00:03Z
+    Author: EvaCozy
+    Tags: august beach, beach sandals big size, big feet summer sandals, big size flip flops men, EVA flip flops big size, large size beach sandals, men beach flip flops USA, men large flip flops, plus size men sandals, summer flip flops men
+  - [Men's Memory Foam House Slippers: Winter Comfort That Moulds to You](https://evacozy.com/blogs/slipper-news-blog/mens-memory-foam-house-slippers-warm-winter-comfort-that-moulds-to-you): Men's Memory Foam House Slippers: Winter Comfort That Moulds to You
+    Updated: 2026-06-04T12:00:07Z
+    Author: EvaCozy
+    Tags: adaptive cushion slippers, august comfort, memory foam warm slippers, memory foam winter footwear, men indoor winter slippers, men memory foam house slippers, men winter home shoes, warm men house shoes, winter house slippers men, work from home slippers men
+  - [Best Fluffy Slippers for Women – Ultra Soft & Cozy | EvaCozy](https://evacozy.com/blogs/slipper-news-blog/best-fluffy-slippers-women-ultra-soft-cozy-comfort): Best Fluffy Slippers for Women – Ultra Soft & Cozy | EvaCozy
+    Updated: 2026-05-21T18:12:43Z
+    Author: EvaCozy
+    Tags: best slippers, best slippers for women, comfort slippers, cozy slippers, fluffy slippers, home footwear, house shoes, house slippers, memory foam slippers, men's slippers, slippers on , soft slippers, winter slippers, women's slippers
+  - [The Ultimate Guide to Selecting and Styling Unisex Non-Slip Couple Slippers](https://evacozy.com/blogs/slipper-news-blog/the-ultimate-guide-to-selecting-and-styling-unisex-non-slip-couple-slippers): The Ultimate Guide to Selecting and Styling Unisex Non-Slip Couple Slippers
+    Updated: 2026-06-26T01:05:46Z
+    Author: EvaCozy
+    Tags: accommodating fit, couple slippers, cozy home, gift ideas, home comfort, loungewear, matching slippers, non-slip, slippers, unisex
 
 ## Store Pages
 
@@ -3338,7 +3362,7 @@
 - [Privacy Policy | Your Personal Information & Data Protection - EvaCozy](https://evacozy.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-05-31T04:59:26Z
 - [About - EvaCozy](https://evacozy.com/pages/about-evacozy): EvaCozy – Cozy Winter & Summer Slippers for Everyday Home Comfort EvaCozy is a comfort-focused footwear brand dedicated to creating high-quality wi...
-  Updated: 2026-06-10T13:15:42Z
+  Updated: 2026-06-24T04:17:05Z
 - [FAQ - EvaCozy](https://evacozy.com/pages/faq): Frequently Asked Questions 1. What types of slippers does EvaCozy ? EvaCozy specializes in winter and summer slippers designed for ultimate ind...
   Updated: 2026-06-10T13:33:32Z
 - [Discover EvaCozy Partner Shops – Trusted Online Stores](https://evacozy.com/pages/discover-evacozy-partner-shops): Discover EvaCozy Partner Shops EvaCozy is more than a brand — we're building a network of trusted online stores, each offering something unique. Wh...
@@ -3347,6 +3371,8 @@
   Updated: 2026-06-15T05:43:16Z
 - [Return & Refund Policy – EvaCozy](https://evacozy.com/pages/return-refund): Return & Refund We have a 30-day return policy, which means you have 30 days after receiving your item to request a return. To be eligible for a re...
   Updated: 2026-06-15T05:45:23Z
+- [EvaCozy – Shop Comfort Footwear](https://evacozy.com/pages/links): .eva-links{max-width:480px;margin:0 auto;padding:32px 16px;font-family:Georgia,serif;text-align:center}.eva-links img{width:120px;margin-bottom:16p...
+  Updated: 2026-06-28T04:27:57Z
 
 ## Policies
 
