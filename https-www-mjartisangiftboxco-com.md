@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-05-23T08:42:47Z
 - Contact Email: info@mjartisangiftboxco.com
-- Updated At: 2026-06-22T00:00:39.969Z
+- Updated At: 2026-06-29T00:00:42.096Z
 
 ## Products
 
@@ -686,8 +686,8 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
 - [With Sympathy Gifts](https://www.mjartisangiftboxco.com/collections/with-sympathy-gifts): MJ Artisan Gift Co offers bereavement gift boxes featuring soy candles, organic teas, and handcrafted keepsakes designed to provide comfort during difficult times.
   Updated: 2026-06-18T11:27:58Z
   Total Products: 19
-- [Birthday Gift Boxes](https://www.mjartisangiftboxco.com/collections/birthday-gift-boxes)
-  Updated: 2026-06-11T12:48:03Z
+- [Birthday Gift Boxes](https://www.mjartisangiftboxco.com/collections/birthday-gift-boxes): MJ Artisan Gift Co offers birthday gift boxes featuring vegan and eco friendly self care hampers, letterbox treats, and natural relaxation sets for new mums.
+  Updated: 2026-06-25T00:35:47Z
   Total Products: 26
 - [Mens Gift Boxes](https://www.mjartisangiftboxco.com/collections/mens-gift-boxes): MJ Artisan Gift Co offers curated gift boxes for men featuring premium self-care items, gourmet snacks, and artisanal wares to provide comfort and solidarity.
   Updated: 2026-06-18T11:27:58Z
@@ -695,11 +695,11 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
 - [BabyShower Gifts](https://www.mjartisangiftboxco.com/collections/babyshower-gifts): MJ Artisan Gift Co offers eco-conscious baby shower gifts including bespoke sets for infants, new mums, and dads featuring handcrafted items to celebrate new life.
   Updated: 2026-06-20T11:22:23Z
   Total Products: 57
-- [Best sellers](https://www.mjartisangiftboxco.com/collections/best-sellers)
-  Updated: 2026-05-28T00:39:46Z
+- [Best sellers](https://www.mjartisangiftboxco.com/collections/best-sellers): MJ Artisan Gift Co offers a curated selection of handcrafted gift boxes and artisanal goods featuring popular brands and unique items for every special occasion.
+  Updated: 2026-06-25T00:36:17Z
   Total Products: 0
-- [Thinking of You Gifts](https://www.mjartisangiftboxco.com/collections/thinking-of-you-gifts)
-  Updated: 2026-06-11T12:47:58Z
+- [Thinking of You Gifts](https://www.mjartisangiftboxco.com/collections/thinking-of-you-gifts): MJ Artisan Gift Co offers eco friendly and vegan thinking of you hampers. These letterbox gifts feature natural self care sets for relaxation and stress relief.
+  Updated: 2026-06-25T00:36:49Z
   Total Products: 24
 - [Hug In A Box Gifts](https://www.mjartisangiftboxco.com/collections/hug-in-a-box-gifts): MJ Artisan Gift Co Hug In A Box collections feature curated self care items, artisan treats, and wellness products designed to provide comfort and support.
   Updated: 2026-06-11T12:47:58Z
@@ -716,8 +716,8 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
 - [Self Care Spa Gifts](https://www.mjartisangiftboxco.com/collections/self-care-spa-gifts): MJ Artisan Gift Co Self Care Spa Gifts feature handcrafted soaps, botanical bath salts, and organic body oils from local makers and premium wellness brands.
   Updated: 2026-06-11T12:48:03Z
   Total Products: 25
-- [New Baby Gifts](https://www.mjartisangiftboxco.com/collections/new-baby-gifts)
-  Updated: 2026-06-11T12:49:10Z
+- [New Baby Gifts](https://www.mjartisangiftboxco.com/collections/new-baby-gifts): MJ Artisan Gift Co offers curated gift hampers featuring knitted dinosaurs, vegan treats, and personalised baby boxes in pink, teal, and gender neutral rainbows.
+  Updated: 2026-06-25T00:39:40Z
   Total Products: 16
 - [Mental Health Gifts](https://www.mjartisangiftboxco.com/collections/mental-health-gifts): MJ Artisan Gift Co offers a curated selection of self-care boxes, journals, and calming treats designed to provide comfort and support during difficult moments.
   Updated: 2026-06-11T12:48:05Z
@@ -728,14 +728,14 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
 - [SUE RYDER DROPSHIP](https://www.mjartisangiftboxco.com/collections/sue-ryder-dropship): MJ Artisan Gift Co provides a specialized trade portal for Sue Ryder dropship partners. This collection features discounted giftware and products at agreed prices.
   Updated: 2026-06-16T11:34:50Z
   Total Products: 19
-- [Get Well Soon Gifts](https://www.mjartisangiftboxco.com/collections/get-well-soon-gifts)
-  Updated: 2026-06-11T12:47:58Z
+- [Get Well Soon Gifts](https://www.mjartisangiftboxco.com/collections/get-well-soon-gifts): MJ Artisan Gift Co offers eco friendly get well soon hampers and vegan relaxation letterbox gifts featuring natural self care treats for stress and new mothers.
+  Updated: 2026-06-25T00:41:20Z
   Total Products: 25
-- [New Baby Girl Gifts](https://www.mjartisangiftboxco.com/collections/baby-girl-gifts)
-  Updated: 2026-06-11T12:49:10Z
+- [New Baby Girl Gifts](https://www.mjartisangiftboxco.com/collections/baby-girl-gifts): MJ Artisan Gift Co offers personalized new baby girl gift boxes and hampers featuring knitted pink dinosaurs and coordinated sets for mum and baby celebrations.
+  Updated: 2026-06-25T00:41:49Z
   Total Products: 8
-- [New Baby Boy Gifts](https://www.mjartisangiftboxco.com/collections/baby-boy-gifts)
-  Updated: 2026-06-11T12:49:10Z
+- [New Baby Boy Gifts](https://www.mjartisangiftboxco.com/collections/baby-boy-gifts): MJ Artisan Gift Co offers new baby boy gift sets featuring knitted blue dinosaur hampers, vegan mum and baby boxes, and personalised teal rainbow dinosaur gifts.
+  Updated: 2026-06-25T00:42:16Z
   Total Products: 10
 - [New Baby Gifts Unisex](https://www.mjartisangiftboxco.com/collections/new-baby-gifts-unisex): MJ Artisan Gift Co offers neutral organic cotton rompers, handmade rattles, and soft bamboo swaddles from premium brands for a thoughtful newborn gift selection.
   Updated: 2026-06-11T12:49:10Z
@@ -830,47 +830,47 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
 - [Mum to be presents](https://www.mjartisangiftboxco.com/collections/mum-to-be-presents): Rachel found herself drawn to the beautifully curated hampers from MJ Artisan Gift Co. They promised a holistic experience of pregnancy self-care. As she read the descriptions, she knew she'd found the perfect presents for Mum to be.
   Updated: 2026-06-20T11:22:23Z
   Total Products: 57
-- [Christian Faith Religious Artisan Gifts for Men Women](https://www.mjartisangiftboxco.com/collections/christian-faith-religious-artisan-gifts-for-men-women-uk)
-  Updated: 2026-06-11T12:44:48Z
+- [Christian Faith Religious Artisan Gifts for Men Women](https://www.mjartisangiftboxco.com/collections/christian-faith-religious-artisan-gifts-for-men-women-uk): MJ Artisan Gift Co offers Christian faith gifts for men and women UK including prayer journals, photo frames, and vegan self care hampers for mums and sympathy.
+  Updated: 2026-06-25T00:52:39Z
   Total Products: 9
-- [Teething Toys and Jewellery](https://www.mjartisangiftboxco.com/collections/teething-toys-and-jewellery)
-  Updated: 2026-05-28T00:51:50Z
+- [Teething Toys and Jewellery](https://www.mjartisangiftboxco.com/collections/teething-toys-and-jewellery): MJ Artisan Gift Co offers a curated selection of silicone teethers and beaded nursing jewellery designed for infant safety and soothing gum relief during teething.
+  Updated: 2026-06-25T00:52:55Z
   Total Products: 24
-- [VEGAN SKINCARE FOR ALL](https://www.mjartisangiftboxco.com/collections/vegan-skincare-for-all)
-  Updated: 2026-06-11T12:48:07Z
+- [VEGAN SKINCARE FOR ALL](https://www.mjartisangiftboxco.com/collections/vegan-skincare-for-all): MJ Artisan Gift Co offers vegan skincare including avocado lip butter, organic lavender soap, matcha face masks, and aromatherapy rollers for the entire family.
+  Updated: 2026-06-25T00:53:13Z
   Total Products: 8
-- [Stationary and Books](https://www.mjartisangiftboxco.com/collections/stationary-and-books)
-  Updated: 2026-06-11T12:48:00Z
+- [Stationary and Books](https://www.mjartisangiftboxco.com/collections/stationary-and-books): MJ Artisan Gift Co offers a curated collection of unisex wellbeing journals and premium stationery designed to support mindfulness and personal organization.
+  Updated: 2026-06-25T00:53:30Z
   Total Products: 6
-- [All Clothing](https://www.mjartisangiftboxco.com/collections/all-clothing)
-  Updated: 2026-06-11T12:49:08Z
+- [All Clothing](https://www.mjartisangiftboxco.com/collections/all-clothing): MJ Artisan Gift Co offers a curated selection of unique apparel and handcrafted garments. This collection features quality fabrics and artistic clothing designs.
+  Updated: 2026-06-25T00:53:50Z
   Total Products: 3
-- [Candles for Wellbeing](https://www.mjartisangiftboxco.com/collections/candles-for-wellbeing)
-  Updated: 2026-05-28T00:53:06Z
+- [Candles for Wellbeing](https://www.mjartisangiftboxco.com/collections/candles-for-wellbeing): MJ Artisan Gift Co offers handcrafted aromatherapy candles in 100g tins and 200g jars designed to enhance wellbeing through natural scents and premium ingredients.
+  Updated: 2026-06-25T00:54:15Z
   Total Products: 2
-- [Wellbeing resource cards](https://www.mjartisangiftboxco.com/collections/wellbeing-resource-cards)
-  Updated: 2026-05-28T00:53:19Z
+- [Wellbeing resource cards](https://www.mjartisangiftboxco.com/collections/wellbeing-resource-cards): MJ Artisan Gift Co offers a diverse selection of wellbeing resource cards designed to support mental health and mindfulness through various expert-led brands.
+  Updated: 2026-06-25T00:54:35Z
   Total Products: 1
-- [Art cards and Nursery Art](https://www.mjartisangiftboxco.com/collections/art-cards-and-nursery-art)
-  Updated: 2026-06-11T12:49:08Z
+- [Art cards and Nursery Art](https://www.mjartisangiftboxco.com/collections/art-cards-and-nursery-art): MJ Artisan Gift Co offers a selection of The Blessing Christian art cards and nursery art featuring religious faith themes in green and various sizes.
+  Updated: 2026-06-25T00:54:52Z
   Total Products: 3
-- [Key Rings](https://www.mjartisangiftboxco.com/collections/key-rings)
-  Updated: 2026-06-11T12:49:09Z
+- [Key Rings](https://www.mjartisangiftboxco.com/collections/key-rings): MJ Artisan Gift Co offers a curated selection of handcrafted metal and leather key rings featuring unique designs from local makers and independent gift brands.
+  Updated: 2026-06-25T00:55:07Z
   Total Products: 1
-- [Gift Box Hampers Postal](https://www.mjartisangiftboxco.com/collections/gift-box-hampers-postal)
-  Updated: 2026-06-20T11:22:23Z
+- [Gift Box Hampers Postal](https://www.mjartisangiftboxco.com/collections/gift-box-hampers-postal): MJ Artisan Gift Co offers natural vegan pregnancy and new mum gift hampers featuring luxury spa sets, self-care pamper boxes, and knitted dinosaur baby shower gifts.
+  Updated: 2026-06-25T00:55:28Z
   Total Products: 53
 - [Mother's day Mum to be Gifts and Gift sets](https://www.mjartisangiftboxco.com/collections/mothers-day-mum-to-be-gifts-natural-vegan-friendly-artisan-made-in-uk): Beautifully made in the UK for sending that special pampering treat on Mother's day. Natural, vegan-friendly Mum to Be Gifts and Gift sets, to nurture and pamper Mums to be. Perfect for Baby Shower, New Mum gifts or Pregnancy.
   Updated: 2026-06-20T11:22:23Z
   Total Products: 34
-- [Gifts good for Mothers Day](https://www.mjartisangiftboxco.com/collections/gifts-good-for-mothers-day)
-  Updated: 2026-06-20T11:22:23Z
+- [Gifts good for Mothers Day](https://www.mjartisangiftboxco.com/collections/gifts-good-for-mothers-day): MJ Artisan Gift Co offers natural vegan self care hampers for mothers. The collection includes luxury pregnancy spa boxes and eco friendly relaxation gift sets.
+  Updated: 2026-06-25T00:55:58Z
   Total Products: 49
 - [Mum to be Gifts and Gift sets](https://www.mjartisangiftboxco.com/collections/mum-to-be-gifts-uk): Beautifully made in the UK, natural, vegan-friendly Mum to Be Gifts and Gift sets, to nurture and pamper Mums to be. Perfect for Baby Shower, New Mum gifts or Pregnancy.
   Updated: 2026-06-20T11:22:23Z
   Total Products: 33
-- [HAD A GLOW UP 2026](https://www.mjartisangiftboxco.com/collections/glow-up-2026)
-  Updated: 2026-06-10T14:51:14Z
+- [HAD A GLOW UP 2026](https://www.mjartisangiftboxco.com/collections/glow-up-2026): MJ Artisan Gift Co offers Christian fathers day postal gifts featuring photo frames, religious journals, and eco friendly vegan self care items for men in 2026.
+  Updated: 2026-06-25T00:56:29Z
   Total Products: 5
 - [NEED A GLOW UP](https://www.mjartisangiftboxco.com/collections/need-a-glow-up): MJ Artisan Gift Co offers Need A Glow Up gift boxes featuring May birthstone earrings and vegan wellness sets for new mums and milestone birthdays for her.
   Updated: 2026-06-11T00:56:27Z
@@ -878,15 +878,15 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
 - [NEED A CHRISTMAS GLOW UP](https://www.mjartisangiftboxco.com/collections/need-a-christmas-glow-up): MJ Artisan Gift Co offers a curated selection of festive home decor and seasonal accessories designed to elevate holiday aesthetics with modern holiday styles.
   Updated: 2026-06-11T00:56:39Z
   Total Products: 7
-- [TIME TO DELETE](https://www.mjartisangiftboxco.com/collections/time-to-delete)
-  Updated: 2026-05-28T00:55:38Z
+- [TIME TO DELETE](https://www.mjartisangiftboxco.com/collections/time-to-delete): MJ Artisan Gift Co offers a specialized selection of unique handcrafted items and curated gift sets from independent makers within this exclusive collection.
+  Updated: 2026-06-25T00:57:10Z
   Total Products: 1
 
 ## Blogs
 
 - [Baby Teething Tips and Tricks](https://www.mjartisangiftboxco.com/blogs/teething-nursing-breastfeeding-jewellery)
   - [Enhance Your Bond with a Stylish Nursing Necklace](https://www.mjartisangiftboxco.com/blogs/teething-nursing-breastfeeding-jewellery/nursingnecklaces): Enhance Your Bond with a Stylish Nursing Necklace
-    Updated: 2026-05-28T00:56:41Z
+    Updated: 2026-06-25T00:58:09Z
     Author: Amanda Waring
   - [Enhance Your Bond with a Stylish Nursing Necklace](https://www.mjartisangiftboxco.com/blogs/teething-nursing-breastfeeding-jewellery/nursing-necklace-uk): Enhance Your Bond with a Stylish Nursing Necklace
     Updated: 2026-05-28T00:57:28Z
@@ -1069,6 +1069,15 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   - [Thinking of You Gifts: Envelope Your Loved Ones in a Hug in a Box](https://www.mjartisangiftboxco.com/blogs/parenting-and-mental-health/thinking-of-you-gifts-envelope-your-loved-ones-in-a-hug-in-a-box): Thinking of You Gifts: Envelope Your Loved Ones in a Hug in a Box
     Updated: 2026-06-19T10:05:08Z
     Author: Amanda Waring MBACP MACC
+  - [A Guide to Bereavement Gifts: Sending Comfort and Hope](https://www.mjartisangiftboxco.com/blogs/parenting-and-mental-health/a-guide-to-bereavement-gifts-sending-comfort-and-hope): A Guide to Bereavement Gifts: Sending Comfort and Hope
+    Updated: 2026-06-22T10:04:02Z
+    Author: Amanda Waring MBACP MACC
+  - [Mental Health Gifts: Embracing the Journey to Self-Wellbeing](https://www.mjartisangiftboxco.com/blogs/parenting-and-mental-health/mental-health-gifts-embracing-the-journey-to-self-wellbeing): Mental Health Gifts: Embracing the Journey to Self-Wellbeing
+    Updated: 2026-06-24T10:04:54Z
+    Author: Amanda Waring MBACP MACC
+  - [Selecting the Perfect 'With Sympathy' Gift: The Power of a Boxed Hug](https://www.mjartisangiftboxco.com/blogs/parenting-and-mental-health/selecting-the-perfect-with-sympathy-gift-the-power-of-a-boxed-hug): Selecting the Perfect 'With Sympathy' Gift: The Power of a Boxed Hug
+    Updated: 2026-06-26T10:07:37Z
+    Author: Amanda Waring MBACP MACC
 - [Mental health tips for anxiety stress work](https://www.mjartisangiftboxco.com/blogs/mental-health-tips-for-anxiety-stress-work): Feeling burnt out? Discover actionable mental health tips to manage anxiety, work stress, and overwhelm. Start your journey toward healing and beat depression.
   - [What is Imposter Syndrome? | How can I stop it?](https://www.mjartisangiftboxco.com/blogs/mental-health-tips-for-anxiety-stress-work/what-is-imposter-syndrome-how-can-i-stop-it): <p>The post What is Imposter Syndrome? | How can I stop it? appeared first on UK Letterbox Gifts and Hampers | Thoughtful Wellbeing Gifts by post.</p>
     Updated: 2026-02-05T15:23:47Z
@@ -1182,7 +1191,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
 - [Instagram Links](https://www.mjartisangiftboxco.com/pages/instagram-links): BLOG GIVEAWAYS
   Updated: 2026-05-28T00:58:40Z
 - [Pregancy Gifts and Gift Boxes Delivered Nottinghamshire](https://www.mjartisangiftboxco.com/pages/pregancy-gifts-and-gift-boxes-delivered-nottinghamshire): Pregnancy gifts and gift boxes delivered in Nottinghamshire Are you looking for that perfect pregnancy gift or gift box to be delivered straight to...
-  Updated: 2026-06-11T01:00:26Z
+  Updated: 2026-06-25T01:00:27Z
 - [INSTAGRAM LINKS](https://www.mjartisangiftboxco.com/pages/instagram-links-1): Highlight links to important information:
   Updated: 2026-05-28T00:59:26Z
 - [Self Care Sanctuary - Take care of your mental health](https://www.mjartisangiftboxco.com/pages/self-care-sanctuary): Mental and Physical Health Tips and strategies for yourself and your loved ones. By MBACP Therapist Amanda Waring
@@ -1194,7 +1203,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
 - [Mother's Day Gift Giveaway 2026](https://www.mjartisangiftboxco.com/pages/mothers-day-gift-giveaway-2026): With Mother's Day only three weeks away, it's time for our Mother's day Blessings giveaway. In this giveaway there will be two prizes, each winner ...
   Updated: 2026-05-28T01:00:03Z
 - [Your Privacy Choices](https://www.mjartisangiftboxco.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-06-11T01:01:35Z
+  Updated: 2026-06-25T01:01:38Z
 
 ## Policies
 
