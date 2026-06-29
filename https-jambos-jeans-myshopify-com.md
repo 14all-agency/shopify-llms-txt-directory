@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-25T03:25:11Z
 - Contact Email: mitchell@14all.agency
-- Updated At: 2026-06-20T00:00:38.870Z
+- Updated At: 2026-06-29T00:00:40.132Z
 
 ## Collections
 
