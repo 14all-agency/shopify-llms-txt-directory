@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2026-03-15T11:22:50Z
 - Contact Email: contact.needs@coretelk.com
-- Updated At: 2026-06-23T00:00:45.645Z
+- Updated At: 2026-06-30T00:00:46.760Z
 
 At NEEDs, we provide everything you need — from premium mobile accessories to everyday essentials. We specialise in high-quality products including phone cases, chargers, cables, and accessories, with plans to expand into toys, footwear, bags, clothing, and solar lighting.
 
@@ -30,8 +30,8 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002774B-1.jpg?v=1773856227
     Price: £14.37 GBP
-- [YJ33 Bluetooth-compatible Earphones Noise Reduction Wireless Earhooks with Touch Control Charging Case](https://coretelk.com/products/yj33-bluetooth-compatible-earphones-noise-reduction-wireless-earhooks-with-touch-control-charging-case): 【Open-Ear Design】The YJ33 features an open-ear design for a comfortable and awareness-enhancing listening experience. 【Long Battery Life】Enjoy extended use with a mature standby time of up to 180 days, perfect for infrequent users. 【Bluetooth-compatible 5.4 Connectivity】Equipped with the latest Bluetooth-compatible 5.4 technology for stable and efficient wireless connection. 【High-resolution Driver Unit】HiFi Sound &Three Frequency Balance, large-sized driver,vast sound field, metal plating diaphragm, expressive high analysis, bringing a high frequency of agile and pleasant ears 【Full Color Smart Screen, Rich Function to Control】Full color touch screen, call to answer, music playback, and the functions such as EQ settings are in control Specifications: Model: YJ33 Bluetooth-compatible Version: 5.4 Transmission Range: 10-15 meters Charging Time: Approximately 2 hours Charging Case Capacity: 600mAh Earbuds Battery Capacity: 80mAh Standby Time: 180 days Charging Port: Type-C Frequency Response: 20Hz-20KHz Package included 1 x Charging Case 2 x Earphones 1 x Charging Cable 1 x Chinese and English Manual Specifications Brand N/A Color White Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.153kg Volume Weight 0.111kg Package Length 15.300cm Package Width 9.000cm Package Height 3.600cm
-  Updated: 2026-06-05T05:21:30Z
+- [YJ33 Bluetooth-compatible Earphones Noise Reduction Wireless Earhooks with Touch Control Charging Case](https://coretelk.com/products/yj33-bluetooth-compatible-earphones-noise-reduction-wireless-earhooks-with-touch-control-charging-case): 【Open-Ear Design】The YJ33 features an open-ear design for a comfortable and awareness-enhancing listening experience. 【Long Battery Life】Enjoy extended use with a mature standby time of up to 180 days, perfect for infrequent users. 【Bluetooth-compatible 5.4 Connectivity】Equipped with the latest Bluetooth-compatible 5.4 technology for stable and efficient wireless connection. 【High-resolution Driver Unit】HiFi Sound &Three Frequency Balance, large-sized driver,vast sound field, metal plating diaphragm, expressive high analysis, bringing a high frequency of agile and pleasant ears 【Full Color Smart Screen, Rich Function to Control】Full color touch screen, call to answer, music playback, and the functions such as EQ settings are in control Specifications: Model: YJ33 Bluetooth-compatible Version: 5.4 Transmission Range: 10-15 meters Charging Time: Approximately 2 hours Charging Case Capacity: 600mAh Earbuds Battery Capacity: 80mAh Standby Time: 180 days Charging Port: Type-C Frequency Response: 20Hz-20KHz Package included 1 x Charging Case 2 x Earphones 1 x Charging Cable 1 x Chinese and English Manual Specifications Brand N/A Color Black Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.153kg Volume Weight 0.111kg Package Length 15.300cm Package Width 9.000cm Package Height 3.600cm
+  Updated: 2026-06-29T16:09:55Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -1246,10 +1246,10 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Updated: 2026-05-26T20:19:43Z
   Total Products: 0
 - [Smart Devices — Smartwatches, Glasses & Car Accessories | NEEDs](https://coretelk.com/collections/smart-device): Shop smart devices at NEEDs. Smartwatches, smart glasses, car accessories, microphones, tripods and more. Fast shipping & secure payment.
-  Updated: 2026-06-22T08:25:03Z
+  Updated: 2026-06-29T10:38:54Z
   Total Products: 125
 - [Wireless Earphones & Earbuds - Noise Cancelling Bluetooth - NEEDs](https://coretelk.com/collections/earphones): Browse wireless earphones and earbuds with ANC, touch control, and Bluetooth. Free shipping available. Shop at NEEDs.
-  Updated: 2026-06-09T07:27:39Z
+  Updated: 2026-06-29T16:09:57Z
   Total Products: 107
 - [AI Smart Glasses with HD Camera & Bluetooth Music - NEEDs](https://coretelk.com/collections/smart-glasses): Shop AI smart glasses with HD recording, Bluetooth calling, and real-time translation. Waterproof options available. Shop at NEEDs.
   Updated: 2026-06-15T03:08:12Z
@@ -1258,22 +1258,22 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Updated: 2026-06-15T03:08:12Z
   Total Products: 28
 - [Smart Watches with Fitness Tracking & Bluetooth - NEEDs](https://coretelk.com/collections/smart-watches): Browse smart watches with fitness tracking, heart rate monitor, and Bluetooth. Free shipping available. Shop at NEEDs.
-  Updated: 2026-06-09T07:27:42Z
+  Updated: 2026-06-29T10:38:54Z
   Total Products: 18
 - [Security & Cameras – Shop CCTV & Surveillance – NEEDs](https://coretelk.com/collections/security-and-cameras): Shop security cameras, CCTV, and surveillance systems. Keep your home and business safe with our range of security solutions at NEEDs.
   Updated: 2026-06-10T09:08:20Z
   Total Products: 26
 - [Car Accessories Dash Cams Chargers & Bluetooth Mounts - NEEDs](https://coretelk.com/collections/car-accessories-shop): Shop car accessories including dash cams, car chargers, Bluetooth transmitters and phone mounts. Free shipping. Shop at NEEDs.
-  Updated: 2026-06-22T08:25:03Z
+  Updated: 2026-06-23T01:47:07Z
   Total Products: 76
 - [Mobile Phone Accessories Cases Chargers & Screen Protectors - NEEDs](https://coretelk.com/collections/mobile-phone-accessories): Shop mobile phone accessories including cases, chargers, screen protectors and cables. Free shipping available. Shop at NEEDs.
-  Updated: 2026-06-22T08:25:03Z
+  Updated: 2026-06-29T16:09:57Z
   Total Products: 799
 - [Studio Microphones & Photography Lighting for Creators - NEEDs](https://coretelk.com/collections/studio-and-microphones): Shop studio microphones, wireless lavalier mics, ring lights and photography lighting for streaming and content creation. Shop at NEEDs.
   Updated: 2026-06-09T07:27:58Z
   Total Products: 44
 - [Computer & Laptop Accessories MacBook iPad Surface - NEEDs](https://coretelk.com/collections/computer-laptop-accessories): Shop laptop sleeves, screen protectors, keyboards and accessories for MacBook, iPad, Surface and more. Free shipping at NEEDs.
-  Updated: 2026-06-10T10:32:19Z
+  Updated: 2026-06-24T03:18:03Z
   Total Products: 356
 - [Speakers & Sound Accessories – NEEDs](https://coretelk.com/collections/speakers-and-sound): Shop portable Bluetooth speakers, smart audio, and sound accessories. Premium sound solutions for every lifestyle at NEEDs.
   Updated: 2026-06-10T09:08:20Z
@@ -1350,6 +1350,18 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Updated: 2026-06-21T19:00:41Z
     Author: NEEDs
     Tags: accessories, digital, digital tools, essential tech for travelers, must-have travel gear, tech gadgets, travel, travel tech
+  - [Comfortable Earbuds for Long Hours — Top Picks 2026](https://coretelk.com/blogs/news/comfortable-earbuds-for-long-hours-top-picks-2026): Comfortable Earbuds for Long Hours — Top Picks 2026
+    Updated: 2026-06-24T19:02:47Z
+    Author: NEEDs
+    Tags: best earbud options, comfortable headphones, digital earbuds, innovation, long hours, technology, top comfortable earbuds for 2026, transformation
+  - [Affordable Tech Essentials for Students — Buying Guide 2026](https://coretelk.com/blogs/news/affordable-tech-essentials-for-students-buying-guide-2026): Affordable Tech Essentials for Students — Buying Guide 2026
+    Updated: 2026-06-26T19:01:54Z
+    Author: NEEDs
+    Tags: affordable technology, best apps for students, buying guide, digital, must-have student gadgets, student essentials, students, tech
+  - [Choosing the Best Wireless Earbuds — What to Consider](https://coretelk.com/blogs/news/choosing-the-best-wireless-earbuds-what-to-consider): Choosing the Best Wireless Earbuds — What to Consider
+    Updated: 2026-06-28T19:00:38Z
+    Author: NEEDs
+    Tags: best wireless earbuds buying guide, digital, earbud features, how to choose wireless earbuds, innovation, sound quality, technology, wireless earbuds
 
 ## Store Pages
 
@@ -1367,7 +1379,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
 - [Shipping Policy](https://coretelk.com/policies/shipping-policy)
   Updated: 2026-04-01T01:28:54+01:00
 - [Refund Policy](https://coretelk.com/policies/refund-policy)
-  Updated: 2026-05-18T19:27:17+01:00
+  Updated: 2026-06-26T13:37:29+01:00
 - [Terms of Service](https://coretelk.com/policies/terms-of-service)
   Updated: 2026-05-18T19:25:17+01:00
 - [Contact Information](https://coretelk.com/policies/contact-information)
