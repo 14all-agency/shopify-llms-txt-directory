@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2021-12-17T16:53:59Z
 - Contact Email: solarvision.shop@gmail.com
-- Updated At: 2026-06-23T00:00:24.491Z
+- Updated At: 2026-06-30T00:00:34.458Z
 
 ## Products
 
@@ -2545,7 +2545,14 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_d50d365b-21d2-4a9d-aeed-a0391545e8f2.jpg?v=1780966039
     Price: 160,00 € EUR
-[List Continued](https://solarvision.fr/a/llms-agent/llms.txt?shop=solarvision-fr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDA5MTI5NDgxODYzMiwibGFzdF92YWx1ZSI6IjEwMDkxMjk0ODE4NjMyIn0%3D)
+- [Solar Pocket Fan](https://solarvision.fr/products/solar-pocket-fan): Ventilateur portable rechargeable par USB-C. Compact, puissant et élégant — parfait pour rester au frais partout où vous allez.
+  Updated: 2026-06-24T08:27:49Z
+  Vendor: Solar Vision
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/1u45x1l0g9gx89ue08ratbz614qf.png?v=1782246582
+  Price: 30,00 € EUR
+[List Continued](https://solarvision.fr/a/llms-agent/llms.txt?shop=solarvision-fr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDExMDQ5OTY4NDY4MCwibGFzdF92YWx1ZSI6IjEwMTEwNDk5Njg0NjgwIn0%3D)
 
 ## Collections
 
