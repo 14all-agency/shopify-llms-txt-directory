@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2014-08-11T19:42:15Z
 - Contact Email: emeloul@aol.com
-- Updated At: 2026-06-22T00:00:40.949Z
+- Updated At: 2026-06-30T00:00:43.028Z
 
 # Heat Equalizer
 
@@ -29,7 +29,7 @@ The website includes product usage information, warranty details, shipping polic
 ## Products
 
 - [Never burn your food again! Enhance Cooking Precision with the Heat Equalizer Heat Diffuser | Gas & Electric Stoves | heat diffuser for gas stove](https://heatequalizer.com/products/the-heat-equalizer-heat-diffuser-for-gas-stove-aluminum-copper-alloy-hot-plate-stove-burner-cover-ring-plate-cover): Never burn your food again! Revolutionize your cooking experience with the Heat Equalizer Heat Diffuser. Heat diffuser for gas stove, Achieve uniform heat distribution on both gas and electric stoves, ensuring every dish is perfection. Say goodbye to hot spots and hello to culinary precision. Upgrade your kitchen now!
-  Updated: 2026-06-18T14:59:11Z
+  Updated: 2026-06-22T17:23:58Z
   Vendor: Heat Equalizer
   Product Type: heat diffusers
   Availability: Available
@@ -48,7 +48,7 @@ The website includes product usage information, warranty details, shipping polic
     Price: $31.95 USD
   - [High Polish Commercial / 12"](https://heatequalizer.com/products/the-heat-equalizer-heat-diffuser-for-gas-stove-aluminum-copper-alloy-hot-plate-stove-burner-cover-ring-plate-cover?variant=41176813240354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0612/4317/files/Silver.jpg?v=1740479821
+    Image: https://cdn.shopify.com/s/files/1/0612/4317/files/12_c5e4bb4b-2953-4686-a484-2d6faaf64c89.jpg?v=1782117854
     Price: $79.95 USD
   - [High Polish Commercial / Set of Three](https://heatequalizer.com/products/the-heat-equalizer-heat-diffuser-for-gas-stove-aluminum-copper-alloy-hot-plate-stove-burner-cover-ring-plate-cover?variant=41176814944290)
     Availability: Available
@@ -90,11 +90,23 @@ The website includes product usage information, warranty details, shipping polic
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0612/4317/files/173-10021_a1b2ea8c-6ee4-4378-8179-db51cb80ba09.jpg?v=1740474176
     Price: $29.95 USD
+  - [Cast Iron / 6"](https://heatequalizer.com/products/the-heat-equalizer-heat-diffuser-for-gas-stove-aluminum-copper-alloy-hot-plate-stove-burner-cover-ring-plate-cover?variant=45805890371618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0612/4317/files/6_inch.jpg?v=1782117028
+    Price: $24.95 USD
+  - [Cast Iron / 8"](https://heatequalizer.com/products/the-heat-equalizer-heat-diffuser-for-gas-stove-aluminum-copper-alloy-hot-plate-stove-burner-cover-ring-plate-cover?variant=45805892993058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0612/4317/files/8_inch.jpg?v=1782117248
+    Price: $26.95 USD
+  - [Cast Iron / Set of Three](https://heatequalizer.com/products/the-heat-equalizer-heat-diffuser-for-gas-stove-aluminum-copper-alloy-hot-plate-stove-burner-cover-ring-plate-cover?variant=45805897449506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0612/4317/files/set.jpg?v=1782117528
+    Price: $74.95 USD
 
 ## Collections
 
 - [The Heat Equalizer Heat Diffuser for Gas Stove Enhance Cooking](https://heatequalizer.com/collections/kitchen-essentials): Never Burn Your Food Again! Transform your cooking experience with The Heat Equalizer Heat Diffuser for Gas Stove. Designed to distribute heat evenly, reduce hot spots, and prevent scorching, this premium diffuser enhances your culinary creations. Say goodbye to uneven cooking.
-  Updated: 2026-06-19T11:00:36Z
+  Updated: 2026-06-23T11:00:26Z
   Total Products: 4
 
 ## Blogs
@@ -168,6 +180,8 @@ The website includes product usage information, warranty details, shipping polic
   Updated: 2024-02-16T06:31:19Z
 - [12-inch-cast-iron-plate](https://heatequalizer.com/pages/12-inch-cast-iron-plate)
   Updated: 2026-06-21T06:19:11Z
+- [Cast Iron Pan](https://heatequalizer.com/pages/cast-iron-pan)
+  Updated: 2026-06-22T07:48:23Z
 
 ## Policies
 
