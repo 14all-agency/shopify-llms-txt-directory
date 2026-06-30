@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2024-09-26T21:00:36Z
 - Contact Email: info@lenssepeti.net
-- Updated At: 2026-06-20T00:00:41.755Z
+- Updated At: 2026-06-30T00:00:44.884Z
 
 ## Products
 
@@ -65,7 +65,7 @@
     Availability: Available
     Price: ₺1.799,90 TRY
 - [Purevision 2 HD](https://lenssepeti.net/products/purevision-2-hd): {"@context":"https://schema.org/","@type":"Product","name":"PureVision 2 HD","brand":{"@type":"Brand","name":"Bausch & Lomb"},"description":"Bausch+Lomb PureVision 2 HD, 130 Dk/t oksijen geçirgenliği, HD optik tasarım, aylık silikon hidrojel lens.","sku":"119-PUREVISION2-HD","category":"Kontakt Lens","offers":{"@type":"Offer","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"lenssepeti.net"}}} *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --teal: #00B4C8; --blue: #0058A0; --blue2: #1A75BB; --pale: #E0F7FA; --bg: #EEF9FC; --border: #80D8EA; --text-dark: #001830; --text-body: #082040; --text-mid: #1A3858; } body { font-family: 'Nunito','Segoe UI',Arial,sans-serif; background: var(--bg); color: var(--text-dark); line-height:1.8; font-size:17px; } .wrap { max-width:900px; margin:0 auto; padding:36px 24px 90px; } /* HERO — kutunun turkuaz gradient arka planı */ .hero { border-radius: 22px; padding: 0; display: flex; flex-direction: column; position: relative; overflow: hidden; margin-bottom: 36px; box-shadow: 0 8px 40px rgba(0,0,0,.15); background: linear-gradient(135deg, #3DD6E8 0%, #00A8C0 35%, #0070B8 75%, #004E90 100%); } /* Beyaz dalga efekti — kutudaki gibi */ .hero::after { content: ''; position: absolute; right: -40px; top: -60px; width: 420px; height: 420px; border-radius: 50%; background: radial-gradient(circle, rgba(255,255,255,.25) 0%, rgba(255,255,255,.08) 50%, transparent 68%); pointer-events: none; } .hero::before { content: ''; position: absolute; left: -30px; bottom: -50px; width: 260px; height: 260px; border-radius: 50%; background: radial-gradient(circle, rgba(255,255,255,.15) 0%, transparent 65%); pointer-events: none; } .hero-body { padding: 34px 48px 38px; display: flex; align-items: center; position: relative; z-index: 1; } .hero-divider { width: 1px; background: linear-gradient(180deg, transparent, rgba(255,255,255,.50) 25%, rgba(255,255,255,.50) 75%, transparent); margin: 0 36px; flex-shrink: 0; align-self: stretch; } /* SOL: BAUSCH+LOMB + PureVision®2 tipografisi */ .hero-left { display:flex; flex-direction:column; justify-content:center; flex:0 0 auto; } .hero-bl { font-size:11px; font-weight:900; letter-spacing:.22em; text-transform:uppercase; color:rgba(255,255,255,.85); margin-bottom:10px; } .hero-pv-row { display:flex; align-items:baseline; gap:4px; margin-bottom:0; } .hero-pure { font-size:2.6rem; font-weight:900; line-height:1; color:#fff; text-shadow:0 2px 8px rgba(0,0,0,.20); } .hero-vision { font-size:2.6rem; font-weight:900; line-height:1; color:rgba(255,255,255,.88); text-shadow:0 2px 8px rgba(0,0,0,.20); } .hero-vision sup{ font-size:.28em; vertical-align:super; color:rgba(255,255,255,.75); } .hero-vision-2 { font-size:2.6rem; font-weight:900; line-height:1; color:rgba(210,240,255,.90); text-shadow:0 2px 10px rgba(0,0,0,.25); } .hero-sub { font-size:.78rem; font-weight:700; color:rgba(255,255,255,.65); font-style:italic; margin-top:6px; margin-bottom:10px; } .hero-brand-tag { font-size:10px; font-weight:800; letter-spacing:.14em; text-transform:uppercase; color:rgba(255,255,255,.65); } /* SAĞ */ .hero-right { display:flex; flex-direction:column; justify-content:center; flex:1; gap:10px; } .hero-rozet { display: inline-flex; align-items: center; gap:9px; background: rgba(255,255,255,.18); border: 1.5px solid rgba(255,255,255,.40); border-radius: 8px; padding: 7px 14px; width: fit-content; backdrop-filter: blur(4px); } .hero-rozet-main { font-size:1.6rem; font-weight:900; color:#fff; letter-spacing:.04em; line-height:1; } .hero-rozet-text { display:flex; flex-direction:column; } .hero-rozet-title { font-size:9px; font-weight:900; letter-spacing:.10em; text-transform:uppercase; color:rgba(255,255,255,.95); } .hero-rozet-sub { font-size:8px; font-weight:800; letter-spacing:.06em; color:rgba(255,255,255,.75); } .hero-smart { font-size:1.0rem; font-weight:900; color:#fff; } .hero-slogan { font-size:.85rem; font-weight:700; color:rgba(255,255,255,.88); line-height:1.5; } .hero-mat { font-size:.78rem; font-weight:700; color:rgba(255,255,255,.68); font-style:italic; } .hero-meta { display:flex; flex-wrap:wrap; gap:8px; margin-top:4px; } .hero-meta-box { display:flex; flex-direction:column; align-items:center; background:rgba(255,255,255,.18); border:1.5px solid rgba(255,255,255,.35); border-radius:12px; padding:9px 13px; min-width:62px; backdrop-filter:blur(4px); } .hero-meta-val { font-size:.90rem; font-weight:900; color:#fff; line-height:1; } .hero-meta-lbl { font-size:10px; font-weight:800; color:rgba(255,255,255,.80); text-transform:uppercase; letter-spacing:.05em; margin-top:3px; } .badges { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:32px; } .badge { background:var(--pale); color:var(--text-dark); border:1.5px solid var(--border); border-radius:30px; padding:7px 18px; font-size:14px; font-weight:800; } .badge.teal { background:#E0F7FA; color:#004D60; border-color:#80D8EA; } p { font-size:17px; color:var(--text-body); margin-bottom:18px; line-height:1.85; } strong { color:var(--text-dark); font-weight:800; } h2 { font-size:1.3rem; font-weight:900; color:var(--text-dark); margin:42px 0 14px; padding-left:16px; border-left:5px solid var(--teal); } h3 { font-size:1.05rem; font-weight:900; color:var(--text-dark); margin:24px 0 10px; } table { width:100%; border-collapse:collapse; margin:14px 0 28px; font-size:16px; border-radius:14px; overflow:hidden; box-shadow:0 2px 14px rgba(0,0,0,.08); } th { background:var(--blue); color:#fff; padding:13px 18px; text-align:left; font-weight:800; font-size:15px; } td { padding:12px 18px; border-bottom:1px solid var(--border); color:var(--text-body); font-size:16px; font-weight:600; } tr:last-child td { border-bottom:none; } tr:nth-child(even) td { background:var(--pale); } .tip-box { background:var(--pale); border-left:5px solid var(--teal); border-radius:0 12px 12px 0; padding:16px 22px; margin:20px 0; } .tip-box p { margin:0; font-size:16px; color:var(--text-dark); font-weight:700; } ul { margin:8px 0 20px 28px; } li { margin-bottom:10px; font-size:17px; color:var(--text-body); font-weight:600; } .faq-item { border:1.5px solid var(--border); border-radius:12px; margin-bottom:12px; padding:17px 20px; background:#fff; transition:border-color .2s; } .faq-item:hover { border-color:var(--teal); } .faq-q { color:var(--text-dark); display:block; margin-bottom:7px; font-size:17px; font-weight:800; } .faq-a { margin:0; font-size:16px; color:var(--text-body); font-weight:600; } .tags { margin-top:44px; padding-top:22px; border-top:1.5px solid var(--border); display:flex; flex-wrap:wrap; gap:9px; } .tag { background:#fff; color:var(--text-dark); border:1.5px solid var(--border); border-radius:8px; padding:6px 14px; font-size:14px; font-weight:700; text-decoration:none; transition:background .15s; } .tag:hover { background:var(--pale); } .note { font-size:14px; color:var(--text-mid); margin-top:20px; padding-top:16px; border-top:1px solid var(--border); font-weight:600; } @media(max-width:640px) { .hero-body { flex-direction:column; padding:28px 22px; } .hero-divider { width:100%; height:1px; margin:20px 0; } .hero-pure, .hero-vision { font-size:2rem; } .hero-vision-2 { font-size:3rem; } } Bausch + Lomb · lenssepeti.net PureVision®2 (balafilcon A) monthly silicone hydrogel lenses HD High Definition Optik AutoAlign Design™ · 130 Dk/t O₂ AutoAlign Design™ · HD Optik Netlik Yüksek oksijen geçirgenliği — aylıkkonfor ve keskin HD görüş balafilcon A · 3 / 6 silicone hydrogel contact lenses %36Su 130Dk/t O₂ BC 8.6mm 14.0Çap (mm) 3/6Lens Aylık (30 Gün) BC 8.6 mm Çap 14.0 mm Su %36 HD Optik 6 Lens PureVision 2 HD, lenssepeti.net'in en çok tercih edilen aylık kontakt lens ürünleri arasında özel bir yere sahiptir. Bausch+Lomb'un yenilikçi HD optik tasarımı ve AutoAlign Design™ teknolojisiyle üretilen PureVision 2 HD; 130 Dk/t ile son derece yüksek oksijen geçirgenliği, üstün konfor ve olağanüstü görüş keskinliğiyle aylık lens deneyiminizi tamamen farklı bir boyuta taşır. lenssepeti.net'te PureVision 2 HD'yi orijinal ambalajında, son kullanma tarihi kontrollü ve güvenli ödeme seçenekleriyle kolayca sipariş edebilirsiniz. PureVision 2 HD, dünyaca tanınan Bausch+Lomb tarafından titiz kalite kontrol süreçleri ve klinik çalışmalar eşliğinde geliştirilmiştir. Aylık kullanıma uygun olan PureVision 2 HD; farklı yaşam tarzlarına ve göz anatomilerine göre optimize edilmiş parametrelerle sunulmaktadır. Sabah ilk takıldığı andan gece çıkarıldığı ana dek PureVision 2 HD'nin sağladığı konfor ve HD netlik, kullanıcı memnuniyeti anketlerinde sürekli olarak en yüksek puanı alan özellikler arasında yer almaktadır. Uzun çalışma saatleri, ekran başında geçirilen yoğun tempolar veya dış ortamda sürdürülen aktif bir yaşam tarzı; göz nemini ve lens konforunu olumsuz etkileyebilir. PureVision 2 HD, yüksek oksijen geçirgenliği sayesinde bu zorlu koşullara karşı dayanıklı bir yapıya sahip olup gün boyunca korneayı nefes alır halde tutar. Teknik Özellikler Özellik Değer Materyal Balafilcon A (Silikon Hidrojel) Su İçeriği %36 Baz Eğri (BC) 8.6 mm Çap (Diameter) 14.0 mm Oksijen Geçirgenliği (Dk/t) 130 UV Koruması Yok Güç Aralığı -12.00 ile +8.00 D Kullanım Tipi Aylık (30 Gün) Paket İçeriği 6 Lens Üretici Bausch + Lomb PureVision 2 HD Hakkında Detaylı Bilgi PureVision 2 HD'nin en belirgin özelliği 130 Dk/t oksijen geçirgenliğidir; bu değer sektörün en yüksek silikon hidrojel performanslarından birini temsil eder. Balafilcon A materyali, korneaya yeterli oksijen ulaşmasını sağlayarak uzun süreli kullanımda göz sağlığını korur. HD (High Definition) optik tasarım, özellikle gece görüşünde ve düşük ışık koşullarında belirgin biçimde daha keskin ve net görüntü sunar. AutoAlign Design™ teknolojisi, lensin göz yüzeyinde kendiliğinden doğru konuma oturmasını sağlayarak gün içindeki farklı bakış açılarında kararlı ve tutarlı bir optik performans sunar. PureVision 2 HD'nin %36 su içeriği, silikon hidrojel sınıfı için optimum nem dengesini korurken yüksek oksijen geçirgenliğiyle desteklenerek uzun kullanım saatlerinde konfor sağlar. PureVision 2 HD'nin geniş güç aralığı (-12.00 ile +8.00 D), hafif miyopiden yüksek miyopiye ve hipermetropi değerlerine kadar geniş bir spektrumu kapsar. lenssepeti.net olarak PureVision 2 HD'yi tüm mevcut parametrelerde stok tutmakta ve siparişlerinizi en kısa sürede karşılamaktayız. PureVision 2 HD, üretim sürecinde uygulanan kapsamlı kalite testleri sayesinde tutarlı bir optik netlik sunar. lenssepeti.net, PureVision 2 HD'yi orijinal blister paketinde ve son kullanma tarihi kontrollü olarak sunmaktadır. PureVision 2 HD Kullanım Talimatları PureVision 2 HD'yi takmadan önce ellerinizi sabun ve suyla iyice yıkayın, ovmayı ihmal etmeyin ve tiftiksiz bir havluyla kurulayın. Lens kutusundan PureVision 2 HD'yi çıkarmadan önce içindeki eski bakım solüsyonunu tamamen dökün; taze solüsyon kullanmak lensin temizliğini ve konforunu korur. Lensi takmak için başparmağınız ve orta parmağınızla göz kapağını açın, PureVision 2 HD'yi işaret parmağınızın ucuyla kornea üzerine getirin ve yavaşça bırakın. Birkaç kez göz kırparak lensin oturumunu kontrol edin. Bulanık görüntü veya yabancı cisim hissi yaşarsanız lensi çıkarıp yeniden temizleyip takın. Her gece uyumadan önce PureVision 2 HD'yi çıkarın. Lensi çıkardıktan sonra çok amaçlı lens solüsyonuyla en az 5 saniye her iki yüzeyini ovalayarak temizleyin, durulayın ve lens kutusuna taze solüsyonla dolu olarak yerleştirin. Ovma adımını "no rub" ibareli solüsyonlarda bile atlamamanızı öneririz. PureVision 2 HD'yi her ay yenileyin. Lens kutunuzu her gün taze solüsyonla doldurun; 1-3 ayda bir kutuyu yenileyin. Yüzme, banyo veya sauna sırasında PureVision 2 HD'yi çıkarın; suyla temas enfeksiyon riskini artırır. Kimler İçin Uygundur? PureVision 2 HD, özellikle görüş keskinliğini ön planda tutan, gece veya düşük ışık koşullarında sık çalışan ya da araba kullanan ve aylık lens konforundan taviz vermek istemeyen kullanıcılar için ideal bir seçenektir. HD optik tasarım ve 130 Dk/t oksijen geçirgenliğinin kombinasyonu, hem performans hem sağlık açısından üst düzey bir aylık deneyim sunar. Aktif spor yapanlar, yoğun ekran kullanıcıları, seyahat tutkunları ve uzun çalışma saatlerinde aylık lens kullananlar için PureVision 2 HD; güvenilir ve kanıtlanmış bir çözümdür. Göz doktorunuzun onayladığı parametreleri seçerek lenssepeti.net'ten kolayca sipariş verin. Neden lenssepeti.net'ten Satın Almalısınız? lenssepeti.net, Türkiye'nin güvenilir online kontakt lens ve göz bakım ürünleri platformu olarak binlerce kullanıcının tercihi olmaya devam etmektedir. PureVision 2 HD'yi lenssepeti.net'ten satın aldığınızda; orijinallik garantisi, son kullanma tarihi kontrolü, güvenli paketleme ve hızlı kargo avantajlarının tamamından eşzamanlı olarak yararlanırsınız. lenssepeti.net'in 7/24 aktif müşteri destek ekibi, parametre seçimi, stok durumu ve iade süreçleri dahil tüm konularda yanınızdadır. Kredi kartı, banka kartı ve kapıda ödeme seçenekleriyle güvenli alışveriş yapabilirsiniz. Belirli sipariş tutarının üzerinde kargo ücretsizdir. Sıkça Sorulan Sorular PureVision 2 HD'yi nasıl saklamalıyım? Her kullanım sonrası çok amaçlı lens solüsyonuyla ovarak temizleyin, durulayın ve taze solüsyon dolu lens kutusunda saklayın. HD optik tasarım ne anlama geliyor? HD (High Definition) optik tasarım; özellikle gece görüşünde ve düşük ışık koşullarında daha keskin, halo ve glare azaltılmış görüntü sunan özel bir lens geometrisidir. PureVision 2 HD'yi nereden satın alabilirim? lenssepeti.net'te orijinal fiyatlarla, güvenli ödeme seçenekleriyle satın alabilirsiniz. PureVision 2 HD'nin paketi ne kadar sürer? 3 lens içeren paket tek göz için yaklaşık 3 ay, 6 lens içeren paket yaklaşık 6 ay sürer. PureVision 2 HD astigmat için uygun mudur? Standart sferik versiyon astigmat düzeltmesi yapmaz; astigmat için göz doktorunuza danışın. PureVision 2 HD ile yüzebilir miyim? Hayır; yüzme, deniz veya banyo sırasında tüm kontakt lensler çıkarılmalıdır. Su teması enfeksiyon riskini artırır. Uyku sırasında kullanılabilir mi? Göz doktorunuz özellikle belirtmedikçe uyku sırasında lens kullanmayın; enfeksiyon ve kornea hasarı riskini ciddi ölçüde artırır. PureVision 2 HD'nin fiyatı nedir? Güncel fiyat için lenssepeti.net'teki ürün sayfasını ziyaret edin; kampanya ve indirimlerden haberdar olmak için bültene abone olun. purevision 2 hd purevision 2 hd fiyat purevision 2 hd satın al bausch lomb lens aylık lens lenssepeti purevision balafilcon lens hd optik lens kontakt lens lenssepeti.net bc 8.6 mm lens çap 14.0 mm lens purevision 2 hd yorumları purevision 2 hd özellikleri yüksek oksijen lens kontakt lens satın al lenssepeti.net güvenilir mi orijinal kontakt lens hızlı kargo lens gece görüş lensi Bu ürün sayfası lenssepeti.net tarafından hazırlanmıştır. Bausch+Lomb markası ve ilgili ticari markalar sahiplerine aittir.
-  Updated: 2026-06-18T07:25:37Z
+  Updated: 2026-06-28T16:04:57Z
   Vendor: Bausch + Lomb
   Product Type: Şeffaf Lensler
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: ₺1.899,90 TRY
 - [MyDay Günlük Lens](https://lenssepeti.net/products/myday-gunluk-lens): {"@context":"https://schema.org/","@type":"Product","name":"MyDay Günlük Lens","brand":{"@type":"Brand","name":"CooperVision"},"description":"CooperVision MyDay, Smart Silicone %54 su, günlük silikon hidrojel lens.","sku":"112-MYDAY-GUNLUK","category":"Kontakt Lens","offers":{"@type":"Offer","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"lenssepeti.net"}}} *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --green: #5BAD2E; --green2: #7DC34A; --orange: #E8740C; --pale-green: #EAF5D8; --accent: #5BAD2E; --pale: #F2FAE8; --bg: #F5F9EF; --border: #B8D98A; --text-dark: #152808; --text-body: #253818; --text-mid: #3A5228; } body { font-family: 'Nunito','Segoe UI',Arial,sans-serif; background: var(--bg); color: var(--text-dark); line-height:1.8; font-size:17px; } .wrap { max-width:900px; margin:0 auto; padding:36px 24px 90px; } .hero { background: #fff; border-radius: 22px; padding: 0; display: flex; flex-direction: column; position: relative; overflow: hidden; margin-bottom: 36px; box-shadow: 0 8px 40px rgba(0,0,0,.10); border: 1.5px solid #C8E8A0; } .hero::after { content: ''; position: absolute; right: 0; top: 0; bottom: 0; width: 45%; background: #E8F5D0; clip-path: polygon(16% 0%, 100% 0%, 100% 100%, 0% 100%); pointer-events: none; } .hero-body { padding: 34px 48px 38px; display: flex; align-items: center; position: relative; z-index: 1; } .hero-divider { width: 1px; background: linear-gradient(180deg, transparent, #A8D878 25%, #A8D878 75%, transparent); margin: 0 36px; flex-shrink: 0; align-self: stretch; } /* SOL: MyDay tipografisi — kutudaki gibi koyu/siyah */ .hero-left { display:flex; flex-direction:column; justify-content:center; flex:0 0 auto; } .hero-brand-cv { font-size:11px; font-weight:900; letter-spacing:.20em; text-transform:uppercase; color:#3A8A1A; margin-bottom:10px; } .hero-myday { font-size:3.6rem; font-weight:900; line-height:.95; color:#1A1A1A; margin-bottom:4px; } .hero-myday sup { font-size:.28em; vertical-align:super; color:#555; } .hero-daily { font-size:1.0rem; font-weight:700; color:#5A5A5A; letter-spacing:.04em; margin-bottom:10px; } .hero-brand-tag { font-size:10px; font-weight:800; letter-spacing:.14em; text-transform:uppercase; color:#5A7A3A; } /* SAĞ */ .hero-right { display:flex; flex-direction:column; justify-content:center; flex:1; gap:10px; } .hero-uv { display: inline-flex; align-items: center; gap:9px; background: var(--orange); border-radius: 6px; padding: 6px 14px; width: fit-content; } .hero-uv-main { font-size:1.4rem; font-weight:900; color:#fff; letter-spacing:-.02em; line-height:1; } .hero-uv-text { display:flex; flex-direction:column; } .hero-uv-title { font-size:9px; font-weight:900; letter-spacing:.10em; text-transform:uppercase; color:rgba(255,255,255,.92); } .hero-uv-sub { font-size:8px; font-weight:800; letter-spacing:.06em; color:rgba(255,255,255,.78); } .hero-smart { font-size:1.0rem; font-weight:900; color:#152808; } .hero-smart span { color:#5BAD2E; } .hero-slogan { font-size:.85rem; font-weight:700; color:#3A5228; line-height:1.5; } .hero-mat { font-size:.78rem; font-weight:700; color:#5A7A3A; font-style:italic; } .hero-meta { display:flex; flex-wrap:wrap; gap:8px; margin-top:4px; } .hero-meta-box { display:flex; flex-direction:column; align-items:center; background:rgba(255,255,255,.88); border:1.5px solid #B8D88A; border-radius:12px; padding:9px 13px; min-width:62px; } .hero-meta-val { font-size:.90rem; font-weight:900; color:#5BAD2E; line-height:1; } .hero-meta-lbl { font-size:10px; font-weight:800; color:#3A5228; text-transform:uppercase; letter-spacing:.05em; margin-top:3px; } .badges { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:32px; } .badge { background:var(--pale); color:var(--text-dark); border:1.5px solid var(--border); border-radius:30px; padding:7px 18px; font-size:14px; font-weight:800; } .badge.gold { background:#FFF8E1; color:#5D4037; border-color:#FFE082; } p { font-size:17px; color:var(--text-body); margin-bottom:18px; line-height:1.85; } strong { color:var(--text-dark); font-weight:800; } h2 { font-size:1.3rem; font-weight:900; color:var(--text-dark); margin:42px 0 14px; padding-left:16px; border-left:5px solid var(--green); } h3 { font-size:1.05rem; font-weight:900; color:var(--text-dark); margin:24px 0 10px; } table { width:100%; border-collapse:collapse; margin:14px 0 28px; font-size:16px; border-radius:14px; overflow:hidden; box-shadow:0 2px 14px rgba(0,0,0,.08); } th { background:var(--green); color:#fff; padding:13px 18px; text-align:left; font-weight:800; font-size:15px; } td { padding:12px 18px; border-bottom:1px solid var(--border); color:var(--text-body); font-size:16px; font-weight:600; } tr:last-child td { border-bottom:none; } tr:nth-child(even) td { background:var(--pale); } .tip-box { background:var(--pale); border-left:5px solid var(--green); border-radius:0 12px 12px 0; padding:16px 22px; margin:20px 0; } .tip-box p { margin:0; font-size:16px; color:var(--text-dark); font-weight:700; } ul { margin:8px 0 20px 28px; } li { margin-bottom:10px; font-size:17px; color:var(--text-body); font-weight:600; } .faq-item { border:1.5px solid var(--border); border-radius:12px; margin-bottom:12px; padding:17px 20px; background:#fff; transition:border-color .2s; } .faq-item:hover { border-color:var(--green); } .faq-q { color:var(--text-dark); display:block; margin-bottom:7px; font-size:17px; font-weight:800; } .faq-a { margin:0; font-size:16px; color:var(--text-body); font-weight:600; } .tags { margin-top:44px; padding-top:22px; border-top:1.5px solid var(--border); display:flex; flex-wrap:wrap; gap:9px; } .tag { background:#fff; color:var(--text-dark); border:1.5px solid var(--border); border-radius:8px; padding:6px 14px; font-size:14px; font-weight:700; text-decoration:none; transition:background .15s; } .tag:hover { background:var(--pale); } .note { font-size:14px; color:var(--text-mid); margin-top:20px; padding-top:16px; border-top:1px solid var(--border); font-weight:600; } @media(max-width:640px) { .hero-body { flex-direction:column; padding:28px 22px; } .hero-divider { width:100%; height:1px; margin:20px 0; } .hero-myday { font-size:2.8rem; } } CooperVision · lenssepeti.net MyDay® daily disposable silicone hydrogel lenses UV Blocking Koruması UVA & UVB · Smart Silicone™ Smart Silicone™ Technology Yüksek O₂ geçirgenliği — gün boyuncakonforlu ve sağlıklı görüş stenfilcon A · 30 / 90 silicone hydrogel contact lenses %54Su 100Dk/t O₂ BC 8.4mm 14.2Çap (mm) 30/90Lens Günlük Tek Kullanımlık BC 8.4 mm Çap 14.2 mm Su %54 30 Lens UV Blocking MyDay Günlük Lens, lenssepeti.net'in en çok tercih edilen kontakt lens ürünleri arasında özel bir yere sahiptir. CooperVision'ın yenilikçi Smart Silicone™ teknolojisiyle üretilen MyDay Günlük Lens; yüksek oksijen geçirgenliği, üstün nem tutma kapasitesi ve olağanüstü konfor performansıyla lens deneyiminizi tamamen farklı bir boyuta taşır. lenssepeti.net'te MyDay Günlük Lens'yi orijinal ambalajında, son kullanma tarihi kontrollü ve güvenli ödeme seçenekleriyle kolayca sipariş edebilirsiniz. MyDay Günlük Lens, dünyaca tanınan CooperVision tarafından titiz kalite kontrol süreçleri ve klinik çalışmalar eşliğinde geliştirilmiştir. Günlük tek kullanımlık olan MyDay Günlük Lens; farklı yaşam tarzlarına ve göz anatomilerine göre optimize edilmiş parametrelerle sunulmaktadır. Sabah ilk takıldığı andan gece çıkarıldığı ana dek MyDay Günlük Lens'nin sağladığı konfor, kullanıcı memnuniyeti anketlerinde sürekli olarak en yüksek puanı alan özellikler arasında yer almaktadır. Uzun çalışma saatleri, ekran başında geçirilen yoğun tempolar veya dış ortamda sürdürülen aktif bir yaşam tarzı; göz nemini ve lens konforunu olumsuz etkileyebilir. MyDay Günlük Lens, bu zorlu koşullara karşı dayanıklı bir yapıya sahip olup gün boyunca gözlerinizin nemliliğini ve lens oturumunu korur. lenssepeti.net'te MyDay Günlük Lens'yi inceleyin, teknik özelliklerini değerlendirin ve en uygun parametreyle sipariş verin. Teknik Özellikler Özellik Değer Materyal Stenfilcon A (Silikon Hidrojel) Su İçeriği %54 Baz Eğri (BC) 8.4 mm Çap (Diameter) 14.2 mm Oksijen Geçirgenliği (Dk/t) 100 UV Koruması UV Blocking (UVA & UVB) Güç Aralığı -12.00 ile +8.00 D Kullanım Tipi Günlük Tek Kullanımlık Paket İçeriği 30 Lens Üretici CooperVision MyDay Günlük Lens Hakkında Detaylı Bilgi MyDay Günlük Lens'nin teknik parametreleri, modern göz biliminin gerektirdiği tüm standartları karşılayacak şekilde tasarlanmıştır. Lensin baz eğrisi (BC) ve çap değerleri, geniş bir göz anatomisi yelpazesine uyum sağlayacak biçimde belirlenmiştir. Özellikle oksijen geçirgenliği (Dk/t) değeri 100 ile sektör ortalamalarının üzerinde bir performans sunan MyDay Günlük Lens, lens altında biriken karbondioksiti dışarı atarak korneayı sağlıklı tutar. Smart Silicone™ teknolojisi, silikon hidrojelin yüksek oksijen iletkenliğini geleneksel hidrojelin yumuşaklık ve konforuyla buluşturur. MyDay Günlük Lens'nin %54 su içeriği, gözyaşı tabakasıyla uyum açısından kritik denge gözetilerek optimize edilmiştir. UV Blocking özelliği güneşin zararlı UVA ve UVB ışınlarına karşı ek bir koruma katmanı oluşturur; ancak bu, gözlük veya güneş gözlüğünün yerini tutmaz. MyDay Günlük Lens'nin güç aralığı, hafif miyopiden yüksek miyopiye ve hipermetropi değerlerine kadar uzanan geniş bir spektrumu kapsar. lenssepeti.net olarak MyDay Günlük Lens'yi tüm mevcut parametrelerde stok tutmakta ve siparişlerinizi en kısa sürede karşılamaktayız. Hangi numarayı kullandığınızdan emin değilseniz, göz doktorunuzdan alacağınız güncel bir reçete ile lenssepeti.net'e başvurabilirsiniz. MyDay Günlük Lens, üretim sürecinde uygulanan kapsamlı kalite testleri sayesinde tutarlı bir optik netlik sunar. Özellikle ekran başında uzun süre çalışma, araba kullanma ve spor gibi aktivitelerde konfor ve netlik açısından üstün bir deneyim sunmaktadır. lenssepeti.net, MyDay Günlük Lens'yi orijinal blister paketinde ve son kullanma tarihi kontrollü olarak sunmaktadır. MyDay Günlük Lens Kullanım Talimatları MyDay Günlük Lens'yi takmadan önce ellerinizi sabun ve suyla iyice yıkayın; ovma adımını ihmal etmeyin ve tiftiksiz bir havluyla kurulayın. Temiz ve kuru ellerle blister paketi açın; paketin üst folyo kısmını dikkatlice soyun, lensi ezmeden çıkarın. Lensin iç-dış yönünü kontrol edin; kase biçimindeyse düzgün yönde, dışa dönükse ters (inside-out) durumdadır. Lensi takmak için göz kapağınızı başparmağınız ve orta parmağınızla geniş açın, işaret parmağınızın ucuna koyduğunuz MyDay Günlük Lens'yi yavaşça göz yüzeyine yaklaştırın ve bırakın. Birkaç kez göz kırparak lensin oturumunu sağlayın. Herhangi bir rahatsızlık veya bulanık görüntü varsa lensi çıkarıp tekrar kontrol edin. Günlük tek kullanımlık olan MyDay Günlük Lens için bakım solüsyonu veya lens kutusu gerekmez. Gece uyumadan mutlaka çıkarın; göz doktorunuz özellikle gece kullanımı için onay vermedikçe lensi uyurken takmayın. Günün sonunda MyDay Günlük Lens'yi çıkarmak için ellerinizi yıkayın, alt göz kapağınızı aşağı çekin ve lensin alt kenarına hafifçe temas ederek aşağı kaydırın; ardından nazikçe kıstırın. Kullandığınız lensi çöpe atın; günlük lens asla yeniden kullanılmamalıdır. Ekran kullanımı sırasında bilinçli olarak sık sık göz kırpın ve 20-20-20 kuralını uygulayın (her 20 dakikada bir 20 saniye boyunca 20 fit uzağa bakın). Yüzme, banyo veya sauna sırasında MyDay Günlük Lens'yi çıkarın; suyla temas enfeksiyon riskini artırır. Kimler İçin Uygundur? MyDay Günlük Lens, günde 8-16 saat süreyle konforlu lens kullanımı hedefleyen her yaştan kullanıcı için uygundur. Özellikle kuru göz semptomu yaşayan, uzun çalışma saatlerinde lens kullanan veya daha önce lens konforundan memnun kalmamış kişiler için MyDay Günlük Lens'nin Smart Silicone™ teknolojisi belirleyici bir fark oluşturabilir. İlk kez kontakt lens denenecek bireyler için de uygun bir başlangıç noktası olan MyDay Günlük Lens'yi lenssepeti.net'te keşfedebilirsiniz. Aktif spor yapanlar, yoğun ekran kullanıcıları, seyahat tutkunları ve günlük aktiviteleri sırasında gözlüğün pratikliğini kısıtlayıcı bulan herkes için MyDay Günlük Lens; güvenilir ve kanıtlanmış bir lens çözümü sunmaktadır. Göz doktorunuzun onayladığı parametreleri seçerek lenssepeti.net'ten kolayca sipariş verin. Neden lenssepeti.net'ten Satın Almalısınız? lenssepeti.net, Türkiye'nin güvenilir online kontakt lens ve göz bakım ürünleri platformu olarak binlerce kullanıcının tercihi olmaya devam etmektedir. MyDay Günlük Lens'yi lenssepeti.net'ten satın aldığınızda; orijinallik garantisi, son kullanma tarihi kontrolü, güvenli paketleme ve hızlı kargo avantajlarının tamamından eşzamanlı olarak yararlanırsınız. Platformumuzda yalnızca yetkili distribütörlerden temin edilen orijinal ürünler yer almaktadır. lenssepeti.net'in 7/24 aktif müşteri destek ekibi, parametre seçimi, stok durumu ve iade süreçleri dahil tüm konularda yanınızdadır. Kredi kartı, banka kartı ve kapıda ödeme seçenekleriyle güvenli alışveriş yapabilirsiniz. Belirli sipariş tutarının üzerinde kargo ücretsizdir. lenssepeti.net'te MyDay Günlük Lens'yi sipariş ettikten sonra siparişinizin her aşamasını anlık takip edebilir, kargo firmasının sistemi üzerinden teslim durumunu izleyebilirsiniz. Düzenli MyDay Günlük Lens kullanıcıları için lenssepeti.net'in abonelik sistemi; her dönem otomatik sipariş olanağı sunarak hem zaman kazandırır hem de stok tükenmesi kaygısını ortadan kaldırır. Sıkça Sorulan Sorular MyDay Günlük Lens'i nasıl saklamalıyım? Günlük tek kullanımlık olduğundan bakım solüsyonu gerekmez; her gün yeni lens açılmalıdır. MyDay Günlük Lens'i nereden satın alabilirim? lenssepeti.net'te orijinal fiyatlarla, güvenli ödeme seçenekleriyle satın alabilirsiniz. MyDay Günlük Lens'in paketi ne kadar sürer? 30 lens içeren paket tek göz için yaklaşık 1 ay, 90 lens içeren paket yaklaşık 3 ay sürer. MyDay Günlük Lens astigmat için uygun mudur? Standart sferik versiyon astigmat düzeltmesi yapmaz. Astigmat için MyDay Toric versiyonuna göz doktorunuzun yönlendirmesiyle geçebilirsiniz. MyDay Günlük Lens ile yüzebilir miyim? Hayır; yüzme, deniz veya banyo sırasında tüm kontakt lensler çıkarılmalıdır. Su teması enfeksiyon riskini artırır. MyDay Günlük Lens'nin fiyatı nedir? Güncel fiyat bilgisi için lenssepeti.net'teki ürün sayfasını ziyaret edin; kampanya ve indirimlerden haberdar olmak için bültene abone olun. Nasıl sipariş verebilirim? Ürün sayfasında BC, çap ve numaranızı seçin; sepete ekleyip güvenli ödeme adımlarını tamamlayın. Siparişiniz hızla kargoya verilir. MyDay Günlük Lens uyku sırasında kullanılabilir mi? Göz doktorunuz özellikle belirtmedikçe uyku sırasında lens kullanmayın; enfeksiyon ve kornea hasarı riskini ciddi ölçüde artırır. myday günlük lens myday günlük lens fiyat myday günlük lens satın al coopervision lens günlük tek kullanımlık lens lenssepeti myday stenfilcon lens kontakt lens lenssepeti.net bc 8.4 mm lens çap 14.2 mm lens myday günlük lens yorumları myday günlük lens özellikleri myday günlük lens kullanım kontakt lens satın al lenssepeti.net güvenilir mi orijinal kontakt lens lens fiyatları hızlı kargo lens günlük lens tek kullanımlık lens uv blocking lens smart silicone lens Bu ürün sayfası lenssepeti.net tarafından hazırlanmıştır. CooperVision ve MyDay markası ile ilgili ticari markalar sahiplerine aittir.
-  Updated: 2026-06-16T12:18:08Z
+  Updated: 2026-06-20T11:54:22Z
   Vendor: Cooper Vision
   Product Type: Şeffaf Lensler
   Availability: Available
@@ -270,7 +270,7 @@
     Availability: Available
     Price: ₺999,90 TRY
 - [Renu Advanced Lens Solüsyonu 360 ml](https://lenssepeti.net/products/renu-advanced-lens-solusyonu-360-ml): {"@context":"https://schema.org/","@type":"Product","name":"Renu Advanced Lens Solüsyonu 360 ml","brand":{"@type":"Brand","name":"Bausch & Lomb"},"description":"Bausch & Lomb ReNu Advanced solüsyon, 360 ml.","sku":"106-RENU-ADVANCED-360ML","category":"Kontakt Lens","offers":{"@type":"Offer","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"lenssepeti.net"}}} *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --accent: #2E7D32; --pale: #E8F5E9; --bg: #F1F8F1; --border: #A5D6A7; --text-dark: #0a2a3a; --text-body: #1a3a50; --text-mid: #1a3a50; } body { font-family: 'Nunito','Segoe UI',Arial,sans-serif; background: var(--bg); color: var(--text-dark); line-height:1.8; font-size:17px; } .wrap { max-width:900px; margin:0 auto; padding:36px 24px 90px; } .hero { background:#fff; border-radius:22px; padding:50px 56px; display:flex; align-items:center; position:relative; overflow:hidden; margin-bottom:36px; box-shadow:0 8px 40px rgba(0,0,0,.10); } .hero::before { content:''; position:absolute; left:0; top:0; bottom:0; width:7px; background:linear-gradient(180deg,var(--accent) 0%,#A5D6A7 100%); border-radius:22px 0 0 22px; } .hero::after { content:''; position:absolute; right:-80px; bottom:-80px; width:340px; height:340px; border-radius:50%; background:radial-gradient(circle,var(--pale) 0%,transparent 65%); pointer-events:none; } .hero-text { flex:1; padding-right:0; position:relative; z-index:1; } .hero-brand { font-size:11px; font-weight:900; letter-spacing:.22em; text-transform:uppercase; color:var(--accent); margin-bottom:10px; } .hero-text h1 { font-size:2.4rem; font-weight:900; color:var(--text-dark); line-height:1.06; margin-bottom:10px; } .hero-badge { display:inline-block; background:var(--accent); color:#fff; border-radius:5px; padding:3px 13px; font-size:12px; font-weight:900; letter-spacing:.07em; margin-bottom:18px; } .hero-desc { font-size:1rem; color:var(--text-mid); font-weight:700; line-height:1.65; margin-bottom:28px; max-width:380px; } .hero-meta { display:flex; flex-wrap:wrap; gap:10px; } .hero-meta-box { display:flex; flex-direction:column; align-items:center; background:var(--pale); border:1.5px solid var(--border); border-radius:12px; padding:11px 18px; min-width:76px; } .hero-meta-val { font-size:1.15rem; font-weight:900; color:var(--accent); line-height:1; } .hero-meta-lbl { font-size:10px; font-weight:800; color:var(--text-mid); text-transform:uppercase; letter-spacing:.05em; margin-top:4px; } .badges { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:32px; } .badge { background:var(--pale); color:var(--text-dark); border:1.5px solid var(--border); border-radius:30px; padding:7px 18px; font-size:14px; font-weight:800; } .badge.gold { background:#FFF8E1; color:#5D4037; border-color:#FFE082; } p { font-size:17px; color:var(--text-body); margin-bottom:18px; line-height:1.85; } strong { color:var(--text-dark); font-weight:800; } h2 { font-size:1.3rem; font-weight:900; color:var(--text-dark); margin:42px 0 14px; padding-left:16px; border-left:5px solid var(--accent); } table { width:100%; border-collapse:collapse; margin:14px 0 28px; font-size:16px; border-radius:14px; overflow:hidden; box-shadow:0 2px 14px rgba(0,0,0,.08); } th { background:var(--accent); color:#fff; padding:13px 18px; text-align:left; font-weight:800; font-size:15px; } td { padding:12px 18px; border-bottom:1px solid var(--border); color:var(--text-body); font-size:16px; font-weight:600; } tr:last-child td { border-bottom:none; } tr:nth-child(even) td { background:var(--pale); } .tip-box { background:var(--pale); border-left:5px solid var(--accent); border-radius:0 12px 12px 0; padding:16px 22px; margin:20px 0; } .tip-box p { margin:0; font-size:16px; color:var(--text-dark); font-weight:700; } ul { margin:8px 0 20px 28px; } li { margin-bottom:10px; font-size:17px; color:var(--text-body); font-weight:600; } .faq-item { border:1.5px solid var(--border); border-radius:12px; margin-bottom:12px; padding:17px 20px; background:#fff; transition:border-color .2s; } .faq-item:hover { border-color:var(--accent); } .faq-q { color:var(--text-dark); display:block; margin-bottom:7px; font-size:17px; font-weight:800; } .faq-a { margin:0; font-size:16px; color:var(--text-body); font-weight:600; } .tags { margin-top:44px; padding-top:22px; border-top:1.5px solid var(--border); display:flex; flex-wrap:wrap; gap:9px; } .tag { background:#fff; color:var(--text-dark); border:1.5px solid var(--border); border-radius:8px; padding:6px 14px; font-size:14px; font-weight:700; text-decoration:none; transition:background .15s; } .tag:hover { background:var(--pale); } .note { font-size:14px; color:var(--text-mid); margin-top:20px; padding-top:16px; border-top:1px solid var(--border); font-weight:600; } @media(max-width:640px) { .hero { flex-direction:column; padding:36px 28px 36px 36px; } .hero-text { padding-right:0; } .hero-text h1 { font-size:1.8rem; } } Bausch + Lomb ReNu · lenssepeti.net ReNu Advanced Formula 360 ml ▲ Çok Amaçlı · Ekonomik Boy ReNu Advanced formülüyle 20 saat nem retansiyonu. 360 ml ekonomik boy. 360ml AdvancedFormula 20 SaatNem EkonomikBoy Lens Bakım Solüsyonu 360 ml Renu Advanced Lens Solüsyonu 360 ml, lenssepeti.net'in göz bakımı kategorisinde özenle seçilmiş ürünler arasında yer almaktadır. Kontakt lens kullanıcılarının günlük bakım rutininin vazgeçilmez bir parçası olan Renu Advanced Lens Solüsyonu 360 ml; lensinizin ömrünü uzatır, gözlerinizi mikroorganizmalara karşı korur ve kullanım boyunca maksimum konfor sağlar. lenssepeti.net olarak Renu Advanced Lens Solüsyonu 360 ml ürününü orijinal ambalajında, son kullanma tarihi kontrollü biçimde temin etmekte ve kapınıza güvenle teslim etmekteyiz. Renu Advanced Lens Solüsyonu 360 ml, sektörün köklü markalarından biri tarafından üretilmekte olup uluslararası kalite standartlarına tam uyum sağlamaktadır. Günlük, aylık veya yıllık lens kullananlar için özel olarak formüle edilen Renu Advanced Lens Solüsyonu 360 ml; lensin yüzeyini nemli tutar, protein birikintilerini temizler ve göz sağlığını olumsuz etkileyebilecek etkenlerden korunmanıza yardımcı olur. lenssepeti.net'te Renu Advanced Lens Solüsyonu 360 ml'yi uygun fiyat garantisiyle satın alabilir, siparişinizin hızlı ve eksiksiz ulaşacağından emin olabilirsiniz. lenssepeti.net, Renu Advanced Lens Solüsyonu 360 ml stoklarını düzenli olarak yenilemekte ve her zaman güncel son kullanma tarihli ürün sunmaktadır. Binlerce memnun müşterinin tercih ettiği Renu Advanced Lens Solüsyonu 360 ml; pratik kullanımı, etkili formülü ve güvenilir üreticisiyle göz bakım rutininizin en önemli bileşeni olmayı hak etmektedir. Şimdi lenssepeti.net'e girerek Renu Advanced Lens Solüsyonu 360 ml'yi kampanyalı fiyatlarla sipariş edebilirsiniz. Teknik Özellikler Özellik Değer Materyal Solüsyon Su İçeriği – Kullanım Tipi Lens Bakım Solüsyonu Paket İçeriği 360 ml Üretici Bausch & Lomb Renu Advanced Lens Solüsyonu 360 ml Hakkında Detaylı Bilgi Renu Advanced Lens Solüsyonu 360 ml; optik sektörünün köklü markasından gelen, yıllara dayanan araştırma ve geliştirme çalışmalarının ürünüdür. Bu ürünü diğer bakım solüsyonlarından ayıran en önemli özellik, lens yüzeyindeki protein, lipit ve kalsiyum birikintilerini etkili biçimde temizlerken lensin ıslanabilirlik özelliğini koruyarak göz üzerindeki konfor hissini artırmasıdır. Renu Advanced Lens Solüsyonu 360 ml'in içeriğindeki antimikrobiyal bileşenler, bakteri ve mantarların oluşturabileceği enfeksiyonlara karşı etkili bir bariyer oluşturur. Renu Advanced Lens Solüsyonu 360 ml, tek adımda temizleme, durulama, dezenfeksiyon ve saklama işlevlerini bir arada gerçekleştiren çok amaçlı (multi-purpose) bir formüle sahiptir. Bu sayede lenssepeti.net'ten aldığınız Renu Advanced Lens Solüsyonu 360 ml ile lens bakım sürecinizi hem kısaltabilir hem de basitleştirebilirsiniz. Ürünün konsantrasyonu, uzun süreli saklama sırasında dahi lensin yapısını ve parametrelerini değiştirmeyecek şekilde dengelenmiştir. lenssepeti.net'te stok durumunu takip ederek Renu Advanced Lens Solüsyonu 360 ml'yi en uygun fiyat garantisiyle sipariş edebilirsiniz. Renu Advanced Lens Solüsyonu 360 ml, yumuşak hidrojel ve silikon hidrojel lenslerin büyük çoğunluğuyla uyumludur. Ancak kullandığınız lensin üretici rehberine ve göz doktorunuzun önerilerine mutlaka uyun; bazı özel lens tipleri için üreticinin onayladığı belirli bir bakım solüsyonu gerekebilir. Renu Advanced Lens Solüsyonu 360 ml'i serin, kuru ve güneş ışığından uzak bir ortamda saklayın; açıldıktan sonraki kullanım süresini mutlaka etiket üzerinden kontrol edin. lenssepeti.net olarak Renu Advanced Lens Solüsyonu 360 ml'yi orijinal ambalajında ve son kullanma tarihine bolca vakitli biçimde sunmaktayız. Seyahat, spor veya yoğun çalışma temposu boyunca Renu Advanced Lens Solüsyonu 360 ml'yi yanınızda bulundurmak, lens hijyeninizi her koşulda korumanızı sağlar. Özellikle uzun uçuş sürelerinde ve iklimlendirmeli ortamlarda artan kuruluk hissine karşı Renu Advanced Lens Solüsyonu 360 ml'yi düzenli olarak kullanmak, lens konforunuzu ve görüş kalitesini korur. lenssepeti.net'in kolay sipariş sistemi sayesinde Renu Advanced Lens Solüsyonu 360 ml'yi dilediğiniz zaman, dilediğiniz adrese teslim ettirmeniz mümkündür. Renu Advanced Lens Solüsyonu 360 ml Kullanım Talimatları Renu Advanced Lens Solüsyonu 360 ml'yi kullanmaya başlamadan önce el hijyenine dikkat etmek kritik önem taşır. Ellerinizi sabun ve suyla en az 20 saniye boyunca yıkayın; tercihen parfümsüz ve losyonsuz sabun kullanın, ardından tiftiksiz bir havluyla iyice kurulayın. Bu basit adım, potansiyel kontaminasyonun önüne geçer ve Renu Advanced Lens Solüsyonu 360 ml'nin etkinliğini korur. Lensinizi çıkardıktan sonra avucunuzun içine koyun ve üzerine birkaç damla Renu Advanced Lens Solüsyonu 360 ml dökerek parmağınızla nazikçe 15-20 saniye boyunca her iki tarafını ovun. Bu mekanik temizlik adımı, solüsyonun kimyasal etkisini destekler ve protein birikintilerini uzaklaştırır. Ardından lensi temiz Renu Advanced Lens Solüsyonu 360 ml ile durulayın; durulamayı atlamayın, çünkü bu adım ovma sırasında gevşeyen kalıntıları ve artık solüsyonu uzaklaştırır. Temizlediğiniz lensi lens kutusuna yerleştirip üzerine yeterli miktarda taze Renu Advanced Lens Solüsyonu 360 ml dökerek kutunun kapağını sıkıca kapatın. Lens kutusunu en az 4 saat (önerilen: 6 saat veya gece boyunca) bekletin; bu süre, Renu Advanced Lens Solüsyonu 360 ml'nin içindeki dezenfektan maddenin lenste bulunabilecek mikroorganizmaları etkisiz kılması için gereken minimum süreye karşılık gelir. Sabah lensi takmadan önce kutudaki eski solüsyonu dökerek lensi taze Renu Advanced Lens Solüsyonu 360 ml ile bir kez daha durulayın. Lens kutunuzu da en az haftada bir Renu Advanced Lens Solüsyonu 360 ml ile yıkayın ve ters çevirerek temiz bir kâğıt havlu üzerinde kurumaya bırakın. Lens kutusunu su veya tükürükle temizlemeyin; bu yöntemler enfeksiyon riskini artırır. Lens kutusunu her 1-3 ayda bir yenileyin; lenssepeti.net'in aksesuar bölümünden uygun fiyatlı lens kutuları temin edebilirsiniz. Renu Advanced Lens Solüsyonu 360 ml'yi serin, karanlık ve kuru bir ortamda, çocukların erişemeyeceği bir yerde saklayın; doğrudan güneş ışığından ve yüksek sıcaklıktan koruyun. Açılmamış Renu Advanced Lens Solüsyonu 360 ml şişesini kutu üzerindeki son kullanma tarihine kadar kullanabilirsiniz; açıldıktan sonra ise etiketinde belirtilen süre (genellikle 90 gün veya 6 ay) geçmeden kullanmaya özen gösterin. Kullanım süresi dolmuş Renu Advanced Lens Solüsyonu 360 ml'yi kullanmayın; etkinliğini ve güvenliğini yitirmiş olabilir. lenssepeti.net'te Renu Advanced Lens Solüsyonu 360 ml'yi düzenli aralıklarla sipariş ederek her zaman taze ve etkili bir ürüne sahip olabilirsiniz. Kimler İçin Uygundur? Renu Advanced Lens Solüsyonu 360 ml, yumuşak kontakt lens kullanan ve lensin ömrünü birden fazla gün veya hafta boyunca sürdüren herkes için uygundur. Özellikle yoğun bir bakım rutini oluşturmak isteyen, lens hijyenini ön planda tutan ve güvenilir bir marka tercihi arayan kullanıcılar için ideal bir seçimdir. Göz doktorunun önerisi doğrultusunda kullanmaya başlayarak Renu Advanced Lens Solüsyonu 360 ml'nin etkinliğini en üst düzeyde deneyimleyebilirsiniz. Sık seyahat eden kullanıcılar için Renu Advanced Lens Solüsyonu 360 ml'nin seyahat boyutlu versiyonunu lenssepeti.net'te ayrıca bulabilirsiniz. Uzun uçuş yolculuklarında ve otel konaklamalarında lens bakımını kolaylaştıran kompakt format, çantanızda yer kaplamadan hijyeninizi korumanıza olanak tanır. lenssepeti.net'in hızlı kargo altyapısıyla Renu Advanced Lens Solüsyonu 360 ml'yi seyahat öncesinde kolayca temin edebilirsiniz. Neden lenssepeti.net'ten Satın Almalısınız? lenssepeti.net, Türkiye'nin güvenilir online kontakt lens ve göz bakım ürünleri platformu olarak binlerce kullanıcının tercihi olmaya devam etmektedir. Renu Advanced Lens Solüsyonu 360 ml'yi lenssepeti.net'ten satın aldığınızda; orijinallik garantisi, son kullanma tarihi kontrolü, güvenli paketleme ve hızlı kargo avantajlarının tamamından eşzamanlı olarak yararlanırsınız. Platformumuzda yalnızca yetkili distribütörlerden temin edilen orijinal ürünler yer almaktadır; taklit veya bayat ürün riski sıfırdır. lenssepeti.net'in 7/24 aktif müşteri destek ekibi, Renu Advanced Lens Solüsyonu 360 ml hakkında merak ettiğiniz her konuda yardımcı olmaya hazırdır; parametre seçimi, stok durumu, kampanya bilgileri ve iade süreçleri dahil tüm konularda yanınızdayız. Kredi kartı, banka kartı ve kapıda ödeme seçenekleriyle güvenli alışveriş yapabilirsiniz. Belirli bir sipariş tutarının üzerindeki alışverişlerde kargo ücretsizdir; toplu sipariş avantajlarından yararlanmak için lenssepeti.net'in kampanya sayfasını düzenli takip edin. lenssepeti.net'te Renu Advanced Lens Solüsyonu 360 ml'yi sipariş ettikten sonra siparişinizin her aşamasını anlık takip edebilir, kargo firmasının sistemi üzerinden teslim durumunu izleyebilirsiniz. Herhangi bir sorunla karşılaşmanız halinde iade ve değişim politikamız çerçevesinde çözüme kavuşturulur. Düzenli Renu Advanced Lens Solüsyonu 360 ml kullanıcıları için lenssepeti.net'in abonelik sistemi; her dönem otomatik sipariş olanağı sunarak hem zaman kazandırır hem de stok tükenmesi kaygısını ortadan kaldırır. Sıkça Sorulan Sorular Renu Advanced Lens Solüsyonu 360 ml'i nasıl saklamalıyım? Renu Advanced Lens Solüsyonu 360 ml'i her kullanım sonrası çok amaçlı lens solüsyonuyla temizleyip lens kutusunda saklayın. Renu Advanced Lens Solüsyonu 360 ml'i nereden satın alabilirim? Renu Advanced Lens Solüsyonu 360 ml'i lenssepeti.net'te orijinal fiyatlarla, güvenli ödeme seçenekleriyle satın alabilirsiniz. Renu Advanced Lens Solüsyonu 360 ml'in paketi ne kadar sürer? Renu Advanced Lens Solüsyonu 360 ml'in 360 ml içeren paketi, uzun süreli kullanım için uygundur. Renu Advanced Lens Solüsyonu 360 ml'yi hangi lens tipleriyle kullanabilirim? Büyük çoğunlukla yumuşak hidrojel ve silikon hidrojel lenslerle uyumludur; ancak kullandığınız lensin prospektüsünü ve göz doktorunuzun önerisini esas alın. Renu Advanced Lens Solüsyonu 360 ml'yi ne sıklıkla değiştirmeliyim? Açık şişeyi etiketindeki süre (genellikle 90 gün-6 ay) içinde kullanın; süre dolunca yenisiyle değiştirin. Musluk suyu Renu Advanced Lens Solüsyonu 360 ml'nin yerini tutar mı? Kesinlikle hayır. Musluk suyu, lensi ve gözü ciddi biçimde tehdit eden mikroorganizmalar içerir; asla solüsyon olarak kullanmayın. Renu Advanced Lens Solüsyonu 360 ml'yi lenssepeti.net'e nasıl sipariş verebilirim? lenssepeti.net'teki ürün sayfasından miktarı belirleyip sepete ekleyin, tercih ettiğiniz ödeme yöntemiyle tamamlayın; siparişiniz en kısa sürede kargoya verilir. renu advanced lens solüsyonu 360 ml renu advanced lens solüsyonu 360 ml fiyat renu advanced lens solüsyonu 360 ml satın al bausch & lomb lens lens bakım solüsyonu lens lenssepeti renu solüsyon lens kontakt lens lenssepeti.net renu advanced lens solüsyonu 360 ml yorumları renu advanced lens solüsyonu 360 ml özellikleri renu advanced lens solüsyonu 360 ml kullanım kontakt lens satın al lenssepeti.net güvenilir mi orijinal kontakt lens lens fiyatları hızlı kargo lens lens solüsyonu lens bakım ürünleri multi-purpose solution Bu ürün sayfası lenssepeti.net tarafından hazırlanmıştır. Bausch & Lomb markası ve ilgili ticari markalar sahiplerine aittir.
-  Updated: 2026-06-15T08:16:27Z
+  Updated: 2026-06-29T09:17:07Z
   Vendor: Bausch + Lomb
   Product Type: Solüsyon
   Availability: Available
@@ -281,49 +281,49 @@
 ## Collections
 
 - [Solüsyonlar](https://lenssepeti.net/collections/solusyonlar)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 15
 - [İndirimli Lensler](https://lenssepeti.net/collections/i̇ndirimli-lensler)
-  Updated: 2026-06-04T01:27:47Z
+  Updated: 2026-06-27T11:15:59Z
   Total Products: 66
 - [Solotica](https://lenssepeti.net/collections/solotica)
   Updated: 2026-06-04T01:27:35Z
   Total Products: 6
 - [Bausch & Lomb](https://lenssepeti.net/collections/bausch-lomb)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 24
 - [Elegance](https://lenssepeti.net/collections/elegance)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 32
 - [Biofinity](https://lenssepeti.net/collections/biofinity)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 9
 - [Air Optix](https://lenssepeti.net/collections/air-optix)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 17
 - [Acuvue](https://lenssepeti.net/collections/acuvue)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 26
 - [Renkli Lensler](https://lenssepeti.net/collections/renkli-lensler)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 52
 - [Multifocal Lensler](https://lenssepeti.net/collections/multifocal-lensler)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 11
 - [Astigmatlı Toric Lensler](https://lenssepeti.net/collections/astigmatli-toric-lensler)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 29
 - [Aylık Lensler](https://lenssepeti.net/collections/aylik-lensler)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 117
 - [2 Haftalık Lensler](https://lenssepeti.net/collections/2-haftalik-lensler)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 12
 - [Günlük Lensler](https://lenssepeti.net/collections/gunluk-lensler)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-28T01:09:20Z
   Total Products: 34
 - [Kampanyalar](https://lenssepeti.net/collections/kampanyalar)
-  Updated: 2026-06-18T11:18:44Z
+  Updated: 2026-06-24T11:16:27Z
   Total Products: 6
 - [Hediye](https://lenssepeti.net/collections/hediye)
   Updated: 2026-06-04T01:27:49Z
@@ -332,16 +332,16 @@
   Updated: 2026-06-04T01:27:40Z
   Total Products: 3
 - [Acuvue Oasys](https://lenssepeti.net/collections/acuvue-oasys)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 16
 - [Air Optix Colors](https://lenssepeti.net/collections/air-optix-1)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 4
 - [Alcon](https://lenssepeti.net/collections/alcon)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 29
 - [Aqua Fresh](https://lenssepeti.net/collections/aqua-fresh)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-28T11:16:36Z
   Total Products: 5
 - [Aquarella Daily](https://lenssepeti.net/collections/aquarella-daily)
   Updated: 2026-06-05T11:16:38Z
@@ -350,25 +350,25 @@
   Updated: 2026-04-20T21:49:12Z
   Total Products: 3
 - [Bausch + Lomb](https://lenssepeti.net/collections/bausch-lomb-1)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 30
 - [Ultra](https://lenssepeti.net/collections/ultra)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 8
 - [Biofinity](https://lenssepeti.net/collections/biofinity-1)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 9
 - [Biomedics](https://lenssepeti.net/collections/biomedics)
   Updated: 2026-06-14T11:18:50Z
   Total Products: 1
 - [Biotrue](https://lenssepeti.net/collections/bi̇otrue)
-  Updated: 2026-06-18T11:18:43Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 5
 - [Dailies](https://lenssepeti.net/collections/cooper-vision)
   Updated: 2026-06-15T22:04:49Z
   Total Products: 5
 - [Desio](https://lenssepeti.net/collections/desio)
-  Updated: 2026-06-16T01:07:23Z
+  Updated: 2026-06-25T11:18:11Z
   Total Products: 21
 - [Attitude Quarterly](https://lenssepeti.net/collections/attitude-quarterly)
   Updated: 2026-06-09T11:16:53Z
@@ -377,22 +377,22 @@
   Updated: 2026-04-20T21:49:13Z
   Total Products: 0
 - [Elegance 1-Day with BioMoist](https://lenssepeti.net/collections/elegance-1-day-with-biomoist)
-  Updated: 2026-05-21T01:12:44Z
+  Updated: 2026-06-23T11:18:14Z
   Total Products: 2
 - [Elegance 55 UV](https://lenssepeti.net/collections/elegance-55-uv)
-  Updated: 2026-06-18T11:18:44Z
+  Updated: 2026-06-25T11:18:11Z
   Total Products: 3
 - [Elegance Comfort](https://lenssepeti.net/collections/elegance-comfort)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-22T11:15:01Z
   Total Products: 7
 - [Freshcolors](https://lenssepeti.net/collections/elit)
-  Updated: 2026-06-18T11:18:44Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 11
 - [Freshlook](https://lenssepeti.net/collections/freshlook)
   Updated: 2026-04-20T21:49:13Z
   Total Products: 5
 - [GP Plus](https://lenssepeti.net/collections/gp-plus)
-  Updated: 2026-06-16T11:47:28Z
+  Updated: 2026-06-22T11:15:01Z
   Total Products: 1
 - [Hidrocor](https://lenssepeti.net/collections/hidrocor)
   Updated: 2026-04-20T21:49:13Z
@@ -401,7 +401,7 @@
   Updated: 2026-04-20T21:49:13Z
   Total Products: 1
 - [Myday](https://lenssepeti.net/collections/myday)
-  Updated: 2026-06-17T11:17:45Z
+  Updated: 2026-06-21T11:17:22Z
   Total Products: 6
 - [Natura Colors](https://lenssepeti.net/collections/natura-colors)
   Updated: 2026-04-20T21:49:13Z
@@ -413,16 +413,16 @@
   Updated: 2026-06-16T11:47:28Z
   Total Products: 6
 - [Purevision](https://lenssepeti.net/collections/purevision)
-  Updated: 2026-06-18T11:18:44Z
+  Updated: 2026-06-29T11:16:31Z
   Total Products: 7
 - [Renu](https://lenssepeti.net/collections/renu)
-  Updated: 2026-06-15T22:04:21Z
+  Updated: 2026-06-29T11:16:31Z
   Total Products: 4
 - [SofLens](https://lenssepeti.net/collections/soflens)
   Updated: 2026-05-08T11:26:33Z
   Total Products: 6
 - [Soft Colors](https://lenssepeti.net/collections/soft-colors)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-27T11:15:59Z
   Total Products: 6
 - [Solotica](https://lenssepeti.net/collections/solotica-1)
   Updated: 2026-04-20T21:49:13Z
@@ -437,10 +437,10 @@
   Updated: 2026-04-20T21:49:14Z
   Total Products: 0
 - [Moist](https://lenssepeti.net/collections/moist)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-28T01:09:20Z
   Total Products: 6
 - [Multifocal Lens](https://lenssepeti.net/collections/multifocal-lens)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 11
 - [Lens Medikal](https://lenssepeti.net/collections/lens-medikal)
   Updated: 2026-04-20T21:49:14Z
@@ -467,7 +467,7 @@
   Updated: 2026-05-05T11:26:23Z
   Total Products: 3
 - [Timeless Collection](https://lenssepeti.net/collections/timeless-collection)
-  Updated: 2026-06-16T01:07:23Z
+  Updated: 2026-06-25T11:18:11Z
   Total Products: 2
 - [Two Shades Of Grey](https://lenssepeti.net/collections/two-shades-of-grey)
   Updated: 2026-05-21T11:24:45Z
@@ -476,7 +476,7 @@
   Updated: 2026-04-20T21:49:14Z
   Total Products: 4
 - [Elegance Elit](https://lenssepeti.net/collections/elegance-elit)
-  Updated: 2026-06-13T11:17:40Z
+  Updated: 2026-06-29T11:16:31Z
   Total Products: 2
 - [Labella Milano](https://lenssepeti.net/collections/labella-milano)
   Updated: 2026-04-20T21:49:14Z
@@ -494,7 +494,7 @@
   Updated: 2026-06-09T11:16:53Z
   Total Products: 5
 - [Astigmatlı Toric Lensler](https://lenssepeti.net/collections/astigmatli-toric-lensler-1)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 38
 - [İndirimli 2 li Kampanya](https://lenssepeti.net/collections/i̇ndirimli-2-li-kampanya)
   Updated: 2026-04-20T21:49:15Z
@@ -503,10 +503,10 @@
   Updated: 2026-04-20T21:49:15Z
   Total Products: 17
 - [Multifocal Lensler](https://lenssepeti.net/collections/multifocal-lensler-1)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 11
 - [KDV %10](https://lenssepeti.net/collections/kdv-11)
-  Updated: 2026-06-19T11:20:20Z
+  Updated: 2026-06-29T11:16:32Z
   Total Products: 157
 
 ## Blogs
@@ -514,6 +514,36 @@
 - [News](https://lenssepeti.net/blogs/news)
   - [En İyi Lens Markaları Nasıl Seçilir?](https://lenssepeti.net/blogs/news/en-iyi-lens-markalari-nasil-secilir): En İyi Lens Markaları Nasıl Seçilir?
     Updated: 2026-06-19T11:09:52Z
+    Author: Admin
+  - [Şeffaf Lens Hangisi İyi, Nasıl Seçilir?](https://lenssepeti.net/blogs/news/seffaf-lens-hangisi-iyi): Şeffaf Lens Hangisi İyi, Nasıl Seçilir?
+    Updated: 2026-06-20T07:06:33Z
+    Author: Admin
+  - [Renkli Lens Doğal Görünür mü?](https://lenssepeti.net/blogs/news/renkli-lens-dogal-gorunur-mu): Renkli Lens Doğal Görünür mü?
+    Updated: 2026-06-21T07:01:34Z
+    Author: Admin
+  - [Numaralı Lens Nasıl Seçilir?](https://lenssepeti.net/blogs/news/numarali-lens-nasil-secilir): Numaralı Lens Nasıl Seçilir?
+    Updated: 2026-06-22T06:54:38Z
+    Author: Admin
+  - [Günlük Lens mi Aylık mı? Doğru Seçim](https://lenssepeti.net/blogs/news/gunluk-lens-mi-aylik-mi): Günlük Lens mi Aylık mı? Doğru Seçim
+    Updated: 2026-06-23T06:45:19Z
+    Author: Admin
+  - [2 Haftalık Lens Avantajları Nelerdir?](https://lenssepeti.net/blogs/news/2-haftalik-lens-avantajlari): 2 Haftalık Lens Avantajları Nelerdir?
+    Updated: 2026-06-24T06:39:31Z
+    Author: Admin
+  - [Astigmat Lens Önerisi Nasıl Seçilir?](https://lenssepeti.net/blogs/news/astigmat-lens-onerisi-nasil-secilir): Astigmat Lens Önerisi Nasıl Seçilir?
+    Updated: 2026-06-25T06:33:21Z
+    Author: Admin
+  - [Multifocal Lens Kimler Kullanır?](https://lenssepeti.net/blogs/news/multifocal-lens-kimler-kullanir): Multifocal Lens Kimler Kullanır?
+    Updated: 2026-06-26T06:27:08Z
+    Author: Admin
+  - [Yüksek Numara Lens Bulunur mu?](https://lenssepeti.net/blogs/news/yuksek-numara-lens-bulunur-mu): Yüksek Numara Lens Bulunur mu?
+    Updated: 2026-06-27T06:21:25Z
+    Author: Admin
+  - [Lens Solüsyonu Nasıl Seçilir?](https://lenssepeti.net/blogs/news/lens-solusyonu-nasil-secilir): Lens Solüsyonu Nasıl Seçilir?
+    Updated: 2026-06-28T06:18:24Z
+    Author: Admin
+  - [İndirimli Kontakt Lens Satın Alırken Ne Seçmeli?](https://lenssepeti.net/blogs/news/indirimli-kontakt-lens-satin-al): İndirimli Kontakt Lens Satın Alırken Ne Seçmeli?
+    Updated: 2026-06-29T06:12:24Z
     Author: Admin
 
 ## Store Pages
