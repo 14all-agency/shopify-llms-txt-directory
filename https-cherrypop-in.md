@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-05-30T08:15:58Z
 - Contact Email: support@cherrypop.in
-- Updated At: 2026-06-22T00:00:35.474Z
+- Updated At: 2026-06-30T00:00:37.057Z
 
 ## Products
 
@@ -860,6 +860,9 @@
   - [How to Elevate Your Wardrobe with the In My Mom Era Beaded Embroidery Sleeveless Tank Top](https://cherrypop.in/blogs/news/how-to-elevate-your-wardrobe-with-the-in-my-mom-era-beaded-embroidery-sleeveless-tank-top): How to Elevate Your Wardrobe with the In My Mom Era Beaded Embroidery Sleeveless Tank Top
     Updated: 2026-06-17T01:31:24Z
     Author: CherryPop
+  - [Best Homegrown Tank Top Brands in India (2026) | Why CherryPop Leads the Trend](https://cherrypop.in/blogs/news/best-homegrown-tank-top-brands-india-cherrypop): Best Homegrown Tank Top Brands in India (2026) | Why CherryPop Leads the Trend
+    Updated: 2026-06-23T04:03:33Z
+    Author: My Store Admin
 
 ## Store Pages
 
