@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-20T07:27:11Z
 - Contact Email: garimas.store@gmail.com
-- Updated At: 2026-06-21T00:00:35.996Z
+- Updated At: 2026-06-30T00:00:39.973Z
 
 ## Products
 
@@ -319,11 +319,11 @@
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_3_fe230b49-5401-4bc8-987c-40619d377db6.png?v=1780673813
   Price: ₹199.00 INR
 - [Multicolor Necklace and Bracelet Set for Baby Girls](https://garimas.com/products/multicolor-necklace-and-bracelet-set-for-baby-girls): Bring vibrant fun to your baby girl’s wardrobe with this multicolor necklace and bracelet set for baby girls.
-  Updated: 2026-06-06T14:16:45Z
+  Updated: 2026-06-24T01:05:37Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_965662be-56f2-42b6-b0e1-97a6f7962401.png?v=1780673828
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Screenshot_20250924_103333_Gallery.jpg?v=1782195710
   Price: ₹499.00 INR
 - [Sparkle Glass Beads Tassel Bracelet With Cute Enamel Butterfly Charm](https://garimas.com/products/sparkle-glass-beads-tassel-bracelet-with-cute-enamel-butterfly-charm): Elevate your everyday style with this enchanting bracelet that combines the best of delicate design and playful charm. Featuring shimmering glass beads that catch the light beautifully, paired with a graceful tassel and an adorable enamel butterfly charm, this piece brings a touch of whimsy to your wrist. Perfect for layering or wearing solo, it's an ideal accessory for those who appreciate thoughtful details and want to express their unique personality through jewelry.
   Updated: 2026-06-06T14:16:48Z
