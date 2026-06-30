@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-01-03T07:27:50Z
 - Contact Email: info@japanisches-katana.de
-- Updated At: 2026-06-23T00:00:42.477Z
+- Updated At: 2026-06-30T00:00:44.648Z
 
 ## Products
 
@@ -677,7 +677,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Katana Koori 氷 | Japanisches Katana](https://japanisches-katana.de/products/katana-koori): SPEZIFIKATIONEN Farbe der Klinge Blau Material Manganstahl Schwertstichblatt(Tsuba 鍔) Zinklegierung Säbelscheide (Saya 鞘) Ebenholz & Kurigata aus Stierhorn mit Schnur Griff Katana (tsuka 柄) Leder aus GaluchatMenuki-Set aus Zinklegierung2 Mekugi aus Bambus DIMENSIONEN Länge mit Scheide 103 cm Länge der Klinge 71 cm Dicke der Klinge 0.75 cm Länge des Stiels 26 cm Breite der Klinge 3.2 cm Das Katana Koori 氷 ist ein Kunstwerk, das eisige Schönheit und messerscharfe Präzision verkörpert. Klinge (刀身) : Die aus Manganstahl gefertigte Klinge hat einen auffallend blauen Farbton, der an die Kälte und Klarheit von Eis erinnert. Dieser Stahl ist für seine Härte und Verschleißfestigkeit bekannt und bietet dem Benutzer eine außergewöhnliche Haltbarkeit und Zuverlässigkeit bei der Ausübung und Handhabung. Garde (Tsuba 鍔) : Die für die Tsuba verwendete Zinklegierung vereint Leichtigkeit und Stärke. Sie ist präzise geformt und weist komplexe Muster auf, die den Blick auf sich ziehen, während ihre Robustheit dafür sorgt, dass die Hände bei der Verwendung geschützt sind. Scheide (Saya 鞘) : Das für die Saya gewählte Ebenholz ist für seine Dichte und Haltbarkeit bekannt. Die Kurigata aus Stierhorn sorgt nicht nur für die Sicherheit der Klinge, sondern verleiht dem Ganzen auch ein natürliches und luxuriöses Element. Die Bespannung vervollständigt die Ästhetik und bietet gleichzeitig eine zusätzliche Funktionalität. Griff (Tsuka 柄) : Der mit Rochenleder überzogene Griff verspricht eine einwandfreie Griffigkeit und Komfort beim Halten. Das Menuki-Kit aus Zinklegierung und die beiden Mekugi aus Bambus sorgen für eine solide strukturelle Integrität, die für eine reibungslose Leistung unerlässlich ist. Das Katana Koori 氷 ist also viel mehr als ein Übungsinstrument; es ist eine Feier von Eleganz und Kraft, die die tödliche Anmut eines ewigen Winters widerspiegelt.
-  Updated: 2026-06-05T21:31:39Z
+  Updated: 2026-06-28T20:19:46Z
   Vendor: Japanisches Katana
   Product Type: Katana
   Availability: Available
@@ -947,7 +947,7 @@
     Availability: Available
     Price: 370,00 € EUR
 - [Schärfen Rasiermesser - Von einem Meister gemacht](https://japanisches-katana.de/products/affutage-rasoir-sabre-japonais)
-  Updated: 2026-06-10T15:44:08Z
+  Updated: 2026-06-28T20:20:57Z
   Vendor: Japanisches Katana
   Product Type: 
   Availability: Available
@@ -1044,7 +1044,7 @@
     Availability: Available
     Price: 280,00 € EUR
 - [Tanto Ōkami 狼](https://japanisches-katana.de/products/tanto-okami): SPEZIFIKATIONEN Klinge Stahl T10 mit Hamon Schwertstichblatt (Tsuba 鍔) Kupfer- und Messinglegierung Säbelscheide (Saya 鞘) Ebenholz, lackiert & Kurigata aus Stierhorn Griff Katana (tsuka 柄) Echtes GaluchatlederMenuki-Set aus Kupfer- und MessinglegierungMekugi aus Bambus DIMENSIONEN Länge mit Scheide 55 cm Länge der Klinge 33 cm Länge des Stiels 27 cm Breite der Klinge 3.2 cm Dicke der Klinge 0.7 cm Gewicht 0.8 Kg mit Scheide
-  Updated: 2026-06-05T21:31:43Z
+  Updated: 2026-06-26T12:06:47Z
   Vendor: Japanisches Katana
   Product Type: Tanto
   Availability: Available
@@ -1259,16 +1259,16 @@
   Updated: 2026-06-05T21:31:33Z
   Total Products: 1
 - [Katana Kaufen | Japanisches Katana](https://japanisches-katana.de/collections/katana-kaufen): Entdecken Sie unser Angebot an Katanas, die von unseren Meisterschmieden handgeschmiedet werden. Wir bieten eine große Auswahl an Schwertern, deren Preise bei 200 € beginnen. Sie finden verschiedene Schmiedearten, Stähle und Stücklisten in allen Bereichen. Jedes Katana ist ein absolutes Unikat, da es von unseren Handwerkern handgefertigt wird.
-  Updated: 2026-06-22T11:15:34Z
+  Updated: 2026-06-29T11:14:48Z
   Total Products: 157
 - [Ninjato | Japanisches Katana](https://japanisches-katana.de/collections/ninjato): Das berühmte Ninjato: Das Ninja-Schwert Das Ninjato ist ein japanisches Schwert mit einer geraden Klinge von etwa 50 cm Länge. Es wurde von Ninjas (Shinobi) in Japan verwendet. Man glaubt, dass das Ninjato entwickelt wurde, um es den Ninjas zu erleichtern, sich zu bewegen und im Nahkampf zu kämpfen, da das Katana für ihre Bedürfnisse zu lang und unhandlich war. Das Ninjato entwickelte sich auf eine völlig andere Weise als das Katana – in seiner Form, der Art seiner Schmiedung und sogar in der Art und Weise, wie es von seinen Benutzern betrachtet wurde. Während Samurai tiefen Respekt und spirituellen Wert für ihre Katanas hegten, sahen Ninjas ihre Waffen eher als praktische Werkzeuge denn als heilige Objekte. Das Ninjato kann an mehreren Merkmalen erkannt werden: Eine gerade Klinge mit einer sehr geometrischen Spitze. Ein Handschutz (Tsuba), der oft quadratisch ist. Manchmal hat das Schwert überhaupt keinen Handschutz. Eine Scheide (Saya) mit einem spitzen Ende, die es ermöglicht, sie bei Bedarf in den Boden zu stecken. Ein langer Griff (Tsuka) für bessere Balance – und manchmal um kleine Objekte darin zu verstecken. Hast du dich jemals gefragt, ob diese heimlichen, verstohlen schwertführenden Ninjas Katanas wie legendäre Samurai benutzten? Es stellt sich heraus, dass ihre bevorzugte Waffe – das Ninjato-Schwert (treffend benannt) – dem Katana auffallend ähnlich ist (außer einer kürzeren, geraderen Klinge). Leider belegen historische Dokumente solche Klingen nicht. Dennoch sind diese Schwerter sammelnswert! Schließlich ist kein Schwert so geheimnisvoll und legendär wie ein japanisches Ninjato-Schwert. Geschichte in Geheimnis gehüllt wie der legendäre Shinobi Im Gegensatz zu den Samurai und ihrem Katana belegen nur wenige historische Dokumente die Existenz von Ninjas und Ninjato-Schwertern. Das bedeutet nicht, dass es nicht real ist. Einige Experten sagen, dieser Mangel an Beweisen könnte auf die Natur der Arbeit eines Ninjato (oder genauer gesagt, eines Shinobi) zurückzuführen sein, die Spionage, Aufklärung, Hinterhalt, Belagerung und Infiltration, Attentat und Täuschungsmanöver umfasst. Das Schlüsselwort "Attentäter" bringt unwillkürlich Yamato Takeru (den Sohn des 12. Kaisers Japans, Kaiser Keiko) in den Sinn. Legenden besagen, dass Takeru sich als Jungfrau verkleidete, um im 2. Jahrhundert Kumaso-Häuptlinge zu ermorden. Allerdings erwähnte die Literatur weder "Shinobi" noch beschrieb sie die bei dem Attentat verwendete Waffe. Ob antike japanische Attentäter also bereits ein "Ninjato" verwendeten oder noch das Chokuto (das dem Tachi vorausging), die Ursprünge des Ninjato bleiben unbekannt. (Es ist möglich, dass der Shinobi immer noch ein Katana benutzte.) Der erste "Beweis" eines Ninjato-Schwerts kam 1956 in dem 26-seitigen Büchlein "Ninjutsu" von Heischichiro Okuse. Bis 1964 entstand ein Museum, das Ninjas und ihren Waffen gewidmet war (das Ninja Museum of Igaryu) in der Präfektur Mie. Das popularisierte Ninjas und ihre "mythische" Waffe, einschließlich des Ninjato, wobei der erste Hollywood-Film, der die Klinge zeigt, der Film "Enter the Ninja" von 1981 war. Entmystifizierung des Ninjato: Design und Charakteristiken Da seine historische Genauigkeit etwas fragwürdig ist (es fehlen verifizierbare Belege aus historischen Aufzeichnungen vor dem 20. Jahrhundert), fragen sich viele: "Ist das Ninjato ein echtes Schwert?" Eine Möglichkeit, dies zu beantworten, besteht darin, seine Merkmale zu betrachten. Ob das Ninjato ein Produkt der ungezügelten Faszination der Menschheit für legendäre japanische Ninjato-Schwerter ist oder ob seine Shinobi-Meister die Kunst der Verheimlichung so perfektioniert haben, dass keine Aufzeichnung des mittelalterlichen Schwerts existiert, können wir immer noch argumentieren, dass das Ninjato ein schönes Schwert ist (und auch tödlich!). Wie sieht also das Ninjato aus? Klinge Beginnen wir mit der Ninjato-Schwertlänge. Laut dem selbsternannten Ninja-Experten und amerikanischen Kampfkünstler Stephen K. Hayes ist das Ninjato kurz, nicht länger als 60 Zentimeter. Die Ninjato-Schwertform ist auch gerade, anders als die gebogenen Tachi, Katana und Wakizashi. Daher ähnelt es dem alten Chokuto stark. Handschutz (Tsuba) Im Gegensatz zum Katana mit einem verzierten, kreisförmigen (manchmal ovalen) Tsuba verfügt das Ninjato über einen einfachen, aber übergroßen quadratischen oder rechteckigen Handschutz. Einige glauben, dass der größere Tsuba es Ninjas ermöglichte, ihre normale vertikale Reichweite zu erweitern, indem sie auf den Handschutz traten, wobei das Schwert gegen eine Wand gelehnt war (wie eine Leitersprosse). Konstruktion Hayes und andere "Ninjato"-Experten sagen, dass Shinobis ihre Schwerter selbst herstellten (im Gegensatz zu den Samurai, die einen lizenzierten Katana-kaji oder Schwertschmied beauftragten, ihre Schwerter zu kreieren). Das hilft zu erklären, warum Ninjato-Schwerter gerade, kurze Klingen haben. (Einige glauben, dass Ninjas einen anderen Schwertschmiedeprozess beobachteten, wobei leicht verfügbare Materialien verwendet wurden, um die einzigartigen Eigenschaften des Ninjato hervorzubringen.) Andere Merkmale Einige sagen, die Scheide des Ninjato oder Saya sei ungewöhnlich länger als die Klinge, was Ninjas ermöglichte, Gifte, Geheimdokumente und andere heimliche Handelsgegenstände in dem Raum zwischen der Ninjato-Spitze und dem Saya-Rand zu verbergen. Das Ninjato im Kampf Während das Ninjato bei Schneidangriffen nützlich ist, hat es noch andere Verwendungszwecke, die oft mit der inhärenten "Stellenbeschreibung" des Ninja zusammenhängen. Heimliche Angriffe – Seine kleine Größe macht das Ninjato leicht zu verbergen, was Shinobi ermöglicht, Gegner aus dem Hinterhalt anzugreifen. Nahkampf – Ein Katana in engen Räumen zu führen ist herausfordernd (deshalb benutzen Samurai-Krieger in solchen Situationen das Wakizashi). Die kurze und gerade Klinge des Ninjato ermöglicht außergewöhnliche Manövrierfähigkeit im Nahkampf. Täuschung und Ablenkung – Die kurze Klinge des Ninjato kann für ein zerbrochenes Katana gehalten werden, was Ninjas ermöglicht, die Täuschung auszunutzen und einen tödlichen Schlag zu versetzen. Verteidigungstechniken – Die Saya und der quadratische Tsuba sind perfekt zum Blockieren von Schwertschlägen oder sogar zum Stolpernlassen eines Gegners. Wie das Ninjato im Vergleich zum Katana abschneidet Jede Diskussion über ein japanisches Schwert, historisch oder nicht, verdient oft einen Vergleich mit Japans ikonischster Klinge – dem Katana! Was ist also der Unterschied zwischen Katana und Ninjato? Schauen wir uns das an. Merkmal Ninjato Katana Ursprungszeitraum Unbekannt, obwohl im 20. Jahrhundert popularisiert Kamakura-Periode (1185-1333) Design-Inspiration Chokuto oder Wakizashi Tachi Klingenform Gerade Gebogen Klingenlänge Nicht länger als 60 cm 60 bis 73 cm Grifflänge Kurz (für einhändigen Gebrauch) oder vielseitig (für zweihändigen Gebrauch) Lang, für zweihändigen Gebrauch Tsuba Einfach, oft quadratisch oder rechteckig Verziert, oval oder kreisförmig Historische Genauigkeit Nicht historisch belegt, in der Fiktion populär gemacht Echt, historisch von Samurai benutzt Hauptverwendung Vermutlich besser für Nahkampf und schnelle Angriffe Schneid- und Schwungbewegungen Hauptbenutzer Ninjas oder Shinobis Samurai Das Ninjato-Schwert ist immer ein faszinierendes (manchmal polarisierendes) Thema. Wie andere japanische Schwerter verbindet es Geschichte, Mythos und Popkultur. Es spielt keine Rolle, ob das Ninjato ein historisch korrektes japanisches Schwert ist. Was zählt ist, dass diese Klinge weiterhin die Fantasie von Kampfkünstlern und Fans der japanischen Geschichte fesselt. Unsere authentische Ninjato-Schwertsammlung sollte deine Sehnsüchte nach diesem sagenhaften Schwert befriedigen.
   Updated: 2026-06-05T21:31:33Z
   Total Products: 4
 - [Katana Manga | Japanisches Katana](https://japanisches-katana.de/collections/katana-manga): Tauche ein in die Welt der Manga-Katanas! Entdecken Sie die legendären Schwerter aus Ihren Lieblingsserien und die Geschichte hinter jeder Klinge. Jetzt entdecken!
-  Updated: 2026-06-22T11:15:34Z
+  Updated: 2026-06-23T11:14:54Z
   Total Products: 25
 - [Katana One PIece | Japanisches Katana](https://japanisches-katana.de/collections/katana-one-piece): One Piece, einer der bekanntesten Animes One Piece ist eine japanische Mangaserie, die von Eiichiro Oda geschrieben und illustriert wurde. Sie wird seit Juli 1997 als Fortsetzungsgeschichte im Magazin Weekly Shonen Jump von Shueisha veröffentlicht und wurde in 87 Bänden zusammengefasst. In One Piece folgen wir den Abenteuern von Monkey D. Luffy, einem jungen Mann, dessen Körper nach dem unbeabsichtigten Verzehr einer Teufelsfrucht die Eigenschaften von Gummi angenommen hat, und seiner vielfältigen Piratencrew, den sogenannten Straw Hat Pirates. So gibt es zum Beispiel einen Schwertkämpfer namens Roronoa Zoro, dessen bevorzugte Waffe das Katana ist. Er benutzt drei davon, was sehr ungewöhnlich ist. Luffy erkundet den Ozean auf der Suche nach dem ultimativen Schatz der Welt, der als "One Piece" bekannt ist, um der nächste König der Piraten zu werden. Ein Shōnen, der uns dazu bringt, uns selbst zu übertreffen Der Manga One Piece ist ein Shōnen. Shōnen zeichnet sich im Allgemeinen durch actionreiche Handlungsstränge mit intensiven Kämpfen, dramatischen oder komischen Situationen und außergewöhnlich mächtigen oder talentierten Protagonisten aus. Der Shōnen-Manga wurde als Reaktion auf das mangelnde Interesse an anderen Mangaarten wie Shojo und Josei geschaffen. Der Shōnen-Manga ist seit seiner Entstehung beliebt und ist auch weiterhin das beliebteste Genre in Japan. Diese Art von Anime ist sehr populär, da sie starke Emotionen hervorrufen. Die Charaktere wachsen über sich hinaus, um immer stärker zu werden und ihre Ziele zu erreichen. One Piece zeigt uns immer wieder, dass man es schaffen kann, wenn man ein Ziel vor Augen hat und entschlossen ist, es zu erreichen. Arbeit gepaart mit Disziplin ist der Schlüssel zum Erfolg. Katanas in One Piece Katanas kommen im Anime One Piece mehrfach vor. Schon jetzt denkt man sofort an Zoro, der nie ohne seine drei Schwerter herumläuft. Dank dieser Schwerter wird der Kopfgeldjäger immer stärker. Die Schärfe der Klingen gepaart mit hartem Training ist das Rezept des ehemaligen Piratenjägers, um zum mächtigsten Schwertkämpfer der Welt zu werden. Mit diesem Ziel schließt er sich übrigens auch Luffy an. Es gibt auch Marineoffiziere und vor allem Vize-Admiräle, die entweder das Katana selbst oder Schwerter, die dem Katana ähneln, benutzen.Neben dem Katana gibt es in One Piece mehrere Arten von Schwertern: Das Kotagana (子刀), das eine kleinere Version des Katana (dolchartig) ist, die Kindern zugeschrieben wird. Es gibt auch das Daito (大刀), das ein überdurchschnittlich großes Katana ist (über 60 cm). Zoros Schwerter sind übrigens Daitos. Schließlich gibt es noch das Nodachi (野太刀), das ein großes Zweihandschwert ist. Es ist ein Schwert, das viel schwerer als das Katana ist. Es ist weniger handlich und erfordert viel Kraft, es zu führen. Nichtsdestotrotz ist es eine scharfe Waffe mit großer Wirkung. Ein One Piece-Säbel für eine Piraten-Deko Wenn One Piece ein Anime ist, der dich transformiert hat und dich dazu bringt, jeden Tag 100 % zu geben, dann ist es eine gute Idee, eine Dekoration zu haben, die mit dem Anime in Verbindung steht. Wenn du daran vorbeigehst, wirst du neue Motivation tanken, um deine Ziele zu erreichen. Unsere japanischen Katanas, die vom Manga One Piece inspiriert sind, sind außergewöhnliche Stücke für echte Fans des Animes. Wir haben mit unseren japanischen Schmieden zusammengearbeitet, um einzigartige Klingen von hoher Qualität herzustellen. Sie werden dich nicht kalt lassen.
-  Updated: 2026-06-22T11:15:34Z
+  Updated: 2026-06-23T11:14:54Z
   Total Products: 5
 - [Wakizashi | Japanisches Katana](https://japanisches-katana.de/collections/wakizashi): Das Wakizashi, weit mehr als nur eine Klinge, verkörpert die Exzellenz der japanischen Handwerkskunst. Mit seiner schlanken Silhouette, die zwischen 30 und 60 Zentimeter misst, wurde es oft im Obi-Gürtel getragen und war jederzeit bereit, gezogen zu werden. Stellen Sie sich einen Samurai vor, der im Morgengrauen steht, mit diesem gebogenen Schwert an seiner Seite, das sein Katana ergänzt und das legendäre Daisho bildet – ein Waffenpaar, das ihre Ehre und ihren Status symbolisierte. Definition des Wakizashi Das Wakizashi ist ein traditionelles japanisches Schwert, dessen Länge zwischen 30 und 60 Zentimetern variiert. Es liegt damit in der Größe zwischen dem Katana und dem Tanto. Die Tsuba dieses Schwertes glänzt; sie zeigt nicht nur das Können der japanischen Schmiedekunst, sondern auch die Eleganz und Präzision dieses alten Handwerks. Im Gegensatz zum Katana, das von Elitekriegern verwendet wurde, war das Wakizashi ein kürzeres und leichter zugängliches japanisches Schwert, das daher von mehr Menschen genutzt werden konnte. Diese bessere Zugänglichkeit trug erheblich zur Popularität des Wakizashi in verschiedenen Bevölkerungsschichten bei. Samurai trugen das Wakizashi oft zusätzlich zum Katana und bildeten so das berühmte „Daisho“, ein ikonisches Duo der japanischen Bewaffnung. Es gibt auch seinen kleinen Bruder, den Tanto, ein noch kürzeres japanisches Schwert als das Wakizashi oder das Katana, das für verschiedene Zwecke verwendet wurde. Eine reiche und faszinierende Geschichte Die Geschichte des Wakizashi ist tief in der Samurai-Kultur verwurzelt. Im Gegensatz zum Katana war dieses japanische Schwert für eine größere Bevölkerungsschicht zugänglich, was im Laufe der Jahrhunderte zu seiner wachsenden Beliebtheit beitrug. Die einfachen Leute, die nicht das Privileg hatten, ein Katana zu tragen, entschieden sich oft für das Wakizashi, dessen kleinere Größe es nicht weniger zu einer tödlichen Waffe machte. Die Kunst des Schmiedens und technische Merkmale Die Herstellung eines Wakizashi ist die höchste Form der japanischen Handwerkskunst. Mit einer Länge von 30 bis 60 cm wird es aus Damaststahl geschmiedet und jedes Schwert durchläuft einen sorgfältigen Prozess: Strenge Auswahl der Materialien: Der verwendete Stahl muss strengen Qualitätsstandards entsprechen. Traditionelle Schmiedetechnik, die die charakteristischen Muster des japanischen Damaststahls erzeugt. Komplexer Härtungsprozess, der der Klinge ihre einzigartigen Eigenschaften verleiht. Akribische Politur, um die Schönheit der Stahlmuster hervorzuheben. Arten von Wakizashi Das Wakizashi gibt es in verschiedenen Varianten, die jeweils besondere Merkmale und Verwendungszwecke haben: Kampf-Wakizashi: Für den Nahkampf konzipiert, wird diese Art von Wakizashi oft zusammen mit einem Katana verwendet. Seine mittlere Größe sorgt für außergewöhnliche Handhabung, ideal für schnelle und präzise Bewegungen. Zeremonien-Wakizashi: Wird bei Zeremonien und besonderen Anlässen verwendet und ist oft mit aufwendigen Motiven und Designs verziert. Es verkörpert die Schönheit und Raffinesse japanischer Handwerkskunst. Sammler-Wakizashi: Dieses Wakizashi ist für Sammler und zur Konservierung gedacht und wird mit hochwertigen Materialien und traditionellen Fertigungstechniken hergestellt. Es ist eine wertvolle Investition für Liebhaber japanischer Waffen. Eine ideale Größe für unvergleichliche Vielseitigkeit Die besondere Eigenschaft des Wakizashi liegt in seiner perfekten Balance. Weder Länge noch Größe definieren es vollständig – es ist die perfekte mittlere Lösung zwischen der majestätischen Länge eines Katana und dem kompakten Design eines Tanto. Die gängigsten Modelle messen zwischen 40 und 50 Zentimeter, was eine erstaunliche Mobilität ermöglicht. Perfekt für Nahkämpfe oder als Notfallwaffe in kritischen Situationen, ist es ein zuverlässiger und leistungsstarker Begleiter. Verwendung und Kampftechniken Das Wakizashi war nicht nur eine Waffe, sondern eine direkte Verlängerung des Trägers, dank seiner mittleren Größe: In engen Räumen: Stellen Sie sich einen Kampf in einem engen Flur vor, wo Agilität wichtiger ist als rohe Kraft. Für schnelle einhändige Bewegungen: Perfekt für präzise und plötzliche Schläge, die den Gegner destabilisieren. In Kombination mit dem Katana: Das legendäre Daisho-Duo bot eine perfekte Balance zwischen Stärke und Geschwindigkeit. Eine Sammlung, die eine Geschichte erzählt In unserer Auswahl hat jedes Wakizashi seinen eigenen Charakter. Sie haben die Gelegenheit, Stücke zu entdecken, die nach alten japanischen Traditionen geschmiedet wurden und eine außergewöhnliche Liebe zum Detail zeigen: Eingravierte Muster mit traditionellen Motiven. Griffe, verziert mit edlen Materialien wie Rochenhaut oder geflochtenem Baumwollband. Feinste Verarbeitungen, von schlicht bis hin zu kunstvoll, ideal für Dekoration oder Sammlungen. Pflege und Erhalt der Tradition Ein Wakizashi ist wie ein Kunstwerk: Es muss gepflegt und respektiert werden. Hier sind einige Tipps, um Ihr Schwert langfristig zu bewahren: Feuchtigkeit vermeiden: Eine rostige Klinge ist eine stille Klinge. Bewahren Sie Ihr Schwert in einer trockenen und temperierten Umgebung auf. Regelmäßig reinigen: Verwenden Sie ein weiches Tuch und etwas spezielles Öl, um den Glanz des Metalls zu erhalten. Vorsichtig handhaben: Es ist kein Spielzeug, sondern ein lebendiges Stück Geschichte. Ein Preis, der Kultur und Geschichte widerspiegelt Der Preis eines Wakizashi zeigt, dass es weit mehr als nur ein Stück Metall ist. Es ist eine Investition in das japanische Kulturerbe, eine greifbare Verbindung zu den Samurai. Wir bieten Modelle von einigen Hundert bis hin zu mehreren Tausend Euro an, je nach traditioneller Herstellung. Jedes Stück trägt die Seele des Handwerkers, der es geschmiedet hat. Warum ein Wakizashi wählen? Ein Wakizashi ist nicht nur eine Waffe oder ein Dekorationsobjekt. Es ist ein Fenster in eine vergangene Welt, eine Möglichkeit, sich mit den Werten von Ehre und Disziplin der Samurai zu verbinden. Ob Sie ein Liebhaber der japanischen Kultur, ein Sammler historischer Waffen oder einfach auf der Suche nach einem einzigartigen Stück mit Geschichte sind – ein Wakizashi ist weit mehr als ein Schwert: Es ist ein Stück Ewigkeit.
   Updated: 2026-06-05T21:31:33Z
@@ -1280,7 +1280,7 @@
   Updated: 2026-06-16T11:19:56Z
   Total Products: 11
 - [Tanto | Japanisches Katana](https://japanisches-katana.de/collections/tanto): Das Tanto ist das kleinste der japanischen Schwerter. Seine Klinge misst etwa 30 Zentimeter und ist im Vergleich zum Katana oder Wakizashi nur sehr leicht gebogen. Dieses kleine Schwert wurde gewöhnlich im Obi-Gürtel des Kimonos getragen und ermöglichte eine unvergleichliche Diskretion und Leichtigkeit.Einige Samurai konnten es in ihrem Kimono tragen, um es vor dem Feind völlig unsichtbar zu machen. Es konnte dann als Verteidigung in einer Notfallsituation oder zum diskreten Erstechen eines Feindes verwendet werden.Das Tanto ist auch bekannt für die Praxis des Seppuku, das Selbstmord-Ritual der Samurai, bei dem der Samurai einen horizontalen Schnitt über seinem Nabel machte, um eine unehrenhafte Tat zu vergeben oder einem Befehl seines Herrn nicht zu folgen, den er als unmoralisch empfand. Das Tanto-Schwert! Es ist die ebenso tödliche Seitenwaffe des legendären Tachi der mittelalterlichen japanischen Kriegerklasse! Lange bevor das Katana und das Wakizashi zur bevorzugten Schwertkombination der Samurai wurden, erfüllte das Tanto seinen Zweck (und überraschend gut!). Das Tanto ist ein wunderschönes Kunstwerk und ein verlockendes Stück japanischer Kultur, Geschichte und Folklore! Und wenn Sie sich für das Sammeln authentischer japanischer Schwerter interessieren, werden Sie unsere Tanto-Schwertsammlung mehr als ausreichend finden, um Ihren Durst nach echtem Nihonto zu stillen! Historische Bedeutung: Die Entwicklung des Tanto Die Geschichte des Tanto-Schwerts ist älter als die des Katana. Es ist erwähnenswert, dass, obwohl das Katana "populärer" ist als das Tanto oder sogar das Wakizashi, das Katana in der Kamakura-Periode begann und sich aus dem langen Schwert der Heian-Periode, dem Tachi, entwickelte. Das Tanto existiert dagegen seit der Heian-Periode, wenn auch nicht künstlerisch ansprechend. Wir müssen betonen, dass "Tanto" sich auf die Form der Klinge bezieht, nicht unbedingt auf die Klinge selbst (anders als beim Katana). Seine einzigartige Form macht es perfekt zum Stechen oder Durchbohren, nicht zum Schneiden. Es ist nicht verwunderlich, dass es die bevorzugte Waffe für Samurai im Nahkampf war (wo die Länge des Katana ein Nachteil wäre). Die Tanto-Samurai-Schwerter der Heian-Periode waren bestenfalls rudimentär. Das änderte sich während der Kamakura-Periode, als die Kanmuri-otoshi, Uchi-sori und Hira zu den begehrtesten Tantos wurden. Sie zeigten eine Temperaturlinie ähnlich dem mächtigen Tachi. Leider sah die Momoyama-Periode den Niedergang des Tanto und des Tachi und den Aufstieg des Katana und Wakizashi als bevorzugte Kampfkombination der Samurai. Dennoch fanden japanische Tanto-Schwerter Relevanz in offiziellen Zeremonien, die bis in die späte Edo-Periode andauerten. Handwerkskunst und Design: Die Erschaffung eines Meisterwerks Wie man ein Tanto-Schwert herstellt ist ein Thema, das nur lizenzierte Katana-kaji (erfahrene und lizenzierte japanische Schwertschmiede) wie ein Geschichtenerzähler beschreiben können, der ein Publikum in seinen Bann zieht. Sie folgen jahrhundertealten Methoden, um diese exquisiten Klingen zu schaffen, etwas, das keine moderne Schwertherstellungsverfahren erreichen können. Nur die feinsten Materialien Alles beginnt mit seltenem Eisensand (Satetsu), der in ausgewählten eisensandreichen Flussufern abgebaut und gesammelt wird. Schmelzer verarbeiten Satetsu in traditionellen Öfen, um Tamahagane-Stahl zu produzieren, das Rückgrat der japanischen Schwertherstellung. Dieser kohlenstoffreiche Stahl verleiht den Tanto-Klingen ihre bemerkenswerte Schärfe und Haltbarkeit. Traditionelle Tanto-Schwertmacher verwenden hochwertiges Magnolienholz für Griffe und umwickeln sie mit exquisiter Rochenhaut für einen sicheren Griff. Hochwertige Tantos zeichnen sich durch komplizierte Gravuren und Beschläge aus Gold, Silber und Kupfer aus. Ein Schmiedeprozess wie kein anderer Das Schmieden eines Tanto ist wie das Erschaffen eines Katana. Es erfordert akribische Aufmerksamkeit beim Stahlfalten (hunderte Male, um Unreinheiten zu entfernen und die Klingenstärke zu erhöhen) und bei der Lehmhärtung (um dem Tanto sein charakteristisches Hamon zu verleihen). Erst dann können Tanto-Schwertmacher beginnen, die Klinge zu polieren und zu schärfen, während andere Handwerker an der Montage, den Beschlägen und Verzierungen arbeiten. Moderne Wertschätzung: Das Tanto in der zeitgenössischen Kultur Die Ursprünge des Tanto mögen im mittelalterlichen Japan verwurzelt sein, aber dieses Schwert (oder Dolch) fasziniert weiterhin Menschen des 21. Jahrhunderts. Nicht überraschend verkörpert unsere Tanto-Schwertsammlung die moderne Wertschätzung dieses berühmten Tachi-Begleiters. Sammler und Enthusiasten Antike Tanto-Klingen können bei Auktionen Tausende von Euro erzielen, besonders jene, die von legendären Schwertschmieden gefertigt wurden und eine NBTHK-Zertifizierung besitzen. Viele Enthusiasten investieren in diese Klingen, weil sie unvorstellbare Kunstwerke sind und eine tiefe Geschichte haben. Kampfkunst und Training Traditionelle japanische Kampfkünste wie Kenjutsu und Aikido enthalten Elemente, die von Praktizierenden verlangen, die Kunst des Tanto-Führens zu meistern. Sie nennen es Tanto-jutsu. Darstellung in der Popkultur Tanto-Klingen sind in der modernen Popkultur prominent vertreten. Sie glauben uns nicht? Sie können diese kurzen Schwerter in Chanbara, Jidaigeki und Yakuza-Filmen sehen. Leonardo, Meister Splinter und April O'Neill von den Teenage Mutant Ninja Turtles sind ebenfalls Tanto-Träger. "Ghost of Tsushima" und "Hitman: Absolution" sind führende Videospiele, die dieses Schwert zeigen. Tanto vs. Andere japanische Schwerter: Eine vergleichende Analyse Viele betrachten das Tanto als eine kleinere Version des Katana. Das ist jedoch keine vollständig genaue Beschreibung. Hier ist, wie das Tanto im direkten Vergleich mit seinen beliebteren Geschwistern – dem Katana und Wakizashi – abschneidet. Merkmal Tanto Katana Wakizashi Größe 15-30 cm 60-73 cm 30-61 cm Zweck Selbstverteidigung, Nahkampf Primäre Samurai-Waffe Begleitendes Schwert zum Katana Klingenkrümmung Gerade oder leicht gebogen Deutlich gebogen Leicht gebogen Verwendung Stechen, Durchbohren Schlitzen Schlitzen, sekundärer Kampf Wartung und Pflege: Bewahrung des Tanto-Erbes Wenn Sie aus unserer Tanto-Schwertsammlung kaufen, empfehlen wir die folgenden Wartungs- und Pflegepraktiken, um Ihnen zu helfen, den Zustand Ihres Schwertes zu erhalten. Reinigung und Polieren Tragen Sie Choji-Öl auf die Klinge auf, um Rost und Korrosion zu bekämpfen. Wenn Sie kein Choji haben, können Sie Mineralöl oder Kamelienöl (Tsubaki-Öl) verwenden. Wischen Sie die Klinge vorsichtig mit einem weichen Baumwolltuch ab, um Fingerabdrücke und Feuchtigkeit zu entfernen, während Sie den Glanz der Klinge bewahren. Berühren Sie niemals die Klinge mit bloßen Händen, da Ihre Finger natürliche Öle enthalten, die Klingenoxidation verursachen können. Aufbewahrungsempfehlungen Bewahren Sie Ihr Tanto immer an einem trockenen Ort auf (vorzugsweise temperatur- und feuchtigkeitskontrolliert), um Rostbildung zu verhindern. Bewahren Sie das Tanto in seinem traditionellen Shirasaya oder seiner Scheide auf, um unnötige Exposition gegenüber Luft und Feuchtigkeit zu vermeiden. Überprüfen Sie Ihr Tanto mindestens einmal monatlich auf Anzeichen von Rost oder Schäden. Behandeln Sie sie umgehend, wenn Sie Probleme bemerken.
-  Updated: 2026-06-05T21:31:33Z
+  Updated: 2026-06-26T13:54:09Z
   Total Products: 10
 - [Samurai-Rüstung | Handgefertigte Rüstungen](https://japanisches-katana.de/collections/samurai-rustung): Samurai-Rüstung Die Samurai-Rüstung ist eine japanische Rüstung, die zum Schutz der Samurai während der Heian-Zeit in Japan hergestellt wurde. Diese Rüstung wurde erfunden, um die Beweglichkeit der Krieger, die sie trugen, zu optimieren. Daher besteht sie aus mehreren Teilen (Torso, Helm, Unterarme, usw.).Die Yoroi-Rüstung ist die beliebteste Rüstung, die man leicht an ihrer Form und ihren verschiedenen Materialien wie Metall, Leder, Seide und zahlreichen Legierungen erkennen kann, die je nach Qualität und Preis der Rüstung variieren.Die Samurai-Rüstung besteht also hauptsächlich aus kleinen Metall- oder Lederplatten, die miteinander verbunden sind und so eine mehrteilige Rüstung bilden, die sowohl stabil als auch beweglich ist.Diese Yoroi-Rüstung wiegt, obwohl sie sehr beweglich ist, zwischen 20 und 30 kg und ist daher für Samurai, die zu Fuß kämpften, sehr sperrig. Einige rüsteten sich daher mit leichteren Rüstungen aus, wie mit der Do-maru- oder Haramaki-Rüstung. Diese Art von Rüstung wiegt 10 bis 20 kg, bedeckt aber weniger Körperfläche und ist aus weniger starkem Stahl gefertigt.An diesen Rüstungen konnte man ein Katana am Gürtel oder am Unterrock befestigen, um das Schwert immer in der Nähe zu haben. Zusammensetzung der Samurai-Rüstung : Helm (Kabuto): Mit ungewöhnlicher Form und aus mehreren Metallplatten und Lamellen zusammengesetzt, um den Hals und den Rest des Schädels zu schützen. Er wurde oft mit Ornamenten und dem Logo des Clans verziert. Maske (Menpo): Dies sind Masken, die häufig Dämonen aus der japanischen Folklore darstellen (z. B. Hannya), mit denen man das Gesicht schützen und den Gegner erschrecken kann. Halsschutz (Yodarekake): Platten, die zusammengebunden werden, um den Hals zu schützen. Schulterpolster (Sode): Platten, die mit Lederschnüren verbunden sind, um Schutz und Flexibilität zu bieten. Brustpanzer (Do): Das Hauptelement der Rüstung ist der Brustpanzer aus Metall und lackiertem Leder, der sowohl vor Schlägen als auch vor dem Wetter schützen sollte. Manchmal wurden auch Details aus Spitze und Seide sowie Verzierungen mit eingearbeitet. Unterarmschützer (Kote): Werden oft aus Hanf, Leinen, Brokat oder Seide mit Eisenplatten und Kettenhemden hergestellt. Dies ermöglicht eine große Beweglichkeit sowie einen sehr guten Schutz. Handschuhe (Tekko): Metallplatten und Leder werden miteinander verbunden, um die Handschuhe bestmöglich zu schützen und gleichzeitig Mobilität zu ermöglichen. Die Metallplatten werden dann an günstigen Stellen angebracht, die nicht stören. Rock (Kusazuri): Ein Rock, der aus mehreren Schichten besteht, um die Bewegungsfreiheit zu fördern und die Hüften zu stärken. Unterwäsche (Haedate): Nahezu unsichtbare Hosen unter dem Rock, die doppelten Schutz bieten. Beinlinge (Suneate): Schutz, der sich sehr oft von den Oberschenkeln bis zu den Füßen fortsetzt. Der Hauptzweck besteht darin, die Schienbeine und Knie durch Eisenplatten zu schützen.
   Updated: 2026-06-05T21:31:33Z
@@ -1292,7 +1292,7 @@
   Updated: 2026-06-06T09:32:27Z
   Total Products: 75
 - [Katanas Einstiegsklasse](https://japanisches-katana.de/collections/katana-einstiegsklasse)
-  Updated: 2026-06-22T11:15:34Z
+  Updated: 2026-06-29T11:14:48Z
   Total Products: 67
 - [COMING SOON | Japanisches Katana](https://japanisches-katana.de/collections/coming-soon)
   Updated: 2026-06-05T21:31:33Z
@@ -1313,7 +1313,7 @@
   Updated: 2026-06-08T09:21:56Z
   Total Products: 18
 - [Japanese Handmade Swords](https://japanisches-katana.de/collections/japanese-handmade-swords)
-  Updated: 2026-06-22T11:15:34Z
+  Updated: 2026-06-29T11:14:48Z
   Total Products: 289
 - [Taktische Schwerter](https://japanisches-katana.de/collections/taktische-schwerter)
   Updated: 2026-06-07T14:26:12Z
@@ -1347,16 +1347,16 @@
     Updated: 2026-03-15T05:40:47Z
     Author: Japanisches Katana
   - [Alles über das Polieren von Katana | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/alles-uber-das-polieren-von-katana): Alles über das Polieren von Katana | Japanisches Katana
-    Updated: 2026-03-15T05:40:46Z
+    Updated: 2026-06-23T21:52:35Z
     Author: Japanisches Katana
   - [Wie viel kostet ein echtes Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-viel-kostet-ein-echtes-katana): Wie viel kostet ein echtes Katana? | Japanisches Katana
-    Updated: 2026-03-15T05:40:46Z
+    Updated: 2026-06-23T21:52:34Z
     Author: Japanisches Katana
   - [Kaiken: das kleine japanische Schwert | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/kaiken-das-kleine-japanische-schwert): Kaiken: das kleine japanische Schwert | Japanisches Katana
-    Updated: 2026-03-15T05:40:45Z
+    Updated: 2026-06-23T21:52:33Z
     Author: Japanisches Katana
   - [Kabutowari, die flinke Waffe der Samurai | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/kabutowari-die-flinke-waffe-der-samurai): Kabutowari, die flinke Waffe der Samurai | Japanisches Katana
-    Updated: 2026-03-15T05:40:44Z
+    Updated: 2026-06-23T21:52:33Z
     Author: Japanisches Katana
   - [Wie pflegt man sein Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-pflegt-man-sein-katana): Wie pflegt man sein Katana? | Japanisches Katana
     Updated: 2026-03-15T05:40:43Z
@@ -1365,31 +1365,31 @@
     Updated: 2026-03-15T05:40:42Z
     Author: Japanisches Katana
   - [Wie kann man verhindern, dass das Katana rostet? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-kann-man-verhindern-dass-das-katana-rostet): Wie kann man verhindern, dass das Katana rostet? | Japanisches Katana
-    Updated: 2026-03-15T05:40:42Z
+    Updated: 2026-06-23T21:52:32Z
     Author: Japanisches Katana
   - [Wie stellt man das Katana richtig aus? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-stellt-man-das-katana-richtig-aus): Wie stellt man das Katana richtig aus? | Japanisches Katana
-    Updated: 2026-03-15T05:40:41Z
+    Updated: 2026-06-23T21:52:31Z
     Author: Japanisches Katana
   - [Die Geheimnisse des Tamahagane-Stahls | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/die-geheimnisse-des-tamahagane-stahls): Die Geheimnisse des Tamahagane-Stahls | Japanisches Katana
-    Updated: 2026-03-15T05:40:40Z
+    Updated: 2026-06-23T21:52:30Z
     Author: Japanisches Katana
   - [Tachi VS Uchigatana: Was ist der Unterschied? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/tachi-vs-uchigatana-was-ist-der-unterschied): Tachi VS Uchigatana: Was ist der Unterschied? | Japanisches Katana
     Updated: 2026-03-15T05:40:39Z
     Author: Japanisches Katana
   - [Was ist das Gewicht eines Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-das-gewicht-eines-katana): Was ist das Gewicht eines Katana? | Japanisches Katana
-    Updated: 2026-03-15T05:40:38Z
+    Updated: 2026-06-23T21:52:29Z
     Author: Japanisches Katana
   - [Was ist das Polieren des Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/polieren-des-katana): Was ist das Polieren des Katana? | Japanisches Katana
     Updated: 2026-03-15T05:40:38Z
     Author: Japanisches Katana
   - [Was ist ein Schwert, Iaito? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-ein-schwert-iaito): Was ist ein Schwert, Iaito? | Japanisches Katana
-    Updated: 2026-03-15T05:40:37Z
+    Updated: 2026-06-23T21:52:28Z
     Author: Japanisches Katana
   - [Was ist Bushido? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-bushido): Was ist Bushido? | Japanisches Katana
     Updated: 2026-03-15T05:40:36Z
     Author: Japanisches Katana
   - [Was ist ein Katana-Scheiden-Zertifikat? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/katana-scheiden-zertifikat): Was ist ein Katana-Scheiden-Zertifikat? | Japanisches Katana
-    Updated: 2026-03-15T05:40:35Z
+    Updated: 2026-06-23T21:52:27Z
     Author: Japanisches Katana
   - [Was ist ein Nagamaki? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-ein-nagamaki): Was ist ein Nagamaki? | Japanisches Katana
     Updated: 2026-03-15T05:40:34Z
@@ -1401,7 +1401,7 @@
     Updated: 2026-03-15T05:40:33Z
     Author: Japanisches Katana
   - [Wer war Date Masamune? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wer-war-date-masamune): Wer war Date Masamune? | Japanisches Katana
-    Updated: 2026-03-15T05:40:32Z
+    Updated: 2026-06-23T21:52:26Z
     Author: Japanisches Katana
   - [Was ist ein Men-Yoroi? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-ein-men-yoroi): Was ist ein Men-Yoroi? | Japanisches Katana
     Updated: 2026-03-15T05:40:31Z
@@ -1413,7 +1413,7 @@
     Updated: 2026-03-15T05:40:29Z
     Author: Japanisches Katana
   - [Was ist Tamahagane-Stahl? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-tamahagane-stahl): Was ist Tamahagane-Stahl? | Japanisches Katana
-    Updated: 2026-03-15T05:40:29Z
+    Updated: 2026-06-23T21:52:25Z
     Author: Japanisches Katana
   - [5 Fakten über die japanische Kampfkunst Sojutsu | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/5-fakten-uber-die-japanische-kampfkunst-sojutsu): 5 Fakten über die japanische Kampfkunst Sojutsu | Japanisches Katana
     Updated: 2026-03-15T05:40:28Z
@@ -1422,16 +1422,16 @@
     Updated: 2026-03-15T05:40:27Z
     Author: Japanisches Katana
   - [Der Leitfaden zur Samurai-Rüstung | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/der-leitfaden-zur-samurai-rustung-pas-encore-fini): Der Leitfaden zur Samurai-Rüstung | Japanisches Katana
-    Updated: 2026-03-15T05:40:26Z
+    Updated: 2026-06-23T21:52:24Z
     Author: Japanisches Katana
   - [BOKKEN VS. SHINKEN: WO LIEGT DER UNTERSCHIED? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/bokken-vs-shinken-wo-liegt-der-unterschied): BOKKEN VS. SHINKEN: WO LIEGT DER UNTERSCHIED? | Japanisches Katana
     Updated: 2026-03-15T05:40:25Z
     Author: Japanisches Katana
   - [Was ist die Mune eines japanischen Katanas? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-die-mune-eines-japanischen-katanas): Was ist die Mune eines japanischen Katanas? | Japanisches Katana
-    Updated: 2026-03-15T05:40:24Z
+    Updated: 2026-06-23T21:52:23Z
     Author: Japanisches Katana
   - [Wie werde ich Katanas-Schmied? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-werde-ich-katanas-schmied): Wie werde ich Katanas-Schmied? | Japanisches Katana
-    Updated: 2026-03-15T05:40:24Z
+    Updated: 2026-06-23T21:52:22Z
     Author: Japanisches Katana
   - [Arten von Japanischen Schwertern | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/arten-von-japanischen-schwertern): Arten von Japanischen Schwertern | Japanisches Katana
     Updated: 2026-03-15T05:40:23Z
@@ -1440,7 +1440,7 @@
     Updated: 2026-03-15T05:40:22Z
     Author: Japanisches Katana
   - [Was ist ein Wakizashi? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-ein-wakizashi): Was ist ein Wakizashi? | Japanisches Katana
-    Updated: 2026-03-15T05:40:21Z
+    Updated: 2026-06-23T21:52:22Z
     Author: Japanisches Katana
   - [Was ist Bushido? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-bushido-1): Was ist Bushido? | Japanisches Katana
     Updated: 2026-03-15T05:40:20Z
@@ -1455,10 +1455,10 @@
     Updated: 2026-03-15T05:40:18Z
     Author: Japanisches Katana
   - [Umfassender Leitfaden zum Samuraischwert | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/umfassender-leitfaden-zum-samuraischwert): Umfassender Leitfaden zum Samuraischwert | Japanisches Katana
-    Updated: 2026-03-15T05:40:17Z
+    Updated: 2026-06-23T21:52:21Z
     Author: Japanisches Katana
   - [In Lehm gehärtetes Katana | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/in-lehm-gehartetes-katana): In Lehm gehärtetes Katana | Japanisches Katana
-    Updated: 2026-03-15T05:40:16Z
+    Updated: 2026-06-23T21:52:20Z
     Author: Japanisches Katana
   - [Schmiede in Japan: Eine Tradition des Kunsthandwerks | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/schmiede-in-japan-eine-tradition-des-kunsthandwerks): Schmiede in Japan: Eine Tradition des Kunsthandwerks | Japanisches Katana
     Updated: 2026-03-15T05:40:15Z
@@ -1497,22 +1497,22 @@
     Updated: 2026-03-15T05:40:06Z
     Author: Japanisches Katana
   - [Katana gegen Langschwert: Was ist die bessere Waffe? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/katana-gegen-langschwert-was-ist-die-bessere-waffe): Katana gegen Langschwert: Was ist die bessere Waffe? | Japanisches Katana
-    Updated: 2026-03-15T05:40:06Z
+    Updated: 2026-06-23T21:52:19Z
     Author: Japanisches Katana
   - [Kaufberatung für Katana Full Tang | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/kaufberatung-fur-katana-full-tang): Kaufberatung für Katana Full Tang | Japanisches Katana
-    Updated: 2026-03-15T05:40:05Z
+    Updated: 2026-06-23T21:52:18Z
     Author: Japanisches Katana
   - [Wie lang ist ein Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-lang-ist-ein-katana): Wie lang ist ein Katana? | Japanisches Katana
-    Updated: 2026-03-15T05:40:04Z
+    Updated: 2026-06-23T21:52:17Z
     Author: Japanisches Katana
   - [Die verschiedenen Hamon des Katana: eine uralte Härtetechnik | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/die-verschiedenen-hamon-des-katana-eine-uralte-hartetechnik): Die verschiedenen Hamon des Katana: eine uralte Härtetechnik | Japanisches Katana
-    Updated: 2026-03-15T05:40:03Z
+    Updated: 2026-06-23T21:52:16Z
     Author: Japanisches Katana
   - [Wo man in Japan ein echtes Katana kaufen kann: Ein umfassender Leitfaden für Liebhaber japanischer Klingen | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wo-man-in-japan-ein-echtes-katana-kaufen-kann-ein-umfassender-leitfaden-fur-liebhaber-japanischer-klingen): Wo man in Japan ein echtes Katana kaufen kann: Ein umfassender Leitfaden für Liebhaber japanischer Klingen | Japanisches Katana
-    Updated: 2026-03-15T05:40:02Z
+    Updated: 2026-06-23T21:52:16Z
     Author: Japanisches Katana
   - [Woher weiß ich, ob mein Katana echt ist? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/woher-weiss-ich-ob-mein-katana-echt-ist): Woher weiß ich, ob mein Katana echt ist? | Japanisches Katana
-    Updated: 2026-03-15T05:40:01Z
+    Updated: 2026-06-23T21:52:15Z
     Author: Japanisches Katana
   - [Auf den Spuren des Katana durch Japan reisen: der umfassende Reiseführer | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/auf-den-spuren-des-katana-durch-japan-reisen-der-umfassende-reisefuhrer): Auf den Spuren des Katana durch Japan reisen: der umfassende Reiseführer | Japanisches Katana
     Updated: 2026-03-15T05:40:01Z
@@ -1527,7 +1527,7 @@
     Updated: 2026-03-15T05:39:58Z
     Author: Japanisches Katana
   - [Wie viel kostet ein echtes Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-viel-kostet-ein-echtes-katana-1): Wie viel kostet ein echtes Katana? | Japanisches Katana
-    Updated: 2026-03-15T05:39:57Z
+    Updated: 2026-06-23T21:52:14Z
     Author: Japanisches Katana
   - [Was ist ein Nagamaki? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-ein-nagamaki-1): Was ist ein Nagamaki? | Japanisches Katana
     Updated: 2026-03-15T05:39:56Z
@@ -1557,25 +1557,25 @@
     Updated: 2026-03-15T05:39:49Z
     Author: Japanisches Katana
   - [Ist Tamahagane der beste Stahl für ein Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/ist-tamahagane-der-beste-stahl-fur-ein-katana): Ist Tamahagane der beste Stahl für ein Katana? | Japanisches Katana
-    Updated: 2026-03-15T05:39:48Z
+    Updated: 2026-06-23T21:52:13Z
     Author: Japanisches Katana
   - [Wie viel kostet ein Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-viel-kostet-ein-katana): Wie viel kostet ein Katana? | Japanisches Katana
-    Updated: 2026-03-15T05:39:48Z
+    Updated: 2026-06-23T21:52:12Z
     Author: Japanisches Katana
   - [Was ist ein Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/pas-encore-fini): Was ist ein Katana? | Japanisches Katana
-    Updated: 2026-03-15T05:39:47Z
+    Updated: 2026-06-23T21:52:11Z
     Author: Japanisches Katana
   - [Wie lang ist Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-lang-ist-katana): Wie lang ist Katana? | Japanisches Katana
     Updated: 2026-03-15T05:39:46Z
     Author: Japanisches Katana
   - [Wie scharf ist ein Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-scharf-ist-ein-katana): Wie scharf ist ein Katana? | Japanisches Katana
-    Updated: 2026-03-15T05:39:45Z
+    Updated: 2026-06-23T21:52:10Z
     Author: Japanisches Katana
   - [Wie man ein Katana reinigt | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-man-ein-katana-reinigt): Wie man ein Katana reinigt | Japanisches Katana
     Updated: 2026-03-15T05:39:44Z
     Author: Japanisches Katana
   - [Kendo: Alles, was Sie wissen müssen | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/kendo-alles-was-sie-wissen-mussen): Kendo: Alles, was Sie wissen müssen | Japanisches Katana
-    Updated: 2026-03-15T05:39:43Z
+    Updated: 2026-06-23T21:52:09Z
     Author: Japanisches Katana
   - [Katana polieren: Wie man ein Katana poliert | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/katana-polieren-wie-man-ein-katana-poliert-pas-encore-termine): Katana polieren: Wie man ein Katana poliert | Japanisches Katana
     Updated: 2026-03-15T05:39:43Z
@@ -1587,7 +1587,7 @@
     Updated: 2026-03-15T05:39:41Z
     Author: Japanisches Katana
   - [Was ist Seppuku? Ursprünge, Ritual und Formen | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-seppuku-ursprunge-ritual-und-formen): Was ist Seppuku? Ursprünge, Ritual und Formen | Japanisches Katana
-    Updated: 2026-03-15T05:39:40Z
+    Updated: 2026-06-23T21:52:08Z
     Author: Japanisches Katana
   - [Berühmteste japanische Schwerter | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/beruhmteste-japanische-schwerter): Berühmteste japanische Schwerter | Japanisches Katana
     Updated: 2026-03-15T05:39:39Z
@@ -1602,13 +1602,13 @@
     Updated: 2026-03-15T05:39:37Z
     Author: Japanisches Katana
   - [Was ist ein Iaito-Schwert? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-ein-iaito-schwert): Was ist ein Iaito-Schwert? | Japanisches Katana
-    Updated: 2026-03-15T05:39:36Z
+    Updated: 2026-06-23T21:52:07Z
     Author: Japanisches Katana
   - [Echtes vs. gefälschtes Katana | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/echtes-vs-gefalschtes-katana): Echtes vs. gefälschtes Katana | Japanisches Katana
     Updated: 2026-03-15T05:39:35Z
     Author: Japanisches Katana
   - [Was ist ein Samurai-Duell? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/was-ist-ein-samurai-duell): Was ist ein Samurai-Duell? | Japanisches Katana
-    Updated: 2026-03-15T05:39:34Z
+    Updated: 2026-06-23T21:52:06Z
     Author: Japanisches Katana
   - [Wie man ein Katana hält: Entdecken Sie die Grundtechniken | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-man-ein-katana-halt-entdecken-sie-die-grundtechniken): Wie man ein Katana hält: Entdecken Sie die Grundtechniken | Japanisches Katana
     Updated: 2026-03-15T05:39:33Z
@@ -1623,22 +1623,22 @@
     Updated: 2026-03-15T05:39:31Z
     Author: Japanisches Katana
   - [Arten von japanischen Schwertern, die von Samurai-Kriegern verwendet wurden | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/arten-von-japanischen-schwertern-die-von-samurai-kriegern-verwendet-wurden): Arten von japanischen Schwertern, die von Samurai-Kriegern verwendet wurden | Japanisches Katana
-    Updated: 2026-03-15T05:39:30Z
+    Updated: 2026-06-23T21:52:05Z
     Author: Japanisches Katana
   - [Wo kann man ein Katana kaufen? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wo-kann-man-ein-katana-kaufen): Wo kann man ein Katana kaufen? | Japanisches Katana
-    Updated: 2026-03-15T05:39:29Z
+    Updated: 2026-06-23T21:52:04Z
     Author: Japanisches Katana
   - [Wo man in Japan ein echtes Katana kaufen kann : Ein umfassender Leitfaden für Liebhaber japanischer Klingen | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wo-man-in-japan-ein-echtes-katana-kaufen-kann-ein-umfassender-leitfaden-fur-liebhaber-japanischer-klingen-1): Wo man in Japan ein echtes Katana kaufen kann : Ein umfassender Leitfaden für Liebhaber japanischer Klingen | Japanisches Katana
-    Updated: 2026-03-15T05:39:29Z
+    Updated: 2026-06-23T21:52:03Z
     Author: Japanisches Katana
   - [Wie kann ich feststellen, ob mein Katana echt ist? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-kann-ich-feststellen-ob-mein-katana-echt-ist): Wie kann ich feststellen, ob mein Katana echt ist? | Japanisches Katana
-    Updated: 2026-03-15T05:39:28Z
+    Updated: 2026-06-23T21:52:02Z
     Author: Japanisches Katana
   - [Wer ist der berühmteste Schmied von Samurai-Schwertern? | Katana Japanisches](https://japanisches-katana.de/blogs/blog-katana/wer-ist-der-beruhmteste-schmied-von-samurai-schwertern): Wer ist der berühmteste Schmied von Samurai-Schwertern? | Katana Japanisches
     Updated: 2026-03-15T05:39:27Z
     Author: Japanisches Katana
   - [Entdeckung des japanischen Schwerts aus dem 2.](https://japanisches-katana.de/blogs/blog-katana/entdeckung-des-japanischen-schwerts-aus-dem-2)
-    Updated: 2026-03-15T05:39:26Z
+    Updated: 2026-06-23T21:52:01Z
     Author: Japanisches Katana
   - [Demon Slayer Katana 101](https://japanisches-katana.de/blogs/blog-katana/demon-slayer-katana-101)
     Updated: 2026-03-15T05:39:25Z
@@ -1650,10 +1650,10 @@
     Updated: 2026-03-15T05:39:23Z
     Author: Japanisches Katana
   - [Polieren eines japanischen Schwertes](https://japanisches-katana.de/blogs/blog-katana/polieren-eines-japanischen-schwertes)
-    Updated: 2026-03-15T05:39:23Z
+    Updated: 2026-06-23T21:52:00Z
     Author: Japanisches Katana
   - [Katana Full Tang (was und wo kaufen) | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/katana-full-tang-was-und-wo-kaufen): Katana Full Tang (was und wo kaufen) | Japanisches Katana
-    Updated: 2026-03-15T05:39:22Z
+    Updated: 2026-06-23T21:51:59Z
     Author: Japanisches Katana
   - [Kleine Geschichte der Samurai: Was man 2024 wissen sollte | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/kleine-geschichte-der-samurai-was-man-2024-wissen-sollte): Kleine Geschichte der Samurai: Was man 2024 wissen sollte | Japanisches Katana
     Updated: 2026-03-15T05:39:21Z
@@ -1662,13 +1662,13 @@
     Updated: 2026-03-15T05:39:20Z
     Author: Japanisches Katana
   - [Wie viel kostet ein echtes Katana? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-viel-kostet-ein-echtes-katana-2): Wie viel kostet ein echtes Katana? | Japanisches Katana
-    Updated: 2026-03-15T05:39:19Z
+    Updated: 2026-06-23T21:51:58Z
     Author: Japanisches Katana
   - [Kurze Geschichte der Samurai: Was Sie im Jahr 2025 wissen müssen](https://japanisches-katana.de/blogs/blog-katana/kurze-geschichte-der-samurai-was-sie-im-jahr-2025-wissen-m-ssen)
     Updated: 2026-03-15T05:39:18Z
     Author: Japanisches Katana
   - [Wo kann man in Deutschland ein Katana kaufen?](https://japanisches-katana.de/blogs/blog-katana/wo-kann-man-in-deutschland-ein-katana-kaufen)
-    Updated: 2026-03-15T05:39:18Z
+    Updated: 2026-06-23T21:51:57Z
     Author: Japanisches Katana
   - [Anleitung zum Samurai-Schwert für Anfänger](https://japanisches-katana.de/blogs/blog-katana/anleitung-zum-samurai-schwert-fur-anfanger)
     Updated: 2026-03-15T05:39:17Z
@@ -1677,10 +1677,10 @@
     Updated: 2026-03-15T05:39:16Z
     Author: Japanisches Katana
   - [Wo findet man einen japanischen Schwertladen in Japan?](https://japanisches-katana.de/blogs/blog-katana/wo-findet-man-einen-japanischen-schwertladen-in-japan)
-    Updated: 2026-03-15T05:39:15Z
+    Updated: 2026-06-23T21:51:56Z
     Author: Japanisches Katana
   - [Das legendäre Honjo-Masamune-Schwert](https://japanisches-katana.de/blogs/blog-katana/das-legendare-honjo-masamune-schwert)
-    Updated: 2026-03-15T05:39:14Z
+    Updated: 2026-06-23T21:51:55Z
     Author: Japanisches Katana
   - [Die 15 berühmtesten japanischen Schwertschmiede | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/die-15-beruhmtesten-japanischen-schwertschmiede): Die 15 berühmtesten japanischen Schwertschmiede | Japanisches Katana
     Updated: 2026-03-15T05:39:13Z
@@ -1689,25 +1689,25 @@
     Updated: 2026-03-15T05:39:12Z
     Author: Japanisches Katana
   - [Alles, was Sie über die Naginata wissen müssen](https://japanisches-katana.de/blogs/blog-katana/alles-was-sie-uber-die-naginata-wissen-mussen)
-    Updated: 2026-03-15T05:39:11Z
+    Updated: 2026-06-23T21:51:54Z
     Author: Japanisches Katana
   - [Was ist ein Schwertgriff? Teile, Knauf, Griff und Wache](https://japanisches-katana.de/blogs/blog-katana/was-ist-ein-schwertgriff-teile-knauf-griff-und-wache)
     Updated: 2026-03-15T05:39:10Z
     Author: Japanisches Katana
   - [Wakizashi vs Tanto | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wakizashi-vs-tanto): Wakizashi vs Tanto | Japanisches Katana
-    Updated: 2026-03-15T05:39:09Z
+    Updated: 2026-06-23T21:51:53Z
     Author: Japanisches Katana
   - [Der Fangzahn des Drachen: Ein Leitfaden für traditionelle chinesische Waffen](https://japanisches-katana.de/blogs/blog-katana/der-fangzahn-des-drachen-ein-leitfaden-fur-traditionelle-chinesische-waffen)
     Updated: 2026-03-15T05:39:08Z
     Author: Japanisches Katana
   - [Boshi : la Pointe astucieuse du sabre de Samouraï](https://japanisches-katana.de/blogs/blog-katana/boshi-la-pointe-astucieuse-du-sabre-de-samourai): Boshi : la Pointe astucieuse du sabre de Samouraï
-    Updated: 2026-03-15T05:39:07Z
+    Updated: 2026-06-23T21:51:52Z
     Author: Japanisches Katana
   - [Kurze Schwerter: Ein historischer und praktischer Überblick](https://japanisches-katana.de/blogs/blog-katana/kurze-schwerter)
-    Updated: 2026-03-15T05:39:06Z
+    Updated: 2026-06-23T21:51:51Z
     Author: Japanisches Katana
   - [Wie scharf ist ein Katana ? | Japanisches Katana](https://japanisches-katana.de/blogs/blog-katana/wie-scharf-ist-ein-katana-1): Wie scharf ist ein Katana ? | Japanisches Katana
-    Updated: 2026-03-15T05:39:05Z
+    Updated: 2026-06-23T21:51:50Z
     Author: Japanisches Katana
   - [Chokutō VS Katana: Antike Klingen in einem modernen Showdown](https://japanisches-katana.de/blogs/blog-katana/chokuto-vs-katana)
     Updated: 2026-03-15T05:39:04Z
@@ -1719,7 +1719,7 @@
     Updated: 2026-03-15T05:39:03Z
     Author: Japanisches Katana
   - [Was ist der Unterschied zwischen einer Scheide und einer Scheide?](https://japanisches-katana.de/blogs/blog-katana/was-ist-der-unterschied-zwischen-einer-scheide-und-einer-scheide)
-    Updated: 2026-03-15T05:39:02Z
+    Updated: 2026-06-23T21:51:49Z
     Author: Japanisches Katana
   - [Breitschwert VS Katana: Kampf der Klingen (Wo der Osten den Westen trifft)](https://japanisches-katana.de/blogs/blog-katana/breitschwert-vs-katana-kampf-der-klingen-wo-der-osten-den-westen-trifft)
     Updated: 2026-03-15T05:39:01Z
@@ -1734,7 +1734,7 @@
     Updated: 2026-05-31T13:52:12Z
     Author: Japanisches-Katana.de Team
   - [Ist ein 200-€-Katana es wert? Ehrliche Antwort für Erstkäufer](https://japanisches-katana.de/blogs/blog-katana/ist-ein-200-euro-katana-es-wert)
-    Updated: 2026-05-31T13:52:12Z
+    Updated: 2026-06-23T21:50:58Z
     Author: Japanisches-Katana.de Team
   - [Bestes Katana für Anfänger unter 300 €: Was Reddit wirklich empfiehlt — 2026](https://japanisches-katana.de/blogs/blog-katana/bestes-katana-fur-anfanger)
     Updated: 2026-05-31T13:52:12Z
