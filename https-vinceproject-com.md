@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-12-18T18:28:53Z
 - Contact Email: vitrax1992@gmail.com
-- Updated At: 2026-06-22T00:00:58.969Z
+- Updated At: 2026-06-30T00:01:06.619Z
 
 ## Products
 
@@ -60,12 +60,12 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/EDA007476107C.jpg?v=1778746999
   Price: £16.33 GBP
 - [ProsKit DP-366P 33cm 40cm-Hg Tin Suction Machine Desoldering Pump](https://vinceproject.com/products/proskit-dp-366p-33cm-40cm-hg-tin-suction-machine-desoldering-pump): Discover the ProsKit DP-366P, a powerful desoldering pump with 40cm-Hg suction force, easy to operate, clean, and widely used for efficient tin removal.
-  Updated: 2026-06-20T12:24:10Z
+  Updated: 2026-06-25T05:37:51Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/TBD06055858.jpg?v=1778746977
-  Price: £18.49 GBP
+  Price: £18.97 GBP
 - [Motorola Moto G54 Screen Protector - 5pcs ENKAY Tempered Glass](https://vinceproject.com/products/for-motorola-moto-g54-5pcs-enkay-9h-big-arc-edge-high-aluminum-silicon-tempered-glass-film): Ensure top screen protection for Motorola Moto G54 with this 5-piece ENKAY high aluminum-silicon tempered glass set, featuring HD clarity, case-friendly design, and easy application.
   Updated: 2026-06-20T12:24:10Z
   Vendor: My Store
@@ -354,12 +354,12 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/TBD0605582804B.jpg?v=1750965344
   Price: £21.21 GBP
 - [Xiaomi Pad 7 Smart Tablet Case with Pen Slot & Auto Sleep](https://vinceproject.com/products/for-xiaomi-pad-7-7-pro-11-2-enkay-tri-fold-custer-texture-tpu-leather-smart-tablet-case-with-pen-slotblack): Xiaomi Pad 7 case offers reliable auto sleep/wake, a folding stand for viewing, and scratch protection. Slim design keeps your tablet secure and accessible.
-  Updated: 2026-06-20T12:24:19Z
+  Updated: 2026-06-25T05:37:57Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/SYA002768001A.jpg?v=1750965338
-  Price: £23.09 GBP
+  Price: £23.67 GBP
 - [vivo iQOO Neo10 Pro, 12GB+256GB, Face ID / Screen Fingerprint Identification, 6.78 inch Android 15 OriginOS 5 Dimensity 9400 Octa Core, OTG, NFC, Network: 5G, Support Google Play (White)](https://vinceproject.com/products/vivo-iqoo-neo10-pro-12gb-256gb-face-id-screen-fingerprint-identification-6-78-inch-android-15-originos-5-dimensity-9400-octa-core-otg-nfc-network-5g-support-google-play-white): Specifications: 1. CPU: Dimensity 9400, octa-core, 64 bit, 3nm, 3.626GHz x 1 + 3.3GHz x 3+2.4GHz x 4 2. GPU: Immortalis-G925 3. SIM: Dual SIM (Nano-SIM, dual standby) 4. Memory: 12GB LPDDR5X Ultra + 256GB UFS 4.1 5. Operating System: Android 15, OriginOS 5 6. Battery: 6100mAh, non-removable 7. Charging: 120W, support 20V/6A, compatible with 20V/5A, 20V/3A, 11V/5A, 11V/4A, 11V/3A, 9V/2A or 5V/2A 8. Unlock Method: Facial recognition, ultrasonic 3D fingerprint 9. Sensors: Gravity sensor, light sensor, proximity sensor, gyroscope, electronic compass, front color temperature sensor, ultrasonic 3D fingerprint sensor, infrared remote control, flicker sensor, X-axis linear motor 10. Language: Arabic, Bengali, Burmese, Dutch, English, French, Filipino, German, Hindi, Indonesian, Italian, Japanese, Khmer, Malay, Portuguese, Russian, Romanian, Spanish, Thai, Vietnamese, Nepali, Urdu, Sinhalese, Laotian, Kor., Tibetan, Uyghur 11. Size: 162.92 x 75.40 x 7.99-8.10mm 12. Weight: About 199-206g Screen: 1. Type: AMOLED, 144Hz refresh rate, 2. Size: 6.78 inch (screen-to-body ratio 94.17%) 3. Resolution: 2800 x 1260 pixels, 20:9 4. Sampling Rate: Normal mode 130Hz, game mode 300Hz Camera: 1. Rear Camera: 50MP IMX921 main f1.88 + 50MP wide f2.0 2. Front camera: 16MP (f2.45) Network: 1. 5G: N1/N3/N5/N8/N28A/N38/N40/N41/N77/N78 2. 4G FDD-LTE: B1/B3/B4/B5/B7/B8/B18/B19/B26/B28A 3. 4G TD-LTE: B34/B38/B39/B40/B41 4. 3G WCDMA: B1/B4/B5/B6/B8/B19 5. 2G GSM: 850/900/1800MHz Connection And Transmission: 1. Wi-Fi: Support WLAN 2.4G, 5.1G, 5.8G; Wi-Fi Display; 2 x 2 MIMO, MU-MIMO; Wi-Fi 6, Wi-Fi 7; 2.4G & 5G dual-channel concurrent 2. NFC: Support 3. Navigation: GPS: L1+L5, Beidou: B1C+B1I+B2a+B2b, GLONASS: G1, Galileo: E1+E5a+E5b, QZSS: L1+L5, NavIC: L1+L5 4. BT: BT 5.4 5. Headphone & USB Interface: Type-C 6. OTG: Support Package List 1. Phone x 1 2. US Plug Charger x 1 3. Type-C Data Cable x 1 4. Protective Case x 1 5. Original Film(pre-applied) x 1 6. Card Ejector x 1 7. Packing Box x 1Specification: Package Weight One Package Weight 0.62kgs / 1.37lb One Package Size 21cm * 21cm * 7cm / 8.27inch * 8.27inch * 2.76inch Qty per Carton 20 Carton Weight 13.00kgs / 28.66lb Carton Size 42cm * 45cm * 35cm / 16.54inch * 17.72inch * 13.78inch Loading Container 20GP: 403 cartons * 20 pcs = 8060 pcs 40HQ: 935 cartons * 20 pcs = 18700 pcs
   Updated: 2026-06-20T12:24:19Z
   Vendor: My Store
@@ -662,12 +662,12 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/MPH2684B.jpg?v=1734632889
   Price: £735.89 GBP
 - [For Samsung Galaxy Buds3 Pro AhaStyle WG173 Earphone Silicone Earbuds, Size: L(White)](https://vinceproject.com/products/for-samsung-galaxy-buds3-pro-ahastyle-wg173-earphone-silicone-earbuds-size-lwhite): 1. Material: silicone2. Applicable products: for Samsung Galaxy Buds3 Pro3. Small and convenient, easy to store4. Silicone material, no pressure, comfortable to wear5. Anti-skid and anti-fall, does not affect the sports and fitness6. Size: S about 11 x 7mm, M about 12 x 7mm, L about 14.5 x 7mm7. Note: only send ear caps, not with othersSpecification: General Compatible with Samsung: Galaxy Buds3 Pro Package Weight One Package Weight 0.02kgs / 0.04lb One Package Size 10cm * 8cm * 3cm / 3.94inch * 3.15inch * 1.18inch Qty per Carton 180 Carton Weight 3.00kgs / 6.61lb Carton Size 54cm * 39cm * 15cm / 21.26inch * 15.35inch * 5.91inch Loading Container 20GP: 844 cartons * 180 pcs = 151920 pcs 40HQ: 1959 cartons * 180 pcs = 352620 pcs
-  Updated: 2026-06-20T12:24:25Z
+  Updated: 2026-06-25T05:38:04Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/TBD0605582803B.jpg?v=1734632904
-  Price: £17.59 GBP
+  Price: £18.03 GBP
 - [For Samsung Galaxy Buds3 Pro AhaStyle WG173 Earphone Silicone Earbuds, Size: S(White)](https://vinceproject.com/products/for-samsung-galaxy-buds3-pro-ahastyle-wg173-earphone-silicone-earbuds-size-swhite): 1. Material: silicone2. Applicable products: for Samsung Galaxy Buds3 Pro3. Small and convenient, easy to store4. Silicone material, no pressure, comfortable to wear5. Anti-skid and anti-fall, does not affect the sports and fitness6. Size: S about 11 x 7mm, M about 12 x 7mm, L about 14.5 x 7mm7. Note: only send ear caps, not with othersSpecification: General Compatible with Samsung: Galaxy Buds3 Pro Package Weight One Package Weight 0.02kgs / 0.04lb One Package Size 10cm * 8cm * 3cm / 3.94inch * 3.15inch * 1.18inch Qty per Carton 180 Carton Weight 3.00kgs / 6.61lb Carton Size 54cm * 39cm * 15cm / 21.26inch * 15.35inch * 5.91inch Loading Container 20GP: 844 cartons * 180 pcs = 151920 pcs 40HQ: 1959 cartons * 180 pcs = 352620 pcs
   Updated: 2026-06-20T12:24:25Z
   Vendor: My Store
@@ -1142,37 +1142,37 @@
 ## Collections
 
 - [Home page - Vitrax](https://vinceproject.com/collections/frontpage): Welcome to Vitrax - Your one-stop shop for all your essential needs! Explore a wide range of products and find exactly what you're looking for at our store. Shop now! - Vitrax
-  Updated: 2026-06-21T06:46:58Z
-  Total Products: 46600
+  Updated: 2026-06-29T06:52:10Z
+  Total Products: 46566
 - [Mobile phone accessories - Vitrax](https://vinceproject.com/collections/mobile-phone-accessories): Looking to upgrade your mobile phone with some cool accessories? Our collection of mobile phone accessories has got you covered! From stylish phone cases to durable screen protectors, we have everything you need to keep your device looking and functioning its best. - Vitrax
-  Updated: 2026-06-20T12:34:01Z
-  Total Products: 2592
+  Updated: 2026-06-29T07:09:45Z
+  Total Products: 2590
 - [Apple accessories - Vitrax](https://vinceproject.com/collections/apple-accessories): Explore our collection of Apple accessories and take your device to the next level. With innovative designs and reliable performance, our accessories are the perfect addition to your Apple setup. From headphones to cables, we have everything you need to make the most of your device. - Vitrax
-  Updated: 2026-06-20T12:34:01Z
-  Total Products: 5450
+  Updated: 2026-06-29T07:19:15Z
+  Total Products: 5449
 - [Samsung Accessories - Vitrax](https://vinceproject.com/collections/samsung-accessories): Make the most out of your Samsung gadget with our selection of must-have accessories. Whether you're looking for a durable charger, a convenient phone stand, or a comfortable headset, we have everything you need to enhance your device experience. Stay connected and protected with our reliable products. - Vitrax
-  Updated: 2026-06-20T12:34:02Z
+  Updated: 2026-06-25T08:03:05Z
   Total Products: 1290
 - [Consumer Electronics - Vitrax](https://vinceproject.com/collections/consumer-electronics): Looking for top-quality consumer electronics? Explore Vitrax's wide range of cutting-edge products for all your tech needs. Shop now for the best deals! - Vitrax
-  Updated: 2026-06-21T05:38:54Z
+  Updated: 2026-06-29T07:30:08Z
   Total Products: 2417
 - [Clothing and Beauty - Vitrax](https://vinceproject.com/collections/clothing-and-beauty): Discover the latest trends in clothing and beauty at Vitrax! Elevate your style with our curated collection of fashion and beauty products. Shop now for a trendy makeover! - Vitrax
-  Updated: 2026-06-21T07:38:16Z
+  Updated: 2026-06-28T05:48:34Z
   Total Products: 1506
 - [In Car - Vitrax](https://vinceproject.com/collections/in-car): Say goodbye to boring car accessories and hello to Vitrax! Shake up your in car products with our stylish and practical range of products. Whether you're looking for a sleek dashboard camera or a convenient car organizer, we've got you covered. Upgrade your ride today! - Vitrax
-  Updated: 2026-06-21T05:49:38Z
-  Total Products: 1852
+  Updated: 2026-06-29T07:15:46Z
+  Total Products: 1849
 - [Home & Garden - Vitrax](https://vinceproject.com/collections/home-garden): Welcome to Kitchen ware - your one-stop shop for high-quality home products! Discover a wide range of stylish and functional kitchen ware to elevate your cooking experience. Shop now! - Vitrax
-  Updated: 2026-06-20T12:34:02Z
-  Total Products: 4800
+  Updated: 2026-06-29T07:28:49Z
+  Total Products: 4795
 - [Earbuds - Vitrax](https://vinceproject.com/collections/earbuds): Discover superior sound quality and unmatched comfort with our latest collection of earbuds. Elevate your music listening experience today! - Vitrax
-  Updated: 2026-06-20T12:34:02Z
+  Updated: 2026-06-29T06:50:05Z
   Total Products: 59
 - [Mobile phones - Vitrax](https://vinceproject.com/collections/mobile-phones): Looking for the perfect mobile phone? Discover the latest models and deals at Vitrax. Stay connected with top-notch features and unbeatable prices. - Vitrax
-  Updated: 2026-06-21T11:14:38Z
-  Total Products: 1725
+  Updated: 2026-06-29T07:41:32Z
+  Total Products: 2646
 - [Outdoor & Sports - Vitrax](https://vinceproject.com/collections/outdoor-sport): Explore our extensive range of outdoor and sports gear! From hiking essentials to fitness equipment, find everything you need for your next adventure. - Vitrax
-  Updated: 2026-06-20T12:34:02Z
+  Updated: 2026-06-29T07:16:45Z
   Total Products: 4444
 
 ## Blogs
@@ -1363,6 +1363,18 @@
     Author: Admin
   - [7 Camera Lens Protector Benefits to Know](https://vinceproject.com/blogs/news/camera-lens-protector-benefits): 7 Camera Lens Protector Benefits to Know
     Updated: 2026-06-21T01:54:39Z
+    Author: Admin
+  - [Phone Accessory Trends UK Shoppers Want](https://vinceproject.com/blogs/news/phone-accessory-trends-uk-shoppers-want): Phone Accessory Trends UK Shoppers Want
+    Updated: 2026-06-23T01:54:20Z
+    Author: Admin
+  - [Phone Accessory Trends 2026 to Watch](https://vinceproject.com/blogs/news/phone-accessory-trends-2026): Phone Accessory Trends 2026 to Watch
+    Updated: 2026-06-25T03:06:23Z
+    Author: Admin
+  - [Best Apple Accessories for Everyday Use](https://vinceproject.com/blogs/news/best-apple-accessories-everyday-use): Best Apple Accessories for Everyday Use
+    Updated: 2026-06-27T01:57:26Z
+    Author: Admin
+  - [iPhone Protection Kit Example and What to Buy](https://vinceproject.com/blogs/news/iphone-protection-kit-example-and-what-to-buy): iPhone Protection Kit Example and What to Buy
+    Updated: 2026-06-29T01:54:32Z
     Author: Admin
 
 ## Store Pages
