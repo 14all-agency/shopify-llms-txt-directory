@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2020-09-29T11:31:34Z
 - Contact Email: support@talikacosmetics.com
-- Updated At: 2026-06-23T00:00:38.813Z
+- Updated At: 2026-06-30T00:00:40.620Z
 
 ## Products
 
@@ -46,8 +46,23 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-masks-3-de_ucollete_u.jpg?v=1674555098
     Price: $38.00 USD
+- [Lash Conditioning Cleanser](https://talika-us.myshopify.com/products/lash-conditioning-cleanser-100ml): Talika’s gentle conditioning cleanser removes even waterproof mascara while caring for lashes and brows using natural ingredients. Shop now.
+  Updated: 2026-06-24T13:54:27Z
+  Vendor: TALIKA12582
+  Product Type: Facial Cleansers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-Lash-Conditioning-Cleanser-100ml-1_5bc303dc-4495-43e5-bcad-902bb9234fc7.jpg?v=1674558004
+  - [1 Tube](https://talika-us.myshopify.com/products/lash-conditioning-cleanser-100ml?variant=44966981796066)
+    Availability: Available
+    Price: $28.00 USD
+  - [2 Tubes](https://talika-us.myshopify.com/products/lash-conditioning-cleanser-100ml?variant=44966981828834)
+    Availability: Not Available
+    Price: $44.00 USD
+  - [3 Tubes](https://talika-us.myshopify.com/products/lash-conditioning-cleanser-100ml?variant=44966981861602)
+    Availability: Not Available
+    Price: $63.00 USD
 - [Shipping insurance](https://talika-us.myshopify.com/products/shipping-insurance)
-  Updated: 2026-06-22T07:35:17Z
+  Updated: 2026-06-29T18:44:37Z
   Vendor: ShopWill
   Product Type: ShopWill
   Availability: Available
@@ -184,7 +199,7 @@
   Updated: 2026-06-02T11:10:28Z
   Total Products: 6
 - [All](https://talika-us.myshopify.com/collections/all)
-  Updated: 2026-06-22T11:09:01Z
+  Updated: 2026-06-28T11:08:48Z
   Total Products: 167
 - [](https://talika-us.myshopify.com/collections/): Save 40% in the Talika ! For a limited time only - all at discounted prices.
   Updated: 2026-05-26T19:56:02Z
@@ -199,7 +214,7 @@
   Updated: 2026-05-26T19:56:02Z
   Total Products: 1
 - [EasyGift All Products](https://talika-us.myshopify.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-06-22T11:09:01Z
+  Updated: 2026-06-28T11:08:48Z
   Total Products: 162
 - [Pigment Patches](https://talika-us.myshopify.com/collections/pigment-patches)
   Updated: 2026-05-26T19:56:02Z
@@ -208,7 +223,7 @@
   Updated: 2026-05-26T19:56:03Z
   Total Products: 5
 - [New! Shopify performance sharing is now turned on](https://talika-us.myshopify.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-06-22T11:09:01Z
+  Updated: 2026-06-28T11:08:48Z
   Total Products: 183
 
 ## Blogs
