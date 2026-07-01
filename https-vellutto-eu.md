@@ -10,12 +10,12 @@
 - Contact Email: info@vellutto.eu
 - Contact Phone: +31631221023
 - Address: Torenlaan 5B, 1402 AT, Bussum
-- Updated At: 2026-06-13T00:00:39.435Z
+- Updated At: 2026-07-01T00:00:44.827Z
 
 ## Products
 
 - [Wendougee DATA S Espresso Machine, Pressure Profiling, Double Boiler](https://vellutto.eu/products/wendougee-data-s-espresso-machine): Wendougee DATA S — 2-5 days delivery in the EU/EEA, dual boiler espresso machine with gear-pump pressure & flow profiling, 2-yr warranty | Vellutto.
-  Updated: 2026-06-10T16:05:07Z
+  Updated: 2026-06-30T22:58:43Z
   Vendor: Wendougee
   Product Type: Espresso Machine
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/gray-Wendougee-Data-S-High-End-Home-Espresso-Machine-for-Caf-Quality-Brewing_Vellutto.png?v=1777636745
     Price: €3,695.00 EUR
 - [Wendougee LITA BA | Espresso Machine, Pressure Profiling, dual boiler](https://vellutto.eu/products/wendougee-lita-ba-espresso-machine): Wendougee LITA BA — 2-5 days delivery in the EU/EEA, dual boiler espresso machine with dual-pumps, pressure & flow profiling, 2-yr warranty | Vellutto.
-  Updated: 2026-06-10T16:05:07Z
+  Updated: 2026-06-30T09:52:30Z
   Vendor: Wendougee
   Product Type: Espresso Machine
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/a04992_90b7e41196f148af91d69489f872d00e_mv2.avif?v=1775678902
     Price: €2,299.00 EUR
 - [Wendougee MILO Play | 64mm Single-Dose Espresso Grinder](https://vellutto.eu/products/wendougee-milo-play): Wendougee MILO Play single-dose grinder — 64mm burrs, 400W brushless motor, variable 200–1000 RPM, micron-precise. E-Bar app. EU/EEA shipping, Vellutto.
-  Updated: 2026-06-10T16:05:07Z
+  Updated: 2026-06-19T14:52:17Z
   Vendor: Wendougee
   Product Type: Coffee Grinder
   Availability: Available
@@ -61,14 +61,49 @@
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WendougeeMILOPlayWhiteSide_vellutto.webp?v=1777019813
     Price: €999.00 EUR
 - [WPM Primus Espresso Machine | Pressure Profiling, Gear Pump](https://vellutto.eu/products/wpm-primus-espresso-machine-with-gear-pump-pressure-profiling): WPM Primus prosumer espresso machine. 2-5 days delivery, Gear pump, pressure and flow profiling 1 to 12 bar, triple hybrid heating. shipping EU/EEA | Vellutto
-  Updated: 2026-06-12T09:38:06Z
+  Updated: 2026-06-23T17:30:02Z
   Vendor: WPM
   Product Type: Espresso Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WPM_PRIMUS_Black_Vellutto.eu.webp?v=1777717305
-  Price: €1,979.00 EUR
+  - [Black](https://vellutto.eu/products/wpm-primus-espresso-machine-with-gear-pump-pressure-profiling?variant=62215842333002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Black_espresso_machine_from_WPM_PRIMUS_Black_from_the_side_Vellutto.eu.webp?v=1777717607
+    Price: €1,939.00 EUR
+  - [Silver](https://vellutto.eu/products/wpm-primus-espresso-machine-with-gear-pump-pressure-profiling?variant=62371967926602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WPM_PRIMUS_Silver_Vellutto.png?v=1781644488
+    Price: €1,979.00 EUR
+- [WPM KONOS Single Dose Conical Grinder | Conical Burrs](https://vellutto.eu/products/wpm-konos): The WPM KONOS is a 71mm single dose conical Burr grinder with adjustable RPM, anti-static tech and ultra-low retention. We ship to EU/EEA | Vellutto.
+  Updated: 2026-06-22T13:17:36Z
+  Vendor: WPM
+  Product Type: Coffee Grinder
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WPMKONOS_Vellutto14.webp?v=1777276895
+  - [Black](https://vellutto.eu/products/wpm-konos?variant=62507123474762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WPMKONOS_Vellutto14.webp?v=1777276895
+    Price: €1,349.00 EUR
+  - [Silver](https://vellutto.eu/products/wpm-konos?variant=62507123507530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WPM-KONOS-Silver.webp?v=1782134240
+    Price: €1,349.00 EUR
+- [WPM ZP1 Single Dose Grinder – Café Quality at Home](https://vellutto.eu/products/wpm-zp1-single-dose-grinder): Shop WPM ZP1: 64mm burrs SSP-LeBrew compatible, brushless motor, stepless grind, variable RPM, Zero retention. single-dose grinder | EU/EEA Shipping | Vellutto
+  Updated: 2026-06-22T12:37:25Z
+  Vendor: WPM
+  Product Type: Coffee Grinder
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/ZP-1_image_4_a9236201-8139-4e50-9151-48091c505898.webp?v=1777710743
+  - [Black](https://vellutto.eu/products/wpm-zp1-single-dose-grinder?variant=62507189666122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/ZP-1_image_4_a9236201-8139-4e50-9151-48091c505898.webp?v=1777710743
+    Price: €1,100.00 EUR
+  - [Silver](https://vellutto.eu/products/wpm-zp1-single-dose-grinder?variant=62507189698890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/ZP-1_SL_ff074b0e-6a29-4424-8ce1-8118ddb7cabb.webp?v=1777400398
+    Price: €1,100.00 EUR
 - [Wendougee ARES 90B Commercial Grinder | EU | Vellutto](https://vellutto.eu/products/wendougee-ares-ares-90b-dc): Wendougee ARES commercial grinder with 90mm titanium burrs, grind-by-weight to ±0.2g and 5-inch IoT touchscreen. Insured shipping to EU/EEA
-  Updated: 2026-06-10T16:05:08Z
+  Updated: 2026-06-19T14:52:17Z
   Vendor: Wendougee
   Product Type: Coffee Grinder
   Availability: Available
@@ -82,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Wendougee-ARES-White_Vellutto.eu.webp?v=1777714423
     Price: €1,649.00 EUR
 - [Fellow Espresso Series 1 espresso machine | Vellutto](https://vellutto.eu/products/fellow-espresso-series-1): Fellow Espresso Series 1: prosumer home espresso machine with Boosted Boiler heating, heated group head, and app control. EU/EEA shipping from Vellutto
-  Updated: 2026-06-12T00:55:19Z
+  Updated: 2026-06-29T16:06:02Z
   Vendor: Fellow
   Product Type: Espresso Machine
   Availability: Available
@@ -90,10 +125,6 @@
   - [Black](https://vellutto.eu/products/fellow-espresso-series-1?variant=61750787801418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Web_PDP_Series1_Black-3.webp?v=1777808450
-    Price: €1,499.00 EUR
-  - [Marine Blue](https://vellutto.eu/products/fellow-espresso-series-1?variant=61750787834186)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/PDP-EspressoSeries1-MarineBlue-04_78245646-57f1-4b69-b846-5e5dc477c3aa.webp?v=1777807721
     Price: €1,499.00 EUR
   - [Cherry Red](https://vellutto.eu/products/fellow-espresso-series-1?variant=61750787866954)
     Availability: Available
@@ -103,16 +134,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Web_PDP_Series1_Woodland-3_37cc8eaa-522f-4408-b1ac-ee63e1c38927.webp?v=1777809463
     Price: €1,499.00 EUR
-  - [Malted Chocolate](https://vellutto.eu/products/fellow-espresso-series-1?variant=61750787932490)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Web_PDP_Series1_Malted-3_bd5777c0-de43-40e0-9983-752b424e2e2f.webp?v=1777809478
-    Price: €1,499.00 EUR
   - [Sesame](https://vellutto.eu/products/fellow-espresso-series-1?variant=61750787965258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Web_PDP_Series1_Sesame-3_eb7b1b68-330a-4646-8e59-08df522144d4.webp?v=1777809484
     Price: €1,499.00 EUR
 - [Wendougee LITA LA | Espresso Machine, Pressure Profiling, dual boiler](https://vellutto.eu/products/wendougee-lita-la-espresso-machine): Wendougee LITA LA — 2-5 days delivery in the EU/EEA, dual boiler espresso machine with dual-pumps, pressure & flow profiling, 2-yr warranty | Vellutto.
-  Updated: 2026-06-10T16:05:09Z
+  Updated: 2026-06-30T23:00:35Z
   Vendor: Wendougee
   Product Type: Espresso Machine
   Availability: Available
@@ -125,69 +152,97 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/a04992_90b7e41196f148af91d69489f872d00e_mv2.avif?v=1775678902
     Price: €2,499.00 EUR
-- [LeBrew 64mm Series Flat Burrs](https://vellutto.eu/products/lebrew-64mm-series-flat-burrs-espresso-lebrew-sweet-filter): Professional-grade 64 mm flat burrs engineered for clarity, sweetness, and consistency. DC53 tool steel, TiAlN coating, 60–62 HRC hardness, and precision 5-axis grinding deliver long life (up to 1,500–2,000 kg) and reliably uniform particle distributions—optimized in three profiles: Espresso, LeBrew Sweet, and Filter.Why upgrade to LeBrew 64mm Premium materials & heat : DC53 (Cr8Mo2SiV) tool steel, hardened to 60–62 HRC, tempered 3× after heating to ≈1040 °C for dimensional stability and wear resistance. Reinforced TiAlN coating: ~3 µm conductive coating, ≈3000 HV microhardness, stable to ≈800 °C—extends sharpness and resists heat, corrosion, and fatigue. Long service life: Rated for ~1,500–2,000 kg of coffee. Precision manufacturing: Full-grind machining with imported 5-axis equipment; parallelism and dimensional checks; CAMSIZER X2 particle analysis to validate size & shape distribution. Dialed-in flavor options: Three geometries tuned for brew method and taste—Espresso (body/structure), LeBrew Sweet (rounded sweetness, finish), Filter (clarity/clean cup).
-  Updated: 2026-05-22T08:37:06Z
+- [64mm Flat Burrs: Elevate Your Brewing Experience](https://vellutto.eu/products/64mm-flat-burrs-from-lebrew-elevate-brewing): Experience the difference with our 64mm flat burrs, crafted for clarity and consistency in every cup. Upgrade your brewing game today!
+  Updated: 2026-06-24T04:17:40Z
   Vendor: LeBrew
   Product Type: Burrs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/5fec62730f46bd385cda42c58fbf2581.avif?v=1778413524
-  - [64mm Espresso](https://vellutto.eu/products/lebrew-64mm-series-flat-burrs-espresso-lebrew-sweet-filter?variant=61800966127946)
+  - [64mm Espresso](https://vellutto.eu/products/64mm-flat-burrs-from-lebrew-elevate-brewing?variant=61800966127946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/5fec62730f46bd385cda42c58fbf2581.avif?v=1778413524
     Price: €149.00 EUR
-  - [64mm LeBrew Sweet](https://vellutto.eu/products/lebrew-64mm-series-flat-burrs-espresso-lebrew-sweet-filter?variant=61800966160714)
+  - [64mm LeBrew Sweet](https://vellutto.eu/products/64mm-flat-burrs-from-lebrew-elevate-brewing?variant=61800966160714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Sweet_LeBrew_Burrs.avif?v=1778505794
     Price: €149.00 EUR
-  - [64mm Filter](https://vellutto.eu/products/lebrew-64mm-series-flat-burrs-espresso-lebrew-sweet-filter?variant=61800966193482)
+  - [64mm Filter](https://vellutto.eu/products/64mm-flat-burrs-from-lebrew-elevate-brewing?variant=61800966193482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/74f5bdd2504f3e6562fa11307a538c4f.avif?v=1778413524
     Price: €149.00 EUR
-- [RoastSee Fusion – All‑in‑One Coffee Analyzer for Roasters](https://vellutto.eu/products/roastsee-fusion-coffee-analyzer): RoastSee Fusion measures Agtron roast color, moisture, density and water activity, green and roasted coffee. A complete, data‑driven analyzer for pro roasters.
-  Updated: 2026-06-09T09:50:43Z
+- [LeBrew RoastSee Fusion - Your All-in-One Coffee Analyzer](https://vellutto.eu/products/lebrew-roastsee-fusion-coffee-analyzer): LeBrew RoastSee Fusion is your all-in-one coffee analyzer for precise measurements of roast color, moisture, density, and water activity.
+  Updated: 2026-06-24T04:14:31Z
   Vendor: LEBREW
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Fusion-1.png?v=1780398495
   Price: €899.00 EUR
+- [TIMEMORE Sculptor 064S Grinder – Precision Espresso & Filter](https://vellutto.eu/products/timemore-sculptor-064s-grinder-precision-espresso-filter-black-and-white): Discover the TIMEMORE Sculptor 064s grinder, the perfect blend of style and precision for espresso lovers. Elevate your coffee experience today!
+  Updated: 2026-06-24T02:23:44Z
+  Vendor: TIMEMORE
+  Product Type: Coffee Grinder
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/TIMEMORE_Sculptor_064S_Coffee_Grinder.webp?v=1781862495
+  - [White](https://vellutto.eu/products/timemore-sculptor-064s-grinder-precision-espresso-filter-black-and-white?variant=62407485620554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/TIMEMORE_Sculptor_064S_Coffee_Grinder.webp?v=1781862495
+    Price: €649.00 EUR
+  - [Black](https://vellutto.eu/products/timemore-sculptor-064s-grinder-precision-espresso-filter-black-and-white?variant=62407485653322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/TIMEMORE_SCULPTOR_064_064S_TME_70TGD060AA001_TME_70TGD060AA102_1.webp?v=1781863090
+    Price: €649.00 EUR
+- [Timemore Sculptor 078 burrs / 078s | LeBrew 78mm Burrs](https://vellutto.eu/products/timemore-sculptor-078-burrs-lebrew-78mm-burrs): Upgrade your coffee experience with Timemore Sculptor 078 burrs, From LeBrew. precision grinding with durable LeBrew 78mm Burrs, for Timemore grinders.
+  Updated: 2026-06-24T03:44:56Z
+  Vendor: LeBrew
+  Product Type: Professional Coffee Grinder Burrs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/1_63fb0805-76f3-4c0a-9f5a-a196f60ce177.png?v=1782216324
+  - [78mm LEBREW SWEET Filter](https://vellutto.eu/products/timemore-sculptor-078-burrs-lebrew-78mm-burrs?variant=62517713240394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/1_63fb0805-76f3-4c0a-9f5a-a196f60ce177.png?v=1782216324
+    Price: €139.00 EUR
+  - [78mm LEBREW SWEET ESP](https://vellutto.eu/products/timemore-sculptor-078-burrs-lebrew-78mm-burrs?variant=62517713273162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/1_63fb0805-76f3-4c0a-9f5a-a196f60ce177.png?v=1782216324
+    Price: €139.00 EUR
 
 ## Collections
 
 - [Espresso Machines with Flow Control & Pressure Profiling | Vellutto](https://vellutto.eu/collections/espresso-machines): Shop high-end espresso machines built for pressure profiling and flow control. Wendougee, WPM, ACS & more — shipped across the EU from Vellutto.
-  Updated: 2026-06-10T13:18:04Z
-  Total Products: 11
+  Updated: 2026-06-30T19:05:30Z
+  Total Products: 13
 - [Coffee GrinderCoffee Grinders | Espresso & Filter Grinder | Vellutto](https://vellutto.eu/collections/coffee-grinder): Shop precision espresso and filter coffee grinders from WPM and Wendougee. Single-dose, low-retention, flat & conical burrs. EU & EEA shipping.
-  Updated: 2026-05-24T11:24:52Z
-  Total Products: 5
+  Updated: 2026-06-23T13:06:36Z
+  Total Products: 6
 - [Coffee Roasting Machines | Sample, Home & Shop Roasters — Vellutto](https://vellutto.eu/collections/roasting-machines): Shop precision coffee roasting machines for home, sample, and small-shop use. Drum and hybrid roasters with profile control. EU & EEA shipping.
-  Updated: 2026-05-21T19:12:58Z
+  Updated: 2026-06-17T20:42:32Z
   Total Products: 0
 - [Espresso accessories & barista tools | Vellutto.eu](https://vellutto.eu/collections/accessories-tools): Shop espresso accessories and barista tools at Vellutto.eu, from tampers and milk pitchers to cleaning supplies, with fast, fully insured shipping across Europe
-  Updated: 2026-06-02T14:04:07Z
-  Total Products: 2
+  Updated: 2026-06-23T13:18:54Z
+  Total Products: 3
 - [All Products | espresso machines, grinders, accessories  | Vellutto.eu](https://vellutto.eu/collections/all-products): Browse all products at Vellutto, premium Wendougee espresso machines to WPM grinders and El Rocio equipment and more, fully insured shipping across Europe.
-  Updated: 2026-06-10T13:18:04Z
-  Total Products: 16
+  Updated: 2026-06-30T19:05:30Z
+  Total Products: 20
 - [Wendougee | pressure and flow control espresso machine](https://vellutto.eu/collections/wendougee): Shop Wendougee espresso machines — dual boiler, gear pump, pressure profiling flow control & app control. DATA S, LITA, Sdragon. EU/EEA shipping | Vellutto
-  Updated: 2026-06-10T11:37:31Z
+  Updated: 2026-06-30T09:54:16Z
   Total Products: 8
 - [Brands | Wendougee, WPM, ACS & More | Vellutto.eu](https://vellutto.eu/collections/brands): Discover all the brands we  at Vellutto.eu, including Wendougee, WPM, ACS and more, shipping EU‑EEA wide for serious home baristas.
-  Updated: 2026-05-23T09:39:19Z
+  Updated: 2026-06-23T18:23:11Z
   Total Products: 0
 - [WPM Pressure Profiling Espresso Machines & coffee Grinders](https://vellutto.eu/collections/wpm): WPM espresso machines and single-dose grinders — gear pump pressure profiling, hybrid heating, and iF Design Award-winning engineering. EU shipping | Vellutto
-  Updated: 2026-06-10T13:18:04Z
+  Updated: 2026-06-22T11:34:10Z
   Total Products: 3
 - [El Rocio | espresso machines from Korea | Vellutto.eu](https://vellutto.eu/collections/el-rocio): Discover El Rocio espresso machines from Hwaseong, South Korea, with 4H heating, DGH group technology and hand-built stainless construction for cafés and serious home baristas in Europe.
-  Updated: 2026-06-10T10:25:51Z
+  Updated: 2026-06-23T18:23:07Z
   Total Products: 2
 - [Victoria Arduino](https://vellutto.eu/collections/victoria-arduino)
-  Updated: 2026-05-23T10:12:53Z
+  Updated: 2026-06-17T20:42:32Z
   Total Products: 1
 - [ACS | espresso machines from Naples | Vellutto.eu](https://vellutto.eu/collections/acs): Discover ACS (Advanced Coffee Solution) espresso machines from Naples: dual boiler, lever and pressure-profiling technology for serious home baristas and small cafés across Europe.
-  Updated: 2026-05-23T09:56:06Z
+  Updated: 2026-06-17T20:42:32Z
   Total Products: 0
 - [LeBrew – Intelligent Coffee Measurement & Quality Tools](https://vellutto.eu/collections/lebrew): LeBrew makes smart coffee detection tools for roasters and coffee professionals, helping improve precision, quality control, and brewing consistency
-  Updated: 2026-06-02T14:04:07Z
+  Updated: 2026-06-23T13:18:54Z
   Total Products: 2
 
 ## Blogs
@@ -213,6 +268,14 @@
     Updated: 2026-06-12T16:24:59Z
     Author: Amro Albadich
     Tags: WPM Primus or Wendougee LITA BA
+  - [Flat vs Conical Burr Coffee Grinders: Differences in Flavor and How to Choose](https://vellutto.eu/blogs/news/flat-vs-conical-burr-coffee-grinders-differences-in-flavor-and-how-to-choose): <p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Flat vs conical burr grinders shape grind distribution and flavour: flats give bright, clear notes, conicals deliver fuller body and smooth, classic espresso. Learn the differences so you can choose the right grinder for your taste and home café.</p>
+    Updated: 2026-06-30T22:47:57Z
+    Author: Amro Albadich
+    Tags: Burrs
+  - [Beginner Espresso Guide: From New Machine to Great Coffee in No Time](https://vellutto.eu/blogs/news/beginner-espresso-guide): <p><meta charset="utf-8">New to home espresso? This beginner guide shows you how to pull café-quality shots with fresh beans, the right grinder, proper dose and tamp, water tips, and easy fixes for sour or bitter espresso.</p>
+    Updated: 2026-06-30T19:44:03Z
+    Author: Amro Albadich
+    Tags: Guide
 
 ## Store Pages
 
@@ -232,6 +295,8 @@
   Updated: 2026-05-09T21:29:39Z
 - [LeBrew](https://vellutto.eu/pages/lebrew)
   Updated: 2026-05-10T11:43:51Z
+- [Withdrawal form](https://vellutto.eu/pages/eu-withdrawal-form)
+  Updated: 2026-06-23T22:09:31Z
 
 ## Policies
 
