@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-20T18:12:09Z
 - Contact Email: yugvigyana@gmail.com
-- Updated At: 2026-06-20T00:00:43.815Z
+- Updated At: 2026-07-01T00:00:48.420Z
 
 ## Products
 
@@ -381,98 +381,98 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Marble-Peacock-Painting-Light-Laltain-MVB-YUGVIGYANA-53334484746604.jpg?v=1772369204
   Price: ₹4,524.00 INR
-- [Buy Rose Aroma Soy Wax Candle Copper Jar Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/rose-spark-in-a-copper-metal-luxury-jar): Shop MVB Rose Spark Soy Wax Candle. Hand-poured in copper metal jar, romantic rose fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:08Z
+- [Rose Aroma Soy Wax Candle | Hand-Poured Copper Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/rose-spark-in-a-copper-metal-luxury-jar): Buy MVB Rose Spark Soy Wax Candle — romantic rose fragrance, hand-poured in copper metal jar, natural soy wax. Long-lasting & toxin-free. Perfect gifting option.
+  Updated: 2026-06-26T15:26:46Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Rose-Spark-in-a-Copper-Metal-Luxury-Jar-MVB-YUGVIGYANA-53334629253484.jpg?v=1772365116
   Price: ₹699.00 INR
-- [Buy Lime Aroma Soy Wax Candle Copper Jar Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/vibrant-lime-spark-in-copper-jar-candle): Shop MVB Vibrant Lime Spark Soy Wax Candle. Hand-poured in copper metal jar, zesty lime fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:08Z
+- [Lime Aroma Soy Wax Candle | Hand-Poured Copper Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/vibrant-lime-spark-in-copper-jar-candle): Buy MVB Lime Spark Soy Wax Candle — zesty lime fragrance, hand-poured in elegant copper metal jar, natural soy wax. Long-lasting & toxin-free. Perfect gifting.
+  Updated: 2026-06-26T15:27:02Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Vibrant-Lime-Spark-in-Copper-Jar-Candle-MVB-YUGVIGYANA-53334630334828.jpg?v=1772365095
   Price: ₹699.00 INR
-- [Buy Sandalwood Aroma Soy Wax Candle Gold Jar Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/golden-sandalwood-bliss-aroma-candle): Shop MVB Golden Sandalwood Bliss Soy Wax Candle. Hand-poured in gold metal jar, rich sandalwood fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:08Z
+- [Sandalwood Aroma Soy Wax Candle | Hand-Poured Gold Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/golden-sandalwood-bliss-aroma-candle): Buy MVB Sandalwood Bliss Soy Wax Candle — rich sandalwood fragrance, hand-poured in luxurious gold metal jar, natural soy wax. Long-lasting & toxin-free. Premium gifting.
+  Updated: 2026-06-26T15:27:17Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Golden-Sandalwood-Bliss-Aroma-Candle-MVB-YUGVIGYANA-53334632137068.jpg?v=1772365070
   Price: ₹699.00 INR
-- [Buy Jasmine Aroma Soy Wax Candle Gold Jar Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/golden-jasmine-bliss-aroma-candle): Shop MVB Golden Jasmine Bliss Soy Wax Candle. Hand-poured in luxurious gold metal jar, rich jasmine fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:08Z
+- [Jasmine Aroma Soy Wax Candle | Hand-Poured Gold Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/golden-jasmine-bliss-aroma-candle): Buy MVB Jasmine Bliss Soy Wax Candle — rich jasmine fragrance, hand-poured in luxurious gold metal jar, natural soy wax. Long-lasting & toxin-free. Premium gifting.
+  Updated: 2026-06-26T15:27:31Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Golden-Jasmine-Bliss-Aroma-Candle-MVB-YUGVIGYANA-53334633316716.jpg?v=1772365056
   Price: ₹699.00 INR
-- [Buy Mogra Jasmine Aroma Soy Wax Candle Silver Jar India – MVB Yugvigyana](https://mvbyugvigyana.in/products/majestic-mogra-aroma-candle-in-silver-jar): Shop MVB Majestic Mogra Jasmine Soy Wax Candle. Hand-poured in silver metal jar, pure mogra fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:08Z
+- [Mogra Jasmine Aroma Soy Wax Candle | Hand-Poured Silver Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/majestic-mogra-aroma-candle-in-silver-jar): Buy MVB Mogra Jasmine Soy Wax Candle — pure mogra fragrance, hand-poured in sleek silver metal jar, natural soy wax. Long-lasting & toxin-free. Ideal gifting option.
+  Updated: 2026-06-26T15:27:46Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Majestic-Mogra-Aroma-Candle-In-Silver-Jar-MVB-YUGVIGYANA-53334632825196.jpg?v=1772365030
   Price: ₹699.00 INR
-- [Buy Lavender Aroma Soy Wax Candle Silver Jar Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/calming-lavender-aroma-candle-in-silver-jar): Shop MVB Calming Lavender Soy Wax Candle. Hand-poured in silver metal jar, soothing lavender fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:07Z
+- [Lavender Aroma Soy Wax Candle | Hand-Poured Silver Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/calming-lavender-aroma-candle-in-silver-jar): Buy MVB Lavender Soy Wax Candle — soothing lavender fragrance, hand-poured in sleek silver metal jar, natural soy wax. Long-lasting & toxin-free. Perfect for relaxation.
+  Updated: 2026-06-26T15:28:03Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Calming-Lavender-Aroma-Candle-In-Silver-Jar-MVB-YUGVIGYANA-53334633677164.jpg?v=1772365011
   Price: ₹699.00 INR
-- [Buy Lemongrass Aroma Soy Wax Candle Glass Jar Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/black-mist-lemongrass-aroma-candle): Shop MVB Black Mist Lemongrass Soy Wax Candle. Hand-poured in elegant glass jar, natural & refreshing fragrance. Pan India delivery!
-  Updated: 2026-06-13T16:56:09Z
+- [Lemongrass Aroma Soy Wax Candle | Hand-Poured Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/black-mist-lemongrass-aroma-candle): Buy MVB Lemongrass Soy Wax Candle — refreshing lemongrass fragrance, hand-poured in elegant black glass jar, natural soy wax. Long-lasting & toxin-free. Great gifting.
+  Updated: 2026-06-26T15:29:08Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Black-Mist-Lemongrass-Aroma-Candle-MVB-YUGVIGYANA-53334634365292.jpg?v=1772364989
   Price: ₹599.00 INR
-- [Buy Saffron Aroma Soy Wax Candle Glass Jar Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/black-mist-saffron-aroma-candle): Shop MVB Black Mist Saffron Soy Wax Candle. Hand-poured in elegant glass jar, exotic saffron fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:10Z
+- [Saffron Aroma Soy Wax Candle | Hand-Poured Black Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/black-mist-saffron-aroma-candle): Buy MVB Saffron Soy Wax Candle — exotic saffron fragrance, hand-poured in elegant black glass jar, natural soy wax. Long-lasting & toxin-free. Luxurious gifting option.
+  Updated: 2026-06-26T15:29:25Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Price: ₹599.00 INR
-- [Buy Lily Aroma Soy Wax Candle White Glass Jar Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/white-elegance-lily-aroma-candle): Shop MVB White Elegance Lily Soy Wax Candle. Hand-poured in white glass jar, delicate lily fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:07Z
+- [Lily Aroma Soy Wax Candle | Hand-Poured White Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/white-elegance-lily-aroma-candle): Buy MVB Lily Soy Wax Candle — delicate lily fragrance, hand-poured in elegant white glass jar, natural soy wax. Long-lasting & toxin-free. Perfect for home ambiance.
+  Updated: 2026-06-26T15:29:41Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/White-Elegance-Lily-Aroma-Candle-MVB-YUGVIGYANA-53334634922348.jpg?v=1772364951
   Price: ₹599.00 INR
-- [Buy Vanilla Aroma Soy Wax Candle White Glass Jar Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/white-elegance-vanilia-aroma-candle): Shop MVB White Elegance Vanilla Soy Wax Candle. Hand-poured in white glass jar, warm vanilla fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:11Z
+- [Vanilla Aroma Soy Wax Candle | Hand-Poured White Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/white-elegance-vanilia-aroma-candle): Buy MVB Vanilla Soy Wax Candle — warm vanilla fragrance, hand-poured in elegant white glass jar, natural soy wax. Long-lasting & toxin-free. Cozy home gifting pick.
+  Updated: 2026-06-26T15:29:54Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/White-Elegance-Vanilia-Aroma-Candle-MVB-YUGVIGYANA-53334635381100.jpg?v=1772364939
   Price: ₹599.00 INR
-- [Buy Cucumber Aroma Soy Wax Candle Sea Blue Glass Jar India – MVB Yugvigyana](https://mvbyugvigyana.in/products/sea-blue-bliss-cucumber-aroma-candle): Shop MVB Sea Blue Bliss Cucumber Soy Wax Candle. Hand-poured in sea blue glass jar, cool cucumber fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:10Z
+- [Cucumber Aroma Soy Wax Candle | Hand-Poured Sea Blue Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/sea-blue-bliss-cucumber-aroma-candle): Buy MVB Cucumber Soy Wax Candle — cool cucumber fragrance, hand-poured in sea blue glass jar, natural soy wax. Long-lasting & toxin-free. Fresh & calming home decor.
+  Updated: 2026-06-26T15:30:09Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Sea-Blue-Bliss-Cucumber-Aroma-Candle-MVB-YUGVIGYANA-53334636167532.jpg?v=1772364918
   Price: ₹599.00 INR
-- [Buy Watermelon Aroma Soy Wax Candle Sea Blue Glass Jar India – MVB Yugvigyana](https://mvbyugvigyana.in/products/sea-blue-bliss-watermelon-aroma-candle): Shop MVB Sea Blue Bliss Watermelon Soy Wax Candle. Hand-poured in sea blue glass jar, juicy watermelon fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:11Z
+- [Watermelon Aroma Soy Wax Candle | Hand-Poured Sea Blue Glass Jar | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/sea-blue-bliss-watermelon-aroma-candle): Buy MVB Watermelon Soy Wax Candle — juicy watermelon fragrance, hand-poured in sea blue glass jar, natural soy wax. Long-lasting & toxin-free. Fun & fruity gifting pick.
+  Updated: 2026-06-26T15:30:26Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Sea-Blue-Bliss-Watermelon-Aroma-Candle-MVB-YUGVIGYANA-53334636560748.jpg?v=1772364908
   Price: ₹599.00 INR
-- [Buy Green Apple Aroma Soy Wax Candle Thai Bowl Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/thai-bliss-green-apple-aroma-candle): Shop MVB Thai Bliss Green Apple Soy Wax Candle. Hand-poured in authentic Thai bowl, crisp apple fragrance, natural soy wax. Pan India delivery!
-  Updated: 2026-06-13T16:56:07Z
+- [Green Apple Aroma Soy Wax Candle | Hand-Poured Thai Bowl | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/thai-bliss-green-apple-aroma-candle): Buy MVB Green Apple Soy Wax Candle — crisp apple fragrance, hand-poured in authentic Thai bowl, natural soy wax. Long-lasting & toxin-free. Unique artisan gifting.
+  Updated: 2026-06-26T15:30:44Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Thai-Bliss-Green-Apple-Aroma-Candle-MVB-YUGVIGYANA-53334637052268.jpg?v=1772364810
   Price: ₹599.00 INR
-- [Buy Orange Aroma Soy Wax Candle Thai Bowl Hand-Poured India – MVB Yugvigyana](https://mvbyugvigyana.in/products/thai-bliss-orange-aroma-candle): Shop MVB Thai Bliss Orange Aroma Soy Wax Candle. Hand-poured in authentic Thai bowl, natural soy wax, long-lasting fragrance. Pan India delivery!
-  Updated: 2026-06-13T16:56:08Z
+- [Orange Aroma Soy Wax Candle | Hand-Poured Thai Bowl | Natural Soy Wax | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/thai-bliss-orange-aroma-candle): Buy MVB Orange Soy Wax Candle — zesty orange fragrance, hand-poured in authentic Thai bowl, natural soy wax. Long-lasting & toxin-free. Vibrant artisan gifting pick.
+  Updated: 2026-06-26T15:31:00Z
   Vendor: MVB YUGVIGYANA
   Product Type: Home Fragrance Accessories
   Availability: Available
@@ -566,8 +566,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1346_1.jpg?v=1771503254
     Price: ₹1,750.00 INR
-- [MVB Velvet Plush Sherpa Double Bed Blanket | Premium Winter Blanket India | Luxury Bedding](https://mvbyugvigyana.in/products/velvet-plush-double-bed-blanket-layered-with-ultra-soft-sherpa-fabric): Buy MVB Velvet Plush Sherpa Double Bed Blanket. Ultra-soft sherpa lining, fade-resistant, 4 colors. Perfect for winter & AC rooms. Ships across India & USA.
-  Updated: 2026-06-13T16:56:11Z
+- [Velvet Plush Sherpa Double Bed Blanket | Ultra-Soft Winter Blanket | 4 Colors | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/velvet-plush-double-bed-blanket-layered-with-ultra-soft-sherpa-fabric): Buy MVB Velvet Plush Sherpa Double Bed Blanket — ultra-soft sherpa lining, fade-resistant, 4 colors. Warm & cozy for winter & AC rooms. Premium quality bedding.
+  Updated: 2026-06-26T15:31:21Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -588,8 +588,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/BLN034_1.jpg?v=1771337269
     Price: ₹2,999.00 INR
-- [MVB Premium Velvet Plush Sherpa Double Bed Blanket | Luxury Winter Blanket India](https://mvbyugvigyana.in/products/premium-velvet-plush-double-bed-blanket-layered-with-ultra-soft-sherpa-fabric): Buy MVB Premium Velvet Plush Sherpa Double Bed Blanket. Ultra-soft sherpa lining, fade-resistant, 4 colors. Perfect for winter & AC rooms. Ships across India & USA.
-  Updated: 2026-06-13T16:56:11Z
+- [Premium Velvet Plush Sherpa Double Bed Blanket | Luxury Winter Blanket | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/premium-velvet-plush-double-bed-blanket-layered-with-ultra-soft-sherpa-fabric): Buy MVB Premium Velvet Plush Sherpa Double Bed Blanket — luxuriously soft sherpa lining, fade-resistant, 4 rich colors. Ideal for winter nights & AC rooms.
+  Updated: 2026-06-26T15:31:36Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -632,8 +632,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/KBS1350_2.jpg?v=1770621730
     Price: ₹1,750.00 INR
-- [MVB Royal Sanganeri Double Bedsheet Set | 100% Pure Cotton | Rajasthani Heritage Bedding India](https://mvbyugvigyana.in/products/royal-sanganeri-double-bedsheet-pure-cotton): Buy MVB Royal Sanganeri 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, traditional Rajasthani block print, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-06-13T16:56:09Z
+- [Royal Sanganeri Double Bedsheet Set | 100% Pure Cotton | Rajasthani Block Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/royal-sanganeri-double-bedsheet-pure-cotton): Buy MVB Royal Sanganeri Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional Rajasthani block print, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-06-26T15:31:51Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -654,8 +654,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1608.jpg?v=1771417301
     Price: ₹1,299.00 INR
-- [MVB Classic Buta Print Double Bedsheet Set | 100% Pure Cotton | Traditional Indian Bedding](https://mvbyugvigyana.in/products/classic-buta-print-double-bedsheet-pure-cotton): Buy MVB Classic Buta Print 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, traditional Indian buta motif, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-06-13T16:56:11Z
+- [Classic Buta Print Double Bedsheet Set | 100% Pure Cotton | Traditional Indian Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/classic-buta-print-double-bedsheet-pure-cotton): Buy MVB Classic Buta Print Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional Indian buta motif, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-06-26T15:32:06Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -676,8 +676,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1612.jpg?v=1771334298
     Price: ₹1,299.00 INR
-- [MVB Majestic Jaipuri Mandala Double Bedsheet Set | 100% Pure Cotton | Indian Heritage Bedding](https://mvbyugvigyana.in/products/majestic-jaipuri-mandala-double-bedsheet-pure-cotton): Buy MVB Majestic Jaipuri Mandala 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, traditional mandala design, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-06-13T16:56:12Z
+- [Jaipuri Mandala Double Bedsheet Set | 100% Pure Cotton | Heritage Mandala Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/majestic-jaipuri-mandala-double-bedsheet-pure-cotton): Buy MVB Jaipuri Mandala Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional mandala design, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-06-26T15:32:20Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -698,8 +698,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1616.jpg?v=1771247207
     Price: ₹1,299.00 INR
-- [MVB Imperial Floral Bouquet Double Bedsheet Set | 100% Pure Cotton | Premium Floral Bedding India](https://mvbyugvigyana.in/products/imperial-floral-bouquet-double-bedsheet-pure-cotton): Buy MVB Imperial Floral Bouquet 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, romantic floral print, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-06-13T16:56:12Z
+- [Imperial Floral Bouquet Double Bedsheet Set | 100% Pure Cotton | Romantic Floral Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/imperial-floral-bouquet-double-bedsheet-pure-cotton): Buy MVB Imperial Floral Bouquet Double Bedsheet Set — 100% pure cotton, 153 GSM, romantic floral print, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-06-26T15:32:42Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -720,8 +720,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS1620.jpg?v=1771244197
     Price: ₹1,299.00 INR
-- [MVB Classic Sanganeri Buti Double Bedsheet Set | 100% Pure Cotton | Indian Heritage Bedding](https://mvbyugvigyana.in/products/classic-sanganeri-buti-double-bedsheet-pure-cotton): Buy MVB Classic Sanganeri Buti 100% Cotton Double Bedsheet Set with 2 pillow covers. 153 GSM, traditional Indian block print, breathable & skin-friendly. Ships across India & USA.
-  Updated: 2026-06-13T16:56:13Z
+- [Sanganeri Buti Double Bedsheet Set | 100% Pure Cotton | Indian Block Print | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/classic-sanganeri-buti-double-bedsheet-pure-cotton): Buy MVB Sanganeri Buti Double Bedsheet Set — 100% pure cotton, 153 GSM, traditional Indian block print, 2 pillow covers. Breathable & skin-friendly. ₹999.
+  Updated: 2026-06-26T15:33:01Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -991,36 +991,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Metal-Diya-urli-MVB-YUGVIGYANA-53340065759596.jpg?v=1772364598
   Price: ₹450.00 INR
-- [Buy Rose Urli 10 Inch Metal Decorative Bowl Floating Candle India – MVB Yugvigyana](https://mvbyugvigyana.in/products/rose-urli): Shop Rose Urli 10-inch handcrafted metal bowl at MVB Yugvigyana. Perfect for floating candles & home decor. Pan India delivery!
-  Updated: 2026-06-13T16:56:11Z
+- [Rose Urli 10 Inch Handcrafted Metal Bowl | Floating Candle & Home Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/rose-urli): Buy MVB Rose Urli — 10 inch handcrafted metal decorative bowl, perfect for floating candles, flowers & festive décor. Ideal for Diwali, weddings & gifting.
+  Updated: 2026-06-26T15:34:07Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Rose-Urli-MVB-YUGVIGYANA-53340069298540.jpg?v=1772364568
   Price: ₹1,100.00 INR
-- [Buy Peacock Urli Set 3 Metal Bowls Floating Candle Festive Decor India – MVB Yugvigyana](https://mvbyugvigyana.in/products/peacoke-urli-set): Shop Peacock Urli Set (12, 14 & 16 inch) at MVB Yugvigyana. Handcrafted metal bowls for floating candles & festive decor. Pan India delivery!
-  Updated: 2026-06-13T16:56:07Z
+- [Peacock Urli Set | 12, 14 & 16 Inch Metal Bowls | Floating Candle Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/peacoke-urli-set): Buy MVB Peacock Urli Set — 3 handcrafted metal bowls (12, 14 & 16 inch) for floating candles & festive décor. Perfect for Diwali, pooja & home gifting.
+  Updated: 2026-06-26T15:34:24Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Peacoke-Urli-Set-MVB-YUGVIGYANA-53340074344812.jpg?v=1772364564
   Price: ₹1,999.00 INR
-- [Buy Kamal Leaf Urli 12 Inch Metal Bowl Lotus Floating Candle India – MVB Yugvigyana](https://mvbyugvigyana.in/products/kamal-leaf-urli): Shop Kamal Leaf Urli 12-inch metal bowl at MVB Yugvigyana. Lotus leaf design for floating candles & festive decor. Pan India delivery!
-  Updated: 2026-06-13T16:56:07Z
+- [Kamal Leaf Urli 12 Inch Metal Bowl | Lotus Design | Floating Candle Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/kamal-leaf-urli): Buy MVB Kamal Leaf Urli — 12 inch handcrafted metal bowl with lotus leaf design. Perfect for floating candles, flowers & festive pooja décor. Premium gifting.
+  Updated: 2026-06-26T15:34:47Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Kamal-Leaf-Urli-MVB-YUGVIGYANA-53340076179820.jpg?v=1772364504
   Price: ₹1,100.00 INR
-- [Buy Taar Phool Urli Metal Bowl 9.5 Inch Floating Candle India – MVB Yugvigyana](https://mvbyugvigyana.in/products/taar-phool-urli-bowl): Shop Taar Phool Urli Bowl at MVB Yugvigyana. 9.5-inch decorative metal bowl for floating candles & pooja decor. Pan India delivery!
-  Updated: 2026-06-13T16:56:08Z
+- [Taar Phool Urli Bowl 9.5 Inch | Handcrafted Metal | Floating Candle & Pooja Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/taar-phool-urli-bowl): Buy MVB Taar Phool Urli — 9.5 inch handcrafted metal bowl for floating candles & pooja décor. Intricate floral design, ideal for Diwali & festive gifting.
+  Updated: 2026-06-26T15:35:12Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Taar-Phool-Urli-Bowl-MVB-YUGVIGYANA-53340077556076.jpg?v=1772364475
   Price: ₹699.00 INR
-- [Buy Leaf Urli 12 Inch Metal Bowl Floating Candle Flower Decor India – MVB Yugvigyana](https://mvbyugvigyana.in/products/leaf-urli): Shop Leaf Urli 12-inch metal bowl at MVB Yugvigyana. Beautiful leaf design for floating candles & flower decor. Pan India delivery!
-  Updated: 2026-06-13T16:56:10Z
+- [Leaf Urli 12 Inch Handcrafted Metal Bowl | Floating Candle & Flower Décor | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/leaf-urli): Buy MVB Leaf Urli — 12 inch handcrafted metal bowl with beautiful leaf design. Perfect for floating candles, flowers & festive home décor. Premium gifting.
+  Updated: 2026-06-26T15:35:32Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
@@ -1033,15 +1033,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Rangoli-With-Stand-MVB-YUGVIGYANA-53340081488236.jpg?v=1772364434
   Price: ₹2,599.00 INR
-- [Buy Flower Leaf Metal Incense Holder Agarbatti Stand India – MVB Yugvigyana](https://mvbyugvigyana.in/products/flower-leaf-incense-holder): Shop Flower Leaf Metal Incense Holder at MVB Yugvigyana. Handcrafted agarbatti stand for pooja & gifting. Pan India delivery!
-  Updated: 2026-06-13T16:56:09Z
+- [Flower Leaf Metal Incense Holder | Handcrafted Agarbatti Stand | Pooja & Gifting | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/flower-leaf-incense-holder): Buy MVB Flower Leaf Metal Incense Holder — handcrafted agarbatti stand with floral leaf design. Perfect for daily pooja, home décor & festive gifting. Made in India.
+  Updated: 2026-06-26T16:38:30Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Flower-leaf-incense-Holder-MVB-YUGVIGYANA-53340083224940.jpg?v=1772364353
   Price: ₹1,100.00 INR
-- [Buy Dome Shape Metal Incense Holder Agarbatti Stand India – MVB Yugvigyana](https://mvbyugvigyana.in/products/dome-shape-incense-holder): Shop handcrafted Dome Shape Metal Incense Holder at MVB Yugvigyana. Premium agarbatti stand for pooja & home decor. Pan India delivery!
-  Updated: 2026-06-13T16:56:09Z
+- [Dome Shape Metal Incense Holder | Handcrafted Agarbatti Stand | Home Décor & Pooja | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/dome-shape-incense-holder): Buy MVB Dome Shape Metal Incense Holder — premium handcrafted agarbatti stand with dome design. Ideal for daily pooja, home décor & festive gifting. Made in India.
+  Updated: 2026-06-26T16:38:59Z
   Vendor: MVB YUGVIGYANA
   Product Type: Handicraft
   Availability: Available
@@ -1054,8 +1054,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Metal-Urli-Kamal-Diya-MVB-YUGVIGYANA-53340085387628.jpg?v=1772364312
   Price: ₹450.00 INR
-- [Hand Block Printed Blue Trees & Flowers Cotton Curtains/  Pure Cotton Drapes](https://mvbyugvigyana.in/products/hand-block-printed-blue-trees-flowers-cotton-curtains-pure-cotton-drapes): Bring home the eternal beauty of Jaipur with our Hand Block Printed Blue Trees and Flowers Cotton Curtains. Made by accomplished artisans employing traditional Rajasthani hand block print techniques, these curtains include a peaceful blue botanical pattern of trees and flowers in bloom that brings a soothing, earthy sophistication to any room. Crafted from 100% superior cotton material, these curtains are natural, long-lasting, and ideal for daily use. If you're designing a living room, bedroom, or balcony door, these artistic curtains add natural warmth and handcrafted elegance to your home interior. Comes in 3 useful sizes – Window (5 ft), Door (7 ft), and Long Door (9 ft) – to fit every room with ease. Sizes available: Window Curtain – 5 ft (152 cm x 121 cm) Door Curtain – 7 ft (213 cm x 121 cm) Long Door Curtain – 9 ft (274 cm x 121 cm) Weight: Approx. 500g – 800g per piece (depending on size) Thread Count: 180 TC | GSM: 150 Finish: Loops/Tabs/Rings (Customizable if needed) Care: Machine wash cold, gentle cycle. Do not bleach. Dry in shade.
-  Updated: 2026-06-13T16:56:13Z
+- [Hand Block Printed Blue Trees & Flowers Cotton Curtains | Pure Cotton Drapes | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/hand-block-printed-blue-trees-flowers-cotton-curtains-pure-cotton-drapes): Buy MVB Hand Block Printed Blue Trees & Flowers Cotton Curtains — pure cotton drapes, authentic Indian block print. Available in 5ft, 7ft & 9ft. Free shipping India.
+  Updated: 2026-06-26T16:39:44Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1270,8 +1270,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT77_2.jpg?v=1770811089
     Price: ₹799.00 INR
-- [Pinklay Golden Bloom Hand Block Print Cotton Curtains | Yellow Brown Floral | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/pinklay-golden-bloom-hand-block-print-cotton-curtains-yellow-brown-floral): Buy Pinklay Golden Bloom hand block print cotton curtains in warm yellow & brown floral design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship. Free shipping India.
-  Updated: 2026-06-13T16:56:12Z
+- [Pinklay Golden Bloom Hand Block Cotton Curtains | Yellow Brown Floral | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/pinklay-golden-bloom-hand-block-print-cotton-curtains-yellow-brown-floral): Buy MVB Pinklay Golden Bloom curtains — warm yellow & brown floral hand block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craft.
+  Updated: 2026-06-26T16:40:06Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1288,8 +1288,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT78_2.jpg?v=1770809155
     Price: ₹799.00 INR
-- [Madhuban Bloom Hand Block Print Cotton Curtains | Pink Floral Green Leaves | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/madhuban-bloom-hand-block-print-cotton-curtains-pink-floral-green-leaves): Buy Madhuban Bloom hand block print cotton curtains with pink florals & green leaves. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship. Free shipping India.
-  Updated: 2026-06-13T16:56:09Z
+- [Madhuban Bloom Hand Block Cotton Curtains | Pink Floral Green Leaves | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/madhuban-bloom-hand-block-print-cotton-curtains-pink-floral-green-leaves): Buy MVB Madhuban Bloom curtains — pink florals & green leaves hand block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craft.
+  Updated: 2026-06-26T16:40:35Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1306,8 +1306,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT79_2.jpg?v=1771098627
     Price: ₹799.00 INR
-- [Mela Garden Rose Hand Block Print Cotton Curtains | Pink Floral | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/mela-garden-rose-hand-block-print-cotton-curtains-pink-floral): Buy Mela Garden Rose hand block print cotton curtains in pink rose bouquet Jaipur design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic artisan craftsmanship. Free shipping India.
-  Updated: 2026-06-13T16:56:11Z
+- [Mela Garden Rose Hand Block Cotton Curtains | Pink Floral Jaipur Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/mela-garden-rose-hand-block-print-cotton-curtains-pink-floral): Buy MVB Mela Garden Rose curtains — pink rose bouquet Jaipur block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Rajasthani artisan craft.
+  Updated: 2026-06-26T16:40:57Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1324,8 +1324,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT80_2.jpg?v=1771097501
     Price: ₹799.00 INR
-- [Timeless Blue Pottery Hand Block Print Cotton Curtains | Jaipur | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/timeless-blue-pottery-hand-block-print-cotton-curtains-jaipur): Buy Timeless Blue Pottery hand block print cotton curtains in Jaipur design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic Urban Jaipur artisan craftsmanship. Free shipping India.
-  Updated: 2026-06-13T16:56:12Z
+- [Blue Pottery Hand Block Cotton Curtains | Jaipur Design | 100% Pure Cotton | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/timeless-blue-pottery-hand-block-print-cotton-curtains-jaipur): Buy MVB Blue Pottery curtains — iconic Jaipur blue pottery block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Timeless Urban Jaipur artisan craft.
+  Updated: 2026-06-26T16:41:09Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1342,8 +1342,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT81_2.jpg?v=1770807941
     Price: ₹799.00 INR
-- [Printroots Heritage Hand Block Print Cotton Curtains | Green India Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/printroots-heritage-hand-block-print-cotton-curtains-green-india): Buy Printroots Heritage hand block print cotton curtains in calming green India-inspired design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic artisan craftsmanship. Free shipping India.
-  Updated: 2026-06-13T16:56:16Z
+- [Printroots Heritage Hand Block Cotton Curtains | Green India Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/printroots-heritage-hand-block-print-cotton-curtains-green-india): Buy MVB Printroots Heritage curtains — calming green India-inspired block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic artisan craftsmanship.
+  Updated: 2026-06-26T16:41:35Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1360,8 +1360,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT82_2.jpg?v=1770807112
     Price: ₹799.00 INR
-- [Jaipur Mela Hand Block Print Cotton Curtains | Off-White Jaipuri | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/jaipur-mela-hand-block-print-cotton-curtains-off-white-jaipuri): Buy Jaipur Mela hand block print cotton curtains in off-white Jaipuri design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship. Free shipping India.
-  Updated: 2026-06-13T16:56:12Z
+- [Jaipur Mela Hand Block Cotton Curtains | Off-White Jaipuri Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/jaipur-mela-hand-block-print-cotton-curtains-off-white-jaipuri): Buy MVB Jaipur Mela curtains — elegant off-white Jaipuri block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship.
+  Updated: 2026-06-26T16:42:10Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1378,8 +1378,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/CT83_2.jpg?v=1770806819
     Price: ₹799.00 INR
-- [Plush Heritage Hand Block Print Cotton Curtains | Blue Floral | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/plush-heritage-hand-block-print-cotton-curtains-blue-floral): Buy Plush Heritage hand block print cotton curtains in blue floral design. 100% pure cotton, 180 GSM, available in 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship. Free shipping India.
-  Updated: 2026-06-13T16:56:14Z
+- [Plush Heritage Hand Block Cotton Curtains | Blue Floral Design | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/plush-heritage-hand-block-print-cotton-curtains-blue-floral): Buy MVB Plush Heritage curtains — rich blue floral hand block print, 100% pure cotton, 180 GSM. Available 5ft, 7ft & 9ft. Authentic Indian artisan craftsmanship.
+  Updated: 2026-06-26T16:42:48Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -1523,15 +1523,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8639.jpg?v=1771320093
   Price: ₹1,100.00 INR
-- [Royal Comfort 100% Cotton Bedsheet Set](https://mvbyugvigyana.in/products/royal-comfort-100-cotton-bedsheet-set): Premium 100% Cotton Printed Bedsheet Set – Welcome Comfort and Sophistication! Upgrade your bedroom with our luxurious 100% cotton printed bedsheet set, engineered to provide the ultimate comfort and elegance. This lavish set features a stunningly printed bedsheet and two coordinating pillow covers, made from superior quality cotton with a 180 thread count. Ideal for double beds, this bedsheet provides a soft and plush touch, ensuring your sleeping experience to be heavenly. Product Specifications: Material: 100% Cotton Bedsheet Dimensions: Width-108 inches, Length-90 inches Pillow Cover Size: 45 cm Width, 68 cm Length Thread Count: 180 TC – Provides a soft and comfortable feel Design: Beautiful printed designs that complement your bedroom interior Why Use This Bedsheet? ?? Soft and Luxurious: Rejoice in the luxurious texture of 100% cotton with high thread count, providing ultimate comfort. ?? Stylish and Elegant: Add style and elegance to your bedroom with gorgeous printed patterns that impart a peaceful and warm atmosphere. ?? Breathable and Lightweight: The light and airy cotton fabric is breathable and lightweight, providing a cozy sleeping experience. ?? Easy to Care For: Machine washable with ease and simple to maintain, convenient for daily use. Care Instructions: Wash in cold machine with like colors. Tumble dry on low heat. Iron on low heat if necessary. Do not use bleach to maintain the quality and color of the fabric. Enhance your bedroom with our luxurious 100% cotton printed bedsheet set and reap the optimal combination of comfort and style.
-  Updated: 2026-06-13T16:56:10Z
+- [Royal Comfort 100% Cotton Double Bedsheet Set | 180TC | 2 Pillow Covers | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/royal-comfort-100-cotton-bedsheet-set): Buy MVB Royal Comfort 100% pure cotton double bedsheet set — 180TC, 90x108 inch, 2 pillow covers. Soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-06-26T16:44:20Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DBS8642.jpg?v=1771262723
   Price: ₹1,100.00 INR
-- [Cotton Bliss Premium Bedsheet](https://mvbyugvigyana.in/products/cotton-bliss-premium-bedsheet): Premium 100% Cotton Bedsheet Set – Soft, Breathable & StylishElevate your bedroom with this opulent 100% pure cotton bedsheet set, made for the utmost comfort and style. Made from a premium 180 thread count, this bedsheet has a soft, silky feel without compromising on durability. Key Features: Material: 100% Pure Cotton – Soft, breathable, and skin-friendly for a comfortable sleep Bed Sheet Size: 108 inches (Width) x 90 inches (Length) – Ideal for a spacious, comfortable fit Pillow Cover Size: 45 cm (Width) x 68 cm (Length) – Suits your bedding set Thread Count: 180 TC – Provides long-lasting comfort and superior quality Stylish Printed Patterns: Gorgeous patterns that add to the aesthetic appeal of your bedroom Easy Maintenance: Machine washable, fade-resistant, and wrinkle-free for convenient maintenance Elevate your slumber with this quality cotton bed sheet set, which provides a wonderful combination of fashion, comfort, and longevity. Perfect for every season! Suitable for: Home, guest rooms, gifting, and daily luxury.
-  Updated: 2026-06-13T16:56:10Z
+- [Cotton Bliss Premium Double Bedsheet Set | 180TC Pure Cotton | 2 Pillow Covers | MVB YUGVIGYANA](https://mvbyugvigyana.in/products/cotton-bliss-premium-bedsheet): Buy MVB Cotton Bliss Premium double bedsheet set — 180TC pure cotton, 90x108 inch, 2 pillow covers. Soft, breathable & machine washable. Free shipping India.
+  Updated: 2026-06-26T16:44:36Z
   Vendor: MVB YUGVIGYANA
   Product Type: Fabrics
   Availability: Available
@@ -2927,7 +2927,35 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/DH208_1.jpg?v=1770798770
     Price: ₹1,199.00 INR
-[List Continued](https://mvbyugvigyana.in/a/llms-agent/llms.txt?shop=hzm1z2-e9.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAxMjYyNzU3OTI0NCwibGFzdF92YWx1ZSI6IjE1MDEyNjI3NTc5MjQ0In0%3D)
+- [Heritage Touch Paisley 150 GSM Pure Cotton Single Bed Dohar | Pink & Blue | Buy Online India | MVB Yugvigyana](https://mvbyugvigyana.in/products/heritage-touch-cotton-paisley-dohar-100-cotton-150-gsm): Buy Heritage Touch Paisley 150 GSM pure cotton single bed dohar online — pink & blue. Ethnic paisley print, lightweight AC dohar. Free delivery across India.
+  Updated: 2026-06-13T16:56:13Z
+  Vendor: MVB YUGVIGYANA
+  Product Type: Fabrics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Heritage-Touch-Cotton-Paisley-Dohar-100-Cotton-150-GSM-MVB-YUGVIGYANA-53434530759020.jpg?v=1772372176
+  - [Pink](https://mvbyugvigyana.in/products/heritage-touch-cotton-paisley-dohar-100-cotton-150-gsm?variant=53140482392428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Heritage-Touch-Cotton-Paisley-Dohar-100-Cotton-150-GSM-MVB-YUGVIGYANA-53434530759020.jpg?v=1772372176
+    Price: ₹1,199.00 INR
+  - [Blue](https://mvbyugvigyana.in/products/heritage-touch-cotton-paisley-dohar-100-cotton-150-gsm?variant=53140482425196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Heritage-Touch-Cotton-Paisley-Dohar-100-Cotton-150-GSM-MVB-YUGVIGYANA-53434530955628.jpg?v=1772372200
+    Price: ₹1,199.00 INR
+- [Everyday Comfort Motif 150 GSM Pure Cotton Single Bed Dohar | Peach & Blue | Buy Online India | MVB Yugvigyana](https://mvbyugvigyana.in/products/everyday-comfort-motif-cotton-dohar-peach-blue-tones): Buy Everyday Comfort Motif 150 GSM pure cotton single bed dohar online — peach & blue. Lightweight reversible AC dohar blanket. Free delivery across India.
+  Updated: 2026-06-13T16:56:12Z
+  Vendor: MVB YUGVIGYANA
+  Product Type: Fabrics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Everyday-Comfort-Motif-Cotton-Dohar-Peach-Blue-Tones-MVB-YUGVIGYANA-53434557890924.jpg?v=1772372116
+  - [Peach](https://mvbyugvigyana.in/products/everyday-comfort-motif-cotton-dohar-peach-blue-tones?variant=53140482457964)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Everyday-Comfort-Motif-Cotton-Dohar-Peach-Blue-Tones-MVB-YUGVIGYANA-53434557890924.jpg?v=1772372116
+    Price: ₹1,199.00 INR
+  - [Blue](https://mvbyugvigyana.in/products/everyday-comfort-motif-cotton-dohar-peach-blue-tones?variant=53140482490732)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Everyday-Comfort-Motif-Cotton-Dohar-Peach-Blue-Tones-MVB-YUGVIGYANA-53434558087532.jpg?v=1772372121
+    Price: ₹1,199.00 INR
+[List Continued](https://mvbyugvigyana.in/a/llms-agent/llms.txt?shop=hzm1z2-e9.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAxMjYyNzY0NDc4MCwibGFzdF92YWx1ZSI6IjE1MDEyNjI3NjQ0NzgwIn0%3D)
 
 ## Collections
 
@@ -2935,8 +2963,8 @@
   Updated: 2026-05-26T19:35:54Z
   Total Products: 0
 - [Hand Block Print Curtains & Indian Fabrics - Premium Artisan Collection | MVB YUGVIGYANA](https://mvbyugvigyana.in/collections/mvb-febrics): Discover authentic hand block printed curtains and premium Indian fabrics. 100% cotton, traditional Jaipuri designs, handcrafted by master artisans. Shop luxury home textiles.
-  Updated: 2026-06-19T17:16:03Z
-  Total Products: 83
+  Updated: 2026-06-30T18:06:09Z
+  Total Products: 112
 - [Buy Indian Handicrafts Online – Marble & Spiritual Decor – MVB Yugvigyana](https://mvbyugvigyana.in/collections/mvb-handicrafts): Shop handcrafted Indian handicrafts at MVB Yugvigyana. Marble Ganesh Ji, spiritual decor & gifting items. Made in India. Pan India & USA delivery!
   Updated: 2026-06-18T18:25:23Z
   Total Products: 17
@@ -2947,8 +2975,8 @@
   Updated: 2026-01-28T15:54:30Z
   Total Products: 0
 - [Pure Cotton Dream Bedsheets - Premium Quality | MVB YUGVIGYANA](https://mvbyugvigyana.in/collections/pure-cotton-dream-bedsheets): Shop luxurious 100% pure cotton dream bedsheets. Breathable, soft, and durable. Available in multiple sizes. Premium quality bedding from MVB YUGVIGYANA.
-  Updated: 2026-05-26T19:35:54Z
-  Total Products: 6
+  Updated: 2026-06-24T15:41:34Z
+  Total Products: 0
 - [Buy Ethnic Curtains Online India – Traditional Indian Designs – MVB Yugvigyana](https://mvbyugvigyana.in/collections/ethnic-curtains): Shop premium ethnic curtains at MVB Yugvigyana. Traditional Indian patterns, rich colors & quality fabric. Pan India delivery. Order now!
   Updated: 2026-05-26T19:35:54Z
   Total Products: 21
@@ -2971,11 +2999,11 @@
   Updated: 2026-05-26T19:35:55Z
   Total Products: 11
 - [Premium Cotton King Size Bedsheets India - MVB Yugvigyana](https://mvbyugvigyana.in/collections/premium-cotton-king-size-bedsheets): Shop luxury king size cotton bedsheets. 100% pure cotton, premium thread count, spa-grade quality. Handcrafted in India. Free shipping on orders ₹999+
-  Updated: 2026-06-18T18:24:02Z
-  Total Products: 70
+  Updated: 2026-06-30T18:06:09Z
+  Total Products: 79
 - [Buy Pure Cotton Double Bedsheets Online India – MVB Yugvigyana](https://mvbyugvigyana.in/collections/pure-cotton-double-bedsheets): Shop soft & breathable pure cotton double bedsheets at MVB Yugvigyana. Trendy designs, affordable prices. Pan India delivery. Order now!
-  Updated: 2026-06-18T16:14:10Z
-  Total Products: 84
+  Updated: 2026-06-28T14:44:34Z
+  Total Products: 85
 - [Buy Pure Cotton Queen Size Bedsheets Online India – MVB Yugvigyana](https://mvbyugvigyana.in/collections/pure-cotton-queen-size-bedsheets): Shop soft pure cotton queen size bedsheets at MVB Yugvigyana. Beautiful designs, durable fabric, affordable prices. Pan India delivery available!
   Updated: 2026-05-26T19:35:55Z
   Total Products: 0
@@ -2992,7 +3020,7 @@
   Updated: 2026-05-26T19:35:56Z
   Total Products: 14
 - [Pure Natural Attar & Chemical-Free Perfumes - MVB Yugvigyana](https://mvbyugvigyana.in/collections/attar-chemical-free-fragrances): Shop 100% natural, alcohol-free attars by MVB Yugvigyana. Rose, Oud, Sandalwood, Kesar & more. Chemical-free, skin-safe Indian perfumes.
-  Updated: 2026-05-30T09:21:38Z
+  Updated: 2026-06-20T07:57:03Z
   Total Products: 10
 - [Buy Premium Velvet Double Bed Blankets Online India – MVB Yugvigyana](https://mvbyugvigyana.in/collections/premium-velvet-double-bed-blanket): Shop premium velvet double bed blankets at MVB Yugvigyana. Ultra-soft, warm & luxurious. Perfect for winters & gifting. Pan India delivery!
   Updated: 2026-05-26T19:35:56Z
@@ -3007,14 +3035,14 @@
   Updated: 2026-05-26T19:35:56Z
   Total Products: 5
 - [MVB Yugvigyana Collection](https://mvbyugvigyana.in/collections/mvb-yugvigyana-collection): VISIT OUR STORE NOW: www.mvbyugvigyana.in WHATSAPP ORDERS & ENQUIRIES: 099993 82518 MVB YUGVIGYANA – NATURAL LUXURY FOR EVERY LIFESTYLE Experience the perfect blend of tradition, wellness, craftsmanship, and premium quality products from MVB YUGVIGYANA. EXPLORE OUR PREMIUM COLLECTIONS Premium Attars & Natural Fragrances • Rose Attar • Hina Attar • Sandal Attar • Kesar Chandan Attar • Oud Attar • Alcohol-Free & Long-Lasting Fragrances Aromatic Bliss Collection • Luxury Aroma Candles • Soya Wax Candles • Aromatherapy Candles • Premium Home Fragrance Solutions Essential Oils • Pure Natural Essential Oils • Aromatherapy & Wellness Products • Meditation & Relaxation Essentials Aroma Sticks, Incense & Holders • Premium Agarbatti • Incense Sticks • Dhoop & Fragrance Products • Spiritual & Wellness Aromas MVB Fabrics & Textiles • Premium Bedsheets • Comforters • Dohars • Quilts • Blankets • Hospitality Textiles • Hospital Textiles • Railway Textiles Handicrafts & Home Décor • Ethnic Cushion Covers • Designer Curtains • Traditional Handcrafted Décor • Artisan-Made Home Accessories Premium Dry Fruits & Natural Products • Healthy Lifestyle Essentials • Premium Quality Selections PERFECT FOR Daily Use Home Décor Gifting Corporate Orders Hotels & Hospitality Festivals & Celebrations Retail & Wholesale Buyers WHY CHOOSE MVB YUGVIGYANA? Premium Quality Products Made in India with Pride Natural & Authentic Ingredients Elegant Packaging Trusted Manufacturer Wholesale & Bulk Order Facility PAN India Delivery Competitive Retail & Wholesale Pricing Fast Dispatch & Customer Support From Fragrances to Fabrics, Handicrafts to Home Décor, Wellness to Lifestyle Products – Discover Everything You Need Under One Trusted Brand. ORDER DIRECT FROM MANUFACTURER SPECIAL BULK ORDER PRICING AVAILABLE FAST SHIPPING ACROSS INDIA Shop Online: www.mvbyugvigyana.in WhatsApp Orders & Support: 099993 82518 MVB YUGVIGYANA – Pure. Natural. Yours.
-  Updated: 2026-06-19T17:18:35Z
-  Total Products: 61
+  Updated: 2026-06-30T18:06:09Z
+  Total Products: 91
 - [Jaipuri Silk Hand Block Double Bedsheets – Premium Traditional | MVB Yugvigyana](https://mvbyugvigyana.in/collections/jaipuri-silk-hand-block-double-bedsheets): Shop authentic Jaipuri silk hand block printed double bedsheets. Traditional craftsmanship, premium quality. GST invoice included. Free shipping available.
-  Updated: 2026-06-15T17:29:59Z
-  Total Products: 1
+  Updated: 2026-06-24T15:41:34Z
+  Total Products: 7
 - [Poly Cotton Bedsheets Collection | Soft & Breathable 160TC - MVB YUGVIGYANA](https://mvbyugvigyana.in/collections/mvb-poly-cotton-bedsheet-collection): Shop MVB Poly Cotton Bedsheet Collection — 160TC, skin-friendly, fade-resistant prints. Double bed size with pillow covers. Premium quality at best price.
-  Updated: 2026-06-19T17:20:41Z
-  Total Products: 6
+  Updated: 2026-06-28T09:20:04Z
+  Total Products: 20
 
 ## Blogs
 
