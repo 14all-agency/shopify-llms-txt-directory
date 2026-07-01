@@ -34,7 +34,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
 - Contact Email: info@neobotanics.cz
 - Contact Phone: +420776187414
 - Address: Ocelářská 392/9, Praha 9
-- Updated At: 2026-06-24T00:00:44.033Z
+- Updated At: 2026-07-01T00:00:45.787Z
 
 ## Products
 
@@ -53,7 +53,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/products/Neo_products-17.jpg?v=1755796776
   Price: 300,00 Kč CZK
 - [Neobotanics CBD Anti-Edema Gel osvěžující emulzní gel pro masáž pokožky s otoky 100 ml](https://neobotanics.cz/products/cbd-anti-edema-gel-100ml): Výhodná cena za 100 ml. Okamžitě osvěžující emulzní gel pro pokožku s otoky, vhodný při lipedému, lymfedému i otocích nohou a rukou.
-  Updated: 2026-06-23T13:32:33Z
+  Updated: 2026-06-30T09:02:24Z
   Vendor: NEOBOTANICS
   Product Type: Health Care
   Availability: Available
@@ -67,7 +67,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
     Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/products/nb_anti-edema-pumpa_bg_71e30c47-6a99-4be9-b709-d961a85f7638.jpg?v=1773657042
     Price: 1 750,00 Kč CZK
 - [Neobotanics CBD Anti-Cellulite & Slimming Body Serum tělové sérum pro péči o pokožku se sklonem k celulitidě 100 ml](https://neobotanics.cz/products/cbd-anti-celulitida-serum-100ml): CBD Anti-Cellulite Slimming Body Gel s ISO-SLIM COMPLEX™ podporuje redukci celulitidy, zpevnění a elasticitu pokožky.
-  Updated: 2026-06-23T18:57:38Z
+  Updated: 2026-06-30T18:20:28Z
   Vendor: NEOBOTANICS
   Product Type: Health Care
   Availability: Available
@@ -81,14 +81,14 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
     Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/products/nb_anti-cellulite_bg_03bca7ed-63d5-4198-b1a5-5e87c2d6a96a.jpg?v=1773656944
     Price: 2 650,00 Kč CZK
 - [Neobotanics Polar Plankton Omega-3 Plus kapsle s olejem z antarktického krilu 60 kapslí](https://neobotanics.cz/products/omega-3-antarkticky-krill-60-kapsli): Doplněk stravy s krillovým olejem a astaxanthinem. 60 kapslí (50 g). Polar Plankton Omega-3 Plus je významným zdrojem omega-3 nenasycených mastných kyselin EPA (eikosapentaenová) a DHA (dokosahexaenová), které přispívají k normální činnosti srdce. Omega-3 mastné kyseliny jsou zde převážně vázány na fosfolipidy. Tato unikátní fosfolipidová struktura zajišťuje účinné využití mastných kyselin EPA a DHA a jejich cílenou distribuci přímo do příslušných tkání srdce, mozku, očí, kloubů atd. Cholin, který je přirozenou součástí oleje z Krillu, přispívá k normálnímu metabolismu lipidů a k udržení normální funkce jater. Jedna kapsle obsahuje vysokou dávku 590 mg čistého, za studena extrahovaného filtrovaného krillového oleje, který byl očištěn od nežádoucích mořských solí a triglyceridů za účelem získání EPA a DHA, které jsou pro organismus okamžitě biologicky dostupné a účinnější než EPA a DHA z rybího oleje. Malé tobolky z měkkého gelu jsou snadno polykatelné a bez rybího zápachu. Obsah ve 2 kapslích (doporučená denní dávka): POLAR PLANKTON OMEGA-3 PLUS obsahuje olej, který se získává z rychle rostoucího mořského planktonu, krunýřovky krillové (Euphausia superba) žijící v Antarktického oceánu. Olej z krunýřovky krillové přirozeně obsahuje také prospěšný cholin, fosfolipidy a astaxanthin. Kapsle NEOBOTANICS používají pouze krilový olej získaný pomocí technologie ECO Harvesting Technology. Tím je zajištěno, že na jedné straně jsou zachovány všechny cenné složky krillu, a na druhé straně metoda šetrného chytání účinně zabraňuje nežádoucím vedlejším úlovkům. Je samozřejmé, že jsou dodržovány přísně omezené rybolovné kvóty krillu. MSC certifikace. Krunýřovka krillová je druhem planktonu hojně se vyskytující v oceánech kolem Antarktidy. Živí se mořskými řasami, které produkují omega-3 mastné kyseliny. Ty se pak v jejich tělech akumulují a jsou následně extrahovány ve formě oleje. Řasy jsou také přirozeným zdrojem astaxanthinu, který propůjčuje oleji jeho typickou červenou barvu. Vzhledem k tomu, že Antarktický krill roste velmi rychle, stojí na samotném dně potravního řetězce a vyskytuje se pouze ve vodách Antarktidy, není v takové míře vystaven ohrožen zvýšenou koncentrací nahromaděných kontaminantů jako ryby, z nichž se produkuje rybí olej. Dle provedených klinických studií* je efektivní užívat omega-3 mastné kyseliny ve formě fosfolipidů. Díky tomu jsou kapsle s olejem z krillu menší než většina kapslí s rybím olejem a zvyšují tak komfort při užívání. Další výhodou je rozpustnost fosfolipidů ve vodě, která tak pomáhá zmírňovat reflux a nepříjemné žaludeční pocity při užívání velkých kapslí. Astaxanthin, který se přirozeně vyskytuje v krillovém oleji, pomáhá udržet dlouhodobou stabilitu omega-3 mastných kyselin. *Int. J. Mol. Sci. 2012, 13, 15401-15419. Marine Omega-3 Phospholipids: Metabolism and Biological Activities. Proč jsou omega-3 nenasycené mastné kyseliny tak důležité? Dozvíte se v článku na našem blogu: Krilový olej a jeho fosfolipidy: klíč k zdravému srdci Co vše může krilový olej pozitivně ovlivnit? Více ve článku: Krilový olej jako zdroj mořských Omega-3. Proč by vás měl zajímat?
-  Updated: 2026-06-23T13:32:36Z
+  Updated: 2026-06-24T07:02:28Z
   Vendor: NEOBOTANICS
   Product Type: Doplněk stravy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_Polar-plankton-omega-3.webp?v=1780038024
   Price: 690,00 Kč CZK
 - [Pure chlorella bio](https://neobotanics.cz/products/premium-pure-chlorella-bio): Sladkovodní mikrořasa chlorella patří mezi tzv. "zelené superpotraviny", tedy potraviny zelené barvy s výbornými nutričními vlastnostmi. ÚČINKY: Podporuje čistící funkci jater. Přispívá ke správné funkci imunitního systému, podporuje trávení a metabolismus. ZPRACOVÁNÍ: Chlorella má velmi pevné buněčné stěny, které jsou pro lidský trávicí systém téměř nestravitelné. Abychom mohli plně využít její nutriční bohatství, musí být tyto stěny mechanicky nebo enzymaticky narušeny. Tento proces zajišťuje, že všechny cenné látky obsažené v chlorelle jsou pro tělo snadno dostupné. Při výběru chlorelly proto vždy dbejte na kvalitu a zpracování. Chlorella s narušenými buněčnými stěnami jsou zárukou, že vaše tělo získá maximum benefitů z této jedinečné mikrořasy. Pokud tedy chcete naplno využít chlorella účinky, volte produkty s ověřeným způsobem zpracování. NEOBOTANICS PURE CHLORELLA BIO je 100% sladkovodní mikrořasa Chlorella vulgaris s narušenou buněčnou stěnou pro zvýšení biologické účinnosti a stravitelnosti. Je to vysoce kvalitní řasa kultivovaná podle přísných podmínek pěstování BIO potravin. BIO produkty nemají přidaná barviva, aromata, konzervanty ani jiné přidané chemické látky. CZ-BIO-ABCERT-02 Chcete se dozvědět o detoxikaci ještě více? Více ve článcích na našem BLOGU: PŘÍRODNÍ DETOXIKACE ORGANISMU? VAŠE TĚLO VÁM PODĚKUJEDetoxikace pomáhá tělu zbavit se toxinů a podporuje zdraví i vitalitu. Zjistěte, jak přirozeně podpořit detoxikační procesy. CHLORELLA A JEJÍ ÚČINKY: DETOXIKACE, IMUNITA A VITALITA Přírodní elixír pro detoxikaci a podporu imunity
-  Updated: 2026-05-26T07:11:27Z
+  Updated: 2026-06-29T10:02:26Z
   Vendor: NEOBOTANICS
   Product Type: 
   Availability: Available
@@ -109,7 +109,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/products/Neo_products-24.jpg?v=1755796770
   Price: 470,00 Kč CZK
 - [Neobotanics Anti-Varix Leg Gel  pro osvěžení a masáž těžkých a unavených nohou 100 ml](https://neobotanics.cz/products/anti-varix-leg-gel-100ml): Osvěžující gel-krém na těžké a unavené nohy s otoky a křečovými žilami. Kombinuje kanabidiol (CBD) v nano-formě.
-  Updated: 2026-06-23T13:32:32Z
+  Updated: 2026-06-29T10:02:31Z
   Vendor: NEOBOTANICS
   Product Type: Health Care
   Availability: Available
@@ -165,7 +165,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_Virgin-Forte.webp?v=1779978939
   Price: 1 190,00 Kč CZK
 - [Neobotanics SuperDetox & Liver Support doplněk stravy s bylinami a vitaminy 60 kapslí](https://neobotanics.cz/products/superdetox-liver-support-60-kapsli): Doplněk stravy, 60 kapslí (33,9 g). Podpora při procesu detoxikace organismu. Na bázi astaxantinu a rostlinných extraktů z brokolice, ostropestřce, artyčoku, kopřivy a pampelišky. OBSAŽENÉ BYLINY: Ostropestřec je antioxidant. Podporuje pročištění a funkci jater. Artyčok podporuje pročištění a funkci jater. Kopřiva podporuje vylučování vody a normální činnost ledvin. Smetánka přispívá k normální činnosti žaludku a jater. Brokolice Astaxantin Zajímá Vás, jak funguje detoxikace organismu a jak ji v těle podpořit? Detoxikace organismu představuje komplexní soubor přirozených procesů, při kterém tělo odstraňuje škodlivé látky, metabolity a toxiny z tělesných tkání, a to zejména prostřednictvím specializovaných orgánů, mezi které patří játra, ledviny, střeva, plíce a kůže. Játra přitom hrají klíčovou roli, protože se podílejí na biotransformaci a eliminaci toxinů. Více v našem článku na blogu: Přírodní detoxikace organismu? Vaše tělo vám poděkuje Fytoterapie pomáhá detoxikaci a podpoře lymfatického systému. Objevte byliny jako ploštičník, kopřiva či pampeliška pro zdraví těla! Čtěte více ve článku na našem blogu Fytoterapie a byliny: Klíč k podpoře lymfatického systému a detoxikace
-  Updated: 2026-06-09T12:02:26Z
+  Updated: 2026-06-30T15:17:48Z
   Vendor: NEOBOTANICS
   Product Type: Doplněk stravy
   Availability: Available
@@ -179,7 +179,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/products/nb_neolipo-noox_bg_a.jpg?v=1755796755
   Price: 690,00 Kč CZK
 - [Neobotanics Novarix doplněk stravy s bioflavonoidy 60 kapslí](https://neobotanics.cz/products/novarix-bioflavonoidy-60-kapsli): Doplněk stravy na bázi rostlinných extraktů, vitamínů a komplexu bioflavonoidů.60 kapslí (26,6 g). OBSAŽENÉ BYLINY A ROSTLINY: Jírovec maďal: pro podporu normální činnosti cévní a oběhové soustavy a při pocitu těžkých nohou. Ginkgo biloba: přispívá k podpoře mikrocirkulace krevního systému. Vitamin C: přispívá k normální tvorbě kolagenu pro normální funkci krevních cév přispívá k normální funkci imunitního systému podílí se na ochraně buněk před oxidativním stresem přispívá k normálnímu energetickému metabolismu Niacin: Přispívá k normálnímu stavu sliznic Přispívá k normálnímu stavu pokožky Vitamin B12: přispívá k normálnímu stavu sliznic přispívá k normálnímu stavu pokožky podílí se na správném metabolismus homocysteinu podporuje správnou funkci imunitního systému podílí se na procesu dělení buněk NOVARIX doplněk stravy doporučujeme kombinovat s přípravkem Anti-Varix leg gel pro efektivní působení zevnitř i z vnějšku.
-  Updated: 2026-06-16T19:54:25Z
+  Updated: 2026-06-29T08:02:23Z
   Vendor: NEOBOTANICS
   Product Type: Doplněk stravy
   Availability: Available
@@ -207,7 +207,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_Neocellium.webp?v=1779977451
   Price: 780,00 Kč CZK
 - [Neobotanics Arthro-8 complex forte doplněk stravy pro kloubní výživu s kolagenem NATICOL 60 kapslí](https://neobotanics.cz/products/arthro-pro-komplex-forte-na-kosti-a-klouby-doplnek-stravy): ARTHRO-8 COMPLEX FORTE - doplněk stravy pro kloubní výživu. 60 kapslí. Bosvélie s kurkum pomáhají udržovat normální stav kostí a kloubů. Šípek pomáhá proti pocitu těžkých nohou. Vitamin C přispívá k normální tvorbě kolagenu pro normální funkci chrupavek. Mangan přispívá k normální tvorbě pojivových tkání a normálnímu stavu kostí. MSM / boswellia / kurkuma / kolagenní peptidy / šípek / mangan / vitamín C Kurkuma nabízí k : normálnímu stavu kostí, kloubů a pokožky normální činnosti kardiovaskulárního systému a krevního oběhu kurkumin získaný z pryskyřice kurkumy je antioxidant Bosvélie nabízí k : normálnímu stavu kostí a kloubů normální funkce střevního traktu normální činnosti srdce a hladiny cholesterolu v krvi normální funkci dýchacího systému Růže šípková: je antioxidant pomáhá proti pocitu těžkých nohou podporuje přirozenou obranyschopnost - imunitní systém podporuje normální funkce dýchacího systému podporuje normální činnost močového měchýře a ledvin NATICOL: prémiové kolagenní peptidy z mořských ryb Metylsulfonylmetan (MSM) - přírozený zdroj síry Vitamín C nabízí k: příspěvek k normální tvorbě kolagenu pro normální funkci chrupavek normální funkce imunitního systému snížení míry únavy a vyčerpání buněk před oxidativním stresem normální psychická činnost normální činnosti nervové soustavy normálnímu energetickému metabolismu Mangan nabízí k : normální tvorbě pojivových tkání udržení normálního stavu kostí buněk před oxidativním stresem normálnímu energetickému metabolismu
-  Updated: 2026-06-16T08:02:23Z
+  Updated: 2026-06-29T10:02:29Z
   Vendor: NEOBOTANICS
   Product Type: Doplněk stravy
   Availability: Available
@@ -221,7 +221,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/products/nb_flavoderm_bg.jpg?v=1755796748
   Price: 490,00 Kč CZK
 - [Neobotanics Anti-Edema Roll-On sérum pro rychlé osvěžení pokožky s otoky 50 ml](https://neobotanics.cz/products/cbd-anti-edema-roll-on-50ml): osvěžující emulzní gel pro péči o pokožku s otoky, vhodný při lipedému, lymfedému i otocích nohou a rukou.
-  Updated: 2026-06-23T13:32:36Z
+  Updated: 2026-06-30T18:42:26Z
   Vendor: NEOBOTANICS
   Product Type: Health Care
   Availability: Available
@@ -235,7 +235,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_Adaptogen-X9.webp?v=1779977324
   Price: 590,00 Kč CZK
 - [Neobotanics CBD Hot Skin Gel hřejivý gel s hřebíčkem a eukalyptem 100 ml](https://neobotanics.cz/products/cbd-hot-hrejivy-gel-100ml): NEOBOTANICS  CBD HOT SKIN GEL. Prohřívající emulzní gel s protizánětlivým NANO-CBD - kanabidiolem. Vysoce účinný. Obsahuje hřebíčkový olej, mentol, konopný oleje a esenciální olej z eukalyptu. Pro rychlou úlevu při ztuhlosti a bolesti svalů a kloubů. Efektivní při bolavých a namožených svalech, odstraňuje pocit únavy po námaze.
-  Updated: 2026-06-16T07:32:31Z
+  Updated: 2026-06-29T07:17:32Z
   Vendor: NEOBOTANICS
   Product Type: Health Care
   Availability: Available
@@ -253,7 +253,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
     Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_cbd-hot-skin-gel_bg_e8a72b0d-0df5-413c-955c-c36a4dcd0761.jpg?v=1773651994
     Price: 1 750,00 Kč CZK
 - [Neobotanics CBD Ice Skin Gel chladivý gel s mentholem a eukalyptem 100 ml](https://neobotanics.cz/products/cbd-ice-chladivy-gel-100ml): Nano CBD Ice Skin Gel od Neobotanics nabízí osvěžující péči při ztuhlosti a bolesti svalů. Obsahuje protizánětlivé nano-CBD, mentol.
-  Updated: 2026-06-18T08:32:27Z
+  Updated: 2026-06-26T11:32:27Z
   Vendor: NEOBOTANICS
   Product Type: 
   Availability: Available
@@ -273,7 +273,7 @@ Doc. Ing. Petr Kaštánek, Ph.D. je:
 - [Neobotanics Skin Perfector #1 pleťové sérum s kosatci a peptidy pro aknozní a problematickou plet 30 ml](https://neobotanics.cz/products/skin-perfector-kosatec-peptidy-30ml): IRIS & 20% NIACINAMIDE AMPOULE SERUM, 30 ml
 
 Bioaktivní vysoce koncentrované sérum s výtažky z kosatce a propolisu s niacinamidem a bioaktivními peptidy pro obnovu pleti se širokými anti-akné a anti-aging účinky. Díky své jedinečné formulaci přináší komplexní řešení pro problematickou pleť s rozšířenými póry, akné, ztrátou jasu a elasticity, drobnými vráskami a nevyrovnaným tónem pleti (hyperpigmentace).
-  Updated: 2026-06-17T01:18:51Z
+  Updated: 2026-06-26T10:02:29Z
   Vendor: NEOBOTANICS
   Product Type: pleťové sérum
   Availability: Available
@@ -308,7 +308,7 @@ Bioaktivní vysoce koncentrované sérum s výtažky z kosatce a propolisu s nia
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_Lipozomalni-vitamin-c-plus.webp?v=1779979543
   Price: 690,00 Kč CZK
 - [Neobotanics Flavo-Lymf bylinná tinktura z 14 rostlin 50 ml](https://neobotanics.cz/products/flavo-lymf-bylinna-tinktura-50ml): Tinktura s extrakty ze 14 tradičních českých bylin bohatých na flavonoidy. Doplněk stravy, 50 ml. Bez etanolu. Flavo-lymf tinktura je moderní forma „glyceritu“, tj. tinktury, která se vyrábí bez etanolu (alkoholu) a k výrobě extraktu se používá glycerin. Díky tomu má přípravek příjemně nasládlou chuť a bylinné aroma, připomínající vůni sirupů našich babiček, ale bez použití cukru. Proto je možné přípravek užívat přímo neředěný na lžičce nebo jej nakapat do sklenice vody, ovocné šťávy či čaje - viz doporučené dávkování. Lymfatický systém a cévní soustava. Ploštičník podporuje činnost lymfatického systému, jehlice, tužebník a řebříček pro normální funkce močových cest a ledvin, lopuch pro pročištění krve, listnatec a borůvka pro normální činnost cévní soustavy, kopřiva pro vylučování vody z organismu, pampeliška smetánka květ pro detoxikaci, svízel pro normální činnost jater a žlučových cest. OBSAŽENÉ BYLINY: Ploštičník – normální činnost lymfatického systému Jehlice - normální funkce močových cest a ledvin, vylučování Listnatec – normální činnost cévní soustavy Kopřiva – normální činnost cévní soustavy, normální činnost ledvin a vylučování vody z organismu Borůvka – normální činnost cévní soustavy, antioxidant Pampeliška smetánka – normální funkce močové soustavy, detoxikace u květu Svízel – normální činnost jater a žlučových cest Tužebník - normální funkce močových cest a ledvin, vylučování vody z organismu Řebříček - normální funkce močových cest a ledvin Benedikt - normální trávení Lopuch – pročištění krve, vylučování vody z organismu Divizna – normální činnost močového měchýře a ledvin Kosatec – podpora dýchacího systému Upozornění: Flavo-lymf tinktura je doplněk stravy, nejedná se o náhradu léčby. Bylinné tinktury a rostlinné extrakty mohou obsahovat látky, které ovlivňují účinnost léků a imunitní systém. Důvodem je, že některé byliny mohou ovlivňovat metabolismus léků v játrech (např. přes enzymy CYP450), jiné mohou mít imunomodulační účinky.Proto je při současném užívání jakýchkoliv léků vždy nutná předchozí konzultace s ošetřujícím lékařem. Zajímá Vás, jak funguje lymfatický systém a jak jeho funkci v těle podpořit? Lymfatický systém je jedním z nejdůležitějších, a přesto často přehlížených systémů našeho těla. Jeho správná funkce je nezbytná pro zdraví, detoxikaci organismu a celkovou rovnováhu. Více se dozvíte v BLOG článku: "Čistota těla začíná uvnitř: Jak podpořit správnou funkci lymfatického systému" Objevte byliny jako ploštičník, kopřiva či pampeliška a jejich účinky! Více se dozvíte v BLOG článku: Fytoterapie a byliny: Klíč k podpoře lymfatického systému a detoxikace
-  Updated: 2026-06-23T18:57:38Z
+  Updated: 2026-06-30T18:42:25Z
   Vendor: NEOBOTANICS
   Product Type: Doplněk stravy
   Availability: Available
@@ -322,7 +322,7 @@ Bioaktivní vysoce koncentrované sérum s výtažky z kosatce a propolisu s nia
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_Menzes-comfort.webp?v=1779976127
   Price: 590,00 Kč CZK
 - [Neobotanics Premium Marine Collagen + 17 Essences mořský kolagen s lipozomálním vitaminem C 214 g](https://neobotanics.cz/products/morsky-kolagen-17-esenci-214g): Instantní směs pro přípravu nápoje s přírodní pomerančovo-ananasovou příchutí 214g / 31 dávek, doplněk stravy Doplněk stravy na bázi patentovaných mořských kolagenních peptidů NATICOL™– 5000 mg, NeoLipoTM C - lipozomálního vitaminu C, MSM, kyseliny hyaluronové, 5 rostlinných extraktů, 8 vitaminů skupiny B a zinku. Kolagen je jednou z nejdůležitějších bílkovin v lidském těle: dodává našim tkáním strukturu, pevnost a pružnost. Postupem času se ale množství kolagenu v organismu přirozeně snižuje, což může vést ke ztrátě elasticity pleti, vzniku vrásek či nepohodlí v kloubech. Mořské kolagenové peptidy NATICOL® představují snadný způsob, jak tělu dodávat kvalitní kolagen z rybích zdrojů a podpořit tak přirozenou regeneraci a zdravé stárnutí. Naticol® – mořské kolagenové peptidy pro krásu a vitalitu Naticol® jsou prémiové bioaktivní mořské kolagenní peptidy, primárně z kolagenu typu I, získávaného z rybích kůží. Díky šetrné enzymatické hydrolýze mají peptidy nízkou molekulovou hmotnost a vynikající vstřebatelnost, což podporuje zdravý vzhled pokožky, vlasů, nehtů a správnou funkci kloubů. Naticol® splňuje přísné požadavky na kvalitu a pochází z udržitelných zdrojů – použitím rybích kůží pomáhá minimalizovat odpad a podporuje cirkulární ekonomiku. Jeho přínosy potvrzují klinické studie a spolupráce s předními výzkumnými institucemi. S Naticol® tak získáte čistý a ověřený mořský kolagen, který přirozeně přispívá k udržení svěžího vzhledu, zdravé kondice a aktivního životního stylu. Další synergické bioaktivní látky: Přeslička podporuje normální stav kloubů a napomáhá udržet normální stav pokožky, vlasů a nehtů. Bambus podporuje normální stav kostí a kloubů. Šípková růže je antioxidant a kopřiva přispívá k normálnímu stavu kloubů. Vitamin C přispívá k normální tvorbě kolagenu pro normální funkci kůže a chrupavek. Biotin přispívá k udržení normálního stavu pokožky a vlasů Zinek přispívá k udržení normálního stavu pokožky, napomáhá normální funkci imunitního systému a k ochraně buněk před oxidativním stresem. Vědecké poznatky o účinnosti Mořské kolagenové peptidy Naticol® byly podrobeny celé řadě vědeckých a klinických studií, které potvrzují jejich pozitivní vliv na zdraví, pohodu i krásu. Díky svým unikátním vlastnostem a vysoké bioaktivitě je Naticol® ideálním řešením pro každodenní podporu vitality, od nutriční kosmetiky (tzv. nutricosmetics) přes zdravé stárnutí až po sportovní výživu. Ověření účinků probíhalo ve spolupráce s předními výzkumnými ústavy, klinikami a univerzitami, např. INSERM, Toulouse Gerontopole, Paul Sabatier University of Toulouse, CRITT Bio-industries, CPCAD/University Hospital Center of Nice, INSA Toulouse, RESTORE Laboratory či IMT Mines Albi-Carmaux School. Výsledky těchto studií ukazují pozitivní dopady Naticol® zejména v následujících oblastech: Nutrikosmetika: Podpora pevnosti pleti, hydratace a mladistvého vzhledu. Zdravé stárnutí: Přirozená péče o tělo a kůži při postupném poklesu kolagenu způsobeném věkem. Komfort kloubů: Pomoc při udržování normálního stavu kloubů a pojivových tkání. Sportovní výživa: Podpora regenerace svalů a vazů po fyzické zátěži. Pohodlí trávicího traktu: Příznivý vliv na střevní mikroflóru a rovnováhu trávicího systému. Prvotřídní kvalita a odpovědný přístup k přírodě Při výrobě mořských kolagenových peptidů Naticol® je kladen velký důraz na kvalitu a současně na trvale udržitelný přístup k životnímu prostředí. Kolagen Naticol® pochází z vedlejších rybích produktů ze zpracování ryb (filetování). Rybí kůže nepocházejí zranitelných či ohrožených druhů ryb. Každý krok produkce je dohledatelný, v celém řetězci od ryb až k zákazníkovi. Naticol® disponuje prestižním certifikátem Friend of the Sea®, který potvrzuje dodržování přísných kritérií udržitelnosti a ochrany mořských ekosystémů. Používáním rybích kůží, které by jinak byly odpadem, se efektivně zužitkovávají dostupné zdroje a snižuje se celkový dopad na životní prostředí. Friend of the Sea® (FOS) je projektem společnosti Světové organizace pro udržitelný rozvoj (WSO), která je mezinárodní nevládní organizace, jejímž posláním je podporovat ochranu životního prostředí. Vybrané publikované studie Duteil L, a kol. (2018), JOJCS 6(4): 555692 Duteil L, a kol. (2016), J Aging Res Clin Practice, 5(2): 84–92 Lacey S, a kol. (2019), JOJCS.MS.ID.555783 Tyree S. M, a kol. (2021), JOJCS.MS.ID.555850 Astre G, a kol. (2018), Journal of Physiology and Biochemistry, 74(4): 647–654 Rahabi M, a kol. (2022), European Journal of Nutrition, 61(4): 2051–2066 Chcete-li se o kolagenu dozvědět více, více na našem BLOGU: Typy kolagenu I, II, III: Co na klouby a co pro pokožku? Mýty a realita Kolagenní peptidy: Váš tajný tip při celulitidě Kolagen pro krásnou pokožku: NATICOL peptidy, které opravdu fungují
-  Updated: 2026-06-23T18:33:47Z
+  Updated: 2026-06-26T09:02:30Z
   Vendor: NEOBOTANICS
   Product Type: Doplněk stravy
   Availability: Available
@@ -337,7 +337,7 @@ Bioaktivní vysoce koncentrované sérum s výtažky z kosatce a propolisu s nia
   Price: 450,00 Kč CZK
 - [Neobotanics Anti-Wrinkle Skin Rejuvenator #1 sérum proti vráskám s peptidy, kmenovými buňkami a kyselinou hyaluronovou 30 ml](https://neobotanics.cz/products/anti-wrinkle-serum-peptidy-30ml): Polypeptide & Stem Cell Liposomal Serum
 .Vysoce koncentrované lipozomální sérum s unikátním „dellivery systémem“ peptidů, výtažky z kmenových buněk, kyselinou hyaluronovou s velmi malou velikostí molekul a rostlinnými antioxidanty z pupečníku, koulenky, gardénie a janiby pro velmi rychlý a silný účinek proti vráskám.
-  Updated: 2026-06-23T22:15:12Z
+  Updated: 2026-06-30T13:32:38Z
   Vendor: NEOBOTANICS
   Product Type: pleťové sérum
   Availability: Available
@@ -351,7 +351,7 @@ Bioaktivní vysoce koncentrované sérum s výtažky z kosatce a propolisu s nia
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_instant-beauty_doza_krabicka.jpg?v=1771851622
   Price: 2 590,00 Kč CZK
 - [Neobotanics Youth Booster #2 olejové sérum s peptidem Argireline a bakuchiolem 30 ml](https://neobotanics.cz/products/youth-booster-argireline-bakuchiol-30ml): Omlazující zklidňující Anti-Age olejové sérum s bakuchiolem, peptidem Argirelin™ YOUth, výtažkem z magnolie, sqalanem a vzácnými oleji pro bleskovou redukci mimických vrásek, komplexní anti-age omlazující účinek a preventivní řešení pro zpomalení projevů stárnutí. Efektivně redukuje vrásky, hyperpigmentaci (tzv. melasma), zpevňuje, hydratuje a zlepšuje vzhled pleti poškozené v důsledku procesů stárnutí, slunečního záření, akné a vlivu znečištěného životního prostředí.
-  Updated: 2026-06-23T13:32:37Z
+  Updated: 2026-06-30T12:02:26Z
   Vendor: NEOBOTANICS
   Product Type: pleťové sérum
   Availability: Available
@@ -402,28 +402,28 @@ Bioaktivní vysoce koncentrované sérum s výtažky z kosatce a propolisu s nia
 - [Neobotanics Discovery Set Skin Serum sada pleťových sér 4×4,5 ml](https://neobotanics.cz/products/discovery-set-sera-4x4-5-ml): Naprostá revoluce v péči o pleť!
 Poznejte inovativní řadu Beauty od značky Neobotanics pro dokonalou pleť. Čtyři unikátní séra jsou podložená výzkumem přírodních bioaktivních látek. Objevte sílu spojení vědy a přírody a proměňte svou pleť k dokonalosti.
 V řadě se nachází dvě vodná séra, označená #1 a dvě olejová, která lze kombinovat a společně řeší většinu problémů, se kterými se můžeme setkat.
-  Updated: 2026-06-23T12:21:46Z
+  Updated: 2026-06-29T05:32:32Z
   Vendor: NEOBOTANICS
   Product Type: pleťové sérum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/DiscoverBox_box_bottles_002_562cf069-a7a1-4f56-be60-8a8d1b5b2747.png?v=1780993891
   Price: 1 490,00 Kč CZK
 - [Neobotanics Slim Beauty Night Essence noční doplněk stravy 60 kapslí](https://neobotanics.cz/products/slim-beauty-night-essence-60-kapsli): Doplněk stravy na bázi rostlinných extraktů, vitaminů a chromu, 60 kapslí, (34 g). Kaktus opuntia napomáhá metabolismu tuků a glukózy, šácholan pro normální funkci střevního traktu, gymnema, fazol obecný a chrom pro udržení normální hladiny glukózy v krvi. Kapsle SLIM BEAUTY NIGHT ESSENCE se užívají denně ve večerních hodinách, podrobněji viz v části "Použití". Ideální v kombinaci s kapslemi SLIM BEAUTY DAY ESSENCE, které se užívají ráno nebo v dopoledních hodinách. Dlouhodobé užívání: Denní dávka jsou 2 kapsle denně večer či před posledním jídlem. Kapsle je vhodné užívat před jídlem nebo během jídla, aby se zvýšila vstřebatelnost účinných látek. Kapsle vždy zapít dostatečným množstvím vody. Doporučujeme zpočátku dlouhodobější pravidelné užívání, Rychlost nástupu účinků i působení fytopreparátů je individuální u každého jedince, obecně se dají účinky očekávat v rozmezí cca 3-5 týdnů. Aby byly bylinné preparáty co nejúčinnější, je důležité je užívat pravidelně a konzistentně, doporučujeme proto začít pravidelným užíváním po dobu cca 2-3 měsíců. Celulózové veganské kapsle obsahují pouze směs účinných složek, bez plnidel i jiných přídatných látek. NEOBOTANICS garantuje špičkovou kvalitu produktu důslednou kontrolou celého výrobního procesu. NEOBOTANICS produkty využívají suroviny od pečlivě vybraných pěstitelů a dodavatelů.
-  Updated: 2026-06-15T12:02:24Z
+  Updated: 2026-06-30T15:10:41Z
   Vendor: NEOBOTANICS.cz
   Product Type: Doplněk stravy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_slim-beauty-night-eessence.webp?v=1779975118
   Price: 890,00 Kč CZK
 - [Neobotanics Slim Beauty Day Essence denní doplněk stravy 60 kapslí](https://neobotanics.cz/products/slim-beauty-day-essence-60-kapsli): Doplněk stravy na bázi extraktů z rostlin, řas, vitaminů a chromu, 60 kapslí (34,5 g). Réva vinná, bez černý a Yerba maté – přispívá ke kontrole tělesné hmotnosti, rozchodnice pro výkon a emoční komfort, chlorella pro pročištění těla a fazol obecný a chrom pro udržení normální hladiny glukózy v krvi. Kapsle SLIM BEAUTY DAY ESSENCE se užívají denně ráno nebo v dopoledních hodinách. Ideální v kombinaci s kapslemi SLIM BEAUTY NIGHT ESSENCE, které se užívají večer. Dlouhodobé užívání: Denní dávka jsou 2 kapsle ráno nebo v dopoledních hodinách. Nekonzumujte nalačno. Kapsle je vhodné užívat během jídla, popř. po jídle, aby se zvýšila vstřebatelnost účinných látek. Kapsle vždy zapít dostatečným množstvím vody. Doporučujeme zpočátku dlouhodobější pravidelné užívání. Rychlost nástupu účinků i působení fytopreparátů je individuální u každého jedince, obecně se dají účinky očekávat v rozmezí cca 3-5 týdnů. Aby byly bylinné preparáty co nejúčinnější, je důležité je užívat pravidelně a konzistentně, doporučujeme proto začít pravidelným užíváním po dobu cca 2-3 měsíců. V případě, že příznaky neustupují, je vhodné se poradit se svým lékařem. Celulózové veganské kapsle obsahují pouze směs účinných složek, bez plnidel i jiných přídatných látek. NEOBOTANICS garantuje špičkovou kvalitu produktu důslednou kontrolou celého výrobního procesu. NEOBOTANICS produkty využívají suroviny od pečlivě vybraných pěstitelů a dodavatelů.
-  Updated: 2026-06-15T12:02:27Z
+  Updated: 2026-06-30T15:10:41Z
   Vendor: NEOBOTANICS.cz
   Product Type: Doplněk stravy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_slim-beauty-day-essence.webp?v=1779975266
   Price: 890,00 Kč CZK
 - [Neobotanics Anti-Cellulite Beauty Essence doplněk stravy s extrakty zeleného čaje 60 kapslí](https://neobotanics.cz/products/anti-celulitida-beauty-essence-60-kapsli): Doplněk stravy na bázi rostlinných extraktů, koenzymu Q10, resveratrolu, astaxanthinu a vitaminů. 60 kapslí (33,7 g). Réva vinná přispívá ke kontrole tělesné hmotnosti a s čajem maté se zaměřuje na hlavní příčiny pomerančové kůže. Zelený čaj je antioxidant, vitamin C přispívá k normální tvorbě kolagenu. Dlouhodobé užívání: Denní dávka jsou 2 kapsle (1 kapsle - 2x denně). Kapsle nekonzumujte nalačno, je vhodné je užívat během jídla, popř. po jídle, aby se zvýšila vstřebatelnost účinných látek. Kapsle vždy zapít dostatečným množstvím vody. Doporučujeme zpočátku dlouhodobější pravidelné užívání, 1 kapsle 2x denně, ideálně ráno a večer, popř. s odstupem min 5-6 hodin. Rychlost nástupu účinků i působení fytopreparátů je individuální u každého jedince, obecně se dají účinky očekávat v rozmezí cca 3-5 týdnů. Aby byly bylinné preparáty co nejúčinnější, je důležité je užívat pravidelně a konzistentně, doporučujeme proto začít pravidelným užíváním po dobu cca 2-3 měsíců. V případě, že příznaky neustupují, je vhodné se poradit se svým lékařem. Celulózové veganské kapsle obsahují pouze směs účinných složek, bez plnidel i jiných přídatných látek. NEOBOTANICS garantuje špičkovou kvalitu produktu důslednou kontrolou celého výrobního procesu. NEOBOTANICS produkty využívají suroviny od pečlivě vybraných pěstitelů a dodavatelů.
-  Updated: 2026-06-10T07:48:06Z
+  Updated: 2026-06-25T12:02:30Z
   Vendor: NEOBOTANICS.cz
   Product Type: Doplněk stravy
   Availability: Available
@@ -465,7 +465,7 @@ V řadě se nachází dvě vodná séra, označená #1 a dvě olejová, která l
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_Hyaluron-4.webp?v=1779975737
   Price: 1 490,00 Kč CZK
 - [Neobotanics Beauty Marine Collagen + 22 Essences kolagenový nápoj s lipozomálním vitaminem C 267 g](https://neobotanics.cz/products/morsky-kolagen-22-esenci-267g): Doplněk stravy na bázi patentovaných kolagenních peptidů z mořských ryb NATICOL, NeoLipo C - lipozomálního vitaminu C, MSM, kyseliny hyaluronové, 6 rostlinných extraktů, 8 vitaminů skupiny B, zinku, manganu, rozpustné vlákniny Inulin a lyofilizovaných ovocných šťáv. Přeslička podporuje normální stav kloubů a napomáhá udržet normální stav pokožky, vlasů a nehtů. Bambus podporuje normální stav kostí a kloubů. Šípková růže a bez černý jsou antioxidanty a kopřiva přispívá k normálnímu stavu kloubů. Vitamin C přispívá k normální tvorbě kolagenu pro normální funkci kůže a chrupavek. Biotin přispívá k udržení normálního stavu pokožky a vlasů. Zinek přispívá k udržení normálního stavu pokožky, napomáhá normální funkci imunitního systému a k ochraně buněk před oxidativním stresem. Mangan přispívá k normální tvorbě pojivových tkání.
-  Updated: 2026-06-23T13:32:38Z
+  Updated: 2026-06-29T10:02:23Z
   Vendor: NEOBOTANICS.cz
   Product Type: Health Care
   Availability: Available
@@ -493,21 +493,21 @@ V řadě se nachází dvě vodná séra, označená #1 a dvě olejová, která l
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_cbd-hot-skin-gel_bg_e8a72b0d-0df5-413c-955c-c36a4dcd0761.jpg?v=1773651994
   Price: 1 750,00 Kč CZK
 - [Neobotanics CBD Anti-Cellulite & Slimming Body Serum tělové sérum pro péči o pokožku se sklonem k celulitidě 500 ml](https://neobotanics.cz/products/neobotanics-cbd-anti-cellulite-slimming-body-serum-telove-serum-pro-peci-o-pokozku-se-sklonem-k-celulitide-500-ml): CBD Anti-Cellulite Slimming Body Gel s ISO-SLIM COMPLEX™ podporuje redukci celulitidy, zpevnění a elasticitu pokožky.
-  Updated: 2026-06-13T05:54:15Z
+  Updated: 2026-06-28T09:51:57Z
   Vendor: NEOBOTANICS
   Product Type: Health Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/products/nb_anti-cellulite_bg_03bca7ed-63d5-4198-b1a5-5e87c2d6a96a.jpg?v=1773656944
   Price: 2 650,00 Kč CZK
 - [Neobotanics CBD Anti-Edema Gel osvěžující emulzní gel pro masáž pokožky s otoky 500 ml](https://neobotanics.cz/products/neobotanics-cbd-anti-edema-gel-osvezujici-emulzni-gel-pro-masaz-pokozky-s-otoky-100-ml-copy): Výhodná cena za 100 ml. Okamžitě osvěžující emulzní gel pro pokožku s otoky, vhodný při lipedému, lymfedému i otocích nohou a rukou.
-  Updated: 2026-06-18T12:00:07Z
+  Updated: 2026-06-26T05:43:07Z
   Vendor: NEOBOTANICS
   Product Type: Health Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/products/nb_anti-edema-pumpa_bg_71e30c47-6a99-4be9-b709-d961a85f7638.jpg?v=1773657042
   Price: 1 750,00 Kč CZK
 - [Neobotanics CBD Anti-Varix Leg Gel  pro osvěžení a masáž těžkých a unavených nohou 500 ml](https://neobotanics.cz/products/neobotanics-anti-varix-leg-gel-pro-osvezeni-a-masaz-tezkych-a-unavenych-nohou-100-ml-copy): Osvěžující gel-krém na těžké a unavené nohy s otoky a křečovými žilami. Kombinuje kanabidiol (CBD) v nano-formě.
-  Updated: 2026-05-04T10:50:17Z
+  Updated: 2026-06-25T10:02:48Z
   Vendor: NEOBOTANICS
   Product Type: Health Care
   Availability: Available
@@ -521,14 +521,14 @@ V řadě se nachází dvě vodná séra, označená #1 a dvě olejová, která l
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_cbd-ice-skin-gel_bg_03d93fbd-0480-4ea0-8bd3-08f473f8f14c.jpg?v=1773657147
   Price: 1 750,00 Kč CZK
 - [Eubionyx Microbiome Balance - Probiotikum 4. generace 30 kapslí](https://neobotanics.cz/products/eubionyx-microbiome-balance-mikrobialni-rovnovaha-15-kultur-30-kapsli): Doplněk stravy s mikroorganismy. 30 kapslí (16,9 g). Podpora střevního mikrobiomu a jeho rovnováhy, která je klíčová nejen pro trávení, ale i pro imunitní odpověď, celkový zánětlivý status organismu a kondici pokožky. Eubionyx Microbiome Balance propojuje: Probiotika (15 cíleně kombinovaných kmenů) Prebiotika (výživa pro prospěšné bakterie) Postbiotika (Maltobiom) – bioaktivní fermentační složky Klíčové benefity: 15 cílených kultur Lyofilizované bakteriální kmeny 30 miliard buněk v 1 kapsli Synbioticko-postbiotický komplex Český biotechnologický výzkum Veganské kapsle se zvýšenou resistencí vůči vůči žaludečním kyselinám Střevní mikrobiom prokazatelně ovlivňuje i mozek a s tím spojenou psychickou pohodu, energii, dále kůži a celkové fyzické zdraví. Několik kilogramů těchto mikroorganismů rozhodují o náladě, imunitě, kvalitě spánku, chuti na jídlo, hmotnosti i schopnosti regenerace. Vědci dnes potvrzují, že až podstatná část imunity sídlí ve střevech. Tělo vysílá signály, ale málokdy si spojíme, že příčina podrážděnosti, únavy po jídle, nadýmání, častějšího nachlazení či zánětů může být právě v nerovnováze (disbioze) mikrobiomu. V čem je produkt jiný? Trh je plný produktů, které slibují „miliardy kultur“, ale moderní přístup jde dál. Důležité není jen kolik bakterií dodáte, ale v jakém prostředí se budou množit a jaké metabolity při tom vzniknou. Proto se tým NEOBOTANICS zaměřil na vývoj tzv. synbiotického boosteru – směsi, která cíleně podporuje růst probiotických bakterií laktobacilů. Laboratorní testy potvrdily, že přídavek tohoto komplexu může zvýšit růst probiotických bakterií až o více než 100 % oproti standardní variantě bez podpory. Pro koho je produkt určen EUBIONYX™ MICROBIOME BALANCE je určen pro každého, kdo chce pečovat o mikrobiální rovnováhu systematicky, dlouhodobě a v prémiové kvalitě. „Zjednodušeně lze říci, že mikrobiom souvisí s kožním komfortem. Pokud je střevní prostředí dlouhodobě zatížené (stres, antibiotika, jednostranná strava), může se to projevit i na pokožce – od pocitu „reaktivity“ až po období, kdy pleť působí nerovnoměrně nebo ztrácí svůj přirozený jas. Tento typ formulace je vhodný i v obdobích zvýšené zátěže, změn režimu nebo po antibiotikách, kdy doporučujeme užívat kapsli s odstupem 2–3 hodin od antibiotik. Podrobný popis produktu EUBIONYX™ MICROBIOME BALANCE představuje sofistikovaný mikrobiomový systém, který jde dál než klasická probiotika postavená pouze na počtu kultur. Základ tvoří 15 cíleně vybraných kultur v celkové dávce 30 miliard buněk v 1 kapsli, doplněných o pečlivě navržený synbiotický komplex a postbiotickou složku Maltobiom. Právě tato kombinace dává produktu charakter moderní formulace 4. generace: neřeší jen dodání kultur, ale i prostředí, ve kterém mohou fungovat, a bioaktivní kontext, který je doprovází. Zvláštní místo v celé formulaci má Maltobiom Originální český postbiotický komplex z autolyzovaných pivovarských kvasnic a extraktu sladového květu. Jde o biotechnologicky vyvinutou složku s upcyklačním původem, která propojuje fermentační know-how, cirkulární přístup a moderní nutraceutický vývoj. Synbiotický systém dále doplňují inulin, extrakt z mikrořasy a extrakt z granátového jablka, tedy složky s obsahem přírodních aktivních látek, kupř. polyfenolů, jako je kyselina ellagová, zvolené tak, aby spolu tvořily promyšlený celek. Součástí vývoje byla i laboratorní optimalizace tohoto komplexu na modelovém probiotickém kmeni. V in-vitro testech bylo potvrzeno, že přídavek našeho synbioticko-postbiotického komplexu výrazně podpořil růst modelového probiotika: u finálně vybrané formulace došlo k nárůstu CFU, tedy počtu živých kolonie tvořících buněk, o 111 % oproti kontrolní variantě bez přídavku komplexu. Současně se ukázalo, že účinek není dán jednou izolovanou složkou, ale synergií celého systému. To je pro nás zásadní: EUBIONYX™ MICROBIOME BALANCE stojí na cíleně navrženém biotechnologickém konceptu, nikoli na náhodném mixu ingrediencí. Koncept EUBIONYX™ EUBIONYX™ je mikrobiomový koncept značky NEOBOTANICS zaměřený na rovnováhu zevnitř i zvenku. Je postaven na myšlence eubiózy – tedy žádoucí mikrobiální rovnováhy – a na přesvědčení, že stav pokožky není jen otázkou lokální kosmetické péče, ale výsledkem komplexní komunikace mezi střevním mikrobiomem, kožní bariérou, imunitou a bioaktivními metabolity. EUBIONYX™ propojuje vnitřní mikrobiomovou podporu s dermokosmetickou péčí o kožní mikrobiom a vytváří jednotnou filozofii moderní, mikrobiom-respektující péče. V praxi to znamená kultivovanější a chytřejší přístup k péči o rovnováhu organismu i pokožky. Nejde o snahu „bojovat proti pokožce“, ale o práci s probiotiky, prebiotiky, postbiotiky a fermentačními bioaktivními látkami jako s nástroji, které zapadají do širšího konceptu osy střevo–pokožka.
-  Updated: 2026-06-12T01:32:17Z
+  Updated: 2026-06-25T04:54:56Z
   Vendor: NEOBOTANICS.cz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0273/5675/8149/files/nb_Eubionyx-microbiome-balance.webp?v=1779974940
   Price: 980,00 Kč CZK
 - [Výhodná sada Neobotanics: Flavo-lymf + Anti-Cellulite & Slimming Body Serum](https://neobotanics.cz/products/flavo-lymf-anti-cellulite-gel-100-ml): Unikátní kombinace - tinktura Flavo-lymf (doplněk stravy) + sérum pro podporu redukce celulitidy (gel) za výhodnější cenu. Neobotanics Flavo-Lymf bylinná tinktura z 14 rostlin 50 ml Flavo-lymf tinktura je moderní forma „glyceritu“, tj. tinktury, která se vyrábí bez etanolu (alkoholu) a k výrobě extraktu se používá glycerin. Díky tomu má přípravek příjemně nasládlou chuť a bylinné aroma, připomínající vůni sirupů našich babiček, ale bez použití cukru. Proto je možné přípravek užívat přímo neředěný na lžičce nebo jej nakapat do sklenice vody, ovocné šťávy či čaje - viz doporučené dávkování. Lymfatický systém a cévní soustava. Ploštičník podporuje činnost lymfatického systému, jehlice, tužebník a řebříček pro normální funkce močových cest a ledvin, lopuch pro pročištění krve, listnatec a borůvka pro normální činnost cévní soustavy, kopřiva pro vylučování vody z organismu, pampeliška smetánka květ pro detoxikaci, svízel pro normální činnost jater a žlučových cest. OBSAŽENÉ BYLINY: Ploštičník – normální činnost lymfatického systému Jehlice - normální funkce močových cest a ledvin, vylučování Listnatec – normální činnost cévní soustavy Kopřiva – normální činnost cévní soustavy, normální činnost ledvin a vylučování vody z organismu Borůvka – normální činnost cévní soustavy, antioxidant Pampeliška smetánka – normální funkce močové soustavy, detoxikace u květu Svízel – normální činnost jater a žlučových cest Tužebník - normální funkce močových cest a ledvin, vylučování vody z organismu Řebříček - normální funkce močových cest a ledvin Benedikt - normální trávení Lopuch – pročištění krve, vylučování vody z organismu Divizna – normální činnost močového měchýře a ledvin Kosatec – podpora dýchacího systému Upozornění: Flavo-lymf tinktura je doplněk stravy, nejedná se o náhradu léčby. Bylinné tinktury a rostlinné extrakty mohou obsahovat látky, které ovlivňují účinnost léků a imunitní systém. Důvodem je, že některé byliny mohou ovlivňovat metabolismus léků v játrech (např. přes enzymy CYP450), jiné mohou mít imunomodulační účinky.Proto je při současném užívání jakýchkoliv léků vždy nutná předchozí konzultace s ošetřujícím lékařem. Neobotanics CBD Anti-Cellulite & Slimming Body Serum tělové sérum pro péči o pokožku se sklonem k celulitidě 100 ml Napomáhá díky obsahu patentované švýcarské účinné látky ISO-SLIM COMPLEX™ redukovat celulitidu a zvyšovat elasticitu a pevnost pokožky. ISO-SLIM COMPLEX™ ve studii(1) redukoval již po 6 týdnech celulitidu o 37% a zpevňoval pokožku o 57%. Nemastná a velmi rychle vstřebatelná textura Standardizovaný obsah CBD v nano-formě Vegan, vyrobeno ve vlastní laboratoři Neobotanics THERAPY - profesionání řada dermokosmetiky vyvinuta ve spolupráci s lékaři Od r. 2016 probíhá intenzivní spolupráce dvou odborníků, Doc. Kaštánka z Neobotanics s MUDr. René Vlasákem z CPM Lymfocentrum na využití přírodních prostředků v péči o pokožku zatíženou chronickými otoky, lyfedémem, lipedémem, celulitidou a namáhanou používáním zevních kompresivních prostředků. Produkty z řady THERAPY jsou postavené na kombinaci a vzájemné synergii 2 hlavních složek, flavonoidů, resp. směsi extraktů českých a středoevropských, často pozapomenutých bylin, obsahující synergické kombinace velkého množství bioaktivních látek v nižších koncentracích, cílených svým účinkem na konkrétní problematiku a kanabinoidů z konopí, včetně nejznámějšího kanabidiolu (CBD), které snižují tvorbu prozánětlivých cytokinů, tedy látek odpovědných za vznik lokálních zánětů v organismu. ÚČINNÉ LÁTKY: Kanabidiol (CBD) izolovaný z rostliny konopí v micelární nano-formě NeoMicelleÒ. Tato technologie, vyvinutá v rámci výzkumného projektu společností EcoFuel Laboratories, umožňuje efektivní dávkování CBD. ISO-SLIM COMPLEX™ je patentovaný komplex na bázi genisteinu - biologicky aktivní formy sójového isoflavonu. ISO-SLIM COMPLEX™ kombinuje genistein se třemi dalšími účinnými látkami - kofeinem a karnitinem, a extraktem ze Spiruliny, který zpevňuje a restrukturalizuje. Účinky na celulitidu ověřené ve studii1: Snížení celulitidy v průměru o 37 % Zmenšení obvodu stehna až o 3,8 cm Zvýšení pružnosti pokožky až o 57 % Zvýšení pevnosti pokožky až o 41 % studie provedená na 20 ženách ve věku 39-58 let trpících silnou celulitidou 1 NEOACTINE®Cellulite je vlastní originální směs bylinných extraktů bohatých na flavonoidy a dalších bioaktivní látky z břečťanu, maté, gingo biloby a pupečníku, cíleně vyvinutá pro péči o pokožku s celulitidou. 'V-TONIC obsahuje čisté přírodní esenciální oleje z citronu, cypřiše, lavandinu, máty rolní a cistu ladanového, které ihned po použití přinášejí pocit úlevy a osvěžení zejména těžkým a unaveným nohám. 1 D. Schmid, E. Belser, S. Meister, Mibelle Biochemistry, Švýcarsko, únor 2009: Slimming and Tissue Strengtheing: Soy Isoflavon for a Perfect Body I. Montano, D. Schmid, F. Zulli: Inhibition of adipogenesis for anti-cellulite activity. Zajímá Vás, jak funguje lymfatický systém a jak jeho funkci v těle podpořit? Lymfatický systém je jedním z nejdůležitějších, a přesto často přehlížených systémů našeho těla. Jeho správná funkce je nezbytná pro zdraví, detoxikaci organismu a celkovou rovnováhu. Více se dozvíte v BLOG článku: "Čistota těla začíná uvnitř: Jak podpořit správnou funkci lymfatického systému" Objevte byliny jako ploštičník, kopřiva či pampeliška a jejich účinky! Více se dozvíte v BLOG článku: Fytoterapie a byliny: Klíč k podpoře lymfatického systému a detoxikace Až 90 % žen se potýká s celulitidou, a to bez ohledu na váhu či životní styl. Jakmile dosáhneme puberty, náš tukový metabolismus a struktura pokožky se mění, což způsobuje nevzhledné „důlky“ známé jako pomerančová kůže. S přibývajícím věkem se tento problém jen prohlubuje. Proč? Dochází k růstu tukových buněk (adipocytů) a pokožka ztrácí elasticitu. Více o tom, jak na celulitidu, se dozvíte na našem BLOG článku: Co jste možná nevěděli o celulitidě | Příčiny, stupně a péče
-  Updated: 2026-06-23T18:57:51Z
+  Updated: 2026-06-30T18:42:35Z
   Vendor: NEOBOTANICS.cz
   Product Type: 
   Availability: Available
@@ -539,52 +539,52 @@ V řadě se nachází dvě vodná séra, označená #1 a dvě olejová, která l
 
 - [Všechny produkty](https://neobotanics.cz/collections/neobotanics-europe): NEOBOTANICS® je značka vysoce účinné dermo kosmetiky a inovativních doplňků stravy od inovativní ryze české vědecko-technologické firmy BIOCEN Laboratories. Spojujeme tradiční přírodní látky a postupy s nejnovějšími vědeckými výzkumnými poznatky, pod vedením zakladatele značky, Doc. Ing. Petra Kaštánka, Ph.D. a týmu špičkových expertů a lékařů.
 Naše produkty jsou vyrobeny z použitím vlastních inovativních účinných látek získaných z bylin a mikroskopických řas, pěstovaných v čistém prostředí. Tyto látky  formulujeme kupř. do formy lipozomů či nano-micel pro maximální účinnost. Vývoj a výroba probíhají ve vlastních moderních laboratořích uprostřed Brdských lesů.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 85
 - [Nejoblíbenější produkty](https://neobotanics.cz/collections/top-3-therapy)
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 12
 - [Pokožka s celulitidou ⭐ hladká pokožka a péče | NEOBOTANICS®](https://neobotanics.cz/collections/pokozka-s-celulitidou): Produkty pro pokožku s celulitidou podporují hladší vzhled a pevnost díky kofeinu, bylinám a lymfatické stimulaci ⭐ Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-28T11:05:06Z
   Total Products: 5
 - [Kožní problémy a ekzémy ⭐ jemná péče o pokožku | NEOBOTANICS®](https://neobotanics.cz/collections/kozni-problemy-ekzemy): Šetrné přípravky pro kožní problémy a ekzémy využívají zklidňující oleje, byliny a minerály ⭐ Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-18T11:04:36Z
+  Updated: 2026-06-26T11:43:13Z
   Total Products: 3
 - [Energie a vitalita](https://neobotanics.cz/collections/energie-a-vitalita): Adaptogeny a vitaminy Produkty v této sekci obsahují adaptogeny (ženšen, maca), vitaminy skupiny B a minerály jako železo a hořčík. Jsou určeny pro ty, kteří chtějí podpořit pocit energie a snížit únavu. V sortimentu najdete i směsi superpotravin, například chlorellu a spirulinu. Živé zdroje energie Pro dlouhodobou vitalitu je důležité dbát na vyvážený jídelníček, pravidelný spánek a pohyb na čerstvém vzduchu. Doplňky stravy mohou být součástí zdravé rutiny, ale nenahrazují odpočinek a regeneraci.
   Updated: 2026-06-23T11:08:26Z
   Total Products: 7
 - [Detoxikace organismu](https://neobotanics.cz/collections/detoxikace-1): Když jde o vás, buďte nároční. Přírodní produkty Neobotanics pro detoxikaci těla jsou pečlivě testovány a podpořeny vědeckým výzkumem pro maximální účinnost.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 7
 - [Tělová péče | přírodní a účinná péče o tělo a pokožku z Česka](https://neobotanics.cz/collections/telova-pece): Dopřejte si špičkovou péči o vaše tělo. Krémy, séra a balzámy plné přírodních extraktů pro hebkou pokožku vás nadchnou. Vyrobeno v ČR, skladem.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 24
 - [Krémy a gely na tělo | hydratační krémy a gely pro hebkou pokožku](https://neobotanics.cz/collections/kremy-a-gely-na-telo): Dopřejte si pocit úlevy a zdravý vzhled. Tělové krémy a gely dodají pokožce výživu a jemnost bez pocitu mastnoty. Rychlá doprava.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 18
 - [Balzámy a masti | intenzivní péče a ochrana pokožky z přírody](https://neobotanics.cz/collections/balzamy-a-masti): Navraťte své pleti zdravý vzhled pomocí mastí s čistým složením. Vhodné pro každodenní promazávání i cílenou ochranu. Rychlé doručení, vše skladem.
   Updated: 2026-06-18T11:04:36Z
   Total Products: 2
 - [Doplňky stravy | kvalitní doplňky stravy a vitamíny z přírody](https://neobotanics.cz/collections/doplnky-stravy): Nastartujte svou imunitu přírodní cestou. Vyzkoušejte doplňky stravy s obsahem unikátních extraktů, které vznikají v našich laboratořích. Rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 46
 - [Vitaminy a minerály | podpora imunity, energie a celkové vitality](https://neobotanics.cz/collections/vitaminy-mineraly): Zajistěte si přísun důležitých látek v té nejčistší formě. Kombinujeme přírodní zdroje s moderní biotechnologií pro vaši lepší vitální kondici. Vyrobeno v ČR.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 29
 - [Supergreens | zelené potraviny pro přirozenou očistu a energii](https://neobotanics.cz/collections/zelene-potraviny): Osvoboďte tělo od nečistot díky vysoké koncentraci chlorofylu. Supergreens pomáhají udržet vitalitu při vysokém nasazení. Doprava zdarma nad 2000 Kč.
-  Updated: 2026-06-12T11:07:19Z
+  Updated: 2026-06-29T11:04:22Z
   Total Products: 3
 - [Imunita](https://neobotanics.cz/collections/imunita-1): Podpořte svoji imunitu kombinací vitaminů C a D se vzájemnými synergickými účinky. Vitamin D je v oblasti imunity naprosto klíčový a u většiny naší populace je jeho obsah v těle nedostatečný. Odborné studie ukazují, že je vhodné kombinovat vitamín D3 s vitamínem K2. Vitamin C je velmi významný pomocník v podpoře imunity Omega-3 nenasycené mastné kyseliny EPA a DHA jsou pro imunitu nepostradatelné, ale tělo si je neumí samo vytvořit
   Updated: 2026-06-23T11:08:26Z
   Total Products: 16
 - [Svaly a klouby](https://neobotanics.cz/collections/svaly-a-klouby-3): Pohyb a regenerace Správná péče o svaly a klouby zahrnuje jak kosmetiku, tak doplňky stravy. Masážní gely s mentolem, eukalyptem nebo kapsaicinem přinášejí pocit úlevy. Vhodné jsou také strečinkové cvičení a pravidelný pohyb, který udržuje klouby v kondici. Výživa kloubů Doplňky stravy mohou obsahovat kolagen, MSM a glukosamin. Tyto látky jsou běžnou součástí kloubních přípravků. V sortimentu najdete i produkty s vitaminy C a D pro celkovou podporu pohybového aparátu.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-29T11:04:22Z
   Total Products: 11
 - [Péče o pleť | účinná pleťová kosmetika a doplňky stravy](https://neobotanics.cz/collections/pletova-pece): Dopřejte pleti hloubkovou hydrataci a pružnost. Vyberte si pleťová séra, kolagen a doplňky stravy přímo od českého výrobce. Nízké ceny a rychlá doprava.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 15
 - [Kategorie podle zaměření | kosmetika a doplňky stravy na míru](https://neobotanics.cz/collections/zamereni): Najděte řešení přímo pro sebe. Vyberte si produkty podle zaměření na imunitu, pleť či energii a podpořte své tělo přesně tam, kde to potřebuje. Skladem.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 52
 - [Výhodná balení](https://neobotanics.cz/collections/akce-a-slevy): Pořiďte si naše produkty výhodněji!
   Updated: 2026-06-08T08:33:17Z
@@ -596,7 +596,7 @@ Naše produkty jsou vyrobeny z použitím vlastních inovativních účinných l
   Updated: 2026-06-20T11:03:54Z
   Total Products: 4
 - [Pokožka s otoky | Osvěžující gely a séra pro rychlou úlevu](https://neobotanics.cz/collections/pokozka-s-otoky): Zapomeňte na nepříjemné pnutí a otoky. Vyzkoušejte naše masážní emulze pro pocit úlevy tkání a zklidnění unavené pokožky. Objednejte si v prémiové kvalitě.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 7
 - [Srdce](https://neobotanics.cz/collections/srdce): Péče o kardiovaskulární systém Produkty pro srdce zahrnují kapsle s omega-3 mastnými kyselinami, koenzymem Q10 a rostlinnými steroly. Tyto látky jsou součástí pestré stravy a mohou přispět k normální funkci kardiovaskulárního systému. V nabídce najdete i bylinné čaje s hlohem či srdečníkem. Zdravý životní styl Kromě doplňků doporučujeme pestrou stravu s dostatkem ovoce, zeleniny a celozrnných produktů. Pravidelný pohyb, dostatečný odpočinek a omezení trans tuků jsou klíčové. Doplňky stravy mohou být vhodným doplňkem každodenní péče.
   Updated: 2026-06-23T11:08:26Z
@@ -605,16 +605,16 @@ Naše produkty jsou vyrobeny z použitím vlastních inovativních účinných l
   Updated: 2026-06-23T11:08:26Z
   Total Products: 5
 - [Pokožka](https://neobotanics.cz/collections/pokozka)
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 10
 - [Lipozomální vitamin C ⭐ maximální vstřebatelnost | NEOBOTANICS®](https://neobotanics.cz/collections/lipozomalni-vitaminy): Lipozomální vitamin C je oblíbený pro svoji vysokou vstřebatelnost a užívá se při náročném životním stylu. Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-26T11:43:13Z
   Total Products: 7
 - [Plíce a dýchací systém](https://neobotanics.cz/collections/plice-a-dychaci-system)
   Updated: 2026-06-08T11:04:20Z
   Total Products: 6
 - [Trávení](https://neobotanics.cz/collections/traveni): Komfort zevnitř Doplňky na trávení obsahují vlákninu, enzymy a bylinky jako fenykl či máta. Tyto látky podporují pocit komfortu a přirozenou činnost trávicího systému. Oblíbené jsou také fermentované produkty s probiotiky. Strava a životní styl Pro zdravé trávení je důležitý pitný režim, pravidelný pohyb a pestrá strava bohatá na ovoce a zeleninu. Do jídelníčku zařaďte obiloviny s vysokým obsahem vlákniny a omezte příjem smažených jídel. Doplňky lze užívat podle potřeby.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 7
 - [Cholesterol](https://neobotanics.cz/collections/cholesterol): Normální hladina cholesterolu V této sekci najdete doplňky s rostlinnými steroly, červenou fermentovanou rýží a omega-3 kyselinami. Tyto látky jsou často spojovány s udržením normální hladiny cholesterolu. Nabízíme kapsle, oleje i prášky, které lze snadno zařadit do denního režimu. Výživové doporučení Pro udržení zdravého lipidového profilu je důležitá vyvážená strava s omezením nasycených tuků a cukrů. Zařaďte potraviny bohaté na vlákninu, jako jsou ovesné vločky a luštěniny. Doplňky stravy mohou tuto snahu podpořit, ale nenahrazují správnou životosprávu.
   Updated: 2026-06-14T11:03:59Z
@@ -626,7 +626,7 @@ Naše produkty jsou vyrobeny z použitím vlastních inovativních účinných l
   Updated: 2026-06-23T11:08:26Z
   Total Products: 7
 - [Menopauza](https://neobotanics.cz/collections/menopauza): Fáze životních změn Menopauza je přirozené období, během kterého může žena zažívat různé změny. Doplňky obsahují izoflavony ze sóji, extrakty z červeného jetele a vitaminy D a K pro celkovou pohodu. Nabídku doplňují bylinné čaje. Harmonický přístup Kromě doplňků je důležitá pravidelná fyzická aktivita, pestrá strava a podpora spánku. Zahrňte potraviny bohaté na vápník a vitamín D. Doplňky stravy mohou pomoci doplnit potřebné živiny v tomto období života.
-  Updated: 2026-06-21T11:02:58Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 6
 - [Menstruace](https://neobotanics.cz/collections/menstruace): Komfort během cyklu V období menstruace oceníte doplňky s bylinnými extrakty (např. kontryhel, drmek) a vitaminy, které podporují fyzickou pohodu. V nabídce jsou také čaje a tinktury, které pomáhají uvolnit napětí. Oblíbené jsou i produkty s hořčíkem pro relaxaci svalů. Ženské zdraví Kromě doplňků se soustřeďte na zdravý životní styl, dostatek odpočinku a vyvážený jídelníček. Některé ženy volí také cvičení jógy nebo dechová cvičení pro uvolnění. Doplňky stravy mohou být součástí individuální péče během cyklu.
   Updated: 2026-06-21T11:02:58Z
@@ -635,37 +635,37 @@ Naše produkty jsou vyrobeny z použitím vlastních inovativních účinných l
   Updated: 2026-06-08T12:28:54Z
   Total Products: 6
 - [Žíly a cévy](https://neobotanics.cz/collections/zily-a-cevy): Pocit lehkých nohou Doplňky a kosmetika v této sekci obsahují rutin, hesperidin a extrakt z kaštanu. Tyto látky jsou tradičně používány v péči o cévní komfort. V nabídce najdete kapsle, tinktury a masážní gely. Produkty jsou vhodné pro ty, kdo tráví dlouhé hodiny vsedě nebo ve stoje. Tipy na podporu oběhu Pravidelný pohyb, střídání teplé a studené sprchy a nošení pohodlné obuvi mohou pomoci udržet nohy svěží. Do jídelníčku lze zařadit ovoce bohaté na flavonoidy, jako jsou borůvky a citrusy. Doplňky stravy jsou užitečným doplňkem každodenní péče. Krásné a zdravé nohy jsou výsledkem komplexní péče. V našem blog článku zjistíte, jak podpořit krevní oběh, snížit otoky a zlepšit stav žil.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 10
 - [Žíly a cévy](https://neobotanics.cz/collections/zily-a-cevy-1)
   Updated: 2026-03-16T10:27:14Z
   Total Products: 0
 - [Křečové žíly | Účinná péče při pocitu těžkých a unavených nohou](https://neobotanics.cz/collections/pokozka-s-krecovymi-zilami): Starejte se o příznaky křečových žil efektivně. Nabízíme masážní gely, regenerační krémy a masti pro zdravý vzhled vašich nohou. Kvalita, které můžete věřit.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-29T11:04:22Z
   Total Products: 6
 - [Kontrola tělesné hmotnosti](https://neobotanics.cz/collections/hubnuti-kontrola-telesne-hmotnosti)
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 7
 - [Pleťová séra | přírodní séra na pleť a obličej pro zářivou pokožku](https://neobotanics.cz/collections/pletova-sera): Zapomeňte na unavenou tvář. Naše pleťová séra vyvinutá českými vědci poskytují pleti dávku aktivních látek pro dokonalý a hydratovaný vzhled. Skladem
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 5
 - [Doplňky stravy na pleť | výživa pro krásnou a zdravou pokožku](https://neobotanics.cz/collections/doplnky-stravy-na-plet): Vyzkoušejte naše doplňky stravy na pleť s kolagenem, vitaminy a antioxidanty, které podporují zdraví a krásu pokožky zevnitř. Vyrobeno v ČR.
-  Updated: 2026-06-17T11:04:36Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 7
 - [BLOG](https://neobotanics.cz/collections/blog)
   Updated: 2024-12-17T18:34:20Z
   Total Products: 0
 - [Kolagen na pleť | kolagen pro péči o pružnost a hydrataci pokožky](https://neobotanics.cz/collections/kolagen-na-plet): Podpořte svou krásu zevnitř již dnes. Náš kolagen na pleť s bioaktivními peptidy z Brdských lesů vyhlazuje a hydratuje. Doprava zdarma nad 2000 Kč.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-29T11:04:22Z
   Total Products: 3
 - [Kolagen | komplexní péče o pleť, vlasy a pohyb z české přírody](https://neobotanics.cz/collections/kolagen): Vyzkoušejte kolagen, který pomáhá udržet klouby v kondici a pleť bez hlubokých vrásek. Pružná pleť a silnější vlasy díky bioaktivním peptidům. Skladem.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-29T11:04:22Z
   Total Products: 3
 - [NMN](https://neobotanics.cz/collections/nmn)
   Updated: 2026-01-14T10:17:40Z
   Total Products: 0
 - [Lymfatický systém](https://neobotanics.cz/collections/lymfaticky-system): Odstraňuje odpadní látky a toxiny z tkání, zajišťuje správný transport živin a tuků z trávicího traktu, podporuje imunitní odpověď organismu a udržuje rovnováhu tekutin v těle, čímž předchází otokům. Jak podpořit činnost lymfatického systému? Pravidelný pohyb, Lymfatické masáže, Kompresní pomůcky, Hydratace, Zdravá strava, Střídavé sprchy a sauna, Dýchací techniky a také Bylinné doplňky např. tinktura FLAVO LYMF, obsahujících směs bylinných extraktů, pomáhá podpořit detoxikační procesy a zdravý tok lymfy. Více informací, jak podpořit správnou činnost lymfatického systému naleznete v článku na našem blogu https://neobotanics.cz/blogs/news/cistota-tela-zacina-uvnitr-jak-podporit-spravnou-funkci-lymfatickeho-systemu
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 8
 - [Doporučené kombinace pleťové péče ⭐ kompletní rutina | NEOBOTANICS®](https://neobotanics.cz/collections/doporucene-kombinace): Objevte doporučené kombinace sér, krémů a doplňků NEOBOTANICS® pro komplexní pleťovou péči a viditelné výsledky ⭐ Vyrobeno v ČR, rychlé doručení.
   Updated: 2025-11-10T07:00:43Z
@@ -674,13 +674,13 @@ Naše produkty jsou vyrobeny z použitím vlastních inovativních účinných l
   Updated: 2026-04-20T08:27:08Z
   Total Products: 6
 - [Vitamín C ⭐ antioxidant a imunita | NEOBOTANICS®](https://neobotanics.cz/collections/vitamin-c): Vitamín C přispívá k normální funkci imunitního systému a působí jako antioxidant. K dispozici i v lipozomální formě ⭐ Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-29T11:04:22Z
   Total Products: 9
 - [Vitamín D ⭐ D3 a D3 + K2 pro kosti a imunitu | NEOBOTANICS®](https://neobotanics.cz/collections/vitamin-d): Kombinace vitamínů D3 a K2 je oblíbená mezi lidmi, kteří hledají synergickou podporu pro pohybový aparát a metabolismus vápníku. Vyrobeno v ČR, rychlé doručení.
   Updated: 2026-06-21T11:02:58Z
   Total Products: 5
 - [Komplexní bylinné doplňky | bylinné doplňky stravy s adaptogeny](https://neobotanics.cz/collections/komplexni-bylinne-doplnky): Vyzkoušejte receptury zaměřené na harmonizaci hormonální soustavy a nervového systému. Vše vyrábíme z čistých rostlinných extraktů.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 24
 - [Superfoods ⭐ zelené potraviny pro energii | NEOBOTANICS®](https://neobotanics.cz/collections/superfoods): Superfoods jako chlorella, spirulina a zelený ječmen obsahují širokou škálu živin pro vitalitu ⭐ Vyrobeno v ČR, rychlé doručení.
   Updated: 2025-11-10T07:03:30Z
@@ -692,46 +692,46 @@ Naše produkty jsou vyrobeny z použitím vlastních inovativních účinných l
   Updated: 2026-04-20T11:10:01Z
   Total Products: 5
 - [Počínající vrásky ⭐ jemná péče proti prvním známkám stárnutí | NEOBOTANICS®](https://neobotanics.cz/collections/pocinajici-vrasky): Produkty pro počínající vrásky obsahují antioxidanty, hyaluronát a peptidy pro vyhlazení prvních jemných linek a podporu pružnosti pleti ⭐ Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 5
 - [Mimické vrásky ⭐ péče pro vyhlazení výrazových linií | NEOBOTANICS®](https://neobotanics.cz/collections/mimicke-vrasky): Řada pro mimické vrásky kombinuje účinné séra a krémy s peptidy a kolagenem pro redukci výrazových linií a zjemnění pleti ⭐ Vyrobeno v ČR, rychlé doručení.
   Updated: 2025-11-10T06:25:11Z
   Total Products: 0
 - [Hluboké vrásky ⭐ intenzivní péče pro obnovu pleti | NEOBOTANICS®](https://neobotanics.cz/collections/hluboke-vrasky): Produkty pro hluboké vrásky s vysokým obsahem aktivních látek a kolagenu podporují regeneraci a zpevnění pleti ⭐ Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 5
 - [Akné a problematická pleť ⭐ čistá pokožka bez kompromisů | NEOBOTANICS®](https://neobotanics.cz/collections/akne-a-problematicka-plet): Péče o pokožku s akné a problematickou pleť využívá antibakteriální a zklidňující složky, které podporují čistotu a rovnováhu pleti ⭐ Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-29T11:04:22Z
   Total Products: 5
 - [Mdlá pleť ⭐ rozjasňující péče pro zdravou barvu pleti | NEOBOTANICS®](https://neobotanics.cz/collections/mdla-plet): Rozjasňující produkty pro mdlou pleť obsahují vitaminy C a antioxidanty pro svěží vzhled a zářivou barvu ⭐ Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-19T11:06:28Z
+  Updated: 2026-06-28T11:05:06Z
   Total Products: 4
 - [Skvrny a pigmentace ⭐ sjednocení tónu pleti | NEOBOTANICS®](https://neobotanics.cz/collections/skvrny-a-pigmentace): Přípravky proti skvrnám a pigmentaci s niacinamidem a vitaminem C pomáhají sjednotit tón pleti ⭐ Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 5
 - [Suchá pleť ⭐ hloubková hydratace a ochrana | NEOBOTANICS®](https://neobotanics.cz/collections/sucha-plet): Hydratační produkty pro suchou pleť kombinují oleje, ceramidy a kyselinu hyaluronovou pro dlouhotrvající vláčnost a ochranu bariéry pleti ⭐ Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 5
 - [Vrásky](https://neobotanics.cz/collections/vrasky): Produkty NEOBOTANICS® určené pro pleť s vráskami, prevenci jejich vzniku i redukci již existujících vrásek. Produkty pro počínající vrásky obsahují antioxidanty, hyaluronát a peptidy pro vyhlazení prvních jemných linek a podporu pružnosti pleti. Řada pro mimické vrásky kombinuje účinné séra a krémy s peptidy a kolagenem pro redukci výrazových linií a zjemnění pleti. Produkty pro hluboké vrásky s vysokým obsahem aktivních látek a kolagenu podporují regeneraci a zpevnění pleti. Vyrobeno v ČR, rychlé doručení.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 7
 - [DÁRKY](https://neobotanics.cz/collections/darky): Sestavte si dárkové balíčky pro své blízké. Darujte zdraví a krásu pro ženu, muže, babičku i dědu.
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 26
 - [Dárky pro ženy](https://neobotanics.cz/collections/darky-pro-zeny)
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 8
 - [Dárky pro muže](https://neobotanics.cz/collections/darky-pro-muze)
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-26T11:43:13Z
   Total Products: 5
 - [Dárky pro babičku](https://neobotanics.cz/collections/darky-pro-babicku)
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-29T11:04:22Z
   Total Products: 6
 - [Dárky pro dědu](https://neobotanics.cz/collections/darky-pro-dedu)
-  Updated: 2026-06-18T11:04:36Z
+  Updated: 2026-06-29T11:04:22Z
   Total Products: 7
 - [Volume  products](https://neobotanics.cz/collections/volume--products)
-  Updated: 2026-06-23T11:08:26Z
+  Updated: 2026-06-30T11:09:43Z
   Total Products: 12
 
 ## Blogs
@@ -755,7 +755,7 @@ Naše produkty jsou vyrobeny z použitím vlastních inovativních účinných l
     Author: Petr Kastanek
     Tags: CELULITIDA, LYMFATICKÝ SYSTÉM
   - [Otoky, lipedém, lymfedém, flebedém, obezita a celulitida - čím se od sebe liší?](https://neobotanics.cz/blogs/news/celulitida-lipedem-lymfedem-flebedem-otoky-a-obezita-cim-se-od-sebe-lisi): <p><meta charset="UTF-8"><span>Otoky, lipedém, lymfedém, flebedém, obezita – zjistěte, jak se tyto zdravotní stavy liší a jaké mají příčiny.</span></p>
-    Updated: 2026-05-27T08:16:28Z
+    Updated: 2026-06-30T13:17:59Z
     Author: Petr Kastanek
     Tags: CELULITIDA, LYMFATICKÝ SYSTÉM, LYMFEDÉM, LYMFEDÉM / LIPEDÉM / OTOKY, OTOKY, ŽENSKÉ ZDRAVÍ
   - [Přírodní detoxikace organismu? Vaše tělo vám poděkuje](https://neobotanics.cz/blogs/news/prirodni-detoxikace-organismu-vase-telo-vam-podekuje): <meta charset="UTF-8"><meta charset="UTF-8">
