@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-05-10T13:09:53Z
 - Contact Email: zvyaar@gmail.com
-- Updated At: 2026-06-24T00:00:35.826Z
+- Updated At: 2026-07-01T00:00:37.728Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/1004/0252/8535/files/ChatGPTImageJun21_2026_10_39_38PM.png?v=1782064340
   Price: Rs 3,500.00 PKR
 - [Storm Legacy EDP – Inspired by Dior Sauvage | Zvyaar](https://zvyaar.com/products/storm-legacy): Storm Legacy by Zvyaar – a bold, long-lasting Eau de Parfum inspired by Dior Sauvage. Shop now at PKR 2,200.
-  Updated: 2026-06-22T18:02:41Z
+  Updated: 2026-06-28T22:30:10Z
   Vendor: Zvyaar
   Product Type: Perfume
   Availability: Available
@@ -117,6 +117,15 @@
 - [xyz](https://zvyaar.com/collections/xyz)
   Updated: 2026-06-23T21:29:09Z
   Total Products: 0
+- [Bloom Essence + Storm Legacy- Couple Pack](https://zvyaar.com/collections/bloom-essence-storm-legacy-couple-pack): Discover the elegance of two worlds in one gift — the Bloom Essence & Storm Legacy Couple Pack by Zvyaar. A curated pairing crafted for couples who move through life with confidence and grace. Bloom Essence — A soft, floral feminine fragrance that blooms with warmth and femininity Storm Legacy — A powerful, intense masculine scent that leaves a lasting legacy wherever you go Perfect for gifting on anniversaries, weddings, Eid, or any special occasion. Together, they create a scent story that's uniquely yours. Long-lasting Eau de Parfum formulas Premium Zvyaar quality Beautifully packaged — ready to gift
+  Updated: 2026-06-24T15:29:03Z
+  Total Products: 1
+- [Bloom Essence + Royal Flux- Perfect together](https://zvyaar.com/collections/bloom-essence-royal-flux-perfect-together): Discover the elegance of two worlds in one gift — the Bloom Essence & Royal Flux Couple Pack by Zvyaar. A curated pairing of our finest fragrances, crafted for couples who appreciate luxury and sophistication. Bloom Essence — A soft, floral feminine fragrance that blooms with grace and femininity Royal Flux — A bold, masculine scent that commands presence and confidence Perfect for gifting on anniversaries, weddings, Eid, or any special occasion. Together, they create a scent story that's uniquely yours. Long-lasting Eau de Parfum formulas Premium Zvyaar quality Beautifully packaged — ready to gift
+  Updated: 2026-06-24T15:30:33Z
+  Total Products: 1
+- [Elite Aqua + Soft Petal- Couple Pack](https://zvyaar.com/collections/elite-aqua-soft-petal-couple-pack): Soft Petal for Her & Elite Aqua for Him – Couple Perfume Gift Set Celebrate your bond with the perfect fragrance duo. The Soft Petal for Her & Elite Aqua for Him Couple Pack is designed for couples who appreciate elegance, confidence, and lasting impressions. Soft Petal for HerA graceful feminine fragrance featuring delicate floral notes blended with soft sweetness, creating a fresh, romantic, and sophisticated scent perfect for everyday wear and special occasions. Elite Aqua for HimA refreshing masculine fragrance with aquatic and woody accords that deliver a clean, energetic, and confident aroma. Ideal for men who prefer a modern and long-lasting scent. Why You'll Love This Couple Pack ✔ Premium fragrances for both him and her✔ Long-lasting scent performance✔ Perfect for daily wear and special occasions✔ Elegant gift choice for couples, anniversaries, and weddings✔ Stylish packaging suitable for gifting Fragrance Profile Soft Petal for Her Fragrance Family: Floral & Sweet Personality: Elegant, Romantic, Feminine Elite Aqua for Him Fragrance Family: Fresh Aquatic & Woody Personality: Confident, Modern, Energetic Perfect For Couples Anniversaries Wedding Gifts Valentine's Day Birthdays Special Celebrations Experience the harmony of Soft Petal and Elite Aqua—a fragrance duo crafted to complement each other, just like you and your partner.
+  Updated: 2026-06-24T16:08:07Z
+  Total Products: 1
 
 ## Store Pages
 
