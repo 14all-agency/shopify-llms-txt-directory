@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2023-09-19T18:40:40Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-06-24T00:00:28.989Z
+- Updated At: 2026-07-01T00:00:33.187Z
 
 ## Products
 
 - [ROT HOODIE](https://store.wesghost.com/products/rot-hoodie): you'd rather watch me rot 80% cotton / 20% polyester hoodie, available in black and purple Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2 3XL 32 30 38 1/2
-  Updated: 2026-06-04T00:59:20Z
+  Updated: 2026-06-29T21:22:33Z
   Vendor: WesGhost
   Product Type: Hoodie
   Availability: Available
@@ -96,7 +96,7 @@
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_Balaclava_Keychain.png?v=1736179933
   Price: $10.00 USD
 - [AM I DREAMING? TEE](https://store.wesghost.com/products/am-i-dreaming-tee): do I want her? or do I just want love instead? 100% heavyweight cotton t-shirt in crystal black Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 17 1/2 M 27 19 L 27 20 XL 29 1/2 23 2XL 29 1/2 25
-  Updated: 2026-06-22T03:59:37Z
+  Updated: 2026-06-26T01:17:58Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -111,7 +111,7 @@
     Availability: Not Available
     Price: $40.00 USD
   - [XL](https://store.wesghost.com/products/am-i-dreaming-tee?variant=50178055962920)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [2XL](https://store.wesghost.com/products/am-i-dreaming-tee?variant=50178055995688)
     Availability: Available
@@ -159,7 +159,7 @@
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_0004_166773_1_306751_blog_782372_4.png?v=1770750782
   Price: $15.00 USD
 - [WESGHOST COLLECTIVE TEE](https://store.wesghost.com/products/wesghost-collective-tee): 100% heavyweight US cotton t-shirt in charcoal grey Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26
-  Updated: 2026-06-23T22:41:07Z
+  Updated: 2026-06-28T12:58:07Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -208,14 +208,14 @@
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESGBulletHat.png?v=1776892934
   Price: $35.00 USD
 - [BULLET BALACLAVA](https://store.wesghost.com/products/bullet-balaclava): 100% acrylic braided knit balaclava in red
-  Updated: 2026-06-22T19:29:58Z
+  Updated: 2026-06-29T17:49:48Z
   Vendor: WesGhost
   Product Type: Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESGRedMask.png?v=1776892934
   Price: $45.00 USD
 - [GHOST STICKER - RED](https://store.wesghost.com/products/ghost-sticker-red): 3" tall die-cut sticker
-  Updated: 2026-06-21T07:27:26Z
+  Updated: 2026-06-26T21:35:37Z
   Vendor: WesGhost
   Product Type: Sticker
   Availability: Available
@@ -235,13 +235,13 @@
   Updated: 2026-04-14T21:03:14Z
   Total Products: 4
 - [Apparel](https://store.wesghost.com/collections/apparel)
-  Updated: 2026-06-23T11:20:35Z
+  Updated: 2026-06-29T11:16:21Z
   Total Products: 16
 - [Accessories](https://store.wesghost.com/collections/accessories)
-  Updated: 2026-06-23T11:20:35Z
+  Updated: 2026-06-30T11:18:43Z
   Total Products: 18
 - [All](https://store.wesghost.com/collections/all)
-  Updated: 2026-06-23T11:20:35Z
+  Updated: 2026-06-30T11:18:43Z
   Total Products: 39
 - [Don't Worry, I'll Be Fine Tour Merch](https://store.wesghost.com/collections/dont-worry-ill-be-fine-tour-merch)
   Updated: 2026-06-06T15:51:41Z
@@ -256,19 +256,19 @@
   Updated: 2026-06-22T11:16:36Z
   Total Products: 4
 - [Am I Dreaming? Collection](https://store.wesghost.com/collections/am-i-dreaming-collection)
-  Updated: 2026-06-22T11:16:36Z
+  Updated: 2026-06-26T15:53:00Z
   Total Products: 7
 - [2025 Tour](https://store.wesghost.com/collections/2025-tour)
-  Updated: 2026-06-22T11:16:36Z
+  Updated: 2026-06-27T11:16:31Z
   Total Products: 9
 - [Chokehold](https://store.wesghost.com/collections/chokehold)
   Updated: 2026-06-22T11:16:36Z
   Total Products: 4
 - [2026 Tour](https://store.wesghost.com/collections/2026-tour)
-  Updated: 2026-06-23T11:20:35Z
+  Updated: 2026-06-30T11:18:43Z
   Total Products: 6
 - [GHOSTCORE.](https://store.wesghost.com/collections/ghostcore)
-  Updated: 2026-06-23T11:20:35Z
+  Updated: 2026-06-30T11:18:43Z
   Total Products: 7
 
 ## Store Pages
