@@ -6,19 +6,19 @@
 - Timezone: Europe/Rome
 - Created At: 2026-05-26T16:18:09Z
 - Contact Email: support@piuma.online
-- Updated At: 2026-06-16T10:32:28.673Z
+- Updated At: 2026-07-01T00:00:41.486Z
 
 ## Products
 
 - [Brass Wind Chime – Outdoor Decor & Doorbell | PIUMA HOME](https://www.piuma.online/products/charming-brass-wind-chime): Add charm to your home with our Brass Wind Chime. Elegant outdoor decor piece that doubles as a doorbell. Shop home accents at PIUMA HOME.
-  Updated: 2026-06-12T16:58:36Z
+  Updated: 2026-06-21T23:14:36Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/3_058a98ca-3cd0-4280-a502-b916f3c0f53c.webp?v=1779812503
   Price: €18.95 EUR
 - [360° Rotating Spice Rack Organizer – Kitchen Storage | PIUMA HOME](https://www.piuma.online/products/360-degree-spice-organizer): Keep your kitchen tidy with our 360° rotating spice organizer. Smart storage solution for seasonings & condiments. Shop kitchen tools at PIUMA HOME.
-  Updated: 2026-06-13T23:55:32Z
+  Updated: 2026-06-21T23:24:36Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -33,7 +33,7 @@
     Availability: Available
     Price: €25.95 EUR
 - [3D Bubble Silicone Candle Mold – DIY Crafts | PIUMA HOME](https://www.piuma.online/products/bubble-bliss-candle-mold): Create stunning candles with our 3D bubble silicone molds. Perfect for candle making, resin & clay crafts. Shop DIY accessories at PIUMA HOME.
-  Updated: 2026-06-12T16:58:35Z
+  Updated: 2026-06-21T23:25:06Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -45,14 +45,14 @@
     Availability: Available
     Price: €19.95 EUR
 - [Self-Wringing Spin Mop & Bucket Set – Smart Cleaning | PIUMA HOME](https://www.piuma.online/products/magic-spin-mop-set): Clean smarter with our 2-in-1 spin mop & self-wringing bucket. Dual-chamber design for washing & drying. Shop cleaning tools at PIUMA HOME.
-  Updated: 2026-06-13T23:55:47Z
+  Updated: 2026-06-19T17:13:04Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/main-image-1_ae0475bf-c71a-4f0b-9b3c-bf5713f6b89c.webp?v=1779812502
   Price: €53.95 EUR
 - [Intelligent Food Dehydrator – Fruit & Vegetable Dryer | PIUMA HOME](https://www.piuma.online/products/thermosafe-food-dehydrator): Preserve fruits, veggies & meats with our thermostatic food dehydrator. Smart kitchen appliance for healthy living. Shop at PIUMA HOME.
-  Updated: 2026-06-13T23:57:55Z
+  Updated: 2026-06-21T23:29:16Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -69,27 +69,15 @@
   - [White / 220V](https://www.piuma.online/products/thermosafe-food-dehydrator?variant=59749642961230)
     Availability: Available
     Price: €82.95 EUR
-- [Stainless Steel Pull-Out Kitchen Faucet – Hot & Cold | PIUMA HOME](https://www.piuma.online/products/stainless-steel-pull-out-faucet): Upgrade your kitchen sink with our lightweight pull-out faucet. Hot & cold water control with modern design. Shop kitchen fixtures at PIUMA HOME.
-  Updated: 2026-06-12T16:58:34Z
-  Vendor: StorePilot
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/1_db0db8ff-81d9-4130-a5f7-6c89fc9e377b.webp?v=1779812502
-  - [Silver](https://www.piuma.online/products/stainless-steel-pull-out-faucet?variant=59749642993998)
-    Availability: Available
-    Price: €18.95 EUR
-  - [Black](https://www.piuma.online/products/stainless-steel-pull-out-faucet?variant=59749643026766)
-    Availability: Available
-    Price: €18.95 EUR
 - [LED Sunset Projector Lamp – Mood Light for Home Decor | PIUMA HOME](https://www.piuma.online/products/sunset-glow-projector-lamp): Transform any room with our LED sunset projector lamp. Perfect mood lighting for bedroom, living room & photography. Shop at PIUMA HOME.
-  Updated: 2026-06-13T23:55:19Z
+  Updated: 2026-06-21T23:28:37Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/1_6bd48d6c-9167-4d94-9adf-fc4f1ffc3d40.webp?v=1779812502
   Price: €29.95 EUR
 - [Mini Beauty Fridge 4L – Skincare & Makeup Refrigerator | PIUMA HOME](https://www.piuma.online/products/chic-mini-beauty-fridge): Keep skincare & makeup fresh with our 4L mini mirror beauty fridge. Compact & stylish refrigerator for your vanity. Shop at PIUMA HOME.
-  Updated: 2026-06-13T23:58:11Z
+  Updated: 2026-06-19T17:13:03Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -101,14 +89,14 @@
     Availability: Available
     Price: €87.95 EUR
 - [Petal Waves Ceramic Vase – Elegant Home Decor | PIUMA HOME](https://www.piuma.online/products/petal-waves-porcelain-vase): Add elegance with our geometric petal-shaped porcelain vase. Perfect decorative accent for living rooms & shelves. Shop vases at PIUMA HOME.
-  Updated: 2026-06-14T00:11:20Z
+  Updated: 2026-06-21T23:28:06Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/1_578ad18d-81e4-4279-bb20-664b1a56dd94.webp?v=1779812502
   Price: €61.95 EUR
 - [Diamond Pattern Decorative Vase – Modern Home Accent | PIUMA HOME](https://www.piuma.online/products/diamond-pattern-faux-ceramic-vase): Style your space with our diamond pattern faux ceramic vase. Ideal for fresh or artificial flowers. Shop home decor at PIUMA HOME.
-  Updated: 2026-06-12T16:58:31Z
+  Updated: 2026-06-21T23:29:11Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -123,7 +111,7 @@
     Availability: Available
     Price: €19.95 EUR
 - [Mini Ceramic Balloon Dog Statue – Cute Home Decor | PIUMA HOME](https://www.piuma.online/products/mini-ceramic-balloon-dog-statue): Add a playful touch to your home with our mini ceramic balloon dog statue. Charming decorative accent for shelves & desks. Shop at PIUMA HOME.
-  Updated: 2026-06-12T16:58:31Z
+  Updated: 2026-06-21T23:28:06Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -153,14 +141,14 @@
     Availability: Available
     Price: €28.95 EUR
 - [Glass Spice Rack Organizer Set – Kitchen Storage | PIUMA HOME](https://www.piuma.online/products/glass-spice-rack-organizer-set): Organize your kitchen with our elegant glass spice rack set. Stylish & practical storage for seasonings & condiments. Shop kitchen tools at PIUMA HOME.
-  Updated: 2026-06-12T16:58:30Z
+  Updated: 2026-06-21T23:25:07Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/main-image-2_c93d2d50-eadc-4669-b26a-2c6392c62589.webp?v=1779812502
   Price: €29.95 EUR
 - [Cherry Blossom LED Bonsai Tree – Decorative Light | PIUMA HOME](https://www.piuma.online/products/cherry-blossom-led-bonsai-tree): Bring nature indoors with our cherry blossom LED bonsai tree light. Stunning decorative lamp for home & office. Shop lighting decor at PIUMA HOME.
-  Updated: 2026-06-13T23:58:30Z
+  Updated: 2026-06-21T23:27:26Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -175,14 +163,14 @@
     Availability: Available
     Price: €32.95 EUR
 - [LED Atmosphere Tree Light – Mood Lighting Decor | PIUMA HOME](https://www.piuma.online/products/led-atmosphere-tree-light): Create a magical ambiance with our LED atmosphere tree light. Perfect mood lighting for bedroom & living room decor. Shop at PIUMA HOME.
-  Updated: 2026-06-12T16:58:29Z
+  Updated: 2026-06-21T23:28:06Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/1_db157628-140f-4511-9385-26a20f35bf1f.webp?v=1779812502
   Price: €30.95 EUR
 - [Xiaomi Robo-Clean Mini Vacuum – Smart Home Cleaner | PIUMA HOME](https://www.piuma.online/products/xiaomi-robo-clean-mini-vacuum): Keep your home spotless with the Xiaomi Robo-Clean mini vacuum. Smart compact cleaner for floors & surfaces. Shop smart home gadgets at PIUMA HOME.
-  Updated: 2026-06-12T16:58:29Z
+  Updated: 2026-06-19T17:13:07Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -194,7 +182,7 @@
     Availability: Available
     Price: €38.95 EUR
 - [Chic Boho Ceramic Vases Set – Bohemian Home Decor | PIUMA HOME](https://www.piuma.online/products/chic-boho-ceramic-vases-set): Style your space with our chic boho ceramic vases set. Bohemian-inspired decorative pieces for shelves & tables. Shop vases at PIUMA HOME.
-  Updated: 2026-06-14T00:11:36Z
+  Updated: 2026-06-21T23:25:06Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -206,14 +194,14 @@
     Availability: Available
     Price: €62.95 EUR
 - [Smart Nutrition Kitchen Scale – Food Weight & Health Tracker | PIUMA HOME](https://www.piuma.online/products/smart-nutrition-kitchen-scale): Track nutrition & weigh food precisely with our smart kitchen scale. Connects to app for health monitoring. Shop smart kitchen gadgets at PIUMA HOME.
-  Updated: 2026-06-13T23:58:44Z
+  Updated: 2026-06-19T17:13:06Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/main-image-2_bbda594d-d6c1-4d96-9c53-2169b9e87273_cropped.webp?v=1779812502
   Price: €62.95 EUR
 - [DIY Moon Light Night Kit – Creative Home Decor | PIUMA HOME](https://www.piuma.online/products/diy-moon-light-night-kit): Create your own moon lamp with our DIY moon light night kit. Perfect creative gift & unique home decor piece. Shop at PIUMA HOME.
-  Updated: 2026-06-12T16:58:28Z
+  Updated: 2026-06-21T23:28:03Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -228,7 +216,7 @@
     Availability: Available
     Price: €22.95 EUR
 - [12-Piece Silicone Kitchen Tools Set — Professional Non-Stick Utensils](https://www.piuma.online/products/silicone-kitchen-tools-set): 12 Professional Kitchen Tools. Zero Compromises.The PIUMA Home Silicone Kitchen Tools Set is the complete cooking arsenal every kitchen needs. Crafted from premium food-grade silicone with heat-resistant handles, this 12-piece set replaces every substandard utensil in your kitchen and upgrades your cooking experience from the very first use.What's In the SetSpatulas · Ladles · Spoons · Tongs · Whisks · Brushes — everything you need for daily cooking, baking, and meal prep, beautifully matched and colour-coordinated.Why It's Different 🔥 Heat resistant to 230°C / 446°F — safe for non-stick, ceramic, and stainless steel cookware 🍳 Non-scratch soft silicone heads — protects your pans while delivering perfect results 💪 Sturdy stainless steel core — flexible enough for delicate work, strong enough for heavy mixing 🧼 Dishwasher safe — quick and effortless to clean ✅ Food-grade BPA-free silicone — completely safe for the whole family 🎨 5 colour options — Pink, Mink, Khaki, Brown, and Black to suit your kitchen style Perfect ForDaily cooking · Baking · Meal prep · New kitchen setup · Gifting to food loversFree shipping over €60 · 30-day returns · Worldwide delivery · PIUMA Home
-  Updated: 2026-06-14T00:12:08Z
+  Updated: 2026-06-21T23:29:16Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -249,7 +237,7 @@
     Availability: Available
     Price: €40.95 EUR
 - [360° Rotating Food Dispenser — Airtight Pantry Storage System](https://www.piuma.online/products/360-rotating-food-dispenser): Organize Your Kitchen. Reclaim Your Space.The PIUMA Home 360° Rotating Food Dispenser is the elegant solution to a cluttered pantry. Designed to keep rice, grains, cereals, and dry foods perfectly sealed and beautifully organised — this premium rotating storage system combines airtight freshness with effortless access.Why It's a Kitchen Essential 🔄 Full 360° rotation — smoothly spin to dispense exactly what you need, every time 🔒 Airtight seal lid — locks in freshness and extends shelf life for rice, flour, oats, and more 📐 Space-saving design — maximises countertop or pantry shelf space efficiently 🌾 Large capacity — stores ample quantities for family cooking needs 🧼 Easy to clean — smooth surfaces wipe down effortlessly 🎨 3 premium colour combinations — Green/Gold, Grey/Gold, White/Gold — all designed to look stunning in any kitchen Perfect For StoringRice · Flour · Oats · Cereals · Pasta · Lentils · Seeds · Coffee beansFree shipping over €60 · 30-day returns · Worldwide delivery · PIUMA Home
-  Updated: 2026-06-14T00:12:24Z
+  Updated: 2026-06-21T23:28:34Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -264,39 +252,14 @@
     Availability: Available
     Price: €76.95 EUR
 - [TouchGlow LED Lamp](https://www.piuma.online/products/touchglow-led-lamp): The LED table lamp features a touch sensor design, allowing you to operate it conveniently without touching the lamp itself. This modern-style table lamp is rechargeable and wireless, offering flexibility and convenience. With its LED bulbs, this lamp provides a soft, warm light perfect for reading, working, or relaxing. The table lamp consumes only 0-5W power, making it an energy-efficient choice for your home or office. Constructed from aluminum and alloy, this lamp is durable and long-lasting, ensuring you get the most out of your purchase. The lamp is ROHS-, guaranteeing it meets high safety and quality standards. 3-level brightness button dimmer, allowing you to easily change the brightness by lightly pressing the lamp, reflecting the perfect fusion of modern and chic charm; this lively lamp maintains the perfect aspect of the building And achieves a fusion of affordable and durable decoration, a perfect example of flawless artistry and space design. This perfect Table lamp will easily update your space; with its built-in battery, you The lights can be placed anywhere, in bedrooms, study rooms, offices, living rooms, dining rooms, bars, cafes, hotel rooms, etc. 360-degree lighting, aluminum alloy body, scratch-resistant and durable, environmentally friendly and low energy consumption, anti-skid design of the base, smooth and slender metal arm with matte shadow to make it look stylish, use this desk lamp Light up your workspace.
-  Updated: 2026-06-12T16:58:26Z
+  Updated: 2026-06-19T17:13:07Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/1_f0fd7b2a-2629-421e-8d32-ae8120ad3f07.webp?v=1779812502
   Price: €34.95 EUR
-- [Bamboo Matcha Whisk (Chasen) — Authentic Japanese Tea Ceremony Tool](https://www.piuma.online/products/bamboo-matcha-whisk-tool): Japan in a Cup. Every Single Morning.The PIUMA Home Bamboo Matcha Whisk Tool is an authentic Japanese chasen — handcrafted from a single piece of premium bamboo, just as it has been for centuries. If you take your matcha seriously, this is the tool that makes the difference between a flat, grainy cup and a beautifully smooth, frothy ceremonial-grade experience.Why Matcha Lovers Swear By It 🍵 Authentic Japanese craftsmanship — made using traditional techniques passed down through generations of tea artisans 🌿 Single-piece bamboo construction — natural, sustainable, and perfectly balanced in the hand ☁️ Creates perfect micro-foam — the fine tines whisk matcha into a silky smooth, beautifully frothy consistency 🔄 Prevents clumping — properly emulsifies matcha powder for a uniform, rich flavour in every sip 🧘 Part of your ritual — the act of whisking becomes a mindful, meditative moment in itself 🎁 Beautiful gift for tea lovers — elegant, meaningful, and truly useful How to UseSoak the whisk in warm water for 2 minutes before use. Add sifted matcha to your bowl, add hot water (not boiling — 80°C / 175°F), and whisk in a fast W or M motion until frothy.Free shipping over €60 · 30-day returns · Worldwide delivery · PIUMA Home
-  Updated: 2026-06-14T00:12:41Z
-  Vendor: StorePilot
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/1_722f9218-a56e-4622-9765-afde97a676ed.webp?v=1779812502
-  Price: €21.95 EUR
-- [Silicone Baking Spatula](https://www.piuma.online/products/silicone-baking-spatula): Elevate your culinary creations with our Food Grade Silicone Spatula, expertly designed for seamless mixing, spreading, and scraping. Durable, heat-resistant, and easy to clean, this essential kitchen tool ensures you achieve perfect results every time, making baking and cooking a delightful experience!
-  Updated: 2026-06-12T16:58:25Z
-  Vendor: StorePilot
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S49373f4309ac4ff19d3403c1b2f41dbbh.webp?v=1779812503
-  - [Red / Big](https://www.piuma.online/products/silicone-baking-spatula?variant=59749644632398)
-    Availability: Available
-    Price: €19.95 EUR
-  - [Red / Small](https://www.piuma.online/products/silicone-baking-spatula?variant=59749644665166)
-    Availability: Available
-    Price: €19.95 EUR
-  - [Black / Big](https://www.piuma.online/products/silicone-baking-spatula?variant=59749644697934)
-    Availability: Available
-    Price: €19.95 EUR
-  - [Black / Small](https://www.piuma.online/products/silicone-baking-spatula?variant=59749644730702)
-    Availability: Available
-    Price: €19.95 EUR
 - [Home Popcorn Wonder](https://www.piuma.online/products/home-popcorn-wonder): User-Friendly Design: Our hot air popcorn maker is a miracle of convenience. Simply pour in the kernels, plug in the machine, hit the start button, and watch as the popcorn automatically pops to perfection! Quick Snack Prep: Enjoy freshly popped popcorn in under 3 minutes with minimal unpopped kernels. Just remember to give your fast popping maker a 5-minute cooldown between batches for the best results every time. High Popping Rate: Experience an impressive popping rate of 80%-90% with our fully automatic popcorn machine, leaving behind only a few unpopped kernels. Tip: Use fresh, dry kernels to guarantee that sky-high pop rate!Sentence 4. Healthy & Tasty: Say goodbye to oil and preservatives. Our electric air popper delivers deliciously healthy snacks by popping pure popcorn kernels, giving you the taste you love without the guilt.Sentence 5. Durable Construction: Crafted from high-quality food-grade plastics and metal components, this mini popcorn machine is built to last for years, making it the perfect addition to your home snack-making arsenal. Skip the market and pop your own delectable popcorn at home!
-  Updated: 2026-06-12T16:58:25Z
+  Updated: 2026-06-21T23:29:16Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -314,7 +277,7 @@
     Availability: Available
     Price: €50.95 EUR
 - [Compact Hand-Crank Food Chopper](https://www.piuma.online/products/compact-hand-crank-food-chopper): This manual vegetable chopper is perfect for quickly and efficiently mincing garlic, onions, and other ingredients. The hand-cranked mechanism and compact size make it easy to use and store, while the durable construction ensures long-lasting performance. A must-have for any home chef looking to save time and effort in the kitchen. Volume of the chopper is 250ml
-  Updated: 2026-06-12T16:58:24Z
+  Updated: 2026-06-21T23:21:07Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -325,23 +288,8 @@
   - [Green](https://www.piuma.online/products/compact-hand-crank-food-chopper?variant=59749644599630)
     Availability: Available
     Price: €22.95 EUR
-- [Pop-up Toothpick Holder](https://www.piuma.online/products/pop-up-toothpick-holder): The Creative Toothpick Storage Box is an innovative and practical solution for keeping toothpicks organized and easily accessible. This automatic pop-up toothpick holder features a push-type design, allowing users to dispense one toothpick at a time, which helps maintain hygiene by minimizing contact with the remaining toothpicks. Its stylish appearance makes it suitable for various settings, including home living rooms and dining rooms. Made from durable materials, this toothpick holder not only serves a functional purpose but also adds a decorative touch to your table or kitchen counter, making it an excellent addition to your dining accessories.
-  Updated: 2026-06-12T16:58:24Z
-  Vendor: StorePilot
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/1_797f0bb0-f32f-4026-bca2-acff6a49ead0.webp?v=1779812502
-  - [Face](https://www.piuma.online/products/pop-up-toothpick-holder?variant=59749644468558)
-    Availability: Available
-    Price: €18.95 EUR
-  - [Eyes](https://www.piuma.online/products/pop-up-toothpick-holder?variant=59749644501326)
-    Availability: Available
-    Price: €18.95 EUR
-  - [Pink Tie](https://www.piuma.online/products/pop-up-toothpick-holder?variant=59749644534094)
-    Availability: Available
-    Price: €18.95 EUR
 - [Sliding Cabinet Storage Rack](https://www.piuma.online/products/sliding-cabinet-storage-rack): Perfect fits under sink, Cabinet, kitchen, bathroom, food pantries, offices, and other places. It can be used for bathroom toiletry storage, kitchen spice racks, office supplies shelves, etc. Modern and stylish minimalist design can be integrated into most household styles perfectly. Drawers slide out effortlessly and carry supplies where you need them. This under-sink organizer is designed with a double layer, maximizing the use of vertical space. It has 4 side hooks for hanging small items, effectively using the limited space. Universal dimensions: This is suitable for most under-sink cabinets, effectively using the space under the sink to store cleaning supplies and making your items well organized and stored orderly. Say goodbye to the cluttered space. The baskets are made of high-quality ABS plastic materials, 4 support tubes adopt spray painting and thickening wrought iron body, good rust prevention, and supporting heavy.
-  Updated: 2026-06-12T16:58:24Z
+  Updated: 2026-06-21T23:29:16Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -353,14 +301,14 @@
     Availability: Available
     Price: €45.95 EUR
 - [Mini Electric Cooking Pot](https://www.piuma.online/products/mini-electric-cooking-pot): Electric heating/hot pot function: steaming, frying, frying, frying, boiling, stewing, braising, hot pot Additional functions: temperature adjustment, anti-dry function The Multi-function Mini Cookers are designed for electric cooking and boiling, perfect for dormitories or small households.
-  Updated: 2026-06-12T16:58:23Z
+  Updated: 2026-06-21T23:21:08Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H6c3d8080d8cb401bae8b7db22076e8d9P.webp?v=1779812502
   Price: €60.95 EUR
-- [Modern LED Wall Sconce — Minimalist Ambient Light for Bedroom & Living Room](https://www.piuma.online/products/modern-led-wall-sconce): The Perfect Companion for Your Morning RitualThe PIUMA Home Modern LED Wall Sconce is the lighting upgrade your home has been waiting for. Sleek, minimal, and powerfully atmospheric — this wall-mounted LED lamp adds architectural elegance to any bedroom, hallway, living room, or reading nook.Why Interior Designers Love It 💡 3 colour temperature options — Tricolor (warm/natural/cool), Warm White, or Cool White to perfectly match your mood and setting 🖤 Two finish choices — Matte Black or Brushed Gold — both exquisitely crafted for maximum visual impact 📐 Minimalist long-profile design — clean, architectural lines that make a bold statement without overwhelming a space 🔆 Uniform, glare-free illumination — comfortable lighting that enhances without harshness ⚡ Energy-efficient LED — long lifespan, low running cost, no bulb replacements 🔧 Wall-mounted installation — neat, professional finish that looks built-in Perfect ForBedside reading light · Hallway feature light · Living room accent · Bathroom vanity lighting · Office ambient lightVariants AvailableTricolor/Black · Tricolor/Gold · Warm/Black · Warm/Gold · Cool/BlackFree shipping over €60 · 30-day returns · Worldwide delivery · PIUMA Home
-  Updated: 2026-06-14T00:11:52Z
+- [Modern LED Wall Sconce | Luxury Ambient Lighting | PIUMA HOME](https://www.piuma.online/products/modern-led-wall-sconce): Elevate your walls with PIUMA HOME's minimalist LED sconce. Premium ambient lighting for bedroom and living room. Free worldwide shipping.
+  Updated: 2026-06-21T23:29:16Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
@@ -384,176 +332,14 @@
     Availability: Available
     Price: €91.95 EUR
 - [Double Layer Egg Boiler](https://www.piuma.online/products/double-layer-egg-boiler): Single and double layer free combination 360°Steaming Rapid cooking machine The Electric Egg Cooker is a multifunctional appliance that can steam eggs, corn, and milk quickly and efficiently.Sentence 4. With double layers for cooking multiple items at once, this egg boiler is perfect for busy mornings
-  Updated: 2026-06-12T16:58:22Z
+  Updated: 2026-06-19T17:13:03Z
   Vendor: StorePilot
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/ezgif-5-651ba530fe_1_782f53fe-749e-41e4-aee3-c5b335deea28_1.webp?v=1779812502
   Price: €33.95 EUR
-- [New Large 4/10/12/26 Slots Diamond Painting Storage Box Nail Art Jewelry Mosaic Storage Container, Multifunctional Storage Case](https://www.piuma.online/products/new-large-4-10-12-26-slots-diamond-painting-storage-box-nail-art-jewelry-mosaic-storage-container-multifunctional-storage-case): SPECIFICATIONSBrand Name: NONEDIY Craft Storage Type: Mosaic StorageHigh-concerned chemical: NoneMaterial: PlasticModel Number: AMG198Origin: Mainland ChinaStorage Style: Storage Boxes
-  Updated: 2026-06-12T16:58:22Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S8cc5de2425864067836035879f493a94f.webp?v=1779871595
-  - [Large 4 Grids / United States](https://www.piuma.online/products/new-large-4-10-12-26-slots-diamond-painting-storage-box-nail-art-jewelry-mosaic-storage-container-multifunctional-storage-case?variant=59752104886606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S0635964170b345f6b28574af4dcce947j.webp?v=1779871595
-    Price: €17.39 EUR
-  - [Large 10 Grids / United States](https://www.piuma.online/products/new-large-4-10-12-26-slots-diamond-painting-storage-box-nail-art-jewelry-mosaic-storage-container-multifunctional-storage-case?variant=59752104919374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S04d44b2751cc431497b02d7364f3fcafv.webp?v=1779871595
-    Price: €17.39 EUR
-  - [Large 12 Grids / United States](https://www.piuma.online/products/new-large-4-10-12-26-slots-diamond-painting-storage-box-nail-art-jewelry-mosaic-storage-container-multifunctional-storage-case?variant=59752104952142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S8cc5de2425864067836035879f493a94f.webp?v=1779871595
-    Price: €17.39 EUR
-  - [Large 26 Grids / United States](https://www.piuma.online/products/new-large-4-10-12-26-slots-diamond-painting-storage-box-nail-art-jewelry-mosaic-storage-container-multifunctional-storage-case?variant=59752104984910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sd0cdc48648964881a6935a6f6f097e36A.webp?v=1779871596
-    Price: €16.96 EUR
-- [3.5L Extra Large Portable Thermal Lunch Box, 100W Electric Bento Box Heater, Multi-purpose Electric Food Container (Black)](https://www.piuma.online/products/3-5l-extra-large-portable-thermal-lunch-box-100w-electric-bento-box-heater-multi-purpose-electric-food-container-black): SPECIFICATIONSBrand Name: NONEFeature: 304 Stainless SteelFunction: otherHigh-concerned chemical: NoneMaterial: Stainless steelOrigin: Mainland ChinaRequire Food Contact: YesType: Storage Bottles & JarsUse: TABLEWAREUpgraded 3.5L Capacity: The 2.5L large-capacity inner container is made of high-quality 304 stainless steel, plus a 1L high-quality PP food box. This electric lunch box is designed for both men and women, perfectly meeting people’s dining needs! It also comes with a 0.4L plastic compartment for fruits.Warm Tips: Only the stainless steel inner container and tableware are dishwasher safe. Please wipe other accessories with a dry cloth or rinse them with water. Do not immerse the entire  electric lunch box in water.100W Efficient Heating: This portable electric lunch box adopts hot air circulation heating to lock in nutrition and freshness. It normally takes 20–30 minutes to heat up, which is highly efficient and energy-saving. If the food is taken from the refrigerator, the heating time should be extended appropriately.12V/24V/110V Three-Voltage Universal: This electric lunch box for office supports 110V for home/office, 12V for cars and 24V for trucks. The enlarged buckle design increases stress area and solves the common problem of easy breakage on the market! With this electric lunch box, you can enjoy hot meals anytime and anywhere without waiting for takeout or using a microwave! The product comes with an instruction manual.Note: This 100W heating lunch box is not suitable for use by people aged 14 and under without supervision.Please make sure to open the steam vent lid when heating.Ideal for daily use, commuting and travel. This portable electric lunch box is your perfect mealtime companion.
-  Updated: 2026-06-12T16:58:20Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/A208f2886a0cf4dd681d8517a11c0f6ed5.webp?v=1779871597
-  Price: €28.10 EUR
-- [5-Piece Premium Wooden Kitchen Utensils Set, Heat Resistant Corrosion Proof Non-Smell Spoon Spatula Soup Spoon Tableware](https://www.piuma.online/products/5-piece-premium-wooden-kitchen-utensils-set-heat-resistant-corrosion-proof-non-smell-spoon-spatula-soup-spoon-tableware): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneMaterial: WoodOrigin: Mainland ChinaType: Cooking Tool Sets
-  Updated: 2026-06-12T16:58:19Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S08be2ecedeae437e919ee3b7081ed010p.webp?v=1779871597
-  Price: €10.31 EUR
-- [1pc Pull-Out Clothes Storage Rod Adjustable Foldable Metal Hanging Rail for Wardrobes Space-Saving Organizer Drying Racks](https://www.piuma.online/products/1pc-pull-out-clothes-storage-rod-adjustable-foldable-metal-hanging-rail-for-wardrobes-space-saving-organizer-drying-racks): SPECIFICATIONSBrand Name: NONEFeature: otherFunction: otherHigh-concerned chemical: NoneIs Extendable or Not: YesIs Foldable or Not: YesMaterial: Carbon SteelOrigin: Mainland China
-  Updated: 2026-06-12T16:58:18Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Se89b31faec894d4db343771dcc25ac81R.webp?v=1779871598
-  Price: €10.87 EUR
-- [1200ML Lunch Bento Box for Adults Office Worker Picnic LeakProof Lunch Box with Utensils 3 Compartment Bento Box Microwave Safe](https://www.piuma.online/products/1200ml-lunch-bento-box-for-adults-office-worker-picnic-leakproof-lunch-box-with-utensils-3-compartment-bento-box-microwave-safe): SPECIFICATIONSBrand Name: NONEFeature: Eco-Friendly,Microwavable,With Spoons or Chopsticks,Leakproof,Thermal InsulationHigh-concerned chemical: NoneMaterial: PlasticOrigin: Mainland ChinaShape: Rectangle 1200ML Lunch Bento Box for Adults Office Worker Picnic LeakProof Lunch Box with Utensils 3 Compartment Bento Box Microwave Safe Hello! Welcome to our store! Quality is the first with best service. customers all are our friends. Fashion design,100% Brand New, high quality! Product Information: Product name:Lunch Box Product weight:305g Material:pp Notes: Due to manual measurement, there may be an error of 1-2 cm, please understand. The color difference may vary depending on the monitor settings. We provide you with the best products and services. If you have any questions, please let us know and we will solve the problem as soon as possible. thank you very much.
-  Updated: 2026-06-15T03:30:02Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S9d65a25fa19b4abe883c3f5cd0f3ce49N.webp?v=1779871602
-  - [United States / 1pc / 1|3|1200ML](https://www.piuma.online/products/1200ml-lunch-bento-box-for-adults-office-worker-picnic-leakproof-lunch-box-with-utensils-3-compartment-bento-box-microwave-safe?variant=59752106885454)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sfd28ac10ea004d23bf57bac7330abc9cT.webp?v=1779871603
-    Price: €4.35 EUR
-  - [United States / 1pc 1 / 1|3|1200ML](https://www.piuma.online/products/1200ml-lunch-bento-box-for-adults-office-worker-picnic-leakproof-lunch-box-with-utensils-3-compartment-bento-box-microwave-safe?variant=59752106918222)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S2985a7ef9b074d85ac3060b501624b933.webp?v=1779871603
-    Price: €4.35 EUR
-  - [United States / 1pc 2 / 1|3|1200ML](https://www.piuma.online/products/1200ml-lunch-bento-box-for-adults-office-worker-picnic-leakproof-lunch-box-with-utensils-3-compartment-bento-box-microwave-safe?variant=59752106950990)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S06577ffee0944285b2f974714b198399U.webp?v=1779871603
-    Price: €4.48 EUR
-  - [United States / 1pc 3 / 1|3|1200ML](https://www.piuma.online/products/1200ml-lunch-bento-box-for-adults-office-worker-picnic-leakproof-lunch-box-with-utensils-3-compartment-bento-box-microwave-safe?variant=59752106983758)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sd686853e79ac4ff88101983a931e9cf5c.webp?v=1779871603
-    Price: €4.44 EUR
-- [1/6pcs My Pet's Fur Container Cat Hair Storage Box Hanging Cat Keychain Pendant Pet Hair Grooming Souvenirs Bag Hanging Decor](https://www.piuma.online/products/1-6pcs-my-pets-fur-container-cat-hair-storage-box-hanging-cat-keychain-pendant-pet-hair-grooming-souvenirs-bag-hanging-decor): SPECIFICATIONSBrand Name: NONECN: ZhejiangChoice: yesFrame Material: NoneFunction: otherHigh-concerned chemical: NoneMaterial: PVCOrigin: Mainland ChinaType: Storage Boxes & BinsUse: Sundriessemi_Choice: yes 1/6pcs Capsule Toys Kawaii Transparent My pet's Fur Container Cat Hair Storage Box Hanging Cat Keychain Pendant Pet Hair Grooming Souvenirs Bag Hanging Decor Features: 1. Small and cute: This capsule toy design is full of Japanese kawaii style, with bright colors and high transparency. It is very attractive. It is very small and cute whether it is placed on a bag or as a key chain. 2. Compact and convenient: Capsule toys are suitable in size and easy to carry. Can be hung on a bag, key chain or decorations, will not take up too much space. 3. Can store Pet Hair: The highlight of this capsule toy is that it can store pet hair, so that your pet can feel the company of your pet no matter where you are. 4. Pet beauty care: This capsule toy can not only store pet hair, but also help users to do simple beauty care for pets when going out, keeping pets clean and hygienic. 5. Unique souvenirs: In the storage space stored in the transparent capsule, you can put some small souvenirs, such as precious photos, jewelry, etc., which is also a good souvenir choice. Specification: Material: PVC Size: As shown Color: As shown Package Includes: 1/6pcs Storage Box Note: 1. Please note that the photo does not show actual size, please refer to Description for size details. 2. Please allow differences due to manual measurement, thanks. 3. Due to the difference between different monitors, the image may not reflect the actual color of the item.
-  Updated: 2026-06-16T03:30:37Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sae2daf0e394e44fbb5cbabea9e942bd0o.webp?v=1779871604
-  - [A1](https://www.piuma.online/products/1-6pcs-my-pets-fur-container-cat-hair-storage-box-hanging-cat-keychain-pendant-pet-hair-grooming-souvenirs-bag-hanging-decor?variant=59752107802958)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sb49a802d137f4026b47c97b12aae925dy.webp?v=1779871603
-    Price: €1.92 EUR
-  - [A2](https://www.piuma.online/products/1-6pcs-my-pets-fur-container-cat-hair-storage-box-hanging-cat-keychain-pendant-pet-hair-grooming-souvenirs-bag-hanging-decor?variant=59752107835726)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S0c996695f01844c5a7cb221711d7717dl.webp?v=1779871604
-    Price: €1.95 EUR
-  - [6pcs](https://www.piuma.online/products/1-6pcs-my-pets-fur-container-cat-hair-storage-box-hanging-cat-keychain-pendant-pet-hair-grooming-souvenirs-bag-hanging-decor?variant=59752107868494)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S8947b3d2d46a4e7e96fd720355f6a96cR.webp?v=1779871604
-    Price: €4.97 EUR
-  - [A5](https://www.piuma.online/products/1-6pcs-my-pets-fur-container-cat-hair-storage-box-hanging-cat-keychain-pendant-pet-hair-grooming-souvenirs-bag-hanging-decor?variant=59752107901262)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S7a902e6d69e147cf9acd44365a423abeg.webp?v=1779871603
-    Price: €1.98 EUR
-  - [A6](https://www.piuma.online/products/1-6pcs-my-pets-fur-container-cat-hair-storage-box-hanging-cat-keychain-pendant-pet-hair-grooming-souvenirs-bag-hanging-decor?variant=59752107934030)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sdb93b627099e448d8befe113b376fe09s.webp?v=1779871603
-    Price: €1.89 EUR
-  - [A3](https://www.piuma.online/products/1-6pcs-my-pets-fur-container-cat-hair-storage-box-hanging-cat-keychain-pendant-pet-hair-grooming-souvenirs-bag-hanging-decor?variant=59752107966798)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S3f8c0dd9be394528bb192ea82ab699d2b.webp?v=1779871603
-    Price: €1.91 EUR
-  - [A4](https://www.piuma.online/products/1-6pcs-my-pets-fur-container-cat-hair-storage-box-hanging-cat-keychain-pendant-pet-hair-grooming-souvenirs-bag-hanging-decor?variant=59752107999566)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S7be732d7ac0f40f1bfb067baedfd4030e.webp?v=1779871604
-    Price: €1.86 EUR
-- [100/50/20 PCS Disposable Pastry Bags Cake Cream Decoration Kitchen Icing Food Preparation Bags Cup Cake Piping Tools For Baking](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking): SPECIFICATIONSBrand Name: NONEFeature: Disposable,Stocked,Eco-FriendlyHigh-concerned chemical: NoneModel Number: CU-XZIONNOrigin: Mainland Chinabaking accessories: cake toolsbaking tools: reposteriakitchen accessories: baking tools for cakeskitchen gadgets: cake decoration accessorieskitchen tools: cake decorating toolstaart decoratie: reposteria y pasteleria accesoriosutensilios de reposteria y pasteleria: herramientas de cocina y gadgets 100/50/20 PCS Disposable Pastry Bags Cake Cream Decoration Kitchen Icing Food Preparation Bags Cup Cake Piping Tools For Baking Feature: 1. Strong, disposable bags 2. Can be used with or without nozzles 3. Simply cut the end of the bag to its desired size 4. It is made of PE, please feel comfortable and safe to use 5. Perfect for decorating cakes;In wide range of use: cake/bakery/party/hotel Use: (1) candy packaging, gift bags, etc (2) can be used for baking cupcake decoration tools Specifications: Product Name: Disposable Pastry Cream Bag Material:Food Grade PE Plastic Quantity: 20/50/100 PCS Color:Transparent Size: As pictures show
-  Updated: 2026-06-12T16:58:13Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Se2b4346e4f614f99adad6a89086fcae6f.webp?v=1780089786
-  - [100pcs M / United States](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking?variant=59766492823886)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S9707cd569c98415699202de7c22af744s.webp?v=1780089786
-    Price: €28.88 EUR
-  - [50pcs L / United States](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking?variant=59766492856654)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S46b15d799ba64476bcece15ed1e8e185l.webp?v=1780089787
-    Price: €28.88 EUR
-  - [20pcs S / United States](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking?variant=59766492889422)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S848919fb8c974d5489a78d0aea4bf7e31.webp?v=1780089786
-    Price: €28.88 EUR
-  - [20pcs M / United States](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking?variant=59766492922190)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S9707cd569c98415699202de7c22af744s.webp?v=1780089786
-    Price: €28.88 EUR
-  - [20pcs L / United States](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking?variant=59766492954958)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S46b15d799ba64476bcece15ed1e8e185l.webp?v=1780089787
-    Price: €28.88 EUR
-  - [50pcs S / United States](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking?variant=59766492987726)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S848919fb8c974d5489a78d0aea4bf7e31.webp?v=1780089786
-    Price: €28.88 EUR
-  - [50pcs M / United States](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking?variant=59766493020494)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S9707cd569c98415699202de7c22af744s.webp?v=1780089786
-    Price: €28.88 EUR
-  - [100pcs L / United States](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking?variant=59766493053262)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S46b15d799ba64476bcece15ed1e8e185l.webp?v=1780089787
-    Price: €28.88 EUR
-  - [100pcs S / United States](https://www.piuma.online/products/100-50-20-pcs-disposable-pastry-bags-cake-cream-decoration-kitchen-icing-food-preparation-bags-cup-cake-piping-tools-for-baking?variant=59766493086030)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S848919fb8c974d5489a78d0aea4bf7e31.webp?v=1780089786
-    Price: €28.88 EUR
-- [Garlic Press and Mincer, Heavy Duty Stainless Steel with Soft Handle, Effortless Garlic Crusher for Minced Garlic and Paste](https://www.piuma.online/products/garlic-press-and-mincer-heavy-duty-stainless-steel-with-soft-handle-effortless-garlic-crusher-for-minced-garlic-and-paste): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-06-12T16:58:12Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S76e6e764fb024fbbb9340e9f07760428U.webp?v=1780089786
-  Price: €0.50 EUR
-- [1PC Wardrobe Storage Organizer – Pants, Sweater & T-Shirt Drawer Box, Cabinet Clothes Organizer](https://www.piuma.online/products/1pc-wardrobe-storage-organizer-pants-sweater-t-shirt-drawer-box-cabinet-clothes-organizer): SPECIFICATIONSBrand Name: SHFYHigh-concerned chemical: NoneMaterial: POLYESTEROrigin: Mainland China Versatile Multi-Compartment Wardrobe Organizer This storage box features adjustable dividers or fixed sections to neatly separate pants, sweaters, t-shirts, jeans, and other folded garments, maximizing drawer or shelf space. Durable Fabric or Plastic Construction Made from sturdy non-woven polyester, canvas, or clear plastic with reinforced edges, ensuring long-lasting shape and support even when fully loaded. Space-Saving Design for Drawers & Cabinets Slim and stackable, it fits neatly into standard dresser drawers, closet shelves, or under-bed storage, helping reduce clutter and improve visibility of clothing items. Easy to Assemble & Portable Often requires no tools—simply unfold and place. Lightweight yet sturdy enough to carry when rearranging or traveling. Ideal for Seasonal Rotation & Small Spaces Perfect for organizing seasonal wear, workout clothes, children’s items, or accessories. A practical solution for apartments, dorm rooms, or shared closets.
-  Updated: 2026-06-12T16:58:10Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sb1f578182a5f4a14a03dad0fcea51a20u.webp?v=1780089788
-  Price: €16.17 EUR
-- [Pet Dog Repeller Anti Barking Stop Bark Training Device Trainer Anti Barking Ultrasonic Without Battery dog](https://www.piuma.online/products/pet-dog-repeller-anti-barking-stop-bark-training-device-trainer-anti-barking-ultrasonic-without-battery-dog): SPECIFICATIONSBattery Included: NoBrand Name: NONEHigh-concerned chemical: NoneIs Smart Device: NoItem Type: RepellentsMaterial: PlasticModel Number: Anti Barking deviceOrigin: Mainland ChinaTarget Pet: DogType: Dogswhether electrical: Yes note: Battery not include!!! Description Easy to Operate,train all Kinds of Dogs such as that are Used as Pets, in Police and for Shepherding. Material:Plastic Color:Yellow Size:130*26*40mm Weight:64g Note: 1.Compare your detail size, please allow 1-3MM to be different due to manual measurements. 2.Please note that due to light and the screen, a slight color difference should be acceptable. Packing:1 pcs Anti Barking Training Device Please pay attention: you need install the 9V battery. also, The following conditions do not drive dogs well: 1. The dog you own, because it knows that the owner will not hurt it; 2. Noisy environment, such as downtown or roadside; 3. Dogs with the owner-dog-dominant; trained large dogs-well-trained; 4. When the battery voltage is too low-the transmit power is low. The above situation will not affect the use of this product, because your own dog, dogs who often shop, dogs with the owner and well-trained dogs will not bite randomly; Note: Do not deliberately tease the dog with the dog drive, because it is not surprising that the dog listens more.
-  Updated: 2026-06-12T16:58:07Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sba98741e0ffb4774a3c0ab921ab144d8R.webp?v=1780089790
-  Price: €27.42 EUR
 - [100cm Luxury White Rose Artificial Flower Row Wedding Table Centerpiece Flowers Backdrop Wall Arches Decor Party Stage Floral](https://www.piuma.online/products/100cm-luxury-white-rose-artificial-flower-row-wedding-table-centerpiece-flowers-backdrop-wall-arches-decor-party-stage-floral): SPECIFICATIONSApplications: Anniversary,Baby Shower,Birthday,Bridal Shower,Got Engaged,Graduate,Housewarming PartyBrand Name: NONECN: Zhejiang,GuangdongClassification: Artificial FlowersFlower Style: Flower StringHigh-concerned chemical: NoneMaterial: PlasticModel Number: FG5126Occasion: WeddingOrigin: Mainland ChinaPurpose: Home DecorationStyle: FlowerType: ROSEUsage scenarios: Outdooris_customized: Yes Luxurious White Rose This 100cm Luxury White Rose is a perfect addition to any wedding decor, adding a touch of elegance and sophistication. Versatile Usage Ideal for wedding table centerpieces, backdrops, wall arches, party stages, and other floral decorations, this rose enhances the aesthetic appeal of any event. Durable Plastic Material Crafted from durable plastic, this rose ensures long-lasting beauty and can withstand various events without losing its charm. Flower String Style The flower string style of this rose adds a unique touch to your decor, making it stand out in any gathering. Brand Quality Produced by a reputable brand, this rose guarantees quality and longevity, ensuring you get the most out of your purchase. Origins Originating from Mainland China, this rose brings with it an authentic touch and superior craftsmanship. Material: plastic + Pearl cotton Size: pattern size 100cm Packaging: 1PC Usage scenarios: Party Wedding Christmas Birthday Party Outdoor Garden Wedding Arch Decoration Note: 1. Due to differences in monitors and lighting during shooting, there may be certain color differences. Please refer to the actual product. 2. Dimensions may vary due to different measurement methods, please refer to the actual product.
-  Updated: 2026-06-12T16:58:07Z
+  Updated: 2026-06-26T14:01:46Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -590,36 +376,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S4dfd5ca45d7446cb815a35795ca4791ax.webp?v=1780089791
     Price: €290.29 EUR
-- [3pcs Stainless Steel Juice & Soya Milk Strainer Sieve Ultra Fine Mesh Oil Grid Fishing Dumplings Household Hotpot Leaky Spoon](https://www.piuma.online/products/3pcs-stainless-steel-juice-soya-milk-strainer-sieve-ultra-fine-mesh-oil-grid-fishing-dumplings-household-hotpot-leaky-spoon): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneMetal Type: STEELOrigin: Mainland ChinaType: Colanders & Strainers • Stainless Steel Material :Crafted from high-quality stainless steel, this juicer strainer is durable, rust-resistant, and perfect for long-term use. • Ultra Fine Mesh :Featuring an ultra-fine mesh design, it effectively separates juice from soy milk, ensuring a smooth and delicious beverage every time. • Versatile Use :This versatile strainer is not just for juicing. It can also be used for fishing dumplings, hotpot, and other dishes, making it a must-have kitchen tool. • Leaky Spoon Design :The unique leaky spoon design allows for easy pouring of juice and soy milk, enhancing the convenience of using this product. • Compact Size :Its compact size makes it easy to store in any kitchen cabinet or drawer, saving space while keeping it within easy reach. • Safe for Household Use :This strainer is safe for household use, ensuring healthy and safe preparation of your favorite beverages and dishes. Features: 1. Stainless steel oil drain micro-fine filter, only separated from the grease and residue, filter out the soup 2. Stainless steel, round arc, no dead angle, no rust, easy to clean. High temperature resistance, can be used directly in rolling oil Specification: Size: 23.5*10.3cm Weight: 85g Material: Stainless steel Colour: silver Package included: Stainless steel oil drain Notice： 1. Due to the difference in display, shooting light and environment there will be some color difference between the actual color andthe picture color, which is normal. 2. Due to manual measurement, the size of the product may have 0.5-1cm difference. 3.lf you have any questions, please contact us first and we will solve it for you.
-  Updated: 2026-06-12T16:58:06Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S3cccf3e633634f9aac6934af8cd66b0eL.webp?v=1780089791
-  Price: €20.18 EUR
-- [Electric Pet Steamer Brush – 3-in-1 Dog & Cat Hair Brush with Massage, Tangle Removal & Spray](https://www.piuma.online/products/electric-pet-steamer-brush-3-in-1-dog-cat-hair-brush-with-massage-tangle-removal-spray): SPECIFICATIONSBrand Name: SHFYHigh-concerned chemical: NoneMaterial: PlasticOrigin: Mainland ChinaType: Dogs 3-in-1 Steam, Massage & Hair Removal Function This electric grooming brush combines gentle steam mist, vibrating massage nodes, and rotating bristles to loosen dead hair, soothe pet skin, and reduce shedding in one easy step. Adjustable Steam Spray for Skin & Coat Care Includes a refillable water tank that releases a fine, warm steam mist to moisturize skin, detangle fur, and enhance brushing effectiveness—especially for thick or curly coats. Soft Rubber Tips & Tangle-Free Rotation Features flexible, rounded silicone bristles that massage the skin while collecting loose hair into a removable trap, preventing pulling or irritation. USB Rechargeable & Portable for Home Use Powered by a built-in lithium battery with USB charging, making it cordless and convenient for grooming sessions anywhere—indoors, outdoors, or during travel. Promotes Bonding & Reduces Allergens Regular use helps minimize airborne pet hair and dander, strengthens the human-pet bond through relaxing grooming, and supports a healthier, shinier coat.
-  Updated: 2026-06-12T16:58:05Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S257be56057c440058edf68f7744f5597W.webp?v=1780089793
-  Price: €9.56 EUR
-- [1 smart toothbrush rack wall mounted 3-slot toothbrush intelligent drying rack, toothpaste dispenser, household daily necessitie](https://www.piuma.online/products/1-smart-toothbrush-rack-wall-mounted-3-slot-toothbrush-intelligent-drying-rack-toothpaste-dispenser-household-daily-necessitie): SPECIFICATIONSBrand Name: NONEHign-concerned Chemical: NoneOrigin: Mainland China
-  Updated: 2026-06-12T16:58:00Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S9538c2ff7a224bcb8a770933b44232903.webp?v=1780089796
-  - [black / United States](https://www.piuma.online/products/1-smart-toothbrush-rack-wall-mounted-3-slot-toothbrush-intelligent-drying-rack-toothpaste-dispenser-household-daily-necessitie?variant=59766500819278)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S9538c2ff7a224bcb8a770933b44232903.webp?v=1780089796
-    Price: €14.04 EUR
-  - [WHITE / United States](https://www.piuma.online/products/1-smart-toothbrush-rack-wall-mounted-3-slot-toothbrush-intelligent-drying-rack-toothpaste-dispenser-household-daily-necessitie?variant=59766500852046)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S94e51338fb6e42b8b7a05b6157fa9dc6z.webp?v=1780089797
-    Price: €13.89 EUR
 - [8-Piece Damascus Steel Kitchen Knife Set — Professional Chef Collection](https://www.piuma.online/products/mdhand-8pcs-kitchen-knife-damascus-stainless-steel-chef-knife-utility-paring-boning-cleaver-slicing-santoku-knives-nylon-bag): Cut Like a Professional Chef — Every Single DayElevate your cooking with the PIUMA Home Damascus Steel Kitchen Knife Set — 8 precision-crafted blades that handle everything from delicate herbs to thick cuts of meat. Forged from high-carbon Damascus stainless steel, these knives combine extraordinary sharpness with lasting durability and stunning visual beauty.What's Included 🔪 Chef's knife — your all-purpose kitchen workhorse 🔪 Utility knife — perfect for mid-size tasks 🔪 Paring knife — precision peeling and trimming 🔪 Boning knife — clean cuts around bones 🔪 Cleaver — heavy-duty chopping power 🔪 Slicing knife — paper-thin, beautiful cuts 🔪 Santoku knife — Japanese-inspired versatility 🎒 Premium nylon carry bag — store and travel in style Why These Knives Stand Apart ⚡ Blade angle >60° — razor-sharp edge that stays sharp longer 💎 Damascus stainless steel — stunning layered pattern with superior corrosion resistance 🤌 Ergonomic handles — balanced weight for comfortable, fatigue-free use ✅ CE / EU  — meets the highest international safety standards Available Handle StylesRed Coloured Wood · Blue Resin — both designed to look as beautiful as they perform.Free shipping over €60 · 30-day returns · Worldwide delivery · PIUMA Home
-  Updated: 2026-06-14T00:05:54Z
+  Updated: 2026-06-27T06:50:09Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -632,15 +390,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S3060e8aae65b4f9f9607ce266f055bfbH.webp?v=1780089798
     Price: €62.64 EUR
-- [1PC New Arrival Ravioli Cutter  Stainless Steel Wheel, Perfect for Cutting, Sealing, And Crimping Fresh Pasta and Pastry Dough](https://www.piuma.online/products/1pc-new-arrival-ravioli-cutter-stainless-steel-wheel-perfect-for-cutting-sealing-and-crimping-fresh-pasta-and-pastry-dough): SPECIFICATIONSBaking u0026 Pastry Tools Type: Baking & Pastry SpatulasBrand Name: NONEHigh-concerned chemical: NoneKit Number: >12Material: 304 Stainless SteelOrigin: Mainland ChinaType: Baking & Pastry Tools About this item PASTA & PASTRY CUTTER & CRIMPER: It’s simple to make delicious homemade ravioli, pastry, and pasta look just as good as it tastes with the aid of this premium quality stainless steel Küchenprofi ravioli cutter and pastry wheel. Now you can perfectly seal, crimp, and cut individual ravioli, pierogi, dumplings, empanadas, and more in a single motion. PRECISION DESIGNED CUTTING ROLLER: Thanks to the superior quality stainless steel construction, this professional grade kitchen tool is lightweight and easy to use. The ergonomic design of the handle lets this pasta and pastry cutter wheel sit comfortably in your hand as you roll out batch after batch of your fresh, homemade pasta and pastry dough. PREMIUM QUALITY MATERIALS: This pasta cutter wheel and pastry crimper is made of sturdy stainless steel—a superior quality material used by professional chefs in some of the finest kitchens in the world. And when you're done crimping and cutting your pasta noodles or perfect pastry creations, this dishwasher safe utensil makes cleanup a breeze. VERSATILE PASTRY & PASTA TOOL: While this ravioli roller is perfect for cutting and sealing all of your filled doughs, it can do so much more! It is exactly the right tool for cutting and shaping dough for decorating baked goods, it will allow you to cut miles of perfect noodles effortlessly.
-  Updated: 2026-06-12T16:57:59Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S68026be324d84af29996846fb8a29bdfS.webp?v=1780089798
-  Price: €23.16 EUR
 - [18/36-Piece Blue Ceramic Dinnerware Set — Reactive Glaze Collection](https://www.piuma.online/products/vancasso-18-36-piece-blue-ceramic-plate-set-reactive-glaze-vertical-edge-dinnerware-set-with-6-12pcs-dinner-plate-dessert-bowl): Dine in Style. Every Single Day.Transform your dining table with the PIUMA Home Reactive Glaze Ceramic Dinnerware Set — a sophisticated collection that brings restaurant-quality elegance to your home. Each piece is finished with a stunning reactive glaze that gives it a uniquely beautiful, one-of-a-kind appearance.What Makes It Special 🎨 Reactive glaze finish — every piece has a slightly unique pattern, making your set truly one of a kind 🍽️ Complete set — dinner plates, dessert plates, and bowls all perfectly matched 🏨 Restaurant-quality ceramic — the same standard used in hotels and fine dining establishments 🔥 Dishwasher & microwave safe — built for real daily life, not just display 💙 Elegant blue finish — a timeless colour that works with any table setting or interior style 🎁 Perfect wedding or housewarming gift — beautifully presented and truly appreciated Set Options 18-Piece Set — serves 6 people · ideal for most households 36-Piece Set — serves 12 people · perfect for entertaining and larger families Available InUSA · UK · Germany — shipped directly to your door.Free shipping over €60 · 30-day returns · FCM  · PIUMA Home
-  Updated: 2026-06-14T00:06:41Z
+  Updated: 2026-06-23T15:51:57Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -669,38 +420,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S85288b556af643fe9b0cb9d466b2934aZ.webp?v=1780089801
     Price: €127.59 EUR
-- [Filter Scoop Stainless Steel Fat Skimmer Spoon Fine Mesh Strainer Food Strainer With Handle Kitchen Oil Skimmer Strainer FU](https://www.piuma.online/products/filter-scoop-stainless-steel-fat-skimmer-spoon-fine-mesh-strainer-food-strainer-with-handle-kitchen-oil-skimmer-strainer-fu): SPECIFICATIONSBrand Name: LISMCertification: CIQFeature: Eco-FriendlyHigh-concerned chemical: NoneMetal Type: Stainless steelModel Number: Stainless Steel Fine Mesh SkimmerOrigin: Mainland ChinaType: Colanders & StrainersType 1: Strainer Kitchen ToolsType 2: Kitchen SkimmerType 3: Cooking AccessoriesType 4: Skimmer SpoonType 5: Mesh Oil SkimmerType 6: Food Oil Pot StrainerType 7: Kitchen Tools Features: 1. Made of 304 high grade durable stainless steel with ergonomic handle, durable and no rust, safe to use. 2. The filter basket of Stainless Steel Strainer is uniform and dense, so it can greatly improve the filtration efficiency of frying and cooking, and it is more convenient to use. 3. The filter mesh and handle are firmly attached, filter mesh is fine enough to pick up the smallest fat partides. A hole in Heat-Resistant Round handle allows for easy storage. 4. Can be used for separation of the floating fat, grease, foam and filtering quinoa, miso and grains. 5. Long handle is easy to operate, and not too close to heat, prevent from burns. Fine mesh design, only lets water pour through, filters other ingredients. Notice: *Actual color may be slightly different from the image due to different monitor and light effect *Please allow 1-3cm deviation due to manual measurement Description: Size: As the picture shown
-  Updated: 2026-06-12T16:57:58Z
-  Vendor: PIUMA HOME
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Se591bf7b06744f72bc13ca43812c808cX.webp?v=1780089800
-  - [United States / Silver L 11.3x33cm](https://www.piuma.online/products/filter-scoop-stainless-steel-fat-skimmer-spoon-fine-mesh-strainer-food-strainer-with-handle-kitchen-oil-skimmer-strainer-fu?variant=59766501835086)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S0138dbfbfc614791931a2bce0ecb38acv.webp?v=1780089800
-    Price: €15.06 EUR
-  - [United States / L 14x35.5cm](https://www.piuma.online/products/filter-scoop-stainless-steel-fat-skimmer-spoon-fine-mesh-strainer-food-strainer-with-handle-kitchen-oil-skimmer-strainer-fu?variant=59766501867854)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sd258a88559fc4572a49ff515a8babed8x.webp?v=1780089800
-    Price: €15.64 EUR
-  - [United States / S 10x32cm](https://www.piuma.online/products/filter-scoop-stainless-steel-fat-skimmer-spoon-fine-mesh-strainer-food-strainer-with-handle-kitchen-oil-skimmer-strainer-fu?variant=59766501900622)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S3fed69fedca245168f78d8e12ca74706u.webp?v=1780089801
-    Price: €12.74 EUR
-  - [United States / Silver S 8x26cm](https://www.piuma.online/products/filter-scoop-stainless-steel-fat-skimmer-spoon-fine-mesh-strainer-food-strainer-with-handle-kitchen-oil-skimmer-strainer-fu?variant=59766501933390)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sc03b9b7829864e0e88cdf003e4ad9b58o.webp?v=1780089800
-    Price: €13.90 EUR
-  - [United States / M 12x34cm](https://www.piuma.online/products/filter-scoop-stainless-steel-fat-skimmer-spoon-fine-mesh-strainer-food-strainer-with-handle-kitchen-oil-skimmer-strainer-fu?variant=59766501966158)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S0fc09cb9ff0241b48126f93b53fbcacaz.webp?v=1780089800
-    Price: €14.19 EUR
-  - [United States / Silver M 9.3x27cm](https://www.piuma.online/products/filter-scoop-stainless-steel-fat-skimmer-spoon-fine-mesh-strainer-food-strainer-with-handle-kitchen-oil-skimmer-strainer-fu?variant=59766501998926)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S1840bf915ccb491b9f775560e8c3538fD.webp?v=1780089800
-    Price: €15.35 EUR
 - [Functional Modern Cat Tree Tower with Large Woven Wicker Basket,Cozy Hammock,Natural Solid Wood Scratching Post, Cat Accessories](https://www.piuma.online/products/functional-modern-cat-tree-tower-with-large-woven-wicker-basket-cozy-hammock-natural-solid-wood-scratching-post-cat-accessories): SPECIFICATIONSBrand Name: PEQULTICN: ZhejiangColor: WhiteHigh-concerned chemical: NoneItem Type: cat treesMaterial: WoodNo. of Tiers: Five Layers and AboveOrigin: Mainland ChinaSKU: AMT0285WE/AMT0286WEType: catsWeight: 12.5kg40 Inches Modern Cat Tree Functional Cat Tower with Large Woven Wicker Basket,Cozy Hammock,Natural Solid Wood Scratching Post Name : 40 Inches Modern Cat Tree Functional Cat Tower with Large Woven Wicker Baske SKU : AMT0285WE Color : White Material: Wood Weight : 12.5KG Package Size: 57cmX43cmX23cmFeatures Aesthetic and Functional:Artfully crafted natural wood and woven rattan,this modern cat tree designed to provide a fun and stimulating environment for cats while blending seamlessly with home decor. It features multiple levels, scratching posts, cozy hideaways, and perches to cater to a cat's natural instincts to climb, scratch, and rest. Large Woven Wicker Basket: Unlike typical plush perches, this cat tree includes a deep and enlarged basket bed made of hand-woven rattan. It is well-shaped and breathable, perfect for larger cats to sleep comfortably in the sunshine. A soft plush mat is included for added comfort, and the high edges create a sense of safety and coziness. Plush Comfort for Large Cats: The cat tower includes a large condo at the bottom, covered in soft white fur, providing a comfortable space for cats. The upper deep hammock with16" fits the cat’s body curve perfectly, offering a sense of security akin to being in your arms. This cat house meets various resting needs, making it ideal for multi-cat and large cat households. Solid Wood and Made to Last: The base, featuring double-thickened wooden boards, ensures the stability of the cat tree. All posts are made of natural wood trunk designed to last for years. Replacement parts can be purchased to keep your cat tree looking new. The removable mat is machine washable, and the rest can easily be vacuumed or cleaned with a dry foam cleaner. 100% Satisfied Guarantee: Do not worry about assembly. We have illustrated instructions to guide you through the assembly and PAWZ Road will always be here to provide you with considerate and professional customer service both before and after your purchase. Note : There may be a 2-3 cm error because of manual measurement. The pictures might have little color error ( Chromatic aberration). Thanks for your understanding.38 Inches Cat Tree Modern Cat Tower with Large Woven Wicker Basket,Natural Solid Wood Scratching Posts,Curved Bed,Cozy Condo for Large Cats Name : 38 Inches Cat Tree Modern Cat Tower with Large Woven Wicker Basket SKU : AMT0286WE Color : White Material: Wood Weight : 12.5KG Package Size: 57cmX43cmX24cmFeatures Aesthetic and Functional:Artfully crafted natural wood and woven rattan,this modern cat tree designed to provide a fun and stimulating environment for cats while blending seamlessly with home decor. It features multiple levels, scratching posts, cozy hideaways, and perches to cater to a cat's natural instincts to climb, scratch, and rest. Large Woven Wicker Basket: Unlike typical plush perches, this cat tree includes a deep and enlarged basket bed made of hand-woven rattan. It is well-shaped and breathable, perfect for larger cats to sleep comfortably in the sunshine. A soft plush mat is included for added comfort, and the high edges create a sense of safety and coziness. Plush Comfort for Large Cats: The cat tower includes a private condo at the bottom, covered in soft white fur, providing a comfortable space for cats. The upper curved perch fits the cat’s body curve perfectly, offering a sense of security akin to being in your arms. This cat house meets various resting needs, making it ideal for multi-cat and large cat households. Solid Wood and Made to Last: The base, featuring double-thickened wooden boards, ensures the stability of the cat tree. All posts are made of natural wood trunk designed to last for years. Replacement parts can be purchased to keep your cat tree looking new. The removable mat is machine washable, and the rest can easily be vacuumed or cleaned with a dry foam cleaner. 100% Satisfied Guarantee: Do not worry about assembly. We have illustrated instructions to guide you through the assembly and PAWZ Road will always be here to provide you with considerate and professional customer service both before and after your purchase. Note : There may be a 2-3 cm error because of manual measurement. The pictures might have little color error ( Chromatic aberration). Thanks for your understanding.Contact usIf you have any problem with the product you received, please contact us. We will help you solve the problem.We support Wholesale and Drop shipping. If you are, please contact me to have a better cooperation!Email:xj@xingtiancui.com WeChat:15774274610 About the processing time, shipping and delivery time1. We need 1-2 days to process your order (expect big holidays, like New years Day).2. We normally ship from overseas warehouseand you may need 5-8 days to receive the package3. Please pay attention to the tracking information and the delivery information. Wish you will not open a dispute when you still not get the parcel, contact us please. We will try our best to help you to solve it!About the inventory1. Because the item is sent from the warehouse abroad, the real inventory cannot always update in time. That means sometimes the product you ordered is already out of stock.In such a situation, you can cancel the order or take a replacement willingly. If you want to cancel the order, please choose reason “other”. Thanks in advance!2. Usually the replenishment period is about 20-30 days. If you are willing to wait, please place the order and extend the processing time accordingly. We will give priority to your order when the item is in stock again.Return policy1. We do allow exchange the item if you are dissatisfied with the product, but you should contact us within 7 days and return it within 10 days from the date you received.2. All returned item must be in the original package and you must provide us with the shipping tracking number.3. Return shipping is paid by the buyer.About feedbackIf you have received the item and satisfied with it, please leave a positive feedback. (5 star review)If you have any problems, please contact us at the first time, we will provide you the best solution.
-  Updated: 2026-06-12T16:57:57Z
+  Updated: 2026-06-22T03:34:26Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -738,7 +459,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sfa6a9c1801964e23bf509cd2e47b50beD.webp?v=1780089802
     Price: €70.46 EUR
 - [Wall Hanging Bamboo Key Hanger Holder Wall Organizer Rectangle Key Rack Hooks Coat Hooks Home Decoration Coat Hanger 2030](https://www.piuma.online/products/wall-hanging-bamboo-key-hanger-holder-wall-organizer-rectangle-key-rack-hooks-coat-hooks-home-decoration-coat-hanger-2030): SPECIFICATIONSBrand Name: NONE,dawndessloColour: Black, White, Bamboo board black, Bamboo board white, Pure blackHigh-concerned chemical: NoneMaterial: WoodMaterial quality: Solid wood ABS+PC plastic alloyMax capacity: 3kgNo. of Hooks: 6Origin: Mainland ChinaPattern Type: NONE Wall Hanging Bamboo Key Hanger Holder Wall Organizer Rectangle Key Rack Hooks Coat Hooks Home Decoration Coat Hanger Feature: 100% brand new and high quality Material: solid wood ABS+PC plastic alloy Size: as shown below Color: Black, White, Bamboo board black, Bamboo board white, Pure black Notice: 1. The size information is manual measurement, please allow 1-2cm differences due to manual measurement. 2. Due to the difference between different monitors, the picture may not reflect the actual color of the item.
-  Updated: 2026-06-12T16:57:54Z
+  Updated: 2026-06-21T23:28:01Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -764,7 +485,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S1911fe5493fc46dfb3a5890c7b71ca66y.webp?v=1780089805
     Price: €19.55 EUR
 - [Wall Mounted Coat Rack with 3 Hooks and Shelf Organizer for Entryway Hallway Bathroom Bedroom - Rustic Wood and Metal Key](https://www.piuma.online/products/wall-mounted-coat-rack-with-3-hooks-and-shelf-organizer-for-entryway-hallway-bathroom-bedroom-rustic-wood-and-metal-key): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneMaterial: PVCNo. of Hooks: 1 pcsOrigin: Mainland ChinaCoat Rack with 2 Hooks Suction Cup Wall Mount Key Holder Towels Hat Hanger for Clothes Keys Bags Umbrellas Leashes Features Wall-mounted towel rack with two hooks, suction cup installation design, cute and simple; The fashionable style can match any home decoration, add some fun to your home, make your life more tidy and organized Suitable for hanging bags, coats, headphones, hats, scarves, bath towels, umbrellas, backpacks, keys, and jewelry Specifications: Condition: 100% Brand New Material: ABS Season: All Season Gender: Unisex Style: Fashion Pattern: Solid Colors Occasions: Living Rooms, Bathrooms, Kitchens Size: 10cm/3.94inches Package Contents: 1 * Wall Hook Rack Note: There may be 1-2 cm deviation in different sizes, locations and stretch of fabrics. Size chart is for reference only; there may be a little difference with what you get. Color may be lighter or darker due to the different PC display.
-  Updated: 2026-06-12T16:57:53Z
+  Updated: 2026-06-21T23:29:06Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -778,7 +499,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sd006dec3dca14f73babfd5859d5c22d99.webp?v=1780089806
     Price: €13.35 EUR
 - [LED Vanity Mirror — Dimmable 3-Mode Makeup Mirror with Smart Memory](https://www.piuma.online/products/jhk-led-vanity-mirror-with-lights-aluminum-frame-bathroom-mirror-dimmable-3-color-modes-makeup-mirror-memory-function-bedroom): Your Perfect Reflection — Beautifully Lit, Every TimeThe PIUMA Home LED Vanity Mirror delivers studio-quality lighting right on your dressing table. With three adjustable colour modes, a memory function, and a sleek aluminium frame — this is the mirror that professional makeup artists use, now in your home.Why It's a Game-Changer 💡 3 colour lighting modes — warm, natural, and cool white to match any setting or time of day 🧠 Smart memory function — remembers your preferred brightness and colour setting every time 🪟 Premium tempered glass — crystal-clear, distortion-free reflection ✨ Dimmable brightness — adjust from soft glow to full studio brightness 🖼️ Elegant aluminium frame — modern and slim, fits any bedroom or bathroom aesthetic 🔌 USB powered — simple to set up, works anywhere Available Sizes 17L × 13W inches — perfect for desks and smaller spaces 19L × 22W inches — the most popular everyday size 22L × 32W inches — full professional studio size Free shipping over €60 · 30-day returns · Worldwide delivery · PIUMA Home
-  Updated: 2026-06-14T00:06:25Z
+  Updated: 2026-06-28T20:13:36Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -796,7 +517,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S3d84ccf801294ca2a075ca715b83d828X.webp?v=1780089808
     Price: €32.51 EUR
 - [Jellyfish Glow Lamp — Colourful LED Mood Night Light for Bedroom](https://www.piuma.online/products/beautiful-jellyfish-lamp-flower-girl-room-atmosphere-decoration-lamp-bedroom-colorful-nightlight-home-decoration): Light Up Your Space. Change Your Mood.The PIUMA Home Beautiful Jellyfish Lamp creates a mesmerising, colour-shifting atmosphere that transforms any bedroom, living room or creative space into something truly magical. Watch the soft jellyfish glow pulse and shift through colours — calming, beautiful, and endlessly captivating.Why You'll Love It 🪼 Stunning jellyfish design — a unique conversation piece that doubles as art 🌈 Colourful LED night light — shifts through soothing colours automatically 💤 Perfect sleep companion — soft, gentle light helps you wind down 🏠 Instant room transformation — plug in and your space feels completely different 🎁 Gift everyone loves — ideal for birthdays, Christmas, or just because ⚡ USB powered — plug in anywhere, no batteries needed Available In 5 ColoursWhite · Blue · Purple · Pink · Yellow — each creating a different mood and atmosphere.Free shipping over €60 · 30-day returns · Worldwide delivery · PIUMA Home
-  Updated: 2026-06-16T03:31:07Z
+  Updated: 2026-06-27T00:28:18Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -822,7 +543,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sccaef613996d4da29f257e0571baff61U.webp?v=1780089813
     Price: €9.20 EUR
 - [Trendy Pet Dog Bandana with Tassels Edges Classic Plaid Scarf Funny Dog Apparel Accessories Christmas Party Dress-Up Photo Prop](https://www.piuma.online/products/trendy-pet-dog-bandana-with-tassels-edges-classic-plaid-scarf-funny-dog-apparel-accessories-christmas-party-dress-up-photo-prop): SPECIFICATIONSBattery Included: NoBrand Name: NONECN: GuangdongHigh-concerned chemical: NoneItem Type: Tie & Bow TieMaterial: POLYESTEROrigin: Mainland ChinaSet Type: NoType: Dogs Trendy Pet Dog Bandana with Tassels Edges Classic Plaid Scarf Funny Dog Apparel Accessories Christmas Party Dress-Up Photo Prop Dscription: Create a fun style for your dog - This dog bandana is full of seasonal colors and features a classic plaid pattern, perfect for fall, creating a cozy, festive atmosphere. Whether it's for the holidays or everyday wear, your dog will look stylish and cute Soft and breathable fabric - These soft fall dog scarves are made of high-quality cotton, which is gentle on your dog's skin. Breathable material ensures comfort, easy to tie and remove, and the double-layer design enhances durability Perfect for any occasion - The seasonal themed design is perfect for photo shoots and everyday role play. These dog costume accessories not dress up your pet, but also prevent drooling The classic colors add a festive atmosphere to any fall celebration. These Thanksgiving dog bandanas are a great gift for your pet, let them join in the fall fun and make your holiday more memorable Specification: Material: Polyester Cotton Color: As shown Size: As shown Package-Includes: 1* scarf
-  Updated: 2026-06-12T16:57:46Z
+  Updated: 2026-06-21T23:25:06Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -892,14 +613,14 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S534e00570a4d4d2c8b6530139416a646I.webp?v=1780089823
     Price: €25.05 EUR
 - [6 Inches 10Pcs  Heavy Duty Galvanized Steel Garden Stakes Staples Securing Pegs for Securing  Fabric Landscape Fabric Nettin](https://www.piuma.online/products/6-inches-10pcs-heavy-duty-galvanized-steel-garden-stakes-staples-securing-pegs-for-securing--fabric-landscape-fabric-nettin): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneMaterial: Stainless steelOrigin: Mainland China PACKAGE: 10pcs Galvanized U-Shaped Garden Stakes. SIZE: 6 inches Long, 1 inch Wide. MATERIAL: Our landscape fabric stakes are made of anti-rust durable galvanized steel. Strong enough to insert into the ground with adjustable width. The garden staples can be used for a long time. EASY to USE: Easy to use sod staples with sharp angled edges that makes penetration easy into a wide variety of surfaces including soil, landscape fabric, gardens, and wood holes. WIDE APPLICATION: Use the galvanized yard staples for anchoring  barrier landscape fabric, drip irrigation pipes, and artificial Turf. Landscape stakes can secure bird netting, chicken wire, plastic items, chain link, Pet Fences and edging.
-  Updated: 2026-06-12T16:57:46Z
+  Updated: 2026-06-19T17:13:02Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S8ff7ff972c0b4d5c9c02c1d35c5b7bedn.webp?v=1780089822
   Price: €5.70 EUR
 - [Suitable for kitchen self-adhesive wallpaper pvc self-adhesive wallpaper home decoration waterproof and oil-proof sticker](https://www.piuma.online/products/suitable-for-kitchen-self-adhesive-wallpaper-pvc-self-adhesive-wallpaper-home-decoration-waterproof-and-oil-proof-sticker): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneMaterial: PVCOrigin: Mainland ChinaStyle: Modern Style 【Material】PVC vinyl wallpaper 【Features】Easy and quick installation - just peel and stick! Our peel and stick wallpaper is mildew and moisture resistant. Perfect for renters and homeowners! [coil size] as you choose [Properties] Waterproof and oil-proof self-adhesive wall stickers 【Multifunctional】Can DIY! Our peel and stick wallpaper can be used on walls, cabinets and drawers, countertops, bookshelves, closet shelves, shelves, windows and pantry areas and more. 【Tips】Our peel and stick wallpapers are of stable quality and great value for money. Please place on a clean, dry object or smooth surface, buy enough rolls at a time to make sure they are from the same batch to avoid color difference. If the wallpaper you received has creases, please don't worry and stick it according to the video operation. If you have any questions, please contact us.
-  Updated: 2026-06-12T16:57:46Z
+  Updated: 2026-06-21T23:28:02Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1105,14 +826,14 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sc2d88ddab7434f4f9a257f96f481b922C.webp?v=1780089825
     Price: €20.27 EUR
 - [20inch Fushiguro Toji Katana  Zenin Maki Sansetsukon Anime Jujutsu Kaisen Cosplay Prop Real Size Japanese Katana Toy Gift](https://www.piuma.online/products/20inch-fushiguro-toji-katana--zenin-maki-sansetsukon-anime-jujutsu-kaisen-cosplay-prop-real-size-japanese-katana-toy-gift): SPECIFICATIONSBlade Angle: >60°Blade Length: 25Blade Material: ABSBrand Name: NONEFull Length: 40Handle Length: 15High-concerned chemical: NoneLock: NoMaterial: PVCOrigin: Mainland ChinaRegional Feature: japanSharp Blade: NoSpring Force: YesStyle: Japan StyleTheme: Movie & TVType 16: Japanese anime toyType 17: Real size japanese katanaType 18: Real full size japanese Anime weaponType 19: Bamboo katanaType 20: Jujutsu Kaisen katana weaponType 21: Jujutsu Kaisen Satoru GojoType 22: three-sectional stick toyType 23: Real size three section cudgel toyType1: Zenin Maki cosplay prop weaponType10: royal Japanese samurai KatanaType11: birthday gift toyType12: Anime giftType13: Free shipping itemType14: Japanese Anime Sansetsukon weaponType15: Sansetsukon Katana toyType2: Jujutsu Kaisen cosplay prop weaponType3: japanese Anime weaponType4: japanese Anime Jujutsu Kaisen cosplayType5: Fushiguro Toji katana cosplay propType6: Fushiguro Toji cosplay propType7: Zenin Maki Sansetsukon katanaType8: Jujutsu Kaisen Zenin Maki katana swordType9: Anime PVC Katana 20inch Fushiguro Toji Katana  Zenin Maki Sansetsukon Anime Jujutsu Kaisen Cosplay Prop Real Size Japanese Katana Toy Gift Features: Total: 50cmMaterial: PVCBlade: Unbladed Note: 1. Please allowed 1-3mm differences due to manual measurement,thank you for your understanding!2. Due to the differences between different monitors,please understand that the picture may not reflect the actual of the item.3.if you have any questions,please contact us first,then file a dispute or provide negative feedback,we will try our best to serve you,thank you.4.Your feedback is very important to us.If all goes well,please click on 5 Stars in the feedback.
-  Updated: 2026-06-14T23:10:11Z
+  Updated: 2026-06-27T03:28:06Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S69783eb86e8d4dc0b4f3d355d4a5b034y.webp?v=1780089823
   Price: €19.45 EUR
 - [CD Disc Rack Desktop Disc Black Vinyl Record Magnetic Tape Display Storage Rack Collection Storage Album Storage Box 2030](https://www.piuma.online/products/cd-disc-rack-desktop-disc-black-vinyl-record-magnetic-tape-display-storage-rack-collection-storage-album-storage-box-2030): SPECIFICATIONSBrand Name: NONE,dawndessloFeature: OtherFunction: ReusableHigh-concerned chemical: NoneMaterial: PlasticOrigin: Mainland ChinaType: Storage Holders & RacksUse: Sundriescapacity: 18Lcolor: CD storage boxeffect: storagematerial: plasticstorage scene: car
-  Updated: 2026-06-12T16:57:44Z
+  Updated: 2026-06-22T03:34:46Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1126,7 +847,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sd5b1df62ba3646a8a7590fbbcb65b35cn.webp?v=1780089825
     Price: €23.21 EUR
 - [A Soft Cozy Faux Fur Rabbit Stripped Blanket, Warm and Thick for Bed, Sofa, Dormitory and Office, Versatile Use and Rich Colors](https://www.piuma.online/products/a-soft-cozy-faux-fur-rabbit-stripped-blanket-warm-and-thick-for-bed-sofa-dormitory-and-office-versatile-use-and-rich-colors): SPECIFICATIONSBrand Name: ROSEKINDCN: JiangsuCraft of Weaving: KnitHigh-concerned chemical: NoneMaterial: 100% PolyesterOrigin: Mainland ChinaPattern Type: StripedStyle: Modern StyleType: Thread Blanket/Towel BlanketAbout This ItemDescription: The upgraded striped fleece blanket features a higher-weight fabric, enhancing warmth and comfort. The widened stripes highlight the three-dimensional and sensory qualities of the blanket, creating a gentle and relaxed visual appeal. This further enhances its decorative characteristics, providing an elevated experience for both warmth and style.Features Warm Yet Lightweight: This striped flannel fleece blanket maintains the ideal balance between weight and warmth. Enjoy being cuddled up in this soft and calming blanket whenever you're ready to snuggle up.Versatile Usages: Experience ultimate coziness and warmth during your leisure time. Whether snuggled up for a nap or immersed in a TV series on the couch, these warm blankets provide the perfect companionship. Additionally, they make an ideal accessory for camping or travel adventures, ensuring comfort wherever you go.Durable And Easy To Care: This plush blanket features a neat stitching construction for a stronger connection at the seams for increased durability and is machine washable. The unique dyeing technique brings out the colors and prevents them from fading after washes.Perfect Gift: Not only is it a practical item for home use, but this blanket also makes a thoughtful gift. Express warmth and love on occasions like Christmas, birthdays, Mother's Day, Father's Day, and Valentine's Day. Its easy management - machine washable and quick-drying - adds to its gift-worthy charm.
-  Updated: 2026-06-12T16:57:42Z
+  Updated: 2026-06-27T03:29:12Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1216,14 +937,14 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/A408417845d6b4b07b7e4efac5611163dx.webp?v=1780089828
     Price: €65.18 EUR
 - [8 Cavity Rectangle Silicone Molds for Baking Granola Bar Protein Bar Brownie Cheesecake Chocolate Candy Multicolor Durable Non-](https://www.piuma.online/products/8-cavity-rectangle-silicone-molds-for-baking-granola-bar-protein-bar-brownie-cheesecake-chocolate-candy-multicolor-durable-non): SPECIFICATIONSBrand Name: SHXIHigh-concerned chemical: NoneOrigin: Mainland China
-  Updated: 2026-06-12T16:57:42Z
+  Updated: 2026-06-21T23:19:46Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sfb77731ee999419b8b7d396ec15cdb26N.webp?v=1780089827
   Price: €11.47 EUR
 - [5/6/7 FT Artificial Fiddle Leaf Fig Tree with Pot Faux Trees with Artificial Plants Fiddle Leaves Greenery Fake Tree for Home](https://www.piuma.online/products/5-6-7-ft-artificial-fiddle-leaf-fig-tree-with-pot-faux-trees-with-artificial-plants-fiddle-leaves-greenery-fake-tree-for-home): SPECIFICATIONSApplications: AnniversaryBrand Name: HiMISSCN: GuangdongHigh-concerned chemical: NoneMaterial: PolyesterNumber of Pcs: 1pcOrigin: Mainland ChinaPlacement: FloorPlant Style: TREEPurpose: ExhibitionUsage scenarios: Outdooris_customized: No
-  Updated: 2026-06-15T22:33:32Z
+  Updated: 2026-06-22T03:34:47Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1241,21 +962,21 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S44cecc85feae422e83a6eb1269ffb88fV.webp?v=1780089829
     Price: €77.39 EUR
 - [Effortless One-Step Clean Pet Grooming Brush, Gentle Hair Remover Massage Tool for Dog Cat Long Short Coat](https://www.piuma.online/products/effortless-one-step-clean-pet-grooming-brush-gentle-hair-remover-massage-tool-for-dog-cat-long-short-coat): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneOrigin: Mainland ChinaType: Dogs
-  Updated: 2026-06-14T19:04:25Z
+  Updated: 2026-06-19T17:13:03Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sa07b64e763a743ccb4ea8e0ecbcba523h.webp?v=1780089829
   Price: €3.69 EUR
 - [1pc Stainless Steel Lemon Juicer - Manual Efficient Juice Press, Easy to Use, for Home & Commercial Use, Fits Various Fruits](https://www.piuma.online/products/1pc-stainless-steel-lemon-juicer-manual-efficient-juice-press-easy-to-use-for-home-commercial-use-fits-various-fruits): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneMaterial: 304 Stainless SteelOrigin: Mainland China
-  Updated: 2026-06-12T16:57:40Z
+  Updated: 2026-06-19T17:13:01Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S3528ca7faf0c4849a98b047436d5360dO.webp?v=1780089831
   Price: €5.44 EUR
 - [MCQ 2 Inch Soft Bed Mattress Full Size Memory Foam Gel Breathable Cooling Mattress Soft Bed Topper Home Bedroom Furniture](https://www.piuma.online/products/mcq-2-inch-soft-bed-mattress-full-size-memory-foam-gel-breathable-cooling-mattress-soft-bed-topper-home-bedroom-furniture): SPECIFICATIONSBrand Name: MCQCN: ZhejiangCraft of Weaving: Not Clothing or TextilesFilling: BlendingHigh-concerned chemical: NoneMaterial: POLYESTER,ViscoseOrigin: Mainland ChinaProduct application scenarios: BedSeason: Four SeasonsTechnics: stitchingWhether printing: Yesis_customized: NoAbout this item 【Memory Foam Topper】 Our mattress topper comes enriched with high-density memory foam. Sure to provide an ideal level of softness and firmness, the topper contours perfectly to your body's shape, ensuring dreamy comfort and optimal pressure relief. 【Bed-Friendly Design】The savvy design of this topper makes it a perfect fit for beds of most sizes. The neat edges do not let the topper slip off the mattress, thus promoting a restful and uninterrupted sleep through the night. With a perfectly stretchable and adaptable design. 【Breathable and Temperature Regulating】We understand the importance of staying cool during the night. Our mattress topper is infused with a breathable gel layer, which helps dissipate heat and regulate body temperature, keeping you comfortably cool all year round. 【Quality Materials】Sleep soundly knowing your mattress topper is CertiPUR-US , meaning we only use the highest quality materials to ensure longevity and safety. 【Easy to Set Up】Installing our mattress topper is effortless. The memory foam topper is compressed and packed for easy transportation. So please put it in a ventilated place for 24 hours and let it return to its original size.
-  Updated: 2026-06-12T17:02:50Z
+  Updated: 2026-06-22T03:34:42Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1281,14 +1002,14 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sba19892837184c81b305638d628b36a6B.webp?v=1780089832
     Price: €30.24 EUR
 - [Car Dog Seat Cover for Back Seat Waterproof Auto Rear Pet Seat Protector Mat Nonslip Universal Safety Carrier For Outing Dogs](https://www.piuma.online/products/car-dog-seat-cover-for-back-seat-waterproof-auto-rear-pet-seat-protector-mat-nonslip-universal-safety-carrier-for-outing-dogs): SPECIFICATIONSApplicable Dog Breed: UniversalBrand Name: NONEBreed size: Large BreedsCN: GuangdongFeature: Environment FriendlyHigh-concerned chemical: NoneItem Type: "Car Travel Accessories "Material: LeatherOrigin: Mainland ChinaPattern Type: SolidSeason: all seasonsStyle: fashionType: DogsAbout this item6 in 1 MULTIFUNCTIONAL DOG CAR SEAT COVER: The dog seat cover can be easily transformed into a dog car hammock, bench seat cover, passenger-friendly style, pet front seat cover, trunk cargo liner, or picnic mat. Standard size: 54" W x 58" L. It also allows children and pets to share the back seat together. (Note: the dog seat cover does not come with a hard bottom.)CREATIVE VISUAL WINDOW & POCKETS: With mesh visual window in the center, your dog can get better air circulation, and you can see them easily, which reduces their anxiety. The extra storage pockets can store your pet’s food and toys.WATERPROOF & SCRATCHPROOF DOG SEAT COVER: Made of 600D Oxford material, this dog back seat cover is durable, waterproof, and scratch-resistant. Totally keep your seat from any dirt, liquid, scratches, hair & fur, etc. No more endless sweep.NONSLIP & MORE SAFE DOG CAR HAMMOCK: Non-slip backing and seat anchors prevent seat cover from sliding around. This pet seat cover features side flaps, along with 2 Velcro openings, to provide your pet extra protection.EASY TO INSTALL & CLEAN: It only takes seconds to install the backseat dog cover. Just snap the buckle straps around your car’s headrests and tuck in the seat anchors. Easy to clean with a damp cloth or vacuum.FeaturesHeavy Duty Material: This rugged pet seat cover is made from 4 layers of fabrics: thick water-resistant oxford fabric, cotton layer, 100% waterproof polyester, and PVC non-slip soft rubber. Four layers of protection to keep your car safe from pet claws, stains and liquids.Rugged Protection: The cover is securely anchored in the back seat with included buckle making sure it stays still and neat even during quick turns and speed bumps.Universal Fitting: Measuring approximately 54x58 inches, it is perfect size for most cars and family SUVs. The velcro opening lets the seat belt thread through, then the velcro will stick together so that drool or stains can't penetrate.Easy to install, Easier to clean: The cover takes two seconds to unbuckle and shake off sand, dirt and debris. You can use a wet cloth to spot clean, hand wash, machine wash and vacuum cover.SpecificationSize: 54x58 inches/137x147cmWeight: 2.6 poundsColor: BlackMaterial: water-resistant oxford fabric, A grade PP cotton,Waterproof Polyester, Sip-proof PVC rubber net.Package Contents1* Dog Front Seat Covers1* Pet Safety Seat Belt
-  Updated: 2026-06-12T16:57:40Z
+  Updated: 2026-06-22T03:34:41Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S4501b81bde2a46a695ce9ded6de43fa0q.webp?v=1780089833
   Price: €23.12 EUR
 - [SucceBuy Agricultural Greenhouse Film Clear Plastic Farm Crops Vegetable Cover UV Resistant Polyethylene Covering Plants Flowers](https://www.piuma.online/products/succebuy-agricultural-greenhouse-film-clear-plastic-farm-crops-vegetable-cover-uv-resistant-polyethylene-covering-plants-flowers): SPECIFICATIONSBrand: SucceBuyBrand Name: SucceBuyColor: WhiteHigh-concerned chemical: NoneMaterial: PolyethyleneOrigin: Mainland ChinaSizes: 8x25ft to 32x25ft (Optional)Thickness: 6 Mil/0.15 mmType: Greenhouse Polyethylene Film Product Description 16 X 28 ft Greenhouse Polyethylene Film The greenhouse polyethylene film is 16' wide, 28' long, and 6 mil thick. It features superior strength and toughness for UV protection, tear, and weather resistance. It is designed for easy DIY and suitable for industrial, residential, construction, masonry, agriculture, and landscaping projects. High-Quality Polyethylene Material 16 x 28 ft Greenhouse Film Maintain Warm Temperature Superior Strength & Toughness Multi-Purpose Application Tough Equipment & Tools, Pay Less SucceBuy is a leading brand that specializes in equipment and tools. Along with thousands of motivated employees, SucceBuy is dedicated to providing our customers with tough equipment & tools at incredibly low prices. Today, SucceBuy's products are sold in more than 200 countries and regions with 10 million plus members worldwide. Why Choose SucceBuy? Premium Tough Quality Incredibly Low Prices Fast & Secure Delivery 30-Day Free Returns 24/7 Attentive Service Key Features Durable Polyethylene Material The greenhouse film is made of durable polyethylene, 6 mil thick. It is tear-resistant, and against UV for long lifespan. Greenhouse Film The polyethylene film is 16' wide, 28' long, and 6 mil thick. It can unfold easily and be folded into rolls for storage. Keep Warming The 6 mil greenhouse polyethylene film can provide a stable greenhouse environment and reduces heat loss. High Tenacity The greenhouse plastic cover features superior strength and toughness for UV protection and weather resistance. Easy To DIY The 16x28 ft greenhouse film is large enough, and you can easily do it yourself as you need. You can support your tent and decorate your garden. Wide Application This greenhouse clear plastic film is suitable for industrial, residential, construction, masonry, agriculture, and landscaping projects to use as a moisture barrier. Specifications Material: Polyethylene Dimension: 16 x 28 ft/4.8 x 8.5 m Thickness: 6 Mil/0.15 mm Installation: Do-it-yourself Package Content 1 x Greenhouse Polyethylene Film Specifications Material: Polyethylene Dimension: 15 x 40 ft/4.5 x 12.2 m Thickness: 6 Mil/0.15 mm Installation: Do-it-yourself Package Content 1 x Greenhouse Polyethylene Film Specifications Material: Polyethylene Dimension: 16 x 25 ft/4.9 x 7.6 m Thickness: 6 Mil/0.15 mm Installation: Do-it-yourself Package Content 1 x Greenhouse Polyethylene Film Specifications Material: Polyethylene Dimension: 12 x 25 ft/3.6 x 7.6 m Thickness: 6 Mil/0.15 mm Installation: Do-it-yourself Package Content 1 x Greenhouse Polyethylene Film Specifications Material: Polyethylene Dimension: 10 x 25 ft/3 x 7.6 m Thickness: 6 Mil/0.15 mm Installation: Do-it-yourself Package Content 1 x Greenhouse Polyethylene Film Specifications Material: Polyethylene Dimension: 8 x 25 ft/2.5 x 7.6 m Thickness: 6 Mil/0.15 mm Installation: Do-it-yourself Package Content 1 x Greenhouse Polyethylene Film Specifications Material: Polyethylene Dimension: 12 x 28 ft/3.6 x 8.5 m Thickness: 6 Mil/0.15 mm Installation: Do-it-yourself Package Content 1 x Greenhouse Polyethylene Film Features & Details 【HIGH-QUALITY POLYETHYLENE MATERIAL】- The greenhouse film is made of high-quality polyethylene with 6 mil thickness, tear-resistant and against UV radiation for long-lasting uses. 【16 x 28 FT GREENHOUSE FILM】- The greenhouse polyethylene film is 16' wide and 28' long. The tough polyethylene film can unfold easily and quickly and can be folded into rolls. 【MAINTAIN WARM TEMPERATURE】- The greenhouse plastic is designed against UV radiation in hot temperatures and can keep warm in cold temperatures. These cover films also reduce the absorption of dust for optimum plant growth. 【SUPERIOR STRENGTH & TOUGHNESS】- The greenhouse polyethylene film features superior strength and toughness, corrosion and tear-resistant, UV protected, and weather resistant. 【MULTI-PURPOSE APPLICATION】- The greenhouse cover is perfect for industrial, residential, construction, masonry, agriculture, and landscaping projects for a protective barrier. It is great for a DIY lawn slip and slide or used as a protective cover.
-  Updated: 2026-06-12T16:57:39Z
+  Updated: 2026-06-21T23:28:36Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1322,7 +1043,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S863645ff5a664fe58b8efa3f37988020I.webp?v=1780089833
     Price: €32.16 EUR
 - [SINLAKU Bathroom Basin Sensor Faucet With Foam Soap Dispenser Deck Mounted Single Hole Stream Outlet Touch Free Mixer Taps](https://www.piuma.online/products/sinlaku-bathroom-basin-sensor-faucet-with-foam-soap-dispenser-deck-mounted-single-hole-stream-outlet-touch-free-mixer-taps): SPECIFICATIONSBrand Name: SINLAKUCertification: NONEControl Type: LeverFaucet Mount: Single HoleFeature: Sense FaucetsHigh-concerned chemical: NoneHot & Cold Water: YesHousing Material: MetalInstallation Type: Deck MountedInstallation method: Deck MountedIs Smart Device: NoModel Number: 98220WNumber of Handles: Single HandleOrigin: Mainland ChinaStyle: Contemporary,Quick Open TypeSurface : LacqueredType: Basin Faucets,Ceramic Plate Spool,Bathroom Basin Sensor FaucetValve Core Material: CeramicWater outlet mode: StreamWeight Per Package: <2kg Welcome to SINLAKU Store Brand new in box ready to ship Type:Bathroom Basin Sensor Faucet Color：dark gray /White Installation method：Deck Mounted Number of Holes: Single Hole Hot And Cold Water Also have Single Handle Control,Used to regulate temperature,stream outlet sensor function for only cold water. it mean when you use sensor function for water come out,there only have cold water. Daily hand washing touch free, achieving true cleanliness and hygiene, and avoiding cross infection with sensing foam soap dispenser Water outlet mode:stream Easy and convenient Easy to install Easy to clean. Can be cleaned with mild soap to ensure the non-tarnish life shine Complete accessories Comes with 24 months manufacture warranty
-  Updated: 2026-06-12T16:57:46Z
+  Updated: 2026-06-22T03:34:46Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1336,14 +1057,14 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sddca08deb7e841f09e1d2ef386d9b956Q.webp?v=1780089834
     Price: €90.01 EUR
 - [Dog Grooming Brush, Lilpep Pet Shampoo Bath Brush Soothing Massage Rubber Comb with Adjustable Ring Handle for Long Short Haired](https://www.piuma.online/products/dog-grooming-brush-lilpep-pet-shampoo-bath-brush-soothing-massage-rubber-comb-with-adjustable-ring-handle-for-long-short-haired): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneOrigin: Mainland China High-quality & Durable Dog Brush - This multi-functional dog grooming brush is made of premium quality soft TRP rubber material, that will not scratch your pet's skin. Moreover, it is very easy to disperse foam, can deeply clean pet's hair, remove loose fur and dead skin. Make bathing time more relaxing and enjoyable. Ergonomic Design for Easy Use - This dog bath brush designed with a ring-shaped rubber handle, which can adjust the size of the palm at will, which is comfortable to hold and perfectly fits. Compared with ordinary pet brushes, it can easily and quickly remove dog hair. Offer Better Care for Your Dog - The soft rubber short hair dog brush not only gives your pet a soft and comfortable feeling, but also has a massage soothing effect. Bring a safer and more comfortable experience to your pet when bathing. For people with cats and dogs, it is the perfect Christmas sock filler or gift. Perfect Choice Various Pets - Our dog shampoo brush can effectively remove your pet's hair during bath or massage, keeping it clean and tidy, enhancing skin and skin health. Designed for short and medium hair pets, such as dogs, cats, puppies, kittens, ferrets, horses, rabbits, guinea pigs. Make bathing a happy experience that dogs look forward to again and again.
-  Updated: 2026-06-14T03:25:31Z
+  Updated: 2026-06-19T17:13:03Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S38c32f75d6284ee2ad51e207efc6ccf5T.webp?v=1780089836
   Price: €4.16 EUR
 - [Whiskey Smoker Kit with Wood Chips-6 Flavors Old Fashioned Drink Smoker Infuser for Cocktails Birthday Bourbon for Gifts](https://www.piuma.online/products/whiskey-smoker-kit-with-wood-chips-6-flavors-old-fashioned-drink-smoker-infuser-for-cocktails-birthday-bourbon-for-gifts): SPECIFICATIONSBrand Name: NONEFeature: Eco-FriendlyHigh-concerned chemical: NoneMaterial: WoodOrigin: Mainland ChinaType: Bar Sets
-  Updated: 2026-06-12T16:57:38Z
+  Updated: 2026-06-22T03:34:46Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1361,7 +1082,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sf8a7fb0f71ae4f73b6d82a748e378961W.webp?v=1780089836
     Price: €25.86 EUR
 - [Wooden Belt Rack Women Storage Hangers for Clothes Case Home Wardrobe Accessories Supplly Scarf Organizer Men Tie Belt Hangers](https://www.piuma.online/products/wooden-belt-rack-women-storage-hangers-for-clothes-case-home-wardrobe-accessories-supplly-scarf-organizer-men-tie-belt-hangers): SPECIFICATIONSBrand Name: NONEHigh-concerned chemical: NoneMaterial: WoodOrigin: Mainland China Multi-functional belt sling hook Multi-hook design one can hold at least 20 pieces, saving space. The hook can be folded to reduce the packaging volume and facilitate transportation 360 degree rotatable hook to meet the suspension needs of different crossbars and spaces, Easy to hang and take exquisite iron welding process,strong bearing,durable. Reasonable radian and multi-hook design to meet the needs of more different storage INFORMATION PRODUCT "Name"multi-functional sling belt hook "Material" iron solid wood "Size:about 37*14cm "Weight"14 hook about 148g , 20 hook about 199g "Optional color"log color,retro color Various uses Belt,Tie,scarf,silk scarf,sweaterchain Underwear,vest,sling Large capacity storage 360° Rotary hook Natural solid wood Foldable metal hook Different colors for your choose
-  Updated: 2026-06-12T16:57:37Z
+  Updated: 2026-06-21T23:20:18Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1379,7 +1100,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S3c4fb087eea54ac98a2dc0f3cc053ff2c.webp?v=1780089838
     Price: €28.82 EUR
 - [PD3.0 65W Type C Outlet Fast Charging USB-C Charger 15 Amp Receptacle Plug Electrical USB Socket Charge for iPhone Android](https://www.piuma.online/products/pd3-0-65w-type-c-outlet-fast-charging-usb-c-charger-15-amp-receptacle-plug-electrical-usb-socket-charge-for-iphone-android): SPECIFICATIONSApplication: Residential / General-PurposeBrand Name: NONEExtension Cable Length: NoneInstallation Type: Wall EmbeddedIs Smart Device: NoMaterial: PlasticOrigin: Mainland ChinaShape: RectangularSpecificationsCondition: Brand NEWColor:WhiteOvercurrent protection: YesPanel material: PCInput parameters: AC80-125V/ 15AUSB-C output(Quick Charge): 4.8A(Totally)Dimensions: 4 1/2"*2 3/4"*1 7/8"Wire Terminals: #14-#12 AWGStandard & certifications: UL/cULWarranty: 1 YearDescription1.100% brand new and high quality2.USB Charging Application: suitable for all kinds USB 5V charge, such as a variety of cellphones , digital cameras and other electronic digital products.3.Overcurrent protection: Yes4.Applications: site dormitory, school dormitories, offices quarters, corporate offices, railway stations and so on.5.Easy to install, the same way as ordinaral sockets, can be mounted on a wall or desktop and other locations
-  Updated: 2026-06-15T03:31:16Z
+  Updated: 2026-06-22T03:34:47Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1401,7 +1122,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Scbbc2a4ae0234cae9d44b96efe9952a1d.webp?v=1780089838
     Price: €25.49 EUR
 - [Tandem Shower Head for Couples, High Pressure Dual Shower Head, Double Shower Head for Two People, 2 Showerhead System](https://www.piuma.online/products/tandem-shower-head-for-couples-high-pressure-dual-shower-head-double-shower-head-for-two-people-2-showerhead-system): SPECIFICATIONSBrand Name: NONEHign-concerned Chemical: NoneInstallation Type: Wall MountedIs Smart Device: NoMaterial: Stainless steelModel Number: NTPN60Origin: Mainland ChinaShower Head Feature: Shower Heads With ArmShower shape: RoundStyle: DoubleSurface Finishing: BrushedType: Fixed Support Type Perfect for Couples or Shared Showers: Our dual shower head for couples is designed for couples, families, and shared bathrooms. It lets two people shower at the same time with plenty of water flow, so no more fighting for space or water. Enjoy a comfortable, efficient shower together—whether you're a couple or with family members. It's the perfect solution for shared shower spaces. Fits Bathrooms from 27 to 86 Inches: Our dual shower head fits bathrooms ranging from 27 to 86 inches in size. Whether you have a spacious bathroom or a smaller shower area, this showerhead is designed to fit easily. The adjustable installation bracket allows you to change the height and angle to suit your space, ensuring a perfect fit in bathrooms of all sizes. High Pressure Dual Showerhead Design: With our two shower head system, you get strong and steady water flow, even in low water pressure homes. Both showerheads maintain consistent pressure, delivering a satisfying shower experience. Whether you prefer a powerful jet or a gentle stream, our design ensures you always get optimal water flow for a refreshing shower. Easy Installation & More Secure Base: We've updated the base for added stability. Our new installation base offers two installation methods, ensuring your showerhead stays secure and durable during use. Whether you prefer wall-mounted or nail-free mounted installation, you can have it installed in minutes. Durable 304 Stainless Steel: Our double head showerhead is made from upgraded 304 stainless steel, which is durable and resistant to rust. It’s built to last, even in humid environments. The thickened design ensures long-term use while maintaining a sleek, shiny appearance. This high-quality material guarantees reliable performance for years to come. Provide a Spa-Like Experience: Enjoy a spa-like experience every time you shower with our dual showerhead for 2 people. Choose from 3 water flow modes, including massage, saturating and mix settings. Switch between modes to suit your mood, whether you’re relaxing after a long day or energizing yourself in the morning. It’s the perfect way to enhance your daily shower.
-  Updated: 2026-06-12T16:57:36Z
+  Updated: 2026-06-22T03:34:56Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1415,7 +1136,7 @@
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S780bcee6d32b4f5696dfc75854b2e9a7y.webp?v=1780089841
     Price: €44.59 EUR
 - [Blue Series Glass Crystal Rhinestones Hot-fix Flatback Iron On Stones For Wedding Dress Fabric Clothes Decoration](https://www.piuma.online/products/blue-series-glass-crystal-rhinestones-hot-fix-flatback-iron-on-stones-for-wedding-dress-fabric-clothes-decoration): SPECIFICATIONSBrand Name: NONE,QIIYFacet Count: 12High-concerned chemical: NoneMaterial: GlassModel Number: Round RhinestoneOrigin: Mainland ChinaProduct Type: RhinestonesRhinestones Type: Loose RhinestonesSet Type: YesShape: RoundStyle: flatbackTechnics: Hot-FixType of Wholesale: Yes(>50 Pcs)Use: Garment,shoes&blues.esis_customized: Yes
-  Updated: 2026-06-12T16:57:36Z
+  Updated: 2026-06-22T03:34:56Z
   Vendor: PIUMA HOME
   Product Type: 
   Availability: Available
@@ -1616,42 +1337,360 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sf407ff85eb584956a0ccca07ac9af2b7M.webp?v=1780089840
     Price: €18.17 EUR
-[List Continued](https://www.piuma.online/a/llms-agent/llms.txt?shop=52kezq-fd.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTg1MzIwOTQyMDExMCwibGFzdF92YWx1ZSI6IjE1ODUzMjA5NDIwMTEwIn0%3D)
+- [Ecofresh U O V shape Intelligent Toilet Seat Electric Bidet Cover Smart Bidet Heated Toilet seat Led Light Wc smart toilet seat](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat): SPECIFICATIONSAdvanced Function: Instant Hot Type,Remote Control,Water Temperature Adjustment,Buttocks Washing,Female Washing,Seat Heating,Water Pressure Adjustment,Warm Air Drying,Nozzle Self-cleaning,Automatic Deodorization,Movable Nozzle CleaningBrand Name: ECOFRESH INTHECONNECTIONBuffer Cover plate: YesCertification: CE,RoHSFeature: Children's Toilet Seats,Electric Faucets,Slow-Close Toilet SeatsFunction 1: kids toilet seatFunction 2: baby toilet seatFunction 3: Electronic bidet coverFunction 4: Toilet bowls for toiletsFunction 5: seat heatingFunction 6: for the old and childrenFunction 7: smart toilet seat coverHigh-concerned chemical: NoneIs Smart Device: YesModel Number: Ecofresh intelligent toilet seat coverOrigin: Mainland ChinaPower Source: ACRemote Control: IncludedShape: U-shapeSize: Long sizeToilet Seat Material: PP BoardToilet Seat Type: Closed Frontsize: short size Video Show of Model 2 and model 3's Functions *Although shape of model 2 and model 3 are different from model in the video (model 2 has LCD display), the functions are the similar. Ecofresh O-Shape, V-Shape and U-shape Intelligent Toilet Seat 1. Common Features of All models 1). Instant heating fresh water, without water storage, Healthier than water storage heating way. 2). All models have full functions (Model 4 without dryer): hip wash, female wash, child wash, moving wash (massage), 4 gears water temperature adjustment, 4 gears drying temperature adjustment, 4 gears seat temperature adjustment, water pressure adjustment, nozzle position adjustment, night light, and so on. 3). All models we gift 1 filter2. Difference: 1). Model 1 have choice of long size and short size, fits O-shape, V-shape and U-shape toilet bowl, Model 5 fits most of U-shape toilet bowl (Long and short size), Model 2, model 3, model 4 fit standard U-shape toilet bowl. 2). Model 4 has additional seat UV Bacteriostasis functions, before and after each use will automatically turn on the UV lamp to sterilize the seat ring. Only after the lid is closed, the ultraviolet sterilization function will be turned on, avoiding human body damage. It is more sanitary to use,,more suitable for public bathroom in home and office. 3) Model 5 is with smart light, when the bathroom becomes dark, night light of toiles seat will automatically turn on, when the bathroom becomes bright, the toilet seat's light will automatically turn off, This design is more humane. Thickness of model 5 almost is as same as ordinary toilet seat - only 9.1cm, Sitting is more comfortable. 4). Model 1, model 4 and model 5 are with single stainless steel nozzle. Model 2 and model 3 have choice of double stainless steel nozzles and double ABS nozzles. 5). Model 2, model 3 is with double nozzles (adding silver ion to sterilization) and LCD display, bubble washing (air and water mixture), ceramics rod heating, temperature is more stable and washing is more comfortable. 6), All models fit U-shape toilet, not only floor installed toilet, but also wall-mounted toilet. Model 1 also fits V-shape and O-Shape toilet. 7). model 1 shipped from China can customize language, can customize models with 110V and 220v-240v, and different plug. Pipe length can be extended, if you need, please contact us. * Common Features of all models Model 1. with single nozzle 1. Long and Short size2. Fits O-shape, V-shape and U-shape toilet bowl Updated remote control and functions * White remote control of model 1, which is shipped from China is upated as shown on following, The pure icon design is simpler, more recognizable, easier to understand, and simpler to operate. "Strong wash" function is added, which can promote intestinal peristalsis and favor defection. Model 2 and Model 3 Display Advantage: 1. Standard size: 507mm*381mm.2. Model 2 is with LCD display.2. Dual nozzle can be disassembled to clean.3. Water is mixed with air, washing with bubble water is more comfortable.4. Water and seat, drying is heated by ceramics rod, which makes water and seat, drying temperature more stable and comfortable.1. Standard size.5. Fits U-shape toilet bowl well.6. It is available in our Russia warehouse, spain poland warehouse, US warehouse and will be available in france warehouse (with manuals in different language - English, Russian, french.....).7. We have ourselves warehouse in Moscow of Russia and local workers, can provide you better before and after- service. * model 2 display LCD display * Model 3 display Common functions of model 2 and model 3 1.* Double ABS nozzles can be removed to clean, we gift a pair of nozzles to replace. Double stainless steel nozzles can't be removed to clean.2. Oxygen-rich SPA, is more comfortable than pure water wash. Night light Seat heating, 4 gears seat temperature adjustment Updated remote control * Model 2 is with new white remote control, a part of model 3 is with remote control with LCD display. Model 4 display 1). This model has additional seat ring UV sterilization, more suitable for public restroom at home or at office.2). This model has wash, moving wash, water heating, seat heating, seat temperature adjustment, water temperature adjustment, water pressure adjustment ----and soon on funtions, but hasn't drying function. Model 5 display 1). Thickness is similar as ordinary toilet seat - 9.1cm only, sitting is more comfortable. 2). With smart light, when bathroom is dark, light turns on automatically, when bathroom is bright, light turns off automatically, this design is convenient for users. Real shot (model 2) * Accessories We gift one filter as shown on the below picture and a pair of ABS nozzles for replacement (just for double ABS nozzles model). Please measure your toilet bowl carefully by pictures below and choose suitable shape and size of bidet. Note: If you don't know how to choose suitable model of smart toilet seat, please contact with us. Thanks! Note: If you don't know how to choose suitable bidet, please contact with us.
+  Updated: 2026-06-22T03:34:56Z
+  Vendor: PIUMA HOME
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Hb6ea41788f234621aa902babd8f2628dE.webp?v=1780089845
+  - [Model 1 Long / 220V-230V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766513828174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H173a624159f543bd9d128b1847bad75cB.webp?v=1780089845
+    Price: €220.09 EUR
+  - [Model 1 Long / 110V-130V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766513860942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H173a624159f543bd9d128b1847bad75cB.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Long / 110V-130V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766513893710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H173a624159f543bd9d128b1847bad75cB.webp?v=1780089845
+    Price: €220.09 EUR
+  - [Model 1 Short / 220V-230V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766513926478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H5db97eb187054e419b1aaf40cb333bfcm.webp?v=1780089845
+    Price: €220.09 EUR
+  - [Model 1 Short / 110V-130V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766513959246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H5db97eb187054e419b1aaf40cb333bfcm.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Long / 220V-230V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766513992014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H173a624159f543bd9d128b1847bad75cB.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Short / 110V-130V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514024782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H5db97eb187054e419b1aaf40cb333bfcm.webp?v=1780089845
+    Price: €220.09 EUR
+  - [Model 1 Long / 220V-230V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514057550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H173a624159f543bd9d128b1847bad75cB.webp?v=1780089845
+    Price: €176.92 EUR
+  - [Model 2 SS nozzles / 110V-130V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514090318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H943f414ef51d4ccc8165708344a34e31Y.webp?v=1780089845
+    Price: €293.45 EUR
+  - [Model 1 Long / 110V-130V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514123086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H173a624159f543bd9d128b1847bad75cB.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Short 1 / 110V-130V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514155854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Hee6a3687d66d467494502c7764ff62f0I.webp?v=1780089845
+    Price: €220.09 EUR
+  - [Model 2 SS nozzles / 220V-230V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514188622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H943f414ef51d4ccc8165708344a34e31Y.webp?v=1780089845
+    Price: €293.45 EUR
+  - [Model 1 Long / 220V-230V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514221390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H173a624159f543bd9d128b1847bad75cB.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Long / 110V-130V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514254158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H173a624159f543bd9d128b1847bad75cB.webp?v=1780089845
+    Price: €176.92 EUR
+  - [Model 1 Short 1 / 220V-230V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514286926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Hee6a3687d66d467494502c7764ff62f0I.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 2 SS nozzles / 110V-130V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514319694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H943f414ef51d4ccc8165708344a34e31Y.webp?v=1780089845
+    Price: €263.35 EUR
+  - [Model 1 Short 1 / 110V-130V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514352462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Hee6a3687d66d467494502c7764ff62f0I.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 2 SS nozzles / 220V-230V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514385230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H943f414ef51d4ccc8165708344a34e31Y.webp?v=1780089845
+    Price: €263.35 EUR
+  - [Model 3 side control / 220V-230V / Poland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514417998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2647e71ece3b4d7db023dcac1363eb2fI.webp?v=1780089845
+    Price: €234.54 EUR
+  - [Model 1 Short / 220V-230V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514450766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H5db97eb187054e419b1aaf40cb333bfcm.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Short 1 / 220V-230V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514483534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Hee6a3687d66d467494502c7764ff62f0I.webp?v=1780089845
+    Price: €220.09 EUR
+  - [Model 2 SS nozzles / 110V-130V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514516302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H943f414ef51d4ccc8165708344a34e31Y.webp?v=1780089845
+    Price: €263.35 EUR
+  - [Model 1 Short 1 / 110V-130V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514549070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Hee6a3687d66d467494502c7764ff62f0I.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 2 SS nozzles / 220V-230V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514581838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H943f414ef51d4ccc8165708344a34e31Y.webp?v=1780089845
+    Price: €263.35 EUR
+  - [Model 1 Short / 220V-230V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514614606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H5db97eb187054e419b1aaf40cb333bfcm.webp?v=1780089845
+    Price: €176.93 EUR
+  - [Model 1 Short 1 / 220V-230V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514647374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Hee6a3687d66d467494502c7764ff62f0I.webp?v=1780089845
+    Price: €185.15 EUR
+  - [Model 1 Short / 110V-130V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514680142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H5db97eb187054e419b1aaf40cb333bfcm.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Short 2 / 110V-130V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514712910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H483767416eaa4d9d8cfe5d5a0b263ff6f.webp?v=1780089845
+    Price: €220.09 EUR
+  - [Model 1 Short / 220V-230V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514745678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H5db97eb187054e419b1aaf40cb333bfcm.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Short 1 / 220V-230V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514778446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Hee6a3687d66d467494502c7764ff62f0I.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 2 SS nozzles / 110V-130V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514811214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H943f414ef51d4ccc8165708344a34e31Y.webp?v=1780089845
+    Price: €246.89 EUR
+  - [Model 1 Short / 110V-130V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514843982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H5db97eb187054e419b1aaf40cb333bfcm.webp?v=1780089845
+    Price: €176.93 EUR
+  - [Model 1 Short 1 / 110V-130V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514876750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Hee6a3687d66d467494502c7764ff62f0I.webp?v=1780089845
+    Price: €185.16 EUR
+  - [Model 2 SS nozzles / 220V-230V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514909518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H943f414ef51d4ccc8165708344a34e31Y.webp?v=1780089845
+    Price: €246.89 EUR
+  - [Model 1 Short 2 / 220V-230V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514942286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H483767416eaa4d9d8cfe5d5a0b263ff6f.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Short 2 / 110V-130V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766514975054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H483767416eaa4d9d8cfe5d5a0b263ff6f.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Short 2 / 220V-230V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515007822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H483767416eaa4d9d8cfe5d5a0b263ff6f.webp?v=1780089845
+    Price: €220.09 EUR
+  - [Model 1 Short 2 / 110V-130V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515040590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H483767416eaa4d9d8cfe5d5a0b263ff6f.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Short 2 / 220V-230V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515073358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H483767416eaa4d9d8cfe5d5a0b263ff6f.webp?v=1780089845
+    Price: €185.15 EUR
+  - [Model 2 ABS nozzles / 110V-130V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515106126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2d0ad4534e21462d8befd98b401313ad2.webp?v=1780089845
+    Price: €275.11 EUR
+  - [Model 1 Short 2 / 220V-230V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515138894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H483767416eaa4d9d8cfe5d5a0b263ff6f.webp?v=1780089845
+    Price: €197.51 EUR
+  - [Model 1 Short 2 / 110V-130V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515171662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H483767416eaa4d9d8cfe5d5a0b263ff6f.webp?v=1780089845
+    Price: €185.15 EUR
+  - [Model 2 ABS nozzles / 220V-230V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515204430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2d0ad4534e21462d8befd98b401313ad2.webp?v=1780089845
+    Price: €246.89 EUR
+  - [Model 2 ABS nozzles / 110V-130V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515237198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2d0ad4534e21462d8befd98b401313ad2.webp?v=1780089845
+    Price: €246.89 EUR
+  - [Model 2 ABS nozzles / 220V-230V / China Mainland](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515269966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2d0ad4534e21462d8befd98b401313ad2.webp?v=1780089845
+    Price: €275.11 EUR
+  - [Model 2 ABS nozzles / 110V-130V / United States](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515302734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2d0ad4534e21462d8befd98b401313ad2.webp?v=1780089845
+    Price: €246.89 EUR
+  - [Model 2 ABS nozzles / 220V-230V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515335502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2d0ad4534e21462d8befd98b401313ad2.webp?v=1780089845
+    Price: €234.54 EUR
+  - [Model 2 ABS nozzles / 220V-230V / spain](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515368270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2d0ad4534e21462d8befd98b401313ad2.webp?v=1780089845
+    Price: €246.89 EUR
+  - [Model 2 ABS nozzles / 110V-130V / Russian Federation](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515401038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2d0ad4534e21462d8befd98b401313ad2.webp?v=1780089845
+    Price: €234.54 EUR
+  - [Model 2 ABS nozzles / 110V-130V / france](https://www.piuma.online/products/ecofresh-u-o-v-shape-intelligent-toilet-seat-electric-bidet-cover-smart-bidet-heated-toilet-seat-led-light-wc-smart-toilet-seat?variant=59766515433806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/H2d0ad4534e21462d8befd98b401313ad2.webp?v=1780089845
+    Price: €246.89 EUR
+- [fregaderos de cocina Gold golden 5mm Waterfall Kitchen Sink Honeycomb Technology Large Digitial Display Stainless Steel Sink](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink): SPECIFICATIONSBowl Shape: RectangularBrand Name: NoEnName_NullColor: blackFeature: With FaucetHigh-concerned chemical: NoneInstallation Method: AssemblyMaterial: Stainless steelModel Number: zuixinNumber of Holes: Three,TwoOrigin: Mainland ChinaProduct Material: 304 stainless steelProduct Name: Kitchen SinkSink Style: Single BowlSurface : Brushedhole: 4sink thickness: 5mmNote before buying:1. Please confirm the amount of customs duties levied by the local customs on the product before purchasing. Buyer is responsible for customs duties. If you cannot acceptit, please do not place an order, thank you! 2. Since the sink is a large package, the logistics method is "seller shipping way ", and the transportation time is long, and it is expected to be shipped within 35-50 days. please wait patiently
+  Updated: 2026-06-22T03:34:56Z
+  Vendor: PIUMA HOME
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S0e8f7dee34ce4f548c3cd0f87144209bI.webp?v=1780089846
+  - [HW-7546 / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519038286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S1c55ef6b345141ba97cfcada1a51a922p.webp?v=1780089846
+    Price: €359.00 EUR
+  - [HW-8046 / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519071054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S863293943f93415bb064bd718f8b8286Y.webp?v=1780089846
+    Price: €367.26 EUR
+  - [HW-6846 / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519103822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S6be641fccfe54118b41eaacd27cdcbf0L.webp?v=1780089846
+    Price: €350.74 EUR
+  - [hwzx7546-S / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519136590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sf97750c4a0ea4fbca4edd8a7596996038.webp?v=1780089846
+    Price: €383.75 EUR
+  - [HW8248 / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519169358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S69848013fffd4908b72a15aa13fdc190o.webp?v=1780089846
+    Price: €367.26 EUR
+  - [HW8848 / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519202126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sfcf03b425c1b449bbe0cf97e4193f4a1N.webp?v=1780089846
+    Price: €379.63 EUR
+  - [hwzx7546-g / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519234894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S9dbce2f485114e239b03ff2db93dda61Z.webp?v=1780089846
+    Price: €375.83 EUR
+  - [HW8248 / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519267662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S69848013fffd4908b72a15aa13fdc190o.webp?v=1780089846
+    Price: €367.26 EUR
+  - [HW-8046 / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519300430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S863293943f93415bb064bd718f8b8286Y.webp?v=1780089846
+    Price: €367.26 EUR
+  - [HW9048 / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519333198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S93c11686d09840d197ffbe7233584b7bJ.webp?v=1780089846
+    Price: €392.01 EUR
+  - [HW8848 / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519365966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sfcf03b425c1b449bbe0cf97e4193f4a1N.webp?v=1780089846
+    Price: €379.63 EUR
+  - [HZ9048- LEFT / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519398734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S89665925eb914aecbe30998305fa4ba67.webp?v=1780089846
+    Price: €379.63 EUR
+  - [HW9048 / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519431502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S93c11686d09840d197ffbe7233584b7bJ.webp?v=1780089846
+    Price: €392.01 EUR
+  - [HW-7546 / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519464270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S1c55ef6b345141ba97cfcada1a51a922p.webp?v=1780089846
+    Price: €250.53 EUR
+  - [HW9050 / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519497038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S517b4d25b6d34690ba310fc81b58c6e6z.webp?v=1780089846
+    Price: €404.38 EUR
+  - [hwzx7546-g / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519529806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S9dbce2f485114e239b03ff2db93dda61Z.webp?v=1780089846
+    Price: €375.83 EUR
+  - [HZ9048- LEFT / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519562574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S89665925eb914aecbe30998305fa4ba67.webp?v=1780089846
+    Price: €379.63 EUR
+  - [HW-6846 / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519595342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S6be641fccfe54118b41eaacd27cdcbf0L.webp?v=1780089846
+    Price: €350.74 EUR
+  - [HW10050 / China Mainland](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519628110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sa3253c46e2a24c5994c672282312db41D.webp?v=1780089846
+    Price: €453.91 EUR
+  - [hwzx7546-S / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519660878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sf97750c4a0ea4fbca4edd8a7596996038.webp?v=1780089846
+    Price: €383.75 EUR
+  - [HW9050 / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519693646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S517b4d25b6d34690ba310fc81b58c6e6z.webp?v=1780089846
+    Price: €404.38 EUR
+  - [HW10050 / United States](https://www.piuma.online/products/fregaderos-de-cocina-gold-golden-5mm-waterfall-kitchen-sink-honeycomb-technology-large-digitial-display-stainless-steel-sink?variant=59766519726414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/Sa3253c46e2a24c5994c672282312db41D.webp?v=1780089846
+    Price: €453.91 EUR
+- [KEMAIDI Bathroom Vessel Sink Oval Glass Vessel Sink with Waterfall Faucet Tap Tempered Glass Bathroom Sinks Above Counter Basin](https://www.piuma.online/products/kemaidi-bathroom-vessel-sink-oval-glass-vessel-sink-with-waterfall-faucet-tap-tempered-glass-bathroom-sinks-above-counter-basin): SPECIFICATIONSBasin Shape: OvalBathroom Accessory: Drain PipeBrand Name: MEKKHALACapacity: 12LCertification: NONECold & Hot Water: YesFaucet Mount: Single HoleHigh-concerned chemical: NoneInstallation Method: AssemblyMaterial: GlassModel Number: 4103-1/18888Origin: Mainland ChinaProcessing: GlossySpecial Application: Shampoo SinksType: Countertop Sinks ☛【High Quality and Reliable Materials】: Our bathroom vessel sink is made of tempered glass, which has strong thermal stability, high safety, not easily corroded or aged. The impact strength and bending strength of tempered glass are also 3-6 times that of ordinary glass. It is not only durable, but also has a longer service life. ☛【Exquisite Manufacturing Process】: This bathroom sinks with a cold and hot mixing valve bathroom tap has been polished multiple times and edge grinding, with a smooth and beautiful surface without burrs, making it more comfortable to use. ☛【Don't worry about cleaning 】: This vessel sink with faucet and drain combo does not require a cleaning solution,gentle and clear tap water can clean this bathroom vessel sinks. ☛【Applicable Location】: Above counter black&grey bathroom oval glass sink. Bathroom vanity black&grey vessel sink. Bar oval vessel sink. Bathroom wash basin. ☛【High Quality Customer Service Team】: If you have any questions, please feel free to contact us, we will reply within 12 hours. 6792 All the painting are handmade,also due to the different angle and brightness so there might be a little bit difference of the painting lines between two pieces. Feature: Sleek European inspired modern contemporary Art design Luxury oversized creation Hand Painting Finish Wash Basin Sink Faucet Set Premium quality tempered glass construction Above the counter installation Chrome pop-up drain included What's Included: Faucet Tempered glass sink Chrome Pop-Up Drain Installation accessories Installations instrustion :
+  Updated: 2026-06-22T03:34:51Z
+  Vendor: PIUMA HOME
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S2ce95de1cb714113b9add382e55f08d5E.webp?v=1780089844
+  - [Russian Federation](https://www.piuma.online/products/kemaidi-bathroom-vessel-sink-oval-glass-vessel-sink-with-waterfall-faucet-tap-tempered-glass-bathroom-sinks-above-counter-basin?variant=59766513729870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S2ce95de1cb714113b9add382e55f08d5E.webp?v=1780089844
+    Price: €144.11 EUR
+  - [China Mainland](https://www.piuma.online/products/kemaidi-bathroom-vessel-sink-oval-glass-vessel-sink-with-waterfall-faucet-tap-tempered-glass-bathroom-sinks-above-counter-basin?variant=59766513762638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S2ce95de1cb714113b9add382e55f08d5E.webp?v=1780089844
+    Price: €161.98 EUR
+  - [United States](https://www.piuma.online/products/kemaidi-bathroom-vessel-sink-oval-glass-vessel-sink-with-waterfall-faucet-tap-tempered-glass-bathroom-sinks-above-counter-basin?variant=59766513795406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1040/4383/9822/files/S2ce95de1cb714113b9add382e55f08d5E.webp?v=1780089844
+    Price: €103.97 EUR
+[List Continued](https://www.piuma.online/a/llms-agent/llms.txt?shop=52kezq-fd.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTg1MzIwOTU4Mzk1MCwibGFzdF92YWx1ZSI6IjE1ODUzMjA5NTgzOTUwIn0%3D)
 
 ## Collections
 
 - [PIUMA HOME – Home Decor, Kitchen Tools & Smart Home Gadgets](https://www.piuma.online/collections/frontpage): Shop PIUMA HOME for premium home decor, smart kitchen tools, elegant vases, mood lighting & smart home gadgets. Elevate your living space today.
-  Updated: 2026-06-13T12:12:38Z
+  Updated: 2026-06-17T20:13:03Z
   Total Products: 30
 - [Best Kitchen Tools & Accessories for Every Home - PIUMA HOME](https://www.piuma.online/collections/kitchen-tools): Shop premium kitchen tools, utensils & gadgets at PIUMA HOME. Smart organizers, cooking accessories & innovative appliances for your kitchen.
-  Updated: 2026-06-13T12:12:38Z
+  Updated: 2026-06-17T20:12:02Z
   Total Products: 18
 - [Modern Lighting & Home Decor for Every Room - PIUMA HOME](https://www.piuma.online/collections/lighting-decor): Explore beautiful lighting & home decor at PIUMA HOME. LED lamps, projectors, wall sconces & unique decorative pieces to transform your space.
-  Updated: 2026-06-13T12:11:48Z
+  Updated: 2026-06-17T20:12:47Z
   Total Products: 7
 - [Elegant Vases & Home Decorative Accessories - PIUMA HOME](https://www.piuma.online/collections/vases-accessories): Shop beautiful vases & decorative accessories at PIUMA HOME. Porcelain, ceramic & boho styles to add elegance to your home decor.
   Updated: 2026-06-13T12:11:31Z
   Total Products: 4
 - [Food Containers, Lunch Boxes & Drink Accessories - PIUMA HOME](https://www.piuma.online/collections/food-drink): Shop insulated lunch boxes, water bottles & food accessories at PIUMA HOME. Stylish & practical solutions for meals at home or on the go.
-  Updated: 2026-06-13T12:10:52Z
+  Updated: 2026-06-17T20:11:50Z
   Total Products: 6
 - [Smart Cleaning Tools & Home Utility Products - PIUMA HOME](https://www.piuma.online/collections/cleaning-utilities): Shop smart cleaning tools & home utilities at PIUMA HOME. Innovative mops, vacuums & maintenance products to keep your home spotless.
-  Updated: 2026-06-13T11:55:44Z
+  Updated: 2026-06-17T20:12:03Z
   Total Products: 3
 - [Smart Home Storage & Organization Solutions - PIUMA HOME](https://www.piuma.online/collections/storage-organization): Discover storage & organization products at PIUMA HOME. Display cabinets, drawer liners & smart containers to declutter your home.
-  Updated: 2026-06-13T12:10:53Z
+  Updated: 2026-06-17T20:11:59Z
   Total Products: 7
 - [Unique Pet Accessories & Keepsakes for Animal Lovers - PIUMA HOME](https://www.piuma.online/collections/pet-accessories): Shop unique pet accessories & keepsakes at PIUMA HOME. Charming grooming tools & decorative items for pet lovers and their furry friends.
-  Updated: 2026-06-12T16:54:48Z
+  Updated: 2026-06-17T20:11:51Z
   Total Products: 1
 - [Exclusive Special Items & Collectibles for Your Home - PIUMA HOME](https://www.piuma.online/collections/special-items): Discover exclusive special items & collectibles at PIUMA HOME. Limited edition finds, unique home accents & perfect gifts for every occasion.
   Updated: 2026-06-12T16:54:48Z
   Total Products: 1
 - [Best  Home Decor & Kitchen Essentials – PIUMA HOME](https://www.piuma.online/collections/best-sellers): Shop our best- home decor, kitchen tools, and smart storage. Loved by customers across Europe.
-  Updated: 2026-06-14T15:42:50Z
+  Updated: 2026-06-17T20:13:03Z
   Total Products: 26
 - [AVADA - Best Sellers](https://www.piuma.online/collections/avada-best-sellers)
-  Updated: 2026-06-15T21:14:17Z
+  Updated: 2026-06-21T23:08:04Z
   Total Products: 481
 - [Dining & Serving Essentials for Your Home - PIUMA HOME](https://www.piuma.online/collections/dining-serving): Shop elegant dining and serving accessories at PIUMA HOME. Trays, serving dishes, and tableware for every occasion.
   Updated: 2026-06-12T16:54:49Z
@@ -1663,44 +1702,62 @@
   Updated: 2026-06-12T16:54:50Z
   Total Products: 0
 - [Kitchen Tools & Organizers](https://www.piuma.online/collections/kitchen-tools-organizers): Discover PIUMA Home's premium kitchen tools and organizers — designed to transform your cooking space into an efficient, beautiful, and organized haven. From spice racks to silicone utensils, every product is crafted to elevate your kitchen experience.
-  Updated: 2026-06-15T17:49:00Z
+  Updated: 2026-06-21T23:07:53Z
   Total Products: 118
 - [Home Décor & Lighting](https://www.piuma.online/collections/home-decor-lighting): Elevate every corner of your home with PIUMA Home's curated décor and lighting collection. From ambient LED lamps to elegant ceramic vases and artistic sculptures — discover pieces that transform any space into a beautifully designed sanctuary.
-  Updated: 2026-06-15T17:49:01Z
+  Updated: 2026-06-21T23:08:04Z
   Total Products: 87
 - [Pet Supplies](https://www.piuma.online/collections/pet-supplies): Show your pets the love they deserve with PIUMA Home's premium pet supplies collection. Carefully selected accessories, grooming tools, and fun essentials for cats, dogs, and all beloved companions — because your pet is family.
-  Updated: 2026-06-15T17:49:00Z
+  Updated: 2026-06-21T23:07:55Z
   Total Products: 59
 - [Smart Home & Appliances](https://www.piuma.online/collections/smart-home-appliances): Upgrade your home with PIUMA Home's smart appliances and modern home solutions. From robotic vacuums to food dehydrators, electric cookers, and innovative gadgets — designed to make daily life smarter, easier, and more efficient.
-  Updated: 2026-06-15T21:14:17Z
+  Updated: 2026-06-21T23:07:53Z
   Total Products: 92
 - [Best Sellers — Top Picks](https://www.piuma.online/collections/best-sellers-top-picks): Discover PIUMA Home's most-loved products — handpicked by thousands of happy customers across the USA, UK, and Europe. From kitchen organizers to ambient lighting and smart appliances, these are the products our customers keep coming back for. Shop our best sellers and see why PIUMA Home is the world's favourite home store.
-  Updated: 2026-06-15T17:48:48Z
+  Updated: 2026-06-21T23:07:42Z
   Total Products: 12
 - [Storage & Home Organization](https://www.piuma.online/collections/storage-home-organization): Bring order and elegance to every room with PIUMA Home's premium storage and organization collection. From wardrobe organizers to wall-mounted racks, drawer solutions, and clever space-saving systems — designed to make your home feel bigger, cleaner, and beautifully arranged.
-  Updated: 2026-06-15T17:49:00Z
+  Updated: 2026-06-21T23:07:53Z
   Total Products: 72
 - [Gifts & Special Occasions](https://www.piuma.online/collections/gifts-special-occasions): Find the perfect gift for everyone you love at PIUMA Home. Our carefully curated gift collection features premium home accessories, unique décor pieces, and thoughtful essentials — ideal for birthdays, housewarmings, weddings, Mother's Day, Christmas, and every special moment in between. Free shipping on orders over €60.
-  Updated: 2026-06-15T17:49:01Z
+  Updated: 2026-06-21T23:08:04Z
   Total Products: 36
 - [Bathroom & Faucets](https://www.piuma.online/collections/bathroom-faucets): Transform your bathroom into a personal spa with PIUMA Home's premium faucet and shower collection. From sleek matte black concealed shower systems to elegant waterfall basin mixers and rainfall shower panels — every piece is CE , beautifully designed, and built to last. Upgrade your bathroom, upgrade your daily ritual.
-  Updated: 2026-06-15T17:49:01Z
+  Updated: 2026-06-21T23:08:03Z
   Total Products: 99
 - [Outdoor & Garden](https://www.piuma.online/collections/outdoor-garden): Bring life and beauty to your outdoor spaces with PIUMA Home's garden and outdoor lighting collection. Solar-powered fairy lights, plant pots, and garden essentials — designed to make your garden, balcony, or patio as beautiful at night as it is during the day. Shop our curated outdoor collection and transform every outdoor moment.
-  Updated: 2026-06-15T17:49:01Z
+  Updated: 2026-06-21T23:07:59Z
   Total Products: 66
 - [New Arrivals — Latest from PIUMA Home](https://www.piuma.online/collections/new-arrivals-latest-from-piuma-home): Discover the latest arrivals at PIUMA Home — fresh products handpicked for quality, style, and value. Be the first to shop our newest home essentials, décor pieces, kitchen tools, and lifestyle upgrades.
-  Updated: 2026-06-15T17:49:01Z
-  Total Products: 64
+  Updated: 2026-06-25T10:26:06Z
+  Total Products: 63
 - [Dog Accessories & Clothing](https://www.piuma.online/collections/dog-accessories-clothing): Everything your dog needs to live their best life — from stylish hoodies and training harnesses to interactive toys and car seat covers. PIUMA Home's dog collection is curated for pet owners who believe their dog deserves the very best. Shop premium dog accessories, clothing, and enrichment products loved by dogs of all breeds and sizes.
-  Updated: 2026-06-15T17:49:00Z
+  Updated: 2026-06-21T23:07:55Z
   Total Products: 22
 - [Cat Accessories & Toys](https://www.piuma.online/collections/cat-accessories-toys): Spoil your cat with PIUMA Home's premium cat collection — interactive electric fish toys, self-cleaning litter boxes, cosy accessories, and everything that makes your feline companion's life more enriching, playful, and comfortable. Because your cat deserves the best too.
-  Updated: 2026-06-15T17:48:48Z
+  Updated: 2026-06-21T23:07:44Z
   Total Products: 29
 - [ & Special Offers](https://www.piuma.online/collections/-special-offers): Shop PIUMA Home's best deals — quality home products at unbeatable prices. Our  collection features selected pieces from every category, from kitchen tools to home décor and pet accessories. Limited stock available — grab your favourites before they're gone. Use code SUMMER25 for an extra 25% off.
-  Updated: 2026-06-15T17:49:30Z
+  Updated: 2026-06-21T23:08:04Z
   Total Products: 262
+- [Digital Goods VAT Tax](https://www.piuma.online/collections/digital-goods-vat-tax)
+  Updated: 2026-06-21T17:04:46Z
+  Total Products: 0
+- [Premium Kitchen Tools & Accessories — PIUMA HOME](https://www.piuma.online/collections/kitchen-cooking): Shop premium kitchen tools at PIUMA HOME. Spice organizers, food dehydrators, faucets and more for the modern kitchen.
+  Updated: 2026-06-21T23:36:26Z
+  Total Products: 98
+- [Home Décor & Vases — Sculptural Pieces — PIUMA HOME](https://www.piuma.online/collections/home-decor-vases): Shop premium home décor and vases at PIUMA HOME. Porcelain, ceramic, and sculptural pieces for elegant interiors.
+  Updated: 2026-06-21T23:38:32Z
+  Total Products: 3
+- [Ambient Lighting & Projector Lamps — PIUMA HOME](https://www.piuma.online/collections/lighting-ambiance): Shop ambient lighting at PIUMA HOME. Sunset projectors, LED night lights and mood lamps for bedroom and living room.
+  Updated: 2026-06-21T23:40:14Z
+  Total Products: 12
+- [Smart Cleaning & Home Organization Tools — PIUMA HOME](https://www.piuma.online/collections/cleaning-organization): Shop smart cleaning and organization tools at PIUMA HOME. Spin mops, spice racks and more for an organized home.
+  Updated: 2026-06-21T23:41:28Z
+  Total Products: 3
+- [Beauty & Skincare Essentials — Mini Fridge & More — PIUMA HOME](https://www.piuma.online/collections/beauty-skincare): Shop beauty and skincare tools at PIUMA HOME. Mini beauty fridges and skincare accessories for your daily routine.
+  Updated: 2026-06-21T23:42:48Z
+  Total Products: 2
 
 ## Blogs
 
@@ -2044,6 +2101,16 @@
   Updated: 2026-06-13T19:14:49Z
 - [Customer Support Center](https://www.piuma.online/pages/customer-support): {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.piuma.online#organization","name":"PIUMA HOME","url":"https:/...
   Updated: 2026-06-09T22:12:18Z
+- [Manage Subscription](https://www.piuma.online/pages/joy-subscription)
+  Updated: 2026-06-16T17:24:56Z
+- [Refund & Return Policy | PIUMA HOME — 14-Day Easy Returns](https://www.piuma.online/pages/refund-return-policy): .piuma-policy { font-family: 'Georgia', serif; color: #2c2c2c; max-width: 860px; margin: 0 auto; padding: 40px 20px; } .piuma-policy h1 { font-size...
+  Updated: 2026-06-16T21:06:46Z
+- [Shipping Policy | PIUMA HOME — Fast Worldwide Delivery](https://www.piuma.online/pages/shipping-policy-piuma): .piuma-policy { font-family: 'Georgia', serif; color: #2c2c2c; max-width: 860px; margin: 0 auto; padding: 40px 20px; } .piuma-policy h1 { font-size...
+  Updated: 2026-06-16T21:06:46Z
+- [Privacy Policy | PIUMA HOME — GDPR Compliant Data Protection](https://www.piuma.online/pages/privacy-policy-piuma): .piuma-policy { font-family: 'Georgia', serif; color: #2c2c2c; max-width: 860px; margin: 0 auto; padding: 40px 20px; } .piuma-policy h1 { font-size...
+  Updated: 2026-06-16T21:06:46Z
+- [Terms of Service | PIUMA HOME — Premium Home Decor Store](https://www.piuma.online/pages/terms-of-service-piuma): .piuma-policy { font-family: 'Georgia', serif; color: #2c2c2c; max-width: 860px; margin: 0 auto; padding: 40px 20px; } .piuma-policy h1 { font-size...
+  Updated: 2026-06-16T21:03:51Z
 
 ## Policies
 
