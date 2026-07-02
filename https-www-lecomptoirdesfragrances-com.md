@@ -8,10 +8,17 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-29T15:35:06Z
 - Contact Email: sav.lecomptoirdesfragrances@gmail.com
-- Updated At: 2026-06-23T00:00:37.149Z
+- Updated At: 2026-07-02T00:00:39.537Z
 
 ## Products
 
+- [Bois Précieux - Extrait de Parfum Mixte - Inspiré de Bois d’Argent](https://www.lecomptoirdesfragrances.com/products/parfum-boisprecieux): Extrait de parfum dupe fabriqué en France, inspiré Bois d’Argent. Création noble et profonde Comptoir des Fragrances. Création inspiration parfum grande marque.
+  Updated: 2026-07-01T23:41:46Z
+  Vendor: Comptoir Des Fragrances
+  Product Type: Inspiration Bois d'Argent
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/boisdargent.jpg?v=1781133946
+  Price: 34,90 € EUR
 - [Kirenzi - Extrait de Parfum Mixte - Inspiré de Kirké](https://www.lecomptoirdesfragrances.com/products/parfum-kirenzi): Kirenzi, parfum mixte dupe inspiré de Kirké, extrait fabriqué en France. Un sillage unique, élégant et intense pour sublimer chaque instant.
   Updated: 2026-06-11T00:00:18Z
   Vendor: Comptoir Des Fragrances
@@ -27,7 +34,7 @@
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/magique_5.jpg?v=1781134020
   Price: 34,90 € EUR
 - [Oud Nomade - Extrait de Parfum Homme - Inspiré de Ombre Nomade](https://www.lecomptoirdesfragrances.com/products/parfum-oudnomade): Parfum Oude Nomade, parfum dupe masculin, extrait de parfum fabriqué en France. Sillage intense et raffiné, inspiré Ombre Nomade, parfait pour les occasions spéciales.
-  Updated: 2026-06-20T11:50:12Z
+  Updated: 2026-06-25T10:30:18Z
   Vendor: Comptoir Des Fragrances
   Product Type: Inspiration Ombre Nomade
   Availability: Available
@@ -251,16 +258,16 @@
 ## Collections
 
 - [Orderly Emails - Recommended Products](https://www.lecomptoirdesfragrances.com/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-06-09T09:52:14Z
-  Total Products: 32
+  Updated: 2026-07-01T20:38:26Z
+  Total Products: 33
 - [Meilleures Ventes - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/collections/meilleures-ventes): Découvrez les meilleures ventes Le Comptoir des Fragrances, parfums dupe extraits fabriqués en France, inspirés par les parfums des grandes marques.
-  Updated: 2026-06-11T00:05:47Z
+  Updated: 2026-06-25T11:50:52Z
   Total Products: 8
 - [Parfum Mixte  Extrait de parfum Français - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/collections/parfums-mixte): Découvrez chez Comptoir des Fragrances des parfums mixtes dupe, extrait de parfum fabriqué en France, inspirés de grandes marques réputées.
   Updated: 2026-06-10T19:58:34Z
   Total Products: 14
 - [Parfum Homme-  Extrait de parfum Français - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/collections/parfums-homme): Le Comptoir des Fragrances propose des parfums homme dupe, extraits de parfum 100% fabriqués en France, inspirés des plus grandes marques prestigieuses
-  Updated: 2026-06-06T23:18:10Z
+  Updated: 2026-06-25T11:50:52Z
   Total Products: 6
 - [Parfum Femme  Extrait de parfum Français - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/collections/parfums-femme): Le Comptoir des Fragrances propose des parfums femme dupe, extraits de parfum 100% fabriqués en France, inspirés des plus grandes marques prestigieuses.
   Updated: 2026-06-06T23:29:55Z
@@ -306,7 +313,7 @@
 - [Privacy Policy](https://www.lecomptoirdesfragrances.com/policies/privacy-policy)
   Updated: 2025-09-18T10:24:19+02:00
 - [Refund Policy](https://www.lecomptoirdesfragrances.com/policies/refund-policy)
-  Updated: 2025-09-18T10:23:03+02:00
+  Updated: 2026-06-25T13:08:57+02:00
 - [Terms of Service](https://www.lecomptoirdesfragrances.com/policies/terms-of-service)
   Updated: 2025-09-18T10:25:51+02:00
 - [Contact Information](https://www.lecomptoirdesfragrances.com/policies/contact-information)
