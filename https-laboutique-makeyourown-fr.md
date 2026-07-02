@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-09-08T08:53:04Z
 - Contact Email: charline@makeyourown.fr
-- Updated At: 2026-06-19T00:00:36.664Z
+- Updated At: 2026-07-02T00:00:40.177Z
 
 ## Products
 
@@ -253,7 +253,7 @@
     Availability: Available
     Price: 25,00 € EUR
 - [stage été couture 8 - 11 ans après-midi du 20 au 24 juillet 2026](https://laboutique.makeyourown.fr/products/stage-8-11-ans-ete): Stage d'été couture enfant semaine 30. Au programme : bouillotte Cherry (à chaud ou à froid), panier et ses lingettes, tote bag et housse de coussin. Pour les 8 – 11 ans MYO Café Couture à Neuville-sur-Saône Du lundi 20 au vendredi 24 juillet L'après-midi de 14h à 17h 6 places Pour que votre enfant profite d’une expérience la plus personnelle possible, il devra apporter ses propres fournitures pour réaliser ses créations.Suite à votre inscription, vous recevrez la liste des fournitures. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
-  Updated: 2026-06-08T13:23:35Z
+  Updated: 2026-06-24T05:33:07Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: 
   Availability: Available
@@ -345,10 +345,10 @@
   Updated: 2026-04-20T16:30:35Z
   Total Products: 2
 - [stages vacances scolaires](https://laboutique.makeyourown.fr/collections/stages-vacances-scolaires): Les vacances scolaires sont un temps précieux pour le développement personnel des enfants. Au delà du loisir créatif, la couture développe la concentration, la précision, la coordination, mais surtout la confiance. Je vous propose des stages créatifs sur une semaine en demie journée. En petit groupe de 6 maximum, votre enfant entre dans un véritable atelier de création. Il ne s’agit pas simplement de coudre. Il s’agit d’apprendre à suivre un projet, à manipuler des outils, à faire preuve de patience, à transformer une idée en une pièce confectionnée et rapportée fièrement à la maison.
-  Updated: 2026-06-02T11:50:15Z
+  Updated: 2026-06-24T11:44:44Z
   Total Products: 7
 - [Sélection du moment](https://laboutique.makeyourown.fr/collections/selection-du-moment)
-  Updated: 2026-06-03T07:54:11Z
+  Updated: 2026-06-24T11:44:44Z
   Total Products: 9
 
 ## Blogs
