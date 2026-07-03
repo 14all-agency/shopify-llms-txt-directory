@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-06-26T08:00:33.163Z
+- Updated At: 2026-07-03T12:00:33.986Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1093,7 +1093,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedHeartCupcakePinkBlueandPurpleBookmarks5-up-PrintablePlanning.jpg?v=1686328176
   Price: $5.95 USD
 - [Personalized Blank Piano and Vocals Sheet Music - Printable](https://printableplanning.com/products/personalized-blank-piano-and-vocals-sheet-music-printable): A printable page of BLANK sheet music for piano and vocals, that can be personalized every time you print. The editable part of this printable personalized blank piano and vocals music sheet PDF file allows you to change the title or delete the title, and edit the name line as well. The music, notes, and/or vocals must be written in by hand. Print as many sheets as you need, or a new sheet every time you need one. Each page is offset to the right to allow room for a DIY 3-hole punch for binder inclusion. Fonts, font sizes, and colors available only as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Full page blank sheet music. Simple and clean. Offset for DIY 3-hole punch. Print a new page of this printable personalized blank piano and vocals music sheet every time you need more sheet music. NOTE: This is NOT a computer program for writing music. This is an editable PDF file for title and attribution only.
-  Updated: 2026-06-24T18:25:30Z
+  Updated: 2026-07-01T15:50:33Z
   Vendor: Artistically Invited
   Product Type: Miscellaneous
   Availability: Available
@@ -1153,19 +1153,19 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-06-24T18:22:01Z
-  Total Products: 413
+  Updated: 2026-07-02T15:14:23Z
+  Total Products: 415
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-05-29T11:01:00Z
   Total Products: 238
 - [Printable Downloads | Checklists, Planners, Forms, and Trackers](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-06-24T18:24:57Z
-  Total Products: 413
+  Updated: 2026-07-02T15:14:23Z
+  Total Products: 415
 - [Organization Printables | Lists, Logs, and Helpers](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-06-24T18:24:57Z
+  Updated: 2026-07-02T11:01:03Z
   Total Products: 13
 - [Caregiver Forms | Health Logs and Housekeeping](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-06-24T18:24:57Z
+  Updated: 2026-07-02T15:13:33Z
   Total Products: 46
 - [Printable Financial Sheets | Budget, Bills, Savings, and Debt](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
   Updated: 2026-06-24T18:24:57Z
@@ -1195,14 +1195,14 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-06-24T18:24:58Z
   Total Products: 8
 - [Small Business Printables | Invoices, Trackers, and Forms](https://printableplanning.com/collections/small-business-sheets-and-forms): Small business printables for invoices, scheduling, bookkeeping, and tracking. Simple forms and sheets to organize work and clients.
-  Updated: 2026-06-24T18:24:58Z
-  Total Products: 15
+  Updated: 2026-07-02T14:35:51Z
+  Total Products: 16
 - [Printable To-Do Lists and Task Checklists | Daily and Weekly](https://printableplanning.com/collections/to-do-lists-and-task-checklists): Printable to-do lists and task checklists for daily planning, weekly routines, and project tracking. Simple pages to keep tasks organized.
-  Updated: 2026-06-24T18:24:58Z
-  Total Products: 31
+  Updated: 2026-07-02T15:14:23Z
+  Total Products: 33
 - [Low-Energy Planning Pages](https://printableplanning.com/collections/low-energy-planning-pages): Explore low-energy planning pages and gentle printable tools for overwhelming days, brain dumps, task sorting, life admin catch-up, home resets, and realistic daily planning.
-  Updated: 2026-06-24T18:24:58Z
-  Total Products: 5
+  Updated: 2026-07-02T15:14:23Z
+  Total Products: 7
 
 ## Store Pages
 
@@ -1214,6 +1214,8 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2025-08-05T16:52:45Z
 - [FAQs & Troubleshooting | Printable Planning Help Page](https://printableplanning.com/pages/faqs-and-important-details): IMPORTANT DETAILS: Fonts, colors, and layouts are only available as shown in each listing. Customizations are not included with standard purchases....
   Updated: 2025-08-05T16:42:49Z
+- [Newsletter | Information, Updates, and  Announcements](https://printableplanning.com/pages/newsletter): Sign up for emails and receive periodic news,  announcements, new printable page releases, and helpful collections throughout the year.
+  Updated: 2026-06-30T13:34:08Z
 
 ## Policies
 
