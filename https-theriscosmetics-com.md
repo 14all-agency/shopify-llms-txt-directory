@@ -10,7 +10,7 @@
 - Contact Email: info@theriscosmetics.com
 - Contact Phone: 081 1964 2765
 - Address: Via Leonardo Bianchi, 680131 Napoli NA
-- Updated At: 2026-06-26T00:00:36.224Z
+- Updated At: 2026-07-03T00:00:37.912Z
 
 ## Products
 
@@ -50,7 +50,7 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/LUMIERE_2.jpg?v=1773160944
   Price: 32,70 € EUR
 - [Crema Viso Giorno Idratante con SPF Vitalité 50ml | Theris](https://theriscosmetics.com/products/vitalite-crema-giorno): Crema viso giorno idratante con filtri solari SPF. Protegge, illumina ed è base perfetta per il make-up. Made in Italy. Scoprila ora.
-  Updated: 2026-06-09T23:52:03Z
+  Updated: 2026-07-02T15:35:24Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
@@ -175,45 +175,52 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/f0c0732a-dbbb-4fae-8193-7bb69bfc9e8c.png?v=1777038754
   Price: 49,84 € EUR
+- [Rayon De Soleil Olio Illuminante Viso e Corpo | Theris](https://theriscosmetics.com/products/rayon-de-soleil-olio-illuminante): Olio illuminante Theris dall'effetto luce dorata: nutre la pelle e ne esalta la luminosità naturale con pigmenti perlati. Texture setosa, non unge.
+  Updated: 2026-07-01T12:26:18Z
+  Vendor: Theris
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/OLIOTHERIS.jpg?v=1782472263
+  Price: 32,00 € EUR
 
 ## Collections
 
 - [Sieri Viso Antiossidanti Per Pelle Luminosa](https://theriscosmetics.com/collections/sieri-viso): Scopri la collezione Sieri Viso: sieri nutrienti che idratano, illuminano la pelle e offrono protezione, grazie a ingredienti naturali e formule efficaci.
-  Updated: 2026-06-22T11:41:52Z
-  Total Products: 6
+  Updated: 2026-07-02T11:36:46Z
+  Total Products: 7
 - [Detergenti Viso: Struccanti e Acqua Micellare | Theris](https://theriscosmetics.com/collections/detersione): Detergenti viso Theris: gel, burro struccante e acqua micellare vegani Made in Italy per una detersione delicata. Pelle pulita, fresca e luminosa.
-  Updated: 2026-06-21T11:29:15Z
+  Updated: 2026-06-26T16:32:04Z
   Total Products: 3
 - [Tonico Viso Riequilibrante | Theris](https://theriscosmetics.com/collections/tonici): Tonici viso Theris: formule delicate e riequilibranti, vegane e Made in Italy, che rinfrescano la pelle e preparano all'assorbimento di sieri e creme.
   Updated: 2026-06-10T11:37:41Z
   Total Products: 1
 - [Creme Viso Idratanti Giorno e Notte | Theris](https://theriscosmetics.com/collections/creme-viso): Creme viso idratanti Theris, giorno e notte: formule vegane Made in Italy che nutrono e proteggono. Pelle morbida, elastica e luminosa.
-  Updated: 2026-06-09T12:40:06Z
-  Total Products: 2
+  Updated: 2026-07-02T11:36:46Z
+  Total Products: 3
 - [Contorno Occhi Antirughe per Borse e Occhiaie | Theris](https://theriscosmetics.com/collections/contorno-occhi): Contorno occhi Theris: crema antirughe vegana Made in Italy contro borse, occhiaie e segni di stanchezza. Sguardo fresco e disteso ogni giorno.
   Updated: 2026-06-15T11:47:00Z
   Total Products: 1
 - [Cura del Corpo: Creme e Scrub Corpo | Theris](https://theriscosmetics.com/collections/corpo): Prodotti per la cura del corpo Theris: creme idratanti e scrub esfolianti vegani Made in Italy. Pelle morbida, nutrita e levigata ogni giorno.
-  Updated: 2026-06-09T12:32:41Z
-  Total Products: 3
+  Updated: 2026-07-02T11:36:46Z
+  Total Products: 4
 - [Trattamenti Illuminanti Viso per Pelle Spenta | Theris](https://theriscosmetics.com/collections/illuminante-pelle-spenta): Trattamenti illuminanti viso Theris per pelle spenta: sieri alla vitamina C ed esfolianti delicati, vegani e Made in Italy. Scopri il glow.
-  Updated: 2026-06-22T11:41:52Z
-  Total Products: 3
+  Updated: 2026-07-02T11:36:46Z
+  Total Products: 4
 - [Trattamenti Pelle Impura e Pori Dilatati | Theris](https://theriscosmetics.com/collections/pelle-impura-pori-dilatati): Trattamenti viso Theris per pelle impura e pori dilatati: detergenti, sieri purificanti ed esfolianti vegani Made in Italy. Pelle pulita e levigata.
-  Updated: 2026-06-22T11:41:52Z
+  Updated: 2026-06-26T16:32:04Z
   Total Products: 4
 - [Creme e Sieri Anti-Age Rassodanti | Theris](https://theriscosmetics.com/collections/anti-age-rassodante): Trattamenti anti-age Theris: creme e sieri rassodanti al collagene, vegani e Made in Italy, contro rughe e perdita di tono. Pelle più giovane.
   Updated: 2026-06-15T11:47:00Z
   Total Products: 5
 - [Creme Idratanti Viso e Corpo | Theris](https://theriscosmetics.com/collections/idratazione-intensa): Creme idratanti viso e corpo Theris: formule vegane Made in Italy per pelli secche. Idratazione intensa e duratura. Scopri la collezione.
-  Updated: 2026-06-09T12:12:16Z
-  Total Products: 3
+  Updated: 2026-07-02T11:36:46Z
+  Total Products: 4
 - [Esfolianti Viso e Corpo: Scrub e Sieri | Theris](https://theriscosmetics.com/collections/esfoliazione-rinnovo-cellulare): Esfolianti viso e corpo Theris: sieri e scrub vegani Made in Italy per il rinnovamento cellulare. Pelle levigata, luminosa e rinnovata.
   Updated: 2026-06-22T11:41:52Z
   Total Products: 2
 - [All Products (ChatGPT-AI Product Description)](https://theriscosmetics.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-06-23T12:22:50Z
-  Total Products: 24
+  Updated: 2026-07-02T11:36:46Z
+  Total Products: 25
 - [Best Seller: i Prodotti Skincare Più Venduti | Theris](https://theriscosmetics.com/collections/best-seller): I best seller Theris: i prodotti skincare più amati e venduti, tra sieri, creme e trattamenti vegani Made in Italy. Scopri i nostri must-have.
   Updated: 2026-06-10T11:37:41Z
   Total Products: 5
@@ -235,6 +242,15 @@
     Updated: 2026-06-19T08:59:39Z
     Author: Cristiano De Luca
     Tags: routine skincare, skincare
+  - [In che ordine applicare i prodotti skincare | Theris](https://theriscosmetics.com/blogs/news/in-che-ordine-applicare-i-prodotti-skincare-la-guida-completa-per-il-viso): In che ordine applicare i prodotti skincare | Theris
+    Updated: 2026-06-26T11:42:47Z
+    Author: Cristiano De Luca
+  - [Siero alla vitamina C: a cosa serve e come sceglierlo | Theris](https://theriscosmetics.com/blogs/news/siero-alla-vitamina-c-a-cosa-serve-e-come-sceglierlo): Siero alla vitamina C: a cosa serve e come sceglierlo | Theris
+    Updated: 2026-06-26T11:43:46Z
+    Author: Cristiano De Luca
+  - [Come eliminare le macchie del viso | Theris](https://theriscosmetics.com/blogs/news/come-eliminare-le-macchie-del-viso-ingredienti-e-routine-efficace): Come eliminare le macchie del viso | Theris
+    Updated: 2026-06-26T11:43:12Z
+    Author: Cristiano De Luca
 
 ## Store Pages
 
