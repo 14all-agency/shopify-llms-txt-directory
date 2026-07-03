@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2017-06-22T06:41:36Z
 - Contact Email: online@hgmw.co.za
-- Updated At: 2026-06-15T08:43:29.868Z
+- Updated At: 2026-07-03T11:13:04.571Z
 
 ## Products
 
@@ -378,76 +378,55 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2118/7275/files/Spot-360x.webp?v=1755093779
   Price: R 18,979.00 ZAR
-- [Samson C01U Pro – USB Studio Condenser Microphone](https://www.harrygreenmusicworld.co.za/products/samson-usb-condenser-zero-latency-monitoring-headphone-output): Samson C01U Pro – USB Studio Condenser Microphone Description The Samson C01U Pro builds on the legacy of the world’s first USB studio condenser mic. Designed for musicians, podcasters, and creators, it captures warm, detailed sound straight to your computer or mobile device — no interface required. With zero-latency monitoring and studio-grade construction, it’s the perfect all-in-one recording solution. Features: USB studio condenser microphone Large 19mm diaphragm for pristine studio-quality sound Headphone output for zero-latency monitoring Ideal for music recording, voiceovers, podcasts, and video production Improves voice clarity for Skype, FaceTime, VoIP, and speech-to-text apps Supercardioid pickup pattern minimizes background noise Smooth, flat 20Hz–18kHz frequency response 16-bit, 44.1/48kHz digital resolution Solid die-cast metal construction for durability Shock-mounted microphone element reduces handling noise Peak LED indicator for level monitoring Plug-and-play – no drivers required Compatible with Mac, PC, and iPad (via Lightning USB adapter) USB bus powered (cable included) Includes tripod stand, swivel mount, and USB cable Optional Samson Sound Deck noise cancellation software available (Mac/Windows) Specifications Frequency Response: 20Hz – 18kHz Polar Pattern: Supercardioid Element Type: Back condenser Diaphragm Thickness: 3 microns Digital Sensitivity: Minimum Gain: -40 dBFS/Pa Maximum Gain: -4 dBFS/Pa Max SPL: 130 dB Great ForHome studios | Podcasting | Content creation | Online meetings | Music production Dimensions 7" × 2.125" × 2.125" (180mm × 54mm × 54mm) Weight 2.5 lbs (1.15 kg) Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-06T07:29:21Z
+- [Samson C01U Pro – USB Studio Condenser Microphone](https://www.harrygreenmusicworld.co.za/products/samson-usb-condenser-zero-latency-monitoring-headphone-output): The Samson C01U Pro builds on the legacy of the world’s first USB studio condenser mic. Designed for musicians, podcasters, and creators, it captures warm, detailed sound straight to your computer or mobile device — no interface required. With zero-latency monitoring and studio-grade construction, it’s the perfect all-in-one recording solution. Features: USB studio condenser microphone Large 19mm diaphragm for pristine studio-quality sound Headphone output for zero-latency monitoring Ideal for music recording, voiceovers, podcasts, and video production Improves voice clarity for Skype, FaceTime, VoIP, and speech-to-text apps Supercardioid pickup pattern minimizes background noise Smooth, flat 20Hz–18kHz frequency response 16-bit, 44.1/48kHz digital resolution Solid die-cast metal construction for durability Shock-mounted microphone element reduces handling noise Peak LED indicator for level monitoring Plug-and-play – no drivers required Compatible with Mac, PC, and iPad (via Lightning USB adapter) USB bus powered (cable included) Includes tripod stand, swivel mount, and USB cable Optional Samson Sound Deck noise cancellation software available (Mac/Windows) Specifications Frequency Response: 20Hz – 18kHz Polar Pattern: Supercardioid Element Type: Back condenser Diaphragm Thickness: 3 microns Digital Sensitivity: Minimum Gain: -40 dBFS/Pa Maximum Gain: -4 dBFS/Pa Max SPL: 130 dB Great ForHome studios | Podcasting | Content creation | Online meetings | Music production Dimensions 7" × 2.125" × 2.125" (180mm × 54mm × 54mm) Weight 2.5 lbs (1.15 kg) Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
+  Updated: 2026-06-29T19:46:05Z
   Vendor: Samson
   Product Type: Condenser Microphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2118/7275/files/CO1U_Pro_Stand_1.webp?v=1760687982
-  Price: R 2,199.00 ZAR
-- [Samson QH4 – 4-Channel Headphone Amplifier](https://www.harrygreenmusicworld.co.za/products/samson-4-channel-mini-headphone-amp): Samson QH4 – 4-Channel Headphone Amplifier Description The QH4 is a professional-grade, high-performance headphone amplifier designed for studios, podcasts, and multimedia setups. It allows up to four users to monitor audio with independent control, crystal-clear sound, and powerful output — all without signal loss. Features 4-channel stereo headphone distribution amplifier Four independent ¼" stereo headphone outputs Individual volume controls for each channel Two balanced ¼" input connectors Stereo ⅛" (3.5mm) Aux input and output for daisy-chaining multiple units Master Mute and Mono switches for quick mix checks Ultra-low noise floor with wide dynamic range Rugged desktop design for studio and home use Specifications Inputs: 2 × ¼" balanced 1 × ⅛" unbalanced TRS (Aux input) Outputs: 4 × ¼" unbalanced stereo 1 × ⅛" unbalanced TRS (Aux output) Controls: Master Volume Master Mute Master Mono 4 × Channel Volume knobs Noise Floor: -114 dBu (22k BW unweighted) Maximum Output: 8.3 dBu @ 1% THD+N, 16Ω load Output Power: 282 mW per side / 564 mW per channel (32Ω load) Dynamic Range: 122 dB (22k BW) Frequency Response: 17 Hz – 47 kHz (-3 dB) Power: 15V DC adapter Ideal For Studio tracking and mixing Podcasting setups Group monitoring sessions Audio production and mastering environments Dimensions 150 × 250 × 60 mm Weight 0.8 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-06T07:29:12Z
+  Price: R 1,595.00 ZAR
+- [Samson QH4 – 4-Channel Headphone Amplifier](https://www.harrygreenmusicworld.co.za/products/samson-4-channel-mini-headphone-amp): The Samson QH4 is a professional-grade, high-performance headphone amplifier designed for studios, podcasts, and multimedia setups. It allows up to four users to monitor audio with independent control, crystal-clear sound, and powerful output — all without signal loss. Features 4-channel stereo headphone distribution amplifier Four independent ¼" stereo headphone outputs Individual volume controls for each channel Two balanced ¼" input connectors Stereo ⅛" (3.5mm) Aux input and output for daisy-chaining multiple units Master Mute and Mono switches for quick mix checks Ultra-low noise floor with wide dynamic range Rugged desktop design for studio and home use Specifications Inputs: 2 × ¼" balanced 1 × ⅛" unbalanced TRS (Aux input) Outputs: 4 × ¼" unbalanced stereo 1 × ⅛" unbalanced TRS (Aux output) Controls: Master Volume Master Mute Master Mono 4 × Channel Volume knobs Noise Floor: -114 dBu (22k BW unweighted) Maximum Output: 8.3 dBu @ 1% THD+N, 16Ω load Output Power: 282 mW per side / 564 mW per channel (32Ω load) Dynamic Range: 122 dB (22k BW) Frequency Response: 17 Hz – 47 kHz (-3 dB) Power: 15V DC adapter Ideal For Studio tracking and mixing Podcasting setups Group monitoring sessions Audio production and mastering environments Dimensions 150 × 250 × 60 mm Weight 0.8 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
+  Updated: 2026-06-30T11:52:19Z
   Vendor: Samson
   Product Type: Headphone Amplifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2118/7275/files/QH4-HO.webp?v=1760685109
-  Price: R 2,299.00 ZAR
-- [Samson Concert 99 Earset – UHF Wireless System with SE10](https://www.harrygreenmusicworld.co.za/products/samson-concert-99-earset-system-w-se10-band-k): Samson Concert 99 Earset – UHF Wireless System with SE10 Description The Samson Concert 99 Earset is a professional UHF wireless system designed for presenters, educators, fitness instructors, houses of worship, and production environments that demand clarity, reliability, and hands-free performance. Featuring 80 selectable channels, one-touch setup, and a rugged all-metal receiver, it delivers stable wireless operation with excellent audio quality. The system includes the CB99 beltpack transmitter paired with Samson’s low-profile SE10 omnidirectional earset microphone, offering clear vocal pickup, secure fit, and dependable performance over long sessions. Features Frequency-agile UHF wireless system 80 operating channels across 24 MHz bandwidth Up to 300 ft (100 m) operating range (line of sight) One-touch setup with Group Scan IR Sync for wireless frequency matching SE10 low-profile omnidirectional earset microphone CB99 beltpack transmitter with variable gain control One-touch, pop-free mute button Up to 8 hours battery life on two AA batteries Rugged, all-metal, rack-mountable receiver Backlit LCD for RF, audio, and battery monitoring True RF diversity design to minimize dropouts Balanced XLR and unbalanced ¼″ outputs AC adapter and rackmount kit included Specifications System Wireless Type: UHF, frequency-agile Channels: 80 Simultaneous Systems: Up to 8 per band (region dependent) Operating Range: 300 ft / 100 m Frequency Response: 50 Hz – 15 kHz THD: < 1% Dynamic Range: > 103 dB (A-weighted) Signal-to-Noise Ratio: > 90 dB Tone Key Frequency: 35 kHz CB99 Beltpack Transmitter Microphone Input: Mini-XLR (P3) Input Impedance: 1 MΩ Gain Range: 38 dB RF Output Power: 10 mW EIRP Power: 2 × AA batteries Battery Life: Up to 8 hours SE10 Earset Microphone Type: Omnidirectional condenser Design: Low-profile, moisture-resistant Connector: Locking Mini-XLR CR99 Wireless Receiver Outputs: Balanced XLR, Unbalanced ¼″ Output Level: XLR: +9 dBu ¼″: +14 dBu Sensitivity: −100 dBm Operating Voltage: 15 V DC, 200 mA Dimensions Beltpack Transmitter: 96 × 62 × 18.5 mm Receiver: 200 × 150 × 42 mm Weight Beltpack Transmitter: 93 g Receiver: 946 g Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-08T20:27:45Z
-  Vendor: Samson
-  Product Type: Wireless Earset System
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2118/7275/files/Concert_99_SE10_Earset.webp?v=1767860793
-  Price: R 7,199.00 ZAR
-- [Samson Concert 88x HS5 Wireless Headset Microphone System](https://www.harrygreenmusicworld.co.za/products/samson-uhf-selectable-frequency-headset-mic-system-hs5-bd-k-48ch): Samson UHF Selectable Frequency Headset Mic System HS5 Bd K (48CH) Description The Samson Concert 88x HS5 Wireless Headset Microphone System delivers reliable, crystal-clear audio for performers, presenters, and fitness instructors who need freedom and precision. With true-diversity UHF technology, the system ensures a stable signal and interference-free performance up to 300 feet (90 meters). Engineered for demanding environments, the HS5 headset provides a secure, lightweight fit and natural, detailed vocal clarity—perfect for movement-heavy use. Designed for simplicity, the Concert 88x offers quick setup, up to 8 hours of battery life, and easy channel selection across 100 available frequencies, guaranteeing professional-grade results every time. Features HS5 unidirectional condenser headset microphone True-diversity UHF wireless system 100 selectable channels Operating range up to 90 meters (300 feet) Up to 8 hours of battery life Tone-key and auto-mute circuitry for signal stability Easy setup and channel scanning Protective carrying case included Specifications Frequency Response: 50 Hz – 15 kHz Signal-to-Noise Ratio: 90 dB Operating Frequency Range: 470 MHz – 534 MHz Microphone Type: Condenser headset (cardioid) Battery Life: Up to 8 hours Connectivity: UHF wireless Phantom Power: 48V Channels: 100 selectable Included Accessories: HS5 headset mic, receiver, transmitter, and case Dimensions Receiver: 195 × 125 × 40 mm Transmitter: 70 × 110 × 25 mm Weight Receiver: 0.5 kg Transmitter: 0.25 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-06T07:29:03Z
-  Vendor: Samson
-  Product Type: Wireless Headset Microphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2118/7275/files/88X-HS5-1200x1200.webp?v=1760692589
-  Price: R 3,800.00 ZAR
-- [Samson DE10x – Omnidirectional Headset Microphone](https://www.harrygreenmusicworld.co.za/products/samson-de10x-double-earset-microphone): Samson DE10x – Omnidirectional Headset Microphone Description The Samson DE10x is a low-profile, lightweight headset microphone designed for clear, natural vocal reproduction in live and broadcast applications. Featuring a miniature 3 mm condenser capsule and an omnidirectional pickup pattern, it delivers consistent audio quality regardless of mic position, making it ideal for presenters, educators, performers, and content creators. Its adjustable headset frame ensures a secure, comfortable fit, while the included adapter cables provide broad compatibility with most popular wireless systems. Features Low-profile headset microphone with miniature condenser capsule Omnidirectional pickup pattern for even sound capture Adjustable headset frame and microphone boom Clear, articulate vocal reproduction without proximity effect Moisture-resistant design suitable for active use IP65-rated for dust and water/sweat resistance Gold-plated connector and stainless steel mesh grille Includes multiple adapter cables for wide wireless compatibility Windscreens, collar clip, and carry case included Specifications Microphone Element: Back electret condenser Capsule Size: 3 mm Polar Pattern: Omnidirectional Frequency Response: 20 Hz – 20 kHz Sensitivity: −45 dBV/Pa @ 1 kHz ±3 dB Output Impedance: 2 kΩ ±30% Maximum SPL: 130 dB Self-Noise: 30 dB (A) Dynamic Range: 100 dB Operating Voltage: 1.5 – 12 V DC Cable Length: 1.2 m Adapter Cables Included: 3.5 mm (⅛″) Hirose® 4-pin Switchcraft® TA3F Switchcraft® TA4F Accessories: 4 windscreens, clothing collar clip, carrying case Dimensions Capsule Diameter: 3 mm Weight 0.013 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-09T01:53:19Z
+  Price: R 2,295.00 ZAR
+- [Samson DE10x – Omnidirectional Headset Microphone](https://www.harrygreenmusicworld.co.za/products/samson-de10x-double-earset-microphone): The Samson DE10x is a low-profile, lightweight headset microphone designed for clear, natural vocal reproduction in live and broadcast applications. Featuring a miniature 3 mm condenser capsule and an omnidirectional pickup pattern, it delivers consistent audio quality regardless of mic position, making it ideal for presenters, educators, performers, and content creators. Its adjustable headset frame ensures a secure, comfortable fit, while the included adapter cables provide broad compatibility with most popular wireless systems. Features Low-profile headset microphone with miniature condenser capsule Omnidirectional pickup pattern for even sound capture Adjustable headset frame and microphone boom Clear, articulate vocal reproduction without proximity effect Moisture-resistant design suitable for active use IP65-rated for dust and water/sweat resistance Gold-plated connector and stainless steel mesh grille Includes multiple adapter cables for wide wireless compatibility Windscreens, collar clip, and carry case included Specifications Microphone Element: Back electret condenser Capsule Size: 3 mm Polar Pattern: Omnidirectional Frequency Response: 20 Hz – 20 kHz Sensitivity: −45 dBV/Pa @ 1 kHz ±3 dB Output Impedance: 2 kΩ ±30% Maximum SPL: 130 dB Self-Noise: 30 dB (A) Dynamic Range: 100 dB Operating Voltage: 1.5 – 12 V DC Cable Length: 1.2 m Adapter Cables Included: 3.5 mm (⅛″) Hirose® 4-pin Switchcraft® TA3F Switchcraft® TA4F Accessories: 4 windscreens, clothing collar clip, carrying case Dimensions Capsule Diameter: 3 mm Weight 0.013 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
+  Updated: 2026-06-29T19:44:34Z
   Vendor: Samson
   Product Type: Wireless Headset Microphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2118/7275/files/DE10x-Hero-Rev2.webp?v=1767880324
   Price: R 2,199.00 ZAR
-- [Samson EarAmp EWM100 – Wireless In-Ear Monitor System](https://www.harrygreenmusicworld.co.za/products/samson-wireless-in-ear-monitor-system): Samson EarAmp EWM100 – Wireless In-Ear Monitor System Description The Samson EarAmp EWM100 is a professional wireless stereo in-ear monitoring system designed to give performers clear, consistent monitoring while moving freely on stage. Using reliable UHF transmission, it delivers accurate audio with customizable mixes, making it ideal for musicians, presenters, houses of worship, and production environments. The system includes the ET100 half-rack transmitter, ER100 stereo bodypack receiver, and Zi150 earphones, providing a complete, easy-to-deploy monitoring solution without the need for floor wedges. Features Professional wireless stereo in-ear monitoring system Reliable UHF transmission with up to 300 ft (90 m) range Stereo and mono operation for flexible monitoring One-touch frequency scan for fast setup Multiple receivers can be used with a single transmitter ER100 receiver with volume, balance, EQ shelf, limiter, and stereo/mono controls High-contrast displays on transmitter and receiver ET100 half-rack transmitter with XLR/¼″ combo inputs ¼″ loop outputs for signal pass-through Includes Zi150 earphones with foam and rubber ear tips Rackmount kit included Specifications System RF Frequency Range: 470 MHz – 502 MHz Tuning Bandwidth: 32 MHz Operating Range: Up to 300 ft / 90 m (environment dependent) Frequency Response: 25 Hz – 15 kHz ±3 dB Signal-to-Noise Ratio: > 100 dB THD: < 0.9% @ 1 kHz ET100 Transmitter Inputs: 2 × XLR/¼″ combo Outputs: 2 × ¼″ loop outputs Monitor Output: ¼″ stereo headphone Antenna: Dual BNC connectors Pilot Tone: 19 kHz Power Supply: 12 V DC ER100 Receiver Headphone Output: ⅛″ / 3.5 mm stereo Output Power: 2 × 150 mW @ 1 kHz Stereo Separation: ≥ 55 dB HF Boost: +8 dB @ 10 kHz Limiter Settings: 0 / −6 / −12 / −18 dB Power: 2 × AA batteries Battery Life: Up to 8 hours Dimensions ET100 Transmitter: 206 × 199 × 44 mm ER100 Receiver: 65 × 23 × 90 mm Weight ET100 Transmitter: 0.96 kg ER100 Receiver: 0.10 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-08T21:26:50Z
+- [Samson EarAmp EWM100 – Wireless In-Ear Monitor System](https://www.harrygreenmusicworld.co.za/products/samson-wireless-in-ear-monitor-system): The Samson EarAmp EWM100 is a professional wireless stereo in-ear monitoring system designed to give performers clear, consistent monitoring while moving freely on stage. Using reliable UHF transmission, it delivers accurate audio with customizable mixes, making it ideal for musicians, presenters, houses of worship, and production environments. The system includes the ET100 half-rack transmitter, ER100 stereo bodypack receiver, and Zi150 earphones, providing a complete, easy-to-deploy monitoring solution without the need for floor wedges. Features Professional wireless stereo in-ear monitoring system Reliable UHF transmission with up to 300 ft (90 m) range Stereo and mono operation for flexible monitoring One-touch frequency scan for fast setup Multiple receivers can be used with a single transmitter ER100 receiver with volume, balance, EQ shelf, limiter, and stereo/mono controls High-contrast displays on transmitter and receiver ET100 half-rack transmitter with XLR/¼″ combo inputs ¼″ loop outputs for signal pass-through Includes Zi150 earphones with foam and rubber ear tips Rackmount kit included Specifications System RF Frequency Range: 470 MHz – 502 MHz Tuning Bandwidth: 32 MHz Operating Range: Up to 300 ft / 90 m (environment dependent) Frequency Response: 25 Hz – 15 kHz ±3 dB Signal-to-Noise Ratio: > 100 dB THD: < 0.9% @ 1 kHz ET100 Transmitter Inputs: 2 × XLR/¼″ combo Outputs: 2 × ¼″ loop outputs Monitor Output: ¼″ stereo headphone Antenna: Dual BNC connectors Pilot Tone: 19 kHz Power Supply: 12 V DC ER100 Receiver Headphone Output: ⅛″ / 3.5 mm stereo Output Power: 2 × 150 mW @ 1 kHz Stereo Separation: ≥ 55 dB HF Boost: +8 dB @ 10 kHz Limiter Settings: 0 / −6 / −12 / −18 dB Power: 2 × AA batteries Battery Life: Up to 8 hours Dimensions ET100 Transmitter: 206 × 199 × 44 mm ER100 Receiver: 65 × 23 × 90 mm Weight ET100 Transmitter: 0.96 kg ER100 Receiver: 0.10 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
+  Updated: 2026-06-29T19:44:13Z
   Vendor: Samson
   Product Type: Wireless In-Ear Monitor System
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2118/7275/files/EarAmp-EWM100-System-Hero-SW1665.webp?v=1767862020
   Price: R 10,299.00 ZAR
-- [Samson Samson SE10X Micro Condenser Earset Mic - Tan](https://www.harrygreenmusicworld.co.za/products/samson-samson-se10x-micro-condenser-earset-mic-tan): Samson SE10x Earset Microphone – Miniature Condenser Capsule Description The SE10x is a professional, low-profile earset microphone featuring a 3mm electret condenser capsule. Designed for live performance, broadcast, presentations, houses of worship, and fitness instruction, the SE10x provides clear, omnidirectional audio while remaining comfortable and discreet. Its adjustable single-ear design and secure retaining band allow hands-free mobility without sacrificing stability or sound quality. Features Earset microphone with 3mm miniature condenser capsule Low-profile, single-ear design with adjustable mic boom Omnidirectional pickup pattern for consistent sound capture from all directions Ideal for live and broadcast vocal applications, presentations, houses of worship, theaters, and fitness Frequency Response: 20 Hz – 20 kHz Gold-plated connector, moisture-resistant coating, and stainless steel mesh grille Dust and water/sweat-resistant (IP65) Includes four detachable adapter cables for broad compatibility: 1/8" (3.5mm), Hirose® 4-Pin, Switchcraft® TA3F, Switchcraft® TA4F Comes with four foam windscreens, a clothing clip, and a protective carrying case Specifications Element: Back electret condenser Polar Pattern: Omnidirectional Sensitivity: -45 dBV/Pa @1kHz ±3dB Output Impedance: 2 kΩ ±30% Maximum SPL: 130 dB Self-Noise: 30 dB(A) Dynamic Range: 100 dB Operating Voltage: 1.5–12V DC Included Accessories Four detachable adapter cables (1/8” [3.5mm], Hirose® 4-Pin, Switchcraft® TA3F, Switchcraft® TA4F) Four foam windscreens Clothing collar clip Protective carrying case Weight 2.5 g Dimensions Cable: ø1.4 mm × 1.2 m Capsule Diameter: 3 mm Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-06T07:29:01Z
+- [Samson Samson SE10X Micro Condenser Earset Mic - Tan](https://www.harrygreenmusicworld.co.za/products/samson-samson-se10x-micro-condenser-earset-mic-tan): The SE10x is a professional, low-profile earset microphone featuring a 3mm electret condenser capsule. Designed for live performance, broadcast, presentations, houses of worship, and fitness instruction, the SE10x provides clear, omnidirectional audio while remaining comfortable and discreet. Its adjustable single-ear design and secure retaining band allow hands-free mobility without sacrificing stability or sound quality. Features Earset microphone with 3mm miniature condenser capsule Low-profile, single-ear design with adjustable mic boom Omnidirectional pickup pattern for consistent sound capture from all directions Ideal for live and broadcast vocal applications, presentations, houses of worship, theaters, and fitness Frequency Response: 20 Hz – 20 kHz Gold-plated connector, moisture-resistant coating, and stainless steel mesh grille Dust and water/sweat-resistant (IP65) Includes four detachable adapter cables for broad compatibility: 1/8" (3.5mm), Hirose® 4-Pin, Switchcraft® TA3F, Switchcraft® TA4F Comes with four foam windscreens, a clothing clip, and a protective carrying case Specifications Element: Back electret condenser Polar Pattern: Omnidirectional Sensitivity: -45 dBV/Pa @1kHz ±3dB Output Impedance: 2 kΩ ±30% Maximum SPL: 130 dB Self-Noise: 30 dB(A) Dynamic Range: 100 dB Operating Voltage: 1.5–12V DC Included Accessories Four detachable adapter cables (1/8” [3.5mm], Hirose® 4-Pin, Switchcraft® TA3F, Switchcraft® TA4F) Four foam windscreens Clothing collar clip Protective carrying case Weight 2.5 g Dimensions Cable: ø1.4 mm × 1.2 m Capsule Diameter: 3 mm Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
+  Updated: 2026-06-29T19:43:49Z
   Vendor: Samson
   Product Type: Wireless Earset System
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2118/7275/files/SE10x-Hero-2.webp?v=1760694586
   Price: R 2,099.00 ZAR
-- [Stagg 4/4 Auditorium Acoustic Guitar – Natural Finish, Basswood Top](https://www.harrygreenmusicworld.co.za/products/stagg-acoustic-gt-audi-linden-nat): Stagg 4/4 Auditorium Acoustic Guitar – Natural Finish, Basswood Top Description The 4/4 Auditorium Acoustic Guitar delivers a rich, balanced tone and a comfortable playing feel — ideal for both beginners and casual performers. Its basswood body provides warmth and clarity, while the high-gloss natural finish gives it a classic, professional look. Built for reliability and easy playability, this guitar makes practice sessions and performances equally enjoyable. Features / Specifications Body Size: 4/4 Auditorium Top: Basswood Back & Sides: Basswood Neck: Nato Fingerboard: White poplar Bridge: White poplar Machine Heads: Open-gear nickel Finish: High-gloss Colour: Natural Dimensions 400 × 250 × 9 mm Weight 0.6 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-19T08:47:06Z
-  Vendor: Stagg
-  Product Type: Acoustic Guitar
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2118/7275/files/14883_1552904407.jpg?v=1760691113
-  Price: R 1,699.00 ZAR
 - [Stagg Instrument Cable – Jack/Jack (M/M), 3m – S-Series](https://www.harrygreenmusicworld.co.za/products/stagg-stagg-3m-deluxe-instrument-cable-jack-to-jack): Stagg Instrument Cable – Jack/Jack (M/M), 3m – S-Series Description A durable and reliable 3m (10ft) instrument cable from the S-Series, built for musicians and professionals who need clean signal transfer and rugged performance on stage or in the studio. Features / Specifications Type: Instrument cable Connectors: ¼" Jack Male to Jack Male Length: 3 metres (10 feet) Cable Diameter: 6mm (0.24") Heavy-duty connectors for long-lasting durability Colour: Black Compliant with RoHS directive (environmentally friendly) Dimensions 30 × 25 × 6 mm Weight 0.1 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-21T12:33:03Z
+  Updated: 2026-06-20T04:10:16Z
   Vendor: Stagg
   Product Type: Jack to Jack Cable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2118/7275/files/23106_1741268639.jpg?v=1760689032
-  Price: R 89.00 ZAR
+  Price: R 94.95 ZAR
 - [Stagg Traditional Soprano Ukulele – Sapele Top with Gig Bag](https://www.harrygreenmusicworld.co.za/products/stagg-soprano-uke-mahogany-bag): Stagg Traditional Soprano Ukulele – Sapele Top with Gig Bag Description A beautifully crafted traditional soprano ukulele made from sapele wood for a warm, balanced tone. Perfect for beginners and enthusiasts alike, it offers great playability and comes with a durable black nylon gigbag for easy transport. Features / Specifications Top: Sapele Back & Sides: Sapele Neck: Mahogany Fingerboard: Composite walnut Fingerboard Inlay: ABS dot markers Bridge: Composite walnut Scale Length: 349 mm (13.7") Total Length: 534 mm (21") Machine Heads: Metal pegs with black knobs Strings: Aquila Finish: Natural Included: Black nylon gigbag Dimensions 534 × 18 × 9 mm Weight 0.3 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
-  Updated: 2026-01-21T12:33:03Z
+  Updated: 2026-06-19T07:42:21Z
   Vendor: Stagg
   Product Type: Ukulele
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2118/7275/files/19833_1538739061.jpg?v=1760689773
-  Price: R 699.00 ZAR
+  Price: R 650.00 ZAR
 - [Wharfedale Connect 1002FX - USB 10-Channel Analog Mixer with Audio Interface & Digital FX](https://www.harrygreenmusicworld.co.za/products/wharfedale-connect-1002fx-usb-2xmono-4xstereo-ch-mixer): Wharfedale Connect 1002FX - USB10-Channel Analog Mixer with Audio Interface & Digital FX Description Compact and versatile, the Connect 1002FX USB is ideal for small gigs, home studios, podcasts, or keyboard setups. It offers high-quality analog mixing, built-in digital effects, and a USB audio interface for easy recording and playback. Features 2 Mono Mic/Line Channels (XLR/Jack combo, with 48V phantom power) 4 Stereo Line Inputs (¼" jacks) Built-in USB Audio Interface (16-bit / 48 kHz, class-compliant) 56 Digital Effects (reverb, delay, chorus, etc.) 3-Band EQ on all channels Headphone Output with level control Compact & Lightweight (easy to carry, ~1.4 kg) Specifications Total Channels: 10 Mono Inputs: 2 × XLR/¼" combo jacks (with 48V phantom power) Stereo Inputs: 4 × stereo ¼" TRS jacks USB Interface: 16-bit / 48 kHz, class-compliant (plug-and-play) Built-in Effects: 56 DSP presets (reverb, delay, chorus, etc.) EQ: 3-band EQ on all channels Main Outputs: 2 × ¼" jacks Aux Sends: 1 (post-fader, for FX or monitor use) Headphone Output: Yes, with dedicated volume control Phantom Power: 48V (for condenser microphones) LED Meters: Master output level LEDs Signal-to-Noise Ratio: >78 dB Frequency Response: 20 Hz – 20 kHz (±2 dB) Power Supply: External adapter Chassis: Compact, rugged design with metal top plate Dimensions 293 × 83 × 52 mm Weight 1.4 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
   Updated: 2026-01-19T08:47:05Z
   Vendor: Wharfedale
@@ -602,7 +581,21 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2118/7275/files/EVP-X15B-MKII-05.webp?v=1755336228
   Price: R 7,299.00 ZAR
-[List Continued](https://www.harrygreenmusicworld.co.za/a/llms-agent/llms.txt?shop=harrygreenmusicworld.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTQ1MzQxNDk3NTcwLCJsYXN0X3ZhbHVlIjoiODk0NTM0MTQ5NzU3MCJ9)
+- [Wharfedale EZ-12A Portable 12” Trolley PA with BT wireless mics and MP3 Player](https://www.harrygreenmusicworld.co.za/products/wharfedale-portable-12-trolley-pa-with-bt-wireless-mics-and-mp3-player): Wharfedale EZ-12A Portable 12” Trolley PA with BT wireless mics and MP3 Player Description Compact All-in-One Mobile PA System for Events, DJs & Presenters The Wharfedale 12” Portable Trolley PA is a fully self-contained, battery-powered sound system, perfect for mobile entertainers, instructors, public speaking, and outdoor events. It includes built-in Bluetooth, dual UHF wireless microphones, USB/SD media playback, and a rechargeable battery — offering powerful sound in a more compact and easily portable form factor. Features 12” full-range speaker with integrated amplifier Rechargeable battery for wireless operation (ideal for up to 5–6 hours use) Built-in Bluetooth for wireless streaming from smartphones or tablets Dual UHF handheld wireless microphones included USB and SD card slots for direct MP3 playback Built-in media player with remote control Integrated mixer with mic, line, and media inputs Echo, bass, and treble controls for sound shaping Retractable trolley handle and built-in wheels for portability Rugged molded plastic enclosure for durability Specifications Speaker Size: 12″ wooferAmplifier Type: Built-in Class DWireless Microphones: 2 × UHF handheld includedMedia Playback: USB / SD / Bluetooth / AUXBattery Life: Up to ~6 hours (usage-dependent) Inputs: 2 × Mic inputs 1 × AUX / Line input 1 × USB/SD for media playback Controls: Master volume Bass & Treble Echo Mic volume and channel gain Power Options: Internal rechargeable battery or AC mainsCabinet: Molded plastic with trolley handle and wheels Dimensions 600 × 400 × 350 mm Weight 11.4 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
+  Updated: 2026-01-19T08:46:58Z
+  Vendor: Wharfedale
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2118/7275/files/Screenshot-2021-01-22-at-12.59.37-169x300.webp?v=1755262160
+  Price: R 4,899.00 ZAR
+- [Wharfedale EZ-15A Portable 15” Trolley PA with BT wireless mics and MP3 Play](https://www.harrygreenmusicworld.co.za/products/wharfedale-portable-15-trolley-pa-with-bt-wireless-mics-and-mp3-play): Wharfedale EZ-15A Portable 15” Trolley PA with BT wireless mics and MP3 Play Description All-in-One Mobile Sound System for Events, DJs & Presenters The Wharfedale 15” Portable Trolley PA is a self-contained, battery-powered sound system ideal for mobile DJs, public speakers, fitness instructors, or outdoor events. With built-in Bluetooth, wireless microphones, MP3 playback, and a rechargeable battery, it delivers flexibility and performance in a compact, portable design. Features 15” full-range speaker with built-in amplifier Rechargeable battery for fully wireless operation (ideal for up to 5–6 hours use) Built-in Bluetooth for wireless audio streaming from phones and tablets Dual UHF wireless microphones included (handheld) MP3 player with USB/SD card support for direct playback Built-in mixer with mic, line, and media inputs Echo and EQ controls for vocal or music customization Trolley handle and wheels for easy transport Rugged molded enclosure built for mobility and durability Remote control included for media and volume control Specifications Speaker Size: 15″ woofer Amplifier Type: Built-in Class D Wireless Mics: 2 × UHF handheld included Media Playback: USB / SD / Bluetooth / AUX Battery Life: Up to ~6 hours (depends on usage) Inputs: 2 × Mic inputs 1 × AUX / Line input 1 × USB/SD for media Controls: Volume, Bass, Treble, Echo Mic volume and individual channel gain Power Options: Internal rechargeable battery or AC mains Cabinet: Molded plastic with retractable handle and wheels Dimensions 700 × 450 × 400 mm Weight 18 kg Disclaimer Please note that certain products are supplied directly from international or country-specific suppliers. While we strive to keep our stock levels accurate and updated, there may be instances where an item becomes unavailable due to supplier delays or stock inconsistencies. In such cases, we will promptly contact you to offer suitable alternatives or issue a full refund. We appreciate your understanding and patience, and we're committed to ensuring a smooth and satisfactory experience. Product images, descriptions, and other related content are provided for illustrative purposes only. Actual products may vary slightly in appearance, specifications, or packaging depending on supplier availability and region-specific variations. These differences do not affect the core functionality or quality of the item. We aim to ensure all product details are as accurate as possible, but we reserve the right to make necessary adjustments without prior notice. Contact us on Online@hgmw.co.za or +27 13 752 7725
+  Updated: 2026-01-19T08:46:58Z
+  Vendor: Wharfedale
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2118/7275/files/Screenshot-2021-01-22-at-12.59.17.webp?v=1755261937
+  Price: R 5,399.00 ZAR
+[List Continued](https://www.harrygreenmusicworld.co.za/a/llms-agent/llms.txt?shop=harrygreenmusicworld.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTQ1MzQxNTk1ODc0LCJsYXN0X3ZhbHVlIjoiODk0NTM0MTU5NTg3NCJ9)
 
 ## Collections
 
@@ -616,62 +609,62 @@
   Updated: 2025-12-04T06:40:34Z
   Total Products: 1
 - [Pro Audio](https://www.harrygreenmusicworld.co.za/collections/pro-audio)
-  Updated: 2026-06-13T07:20:09Z
-  Total Products: 651
+  Updated: 2026-07-03T11:06:23Z
+  Total Products: 697
 - [Pro Audio Live Sound](https://www.harrygreenmusicworld.co.za/collections/live-sound)
-  Updated: 2026-06-13T07:20:09Z
-  Total Products: 356
+  Updated: 2026-07-03T10:44:17Z
+  Total Products: 374
 - [Studio](https://www.harrygreenmusicworld.co.za/collections/studio)
-  Updated: 2026-06-10T10:07:14Z
-  Total Products: 403
+  Updated: 2026-07-03T11:06:23Z
+  Total Products: 439
 - [Headphones](https://www.harrygreenmusicworld.co.za/collections/headphones)
-  Updated: 2026-06-10T10:07:14Z
-  Total Products: 57
+  Updated: 2026-07-03T10:43:16Z
+  Total Products: 61
 - [Lighting & Stage Effects](https://www.harrygreenmusicworld.co.za/collections/lighting-stage-effects)
-  Updated: 2026-06-06T15:33:58Z
-  Total Products: 19
+  Updated: 2026-06-19T09:13:11Z
+  Total Products: 20
 - [Guitar](https://www.harrygreenmusicworld.co.za/collections/guitars)
-  Updated: 2026-06-10T09:41:44Z
-  Total Products: 631
+  Updated: 2026-07-01T11:03:03Z
+  Total Products: 726
 - [Keys](https://www.harrygreenmusicworld.co.za/collections/keys)
-  Updated: 2026-06-11T06:33:55Z
-  Total Products: 198
+  Updated: 2026-07-01T10:38:42Z
+  Total Products: 211
 - [Drums](https://www.harrygreenmusicworld.co.za/collections/drums)
-  Updated: 2026-06-11T08:21:32Z
-  Total Products: 174
+  Updated: 2026-06-29T10:58:17Z
+  Total Products: 225
 - [Strings](https://www.harrygreenmusicworld.co.za/collections/strings)
-  Updated: 2026-06-08T09:38:32Z
-  Total Products: 82
+  Updated: 2026-06-22T09:38:52Z
+  Total Products: 83
 - [Drums Percussion](https://www.harrygreenmusicworld.co.za/collections/percussion)
-  Updated: 2026-06-06T15:34:21Z
-  Total Products: 16
+  Updated: 2026-06-19T09:13:12Z
+  Total Products: 18
 - [Bags & Cases](https://www.harrygreenmusicworld.co.za/collections/bags-cases)
   Updated: 2026-06-08T09:38:28Z
   Total Products: 1
 - [Studio Interfaces](https://www.harrygreenmusicworld.co.za/collections/interfaces)
-  Updated: 2026-06-06T15:34:02Z
-  Total Products: 18
-- [Studio Monitors](https://www.harrygreenmusicworld.co.za/collections/studio-monitors)
-  Updated: 2026-06-06T15:33:53Z
-  Total Products: 22
-- [Studio Microphones](https://www.harrygreenmusicworld.co.za/collections/studio-microphones)
-  Updated: 2026-06-10T10:07:13Z
-  Total Products: 115
-- [Studio Mixers](https://www.harrygreenmusicworld.co.za/collections/studio-mixers)
-  Updated: 2026-06-06T15:33:53Z
-  Total Products: 48
-- [Studio Recording Gear](https://www.harrygreenmusicworld.co.za/collections/recording-gear)
-  Updated: 2026-06-06T15:34:01Z
-  Total Products: 26
-- [Pro Audio Live Microphones](https://www.harrygreenmusicworld.co.za/collections/live-microphones)
-  Updated: 2026-06-06T15:33:54Z
-  Total Products: 35
-- [Racks & Cases](https://www.harrygreenmusicworld.co.za/collections/racks-cases)
-  Updated: 2026-06-09T11:02:39Z
+  Updated: 2026-06-18T06:47:20Z
   Total Products: 20
+- [Studio Monitors](https://www.harrygreenmusicworld.co.za/collections/studio-monitors)
+  Updated: 2026-06-30T11:40:01Z
+  Total Products: 29
+- [Studio Microphones](https://www.harrygreenmusicworld.co.za/collections/studio-microphones)
+  Updated: 2026-07-02T05:14:52Z
+  Total Products: 131
+- [Studio Mixers](https://www.harrygreenmusicworld.co.za/collections/studio-mixers)
+  Updated: 2026-06-30T11:39:57Z
+  Total Products: 50
+- [Studio Recording Gear](https://www.harrygreenmusicworld.co.za/collections/recording-gear)
+  Updated: 2026-07-03T11:06:23Z
+  Total Products: 29
+- [Pro Audio Live Microphones](https://www.harrygreenmusicworld.co.za/collections/live-microphones)
+  Updated: 2026-07-03T10:44:17Z
+  Total Products: 53
+- [Racks & Cases](https://www.harrygreenmusicworld.co.za/collections/racks-cases)
+  Updated: 2026-07-02T12:22:35Z
+  Total Products: 22
 - [DJ](https://www.harrygreenmusicworld.co.za/collections/dj)
-  Updated: 2026-06-13T07:20:09Z
-  Total Products: 119
+  Updated: 2026-06-26T09:14:32Z
+  Total Products: 120
 - [Brass & Wind](https://www.harrygreenmusicworld.co.za/collections/wind-brass)
   Updated: 2026-06-06T15:35:50Z
   Total Products: 18
@@ -679,59 +672,59 @@
   Updated: 2025-12-04T06:40:37Z
   Total Products: 1
 - [Buy](https://www.harrygreenmusicworld.co.za/collections/browse)
-  Updated: 2026-06-13T07:20:09Z
-  Total Products: 3329
+  Updated: 2026-07-03T11:12:58Z
+  Total Products: 3608
 - [Stentor](https://www.harrygreenmusicworld.co.za/collections/stentor)
   Updated: 2026-06-08T09:38:32Z
   Total Products: 11
 - [Acoustic Guitar](https://www.harrygreenmusicworld.co.za/collections/acoustic)
-  Updated: 2026-06-06T18:13:23Z
-  Total Products: 157
+  Updated: 2026-06-19T09:13:09Z
+  Total Products: 161
 - [Pro Audio Cables](https://www.harrygreenmusicworld.co.za/collections/pro-audio-cables)
-  Updated: 2026-06-09T08:56:25Z
-  Total Products: 59
+  Updated: 2026-07-02T06:42:42Z
+  Total Products: 61
 - [Keys MIDI](https://www.harrygreenmusicworld.co.za/collections/keys-midi)
-  Updated: 2026-06-06T18:13:24Z
-  Total Products: 28
+  Updated: 2026-06-30T11:40:01Z
+  Total Products: 34
 - [DJ Controllers](https://www.harrygreenmusicworld.co.za/collections/dj-controllers)
   Updated: 2026-06-06T18:13:47Z
   Total Products: 3
 - [Drums Electronic](https://www.harrygreenmusicworld.co.za/collections/drums-electric)
-  Updated: 2026-06-06T18:13:50Z
-  Total Products: 5
+  Updated: 2026-06-19T06:11:40Z
+  Total Products: 9
 - [Keys Keyboards](https://www.harrygreenmusicworld.co.za/collections/keys-keyboards)
-  Updated: 2026-06-11T06:33:55Z
-  Total Products: 86
+  Updated: 2026-07-01T10:38:42Z
+  Total Products: 88
 - [Studio Accessories](https://www.harrygreenmusicworld.co.za/collections/accessories-studio)
-  Updated: 2026-06-10T10:07:13Z
-  Total Products: 127
+  Updated: 2026-07-02T12:22:36Z
+  Total Products: 140
 - [Media Player](https://www.harrygreenmusicworld.co.za/collections/media-player)
   Updated: 2026-06-06T18:13:52Z
   Total Products: 1
 - [Drums Accessories](https://www.harrygreenmusicworld.co.za/collections/drums-accessories)
-  Updated: 2026-06-06T18:13:54Z
-  Total Products: 116
+  Updated: 2026-06-26T08:24:53Z
+  Total Products: 142
 - [Guitar Accessories](https://www.harrygreenmusicworld.co.za/collections/guitar-accessories)
-  Updated: 2026-06-10T09:41:44Z
-  Total Products: 316
+  Updated: 2026-07-01T11:03:03Z
+  Total Products: 378
 - [Bass Guitar](https://www.harrygreenmusicworld.co.za/collections/guitar-bass)
-  Updated: 2026-06-10T09:25:42Z
-  Total Products: 66
+  Updated: 2026-06-26T08:26:13Z
+  Total Products: 74
 - [Electric Guitar](https://www.harrygreenmusicworld.co.za/collections/electric-guitar)
-  Updated: 2026-06-06T18:16:11Z
-  Total Products: 137
+  Updated: 2026-06-19T10:07:20Z
+  Total Products: 148
 - [Acoustic Drums](https://www.harrygreenmusicworld.co.za/collections/acoustic-drums)
-  Updated: 2026-06-11T08:21:32Z
-  Total Products: 37
+  Updated: 2026-06-22T09:38:55Z
+  Total Products: 54
 - [Classical Guitar](https://www.harrygreenmusicworld.co.za/collections/classical-guitar)
-  Updated: 2026-06-06T18:20:09Z
-  Total Products: 24
+  Updated: 2026-06-19T09:13:09Z
+  Total Products: 30
 - [Keys Accessories](https://www.harrygreenmusicworld.co.za/collections/keys-accessories)
-  Updated: 2026-06-11T06:33:55Z
-  Total Products: 34
+  Updated: 2026-06-19T10:52:50Z
+  Total Products: 38
 - [Strings Violin](https://www.harrygreenmusicworld.co.za/collections/strings-violin)
-  Updated: 2026-06-08T09:38:32Z
-  Total Products: 23
+  Updated: 2026-06-22T09:38:52Z
+  Total Products: 24
 - [Strings Viola](https://www.harrygreenmusicworld.co.za/collections/strings-viola)
   Updated: 2026-06-08T09:38:30Z
   Total Products: 4
@@ -745,13 +738,13 @@
   Updated: 2026-06-08T09:38:28Z
   Total Products: 61
 - [Pro Audio Accessories](https://www.harrygreenmusicworld.co.za/collections/pro-audio-accessories)
-  Updated: 2026-06-10T10:07:13Z
-  Total Products: 131
+  Updated: 2026-07-03T05:36:03Z
+  Total Products: 148
 - [Keys Grand](https://www.harrygreenmusicworld.co.za/collections/keys-grand)
   Updated: 2026-06-06T18:21:22Z
   Total Products: 8
 - [Keys Upright](https://www.harrygreenmusicworld.co.za/collections/keys-upright)
-  Updated: 2026-06-06T18:35:29Z
+  Updated: 2026-06-29T11:02:13Z
   Total Products: 7
 - [PRS Guitars](https://www.harrygreenmusicworld.co.za/collections/prs-guitars)
   Updated: 2026-06-06T19:14:17Z
@@ -778,6 +771,30 @@
     Updated: 2025-07-17T13:50:09Z
     Author: Harry Green
     Tags: blog
+  - [Choosing the Right Acoustic Guitar for Beginner Musicians](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/choosing-the-right-acoustic-guitar-for-beginner-musicians): Choosing the Right Acoustic Guitar for Beginner Musicians
+    Updated: 2026-06-15T09:28:04Z
+    Author: HGMW
+  - [Acoustic Guitar Essentials: A Beginner's Guide to Affordable Options](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/acoustic-guitar-essentials-a-beginners-guide-to-affordable-options): Acoustic Guitar Essentials: A Beginner's Guide to Affordable Options
+    Updated: 2026-06-17T02:05:14Z
+    Author: HGMW
+  - [How to Choose an Affordable Acoustic Guitar for Beginners](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/how-to-choose-an-affordable-acoustic-guitar-for-beginners): How to Choose an Affordable Acoustic Guitar for Beginners
+    Updated: 2026-06-20T00:42:25Z
+    Author: HGMW
+  - [Top Beginner Mistakes and Solutions When Buying Affordable Guitars](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/top-beginner-mistakes-and-solutions-when-buying-affordable-guitars): Top Beginner Mistakes and Solutions When Buying Affordable Guitars
+    Updated: 2026-06-22T02:20:46Z
+    Author: HGMW
+  - [Explained: What Makes an Acoustic Guitar Perfect for Beginners](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/explained-what-makes-an-acoustic-guitar-perfect-for-beginners): Explained: What Makes an Acoustic Guitar Perfect for Beginners
+    Updated: 2026-06-24T02:08:47Z
+    Author: HGMW
+  - [Acoustic or Electric? A Beginner's Guide to Guitar Selection](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/acoustic-or-electric-a-beginners-guide-to-guitar-selection): Acoustic or Electric? A Beginner's Guide to Guitar Selection
+    Updated: 2026-06-27T00:44:06Z
+    Author: HGMW
+  - [Checklist: Must-Have Features in an Affordable Acoustic Guitar for Beginners](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/checklist-must-have-features-in-an-affordable-acoustic-guitar-for-beginners): Checklist: Must-Have Features in an Affordable Acoustic Guitar for Beginners
+    Updated: 2026-06-29T02:08:58Z
+    Author: HGMW
+  - [FAQ: Common Beginner Questions About Acoustic Guitar Buying](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/faq-common-beginner-questions-about-acoustic-guitar-buying): FAQ: Common Beginner Questions About Acoustic Guitar Buying
+    Updated: 2026-07-01T02:32:08Z
+    Author: HGMW
 
 ## Store Pages
 
@@ -797,7 +814,7 @@
 - [Shipping Policy](https://www.harrygreenmusicworld.co.za/policies/shipping-policy)
   Updated: 2024-09-23T11:52:05+02:00
 - [Refund Policy](https://www.harrygreenmusicworld.co.za/policies/refund-policy)
-  Updated: 2026-03-12T13:17:18+02:00
+  Updated: 2026-07-01T08:11:41+02:00
 - [Terms of Service](https://www.harrygreenmusicworld.co.za/policies/terms-of-service)
   Updated: 2025-01-21T14:31:05+02:00
 - [Contact Information](https://www.harrygreenmusicworld.co.za/policies/contact-information)
