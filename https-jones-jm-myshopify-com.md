@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-06-25T20:00:29.456Z
+- Updated At: 2026-07-03T00:00:43.562Z
 
 ## Products
 
@@ -954,6 +954,27 @@
   - [The Evolution of Snowboarding From Past to Present](https://jones-jm.myshopify.com/blogs/news/the-evolution-of-snowboarding-from-past-to-present): The Evolution of Snowboarding From Past to Present
     Updated: 2026-06-22T00:21:54Z
     Author: User
+  - [Tips for Maintaining Your Snowboard and Keeping It in Top Condition](https://jones-jm.myshopify.com/blogs/news/tips-for-maintaining-your-snowboard-and-keeping-it-in-top-condition): Tips for Maintaining Your Snowboard and Keeping It in Top Condition
+    Updated: 2026-06-29T00:22:25Z
+    Author: User
+  - [A Comparative Guide to Snowboarding vs Skiing Which Is Right for You](https://jones-jm.myshopify.com/blogs/news/a-comparative-guide-to-snowboarding-vs-skiing-which-is-right-for-you): A Comparative Guide to Snowboarding vs Skiing Which Is Right for You
+    Updated: 2026-07-01T20:18:49Z
+    Author: User
+  - [Everything You Need to Know About Snowboarding for Families](https://jones-jm.myshopify.com/blogs/news/everything-you-need-to-know-about-snowboarding-for-families): Everything You Need to Know About Snowboarding for Families
+    Updated: 2026-07-01T20:31:43Z
+    Author: User
+  - [The Ultimate Checklist for Choosing the Best Snow Gear for Beginners](https://jones-jm.myshopify.com/blogs/news/the-ultimate-checklist-for-choosing-the-best-snow-gear-for-beginners): The Ultimate Checklist for Choosing the Best Snow Gear for Beginners
+    Updated: 2026-07-02T06:11:25Z
+    Author: User
+  - [The Ultimate Checklist for Choosing the Right Snow Gear](https://jones-jm.myshopify.com/blogs/news/the-ultimate-checklist-for-choosing-the-right-snow-gear): The Ultimate Checklist for Choosing the Right Snow Gear
+    Updated: 2026-07-02T07:07:05Z
+    Author: User
+  - [10 Eco-Friendly Fashion Brands to Watch This Year](https://jones-jm.myshopify.com/blogs/news/10-eco-friendly-fashion-brands-to-watch-this-year): 10 Eco-Friendly Fashion Brands to Watch This Year
+    Updated: 2026-07-02T22:06:58Z
+    Author: User
+  - [The Top 10 Fashion Trends for This Season](https://jones-jm.myshopify.com/blogs/news/the-top-10-fashion-trends-for-this-season): The Top 10 Fashion Trends for This Season
+    Updated: 2026-07-02T22:08:21Z
+    Author: User
 
 ## Store Pages
 
@@ -975,6 +996,8 @@
   Updated: 2026-05-18T09:31:27Z
 - [Store Locator](https://jones-jm.myshopify.com/pages/store-locator-2): #progus-store-locator{width: 90vw !important;margin-left: calc(50% - 45vw) !important;margin-right: calc(50% - 45vw) !important;box-sizing: border-...
   Updated: 2026-05-18T09:53:18Z
+- [Store Locator](https://jones-jm.myshopify.com/pages/store-locator-3): #sl-default-store-locator-page{width:90vw !important;margin-left:calc(50% - 45vw) !important;margin-right:calc(50% - 45vw) !important;box-sizing:bo...
+  Updated: 2026-07-01T20:54:53Z
 
 ## Policies
 
