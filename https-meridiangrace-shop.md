@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-04T20:23:58Z
 - Contact Email: hello@meridiangrace.shop
-- Updated At: 2026-06-26T00:00:39.003Z
+- Updated At: 2026-07-03T00:00:40.093Z
 
 ## Products
 
@@ -133,7 +133,7 @@
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/Se065c78aa51d4ae0a86b15c6b99c5e53G.webp?v=1778853543
   Price: $2,923.99 USD
 - [Old School EBike T-Shirt](https://meridiangrace.shop/products/old-school-ebike-t-shirt): Product: District DM130 District ® Perfect Tri ® Tee. DM130 4.5 oz., 50% polyester 25% combed ring-spun cotton 25% rayon Rib-knit neck Tear-away label Shoulder-to-shoulder taping - Crown&Co
-  Updated: 2026-06-25T20:38:42Z
+  Updated: 2026-06-30T06:35:16Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -495,7 +495,7 @@
     Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ninjapod_12844418_f_3413C_00_f.jpg?v=1779213941
     Price: $26.88 USD
 - [Sunset Cruisin T-Shirt](https://meridiangrace.shop/products/sunset-cruisin-t-shirt): Product: Sport-Tek ST350 Sport-Tek ® PosiCharge ® Competitor™ Tee. ST350 3.8 oz., 100% polyester interlock PosiCharge technology Removable tag for comfort and relabeling Set-in sleeves Moisture-wicking Size Sleeve Chest Body length XS 17 3/4" 18 1/2" 27" S 18 1/2/4" 20" 28" M 19 1/4" 21 1/2" 29" L 20" 23" 30" XL 20 3/4" 24 1/2" 31" 2XL 21 1/2" 26" 32" 3XL 22 1/4" 28" 32 1/2" 4XL 23" 30" 33" - Meridian Grace
-  Updated: 2026-06-20T03:43:39Z
+  Updated: 2026-07-01T00:36:56Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -701,7 +701,7 @@
     Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ninjapod_12844569_f_ST350_0ece_f.jpg?v=1779215090
     Price: $52.00 USD
 - [Just Biking Shirt](https://meridiangrace.shop/products/just-biking-shirt): Product: Independent  Co. PRM33SBP Unisex Special Blend Raglan Hooded Sweatshirt 8 oz. 52% ring-spun cotton / 48% polyester blend, 32 singles Unisex, slim fit Reverse coverstitch sewing Twill neck tape 1x1 ribbing at neck, cuffs and waistband Sewn eyelets Self-fabric side panel inserts Tear away label Size Front body length Body width Sleeve length XS 25 1/2" 19" 32" S 26 1/2" 20" 33" M 27 1/2" 21" 34" L 28 1/2" 22" 35 1/4" XL 29 1/2" 23" 36 1/2" 2XL 30 1/2" 24" 37 3/4" 3XL 31 1/2" 25" 39" - Meridian Grace
-  Updated: 2026-05-28T22:03:49Z
+  Updated: 2026-07-01T00:37:07Z
   Vendor: Meridian Grace
   Product Type: Sweatshirt
   Availability: Available
@@ -1130,6 +1130,18 @@
     Updated: 2026-06-24T09:13:34Z
     Author: Meridian Grace
     Tags: benefits of electric bikes, bikes, choosing electric scooters, eco-friendly transportation, electric, electric bike, electric mobility, electric scooter, energy efficiency, scooters
+  - [The History and Evolution of Electric Bikes and Scooters](https://meridiangrace.shop/blogs/news/the-history-and-evolution-of-electric-bikes-and-scooters): The History and Evolution of Electric Bikes and Scooters
+    Updated: 2026-06-26T09:10:45Z
+    Author: Meridian Grace
+    Tags: bike, electric, electric bike, electric bikes, electric scooter, electric scooters, evolution of electric scooters, history of electric bikes, ride electric scooters, scooter
+  - [Electric Bike Adventure: Spin Your Way to a New Kind of Freedom](https://meridiangrace.shop/blogs/news/electric-bike-adventure-spin-your-way-to-a-new-kind-of-freedom): Electric Bike Adventure: Spin Your Way to a New Kind of Freedom
+    Updated: 2026-06-29T09:20:59Z
+    Author: Meridian Grace
+    Tags: benefits of electric scooters, best electric bikes for commuting, bikes, eco-friendly transport, electric, electric bike, electric scooter, outdoor adventure, scooters
+  - [Exploring the Benefits of an Electric Scooter-Enhanced Commute](https://meridiangrace.shop/blogs/news/exploring-the-benefits-of-an-electric-scooter-enhanced-commute): Exploring the Benefits of an Electric Scooter-Enhanced Commute
+    Updated: 2026-07-01T09:12:26Z
+    Author: Meridian Grace
+    Tags: benefits of electric scooters, commute, eco-friendly transport, electric, electric bike, electric bikes, electric scooter, enhance daily travel, scooter, urban commuting solutions
 
 ## Store Pages
 
