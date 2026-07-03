@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-09-23T14:05:07Z
 - Contact Email: info@fluffynfriends.com
-- Updated At: 2026-06-24T13:19:00.362Z
+- Updated At: 2026-07-03T00:00:30.565Z
 
 ## Products
 
-- [Pets Paw Trimmer w/LED Light | Safe Nail Grooming Tool](https://fluffynfriends.com/products/pets-paw-trimmer-w-led-light): Trim pets’ nails safely with this paw trimmer featuring an LED light for precision, low noise, and gentle grooming for dogs and cats at home.
-  Updated: 2026-05-28T19:59:35Z
+- [Pet Paw Trimmer with LED Light | Dog & Cat Nail Groomer](https://fluffynfriends.com/products/pets-paw-trimmer-w-led-light): Safely trim your pet's paws at home with this LED-lit paw trimmer. Waterproof, rechargeable, and gentle for dogs and cats of all sizes.
+  Updated: 2026-06-30T13:40:12Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -38,8 +38,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/7790/0101/files/AE8Z4K1VlV0lhFz.webp?v=1779998372
     Price: £12.99 GBP
-- [Automatic Tennis Ball Launcher | Pet Training Toy](https://fluffynfriends.com/products/automatic-tennis-ball-launcher): Entertain and train dogs effortlessly with this automatic tennis ball launcher, providing endless fun, exercise, and active play indoors or outdoors.
-  Updated: 2026-06-24T12:38:43Z
+- [Automatic Tennis Ball Launcher for Dogs | Fetch Toy](https://fluffynfriends.com/products/automatic-tennis-ball-launcher): Keep your dog active with this automatic tennis ball launcher. Adjustable settings for indoor and outdoor fetch play. Includes 3 tennis balls.
+  Updated: 2026-06-30T13:43:41Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -52,15 +52,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/7790/0101/files/y3HE1AzP8CA8kyU.webp?v=1779998385
     Price: £61.99 GBP
-- [Summer Inflatable Water Mat For Pets | Cooling Splash Pad](https://fluffynfriends.com/products/summer-inflatable-water-mat-for-pets): Keep pets cool and entertained with this inflatable water mat, offering a refreshing splash zone for dogs and cats during hot summer days.
-  Updated: 2026-05-28T19:59:48Z
+- [Inflatable Water Mat for Pets | Summer Cooling Splash Pad](https://fluffynfriends.com/products/summer-inflatable-water-mat-for-pets): Keep your dog or cat cool this summer with an inflatable water mat. Easy setup, durable, and perfect for outdoor splash play on hot days.
+  Updated: 2026-06-30T13:44:24Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/7790/0101/files/t30eVIpA5R8bsxCk.webp?v=1779998388
   Price: £15.99 GBP
-- [Suction Ball Interactive Dog Toy | Durable Tug & Play Toy](https://fluffynfriends.com/products/suction-ball-interactive-dog-toy): Engage dogs in fun play with this suction ball toy, featuring strong suction, chew resistance, and interactive design to promote exercise and dental health.
-  Updated: 2026-05-28T20:00:03Z
+- [Suction Ball Interactive Dog Toy | Tug & Play for Dogs](https://fluffynfriends.com/products/suction-ball-interactive-dog-toy): Keep your dog entertained with this suction ball toy. Sticks to flat surfaces for solo or interactive tug play. Durable and great for active dogs.
+  Updated: 2026-06-30T13:45:36Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -85,8 +85,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/7790/0101/files/5evS44JZZ8fipCe.jpg?v=1779998388
     Price: £15.99 GBP
-- [Durable Waterproof Pet Harness with Vertical Handle | Safe](https://fluffynfriends.com/products/durable-waterproof-pet-harness-with-vertical-handle): Ensure secure walks with this waterproof pet harness, featuring a vertical handle for control, durable material, and comfort for dogs during all activities.
-  Updated: 2026-06-24T12:39:02Z
+- [Waterproof Dog Harness with Handle | Reflective & Durable](https://fluffynfriends.com/products/durable-waterproof-pet-harness-with-vertical-handle): Control every walk with this waterproof dog harness featuring a vertical handle, reflective strip, and even pressure distribution for dog comfort.
+  Updated: 2026-06-30T13:52:05Z
   Vendor: Fluffy Friends
   Product Type: 
   Availability: Available
@@ -187,8 +187,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/7790/0101/files/wYcw5Qywnge7ZH46.webp?v=1779998426
     Price: £20.99 GBP
-- [Handmade Golden Dog Collar by MUTTCO | Luxury Pet Accessory](https://fluffynfriends.com/products/handmade-golden-dog-collar-by-muttco): Elevate your dog’s style with this handmade golden collar by MUTTCO, offering premium craftsmanship, comfort, and a luxurious, durable design.
-  Updated: 2026-05-28T20:00:46Z
+- [MUTTCO Golden Christmas Dog Collar | Handmade Festive Collar](https://fluffynfriends.com/products/handmade-golden-dog-collar-by-muttco): Dress your dog for the festive season with this handmade golden Christmas collar by MUTTCO. Available XS–XL. Durable, stylish, and comfortable.
+  Updated: 2026-06-30T13:53:35Z
   Vendor: Fluffy Friends
   Product Type: 
   Availability: Available
@@ -208,8 +208,8 @@
   - [Golden Christmas / XL](https://fluffynfriends.com/products/handmade-golden-dog-collar-by-muttco?variant=55725288980805)
     Availability: Available
     Price: £21.99 GBP
-- [Universal Dog Bed with Washable Cushion for Pets - Fluffy Friends](https://fluffynfriends.com/products/universal-dog-bed-with-washable-cushion-for-pets): Provide pets a comfortable resting spot with this universal dog bed, featuring a soft, washable cushion for easy cleaning and lasting comfort.
-  Updated: 2026-05-29T16:23:32Z
+- [Universal Pet Bed with Washable Cushion | All-Season Dog Nest](https://fluffynfriends.com/products/universal-dog-bed-with-washable-cushion-for-pets): Cosy, washable pet bed for dogs and cats. Available in 4 colours and sizes S–XL. Durable, all-season comfort your pet will love.
+  Updated: 2026-06-30T13:55:51Z
   Vendor: Fluffy Friends
   Product Type: 
   Availability: Available
@@ -278,8 +278,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/7790/0101/files/XPa8cDlgYwjoGHxU.webp?v=1779998444
     Price: £28.99 GBP
-- [Single Layer Skull Dog Towel | Absorbent Pet Drying Towel](https://fluffynfriends.com/products/single-layer-skull-dog-towel): Dry dogs quickly with this single-layer skull towel, offering absorbent, soft fabric, easy handling, and a fun design for bath time or outdoor use.
-  Updated: 2026-06-10T19:03:36Z
+- [Halloween Skull Dog Scarf | Spooky Pet Bandana for Dogs](https://fluffynfriends.com/products/single-layer-skull-dog-towel): Dress your dog for Halloween with this skull print dog scarf. Lightweight polyester, fits medium to large dogs with 15–50cm neck circumference.
+  Updated: 2026-06-30T13:57:08Z
   Vendor: Fluffy Friends
   Product Type: 
   Availability: Available
@@ -292,8 +292,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/7790/0101/files/qNSHRUeoLMA8zRMn.webp?v=1779998450
     Price: £13.99 GBP
-- [New Style Metal Buckle Dog Ring for Pets | Durable Accessory](https://fluffynfriends.com/products/new-style-metal-buckle-dog-ring-for-pets): Secure collars and leashes with this metal buckle dog ring, designed for durability, reliable fastening, and added strength for pets of all sizes.
-  Updated: 2026-05-28T20:00:58Z
+- [Metal Buckle Dog Collar with Ring | Velvet Bow Tie Style](https://fluffynfriends.com/products/new-style-metal-buckle-dog-ring-for-pets): Stylish metal buckle dog collar with bow tie design. Adjustable XS–XL, durable polyester, secure ring attachment for leads. Perfect for all occasions.
+  Updated: 2026-06-30T13:58:53Z
   Vendor: Fluffy Friends
   Product Type: 
   Availability: Available
@@ -980,7 +980,7 @@
     Image: https://cdn.shopify.com/s/files/1/0984/7790/0101/files/cjJhCjKOoTEB4iTZ.webp?v=1779999004
     Price: £16.99 GBP
 - [Automatic Pet Water Bowl | Self-Refilling Pet Drinking Bowl](https://fluffynfriends.com/products/automatic-pet-water-bowl): Keep pets hydrated effortlessly with this automatic water bowl, providing a continuous fresh water supply and ensuring dogs and cats stay healthy daily.
-  Updated: 2026-06-24T12:38:42Z
+  Updated: 2026-06-24T14:42:32Z
   Vendor: Fluffy Friends
   Product Type: 
   Availability: Available
@@ -2965,7 +2965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0984/7790/0101/files/nJotZ4s5If1iDw3Q.webp?v=1779999324
     Price: £15.99 GBP
 - [Drinking Plastic Pet Bowl | Food & Water Bowl for Dogs and Cats](https://fluffynfriends.com/products/drinking-plastic-pet-bowl): Serve food and water with the Drinking Plastic Pet Bowl. Lightweight, durable, easy to clean, and perfect for dogs, cats, puppies, and kittens.
-  Updated: 2026-06-24T12:39:01Z
+  Updated: 2026-06-24T14:42:33Z
   Vendor: Fluffy Friends
   Product Type: 
   Availability: Available
@@ -3391,52 +3391,52 @@
 ## Collections
 
 - [Dog Essentials | Premium Supplies, Toys & Accessories](https://fluffynfriends.com/collections/dog-essentials): Find top-quality dog essentials including durable leashes, comfy beds, fun toys, and grooming supplies to keep your furry companion happy and healthy.
-  Updated: 2026-05-28T20:29:12Z
+  Updated: 2026-06-30T16:08:24Z
   Total Products: 56
 - [Cat Essentials | Toys, Food, and Accessories for Cats](https://fluffynfriends.com/collections/cat-essentials): Provide cats with essential supplies including toys, grooming tools, food bowls, and cozy beds to ensure comfort, fun, and daily well-being.
-  Updated: 2026-05-28T20:29:12Z
+  Updated: 2026-06-30T03:10:36Z
   Total Products: 48
 - [Toys & Training | Interactive Pet Toys & Training Gear](https://fluffynfriends.com/collections/toys-training): Boost pets’ fun and learning with interactive toys and training gear, designed to stimulate minds, encourage exercise, and support obedience and play.
-  Updated: 2026-05-28T20:29:12Z
+  Updated: 2026-06-30T02:53:38Z
   Total Products: 26
 - [Bedding & Apparel | Cozy & Stylish Pet Beds and Clothing](https://fluffynfriends.com/collections/bedding-apparel): Keep pets comfortable and stylish with premium bedding and apparel, including soft beds, warm clothing, and cozy accessories for dogs and cats.
-  Updated: 2026-05-28T20:29:12Z
+  Updated: 2026-06-30T16:08:24Z
   Total Products: 41
 - [Care & Grooming | Premium Pet Hygiene and Grooming Products](https://fluffynfriends.com/collections/care-grooming): Keep pets healthy and clean with premium care and grooming products, including brushes, shampoos, and nail tools for dogs and cats of all sizes.
-  Updated: 2026-06-19T16:19:24Z
+  Updated: 2026-06-30T16:40:36Z
   Total Products: 25
 - [Best Sellers | Popular Pet Products for Dogs and Cats](https://fluffynfriends.com/collections/best-sellers): Grab our best- pet products, featuring top-rated toys, grooming tools, beds, and accessories that pets love and owners trust every day.
-  Updated: 2026-06-19T15:52:27Z
+  Updated: 2026-06-30T02:28:00Z
   Total Products: 14
 - [Pet Supplies | Quality Accessories, Toys & Grooming Products](https://fluffynfriends.com/collections/pet-supplies): Get reliable pet supplies for dogs and cats, including toys, grooming tools, feeders, and beds—crafted to support comfort, care, and daily convenience.
-  Updated: 2026-06-19T16:14:32Z
+  Updated: 2026-07-02T01:09:20Z
   Total Products: 34
 - [Live Animals - Fluffy Friends](https://fluffynfriends.com/collections/live-animals): - Fluffy Friends
-  Updated: 2026-06-19T16:14:32Z
+  Updated: 2026-06-30T16:32:14Z
   Total Products: 6
 - [Fluffy Friends | Adorable & High-Quality Pet Products Online](https://fluffynfriends.com/collections/all): Shop premium pet supplies at Fluffy Friends! Get quality toys, grooming tools, and cozy beds to keep your cats and dogs comfortable, active, and happy.
-  Updated: 2026-06-19T16:19:24Z
+  Updated: 2026-07-02T01:09:20Z
   Total Products: 157
 - [Beds & Accessories - Fluffy Friends](https://fluffynfriends.com/collections/beds-accessories): - Fluffy Friends
-  Updated: 2026-06-19T16:14:32Z
+  Updated: 2026-06-30T16:32:14Z
   Total Products: 5
 - [Toys - Fluffy Friends](https://fluffynfriends.com/collections/toys): - Fluffy Friends
-  Updated: 2026-05-28T21:07:43Z
+  Updated: 2026-06-30T02:53:38Z
   Total Products: 3
 - [Puzzles - Fluffy Friends](https://fluffynfriends.com/collections/puzzles): - Fluffy Friends
-  Updated: 2026-05-28T21:07:43Z
+  Updated: 2026-06-30T16:44:48Z
   Total Products: 1
 - [Animals & Pet Supplies - Fluffy Friends](https://fluffynfriends.com/collections/animals-pet-supplies): - Fluffy Friends
-  Updated: 2026-06-19T16:19:24Z
+  Updated: 2026-06-30T16:40:36Z
   Total Products: 20
 - [Handbags, Wallets & Cases - Fluffy Friends](https://fluffynfriends.com/collections/handbags-wallets-cases): - Fluffy Friends
-  Updated: 2026-06-19T16:14:32Z
+  Updated: 2026-06-30T16:32:14Z
   Total Products: 1
 - [Camera & Optic Accessories - Fluffy Friends](https://fluffynfriends.com/collections/camera-optic-accessories): - Fluffy Friends
-  Updated: 2026-06-19T15:52:27Z
+  Updated: 2026-06-30T02:12:51Z
   Total Products: 2
 - [AVADA - Best Sellers - Fluffy Friends](https://fluffynfriends.com/collections/avada-best-sellers): - Fluffy Friends
-  Updated: 2026-06-19T16:19:24Z
+  Updated: 2026-07-02T01:09:20Z
   Total Products: 157
 
 ## Blogs
