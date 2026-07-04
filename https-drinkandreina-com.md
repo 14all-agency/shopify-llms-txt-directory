@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-01-30T21:19:15Z
 - Contact Email: info@drinkandreina.com
-- Updated At: 2026-06-27T00:00:40.479Z
+- Updated At: 2026-07-04T00:00:44.111Z
 
 ## Products
 
 - [Andreina Tuscan Red  <0.5% ABV | Premium Non-Alcoholic Wine from Cortona](https://drinkandreina.com/products/tuscan-red-non-alcoholic-wine): Experience authentic Tuscan winemaking without alcohol. Andreina Syrah from Cortona preserves 99% of wine aromas. 15 calories, <0.5% ABV. Perfect for gatherings. Ships to 43 states.
-  Updated: 2026-06-25T22:46:38Z
+  Updated: 2026-07-01T13:27:44Z
   Vendor: Andreina
   Product Type: Non-Alcoholic Wine
   Availability: Available
