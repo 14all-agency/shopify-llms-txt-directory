@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-11-10T10:11:19Z
 - Contact Email: support@jellyaora.com
-- Updated At: 2026-06-27T00:00:37.862Z
+- Updated At: 2026-07-04T00:00:39.555Z
 
 ## Products
 
@@ -69,7 +69,7 @@
     Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-fleece-kelly-bag-86-inch-5460470.jpg?v=1778914335
     Price: $115.99 USD
 - [Classic Brown Fleece Jelly Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-brown-fluff-bk-bag-medium): Classic brown plush BK-style bag, 7" & 9.8". Holds all daily essentials. From $85.99. Free shipping $80+, Worldwide shipping, 30-day free returns.
-  Updated: 2026-06-22T15:02:54Z
+  Updated: 2026-07-01T20:29:57Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $85.99 USD
 - [Classic Denim Fleece BK Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-denim-fluff-bk-bag-medium): Denim-style fleece BK bag in 7" & 9.8". Spacious and chic for everyday use. From $115.99. Free ship $80+, Worldwide shipping, 30-day returns.
-  Updated: 2026-06-17T08:28:19Z
+  Updated: 2026-06-30T17:14:26Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -599,16 +599,16 @@
 ## Collections
 
 - [Shop All Plush Designer Bags – Jellyaora | BK, Kelly, Lindy & More](https://www.jellyaora.com/collections/bags): Browse Jellyaora's full collection of ultra-soft plush designer bags — BK Jelly Bags, Kelly Bags, Lindy Bags, Garden Totes, Hobo Bags, and limited-edition styles. Ships in 3–7 days from $85.99.
-  Updated: 2026-06-26T17:04:43Z
+  Updated: 2026-07-02T11:24:38Z
   Total Products: 49
 - [AVADA - Best Sellers](https://www.jellyaora.com/collections/avada-best-sellers)
-  Updated: 2026-06-26T17:04:43Z
+  Updated: 2026-07-02T11:24:38Z
   Total Products: 63
 - [Best Sellers – Most Popular Plush Designer Bags | Jellyaora](https://www.jellyaora.com/collections/best-sellers): Shop Jellyaora's best- plush bags — the most popular styles customers love most. Iconic BK Jelly Bags, Kelly Bags, and more. From $85.99 USD.
-  Updated: 2026-06-26T17:04:43Z
+  Updated: 2026-07-02T11:24:38Z
   Total Products: 9
 - [BK Jelly Bags – Plush Birkin-Style Fluff Bags | Jellyaora](https://www.jellyaora.com/collections/bk-plush-bags): Shop Jellyaora BK Jelly Bags — Birkin-inspired ultra-soft plush bags in 7-inch and 9.8-inch. 15+ colors from $85.99. Free US shipping on eligible orders.
-  Updated: 2026-06-26T17:04:43Z
+  Updated: 2026-07-02T11:24:38Z
   Total Products: 23
 - [Kelly Bags – Plush Structured Designer Bags | Jellyaora](https://www.jellyaora.com/collections/kelly-plush-bags): Shop Jellyaora Kelly Bags — 8.6-inch plush bags in fleece, denim, and seasonal prints. Soft, structured, and iconic. Ships in 3–7 business days.
   Updated: 2026-06-18T11:26:24Z
@@ -626,7 +626,7 @@
   Updated: 2026-06-18T10:26:37Z
   Total Products: 9
 - [Summer Best Sellers – Top Plush Bags for Summer | Jellyaora](https://www.jellyaora.com/collections/summer-best-seller): Shop Jellyaora Summer Best Sellers — bright, lightweight plush bags perfect for summer. Straw bags, pastel BK bags, and bold colors. Ships in 3–7 days.
-  Updated: 2026-06-20T11:27:19Z
+  Updated: 2026-07-01T11:22:17Z
   Total Products: 9
 - [Hobo Bags – Soft Slouchy Plush Bags | Jellyaora](https://www.jellyaora.com/collections/hobo-bags): Shop Jellyaora Hobo Bags — soft slouchy plush bags with relaxed silhouette. Spacious, effortless style for everyday carry. Ships in 3–7 business days.
   Updated: 2026-06-15T06:52:40Z
