@@ -8,12 +8,12 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2026-06-18T00:00:33.169Z
+- Updated At: 2026-07-04T00:00:33.364Z
 
 ## Products
 
 - [Flare Yoga Pants High Waisted – Flairé™ Flared Leggings](https://hypesinventory.com/products/flare-yoga-pants-high-waisted): Shop flare yoga pants high waisted by Flairé™. Tummy control, soft stretch fabric, and pockets for comfort, style, and everyday wear.
-  Updated: 2026-05-16T02:00:20Z
+  Updated: 2026-06-18T08:45:55Z
   Vendor: Flairé™
   Product Type: Yoga Leggings
   Availability: Available
@@ -99,7 +99,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-yoga-leggings-olive-green-small-flaire-high-waisted-flare-leggings-with-pockets-tummy-control-flared-yoga-pants-35131094532349.webp?v=1775784879
     Price: $34.95 USD
 - [Flare Yoga Pants High Waisted – Flairé™ Leggings with Pockets](https://hypesinventory.com/products/flare-yoga-pants-high-waisted-flaire): Shop flare yoga pants high waisted by Flairé™. Sculpting fit, soft stretch fabric, and pockets for comfort, style, and everyday wear.
-  Updated: 2026-05-16T03:08:04Z
+  Updated: 2026-06-18T10:57:31Z
   Vendor: Flairé™
   Product Type: Flared Leggings
   Availability: Available
@@ -311,7 +311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-loose-powder-03-1pcs-phofay-setting-soft-touch-loose-powder-35159625990397.webp?v=1775784841
     Price: $24.95 USD
 - [Lip Liner Pencil – PHOFAY Waterproof Long-Lasting Lip Liner](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof): Shop lip liner pencil by PHOFAY. Waterproof, long-lasting formula defines, shapes, and contours lips for smooth, precise, and fade-resistant wear.
-  Updated: 2026-06-16T21:12:52Z
+  Updated: 2026-06-30T14:08:19Z
   Vendor: Hypes Inventory
   Product Type: Lip Liner
   Availability: Available
@@ -368,7 +368,7 @@
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-eyeliner-black-waterproof-liquid-eyeliner-smudge-proof-eyeliner-pen-phofay-35159643914493.webp?v=1775784925
   Price: $17.68 USD
 - [Volumizing Mascara – PHOFAY Lengthening & Curling Mascara - Hypes](https://hypesinventory.com/products/phofay-volumizing-mascara): Get bold, voluminous lashes with PHOFAY Volumizing Mascara. Curling, lengthening, and buildable formula for dramatic lash definition. 10g.
-  Updated: 2026-06-17T07:17:18Z
+  Updated: 2026-07-03T05:15:12Z
   Vendor: Hypes Inventory
   Product Type: Mascara
   Availability: Available
@@ -464,7 +464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-liquid-blush-pink-liquid-blush-phofay-mousse-lightweight-blush-35159685595389.webp?v=1775784972
     Price: $19.98 USD
 - [Cream and Powder Blush Duo | PHOFAY Buildable Glow](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo): Shop cream and powder blush duo by PHOFAY. Buildable cream and powder blush delivers a smooth, radiant glow with long-lasting, lightweight coverage in one compact.
-  Updated: 2026-06-14T03:22:09Z
+  Updated: 2026-07-03T21:15:13Z
   Vendor: Hypes Inventory
   Product Type: Blush Duo
   Availability: Available
@@ -474,15 +474,15 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159659348221.webp?v=1775784977
     Price: $37.58 USD
   - [04 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260579959037)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159662756093.webp?v=1775784978
     Price: $26.95 USD
   - [03 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260579991805)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159681794301.webp?v=1775784981
     Price: $26.95 USD
   - [01 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260580024573)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159698997501.webp?v=1775784991
     Price: $26.95 USD
   - [02 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260580057341)
@@ -490,7 +490,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159686578429.webp?v=1775784986
     Price: $26.95 USD
 - [Portable Whey Protein Shaker – ShakeVolt Hero for Fitness](https://hypesinventory.com/products/electric-portable-whey-protein-shaker-bottle): Discover the ShakeVolt Hero, the ultimate portable whey protein shaker for easy, on-the-go nutrition and smooth blends anywhere.
-  Updated: 2026-05-21T08:27:29Z
+  Updated: 2026-06-20T12:14:38Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -812,7 +812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-l-tight-sports-back-v-shape-one-piece-35199336218877.webp?v=1775785031
     Price: $44.95 USD
 - [Seamless Yoga Set | Flairé™ High Waist Workout Set](https://hypesinventory.com/products/seamless-yoga-set-flaire): Shop seamless yoga set by Flairé™. Sculpting, breathable workout set with a high-waist fit designed for comfort, flexibility, and a flattering look.
-  Updated: 2026-05-16T02:00:16Z
+  Updated: 2026-06-18T08:51:21Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -1494,7 +1494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-one-size-adjustable-lumbar-support-belt-35369484124413.webp?v=1775785218
   Price: $249.99 USD
 - [Ladies Full Body Shaper | Strapless Seamless Bodysuit](https://hypesinventory.com/products/ladies-full-body-shaper-strapless): Shop ladies full body shaper by Shaper™ for strapless seamless support, tummy control, and a smooth sculpted fit. Perfect under dresses.
-  Updated: 2026-06-08T11:32:39Z
+  Updated: 2026-06-18T10:09:07Z
   Vendor: Hypes Inventory
   Product Type: Strapless Bodysuit
   Availability: Available
@@ -1926,7 +1926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-activewear-top-camel-brown-s-women-s-long-sleeve-activewear-35473630331133.webp?v=1775785263
     Price: $53.95 USD
 - [Silicone Toe Separators for Bunions – Foot Pain Relief Spacers](https://hypesinventory.com/products/silicone-toe-separators-for-bunions): Relieve foot pain with silicone toe separators for bunions. Designed to align toes, reduce discomfort, and improve daily comfort. Soft, reusable, and effective.
-  Updated: 2026-06-03T01:47:18Z
+  Updated: 2026-07-02T21:35:57Z
   Vendor: Hypes Inventory
   Product Type: Foot Care
   Availability: Available
@@ -2401,7 +2401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-army-green-l-seamless-butt-lifting-yoga-leggings-for-women-35540529119485.webp?v=1775785412
     Price: $29.39 USD
 - [DerMend Bruise Cream for Fragile Skin 4.5 oz Pack of 2](https://hypesinventory.com/products/dermend-bruise-cream-fragile-skin-pack-2): Shop DerMend Bruise Cream 4.5 oz Pack of 2 for fragile, thin, and bruised skin. Lightweight moisturizing formula for healthier-looking skin.
-  Updated: 2026-05-21T08:27:30Z
+  Updated: 2026-06-20T12:14:38Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -2622,7 +2622,7 @@
   Updated: 2026-06-04T00:49:05Z
   Total Products: 39
 - [Health & Beauty - Hypes Inventory](https://hypesinventory.com/collections/health-beauty): - Hypes Inventory
-  Updated: 2026-06-01T11:18:33Z
+  Updated: 2026-06-22T11:16:55Z
   Total Products: 18
 - [Comfortable Shapewear | Sculpting Seamless Support Styles](https://hypesinventory.com/collections/comfortable-shapewear-collection): Shop comfortable shapewear designed for smoothing, sculpting, tummy control, and all-day confidence with seamless flattering fits.
   Updated: 2026-06-04T01:54:50Z
@@ -2634,19 +2634,19 @@
   Updated: 2026-06-04T03:00:03Z
   Total Products: 11
 - [Bag Charms for Purses & Keychains – Cute Accessories | Hypes Inventory](https://hypesinventory.com/collections/bag-charms-for-purses): Shop bag charms for purses, keychains, and accessories. Cute, trendy, and gift-ready styles to elevate your bags and everyday look.
-  Updated: 2026-06-16T06:46:35Z
+  Updated: 2026-06-30T13:40:50Z
   Total Products: 29
 - [new fashion arrivals | Trending Women’s Fashion Styles](https://hypesinventory.com/collections/new-fashion-arrivals): Shop new fashion arrivals featuring trending women’s activewear, accessories, handbags, jewelry, and stylish everyday fashion.
-  Updated: 2026-06-08T11:01:40Z
+  Updated: 2026-06-30T13:40:50Z
   Total Products: 10
 - [Women’s Activewear Collection | Stylish Workout Clothes](https://hypesinventory.com/collections/womens-activewear): Shop the Women’s Activewear Collection for leggings, workout sets, gym clothing, and stylish activewear designed for comfort.
   Updated: 2026-06-04T04:03:55Z
   Total Products: 35
 - [Bag Edit | Trendy Everyday Bags, Totes & Crossbody Styles](https://hypesinventory.com/collections/bag-edit): Shop The Bag Edit for stylish everyday bags, totes, handbags, and crossbody styles made to elevate your outfits with ease.
-  Updated: 2026-06-16T06:45:59Z
+  Updated: 2026-06-29T21:58:46Z
   Total Products: 32
 - [Mothers Day Gifts | Stylish & Practical Gift Ideas for Mom](https://hypesinventory.com/collections/mothers-day-gifts): Shop mothers day gifts designed for style and everyday use. Discover elegant bags and thoughtful gift ideas perfect for moms.
-  Updated: 2026-06-16T06:45:59Z
+  Updated: 2026-06-29T21:58:46Z
   Total Products: 9
 
 ## Blogs
