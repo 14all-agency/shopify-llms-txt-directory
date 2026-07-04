@@ -6,14 +6,14 @@
 - Timezone: Europe/Bucharest
 - Created At: 2026-06-24T08:26:44Z
 - Contact Email: miuangelo@yahoo.com
-- Updated At: 2026-06-25T15:27:42.107Z
+- Updated At: 2026-07-04T00:00:32.174Z
 
 ## Products
 
-- [Kit Irigare Automată prin Picurare – cu Cronometru Digital](https://purepick-8349.myshopify.com/products/micro-drip-irrigation-system-portable-20m-automatic-watering-with-adjustable-drippers-misting-watering-kits-garden-hose): Problema rezolvată: Plantele tale mor când pleci în vacanță sau uiți să le uziSistemul de irigare prin picurare livrează apă direct la rădăcini, automat, la orele setate. Nicio plantă uscată, nicio risipă de apă.⏱️ Cronometru digital programabil – setezi frecvența și durata💧 Consum redus cu 70% față de udatul clasic🌱 Picurare directă la rădăcină – umiditate uniformă🔧 Montaj simplu fără scule – gata în 20 de minute🏡 Perfect pentru grădini, balcoane, terase, sere miciAlege lungimea furtunului în funcție de suprafața grădinii tale. Compatibil cu orice robinet standard.
-  Updated: 2026-06-24T21:05:30Z
+- [Automatic Drip Irrigation Kit with Digital Timer | PurePick](https://purepick-8349.myshopify.com/products/micro-drip-irrigation-system-portable-20m-automatic-watering-with-adjustable-drippers-misting-watering-kits-garden-hose): Automatic drip irrigation kit with programmable timer. Waters up to 4 lengths, saves 70% water. Tool-free setup in 20 minutes.
+  Updated: 2026-07-03T12:12:16Z
   Vendor: PurePick
-  Product Type: 
+  Product Type: Garden
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/2388/8455/files/Sc43c0e85f45d499891cae87477464f1fJ.webp?v=1782291927
   - [20M](https://purepick-8349.myshopify.com/products/micro-drip-irrigation-system-portable-20m-automatic-watering-with-adjustable-drippers-misting-watering-kits-garden-hose?variant=54220929990983)
@@ -32,38 +32,38 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0991/2388/8455/files/S5667e30817e24fb7a3d787c5ca5e41b4W.webp?v=1782291927
     Price: lei 65.00 RON
-- [Dispenser Automat Săpun Senzor – Touchless USB-C Reîncărcabil](https://purepick-8349.myshopify.com/products/new-bathroom-automatic-sensing-soap-dispenser-type-c-multiple-levels-contactless-electric-frother-charging-wall-mounted-vertical): Problema rezolvată: Butoane murdare de bacterii și săpun risipitSenzorul infraroșu detectează mâna în 0.25 secunde și dozează automat cantitatea perfectă. Nicio atingere, nicio bacterie, zero risipă.🖐️ 100% Touchless – senzor infraroșu cu răspuns instant🔌 Reîncărcare USB-C – fără baterii, 30+ zile pe o singură încărcare🫧 3 niveluri de dozare – lichid, spumă sau gel🧲 Montaj pe perete sau pe blat – fără găurit, cu bandă adezivă inclusă💧 Capacitate 350ml – perfect pentru baie sau bucătărieDesign minimalist care se potrivește oricărui interior modern.
-  Updated: 2026-06-24T21:05:53Z
+- [Touchless Automatic Soap Dispenser USB-C Rechargeable | PurePick](https://purepick-8349.myshopify.com/products/new-bathroom-automatic-sensing-soap-dispenser-type-c-multiple-levels-contactless-electric-frother-charging-wall-mounted-vertical): Touchless automatic soap dispenser with infrared sensor. USB-C rechargeable, no batteries needed. Hygienic and modern. Delivery across Romania.
+  Updated: 2026-07-03T12:12:17Z
   Vendor: PurePick
-  Product Type: 
+  Product Type: Bathroom & Hygiene
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/2388/8455/files/S8b188c9c75bb4360b9151b694953a688p.webp?v=1782291950
   Price: lei 179.00 RON
-- [Organizator Frigider Transparent cu Mâner – Cutie Depozitare Alimente](https://purepick-8349.myshopify.com/products/transparent-refrigerator-organizers-durable-easy-to-clean-multifunctional-food-storage-box-for-fruits-vegetables-meats-etc): Problema rezolvată: Frigiderul haotic unde mâncarea expiră fără să știiOrganizatorul transparent cu mâner de tragere transformă haosul din frigider în secțiuni clare. Găsești orice în secunde și nu mai arunci mâncare expirată ascunsă în spate.🧊 Plastic transparent BPA-free – vezi conținutul dintr-o privire🖐️ Mâner ergonomic de tragere – acces instant la tot conținutul📐 Dimensiuni universale – se potrivesc în 95% din frigidere🧹 Ușor de curățat – compatibil cu mașina de spălat vase🥦 Ideal pentru legume, mezeluri, lactate, condimente, băuturiCreează un frigider organizat ca-n revistă în mai puțin de 5 minute.
-  Updated: 2026-06-24T21:08:15Z
+- [Organizator Frigider Transparent cu Mâner | PurePick](https://purepick-8349.myshopify.com/products/transparent-refrigerator-organizers-durable-easy-to-clean-multifunctional-food-storage-box-for-fruits-vegetables-meats-etc): Organizator transparent BPA-free pentru frigider, cu mâner de tragere. Găsești orice în secunde. Livrare România. ✅ Retur 30 zile.
+  Updated: 2026-07-03T12:12:16Z
   Vendor: PurePick
-  Product Type: 
+  Product Type: Kitchen Organization
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/2388/8455/files/Sc829915b63ee4c299f134f0262dfefcbc.webp?v=1782292091
-  Price: lei 75.00 RON
-- [Set 4 Cutii Depozitare Transparente cu Capac – Organizare Birou & Casă](https://purepick-8349.myshopify.com/products/4-large-transparent-pp-storage-boxes-with-lids-used-for-storing-office-supplies-pencils-and-crafts): Problema rezolvată: Obiectele mici împrăștiate peste tot — chiuvete, creioane, șuruburi, bijuteriiSetul de 4 cutii mari transparente cu capac dublu-clic îți dă un sistem de depozitare clar și elegant. Stivuibile, rezistente, perfecte pentru orice cameră din casă.🔍 Complet transparente – găsești orice fără să deschizi📦 Capac cu clic dublu – se închide etanș, nu se deschide accidental🔄 Stivuibile – economisești spațiu pe verticală🏷️ Suprafață pentru etichetare – organizare ca un profesionist🏠 Ideal pentru birou, atelier, bucătărie, baie, copiiSetul conține 4 cutii mari PP – rezistente la șocuri și umezeală.
-  Updated: 2026-06-24T21:13:43Z
+  Price: lei 69.00 RON
+- [Set 4 Cutii Depozitare Transparente cu Capac | PurePick](https://purepick-8349.myshopify.com/products/4-large-transparent-pp-storage-boxes-with-lids-used-for-storing-office-supplies-pencils-and-crafts): Set 4 cutii mari transparente PP cu capac dublu-clic. Stivuibile, rezistente, perfecte pentru birou și casă. Livrare România. ✅ Retur 30 zile.
+  Updated: 2026-07-03T12:12:16Z
   Vendor: PurePick
-  Product Type: 
+  Product Type: Home Organization
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/2388/8455/files/S618e24bfa13b40d29fdbdd5969febde8q.webp?v=1782292418
-  Price: lei 55.00 RON
-- [Separatoare Sertare Reglabile din Bambus – Sistem DIY cu Arc](https://purepick-8349.myshopify.com/products/bamboo-retractable-drawer-dividers-secure-fit-creative-adjustable-partition-board-save-space-diy): Problema rezolvată: Sertarele dezordonate unde totul e amestecat și nimic nu stă la locul luiSeparatoarele din bambus se extind cu arc și se fixează perfect în orice sertar — fără șuruburi, fără adeziv. Compartimentezi rapid lenjeria, tacâmurile, accesoriile sau papetăria.📐 Reglabile de la 26 la 46 cm – se adaptează oricărui sertar🔒 Sistem cu arc – stau ferm pe loc, nu se mișcă la deschidere🌿 Bambus natural 100% – eco-friendly, durabil, estetic✂️ Instalare în 30 secunde – nicio sculă necesară🏠 Ideal pentru dormitor, bucătărie, baie sau birouTransformă orice sertar dezordonat într-un sistem organizat în mai puțin de 2 minute.
-  Updated: 2026-06-24T21:14:02Z
+  Price: lei 49.00 RON
+- [Separatoare Sertare Reglabile din Bambus | PurePick](https://purepick-8349.myshopify.com/products/bamboo-retractable-drawer-dividers-secure-fit-creative-adjustable-partition-board-save-space-diy): Separatoare sertare ajustabile din bambus natural cu sistem arc. Se potrivesc oricărui sertar. Instalare 30 secunde. Livrare România.
+  Updated: 2026-07-03T12:12:15Z
   Vendor: PurePick
-  Product Type: 
+  Product Type: Home Organization
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/2388/8455/files/Saaee045a867b47a5abc352a518b8c2f4t.webp?v=1782292428
   Price: lei 69.00 RON
-- [Suport Magnetic Cuțite din Lemn Acacia – Bloc Dublu Față Premium](https://purepick-8349.myshopify.com/products/home-kitchen-magnetic-knife-holder-acacia-wooden-kitchen-knife-block-strong-enhanced-magnets-stands-storage-knife-holder): Problema rezolvată: Cuțitele risipite în sertar – periculoase, greu de găsit, tocesc lamaBlocul magnetic din lemn de acacia prinde cuțitele instantaneu și le ține la vedere, accesibile și în siguranță. Magneții neodimiu dublu-față prind și cele mai grele cuțite fără să cadă.🔧 Magneți neodimiu puternici – prind cuțite grele, topoare și foarfece🪵 Lemn de acacia premium – natural, nu zgârie lamele, durabil 10+ ani📐 Dublu față – organizezi 2x mai multe cuțite pe același spațiu🍴 Compatibil cu oțel inoxidabil, carbon și damast🎁 Cutie cadou inclusă – ideal ca dar pentru pasionații de gătitEliberează complet sertarul și oferă bucătăriei tale un aspect profesional.
-  Updated: 2026-06-24T21:14:27Z
+- [Acacia Wood Magnetic Knife Holder Double-Sided | PurePick](https://purepick-8349.myshopify.com/products/home-kitchen-magnetic-knife-holder-acacia-wooden-kitchen-knife-block-strong-enhanced-magnets-stands-storage-knife-holder): Premium double-sided acacia wood magnetic knife block. Powerful neodymium magnets. Completely frees up your drawer. Delivery across Romania.
+  Updated: 2026-07-03T12:12:17Z
   Vendor: PurePick
-  Product Type: 
+  Product Type: Kitchen Organization
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/2388/8455/files/S570c516a3ee24023b604ce625ffce6b8j.webp?v=1782292461
   - [knife blockA](https://purepick-8349.myshopify.com/products/home-kitchen-magnetic-knife-holder-acacia-wooden-kitchen-knife-block-strong-enhanced-magnets-stands-storage-knife-holder?variant=54220988055879)
@@ -86,29 +86,76 @@
 ## Collections
 
 - [Home page](https://purepick-8349.myshopify.com/collections/frontpage)
-  Updated: 2026-06-24T09:26:53Z
+  Updated: 2026-07-02T12:51:05Z
   Total Products: 1
-- [Casă & Curățenie](https://purepick-8349.myshopify.com/collections/casa-curațenie): Produse inteligente care fac curățenia mai rapidă, mai ușoară și mai eficientă. Soluții testate pentru fiecare colț al casei tale.
-  Updated: 2026-06-24T10:00:11Z
+- [Home Cleaning Products and Essentials for Every Home | PurePick](https://purepick-8349.myshopify.com/collections/casa-curațenie): Shop mops, soap dispensers, and cleaning essentials. Keep your home spotless with PurePick. Fast worldwide shipping.
+  Updated: 2026-07-02T12:51:05Z
   Total Products: 3
-- [Grădină & Exterior](https://purepick-8349.myshopify.com/collections/gradina-exterior): Gadgeturi și unelte care transformă grădinăritul dintr-o corvoadă într-o plăcere. De la irigare automată la organizarea spațiilor verzi.
-  Updated: 2026-06-24T10:00:10Z
+- [Garden and Outdoor Products for Your Home | PurePick](https://purepick-8349.myshopify.com/collections/gradina-exterior): Shop garden hoses, irrigation kits, and outdoor tools. Keep your garden thriving with PurePick. Fast worldwide shipping.
+  Updated: 2026-07-02T12:51:05Z
   Total Products: 3
-- [Bucătărie Inteligentă](https://purepick-8349.myshopify.com/collections/bucatarie-inteligenta): Accesorii inteligente de bucătărie care economisesc timp și reduc dezordinea. Fiecare produs rezolvă o problemă reală din bucătăria ta.
-  Updated: 2026-06-24T10:00:12Z
+- [Smart Kitchen Gadgets and Organizers for Modern Homes | PurePick](https://purepick-8349.myshopify.com/collections/bucatarie-inteligenta): Discover smart kitchen tools, organizers, and gadgets. Upgrade your kitchen with PurePick. Fast worldwide shipping.
+  Updated: 2026-07-02T12:51:05Z
   Total Products: 4
-- [Organizare & Depozitare](https://purepick-8349.myshopify.com/collections/organizare-depozitare): Sisteme de organizare care transformă haosul în ordine. Sertare, rafturi și soluții de depozitare pentru fiecare cameră.
-  Updated: 2026-06-24T10:00:12Z
+- [Organization & Storage Solutions for Home and Office | PurePick](https://purepick-8349.myshopify.com/collections/organizare-depozitare): Shop smart storage and organization products for every room. Boxes, dividers, and more. Fast worldwide shipping.
+  Updated: 2026-07-02T12:51:05Z
   Total Products: 4
+- [Recommended Products (Wiz Email)](https://purepick-8349.myshopify.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
+  Updated: 2026-07-02T12:31:38Z
+  Total Products: 6
+- [Recommended Products (Wiz Email)](https://purepick-8349.myshopify.com/collections/recommended-products-wiz-email-1): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
+  Updated: 2026-07-02T12:31:38Z
+  Total Products: 6
+- [Special Offers – Limited Time Deals & Discounts | PurePick](https://purepick-8349.myshopify.com/collections/🔥-oferte-speciale): Shop PurePick's Special Offers — selected products at discounted prices for a limited time. Don't miss out!
+  Updated: 2026-07-02T18:45:25Z
+  Total Products: 14
+- [New Arrivals – Latest Smart Home Products | PurePick](https://purepick-8349.myshopify.com/collections/new-arrivals): Discover PurePick's newest smart home, kitchen, garden, and organization products. Fresh arrivals added regularly. Fast worldwide shipping.
+  Updated: 2026-07-03T16:25:29Z
+  Total Products: 14
+
+## Blogs
+
+- [News](https://purepick-8349.myshopify.com/blogs/news)
+  - [Automatic Soap Dispenser Guide: Cleaner Hands | PurePick](https://purepick-8349.myshopify.com/blogs/news/automatic-soap-dispensers-choose-the-right-one): Automatic Soap Dispenser Guide: Cleaner Hands | PurePick
+    Updated: 2026-06-27T07:00:01Z
+    Author: PurePick
+  - [Motion Sensor Guide: Smarter Lighting | PurePick](https://purepick-8349.myshopify.com/blogs/news/motion-sensor-how-to-choose-the-right-one): Motion Sensor Guide: Smarter Lighting | PurePick
+    Updated: 2026-06-28T07:00:01Z
+    Author: PurePick
+  - [Smart Products for the Home: Better Living | PurePick](https://purepick-8349.myshopify.com/blogs/news/smart-home-products-that-upgrade-daily-comfort): Smart Products for the Home: Better Living | PurePick
+    Updated: 2026-06-29T07:00:01Z
+    Author: PurePick
+  - [Refrigerator Organization Tips | Faster, Cleaner Meals | PurePick](https://purepick-8349.myshopify.com/blogs/news/refrigerator-organization-tips-for-faster-cleaner-meals): Refrigerator Organization Tips | Faster, Cleaner Meals | PurePick
+    Updated: 2026-06-27T07:00:01Z
+    Author: PurePick
+  - [Automatic Irrigation Kit Setup and Results | PurePick](https://purepick-8349.myshopify.com/blogs/news/automatic-irrigation-kit-setup-and-watering-guide): Automatic Irrigation Kit Setup and Results | PurePick
+    Updated: 2026-06-28T07:00:01Z
+    Author: PurePick
+  - [Bamboo Drawer Dividers Organization | PurePick](https://purepick-8349.myshopify.com/blogs/news/bamboo-drawer-dividers-for-neat-easy-organizing-tips): Bamboo Drawer Dividers Organization | PurePick
+    Updated: 2026-06-29T07:00:02Z
+    Author: PurePick
+  - [Easy Reception Tips – Speedy Guest Welcome | PurePick](https://purepick-8349.myshopify.com/blogs/news/easy-reception-simple-ways-to-welcome-guests-fast): Easy Reception Tips – Speedy Guest Welcome | PurePick
+    Updated: 2026-07-01T07:00:04Z
+    Author: PurePick
 
 ## Store Pages
 
-- [Contact](https://purepick-8349.myshopify.com/pages/contact)
-  Updated: 2026-06-24T08:26:48Z
-- [Despre Noi](https://purepick-8349.myshopify.com/pages/despre-noi): Bine ai venit la PurePick 👋PurePick este magazinul tău de produse Problem-Solver pentru casă și grădină. Nu vindem orice — vindem soluții.Misiunea ...
-  Updated: 2026-06-24T09:32:54Z
-- [Întrebări Frecvente](https://purepick-8349.myshopify.com/pages/intrebari-frecvente): Întrebări Frecvente (FAQ)📦 LivrareCât durează livrarea?Livrăm în toată România în 7-14 zile lucrătoare. Primești email cu numărul de tracking imedi...
-  Updated: 2026-06-24T09:33:12Z
+- [Contact](https://purepick-8349.myshopify.com/pages/contact): Contactează-ne 👋Suntem aici să te ajutăm cu orice întrebare despre comenzi, produse sau livrare.📧 Emailmiuangelo@yahoo.comRăspundem în maximum 24 d...
+  Updated: 2026-07-02T11:25:01Z
+- [About Us | PurePick](https://purepick-8349.myshopify.com/pages/despre-noi): Bine ai venit la PurePick 👋PurePick s-a născut dintr-o frustrare simplă: prea multe produse de calitate slabă, prea greu de găsit ce funcționează c...
+  Updated: 2026-07-02T12:01:17Z
+- [Frequently Asked Questions | PurePick](https://purepick-8349.myshopify.com/pages/intrebari-frecvente): Întrebări Frecvente (FAQ)Găsești mai jos răspunsurile la cele mai comune întrebări. Dacă nu găsești ce cauți, scrie-ne la miuangelo@yahoo.com.📦 Liv...
+  Updated: 2026-07-02T12:00:57Z
+- [Your Privacy Choices](https://purepick-8349.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-06-25T17:10:45Z
+- [Return & Refund Policy | PurePick](https://purepick-8349.myshopify.com/pages/politica-retur): Politica de Returnare PurePickVrem să fii 100% mulțumit de comanda ta. Dacă produsul nu corespunde așteptărilor, ai la dispoziție 30 de zile calend...
+  Updated: 2026-07-02T12:00:34Z
+- [Privacy Policy | PurePick](https://purepick-8349.myshopify.com/pages/politica-confidentialitate): Politica de Confidențialitate PurePickAceastă politică explică ce date colectăm, cum le folosim și ce drepturi ai conform legislației române și eur...
+  Updated: 2026-07-02T11:59:53Z
+- [Terms and Conditions | PurePick](https://purepick-8349.myshopify.com/pages/termeni-si-conditii): Termeni și Condiții PurePickPrin plasarea unei comenzi pe purepick-8349.myshopify.com ești de acord cu termenii de mai jos.1. ComenziConfirmarea co...
+  Updated: 2026-07-02T11:59:22Z
+- [Shipping Policy | PurePick](https://purepick-8349.myshopify.com/pages/politica-livrare): Politica de Livrare PurePickZone de livrareLivrăm în toată România, prin curier rapid, la adresa indicată la checkout.Timp de procesareComenzile su...
+  Updated: 2026-07-02T11:59:05Z
 
 ## Policies
 
