@@ -3,15 +3,15 @@
 - Domain: https://mdgshop.com
 - Locale: en
 - Currency: EUR
-- Timezone: Africa/Monrovia
+- Timezone: Europe/Bucharest
 - Created At: 2025-11-18T07:20:00Z
 - Contact Email: marginean.damian1989@gmail.com
-- Updated At: 2026-06-26T05:25:16.705Z
+- Updated At: 2026-07-04T00:00:35.105Z
 
 ## Products
 
 - [Women's Long Sleeve Chest Cross Sweater](https://mdgshop.com/products/womens-long-sleeve-chest-cross-sweater): Elevate your wardrobe with our Women's Chest Cross Long Sleeve Temperament Sweater! Designed for the modern woman, this sweater combines style and comfort effortlessly. Made from high-quality polyester, it features a sleek slim fit that complements your silhouette while providing a cozy feel. The V-neck collar adds an elegant touch, making it perfect for various occasions, from casual outings to sophisticated gatherings. Available in a stunning range of colors including apricot, white, black, rose red, amber, brown, grass green, khaki, olive green, and nude pink, this sweater is versatile enough to match any outfit. Choose from sizes S, M, L, and XL to find your perfect fit. Featuring unique three-dimensional decorations, this sweater stands out in any crowd, making it a must-have addition to your collection. Enjoy the perfect blend of fashion and functionality with this exceptional piece. Check out the images below to see the stunning designs: Don’t miss out on the chance to add this stunning sweater to your wardrobe. Experience the perfect combination of style, comfort, and elegance with our Women's Chest Cross Long Sleeve Temperament Sweater today!
-  Updated: 2026-06-20T19:42:24Z
+  Updated: 2026-06-29T18:31:18Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -97,7 +97,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/LXCX8M78t7vH5zu5.webp?v=1763639871
     Price: €43.44 EUR
 - [Trendy Stand Collar Solid Color Casual Jacket](https://mdgshop.com/products/trendy-stand-collar-solid-color-casual-jacket): Elevate your style this spring and autumn with our Trendy Top Coat Stand Collar Solid Color Casual Jacket. Designed with a modern Korean flair, this jacket is perfect for adding a touch of sophistication to any casual outfit. The stand-up collar provides a unique look while ensuring that you stay warm, and the zipper placket adds functionality with a sleek finish. Made from a high-quality chemical fiber blend, including 100% polyester, this jacket is not only stylish but also comfortable to wear. Available in three classic colors—black, gray, and navy blue—and a variety of sizes ranging from M to 5XL, you can find the perfect fit that complements your body type and personal style. The long sleeves and general thickness make this jacket an ideal outerwear choice for transitional weather, ensuring you stay cozy without sacrificing style. Don’t miss out on the opportunity to upgrade your wardrobe with this versatile and chic jacket. Order yours today and step out in style!
-  Updated: 2026-06-20T19:42:25Z
+  Updated: 2026-06-29T18:31:18Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -187,7 +187,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YmJFQolGOaGxSdtj.webp?v=1763640803
     Price: €49.01 EUR
 - [Mid-Length Men's Woolen Trench Coat](https://mdgshop.com/products/mid-length-mens-woolen-trench-coat): Elevate your style with our exquisite Woolen Coat Mid Length Men's Trench Coat, designed to keep you warm and fashionable during the colder months. Crafted from high-quality wool with a comfortable polyester composition, this trench coat is not just a piece of clothing; it’s a statement. The classic lapel collar adds a refined touch, while the plain pattern ensures versatility, allowing you to pair it effortlessly with various outfits. Available in an array of stunning colors including Black, Blue, Grey, Khaki, Red, Claret, and Navy Blue, you can choose the perfect hue that reflects your personality. With a fitted version that flatters every body type, this coat comes in multiple sizes ranging from M to 4XL. Whether you’re heading to the office or out for a casual outing, this trench coat is the perfect companion. See it in action: Choose your ideal fit and color from our extensive collection. The Woolen Coat is not just about warmth; it’s about making a bold and stylish impression. Don’t miss out on this essential wardrobe staple that combines elegance, comfort, and practicality. Be ready to turn heads wherever you go! Shop now and embrace the season in style!
-  Updated: 2026-06-20T19:42:25Z
+  Updated: 2026-06-29T18:31:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -349,7 +349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/68b35YmtEk9CpjJO.webp?v=1763641256
     Price: €88.86 EUR
 - [Men's Woolen Coat - Double Collar Mid-Length Jacket](https://mdgshop.com/products/mens-woolen-coat-double-collar-mid-length-jacket): Step into the season with confidence in our Men's Stylish Woolen Coat, the perfect blend of elegance and practicality. Designed for the discerning gentleman, this double collar mid-length jacket is tailored specifically for the Autumn/Winter business look, ensuring you stay warm without sacrificing style. This coat is made from high-quality, cold-resistant wool, making it an ideal choice for chilly days. Available in three classic colors—Black, Camel, and Grey—it caters to various style preferences and occasions. The mid-length design provides just the right amount of coverage, while the double collar adds a touch of sophistication. With a range of sizes from M to 5XL, this coat is designed to fit comfortably and flatter every figure. Whether you're heading to the office, a formal event, or a casual outing, this versatile woolen coat is your go-to piece for a polished appearance. Experience the perfect combination of warmth, style, and functionality. Don't let the cold weather hold you back—embrace it with our stylish woolen coat that effortlessly elevates your wardrobe. Shop now and redefine your winter fashion!
-  Updated: 2026-06-20T19:42:25Z
+  Updated: 2026-06-29T18:31:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -439,7 +439,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/UiuSeJMCSxhNq2oE.webp?v=1763641122
     Price: €146.53 EUR
 - [Woolen Stand Collar Medium Length Slotted Casual Coat](https://mdgshop.com/products/woolen-stand-collar-medium-length-slotted-casual-coat): This stylish medium-length woolen coat features a stand collar and slotted design, offering both warmth and a chic, casual look. Perfect for everyday wear, it combines comfort and sophistication, making it an ideal addition to your wardrobe for cooler weather.Material: ClothProduct Attributes: OrdinaryPackage Size: 350*300*30(1mm)Style: business dressPlate type: fit typeCategory: Fashion City (24-35 years old)Suitable crowd: TeenagersFabric Name: woolenMain fabric composition: polyester (polyester)Content of main fabric composition: 50%Color: grey
-  Updated: 2026-06-20T19:42:26Z
+  Updated: 2026-06-29T18:31:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -469,7 +469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/bVn0eFOqyvTLTJz0.webp?v=1763641040
     Price: €88.51 EUR
 - [Men's Woolen Mid-length Trench Coat with Stand Collar](https://mdgshop.com/products/mens-woolen-mid-length-trench-coat-with-stand-collar): Elevate your winter wardrobe with our Men's Woolen Stand Collar Mid-length Trench Coat. This sophisticated coat is designed to provide warmth and style, making it the perfect choice for the colder months. Crafted from high-quality polyester fiber, with a remarkable 99% main fabric content, this trench coat ensures durability without compromising comfort. Featuring a classic stand collar and a sleek single-breasted placket, it exudes a timeless elegance that suits any occasion. The coat is available in various stylish colors and sizes, ensuring a perfect fit for everyone. Whether you're heading to work or enjoying a casual outing, this versatile piece can be effortlessly paired with any outfit. The trench coat has an ordinary thickness, providing just the right level of warmth for winter wear without feeling bulky. With its stylish printing details, it adds a unique flair to your ensemble, making you stand out in a crowd. Available in sizes ranging from S to 4XL, you can choose the perfect fit for your body type. The coat's practical design includes no hood and no belt, allowing for a streamlined silhouette that enhances your figure. Check out some of the stunning styles available: Don’t let the cold hold you back. Embrace the season in style with this fashionable trench coat, perfect for the modern man. Shop now and redefine your winter look!
-  Updated: 2026-06-20T19:42:26Z
+  Updated: 2026-06-29T18:31:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -675,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/PnhBbLCeTFpjSccY.webp?v=1763641339
     Price: €74.63 EUR
 - [Men's Mid-Length Casual Woolen Stand-Collar Coat](https://mdgshop.com/products/mens-mid-length-casual-woolen-stand-collar-coat): Introducing our stylish Men's Mid-Length Casual Stand-Collar Woolen Coat, designed for the modern youth who values both comfort and fashion. This coat is a perfect blend of Korean style and contemporary trends, making it an essential addition to your wardrobe for the spring and autumn seasons. Crafted from high-quality woolen cloth, this coat features a single-breasted placket and a sleek stand-up collar that adds an elegant touch to your casual look. The slim fit design ensures a flattering silhouette, while the lightweight fabric offers just the right amount of warmth without compromising on style. Available in a variety of sizes ranging from M to 4XL, as well as classic colors like Black, Grey, and Navy Blue, this coat is suitable for all body types and preferences. Its versatile design makes it perfect for leisure activities or casual outings, effortlessly enhancing your ensemble. Check out the stunning visuals of this coat that showcase its impeccable craftsmanship and chic appeal: Elevate your style with this men's coat that strikes the perfect balance between functionality and aesthetics. Whether you're dressing up for a night out or keeping it casual, this coat will have you looking sharp and feeling confident.
-  Updated: 2026-06-20T19:42:27Z
+  Updated: 2026-06-29T18:31:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -741,7 +741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/bJZYh0dlhDhoSaWR.webp?v=1763658179
     Price: €149.60 EUR
 - [Men's Woolen Stand Collar Medium Long Casual Coat](https://mdgshop.com/products/mens-woolen-stand-collar-medium-long-casual-coat): Step into the season with confidence and style in our latest Autumn and Winter Men's Woolen Stand Collar Coat. Designed with a modern European and American flair, this coat is perfect for casual outings or formal gatherings alike. Crafted from high-quality polyester, this coat promises durability and comfort. The stunning blue color adds a touch of sophistication, while the unique digital printing feature makes it truly stand out from the crowd. Available in a range of sizes from M to 4XL, this coat caters to all body types, ensuring that everyone can enjoy the perfect fit. Whether you prefer a snug or relaxed look, our size options provide versatility for your wardrobe. Key Features: Don't miss out on this essential piece for your autumn and winter collection! Transform your look today with our stylish coat that blends comfort with contemporary fashion. Available Sizes:M, L, XL, XXL, 3XL, 4XL
-  Updated: 2026-06-20T19:42:27Z
+  Updated: 2026-06-29T18:31:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -767,7 +767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/whQ6iKgzA0QosOhV.webp?v=1763658424
     Price: €82.91 EUR
 - [Men's Woolen Stand Collar Medium Long Casual Coat](https://mdgshop.com/products/mens-woolen-stand-collar-medium-long-casual-coat-1): Step into the cooler seasons with confidence and style in our Men's Woolen Stand Collar Medium Long Pocket Casual Coat. Crafted from high-quality polyester, this coat promises both warmth and durability, making it an essential addition to your autumn and winter wardrobe. Designed with a chic European and American style, this coat features a unique digital printing that showcases a vibrant multicolor pattern, ensuring you stand out in any crowd. The medium-long cut provides a flattering silhouette while offering ample coverage against the chill. Available in a range of sizes from M to 4XL, this coat is tailored to fit a variety of body types comfortably. Whether you're heading out for a casual day or dressing up for a night out, this versatile coat is your go-to option. Check out the various sizes below to find your perfect fit: Don't miss out on this seasonal staple! Elevate your style this autumn and winter with our stunning coat. Pair it with your favorite jeans or trousers for a complete look that exudes sophistication and comfort.
-  Updated: 2026-06-20T19:42:27Z
+  Updated: 2026-06-29T18:31:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -797,7 +797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/hJD0rOFvEywmWvVo.webp?v=1763658468
     Price: €80.35 EUR
 - [Men's Casual Tweed Trench Coat with Stand Collar](https://mdgshop.com/products/mens-casual-tweed-trench-coat-with-stand-collar): Elevate your style with our Fashion Trench Coat, designed specifically for the modern man who values sophistication and comfort. This stand collar trench coat is a versatile piece that effortlessly transitions from casual to formal settings, making it an essential addition to your wardrobe. Crafted from high-quality tweed fabric, this coat offers a luxurious feel while ensuring durability. The double-breasted placket not only provides a classic look but also enhances warmth during cooler days. Available in a range of chic colors including black, grey, and white, you can easily match it with any outfit. Choose from a variety of sizes ranging from M to 3XL, ensuring the perfect fit for every body type. This jacket is designed with a patching and splicing process, adding a unique touch to its overall aesthetic. Imagine stepping out in style, draped in this elegant trench coat that complements your personality and enhances your confidence. Whether you're heading to work, a casual outing, or a formal event, this coat is a reliable companion. Check out the stunning visuals below to see how this trench coat looks in real life: Upgrade your wardrobe with this stylish trench coat and experience the perfect blend of fashion and functionality. Don't miss out on the chance to own this timeless piece!
-  Updated: 2026-06-20T19:42:28Z
+  Updated: 2026-06-29T18:31:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -863,7 +863,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/4FKA2qscADNKJcBN.webp?v=1763658640
     Price: €115.94 EUR
 - [Cotton Casual Men's Coat with Stand Collar](https://mdgshop.com/products/cotton-casual-mens-coat-with-stand-collar): Elevate your casual wardrobe with our stunning Cotton Wash Jacket. Designed with a modern stand collar, this versatile men's coat is perfect for those leisurely outings or everyday wear. Crafted from high-quality polyester fiber, it provides both comfort and durability, making it an ideal choice for any occasion. Available in classic black and trendy khaki colors, this jacket is sure to complement any outfit. Choose from a wide range of sizes, including M, L, XL, XXL, 3XL, and 4XL, to find your perfect fit. Size Chart: Check out the stylish appeal of this jacket through our images below and see how it can enhance your look: Don't miss out on this essential addition to your wardrobe. Order your Cotton Wash Jacket today and embrace a blend of style and comfort!
-  Updated: 2026-06-20T19:42:28Z
+  Updated: 2026-06-29T18:31:21Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -941,7 +941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/vTSgB58KMd5tg4PM.webp?v=1763658713
     Price: €96.27 EUR
 - [Men's Genuine Leather Long Coat with Stand Collar](https://mdgshop.com/products/mens-genuine-leather-long-coat-with-stand-collar): Discover the ultimate in style and comfort with our genuine leather men's coat. This stunning long trench coat is designed for the modern man who values both fashion and functionality. Perfect for autumn, it effortlessly combines a sleek look with the durability of high-quality leather. Featuring a stand collar for a sophisticated edge, this coat is versatile enough for both casual outings and formal occasions. The classic black color complements any outfit, making it a staple in your wardrobe. Available in a variety of sizes from M to 3XL, this coat ensures a perfect fit for every body type. The lightweight construction (weighing between 1.44 kg to 1.5 kg) allows for easy wear without compromising on warmth and style. Whether you're stepping out for a night on the town or simply running errands, this long leather coat will elevate your look and keep you comfortable. Embrace the season with confidence and sophistication. Don't miss out on this must-have piece for your fall wardrobe. Shop now and enjoy the blend of style, comfort, and quality that our genuine leather coat has to offer!
-  Updated: 2026-06-20T19:42:04Z
+  Updated: 2026-06-29T18:31:21Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -967,7 +967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Ge3amKL9Jjfg6QsB.webp?v=1763658630
     Price: €200.40 EUR
 - [Men's Velvet Leather Coat with Furry Collar and Horn Buckle](https://mdgshop.com/products/mens-velvet-leather-coat-with-furry-collar-and-horn-buckle): Introducing the Furry Collar Horn Buckle Deer Velvet Leather Coat for men - a stylish blend of comfort and sophistication that is perfect for any occasion. Crafted from high-quality polyester fiber, this coat not only offers a luxurious feel but also ensures durability and longevity. The coat features a unique furry collar that adds a touch of elegance and warmth, making it ideal for chilly days. Its horn buckle design enhances its distinctive style, allowing you to stand out in any crowd. Available in multiple colors, including Grey, Khaki, and Navy Blue, you can choose the one that best fits your personality. With a variety of sizes from S to XXXL, finding the perfect fit has never been easier. Whether you prefer a snug or loose fit, this coat accommodates all body types, ensuring you look great while feeling comfortable. Experience versatility like never before. The Furry Collar Horn Buckle Deer Velvet Leather Coat can be dressed up for formal events or paired with casual outfits for a laid-back look. Its sleek design and high-quality materials make it a must-have addition to your wardrobe. Check out our stunning product images below to see the coat in action: Don't miss the opportunity to elevate your style with this exquisite coat. Grab yours today and make a statement wherever you go!
-  Updated: 2026-06-20T19:42:04Z
+  Updated: 2026-06-29T18:31:21Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1045,7 +1045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YXlIZ4GtKtINHqLn.webp?v=1763658699
     Price: €143.18 EUR
 - [Men's Plus Velvet Casual Stand Collar Leather Coat](https://mdgshop.com/products/mens-plus-velvet-casual-stand-collar-leather-coat): Elevate your everyday style with our Men's Plus Velvet Casual Stand Collar Leather Trench Coat. Designed for the modern man who values both comfort and fashion, this trench coat combines an urban aesthetic with practical features that make it perfect for daily wear. The coat showcases a sleek stand-up collar and a secure zipper placket, ensuring both warmth and a polished appearance. Made from high-quality velvet leather, it offers a luxurious feel while maintaining durability and style. Whether you’re heading to work or out for an evening with friends, this coat is versatile enough to adapt to any occasion. Available in a variety of colors including Light Brown, Dark Brown, and Black, and multiple sizes from L to 3XL, you’re sure to find the perfect fit. Each variation is crafted to provide a tailored look that flatters your physique. Check out our stunning visuals below to see the intricate details and craftsmanship that goes into each coat:
-  Updated: 2026-06-20T19:42:05Z
+  Updated: 2026-06-29T18:31:21Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1099,7 +1099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/O5Tlr8qZXkPK0lZ2.webp?v=1763658857
     Price: €127.36 EUR
 - [Lace-up Collar Solid Color Trench Coat](https://mdgshop.com/products/lace-up-collar-solid-color-trench-coat): Elevate your wardrobe with our stunning Lace-up Collar Solid Color Trench Coat. Perfectly designed for the modern individual, this trench coat combines style and functionality. The collar style lapel adds a touch of sophistication, while the long sleeves provide warmth and elegance for any occasion. Crafted from quality materials, this coat features a single-breasted buckle front placket that offers a sleek silhouette, making it ideal for both commuting and casual outings. The solid color design is versatile, allowing you to pair it effortlessly with any outfit. Available in various sizes and colors, including Khaki, Bean Paste Green, and Black, you can find the perfect fit to express your unique style. Whether you prefer a small or extra large, our trench coat caters to all body types. With its regular sleeve type and temperament style, this trench coat is not just a piece of clothing; it's an essential addition to your wardrobe that will keep you looking chic and feeling comfortable. Explore the elegance and charm of our trench coat through the images below and step out in style this season!
-  Updated: 2026-06-20T19:42:05Z
+  Updated: 2026-06-29T18:31:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1154,7 +1154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Nwu4iCNsyxtX2VCK.webp?v=1763658809
     Price: €115.34 EUR
 - [Solid Color Wool Blend Stand Collar Coat](https://mdgshop.com/products/solid-color-wool-blend-stand-collar-coat): Embrace the chill of winter with our Womens Winter Lapel Wool Coat. This elegant long sleeve overcoat is designed to keep you warm while exuding a chic style, making it a perfect addition to your winter wardrobe. Crafted from a blend of 51-70% polyester, this coat offers a soft touch with durability. The lapel collar adds a sophisticated flair, while the long sleeves provide full coverage, ensuring you stay cozy no matter the weather. Available in a variety of stunning colors including Khaki, Grey, Red, and Caramel, this coat comes in sizes ranging from M to 5XL. Whether you're dressing up for a night out or keeping it casual, there's a perfect fit for everyone. Elevate your winter style with this versatile and fashionable Wool Coat. Don’t let the cold hold you back—make a statement while staying warm!
-  Updated: 2026-06-20T19:42:06Z
+  Updated: 2026-06-29T18:31:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1272,7 +1272,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/huWYLYpu2W27U897.webp?v=1763658947
     Price: €47.75 EUR
 - [Plus Size Women's Long Casual Solid Color Coat](https://mdgshop.com/products/plus-size-womens-long-casual-solid-color-coat): Step into the season with our stunning plus size ladies coat, designed to keep you warm and stylish during the autumn and winter months. This fashionable piece is perfect for the modern commuter, effortlessly combining functionality with classic elegance. The coat features a simple wind waist strap that enhances your silhouette while offering a comfortable fit. Its long casual design in a solid auburn color makes it a versatile addition to any wardrobe, allowing you to dress it up or down as the occasion demands. Available in sizes ranging from XL to 4XL, this coat ensures that every woman finds her perfect fit. With a lightweight design weighing only 0.625 kg, you can enjoy both warmth and ease of movement, making it ideal for busy days on the go. Explore the beauty of our coat through the images below: Embrace the chill in style with this essential autumn and winter coat. Don't miss out on the opportunity to add elegance and warmth to your wardrobe today!
-  Updated: 2026-06-20T19:42:06Z
+  Updated: 2026-06-29T18:31:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1294,7 +1294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/stC3KQzMoT5g1bTZ.webp?v=1763658883
     Price: €72.12 EUR
 - [Men's Jacquard Slim Stand Collar Casual Sweater Coat](https://mdgshop.com/products/mens-jacquard-slim-stand-collar-casual-sweater-coat): Elevate your wardrobe with our Men's Jacquard Slim Stand Collar Sweater Casual Coat, designed for style and comfort during the cooler months. Made from high-quality polyester fiber, this versatile coat is perfect for spring, autumn, and winter, making it a staple for any man's closet. Available in a range of sizes from M to 5XL, this sweater coat is tailored to fit a variety of body types. Its slim fit design not only flatters your physique but also ensures maximum comfort while keeping you warm. Choose from three stunning colors: Beige, Dark Blue, and Green. Each color option is crafted to complement your casual outfits seamlessly, making it easy to dress up or down for any occasion. Check out the detailed sizing information to find the perfect fit for you: Don’t miss out on this essential addition to your wardrobe. Check out our images below to see the style and quality of this amazing coat!
-  Updated: 2026-06-20T19:42:07Z
+  Updated: 2026-06-29T18:31:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1370,7 +1370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/JDcfI4MVslSdKjMd.webp?v=1763658945
     Price: €81.05 EUR
 - [Men's Slim Solid Color Baseball Jersey Jacket](https://mdgshop.com/products/mens-slim-solid-color-baseball-jersey-jacket): Introducing the ultimate jacket for the modern man - a Men's Spring and Autumn Casual Slim Solid Color Baseball Jersey. This versatile jacket is perfect for outdoor jogging or just enjoying a breezy day. Designed with a standing collar for a sleek look, it features a loose fitting pattern that provides comfort without compromising style. The zipper front fly ensures easy wear and adds a touch of functionality. With a selection of 24 variations in size and color, you can find the perfect fit for your unique style. Choose from classic colors like Black, Green, Khaki, and Blue, in sizes ranging from L to 5XL. This jacket not only looks good but is also windproof and waterproof, making it an essential piece for unpredictable weather. Don't miss out on this must-have jacket that combines style, comfort, and functionality. Whether you're hitting the gym or heading out for a casual day, this jacket is your go-to choice. Upgrade your wardrobe today!
-  Updated: 2026-06-20T19:42:07Z
+  Updated: 2026-06-29T18:31:23Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1472,7 +1472,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/sNj71TIuurPrVjU0.webp?v=1763659045
     Price: €51.14 EUR
 - [Men's Slim Fit Baseball Collar Jacket in Solid Color](https://mdgshop.com/products/mens-slim-fit-baseball-collar-jacket-in-solid-color): Discover the perfect blend of style and comfort with our lightweight men's baseball collar jacket, designed for the modern man. Made from high-quality polyester fiber, this jacket is perfect for the spring and autumn seasons, ensuring you stay cozy without compromising on style. Whether you're out for a casual day or a night out, this leisure-style jacket fits seamlessly into your wardrobe. Its slim fit design is tailored to flatter all body types, available in sizes ranging from M to 4XL to accommodate diverse preferences. Choose from a variety of colors including Red, White, Black, and Blue, allowing you to express your unique style. The jacket features a versatile design that pairs perfectly with jeans or trousers, making it an essential addition to your collection. Key Features: - Comfortable, lightweight material for easy wear - Stylish baseball collar adds a trendy touch - Available in multiple sizes and colors for a perfect fit - Ideal for casual outings or relaxed gatherings Elevate your wardrobe with this stylish jacket and embrace comfort without sacrificing elegance. Don’t miss out on this must-have piece for your seasonal wardrobe!
-  Updated: 2026-06-20T19:42:08Z
+  Updated: 2026-06-29T18:31:23Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1574,7 +1574,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Mi9eUJ3dCAfsHanV.webp?v=1763659006
     Price: €45.38 EUR
 - [Men's Slim Casual High Collar Solid Color Jacket](https://mdgshop.com/products/mens-slim-casual-high-collar-solid-color-jacket): Elevate your style with our Men's Slim Jacket featuring a high collar design that seamlessly blends sophistication with casual comfort. This jacket is perfect for the modern man who values versatility in his wardrobe. Crafted from high-quality materials, this jacket offers a solid color finish, making it easy to pair with any outfit. Whether you’re heading out for a night on the town or just enjoying a casual day with friends, this jacket will keep you looking sharp and feeling comfortable. Available in a variety of sizes from M to XXXL and a selection of classic colors such as Black, Blue, Green, and Khaki, there’s a perfect fit for everyone. Our jacket features precise measurements for an ideal fit: Check out the stunning visuals that showcase the jacket’s design: Don't miss out on this essential addition to your wardrobe. Grab your Men's Slim Jacket today and redefine your casual style!
-  Updated: 2026-06-20T19:42:08Z
+  Updated: 2026-06-29T18:31:23Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1660,7 +1660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/PamVMHJxBFnkpuOB.webp?v=1763659076
     Price: €83.32 EUR
 - [Men's Casual Stand Collar Jacket](https://mdgshop.com/products/mens-casual-stand-collar-jacket): Elevate your wardrobe with our Casual Stand Collar Men's Jacket, designed for the modern man who values both style and comfort. Crafted from lightweight polyester fiber, this jacket is perfect for transitional seasons, providing just the right amount of warmth without bulk. Available in a range of sizes from M to 5XL and two classic colors—Black and Khaki—this jacket is tailored to fit every body type. Whether you're dressing up for a night out or keeping it casual for a day of errands, this versatile piece complements any outfit. Key features include: Don't miss out on the opportunity to enhance your style! Check out the stunning images showcasing the jacket's sleek design: With its stylish look and comfortable fit, this jacket is a must-have addition to your wardrobe. Choose your favorite color and size today, and step out in confidence!
-  Updated: 2026-06-20T19:42:09Z
+  Updated: 2026-06-29T18:31:23Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1722,7 +1722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/sVL8XL34zvcn87pm.webp?v=1763659013
     Price: €62.18 EUR
 - [Plus Size Casual Solid Color Slim Stand-Up Collar Coat](https://mdgshop.com/products/plus-size-casual-solid-color-slim-stand-up-collar-coat): Elevate Your Style with Our Stand-Up Collar Slim Coat Experience the perfect blend of comfort and fashion with our Stand-Up Collar Slim Coat. Designed to flatter all body types, this coat is available in a variety of stunning colors including Khaki, Grey, Black, Dark Blue, and Dark Green. Made from premium rabbit fur, this coat promises warmth without sacrificing style. Its thin section thickness makes it an ideal choice for layering during those transitional seasons. Whether you're heading out for casual errands or enjoying a night on the town, this coat will keep you looking chic and feeling cozy. With a hooded design, you can easily protect yourself from unexpected weather changes. The Korean style adds a modern twist that enhances your overall look. Available in sizes ranging from M to XXXXXL, this coat ensures a perfect fit for everyone. Product Highlights: - Casual, stylish design suitable for various occasions - Made from 100% rabbit fur for maximum comfort and warmth - Multiple color options to match your unique style - Available in a wide range of sizes for the perfect fit Check out our images below to see the beautiful designs and colors in action! Don’t miss out on adding this essential piece to your wardrobe. Embrace style and comfort today with our Stand-Up Collar Slim Coat!
-  Updated: 2026-06-20T19:42:09Z
+  Updated: 2026-06-29T18:31:24Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1824,7 +1824,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/QqQsmjmqhZduxomt.webp?v=1763659114
     Price: €58.57 EUR
 - [Men's Color Block Jacket - Casual Stand Collar Coat](https://mdgshop.com/products/mens-color-block-jacket-casual-stand-collar-coat): Discover the ultimate blend of style and comfort with our Men's New Color-Block Jacket. This trendy jacket is designed for the modern man who values both fashion and functionality. With its loose fit and Korean Edition style, it is perfect for casual outings, making it a must-have addition to your wardrobe. Featuring a zipper placket, this jacket not only looks great but also offers easy wearability. Available in a variety of sizes (M, L, XL, 2XL, 3XL, 4XL) and colors including Black, Coffee, Red, and Khaki, you can find the perfect match for your personal style. The jacket's dimensions are tailored for maximum comfort, with shoulder widths ranging from 40cm to 48cm, bust measurements from 45cm to 53cm, and lengths from 64cm to 70cm. Whether you're heading out for a casual day with friends or dressing up for an evening out, this versatile piece will elevate your look effortlessly. Get ready to turn heads and make a statement with the Men's New Color-Block Jacket—your go-to layer for any occasion!
-  Updated: 2026-06-20T19:42:10Z
+  Updated: 2026-06-29T18:31:24Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1919,7 +1919,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/AJEkdfZBJ1LCmdbL.webp?v=1763659101
     Price: €73.16 EUR
 - [Men's Stand Collar Solid Color Quilted Cotton Jacket](https://mdgshop.com/products/mens-stand-collar-solid-color-quilted-cotton-jacket): Introducing our latest collection of men's cotton jackets, designed for style and comfort during the chilly winter months. This cardigan-style jacket features a contemporary zipper placket and is filled with high-quality cotton to keep you warm without sacrificing breathability. Available in a variety of vibrant colors including red, black, royal blue, and navy, you can easily find the perfect hue to match your personal style. Our sizes range from S to 3XL, ensuring that every man can find his ideal fit. Please note that Asian sizes are typically 1 to 2 sizes smaller than European and American sizes, so be sure to check our sizing guide. Elevate your winter wardrobe with this stylish and practical jacket that combines functionality with modern aesthetics. Whether you're heading out for a casual outing or need something warm for daily wear, this jacket is the perfect choice.
-  Updated: 2026-06-20T19:42:10Z
+  Updated: 2026-06-29T18:31:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2021,7 +2021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/TvU9akIGvCzvnV9W.webp?v=1763659181
     Price: €73.54 EUR
 - [Men's Solid Color Stand Collar Zip-Up Jacket](https://mdgshop.com/products/mens-solid-color-stand-collar-zip-up-jacket): Stay warm and stylish with this Men's Stand Collar Zip-Up Vest, designed for comfort and versatility. Made from durable polyester fiber and lined with thick, plush velvet for extra warmth, it's perfect for cooler weather. Material: High-quality polyester fiber for durability and comfort Pattern: Solid color for a sleek, minimalist look Collar: Stand collar to protect against the wind and cold Closure: Full-length zipper for easy wear Available Colors: Black, Wine Red, Orange Red, Brown, Blue Gray, Beige, Light Gray, Dark Gray Thickness: Plus velvet for added insulation Whether for layering over a long-sleeve shirt or under a jacket, this vest is ideal for casual outings, outdoor activities, or commuting in style.
-  Updated: 2026-06-20T19:42:10Z
+  Updated: 2026-06-29T18:31:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2219,7 +2219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/wpMolOz57bdzxYDQV3gB_b062deb8-db57-4351-89f0-233b7320364b.webp?v=1763659486
     Price: €72.42 EUR
 - [Men's Woolen Coat with Velvet Stand Collar for Fall/Winter](https://mdgshop.com/products/mens-woolen-coat-with-velvet-stand-collar-for-fall-winter): Embrace the chill of autumn and winter with our exquisite woolen coat, designed specifically for the modern middle-aged man. This coat combines style and comfort with its casual flair, making it the perfect choice for any occasion. The solid color pattern ensures versatility, allowing you to effortlessly pair this coat with various outfits. Choose from a wide range of 24 variations in color and size to find your perfect match. Whether you prefer the classic Black, the elegant Navy Blue, or the rich Brown and Wine Red, there's a style that suits every taste and preference. The coat features a velvet stand collar that adds a touch of sophistication while providing warmth and protection against the cold. The fleece padded interior ensures that you stay cozy, making it an ideal choice for outdoor activities or casual outings. Elevate your wardrobe with this essential piece that combines functionality with a refined aesthetic. Stay stylish and comfortable all season long with our Middle-aged Men's Woolen Coat.
-  Updated: 2026-06-20T19:42:11Z
+  Updated: 2026-06-29T18:31:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2321,7 +2321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/t8FOkbgnzfIZNzS1.webp?v=1763659870
     Price: €102.94 EUR
 - [Men's Plus Velvet Leather Casual Stand Up Collar Jacket](https://mdgshop.com/products/mens-plus-velvet-leather-casual-stand-up-collar-jacket): Elevate your casual style with our Men's Stand Up Collar Plus Velvet Leather Casual jacket. Crafted from high-quality PU material, this jacket combines comfort with sophistication, making it a versatile addition to any wardrobe. The standout feature of this jacket is its stand-up collar which not only adds a modern touch but also provides extra warmth on cooler days. Available in two stunning colors, black and wine red, this jacket can easily match any outfit, whether you're heading out for a casual day or dressing up for an evening out. The plus velvet lining ensures a soft feel against your skin, keeping you cozy without compromising on style. With a range of sizes from M to 5XL, you can find the perfect fit that flatters your body type. Each size variation is designed with the same attention to detail, ensuring you look your best no matter your dimensions. Enhance your wardrobe with a piece that stands out for its casual elegance and functionality. Browse through our different color and size options to find the one that speaks to you! Size Information: Don't miss out on the opportunity to own this versatile jacket. Order yours today and step out in style! Here’s a glimpse of the jacket:
-  Updated: 2026-06-20T19:42:11Z
+  Updated: 2026-06-29T18:31:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2439,14 +2439,14 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/XeHoXF00vkR3y6q4.webp?v=1763659798
     Price: €108.86 EUR
 - [Men's Short Harley Leather Jacket, Stand Collar Casual Coat](https://mdgshop.com/products/mens-short-harley-leather-jacket-stand-collar-casual-coat): Experience the perfect blend of style and functionality with our Men's Short Harley Motorcycle Jacket. Crafted from premium first-layer cowhide leather, this jacket is designed for the modern youth who values both aesthetics and durability. The sleek design features a stand collar and straight hem, making it a versatile addition to any wardrobe. With its non-iron , this jacket ensures that you look effortlessly stylish without the hassle of maintenance. The zipper decoration adds a touch of edge, while the soft acetate fiber lining provides comfort throughout the day. Available in classic black, this jacket is not just a piece of clothing; it's a statement of individuality and confidence. Perfect for casual outings or a night on the town, it pairs well with jeans or chinos for a complete look. Elevate your style and embrace the open road with this exceptional leather jacket. Don't miss out on owning a piece that combines quality, style, and comfort all in one!
-  Updated: 2026-06-20T19:42:12Z
+  Updated: 2026-06-29T18:31:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/hxNesSGoeOfwWDxQ.webp?v=1763659695
   Price: €357.37 EUR
 - [Color Blocked Slim Stand Collar Long Sleeve Coat](https://mdgshop.com/products/color-blocked-slim-stand-collar-long-sleeve-coat): Embrace the chill of winter with our Color Blocked Slim Stand Collar Long Sleeve Knitted Coat. Crafted from high-quality Acrylic fiber, this coat combines warmth and style, making it the perfect companion for your leisure outings during the colder months. With a modern slim fit, this coat features a trendy stand collar that adds a touch of sophistication to your winter wardrobe. Available in a variety of stunning color combinations such as Black splicing, Blue splicing, Green splicing, Grey splicing, and White splicing, you can easily find the perfect match for your personal style. The coat comes in sizes ranging from M to 2XL, ensuring a comfortable fit for everyone. Below are the measurements to help you choose the right size: Whether you're heading out for a casual day or a cozy night, this coat is designed to keep you warm while ensuring you look effortlessly chic. Pair it with your favorite jeans and boots for a complete winter look. Don’t let the cold weather stop you from showcasing your style. Order your Color Blocked Slim Stand Collar Long Sleeve Knitted Coat today and step out in confidence!
-  Updated: 2026-06-20T19:42:12Z
+  Updated: 2026-06-29T18:31:26Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2532,9 +2532,9 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/gsijBYr3sk4L5UWm.webp?v=1763659856
     Price: €61.33 EUR
 - [Women's Casual Long Sleeve Cross-border Sweater](https://mdgshop.com/products/womens-casual-long-sleeve-cross-border-sweater): Step into the season with our Women's Spring and Autumn Casual Sweater – a perfect blend of comfort and style. Crafted for the modern woman, this sweater features an easy-going loose fit that flatters every body type while providing utmost comfort. The long sleeves are ideal for those breezy days when you need just a little extra warmth. Available in a stunning range of colors including pink, yellow, red, gray, black, and blue, you can easily express your unique style. Choose from sizes S through XXXL to find your perfect fit. The collage/stitching craft adds a trendy touch, making this pullover a must-have in your wardrobe. Made with a blend of cotton and acrylic fiber, this sweater not only feels great against your skin but also ensures durability. The ordinary length (50cm applicable) and street hipster style make it versatile enough for both casual outings and cozy nights in. Don't miss out on this stylish essential. Check out the gallery below to see how our sweater can elevate your everyday look!
-  Updated: 2026-06-20T19:42:13Z
+  Updated: 2026-06-30T09:08:57Z
   Vendor: MDG
-  Product Type: 
+  Product Type: Women's Sweaters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/iTVcpEu6fT2ehyEQ.webp?v=1763659957
   - [Pink / XL](https://mdgshop.com/products/womens-casual-long-sleeve-cross-border-sweater?variant=51338393682212)
@@ -2681,10 +2681,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/9kb2jHiWuVVleMpj.webp?v=1763660001
     Price: €40.95 EUR
-- [Women's Long Sleeve Sweater Dress](https://mdgshop.com/products/womens-long-sleeve-sweater-dress): Elevate your wardrobe with our stunning Long Sleeve Sweater Dress, the perfect blend of style and comfort for every occasion. This dress features a chic pencil skirt design that gracefully hugs your curves, while the wide waist adds a touch of elegance. Available in sizes ranging from S to 3XL, this versatile piece ensures a flattering fit for all body types. Crafted from high-quality polyester, the fabric is both soft and durable, making it ideal for everyday wear. The long sleeves and pullover style provide warmth and ease, allowing you to transition seamlessly from day to night. With a variety of colors to choose from, you can express your unique style while enjoying the classic European and American vibes this dress offers. Whether paired with boots for a casual day out or dressed up with heels for a night on the town, this sweater dress is your new go-to choice. Browse our collection of images to see how this mid skirt dress can be styled in multiple ways, ensuring you always look your best. Don't miss out on this essential addition to your wardrobe!
-  Updated: 2026-06-20T19:42:13Z
+- [Women's Long Sleeve Sweater Dress — Sizes S–3XL, 12 Colors](https://mdgshop.com/products/womens-long-sleeve-sweater-dress): Elegant long sleeve sweater dress in polyester, pencil silhouette, pullover style. Available in 12 colors, sizes S to 3XL. Perfect for day or night.
+  Updated: 2026-06-30T09:11:58Z
   Vendor: MDG
-  Product Type: 
+  Product Type: Women's Sweater Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/1XzYBV9gn8axV6Wy.webp?v=1763659973
   - [Figure 10 / 3XL](https://mdgshop.com/products/womens-long-sleeve-sweater-dress?variant=51338394894628)
@@ -2892,158 +2892,158 @@
 ## Collections
 
 - [Handbags, Wallets & Cases](https://mdgshop.com/collections/handbags-wallets-cases)
-  Updated: 2026-05-26T16:53:52Z
+  Updated: 2026-06-29T18:46:19Z
   Total Products: 52
 - [Personal Care](https://mdgshop.com/collections/personal-care)
-  Updated: 2026-06-23T08:20:19Z
-  Total Products: 21
+  Updated: 2026-06-29T18:46:19Z
+  Total Products: 20
 - [Outdoor Recreation](https://mdgshop.com/collections/outdoor-recreation)
-  Updated: 2026-05-26T16:53:52Z
+  Updated: 2026-06-29T18:46:19Z
   Total Products: 23
 - [Cosmetic & Toiletry Bags](https://mdgshop.com/collections/cosmetic-toiletry-bags)
-  Updated: 2026-06-22T20:23:14Z
-  Total Products: 33
+  Updated: 2026-06-29T18:46:19Z
+  Total Products: 32
 - [Jewelry](https://mdgshop.com/collections/jewelry)
-  Updated: 2026-05-26T16:53:52Z
+  Updated: 2026-06-30T03:34:50Z
   Total Products: 77
 - [Clothing Accessories](https://mdgshop.com/collections/clothing-accessories)
-  Updated: 2026-06-20T19:06:55Z
+  Updated: 2026-06-29T18:46:19Z
   Total Products: 38
 - [Baby Gift Sets](https://mdgshop.com/collections/baby-gift-sets)
-  Updated: 2026-05-26T16:53:53Z
+  Updated: 2026-06-29T18:46:19Z
   Total Products: 12
 - [Baby Health](https://mdgshop.com/collections/baby-health)
-  Updated: 2026-06-22T18:03:33Z
-  Total Products: 39
+  Updated: 2026-06-29T18:46:19Z
+  Total Products: 38
 - [Baby & Toddler](https://mdgshop.com/collections/baby-toddler)
-  Updated: 2026-06-24T05:30:52Z
-  Total Products: 40
+  Updated: 2026-06-29T18:46:19Z
+  Total Products: 41
 - [Electronics Accessories](https://mdgshop.com/collections/electronics-accessories)
-  Updated: 2026-05-26T16:53:53Z
+  Updated: 2026-06-29T18:46:19Z
   Total Products: 39
 - [Luggage & Bags](https://mdgshop.com/collections/luggage-bags)
-  Updated: 2026-05-26T16:53:53Z
+  Updated: 2026-06-29T18:46:19Z
   Total Products: 28
 - [Networking](https://mdgshop.com/collections/networking)
-  Updated: 2026-05-26T16:53:53Z
+  Updated: 2026-06-29T18:46:19Z
   Total Products: 11
 - [Health & Beauty](https://mdgshop.com/collections/health-beauty)
-  Updated: 2026-06-24T00:42:21Z
+  Updated: 2026-06-29T18:46:19Z
   Total Products: 54
 - [Electronics](https://mdgshop.com/collections/electronics)
-  Updated: 2026-05-26T16:53:53Z
+  Updated: 2026-06-29T18:46:19Z
   Total Products: 40
 - [Athletics](https://mdgshop.com/collections/athletics)
-  Updated: 2026-05-26T16:53:53Z
+  Updated: 2026-06-29T18:46:20Z
   Total Products: 99
 - [Baby Bathing](https://mdgshop.com/collections/baby-bathing)
-  Updated: 2026-05-26T16:53:53Z
+  Updated: 2026-06-29T18:46:20Z
   Total Products: 15
 - [Pleasure & Wellness](https://mdgshop.com/collections/health-care)
-  Updated: 2026-05-26T16:53:54Z
+  Updated: 2026-06-29T18:46:20Z
   Total Products: 28
 - [Handbag & Wallet Accessories](https://mdgshop.com/collections/handbag-wallet-accessories)
-  Updated: 2026-05-26T16:53:54Z
+  Updated: 2026-06-29T18:46:20Z
   Total Products: 1
 - [Women's Trench Coats - Stylish & Elegant | MDG](https://mdgshop.com/collections/womens-trench-coats): Shop our collection of women's trench coats. Timeless style meets modern elegance. Find your perfect trench coat today.
-  Updated: 2026-05-26T16:53:54Z
+  Updated: 2026-06-29T18:46:20Z
   Total Products: 62
 - [Women's Jackets - Stylish Outerwear Collection | MDG](https://mdgshop.com/collections/womens-jackets): Shop our collection of women's jackets. Versatile styles for every occasion. Find your perfect jacket today at MDG.
-  Updated: 2026-05-26T16:53:54Z
+  Updated: 2026-06-30T22:51:50Z
   Total Products: 88
 - [Women's Shirts - Classic & Modern Styles | MDG](https://mdgshop.com/collections/womens-shirts): Shop our collection of women's shirts. Classic button-downs and modern blouses for every occasion. Quality and style at MDG.
-  Updated: 2026-06-22T19:04:53Z
+  Updated: 2026-06-30T22:17:00Z
   Total Products: 35
 - [Women's T-Shirts - Comfortable & Stylish Tees | MDG](https://mdgshop.com/collections/womens-t-shirts): Shop our collection of women's t-shirts. Comfortable basics and trendy graphic tees for everyday style. Quality and comfort at MDG.
-  Updated: 2026-06-21T23:24:43Z
-  Total Products: 51
+  Updated: 2026-06-30T02:28:50Z
+  Total Products: 53
 - [Women's Pants - Versatile Styles & Perfect Fit | MDG](https://mdgshop.com/collections/womens-pants): Shop our collection of women's pants. Tailored trousers, casual styles, and more. Find your perfect fit at MDG.
-  Updated: 2026-06-22T10:39:05Z
-  Total Products: 115
+  Updated: 2026-06-29T18:46:20Z
+  Total Products: 114
 - [Women's Shoes - Heels, Sneakers, Boots & More | MDG](https://mdgshop.com/collections/womens-shoes): Shop our collection of women's shoes. Elegant heels, comfortable sneakers, boots, and more. Find your perfect pair at MDG.
-  Updated: 2026-06-20T11:20:54Z
+  Updated: 2026-06-30T20:18:43Z
   Total Products: 102
 - [Men's Trench Coats - Classic & Sophisticated | MDG](https://mdgshop.com/collections/mens-trench-coats): Shop our collection of men's trench coats. Timeless style meets modern functionality. Find your perfect trench coat at MDG.
-  Updated: 2026-05-26T16:53:54Z
+  Updated: 2026-06-29T18:46:20Z
   Total Products: 25
 - [Men's Jackets - Versatile Styles & Quality | MDG](https://mdgshop.com/collections/mens-jackets): Shop our collection of men's jackets. Rugged outdoor and sleek urban styles for every occasion. Quality and style at MDG.
-  Updated: 2026-05-26T16:53:55Z
+  Updated: 2026-06-29T18:46:20Z
   Total Products: 17
 - [Men's Shirts - Classic & Modern Styles | MDG](https://mdgshop.com/collections/mens-shirts): Shop our collection of men's shirts. Classic dress shirts and casual button-downs for every occasion. Quality and style at MDG.
-  Updated: 2026-06-21T19:57:10Z
+  Updated: 2026-07-03T21:55:33Z
   Total Products: 18
 - [Men's T-Shirts - Comfortable & Stylish Tees | MDG](https://mdgshop.com/collections/mens-t-shirts): Shop our collection of men's t-shirts. Essential basics and bold graphic tees for everyday style. Comfort and quality at MDG.
-  Updated: 2026-06-21T23:20:16Z
+  Updated: 2026-06-29T23:05:09Z
   Total Products: 24
 - [Men's Pants - Versatile Styles & Perfect Fit | MDG](https://mdgshop.com/collections/mens-pants): Shop our collection of men's pants. Tailored trousers, casual chinos, and more. Find your perfect fit at MDG.
-  Updated: 2026-06-20T23:50:39Z
+  Updated: 2026-06-29T18:46:20Z
   Total Products: 39
 - [Men's Shoes - Dress Shoes, Sneakers, Boots & More | MDG](https://mdgshop.com/collections/mens-shoes): Shop our collection of men's shoes. Classic dress shoes, casual sneakers, boots, and more. Find your perfect pair at MDG.
-  Updated: 2026-05-26T16:53:55Z
+  Updated: 2026-06-30T07:32:52Z
   Total Products: 40
 - [Women's Trench Coats - Stylish Outerwear Collection](https://mdgshop.com/collections/womens-trench-coats-1): Shop our collection of women's trench coats. Classic and modern styles for every occasion. Find your perfect outerwear piece today.
-  Updated: 2026-05-26T16:53:55Z
+  Updated: 2026-06-29T18:46:21Z
   Total Products: 0
 - [Women's Jackets - Versatile Outerwear for Every Style](https://mdgshop.com/collections/womens-jackets-1): Browse our women's jackets collection. Casual, formal, and everything in between. Quality outerwear for all seasons and occasions.
-  Updated: 2026-05-26T16:53:55Z
+  Updated: 2026-06-29T18:46:21Z
   Total Products: 0
 - [Women's T-Shirts - Comfortable Everyday Essentials](https://mdgshop.com/collections/womens-t-shirts-1): Shop women's t-shirts in various styles and colors. Comfortable basics and trendy designs for your everyday wardrobe.
-  Updated: 2026-05-26T16:53:55Z
-  Total Products: 1
+  Updated: 2026-06-29T18:46:21Z
+  Total Products: 5
 - [Men's T-Shirts - Quality Basics and Stylish Designs](https://mdgshop.com/collections/mens-t-shirts-1): Browse our men's t-shirts collection. Comfortable, durable, and stylish options for your everyday wardrobe.
-  Updated: 2026-06-20T23:57:19Z
-  Total Products: 1
+  Updated: 2026-06-29T18:46:21Z
+  Total Products: 2
 - [Women's Fashion Collection - Shoes, Clothing & Accessories | MDG](https://mdgshop.com/collections/women): Shop our women's collection featuring shoes, boots, jackets, shirts, pants, and more. Quality fashion pieces for every style and occasion.
-  Updated: 2026-06-22T06:07:38Z
-  Total Products: 8
+  Updated: 2026-06-30T22:44:45Z
+  Total Products: 16
 - [Men's Fashion Collection - Shoes, Clothing & Accessories | MDG](https://mdgshop.com/collections/men): Shop our men's collection featuring shoes, boots, jackets, shirts, pants, and more. Quality fashion pieces for the modern man.
-  Updated: 2026-06-21T19:57:39Z
+  Updated: 2026-07-01T01:38:11Z
   Total Products: 19
 - [Shoes](https://mdgshop.com/collections/shoes)
-  Updated: 2026-05-26T16:53:56Z
+  Updated: 2026-06-29T18:46:21Z
   Total Products: 0
 - [Featured Clothing](https://mdgshop.com/collections/featured-clothing): Welcome to our favorites! These are the pieces we absolutely love – meticulously crafted items that make you feel amazing every time you wear them. From show-stopping trench coats to everyday essentials, our featured collection represents the best of what we offer. Each piece is chosen for its exceptional quality and timeless design – the kind that stands the test of time and makes a lasting impression. Whether you're looking for a statement piece or a refined staple, you'll find items here that elevate your wardrobe and define your style. Discover your next favorite piece. Because great style is about feeling confident in what you wear.
-  Updated: 2026-05-26T16:53:56Z
+  Updated: 2026-06-29T18:46:21Z
   Total Products: 12
 - [Duffel Bags](https://mdgshop.com/collections/duffel-bags)
-  Updated: 2026-05-26T16:53:56Z
+  Updated: 2026-06-29T18:46:21Z
   Total Products: 18
 - [Shoes](https://mdgshop.com/collections/shoes-1)
-  Updated: 2026-05-26T16:53:56Z
+  Updated: 2026-06-29T18:46:21Z
   Total Products: 0
 - [Pet Supplies - Dog & Cat Accessories, Grooming Tools | MDG](https://mdgshop.com/collections/pet-supplies-main): Shop quality pet supplies including grooming brushes, harnesses, bath tools and more. Essential accessories for your pets at great prices.
-  Updated: 2026-06-24T00:55:13Z
-  Total Products: 44
+  Updated: 2026-06-29T18:46:21Z
+  Total Products: 43
 - [Toys Collection - Fun & Entertainment | MDG](https://mdgshop.com/collections/toys-87): Browse our diverse toys collection featuring plush toys, activity equipment, and entertainment options for all ages. Quality toys at great prices.
-  Updated: 2026-06-22T18:45:48Z
+  Updated: 2026-06-29T18:46:21Z
   Total Products: 84
 - [Clothing](https://mdgshop.com/collections/clothing)
-  Updated: 2026-06-23T13:04:33Z
-  Total Products: 8
+  Updated: 2026-07-01T01:38:11Z
+  Total Products: 4
 - [Fitness & General Exercise Equipment](https://mdgshop.com/collections/fitness-general-exercise-equipment)
-  Updated: 2026-06-23T07:57:50Z
-  Total Products: 9
+  Updated: 2026-06-26T08:08:09Z
+  Total Products: 8
 - [Health Care](https://mdgshop.com/collections/health-care-1)
   Updated: 2026-06-22T17:21:19Z
   Total Products: 0
 - [Sporting Goods](https://mdgshop.com/collections/sporting-goods)
-  Updated: 2026-06-22T18:35:29Z
-  Total Products: 1
+  Updated: 2026-06-26T08:08:09Z
+  Total Products: 0
 - [Baby Toys & Activity Equipment](https://mdgshop.com/collections/baby-toys-activity-equipment)
-  Updated: 2026-06-22T20:22:09Z
-  Total Products: 1
+  Updated: 2026-06-26T07:28:59Z
+  Total Products: 0
 - [Baby Safety](https://mdgshop.com/collections/baby-safety)
   Updated: 2026-06-22T17:34:20Z
   Total Products: 0
 - [Pet Supplies](https://mdgshop.com/collections/pet-supplies)
-  Updated: 2026-06-23T10:02:30Z
+  Updated: 2026-06-26T08:10:12Z
   Total Products: 6
 - [Baby Transport](https://mdgshop.com/collections/baby-transport)
-  Updated: 2026-06-22T18:36:05Z
-  Total Products: 1
+  Updated: 2026-06-26T08:05:20Z
+  Total Products: 0
 - [Animals & Pet Supplies](https://mdgshop.com/collections/animals-pet-supplies)
-  Updated: 2026-06-24T00:55:13Z
-  Total Products: 3
+  Updated: 2026-06-26T07:51:04Z
+  Total Products: 2
 
 ## Blogs
 
@@ -3120,6 +3120,8 @@
   Updated: 2026-06-20T05:26:50Z
 - [Legal Notice | MDG](https://mdgshop.com/pages/legal-notice): Legal Notice / ImprintIn accordance with EU and Romanian legal requirements, the following information is provided about the operator of this websi...
   Updated: 2026-06-26T04:20:34Z
+- [Collabs](https://mdgshop.com/pages/collab)
+  Updated: 2026-06-26T12:31:32Z
 
 ## Policies
 
