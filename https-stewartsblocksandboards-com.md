@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-01-20T00:19:00Z
 - Contact Email: stewartsblocksandboards@gmail.com
-- Updated At: 2026-06-26T00:00:36.285Z
+- Updated At: 2026-07-04T00:00:38.608Z
 
 ## Products
 
 - [Stewart's Blocks and Boards Conditioner for Wood Care](https://stewartsblocksandboards.com/products/stewarts-board-conditioner): Revitalize your wooden boards with Stewart's Blocks and Boards Conditioner, a blend of mineral oil, beeswax, and carnauba wax for long-lasting protection.
-  Updated: 2026-06-21T03:13:16Z
+  Updated: 2026-07-01T22:16:49Z
   Vendor: Stewarts Blocks and Boards
   Product Type: Maintenance
   Availability: Available
@@ -60,14 +60,14 @@
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3840-RF_1.jpg?v=1753310697
   Price: $64.99 USD
 - [Rustic Decor Live Edge Black Walnut Board with Handle – Elegant Serving & Display](https://stewartsblocksandboards.com/products/live-edge-black-walnut-board-with-handle-8x19x1-75-functional-art-for-rustic-decor-lovers): Enhance your rustic decor with this handcrafted live edge black walnut board featuring a built-in handle. Perfect for serving or styling with warmth and natural charm.
-  Updated: 2026-06-09T20:43:27Z
+  Updated: 2026-06-26T09:54:54Z
   Vendor: Stewarts Blocks and Boards
   Product Type: Live Edge
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/LE-8003.1.jpg?v=1757895286
   Price: $60.00 USD
 - [Live Edge Black Walnut Serving Platter – 8x19x1.75" | Rustic Elegance for Gatherings Big and Small](https://stewartsblocksandboards.com/products/live-edge-black-walnut-serving-platter-8x19x1-75-rustic-elegance-for-gatherings-big-and-small): Crafted for connection and conversation, this handcrafted live edge serving platter is the ultimate companion for hosting. Measuring a generous 8x19 inches with a bo
-  Updated: 2026-06-09T20:43:27Z
+  Updated: 2026-06-26T09:54:54Z
   Vendor: Stewarts Blocks and Boards
   Product Type: Live Edge
   Availability: Available
@@ -144,36 +144,36 @@
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3890.1.jpg?v=1759432017
   Price: $120.00 USD
 - [Engraved Black Walnut Cutting Board – Custom Handcrafted Kitchen Gift](https://stewartsblocksandboards.com/products/engraved-black-walnut-cutting-board-artisan-detail-with-everyday-function): Discover the engraved Black Walnut cutting board, handcrafted from premium wood with personalized engraving, perfect for gifting and everyday kitchen use. Order yours today!
-  Updated: 2026-06-09T20:50:30Z
-  Vendor: Stewart's Blocks and Boards
+  Updated: 2026-06-28T07:14:26Z
+  Vendor: Stewarts Blocks and Boards
   Product Type: Engraved
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/EGB-7515.1.jpg?v=1760986179
   Price: $35.00 USD
 - [Engraved Black Walnut Cutting Board – Personalized Craftsmanship with Everyday Charm](https://stewartsblocksandboards.com/products/engraved-black-walnut-cutting-board-personalized-craftsmanship-with-everyday-charm): This handcrafted engraved cutting board blends bold wood grain with meaningful detail. Made from premium Black Walnut, its deep tones and swirling patterns make it a standout in any kitchen. Sized at 8x11x¾" and finished with a smooth handle, it’s perfect for prepping, serving, or gifting. 🌟 Product Features: Black Walnut Base: Rich, dark wood with dramatic grain—this board adds warmth and elegance to your space. Engraved Personalization: Choose a name, date, or message—each cutting board is custom engraved to make it truly yours. Functional Handle: Easy to grip and hang, the handle adds convenience without compromising style. Handcrafted Quality: Each engraved board is made by hand, sealed with food-safe oil, and built to last. Sized for Versatility: At 8x11x¾", it’s ideal for everyday chopping, charcuterie spreads, or as a personalized gift. 🎁 Perfect For: Wedding, anniversary, or housewarming gifts Charcuterie lovers and home entertainers Customers who appreciate handcrafted and engraved kitchen goods
-  Updated: 2026-06-09T20:50:30Z
-  Vendor: Stewart's Blocks and Boards
+  Updated: 2026-06-28T07:14:24Z
+  Vendor: Stewarts Blocks and Boards
   Product Type: Cutting Board
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/EGB-7514.1.jpg?v=1760988786
   Price: $35.00 USD
 - [Black Walnut Cutting Board – Rounded Elegance, Handcrafted Strength](https://stewartsblocksandboards.com/products/black-walnut-cutting-board-rounded-elegance-handcrafted-strength): This handcrafted Black Walnut cutting board blends bold grain with smooth curves for a look that’s both functional and refined. Sized at 12x16x¾", it’s large enough for serious prep work and stylish enough to serve charcuterie with flair. The rounded ends soften the silhouette, making it a standout piece in any kitchen. 🌟 Product Features: Premium Black Walnut: Deep chocolate tones and dramatic grain patterns bring warmth and visual depth. Rounded Ends: A subtle design detail that adds softness and sophistication to your countertop. Handcrafted Quality: Each board is made by hand, sealed with food-safe oil, and built to last. Generous Size: At 12x16x¾", it’s ideal for chopping, plating, or serving with style. Easy Maintenance: Wipe clean and re-oil as needed to keep the wood glowing and smooth. 🎁 Perfect For: Home chefs and entertainers Wedding gifts, housewarmings, or holiday bundles Customers who appreciate natural wood and artisan craftsmanship
-  Updated: 2026-06-09T20:43:30Z
-  Vendor: Stewart's Blocks and Boards
+  Updated: 2026-06-30T19:26:59Z
+  Vendor: Stewarts Blocks and Boards
   Product Type: Cutting Board
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3896.1.jpg?v=1760996987
   Price: $55.00 USD
 - [Engraved Black Walnut Cutting Board with Handle – Personalized Craftsmanship Meets Everyday Function](https://stewartsblocksandboards.com/products/engraved-black-walnut-cutting-board-with-handle-personalized-craftsmanship-meets-everyday-function): This handcrafted engraved cutting board blends bold wood grain with meaningful detail and practical design. Made from premium Black Walnut, its rich tones and swirling grain patterns make it a standout in any kitchen. Sized at 11¾ x 15 x ¾" and finished with a smooth handle, it’s perfect for prepping, serving, or gifting with heart. 🌟 Product Features: Black Walnut Base: Deep chocolate tones and dramatic grain—this board adds warmth and elegance to your space. Engraved Personalization: Choose a name, date, or message—each cutting board is custom engraved to make it truly yours. Functional Handle: Easy to grip and hang, the handle adds convenience without compromising style. Handcrafted Quality: Each engraved board is made by hand, sealed with food-safe oil, and built to last. Generous Size: At 11¾ x 15 x ¾", it’s ideal for everyday chopping, charcuterie spreads, or as a personalized gift. 🎁 Perfect For: Wedding, anniversary, or housewarming gifts Charcuterie lovers and home entertainers Customers who appreciate handcrafted and engraved kitchen goods
-  Updated: 2026-06-09T20:50:31Z
-  Vendor: Stewart's Blocks and Boards
+  Updated: 2026-06-28T07:14:23Z
+  Vendor: Stewarts Blocks and Boards
   Product Type: Engraved
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/EGB-7519.1.jpg?v=1760999425
   Price: $55.00 USD
 - [Black Walnut Cutting Board with Rubber Feet – 8" x 14" x 1.5"](https://stewartsblocksandboards.com/products/black-walnut-cutting-board-with-rubber-feet-8-x-14-x-1-5): Rich, bold, and built to last—this handcrafted black walnut cutting board is a kitchen essential with elevated style. At 1.5 inches thick and fitted with non-slip rubber feet, it’s designed for prep, plating, and presentation. The deep chocolate tones and natural grain patterns make every board a one-of-a-kind showpiece, perfect for everyday use or special occasions. 🔍 Key Features: Premium Black Walnut: Durable, knife-friendly, and naturally resistant to bacteria. Compact Yet Sturdy: 8" wide x 14" long x 1.5" thick—ideal for slicing, serving, or gifting. Rubber Feet: Adds stability and airflow while protecting countertops. Handcrafted Finish: Sanded smooth and sealed with food-safe oil and wax. Multi-Purpose Use: Cutting board, cheese tray, charcuterie base, or rustic serving platter. 🎁 Perfect For: Home cooks, entertainers, and gift givers Small-space kitchens or countertop display Customers who love black walnut cutting boards, artisan woodwork, and functional kitchen art
-  Updated: 2026-06-09T20:43:31Z
-  Vendor: Stewart's Blocks and Boards
+  Updated: 2026-06-28T07:14:21Z
+  Vendor: Stewarts Blocks and Boards
   Product Type: Cutting Board
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3899.1.jpg?v=1761934480
@@ -192,25 +192,25 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/CB-6330.1.jpg?v=1764638968
   Price: $40.00 USD
-- [Natural Hard Maple Edge‑Grain Cutting Board Set of 3 – 12x18, 12x12, 8x12](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12-1): Why settle for one cutting board when you can have the perfect set? Our Hard Maple Edge‑Grain Cutting Board Set of 3 gives you all the sizes you need for every kitchen task, handcrafted from premium hard maple for durability, beauty, and performance. This set includes: 12" x 18" x 1.25" Hard Maple Edge‑Grain Board – spacious enough for carving roasts, prepping vegetables, or serving charcuterie. 12" x 12" x 1.25" Hard Maple Edge‑Grain Board – versatile mid‑size board for everyday chopping and slicing. 8" x 12" x 1.25" Hard Maple Edge‑Grain Board – compact and convenient for quick prep, snacks, or small kitchens. Crafted with edge‑grain construction, these boards provide a smooth, knife‑friendly surface that resists wear while helping preserve blade sharpness. Finished with food‑safe mineral oil and beeswax, they highlight maple’s clean, natural grain and are built to last. Handmade with care, each board is unique — making this set both a practical kitchen essential and a statement of craftsmanship. 📐 Features Set of 3 sizes: 12x18, 12x12, 8x12 (all 1.25" thick) Material: Premium Hard Maple hardwood Construction: Edge‑grain for durability and knife‑friendly use Finish: Food‑safe mineral oil and beeswax Handmade craftsmanship: Unique maple grain in every board ⚙️ Benefits All sizes at once: Covers every kitchen task from carving to quick prep. Knife‑friendly surface: Helps maintain blade sharpness. Durable edge‑grain design resists wear and extends board life. Elegant maple grain brightens any kitchen or serving setup. Versatile set: Perfect for cooking, serving, or gifting. 🎁 Perfect Gift This 3‑piece hard maple cutting board set makes a thoughtful gift for home chefs, entertainers, and anyone who values artisan kitchen essentials. Ideal for weddings, holidays, housewarmings, or gourmet cooking enthusiasts.
-  Updated: 2026-06-24T15:00:10Z
+- [Natural Hard Maple Edge‑Grain Cutting Board Set of 3 – 12x18, 12x12, 8x12](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12): Why settle for one cutting board when you can have the perfect set? Our Hard Maple Edge‑Grain Cutting Board Set of 3 gives you all the sizes you need for every kitchen task, handcrafted from premium hard maple for durability, beauty, and performance. This set includes: 12" x 18" x 1.25" Hard Maple Edge‑Grain Board – spacious enough for carving roasts, prepping vegetables, or serving charcuterie. 12" x 12" x 1.25" Hard Maple Edge‑Grain Board – versatile mid‑size board for everyday chopping and slicing. 8" x 12" x 1.25" Hard Maple Edge‑Grain Board – compact and convenient for quick prep, snacks, or small kitchens. Crafted with edge‑grain construction, these boards provide a smooth, knife‑friendly surface that resists wear while helping preserve blade sharpness. Finished with food‑safe mineral oil and beeswax, they highlight maple’s clean, natural grain and are built to last. Handmade with care, each board is unique — making this set both a practical kitchen essential and a statement of craftsmanship. 📐 Features Set of 3 sizes: 12x18, 12x12, 8x12 (all 1.25" thick) Material: Premium Hard Maple hardwood Construction: Edge‑grain for durability and knife‑friendly use Finish: Food‑safe mineral oil and beeswax Handmade craftsmanship: Unique maple grain in every board ⚙️ Benefits All sizes at once: Covers every kitchen task from carving to quick prep. Knife‑friendly surface: Helps maintain blade sharpness. Durable edge‑grain design resists wear and extends board life. Elegant maple grain brightens any kitchen or serving setup. Versatile set: Perfect for cooking, serving, or gifting. 🎁 Perfect Gift This 3‑piece hard maple cutting board set makes a thoughtful gift for home chefs, entertainers, and anyone who values artisan kitchen essentials. Ideal for weddings, holidays, housewarmings, or gourmet cooking enthusiasts.
+  Updated: 2026-07-02T22:02:16Z
   Vendor: Stewarts Blocks and Boards
   Product Type: Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/Set1.4.jpg?v=1765401251
-  - [No Juice Grooves](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12-1?variant=46283471192236)
+  - [No Juice Grooves](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12?variant=46283471192236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/Set1.2.jpg?v=1765401159
     Price: $144.99 USD
-  - [Juice groove in only 12x12](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12-1?variant=46283471225004)
+  - [Juice groove in only 12x12](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12?variant=46283471225004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3946-JG.3.jpg?v=1773786633
     Price: $151.99 USD
-  - [Juice groove in only 12x18](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12-1?variant=46283471257772)
+  - [Juice groove in only 12x18](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12?variant=46283471257772)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3946-JG.3.jpg?v=1773786633
     Price: $151.99 USD
-  - [Juice groove in 12x18 and 12x12](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12-1?variant=46283471290540)
+  - [Juice groove in 12x18 and 12x12](https://stewartsblocksandboards.com/products/hard-maple-edge-grain-cutting-board-set-of-3-12x18-12x12-8x12?variant=46283471290540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3946-JG.3.jpg?v=1773786633
     Price: $156.99 USD
@@ -264,7 +264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3926.1_cf291592-660a-4999-bd8f-0ebb5a75b53c.jpg?v=1768772834
   Price: $134.99 USD
 - [Black Walnut Cutting Board Set — Handcrafted Edge Grain Quality](https://stewartsblocksandboards.com/products/black-walnut-cutting-board-set-handcrafted-end-grain-quality-3): Includes: 1 × 12×18×1.5" Black Walnut Cutting Board 1 × 12×12×1.5" Black Walnut Cutting Board 1 × 8×12×1.5" Black Walnut Cutting Board This premium set of three handcrafted Black Walnut cutting boards brings unmatched beauty, durability, and versatility to your kitchen. Each board is crafted from rich Black Walnut and built with edge grain construction, creating a naturally self‑healing, knife‑friendly surface designed for long‑term performance. The 12×18×1.5" board offers a large, sturdy workspace ideal for full meal prep, carving, and heavy chopping. The 12×12×1.5" board is perfect for everyday slicing and serving, while the 8×12×1.5" board excels at smaller tasks, bar prep, or charcuterie presentations. Together, they form a cohesive, functional set that elevates both your workflow and your kitchen aesthetic. Each board is sanded smooth and finished with a food‑safe oil and wax blend that enhances the natural walnut grain and protects the wood. A stunning, heirloom‑quality trio for home cooks, entertainers, and anyone who appreciates handcrafted craftsmanship. Features Set includes three boards: 12×18×1.5" Black Walnut cutting board 12×12×1.5" Black Walnut cutting board 8×12×1.5" Black Walnut cutting board Premium Black Walnut hardwood Edge grain construction for superior durability and knife friendliness Hand‑finished with food‑safe oil and wax Small‑batch craftsmanship Rich, natural walnut grain patterns Benefits Knife‑friendly edge grain surface helps preserve blade edges Three versatile sizes for prep, serving, and presentation Beautiful matching set that enhances any kitchen Perfect for everyday cooking or entertaining Built to last with proper care Perfect For Daily chopping and slicing Charcuterie and serving Home bars and beverage prep Wedding, housewarming, and holiday gifts Anyone who loves handcrafted woodwork
-  Updated: 2026-06-25T05:15:37Z
+  Updated: 2026-07-01T23:20:54Z
   Vendor: Stewarts Blocks and Boards
   Product Type: Set
   Availability: Available
@@ -300,7 +300,7 @@
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/MB-8053.1.jpg?v=1770603661
   Price: $34.99 USD
 - [Black Walnut Cheese Slicer — 6 × 9 × 3/4" with Stainless Steel Wire](https://stewartsblocksandboards.com/products/black-walnut-cheese-slicer-6-9-3-4-with-stainless-steel-wire-2): This 6 × 9 × 3/4" Black Walnut cheese slicer is a compact, elegant tool designed for smooth, effortless slicing. Crafted from solid Black Walnut, it features deep, natural tones and striking grain patterns that make each piece visually unique. The integrated stainless steel wire delivers clean, consistent cuts—perfect for soft and semi‑hard cheeses. Handmade in small batches and finished with a food‑safe oil and wax blend, this slicer blends durability with refined craftsmanship. Whether you're building a charcuterie board or enjoying a simple snack, it adds a touch of warmth and sophistication to the moment. Features Dimensions: 6 × 9 × 3/4" Material: Solid Black Walnut Stainless steel wire for smooth, precise slicing Hand‑finished with food‑safe oil and wax Crafted in small batches Unique grain patterns in every board What You’ll Appreciate Rich walnut color that elevates any serving setup Effortless slicing with a durable wire mechanism Compact and sturdy for everyday use Premium hardwood built for longevity A thoughtful gift for cheese lovers and entertainers Ideal For Charcuterie and cheese boards Wine nights and gatherings Everyday snacking Housewarming and holiday gifts Displaying as functional kitchen décor Care Instructions Hand wash only Dry immediately Oil occasionally to maintain finish Do not soak or place in dishwasher
-  Updated: 2026-06-11T22:06:52Z
+  Updated: 2026-06-26T09:54:54Z
   Vendor: Stewarts Blocks and Boards
   Product Type: Cheese Cutter
   Availability: Available
@@ -559,7 +559,7 @@
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3945-NG.1.jpg?v=1773784208
   Price: $77.49 USD
 - [Handcrafted Black Walnut Cutting Board – 12×16×1.5" with Juice Groove](https://stewartsblocksandboards.com/products/handcrafted-black-walnut-cutting-board-12-16-1-5-with-juice-groove): This handcrafted cutting board is made from premium American Black Walnut, selected for its rich color, durability, and striking grain patterns. At 1.5 inches thick, it offers a substantial, professional feel that stays stable during heavy prep work. The integrated juice groove helps keep counters clean by catching liquids from meats, fruits, and vegetables. Features Handcrafted from 100% American Black Walnut 12×16" cutting surface ideal for daily prep and carving 1.5" thick for long‑lasting durability and stability Precision‑cut juice groove to contain liquids Knife‑friendly hardwood surface Finished with food‑safe mineral oil and beeswax Smooth chamfered or rounded edges Reversible design (grooved side for carving, flat side for serving) Why This Board Stands Out The combination of thickness, premium walnut, and a clean, functional groove makes this board a standout piece in any kitchen. It’s built for both performance and presentation—perfect for chopping, carving, or serving charcuterie. The natural walnut grain ensures every board is one‑of‑a‑kind. Specifications Material: Black Walnut Dimensions: 12" × 16" × 1.5" Finish: Food‑safe oil and beeswax Design: Juice groove on one side, flat on the other Perfect For Home cooks and professional chefs Daily kitchen prep and carving Charcuterie and serving boards Wedding, anniversary, and housewarming gifts Care Instructions Hand‑wash only Do not soak or place in dishwasher Dry immediately after washing Re‑oil every few weeks or as needed Store upright when possible Note: There may be a slightly little different color than the images due to each board being one of a kind.
-  Updated: 2026-06-19T06:24:48Z
+  Updated: 2026-07-01T18:14:32Z
   Vendor: Stewarts Blocks and Boards
   Product Type: Cutting Board
   Availability: Available
@@ -636,14 +636,14 @@
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/BB-5169.3.jpg?v=1777738232
   Price: $99.99 USD
 - [Handcrafted Natural Hard Maple Cutting Board with Juice Groove — 11x17x1.5"](https://stewartsblocksandboards.com/products/handcrafted-hard-maple-cutting-board-with-juice-groove-11x17x1-5): Bring clean, timeless craftsmanship to your kitchen with this handcrafted cutting board made from natural hard maple, one of the most trusted and durable woods for culinary use. Designed for everyday performance and long‑lasting beauty, this board offers a sturdy prep surface with a bright, classic look that complements any kitchen. The end‑grain construction creates a naturally self‑healing cutting surface that’s gentle on knives while standing up to years of daily use. Vertical wood fibers absorb impact rather than resist it, helping maintain blade sharpness and keeping the board smooth and resilient over time. A precision‑cut juice groove runs along the perimeter, catching liquids from fruits, vegetables, and meats to keep your workspace clean and controlled. At 11" x 17" x 1.5", this board provides a generous working area without overwhelming your counter, making it ideal for slicing, chopping, carving, and serving. Each board is meticulously sanded to a silky finish and treated with a food‑safe oil and wax blend that enhances the natural beauty of hard maple while protecting it for everyday use. Built to last, this piece is both a functional tool and a beautiful addition to your kitchen. Perfect as a thoughtful gift or a premium upgrade for your own cooking space, this handcrafted maple cutting board blends durability, elegance, and artisan quality in every detail.
-  Updated: 2026-06-14T01:19:57Z
+  Updated: 2026-07-02T00:29:08Z
   Vendor: Stewarts Blocks and Boards
   Product Type: Cutting Board
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/SB-3840.3.jpg?v=1777741702
   Price: $52.99 USD
 - [Handcrafted Natural Hard Maple Cutting Board — 11x15x1.5"](https://stewartsblocksandboards.com/products/handcrafted-hard-maple-cutting-board-11x15x1-6): Elevate your everyday cooking with this handcrafted cutting board made from natural hard maple, one of the most trusted and durable woods for kitchen use. Designed for daily prep and long‑lasting performance, this board brings clean lines, warm natural tones, and artisan craftsmanship to any countertop. Hard maple’s fine, closed grain makes it exceptionally resistant to wear while staying gentle on your knives. At 11" x 15" x 1.5", this board offers a versatile mid‑size surface—perfect for chopping vegetables, slicing fruit, prepping proteins, or serving small spreads and appetizers. Each board is carefully shaped, sanded to a smooth satin finish, and treated with a food‑safe oil and wax blend that enhances maple’s natural beauty while protecting it from moisture and everyday use. The result is a sturdy, beautifully crafted board that’s built to last for years of cooking and entertaining. Whether you’re upgrading your own kitchen or searching for a thoughtful handcrafted gift, this maple cutting board delivers durability, simplicity, and timeless style in one elegant piece.
-  Updated: 2026-06-21T03:13:12Z
+  Updated: 2026-07-03T03:59:22Z
   Vendor: Stewarts Blocks and Boards
   Product Type: Cutting Board
   Availability: Available
@@ -678,8 +678,8 @@
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/BBK-7067.1.jpg?v=1778280005
   Price: $39.99 USD
 - [Handcrafted 16x20x2.5" End‑Grain Butcher Block — Black Walnut & Northern Hard Maple](https://stewartsblocksandboards.com/products/handcrafted-16x20x2-5-end-grain-butcher-block-black-walnut-northern-hard-maple): A true centerpiece for any serious kitchen, this handcrafted 16 x 20 x 2.5" end‑grain butcher block blends the deep richness of black walnut with the clean strength of northern hard maple. Built for performance, longevity, and visual impact, it’s the kind of board that becomes an heirloom. 🌳 Premium End‑Grain Construction End‑grain boards are the gold standard for chefs. The vertical grain absorbs impact, helping the surface naturally “self‑heal” while staying gentle on your knives. This board is built to take decades of daily prep. Black Walnut + Northern Hard Maple Black Walnut — bold, dark grain with luxurious character Northern Hard Maple — durable, tight‑grained, and kitchen‑tough Together, they create a striking contrast and a board that performs as beautifully as it looks. ✋ Integrated Handholds Smooth, ergonomic handholds make lifting and carrying this substantial block feel natural and secure. 💧 Precision‑Cut Juice Groove A clean, continuous juice groove runs the perimeter, catching liquids from meats, fruits, and vegetables to keep your workspace tidy. 📏 Generous 16" x 20" x 2.5" Size A professional‑grade work surface with serious thickness for stability, durability, and long‑term resistance to warping. Handcrafted Finish Each board is individually shaped, sanded to a silky finish, and treated with a food‑safe oil and wax blend that enhances the natural beauty of the wood. 🍽️ Perfect For Daily chopping and heavy prep Showpiece countertop display Charcuterie and serving Wedding, housewarming, or chef‑level gifting A functional workhorse with artisan character — built to last, built to impress.
-  Updated: 2026-06-09T20:43:52Z
-  Vendor: Stewart's Blocks and Boards
+  Updated: 2026-06-28T07:14:18Z
+  Vendor: Stewarts Blocks and Boards
   Product Type: End Grain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0674/3601/9884/files/BB-5178.1.jpg?v=1778775818
@@ -696,31 +696,31 @@
 ## Collections
 
 - [Handcrafted Wooden Cheese Slicers](https://stewartsblocksandboards.com/collections/cheese-slicers): Discover handcrafted wooden cheese slicers, durable and stylish. Perfect for entertaining or daily use, these must-have tools elevate any kitchen collection.
-  Updated: 2026-06-21T11:19:36Z
+  Updated: 2026-06-28T23:12:05Z
   Total Products: 15
 - [Handmade Chopping Boards, Kitchen Essentials|Stewart's Blocks & Boards](https://stewartsblocksandboards.com/collections/handmade-chopping-boards): Explore Stewart's Blocks & Boards for handmade chopping boards, crafted with quality and sustainability. Perfect for professional chefs and home cooks alike.
-  Updated: 2026-06-25T23:54:31Z
-  Total Products: 120
+  Updated: 2026-07-03T18:59:31Z
+  Total Products: 129
 - [Maintain Your Handcrafted Cutting Boards](https://stewartsblocksandboards.com/collections/board-maintenance): Extend the life and beauty of your handcrafted cutting boards with our top-quality maintenance products.
-  Updated: 2026-06-21T11:19:36Z
+  Updated: 2026-07-02T11:21:57Z
   Total Products: 3
 - [Handcrafted Bread Knives](https://stewartsblocksandboards.com/collections/bread-knives-handcrafted): Slice through your baking creations with ease and elegance using our Handcrafted Bread Knives Collection. Designed for both function and beauty, each bread knife is a masterpiece of artisanal craftsmanship. Featuring ergonomic handles made from premium hardwoods like Wormy Maple, paired with high-quality stainless steel blades, these knives bring precision and style to your kitchen. Whether you're cutting through crusty sourdough, delicate pastries, or hearty loaves, our bread knives ensure clean and effortless slices every time. They’re the perfect combination of form, function, and sustainability—crafted with care and built to last. Transform your bread-slicing experience with tools that celebrate the art of handmade quality. Perfect for home chefs, bakers, and anyone who values timeless craftsmanship.
-  Updated: 2026-06-25T23:54:31Z
+  Updated: 2026-06-28T23:12:05Z
   Total Products: 5
 - [ Specials - Automatic 15% off any items in this collection.](https://stewartsblocksandboards.com/collections/closeout-specials): Discover unbeatable deals in our Closeout Specials collection - a curated mix of seasonal favorites, limited‑run specialty items, and final‑edition pieces you won’t see again. Once these items are gone, they’re gone for good. Whether you're stocking up for next season, hunting for unique finds, or grabbing the last of a beloved collection, this is the place to score exceptional value on high‑quality products. Shop fast, quantities are limited. Please note that these are final purchases.  will be auto-applied at checkout.
-  Updated: 2026-06-07T21:07:50Z
+  Updated: 2026-06-28T23:12:06Z
   Total Products: 55
 - [Cutting Board Sets](https://stewartsblocksandboards.com/collections/handmade-cutting-board-sets): Discover our collection of handmade cutting board sets, thoughtfully crafted by Stewart’s Blocks & Boards for cooks, entertainers, and gift-givers who value quality and craftsmanship. Each wood cutting board set is handcrafted from premium hardwoods—including rich walnut cutting board sets, classic maple cutting board sets, and stunning maple and walnut cutting board sets—designed to bring lasting beauty and everyday function to your kitchen. Whether you’re looking for a matching kitchen cutting board set for meal prep, a luxury wooden cutting board set for serving and entertaining, or a cutting board gift set for weddings, housewarmings, or holidays, our handcrafted sets offer the perfect blend of durability and style. Available in a variety of sizes and designs, our artisan board sets are built for everyday use while showcasing the natural beauty of real hardwood. Shop handmade wooden cutting board sets built to last—crafted in small batches, finished by hand, and made to be used, gifted, and enjoyed for years to come.
-  Updated: 2026-06-25T11:20:41Z
+  Updated: 2026-07-02T22:02:18Z
   Total Products: 2
 - [End Grain Cutting Boards & Butcher Blocks](https://stewartsblocksandboards.com/collections/handmade-end-grain-cutting-boards-butcher-blocks): Discover our collection of handmade end grain cutting boards and butcher blocks, expertly crafted for home chefs, grill masters, and anyone who values exceptional quality in the kitchen. At Stewart’s Blocks & Boards, each end grain cutting board is handcrafted from premium hardwoods like walnut, maple, and mixed hardwood combinations—designed for superior durability, knife-friendly performance, and timeless beauty. Known for their strength and distinctive checkerboard pattern, end grain butcher blocks are ideal for heavy-duty chopping, slicing, and everyday meal prep. Their self-healing wood fibers help protect your knives while creating a long-lasting work surface built to withstand years of use. Whether you're searching for a premium butcher block, a luxury wood cutting board, or a thoughtful handmade kitchen gift, our artisan boards are made in small batches and finished by hand to showcase the natural beauty of real hardwood. From compact prep boards to large statement butcher blocks, find the perfect end grain cutting board for your kitchen or gift list. Built to perform. Crafted to last. Made to be passed down.
-  Updated: 2026-06-24T22:15:19Z
-  Total Products: 25
+  Updated: 2026-07-03T18:59:31Z
+  Total Products: 30
 - [Edge Grain Cutting Boards](https://stewartsblocksandboards.com/collections/edge-grain-cutting-boards): Explore our collection of handmade edge grain cutting boards, crafted for everyday cooking, meal prep, and beautiful kitchen presentation. At Stewart’s Blocks & Boards, each wood cutting board is handcrafted from premium hardwoods like walnut, maple, and striking maple and walnut combinations, offering the perfect balance of durability, function, and natural beauty. Designed for daily use, edge grain cutting boards are known for their strength, stability, and classic wood grain appearance. Whether you need a reliable kitchen cutting board for chopping and slicing, a versatile wood serving board, or a thoughtful handmade gift, our artisan boards are built to handle everyday use while elevating your kitchen style. Available in a variety of sizes, shapes, and hardwood combinations, our handmade wooden cutting boards are crafted in small batches and finished by hand to highlight the unique character of every board. From compact prep boards to larger family-size boards, find the perfect edge grain cutting board built to perform for years to come. Crafted for everyday use. Built to last. Made by hand.
-  Updated: 2026-06-25T11:20:41Z
-  Total Products: 32
+  Updated: 2026-07-02T22:15:25Z
+  Total Products: 31
 - [Best Sellers](https://stewartsblocksandboards.com/collections/best-sellers): Shop the most-loved handcrafted pieces from Stewart’s Blocks & Boards in our Best Sellers collection—featuring customer favorites chosen for their craftsmanship, beauty, and everyday performance. From premium end grain cutting boards and durable edge grain cutting boards to artisan cheese slicers and one-of-a-kind kitchen gifts, these are the products our customers return for again and again. Each piece is handcrafted in small batches from premium hardwoods like walnut, maple, and mixed hardwood combinations, then finished by hand to highlight the natural beauty and character of every board. Whether you’re searching for a handmade cutting board, a luxury kitchen gift, or a statement piece for your own home, our best- collection showcases the quality and craftsmanship Stewart’s is known for. Discover why these customer favorites have earned their place at the top—timeless craftsmanship, built for everyday use, and made to last for years to come.
-  Updated: 2026-06-25T11:20:41Z
+  Updated: 2026-07-02T22:15:25Z
   Total Products: 17
 
 ## Blogs
