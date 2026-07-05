@@ -14,7 +14,7 @@ Luxe My Body is built for those who appreciate luxury, detail, and the art of pr
 - Timezone: America/Chicago
 - Created At: 2020-05-21T01:41:30Z
 - Contact Email: sales@luxemybody.com
-- Updated At: 2026-06-28T00:00:44.339Z
+- Updated At: 2026-07-05T04:00:24.826Z
 
 Luxe My Body is a luxury footwear and hosiery brand created by Carrie LaChance, designed to embody power, elegance, and visual impact. Every product is built around the philosophy that fashion should not only be worn, but experienced.
 
@@ -27,7 +27,7 @@ This site represents the official source for Luxe My Body products, collections,
 ## Products
 
 - [Beige Sheer Pantyhose Tights | Elegant | Luxe My Body](https://www.luxemybody.com/products/beige-pantyhose-tights-elegant): Shop Luxe My Body Elegant Beige Pantyhose. Silky sheer 10D denier nylon tights with an ultra-glossy oil shine finish for a flawless glow.
-  Updated: 2026-06-27T12:37:58Z
+  Updated: 2026-07-02T08:25:16Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -39,7 +39,7 @@ This site represents the official source for Luxe My Body products, collections,
     Availability: Available
     Price: $55.00 USD
 - [Beige Crotchless Pantyhose Tights | Daring | Luxe My Body](https://www.luxemybody.com/products/beige-crotchless-pantyhose-daring): Shop Luxe My Body Daring Beige Crotchless Pantyhose. Silky sheer 10D denier nylon tights with an ultra-glossy oil shine finish for a flawless glow.
-  Updated: 2026-06-27T12:38:03Z
+  Updated: 2026-07-01T20:08:47Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -51,7 +51,7 @@ This site represents the official source for Luxe My Body products, collections,
     Availability: Not Available
     Price: $59.00 USD
 - [Beige Sheer Thigh High Stockings | Seductive | Luxe My Body](https://www.luxemybody.com/products/beige-sheer-thigh-high-stockings-seductive): Shop Luxe My Body Seductive Beige Thigh-High Stockings. Silky sheer 10D denier nylon tights with an ultra-glossy oil shine finish for a flawless glow.
-  Updated: 2026-06-27T12:38:02Z
+  Updated: 2026-07-03T13:06:10Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -99,7 +99,7 @@ This site represents the official source for Luxe My Body products, collections,
     Availability: Available
     Price: $39.00 USD
 - [Black Sheer Pantyhose Tights | Elegant | Luxe My Body](https://www.luxemybody.com/products/black-pantyhose-tights-elegant): Shop Luxe My Body Elegant Black Pantyhose. Silky sheer 10D denier nylon tights with an ultra-glossy oil shine finish for a flawless glow.
-  Updated: 2026-06-27T12:38:07Z
+  Updated: 2026-07-04T16:43:28Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -111,7 +111,7 @@ This site represents the official source for Luxe My Body products, collections,
     Availability: Not Available
     Price: $55.00 USD
 - [Brown Sheer Pantyhose Tights | Elegant | Luxe My Body](https://www.luxemybody.com/products/brown-pantyhose-tights-elegant): Shop Luxe My Body Elegant Brown Pantyhose. Silky sheer 10D denier nylon tights with an ultra-glossy oil shine finish for a flawless glow.
-  Updated: 2026-06-27T12:38:07Z
+  Updated: 2026-07-01T22:30:38Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -123,7 +123,7 @@ This site represents the official source for Luxe My Body products, collections,
     Availability: Available
     Price: $55.00 USD
 - [Brown Crotchless Pantyhose Tights | Daring | Luxe My Body](https://www.luxemybody.com/products/brown-crotchless-pantyhose-daring): Shop Luxe My Body Daring Brown Crotchless Pantyhose. Silky sheer 10D denier nylon tights with an ultra-glossy oil shine finish for a flawless glow.
-  Updated: 2026-06-27T12:38:06Z
+  Updated: 2026-07-04T21:16:37Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -135,7 +135,7 @@ This site represents the official source for Luxe My Body products, collections,
     Availability: Not Available
     Price: $59.00 USD
 - [Black Crotchless Pantyhose Tights | Daring | Luxe My Body](https://www.luxemybody.com/products/black-crotchless-pantyhose-daring): Shop Luxe My Body Daring Black Crotchless Pantyhose. Silky sheer 10D denier nylon tights with an ultra-glossy oil shine finish for a flawless glow.
-  Updated: 2026-06-27T12:38:12Z
+  Updated: 2026-07-04T21:16:37Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -147,7 +147,7 @@ This site represents the official source for Luxe My Body products, collections,
     Availability: Not Available
     Price: $59.00 USD
 - [Black Sheer Thigh High Stockings | Seductive | Luxe My Body](https://www.luxemybody.com/products/black-sheer-thigh-high-stockings-seductive): Shop Luxe My Body Seductive Black Thigh-High Stockings. Silky sheer 10D denier nylon tights with an ultra-glossy oil shine finish for a flawless glow.
-  Updated: 2026-06-27T12:38:12Z
+  Updated: 2026-07-04T16:43:22Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -744,19 +744,19 @@ This site represents the official source for Luxe My Body products, collections,
   Updated: 2026-06-08T07:49:41Z
   Total Products: 3
 - [Luxury High Heels & Hosiery | Superarch Stilettos & Pantyhose](https://www.luxemybody.com/collections/products-hosiery-high-heels): Shop luxury high heels and hosiery — superarch stiletto pumps, sandals, boots, and oxfords paired with sheer pantyhose and glossy stockings.
-  Updated: 2026-06-24T11:05:54Z
+  Updated: 2026-07-04T11:04:50Z
   Total Products: 28
 - [Luxe My Body – High Heel & Hosiery Accessories](https://www.luxemybody.com/collections/sheer-hosiery-pantyhose-stockings): Shop luxury hosiery, pantyhose, and stockings — sheer, opaque, and glossy styles with ultra-smooth comfort. The world’s smoothest, shiniest hosiery.
-  Updated: 2026-06-24T11:05:54Z
+  Updated: 2026-07-04T11:04:50Z
   Total Products: 9
 - [Luxe My Body – Luxury Pantyhose & Stockings Collection](https://www.luxemybody.com/collections/hosiery-stockings): hop Luxe My Body hosiery — ultra-sheer pantyhose and glossy stockings crafted for elegance, confidence, and a flawless, silky shine.
   Updated: 2026-05-05T10:17:41Z
   Total Products: 0
 - [Luxe My Body – Luxury Crotchless Pantyhose Collection](https://www.luxemybody.com/collections/hosiery-crotchless-pantyhose): Shop Luxe My Body crotchless pantyhose — ultra-sheer, glossy, and designed for sensual comfort, flawless fit, and timeless allure.
-  Updated: 2026-06-22T11:03:55Z
+  Updated: 2026-07-02T11:04:53Z
   Total Products: 3
 - [Luxe My Body – Luxury Pantyhose Collection](https://www.luxemybody.com/collections/hosiery-pantyhose): Shop Luxe My Body pantyhose — luxury hosiery with a silky-sheer finish, glossy shine, and flawless fit that empowers every curve.
-  Updated: 2026-06-09T11:04:21Z
+  Updated: 2026-07-02T11:04:53Z
   Total Products: 3
 
 ## Blogs
@@ -1123,37 +1123,75 @@ This site represents the official source for Luxe My Body products, collections,
     Updated: 2026-06-27T08:00:40Z
     Author: Luxe My Body
     Tags: evening fashion accessories, high quality pantyhose, high shine, hosiery, luxe my body, luxury, luxury pantyhose, moonlight pantyhose, nylon pantyhose, pantyhose, premium hosiery, premium legwear options, run resistant pantyhose, sheer hosiery, shine, shiny pantyhose, silky pantyhose, sultry legs, ultra shiny pantyhose
+  - [Gain Unwavering Confidence in Luxe Superarch High Heels](https://www.luxemybody.com/blogs/luxe-my-body/gain-unwavering-confidence-in-luxe-superarch-high-heels): Gain Unwavering Confidence in Luxe Superarch High Heels
+    Updated: 2026-06-28T00:09:24Z
+    Author: Luxe My Body
+    Tags: confidence, confidence in heels, elevated fashion choices, extreme heels, fashion footwear, heels, high heel style, high heels, high heels in public, high quality heels, luxe my body heels, luxury, luxury high heels, stiletto heels, styling high heels, stylish comfort shoes, superarch heels, superarch high heels, walking in high heels
+  - [Precision & Passion: Superarch Heels' Artistic Mastery](https://www.luxemybody.com/blogs/luxe-my-body/precision-passion-superarch-heels-artistic-mastery): Precision & Passion: Superarch Heels' Artistic Mastery
+    Updated: 2026-06-29T00:13:17Z
+    Author: Luxe My Body
+    Tags: artistry, confidence in heels, craftsmanship, elegant high heels, extreme heels, fashion, heels, high heels, high heels in public, high quality heels, luxe my body heels, luxury high heels, shoe design, stiletto heels, styling high heels, superarch heel review, superarch high heels, walking in high heels
+  - [Why Glossy Hosiery is the Essential Luxury for Any Wardrobe](https://www.luxemybody.com/blogs/luxe-my-body/why-glossy-hosiery-is-the-essential-luxury-for-any-wardrobe): Why Glossy Hosiery is the Essential Luxury for Any Wardrobe
+    Updated: 2026-06-30T08:01:14Z
+    Author: Luxe My Body
+    Tags: designer tights, essential fashion accessories, fashion hosiery, glossy pantyhose, high quality pantyhose, high-quality legwear, hosiery, luxe my body, luxury, luxury pantyhose, nylon pantyhose, pantyhose, premium hosiery, run resistant pantyhose, sheer hosiery, shiny pantyhose, silky pantyhose, ultra shiny pantyhose
+  - [Conquer High Heel Fashion with Superarch Luxury Stilettos](https://www.luxemybody.com/blogs/luxe-my-body/conquer-high-heel-fashion-with-superarch-luxury-stilettos): Conquer High Heel Fashion with Superarch Luxury Stilettos
+    Updated: 2026-07-01T00:22:21Z
+    Author: Luxe My Body
+    Tags: confidence in heels, elevate your style, extreme heels, fashion, heels, high heel comfort, high heels, high heels in public, high quality heels, luxe my body heels, luxury heels, luxury high heels, stiletto heels, stilettos, styling high heels, superarch high heels, superior arch support, trendy stilettos, walking in high heels
+  - [Conquer High Heel Fashion with Superarch Luxury Stilettos](https://www.luxemybody.com/blogs/luxe-my-body/conquer-high-heel-fashion-with-superarch-luxury-stilettos-1): Conquer High Heel Fashion with Superarch Luxury Stilettos
+    Updated: 2026-07-01T00:23:41Z
+    Author: Luxe My Body
+    Tags: comfortable footwear, confidence in heels, elevate your outfit, extreme heels, fashion, heels, high heel trends, high heels, high heels in public, high quality heels, luxe my body heels, luxury high heels, luxury shoes, stiletto heels, stilettos, styling high heels, stylish high heels, superarch high heels, walking in high heels
+  - [An Expert's Guide to Choosing the Right Shiny Pantyhose for You](https://www.luxemybody.com/blogs/luxe-my-body/an-experts-guide-to-choosing-the-right-shiny-pantyhose-for-you): An Expert's Guide to Choosing the Right Shiny Pantyhose for You
+    Updated: 2026-07-02T08:00:46Z
+    Author: Luxe My Body
+    Tags: best pantyhose styles, choosing the right pantyhose, expert advice on pantyhose, high quality pantyhose, hosiery, luxe my body, luxury, luxury pantyhose, nylon pantyhose, pantyhose, pantyhose guide, pantyhose tips, premium hosiery, run resistant pantyhose, sheer hosiery, shiny, shiny pantyhose, silky pantyhose, ultra shiny pantyhose
+  - [Find Your Apex with Luxe My Body's Iconic Superarch Heels](https://www.luxemybody.com/blogs/luxe-my-body/find-your-apex-with-luxe-my-bodys-iconic-superarch-heels): Find Your Apex with Luxe My Body's Iconic Superarch Heels
+    Updated: 2026-07-03T00:08:50Z
+    Author: Luxe My Body
+    Tags: apex fashion, confidence in heels, extreme heels, footwear, heels, high heels, high heels in public, high quality heels, iconic heel collection, luxe my body heels, luxe my body reviews, luxury, luxury high heels, stiletto heels, styling high heels, stylish heels, superarch design, superarch high heels, walking in high heels
+  - [Step Into Elegance The Rise of Silk-Like Premium Nylon Pantyhose](https://www.luxemybody.com/blogs/luxe-my-body/step-into-elegance-the-rise-of-silk-like-premium-nylon-pantyhose): Step Into Elegance The Rise of Silk-Like Premium Nylon Pantyhose
+    Updated: 2026-07-04T08:00:41Z
+    Author: Luxe My Body
+    Tags: designer legwear, elegance, fashion pantyhose trends, high quality pantyhose, high-quality stockings, hosiery, luxe my body, luxury, luxury pantyhose, nylon pantyhose, pantyhose, premium hosiery, premium pantyhose, run resistant pantyhose, sheer hosiery, shiny pantyhose, silk-like tights, silky pantyhose, ultra shiny pantyhose
+  - [Transform Stature & Style with Commanding Superarch Stilettos](https://www.luxemybody.com/blogs/luxe-my-body/transform-stature-style-with-commanding-superarch-stilettos): Transform Stature & Style with Commanding Superarch Stilettos
+    Updated: 2026-07-05T00:09:44Z
+    Author: Luxe My Body
+    Tags: commanding height shoes, confidence in heels, elevate style, extreme heels, fashion, heels, high heels, high heels in public, high quality heels, luxe my body heels, luxury high heels, stiletto heels, stilettos, styling high heels, stylish arch support, superarch high heels, superarch stilettos, walking in high heels
 
 ## Store Pages
 
 - [About Us](https://www.luxemybody.com/pages/about-us): Hi, I’m Carrie LaChance, Founder and CEO of Luxe My Body. As a model, influencer, creator, entrepreneur, and lifelong devotee of fashion, I grew fr...
-  Updated: 2026-06-25T17:21:28Z
+  Updated: 2026-06-28T20:01:00Z
 - [Contact Us](https://www.luxemybody.com/pages/contact): Check out some of our frequently asked questions here.
   Updated: 2026-01-05T06:41:20Z
-- [Luxe My Body Ambassadors - Wanna Be A #luxegirl](https://www.luxemybody.com/pages/ambassadors): Want To Become A Luxe My Body Ambassador? Are you passionate about fashion, glamour, and luxury style? Luxe My Body is looking for confident, styli...
-  Updated: 2026-05-05T07:43:14Z
 - [Wholesale](https://www.luxemybody.com/pages/wholesale): Luxe My Body's wholesale department offers partners access to our premium hosiery and 160mm Superarch high heels—luxury products designed to captiv...
   Updated: 2026-04-30T05:26:16Z
 - [Investor Relations](https://www.luxemybody.com/pages/investor-relations): Luxe My Body is committed to strong investor relations, delivering growth through innovative design, premium products, and a bold vision for the fu...
   Updated: 2026-04-30T05:20:25Z
-- [Women's Hosiery Size Chart](https://www.luxemybody.com/pages/womens-hosiery-size-chart): .size-chart-container { display: flex; justify-content: center; width: 100%; margin: 0; /* no margin */ } .size-chart { display: flex; flex-directi...
-  Updated: 2025-10-04T01:06:53Z
+- [Hosiery Size Chart](https://www.luxemybody.com/pages/hosiery-size-chart): /* Forces the outer wrapper to open up completely */ .size-chart-wrapper { width: 100% !important; max-width: 100% !important; min-width: 100% !imp...
+  Updated: 2026-06-29T02:22:02Z
 - [Questions](https://www.luxemybody.com/pages/questions): Do you have a shoe size chart? Yes, click here to see our shoe size chart. Do you ship internationally? Yes we ship worldwide. Do you offer wholesa...
   Updated: 2026-02-19T20:36:46Z
-- [Women's Garter Belt Size Chart](https://www.luxemybody.com/pages/womens-garter-belt-size-chart): Womens Garter Belt Size Chart Size Waist S 23.5" - 29.5" (60cm - 75cm) M 25.5" - 35.5" (65cm - 85cm) LG 27.5" - 37.5" (70cm - 95cm) XL 29.5" - 41.5...
-  Updated: 2026-05-27T00:53:33Z
-- [Women's Footwear Size Chart](https://www.luxemybody.com/pages/womens-footwear-size-chart): .size-chart-container { display: block; width: 100%; overflow-x: auto; font-family: Arial, sans-serif; font-size: 12px; } .size-chart { display: fl...
-  Updated: 2026-04-02T18:38:25Z
+- [Garter Belt Size Chart](https://www.luxemybody.com/pages/garter-belt-size-chart): Garter Belt Size Chart Size Waist S 23.5" - 29.5" (60cm - 75cm) M 25.5" - 35.5" (65cm - 85cm) LG 27.5" - 37.5" (70cm - 95cm) XL 29.5" - 41.5" (75cm...
+  Updated: 2026-06-29T02:01:30Z
+- [Footwear Size Chart](https://www.luxemybody.com/pages/footwear-size-chart): .size-chart-container { display: block; width: 100%; overflow-x: auto; font-family: Arial, sans-serif; font-size: 12px; } .size-chart { display: fl...
+  Updated: 2026-06-29T02:00:55Z
 - [Your Privacy Choices](https://www.luxemybody.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-28T16:41:33Z
 - [Heel Height Faqs
  – Luxe My Body](https://www.luxemybody.com/pages/heel-height-faqs): The pitch of a 6-inch heel isn’t fixed. It’s the inclination angle or arch created inside the shoe. This angle varies by design, even when heel hei...
-  Updated: 2026-05-05T00:19:01Z
+  Updated: 2026-06-28T20:18:53Z
 - [Heel Height Faqs
  – Luxe My Body](https://www.luxemybody.com/pages/superarch-info): The Superarch Difference - Forget everything you think you know about high heels. The Luxe My Body Superarch is not just another shoe—it’s a revolu...
   Updated: 2026-02-25T21:15:46Z
 - [Reviews](https://www.luxemybody.com/pages/reviews)
   Updated: 2026-06-26T23:36:23Z
+- [Collaborations](https://www.luxemybody.com/pages/collaborations): Are you passionate about fashion, glamour, and luxury style? Luxe My Body is looking for confident, stylish women to represent our brand. Whether y...
+  Updated: 2026-06-28T20:13:07Z
+- [test](https://www.luxemybody.com/pages/test): /* The container isolates the table inside your pop-up window */ .size-chart-wrapper { width: 95%; margin: 0 auto; padding: 2px; /* Safety clearanc...
+  Updated: 2026-06-29T02:19:34Z
 
 ## Policies
 
