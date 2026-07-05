@@ -6,7 +6,7 @@
 - Timezone: Atlantic/Canary
 - Created At: 2026-04-14T22:23:28Z
 - Contact Email: tienda.candelaria2026@gmail.com
-- Updated At: 2026-06-28T00:00:37.403Z
+- Updated At: 2026-07-05T00:00:38.928Z
 
 ## Products
 
@@ -192,6 +192,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_758bf994-c6b7-4c38-9bed-55a189a05277.jpg?v=1778588338
   Price: 32,40 € EUR
+- [DEVOLUCION DE AMAZON](https://candecanarias.com/products/devolucion-de-amazon-1): Regleta Enchufe USB MorKer con 4 Tomas, 4 USB-A y 4 USB-C Descripción: Regleta USB MorKer ideal para cargar múltiples dispositivos al mismo tiempo de forma cómoda y segura. Cuenta con 4 enchufes, 4 puertos USB-A y 4 puertos USB-C, perfecta para móviles, tablets, ordenadores, consolas y otros dispositivos electrónicos. Diseño moderno y práctico para oficina, hogar, escritorio o zona gaming. Incluye protección y carga rápida para mantener todos tus equipos conectados y organizados. ✅ 4 tomas de corriente ✅ 4 puertos USB-A ✅ 4 puertos USB-C ✅ Compatible con carga rápida ✅ Ideal para oficina, hogar y gaming ✅ Diseño compacto y moderno Peso aproximado: 1 kg aprox.
+  Updated: 2026-07-04T15:47:15Z
+  Vendor: CANDECANARIAS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_8cfd1387-6b46-4b3b-a7d5-11493a01b2d1.jpg?v=1778588570
+  Price: 14,99 € EUR
 - [Muletas Ajustables de Aluminio Antideslizantes | Par Completo Ligero y Resistente](https://candecanarias.com/products/muletas-ajustables-de-aluminio-antideslizantes-par-completo-ligero-y-resistente): Muletas Ajustables de Aluminio Antideslizantes | Par Completo Ligero y Resistente🩶 Recupera tu movilidad con seguridad y comodidad. Este par de muletas ajustables está fabricado en aluminio ligero y resistente, ideal para uso diario durante procesos de recuperación, lesiones o apoyo temporal. ✔️ Altura regulable ✔️ Empuñadura cómoda y acolchada ✔️ Base antideslizante para mayor estabilidad ✔️ Diseño ligero y fácil de transportar ✔️ Incluye el par completo Perfectas para adultos y adolescentes que buscan comodidad, firmeza y seguridad al caminar. 🚶‍♂️✨
   Updated: 2026-06-17T08:19:23Z
   Vendor: CANDECANARIAS
