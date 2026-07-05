@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-06-28T04:00:35.862Z
+- Updated At: 2026-07-05T08:00:36.299Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2625,65 +2625,7 @@ File Size: 7 MB
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Bubble_Gum_Latex_Photo_Set.jpg?v=1744585728
   Price: $50.00 USD
-- [Leather Temptress Photo Set](https://www.carrielachance.com/products/leather-temptress-photo-set-download): Carrie LaChance covered head to toe in leather, does that sound like a good time to anybody? I personally think it sounds amazing and that’s exactly what we get in this set. She’s wearing a leather mini skirt, leather jacket, leather bra, and Christian Louboutin strappy heels. If you’re wondering why this shoot took place on an abandoned old train, besides the fact that it looks cool, it’s because Carrie wanted some privacy so she could take her bra off and give us some stunning topless shots that are sure to make all of your jaws drop.
-
-Carrie LaChance – Gallery #169 🔞
-Total Images: 63 Photos
-Year: 2015
-File Size: 27 MB
-  Updated: 2026-04-26T20:05:42Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Leather_Temptress_Photo_Set.jpg?v=1744585650
-  Price: $70.00 USD
-- [Leather Temptress Video](https://www.carrielachance.com/products/leather-temptress-video-download): Carrie LaChance covered head to toe in leather, does that sound like a good time to anybody? I personally think it sounds amazing and that’s exactly what we get in this set. She’s wearing a leather mini skirt, leather jacket, leather bra, and Christian Louboutin strappy heels. If you’re wondering why this shoot took place on an abandoned old train, besides the fact that it looks cool, it’s because Carrie wanted some privacy so she could take her bra off and give us some stunning topless shots that are sure to make all of your jaws drop. This video is from Carrie LaChance – Gallery #169
-
-Denim Sweetheart Video
-Run Time: 4 min
-Year: 2015
-File Size: 136 MB
-  Updated: 2026-04-26T20:05:43Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $40.00 USD
-- [Denim Sweetheart Photo Set](https://www.carrielachance.com/products/denim-sweetheart-photo-set-download): A lot of you may not know that Carrie is a small-town girl. I think this shoot shows that off a bit. She looks astonishingly sexy as she always does but her outfit gives her that sexy girl in a small town look and who doesn’t love that? Carrie is wearing a denim mini dress, garters, thigh highs, and Christian Louboutin slingback heels. I love this denim look on Carrie and the heels are just super sexy. The dress shows off her perfect legs and she gets into some very sexy poses for us.
-
-Carrie LaChance – Gallery #170 🔞
-Total Images: 53 Photos
-Year: 2015
-File Size: 24 MB
-  Updated: 2026-04-26T20:05:43Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Denim_Sweetheart_Photo_Set.jpg?v=1744585580
-  Price: $60.00 USD
-- [Denim Sweetheart Video](https://www.carrielachance.com/products/denim-sweetheart-video-download): A lot of you may not know that Carrie is a small-town girl. I think this shoot shows that off a bit. She looks astonishingly sexy as she always does but her outfit gives her that sexy girl in a small town look and who doesn’t love that? Carrie is wearing a denim mini dress, garters, thigh highs, and Christian Louboutin slingback heels. I love this denim look on Carrie and the heels are just super sexy. The dress shows off her perfect legs and she gets into some very sexy poses for us. This video is from Carrie LaChance – Gallery #170
-
-Denim Sweetheart Video
-Run Time: 3 min
-Year: 2015
-File Size: 100 MB
-  Updated: 2026-04-26T20:05:43Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $40.00 USD
-- [Angelic Beauty Photo Set](https://www.carrielachance.com/products/angelic-beauty-photo-set-download): This set is just absolutely phenomenal. Carrie is draped on a bed wearing nothing but lingerie and sexy high heels. This sounds like a dream I had once. She is wearing pink lingerie, garters, thigh highs, and Christian Louboutin Platform high heels. The light colors give off an innocent feel but you just know Carrie is feeling naughty. It gets even better as Carrie strips off some clothes and we get to see even more of her tight body.
-
-Carrie LaChance – Gallery #171 🔞
-Total Images: 37 Photos
-Year: 2015
-File Size: 8 MB
-  Updated: 2026-04-26T20:05:43Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Angelic_Beauty_Photo_Set.jpg?v=1744585424
-  Price: $60.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTUxMjI0NjUxOTQzLCJsYXN0X3ZhbHVlIjoiNTU1MTIyNDY1MTk0MyJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTUxMTQ3Mjg2Njk1LCJsYXN0X3ZhbHVlIjoiNTU1MTE0NzI4NjY5NSJ9)
 
 ## Collections
 
@@ -3166,6 +3108,33 @@ File Size: 8 MB
     Updated: 2026-06-28T00:03:47Z
     Author: Carrie LaChance
     Tags: chemistry exploration, diaries,  diary,  storytelling, glamour, glamour stories, intimate stories, private diary, seduction, seductive stories, sensual narratives
+  - [Unveiling My Stilettos World Secrets from Photoshoots With High Heels and Lingerie](https://www.carrielachance.com/blogs/carrie-lachance/unveiling-my-stilettos-world-secrets-from-photoshoots-with-high-heels-and-lingerie): Unveiling My Stilettos World Secrets from Photoshoots With High Heels and Lingerie
+    Updated: 2026-06-29T08:00:43Z
+    Author: Carrie LaChance
+    Tags: behind the scense, carrie lachance, fashion tips, glamour model, heels, high heels, high heels photos, latex model, life of a model, lingerie, lingerie photoshoot ideas, modeling poses, outfit of the day, pantyhose, photoshoot, pinup model, sexy model, stilettos
+  - [From Selfie to Model: Enhancing Your On-Camera Presence with Sexy Wardrobe Secrets](https://www.carrielachance.com/blogs/carrie-lachance/from-selfie-to-model-enhancing-your-on-camera-presence-with-sexy-wardrobe-secrets): From Selfie to Model: Enhancing Your On-Camera Presence with Sexy Wardrobe Secrets
+    Updated: 2026-06-30T00:02:26Z
+    Author: Carrie LaChance
+    Tags: confidence boost, enhance presence techniques, fashion, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, modeling, modeling tips, on-camera skills, photography, photoshoot, posing tips, sexy outfit ideas, social media model, taking good selfies, wardrobe tips
+  - [Why Bombshell.fans is Ideal for Emerging Content Creators](https://www.carrielachance.com/blogs/carrie-lachance/why-bombshell-fans-is-ideal-for-emerging-content-creators): Why Bombshell.fans is Ideal for Emerging Content Creators
+    Updated: 2026-07-01T10:01:01Z
+    Author: Carrie LaChance
+  - [Luxe Crystal Heels: The Intersection of Confidence Glamour and Attraction](https://www.carrielachance.com/blogs/carrie-lachance/luxe-crystal-heels-the-intersection-of-confidence-glamour-and-attraction): Luxe Crystal Heels: The Intersection of Confidence Glamour and Attraction
+    Updated: 2026-07-02T00:01:56Z
+    Author: Carrie LaChance
+    Tags: attraction theory, confidence boost, fashion psychology, glam, heels, high, high heels, high heels and confidence, luxury footwear trends, psychology of high heels, why men love women in heels
+  - [Romantic Triumph: Discover the Art of Finding the Right Girl with Carrie’s Glamour Tips](https://www.carrielachance.com/blogs/carrie-lachance/romantic-triumph-discover-the-art-of-finding-the-right-girl-with-carrie-s-glamour-tips): Romantic Triumph: Discover the Art of Finding the Right Girl with Carrie’s Glamour Tips
+    Updated: 2026-07-03T00:02:11Z
+    Author: Carrie LaChance
+    Tags: dating, dating advice, effective dating techniques, how to attract women, how to find a high heel girl, how to find right girl, love strategies, relationship help, romance, tips
+  - [Delectable Delight Exploring Femininity with Nylons and Glossy Finish](https://www.carrielachance.com/blogs/carrie-lachance/delectable-delight-exploring-femininity-with-nylons-and-glossy-finish): Delectable Delight Exploring Femininity with Nylons and Glossy Finish
+    Updated: 2026-07-04T00:01:14Z
+    Author: Carrie LaChance
+    Tags: benefits of pantyhose, gloss, how to wear nylons, leg aesthetics, nylons, pantyhose, shiny legs, women’s fashion
+  - [Romantic Echoes: Sensual Stories from a High-End Glamour Diary](https://www.carrielachance.com/blogs/carrie-lachance/romantic-echoes-sensual-stories-from-a-high-end-glamour-diary): Romantic Echoes: Sensual Stories from a High-End Glamour Diary
+    Updated: 2026-07-05T00:03:56Z
+    Author: Carrie LaChance
+    Tags: desire,  diary,  storytelling, glamour diaries, glamour stories, high-end glamour tales, intimate narrative writing, romance, seduction, seductive stories, sensual experiences
 
 ## Store Pages
 
@@ -3173,8 +3142,8 @@ File Size: 8 MB
   Updated: 2025-03-24T21:57:37Z
 - [About Carrie LaChance](https://www.carrielachance.com/pages/about): Carrie LaChance – Model • Entrepreneur • High Heel Queen Carrie LaChance is a professional model, social media personality, and entrepreneur whose ...
   Updated: 2025-09-12T22:32:23Z
-- [Carrie LaChance Official Website Links](https://www.carrielachance.com/pages/links): The following links are our official links. allmylinks.com/carrielachance archenemys.com (this page) bombshell.fans ❤ bombshell.fans/carrielachance...
-  Updated: 2026-06-26T21:03:19Z
+- [Carrie LaChance Official Website Links](https://www.carrielachance.com/pages/links): The following links are our official links. allmylinks.com/carrielachance archenemys.com (this page) bombshell.fans bsky.app/profile/carrielachance...
+  Updated: 2026-07-04T20:08:09Z
 - [Luxe My Body Founder Carrie LaChance](https://www.carrielachance.com/pages/luxe-my-body-founder-carrie-lachance): Luxe My Body is a high-end fashion brand of luxury hosiery & footwear founded by Carrie LaChance. www.LuxeMyBody.com
   Updated: 2025-04-09T01:04:54Z
 - [Bombshell Influencers Founder Carrie LaChance](https://www.carrielachance.com/pages/bombshell-influencers-founder-carrie-lachance): Bombshell Influencers is the world's first agency-friendly, fully monetizable, socially expressive hybrid platform for sharing Creator driven conte...
