@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-04-07T04:56:42Z
 - Contact Email: rpulsifer@-crafted.com
-- Updated At: 2026-06-25T00:00:25.890Z
+- Updated At: 2026-07-05T00:00:33.800Z
 
 ## Collections
 
@@ -66,6 +66,10 @@
     Updated: 2026-06-23T07:01:13Z
     Author: -Crafted Editorial Team
     Tags: ai, ai implementation for distributors, ai in logistics, automation, business process automation, data analytics, distributor automation, efficiency, improve operations, operational efficiency wholesale, supply chain, wholesale distribution, wholesale distribution ai
+  - [Streamlining Distribution Operations with AI Implementation](https://-crafted.com/blogs/-crafted-journal/streamlining-distribution-operations-with-ai-implementation): Streamlining Distribution Operations with AI Implementation
+    Updated: 2026-06-30T06:01:54Z
+    Author: -Crafted Editorial Team
+    Tags: ai, ai for distribution optimization, ai implementation for distributors, business process automation, data analysis, distribution, distributor automation, implementing ai in wholesale distributio, inventory management, operational efficiency wholesale, supply chain, wholesale, wholesale distribution ai
 
 ## Policies
 
