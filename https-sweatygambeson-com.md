@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-04T23:01:09Z
 - Contact Email: jeremymcanally@gmail.com
-- Updated At: 2026-06-25T01:43:41.667Z
+- Updated At: 2026-07-05T00:00:31.611Z
 
 ## Products
 
@@ -1775,17 +1775,17 @@
 - [Home page](https://sweatygambeson.com/collections/frontpage)
   Updated: 2026-06-25T01:40:59Z
   Total Products: 8
-- [Apparel](https://sweatygambeson.com/collections/apparel)
-  Updated: 2026-06-25T01:40:59Z
+- [Apparel](https://sweatygambeson.com/collections/apparel): HEMA-themed apparel rated for longsword and grocery run alike: heavyweight tees, four-way-stretch rash guards, hoodies, and jacquard knitwear. Made to order, shipped worldwide.
+  Updated: 2026-06-25T02:21:35Z
   Total Products: 31
-- [Stickers and Patches](https://sweatygambeson.com/collections/patches-and-stickers)
-  Updated: 2026-06-25T01:41:00Z
+- [Stickers and Patches](https://sweatygambeson.com/collections/patches-and-stickers): Embroidered patches and weatherproof die-cut stickers with a HEMA bent. Iron-on, sew-on, or Velcro. The merit badges your fencing club would never sanction.
+  Updated: 2026-06-25T02:21:37Z
   Total Products: 10
 - [Freshly Forged](https://sweatygambeson.com/collections/freshly-forged)
   Updated: 2026-06-25T01:41:00Z
   Total Products: 0
-- [Accessories](https://sweatygambeson.com/collections/accessories): Hats, socks, and the other small wares that complete the kit.
-  Updated: 2026-06-25T01:41:00Z
+- [Accessories](https://sweatygambeson.com/collections/accessories): Small wares for the historically : embroidered patches, die-cut stickers, caps, socks, headbands, and bottles. The kit that says you clearly know a guard or two.
+  Updated: 2026-06-25T02:21:36Z
   Total Products: 19
 
 ## Store Pages
@@ -1801,6 +1801,12 @@
 
 - [Privacy Policy](https://sweatygambeson.com/policies/privacy-policy)
   Updated: 2026-06-04T19:01:21-04:00
+- [Refund Policy](https://sweatygambeson.com/policies/refund-policy)
+  Updated: 2026-06-24T21:46:18-04:00
+- [Terms of Service](https://sweatygambeson.com/policies/terms-of-service)
+  Updated: 2026-06-24T21:48:11-04:00
+- [Contact Information](https://sweatygambeson.com/policies/contact-information)
+  Updated: 2026-06-24T21:48:36-04:00
 
 ## Optional
 
