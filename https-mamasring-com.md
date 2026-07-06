@@ -43,7 +43,7 @@ The website includes an interactive jewelry builder that helps customers preview
 - Contact Email: emeloul@aol.com
 - Contact Phone: (800)709-9445
 - Address: Central Diamond Center, 818 South Central Expressway, Suite 1 Richardson, Texas 75080, USA
-- Updated At: 2026-06-28T00:00:47.008Z
+- Updated At: 2026-07-06T00:00:45.561Z
 
 # Mama’s Ring
 
@@ -643,10 +643,10 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-06-12T04:40:22Z
   Price: $24.95 USD
 - [14K Gold Post CZ Martini Stud Earrings | 1.0ct to 4.0ct Pure Brilliance](https://mamasring.com/products/nana-jewels-sterling-silver-round-martini-style-3-prongs-pure-brilliance-zirconia-stud-earrings-with-a-solid-14k-gold-post-1-50ctw-4-00ctw): Elegant 3 prong martini style stud earrings with Pure Brilliance CZ, 14K gold post & silver base.
-  Updated: 2026-06-12T04:45:57Z
+  Updated: 2026-07-03T23:07:10Z
   Price: $37.50 USD — $49.95 USD
 - [Princess Cut CZ Stud Earrings | 14K Gold Post | 1.50–4.00ctw Zirconia](https://mamasring.com/products/14k-gold-posts-sterling-silver-princess-cut-cz-stud-earrings-w-pure-brilliance-zirconia-1-50-4-00ctw): Shine with Pure Brilliance princess cut CZ studs, 14K gold posts & silver base. Available in 1.50–4.00ctw.
-  Updated: 2026-06-12T08:37:48Z
+  Updated: 2026-07-04T23:28:56Z
   Price: $39.95 USD — $58.95 USD
 - [NANA Jewels Cushion Cut CZ Stud Earrings – 14K Gold Post & Silver](https://mamasring.com/products/cushion-cut-simulated-diamond-stud-earrings-14k-solid-gold-post-sterling-silver-0-60ctw-4-00ctw-cz): Elegant cushion cut simulated diamond stud earrings by NANA Jewels, 14K solid gold post & sterling silver. 0.60–4.00ctw CZ sparkle for any occasion.
   Updated: 2026-06-12T04:45:58Z
@@ -979,6 +979,9 @@ The website includes interactive customization tools that allow customers to pre
 - [22150](https://mamasring.com/collections/22150)
   Updated: 2026-06-18T05:58:17Z
   Total Products: -40
+- [Fashion Necklace](https://mamasring.com/collections/fashion-necklace)
+  Updated: 2026-07-02T07:53:29Z
+  Total Products: 39
 
 ## Store Pages
 
