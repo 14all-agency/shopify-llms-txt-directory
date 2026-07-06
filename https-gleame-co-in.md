@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-09T06:52:22Z
 - Contact Email: noreply@gleame.co.in
-- Updated At: 2026-06-27T00:00:38.770Z
+- Updated At: 2026-07-06T00:00:41.266Z
 
 ## Products
 
@@ -291,16 +291,16 @@
     Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/61714366_jpg.webp?v=1780218443
     Price: ₹1,199.00 INR
 - [Monkey D. Luffy Edition Oversized Jersey - Gleame](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey): Product Details Premium anime jersey inspired by Monkey D. Luffy — the fearless Captain of the Straw Hat Pirates from One Piece. Known for his Gum-Gum powers, unstoppable determination, and dream to become the Pirate King, this jersey is perfect for anime streetwear lovers and One Piece fans who carry a never-give-up attitude. Character Highlights: Captain of the Straw Hat Pirates User of the Gomu Gomu no Mi (Rubber Devil Fruit) Future King of the Pirates Fearless, energetic, and loyal leader Features: Fit: Relaxed jersey fit Print: High-definition anime graphic print Style: Unisex anime streetwear jersey Design: Breathable and lightweight sports-style design Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Iconic Straw Hat pirate-inspired design Perfect for anime fans and streetwear outfits Great choice for everyday wear and anime events - Gleame
-  Updated: 2026-06-25T06:09:00Z
+  Updated: 2026-07-02T07:33:26Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/3-1_1080x_78b15b0c-6864-457a-a0af-9a464fb78249.jpg?v=1779793767
   - [S](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400329370)
-    Availability: Not Available
+    Availability: Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400362138)
-    Availability: Not Available
+    Availability: Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400394906)
     Availability: Available
@@ -312,7 +312,7 @@
     Availability: Not Available
     Price: ₹999.00 INR
 - [Demon Slayer Legacy – Zenitsu Oversized Jersey - Gleame](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey): Product Details Premium oversized anime jersey inspired by Zenitsu Agatsuma — the lightning-fast Demon Slayer from Demon Slayer: Kimetsu no Yaiba. Known for his Thunder Breathing techniques, hidden strength, and incredible speed when unconscious, this jersey is perfect for anime streetwear lovers and Demon Slayer fans who connect with courage beneath fear. Character Highlights: Demon Slayer Corps member User of Thunder Breathing (First Form specialist) Unmatched speed and lightning-fast reflexes Timid yet powerful warrior with hidden potential Features: Fit: Oversized relaxed fit Print: High-definition soft-touch anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Lightning-inspired anime streetwear aesthetic Bold and energetic design for standout style Perfect for Demon Slayer anime fans - Gleame
-  Updated: 2026-06-26T10:17:10Z
+  Updated: 2026-07-03T02:37:27Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -324,28 +324,28 @@
     Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476842650)
-    Availability: Not Available
-    Price: ₹999.00 INR
-  - [XL](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476875418)
-    Availability: Not Available
-    Price: ₹999.00 INR
-  - [2XL](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476908186)
     Availability: Available
     Price: ₹999.00 INR
+  - [XL](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476875418)
+    Availability: Available
+    Price: ₹999.00 INR
+  - [2XL](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476908186)
+    Availability: Not Available
+    Price: ₹999.00 INR
 - [Demon Aura Jersey Oversized Jersey - Gleame](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey): Product Details Premium oversized mesh anime jersey inspired by Zenitsu Agatsuma in his electrifying Demon Aura form from Demon Slayer: Kimetsu no Yaiba. Surrounded by a thunder-charged aura and lightning-fast energy, this design captures his ultimate speed, focus, and unleashed power. Perfect for anime streetwear lovers and Demon Slayer fans who want a bold and high-energy look. Character Highlights: Thunder Breathing master with intense aura presence Iconic lightning-charged combat state Extreme speed and precision strikes Fear transformed into pure power Features: Fabric: Breathable mesh for all-day comfort Fit: Oversized relaxed fit Print: High-definition soft-touch anime print with aura effects Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Electric aura-inspired anime streetwear aesthetic High-energy lightning design for standout looks Perfect for Demon Slayer anime fans - Gleame
-  Updated: 2026-06-26T11:25:37Z
+  Updated: 2026-07-01T16:47:57Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/WhatsApp_Image_2025-09-20_at_08.41.21_ef299d08_1.jpg?v=1779793772
   - [S](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522062490)
-    Availability: Not Available
+    Availability: Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522095258)
     Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522128026)
-    Availability: Not Available
+    Availability: Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522160794)
     Availability: Available
@@ -354,7 +354,7 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Monkey D. Luffy – One Piece Black Edition Oversized Jersey - Gleame](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey): Product Details Premium oversized mesh anime jersey inspired by Monkey D. Luffy — the fearless Captain of the Straw Hat Pirates from One Piece. Driven by his dream to become the King of the Pirates, Luffy is known for his Gum-Gum powers, unstoppable determination, and fearless spirit. This jersey is perfect for anime streetwear lovers and One Piece fans who represent freedom and adventure. Character Highlights: Captain of the Straw Hat Pirates User of the Gomu Gomu no Mi (Gum-Gum Fruit) Future King of the Pirates Fearless, energetic, and battle-driven leader Features: Fabric: Breathable mesh for all-day comfort Fit: Oversized relaxed fit Print: High-definition soft-touch anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Adventure-inspired anime streetwear aesthetic Bold pirate-themed design for standout style Perfect for One Piece anime fans - Gleame
-  Updated: 2026-06-26T17:10:59Z
+  Updated: 2026-07-01T16:47:56Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -366,7 +366,7 @@
     Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728599194)
-    Availability: Not Available
+    Availability: Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728631962)
     Availability: Available
@@ -375,19 +375,19 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Monkey D. Luffy – White Edition Jersey - Gleame](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey): Product Details Premium oversized white mesh anime jersey inspired by Monkey D. Luffy — the fearless Captain of the Straw Hat Pirates from One Piece. This White Edition highlights a clean, powerful aesthetic while representing Luffy’s limitless determination, Gum-Gum powers, and dream to become the King of the Pirates. Perfect for anime streetwear lovers and One Piece fans who want a bold yet minimal look. Character Highlights: Captain of the Straw Hat Pirates User of the Gomu Gomu no Mi (Gum-Gum Fruit) Future King of the Pirates Fearless and unstoppable leader Features: Fabric: Breathable mesh for all-day comfort Fit: Oversized relaxed fit Print: High-definition soft-touch anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Clean white anime streetwear aesthetic Minimal yet bold pirate-inspired design Perfect for One Piece anime fans - Gleame
-  Updated: 2026-06-25T11:47:18Z
+  Updated: 2026-07-04T18:18:17Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/id-11134207-7ra0i-md1d5ok9gldocc.jpg?v=1779793776
   - [S](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727452314)
-    Availability: Not Available
+    Availability: Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727485082)
     Availability: Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727517850)
-    Availability: Not Available
+    Availability: Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727550618)
     Availability: Available
@@ -480,7 +480,7 @@
     Availability: Not Available
     Price: ₹1,199.00 INR
 - [Monkey D. Luffy – Gear 5 Edition Oversied Jersey](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey): Product Details Premium anime jersey inspired by Monkey D. Luffy Gear 5 — the legendary awakened form of the future Pirate King from One Piece. Unleashing the true power of the Hito Hito no Mi, Model: Nika, Gear 5 represents ultimate freedom, limitless creativity, and unmatched strength. Perfect for anime streetwear lovers and One Piece fans who embody a fearless spirit. Character Highlights: Awakened Gear 5 Form of Monkey D. Luffy User of the Mythical Zoan Devil Fruit: Hito Hito no Mi, Model: Nika The Warrior of Liberation Limitless power, freedom, and imagination Features: Fit: Relaxed jersey fit Print: High-definition Gear 5 anime graphic print Style: Unisex anime streetwear jersey Design: Breathable and lightweight sports-style design Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Iconic Gear 5 Nika-inspired design Perfect for One Piece fans and anime streetwear outfits Great choice for conventions, anime events, and everyday wear
-  Updated: 2026-06-25T10:15:12Z
+  Updated: 2026-06-30T11:38:28Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -510,7 +510,7 @@
   Updated: 2026-06-04T11:11:26Z
   Total Products: 2
 - [Best Seller - Gleame](https://gleame.co.in/collections/best-seller): - Gleame
-  Updated: 2026-06-26T15:42:17Z
+  Updated: 2026-07-05T11:14:42Z
   Total Products: 6
 - [Leather Jacket - Gleame](https://gleame.co.in/collections/leather-jacket): - Gleame
   Updated: 2026-06-04T11:11:26Z
@@ -558,7 +558,7 @@
   Updated: 2026-06-04T11:11:27Z
   Total Products: 4
 - [Anime Jersey - Gleame](https://gleame.co.in/collections/anime-jersey): - Gleame
-  Updated: 2026-06-26T15:42:17Z
+  Updated: 2026-07-05T11:14:42Z
   Total Products: 7
 - [CNY Jacket](https://gleame.co.in/collections/cny-jacket)
   Updated: 2026-06-04T11:17:53Z
@@ -723,6 +723,18 @@
     Updated: 2026-06-24T15:02:48Z
     Author: Gleame
     Tags: anime, anime fashion, anime jersey, anime merchandise, anime streetwear india, boxy fit, jerseys, luffy jersey, one piece clothing, one piece jersey, oversized, oversized anime jersey, oversized anime styles, oversized jerseys, premium anime clothing, streetwear, zoro, zoro inspired apparel, zoro jersey
+  - [How to Incorporate One Piece Jerseys into Your Everyday Streetwear Look](https://gleame.co.in/blogs/streetwear/how-to-incorporate-one-piece-jerseys-into-your-everyday-streetwear-look): How to Incorporate One Piece Jerseys into Your Everyday Streetwear Look
+    Updated: 2026-06-29T15:02:09Z
+    Author: Gleame
+    Tags: anime clothing, anime jersey, anime merchandise, anime streetwear india, boxy fit, casual outfit inspiration, everyday style, fashion, incorporate jerseys into streetwear, jerseys, luffy jersey, one piece, one piece jersey, oversized, oversized anime jersey, premium anime clothing, streetwear, zoro jersey
+  - [Understanding Anime Streetwear Culture Through Premium Anime Clothing](https://gleame.co.in/blogs/streetwear/understanding-anime-streetwear-culture-through-premium-anime-clothing): Understanding Anime Streetwear Culture Through Premium Anime Clothing
+    Updated: 2026-06-30T15:01:51Z
+    Author: Gleame
+    Tags: anime, anime clothing, anime jersey, anime merchandise, anime streetwear brands, anime streetwear india, boxy fit, culture, fashion trends, luffy jersey, one piece jersey, oversized, oversized anime jersey, premium anime clothing, premium apparel, streetwear, understanding anime culture, zoro jersey
+  - [Comparing the Best Oversized Anime Jerseys for Avid Anime Streetwear Enthusiasts](https://gleame.co.in/blogs/streetwear/comparing-the-best-oversized-anime-jerseys-for-avid-anime-streetwear-enthusiasts): Comparing the Best Oversized Anime Jerseys for Avid Anime Streetwear Enthusiasts
+    Updated: 2026-07-01T15:02:03Z
+    Author: Gleame
+    Tags: anime, anime fashion, anime jersey, anime merchandise, anime streetwear india, best anime jerseys guide, boxy fit, jerseys, luffy jersey, one piece jersey, oversized, oversized anime jersey, oversized jerseys, premium anime clothing, streetwear, streetwear style, top oversized anime clothing, zoro jersey
 
 ## Store Pages
 
