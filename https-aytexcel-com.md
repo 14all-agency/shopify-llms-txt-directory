@@ -8,7 +8,7 @@
 - Contact Email: hello@aytexcel.com
 - Contact Phone: +91 98200 22205
 - Address: Esperanza, 1101/02, Linking Rd, next to Just in Time, Bandra West, Mumbai, Maharashtra 400050
-- Updated At: 2026-06-27T00:00:33.892Z
+- Updated At: 2026-07-07T00:00:37.658Z
 
 # Aytexcel — India's Premier Destination for Premium Home Projectors & Home Cinema
 
@@ -662,13 +662,6 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/HisenseL9HE.jpg?v=1750941196
   Price: ₹480,000.00 INR
-- [Dangbei DBOX02 PRO](https://aytexcel.com/products/dbox02-pro): New Dangbei DBOX02 Pro True 4K Laser Projector with HDR10+ & 2000 ISO Lumens: Experience stunning 4K UHD (3840x2160) clarity with Dangbei's laser technology, delivering 2000 ISO lumens for vibrant daytime viewing. Enjoy HDR10+/HLG for deeper blacks and richer colors, plus a 108% REC-709 wide color gamut for theater-quality accuracy. Perfect for movies, sports, and gaming with exceptional detail and color fidelity in any lighting condition. Google TV & Licensed Netflix Streaming Hub: Built-in Google TV with Netflix certification offers 700,000+ movies/shows from Netflix, Prime Video, Disney+, and 10,000+ apps. "Hey Google" voice control enables hands-free operation, while WiFi 6 ensures smooth 4K streaming. Bluetooth 5.2 allows wireless audio, and the custom remote features one-touch app shortcuts. No external devices needed for complete smart entertainment. InstanPro AI Setup - Perfect Image Automatically: Dangbei's InstanPro AI delivers instant perfection: auto-focus provides razor-sharp images, while real-time keystone correction maintains alignment. Screen Fit adapts to any surface, and Obstacle Avoidance navigates around objects. Eye Protection safeguards viewers, and AI Brightness adjusts to room lighting. Enjoy professional setup quality with zero effort. Dolby Audio & Dual 12W Theater Sound: Experience immersive audio with dual 12W speakers and a 600cc acoustic chamber, featuring Dolby Audio/DTS Virtual:X for cinema-quality sound. Enjoy 2.5x richer bass than standard projectors, clear dialogue, and dimensional effects. Bluetooth 5.2 connects wireless headphones, while HDMI eARC supports high-end sound systems. Flexible 300" Screen with Built-in Stand: The built-in gimbal stand offers 360° rotation and 120° tilt for perfect placement. Project 40"-300" images with consistent 4K clarity. Dual HDMI 2.1 ports support 4K@120Hz gaming, with USB 2.0, LAN, and optical audio connections. The durable, minimalist design fits any space beautifully for movies, sports, or outdoor entertainment.
-  Updated: 2026-02-02T06:51:08Z
-  Vendor: AYTEXCEL 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/1_8ac0d667-cb8d-4f5d-b260-e09b15807906.jpg?v=1752051257
-  Price: ₹169,499.00 INR
 - [Dangbei MP1 MAX](https://aytexcel.com/products/mp1-max): New Dangbei MP1 Max Dangbei MP1 Max is a 4K Home Projector with Google TV and Licensed Netflix that brings theater-quality visual and audio. It delivers 3100 ISO Lumens, vivid colors. Sharp 4K image with high brightness: The high brightness of 3100 ISO lumens delivers clear images even in the daytime, while the ultra-wide color gamut of 110% BT.2020 and professional-level color accuracy (ΔE<1) provide powerful and realistic images. Equipped with next-generation Triple laser + LED technology: Dangbei MP1 Max's Triple laser + LED technology harnesses the NICHIA's QuaLas lasers breakthrough to deliver outstanding image quality from the source, achieving enhanced brightness, superior color saturation, and unprecedented viewing comfort. Google TV OS with Licensed Netflix: It offers access to over 10,000 apps and more than 700,000 movies and TV shows, including YouTube, Prime Video, Disney+, Hulu, and licensed Netflix, delivering endless entertainment at your fingertips. Built-in Stand x InstanPro AI Image Setup: Its 135° vertical tilt & 360° horizontal rotation stand, combined with InstanPro AI Image Setup. Features like Auto Focus, Auto Keystone Correction, Screen Fit, Obstacle Avoidance, Real-Time Keystone Correction, Eye Protection, and AI Brightness Adjustment, making every viewing position perfect for the show. Theater-quality sound: With its 750cc Acoustic chamber and bass reflex design, it produces deep 45 Hz low and immersive surround audio that transforms your living room into a grand concert hall.
   Updated: 2026-06-24T13:04:57Z
   Vendor: AYTEXCEL 
@@ -676,13 +669,6 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/05_4a950af6-837d-4740-b40e-6035464a68f5.jpg?v=1754285907
   Price: ₹245,000.00 INR
-- [Hisense M2 Pro 1300-ANSI Lumen UHD 4K Triple Laser Smart Projector](https://aytexcel.com/products/hisense-m2-pro): Key Features Brightness of 1300 ANSI Lumens RGB Triple Laser Light Source UHD 4K 3840 x 2160 On-Screen Resolution 1.0 to 1.3:1 Throw Ratio Dolby Vision, HDR10 & HLG Compatible 110% BT.2020 Super-Wide Color Gamut Auto Focus & Auto Keystone Correction Works with Air Play 2 & Apple Home Smart TV Function with VIDAA OS Built-In Dual 10W Speakers Connectivity Connect HD and 4K sources via HDMI 2.1, with support for 4K60 and 1080p240 content playback. A USB 3.0 input can play media from a flash drive or supply power to an external streaming dongle. You can also stream directly with built-in Wi-Fi and a variety of apps, including Netflix, Disney+, Apple TV, and more. Automatic Image Correction The M2 Pro adapts to your environment and makes setup easy with automatic and seamless correction for focus, keystone, screen fit, and obstacle avoidance. Additionally, it includes self-adaptive wall color correction to get the best color reproduction, even when projecting on a non-white surface. Additional Details HDR10, HLG, and Dolby Vision support Filmmaker Mode and Smooth Motion technology ensure judder free playback MEMC low latency DTS Virtual :X support Built-in 20-watt stereo speaker system Compatible with Air Play 2 and Apple Home 0% harmful Blue Light output
-  Updated: 2026-06-18T03:29:27Z
-  Vendor: AYTEXCEL 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitled_design_-_2025-08-20T161548.594.jpg?v=1755686882
-  Price: ₹140,000.00 INR
 - [VIVIDSTORM S PRO P Motorised Rollable UST Laser Projector Screen with Acoustic Transparency](https://aytexcel.com/products/vividstorm-s-pro-p-motorised-rollable-ust-laser-projector-screen-with-acoustic-transparency): Perforate Acoustically Sound Transparent – The BELOW BLACK BORDER adds a perforated design, which satisfies the customer’s pursuit of stereo effects, and achieves a more stereoscopic effect. New choice projector screen for UST Laser projectors – The screen material with special optical sawtooth structure and the light-rejecting filter to give a stunning performance in CEILING AMBIENT LIGHT. because the UST ALR material use a special optical serrated structure and a light suppression fitter; so the projected light will be effectively reflected to the viewer, and the ceiling light will be blocked or absorbed;(Not Compatible for the projector suspended installed!） Eye Protection feature & A fit for any room: Feast your eyes on awe-inspiring visuals with deeper colors；Projectors are able to produce much larger images, which put less strain on your eyes. In addition to this, projectors reflect light while TVs emit it. Reflected light is easier on your eyes, keeping your eyes comfortable without the added strain created by emitted light. you can enjoy a cinematic experience from the comfort of your own theater! Fast easy to Set UP & Space-saving Design – Plug in the power cord to achieve the installation in 1 minute! ; No screws necessary;Change any indoor viewing place with your mood! Electric Pop-up/Floor Rising series projector screen is a collection of premium retractable electric screens that VIVIDSTORM Unique Wire Tension Technology. Flatness like glass surface. and extend upward from the floor. when the screen is not used, just close it which makes it unobtrusive； First Class Customer Service – A ISO9001 manufacturer since 2004. 2 years Manufacture Warranty. You no longer need a pitch black room to get a good image；Enjoy your favorite movies and TV shows anywhere in your home, day or night.Provide size 72-120inch, please choose the right screen according to your own space!or Please contact us, we will give you the good advice!
   Updated: 2025-08-26T11:40:01Z
   Vendor: AYTEXCEL 
@@ -739,12 +725,12 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/01_3e9f11c2-8546-4045-b0ce-0b2a93660395.jpg?v=1755849118
   Price: ₹100,000.00 INR
 - [Valerion VisionMaster Max 4K Laser Projector | 3500 Lumens - Aytexcel](https://aytexcel.com/products/valerion-visionmaster-max-4k-triple-laser-projector): Discover the Valerion VisionMaster Max: 4K UHD triple-laser projector with 3500 ISO lumens, Dolby Vision, 110% Rec.2020 color, and Google TV. Perfect for immersive home theaters in India
-  Updated: 2026-06-15T06:23:04Z
+  Updated: 2026-07-01T22:10:25Z
   Vendor: AYTEXCEL 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Instagram_posts_8.jpg?v=1762949490
-  Price: ₹517,000.00 INR
+  Price: ₹480,000.00 INR
 - [JMGO O2S Ultra](https://aytexcel.com/products/jmgo-o2s-ultra): 0.16:1 Ultra Short Throw: Enjoy a massive 100" display from only 6.6 inches away from the wall — a breakthrough design that’s even shorter than 0.25:1, delivering more flexibility in any space. Bright in Any Light: With cinematic brightness of 3600 ISO lumens, it delivers vivid, true-to-life images that remain stunningly clear and vibrant in any lighting condition. Bread-Maker Size, Only 10 lbs: Compact, lightweight, and designed to fit perfectly on most TV stands or cabinets — saving space without compromising your big-screen experience. MALC™ RGB Pure Triple Laser 3.0-Powered 4K Resolution: it delivers ultra-clear 4K visuals—crisp even in daylight—with lifelike colors and delicate details for a vivid, immersive viewing experience. Enjoy the Latest Google TV: Instant access to all your streaming platform: Netflix, Disney+, Youtube 4K, Hulu, Prime Video- no extra boxes or dongles needed.
   Updated: 2026-06-15T19:11:39Z
   Vendor: AYTEXCEL 
@@ -787,47 +773,47 @@ Our expert team is standing by to help you choose the perfect projector and scre
 
 ## Collections
 
-- [JMGO Laser Projectors in India | Aytexcel](https://aytexcel.com/collections/jmgo-projectors): Explore JMGO 4K laser projectors at Aytexcel, including, JMGO N3 4K, O2S Ultra, N1S Infinity, N1S Ultra, N1S Ultimate, and Picoflix, with MALC triple‑laser optics and home‑theater‑grade performance.
+- [JMGO](https://aytexcel.com/collections/jmgo-projectors): Explore JMGO 4K laser projectors at Aytexcel, including, JMGO N3 4K, O2S Ultra, N1S Infinity, N1S Ultra, N1S Ultimate, and Picoflix, with MALC triple‑laser optics and home‑theater‑grade performance.
   Updated: 2026-06-02T10:15:05Z
   Total Products: 9
-- [Formovie - Award Winning 4K Laser Projectors | Aytexcel](https://aytexcel.com/collections/formovie-projectors): Shop Formovie 4K UST laser projectors and mini home‑theater projectors at Aytexcel, including Theater, Cinema Edge, R1, V10, and compact models for premium big‑screen viewing
-  Updated: 2026-04-01T08:08:12Z
+- [Formovie](https://aytexcel.com/collections/formovie-projectors): Shop Formovie 4K UST laser projectors and mini home‑theater projectors at Aytexcel, including Theater, Cinema Edge, R1, V10, and compact models for premium big‑screen viewing
+  Updated: 2026-07-01T09:06:33Z
   Total Products: 11
-- [Dangbei India 4K Projectors | Mars Pro 2, MP1 Max - Aytexcel](https://aytexcel.com/collections/dangbei_4k-laser-projector): Official Dangbei India projectors: Mars Pro 2 (2400 lumens), MP1 Max (3100 lumens), Atom—Google TV, Netflix, fast pan-India delivery with Vividstorm ALR screens!
+- [Dangbei](https://aytexcel.com/collections/dangbei_4k-laser-projector): Official Dangbei India projectors: Mars Pro 2 (2400 lumens), MP1 Max (3100 lumens), Atom—Google TV, Netflix, fast pan-India delivery with Vividstorm ALR screens!
   Updated: 2026-06-24T13:04:58Z
   Total Products: 5
-- [Vividstorm ALR Projector Screens | Floor Rising UST/Long Throw - Aytexcel](https://aytexcel.com/collections/vividstorm-alr-motorized-floor-screens): Elevate your Valerion VisionMaster Max setup with Vividstorm S PRO ALR screens—motorized floor-rising, 120" 4K/8K, 95% light rejection. Fast India delivery for stunning home theaters!
+- [Vividstorm](https://aytexcel.com/collections/vividstorm-alr-motorized-floor-screens): Elevate your Valerion VisionMaster Max setup with Vividstorm S PRO ALR screens—motorized floor-rising, 120" 4K/8K, 95% light rejection. Fast India delivery for stunning home theaters!
   Updated: 2026-05-07T12:18:08Z
   Total Products: 6
-- [ROKID AR Glasses in India | Aytexcel](https://aytexcel.com/collections/rokid-ar-glasses): Shop ROKID AR smart glasses in India at Aytexcel. Explore models like Rokid Max 2 and AR Joy Pack with advanced AI features, immersive displays, and special discounts.
+- [ROKID](https://aytexcel.com/collections/rokid-ar-glasses): Shop ROKID AR smart glasses in India at Aytexcel. Explore models like Rokid Max 2 and AR Joy Pack with advanced AI features, immersive displays, and special discounts.
   Updated: 2026-03-22T15:01:53Z
   Total Products: 3
-- [Hisense 4K Laser Projectors India | Aytexcel](https://aytexcel.com/collections/hisense-projectors): Browse Hisense 4K laser projectors at Aytexcel, featuring C2 Ultra and other triple‑laser cinema projectors with IMAX Enhanced and Dolby Vision‑ready premium home‑theater performance
+- [Hisense](https://aytexcel.com/collections/hisense-projectors): Browse Hisense 4K laser projectors at Aytexcel, featuring C2 Ultra and other triple‑laser cinema projectors with IMAX Enhanced and Dolby Vision‑ready premium home‑theater performance
   Updated: 2026-06-18T03:29:28Z
   Total Products: 8
-- [4K Ultra Short Throw Projectors India | Aytexcel](https://aytexcel.com/collections/ultra-short-throw-projectors): Shop ultra short throw projectors at Aytexcel, including 4K UST laser projectors and compact models perfect for small rooms, home theaters, and bright‑room setups
+- [Ultra Short Throw Projector](https://aytexcel.com/collections/ultra-short-throw-projectors): Shop ultra short throw projectors at Aytexcel, including 4K UST laser projectors and compact models perfect for small rooms, home theaters, and bright‑room setups
   Updated: 2026-06-18T03:27:50Z
   Total Products: 11
-- [Long Throw Projectors | Buy 4K UHD Home Theater Models - Aytexcel](https://aytexcel.com/collections/long-throw-projectors_buy-4k-uhd-home-theater-model): Shop premium long throw projectors at Aytexcel. Enjoy 4K UHD triple laser models like Hisense M2 Pro (1300 ANSI Lumens) for stunning home theater. Fast delivery across India.
-  Updated: 2026-06-24T13:04:58Z
+- [Long Throw Projector](https://aytexcel.com/collections/long-throw-projectors_buy-4k-uhd-home-theater-model): Shop premium long throw projectors at Aytexcel. Enjoy 4K UHD triple laser models like Hisense M2 Pro (1300 ANSI Lumens) for stunning home theater. Fast delivery across India.
+  Updated: 2026-07-01T10:10:21Z
   Total Products: 17
-- [Best 4K Portable Projectors in India | Aytexcel](https://aytexcel.com/collections/portable-projectors-india): Discover portable projectors at Aytexcel, perfect for travel, bedrooms, and on‑the‑go entertainment, with compact, high‑brightness models for movies, gaming, and presentations.
-  Updated: 2026-06-18T03:29:28Z
+- [Portable Projector](https://aytexcel.com/collections/portable-projectors-india): Discover portable projectors at Aytexcel, perfect for travel, bedrooms, and on‑the‑go entertainment, with compact, high‑brightness models for movies, gaming, and presentations.
+  Updated: 2026-07-01T09:06:33Z
   Total Products: 10
-- [Projector Accessories | Aytexcel](https://aytexcel.com/collections/projector-accessories): Explore projector accessories at Aytexcel: ceiling mounts, floor stands, desktop gimbals, and mounts for UST projectors and projection screens to complete your home‑theater setup.
+- [Accessories](https://aytexcel.com/collections/projector-accessories): Explore projector accessories at Aytexcel: ceiling mounts, floor stands, desktop gimbals, and mounts for UST projectors and projection screens to complete your home‑theater setup.
   Updated: 2026-05-10T11:31:05Z
   Total Products: 6
-- [Buy High-End Projectors in India | 4K UST Laser Projectors - Aytexcel](https://aytexcel.com/collections/projectors): Discover premium high-end projectors in India: Hisense, Dangbei, JMGO, Valerion, Formovie, AWOL along with essential accessories for your projector. Free delivery, 1-year warranty, best prices on laser home theater projectors. Shop now
-  Updated: 2026-06-24T13:04:58Z
+- [Projectors](https://aytexcel.com/collections/projectors): Discover premium high-end projectors in India: Hisense, Dangbei, JMGO, Valerion, Formovie, AWOL along with essential accessories for your projector. Free delivery, 1-year warranty, best prices on laser home theater projectors. Shop now
+  Updated: 2026-07-01T09:06:33Z
   Total Products: 27
-- [Best ALR Screens for Valerion VisionMaster Max | Vividstorm & More - Aytexcel](https://aytexcel.com/collections/best-screens-valerion-visionmaster-max-alr): Pair your Valerion VisionMaster Max with Vividstorm Fusion ALR or Nothing Projector screens—95% light rejection, 120" motorized for 4K HDR. India shipping!
+- [Screens](https://aytexcel.com/collections/best-screens-valerion-visionmaster-max-alr): Pair your Valerion VisionMaster Max with Vividstorm Fusion ALR or Nothing Projector screens—95% light rejection, 120" motorized for 4K HDR. India shipping!
   Updated: 2026-05-07T12:18:08Z
   Total Products: 11
-- [Fscreen Fresnel Projection Screens](https://aytexcel.com/collections/fscreen-fresnel-screens): Shop Fscreen Fresnel ALR projection screens at Aytexcel. Explore Aura and Iris series fixed‑frame & magnetic‑rollable UST and long‑throw screens for home theater and professional setups.
+- [Fscreen](https://aytexcel.com/collections/fscreen-fresnel-screens): Shop Fscreen Fresnel ALR projection screens at Aytexcel. Explore Aura and Iris series fixed‑frame & magnetic‑rollable UST and long‑throw screens for home theater and professional setups.
   Updated: 2026-05-02T06:18:26Z
   Total Products: 3
-- [Valerion Home Theater Projectors | Aytexcel](https://aytexcel.com/collections/valerion-projectors): Shop Valerion VisionMaster home‑theater projectors at Aytexcel, including VisionMaster Plus 2 and VisionMaster PRO 2 models for premium cinematic viewing experiences
-  Updated: 2026-06-15T06:19:38Z
+- [Valerion](https://aytexcel.com/collections/valerion-projectors): Shop Valerion VisionMaster home‑theater projectors at Aytexcel, including VisionMaster Plus 2 and VisionMaster PRO 2 models for premium cinematic viewing experiences
+  Updated: 2026-07-01T10:10:21Z
   Total Products: 3
 - [Featured Collection](https://aytexcel.com/collections/featured-collection)
   Updated: 2026-06-18T03:29:28Z
@@ -836,7 +822,7 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-03-02T12:56:14Z
   Total Products: 0
 - [New Arrivals](https://aytexcel.com/collections/new-arrivals)
-  Updated: 2026-06-19T12:50:55Z
+  Updated: 2026-07-01T10:10:21Z
   Total Products: 6
 - [Best Sellers](https://aytexcel.com/collections/best-sellers)
   Updated: 2026-06-18T03:27:50Z
