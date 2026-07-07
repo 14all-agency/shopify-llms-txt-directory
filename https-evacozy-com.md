@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-10-28T12:54:56Z
 - Contact Email: info@evacozy.com
-- Updated At: 2026-06-29T13:31:02.667Z
+- Updated At: 2026-07-07T00:00:44.384Z
 
 ## Products
 
@@ -743,7 +743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/evacozy-cotton-slippers-winter-plush-boots-for-women-men-2528247.webp?v=1764653277
     Price: $39.99 USD
 - [Fur Lined Chelsea Boots Army Green Memory Foam Elastic Panel | EvaCozy](https://evacozy.com/products/fur-lined-chelsea-boots): Fur-lined Chelsea boots with plush fur interior, memory foam insole & elastic side panels. Brown, Army Green & Black ankle boots. Sizes 36–41.
-  Updated: 2026-06-29T13:10:35Z
+  Updated: 2026-07-03T00:12:37Z
   Vendor: EvaCozy
   Product Type: Fur Lined Chelsea Boots
   Availability: Available
@@ -1573,7 +1573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S117dd7c615774d0684bc4e29fef6197c0.jpg?v=1765630182
     Price: $29.99 USD
 - [Men's EVA Sandals Arch Support Contoured Footbed Anti-Slip | EvaCozy](https://evacozy.com/products/mens-eva-sandals): Men's EVA open sandals with contoured arch-support footbed & anti-slip rubber sole. Black, White & Khaki. Beach, gym & everyday. Sizes 38–45.
-  Updated: 2026-06-29T13:10:36Z
+  Updated: 2026-07-01T12:01:52Z
   Vendor: EvaCozy
   Product Type: Summer Slippers
   Availability: Available
@@ -2225,7 +2225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S57f262542cdc4d2bac164e75b98322e6p.jpg?v=1765641393
     Price: $24.99 USD
 - [Men's Premium Memory Foam House Slippers Hardwood Stairs | EvaCozy](https://evacozy.com/products/mens-memory-foam-house-slippers): Men's premium memory foam slippers with pressure-relief insole & rubber outsole for hardwood, tile & stairs. Black & Gray. Sizes 40–49 (US 8–11.5).
-  Updated: 2026-06-29T13:10:37Z
+  Updated: 2026-06-30T14:52:27Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -3059,7 +3059,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/8993/9001/files/S67ad53208576464a81dd28a9b3ce2c900.jpg?v=1766646351
     Price: $39.99 USD
 - [Waterproof Winter Slippers Memory Foam EVA Unisex Couples | EvaCozy](https://evacozy.com/products/waterproof-winter-slippers): Waterproof winter slippers with memory foam EVA sole & plush cotton lining. Waterproof comfort in EvaCozy. Unisex. Beige & Black. Sizes 36–45.
-  Updated: 2026-06-29T13:10:40Z
+  Updated: 2026-06-30T19:22:31Z
   Vendor: EvaCozy
   Product Type: Winter Slippers
   Availability: Available
@@ -3108,28 +3108,28 @@
 
 ## Collections
 
-- [Cozy Comfort Platform and Winter Slippers Collection](https://evacozy.com/collections/winter-slippers): EvaCozy Cozy Comfort Platform and Winter Slippers feature soft fleece designs and stylish platform looks perfect for warm winter slippers indoors and out.
-  Updated: 2026-06-29T13:10:33Z
-  Total Products: 77
-- [Best  Slippers | Top-Rated Platform & Seasonal Styles - EvaCozy](https://evacozy.com/collections/best--slippers): Shop customer-favorite slippers! Plush platform styles, winter warmth, and summer comfort. Thousands of 5-star reviews. Find your perfect pair!
-  Updated: 2026-06-29T13:10:33Z
-  Total Products: 143
-- [Comfy Platform Flip Flops for Everyday Summer Style](https://evacozy.com/collections/summer-slippers): EvaCozy offers comfy platform flip flops and summer slippers for men and women, featuring lightweight non-slip designs and cozy summer slippers.
-  Updated: 2026-06-29T13:10:33Z
-  Total Products: 63
-- [Slippers On  - Premium Comfort at  Prices | EvaCozy](https://evacozy.com/collections/on-): Shop slippers on  at EvaCozy. Incredible deals on memory foam, waterproof, and luxury slippers. Premium comfort at unbeatable prices.
-  Updated: 2026-06-29T13:10:33Z
+- [Winter](https://evacozy.com/collections/winter-slippers): EvaCozy Cozy Comfort Platform and Winter Slippers feature soft fleece designs and stylish platform looks perfect for warm winter slippers indoors and out.
+  Updated: 2026-07-04T04:47:22Z
+  Total Products: 83
+- [Best  Winter & Summer Slippers and Plush Platform Slippers](https://evacozy.com/collections/best--slippers): Shop customer-favorite slippers! Plush platform styles, winter warmth, and summer comfort. Thousands of 5-star reviews. Find your perfect pair!
+  Updated: 2026-07-04T04:47:22Z
+  Total Products: 152
+- [Summer](https://evacozy.com/collections/summer-slippers): EvaCozy offers comfy platform flip flops and summer slippers for men and women, featuring lightweight non-slip designs and cozy summer slippers.
+  Updated: 2026-06-30T08:02:52Z
+  Total Products: 66
+- [On ](https://evacozy.com/collections/on-): Shop slippers on  at EvaCozy. Incredible deals on memory foam, waterproof, and luxury slippers. Premium comfort at unbeatable prices.
+  Updated: 2026-06-29T14:39:13Z
   Total Products: 14
 - [Slippers](https://evacozy.com/collections/slippers): Discover slippers for every season at EvaCozy. Breathable summer styles and warm winter designs — year-round comfort for indoors and out.
-  Updated: 2026-06-29T13:10:33Z
-  Total Products: 94
-- [Best EVA Slippers Special Offers & Deals – EvaCozy](https://evacozy.com/collections/special-offers): Shop EvaCozy's best EVA slipper deals — anti-slip, soft-sole comfort footwear at special prices. Limited-time offers on top-rated styles.
-  Updated: 2026-06-29T13:10:33Z
+  Updated: 2026-07-04T04:47:22Z
+  Total Products: 99
+- [Special Offers](https://evacozy.com/collections/special-offers): Shop EvaCozy's best EVA slipper deals — anti-slip, soft-sole comfort footwear at special prices. Limited-time offers on top-rated styles.
+  Updated: 2026-06-29T14:39:13Z
   Total Products: 14
 
 ## Blogs
 
-- [Slipper News Blog - Trends & Comfort Tips | EvaCozy](https://evacozy.com/blogs/slipper-news-blog): Slipper news blog with latest footwear trends, comfort tips, style guides, and expert advice. Stay updated on cozy home footwear at EvaCozy.
+- [Slipper News Blog - Latest Trends & Comfort Tips | EvaCozy](https://evacozy.com/blogs/slipper-news-blog): Slipper news blog with latest footwear trends, comfort tips, style guides, and expert advice. Stay updated on cozy home footwear at EvaCozy.
   - [Premium House Slippers 2026 | Luxury Comfort & Style](https://evacozy.com/blogs/slipper-news-blog/ultimate-guide-to-premium-house-slippers): Premium House Slippers 2026 | Luxury Comfort & Style
     Updated: 2026-05-19T07:32:23Z
     Author: EvaCozy
@@ -3354,6 +3354,14 @@
     Updated: 2026-06-26T01:05:46Z
     Author: EvaCozy
     Tags: accommodating fit, couple slippers, cozy home, gift ideas, home comfort, loungewear, matching slippers, non-slip, slippers, unisex
+  - [7 Best Men's Slippers for a Cozy Winter Walk](https://evacozy.com/blogs/slipper-news-blog/7-best-mens-slippers-for-a-cozy-winter-walk): 7 Best Men's Slippers for a Cozy Winter Walk
+    Updated: 2026-06-30T07:20:35Z
+    Author: EvaCozy
+    Tags: best slippers for men, comfortable slippers, cozy, cozy house slippers, men's footwear, men's slippers, slippers, warm indoor footwear, warm indoor slippers, winter, winter shoes, women's slippers
+  - [Best Cozy Slippers: Your Guide to Warm Winter Comfort](https://evacozy.com/blogs/slipper-news-blog/best-cozy-slippers-your-guide-to-warm-winter-comfort): Best Cozy Slippers: Your Guide to Warm Winter Comfort
+    Updated: 2026-07-04T07:00:47Z
+    Author: EvaCozy
+    Tags: best cozy footwear, comfort, cozy house slippers, cozy slippers, men's slippers, slippers, slippers for winter comfort, soft slippers, warm footwear, warm indoor slippers, winter, women's slippers
 
 ## Store Pages
 
@@ -3362,13 +3370,13 @@
 - [Privacy Policy | Your Personal Information & Data Protection - EvaCozy](https://evacozy.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-05-31T04:59:26Z
 - [About - EvaCozy](https://evacozy.com/pages/about-evacozy): EvaCozy – Cozy Winter & Summer Slippers for Everyday Home Comfort EvaCozy is a comfort-focused footwear brand dedicated to creating high-quality wi...
-  Updated: 2026-06-24T04:17:05Z
+  Updated: 2026-07-03T04:30:21Z
 - [FAQ - EvaCozy](https://evacozy.com/pages/faq): Frequently Asked Questions 1. What types of slippers does EvaCozy ? EvaCozy specializes in winter and summer slippers designed for ultimate ind...
   Updated: 2026-06-10T13:33:32Z
 - [Discover EvaCozy Partner Shops – Trusted Online Stores](https://evacozy.com/pages/discover-evacozy-partner-shops): Discover EvaCozy Partner Shops EvaCozy is more than a brand — we're building a network of trusted online stores, each offering something unique. Wh...
   Updated: 2026-06-11T03:26:24Z
-- [Shipping Info – EvaCozy](https://evacozy.com/pages/shipping-info): Shipping Info 1. Shipping Methods & Costs FREE Standard Shipping on all orders — no minimum purchase required.Express Shipping available for $9.99....
-  Updated: 2026-06-15T05:43:16Z
+- [Shipping Info – EvaCozy](https://evacozy.com/pages/shipping-info): Shipping Info 1. Shipping Methods & Costs FREE Standard Shipping on all orders — no minimum purchase required.Express Shipping available for $5 USD...
+  Updated: 2026-06-29T14:55:34Z
 - [Return & Refund Policy – EvaCozy](https://evacozy.com/pages/return-refund): Return & Refund We have a 30-day return policy, which means you have 30 days after receiving your item to request a return. To be eligible for a re...
   Updated: 2026-06-15T05:45:23Z
 - [EvaCozy – Shop Comfort Footwear](https://evacozy.com/pages/links): .eva-links{max-width:480px;margin:0 auto;padding:32px 16px;font-family:Georgia,serif;text-align:center}.eva-links img{width:120px;margin-bottom:16p...
@@ -3379,7 +3387,7 @@
 - [Privacy Policy](https://evacozy.com/policies/privacy-policy)
   Updated: 2026-06-13T15:13:37+07:00
 - [Shipping Policy](https://evacozy.com/policies/shipping-policy)
-  Updated: 2026-06-15T12:42:51+07:00
+  Updated: 2026-06-29T21:54:54+07:00
 - [Refund Policy](https://evacozy.com/policies/refund-policy)
   Updated: 2026-06-20T18:55:34+07:00
 - [Terms of Service](https://evacozy.com/policies/terms-of-service)
