@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-12-08T07:33:19Z
 - Contact Email: post@zentrale-autoglas.de
-- Updated At: 2026-06-26T00:00:37.731Z
+- Updated At: 2026-07-07T00:00:40.092Z
 
 ## Collections
 
@@ -19,7 +19,7 @@
 
 - [Autoglas-Ratgeber](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber)
   - [Windschutzscheibe austauschen: Kosten richtig einschätzen](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/windschutzscheibe-austauschen-kosten-richtig-einschtzen)
-    Updated: 2026-01-30T09:22:09Z
+    Updated: 2026-07-05T10:02:40Z
     Author: Björn Bastian Behnke
   - [Heckscheibe geplatzt - was nun?](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/heckscheibe-geplatzt-was-nun)
     Updated: 2026-01-30T09:25:21Z
@@ -28,10 +28,10 @@
     Updated: 2026-01-30T09:27:37Z
     Author: EComposer
   - [Oldtimer-Restauration: Was tun, wenn es keine passenden Scheiben gibt?](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/oldtimer-restauration-was-tun-passende-scheiben)
-    Updated: 2026-01-30T09:29:58Z
+    Updated: 2026-07-05T14:45:26Z
     Author: EComposer
   - [Steinschlag bei Mietwagen: Wer zahlt die Reparatur?](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/steinschlag-bei-mietwagen-wer-zahlt-die-reparatur)
-    Updated: 2026-01-30T09:32:11Z
+    Updated: 2026-07-05T11:17:07Z
     Author: EComposer
   - [Steinschlagreparaturset: Leichte Schäden am Glas selbst beseitigen](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/steinschlagreparaturset-leichte-schden-am-glas-selbst-beseitigen)
     Updated: 2026-01-30T09:36:29Z
@@ -43,7 +43,7 @@
     Updated: 2026-01-29T20:22:16Z
     Author: EComposer
   - [Autoglas-Sonderanfertigung: Ein Handwerk für Spezialisten](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/autoglas-sonderanfertigung-handwerk-spezialisten)
-    Updated: 2026-01-30T09:41:12Z
+    Updated: 2026-07-05T09:23:37Z
     Author: EComposer
   - [Scheibenwischwasser nachfüllen - passend zur Saison](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/scheibenwischwasser-nachfuellen-passend-zur-saison)
     Updated: 2026-01-30T16:49:44Z
@@ -91,6 +91,12 @@
   - [Wo finde ich eine Werkstatt für Busglas-Reparatur in meiner Nähe?](https://www.zentrale-autoglas.de/blogs/autoglas-faq/werkstatt-busglas-reparatur-naehe)
     Updated: 2026-06-22T16:59:16Z
     Author: EComposer
+  - [Welche Firmen in meiner Nähe tauschen Wohnmobil-Scheiben aus?](https://www.zentrale-autoglas.de/blogs/autoglas-faq/wohnmobil-scheiben-in-meiner-naehe)
+    Updated: 2026-07-02T10:03:18Z
+    Author: EComposer
+  - [Welche Werkstätten in meiner Nähe bieten Oldtimer-Scheibenreparaturen an?](https://www.zentrale-autoglas.de/blogs/autoglas-faq/werkstaetten-oldtimer-scheiben-in-meiner-naehe)
+    Updated: 2026-07-02T10:02:09Z
+    Author: EComposer
 
 ## Store Pages
 
@@ -119,7 +125,7 @@
 - [Impressum](https://www.zentrale-autoglas.de/pages/impressum)
   Updated: 2026-05-18T10:04:32Z
 - [Großhandel Autoglas](https://www.zentrale-autoglas.de/pages/grosshandel-autoglas)
-  Updated: 2026-05-20T14:55:22Z
+  Updated: 2026-06-30T20:32:30Z
 - [Datenschutzinformationen für Geschäftspartner](https://www.zentrale-autoglas.de/pages/datenschutzinformation_fuer_geschaeftspartner)
   Updated: 2025-04-23T07:13:22Z
 - [Datenschutzinformationen für Bewerber](https://www.zentrale-autoglas.de/pages/datenschutzinformation_fuer_bewerber)
