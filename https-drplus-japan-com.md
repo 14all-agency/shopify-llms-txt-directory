@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2022-09-30T02:43:56Z
 - Contact Email: help@drplus-usa.com
-- Updated At: 2026-06-29T00:00:42.210Z
+- Updated At: 2026-07-07T00:00:43.045Z
 
 ## Products
 
@@ -206,11 +206,17 @@
   - [高濃度ビタミンCの効果を解説 | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/高濃度ビタミンcの効果を最大化する摂り方のコツ): 高濃度ビタミンCの効果を解説 | Dr.Plus formula
     Updated: 2026-06-18T00:00:06Z
     Author: Dr.Plus Formula
+  - [ビタミンC吸収率を高める方法 | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/ビタミンc吸収率を高める飲み方と注意点): ビタミンC吸収率を高める方法 | Dr.Plus formula
+    Updated: 2026-07-01T01:00:03Z
+    Author: Dr.Plus Formula
   - [リポソームカプセルの選び方と特徴 | 効果を実感するコツ | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/リポソームカプセルの特徴と選び方-失敗しない基礎知識): リポソームカプセルの選び方と特徴 | 効果を実感するコツ | Dr.Plus formula
     Updated: 2026-06-17T01:00:07Z
     Author: Dr.Plus Formula
   - [健康サプリメントの選び方｜成分と効果で選ぶ | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/健康サプリメントの選び方-理想の成分と確認ポイント): 健康サプリメントの選び方｜成分と効果で選ぶ | Dr.Plus formula
     Updated: 2026-06-24T18:24:48Z
+    Author: Dr.Plus Formula
+  - [カムカムパウダー 成分で選ぶ | 使い方と満足度 | Dr.Plus formula](https://drplus-japan.com/blogs/ブログ/カムカムパウダーの使い方と選び方-成分を見て失敗しない): カムカムパウダー 成分で選ぶ | 使い方と満足度 | Dr.Plus formula
+    Updated: 2026-07-01T01:00:05Z
     Author: Dr.Plus Formula
 
 ## Store Pages
