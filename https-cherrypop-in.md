@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-05-30T08:15:58Z
 - Contact Email: support@cherrypop.in
-- Updated At: 2026-06-30T00:00:37.057Z
+- Updated At: 2026-07-07T00:00:38.890Z
 
 ## Products
 
