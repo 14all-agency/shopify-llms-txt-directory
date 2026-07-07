@@ -6,12 +6,12 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2026-05-31T11:13:18Z
 - Contact Email: svalcph@hotmail.com
-- Updated At: 2026-06-29T00:00:36.710Z
+- Updated At: 2026-07-07T00:00:39.065Z
 
 ## Products
 
 - [Minimalist Dome Cap - Unisex København Style - SVAL CPH](https://svalcph.com/products/flat-bill-cap-embroidery): Buy Minimalist Dome Cap - Unisex København Style for only DKK320.00 at SVAL CPH!
-  Updated: 2026-06-14T12:58:29Z
+  Updated: 2026-06-30T17:25:55Z
   Vendor: SVAL CPH
   Product Type: Hats
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/minimalist-dome-cap-unisex-koebenhavn-styleminimalist-dome-cap-unisex-koebenhavn-styleone-sizeredhatssval-cph1611034734374103373-204827739649074745041724sval-cp-5090223.jpg?v=1781111015
     Price: kr 249.00 DKK
 - [Classic Danish Cap: Five Panel Minimalist Style - SVAL CPH](https://svalcph.com/products/5-panel-cap-embroidery): Buy Classic Danish Cap: Five Panel Minimalist Style for only DKK350.00 at SVAL CPH!
-  Updated: 2026-06-14T12:59:01Z
+  Updated: 2026-06-30T17:25:37Z
   Vendor: SVAL CPH
   Product Type: Hats
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/classic-danish-cap-five-panel-minimalist-styleclassic-danish-cap-five-panel-minimalist-styleone-sizeredhatssval-cph4634126379186101044-204825457375761182245977s-9075529.jpg?v=1781111018
     Price: kr 279.00 DKK
 - [Danish Minimalist Organic Cotton Hoodie - SVAL CPH](https://svalcph.com/products/unisex-heavy-blend™-hooded-sweatshirt): Buy Danish Minimalist Organic Cotton Hoodie for only DKK799.00 at SVAL CPH!
-  Updated: 2026-06-19T08:22:04Z
+  Updated: 2026-06-30T17:25:09Z
   Vendor: SVAL CPH
   Product Type: Hoodie
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/danish-minimalist-organic-cotton-hoodiedanish-minimalist-organic-cotton-hoodieblackshoodiesval-cph4857967918229948303-204812541024546913821346sval-cph-7230140.jpg?v=1781110997
     Price: kr 599.00 DKK
 - [SVAL Oversized High Neck T-Shirt - SVAL CPH](https://svalcph.com/products/unisex-heavy-oversize-tee): Buy SVAL Oversized High Neck T-Shirt for only DKK399.00 at SVAL CPH!
-  Updated: 2026-06-14T13:00:07Z
+  Updated: 2026-06-30T17:24:41Z
   Vendor: SVAL CPH
   Product Type: T-Shirt
   Availability: Available
@@ -187,7 +187,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/sval-oversized-high-neck-t-shirtsval-oversized-high-neck-t-shirtnavyst-shirtsval-cph998338340656882671-204823532416182778409633sval-cph-7453647.jpg?v=1781111003
     Price: kr 299.00 DKK
 - [Arctic Hoodie by SVAL CPH Scandinavian Brand: Premium Cotton Unisex Hoodie from Denmark - SVAL CPH](https://svalcph.com/products/unisex-organic-relaxed-slammer-hoodie): Buy Arctic Hoodie by SVAL CPH Scandinavian Brand: Premium Cotton Unisex Hoodie from Denmark for only DKK799.00 at SVAL CPH!
-  Updated: 2026-06-14T13:00:41Z
+  Updated: 2026-06-30T17:23:19Z
   Vendor: SVAL CPH
   Product Type: Hoodie
   Availability: Available
@@ -213,7 +213,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/arctic-hoodie-by-sval-cph-scandinavian-brand-premium-cotton-unisex-hoodie-from-denmarkarctic-hoodie-by-sval-cph-scandinavian-brand-premium-cotton-unisex-hoodie--9539478.jpg?v=1781111001
     Price: kr 599.00 DKK
 - [Premium Core Tee - Unisex Relaxed Fit - Scandinavian Style Tshirt - SVAL CPH](https://svalcph.com/products/unisex-heavy-oversize-tee-1): Buy Premium Core Tee - Unisex Relaxed Fit - Scandinavian Style Tshirt for only DKK379.00 at SVAL CPH!
-  Updated: 2026-06-14T13:01:17Z
+  Updated: 2026-06-30T17:23:00Z
   Vendor: SVAL CPH
   Product Type: T-Shirt
   Availability: Available
@@ -315,7 +315,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/premium-core-tee-unisex-relaxed-fit-scandinavian-style-tshirtpremium-core-tee-unisex-relaxed-fit-scandinavian-style-tshirtsandst-shirtsval-cph182724772646934216-3957267.jpg?v=1781110998
     Price: kr 299.00 DKK
 - [Nordic Crewneck Sweater - SVAL CPH - SVAL CPH](https://svalcph.com/products/unisex-ultra-cotton-long-sleeve-tee): Buy Nordic Crewneck Sweater - SVAL CPH for only DKK450.00 at SVAL CPH!
-  Updated: 2026-06-14T13:01:47Z
+  Updated: 2026-06-30T17:22:09Z
   Vendor: SVAL CPH
   Product Type: Long-sleeve
   Availability: Available
@@ -361,7 +361,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/nordic-crewneck-sweater-sval-cphnordic-crewneck-sweater-sval-cphsnavylong-sleevesval-cph6473041531566160157-204819631603344328881490sval-cph-8069419.jpg?v=1781111005
     Price: kr 349.00 DKK
 - [SVAL Classic Tee – Unisex Jersey T-Shirt - SVAL CPH](https://svalcph.com/products/unisex-jersey-short-sleeve-tee): Buy SVAL Classic Tee – Unisex Jersey T-Shirt for only DKK330.00 at SVAL CPH!
-  Updated: 2026-06-19T10:01:12Z
+  Updated: 2026-06-30T17:42:33Z
   Vendor: SVAL CPH
   Product Type: T-Shirt
   Availability: Available
@@ -399,7 +399,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/sval-classic-tee-unisex-jersey-t-shirtsval-classic-tee-unisex-jersey-t-shirtblackxst-shirtsval-cph11416550091995077935-204833495833873447102770sval-cph-6688772.jpg?v=1781815036
     Price: kr 330.00 DKK
 - [SVAL Classic Hustle Hoodie – Unisex Heavy Blend Sweatshirt - SVAL CPH](https://svalcph.com/products/unisex-heavy-blend™-hooded-sweatshirt-1): Buy SVAL Classic Hustle Hoodie – Unisex Heavy Blend Sweatshirt for only DKK449.00 at SVAL CPH!
-  Updated: 2026-06-20T21:02:16Z
+  Updated: 2026-06-30T17:28:49Z
   Vendor: SVAL CPH
   Product Type: Hoodie
   Availability: Available
@@ -437,7 +437,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/sval-classic-hustle-hoodie-unisex-heavy-blend-sweatshirtsval-classic-hustle-hoodie-unisex-heavy-blend-sweatshirtblackshoodiesval-cph1885322660664433355-20482106-7353369.jpg?v=1781908640
     Price: kr 449.00 DKK
 - [SVAL Heavy Cotton Tee Hour Glass – Unisex - SVAL CPH](https://svalcph.com/products/unisex-heavy-cotton-tee): Buy SVAL Heavy Cotton Tee Hour Glass – Unisex for only DKK330.00 at SVAL CPH!
-  Updated: 2026-06-21T20:39:22Z
+  Updated: 2026-06-30T17:19:38Z
   Vendor: SVAL CPH
   Product Type: T-Shirt
   Availability: Available
@@ -477,22 +477,22 @@
 
 ## Collections
 
-- [Minimalistisk Streetwear fra København – SVAL CPH](https://svalcph.com/collections/frontpage): Shop SVAL CPH's udvalgte streetwear. Minimalistisk dansk design, premium kvalitet og tidløse styles fra København. Fri fragt på ordrer over 500 DKK.
+- [Danish Streetwear: København Minimalist Collection](https://svalcph.com/collections/frontpage): Shop SVAL CPH's udvalgte streetwear. Minimalistisk dansk design, premium kvalitet og tidløse styles fra København. Fri fragt på ordrer over 500 DKK.
   Updated: 2026-06-20T20:45:46Z
   Total Products: 3
-- [LAUNCH 001 – Eksklusivt Streetwear Drop fra SVAL CPH](https://svalcph.com/collections/launch-001): Shop SVAL CPH's første drop. Minimalistisk streetwear fra København i begrænset antal. Tidløst design, premium kvalitet.
+- [Exclusive SVAL CPH Streetwear Drop 001](https://svalcph.com/collections/launch-001): Shop SVAL CPH's første drop. Minimalistisk streetwear fra København i begrænset antal. Tidløst design, premium kvalitet.
   Updated: 2026-06-14T12:56:07Z
   Total Products: 0
-- [Kasketter | Streetwear Caps i Dansk Design – SVAL CPH](https://svalcph.com/collections/kasketter): Shop minimalistiske streetwear-kasketter fra SVAL CPH. Designet i København. Justerbar pasform, premium kvalitet. Shop nu med hurtig levering.
+- [Danish Street Style: Minimalist Hats for Copenhagen Fashion](https://svalcph.com/collections/kasketter): Shop minimalistiske streetwear-kasketter fra SVAL CPH. Designet i København. Justerbar pasform, premium kvalitet. Shop nu med hurtig levering.
   Updated: 2026-06-14T12:58:59Z
   Total Products: 2
-- [Hoodies & Sweatshirts | Oversized Streetwear – SVAL CPH](https://svalcph.com/collections/hoodies): Shop oversized hoodies og sweatshirts fra SVAL CPH. Premium bomuld, dansk design. Unisex str. S–3XL. Hurtig levering. Shop nu!
+- [Danish Hoodie Designs for Oversized Streetwear: Premium Quality Collection](https://svalcph.com/collections/hoodies): Shop oversized hoodies og sweatshirts fra SVAL CPH. Premium bomuld, dansk design. Unisex str. S–3XL. Hurtig levering. Shop nu!
   Updated: 2026-06-19T11:44:52Z
   Total Products: 4
-- [Organiske Oversized T-Shirts i Premium Kvalitet – SVAL CPH](https://svalcph.com/collections/t-shirts): Shop SVAL CPH's organiske oversized t-shirts. GOTS-certificeret bomuld, minimalistisk dansk design. Fri fragt over 499 kr.
+- [Danish Fashion: Eco Cotton Tees for Streetwear & Oversized Generations](https://svalcph.com/collections/t-shirts): Shop SVAL CPH's organiske oversized t-shirts. GOTS-certificeret bomuld, minimalistisk dansk design. Fri fragt over 499 kr.
   Updated: 2026-06-20T21:26:31Z
   Total Products: 4
-- [Streetwear - SVAL CPH](https://svalcph.com/collections/streetwear): Streetwear - SVAL CPH
+- [Streetwear](https://svalcph.com/collections/streetwear): Streetwear - SVAL CPH
   Updated: 2026-06-20T21:26:31Z
   Total Products: 5
 
