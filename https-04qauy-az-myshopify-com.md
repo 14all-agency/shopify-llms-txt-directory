@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-27T06:44:44Z
 - Contact Email: codylockardjesse@gmail.com
-- Updated At: 2026-06-29T22:14:18.330Z
+- Updated At: 2026-07-07T00:00:22.761Z
 
 ## Products
 
@@ -34,8 +34,277 @@
   Product Type: Digital Product
   Availability: Available
   Price: $19.00 USD
+- [Velli Paisley Low Sneakers — Red Bandana Low-Top by Velli Kicks](https://04qauy-az.myshopify.com/products/velli-paisley-low): Shop the Velli Paisley Low — bold red bandana paisley print low-top sneakers. West Coast streetwear culture meets premium craftsmanship. $169.
+  Updated: 2026-06-29T22:42:08Z
+  Vendor: Velli Kicks
+  Product Type: Sneakers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/4316/0508/files/3208.png?v=1782736008
+  - [Red](https://04qauy-az.myshopify.com/products/velli-paisley-low?variant=47012284760252)
+    Availability: Available
+    Price: $169.00 USD
+  - [Black](https://04qauy-az.myshopify.com/products/velli-paisley-low?variant=47012284793020)
+    Availability: Not Available
+    Price: $169.00 USD
+  - [Blue](https://04qauy-az.myshopify.com/products/velli-paisley-low?variant=47012284825788)
+    Availability: Not Available
+    Price: $169.00 USD
+  - [Green](https://04qauy-az.myshopify.com/products/velli-paisley-low?variant=47012284858556)
+    Availability: Not Available
+    Price: $169.00 USD
+  - [Navy](https://04qauy-az.myshopify.com/products/velli-paisley-low?variant=47012284891324)
+    Availability: Not Available
+    Price: $169.00 USD
+  - [Yellow](https://04qauy-az.myshopify.com/products/velli-paisley-low?variant=47012284924092)
+    Availability: Not Available
+    Price: $169.00 USD
+- [Velli Kicks The Don Low Black Red | Kody Velli Official Shoes](https://04qauy-az.myshopify.com/products/velli-kicks-the-don-low-black-red): Official Velli Kicks by Kody Velli. The Don Low in Black/Red — custom streetwear sneakers, limited drop. Rep the crown.
+  Updated: 2026-06-29T23:04:12Z
+  Vendor: Velli Kicks
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/4316/0508/files/2297.webp?v=1782735520
+  Price: $149.99 USD
+- [Velli Kicks The Don Signature Series BloodyVelli Edition | Limited](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch): Velli Kicks Signature Series — The Don BloodyVelli Edition. Premium leather, blood splatter finish, custom portrait art. Limited drop.
+  Updated: 2026-06-30T01:00:28Z
+  Vendor: Velli Kicks
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/4316/0508/files/2304.webp?v=1782735518
+  - [Black](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288266428)
+    Availability: Available
+    Price: $249.99 USD
+  - [Yellow](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288299196)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Green](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288331964)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Blue](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288364732)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Red](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288397500)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Bronze](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288430268)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Gold](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288463036)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Gray](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288495804)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Orange](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288528572)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Pink](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288561340)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Purple](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288594108)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Silver](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288626876)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Rose gold](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288659644)
+    Availability: Not Available
+    Price: $249.99 USD
+  - [Camouflage](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch?variant=47012288692412)
+    Availability: Not Available
+    Price: $249.99 USD
+- [Velli Kicks The Don Flagship KodyVelli Paisley High-Top | Limited](https://04qauy-az.myshopify.com/products/velli-kicks-the-don-flagship-kodyvelli-paisley-high-top): Velli Kicks Flagship Edition — KodyVelli The Don paisley high-top. Premium leather, custom portrait art, Red & Blue colorways. Limited drop.
+  Updated: 2026-06-29T23:08:56Z
+  Vendor: Velli Kicks
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/4316/0508/files/3211_3903a835-d861-4bf6-a3c5-ee1c901ddf5e.png?v=1782737880
+  Price: $279.99 USD
+- [Velli Kicks BLOOD High-Top Blood Sweat Tears Edition | Streetwear](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition): Velli Kicks B.L.O.O.D. Edition — white leather with blood splatter finish. Bold streetwear high-tops. Limited drop by KodyVelli.
+  Updated: 2026-06-29T22:54:56Z
+  Vendor: Velli Kicks
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/4316/0508/files/3209_651663aa-e3c9-4a4c-bca2-e3ef0d0030b5.png?v=1782737880
+  - [3XL](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302160060)
+    Availability: Available
+    Price: $229.99 USD
+  - [L](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302192828)
+    Availability: Available
+    Price: $229.99 USD
+  - [2XL](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302225596)
+    Availability: Available
+    Price: $229.99 USD
+  - [XL](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302258364)
+    Availability: Available
+    Price: $229.99 USD
+  - [M](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302291132)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [14](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302323900)
+    Availability: Available
+    Price: $229.99 USD
+  - [S](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302356668)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [XS](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302389436)
+    Availability: Available
+    Price: $229.99 USD
+  - [13](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302422204)
+    Availability: Available
+    Price: $229.99 USD
+  - [12](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302454972)
+    Availability: Available
+    Price: $229.99 USD
+  - [11](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302487740)
+    Availability: Available
+    Price: $229.99 USD
+  - [10](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302520508)
+    Availability: Available
+    Price: $229.99 USD
+  - [9](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302553276)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [8](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302586044)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [7](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302618812)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [2](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302651580)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [3](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302684348)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [2.5](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302717116)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [1.5](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302749884)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [1](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302782652)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [0.5](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302815420)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [0](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302848188)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [8XL](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302880956)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [7XL](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302913724)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [3.5](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302946492)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [4](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012302979260)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [4.5](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012303012028)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [5](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012303044796)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [6](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012303077564)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [5.5](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012303110332)
+    Availability: Not Available
+    Price: $229.99 USD
+  - [6.5](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition?variant=47012303143100)
+    Availability: Not Available
+    Price: $229.99 USD
+- [Velli Kicks Red Paisley High-Top Step Different Edition | Streetwear](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition): Velli Kicks Red Paisley High-Top — all-red premium leather, custom paisley print, classic silhouette. Step Different. Stand Out.
+  Updated: 2026-06-29T22:49:02Z
+  Vendor: Velli Kicks
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/4316/0508/files/3208_43577644-6da9-41b8-b16e-110daa7a598d.png?v=1782737880
+  - [Red](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition?variant=47012290887868)
+    Availability: Available
+    Price: $199.99 USD
+  - [Rose gold](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition?variant=47012290920636)
+    Availability: Available
+    Price: $199.99 USD
+  - [Silver](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition?variant=47012290953404)
+    Availability: Available
+    Price: $199.99 USD
+  - [Purple](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition?variant=47012290986172)
+    Availability: Available
+    Price: $199.99 USD
+  - [Pink](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition?variant=47012291018940)
+    Availability: Available
+    Price: $199.99 USD
+  - [Orange](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition?variant=47012291051708)
+    Availability: Available
+    Price: $199.99 USD
+  - [Gray](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition?variant=47012291084476)
+    Availability: Available
+    Price: $199.99 USD
+  - [Gold](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition?variant=47012291117244)
+    Availability: Available
+    Price: $199.99 USD
+  - [Bronze](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition?variant=47012291150012)
+    Availability: Available
+    Price: $199.99 USD
+- [Velli Kicks Red Paisley Low Step Different Low Edition | Streetwear](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition): Velli Kicks Red Paisley Low — all-red premium leather low-top, custom paisley print. Step Different. Stand Out. Limited drop.
+  Updated: 2026-06-29T22:51:30Z
+  Vendor: Velli Kicks
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0781/4316/0508/files/3208_43577644-6da9-41b8-b16e-110daa7a598d.png?v=1782737880
+  - [14](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012289937596)
+    Availability: Available
+    Price: $179.99 USD
+  - [13](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012289970364)
+    Availability: Available
+    Price: $179.99 USD
+  - [12](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290003132)
+    Availability: Available
+    Price: $179.99 USD
+  - [11](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290035900)
+    Availability: Available
+    Price: $179.99 USD
+  - [9](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290068668)
+    Availability: Available
+    Price: $179.99 USD
+  - [10](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290101436)
+    Availability: Available
+    Price: $179.99 USD
+  - [8](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290134204)
+    Availability: Available
+    Price: $179.99 USD
+  - [7](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290166972)
+    Availability: Available
+    Price: $179.99 USD
+  - [XS](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290199740)
+    Availability: Available
+    Price: $179.99 USD
+  - [M](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290232508)
+    Availability: Available
+    Price: $179.99 USD
+  - [S](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290265276)
+    Availability: Available
+    Price: $179.99 USD
+  - [L](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290298044)
+    Availability: Available
+    Price: $179.99 USD
+  - [XL](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290330812)
+    Availability: Available
+    Price: $179.99 USD
+  - [2XL](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290363580)
+    Availability: Available
+    Price: $179.99 USD
+  - [3XL](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition?variant=47012290396348)
+    Availability: Available
+    Price: $179.99 USD
 - [Real Killer Graphic T-Shirt — Velli In Red Horror Streetwear Tee](https://04qauy-az.myshopify.com/products/real-killer-graphic-t-shirt-velli-in-red-horror-streetwear-tee): This heavyweight garment-dyed tee carries a dark, cinematic energy — a hooded figure bathed in red, framed by bold type that reads like a vintage record cover. The shirt’s soft, lived-in color and relaxed fit make it feel like an instant favorite; the image brings a raw, streetwise mood that suits late-night walks, underground shows, or layered looks for colder months. Wear it when you want to signal intensity without shouting: it sits well under a worn denim jacket or alone with black jeans, adding drama and edge to an otherwise simple outfit.Product features- 100% ring-spun US cotton for durability and comfort- Garment-dyed for a soft, lived-in color and texture- Heavyweight 6.1 oz fabric with relaxed, pre-shrunk fit- Tubular knit construction (no side seams) with double-needle stitched seams- Available S–4XL with sewn-in label; choice of many colorsCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Comfort Colors® 1717, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Honduras Care instructions: Machine wash: cold (max 30C or 90F), Do not bleach, Tumble dry: low heat, Iron, steam or dry: low heat, Do not dryclean
-  Updated: 2026-06-29T16:17:17Z
+  Updated: 2026-06-30T03:59:45Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -246,37 +515,37 @@
 - [Home page](https://04qauy-az.myshopify.com/collections/frontpage)
   Updated: 2026-06-29T13:09:22Z
   Total Products: 1
-- [Digital Products: AI Prompts, Templates & E-Books - My Store](https://04qauy-az.myshopify.com/collections/digital-products): Shop our digital products including AI prompt packs, business templates, automation workflows, e-books, and online courses. Instant download.
+- [Digital Products](https://04qauy-az.myshopify.com/collections/digital-products): Shop our digital products including AI prompt packs, business templates, automation workflows, e-books, and online courses. Instant download.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 14
-- [Print-on-Demand T-Shirts, Hoodies & Custom Merch - My Store](https://04qauy-az.myshopify.com/collections/print-on-demand): Shop custom print-on-demand t-shirts, hoodies, hats, mugs, and stickers. Unique designs printed fresh for every order.
+- [Print-on-Demand](https://04qauy-az.myshopify.com/collections/print-on-demand): Shop custom print-on-demand t-shirts, hoodies, hats, mugs, and stickers. Unique designs printed fresh for every order.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 13
-- [Dropshipping Products: Electronics, Home, Fitness & More - My Store](https://04qauy-az.myshopify.com/collections/dropshipping): Shop top dropshipping products including electronics, home & kitchen, pet supplies, fitness gear, and beauty accessories. Fast shipping.
+- [Dropshipping](https://04qauy-az.myshopify.com/collections/dropshipping): Shop top dropshipping products including electronics, home & kitchen, pet supplies, fitness gear, and beauty accessories. Fast shipping.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 4
-- [Premium Coaching, Consulting & Membership Services - My Store](https://04qauy-az.myshopify.com/collections/premium-services): Access premium coaching, consulting, memberships, and exclusive community services. Expert guidance tailored to your goals.
+- [Premium Services](https://04qauy-az.myshopify.com/collections/premium-services): Access premium coaching, consulting, memberships, and exclusive community services. Expert guidance tailored to your goals.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 2
-- [High-Ticket Trending Products: Premium & Luxury Items - My Store](https://04qauy-az.myshopify.com/collections/high-ticket-items): Shop our top 28 high-ticket trending products. Premium electronics, luxury accessories, exclusive programs, and VIP memberships.
+- [High-Ticket Items](https://04qauy-az.myshopify.com/collections/high-ticket-items): Shop our top 28 high-ticket trending products. Premium electronics, luxury accessories, exclusive programs, and VIP memberships.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 0
-- [Bloody Velli Official Merch | Kody Velli Artist Brand](https://04qauy-az.myshopify.com/collections/bloody-velli-merch): Official merch from rap artist Kody Velli aka Bloody Velli. Exclusive streetwear drops — tees, hoodies, hats and more.
-  Updated: 2026-06-29T13:09:22Z
+- [Bloody Velli Official Merch](https://04qauy-az.myshopify.com/collections/bloody-velli-merch): Official merch from rap artist Kody Velli aka Bloody Velli. Exclusive streetwear drops — tees, hoodies, hats and more.
+  Updated: 2026-06-29T22:44:57Z
   Total Products: 1
-- [Velli Kicks Premium Sneakers — Step Different, Stand Out](https://04qauy-az.myshopify.com/collections/velli-kicks): Shop Velli Kicks — premium custom sneakers rooted in West Coast street culture. Paisley, B.L.O.O.D., and Founder Edition styles available.
+- [Velli Kicks](https://04qauy-az.myshopify.com/collections/velli-kicks): Shop Velli Kicks — premium custom sneakers rooted in West Coast street culture. Paisley, B.L.O.O.D., and Founder Edition styles available.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 6
-- [Paisley Sneakers Collection — West Coast Style by Velli Kicks](https://04qauy-az.myshopify.com/collections/paisley-collection): Shop the Velli Kicks Paisley Collection — bold bandana-print sneakers in Red, Blue, Black, White & Green. Step Different. Stand Out.
+- [Paisley Collection](https://04qauy-az.myshopify.com/collections/paisley-collection): Shop the Velli Kicks Paisley Collection — bold bandana-print sneakers in Red, Blue, Black, White & Green. Step Different. Stand Out.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 1
-- [B.L.O.O.D. Sneaker Collection — Blood Sweat Tears by Velli Kicks](https://04qauy-az.myshopify.com/collections/blood-collection): Shop the Velli Kicks B.L.O.O.D. Collection — bold artistic sneakers inspired by hard work, dedication, and hustle. Limited availability.
+- [B.L.O.O.D. Collection](https://04qauy-az.myshopify.com/collections/blood-collection): Shop the Velli Kicks B.L.O.O.D. Collection — bold artistic sneakers inspired by hard work, dedication, and hustle. Limited availability.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 0
-- [Legacy Luxury Sneakers Collection — Premium Leather by Velli Kicks](https://04qauy-az.myshopify.com/collections/legacy-collection): Shop the Velli Kicks Legacy Collection — luxury leather sneakers in elevated colorways. Premium craftsmanship meets street culture.
+- [Legacy Collection](https://04qauy-az.myshopify.com/collections/legacy-collection): Shop the Velli Kicks Legacy Collection — luxury leather sneakers in elevated colorways. Premium craftsmanship meets street culture.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 0
-- [Signature Sneakers Collection — Flagship Designs by Velli Kicks](https://04qauy-az.myshopify.com/collections/signature-collection): Shop the Velli Kicks Signature Collection — flagship sneaker designs that define the brand. Original styles built to set the standard.
+- [Signature Collection](https://04qauy-az.myshopify.com/collections/signature-collection): Shop the Velli Kicks Signature Collection — flagship sneaker designs that define the brand. Original styles built to set the standard.
   Updated: 2026-06-29T13:09:22Z
   Total Products: 1
 
