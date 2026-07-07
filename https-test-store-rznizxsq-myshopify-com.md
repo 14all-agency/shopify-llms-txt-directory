@@ -1,17 +1,23 @@
 # test_store (https://test-store-rznizxsq.myshopify.com)
 
+> this is store description 
+
 - Domain: https://test-store-rznizxsq.myshopify.com
 - Locale: en
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2026-04-18T14:21:18Z
 - Contact Email: vinaychilveri143@gmail.com
-- Updated At: 2026-06-30T00:00:36.061Z
+- Contact Phone: 4343
+- Address: 12, baner pune
+- Updated At: 2026-07-07T07:29:02.666Z
+
+custom information 
 
 ## Products
 
 - [The Inventory Not Tracked Snowboard](https://test-store-rznizxsq.myshopify.com/products/the-inventory-not-tracked-snowboard)
-  Updated: 2026-06-26T03:35:02Z
+  Updated: 2026-07-03T23:27:51Z
   Vendor: test_store
   Product Type: snowboard
   Availability: Available
@@ -23,13 +29,6 @@
   Product Type: 
   Availability: Available
   Price: $885.95 USD
-- [The Compare at Price Snowboard](https://test-store-rznizxsq.myshopify.com/products/the-compare-at-price-snowboard)
-  Updated: 2026-06-26T03:35:02Z
-  Vendor: test_store
-  Product Type: snowboard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/snowboard_sky.png?v=1777026425
-  Price: $785.95 USD
 - [The Collection Snowboard: Hydrogen](https://test-store-rznizxsq.myshopify.com/products/the-collection-snowboard-hydrogen)
   Updated: 2026-06-26T03:35:02Z
   Vendor: Hydrogen Vendor
@@ -44,8 +43,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/Main.jpg?v=1777026425
   Price: $885.95 USD
-- [ Plans Ski Wax](https://test-store-rznizxsq.myshopify.com/products/-plans-ski-wax)
-  Updated: 2026-06-26T03:35:02Z
+- [ Plans Ski Wax meta title](https://test-store-rznizxsq.myshopify.com/products/-plans-ski-wax):  plans ski wax meta description
+  Updated: 2026-07-02T23:49:19Z
   Vendor: test_store
   Product Type: accessories
   Availability: Available
@@ -138,6 +137,14 @@
   Updated: 2026-06-08T18:37:35Z
   Total Products: 17
 
+## Blogs
+
+- [AI Generated Blogs](https://test-store-rznizxsq.myshopify.com/blogs/mo-ai-generated-blogs)
+  - [Tata Tiago: Features, Safety & Value Your Quick Guide](https://test-store-rznizxsq.myshopify.com/blogs/mo-ai-generated-blogs/tata-tiago-guide): Tata Tiago: Features, Safety & Value Your Quick Guide
+    Updated: 2026-07-03T11:36:16Z
+    Author: Blog
+    Tags: abc, pqr
+
 ## Store Pages
 
 - [Contact](https://test-store-rznizxsq.myshopify.com/pages/contact)
@@ -149,6 +156,8 @@
 
 - [Privacy Policy](https://test-store-rznizxsq.myshopify.com/policies/privacy-policy)
   Updated: 2026-04-18T10:21:27-04:00
+
+https://facebook.com
 
 ## Optional
 
@@ -231,3 +240,5 @@ your agent can transact everywhere.
 - Shopify developer platform: https://shopify.dev
 - UCP specification: https://ucp.dev
 - Shop skill (recommended for personal shopping agents): https://shop.app/SKILL.md
+
+custom footer
