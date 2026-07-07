@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2026-03-15T11:22:50Z
 - Contact Email: contact.needs@coretelk.com
-- Updated At: 2026-06-30T00:00:46.760Z
+- Updated At: 2026-07-07T00:00:47.503Z
 
 At NEEDs, we provide everything you need — from premium mobile accessories to everyday essentials. We specialise in high-quality products including phone cases, chargers, cables, and accessories, with plans to expand into toys, footwear, bags, clothing, and solar lighting.
 
@@ -31,7 +31,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002774B-1.jpg?v=1773856227
     Price: £14.37 GBP
 - [YJ33 Bluetooth-compatible Earphones Noise Reduction Wireless Earhooks with Touch Control Charging Case](https://coretelk.com/products/yj33-bluetooth-compatible-earphones-noise-reduction-wireless-earhooks-with-touch-control-charging-case): 【Open-Ear Design】The YJ33 features an open-ear design for a comfortable and awareness-enhancing listening experience. 【Long Battery Life】Enjoy extended use with a mature standby time of up to 180 days, perfect for infrequent users. 【Bluetooth-compatible 5.4 Connectivity】Equipped with the latest Bluetooth-compatible 5.4 technology for stable and efficient wireless connection. 【High-resolution Driver Unit】HiFi Sound &Three Frequency Balance, large-sized driver,vast sound field, metal plating diaphragm, expressive high analysis, bringing a high frequency of agile and pleasant ears 【Full Color Smart Screen, Rich Function to Control】Full color touch screen, call to answer, music playback, and the functions such as EQ settings are in control Specifications: Model: YJ33 Bluetooth-compatible Version: 5.4 Transmission Range: 10-15 meters Charging Time: Approximately 2 hours Charging Case Capacity: 600mAh Earbuds Battery Capacity: 80mAh Standby Time: 180 days Charging Port: Type-C Frequency Response: 20Hz-20KHz Package included 1 x Charging Case 2 x Earphones 1 x Charging Cable 1 x Chinese and English Manual Specifications Brand N/A Color Black Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.153kg Volume Weight 0.111kg Package Length 15.300cm Package Width 9.000cm Package Height 3.600cm
-  Updated: 2026-06-29T16:09:55Z
+  Updated: 2026-06-30T04:10:04Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6805002758A-1.jpg?v=1773882764
   Price: £14.30 GBP
 - [W600 Multifunction AI Smart Glasses HD Video Recording Bluetooth-compatible Music Eyeglasses](https://coretelk.com/products/w600-multifunction-ai-smart-glasses-hd-video-recording-bluetooth-compatible-music-eyeglasses): 【AI-Powered Photography】Capture and analyze images with built-in ChatGPT language model for intelligent object recognition and responses. 【High-Definition Camera】720P resolution camera with software stabilization for clear, steady first-person perspective photos and videos. 【Seamless Connectivity】Equipped with Bluetooth-compatible 5.4 for a stable 10-meter range, supporting music playback and hands-free calls. 【Lightweight Comfort】Weighing only 35g, the TR resilient material frame ensures a comfortable, barely-there feel for all-day wear. 【Multifunctional Smart Glasses】Features include AI interaction, photo/video capture, voice recording, local music playback, and smart voice controls. 【Stylish Design】Sleek, aerodynamic frame with a matte black finish combines technology with fashion-forward aesthetics. Specifications: Chip: Shenju W20 (low-power, low-latency) Camera Resolution: 720P Control: 2 buttons Photo/Video Transfer: Wi-Fi supported Frame Material: TR resilient material with matte black coating AI Module: ChatGPT integration Charging Input: DC 5V ± 0.25V Bluetooth-compatible: Version 5.4, 10m range Battery Capacity: 260mAh Charging Method: Magnetic charging Charging Time: 70 minutes App: LensMoo Weight: 35g Package included 1 x Smart Glasses 1 x Charging Cable 1 x English Instruction Manual 1 x Cleaning Cloth Specifications Brand N/A ColorStyle A Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.190kg Volume Weight 0.275kg Package Length 18.800cm Package Width 7.500cm Package Height 8.700cm
-  Updated: 2026-06-02T21:58:28Z
+  Updated: 2026-07-03T10:53:48Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -103,11 +103,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Anti Blue Light](https://coretelk.com/products/w600-multifunction-ai-smart-glasses-hd-video-recording-bluetooth-compatible-music-eyeglasses?variant=57506387231094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002699A-1.jpg?v=1773882783
-    Price: £37.58 GBP
+    Price: £39.55 GBP
   - [Sunglasses](https://coretelk.com/products/w600-multifunction-ai-smart-glasses-hd-video-recording-bluetooth-compatible-music-eyeglasses?variant=57506387263862)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002699B-1.jpg?v=1773882785
-    Price: £37.58 GBP
+    Price: £39.55 GBP
 - [M89 Real Time Translation AI Smart Glasses 2MP HD Camera Bluetooth-compatible Calling Music Eyeglasses](https://coretelk.com/products/m89-real-time-translation-ai-smart-glasses-2mp-hd-camera-bluetooth-compatible-calling-music-eyeglasses): 【High-Resolution Camera】Equipped with a 2MP camera, offering industry-leading image quality for clear, stable photos and videos. 【Long-lasting Battery】290mAh high-capacity battery with pure cobalt cells, retaining 93-96% capacity after 300 charge cycles. 【Advanced Safety Features】Precision G3J protection IC safeguards against overcharging and over-discharging, meeting international safety standards. 【AI-Powered Functionality】Includes AI voice assistant, translation, object recognition, and music control for a smart user experience. 【Versatile Connectivity】Supports BLE 5.4 and WiFi 6 for seamless connectivity and data transfer. 【Extended Standby Time】Up to 30-35 days of theoretical standby time when powered on, and 2-3 months in shipping mode. Specifications: Material: Eco-friendly PC1414 (suitable for oil spray process) Weight: 39g Chipset: BK7258 (480MHz) GPU: JPEG Codec/H.264 Encoder (1280x720/15FPS) RAM: 64KB Storage: 512MB Flash (expandable up to 4GB) Camera: 2MP Bluetooth-compatible: BLE 5.4 WiFi: WiFi 6 (IEEE 802.11b/g/n/ax 1x1 standard/2.4GHz) Audio: 1 silicon microphone, 2 speakers (1508) Battery: 290mAh Polymer (Pure Cobalt + Precision G3J) Charging: Wired, 1-1.5 hours charging time Controls: 2 physical buttons, 1 touch button LED Flashlight: 1 Usage Time: 1-3 days normal use Supported Languages: Chinese, English (Chinese voice wake-up) Package included 1 x Smart AI Glasses 1 x Charging Cable (with Data Transfer Function) 1 x English and Chinese Manual 1 x Cleaning Cloth Specifications Brand N/A Certificate CE-RED,CE-RoHS,FCC-SDoC Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.112kg Volume Weight 0.185kg Package Length 17.500cm Package Width 8.000cm Package Height 5.900cm
   Updated: 2026-05-30T07:21:40Z
   Vendor: Needs
@@ -116,7 +116,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6804000874A-1.jpg?v=1773882808
   Price: £23.07 GBP
 - [M02S AI Translation Smart Glasses with Camera IP65 Waterproof Video Recording Music Eyeglasses](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses): 【Multifunctional Smart Eyewear】Integrates high-definition camera, AI voice assistant, Bluetooth-compatible calling, and directional audio output for an enhanced tech-enabled experience. 【AI-Powered Assistance】Supports advanced language models like ChatGPT, offering instant voice-activated chat and intelligent image recognition. 【Precision Audio Technology】Dual-speaker design with directional sound output ensures privacy and superior audio quality. 【High-Quality Image Capture】Built-in 8MP camera allows hands-free photo and video recording from a first-person perspective. 【Durable Construction】IP65 water-resistant rating protects against sweat and rain, suitable for various environments. 【Extended Battery Life】290mAh battery provides up to 7 hours of music playback or 4 hours of talk time on a single charge. 【Customizable Lenses】Compatible with  lenses (not included), making it suitable for users with visual impairments. Specifications: Frame Material: TR90 (frame), ABS + PMMA (temple) Water Resistance: IP65 Platform: JL7018F + Allwinner V821 (camera controller) Bluetooth-compatible Version: 5.3 (dual-mic ENC) Speaker: 15*10*2 Antenna: Wire antenna Bluetooth-compatible Range: ≥10 meters in open space Battery Capacity: 290mAh Charging Time: 2 hours Internal Storage: 4GB Camera: 8MP for Sony 219 sensor Photo Format: JPG, 1080P 30fps Video Format: AVI, 1080P 30fps Audio Recording: OGG format App: HeyCyan (6-month free trial for members) Dimensions: 146mm (width) x 160mm (length) x 53mm (height) Lens Width: 53mm Bridge Width: 15mm Weight: 35g Package included 1 x Smart Glasses 1 x Charging Cable 1 x Cleaning Cloth 1 x English Manual Specifications Brand N/A Certificate CE-RED,CE-RoHS ColorStyle B Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.202kg Volume Weight 0.137kg Package Length 17.000cm Package Width 6.000cm Package Height 6.000cm
-  Updated: 2026-06-15T03:08:09Z
+  Updated: 2026-07-03T10:53:01Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -124,11 +124,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Plano Lens](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses?variant=57506417213814)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899004099A-1_3eb98127-68e8-41fd-9d99-3a2835d601d5.jpg?v=1773882845
-    Price: £38.41 GBP
+    Price: £40.13 GBP
   - [Sunglasses Lens](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses?variant=57506417181046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899004099B-1.jpg?v=1773882843
-    Price: £38.41 GBP
+    Price: £40.13 GBP
 - [Wireless Noise Cancelling Earbuds Dual Mic Bluetooth 5.0 - NEEDs](https://coretelk.com/products/fineblue-wireless-stereo-tws-earphones-dual-mic-anc-noise-cancellation-bluetooth-compatible-headsets-1): Shop wireless noise cancelling earbuds with dual mic and Bluetooth 5.0. TWS stereo sound. Free shipping available at NEEDs.
   Updated: 2026-06-01T03:40:48Z
   Vendor: Needs
@@ -259,7 +259,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6803000662F-1.jpg?v=1773884106
     Price: £46.78 GBP
 - [GY500 Touch Control AI Translation Smart Glasses Anti UV Sunglasses Bluetooth-compatible Headset Eyeglasses](https://coretelk.com/products/gy500-touch-control-ai-translation-smart-glasses-anti-uv-sunglasses-bluetooth-compatible-headset-eyeglasses): 【High-Quality Audio】Advanced driver units deliver full-range, immersive sound with Bluetooth-compatible 5.4 for stable, low-latency transmission. 【AI Translation】Integrated AI translation feature for seamless communication across languages. 【Hands-Free Operation】Enjoy wireless calling with clear sound quality and open acoustics, perfect for multitasking. 【Long Battery Life】Impressive 5-6 hour battery life with fast charging support for uninterrupted use. 【Versatile Use Cases】Ideal for driving, cycling, mountain climbing, fishing, travel, business, and daily wear. 【Smart Features】Supports Bluetooth-compatible calling, music playback, voice assistant, remote photo capture, and AI translation. 【Protective Lenses】UV400 protection, anti-glare, sandproof, and corrosion-resistant for various environments. Specifications: Model: GY500 Chip: Bluetrum AB5656C Battery Capacity: 55mAh + 55mAh Charging Method: Magnetic charging Bluetooth-compatible Version: BLE 5.4 Bluetooth-compatible Protocols: A2DP, HFP Operation: Touch control Transmission Distance: 10M Water Resistance: Daily water resistance Material: ABS + PC Rated Input Voltage: DC 5V Rated Input Charging Current: 50mA * 2 Lens Material: PC coated Translation App: Hyper MZT Package included 1 x Smart Eyeglasses 1 x Charging Cable 1 x English Instruction Manual 1 x Storage Bag 1 x Cleaning Cloth Specifications Brand N/A Certificate CE-RED,CE-RoHS,FCC-ID ColorStyle A Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.190kg Volume Weight 0.176kg Package Length 17.500cm Package Width 7.500cm Package Height 6.000cm
-  Updated: 2026-06-01T01:40:27Z
+  Updated: 2026-07-03T10:50:54Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -267,17 +267,17 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Clear Frame Gradient Purple Lens](https://coretelk.com/products/gy500-touch-control-ai-translation-smart-glasses-anti-uv-sunglasses-bluetooth-compatible-headset-eyeglasses?variant=57506717663606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002782A-1_f2097103-4a25-4d93-b93e-1305dea19221.jpg?v=1773884142
-    Price: £18.21 GBP
+    Price: £18.41 GBP
   - [Matte Black Frame Grey Lens](https://coretelk.com/products/gy500-touch-control-ai-translation-smart-glasses-anti-uv-sunglasses-bluetooth-compatible-headset-eyeglasses?variant=57506717630838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002782B-1.jpg?v=1773884140
-    Price: £18.21 GBP
+    Price: £18.41 GBP
   - [Brown Frame Tan Lens](https://coretelk.com/products/gy500-touch-control-ai-translation-smart-glasses-anti-uv-sunglasses-bluetooth-compatible-headset-eyeglasses?variant=57506717696374)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002782C-1.jpg?v=1773884144
-    Price: £18.21 GBP
+    Price: £18.41 GBP
 - [GV-90 AI Translation Smart Glasses Touch Color Changing Lens HD Audio Bluetooth-compatible Music Eyeglasses](https://coretelk.com/products/gv-90-ai-translation-smart-glasses-touch-color-changing-lens-hd-audio-bluetooth-compatible-music-eyeglasses): 【Advanced Bluetooth-compatible Connectivity】Equipped with Bluetooth-compatible 5.4 technology and the AB5632B chip from Bluetrum, ensuring stable connections and lag-free transmission with an impressive 10-meter range. 【Smart Liquid Crystal Lenses】Features innovative touch-controlled liquid crystal lenses with UV400 protection, allowing you to adjust the tint with a simple slide on the temple. 【High-Fidelity Audio】Enjoy crystal-clear sound quality for both music playback and calls, enhancing your audio experience throughout the day. 【AI Translation Capability】Integrated with the Hyper MZT app, these smart glasses can translate between 68 languages (with continuous updates), making communication across language barriers effortless. 【Comfortable Design】Crafted with PC frame and temples, these lightweight smart glasses ensure comfort for extended wear while delivering cutting-edge functionality. Specifications: Frame and Temple Material: PC Lens: Glass liquid crystal with UV400 Chip: Bluetrum AB5632B Bluetooth-compatible Version: 5.4 Bluetooth Range: 10 meters Bluetooth-compatible Protocols: A2DP, HFP Battery Capacity: 150mAh Charging Input: DC 5V Charging Method: Magnetic charging Charging Time: ≤1 hour Music Playback Time: Approx. 6 hours (at 80% volume) Translation App: Hyper MZT Supported Languages: 68 (with ongoing updates) Package included 1 x Smart Glasses 1 x Charging Cable 1 x English Instruction Manual 1 x Storage Bag 1 x Cleaning Cloth Specifications Brand N/A Color Red Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.274kg Volume Weight 0.223kg Package Length 18.000cm Package Width 8.500cm Package Height 6.500cm
-  Updated: 2026-06-01T09:04:41Z
+  Updated: 2026-07-03T10:54:07Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -285,11 +285,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Blue](https://coretelk.com/products/gv-90-ai-translation-smart-glasses-touch-color-changing-lens-hd-audio-bluetooth-compatible-music-eyeglasses?variant=57506719400310)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002773A-1.jpg?v=1773884157
-    Price: £26.81 GBP
+    Price: £27.67 GBP
   - [Red](https://coretelk.com/products/gv-90-ai-translation-smart-glasses-touch-color-changing-lens-hd-audio-bluetooth-compatible-music-eyeglasses?variant=57506719433078)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002773B-1.jpg?v=1773884159
-    Price: £26.81 GBP
+    Price: £27.67 GBP
 - [M01S Real Time Translation AI Smart Glasses Voice Call Music Playback Multi-function Eyeglasses](https://coretelk.com/products/m01s-real-time-translation-ai-smart-glasses-voice-call-music-playback-multi-function-eyeglasses): 【AI-Powered Photography】Equipped for Sony IMX219 500W pixel camera, capable of capturing 2000W pixel photos and 1080p 30fps videos for high-quality imaging. 【Smart Voice Interaction】Features AI object recognition, AI dialogue, and AI voice wake-up, enhancing user experience with intelligent interactions. 【Translation Capabilities】Offers real-time speech translation and conversation translation, breaking down language barriers effortlessly. 【Immersive Audio Experience】Dual speakers with independent amplifiers provide superior sound quality for music playback and voice calls. 【Long-lasting Battery】220mAh battery supports up to 7 hours of music playback, 3 hours of talk time, and 4-7 days of standby, ensuring extended use. 【Versatile Functionality】Supports video recording, photography, audio recording, music playback, voice calls, and OTA upgrades for continuous improvement. 【Enhanced Connectivity】Bluetooth-compatible 5.3 and WiFi 4 support ensure stable connections and efficient data transfer for various applications. Specifications: Chip: JL7018F Bluetooth-compatible Version: V5.3 WiFi: V821/WiFi 4 Bluetooth-compatible Range: >10m Camera: Sony IMX219, 500W pixels Video Resolution: 1080p, 30fps Storage: 16Gb SD NAND Battery: 220mAh/3.8V, 3C fast charging Charging Method: 2-pin magnetic charging Charging Time: 1.5 hours Standby Time: 4-7 days Talk Time: 3 hours Photo/Video Duration: >1 hour Music Playback Time: 7 hours Water Resistance: Daily life waterproof Features: Dual microphone noise reduction, video stabilization, wear detection Package included 1 x Smart Glasses 2 x Nose Pads 1 x Cable 1 x English and Chinese Manual 1 x Cleaning Cloth 1 x Storage Pouch Specifications Brand N/A Certificate CE-RED,CE-RoHS,FCC-SDoC Color Transparent Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.241kg Volume Weight 0.190kg Package Length 17.600cm Package Width 7.100cm Package Height 6.800cm
   Updated: 2026-06-02T20:54:27Z
   Vendor: Needs
@@ -313,7 +313,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6804000871D-1.jpg?v=1773884176
     Price: £32.65 GBP
 - [W600 Multifunction AI Smart Glasses HD Video Recording Bluetooth-compatible Music Eyeglasses](https://coretelk.com/products/w600-multifunction-ai-smart-glasses-hd-video-recording-bluetooth-compatible-music-eyeglasses-1): 【AI-Powered Photography】Capture and analyze images with built-in ChatGPT language model for intelligent object recognition and responses. 【High-Definition Camera】720P resolution camera with software stabilization for clear, steady first-person perspective photos and videos. 【Seamless Connectivity】Equipped with Bluetooth-compatible 5.4 for a stable 10-meter range, supporting music playback and hands-free calls. 【Lightweight Comfort】Weighing only 35g, the TR resilient material frame ensures a comfortable, barely-there feel for all-day wear. 【Multifunctional Smart Glasses】Features include AI interaction, photo/video capture, voice recording, local music playback, and smart voice controls. 【Stylish Design】Sleek, aerodynamic frame with a matte black finish combines technology with fashion-forward aesthetics. Specifications: Chip: Shenju W20 (low-power, low-latency) Camera Resolution: 720P Control: 2 buttons Photo/Video Transfer: Wi-Fi supported Frame Material: TR resilient material with matte black coating AI Module: ChatGPT integration Charging Input: DC 5V ± 0.25V Bluetooth-compatible: Version 5.4, 10m range Battery Capacity: 260mAh Charging Method: Magnetic charging Charging Time: 70 minutes App: LensMoo Weight: 35g Package included 1 x Smart Glasses 1 x Charging Cable 1 x English Instruction Manual 1 x Cleaning Cloth Specifications Brand N/A ColorStyle A Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.190kg Volume Weight 0.275kg Package Length 18.800cm Package Width 7.500cm Package Height 8.700cm
-  Updated: 2026-06-02T21:58:29Z
+  Updated: 2026-07-03T10:53:49Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -321,11 +321,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Anti Blue Light](https://coretelk.com/products/w600-multifunction-ai-smart-glasses-hd-video-recording-bluetooth-compatible-music-eyeglasses-1?variant=57506720973174)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002699A-1_c65ddddf-4c94-45f7-9fb2-f2f2db26bff1.jpg?v=1773884197
-    Price: £37.58 GBP
+    Price: £39.55 GBP
   - [Sunglasses](https://coretelk.com/products/w600-multifunction-ai-smart-glasses-hd-video-recording-bluetooth-compatible-music-eyeglasses-1?variant=57506721005942)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002699B-1_eeb6e997-1cc6-4e9a-91f5-e98bb8f51092.jpg?v=1773884199
-    Price: £37.58 GBP
+    Price: £39.55 GBP
 - [M89 Real Time Translation AI Smart Glasses 2MP HD Camera Bluetooth-compatible Calling Music Eyeglasses](https://coretelk.com/products/m89-real-time-translation-ai-smart-glasses-2mp-hd-camera-bluetooth-compatible-calling-music-eyeglasses-1): 【High-Resolution Camera】Equipped with a 2MP camera, offering industry-leading image quality for clear, stable photos and videos. 【Long-lasting Battery】290mAh high-capacity battery with pure cobalt cells, retaining 93-96% capacity after 300 charge cycles. 【Advanced Safety Features】Precision G3J protection IC safeguards against overcharging and over-discharging, meeting international safety standards. 【AI-Powered Functionality】Includes AI voice assistant, translation, object recognition, and music control for a smart user experience. 【Versatile Connectivity】Supports BLE 5.4 and WiFi 6 for seamless connectivity and data transfer. 【Extended Standby Time】Up to 30-35 days of theoretical standby time when powered on, and 2-3 months in shipping mode. Specifications: Material: Eco-friendly PC1414 (suitable for oil spray process) Weight: 39g Chipset: BK7258 (480MHz) GPU: JPEG Codec/H.264 Encoder (1280x720/15FPS) RAM: 64KB Storage: 512MB Flash (expandable up to 4GB) Camera: 2MP Bluetooth-compatible: BLE 5.4 WiFi: WiFi 6 (IEEE 802.11b/g/n/ax 1x1 standard/2.4GHz) Audio: 1 silicon microphone, 2 speakers (1508) Battery: 290mAh Polymer (Pure Cobalt + Precision G3J) Charging: Wired, 1-1.5 hours charging time Controls: 2 physical buttons, 1 touch button LED Flashlight: 1 Usage Time: 1-3 days normal use Supported Languages: Chinese, English (Chinese voice wake-up) Package included 1 x Smart AI Glasses 1 x Charging Cable (with Data Transfer Function) 1 x English and Chinese Manual 1 x Cleaning Cloth Specifications Brand N/A Certificate CE-RED,CE-RoHS,FCC-SDoC Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.112kg Volume Weight 0.185kg Package Length 17.500cm Package Width 8.000cm Package Height 5.900cm
   Updated: 2026-05-30T07:21:41Z
   Vendor: Needs
@@ -334,7 +334,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6804000874A-1_27377caa-40f5-4492-a0e0-4b3f3efc6c90.jpg?v=1773884220
   Price: £23.07 GBP
 - [L802 AI Translator Smart Glasses 8MP Anti Shake Camera Video Recording Music Playback Voice Call Eyeglasses](https://coretelk.com/products/l802-ai-translator-smart-glasses-8mp-anti-shake-camera-video-recording-music-playback-voice-call-eyeglasses): 【AI Translation】Enjoy free 6-month access to APP translation, supporting multiple languages for seamless communication. 【8MP Anti-Shake Camera】Capture clear photos and record 1200P high-definition videos with image stabilization technology. 【Dual Noise-Cancelling Microphones】Experience crystal-clear audio recording and calls with advanced noise reduction system. 【Multifunctional Smart Glasses】Features include Bluetooth-compatible real-time transmission, wear detection, music control, voice assistant, and object recognition. 【Comfortable Design】Ergonomic nose pads and durable hinges provide comfort for prolonged wear without pressure. 【Instant Camera Transformation】Quickly switch from eyewear to camera mode, allowing you to capture memorable moments anytime. Specifications: Dimensions: 155*155mm Materials: Plastic body, metal frame and hinges Camera: 8MP HD camera (IMX219 sensor) Video Recording: 1200P HD with stabilization Audio: Dual directional surround stereo speakers Microphone: Dual mic with noise cancellation Connectivity: Bluetooth-compatible 5.4, Wi-Fi Storage: 4GB Battery: 3.8V/270mAh polymer lithium battery Charging: Magnetic charging, DC 5V Controls: Two physical buttons + touch controls Compatibility: Android 6.0+ and iOS 10.0+ Features: Wear detection, music control, voice assistant, object recognition App: Hey Cyan Processor: JL7018F CPU Additional: Yellow-white LED flash for photo/video, OTG support Note: APP translation is free for half a year.Package included 1 x AI Smart Glasses 1 x Charging Cable 1 x English and Chinese User Manual 1 x Glasses Cloth 1 x Glasses Pouch 1 x Glasses Leather Case Specifications Brand N/A Certificate CE,CE-RoHS ColorStyle B Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.269kg Volume Weight 0.215kg Package Length 20.000cm Package Width 8.000cm Package Height 6.000cm
-  Updated: 2026-06-02T21:39:36Z
+  Updated: 2026-07-03T10:51:04Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -342,11 +342,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Black Frame Black Lens](https://coretelk.com/products/l802-ai-translator-smart-glasses-8mp-anti-shake-camera-video-recording-music-playback-voice-call-eyeglasses?variant=57506722546038)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899003692A-1.jpg?v=1773884241
-    Price: £48.36 GBP
+    Price: £49.18 GBP
   - [Black Frame Clear Lens](https://coretelk.com/products/l802-ai-translator-smart-glasses-8mp-anti-shake-camera-video-recording-music-playback-voice-call-eyeglasses?variant=57506722578806)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899003692B-1.jpg?v=1773884243
-    Price: £48.36 GBP
+    Price: £49.18 GBP
 - [Q8 AI Translator Smart Glasses 8MP HD Camera Video Recording Bluetooth-compatible Call Music Eyeglasses, 32GB Storage](https://coretelk.com/products/q8-ai-translator-smart-glasses-8mp-hd-camera-video-recording-bluetooth-compatible-call-music-eyeglasses-32gb-storage): 【High-Definition Camera】Equipped with an 8MP 4K HD camera, featuring dual CCD noise reduction and anti-shake chips to ensure stable and clear image capture. Perfect for taking photos and recording videos with exceptional quality. 【AI Translation】Advanced AI translation capability supports real-time translation across multiple languages, making communication effortless in various international settings. Also features voice note functionality for quick and easy note-taking. 【Adaptive Lenses】Innovative auto-dimming lens technology intelligently adjusts transparency to adapt to different lighting conditions, ensuring optimal visibility and eye comfort in any environment. 【Immersive Audio】Integrated high-quality dual-channel stereo speakers deliver an immersive audio experience, perfect for enjoying music, podcasts, or hands-free calls with crystal clear sound. 【Long-lasting Battery】Powered by a 290mAh high-capacity battery, these smart glasses support up to 8 hours of continuous use, making them ideal for all-day wear without frequent charging. Specifications: Video Resolution: 4K Wireless Connectivity: Bluetooth-compatible 5.3 Battery Capacity: 290mAh Storage: 32GB Charging Method: Magnetic charging Battery Life: about 8 hours Standby Time: 15 days Lens Size: 50mm x 40mm Material: PC+ABS Package included 1 x Smart Glasses 1 x Charging Cable 1 x Cleaning Cloth 1 x English and Chinese Manual Specifications Bluetooth Yes Bluetooth Version V5.0 Brand N/A Camera 8 MP Certificate CE,CE-EMC ColorStyle A Connectivity Bluetooth 5.0 Material ABS,PC Packaging Type Colored Box ROM 2GB User Manual (Language) English and Chinese Gross Weight 0.190kg Volume Weight 0.152kg Package Length 17.000cm Package Width 8.000cm Package Height 5.000cm
   Updated: 2026-05-30T17:28:32Z
   Vendor: Needs
@@ -355,7 +355,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6803000642A-1.jpg?v=1773884268
   Price: £42.73 GBP
 - [M02S AI Translation Smart Glasses with Camera IP65 Waterproof Video Recording Music Eyeglasses](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses-1): 【Multifunctional Smart Eyewear】Integrates high-definition camera, AI voice assistant, Bluetooth-compatible calling, and directional audio output for an enhanced tech-enabled experience. 【AI-Powered Assistance】Supports advanced language models like ChatGPT, offering instant voice-activated chat and intelligent image recognition. 【Precision Audio Technology】Dual-speaker design with directional sound output ensures privacy and superior audio quality. 【High-Quality Image Capture】Built-in 8MP camera allows hands-free photo and video recording from a first-person perspective. 【Durable Construction】IP65 water-resistant rating protects against sweat and rain, suitable for various environments. 【Extended Battery Life】290mAh battery provides up to 7 hours of music playback or 4 hours of talk time on a single charge. 【Customizable Lenses】Compatible with  lenses (not included), making it suitable for users with visual impairments. Specifications: Frame Material: TR90 (frame), ABS + PMMA (temple) Water Resistance: IP65 Platform: JL7018F + Allwinner V821 (camera controller) Bluetooth-compatible Version: 5.3 (dual-mic ENC) Speaker: 15*10*2 Antenna: Wire antenna Bluetooth-compatible Range: ≥10 meters in open space Battery Capacity: 290mAh Charging Time: 2 hours Internal Storage: 4GB Camera: 8MP for Sony 219 sensor Photo Format: JPG, 1080P 30fps Video Format: AVI, 1080P 30fps Audio Recording: OGG format App: HeyCyan (6-month free trial for members) Dimensions: 146mm (width) x 160mm (length) x 53mm (height) Lens Width: 53mm Bridge Width: 15mm Weight: 35g Package included 1 x Smart Glasses 1 x Charging Cable 1 x Cleaning Cloth 1 x English Manual Specifications Brand N/A Certificate CE-RED,CE-RoHS ColorStyle B Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.202kg Volume Weight 0.137kg Package Length 17.000cm Package Width 6.000cm Package Height 6.000cm
-  Updated: 2026-06-15T03:08:10Z
+  Updated: 2026-07-03T10:53:01Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -363,18 +363,18 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Plano Lens](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses-1?variant=57506724610422)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899004099A-1_d18a9e58-9d17-4f27-a1b3-0adb94a40492.jpg?v=1773884300
-    Price: £38.41 GBP
+    Price: £40.13 GBP
   - [Sunglasses Lens](https://coretelk.com/products/m02s-ai-translation-smart-glasses-with-camera-ip65-waterproof-video-recording-music-eyeglasses-1?variant=57506724577654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899004099B-1_bf9b32fe-5a70-4f64-831f-295381136c41.jpg?v=1773884298
-    Price: £38.41 GBP
+    Price: £40.13 GBP
 - [L801 AI Smart Glasses 8MP Camera Video Recording Music Playback Voice Call Translation Eyeglasses](https://coretelk.com/products/l801-ai-smart-glasses-8mp-camera-video-recording-music-playback-voice-call-translation-eyeglasses): 【AI-Powered Translation】Enjoy free 6-month access to app-based translation services, supporting multiple languages for seamless communication. 【High-Quality Camera】Equipped with an 8MP camera featuring image stabilization for crisp photos and 1200P HD video recording. 【Dual Microphone System】Enhanced noise reduction ensures clear audio capture for recordings and calls. 【Multifunctional Smart Glasses】Combines photography, video recording, music playback, voice calls, and AI-assisted features in one sleek device. 【Comfortable Design】Features a comfortable nose pad for extended wear and durable hinges for smooth opening and closing. 【Immersive Audio】Dual directional surround stereo speakers provide an exceptional audio experience. Specifications: Dimensions: 150*155mm Material: Plastic body with metal hinges Camera: 8MP IMX219 sensor with image stabilization Video Quality: 1200P HD Audio: Dual microphones with noise reduction, high-quality speakers Connectivity: Bluetooth-compatible 5.4, Wi-Fi Battery: 3.8V/270mAh polymer lithium battery Charging: Magnetic charging Storage: 4GB Compatibility: Android 6.0+ and iOS 10.0+ Controls: Two physical buttons + touch controls Additional Features: Wear detection, music control, voice assistant, object recognition App: Hey Cyan Processor: JL7018F CPU Note: APP translation is free for half a year.Package included 1 x AI Smart Glasses 1 x Charging Cable 1 x English and Chinese User Manual 1 x Glasses Cloth 1 x Glasses Pouch 1 x Glasses Leather Case 1 x Set of Nose Pads Specifications Brand N/A Certificate CE,CE-RoHS Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.269kg Volume Weight 0.215kg Package Length 20.000cm Package Width 8.000cm Package Height 6.000cm
-  Updated: 2026-06-02T21:44:29Z
+  Updated: 2026-07-03T10:50:58Z
   Vendor: Needs
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899003693A-1.jpg?v=1773884322
-  Price: £48.36 GBP
+  Price: £49.18 GBP
 - [M88 AI Smart Glasses 2MP Camera HD Video Recording Bluetooth-compatible Eyeglasses Built In LED Flashlight](https://coretelk.com/products/m88-ai-smart-glasses-2mp-camera-hd-video-recording-bluetooth-compatible-eyeglasses-built-in-led-flashlight): 【High-Resolution Camera】Equipped with a 2MP camera, offering industry-leading image quality for clear, stable photos and videos. 【Advanced Battery Technology】Features a pure cobalt core with Seiko G3J protection IC, providing a large 290mAh capacity and maintaining 93-96% capacity after 300 charge cycles. 【Versatile Functionality】Incorporates AI voice assistant, photo/video capture, voice recording, music control, calling, AI translation, and smart object recognition. 【Enhanced Visibility】Includes an LED flashlight designed to international standards, assisting with photo/video capture in low light conditions. 【Comfortable Design】Weighing only 45g, these smart glasses offer a lightweight, user-friendly experience with touch controls and physical buttons. 【Long-lasting Performance】Provides 1-3 days of normal use, with a theoretical standby time of 30-35 days and a shipping mode standby time of 2-3 months. 【Multi-language Support】Offers voice reminders in Chinese and English, with app support for over 30 languages and AI translation for 10 languages. Specifications: Chipset: BK7258 (480MHz) Camera: 2MP Bluetooth-compatible: BLE 5.4 Wi-Fi: Wi-Fi 6 (IEEE 802.11b/g/n/ax 1x1 standard/2.4GHz) Memory: 16MB ROM, 64KB RAM, 4GB external FLASH storage (expandable up to 4GB) Audio: 1 silicon microphone, 2 speakers (1508) Battery: 290mAh polymer (pure cobalt + Seiko G3J) Charging: Wired, 1-1.5 hours charging time Controls: 2 physical buttons, 1 touch key LED Flashlight: Built In Weight: 45g Material: Environmentally friendly PC1414 (suitable for oil spraying process) Package included 1 x Smart AI Glasses 1 x Pair of Spare Lenses 1 x Charging Cable (with Data Transfer Function) 1 x English and Chinese Manual 1 x Cleaning Cloth Specifications Brand N/A Certificate CE-RED,FCC-SDoC ColorStyle B Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English and Chinese Gross Weight 0.168kg Volume Weight 0.158kg Package Length 17.000cm Package Width 8.000cm Package Height 5.200cm
   Updated: 2026-06-02T21:19:37Z
   Vendor: Needs
@@ -444,7 +444,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6814000878A-1.jpg?v=1773884490
   Price: £23.95 GBP
 - [GT-33 AI Translation Smart Glasses Anti Blue Light Eyeglasses Support Bluetooth-compatible Music / Call](https://coretelk.com/products/gt-33-ai-translation-smart-glasses-anti-blue-light-eyeglasses-support-bluetooth-compatible-music-call): 【High-Quality Audio】Premium driver units deliver full-range, immersive sound with Bluetooth-compatible 5.4 for stable, lag-free transmission. 【AI Translation】Supports 68 languages (continuously updated) via the hyper MZT app, making it ideal for international travel and business. 【Blue Light Protection】PC lenses with blue light filtering technology protect your eyes during extended use. 【Versatile Use】Perfect for driving, cycling, mountain climbing, fishing, travel, business meetings, and daily wear. 【Comfortable Fit】New temple design with spring hinge adapts to different head shapes for enhanced flexibility and comfort. 【Long Battery Life】Enjoy up to 6 hours of continuous music playback at 80% volume, with fast charging support for uninterrupted use. Specifications: Frame Material: PC + Metal Lens Material: PC with blue light protection Bluetooth-compatible Version: 5.4 Bluetooth-compatible Range: 10 meters Chip: Bluetrum AB5656C Battery Capacity: 50mAh x 2 Charging Input: DC 5V Charging Method: Magnetic charging Charging Time: ≤1 hour Music Playback Time: Approx. 6 hours (at 80% volume) Translation Languages: 68 (continuously updated) App: hyper MZT Package included 1 x Smart Glasses 1 x Charging Cable 1 x English Instruction Manual 1 x Storage Bag 1 x Cleaning Cloth Specifications Brand N/A Certificate CE-RED,CE-RoHS,FCC-ID ColorStyle D Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.162kg Volume Weight 0.139kg Package Length 17.000cm Package Width 7.000cm Package Height 5.200cm
-  Updated: 2026-06-01T09:14:36Z
+  Updated: 2026-07-03T10:54:05Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -452,19 +452,19 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Gold Tawny](https://coretelk.com/products/gt-33-ai-translation-smart-glasses-anti-blue-light-eyeglasses-support-bluetooth-compatible-music-call?variant=57506731884918)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002771A-1.jpg?v=1773884502
-    Price: £20.65 GBP
+    Price: £21.56 GBP
   - [Black Gold](https://coretelk.com/products/gt-33-ai-translation-smart-glasses-anti-blue-light-eyeglasses-support-bluetooth-compatible-music-call?variant=57506731917686)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002771B-1.jpg?v=1773884504
-    Price: £20.65 GBP
+    Price: £21.56 GBP
   - [Silver Black](https://coretelk.com/products/gt-33-ai-translation-smart-glasses-anti-blue-light-eyeglasses-support-bluetooth-compatible-music-call?variant=57506731950454)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002771C-1.jpg?v=1773884506
-    Price: £20.65 GBP
+    Price: £21.56 GBP
   - [Silver White](https://coretelk.com/products/gt-33-ai-translation-smart-glasses-anti-blue-light-eyeglasses-support-bluetooth-compatible-music-call?variant=57506731983222)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002771D-1.jpg?v=1773884508
-    Price: £20.65 GBP
+    Price: £21.56 GBP
 - [ESSAGER Curved Design 20W USB-A + Type-C GaN Wall Charger Phone Fast Charging Adapter](https://coretelk.com/products/essager-curved-design-20w-usb-a-type-c-gan-wall-charger-phone-fast-charging-adapter): Compact and light appearance, easy to carry Upgraded GaN material, has the advantages of small size, light weight, low heat generation and high efficiency 20W high power, charge for iPhone 14 to 60% in 30 minutes Type-C and USB-A port design, convenient to use With multiple safety protections, safe to use Compatible with most mobile phones, tablets and other devices Specification: Material: ABS+PC Input voltage: AC100-240V, 50/60Hz, 0.5A Max. Output Power: USB-A output: 5V/3A, 9V/2A, 12V/1.5A (18W Max) USB-C output: 5V/3A, 9V/2.22A, 12V/1.67A (20W Max) USB-A+USB-C output: 5V/3A Max. Product size: US Plug: 49.04*32.01*32.01mm, EU Plug: 70.04*35.24*32.01mm, UK Plug: 64.04*47.97*44.17mm Weight: US Plug: 45gg, EU Plug: 48g, UK Plug: 53g Compatible with Universal Models Universal Package included 1 x Wall Charger Other things not included Specifications Brand Essager ColorStyle F Packaging Type Paper Box Plug Type (For Supply) EU Plug,UK Plug,US Plug Gross Weight 0.059kg Volume Weight 0.094kg Package Length 17.500cm Package Width 12.000cm Package Height 2.000cm
   Updated: 2026-06-01T19:39:37Z
   Vendor: Needs
@@ -540,7 +540,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/630600372A-1.jpg?v=1773884524
   Price: £59.17 GBP
 - [HHW 240W GaN USB-C 6-Port Charger Station PD Power Adapter with Color Display for Phone / Laptop / Earphones](https://coretelk.com/products/hhw-240w-gan-usb-c-6-port-charger-station-pd-power-adapter-with-color-display-for-phone-laptop-earphones): 【USB C Fast Charging Station】This usb charger with 240W total power and multiports. Type-C1/C2 port connect a single USB C device can deliver up to 140W PD3.1 fast charging. (Note:The cable must be compatible with the PD3.1 protocol). 【6 in 1 USB C Charger Block】Equipped with 4 USB-C ports and 2 USB A ports,this usb charging hub allows you to charge multiple devices at the same time. 【240W GaN Charger】Powered by GaN pro technology, protecting your multi devices from overcharging, overheating, short circuits, overcurrent, and overvoltage. 【Real-Time LCD Display】This charging station equipped with a display,can shows the real time power of each port and total power. Screen display can be switched and monitor the charging status of all connected devices. 【Compatible with Almost Any Device】The 240W multi charging station serves as chargers for multiple devices, supporting fast charging for MacBook Pro/AIr, iPhone, Samsung Galaxy, iPad, Dell, Google Pixel, Apple Watch, and almost all generations of electronics, acting as multi chargers for all devices. Specifications: Model: HW186 Material: Plastic Input: AC100-240V/50-60Hz Total Output Power: 240W (Max) Type-C1/C2 Output: PD3.1 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 28V/5A; PPS: 3.3-21V/5A, 140W (Max) C1+C2 Combined Output: 100W+65W Type-C3/C4 Output: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A; PPS: 3.3-11V/5A, 65W (Max) C3+C4 Combined Output: 65W+65W USB-A1/A2 Output: QC3.0 5V/3A, 9V/3A, 12V/3A, 20V/3A, 60W (Max) USB-A1+USB-A2 Combined Output: 15W+15W Product Dimensions: 103 * 88 * 46.5 mm Product Weight: 340g Package included 1 x Charger 1 x Power Cable 1 x English Manual Specifications Adapter Plug US Plug Brand N/A Certificate CE,CE-RoHS,FCC-ID,UL ColorStyle B Material Plastic Packaging Type Colored Box Plug Type (For Supply) EU Plug,US Plug Quick Charge PD Quick Charge Wattage 31W - 100W Gross Weight 0.650kg Volume Weight 0.263kg Package Length 17.500cm Package Width 12.000cm Package Height 5.600cm
-  Updated: 2026-06-02T11:53:27Z
+  Updated: 2026-07-06T10:43:46Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -548,11 +548,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Black / EU Plug](https://coretelk.com/products/hhw-240w-gan-usb-c-6-port-charger-station-pd-power-adapter-with-color-display-for-phone-laptop-earphones?variant=57506733392246)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6802002328A-1.jpg?v=1773884529
-    Price: £31.84 GBP
+    Price: £29.41 GBP
   - [Black / US Plug](https://coretelk.com/products/hhw-240w-gan-usb-c-6-port-charger-station-pd-power-adapter-with-color-display-for-phone-laptop-earphones?variant=57506733425014)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6802002328B-1.jpg?v=1773884532
-    Price: £31.84 GBP
+    Price: £32.29 GBP
 - [FEELWORLD PM1-XS-P RGB Lighting Dynamic Microphone XLR  /  USB Dual Output Desktop Mic with 3.5mm Headphone Jack](https://coretelk.com/products/feelworld-pm1-xs-p-rgb-lighting-dynamic-microphone-xlr-usb-dual-output-desktop-mic-with-3-5mm-headphone-jack): 【Professional Dynamic Capsule】Features a premium moving coil capsule that helps capture deep bass, delicate treble, and crisp midrange for ultra-clean sound quality 【Ultra-Wide Frequency Response】50Hz-14kHz ultra-wide frequency response delivers crystal-clear sound with exceptional detail across the entire audio spectrum 【Cardioid Pickup Pattern】Heart-shaped pickup pattern focuses on sound from the front top of the microphone, maximizing environmental noise reduction for authentic audio quality 【Dynamic RGB Lighting】Multi-color gradient RGB lighting effects add atmosphere and make your live streams more attractive with customizable lighting options 【Dual Output Modes】Plug-and-play USB-C output for connecting to PC/phones, plus XLR analog output for professional audio equipment like audio interfaces and mixing consoles 【Real-Time Monitoring】Built-in 3.5mm headphone jack enables real-time audio monitoring during recording to ensure optimal sound quality 【Metal Construction】Durable metal body design ensures long-term stability and strong interference resistance for professional use Specifications: Model: PM1-XS-P Capsule Type: Dynamic Polar Pattern: Cardioid Input Sample Rate: 96kHz Bit Rate: 24bit Frequency Response: 50Hz-14kHz Sensitivity: -54dB±1.5dB (0dB=1V/Pa, 1kHz) Output Impedance: 600Ω THD+N: <1% Signal-to-Noise Ratio: 95dB Optimal Pickup Distance: 3-15cm Interface: USB-C, XLR, 3.5mm headphone jack Material: Metal Body Package included 1 x Microphone 1 x U-Shaped Bracket 1 x Metal Base 1 x 2m Dual-Port USB/Type-C Cable 1 x 2m XLR Cable 1 x English Manual Specifications Brand FEELWORLD Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 1.389kg Volume Weight 0.806kg Package Length 16.000cm Package Width 25.000cm Package Height 9.000cm
   Updated: 2026-05-30T18:30:37Z
   Vendor: Needs
@@ -579,7 +579,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6499005120C-1.jpg?v=1773884543
     Price: £10.74 GBP
 - [M01 Wireless Music Earphone Smart Eyeglasses IP68 Waterproof Bluetooth-Compatible Glasses Audio Eyewear](https://coretelk.com/products/m01-wireless-music-earphone-smart-eyeglasses-ip68-waterproof-bluetooth-compatible-glasses-audio-eyewear): 【Versatile Smart Glasses】Combine audio functionality with stylish eyewear for music listening and call handling capabilities. 【Superior Sound Quality】Dual 0815 speakers deliver high-definition audio for an immersive listening experience. 【Long-Lasting Battery】Enjoy up to 6 hours of music playback or 4 hours of talk time on a single charge. 【Advanced Connectivity】Bluetooth-compatible 5.4 ensures fast pairing and stable connection up to 15 meters in open spaces. 【Comfortable Design】Made with TR90 material, these glasses offer a lightweight and comfortable fit for extended wear. Specifications: Material: TR90 Waterproof level: IP68 Platform and version: BLUETRUM AB5656C3 / 5.4 (single microphone ENC) Speaker: 0815*2 Antenna specifications: ceramic antenna Bluetooth-compatible distance: open space ≥15 meters Battery capacity: 85mAh*2 Charging time: 1.5H Listening time: 6H Talk time: about 4H Package included 1 x Pair of Wireless Music Earphone Smart Eyeglasses 1 x Charging Cable 1 x English Instruction Manual Specifications Brand N/A Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.112kg Volume Weight 0.067kg Package Length 15.000cm Package Width 5.000cm Package Height 4.000cm
-  Updated: 2026-06-03T04:40:36Z
+  Updated: 2026-07-03T10:54:05Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -587,11 +587,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Transparent](https://coretelk.com/products/m01-wireless-music-earphone-smart-eyeglasses-ip68-waterproof-bluetooth-compatible-glasses-audio-eyewear?variant=57506734440822)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899003360A-1.jpg?v=1773884544
-    Price: £15.21 GBP
+    Price: £15.98 GBP
   - [Black](https://coretelk.com/products/m01-wireless-music-earphone-smart-eyeglasses-ip68-waterproof-bluetooth-compatible-glasses-audio-eyewear?variant=57506734473590)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899003360B-1.jpg?v=1773884547
-    Price: £15.21 GBP
+    Price: £15.98 GBP
 - [FEELWORLD PM1-XS Dynamic Microphone with Stand XLR  /  USB Dual Output Desktop Mic for Recording  /  Gaming  /  Streaming](https://coretelk.com/products/feelworld-pm1-xs-dynamic-microphone-with-stand-xlr-usb-dual-output-desktop-mic-for-recording-gaming-streaming): 【Professional Dynamic Capsule】Features a premium moving coil capsule that helps capture deep bass, delicate treble, and crisp midrange for ultra-clean sound quality 【Ultra-Wide Frequency Response】50Hz-14kHz ultra-wide frequency response delivers crystal-clear sound with exceptional detail across the entire audio spectrum 【Cardioid Pickup Pattern】Heart-shaped pickup pattern focuses on sound from the front top of the microphone, maximizing environmental noise reduction for authentic audio quality 【Dynamic RGB Lighting】Multi-color gradient RGB lighting effects add atmosphere and make your live streams more attractive with customizable lighting options 【Dual Output Modes】Plug-and-play USB-C output for connecting to PC/phones, plus XLR analog output for professional audio equipment like audio interfaces and mixing consoles 【Real-Time Monitoring】Built-in 3.5mm headphone jack enables real-time audio monitoring during recording to ensure optimal sound quality 【Metal Construction】Durable metal body design ensures long-term stability and strong interference resistance for professional use Specifications: Model: PM1-XS Capsule Type: Dynamic Polar Pattern: Cardioid Input Sample Rate: 96kHz Bit Rate: 24bit Frequency Response: 50Hz-14kHz Sensitivity: -54dB±1.5dB (0dB=1V/Pa, 1kHz) Output Impedance: 600Ω THD+N: <1% Signal-to-Noise Ratio: 95dB Optimal Pickup Distance: 3-15cm Interface: USB-C, XLR, 3.5mm headphone jack Material: Metal Body Package included 1 x Microphone 1 x U-Shaped Bracket 1 x Metal Base 1 x 2m Dual-Port USB/Type-C Cable 1 x 2m XLR Cable 1 x English Manual Specifications Brand FEELWORLD Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 1.389kg Volume Weight 0.806kg Package Length 16.000cm Package Width 25.000cm Package Height 9.000cm
   Updated: 2026-06-01T20:42:33Z
   Vendor: Needs
@@ -892,7 +892,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/659900321B-1.jpg?v=1773884660
     Price: £17.32 GBP
 - [HW15 15 Multi-Port USB Charger Station PD 100W Fast Charge Adapter with Digital Display for Phone / Tablet](https://coretelk.com/products/hw15-15-multi-port-usb-charger-station-pd-100w-fast-charge-adapter-with-digital-display-for-phone-tablet): 【High-Power Output】The HW15 15-port USB smart charging adapter boasts a maximum output power of 100W, capable of rapidly charging multiple devices simultaneously, including smartphones and tablets. 【PD Fast Charging】Supporting Power Delivery (PD) fast charging protocol, this adapter ensures quick and efficient charging for compatible devices. 【Smart Display】Equipped with an intelligent digital display, the charger provides real-time monitoring of charging status for each connected device. 【Stable Power Supply】With a 5A output current, the adapter guarantees stable and reliable power delivery to all connected devices. 【Universal Compatibility】Designed to be compatible with mainstream devices, this charger is suitable for a wide range of electronics. 【Multiple Safety Protections】Built-in multi-layered safety mechanisms ensure protection against overcharging, overheating, and short circuits. Specifications: Input: 100-240V 50/60Hz Total Output: DC 5V20A 100W (MAX) USB Output: 5V2.4A (Max) Product Dimensions: 115*95*50mm Net Weight: 270g Compatible with Universal Models Universal Package included 1 x Charger 1 x Power Cord 1 x English Manual Specifications Adapter Plug US Plug Brand N/A Certificate CE-EMC,CE-LVD,CE-RoHS ColorStyle A Material Plastic Packaging Type Paper Box Plug Type (For Supply) EU Plug,US Plug Quick Charge PD Quick Charge User Manual (Language) English and Chinese Wattage 31W - 100W Gross Weight 0.414kg Volume Weight 0.232kg Package Length 14.800cm Package Width 12.500cm Package Height 5.600cm
-  Updated: 2026-06-01T12:04:26Z
+  Updated: 2026-07-01T01:56:54Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -900,11 +900,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [US Plug](https://coretelk.com/products/hw15-15-multi-port-usb-charger-station-pd-100w-fast-charge-adapter-with-digital-display-for-phone-tablet?variant=57506740928886)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6607001220A-1_b1a3e467-051a-41f2-bfed-e372bcc55439.jpg?v=1773884660
-    Price: £15.65 GBP
+    Price: £15.79 GBP
   - [EU Plug](https://coretelk.com/products/hw15-15-multi-port-usb-charger-station-pd-100w-fast-charge-adapter-with-digital-display-for-phone-tablet?variant=57506740896118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6607001220B-1.jpg?v=1773884657
-    Price: £15.65 GBP
+    Price: £15.42 GBP
 - [Tabletop Photography LED Lighting Kit with Durable 150W Light Bulb Dimmable 3200K-5500K + E27 Lamp Socket + Desktop Stand + Remote Control for Home Studio Photography](https://coretelk.com/products/tabletop-photography-led-lighting-kit-with-durable-150w-light-bulb-dimmable-3200k-5500k-e27-lamp-socket-desktop-stand-remote-control-for-home-studio-photography): High Power Light Bulb: 150W power output and high brightness; rugged hollow metal housing design ensures excellent heat dissipation, and long service life Adjustable Color Temperature & Brightness: 3200K-5500K adjustable color temperature and adjustable brightness design, meet all your needs of light in different surroundings Remote Control: Comes with remote control, you can adjust the color temperature and brightness from a certain distance, very flexible and convenient to operate Light Socket & Desktop Stand: With an E27 light socket and a desktop light stand with 28cm-43.5cm adjustable height, you can use the lighting kit on tabletop for small product photography Specifications: Light Bulb Voltage: AC 185V-245V Output Power: 150W Light Socket: E27 Color Temperature: 3200K-5500K Remote Control Power Supply: 2 * AAA batteries(Included) Light Stand Height: 28cm-43.5cm Package included 1 x Light Bulb 1 x Remote Control 1 x Light Socket 1 x Light Stand Specifications Brand N/A Gross Weight 1.362kg Volume Weight 1.616kg Package Length 26.000cm Package Width 18.500cm Package Height 15.000cm
   Updated: 2026-05-30T04:32:30Z
   Vendor: Needs
@@ -1112,12 +1112,12 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6811000930A-1.jpg?v=1773884727
   Price: £36.87 GBP
 - [K1 Live Broadcast Lavalier Microphone 2 Noise Reduction Wireless Mic with Type-C Receiver](https://coretelk.com/products/k1-live-broadcast-lavalier-microphone-2-noise-reduction-wireless-mic-with-type-c-receiver): Advanced 2.4GHz Wireless Technology: This wireless lavalier microphone operates on a 2.4GHz frequency band, ensuring a stable and reliable connection. With a transmission distance of up to 20 meters without obstacles Smart Noise Reduction: Equipped with intelligent noise reduction technology, this microphone effectively filters out background noise, delivering clear and professional audio Plug and Play Convenience: Designed for ease of use, this wireless microphone requires no complex setup. Its user-friendly design makes it ideal for beginners and professionals alike Long Battery Life: Featuring built-in 60mAh battery, this microphone offers 5-7 hours of continuous use on a single charge Wide Compatibility: It is suitable for a wide range of applications, including vlogging, podcasting, teaching, and more. Its compact and lightweight design ensures it can be easily clipped onto your clothing for hands-free use Specifications: Frequency: 2.4GHz Frequency response: 20Hz-20KHz Input voltage: DC4.8-5.4V Battery capacity: 60mAh Transmission distance: 20m barrier-free Full charge time: about 1.5 hours Working time: about 5-7 hours after full charge Package included 2 x Microphone 1 x Receiver 1 x Charging Cable 1 x English User Manual Specifications Brand N/A Certificate CE Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.082kg Volume Weight 0.074kg Package Length 12.500cm Package Width 8.300cm Package Height 3.200cm
-  Updated: 2026-06-02T00:01:33Z
+  Updated: 2026-07-03T10:47:51Z
   Vendor: Needs
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6811000655A-1.jpg?v=1773884729
-  Price: £19.41 GBP
+  Price: £19.10 GBP
 - [JOYROOM CCL05 4 in 1 Car Charger with 65W Fast Charging Retractable Dual Cables](https://coretelk.com/products/joyroom-ccl05-4-in-1-car-charger-with-65w-fast-charging-retractable-dual-cables): 【65W High-Power Multi-Device Charging】Charge up to four devices simultaneously—laptop, smartphone, tablet, and accessories without slowing down any device’s charging speed. 【Built-in Retractable Type-C Cable】The integrated 80cm Type-C cable extends smoothly and retracts neatly into a dedicated slot. Its 180° rotatable head adapts to any angle for stress-free use and tidy storage. 【Ultra-Portable Design】Engineered for travelers and minimalists, this charger is dramatically slimmer and lighter than traditional 65W adapters—fits effortlessly in your pocket or bag without bulk. 【Universal Fast Charging with PD 3.0, QC 3.0 & PPS】Supports the latest fast-charging standards to deliver optimized power to a wide range of devices with intelligent voltage negotiation for safety and speed. 【Cross-Ecosystem Compatibility】Equipped with Type-C (built-in), USB-C, USB-A, and iP ports, it seamlessly works across Apple, Android, Windows. Specifications: Input: DC 12V-24V ⎓5.5A (Max) Type-C Cable Output: 5V⎓3.0A 9V⎓3.0A 12V⎓3.0A 15V⎓2.5A 20V⎓2.25A (45W Max) Lightning Cable Output: 5V⎓2.4A USB-C Output: 5V⎓3.0A USB-A Output: 5V⎓2.4A Total Output: 65W Cable Length: 80cm Dimensions: 130×45×38mm Weight: 117g Compatible with Universal Models Universal Package included 1 x 4 in 1 Car Charger 1 x English and Chinese User Manual Specifications Brand Joyroom Packaging Type Colored Box Gross Weight 0.195kg Volume Weight 0.155kg Package Length 16.500cm Package Width 10.000cm Package Height 4.200cm
   Updated: 2026-06-03T07:25:31Z
   Vendor: Needs
@@ -1224,59 +1224,59 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
 - [Home page](https://coretelk.com/collections/frontpage)
   Updated: 2026-06-02T06:11:32Z
   Total Products: 4
-- [Mobile Phone Accessories — Cases, Chargers & More | NEEDs](https://coretelk.com/collections/accessories): Shop premium mobile phone accessories at NEEDs. Find cases, screen protectors, chargers, earbuds and more. Fast shipping & secure payment.
+- [Accessories](https://coretelk.com/collections/accessories): Shop premium mobile phone accessories at NEEDs. Find cases, screen protectors, chargers, earbuds and more. Fast shipping & secure payment.
   Updated: 2026-05-26T20:19:42Z
   Total Products: 1
-- [Toys for All Ages — Fun & Educational Picks | NEEDs](https://coretelk.com/collections/toys): Shop a wide range of toys at NEEDs. Fun, educational, and playful options for all ages. Fast shipping & secure payment.
+- [Toys](https://coretelk.com/collections/toys): Shop a wide range of toys at NEEDs. Fun, educational, and playful options for all ages. Fast shipping & secure payment.
   Updated: 2026-05-26T20:19:42Z
   Total Products: 0
-- [Shoes for Men, Women & Kids — Shop All Styles | NEEDs](https://coretelk.com/collections/shoes): Shop stylish shoes for the whole family at NEEDs. Casual, formal, and everything in between. Fast shipping & secure payment.
+- [Shoes](https://coretelk.com/collections/shoes): Shop stylish shoes for the whole family at NEEDs. Casual, formal, and everything in between. Fast shipping & secure payment.
   Updated: 2026-05-26T20:19:42Z
   Total Products: 0
-- [Bags & Handbags — Stylish Picks for Every Occasion | NEEDs](https://coretelk.com/collections/bags): Shop stylish bags at NEEDs. Handbags, backpacks, and more for every occasion. Fast shipping & secure payment.
+- [Bags](https://coretelk.com/collections/bags): Shop stylish bags at NEEDs. Handbags, backpacks, and more for every occasion. Fast shipping & secure payment.
   Updated: 2026-06-03T06:45:33Z
   Total Products: 27
-- [Clothes & Fashion for Men, Women & Kids | NEEDs](https://coretelk.com/collections/clothes): Shop trendy clothes for the whole family at NEEDs. Casual, stylish, and affordable fashion. Fast shipping & secure payment.
+- [Clothes](https://coretelk.com/collections/clothes): Shop trendy clothes for the whole family at NEEDs. Casual, stylish, and affordable fashion. Fast shipping & secure payment.
   Updated: 2026-05-26T20:19:43Z
   Total Products: 0
-- [Solar Lights — Eco-Friendly Garden & Security Lighting | NEEDs](https://coretelk.com/collections/solar-lights): Shop solar-powered lights at NEEDs. Eco-friendly garden, security, and outdoor lighting solutions. Fast shipping & secure payment.
+- [Solar Lights](https://coretelk.com/collections/solar-lights): Shop solar-powered lights at NEEDs. Eco-friendly garden, security, and outdoor lighting solutions. Fast shipping & secure payment.
   Updated: 2026-05-26T20:19:43Z
   Total Products: 0
-- [E-bike Accessories & Components — Shop Online | NEEDs](https://coretelk.com/collections/e-bike): Shop e-bike accessories at NEEDs. Batteries, lights, mounts and more for your electric bike. Fast shipping & secure payment.
+- [E-bike](https://coretelk.com/collections/e-bike): Shop e-bike accessories at NEEDs. Batteries, lights, mounts and more for your electric bike. Fast shipping & secure payment.
   Updated: 2026-05-26T20:19:43Z
   Total Products: 0
-- [Smart Devices — Smartwatches, Glasses & Car Accessories | NEEDs](https://coretelk.com/collections/smart-device): Shop smart devices at NEEDs. Smartwatches, smart glasses, car accessories, microphones, tripods and more. Fast shipping & secure payment.
-  Updated: 2026-06-29T10:38:54Z
+- [Smart Device](https://coretelk.com/collections/smart-device): Shop smart devices at NEEDs. Smartwatches, smart glasses, car accessories, microphones, tripods and more. Fast shipping & secure payment.
+  Updated: 2026-07-03T10:54:50Z
   Total Products: 125
-- [Wireless Earphones & Earbuds - Noise Cancelling Bluetooth - NEEDs](https://coretelk.com/collections/earphones): Browse wireless earphones and earbuds with ANC, touch control, and Bluetooth. Free shipping available. Shop at NEEDs.
-  Updated: 2026-06-29T16:09:57Z
+- [Earphones](https://coretelk.com/collections/earphones): Browse wireless earphones and earbuds with ANC, touch control, and Bluetooth. Free shipping available. Shop at NEEDs.
+  Updated: 2026-07-06T10:43:48Z
   Total Products: 107
-- [AI Smart Glasses with HD Camera & Bluetooth Music - NEEDs](https://coretelk.com/collections/smart-glasses): Shop AI smart glasses with HD recording, Bluetooth calling, and real-time translation. Waterproof options available. Shop at NEEDs.
-  Updated: 2026-06-15T03:08:12Z
+- [Smart Glasses](https://coretelk.com/collections/smart-glasses): Shop AI smart glasses with HD recording, Bluetooth calling, and real-time translation. Waterproof options available. Shop at NEEDs.
+  Updated: 2026-07-03T10:54:50Z
   Total Products: 31
-- [Real-Time Translation Earphones & Headsets 144 Languages - NEEDs](https://coretelk.com/collections/translation-devices): Shop smart translation earphones with real-time voice translation in 144+ languages. Noise reduction & Bluetooth. Shop at NEEDs.
-  Updated: 2026-06-15T03:08:12Z
+- [Translation Devices](https://coretelk.com/collections/translation-devices): Shop smart translation earphones with real-time voice translation in 144+ languages. Noise reduction & Bluetooth. Shop at NEEDs.
+  Updated: 2026-07-03T10:54:50Z
   Total Products: 28
-- [Smart Watches with Fitness Tracking & Bluetooth - NEEDs](https://coretelk.com/collections/smart-watches): Browse smart watches with fitness tracking, heart rate monitor, and Bluetooth. Free shipping available. Shop at NEEDs.
+- [Smart Watches](https://coretelk.com/collections/smart-watches): Browse smart watches with fitness tracking, heart rate monitor, and Bluetooth. Free shipping available. Shop at NEEDs.
   Updated: 2026-06-29T10:38:54Z
   Total Products: 18
-- [Security & Cameras – Shop CCTV & Surveillance – NEEDs](https://coretelk.com/collections/security-and-cameras): Shop security cameras, CCTV, and surveillance systems. Keep your home and business safe with our range of security solutions at NEEDs.
+- [Security & Cameras](https://coretelk.com/collections/security-and-cameras): Shop security cameras, CCTV, and surveillance systems. Keep your home and business safe with our range of security solutions at NEEDs.
   Updated: 2026-06-10T09:08:20Z
   Total Products: 26
-- [Car Accessories Dash Cams Chargers & Bluetooth Mounts - NEEDs](https://coretelk.com/collections/car-accessories-shop): Shop car accessories including dash cams, car chargers, Bluetooth transmitters and phone mounts. Free shipping. Shop at NEEDs.
-  Updated: 2026-06-23T01:47:07Z
+- [Car Accessories](https://coretelk.com/collections/car-accessories-shop): Shop car accessories including dash cams, car chargers, Bluetooth transmitters and phone mounts. Free shipping. Shop at NEEDs.
+  Updated: 2026-06-30T02:06:53Z
   Total Products: 76
-- [Mobile Phone Accessories Cases Chargers & Screen Protectors - NEEDs](https://coretelk.com/collections/mobile-phone-accessories): Shop mobile phone accessories including cases, chargers, screen protectors and cables. Free shipping available. Shop at NEEDs.
-  Updated: 2026-06-29T16:09:57Z
+- [Mobile Phone Accessories](https://coretelk.com/collections/mobile-phone-accessories): Shop mobile phone accessories including cases, chargers, screen protectors and cables. Free shipping available. Shop at NEEDs.
+  Updated: 2026-07-06T10:43:48Z
   Total Products: 799
-- [Studio Microphones & Photography Lighting for Creators - NEEDs](https://coretelk.com/collections/studio-and-microphones): Shop studio microphones, wireless lavalier mics, ring lights and photography lighting for streaming and content creation. Shop at NEEDs.
-  Updated: 2026-06-09T07:27:58Z
+- [Studio & Microphones](https://coretelk.com/collections/studio-and-microphones): Shop studio microphones, wireless lavalier mics, ring lights and photography lighting for streaming and content creation. Shop at NEEDs.
+  Updated: 2026-07-03T10:47:53Z
   Total Products: 44
-- [Computer & Laptop Accessories MacBook iPad Surface - NEEDs](https://coretelk.com/collections/computer-laptop-accessories): Shop laptop sleeves, screen protectors, keyboards and accessories for MacBook, iPad, Surface and more. Free shipping at NEEDs.
-  Updated: 2026-06-24T03:18:03Z
+- [Computer & Laptop Accessories](https://coretelk.com/collections/computer-laptop-accessories): Shop laptop sleeves, screen protectors, keyboards and accessories for MacBook, iPad, Surface and more. Free shipping at NEEDs.
+  Updated: 2026-07-06T10:43:48Z
   Total Products: 356
-- [Speakers & Sound Accessories – NEEDs](https://coretelk.com/collections/speakers-and-sound): Shop portable Bluetooth speakers, smart audio, and sound accessories. Premium sound solutions for every lifestyle at NEEDs.
-  Updated: 2026-06-10T09:08:20Z
+- [Speakers & Sound](https://coretelk.com/collections/speakers-and-sound): Shop portable Bluetooth speakers, smart audio, and sound accessories. Premium sound solutions for every lifestyle at NEEDs.
+  Updated: 2026-07-03T10:54:50Z
   Total Products: 66
 
 ## Blogs
@@ -1362,6 +1362,18 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Updated: 2026-06-28T19:00:38Z
     Author: NEEDs
     Tags: best wireless earbuds buying guide, digital, earbud features, how to choose wireless earbuds, innovation, sound quality, technology, wireless earbuds
+  - [What’s New in Smartwatch Heart Monitoring — Insights 2026](https://coretelk.com/blogs/news/what-s-new-in-smartwatch-heart-monitoring-insights-2026): What’s New in Smartwatch Heart Monitoring — Insights 2026
+    Updated: 2026-07-01T19:02:33Z
+    Author: NEEDs
+    Tags: advanced heart tracking technology, digital, digital health solutions, future of wearable health technology, heart monitoring, insights, smartwatch trends, technology
+  - [Sure! Here are ten blog post titles that meet your specifications:](https://coretelk.com/blogs/news/sure-here-are-ten-blog-post-titles-that-meet-your-specifications): Sure! Here are ten blog post titles that meet your specifications:
+    Updated: 2026-07-03T19:01:42Z
+    Author: NEEDs
+    Tags: agile digital transformation, business transformation, cloud computing, digital, digital strategy, innovation, technology, transformation initiatives
+  - [How Wireless Earbuds Enhance Everyday Life — A 2026 Overview](https://coretelk.com/blogs/news/how-wireless-earbuds-enhance-everyday-life-a-2026-overview): How Wireless Earbuds Enhance Everyday Life — A 2026 Overview
+    Updated: 2026-07-05T19:00:45Z
+    Author: NEEDs
+    Tags: audio, digital, earbuds, everyday convenience, future of audio devices, impact of wireless technology, personal audio experience, wireless technology
 
 ## Store Pages
 
