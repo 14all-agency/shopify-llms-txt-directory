@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2026-04-28T09:56:05Z
 - Contact Email: ramsaym.dahn@yahoo.com
-- Updated At: 2026-07-01T00:00:43.998Z
+- Updated At: 2026-07-08T00:00:44.594Z
 
 ## Products
 
@@ -2362,6 +2362,12 @@
     Author: User
   - [Understanding Parables: Lessons Beyond the Stories](https://yahwehzuo.com/blogs/news/understanding-parables-lessons-beyond-the-stories): Understanding Parables: Lessons Beyond the Stories
     Updated: 2026-06-29T00:27:57Z
+    Author: User
+  - [Common Misconceptions About Biblical Practices and How to Address Them](https://yahwehzuo.com/blogs/news/common-misconceptions-about-biblical-practices-and-how-to-address-them): Common Misconceptions About Biblical Practices and How to Address Them
+    Updated: 2026-07-01T00:51:33Z
+    Author: User
+  - [Steps to Deepening Devotional Habits for a Richer Faith](https://yahwehzuo.com/blogs/news/steps-to-deepening-devotional-habits-for-a-richer-faith): Steps to Deepening Devotional Habits for a Richer Faith
+    Updated: 2026-07-06T00:28:24Z
     Author: User
 
 ## Store Pages
