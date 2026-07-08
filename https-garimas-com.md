@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-20T07:27:11Z
 - Contact Email: garimas.store@gmail.com
-- Updated At: 2026-06-30T00:00:39.973Z
+- Updated At: 2026-07-08T00:00:39.848Z
 
 ## Products
 
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_6af9843e-da82-4b9e-ab91-89f9b5164cb1.png?v=1780673858
   Price: ₹299.00 INR
 - [Necklace Set with Pearls and Golden Metallic Beads with Earring](https://garimas.com/products/necklace-set-with-pearls-and-golden-metallic-beads-with-earring): White Pearl Necklace Set with Gold Beads & Drop Earrings | Elegant Fashion Jewellery Discover timeless elegance with our White Pearl & Gold Bead Necklace Set — a classic jewellery set featuring lustrous faux pearls, shimmering gold spacer beads, and stunning drop earrings. Perfect for weddings, parties, and festive occasions. Timeless Pearl Elegance, Reimagined Add a touch of grace and sophistication to every outfit with the Garimas White Pearl & Gold Bead Necklace Set. Inspired by classic pearl jewellery traditions, this set beautifully pairs round lustrous white pearls with polished gold-tone spacer beads, creating a look that's elegant yet wearable for both everyday styling and special events. The set includes a single-strand pearl necklace and a pair of pearl drop earrings with delicate silver-tone hooks — everything you need to elevate your look in one stunning ensemble. Product Highlights ✨ Lustrous White Pearls: High-quality faux pearls with a smooth, glossy finish that mimics real pearl sheen 🥇 Gold Spacer Beads: Polished gold-tone beads interspersed between pearls for a luxurious, two-tone look 💎 Matching Drop Earrings: Elegant dangle earrings featuring white pearl beads with silver-tone fish-hook clasps 📏 Versatile Length: Necklace sits beautifully at the collarbone — ideal for necklines of all styles 🪶 Lightweight & Comfortable: Designed for all-day wear without any discomfort 🎁 Gift-Ready: Perfect as a gift for birthdays, anniversaries, weddings, or festive occasions 🌟 Hypoallergenic Hooks: Earring hooks crafted for sensitive skin How to Style This Set The white pearl and gold bead necklace set is a wardrobe essential that pairs effortlessly with a wide range of outfits: 👗 Ethnic Wear: Complements sarees, salwar suits, and lehengas beautifully 👔 Western Wear: Perfect with blazers, formal blouses, or evening gowns 🎉 Festive & Bridal: Ideal for weddings, engagements, Diwali, and other celebrations 🏢 Office & Casual: A subtle yet chic accessory for daily workwear Product Specifications Set Includes 1 Necklace + 1 Pair of Earrings Pearl Type High-Quality Faux / Simulated Pearls Bead Finish Gold-Tone Metal Spacer Beads Earring Style Drop / Dangle with Fish-Hook Clasp Necklace Style Single Strand, Beaded Choker / Princess Length Occasion Wedding, Festive, Party, Casual, Office Ideal For Women & Girls (All Ages) Country of Origin India Brand Garimas Why Choose Garimas? At Garimas, we believe every girl and woman deserves to feel beautiful. Our jewellery collections are thoughtfully designed to blend traditional charm with modern style — crafted with premium materials, attention to detail, and love. Each piece is quality-checked to ensure you receive jewellery that looks stunning and lasts. ✅ Premium quality fashion jewellery at affordable prices ✅ Wide range of necklace sets, earrings, bangles & more ✅ Fast shipping across India ✅ Easy returns & dedicated customer support
-  Updated: 2026-06-16T16:03:40Z
+  Updated: 2026-07-07T09:17:23Z
   Vendor: Garimas
   Product Type: Necklace Set
   Availability: Available
@@ -370,28 +370,28 @@
 
 ## Collections
 
-- [Garimas Lifestyle | Home page](https://garimas.com/collections/frontpage)
+- [Home page](https://garimas.com/collections/frontpage)
   Updated: 2026-06-05T15:55:29Z
   Total Products: 0
-- [Trendy Kids Fashion Jewelry For Stylish Youngsters](https://garimas.com/collections/kids-fashion-accessories): Discover beautiful kids fashion jewelry that combines fun and style. Perfect accessories to brighten up any child's outfit.
+- [Kids Fashion Jewellery](https://garimas.com/collections/kids-fashion-accessories): Discover beautiful kids fashion jewelry that combines fun and style. Perfect accessories to brighten up any child's outfit.
   Updated: 2026-06-06T14:06:41Z
   Total Products: 19
-- [Fashion Necklace Sets For  - Stylish & Affordable Jewelry](https://garimas.com/collections/necklace-sets): Discover beautiful fashion necklace sets for . Stylish designs perfect for every occasion. Shop now for the best deals on necklace sets.
+- [Necklace Sets Garimas](https://garimas.com/collections/necklace-sets): Discover beautiful fashion necklace sets for . Stylish designs perfect for every occasion. Shop now for the best deals on necklace sets.
   Updated: 2026-06-16T09:08:04Z
   Total Products: 18
-- [Elegant Pendant Collection for Every Style](https://garimas.com/collections/pendants): Discover our exquisite pendant collection featuring unique designs perfect for any occasion and style.
+- [Pendants](https://garimas.com/collections/pendants): Discover our exquisite pendant collection featuring unique designs perfect for any occasion and style.
   Updated: 2026-06-08T06:44:28Z
   Total Products: 5
-- [Elegant Gold Stud Earrings for Every Occasion](https://garimas.com/collections/earrings): Discover stunning gold stud earrings that combine timeless style with comfort. Perfect for daily wear or special events.
+- [Earrings](https://garimas.com/collections/earrings): Discover stunning gold stud earrings that combine timeless style with comfort. Perfect for daily wear or special events.
   Updated: 2026-06-06T14:06:39Z
   Total Products: 27
-- [Garimas Lifestyle | Best Seller](https://garimas.com/collections/best-seller)
+- [Best Seller](https://garimas.com/collections/best-seller)
   Updated: 2026-06-16T09:08:04Z
   Total Products: 31
-- [Garimas Lifestyle | New Arrivals](https://garimas.com/collections/new-arrivals)
+- [New Arrivals](https://garimas.com/collections/new-arrivals)
   Updated: 2026-06-16T09:08:04Z
   Total Products: 19
-- [Beaded Bracelets Collection - Stylish & Unique Designs](https://garimas.com/collections/bracelates): Discover our stunning beaded bracelets collection crafted for style and versatility. Perfect accessories to elevate any outfit effortlessly.
+- [Bracelates](https://garimas.com/collections/bracelates): Discover our stunning beaded bracelets collection crafted for style and versatility. Perfect accessories to elevate any outfit effortlessly.
   Updated: 2026-06-06T14:06:49Z
   Total Products: 2
 - [Phone Charms](https://garimas.com/collections/phone-charms)
