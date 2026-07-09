@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-20T18:12:09Z
 - Contact Email: yugvigyana@gmail.com
-- Updated At: 2026-07-01T00:00:48.420Z
+- Updated At: 2026-07-09T00:00:48.522Z
 
 ## Products
 
@@ -2955,93 +2955,107 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Everyday-Comfort-Motif-Cotton-Dohar-Peach-Blue-Tones-MVB-YUGVIGYANA-53434558087532.jpg?v=1772372121
     Price: ₹1,199.00 INR
-[List Continued](https://mvbyugvigyana.in/a/llms-agent/llms.txt?shop=hzm1z2-e9.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAxMjYyNzY0NDc4MCwibGFzdF92YWx1ZSI6IjE1MDEyNjI3NjQ0NzgwIn0%3D)
+- [Butterfly 150 GSM 100% Pure Cotton Single Bed Dohar | Pink & Blue | Buy Online India | MVB Yugvigyana](https://mvbyugvigyana.in/products/butterfly-cotton-dohar-collection-pink-blue): Buy Butterfly 150 GSM 100% pure cotton single bed dohar online — pink & blue. Lightweight reversible AC dohar blanket. Free delivery across India.
+  Updated: 2026-06-13T16:56:11Z
+  Vendor: MVB YUGVIGYANA
+  Product Type: Fabrics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Butterfly-Cotton-Dohar-Collection-Pink-Blue-MVB-YUGVIGYANA-53434580959596.jpg?v=1772371941
+  - [Pink](https://mvbyugvigyana.in/products/butterfly-cotton-dohar-collection-pink-blue?variant=53140482556268)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Butterfly-Cotton-Dohar-Collection-Pink-Blue-MVB-YUGVIGYANA-53434580959596.jpg?v=1772371941
+    Price: ₹1,199.00 INR
+  - [Blue](https://mvbyugvigyana.in/products/butterfly-cotton-dohar-collection-pink-blue?variant=53140482589036)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Butterfly-Cotton-Dohar-Collection-Pink-Blue-MVB-YUGVIGYANA-53434581221740.jpg?v=1772371937
+    Price: ₹1,199.00 INR
+[List Continued](https://mvbyugvigyana.in/a/llms-agent/llms.txt?shop=hzm1z2-e9.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAxMjYyNzc0MzA4NCwibGFzdF92YWx1ZSI6IjE1MDEyNjI3NzQzMDg0In0%3D)
 
 ## Collections
 
 - [Home page](https://mvbyugvigyana.in/collections/frontpage)
   Updated: 2026-05-26T19:35:54Z
   Total Products: 0
-- [Hand Block Print Curtains & Indian Fabrics - Premium Artisan Collection | MVB YUGVIGYANA](https://mvbyugvigyana.in/collections/mvb-febrics): Discover authentic hand block printed curtains and premium Indian fabrics. 100% cotton, traditional Jaipuri designs, handcrafted by master artisans. Shop luxury home textiles.
-  Updated: 2026-06-30T18:06:09Z
-  Total Products: 112
-- [Buy Indian Handicrafts Online – Marble & Spiritual Decor – MVB Yugvigyana](https://mvbyugvigyana.in/collections/mvb-handicrafts): Shop handcrafted Indian handicrafts at MVB Yugvigyana. Marble Ganesh Ji, spiritual decor & gifting items. Made in India. Pan India & USA delivery!
+- [MVB Fabrics](https://mvbyugvigyana.in/collections/mvb-febrics): Discover authentic hand block printed curtains and premium Indian fabrics. 100% cotton, traditional Jaipuri designs, handcrafted by master artisans. Shop luxury home textiles.
+  Updated: 2026-07-07T17:34:14Z
+  Total Products: 118
+- [MVB Handicrafts](https://mvbyugvigyana.in/collections/mvb-handicrafts): Shop handcrafted Indian handicrafts at MVB Yugvigyana. Marble Ganesh Ji, spiritual decor & gifting items. Made in India. Pan India & USA delivery!
   Updated: 2026-06-18T18:25:23Z
   Total Products: 17
-- [Natural Aroma Products & Essential Oils - Pure Wellness Collection | MVB YUGVIGYANA](https://mvbyugvigyana.in/collections/aroma-bliss): Experience the goodness of nature with our premium aroma products. Natural essential oils, aromatherapy blends, and wellness products sourced from India's finest ingredients.
+- [MVB Aroma Bliss](https://mvbyugvigyana.in/collections/aroma-bliss): Experience the goodness of nature with our premium aroma products. Natural essential oils, aromatherapy blends, and wellness products sourced from India's finest ingredients.
   Updated: 2026-06-18T18:24:59Z
   Total Products: 14
 - [Digital Goods VAT Tax](https://mvbyugvigyana.in/collections/digital-goods-vat-tax)
   Updated: 2026-01-28T15:54:30Z
   Total Products: 0
-- [Pure Cotton Dream Bedsheets - Premium Quality | MVB YUGVIGYANA](https://mvbyugvigyana.in/collections/pure-cotton-dream-bedsheets): Shop luxurious 100% pure cotton dream bedsheets. Breathable, soft, and durable. Available in multiple sizes. Premium quality bedding from MVB YUGVIGYANA.
+- [Pure Cotton Dream Bedsheets](https://mvbyugvigyana.in/collections/pure-cotton-dream-bedsheets): Shop luxurious 100% pure cotton dream bedsheets. Breathable, soft, and durable. Available in multiple sizes. Premium quality bedding from MVB YUGVIGYANA.
   Updated: 2026-06-24T15:41:34Z
   Total Products: 0
-- [Buy Ethnic Curtains Online India – Traditional Indian Designs – MVB Yugvigyana](https://mvbyugvigyana.in/collections/ethnic-curtains): Shop premium ethnic curtains at MVB Yugvigyana. Traditional Indian patterns, rich colors & quality fabric. Pan India delivery. Order now!
+- [Ethnic Curtains](https://mvbyugvigyana.in/collections/ethnic-curtains): Shop premium ethnic curtains at MVB Yugvigyana. Traditional Indian patterns, rich colors & quality fabric. Pan India delivery. Order now!
   Updated: 2026-05-26T19:35:54Z
   Total Products: 21
-- [Buy Luxury Double Bed Dohars Online India – Soft & Light – MVB Yugvigyana](https://mvbyugvigyana.in/collections/luxury-double-bed-dohars): Shop luxury double bed dohars at MVB Yugvigyana. Soft, lightweight & breathable. Perfect for AC rooms & summer nights. Pan India delivery!
+- [Luxury Double Bed Dohars](https://mvbyugvigyana.in/collections/luxury-double-bed-dohars): Shop luxury double bed dohars at MVB Yugvigyana. Soft, lightweight & breathable. Perfect for AC rooms & summer nights. Pan India delivery!
   Updated: 2026-06-18T18:24:42Z
   Total Products: 29
-- [Buy Ethnic Cushion Covers Online India – Traditional Prints – MVB Yugvigyana](https://mvbyugvigyana.in/collections/ethnic-cushion-covers): Shop ethnic cushion covers at MVB Yugvigyana. Traditional Indian prints, vibrant colors & premium fabric. Perfect for home decor. Pan India delivery!
+- [Ethnic Cushion Covers](https://mvbyugvigyana.in/collections/ethnic-cushion-covers): Shop ethnic cushion covers at MVB Yugvigyana. Traditional Indian prints, vibrant colors & premium fabric. Perfect for home decor. Pan India delivery!
   Updated: 2026-05-26T19:35:55Z
   Total Products: 10
-- [Buy Double Bed Comforters Online India – Soft & Warm – MVB Yugvigyana](https://mvbyugvigyana.in/collections/double-bed-comforters): Shop premium double bed comforters at MVB Yugvigyana. Soft microfiber, reversible designs, 300 GSM warmth. Pan India delivery. Order now!
+- [Double Bed Comforters](https://mvbyugvigyana.in/collections/double-bed-comforters): Shop premium double bed comforters at MVB Yugvigyana. Soft microfiber, reversible designs, 300 GSM warmth. Pan India delivery. Order now!
   Updated: 2026-05-26T19:35:55Z
   Total Products: 14
-- [Buy Single Bed Comforters Online India – Soft & Warm – MVB Yugvigyana](https://mvbyugvigyana.in/collections/single-bed-comforters): Shop premium single bed comforters at MVB Yugvigyana. Soft microfiber, reversible designs, perfect warmth. Pan India delivery. Order now!
+- [Single Bed Comforters](https://mvbyugvigyana.in/collections/single-bed-comforters): Shop premium single bed comforters at MVB Yugvigyana. Soft microfiber, reversible designs, perfect warmth. Pan India delivery. Order now!
   Updated: 2026-06-08T11:25:11Z
   Total Products: 12
-- [MVB Quilts - Handcrafted Traditional Quilts | MVB YUGVIGYANA](https://mvbyugvigyana.in/collections/mvb-quilts): Shop handcrafted MVB quilts with traditional patterns. Premium quality fabrics, artisan craftsmanship. Timeless comfort for your home.
+- [MVB Quilts](https://mvbyugvigyana.in/collections/mvb-quilts): Shop handcrafted MVB quilts with traditional patterns. Premium quality fabrics, artisan craftsmanship. Timeless comfort for your home.
   Updated: 2026-06-18T18:25:41Z
   Total Products: 8
-- [Buy Pure Cotton Single Bedsheets Online India – MVB Yugvigyana](https://mvbyugvigyana.in/collections/pure-cotton-single-bedsheets): Shop soft pure cotton single bedsheets at MVB Yugvigyana. Vibrant designs, durable fabric, affordable prices. Pan India delivery. Order now!
+- [Pure Cotton Single Bedsheets](https://mvbyugvigyana.in/collections/pure-cotton-single-bedsheets): Shop soft pure cotton single bedsheets at MVB Yugvigyana. Vibrant designs, durable fabric, affordable prices. Pan India delivery. Order now!
   Updated: 2026-05-26T19:35:55Z
   Total Products: 11
-- [Premium Cotton King Size Bedsheets India - MVB Yugvigyana](https://mvbyugvigyana.in/collections/premium-cotton-king-size-bedsheets): Shop luxury king size cotton bedsheets. 100% pure cotton, premium thread count, spa-grade quality. Handcrafted in India. Free shipping on orders ₹999+
-  Updated: 2026-06-30T18:06:09Z
-  Total Products: 79
-- [Buy Pure Cotton Double Bedsheets Online India – MVB Yugvigyana](https://mvbyugvigyana.in/collections/pure-cotton-double-bedsheets): Shop soft & breathable pure cotton double bedsheets at MVB Yugvigyana. Trendy designs, affordable prices. Pan India delivery. Order now!
+- [Premium Cotton King Size Bedsheets](https://mvbyugvigyana.in/collections/premium-cotton-king-size-bedsheets): Shop luxury king size cotton bedsheets. 100% pure cotton, premium thread count, spa-grade quality. Handcrafted in India. Free shipping on orders ₹999+
+  Updated: 2026-07-07T16:24:56Z
+  Total Products: 80
+- [Pure Cotton Double Bedsheets](https://mvbyugvigyana.in/collections/pure-cotton-double-bedsheets): Shop soft & breathable pure cotton double bedsheets at MVB Yugvigyana. Trendy designs, affordable prices. Pan India delivery. Order now!
   Updated: 2026-06-28T14:44:34Z
   Total Products: 85
-- [Buy Pure Cotton Queen Size Bedsheets Online India – MVB Yugvigyana](https://mvbyugvigyana.in/collections/pure-cotton-queen-size-bedsheets): Shop soft pure cotton queen size bedsheets at MVB Yugvigyana. Beautiful designs, durable fabric, affordable prices. Pan India delivery available!
+- [Pure Cotton Queen Size Bedsheets](https://mvbyugvigyana.in/collections/pure-cotton-queen-size-bedsheets): Shop soft pure cotton queen size bedsheets at MVB Yugvigyana. Beautiful designs, durable fabric, affordable prices. Pan India delivery available!
   Updated: 2026-05-26T19:35:55Z
   Total Products: 0
-- [Buy Luxury Single Bed Dohars Online India – Soft & Light – MVB Yugvigyana](https://mvbyugvigyana.in/collections/luxury-single-bed-dohars): Shop luxury single bed dohars at MVB Yugvigyana. Soft, lightweight & breathable. Perfect for AC rooms & summer nights. Pan India delivery!
+- [Luxury Single Bed Dohars](https://mvbyugvigyana.in/collections/luxury-single-bed-dohars): Shop luxury single bed dohars at MVB Yugvigyana. Soft, lightweight & breathable. Perfect for AC rooms & summer nights. Pan India delivery!
   Updated: 2026-05-26T19:35:56Z
   Total Products: 16
-- [Buy Scented Candles Online India – Aromatherapy & Home Decor – MVB Yugvigyana](https://mvbyugvigyana.in/collections/scented-candles): Shop premium scented candles at MVB Yugvigyana. Soothing aromas for relaxation, meditation & gifting. Pan India delivery. Order now!
+- [Scented Candles](https://mvbyugvigyana.in/collections/scented-candles): Shop premium scented candles at MVB Yugvigyana. Soothing aromas for relaxation, meditation & gifting. Pan India delivery. Order now!
   Updated: 2026-05-26T19:35:56Z
   Total Products: 14
-- [Buy Pure Essential Oils Online India – Aromatherapy & Wellness – MVB Yugvigyana](https://mvbyugvigyana.in/collections/essential-oils): Shop pure essential oils at MVB Yugvigyana. Natural, chemical-free oils for aromatherapy, massage & skincare. Pan India delivery. Order now!
+- [Essential Oils](https://mvbyugvigyana.in/collections/essential-oils): Shop pure essential oils at MVB Yugvigyana. Natural, chemical-free oils for aromatherapy, massage & skincare. Pan India delivery. Order now!
   Updated: 2026-05-26T19:35:56Z
   Total Products: 10
-- [Buy Incense Sticks & Holders Online India – Pooja Essentials – MVB Yugvigyana](https://mvbyugvigyana.in/collections/incense-holders): Shop premium incense sticks & holders at MVB Yugvigyana. Pure fragrance for pooja, meditation & home decor. Pan India delivery. Order now!
+- [Incense & Holders](https://mvbyugvigyana.in/collections/incense-holders): Shop premium incense sticks & holders at MVB Yugvigyana. Pure fragrance for pooja, meditation & home decor. Pan India delivery. Order now!
   Updated: 2026-05-26T19:35:56Z
   Total Products: 14
-- [Pure Natural Attar & Chemical-Free Perfumes - MVB Yugvigyana](https://mvbyugvigyana.in/collections/attar-chemical-free-fragrances): Shop 100% natural, alcohol-free attars by MVB Yugvigyana. Rose, Oud, Sandalwood, Kesar & more. Chemical-free, skin-safe Indian perfumes.
+- [Attar Chemical-Free Fragrances](https://mvbyugvigyana.in/collections/attar-chemical-free-fragrances): Shop 100% natural, alcohol-free attars by MVB Yugvigyana. Rose, Oud, Sandalwood, Kesar & more. Chemical-free, skin-safe Indian perfumes.
   Updated: 2026-06-20T07:57:03Z
   Total Products: 10
-- [Buy Premium Velvet Double Bed Blankets Online India – MVB Yugvigyana](https://mvbyugvigyana.in/collections/premium-velvet-double-bed-blanket): Shop premium velvet double bed blankets at MVB Yugvigyana. Ultra-soft, warm & luxurious. Perfect for winters & gifting. Pan India delivery!
+- [Premium Velvet Double Bed Blanket](https://mvbyugvigyana.in/collections/premium-velvet-double-bed-blanket): Shop premium velvet double bed blankets at MVB Yugvigyana. Ultra-soft, warm & luxurious. Perfect for winters & gifting. Pan India delivery!
   Updated: 2026-05-26T19:35:56Z
   Total Products: 2
-- [Buy Hospital Textiles Bulk Supplier India – Hygienic & Durable – MVB Yugvigyana](https://mvbyugvigyana.in/collections/hospital-textiles): Shop bulk hospital textiles at MVB Yugvigyana. Hygienic bedsheets, pillow covers & blankets for . GST invoice. Pan India delivery!
+- [Hospital Textiles](https://mvbyugvigyana.in/collections/hospital-textiles): Shop bulk hospital textiles at MVB Yugvigyana. Hygienic bedsheets, pillow covers & blankets for . GST invoice. Pan India delivery!
   Updated: 2026-05-26T19:35:56Z
   Total Products: 5
-- [Buy Railways Textiles Bulk Supplier India – Bedsheets & Blankets – MVB Yugvigyana](https://mvbyugvigyana.in/collections/railways-textiles): Shop bulk railways textiles at MVB Yugvigyana. Durable bedsheets, blankets & pillow covers for Indian Railways. GST invoice. Pan India delivery!
+- [Railways Textiles](https://mvbyugvigyana.in/collections/railways-textiles): Shop bulk railways textiles at MVB Yugvigyana. Durable bedsheets, blankets & pillow covers for Indian Railways. GST invoice. Pan India delivery!
   Updated: 2026-05-26T19:35:56Z
   Total Products: 4
-- [Buy Hospitality Textiles Bulk Online India – Hotels & Resorts – MVB Yugvigyana](https://mvbyugvigyana.in/collections/hospitality-textiles): Shop premium hospitality textiles at MVB Yugvigyana. Hotel-grade bedsheets, comforters & more. Bulk orders with GST invoice. Pan India delivery!
+- [Hospitality Textiles](https://mvbyugvigyana.in/collections/hospitality-textiles): Shop premium hospitality textiles at MVB Yugvigyana. Hotel-grade bedsheets, comforters & more. Bulk orders with GST invoice. Pan India delivery!
   Updated: 2026-05-26T19:35:56Z
   Total Products: 5
 - [MVB Yugvigyana Collection](https://mvbyugvigyana.in/collections/mvb-yugvigyana-collection): VISIT OUR STORE NOW: www.mvbyugvigyana.in WHATSAPP ORDERS & ENQUIRIES: 099993 82518 MVB YUGVIGYANA – NATURAL LUXURY FOR EVERY LIFESTYLE Experience the perfect blend of tradition, wellness, craftsmanship, and premium quality products from MVB YUGVIGYANA. EXPLORE OUR PREMIUM COLLECTIONS Premium Attars & Natural Fragrances • Rose Attar • Hina Attar • Sandal Attar • Kesar Chandan Attar • Oud Attar • Alcohol-Free & Long-Lasting Fragrances Aromatic Bliss Collection • Luxury Aroma Candles • Soya Wax Candles • Aromatherapy Candles • Premium Home Fragrance Solutions Essential Oils • Pure Natural Essential Oils • Aromatherapy & Wellness Products • Meditation & Relaxation Essentials Aroma Sticks, Incense & Holders • Premium Agarbatti • Incense Sticks • Dhoop & Fragrance Products • Spiritual & Wellness Aromas MVB Fabrics & Textiles • Premium Bedsheets • Comforters • Dohars • Quilts • Blankets • Hospitality Textiles • Hospital Textiles • Railway Textiles Handicrafts & Home Décor • Ethnic Cushion Covers • Designer Curtains • Traditional Handcrafted Décor • Artisan-Made Home Accessories Premium Dry Fruits & Natural Products • Healthy Lifestyle Essentials • Premium Quality Selections PERFECT FOR Daily Use Home Décor Gifting Corporate Orders Hotels & Hospitality Festivals & Celebrations Retail & Wholesale Buyers WHY CHOOSE MVB YUGVIGYANA? Premium Quality Products Made in India with Pride Natural & Authentic Ingredients Elegant Packaging Trusted Manufacturer Wholesale & Bulk Order Facility PAN India Delivery Competitive Retail & Wholesale Pricing Fast Dispatch & Customer Support From Fragrances to Fabrics, Handicrafts to Home Décor, Wellness to Lifestyle Products – Discover Everything You Need Under One Trusted Brand. ORDER DIRECT FROM MANUFACTURER SPECIAL BULK ORDER PRICING AVAILABLE FAST SHIPPING ACROSS INDIA Shop Online: www.mvbyugvigyana.in WhatsApp Orders & Support: 099993 82518 MVB YUGVIGYANA – Pure. Natural. Yours.
-  Updated: 2026-06-30T18:06:09Z
-  Total Products: 91
-- [Jaipuri Silk Hand Block Double Bedsheets – Premium Traditional | MVB Yugvigyana](https://mvbyugvigyana.in/collections/jaipuri-silk-hand-block-double-bedsheets): Shop authentic Jaipuri silk hand block printed double bedsheets. Traditional craftsmanship, premium quality. GST invoice included. Free shipping available.
-  Updated: 2026-06-24T15:41:34Z
-  Total Products: 7
-- [Poly Cotton Bedsheets Collection | Soft & Breathable 160TC - MVB YUGVIGYANA](https://mvbyugvigyana.in/collections/mvb-poly-cotton-bedsheet-collection): Shop MVB Poly Cotton Bedsheet Collection — 160TC, skin-friendly, fade-resistant prints. Double bed size with pillow covers. Premium quality at best price.
-  Updated: 2026-06-28T09:20:04Z
+  Updated: 2026-07-07T17:34:14Z
+  Total Products: 99
+- [Jaipuri Silk Hand Block Double Bedsheets](https://mvbyugvigyana.in/collections/jaipuri-silk-hand-block-double-bedsheets): Shop authentic Jaipuri silk hand block printed double bedsheets. Traditional craftsmanship, premium quality. GST invoice included. Free shipping available.
+  Updated: 2026-07-06T13:45:10Z
+  Total Products: 12
+- [MVB Poly Cotton Bedsheet Collection](https://mvbyugvigyana.in/collections/mvb-poly-cotton-bedsheet-collection): Shop MVB Poly Cotton Bedsheet Collection — 160TC, skin-friendly, fade-resistant prints. Double bed size with pillow covers. Premium quality at best price.
+  Updated: 2026-07-07T17:34:14Z
   Total Products: 20
 
 ## Blogs
