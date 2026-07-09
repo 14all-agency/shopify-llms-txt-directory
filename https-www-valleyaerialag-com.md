@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-01T01:45:12Z
 - Contact Email: eugene@virelo.ag
-- Updated At: 2026-06-24T00:00:38.761Z
+- Updated At: 2026-07-09T00:00:45.049Z
 
 Valley Aerial Ag
 
@@ -88,7 +88,7 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/Screenshot_2026-03-11_174812.webp?v=1777825992
   Price: $4,088.00 USD
 - [Buy T100 Propeller Set | DJI Agras Replacement Parts](https://www.valleyaerialag.com/products/t100-propeller-set-4-ccw-4-cw-pairs): T100 Propeller Set with CCW and CW pairs for DJI Agras T100. Genuine replacement propellers for agricultural drones. Improve flight stability & performance.
-  Updated: 2026-06-05T07:46:45Z
+  Updated: 2026-06-26T03:40:50Z
   Vendor: DJI
   Product Type: Drone accessories
   Availability: Available
@@ -227,22 +227,169 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/Matrice4SeriesBattery.jpg?v=1780676823
   Price: $245.00 USD
+- [Impeller Pump Bracket-T100](https://www.valleyaerialag.com/products/impeller-pump-bracket-t100): T100/T70/T70P
+  Updated: 2026-06-26T11:35:31Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/ImpellerPumpBracketT100.jpg?v=1782427880
+  Price: $4.99 USD
+- [Damping Rubber Pad](https://www.valleyaerialag.com/products/damping-rubber-pad): T100/T70/T70P/T40/T20P/T50/T25/T60/T25P
+  Updated: 2026-06-26T03:40:49Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DampingRubberPad.png?v=1782427956
+  Price: $0.99 USD
+- [Spray Tank Y-tee Part](https://www.valleyaerialag.com/products/spray-tank-y-tee-part): T100/T70/T70P/T60/T25P/T40/T20P/T50/T25
+  Updated: 2026-06-26T03:40:46Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/SprayTankY-teePart.jpg?v=1782428029
+  Price: $12.99 USD
+- [Water Outlet Rotation Cover](https://www.valleyaerialag.com/products/water-outlet-rotation-cover): T100/T70/T70P/T60/T25P/T40/T20P/T50/T25
+  Updated: 2026-06-26T03:40:49Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/WaterOutletRotationCover.jpg?v=1782428112
+  Price: $3.99 USD
+- [DJI Agras T100 15516 Motor](https://www.valleyaerialag.com/products/dji-agras-t100-15516-motor): T100
+  Updated: 2026-07-08T17:00:03Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100015516Motor.jpg?v=1782428427
+  Price: $527.00 USD
+- [Propeller Gasket t100](https://www.valleyaerialag.com/products/yc-jg-zs008218-04): T100, FlyCart 100, T70/T70P
+  Updated: 2026-06-26T03:40:46Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/PropellerGasketT100.jpg?v=1782428534
+  Price: $2.49 USD
+- [DJI Agras T100 ESC Module](https://www.valleyaerialag.com/products/dji-agras-t100-esc-module): The DJI Agras T100 ESC Module is a genuine DJI electronic speed controller designed specifically for the Agras T100 agricultural drone. This essential component precisely regulates motor speed and power output, ensuring stable flight performance and efficient operation during heavy-duty spraying and mapping missions. Built with high-quality electronic components and optimized for heat dissipation, the ESC Module provides excellent reliability, protection, and responsiveness in demanding agricultural environments. Whether you are replacing a damaged unit or conducting scheduled maintenance, this original DJI part helps keep your Agras T100 performing safely and efficiently. Key Features: Original DJI Component – 100% genuine replacement ESC module for Agras T100 M1M3 Aircraft Arm Component Stable Power Control – Delivers precise motor speed management for consistent flight performance Durable & Reliable – Built to withstand intensive agricultural operations Efficient Cooling Design – Prevents overheating and extends component lifespan Easy Installation – Plug-and-play fit for quick replacement and maintenance Compatible： DJI Agras T100 Sprayer Drone SKU: YC.JG.FM000215
+  Updated: 2026-07-08T17:00:42Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100ESCModule_94eb3c55-2076-40c9-9c1d-208e8b7559b5.jpg?v=1782431425
+  Price: $563.00 USD
+- [Sprinkler Adapter Cable](https://www.valleyaerialag.com/products/sprinkler-adapter-cable): T100
+  Updated: 2026-06-26T03:40:50Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/SprinklerAdapterCable.jpg?v=1782428946
+  Price: $34.99 USD
+- [DJI Agras T100/Pump Set (Pump X2) - Genuine DJI Part](https://www.valleyaerialag.com/products/dji-agras-t100-pump-set-pump-x2-genuine-dji-part): Genuine DJI Agras T100 /Pump Set (Pump X2) replacement part. This original DJI component is designed for repair, maintenance, or replacement use on compatible DJI Agras agricultural drones. Compatibility DJI Agras T100 DJI Agras T70P Package Includes 1 × DJI Agras T100 /Pump Set (Pump X2) Product Information Manufacturer: DJI Condition: New Part Type: /Pump Set (Pump X2) SKU: DRT125546 Note: Please confirm compatibility before ordering. This listing includes the /pump set (pump x2) only. Pump body, cables, screws, brackets, and other accessories are not included unless specifically listed.
+  Updated: 2026-06-26T03:40:47Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100T70PPumpFullSetPumpx2.jpg?v=1782429928
+  Price: $899.00 USD
+- [DJI Agras T100/Pump Single Unit](https://www.valleyaerialag.com/products/dji-agras-t100-pump-single-unit): Genuine DJI Agras T100 /Pump Set (Pump X2) replacement part. This original DJI component is designed for repair, maintenance, or replacement use on compatible DJI Agras agricultural drones. Compatibility DJI Agras T100 DJI Agras T70P Package Includes 1 × DJI Agras T100 /Pump Set (Pump X2) Product Information Manufacturer: DJI Condition: New Part Type: /Pump Set (Pump X2) SKU: DRT125546 Note: Please confirm compatibility before ordering. This listing includes the /pump set (pump x2) only. Pump body, cables, screws, brackets, and other accessories are not included unless specifically listed.
+  Updated: 2026-06-25T23:26:53Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100T70PPumpFullSetPumpx2.jpg?v=1782429928
+  Price: $459.00 USD
+- [DJI Agras T100 Downward Radar Module](https://www.valleyaerialag.com/products/dji-agras-t100-downward-radar-module): Compatibility DJI Agras T100 FlyCart 100
+  Updated: 2026-07-08T15:39:32Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100DownwardRadarModule.jpg?v=1783522326
+  Price: $380.00 USD
+- [DJI Agras T100 Rear Radar Module](https://www.valleyaerialag.com/products/dji-agras-t100-read-radar-module): Compatibility DJI Agras T100 FlyCart 100
+  Updated: 2026-07-08T15:39:02Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100RearRadarModule.jpg?v=1783522559
+  Price: $452.00 USD
+- [DJI Agras T100 Rear Radar Bracket](https://www.valleyaerialag.com/products/dji-agras-t100-downward-radar-module-copy): Compatibility DJI Agras T100 FlyCart 100
+  Updated: 2026-07-08T15:44:15Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100RearRadarBracket.jpg?v=1783525450
+  Price: $6.00 USD
+- [DJI Agras T100/T70 Spray Tank Cover](https://www.valleyaerialag.com/products/dji-agras-t100-t70-spray-tank-cover): Compatibility DJI Agras T100 DJI Agras T70
+  Updated: 2026-07-08T15:46:24Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100TankCover.jpg?v=1783525525
+  Price: $13.00 USD
+- [Spray Tank Cover Waterproof Permeability Cover (T100/T50/T25/T40/T20P)](https://www.valleyaerialag.com/products/spray-tank-cover-waterproof-permeability-cover-t100-t50-t25-t40-t20p): Compatibility DJI Agras T100/T50/T25/T40/T20P
+  Updated: 2026-07-08T15:56:04Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100SprayTankCoverWaterProofPermeability.jpg?v=1783525910
+  Price: $2.00 USD
+- [Spray Tank Cover Waterproof Permeability (T100/T50/T25/T40/T20P)](https://www.valleyaerialag.com/products/spray-tank-cover-waterproof-permeability-cover-t100-t50-t25-t40-t20p-copy): Compatibility DJI Agras T100/T50/T25/T40/T20P
+  Updated: 2026-07-08T16:01:07Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100SprayTankCoverWaterproofPermeabilityFilm.jpg?v=1783526255
+  Price: $1.00 USD
+- [Spray Tank Y-tee Part Nut (T100/T70/T25P)](https://www.valleyaerialag.com/products/spray-tank-y-tee-part-nut-t100-t70-t25p): Compatibility DJI Agras T100/T70/T25P
+  Updated: 2026-07-08T16:03:07Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/SprayTankY-teePartNut.png?v=1783526535
+  Price: $3.50 USD
+- [T100 Spray Tank Lanyard](https://www.valleyaerialag.com/products/t100-spray-tank-lanyard): Compatibility DJI Agras T100
+  Updated: 2026-07-08T16:14:39Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100SprayTankLanyard.jpg?v=1783527261
+  Price: $3.50 USD
+- [Dosing Part Rubber Cover (T100/T70)](https://www.valleyaerialag.com/products/dosing-part-rubber-cover-t100-t70): Compatibility DJI Agras T100/T70
+  Updated: 2026-07-08T16:33:02Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100DosingPartRubberCover.jpg?v=1783527323
+  Price: $14.00 USD
+- [DJI Agras T100 Landing Gear Aluminum Tube](https://www.valleyaerialag.com/products/dji-agras-t100-landing-gear-aluminum-tube): Compatibility DJI Agras T100
+  Updated: 2026-07-08T16:27:43Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT100LandingGearAluminumTube.jpg?v=1783527806
+  Price: $115.00 USD
+- [DJI Agras T50 Landing Gear Aluminum Tube](https://www.valleyaerialag.com/products/dji-agras-t50-landing-gear-aluminum-tube): Compatibility DJI Agras T50
+  Updated: 2026-07-08T16:46:24Z
+  Vendor: DJI
+  Product Type: Drone accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIAgrasT50LandingGearAluminumTube.jpg?v=1783528565
+  Price: $89.00 USD
 
 ## Collections
 
-- [Agricultural Drones & Equipment | Valley Aerial Ag Shop](https://www.valleyaerialag.com/collections/frontpage): Featured agricultural drones & accessories. DJI Agras T100 solutions, batteries, chargers & parts. Premium farm equipment with local service & support available.
+- [Home page](https://www.valleyaerialag.com/collections/frontpage): Featured agricultural drones & accessories. DJI Agras T100 solutions, batteries, chargers & parts. Premium farm equipment with local service & support available.
   Updated: 2026-06-12T11:26:47Z
   Total Products: 4
-- [Shop Farm Drones For  | DJI Agras T100 | Valley Aerial Ag](https://www.valleyaerialag.com/collections/drones): Shop agricultural drones including DJI Agras T100 bundles. Professional farm drone solutions with complete packages, generators & spreading systems for farming.
+- [Ag Drones](https://www.valleyaerialag.com/collections/drones): Shop agricultural drones including DJI Agras T100 bundles. Professional farm drone solutions with complete packages, generators & spreading systems for farming.
   Updated: 2026-06-12T11:26:47Z
   Total Products: 3
-- [Shop Drone Accessories & Parts | Agras T100 | Valley Aerial](https://www.valleyaerialag.com/collections/accessories): Buy agricultural drone accessories: batteries, chargers, propellers & generators. Genuine DJI parts for Agras T100. Complete accessory solutions for farm drones.
-  Updated: 2026-06-12T11:26:47Z
-  Total Products: 16
-- [T100 Accessories & Parts | Agras T100 | Valley Aerial Ag](https://www.valleyaerialag.com/collections/t100-accessories): Shop T100 accessories for DJI Agras T100 drones. Batteries, chargers, propellers, generators & complete parts. Genuine replacements for agricultural equipment.
-  Updated: 2026-06-12T11:26:47Z
+- [Parts and Accessories](https://www.valleyaerialag.com/collections/accessories): Buy agricultural drone accessories: batteries, chargers, propellers & generators. Genuine DJI parts for Agras T100. Complete accessory solutions for farm drones.
+  Updated: 2026-07-08T17:00:44Z
+  Total Products: 37
+- [T100 Accessories](https://www.valleyaerialag.com/collections/t100-accessories): Shop T100 accessories for DJI Agras T100 drones. Batteries, chargers, propellers, generators & complete parts. Genuine replacements for agricultural equipment.
+  Updated: 2026-06-26T15:49:56Z
   Total Products: 13
-- [Shop Enterprise Drones for Agriculture & Surveying | Valley](https://www.valleyaerialag.com/collections/enterprise-drones): Shop enterprise drones for agriculture, mapping, inspection, and surveying at Valley Aerial Ag. Explore advanced DJI drone solutions for commercial operations.
+- [Enterprise Drones](https://www.valleyaerialag.com/collections/enterprise-drones): Shop enterprise drones for agriculture, mapping, inspection, and surveying at Valley Aerial Ag. Explore advanced DJI drone solutions for commercial operations.
   Updated: 2026-06-12T11:26:47Z
   Total Products: 4
 
@@ -259,7 +406,7 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
 - [How to Become an Unmanned Ag Drone Pilot in California](https://www.valleyaerialag.com/pages/how-to-become-an-unmanned-ag-drone-pilot-in-california): Path to Becoming an Unmanned Ag Pilot in California A practical guide for aspiring agricultural drone pilots Agricultural drones are creating a new...
   Updated: 2026-06-20T13:42:49Z
 - [How to Start an Agricultural Drone Business in California](https://www.valleyaerialag.com/pages/how-to-start-an-agricultural-drone-business-in-california): Licensing Requirements for Agricultural Drone Operators in California California has some of the most thorough agricultural regulations in the coun...
-  Updated: 2026-06-09T13:52:26Z
+  Updated: 2026-06-28T23:51:03Z
 
 ## Policies
 
