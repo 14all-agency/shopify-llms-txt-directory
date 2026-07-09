@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-04-21T12:46:29Z
 - Contact Email: annienellcreations@gmail.com
-- Updated At: 2026-06-30T00:00:41.094Z
+- Updated At: 2026-07-09T00:00:45.397Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gommage-visage-avril-tube-vert-menthe-550.webp?v=1780330806
   Price: 3,20 € EUR
 - [Gel nettoyant visage Avril bio cosmétique peau douce](https://www.nellcreations.com/products/gel-nettoyant-visage-100ml-certifie-bio): Ce gel nettoyant visage Avril certifié bio élimine les impuretés de l'épiderme. Sa formule pour peaux sèches ou grasses contient un parfum naturel d'agrumes.
-  Updated: 2026-06-24T20:27:01Z
+  Updated: 2026-07-06T12:23:12Z
   Vendor: Nellcréations
   Product Type: Gel nettoyant
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/soin-contour-des-yeux-et-levres-avril-tube-souple-couleur-lavande-pale-899.webp?v=1780330841
   Price: 9,00 € EUR
 - [Crème jour et nuit Avril bio hydratation visage](https://www.nellcreations.com/products/creme-jour-et-nuit-50-ml-certifiee-bio): La crème jour et nuit certifiée bio Avril contient de l'aloe vera et du beurre de karité. Ce soin hydrate les peaux normales, sèches, grasses, mixtes ou matures.
-  Updated: 2026-06-24T14:06:04Z
+  Updated: 2026-07-07T15:12:06Z
   Vendor: Nellcréations
   Product Type: crème visage jour et nuit
   Availability: Available
@@ -198,14 +198,14 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/-perte-de-poids-epycure-complement-alimentaire-pochette-elegante-776.webp?v=1780331106
   Price: 27,00 € EUR
 - [Gummies anti ballonnements Epycure digestion légère](https://www.nellcreations.com/products/gummies-anti-ballonnements): Ces gummies Epycure sont des compléments alimentaires pour le rééquilibrage de la flore intestinale. Ils réduisent les gaz et facilitent la digestion après un repas.
-  Updated: 2026-06-24T14:06:08Z
+  Updated: 2026-07-01T16:01:06Z
   Vendor: Nellcréations
   Product Type: Complément alimentaire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gummies-anti-ballonnements-epycure-complement-alimentaire-pochon-vert-270.webp?v=1780331116
   Price: 25,00 € EUR
 - [Gel raffermissant corps prêle lierre tonifiant](https://www.nellcreations.com/products/gel-raffermissant): Ce gel raffermissant Nellcréations contient des extraits de prêle, de lierre et du collagène marin. Ses actifs favorisent l'élasticité, la souplesse et le tonus.
-  Updated: 2026-06-24T14:06:08Z
+  Updated: 2026-06-30T16:04:53Z
   Vendor: Nellcréations
   Product Type: Soin corps
   Availability: Available
@@ -240,7 +240,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/parfum-dambiance-nuage-de-coton-nellcreations-flacon-verre-346.webp?v=1780331163
   Price: 15,00 € EUR
 - [Draineur minceur thé pêche élimination naturelle](https://www.nellcreations.com/products/draineur-elimination-arome-the-peche): Ce draineur aux dix extraits de plantes et arôme thé pêche favorise l'élimination de l'eau. Le thé de java et le fenouil soutiennent les fonctions urinaires.
-  Updated: 2026-06-25T01:06:40Z
+  Updated: 2026-07-04T08:58:06Z
   Vendor: Nellcréations
   Product Type: Complément alimentaire
   Availability: Available
@@ -324,7 +324,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/boucles-doreilles-douceur-du-printemps-nellcreations-doreilles-992.webp?v=1780330702
   Price: 16,00 € EUR
 - [Pack Minceur aux trois soins cosmétiques raffermissants](https://www.nellcreations.com/products/pack-minceur): Le Pack Minceur Nellcréations contient trois soins ciblés. Le gel raffermissant tonifie la peau. Le thermo amincissant brûle les graisses. Le draineur évacue l'eau.
-  Updated: 2026-06-24T14:06:12Z
+  Updated: 2026-07-04T08:58:16Z
   Vendor: Nellcréations
   Product Type: 
   Availability: Available
@@ -333,34 +333,34 @@
 
 ## Collections
 
-- [Compléments alimentaires Epycure naturels et vegan](https://www.nellcreations.com/collections/minceur): Nellcréations propose la gamme Epycure avec des compléments alimentaires naturels comme les gummies anti ballonnements et les cures perte de poids pour la santé.
-  Updated: 2026-06-24T14:06:03Z
+- [Compléments alimentaires - Naturels - Epycure](https://www.nellcreations.com/collections/minceur): Nellcréations propose la gamme Epycure avec des compléments alimentaires naturels comme les gummies anti ballonnements et les cures perte de poids pour la santé.
+  Updated: 2026-07-02T11:24:27Z
   Total Products: 2
-- [Cosmétiques bio Avril gamme française engagée](https://www.nellcreations.com/collections/soin-visage-avril): Nellcréations propose la gamme Avril cosmétiques incluant des soins du visage, du corps et du maquillage bio comme la BB crème, le sérum lissant ou le gommage.
-  Updated: 2026-06-24T14:06:03Z
+- [Avril cosmétiques](https://www.nellcreations.com/collections/soin-visage-avril): Nellcréations propose la gamme Avril cosmétiques incluant des soins du visage, du corps et du maquillage bio comme la BB crème, le sérum lissant ou le gommage.
+  Updated: 2026-07-08T11:21:11Z
   Total Products: 25
-- [Bougies et sprays naturels fabriqués en France](https://www.nellcreations.com/collections/nellcreations-gamme-ambiance): La collection ambiance Nellcréations propose des bouquets parfumés, bougies et parfums pour la maison au parfum nuage de coton pour créer une atmosphère douce.
+- [Nellcréations - Gamme ambiance](https://www.nellcreations.com/collections/nellcreations-gamme-ambiance): La collection ambiance Nellcréations propose des bouquets parfumés, bougies et parfums pour la maison au parfum nuage de coton pour créer une atmosphère douce.
   Updated: 2026-06-24T14:06:03Z
   Total Products: 3
-- [Soins corps et minceur naturels fabriqués en France](https://www.nellcreations.com/collections/nellcreations-gamme-minceur-et-corps): La collection Nellcréations propose un draineur au thé pêche, un lait à la fleur de coton, des gels amincissants et un pack minceur pour le soin du corps complet.
-  Updated: 2026-06-24T14:06:03Z
+- [Nellcréations - Gamme minceur et corps](https://www.nellcreations.com/collections/nellcreations-gamme-minceur-et-corps): La collection Nellcréations propose un draineur au thé pêche, un lait à la fleur de coton, des gels amincissants et un pack minceur pour le soin du corps complet.
+  Updated: 2026-07-04T11:18:45Z
   Total Products: 6
-- [Bijoux artisanaux en résine et fleurs séchées](https://www.nellcreations.com/collections/nouveaute-chez-nellcreations): Nellcréations propose une collection de bijoux artisanaux incluant des colliers et boucles d’oreilles aux thèmes floraux comme Rosa Rouge ou Jardin Éternel Bleu.
+- [Bijoux](https://www.nellcreations.com/collections/nouveaute-chez-nellcreations): Nellcréations propose une collection de bijoux artisanaux incluant des colliers et boucles d’oreilles aux thèmes floraux comme Rosa Rouge ou Jardin Éternel Bleu.
   Updated: 2026-06-24T14:06:03Z
   Total Products: 10
-- [Cosmétiques naturels et parfums ambiance de France](https://www.nellcreations.com/collections/nellcreations): Nellcréations propose une gamme de soins incluant lait hydratant, gels amincissants et packs minceur ainsi que des bougies et parfums d'ambiance au nuage de coton.
-  Updated: 2026-06-24T14:06:03Z
+- [Nellcréations](https://www.nellcreations.com/collections/nellcreations): Nellcréations propose une gamme de soins incluant lait hydratant, gels amincissants et packs minceur ainsi que des bougies et parfums d'ambiance au nuage de coton.
+  Updated: 2026-07-04T11:18:45Z
   Total Products: 9
-- [Meilleures ventes soins Avril et produits fermeté](https://www.nellcreations.com/collections/meilleurs-ventes): La collection Meilleurs ventes de Nellcréations propose des soins Avril comme le gel nettoyant et des produits exclusifs tels que le draineur ou le gel fermeté.
-  Updated: 2026-06-24T14:06:03Z
+- [Meilleurs ventes](https://www.nellcreations.com/collections/meilleurs-ventes): La collection Meilleurs ventes de Nellcréations propose des soins Avril comme le gel nettoyant et des produits exclusifs tels que le draineur ou le gel fermeté.
+  Updated: 2026-07-08T11:21:11Z
   Total Products: 7
 - [New! Shopify performance sharing is now turned on](https://www.nellcreations.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-06-20T11:18:55Z
+  Updated: 2026-07-08T11:21:11Z
   Total Products: 48
 
 ## Blogs
 
-- [Conseils beauté et bien être](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre): Suivez toute l'actualité au salon de beauté Nellcréations à Saint-Sauveur-Sur-Ecole suivre toutes les astuces et conseils beauté et bien être.
+- [Astuces et conseils beauté et bien être](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre): Suivez toute l'actualité au salon de beauté Nellcréations à Saint-Sauveur-Sur-Ecole suivre toutes les astuces et conseils beauté et bien être.
   - [Guide complet cavitation pour sculpter votre silhouette](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/soins-minceur-de-cavitation-guide-complet-pour-sculpter): Guide complet cavitation pour sculpter votre silhouette
     Updated: 2026-06-15T14:31:05Z
     Author: Annie Gregoire
@@ -377,23 +377,23 @@
     Author: Annie Grégoire
     Tags: bien-être, cavitation, compléments alimentaires, minceur, silhouette, soins corps
   - [Laser ou Lumière Pulsée Pro Différences Épilation](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/laser-vs-lumiere-pulsee-professionnelle-epilation-definitive): Laser ou Lumière Pulsée Pro Différences Épilation
-    Updated: 2026-06-15T14:31:41Z
+    Updated: 2026-07-01T16:37:27Z
     Author: Annie Grégoire
     Tags: beauté professionnelle, épilation définitive, IPL pro, laser, lumière pulsée
   - [Soins visage 40 ans peau lumineuse repulpée essentiels](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/soins-visage-apres-40-ans-les-essentiels-pour-une-peau-lumineuse-et-repulpee): Soins visage 40 ans peau lumineuse repulpée essentiels
-    Updated: 2026-06-15T14:31:46Z
+    Updated: 2026-07-01T16:37:32Z
     Author: Annie Grégoire
     Tags: anti-âge, lumière pulsée, peau mature, radiofréquence, routine beauté, soin visage
   - [Cortisol et poids équilibrez votre corps naturellement](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/cortisol-et-prise-de-poids-comment-reequilibrer-votre-corps-naturellement): Cortisol et poids équilibrez votre corps naturellement
-    Updated: 2026-06-15T14:31:54Z
+    Updated: 2026-07-01T16:37:41Z
     Author: Annie Grégoire
     Tags: bien-être, compléments naturels, cortisol, minceur, perte de poids, soins naturels, soins visage, stress
   - [Symptômes préménopause et solutions naturelles](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/premenopause-symptomes-duree-et-solutions-naturelles-pour-mieux-vivre-cette-transition): Symptômes préménopause et solutions naturelles
-    Updated: 2026-06-15T14:32:03Z
+    Updated: 2026-07-01T16:37:52Z
     Author: Annie Grégoire
     Tags: bien-être femme, bouffées de chaleur, hormones, ménopause, minceur, préménopause, soins naturels
   - [Tout savoir sur le traitement hormonal ménopause](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/traitement-hormonal-de-la-menopause-thm-pour-ou-contre-ce-que-vous-devez-savoir): Tout savoir sur le traitement hormonal ménopause
-    Updated: 2026-06-15T14:32:13Z
+    Updated: 2026-07-01T16:38:03Z
     Author: Annie Grégoire
     Tags: alternatives naturelles, bien-être femme, bouffées de chaleur, ménopause, THM, traitement hormonal
 - [Bijoux et créations](https://www.nellcreations.com/blogs/bijoux-et-creations)
@@ -413,13 +413,13 @@
 - [Soins minceur à Saint-Sauveur-Sur-Ecole](https://www.nellcreations.com/pages/soins-minceur): Retrouvez votre légèreté, centimètre après centimètre Vous ressentez que votre corps veut évoluer… et vous cherchez un soin minceur efficace sans c...
   Updated: 2026-05-14T16:59:40Z
 - [Soins esthétiques à Saint-Sauveur-Sur-École](https://www.nellcreations.com/pages/soins-esthetiques-a-saint-sauveur-sur-ecole): Offrez à votre peau une pause douce, dans un lieu où le temps ralentit Les soins esthétiques au salon de beauté Nellcréations sont pensés comme une...
-  Updated: 2026-02-21T17:01:07Z
+  Updated: 2026-07-01T16:36:28Z
 - [Bijoux fantaisies en résine et fleurs séchées](https://www.nellcreations.com/pages/bijoux-fantaisies-faits-main-en-resine-uv-et-fleurs-sechees): Laissez une émotion prendre forme dans un bijou unique Vous imaginez un bijou qui ne ressemble à aucun autre… une création délicate, façonnée à la ...
   Updated: 2026-06-15T14:32:20Z
 - [Offres du moment soins exclusifs beauté bien être](https://www.nellcreations.com/pages/offres-du-moment): ✨ Le soin inédit du mois Chaque mois, Le salon de beauté Nellcréations vous propose un soin exclusif, imaginé pour sublimer votre peau et vous offr...
-  Updated: 2026-06-15T14:32:26Z
+  Updated: 2026-07-01T16:36:40Z
 - [Devenir revendeur de créations naturelles bien-être](https://www.nellcreations.com/pages/devenir-revendeurs): Rejoignez le réseau de revendeurs Nellcréations Vous êtes boutique, concept store, spa, institut de beauté ou professionnel du bien-être ? Proposez...
-  Updated: 2026-06-24T00:40:20Z
+  Updated: 2026-07-08T00:44:06Z
 
 ## Policies
 
