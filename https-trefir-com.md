@@ -11,7 +11,7 @@
 - Contact Email: yaren@trefir.com
 - Contact Phone: +905016341171
 - Address: YAKUPLU MERMERCİLER SAN. SİTESİ 8. CAD.NO.13 KAT.3
-- Updated At: 2026-07-01T14:14:27.184Z
+- Updated At: 2026-07-09T00:00:22.424Z
 
 ## Products
 
@@ -240,7 +240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154553_Tobacco--Synthetic-Nubuck_1.jpg?v=1773388477
     Price: ₺750,75 TRY
 - [Cloud Cushion Sandals Men 154483](https://trefir.com/products/cloud-cushion-sandals-men-154483): Designed for those seeking soft-soled men’s sandals, this black DR KLOMPA men’s sandal delivers lightweight comfort for everyday wear. Explore now.
-  Updated: 2026-06-30T12:29:11Z
+  Updated: 2026-07-02T19:41:39Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -330,7 +330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Mink--Synthetic-Nubuck_1.jpg?v=1773388200
     Price: ₺1.020,00 TRY
 - [Dr. Klompa Mens Sandals 154478](https://trefir.com/products/cloud-cushion-sandals-men-154478): From our men's sandal collection, the DR KLOMPA men's sandal is suitable for everyday use with its lightweight and comfortable construction. Explore now.
-  Updated: 2026-06-30T12:29:12Z
+  Updated: 2026-07-07T09:02:58Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -480,7 +480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Black-Black--Synthetic-Nubuck-Fanetta_1.jpg?v=1750148678
     Price: ₺1.020,00 TRY
 - [Cloud Cushioned Sandals Men 154404](https://trefir.com/products/cloud-cushion-sandals-men-154404): Designed for those looking for comfortable and stylish men's sandals, our genuine leather men's sandals are suitable for everyday use with their lightweight and comfort-supporting construction.
-  Updated: 2026-07-01T13:02:22Z
+  Updated: 2026-07-08T22:02:37Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -546,7 +546,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Dark-Navy--Synthetic-Nubuck_1.jpg?v=1773388297
     Price: ₺997,00 TRY
   - [Dark Navy : Synthetic Nubuck / 44](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463577648)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Dark-Navy--Synthetic-Nubuck_1.jpg?v=1773388297
     Price: ₺997,00 TRY
   - [Dark Navy : Synthetic Nubuck / 45](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463610416)
@@ -834,7 +834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_Tobacco--Synthetic-Nubuck_1.jpg?v=1773149725
     Price: ₺849,00 TRY
 - [Cloud Cushioned Sandals Men 154389](https://trefir.com/products/cloud-cushion-sandals-men-154389): Combining comfort and style, these men's sandals are perfect for everyday wear with their soft soles and modern design. Explore now.
-  Updated: 2026-06-30T12:29:13Z
+  Updated: 2026-07-08T17:42:17Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -964,7 +964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154389_White--Synthetic-Fanetta_1.jpg?v=1750148678
     Price: ₺939,00 TRY
 - [Dr. Klompa Mens Sabo 154332](https://trefir.com/products/work-clogs-for-men-154332): Designed with a focus on comfort, men’s clogs are suitable for both work use and everyday wear, offering long-lasting comfort thanks to their soft sole. Explore now.
-  Updated: 2026-06-30T12:29:13Z
+  Updated: 2026-07-08T20:35:06Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1170,7 +1170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Mink--Synthetic-Nubuck_1.jpg?v=1773388590
     Price: ₺750,75 TRY
 - [Comfort Clogs Women 154312](https://trefir.com/products/comfort-clogs-women-154312): Combining comfort with understated elegance, our women’s clogs are suitable for both work use and everyday wear, offering long-lasting comfort thanks to their soft sole. Explore now.
-  Updated: 2026-06-30T12:29:14Z
+  Updated: 2026-07-01T16:01:56Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1600,7 +1600,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154304_White--Action-Leather_1.jpg?v=1773135853
     Price: ₺828,75 TRY
 - [Everyday Comfort Mens Clogs 154303](https://trefir.com/products/work-clogs-for-men-154303): Ideal for everyday use, these men's clogs feature a simple, stylish design, leather look, and lightweight construction, making them suitable for both indoor and outdoor use. Explore now.
-  Updated: 2026-07-01T08:50:48Z
+  Updated: 2026-07-05T22:51:17Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1626,7 +1626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Marlow_1.jpg?v=1766643183
     Price: ₺780,75 TRY
   - [Brown : Synthetic Marlow / 46](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369867312)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Marlow_1.jpg?v=1766643183
     Price: ₺780,75 TRY
   - [Black : Synthetic Marlow / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369506864)
@@ -1872,13 +1872,13 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_White--Synthetic-Fanetta_1.jpg?v=1773152905
     Price: ₺780,75 TRY
 - [Dr. Klompa Womens Sandals 154228](https://trefir.com/products/cloud-cushion-sandals-women-154228): Designed for everyday comfort, our women’s sandal combines stylish colors with a soft, cushioned sole for all-day wear. Explore now.
-  Updated: 2026-07-01T08:50:29Z
+  Updated: 2026-07-07T19:12:47Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154228_Tomy--Synthetic-Fanetta_1.jpg?v=1750149477
   - [Tomy : Synthetic Fanetta / 37](https://trefir.com/products/cloud-cushion-sandals-women-154228?variant=42115491725360)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154228_Tomy--Synthetic-Fanetta_1.jpg?v=1750149477
     Price: ₺849,00 TRY
   - [Tomy : Synthetic Fanetta / 38](https://trefir.com/products/cloud-cushion-sandals-women-154228?variant=42115491758128)
@@ -2178,7 +2178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154144_White--Synthetic-Fanetta_1.jpg?v=1773387983
     Price: ₺849,00 TRY
 - [Plush Memory Foam Slippers Men 154133](https://trefir.com/products/plush-memory-foam-slippers-men-154133): Soft-soled men’s slippers feature a leather-look design and a lightweight, comfortable structure, offering ease of use both indoors and outdoors. Explore now.
-  Updated: 2026-06-30T12:29:16Z
+  Updated: 2026-07-08T12:49:57Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2292,7 +2292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Tobacco--Synthetic-Nubuck_1.jpg?v=1750150017
     Price: ₺849,00 TRY
 - [Dr. Klompa Womens Slippers 154024](https://trefir.com/products/plush-memory-foam-slippers-women-154024): Combining comfort and elegance, our women’s slippers provide all-day comfort with an exceptionally soft sole. Explore now.
-  Updated: 2026-06-30T12:29:17Z
+  Updated: 2026-07-06T11:47:57Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2418,7 +2418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154024_Mink-Black--Synthetic-Nubuck-Satin_1.webp?v=1773153493
     Price: ₺849,00 TRY
   - [Beige-Powder : Synthetic Rugan-Nubuck / 37](https://trefir.com/products/plush-memory-foam-slippers-women-154024?variant=42115505553456)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154024_Beige-Powder--Synthetic-Nubuck-Rugan_4.webp?v=1773153493
     Price: ₺849,00 TRY
   - [Beige-Powder : Synthetic Rugan-Nubuck / 38](https://trefir.com/products/plush-memory-foam-slippers-women-154024?variant=42115505586224)
@@ -2438,7 +2438,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154024_Beige-Powder--Synthetic-Nubuck-Rugan_4.webp?v=1773153493
     Price: ₺849,00 TRY
 - [Dr. Klompa Womens Sabo 154890](https://trefir.com/products/comfort-clogs-women-154890): Designed for those looking for soft-soled women’s slippers, this women’s clog offers lightweight comfort for everyday use. Explore now.
-  Updated: 2026-06-30T12:29:17Z
+  Updated: 2026-07-07T22:02:17Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2560,7 +2560,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Navy--Synthetic-Nubuck_1.jpg?v=1773386836
     Price: ₺750,75 TRY
   - [Navy : Synthetic Nubuck / 41](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368589360)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Navy--Synthetic-Nubuck_1.jpg?v=1773386836
     Price: ₺750,75 TRY
 - [Plush Memory Foam Mens Slippers 154737](https://trefir.com/products/plush-memory-foam-slippers-men-154737): Men’s slippers featuring a soft sole and a comfort-focused design, delivering ease and support for everyday indoor and outdoor wear. Explore now.
@@ -2690,13 +2690,13 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154737_Navy--Synthetic-Pako_1.jpg?v=1750150019
     Price: ₺970,00 TRY
 - [Dr. Klompa Womens Slippers 154711](https://trefir.com/products/plush-memory-foam-slippers-women-154711): Soft-soled women’s slippers with a comfort-focused design provide relaxed all-day wear for indoor and everyday use. Explore now.
-  Updated: 2026-06-30T12:29:19Z
+  Updated: 2026-07-08T07:40:06Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_White--Synthetic-Fanetta_1.jpg?v=1773150638
   - [White : Synthetic Fanetta / 37](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115621781552)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_White--Synthetic-Fanetta_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [White : Synthetic Fanetta / 38](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115621814320)
@@ -2776,7 +2776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_Grey--Synthetic-Nubuck_1.jpg?v=1767871593
     Price: ₺839,00 TRY
 - [Cloud Cushioned Sandals Men 154700](https://trefir.com/products/cloud-cushion-sandals-men-154700): Among our soft-soled men’s sandals, the DR KLOMPA men’s sandal is suitable for everyday wear with its lightweight and comfort-focused design. Explore now.
-  Updated: 2026-06-30T15:51:49Z
+  Updated: 2026-07-08T22:05:37Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2830,7 +2830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_Black--Synthetic-Nubuck_1.jpg?v=1750149952
     Price: ₺1.066,00 TRY
   - [White : Synthetic Fanetta / 41](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42696383954992)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_White--Synthetic-Fanetta_1.jpg?v=1750148678
     Price: ₺1.066,00 TRY
   - [White : Synthetic Fanetta / 42](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42696383987760)
@@ -2842,7 +2842,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_White--Synthetic-Fanetta_1.jpg?v=1750148678
     Price: ₺1.066,00 TRY
   - [White : Synthetic Fanetta / 44](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42696384053296)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_White--Synthetic-Fanetta_1.jpg?v=1750148678
     Price: ₺1.066,00 TRY
   - [White : Synthetic Fanetta / 45](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42696384086064)
@@ -2854,13 +2854,13 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_White--Synthetic-Fanetta_1.jpg?v=1750148678
     Price: ₺1.066,00 TRY
 - [Plush Memory Foam Slippers Men 154685](https://trefir.com/products/plush-memory-foam-slippers-men-154685): Comfort-focused men’s slippers with a soft sole provide lightweight, all-day ease for indoor and everyday use. Explore now.
-  Updated: 2026-06-30T21:41:36Z
+  Updated: 2026-07-08T16:05:26Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_Black--Synthetic-Fanetta_1.jpg?v=1750183037
   - [Black : Synthetic Fanetta / 41](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115634692144)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_Black--Synthetic-Fanetta_1.jpg?v=1750183037
     Price: ₺972,00 TRY
   - [Black : Synthetic Fanetta / 42](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115634724912)
@@ -3031,29 +3031,29 @@
 
 ## Collections
 
-- [Orthopedic Clogs, Slippers & Sandals for Comfort 🦶✨](https://trefir.com/collections/frontpage): Explore our orthopedic clogs, slippers, and sandals! 🦶✨ Enjoy unmatched comfort and support for your feet. Shop now for stylish footwear that cares! 🛒
+- [Home page](https://trefir.com/collections/frontpage): Explore our orthopedic clogs, slippers, and sandals! 🦶✨ Enjoy unmatched comfort and support for your feet. Shop now for stylish footwear that cares! 🛒
   Updated: 2026-05-21T13:53:34Z
   Total Products: 1
-- [Men's Orthopedic Clogs, Slippers & Sandals for Comfort 🦶👟](https://trefir.com/collections/mens-footwear): Discover men's orthopedic clogs, slippers, and sandals! 🦶✨ Experience superior comfort and support with our stylish footwear. Perfect for all-day wear! 👟💼
-  Updated: 2026-07-01T11:13:34Z
+- [Mens](https://trefir.com/collections/mens-footwear): Discover men's orthopedic clogs, slippers, and sandals! 🦶✨ Experience superior comfort and support with our stylish footwear. Perfect for all-day wear! 👟💼
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 58
-- [Orthopedic Sandals 🦶✨ Men's Sandals | Women's Sandals](https://trefir.com/collections/sandals): Explore our collection of orthopedic sandals designed for superior comfort and support. Shop now and find your perfect pair for happier, healthier feet 👟💼
-  Updated: 2026-07-01T11:13:34Z
+- [Sandals](https://trefir.com/collections/sandals): Explore our collection of orthopedic sandals designed for superior comfort and support. Shop now and find your perfect pair for happier, healthier feet 👟💼
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 29
-- [Women's Clogs, Sandals, and Slipper Models | Trefir](https://trefir.com/collections/womens-footwear): Discover fully anatomic women's clogs, sandals, and daily slipper models offering all-day comfort. Buy high quality designs today with Trefir assurance!
-  Updated: 2026-07-01T11:13:34Z
+- [Women's Footwear](https://trefir.com/collections/womens-footwear): Discover fully anatomic women's clogs, sandals, and daily slipper models offering all-day comfort. Buy high quality designs today with Trefir assurance!
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 52
-- [Men's Sandals 🦶 Quality Orthopedic Sandals for Men](https://trefir.com/collections/mens-sandals): Shop stylish men's sandals designed for comfort and support! 🌞🦶 Perfect for any occasion, our collection offers the ideal blend of style and durability. 👟✨
-  Updated: 2026-07-01T11:13:34Z
+- [Men's Sandals](https://trefir.com/collections/mens-sandals): Shop stylish men's sandals designed for comfort and support! 🌞🦶 Perfect for any occasion, our collection offers the ideal blend of style and durability. 👟✨
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 9
-- [Men's Slippers | Orthopedic and Outdoor Slippers for Men](https://trefir.com/collections/mens-slippers): Discover orthopedic slippers designed for comfort and support! 🦶✨ Perfect for soothing tired feet with cushioning and stability. Shop now for happier feet! 🛒
-  Updated: 2026-07-01T11:13:34Z
+- [Men's Slippers](https://trefir.com/collections/mens-slippers): Discover orthopedic slippers designed for comfort and support! 🦶✨ Perfect for soothing tired feet with cushioning and stability. Shop now for happier feet! 🛒
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 20
-- [Women's Slippers 👡✨ Comfy Orthopedic Slippers for Women](https://trefir.com/collections/womens-slippers): Indulge in our stylish women's slippers for cozy comfort at home! 🛋️💕 Soft and supportive, they're perfect for relaxing after a long day. Shop your favorites now! 👡✨
-  Updated: 2026-06-30T12:29:11Z
+- [Women's Slippers](https://trefir.com/collections/womens-slippers): Indulge in our stylish women's slippers for cozy comfort at home! 🛋️💕 Soft and supportive, they're perfect for relaxing after a long day. Shop your favorites now! 👡✨
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 25
-- [Women's Sandals 👡 ✨ | Orthopedic Sandals for Women](https://trefir.com/collections/womens-sandals): Explore our stylish women's sandals for ultimate comfort and flair! 🌼👡 Perfect for any occasion, enjoy chic designs that support your every step. Shop now! ✨
-  Updated: 2026-07-01T11:13:34Z
+- [Women's Sandals](https://trefir.com/collections/womens-sandals): Explore our stylish women's sandals for ultimate comfort and flair! 🌼👡 Perfect for any occasion, enjoy chic designs that support your every step. Shop now! ✨
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 15
 - [Men's Boots](https://trefir.com/collections/mens-boots)
   Updated: 2026-05-21T13:54:45Z
@@ -3061,23 +3061,23 @@
 - [Men's Loafers](https://trefir.com/collections/mens-loafers)
   Updated: 2026-05-21T13:54:32Z
   Total Products: 0
-- [Men's Clogs 🦶✨ Orthopedic Outdoor Slippers for Men](https://trefir.com/collections/mens-clogs-sabo-slippers): Discover our collection of men's clogs for unmatched comfort and style! 🦶✨ Perfect for everyday wear, enjoy support and durability with every step. Shop now! 👟
-  Updated: 2026-07-01T11:13:34Z
+- [Men's Clogs - Sabo Slippers](https://trefir.com/collections/mens-clogs-sabo-slippers): Discover our collection of men's clogs for unmatched comfort and style! 🦶✨ Perfect for everyday wear, enjoy support and durability with every step. Shop now! 👟
+  Updated: 2026-07-06T11:16:14Z
   Total Products: 5
-- [Women's Clogs 👡✨ Orthopedic Outdoor Slippers for Women](https://trefir.com/collections/womens-clogs-sabo-slippers): Step into style with our women's clogs designed for comfort and support! 🦶✨ Perfect for any occasion, enjoy trendy designs that keep your feet happy. Shop now! 👟💖
-  Updated: 2026-07-01T11:13:34Z
+- [Women's Clogs - Sabo Slippers](https://trefir.com/collections/womens-clogs-sabo-slippers): Step into style with our women's clogs designed for comfort and support! 🦶✨ Perfect for any occasion, enjoy trendy designs that keep your feet happy. Shop now! 👟💖
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 12
 - [Men's Casual Shoes](https://trefir.com/collections/mens-casual-shoes)
   Updated: 2026-06-30T12:29:11Z
   Total Products: 17
-- [Orthopedic Clogs 🦶✨  Slippers | Outdoor Slippers](https://trefir.com/collections/clogs): Shop stylish orthopedic clogs for all-day comfort. Enjoy superior arch support and cushioning for healthier feet—perfect for those on their feet!
-  Updated: 2026-07-01T11:13:34Z
+- [Clogs - Sabo Slippers](https://trefir.com/collections/clogs): Shop stylish orthopedic clogs for all-day comfort. Enjoy superior arch support and cushioning for healthier feet—perfect for those on their feet!
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 88
 - [Loafers](https://trefir.com/collections/loafers)
   Updated: 2026-05-21T13:54:20Z
   Total Products: 0
-- [Comfortable & Anatomic Slippers | Men & Women](https://trefir.com/collections/slippers): High quality, anatomic Trefir slippers designed to pamper your feet in daily life. Discover our extra-cushioned, comfortable models with free shipping!
-  Updated: 2026-07-01T11:13:34Z
+- [Slippers](https://trefir.com/collections/slippers): High quality, anatomic Trefir slippers designed to pamper your feet in daily life. Discover our extra-cushioned, comfortable models with free shipping!
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 75
 - [Boots](https://trefir.com/collections/boots)
   Updated: 2026-06-06T10:45:27Z
@@ -3086,7 +3086,7 @@
   Updated: 2026-06-19T11:15:55Z
   Total Products: 19
 - [Best Sellers](https://trefir.com/collections/best-sellers)
-  Updated: 2026-07-01T11:13:34Z
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 14
 - [Winter Footwear](https://trefir.com/collections/winter-footwear): Trefir winter footwear combines warmth for winter and support for long days for you. Explore your new favorite pair for winter!
   Updated: 2026-06-06T10:47:48Z
@@ -3097,44 +3097,44 @@
 - [Winter Men's](https://trefir.com/collections/winter-mens)
   Updated: 2026-05-21T13:52:53Z
   Total Products: 0
-- [Full Catalog Footwear | Orthopedic Clogs and Slippers](https://trefir.com/collections/full-collection): Explore our orthopedic clogs, slippers, and sandals! 🦶✨ Enjoy unmatched comfort and support for your feet. Shop now for stylish footwear that cares! 🛒
-  Updated: 2026-07-01T11:13:34Z
+- [Full Catalog](https://trefir.com/collections/full-collection): Explore our orthopedic clogs, slippers, and sandals! 🦶✨ Enjoy unmatched comfort and support for your feet. Shop now for stylish footwear that cares! 🛒
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 110
 - [Sabo Best Sellers](https://trefir.com/collections/sabo-best-sellers)
-  Updated: 2026-07-01T11:13:34Z
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 5
 - [Buy 2 Get 3!](https://trefir.com/collections/buy-2-get-3): This  is valid only for the products displayed on this page. When you add 3 units of the same or different products from this page to your cart, 1 item will be automatically free. This offer cannot be combined with other active promotions. However, if the products displayed on this page meet the conditions of other active campaigns, you can still benefit from those promotions when adding 1 or 2 items to your cart.
   Updated: 2026-06-06T17:20:28Z
   Total Products: 8
-- [Kadın Konfor Terlikleri – Rahat & Şık | Trefir](https://trefir.com/collections/kadin-konfor-terlikleri): Kadınlar için en rahat terlik modelleri Trefir'de. Destekleyici, yumuşak tabanlı kadın konfor terlikleri ile her adımda rahatlık hissedin.
-  Updated: 2026-06-30T12:29:11Z
+- [Kadın Konfor Terlikleri](https://trefir.com/collections/kadin-konfor-terlikleri): Kadınlar için en rahat terlik modelleri Trefir'de. Destekleyici, yumuşak tabanlı kadın konfor terlikleri ile her adımda rahatlık hissedin.
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 25
-- [Erkek Konfor Terlikleri – Rahat & Dayanıklı | Trefir](https://trefir.com/collections/erkek-konfor-terlikleri): Erkekler için en rahat terlik modelleri Trefir'de. Yumuşak tabanlı, hafif ve dayanıklı erkek konfor terlikleri ile günlük rahatlığınızı artırın.
-  Updated: 2026-07-01T11:13:34Z
+- [Erkek Konfor Terlikleri](https://trefir.com/collections/erkek-konfor-terlikleri): Erkekler için en rahat terlik modelleri Trefir'de. Yumuşak tabanlı, hafif ve dayanıklı erkek konfor terlikleri ile günlük rahatlığınızı artırın.
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 20
-- [Dr. Klompa Clogs, Slippers and Sandals Models | Trefir](https://trefir.com/collections/dr-klompa-footwear): Discover Dr. Klompa's fully anatomic clogs and sandal models with carefully designed soles. Buy these supreme comfortable designs with Trefir assurance!
-  Updated: 2026-07-01T11:13:34Z
+- [Dr Klompa Footwear](https://trefir.com/collections/dr-klompa-footwear): Discover Dr. Klompa's fully anatomic clogs and sandal models with carefully designed soles. Buy these supreme comfortable designs with Trefir assurance!
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 146
-- [Comfortable Women's Summer Sandals & Slippers | Trefir](https://trefir.com/collections/comfortable-summer-sandals-and-slippers-for-women): Discover Trefir women's summer sandals and slippers with cushioned soles that refresh your feet in the summer heat. Order comfortable and anatomic models securely!
-  Updated: 2026-07-01T11:13:34Z
+- [Comfortable Summer Sandals and Slippers for Women](https://trefir.com/collections/comfortable-summer-sandals-and-slippers-for-women): Discover Trefir women's summer sandals and slippers with cushioned soles that refresh your feet in the summer heat. Order comfortable and anatomic models securely!
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 35
-- [Comfortable Men's Summer Sandals & Slippers | Trefir](https://trefir.com/collections/comfortable-summer-sandals-and-slippers-for-men): Discover Trefir anatomic men's sandals and slippers that let your feet breathe in summer. Order sweat-proof, lightweight, and comfortable designs today!
-  Updated: 2026-07-01T11:13:34Z
+- [Comfortable Summer Sandals and Slippers for Men](https://trefir.com/collections/comfortable-summer-sandals-and-slippers-for-men): Discover Trefir anatomic men's sandals and slippers that let your feet breathe in summer. Order sweat-proof, lightweight, and comfortable designs today!
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 16
-- [Men's Genuine Leather Slippers, Sandals & Shoes | Trefir](https://trefir.com/collections/genuine-leather-collection): Explore the 100% genuine leather Trefir men's collection! Shop our premium sandals, slippers, and casual shoes for timeless elegance. Order today!
-  Updated: 2026-06-30T12:29:12Z
+- [Genuine Leather Collection](https://trefir.com/collections/genuine-leather-collection): Explore the 100% genuine leather Trefir men's collection! Shop our premium sandals, slippers, and casual shoes for timeless elegance. Order today!
+  Updated: 2026-07-07T11:13:37Z
   Total Products: 32
 - [New Products](https://trefir.com/collections/new-products)
-  Updated: 2026-06-30T12:29:12Z
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 30
-- [Anatomic Summer Sandals & Slippers | Trefir Comfort](https://trefir.com/collections/summer-collection): Discover Trefir Spring/Summer ! Shop stylish, breathable, and orthopedic men's & women's sandals and slippers. 35 years of comfort in every step.
-  Updated: 2026-07-01T11:13:34Z
+- [Summer Collection](https://trefir.com/collections/summer-collection): Discover Trefir Spring/Summer ! Shop stylish, breathable, and orthopedic men's & women's sandals and slippers. 35 years of comfort in every step.
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 52
-- [Home & Lifestyle Comfort: Versatile Clogs & Slippers for Indoor & Outdoor](https://trefir.com/collections/home-lifestyle-comfort): Bring home comfort to the streets. Explore our Home & Lifestyle Comfort collection featuring high quality clogs and slippers designed for both indoor and outdoor wear.
-  Updated: 2026-07-01T11:13:34Z
+- [Home & Lifestyle Comfort](https://trefir.com/collections/home-lifestyle-comfort): Bring home comfort to the streets. Explore our Home & Lifestyle Comfort collection featuring high quality clogs and slippers designed for both indoor and outdoor wear.
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 47
 - [Best Sellers New](https://trefir.com/collections/best-sellers-new)
-  Updated: 2026-07-01T11:13:34Z
+  Updated: 2026-07-08T11:13:20Z
   Total Products: 29
 
 ## Blogs
