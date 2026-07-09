@@ -6,7 +6,7 @@
 - Timezone: Europe/Malta
 - Created At: 2021-06-23T15:38:54Z
 - Contact Email: info@katana-sword.com
-- Updated At: 2026-07-02T04:00:31.916Z
+- Updated At: 2026-07-09T08:00:36.516Z
 
 ## Products
 
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $950.00 USD
 - [Fuyu Katana 冬 | Katana Sword](https://katana-sword.com/products/katana-fuyu): Experience the Katana Fuyu, a serene winter-inspired blade, crafted with impeccable balance and attention to detail, embodying tranquility and precision.
-  Updated: 2026-06-30T16:52:45Z
+  Updated: 2026-07-05T07:16:26Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: $230.00 USD
 - [Geiko Katana 芸子 | Katana Sword](https://katana-sword.com/products/katana-geiko): Experience the Katana Geiko, a blade symbolizing refined elegance and precision, crafted for enthusiasts of Japanese artistry.
-  Updated: 2026-05-27T05:36:38Z
+  Updated: 2026-07-02T16:33:48Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -101,7 +101,7 @@
     Availability: Available
     Price: $450.00 USD
 - [Ha Katana 葉 | Katana Sword](https://katana-sword.com/products/katana-ha): Explore the Katana Ha, a sword with a flawless cutting edge, representing the pinnacle of Japanese sword-making mastery and detail.
-  Updated: 2026-05-27T05:32:50Z
+  Updated: 2026-07-07T13:48:17Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: $310.00 USD
 - [Inazuma Katana 稲妻 | Katana Sword](https://katana-sword.com/products/katana-inazuma): Experience the Katana Inazuma, a powerful sword infused with the energy of lightning, crafted with precision and designed for unmatched perfection.
-  Updated: 2026-05-27T05:49:56Z
+  Updated: 2026-07-04T16:00:27Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -209,7 +209,7 @@
     Availability: Available
     Price: $350.00 USD
 - [Jin Katana 寺院 | Katana Sword](https://katana-sword.com/products/katana-jin): Discover the Katana Jin, a sword representing compassion and justice, blending timeless beauty and expert craftsmanship in every exquisite detail.
-  Updated: 2026-06-27T23:39:05Z
+  Updated: 2026-07-03T06:14:06Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -335,7 +335,7 @@
     Availability: Available
     Price: $320.00 USD
 - [Murasaki Katana 紫 | Katana Sword](https://katana-sword.com/products/katana-murasaki): Own the Katana Murasaki, a stunning blade inspired by the regal elegance of purple, symbolizing royalty, refinement, and exceptional craftsmanship.
-  Updated: 2026-06-09T13:30:06Z
+  Updated: 2026-07-04T17:33:39Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -389,7 +389,7 @@
     Availability: Available
     Price: $350.00 USD
 - [Ōku Katana オーク | Katana Sword](https://katana-sword.com/products/katana-oku): This entry-level Katana is made of refined 608 steel and a lacquered solid wood sheath. Its details like the Tsuba, Kashira or Habaki are made of carved brass. It is perfect to learn how to cut without risking breaking the blade or to decorate an interior with an Edo style. SPECIFICATIONS Blade color Grey Material 608 Steel Guard (Tsuba 鍔) Finely carved brass Scabbard (Saya 鞘) Solid lacquered wood Handle (tsuka 柄) Shagreen Leather DIMENSIONS Length with scabbard 40.5(in) Length of the blade 29.5(in) Blade thickness 0.30(in) Length of the handle 10.2(in) Width of the blade 1.2(in)
-  Updated: 2026-06-28T11:32:28Z
+  Updated: 2026-07-07T14:06:26Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -731,7 +731,7 @@
     Availability: Available
     Price: $880.00 USD
 - [Ginga Katana 銀河 | Katana Sword](https://katana-sword.com/products/ginga-katana): Own the Ginga Katana, a masterpiece inspired by the galaxy, crafted with unmatched skill and artistry, a stunning collector's piece for lovers of both beauty and history.
-  Updated: 2026-05-27T05:39:04Z
+  Updated: 2026-07-07T19:58:11Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -749,7 +749,7 @@
     Availability: Available
     Price: $990.00 USD
 - [Tonbo Katana トンボ | Katana Sword](https://katana-sword.com/products/tonbo-katana): Experience the Tonbo Katana, a sleek and elegant sword inspired by the precision and grace of the dragonfly.
-  Updated: 2026-06-06T07:45:11Z
+  Updated: 2026-07-07T22:29:47Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -803,7 +803,7 @@
     Availability: Available
     Price: $620.00 USD
 - [Sakura Katana 櫻花 | Katana Sword](https://katana-sword.com/products/sakura-katana): SPECIFICATIONS Blade Damascus blade with HamonPolished entirely by hand Guard (Tsuba 鍔)& Fittings Finely carved and polished copper Scabbar (Saya 鞘) Lacquered wood with leather frame and sageo Handle (tsuka 柄) Premium shagreen leather DIMENSIONS Length with scabbard 40.5(in) Length of the blade 29.5(in) Blade thickness 0.30(in) Length of the handle 10.2(in) Width of the blade 1.2(in) Blade (刀身): The Damascus steel blade with Hamon is not only aesthetically pleasing with its wavy pattern, but also offers increased resistance to bending and superior edge retention thanks to its multiple layers of steel forged together. Guard (Tsuba 鍔) & Fittings: The finely sculpted and polished copper fittings are not just ornaments; their weight and balance contribute to the overall handling of the katana, as well as adding a touch of elegance with their detailed patterns. Scabbard (Saya 鞘): The scabbard's lacquered wood provides robust protection for the blade, while the leather mount and sageo (cord) offer both an aesthetic touch and enhanced functionality when carrying the katana. Handle (Tsuka 柄): The premium shagreen leather used for the handle provides a textured surface for a better grip, which is essential for precise and safe use of the . This piece isn't just a collector's item; its Damascus steel construction, thoughtful balancing and hand-finishing make the Katana Sakura an ideal choice for kenjutsu or iaido practice, as well as a beautiful piece of art to display. With a total weight of 1.88 kg with scabbard and 1.22 kg without, it skilfully combines traditional aesthetics with modern performance.
-  Updated: 2026-05-27T05:24:12Z
+  Updated: 2026-07-06T01:39:16Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -893,7 +893,7 @@
     Availability: Available
     Price: $350.00 USD
 - [Watatsumi Katana 海神 | Katana Sword](https://katana-sword.com/products/watatsumi-katana): Discover the Watatsumi Katana, a sword inspired by the legendary ocean god, crafted with exceptional skill and attention to detail.
-  Updated: 2026-05-27T05:41:16Z
+  Updated: 2026-07-07T20:15:05Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1079,7 +1079,7 @@
     Availability: Available
     Price: $410.00 USD
 - [Nami Katana 波 | Katana Sword](https://katana-sword.com/products/katana-nami): Nami Ninjato – Admire the Wave Blade, a sleek sword inspired by ocean waves, blending beauty and strength for enthusiasts.
-  Updated: 2026-07-02T00:44:26Z
+  Updated: 2026-07-07T15:09:21Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1241,7 +1241,7 @@
     Availability: Available
     Price: $460.00 USD
 - [Custom-Made Katana | Katana Sword](https://katana-sword.com/products/custom-katana): Create your own Custom Katana, tailored to your preferences with traditional craftsmanship, perfect for enthusiasts and collectors.
-  Updated: 2026-06-22T17:45:05Z
+  Updated: 2026-07-09T02:02:29Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1397,7 +1397,7 @@
     Availability: Available
     Price: $770.00 USD
 - [Razor Sharpening - Made by a Master | Katana Sword](https://katana-sword.com/products/razor-sharpening-made-by-a-master): Experience masterful razor sharpening by skilled experts, ensuring your blade achieves the sharpest and most precise edge.
-  Updated: 2026-07-02T00:44:51Z
+  Updated: 2026-07-09T00:35:37Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -1548,7 +1548,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Rengoku Katana | Katana Sword](https://katana-sword.com/products/rengoku-katana): Admire the Rengoku Katana, inspired by the Flame Pillar from Demon Slayer, a must-have for anime and sword fans alike.
-  Updated: 2026-06-30T16:58:11Z
+  Updated: 2026-07-02T17:10:38Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1566,7 +1566,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Zenitsu Katana | Katana Sword](https://katana-sword.com/products/zenitsu-katana): Admire the Zenitsu Katana, a blade inspired by the Thunder Hashira from Demon Slayer, crafted with finesse.
-  Updated: 2026-06-30T16:58:11Z
+  Updated: 2026-07-05T02:01:56Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1602,7 +1602,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Tokito Muichiro Katana | Katana Sword](https://katana-sword.com/products/tokito-muichiro-katana): Experience the Tokito Muichiro Katana, a stunning replica inspired by the Mist Hashira from Demon Slayer, crafted with intricate detail.
-  Updated: 2026-06-30T19:15:37Z
+  Updated: 2026-07-08T17:13:16Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1638,7 +1638,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Tanjiro V2 Katana | Katana Sword](https://katana-sword.com/products/tanjiro-v2-katana): Own the upgraded Tanjiro V2 Katana, inspired by Demon Slayer, featuring refined craftsmanship and intricate detail.
-  Updated: 2026-07-01T22:40:46Z
+  Updated: 2026-07-09T02:16:05Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1656,7 +1656,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Enma Katana | Katana Sword](https://katana-sword.com/products/enma-katana): Discover the Enma Katana, a legendary sword known for its demon-slaying power, crafted with precision and steeped in tradition.
-  Updated: 2026-07-01T21:14:32Z
+  Updated: 2026-07-08T00:45:55Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1692,7 +1692,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Trafalgar Law Katana | Katana Sword](https://katana-sword.com/products/trafalgar-law-katana): Own the Trafalgar Law Katana, a stunning and authentic replica from One Piece, perfect for fans and collectors of the anime series.
-  Updated: 2026-06-23T23:07:15Z
+  Updated: 2026-07-07T09:58:21Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1710,7 +1710,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Zoro Katana | Katana Sword](https://katana-sword.com/products/zoro-katana): Experience the Zoro Katana, a sword inspired by the legendary swordsman from One Piece, blending power and artistry.
-  Updated: 2026-06-29T23:04:06Z
+  Updated: 2026-07-08T00:45:55Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1728,7 +1728,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Sasuke Katana | Katana Sword](https://katana-sword.com/products/sasuke-katana): Experience the Sasuke Katana, a legendary sword inspired by the iconic ninja, designed for fans and collectors of Japanese lore.
-  Updated: 2026-06-30T23:43:36Z
+  Updated: 2026-07-08T13:33:10Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1890,7 +1890,7 @@
     Availability: Available
     Price: $410.00 USD
 - [Gouka Katana 豪華 | Katana Sword](https://katana-sword.com/products/gouka-katana): Experience the Gouka Katana, a fiery blade that embodies strength and passion, crafted with expert Japanese techniques, perfect for collectors seeking power and elegance.
-  Updated: 2026-06-27T20:08:14Z
+  Updated: 2026-07-08T02:21:15Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1908,7 +1908,7 @@
     Availability: Available
     Price: $270.00 USD
 - [Katana Sword Gift Card | Katana Sword](https://katana-sword.com/products/katana-sword-gift-card): Gift the Katana Sword Gift Card, perfect for enthusiasts and collectors seeking to own or design an authentic Japanese sword.
-  Updated: 2026-05-08T22:53:56Z
+  Updated: 2026-07-03T12:12:37Z
   Vendor: Katana Sword
   Product Type: Gift Card
   Availability: Available
@@ -2006,7 +2006,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Giyu Tomioka Katana V2 | Katana Sword](https://katana-sword.com/products/giyu-tomioka-katana-1): Explore this authentic Giyu Tomioka Katana, meticulously crafted for fans of Demon Slayer and Japanese sword culture, a collector's item that blends tradition and fantasy.
-  Updated: 2026-06-30T16:58:11Z
+  Updated: 2026-07-06T17:10:06Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -2024,7 +2024,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Sanemi Shinazugawa Katana | Katana Sword](https://katana-sword.com/products/sanemi-shinazugawa-katana): Own the Sanemi Shinazugawa Katana, inspired by the Wind Pillar from Demon Slayer, crafted with precision and rich in detail.
-  Updated: 2026-06-30T16:58:12Z
+  Updated: 2026-07-04T14:29:33Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -2060,7 +2060,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Yoriichi Tsugikuni Katana | Katana Sword](https://katana-sword.com/products/yoriichi-tsugikuni-katana): Experience the Yoriichi Tsugikuni Katana, inspired by the legendary swordsman from Demon Slayer, crafted with precision for collectors.
-  Updated: 2026-06-30T16:58:12Z
+  Updated: 2026-07-05T03:56:26Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -2096,7 +2096,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Sword Stand | Katana Sword](https://katana-sword.com/products/sword-stand): Range of Katana holders for one, two or three swords.It is not possible to order a stand alone without a sword.
-  Updated: 2026-07-02T00:44:25Z
+  Updated: 2026-07-09T02:16:05Z
   Vendor: Katana Sword
   Product Type: Katana Stand
   Availability: Available
@@ -2204,7 +2204,7 @@
     Availability: Available
     Price: $290.00 USD
 - [Elden Ring Moonveil Katana | Katana Sword](https://katana-sword.com/products/elden-ring-moonveil-katana): Experience the Elden Ring Moonveil Katana, a stunning replica crafted for fans of the game and collectors of unique Japanese swords.
-  Updated: 2026-07-02T00:44:26Z
+  Updated: 2026-07-07T18:22:16Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -2632,7 +2632,7 @@
     Availability: Available
     Price: $320.00 USD
 - [Katana Sensou 戦争 | Katana Sword](https://katana-sword.com/products/katana-sensou-戦争): Admire the Katana Sensou (戦争), a powerful sword symbolizing resilience and the spirit of war, crafted with unmatched attention to detail.
-  Updated: 2026-06-19T22:59:06Z
+  Updated: 2026-07-02T21:23:21Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -2669,7 +2669,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Bleach Ichigo Bankai Katana | Katana Sword](https://katana-sword.com/products/katana-bleach-ichigo-bankai): Own the Ichigo Bankai Katana, a faithful replica from the Bleach anime, perfect for collectors and fans seeking a piece of Japanese sword-making artistry and fantasy.
-  Updated: 2026-07-02T01:48:35Z
+  Updated: 2026-07-08T22:18:16Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -2687,7 +2687,7 @@
     Availability: Available
     Price: $229.00 USD
 - [1 Tier Sword Stand | Katana Sword](https://katana-sword.com/products/1-tier-sword-stand): A single-tier stand that is sturdy and refined, designed to display and protect your katana while highlighting its timeless design and elegance.
-  Updated: 2026-06-26T03:10:12Z
+  Updated: 2026-07-09T03:07:05Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -2742,7 +2742,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Katana Shirasaya 白鞘 | Katana Sword](https://katana-sword.com/products/shirasaya-katana): Experience the Shirasaya Katana, a minimalist and refined traditional sword showcasing timeless Japanese craftsmanship.
-  Updated: 2026-05-27T05:45:05Z
+  Updated: 2026-07-03T12:40:18Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -2766,7 +2766,7 @@
     Availability: Available
     Price: $290.00 USD
 - [Katana Ryū no Hōkō 竜の咆哮 | Katana Sword](https://katana-sword.com/products/katana-ryu-no-hoko): Own the Katana Ryu no Hoko, a powerful blade inspired by the roar of the dragon, symbolizing strength and tradition in Japanese culture.
-  Updated: 2026-06-17T08:38:17Z
+  Updated: 2026-07-08T19:31:37Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -2793,64 +2793,64 @@
 
 ## Collections
 
-- [Hand Forged Katanas | Katana Sword](https://katana-sword.com/collections/katana-for-): Discover our collection of hand-forged Japanese Katanas. +150 unique Katanas in different steels and forges. Brand #1 on Katanas.
-  Updated: 2026-07-01T11:08:05Z
+- [Katana](https://katana-sword.com/collections/katana-for-): Discover our collection of hand-forged Japanese Katanas. +150 unique Katanas in different steels and forges. Brand #1 on Katanas.
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 198
-- [Tanto | Hand-Forged Tantos](https://katana-sword.com/collections/tanto): Looking for authentic tanto? Browse our collection of traditional Japanese Tanto. Ideal for collectors and martial arts enthusiasts.
-  Updated: 2026-06-30T11:07:49Z
+- [Tanto](https://katana-sword.com/collections/tanto): Looking for authentic tanto? Browse our collection of traditional Japanese Tanto. Ideal for collectors and martial arts enthusiasts.
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 8
-- [Wakizashi | Hand-Forged Wakizashis](https://katana-sword.com/collections/wakizashi): Looking for an authentic wakizashi? Discover our premium selection of the best Japanese short blades. Quality and history at your fingertips.
-  Updated: 2026-06-28T11:07:04Z
+- [Wakizashi](https://katana-sword.com/collections/wakizashi): Looking for an authentic wakizashi? Discover our premium selection of the best Japanese short blades. Quality and history at your fingertips.
+  Updated: 2026-07-03T11:09:11Z
   Total Products: 7
-- [Samurai Armor | Hand Made Real Armors](https://katana-sword.com/collections/samurai-armor): Discover our exceptional samurai armor! Wear the history and majesty of legendary warriors. Premium selections for enthusiasts. Limited offers
+- [Samurai Armor](https://katana-sword.com/collections/samurai-armor): Discover our exceptional samurai armor! Wear the history and majesty of legendary warriors. Premium selections for enthusiasts. Limited offers
   Updated: 2026-06-26T11:40:09Z
   Total Products: 6
-- [Anime Katana | Katana Sword](https://katana-sword.com/collections/anime-katana)
-  Updated: 2026-07-01T11:08:05Z
+- [Anime Katana](https://katana-sword.com/collections/anime-katana)
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 5
-- [Entry Range Katana | Katana Sword](https://katana-sword.com/collections/entry-range-katana)
-  Updated: 2026-07-01T11:08:05Z
+- [Entry Range Katana](https://katana-sword.com/collections/entry-range-katana)
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 85
-- [Mid-Range Katana | Katana Sword](https://katana-sword.com/collections/mid-range-katana)
-  Updated: 2026-06-29T11:07:42Z
+- [Mid-Range Katana](https://katana-sword.com/collections/mid-range-katana)
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 71
-- [High End Katana | Katana Sword](https://katana-sword.com/collections/high-end-katana)
-  Updated: 2026-07-01T11:08:05Z
-  Total Products: 136
-- [New Pieces | Katana Sword](https://katana-sword.com/collections/new-pieces)
-  Updated: 2026-07-01T11:08:05Z
+- [High End Katana](https://katana-sword.com/collections/high-end-katana)
+  Updated: 2026-07-08T11:07:26Z
+  Total Products: 50
+- [New Pieces](https://katana-sword.com/collections/new-pieces)
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 39
-- [Manga Katana | Katana Sword](https://katana-sword.com/collections/manga-katana): Dive into the world of manga katanas! Discover the legendary swords from your favorite series and the story behind each blade. Discover now!
-  Updated: 2026-07-01T11:08:05Z
+- [Manga Katana](https://katana-sword.com/collections/manga-katana): Dive into the world of manga katanas! Discover the legendary swords from your favorite series and the story behind each blade. Discover now!
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 23
-- [Demon Slayer Katana | Katana Sword](https://katana-sword.com/collections/demon-slayer-katana): Explore the katanas of Demon Slayer! Swords inspired by Tanjiro, Rengoku and more. Discover their power and meaning. Find out now!
-  Updated: 2026-07-01T11:08:05Z
+- [Demon Slayer Katana](https://katana-sword.com/collections/demon-slayer-katana): Explore the katanas of Demon Slayer! Swords inspired by Tanjiro, Rengoku and more. Discover their power and meaning. Find out now!
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 12
-- [One Piece Katana | Katana Sword](https://katana-sword.com/collections/one-piece-katana): Discover the katanas of Zoro, One Piece's master swordsman! Immerse yourself in the history of his legendary blades and their meaning. Get a handmade replica.
-  Updated: 2026-06-30T11:07:49Z
+- [One Piece Katana](https://katana-sword.com/collections/one-piece-katana): Discover the katanas of Zoro, One Piece's master swordsman! Immerse yourself in the history of his legendary blades and their meaning. Get a handmade replica.
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 7
-- [Naruto Katana | Katana Sword](https://katana-sword.com/collections/naruto-katana): Immerse yourself in the Naruto universe with our exclusive katanas! From Seven Ninja Swordsmen to Sasuke, quality . Join the world of ninjas
-  Updated: 2026-06-28T11:07:04Z
+- [Naruto Katana](https://katana-sword.com/collections/naruto-katana): Immerse yourself in the Naruto universe with our exclusive katanas! From Seven Ninja Swordsmen to Sasuke, quality . Join the world of ninjas
+  Updated: 2026-07-07T11:09:28Z
   Total Products: 1
-- [Bleach Katana | Katana Sword](https://katana-sword.com/collections/bleach-katana): Bleach fan? Find the katana of your favorite heroes! Exclusive offers on authentic Zanpakuto. Embody the Shinigami force.
-  Updated: 2026-06-30T11:07:49Z
+- [Bleach Katana](https://katana-sword.com/collections/bleach-katana): Bleach fan? Find the katana of your favorite heroes! Exclusive offers on authentic Zanpakuto. Embody the Shinigami force.
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 3
 - [Best Sellers](https://katana-sword.com/collections/best-sellers)
-  Updated: 2026-07-01T11:08:05Z
-  Total Products: 275
-- [Get a Handmade Ninjato | Katana Sword](https://katana-sword.com/collections/ninjato-sword): Looking for the perfect ninjato? Explore our range of ninja swords. Combine discretion and power. Exclusive offers to discover.
+  Updated: 2026-07-08T11:07:26Z
+  Total Products: 279
+- [Ninjato Sword](https://katana-sword.com/collections/ninjato-sword): Looking for the perfect ninjato? Explore our range of ninja swords. Combine discretion and power. Exclusive offers to discover.
   Updated: 2026-06-28T11:07:04Z
   Total Products: 4
-- [Authentic Japanese Sword | Katana Sword](https://katana-sword.com/collections/authentic-japanese-sword): Discover our collection of Authentic Japanese Sword, forged by Japanese masters. From Katanas to Tanto, each piece bears witness to the heritage of the Rising Sun. Find your masterpiece
-  Updated: 2026-06-11T11:07:51Z
-  Total Products: 97
-- [Authentic Japanese Katana | Katana Sword](https://katana-sword.com/collections/authentic-japanese-katana): Looking for an authentic Japanese Katana? Discover our collection of swords shipped directly from Japan, made by renowned blacksmiths.
-  Updated: 2026-06-19T20:16:52Z
-  Total Products: 86
-- [Authentic Japanese Wakizashi | Antique Swords](https://katana-sword.com/collections/authentic-japanese-wakizashi): Authentic Japanese Wakizashi Collection Dive into the heart of the Samurai heritage with our collection of authentic Japanese Wakizashi. These blades, marked by surgical precision and a deep connection with the warrior, are not mere weapons. They are witnesses of a bygone era. Discover the exceptional craftsmanship and the history of the Wakizashi, a true reflection of the Samurai's soul. The Wakizashi: Symbol of Honor and Versatility Although the Wakizashi often stands in the shadow of the longer Katana, it occupies a unique place in Japanese martial history and culture. This shorter sword, with its iconic curve, was for the Samurai much more than a secondary ; it was a symbol of their honor and a tool for rituals. Origin and Evolution Emerging in the 15th century, the Wakizashi has undergone many transformations, often in tune with Japan's sociopolitical context. From a mere secondary  on the battlefield, it became an integral part of the Samurai's Daisho - the combination of a long and a short sword. Craftsmanship and Artistry The creation of a Wakizashi is an act of complete dedication. Like other Japanese swords, it is forged from several layers of steel, folded to achieve both strength and beauty. Each Wakizashi tells a story, reflecting not just the blacksmith's talent but also a piece of his soul. Specifications and Details Period: Mainly from the Muromachi to Edo periods (15th to 19th century). Style: Traditionally single-edged with a curve, often resembling the style of the Katana, but shorter. Dimensions: Generally between 30 and 60 cm (12 to 24 inches), although there can be variations depending on the era or the blacksmith. Mountings: Often associated with beautiful saya (scabbards) and finely detailed tsuka (handles). Significance in Rituals and Ceremonies Beyond its martial use, the Wakizashi held ceremonial value. It played a key role in "seppuku", the ritual suicide of Samurai to restore honor. This profound symbolism makes each sword in our collection a treasure, an integral part of the Japanese soul. Choosing an Authentic Wakizashi When searching for a genuine Wakizashi, it's essential to consider: Documentation: An authentic Wakizashi will often come with certification from recognized institutions. Inscriptions on the Tang: Look for markings on the tang; they can provide insights about the blacksmith or the blade's origin. Overall Quality: From the blade's polish to the handle's wrap, every detail should be a testament to mastery and tradition. The Wakizashi in the Modern Era Today, the Wakizashi is valued not only for its martial prowess but also for its aesthetic appeal. Collectors and enthusiasts revere it as a piece of art, and it holds a cherished place in many households, serving as a connection to Japan's illustrious past.
+- [Authentic Japanese Sword](https://katana-sword.com/collections/authentic-japanese-sword): Discover our collection of Authentic Japanese Sword, forged by Japanese masters. From Katanas to Tanto, each piece bears witness to the heritage of the Rising Sun. Find your masterpiece
+  Updated: 2026-07-04T11:42:58Z
+  Total Products: 101
+- [Authentic Japanese Katana](https://katana-sword.com/collections/authentic-japanese-katana): Looking for an authentic Japanese Katana? Discover our collection of swords shipped directly from Japan, made by renowned blacksmiths.
+  Updated: 2026-07-04T11:42:44Z
+  Total Products: 90
+- [Authentic Japanese Wakizashi](https://katana-sword.com/collections/authentic-japanese-wakizashi): Authentic Japanese Wakizashi Collection Dive into the heart of the Samurai heritage with our collection of authentic Japanese Wakizashi. These blades, marked by surgical precision and a deep connection with the warrior, are not mere weapons. They are witnesses of a bygone era. Discover the exceptional craftsmanship and the history of the Wakizashi, a true reflection of the Samurai's soul. The Wakizashi: Symbol of Honor and Versatility Although the Wakizashi often stands in the shadow of the longer Katana, it occupies a unique place in Japanese martial history and culture. This shorter sword, with its iconic curve, was for the Samurai much more than a secondary ; it was a symbol of their honor and a tool for rituals. Origin and Evolution Emerging in the 15th century, the Wakizashi has undergone many transformations, often in tune with Japan's sociopolitical context. From a mere secondary  on the battlefield, it became an integral part of the Samurai's Daisho - the combination of a long and a short sword. Craftsmanship and Artistry The creation of a Wakizashi is an act of complete dedication. Like other Japanese swords, it is forged from several layers of steel, folded to achieve both strength and beauty. Each Wakizashi tells a story, reflecting not just the blacksmith's talent but also a piece of his soul. Specifications and Details Period: Mainly from the Muromachi to Edo periods (15th to 19th century). Style: Traditionally single-edged with a curve, often resembling the style of the Katana, but shorter. Dimensions: Generally between 30 and 60 cm (12 to 24 inches), although there can be variations depending on the era or the blacksmith. Mountings: Often associated with beautiful saya (scabbards) and finely detailed tsuka (handles). Significance in Rituals and Ceremonies Beyond its martial use, the Wakizashi held ceremonial value. It played a key role in "seppuku", the ritual suicide of Samurai to restore honor. This profound symbolism makes each sword in our collection a treasure, an integral part of the Japanese soul. Choosing an Authentic Wakizashi When searching for a genuine Wakizashi, it's essential to consider: Documentation: An authentic Wakizashi will often come with certification from recognized institutions. Inscriptions on the Tang: Look for markings on the tang; they can provide insights about the blacksmith or the blade's origin. Overall Quality: From the blade's polish to the handle's wrap, every detail should be a testament to mastery and tradition. The Wakizashi in the Modern Era Today, the Wakizashi is valued not only for its martial prowess but also for its aesthetic appeal. Collectors and enthusiasts revere it as a piece of art, and it holds a cherished place in many households, serving as a connection to Japan's illustrious past.
   Updated: 2026-05-08T22:52:52Z
   Total Products: 8
-- [Authentic Japanese Tanto | Antique Swords](https://katana-sword.com/collections/authentic-japanese-tanto): Looking for an authentic Japanese Tanto? Discover our collection of Tanto hand-forged in Japan by renowned blacksmiths. Japanese art pieces.
+- [Authentic Japanese Tanto](https://katana-sword.com/collections/authentic-japanese-tanto): Looking for an authentic Japanese Tanto? Discover our collection of Tanto hand-forged in Japan by renowned blacksmiths. Japanese art pieces.
   Updated: 2026-05-08T22:52:52Z
   Total Products: 1
 - [Black Katana](https://katana-sword.com/collections/black-katana): Welcome to our realm dedicated to enthusiasts of Black Katanas, a range meticulously crafted for connoisseurs of martial arts and Japanese culture. Our collection of Black Katanas is not just a selection of items; it's an invitation to experience the beauty and power of these iconic sword, refined over centuries. The Elegance and Might of the Black Katana The Black Katana, a symbol of strength and elegance, stands as a centerpiece in the arsenal of any martial artist or sword collector. Its unique appearance, marked by a blackened blade and often ornately decorated scabbard (Saya), makes it a coveted item for many. Each piece in our collection is chosen for its exceptional quality, craftsmanship, and authenticity. Superior Quality and Traditional Craftsmanship Our Black Katanas are the product of ancient expertise, upheld by master smiths. They employ traditional forging techniques to craft each blade, ensuring unmatched quality and durability. The specific tempering of the blade bestows our Black Katanas with unparalleled sharpness and resilience, perfect for martial arts practice or display. A Wide Selection for All Enthusiasts Whether you're a martial artist, a collector, or simply an admirer of Japanese culture, our range of Black Katanas offers something for everyone. From traditional designs to more contemporary interpretations, every Black Katana in our collection has a story. Discover unique pieces, limited editions, and faithful reproductions of historic Katanas. Customization and Accessories Understanding the importance of personalization in owning a Black Katana, we also offer a variety of accessories and customization options. Choose from different Tsuba (guards), Tsuka (handles), and Saya (scabbards) to create a Black Katana that perfectly aligns with your preferences and needs. Responsible Acquisition and Expert Advice Acquiring a Black Katana is a significant commitment. We ensure responsible and ethical sourcing of our Katanas, adhering to all relevant regulations. Moreover, our team of experts is available to provide guidance and advice, ensuring you make an informed decision that aligns with your passion and collection goals. An  in History and Craftsmanship Investing in a Black Katana from our collection is not just a purchase; it's an  in history and craftsmanship. These Katanas are not only striking in appearance but also represent a rich cultural heritage. Owning one is a way to connect with the historical significance and artistry of Japanese sword-making. For Practitioners and Collectors Alike Our Black Katanas are ideal for both practitioners and collectors. For those engaged in martial arts, these Katanas offer balance, precision, and durability required for training. For collectors, they provide an exquisite addition to any collection, showcasing the elegance and mystery of Japanese swords. Safe and Secure Online Shopping Experience We understand the importance of a safe and secure shopping experience. Our online platform for Black Katanas is designed with your security in mind, offering secure payment options and ensuring the privacy of your transactions. You can shop with confidence, knowing that your purchase is protected. Join the Community of Black Katana Enthusiasts By choosing a Black Katana from our collection, you join a community of enthusiasts who appreciate the finer aspects of Japanese swords. We offer forums, articles, and events to connect with fellow collectors and practitioners, sharing knowledge and experiences.
@@ -2871,65 +2871,65 @@
 - [Green Katana](https://katana-sword.com/collections/green-katana)
   Updated: 2026-05-08T22:52:53Z
   Total Products: 0
-- [Mini Katana | Katana Sword](https://katana-sword.com/collections/mini-katana)
-  Updated: 2026-07-01T11:08:05Z
+- [Mini Katana](https://katana-sword.com/collections/mini-katana)
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 19
 - [test](https://katana-sword.com/collections/test)
-  Updated: 2026-07-01T11:08:05Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 311
 - [Black Friday 2024](https://katana-sword.com/collections/black-friday-2024)
-  Updated: 2026-07-01T11:08:05Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 316
 - [FLASH SALES](https://katana-sword.com/collections/flash-sales)
-  Updated: 2026-07-01T11:08:05Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 15
-- [Katana Stands | Katana Sword](https://katana-sword.com/collections/katana-stands)
-  Updated: 2026-07-01T11:08:05Z
+- [Katana Stands](https://katana-sword.com/collections/katana-stands)
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 9
-- [Odachi Sword | Katana Sword](https://katana-sword.com/collections/odachi-sword): Odachi Sword Collection – Hand-Forged Japanese Great Swords (Ōdachi / Nodachi) Discover the awe-inspiring Odachi sword (also written Ōdachi or Nodachi) – the legendary “great sword” of feudal Japan. With blades exceeding 90 cm (35 in) in length, these long katana were the samurai’s answer to open-field combat during the Nanboku-chō (1336-1392) and early Sengoku periods. Their imposing reach cut through pikes, cavalry and armour, earning a fearsome battlefield reputation. What Makes an Odachi Unique? Extreme Size & Reach – Historic examples like the Norimitsu Ōdachi measure 3.77 m / 12.4 ft and weigh 14.5 kg, illustrating the ultimate expression of the form. Battlefield Specialist – Wielded two-handed on foot for sweeping cuts that broke enemy lines. Some were also offered to Shintō shrines as symbols of martial devotion. Swordsmith Mastery – Forging, differential hardening and polishing a blade of this length requires rare skill; every piece in our range is full-tang, clay-tempered high-carbon or folded steel. Hand-Forged Excellence by Katana-Sword.com Each Odachi in our collection is crafted by seasoned smiths who marry shinogi-zukuri geometry with modern heat- to deliver optimum balance and bite. Choose from: 1095 / T10 tool-steel or 15-fold Damascus billets Genuine samegawa (ray-skin) & tight tsuka-maki Iron, brass or copper tsuba in dragon, wave, or mon motifs Lacquered magnolia saya with buffalo-horn fittings Optional personal engraving for a one-of-a-kind heirloom Historical Timeline at a Glance Period Role of the Odachi Nanboku-chō (1336-1392) Infantry great-sword for anti-cavalry strikes Muromachi (1336-1573) Continued field use; ceremonial offerings emerge Edo (1603-1868) Primarily display pieces demonstrating smith prowess Modern Era Collectors, martial artists & shrine dedications Who Buys an Odachi Today? Whether you’re a collector seeking a centre-piece, an iaido / kenjutsu practitioner building grip strength, or a history enthusiast captivated by samurai warfare, our Odachi range delivers impeccable presence and performance. Leading competitors like TrueKatana and Swords-for- feature similar swords, but we back ours with a 30-day money-back guarantee and fast worldwide shipping. Complete Your Samurai Arsenal Strengthen your training set and internal site architecture by pairing an Odachi with our Katana, or wakizashi. This semantic interlinking helps Google recognise Katana-Sword.com as an authority on Japanese blades. Order With Confidence Secure checkout & multiple currencies Free, tracked global delivery 30-day satisfaction guarantee – love it or send it back Claim your piece of samurai history now – add an Odachi to your cart and feel the power of Japan’s greatest sword. { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "What is an Odachi sword?", "acceptedAnswer": { "@type": "Answer", "text": "An Odachi (also called Ōdachi or Nodachi) is an exceptionally long Japanese great sword with a blade typically over 90 cm. It was designed for sweeping battlefield strikes during the 14th–16th centuries." } }, { "@type": "Question", "name": "How long is a traditional Odachi?", "acceptedAnswer": { "@type": "Answer", "text": "Historic blades vary, but many Odachi range from 120 cm to over 200 cm overall. The famous Norimitsu Ōdachi measures an extraordinary 377 cm (148 in)." } }, { "@type": "Question", "name": "Are Odachi swords legal to own?", "acceptedAnswer": { "@type": "Answer", "text": "Ownership is legal in most countries, but local regulations on blade length or edged weapons may apply. Always check the laws in your area before ordering." } }, { "@type": "Question", "name": "Can I use an Odachi for martial arts practice?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Our hand-forged Odachi are full-tang, tempered and balanced for controlled cutting or solo forms, though their size suits experienced practitioners." } } ] }
-  Updated: 2026-06-01T11:07:02Z
+- [Odachi Sword](https://katana-sword.com/collections/odachi-sword): Odachi Sword Collection – Hand-Forged Japanese Great Swords (Ōdachi / Nodachi) Discover the awe-inspiring Odachi sword (also written Ōdachi or Nodachi) – the legendary “great sword” of feudal Japan. With blades exceeding 90 cm (35 in) in length, these long katana were the samurai’s answer to open-field combat during the Nanboku-chō (1336-1392) and early Sengoku periods. Their imposing reach cut through pikes, cavalry and armour, earning a fearsome battlefield reputation. What Makes an Odachi Unique? Extreme Size & Reach – Historic examples like the Norimitsu Ōdachi measure 3.77 m / 12.4 ft and weigh 14.5 kg, illustrating the ultimate expression of the form. Battlefield Specialist – Wielded two-handed on foot for sweeping cuts that broke enemy lines. Some were also offered to Shintō shrines as symbols of martial devotion. Swordsmith Mastery – Forging, differential hardening and polishing a blade of this length requires rare skill; every piece in our range is full-tang, clay-tempered high-carbon or folded steel. Hand-Forged Excellence by Katana-Sword.com Each Odachi in our collection is crafted by seasoned smiths who marry shinogi-zukuri geometry with modern heat- to deliver optimum balance and bite. Choose from: 1095 / T10 tool-steel or 15-fold Damascus billets Genuine samegawa (ray-skin) & tight tsuka-maki Iron, brass or copper tsuba in dragon, wave, or mon motifs Lacquered magnolia saya with buffalo-horn fittings Optional personal engraving for a one-of-a-kind heirloom Historical Timeline at a Glance Period Role of the Odachi Nanboku-chō (1336-1392) Infantry great-sword for anti-cavalry strikes Muromachi (1336-1573) Continued field use; ceremonial offerings emerge Edo (1603-1868) Primarily display pieces demonstrating smith prowess Modern Era Collectors, martial artists & shrine dedications Who Buys an Odachi Today? Whether you’re a collector seeking a centre-piece, an iaido / kenjutsu practitioner building grip strength, or a history enthusiast captivated by samurai warfare, our Odachi range delivers impeccable presence and performance. Leading competitors like TrueKatana and Swords-for- feature similar swords, but we back ours with a 30-day money-back guarantee and fast worldwide shipping. Complete Your Samurai Arsenal Strengthen your training set and internal site architecture by pairing an Odachi with our Katana, or wakizashi. This semantic interlinking helps Google recognise Katana-Sword.com as an authority on Japanese blades. Order With Confidence Secure checkout & multiple currencies Free, tracked global delivery 30-day satisfaction guarantee – love it or send it back Claim your piece of samurai history now – add an Odachi to your cart and feel the power of Japan’s greatest sword. { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "What is an Odachi sword?", "acceptedAnswer": { "@type": "Answer", "text": "An Odachi (also called Ōdachi or Nodachi) is an exceptionally long Japanese great sword with a blade typically over 90 cm. It was designed for sweeping battlefield strikes during the 14th–16th centuries." } }, { "@type": "Question", "name": "How long is a traditional Odachi?", "acceptedAnswer": { "@type": "Answer", "text": "Historic blades vary, but many Odachi range from 120 cm to over 200 cm overall. The famous Norimitsu Ōdachi measures an extraordinary 377 cm (148 in)." } }, { "@type": "Question", "name": "Are Odachi swords legal to own?", "acceptedAnswer": { "@type": "Answer", "text": "Ownership is legal in most countries, but local regulations on blade length or edged weapons may apply. Always check the laws in your area before ordering." } }, { "@type": "Question", "name": "Can I use an Odachi for martial arts practice?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Our hand-forged Odachi are full-tang, tempered and balanced for controlled cutting or solo forms, though their size suits experienced practitioners." } } ] }
+  Updated: 2026-07-04T11:06:55Z
   Total Products: 2
 - [Manganese](https://katana-sword.com/collections/manganese)
-  Updated: 2026-07-01T11:08:05Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 26
 - [SANMAI](https://katana-sword.com/collections/sanmai)
-  Updated: 2026-06-25T11:10:57Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 8
 - [T10](https://katana-sword.com/collections/t10)
-  Updated: 2026-06-30T11:07:49Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 52
 - [Kobuse](https://katana-sword.com/collections/kobuse)
-  Updated: 2026-06-04T12:48:46Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 2
 - [Honsanmai](https://katana-sword.com/collections/honsanmai)
   Updated: 2026-06-04T12:48:47Z
   Total Products: 1
 - [Damascus](https://katana-sword.com/collections/damascus)
-  Updated: 2026-06-28T11:07:04Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 40
 - [1060](https://katana-sword.com/collections/1060)
-  Updated: 2026-07-01T11:08:05Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 21
 - [1095](https://katana-sword.com/collections/1095)
   Updated: 2026-06-04T12:48:47Z
   Total Products: 4
-- [Handmade Medieval Swords | European Sword](https://katana-sword.com/collections/medieval-sword): Discover our Medieval Swords Collection: authentic longswords, bastard swords, claymores, Viking swords, arming swords, greatswords, falchions, messers, estocs and more. Perfect for collectors, HEMA practitioners, and history enthusiasts.
-  Updated: 2026-07-01T11:08:05Z
+- [Medieval Sword](https://katana-sword.com/collections/medieval-sword): Discover our Medieval Swords Collection: authentic longswords, bastard swords, claymores, Viking swords, arming swords, greatswords, falchions, messers, estocs and more. Perfect for collectors, HEMA practitioners, and history enthusiasts.
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 20
 - [Japanese Handmade Swords](https://katana-sword.com/collections/japanese-handmade-swords)
-  Updated: 2026-07-01T11:08:05Z
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 229
-- [Limited Edition Pieces | Katana Sword](https://katana-sword.com/collections/limited-edition-pieces)
-  Updated: 2026-07-01T11:08:05Z
+- [Limited Edition Pieces](https://katana-sword.com/collections/limited-edition-pieces)
+  Updated: 2026-07-08T11:07:26Z
   Total Products: 19
-- [Naginata Swords | Katana Sword](https://katana-sword.com/collections/naginata-swords)
+- [Naginata Swords](https://katana-sword.com/collections/naginata-swords)
   Updated: 2026-06-10T12:30:15Z
   Total Products: 1
-- [Tactical Kydex Swords | Katana Sword](https://katana-sword.com/collections/tactical-kydex-swords)
-  Updated: 2026-07-01T11:08:05Z
+- [Tactical Kydex Swords](https://katana-sword.com/collections/tactical-kydex-swords)
+  Updated: 2026-07-07T11:09:28Z
   Total Products: 13
-- [Tactical Swords — Battle-Ready Blackout Katanas & Blades](https://katana-sword.com/collections/tactical-swords): Modern tactical swords built to cut: full-tang spring steel, G10 grips, Kydex sheaths. Blackout katanas, gladius, kukri & more. Free US shipping.
-  Updated: 2026-07-01T16:08:35Z
+- [Tactical Swords](https://katana-sword.com/collections/tactical-swords): Modern tactical swords built to cut: full-tang spring steel, G10 grips, Kydex sheaths. Blackout katanas, gladius, kukri & more. Free US shipping.
+  Updated: 2026-07-07T11:09:28Z
   Total Products: 27
 
 ## Blogs
@@ -3459,6 +3459,8 @@
   Updated: 2026-01-28T16:01:05Z
 - [Mix and Match](https://katana-sword.com/pages/collection-bundle)
   Updated: 2026-01-15T14:13:30Z
+- [Types of Japanese Swords: 20 Katana, Tachi & More Explained](https://katana-sword.com/pages/japanese-swords): 
+  Updated: 2026-07-02T18:54:39Z
 
 ## Policies
 
