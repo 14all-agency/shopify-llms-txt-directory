@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2026-07-02T04:00:59.773Z
+- Updated At: 2026-07-09T08:01:01.161Z
 
 ## Products
 
