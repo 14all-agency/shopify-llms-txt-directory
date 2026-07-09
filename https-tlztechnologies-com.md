@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T13:50:08Z
 - Contact Email: sales@tlztechnologies.com
-- Updated At: 2026-07-02T00:00:44.003Z
+- Updated At: 2026-07-09T00:00:44.136Z
 
 ## Products
 
 - [HID Indala FP3511A FlexPass 603 Mullion Prox Reader Assa Abloy - Genuine Reader](https://tlztechnologies.com/products/hid-indala-fp3511a-flexpass-603-mullion-prox-reader-assa-abloy-genuine-reader): HID Indala FlexPass 603 Mullion Prox Reader Assa Abloy FP3511A - Genuine Reader Condition: New / As Pictured Package: Original Box Make: HID Type: Mullion Reader Color: Black Model Number: FP3511A
-  Updated: 2026-07-01T12:41:03Z
+  Updated: 2026-07-02T18:28:40Z
   Vendor: HID
   Product Type: 
   Availability: Available
@@ -277,7 +277,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/products/46505913.jpg?v=1679914258
   Price: $12.92 USD
 - [NCR POS Terminal 17" Touch Screen System with Biometric Reader 7404-1200-8801](https://tlztechnologies.com/products/ncr-pos-terminal-17-touch-screen-with-biometric-reader-7404-1200-8801): NCR POS Terminal 17" Touch Screen System with Biometric Reader 7404-1200-8801 Condition: Excellent Condition Package: Brown Box Make: NCR Type: Touch Printer Part #: 7404-1200-8801
-  Updated: 2026-07-01T11:09:47Z
+  Updated: 2026-07-07T12:08:00Z
   Vendor: NCR
   Product Type: 
   Availability: Available
@@ -704,7 +704,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46506302.jpg?v=1750790646
   Price: $70.96 USD
 - [Brocade 1G-SFP-TWX-0501 Direct Attached SFP Stacking Copper 5M Cable](https://tlztechnologies.com/products/brocade-1g-sfp-twx-0501-direct-attached-sfp-stacking-copper-cable-size-5m): Brocade 1G-SFP-TWX-0501 Direct Attached SFP Stacking Copper 5M Cable Condition: New Item description: New (Open box) Package: Brown Box Make: Brocade Type: Cable Color: Black Part #: 1G-SFP-TWX-0501
-  Updated: 2026-07-01T12:47:04Z
+  Updated: 2026-07-05T13:31:38Z
   Vendor: Brocade
   Product Type: Cable 
   Availability: Available
@@ -732,12 +732,12 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46517534.jpg?v=1688652500
   Price: $440.27 USD
 - [Motorola Slimline CP Antenna AN610-SCL71128EU for Indoor & Industrial Use](https://tlztechnologies.com/products/motorola-slimline-cp-antenna-an610-scl71128eu-for-indoor-industrial-use): Motorola Slimline CP Antenna AN610-SCL71128EU for Indoor & Industrial Use Condition: New Package: Brown Box Make: Motorola Type: CP Antenna Color: Grey & BlackPart #: AN610-SCL71128EU
-  Updated: 2026-07-01T13:00:44Z
+  Updated: 2026-07-06T07:24:11Z
   Vendor: Motorola
   Product Type: Antenna
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/products/46506505.jpg?v=1668436921
-  Price: $158.59 USD
+  Price: $117.58 USD
 - [ViewZ VZ-CM18B Telescopic 6-18 Ceiling Mount for VZ-PVM I4 IP Public View](https://tlztechnologies.com/products/viewz-vz-cm18b-telescopic-6-18-ceiling-mount-for-vz-pvm-i4-ip-public-view): ViewZ VZ-CM18B Telescopic 6-18 Ceiling Mount for VZ-PVM I4 IP Public View Condition: New Package: Original Package Make: ViewZ Type: Telescopic 6-18 Ceiling Mount Model #: VZ-CM18B Compatibility: For VZ-PVM I4 IP Public View
   Updated: 2026-07-01T11:36:03Z
   Vendor: ViewZ
@@ -746,12 +746,12 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/products/46515204.jpg?v=1668437116
   Price: $65.04 USD
 - [Advantech 10.1" Rugged X86 Based Vehicle Mounted Terminal DLT ACK4000603](https://tlztechnologies.com/products/advantech-10-1-rugged-x86-based-vehicle-mounted-terminal-dlt-ack4000603-new): Advantech 10.1" Rugged X86 Based Vehicle Mounted Terminal with Integrated Keyboard DLT ACK4000603 Condition: New Item description: New (Open box) Other condition notes: Distressed box due to warehouse handling Make: Advantech Type: Vehicle Mount Terminal Model: DLT-V7210 K Part #: ACK4000603
-  Updated: 2026-07-01T13:17:02Z
+  Updated: 2026-07-08T11:06:27Z
   Vendor: Advantech
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/51480868.jpg?v=1693839591
-  Price: $380.62 USD
+  Price: $375.24 USD
 - [Cisco 1841 T1 Router 1-Port ISDN Wan Interface Card Genuine WIC-1B-S/T-V3](https://tlztechnologies.com/products/cisco-1-port-isdn-wan-interface-card-wic-1b-s-t-v3-for-1841-t1-router): Cisco 1-PORT ISDN Wan Interface Card WIC-1B-S/T-V3 for 1841 T1 Router Make: Cisco Type: Interface Card Part Number: WIC-1B-S/T-V3 Compatibility: For Cisco 1841 T1/E1 Router Accessories included Cable
   Updated: 2026-07-01T12:24:59Z
   Vendor: Cisco
@@ -809,7 +809,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/51408236.jpg?v=1689686027
   Price: $22.20 USD
 - [Ingenico IPP 310 & 350  Mount Terminal Stand Genuine OEM SEN351009](https://tlztechnologies.com/products/ingenico-sen351009-credit-card-mount-terminal-stand-for-ingenico-ipp-310-350): Ingenico IPP 310 & 350  Mount Terminal Stand Genuine OEM SEN351009 Condition: As Pictured / Excellent Condition Package: Brown Box Make: Ingenico Type:  Mount Terminal Stand Color: Black Model #: SEN351009 Compatibility: For Ingenico IPP 310 & 350 
-  Updated: 2026-07-01T12:22:43Z
+  Updated: 2026-07-07T11:56:35Z
   Vendor: Ingenico
   Product Type: 
   Availability: Available
@@ -893,7 +893,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/51413374.jpg?v=1750893060
   Price: $55.36 USD
 - [Ingenico ISC Touch 250 Terminal Fixed Stand Heavy Duty SEN350819 Genuine OEM](https://tlztechnologies.com/products/ingenico-sen350819-lockable-0-65-degrees-tilt-heavy-duty-stand-for-isc250): Ingenico ISC Touch 250 Terminal Fixed Stand Heavy Duty SEN350819 Genuine OEM Condition: As Pictured / OBN Package: Brown Box Make: Ingenico Type: POS Terminal Stand Part #: SEN350819 Compatibility: For Ingenico ISC Touch 250 Terminal
-  Updated: 2026-07-01T12:40:11Z
+  Updated: 2026-07-07T12:21:22Z
   Vendor: Ingenico
   Product Type: Fixed Stand
   Availability: Available
@@ -956,19 +956,19 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46514697.jpg?v=1772010410
   Price: $69.74 USD
 - [Ingenico iSC350 Adhesive Glue Countertop Pad Base Payment Terminal BOX350769 OEM](https://tlztechnologies.com/products/ingenico-isc350-payment-terminal-adhesive-glue-countertop-pad-base-box350769): Ingenico iSC350 Adhesive Glue Countertop Pad Base Payment Terminal BOX350769 OEM Condition: New Item description: New (Open box)Package: Brown Box Make: Ingenico Type: Glue Countertop Pad Base MPN #: BOX350769 Compatibility: Ingenico iSC350 iSC480 iSC250 Payment Terminal
-  Updated: 2026-07-01T10:44:34Z
+  Updated: 2026-07-07T11:52:52Z
   Vendor: Ingenico
   Product Type: Countertop Pad Base
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46513053.jpg?v=1733304672
   Price: $13.34 USD
 - [Intermec CK30 CK31 Battery Mobile Computer AB1G 0527M 2400mAh 7.4V Genuine](https://tlztechnologies.com/products/intermec-ck30-ck31-genuine-rechargeable-li-ion-battery-2400mah-7-4v-ab1g): Intermec CK30 CK31 Battery Mobile Computer AB1G 0527M 2400mAh 7.4V Genuine Condition: NewItem description: New Package: Original package Make: Intermec Type: Battery Model #: AB1GPart #: 0527MCompatibility: Intermec CK30 CK31 Handheld Computer
-  Updated: 2026-07-01T12:20:38Z
+  Updated: 2026-07-06T06:10:38Z
   Vendor: Intermec
   Product Type: Battery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/51408078.jpg?v=1732697076
-  Price: $32.40 USD
+  Price: $28.64 USD
 - [Zebra 3.25" x 5.5" Thermal Labels Trans Matte 2000 White 72286 Genuine - 4 Rolls](https://tlztechnologies.com/products/zebra-3-25-x-5-5-trans-matte-2000-genuine-thermal-white-labels-72286-4-rolls): Zebra 3.25" x 5.5" Thermal Labels Trans Matte 2000 White 72286 Genuine - 4 Rolls Condition: New Package: Brown Box 5 Major benefits of Genuine printer labels Minimize printhead wear and tear – Happy printer, long life! Specifically designed for performance – finishes & right adhesives properties! Optimum printer performance – No downtime! Best print quality – No faded labels! Extensively tested printers they will be used on – No frustrating printer jams! Brand: Zebra Type: Thermal Labels Size: 3.25" x 5.5" Part #: 72286
   Updated: 2026-07-01T12:43:01Z
   Vendor: Zebra
@@ -1257,12 +1257,12 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/52482731.jpg?v=1771424471
   Price: $142.37 USD
 - [Zebra Labels 2.25" x 3" Z-Select 4000D Thermal White Genuine 10010042 - 3 Rolls](https://tlztechnologies.com/products/zebra-2-25-x-3-z-select-4000d-thermal-transfer-white-labels-10010042-3-rolls): Zebra Labels 2.25" x 3" Z-Select 4000D Thermal White Genuine 10010042 - 3 Rolls Condition: New Package: Brown Box 5 Major benefits of Genuine printer labels Minimize printhead wear and tear – Happy printer, long life! Specifically designed for performance – finishes & right adhesives properties! Optimum printer performance – No downtime! Best print quality – No faded labels! Extensively tested printers they will be used on – No frustrating printer jams! Brand: Zebra Type: Thermal Transfer Labels Color: White Size: 2.25" x 3" Part #: 10010042
-  Updated: 2026-07-01T10:51:59Z
+  Updated: 2026-07-06T14:16:58Z
   Vendor: Zebra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/47235325.jpg?v=1737721456
-  Price: $63.11 USD
+  Price: $56.92 USD
 - [Zebra Ribbon 3.50" x 1476' Thermal Wax Ribbons 05319BK08945 Genuine - 12 Rolls](https://tlztechnologies.com/products/zebra-ribbon-3-50-x-1476-thermal-transfer-wax-ribbons-05319bk08945-12-rolls): Zebra Ribbon 3.50" x 1476' Thermal Wax Ribbons 05319BK08945 Genuine - 12 Rolls Condition: New Package: Brown Box Brand: Zebra Type: Wax Ribbons Color: Black Part #: 05319BK08945
   Updated: 2026-07-01T12:11:50Z
   Vendor: Zebra
@@ -1306,7 +1306,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/51345423.jpg?v=1756928659
   Price: $32.57 USD
 - [Sony Security Camera Indoor FHD SNC-EB640 Box-type 1080p Network Surveillance](https://tlztechnologies.com/products/sony-snc-eb640-box-type-full-hd-1080p-ip-network-camera-new-in-box): Sony SNC-EB640 Box-type Full HD 1080p IP Network Camera (New in Box) Condition: New Package: Original Package Make: Sony Type: IP Network Camera Model #: SNC-EB640
-  Updated: 2026-07-01T13:00:05Z
+  Updated: 2026-07-03T18:17:48Z
   Vendor: Sony
   Product Type: IP Network Camera
   Availability: Available
@@ -1397,7 +1397,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46516495.jpg?v=1752668745
   Price: $17.68 USD
 - [Zebra 1.75" X 2.875" Z-Band Infant ID Wristband Genuine FID-BABY-T-1-500 - 1Roll](https://tlztechnologies.com/products/zebra-1-75-x-2-875-z-band-fusion-infant-id-wristband-fid-baby-t-1-500-1-roll): Zebra 1.75" X 2.875" Z-Band Infant ID Wristband Genuine FID-BABY-T-1-500 - 1Roll Condition: New / Open Box Package: Brown Box 5 Major benefits of Genuine printer labels Minimize printhead wear and tear – Happy printer, long life! Specifically designed for performance – finishes & right adhesives properties! Optimum printer performance – No downtime! Best print quality – No faded labels! Extensively tested printers they will be used on – No frustrating printer jams!Brand: ZebraType: WristbandSize: 1.75" X 2.875"Part #: FID-BABY-T-1-500
-  Updated: 2026-07-01T11:31:50Z
+  Updated: 2026-07-07T12:00:34Z
   Vendor: Zebra
   Product Type: 
   Availability: Available
@@ -1481,12 +1481,12 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46506561.jpg?v=1737973491
   Price: $54.43 USD
 - [Sony UNI-PBU1 Power Block Supply Unit Rated Outdoor NEMA4 Enclosure AC24V](https://tlztechnologies.com/products/sony-uni-pbu1-rated-outdoor-nema4-enclosure-power-block-supply-unit-ac24v): Sony UNI-PBU1 Power Block Supply Unit Rated Outdoor NEMA4 Enclosure AC24V Condition: New Item description: New (Open box) Package: Original Package Make: Sony Type: Power Block Supply Unit Part #: UNI-PBU1 Compatibility: UNI-WMB1, UNI-WMB3, UNI-WMB4, UNI-WMB7
-  Updated: 2026-07-01T13:00:57Z
+  Updated: 2026-07-06T11:38:21Z
   Vendor: Sony
   Product Type: Power Block Supply Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46910100.jpg?v=1747060275
-  Price: $164.72 USD
+  Price: $114.37 USD
 - [Avaya WLAN Indoor Wireless Internet Access Points WAP9114](https://tlztechnologies.com/products/avaya-wlan-indoor-wireless-internet-access-points-wap9114): Avaya WLAN Indoor Wireless Internet Access Points WAP9114 Condition: New Package: Original Box Make: Avaya Type: Wireless Internet Access Points Model #: WAP9114
   Updated: 2026-07-01T10:56:21Z
   Vendor: Avaya
@@ -1607,12 +1607,12 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/51467461.jpg?v=1752659423
   Price: $106.45 USD
 - [Symbol MC75 Handheld Mobile Computer MC7598-PYESKQWA9WR + Charging Cradle](https://tlztechnologies.com/products/symbol-mc75-handheld-mobile-computer-mc7598-pyeskqwa9wr-charging-cradle): Symbol MC75 Wireless Handheld Mobile Computer MC7598-PYESKQWA9WR Condition: Excellent Packaging: Brown box Make: Symbol Model: MC75 Type: Handheld Mobile Computer P/N: MC7598-PYESKQWA9WR Accessories included Desktop Charging Cradle
-  Updated: 2026-07-01T14:03:15Z
+  Updated: 2026-07-03T09:13:48Z
   Vendor: Symbol
   Product Type: Mobile Computer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46512169.jpg?v=1700218964
-  Price: $107.96 USD
+  Price: $91.64 USD
 - [Honeywell 75E Arm-Mount Sled + Wearable Band & Ring Scanner 50126981-001](https://tlztechnologies.com/products/honeywell-75e-arm-mount-sled-wearable-band-ring-scanner-50126981-1): Honeywell 75E Arm-Mount Sled + Wearable Band & Ring Scanner 50126981-001 Condition: As Pictured Package: Brown Box Make: Honeywell Type: Arm-Mount Sled with Band & Ring Scanner Part #: 50126981-001 Compatibility: For Honeywell 75E Handheld Mobile Scanner
   Updated: 2026-07-01T12:20:50Z
   Vendor: Honeywell
@@ -1764,36 +1764,36 @@
 
 ## Collections
 
-- [Zebra, Honeywell & Cisco Computers | Shop 50% Off Retail](https://tlztechnologies.com/collections/computer-accessories): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco accessories. Get authentic enterprise computing gear at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-06-30T22:52:08Z
-  Total Products: 75
-- [Zebra & Honeywell POS Scanners | Shop 50% Off Retail at TLZ](https://tlztechnologies.com/collections/pos-systems-scanners): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco POS gear. Get authentic barcode scanners and point-of- systems at a fraction of the cost.
+- [Computer & Accessories](https://tlztechnologies.com/collections/computer-accessories): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco accessories. Get authentic enterprise computing gear at a fraction of the cost. Shop 50% Off Retail!
+  Updated: 2026-07-08T11:06:28Z
+  Total Products: 76
+- [POS Systems & Scanners](https://tlztechnologies.com/collections/pos-systems-scanners): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco POS gear. Get authentic barcode scanners and point-of- systems at a fraction of the cost.
   Updated: 2026-06-30T22:51:08Z
   Total Products: 45
-- [Zebra, Honeywell, Cisco & Avaya | Shop 50% Off Retail at TLZ](https://tlztechnologies.com/collections/electronics-more): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco electronics. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-06-30T22:52:08Z
+- [Electronics & More](https://tlztechnologies.com/collections/electronics-more): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco electronics. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
+  Updated: 2026-07-08T11:06:28Z
   Total Products: 43
-- [Cisco, Avaya & Polycom Networking | Shop 50% Off Retail](https://tlztechnologies.com/collections/networking-equipment-servers-storage): Shop Zebra, Honeywell, Intermec, Cisco, Avaya & Polycom. Get authentic servers, storage, and networking gear at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-06-30T22:52:23Z
-  Total Products: 160
-- [Polycom, Avaya & Cisco Business Phones | Shop 50% Off Retail](https://tlztechnologies.com/collections/business-phones-video-conferencing): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco. Get authentic video conferencing and business phone systems at a fraction of the cost. Shop 50% Off!
+- [Networking Equipment, Servers & Storage](https://tlztechnologies.com/collections/networking-equipment-servers-storage): Shop Zebra, Honeywell, Intermec, Cisco, Avaya & Polycom. Get authentic servers, storage, and networking gear at a fraction of the cost. Shop 50% Off Retail!
+  Updated: 2026-07-08T11:37:18Z
+  Total Products: 162
+- [Business Phones & Video Conferencing](https://tlztechnologies.com/collections/business-phones-video-conferencing): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco. Get authentic video conferencing and business phone systems at a fraction of the cost. Shop 50% Off!
   Updated: 2026-06-30T22:47:38Z
   Total Products: 20
 - [Industrial Printers & Print Supplies](https://tlztechnologies.com/collections/industrial-printers-print-supplies): Shop Zebra, Honeywell, Intermec, Cisco, Avaya & Polycom. Get authentic industrial printers and thermal supplies at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-06-30T22:13:51Z
+  Updated: 2026-07-06T14:16:59Z
   Total Products: 82
-- [Zebra, Honeywell & Cisco Super Savers | Shop 50% Off Retail](https://tlztechnologies.com/collections/): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco deals. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-07-01T17:34:42Z
+- [Super Saver Deals](https://tlztechnologies.com/collections/): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco deals. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
+  Updated: 2026-07-08T20:30:54Z
   Total Products: 1611
-- [Honeywell & Cisco Security Systems | Shop 50% Off Retail](https://tlztechnologies.com/collections/security-systems): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco gear. Get authentic security systems and surveillance hardware at a fraction of the cost. Shop 50% Off!
+- [Security Systems](https://tlztechnologies.com/collections/security-systems): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco gear. Get authentic security systems and surveillance hardware at a fraction of the cost. Shop 50% Off!
   Updated: 2026-06-30T22:07:51Z
   Total Products: 8
-- [Zebra, Honeywell, Intermec & Cisco | Shop 50% Off Retail](https://tlztechnologies.com/collections/best-sellers): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco best sellers. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-07-01T17:34:10Z
-  Total Products: 2024
-- [Zebra Technologies Collection | Shop 50% Off Retail at TLZ](https://tlztechnologies.com/collections/zebra-technologies): Shop Zebra, Honeywell, Intermec, Cisco & Polycom hardware. Get authentic Zebra mobile computers and printers at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-07-01T17:06:55Z
-  Total Products: 1092
+- [Best Sellers](https://tlztechnologies.com/collections/best-sellers): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco best sellers. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
+  Updated: 2026-07-08T20:30:54Z
+  Total Products: 2002
+- [Zebra Technologies (expensive products)](https://tlztechnologies.com/collections/zebra-technologies): Shop Zebra, Honeywell, Intermec, Cisco & Polycom hardware. Get authentic Zebra mobile computers and printers at a fraction of the cost. Shop 50% Off Retail!
+  Updated: 2026-07-08T20:30:54Z
+  Total Products: 1103
 - [Security Systems (Copy)](https://tlztechnologies.com/collections/security-systems-copy)
   Updated: 2026-06-30T22:07:51Z
   Total Products: 8
@@ -1968,6 +1968,15 @@
     Author: Joe Muita
   - [Realize Enterprise Goals with Honeywell's Strategic Hardware Options](https://tlztechnologies.com/blogs/news/realize-enterprise-goals-with-honeywells-strategic-hardware-options): Realize Enterprise Goals with Honeywell's Strategic Hardware Options
     Updated: 2026-07-01T01:27:38Z
+    Author: Joe Muita
+  - [Comparing Zebra and Honeywell on Enterprise Technology Affordability](https://tlztechnologies.com/blogs/news/comparing-zebra-and-honeywell-on-enterprise-technology-affordability): Comparing Zebra and Honeywell on Enterprise Technology Affordability
+    Updated: 2026-07-03T01:11:48Z
+    Author: Joe Muita
+  - [Harnessing Zebra's Enterprise Hardware for Cost-Effective Success](https://tlztechnologies.com/blogs/news/harnessing-zebras-enterprise-hardware-for-cost-effective-success): Harnessing Zebra's Enterprise Hardware for Cost-Effective Success
+    Updated: 2026-07-06T01:27:31Z
+    Author: Joe Muita
+  - [A Practical Guide to Honeywell's Business Enterprise Technology](https://tlztechnologies.com/blogs/news/a-practical-guide-to-honeywells-business-enterprise-technology): A Practical Guide to Honeywell's Business Enterprise Technology
+    Updated: 2026-07-08T01:21:25Z
     Author: Joe Muita
 
 ## Store Pages
