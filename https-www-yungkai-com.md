@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-16T17:42:50Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-06-27T00:00:33.307Z
+- Updated At: 2026-07-09T00:00:35.174Z
 
 ## Products
 
 - [logo crewneck](https://www.yungkai.com/products/logo-crewneck): crewneck in cream, made from 80% cotton, 10% polyester, and 10% recycled polyester from plastic bottles. featuring a premium puff print logo. Size Chart Size Body Length (in) Chest Width (in) XS 26 18 S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-06-25T20:30:07Z
+  Updated: 2026-07-08T20:51:49Z
   Vendor: yung kai
   Product Type: Crewneck
   Availability: Available
@@ -35,14 +35,14 @@
     Availability: Available
     Price: $65.00 USD
 - [logo tote](https://www.yungkai.com/products/logo-tote): 100% cotton tote bag in natural
-  Updated: 2026-06-02T00:45:07Z
+  Updated: 2026-07-08T20:51:49Z
   Vendor: yung kai
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_Tote.png?v=1750258314
   Price: $25.00 USD
 - [flower, moon, star tour tee](https://www.yungkai.com/products/flower-moon-star-tour-tee): 100% US heavyweight cotton t-shirt in powder blue Size Chart Size Chest Width (in) Body Length (in) S 18 26 1/2 M 20 28 1/2 L 22 30 1/2 XL 24 31 1/2 2XL 26 32 1/2
-  Updated: 2026-06-22T22:08:47Z
+  Updated: 2026-07-08T20:51:50Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -63,7 +63,7 @@
     Availability: Available
     Price: $20.00 USD
 - [cosmic tee](https://www.yungkai.com/products/cosmic-tee): 100% ringspun cotton, garment-dyed t-shirt in pepper. Pre-shrunk. Size Chart Size Chest Width (in) Body Length (in) S 18 1/4 26 1/2 M 20 1/4 28 L 22 29 1/2 XL 24 30 3/4 2XL 26 31 1/2
-  Updated: 2026-06-26T20:00:36Z
+  Updated: 2026-07-08T20:51:50Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -84,7 +84,7 @@
     Availability: Available
     Price: $20.00 USD
 - [flower, moon, star tour zip hoodie](https://www.yungkai.com/products/flower-moon-star-tour-zip-hoodie): 60% cotton, 40% recycled polyester hooded sweatshirt in oatmeal heather Size Chart Size Chest Width (in) Body Length (in) S 20 27 M 22 28 L 24 29 XL 26 30 2XL 28 31
-  Updated: 2026-06-21T22:39:20Z
+  Updated: 2026-07-08T20:51:50Z
   Vendor: yung kai
   Product Type: Zip Hoodie
   Availability: Available
@@ -105,14 +105,14 @@
     Availability: Available
     Price: $75.00 USD
 - [stay with the ocean, i'll find you - galaxy vinyl](https://www.yungkai.com/products/stay-with-the-ocean-ill-find-you-galaxy-vinyl): yung kai's debut full-length album, on 12" galaxy vinyl. tracklist blue wildflower how do you dance? my light (我的光) my love my love my love do you think you could love me? flower tell me (a lullaby) beach song by uyng kai & asumuh think i'm falling i hope my cat loves me release date: september 26, 2025
-  Updated: 2026-06-26T22:42:27Z
+  Updated: 2026-07-08T20:51:50Z
   Vendor: yung kai
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_Stay_Vinyl.png?v=1762184250
   Price: $30.00 USD
 - [stay with the ocean tour crewneck](https://www.yungkai.com/products/stay-with-the-ocean-tour-crewneck): 80% cotton, 20% recycled polyester crewneck sweatshirt in navy Size Chart Size Chest Width (in) Body Length (in) XS 18 26 S 20 27 M 22 28 L 24 29 XL 26 30 2XL 28 31
-  Updated: 2026-06-01T21:35:22Z
+  Updated: 2026-07-08T20:51:51Z
   Vendor: yung kai
   Product Type: Crewneck
   Availability: Available
@@ -136,7 +136,7 @@
     Availability: Available
     Price: $60.00 USD
 - [stay with the ocean tour tee - navy](https://www.yungkai.com/products/stay-with-the-ocean-tour-tee-navy): 100% US heavyweight cotton, pigment-dyed t-shirt in navy blue Size Chart Size Chest Width (in) Body Length (in) XS 18 1/2 25 S 20 1/2 26 M 22 1/2 27 L 24 1/2 28 XL 26 1/2 29 2XL 28 1/2 30
-  Updated: 2026-06-26T18:33:59Z
+  Updated: 2026-07-08T20:51:51Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -160,7 +160,7 @@
     Availability: Available
     Price: $25.00 USD
 - [stay with the ocean tour tee - white](https://www.yungkai.com/products/stay-with-the-ocean-tour-tee-white): 100% US heavyweight cotton, pigment-dyed t-shirt in white Size Chart Size Chest Width (in) Body Length (in) XS 18 1/2 25 S 20 1/2 26 M 22 1/2 27 L 24 1/2 28 XL 26 1/2 29 2XL 28 1/2 30
-  Updated: 2026-06-25T19:31:26Z
+  Updated: 2026-07-08T20:51:51Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -184,7 +184,7 @@
     Availability: Available
     Price: $30.00 USD
 - [stinky tee](https://www.yungkai.com/products/stinky-tee): 100% US heavyweight cotton, pigment-dyed t-shirt in salmon Size Chart Size Chest Width (in) Body Length (in) XS 18 1/2 25 S 20 1/2 26 M 22 1/2 27 L 24 1/2 28 XL 26 1/2 29 2XL 28 1/2 30
-  Updated: 2026-06-25T05:00:21Z
+  Updated: 2026-07-08T20:51:51Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -208,7 +208,7 @@
     Availability: Available
     Price: $40.00 USD
 - [sketch ringer tee](https://www.yungkai.com/products/sketch-ringer-tee): 100% 100% ring-spun cotton ringer t-shirt in white/navy Size Chart Size Chest Width (in) Body Length (in) XS 16 1/2 26 S 18 28 M 20 29 L 22 30 XL 24 31 2XL 26 32
-  Updated: 2026-06-25T05:00:21Z
+  Updated: 2026-07-08T20:51:52Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -232,21 +232,21 @@
     Availability: Available
     Price: $40.00 USD
 - [sketch tote](https://www.yungkai.com/products/sketch-tote): 100% cotton tote bag in natural
-  Updated: 2026-06-01T21:35:58Z
+  Updated: 2026-07-08T20:51:52Z
   Vendor: yung kai
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_0001_166983_1_307131_d.png?v=1771442545
   Price: $30.00 USD
 - [embroidered flower hat](https://www.yungkai.com/products/embroidered-flower-hat): 100% cotton twill baseball cap in navy with embroidered design
-  Updated: 2026-06-01T21:37:37Z
+  Updated: 2026-07-08T20:51:52Z
   Vendor: yung kai
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_0004_166925_1_307040_d.png?v=1771449012
   Price: $40.00 USD
 - [logo tee](https://www.yungkai.com/products/logo-tee): 100% combed cotton t-shirt in cream with logo print Size Chart Size Chest Width (in) Body Length (in) M 22 27 1/4 L 23 1/2 28 1/4 XL 25 29 1/4 2XL 26 3/4 30 1/4
-  Updated: 2026-06-25T05:00:22Z
+  Updated: 2026-07-08T20:51:52Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -264,7 +264,7 @@
     Availability: Available
     Price: $40.00 USD
 - [stay with the ocean tour poster](https://www.yungkai.com/products/stay-with-the-ocean-tour-poster): 11x17" poster
-  Updated: 2026-06-26T18:33:58Z
+  Updated: 2026-07-08T20:51:53Z
   Vendor: yung kai
   Product Type: Poster
   Availability: Available
@@ -274,28 +274,28 @@
 ## Collections
 
 - [Home page](https://www.yungkai.com/collections/frontpage)
-  Updated: 2026-06-26T16:30:25Z
+  Updated: 2026-07-08T20:51:54Z
   Total Products: 19
 - [apparel](https://www.yungkai.com/collections/apparel)
-  Updated: 2026-06-26T16:30:25Z
+  Updated: 2026-07-08T20:51:54Z
   Total Products: 11
 - [accessories](https://www.yungkai.com/collections/accessories)
-  Updated: 2026-06-02T11:26:00Z
+  Updated: 2026-07-08T20:51:54Z
   Total Products: 6
 - [all](https://www.yungkai.com/collections/all)
-  Updated: 2026-06-26T16:30:25Z
+  Updated: 2026-07-08T20:51:54Z
   Total Products: 20
 - [music](https://www.yungkai.com/collections/music)
-  Updated: 2026-06-26T16:30:25Z
+  Updated: 2026-07-08T20:51:52Z
   Total Products: 3
 - [$20.25](https://www.yungkai.com/collections/20-25)
-  Updated: 2026-04-14T21:04:30Z
+  Updated: 2026-07-08T20:31:48Z
   Total Products: 0
 - [2026 Tour Merch](https://www.yungkai.com/collections/2026-tour-merch)
-  Updated: 2026-06-26T16:30:25Z
+  Updated: 2026-07-08T20:51:54Z
   Total Products: 10
 - [](https://www.yungkai.com/collections/)
-  Updated: 2026-06-26T16:30:25Z
+  Updated: 2026-07-08T20:51:53Z
   Total Products: 4
 
 ## Store Pages
