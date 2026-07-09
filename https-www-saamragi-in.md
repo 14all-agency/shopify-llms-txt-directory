@@ -6,523 +6,495 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-06-20T19:52:53Z
 - Contact Email: saamragi.business@gmail.com
-- Updated At: 2026-07-02T00:00:29.978Z
+- Updated At: 2026-07-09T00:00:33.228Z
 
 ## Products
 
 - [SHIKHA - Mul-Cotton Floral Sequins | Saamragi](https://www.saamragi.in/products/shikha-mul-cotton-floral-sequins): Mul-Cotton Floral Sequins
-  Updated: 2026-07-01T18:43:19Z
+  Updated: 2026-07-02T06:43:31Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/7_20260509_010530_0006.png?v=1782317672
   Price: ₹3,299.00 INR
 - [AYESHA - Mul-Cotton Floral Sequins | Saamragi](https://www.saamragi.in/products/ayesha-mul-cotton-floral-sequins): Mul-Cotton Floral Sequins
-  Updated: 2026-07-01T18:01:02Z
+  Updated: 2026-07-02T06:01:08Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/2_20260509_010530_0001.png?v=1782317670
   Price: ₹3,299.00 INR
 - [TAANI - Black & Yellow Temple Border Dhaniakhali Saree | Saamragi](https://www.saamragi.in/products/taani-black-yellow-temple-border-dhaniakhali-saree): Black & Yellow Temple Border Dhaniakhali Saree
-  Updated: 2026-07-01T19:07:30Z
+  Updated: 2026-07-02T07:07:35Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/4_20260419_161516_0003.png?v=1782317670
   Price: ₹1,599.00 INR
 - [EVA - Black Temple Border Dhaniakhali Saree | Saamragi](https://www.saamragi.in/products/eva-black-temple-border-dhaniakhali-saree): Black Temple Border Dhaniakhali Saree
-  Updated: 2026-07-01T18:08:55Z
+  Updated: 2026-07-02T06:08:59Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/1_20260405_221339_0000.png?v=1782317667
   Price: ₹1,599.00 INR
 - [REVATHI - Golden monochrome Semi Tussar Silk | Saamragi](https://www.saamragi.in/products/revathi-golden-monochrome-semi-tussar-silk): Golden monochrome Semi Tussar Silk
-  Updated: 2026-07-01T18:42:02Z
+  Updated: 2026-07-03T12:45:12Z
   Vendor: Saamragi
   Product Type: Saree > Semi Tussar Silk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/IMG_4823.png?v=1782317664
   Price: ₹3,999.00 INR
 - [Sandra - Resham kota with gamcha patchwork saree in black | Saamragi](https://www.saamragi.in/products/sandra-resham-kota-with-gamcha-patchwork-saree-in-black): Resham kota with gamcha patchwork saree in black
-  Updated: 2026-07-01T18:43:02Z
+  Updated: 2026-07-02T06:43:10Z
   Vendor: Saamragi
   Product Type: Saree > South Cotton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/5_20250427_152600_0004.png?v=1782317662
   Price: ₹2,699.00 INR
 - [KUHELI - Black and Red and White Assam Khadi Saree | Saamragi](https://www.saamragi.in/products/kuheli-black-and-red-and-white-assam-khadi-saree): Black and Red and White Assam Khadi Saree
-  Updated: 2026-07-01T18:37:03Z
+  Updated: 2026-07-02T06:37:08Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/1_20250501_204104_0000.png?v=1782317661
   Price: ₹3,199.00 INR
 - [KOMOLIKA - Black and Red Assam Khadi Saree | Saamragi](https://www.saamragi.in/products/komolika-black-and-red-assam-khadi-saree): Black and Red Assam Khadi Saree
-  Updated: 2026-07-01T18:12:55Z
+  Updated: 2026-07-02T06:13:01Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/2_20250426_131421_0001-1.png?v=1782317876
   Price: ₹3,199.00 INR
 - [Cutting Chai - Mulmul Cotton or Mul Cotton is the softest, lightest form of fine cotton and is popularly … | Saamragi](https://www.saamragi.in/products/cutting-chai): Mulmul Cotton or Mul Cotton is the softest, lightest form of fine cotton and is popularly …
-  Updated: 2026-07-01T18:08:34Z
+  Updated: 2026-07-02T06:08:39Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/1_20250423_155209_0000.png?v=1782317731
   Price: ₹1,499.00 INR
 - [Sohortoli - Komola | Saamragi](https://www.saamragi.in/products/sohortoli-komola): Komola
-  Updated: 2026-07-01T18:43:45Z
+  Updated: 2026-07-02T06:43:59Z
   Vendor: Saamragi
   Product Type: Saree > South Cotton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/5_20250418_025450_0004.png?v=1782317743
   Price: ₹1,999.00 INR
 - [Sohortoli - Kalo-Sada | Saamragi](https://www.saamragi.in/products/sohortoli-kalo-sada): Kalo-Sada
-  Updated: 2026-07-01T18:43:38Z
+  Updated: 2026-07-02T06:43:50Z
   Vendor: Saamragi
   Product Type: Saree > South Cotton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/1_20250417_000502_0000.png?v=1782317665
   Price: ₹1,999.00 INR
 - [SHAYARI - White chikankari with zari work with broad border | Saamragi](https://www.saamragi.in/products/shayari-white-chikankari-with-zari-work-with-broad-border): White chikankari with zari work with broad border
-  Updated: 2026-07-01T18:43:12Z
+  Updated: 2026-07-02T06:43:21Z
   Vendor: Saamragi
   Product Type: Saree > South Cotton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/1000118760-scaled.jpg?v=1782317655
   Price: ₹1,399.00 INR
 - [Sokhi - Resham kota with gamcha patchwork saree | Saamragi](https://www.saamragi.in/products/sokhi-resham-kota-with-gamcha-patchwork-saree): Resham kota with gamcha patchwork saree
-  Updated: 2026-07-01T19:07:21Z
+  Updated: 2026-07-02T07:07:25Z
   Vendor: Saamragi
   Product Type: Saree > South Cotton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/2_20240920_014812_0001-scaled.jpg?v=1782317653
   Price: ₹2,699.00 INR
 - [Laal Gaddi - mul cotton saree | Saamragi](https://www.saamragi.in/products/laal-gaddi-mul-cotton-saree): mul cotton saree
-  Updated: 2026-07-01T18:37:12Z
+  Updated: 2026-07-02T06:37:17Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240705_125812_0000-scaled.jpg?v=1782317653
   Price: ₹1,599.00 INR
-- [Gulabi Gaddi - mul cotton saree | Saamragi](https://www.saamragi.in/products/cherry-coke-polka-saree-red-black-copy): mul cotton saree
-  Updated: 2026-06-27T03:16:56Z
-  Vendor: Saamragi
-  Product Type: Saree
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/cherry-coke-polka-saree-red-black.webp?v=1782135809
-  Price: ₹1,599.00 INR
 - [SORU CHANDMALA - Necklace | Saamragi](https://www.saamragi.in/products/soru-chandmala-necklace): Necklace
-  Updated: 2026-07-01T20:19:40Z
+  Updated: 2026-07-03T12:45:14Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240630_135428_0000-scaled.jpg?v=1782317651
   Price: ₹2,199.00 INR
 - [SAPTOPODI - Long dangler earring | Saamragi](https://www.saamragi.in/products/saptopodi-long-dangler-earring): Long dangler earring
-  Updated: 2026-07-01T20:07:26Z
+  Updated: 2026-07-03T12:45:13Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240629_232853_0000-scaled.jpg?v=1782317650
   Price: ₹1,699.00 INR
 - [CHAKRA - chatai necklace | Saamragi](https://www.saamragi.in/products/chakra-chatai-necklace): chatai necklace
-  Updated: 2026-07-01T19:09:57Z
+  Updated: 2026-07-03T12:44:17Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_213729_0000-scaled.jpg?v=1782317648
   Price: ₹2,199.00 INR
 - [FUL TAALI - Sleek mangalsutra | Saamragi](https://www.saamragi.in/products/ful-taali-sleek-mangalsutra): Sleek mangalsutra
-  Updated: 2026-07-01T19:10:25Z
+  Updated: 2026-07-03T12:44:19Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_221059_0000-scaled.jpg?v=1782317649
   Price: ₹999.00 INR
 - [GOL TUNNEL - round flower pendent set | Saamragi](https://www.saamragi.in/products/gol-tunnel-round-flower-pendent-set): round flower pendent set
-  Updated: 2026-07-01T19:10:34Z
+  Updated: 2026-07-03T12:44:20Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_212138_0000-scaled.jpg?v=1782317648
   Price: ₹1,499.00 INR
 - [HEXAGON - mangalsutra | Saamragi](https://www.saamragi.in/products/hexagon-mangalsutra): mangalsutra
-  Updated: 2026-07-01T19:14:53Z
+  Updated: 2026-07-03T12:44:38Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_213827_0000-scaled.jpg?v=1782317645
   Price: ₹999.00 INR
 - [JHUMUR - jhumko sleek necklace | Saamragi](https://www.saamragi.in/products/jhumur-jhumko-sleek-necklace): jhumko sleek necklace
-  Updated: 2026-07-01T19:15:49Z
+  Updated: 2026-07-03T12:44:39Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_212929_0000-scaled.jpg?v=1782317643
   Price: ₹1,099.00 INR
 - [MOYUR - peacock full kaan | Saamragi](https://www.saamragi.in/products/moyur-peacock-full-kaan): peacock full kaan
-  Updated: 2026-07-01T19:55:58Z
+  Updated: 2026-07-03T12:44:42Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_215901_0000-scaled.jpg?v=1782317643
   Price: ₹1,399.00 INR
 - [KONIKA - flower full kaan | Saamragi](https://www.saamragi.in/products/konika-flower-full-kaan): flower full kaan
-  Updated: 2026-07-01T20:21:55Z
+  Updated: 2026-07-03T12:44:40Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_215140_0000-scaled.jpg?v=1782317642
   Price: ₹1,799.00 INR
 - [Mangalam - Sleek mangalsutra | Saamragi](https://www.saamragi.in/products/mangalam-sleek-mangalsutra): Sleek mangalsutra
-  Updated: 2026-07-01T19:16:12Z
+  Updated: 2026-07-03T12:44:41Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_211856_0000-scaled.jpg?v=1782317641
   Price: ₹799.00 INR
 - [SHIRI - 3 step sleek necklace | Saamragi](https://www.saamragi.in/products/shiri-3-step-sleek-necklace): 3 step sleek necklace
-  Updated: 2026-07-01T20:07:44Z
+  Updated: 2026-07-03T12:45:14Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_212711_0000-scaled.jpg?v=1782317641
   Price: ₹1,299.00 INR
 - [TUNNEL - jaal tunnel pendent + suta tarcel | Saamragi](https://www.saamragi.in/products/tunnel-jaal-tunnel-pendent-suta-tarcel): jaal tunnel pendent + suta tarcel
-  Updated: 2026-07-01T20:20:00Z
+  Updated: 2026-07-03T12:45:16Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240602_211232_0000-scaled.jpg?v=1782317640
   Price: ₹799.00 INR
 - [SHOLA - small dangler earring | Saamragi](https://www.saamragi.in/products/shola-small-dangler-earring): small dangler earring
-  Updated: 2026-07-01T20:07:55Z
+  Updated: 2026-07-03T12:45:14Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240528_001151_0000-scaled.jpg?v=1782317639
   Price: ₹799.00 INR
 - [MOTIHARI - pearl gold beaded necklace | Saamragi](https://www.saamragi.in/products/motihari-pearl-gold-beaded-necklace): pearl gold beaded necklace
-  Updated: 2026-07-01T19:55:52Z
+  Updated: 2026-07-03T12:44:42Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240528_004555_0000-scaled.jpg?v=1782317639
   Price: ₹3,599.00 INR
 - [HEERA - Nakshatra hoop earring | Saamragi](https://www.saamragi.in/products/heera-nakshatra-hoop-earring): Nakshatra hoop earring
-  Updated: 2026-07-01T19:14:46Z
+  Updated: 2026-07-03T12:44:38Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240525_203508_0000-scaled.jpg?v=1782317638
   Price: ₹999.00 INR
 - [GUL-MAYUR - Bridal choker | Saamragi](https://www.saamragi.in/products/gul-mayur-bridal-choker): Bridal choker
-  Updated: 2026-07-01T19:14:29Z
+  Updated: 2026-07-03T12:44:21Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240525_225152_0000-scaled.jpg?v=1782317638
   Price: ₹2,999.00 INR
 - [GULMOHAR - Bridal choker | Saamragi](https://www.saamragi.in/products/gulmohar-bridal-choker): Bridal choker
-  Updated: 2026-07-01T19:14:37Z
+  Updated: 2026-07-03T12:44:21Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/PSX_20240523_005029-scaled.jpg?v=1782317636
   Price: ₹2,199.00 INR
 - [JORA MOYUR - Sleek necklace | Saamragi](https://www.saamragi.in/products/jora-moyur-sleek-necklace): Sleek necklace
-  Updated: 2026-07-01T19:15:59Z
+  Updated: 2026-07-03T12:44:39Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240525_232606_0000-scaled.jpg?v=1782317639
   Price: ₹1,899.00 INR
 - [NITYA - Sleek Sita har | Saamragi](https://www.saamragi.in/products/nitya-sleek-sita-har): Sleek Sita har
-  Updated: 2026-07-01T19:56:13Z
+  Updated: 2026-07-03T12:45:10Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240525_231701_0000-scaled.jpg?v=1782317635
   Price: ₹1,999.00 INR
 - [TAPA TINI - Flower sleek necklace | Saamragi](https://www.saamragi.in/products/tapa-tini-flower-sleek-necklace): Flower sleek necklace
-  Updated: 2026-07-01T20:19:47Z
+  Updated: 2026-07-03T12:45:15Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240525_230838_0000-scaled.jpg?v=1782317634
   Price: ₹1,799.00 INR
 - [FULJHADI Safaed - Kantha stich work Saree on Resham kota | Saamragi](https://www.saamragi.in/products/fuljhadi-safaed-kantha-stich-work-saree-on-resham-kota): Kantha stich work Saree on Resham kota
-  Updated: 2026-07-01T18:09:06Z
+  Updated: 2026-07-03T12:44:19Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/web-kantha-5-scaled.jpg?v=1782317634
   Price: ₹3,299.00 INR
 - [PATABAHAR - mantasha | Saamragi](https://www.saamragi.in/products/patabahar-mantasha): mantasha
-  Updated: 2026-07-01T19:56:27Z
+  Updated: 2026-07-03T12:45:11Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240521_151654_0000-scaled.jpg?v=1782317633
   Price: ₹1,899.00 INR
 - [MOYURAKHSHI - long kan-jhumko | Saamragi](https://www.saamragi.in/products/moyurakhshi-long-kan-jhumko): long kan-jhumko
-  Updated: 2026-07-01T19:56:06Z
+  Updated: 2026-07-03T12:44:42Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240520_191958_0000-scaled.jpg?v=1782317631
   Price: ₹1,799.00 INR
 - [THE LEAF BOUQUET - full kaan | Saamragi](https://www.saamragi.in/products/the-leaf-bouquet-full-kaan): full kaan
-  Updated: 2026-07-01T20:19:54Z
+  Updated: 2026-07-03T12:45:16Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240520_182723_0000-scaled.jpg?v=1782317630
   Price: ₹1,799.00 INR
 - [AAMRAPALI - aam kolka necklace | Saamragi](https://www.saamragi.in/products/aamrapali-aam-kolka-necklace): aam kolka necklace
-  Updated: 2026-07-01T19:28:57Z
+  Updated: 2026-07-03T12:44:17Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_180902_0000-scaled.jpg?v=1782317628
   Price: ₹2,099.00 INR
-- [JHIRI NOLOK - mini septum nose pin with pearls | Saamragi](https://www.saamragi.in/products/jhiri-nolok-mini-septum-nose-pin-with-pearls-2): mini septum nose pin with pearls
-  Updated: 2026-06-27T03:17:02Z
-  Vendor: Saamragi
-  Product Type: Jewellery
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/jhiri-nolok-mini-septum-nose-pin-with-pearls-2-01.jpg?v=1782135914
-  Price: ₹499.00 INR
 - [SHEULI - long mob chain | Saamragi](https://www.saamragi.in/products/sheuli-long-mob-chain): long mob chain
-  Updated: 2026-07-01T20:07:36Z
+  Updated: 2026-07-03T12:45:13Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240514_220033_0000-1-scaled.jpg?v=1782317625
   Price: ₹3,799.00 INR
 - [GUL - flower in bloom choker | Saamragi](https://www.saamragi.in/products/jhiri-nolok-mini-septum-nose-pin-with-pearls): flower in bloom choker
-  Updated: 2026-07-01T20:21:49Z
+  Updated: 2026-07-03T12:44:38Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240514_212239_0000-scaled.jpg?v=1782317626
   Price: ₹499.00 INR
 - [PADMAVATI - U-belt Necklace | Saamragi](https://www.saamragi.in/products/padmavati-u-belt-necklace): U-belt Necklace
-  Updated: 2026-07-01T19:56:22Z
+  Updated: 2026-07-03T12:45:10Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240514_201523_0000-scaled.jpg?v=1782317624
   Price: ₹3,799.00 INR
 - [PIEU - chandbali jhumko drop earring | Saamragi](https://www.saamragi.in/products/pieu-chandbali-jhumko-drop-earring): chandbali jhumko drop earring
-  Updated: 2026-07-01T20:07:14Z
+  Updated: 2026-07-03T12:45:11Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240514_132341_0000-scaled.jpg?v=1782317623
   Price: ₹1,699.00 INR
 - [ANANYA - Saree | Saamragi](https://www.saamragi.in/products/ananya-saree-temple-border-work): Saree
-  Updated: 2026-07-01T18:00:52Z
+  Updated: 2026-07-02T06:00:57Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/saree-9-scaled.jpg?v=1782236967
   Price: ₹2,499.00 INR
 - [CHANDRIMA - Saree | Saamragi](https://www.saamragi.in/products/raima-saree): Saree
-  Updated: 2026-07-01T18:41:53Z
+  Updated: 2026-07-03T12:45:12Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/2d-scaled.jpg?v=1782317611
   Price: ₹2,799.00 INR
 - [TANAYA - Saree | Saamragi](https://www.saamragi.in/products/tanaya-saree): Saree
-  Updated: 2026-07-01T19:07:55Z
+  Updated: 2026-07-03T12:45:15Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/4a-scaled.jpg?v=1782317608
   Price: ₹2,799.00 INR
 - [MALLIKA - Saree | Saamragi](https://www.saamragi.in/products/mallika-saree): Saree
-  Updated: 2026-07-01T18:37:19Z
+  Updated: 2026-07-03T12:44:41Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/1a-scaled.jpg?v=1782317608
   Price: ₹2,799.00 INR
-- [Chandramukhir Sahaj PathBlack_White - Saree | Saamragi](https://www.saamragi.in/products/chandramukhir-sohojpath-saree-black_white): Saree
-  Updated: 2026-06-27T03:17:05Z
-  Vendor: Saamragi
-  Product Type: Saree
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Styling-Generations-3-scaled.jpg?v=1782236975
-  Price: ₹2,399.00 INR
-- [ChaayaInk Blue - Tissue Silk | Saamragi](https://www.saamragi.in/products/chaaya-saree-ink-blue): Tissue Silk
-  Updated: 2026-06-27T03:17:05Z
-  Vendor: Saamragi
-  Product Type: Saree
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_145835_0000-scaled.jpg?v=1782236973
-  Price: ₹1,999.00 INR
 - [IndraaniLavender - Saree | Saamragi](https://www.saamragi.in/products/indraani-saree-lavender): Saree
-  Updated: 2026-07-01T18:12:32Z
+  Updated: 2026-07-03T12:44:38Z
   Vendor: Saamragi
   Product Type: Saree > Tissue Silk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_134625_0000-scaled.jpg?v=1782317601
   Price: ₹1,999.00 INR
 - [The Kolkata Taa-xsi - Saree | Saamragi](https://www.saamragi.in/products/the-kolkata-taa-xsi-saree): Saree
-  Updated: 2026-07-01T19:08:02Z
+  Updated: 2026-07-02T07:08:07Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_002817_0000-scaled.jpg?v=1782317599
   Price: ₹1,499.00 INR
 - [Moonlight Beam PolkaBlack White - Saree | Saamragi](https://www.saamragi.in/products/moonlight-beam-polka-saree-black-white): Saree
-  Updated: 2026-07-01T18:37:36Z
+  Updated: 2026-07-02T06:37:42Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_132728_0000-scaled.jpg?v=1782317597
   Price: ₹1,499.00 INR
 - [Cherry Coke PolkaRed Black - Saree | Saamragi](https://www.saamragi.in/products/cherry-coke-polka-saree-red-black): Saree
-  Updated: 2026-07-01T18:08:09Z
+  Updated: 2026-07-02T06:08:13Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_145059_0000-scaled.jpg?v=1782317596
   Price: ₹1,299.00 INR
 - [Peach Crush PolkaPeach Black - Saree | Saamragi](https://www.saamragi.in/products/peach-crush-polka-saree-peach-black): Saree
-  Updated: 2026-07-01T18:41:25Z
+  Updated: 2026-07-02T06:41:28Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_131153_0000-scaled.jpg?v=1782317596
   Price: ₹1,499.00 INR
 - [Cherry White PolkaRed White - Saree | Saamragi](https://www.saamragi.in/products/cherry-white-polka-saree-red-white): Saree
-  Updated: 2026-07-01T18:08:18Z
+  Updated: 2026-07-02T06:08:23Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_144030_0000-scaled.jpg?v=1782317595
   Price: ₹1,499.00 INR
 - [Berry Rush PolkaPink black - Saree | Saamragi](https://www.saamragi.in/products/berry-rush-polka-saree-pink-black): Saree
-  Updated: 2026-07-01T18:01:14Z
+  Updated: 2026-07-02T06:01:19Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_145957_0000-scaled.jpg?v=1782317594
   Price: ₹1,499.00 INR
 - [Olive Punch Polka Mul Cotton Saree In Green Black](https://www.saamragi.in/products/olive-punch-polka-saree-green-black): Olive Punch Polka Mul Cotton Saree In Green Black is a stylish everyday saree from Saamragi, made for women who love breathable comfort with a fresh playful print.Made from soft mul cotton, this saree feels light, airy and comfortable for all-day wear. The green and black polka pattern adds a bold yet relaxed charm, making it perfect for casual outings, creative workwear, brunches and everyday ethnic styling. Fabric: Soft mul cotton / mulmul cotton Colour: Green and black Design: Polka pattern with a soft breathable drape Occasion: Everyday wear, casual outings, brunches and creative workwear Includes: 1 saree Style Note: Pair with oxidised earrings, a black blouse and minimal makeup for a clean statement look. Care: Gentle hand wash separately or dry clean recommended. This Saamragi mul cotton saree is a comfortable and versatile pick for relaxed ethnic dressing with personality.
-  Updated: 2026-07-01T18:37:45Z
+  Updated: 2026-07-02T06:37:50Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_131938_0000-1-scaled.jpg?v=1782317593
   Price: ₹1,499.00 INR
 - [Taanya Tissue Silk Saree In Moonstone Grey](https://www.saamragi.in/products/taanya-tissue-silk-moonstone-grey): Taanya Tissue Silk Saree In Moonstone Grey is a refined occasion wear saree from Saamragi, designed for women who love understated colour, soft shine and a graceful structured drape.Made from handmade tissue silk, this saree has a crisp texture and elegant sheen that gives it a polished festive finish. The moonstone grey shade feels modern, subtle and versatile, making it perfect for evening celebrations, wedding functions, festive gatherings and special occasions. Fabric: Handmade tissue silk Colour: Moonstone grey Texture: Crisp, structured and elegant Occasion: Party wear, festive wear, wedding events and evening occasions Includes: 1 saree Style Note: Pair with pearls, silver-toned jewellery or soft gold accessories for a sophisticated festive look. Care: Dry clean recommended to maintain the shine and structure of the fabric. This Saamragi tissue silk saree is ideal for women who want a soft, modern and elegant ethnic look for special moments.
-  Updated: 2026-07-01T19:07:42Z
+  Updated: 2026-07-03T12:45:15Z
   Vendor: Saamragi
   Product Type: Saree > Tissue Silk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_003337_0000-scaled.jpg?v=1782317599
   Price: ₹1,999.00 INR
 - [Raaya Tissue Silk Saree In Sea Green](https://www.saamragi.in/products/raaya-tissue-silk-sea-green): Raaya Tissue Silk Saree In Sea Green is a graceful occasion wear saree from Saamragi, designed for women who love soft colour, subtle shine and an elegant structured drape.Crafted from handmade tissue silk, this saree has a crisp texture that gives it a refined shape and premium festive finish. The sea green shade feels fresh and serene, making it perfect for daytime celebrations, wedding functions, festive gatherings and evening occasions. Fabric: Handmade tissue silk Colour: Sea green Texture: Crisp, structured and elegant Occasion: Party wear, festive wear, wedding events and special occasions Includes: 1 saree Style Note: Pair with pearl jewellery, silver-toned accessories or soft gold pieces for a delicate festive look. Care: Dry clean recommended to maintain the fabric shine and structure. This Saamragi tissue silk saree is ideal for celebrations where you want a fresh, elegant and polished ethnic look.
-  Updated: 2026-07-01T18:41:46Z
+  Updated: 2026-07-03T12:45:12Z
   Vendor: Saamragi
   Product Type: Saree > Tissue Silk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_010703_0000-scaled.jpg?v=1782317600
   Price: ₹1,999.00 INR
 - [Daamini Tissue Silk Saree In Black](https://www.saamragi.in/products/daamini-tissue-silk-black): Daamini Tissue Silk Saree In Black is a refined occasion wear saree from Saamragi, designed for women who love a bold, elegant and structured festive drape.Crafted from handmade tissue silk, the saree has a crisp texture and a graceful shine that gives it a premium look. The deep black colour makes it a versatile choice for evening functions, festive celebrations, parties and wedding events. Fabric: Handmade tissue silk Colour: Black Texture: Crisp, structured and elegant Occasion: Party wear, festive wear, wedding events and evening occasions Includes: 1 saree Style Note: Pair with statement gold jewellery or a contrast blouse for a dramatic festive look. Care: Dry clean recommended to maintain the shine and structure of the fabric. This Saamragi tissue silk saree is a graceful choice when you want understated luxury with a powerful black colour story.
-  Updated: 2026-07-01T18:08:44Z
+  Updated: 2026-07-03T12:44:18Z
   Vendor: Saamragi
   Product Type: Saree > Tissue Silk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_142948_0000-scaled.jpg?v=1782317605
   Price: ₹1,999.00 INR
 - [Saaumi Tissue Silk Saree In Rani Pink](https://www.saamragi.in/products/saaumi-tissue-silk-rani-pink): Saaumi Tissue Silk Saree In Rani Pink is a bright and elegant occasion wear saree from Saamragi, designed for women who love festive colour, refined shine and a graceful structured drape.Crafted from handmade tissue silk, this saree has a crisp texture and premium festive appearance. The rani pink shade brings a bold feminine charm, making it perfect for wedding functions, festive gatherings, parties and special celebrations. Fabric: Handmade tissue silk Colour: Rani pink Texture: Crisp, structured and elegant Occasion: Party wear, festive wear, wedding events and evening occasions Includes: 1 saree Style Note: Pair with pearl, kundan or gold-toned jewellery for a polished festive look. Care: Dry clean recommended to maintain the shine and structure of the fabric. This Saamragi tissue silk saree is perfect for celebrations where you want colour, confidence and graceful ethnic elegance.
-  Updated: 2026-07-01T18:42:52Z
+  Updated: 2026-07-03T12:45:13Z
   Vendor: Saamragi
   Product Type: Saree > Tissue Silk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_004336_0000-scaled.jpg?v=1782317603
   Price: ₹1,999.00 INR
 - [Chaaya Tissue Silk Saree In Ink Blue](https://www.saamragi.in/products/chaaya-tissue-silk-ink-blue): Chaaya Tissue Silk Saree In Ink Blue is a striking occasion wear saree from Saamragi, designed for women who love a crisp, elegant drape with a refined festive shine.The tissue silk fabric has a slightly structured texture that gives the saree a graceful fall and premium appearance. The rich ink blue shade makes it perfect for evening celebrations, festive gatherings, wedding functions and party styling. Fabric: Handmade tissue silk Colour: Ink blue Texture: Crisp, structured and elegant Occasion: Party wear, festive wear, wedding events and evening occasions Includes: 1 saree Style Note: Pair with gold-toned jewellery, a sleek blouse and soft glam makeup for a polished festive look. Care: Dry clean recommended to maintain the fabric shine and structure. Choose this Saamragi tissue silk saree when you want a graceful, premium look that stands out without feeling overdone.
-  Updated: 2026-07-01T18:01:25Z
+  Updated: 2026-07-03T12:44:17Z
   Vendor: Saamragi
   Product Type: Saree > Tissue Silk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_145835_0000-scaled_84c36ea6-a866-4931-8788-ab96407eafd8.jpg?v=1782317604
   Price: ₹1,999.00 INR
 - [Meghbalikar Sahaj Path Khadi Cotton Saree In Red Tashar](https://www.saamragi.in/products/meghbalikar-sahaj-path-saree-red-tashar): Meghbalikar Sahaj Path Khadi Cotton Saree In Red Tashar is a handcrafted Saamragi saree inspired by Bengal’s literary and cultural storytelling.Made from soft breathable khadi cotton, this saree blends comfort with a meaningful Sahaj Path-inspired design. The red tashar colour mood gives it a warm, rooted and festive personality, making it suitable for cultural occasions, festive gatherings, office styling and everyday ethnic wear. Fabric: Soft breathable khadi cotton Colour: Red tashar Design: Sahaj Path inspired handcrafted detailing Occasion: Everyday wear, office wear, festive gatherings, cultural events and occasion wear Includes: 1 saree Style Note: Pair with oxidised jewellery, a classic blouse and a bindi for a thoughtful Bengal-inspired look. Care: Gentle hand wash or dry clean recommended. This Saamragi khadi cotton saree is perfect for women who love breathable comfort, cultural meaning and handcrafted Indian elegance.
-  Updated: 2026-07-01T18:37:29Z
+  Updated: 2026-07-04T01:06:57Z
   Vendor: Saamragi
-  Product Type: Ocassion Wear
+  Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240520_171404_0000-scaled.jpg?v=1782317605
   Price: ₹2,599.00 INR
 - [Kaamya Tissue Silk Saree In Purple](https://www.saamragi.in/products/kaamya-tissue-silk-purple): Kaamya Tissue Silk Saree In Purple is a graceful occasion wear saree from Saamragi, crafted for women who love rich colour, subtle shine and a structured festive drape.The handmade tissue silk fabric has a crisp texture that gives the saree a refined shape and premium appearance. Its purple colour brings a regal festive mood, making it suitable for parties, wedding functions, evening events and special celebrations. Fabric: Handmade tissue silk Colour: Purple Texture: Crisp, structured and elegant Occasion: Party wear, festive wear, wedding events and evening occasions Includes: 1 saree Style Note: Pair with kundan, pearl or gold-toned jewellery for a polished festive look. Care: Dry clean recommended to maintain the shine and texture of the fabric. This Saamragi tissue silk saree is ideal for a confident, elegant and celebration-ready ethnic look.
-  Updated: 2026-07-01T18:12:39Z
+  Updated: 2026-07-03T12:44:40Z
   Vendor: Saamragi
   Product Type: Saree > Tissue Silk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240516_133816_0000-scaled.jpg?v=1782317606
   Price: ₹1,999.00 INR
 - [Chandramukhir Sahaj Path Khadi Cotton Saree In Black White](https://www.saamragi.in/products/chandramukhir-sahaj-path-saree-black-white): Chandramukhir Sahaj Path Khadi Cotton Saree In Black White is a meaningful handcrafted saree from Saamragi, inspired by Bengal’s literary and cultural heritage.Made from soft breathable khadi cotton, this saree features block print and applique work based on the concept of Sahaj Path. The black and white palette gives it a timeless, artistic look that feels elegant for both everyday styling and special cultural occasions. Fabric: Soft breathable khadi cotton Colour: Black and white Design: Sahaj Path inspired block print and applique work Occasion: Everyday wear, office wear, cultural events, festive gatherings and occasion wear Includes: 1 saree Style Note: Pair with silver jewellery, black bindi and a classic blouse for a sophisticated Bengal-inspired look. Care: Gentle hand wash or dry clean recommended. This Saamragi khadi cotton saree is perfect for women who love wearable stories, handcrafted details and timeless Indian elegance.
-  Updated: 2026-07-01T18:01:33Z
+  Updated: 2026-07-03T12:44:18Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Styling-Generations-3-scaled_6ddd1aa9-7fce-4e37-9a01-73b86ddd7d4e.jpg?v=1782317607
   Price: ₹2,399.00 INR
 - [Chandrima Muslin Jamdani Style Saree](https://www.saamragi.in/products/chandrima-saree): Chandrima Muslin Jamdani Style Saree is a soft and elegant occasion wear saree from Saamragi, crafted for women who appreciate delicate texture, artistic weaving and graceful ethnic styling.Woven in an artistic Jamdani-inspired style, this muslin saree has a soft transparent finish that gives it a light, airy and refined appearance. It is ideal for festive gatherings, intimate celebrations, cultural events and graceful evening looks. Fabric: Soft transparent muslin silk Design: Artistic Jamdani-style weave Occasion: Party wear, festive wear, cultural events and special occasions Includes: 1 saree Style Note: Pair with pearl jewellery or traditional gold-toned accessories for an elegant celebration look. Care: Dry clean recommended to preserve the delicate texture and finish. This Saamragi muslin saree is perfect for a refined ethnic wardrobe where comfort, heritage and elegance come together beautifully.
-  Updated: 2026-07-01T18:01:40Z
+  Updated: 2026-07-03T12:44:18Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/3b-scaled.jpg?v=1782317609
   Price: ₹2,799.00 INR
 - [Raamya Tissue Silk Saree In Rusty Orange](https://www.saamragi.in/products/raamya-tissue-silk-rusty-orange): Raamya Tissue Silk Saree In Rusty Orange is a warm and elegant occasion wear saree from Saamragi, designed for women who love festive colour with a graceful structured drape.Made from handmade tissue silk, this saree has a crisp texture and refined sheen that gives it a premium festive appearance. The rusty orange shade feels rich, earthy and celebration-ready, making it perfect for wedding functions, festive gatherings, parties and evening occasions. Fabric: Handmade tissue silk Colour: Rusty orange Texture: Crisp, structured and elegant Occasion: Party wear, festive wear, wedding events and evening occasions Includes: 1 saree Style Note: Pair with antique gold jewellery, warm makeup and a sleek blouse for a rich festive look. Care: Dry clean recommended to maintain the shine and structure of the fabric. This Saamragi tissue silk saree is perfect for celebrations where you want elegance, warmth and a premium ethnic finish.
-  Updated: 2026-07-01T18:41:40Z
+  Updated: 2026-07-03T12:45:11Z
   Vendor: Saamragi
   Product Type: Saree > Tissue Silk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/saree-2e-scaled.jpg?v=1782317618
   Price: ₹1,999.00 INR
 - [Komolikar Sahaj Path Khadi Cotton Saree In Red White](https://www.saamragi.in/products/komolikar-sahaj-path-saree-red-white): Komolikar Sahaj Path Khadi Cotton Saree In Red White is a handcrafted saree from Saamragi, inspired by Bengal’s literary heritage and timeless cultural storytelling.Made from soft breathable khadi cotton, this saree brings together comfort, artistry and a meaningful Sahaj Path-inspired design. The red and white colour story feels classic, festive and deeply rooted, making it perfect for cultural events, festive gatherings, office styling and everyday ethnic wear. Fabric: Soft breathable khadi cotton Colour: Red and white Design: Sahaj Path inspired handcrafted detailing Occasion: Everyday wear, office wear, festive gatherings, cultural events and occasion wear Includes: 1 saree Style Note: Pair with a red bindi, silver jewellery and a classic blouse for an expressive Bengal-inspired look. Care: Gentle hand wash or dry clean recommended. This Saamragi khadi cotton saree is perfect for women who love wearable stories, breathable comfort and handcrafted Indian elegance.
-  Updated: 2026-07-01T18:13:04Z
+  Updated: 2026-07-03T12:44:40Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/saree-1b-scaled.jpg?v=1782317622
   Price: ₹2,499.00 INR
 - [Gul Flower In Bloom Choker](https://www.saamragi.in/products/gul-flower-in-bloom-choker): Gul Flower In Bloom Choker is a graceful ethnic choker from Saamragi, designed to add a floral traditional touch to sarees, lehengas, kurta sets and festive outfits.Made with 24K gold plating on copper, this choker features a flower-inspired design that feels elegant, feminine and occasion-ready. It is perfect for festive gatherings, weddings, parties, cultural events and premium ethnic styling. Material: 24K gold plated on copper Style: Ethnic choker Design: Flower-inspired traditional motif Occasion: Wedding, festive, party, cultural and occasion wear Style Note: Pair with sarees, lehengas, silk drapes or a deep-neck blouse for a refined festive look. Care: Keep away from perfume, water, alcohol-based sprays and moisture. Store separately after use. This Saamragi choker is perfect for women who want a soft floral statement with a rich gold-toned finish.
-  Updated: 2026-07-01T19:14:16Z
+  Updated: 2026-07-03T12:44:20Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240514_204038_0000-1-scaled.jpg?v=1782317624
   Price: ₹1,999.00 INR
 - [Ful Nolok Flower Nath](https://www.saamragi.in/products/ful-nolok-flower-noth): Ful Nolok Flower Nath is a delicate traditional nose jewellery piece from Saamragi, designed to add a graceful Bengali-inspired accent to festive, bridal and cultural looks.Made with 24K gold plating on copper, this flower nath brings a soft ethnic charm that pairs beautifully with sarees, lehengas and traditional occasion wear. Its floral detail makes it ideal for weddings, festive functions, photoshoots and statement ethnic styling. Material: 24K gold plated on copper Style: Flower nath / nolok Design: Floral traditional motif Occasion: Bridal, wedding, festive, photoshoot and cultural wear Style Note: Pair with a saree, bridal drape, lehenga or Bengali-inspired ethnic look for a graceful finish. Care: Keep away from perfume, water, alcohol-based sprays and moisture. Store separately after use. This Saamragi nath is perfect for women who want a small yet expressive traditional jewellery detail.
-  Updated: 2026-07-01T19:10:18Z
+  Updated: 2026-07-03T12:44:19Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240514_221805_0000-scaled.jpg?v=1782317627
   Price: ₹1,099.00 INR
 - [Goynar Four Line Mantasha](https://www.saamragi.in/products/goynar-baksho-mantasha-4-line): Goynar Four Line Mantasha is a traditional ethnic jewellery piece from Saamragi, designed to add a graceful finish to sarees, festive outfits and occasion wear looks.Made with 24K gold plating on copper, this four line mantasha has a rich handcrafted appeal that feels elegant, cultural and celebration-ready. It is a beautiful choice for weddings, festive functions, traditional styling, photoshoots and special occasions. Material: 24K gold plated on copper Style: Four line mantasha Design Mood: Traditional, elegant and festive Occasion: Wedding, festive, party, cultural and occasion wear Style Note: Pair with sarees, silk drapes, lehengas or traditional kurta sets for a complete ethnic look. Care: Keep away from perfume, water, alcohol-based sprays and moisture. Store separately after use. This Saamragi mantasha is perfect for women who want jewellery that feels graceful, rooted and festive.
-  Updated: 2026-07-01T19:14:09Z
+  Updated: 2026-07-03T12:44:20Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/Untitled-design_20240520_190034_0000-scaled.jpg?v=1782317631
   Price: ₹1,599.00 INR
 - [Flower Full Kaan Earrings](https://www.saamragi.in/products/flower-full-kaan): Flower Full Kaan Earrings are statement ethnic earrings from Saamragi, designed to frame the ear beautifully and add a festive traditional finish to sarees, lehengas and occasion wear outfits.Made with 24K gold plating on copper, these full kaan earrings bring a floral-inspired look that feels graceful, bold and celebration-ready. They are ideal for weddings, festive functions, cultural occasions, photoshoots and statement ethnic styling. Material: 24K gold plated on copper Style: Full kaan statement earrings Design: Floral-inspired ethnic detailing Occasion: Wedding, festive, party, cultural and occasion wear Style Note: Pair with sarees, lehengas, silk drapes or a sleek ethnic outfit for a striking jewellery look. Care: Keep away from perfume, water, alcohol-based sprays and moisture. Store separately after use. These Saamragi earrings are perfect for women who want a bold traditional accessory that instantly elevates the full look.
-  Updated: 2026-07-01T19:36:04Z
+  Updated: 2026-07-03T12:44:18Z
   Vendor: Saamragi
   Product Type: Jewellery > Real Gold Dust Plated Jewellery
   Availability: Available
@@ -539,59 +511,41 @@
 ## Collections
 
 - [Home page](https://www.saamragi.in/collections/frontpage)
-  Updated: 2026-07-01T18:43:20Z
-  Total Products: 1
-- [Sarees](https://www.saamragi.in/collections/sarees)
-  Updated: 2026-07-01T19:08:03Z
-  Total Products: 41
-- [Jewellery](https://www.saamragi.in/collections/jewellery)
-  Updated: 2026-06-27T03:16:54Z
-  Total Products: 5
+  Updated: 2026-07-03T13:09:47Z
+  Total Products: 13
+- [Sarees](https://www.saamragi.in/collections/sarees): Explore Saamragi sarees crafted for everyday elegance, festive dressing and special occasions. Discover mul cotton, khadi cotton, tissue silk, muslin, organza, South cotton and handloom-inspired sarees.Before you order: Check the product images, fabric notes, drape style and care details on each saree page. For styling help or product questions, contact Saamragi at saamragi.business@gmail.com.
+  Updated: 2026-07-03T13:07:25Z
+  Total Products: 56
+- [Jewellery](https://www.saamragi.in/collections/jewellery): Discover Saamragi jewellery crafted for sarees, festive dressing and cultural occasions. Explore gold-toned necklaces, chokers, earrings, mangalsutras and statement ethnic pieces.Before you order: Check product photos and details on each product page. For help choosing the right piece, contact Saamragi at saamragi.business@gmail.com.
+  Updated: 2026-07-03T13:07:34Z
+  Total Products: 39
 - [Best Sellers](https://www.saamragi.in/collections/best-sellers)
-  Updated: 2026-07-01T20:21:42Z
+  Updated: 2026-07-03T12:43:29Z
   Total Products: 68
-- [New Arrivals](https://www.saamragi.in/collections/new-arrivals)
-  Updated: 2026-06-27T03:16:54Z
-  Total Products: 0
-- [Khadi Cotton](https://www.saamragi.in/collections/khadi-cotton): Handloom cotton
-  Updated: 2026-06-27T03:16:54Z
-  Total Products: 2
-- [Mul Cotton](https://www.saamragi.in/collections/mul-cotton): Soft everyday drapes
-  Updated: 2026-06-27T03:16:54Z
-  Total Products: 2
-- [Tissue Silk](https://www.saamragi.in/collections/tissue-silk): Festive shimmer
-  Updated: 2026-06-27T03:16:54Z
-  Total Products: 6
+- [Khadi Cotton Sarees](https://www.saamragi.in/collections/khadi-cotton): Shop Saamragi khadi cotton sarees inspired by Bengal handloom heritage. Comfortable, rooted and elegant for everyday ethnic wear, cultural events and festive styling.
+  Updated: 2026-07-03T13:06:54Z
+  Total Products: 12
+- [Mul Cotton Sarees](https://www.saamragi.in/collections/mul-cotton): Shop breathable Saamragi mul cotton sarees made for effortless draping, everyday comfort, brunch looks, creative workwear and relaxed festive styling.
+  Updated: 2026-07-03T12:43:29Z
+  Total Products: 17
+- [Tissue Silk Sarees](https://www.saamragi.in/collections/tissue-silk): Shop Saamragi tissue silk sarees with crisp structure, elegant shine and festive colours. Perfect for parties, weddings, evening occasions and special celebrations.
+  Updated: 2026-07-03T12:43:31Z
+  Total Products: 14
 - [South Cotton](https://www.saamragi.in/collections/south-cotton): Everyday comfort
   Updated: 2026-06-27T03:16:54Z
   Total Products: 0
-- [Handloom](https://www.saamragi.in/collections/handloom): Hand-woven picks
-  Updated: 2026-06-27T03:16:54Z
-  Total Products: 0
 - [Everyday Wear](https://www.saamragi.in/collections/occasion-everyday)
-  Updated: 2026-07-01T19:08:13Z
+  Updated: 2026-07-03T13:06:54Z
   Total Products: 31
-- [Occasion Wear](https://www.saamragi.in/collections/occasion-occasion)
-  Updated: 2026-07-01T07:32:24Z
-  Total Products: 13
+- [Occasion Wear](https://www.saamragi.in/collections/occasion-occasion): Shop Saamragi occasion wear curated for weddings, festive celebrations, parties, cultural events and special gatherings. Explore elegant tissue silk sarees, muslin sarees, premium occasion sarees and statement ethnic jewellery.
+  Updated: 2026-07-03T12:43:26Z
+  Total Products: 18
 - [Festive](https://www.saamragi.in/collections/occasion-festive)
   Updated: 2026-07-01T18:42:03Z
   Total Products: 1
 - [Bridal Jewellery](https://www.saamragi.in/collections/occasion-bridal)
-  Updated: 2026-06-27T03:16:54Z
+  Updated: 2026-07-03T12:43:26Z
   Total Products: 1
-- [Handloom](https://www.saamragi.in/collections/occasion-handloom)
-  Updated: 2026-06-27T03:16:54Z
-  Total Products: 0
-- [Default example products](https://www.saamragi.in/collections/asset-pack-55432839170-example-products)
-  Updated: 2026-07-01T20:22:04Z
-  Total Products: 4
-- [Jewellery Collection — Traditional Indian Jewellery | Saamragi](https://www.saamragi.in/collections/jewellery-collection): Shop traditional Indian jewellery at Saamragi. Handcrafted pieces to complement every saree and occasion.
-  Updated: 2026-07-01T20:21:42Z
-  Total Products: 39
-- [Sarees Collection — Handcrafted Indian Sarees | Saamragi](https://www.saamragi.in/collections/sarees-collection): Shop handcrafted Indian sarees at Saamragi. Mul Cotton, silk, and more — traditional sarees for every occasion.
-  Updated: 2026-07-01T19:08:03Z
-  Total Products: 42
 
 ## Store Pages
 
