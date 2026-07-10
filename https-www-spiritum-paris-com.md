@@ -6,75 +6,75 @@
 - Timezone: Europe/Paris
 - Created At: 2022-04-11T17:58:45Z
 - Contact Email: contact@spiritumparis.com
-- Updated At: 2026-07-03T00:00:39.166Z
+- Updated At: 2026-07-10T00:00:39.762Z
 
 ## Products
 
-- [1 │ SOLAR SOUL 100ml : Parfum de Niche Boisé-Ambré | Soleil, Ambition & Oud | Spiritum Paris](https://www.spiritum-paris.com/products/solar-soul-100ml): Solar Soul est le parfum du chiffre 1 : solaire, ambitieux et radieux. Une fragrance boisée-ambrée aux notes de figue, rose, immortelle et oud signée Bertrand Duchaufour. Le talisman des audacieux.
-  Updated: 2026-06-10T21:03:14Z
+- [1 │ SOLAR SOUL 100ml: Parfum de Niche Boisé](https://www.spiritum-paris.com/products/solar-soul-100ml): Solar Soul est une fragrance boisée-ambrée aux notes de figue, rose, immortelle et oud signée Bertrand Duchaufour. Le talisman des audacieux.
+  Updated: 2026-07-08T15:38:26Z
   Vendor: spiritum
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/1-solar-soul-100ml-5698590.jpg?v=1779288477
   Price: 195,00 € EUR
-- [2 │ ASTRAL TWIN 100ml : Parfum de Niche | Harmonie, Lune & Dualité](https://www.spiritum-paris.com/products/astral-twin-100ml): Astral Twin est le parfum du chiffre 2, lunaire, intuitif et harmonieux. Une fragrance aromatique aux notes de bergamote, cyprès et lavandin signée Philippe Paparella-Paris.
-  Updated: 2026-06-10T21:07:40Z
+- [2 │ ASTRAL TWIN 100ml : Parfum de Niche](https://www.spiritum-paris.com/products/astral-twin-100ml): Astral Twin est une fragrance aromatique aux notes de bergamote, cyprès et lavandin signée Philippe Paparella-Paris.
+  Updated: 2026-07-08T15:40:00Z
   Vendor: spiritum
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/2-astral-twin-100ml-6928273.jpg?v=1779288479
   Price: 195,00 € EUR
-- [3 │ WISDOM UNIVERSE 100ml : Parfum de Niche Floral | Harmonie & Communication](https://www.spiritum-paris.com/products/wisdom-universe-100ml): Wisdom Universe est le parfum du chiffre 3, créatif, sociable et solaire. Un boisé-ambré aux notes de rose, safran, jasmin et oud. Une profusion de fleurs et de baumes sacrés.
-  Updated: 2026-06-10T21:52:50Z
+- [3 │ WISDOM UNIVERSE 100ml: Parfum de Niche Floral | Harmonie](https://www.spiritum-paris.com/products/wisdom-universe-100ml): Wisdom Universe est le parfum du chiffre 3, boisé-ambré aux notes de rose, safran, jasmin et oud. Une profusion de fleurs et de baumes sacrés.
+  Updated: 2026-07-06T22:06:24Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/3-wisdom-universe-100ml-6168959.jpg?v=1779288488
   Price: 195,00 € EUR
-- [8 │ MYSTIC WARRIOR 100ml Parfum de Niche Ambré Gourmand | Puissance & Accomplissement](https://www.spiritum-paris.com/products/8-mystic-warrior-100ml): Mystic Warrior est le parfum du chiffre 8, puissant, accompli et magnétique. Un ambré gourmand aux notes de coriandre, miel, vanille et cèdre.
-  Updated: 2026-06-27T15:36:28Z
+- [8 │ MYSTIC WARRIOR 100ml Parfum Ambré](https://www.spiritum-paris.com/products/8-mystic-warrior-100ml): Mystic Warrior est le parfum du chiffre 8, puissant, accompli et magnétique. Un ambré gourmand aux notes de coriandre, miel, vanille et cèdre.
+  Updated: 2026-07-08T15:53:00Z
   Vendor: spiritum
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/8-mystic-warrior-100ml-8619081.jpg?v=1779288491
   Price: 195,00 € EUR
-- [9 │ FINAL SPIRIT 100ml](https://www.spiritum-paris.com/products/9-final-spirit-100ml): Découvrez Final Spirit, le parfum de niche incarnant l’altruisme et la capacité à s’ouvrir aux autres. Une fragrance boisée et gourmande avec des notes de cerise, datte, tabac, vanille et oud.
-  Updated: 2026-06-29T05:36:16Z
+- [9 │ FINAL SPIRIT 100ml](https://www.spiritum-paris.com/products/9-final-spirit-100ml): Découvrez Final Spirit une fragrance boisée et gourmande avec des notes de cerise, datte, tabac, vanille et oud.
+  Updated: 2026-07-06T21:50:29Z
   Vendor: spiritum
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/9-final-spirit-100ml-8706895.jpg?v=1779288498
   Price: 195,00 € EUR
-- [5 │ THE GUARDIAN MASTER 100ml : Parfum de Niche Épicé | Liberté & Protection](https://www.spiritum-paris.com/products/the-guardian-master-100ml): Le parfum du chiffre 5 ; libre, aventurier et protecteur. Un accord épicé boisé aux notes de cardamome, poivre, muscade et oliban. L'énergie du voyageur qui transforme chaque expérience en sagesse.
-  Updated: 2026-06-10T22:14:04Z
+- [5 │ THE GUARDIAN MASTER 100ml : Parfum de Niche Épicé](https://www.spiritum-paris.com/products/the-guardian-master-100ml): Le parfum du chiffre 5 ; libre, aventurier et protecteur. Un accord épicé boisé aux notes de cardamome, poivre, muscade et oliban : L'énergie du voyageur.
+  Updated: 2026-07-09T22:18:31Z
   Vendor: spiritum
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/5-the-guardian-master-100ml-5908558.jpg?v=1779288501
   Price: 195,00 € EUR
-- [4 │ BUILDER OF FUTURE 100ml : Parfum de Niche Gourmand Chypré | Force & Stabilité](https://www.spiritum-paris.com/products/4-builder-of-future-100ml): Builder of Future est le parfum du chiffre 4, solide, déterminé et gourmand. Un floral-chypré aux notes d'amande, tabac, caramel et chocolat. Le talisman des bâtisseurs.
-  Updated: 2026-06-16T09:35:16Z
+- [4 │ BUILDER OF FUTURE 100ml : Gourmand](https://www.spiritum-paris.com/products/4-builder-of-future-100ml): Builder of Future est le parfum du chiffre 4, solide, déterminé et gourmand. Un floral-chypré aux notes d'amande, tabac, caramel et chocolat.
+  Updated: 2026-07-08T15:51:22Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/4-builder-of-future-100ml-4226271.jpg?v=1779288512
   Price: 195,00 € EUR
-- [6 │ CARNAL SPIRIT 100ml : Parfum de Niche Floral Boisé | Séduction & Beauté](https://www.spiritum-paris.com/products/6-carnal-spirit-100ml): Carnal Spirit est le parfum du chiffre 6 sensuel, harmonieux et d'une beauté absolue. Un floral boisé aux notes de jasmin, violette, osmanthus et poire. L'incarnation olfactive de la séduction spirituelle.
-  Updated: 2026-06-10T22:27:57Z
+- [6 │ CARNAL SPIRIT 100ml : Parfum Floral](https://www.spiritum-paris.com/products/6-carnal-spirit-100ml): Carnal Spirit est le parfum du chiffre 6 sensuel, harmonieux et d'une beauté absolue. Un floral boisé aux notes de jasmin, violette, osmanthus et poire.
+  Updated: 2026-07-08T15:50:31Z
   Vendor: spiritum
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/6-carnal-spirit-100ml-2835238.jpg?v=1779288513
   Price: 195,00 € EUR
-- [7 │ SPIRITUAL EXPLORER 100ml : Parfum de Niche Boisé Gourmand | Sagesse & Éveil](https://www.spiritum-paris.com/products/7-spiritual-explorer-100ml): Spiritual Explorer est le parfum du chiffre 7 ; sage, intérieur et en quête de vérité. Un boisé gourmand aux notes de safran, café, caramel et myrrhe. La fragrance de l'éveil spirituel.
-  Updated: 2026-06-24T19:15:07Z
+- [7 │ SPIRITUAL EXPLORER 100ml : Parfum Boisé](https://www.spiritum-paris.com/products/7-spiritual-explorer-100ml): Spiritual Explorer est le parfum du chiffre 7 ; sage, intérieur et en quête de vérité. Un boisé gourmand aux notes de safran, café, caramel et myrrhe.
+  Updated: 2026-07-08T15:49:26Z
   Vendor: spiritum
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/7-spiritual-explorer-eau-de-parfum-100ml-5545856.jpg?v=1779288518
   Price: 195,00 € EUR
 - [DISCOVERY SET x 9 - NUMERUS COLLECTION](https://www.spiritum-paris.com/products/discovery-kit-9-x-2-5-ml): 9 x 2,5 ml Pour l'achat d'un discovery set, bénéficiez d'un bon d'achat de 20€ sur le parfum de votre choix Vecteurs d'une force cosmique, les nombres influencent tous les aspects de notre vie : ils apaisent, inspirent, dynamisent, réénergisent, attirent la protection et la chance… Au travers de ces 9 créations, Jonathan Dufour s’est attaché à magnifier la puissance symbolique attribuée depuis des siècles à chacun de ces nombres afin d'en créer de précieuses fragrances, chacune pensée et composée autour d'un coeur commun de Sauge, d’Oliban et de Bois de Santal.
-  Updated: 2026-05-18T12:15:47Z
+  Updated: 2026-07-04T16:19:57Z
   Vendor: spiritumm
   Product Type: Eau de parfum
   Availability: Available
@@ -108,8 +108,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/echantillon-1-solar-soul-8319841.jpg?v=1779106523
   Price: 8,00 € EUR
-- [Echantillon - 2 │ ASTRAL TWIN](https://www.spiritum-paris.com/products/echantillon-astral-twin-100ml): Echantillon - 2,5ml Pour découvrir notre parfum Astral Twin Aromatique aux notes de bergamote, lavande et cyprès par Philippe Paparella-Paris.
-  Updated: 2026-05-18T12:15:22Z
+- [Echantillon - 2 │ ASTRAL TWIN 2.5ml](https://www.spiritum-paris.com/products/echantillon-astral-twin-100ml): Echantillon - 2,5ml Pour découvrir notre parfum Astral Twin Aromatique aux notes de bergamote, lavande et cyprès par Philippe Paparella-Paris.
+  Updated: 2026-07-06T22:17:59Z
   Vendor: spiritum
   Product Type: 
   Availability: Available
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/echantillon-6-carnal-spirit-5950355.jpg?v=1779106520
   Price: 8,00 € EUR
 - [Echantillon - 7 │ SPIRITUAL EXPLORER](https://www.spiritum-paris.com/products/echantillon-7-spiritual-explorer-100ml): Echantillon - 2,5ml Pour découvrir notre parfum Spiritual Explorer Boisé-Gourmand par Bertrand Duchaufour.
-  Updated: 2026-05-18T12:15:23Z
+  Updated: 2026-07-05T15:25:57Z
   Vendor: spiritum
   Product Type: 
   Availability: Available
@@ -164,15 +164,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/echantillon-9-final-spirit-1338805.jpg?v=1779106521
   Price: 8,00 € EUR
-- [SHAMANISM 100ml](https://www.spiritum-paris.com/products/shamanism-100ml): Découvrez Shamanism, le souvenir transcendant de la première cérémonie chamanique de Jonathan Dufour, fondateur de la maison SPIRITUM. Une fragrance fraîche et inoubliable avec des notes de fève tonka, vanille et rose.
-  Updated: 2026-06-19T00:48:21Z
+- [SHAMANISM 100ml | Bestseller](https://www.spiritum-paris.com/products/shamanism-100ml): Découvrez Shamanism, le souvenir transcendant de la cérémonie chamanique de Jonathan Dufour. Une fragrance avec des notes de fève tonka, vanille et rose.
+  Updated: 2026-07-08T15:37:33Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/products/shamanism-100ml-8519876.jpg?v=1779106634
   Price: 205,00 € EUR
-- [CARTE CADEAU](https://www.spiritum-paris.com/products/carte-cadeau-spiritum-paris): Le cadeau parfait pour éveiller les sens et l'esprit. La carte cadeau Spiritum Paris offre une expérience olfactive unique, permettant à vos proches de choisir parmi notre collection exclusive de fragrances. Offrez la découverte et la transformation avec nos parfums captivants.
-  Updated: 2026-05-18T12:15:14Z
+- [CARTE CADEAU SPIRITUM PARIS](https://www.spiritum-paris.com/products/carte-cadeau-spiritum-paris): La carte cadeau Spiritum Paris offre une expérience olfactive unique, permettant à vos proches de choisir parmi notre collection exclusive de fragrances.
+  Updated: 2026-07-06T22:14:51Z
   Vendor: Spiritum Paris
   Product Type: 
   Availability: Available
@@ -214,29 +214,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/11-psychic-vibes-100ml-6814717.jpg?v=1779106528
   Price: 225,00 € EUR
-- [22 │ UNIVERSAL MIND 100ml Parfum de Niche Floral Oriental | Nombre Maître 22 | Grand Bâtisseur](https://www.spiritum-paris.com/products/22-universal-mind-100ml): Universal Mind est le parfum du nombre maître 22, charismatique, visionnaire et d'une puissance rare. Un floral oriental aux notes d'absinthe, freesia, rose bulgare et jasmin. La fragrance des grands bâtisseurs.
-  Updated: 2026-06-23T04:18:48Z
+- [22 │ UNIVERSAL MIND 100ml Parfum Floral](https://www.spiritum-paris.com/products/22-universal-mind-100ml): Universal Mind est le parfum du nombre maître 22, charismatique, visionnaire et d'une puissance rare. Un floral oriental aux notes d'absinthe, rose et jasmin.
+  Updated: 2026-07-08T15:46:54Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/22-universal-mind-100ml-5255751.jpg?v=1779106520
   Price: 225,00 € EUR
-- [33 │ COSMOS GUIDE 100ml Parfum de Niche Boisé Floral | Nombre Maître 33 | Maître Enseignant](https://www.spiritum-paris.com/products/33-cosmos-guide-100ml): Cosmos Guide 100ml est le parfum du nombre maître 33, enseignant et porteur de lumière. Un boisé floral aux notes de mandarine, bergamote, jasmin et iris.
-  Updated: 2026-07-01T13:43:21Z
+- [33 │ COSMOS GUIDE 100ml Parfum Boisé Floral](https://www.spiritum-paris.com/products/33-cosmos-guide-100ml): Cosmos Guide 100ml est le parfum du nombre maître 33, enseignant et porteur de lumière. Un boisé floral aux notes de mandarine, bergamote, jasmin et iris.
+  Updated: 2026-07-08T15:24:17Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/33-cosmos-guide-100ml-3482000.jpg?v=1779106519
   Price: 225,00 € EUR
-- [DISCOVERY SET x 4 - MASTER NUMBERS COLLECTION + SHAMANISM](https://www.spiritum-paris.com/products/discovery-set-x-9-numerus-collection-copy): Découvrez la collection Master numbers ainsi que notre bestseller grâce au DISCOVERY SET x 4 - MASTER NUMBERS & Shamanism.
-  Updated: 2026-06-22T21:07:55Z
+- [DISCOVERY SET x 4 - MASTER NUMBERS + Shaman](https://www.spiritum-paris.com/products/discovery-set-x-4-master-numbers): Découvrez la collection Master numbers ainsi que notre bestseller grâce au DISCOVERY SET x 4 - MASTER NUMBERS & Shamanism.
+  Updated: 2026-07-08T15:45:28Z
   Vendor: spiritumm
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/discovery-set-x-4-sacred-f-x-sacred-m-x-shamanism-shamanism-oud-extrait-8334532.jpg?v=1779106546
   Price: 40,00 € EUR
-- [36 JACOB 100ml](https://www.spiritum-paris.com/products/1-solar-soul-100ml-copy): Découvrez 36 Jacob - Parfum de niche Spiritum Paris. Epicé et boisé, hommage à la boutique, fragrance de la maison, avec des notes de poivre, bois de santal oud et rose.
-  Updated: 2026-06-16T09:41:36Z
+- [36 JACOB 100ml -  Parfum de niche](https://www.spiritum-paris.com/products/36-jacob-100ml): Découvrez 36 Jacob : Parfum de niche. Epicé et boisé, hommage à la boutique, fragrance de la maison, avec des notes de poivre, bois de santal oud et rose.
+  Updated: 2026-07-06T22:09:39Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
@@ -263,29 +263,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/sacred-f-100ml-2971254.jpg?v=1779106517
   Price: 245,00 € EUR
-- [Psychedelism 100ml | Parfum de Niche Spirituel](https://www.spiritum-paris.com/products/sacred-m-100ml): Découvrez Sacred M - un parfum de niche Spiritum Paris. La représentation de la masculinité sacré par Jonathan Dufour. Une fragrance fraîche et épicé.
-  Updated: 2026-06-24T05:46:38Z
+- [SACRED M 100ml | Parfum Épicé Spirituel](https://www.spiritum-paris.com/products/sacred-m-100ml): Découvrez Sacred M - un parfum de niche Spiritum Paris. La représentation de la masculinité sacré par Jonathan Dufour. Une fragrance fraîche et épicé.
+  Updated: 2026-07-09T07:33:28Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/sacred-m-100ml-8587613.jpg?v=1779106531
   Price: 245,00 € EUR
-- [Oud Extrait 100ml | Extrait de Parfum de Niche](https://www.spiritum-paris.com/products/shamanism-oud-100ml): Découvrez Shamanism oud extrait de parfum de niche Spiritum Paris. Marque l’origine et la mémoire de la maison avec ses notes de fève tonka, vanille et oud.
-  Updated: 2026-06-27T13:39:52Z
+- [Oud Extrait 100ml | Extrait Parfum de Niche](https://www.spiritum-paris.com/products/shamanism-oud-100ml): Découvrez Shamanism oud extrait de parfum de niche Spiritum Paris. Marque l’origine et la mémoire de la maison avec ses notes de fève tonka, vanille et oud.
+  Updated: 2026-07-08T15:33:42Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/shamanism-oud-extrait-100ml-4782369.jpg?v=1779106518
   Price: 295,00 € EUR
-- [Psychedelism 100ml | Parfum de Niche Spirituel](https://www.spiritum-paris.com/products/psychedelism-100ml): Découvrez Psychedelism - Parfum de niche Spiritum Paris aux notes envoûtantes de chocolat, fruits exotiques et fraise.
-  Updated: 2026-06-24T05:47:17Z
+- [Psychedelism 100ml | Parfum Spirituel](https://www.spiritum-paris.com/products/psychedelism-100ml): Découvrez Psychedelism - Parfum de niche Spiritum Paris aux notes envoûtantes de chocolat, fruits exotiques et fraise.
+  Updated: 2026-07-08T15:33:14Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/psychedelism-100ml-1760124.jpg?v=1779106524
   Price: 205,00 € EUR
-- [DISCOVERY SET x 4 - SACRED F x SACRED M x SHAMANISM & SHAMANISM OUD EXTRAIT](https://www.spiritum-paris.com/products/discovery-set-x-4-sacred-f-x-sacred-m-x-shamanism-shamanism-oud-extrait): 4 x 2,5 ml SACRED F x SACRED M x SHAMANISM & SHAMANISM OUD EXTRAIT Plongez au cœur de l’univers Spiritum Paris avec ce Discovery Set de quatre fragrances emblématiques, véritables portes d’entrée vers nos rituels olfactifs. Sacred M — Boisé Épicé Un souffle incandescent d’épices sacrées, porté par la bergamote, le safran et la sauge, qui s’épanouit en un cœur floral voluptueux avant de s’ancrer dans des bois sombres et des résines sacrées. Un parfum vibrant, puissant, profondément rituel. Sacred F — Floral Musqué Une aura lumineuse où la rose bulgare, l’oliban et la sauge blanche ouvrent la voie à un bouquet radieux de fleurs blanches. Le musc, l’ambre et le santal y tissent un sillage doux, intime et sacré. Shamanism Oud — Ambré , Musqué , Boisé Un extrait profond et mystique, où l’oud règne comme un bois sacré. Ombres, lumière et énergie chamanique s’y mêlent dans une invocation puissante, vibrante, ancrée dans les racines et l’invisible. Shamanism — Ambré Musqué L’essence même de Spiritum : une évocation de la première cérémonie chamanique du fondateur. Bois de santal, épices, encens et empreintes de forêt amazonienne se fondent dans une alchimie spirituelle, transformative.
-  Updated: 2026-06-08T18:01:06Z
+- [DISCOVERY SET x 4 - SACRED F et M x SHAMANISM & OUD EXTRAIT](https://www.spiritum-paris.com/products/discovery-set-x-4-sacred-f-x-m-x-shamanism-shamanism-oud-extrait): Plongez au cœur de l’univers Spiritum Paris avec ce Discovery Set de quatre fragrances emblématiques, véritables portes d’entrée vers nos rituels olfactifs.
+  Updated: 2026-07-09T03:34:43Z
   Vendor: spiritumm
   Product Type: Eau de parfum
   Availability: Available
@@ -298,15 +298,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/contemplation-100ml-4537575.jpg?v=1779106529
   Price: 225,00 € EUR
-- [DISCOVERY SET x 4 PERSONNALISÉ : Coffret Découverte personnalisé](https://www.spiritum-paris.com/products/discovery-set-4-personnalise): Découvrez le coffret découverte personnalisé x 4 : une sélection élégante, idéale pour offrir, surprendre et marquer chaque occasion.
-  Updated: 2026-06-19T00:42:36Z
+- [DISCOVERY SET x4 PERSONNALISÉ](https://www.spiritum-paris.com/products/discovery-set-4-personnalise): Découvrez le coffret découverte personnalisé x 4 : une sélection élégante, idéale pour offrir, surprendre et marquer chaque occasion.
+  Updated: 2026-07-09T03:17:26Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0640/1487/6891/files/discovery-set-x-4-personnalise-9370266.png?v=1781673799
   Price: 50,00 € EUR
-- [L'Eau Spiritum Édition Limitée 18.06.2026 | Spiritum Paris](https://www.spiritum-paris.com/products/eau-spiritum-50ml): Découvrez L'Eau Spiritum, la première création signée Jonathan Dufour. Un parfum spirituel aux notes de bois de santal, encens, sauge, ambre et musc. Édition limitée.
-  Updated: 2026-06-27T18:20:11Z
+- [L'Eau Spiritum Édition Limitée 18.06.2026 | Spiritum Paris](https://www.spiritum-paris.com/products/eau-spiritum-50ml): Découvrez L'Eau Spiritum, la première création de Jonathan Dufour. Un parfum spirituel aux notes de bois de santal, sauge, ambre et musc. Édition limitée.
+  Updated: 2026-07-06T22:04:01Z
   Vendor: Spiritum Paris
   Product Type: Eau de parfum
   Availability: Available
@@ -315,100 +315,103 @@
 
 ## Collections
 
-- [Parfums de Niche Spiritum Paris — 20 Créations | Eau de Parfum & Extrait](https://www.spiritum-paris.com/collections/parfums-de-niche): 20 parfums de niche Spiritum Paris : numérologie, sacré, initiatique. Trouvez votre fragrance
+- [PARFUMS DE NICHE](https://www.spiritum-paris.com/collections/parfums-de-niche): 20 parfums de niche Spiritum Paris : numérologie, sacré, initiatique. Trouvez votre fragrance
 signature.
-  Updated: 2026-06-29T11:12:05Z
+  Updated: 2026-07-09T11:12:05Z
   Total Products: 21
-- [Coffrets Découverte Parfum de Niche | 4, 9 ou 16 Échantillons](https://www.spiritum-paris.com/collections/discovery-set): Explorez Spiritum Paris avec nos coffrets découverte de 4, 9 ou 16 échantillons de parfum de niche. Collections NUMERUS, Master Numbers, Sacred et PRISM. Bon d'achat 20€ inclus.
-  Updated: 2026-06-29T11:12:05Z
+- [NOS COFFRETS DÉCOUVERTE](https://www.spiritum-paris.com/collections/discovery-set): Explorez Spiritum Paris avec nos coffrets découverte de 4, 9 ou 16 échantillons de parfum de niche. Collections NUMERUS, Master Numbers, Sacred et PRISM. Bon d'achat 20€ inclus.
+  Updated: 2026-07-08T15:45:05Z
   Total Products: 24
-- [Bougies Spirituelles de Niche | Rituels & Méditation](https://www.spiritum-paris.com/collections/bougies): Découvrez les bougies de niche Spiritum Paris. Des créations olfactives pour transformer votre espace en sanctuaire, accompagner vos rituels et éveiller votre présence intérieure.
-  Updated: 2026-07-01T15:05:38Z
+- [COLLECTION BOUGIES](https://www.spiritum-paris.com/collections/bougies): Découvrez les bougies de niche Spiritum Paris. Des créations olfactives pour transformer votre espace en sanctuaire et accompagner vos rituels.
+  Updated: 2026-07-08T16:08:21Z
   Total Products: 3
-- [Échantillons Parfum de Niche 2,5ml : Testez Avant d'Adopter | Spiritum Paris](https://www.spiritum-paris.com/collections/echantillons-parfum-niche): Testez Spiritum Paris en 2,5ml : 19 échantillons de parfum de niche à l'unité. Choisissez votre fragrance signature avant d'investir dans votre flacon.
-  Updated: 2026-06-21T11:10:26Z
+- [ECHANTILLONS UNIT 2,5ml](https://www.spiritum-paris.com/collections/echantillons-parfum-niche): Testez Spiritum Paris en 2,5ml : 19 échantillons de parfum de niche à l'unité. Choisissez votre fragrance signature avant d'investir dans votre flacon.
+  Updated: 2026-07-08T16:07:04Z
   Total Products: 19
-- [Collection NUMERUS : Parfums de Niche selon Votre Chemin de Vie](https://www.spiritum-paris.com/collections/parfums-collection-numerus): 9 parfums de niche, 9 archétypes numérologiques. La Collection
+- [COLLECTION NUMERUS](https://www.spiritum-paris.com/collections/parfums-collection-numerus): 9 parfums de niche, 9 archétypes numérologiques. La Collection
 NUMERUS de Spiritum Paris : trouvez la fragrance qui résonne avec votre
 chemin de vie.
-  Updated: 2026-07-01T15:02:47Z
+  Updated: 2026-07-08T15:59:14Z
   Total Products: 9
-- [Collection Sacred : Sacré Féminin, Masculin & Oud Précieux](https://www.spiritum-paris.com/collections/collection-sacred): Sacred F et Sacred M : la Collection Sacred de Spiritum Paris. Énergie sacrée, signature olfactive & extrait de parfum oud de niche.
-  Updated: 2026-07-01T15:56:45Z
+- [COLLECTION SACRED](https://www.spiritum-paris.com/collections/collection-sacred): Sacred F et Sacred M : la Collection Sacred de Spiritum Paris. Énergie sacrée, signature olfactive & extrait de parfum oud de niche.
+  Updated: 2026-07-09T11:12:05Z
   Total Products: 2
-- [Collection Master Numbers : Nombres Maîtres | Spiritum Paris](https://www.spiritum-paris.com/collections/collection-master-numbers): Psychic Vibes (11), Universal Mind (22), Cosmos Guide (33) : 3 parfums de niche parmi la collection Master numbers pour les vibrations supérieures de la numérologie.
-  Updated: 2026-07-01T15:59:01Z
+- [COLLECTION MASTER NUMBERS](https://www.spiritum-paris.com/collections/collection-master-numbers): Psychic Vibes (11), Universal Mind (22), Cosmos Guide (33) : 3 parfums de niche parmi la collection Master numbers pour les vibrations supérieures de la numérologie.
+  Updated: 2026-07-06T10:26:48Z
   Total Products: 3
-- [Collection PRISM : Voyages Olfactifs Initiatiques | Spiritum Paris](https://www.spiritum-paris.com/collections/collection-prism): Explorez chamanisme, tantrisme et psychédélisme en parfum de niche. Collection PRISM de Spiritum Paris 3 créations initiatiques pour les âmes audacieuses.
-  Updated: 2026-07-01T15:57:03Z
+- [COLLECTION PRISM](https://www.spiritum-paris.com/collections/collection-prism): Explorez chamanisme, tantrisme et psychédélisme en parfum de niche. Collection PRISM de Spiritum Paris 3 créations initiatiques pour les âmes audacieuses.
+  Updated: 2026-07-08T15:57:34Z
   Total Products: 3
-- [Bestsellers](https://www.spiritum-paris.com/collections/bestsellers)
-  Updated: 2026-06-29T11:12:05Z
+- [Bestsellers](https://www.spiritum-paris.com/collections/bestsellers): Découvrez nos bestsellers : Shamanism, Oud Extrait, L'Eau Spiritum et bougies parfumées. Les créations iconiques de notre maison de parfumerie de niche.
+  Updated: 2026-07-06T10:26:21Z
   Total Products: 8
-- [Collection Floral : Parfums Floraux de Niche | Spiritum Paris](https://www.spiritum-paris.com/collections/floral): Découvrez les parfums floraux Spiritum Paris : rose, jasmin, iris et fleur d'oranger sublimés en fragrances de niche spirituelles, entre élégance et intuition.
-  Updated: 2026-06-27T18:18:12Z
+- [FLORAL](https://www.spiritum-paris.com/collections/floral): Découvrez la Collection Floral Spiritum Paris : rose, jasmin, iris et fleur d'oranger sublimés en fragrances de niche spirituelles, entre élégance et intuition.
+  Updated: 2026-07-08T15:58:14Z
   Total Products: 5
-- [Collection Oud : Parfums Oud de Niche & Extrait | Spiritum Paris](https://www.spiritum-paris.com/collections/oud): Parfums oud de niche Spiritum Paris : bois précieux, encens et résines sacrées. Une collection spirituelle au sillage profond, dont notre Shamanism Oud Extrait.
-  Updated: 2026-06-29T11:12:05Z
+- [OUD](https://www.spiritum-paris.com/collections/oud): Parfums oud de niche Spiritum Paris : bois précieux, encens et résines sacrées. Une collection spirituelle au sillage profond, dont notre Shamanism Oud Extrait.
+  Updated: 2026-07-09T11:12:05Z
   Total Products: 8
-- [Collection Gourmand : Parfums Gourmands de Niche | Spiritum Paris](https://www.spiritum-paris.com/collections/gourmand): Parfums gourmands de niche Spiritum Paris : caramel, chocolat, vanille et miel sublimés en fragrances spirituelles. Le plaisir sensoriel comme rituel intérieur.
-  Updated: 2026-06-29T11:12:05Z
+- [GOURMAND](https://www.spiritum-paris.com/collections/gourmand): Parfums gourmands de niche Spiritum Paris : caramel, chocolat, vanille et miel sublimés en fragrances spirituelles. Le plaisir sensoriel comme rituel intérieur.
+  Updated: 2026-07-08T15:56:10Z
   Total Products: 7
-- [Extraits : Extrait de Parfum de niche | Spiritum Paris](https://www.spiritum-paris.com/collections/extraits): Les Extraits de Parfum Spiritum Paris : concentration supérieure, intensité rare et tenue exceptionnelle. La haute parfumerie de niche dans sa forme la plus pure.
+- [EXTRAITS](https://www.spiritum-paris.com/collections/extraits): Les Extraits de Parfum Spiritum Paris : concentration supérieure, intensité rare et tenue exceptionnelle. La haute parfumerie de niche dans sa forme la plus pure.
   Updated: 2026-06-27T18:18:21Z
   Total Products: 2
-- [Catégorie Hespéridé : Parfums Agrumes de Niche | Spiritum Paris](https://www.spiritum-paris.com/collections/hesperide): Parfums hespéridés de niche Spiritum Paris : bergamote et agrumes nobles pour une énergie fraîche et spirituelle, entre Astral Twin, Universal Mind et Sacred M.
-  Updated: 2026-06-27T18:18:25Z
+- [HESPÉRIDÉ](https://www.spiritum-paris.com/collections/hesperide): Parfums hespéridés de niche Spiritum Paris : bergamote et agrumes nobles pour une énergie fraîche et spirituelle, entre Astral Twin, Universal Mind et Sacred M.
+  Updated: 2026-07-09T11:12:05Z
   Total Products: 5
-- [Collection 36 : Temple Spiritum Paris](https://www.spiritum-paris.com/collections/collection-36): La Collection 36 honore le 36 rue Jacob, adresse et temple spirituel de Spiritum Paris à Saint-Germain-des-Prés. Des parfums de niche hommage au lieu sacré de la maison.
-  Updated: 2026-06-28T11:11:20Z
+- [Collection 36](https://www.spiritum-paris.com/collections/collection-36): La Collection 36 honore le 36 rue Jacob,  temple spirituel de Spiritum Paris à Saint-Germain-des-Prés. Des parfums de niche hommage au lieu sacré de la maison.
+  Updated: 2026-07-06T10:20:25Z
   Total Products: 2
 - [Collection CELESTE](https://www.spiritum-paris.com/collections/collection-celeste): La Collection Celeste de Spiritum Paris révèle la facette lumineuse de la spiritualité : muscs doux et accords floraux clairs pour une fragrance de niche sereine et aérienne.
-  Updated: 2026-06-27T18:18:30Z
+  Updated: 2026-07-06T10:19:47Z
   Total Products: 1
 
 ## Blogs
 
-- [SPIRITUS ANIMA CORPUS](https://www.spiritum-paris.com/blogs/news)
-  - [Numérologie : Langage des nombres](https://www.spiritum-paris.com/blogs/news/article-2)
-    Updated: 2026-05-21T15:08:14Z
+- [LE JOURNAL SPIRITUS ANIMA CORPUS](https://www.spiritum-paris.com/blogs/news): Découvrez Spiritus Anima Corpus, le journal de Spiritum Paris dédié à l'art du parfum de niche, à la spiritualité, aux matières premières d'exception et aux inspirations qui façonnent chaque création de la Maison.
+  - [Le Langage des Nombres | Origines de la Numérologie](https://www.spiritum-paris.com/blogs/news/origines-numerologie): Le Langage des Nombres | Origines de la Numérologie
+    Updated: 2026-07-06T10:39:01Z
     Author: Dufour Jonathan
-  - [Respect de la planète](https://www.spiritum-paris.com/blogs/news/respect-de-la-planete)
-    Updated: 2026-05-21T15:08:19Z
+  - [Engagements Spiritum Paris | Parfumerie Durable](https://www.spiritum-paris.com/blogs/news/respect-de-la-planete): Engagements Spiritum Paris | Parfumerie Durable
+    Updated: 2026-07-06T10:34:14Z
     Author: Dufour Jonathan
-  - [2026, un nouveau cycle](https://www.spiritum-paris.com/blogs/news/2026-un-nouveau-cycle)
-    Updated: 2026-05-21T15:08:21Z
+  - [Année Numérologique 2026 : Chiffre 1 et Nouveau Cycle de Vie](https://www.spiritum-paris.com/blogs/news/2026-un-nouveau-cycle): Année Numérologique 2026 : Chiffre 1 et Nouveau Cycle de Vie
+    Updated: 2026-07-06T10:32:13Z
     Author: Djenah Devernois
-  - [Spiritum et la Spiritualité : Quand le Parfum de Niche Devient une Prière Vivante](https://www.spiritum-paris.com/blogs/news/spiritum-et-la-spiritualite): <p><meta charset="utf-8">Spiritum Paris unit haute parfumerie de niche et spiritualité. Fragrances d'auteur, numérologie, talismans sensoriels l'éveil olfactif au quotidien.</p>
-    Updated: 2026-06-23T22:28:12Z
+  - [Spiritum et la Spiritualité : Quand le Parfum de Niche Devient une Prière Vivante](https://www.spiritum-paris.com/blogs/news/spiritum-et-la-spiritualite): Spiritum et la Spiritualité : Quand le Parfum de Niche Devient une Prière Vivante
+    Updated: 2026-07-08T13:16:21Z
     Author: Dufour Jonathan
   - [Bougie Méditation : choisir la flamme pour votre pratique](https://www.spiritum-paris.com/blogs/news/bougie-meditation): Bougie Méditation : choisir la flamme pour votre pratique
     Updated: 2026-07-02T11:00:37Z
     Author: Dufour Jonathan
-  - [Parfum de niche en édition limitée : découvrez L’Eau Spiritum de Jonathan Dufour](https://www.spiritum-paris.com/blogs/news/parfum-de-niche-en-edition-limitee)
-    Updated: 2026-07-02T11:00:55Z
+  - [Parfum en édition limitée : découvrez L’Eau Spiritum](https://www.spiritum-paris.com/blogs/news/parfum-de-niche-en-edition-limitee): Parfum en édition limitée : découvrez L’Eau Spiritum
+    Updated: 2026-07-06T10:29:37Z
+    Author: Dufour Jonathan
+  - [La Signature de Spiritum : Sauge, Santal et Oud](https://www.spiritum-paris.com/blogs/news/sauge-santal-et-oud): La Signature de Spiritum : Sauge, Santal et Oud
+    Updated: 2026-07-09T12:17:13Z
     Author: Dufour Jonathan
 
 ## Store Pages
 
-- [Contact](https://www.spiritum-paris.com/pages/contact)
-  Updated: 2022-04-11T17:58:47Z
-- [Numérologie Sacrée & Parfum : Révélez Votre Chemin de Vie](https://www.spiritum-paris.com/pages/numerologie): Découvrez la Numérologie Explorez le monde fascinant de la numérologie et apprenez comment les nombres peuvent influencer votre vie. Découvrez les ...
-  Updated: 2026-06-08T10:52:23Z
-- [Conditions générales de vente: tout savoir](https://www.spiritum-paris.com/pages/conditions-generales-de-vente): Les présentes conditions générales de vente et d’utilisation du site internet www.spiritum-paris.com (les « Conditions Générales ») régissent les c...
-  Updated: 2026-06-08T10:51:25Z
-- [Parfums de niche Paris : des senteurs orientales uniques](https://www.spiritum-paris.com/pages/parfums-de-niche): Découvrez nos parfums uniques Explorez notre collection de parfums de niche soigneusement sélectionnés pour vous offrir des senteurs exclusives et ...
-  Updated: 2026-06-08T10:43:47Z
-- [L'Origine de Spiritum Paris](https://www.spiritum-paris.com/pages/histoire): 
-  Updated: 2026-06-04T10:18:31Z
-- [L'Équipe Créative : Parfumeurs de Niche Spirituels chez Spiritum Paris](https://www.spiritum-paris.com/pages/equipe-creative): Découvrez l'équipe créative de Spiritum Paris. Jonathan Dufour, fondateur visionnaire, et ses master perfumers créent des rituels olfactifs spiritu...
-  Updated: 2026-06-04T09:40:17Z
-- [Manifeste Spiritum : Parfum Spirituel, Numérologie & Rituel Olfactif](https://www.spiritum-paris.com/pages/manifeste): Comprendre le Manifeste : Un Outil Essentiel Qu'est-ce qu'un Manifeste ? Le terme « Manifeste » désigne une déclaration publique, souvent sous form...
-  Updated: 2026-06-04T16:16:20Z
+- [Contactez-nous chez Spiritum Paris](https://www.spiritum-paris.com/pages/contact): 
+  Updated: 2026-07-07T11:41:22Z
+- [Numérologie & Parfum : Votre Chemin de Vie](https://www.spiritum-paris.com/pages/numerologie): Découvrez la Numérologie Explorez le monde fascinant de la numérologie et apprenez comment les nombres peuvent influencer votre vie. Découvrez les ...
+  Updated: 2026-07-08T16:15:15Z
+- [Conditions générales de vente](https://www.spiritum-paris.com/pages/conditions-generales-de-vente): Les présentes conditions générales de vente et d’utilisation du site internet www.spiritum-paris.com (les « Conditions Générales ») régissent les c...
+  Updated: 2026-07-08T16:19:42Z
+- [Parfums de niche : des senteurs uniques](https://www.spiritum-paris.com/pages/parfums-de-niche): Découvrez nos parfums uniques Explorez notre collection de parfums de niche soigneusement sélectionnés pour vous offrir des senteurs exclusives et ...
+  Updated: 2026-07-08T16:16:38Z
+- [Découvrez l'Origine de Spiritum Paris](https://www.spiritum-paris.com/pages/histoire): 
+  Updated: 2026-07-06T10:45:48Z
+- [L'Équipe Créative : Parfumeurs de Niche chez Spiritum Paris](https://www.spiritum-paris.com/pages/equipe-creative): Découvrez l'équipe créative de Spiritum Paris. Jonathan Dufour, fondateur visionnaire, et ses master perfumers créent des rituels olfactifs spiritu...
+  Updated: 2026-07-06T10:46:30Z
+- [Manifeste Spiritum : Numérologie & Rituel Olfactif](https://www.spiritum-paris.com/pages/manifeste): Comprendre le Manifeste : Un Outil Essentiel Qu'est-ce qu'un Manifeste ? Le terme « Manifeste » désigne une déclaration publique, souvent sous form...
+  Updated: 2026-07-06T10:46:53Z
 - [Nous Rejoindre : Revendeurs & Équipe de Spiritum Paris](https://www.spiritum-paris.com/pages/nous-rejoindre): Spiritum Paris, the fragrances for the soul. Découvrez notre boutique au cœur de Paris, au 36 rue Jacob, à Saint-Germain-des-Prés. Venez vivre l’ex...
-  Updated: 2026-06-04T09:43:37Z
+  Updated: 2026-07-06T10:47:33Z
 - [llms](https://www.spiritum-paris.com/pages/llms-txt): 
-  Updated: 2026-06-08T08:30:19Z
+  Updated: 2026-07-07T11:44:58Z
 - [Thème Astral Spiritum Paris](https://www.spiritum-paris.com/pages/theme-astral-spiritum-paris)
   Updated: 2026-07-02T15:39:38Z
 - [Thème astral (aperçu test)](https://www.spiritum-paris.com/pages/theme-astral-test)
