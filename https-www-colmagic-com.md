@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-03-08T12:51:31Z
 - Contact Email: colmagicoffical@gmail.com
-- Updated At: 2026-06-27T00:00:38.465Z
+- Updated At: 2026-07-10T00:00:41.148Z
 
 ## Products
 
 - [Synthetic Lash Extension Kit | ColMagic DIY Mixed Eyelashes](https://www.colmagic.com/products/colmagic-diy-mixed-eyelashes-kit-10-1colmagic-diy-eyelash-kit-300-clusters-10-18mm-natural-volume-lashes-waterproofsynthetic-lash-extension): Achieve stunning natural volume with ColMagic DIY synthetic lash extension kit featuring 300 waterproof clusters from 10-18mm.
-  Updated: 2026-06-24T10:11:09Z
+  Updated: 2026-07-03T20:08:09Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -255,18 +255,16 @@
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/e5617ecd_08de248a-41ea-4688-bb45-999ae98aedea.png?v=1778203706
   Price: $8.02 USD
 - [DIY Spiky Lash Clusters for Fluffy Mixed Volume Look](https://www.colmagic.com/products/upgraded-diy-spiky-fairy-lash-clusters-fluffy-80d-100d-mix-individual-lashes-black-stem-150pcs-10-22mm): DIY spiky fairy lash clusters for a fluffy, textured lash look. Build customizable volume and dimension at home for everyday wear or special occasions.
-  Updated: 2026-06-24T10:07:55Z
+  Updated: 2026-07-02T01:17:52Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/c5e54681_0e67984d-a9d5-40ca-9c0e-9f7a5acacb5b.jpg?v=1778203739
   - [Ombre Spiky Lash Clusters 14 Rows 150pcs Fluffy 100D](https://www.colmagic.com/products/upgraded-diy-spiky-fairy-lash-clusters-fluffy-80d-100d-mix-individual-lashes-black-stem-150pcs-10-22mm?variant=49839137030381)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/43738939_7caec452-373f-4967-93b8-e223eabb4bbf.jpg?v=1778203756
     Price: $10.96 USD
   - [Spiky Lash Clusters 14 Rows12-20mm 150pcs Fluffy 80D](https://www.colmagic.com/products/upgraded-diy-spiky-fairy-lash-clusters-fluffy-80d-100d-mix-individual-lashes-black-stem-150pcs-10-22mm?variant=49839137161453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/b380f5cf_d7e802f6-cc0a-4664-946c-c1bc2bd3981a.jpg?v=1778203759
     Price: $10.96 USD
 - [Portable Hair Straightener Brush - Fast, Lightweight & Dual Voltage](https://www.colmagic.com/products/30s-fast-mch-ceramic-heating-hair-straightening-brush-with-anti-scald-feature-auto-off-dual-voltage-portable-frizz-free-silky-electric-straightening-comb-straightener-heated-curler-portable-hair-straightener-brush): Discover the portable hair straightener brush with fast heating, anti-scald design, auto-off, and dual voltage for silky, frizz-free hair anytime, anywhere.
   Updated: 2026-06-02T15:02:52Z
@@ -325,63 +323,79 @@
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/42beedbe_825c7b59-b392-48f5-842a-eed064a51dba.jpg?v=1778315454
     Price: $29.99 USD
 - [DIY Lash Extension Kit - Lash Clusters with Glue & Tweezers](https://www.colmagic.com/products/lash-clusters-kit-with-lash-bond-and-seal-glue-5-18mm-natural-wispy-eyelashes-for-lashes-cluster-includes-lash-tweezers-with-bond-seal-remover-applicator-diy-lash-extension-kitblack-148-pcs): Discover the ultimate DIY lash extension kit with natural 5-18mm clusters, lash bond & seal glue, tweezers, and remover applicator for professional results.
-  Updated: 2026-06-05T07:22:50Z
+  Updated: 2026-07-03T20:03:29Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/black_lashes_tool.jpg?v=1780644160
   Price: $29.99 USD
+- [Wispy Natural Bunny Lash Clusters Kit](https://www.colmagic.com/products/wispy-natural-bunny-lash-clusters-kit-fairy-individual-spikes-cluster-lashes-d-curl-8-14mm-invisible-band-eyelash-extensions-with-manga): Fairy Individual Spikes Cluster Lashes D Curl 8-14mm, Invisible Band Eyelash Extensions with Manga
+  Updated: 2026-07-02T18:42:38Z
+  Vendor: COLMAGIC
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/76ecd0cb_c0f1fee8-9afd-426a-bc6c-a17888264339.jpg?v=1782816375
+  Price: $29.03 USD
+- [Wispy Natural Bunny Lash Clusters Kit](https://www.colmagic.com/products/wispy-natural-bunny-lash-clusters-kit-fairy-individual-spikes-cluster-lashes-d-curl-8-14mm-invisible-band-eyelash-extensions-with-manga-makeup-cosmetic): Important information
+Directions
+Step 1: Curl your natural lashes to create a lifted base. 
+Step 2: Apply bond glue along your eyelash line. 
+Step 3: Take tweezers and gently grasp the entire lash band and press fake eyelashes at the root from the inner corner outwards. 
+Step 4: Apply seal glue to lock the fake lashes.
+  Updated: 2026-07-01T01:43:19Z
+  Vendor: COLMAGIC
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/79879dc5_3f53c63a-4f8e-4ec7-8795-8a3475e2c750.jpg?v=1782818250
+  Price: $12.96 USD
 
 ## Collections
 
-- [ColMagic diy lash cluster kits for Stunning Lashes](https://www.colmagic.com/collections/diy-lash-cluster-kits): Discover ColMagic diy lash cluster kits for easy, professional-looking lashes at home. Perfect for beauty lovers seeking convenience and style.
-  Updated: 2026-06-02T09:43:49Z
+- [ColMagic diy lash cluster kits](https://www.colmagic.com/collections/diy-lash-cluster-kits): Discover ColMagic diy lash cluster kits for easy, professional-looking lashes at home. Perfect for beauty lovers seeking convenience and style.
+  Updated: 2026-07-03T08:08:03Z
   Total Products: 1
-- [Eye and Eyelashes Care Tips for Healthy Lashes](https://www.colmagic.com/collections/colmagic-eye-and-eyelashes): Discover essential eye and eyelashes care tips to keep your eyes healthy and lashes strong. Learn expert advice for optimal eye health.
-  Updated: 2026-06-05T07:18:11Z
+- [eye and eyelashes](https://www.colmagic.com/collections/colmagic-eye-and-eyelashes): Discover essential eye and eyelashes care tips to keep your eyes healthy and lashes strong. Learn expert advice for optimal eye health.
+  Updated: 2026-07-03T08:08:03Z
   Total Products: 7
-- [Natural Lip Care Products for Soft, Healthy Lips](https://www.colmagic.com/collections/lip-care-natural-lip-care-products): Discover the best natural lip care products to keep your lips soft, hydrated, and protected with simple, effective ingredients.
+- [Lip Care | natural lip care products](https://www.colmagic.com/collections/lip-care-natural-lip-care-products): Discover the best natural lip care products to keep your lips soft, hydrated, and protected with simple, effective ingredients.
   Updated: 2026-06-02T09:36:00Z
   Total Products: 3
-- [Personal Care - COLMAGIC](https://www.colmagic.com/collections/personal-care): - COLMAGIC
+- [Personal Care](https://www.colmagic.com/collections/personal-care): - COLMAGIC
   Updated: 2026-06-02T07:15:48Z
   Total Products: 5
-- [Women's Beauty & Personal Care Essential - COLMAGIC](https://www.colmagic.com/collections/womens-beauty-personal-care-essential): - COLMAGIC
-  Updated: 2026-06-05T07:18:11Z
+- [Women's Beauty & Personal Care Essential](https://www.colmagic.com/collections/womens-beauty-personal-care-essential): - COLMAGIC
+  Updated: 2026-07-03T08:08:03Z
   Total Products: 14
-- [Makeup Mirror Guide: Best Mirrors for Flawless Makeup](https://www.colmagic.com/collections/makeup-mirror): Discover the best makeup mirror tips, types, and features to enhance your beauty routine with our comprehensive makeup mirror guide.
+- [Makeup mirror](https://www.colmagic.com/collections/makeup-mirror): Discover the best makeup mirror tips, types, and features to enhance your beauty routine with our comprehensive makeup mirror guide.
   Updated: 2026-06-02T09:45:56Z
   Total Products: 5
-- [Colmagic All items - COLMAGIC](https://www.colmagic.com/collections/colmagic-all-items): - COLMAGIC
-  Updated: 2026-06-05T07:18:11Z
+- [Colmagic All items](https://www.colmagic.com/collections/colmagic-all-items): - COLMAGIC
+  Updated: 2026-07-03T08:08:03Z
   Total Products: 23
 - [COLMAGIC Lash Clusters](https://www.colmagic.com/collections/colmagic-lash-clusters): Shop COLMAGIC lash clusters, DIY lash extension kits, lash bond and seal, and lash tools for natural, wispy, and salon-inspired lashes at home. Create soft everyday looks or fuller eye makeup styles with easy-to-use cluster lashes.
-  Updated: 2026-06-25T08:32:47Z
-  Total Products: 5
+  Updated: 2026-06-30T11:20:19Z
+  Total Products: 7
 
 ## Blogs
 
 - [Colmagic Daily Blog](https://www.colmagic.com/blogs/colmagic-daily-blog)
-  - [Best Face Cream for Glass Skin 2026: Beauty Sleep Optimization Guide](https://www.colmagic.com/blogs/colmagic-daily-blog/boquanya-pearl-essence-cream-beauty-sleep-optimization): Best Face Cream for Glass Skin 2026: Beauty Sleep Optimization Guide
-    Updated: 2026-06-01T07:31:15Z
-    Author: Colmagic
   - [7 Amazing Benefits of Using a DIY Lash Extension Kit & Lash Cluster Kit](https://www.colmagic.com/blogs/colmagic-daily-blog/7-amazing-benefits-of-using-a-diy-lash-extension-kit-lash-cluster-kit): 7 Amazing Benefits of Using a DIY Lash Extension Kit & Lash Cluster Kit
     Updated: 2026-06-01T07:44:12Z
     Author: Colmagic
   - [The Ultimate Guide to DIY Lash Extension Kits: Everything Beginners Need to Know](https://www.colmagic.com/blogs/colmagic-daily-blog/the-ultimate-guide-to-diy-lash-extension-kits-everything-beginners-need-to-know): The Ultimate Guide to DIY Lash Extension Kits: Everything Beginners Need to Know
-    Updated: 2026-06-02T01:30:46Z
+    Updated: 2026-07-04T08:33:09Z
     Author: Colmagic
   - [10-18mm Eyelash Extensions & Hydrated Skin: 2026 Beauty Trends](https://www.colmagic.com/blogs/colmagic-daily-blog/colmagic-diy-mixed-eyelashes-kit-10-1colmagic-diy-eyelash-kit-300-clusters-10-18mm-natural-volume-lashes-waterproof-hydration-for-beauty): 10-18mm Eyelash Extensions & Hydrated Skin: 2026 Beauty Trends
-    Updated: 2026-06-02T08:10:17Z
+    Updated: 2026-07-04T08:31:21Z
     Author: Colmagic
   - [How much does eyelash extensions cost](https://www.colmagic.com/blogs/colmagic-daily-blog/how-much-does-eyelash-extensions-cost): How much does eyelash extensions cost
     Updated: 2026-06-03T01:29:39Z
     Author: Colmagic
   - [DIY Lash Extension Kit: Master the 2026 Quick Beauty Routine](https://www.colmagic.com/blogs/colmagic-daily-blog/lash-clusters-kit-with-lash-bond-and-seal-glue-5-18mm-natural-wispy-eyelashes-for-lashes-cluster-includes-lash-tweezers-with-bond-seal-remover-applicator-diy-lash-extension-kitblack-148-pcs-beauty-from-the-inside-out): DIY Lash Extension Kit: Master the 2026 Quick Beauty Routine
-    Updated: 2026-06-03T08:10:23Z
+    Updated: 2026-07-04T08:29:31Z
     Author: Colmagic
   - [How remove eyelash extensions](https://www.colmagic.com/blogs/colmagic-daily-blog/how-remove-eyelash-extensions): How remove eyelash extensions
-    Updated: 2026-06-04T01:21:02Z
+    Updated: 2026-07-04T08:27:03Z
     Author: Colmagic
   - [How long do eyelash extensions last](https://www.colmagic.com/blogs/colmagic-daily-blog/how-long-do-eyelash-extensions-last): How long do eyelash extensions last
     Updated: 2026-06-05T01:21:25Z
@@ -390,25 +404,13 @@
     Updated: 2026-06-06T01:22:19Z
     Author: Colmagic
   - [Comparative Analysis: Eyelash Extensions in Chicago Versus DIY Lash Kits](https://www.colmagic.com/blogs/colmagic-daily-blog/comparative-analysis-eyelash-extensions-in-chicago-versus-diy-lash-kits): Comparative Analysis: Eyelash Extensions in Chicago Versus DIY Lash Kits
-    Updated: 2026-06-07T01:08:06Z
+    Updated: 2026-07-04T08:25:14Z
     Author: Colmagic
   - [The Secret to Achieving a Natural Look Eyelash Extensions At Home](https://www.colmagic.com/blogs/colmagic-daily-blog/the-secret-to-achieving-a-natural-look-eyelash-extensions-at-home): The Secret to Achieving a Natural Look Eyelash Extensions At Home
     Updated: 2026-06-08T01:06:05Z
     Author: Colmagic
-  - [HD Car Sun Visor Mirror: 2026 Age-Positive Beauty Routine](https://www.colmagic.com/blogs/colmagic-daily-blog/car-sun-visor-mirror-car-makeup-mirror-car-interior-decoration-mirror-hd-foldable-universal-car-sun-visor-vanity-foldable-mirror-age-positive-beauty-tips): HD Car Sun Visor Mirror: 2026 Age-Positive Beauty Routine
-    Updated: 2026-06-08T08:30:09Z
-    Author: Colmagic
-  - [FAQ: All You Need to Know About Eyelash Extensions Volume Using a DIY Kit](https://www.colmagic.com/blogs/colmagic-daily-blog/faq-all-you-need-to-know-about-eyelash-extensions-volume-using-a-diy-kit): FAQ: All You Need to Know About Eyelash Extensions Volume Using a DIY Kit
-    Updated: 2026-06-09T01:13:00Z
-    Author: Colmagic
-  - [LED Makeup Mirror: The 2026 Pro DIY Beauty & Lash Game-Changer](https://www.colmagic.com/blogs/colmagic-daily-blog/fascinate-trifold-vanity-mirror-with-21-led-lights-2x-3x-magnification-touch-dimming-180-rotation-dual-power-makeup-mirror-with-lighting-beauty-confidence-boosters): LED Makeup Mirror: The 2026 Pro DIY Beauty & Lash Game-Changer
-    Updated: 2026-06-09T08:40:03Z
-    Author: Colmagic
   - [How to Choose the Best Eyelash Extensions Chicago Alternatives with a DIY Approach](https://www.colmagic.com/blogs/colmagic-daily-blog/how-to-choose-the-best-eyelash-extensions-chicago-alternatives-with-a-diy-approach): How to Choose the Best Eyelash Extensions Chicago Alternatives with a DIY Approach
-    Updated: 2026-06-10T01:24:49Z
-    Author: Colmagic
-  - [3 Fogless Shower Mirrors for Your 2026 Minimalist Routine: Budget vs Luxury](https://www.colmagic.com/blogs/colmagic-daily-blog/shower-mirror-fogless-for-shaving-led-heated-rechargeable-fogless-mirror-for-shower-with-razor-holder-10x-magnification-3-color-lighting-dimmable-touch-screen-anti-fog-shaving-mirror-for-shower-minimalist-beauty-approach): 3 Fogless Shower Mirrors for Your 2026 Minimalist Routine: Budget vs Luxury
-    Updated: 2026-06-10T08:50:05Z
+    Updated: 2026-07-08T06:34:31Z
     Author: Colmagic
 
 ## Store Pages
@@ -441,7 +443,7 @@
 - [Terms of Service](https://www.colmagic.com/policies/terms-of-service)
   Updated: 2026-05-03T23:54:38-07:00
 - [Contact Information](https://www.colmagic.com/policies/contact-information)
-  Updated: 2026-05-03T23:54:16-07:00
+  Updated: 2026-07-09T03:58:15-07:00
 
 ## Optional
 
