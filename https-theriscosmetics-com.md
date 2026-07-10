@@ -10,59 +10,59 @@
 - Contact Email: info@theriscosmetics.com
 - Contact Phone: 081 1964 2765
 - Address: Via Leonardo Bianchi, 680131 Napoli NA
-- Updated At: 2026-07-03T00:00:37.912Z
+- Updated At: 2026-07-10T00:00:39.349Z
 
 ## Products
 
 - [Crema Corpo Super Idratante Délicieux 200ml | Theris](https://theriscosmetics.com/products/delicieux-crema-corpo-super-idratante): Crema corpo super idratante per pelli molto secche con oli naturali. Nutre, ripara e dona elasticità. Made in Italy. Scoprila ora.
-  Updated: 2026-06-09T23:58:58Z
+  Updated: 2026-07-08T09:39:02Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/DELICIEUX.jpg?v=1773160949
-  Price: 36,00 € EUR
+  Price: 30,60 € EUR
 - [Crema Corpo Idratante Soffice Nuage 200ml | Theris](https://theriscosmetics.com/products/nuage-crema-corpo-soffice): Crema corpo idratante dalla texture soffice e a rapido assorbimento. Nutre e lascia la pelle morbida e vellutata. Made in Italy. Scoprila ora.
-  Updated: 2026-06-09T23:57:25Z
+  Updated: 2026-07-08T09:39:02Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/NUAGE.jpg?v=1773160948
-  Price: 30,60 € EUR
+  Price: 26,01 € EUR
 - [Scrub Corpo Esfoliante Rigenerante Spa 200ml | Theris](https://theriscosmetics.com/products/spa-scrub-corpo): Scrub corpo esfoliante che leviga e nutre la pelle. Rimuove le cellule morte per un corpo morbido e luminoso. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-09T23:56:06Z
+  Updated: 2026-07-08T09:39:03Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/scrubcorpomod2.jpg?v=1773160943
-  Price: 32,70 € EUR
+  Price: 26,16 € EUR
 - [Crema Contorno Occhi Antirughe Intensité | Theris](https://theriscosmetics.com/products/intensite-contorno-occhi): Crema contorno occhi antirughe contro borse e occhiaie. Decongestiona e distende lo sguardo. Made in Italy. Scoprila ora.
-  Updated: 2026-06-15T06:56:55Z
+  Updated: 2026-07-08T09:39:02Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/INTENSITE_2.jpg?v=1773160944
-  Price: 23,80 € EUR
+  Price: 20,23 € EUR
 - [Crema Viso Idratante Quotidiana Lumière 50ml | Theris](https://theriscosmetics.com/products/lumiere-crema-viso-idratante): Crema viso idratante con acido ialuronico per pelli secche e disidratate. Idrata, nutre e illumina. Made in Italy. Scoprila ora.
-  Updated: 2026-06-09T23:53:21Z
+  Updated: 2026-07-08T09:39:02Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/LUMIERE_2.jpg?v=1773160944
-  Price: 32,70 € EUR
+  Price: 27,80 € EUR
 - [Crema Viso Giorno Idratante con SPF Vitalité 50ml | Theris](https://theriscosmetics.com/products/vitalite-crema-giorno): Crema viso giorno idratante con filtri solari SPF. Protegge, illumina ed è base perfetta per il make-up. Made in Italy. Scoprila ora.
-  Updated: 2026-07-02T15:35:24Z
+  Updated: 2026-07-08T09:39:03Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/VITALITE.jpg?v=1773160937
-  Price: 44,10 € EUR
+  Price: 37,49 € EUR
 - [Tonico Viso Riequilibrante Amoré 200ml | Theris](https://theriscosmetics.com/products/amore-tonico): Tonico viso riequilibrante che ripristina il pH e completa la detersione. Pelle fresca e pori minimizzati. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-10T08:15:17Z
+  Updated: 2026-07-08T09:39:00Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/AMORE_TONICO_LIQUIDO_MOD.jpg?v=1773160936
-  Price: 18,90 € EUR
+  Price: 16,07 € EUR
 - [Gel Detergente Viso Purificante Clair 200ml | Theris](https://theriscosmetics.com/products/clair-gel-detergente): Gel detergente viso purificante per pelli miste e impure. Rimuove sebo e impurità senza seccare. Made in Italy. Scoprilo ora.
   Updated: 2026-06-25T16:19:47Z
   Vendor: Theris cosmetici
@@ -71,12 +71,12 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/CLAIR_-_GEL_DETERGENTE.jpg?v=1773160936
   Price: 19,90 € EUR
 - [Acqua Micellare Struccante Viso e Occhi Éclat 150ml](https://theriscosmetics.com/products/eclat-acqua-micellare): Acqua micellare struccante per viso, occhi e labbra senza risciacquo. Deterge in delicatezza e idrata. Made in Italy. Scoprila ora.
-  Updated: 2026-06-09T23:48:11Z
+  Updated: 2026-07-08T09:39:03Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/ECLAT_ACQUA_MICELLARE_LIQUIDO_MOD.jpg?v=1773160932
-  Price: 17,50 € EUR
+  Price: 14,00 € EUR
 - [Burro Struccante Viso e Occhi Magique | Theris](https://theriscosmetics.com/products/magique-burro-struccante): Burro struccante viso e occhi che scioglie il trucco anche waterproof. Deterge e nutre senza seccare. Made in Italy. Scoprilo ora.
   Updated: 2026-06-19T12:11:23Z
   Vendor: Theris cosmetici
@@ -85,96 +85,96 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/MAGIQUE.jpg?v=1773160932
   Price: 23,50 € EUR
 - [Siero Viso Liftante Antirughe Botoxil 30ml | Theris](https://theriscosmetics.com/products/botoxil-siero-liftante): Siero viso liftante antirughe con peptidi e acido ialuronico. Effetto tensore che distende e rimpolpa la pelle. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-09T23:45:39Z
+  Updated: 2026-07-08T09:39:00Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/BOTOXIL.jpg?v=1773160931
-  Price: 50,70 € EUR
+  Price: 43,10 € EUR
 - [Siero Viso Esfoliante Illuminante Brillance | Theris](https://theriscosmetics.com/products/brillance-siero-esfoliante): Siero viso esfoliante con acido mandelico. Leviga la grana, rinnova la pelle e dona luminosità. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-22T09:49:08Z
+  Updated: 2026-07-08T09:39:00Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/BRILLANCE.jpg?v=1773160927
-  Price: 33,30 € EUR
+  Price: 28,31 € EUR
 - [Siero Viso Schiarente Anti-Macchie Clarté 30ml | Theris](https://theriscosmetics.com/products/clarte-siero-schiarente): Siero viso schiarente anti-macchie che uniforma l'incarnato e attenua le discromie. Per una pelle più luminosa. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-15T06:56:56Z
+  Updated: 2026-07-08T09:39:01Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/CLARTE.jpg?v=1773160927
-  Price: 36,90 € EUR
+  Price: 31,37 € EUR
 - [Siero Viso al Collagene Rassodante Densité 30ml | Theris](https://theriscosmetics.com/products/densite-siero-al-collagene): Siero viso al collagene rassodante e rimpolpante. Riduce le rughe e migliora tono ed elasticità della pelle. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-09T23:41:50Z
+  Updated: 2026-07-08T09:39:01Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/DENSITE.jpg?v=1773160927
-  Price: 31,00 € EUR
+  Price: 26,35 € EUR
 - [Siero Viso Purificante Pelli Impure Pureté 30ml | Theris](https://theriscosmetics.com/products/purete-siero-purificante): Siero viso purificante per pelli impure e grasse con acido salicilico e tea tree. Riduce pori e imperfezioni. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-19T17:17:06Z
+  Updated: 2026-07-08T09:39:02Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/PURETE.jpg?v=1773160924
-  Price: 33,80 € EUR
+  Price: 28,73 € EUR
 - [Vitamine C – Siero Viso Illuminante 50ml | Theris](https://theriscosmetics.com/products/vitamine-c-siero-illuminante): Siero viso alla Vitamina C illuminante e uniformante. Riduce macchie e segni di stanchezza per una pelle radiosa. Vegano, Made in Italy. Scoprilo ora.
-  Updated: 2026-06-15T06:56:55Z
+  Updated: 2026-07-08T09:39:03Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/VITAMINE_C.jpg?v=1773160924
-  Price: 32,30 € EUR
+  Price: 27,46 € EUR
 - [Crema Viso Notte Antietà Puissance 50ml | Theris](https://theriscosmetics.com/products/puissance-crema-notte): Crema viso notte antietà con peptidi e acido ialuronico. Nutre e rigenera la pelle durante il sonno per un viso più compatto. Made in Italy. Scoprila ora.
-  Updated: 2026-06-09T23:37:24Z
+  Updated: 2026-07-08T09:39:02Z
   Vendor: Theris
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/PUISSANCE_jpg.jpg?v=1773160924
-  Price: 57,20 € EUR
+  Price: 48,62 € EUR
 - [Cera Sopracciglia Effetto Laminato Brow Wax | Theris](https://theriscosmetics.com/products/brow-wax-permanent-make-up): Cera fissante sopracciglia effetto laminato a tenuta extra forte. Sopracciglia folte e definite tutto il giorno. Made in Italy.
-  Updated: 2026-06-10T00:01:58Z
+  Updated: 2026-07-08T09:39:00Z
   Vendor: Theris cosmetici
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/BROW_WAX_1_f84b0932-081a-44b2-b809-5370ba96085a.jpg?v=1773917135
-  Price: 18,00 € EUR
+  Price: 15,30 € EUR
 - [Gel Sopracciglia Trasparente Fissante Brow Gel | Theris](https://theriscosmetics.com/products/brow-gel-transparent-permanent-make-up): Gel sopracciglia trasparente fissante per un look naturale e ordinato. Definisce e disciplina i peli tutto il giorno. Made in Italy.
-  Updated: 2026-06-10T00:00:34Z
+  Updated: 2026-07-08T09:39:00Z
   Vendor: Theris
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/BROWGELTRANSPARENT.jpg?v=1773917998
-  Price: 14,00 € EUR
+  Price: 11,90 € EUR
 - [Bundle Idratazione – Routine Viso Idratante Completa | Theris](https://theriscosmetics.com/products/bundle-idratazione-routine-completa-viso): Bundle idratazione viso: detergente, tonico e crema idratante. Per una pelle morbida e idratata ogni giorno. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-10T00:08:03Z
+  Updated: 2026-07-08T09:39:01Z
   Vendor: Theris
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/BUNDLEIDRATAZIONE.png?v=1776328896
-  Price: 57,20 € EUR
+  Price: 50,05 € EUR
 - [Bundle Anti-Age – Routine Viso Antirughe Completa | Theris](https://theriscosmetics.com/products/bundle-anti-age): Bundle anti-age: crema notte, siero liftante e contorno occhi. Riduce rughe e segni del tempo. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-10T00:06:47Z
+  Updated: 2026-07-08T09:39:01Z
   Vendor: Theris
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/bundleantiage_7f1067d3-73c0-4f57-a251-3ed846dbfb62.png?v=1776330947
-  Price: 105,36 € EUR
+  Price: 92,19 € EUR
 - [Bundle Pelle Impura – Routine Viso Anti-Imperfezioni | Theris](https://theriscosmetics.com/products/bundle-pelle-impura): Bundle pelle impura: gel detergente, siero purificante e siero esfoliante. Riduce imperfezioni e lucidità. Made in Italy. Scoprilo ora.
-  Updated: 2026-06-10T00:05:24Z
+  Updated: 2026-07-08T09:39:01Z
   Vendor: Theris
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/hf_20260416_092634_9d6c9306-d24b-4006-b998-994b3517de87.png?v=1776332394
-  Price: 69,60 € EUR
+  Price: 60,90 € EUR
 - [Bundle Routine Viso Completa Detersione | Theris](https://theriscosmetics.com/products/bundle-routine-viso-completa-detersione-equilibrio-nutrimento): Bundle routine viso completa: struccante, detergente e tonico in un kit conveniente. Per una pelle pulita e fresca. Made in Italy.
-  Updated: 2026-06-10T00:03:55Z
+  Updated: 2026-07-08T17:33:46Z
   Vendor: Theris
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/f0c0732a-dbbb-4fae-8193-7bb69bfc9e8c.png?v=1777038754
-  Price: 49,84 € EUR
+  Price: 43,61 € EUR
 - [Rayon De Soleil Olio Illuminante Viso e Corpo | Theris](https://theriscosmetics.com/products/rayon-de-soleil-olio-illuminante): Olio illuminante Theris dall'effetto luce dorata: nutre la pelle e ne esalta la luminosità naturale con pigmenti perlati. Texture setosa, non unge.
   Updated: 2026-07-01T12:26:18Z
   Vendor: Theris
@@ -185,50 +185,50 @@
 
 ## Collections
 
-- [Sieri Viso Antiossidanti Per Pelle Luminosa](https://theriscosmetics.com/collections/sieri-viso): Scopri la collezione Sieri Viso: sieri nutrienti che idratano, illuminano la pelle e offrono protezione, grazie a ingredienti naturali e formule efficaci.
-  Updated: 2026-07-02T11:36:46Z
+- [Sieri Viso Concentrati](https://theriscosmetics.com/collections/sieri-viso): Scopri la collezione Sieri Viso: sieri nutrienti che idratano, illuminano la pelle e offrono protezione, grazie a ingredienti naturali e formule efficaci.
+  Updated: 2026-07-08T09:39:04Z
   Total Products: 7
-- [Detergenti Viso: Struccanti e Acqua Micellare | Theris](https://theriscosmetics.com/collections/detersione): Detergenti viso Theris: gel, burro struccante e acqua micellare vegani Made in Italy per una detersione delicata. Pelle pulita, fresca e luminosa.
-  Updated: 2026-06-26T16:32:04Z
+- [Detergenti Viso](https://theriscosmetics.com/collections/detersione): Detergenti viso Theris: gel, burro struccante e acqua micellare vegani Made in Italy per una detersione delicata. Pelle pulita, fresca e luminosa.
+  Updated: 2026-07-08T09:39:04Z
   Total Products: 3
-- [Tonico Viso Riequilibrante | Theris](https://theriscosmetics.com/collections/tonici): Tonici viso Theris: formule delicate e riequilibranti, vegane e Made in Italy, che rinfrescano la pelle e preparano all'assorbimento di sieri e creme.
-  Updated: 2026-06-10T11:37:41Z
+- [Tonici Viso](https://theriscosmetics.com/collections/tonici): Tonici viso Theris: formule delicate e riequilibranti, vegane e Made in Italy, che rinfrescano la pelle e preparano all'assorbimento di sieri e creme.
+  Updated: 2026-07-08T09:39:01Z
   Total Products: 1
-- [Creme Viso Idratanti Giorno e Notte | Theris](https://theriscosmetics.com/collections/creme-viso): Creme viso idratanti Theris, giorno e notte: formule vegane Made in Italy che nutrono e proteggono. Pelle morbida, elastica e luminosa.
-  Updated: 2026-07-02T11:36:46Z
+- [Creme Viso Idratanti](https://theriscosmetics.com/collections/creme-viso): Creme viso idratanti Theris, giorno e notte: formule vegane Made in Italy che nutrono e proteggono. Pelle morbida, elastica e luminosa.
+  Updated: 2026-07-08T09:39:04Z
   Total Products: 3
-- [Contorno Occhi Antirughe per Borse e Occhiaie | Theris](https://theriscosmetics.com/collections/contorno-occhi): Contorno occhi Theris: crema antirughe vegana Made in Italy contro borse, occhiaie e segni di stanchezza. Sguardo fresco e disteso ogni giorno.
-  Updated: 2026-06-15T11:47:00Z
+- [Contorno Occhi](https://theriscosmetics.com/collections/contorno-occhi): Contorno occhi Theris: crema antirughe vegana Made in Italy contro borse, occhiaie e segni di stanchezza. Sguardo fresco e disteso ogni giorno.
+  Updated: 2026-07-08T09:39:03Z
   Total Products: 1
-- [Cura del Corpo: Creme e Scrub Corpo | Theris](https://theriscosmetics.com/collections/corpo): Prodotti per la cura del corpo Theris: creme idratanti e scrub esfolianti vegani Made in Italy. Pelle morbida, nutrita e levigata ogni giorno.
-  Updated: 2026-07-02T11:36:46Z
+- [Cura del Corpo](https://theriscosmetics.com/collections/corpo): Prodotti per la cura del corpo Theris: creme idratanti e scrub esfolianti vegani Made in Italy. Pelle morbida, nutrita e levigata ogni giorno.
+  Updated: 2026-07-08T09:39:04Z
   Total Products: 4
-- [Trattamenti Illuminanti Viso per Pelle Spenta | Theris](https://theriscosmetics.com/collections/illuminante-pelle-spenta): Trattamenti illuminanti viso Theris per pelle spenta: sieri alla vitamina C ed esfolianti delicati, vegani e Made in Italy. Scopri il glow.
-  Updated: 2026-07-02T11:36:46Z
+- [Trattamenti Illuminanti Viso](https://theriscosmetics.com/collections/illuminante-pelle-spenta): Trattamenti illuminanti viso Theris per pelle spenta: sieri alla vitamina C ed esfolianti delicati, vegani e Made in Italy. Scopri il glow.
+  Updated: 2026-07-08T09:39:04Z
   Total Products: 4
-- [Trattamenti Pelle Impura e Pori Dilatati | Theris](https://theriscosmetics.com/collections/pelle-impura-pori-dilatati): Trattamenti viso Theris per pelle impura e pori dilatati: detergenti, sieri purificanti ed esfolianti vegani Made in Italy. Pelle pulita e levigata.
-  Updated: 2026-06-26T16:32:04Z
+- [Trattamenti Pelle Impura e Pori Dilatati](https://theriscosmetics.com/collections/pelle-impura-pori-dilatati): Trattamenti viso Theris per pelle impura e pori dilatati: detergenti, sieri purificanti ed esfolianti vegani Made in Italy. Pelle pulita e levigata.
+  Updated: 2026-07-08T09:39:04Z
   Total Products: 4
-- [Creme e Sieri Anti-Age Rassodanti | Theris](https://theriscosmetics.com/collections/anti-age-rassodante): Trattamenti anti-age Theris: creme e sieri rassodanti al collagene, vegani e Made in Italy, contro rughe e perdita di tono. Pelle più giovane.
-  Updated: 2026-06-15T11:47:00Z
+- [Anti-Age e Rassodanti](https://theriscosmetics.com/collections/anti-age-rassodante): Trattamenti anti-age Theris: creme e sieri rassodanti al collagene, vegani e Made in Italy, contro rughe e perdita di tono. Pelle più giovane.
+  Updated: 2026-07-08T09:39:04Z
   Total Products: 5
-- [Creme Idratanti Viso e Corpo | Theris](https://theriscosmetics.com/collections/idratazione-intensa): Creme idratanti viso e corpo Theris: formule vegane Made in Italy per pelli secche. Idratazione intensa e duratura. Scopri la collezione.
-  Updated: 2026-07-02T11:36:46Z
+- [Creme Idratanti Viso e Corpo](https://theriscosmetics.com/collections/idratazione-intensa): Creme idratanti viso e corpo Theris: formule vegane Made in Italy per pelli secche. Idratazione intensa e duratura. Scopri la collezione.
+  Updated: 2026-07-08T09:39:03Z
   Total Products: 4
-- [Esfolianti Viso e Corpo: Scrub e Sieri | Theris](https://theriscosmetics.com/collections/esfoliazione-rinnovo-cellulare): Esfolianti viso e corpo Theris: sieri e scrub vegani Made in Italy per il rinnovamento cellulare. Pelle levigata, luminosa e rinnovata.
-  Updated: 2026-06-22T11:41:52Z
+- [Esfolianti Viso e Corpo](https://theriscosmetics.com/collections/esfoliazione-rinnovo-cellulare): Esfolianti viso e corpo Theris: sieri e scrub vegani Made in Italy per il rinnovamento cellulare. Pelle levigata, luminosa e rinnovata.
+  Updated: 2026-07-08T09:39:04Z
   Total Products: 2
 - [All Products (ChatGPT-AI Product Description)](https://theriscosmetics.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-07-02T11:36:46Z
-  Total Products: 25
-- [Best Seller: i Prodotti Skincare Più Venduti | Theris](https://theriscosmetics.com/collections/best-seller): I best seller Theris: i prodotti skincare più amati e venduti, tra sieri, creme e trattamenti vegani Made in Italy. Scopri i nostri must-have.
-  Updated: 2026-06-10T11:37:41Z
+  Updated: 2026-07-09T11:33:11Z
+  Total Products: 26
+- [Best Seller](https://theriscosmetics.com/collections/best-seller): I best seller Theris: i prodotti skincare più amati e venduti, tra sieri, creme e trattamenti vegani Made in Italy. Scopri i nostri must-have.
+  Updated: 2026-07-08T09:39:04Z
   Total Products: 5
-- [Make-Up Sopracciglia: Gel e Cera Brow | Theris](https://theriscosmetics.com/collections/make-up): Make-up sopracciglia Theris: gel fissante trasparente e cera effetto laminato, vegani e Made in Italy. Sguardo definito e ordinato tutto il giorno.
-  Updated: 2026-06-09T12:41:32Z
+- [MAKE-UP](https://theriscosmetics.com/collections/make-up): Make-up sopracciglia Theris: gel fissante trasparente e cera effetto laminato, vegani e Made in Italy. Sguardo definito e ordinato tutto il giorno.
+  Updated: 2026-07-08T09:39:01Z
   Total Products: 2
-- [Bundle Skincare: Routine Viso Complete -20% | Theris](https://theriscosmetics.com/collections/bundle): Bundle skincare Theris: routine viso complete con sconto del 20%. Set vegani Made in Italy per detergere, trattare e idratare. Scopri i kit.
-  Updated: 2026-06-09T12:44:04Z
+- [Bundle](https://theriscosmetics.com/collections/bundle): Bundle skincare Theris: routine viso complete con sconto del 20%. Set vegani Made in Italy per detergere, trattare e idratare. Scopri i kit.
+  Updated: 2026-07-09T11:33:11Z
   Total Products: 4
 
 ## Blogs
@@ -251,6 +251,14 @@
   - [Come eliminare le macchie del viso | Theris](https://theriscosmetics.com/blogs/news/come-eliminare-le-macchie-del-viso-ingredienti-e-routine-efficace): Come eliminare le macchie del viso | Theris
     Updated: 2026-06-26T11:43:12Z
     Author: Cristiano De Luca
+  - [Come ottenere una pelle luminosa: la routine skincare perfetta](https://theriscosmetics.com/blogs/news/come-ottenere-una-pelle-luminosa-la-routine-skincare-perfetta): Come ottenere una pelle luminosa: la routine skincare perfetta
+    Updated: 2026-07-06T13:18:03Z
+    Author: Theris Cosmetics
+    Tags: anti-age, consigli per pelle luminosa, cura, cura della pelle, idratazione viso, illuminare pelle, pelle, pelle luminosa, prodotti skincare, routine di bellezza per pelle., routine pelle, routine skincare, siero viso, skincare
+  - [Siero Viso: come utilizzarlo nella tua routine skincare](https://theriscosmetics.com/blogs/news/siero-viso-come-utilizzarlo-nella-tua-routine-skincare): Siero Viso: come utilizzarlo nella tua routine skincare
+    Updated: 2026-07-08T02:23:05Z
+    Author: Theris Cosmetics
+    Tags: anti-age, come usare siero, cura, cura della pelle, cura viso, idratazione viso, pelle, pelle luminosa, prodotti per la pelle, routine skincare, siero, siero per il viso, siero viso
 
 ## Store Pages
 
