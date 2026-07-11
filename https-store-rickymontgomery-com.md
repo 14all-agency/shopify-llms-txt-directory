@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2023-04-20T18:23:43Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-04T00:00:36.427Z
+- Updated At: 2026-07-11T00:00:36.406Z
 
 ## Products
 
 - [Oil Pastel Tour Tee](https://store.rickymontgomery.com/products/oil-pastel-tour-tee): this is a hyper-realistic depiction of what i look like
-  Updated: 2026-06-12T02:51:39Z
+  Updated: 2026-07-08T20:54:03Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMOilPastelTourTee.png?v=1738172723
     Price: $24.50 USD
 - [Birdhouse Tee](https://store.rickymontgomery.com/products/oil-pastel-face-tee): come hang in a birdhouse with me :)
-  Updated: 2026-06-13T09:35:10Z
+  Updated: 2026-07-08T20:54:04Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -46,7 +46,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Face Text Hoodie](https://store.rickymontgomery.com/products/ricky-montgomery-hoodie): these cute lil guys worked so hard to spell my name out so i put them on a hoodie
-  Updated: 2026-06-13T17:15:52Z
+  Updated: 2026-07-08T20:54:04Z
   Vendor: Ricky Montgomery
   Product Type: Hoodie
   Availability: Available
@@ -67,56 +67,56 @@
     Availability: Not Available
     Price: $45.00 USD
 - [Overtime Tour Poster](https://store.rickymontgomery.com/products/overtime-tour-poster): anyone who's anyone was at one of these shows
-  Updated: 2026-06-14T21:45:29Z
+  Updated: 2026-07-08T20:54:04Z
   Vendor: Ricky Montgomery
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMOvertimeTourPoster.png?v=1683150938
   Price: $15.00 USD
 - [Settle Down Long Sleeve](https://store.rickymontgomery.com/products/settle-down-long-sleeve): let's settle down together please note: the product image is a digital mockup and blank may vary slightly in style and color
-  Updated: 2026-06-14T15:40:29Z
+  Updated: 2026-07-08T20:54:05Z
   Vendor: Ricky Montgomery
   Product Type: Long Sleeve
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMSettleDownLongSleeveBrown.png?v=1761661262
   Price: $40.00 USD
 - [Montgomery Ricky Vinyl](https://store.rickymontgomery.com/products/montgomery-ricky-vinyl): Released April 8, 2016. 1. This December2. Line Without a Hook3. Cabo4. Don't Know How5. Last Night6. California7. My Heart is Buried in Venice8. Mr. Loverman9. Get Used to It10. Snow
-  Updated: 2026-07-02T15:42:08Z
+  Updated: 2026-07-10T21:41:38Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/YvwpE9Un.png?v=1772829367
   Price: $25.00 USD
 - [Rick - Webstore Exclusive Vinyl - Evergreen](https://store.rickymontgomery.com/products/rick-d2c-exclusive-vinyl-evergreen): Track Listing One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Release Date: September 29, 2023
-  Updated: 2026-06-14T15:51:56Z
+  Updated: 2026-07-08T20:54:05Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMRickD2CVinyl-Evergreen.png?v=1689099397
   Price: $25.00 USD
 - [Rick - Vinyl - Black](https://store.rickymontgomery.com/products/rick-vinyl-black): Track Listing One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Release Date: September 29, 2023
-  Updated: 2026-06-13T02:21:09Z
+  Updated: 2026-07-09T02:30:43Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMRick-StandardVinyl-Black.png?v=1689969720
   Price: $25.00 USD
 - [Rick - CD](https://store.rickymontgomery.com/products/rick-cd): Track Listing One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Release Date: September 29, 2023
-  Updated: 2026-06-10T00:46:58Z
+  Updated: 2026-07-08T20:54:06Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMRick-CD.png?v=1690228677
   Price: $15.00 USD
 - [Rick - Cassette](https://store.rickymontgomery.com/products/rick-cassette): Track Listing One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Release Date: September 29, 2023
-  Updated: 2026-06-11T03:04:10Z
+  Updated: 2026-07-08T20:54:07Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMRickCassette.png?v=1761661759
   Price: $15.00 USD
 - [Rick Tee - Black](https://store.rickymontgomery.com/products/rick-tee-black): just call me rick 100% cotton Photo by Noah Tidmore Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-12T21:36:27Z
+  Updated: 2026-07-09T02:30:44Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Truth Or Dare Tee](https://store.rickymontgomery.com/products/truth-or-dare-tee): triple dog dare you 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-14T22:12:37Z
+  Updated: 2026-07-08T20:54:08Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -161,21 +161,21 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Truth Or Dare Mug](https://store.rickymontgomery.com/products/truth-or-dare-mug): dare you to buy this mug...
-  Updated: 2026-06-30T03:45:27Z
+  Updated: 2026-07-08T20:54:08Z
   Vendor: Ricky Montgomery
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/TruthorDareMug.png?v=1700414478
   Price: $15.00 USD
 - [Overtime Tour Tote](https://store.rickymontgomery.com/products/overtime-tour-tote): which shows did you go to? i went to all of them, no big 
-  Updated: 2026-05-28T20:45:14Z
+  Updated: 2026-07-08T20:54:09Z
   Vendor: Ricky Montgomery
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/OvertimeTourToteFront.png?v=1700512725
   Price: $15.00 USD
 - [Overdrive Tee - Faded Brown](https://store.rickymontgomery.com/products/overdrive-tee): try the R1-CK today for improved tone and dynamic range! ★★★★★★ 100% heavyweight cotton, garment-dyed tee in Faded Brown Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-30T03:45:28Z
+  Updated: 2026-07-08T20:54:09Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -199,21 +199,21 @@
     Availability: Available
     Price: $30.00 USD
 - [Magnet Sheet](https://store.rickymontgomery.com/products/ricky-magnet-set): put these on your fridge and think of me every time you're looking for snacks magnets come on one 8 x 10.5" sheet
-  Updated: 2026-06-14T15:35:41Z
+  Updated: 2026-07-08T21:23:18Z
   Vendor: Ricky Montgomery
   Product Type: Magnets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMMagnetSheet.png?v=1707767142
   Price: $15.00 USD
 - [Logo Keychain](https://store.rickymontgomery.com/products/logo-keychain): i've always wanted to be a keychain keychain measures 3" wide
-  Updated: 2026-06-10T07:44:55Z
+  Updated: 2026-07-10T01:55:12Z
   Vendor: Ricky Montgomery
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMLogoKeychain.png?v=1761661403
   Price: $8.00 USD
 - [Another Rick In The Wall Tee](https://store.rickymontgomery.com/products/another-rick-in-the-wall-tee): All in all, we're just another Rick in the wall 100% pre-shrunk, garment-dyed, heavyweight cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-17T19:30:23Z
+  Updated: 2026-07-08T20:54:10Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -234,21 +234,21 @@
     Availability: Available
     Price: $25.00 USD
 - [Another Rick In The Wall Tour Poster](https://store.rickymontgomery.com/products/another-rick-in-the-wall-tour-poster): i'll be your poster boy 18x24 poster
-  Updated: 2026-05-28T21:42:06Z
+  Updated: 2026-07-08T20:54:11Z
   Vendor: Ricky Montgomery
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/AnotherRickIntheWallPoster.png?v=1712081926
   Price: $20.00 USD
 - [Rick(y) - Deluxe 2LP Vinyl](https://store.rickymontgomery.com/products/ricky-deluxe-2lp-vinyl): Double 12” Vinyl Limited run of 1,000 units Track Listing Disc One One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Disc Two Here Comes the Moon Penny Come Home It's Ok to Cry Sorry for Me Talk to You Settle Down Same Shit (interlude) Reptilia Unknown Phantom Release Date: September 29, 2023
-  Updated: 2026-06-23T02:48:12Z
+  Updated: 2026-07-08T20:54:11Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/Rick_y__Mockup-1.png?v=1715192029
   Price: $60.00 USD
 - [Star Baby Tee](https://store.rickymontgomery.com/products/star-baby-tee): you're a superstar 100% combed cotton Size Chart Size Body Length (in) Chest Width (in) S 17 3/4 19 3/4 M 18 1/4 20 3/4 L 18 3/4 21 3/4 XL 19 22 3/4 2XL 19 1/2 22 1/2
-  Updated: 2026-07-01T22:57:38Z
+  Updated: 2026-07-09T02:30:44Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -269,7 +269,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Here Comes The Moon Tee](https://store.rickymontgomery.com/products/here-comes-the-moon-tee): love you til my heart stops 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-11T06:59:36Z
+  Updated: 2026-07-08T20:54:12Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -290,7 +290,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Same Shit Crewneck](https://store.rickymontgomery.com/products/handdrawn-crewneck): it's in your hands 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-14T06:42:37Z
+  Updated: 2026-07-08T20:54:12Z
   Vendor: Ricky Montgomery
   Product Type: Crewneck
   Availability: Available
@@ -311,21 +311,21 @@
     Availability: Not Available
     Price: $50.00 USD
 - [It's Okay 2 Cry Tote](https://store.rickymontgomery.com/products/its-okay-to-cry-tote): is there something in your eye? 100% cotton tote bag
-  Updated: 2026-06-10T20:05:22Z
+  Updated: 2026-07-08T20:54:12Z
   Vendor: Ricky Montgomery
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RM_0004_161942_1_295474_d.png?v=1715285770
   Price: $25.00 USD
 - [Ricky Montgomery...Live at the Office VHS](https://store.rickymontgomery.com/products/ricky-montgomery-live-at-the-office-vhs): now on home video Playable VHS, limited to 500 units
-  Updated: 2026-06-15T17:13:18Z
+  Updated: 2026-07-08T20:54:13Z
   Vendor: Ricky Montgomery
   Product Type: Media
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RM_VHS.png?v=1779907795
   Price: $34.99 USD
 - [Upside Down Long Sleeve](https://store.rickymontgomery.com/products/upside-down-long-sleeve): the blood is really rushing to my head 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-12T08:45:11Z
+  Updated: 2026-07-08T20:54:13Z
   Vendor: Ricky Montgomery
   Product Type: Long Sleeve
   Availability: Available
@@ -355,14 +355,14 @@
     Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/image_36.png?v=1761661434
     Price: $30.00 USD
 - [Eraser? Pencil & Eraser Set](https://store.rickymontgomery.com/products/eraser-pencil-eraser-set): eraser? i hardly know her! 4 inch carpenter-style pencil and 1.5 inch rubber eraser
-  Updated: 2026-06-14T07:53:20Z
+  Updated: 2026-07-08T20:54:14Z
   Vendor: Ricky Montgomery
   Product Type: Pencil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/EraserBundle.png?v=1725567119
   Price: $10.00 USD
 - [Signs Tie-Dye Tee](https://store.rickymontgomery.com/products/picket-tie-dye-tee): those guys are going through it 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-13T17:46:34Z
+  Updated: 2026-07-09T02:30:44Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -383,7 +383,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [One Rick to Rule Them All Tour Tee](https://store.rickymontgomery.com/products/one-rick-to-rule-them-all-tour-tee): my precious 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-10T23:48:26Z
+  Updated: 2026-07-08T20:54:14Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -407,70 +407,70 @@
     Availability: Not Available
     Price: $32.00 USD
 - [Illustrated Sticker Pack](https://store.rickymontgomery.com/products/illustrated-sticker-pack): ricky starter pack each die cut sticker measures between 3.2" and 3.75" wide
-  Updated: 2026-06-11T01:13:52Z
+  Updated: 2026-07-08T20:54:15Z
   Vendor: Ricky Montgomery
   Product Type: Sticker Pack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMIllustratedStickerPack.png?v=1726499076
   Price: $15.00 USD
 - [Superfan Fanny Pack](https://store.rickymontgomery.com/products/superfan-fanny-pack): I'll be your superfan(ny pack) 100% polyester fanny pack (50% recycled material)
-  Updated: 2026-06-10T22:12:52Z
+  Updated: 2026-07-08T20:54:15Z
   Vendor: Ricky Montgomery
   Product Type: Fanny Pack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/0012_163304_1_298708_d.png?v=1731697032
   Price: $35.00 USD
 - [Superfan Air Fresheners](https://store.rickymontgomery.com/products/superfan-air-fresheners): Set of three forest-scented air fresheners
-  Updated: 2026-06-13T18:07:53Z
+  Updated: 2026-07-08T20:54:16Z
   Vendor: Ricky Montgomery
   Product Type: Air Freshener
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/0013_163177_1_298391_d.png?v=1761661330
   Price: $18.00 USD
 - [RM Chip Clip](https://store.rickymontgomery.com/products/rm-chip-clip): 4" wide chip clip
-  Updated: 2026-06-10T21:44:41Z
+  Updated: 2026-07-08T20:54:16Z
   Vendor: Ricky Montgomery
   Product Type: Chip Clip
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/0011_163368_1_298835_d.png?v=1731697244
   Price: $7.00 USD
 - [RICK Corduroy Hat - Green](https://store.rickymontgomery.com/products/rick-corduroy-hat-green): don't forget to rewind before wearing 100% cotton, embroidered unstructured cap
-  Updated: 2026-06-28T23:09:27Z
+  Updated: 2026-07-08T20:54:17Z
   Vendor: Ricky Montgomery
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/160556_2_297214_d.png?v=1761661542
   Price: $35.00 USD
 - [RM Jumbo Tote](https://store.rickymontgomery.com/products/rm-jumbo-tote): tiny logo, giant bag 100% cotton jumbo tote
-  Updated: 2026-06-12T16:04:02Z
+  Updated: 2026-07-08T23:01:58Z
   Vendor: Ricky Montgomery
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/162572_1_296830_d.png?v=1731706884
   Price: $30.00 USD
 - [Natural Logo Tote](https://store.rickymontgomery.com/products/natural-logo-tote): 100% cotton tote
-  Updated: 2026-06-13T16:01:24Z
+  Updated: 2026-07-08T20:54:18Z
   Vendor: Ricky Montgomery
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RM_Logo_Tote.png?v=1761660964
   Price: $20.00 USD
 - [Rick - Vinyl - Cobalt Blue](https://store.rickymontgomery.com/products/rick-vinyl-cobalt-blue): Track Listing One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Release Date: September 29, 2023
-  Updated: 2026-07-03T19:23:07Z
+  Updated: 2026-07-08T20:54:18Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RM_Rick_Cobalt_Blue.png?v=1761661846
   Price: $25.00 USD
 - [Rick - Vinyl - Apple Red](https://store.rickymontgomery.com/products/rick-vinyl-apple-red): Track Listing One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Release Date: September 29, 2023
-  Updated: 2026-06-09T17:28:27Z
+  Updated: 2026-07-08T20:54:18Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/159353_6_293018_d.png?v=1736806996
   Price: $25.00 USD
 - [Another Rick in the Wall Tour Tee](https://store.rickymontgomery.com/products/mystery-tee-4): All in all, we're just another Rick in the wall 100% pre-shrunk, garment-dyed, heavyweight cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-06-13T03:36:07Z
+  Updated: 2026-07-08T20:54:19Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -491,7 +491,7 @@
     Availability: Available
     Price: $32.00 USD
 - [Bunny Hoodie - Cobalt Blue](https://store.rickymontgomery.com/products/bunny-hoodie-cobalt-blue): i was trying to think of a rabbit pun but then i realized it wouldn't be bunny 80% ring spun US cotton, 20% polyester hoodie in Cobalt Blue Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 28 38 3XL 33 30 39
-  Updated: 2026-06-30T01:58:23Z
+  Updated: 2026-07-08T20:54:19Z
   Vendor: Ricky Montgomery
   Product Type: Hoodie
   Availability: Available
@@ -515,7 +515,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Tiny Tour Tee](https://store.rickymontgomery.com/products/tiny-tour-tee): now even tinier 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-14T02:42:53Z
+  Updated: 2026-07-09T02:30:44Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -539,14 +539,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Montgomery Ricky (Plus 3) Vinyl - Mushroom Cream/Picture Disc](https://store.rickymontgomery.com/products/montgomery-ricky-plus-3-vinyl-mushroom-cream-picture-disc): Celebrate a decade of Montgomery Ricky with this limited‑edition anniversary vinyl, Montgomery Ricky (Plus 3). This special pressing honors ten years of Ricky’s iconic debut album with three unreleased demos from the original 2016 writing sessions. The gatefold packaging showcases never‑before‑seen early album artwork sketches, offering a glimpse into the creative process behind the record. Side A is pressed on Mushroom Cream–colored vinyl and features the three newly released tracks. Side B is a collectible picture disc, displaying one of the original hand‑drawn sketches from the album’s early creative design. Limited pressing of 1,000 units Track Listing Side A Oh My My Some Kind of Man Object of Desire Side B Original Album Sketch Artwork Picture Disc Release Date: April 1, 2026
-  Updated: 2026-07-03T19:23:07Z
+  Updated: 2026-07-10T21:41:37Z
   Vendor: Ricky Montgomery
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RM_MR_Plus_3_Vinyl_1.png?v=1772829367
   Price: $25.00 USD
 - [Mr. Loverman Tee](https://store.rickymontgomery.com/products/mr-loverman-tee): call (818) 239-7385 for mr. loverman 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-14T23:19:55Z
+  Updated: 2026-07-08T20:54:20Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -567,7 +567,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Line Without A Hook Tee](https://store.rickymontgomery.com/products/line-without-a-hook-tee): what do u think of my mace? i think it looks pretty cool 100% cotton t-shirt in ivory Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-06-27T04:20:39Z
+  Updated: 2026-07-08T20:54:20Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -588,7 +588,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Ricky Hoodie](https://store.rickymontgomery.com/products/ricky-hoodie): that's my name, do wear it out 80% ring spun US cotton, 20% polyester hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 28 38
-  Updated: 2026-06-13T16:13:32Z
+  Updated: 2026-07-08T20:54:21Z
   Vendor: Ricky Montgomery
   Product Type: Hoodie
   Availability: Available
@@ -609,14 +609,14 @@
     Availability: Available
     Price: $65.00 USD
 - [Montgomery Ricky (Plus 3) Vinyl Bundle](https://store.rickymontgomery.com/products/montgomery-ricky-plus-3-vinyl-bundle): Get the original album plus the 3 new tracks, all in one convenient bundle! Montgomery Ricky (Plus 3) Celebrate a decade of Montgomery Ricky with this limited‑edition anniversary vinyl, Montgomery Ricky (Plus 3). This special pressing honors ten years of Ricky’s iconic debut album with three unreleased demos from the original 2016 writing sessions. Side A is pressed on Mushroom Cream–colored vinyl and features the three newly released tracks. Side B is a collectible picture disc, displaying one of the original hand‑drawn sketches from the album’s early creative design. Limited pressing of 1,000 units Track Listing Side A Oh My My Some Kind of Man Object of Desire Side B Original Album Sketch Artwork Picture Disc Release Date: April 1, 2026 Montgomery Ricky The album that started it all! This vinyl contains the original 1 Montgomery Ricky tracks, pressed on black vinyl. Track Listing This December Line Without a Hook Cabo Don't Know How Last Night California My Heart is Buried in Venice Mr. Loverman Get Used to It Snow
-  Updated: 2026-07-03T19:23:14Z
+  Updated: 2026-07-10T21:41:47Z
   Vendor: Ricky Montgomery
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RM_MR_Plus_3_Bundle.png?v=1772829367
   Price: $40.00 USD
 - [Montgomery, Ricky Tee](https://store.rickymontgomery.com/products/montgomery-ricky-tee): visit montgomery, ricky today 100% ringspun heavyweight cotton, Comfort Colors t-shirt in chili red; garment-dyed and pre-shrunk for a lived-in feel Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 1/4 M 28 20 1/4 L 29 1/2 22 XL 30 3/4 24 2XL 31 1/2 26 3XL 32 1/2 27 3/4
-  Updated: 2026-06-14T01:41:31Z
+  Updated: 2026-07-08T20:54:21Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -637,7 +637,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Roadtrip Tee](https://store.rickymontgomery.com/products/roadtrip-tee): rick across america 100% ringspun heavyweight cotton, Comfort Colors t-shirt in graphite; garment-dyed and pre-shrunk for a lived-in feel Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 1/4 M 28 20 1/4 L 29 1/2 22 XL 30 3/4 24 2XL 31 1/2 26 3XL 32 1/2 27 3/4
-  Updated: 2026-06-12T03:38:33Z
+  Updated: 2026-07-08T20:54:22Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -658,14 +658,14 @@
     Availability: Available
     Price: $40.00 USD
 - [Lover, Man Tote](https://store.rickymontgomery.com/products/lover-man-tote): i miss my lover, man 100% cotton canvas tote in cream with reinforced shoulder straps and a one large compartment
-  Updated: 2026-06-09T17:02:15Z
+  Updated: 2026-07-08T20:54:22Z
   Vendor: Ricky Montgomery
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/Lover_Man_Tote.png?v=1775680866
   Price: $30.00 USD
 - [Mystery Poster](https://store.rickymontgomery.com/products/mystery-poster): which vip poster will you get?? all posters are 18x24" in size
-  Updated: 2026-06-14T22:12:38Z
+  Updated: 2026-07-08T20:54:22Z
   Vendor: Ricky Montgomery
   Product Type: Poster
   Availability: Available
@@ -675,79 +675,79 @@
 ## Collections
 
 - [Home page](https://store.rickymontgomery.com/collections/frontpage)
-  Updated: 2026-07-03T11:08:52Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 86
 - [Apparel](https://store.rickymontgomery.com/collections/apparel)
-  Updated: 2026-06-30T11:11:07Z
+  Updated: 2026-07-08T21:01:46Z
   Total Products: 43
 - [Accessories](https://store.rickymontgomery.com/collections/accessories)
-  Updated: 2026-06-30T11:11:07Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 30
 - [All](https://store.rickymontgomery.com/collections/all)
-  Updated: 2026-07-03T11:08:52Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 89
 - [Tour](https://store.rickymontgomery.com/collections/tour)
-  Updated: 2026-06-30T11:11:07Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 28
 - [OG Collection](https://store.rickymontgomery.com/collections/og-collection)
-  Updated: 2026-06-15T11:08:27Z
+  Updated: 2026-07-08T21:01:42Z
   Total Products: 14
 - [Digital Albums](https://store.rickymontgomery.com/collections/digital-albums)
-  Updated: 2026-04-14T21:02:07Z
+  Updated: 2026-07-08T20:29:09Z
   Total Products: 0
 - [Digital Tracks](https://store.rickymontgomery.com/collections/digital-tracks)
-  Updated: 2026-04-14T21:02:07Z
+  Updated: 2026-07-08T20:29:09Z
   Total Products: 0
 - [Music](https://store.rickymontgomery.com/collections/music)
-  Updated: 2026-07-03T11:08:52Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 16
 - [almost gone](https://store.rickymontgomery.com/collections/almost-gone)
-  Updated: 2026-06-30T11:11:07Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 11
 - [New Arrivals](https://store.rickymontgomery.com/collections/new)
-  Updated: 2026-07-03T11:08:52Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 89
 - [Rick](https://store.rickymontgomery.com/collections/rick)
-  Updated: 2026-06-03T20:30:32Z
+  Updated: 2026-07-08T21:01:43Z
   Total Products: 7
 - [Just In](https://store.rickymontgomery.com/collections/just-in)
-  Updated: 2026-06-30T11:11:07Z
+  Updated: 2026-07-08T21:01:24Z
   Total Products: 12
 - [Montgomery Ricky](https://store.rickymontgomery.com/collections/montgomery-ricky)
-  Updated: 2026-07-03T11:08:52Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 15
 - [Another Rick in the Wall](https://store.rickymontgomery.com/collections/another-rick-in-the-wall)
-  Updated: 2026-06-30T11:11:07Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 11
 - [Rick(y)](https://store.rickymontgomery.com/collections/ricky)
-  Updated: 2026-06-23T11:11:59Z
+  Updated: 2026-07-08T21:01:32Z
   Total Products: 6
 - [One Rick To Rule Them All](https://store.rickymontgomery.com/collections/one-rick-to-rule-them-all)
-  Updated: 2026-06-22T11:07:40Z
+  Updated: 2026-07-08T21:01:41Z
   Total Products: 8
 - [Superfan Collection](https://store.rickymontgomery.com/collections/superfan-collection)
-  Updated: 2026-06-04T06:10:40Z
+  Updated: 2026-07-08T21:01:39Z
   Total Products: 4
 - [$20.25 Tour Tees](https://store.rickymontgomery.com/collections/20-25-tour-tees)
-  Updated: 2026-06-04T06:54:33Z
+  Updated: 2026-07-08T20:29:11Z
   Total Products: 2
 - [](https://store.rickymontgomery.com/collections/)
-  Updated: 2026-06-30T11:11:07Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 21
 - [Old Favorites. New Colors.](https://store.rickymontgomery.com/collections/old-favorites-new-colors)
-  Updated: 2026-06-30T11:11:07Z
+  Updated: 2026-07-08T21:01:20Z
   Total Products: 4
 - [Best Sellers](https://store.rickymontgomery.com/collections/bestsellers)
-  Updated: 2026-07-03T11:08:52Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 89
 - [On Tour Forever](https://store.rickymontgomery.com/collections/on-tour-forever)
-  Updated: 2026-04-14T21:02:08Z
+  Updated: 2026-07-08T20:29:11Z
   Total Products: 1
 - [EasyGift All Products](https://store.rickymontgomery.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-07-03T11:08:52Z
+  Updated: 2026-07-10T11:12:09Z
   Total Products: 89
 - [10 Year Tour Merch](https://store.rickymontgomery.com/collections/10-year-tour-merch)
-  Updated: 2026-06-04T13:21:32Z
+  Updated: 2026-07-08T21:01:26Z
   Total Products: 3
 
 ## Store Pages
