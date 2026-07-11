@@ -99,7 +99,7 @@ Izyclean provides cleaning products for both residential and professional use an
 - Timezone: Europe/Brussels
 - Created At: 2025-07-10T14:04:57Z
 - Contact Email: info@izyclean.eu
-- Updated At: 2026-06-30T00:00:32.601Z
+- Updated At: 2026-07-11T19:51:56.754Z
 
 # Izyclean
 
@@ -114,7 +114,7 @@ Website: https://izyclean.eu
 ## Products
 
 - [NJORD VALHALLA Citrus Pre-Spray for Delicate Carpets and Upholstery](https://izyclean.eu/products/njord-valhalla-woolsafe-citrus-pre-spray-for-delicate-carpets-and-upholstery-fabrics): NJORD VALHALLA is a powerful yet safe WoolSafe Citrus Pre-Spray for superior cleaning of furniture, carpets, and rugs.
-  Updated: 2026-06-29T16:47:31Z
+  Updated: 2026-07-06T07:34:51Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -128,7 +128,7 @@ Website: https://izyclean.eu
     Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/njord-valhalla-woolsafe-citrus-pre-spray-for-delicate-carpets-and-upholstery-fabricsizyclean-8446443.png?v=1776624028
     Price: €109.99 EUR
 - [NJORD KRAKEN MKII Low Moisture Encapsulating Pre-Spray](https://izyclean.eu/products/njord-kraken-mkii-low-moisture-encapsulating-pre-spray): NJORD KRAKEN is an innovative, encapsulating pre-spray that delivers powerful cleaning with minimal moisture.
-  Updated: 2026-06-29T16:47:30Z
+  Updated: 2026-07-11T10:32:57Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -217,7 +217,7 @@ Website: https://izyclean.eu
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/universal-ph-test-strips-on-roll-5-meters-ph-range-1-14izyclean-2241835.jpg?v=1776624011
   Price: €12.99 EUR
 - [Spray Bottle 800ML for Acidic and Alkaline Cleaners](https://izyclean.eu/products/spray-bottle-800-ml-for-acidic-and-alkaline-cleaners): Spray bottle 800ML designed for acidic and alkaline cleaners Durable bottle for safe and even application during professional cleaning
-  Updated: 2026-06-29T16:18:59Z
+  Updated: 2026-07-04T17:32:46Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -238,7 +238,7 @@ Website: https://izyclean.eu
     Availability: Available
     Price: €84.99 EUR
 - [Tamping Brush for Carpet and Upholstery Stain Removal](https://izyclean.eu/products/tamping-brush-for-stain-removal): Tamping brush for carpet and upholstery stain removal Designed to help loosen and remove tough stains during professional cleaning
-  Updated: 2026-06-29T16:18:59Z
+  Updated: 2026-07-04T17:31:07Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -257,7 +257,7 @@ Website: https://izyclean.eu
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/hair-removal-brush-for-pets-car-furniture-carpetizyclean-1225380.jpg?v=1776623953
   Price: €12.99 EUR
 - [Plastic Measuring Cup 500 ML for Cleaning Chemicals](https://izyclean.eu/products/plastic-measuring-cup-500-ml): Plastic measuring cup 500 ML for accurate measuring of cleaning chemicals Ideal for mixing and dosing carpet upholstery and floor cleaning solutions
-  Updated: 2026-06-29T16:18:59Z
+  Updated: 2026-07-04T17:30:39Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -285,14 +285,14 @@ Website: https://izyclean.eu
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/electric-snow-foamer-pressure-sprayer-15l-rechargeableizyclean-5494307.png?v=1776623975
   Price: €48.99 EUR
 - [Large Spot & Stain Removal Spatula](https://izyclean.eu/products/large-putty-knife): This professional stain spatula is an essential item for any professional specializing in spot cleaning and stain removal.
-  Updated: 2026-06-29T16:18:58Z
+  Updated: 2026-07-04T17:29:38Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/large-stain-spatulaizyclean-1216647.jpg?v=1776624075
   Price: €9.99 EUR
 - [Small Stain Spatula For Stain Removal](https://izyclean.eu/products/small-spotty-pate): This professional stain spatula is an absolute must-have for anyone specialized in stain removal and spot cleaning.
-  Updated: 2026-06-29T16:18:58Z
+  Updated: 2026-07-04T17:29:07Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -339,7 +339,7 @@ Website: https://izyclean.eu
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/pressure-sprayer-5l-with-pressure-gaugeizyclean-7858392.png?v=1776624022
   Price: €72.99 EUR
 - [FOAM DESTROYER Industrial Anti-Foam](https://izyclean.eu/products/foam-destroyer-industrial-anti-foam): Foam destroyer industrial anti foam for cleaning machines Prevents foam buildup in recovery tanks during carpet and upholstery cleaning
-  Updated: 2026-06-29T16:18:57Z
+  Updated: 2026-07-04T17:26:51Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -353,7 +353,7 @@ Website: https://izyclean.eu
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/njord-greed-odour-remover-for-carpets-and-upholsteryizyclean-5305366.png?v=1776624019
   Price: €24.99 EUR
 - [NJORD RAGNAR Odour Remover for Carpets and Upholstery](https://izyclean.eu/products/njord-ragnar-odour-remover-for-carpets-and-upholstery): NJORD RAGNAR odour remover for carpets and upholstery Removes strong odors from pets smoke and spills leaving carpets and fabrics fresh and clean
-  Updated: 2026-06-29T15:51:03Z
+  Updated: 2026-07-04T17:26:18Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -381,7 +381,7 @@ Website: https://izyclean.eu
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/stair-carpet-cleaning-wand-30izyclean-8579871.png?v=1776623952
   Price: €545.00 EUR
 - [Internal Spray Upholstery Tool - Izyclean](https://izyclean.eu/products/internal-spray-upholstery-tool): Internal spray upholstery tool for professional upholstery cleaning Designed for deep cleaning sofas chairs and car interiors with precise spray control
-  Updated: 2026-06-28T20:55:18Z
+  Updated: 2026-07-11T10:33:07Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -395,14 +395,14 @@ Website: https://izyclean.eu
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/izytek-17-floor-buffer-machine-1100w-professional-rotary-scrubber-with-18l-tankizyclean-3454773.png?v=1776623965
   Price: €1,399.00 EUR
 - [TM3 CRB Carpet and Hard Floor Cleaning Machine 12 Inch](https://izyclean.eu/products/crb-cleaning-systems-12-low-moisture-carpet-and-hard-floor-cleaning-machine-tm3): TM3 CRB carpet and hard floor cleaning machine 12 inch Professional machine for deep cleaning carpets and hard floors with powerful brush action
-  Updated: 2026-06-28T20:55:19Z
+  Updated: 2026-07-04T17:24:57Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/tm3-crb-agitation-carpet-cleaning-machine-12-low-moisture-carpet-and-hard-floor-cleaning-machineizyclean-1268091.png?v=1776624017
   Price: €2,999.00 EUR
 - [TM4 CRB Carpet Cleaning Machine With Brushes](https://izyclean.eu/products/tm4-crb-agitation-machine-15-low-moisture-carpet-and-hard-floor-cleaning-machine): TM4 CRB Agitation Machine 15 Inch Low Moisture Carpet and Hard Floor Cleaning System
-  Updated: 2026-06-28T20:55:20Z
+  Updated: 2026-07-04T17:24:42Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -430,7 +430,7 @@ Website: https://izyclean.eu
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/tm3-dust-renovator-kitizyclean-7924135.webp?v=1776624017
   Price: €189.00 EUR
 - [TM4 CRB Brushes Set](https://izyclean.eu/products/tm4-brushes): TM4 CRB brushes set for carpet cleaning machine Durable brushes designed for effective agitation and deep cleaning of carpets and hard floors
-  Updated: 2026-06-28T20:55:23Z
+  Updated: 2026-07-04T17:24:01Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
@@ -522,161 +522,154 @@ Website: https://izyclean.eu
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/izytek-upholstery-cleaning-hand-toolizyclean-5804133.png?v=1776623960
   Price: €579.00 EUR
 - [Chemspec Enz-All Enzyme Pre-Spray 10kg](https://izyclean.eu/products/chemspec-enz-all-enzyme-pre-spray-10kg-professional-carpet-cleaning-powder): Chemspec Enz-All Enzyme Pre-Spray 10kg is a professional carpet cleaning pre-spray designed to remove tough organic soils.
-  Updated: 2026-06-29T15:51:02Z
+  Updated: 2026-07-04T17:22:51Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-enz-all-enzyme-pre-spray-10kgizyclean-1726923.webp?v=1776624079
   Price: €193.99 EUR
 - [Chemspec Browning  and Coffee Stain Remover 5L](https://izyclean.eu/products/chemspec-browning--and-coffee-stain-remover): Chemspec Browning  and Coffee Stain Remover 5L is a professional cleaning solution developed to eliminate cellulosic browning and stubborn stain.
-  Updated: 2026-06-29T15:51:01Z
+  Updated: 2026-07-04T17:21:37Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-browning--and-coffee-stain-remover-5lizyclean-8251863.png?v=1776623961
   Price: €54.99 EUR
 - [Chemspec Dye Gone Professional Carpet Stain ](https://izyclean.eu/products/chemspec-dual-diptube-sprayer-for-dye-gone): Chemspec Dye Gone is a professional dye stain remover designed to eliminate stubborn colour and beverage stains from carpets and upholstery.
-  Updated: 2026-06-29T15:51:01Z
+  Updated: 2026-07-07T06:23:25Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-dye-goneizyclean-8987381.png?v=1776624013
   Price: €71.99 EUR
 - [Chemspec EncapBrite II Encapsulation 5L](https://izyclean.eu/products/chemspec-encapbrite-ii-encapsulation): Chemspec EncapBrite II is a professional encapsulation carpet cleaner developed for low moisture carpet maintenance cleaning.
-  Updated: 2026-06-29T15:51:01Z
+  Updated: 2026-07-04T17:20:27Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-encapbrite-ii-encapsulation-carpet-cleaner-low-moisture-maintenance-cleaning-5lizyclean-1123239.png?v=1776624078
   Price: €69.99 EUR
 - [Chemspec Fast Drying Upholstery Shampoo 3.8L](https://izyclean.eu/products/chemspec-fast-drying-upholstery-shampoo-3-8l): Chemspec Fast Drying Upholstery Shampoo 3.78L is a professional upholstery cleaning solution...
-  Updated: 2026-06-29T20:16:16Z
+  Updated: 2026-06-30T08:16:18Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-fast-drying-upholstery-shampoo-38lizyclean-7720167.png?v=1776624011
   Price: €65.99 EUR
 - [Chemspec Formula 90 Liquid 5L](https://izyclean.eu/products/chemspec-formula-90-liquid-5l): Chemspec Formula 90 Liquid 5L is a highly concentrated professional carpet cleaning detergent designed for hot water extraction and truck mount carpet cleaning.
-  Updated: 2026-06-29T15:51:00Z
+  Updated: 2026-07-06T10:36:40Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-formula-90-liquid-5lizyclean-2380070.png?v=1776624080
   Price: €100.99 EUR
 - [Chemspec Heavy Duty Soil Lifter 5L](https://izyclean.eu/products/chemspec-heavy-duty-soil-lifter): Heavy Duty Soil Lifter is a versatile professional pre-spray cleaner designed for effective cleaning of upholstery, drapery, and delicate carpets.
-  Updated: 2026-06-29T15:51:00Z
+  Updated: 2026-07-04T17:18:57Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-heavy-duty-soil-lifter-5lizyclean-8888826.png?v=1776624018
   Price: €88.99 EUR
 - [Chemspec Ink Exit Advanced Ink Stain Remover](https://izyclean.eu/products/chemspec-ink-exit): Chemspec Ink Exit is a professional ink stain remover designed to quickly and safely eliminate ink stains from carpets, upholstery, and other textile surfaces.
-  Updated: 2026-06-29T15:50:59Z
+  Updated: 2026-07-11T10:32:57Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-ink-exitizyclean-2322513.png?v=1776623963
   Price: €29.99 EUR
 - [Chemspec Leather Cleaner and Conditioner](https://izyclean.eu/products/chemspec-leather-cleaner-and-conditioner-0-9l): Chemspec Leather Cleaner and Conditioner 0.9L is a professional leather care product designed to clean, nourish, and protect leather surfaces.
-  Updated: 2026-06-29T15:50:59Z
+  Updated: 2026-07-06T20:46:37Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-leather-cleaner-and-conditionerizyclean-8557378.png?v=1776624078
   Price: €29.99 EUR
 - [Chemspec Liqua-Gel with Biosolv](https://izyclean.eu/products/chemspec-liqua-gel-with-biosolv): Chemspec Liqua-Gel 500ml with Biosolv is a professional spot remover designed to eliminate stubborn solvent-soluble stains from carpets and upholstery.
-  Updated: 2026-06-29T15:50:59Z
+  Updated: 2026-07-06T20:46:18Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-liqua-gel-with-biosolvizyclean-4441647.png?v=1776624017
   Price: €36.99 EUR
 - [Chemspec One Clean Traffic Lane Cleaner 5L](https://izyclean.eu/products/chemspec-one-clean-traffic-lane-cleaner-5l): Chemspec One Clean Traffic Lane Cleaner 5L is a professional carpet pre-spray designed to safely and effectively remove oils, dirt, and soil.
-  Updated: 2026-06-29T15:50:59Z
+  Updated: 2026-07-04T17:17:36Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-one-clean-traffic-lane-cleaner-5lizyclean-9944163.png?v=1776624015
   Price: €71.99 EUR
 - [Chemspec Paint Oil and Grease Remover POG](https://izyclean.eu/products/chemspec-paint-oil-and-grease-remover-pog): Chemspec Paint Oil and Grease Remover (POG) 1L is a powerful professional spot remover designed to eliminate stubborn oil-based stains from carpets, upholstery.
-  Updated: 2026-06-29T15:50:58Z
+  Updated: 2026-07-06T20:45:47Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-paint-oil-and-grease-remover-pogizyclean-3695474.png?v=1776624079
   Price: €29.99 EUR
 - [Chemspec Cotton Upholstery Cleaner 2.7kg](https://izyclean.eu/products/chemspec-cotton-upholstery-cleaner-2-7kg): Chemspec Cotton Upholstery Cleaner 2.7kg is a professional extraction cleaner specially developed for cotton upholstery and other natural fibre fabrics.
-  Updated: 2026-06-29T20:15:04Z
+  Updated: 2026-07-04T17:15:17Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-cotton-upholstery-cleaner-27kgizyclean-1454529.png?v=1776624076
   Price: €66.99 EUR
 - [Chemspec PreKleen Enzyme Soil Lifter with Biosolv 2.7kg](https://izyclean.eu/products/chemspec-prekleen-enzyme-soil-lifter-with-biosolv-2-7kg): Chemspec PreKleen Enzyme Soil Lifter with Biosolv is a professional enzymatic pre-spray designed for deep cleaning of carpets and upholstery.
-  Updated: 2026-06-29T15:50:58Z
+  Updated: 2026-07-04T17:13:08Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-prekleen-enzyme-soil-lifter-with-biosolv-27kgizyclean-6611304.png?v=1776624076
   Price: €66.99 EUR
 - [Chemspec Professional Spot Lifter](https://izyclean.eu/products/chemspec-professional-spot-lifter): Chemspec Professional Spot Lifter 1L is a professional spot cleaning solution designed to remove stains and spots from carpets, upholstery.
-  Updated: 2026-06-29T15:50:58Z
+  Updated: 2026-07-06T20:45:07Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-professional-spot-lifterizyclean-1162355.png?v=1776624080
   Price: €29.99 EUR
 - [Chemspec Red X It Professional Stain Remover](https://izyclean.eu/products/chemspec-red-x-it): Chemspec Red X It 1L is a professional stain remover specifically designed to eliminate stains caused by synthetic dyes on carpets and upholstery.
-  Updated: 2026-06-29T15:50:58Z
+  Updated: 2026-07-06T20:44:56Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-red-x-itizyclean-5746020.png?v=1776624078
   Price: €29.99 EUR
 - [Chemspec Rust Remover - Professional Rust Stain Remover](https://izyclean.eu/products/chemspec-rust-remover): Chemspec Rust Remover 1L is a professional cleaning solution specifically designed to eliminate rust stains from carpets, upholstery, and hard surfaces.
-  Updated: 2026-06-29T15:50:58Z
+  Updated: 2026-07-06T20:44:47Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-rust-removerizyclean-4733732.png?v=1776623953
   Price: €29.99 EUR
-- [Chemspec Stain Exit Professional Oxidising Stain Remover](https://izyclean.eu/products/chemspec-stain-exit): Chemspec Stain Exit is a professional oxidising stain remover designed to eliminate organic stains from carpets and upholstery.
-  Updated: 2026-06-29T15:50:58Z
-  Vendor: Izyclean
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-stain-exitizyclean-6563557.png?v=1776624015
-  Price: €29.99 EUR
 - [Chemspec StainShield Professional 5L](https://izyclean.eu/products/chemspec-stainshield-professional-5l): Chemspec StainShield 5L is a professional water-based carpet and upholstery protector designed to help fabrics stay cleaner for longer and resist stains.
-  Updated: 2026-06-29T15:50:58Z
+  Updated: 2026-07-03T19:05:42Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-stainshield-professional-5lizyclean-4129279.png?v=1776624078
   Price: €121.99 EUR
 - [Chemspec Urine Contamination ](https://izyclean.eu/products/chemspec-urine-contamination-): Chemspec Urine Contamination  1L is a professional solution designed to neutralise urine contamination and eliminate unpleasant odours.
-  Updated: 2026-06-29T15:50:57Z
+  Updated: 2026-07-03T19:04:59Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-urine-contamination-treatmentizyclean-4128474.png?v=1776624011
   Price: €29.99 EUR
 - [Chemspec Formula 90 Powder 10kg](https://izyclean.eu/products/chemspec-formula-90-powder-10kg): Chemspec Formula 90 Powder is a highly concentrated professional carpet cleaning detergent developed for powerful soil removal.
-  Updated: 2026-06-29T15:50:56Z
+  Updated: 2026-07-03T19:04:38Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/chemspec-formula-90-powder-10kgizyclean-8128670.jpg?v=1776624076
   Price: €156.99 EUR
 - [USED 6″ Heavy Duty Stair Tool Twin Jet](https://izyclean.eu/products/used-6-heavy-duty-stair-tool-twin-jet): Professional used 6” Twin Jet Stair Tool with stainless steel body. Ideal for stairs, upholstery and mattress cleaning applications.
-  Updated: 2026-06-29T15:50:56Z
+  Updated: 2026-07-03T19:04:11Z
   Vendor: Izyclean
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/1686/3314/files/used-6-heavy-duty-stair-tool-twin-jetizyclean-3674040.webp?v=1776624075
-  Price: €240.99 EUR
+  Price: €199.00 EUR
 - [Chemspec Stain Remover Kit for Carpet & Upholstery -Izyclean](https://izyclean.eu/products/chemspec-stain-remover-kit-for-carpet-upholstery): Professional Chemspec stain remover kit for carpet and upholstery. Removes ink, grease, coffee and more. Complete 8-product cleaning solution.
-  Updated: 2026-06-29T15:50:56Z
+  Updated: 2026-07-06T19:06:01Z
   Vendor: Izyclean
   Product Type: stain remover kit
   Availability: Available
@@ -685,62 +678,62 @@ Website: https://izyclean.eu
 
 ## Collections
 
-- [Best  Carpet and Upholstery Cleaning Products](https://izyclean.eu/collections/best-sellers): Discover the best  products for carpet and upholstery cleaning Trusted cleaning solutions used by professionals for powerful results
-  Updated: 2026-06-29T16:47:34Z
+- [Top- Picks for You](https://izyclean.eu/collections/best-sellers): Discover the best  products for carpet and upholstery cleaning Trusted cleaning solutions used by professionals for powerful results
+  Updated: 2026-07-11T11:27:55Z
   Total Products: 34
-- [Carpet and Upholstery Cleaners | Presprays - Izyclean](https://izyclean.eu/collections/carpet-and-upholstery-chemicals): Professional presprays for carpet and upholstery cleaning Powerful presprays that break down dirt grease and stains before extraction cleaning
-  Updated: 2026-06-29T16:47:34Z
+- [Carpet and Upholstery](https://izyclean.eu/collections/carpet-and-upholstery-chemicals): Professional presprays for carpet and upholstery cleaning Powerful presprays that break down dirt grease and stains before extraction cleaning
+  Updated: 2026-07-11T11:27:55Z
   Total Products: 26
-- [Stain Removers for Carpet and Upholstery - Izyclean](https://izyclean.eu/collections/stain-removers): Effective stain removers for carpet upholstery and interior cleaning Remove tough stains from food drinks pets and daily use surfaces
-  Updated: 2026-06-29T16:47:34Z
+- [Ultimate Stain Removers](https://izyclean.eu/collections/stain-removers): Effective stain removers for carpet upholstery and interior cleaning Remove tough stains from food drinks pets and daily use surfaces
+  Updated: 2026-07-11T11:27:55Z
   Total Products: 22
-- [Odor Removers for Carpet and Upholstery - Izyclean](https://izyclean.eu/collections/odor-removers): Powerful odor removers for carpet upholstery and interior cleaning Eliminate bad smells from pets smoke and spills for a fresh clean result
+- [Professional Odor Removers](https://izyclean.eu/collections/odor-removers): Powerful odor removers for carpet upholstery and interior cleaning Eliminate bad smells from pets smoke and spills for a fresh clean result
   Updated: 2026-06-29T16:47:34Z
   Total Products: 13
-- [Protection Products for Carpet and Upholstery - Izyclean](https://izyclean.eu/collections/protectors): Protective products for carpet upholstery and interior surfaces Help prevent stains dirt and wear while extending the life of fabrics and materials
+- [Ultimate Fabric & Upholstery Protectors](https://izyclean.eu/collections/protectors): Protective products for carpet upholstery and interior surfaces Help prevent stains dirt and wear while extending the life of fabrics and materials
   Updated: 2026-06-29T16:47:32Z
   Total Products: 5
-- [Sprayers for Carpet and Upholstery Cleaning - Izyclean](https://izyclean.eu/collections/sprayers): Professional sprayers for carpet upholstery and interior cleaning Durable sprayers for even product application and efficient cleaning results
+- [Powerful Sprayers](https://izyclean.eu/collections/sprayers): Professional sprayers for carpet upholstery and interior cleaning Durable sprayers for even product application and efficient cleaning results
   Updated: 2026-06-29T16:19:00Z
   Total Products: 4
-- [Brushes for Carpet and Upholstery Cleaning - Izyclean](https://izyclean.eu/collections/borstels): Professional cleaning brushes for carpet upholstery and interior cleaning Durable brushes for deep cleaning and detailing results
+- [Brushes](https://izyclean.eu/collections/borstels): Professional cleaning brushes for carpet upholstery and interior cleaning Durable brushes for deep cleaning and detailing results
   Updated: 2026-06-29T16:19:00Z
   Total Products: 5
 - [Professional Cleaning Essentials for Carpets & Upholstery](https://izyclean.eu/collections/diverse): Discover cleaning accessories and additional products for carpet upholstery and interior cleaning Quality tools for professionals
   Updated: 2026-06-29T16:19:01Z
   Total Products: 6
-- [All in One Cleaning Products for Carpet and Upholstery](https://izyclean.eu/collections/all-in-one-cleaners): All in one cleaning products for carpet upholstery and interior cleaning Powerful solutions that clean multiple surfaces with one product
+- [All in one Cleaners](https://izyclean.eu/collections/all-in-one-cleaners): All in one cleaning products for carpet upholstery and interior cleaning Powerful solutions that clean multiple surfaces with one product
   Updated: 2026-06-29T16:47:34Z
   Total Products: 4
-- [Combat Clean Products - Izyclean](https://izyclean.eu/collections/combat-clean): Shop Combat Clean products for superior cleaning results. Heavy-duty cleaners that eliminate stubborn stains and restore surfaces to pristine condition.
+- [Combat Clean Products](https://izyclean.eu/collections/combat-clean): Shop Combat Clean products for superior cleaning results. Heavy-duty cleaners that eliminate stubborn stains and restore surfaces to pristine condition.
   Updated: 2026-06-28T20:55:24Z
   Total Products: 5
-- [Dryers for Carpet and Upholstery Cleaning - Izyclean](https://izyclean.eu/collections/dryers): Professional dryers for carpet and upholstery cleaning Fast drying solutions for carpets fabrics and interiors after deep cleaning
+- [Ultimate Dryer Generation Collection](https://izyclean.eu/collections/dryers): Professional dryers for carpet and upholstery cleaning Fast drying solutions for carpets fabrics and interiors after deep cleaning
   Updated: 2026-06-29T16:18:58Z
   Total Products: 2
-- [New Cleaning Products and Tools - Izyclean](https://izyclean.eu/collections/new): Discover the newest cleaning products and tools for carpet upholstery and interior cleaning Professional solutions now available at Izyclean
-  Updated: 2026-06-29T16:18:58Z
+- [NEW](https://izyclean.eu/collections/new): Discover the newest cleaning products and tools for carpet upholstery and interior cleaning Professional solutions now available at Izyclean
+  Updated: 2026-07-11T11:27:55Z
   Total Products: 28
-- [Cleaning Bundles for Carpet and Upholstery - Izyclean](https://izyclean.eu/collections/bundles): Cleaning bundles for carpet and upholstery cleaning Complete product sets that help achieve professional cleaning results efficiently
-  Updated: 2026-06-29T15:51:04Z
+- [Bundles](https://izyclean.eu/collections/bundles): Cleaning bundles for carpet and upholstery cleaning Complete product sets that help achieve professional cleaning results efficiently
+  Updated: 2026-07-07T11:27:09Z
   Total Products: 4
-- [Carpet Cleaning Machines - Izyclean](https://izyclean.eu/collections/carpet-cleaning-machines): Professional cleaning machines for carpet and upholstery cleaning Powerful machines for deep cleaning carpets fabrics and interior surfaces
+- [Carpet Cleaning Machines](https://izyclean.eu/collections/carpet-cleaning-machines): Professional cleaning machines for carpet and upholstery cleaning Powerful machines for deep cleaning carpets fabrics and interior surfaces
   Updated: 2026-06-28T20:55:21Z
   Total Products: 4
-- [Cleaning Equipment for Carpet and Upholstery - Izyclean](https://izyclean.eu/collections/equipment): Professional cleaning equipment for carpet and upholstery cleaning Reliable tools and machines for efficient deep cleaning results
-  Updated: 2026-06-28T20:55:25Z
+- [Equipment](https://izyclean.eu/collections/equipment): Professional cleaning equipment for carpet and upholstery cleaning Reliable tools and machines for efficient deep cleaning results
+  Updated: 2026-07-11T11:27:55Z
   Total Products: 10
-- [Hand Tools for Carpet and Upholstery Cleaning - Izyclean](https://izyclean.eu/collections/hand-tools-upholstery-cleaning-tools): Professional hand tools for carpet and upholstery cleaning Ideal for sofas car interiors and detailed extraction cleaning
-  Updated: 2026-06-29T15:50:57Z
+- [Hand Tools & Upholstery Cleaning Tools](https://izyclean.eu/collections/hand-tools-upholstery-cleaning-tools): Professional hand tools for carpet and upholstery cleaning Ideal for sofas car interiors and detailed extraction cleaning
+  Updated: 2026-07-11T11:27:55Z
   Total Products: 9
-- [Bonnet Pads for Carpet Cleaning - Izyclean](https://izyclean.eu/collections/bonnet-pads): Professional bonnet pads for carpet cleaning machines High quality pads for effective dirt removal and low moisture carpet cleaning results
+- [Bonnet Pads](https://izyclean.eu/collections/bonnet-pads): Professional bonnet pads for carpet cleaning machines High quality pads for effective dirt removal and low moisture carpet cleaning results
   Updated: 2026-06-28T20:55:15Z
   Total Products: 2
-- [Machine Spares for Carpet Cleaning Equipment  - Izyclean](https://izyclean.eu/collections/machine-spares): Machine spares for carpet and upholstery cleaning equipment Replacement parts to keep your cleaning machines running smoothly and efficiently
+- [Machine Spares](https://izyclean.eu/collections/machine-spares): Machine spares for carpet and upholstery cleaning equipment Replacement parts to keep your cleaning machines running smoothly and efficiently
   Updated: 2026-06-28T20:55:25Z
   Total Products: 5
-- [Chemspec Carpet, Upholstery and Floor Cleaning Chemicals](https://izyclean.eu/collections/chemspec): Discover the professional power of Chemspec cleaning products, designed for deep carpet cleaning, upholstery care and floor maintenance.
-  Updated: 2026-06-29T16:18:58Z
+- [Chemspec Carpet Cleaning Products](https://izyclean.eu/collections/chemspec): Discover the professional power of Chemspec cleaning products, designed for deep carpet cleaning, upholstery care and floor maintenance.
+  Updated: 2026-07-11T11:27:55Z
   Total Products: 25
 
 ## Blogs
