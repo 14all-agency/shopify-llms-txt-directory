@@ -1,4 +1,4 @@
-# Jones JM (https://jones-jm.myshopify.com)
+# Jones JM Store (https://jones-jm.myshopify.com)
 
 - Domain: https://jones-jm.myshopify.com
 - Locale: en
@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-07-03T00:00:43.562Z
+- Updated At: 2026-07-11T00:00:23.207Z
 
 ## Products
 
@@ -148,7 +148,7 @@
 - [Home page](https://jones-jm.myshopify.com/collections/frontpage)
   Updated: 2025-06-17T21:09:28Z
   Total Products: 1
-- [Premium Snowboards](https://jones-jm.myshopify.com/collections/snowboards): Purchase snowboards designed for performance
+- [Snowboards](https://jones-jm.myshopify.com/collections/snowboards): Purchase snowboards designed for performance
   Updated: 2026-06-02T03:06:42Z
   Total Products: 8
 - [Hydrogen](https://jones-jm.myshopify.com/collections/hydrogen)
@@ -825,156 +825,6 @@
   - [7 Simple Steps to a Sustainable Lifestyle](https://jones-jm.myshopify.com/blogs/news/7-simple-steps-to-a-sustainable-lifestyle): 7 Simple Steps to a Sustainable Lifestyle
     Updated: 2026-01-18T03:44:04Z
     Author: User
-  - [Top 10 Tips for Reducing Your Carbon Footprint Right Now](https://jones-jm.myshopify.com/blogs/news/top-10-tips-for-reducing-your-carbon-footprint-right-now): Top 10 Tips for Reducing Your Carbon Footprint Right Now
-    Updated: 2026-01-18T03:51:42Z
-    Author: User
-  - [Top 10 Ways to Incorporate Sustainability Into Your Daily Routine](https://jones-jm.myshopify.com/blogs/news/top-10-ways-to-incorporate-sustainability-into-your-daily-routine): Top 10 Ways to Incorporate Sustainability Into Your Daily Routine
-    Updated: 2026-01-18T21:39:20Z
-    Author: User
-  - [The Ultimate Guide to Embracing Minimalism in Everyday Life](https://jones-jm.myshopify.com/blogs/news/the-ultimate-guide-to-embracing-minimalism-in-everyday-life): The Ultimate Guide to Embracing Minimalism in Everyday Life
-    Updated: 2026-01-18T22:46:07Z
-    Author: User
-  - [Top 10 Timeless Fashion Pieces You Need in Your Wardrobe](https://jones-jm.myshopify.com/blogs/news/top-10-timeless-fashion-pieces-you-need-in-your-wardrobe): Top 10 Timeless Fashion Pieces You Need in Your Wardrobe
-    Updated: 2026-01-18T22:51:07Z
-    Author: User
-  - [The Biggest Challenges in Achieving Global Sustainability and How We Can Solve Them](https://jones-jm.myshopify.com/blogs/news/the-biggest-challenges-in-achieving-global-sustainability-and-how-we-can-solve-them): The Biggest Challenges in Achieving Global Sustainability and How We Can Solve Them
-    Updated: 2026-01-19T00:00:58Z
-    Author: User
-  - [Understanding the Basics of Renewable Energy for a Greener World](https://jones-jm.myshopify.com/blogs/news/understanding-the-basics-of-renewable-energy-for-a-greener-world): Understanding the Basics of Renewable Energy for a Greener World
-    Updated: 2026-01-26T00:01:00Z
-    Author: User
-  - [How to Start an Eco-Friendly Garden in Your Backyard](https://jones-jm.myshopify.com/blogs/news/how-to-start-an-eco-friendly-garden-in-your-backyard): How to Start an Eco-Friendly Garden in Your Backyard
-    Updated: 2026-02-02T00:00:59Z
-    Author: User
-  - [Common Questions About Sustainable Living Answered](https://jones-jm.myshopify.com/blogs/news/common-questions-about-sustainable-living-answered): Common Questions About Sustainable Living Answered
-    Updated: 2026-02-09T00:01:00Z
-    Author: User
-  - [A Checklist for Building an Environmentally Friendly Home](https://jones-jm.myshopify.com/blogs/news/a-checklist-for-building-an-environmentally-friendly-home): A Checklist for Building an Environmentally Friendly Home
-    Updated: 2026-02-16T00:00:59Z
-    Author: User
-  - [Why Sustainable Fashion Needs to Be More Than a Trend](https://jones-jm.myshopify.com/blogs/news/why-sustainable-fashion-needs-to-be-more-than-a-trend): Why Sustainable Fashion Needs to Be More Than a Trend
-    Updated: 2026-02-23T00:01:01Z
-    Author: User
-  - [The History of Sustainability Movements and Their Impact Today](https://jones-jm.myshopify.com/blogs/news/the-history-of-sustainability-movements-and-their-impact-today): The History of Sustainability Movements and Their Impact Today
-    Updated: 2026-03-02T00:01:00Z
-    Author: User
-  - [Uncovering the Truth About Biodegradable vs. Compostable Products](https://jones-jm.myshopify.com/blogs/news/uncovering-the-truth-about-biodegradable-vs-compostable-products): Uncovering the Truth About Biodegradable vs. Compostable Products
-    Updated: 2026-03-09T00:01:00Z
-    Author: User
-  - [A Beginner's Guide to Cooking with Seasonal and Local Ingredients](https://jones-jm.myshopify.com/blogs/news/a-beginners-guide-to-cooking-with-seasonal-and-local-ingredients): A Beginner's Guide to Cooking with Seasonal and Local Ingredients
-    Updated: 2026-03-16T00:00:58Z
-    Author: User
-  - [Innovative Ways to Integrate Sustainability into Your Daily Routine](https://jones-jm.myshopify.com/blogs/news/innovative-ways-to-integrate-sustainability-into-your-daily-routine): Innovative Ways to Integrate Sustainability into Your Daily Routine
-    Updated: 2026-03-23T00:00:54Z
-    Author: User
-  - [Tackling Food Waste: Simple Changes with Big Impact](https://jones-jm.myshopify.com/blogs/news/tackling-food-waste-simple-changes-with-big-impact): Tackling Food Waste: Simple Changes with Big Impact
-    Updated: 2026-03-30T00:00:52Z
-    Author: User
-  - [The Science Behind Snowfall Explained](https://jones-jm.myshopify.com/blogs/news/the-science-behind-snowfall-explained): The Science Behind Snowfall Explained
-    Updated: 2026-04-04T01:21:46Z
-    Author: User
-  - [An Explainer on the Impact of Fast Fashion on the Environment](https://jones-jm.myshopify.com/blogs/news/an-explainer-on-the-impact-of-fast-fashion-on-the-environment): An Explainer on the Impact of Fast Fashion on the Environment
-    Updated: 2026-04-06T00:01:03Z
-    Author: User
-  - [The Ultimate Guide to Snowboarding for Beginners](https://jones-jm.myshopify.com/blogs/news/the-ultimate-guide-to-snowboarding-for-beginners): The Ultimate Guide to Snowboarding for Beginners
-    Updated: 2026-04-06T02:05:45Z
-    Author: User
-  - [10 Reasons The Complete Snowboard is Perfect for Every Rider](https://jones-jm.myshopify.com/blogs/news/10-reasons-the-complete-snowboard-is-perfect-for-every-rider): 10 Reasons The Complete Snowboard is Perfect for Every Rider
-    Updated: 2026-04-11T19:59:31Z
-    Author: User
-  - [The Ultimate Explainer Guide to The Complete Snowboard Experience](https://jones-jm.myshopify.com/blogs/news/the-ultimate-explainer-guide-to-the-complete-snowboard-experience): The Ultimate Explainer Guide to The Complete Snowboard Experience
-    Updated: 2026-04-11T20:02:33Z
-    Author: User
-  - [Why The Complete Snowboard is the Perfect Choice for Every Snow Enthusiast](https://jones-jm.myshopify.com/blogs/news/why-the-complete-snowboard-is-the-perfect-choice-for-every-snow-enthusiast): Why The Complete Snowboard is the Perfect Choice for Every Snow Enthusiast
-    Updated: 2026-04-11T20:08:06Z
-    Author: User
-  - [The Complete Snowboard: Exploring Its Impact on Modern Snowboarding](https://jones-jm.myshopify.com/blogs/news/the-complete-snowboard-exploring-its-impact-on-modern-snowboarding): The Complete Snowboard: Exploring Its Impact on Modern Snowboarding
-    Updated: 2026-04-11T20:12:00Z
-    Author: User
-  - [How to Stay Safe During a Snowstorm](https://jones-jm.myshopify.com/blogs/news/how-to-stay-safe-during-a-snowstorm): How to Stay Safe During a Snowstorm
-    Updated: 2026-04-11T20:14:14Z
-    Author: User
-  - [The Ultimate Snowboarding Gear Checklist for Beginners](https://jones-jm.myshopify.com/blogs/news/the-ultimate-snowboarding-gear-checklist-for-beginners): The Ultimate Snowboarding Gear Checklist for Beginners
-    Updated: 2026-04-11T23:31:19Z
-    Author: User
-  - [Essential Maintenance Tips for a Happy Snowboard](https://jones-jm.myshopify.com/blogs/news/essential-maintenance-tips-for-a-happy-snowboard): Essential Maintenance Tips for a Happy Snowboard
-    Updated: 2026-04-28T08:37:22Z
-    Author: User
-  - [A Deep Dive into Snowboard Design Innovations](https://jones-jm.myshopify.com/blogs/news/a-deep-dive-into-snowboard-design-innovations): A Deep Dive into Snowboard Design Innovations
-    Updated: 2026-04-28T20:12:39Z
-    Author: User
-  - [10 Must-Know Facts About Snow for Beginners](https://jones-jm.myshopify.com/blogs/news/10-must-know-facts-about-snow-for-beginners): 10 Must-Know Facts About Snow for Beginners
-    Updated: 2026-04-28T22:11:50Z
-    Author: User
-  - [How Snow is Formed: A Detailed Explanation](https://jones-jm.myshopify.com/blogs/news/how-snow-is-formed-a-detailed-explanation): How Snow is Formed: A Detailed Explanation
-    Updated: 2026-04-28T22:28:46Z
-    Author: User
-  - [10 Must-Have Fashion Items for Every Wardrobe](https://jones-jm.myshopify.com/blogs/news/10-must-have-fashion-items-for-every-wardrobe): 10 Must-Have Fashion Items for Every Wardrobe
-    Updated: 2026-05-10T23:01:09Z
-    Author: User
-  - [The Ultimate Guide to Creating a Sustainable Wardrobe](https://jones-jm.myshopify.com/blogs/news/the-ultimate-guide-to-creating-a-sustainable-wardrobe): The Ultimate Guide to Creating a Sustainable Wardrobe
-    Updated: 2026-05-11T02:32:21Z
-    Author: User
-  - [How to Choose the Right Colors for Your Skin Tone](https://jones-jm.myshopify.com/blogs/news/how-to-choose-the-right-colors-for-your-skin-tone): How to Choose the Right Colors for Your Skin Tone
-    Updated: 2026-05-18T00:25:18Z
-    Author: User
-  - [10 Essential Gear Items for Every Snowboarder](https://jones-jm.myshopify.com/blogs/news/10-essential-gear-items-for-every-snowboarder): 10 Essential Gear Items for Every Snowboarder
-    Updated: 2026-05-19T19:31:49Z
-    Author: User
-  - [How to Enhance Your Snowboarding Skills This Season](https://jones-jm.myshopify.com/blogs/news/how-to-enhance-your-snowboarding-skills-this-season): How to Enhance Your Snowboarding Skills This Season
-    Updated: 2026-05-21T20:48:33Z
-    Author: User
-  - [Ultimate Guide to Choosing the Right Snowboard for Beginners](https://jones-jm.myshopify.com/blogs/news/ultimate-guide-to-choosing-the-right-snowboard-for-beginners): Ultimate Guide to Choosing the Right Snowboard for Beginners
-    Updated: 2026-05-25T00:23:44Z
-    Author: User
-  - [Beginner Snowboarding Tips for a Great First Ride](https://jones-jm.myshopify.com/blogs/news/beginner-snowboarding-tips-for-a-great-first-ride): Beginner Snowboarding Tips for a Great First Ride
-    Updated: 2026-05-27T01:16:25Z
-    Author: User
-  - [Best Snowboarding Destinations Worldwide for Every Season](https://jones-jm.myshopify.com/blogs/news/best-snowboarding-destinations-worldwide-for-every-season): Best Snowboarding Destinations Worldwide for Every Season
-    Updated: 2026-05-27T01:33:05Z
-    Author: User
-  - [Overcoming Common Snowboarding Injuries and How to Prevent Them](https://jones-jm.myshopify.com/blogs/news/overcoming-common-snowboarding-injuries-and-how-to-prevent-them): Overcoming Common Snowboarding Injuries and How to Prevent Them
-    Updated: 2026-05-27T01:36:55Z
-    Author: User
-  - [A Complete Guide to Snowboarding Techniques for Beginners](https://jones-jm.myshopify.com/blogs/news/a-complete-guide-to-snowboarding-techniques-for-beginners): A Complete Guide to Snowboarding Techniques for Beginners
-    Updated: 2026-06-01T00:26:15Z
-    Author: User
-  - [Top 10 Snow Gear Essentials to Prevent Hypothermia](https://jones-jm.myshopify.com/blogs/news/top-10-snow-gear-essentials-to-prevent-hypothermia): Top 10 Snow Gear Essentials to Prevent Hypothermia
-    Updated: 2026-06-05T22:48:52Z
-    Author: User
-  - [How to Master Snowboarding Tricks Quickly and Safely](https://jones-jm.myshopify.com/blogs/news/how-to-master-snowboarding-tricks-quickly-and-safely): How to Master Snowboarding Tricks Quickly and Safely
-    Updated: 2026-06-08T00:23:11Z
-    Author: User
-  - [Top 10 Snowboarding Destinations You Need to Visit This Winter](https://jones-jm.myshopify.com/blogs/news/top-10-snowboarding-destinations-you-need-to-visit-this-winter): Top 10 Snowboarding Destinations You Need to Visit This Winter
-    Updated: 2026-06-08T21:40:34Z
-    Author: User
-  - [Frequently Asked Questions About Learning Snowboarding](https://jones-jm.myshopify.com/blogs/news/frequently-asked-questions-about-learning-snowboarding): Frequently Asked Questions About Learning Snowboarding
-    Updated: 2026-06-15T00:23:47Z
-    Author: User
-  - [The Evolution of Snowboarding From Past to Present](https://jones-jm.myshopify.com/blogs/news/the-evolution-of-snowboarding-from-past-to-present): The Evolution of Snowboarding From Past to Present
-    Updated: 2026-06-22T00:21:54Z
-    Author: User
-  - [Tips for Maintaining Your Snowboard and Keeping It in Top Condition](https://jones-jm.myshopify.com/blogs/news/tips-for-maintaining-your-snowboard-and-keeping-it-in-top-condition): Tips for Maintaining Your Snowboard and Keeping It in Top Condition
-    Updated: 2026-06-29T00:22:25Z
-    Author: User
-  - [A Comparative Guide to Snowboarding vs Skiing Which Is Right for You](https://jones-jm.myshopify.com/blogs/news/a-comparative-guide-to-snowboarding-vs-skiing-which-is-right-for-you): A Comparative Guide to Snowboarding vs Skiing Which Is Right for You
-    Updated: 2026-07-01T20:18:49Z
-    Author: User
-  - [Everything You Need to Know About Snowboarding for Families](https://jones-jm.myshopify.com/blogs/news/everything-you-need-to-know-about-snowboarding-for-families): Everything You Need to Know About Snowboarding for Families
-    Updated: 2026-07-01T20:31:43Z
-    Author: User
-  - [The Ultimate Checklist for Choosing the Best Snow Gear for Beginners](https://jones-jm.myshopify.com/blogs/news/the-ultimate-checklist-for-choosing-the-best-snow-gear-for-beginners): The Ultimate Checklist for Choosing the Best Snow Gear for Beginners
-    Updated: 2026-07-02T06:11:25Z
-    Author: User
-  - [The Ultimate Checklist for Choosing the Right Snow Gear](https://jones-jm.myshopify.com/blogs/news/the-ultimate-checklist-for-choosing-the-right-snow-gear): The Ultimate Checklist for Choosing the Right Snow Gear
-    Updated: 2026-07-02T07:07:05Z
-    Author: User
-  - [10 Eco-Friendly Fashion Brands to Watch This Year](https://jones-jm.myshopify.com/blogs/news/10-eco-friendly-fashion-brands-to-watch-this-year): 10 Eco-Friendly Fashion Brands to Watch This Year
-    Updated: 2026-07-02T22:06:58Z
-    Author: User
-  - [The Top 10 Fashion Trends for This Season](https://jones-jm.myshopify.com/blogs/news/the-top-10-fashion-trends-for-this-season): The Top 10 Fashion Trends for This Season
-    Updated: 2026-07-02T22:08:21Z
-    Author: User
 
 ## Store Pages
 
@@ -1011,12 +861,6 @@
   Updated: 2025-07-26T21:32:51-04:00
 - [Contact Information](https://jones-jm.myshopify.com/policies/contact-information)
   Updated: 2025-07-26T21:32:43-04:00
-
-## Alternate Currencies & Languages
-
-- [International (en / NZD)](https://jones-jm.myshopify.com/a/llms-agent/llms.txt?shop=jones-jm.myshopify.com&market=international)
-- [Mexico (es / MXN)](https://jones-jm.myshopify.com/es-mx/a/llms-agent/llms.txt?shop=jones-jm.myshopify.com&market=mexico)
-- [New Zealand (en / NZD)](https://jones-jm.myshopify.com/a/llms-agent/llms.txt?shop=jones-jm.myshopify.com&market=nz)
 
 ## Optional
 
