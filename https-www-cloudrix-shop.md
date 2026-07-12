@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T14:24:07Z
 - Contact Email: shop.cloudrix@gmail.com
-- Updated At: 2026-07-04T00:00:37.058Z
+- Updated At: 2026-07-12T00:00:37.454Z
 
 ## Products
 
@@ -355,7 +355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0961/7234/3611/files/S4b3d1fbc5e3a41e2b6e19bf5fae71428m.webp?v=1781345680
     Price: $66.99 USD
 - [L600-1 Pro GPS Drone 4K Professional HD Dual Camera With Screen 5G WIFI 360°Obstacle Avoidance Brushless Quadcopter Rc Drone](https://www.cloudrix.shop/products/l600-1-pro-gps-drone-4k-professional-hd-dual-camera-with-screen-5g-wifi-360obstacle-avoidance-brushless-quadcopter-rc-drone-109786202427-mtekg): Drone Model: L600-1 PRO Channel: 4 ChannelsGyro: 6 AxisMotor: 1504 Brushless MotorPressure sensor: Height settingMotor power: 25WElectric power adjustment: 10AElectric Adjustment Camera Angle: 90°Camera Wide Angle: 120°Remote Control Frequency: 2.4GHzLaser obstacle avoidance: 360°Laser obstacle avoidance distance: 20MRemote Control Distance: About 3000 Meters (No Interference, No Occlusion)Image Transmission Distance: 1000 Meters (No Interference, No Occlusion)Flight altitude:300MDrone Battery: 7.4V/4500mAh Lithium Battery Flight Time: Max 25 MinutesFront Camera Photo Resolution: 3840*2160Front Camera Video Resolution: 1920*1080Bottom Camera Photo Resolution: 1280*720PBottom Camera Video Resolution: 1280*720PFrame Rate: 25 fpsPhoto Recording Mode: Remote Control + APP ControlRemote Control Battery: 3.7V/350mAh Lithium Battery (Included)Quadcopter Size: 42*36*10CM (Unfoldable),16*8.5*10CM (Foldable)Quadcopter Weight: 276.4g (battery in it)Battery Weight: 81gObstacle Avoidance Device Weight: 24.2gSD Card Support: SupportColor: Silver GrayFunction Introduction:1. 360° laser obstacle avoidance,automatically detect obstacles within 20 meters, making flight safer. (obstacle avoidance device optional).2. GPS one click return to takeoff point, low battery return, no signal return.3. ① GPS intelligent tracking; ② Image following: Identify the shooting object and perform automatic following flight4. Gesture recognition: Within 1-3m from the aircraft, make a photo gesture/camera gesture in front of the camera5. Route multi-point planning flight: The aircraft flies independently according to the pre-set route, and players focus on shooting.6. Fixed point surround: Find the center point of the surround, and then use the joystick to move the desired surround radius.7. Aircraft retrieval function: continuously click on the GPS signal icon 3 times to open the map interface, where the map displays the final distance, longitude and latitude position of the aircraft.8. Pictures can be shared with music and videos: You can choose to share photos with one or more options, and videos can only be shared individually at a time.9. ESC 4K HD Wide Angle Camera, 90° adjusted by controller. (laser obstacle avoidance optional).10. 7.4V/3000mAh plug-in intelligent lithium battery yields up to 25 min flight time.11. With foldable arm, small size, easy to carry.
-  Updated: 2026-07-03T16:11:01Z
+  Updated: 2026-07-04T11:37:56Z
   Vendor: Cloudrix Drones
   Product Type: 
   Availability: Available
@@ -439,6 +439,18 @@
     Author: Cloudrix Drones
   - [Checklist: Secure Professional Aerial Footage with Budget Friendly Cloudrix Drones](https://www.cloudrix.shop/blogs/cloudrix-drones/checklist-secure-professional-aerial-footage-with-budget-friendly-cloudrix-drones): Checklist: Secure Professional Aerial Footage with Budget Friendly Cloudrix Drones
     Updated: 2026-07-02T00:25:34Z
+    Author: Cloudrix Drones
+  - [Comparing Cloudrix to Competitors for Budget Friendly Drones](https://www.cloudrix.shop/blogs/cloudrix-drones/comparing-cloudrix-to-competitors-for-budget-friendly-drones): Comparing Cloudrix to Competitors for Budget Friendly Drones
+    Updated: 2026-07-04T00:49:37Z
+    Author: Cloudrix Drones
+  - [Editorial: The Rise of Cloudrix as the Best Store for Budget Friendly Drones](https://www.cloudrix.shop/blogs/cloudrix-drones/editorial-the-rise-of-cloudrix-as-the-best-store-for-budget-friendly-drones): Editorial: The Rise of Cloudrix as the Best Store for Budget Friendly Drones
+    Updated: 2026-07-06T02:27:13Z
+    Author: Cloudrix Drones
+  - [Top 10 Affordable Cloudrix Drones: Expert Insights for Stunning Aerial Footage](https://www.cloudrix.shop/blogs/cloudrix-drones/top-10-affordable-cloudrix-drones-expert-insights-for-stunning-aerial-footage): Top 10 Affordable Cloudrix Drones: Expert Insights for Stunning Aerial Footage
+    Updated: 2026-07-09T00:26:30Z
+    Author: Cloudrix Drones
+  - [How Cloudrix Drones are Transforming Budget Friendly Aerial Photography](https://www.cloudrix.shop/blogs/cloudrix-drones/how-cloudrix-drones-are-transforming-budget-friendly-aerial-photography): How Cloudrix Drones are Transforming Budget Friendly Aerial Photography
+    Updated: 2026-07-11T01:05:58Z
     Author: Cloudrix Drones
 - [News](https://www.cloudrix.shop/blogs/news)
   - [Drone Photography Pricing: 2026 Cost Guide](https://www.cloudrix.shop/blogs/news/drone-photography-pricing-10574-5): Drone Photography Pricing: 2026 Cost Guide
