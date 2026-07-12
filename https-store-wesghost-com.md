@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2023-09-19T18:40:40Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-01T00:00:33.187Z
+- Updated At: 2026-07-12T00:00:35.164Z
 
 ## Products
 
 - [ROT HOODIE](https://store.wesghost.com/products/rot-hoodie): you'd rather watch me rot 80% cotton / 20% polyester hoodie, available in black and purple Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2 3XL 32 30 38 1/2
-  Updated: 2026-06-29T21:22:33Z
+  Updated: 2026-07-09T19:57:51Z
   Vendor: WesGhost
   Product Type: Hoodie
   Availability: Available
@@ -88,15 +88,8 @@
   - [3XL](https://store.wesghost.com/products/rot-tee?variant=49694194860328)
     Availability: Not Available
     Price: $30.00 USD
-- [BALACLAVA KEYCHAIN](https://store.wesghost.com/products/balaclava-keychain): it kills me slowly Acrylic keychain
-  Updated: 2026-06-20T05:54:06Z
-  Vendor: WesGhost
-  Product Type: Keychain
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_Balaclava_Keychain.png?v=1736179933
-  Price: $10.00 USD
 - [AM I DREAMING? TEE](https://store.wesghost.com/products/am-i-dreaming-tee): do I want her? or do I just want love instead? 100% heavyweight cotton t-shirt in crystal black Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 17 1/2 M 27 19 L 27 20 XL 29 1/2 23 2XL 29 1/2 25
-  Updated: 2026-06-26T01:17:58Z
+  Updated: 2026-07-09T17:07:36Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -138,28 +131,21 @@
     Availability: Not Available
     Price: $40.00 USD
 - [WESGHOST COLLECTIVE PATCH](https://store.wesghost.com/products/wesghost-collective-patch): Woven patch
-  Updated: 2026-06-21T20:54:38Z
+  Updated: 2026-07-05T01:45:55Z
   Vendor: WesGhost
   Product Type: Patch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_Collective_Patch.png?v=1764020764
   Price: $10.00 USD
 - [GHOST EMBROIDERED BEANIE](https://store.wesghost.com/products/ghost-embroidered-beanie): 100% acrylic beanie with embroidered design
-  Updated: 2026-06-21T18:08:43Z
+  Updated: 2026-07-09T23:06:39Z
   Vendor: WesGhost
   Product Type: Beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_0000_166774_1_306753_blog_783967_1.png?v=1770750786
   Price: $25.00 USD
-- [GHOST ACRYLIC KEYCHAIN](https://store.wesghost.com/products/ghost-acrylic-keychain): Acrylic keychain, available in white
-  Updated: 2026-06-21T20:54:28Z
-  Vendor: WesGhost
-  Product Type: Keychain
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_0004_166773_1_306751_blog_782372_4.png?v=1770750782
-  Price: $15.00 USD
 - [WESGHOST COLLECTIVE TEE](https://store.wesghost.com/products/wesghost-collective-tee): 100% heavyweight US cotton t-shirt in charcoal grey Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26
-  Updated: 2026-06-28T12:58:07Z
+  Updated: 2026-07-10T21:53:48Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -168,7 +154,7 @@
     Availability: Available
     Price: $30.00 USD
   - [M](https://store.wesghost.com/products/wesghost-collective-tee?variant=51740866674984)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
   - [L](https://store.wesghost.com/products/wesghost-collective-tee?variant=51740866707752)
     Availability: Available
@@ -180,16 +166,16 @@
     Availability: Available
     Price: $30.00 USD
 - [NAILS TEE](https://store.wesghost.com/products/nails-tee): 100% heavyweight US cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26
-  Updated: 2026-06-22T19:29:59Z
+  Updated: 2026-07-10T21:53:43Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_Nails_Tee.png?v=1776892949
   - [S](https://store.wesghost.com/products/nails-tee?variant=51740873654568)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [M](https://store.wesghost.com/products/nails-tee?variant=51740873687336)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [L](https://store.wesghost.com/products/nails-tee?variant=51740873720104)
     Availability: Available
@@ -201,33 +187,19 @@
     Availability: Available
     Price: $40.00 USD
 - [BULLET HAT](https://store.wesghost.com/products/bullet-hat): 100% polyester, foam-front/mesh-back 5-panel hat in charcoal grey
-  Updated: 2026-06-18T19:34:56Z
+  Updated: 2026-07-09T23:01:22Z
   Vendor: WesGhost
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESGBulletHat.png?v=1776892934
   Price: $35.00 USD
 - [BULLET BALACLAVA](https://store.wesghost.com/products/bullet-balaclava): 100% acrylic braided knit balaclava in red
-  Updated: 2026-06-29T17:49:48Z
+  Updated: 2026-07-11T15:10:42Z
   Vendor: WesGhost
   Product Type: Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESGRedMask.png?v=1776892934
   Price: $45.00 USD
-- [GHOST STICKER - RED](https://store.wesghost.com/products/ghost-sticker-red): 3" tall die-cut sticker
-  Updated: 2026-06-26T21:35:37Z
-  Vendor: WesGhost
-  Product Type: Sticker
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESGRedLogoSticker.png?v=1776892934
-  Price: $5.00 USD
-- [LOGO STICKER - BLACK](https://store.wesghost.com/products/logo-sticker-black): 3" tall die-cut sticker
-  Updated: 2026-06-21T07:27:37Z
-  Vendor: WesGhost
-  Product Type: Sticker
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_Black_Logo_Sticker.png?v=1776893430
-  Price: $5.00 USD
 
 ## Collections
 
@@ -235,40 +207,40 @@
   Updated: 2026-04-14T21:03:14Z
   Total Products: 4
 - [Apparel](https://store.wesghost.com/collections/apparel)
-  Updated: 2026-06-29T11:16:21Z
+  Updated: 2026-07-11T11:17:01Z
   Total Products: 16
 - [Accessories](https://store.wesghost.com/collections/accessories)
-  Updated: 2026-06-30T11:18:43Z
+  Updated: 2026-07-10T11:24:11Z
   Total Products: 18
 - [All](https://store.wesghost.com/collections/all)
-  Updated: 2026-06-30T11:18:43Z
+  Updated: 2026-07-11T11:17:01Z
   Total Products: 39
 - [Don't Worry, I'll Be Fine Tour Merch](https://store.wesghost.com/collections/dont-worry-ill-be-fine-tour-merch)
   Updated: 2026-06-06T15:51:41Z
   Total Products: 6
 - [Hats](https://store.wesghost.com/collections/hats)
-  Updated: 2026-06-22T11:16:36Z
+  Updated: 2026-07-10T11:24:11Z
   Total Products: 4
 - [Music](https://store.wesghost.com/collections/music)
   Updated: 2024-09-30T15:06:24Z
   Total Products: 0
 - [ROT](https://store.wesghost.com/collections/rot)
-  Updated: 2026-06-22T11:16:36Z
+  Updated: 2026-07-10T11:24:11Z
   Total Products: 4
 - [Am I Dreaming? Collection](https://store.wesghost.com/collections/am-i-dreaming-collection)
-  Updated: 2026-06-26T15:53:00Z
+  Updated: 2026-07-10T11:24:11Z
   Total Products: 7
 - [2025 Tour](https://store.wesghost.com/collections/2025-tour)
-  Updated: 2026-06-27T11:16:31Z
+  Updated: 2026-07-10T11:24:11Z
   Total Products: 9
 - [Chokehold](https://store.wesghost.com/collections/chokehold)
-  Updated: 2026-06-22T11:16:36Z
+  Updated: 2026-07-10T11:24:11Z
   Total Products: 4
 - [2026 Tour](https://store.wesghost.com/collections/2026-tour)
-  Updated: 2026-06-30T11:18:43Z
+  Updated: 2026-07-11T11:17:01Z
   Total Products: 6
 - [GHOSTCORE.](https://store.wesghost.com/collections/ghostcore)
-  Updated: 2026-06-30T11:18:43Z
+  Updated: 2026-07-11T11:17:01Z
   Total Products: 7
 
 ## Store Pages
