@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-02-12T12:33:32Z
 - Contact Email: info@minoki.de
-- Updated At: 2026-07-05T00:00:41.849Z
+- Updated At: 2026-07-12T00:00:44.674Z
 
 ## Products
 
 - [Kleiner Bär & Bienen | Kinderzimmer Poster](https://minoki.de/products/teddybaer-mit-bienen): Süßes Kinderzimmer Poster mit Teddybär und Bienen im Aquarellstil. Warme Naturtöne für eine ruhige, liebevolle Atmosphäre im Baby- oder Kinderzimmer.
-  Updated: 2026-07-03T06:34:57Z
+  Updated: 2026-07-11T10:42:46Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Lachende Sonne | Kinderzimmer Poster](https://minoki.de/products/lachende-sonne): Hol dir das strahlende Lächeln der Morgensonne direkt in das Zimmer deines Kindes. Dieses freundliche Motiv schafft eine geborgene und fröhliche Atmosphäre, in der sich dein kleiner Schatz beim Spielen und Träumen rundum wohlfühlen kann. Das Bild zeigt eine liebevoll gestaltete Sonne mit einem sanften Lächeln und zartrosa Wangen. Die langen, geschwungenen Sonnenstrahlen breiten sich dynamisch über das Blatt aus und sind in harmonischen Gelb- und Ockertönen gehalten. Der fließende Aquarellstil verleiht dem Design eine natürliche Leichtigkeit und eine künstlerische Tiefe, die jedes Betrachterauge erfreut. Ob über dem Wickeltisch oder in der Leseecke – dieser Sonnenschein passt wunderbar in moderne Kinderzimmer. Durch die warme Farbgebung harmoniert das Poster ideal mit Holzmöbeln sowie sanften Naturtönen und sorgt für einen zeitlosen Blickfang an der Wand. Produktmerkmale:- 200g+ Archivpapier in Museumsqualität, das nicht vergilbt- Lebendige Pigmenttinten für strahlende, langanhaltende Farben- In mehreren Größen mit mattem Finish erhältlich- Bereit zum Aufhängen mit Clips, Klebeband, Reißzwecken oder zum Einrahmen Pflegehinweise:- Sollte das Poster Staub ansetzen, können Sie diesen vorsichtig mit einem sauberen, trockenen Tuch abwischen. Produkthinweis:- Poster kommt ohne Rahmen oder sonstige Artikel.
-  Updated: 2026-07-03T19:30:13Z
+  Updated: 2026-07-06T09:40:24Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -83,7 +83,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleiner Fuchs im Blumenmeer | Kinderzimmer Poster](https://minoki.de/products/kleiner-fuchs-im-blumenmeer): Kinderzimmer Poster mit kleinem Fuchs im Blumenmeer. Warme Naturtöne und sanfter Aquarellstil schaffen eine ruhige, gemütliche Atmosphäre im Babyzimmer.
-  Updated: 2026-06-23T08:38:27Z
+  Updated: 2026-07-06T09:40:38Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -119,7 +119,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleine Baby-Ziege auf der Wiese | Kinderzimmer Poster](https://minoki.de/products/kleine-baby-ziege-auf-der-wiese-kinderzimmer-poster): Kinderzimmer Poster mit kleiner Baby Ziege auf der Wiese. Sanfte Naturtöne und liebevoller Aquarellstil für eine ruhige, warme Atmosphäre im Babyzimmer.vvvvv
-  Updated: 2026-06-12T18:30:11Z
+  Updated: 2026-07-11T10:42:46Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleines Rehkitz in der Blumenwiese | Kinderzimmer Poster](https://minoki.de/products/kleines-rehkitz-in-der-blumenwiese-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Rehkitz in der Blumenwiese. Sanfte Erdtöne und liebevoller Aquarellstil für eine ruhige, natürliche Atmosphäre im Babyzimmer.
-  Updated: 2026-06-29T18:19:21Z
+  Updated: 2026-07-06T09:40:35Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -209,7 +209,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Waldtiere Trio Hase Bär Fuchs | Kinderzimmer Poster Set](https://minoki.de/products/waldtiere-trio-hase-bar-fuchs-kinderzimmer-poster): Kinderzimmer Poster Set mit Hase, Bär und Fuchs. Minimalistischer Aquarellstil und warme Naturtöne für eine ruhige, harmonische Atmosphäre im Babyzimmer.
-  Updated: 2026-07-04T22:04:36Z
+  Updated: 2026-07-06T09:40:28Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -245,7 +245,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Dream Big Little One | Kinderzimmer Poster](https://minoki.de/products/dream-big-little-one-kinderzimmer-poster): Kinderzimmer Poster „Dream Big Little One“ mit moderner Typografie und sanften Naturtönen. Ruhiger Aquarellstil für eine liebevolle Atmosphäre im Babyzimmer.
-  Updated: 2026-07-04T20:13:56Z
+  Updated: 2026-07-08T15:47:15Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -299,7 +299,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Bär und Biene im Gänseblümchen-Heißluftballon | Kinderzimmer Poster](https://minoki.de/products/bar-und-biene-im-ganseblumchen-heissluftballon-kinderzimmer-poster): Kinderzimmer Poster mit Bär und Bienen im Gänseblümchen-Heißluftballon. Sanfte Aquarellfarben und warme Naturtöne für eine ruhige, liebevolle Atmosphäre.
-  Updated: 2026-07-03T06:34:57Z
+  Updated: 2026-07-06T10:57:06Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -335,7 +335,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleiner Naschbär mit Honig | Kinderzimmer Poster](https://minoki.de/products/kleiner-naschbar-mit-honig-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Naschbär und Honig. Warme Goldtöne und sanfter Aquarellstil sorgen für eine ruhige, liebevolle Atmosphäre im Babyzimmer.
-  Updated: 2026-07-04T19:53:17Z
+  Updated: 2026-07-09T13:05:18Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -371,7 +371,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleines Kälbchen auf der Blumenwiese | Kinderzimmer Poster](https://minoki.de/products/kleines-kalbchen-auf-der-blumenwiese-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Kälbchen auf der Blumenwiese. Sanfte Naturtöne und liebevoller Aquarellstil für eine ruhige, warme Atmosphäre im Babyzimmer.
-  Updated: 2026-07-04T19:53:16Z
+  Updated: 2026-07-11T10:42:44Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -407,7 +407,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleines Nilpferd | Kinderzimmer Poster](https://minoki.de/products/kleines-nilpferd-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Nilpferd im Aquarellstil. Warme Naturtöne und sanfte Details sorgen für eine ruhige, harmonische Atmosphäre im Babyzimmer.
-  Updated: 2026-06-28T13:33:25Z
+  Updated: 2026-07-11T10:33:52Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -443,7 +443,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleiner Löwenkönig | Kinderzimmer Poster](https://minoki.de/products/kleiner-lowenkonig-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Löwen im Aquarellstil. Warme Naturtöne und sanfte Details schaffen eine ruhige, harmonische Atmosphäre im Babyzimmer.
-  Updated: 2026-07-02T17:00:19Z
+  Updated: 2026-07-11T10:33:53Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -479,7 +479,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleiner Waldfuchs | Kinderzimmer Poster](https://minoki.de/products/kleiner-waldfuchs-kinderzimmer-poster): Zauberhaftes Fuchs Poster für das Kinderzimmer. Entdecke Wandbilder mit Waldtieren im sanften Aquarell-Stil für eine gemütliche Atmosphäre. Jetzt bestellen!
-  Updated: 2026-07-04T19:53:17Z
+  Updated: 2026-07-10T18:32:15Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -497,7 +497,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleiner Elefant mit Blume | Kinderzimmer Poster](https://minoki.de/products/kleiner-elefant-mit-blume-kinderzimmer-poster): Verschönere das Kinderzimmer mit dem süßen Poster 'Kleiner Elefant mit Blume'. Sanfte Aquarellfarben & ein freundliches Motiv für eine harmonische Wanddeko.
-  Updated: 2026-07-02T17:00:20Z
+  Updated: 2026-07-11T10:33:56Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -551,7 +551,7 @@
     Availability: Available
     Price: 29,90 € EUR
 - [Kleine Giraffe | Kinderzimmer Poster](https://minoki.de/products/kleine-giraffe-kinderzimmer-poster): Entdecke das süße Giraffen-Poster für das Kinderzimmer. Sanfter Aquarell-Stil in warmen Farben – ideal für die Safari-Deko oder als Geschenk zur Geburt.
-  Updated: 2026-07-02T17:00:19Z
+  Updated: 2026-07-11T10:33:52Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -571,26 +571,26 @@
 
 ## Collections
 
-- [Kinderzimmer Poster & Babyzimmer Bilder | minoki](https://minoki.de/collections/frontpage): Liebevolle Kinderzimmer Poster und Babyzimmer Bilder mit sanften Tiermotiven. Entdecke Waldtiere, Safari Tiere und Bauernhof Poster in A4 bis A1 – modern, ruhig und kindgerecht.
-  Updated: 2026-07-04T11:30:20Z
+- [Startseite](https://minoki.de/collections/frontpage): Liebevolle Kinderzimmer Poster und Babyzimmer Bilder mit sanften Tiermotiven. Entdecke Waldtiere, Safari Tiere und Bauernhof Poster in A4 bis A1 – modern, ruhig und kindgerecht.
+  Updated: 2026-07-11T11:41:27Z
   Total Products: 31
 - [Tiere](https://minoki.de/collections/tiere)
-  Updated: 2026-07-04T11:30:20Z
+  Updated: 2026-07-11T11:41:27Z
   Total Products: 29
 - [Sommer](https://minoki.de/collections/sommer)
-  Updated: 2026-07-04T11:30:20Z
+  Updated: 2026-07-06T11:41:25Z
   Total Products: 2
 - [Sprüche](https://minoki.de/collections/sprueche)
-  Updated: 2026-06-26T16:55:50Z
+  Updated: 2026-07-09T11:36:08Z
   Total Products: 1
-- [Waldtiere Poster fürs Kinderzimmer | Fuchs, Reh, Bär & Hase – minoki](https://minoki.de/collections/waldtiere-kinderzimmer-poster): Liebevolle Waldtiere Poster fürs Kinderzimmer und Babyzimmer: Fuchs, Reh, Bär, Hase & weitere Motive in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
-  Updated: 2026-07-04T11:30:20Z
+- [Waldtiere Poster fürs Kinderzimmer](https://minoki.de/collections/waldtiere-kinderzimmer-poster): Liebevolle Waldtiere Poster fürs Kinderzimmer und Babyzimmer: Fuchs, Reh, Bär, Hase & weitere Motive in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
+  Updated: 2026-07-11T11:41:27Z
   Total Products: 17
-- [Safari Poster fürs Kinderzimmer | Löwe, Elefant & Giraffe – minoki](https://minoki.de/collections/safari-kinderzimmer-poster): Liebevolle Safari Poster fürs Kinderzimmer und Babyzimmer: Elefant, Löwe, Zebra, Nilpferd & weitere Tiere in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
-  Updated: 2026-07-03T11:34:12Z
+- [Safari Poster für das Kinderzimmer](https://minoki.de/collections/safari-kinderzimmer-poster): Liebevolle Safari Poster fürs Kinderzimmer und Babyzimmer: Elefant, Löwe, Zebra, Nilpferd & weitere Tiere in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
+  Updated: 2026-07-11T11:41:27Z
   Total Products: 7
-- [Bauernhof Poster fürs Kinderzimmer | Kuh, Schaf & Ente – minoki](https://minoki.de/collections/bauernhof-kinderzimmer-poster): Liebevolle Bauernhof Poster fürs Kinderzimmer und Babyzimmer: Kuh, Schaf, Ziege, Ente & weitere Tiere in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
-  Updated: 2026-07-04T11:30:20Z
+- [Bauernhof Poster für das Kinderzimmer](https://minoki.de/collections/bauernhof-kinderzimmer-poster): Liebevolle Bauernhof Poster fürs Kinderzimmer und Babyzimmer: Kuh, Schaf, Ziege, Ente & weitere Tiere in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
+  Updated: 2026-07-11T11:41:27Z
   Total Products: 6
 
 ## Store Pages
