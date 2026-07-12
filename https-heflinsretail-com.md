@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-28T04:29:53Z
 - Contact Email: heflinscotty08@gmail.com
-- Updated At: 2026-07-05T08:00:25.751Z
+- Updated At: 2026-07-12T08:00:26.121Z
 
 ## Products
 
 - [Orange Exfoliating Whitening Gel for Skin Care](https://heflinsretail.com/products/orange-exfoliating-whitening-gel-for-skin-care): Orange Exfoliating Whitening Gel for Skin Care — shop personal care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:13:04Z
+  Updated: 2026-07-08T20:47:18Z
   Vendor: Heflin's Retail
   Product Type: Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/a4d4ef5243bca7ed1b220587691c.jpg?v=1781847448
   Price: $8.99 USD
 - [Cyperus Rotundus Oil](https://heflinsretail.com/products/cyperus-rotundus-oil): Cyperus Rotundus Oil — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:46:13Z
+  Updated: 2026-07-08T20:47:18Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/267c37ab49ba92cc32e4d8560eca.png?v=1781847447
   Price: $11.99 USD
 - [Mechanical Keyboard Switch Tester Fidget Toy](https://heflinsretail.com/products/cherry-axle-tester-stress-relief-toy): Mechanical Keyboard Switch Tester Fidget Toy — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T20:24:39Z
+  Updated: 2026-07-08T20:47:18Z
   Vendor: Heflin's Retail
   Product Type: Toys
   Availability: Available
@@ -67,7 +67,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/e2bfd3284bb3a83aa646e405f6dc.png?v=1781847448
     Price: $15.99 USD
 - [Calm Boost Ashwagandha Gummies](https://heflinsretail.com/products/calm-boost-ashwagandha-gummies): Calm Boost Ashwagandha Gummies — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:13:10Z
+  Updated: 2026-07-08T20:47:18Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/3cbb1314444293b5383fadf86176.jpg?v=1781847448
     Price: $22.99 USD
 - [Hydrating Collagen Peel-Off Mask](https://heflinsretail.com/products/hydrating-collagen-peel-off-mask): Hydrating Collagen Peel-Off Mask — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:13:18Z
+  Updated: 2026-07-08T20:47:19Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -95,7 +95,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/2061a8374cff962656517a356fa5.jpg?v=1781847447
     Price: $12.99 USD
 - [Ultrasonic Anti-Bark Dog Training Collar](https://heflinsretail.com/products/ultrasonic-anti-bark-dog-training-collar): Ultrasonic Anti-Bark Dog Training Collar — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:46:16Z
+  Updated: 2026-07-08T20:47:19Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -133,14 +133,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/a5c648cb4e1793c52a289829454e_c45eef9b-fdfa-40e1-a14a-f5b5ad11b766.jpg?v=1781847449
     Price: $62.99 USD
 - [UV Toothbrush Sanitizer](https://heflinsretail.com/products/uv-toothbrush-sanitizer): UV Toothbrush Sanitizer — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:39:00Z
+  Updated: 2026-07-08T20:47:19Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/1745daee4ce9ae819cd452597049.png?v=1781847449
   Price: $24.99 USD
 - [Halloween Ghost Ornament](https://heflinsretail.com/products/halloween-ghost-ornament): Halloween Ghost Ornament — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:46:18Z
+  Updated: 2026-07-08T20:47:20Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -162,7 +162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/cf7ea4054998a89a145e538304ee_511d747c-9fb2-4f84-bb77-1c420bce67f6.jpg?v=1781847449
     Price: $22.99 USD
 - [Round Plush Dog Bed for Small Dogs and Puppies](https://heflinsretail.com/products/round-plush-dog-bed-for-small-dogs-and-puppies): Round Plush Dog Bed for Small Dogs and Puppies — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:03:22Z
+  Updated: 2026-07-08T20:47:20Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -310,14 +310,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/d754e94348bc93ba825560952841.jpg?v=1781847450
     Price: $12.99 USD
 - [Collagen Lifting Face Mask](https://heflinsretail.com/products/collagen-lifting-face-mask): Collagen Lifting Face Mask — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:13:24Z
+  Updated: 2026-07-08T20:47:20Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/0dff9ac043ddad32a0c9c034d843.png?v=1781847449
   Price: $21.99 USD
 - [3-in-1 Folding Wireless Charger](https://heflinsretail.com/products/3-in-1-folding-wireless-charger): 3-in-1 Folding Wireless Charger — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:44:36Z
+  Updated: 2026-07-08T20:47:20Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
@@ -331,14 +331,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/4c35ec3b4c93af6edf4d388684aa.png?v=1781847450
     Price: $34.99 USD
 - [Magnetic Levitating Starry Sky Ornament](https://heflinsretail.com/products/2024-magnetic-levitating-starry-sky-ornament): 2024 Magnetic Levitating Starry Sky Ornament — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:38:05Z
+  Updated: 2026-07-08T20:47:21Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/b43f6b4944d9a523583d4768fa1e.png?v=1781847449
   Price: $44.99 USD
 - [Magnetic Nasal Dilator Strips for Better Sleep](https://heflinsretail.com/products/magnetic-nasal-dilator-strips-for-better-sleep): Magnetic Nasal Dilator Strips for Better Sleep — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:46:22Z
+  Updated: 2026-07-08T20:47:21Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -448,28 +448,28 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/eda4322348d991ea147eee685a74.jpg?v=1781847450
     Price: $201.99 USD
 - [Sun Tanning Soft Gummies (60 Tablets)](https://heflinsretail.com/products/sun-tanning-soft-gummies-60-tablets): Sun Tanning Soft Gummies (60 Tablets) — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:46:27Z
+  Updated: 2026-07-08T20:47:21Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/b4b1b9ec4c86941b2fd96520ae49.jpg?v=1781847450
   Price: $13.99 USD
 - [Silver Spiral Heart Ring](https://heflinsretail.com/products/silver-spiral-heart-ring): Silver Spiral Heart Ring — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:13:37Z
+  Updated: 2026-07-08T20:47:21Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/dabd7d244a7cb0fe62feebd38e4c.jpg?v=1781847450
   Price: $5.99 USD
 - [Muscle Boost Gummies](https://heflinsretail.com/products/muscle-boost-gummies): Muscle Boost Gummies — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:13:44Z
+  Updated: 2026-07-08T20:47:22Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/8903aaad424fac40b49d8a9f2de0.png?v=1781847450
   Price: $28.99 USD
 - [Spider Letter Print Hoodie](https://heflinsretail.com/products/spider-letter-prints-hoodies): Spider Letter Prints Hoodies — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:39:54Z
+  Updated: 2026-07-08T20:47:22Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -523,7 +523,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/66aa3e754fe4a75b387abe877eaa_cae13e55-b3e3-4d7b-a327-dc986a92675d.jpg?v=1781847451
     Price: $145.99 USD
 - [S925 Sterling Silver Butterfly Ring](https://heflinsretail.com/products/s925-sterling-silver-butterfly-ring-for-women): S925 Sterling Silver Butterfly Ring for Women — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:08Z
+  Updated: 2026-07-08T20:47:22Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
@@ -537,7 +537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/21c173ab4dceae8940af5c8ead92.jpg?v=1781847450
     Price: $4.99 USD
 - [Sunflower Rotation Ring for Anxiety Relief](https://heflinsretail.com/products/sunflower-rotation-ring-for-anxiety-relief): Sunflower Rotation Ring for Anxiety Relief — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:13:58Z
+  Updated: 2026-07-08T20:47:22Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
@@ -551,7 +551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/30bb2db44bea9957e78f140e2658.jpg?v=1781847451
     Price: $8.99 USD
 - [Calming Duck Toy](https://heflinsretail.com/products/calming-duck-toy): Calming Duck Toy — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:03:38Z
+  Updated: 2026-07-08T20:47:23Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -573,7 +573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/f01b2c4b47cfad551aee48e04cfb.png?v=1781847451
     Price: $12.99 USD
 - [Loose High Collar Fleece Lined Hoodie](https://heflinsretail.com/products/loose-high-collar-fleece-lined-hoodie): Loose High Collar Fleece Lined Hoodie — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:47:06Z
+  Updated: 2026-07-08T20:47:23Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -659,7 +659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/3fca3f9b4445993e4ed2be5d330e.jpg?v=1781847451
     Price: $32.99 USD
 - [Baby Soothing Plush Music Toy](https://heflinsretail.com/products/baby-soothing-plush-music-toy): Baby Soothing Plush Music Toy — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:47:08Z
+  Updated: 2026-07-08T20:47:23Z
   Vendor: Heflin's Retail
   Product Type: Toys
   Availability: Available
@@ -693,14 +693,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/6575733e401baea00f29d1a8f5dc.png?v=1781847451
     Price: $40.99 USD
 - [VersaHeat Portable Wall-Mounted Space Heater](https://heflinsretail.com/products/versaheat-portable-wall-mounted-space-heater): VersaHeat Portable Wall-Mounted Space Heater — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:38:51Z
+  Updated: 2026-07-08T20:47:23Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/bf7933bd434083dc97fd6fc77e4e.png?v=1781847451
   Price: $54.99 USD
 - [U-Shaped Ultrasonic Electric Toothbrush](https://heflinsretail.com/products/u-shaped-ultrasonic-electric-toothbrush): U-Shaped Ultrasonic Electric Toothbrush — shop personal care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:44:36Z
+  Updated: 2026-07-08T20:47:24Z
   Vendor: Heflin's Retail
   Product Type: Personal Care
   Availability: Available
@@ -730,7 +730,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/de2705ab43eb9710162b8bf9f4a1.png?v=1781847451
     Price: $29.99 USD
 - [Dual-Head Electric Shaver Womens Epilator Hair Removal](https://heflinsretail.com/products/dual-head-electric-shaver-painless-womens-epilator-bikini-hair-removal-device-automatic-hair-trimmer-underarm-facial-lips-leg): Dual-Head Electric Shaver Womens Epilator Hair Removal — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:39:34Z
+  Updated: 2026-07-08T20:47:24Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -752,14 +752,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/7069ea3649caa1b0cc155086dfc2.png?v=1781847452
     Price: $43.99 USD
 - [Bio-Collagen Deep Mask](https://heflinsretail.com/products/bio-collagen-deep-mask): Bio-Collagen Deep Mask — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:14:07Z
+  Updated: 2026-07-08T20:47:24Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/c663518f41c18ed3aa6302ec15f1.png?v=1781847452
   Price: $16.99 USD
 - [Electric Deep Tissue Massage Blade Heated Fascia Tool](https://heflinsretail.com/products/electric-deep-tissue-massage-blade-heated-fascia-relaxation-tool): Electric Deep Tissue Massage Blade Heated Fascia Tool — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:38:17Z
+  Updated: 2026-07-08T20:47:24Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
@@ -773,7 +773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/c9dc8f994124866a232dd831b91e.png?v=1781847452
     Price: $49.99 USD
 - [Fiber Toe Separator](https://heflinsretail.com/products/fiber-toe-separator): Fiber Toe Separator — shop personal care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:14:23Z
+  Updated: 2026-07-08T20:47:25Z
   Vendor: Heflin's Retail
   Product Type: Personal Care
   Availability: Available
@@ -787,7 +787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/f43d24fc4f0087f8c8994c3755d4.png?v=1781847452
     Price: $4.99 USD
 - [Pet Grooming Comb](https://heflinsretail.com/products/pet-grooming-comb): Pet Grooming Comb — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:14:27Z
+  Updated: 2026-07-08T20:47:25Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -801,7 +801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/0583cef3407296120896d43c38df.png?v=1781847452
     Price: $16.99 USD
 - [Merry Jigsaw Advent Calendar Puzzle](https://heflinsretail.com/products/merry-jigsaw-advent-calendar-puzzle): Merry Jigsaw Advent Calendar Puzzle — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:47:15Z
+  Updated: 2026-07-08T20:47:25Z
   Vendor: Heflin's Retail
   Product Type: Toys
   Availability: Available
@@ -839,7 +839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/cf4779f943c6b1fc2a848e47bfcf_91941e3f-02d8-4da0-8ed8-31bbc44150b1.jpg?v=1781847452
     Price: $51.99 USD
 - [Fur Remover Glove](https://heflinsretail.com/products/fur-remover-glove): Fur Remover Glove — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:14:35Z
+  Updated: 2026-07-08T20:47:25Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -853,7 +853,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/9ffa63d447b8bb9367b16851b943_51249785-ca67-4b61-8df4-d08e2124234c.png?v=1781847452
     Price: $12.99 USD
 - [Funny Squeeze Vent Stress Relief Toy](https://heflinsretail.com/products/a-funny-toy-to-vent-ones-beard): Funny Squeeze Vent Stress Relief Toy — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:44:33Z
+  Updated: 2026-07-08T20:47:26Z
   Vendor: Heflin's Retail
   Product Type: Toys
   Availability: Available
@@ -911,14 +911,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/59696fa443bdafe1d2cf92d29e33.png?v=1781847453
     Price: $16.99 USD
 - [Pixel Style RGB Lantern Light](https://heflinsretail.com/products/pixel-style-rgb-lantern-light): Pixel Style RGB Lantern Light — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:14:46Z
+  Updated: 2026-07-08T20:47:26Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/8e6e962d45d4a396ba3a4264132d.png?v=1781847453
   Price: $43.99 USD
 - [Portable Camping Fan with LED Light & Power Bank](https://heflinsretail.com/products/outdoor-household-power-bank-led-light-camping-fan): Outdoor Household Power Bank LED Light Camping Fan — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:10Z
+  Updated: 2026-07-08T20:47:26Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
@@ -936,7 +936,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/9f202ed5453f92fcdcd28af0927e.png?v=1781847453
     Price: $34.99 USD
 - [Mens Lapel Knit Pullover Sweater](https://heflinsretail.com/products/mens-lapel-knit-pullover-sweater): Mens Lapel Knit Pullover Sweater — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:47:49Z
+  Updated: 2026-07-08T20:47:27Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -1122,7 +1122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/865cd0344f86b5241f9089d726cb.jpg?v=1781847454
     Price: $80.99 USD
 - [Smart IR Remote Control Phone Adapter (USB-C / Micro USB)](https://heflinsretail.com/products/ype-c-micro-usb-smart-ir-remote-control-phone-app-mini-adapter): Type-C Micro USB Smart IR Remote Control Phone App Mini Adapter — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:39:38Z
+  Updated: 2026-07-08T20:47:27Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
@@ -1152,7 +1152,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/00e455154358893cd38d80704108.jpg?v=1781847453
     Price: $29.99 USD
 - [Water Wave Silver Ring](https://heflinsretail.com/products/water-wave-silver-ring-in-fashion-design): Water Wave Silver Ring in Fashion Design — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:07Z
+  Updated: 2026-07-08T20:47:27Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
@@ -1166,7 +1166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/fcf3805944ed81ea8a50b2b5b848.png?v=1781847454
     Price: $5.99 USD
 - [Mens Hooded Zip-Up Baseball Jacket](https://heflinsretail.com/products/mens-hooded-zip-up-baseball-jacket): Mens Hooded Zip-Up Baseball Jacket — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:47:51Z
+  Updated: 2026-07-08T20:47:27Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -1304,7 +1304,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/b76b4d764b2082191a6f1f5ed286.jpg?v=1781847454
     Price: $36.99 USD
 - [Love Dagger Necklace](https://heflinsretail.com/products/love-dagger-necklace): Love Dagger Necklace — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:15:00Z
+  Updated: 2026-07-08T20:47:27Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
@@ -1326,7 +1326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/212e254b4aa4bd7f951c5fe13d8a.jpg?v=1781847454
     Price: $12.99 USD
 - [Heartfelt Remembrance Stainless Steel Heart Cremation Pendant](https://heflinsretail.com/products/heartfelt-remembrance-stainless-steel-heart-shaped-cremation-pendant): Heartfelt Remembrance Stainless Steel Heart Cremation Pendant — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:10Z
+  Updated: 2026-07-08T20:47:28Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
@@ -1348,7 +1348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/995d3b8b4560b842ac73cf1f8b4a_84c685c2-120c-4cd1-99f8-34a452f80919.png?v=1781847454
     Price: $27.99 USD
 - [Educational Tic-Tac-Toe Toy for Kids](https://heflinsretail.com/products/educational-tic-tac-toe-toy-for-kids): Educational Tic-Tac-Toe Toy for Kids — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:47:54Z
+  Updated: 2026-07-08T20:47:28Z
   Vendor: Heflin's Retail
   Product Type: Toys
   Availability: Available
@@ -1374,7 +1374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/4188a1144bc58bc49d4b09eb11ec.png?v=1781847454
     Price: $45.99 USD
 - [Pet Hair Spray Brush](https://heflinsretail.com/products/pet-hair-spray-brush): Pet Hair Spray Brush — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:15:19Z
+  Updated: 2026-07-08T20:47:28Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -1388,7 +1388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/bbc9bca04e999a1c1b2b5b1dd67f.png?v=1781847454
     Price: $42.99 USD
 - [Blue Luminous Smart Butterfly Necklace](https://heflinsretail.com/products/blue-luminous-smart-butterfly-necklace): Blue Luminous Smart Butterfly Necklace — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:47:56Z
+  Updated: 2026-07-08T20:47:28Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
@@ -1410,7 +1410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/1ce8bd4643fabe7256cd4c94fa4c.png?v=1781847454
     Price: $4.99 USD
 - [Magnetic False Eyelashes Set with Applicator](https://heflinsretail.com/products/magnetic-false-eyelashes-set-with-applicator): Magnetic False Eyelashes Set with Applicator — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:47:57Z
+  Updated: 2026-07-08T20:47:29Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -1444,7 +1444,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/046215634115a93dd222b21a12c0.jpg?v=1781847455
     Price: $23.99 USD
 - [3D Eye Mask Bluetooth 50 Music Stereo](https://heflinsretail.com/products/3d-eye-mask-bluetooth-50-unlimited-music-stereo): 3D Eye Mask Bluetooth 50 Music Stereo — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:39:40Z
+  Updated: 2026-07-08T20:47:29Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -1470,7 +1470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/60d5fe9045c38b0d815c04a5e92e.png?v=1781847455
     Price: $49.99 USD
 - [Wireless Eye Massager](https://heflinsretail.com/products/wireless-eye-massager): Wireless Eye Massager — shop personal care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:44:30Z
+  Updated: 2026-07-08T20:47:29Z
   Vendor: Heflin's Retail
   Product Type: Personal Care
   Availability: Available
@@ -1484,7 +1484,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/2b1e24924ba583bc9a1990cc26c2.png?v=1781847455
     Price: $44.99 USD
 - [Fire-breathing Magic Wand Toy](https://heflinsretail.com/products/fire-breathing-magic-wand-toy): Fire-breathing Magic Wand Toy — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:44:34Z
+  Updated: 2026-07-08T20:47:29Z
   Vendor: Heflin's Retail
   Product Type: Toys
   Availability: Available
@@ -1522,7 +1522,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/93607e7b485a947a907aad2ce0f5_9172dc6e-ce6f-4f96-880d-be05d868b204.jpg?v=1781847455
     Price: $29.99 USD
 - [Grooming Glove for Pets](https://heflinsretail.com/products/grooming-glove-for-pets): Grooming Glove for Pets — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:48:32Z
+  Updated: 2026-07-08T20:47:30Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -1537,7 +1537,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Unisex Posture Corrector Back Brace](https://heflinsretail.com/products/unisex-posture-corrector-back-brace): Unisex Posture Corrector Back Brace — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:48:33Z
+  Updated: 2026-07-08T20:47:30Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -1663,7 +1663,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/902366064921a8da2b829d38d448.jpg?v=1781847456
     Price: $21.99 USD
 - [Reflexology Socks with Massage Tool](https://heflinsretail.com/products/reflexology-socks-with-massage-tool-one-set): Reflexology Socks with Massage Tool — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:48:33Z
+  Updated: 2026-07-08T20:47:30Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -1679,7 +1679,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/2c8452c640e3add5c08b0633ca4f.png?v=1781847455
     Price: $17.99 USD
 - [Mini Foot Massager Portable Ion Foot Bath](https://heflinsretail.com/products/mini-foot-massager-portable-ion-foot-bath): Mini Foot Massager Portable Ion Foot Bath — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:38:20Z
+  Updated: 2026-07-08T20:47:31Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -1713,7 +1713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/a2a18c5a4c92bd4d3581c205d849.png?v=1781847456
     Price: $49.99 USD
 - [Simple Retro Carved Tree of Life Ring](https://heflinsretail.com/products/simple-retro-carved-tree-of-life-ring): Simple Retro Carved Tree of Life Ring — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:56:01Z
+  Updated: 2026-07-08T20:47:31Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
@@ -1775,7 +1775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/c5ee43f942258de4bacb68f5f53e.jpg?v=1781847456
     Price: $2.99 USD
 - [Transparent Light-Up Switch Tester Fidget Toy](https://heflinsretail.com/products/transparent-pc-shaft-tester-with-light): Transparent Light-Up Switch Tester Fidget Toy — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:48:36Z
+  Updated: 2026-07-08T20:47:31Z
   Vendor: Heflin's Retail
   Product Type: Toys
   Availability: Available
@@ -1821,7 +1821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/de07096e448aa3ed20368bf26508.jpg?v=1781847456
     Price: $12.99 USD
 - [Anxiety Bookshelf Shake Away Your Anxiety](https://heflinsretail.com/products/anxiety-bookshelf-shake-away-your-anxiety): Anxiety Bookshelf Shake Away Your Anxiety — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:39:41Z
+  Updated: 2026-07-08T20:47:31Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -1835,7 +1835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/9bd93f864861b368db2caddf5679_f7b48786-ddb3-4612-818d-8e5dbf73b985.jpg?v=1781847456
     Price: $79.99 USD
 - [3D Natural Memory Foam Sleep Mask](https://heflinsretail.com/products/3d-natural-memory-foam-sleep-mask-for-comfort): 3D Natural Memory Foam Sleep Mask — shop personal care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:56:03Z
+  Updated: 2026-07-08T20:47:32Z
   Vendor: Heflin's Retail
   Product Type: Personal Care
   Availability: Available
@@ -1853,7 +1853,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/54c68588497da1f45b1c26eb3944.jpg?v=1781847456
     Price: $25.99 USD
 - [Astaxanthin Soft Capsules 120 Tablets](https://heflinsretail.com/products/astaxanthin-soft-capsules-120-tablets): Astaxanthin Soft Capsules 120 Tablets — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:15:49Z
+  Updated: 2026-07-08T20:47:32Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -1879,7 +1879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/ae25b21b401c919346a1f4f4d1c9_890d73e5-3642-479c-861f-c3635e672766.png?v=1781847457
     Price: $65.99 USD
 - [4 In 1 Self Cleaning Brush](https://heflinsretail.com/products/4-in-1-self-cleaning-brush): 4 In 1 Self Cleaning Brush — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:48:42Z
+  Updated: 2026-07-08T20:47:32Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -1901,14 +1901,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/592b29bd4ae0a4f129e7484b614b.png?v=1781847457
     Price: $18.99 USD
 - [Retro Stainless Steel English Double Ring](https://heflinsretail.com/products/retro-stainless-steel-english-double-ring): Retro Stainless Steel English Double Ring — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:48:44Z
+  Updated: 2026-07-08T20:47:32Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/8e3dc4254dd2bbb5dcf7753a3cff.jpg?v=1781847458
   Price: $4.99 USD
 - [Magnetic Travel Chess Board Game](https://heflinsretail.com/products/chess-board-game-magnetic-effect): Chess Board Game Magnetic Effect — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:06Z
+  Updated: 2026-07-08T20:47:33Z
   Vendor: Heflin's Retail
   Product Type: Toys
   Availability: Available
@@ -1922,7 +1922,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/62fe2623487195b4ae99ed60be84.jpg?v=1781848049
     Price: $29.99 USD
 - [Womens Dual Head Hair Remover Shaver](https://heflinsretail.com/products/women-s-dual-head-hair-remover-shaver): Womens Dual Head Hair Remover Shaver — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:56:17Z
+  Updated: 2026-07-08T20:47:33Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -1968,7 +1968,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/0a6bdf504d06b380760319eeeeb1.webp?v=1781848049
     Price: $61.99 USD
 - [Automatic Electric Hair Curler and Waver Iron](https://heflinsretail.com/products/automatic-electric-hair-curler-and-waver-iron): Automatic Electric Hair Curler and Waver Iron — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:56:26Z
+  Updated: 2026-07-08T20:47:33Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -1986,14 +1986,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/3bb69aa44885960488d86e11e041.jpg?v=1781848049
     Price: $37.99 USD
 - [Teeth Whitening Brightening Powder](https://heflinsretail.com/products/teeth-whitening-brightening-powder): Teeth Whitening Brightening Powder — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:56:11Z
+  Updated: 2026-07-08T20:47:33Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/5e8d78a7412a8d1ed5fcca0d98ea.png?v=1781848049
   Price: $8.99 USD
 - [Derma Face Roller](https://heflinsretail.com/products/derma-face-roller): Derma Face Roller — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T20:29:04Z
+  Updated: 2026-07-08T20:47:34Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -2011,7 +2011,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/504193104981bec1a3bad7b784cf_c9df8e37-e565-4e79-bdfc-d0924fbcf04e.jpg?v=1781848049
     Price: $10.99 USD
 - [SkySoothe Neck Pillow](https://heflinsretail.com/products/skysoothe-neck-pillow): SkySoothe Neck Pillow — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:56:52Z
+  Updated: 2026-07-08T20:47:34Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -2041,7 +2041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/b7e54baf4bcfb415b73af1d1e0bd.png?v=1781848050
     Price: $47.99 USD
 - [High-Pressure Cleaner](https://heflinsretail.com/products/high-pressure-cleaner): High-Pressure Cleaner — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:44:32Z
+  Updated: 2026-07-08T20:47:34Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -2087,14 +2087,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/765a75df46b683ec480f7749f3a9.png?v=1781848050
     Price: $59.99 USD
 - [Christmas Door Hanging Bow Ribbon](https://heflinsretail.com/products/christmas-door-hanging-bow-ribbon): Christmas Door Hanging Bow Ribbon — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T20:29:07Z
+  Updated: 2026-07-08T20:47:34Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/06045b38470e961097b872e7a887.jpg?v=1781848051
   Price: $20.99 USD
 - [Interactive Smart Dog Toy Ball](https://heflinsretail.com/products/interactive-smart-dog-toy-ball): Interactive Smart Dog Toy Ball — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T20:29:07Z
+  Updated: 2026-07-08T20:47:35Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -2116,7 +2116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/311733d54219a8b69bd36ed61185.png?v=1781848051
     Price: $16.99 USD
 - [Auto Double Dog Leash](https://heflinsretail.com/products/auto-double-dog-leash): Auto Double Dog Leash — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:44:34Z
+  Updated: 2026-07-08T20:47:35Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -2134,7 +2134,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/360369954739b2395237c5c137b9.png?v=1781848051
     Price: $24.99 USD
 - [Neck Pillow](https://heflinsretail.com/products/neck-pillow): Neck Pillow — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:38:09Z
+  Updated: 2026-07-08T20:47:35Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -2152,14 +2152,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/9ef382b04af1ae517cca6f5be654.png?v=1781848051
     Price: $24.99 USD
 - [Hair Growth Serum Roller](https://heflinsretail.com/products/hair-growth-serum-roller): Hair Growth Serum Roller — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T20:29:12Z
+  Updated: 2026-07-08T20:47:35Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/b0c4937c40a39d46ef685ee8c731.png?v=1781848052
   Price: $12.99 USD
 - [Crystal Clear Lens Cleaner](https://heflinsretail.com/products/crystal-clear-lens-cleaner): Crystal Clear Lens Cleaner — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:16:06Z
+  Updated: 2026-07-08T20:47:36Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -2177,7 +2177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/8578290e4e32bf1f22a540d71ecf.png?v=1781848052
     Price: $2.99 USD
 - [Car Glass Oil Film Remover](https://heflinsretail.com/products/car-glass-oil-film-remover): Car Glass Oil Film Remover — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T20:29:13Z
+  Updated: 2026-07-08T20:47:36Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -2211,7 +2211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/23e0a4974a6dbcee15ea3ac9574e.png?v=1781848052
     Price: $37.99 USD
 - [3-in-1 Lip and Beard Growth Roller](https://heflinsretail.com/products/3-in-1-lip-beard-growth-roller): 3-in-1 Lip and Beard Growth Roller — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T20:29:15Z
+  Updated: 2026-07-08T20:47:36Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -2273,7 +2273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/4343dc9145559644ca2d64a0e203.png?v=1781848052
     Price: $36.99 USD
 - [Shoe Clean Laundry Bag](https://heflinsretail.com/products/shoe-clean-laundry-bag): Shoe Clean Laundry Bag — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T20:29:15Z
+  Updated: 2026-07-08T20:47:36Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -2375,7 +2375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/f078aecd48e49dfb1a3584398879.png?v=1781848053
     Price: $69.99 USD
 - [7-Color Rechargeable Camping Lantern](https://heflinsretail.com/products/7-color-rechargeable-camping-lantern): 7-Color Rechargeable Camping Lantern — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:58:05Z
+  Updated: 2026-07-08T20:47:37Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
@@ -2401,7 +2401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/08df88064d7ca935c5d4fc571ffa.png?v=1781848052
     Price: $54.99 USD
 - [HY300 Pro Projector Home Theater](https://heflinsretail.com/products/hy300-pro-projector-home-theater): HY300 Pro Projector Home Theater — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:38:07Z
+  Updated: 2026-07-08T20:47:37Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
@@ -2423,7 +2423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/d307d21e498892483e8c190bb952.jpg?v=1781848053
     Price: $89.99 USD
 - [Bible Verses In A Jar](https://heflinsretail.com/products/bible-verses-in-a-jar): Bible Verses In A Jar — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:57:05Z
+  Updated: 2026-07-08T20:47:37Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -2441,7 +2441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/2efa28b54217813d4d7a248204e0.png?v=1781848052
     Price: $11.99 USD
 - [Mini Digital Measuring Spoon Scale](https://heflinsretail.com/products/digital-measuring-spoon-scale-mini): Digital Measuring Spoon Scale Mini — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:04Z
+  Updated: 2026-07-08T20:47:37Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -2495,7 +2495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/0b7a5ec248a1896e5621cc80da14_ed26a0b1-61ac-48f6-95a8-bc922810d647.jpg?v=1781848053
     Price: $25.99 USD
 - [Car Glass Film Remover](https://heflinsretail.com/products/car-glass-film-remover): Car Glass Film Remover — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:49:16Z
+  Updated: 2026-07-08T20:47:38Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -2509,7 +2509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/71d98c844dacadb94e5d6a4c4393_b35eba71-45d5-4e50-9137-e6140004d329.png?v=1781848053
     Price: $8.99 USD
 - [Kemei Professional Hair Clipper Set](https://heflinsretail.com/products/kemei-professional-hair-clipper-set): Kemei Professional Hair Clipper Set — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:57:02Z
+  Updated: 2026-07-08T20:47:38Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -2527,7 +2527,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/f36b55914cf1a0a4f5a447df2652.webp?v=1781848053
     Price: $75.99 USD
 - [Smart Weighted Fit Hoop](https://heflinsretail.com/products/smart-weighted-fit-hoop): Smart Weighted Fit Hoop — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:57:49Z
+  Updated: 2026-07-08T20:47:38Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -2565,7 +2565,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/7f8232b7427cab5f8d08b8c5e915_ef0bba94-e0cd-42c9-91bb-045423ae2e8e.png?v=1781848054
     Price: $36.99 USD
 - [Adjustable Car Mount Magnetic Phone Holder](https://heflinsretail.com/products/adjustable-car-mount-magnetic-phone-holder): Adjustable Car Mount Magnetic Phone Holder — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:44:35Z
+  Updated: 2026-07-08T20:47:38Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
@@ -2587,7 +2587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/cf2be1054410863c5a2b1374e89b.webp?v=1781848054
     Price: $24.99 USD
 - [I Am Enough Ring](https://heflinsretail.com/products/i-am-enough-ring): I Am Enough Ring — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:49:21Z
+  Updated: 2026-07-08T20:47:39Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
@@ -2605,7 +2605,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/dad403ee4375ac066d4cb97b8f6c.png?v=1781848054
     Price: $5.99 USD
 - [CrystalClear Microfiber Cloths](https://heflinsretail.com/products/crystalclear-microfiber-cloths): CrystalClear Microfiber Cloths — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:57:34Z
+  Updated: 2026-07-08T20:47:39Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -2619,7 +2619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/2d8041474be4bec38d417dc79102.webp?v=1781848054
     Price: $2.99 USD
 - [Crown Cross Necklace](https://heflinsretail.com/products/crown-cross-necklace): Crown Cross Necklace — shop jewelry at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T15:57:12Z
+  Updated: 2026-07-08T20:47:39Z
   Vendor: Heflin's Retail
   Product Type: Jewelry
   Availability: Available
@@ -2649,7 +2649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/7fe81fe34c1b8b92b49662cdf9d0.png?v=1781848054
     Price: $6.99 USD
 - [Electric Duo Shave](https://heflinsretail.com/products/electric-duo-shave): Electric Duo Shave — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-28T09:16:00Z
+  Updated: 2026-07-08T20:47:39Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
@@ -2731,7 +2731,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/594b86ad4cf282e5662200748582.png?v=1781848055
     Price: $56.99 USD
 - [Portable Projector](https://heflinsretail.com/products/portable-projector): Portable Projector — shop electronics at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T09:38:15Z
+  Updated: 2026-07-08T20:47:40Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
@@ -2749,7 +2749,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/7629cc9e411785f50336f1a1a1ce.png?v=1781848055
     Price: $69.99 USD
 - [Smart Rolling Pet Ball](https://heflinsretail.com/products/smart-rolling-pet-ball): Smart Rolling Pet Ball — shop pet supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:49:27Z
+  Updated: 2026-07-08T20:47:40Z
   Vendor: Heflin's Retail
   Product Type: Pet Supplies
   Availability: Available
@@ -2771,7 +2771,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/d1144cab4918b652c5a4c42e7fe0.png?v=1781848055
     Price: $8.99 USD
 - [Wearable Turtle Shell Pillow](https://heflinsretail.com/products/wearable-turtle-shell-pillow): Wearable Turtle Shell Pillow — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:50:12Z
+  Updated: 2026-07-08T20:47:40Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -2813,7 +2813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/bb35e99943b0b1fd53c5a632de15_c703cce7-68a9-4c88-bba8-ce7f8a00c0b3.png?v=1781848055
     Price: $69.99 USD
 - [Mens Compression Knee Brace for Sports Fitness](https://heflinsretail.com/products/mens-compression-knee-brace-for-sports-and-fitness): Mens Compression Knee Brace for Sports Fitness — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:09Z
+  Updated: 2026-07-08T20:47:40Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -2909,7 +2909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/947e9bc74d72bb51742241ccc783.jpg?v=1781848056
     Price: $7.99 USD
 - [High-Waist Cargo Pants](https://heflinsretail.com/products/high-waist-cargo-pants-stylish): High Waist Cargo Pants Stylish — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:05Z
+  Updated: 2026-07-08T20:47:41Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -2963,7 +2963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/cb16cda8494cbb32fa89aadc57ca.jpg?v=1781848056
     Price: $74.99 USD
 - [Star Print Zip-Up Hoodie](https://heflinsretail.com/products/star-printed-zip-up-hoodies): Star Printed Zip Up Hoodies — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:07Z
+  Updated: 2026-07-08T20:47:41Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -3169,21 +3169,21 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/dc6484c44dfe9960d033135099fa_2b2c5255-ba4e-4984-98ee-0b1c393ec90f.jpg?v=1781848057
     Price: $49.99 USD
 - [Collagen Cleansing Mask](https://heflinsretail.com/products/collagen-cleansing-mask): Collagen Cleansing Mask — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:50:17Z
+  Updated: 2026-07-08T20:47:41Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/1d2b8a6c4a538c57e0e0ed952395.png?v=1781848056
   Price: $12.99 USD
 - [Pheromone Perfume For Women](https://heflinsretail.com/products/pheromone-perfume-for-women): Pheromone Perfume For Women — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:50:17Z
+  Updated: 2026-07-08T20:47:41Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/a80f18ed4af682eb362cc12aa98a.jpg?v=1781848056
   Price: $6.99 USD
 - [Shoulder Baby Carrier Sling](https://heflinsretail.com/products/shoulder-baby-carrier-sling): Shoulder Baby Carrier Sling — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-27T19:50:18Z
+  Updated: 2026-07-08T20:47:42Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -3201,7 +3201,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/56069b3749cd8d13bbd5f9dc3b58.jpg?v=1781848057
     Price: $23.99 USD
 - [Wearable Turtle Shell Pillow (Green)](https://heflinsretail.com/products/green-wearable-turtle-shell-pillows): Green Wearable Turtle Shell Pillows — shop health care at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T21:45:04Z
+  Updated: 2026-07-08T20:47:42Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -3215,7 +3215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/13138d03471dae7f6b654eafecd5.jpg?v=1781848057
     Price: $52.99 USD
 - []gvhytft](https://heflinsretail.com/products/portable-3-in-1-air-cooler-fan-mini-ac-for-room-office-car-fast-cooling-humidifier-ships-from-usa-tiktok-amazon-hot-seller): kjvg
-  Updated: 2026-06-29T13:49:21Z
+  Updated: 2026-07-08T20:47:42Z
   Vendor: Heflin's Retail
   Product Type: Electronics
   Availability: Available
@@ -3233,7 +3233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/165efbd94839bd1d3b1b6730d250_e0247c63-105c-45d4-9cc6-a17f965fd53a.jpg?v=1781848057
     Price: $10.99 USD
 - [hghfgfy](https://heflinsretail.com/products/vegetable-chopper-kitchen): Vegetab
-  Updated: 2026-06-29T21:45:06Z
+  Updated: 2026-07-08T20:47:42Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -3255,7 +3255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/2cea15ca48308da620f5e4661a7b_3e16b97a-a5c3-445b-9b78-c8899bd62e62.jpg?v=1781848058
     Price: $32.99 USD
 - [gfdfgh household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.Faith and Joy Verse Jar — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.Faith and Joy Verse Jar — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.Faith and Joy Verse Jar — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.Faith and Joy Verse Jar — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.Faith and Joy Verse Jar — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.](https://heflinsretail.com/products/faith-joy-verse-jar): kjdfghjkshop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.Faith and Joy Verse Jar — shop household supplies at Heflin's Retail. Quality picks, fast checkout, and easy returns.Faith and Joy Verse Jar — shop household supplies at Heflin's Retail. Quality picks, ...
-  Updated: 2026-06-29T13:47:26Z
+  Updated: 2026-07-08T20:47:43Z
   Vendor: Heflin's Retail
   Product Type: Household Supplies
   Availability: Available
@@ -3345,14 +3345,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/9a06afd6425c86175cbf7cbfe7c9.png?v=1781848058
     Price: $38.99 USD
 - [Hair Trimmer Electric Razor](https://heflinsretail.com/products/hair-trimmer-electric-razor): Hair Trimmer Electric Razor — shop health & beauty at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-29T13:43:45Z
+  Updated: 2026-07-08T20:47:43Z
   Vendor: Heflin's Retail
   Product Type: Health & Beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/2c567276487cb56bdba72e3ca001.png?v=1781848058
   Price: $78.99 USD
 - [bhvgjkhi](https://heflinsretail.com/products/urban-camo-retro-hoodie): Urba
-  Updated: 2026-06-29T13:41:50Z
+  Updated: 2026-07-08T20:47:43Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -3442,7 +3442,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/16f93ec94ece8fa4526f1b7fb562.png?v=1781848059
     Price: $59.99 USD
 - [khguuchjwd](https://heflinsretail.com/products/upgraded-adjustable-bunion-corrector): Upgrad
-  Updated: 2026-06-29T13:43:11Z
+  Updated: 2026-07-08T20:47:43Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -3468,14 +3468,14 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/e18df6ee4374b26ae170bc46424c.png?v=1781848060
     Price: $50.99 USD
 - [IJYTkjhtgfdsfyuiytrdfghjhghjgc](https://heflinsretail.com/products/powergrip-strength-trainer): IJYTkjhtgfdsfyuiytrdfghjhghjgc
-  Updated: 2026-06-29T13:44:51Z
+  Updated: 2026-07-08T20:47:44Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/e35ece5e41e0830057f79f4ce0fa.png?v=1781848060
   Price: $29.99 USD
 - [PSPS](https://heflinsretail.com/products/posture-corrector): PCPC
-  Updated: 2026-06-29T13:44:21Z
+  Updated: 2026-07-08T20:47:44Z
   Vendor: Heflin's Retail
   Product Type: Health Care
   Availability: Available
@@ -3497,7 +3497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/4fc53ee5472a8e16cd9015c9b780.png?v=1781848061
     Price: $24.99 USD
 - [lkjhgfghkl](https://heflinsretail.com/products/the-ceo-art-markers-coloring-dual-brush-pens-dual-tip-brush-markers-art-pen-set): THE CEO Art Markers Dual Brush Pens Art Pen Set — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-06-30T09:57:00Z
+  Updated: 2026-07-08T20:47:45Z
   Vendor: Heflin's Retail
   Product Type: Toys
   Availability: Available
@@ -3508,40 +3508,40 @@
 ## Collections
 
 - [Home page](https://heflinsretail.com/collections/frontpage)
-  Updated: 2026-06-30T09:35:04Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 15
 - [Best Sellers](https://heflinsretail.com/collections/best-sellers): Collection
-  Updated: 2026-06-29T09:44:39Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 1
 - [Trending Deals](https://heflinsretail.com/collections/trending-deals): Collection
-  Updated: 2026-06-29T09:39:31Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 9
 - [Personal Care](https://heflinsretail.com/collections/personal-care): Collection
-  Updated: 2026-06-29T09:44:37Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 5
 - [Health & Beauty](https://heflinsretail.com/collections/health-beauty): Collection
-  Updated: 2026-06-29T09:39:25Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 18
 - [Household Supplies](https://heflinsretail.com/collections/household-supplies): Collection
-  Updated: 2026-06-29T09:45:04Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 20
 - [Clothing](https://heflinsretail.com/collections/clothing): Collection
-  Updated: 2026-06-29T09:44:59Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 12
 - [Electronics](https://heflinsretail.com/collections/electronics): Collection
-  Updated: 2026-06-29T09:45:05Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 12
 - [Toys](https://heflinsretail.com/collections/toys): Collection
-  Updated: 2026-06-29T09:45:01Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 10
 - [Health Care](https://heflinsretail.com/collections/health-care): Collection
-  Updated: 2026-06-29T09:45:04Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 14
 - [Pet Supplies](https://heflinsretail.com/collections/pet-supplies): Collection
-  Updated: 2026-06-29T09:44:36Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 12
 - [Jewelry](https://heflinsretail.com/collections/jewelry): Collection
-  Updated: 2026-06-29T09:45:03Z
+  Updated: 2026-07-08T20:42:55Z
   Total Products: 11
 
 ## Blogs
@@ -3567,6 +3567,15 @@
     Author: Scotty Heflin
   - [Embrace Everyday Glamour with the Kate Spade Mini Pink Glitter Camera Bag](https://heflinsretail.com/blogs/news/embrace-everyday-glamour-with-the-kate-spade-mini-pink-glitter-camera-bag): Embrace Everyday Glamour with the Kate Spade Mini Pink Glitter Camera Bag
     Updated: 2026-07-03T08:09:31Z
+    Author: Scotty Heflin
+  - [Teeth Whitening Powder's Superpower to Brighten Your Smile Effortlessly](https://heflinsretail.com/blogs/news/teeth-whitening-powders-superpower-to-brighten-your-smile-effortlessly): Teeth Whitening Powder's Superpower to Brighten Your Smile Effortlessly
+    Updated: 2026-07-06T08:11:02Z
+    Author: Scotty Heflin
+  - [How CrystalClear Microfiber Cloths Revolutionize Your Home Cleaning Routine](https://heflinsretail.com/blogs/news/how-crystalclear-microfiber-cloths-revolutionize-your-home-cleaning-routine): How CrystalClear Microfiber Cloths Revolutionize Your Home Cleaning Routine
+    Updated: 2026-07-08T08:07:50Z
+    Author: Scotty Heflin
+  - [Unlock Your Allure: Understanding the Science Behind Pheromone Perfumes for Women](https://heflinsretail.com/blogs/news/unlock-your-allure-understanding-the-science-behind-pheromone-perfumes-for-women): Unlock Your Allure: Understanding the Science Behind Pheromone Perfumes for Women
+    Updated: 2026-07-10T08:09:07Z
     Author: Scotty Heflin
 
 ## Store Pages
