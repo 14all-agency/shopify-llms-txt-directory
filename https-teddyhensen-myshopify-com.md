@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2024-09-27T16:41:54Z
 - Contact Email: james.findlater@shopify.com
-- Updated At: 2026-07-05T00:00:38.111Z
+- Updated At: 2026-07-12T00:00:39.721Z
 
 ## Products
 
 - [Football Jersey - Black and White](https://teddyhensen.myshopify.com/products/football-jersey-black-and-white): Elevate your sporty style with our Football Jersey in timeless Black and White. Designed for maximum performance and comfort, this jersey features a sleek and dynamic design that will keep you looking and feeling your best on and off the field. Join the winning team and stand out in our Football Jersey.
-  Updated: 2025-07-17T17:53:46Z
+  Updated: 2026-07-08T18:39:11Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Football Jersey - Paint Splash](https://teddyhensen.myshopify.com/products/football-jersey-black-and-white-copy): Show off your sporty style on and off the field with our Football Jersey in the unique Paint Splash design. Made with high-quality materials and comfortable fit, it's perfect for any game or casual wear. Stand out from the crowd and score a winning look with this jersey. Elevate your sporty style with our Football Jersey in timeless Black and White. Designed for maximum performance and comfort, this jersey features a sleek and dynamic design that will keep you looking and feeling your best on and off the field. Join the winning team and stand out in our Football Jersey.
-  Updated: 2025-07-16T15:47:49Z
+  Updated: 2026-07-08T18:39:12Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Football Jersey - Stars & Stripes 🇺🇸](https://teddyhensen.myshopify.com/products/football-jersey-paint-splash-copy): Show off your sporty style on and off the field with our Football Jersey in the unique Paint Splash design. Made with high-quality materials and comfortable fit, it's perfect for any game or casual wear. Stand out from the crowd and score a winning look with this jersey.
-  Updated: 2025-07-16T11:43:51Z
+  Updated: 2026-07-08T18:39:12Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -74,7 +74,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Football Jersey - Red, White & Blue](https://teddyhensen.myshopify.com/products/football-jersey-stars-stripes-copy): Show off your sporty style on and off the field with our Football Jersey in the unique Paint Splash design. Made with high-quality materials and comfortable fit, it's perfect for any game or casual wear. Stand out from the crowd and score a winning look with this jersey. Elevate your sporty style with our Football Jersey in timeless Black and White. Designed for maximum performance and comfort, this jersey features a sleek and dynamic design that will keep you looking and feeling your best on and off the field. Join the winning team and stand out in our Football Jersey.
-  Updated: 2025-07-15T23:28:34Z
+  Updated: 2026-07-08T18:39:13Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Long Sleeve Rugby Jersey - Forest Green & Cream](https://teddyhensen.myshopify.com/products/football-jersey-stars-stripes-copy-1): Stay stylish and comfortable on the field with our Long Sleeve Rugby Jersey in a classic forest green and cream colorway. Featuring long sleeves for added coverage and a sleek design, this jersey is perfect for any sporty individual. Show off your athletic side while feeling your best in this top-quality jersey.
-  Updated: 2025-07-17T23:57:51Z
+  Updated: 2026-07-08T18:39:13Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -116,7 +116,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Long Sleeve Rugby Jersey - Navy & Sky Blue](https://teddyhensen.myshopify.com/products/long-sleeve-rugby-jersey-forest-green-cream-copy): Stay stylish and comfortable on the field with our Long Sleeve Rugby Jersey in a classic forest green and cream colorway. Featuring long sleeves for added coverage and a sleek design, this jersey is perfect for any sporty individual. Show off your athletic side while feeling your best in this top-quality jersey.
-  Updated: 2025-07-17T12:36:04Z
+  Updated: 2026-07-08T18:39:13Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Long Sleeve Rugby Jersey - Yellow and Green 🇦🇺](https://teddyhensen.myshopify.com/products/long-sleeve-rugby-jersey-navy-sky-blue-copy): Show off your sporty side with our Long Sleeve Rugby Jersey in bold and vibrant yellow and green. Perfect for representing your team or country, this jersey is made for athletes who are ready to dominate on the field. Don't just play the game, make a statement with our stylish design.
-  Updated: 2026-06-01T17:54:47Z
+  Updated: 2026-07-08T18:39:14Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -158,7 +158,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Long Sleeve Rugby Jersey - Pink & White Polka Dot](https://teddyhensen.myshopify.com/products/long-sleeve-rugby-jersey-yellow-and-green-copy): Show off your sporty side with our Long Sleeve Rugby Jersey in bold and vibrant yellow and green. Perfect for representing your team or country, this jersey is made for athletes who are ready to dominate on the field. Don't just play the game, make a statement with our stylish design.
-  Updated: 2025-07-18T12:37:20Z
+  Updated: 2026-07-08T18:39:14Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -179,7 +179,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Soccer Jersey - Brazil 2025](https://teddyhensen.myshopify.com/products/soccer-jersey-brazilia-2025): Get ready to dominate on the field with our Soccer Jersey - Brazil 2025. With its bold design and comfortable fit, this jersey will have you scoring goals in no time. Represent your favorite team with pride and style, and be ready to take on any opponent. Show your sporty side with this must-have jersey.
-  Updated: 2025-07-16T00:08:56Z
+  Updated: 2026-07-08T18:39:14Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -200,7 +200,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Soccer Jersey - Rainbow](https://teddyhensen.myshopify.com/products/soccer-jersey-rainbow): Get ready to score big in style with our Soccer Jersey - Rainbow. This sporty jersey features a vibrant rainbow design that will make you stand out on the field. Made with high-quality materials, it offers both comfort and durability. Show off your love for the game with this one-of-a-kind jersey.
-  Updated: 2025-07-15T22:31:39Z
+  Updated: 2026-07-08T18:39:15Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -221,7 +221,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Soccer Jersey - Paint Splash](https://teddyhensen.myshopify.com/products/soccer-jersey-paint-splash): Stand out on the field with our Soccer Jersey in the vibrant Paint Splash design. Lightweight and durable, this jersey will keep you comfortable during every game. Show off your sporty side and dominate the competition with our unique and eye-catching jersey.
-  Updated: 2025-07-17T16:17:39Z
+  Updated: 2026-07-08T18:39:15Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -242,7 +242,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Soccer Jersey - Green with Orange Stripes](https://teddyhensen.myshopify.com/products/soccer-jersey-green-with-orange-stripes): Look and feel like a pro in this sporty Soccer Jersey. The vibrant green with orange stripes make you stand out on the field. Stay comfortable and stylish while you dominate the game. Unleash your inner champion with this jersey's winning colors.
-  Updated: 2025-07-16T02:22:04Z
+  Updated: 2026-07-08T18:39:15Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -263,7 +263,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Hockey Jersey: Red & White 🇨🇦](https://teddyhensen.myshopify.com/products/hockey-jersey-red-white): Get ready to hit the ice in style with our Hockey Jersey in Red & White. Show off your Canadian pride while staying cool and comfortable in this sporty jersey. Perfect for fans and players alike, our jersey is sure to elevate your hockey game.
-  Updated: 2025-07-16T23:12:08Z
+  Updated: 2026-07-08T18:39:16Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -284,7 +284,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Hockey Jersey: Rainbow](https://teddyhensen.myshopify.com/products/hockey-jersey-rainbow): Get ready to hit the ice in style with our Hockey Jersey in Red & White. Show off your Canadian pride while staying cool and comfortable in this sporty jersey. Perfect for fans and players alike, our jersey is sure to elevate your hockey game.
-  Updated: 2025-07-17T20:20:35Z
+  Updated: 2026-07-08T18:39:16Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -305,7 +305,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Hockey Jersey: Maple Splatter](https://teddyhensen.myshopify.com/products/hockey-jersey-rainbow-copy): Be a trailblazer on the ice with the Hockey Jersey: Maple Splatter. This sporty jersey features a unique maple splatter design that will make you stand out on the rink. Stay comfortable and stylish while dominating the game.
-  Updated: 2025-07-16T02:26:55Z
+  Updated: 2026-07-08T18:39:16Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -326,7 +326,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Hockey Jersey: Red, Black and Blue Stripes](https://teddyhensen.myshopify.com/products/hockey-jersey-maple-splatter-copy): Be a trailblazer on the ice with the Hockey Jersey: Maple Splatter. This sporty jersey features a unique maple splatter design that will make you stand out on the rink. Stay comfortable and stylish while dominating the game.
-  Updated: 2025-07-16T06:40:59Z
+  Updated: 2026-07-08T18:39:17Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -347,7 +347,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Soccer Jersey - White with Red](https://teddyhensen.myshopify.com/products/soccer-jersey-brazil-2025-copy): Gear up for your next match in style with our Soccer Jersey! With a sleek design featuring a white base and striking red accents, you'll look and feel like a true athlete on the field. Made from high-quality materials, this jersey offers comfort and durability, ensuring you can give your all during every game.
-  Updated: 2025-07-16T03:05:15Z
+  Updated: 2026-07-08T18:39:17Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -368,7 +368,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Soccer Jersey - Red with White](https://teddyhensen.myshopify.com/products/soccer-jersey-white-with-red-copy): Gear up for your next match in style with our Soccer Jersey! With a sleek design featuring a red base and striking white accents, you'll look and feel like a true athlete on the field. Made from high-quality materials, this jersey offers comfort and durability, ensuring you can give your all during every game.
-  Updated: 2025-07-15T21:23:19Z
+  Updated: 2026-07-08T18:39:17Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -389,7 +389,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Soccer Jersey - Navy Blue](https://teddyhensen.myshopify.com/products/soccer-jersey-red-with-white-copy): Step onto the field in style with our navy blue Soccer Jersey! Made with high-quality materials, this jersey is perfect for both practice and game day. With its comfortable fit and professional look, you'll be scoring goals and turning heads. Get yours today and dominate the field!
-  Updated: 2025-07-16T14:29:11Z
+  Updated: 2026-07-08T18:39:18Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -410,7 +410,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Soccer Jersey - Red, White and Blue Paint Splash](https://teddyhensen.myshopify.com/products/soccer-jersey-navy-blue-copy): Experience the power and beauty of the game in our Soccer Jersey - Red, White and Blue Paint Splash. With its vibrant colors and sleek design, this jersey will make you stand out on the field while providing you with ultimate comfort and mobility. Unleash your inner athlete and dominate the game with confidence.
-  Updated: 2025-07-17T15:49:01Z
+  Updated: 2026-07-08T18:39:18Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -431,7 +431,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Basketball Top - Women's Black with Orange Trim](https://teddyhensen.myshopify.com/products/football-jersey-black-and-white-copy-1): Take your game to the next level with our Women's Basketball Top in sleek Black with bold Orange Trim. Made for risk-takers, this top is designed with optimal movement in mind to help you dominate on the court. Elevate your confidence and style with this must-have basketball top.
-  Updated: 2025-04-30T23:51:48Z
+  Updated: 2026-07-08T18:39:18Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -452,7 +452,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Basketball Top - Men's Multi Colored Modernist](https://teddyhensen.myshopify.com/products/basketball-top-mens-multi-colored-modernist): Take your game to the next level with our Basketball Top - Men's Multi Colored Modernist. With its bold and modern design, you'll stand out on the court and show off your daring style. Made with high-quality material, this top will help you move with confidence and conquer any opponent. Upgrade your basketball wardrobe today!
-  Updated: 2025-04-30T23:51:49Z
+  Updated: 2026-07-08T18:39:19Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -473,28 +473,28 @@
     Availability: Available
     Price: $75.00 USD
 - [Golden Soccer Ball](https://teddyhensen.myshopify.com/products/golden-soccer-ball): Unleash your competitive spirit with our Golden Soccer Ball! This stunning trophy adds a touch of luxury to any game, motivating you to push your limits and strive for victory. Feel the rush as you kick and score with this elegant, must-have item for any soccer enthusiast.
-  Updated: 2025-05-12T06:41:52Z
+  Updated: 2026-07-08T18:39:19Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/2699/0102/files/Screenshot2024-10-29at1.21.45PM.png?v=1730222596
   Price: $150.00 USD
 - [Golden Basketball](https://teddyhensen.myshopify.com/products/golden-soccer-ball-copy): Unleash your competitive spirit with our Golden Basketball! This stunning trophy adds a touch of luxury to any game, motivating you to push your limits and strive for victory. Feel the rush as you kick and score with this elegant, must-have item for any basketball enthusiast.
-  Updated: 2025-04-30T23:51:50Z
+  Updated: 2026-07-08T18:39:19Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/2699/0102/files/Screenshot2024-10-29at1.22.03PM.png?v=1730222763
   Price: $150.00 USD
 - [Golden Tennis Ball](https://teddyhensen.myshopify.com/products/golden-tennis-ball): Unleash your competitive spirit with our Golden Basket Ball! This stunning trophy adds a touch of luxury to any game, motivating you to push your limits and strive for victory. Feel the rush as you kick and score with this elegant, must-have item for any soccer enthusiast.
-  Updated: 2025-04-30T23:51:49Z
+  Updated: 2026-07-08T18:39:20Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/2699/0102/files/Screenshot2024-10-29at1.21.51PM.png?v=1730222793
   Price: $150.00 USD
 - [Golden Baseball](https://teddyhensen.myshopify.com/products/golden-baseball): Unleash your competitive spirit with our Golden baseball! This stunning trophy adds a touch of luxury to any game, motivating you to push your limits and strive for victory. Feel the rush as you kick and score with this elegant, must-have item for any baseball enthusiast.
-  Updated: 2025-05-09T14:04:25Z
+  Updated: 2026-07-08T18:39:20Z
   Vendor: Teddy Hensen
   Product Type: 
   Availability: Available
@@ -504,34 +504,34 @@
 ## Collections
 
 - [Home page](https://teddyhensen.myshopify.com/collections/frontpage)
-  Updated: 2026-05-25T11:01:08Z
+  Updated: 2026-07-08T18:39:11Z
   Total Products: 18
 - [US Top Sellers](https://teddyhensen.myshopify.com/collections/us-top-selles)
-  Updated: 2025-03-03T14:02:40Z
+  Updated: 2026-07-08T18:39:11Z
   Total Products: 6
 - [Australia Best Sellers](https://teddyhensen.myshopify.com/collections/australia-best-sellers)
-  Updated: 2026-05-25T11:01:08Z
+  Updated: 2026-07-08T18:39:11Z
   Total Products: 4
 - [Brazil Best Sellers](https://teddyhensen.myshopify.com/collections/brazil-best-sellers)
-  Updated: 2025-01-28T18:44:27Z
+  Updated: 2026-07-08T18:39:11Z
   Total Products: 8
 - [Canadian Best Sellers](https://teddyhensen.myshopify.com/collections/canadian-best-selelrs)
-  Updated: 2025-01-28T18:44:27Z
+  Updated: 2026-07-08T18:39:11Z
   Total Products: 4
 - [B2B Best Sellers](https://teddyhensen.myshopify.com/collections/b2b-best-sellers)
-  Updated: 2026-05-25T11:01:08Z
+  Updated: 2026-07-08T18:39:12Z
   Total Products: 12
 - [UK Best Sellers](https://teddyhensen.myshopify.com/collections/uk-best-sellers)
-  Updated: 2025-01-28T18:44:27Z
+  Updated: 2026-07-08T18:39:12Z
   Total Products: 4
 - [Best sellers](https://teddyhensen.myshopify.com/collections/best-sellers)
-  Updated: 2025-03-03T14:02:40Z
+  Updated: 2026-07-08T18:39:12Z
   Total Products: 6
 - [North America Best Sellers](https://teddyhensen.myshopify.com/collections/north-america-best-sellers)
-  Updated: 2025-03-03T14:02:40Z
+  Updated: 2026-07-08T18:39:12Z
   Total Products: 4
 - [VIP exclusives](https://teddyhensen.myshopify.com/collections/vip-exclusives)
-  Updated: 2025-01-28T18:44:28Z
+  Updated: 2026-07-08T18:39:12Z
   Total Products: 4
 - [AVADA - Best Sellers](https://teddyhensen.myshopify.com/collections/avada-best-sellers)
   Updated: 2026-06-08T15:05:08Z
