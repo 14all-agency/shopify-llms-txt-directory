@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2017-06-22T06:41:36Z
 - Contact Email: online@hgmw.co.za
-- Updated At: 2026-07-03T11:13:04.571Z
+- Updated At: 2026-07-12T00:00:40.939Z
 
 ## Products
 
@@ -609,17 +609,17 @@
   Updated: 2025-12-04T06:40:34Z
   Total Products: 1
 - [Pro Audio](https://www.harrygreenmusicworld.co.za/collections/pro-audio)
-  Updated: 2026-07-03T11:06:23Z
-  Total Products: 697
+  Updated: 2026-07-10T10:49:32Z
+  Total Products: 720
 - [Pro Audio Live Sound](https://www.harrygreenmusicworld.co.za/collections/live-sound)
-  Updated: 2026-07-03T10:44:17Z
-  Total Products: 374
+  Updated: 2026-07-09T12:56:36Z
+  Total Products: 381
 - [Studio](https://www.harrygreenmusicworld.co.za/collections/studio)
-  Updated: 2026-07-03T11:06:23Z
-  Total Products: 439
+  Updated: 2026-07-09T12:56:36Z
+  Total Products: 451
 - [Headphones](https://www.harrygreenmusicworld.co.za/collections/headphones)
-  Updated: 2026-07-03T10:43:16Z
-  Total Products: 61
+  Updated: 2026-07-08T09:54:48Z
+  Total Products: 67
 - [Lighting & Stage Effects](https://www.harrygreenmusicworld.co.za/collections/lighting-stage-effects)
   Updated: 2026-06-19T09:13:11Z
   Total Products: 20
@@ -627,14 +627,14 @@
   Updated: 2026-07-01T11:03:03Z
   Total Products: 726
 - [Keys](https://www.harrygreenmusicworld.co.za/collections/keys)
-  Updated: 2026-07-01T10:38:42Z
-  Total Products: 211
+  Updated: 2026-07-10T10:59:01Z
+  Total Products: 218
 - [Drums](https://www.harrygreenmusicworld.co.za/collections/drums)
-  Updated: 2026-06-29T10:58:17Z
-  Total Products: 225
+  Updated: 2026-07-10T10:52:41Z
+  Total Products: 228
 - [Strings](https://www.harrygreenmusicworld.co.za/collections/strings)
-  Updated: 2026-06-22T09:38:52Z
-  Total Products: 83
+  Updated: 2026-07-08T07:27:14Z
+  Total Products: 84
 - [Drums Percussion](https://www.harrygreenmusicworld.co.za/collections/percussion)
   Updated: 2026-06-19T09:13:12Z
   Total Products: 18
@@ -642,23 +642,23 @@
   Updated: 2026-06-08T09:38:28Z
   Total Products: 1
 - [Studio Interfaces](https://www.harrygreenmusicworld.co.za/collections/interfaces)
-  Updated: 2026-06-18T06:47:20Z
-  Total Products: 20
+  Updated: 2026-07-08T08:18:52Z
+  Total Products: 21
 - [Studio Monitors](https://www.harrygreenmusicworld.co.za/collections/studio-monitors)
-  Updated: 2026-06-30T11:40:01Z
-  Total Products: 29
+  Updated: 2026-07-08T09:39:30Z
+  Total Products: 34
 - [Studio Microphones](https://www.harrygreenmusicworld.co.za/collections/studio-microphones)
-  Updated: 2026-07-02T05:14:52Z
-  Total Products: 131
+  Updated: 2026-07-08T10:04:49Z
+  Total Products: 136
 - [Studio Mixers](https://www.harrygreenmusicworld.co.za/collections/studio-mixers)
   Updated: 2026-06-30T11:39:57Z
   Total Products: 50
 - [Studio Recording Gear](https://www.harrygreenmusicworld.co.za/collections/recording-gear)
-  Updated: 2026-07-03T11:06:23Z
+  Updated: 2026-07-07T07:38:21Z
   Total Products: 29
 - [Pro Audio Live Microphones](https://www.harrygreenmusicworld.co.za/collections/live-microphones)
-  Updated: 2026-07-03T10:44:17Z
-  Total Products: 53
+  Updated: 2026-07-08T10:16:20Z
+  Total Products: 68
 - [Racks & Cases](https://www.harrygreenmusicworld.co.za/collections/racks-cases)
   Updated: 2026-07-02T12:22:35Z
   Total Products: 22
@@ -666,14 +666,14 @@
   Updated: 2026-06-26T09:14:32Z
   Total Products: 120
 - [Brass & Wind](https://www.harrygreenmusicworld.co.za/collections/wind-brass)
-  Updated: 2026-06-06T15:35:50Z
-  Total Products: 18
+  Updated: 2026-07-10T10:59:21Z
+  Total Products: 19
 - [Auctions](https://www.harrygreenmusicworld.co.za/collections/auction-today)
   Updated: 2025-12-04T06:40:37Z
   Total Products: 1
 - [Buy](https://www.harrygreenmusicworld.co.za/collections/browse)
-  Updated: 2026-07-03T11:12:58Z
-  Total Products: 3608
+  Updated: 2026-07-10T13:49:27Z
+  Total Products: 3693
 - [Stentor](https://www.harrygreenmusicworld.co.za/collections/stentor)
   Updated: 2026-06-08T09:38:32Z
   Total Products: 11
@@ -681,7 +681,7 @@
   Updated: 2026-06-19T09:13:09Z
   Total Products: 161
 - [Pro Audio Cables](https://www.harrygreenmusicworld.co.za/collections/pro-audio-cables)
-  Updated: 2026-07-02T06:42:42Z
+  Updated: 2026-07-06T09:58:00Z
   Total Products: 61
 - [Keys MIDI](https://www.harrygreenmusicworld.co.za/collections/keys-midi)
   Updated: 2026-06-30T11:40:01Z
@@ -693,17 +693,17 @@
   Updated: 2026-06-19T06:11:40Z
   Total Products: 9
 - [Keys Keyboards](https://www.harrygreenmusicworld.co.za/collections/keys-keyboards)
-  Updated: 2026-07-01T10:38:42Z
-  Total Products: 88
+  Updated: 2026-07-10T10:52:08Z
+  Total Products: 87
 - [Studio Accessories](https://www.harrygreenmusicworld.co.za/collections/accessories-studio)
-  Updated: 2026-07-02T12:22:36Z
+  Updated: 2026-07-07T11:03:03Z
   Total Products: 140
 - [Media Player](https://www.harrygreenmusicworld.co.za/collections/media-player)
   Updated: 2026-06-06T18:13:52Z
   Total Products: 1
 - [Drums Accessories](https://www.harrygreenmusicworld.co.za/collections/drums-accessories)
-  Updated: 2026-06-26T08:24:53Z
-  Total Products: 142
+  Updated: 2026-07-10T10:52:41Z
+  Total Products: 145
 - [Guitar Accessories](https://www.harrygreenmusicworld.co.za/collections/guitar-accessories)
   Updated: 2026-07-01T11:03:03Z
   Total Products: 378
@@ -720,8 +720,8 @@
   Updated: 2026-06-19T09:13:09Z
   Total Products: 30
 - [Keys Accessories](https://www.harrygreenmusicworld.co.za/collections/keys-accessories)
-  Updated: 2026-06-19T10:52:50Z
-  Total Products: 38
+  Updated: 2026-07-10T10:59:01Z
+  Total Products: 46
 - [Strings Violin](https://www.harrygreenmusicworld.co.za/collections/strings-violin)
   Updated: 2026-06-22T09:38:52Z
   Total Products: 24
@@ -735,11 +735,11 @@
   Updated: 2026-06-08T09:38:28Z
   Total Products: 2
 - [Strings Accessories](https://www.harrygreenmusicworld.co.za/collections/strings-accessories)
-  Updated: 2026-06-08T09:38:28Z
-  Total Products: 61
+  Updated: 2026-07-08T07:27:14Z
+  Total Products: 62
 - [Pro Audio Accessories](https://www.harrygreenmusicworld.co.za/collections/pro-audio-accessories)
-  Updated: 2026-07-03T05:36:03Z
-  Total Products: 148
+  Updated: 2026-07-10T10:34:00Z
+  Total Products: 151
 - [Keys Grand](https://www.harrygreenmusicworld.co.za/collections/keys-grand)
   Updated: 2026-06-06T18:21:22Z
   Total Products: 8
@@ -794,6 +794,18 @@
     Author: HGMW
   - [FAQ: Common Beginner Questions About Acoustic Guitar Buying](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/faq-common-beginner-questions-about-acoustic-guitar-buying): FAQ: Common Beginner Questions About Acoustic Guitar Buying
     Updated: 2026-07-01T02:32:08Z
+    Author: HGMW
+  - [Exploring Affordable Options: Top Acoustic Guitars for Beginners](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/exploring-affordable-options-top-acoustic-guitars-for-beginners): Exploring Affordable Options: Top Acoustic Guitars for Beginners
+    Updated: 2026-07-04T00:43:44Z
+    Author: HGMW
+  - [The Trending Affordable Acoustic Guitars for New Players](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/the-trending-affordable-acoustic-guitars-for-new-players): The Trending Affordable Acoustic Guitars for New Players
+    Updated: 2026-07-06T02:22:46Z
+    Author: HGMW
+  - [Beginner's Step-by-Step Tutorial to Mastering the Acoustic Guitar](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/beginners-step-by-step-tutorial-to-mastering-the-acoustic-guitar): Beginner's Step-by-Step Tutorial to Mastering the Acoustic Guitar
+    Updated: 2026-07-08T02:08:50Z
+    Author: HGMW
+  - [Affordable Acoustic Guitars for Beginner Musicians: A Complete Overview](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/affordable-acoustic-guitars-for-beginner-musicians-a-complete-overview): Affordable Acoustic Guitars for Beginner Musicians: A Complete Overview
+    Updated: 2026-07-11T00:51:12Z
     Author: HGMW
 
 ## Store Pages
