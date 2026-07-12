@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2026-05-18T17:02:00Z
 - Contact Email: replaxstore@gmail.com
-- Updated At: 2026-07-01T17:57:06.444Z
+- Updated At: 2026-07-12T00:00:26.408Z
 
 REPLAX-ONE es una tienda online especializada en productos para el cuidado, bienestar, higiene y comodidad de perros y gatos en Colombia.
 
@@ -19,25 +19,18 @@ Idioma principal: español
 ## Products
 
 - [CEPILLO PARA MASCOTAS DESENREDADOR](https://www.replax-one.com/products/cepillo-para-mascotas-desenredador): Cepillo quita nudos para mascotasAdecuado para todos los gatos y perros, hace que el cabello de su mascota sea natural, sedoso y saludable.MATERIAL: Está hecho de plástico ABS y una aguja de acero inoxidable.LIMPIEZA DEL CEPILLO: con un diseño retráctil, puede eliminar el vello que queda en el cepillo con solo tocar un botón, lo que ahorra tiempo y energía.- Fácil de usar, duradero, elegante y hermoso.- La capa redonda de la aguja del peine puede eliminar suavemente el vello sin dañar la piel y disfrutar de un cómodo masaje.MANGO ANTIDESLIZANTE: el mango ergonómico es antideslizante y fácil de agarrar.El Paquete Incluye:1 cepillo quita nudosColores disponiblesCondición:- La garantía no cubre daños por caídas, o mal uso del producto-- La garantía cubre defectos de fabrica y funcionamiento.
-  Updated: 2026-07-01T08:48:58Z
+  Updated: 2026-07-03T09:14:22Z
   Vendor: REPLAX-ONE
   Product Type: Mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/1780773394Captura_20de_20pantalla_202026-06-06_20141048.png?v=1782234204
+  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/FF1.jpg?v=1783026772
   Price: 35.000,00 $ COP
-- [Cepillo Removedor Pelo Mascotas Secado](https://www.replax-one.com/products/cepillo-removedor-pelo-mascotas-secado): Mantén el pelaje de tu mascota limpio, ordenado y libre de pelo suelto con este práctico cepillo multifuncional. Su estructura está diseñada para facilitar el cepillado diario, ayudando a retirar residuos, nudos ligeros y exceso de pelo mientras proporciona una experiencia más cómoda para el animal.Incorpora una función de secado que permite reducir la humedad del pelaje después del baño, favoreciendo una rutina de cuidado más rápida y eficiente. Su formato ergonómico facilita el manejo durante sesiones prolongadas, brindando mayor control en cada movimiento.Es una excelente alternativa para perros de distintos tamaños y tipos de pelaje. Ideal para complementar la higiene diaria, mejorar la apariencia del manto y contribuir al bienestar general de la mascota tanto en el hogar como en espacios de cuidado animal.Caracteristicas:v Cepillo para cuidado e higiene de mascotasv Ayuda a retirar pelo suelto acumuladov Funcion de secado integradav Facilita el mantenimiento del pelajev Mango ergonomico para mejor agarrev Adecuado para uso domestico diariov Favorece una apariencia mas ordenada del manto
-  Updated: 2026-07-01T08:46:24Z
-  Vendor: REPLAX-ONE
-  Product Type: Mascotas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/2IfUl.jpg?v=1782852338
-  Price: 60.000,00 $ COP
 - [Cepillo Secador Para Mascotas 2 En 1](https://www.replax-one.com/products/cepillo-secador-para-mascotas-2-en-1): Cepillo Secador Plus Solutions 2 En 1 Para Mascotas. Descripción: - Secador de pelo portátil para perros 2 en 1, secador de pelo para perros, gatos y cepillo para peinar para mascotas. - Secado durante el cuidado: nuestro secador de pelo para mascotas se puede utilizar para secar a tu mascota peluda después de su ducha, o un secado rápido después de un paseo lluvioso. Durante el secado, también puedes cepillar la piel y la capa inferior de tu bebé peludo, más cómodo y ahorra tiempo. - Dos ciclos de calor de ahorro de energía: específicamente diseñado para perros y gatos pequeños y medianos, este secador proporciona calor alto y bajo para ayudarte a secar rápidamente a tus bebés esponjosos, ahorrando energía con un consumo de energía de 300 W. - Brocha con un espacio más ajustado: los pines espaciados más cerca funcionan mejor para razas con capas más cortas y menos piel para quitar alfombrillas y enredos. El espacio más estrecho entre las cerdas también permite un cepillado profundo sin dañar los pelajes de las mascotas. - Funcionamiento silencioso: el secador de pelo para mascotas de bajo ruido con tecnología silenciosa ayuda a secar el pelo de tu mascota mientras mantiene el ruido hacia abajo, nunca asustar a tus mascotas. - Diseño ergonómico y portátil: este secador ligero pesa sólo 350 grs y viene con un diseño ergonómico que hace que sea fácil de manejar y usar, y se puede llevar fácilmente a todas partes.
-  Updated: 2026-07-01T08:45:54Z
+  Updated: 2026-07-02T16:17:45Z
   Vendor: REPLAX-ONE
   Product Type: Mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/2IfUl.jpg?v=1782852338
+  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/1758637254cepillo_20mascota.png?v=1782234420
   Price: 60.000,00 $ COP
 - [CEPILLO CALABAZA PARA MASCOTAS](https://www.replax-one.com/products/cepillo-calabaza-para-mascotas): Cepillo Peine Removedor De Pelo Para Mascotas Gatos Perros Práctico peine de pelo para mascotas Ideal para mantener a su gato o perro con un aspecto impecable, este cepillo facilita el desenredado del pelo y proporciona un efecto de masaje. CARACTERÍSTICAS: - Sencillo de limpiar y manejar - Cerdas metálicas con extremos revestidos en plástico - Mecanismo con botón para eliminar con facilidad el pelo acumulado CONTENIDO DEL PAQUETE: 1 Cepillo Peine
   Updated: 2026-07-01T11:48:34Z
@@ -54,18 +47,18 @@ Idioma principal: español
   Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/F3bXs.jpg?v=1782852134
   Price: 30.000,00 $ COP
 - [CEPILLO ELECTRICO MATAPULGAS](https://www.replax-one.com/products/cepillo-electrico-matapulgas): 📲 Consulta Disponibilidad Antes de Comprar ✔️El stock puede variar según el producto. Escríbenos por WhatsApp para confirmar existencias antes de realizar tu pedido. ¡Estamos aquí para ayudarte! 😊 Unidades por pack: 1Formato de venta: UnidadTamaño de la raza: TodasLargo del pelaje recomendado: MedioFormato: peine.Recomendado para perro.Cerdas de acero inoxidable.Material del mango: plástico.Ónix Mayorista desea que tu compra sea exitosa 🥳por eso tenemos las siguientes novedades para responder tus garantías1. Recuerda que el cliente debe revisar el producto apenas llegue . Y notificar si cuenta con alguna novedad .2. ⁠Si la orden está incompleta notificar de manera inmediata . No avisar días después del cliente haber recibido su pedido. (De lo contrario no sé responde)3. ⁠Si el producto llega con alguna fisura notificar de manera inmediata . De lo contrario si notifica días después de haberlo recibido no se podrá responder debido a que no se sabrá si fue mal uso del usuario.4. ⁠ No nos hacemos responsables por mal uso del usuario .5. Productos por mal trato de transportadora notificar a Dropi.6. La mayoría de nuestro productos van empacados con papel burbuja y vinipel. Para evitar daños por la transportadora.GARANTÍA DE 15-25 DÍAS HÁBILES
-  Updated: 2026-07-01T08:45:05Z
+  Updated: 2026-07-03T09:33:54Z
   Vendor: REPLAX-ONE
   Product Type: Mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/AYHe2.jpg?v=1782852259
+  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/AA6.jpg?v=1783028002
   Price: 25.000,00 $ COP
 - [CEPILLO 3 EN 1 MASCOTAS](https://www.replax-one.com/products/cepillo-3-en-1-mascotas): Dale brillo al pelaje de tu mascota con este cepillo 3 en 1, resuelve enredos y pelo atado, siendo esencial para dueños de gatos y perros. Mantiene la piel de tu mascota sana y radiante.Garantía de 1 mes por defectos de fabrica
-  Updated: 2026-07-01T11:47:05Z
+  Updated: 2026-07-03T02:58:21Z
   Vendor: REPLAX-ONE
   Product Type: Tecnologia
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/1757635519PORTADAS_20DE_20PRODUCTO__20DROPI_20_7.jpg?v=1782234585
+  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/E3.jpg?v=1783010002
   Price: 20.000,00 $ COP
 - [Peine Removedor de Pelo Mascotas](https://www.replax-one.com/products/peine-removedor-de-pelo-mascotas): Cepillo Removedor de Pelo para Perros y Gatos Mantén el pelaje de tu mascota limpio, suave y libre de pelo suelto. Sus cerdas metálicas con puntas protegidas ayudan a desenredar sin lastimar la piel, mientras brindan un masaje relajante durante el cepillado. Beneficios: Retira pelo suelto y pequeños nudos. Ayuda a mantener el pelaje más limpio. Masaje suave y agradable. Fácil de usar y limpiar. Ideal para perros y gatos. Garantía: Hasta 10 días para reportar productos incompletos, incorrectos o con defectos de fábrica. Garantía de 30 días por fallas de funcionamiento no causadas por mal uso.
   Updated: 2026-07-01T10:15:10Z
@@ -109,30 +102,52 @@ Idioma principal: español
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/17512187391.png?v=1782859907
   Price: 45.000,00 $ COP
-- [Cepillo Vapor Mascotas](https://www.replax-one.com/products/cepillo-vapor-mascotas): Descubre la innovación con nuestro Cepillo de Huella con Vapor, diseñado para mimar a tus peludos como nunca antes. Este elegante cepillo no solo desenreda y alisa el pelaje, sino que también emite vapor relajante para una experiencia de peinado lujosa y libre de nudos.Características destacadas:Vapor Suave y Eficaz: El vapor elimina enredos y suaviza el pelaje, dejando a tu mascota con un acabado sedoso y brillante.Diseño Ergonómico: Con una forma que se adapta perfectamente a tu mano, para un uso cómodo y sin esfuerzo.Fácil de Usar: Simplemente llena el depósito de agua, enciende el vapor y disfruta de un pelaje sin enredos en minutos.Ideal para Todos los Tamaños: Perfecto para gatos y perros de todas las razas y tamaños, brindando un cuidado profesional en casa.Dale a tu mascota el trato de spa que se merece con el Cepillo de Huella con Vapor. La caja incluye:1 cepillo1 cable de carga USBDetalles del producto:Material: ABSTamaño del Producto: 10 x 5 x 7 cmGARANTÍA:Producto roto 10 díasOrden distinta 10 díasOrden incompleta 10 díasMal funcionamiento 30 díasPARA GESTIONAR CUALQUIER GARANTIA CON RESPECTO AL PRODUCTO, POR FAVOR TENER LA FOTO O VIDEO DE LA GUIA FISICA QUE LE LLEGA AL CLIENTE AL MOMENTO DE RECIBIR EL PRODUCTO.
-  Updated: 2026-07-01T10:56:05Z
+- [Cepillo Vapor Mascotas](https://www.replax-one.com/products/cepillo-vapor-mascotas): Cepillo de Huella con Vapor para Perros y Gatos Bríndale a tu mascota una experiencia de cuidado más cómoda con este práctico cepillo de huella con vapor. Su diseño combina cepillado, masaje y humidificación ligera para ayudar a retirar el pelo suelto, suavizar el pelaje y facilitar el desenredado. Ideal para perros y gatos de distintos tamaños y tipos de pelo, permite realizar una rutina de cuidado en casa de forma rápida, sencilla y agradable. Beneficios principales Ayuda a desenredar y alisar el pelaje. Contribuye a retirar el pelo suelto. La pulverización ligera ayuda a reducir la estática. Masajea suavemente la piel de la mascota. Favorece un pelaje más suave, limpio y brillante. Apto para perros y gatos de diferentes razas y tamaños. Diseño compacto, ligero y fácil de utilizar. Características destacadas Pulverización suave y uniformeHumedece ligeramente el pelaje para facilitar el cepillado y ayudar a controlar el pelo suelto. Diseño ergonómicoSu forma se adapta cómodamente a la mano, permitiendo un mejor control durante el uso. Uso sencilloSolo debes llenar el depósito con agua, encender la función de pulverización y comenzar a cepillar suavemente. Cuidado en casaIdeal para mantener el pelaje de tu mascota en mejores condiciones sin necesidad de procesos complicados. Modo de uso Llena el depósito con una pequeña cantidad de agua. Enciende la función de pulverización. Cepilla suavemente siguiendo la dirección natural del pelaje. Retira el pelo acumulado después de cada uso. Limpia y seca el cepillo antes de guardarlo. Evita dirigir la pulverización hacia los ojos, nariz, boca, oídos o zonas sensibles de la mascota. Detalles del producto Material: ABS. Tamaño aproximado: 10 × 5 × 7 cm. Uso recomendado: Perros y gatos. Tipo de producto: Cepillo con pulverización y masaje. Carga: Mediante cable USB. Contenido de la caja 1 cepillo de huella con vapor. 1 cable de carga USB. Garantía Producto roto: 10 días. Producto diferente al solicitado: 10 días. Pedido incompleto: 10 días. Fallas de funcionamiento: 30 días. Para gestionar cualquier garantía, es indispensable conservar la guía física del envío y presentar fotografías o videos claros del producto, del empaque y de la guía recibida.
+  Updated: 2026-07-03T05:27:18Z
   Vendor: REPLAX-ONE
   Product Type: Mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/174318412161eSfuTSJyL._AC_SL1500.jpg?v=1782860162
+  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/F1.jpg?v=1783012940
   - [ROSADO](https://www.replax-one.com/products/cepillo-vapor-mascotas?variant=43763185385546)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/F8_c94a3ca7-3011-40f6-863c-a93598320f11.jpg?v=1783013139
     Price: 60.000,00 $ COP
   - [VERDE](https://www.replax-one.com/products/cepillo-vapor-mascotas?variant=43763185418314)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/F7_24c74c55-9476-43d5-a449-5edb4b974f78.jpg?v=1783013151
     Price: 60.000,00 $ COP
-- [Cepillo Vaporizador Mascotas](https://www.replax-one.com/products/cepillo-vaporizador-mascotas): Bienvenidos a Sansatienda:Limpiador 3 en 1 de Silicona para Mascotas – Cepillo, Masajeador y Spray de Vapor.Mantén a tu gato limpio, relajado y libre de pelo suelto con este limpiador 3 en 1 de silicona con spray de vapor. Diseñado para gatos de pelo corto y largo, combina función de cepillado, masaje y humidificación ligera para facilitar la limpieza y mejorar la experiencia de tu mascota.Su diseño ergonómico y cerdas de goma suaves permiten eliminar el pelo muerto de forma segura, mientras el spray de vapor ayuda a suavizar el pelaje y reducir la estática. Puede funcionar con batería recargable vía USB o con pilas, lo que lo hace práctico y portátil.Ideal para el cuidado diario y para mantener la higiene y el bienestar de tu gato en cualquier momento y lugar.BENEFICIOS- Elimina eficazmente el pelo suelto y reduce la caída.- Masajea suavemente, mejorando la circulación y reduciendo el estrés del gato.- Spray de vapor que suaviza el pelaje y facilita la limpieza.- Cerdas de goma suaves, seguras para la piel y adecuadas para gatos de pelo largo y corto.Funciona con batería recargable vía USB o con pilas para mayor portabilidad.Ligero y fácil de manejar, ideal para uso diario.Ayuda a mantener la casa más limpia al reducir la cantidad de pelo flotante.FICHA TÉCNICA:Tipo: Cepillo limpiador y masajeador 3 en 1 para gatos.- Material del cuerpo: Plástico resistente.- Material de cerdas: Goma de silicona suave.- Funciones: Cepillado, masaje y spray de vapor.- Fuente de alimentación: Recargable por USB y compatible con pilas.- Uso recomendado: Mascotas de pelo corto y largo.- Peso: Ligero y portátil.Que Incluye tu compra:- 1 limpiador 3 en 1 de silicona con spray de vapor.- Cable de carga USB.- Manual de uso.Somos Sansatienda, 16 años en el Mercado. Productos 100% garantizados. Envios a todo el país.Garantía del vendedor: 1 meses
-  Updated: 2026-07-01T10:56:53Z
+- [Cepillo Vaporizador Mascotas](https://www.replax-one.com/products/cepillo-vaporizador-mascotas): Limpiador 3 en 1 para Mascotas con Cepillo, Masajeador y Spray Mantén el pelaje de tu mascota limpio, suave y libre de pelo suelto con este práctico limpiador 3 en 1. Su diseño combina cepillado, masaje y pulverización ligera, facilitando el cuidado diario de gatos y perros de pelo corto o largo. Las cerdas suaves de silicona ayudan a retirar el pelo muerto sin lastimar la piel, mientras que la función de spray humedece ligeramente el pelaje para reducir la estática y facilitar la limpieza. Su mango ergonómico permite utilizarlo cómodamente con una sola mano. Es una excelente opción para mantener a tu mascota más cómoda y reducir la acumulación de pelo en muebles, ropa y diferentes espacios del hogar. Beneficios principales Ayuda a retirar eficazmente el pelo suelto. Contribuye a reducir la caída de pelo dentro del hogar. Masajea suavemente la piel de la mascota. Favorece una experiencia de cepillado más cómoda y relajante. La pulverización ligera ayuda a suavizar y controlar el pelaje. Cerdas de silicona suaves y seguras para la piel. Adecuado para mascotas de pelo corto y largo. Diseño ligero, portátil y fácil de utilizar. Ideal para el cuidado frecuente de perros y gatos. Ficha técnica Tipo: Cepillo limpiador y masajeador 3 en 1. Funciones: Cepillado, masaje y spray humidificador. Material del cuerpo: Plástico resistente. Material de las cerdas: Silicona suave. Alimentación: Batería recargable mediante cable USB. Uso recomendado: Perros y gatos de pelo corto o largo. Diseño: Ergonómico, ligero y portátil. Color: Blanco con detalles verdes. Contenido de la compra 1 limpiador 3 en 1 para mascotas. 1 cable de carga USB. 1 manual de uso. Recomendaciones de uso Agrega una pequeña cantidad de agua en el depósito, enciende la función de pulverización y cepilla suavemente siguiendo la dirección natural del pelaje. Después de utilizarlo, retira el pelo acumulado y limpia las cerdas. No utilices el producto directamente sobre los ojos, nariz, boca, oídos o zonas sensibles de la mascota. Compra con confianza Somos Sansatienda, con 16 años de experiencia en el mercado. Ofrecemos productos garantizados y realizamos envíos a todo el país. Garantía del vendedor: 1 mes.
+  Updated: 2026-07-03T04:56:44Z
   Vendor: REPLAX-ONE
   Product Type: Mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/1755799043cepillo_20masc_201.png?v=1782860210
+  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/T7.jpg?v=1783011349
   - [CAFE](https://www.replax-one.com/products/cepillo-vaporizador-mascotas?variant=43763187744842)
     Availability: Available
-    Price: 10.000,00 $ COP
+    Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/T8_5d4eda29-9b02-4bbe-abfe-4960c3280270.jpg?v=1783011471
+    Price: 50.000,00 $ COP
   - [ROSADO](https://www.replax-one.com/products/cepillo-vaporizador-mascotas?variant=43763187777610)
     Availability: Available
-    Price: 10.000,00 $ COP
+    Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/T9_a2aa0ff2-2316-4974-aedd-21d022322ffa.jpg?v=1783011488
+    Price: 50.000,00 $ COP
+- [BEBEDERO DE MASCOTA 350ml](https://www.replax-one.com/products/bebedero-de-mascota): Bebedero Portátil para Mascotas de 350 ml Mantén a tu mascota hidratada durante paseos, viajes y actividades al aire libre con este práctico bebedero portátil de 350 ml. Su diseño compacto y funcional permite ofrecer agua de manera rápida, cómoda y segura en cualquier momento. Cuenta con un botón de salida de agua y un switch de seguridad que ayuda a evitar derrames accidentales dentro del bolso, mochila o vehículo. Además, incluye una correa para la mano que facilita su transporte durante caminatas y aventuras con tu mascota. Es ideal para perros y gatos, especialmente en días calurosos, paseos largos o trayectos en los que es importante prevenir la deshidratación y los golpes de calor. Beneficios principales Capacidad de 350 ml. Sistema antiderrame con switch de seguridad. Botón de fácil uso para liberar el agua. Diseño portátil, ligero y cómodo. Incluye correa para llevarlo en la mano. Ideal para paseos, viajes y actividades al aire libre. Ayuda a mantener a tu mascota hidratada en todo momento. Apto para perros y gatos. Material seguro Fabricado en ABS resistente y no tóxico, pensado para un uso práctico y seguro durante el día a día. Modo de uso Llena el depósito con agua. Desbloquea el switch de seguridad. Presiona el botón para que el agua salga hacia el recipiente. Al finalizar, vuelve a bloquear el switch para evitar derrames. Ideal para Caminatas Paseos al parque Viajes en carro Excursiones Días calurosos Actividades al aire libre Contenido del paquete 1 bebedero portátil de 350 ml. 1 correa de transporte. Realiza tus consultas con confianza. Estamos disponibles para responderte rápidamente.
+  Updated: 2026-07-03T03:47:31Z
+  Vendor: REPLAX-ONE
+  Product Type: Mascotas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/M4_1ed9dc39-8f4a-40d6-a24c-6bbde4a67d0a.jpg?v=1783007268
+  - [AZUL](https://www.replax-one.com/products/bebedero-de-mascota?variant=43767566467146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/M1.jpg?v=1783007234
+    Price: 30.000,00 $ COP
+  - [BLANCO](https://www.replax-one.com/products/bebedero-de-mascota?variant=43767566499914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/M3.jpg?v=1783007234
+    Price: 30.000,00 $ COP
+  - [ROSADO](https://www.replax-one.com/products/bebedero-de-mascota?variant=43767566532682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0709/9603/3610/files/M2.jpg?v=1783007234
+    Price: 30.000,00 $ COP
 
 ## Collections
 
