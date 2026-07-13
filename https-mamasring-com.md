@@ -43,7 +43,7 @@ The website includes an interactive jewelry builder that helps customers preview
 - Contact Email: emeloul@aol.com
 - Contact Phone: (800)709-9445
 - Address: Central Diamond Center, 818 South Central Expressway, Suite 1 Richardson, Texas 75080, USA
-- Updated At: 2026-07-06T00:00:45.561Z
+- Updated At: 2026-07-13T00:00:46.926Z
 
 # Mama’s Ring
 
@@ -133,7 +133,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-06-12T04:40:12Z
   Price: $15.90 USD
 - [Princess Mothers Ring with 1–6 Simulated Birthstones in Silver or Gold](https://mamasring.com/products/nana-jewels-princess-with-side-czs-mothers-ring-with-1-to-6-birthstones-in-sterling-silver-10k-or-14k-white-yellow-or-rose-gold): Custom princess-style mothers ring with 1 to 6 simulated birthstones in 10K, 14K gold or sterling silver.
-  Updated: 2026-06-12T04:45:52Z
+  Updated: 2026-07-06T12:32:19Z
   Price: $109.95 USD
 - [Dec - Zircon, Natural (+$29.50)](https://mamasring.com/products/dec-zircon-natural-29-50)
   Updated: 2026-06-12T04:40:12Z
