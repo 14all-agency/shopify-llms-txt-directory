@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-12T21:12:24Z
 - Contact Email: mrgandwife@gmail.com
-- Updated At: 2026-07-03T00:00:45.958Z
+- Updated At: 2026-07-13T00:00:44.884Z
 
 ## Products
 
@@ -125,13 +125,13 @@
 
 ## Collections
 
-- [Wheat Pennies & Indian Head Penny Rolls for  — Al the Penny Guy](https://al-the-penny-guy.myshopify.com/collections/pennies): Shop unsearched rolls of wheat pennies and Indian end penny rolls. Classic Lincoln cents & rare finds for collectors — Al the Penny Guy.
+- [Collectible Pennies for ](https://al-the-penny-guy.myshopify.com/collections/pennies): Shop unsearched rolls of wheat pennies and Indian end penny rolls. Classic Lincoln cents & rare finds for collectors — Al the Penny Guy.
   Updated: 2026-05-26T16:31:52Z
   Total Products: 2
-- [Stress Balls & Fidget Sensory Toys for All Ages — Al the Penny Guy](https://al-the-penny-guy.myshopify.com/collections/stress-balls-and-fidget-toys): Shop fun stress balls and fidget sensory toys at Al the Penny Guy. Perfect for stress relief, focus, and gifting. Great for kids and adults alike.
+- [Sensory stress toys](https://al-the-penny-guy.myshopify.com/collections/stress-balls-and-fidget-toys): Shop fun stress balls and fidget sensory toys at Al the Penny Guy. Perfect for stress relief, focus, and gifting. Great for kids and adults alike.
   Updated: 2026-05-26T16:31:52Z
   Total Products: 1
-- [Dollar Coins for Collectors – Presidential, Sacagawea & Eisenhower | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/collections/dollar-coins): Shop Presidential, Sacagawea, and Eisenhower Dollar Coins. Authentic US collectibles for every collector and history lover. Ships fast from Al the Penny Guy.
+- [Collectible American Dollar Coins  – Presidential, Sacagawea & Eisenhower | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/collections/dollar-coins): Shop Presidential, Sacagawea, and Eisenhower Dollar Coins. Authentic US collectibles for every collector and history lover. Ships fast from Al the Penny Guy.
   Updated: 2026-05-26T16:31:52Z
   Total Products: 12
 - [half dollars](https://al-the-penny-guy.myshopify.com/collections/half-dollars)
