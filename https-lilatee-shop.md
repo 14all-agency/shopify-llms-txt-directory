@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-11-11T17:29:16Z
 - Contact Email: info@lilatee.shop
-- Updated At: 2026-07-06T00:00:40.293Z
+- Updated At: 2026-07-13T11:11:49.145Z
 
 ## German description:
 
@@ -18,84 +18,84 @@ LILATEE ist eine Premium Teemarke aus Deutschland, inspiriert von der Eleganz un
 ## Products
 
 - [Spring Miracle Blüten- & Malventee, koffeinfrei | LILATEE](https://lilatee.shop/products/spring-miracle-malventee): Spring Miracle von LILATEE ist ein koffeinfreier Blüten- und Malventee mit Malve, Orangenblüten, Damaszenerrose und Zitronenverbene.
-  Updated: 2026-07-03T14:19:36Z
+  Updated: 2026-07-06T13:15:51Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Spring_Miracle_LILA_TEE_Orangenblueten_Malvenblueten_Damaszenerrose_Produktverpackung_Frontansicht.jpg?v=1772548377
   Price: 12,99 € EUR
 - [Lady Moon Fenchel-Kamille-Tee mit Quitte, koffeinfrei | LILATEE](https://lilatee.shop/products/lady-moon-kraeutertee-fenchel): Lady Moon von LILATEE ist ein koffeinfreier Kräutertee mit Fenchel, Kamille, Quitte und Apfel. Mild, vegan, zuckerfrei und ideal für ruhige Momente.
-  Updated: 2026-07-03T14:19:37Z
+  Updated: 2026-07-06T13:15:51Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Lady_Moon_Lila_Tee_Quitte_Kamille_Fenchel_Frauen_Tee_Produktverpackung_Frontansicht.jpg?v=1772548380
   Price: 12,99 € EUR
 - [Peace Früchtetee mit Apfel & Kardamom, koffeinfrei | LILATEE](https://lilatee.shop/products/peace-fruechtetee-kardamom): Peace von LILATEE ist ein koffeinfreier Früchtetee mit Apfel, Kardamom und Steviablättern. Warm, weich, vegan und zuckerfrei.
-  Updated: 2026-06-24T16:39:40Z
+  Updated: 2026-07-06T13:15:52Z
   Vendor: LILATEE
   Product Type: Früchtetee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Peace_Infusion_LILA_TEE_Apfel_Stevia_Kardamom_Produktverpackung_Frontansicht.jpg?v=1772548800
   Price: 13,99 € EUR
 - [Love Night Schwarztee mit Pfirsich & Rose, mit Koffein | LILATEE](https://lilatee.shop/products/love-night-tee-pfirsich-rose): Love Night von LILATEE ist ein Schwarztee mit Pfirsich und Rosenblüten. Enthält natürlichen Koffeingehalt, vegan und zuckerfrei.
-  Updated: 2026-06-26T11:46:30Z
+  Updated: 2026-07-06T13:15:52Z
   Vendor: LILATEE
   Product Type: Schwarztee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Love_Night_LILA_TEE_Infusion_Schwarzer_Tee_Pfirsich_Rosenblueten_Produktverpackung_Frontansicht.jpg?v=1772548396
   Price: 11,99 € EUR
 - [Elysian Infusion Schwarztee mit Minze & Johannisbrot | LILATEE](https://lilatee.shop/products/elysian-infusion-johannisbrot-minze-tee): Elysian Infusion von LILATEE ist ein Schwarztee mit Johannisbrot, Minze und Apfel. Mit natürlichem Koffein, vegan und zuckerfrei.
-  Updated: 2026-06-24T16:39:41Z
+  Updated: 2026-07-06T13:15:52Z
   Vendor: LILATEE
   Product Type: Schwarztee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Elysian_Infusion_LILA_TEE_Johannisbrot_Minze_Apfel_Schwarzer_Tee_Produktverpackung_Frontansicht.jpg?v=1772548370
   Price: 13,99 € EUR
 - [Green Menta Kräutertee mit Minze & Zitrone, koffeinfrei | LILATEE](https://lilatee.shop/products/green-menta-minze-zitrone): Green Menta von LILATEE ist ein koffeinfreier Kräutertee mit Minze, Zitrone und Apfel. Frisch, vegan, zuckerfrei und ideal für den Tag.
-  Updated: 2026-07-05T21:22:41Z
+  Updated: 2026-07-10T17:11:05Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Green_Menta_LILA_TEE_Zitrone_Minze_Produktverpackung_Frontansicht.jpg?v=1772548387
   Price: 12,99 € EUR
 - [Creation Früchtetee mit Hibiskus & schwarzem Tee | LILATEE](https://lilatee.shop/products/creation-hibiskustee-fruechte): Creation von LILATEE ist ein fruchtiger Tee mit Hibiskus, tropischen Früchten und schwarzem Tee. Mit natürlichem Koffein, vegan und zuckerfrei.
-  Updated: 2026-07-05T21:22:42Z
+  Updated: 2026-07-06T13:15:52Z
   Vendor: LILATEE
   Product Type: Früchtetee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Creation_Tropical_Infusion_LILA_TEE_Hibiskus_Schwarzer_Tee_Produktverpackung_Frontansicht.jpg?v=1772548372
   Price: 13,99 € EUR
 - [LILATEE Tee-Geschenkset mit 10 Sorten | Premium Geschenk](https://lilatee.shop/products/lila-special-geschenk-hibiskus-tropischertee): Das LILATEE Tee-Geschenkset vereint 10 ausgewählte Sorten: Kräutertee, Früchtetee, Schwarztee, Grüntee und Safran Tee. Ideal als Geschenk.
-  Updated: 2026-07-03T14:19:37Z
+  Updated: 2026-07-06T13:15:52Z
   Vendor: LILATEE
   Product Type: Tee-Geschenkset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Lila_Special_-_10_Lila_Tee_Sorten_in_einem_Paket.jpg?v=1772548369
   Price: 12,99 € EUR
 - [Lemon Mix Kräutertee mit Ingwer & Zitrone, koffeinfrei | LILATEE](https://lilatee.shop/products/lemon-mix-zitronen-ingwer-tee): Lemon Mix von LILATEE ist ein koffeinfreier Kräutertee mit Zitrone, Ingwer und Zitronengras. Frisch, vegan, zuckerfrei und ideal für den Tag.
-  Updated: 2026-06-24T16:39:42Z
+  Updated: 2026-07-06T13:15:52Z
   Vendor: LILATEE
   Product Type: Kräutertee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Lemon_Mix_Infusion_LILA_TEE_Zitrone_Ingwer_Tee_Produktverpackung_Frontansicht.jpg?v=1772548383
   Price: 12,99 € EUR
 - [Paradise Safran Tee mit Damaszenerrose, koffeinfrei | LILATEE](https://lilatee.shop/products/paradis-infusion-safran-rose-apfel): Paradise von LILATEE ist ein koffeinfreier Safran Tee mit Apfel, Damaszenerrose und Safran. Floral, vegan, zuckerfrei und elegant.
-  Updated: 2026-07-05T21:22:42Z
+  Updated: 2026-07-06T13:15:53Z
   Vendor: LILATEE
   Product Type: Safran Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Paradis_Infusion_Lila_Tee_Damaszenerrose_Safran_Produktverpackung_Frontansicht.jpg?v=1772548805
   Price: 14,99 € EUR
 - [Golden Smile Grüner Tee mit Birne & Rosenblüten | LILATEE](https://lilatee.shop/products/golden-smile-gruener-tee-birne-rose): Golden Smile von LILATEE ist ein grüner Tee mit Birne, Rosenblüten und Steviablättern. Mit natürlichem Koffein, vegan und zuckerfrei.
-  Updated: 2026-07-03T14:19:37Z
+  Updated: 2026-07-06T13:15:53Z
   Vendor: LILATEE
   Product Type: Grüner Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Golden_Smile_Lila_Tee_Gruener_Tee_Produktverpackung_Frontansicht.jpg?v=1772548390
   Price: 11,99 € EUR
 - [Royal Safran Tee mit Kardamom & Apfel, koffeinfrei | LILATEE](https://lilatee.shop/products/royal-safran-infusion-tee-safran): Royal von LILATEE ist ein koffeinfreier Safran Tee mit Apfel, Kardamom, Safran und Steviablättern. Warm, vegan und zuckerfrei.
-  Updated: 2026-07-05T21:22:41Z
+  Updated: 2026-07-06T13:15:53Z
   Vendor: LILATEE
   Product Type: Safran Tee
   Availability: Available
@@ -104,20 +104,20 @@ LILATEE ist eine Premium Teemarke aus Deutschland, inspiriert von der Eleganz un
 
 ## Collections
 
-- [Gentle Dreams koffeinfreie Abendtees | LILATEE](https://lilatee.shop/collections/gentle-dreams-abendtee): Gentle Dreams von LILATEE vereint Lady Moon und Spring Miracle: koffeinfreie Abendtees mit Kräutern, Blüten und feinen Fruchtnoten.
-  Updated: 2026-07-04T11:26:03Z
+- [Gentle Dreams - Koffeinfreie Abendtees](https://lilatee.shop/collections/gentle-dreams-abendtee): Gentle Dreams von LILATEE vereint Lady Moon und Spring Miracle: koffeinfreie Abendtees mit Kräutern, Blüten und feinen Fruchtnoten.
+  Updated: 2026-07-08T08:18:01Z
   Total Products: 2
-- [Clear Focus Schwarztee & Grüntee für klare Teepausen | LILATEE](https://lilatee.shop/collections/clear-focus-tee-klare-pausen): Clear Focus von LILATEE vereint Love Night, Golden Smile und Elysian Infusion: Schwarztee und Grüntee mit natürlichem Koffein.
-  Updated: 2026-07-04T11:26:03Z
+- [Clear Focus - Tee für klare Pausen](https://lilatee.shop/collections/clear-focus-tee-klare-pausen): Clear Focus von LILATEE vereint Love Night, Golden Smile und Elysian Infusion: Schwarztee und Grüntee mit natürlichem Koffein.
+  Updated: 2026-07-08T08:18:01Z
   Total Products: 3
-- [Pure Energy Erfrischungstees mit Minze, Zitrus & Hibiskus | LILATEE](https://lilatee.shop/collections/pure-energy-belebende-tees): Pure Energy von LILATEE vereint Creation, Green Menta und Lemon Mix: frische Kräutertee und Früchtetee Mischungen.
-  Updated: 2026-06-24T16:39:40Z
+- [Pure Energy - Erfrischungstees](https://lilatee.shop/collections/pure-energy-belebende-tees): Pure Energy von LILATEE vereint Creation, Green Menta und Lemon Mix: frische Kräutertee und Früchtetee Mischungen.
+  Updated: 2026-07-08T08:18:01Z
   Total Products: 3
-- [Deep Calm koffeinfreie Tees mit Safran & Apfel | LILATEE](https://lilatee.shop/collections/deep-calm-entspannungstee): Deep Calm von LILATEE vereint Royal, Paradise und Peace: koffeinfreie Safran Tee und Früchtetee Mischungen für ruhige Teemomente.
-  Updated: 2026-06-28T11:21:59Z
+- [Deep Calm - Tee für ruhige Momente](https://lilatee.shop/collections/deep-calm-entspannungstee): Deep Calm von LILATEE vereint Royal, Paradise und Peace: koffeinfreie Safran Tee und Früchtetee Mischungen für ruhige Teemomente.
+  Updated: 2026-07-08T08:18:01Z
   Total Products: 3
-- [LILATEE Tee-Geschenke | Premium Tee Geschenkideen](https://lilatee.shop/collections/lilatee-tee-geschenke): Entdecken Sie hochwertige Tee Geschenkideen von LILATEE: exklusives Tee Geschenkset, Safran Tee, Schwarztee und Früchtetee, inspiriert von iranischer Teekultur.
-  Updated: 2026-07-04T11:26:03Z
+- [LILATEE Tee-Geschenke](https://lilatee.shop/collections/lilatee-tee-geschenke): Entdecken Sie hochwertige Tee Geschenkideen von LILATEE: exklusives Tee Geschenkset, Safran Tee, Schwarztee und Früchtetee, inspiriert von iranischer Teekultur.
+  Updated: 2026-07-08T08:18:02Z
   Total Products: 5
 
 ## Blogs
@@ -160,6 +160,14 @@ LILATEE ist eine Premium Teemarke aus Deutschland, inspiriert von der Eleganz un
     Updated: 2026-06-25T16:29:49Z
     Author: LILATEE
     Tags: gesunder Eistee ohne Zucker, Kunststoff Teebeutel, LILATEE Tee, Mikroplastik im Tee, natürlicher Tee ohne Zusatzstoffe, Nylon Teebeutel, PET Teebeutel, Tee ohne Kunststoff Teebeutel, Teebeutel Mikroplastik
+  - [Safran: Wirkung, Herkunft, Inhaltsstoffe & Safrantee im Faktencheck](https://lilatee.shop/blogs/news/safran-wirkung-herkunft-inhaltsstoffe-tee): <p>Warum ist Safran so wertvoll – und was sagt die Forschung wirklich? Dieser wissenschaftlich fundierte Guide erklärt Herkunft, Ernte, Inhaltsstoffe, Qualität und den aktuellen Forschungsstand zu Safran und Safrantee.</p>
+    Updated: 2026-07-08T13:23:20Z
+    Author: LILATEE Redaktion
+    Tags: Crocin, iranischer Safran, Persische Teekultur, Safran, Safran Tee, Safranal, Safrantee, Wissenschaft
+  - [Hibiskustee: Was Studien über Wirkung, Vorteile und mögliche Nachteile zeigen](https://lilatee.shop/blogs/news/hibiskustee-wirkung-vorteile-nachteile): <p>Ist Hibiskustee gesund? Dieser wissenschaftlich differenzierte Guide erklärt, was Studien über Hibiscus sabdariffa, Blutdruck, Pflanzenstoffe, Stoffwechsel, mögliche Nebenwirkungen und den Unterschied zwischen Tee und Extrakt zeigen.</p>
+    Updated: 2026-07-10T07:39:24Z
+    Author: LILATEE Redaktion
+    Tags: Creation, Eistee, Hibiskus, Hibiskustee, LILATEE Magazin, Tee Wissen
 - [news-fa](https://lilatee.shop/blogs/news-fa)
   - [چای زعفران پریمیوم لی لا تی؛ رویال و پردیس](https://lilatee.shop/blogs/news-fa/premium-saffron-tea-lilatee): چای زعفران پریمیوم لی لا تی؛ رویال و پردیس
     Updated: 2026-05-27T15:08:56Z
@@ -201,7 +209,7 @@ LILATEE ist eine Premium Teemarke aus Deutschland, inspiriert von der Eleganz un
 - [Shipping Policy](https://lilatee.shop/policies/shipping-policy)
   Updated: 2026-06-04T15:32:26+02:00
 - [Refund Policy](https://lilatee.shop/policies/refund-policy)
-  Updated: 2026-06-24T17:32:12+02:00
+  Updated: 2026-07-06T16:41:34+02:00
 - [Terms of Service](https://lilatee.shop/policies/terms-of-service)
   Updated: 2026-05-17T16:12:45+02:00
 - [Contact Information](https://lilatee.shop/policies/contact-information)
