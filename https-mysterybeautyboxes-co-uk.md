@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-06-11T12:06:01Z
 - Contact Email: noreply@cohorted.co.uk
-- Updated At: 2026-07-03T00:00:34.330Z
+- Updated At: 2026-07-13T00:00:35.569Z
 
 ## Products
 
@@ -97,6 +97,22 @@
     Updated: 2026-07-01T09:12:48Z
     Author: The MBB Team
     Tags: affordable beauty, affordable beauty box, beauty, beauty box gift, beauty gift, best mystery beauty box, best mystery boxes, birthday gift, christmas gift, christmas gifts, gift, gift mystery beauty box, mystery, mystery beauty box, subscription box, surprise beauty box, unique gift ideas, valentines gift
+  - [How Does a Beauty Box Gift Differ as a Thoughtful Valentine's Surprise?](https://mysterybeautyboxes.co.uk/blogs/news/how-does-a-beauty-box-gift-differ-as-a-thoughtful-valentines-surprise): How Does a Beauty Box Gift Differ as a Thoughtful Valentine's Surprise?
+    Updated: 2026-07-03T09:10:40Z
+    Author: The MBB Team
+    Tags: affordable beauty box, beauty, beauty box, beauty box gift, beauty gift, best mystery beauty box, birthday gift, christmas gift, gift, gift mystery beauty box, mystery beauty box, mystery beauty boxes, perfect valentine's surprise, surprise, surprise beauty box, thoughtful present, valentine's gift
+  - [How Can a Mystery Beauty Box Be the Best Beauty Box Gift for All Occasions?](https://mysterybeautyboxes.co.uk/blogs/news/how-can-a-mystery-beauty-box-be-the-best-beauty-box-gift-for-all-occasions): How Can a Mystery Beauty Box Be the Best Beauty Box Gift for All Occasions?
+    Updated: 2026-07-06T09:21:45Z
+    Author: The MBB Team
+    Tags: affordable beauty box, beauty, beauty box, beauty box gift, beauty gift, best beauty box gift, best mystery beauty box, birthday gift, christmas gift, gift mystery beauty box, gifts, mystery, mystery beauty box, skincare products, surprise beauty box, surprise boxes, unique beauty gift ideas, valentines gift
+  - [Looking for a Surprise Beauty Box as a Beauty Gift – What Are My Options?](https://mysterybeautyboxes.co.uk/blogs/news/looking-for-a-surprise-beauty-box-as-a-beauty-gift-what-are-my-options): Looking for a Surprise Beauty Box as a Beauty Gift – What Are My Options?
+    Updated: 2026-07-08T09:13:06Z
+    Author: The MBB Team
+    Tags: affordable beauty box, beauty, beauty box gift, beauty gift, best mystery beauty box, best mystery beauty boxes, birthday gift, christmas gift, gift mystery beauty box, luxury beauty boxes, mystery, mystery beauty box, subscription box, surprise beauty box, surprise box, unique beauty gift ideas, valentines gift
+  - [Which Mystery Beauty Box Is the Most Exciting Choice for Any Beauty Gift Needs?](https://mysterybeautyboxes.co.uk/blogs/news/which-mystery-beauty-box-is-the-most-exciting-choice-for-any-beauty-gift-needs): Which Mystery Beauty Box Is the Most Exciting Choice for Any Beauty Gift Needs?
+    Updated: 2026-07-10T09:10:33Z
+    Author: The MBB Team
+    Tags: affordable beauty box, beauty, beauty box gift, beauty gift, beauty subscription, best beauty gift ideas, best mystery beauty box, birthday gift, box, christmas gift, gift mystery beauty box, gifts, luxury beauty box, mystery, mystery beauty box, surprise beauty box, surprise boxes, valentines gift
 - [News](https://mysterybeautyboxes.co.uk/blogs/news-1)
   - [The truth about self-care](https://mysterybeautyboxes.co.uk/blogs/news-1/the-truth-about-self-care)
     Updated: 2026-06-17T15:23:05Z
