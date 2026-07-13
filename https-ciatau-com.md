@@ -6,7 +6,7 @@
 - Timezone: Europe/Vilnius
 - Created At: 2024-10-31T17:49:19Z
 - Contact Email: hello@ciatau.com
-- Updated At: 2026-07-06T00:00:39.823Z
+- Updated At: 2026-07-13T00:00:40.300Z
 
 ## Products
 
@@ -104,16 +104,16 @@
 
 ## Collections
 
-- [Folk Pattern Silk Twilly Scarf - Blue, Cream, Pink](https://ciatau.com/collections/folk-pattern-silk-twilly-scarves): These folk-inspired silk twilly scarves bring a modern take on traditional Lithuanian patterns. Made from 100% pure silk, each 85cm x 5cm twilly scarf can be styled around the neck, as a headband, or as a bag accent.
+- [Folk Pattern Silk Twilly Scarves](https://ciatau.com/collections/folk-pattern-silk-twilly-scarves): These folk-inspired silk twilly scarves bring a modern take on traditional Lithuanian patterns. Made from 100% pure silk, each 85cm x 5cm twilly scarf can be styled around the neck, as a headband, or as a bag accent.
   Updated: 2026-06-21T11:18:04Z
   Total Products: 3
-- [Large Silk Scarf - Cream, Pink, Purple](https://ciatau.com/collections/large-silk-scarves): Crafted from 100% pure silk, CIATAU’s large scarves (90cm x 90cm) feature an exclusive Baltic folk pattern. Hypoallergenic, breathable, and stylish, this luxurious scarf can be worn as a shawl, headscarf, or styled around your bag. The elegant gold-plated pendant on one corner adds a unique touch.
+- [Large Silk Scarves](https://ciatau.com/collections/large-silk-scarves): Crafted from 100% pure silk, CIATAU’s large scarves (90cm x 90cm) feature an exclusive Baltic folk pattern. Hypoallergenic, breathable, and stylish, this luxurious scarf can be worn as a shawl, headscarf, or styled around your bag. The elegant gold-plated pendant on one corner adds a unique touch.
   Updated: 2026-06-20T11:18:35Z
   Total Products: 3
-- [Lithuanian Sashes Pattern Silk Twilly Scarf - Brown, Pink](https://ciatau.com/collections/lithuanian-sashes-pattern-silk-twilly-scarves): Inspired by traditional Baltic sashes, these silk twilly scarves (85cm x 5cm) merge heritage with contemporary style. Each twilly scarf is designed for versatile styling, from a headscarf to a chic bag accessory.
+- [Baltic Sashes Pattern Silk Twilly Scarves](https://ciatau.com/collections/lithuanian-sashes-pattern-silk-twilly-scarves): Inspired by traditional Baltic sashes, these silk twilly scarves (85cm x 5cm) merge heritage with contemporary style. Each twilly scarf is designed for versatile styling, from a headscarf to a chic bag accessory.
   Updated: 2026-04-20T20:27:17Z
   Total Products: 2
-- [Watercolor Design Silk Twilly Scarf - Blue, Pink](https://ciatau.com/collections/watercolor-design-silk-twilly-scarves): These two silk twilly scarves feature delicate watercolor artwork, creating a blend of elegance and art in wearable form. Each piece offers a soft, luxurious feel, ready to be worn as a neck scarf or accessory.
+- [Watercolor Design Silk Twilly Scarves](https://ciatau.com/collections/watercolor-design-silk-twilly-scarves): These two silk twilly scarves feature delicate watercolor artwork, creating a blend of elegance and art in wearable form. Each piece offers a soft, luxurious feel, ready to be worn as a neck scarf or accessory.
   Updated: 2026-04-27T11:32:43Z
   Total Products: 2
 
