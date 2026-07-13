@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-10-23T14:51:10Z
 - Contact Email: info@levarneilsonjewelry.com
-- Updated At: 2026-07-05T00:00:39.883Z
+- Updated At: 2026-07-13T00:00:43.756Z
 
 ## Products
 
-- [Moissanite Rhodium-Plated Sterling Silver Necklace | Le'Var Neilson](https://levarjewelry.com/products/moissanite-rhodium-plated-necklace): Elevate your look with this rhodium-plated sterling silver chain necklace featuring brilliant moissanite. Timeless luxury for every occasion.
-  Updated: 2026-06-29T14:30:12Z
+- [Moissanite Rhodium-Plated Sterling Silver Chain Necklace | Le'Var Neilson](https://levarjewelry.com/products/moissanite-rhodium-plated-necklace): Shop the moissanite rhodium-plated 925 sterling silver chain necklace at Le'Var. 106 stones, 18-inch chain, includes certificate & gift box.
+  Updated: 2026-07-08T21:05:22Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/fdb7b696a8a9420a8327cc5c9efc483c-Max.webp?v=1779724625
     Price: $869.85 USD
 - [Light and luxurious four-leaf clover hollowed out diamond-set high-end gift box necklace for your lover](https://levarjewelry.com/products/light-and-luxurious-four-leaf-clover-hollowed-out-diamond-set-high-end-gift-box-necklace-for-your-lover): This light and luxurious four-leaf clover hollowed out diamond-encrusted high-end gift box necklace is a unique and romantic gift, suitable for your loved ones. Its design is inspired by the lucky four-leaf clover, which symbolizes good luck and happiness.The pendant of the necklace is designed with a hollow four-leaf clover, which is exquisite and chic. Each leaf is inlaid with shining diamonds, exuding a charming light, giving people a noble and elegant feeling. The shape of the four-leaf clover symbolizes luck and a bright future, letting your lover feel your deep affection.The chain is made of high-quality material, carefully treated and polished to ensure a comfortable wearing experience. The length of the chain is moderate, suitable for wearing on various occasions, allowing your lover to show her charm and elegance at all times.This necklace also comes with an exquisite gift box, with a high-end and exquisite appearance, and a delicate and soft interior, which provides perfect protection for this precious jewelry. Whether it is a birthday gift, Valentine's Day gift or other special anniversaries, this gift box will bring more surprises and touches to your lover.The light and luxurious four-leaf clover hollowed out diamond-encrusted high-end gift box necklace for her lover will become one of her precious collections. It not only represents your deep love and cherishment for her, but also symbolizes your bright future and happy time together.
-  Updated: 2026-07-04T10:38:32Z
+  Updated: 2026-07-12T12:46:02Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -39,7 +39,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3274cea6-23ee-4984-8f42-7c7ebae3dbdc.jpg?v=1783161502
     Price: $47.30 USD
 - [Four-Leaf Clover Diamond Necklace in Gift Box | Le'Var Neilson](https://levarjewelry.com/products/exquisite-and-fashionable-four-leaf-clover-hollow-out-diamond-high-end-gift-box-necklace): Exquisite four-leaf clover hollow diamond necklace presented in a luxury gift box. Elegant sterling silver design for the modern woman.
-  Updated: 2026-07-04T10:38:56Z
+  Updated: 2026-07-12T12:46:04Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/716db626-2333-4e0d-a2b7-c4ef9673b05e.jpg?v=1783161526
     Price: $57.00 USD
 - [Cuban chain with diamond design exquisite fashion bracelet](https://levarjewelry.com/products/cuban-chain-with-diamond-design-exquisite-fashion-bracelet): This bracelet adopts a Cuban chain structure with diamond inlay design, presenting a unique style of exquisiteness and fashion. The chain links are full and stylish, the details are polished, and the overall shape is gorgeous but not ostentatious, suitable for wearers who pursue texture and fashion.0.8cm/0.31inMaterial: S925 Silver; DiamondDesign highlights:Cuban chain structure: The chain links are tight, and the lines are smooth, showing a strong and neat masculine temperament.Diamond decoration: The diamond design with partial embellishment enhances the overall refinement, enhances the visual level, and the details are more attentive.Fashion texture: Full luster, comfortable to wear, suitable for a variety of dressing styles, whether it is daily or occasional style, it can be easily controlled.Summary:This bracelet cleverly combines exquisite diamond inlay with tough structure, which not only retains the power of metal, but also adds fashionable light. It is an ideal choice to show taste and personality.
-  Updated: 2026-07-04T10:39:26Z
+  Updated: 2026-07-12T08:47:36Z
   Vendor: Le'Var Neilson
   Product Type: Bracelets
   Availability: Available
@@ -163,7 +163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b180440d-a18b-45ea-a66f-936ce3959f6d.jpg?v=1783161561
     Price: $201.01 USD
 - [Anemone Flower Moissanite Diamond Ring in S925 Sterling Silver | Le'Var Neilson](https://levarjewelry.com/products/s925-sterling-silver-anemone-flower-moissanite-diamond-ring): Material: S925 Sterling Silver, MoissaniteSize: 5US 6US 7US 8US 9USWeight: 5gThis S925 sterling silver lotus moissanite ring is inspired by the Eastern lotus flower, blending purity, elegance, and dazzling brilliance. The overall design is graceful yet powerful, showcasing a luxurious and meaningful high-end aesthetic.Design Highlights:🤍 S925 Sterling Silver MaterialCrafted from selected S925 sterling silver, the ring boasts a clear and warm luster, ensuring comfortable and hypoallergenic wear. It maintains its delicate texture even with daily use.💎 Dazzling Moissanite Center StoneThe ring features a high-quality moissanite stone, sparkling with brilliant fire and transparency, rivaling the brilliance of diamonds. It exhibits a captivating shimmer under different lighting conditions.🌸 Lotus Flower DesignThe ring setting is inspired by a blooming lotus flower, with layered petals that are three-dimensional and exquisite, symbolizing purity, resilience, and good wishes. This makes the ring not only beautiful but also rich in emotional meaning.✨ Luxurious, Elegant, and High-EndThe overall design combines romance and sophisticated aesthetics. The details are exquisite yet not overly complex. Wearing it on your finger enhances your complexion and elegance, making you look gentle and radiant.🎁 Versatile Wear · A Thoughtful ChoiceWhether for everyday wear, dates, anniversaries, or as a gift for a loved one or yourself, this ring is highly symbolic and collectible.This S925 sterling silver lotus moissanite ring interprets elegance and purity through the beauty of flowers and the brilliance of stones. It's a high-quality ring that is both romantic and timeless, ensuring that every time you wear it, you'll be surrounded by radiance and blessings.
-  Updated: 2026-07-04T14:28:17Z
+  Updated: 2026-07-08T21:05:23Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
@@ -209,7 +209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/93f4bc14-17cd-4d79-8545-266602b7bb14.jpg?v=1783161576
     Price: $69.00 USD
 - [Moissanite Sunflower Ring in S925 Sterling Silver | Le'Var Neilson](https://levarjewelry.com/products/light-luxury-s925-sterling-silver-moissanite-sunflower-ring): Material: S925 Sterling Silver, MoissaniteSize: 5US 6US 7US 8US 9USWeight: 5gThis lightweight luxury S925 sterling silver moissanite sunflower ring is inspired by blooming sunflowers, cleverly combining dazzling moissanite with an elegant floral design. It symbolizes warmth, hope, and love, with an overall exquisite and radiant appearance, full of sophisticated romance.Design Highlights:💎 S925 Sterling Silver Material · Lightweight Luxury TextureMade of selected S925 sterling silver, the silver luster is clear and delicate, comfortable and skin-friendly to wear, and resistant to fading, showcasing a clean and high-end lightweight luxury style.✨ Moissanite Sunflower DesignThe main stone uses high-quality moissanite with brilliant fire and sparkle, surrounded by a petal-shaped setting design, like a blooming sunflower, reflecting light in layers, dazzling and eye-catching.🌸 Full of Symbolic MeaningThe sunflower symbolizes sunshine, hope, and unwavering love. Wearing it on your finger not only shines beautifully but also carries wonderful blessings and positive energy.🌟 Exquisite Three-Dimensional CraftsmanshipThe ring face has clear layers, the petals are three-dimensional and full, and the overall proportion is harmonious, making the diamond appear large without being ostentatious, combining elegance and presence.👗 Versatile and ElegantWhether for daily wear, dates, parties, or important occasions, it can easily become a highlight on your finger. It's elegant when worn alone and equally stunning when stacked with other rings.🎁 Suitable for Gifting or Personal UseRomantic and meaningful, it's perfect as a sophisticated gift for birthdays, anniversaries, proposals, or as a treat for yourself.This lightweight luxury S925 sterling silver moissanite sunflower ring interprets sophisticated romance with its dazzling brilliance and floral beauty, making every wear as radiant and captivating as sunshine.
-  Updated: 2026-07-04T14:28:17Z
+  Updated: 2026-07-12T15:47:20Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
@@ -293,8 +293,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9579efc8-4c06-4402-b3c0-943414df927d.jpg?v=1783161579
     Price: $56.70 USD
-- [Elegance Meets Whimsy: 18K Gold Double-Layer Necklace](https://levarjewelry.com/products/18k-gold-double-layer-serpentine-zircon-necklace): Discover the enchanting 18K Gold Double-Layer Serpentine Zircon Necklace, where luxury meets whimsy in a sparkling design perfect for every occasion.
-  Updated: 2026-07-04T14:28:17Z
+- [18K Gold Double-Layer Serpentine Zircon Necklace | Le'Var Neilson](https://levarjewelry.com/products/18k-gold-double-layer-serpentine-zircon-necklace): Shop the 18K Gold Double-Layer Serpentine Zircon Necklace at Le'Var Neilson. Cubic zirconia accents, titanium steel, skin-friendly. Free shipping available.
+  Updated: 2026-07-12T15:47:18Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -323,8 +323,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/fb986cb6-b3ec-4b46-94bd-7b21a457495b.jpg?v=1783161592
     Price: $113.40 USD
-- [S925 Sterling Silver Twisted Band Moissanite Ring](https://levarjewelry.com/products/s925-sterling-silver-moissanite-micro-set-twisted-band-square-four-prong-diamond-ring): Shop the Twisted Elegance Moissanite Ring, crafted from S925 sterling silver with a chic twisted band. Perfect for any occasion, it exudes elegance and luxury.
-  Updated: 2026-07-04T14:28:22Z
+- [Twisted Elegance Moissanite Ring | S925 Sterling Silver | Le'Var Neilson](https://levarjewelry.com/products/s925-sterling-silver-moissanite-micro-set-twisted-band-square-four-prong-diamond-ring): Shop the Twisted Elegance Moissanite Ring, crafted from S925 sterling silver with a chic twisted band. Perfect for any occasion, it exudes elegance and luxury.
+  Updated: 2026-07-12T15:47:21Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
@@ -449,1315 +449,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/f6cd3ea6-82db-48ca-9fab-40ac72449290.jpg?v=1783161622
     Price: $48.30 USD
-- [Freshwater Pearl & Diamond Three Row Band Ring | Le'Var Neilson](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring): Stunning 1 CT freshwater pearl and diamond three-row band ring. Refined elegance in every detail, perfect for special occasions.
-  Updated: 2026-07-04T14:28:21Z
-  Vendor: Rosec Jewels
-  Product Type: Rings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_YAF.jpg?v=1783161628
-  - [AAA / 925 Sterling Silver / 4.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51630272872769)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684407105)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 5.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684439873)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 5.75](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684472641)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 6](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684505409)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 6.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684538177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 6.75](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684570945)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 7](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684603713)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 7.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684636481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 8](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684669249)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 8.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684702017)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 9](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684734785)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 9.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684767553)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 925 Sterling Silver / 10](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684800321)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $749.00 USD
-  - [AAA / 10K Yellow Gold / 4.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51630272938305)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684833089)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 5.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684865857)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 5.75](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684898625)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 6](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684931393)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 6.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684964161)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 6.75](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796684996929)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 7](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685029697)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 7.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685062465)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 8](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685095233)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 8.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685128001)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 9](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685160769)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 9.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685193537)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K Yellow Gold / 10](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685226305)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 4.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51630272905537)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685259073)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 5.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685291841)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 5.75](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685324609)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 6](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685357377)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 6.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685390145)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 6.75](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685422913)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 7](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685455681)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 7.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685488449)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 8](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685521217)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 8.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685553985)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 9](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685586753)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 9.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685619521)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 10K White Gold / 10](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685652289)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,529.00 USD
-  - [AAA / 14K Yellow Gold / 4.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51630273003841)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,879.00 USD
-  - [AAA / 14K Yellow Gold / 5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685685057)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,879.00 USD
-  - [AAA / 14K Yellow Gold / 5.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685717825)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,879.00 USD
-  - [AAA / 14K Yellow Gold / 5.75](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685750593)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,879.00 USD
-  - [AAA / 14K Yellow Gold / 6](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685783361)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,879.00 USD
-  - [AAA / 14K Yellow Gold / 6.5](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685816129)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,879.00 USD
-  - [AAA / 14K Yellow Gold / 6.75](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685848897)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,879.00 USD
-  - [AAA / 14K Yellow Gold / 7](https://levarjewelry.com/products/1-ct-freshwater-pearl-and-diamond-three-row-band-ring?variant=51796685881665)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI072210053_WTS.jpg?v=1783161663
-    Price: $1,879.00 USD
-- [ 6.75 Carat Lab Grown Pink Sapphire Asscher Cut Engagement Ring with Halo](https://levarjewelry.com/products/-6-75-carat-lab-grown-pink-sapphire-asscher-cut-engagement-ring-with-halo): Product Details At the center of this enchanting Asscher Cut Engagement Ring design by Rosec Jewels lies a stunning lab created pink sapphire. Crafted from 14k white gold plated silver, this exquisite ring showcases a 9 MM asscher cut lab grown pink sapphire, elegantly secured in a timeless Double-Claw-Prong-Setting. The AAAA quality lab grown pink sapphire center stone is beautifully complemented by a halo of round brilliant cut moissanites, which add a dazzling sparkle and also adorn half of the band. This Sapphire Statement Ring embodies a classic vintage style, making it a relevant, modern, and trendy piece of jewelry. As a symbol of individuality, this Halo Engagement Ring exudes a subtle elegance, featuring an enchanting amount of sparkle and brilliance. This masterpiece artfully combines traditional style with a touch of artistic flair. Crafted with premium materials and thoughtful detailing, this Pink Sapphire and Moissanite Ring offers durability, comfort, and visual impact. Its classic silhouette, paired with intricate craftsmanship, makes it suitable for celebrations, milestones, and statement styling. Whether worn as a symbol of devotion or as a standout addition to a fine jewelry wardrobe, this Pink Stone Engagement Ring embodies elegance, confidence, and enduring charm, destined to be admired and treasured for years to come. Product Information SKU RCRI062310083-FBA Weight 3.50 gm (Approximate) Center Stone Weight 6.75 Carat (Approximate) LAB CREATED PINK SAPPHIRE INFORMATION No.of Stones 1 Pieces Total Weight 6.75 Carat (Approximate) Dimension(approx) Asscher-9X9 mm-1 Pcs Color Pink Cut Brilliant Shape Asscher Setting Type Double-Claw-Prong-Setting Quality Grade AAAA MOISSANITE INFORMATION No.of Stones 28 Pieces Total Weight 1.36 Carat (Approximate) Dimension(approx) Round-1.90X1.90 mm-20 PcsRound-2.20X2.20 mm-2 PcsRound-2.30X2.30 mm-2 PcsRound-2.40X2.40 mm-2 PcsRound-2.50X2.50 mm-2 Pcs Color White Cut Brilliant Shape Round Setting Type Double-Claw-Prong-Setting Quality Grade D-VS1 View More Product Parent Collection Handle lab-created-pink-sapphire-rings
-  Updated: 2026-07-04T14:28:22Z
-  Vendor: Rosec Jewels
-  Product Type: Engagement Ring
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062310083_WAF_c0e3c328-43fe-4a1c-a8f7-24cc05542907.jpg?v=1783161673
-  - [AAAA / 92.5 Sterling Silver / 5](https://levarjewelry.com/products/-6-75-carat-lab-grown-pink-sapphire-asscher-cut-engagement-ring-with-halo?variant=51630295810369)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062310083_WAF_c0e3c328-43fe-4a1c-a8f7-24cc05542907.jpg?v=1783161673
-    Price: $220.00 USD
-  - [AAAA / 92.5 Sterling Silver / 6](https://levarjewelry.com/products/-6-75-carat-lab-grown-pink-sapphire-asscher-cut-engagement-ring-with-halo?variant=51630295843137)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062310083_WAF_c0e3c328-43fe-4a1c-a8f7-24cc05542907.jpg?v=1783161673
-    Price: $220.00 USD
-  - [AAAA / 92.5 Sterling Silver / 7](https://levarjewelry.com/products/-6-75-carat-lab-grown-pink-sapphire-asscher-cut-engagement-ring-with-halo?variant=51630295875905)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062310083_WAF_c0e3c328-43fe-4a1c-a8f7-24cc05542907.jpg?v=1783161673
-    Price: $220.00 USD
-  - [AAAA / 92.5 Sterling Silver / 8](https://levarjewelry.com/products/-6-75-carat-lab-grown-pink-sapphire-asscher-cut-engagement-ring-with-halo?variant=51630295908673)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062310083_WAF_c0e3c328-43fe-4a1c-a8f7-24cc05542907.jpg?v=1783161673
-    Price: $220.00 USD
-- [1/2 CT Genuine Diamond Teardrop Hoop Earrings](https://levarjewelry.com/products/1-2-ct-genuine-diamond-teardrop-hoop-earrings): Product Details These exquisite hoop earrings feature a teardrop design crafted from high-quality gold and adorned with genuine round diamonds. The diamonds are carefully selected for their superior sparkle and brilliance, adding a touch of glamour to any outfit. These diamond teardrop hoop earrings are a versatile and timeless addition to any jewelry collection, perfect for adding a touch of elegance to any occasion. Product Information SKU SHP-EARRINGS022210554 Weight 2.88 gm (Approximate) DIAMOND INFORMATION No.of Stones 2 Pieces Total Weight 0.40 Carat (Approximate) Dimension(approx) Round-3.50X3.50 mm-2 Pcs Color HI Cut Brilliant Shape Round Setting Type Tension-Mount-Setting Quality Grade SI View More Product Parent Collection Handle diamond-earrings
-  Updated: 2026-07-04T14:28:21Z
-  Vendor: Rosec Jewels
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA022210554_YAF.jpg?v=1783161709
-  - [Natural - ( HI-SI ) / 10K White Gold](https://levarjewelry.com/products/1-2-ct-genuine-diamond-teardrop-hoop-earrings?variant=51630344339777)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA022210554_WAF.jpg?v=1783161730
-    Price: $1,889.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold](https://levarjewelry.com/products/1-2-ct-genuine-diamond-teardrop-hoop-earrings?variant=51630344372545)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA022210554_YAF.jpg?v=1783161709
-    Price: $1,889.00 USD
-  - [Natural - ( HI-SI ) / 14K White Gold](https://levarjewelry.com/products/1-2-ct-genuine-diamond-teardrop-hoop-earrings?variant=51630344405313)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA022210554_WAF.jpg?v=1783161730
-    Price: $2,159.00 USD
-  - [Natural - ( HI-SI ) / 14K Yellow Gold](https://levarjewelry.com/products/1-2-ct-genuine-diamond-teardrop-hoop-earrings?variant=51630344438081)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA022210554_YAF.jpg?v=1783161709
-    Price: $2,159.00 USD
-  - [Natural - ( HI-SI ) / 18K White Gold](https://levarjewelry.com/products/1-2-ct-genuine-diamond-teardrop-hoop-earrings?variant=51630344470849)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA022210554_WAF.jpg?v=1783161730
-    Price: $2,549.00 USD
-  - [Natural - ( HI-SI ) / 18K Yellow Gold](https://levarjewelry.com/products/1-2-ct-genuine-diamond-teardrop-hoop-earrings?variant=51630344503617)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA022210554_YAF.jpg?v=1783161709
-    Price: $2,549.00 USD
-- [6X8mm Emerald Cut Cubic Zirconia Solitaire Necklace With Silver Chain](https://levarjewelry.com/products/6x8mm-emerald-cut-cubic-zirconia-solitaire-necklace-with-silver-chain): Product Details If you are looking for a classic accessory, our Solitaire CZ Pendant is exactly what you need. We made this Single Stone Pendant in white gold plated silver, ensuring it stays durable and shiny. The prong setting holds the 6X8 MM emerald cut cubic zirconia securely while enhancing its sparkle. Made with care to meet high standards, it complements any outfit, adding a touch of sophistication. This Simulated Diamond Silver Pendant makes a thoughtful gift for birthdays, anniversaries, or just to show you care. A Solitaire Pendant design is timeless, making it a classic addition to any jewelry collection. With a standard bail, it hangs from a cable chain, resting comfortably around your neck, blending beauty and practicality. Whether you are treating yourself or buying a gift, our CZ Diamond Pendant is the perfect option. Its classic design and high-quality materials ensure it is a piece you will cherish for years. Enhance your wardrobe with this stunning accessory. Product Information SKU RCPE112410012-FBA Weight 2.24 gm (Approximate) Center Stone Weight 1.87 Carat (Approximate) ZIRCON-5A INFORMATION No.of Stones 1 Pieces Total Weight 1.87 Carat (Approximate) Dimension(approx) Emerald Cut-6X8 mm-1 Pcs Color White Cut Brilliant Shape Emerald Cut Setting Type Prong-Setting Quality Grade AAAAA View More
-  Updated: 2026-07-04T14:28:22Z
-  Vendor: Rosec Jewels
-  Product Type: Pendants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE112410012_WAF.jpg?v=1783161747
-  Price: $115.20 USD
-- [Flower Inspired Fire Opal Engagement Ring with Diamond](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond): Product Details Inspired by nature’s romance, fiery color and delicate sparkle unite in this Fire Opal and Diamond Ring designed to leave a lasting impression. At its heart rests a 5MM round cut fire opal, beautifully nestled at the center of sculpted metal petals, forming a rose flower motif that feels both artistic and deeply symbolic. Gracefully wrapping around the finger, the bypass shank is adorned with shimmering diamonds that enhance the floral design while adding brilliance from every angle. The gentle curve of the band creates movement and elegance, making the Fire Opal Engagement Ring as visually captivating as it is comfortable to wear. Perfect for someone who appreciates distinctive design and meaningful details, this Rose Flower Ring makes a remarkable engagement or statement piece. Romantic yet unconventional, it reflects individuality and enduring affection. Whether chosen to mark a proposal or a milestone moment, this Bypass Engagement Ring embodies devotion and artistry, creating a piece that feels personal, expressive, and destined to be cherished for a lifetime. Product Information SKU SHP-RINGS0821192909 Width 5 mm Height 11.5 mm Weight 3.22 gm (Approximate) Center Stone Weight 0.45 Carat (Approximate) FIRE OPAL INFORMATION No.of Stones 1 Pieces Total Weight 0.45 Carat (Approximate) Dimension(approx) Round-5X5 mm-1 Pcs Color Orange Cut Brilliant Shape Round Setting Type Prong-Setting Quality Grade AAA DIAMOND INFORMATION No.of Stones 18 Pieces Total Weight 0.23 Carat (Approximate) Dimension(approx) Round-1.20X1.20 mm-14 PcsRound-1.30X1.30 mm-2 PcsRound-1.40X1.40 mm-2 Pcs Color HI Cut Brilliant Shape Round Setting Type Prong-Setting Quality Grade SI View More Product Parent Collection Handle fire-opal-engagement-rings
-  Updated: 2026-07-04T14:28:21Z
-  Vendor: Rosec Jewels
-  Product Type: Engagement Ring
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI0821192909_YAF.jpg?v=1783161772
-  - [AAA / 92.5 Sterling Silver / 4.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51630527775041)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI0821192909_WAF.jpg?v=1783161798
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818428225)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 5.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818460993)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 5.75](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818493761)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 6](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818526529)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 6.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818559297)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 6.75](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818592065)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 7](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818624833)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 7.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818657601)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 8](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818690369)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 8.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818723137)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 9](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818755905)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 9.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818788673)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 92.5 Sterling Silver / 10](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818821441)
-    Availability: Available
-    Price: $509.00 USD
-  - [AAA / 10K Yellow Gold / 4.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51630527840577)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI0821192909_YAF.jpg?v=1783161772
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818854209)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 5.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818886977)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 5.75](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818919745)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 6](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818952513)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 6.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796818985281)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 6.75](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819018049)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 7](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819050817)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 7.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819083585)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 8](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819116353)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 8.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819149121)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 9](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819181889)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 9.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819214657)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K Yellow Gold / 10](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819247425)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 4.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51630527807809)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI0821192909_WAF.jpg?v=1783161798
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819280193)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 5.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819312961)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 5.75](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819345729)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 6](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819378497)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 6.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819411265)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 6.75](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819444033)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 7](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819476801)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 7.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819509569)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 8](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819542337)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 8.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819575105)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 9](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819607873)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 9.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819640641)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 10K White Gold / 10](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819673409)
-    Availability: Available
-    Price: $1,119.00 USD
-  - [AAA / 14K Yellow Gold / 4.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51630527906113)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI0821192909_YAF.jpg?v=1783161772
-    Price: $1,369.00 USD
-  - [AAA / 14K Yellow Gold / 5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819706177)
-    Availability: Available
-    Price: $1,369.00 USD
-  - [AAA / 14K Yellow Gold / 5.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819738945)
-    Availability: Available
-    Price: $1,369.00 USD
-  - [AAA / 14K Yellow Gold / 5.75](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819771713)
-    Availability: Available
-    Price: $1,369.00 USD
-  - [AAA / 14K Yellow Gold / 6](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819804481)
-    Availability: Available
-    Price: $1,369.00 USD
-  - [AAA / 14K Yellow Gold / 6.5](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819837249)
-    Availability: Available
-    Price: $1,369.00 USD
-  - [AAA / 14K Yellow Gold / 6.75](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819870017)
-    Availability: Available
-    Price: $1,369.00 USD
-  - [AAA / 14K Yellow Gold / 7](https://levarjewelry.com/products/flower-inspired-fire-opal-engagement-ring-with-diamond?variant=51796819902785)
-    Availability: Available
-    Price: $1,369.00 USD
-- [ Real 1 Carat Ethiopian Opal Statement Necklace](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace): Ethiopian Opal Halo Statement Pendant Necklace This pendant necklace highlights an Ethiopian opal center stone framed by a halo of accent gemstones, creating a striking focal point. The halo structure surrounds the opal with additional brilliance while maintaining a balanced composition that emphasizes the center stone. Designed as a statement piece, the pendant combines vibrant gemstone color with reflective accents that enhance its visual presence. Ethiopian Opal Center Stone Ethiopian opals are admired for their distinctive play-of-color, displaying flashes of multiple hues when light interacts with the stone. This optical effect gives each opal a unique appearance that changes depending on the viewing angle. Because of these shifting color patterns, opals often serve as expressive center stones in jewelry designs. Halo Setting Design The halo setting surrounds the central gemstone with smaller stones that amplify brilliance and frame the centerpiece. This design technique visually highlights the opal while introducing additional sparkle. Halo settings are commonly used in statement jewelry to create contrast and emphasize the central gemstone. Diamond Accent Brilliance Diamond accents add brightness around the opal and enhance the reflective qualities of the pendant. Their brilliance contrasts with the opal’s colorful flashes, creating a layered visual effect. This combination of opal and diamond produces a pendant that balances vibrant color with luminous sparkle. A Statement Pendant Design Statement pendants are designed to serve as the focal point of a jewelry look. By combining a colorful center gemstone with a halo structure, this pendant creates a design that draws attention while maintaining refined proportions. The halo arrangement enhances the visual scale of the pendant while keeping the opal as the primary highlight. Product Information SKU SHP-PENDANT082310437 Weight 3.00 gm (Approximate) Center Stone Weight 1.33 Carat (Approximate) ETHIOPIAN OPAL INFORMATION No.of Stones 1 Pieces Total Weight 1.33 Carat (Approximate) Dimension(approx) Oval-8X10 mm-1 Pcs Color Rainbow Cut Brilliant Shape Oval Setting Type Prong-Setting Quality Grade AAA MOISSANITE INFORMATION No.of Stones 18 Pieces Total Weight 1.10 Carat (Approximate) Dimension(approx) Pear-2.00X3.50 mm-2 PcsRound-2X2 mm-13 PcsMarquise-2X4 mm-3 Pcs Color White Cut Brilliant Shape Pear, Round, Marquise Setting Type Prong-Setting Quality Grade D-VS1 View More Product Parent Collection Handle opal-necklaces Frequently Asked Questions What is Ethiopian opal? Ethiopian opal is a variety of opal known for its play-of-color, where flashes of multiple colors appear as light moves across the gemstone. What does a halo pendant design mean? A halo pendant design features smaller stones surrounding a center gemstone to enhance its brilliance and create a decorative frame. Why are opals used in jewelry? Opals are valued for their unique play-of-color, which creates shifting hues that make each gemstone visually distinctive. Do diamonds enhance opal jewelry? Diamonds are often paired with opals because their brightness contrasts with the opal’s colorful flashes and highlights the center gemstone. What is a statement pendant? A statement pendant is designed to be visually prominent, often featuring a larger or more decorative centerpiece. Can opal pendants be worn with other necklaces? Opal pendants can be worn alone for emphasis or layered with other chains for a more styled appearance. .rj-faq { max-width: 960px; margin: 24px auto; padding: 0 16px; } .rj-faq details { border: 1px solid rgba(0, 0, 0, 0.15); border-radius: 12px; margin-bottom: 10px; background: #ffffff; } .rj-faq summary { cursor: pointer; padding: 14px; font-weight: 600; list-style: none; } .rj-faq summary::-webkit-details-marker { display: none; } .rj-faq summary::after { content: "+"; float: right; opacity: 0.7; } .rj-faq details[open] summary::after { content: "–"; } .rj-faq div { padding: 0 14px 14px; line-height: 1.6; } { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "What is Ethiopian opal?", "acceptedAnswer": { "@type": "Answer", "text": "Ethiopian opal is a variety of opal known for its play-of-color, where flashes of multiple colors appear as light moves across the gemstone." } }, { "@type": "Question", "name": "What does a halo pendant design mean?", "acceptedAnswer": { "@type": "Answer", "text": "A halo pendant design features smaller stones surrounding a center gemstone to enhance its brilliance and create a decorative frame." } }, { "@type": "Question", "name": "Why are opals used in jewelry?", "acceptedAnswer": { "@type": "Answer", "text": "Opals are valued for their unique play-of-color, which creates shifting hues that make each gemstone visually distinctive." } }, { "@type": "Question", "name": "Do diamonds enhance opal jewelry?", "acceptedAnswer": { "@type": "Answer", "text": "Diamonds are often paired with opals because their brightness contrasts with the opal’s colorful flashes and highlights the center gemstone." } }, { "@type": "Question", "name": "What is a statement pendant?", "acceptedAnswer": { "@type": "Answer", "text": "A statement pendant is designed to be visually prominent, often featuring a larger or more decorative centerpiece." } }, { "@type": "Question", "name": "Can opal pendants be worn with other necklaces?", "acceptedAnswer": { "@type": "Answer", "text": "Opal pendants can be worn alone for emphasis or layered with other chains for a more styled appearance." } } ] }
-  Updated: 2026-07-04T14:28:22Z
-  Vendor: Rosec Jewels
-  Product Type: Pendants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_YAF.jpg?v=1783161821
-  - [AAA / 92.5 Sterling Silver / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583218497)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_WAF.jpg?v=1783161858
-    Price: $479.00 USD
-  - [AAA / 10K White Gold / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583251265)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_WAF.jpg?v=1783161858
-    Price: $1,049.00 USD
-  - [AAA / 10K Rose Gold / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583284033)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_RAF.jpg?v=1783161840
-    Price: $1,049.00 USD
-  - [AAA / 10K Yellow Gold / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583316801)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_YAF.jpg?v=1783161821
-    Price: $1,049.00 USD
-  - [AAA / 14K White Gold / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583349569)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_WAF.jpg?v=1783161858
-    Price: $1,279.00 USD
-  - [AAA / 14K Rose Gold / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583382337)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_RAF.jpg?v=1783161840
-    Price: $1,279.00 USD
-  - [AAA / 14K Yellow Gold / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583415105)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_YAF.jpg?v=1783161821
-    Price: $1,279.00 USD
-  - [AAA / 18K White Gold / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583447873)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_WAF.jpg?v=1783161858
-    Price: $1,659.00 USD
-  - [AAA / 18K Rose Gold / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583480641)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_RAF.jpg?v=1783161840
-    Price: $1,659.00 USD
-  - [AAA / 18K Yellow Gold / With Chain - 18 Inches](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583513409)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_YAF.jpg?v=1783161821
-    Price: $1,659.00 USD
-  - [AAA / 92.5 Sterling Silver / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583546177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_WAF.jpg?v=1783161858
-    Price: $449.00 USD
-  - [AAA / 10K White Gold / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583578945)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_WAF.jpg?v=1783161858
-    Price: $969.00 USD
-  - [AAA / 10K Rose Gold / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583611713)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_RAF.jpg?v=1783161840
-    Price: $969.00 USD
-  - [AAA / 10K Yellow Gold / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583644481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_YAF.jpg?v=1783161821
-    Price: $969.00 USD
-  - [AAA / 14K White Gold / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583677249)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_WAF.jpg?v=1783161858
-    Price: $1,199.00 USD
-  - [AAA / 14K Rose Gold / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583710017)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_RAF.jpg?v=1783161840
-    Price: $1,199.00 USD
-  - [AAA / 14K Yellow Gold / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583742785)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_YAF.jpg?v=1783161821
-    Price: $1,199.00 USD
-  - [AAA / 18K White Gold / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583775553)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_WAF.jpg?v=1783161858
-    Price: $1,579.00 USD
-  - [AAA / 18K Rose Gold / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583808321)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_RAF.jpg?v=1783161840
-    Price: $1,579.00 USD
-  - [AAA / 18K Yellow Gold / Without Chain](https://levarjewelry.com/products/-real-1-carat-ethiopian-opal-statement-necklace?variant=51630583841089)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE082310437_YAF.jpg?v=1783161821
-    Price: $1,579.00 USD
-- [Round Cut Black Onyx and Diamond Half Eternity Band Ring](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring): Product Details Surprise her with a meaningful gift that blends elegance and bold beauty. Designed to stand out while remaining timeless, this Black Onyx Band Ring is a stunning expression of love and thoughtfulness. It is embellished with a row of round cut black onyx stones, each one carefully set in secure prong setting. Framing the onyx stones are two fine rows of sparkling round diamonds, adding the perfect touch of brilliance without overpowering the center. The contrast between the dark onyx and the bright diamonds creates a sophisticated and eye-catching look that is perfect for any occasion, whether it is a birthday, anniversary, or just a heartfelt gesture. This Half Eternity Band is designed for everyday elegance. It is sleek, stylish, and easy to pair with other rings or wear alone for a statement look. The balanced mix of black and white stones gives the Onyx Wedding Band Ring a modern yet timeless appeal, perfect for someone who appreciates unique jewelry with classic charm. Carefully crafted with attention to detail, it is a lasting symbol of love, strength, and connection. This Onyx and Diamond Ring is a gift she will treasure for years to come. Product Information SKU SHP-RINGS032210297 Width 4.5 mm Height 2.5 mm Weight 2.80 gm (Approximate) Center Stone Weight 0.45 Carat (Approximate) BLACK ONYX INFORMATION No.of Stones 5 Pieces Total Weight 0.45 Carat (Approximate) Dimension(approx) Round-3X3 mm-5 Pcs Color Black Cut Brilliant Shape Round Setting Type Prong-Setting Quality Grade AAA DIAMOND INFORMATION No.of Stones 50 Pieces Total Weight 0.30 Carat (Approximate) Dimension(approx) Round-1X1 mm-50 Pcs Color HI Cut Brilliant Shape Round Setting Type Prong-Setting Quality Grade SI View More Product Parent Collection Handle black-onyx-rings
-  Updated: 2026-07-02T01:56:19Z
-  Vendor: Rosec Jewels
-  Product Type: Rings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI032210297_YAF.jpg?v=1776248002
-  - [AAA / 92.5 Sterling Silver / 4.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51630704066881)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI032210297_WAF.jpg?v=1776248002
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393018689)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 5.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393051457)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 5.75](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393084225)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 6](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393116993)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 6.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393149761)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 6.75](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393182529)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 7](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393215297)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 7.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393248065)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 8](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393280833)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 8.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393313601)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 9](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393346369)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 9.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393379137)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 92.5 Sterling Silver / 10](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393411905)
-    Availability: Available
-    Price: $749.00 USD
-  - [AAA / 10K Yellow Gold / 4.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51630704132417)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI032210297_YAF.jpg?v=1776248002
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393444673)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 5.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393477441)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 5.75](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393510209)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 6](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393542977)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 6.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393575745)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 6.75](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393608513)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 7](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393641281)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 7.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393674049)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 8](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393706817)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 8.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393739585)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 9](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393772353)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 9.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393805121)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K Yellow Gold / 10](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393837889)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 4.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51630704099649)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI032210297_WAF.jpg?v=1776248002
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393870657)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 5.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393903425)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 5.75](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393936193)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 6](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802393968961)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 6.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394001729)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 6.75](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394034497)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 7](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394067265)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 7.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394100033)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 8](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394132801)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 8.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394165569)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 9](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394198337)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 9.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394231105)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 10K White Gold / 10](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394263873)
-    Availability: Available
-    Price: $1,279.00 USD
-  - [AAA / 14K Yellow Gold / 4.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51630704197953)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI032210297_YAF.jpg?v=1776248002
-    Price: $1,499.00 USD
-  - [AAA / 14K Yellow Gold / 5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394296641)
-    Availability: Available
-    Price: $1,499.00 USD
-  - [AAA / 14K Yellow Gold / 5.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394329409)
-    Availability: Available
-    Price: $1,499.00 USD
-  - [AAA / 14K Yellow Gold / 5.75](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394362177)
-    Availability: Available
-    Price: $1,499.00 USD
-  - [AAA / 14K Yellow Gold / 6](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394394945)
-    Availability: Available
-    Price: $1,499.00 USD
-  - [AAA / 14K Yellow Gold / 6.5](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394427713)
-    Availability: Available
-    Price: $1,499.00 USD
-  - [AAA / 14K Yellow Gold / 6.75](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394460481)
-    Availability: Available
-    Price: $1,499.00 USD
-  - [AAA / 14K Yellow Gold / 7](https://levarjewelry.com/products/round-cut-black-onyx-and-diamond-half-eternity-band-ring?variant=51802394493249)
-    Availability: Available
-    Price: $1,499.00 USD
-- [ 5X7 MM Oval Lab Grown Diamond Bridal Ring Set](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set): Product Details Gorgeously handcrafted is this stunning Lab Grown Diamond Ring Set which has a distinctive and elegant look. Featuring with 5X7 MM Oval Shaped Lab Grown Diamond in Prong Setting sits in the center elegantly. Boosting the engagement ring with side stones is the thin wedding band which is perfectly enhancing the look of the Engagement Wedding Ring Set. Showcasing the EF Color VS Clarity Lab Diamond with its brilliant sparkle. Amplify the beauty of your special day with this stunning Diamond Engagement Rings Set, which is a showstopper with a timeless design that will be cherished for years to come. Create a lasting impression with this Diamond Bridal Set, a perfect ring set for your lady love. Product Information SKU SHP-RINGS052410002 Weight 3.20 gm (Approximate) Center Stone Weight 1.16 Carat (Approximate) LAB GROWN DIAMOND INFORMATION No.of Stones 36 Pieces Total Weight 1.16 Carat (Approximate) Dimension(approx) Oval-5X7 mm-1 PcsRound-1.10X1.10 mm-31 PcsRound-2.10X2.10 mm-2 PcsRound-2.50X2.50 mm-2 Pcs Color White Cut Brilliant Shape Oval, Round Setting Type Peg-Head-Setting Quality Grade EF-VS View More
-  Updated: 2026-07-03T14:18:29Z
-  Vendor: Rosec Jewels
-  Product Type: Engagement Ring
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052410002_YAF.jpg?v=1776248052
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 4.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51630843330881)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052410002_WAF.jpg?v=1776248052
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681014593)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 5.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681047361)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 5.75](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681080129)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 6](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681112897)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 6.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681145665)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 6.75](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681178433)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 7](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681211201)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 7.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681243969)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 8](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681276737)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 8.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681309505)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 9](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681342273)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 9.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681375041)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 92.5 Sterling Silver / 10](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681407809)
-    Availability: Available
-    Price: $539.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 4.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51630843396417)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052410002_YAF.jpg?v=1776248052
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681440577)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 5.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681473345)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 5.75](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681506113)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 6](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681538881)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 6.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681571649)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 6.75](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681604417)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 7](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681637185)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 7.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681669953)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 8](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681702721)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 8.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681735489)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 9](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681768257)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 9.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681801025)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K Yellow Gold / 10](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681833793)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 4.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51630843363649)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052410002_WAF.jpg?v=1776248052
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681866561)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 5.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681899329)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 5.75](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681932097)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 6](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681964865)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 6.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790681997633)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 6.75](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682030401)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 7](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682063169)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 7.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682095937)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 8](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682128705)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 8.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682161473)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 9](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682194241)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 9.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682227009)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 10K White Gold / 10](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682259777)
-    Availability: Available
-    Price: $1,229.00 USD
-  - [Lab - ( EF-VS ) / 14K Yellow Gold / 4.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51630843461953)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052410002_YAF.jpg?v=1776248052
-    Price: $1,519.00 USD
-  - [Lab - ( EF-VS ) / 14K Yellow Gold / 5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682292545)
-    Availability: Available
-    Price: $1,519.00 USD
-  - [Lab - ( EF-VS ) / 14K Yellow Gold / 5.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682325313)
-    Availability: Available
-    Price: $1,519.00 USD
-  - [Lab - ( EF-VS ) / 14K Yellow Gold / 5.75](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682358081)
-    Availability: Available
-    Price: $1,519.00 USD
-  - [Lab - ( EF-VS ) / 14K Yellow Gold / 6](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682390849)
-    Availability: Available
-    Price: $1,519.00 USD
-  - [Lab - ( EF-VS ) / 14K Yellow Gold / 6.5](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682423617)
-    Availability: Available
-    Price: $1,519.00 USD
-  - [Lab - ( EF-VS ) / 14K Yellow Gold / 6.75](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682456385)
-    Availability: Available
-    Price: $1,519.00 USD
-  - [Lab - ( EF-VS ) / 14K Yellow Gold / 7](https://levarjewelry.com/products/-5x7-mm-oval-lab-grown-diamond-bridal-ring-set?variant=51790682489153)
-    Availability: Available
-    Price: $1,519.00 USD
-- [Natural Diamond Cluster Promise Ring for Women](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women): Product Details Shimmering with romance, this Diamond Promise Ring is a gentle reminder that love grows brighter when it is shared. Designed for women who adore meaning in every detail, the ring brings together Round Shape Diamond stones arranged in a glowing cluster, each one carefully set in a Miracle Plate to enhance its sparkle. The result is a radiant shine that catches the light and the heart. This Diamond Cluster Ring feels modern yet timeless, perfect for everyday wear or those moments when words are not enough. A promise whispered through light and stone, a symbol of devotion, hope and forever beginnings. Available in a variety of ring sizes, this Natural Diamond Ring is made to fit her perfectly, just like the love it represents. Presented in a signature jewelry box, the unboxing feels just as special as the ring itself, turning a simple gift into a memory she will treasure. Romantic and full of meaning, this Diamond Proposal Ring is love, beautifully expressed. Product Information SKU SHP-RINGS052210382 Weight 2.80 gm (Approximate) Center Stone Weight 0.15 Carat (Approximate) DIAMOND INFORMATION No.of Stones 6 Pieces Total Weight 0.15 Carat (Approximate) Dimension(approx) Round-1.50X1.50 mm-6 Pcs Color HI Cut Brilliant Shape Round Setting Type Illusion-Setting Quality Grade SI View More Product Parent Collection Handle diamond-rings
-  Updated: 2026-07-01T16:50:03Z
-  Vendor: Rosec Jewels
-  Product Type: Rings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052210382_YAF.jpg?v=1776248062
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 4.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51630863974721)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052210382_WAF.jpg?v=1776248062
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448453441)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 5.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448486209)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 5.75](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448518977)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 6](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448551745)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 6.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448584513)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 6.75](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448617281)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 7](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448650049)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 7.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448682817)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 8](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448715585)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 8.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448748353)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 9](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448781121)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 9.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448813889)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 92.5 Sterling Silver / 10](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448846657)
-    Availability: Available
-    Price: $429.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 4.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51630864040257)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052210382_YAF.jpg?v=1776248062
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448879425)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 5.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448912193)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 5.75](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448944961)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 6](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799448977729)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 6.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449010497)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 6.75](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449043265)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 7](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449076033)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 7.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449108801)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 8](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449141569)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 8.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449174337)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 9](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449207105)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 9.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449239873)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K Yellow Gold / 10](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449272641)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 4.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51630864007489)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052210382_WAF.jpg?v=1776248062
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449305409)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 5.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449338177)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 5.75](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449370945)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 6](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449403713)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 6.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449436481)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 6.75](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449469249)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 7](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449502017)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 7.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449534785)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 8](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449567553)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 8.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449600321)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 9](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449633089)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 9.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449665857)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 10K White Gold / 10](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449698625)
-    Availability: Available
-    Price: $959.00 USD
-  - [Natural - ( HI-SI ) / 14K Yellow Gold / 4.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51630864105793)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI052210382_YAF.jpg?v=1776248062
-    Price: $1,189.00 USD
-  - [Natural - ( HI-SI ) / 14K Yellow Gold / 5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449731393)
-    Availability: Available
-    Price: $1,189.00 USD
-  - [Natural - ( HI-SI ) / 14K Yellow Gold / 5.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449764161)
-    Availability: Available
-    Price: $1,189.00 USD
-  - [Natural - ( HI-SI ) / 14K Yellow Gold / 5.75](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449796929)
-    Availability: Available
-    Price: $1,189.00 USD
-  - [Natural - ( HI-SI ) / 14K Yellow Gold / 6](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449829697)
-    Availability: Available
-    Price: $1,189.00 USD
-  - [Natural - ( HI-SI ) / 14K Yellow Gold / 6.5](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449862465)
-    Availability: Available
-    Price: $1,189.00 USD
-  - [Natural - ( HI-SI ) / 14K Yellow Gold / 6.75](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449895233)
-    Availability: Available
-    Price: $1,189.00 USD
-  - [Natural - ( HI-SI ) / 14K Yellow Gold / 7](https://levarjewelry.com/products/natural-diamond-cluster-promise-ring-for-women?variant=51799449928001)
-    Availability: Available
-    Price: $1,189.00 USD
-- [0.50 CT Dainty Black Opal Solitaire Stud Earrings in Bezel Setting](https://levarjewelry.com/products/0-50-ct-dainty-black-opal-solitaire-stud-earrings-in-bezel-setting): Product Details Add a subtle touch of elegance to your style with these Dainty Solitaire Stud Earrings adorned with Round Shape Black Opal in Bezel Setting. The dainty size makes them perfect for everyday wear, while the screw back closure ensures they stay in place. These earrings are crafted from gold metal, ensuring they will be a cherished addition to your jewelry collection for years to come. Product Information SKU SHP-EARRINGS032210945 Length 3.8 mm Width 3.8 mm Weight 1.04 gm (Approximate) BLACK OPAL INFORMATION No.of Stones 2 Pieces Total Weight 0.90 Carat (Approximate) Dimension(approx) Round-5X5 mm-2 Pcs Color Black Cut Brilliant Shape Round Setting Type Bezel-Setting Quality Grade AAA View More Product Parent Collection Handle black-opal-earrings
-  Updated: 2026-07-02T01:57:07Z
-  Vendor: Rosec Jewels
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA032210945_YAF.jpg?v=1776248073
-  - [AAA / 92.5 Sterling Silver](https://levarjewelry.com/products/0-50-ct-dainty-black-opal-solitaire-stud-earrings-in-bezel-setting?variant=51630883176769)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA032210945_WAF.jpg?v=1776248073
-    Price: $329.00 USD
-  - [AAA / 10K White Gold](https://levarjewelry.com/products/0-50-ct-dainty-black-opal-solitaire-stud-earrings-in-bezel-setting?variant=51630883209537)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA032210945_WAF.jpg?v=1776248073
-    Price: $599.00 USD
-  - [AAA / 10K Yellow Gold](https://levarjewelry.com/products/0-50-ct-dainty-black-opal-solitaire-stud-earrings-in-bezel-setting?variant=51630883242305)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA032210945_YAF.jpg?v=1776248073
-    Price: $599.00 USD
-  - [AAA / 14K White Gold](https://levarjewelry.com/products/0-50-ct-dainty-black-opal-solitaire-stud-earrings-in-bezel-setting?variant=51630883275073)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA032210945_WAF.jpg?v=1776248073
-    Price: $699.00 USD
-  - [AAA / 14K Yellow Gold](https://levarjewelry.com/products/0-50-ct-dainty-black-opal-solitaire-stud-earrings-in-bezel-setting?variant=51630883307841)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA032210945_YAF.jpg?v=1776248073
-    Price: $699.00 USD
-  - [AAA / 18K White Gold](https://levarjewelry.com/products/0-50-ct-dainty-black-opal-solitaire-stud-earrings-in-bezel-setting?variant=51630883340609)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA032210945_WAF.jpg?v=1776248073
-    Price: $869.00 USD
-  - [AAA / 18K Yellow Gold](https://levarjewelry.com/products/0-50-ct-dainty-black-opal-solitaire-stud-earrings-in-bezel-setting?variant=51630883373377)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCEA032210945_YAF.jpg?v=1776248073
-    Price: $869.00 USD
-- [Round and Princess Cut Moissanite Key Pendant Necklace in Bezel Set](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set): Product Details Simple and elegant this Moissanite Pendant is a subtle statement jewelry for you. The Round and Princess Cut Moissanite in Bezel Setting on Key Pendant Necklace is a perfect piece for everyday staple. A key to your success this Vintage Inspired Pendant sure to leave you speechless. Product Information SKU SHP-PENDANT032214176 Weight 3.76 gm (Approximate) Center Stone Weight 0.52 Carat (Approximate) MOISSANITE INFORMATION No.of Stones 6 Pieces Total Weight 0.52 Carat (Approximate) Dimension(approx) Princess Cut-4X4 mm-1 PcsRound-1.50X1.50 mm-5 Pcs Color White Cut Brilliant Shape Princess Cut, Round Setting Type Bezel-Setting Quality Grade D-VS1 View More Product Parent Collection Handle key-necklaces
-  Updated: 2026-07-01T00:13:41Z
-  Vendor: Rosec Jewels
-  Product Type: Pendants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_YAF.jpg?v=1776248108
-  - [D-VS1 / 92.5 Sterling Silver / With Chain - 18 Inches](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943600961)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_WAF.jpg?v=1776248108
-    Price: $369.00 USD
-  - [D-VS1 / 10K White Gold / With Chain - 18 Inches](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943633729)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_WAF.jpg?v=1776248108
-    Price: $1,239.00 USD
-  - [D-VS1 / 10K Yellow Gold / With Chain - 18 Inches](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943666497)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_YAF.jpg?v=1776248108
-    Price: $1,239.00 USD
-  - [D-VS1 / 14K White Gold / With Chain - 18 Inches](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943699265)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_WAF.jpg?v=1776248108
-    Price: $1,619.00 USD
-  - [D-VS1 / 14K Yellow Gold / With Chain - 18 Inches](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943732033)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_YAF.jpg?v=1776248108
-    Price: $1,619.00 USD
-  - [D-VS1 / 18K White Gold / With Chain - 18 Inches](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943764801)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_WAF.jpg?v=1776248108
-    Price: $2,199.00 USD
-  - [D-VS1 / 18K Yellow Gold / With Chain - 18 Inches](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943797569)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_YAF.jpg?v=1776248108
-    Price: $2,199.00 USD
-  - [D-VS1 / 92.5 Sterling Silver / Without Chain](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943830337)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_WAF.jpg?v=1776248108
-    Price: $339.00 USD
-  - [D-VS1 / 10K White Gold / Without Chain](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943863105)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_WAF.jpg?v=1776248108
-    Price: $1,159.00 USD
-  - [D-VS1 / 10K Yellow Gold / Without Chain](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943895873)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_YAF.jpg?v=1776248108
-    Price: $1,159.00 USD
-  - [D-VS1 / 14K White Gold / Without Chain](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943928641)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_WAF.jpg?v=1776248108
-    Price: $1,539.00 USD
-  - [D-VS1 / 14K Yellow Gold / Without Chain](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943961409)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_YAF.jpg?v=1776248108
-    Price: $1,539.00 USD
-  - [D-VS1 / 18K White Gold / Without Chain](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630943994177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_WAF.jpg?v=1776248108
-    Price: $2,119.00 USD
-  - [D-VS1 / 18K Yellow Gold / Without Chain](https://levarjewelry.com/products/round-and-princess-cut-moissanite-key-pendant-necklace-in-bezel-set?variant=51630944026945)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCPE032214176_YAF.jpg?v=1776248108
-    Price: $2,119.00 USD
-- [Trellis Set Moissanite Full Eternity Band Ring](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring): Product Details This Moissanite Eternity Band is the perfect ring for someone who loves simple sparkle. The Full Eternity Band is designed with round cut moissanite stones that go all the way around, creating a beautiful circle of shine. The trellis setting adds a gentle twist to the band, while small extra moissanites placed along the sides make the Eternity Wedding Band even more eye-catching. Made to be comfortable for everyday wear, this Moissanite Wedding Band fits smoothly on the finger and feels light yet secure. It is a lovely piece to wear on its own if you like a simple style, but it also matches perfectly with engagement rings or other stacking bands. You can mix it with different rings to create your own personal set. Because the stones form an unbroken circle, this Moissanite Anniversary Band represents never-ending love, loyalty, and togetherness. This makes it a meaningful choice for a wedding band, an anniversary gift, or a special surprise for someone you care about. Whether it is worn daily or saved for special moments, the soft glow of D-VS1 quality moissanite adds an elegant touch that never goes unnoticed. Product Information SKU SHP-RINGS062016562 Width 3.2 mm Height 2.5 mm Weight 5.20 gm (Approximate) Center Stone Weight 2.86 Carat (Approximate) MOISSANITE INFORMATION No.of Stones 140 Pieces Total Weight 2.86 Carat (Approximate) Dimension(approx) Round-0.80X0.80 mm-56 PcsRound-0.90X0.90 mm-56 PcsRound-2.50X2.50 mm-28 Pcs Color White Cut Brilliant Shape Round Setting Type Trellis-Setting Quality Grade D-VS1 View More Product Parent Collection Handle eternity-rings
-  Updated: 2026-07-03T14:23:15Z
-  Vendor: Rosec Jewels
-  Product Type: Wedding Ring
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-  - [D-VS1 / 925 Sterling Silver / 4.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631026995521)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027028289)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 5.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027061057)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 5.75](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027093825)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 6](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027126593)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 6.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027159361)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 6.75](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027192129)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 7](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027224897)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 7.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027257665)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 8](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027290433)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 8.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027323201)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 9](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027355969)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 9.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027388737)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 925 Sterling Silver / 10](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027421505)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $399.00 USD
-  - [D-VS1 / 10K White Gold / 4.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027454273)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027487041)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 5.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027519809)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 5.75](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027552577)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 6](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027585345)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 6.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027618113)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 6.75](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027650881)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 7](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027683649)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 7.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027716417)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 8](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027749185)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 8.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027781953)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 9](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027814721)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 9.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027847489)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K White Gold / 10](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027880257)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 4.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027913025)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027945793)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 5.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631027978561)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 5.75](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028011329)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 6](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028044097)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 6.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028076865)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 6.75](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028109633)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 7](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028142401)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 7.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028175169)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 8](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028207937)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 8.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028240705)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 9](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028273473)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 9.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028306241)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 10K Yellow Gold / 10](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028339009)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_YAF.jpg?v=1776248198
-    Price: $1,139.00 USD
-  - [D-VS1 / 14K White Gold / 4.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028371777)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,459.00 USD
-  - [D-VS1 / 14K White Gold / 5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028404545)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,459.00 USD
-  - [D-VS1 / 14K White Gold / 5.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028437313)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,459.00 USD
-  - [D-VS1 / 14K White Gold / 5.75](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028470081)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,459.00 USD
-  - [D-VS1 / 14K White Gold / 6](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028502849)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,459.00 USD
-  - [D-VS1 / 14K White Gold / 6.5](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028535617)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,459.00 USD
-  - [D-VS1 / 14K White Gold / 6.75](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028568385)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,459.00 USD
-  - [D-VS1 / 14K White Gold / 7](https://levarjewelry.com/products/trellis-set-moissanite-full-eternity-band-ring?variant=51631028601153)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/RCRI062016562_WAF.jpg?v=1776248199
-    Price: $1,459.00 USD
 - [2 Carat Moissanite Pendant Necklace](https://levarjewelry.com/products/2-carat-moissanite-pendant-necklace): Pieces:1-piece Includes: A matching box. Moissanite jewelry over 0.3 carats includes a certificate of stone properties. A limited warranty is included; please contact us for any issues related to your purchase. Material: 925 sterling silver, Moissanite Carat weight: 2ct Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-07-01T19:07:09Z
+  Updated: 2026-07-08T21:05:24Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6d8cd698-2792-4b93-a47e-2640b4ffc51f-Max-Origin.webp?v=1777319270
   Price: $78.99 USD
 - [1 Carat Moissanite Sterling Silver Ring | Le'Var Jewelry](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring): Shop the 1 Carat Moissanite 925 Sterling Silver Ring at Le'Var. Brilliant diamond alternative, ethically crafted. Free shipping available.
-  Updated: 2026-07-01T12:00:31Z
+  Updated: 2026-07-08T21:05:25Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/872f7fcd-978b-498f-8e5b-02d2be2f5932-Max-Origin.webp?v=1777319299
   Price: $69.84 USD
 - [Triangle Pendant Y Necklace](https://levarjewelry.com/products/triangle-pendant-y-necklace): Pieces:1-piece Includes: A matching box. Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-07-01T19:05:08Z
+  Updated: 2026-07-08T21:05:25Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -1771,63 +478,63 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/a930581e-8271-4da4-a218-f8a1602f366e-Max-Origin.webp?v=1777319341
     Price: $76.89 USD
 - [Four-Leaf Clover Pendant Necklace](https://levarjewelry.com/products/four-leaf-clover-pendant-necklace): Pieces:1-piece Includes: A matching box. Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-07-01T09:40:38Z
+  Updated: 2026-07-08T21:05:25Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/f16b91fe-d7d7-4ae4-91f9-22771cf85f08-Max-Origin.webp?v=1777319363
   Price: $84.66 USD
 - [Moissanite Geometric Ring in 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-925-sterling-silver-moissanite-geometric-ring): Discover the Moissanite Geometric Ring at Le'Var Jewelry. Modern design, premium brilliance, 925 sterling silver. Shop levarjewelry.com.
-  Updated: 2026-06-29T14:29:59Z
+  Updated: 2026-07-08T21:05:26Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/09210fe4-1fbb-4e46-bc21-807693fe7b74-Max-Origin.webp?v=1777319391
   Price: $89.55 USD
 - [2 Carat Moissanite Pendant Necklace | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/2-carat-moissanite-pendant-necklace-1): Shop our 2 carat moissanite pendant necklace in 925 sterling silver. Diamond-like brilliance at a fraction of the cost. Certificate included. Free shipping over $75.
-  Updated: 2026-06-29T14:30:05Z
+  Updated: 2026-07-11T08:40:46Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/eec8401f-a89b-4921-b8e1-efe675fdcea2-Max-Origin.webp?v=1777319409
   Price: $94.50 USD
 - [1 Carat Moissanite Heart-Shaped Ring | Adjustable 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-moissanite-heart-shaped-ring): Shop our 1 carat moissanite heart-shaped ring in adjustable 925 sterling silver. Perfect romantic gift. Certificate included. Free shipping over $75.
-  Updated: 2026-06-29T14:30:04Z
+  Updated: 2026-07-08T21:05:26Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/e34b7291-b84f-41d1-a53d-6a7da4e19cb0-Max-Origin.webp?v=1777319437
   Price: $111.45 USD
 - [1 Carat Moissanite Antlers Pendant Necklace | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-antlers-necklace): Shop our 1 carat moissanite antlers pendant necklace in 925 sterling silver. Unique nature-inspired design. Certificate included. Free shipping over $75.
-  Updated: 2026-06-29T14:30:02Z
+  Updated: 2026-07-08T21:05:26Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/d050f3b8-a416-454f-80ef-1e63f0bf03aa-Max-Origin.webp?v=1777319464
   Price: $93.84 USD
 - [5 Carat Moissanite Ring | Adjustable 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/5-carat-moissanite-925-sterling-silver-ring): Shop our 5 carat moissanite ring in adjustable 925 sterling silver. Bold, brilliant statement piece. Certificate included. Free shipping over $75.
-  Updated: 2026-06-29T14:30:05Z
+  Updated: 2026-07-08T21:05:27Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/56f1d19e-0045-4f35-9580-428db968a885-Max-Origin.webp?v=1777319542
   Price: $111.45 USD
 - [925 Sterling Silver Zircon Pendant Necklace](https://levarjewelry.com/products/925-sterling-silver-zircon-pendant-necklace): Pieces:1-piece Includes: A matching box. Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-07-01T21:15:20Z
+  Updated: 2026-07-08T21:05:27Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1c5189c0-f637-4399-a31b-7007bab75a76-Max-Origin.webp?v=1777319563
   Price: $64.17 USD
 - [925 Sterling Silver Zircon Heart Necklace](https://levarjewelry.com/products/925-sterling-silver-zircon-heart-necklace): Pieces:1-piece Includes: A matching box. Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-07-01T12:09:59Z
+  Updated: 2026-07-08T21:05:27Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/87d26c32-a54e-41f8-8332-370216f4d862-Max-Origin.webp?v=1777319586
   Price: $89.55 USD
 - [3 Carat Moissanite Ring | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/3-carat-moissanite-925-sterling-silver-ring): Shop our 3 carat moissanite ring in 925 sterling silver. Sizes 4.5–10. Diamond brilliance at a fraction of the cost. Certificate included. Free shipping over $75.
-  Updated: 2026-07-03T14:17:22Z
+  Updated: 2026-07-08T21:05:27Z
   Vendor: Le'Var Neilson
   Product Type: Engagement Ring
   Availability: Available
@@ -1868,43 +575,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb6d121e-5992-40a8-9891-c2250c0296da-Max-Origin.webp?v=1777319628
     Price: $219.30 USD
-- [Pearl Percentage Pendant Necklace](https://levarjewelry.com/products/pearl-percentage-pendant-necklace): Pieces:1-piece Includes: A matching box. Material: Freshwater Pearl,18K Gold-Plated,925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements in inches) & Size Conversion Size Chain length Extension chain length One Size 15.7 2
-  Updated: 2026-06-30T16:45:03Z
-  Vendor: Le'Var Neilson
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/13356649-2a80-412c-a4cc-b7144d95e3f5-Max-Origin.webp?v=1777319652
-  - [Gold / One Size](https://levarjewelry.com/products/pearl-percentage-pendant-necklace?variant=51676125004097)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/277fa02f-f7c5-4b4f-9eea-673487f92ff8-Max-Origin.webp?v=1777319651
-    Price: $67.71 USD
-  - [Silver / One Size](https://levarjewelry.com/products/pearl-percentage-pendant-necklace?variant=51676125036865)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/13356649-2a80-412c-a4cc-b7144d95e3f5-Max-Origin.webp?v=1777319652
-    Price: $67.71 USD
 - [1 Carat Moissanite 925 Sterling Silver Ring](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring-1): Pieces:1-piece Includes: A matching box. Moissanite jewelry over 0.3 carats includes a certificate of stone properties. Limited warranty included; please contact us for any issues related to your purchase. Adjustable: Adjustable Material: 925 sterling silver, Moissanite Carat weight:1ct Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width One Size 0.6
-  Updated: 2026-07-01T12:00:25Z
+  Updated: 2026-07-08T21:05:28Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/2eaa92c1-276e-4985-832c-016e28238404-Max-Origin.webp?v=1777319670
   Price: $64.89 USD
-- [925 Sterling Silver Pearl Pendant Necklace](https://levarjewelry.com/products/925-sterling-silver-pearl-pendant-necklace): Pieces:1-piece Includes: A matching box. Material: Freshwater Pearl, 925 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length One Size 15.7 2
-  Updated: 2026-07-01T07:33:29Z
-  Vendor: Le'Var Neilson
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/99ba5d90-8ca7-451d-87de-3ad3ec54f524-Max-Origin.webp?v=1777319690
-  Price: $80.40 USD
 - [999 Sterling Silver Flower Stud Earrings](https://levarjewelry.com/products/999-sterling-silver-flower-stud-earrings): Pieces:1-pair Material: 999 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements in inches) & Size Conversion Size Actual Length One Size 0.4
-  Updated: 2026-06-30T13:48:01Z
+  Updated: 2026-07-08T21:05:28Z
   Vendor: Le'Var Neilson
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8a5e6db9-d6e4-4a13-b58e-bc83cb80fca3-Max-Origin.webp?v=1777319734
   Price: $27.60 USD
 - [925 Sterling Silver Zircon Pendant Necklace](https://levarjewelry.com/products/925-sterling-silver-zircon-pendant-necklace-1): Pieces:1-piece Includes: A matching box. Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-06-30T19:40:19Z
+  Updated: 2026-07-08T21:05:28Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -1922,35 +608,35 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6e875a00-a613-4381-b1e0-4b134cca1d10-Max-Origin.webp?v=1777319779
     Price: $83.04 USD
 - [925 Sterling Silver Cat's Eye Stone Pendant Necklace](https://levarjewelry.com/products/925-sterling-silver-cats-eye-stone-pendant-necklace): Pieces:1-pair Includes: A matching box. Material: 925 sterling silver,Cat's eye stone Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length One Size 15.7 2
-  Updated: 2026-07-01T04:56:14Z
+  Updated: 2026-07-08T21:05:28Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0c686e06-1aa1-4387-b3ee-078c14ea6b8f-Max-Origin.webp?v=1777319798
   Price: $66.99 USD
 - [925 Sterling Silver Star Necklace](https://levarjewelry.com/products/925-sterling-silver-star-necklace): Pieces:1-piece Includes: A matching box. Material: 925 sterling silver, Zircon (accent stones) Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length One Size 15.9 2
-  Updated: 2026-07-01T05:01:16Z
+  Updated: 2026-07-08T21:05:29Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1afa5074-768b-4eb3-bcdf-591bbde681de-Max-Origin.webp?v=1777319813
   Price: $71.07 USD
 - [925 Sterling Silver Zircon Leaf Pendant Necklace](https://levarjewelry.com/products/925-sterling-silver-zircon-leaf-pendant-necklace): Pieces:1-piece Includes: A matching box. Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length One Size 15.7 2
-  Updated: 2026-06-30T19:41:00Z
+  Updated: 2026-07-08T21:05:29Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/112e2102-1254-4b43-9c9a-045517ae7372-Max-Origin.webp?v=1777319831
   Price: $69.84 USD
 - [925 Sterling Silver Zircon Butterfly Necklace](https://levarjewelry.com/products/925-sterling-silver-zircon-butterfly-necklace): Pieces: 1-piece Includes: A matching box. Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-06-30T16:51:53Z
+  Updated: 2026-07-08T21:05:29Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1a29cd90-7a21-45da-ac01-9d25feafa06c-Max-Origin.webp?v=1777319847
   Price: $81.12 USD
 - [Layered Snake Chain Y Necklace](https://levarjewelry.com/products/layered-snake-chain-y-necklace): Pieces:1-piece Material: Alloy Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 47.2
-  Updated: 2026-07-01T16:28:20Z
+  Updated: 2026-07-08T21:05:30Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -1964,7 +650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/35ccd3c2-cd58-4891-8b0b-5d8e59091931-Max-Origin.webp?v=1777319864
     Price: $18.27 USD
 - [925 Sterling Silver Zircon Pendant Necklace](https://levarjewelry.com/products/925-sterling-silver-zircon-pendant-necklace-2): Pieces:1-piece Includes: A matching box. Material:18K Rose Gold-Plated,925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length One Size 15.7 2
-  Updated: 2026-07-01T11:57:52Z
+  Updated: 2026-07-08T21:05:30Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -1978,105 +664,98 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c7cbc2e1-c3ba-44ab-805a-e8c1666a01d7-Max-Origin.webp?v=1777319887
     Price: $86.10 USD
 - [925 Sterling Silver Butterfly Necklace](https://levarjewelry.com/products/925-sterling-silver-butterfly-necklace): Pieces: 1-piece Includes: A matching box. Material: Resin,925 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length One Size 15.7 2
-  Updated: 2026-06-30T13:49:05Z
+  Updated: 2026-07-08T21:05:30Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/4d9a3199-1922-42f9-add0-c58885c71f44-Max-Origin.webp?v=1777319907
   Price: $87.30 USD
-- [925 Sterling Silver Bead Pearl Necklace](https://levarjewelry.com/products/925-sterling-silver-bead-pearl-necklace): Pieces:1-piece Includes: A matching box. Material: Synthetic Pearl,925 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-07-01T09:48:28Z
-  Vendor: Le'Var Neilson
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3ed6932e-cece-4892-8a59-cf81acc2bf99-Max-Origin.webp?v=1777319927
-  Price: $60.66 USD
 - [925 Sterling Silver Beaded Necklace](https://levarjewelry.com/products/925-sterling-silver-beaded-necklace): Pieces:1-piece Includes: A matching box. Material:18K Gold-Plated, 925 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-07-01T07:19:56Z
+  Updated: 2026-07-08T21:05:30Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a630e32-8f78-4afe-bc03-b6802a56ddf0-Max-Origin.webp?v=1777319949
   Price: $62.79 USD
 - [18K Gold-Plated 925 Sterling Silver Chain Necklace](https://levarjewelry.com/products/18k-gold-plated-925-sterling-silver-chain-necklace): Pieces:1-piece Includes: A matching box. Material:18K Gold-Plated,925 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
-  Updated: 2026-07-01T21:24:28Z
+  Updated: 2026-07-08T21:05:31Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/364402f4-e101-4d09-a852-51f3bf3f5929-Max-Origin.webp?v=1777319968
   Price: $71.22 USD
 - [925 Sterling Silver Chain Necklace](https://levarjewelry.com/products/925-sterling-silver-chain-necklace): Pieces:1-piece Material: 925 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length One Size 15.7 2
-  Updated: 2026-07-01T02:29:07Z
+  Updated: 2026-07-08T21:05:31Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8137d7ea-89a1-44ed-b6bc-991404e70947-Max-Origin.webp?v=1777319988
   Price: $71.55 USD
 - [925 Sterling Silver Zircon Butterfly Open Ring](https://levarjewelry.com/products/925-sterling-silver-zircon-butterfly-open-ring): Pieces:1-piece Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width One Size 0.6
-  Updated: 2026-07-01T02:27:32Z
+  Updated: 2026-07-08T21:05:31Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/261db027-307c-4299-a2e2-cb8cc5277b44-Max-Origin.webp?v=1777320026
   Price: $41.37 USD
 - [1 Carat Moissanite 925 Sterling Silver Ring](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring-2): Pieces:1-piece Includes: A matching box, Moissanite jewelry over 0.3 carats, and includes a certificate of stone properties. Limited warranty included, please contact us for any issues related to your purchase. Adjustable: Adjustable Material:925 sterling silver, Moissanite Carat weight:1ct Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width One Size 0.6
-  Updated: 2026-06-30T19:42:50Z
+  Updated: 2026-07-08T21:05:31Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/55acf809-2251-4163-8d97-961001b143c9-Max-Origin.webp?v=1777320041
   Price: $78.99 USD
 - [1 Carat Moissanite 925 Sterling Silver Ring](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring-3): Pieces:1-piece Includes: A matching box; Moissanite jewelry over 0.3 carats includes a certificate of stone properties. A limited warranty is included; please contact us for any issues related to your purchase. Adjustable: Adjustable Material: 925 sterling silver, Moissanite Carat weight:1ct Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width One Size 0.6
-  Updated: 2026-07-01T12:09:59Z
+  Updated: 2026-07-08T21:05:31Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/661e796e-9760-4e91-a20c-6bb883d84d51-Max-Origin.webp?v=1777320062
   Price: $76.17 USD
 - [1 Carat Moissanite 925 Sterling Silver Ring](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring-4): Pieces:1-piece Includes: A matching box,Moissanite jewelry over 0.3 carats, includes a certificate of stone properties. A limited warranty is included. Please contact us for any issues related to your purchase. Adjustable: Adjustable Material:925 sterling silver,Moissanite Carat weight:1ct Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width One Size 0.6
-  Updated: 2026-07-01T02:32:15Z
+  Updated: 2026-07-08T21:05:32Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/40b69300-17ce-4863-843d-28b1824fb79e-Max-Origin.webp?v=1777320085
   Price: $80.40 USD
 - [1 Carat Moissanite 925 Sterling Silver Ring](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring-5): Pieces:1-piece Includes: A matching box, Moissanite jewelry over 0.3 carats includes a certificate of stone properties. Limited warranty included; please contact us for any issues related to your purchase. Adjustable: Adjustable Material: 925 sterling silver,Moissanite Carat weight:1ct Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width One Size 0.6
-  Updated: 2026-07-01T12:06:01Z
+  Updated: 2026-07-08T21:05:32Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/711d20d0-647a-43dd-a826-1941f3c17f62-Max-Origin.webp?v=1777320137
   Price: $76.32 USD
 - [1 Carat Moissanite Floral Ring | Adjustable 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring-8): Shop our 1 carat moissanite floral halo ring in adjustable 925 sterling silver. Brilliant sparkle, timeless design. Certificate included. Free shipping over $75.
-  Updated: 2026-06-30T13:24:00Z
+  Updated: 2026-07-08T21:05:32Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/157c29cb-b3ac-4ec6-9274-4d633a090a66-Max-Origin.webp?v=1777320196
   Price: $76.98 USD
 - [1 Carat Moissanite Halo Ring | Adjustable 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring-9): Shop our 1 carat moissanite halo ring in adjustable 925 sterling silver. Brilliant sparkle for any occasion. Certificate included. Free shipping over $75.
-  Updated: 2026-06-29T18:15:34Z
+  Updated: 2026-07-08T21:05:32Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0bfa85e2-4519-411c-9f82-c4d2f5c1d1bb-Max-Origin.webp?v=1777320212
   Price: $88.20 USD
-- [925 Sterling Silver Zircon Snake Bypass Ring](https://levarjewelry.com/products/925-sterling-silver-zircon-snake-bypass-ring): Pieces:1-piece Includes: A matching box. Adjustable: Adjustable Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width One Size 0.7
-  Updated: 2026-06-30T19:41:16Z
+- [925 Sterling Silver Zircon Snake Bypass Ring | Le'Var Neilson](https://levarjewelry.com/products/925-sterling-silver-zircon-snake-bypass-ring): Shop the 925 sterling silver zircon snake bypass ring at Le'Var Neilson. Adjustable fit, elegant serpent design. Free shipping available.
+  Updated: 2026-07-08T21:05:33Z
   Vendor: Le'Var Neilson
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/dfb5ad5c-2ee5-48c4-89e2-573880c2380e-Max-Origin.webp?v=1777320229
   Price: $37.49 USD
 - [Women Guardian Angel 925 Sterling Silver Necklace](https://levarjewelry.com/products/women-guardian-angel-925-sterling-silver-necklace): Pendant Size: 28mm * 14mm Metal Material: Solid 925 Sterling Silver Metal Electroplating: Rhodium Chain Length: 400mm + 40mm Adjustable Total Weight: 5.96g
-  Updated: 2026-07-01T14:19:59Z
+  Updated: 2026-07-08T21:05:33Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/605824411254_4.jpg?v=1777967054
   Price: $64.24 USD
 - [Women Crescent Moon 925 Sterling Silver Necklace](https://levarjewelry.com/products/women-crescent-moon-925-sterling-silver-necklace): Pendant Size: 13.5mm * 15.5mm Metal Material: Solid 925 Sterling Silver Metal Electroplating: 18K Yellow Gold/Rhodium Chain Length: 380mm + 40mm Adjustable Total Weight: 2.55g
-  Updated: 2026-06-29T14:30:14Z
+  Updated: 2026-07-08T21:05:33Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -2090,7 +769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/am_img_51352349-fe33-473c-8730-9a3c3f06311a.jpg?v=1777967056
     Price: $32.60 USD
 - [Women Irregular Love Heart 925 Sterling Silver Necklace](https://levarjewelry.com/products/women-irregular-love-heart-925-sterling-silver-necklace): Pendant Size: 18.3mm Metal Material: Solid 925 Sterling Silver Metal Electroplating: 18K Yellow Gold/Rhodium Chain Length: 400mm + 50mm Adjustable Total Weight: 6.39g
-  Updated: 2026-07-01T09:44:52Z
+  Updated: 2026-07-08T21:05:33Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -2103,7 +782,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/am_img_3f90483b-4d18-4b43-98c8-4263b8f6160c.jpg?v=1777967059
     Price: $66.42 USD
 - [Fashion Irregular Cross 925 Sterling Silver Necklace](https://levarjewelry.com/products/fashion-irregular-cross-925-sterling-silver-necklace): Pendant Size: 22mm * 13.7mm Metal Material: Solid 925 Sterling Silver Accent Stone: AAA Cubic Zirconia Metal Electroplating: 18K Yellow Gold/Rhodium Chain Length: 405mm/425mm/450 Adjustable Total Weight: 2.89g
-  Updated: 2026-07-01T12:14:46Z
+  Updated: 2026-07-08T21:05:34Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -2117,28 +796,14 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/am_img_1f1e6fea-4b61-4357-b93c-9c05d8acae64.jpg?v=1777967061
     Price: $36.99 USD
 - [Le'Var Vintage Heart 925 Sterling Silver Chain Necklace](https://levarjewelry.com/products/vintage-asymmetry-chain-love-heart-925-sterling-silver-necklace): Elegant 925 sterling silver heart pendant necklace with adjustable 400mm chain. Solid silver, 7g, 11.2mm pendant. Perfect gift for her.
-  Updated: 2026-07-02T18:18:20Z
+  Updated: 2026-07-08T21:05:34Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/645778071026_4.jpg?v=1777967062
   Price: $81.81 USD
-- [Asymmetry Oval Natural Pearl Waterdrop 925 Sterling Silver Necklace](https://levarjewelry.com/products/asymmetry-oval-natural-pearl-waterdrop-925-sterling-silver-necklace): Main Stone: Natural Pearl Main Stone Size: 4.3mm/5.15mm Pendant Size: 5.15mm Metal Material: Solid 925 Sterling Silver Metal Electroplating: 18K Yellow Gold/Rhodium Chain Length: 400mm + 50mm Adjustable Total Weight: 13.75g
-  Updated: 2026-06-18T04:43:04Z
-  Vendor: Le'Var Neilson
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/657086709048_4.jpg?v=1777967065
-  - [Rhodium](https://levarjewelry.com/products/asymmetry-oval-natural-pearl-waterdrop-925-sterling-silver-necklace?variant=51698852593985)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/657086709048_4.jpg?v=1777967065
-    Price: $110.25 USD
-  - [Yellow Gold](https://levarjewelry.com/products/asymmetry-oval-natural-pearl-waterdrop-925-sterling-silver-necklace?variant=51698852626753)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/am_img_f9b31c53-61a3-486a-8e95-8c52dbd72a93.jpg?v=1777967065
-    Price: $64.08 USD
 - [Fashion Asymmetry Beads Chain 925 Sterling Silver Necklace](https://levarjewelry.com/products/fashion-asymmetry-beads-chain-925-sterling-silver-necklace): Pendant Size: 5mm/3mm Metal Material: Solid 925 Sterling Silver Metal Electroplating: 18K Yellow Gold/Rhodium Chain Length: 410mm + 50mm Adjustable Total Weight: 12.9g
-  Updated: 2026-07-01T00:13:00Z
+  Updated: 2026-07-08T21:05:34Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -2152,7 +817,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/am_img_8590809e-f5e2-44a6-89aa-3b9ea9dac3d8.jpg?v=1777967067
     Price: $83.37 USD
 - [Simple Radiant CZ New 925 Sterling Silver Necklace](https://levarjewelry.com/products/simple-radiant-cz-new-925-sterling-silver-necklace): Main Stone: Cubic Zirconia Main Stone Quantity: 1 Pendant Size: 6.35mm Metal Material: Solid 925 Sterling Silver Metal Electroplating: 18K Yellow Gold/Rhodium Chain Length: 400mm + 45mm Adjustable Total Weight: 1.75g
-  Updated: 2026-07-02T01:55:54Z
+  Updated: 2026-07-08T21:05:34Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -2165,7 +830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/am_img_bd78a797-fff4-425e-8129-6758ae96c48f.jpg?v=1777967070
     Price: $25.13 USD
 - [Heart-Shaped 925 Sterling Silver Necklace for Women](https://levarjewelry.com/products/women-simple-love-heart-ot-925-sterling-silver-necklace): Adorn yourself with the Women Simple Love Heart Necklace, crafted from solid 925 sterling silver. A timeless piece that exudes elegance and charm.
-  Updated: 2026-06-30T16:48:03Z
+  Updated: 2026-07-08T21:05:34Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -2179,14 +844,14 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/am_img_8e681c91-9ef8-4111-89fa-8d08ed12d381.jpg?v=1777967072
     Price: $100.24 USD
 - [Beautiful Pink CZ White Shell Flower Garland 925 Sterling Silver Necklace](https://levarjewelry.com/products/beautiful-pink-cz-white-shell-flower-garland-925-sterling-silver-necklace): Pendant Size: 15mm Metal Material: Solid 925 Sterling Silver Accent Stone: AAA Cubic Zirconia Metal Electroplating: Rose Gold Chain Length: 395mm + 50mm Adjustable Total Weight: 1.89g
-  Updated: 2026-07-01T07:18:26Z
+  Updated: 2026-07-08T21:05:35Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/571601747219_0.jpg?v=1779251171
   Price: $29.09 USD
 - [1 Carat Moissanite Pendant Necklace | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-necklace): Shop our 1 carat moissanite pendant necklace in 925 sterling silver. Available in gold-plated & platinum finishes. Certificate included. Free shipping over $75.
-  Updated: 2026-06-29T14:30:04Z
+  Updated: 2026-07-08T21:05:35Z
   Vendor: Le'Var Neilson
   Product Type: Necklaces
   Availability: Available
@@ -2223,7 +888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/08f31986d5734cde90d8fe04ed41f710-Max.webp?v=1778042387
     Price: $95.25 USD
 - [1 Carat Moissanite Stud Earrings | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-stud-earrings): Shop our 1 carat moissanite stud earrings in 925 sterling silver. Gold & platinum finishes available. Certificate included. Free shipping over $75.
-  Updated: 2026-06-29T14:30:04Z
+  Updated: 2026-07-08T21:05:35Z
   Vendor: Le'Var Neilson
   Product Type: Earrings
   Availability: Available
@@ -2283,7 +948,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/27a81006b6654a95994e73c9a9f3e5dd-Max_526519f4-049a-468f-a059-9dc53dc0bbbe.jpg?v=1778577296
     Price: $219.00 USD
 - [Le'Var Neilson eGift Cards](https://levarjewelry.com/products/levar-neilson-gift-cards): Some gifts are best chosen by the one who'll wear them. Send this eGift Card and give your loved ones the joy of finding their perfect piece.
-  Updated: 2026-06-27T06:26:24Z
+  Updated: 2026-07-08T21:05:35Z
   Vendor: Le'Var Neilson
   Product Type: Gift Cards
   Availability: Available
@@ -2369,7 +1034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/levar-neilson-gift-card.png?v=1781426418
     Price: $1,000.00 USD
 - [Customized Infinity Symbol Photo Projection Bracelet](https://levarjewelry.com/products/customized-infinity-symbol-photo-projection-bracelet): Product DescriptionThis bracelet is based on a minimalist and exquisite infinity symbol (∞) design, subtly blending unique photo projection customization elements to showcase a distinctive fashion charm. You can hide precious photos inside the central gem and project them using a light source, making it your exclusive symbol or a special gift. Key  Points Minimalist Light Luxury: The overall design is simple and fashionable, with smooth lines, incorporating the infinity symbol shape. The inlaid exquisite rhinestones and smooth surface highlight low-key luxury, suitable for all occasions. Personalized Customization (Photo Projection): You can customize an exclusive photo according to your needs, which is microscopically preserved inside the central pendant's stone. The photo can be viewed or projected using a mobile phone flashlight or camera, making it a perfect choice for expressing emotions and sending blessings. Exquisite Craftsmanship: Every detail is carefully polished. The bracelet is available in high-quality copper and S925 silver materials (optional), with a luster and comfort that makes the wearer feel distinguished. Excellent Gift Choice: As a special gift for birthdays, anniversaries, or holidays, this hidden photo design and the infinity symbol's representation of eternal love add an extra layer of thoughtfulness and commemorative significance. This piece is both fashionable and personalized, making it an ideal choice for those who desire unique charm. Memorial jewelry of this kind is a consistently popular gift for women. Product Features Material Options: Choose from high-quality copper and S925 silver. Wearing Experience: Enjoy a superb, lightweight, and comfortable fit with this simple and stylish classic infinity design. Versatile and Practical: This bracelet is suitable for various occasions and complements a range of outfits, ensuring you stand out. Gift Selection: Personalize the bracelet with your favorite photo, making it a perfect gift for special occasions like birthdays, Valentine's Day, and anniversaries. Applicable ScenariosIdeal for shopping, outings, banquets, and bars.Washing InstructionsClean regularly with a soft, dry cloth.
-  Updated: 2026-06-28T04:00:25Z
+  Updated: 2026-07-08T21:09:02Z
   Vendor: Artshiney
   Product Type: ALL
   Availability: Available
@@ -2393,7 +1058,7 @@
     Availability: Available
     Price: $91.00 USD
 - [Personalized Snowflake Projection Pendant](https://levarjewelry.com/products/personalized-snowflake-projection-pendant): snowflake design, incorporating a unique photo projection customization element to showcase its distinctive festive charm. You can hide your precious photos within the central gemstone, projecting them through light to make them your own personal symbol or a special gift.Key  PointsSimple Luxury: The overall design is simple and stylish, with a beautifully crafted snowflake shape. The inlaid rhinestones and smooth surface exude understated luxury.Personalized Customization (Photo Projection): A personalized photo can be customized to your needs, miniaturized and stored within the gemstone of the central pendant. View or project the photo using your phone's flashlight or camera, making it the perfect choice to express emotions and convey blessings.Exquisite Craftsmanship: Every detail has been meticulously crafted. The pendant is made of copper (optional), offering a remarkable luster and comfort.Perfect Gift: As a special gift for holidays (such as Christmas), anniversaries, or important occasions, this hidden photo design adds a touch of thoughtfulness and commemorative significance.This pendant is not just a decoration, but also a medium for conveying personal emotions and taste. It blends modern design with personalized projection customization elements, making it both stylish and unique. It's an ideal choice for wearers or decorators who seek unique charm. This commemorative pendant has always been a popular holiday gift.Product PerformanceMaterial Selection: Our pendants are made of high-quality copper, available for your selection.Wearing/Usage Experience: High-quality, lightweight, and comfortable, easy to hang or wear without adding burden. This pendant features a classic snowflake design, simple yet stylish.Versatile and Practical: This pendant is suitable as a Christmas tree decoration, home ornament, or necklace, complementing various styles perfectly.Gift Choice: You can DIY your favorite photos onto the pendant, making it a perfect gift for holidays, Valentine's Day, and anniversaries.Suitable Occasions: Suitable for holiday decorations, home décor, shopping trips, parties, and other occasions.Washing Instructions: We recommend wiping regularly with a soft, dry cloth.发送反馈侧边栏历史记录已保存
-  Updated: 2026-06-28T04:07:52Z
+  Updated: 2026-07-08T21:09:02Z
   Vendor: Artshiney
   Product Type: ALL
   Availability: Available
@@ -2408,7 +1073,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Customized Heart Photo Projection Bangle Bracelet](https://levarjewelry.com/products/customized-heart-photo-projection-bangle-bracelet): This is a product name and description in both Chinese and English generated based on the image and style you provided. The main feature of this product is the hidden photo projection function within the gemstone, rather than a customized text name.Chinese VersionProduct Name: Personalized Heart Projection BraceletProduct Description: This bracelet features a simple yet elegant heart-shaped design, incorporating a unique photo projection customization element, showcasing a distinctive fashionable charm. You can hide a precious photo within the pendant gemstone, projecting it through light to make it a personalized symbol or a special gift.Key  PointsSimple Luxury: The overall design is simple and stylish with smooth lines, suitable for various occasions. The smooth surface and exquisite rhinestones exude understated luxury.Personalized Customization (Photo Projection): A personalized photo can be customized to your needs, miniaturized and stored within the gemstone of the heart-shaped pendant. The photo can be viewed or projected using a mobile phone flashlight or camera, making it the perfect choice for expressing emotions and conveying blessings.Exquisite Craftsmanship: Every detail has been meticulously crafted. The bracelet is made of copper, its luster and comfort making the wearer feel truly distinguished.Perfect Gift: As a special gift for birthdays, anniversaries, or holidays, this hidden photo design adds a touch of thoughtfulness and commemorative significance.This bracelet is more than just jewelry; it's a medium for conveying personal emotions and taste. It blends modern design with personalized projection customization elements, making it both stylish and unique. It's an ideal choice for wearers who appreciate unique charm. This type of commemorative jewelry has always been one of women's favorite gifts.Product FeaturesMaterial Selection: Our bracelets are made of high-quality copper, available for your selection.Wearing Experience: High-quality, lightweight, and comfortable, it's easy to wear without adding strain to your wrist. This bracelet features a classic heart design, simple yet stylish.Versatile and Practical: This bracelet is suitable for various occasions and pairs perfectly with shirts, short-sleeved tops, or V-neck t-shirts. Wearing it will make you shine wherever you are.Gift Choice: You can DIY your favorite photo into the bracelet, making it the perfect gift choice for birthdays, Valentine's Day, and anniversaries.Suitable for: Shopping, outings, banquets, bars, and other occasions.Washing Instructions: We recommend wiping regularly with a soft, dry cloth.
-  Updated: 2026-06-28T04:12:41Z
+  Updated: 2026-07-08T21:09:03Z
   Vendor: Artshiney
   Product Type: ALL
   Availability: Available
@@ -2423,7 +1088,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Elegant fashion dream catcher design projection necklace](https://levarjewelry.com/products/elegant-fashion-dream-catcher-design-projection-necklace): Welcome to the noble and fashionable dream catcher design journey, explore our projection necklace, this is a unique jewelry, weaving dreams and memories into the pattern of dream catcher, let your precious moments through projection technology Glittering eternally on the necklace.Features and functions:Dream Catcher Design: Each necklace is designed with an exquisite dream catcher pattern, an ancient and mysterious pattern that represents the symbol of capturing dreams and guarding happiness.High-definition projection: The built-in projection gem has high-definition, which can project your uploaded photos in a clear and realistic way, making your memories more vivid.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the images on the projection stones come to life.Dreamcatchers and Memories Together: This regal and stylish dreamcatcher design projection necklace is more than just a piece of jewelry, it's an exquisite expression of dreams. It will forever treasure your precious moments in the dream catcher, and every time you wear it is a beautiful review of dreams and memories.
-  Updated: 2026-06-28T04:17:48Z
+  Updated: 2026-07-08T21:09:02Z
   Vendor: Artshiney
   Product Type: ALL
   Availability: Available
@@ -2489,7 +1154,7 @@
     Availability: Available
     Price: $46.00 USD
 - [Exquisite and noble love diamond projection necklace](https://levarjewelry.com/products/exquisite-and-noble-love-diamond-projection-necklace): Welcome to the noble and exquisite world of love, we proudly present the exquisite and noble Heart Diamond Projection Necklace. This jewelry is the perfect expression of love and elegance, through the nobility of diamonds and the uniqueness of projection technology, to cherish your precious memories forever in a shining gem.Features and functions:Noble Heart Design: Each necklace is designed with a delicate heart, which is a symbol of love and affection. It is both noble and romantic, the perfect choice for love.Shiny diamonds: The brilliance of diamonds is eternal, we set diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition to ensure that the details of the photos are clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with a loved one, a loved one, or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.Treasure Love and Memories: This exquisite and regal heart diamond projection necklace is more than just a piece of jewelry, it is a symbol of your love and affection. It will forever treasure your precious moments and unique love in a gem, and every time you wear it is a beautiful tribute to love and precious memories.
-  Updated: 2026-06-28T04:17:50Z
+  Updated: 2026-07-08T21:19:31Z
   Vendor: Artshiney
   Product Type: ALL
   Availability: Available
@@ -2574,88 +1239,1342 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/e0e579f3-973c-47b3-8d3a-d4c1e1637868.jpg?v=1782577066
     Price: $46.00 USD
-[List Continued](https://levarjewelry.com/a/llms-agent/llms.txt?shop=blackboxjewelry-926.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDI5NTg3NTg5NTYxNywibGFzdF92YWx1ZSI6IjEwMjk1ODc1ODk1NjE3In0%3D)
+- [Trendy and fashionable dog paw print projection necklace](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace): Welcome to the world of Style and Personality, we proudly present On Trend Fashion Dog Paw Print Projection Necklace. This is a unique jewelry that combines the affectionate remembrance between you and your lovely pet with a unique design, presented on the necklace through projection technology, making you miss your furry companion all the time.Features and functions:UNIQUE DOG PAW PRINT DESIGN: Each necklace is designed with delicate dog paw print, which is lovely for youA unique tribute to your pet. Unique and touching, this design will keep your pet forever in your heart.High-definition projection: The built-in projection gem has high-definition, which can project your uploaded photos to ensure that the details of the image are clearly visible.FASHIONABLE STYLE: This necklace is not just sentimental, it's stylish too. It combines your favorite pet with the trend, adding a lot of color to your style.When placing your order, you will have the opportunity to upload the photos you wish to project.Our technical team will carefully process your photos to ensure that the image on the projection stone is perfect.Treasure the love of pets: This trendy and fashionable dog paw print projection necklace is not only a jewelry, but also a symbol of the affectionate memory between you and your pet. It will forever embed your pet's footprints in a gemstone, and each wear is a beautiful tribute to the deep bond between you and your pet.
+  Updated: 2026-07-08T21:23:19Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/bc82cbe7-9866-49da-8499-20e5ea7d910b.jpg?v=1782577067
+  - [Gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953308993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953341761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953374529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953407297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953440065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953472833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953505601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953538369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953571137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953603905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9a553b05-1525-45b0-98e4-f7ece0eea295.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953636673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953669441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953702209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953734977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953767745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953800513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953833281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953866049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953898817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953931585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/22a6971d-40e6-46e0-a78f-0bdcd8abeaaf.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953964353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889953997121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889954029889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889954062657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889954095425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $76.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889954128193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889954160961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889954193729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889954226497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-and-fashionable-dog-paw-print-projection-necklace?variant=51889954259265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9f6fb6e2-4a58-4810-8acc-c395f9558f4d.jpg?v=1782577067
+    Price: $46.00 USD
+- [Trendy fashion rotating circular projection necklace](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace): Staying ahead of fashion, we confidently present on-trend and stylish Twist Circle Projection Necklace. This is a jewelry that combines innovative design and high technology, through the rotation of round projected gemstones, it will show your personality and precious memories to the fullest.Features and functions:Swirled Circle Design: Each necklace features a unique swirled circle design for a modern and edgy look that will set you apart on the fashion scene.High-tech projection: The built-in projection technology projects your uploaded photos in high-definition, creating a visually stunning effect.Adjustable Chain: The necklace is equipped with an adjustable chain to ensure that you can easily adjust the length according to the needs of different occasions.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with a loved one, a loved one, or a special moment.Our technical team will carefully process your photos to ensure that the image on the projection stone is perfect.The Perfect Combination of Personality and Fashion: This trendy and fashionable swirling circle projection necklace is not just a jewelry, but also a symbol of your personality and fashion taste. It spins your memories and unique style together, and every wear is a tribute to personality and trend.
+  Updated: 2026-07-08T21:19:59Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9814eb62-f933-431f-99f8-621760e6fa4c.jpg?v=1782577068
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952653633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952686401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952719169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952751937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952784705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952817473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952850241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952883009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952915777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952948545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3c2faf04-b6c2-4ac3-937a-ac541ecc28b9.jpg?v=1782577068
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889952981313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889953014081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889953046849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889953079617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889953112385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $58.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889953145153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889953177921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889953210689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889953243457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/trendy-fashion-rotating-circular-projection-necklace?variant=51889953276225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1f25f804-c11a-4f14-8ce2-28d427535ef9.jpg?v=1782577068
+    Price: $46.00 USD
+- [Simple atmosphere round diamond projection necklace](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace): Welcome to the world of sophistication and elegance, we proudly present a simple yet elegant round diamond drop necklace. The perfect combination of sophistication and style, this jewellery, through inlaid diamonds and projection technology, will forever preserve your precious memories in a sparkling gemstone.Material: Titanium steel.Features and functions:Simple and atmospheric design: Each necklace adopts a simple and atmospheric circular design, which is both elegant and refined. This design makes it stand out in various occasions.Noble diamonds: Diamonds represent nobility and eternity, and we have inlaid delicate diamonds on the necklace to make it more dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition to ensure that the details of the photos are clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.Combination of individuality and nobility: This simple and atmospheric round diamond-encrusted projection necklace is not just a piece of jewelry, but also a perfect combination of nobility and individuality. It will forever cherish your precious moments in a gemstone, and each wear is a beautiful tribute to unique memories.
+  Updated: 2026-07-08T21:18:10Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/f46fa193-7a5d-4ace-ab4d-114a5c037758.jpg?v=1782577070
+  - [Gold / 15.7+2in（40+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950622017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c5bd37b0-a76f-44c6-8012-adccfdd4d749.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Gold / 17.7+2in（45+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950654785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c5bd37b0-a76f-44c6-8012-adccfdd4d749.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Gold / 19.6+2in（50+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950687553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c5bd37b0-a76f-44c6-8012-adccfdd4d749.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Gold / 21.6+2in（55+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950720321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c5bd37b0-a76f-44c6-8012-adccfdd4d749.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Gold / 23.6+2in（60+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950753089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c5bd37b0-a76f-44c6-8012-adccfdd4d749.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950785857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/dc65690c-cedf-49dd-bad4-074cbdebfd43.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950818625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/dc65690c-cedf-49dd-bad4-074cbdebfd43.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950851393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/dc65690c-cedf-49dd-bad4-074cbdebfd43.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950884161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/dc65690c-cedf-49dd-bad4-074cbdebfd43.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950916929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/dc65690c-cedf-49dd-bad4-074cbdebfd43.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Rose gold / 15.7+2in（40+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950949697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c2732641-0339-4686-8d74-cc7ecb21f440.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Rose gold / 17.7+2in（45+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889950982465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c2732641-0339-4686-8d74-cc7ecb21f440.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Rose gold / 19.6+2in（50+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889951015233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c2732641-0339-4686-8d74-cc7ecb21f440.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Rose gold / 21.6+2in（55+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889951048001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c2732641-0339-4686-8d74-cc7ecb21f440.jpg?v=1782577070
+    Price: $46.00 USD
+  - [Rose gold / 23.6+2in（60+5cm）](https://levarjewelry.com/products/simple-atmosphere-round-diamond-projection-necklace?variant=51889951080769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/c2732641-0339-4686-8d74-cc7ecb21f440.jpg?v=1782577070
+    Price: $46.00 USD
+- [Retro Fashion Hollow Camera Projection Necklace](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace): Welcome to the photography journey of vintage and fashion, we proudly present the Vintage Fashion Cutout Camera Projector Necklace. More than a stylish accessory, this jewelry is the perfect homage to photography and memories, projecting your precious moments onto the necklace.Material: Titanium steel.Features and functions:Vintage Camera Design: Each necklace features a vintage camera design, a unique tribute to the art of photography. The design is both retro and stylish, making it an ideal choice for photography enthusiasts.High-Definition Projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that the details of the photos are clearly visible.Retro Style Chain: The design of the necklace chain complements the retro camera and adds to the overall sense of fashion.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be your photography portfolio or a photo of a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.Treasure Photography and Memories: More than just jewelry, this vintage fashion cutout camera projection necklace is the perfect memorial to the art of photography and precious moments. It will forever treasure your photography works or precious memories in a jewel, and every time you wear it is a beautiful tribute to photography and memories.
+  Updated: 2026-07-08T21:09:03Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/f603e16b-0156-4a2f-92bf-c3959b896779.jpg?v=1782577075
+  - [Gold / 15.7+2in（40+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889951998273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/232ecb73-bb96-4e64-a486-ea6addedbd6c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Gold / 17.7+2in（45+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952031041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/232ecb73-bb96-4e64-a486-ea6addedbd6c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Gold / 19.6+2in（50+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952063809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/232ecb73-bb96-4e64-a486-ea6addedbd6c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Gold / 21.6+2in（55+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952096577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/232ecb73-bb96-4e64-a486-ea6addedbd6c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Gold / 23.6+2in（60+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952129345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/232ecb73-bb96-4e64-a486-ea6addedbd6c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952162113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/f59489ee-f0be-4c1b-9f37-16f650d65c8c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952194881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/f59489ee-f0be-4c1b-9f37-16f650d65c8c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952227649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/f59489ee-f0be-4c1b-9f37-16f650d65c8c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952260417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/f59489ee-f0be-4c1b-9f37-16f650d65c8c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952293185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/f59489ee-f0be-4c1b-9f37-16f650d65c8c.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Rose gold / 15.7+2in（40+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952325953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/5c9ffc6e-da9e-4a42-9425-5fa4db0ed48b.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Rose gold / 17.7+2in（45+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952358721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/5c9ffc6e-da9e-4a42-9425-5fa4db0ed48b.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Rose gold / 19.6+2in（50+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952391489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/5c9ffc6e-da9e-4a42-9425-5fa4db0ed48b.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Rose gold / 21.6+2in（55+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952424257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/5c9ffc6e-da9e-4a42-9425-5fa4db0ed48b.jpg?v=1782577075
+    Price: $46.00 USD
+  - [Rose gold / 23.6+2in（60+5cm）](https://levarjewelry.com/products/retro-fashion-hollow-camera-projection-necklace?variant=51889952457025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/5c9ffc6e-da9e-4a42-9425-5fa4db0ed48b.jpg?v=1782577075
+    Price: $46.00 USD
+- [Novel fashion round projection necklace](https://levarjewelry.com/products/novel-fashion-round-projection-necklace): Welcome to the cutting edge of fashion and technology, we proudly present a new and trendy round projection necklace. The perfect combination of innovation and fashion, this jewelry presents your personality and precious memories vividly through round projected gemstones.Features and functions:Unique circular design: Each necklace adopts a unique circular design, which is simple and delicate, full of modernity and fashion elements.Cutting-edge projection technology: The built-in projection gem can project your uploaded photos in high definition, ensuring that the details of the image are clearly visible.Personalization Choice: This necklace can be customized, you can choose the picture or text you want to project, making it a unique personalized jewelry.When placing an order, you will have the opportunity to upload the photo or text you wish to project.Our professional team will take care of your selection to ensure that the image or text on the projected stone is perfect.The Perfect Combination of Personality and Fashion: This novelty and fashionable circular projection necklace is not just a jewelry, but also a perfect combination of personality and fashion. It brings your personality and cherished memories to life on a necklace that is a beautiful tribute to self-expression every time it is worn.
+  Updated: 2026-07-08T21:23:01Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/591a9f49-5481-4750-861d-12f9e4653b4c.jpg?v=1782577116
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956159809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956192577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956225345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956258113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956290881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956323649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956356417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956389185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956421953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956454721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/94ecdd25-a994-4fa9-b73d-cfab977cbbea.jpg?v=1782577116
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956487489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956520257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956553025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956585793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956618561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $58.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956651329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956684097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956716865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956749633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/novel-fashion-round-projection-necklace?variant=51889956782401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/0df992e7-7a8b-425d-90dd-30af14bd86c6.jpg?v=1782577116
+    Price: $46.00 USD
+- [Noble and light luxury flower projection necklace](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace): Welcome to the realm of noble and luxurious flowers, we proudly present the noble and luxurious flower projection necklace. Not only a tribute to the beauty of nature, this jewelry combines the perfection of noble design and projection technology to preserve your precious memories forever in a dazzling gemstone.Material: Titanium steel.Features and functions:Delicate Flower Design: Each necklace features a delicate flower design that is a compliment to the beauty of nature. The design is both noble and artistic.Luxury Diamonds: Diamonds represent luxury and preciousness, we inlaid exquisite diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.The perfect combination of natural beauty and nobility: This noble and light luxury flower projection necklace is not just a jewelry, but also a perfect combination of natural beauty and precious memories. It will forever treasure your precious moments and the beauty of nature in a gemstone, and every time you wear it, it is a compliment to the beauty of nature.
+  Updated: 2026-07-08T21:09:04Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/70f80296-d576-44ab-b74b-6ed3da052fd1.jpg?v=1782577118
+  - [Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955668289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b83417e7-741a-4959-914d-dffec5e319ee.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955701057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b83417e7-741a-4959-914d-dffec5e319ee.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955733825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b83417e7-741a-4959-914d-dffec5e319ee.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955766593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b83417e7-741a-4959-914d-dffec5e319ee.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955799361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b83417e7-741a-4959-914d-dffec5e319ee.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Rose gold / 15.7+2in（40+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955832129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/46552e8b-6e95-49e8-8052-0da05e22bc63.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Rose gold / 17.7+2in（45+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955864897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/46552e8b-6e95-49e8-8052-0da05e22bc63.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Rose gold / 19.6+2in（50+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955897665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/46552e8b-6e95-49e8-8052-0da05e22bc63.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Rose gold / 21.6+2in（55+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955930433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/46552e8b-6e95-49e8-8052-0da05e22bc63.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Rose gold / 23.6+2in（60+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-flower-projection-necklace?variant=51889955963201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/46552e8b-6e95-49e8-8052-0da05e22bc63.jpg?v=1782577118
+    Price: $46.00 USD
+- [Exquisite and Fashionable Sunflower Diamond Projection Necklace](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace): Welcome into the warmth and life-giving energy of the sun, we proudly present a stunning and stylish sunflower diamond projection necklace. The perfect combination of natural beauty and noble design, this jewelry will cherish your precious memories forever in a dazzling gemstone through the pattern of sunflowers and the luxury of diamonds.Features and functions:Sunflower Design: Each necklace features a sunflower design, a symbol of life and hope. The design is both vibrant and artistic.Luxury Diamonds: Diamonds represent luxury and preciousness, we inlaid exquisite diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.The perfect fusion of life and preciousness: This exquisite and fashionable sunflower and diamond projection necklace is not just a jewelry, but also a beautiful fusion of the vitality of life and precious moments. It will forever embed your precious memories and the beauty of nature in a gem, and every time you wear it, it is a compliment to life.
+  Updated: 2026-07-08T21:22:47Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7691893-92d1-4c5c-8d61-0d5fd17e561b.jpg?v=1782577118
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889956815169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889956847937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889956880705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889956913473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889956946241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $58.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889956979009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957011777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957044545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957077313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957110081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/10314f7f-0828-4e1b-8e2e-3e452829e5b0.jpg?v=1782577119
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957142849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957175617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957208385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957241153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957273921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $58.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957306689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957339457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957372225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957404993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-and-fashionable-sunflower-diamond-projection-necklace?variant=51889957437761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/74ac15a6-2382-474f-9f66-f64a58ec1d6e.jpg?v=1782577118
+    Price: $46.00 USD
+- [Exquisite Trend Love House Diamond Design Projection Necklace](https://levarjewelry.com/products/exquisite-trend-love-house-diamond-design-projection-necklace): Welcome to Romantic and Trendy Love Cottage, we are proud to present an Exquisite Trendy Love Cottage Diamond Design Projection Necklace. Not only is this jewelry a beautiful tribute to love, but it also combines the warmth of a cabin with the uniqueness of projection technology to preserve your precious memories with your loved one forever in a dazzling gemstone.Material: Titanium steel.Features and functions:Romantic cottage design: Each necklace adopts the romantic cottage design, which is a symbol of love and warm family. The design is both warm and artistic.Luxury Diamonds: Diamonds represent luxury and preciousness, we inlaid exquisite diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved one, a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.The perfect combination of love house and preciousness: This delicate and trendy love house diamond design projection necklace is not only a jewelry, but also a beautiful tribute to love. It combines your precious memories with your loved ones and the romance of a cozy cottage in one gemstone, and every time you wear it, it is a beautiful tribute to love and warm family.
+  Updated: 2026-06-28T04:18:43Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1bf682f4-2e27-44af-91fc-82ad1a4cc7c9.jpg?v=1782577121
+  Price: $0.00 USD
+- [Exquisite fashion heart diamond with antler design projection necklace](https://levarjewelry.com/products/exquisite-fashion-heart-diamond-with-antler-design-projection-necklace): Welcome to the land of sophistication and stylish glamour, we proudly present a sophisticated and stylish Heart Diamond with Antlers Design Projection Necklace. This jewelry not only represents the power of love, but also combines the mysteries of antlers and the uniqueness of projection technology to cherish your precious memories forever in a dazzling gemstone.Features and functions:Heart and antler design: Each necklace is designed with a heart and antlers, which is a beautiful tribute to love and nature. This design is full of romantic emotion and mysterious charm at the same time.Noble Diamonds: Diamonds represent eternal love, and we set exquisite diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with a loved one, a loved one, or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.The perfect fusion of love and nature: This delicate and stylish heart diamond and antler design projection necklace is not just a piece of jewelry, but also a beautiful fusion of love and nature. It will forever treasure your precious memories and the mysteries of nature in a single gemstone, and every time it is worn, it is a beautiful tribute to love and the beauty of nature.
+  Updated: 2026-06-28T04:18:46Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/e7ab5e2b-a5c3-4848-9126-c21c8b0da95c.jpg?v=1782577123
+  Price: $0.00 USD
+- [Fashion and simple U-shaped projection necklace](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace): Welcome to the wonderful world of fashion and individuality, we proudly present the Trendy Simple U Shape Projection Necklace. This jewelry not only represents modern fashion, but also integrates your precious memories and unique personality through U-shape design and projection technology, keeping you unique in fashion.Material: Titanium steel.Features and functions:Unique U-shaped design: Each necklace adopts a unique U-shaped design, which is simple and modern. This design is full of fashion elements and shows personality at the same time.High-Quality Projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail is clearly visible.Personalized Choice: This necklace can be customized to your choice, you can choose the image or message to be projected, making it a unique treasure.When placing your order, you will have the opportunity to upload the photos you wish to project.Our professional team will take care of your selection to ensure that the photo projection on the stone is perfect.The perfect combination of personality and fashion: The fashionable and simple U-shaped projection necklace is not only a jewelry, but also a perfect combination of personality and modern fashion. It allows you to express your individuality in style while enshrining cherished memories forever in a single gemstone, a beautiful tribute to your unique personality every time you wear it.
+  Updated: 2026-07-08T21:09:06Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/5f470652-0e95-45a5-bbae-efe1651c50ed.jpg?v=1782577179
+  - [Gold / 15.7+2in（40+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959108929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b910a6e6-8c26-4e05-8011-6d8f0cf32285.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Gold / 17.7+2in（45+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959141697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b910a6e6-8c26-4e05-8011-6d8f0cf32285.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Gold / 19.6+2in（50+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959174465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b910a6e6-8c26-4e05-8011-6d8f0cf32285.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Gold / 21.6+2in（55+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959207233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b910a6e6-8c26-4e05-8011-6d8f0cf32285.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Gold / 23.6+2in（60+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959240001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b910a6e6-8c26-4e05-8011-6d8f0cf32285.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959272769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/86d03e5b-2654-4bcb-9b41-00b3f5df8b1b.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959305537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/86d03e5b-2654-4bcb-9b41-00b3f5df8b1b.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959338305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/86d03e5b-2654-4bcb-9b41-00b3f5df8b1b.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959371073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/86d03e5b-2654-4bcb-9b41-00b3f5df8b1b.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959403841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/86d03e5b-2654-4bcb-9b41-00b3f5df8b1b.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Rose gold / 15.7+2in（40+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959436609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b1c8d46b-a497-428a-a1d0-03654649f6ea.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Rose gold / 17.7+2in（45+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959469377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b1c8d46b-a497-428a-a1d0-03654649f6ea.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Rose gold / 19.6+2in（50+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959502145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b1c8d46b-a497-428a-a1d0-03654649f6ea.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Rose gold / 21.6+2in（55+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959534913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b1c8d46b-a497-428a-a1d0-03654649f6ea.jpg?v=1782577178
+    Price: $46.00 USD
+  - [Rose gold / 23.6+2in（60+5cm）](https://levarjewelry.com/products/fashion-and-simple-u-shaped-projection-necklace?variant=51889959567681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b1c8d46b-a497-428a-a1d0-03654649f6ea.jpg?v=1782577178
+    Price: $46.00 USD
+- [Fashion Simple Cross Projection Necklace](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace): Welcome to the intersection of fashion and faith, we proudly present the trendy minimalist Cross Projection Necklace. A beautiful tribute to faith, this jewelry allows you to hold cherished memories and beliefs close to your heart through the classic design of the cross and projection technique.Features and functions:SIMPLE CROSS DESIGN: Each necklace features a simple cross design, representing faith and purity. This design is both contemporary and suitable for a variety of styles.High-Quality Projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail is clearly visible.Personalized Choice: This necklace can be customized to your choice, you can choose the image or message to be projected, making it a unique treasure.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.A Perfect Combination of Faith and Memories: The Trendy Simple Cross Projection Necklace is more than just a piece of jewelry, it is the perfect combination of faith and cherished memories. It allows you to forever embed your faith and cherished memories in a single gemstone, a beautiful tribute to your faith and memories every time you wear it.
+  Updated: 2026-07-08T21:21:56Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/862100f5-0c34-49a6-a710-cc9b568e653c.jpg?v=1782577180
+  - [Gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961009473)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961042241)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961075009)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961107777)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961140545)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961173313)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961206081)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961238849)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961271617)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961304385)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961337153)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961369921)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961402689)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961435457)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961468225)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961500993)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961533761)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961566529)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961599297)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961632065)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961664833)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961697601)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961730369)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961763137)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/fashion-simple-cross-projection-necklace?variant=51889961795905)
+    Availability: Available
+    Price: $46.00 USD
+- [Classic Simple Hollow Cross Projection Necklace](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace): Welcome to the world of eternal faith and pure love. We are proud to present the Classic Simple Cutout Cross Projection Necklace. This necklace is not just a piece of jewelry, but a symbol of faith and love. Its classic cross design and advanced projection technology enable you to keep your precious memories and beliefs close at hand.Features and functions:CLASSIC CROSS DESIGN: Each necklace features a classic cutout cross design, representing faith and purity. This design has timeless appeal and looks great with any outfit.High-Quality Projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail is clearly visible.Personalization: This necklace can be customized according to your choice, you can choose the photo to be projected, making it a unique treasure.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will take care of your selection to ensure that the photo projection on the stone is perfect.A Fusion of Faith and Memories: The Classic Simple Cutout Cross Projection Necklace is more than just a piece of jewelry, it is the perfect fusion of faith and precious memories. It allows you to forever enshrine your faith and the memories of your loved ones within a single gemstone, making each wear a beautiful tribute to faith and love.
+  Updated: 2026-07-08T21:22:53Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9409eb59-970f-439d-b932-d0eae3b8f75a.jpg?v=1782577181
+  - [Gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960026433)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960059201)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960091969)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960124737)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960157505)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960190273)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960223041)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960255809)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960288577)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960321345)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960354113)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960386881)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960419649)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960452417)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960485185)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960517953)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960550721)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960583489)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960616257)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960649025)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960681793)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960714561)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960747329)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960780097)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960812865)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960845633)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960878401)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960911169)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960943937)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-cross-projection-necklace?variant=51889960976705)
+    Availability: Available
+    Price: $46.00 USD
+- [Delicate Dazzling Open Heart Shaped Diamond Projection Necklace](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace): Welcome to the world of fine and luxurious jewelry, we proudly present an exquisite and dazzling Open Heart Diamond Projection Necklace. A perfect blend of love and unique design, this jewelry keeps your precious memories forever within a single gemstone with a heart-shaped cutout and sparkling diamonds.Features and functions:Unique Heart Cutout Design: Each necklace has a unique heart cutout design, representing love and uniqueness. The design is both romantic and expressive.Luxury Diamonds: Diamonds represent luxury and preciousness, we inlaid exquisite diamonds on the necklace to make it more noble and dazzling.High-definition projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with a loved one, a loved one, or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.A Perfect Blend of Love and Preciousness: More than just a piece of jewelry, this dainty pierced heart-shaped diamond projection necklace is the perfect fusion of love and precious memories. It will forever treasure your precious moments and heart-shaped design in a gemstone, and every time you wear it is a beautiful tribute to love and preciousness.
+  Updated: 2026-07-08T21:23:22Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/231ba2ee-c963-4548-917e-9ff63b19b328.jpg?v=1782577185
+  - [Gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889961992513)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962025281)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962058049)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962090817)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962123585)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962156353)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962189121)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962221889)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962254657)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962287425)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962320193)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962352961)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962385729)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962418497)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962451265)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962484033)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962516801)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962549569)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962582337)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962615105)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962647873)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962680641)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962713409)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962746177)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962778945)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962811713)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962844481)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962877249)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962910017)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/delicate-dazzling-open-heart-shaped-diamond-projection-necklace?variant=51889962942785)
+    Availability: Available
+    Price: $46.00 USD
+- [Exquisite fashion LOVE design projection necklace](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace): Welcome to the world of love and fashion, we proudly present exquisite fashion LOVE design projection necklace. This jewelry is not only a beautiful tribute to love, but also through LOVE design and projection technology, you can cherish your precious memories forever in a gemstone, so that your love will never fade.Features and functions:Exquisite LOVE design: Each necklace adopts an exquisite LOVE design, which is a symbol of love and passion. The design is both vibrant and artistic.High-quality projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail of the photos is clearly visible.Personalized Choice: This necklace can be customized to your choice, you can choose the image or message to be projected, making it a unique treasure.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved one, a memory of a special moment, or a message of love.Our professional team will carefully handle your selection to ensure that the image on the projected stone is perfect.The perfect combination of love and personality: The exquisite and fashionable LOVE design projection necklace is not only a jewelry, but also a perfect combination of love and personality. It allows you to forever embed love and unique memories in a single gemstone, a beautiful tribute to love and individuality every time you wear it.
+  Updated: 2026-07-08T21:23:05Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1b351320-a903-4c74-93da-c478a2f7f6d6.jpg?v=1782577236
+  - [Gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889966973249)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967006017)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967038785)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967071553)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967104321)
+    Availability: Available
+    Price: $58.00 USD
+  - [Gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967137089)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967169857)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967202625)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967235393)
+    Availability: Available
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967268161)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967300929)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967333697)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967366465)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967399233)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967432001)
+    Availability: Available
+    Price: $58.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967464769)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967497537)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967530305)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967563073)
+    Availability: Available
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967595841)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967628609)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967661377)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967694145)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967726913)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967759681)
+    Availability: Available
+    Price: $58.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967792449)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967825217)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967857985)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967890753)
+    Availability: Available
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/exquisite-fashion-love-design-projection-necklace?variant=51889967923521)
+    Availability: Available
+    Price: $46.00 USD
+- [Noble Fashion Cross Inlaid Gem Design Projection Necklace](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace): Welcome to the realm of regal and stylish jewellery, we proudly present the regal and stylish Cross Set Gemstone Design Projection Necklace. This jewelry is not only a respect for faith, but also combines the sacredness of the cross and the luxury of gemstones. Through projection technology, precious memories are forever treasured in a gemstone.Material: Titanium steel.Features and functions:Noble Cross Design: Each necklace adopts a noble cross design, representing faith and holiness. This design is both solemn and stylish.Luxurious Gemstone Inlay: Gemstones represent luxury and preciousness, we inlaid exquisite gemstones on the necklace to make it more noble and dazzling.High-Definition Projection: The built-in projection gem can project your uploaded photos in high-definition, ensuring that every detail of the photo is clearly visible.When placing an order, you will have the opportunity to upload the photos or information you would like to be projected. This can be a photo of your faith-related or a special moment together.Our professional team will carefully handle your selection to ensure that the image on the projected stone is perfect.A Blend of Faith and Memories: More than just jewelry, this regal and stylish cross-set gemstone design projection necklace is a perfect blend of faith and cherished memories. It will forever embed your beliefs and precious moments in a gemstone, and every time you wear it, it is a beautiful tribute to your beliefs and precious moments.
+  Updated: 2026-07-08T21:09:09Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/860d3e99-16cf-4ea9-a4b7-062f8c1af846.jpg?v=1782577238
+  - [15.7+2in（40+5cm） / Silver](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889965990209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/25f6335c-8056-452e-ac74-d5bfc9f7bfa7.jpg?v=1782577238
+    Price: $46.00 USD
+  - [15.7+2in（40+5cm） / Rose gold](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889966022977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/773c5f5d-5a50-4212-9ef3-7ecfc751246b.jpg?v=1782577238
+    Price: $46.00 USD
+  - [17.7+2in（45+5cm） / Silver](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889966055745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/25f6335c-8056-452e-ac74-d5bfc9f7bfa7.jpg?v=1782577238
+    Price: $46.00 USD
+  - [17.7+2in（45+5cm） / Rose gold](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889966088513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/773c5f5d-5a50-4212-9ef3-7ecfc751246b.jpg?v=1782577238
+    Price: $46.00 USD
+  - [19.6+2in（50+5cm） / Silver](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889966121281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/25f6335c-8056-452e-ac74-d5bfc9f7bfa7.jpg?v=1782577238
+    Price: $46.00 USD
+  - [19.6+2in（50+5cm） / Rose gold](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889966154049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/773c5f5d-5a50-4212-9ef3-7ecfc751246b.jpg?v=1782577238
+    Price: $46.00 USD
+  - [21.6+2in（55+5cm） / Silver](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889966186817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/25f6335c-8056-452e-ac74-d5bfc9f7bfa7.jpg?v=1782577238
+    Price: $46.00 USD
+  - [21.6+2in（55+5cm） / Rose gold](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889966219585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/773c5f5d-5a50-4212-9ef3-7ecfc751246b.jpg?v=1782577238
+    Price: $46.00 USD
+  - [23.6+2in（60+5cm） / Silver](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889966252353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/25f6335c-8056-452e-ac74-d5bfc9f7bfa7.jpg?v=1782577238
+    Price: $46.00 USD
+  - [23.6+2in（60+5cm） / Rose gold](https://levarjewelry.com/products/noble-fashion-cross-inlaid-gem-design-projection-necklace?variant=51889966285121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/773c5f5d-5a50-4212-9ef3-7ecfc751246b.jpg?v=1782577238
+    Price: $46.00 USD
+- [Classic Simple Hollow Round Projection Necklace](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace): Welcome to the world of classic and minimal jewelry, we proudly present the Classic Simple Cutout Round Drop Necklace. This jewelry not only represents the classic beauty, but also adds a classic charm to your style by enshrining your precious memories forever in a gemstone through the circular cutout design and projection technology.Features and functions:Classic circular cutout design: Each necklace adopts a classic circular cutout design, representing perfection and infinity. This design is full of classic beauty and suitable for all styles.High-quality projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail of the photos is clearly visible.Personalized Choice: This necklace can be customized to your choice, you can choose the image or message to be projected, making it a unique treasure.When placing your order, you will have the opportunity to upload the photos you wish to project. This can be a photo of you with your loved ones, friends or a special moment.Our professional team will carefully process your photos to ensure that the image on the projection stone is perfect.The blend of classics and memories: The classic and simple hollowed-out round projection necklace is not just a piece of jewelry, but also a perfect blend of classic beauty and precious memories. It will forever embed your precious moments and classic designs in a gem, and every time you wear it, it is a tribute to the classic beauty.
+  Updated: 2026-07-08T21:22:59Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/80475b50-25c9-4f6f-b165-6c2ed40023f1.jpg?v=1782577239
+  - [Gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965007169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965039937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965072705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965105473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965138241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965171009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965203777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965236545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965269313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965302081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb168e93-323c-4adc-bd38-544580445d8e.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965334849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965367617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965400385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965433153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965465921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965498689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965531457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965564225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965596993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965629761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6fb9233b-3238-4ffc-b1d0-45d8e6440cf0.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965662529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965695297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965728065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965760833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965793601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $58.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965826369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965859137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965891905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965924673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/classic-simple-hollow-round-projection-necklace?variant=51889965957441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/b7f7359c-1c0c-4b9a-8acb-a64c79ab2d74.jpg?v=1782577239
+    Price: $46.00 USD
+- [Noble and light luxury love with wings projection necklace](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace): Welcome to the world of noble and luxurious jewelry, we proudly present the noble and luxurious Heart with Wings Projection Necklace. This jewelry is not only a unique expression of love and freedom, but also incorporates the design elements of hearts and wings. Through projection technology, your precious memories will be forever treasured in a gemstone, adding a touch of luxury to your style charm.Features and functions:Unique Design Fusion: Each necklace is a fusion of noble heart and wings elements, representing love and freedom. This design is full of romance and light luxury.High-quality projection: The built-in projection gem can project your uploaded photos in high definition, ensuring that every detail of the photos is clearly visible.Personalized Choice: This necklace can be customized to your choice, you can choose the image or message to be projected, making it a unique treasure.When placing an order, you will have the opportunity to upload the photos or information you would like to be projected. This can be a photo of you with a loved one, a memory of a special moment, or a message of love and freedom.Our professional team will carefully handle your selection to ensure that the image or message on the projected stone is perfect.The perfect combination of love and freedom: Noble and light luxury heart with wings projection necklace is not only a jewelry, but also a perfect combination of love and freedom. It will forever treasure your personality and precious memories in a gemstone, and every time it is worn, it is a beautiful tribute to love and freedom.
+  Updated: 2026-07-08T21:23:07Z
+  Vendor: Artshiney
+  Product Type: ALL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/6ec4d245-c891-4105-b92b-4c3be9f2157a.jpg?v=1782577240
+  - [Silver / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966317889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966350657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966383425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966416193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Silver / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966448961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Silver / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966481729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966514497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966547265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966580033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $46.00 USD
+  - [Silver / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966612801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8be2308c-7f88-45db-b9b0-13c4b2956c63.jpg?v=1782577240
+    Price: $46.00 USD
+  - [Rose gold / S925 Silver / 15.7+2in（40+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966645569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 17.7+2in（45+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966678337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 19.6+2in（50+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966711105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 21.6+2in（55+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966743873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Rose gold / S925 Silver / 23.6+2in（60+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966776641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $58.00 USD
+  - [Rose gold / Titanium steel / 15.7+2in（40+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966809409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 17.7+2in（45+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966842177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 19.6+2in（50+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966874945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 21.6+2in（55+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966907713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $46.00 USD
+  - [Rose gold / Titanium steel / 23.6+2in（60+5cm）](https://levarjewelry.com/products/noble-and-light-luxury-love-with-wings-projection-necklace?variant=51889966940481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/51f7bc08-b007-4d31-a2db-90dfd46ce611.jpg?v=1782577240
+    Price: $46.00 USD
+[List Continued](https://levarjewelry.com/a/llms-agent/llms.txt?shop=blackboxjewelry-926.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDI5NTg3NzUzNDAxNywibGFzdF92YWx1ZSI6IjEwMjk1ODc3NTM0MDE3In0%3D)
 
 ## Collections
 
-- [Banlisse](https://levarjewelry.com/collections/mens-casual-wear-example-products)
-  Updated: 2026-06-29T14:30:11Z
-  Total Products: 1
-- [New Arrivals | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/jewelry-example-products): Shop the latest jewelry arrivals at Le'Var Neilson. New moissanite, diamond, and gemstone pieces added regularly.
-  Updated: 2026-07-04T14:43:09Z
+- [New Arrivals](https://levarjewelry.com/collections/new-arrivals): Shop the latest jewelry arrivals at Le'Var Neilson. New moissanite, diamond, and gemstone pieces added regularly.
+  Updated: 2026-07-08T20:26:47Z
   Total Products: 6
-- [Necklaces | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/necklaces): Shop luxury necklaces at Le'Var Neilson. Moissanite pendants, diamond chains, and gemstone styles designed to make a statement.
-  Updated: 2026-07-04T14:43:10Z
-  Total Products: 53
-- [Jewelry Sets — Matching Rings, Earrings & Necklaces | Le'Var](https://levarjewelry.com/collections/jewelry-set): Shop Le'Var jewelry sets. Curated matching rings, earrings, necklaces & bracelets in gold & silver. Perfect for gifting or building your signature look.
-  Updated: 2026-07-04T14:38:39Z
-  Total Products: 10
-- [Rosec Jewels](https://levarjewelry.com/collections/rosec-jewels): Rosec Jewels
-  Updated: 2026-07-04T14:29:19Z
-  Total Products: 12
-- [Women's Rings | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/womens-rings): Discover women's rings at Le'Var Neilson. Elegant moissanite, diamond, and gemstone designs in gold and silver for every occasion.
-  Updated: 2026-07-04T14:29:19Z
-  Total Products: 19
-- [Rings | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/rings): Shop luxury rings at Le'Var Neilson — moissanite, diamond, and gemstone styles in gold and sterling silver. Find your perfect ring today.
-  Updated: 2026-07-04T14:29:20Z
-  Total Products: 23
-- [Bridal & Engagement Jewelry — Rings & Sets | Le'Var](https://levarjewelry.com/collections/bridal-engagement-jewelry): Shop Le'Var bridal & engagement jewelry. Moissanite & lab-grown diamond rings, wedding bands, and bridal sets. Ethically sourced, brilliantly crafted.
-  Updated: 2026-07-04T14:29:20Z
-  Total Products: 5
-- [Women's Necklaces | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/womens-necklaces): Discover women's necklaces at Le'Var Neilson — layered chains, pendants, and gemstone styles in gold and sterling silver.
-  Updated: 2026-07-04T14:43:10Z
-  Total Products: 39
-- [Trendsi](https://levarjewelry.com/collections/trendsi)
-  Updated: 2026-07-04T14:29:20Z
+- [Necklaces](https://levarjewelry.com/collections/necklaces): Shop moissanite and sterling silver necklaces at Le'Var Neilson. Delicate chains, bold pendants, and projection necklaces. Free shipping available.
+  Updated: 2026-07-12T03:35:33Z
   Total Products: 37
-- [Women's Earrings | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/womens-earrings): Elegant women's earrings at Le'Var Neilson. From diamond studs to gemstone dangles — crafted in gold and sterling silver.
-  Updated: 2026-07-04T14:43:10Z
+- [Rings](https://levarjewelry.com/collections/rings): Shop moissanite and sterling silver rings at Le'Var Neilson. Solitaires, stacking rings, bypass styles & more for women and men. Free shipping available.
+  Updated: 2026-07-10T02:11:30Z
+  Total Products: 33
+- [Bridal & Engagement Jewelry](https://levarjewelry.com/collections/bridal-engagement-jewelry): Shop moissanite bridal and engagement jewelry at Le'Var Neilson. Engagement rings, wedding bands, and bridal sets in 925 sterling silver. Free shipping.
+  Updated: 2026-07-10T02:11:30Z
+  Total Products: 16
+- [Earrings](https://levarjewelry.com/collections/earrings): Shop moissanite and sterling silver earrings at Le'Var Neilson. Studs, hoops, drop earrings and more. Everyday luxury for every occasion. Free shipping available.
+  Updated: 2026-07-12T22:29:29Z
+  Total Products: 20
+- [Le'Var Neilson](https://levarjewelry.com/collections/levar-neilson): Shop the Le'Var Neilson collection — premium moissanite necklaces, rings, and bracelets crafted for timeless elegance and everyday luxury.
+  Updated: 2026-07-12T22:29:29Z
+  Total Products: 319
+- [Gift Cards](https://levarjewelry.com/collections/gift-cards): Give the gift of fine moissanite jewelry with a Le'Var Neilson Gift Card. Redeemable on any piece, delivered instantly, and never expires.
+  Updated: 2026-07-08T21:07:09Z
+  Total Products: 1
+- [Bracelets](https://levarjewelry.com/collections/bracelets-smart): Shop fine bracelets at Le'Var Neilson. Moissanite, diamond, and gemstone designs in gold and silver for everyday luxury.
+  Updated: 2026-07-09T18:43:06Z
+  Total Products: 2
+- [Women's Bracelets](https://levarjewelry.com/collections/womens-bracelets-smart): Shop Le'Var Neilson's women's moissanite bracelets — tennis, bangle & layering styles in rose gold, white gold & silver. Timeless elegance awaits.
+  Updated: 2026-07-08T21:06:53Z
+  Total Products: 1
+- [Photo Projection Jewelry](https://levarjewelry.com/collections/photo-projection-jewelry): Shop Le'Var photo projection jewelry. Upload your photo and wear it forever in a stunning ring or necklace. Perfect personalized gift for any occasion.
+  Updated: 2026-07-08T20:26:48Z
+  Total Products: 72
+- [Projection Necklaces](https://levarjewelry.com/collections/projection-necklaces): Shop Le'Var's projection necklaces — unique jewelry with a hidden photo or message inside. Perfect gifts for her. Free shipping available.
+  Updated: 2026-07-08T20:26:48Z
+  Total Products: 44
+- [Projection Bracelets](https://levarjewelry.com/collections/projection-bracelets): Shop Le'Var's projection bracelets — elegant bracelets with a hidden photo or message inside. Unique jewelry gifts for her.
+  Updated: 2026-07-08T20:26:48Z
+  Total Products: 22
+- [Projection Rings](https://levarjewelry.com/collections/projection-rings): Shop Le'Var's projection rings — stunning rings with a hidden photo or message inside. Unique, personal jewelry gifts for her.
+  Updated: 2026-07-08T20:26:48Z
   Total Products: 3
-- [artshiney](https://levarjewelry.com/collections/artshiney)
-  Updated: 2026-07-04T14:29:21Z
-  Total Products: 66
-- [Men's Moissanite Bracelets – Luxury Men's Jewelry | Le'Var Neilson](https://levarjewelry.com/collections/mens-bracelets): Shop Le'Var Neilson's men's moissanite bracelets — bold, refined designs in gold & silver. Built for the modern man who demands quality.
-  Updated: 2026-06-27T05:56:26Z
-  Total Products: 0
-- [Pearl Jewelry | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/pearls): Discover pearl jewelry at Le'Var Neilson. Timeless pearl necklaces, earrings, and bracelets crafted for modern elegance.
-  Updated: 2026-07-04T14:41:28Z
-  Total Products: 2
-- [Earrings | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/earrings): Shop fine earrings at Le'Var Neilson — studs, hoops, dangles, and more in moissanite, diamond, and gemstones. Elevate every look.
-  Updated: 2026-07-04T14:41:29Z
-  Total Products: 4
-- [Le'Var Neilson Luxury Moissanite Jewelry Collection](https://levarjewelry.com/collections/levar-neilson): Shop the Le'Var Neilson collection — premium moissanite necklaces, rings, and bracelets crafted for timeless elegance and everyday luxury.
-  Updated: 2026-07-04T14:29:21Z
-  Total Products: 101
-- [Luxury Jewelry Gift Cards – Le'Var Neilson](https://levarjewelry.com/collections/gift-cards): Give the gift of fine moissanite jewelry with a Le'Var Neilson Gift Card. Redeemable on any piece, delivered instantly, and never expires.
-  Updated: 2026-06-27T05:56:26Z
-  Total Products: 1
-- [Body Jewelry](https://levarjewelry.com/collections/body-jewelry): Adorn yourself with our stunning collection of body jewelry, crafted with premium moissanite and fine metals. From elegant belly rings and nose studs to sophisticated ear cuffs and cartilage pieces, each design is made to complement your unique style. Premium moissanite stones with exceptional brilliance Hypoallergenic materials for sensitive skin Timeless designs for everyday wear or special occasions Available in gold, rose gold, and silver finishes Whether you're looking for a subtle accent or a bold statement piece, our body jewelry collection delivers luxury you can wear anywhere.
-  Updated: 2026-06-27T05:56:26Z
-  Total Products: 0
-- [Charms & Pendants | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/charms-pendants): Shop charms and pendants at Le'Var Neilson. Delicate moissanite and gemstone designs in gold and sterling silver.
-  Updated: 2026-07-04T14:41:29Z
-  Total Products: 1
-- [Bracelets | Le'Var Neilson Jewelry](https://levarjewelry.com/collections/bracelets-smart): Shop fine bracelets at Le'Var Neilson. Moissanite, diamond, and gemstone designs in gold and silver for everyday luxury.
-  Updated: 2026-06-29T01:35:48Z
+- [Moissanite Gift Sets](https://levarjewelry.com/collections/moissanite-gift-sets): Shop curated moissanite gift sets at Le'Var Neilson. Rings, necklaces & earrings bundled for the perfect luxury jewelry gift.
+  Updated: 2026-07-11T07:34:37Z
+  Total Products: 6
+- [Moissanite Bridal Sets](https://levarjewelry.com/collections/moissanite-bridal-sets): Shop moissanite bridal jewelry sets at Le'Var Neilson. Curated rings, earrings & necklace pairings for your wedding day.
+  Updated: 2026-07-08T20:26:48Z
+  Total Products: 7
+- [Moissanite Everyday Stack](https://levarjewelry.com/collections/moissanite-everyday-stack): Shop moissanite everyday stack jewelry at Le'Var Neilson. Mix & match rings, bracelets, and necklaces for effortless daily luxury.
+  Updated: 2026-07-10T01:52:33Z
+  Total Products: 15
+- [Men's Necklaces](https://levarjewelry.com/collections/mens-necklaces): Shop premium men's necklaces at Le'Var — Cuban link chains, cross pendants, dragon designs & more. Bold jewelry for men who lead.
+  Updated: 2026-07-12T03:35:33Z
   Total Products: 5
-- [Women's Moissanite Bracelets – Elegant Luxury Jewelry | Le'Var Neilson](https://levarjewelry.com/collections/womens-bracelets-smart): Shop Le'Var Neilson's women's moissanite bracelets — tennis, bangle & layering styles in rose gold, white gold & silver. Timeless elegance awaits.
-  Updated: 2026-06-27T05:56:26Z
-  Total Products: 1
-- [Photo Projection Jewelry — Personalized Rings & Necklaces | Le'Var](https://levarjewelry.com/collections/photo-projection-jewelry): Shop Le'Var photo projection jewelry. Upload your photo and wear it forever in a stunning ring or necklace. Perfect personalized gift for any occasion.
-  Updated: 2026-07-04T14:29:22Z
-  Total Products: 81
-- [Projection Necklaces — Hidden Message Jewelry | Le'Var](https://levarjewelry.com/collections/projection-necklaces): Shop Le'Var's projection necklaces — unique jewelry with a hidden photo or message inside. Perfect gifts for her. Free shipping available.
-  Updated: 2026-07-04T14:43:12Z
-  Total Products: 47
-- [Projection Bracelets — Hidden Message Jewelry Gifts | Le'Var](https://levarjewelry.com/collections/projection-bracelets): Shop Le'Var's projection bracelets — elegant bracelets with a hidden photo or message inside. Unique jewelry gifts for her.
-  Updated: 2026-07-04T14:41:30Z
-  Total Products: 26
-- [Projection Rings — Hidden Message Jewelry Gifts | Le'Var](https://levarjewelry.com/collections/projection-rings): Shop Le'Var's projection rings — stunning rings with a hidden photo or message inside. Unique, personal jewelry gifts for her.
-  Updated: 2026-07-04T14:43:13Z
-  Total Products: 5
-- [Bridal Jewelry — Wedding Earrings, Necklaces & Bracelets | Le'Var](https://levarjewelry.com/collections/bridal-jewelry): Shop Le'Var bridal jewelry. Elegant earrings, necklaces, and bracelets for your wedding day. Moissanite & crystal accents in gold, silver & rose gold.
-  Updated: 2026-07-04T14:29:22Z
+- [Men's Bracelets](https://levarjewelry.com/collections/mens-bracelets): Shop premium men's bracelets at Le'Var — Cuban link, dragon bone, snake bone & punk styles. Bold wrist jewelry for men who lead.
+  Updated: 2026-07-11T08:53:07Z
   Total Products: 2
+- [Men's Earrings](https://levarjewelry.com/collections/mens-earrings): Shop premium men's earrings at Le'Var — moissanite studs and sterling silver designs. Unisex styles, diamond-rivaling brilliance.
+  Updated: 2026-07-12T22:29:29Z
+  Total Products: 3
+- [Women's Earrings](https://levarjewelry.com/collections/womens-earrings): Shop premium women's earrings at Le'Var — moissanite studs, drop earrings, hoops & custom designs in 925 sterling silver.
+  Updated: 2026-07-12T22:29:29Z
+  Total Products: 8
+- [Personalized Jewelry](https://levarjewelry.com/collections/personalized-jewelry): Shop personalized jewelry at Le'Var — custom name earrings, engraved pieces & photo projection jewelry. Unique gifts in sterling silver & gold.
+  Updated: 2026-07-12T22:44:26Z
+  Total Products: 0
 
 ## Blogs
 
@@ -2681,6 +2600,12 @@
     Author: Le'Var Neilson Jewelry
   - [Understanding the Symbolism Behind Different Gemstones](https://levarjewelry.com/blogs/news/understanding-the-symbolism-behind-different-gemstones): Understanding the Symbolism Behind Different Gemstones
     Updated: 2026-06-28T00:05:06Z
+    Author: Le'Var Neilson Jewelry
+  - [How to Choose the Perfect Gemstone for Your Jewelry](https://levarjewelry.com/blogs/news/how-to-choose-the-perfect-gemstone-for-your-jewelry): How to Choose the Perfect Gemstone for Your Jewelry
+    Updated: 2026-07-05T00:04:45Z
+    Author: Le'Var Neilson Jewelry
+  - [The Science Behind the Sparkle of Gemstones](https://levarjewelry.com/blogs/news/the-science-behind-the-sparkle-of-gemstones): The Science Behind the Sparkle of Gemstones
+    Updated: 2026-07-12T00:04:55Z
     Author: Le'Var Neilson Jewelry
 
 ## Store Pages
@@ -2719,13 +2644,13 @@
 - [Privacy Policy](https://levarjewelry.com/policies/privacy-policy)
   Updated: 2025-08-22T00:21:34-07:00
 - [Shipping Policy](https://levarjewelry.com/policies/shipping-policy)
-  Updated: 2023-03-22T22:55:10-07:00
+  Updated: 2026-07-04T18:48:30-07:00
 - [Refund Policy](https://levarjewelry.com/policies/refund-policy)
-  Updated: 2025-08-22T00:21:59-07:00
+  Updated: 2026-07-04T18:54:15-07:00
 - [Terms of Service](https://levarjewelry.com/policies/terms-of-service)
-  Updated: 2025-08-22T00:25:23-07:00
+  Updated: 2026-07-04T18:55:30-07:00
 - [Contact Information](https://levarjewelry.com/policies/contact-information)
-  Updated: 2025-08-22T00:32:32-07:00
+  Updated: 2026-07-04T18:53:25-07:00
 
 ## Optional
 
