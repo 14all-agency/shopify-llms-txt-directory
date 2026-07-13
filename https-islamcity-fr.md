@@ -6,7 +6,7 @@
 - Timezone: Africa/Dakar
 - Created At: 2026-04-24T07:54:06Z
 - Contact Email: comservicess3@gmail.com
-- Updated At: 2026-07-06T00:00:39.177Z
+- Updated At: 2026-07-13T00:00:40.105Z
 
 ## Products
 
@@ -292,40 +292,40 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/download_41.png?v=1780572907
   Price: €6.99 EUR
-- [KIT SPIRITUEL – LE VERSET DE LA SOURATE AL-FATH ÉCRITE 12 000 FOIS](https://islamcity.fr/products/kit-spirituel-le-verset-de-la-sourate-al-fath-ecrite-12-000-fois): KIT SPIRITUEL – UN VERSET DE LA SOURATE AL-FATH ÉCRITE 12 000 FOIS Offrez-vous un accompagnement spirituel exceptionnel inspiré des traditions de récitation et d'invocation du Coran. Chaque préparation est réalisée avec soin et dévotion. Le verset choisi de la Sourate Al-Fath est écrit 12 000 fois selon un procédé spirituel spécifique, puis accompagné d'une poudre destinée à être utilisée dans le cadre d'un bain spirituel pendant au moins 7 jours. Pourquoi commander ce kit spirituel ? • Rechercher les bénédictions, la baraka et les faveurs d'Allah. • Devenir riche. • Demander à Allah l'ouverture des portes du bien, de la réussite et de la subsistance. • Rechercher la protection divine, l'amour des créatures et la proximité du Créateur. • Accompagner vos douas et vos efforts dans la recherche du bonheur ici-bas et dans l'au-delà. Contenu du colis : ✔ Le verset de la Sourate Al-Fath écrit 12 000 fois. ✔ La poudre spirituelle à utiliser pour le bain. ✔ Les instructions détaillées d'utilisation sur 7 jours. Livraison : Votre colis est expédié discrètement et en toute confidentialité par la poste ou par GP selon votre préférence. Les préparations étant réalisées avec soin, les quantités sont limitées. Ne remettez pas à demain votre quête de richesse et de bénédictions et de rapprochement avec Allah. Commandez dès aujourd'hui votre Kit Spirituel Sourate Al-Fath et commencez votre programme de 7 jours.
-  Updated: 2026-07-04T12:58:13Z
+- [Kit Spirituel Sourate Al-Fath écrite 12 000 fois – Bain spirituel 7 jours](https://islamcity.fr/products/kit-spirituel-le-verset-de-la-sourate-al-fath-ecrite-12-000-fois): Kit spirituel complet : verset de la Sourate Al-Fath écrit 12 000 fois + poudre pour bain spirituel 7 jours. Baraka, richesse, protection divine. Livraison discrète.
+  Updated: 2026-07-07T11:11:19Z
   Vendor: Islamcity
   Product Type: service
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/colis223.jpg?v=1783086121
   Price: €150.00 EUR
 - [Les secrets et zikrs du nom de Dieu Al LATIF](https://islamcity.fr/products/les-secrets-et-zikrs-du-nom-de-dieu-al-latif): Découvrez les mystères profonds du nom divin Al Latif à travers ce guide spirituel complet. Ce livre numérique vous révèle les secrets cachés et les zikrs authentiques associés à ce nom puissant, permettant vous de renforcer votre connexion spirituelle et d'accéder à une compréhension plus intime de la sagesse divine. Explorez des pratiques spirituelles éprouvées, des invocations transformatrices et des enseignements profonds qui vous guideront vers une paix intérieure durable ainsi que résolution de tout problème. Parfait pour ceux qui cherchent à approfondir leur foi et à intégrer les vertus d'Al Latif dans leur quotidien. Accès immédiat après l'achat. Format numérique pratique à consulter à tout moment.
-  Updated: 2026-07-05T08:54:08Z
+  Updated: 2026-07-11T12:43:16Z
   Vendor: Islamcity
   Product Type: pdf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/Brown_Cute_Aesthetic_Diary_Book_Cover_A4_Document_3.jpg?v=1783163906
+  Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/Brown_Cute_Aesthetic_Diary_Book_Cover_A4_Document_3.jpg?v=1783773795
   Price: €10.99 EUR
 - [Les secrets et zikrs de Ayatul Kursy](https://islamcity.fr/products/les-secrets-et-zikrs-de-ayatul-kursy): Découvrez les secrets profonds et les zikrs puissants d'Ayatul Kursy, l'un des versets les plus vénérés du Coran. Ce guide numérique explore les dimensions spirituelles de cet ayat extraordinaire, révélant ses pouvoirs de protection, d'ouverture et de déblocage. Apprenez comment intégrer Ayatul Kursy dans votre pratique quotidienne pour renforcer votre connexion spirituelle, créer une barrière de protection autour de vous et de votre famille, et débloquer les portes fermées de votre vie. Chaque secret et chaque zikr est expliqué avec clarté et profondeur, offrant des pratiques accessibles et transformatrices. Idéal pour ceux qui cherchent à approfondir leur compréhension du Coran et à bénéficier des bénédictions cachées de ce verset sacré.
-  Updated: 2026-07-04T11:51:18Z
+  Updated: 2026-07-11T12:41:35Z
   Vendor: Islamcity
   Product Type: pdf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/BrownCuteAestheticDiaryBookCoverA4Document_4.jpg?v=1783165676
+  Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/BrownCuteAestheticDiaryBookCoverA4Document_4.jpg?v=1783773694
   Price: €10.99 EUR
 - [Les secrets et zikrs de la sourate Alam nachrah](https://islamcity.fr/products/les-secrets-et-zikrs-de-la-sourate-alam-nachrah): Découvrez les secrets profonds et les zikrs puissants de la sourate Alam Nachrah, révélés pour transformer votre vie spirituelle. Ce guide numérique vous enseigne comment utiliser cette sourate sacrée pour débloquer les obstacles, ouvrir les portes fermées et bénéficier d'une protection divine constante. Apprenez les invocations spécifiques, les pratiques recommandées et les moments optimaux pour réciter cette sourate afin d'amplifier ses effets bénéfiques. Que vous cherchiez à surmonter des difficultés, à attirer la facilité dans vos affaires ou à renforcer votre connexion spirituelle, ce livre numérique vous offre les clés pour accéder au pouvoir transformateur de la sourate Alam Nachrah. Un ressource essentielle pour tout chercheur spirituel désireux de progresser sur le chemin de la foi et de l'illumination.
-  Updated: 2026-07-04T14:26:00Z
+  Updated: 2026-07-11T12:40:32Z
   Vendor: Islamcity
   Product Type: pdf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/Brown_Cute_Aesthetic_Diary_Book_Cover_A4_Document_6.jpg?v=1783175108
+  Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/Brown_Cute_Aesthetic_Diary_Book_Cover_A4_Document_6.jpg?v=1783773632
   Price: €10.99 EUR
 - [Les Secrets et Zikrs de la sourate Yassin](https://islamcity.fr/products/les-secrets-et-zikrs-de-la-sourate-yassin): Découvrez les secrets profonds de la sourate Yassin, l'une des plus puissantes du Coran. Ce guide numérique vous révèle les zikrs et invocations spécifiques pour bénéficier de sa protection spirituelle exceptionnelle. La sourate Yassin est reconnue pour ses vertus de désenvoutement et de libération des énergies négatives. Elle ouvre les portes du cœur, apaise l'âme et crée un bouclier spirituel autour de vous et de votre famille. Grâce aux pratiques détaillées dans ce livre, vous accéderez à une paix intérieure durable, une augmentation du bonheur et une connexion spirituelle renforcée. Les zikrs enseignés activent les bénédictions cachées de cette sourate majeure, transformant votre quotidien en chemin de lumière et de sérénité. Parfait pour ceux qui cherchent protection, guérison spirituelle et épanouissement personnel.
-  Updated: 2026-07-04T15:13:53Z
+  Updated: 2026-07-11T12:40:09Z
   Vendor: Islamcity
   Product Type: pdf
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/BrownCuteAestheticDiaryBookCoverA4Document_7.jpg?v=1783177895
+  Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/BrownCuteAestheticDiaryBookCoverA4Document_7.jpg?v=1783773609
   Price: €10.99 EUR
 
 ## Collections
@@ -369,6 +369,9 @@
     Author: My Store Admin
   - [Votre colis arrivera cette début de semaine](https://islamcity.fr/blogs/news/votre-colis-arrivera-cette-debut-de-semaine)
     Updated: 2026-07-03T13:46:59Z
+    Author: My Store Admin
+  - [ de 04 livres](https://islamcity.fr/blogs/news/-de-04-livres)
+    Updated: 2026-07-09T19:43:25Z
     Author: My Store Admin
 
 ## Store Pages
