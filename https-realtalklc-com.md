@@ -6,12 +6,12 @@
 - Timezone: Europe/Madrid
 - Created At: 2026-02-24T14:46:32Z
 - Contact Email: info@realtalklc.com
-- Updated At: 2026-07-05T14:53:36.747Z
+- Updated At: 2026-07-13T00:00:23.012Z
 
 ## Products
 
 - [The Coffee and Love "Fuel Up" Ceramic Mug](https://realtalklc.com/products/coffee-and-love-fuel-up-ceramic-mug): Start your morning with a heart full of warmth and a cup full of energy. This charming ceramic mug features a whimsical lineup of hand-drawn coffee cups, each with its own tiny personality, reminding you that love and caffeine are the two best ways to power through your day. • Ceramic • 11 oz mug dimensions: 3.8″ (9.6 cm) in height, 3.2″ (8.2 cm) in diameter • 15 oz mug dimensions: 4.7″ (11.9 cm) in height, 3.3″ (8.5 cm) in diameter • 20 oz mug dimensions: 4.3″ (10.9 cm) in height, 3.7″ (9.3 cm) in diameter • Lead and BPA-free material • Dishwasher and microwave safe • Blank product sourced from China Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the lead and cadmium level requirements. In compliance with the General Product Safety Regulation (GPSR), Real Talk ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at realtalkparenting00@gmail.com or write to us 123 Main Street, Anytown, Country.
-  Updated: 2026-05-30T14:22:58Z
+  Updated: 2026-07-12T12:27:58Z
   Vendor: Real Talk
   Product Type: Mugs
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/white-glossy-mug-white-20-oz-front-view-6a086c67aa51f.jpg?v=1778936944
     Price: €13.00 EUR
 - [Parenting 101 funny Tee](https://realtalklc.com/products/the-winging-it-works): We checked the archives, and it turns out nobody actually knows what they’re doing. The Winging It Works is a curated collection of essentials for the parent who is currently Googling "is this colour of poop normal?" (Spoiler: Probably). We provide the tools; you provide the patience and the industrial-strength coffee. · 60% combed ring-spun cotton, 40% polyester · Lightweight fabric: 4.3 oz./yd.² (146 g/m²) · Regular fit with a modern silhouette · Crew neck with reinforced shoulder-to-shoulder binding · Tear-away label for added comfort · Blank product sourced from the US Age restrictions: For adults EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Real Talk ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at realtalkparenting00@gmail.com or write to us las palmas spain.
-  Updated: 2026-06-08T12:47:30Z
+  Updated: 2026-07-12T12:27:59Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -235,7 +235,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-cvc-t-shirt-orange-front-6a00d6cf2b651.jpg?v=1778439907
     Price: €20.50 EUR
 - [Parenting 101 funny Tee](https://realtalklc.com/products/parenting-101-funny-tee): Welcome to the infantry. You’re officially a "New Recruit" in the world of diapers, drool, and demands. This collection covers the Parenting 101 basics—essentially everything you need to keep a tiny human alive while maintaining at least 15% of your former personality.  by babies. Required by exhausted adults. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Real Talk ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at realtalkparenting00@gmail.com or write to us las palmas spain.
-  Updated: 2026-06-08T12:47:30Z
+  Updated: 2026-07-12T12:27:59Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -433,7 +433,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-classic-tee-white-front-69f24cd422e17.jpg?v=1777487096
     Price: €20.50 EUR
 - [Parenting 101 funny bottles](https://realtalklc.com/products/parenting-101-funny-bottle): Congratulations! You’ve been promoted to a job with no pay, 24-hour shifts, and a boss who screams when they lose their socks. The Survivalist’s Starter Pack is our "Parenting 101" collection designed to help you navigate the trenches. It’s full of gear that’s easier to operate than your brain is after three hours of sleep. Go from "I have no idea" to "I kind of have an idea." • High-grade stainless steel • 17 oz (500 ml) • Dimensions: 10.5″ × 2.85″ (27 × 7 cm) • Vacuum flask • Double-wall construction • Bowling pin shape • Glossy finish • Odourless and leak-proof cap • Insulated for hot and cold liquids (keeps the liquid hot or cold for 6 h) • Patented ORCA coating for vibrant colours • Hand-wash only • Blank product sourced from China Disclaimer: Keeping water in the bottle for over 24 hours is unhygienic and can result in an unpleasant smell. Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the lead, cadmium, heavy metal, aromatic amines and BPA level requirements. In compliance with the General Product Safety Regulation (GPSR), Real Talk ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at realtalkparenting00@gmail.com or write to us las palmas spain.
-  Updated: 2026-06-08T12:47:30Z
+  Updated: 2026-07-12T12:27:59Z
   Vendor: Real Talk
   Product Type: Bottles
   Availability: Available
@@ -447,7 +447,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/stainless-steel-water-bottle-white-17-oz-front-69f250872ee17.jpg?v=1777488027
     Price: €27.00 EUR
 - [Parenting 101 Funny Unisex Cotton T-Shirt](https://realtalklc.com/products/parenting-101-funny-tee-1): This Parenting 101 funny unisex t-shirt is a soft cotton tee for adults who are embracing the chaos of parenting with humor. Made from durable cotton fabric with taped neck and shoulders, tubular construction, and double-stitched sleeves and hem for everyday comfort and longevity. Suitable for adults and compliant with EU safety standards, it is available in multiple colors and sizes from S to 3XL.
-  Updated: 2026-06-08T12:47:30Z
+  Updated: 2026-07-12T12:27:59Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -645,7 +645,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-classic-tee-white-front-69f390c469095.jpg?v=1777570021
     Price: €20.50 EUR
 - [Parenting 101 Funny Unisex Cotton T-Shirt](https://realtalklc.com/products/parenting-101-funny-tee-2): You are now being held captive by a 10-pound roommate who can’t hold their own head up but somehow controls your entire schedule. The Negotiation Tactics collection features all the Parenting 101 gear you need to meet their demands—milk, warmth, and bouncy movements—so they’ll consider letting you take a shower. We don't negotiate with terrorists. Unless they’re cute. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Real Talk ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at realtalkparenting00@gmail.com or write to us Las Palmas 35110 Spain.
-  Updated: 2026-06-08T12:47:30Z
+  Updated: 2026-07-12T12:27:59Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -851,7 +851,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-classic-tee-white-front-69f490d846bd9.jpg?v=1777635572
     Price: €20.50 EUR
 - [Parenting 101 Funny Unisex Cotton T-Shirt](https://realtalklc.com/products/parenting-101-funny-tee-3): All aboard! Destination: Exhaustion. The Hot Mess Express is the only collection that admits that "Parenting 101" is basically just trying to put a diaper on a moving target while your coffee gets cold for the fourth time today. We’ve got the basics covered so you can focus on finding where you left your keys. (Check the freezer. They're usually in the freezer.) First class seats for the sleep-deprived. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, phthalates and formaldehyde level requirements. In compliance with the General Product Safety Regulation (GPSR), Real Talk ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at realtalkparenting00@gmail.com or write to us Las Palmas 35110 Spain.
-  Updated: 2026-06-08T12:47:31Z
+  Updated: 2026-07-12T12:28:00Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -1057,7 +1057,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-classic-tee-ash-front-69f5193a727b5.jpg?v=1777670490
     Price: €20.50 EUR
 - [Parenting 101 Funny Cotton Unisex T-Shirt](https://realtalklc.com/products/parenting-101-funny-tee-4): This Parenting 101 funny cotton unisex t-shirt brings biohazard-inspired humor to the chaos of new parenthood. Made from soft cotton or cotton-blend fabric with a crew neckline, short sleeves, and durable double-stitched hems, it's designed for comfortable everyday wear while you vent and share parenting experiences.
-  Updated: 2026-06-08T12:47:31Z
+  Updated: 2026-07-12T12:28:00Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -1263,7 +1263,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-classic-tee-white-front-69f51c65c2d29.jpg?v=1777671302
     Price: €20.50 EUR
 - [Baby Delivery Service: American Edition Unisex Tee](https://realtalklc.com/products/the-eagle-has-landed-retro-baby-delivery-ringer-tee): Forget the Stork—We Use the Heavy Lifters. Let’s be honest: storks are a bit flimsy for American logistics. If you want the job done right, you call in the U.S. Baby Delivery Service. Featuring the majestic Bald Eagle doing the ultimate "special delivery," this ringer tee is designed for the man who knows that freedom—and fatherhood—comes from above. "Listen, I don't care what the history books say. In this house, we tell the kids they were air-dropped by a patriot." The "Dad Stats": Maximum "Dad Energy": Pairs perfectly with white crew socks, cargo shorts, and a grill spatula. Throwback Style: The contrast collar and sleeves give it that 1970s "cool coach" look, even if your only sport is chasing a toddler. Tough as Nails: Made from a soft-wash cotton blend that survives spit-ups, spills, and the general chaos of the "delivery" aftermath.  Classic: A graphic so bold, it’ll make the neighbours salute (or at least eye-roll at your puns). Age restrictions: For adults EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Real Talk ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at realtalkparenting00@gmail.com or write to us Las palmas, gran canaria.
-  Updated: 2026-06-08T12:47:31Z
+  Updated: 2026-07-12T12:28:00Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -1389,7 +1389,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-ringer-t-shirt-white-black-front-6a00d25eeef4d.jpg?v=1778438767
     Price: €25.00 EUR
 - [Baby Delivery Service:  African Edition Unisex Tee](https://realtalklc.com/products/the-stork-was-busy-africa-delivery-tee): In the Savannah, we don’t use birds for heavy lifting. We use the ones who can actually see where they’re going. Savannah Logistics: 100% more reliable than a stork, 200% more neck. High-Altitude Shipping: Because some bundles of joy require a little extra . Premium Quality: Soft enough for a baby, but designed for the person who has to pay for the diapers. The "Real Talk": It’s a long walk from the Safari to the nursery—luckily, these guys have the stride for it. • 100% combed ring-spun cotton • Heather Gray is 90% cotton, 10% polyester • Fabric weight: 4.3 oz./yd.² (145 g/m²) • Yarn diameter: 32 singles • Side-seamed construction • Regular fit • Crew neck • 1 × 1 baby rib binding on the neckline and sleeves • Blank product sourced from Nicaragua Age restrictions: For adults EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Real Talk ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at realtalkparenting00@gmail.com or write to us 123 Main Street, Anytown, Country.
-  Updated: 2026-06-08T12:47:31Z
+  Updated: 2026-07-12T12:28:00Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -1515,7 +1515,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-ringer-t-shirt-white-black-front-6a00d1dd0b403.jpg?v=1778438638
     Price: €25.00 EUR
 - [Baby Delivery Service: Chinese Edition Unisex Tee](https://realtalklc.com/products/panda-express-special-delivery-edition): Celebrate new arrivals with this soft, cuddly unisex t-shirt featuring an over-qualified panda courier bringing home the newest member of the family. Made from combed ring-spun cotton with a regular fit, crew neck, and 1×1 baby rib binding on the neckline and sleeves, it offers lasting comfort for new parents and panda enthusiasts alike.
-  Updated: 2026-06-08T12:47:31Z
+  Updated: 2026-07-12T12:28:00Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -1641,7 +1641,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-ringer-t-shirt-white-black-front-6a00d164f0c21.jpg?v=1778438517
     Price: €25.00 EUR
 - [Baby Delivery Service - Canadian Edition Unisex Tee](https://realtalklc.com/products/moose-baby-delivery-service-canada-edition-t-shirt): Think a 5-pound bird is carrying a 10-pound human? Not in this economy. We’ve upgraded to the Canadian Heavy-Lift Model. Featuring a majestic moose doing the heavy lifting, this shirt is perfect for anyone who knows that Canadian babies are born with a hockey stick in one hand and a bottle of maple syrup in the other. It’s the ultimate conversation starter for your next cottage weekend or trip to the grocery store. Warning: May cause spontaneous urges to apologise to everyone you meet.Vibe: High energy, slightly absurd.Best for: People who love a good "Canadian Stereotype" joke.• 100% combed ring-spun cotton• Heather Gray is 90% cotton, 10% polyester• Fabric weight: 4.3 oz./yd.² (145 g/m²)• Yarn diameter: 32 singles• Side-seamed construction• Regular fit• Crew neck• 1 × 1 baby rib binding on the neckline and sleeves• Blank product sourced from Nicaragua
-  Updated: 2026-06-08T12:47:32Z
+  Updated: 2026-07-12T12:28:00Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -1767,7 +1767,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-ringer-t-shirt-white-black-front-6a00d0afc3488.jpg?v=1778438334
     Price: €25.00 EUR
 - [Funny New Parent T-Shirt Midnight Minefield Manual - Real Talk](https://realtalklc.com/products/the-midnight-minefield-manual-tee): Survive the newborn nights in style. The Midnight Minefield Manual tee is the perfect funny gift for new parents. Soft cotton, witty & unique.
-  Updated: 2026-06-08T12:47:32Z
+  Updated: 2026-07-12T12:28:01Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -1973,7 +1973,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-staple-t-shirt-pebble-front-6a024fddbe243.jpg?v=1778536446
     Price: €22.00 EUR
 - [Funny Pregnancy Gift Women's T-Shirt From Shots to Swaddles - Real Talk](https://realtalklc.com/products/from-shots-to-swaddles-t-shirt): Celebrate the journey from wild nights to nappy changes! Organic cotton women's tee — the perfect funny pregnancy or baby shower gift.
-  Updated: 2026-06-08T12:47:32Z
+  Updated: 2026-07-12T12:28:01Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -2179,7 +2179,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/womens-organic-ribbed-neck-stella-muser-t-shirt-white-front-6a0254d0e48a3.jpg?v=1778537710
     Price: €27.00 EUR
 - [Funny Baby Shower Gift T-Shirt Irish Edition - Real Talk](https://realtalklc.com/products/irish-wolfhound-express-baby-edition): The luck of the Irish, delivered! Funny unisex tee — a brilliant baby shower or new baby gift for Irish families. Ships worldwide.
-  Updated: 2026-06-08T12:47:32Z
+  Updated: 2026-07-12T12:28:01Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -2305,7 +2305,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-ringer-t-shirt-white-black-front-6a0de9de07963.jpg?v=1779296750
     Price: €25.00 EUR
 - [Funny Baby Shower Gift T-Shirt Spanish Edition - Real Talk](https://realtalklc.com/products/the-bull-stop-spanish-edition): The perfect funny baby shower gift tee for Spanish families. Unisex t-shirt celebrating new arrivals with humour. Ships across Europe.
-  Updated: 2026-06-08T12:47:32Z
+  Updated: 2026-07-12T12:28:01Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -2431,7 +2431,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-ringer-t-shirt-white-black-front-6a08606b4e208.jpg?v=1778933882
     Price: €25.00 EUR
 - [Funny New Parent Hoodie Midnight Minefield Manual - Real Talk](https://realtalklc.com/products/the-midnight-minefield-manual-hoodie): Survive the newborn nights in style. The Midnight Minefield Manual hoodie is the perfect funny gift for new parents. Cosy, witty & unique.
-  Updated: 2026-06-08T12:47:32Z
+  Updated: 2026-07-12T12:28:01Z
   Vendor: Real Talk
   Product Type: Hoodie
   Availability: Available
@@ -2637,7 +2637,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-heavy-blend-hoodie-military-green-front-6a0505b631d2f.jpg?v=1778714068
     Price: €40.00 EUR
 - [Funny Dad T-Shirt Gourmet Toddler Scraps Father's Day Gift - Real Talk](https://realtalklc.com/products/gourmet-toddler-scraps-tee): The funniest dad t-shirt around! Gourmet Toddler Scraps tee — perfect Father's Day gift or birthday present for dads who keep it real.
-  Updated: 2026-06-08T12:47:33Z
+  Updated: 2026-07-12T12:28:01Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -2835,7 +2835,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-classic-tee-irish-green-front-6a0868277cb5b.jpg?v=1778935869
     Price: €20.55 EUR
 - [Funny Baby Shower Gift T-Shirt Arctic Edition - Real Talk](https://realtalklc.com/products/polar-bear-delivery-cotton-tee): The coolest baby shower gift tee around! Arctic Edition funny unisex t-shirt celebrating new arrivals with Nordic humour. Ships worldwide.
-  Updated: 2026-06-08T12:47:33Z
+  Updated: 2026-07-12T12:28:01Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -2961,7 +2961,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/2765/1668/files/unisex-ringer-t-shirt-white-black-front-6a0dc3b08aed5.jpg?v=1779286993
     Price: €25.00 EUR
 - [Funny Baby Shower Gift T-Shirt Scottish Edition - Real Talk](https://realtalklc.com/products/scotland-baby-delivery-service-cotton-tee): Celebrate a new Scottish arrival with a wee bit of humour! Funny unisex tee — a brilliant baby shower or new baby gift. Ships worldwide.
-  Updated: 2026-06-08T12:47:33Z
+  Updated: 2026-07-12T12:28:02Z
   Vendor: Real Talk
   Product Type: T-SHIRT
   Availability: Available
@@ -3091,25 +3091,25 @@
 ## Collections
 
 - [Home page](https://realtalklc.com/collections/frontpage)
-  Updated: 2026-05-25T22:08:38Z
-  Total Products: 32
+  Updated: 2026-07-12T12:27:58Z
+  Total Products: 33
 - [Unfiltered](https://realtalklc.com/collections/relatable-truth): No filters. No fluff. Just the honest, hilarious, and slightly exhausted truth about parenthood. This collection celebrates the daily wins (and the spectacular fails) that make raising humans the wildest ride on earth. Real life is messy. Your outfit shouldn’t have to hide it.
-  Updated: 2026-06-02T21:33:10Z
+  Updated: 2026-07-12T12:27:58Z
   Total Products: 32
 - [Parenting 101 The Survivalist’s Starter Pack](https://realtalklc.com/collections/parenting-101-the-survivalist-s-starter-pack): Congratulations! You’ve been promoted to a job with no pay, 24-hour shifts, and a boss who screams when they lose their socks. The Survivalist’s Starter Pack is our "Parenting 101" collection designed to help you navigate the trenches. It’s full of gear that’s easier to operate than your brain is after three hours of sleep.
-  Updated: 2026-06-02T23:08:36Z
+  Updated: 2026-07-12T12:27:58Z
   Total Products: 7
 - [Baby Delivery Service](https://realtalklc.com/collections/baby-delivery-service): Ever wonder how babies actually arrive? Forget the storks—they’ve gone on strike! This collection celebrates the "local heroes" of the Baby Delivery Service. From the misty lochs of Scotland to the bamboo forests of China, we’ve recruited the world’s most iconic residents to ensure every bundle of joy arrives with a bit of local flair. It’s a wild world, and someone’s got to deliver it! The "Roster" of Couriers: China: The Gentle Panda Africa: The High-Reach Giraffe Scotland: The Mythical Nessie Spain: The Mighty Bull Ireland: The Loyal Wolfhound Arctic: The Steadfast Polar Bear India: The Majestic Tiger Australia: The High-Speed Kangaroo Canada: The Great Moose Delivering joy, one continent at a time.
-  Updated: 2026-06-03T00:25:50Z
+  Updated: 2026-07-12T12:27:58Z
   Total Products: 20
-- [Funny New Baby Gifts & Baby Shower Apparel - Real Talk](https://realtalklc.com/collections/new-baby-gifts): Shop unique new baby gifts and baby shower apparel. Funny hoodies and tees in multiple national editions. Perfect for new parents and baby celebrations.
-  Updated: 2026-06-03T00:55:42Z
+- [New Baby Gifts](https://realtalklc.com/collections/new-baby-gifts): Shop unique new baby gifts and baby shower apparel. Funny hoodies and tees in multiple national editions. Perfect for new parents and baby celebrations.
+  Updated: 2026-07-12T12:27:58Z
   Total Products: 20
-- [Funny Dad Gifts & Father's Day T-Shirts - Real Talk](https://realtalklc.com/collections/funny-dad-gifts): Unique funny gifts for dads. Hilarious t-shirts and hoodies that celebrate fatherhood. Perfect for Father's Day, birthdays, and every day in between.
-  Updated: 2026-06-03T00:55:54Z
+- [Funny Dad Gifts](https://realtalklc.com/collections/funny-dad-gifts): Unique funny gifts for dads. Hilarious t-shirts and hoodies that celebrate fatherhood. Perfect for Father's Day, birthdays, and every day in between.
+  Updated: 2026-07-12T12:27:58Z
   Total Products: 3
-- [Funny Parenting Gifts & Humour Apparel for Parents - Real Talk](https://realtalklc.com/collections/funny-parenting-gifts): Hilarious parenting gifts and apparel for mums and dads. Funny hoodies and tees that celebrate the chaos of parenthood. Shop Real Talk's parenting collection.
-  Updated: 2026-06-03T00:55:42Z
+- [Funny Parenting Gifts](https://realtalklc.com/collections/funny-parenting-gifts): Hilarious parenting gifts and apparel for mums and dads. Funny hoodies and tees that celebrate the chaos of parenthood. Shop Real Talk's parenting collection.
+  Updated: 2026-07-12T12:27:58Z
   Total Products: 11
 
 ## Blogs
@@ -3151,11 +3151,24 @@
     Updated: 2026-03-15T16:46:27Z
     Author: My Store Admin
     Tags: baby, dad life, exercise tips, fitness, health, healthy eating, humor, mom life, parenting, post-partum, sanity, sarcasm, sleep deprivation, wellness
-- [The Impossible Juggling Act: Finding Joy in Motherhood](https://realtalklc.com/blogs/the-impossible-juggling-act): The "Supermom" Myth: Why It's Hurting Us All.
+- [The Impossible Juggling Act: Navigating Societal Pressure and Finding Joy in Motherhood](https://realtalklc.com/blogs/the-impossible-juggling-act): The "Supermom" Myth: Why It's Hurting Us All.
   - [The Impossible Juggling Act](https://realtalklc.com/blogs/the-impossible-juggling-act/the-impossible-juggling-act-navigating-societal-pressure-and-finding-joy-in-motherhood): The Impossible Juggling Act
     Updated: 2026-03-17T15:03:47Z
     Author: My Store Admin
     Tags: Attachment Theory, Finding Balance, Mom Guilt, Motherhood, Parenthood Support, Perfect Motherhood, Societal Pressure, Stay-at-Home Moms, Working Moms
+- [Real Talk](https://realtalklc.com/blogs/real-talk)
+  - [How to Transform Rainy Days into Entertainment Powerhouses for Kids with Creative Parenting](https://realtalklc.com/blogs/real-talk/how-to-transform-rainy-days-into-entertainment-powerhouses-for-kids-with-creative-parenting): How to Transform Rainy Days into Entertainment Powerhouses for Kids with Creative Parenting
+    Updated: 2026-07-05T15:22:14Z
+    Author: Real Talk
+  - [Ultimate Guide to Fun and Educational Entertainment for Parents on Rainy Days](https://realtalklc.com/blogs/real-talk/ultimate-guide-to-fun-and-educational-entertainment-for-parents-on-rainy-days): Ultimate Guide to Fun and Educational Entertainment for Parents on Rainy Days
+    Updated: 2026-07-06T09:40:23Z
+    Author: Real Talk
+  - [Top Solutions for Keeping Kids Engaged with Indoor Entertainment on Rainy Days](https://realtalklc.com/blogs/real-talk/top-solutions-for-keeping-kids-engaged-with-indoor-entertainment-on-rainy-days): Top Solutions for Keeping Kids Engaged with Indoor Entertainment on Rainy Days
+    Updated: 2026-07-08T09:24:00Z
+    Author: Real Talk
+  - [Rainy Day Survival Guide: Keeping Kids Busy with Educational Entertainment](https://realtalklc.com/blogs/real-talk/rainy-day-survival-guide-keeping-kids-busy-with-educational-entertainment): Rainy Day Survival Guide: Keeping Kids Busy with Educational Entertainment
+    Updated: 2026-07-10T09:12:42Z
+    Author: Real Talk
 
 ## Store Pages
 
