@@ -6,19 +6,37 @@
 - Timezone: America/New_York
 - Created At: 2026-07-03T20:32:54Z
 - Contact Email: tryley91@gmail.com
-- Updated At: 2026-07-04T20:41:52.972Z
+- Updated At: 2026-07-14T00:00:25.146Z
 
 ## Products
 
-- [pet ice mat for summer](https://vexlo-36.myshopify.com/products/pet-ice-mat-for-summer): Give your furry friend the comfort they deserve with our cooling pet ice mat. Designed to help keep dogs and cats cool during hot weather, this mat provides a refreshing place to relax indoors or outdoors.📦 Shipping: Please allow 2–3 weeks for delivery. We ship directly from our supplier to keep costs low for you!
-  Updated: 2026-07-04T11:07:28Z
+- [pet ice mat for summer](https://vexlo-36.myshopify.com/products/pet-ice-mat-for-summer)
+  Updated: 2026-07-05T09:49:18Z
   Vendor: luxora
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S2777f9b74cc240a1a151163a457ba2b6m.webp?v=1783111688
   Price: $10.49 USD
+- [BYD Sealion 7 Black Badge Emblem | Front & Rear Blackout Kit](https://vexlo-36.myshopify.com/products/for-byd-sealion-7-ev-car-black-front-emblem-black-warrior-rear-badge-modification-covering-styles-tail-logo-blackout-car-badge): Upgrade your BYD Sealion 7 with a sleek black badge emblem. Easy peel-and-stick install. Available as front, rear, or full set. Ships in 2-3 weeks.
+  Updated: 2026-07-05T00:50:07Z
+  Vendor: frostypets 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S41892587cf474bcda8954ecd8bcccb7bQ.webp?v=1783121773
+  - [Front emblem](https://vexlo-36.myshopify.com/products/for-byd-sealion-7-ev-car-black-front-emblem-black-warrior-rear-badge-modification-covering-styles-tail-logo-blackout-car-badge?variant=45277160407110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S67f51334febc4c3fb993c1c2851e098dA.webp?v=1783121774
+    Price: $29.99 USD
+  - [Rear emblem](https://vexlo-36.myshopify.com/products/for-byd-sealion-7-ev-car-black-front-emblem-black-warrior-rear-badge-modification-covering-styles-tail-logo-blackout-car-badge?variant=45277160439878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S3b6730381d3d40e4b66724d69cba1f1fy.webp?v=1783121774
+    Price: $15.68 USD
+  - [Front Rear 2pcs](https://vexlo-36.myshopify.com/products/for-byd-sealion-7-ev-car-black-front-emblem-black-warrior-rear-badge-modification-covering-styles-tail-logo-blackout-car-badge?variant=45277160472646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S78ac27c914bb42518a170eecfc539386B.webp?v=1783121774
+    Price: $35.25 USD
 - [Colorful Pony Beads for Bracelets & Hair Braids | 100 or 400pcs](https://vexlo-36.myshopify.com/products/100-400pcs-6x9mm-solid-color-large-hole-pony-beads-diy-jewelry-making-for-friendship-bracelets-hair-braids-craft-supplies): Shop vibrant 6x9mm pony beads perfect for friendship bracelets, hair braids, and DIY crafts. Available in 17 colors, 100 or 400pcs packs. Ships in 2-3 weeks.
-  Updated: 2026-07-04T11:46:23Z
+  Updated: 2026-07-05T00:50:07Z
   Vendor: luxora
   Product Type: 
   Availability: Available
@@ -160,14 +178,14 @@
     Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/Sb595af60a937496bab83628125f4aaabd.webp?v=1783122378
     Price: $5.99 USD
 - [2-in-1 Color-Changing Foundation Stick | Lightweight & Moisturizing](https://vexlo-36.myshopify.com/products/2-in-1-color-changing-foundation-stick-liquid-lightweight-moisturizing-brightening-foundation-color-changing-for-all-skin-types): Shop our 2-in-1 color-changing foundation stick. Adapts to your skin tone for natural, matte coverage. Lightweight, long-lasting, and suitable for all skin types.
-  Updated: 2026-07-04T14:05:33Z
+  Updated: 2026-07-05T00:50:06Z
   Vendor: frostypets 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/Sf3289a88850a41268f6955ad5741d9216.webp?v=1783130728
   Price: $14.45 USD
 - [Sports Suit Men's Fitness Sweat Suit Summer Short-Sleeved T-Shirt Loose Quick-Drying Clothing Basketball Training Running Shorts](https://vexlo-36.myshopify.com/products/sports-suit-mens-fitness-sweat-suit-summer-short-sleeved-t-shirt-loose-quick-drying-clothing-basketball-training-running-shorts): Train Hard. Stay Cool. Look Good.Power through your workouts in style with this lightweight men's sports suit — the perfect two-piece set for summer training, basketball, running, and everything in between.Why You'll Love It Quick-drying fabric — wicks moisture fast so you stay dry and comfortable, even during intense sessions Loose, relaxed fit — gives you full range of motion without restriction Short-sleeve T-shirt + shorts combo — a matched set that looks sharp on and off the court Breathable polyester construction — lightweight and built for warm weather Round neck design — clean, classic style that works for any athletic setting Details Material: 90% Polyester Available colors: Black, White, Gray Sizes: L, XL, XXL, XXXL, XXXXL Season: Summer Includes: 1 × Short-sleeve T-shirt + 1 × Running Shorts
-  Updated: 2026-07-04T19:55:47Z
+  Updated: 2026-07-05T07:55:53Z
   Vendor: velto
   Product Type: 
   Availability: Available
@@ -233,7 +251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/O1CN014OKb9t1tQsL2BCpWI__2213172895897-0-cib.jpg?v=1783131510
     Price: $19.27 USD
 - [Black Sakura Gaming Mouse Pad Kawaii Purple Desk Mat Large Office Carpet Accessories Cherry Blossom Mousepad Gamer Computer Mats](https://vexlo-36.myshopify.com/products/black-sakura-gaming-mouse-pad-kawaii-purple-desk-mat-large-office-carpet-accessories-cherry-blossom-mousepad-gamer-computer-mats): Level Up Your Setup with a Touch of KawaiiMeet the Black Sakura Gaming Mouse Pad — a large desk mat that blends cherry blossom aesthetics with serious gaming performance. Whether you're grinding ranked matches or working from home, this pad keeps your workspace looking beautiful and your mouse moving precisely.Why Gamers Love It Smooth, low-friction surface — optimized for speed and precision with any mouse type (optical, wireless, or laser) Non-slip rubber base — stays firmly in place on any flat, hard desktop Large desk coverage — fits your full keyboard and mouse with room to spare Soft microfiber cloth top — comfortable on your wrist during long sessions Stitched colorful edges — prevents fraying and adds a polished finish Easy to roll up — no permanent fold marks, great for travel or storage Details Material: Natural rubber base + microfiber cloth surface Thickness options: 2mm, 3mm, 4mm, 5mm Size options: 300×600mm, 350×600mm, 300×700mm, 400×700mm, 400×800mm, 400×900mm Available in 7 color designs Good to Know Colors may vary slightly due to monitor settings — the cloth texture can affect how colors appear New pads may have a slight smell when first opened — leave flat in a ventilated area for a day or two and it will dissipate Size may have a 1–2cm variance due to the stitched edge construction If the pad arrives slightly curved from shipping, lay it flat for 1–2 days and it will flatten out Shipping & Delivery📦 Estimated delivery: 2–3 weeks
-  Updated: 2026-07-04T15:03:25Z
+  Updated: 2026-07-05T00:50:09Z
   Vendor: frostypets 
   Product Type: 
   Availability: Available
@@ -439,7 +457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S82394ce0b0754053ad31d75a70f375abq.webp?v=1783134197
     Price: $49.99 USD
 - [Clear Silicone iPhone Case | Fits iPhone 11 to 17](https://vexlo-36.myshopify.com/products/kiss-english-phone-cases-for-iphone-17-16-15-14-plus-13-12-11-pro-max-plus-17-air-transparent-silicone-cover-coque): Slim transparent silicone case for iPhone 11 through 17. Anti-fingerprint, crystal clear design. Compatible with all Pro, Max, Plus, and Air models.
-  Updated: 2026-07-04T16:42:34Z
+  Updated: 2026-07-05T00:50:08Z
   Vendor: velto
   Product Type: 
   Availability: Available
@@ -645,14 +663,14 @@
     Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S28a3bd658aaf4eaea0b0657ea0d9d0c8H.webp?v=1783140148
     Price: $10.99 USD
 - [Butter Stick Milk Strip Squishy Toy Slow Rebound Soft Squeeze Stress Relief Toy](https://vexlo-36.myshopify.com/products/butter-stick-milk-strip-squishy-toy-slow-rebound-soft-squeeze-stress-relief-toy): Meet your new favorite stress-buster! 🧈 This adorable Butter Stick Milk Strip Squishy Toy is the perfect squeeze toy for anyone who needs a little calm in their day.Made with a slow-rebound foam, it squishes satisfyingly and bounces back slowly — endlessly fun and oddly satisfying. Whether you're at your desk, in class, or just need something to fidget with, this little guy has you covered.Why You'll Love It 🐄 Super cute butter stick design 🤲 Soft, slow-rebound squeeze feel 😌 Great for stress relief and anxiety 🎁 Makes a fun gift for kids and adults alike ✅ CE  — safe and non-toxic Details Recommended age: 14+ Material: Soft foam Electric: No Shipping📦 Estimated delivery: 2–3 weeks. We ship internationally and work hard to get your order to you as quickly as possible. Thank you for your patience!
-  Updated: 2026-07-04T18:04:45Z
+  Updated: 2026-07-05T06:00:55Z
   Vendor: velto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S25abffa7b4514a719192819861a02818H.webp?v=1783188051
   Price: $12.46 USD
 - [3-color available pet meal MATS, made of silicone, soft and easy to clean, cat feeding MATS, square feeding MATS for eating](https://vexlo-36.myshopify.com/products/3-color-available-pet-meal-mats-made-of-silicone-soft-and-easy-to-clean-cat-feeding-mats-square-feeding-mats-for-eating): Keep your floors clean and your pet happy with our Silicone Pet Feeding Mat! 🐾 Designed for cats and small dogs, this mat catches spills and crumbs so mealtime stays mess-free.Made from food-grade silicone, it's soft underfoot, non-slip, and a breeze to clean — just rinse or toss it in the dishwasher.Why Pet Owners Love It 🧼 Super easy to clean — waterproof and dishwasher safe 🐱 Soft silicone is gentle on paws 🚫 Non-slip base keeps the mat in place during feeding 🎨 Available in square and rectangle shapes in black, gray, and coffee ✅ Made from safe, non-toxic silicone — no harmful chemicals Details Material: Food-grade silicone Shapes: Square or Rectangle Colors: Black, Gray, Coffee Best for: Cats and small dogs Shipping📦 Estimated delivery: 2–3 weeks. We ship internationally and appreciate your patience!
-  Updated: 2026-07-04T18:40:28Z
+  Updated: 2026-07-05T06:34:53Z
   Vendor: velto
   Product Type: 
   Availability: Available
@@ -681,15 +699,140 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S1ef1437f5ab348539192362db05838a2H.webp?v=1783190089
     Price: $12.55 USD
+- [4W Outdoor Solar Panel Charger – USB-C for Security Cameras & LED Lights](https://vexlo-36.myshopify.com/products/type-c-solar-panel-charger-outdoor-solar-adapter-for-security-camera-led-light-home-monitoring-power-supply): 4W monocrystalline solar panel charger with USB-C port. IP65 waterproof, 21.8% efficiency. Perfect for outdoor security cameras and LED lighting systems.
+  Updated: 2026-07-05T10:45:20Z
+  Vendor: velto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/Sb64ee8ce8d434c0db0663598475c015cC.webp?v=1783205115
+  - [003 / China Mainland](https://vexlo-36.myshopify.com/products/type-c-solar-panel-charger-outdoor-solar-adapter-for-security-camera-led-light-home-monitoring-power-supply?variant=45283452158022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S2f3e08165ed64e0ba28f832562e4e90ao.webp?v=1783205115
+    Price: $18.56 USD
+  - [002 / China Mainland](https://vexlo-36.myshopify.com/products/type-c-solar-panel-charger-outdoor-solar-adapter-for-security-camera-led-light-home-monitoring-power-supply?variant=45283452190790)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/Safe2413870fd4f579fba40d4875018320.webp?v=1783205115
+    Price: $21.76 USD
+  - [001 / China Mainland](https://vexlo-36.myshopify.com/products/type-c-solar-panel-charger-outdoor-solar-adapter-for-security-camera-led-light-home-monitoring-power-supply?variant=45283452223558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/Sadf4eb2bb77346bf830ecbcd626898a2K.webp?v=1783205115
+    Price: $16.21 USD
+- [Universal Car Rear View Camera – Waterproof Night Vision Parking Camera](https://vexlo-36.myshopify.com/products/universal-car-rear-view-camera-waterproof-auto-parking-assistance-car-reverse-camera-for-parking-monitoring): 170° wide angle, IP68 waterproof, night vision car rear view camera. Universal fit for cars, trucks & RVs. Easy install with 6M cable and built-in guiding lines.
+  Updated: 2026-07-05T10:45:21Z
+  Vendor: velto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S504ba84d46f1409191bae705e5993b433.webp?v=1783205116
+  Price: $20.50 USD
+- [3D Eye Mask Bluetooth Music Play Sleeping Headphones with Built-in HD Speaker Mask For Sleep Headphones Wireless Air Travel 5.0](https://vexlo-36.myshopify.com/products/3d-eye-mask-bluetooth-music-play-sleeping-headphones-with-built-in-hd-speaker-mask-for-sleep-headphones-wireless-air-travel-5-0): SPECIFICATIONSActive Noise-Cancellation: YesBrand Name: DUTRIEUXCategory: Earphones & HeadphonesChoice: yesCommunication: WireLessControl Button: YesEyeshade Type: 3D EyeshadeFrequency Response Range: -High-concerned chemical: NoneMaterial: LeatherOrigin: Mainland ChinaStyle: Wired in-ear headphonesVocalism Principle: DynamicVolume Control: YesWireless Type: Bluetoothsemi_Choice: yes There are two versions to choose from, one 3D eye mask with Bluetooth music and one basic 3D eye mask without Bluetooth. Please choose what you need!Bluetooth sleep eye mask adopts V5.0 program, binaural stereo design, comfortable cotton fabric with comfortable and soft breathability. For people with symptoms ofsleep difficulties, they can let them slowly go to sleep while enjoying music, and can also reduce the outside world. The noise disturbance provides a quiet sleeping environment, whether it is work break or sleep at night, Bluetooth sleep eye mask can help improve sleep quality, a magical sleep aid artifact! Bluetooth connection: with iOS, Android, Mac and Windows Bluetooth parameters:Bluetooth version: 5.0Bluetooth protocol: AGHSPBluetooth solution: Blue messageBluetooth transmission distance: 10 metersHeadphone channel: Stereo (2.0)Music playback time: maximum sound 7H, medium volume 10 hoursMicrophone distance: 1 meterBluetooth standby time: 72HBattery capacity: 180ma/hBattery power: 0.55WHorn impedance: 32 ohmsHorn power: 0.02WFrequency range: 2.4-2.4835GHzSensitivity: 45dBTransmission power: 6dBAudio output distortion: 0.6%Audio output signal-to-noise ratio: 93dBCharging time: 1-2 hoursMaximum input voltage: DC 5VMaximum input current: 150mahMaximum input power: 0.55W
+  Updated: 2026-07-05T12:11:35Z
+  Vendor: velto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/Sb63c25df24fe46cc8a405d082c60654dI.webp?v=1783210290
+  - [blue](https://vexlo-36.myshopify.com/products/3d-eye-mask-bluetooth-music-play-sleeping-headphones-with-built-in-hd-speaker-mask-for-sleep-headphones-wireless-air-travel-5-0?variant=45283689627718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/Sd97545ce84bc4808b7e9e6424396a214l.webp?v=1783210291
+    Price: $11.18 USD
+  - [Pink](https://vexlo-36.myshopify.com/products/3d-eye-mask-bluetooth-music-play-sleeping-headphones-with-built-in-hd-speaker-mask-for-sleep-headphones-wireless-air-travel-5-0?variant=45283689660486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/Sfbe1d5ab761a42f08303b0b25c8f171bL.webp?v=1783210290
+    Price: $11.08 USD
+  - [Gray](https://vexlo-36.myshopify.com/products/3d-eye-mask-bluetooth-music-play-sleeping-headphones-with-built-in-hd-speaker-mask-for-sleep-headphones-wireless-air-travel-5-0?variant=45283689693254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S25cbbd6e1dc34599a24db0f883ca9271F.webp?v=1783210290
+    Price: $10.64 USD
+  - [Black](https://vexlo-36.myshopify.com/products/3d-eye-mask-bluetooth-music-play-sleeping-headphones-with-built-in-hd-speaker-mask-for-sleep-headphones-wireless-air-travel-5-0?variant=45283689726022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/S5328733493b84c4caccb1a823601ef3fx.webp?v=1783210290
+    Price: $11.08 USD
+- [Floral Scent Hair Removal Moisturizing Oil – 60ml Body Oil for Smooth Skin](https://vexlo-36.myshopify.com/products/floral-scent-hair-removal-moisturizing-oil): Gentle floral-scented hair removal oil with deep moisturizing benefits. Suitable for all body areas and all genders. 60ml bottle.
+  Updated: 2026-07-05T12:51:00Z
+  Vendor: velto
+  Product Type: cyperus
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/db740b6e-72ff-4a93-8e2b-4f76e0fcdd56.jpg?v=1783212656
+  Price: $27.99 USD
+- [Cross necklace](https://vexlo-36.myshopify.com/products/cross-necklace): Overview Cross Design: Features an elegant cross pendant with a classic geometric shape for timeless appeal Rose Flower Accent: Delicate rose flower detailing adds a feminine and fashionable touch Light Luxury Style: Combines simplicity with versatility for daily wear and special occasions Metal Material: Crafted from durable metal with a diamond processing technique for refined sparkle Specifications Material: Metal Processing Technique: Diamond Pendant Material: Metal Chain Style: Regular chain Weight: 10g Circumference: 41cm-50cm Shape: Geometric Colors: Gold, Silver Packing List necklace*1
+  Updated: 2026-07-05T12:58:37Z
+  Vendor: velto
+  Product Type: necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/050e2f61-365a-4874-a9fb-7dcb7e06e28f.jpg?v=1783213112
+  - [Gold](https://vexlo-36.myshopify.com/products/cross-necklace?variant=45283802677318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/b2ee72ac-e156-452e-a9de-3f46017d690d.jpg?v=1783213112
+    Price: $16.99 USD
+  - [Silver](https://vexlo-36.myshopify.com/products/cross-necklace?variant=45283802710086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/039ca1fa-130a-41d9-aaa1-462fdf1658d6.jpg?v=1783213112
+    Price: $16.99 USD
+- [Sports Ankle Brace Support](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support): Overview Ankle Support - Provides targeted compression and stability to prevent sprains during physical activities Injury Recovery - Aids in rehabilitation from ankle injuries with comfortable, adjustable fit Versatile Use - Suitable for various sports including basketball, running, and football Breathable Material - Made from nylon for enhanced airflow and comfort during extended wear Specifications Material: Nylon Protection Area: Ankle Size: One size fits all Color Options: Black/Gray, Black/Green, Black/Purple Packaging Types: Chinese certification packaging, English white color bag packaging (single or pair sets) Packing List ankle brace*1
+  Updated: 2026-07-05T16:03:53Z
+  Vendor: velto
+  Product Type: necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/60662983-1d19-48ab-89f4-d8f640a66df0.jpg?v=1783224228
+  - [Black Gray CN Package / Default](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support?variant=45284905844806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/0ca97602-ee93-4695-ad11-e9497f265777.jpg?v=1783224228
+    Price: $21.99 USD
+  - [Black Green CN Package / Default](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support?variant=45284905877574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/26e5d6cd-7963-437f-bd56-520911632ce9.jpg?v=1783224228
+    Price: $21.99 USD
+  - [Black Purple CN Package / Default](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support?variant=45284905910342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/48cada55-8c40-4e48-927c-3f59144a498c.jpg?v=1783224228
+    Price: $21.99 USD
+  - [Black Gray EN Bag Single / Default](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support?variant=45284905943110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/e4effc2f-538c-4268-9227-de0b659b6697.jpg?v=1783224228
+    Price: $21.99 USD
+  - [Black Green EN Bag Single / Default](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support?variant=45284905975878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/3558885b-7786-4be5-ae31-97045958fe92.jpg?v=1783224228
+    Price: $21.99 USD
+  - [Black Purple EN Bag Single / Default](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support?variant=45284906008646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/3611a04f-91cd-438c-91e0-7e4e758602ae.jpg?v=1783224228
+    Price: $21.99 USD
+  - [Black Gray EN Bag Pair / Default](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support?variant=45284906041414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/ce929a3b-32de-49f5-b29f-7fe7e1e4d69e.jpg?v=1783224228
+    Price: $21.99 USD
+  - [Black Green EN Bag Pair / Default](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support?variant=45284906074182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/51de1cf3-b072-411f-8ea5-27481c7dfabd.jpg?v=1783224228
+    Price: $21.99 USD
+  - [Black Purple EN Bag Pair / Default](https://vexlo-36.myshopify.com/products/sports-ankle-brace-support?variant=45284906106950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0740/5302/5862/files/11af8c1f-ba67-40e9-b72d-1239826ed277.jpg?v=1783224228
+    Price: $21.99 USD
 
 ## Collections
 
 - [Home page](https://vexlo-36.myshopify.com/collections/frontpage)
-  Updated: 2026-07-04T05:14:16Z
-  Total Products: 1
+  Updated: 2026-07-04T22:57:46Z
+  Total Products: 2
 - [Car Accessories](https://vexlo-36.myshopify.com/collections/car-accessories)
   Updated: 2026-07-04T00:18:37Z
   Total Products: 0
+- [Kiss Phone Cases](https://vexlo-36.myshopify.com/collections/kiss-phone-cases): Shop our Kiss Phone Cases featuring a bold lips design. Stylish, protective, and perfect for making a statement. Free shipping available.
+  Updated: 2026-07-04T22:13:52Z
+  Total Products: 1
+- [All Products](https://vexlo-36.myshopify.com/collections/all-products): Browse all products at velto. Pet accessories, lifestyle items, and more. New arrivals added regularly. Shop now!
+  Updated: 2026-07-05T04:04:20Z
+  Total Products: 14
+- [hair oil](https://vexlo-36.myshopify.com/collections/hair-oil)
+  Updated: 2026-07-05T00:53:37Z
+  Total Products: 1
+- [necklace](https://vexlo-36.myshopify.com/collections/necklace)
+  Updated: 2026-07-05T00:58:38Z
+  Total Products: 1
+- [ankle](https://vexlo-36.myshopify.com/collections/ankle)
+  Updated: 2026-07-05T04:03:55Z
+  Total Products: 1
 
 ## Store Pages
 
