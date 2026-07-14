@@ -8,7 +8,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-01-17T18:18:40Z
 - Contact Email: contact@cryptomaniaclothing.com
-- Updated At: 2026-07-07T00:00:45.057Z
+- Updated At: 2026-07-14T00:00:46.705Z
 
 ## Products
 
@@ -2669,13 +2669,13 @@
   Updated: 2026-06-22T14:13:17Z
   Total Products: 0
 - [ Clothing — Premium Bitcoin, Ethereum & Web3 Apparel](https://www.cryptomaniaclothing.com/collections/-clothing): The complete  clothing store — Bitcoin hoodies, Ethereum tees, Solana streetwear and Web3 accessories for traders and HODLers. Ships worldwide.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 1490
 - [New Arrivals — Latest  Clothing & Blockchain Streetwear](https://www.cryptomaniaclothing.com/collections/new-arrivals): The latest  clothing drops — new Bitcoin hoodies, Ethereum tees, Solana streetwear and Web3 designs added regularly Ships to US, EU and UAE.
   Updated: 2026-06-30T08:53:27Z
   Total Products: 78
 - [Bitcoin Clothing — Premium BTC Apparel for Traders & HODLers](https://www.cryptomaniaclothing.com/collections/bitcoin-clothing): Bitcoin clothing for traders and HODLers — BTC hoodies, t-shirts, sweatshirts, caps and mugs in clean minimal design Fast worldwide tracked delivery.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 764
 - [Ethereum Clothing — Premium ETH Apparel for Web3 Builders](https://www.cryptomaniaclothing.com/collections/ethereum-clothing): Ethereum clothing for DeFi traders and Web3 builders — ETH hoodies, t-shirts, mugs and accessories in clean minimal design Ships to US, EU and UAE.
   Updated: 2026-06-30T08:53:26Z
@@ -2705,7 +2705,7 @@
   Updated: 2026-06-30T08:53:15Z
   Total Products: 106
 - [Shop by Coin — Bitcoin, Ethereum, Solana, XRP & Altcoin Apparel](https://www.cryptomaniaclothing.com/collections/-coins): Find  apparel by your coin — Bitcoin, Ethereum, Solana, XRP, Cardano, Dogecoin and 16+ blockchain communities Fast worldwide tracked delivery.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 1311
 - [Oversized  T-Shirts — Heavyweight Web3 Streetwear Tees](https://www.cryptomaniaclothing.com/collections/oversized--tshirts): Oversized  t-shirts — heavyweight Web3 streetwear tees in Bitcoin, Ethereum and blockchain designs. Relaxed fit Fast worldwide tracked delivery.
   Updated: 2026-06-30T08:51:19Z
@@ -2723,7 +2723,7 @@
   Updated: 2026-06-30T08:50:28Z
   Total Products: 49
 - [ Mugs — Premium Bitcoin & Web3 Coffee Cups for Traders](https://www.cryptomaniaclothing.com/collections/-mugs):  mugs in Bitcoin, Ethereum, Solana and Web3 designs — ceramic coffee cups for traders and collectors. Ships worldwide. Ships to US, EU and UAE.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 347
 - [Best Sellers — Most Popular  Clothing & Bitcoin Apparel](https://www.cryptomaniaclothing.com/collections/best-sellers): Cryptomania's most popular  clothing — Bitcoin hoodies, Ethereum tees and Web3 streetwear trusted by traders and HODLers. Ships fast Ships globally.
   Updated: 2026-06-30T08:53:27Z
@@ -2771,7 +2771,7 @@
   Updated: 2026-06-09T13:29:52Z
   Total Products: 0
 - [ Gifts Under €20 — Affordable Bitcoin & Web3 Gift Ideas](https://www.cryptomaniaclothing.com/collections/gifts-under-20):  gifts under €20 — Bitcoin mugs, stickers, blockchain accessories and Web3 ideas that impress on any budget Fast worldwide tracked delivery.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 344
 - [ Gifts Under €50 — Premium Bitcoin & Web3 Gift Ideas](https://www.cryptomaniaclothing.com/collections/gifts-under-50):  gifts under €50 — Bitcoin t-shirts,  caps, mugs and Web3 accessories for traders and HODLers. Ships worldwide. Ships to US, EU and UAE.
   Updated: 2026-06-30T08:53:38Z
@@ -2936,10 +2936,10 @@
   Updated: 2026-05-26T10:08:21Z
   Total Products: 0
 - [ Home & Living — Bitcoin Mugs, Drinkware & Blockchain Decor](https://www.cryptomaniaclothing.com/collections/home-living):  home and living products — Bitcoin mugs, ceramic drinkware, blockchain decor and Web3 accessories for home Fast worldwide tracked delivery.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 347
 - [ Drinkware — Bitcoin Mugs, Tumblers &  Desk Cups](https://www.cryptomaniaclothing.com/collections/-drinkware):  drinkware — Bitcoin mugs, ceramic coffee cups, travel mugs and tumblers for traders and  home offices Fast worldwide tracked delivery.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 347
 - [ Travel Mugs — Insulated On-The-Go Drinkware for Traders](https://www.cryptomaniaclothing.com/collections/-travel-mugs):  travel mugs — insulated Bitcoin and Web3 on-the-go coffee cups for  traders and HODLers. Ships worldwide. Fast worldwide tracked delivery.
   Updated: 2026-06-30T08:52:22Z
@@ -2990,7 +2990,7 @@
   Updated: 2026-06-30T08:53:38Z
   Total Products: 410
 - [Bitcoin Mugs — Premium BTC Coffee Cups for  Traders](https://www.cryptomaniaclothing.com/collections/bitcoin-mugs): 175+ unique Bitcoin mugs — BTC ceramic coffee cups for  desks and collector shelves. Best Bitcoin gift under $30 Fast worldwide tracked delivery.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 165
 - [Bitcoin Sweatshirts — Premium BTC Crewneck Apparel for Traders](https://www.cryptomaniaclothing.com/collections/bitcoin-sweatshirts): Bitcoin sweatshirts and crewnecks — heavyweight BTC apparel in clean minimal design for traders and HODLers. Ships worldwide. Ships to US, EU and UAE.
   Updated: 2026-06-30T08:49:46Z
@@ -3005,7 +3005,7 @@
   Updated: 2026-06-30T08:48:21Z
   Total Products: 6
 - [Bitcoin Home & Living — BTC Mugs, Decor &  Office Gear](https://www.cryptomaniaclothing.com/collections/bitcoin-home-living): Bitcoin home and living — BTC mugs, ceramic coffee cups, blockchain decor and  desk accessories. Ships worldwide. Ships to US, EU and UAE.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 153
 - [Bitcoin Bags — BTC Tote Bags, Backpacks & Travel Gear](https://www.cryptomaniaclothing.com/collections/bitcoin-bags): Bitcoin bags — BTC tote bags, backpacks and travel accessories for Bitcoin holders on the move. Ships worldwide. Fast worldwide tracked delivery.
   Updated: 2026-06-22T14:13:22Z
@@ -3089,7 +3089,7 @@
   Updated: 2026-06-30T08:48:24Z
   Total Products: 6
 - [Bitcoin Flag Mugs — Country BTC Coffee Cups for  Patriots](https://www.cryptomaniaclothing.com/collections/bitcoin-flag-mugs): Bitcoin flag mugs repping your country's BTC pride. Ceramic coffee cups for  patriots & HODLers. The perfect  gift. Ships worldwide — US, EU, UAE.
-  Updated: 2026-06-30T08:54:26Z
+  Updated: 2026-07-09T11:28:25Z
   Total Products: 127
 - [Bitcoin Flag Hoodies — Country BTC Hoodies for  Patriots](https://www.cryptomaniaclothing.com/collections/bitcoin-flag-hoodies): Bitcoin flag hoodies repping your country's BTC pride. Premium heavyweight hoodies for  patriots. A bold  gift. Ships worldwide — US, EU, UAE.
   Updated: 2026-06-30T08:53:54Z
