@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-11-19T10:40:37Z
 - Contact Email: tomziska@gmail.com
-- Updated At: 2026-07-06T00:00:53.902Z
+- Updated At: 2026-07-14T00:00:51.041Z
 
 ## Products
 
@@ -3453,7 +3453,7 @@
 
 ## Collections
 
-- [Top 10 Home Decor Trends for 2021](https://0hj4g5-be.myshopify.com/collections/frontpage-1): Discover top- products to refresh your home decor. Revamp your bedroom, update living room, or add charm to kitchen with our collection.
+- [Home page collection](https://0hj4g5-be.myshopify.com/collections/frontpage-1): Discover top- products to refresh your home decor. Revamp your bedroom, update living room, or add charm to kitchen with our collection.
   Updated: 2026-06-20T11:35:07Z
   Total Products: 1
 - [Components example products](https://0hj4g5-be.myshopify.com/collections/components-example-products)
