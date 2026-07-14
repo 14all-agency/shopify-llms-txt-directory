@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2026-03-15T11:22:50Z
 - Contact Email: contact.needs@coretelk.com
-- Updated At: 2026-07-07T00:00:47.503Z
+- Updated At: 2026-07-14T00:00:49.549Z
 
 At NEEDs, we provide everything you need — from premium mobile accessories to everyday essentials. We specialise in high-quality products including phone cases, chargers, cables, and accessories, with plans to expand into toys, footwear, bags, clothing, and solar lighting.
 
@@ -229,7 +229,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6812002993A-1.jpg?v=1773884074
   Price: £9.08 GBP
 - [W640 8MP Camera Multi-function AI Real Time Translation Smart Glasses ENC Noise Reduction Hands-free Calling Eyeglasses](https://coretelk.com/products/w640-8mp-camera-multi-function-ai-real-time-translation-smart-glasses-enc-noise-reduction-hands-free-calling-eyeglasses): 【For Sony Camera】Equipped with an 8MP for Sony camera capable of capturing 32MP high-resolution photos and 1200P videos, ensuring stunning visual quality for your outdoor adventures. 【Advanced AI Features】Incorporates AI voice activation, image recognition, real-time translation, and intelligent Q&A interaction, enhancing your outdoor experience with cutting-edge technology. 【Superior Stabilization】Utilizes 3D 6-axis gyroscope and EIS algorithm for dual stabilization, delivering smooth and steady footage during dynamic activities. 【Immersive Audio Experience】Features HiFi surround sound and ENC dual-microphone noise reduction, providing crystal-clear audio for calls and music playback. 【Durable Design】Boasts IP66 water and dust resistance, ensuring protection against sweat, rain, and harsh environments during intense outdoor activities. 【Versatile Connectivity】Supports WiFi for quick photo and video transfer to your smartphone, and Bluetooth-compatible for seamless device pairing. 【Long-lasting Battery】290mAh polymer lithium battery offers up to 10 hours of music playback and 7+ days of standby time, perfect for extended outdoor use. Specifications: basic parameter Product Model W640 Master Chip Jieli - Main Control - JL7018F coprocessor chip Allwinner V821L2 Controller camera For Sony 8MP Camera (supports 32MP high-resolution photo shooting) Memory storage 4GB (bit: 32g) WIFI Supports Wi-Fi transfer of photos, videos, and audio recordings debounce It supports anti-shake function for photo and video shooting. Touch Slide to adjust volume + tap to click voice wake-up Hey Cyan Dual microphones ENC dual microphone noise reduction, anti-interference AI translation feature Dialogue translation, simultaneous interpretation, meeting minutes Waterpfoof Level IP66, Dustproof, waterproof, and sweatproof (adhesive sealing) Special Features Voice wake-up with AI, object recognition through AI photography, intelligent question-and-answer interaction with AI, AI-powered translation, photo capture, video recording, and audio recording. Other Parameter Battery Type High-density polymer lithium-ion battery Battery Capcaity Polymer 290mAh Charging Type Type-C Endurance Time Play music for about 10 hours and standby for 7+ days. Manipulation Mode Material buttons combined with touch control, synchronized with mobile app Language App multilingual support: Ukrainian, Urdu, Russian, Croatian, Hungarian, Hindi, Indonesian, Turkish, Hebrew, Greek, German, Italian, Czech, Slovak, Slovenian, Japanese, French, Polish, Thai, Simplified Chinese, Traditional Chinese, Romanian, English, Dutch, Portuguese, Spanish, Vietnamese, Arabic, Korean, Malay Material TR flexible material with black spray coating Package included 1 x Smart Glasses 1 x Charging Cable 1 x Storage Bag 1 x Lens Cloth 2 x Ear Hooks 1 x English User Manual Specifications Brand N/A ColorStyle E Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.280kg Volume Weight 0.275kg Package Length 18.800cm Package Width 7.500cm Package Height 8.700cm
-  Updated: 2026-06-02T04:38:35Z
+  Updated: 2026-07-07T09:59:46Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -237,27 +237,27 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Black Frame Black Lens](https://coretelk.com/products/w640-8mp-camera-multi-function-ai-real-time-translation-smart-glasses-enc-noise-reduction-hands-free-calling-eyeglasses?variant=57506710323574)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6803000662A-1_a08bc663-e48d-43ee-890f-dd03bf3336a8.jpg?v=1773884108
-    Price: £46.78 GBP
+    Price: £47.10 GBP
   - [Black Frame Orange Lens](https://coretelk.com/products/w640-8mp-camera-multi-function-ai-real-time-translation-smart-glasses-enc-noise-reduction-hands-free-calling-eyeglasses?variant=57506710258038)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6803000662B-1.jpg?v=1773884104
-    Price: £46.78 GBP
+    Price: £47.10 GBP
   - [Black Frame Gradient Lens](https://coretelk.com/products/w640-8mp-camera-multi-function-ai-real-time-translation-smart-glasses-enc-noise-reduction-hands-free-calling-eyeglasses?variant=57506710225270)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6803000662C-1.jpg?v=1773884102
-    Price: £46.78 GBP
+    Price: £47.10 GBP
   - [White Frame Black Lens](https://coretelk.com/products/w640-8mp-camera-multi-function-ai-real-time-translation-smart-glasses-enc-noise-reduction-hands-free-calling-eyeglasses?variant=57506710192502)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6803000662D-1.jpg?v=1773884100
-    Price: £46.78 GBP
+    Price: £47.10 GBP
   - [White Frame Orange Lens](https://coretelk.com/products/w640-8mp-camera-multi-function-ai-real-time-translation-smart-glasses-enc-noise-reduction-hands-free-calling-eyeglasses?variant=57506710159734)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6803000662E-1.jpg?v=1773884098
-    Price: £46.78 GBP
+    Price: £47.10 GBP
   - [White Frame Clear Gradient Lens](https://coretelk.com/products/w640-8mp-camera-multi-function-ai-real-time-translation-smart-glasses-enc-noise-reduction-hands-free-calling-eyeglasses?variant=57506710290806)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6803000662F-1.jpg?v=1773884106
-    Price: £46.78 GBP
+    Price: £47.10 GBP
 - [GY500 Touch Control AI Translation Smart Glasses Anti UV Sunglasses Bluetooth-compatible Headset Eyeglasses](https://coretelk.com/products/gy500-touch-control-ai-translation-smart-glasses-anti-uv-sunglasses-bluetooth-compatible-headset-eyeglasses): 【High-Quality Audio】Advanced driver units deliver full-range, immersive sound with Bluetooth-compatible 5.4 for stable, low-latency transmission. 【AI Translation】Integrated AI translation feature for seamless communication across languages. 【Hands-Free Operation】Enjoy wireless calling with clear sound quality and open acoustics, perfect for multitasking. 【Long Battery Life】Impressive 5-6 hour battery life with fast charging support for uninterrupted use. 【Versatile Use Cases】Ideal for driving, cycling, mountain climbing, fishing, travel, business, and daily wear. 【Smart Features】Supports Bluetooth-compatible calling, music playback, voice assistant, remote photo capture, and AI translation. 【Protective Lenses】UV400 protection, anti-glare, sandproof, and corrosion-resistant for various environments. Specifications: Model: GY500 Chip: Bluetrum AB5656C Battery Capacity: 55mAh + 55mAh Charging Method: Magnetic charging Bluetooth-compatible Version: BLE 5.4 Bluetooth-compatible Protocols: A2DP, HFP Operation: Touch control Transmission Distance: 10M Water Resistance: Daily water resistance Material: ABS + PC Rated Input Voltage: DC 5V Rated Input Charging Current: 50mA * 2 Lens Material: PC coated Translation App: Hyper MZT Package included 1 x Smart Eyeglasses 1 x Charging Cable 1 x English Instruction Manual 1 x Storage Bag 1 x Cleaning Cloth Specifications Brand N/A Certificate CE-RED,CE-RoHS,FCC-ID ColorStyle A Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.190kg Volume Weight 0.176kg Package Length 17.500cm Package Width 7.500cm Package Height 6.000cm
   Updated: 2026-07-03T10:50:54Z
   Vendor: Needs
@@ -579,7 +579,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6499005120C-1.jpg?v=1773884543
     Price: £10.74 GBP
 - [M01 Wireless Music Earphone Smart Eyeglasses IP68 Waterproof Bluetooth-Compatible Glasses Audio Eyewear](https://coretelk.com/products/m01-wireless-music-earphone-smart-eyeglasses-ip68-waterproof-bluetooth-compatible-glasses-audio-eyewear): 【Versatile Smart Glasses】Combine audio functionality with stylish eyewear for music listening and call handling capabilities. 【Superior Sound Quality】Dual 0815 speakers deliver high-definition audio for an immersive listening experience. 【Long-Lasting Battery】Enjoy up to 6 hours of music playback or 4 hours of talk time on a single charge. 【Advanced Connectivity】Bluetooth-compatible 5.4 ensures fast pairing and stable connection up to 15 meters in open spaces. 【Comfortable Design】Made with TR90 material, these glasses offer a lightweight and comfortable fit for extended wear. Specifications: Material: TR90 Waterproof level: IP68 Platform and version: BLUETRUM AB5656C3 / 5.4 (single microphone ENC) Speaker: 0815*2 Antenna specifications: ceramic antenna Bluetooth-compatible distance: open space ≥15 meters Battery capacity: 85mAh*2 Charging time: 1.5H Listening time: 6H Talk time: about 4H Package included 1 x Pair of Wireless Music Earphone Smart Eyeglasses 1 x Charging Cable 1 x English Instruction Manual Specifications Brand N/A Packaging Type Paper Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 0.112kg Volume Weight 0.067kg Package Length 15.000cm Package Width 5.000cm Package Height 4.000cm
-  Updated: 2026-07-03T10:54:05Z
+  Updated: 2026-07-07T04:18:44Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -587,11 +587,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Transparent](https://coretelk.com/products/m01-wireless-music-earphone-smart-eyeglasses-ip68-waterproof-bluetooth-compatible-glasses-audio-eyewear?variant=57506734440822)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899003360A-1.jpg?v=1773884544
-    Price: £15.98 GBP
+    Price: £15.87 GBP
   - [Black](https://coretelk.com/products/m01-wireless-music-earphone-smart-eyeglasses-ip68-waterproof-bluetooth-compatible-glasses-audio-eyewear?variant=57506734473590)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6899003360B-1.jpg?v=1773884547
-    Price: £15.98 GBP
+    Price: £15.87 GBP
 - [FEELWORLD PM1-XS Dynamic Microphone with Stand XLR  /  USB Dual Output Desktop Mic for Recording  /  Gaming  /  Streaming](https://coretelk.com/products/feelworld-pm1-xs-dynamic-microphone-with-stand-xlr-usb-dual-output-desktop-mic-for-recording-gaming-streaming): 【Professional Dynamic Capsule】Features a premium moving coil capsule that helps capture deep bass, delicate treble, and crisp midrange for ultra-clean sound quality 【Ultra-Wide Frequency Response】50Hz-14kHz ultra-wide frequency response delivers crystal-clear sound with exceptional detail across the entire audio spectrum 【Cardioid Pickup Pattern】Heart-shaped pickup pattern focuses on sound from the front top of the microphone, maximizing environmental noise reduction for authentic audio quality 【Dynamic RGB Lighting】Multi-color gradient RGB lighting effects add atmosphere and make your live streams more attractive with customizable lighting options 【Dual Output Modes】Plug-and-play USB-C output for connecting to PC/phones, plus XLR analog output for professional audio equipment like audio interfaces and mixing consoles 【Real-Time Monitoring】Built-in 3.5mm headphone jack enables real-time audio monitoring during recording to ensure optimal sound quality 【Metal Construction】Durable metal body design ensures long-term stability and strong interference resistance for professional use Specifications: Model: PM1-XS Capsule Type: Dynamic Polar Pattern: Cardioid Input Sample Rate: 96kHz Bit Rate: 24bit Frequency Response: 50Hz-14kHz Sensitivity: -54dB±1.5dB (0dB=1V/Pa, 1kHz) Output Impedance: 600Ω THD+N: <1% Signal-to-Noise Ratio: 95dB Optimal Pickup Distance: 3-15cm Interface: USB-C, XLR, 3.5mm headphone jack Material: Metal Body Package included 1 x Microphone 1 x U-Shaped Bracket 1 x Metal Base 1 x 2m Dual-Port USB/Type-C Cable 1 x 2m XLR Cable 1 x English Manual Specifications Brand FEELWORLD Packaging Type Colored Box Plug Type (For Supply) N/A User Manual (Language) English Gross Weight 1.389kg Volume Weight 0.806kg Package Length 16.000cm Package Width 25.000cm Package Height 9.000cm
   Updated: 2026-06-01T20:42:33Z
   Vendor: Needs
@@ -1210,14 +1210,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/680801093A-1.jpg?v=1773884769
   Price: £11.85 GBP
-- [XIAOMIYOUPIN FUNSNAP A6 1.8m Extendable Selfie Stick for Smartphone Smart AI Tracking Tripod with Remote (No Light)](https://coretelk.com/products/xiaomiyoupin-funsnap-a6-1-8m-extendable-selfie-stick-for-smartphone-smart-ai-tracking-tripod-with-remote-no-light): 【AI-Powered Tracking】Equipped with an AI cloud eye deep imaging core, this smart tripod offers instant face recognition and intelligent tracking without the need for app downloads. 【Advanced AR Motor】Features a new AR motor for seamless, real-time tracking of subjects, responding instantly to movements. 【Stable Metal Frame】Constructed with a metal quadruple-leg skeleton for superior stability during use. 【Anti-Shake Handle】Includes an anti-shake stabilizing handle for smooth, balanced footage ideal for live streaming, vlogging, and short video creation. 【Versatile Compatibility】Equipped with a 1/4" interface, compatible with GoPro action cameras, digital cameras, and various lighting accessories. 【Portable Design】Features an integrated, compact design for easy carrying and transportation. 【Remote Control】Comes with a detachable remote control with an effective range of 10 meters for convenient operation. Specifications: Material: ABS+aluminum alloy Stretching length: 322mm-1800mm Remote control battery: 55mAh rechargeable battery Bluetooth-compatible version: Bluetooth-compatible 5.0 Package included 1 x Tripod Stand 1 x Remote Control 1 x Charging Cable 1 x English Instruction Manual Specifications Brand FUNSNAP Packaging Type Paper Box User Manual (Language) English Gross Weight 0.728kg Volume Weight 0.399kg Package Length 33.000cm Package Width 9.000cm Package Height 6.000cm
-  Updated: 2026-06-03T18:29:33Z
-  Vendor: Needs
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/6626000521A-1.jpg?v=1773884772
-  Price: £25.59 GBP
-[List Continued](https://coretelk.com/a/llms-agent/llms.txt?shop=equasw-ja.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY1ODE3MTk5MDM5MCwibGFzdF92YWx1ZSI6IjE1NjU4MTcxOTkwMzkwIn0%3D)
+[List Continued](https://coretelk.com/a/llms-agent/llms.txt?shop=equasw-ja.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY1ODE3MTk1NzYyMiwibGFzdF92YWx1ZSI6IjE1NjU4MTcxOTU3NjIyIn0%3D)
 
 ## Collections
 
@@ -1246,16 +1239,16 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Updated: 2026-05-26T20:19:43Z
   Total Products: 0
 - [Smart Device](https://coretelk.com/collections/smart-device): Shop smart devices at NEEDs. Smartwatches, smart glasses, car accessories, microphones, tripods and more. Fast shipping & secure payment.
-  Updated: 2026-07-03T10:54:50Z
+  Updated: 2026-07-10T01:46:45Z
   Total Products: 125
 - [Earphones](https://coretelk.com/collections/earphones): Browse wireless earphones and earbuds with ANC, touch control, and Bluetooth. Free shipping available. Shop at NEEDs.
-  Updated: 2026-07-06T10:43:48Z
+  Updated: 2026-07-09T10:32:43Z
   Total Products: 107
 - [Smart Glasses](https://coretelk.com/collections/smart-glasses): Shop AI smart glasses with HD recording, Bluetooth calling, and real-time translation. Waterproof options available. Shop at NEEDs.
-  Updated: 2026-07-03T10:54:50Z
+  Updated: 2026-07-07T09:59:48Z
   Total Products: 31
 - [Translation Devices](https://coretelk.com/collections/translation-devices): Shop smart translation earphones with real-time voice translation in 144+ languages. Noise reduction & Bluetooth. Shop at NEEDs.
-  Updated: 2026-07-03T10:54:50Z
+  Updated: 2026-07-07T09:59:48Z
   Total Products: 28
 - [Smart Watches](https://coretelk.com/collections/smart-watches): Browse smart watches with fitness tracking, heart rate monitor, and Bluetooth. Free shipping available. Shop at NEEDs.
   Updated: 2026-06-29T10:38:54Z
@@ -1264,19 +1257,19 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Updated: 2026-06-10T09:08:20Z
   Total Products: 26
 - [Car Accessories](https://coretelk.com/collections/car-accessories-shop): Shop car accessories including dash cams, car chargers, Bluetooth transmitters and phone mounts. Free shipping. Shop at NEEDs.
-  Updated: 2026-06-30T02:06:53Z
+  Updated: 2026-07-10T01:46:45Z
   Total Products: 76
 - [Mobile Phone Accessories](https://coretelk.com/collections/mobile-phone-accessories): Shop mobile phone accessories including cases, chargers, screen protectors and cables. Free shipping available. Shop at NEEDs.
-  Updated: 2026-07-06T10:43:48Z
+  Updated: 2026-07-09T10:32:43Z
   Total Products: 799
 - [Studio & Microphones](https://coretelk.com/collections/studio-and-microphones): Shop studio microphones, wireless lavalier mics, ring lights and photography lighting for streaming and content creation. Shop at NEEDs.
   Updated: 2026-07-03T10:47:53Z
   Total Products: 44
 - [Computer & Laptop Accessories](https://coretelk.com/collections/computer-laptop-accessories): Shop laptop sleeves, screen protectors, keyboards and accessories for MacBook, iPad, Surface and more. Free shipping at NEEDs.
-  Updated: 2026-07-06T10:43:48Z
+  Updated: 2026-07-07T08:48:46Z
   Total Products: 356
 - [Speakers & Sound](https://coretelk.com/collections/speakers-and-sound): Shop portable Bluetooth speakers, smart audio, and sound accessories. Premium sound solutions for every lifestyle at NEEDs.
-  Updated: 2026-07-03T10:54:50Z
+  Updated: 2026-07-07T04:18:46Z
   Total Products: 66
 
 ## Blogs
@@ -1374,6 +1367,18 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Updated: 2026-07-05T19:00:45Z
     Author: NEEDs
     Tags: audio, digital, earbuds, everyday convenience, future of audio devices, impact of wireless technology, personal audio experience, wireless technology
+  - [Innovative Smartwatch Features — Essential Guide for 2026](https://coretelk.com/blogs/news/innovative-smartwatch-features-essential-guide-for-2026): Innovative Smartwatch Features — Essential Guide for 2026
+    Updated: 2026-07-08T19:01:56Z
+    Author: NEEDs
+    Tags: best smartwatch features 2026, digital, digital transformation trends 2026, innovative features, smart devices, smartwatch, transformation, wearable technology
+  - [Exploring Smart Glasses Technology — Is It the Future for 2026?](https://coretelk.com/blogs/news/exploring-smart-glasses-technology-is-it-the-future-for-2026): Exploring Smart Glasses Technology — Is It the Future for 2026?
+    Updated: 2026-07-10T19:02:02Z
+    Author: NEEDs
+    Tags: augmented reality, digital, digital transformation, future, future of wearables, smart glasses, smart glasses in 2026, technology
+  - [Top Mobile Accessories to Transform Daily Tech Use — 2026 Picks](https://coretelk.com/blogs/news/top-mobile-accessories-to-transform-daily-tech-use-2026-picks): Top Mobile Accessories to Transform Daily Tech Use — 2026 Picks
+    Updated: 2026-07-12T19:01:10Z
+    Author: NEEDs
+    Tags: accessories, best mobile accessories 2026, daily tech, digital tools, enhance tech experience, mobile accessories, technology, transformation
 
 ## Store Pages
 
