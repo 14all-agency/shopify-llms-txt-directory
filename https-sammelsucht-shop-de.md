@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-02T20:36:05Z
 - Contact Email: deniz@sammelsucht-shop.de
-- Updated At: 2026-07-07T00:00:41.467Z
+- Updated At: 2026-07-14T00:00:43.130Z
 
 ## Products
 
