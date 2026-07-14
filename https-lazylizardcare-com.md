@@ -6,14 +6,14 @@
 - Timezone: America/New_York
 - Created At: 2025-09-11T10:54:23Z
 - Contact Email: neha.kwatra176@gmail.com
-- Updated At: 2026-06-30T21:28:57.213Z
+- Updated At: 2026-07-14T00:00:33.001Z
 
 IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our entire skincare range at Lazy Lizard Skincare. This limited-time  applies automatically at checkout.
 
 ## Products
 
 - [Vegan Lip Balm with Ceramides & Vitamin E | Lazy Lizard](https://lazylizardcare.com/products/luxe-lip-balm-5gm): Nourish & repair lips with coconut oil, cocoa butter, ceramides & vitamin E. Vegan, cruelty-free lip balm. ₹249.
-  Updated: 2026-06-30T04:21:08Z
+  Updated: 2026-07-03T08:37:47Z
   Vendor: LazyLizard-skincare
   Product Type: lip Balm
   Availability: Available
@@ -34,20 +34,27 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
   Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_4dcce26b-a646-431e-a08a-81ac30c3b198.png?v=1782743058
   Price: ₹555.00 INR
 - [Glass Skin Face Cream India – PDRN Boba Cream | Lazy Lizard](https://lazylizardcare.com/products/lazy-lizard-boba-cream-55gm): Lazy Lizard Boba Cream with Niacinamide, Vitamin C, Rice Ferment Filtrate & advanced actives for Glass skin, hydration, brightening and healthy-looking skin.
-  Updated: 2026-06-30T04:21:17Z
+  Updated: 2026-07-03T08:37:47Z
   Vendor: LazyLizard-skincare
   Product Type: Face cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_-_12.png?v=1782742700
   Price: ₹699.00 INR
+- [Lazy Lizard Sip Glow Liposomal Glutathione Effervescent Tablets | Orange Flavour](https://lazylizardcare.com/products/lazy-lizard-sip-glow-liposomal-glutathione-tablets): Lazy Lizard Sip Glow Liposomal Glutathione Effervescent Tablets Ever wished your skin looked healthier and more radiant from within? Lazy Lizard Sip Glow is a delicious orange-flavoured effervescent tablet that easily dissolves in water to become your daily beauty drink. Each tablet contains 600 mg of Liposomal Glutathione, a powerful antioxidant that helps protect your body from everyday stress caused by pollution, UV exposure, and an unhealthy lifestyle. The liposomal form is designed to help your body absorb glutathione more effectively than regular forms. To make the formula even better, we've added Vitamin C, which supports collagen production and works alongside glutathione, Hyaluronic Acid to help maintain skin hydration, Pomegranate Extract and Astaxanthin for antioxidant support, plus Vitamins A, E, Beta Carotene, and Zinc to support healthy skin and overall wellness. Simply drop one tablet into 200 ml of water, let it fizz, and enjoy a refreshing orange drink. No swallowing large pills—just an easy daily routine that fits into your lifestyle. Why you'll love Sip Glow ✨ 600 mg Liposomal Glutathione 🍊 Refreshing Orange Flavour 💧 Hyaluronic Acid for skin hydration 🍎 Powerful antioxidants including Astaxanthin & Pomegranate Extract 🌿 Enriched with Vitamins A, C, E, Beta Carotene & Zinc 🥤 Easy-to-drink effervescent tablets 🚫 0 g Added Sugar 🥬 Vegetarian Formula Recommended Usage: Dissolve 1 tablet in 200 ml of water once daily or as advised by your  professional.
+  Updated: 2026-07-13T23:14:47Z
+  Vendor: LazyLizard-skincare
+  Product Type: Effervescent Tablets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Lazylizard.png?v=1783789725
+  Price: ₹580.00 INR
 
 ## Collections
 
 - [Home page](https://lazylizardcare.com/collections/frontpage)
-  Updated: 2026-06-30T11:19:19Z
+  Updated: 2026-07-03T11:19:38Z
   Total Products: 3
 - [Skin Toner](https://lazylizardcare.com/collections/skin-toner)
-  Updated: 2026-06-30T11:19:19Z
+  Updated: 2026-07-03T11:19:38Z
   Total Products: 2
 - [Serum](https://lazylizardcare.com/collections/serum)
   Updated: 2026-06-29T11:18:04Z
@@ -56,10 +63,10 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
   Updated: 2026-06-29T11:18:04Z
   Total Products: 1
 - [Lip Balm](https://lazylizardcare.com/collections/lip-balm)
-  Updated: 2026-06-30T11:19:19Z
+  Updated: 2026-07-03T11:19:38Z
   Total Products: 2
 - [Feature Product -01](https://lazylizardcare.com/collections/feature-product-01)
-  Updated: 2026-06-30T11:19:19Z
+  Updated: 2026-07-03T11:19:38Z
   Total Products: 3
 - [Feature Product -02](https://lazylizardcare.com/collections/feature-product-02)
   Updated: 2026-06-29T11:18:04Z
@@ -218,6 +225,21 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
     Updated: 2026-06-29T07:09:09Z
     Author: NESHVARYA CONSUMER(OPC) PRIVATE LIMITED
     Tags: best serums, best skincare brand in India, boba cream, glass skin, indian skincare, Korean glass skin, Lazy lizard skincare, PDRN skincare India, products for pigmentation India, skincare routine for Indian skin, toner for skincare, viral cream
+  - [Why Your Lip Balm Isn't Enough: Discover Daily Lip Therapy](https://lazylizardcare.com/blogs/news/why-your-lip-balm-isnt-enough-discover-daily-lip-therapy)
+    Updated: 2026-07-01T15:04:16Z
+    Author: NESHVARYA CONSUMER(OPC) PRIVATE LIMITED
+  - [The Viral Lip Balm Everyone with Dark, Dry Lips is Talking About](https://lazylizardcare.com/blogs/news/the-viral-lip-balm-everyone-with-dark-dry-lips-is-talking-about)
+    Updated: 2026-07-02T21:55:02Z
+    Author: NESHVARYA CONSUMER(OPC) PRIVATE LIMITED
+    Tags: indian skincare, lip balm, PDRN skincare India, Viral Lip Balm
+  - [The Viral Lip Care Routine Everyone with Dark Lips is Trying](https://lazylizardcare.com/blogs/news/the-viral-lip-care-routine-everyone-with-dark-lips-is-trying)
+    Updated: 2026-07-06T06:21:05Z
+    Author: NESHVARYA CONSUMER(OPC) PRIVATE LIMITED
+    Tags: best skincare brand in India, lip balm, Viral Lip Balm
+  - [Liposomal Glutathione vs Regular Glutathione: Which One Should You Choose?](https://lazylizardcare.com/blogs/news/liposomal-glutathione-vs-regular-glutathione-which-one-should-you-choose)
+    Updated: 2026-07-08T15:00:15Z
+    Author: NESHVARYA CONSUMER(OPC) PRIVATE LIMITED
+    Tags: glutathione, lazy lizard, liposomal glutathione, sip glow
 
 ## Store Pages
 
