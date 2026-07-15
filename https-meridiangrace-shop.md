@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-04T20:23:58Z
 - Contact Email: hello@meridiangrace.shop
-- Updated At: 2026-07-03T00:00:40.093Z
+- Updated At: 2026-07-15T00:00:45.561Z
 
 ## Products
 
@@ -41,7 +41,7 @@
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/m6max-dual-motor-5600w-neon-night-city-shot.png?v=1778338898
   Price: $2,025.99 USD
 - [DEEPOWER S7Pro Off-Road eBike - 1500W, 220km Range, Fat Tire](https://meridiangrace.shop/products/deepower-s7pro-off-road-electric-bike): Shop the DEEPOWER S7Pro off-road electric bike with 1500W motor, 48V 60AH battery, 220km range, fat tires, and Shimano 7-speed. Built for any terrain.
-  Updated: 2026-05-26T16:16:28Z
+  Updated: 2026-07-05T15:17:07Z
   Vendor: eBike Boys
   Product Type: Electric Bike
   Availability: Available
@@ -133,7 +133,7 @@
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/Se065c78aa51d4ae0a86b15c6b99c5e53G.webp?v=1778853543
   Price: $2,923.99 USD
 - [Old School EBike T-Shirt](https://meridiangrace.shop/products/old-school-ebike-t-shirt): Product: District DM130 District ® Perfect Tri ® Tee. DM130 4.5 oz., 50% polyester 25% combed ring-spun cotton 25% rayon Rib-knit neck Tear-away label Shoulder-to-shoulder taping - Crown&Co
-  Updated: 2026-06-30T06:35:16Z
+  Updated: 2026-07-11T00:39:09Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -495,7 +495,7 @@
     Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ninjapod_12844418_f_3413C_00_f.jpg?v=1779213941
     Price: $26.88 USD
 - [Sunset Cruisin T-Shirt](https://meridiangrace.shop/products/sunset-cruisin-t-shirt): Product: Sport-Tek ST350 Sport-Tek ® PosiCharge ® Competitor™ Tee. ST350 3.8 oz., 100% polyester interlock PosiCharge technology Removable tag for comfort and relabeling Set-in sleeves Moisture-wicking Size Sleeve Chest Body length XS 17 3/4" 18 1/2" 27" S 18 1/2/4" 20" 28" M 19 1/4" 21 1/2" 29" L 20" 23" 30" XL 20 3/4" 24 1/2" 31" 2XL 21 1/2" 26" 32" 3XL 22 1/4" 28" 32 1/2" 4XL 23" 30" 33" - Meridian Grace
-  Updated: 2026-07-01T00:36:56Z
+  Updated: 2026-07-07T02:37:01Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -701,7 +701,7 @@
     Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ninjapod_12844569_f_ST350_0ece_f.jpg?v=1779215090
     Price: $52.00 USD
 - [Just Biking Shirt](https://meridiangrace.shop/products/just-biking-shirt): Product: Independent  Co. PRM33SBP Unisex Special Blend Raglan Hooded Sweatshirt 8 oz. 52% ring-spun cotton / 48% polyester blend, 32 singles Unisex, slim fit Reverse coverstitch sewing Twill neck tape 1x1 ribbing at neck, cuffs and waistband Sewn eyelets Self-fabric side panel inserts Tear away label Size Front body length Body width Sleeve length XS 25 1/2" 19" 32" S 26 1/2" 20" 33" M 27 1/2" 21" 34" L 28 1/2" 22" 35 1/4" XL 29 1/2" 23" 36 1/2" 2XL 30 1/2" 24" 37 3/4" 3XL 31 1/2" 25" 39" - Meridian Grace
-  Updated: 2026-07-01T00:37:07Z
+  Updated: 2026-07-09T18:48:33Z
   Vendor: Meridian Grace
   Product Type: Sweatshirt
   Availability: Available
@@ -1034,16 +1034,16 @@
 - [Home page](https://meridiangrace.shop/collections/frontpage)
   Updated: 2026-06-17T23:59:58Z
   Total Products: 1
-- [Electric Bikes - High Performance eBikes | Crown&Co](https://meridiangrace.shop/collections/electric-bikes): Shop Crown&Co's electric bikes. Powerful motors, long-range batteries, and fat-tire designs for commuting and off-road adventures.
+- [Electric Bikes](https://meridiangrace.shop/collections/electric-bikes): Shop Crown&Co's electric bikes. Powerful motors, long-range batteries, and fat-tire designs for commuting and off-road adventures.
   Updated: 2026-06-18T00:00:55Z
   Total Products: 9
-- [Electric Scooters - Fast & Foldable Scooters | Crown&Co](https://meridiangrace.shop/collections/electric-scooters): Shop Crown&Co's electric scooters. Dual motors, long range, and foldable designs for commuters and thrill-seekers alike.
+- [Electric Scooters](https://meridiangrace.shop/collections/electric-scooters): Shop Crown&Co's electric scooters. Dual motors, long range, and foldable designs for commuters and thrill-seekers alike.
   Updated: 2026-06-18T00:00:32Z
   Total Products: 4
-- [Merchandise — Premium Branded Apparel | Meridian Grace](https://meridiangrace.shop/collections/merchandise): Shop Meridian Grace branded merchandise including t-shirts, sweaters, and more.
+- [Merchandise](https://meridiangrace.shop/collections/merchandise): Shop Meridian Grace branded merchandise including t-shirts, sweaters, and more.
   Updated: 2026-05-28T22:34:22Z
   Total Products: 6
-- [ Colletcion - Crown&Co](https://meridiangrace.shop/collections/-colletcion): - Crown&Co
+- [Featured](https://meridiangrace.shop/collections/-colletcion): - Crown&Co
   Updated: 2026-06-18T00:00:17Z
   Total Products: 6
 
@@ -1142,6 +1142,26 @@
     Updated: 2026-07-01T09:12:26Z
     Author: Meridian Grace
     Tags: benefits of electric scooters, commute, eco-friendly transport, electric, electric bike, electric bikes, electric scooter, enhance daily travel, scooter, urban commuting solutions
+  - [A Beginner's Guide to Buying Your First Electric Bike or Scooter](https://meridiangrace.shop/blogs/news/a-beginners-guide-to-buying-your-first-electric-bike-or-scooter): A Beginner's Guide to Buying Your First Electric Bike or Scooter
+    Updated: 2026-07-03T09:10:22Z
+    Author: Meridian Grace
+    Tags: beginner tips, bike, buying guide, electric, electric bike, electric bikes, electric scooter, electric scooter purchasing guide, how to choose an electric bike, scooter
+  - [Why Electric Bikes are Becoming a Game-Changer in Urban Commutes](https://meridiangrace.shop/blogs/news/why-electric-bikes-are-becoming-a-game-changer-in-urban-commutes): Why Electric Bikes are Becoming a Game-Changer in Urban Commutes
+    Updated: 2026-07-06T09:21:28Z
+    Author: Meridian Grace
+    Tags: advantages of electric bikes, best electric scooters for commuting, commuting, eco-friendly transportation, electric, electric bike, electric bike benefits, electric scooter, scooters, urban mobility
+  - [Breaking Down the Costs: Is an Electric Scooter Worth the ?](https://meridiangrace.shop/blogs/news/breaking-down-the-costs-is-an-electric-scooter-worth-the-): Breaking Down the Costs: Is an Electric Scooter Worth the ?
+    Updated: 2026-07-08T09:12:50Z
+    Author: Meridian Grace
+    Tags: bike, cost analysis, e-scooter, electric, electric bike, electric scooter, electric scooter savings,  in electric scooters, scooter
+  - [Innovations in Electric Bikes: The Latest Trends That You Need to Know](https://meridiangrace.shop/blogs/news/innovations-in-electric-bikes-the-latest-trends-that-you-need-to-know): Innovations in Electric Bikes: The Latest Trends That You Need to Know
+    Updated: 2026-07-10T09:10:15Z
+    Author: Meridian Grace
+    Tags: best electric scooters, bikes, electric, electric bike, electric bikes, electric scooter, latest innovations, scooter trends, scooters, trends in e-bikes.
+  - [Understanding the Unique Features of Electric Scooters for Everyday Use](https://meridiangrace.shop/blogs/news/understanding-the-unique-features-of-electric-scooters-for-everyday-use): Understanding the Unique Features of Electric Scooters for Everyday Use
+    Updated: 2026-07-13T09:22:35Z
+    Author: Meridian Grace
+    Tags: benefits of electric bikes, eco-friendly transport, electric, electric bike, electric bikes, electric scooter, everyday riding, features of electric scooters, mobility, scooter
 
 ## Store Pages
 
