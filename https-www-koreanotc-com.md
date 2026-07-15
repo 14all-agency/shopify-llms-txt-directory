@@ -6,170 +6,200 @@
 - Timezone: America/New_York
 - Created At: 2026-03-17T21:21:04Z
 - Contact Email: koreanotc@gmail.com
-- Updated At: 2026-07-03T00:00:22.401Z
+- Updated At: 2026-07-15T00:00:33.962Z
 
 ## Products
 
-- [AESTURA Atobarrier 365 Cream | Barrier Repair Moisturizer | KoreanOTC](https://www.koreanotc.com/products/atobarrier-365-cream): Korean barrier repair cream with ceramides for deep hydration. Strengthens skin barrier and soothes sensitive skin. Shop now.
-  Updated: 2026-06-25T23:50:14Z
+- [Korean Moisturizer for Dry Skin | AESTURA](https://www.koreanotc.com/products/atobarrier-365-cream): AESTURA Atobarrier365 Cream is a Korean moisturizer for dry skin that deeply hydrates, supports the skin barrier, and helps soothe dryness daily.
+  Updated: 2026-07-14T15:27:33Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-cream-7958431.png?v=1782431710
-  Price: $25.49 USD
-- [LEMONA Vitamin C Powder Sticks | Korean Vitamin C Supplement](https://www.koreanotc.com/products/lemona-vitamin-c-powder): Korean Vitamin C powder sticks with 500mg per pack. Supports energy, immunity, and skin health. No water needed. Easy daily supplement.
-  Updated: 2026-06-26T15:02:55Z
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-cream-7958431.png?v=1783450781
+  Price: $28.99 USD
+- [Vitamin C Powder Sticks | LEMONA 500mg 20 PCS](https://www.koreanotc.com/products/lemona-vitamin-c-powder): LEMONA vitamin c powder sticks deliver 500mg vitamin C per stick in a convenient 20-piece pack for daily wellness support.
+  Updated: 2026-07-08T07:37:08Z
   Vendor: Korean OTC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/lemona-vitamin-c-500mg-20-pcs-9989988.png?v=1782431408
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/lemona-vitamin-c-500mg-20-pcs-9989988.png?v=1783463085
   Price: $14.99 USD
-- [O! MY ENZYME 30 Sticks | Korean Digestive Enzyme Powder Supplement](https://www.koreanotc.com/products/omy-enzyme-30-sticks): Korean digestive enzyme powder sticks for better digestion and gut support. Convenient, on-the-go formula with no water needed. 30 sticks per box.
-  Updated: 2026-06-25T23:50:18Z
+- [Digestive Enzyme Sticks for Daily Digestive Support](https://www.koreanotc.com/products/omy-enzyme-30-sticks): O! MY ENZYME 30 Sticks offers digestive enzyme sticks designed to support smoother digestion, better comfort, and easy daily wellness.
+  Updated: 2026-07-11T02:22:03Z
   Vendor: Korean OTC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/o-my-enzyme-30-sticks-4683803.webp?v=1782431708
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/o-my-enzyme-30-sticks-4683803.webp?v=1783463079
   Price: $39.99 USD
-- [AESTURA Hydro Soothing Cream | Lightweight Korean Moisturizer | KoreanOTC](https://www.koreanotc.com/products/atobarrier-365-hydro-soothing-cream): Lightweight Korean gel-cream with ceramides for deep hydration and soothing care. Strengthens skin barrier without heaviness. Perfect for sensitive skin.
-  Updated: 2026-06-25T23:50:20Z
+- [AESTURA Hydro Soothing Cream for Daily Comfort](https://www.koreanotc.com/products/atobarrier-365-hydro-soothing-cream): AESTURA hydro soothing cream delivers lightweight hydration and soothing care to help support dry, sensitive skin with a smooth, calming finish.
+  Updated: 2026-07-14T15:27:33Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-hydro-soothing-cream-4747601.png?v=1782431411
-  Price: $25.49 USD
-- [AESTURA Atobarrier365 hydro Cera-HA Ampoule 30ml](https://www.koreanotc.com/products/aestura-atobarrier365-hydro-cera-ha-ampoule-30ml): AESTURA ATOBARRIER365 Hydro Cera-HA Ampoule 30ml is a lightweight Korean hydrating serum made for sensitive, dry, dehydrated, combination, and barrier-damaged skin. Formulated with Cera-HA technology, this ampoule combines ceramides and hyaluronic acid to deliver deep hydration, support a stronger skin moisture barrier, and help reduce dryness, tightness, and irritation. Its fast-absorbing, non-sticky texture makes it especially great for combination skin because it helps target inner dryness without feeling greasy or heavy on oil-prone areas. Best for: sensitive skin, dry skin, dehydrated skin, combination skin, weakened skin barrier, and redness-prone skin. Benefits: Deeply hydrates without heaviness Supports the skin moisture barrier Helps calm tightness and dryness Lightweight, fast-absorbing, non-sticky finish Great for daily Korean skincare routines A great choice for anyone looking for a ceramide serum, hyaluronic acid serum, or barrier repair ampoule for hydrated, healthy-looking skin.
-  Updated: 2026-06-26T12:18:02Z
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-hydro-soothing-cream-4747601.png?v=1783463070
+  Price: $27.99 USD
+- [Korean Hydrating Serum for Deep Moisture Repair](https://www.koreanotc.com/products/aestura-atobarrier365-hydro-cera-ha-ampoule-30ml): Discover AESTURA Atobarrier365 Hydro Cera-HA Ampoule, a Korean hydrating serum that boosts moisture, supports the skin barrier, and smooths dry skin.
+  Updated: 2026-07-08T06:57:58Z
   Vendor: Korean OTC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-hydro-cera-ha-ampoule-30ml-6570549.png?v=1782431409
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-hydro-cera-ha-ampoule-30ml-6570549.png?v=1783450784
   Price: $32.00 USD
-- [AESTURA Travel Size ATOBARRIER365 Cream Moisturizer 30ml | Ceramide Barrier Repair Cream](https://www.koreanotc.com/products/aestura-travel-size-atobarrier365-cream-moisturizer-30ml-ceramide-barrier-repair-cream): Repair and strengthen your skin barrier anywhere with the AESTURA Mini ATOBARRIER365 Cream Moisturizer 30ml, a travel-size Korean ceramide moisturizer designed for dry, sensitive, and compromised skin. Formulated with advanced ceramide capsule technology, this bestselling barrier repair cream delivers deep hydration while helping protect skin from moisture loss, irritation, and environmental stress — all in a compact TSA-friendly size perfect for travel, gym bags, purses, and on-the-go skincare routines. • Travel-size Korean moisturizer perfect for on-the-go use• Deeply hydrates dry and dehydrated skin• Strengthens and repairs weakened skin barrier• Helps soothe redness, irritation, and tightness• Lightweight cream with long-lasting moisture• Ceramide-rich formula for sensitive skin care AESTURA’s dermatologist-tested formula helps improve skin texture and maintain healthy moisture balance without feeling greasy or heavy. The nourishing cream melts into the skin, leaving it soft, smooth, and comforted throughout the day. Perfect for sensitive, dry, flaky, and barrier-damaged skin types. Ideal for daily use morning and night, especially during travel, colder weather, over-exfoliation, or damaged skin barrier recovery. FAQ Q: Is this a travel-size moisturizer?A: Yes, the 30ml mini size is TSA-friendly and perfect for travel, handbags, gym bags, and trying the product before purchasing a larger size. Q: Is AESTURA ATOBARRIER365 Cream good for sensitive skin?A: Yes, it is specifically formulated for sensitive and weakened skin barriers with gentle ceramide-based hydration. Q: Does it feel greasy or heavy?A: No, despite its rich hydration, the formula absorbs comfortably without leaving a heavy or sticky finish. Q: What skin types is this moisturizer best for?A: It is ideal for dry, sensitive, dehydrated, and compromised skin needing barrier repair and long-lasting moisture.
-  Updated: 2026-06-25T23:50:19Z
+- [Travel Size Moisturizer for Barrier Repair](https://www.koreanotc.com/products/aestura-travel-size-atobarrier365-cream-moisturizer-30ml-ceramide-barrier-repair-cream): AESTURA travel size moisturizer helps repair and protect the skin barrier with ceramides. A rich, gentle cream for daily hydration anywhere.
+  Updated: 2026-07-11T03:13:32Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-travel-size-atobarrier365-cream-moisturizer-30ml-ceramide-barrier-repair-cream-6303295.png?v=1782431711
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-travel-size-atobarrier365-cream-moisturizer-30ml-ceramide-barrier-repair-cream-6303295.png?v=1783451061
   Price: $8.99 USD
-- [Antiphlamine Double Power Pain Relief Patch 6ct](https://www.koreanotc.com/products/antiphlamine-double-power-pain-relief-patch-30ct): Shop Yuhan Antiphlamine Double Power Pain Relief Patch 6ct x 5 Packs, 30 patches total. Korean topical patches for shoulder, back, neck, knee, waist, and muscle comfort.
-  Updated: 2026-06-25T23:50:08Z
+- [Shoulder Pain Patch for Fast Relief Comfort](https://www.koreanotc.com/products/antiphlamine-double-power-pain-relief-patch-30ct): Relieve sore muscles with this shoulder pain patch. Antiphlamine Double Power Pain Relief Patch 6ct offers targeted comfort for daily aches.
+  Updated: 2026-07-08T07:35:45Z
   Vendor: Yuhan Pharm
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/antiphlamine-double-power-pain-relief-patch-6ct-5050042.png?v=1782431406
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/antiphlamine-double-power-pain-relief-patch-6ct-5050042.png?v=1783452287
   Price: $8.99 USD
-- [Antiphlamine Double Power Pain Relief Patch 30 ct](https://www.koreanotc.com/products/antiphlamine-double-power-pain-relief-patch-6ct-copy): Shop Yuhan Antiphlamine Double Power Pain Relief Patch 6ct x 5 Packs, 30 patches total. Korean topical patches for shoulder, back, neck, knee, waist, and muscle comfort.
-  Updated: 2026-06-25T23:50:08Z
+- [Back Pain Patches for Fast Relief and Comfort](https://www.koreanotc.com/products/antiphlamine-double-power-pain-relief-patch-6ct-copy): Find back pain patches designed to help ease soreness, support comfort, and provide targeted relief with Antiphlamine Double Strength Pain Relief Patch 30 ct.
+  Updated: 2026-07-08T07:35:28Z
   Vendor: Yuhan Pharm
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/antiphlamine-double-power-pain-relief-patch-30-ct-7135096.png?v=1782431407
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/antiphlamine-double-power-pain-relief-patch-30-ct-7135096.png?v=1783452379
   Price: $39.95 USD
-- [AESTURA Atobarrier 365 Cream Mist 120ml](https://www.koreanotc.com/products/aestura-atobarrier365-cream-mist): Shop AESTURA Atobarrier 365 Cream Mist 120ml for Korean barrier support, ceramide hydration, and sensitive skin moisture at Korean OTC.
-  Updated: 2026-06-27T19:57:54Z
+- [Sensitive Skin Mist for Daily Barrier Care](https://www.koreanotc.com/products/aestura-atobarrier365-cream-mist): AESTURA Atobarrier 365 Cream Mist is a sensitive skin mist that hydrates, soothes, and supports a healthy barrier for daily comfort.
+  Updated: 2026-07-14T15:27:33Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier-365-cream-mist-120ml-7748738.png?v=1782431710
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier-365-cream-mist-120ml-7748738.png?v=1783450797
   Price: $24.00 USD
-- [AESTURA Hydro Essence 200ml | Korean OTC](https://www.koreanotc.com/products/aestura-atobarrier-365-hydro-essence-200ml): Shop AESTURA Atobarrier 365 Hydro Essence 200ml for Korean hydration, barrier support, and sensitive skin care at Korean OTC.
-  Updated: 2026-06-25T23:50:20Z
+- [AESTURA Atobarrier 365 Essence for Deep Hydration](https://www.koreanotc.com/products/aestura-atobarrier-365-hydro-essence-200ml): AESTURA Atobarrier 365 essence delivers long-lasting hydration, barrier support, and a lightweight finish for calm, healthy-looking skin.
+  Updated: 2026-07-08T07:31:11Z
   Vendor: Korean OTC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier-365-hydro-essence-200ml-6736526.png?v=1782431409
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier-365-hydro-essence-200ml-6736526.png?v=1783463065
   Price: $26.00 USD
-- [AESTURA Lightweight Face Lotion 150ml](https://www.koreanotc.com/products/aestura-atobarrier365-face-lotion): Shop AESTURA Atobarrier 365 Lightweight Face Lotion 150ml for Korean ceramide hydration, niacinamide, and barrier support at Korean OTC.
-  Updated: 2026-06-25T23:50:16Z
+- [Korean Moisturizer Lotion for Barrier Care](https://www.koreanotc.com/products/aestura-atobarrier365-face-lotion): Discover AESTURA ATOBARRIER365, a Korean moisturizer lotion that delivers lightweight hydration and helps support a healthy skin barrier.
+  Updated: 2026-07-08T07:31:03Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-lightweight-face-lotion-moisturizer-6816033.webp?v=1782431706
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-lightweight-face-lotion-moisturizer-6816033.webp?v=1783463060
   Price: $25.00 USD
-- [AESTURA pH-Balancing Cleanser 150ml](https://www.koreanotc.com/products/aestura-ph-balancing-cleanser): Shop AESTURA Atobarrier 365 pH-Balancing Foaming Cleanser 150ml for gentle Korean cleansing and sensitive skin barrier support.
-  Updated: 2026-06-25T23:50:21Z
+- [Sensitive Skin Foaming Cleanser with Gentle pH Balance](https://www.koreanotc.com/products/aestura-ph-balancing-cleanser): Discover a sensitive skin foaming cleanser that gently removes impurities, supports pH balance, and helps keep skin soft, calm, and comfortable.
+  Updated: 2026-07-08T06:58:21Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-gentle-ph-balancing-foaming-cleanser-5232750.png?v=1782431709
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-gentle-ph-balancing-foaming-cleanser-5232750.png?v=1783450833
   Price: $21.00 USD
-- [ROUND LAB Birch Juice Sunscreen](https://www.koreanotc.com/products/round-lab-birch-juice-sunscreen): Shop imported Korean ROUND LAB Birch Juice UV Lock SPF 45 sunscreen for lightweight hydration, no white cast, and daily sensitive skin SPF.
-  Updated: 2026-06-28T18:06:54Z
+- [Korean Sunscreen SPF 45 | ROUND LAB UV Lock](https://www.koreanotc.com/products/round-lab-birch-juice-sunscreen): Discover ROUND LAB Birch Juice Moisturizing UV Lock, a Korean sunscreen SPF 45 that helps protect skin while keeping it hydrated and comfortable.
+  Updated: 2026-07-08T06:58:41Z
   Vendor: Round Lab
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/round-lab-birch-juice-moisturizing-uv-lock-spf-45-9752361.png?v=1782431708
+  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/round-lab-birch-juice-moisturizing-uv-lock-spf-45-9752361.png?v=1783450841
   Price: $18.00 USD
 
 ## Collections
 
-- [Moisturizer](https://www.koreanotc.com/collections/skincare): Korean Moisturizers for Skin Barrier Repair | KoreanOTC
-  Updated: 2026-06-28T11:23:40Z
+- [Moisturizer](https://www.koreanotc.com/collections/skincare): Discover the benefits of Korean moisturizer for deep hydration, smooth texture, and a healthy glow. Find the best formula for your skin type.
+  Updated: 2026-07-11T03:12:14Z
   Total Products: 6
-- [Supplements](https://www.koreanotc.com/collections/health): Shop Korean supplements and wellness products for daily health, energy, immune support, digestion, beauty care, and everyday wellness | Korean OTC
-  Updated: 2026-06-26T02:49:47Z
+- [Supplements](https://www.koreanotc.com/collections/health): Discover Korean supplements designed to support daily wellness, energy, immunity, and balance with trusted ingredients and easy routines.
+  Updated: 2026-07-11T11:28:55Z
   Total Products: 2
-- [Shop All](https://www.koreanotc.com/collections/all-skincare): Shop all products, including trusted Korean skincare, vitamins, wellness supplements, pain relief patches, and everyday Korean health and beauty essentials | Korean OTC
-  Updated: 2026-06-29T11:23:51Z
+- [Shop All](https://www.koreanotc.com/collections/all-skincare): Shop Korean skincare products designed to hydrate, brighten, and support healthy skin with gentle formulas and daily essentials for every routine.
+  Updated: 2026-07-11T11:28:55Z
   Total Products: 13
-- [Cleansers](https://www.koreanotc.com/collections/cleansers): Best Korean Cleansers for Sensitive Skin | KoreanOTC
-  Updated: 2026-06-27T02:10:34Z
+- [Cleansers](https://www.koreanotc.com/collections/cleansers): Discover Korean cleansers that remove dirt, oil, and makeup while keeping skin soft, calm, and refreshed for daily cleansing.
+  Updated: 2026-07-07T22:31:55Z
   Total Products: 1
-- [AESTURA](https://www.koreanotc.com/collections/aestura)
-  Updated: 2026-06-28T11:23:40Z
+- [AESTURA](https://www.koreanotc.com/collections/aestura): Discover AESTURA products designed to support sensitive skin with gentle care, hydration, and daily comfort for a healthier-looking complexion.
+  Updated: 2026-07-11T03:12:14Z
   Total Products: 8
-- [Vitamins](https://www.koreanotc.com/collections/vitamins): Shop trusted Korean vitamins and wellness supplements carefully selected for daily energy, immune support, beauty care, and overall health. Korean OTC offers popular Korean health products designed for modern wellness routines, including vitamin C sticks, daily vitamin supplements, functional wellness products, and convenient on-the-go nutrition options. Whether you are looking for Korean vitamin C, Korean immune support vitamins, Korean beauty supplements, Korean daily vitamins, Korean wellness products, or Korean health supplements, this collection makes it easy to discover high-quality options from Korea’s trusted health and pharmacy brands. Our Korean Vitamins collection is ideal for customers who want simple, convenient supplements for busy lifestyles, travel, work, school, fitness routines, and everyday wellness. Find Korean vitamins made for daily use, easy portability, and reliable health support.
-  Updated: 2026-06-26T02:49:47Z
+- [Vitamins](https://www.koreanotc.com/collections/vitamins): Discover Korean vitamins for daily wellness, energy, and immune support. Explore key benefits, types, and how to choose the right supplement.
+  Updated: 2026-07-08T05:12:00Z
   Total Products: 1
-- [Serums](https://www.koreanotc.com/collections/serums): Discover the best Korean serums and ampoules for hydration, glass skin, brightening, acne care, and skin barrier repair at Korean OTC. Shop authentic Korean skincare serums from top K-beauty brands formulated with powerful ingredients like ceramides, hyaluronic acid, niacinamide, centella asiatica, and peptides for healthy, glowing skin. Perfect for dry, sensitive, acne-prone, and dehydrated skin types.
-  Updated: 2026-06-25T23:39:50Z
+- [Serums](https://www.koreanotc.com/collections/serums): Discover Korean serums designed to hydrate, brighten, and target skin concerns for a smoother, healthier, and more radiant complexion.
+  Updated: 2026-07-07T23:09:05Z
   Total Products: 1
-- [Pain Relief](https://www.koreanotc.com/collections/pain-relief): Shop trusted Korean pain relief products for everyday comfort and targeted body support | Korean OTC
-  Updated: 2026-06-25T06:32:34Z
+- [Pain Relief](https://www.koreanotc.com/collections/pain-relief): Discover pain relief patches for targeted, long-lasting comfort. Learn how they work, where to use them, and why they’re a simple pain relief option.
+  Updated: 2026-07-08T04:10:24Z
   Total Products: 2
-- [Sunscreens](https://www.koreanotc.com/collections/sunscreens): Shop Korean sunscreens at Korean OTC for lightweight SPF, no white cast, hydration, and sensitive skin UV protection from trusted K-beauty brands.
-  Updated: 2026-06-29T11:23:51Z
+- [Sunscreens](https://www.koreanotc.com/collections/sunscreens): Discover Korean sunscreen for lightweight, broad-spectrum UV protection, skin-friendly formulas, and daily comfort for all skin types.
+  Updated: 2026-07-08T04:10:10Z
   Total Products: 1
 
 ## Blogs
 
 - [AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin Barrier Repair](https://www.koreanotc.com/blogs/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair)
-  - [AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin Barrier Repair](https://www.koreanotc.com/blogs/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair)
-    Updated: 2026-06-25T23:48:11Z
+  - [AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin](https://www.koreanotc.com/blogs/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair): AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin
+    Updated: 2026-07-11T10:22:07Z
     Author: Oh Min
     Tags: AESTURA
 - [AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry Sensitive Skin](https://www.koreanotc.com/blogs/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin)
-  - [AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry, Sensitive Skin](https://www.koreanotc.com/blogs/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin)
-    Updated: 2026-06-28T00:08:12Z
+  - [AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry,](https://www.koreanotc.com/blogs/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin): AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry,
+    Updated: 2026-07-14T04:53:15Z
     Author: Korean OTC
-    Tags: AESTURA, ceramide face mist, dry skin, hydrating mist, K-beauty, Korean skincare, sensitive skin, skin barrier, Skin Care
+    Tags: AESTURA, atobarrier, dry skin, Korean skincare, sensitive skin, Skin Care
+- [Best Dry Skin Moisturizer: Top Picks and How to Choose](https://www.koreanotc.com/blogs/best-dry-skin-moisturizer-top-picks-and-how-to-choose)
+  - [Best Dry Skin Moisturizer: Top Picks for Lasting Hydration](https://www.koreanotc.com/blogs/best-dry-skin-moisturizer-top-picks-and-how-to-choose/dry-skin-moisturizer-best-picks-12419-9): Best Dry Skin Moisturizer: Top Picks for Lasting Hydration
+    Updated: 2026-07-14T04:57:39Z
+    Author: Oh Min
+    Tags: AESTURA, atobarrier
+- [About Us](https://www.koreanotc.com/blogs/news)
+  - [Best Hydrating Serum Picks for Dry Skin in 2026](https://www.koreanotc.com/blogs/news/best-hydrating-serum-dry-skin-12585-76): Best Hydrating Serum Picks for Dry Skin in 2026
+    Updated: 2026-07-14T04:48:42Z
+    Author: Oh Min
+    Tags: AESTURA, Korean skincare, Skin Care
 
 ## Store Pages
 
-- [Contact](https://www.koreanotc.com/pages/contact)
-  Updated: 2026-03-17T21:21:08Z
-- [Your Privacy Choices](https://www.koreanotc.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-03-17T21:21:14Z
-- [Korean Skincare & Wellness Essentials](https://www.koreanotc.com/pages/korean-skincare-wellness-essentials): Authentic Korean skincare and health products designed to improve your daily routine. At Korean OTC, we offer barrier-repair creams, hydrating mois...
-  Updated: 2026-04-16T00:59:12Z
-- [Best Korean Skincare Products in the USA | Korean OTC](https://www.koreanotc.com/pages/korean-skincare-guide): Shop the best Korean skincare products in the USA at Korean OTC. Discover authentic cleansers, toners, serums, moisturizers, and barrier care essen...
-  Updated: 2026-04-18T02:24:31Z
-- [Korean OTC Blog | Korean Skincare, K-Beauty & Wellness Guides](https://www.koreanotc.com/pages/korean-otc-blog-korean-skincare-k-beauty-wellness-guides): Welcome to the Korean OTC Blog — your guide to trusted Korean skincare, K-beauty routines, wellness essentials, and everyday health products. Here,...
-  Updated: 2026-05-28T03:32:12Z
-- [ Event](https://www.koreanotc.com/pages/-event): ...
-  Updated: 2026-05-31T06:37:04Z
-- [Engraving](https://www.koreanotc.com/pages/engraving): 
-  Updated: 2026-06-27T08:44:14Z
+- [Get in Touch With Our Support Team Today](https://www.koreanotc.com/pages/contact): Get in touch with our team for fast, reliable support Reach Out for Quick and Friendly Help If you need assistance, the best way to get in touch is...
+  Updated: 2026-07-08T04:44:38Z
+- [Privacy Choices: Manage Your Data Preferences](https://www.koreanotc.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-07-08T05:13:01Z
+- [Korean Skincare Essentials for Radiant Wellness](https://www.koreanotc.com/pages/korean-skincare-wellness-essentials): Korean Skincare Essentials for Daily Wellness Authentic Korean skincare and health products designed to improve your daily routine. At Korean OTC, ...
+  Updated: 2026-07-07T22:26:59Z
+- [Best Korean Skincare Products in the USA](https://www.koreanotc.com/pages/korean-skincare-guide): Best Korean Skincare Products for Healthy, Glowing Skin Shop the best Korean skincare products in the USA at Korean OTC. Discover authentic cleanse...
+  Updated: 2026-07-07T22:26:43Z
+- [Korean Skincare Blog for K-Beauty Tips](https://www.koreanotc.com/pages/korean-otc-blog-korean-skincare-k-beauty-wellness-guides): Your Korean Skincare Blog for Expert K-Beauty Guidance Welcome to the Korean OTC Blog — your guide to trusted Korean skincare, K-beauty routines, w...
+  Updated: 2026-07-07T22:26:30Z
+- [ Event Deals for Better Sales Results](https://www.koreanotc.com/pages/-event):  Event Deals That Drive Attention and Sales ... Why  Event Deals Matter  event deals are one of the most effective ways ...
+  Updated: 2026-07-07T22:26:16Z
+- [Fragrance Engraving for Personalized Gifts](https://www.koreanotc.com/pages/engraving): Fragrance Engraving for Personal Expression Make Every Bottle Feel One of a Kind Fragrance engraving adds a personal touch that turns an ordinary b...
+  Updated: 2026-07-07T22:25:54Z
+- [Consulting Services for Business Growth and Strategy](https://www.koreanotc.com/pages/services): Consulting Services That Support Smarter Growth Strategic Guidance Built Around Your Goals Our consulting services are designed to help businesses ...
+  Updated: 2026-07-07T23:01:03Z
+- [Face Scan Consultant for Accurate Facial Analysis](https://www.koreanotc.com/pages/face-scan-consultant): Professional Face Scan Consultant Services for Clearer Insights What a Face Scan Consultant Does A face scan consultant helps individuals and busin...
+  Updated: 2026-07-07T19:27:12Z
+- [AESTURA Atobarrier365 Cream for Daily Barrier Care](https://www.koreanotc.com/pages/html-sitemap-products): AESTURA Atobarrier365 Cream for Everyday Skin Support Products AESTURA Atobarrier365 Cream LEMONA Vitamin C 500mg (20 PCS... O! MY ENZYME 30 Sticks...
+  Updated: 2026-07-08T04:15:29Z
+- [Shop All Collections | HTML Sitemap Collections](https://www.koreanotc.com/pages/html-sitemap-collections): Shop All Collections for a Better Browsing Experience Collections Moisturizer Supplements Shop All Cleansers AESTURA Vitamins Serums Pain Relief Su...
+  Updated: 2026-07-08T04:16:04Z
+- [Aestura Blog Sitemap | HTML Sitemap Blogs](https://www.koreanotc.com/pages/html-sitemap-blogs): Aestura Blog Sitemap for Easy Navigation and SEO Value Blogs About Us AESTURA: The Best Korean Skinc... Unlock Radiant Skin with AESTU... Unlock Ra...
+  Updated: 2026-07-08T04:17:07Z
+- [HTML Sitemap Articles for Better Site Navigation](https://www.koreanotc.com/pages/html-sitemap-articles): HTML Sitemap Articles for Better Navigation and SEO Blog Posts AESTURA Atobarrier 365 Cream M... AESTURA: The Best Korean Skinc... .seoant-html-sit...
+  Updated: 2026-07-08T04:17:20Z
+- [Website Sitemap Page for Better Navigation](https://www.koreanotc.com/pages/html-sitemap-pages): Why a website sitemap page Improves Navigation and SEO Pages Contact Your Privacy Choices Korean Skincare & Wellness Ess... Best Korean Skincare Pr...
+  Updated: 2026-07-08T04:15:49Z
+- [HTML Sitemap for Easy Site Navigation](https://www.koreanotc.com/pages/html-sitemap): HTML sitemap for simple website navigation Products AESTURA Atobarrier365 Cream LEMONA Vitamin C 500mg (20 PCS... O! MY ENZYME 30 Sticks AESTURA At...
+  Updated: 2026-07-08T04:17:37Z
 
 ## Policies
 
 - [Privacy Policy](https://www.koreanotc.com/policies/privacy-policy)
   Updated: 2026-03-17T17:21:15-04:00
+- [Shipping Policy](https://www.koreanotc.com/policies/shipping-policy)
+  Updated: 2026-07-05T02:07:24-04:00
 - [Refund Policy](https://www.koreanotc.com/policies/refund-policy)
-  Updated: 2026-06-14T23:25:41-04:00
+  Updated: 2026-07-05T02:32:20-04:00
 - [Terms of Service](https://www.koreanotc.com/policies/terms-of-service)
   Updated: 2026-06-14T21:30:33-04:00
+- [Contact Information](https://www.koreanotc.com/policies/contact-information)
+  Updated: 2026-07-05T02:01:55-04:00
 
 ## Optional
 
