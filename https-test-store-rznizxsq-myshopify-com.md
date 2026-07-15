@@ -10,9 +10,10 @@
 - Contact Email: vinaychilveri143@gmail.com
 - Contact Phone: 4343
 - Address: 12, baner pune
-- Updated At: 2026-07-07T07:29:02.666Z
+- Updated At: 2026-07-15T00:00:38.395Z
 
 custom information 
+for testing
 
 ## Products
 
@@ -108,19 +109,25 @@ custom information
   Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1776522106
   Price: $1,025.00 USD
 - [The 3p Fulfilled Snowboard](https://test-store-rznizxsq.myshopify.com/products/the-3p-fulfilled-snowboard)
-  Updated: 2026-06-26T03:35:04Z
+  Updated: 2026-07-07T21:20:50Z
   Vendor: test_store
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1776522106
   Price: $2,629.95 USD
 - [The Collection Snowboard: Liquid](https://test-store-rznizxsq.myshopify.com/products/the-collection-snowboard-liquid)
-  Updated: 2026-06-26T03:35:04Z
+  Updated: 2026-07-07T09:18:06Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1776522107
-  Price: $749.95 USD
+  - [10](https://test-store-rznizxsq.myshopify.com/products/the-collection-snowboard-liquid?variant=48052103184558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1776522107
+    Price: $749.95 USD
+  - [20](https://test-store-rznizxsq.myshopify.com/products/the-collection-snowboard-liquid?variant=48052103217326)
+    Availability: Available
+    Price: $749.95 USD
 
 ## Collections
 
@@ -128,13 +135,13 @@ custom information
   Updated: 2026-06-26T03:35:01Z
   Total Products: 1
 - [Automated Collection](https://test-store-rznizxsq.myshopify.com/collections/automated-collection)
-  Updated: 2026-06-26T03:35:01Z
+  Updated: 2026-07-07T08:09:00Z
   Total Products: 8
 - [Hydrogen](https://test-store-rznizxsq.myshopify.com/collections/hydrogen)
-  Updated: 2026-06-26T03:35:01Z
+  Updated: 2026-07-07T08:09:00Z
   Total Products: 3
 - [AVADA - Best Sellers](https://test-store-rznizxsq.myshopify.com/collections/avada-best-sellers)
-  Updated: 2026-06-08T18:37:35Z
+  Updated: 2026-07-07T09:20:09Z
   Total Products: 17
 
 ## Blogs
@@ -147,8 +154,6 @@ custom information
 
 ## Store Pages
 
-- [Contact](https://test-store-rznizxsq.myshopify.com/pages/contact)
-  Updated: 2026-04-18T14:21:20Z
 - [Your Privacy Choices](https://test-store-rznizxsq.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-04-18T14:21:26Z
 
