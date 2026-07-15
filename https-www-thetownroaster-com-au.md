@@ -8,12 +8,12 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-03-17T00:53:52Z
 - Contact Email: contact@thetownroaster.com.au
-- Updated At: 2026-07-07T00:00:45.551Z
+- Updated At: 2026-07-15T00:00:44.675Z
 
 ## Products
 
 - [Big Easy Espresso Blend coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/big-easy-espresso-blend): Buy our most popular coffee, Big Easy Espresso Blend coffee beans from The Town Roaster. A rich coffee with a sweet chocolate finish. Free Delivery for orders over $30.
-  Updated: 2026-07-06T19:59:07Z
+  Updated: 2026-07-13T20:48:57Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -73,7 +73,7 @@
     Availability: Available
     Price: $68.00 AUD
 - [Coffee Espresso Blend Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/espresso-blend-subscription): Never run out of coffee again with Espresso Blend Subscription coffee beans from The Town Roaster. With Free Delivery for all subscriptions.
-  Updated: 2026-07-04T21:36:07Z
+  Updated: 2026-07-13T00:25:47Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -133,7 +133,7 @@
     Availability: Available
     Price: $62.00 AUD
 - [Coffee Single Origin Espresso Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/single-origin-espresso-subscription): Never run out of coffee again with Single Origin Espresso Roast Subscription coffee beans from The Town Roaster. With Free Delivery for all subscriptions.
-  Updated: 2026-07-05T23:25:27Z
+  Updated: 2026-07-11T23:01:29Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -207,7 +207,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/02_V60_40_filters.png?v=1774053426
   Price: $6.60 AUD
 - [Coffee Filters AeroPress Micro Filters at The Town Roaster](https://www.thetownroaster.com.au/products/aeropress-micro-filters): Buy AeroPress Micro Filters, 350 pack, from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-06-05T00:47:56Z
+  Updated: 2026-07-08T22:17:07Z
   Vendor: The Town Roaster
   Product Type: Coffee Filters
   Availability: Available
@@ -366,7 +366,7 @@
     Availability: Available
     Price: $45.00 AUD
 - [Winter Seasonal Blend](https://www.thetownroaster.com.au/products/winter-blend): Winter Seasonal Espresso Blend coffee beans. A full-bodied, rich coffee tasting of toffee apple. Delicious with milk or black. Free shipping for orders over $30.
-  Updated: 2026-07-06T07:40:47Z
+  Updated: 2026-07-14T23:32:19Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -538,7 +538,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/CamperMugLifeonEasyStreet.png?v=1732062922
   Price: $16.50 AUD
 - [Coffee Single Origin Filter Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/single-origin-filter-subscription): Never run out of coffee again with Single Origin Filter Roast Subscription coffee beans from The Town Roaster. Free Delivery for all subscriptions.
-  Updated: 2026-06-29T04:08:37Z
+  Updated: 2026-07-10T23:18:10Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -598,7 +598,7 @@
     Availability: Available
     Price: $73.00 AUD
 - [Organic Espresso Blend coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/organic-blend): Buy Organic Espresso Blend coffee beans from The Town Roaster. Sourced from Fair-Trade & Organic coffee producers. With Free Delivery for orders over $30.
-  Updated: 2026-07-03T23:49:01Z
+  Updated: 2026-07-08T21:11:10Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -696,7 +696,7 @@
     Availability: Available
     Price: $41.00 AUD
 - [Coffee beans Ethiopia Guji Guribea Organic at The Town Roaster](https://www.thetownroaster.com.au/products/ethiopia-guribea): Buy Single Origin Ethiopia Guji Guribea Organic coffee beans from The Town Roaster. Coffee is organically grown and harvested. With Free Delivery for orders over $30.
-  Updated: 2026-07-03T23:48:57Z
+  Updated: 2026-07-13T10:16:56Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -756,7 +756,7 @@
     Availability: Available
     Price: $87.00 AUD
 - [Single Origin Coffee beans Colombia Finca Maracay at The Town Roaster](https://www.thetownroaster.com.au/products/colombia-finca-maracay): Buy Colombia Finca Maracay Single Origin coffee beans from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-07-04T02:33:33Z
+  Updated: 2026-07-12T00:01:11Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -899,12 +899,12 @@
   - [Ground Stovetop / 1kg](https://www.thetownroaster.com.au/products/ethiopia-halo-beriti?variant=48485220876471)
     Availability: Available
     Price: $87.00 AUD
-- [Single Origin Coffee El Salvador Finca Talquesalar at The Town Roaster](https://www.thetownroaster.com.au/products/el-salvador-finca-talquesalar): Buy Single Origin El Salvador Finca Talquesalar Filter Roast coffee beans from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-07-06T07:40:47Z
+- [Single Origin Coffee El Salvador Finca Talquesalar at The Town Roaster](https://www.thetownroaster.com.au/products/el-salvador-finca-talquesalar): Buy Single Origin El Salvador Finca Talquesalar Light Espresso Roast coffee beans from The Town Roaster. With Free Delivery for orders over $30.
+  Updated: 2026-07-12T17:23:01Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/El_Salv_Talquesalar.jpg?v=1779859054
+  Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/El_Salv_Talquesalar_Esp.jpg?v=1783833806
   - [Whole / 250g](https://www.thetownroaster.com.au/products/el-salvador-finca-talquesalar?variant=48485253021879)
     Availability: Available
     Price: $25.00 AUD
@@ -963,16 +963,16 @@
 ## Collections
 
 - [Coffee Beans](https://www.thetownroaster.com.au/collections/products): Buy coffee beans online from The Town Roaster. Espresso blends, Single Origins and Filter Roast coffee beans available.
-  Updated: 2026-07-06T11:11:39Z
+  Updated: 2026-07-14T11:11:33Z
   Total Products: 29
 - [Coffee Subscriptions](https://www.thetownroaster.com.au/collections/subscriptions): Buy The Town Roaster Coffee Subscription and never run out of coffee
-  Updated: 2026-07-06T11:11:39Z
+  Updated: 2026-07-14T11:11:33Z
   Total Products: 7
 - [Equipment](https://www.thetownroaster.com.au/collections/equipment): Filter papers and reuasble cups for your coffee making needs.
-  Updated: 2026-06-22T11:12:06Z
+  Updated: 2026-07-09T11:12:02Z
   Total Products: 15
 - [Gifts](https://www.thetownroaster.com.au/collections/gifts): The Town Roaster gift ideas for the coffee lovers in your life
-  Updated: 2026-07-06T11:11:39Z
+  Updated: 2026-07-09T11:12:02Z
   Total Products: 13
 
 ## Blogs
