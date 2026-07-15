@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-12T04:06:04Z
 - Contact Email: hello@harroman.com
-- Updated At: 2026-07-08T00:00:40.413Z
+- Updated At: 2026-07-15T00:00:41.806Z
 
 ## Products
 
 - [HARROMAN Shave Stick – 2-in-1 Facial Cleansing & Shaving Soap](https://www.harroman.com/products/harroman-shave-stick-for-cuts-prevent-razor-burn-nicks-ingrown-hairs): Discover the HARROMAN shave stick: softens beard roots, protects skin, moisturizes & soothes. Perfect for travel with creamy, convenient 2-in-1 formula.
-  Updated: 2026-07-07T18:38:23Z
+  Updated: 2026-07-14T17:06:06Z
   Vendor: Harroman
   Product Type: 
   Availability: Available
@@ -39,16 +39,16 @@
 ## Collections
 
 - [home page](https://www.harroman.com/collections/frontpage)
-  Updated: 2026-07-07T11:19:20Z
+  Updated: 2026-07-14T11:19:06Z
   Total Products: 2
 - [APPPlaza - Best Sellers](https://www.harroman.com/collections/appplaza-best-sellers)
-  Updated: 2026-07-07T11:19:20Z
+  Updated: 2026-07-14T11:19:06Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.harroman.com/collections/avada-best-sellers)
-  Updated: 2026-07-07T11:19:20Z
+  Updated: 2026-07-14T11:19:06Z
   Total Products: 2
 - [All item](https://www.harroman.com/collections/all-item)
-  Updated: 2026-07-07T11:19:20Z
+  Updated: 2026-07-14T11:19:06Z
   Total Products: 2
 
 ## Blogs
@@ -412,6 +412,27 @@
     Author: harroman
   - [Problem-Solution Tips for Razor Burn-Free Shaving Sessions](https://www.harroman.com/blogs/blog-post/problem-solution-tips-for-razor-burn-free-shaving-sessions): Problem-Solution Tips for Razor Burn-Free Shaving Sessions
     Updated: 2026-07-07T17:43:07Z
+    Author: harroman
+  - [Exploring Modern Razor Technologies for an Enhanced Shaving Experience](https://www.harroman.com/blogs/blog-post/exploring-modern-razor-technologies-for-an-enhanced-shaving-experience): Exploring Modern Razor Technologies for an Enhanced Shaving Experience
+    Updated: 2026-07-08T17:44:31Z
+    Author: harroman
+  - [Checklist to Prepare for Your Shaving Routine With the Ultimate Shave Bar](https://www.harroman.com/blogs/blog-post/checklist-to-prepare-for-your-shaving-routine-with-the-ultimate-shave-bar): Checklist to Prepare for Your Shaving Routine With the Ultimate Shave Bar
+    Updated: 2026-07-09T17:42:22Z
+    Author: harroman
+  - [An Editorial on the Cultural Shifts in Men’s Shaving Practices](https://www.harroman.com/blogs/blog-post/an-editorial-on-the-cultural-shifts-in-men-s-shaving-practices): An Editorial on the Cultural Shifts in Men’s Shaving Practices
+    Updated: 2026-07-10T18:08:26Z
+    Author: harroman
+  - [Comparative Analysis of Today's Top Shaving Razors and Accessories.](https://www.harroman.com/blogs/blog-post/comparative-analysis-of-todays-top-shaving-razors-and-accessories): Comparative Analysis of Today's Top Shaving Razors and Accessories.
+    Updated: 2026-07-11T17:15:24Z
+    Author: harroman
+  - [Shaving Guide to the Best Razor and Shave Stick Combo](https://www.harroman.com/blogs/blog-post/shaving-guide-to-the-best-razor-and-shave-stick-combo): Shaving Guide to the Best Razor and Shave Stick Combo
+    Updated: 2026-07-12T17:22:55Z
+    Author: harroman
+  - [Solutions for a Smoother Shave Choosing the Right Tools](https://www.harroman.com/blogs/blog-post/solutions-for-a-smoother-shave-choosing-the-right-tools): Solutions for a Smoother Shave Choosing the Right Tools
+    Updated: 2026-07-13T17:27:51Z
+    Author: harroman
+  - [How to Achieve a Close Shave with the Proper Razor](https://www.harroman.com/blogs/blog-post/how-to-achieve-a-close-shave-with-the-proper-razor): How to Achieve a Close Shave with the Proper Razor
+    Updated: 2026-07-14T17:55:45Z
     Author: harroman
 
 ## Store Pages
