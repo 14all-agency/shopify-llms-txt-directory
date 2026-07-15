@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-12-08T07:33:19Z
 - Contact Email: post@zentrale-autoglas.de
-- Updated At: 2026-07-07T00:00:40.092Z
+- Updated At: 2026-07-15T00:00:43.001Z
 
 ## Collections
 
@@ -19,7 +19,7 @@
 
 - [Autoglas-Ratgeber](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber)
   - [Windschutzscheibe austauschen: Kosten richtig einschätzen](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/windschutzscheibe-austauschen-kosten-richtig-einschtzen)
-    Updated: 2026-07-05T10:02:40Z
+    Updated: 2026-07-09T10:08:52Z
     Author: Björn Bastian Behnke
   - [Heckscheibe geplatzt - was nun?](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/heckscheibe-geplatzt-was-nun)
     Updated: 2026-01-30T09:25:21Z
@@ -49,7 +49,7 @@
     Updated: 2026-01-30T16:49:44Z
     Author: EComposer
   - [Auto-Scheibe gerissen durch Hitze oder Kälte - kann das sein?](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/auto-scheibe-gerissen-hitze)
-    Updated: 2026-01-29T16:46:30Z
+    Updated: 2026-07-08T14:12:27Z
     Author: EComposer
   - [Windschutzscheibe tauschen: Dauer beim Scheibentausch und was man danach beachten sollte](https://www.zentrale-autoglas.de/blogs/autoglas-ratgeber/windschutzscheibe-tauschen-dauer)
     Updated: 2026-01-29T20:19:20Z
