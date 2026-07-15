@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-09-09T14:00:46Z
 - Contact Email: Info@solextacy.com
-- Updated At: 2026-07-03T00:00:29.655Z
+- Updated At: 2026-07-15T00:00:35.711Z
 
 ## Products
 
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_d3b461d5-2789-4505-a790-3635c3ed0e64.jpg?v=1631520862
     Price: $79.99 USD
 - [Satin Platform Shoes | Pearl Shoes | SoleXtacy](https://solextacy.com/products/fayanna): Fayana pearl studded white satin platform shoes shimmer with every step. Cushioned & glamorous — the ultimate formal platform heel. Shop SoleXtacy!
-  Updated: 2026-06-28T06:09:18Z
+  Updated: 2026-07-08T18:57:55Z
   Vendor: SoleXtacy
   Product Type: Shoes
   Availability: Available
@@ -917,49 +917,49 @@
 
 ## Collections
 
-- [Formal Heels for Weddings, Galas & Special Occasions | SoleXtacy](https://solextacy.com/collections/heels): Shop SoleXtacy's luxury formal heels — pearl pumps, platform heels, and elegant stilettos for weddings, galas, sorority events, church, and every special occasion.
+- [Heels](https://solextacy.com/collections/heels): Shop SoleXtacy's luxury formal heels — pearl pumps, platform heels, and elegant stilettos for weddings, galas, sorority events, church, and every special occasion.
   Updated: 2026-06-27T19:23:18Z
   Total Products: 14
-- [Formal Evening Bags & Clutches for Special Occasions | SoleXtacy](https://solextacy.com/collections/elegant-handbags): Shop SoleXtacy's luxury evening bags and clutches — pearl clutches, sphere bags, and formal minaudieres for weddings, galas, sorority events, and church occasions.
+- [Elegant Handbags](https://solextacy.com/collections/elegant-handbags): Shop SoleXtacy's luxury evening bags and clutches — pearl clutches, sphere bags, and formal minaudieres for weddings, galas, sorority events, and church occasions.
   Updated: 2026-06-27T19:24:04Z
   Total Products: 7
-- [Best  Formal Shoes & Accessories for Women | SoleXtacy](https://solextacy.com/collections/best-sellers): Shop SoleXtacy's best- formal heels, evening bags, and gloves — the most-loved styles for weddings, galas, church events, sorority conferences, and more.
+- [Best Sellers](https://solextacy.com/collections/best-sellers): Shop SoleXtacy's best- formal heels, evening bags, and gloves — the most-loved styles for weddings, galas, church events, sorority conferences, and more.
   Updated: 2026-06-27T19:25:24Z
   Total Products: 12
-- [Formal Gloves for Weddings, Galas & Special Occasions | SoleXtacy](https://solextacy.com/collections/gloves): Shop SoleXtacy's luxury formal gloves — pearl, satin, rhinestone, and sheer styles for weddings, galas, church events, sorority conferences, and Masonic occasions.
+- [Gloves](https://solextacy.com/collections/gloves): Shop SoleXtacy's luxury formal gloves — pearl, satin, rhinestone, and sheer styles for weddings, galas, church events, sorority conferences, and Masonic occasions.
   Updated: 2026-06-27T19:24:55Z
   Total Products: 9
-- [D'vine Collection — Elegant Church & Formal Occasion Shoes | SoleXtacy](https://solextacy.com/collections/divine-collection): Shop the SoleXtacy D'vine Collection — graceful formal heels and accessories for church services, Women's Day, First Lady events, and Masonic occasions.
+- [D'vine Collection](https://solextacy.com/collections/divine-collection): Shop the SoleXtacy D'vine Collection — graceful formal heels and accessories for church services, Women's Day, First Lady events, and Masonic occasions.
   Updated: 2026-06-27T19:25:56Z
   Total Products: 3
-- [Bela Collection — Bold Formal Shoes & Accessories for Women | SoleXtacy](https://solextacy.com/collections/bela-collection): Shop the SoleXtacy Bela Collection — bold, glamorous formal heels and accessories for galas, award ceremonies, sorority boules, and retirement celebrations.
+- [Bela Collection](https://solextacy.com/collections/bela-collection): Shop the SoleXtacy Bela Collection — bold, glamorous formal heels and accessories for galas, award ceremonies, sorority boules, and retirement celebrations.
   Updated: 2026-06-27T19:26:29Z
   Total Products: 24
 - [Spiked Tote (Cabata Inspired)](https://solextacy.com/collections/spiked-tote-cabata-inspired): Signature metallic spikes encircling the handles, a bold sneaker sole and Loubi red lining. It is crafted in grained white leather and features a detachable pouch that can be carried as a clutch. - Dimensions : H 29 x L 39 x W 16 cm
   Updated: 2026-06-14T08:10:30Z
   Total Products: 0
-- [Bride Bundle — Pearl Bridal Shoes, Clutch & Gloves | SoleXtacy](https://solextacy.com/collections/bride-bundle): Shop the SoleXtacy Bride Bundle — coordinated pearl heels, hand-beaded clutch, and silk gloves. The complete luxury bridal look in one curated collection.
+- [Bride Bundle](https://solextacy.com/collections/bride-bundle): Shop the SoleXtacy Bride Bundle — coordinated pearl heels, hand-beaded clutch, and silk gloves. The complete luxury bridal look in one curated collection.
   Updated: 2026-06-27T19:31:35Z
   Total Products: 6
-- [Church Elegance Collection — Formal Church Shoes & Accessories | SoleXtacy](https://solextacy.com/collections/church-elegance-collection): Shop the SoleXtacy Church Elegance Collection — refined heels, pearl clutch, and gloves for Women's Day, First Lady events, Sunday service, and church milestones.
+- [Church Elegance Collection](https://solextacy.com/collections/church-elegance-collection): Shop the SoleXtacy Church Elegance Collection — refined heels, pearl clutch, and gloves for Women's Day, First Lady events, Sunday service, and church milestones.
   Updated: 2026-06-27T19:32:22Z
   Total Products: 6
-- [First Lady Collection — Luxury Formal Shoes & Accessories | SoleXtacy](https://solextacy.com/collections/first-lady-collection): Shop the SoleXtacy First Lady Collection — statement heels, pearl sphere bag, and rhinestone gloves for First Lady Anniversary events and formal occasions.
+- [First Lady Collection](https://solextacy.com/collections/first-lady-collection): Shop the SoleXtacy First Lady Collection — statement heels, pearl sphere bag, and rhinestone gloves for First Lady Anniversary events and formal occasions.
   Updated: 2026-06-27T19:33:12Z
   Total Products: 5
-- [Sorority Conference Collection — Formal Sorority Shoes & Accessories | SoleXtacy](https://solextacy.com/collections/sorority-conference-collection): Shop the SoleXtacy Sorority Conference Collection — coordinated heels, bags, and gloves for boules, regional conferences, grand sessions, and sorority events.
+- [Sorority Conference Collection](https://solextacy.com/collections/sorority-conference-collection): Shop the SoleXtacy Sorority Conference Collection — coordinated heels, bags, and gloves for boules, regional conferences, grand sessions, and sorority events.
   Updated: 2026-06-27T19:33:58Z
   Total Products: 6
-- [Grand Session & Boule Collection — Formal Organizational Shoes | SoleXtacy](https://solextacy.com/collections/grand-session-boule-collection): Shop the SoleXtacy Grand Session & Boule Collection — luxury heels, bags, and gloves for national boules, grand sessions, and formal organizational convocations.
+- [Grand Session & Boule Collection](https://solextacy.com/collections/grand-session-boule-collection): Shop the SoleXtacy Grand Session & Boule Collection — luxury heels, bags, and gloves for national boules, grand sessions, and formal organizational convocations.
   Updated: 2026-06-27T19:37:51Z
   Total Products: 5
-- [Masonic Elegance Collection — Formal Masonic Shoes & Accessories | SoleXtacy](https://solextacy.com/collections/masonic-elegance-collection): Shop the SoleXtacy Masonic Elegance Collection — dignified heels, pearl clutch, and silk gloves for female Masonic events, installations, and formal occasions.
+- [Masonic Elegance Collection](https://solextacy.com/collections/masonic-elegance-collection): Shop the SoleXtacy Masonic Elegance Collection — dignified heels, pearl clutch, and silk gloves for female Masonic events, installations, and formal occasions.
   Updated: 2026-06-27T19:38:49Z
   Total Products: 6
-- [Holiday Gala Collection — Glamorous Formal Shoes & Accessories | SoleXtacy](https://solextacy.com/collections/holiday-gala-collection): Shop the SoleXtacy Holiday Gala Collection — spike heels, velour clutch, and rhinestone gloves for charity galas, award ceremonies, and holiday celebrations.
+- [Holiday Gala Collection](https://solextacy.com/collections/holiday-gala-collection): Shop the SoleXtacy Holiday Gala Collection — spike heels, velour clutch, and rhinestone gloves for charity galas, award ceremonies, and holiday celebrations.
   Updated: 2026-06-27T19:39:36Z
   Total Products: 5
-- [White Party Collection — White Shoes, Clutch & Gloves | SoleXtacy](https://solextacy.com/collections/white-party-collection): Shop the SoleXtacy White Party Collection — coordinated white pearl heels, hand-beaded clutch, and silk gloves for the ultimate all-white formal look.
+- [White Party Collection](https://solextacy.com/collections/white-party-collection): Shop the SoleXtacy White Party Collection — coordinated white pearl heels, hand-beaded clutch, and silk gloves for the ultimate all-white formal look.
   Updated: 2026-06-27T19:40:25Z
   Total Products: 6
 
