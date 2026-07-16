@@ -8,12 +8,12 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-29T15:35:06Z
 - Contact Email: sav.lecomptoirdesfragrances@gmail.com
-- Updated At: 2026-07-09T00:00:39.611Z
+- Updated At: 2026-07-16T00:00:41.590Z
 
 ## Products
 
 - [Bois Précieux - Extrait de Parfum Mixte - Inspiré de Bois d’Argent](https://www.lecomptoirdesfragrances.com/products/parfum-boisprecieux): Extrait de parfum dupe fabriqué en France, inspiré Bois d’Argent. Création noble et profonde Comptoir des Fragrances. Création inspiration parfum grande marque.
-  Updated: 2026-07-08T12:52:26Z
+  Updated: 2026-07-14T23:18:12Z
   Vendor: Comptoir Des Fragrances
   Product Type: Inspiration Bois d'Argent
   Availability: Available
@@ -27,7 +27,7 @@
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/kirke_fade444f-1a12-4cfc-9a1e-0af3f97a47c6.jpg?v=1781136015
   Price: 34,90 € EUR
 - [Rubis Parfum Mixte - extrait de parfum - inspiré de Baccarat Rouge](https://www.lecomptoirdesfragrances.com/products/parfum-rubis): Découvrez Rubis, parfum mixte dupe inspiré de Baccarat Rouge, extrait fabriqué en France. Un sillage unique et intense pour sublimer chaque moment.
-  Updated: 2026-07-08T12:52:26Z
+  Updated: 2026-07-15T19:04:17Z
   Vendor: Comptoir Des Fragrances
   Product Type: Inspiration Baccarat Rouge
   Availability: Available
@@ -41,7 +41,7 @@
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/magique_5.jpg?v=1781134020
   Price: 34,90 € EUR
 - [Oud Nomade - Extrait de Parfum Homme - Inspiré de Ombre Nomade](https://www.lecomptoirdesfragrances.com/products/parfum-oudnomade): Parfum Oude Nomade, parfum dupe masculin, extrait de parfum fabriqué en France. Sillage intense et raffiné, inspiré Ombre Nomade, parfait pour les occasions spéciales.
-  Updated: 2026-06-25T10:30:18Z
+  Updated: 2026-07-14T19:27:41Z
   Vendor: Comptoir Des Fragrances
   Product Type: Inspiration Ombre Nomade
   Availability: Available
@@ -163,13 +163,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/recharge-50ml-crazy-blue-1196634751.png?v=1761161156
   Price: 29,90 € EUR
-- [Recharge Sweety Rose 50ml - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/products/recharge-sweety-rose): Recharge 50ml Sweety Rose, parfum dupe floral et addictif, extrait fabriqué en France, pour un sillage délicat et mixte.
-  Updated: 2026-06-06T17:50:59Z
-  Vendor: Le Comptoir des Fragrances
-  Product Type: Inspiration Rose Vanille Mancera
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/recharge-50ml-sweety-rose-1196634750.png?v=1761161154
-  Price: 29,90 € EUR
 - [Recharge Madawoui 50ml - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/products/recharge-madawoui): Recharge 50ml Madawoui, parfum dupe aux notes chaleureuses, extrait fabriqué en France, idéal pour un parfum enveloppant.
   Updated: 2026-06-06T17:50:59Z
   Vendor: Le Comptoir des Fragrances
@@ -184,12 +177,26 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/recharge-50ml-acqua-pura-1196634748.png?v=1761161048
   Price: 29,90 € EUR
+- [Recharge Babylone 50ml - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/products/recharge-babylone): Recharge 50ml parfum dupe Babylone, extrait fabriqué en France, inspiré de grandes marques, sillage raffiné et élégant.
+  Updated: 2026-07-09T18:10:51Z
+  Vendor: Le Comptoir des Fragrances
+  Product Type: Inspiration Jardin Exclusif Mancera
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/recharge-50ml-babylone-1196677751.png?v=1761162118
+  Price: 29,90 € EUR
 - [Recharge Bois Précieux 50ml - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/products/recharge-bois-precieux): Recharge 50ml Bois Précieux, parfum dupe aux notes boisées, extrait fabriqué en France, pour un sillage élégant et intense.
   Updated: 2026-06-06T17:50:59Z
   Vendor: Le Comptoir des Fragrances
   Product Type: Inspiration Bois d'Argent Dior
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/recharge-50ml-bois-precieux-1196634747.png?v=1761161045
+  Price: 29,90 € EUR
+- [Recharge Suprême 50ml - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/products/recharge-supreme): Recharge 50ml Suprême, extrait de parfum dupe fabriqué en France, une fragrance sophistiquée et raffinée pour toutes occasions.
+  Updated: 2026-07-09T18:10:47Z
+  Vendor: Le Comptoir des Fragrances
+  Product Type: Inspiration Supreme Bouquet YSL
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/recharge-50ml-supreme-1196634746.png?v=1761161042
   Price: 29,90 € EUR
 - [Recharge Oud Nomade 50ml - Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/products/recharge-oud-nomade): Recharge 50ml Oud Nomade, parfum dupe fabriqué en France, aux notes boisées et orientales pour un sillage profond et chaleureux.
   Updated: 2026-06-06T17:50:59Z
@@ -283,7 +290,7 @@
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/lumableu_dce8c8f5-c923-419c-88ed-5adefd90651f.jpg?v=1781427712
   Price: 34,90 € EUR
 - [Vanille Poudrée - Extrait de Parfum Mixte - Le comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/products/vanille-poudree): Découvrez Vanille Poudrée, un extrait de parfum envoûtant mêlant poudre de noix de coco, héliotrope et vanille de Madagascar. Sillage onctueux et durable (50ml).
-  Updated: 2026-07-08T12:52:21Z
+  Updated: 2026-07-15T19:03:36Z
   Vendor: Comptoir Des Fragrances
   Product Type: Vanille powder matière première
   Availability: Available
@@ -300,17 +307,17 @@
 ## Collections
 
 - [Orderly Emails - Recommended Products](https://www.lecomptoirdesfragrances.com/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-07-08T12:53:12Z
-  Total Products: 39
+  Updated: 2026-07-15T12:26:13Z
+  Total Products: 40
 - [MEILLEURES VENTES](https://www.lecomptoirdesfragrances.com/collections/meilleures-ventes): Découvrez les meilleures ventes Le Comptoir des Fragrances, parfums dupe extraits fabriqués en France, inspirés par les parfums des grandes marques.
-  Updated: 2026-07-02T11:53:09Z
-  Total Products: 8
+  Updated: 2026-07-15T12:26:13Z
+  Total Products: 11
 - [PARFUM MIXTE](https://www.lecomptoirdesfragrances.com/collections/parfums-mixte): Découvrez chez Comptoir des Fragrances des parfums mixtes dupe, extrait de parfum fabriqué en France, inspirés de grandes marques réputées.
-  Updated: 2026-07-02T11:53:09Z
+  Updated: 2026-07-15T12:26:13Z
   Total Products: 14
 - [PARFUM HOMME](https://www.lecomptoirdesfragrances.com/collections/parfums-homme): Le Comptoir des Fragrances propose des parfums homme dupe, extraits de parfum 100% fabriqués en France, inspirés des plus grandes marques prestigieuses
-  Updated: 2026-06-25T11:50:52Z
-  Total Products: 6
+  Updated: 2026-07-15T12:26:13Z
+  Total Products: 9
 - [PARFUM FEMME](https://www.lecomptoirdesfragrances.com/collections/parfums-femme): Le Comptoir des Fragrances propose des parfums femme dupe, extraits de parfum 100% fabriqués en France, inspirés des plus grandes marques prestigieuses.
   Updated: 2026-06-06T23:29:55Z
   Total Products: 5
@@ -324,7 +331,7 @@
   Updated: 2026-06-04T20:45:04Z
   Total Products: 4
 - [SÉLECTION OCTOBRE](https://www.lecomptoirdesfragrances.com/collections/selection-octobre): Le Comptoir des Fragrances vous présente sa Sélection d’Octobre, des parfums dupes, extraits fabriqués en France, parfaits pour une saison pleine d’élégance.
-  Updated: 2026-07-02T11:53:09Z
+  Updated: 2026-07-15T12:26:13Z
   Total Products: 3
 
 ## Blogs
