@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-06-28T10:57:43Z
 - Contact Email: jannis.terborg@gmail.com
-- Updated At: 2026-07-07T00:00:24.393Z
+- Updated At: 2026-07-16T00:00:32.008Z
 
 ## Products
 
@@ -171,6 +171,18 @@
     Author: GateAway
   - [A Beginner's Guide to DIY Home Renovations](https://gateaway-9338.myshopify.com/blogs/news/a-beginners-guide-to-diy-home-renovations): A Beginner's Guide to DIY Home Renovations
     Updated: 2026-07-05T00:28:39Z
+    Author: GateAway
+  - [Overcoming Common Challenges in Interior Design](https://gateaway-9338.myshopify.com/blogs/news/overcoming-common-challenges-in-interior-design): Overcoming Common Challenges in Interior Design
+    Updated: 2026-07-07T00:47:51Z
+    Author: GateAway
+  - [Everything You Need to Know About Sustainable Materials](https://gateaway-9338.myshopify.com/blogs/news/everything-you-need-to-know-about-sustainable-materials): Everything You Need to Know About Sustainable Materials
+    Updated: 2026-07-10T00:31:52Z
+    Author: GateAway
+  - [How Smart Tech Can Transform Your Home](https://gateaway-9338.myshopify.com/blogs/news/how-smart-tech-can-transform-your-home): How Smart Tech Can Transform Your Home
+    Updated: 2026-07-12T00:30:01Z
+    Author: GateAway
+  - [Insider Secrets to Timeless Decorating Styles](https://gateaway-9338.myshopify.com/blogs/news/insider-secrets-to-timeless-decorating-styles): Insider Secrets to Timeless Decorating Styles
+    Updated: 2026-07-14T00:50:30Z
     Author: GateAway
 
 ## Store Pages
