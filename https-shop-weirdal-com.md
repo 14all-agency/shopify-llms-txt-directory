@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-16T15:39:04Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-08T00:00:36.355Z
+- Updated At: 2026-07-16T00:00:37.492Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Availability: Available
     Price: $30.00 USD
 - [In 3-D Ladies Tee](https://shop.weirdal.com/products/in-3-d-ladies-tee): Women's t-shirt in blue featuring Weird Al Yankovic "In 3-D" artwork printed on the front. As seen on Stranger Things.
-  Updated: 2026-06-25T19:29:07Z
+  Updated: 2026-07-09T16:46:00Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -71,7 +71,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Dare to Be Stupid Logo Tee](https://shop.weirdal.com/products/dare-to-be-stupid-logo-tee): 100% cotton t-Shirt in black featuring Weird Al Yankovic "Dare To Be Stupid" artwork printed on the front and back.
-  Updated: 2026-06-28T04:19:19Z
+  Updated: 2026-07-14T23:02:38Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Big Roy's Plumbing Tee](https://shop.weirdal.com/products/big-roys-plumbing-t-shirt): 100% cotton t-shirt in natural with front and sleeve print
-  Updated: 2026-07-01T22:51:47Z
+  Updated: 2026-07-14T23:02:29Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -119,7 +119,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Mad Magazine Tee](https://shop.weirdal.com/products/mad-magazine-tee): Licensed and Official. Don't waste your money on a knockoff, buy the 100% Authentic, Weird Al Magazine T-Shirt! 100% cotton t-shirt in white
-  Updated: 2026-07-07T23:21:08Z
+  Updated: 2026-07-09T16:23:47Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -143,7 +143,7 @@
     Availability: Available
     Price: $35.00 USD
 - ["Weird Al" Tumbler](https://shop.weirdal.com/products/weird-al-tumbler): Insulated stainless steel tumbler
-  Updated: 2026-06-08T14:20:26Z
+  Updated: 2026-07-11T00:51:07Z
   Vendor: "Weird Al" Yankovic
   Product Type: Drinkware
   Availability: Available
@@ -164,21 +164,21 @@
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Shoelace_Bundle.webp?v=1776354257
   Price: $20.00 USD
 - [Dare to Be Stupid Epoxy Pin](https://shop.weirdal.com/products/dare-to-be-stupid-epoxy-pin): 1.25" wide epoxy pin featuring Dare to Be Stupid album art
-  Updated: 2026-07-05T20:00:17Z
+  Updated: 2026-07-11T05:30:58Z
   Vendor: "Weird Al" Yankovic
   Product Type: Pin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Dare_to_Be_Pin.png?v=1776449075
   Price: $10.00 USD
 - [Groovy Bucket Hat](https://shop.weirdal.com/products/groovy-bucket-hat): 100% cotton bucket hat in black with "Weird Al" Yankovic logo embroidery
-  Updated: 2026-06-30T18:35:09Z
+  Updated: 2026-07-11T00:51:09Z
   Vendor: "Weird Al" Yankovic
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Groovy_Bucket_Hat.webp?v=1776354258
   Price: $35.00 USD
 - [Accordion Tee](https://shop.weirdal.com/products/accordion-t-shirt): 100% cotton t-shirt in black featuring "Weird Al" Yankovic Accordion artwork printed on the front.
-  Updated: 2026-07-03T17:27:47Z
+  Updated: 2026-07-09T16:24:00Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -202,7 +202,7 @@
     Availability: Available
     Price: $35.00 USD
 - ["Weird Al" Polka Tee](https://shop.weirdal.com/products/weird-al-polka-tee): 100% cotton t-shirt in jade featuring "Weird Al" Polka artwork printed on the front.
-  Updated: 2026-07-07T08:10:58Z
+  Updated: 2026-07-14T23:02:38Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -226,7 +226,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Jerry's Bait Shop Tee](https://shop.weirdal.com/products/jerrys-bait-shop-tee): You know the place... 100% cotton t-shirt in light blue featuring Jerry's Bait Shop artwork printed on the front
-  Updated: 2026-06-30T20:39:27Z
+  Updated: 2026-07-14T20:34:27Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -250,7 +250,7 @@
     Availability: Available
     Price: $35.00 USD
 - [White & Nerdy Ladies Tee](https://shop.weirdal.com/products/white-nerdy-ladies-tee): Women's t-shirt in black featuring "White & Nerdy" printed on the front.
-  Updated: 2026-06-30T19:48:59Z
+  Updated: 2026-07-15T22:35:06Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -271,7 +271,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [White & Nerdy Tee](https://shop.weirdal.com/products/white-nerdy-tee): 100% cotton t-shirt in black featuring "White & Nerdy" printed on the front.
-  Updated: 2026-06-29T13:32:07Z
+  Updated: 2026-07-14T01:27:08Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -280,7 +280,7 @@
     Availability: Available
     Price: $35.00 USD
   - [M](https://shop.weirdal.com/products/white-nerdy-tee?variant=53685026554069)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [L](https://shop.weirdal.com/products/white-nerdy-tee?variant=53685026586837)
     Availability: Not Available
@@ -295,7 +295,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Modern Accordion Hoodie](https://shop.weirdal.com/products/modern-accordion-hoodie): 50% cotton / 50% polyester pre-shrunk fleece hoodie in black featuring a front pouch pocket
-  Updated: 2026-07-07T22:19:16Z
+  Updated: 2026-07-15T05:17:34Z
   Vendor: "Weird Al" Yankovic
   Product Type: Hoodie
   Availability: Available
@@ -319,7 +319,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Rocky Road Tee](https://shop.weirdal.com/products/rocky-road-tee): 100% ringspun cotton t-shirt in black featuring I Love Rocky Road artwork
-  Updated: 2026-07-06T02:36:17Z
+  Updated: 2026-07-14T03:05:18Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -343,7 +343,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Dare to Be Stupid Tee](https://shop.weirdal.com/products/dare-to-be-stupid-tee): 100% ringspun cotton t-shirt in black featuring Dare to Be Stupid artwork
-  Updated: 2026-07-07T22:33:00Z
+  Updated: 2026-07-15T23:15:52Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -367,7 +367,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Accordion on Fire Tee](https://shop.weirdal.com/products/accordion-on-fire-tee): 100% ringspun cotton t-shirt in black featuring "Weird Al" and a flaming accordion
-  Updated: 2026-07-07T02:29:47Z
+  Updated: 2026-07-15T23:15:46Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -391,7 +391,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Bigger & Weirder Tee](https://shop.weirdal.com/products/bigger-weirder-tee): 100% ringspun cotton t-shirt in black featuring Bigger & Weirder design
-  Updated: 2026-07-05T23:15:09Z
+  Updated: 2026-07-15T23:46:09Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -415,13 +415,13 @@
     Availability: Available
     Price: $40.00 USD
 - [The Extremely Up Close & Personal Tee](https://shop.weirdal.com/products/the-extremely-up-close-personal-tee): 100% ringspun cotton t-shirt in white featuring an extremely up close & personal photo of Al
-  Updated: 2026-07-02T15:58:52Z
+  Updated: 2026-07-15T22:07:06Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Extremely_Up_Close_Tee.webp?v=1776454138
   - [S](https://shop.weirdal.com/products/the-extremely-up-close-personal-tee?variant=53685061517525)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [M](https://shop.weirdal.com/products/the-extremely-up-close-personal-tee?variant=53685061550293)
     Availability: Available
@@ -463,7 +463,7 @@
     Availability: Available
     Price: $50.00 USD
 - [In 3-D Tee](https://shop.weirdal.com/products/in-3-d-tee): 100% cotton unisex t-shirt in blue featuring Weird Al Yankovic "In 3-D" artwork printed on the front. As seen on Stranger Things.
-  Updated: 2026-07-03T05:16:49Z
+  Updated: 2026-07-15T23:46:04Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -475,7 +475,7 @@
     Availability: Available
     Price: $35.00 USD
   - [L](https://shop.weirdal.com/products/in-3-d-tee?variant=53812708442325)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XL](https://shop.weirdal.com/products/in-3-d-tee?variant=53812708475093)
     Availability: Not Available
@@ -494,7 +494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Logo_Hat.png?v=1778790546
   Price: $30.00 USD
 - [Dare to Be Stupid Logo Hat](https://shop.weirdal.com/products/dare-to-be-stupid-logo-hat): 100% cotton twill hat in black with embroidered design
-  Updated: 2026-06-14T17:21:38Z
+  Updated: 2026-07-09T20:50:48Z
   Vendor: "Weird Al" Yankovic
   Product Type: Hat
   Availability: Available
@@ -511,35 +511,35 @@
 ## Collections
 
 - [Home page](https://shop.weirdal.com/collections/frontpage)
-  Updated: 2026-07-07T11:27:07Z
+  Updated: 2026-07-15T11:22:07Z
   Total Products: 30
 - [Apparel](https://shop.weirdal.com/collections/apparel)
-  Updated: 2026-07-07T11:27:07Z
+  Updated: 2026-07-15T11:22:07Z
   Total Products: 30
 - [Accessories](https://shop.weirdal.com/collections/accessories)
-  Updated: 2026-07-06T11:23:24Z
+  Updated: 2026-07-11T11:26:19Z
   Total Products: 9
 - [All](https://shop.weirdal.com/collections/all)
-  Updated: 2026-07-07T11:27:07Z
-  Total Products: 39
+  Updated: 2026-07-15T20:23:21Z
+  Total Products: 42
 - [The Back Room](https://shop.weirdal.com/collections/the-back-room)
-  Updated: 2026-07-03T11:25:40Z
+  Updated: 2026-07-15T11:22:07Z
   Total Products: 15
 - [The Dare to Be Stupid Collection](https://shop.weirdal.com/collections/the-dare-to-be-stupid-collection)
-  Updated: 2026-07-07T11:27:07Z
+  Updated: 2026-07-15T11:22:07Z
   Total Products: 4
 - [The Accordion Collection](https://shop.weirdal.com/collections/the-accordion-collection)
-  Updated: 2026-07-07T11:27:07Z
+  Updated: 2026-07-13T11:19:20Z
   Total Products: 5
 - [The Ladies Collection](https://shop.weirdal.com/collections/the-ladies-collection)
-  Updated: 2026-07-01T11:26:10Z
+  Updated: 2026-07-10T11:32:45Z
   Total Products: 4
 - [The Bigger & Weirder Collection](https://shop.weirdal.com/collections/the-bigger-weirder-collection)
-  Updated: 2026-07-06T11:23:24Z
+  Updated: 2026-07-14T11:22:43Z
   Total Products: 13
 - [Featured](https://shop.weirdal.com/collections/featured)
-  Updated: 2026-07-07T11:27:07Z
-  Total Products: 24
+  Updated: 2026-07-15T20:23:21Z
+  Total Products: 27
 
 ## Store Pages
 
