@@ -6,73 +6,10 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-20T07:27:11Z
 - Contact Email: garimas.store@gmail.com
-- Updated At: 2026-07-08T00:00:39.848Z
+- Updated At: 2026-07-16T00:00:40.309Z
 
 ## Products
 
-- [Purple Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/purple-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:55:29Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250622_203653_294a3488-202a-4da0-9252-33d80d9efef6.jpg?v=1780672349
-  Price: ₹199.00 INR
-- [Baby Pink Pearl Beaded Unicorn Necklace and Bracelet Set for Girls](https://garimas.com/products/baby-pink-pearl-beaded-unicorn-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:55:30Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_47c06109-f453-4eeb-9d99-4ebb8ed88a56.png?v=1780672358
-  Price: ₹199.00 INR
-- [Pink Pearl Beaded Unicorn Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-pearl-beaded-unicorn-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:55:30Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250622_201454_499c0417-9729-48d2-a49e-951c5f9f66ea.png?v=1780672376
-  Price: ₹199.00 INR
-- [Green and Pink Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/green-and-pink-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:55:30Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_3a88f3d3-014c-421f-b6a8-b9d882eb48f2.png?v=1780672385
-  Price: ₹199.00 INR
-- [Purple and Pink Glass Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/purple-and-pink-pearl-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:55:30Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250617_175958.jpg?v=1780672404
-  Price: ₹199.00 INR
-- [Pink Pearl Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-pearl-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:55:30Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250617_180146.jpg?v=1780672479
-  Price: ₹199.00 INR
-- [Pink Glass Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-glass-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-06T14:10:39Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_6926e901-49ec-46ff-9378-f6b8f7ed6fb5.png?v=1780672493
-  Price: ₹199.00 INR
-- [Girls Pink and Purple Necklace and Bracelet Combo](https://garimas.com/products/girls-pink-and-purple-necklace-and-bracelet-combo)
-  Updated: 2026-06-06T14:10:59Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_d0063bc1-e17e-45a8-a2bc-a3b82c283788.jpg?v=1780672557
-  Price: ₹199.00 INR
-- [Girls Multicolor beaded Necklace with Bracelet](https://garimas.com/products/girls-multicolor-beaded-necklace-with-bracelet)
-  Updated: 2026-06-06T14:11:11Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_7055339f-7cb0-4e55-81c9-18b36d3fd7cc.jpg?v=1780672579
-  Price: ₹199.00 INR
 - [Pendant Set Smoky Yellow and CZ studded with Earrings and silver Plated chain](https://garimas.com/products/pendant-set-smoky-yellow-and-cz-studded-with-earrings-and-silver-plated-chain): Elevate your style with this exquisite Pendant Set featuring a stunning Smoky Yellow centerpiece adorned with sparkling CZ stones. The set includes matching earrings and a premium silver-plated chain, creating a harmonious look that transitions effortlessly from day to evening wear. This versatile jewelry set adds a touch of elegance to any outfit.
   Updated: 2026-06-05T15:55:31Z
   Vendor: Garimas Lifestyle
@@ -214,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_3eb90dbe-178f-41d7-9332-c07ed43b0e7c.jpg?v=1780673215
   Price: ₹348.00 INR
 - [Purple Stone with American Diamond Drop Earring](https://garimas.com/products/purple-stone-with-american-diamond-drop-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-06T14:06:44Z
+  Updated: 2026-07-15T10:49:17Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
@@ -290,34 +227,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_694cf01b-9e85-452d-bf00-2f9e90d74c0c.png?v=1780673633
   Price: ₹0.00 INR
-- [Purple and Pink Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/purple-and-pink-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-06T14:16:22Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_1.png?v=1780673798
-  Price: ₹199.00 INR
-- [Pink and Blue Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-and-blue-beads-necklace-and-bracelet-set-for-girls): This Pink and Blue Beads Necklace and Bracelet Set offers a charming accessory duo designed especially for young girls. Crafted with colorful beads in soft pink and blue hues, the set adds a playful yet stylish touch to any outfit. Lightweight and comfortable, it is perfect for everyday wear or special occasions, encouraging creativity and self-expression through fun jewelry. Durable and easy to wear, this set makes an ideal gift that combines fashion with child-friendly design.
-  Updated: 2026-06-06T14:09:59Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject.png?v=1755690183
-  Price: ₹199.00 INR
-- [Pink and Blue Glass Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-and-blue-glass-beads-necklace-and-bracelet-set-for-girls-copy): This Pink and Blue Beads Necklace and Bracelet Set offers a charming accessory duo designed especially for young girls. Crafted with colorful beads in soft pink and blue hues, the set adds a playful yet stylish touch to any outfit. Lightweight and comfortable, it is perfect for everyday wear or special occasions, encouraging creativity and self-expression through fun jewelry. Durable and easy to wear, this set makes an ideal gift that combines fashion with child-friendly design.
-  Updated: 2026-06-06T14:16:28Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_2.png?v=1780673805
-  Price: ₹199.00 INR
-- [White and Pink  Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/whiteand-pink-beads-necklace-and-bracelet-set-for-girl): This elegant white and pink beads necklace and bracelet set is designed specifically for girls, combining delicate colors that complement any outfit. Crafted with attention to detail, the lightweight beads ensure comfortable wear throughout the day. Perfect for adding a subtle touch of charm to casual or festive occasions, this set offers both style and versatility in one coordinated accessory pair.
-  Updated: 2026-06-06T14:16:34Z
-  Vendor: GARIMAS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_3_fe230b49-5401-4bc8-987c-40619d377db6.png?v=1780673813
-  Price: ₹199.00 INR
 - [Multicolor Necklace and Bracelet Set for Baby Girls](https://garimas.com/products/multicolor-necklace-and-bracelet-set-for-baby-girls): Bring vibrant fun to your baby girl’s wardrobe with this multicolor necklace and bracelet set for baby girls.
   Updated: 2026-06-24T01:05:37Z
   Vendor: GARIMAS
@@ -367,6 +276,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/IMG_20260615_195649.png?v=1781536669
   Price: ₹299.00 INR
+- [Girls Earring With Premium Glossy Beads Multicolour](https://garimas.com/products/girls-earring-with-premium-glossy-beads-multicolour): Brighten up your little one's jewelry collection with our Girls' Multicolor Premium Glossy Bead Earrings. Crafted with high-quality, high-shine beads, these earrings capture the light beautifully to create a playful and vibrant look. Premium Quality: Made with ultra-glossy, durable beads that resist fading. Vibrant Multicolored Design: A fun mix of colors that matches easily with any outfit. Lightweight & Comfortable: Designed specifically for girls to ensure all-day comfort without pulling. Perfect Gift Idea: Ideal for birthdays, dress-up play, school events, or holiday gifts.
+  Updated: 2026-07-09T20:03:33Z
+  Vendor: Garimas
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Gemini_Generated_Image_hfj7f7hfj7f7hfj7_b6825dbb-ef3a-4001-b25d-d3484a7678c1.png?v=1783578171
+  Price: ₹199.00 INR
 
 ## Collections
 
@@ -374,22 +290,22 @@
   Updated: 2026-06-05T15:55:29Z
   Total Products: 0
 - [Kids Fashion Jewellery](https://garimas.com/collections/kids-fashion-accessories): Discover beautiful kids fashion jewelry that combines fun and style. Perfect accessories to brighten up any child's outfit.
-  Updated: 2026-06-06T14:06:41Z
-  Total Products: 19
+  Updated: 2026-07-15T11:27:04Z
+  Total Products: 4
 - [Necklace Sets Garimas](https://garimas.com/collections/necklace-sets): Discover beautiful fashion necklace sets for . Stylish designs perfect for every occasion. Shop now for the best deals on necklace sets.
-  Updated: 2026-06-16T09:08:04Z
-  Total Products: 18
+  Updated: 2026-07-15T11:27:02Z
+  Total Products: 14
 - [Pendants](https://garimas.com/collections/pendants): Discover our exquisite pendant collection featuring unique designs perfect for any occasion and style.
   Updated: 2026-06-08T06:44:28Z
   Total Products: 5
 - [Earrings](https://garimas.com/collections/earrings): Discover stunning gold stud earrings that combine timeless style with comfort. Perfect for daily wear or special events.
-  Updated: 2026-06-06T14:06:39Z
-  Total Products: 27
+  Updated: 2026-07-15T11:22:13Z
+  Total Products: 21
 - [Best Seller](https://garimas.com/collections/best-seller)
-  Updated: 2026-06-16T09:08:04Z
-  Total Products: 31
+  Updated: 2026-07-15T11:27:04Z
+  Total Products: 17
 - [New Arrivals](https://garimas.com/collections/new-arrivals)
-  Updated: 2026-06-16T09:08:04Z
+  Updated: 2026-07-15T11:20:29Z
   Total Products: 19
 - [Bracelates](https://garimas.com/collections/bracelates): Discover our stunning beaded bracelets collection crafted for style and versatility. Perfect accessories to elevate any outfit effortlessly.
   Updated: 2026-06-06T14:06:49Z
@@ -401,8 +317,8 @@
   Updated: 2026-06-05T15:55:30Z
   Total Products: 0
 - [Amazon](https://garimas.com/collections/amazon)
-  Updated: 2026-06-05T15:55:30Z
-  Total Products: 7
+  Updated: 2026-07-15T11:19:53Z
+  Total Products: 6
 
 ## Blogs
 
