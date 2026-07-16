@@ -6,14 +6,14 @@
 - Timezone: America/New_York
 - Created At: 2023-08-30T23:56:20Z
 - Contact Email: hello@legacygoods.co
-- Updated At: 2026-07-08T00:00:27.632Z
+- Updated At: 2026-07-16T00:00:33.994Z
 
 Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Vallières-Lagacé, a self-taught leathercrafter and security engineer. Every product is 100% handmade in Florida, USA — no mass production. Leather comes exclusively from two of the last remaining vegetable-tanning tanneries in the United States, Wickett & Craig and Horween, using natural bark-tannin methods that take months rather than the chrome-tanning process used by most modern leather goods. Hardware is selected for durability over cost. The product range includes belts, wallets, accessories, pet supplies (including dog collars), personalized/custom leather goods, and custom bulk orders for corporate gifts. The brand name comes from the founder's surname, Lagacé, which English speakers often pronounce as "Legacy" — a deliberate nod to the brand's focus on durable, heirloom-quality pieces meant to last.
 
 ## Products
 
 - [Dog Leash](https://legacygoods.co/products/dog-leash): Our Legacy Goods dog leash is made from 100% top grain vegetable tanned leather. Perfect for large dogs, it features quality hardware and double rivets.
-  Updated: 2026-07-03T22:04:12Z
+  Updated: 2026-07-14T04:46:26Z
   Vendor: Legacy Goods Co.
   Product Type: Leashes
   Availability: Available
@@ -27,7 +27,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/DSC04239.jpg?v=1694913117
     Price: $76.00 USD
 - [Dog Collar (3/4-inch)](https://legacygoods.co/products/dog-collar-3-4-inch-black): Get the best for your furry friend with our handmade, chemical-free, vegetable tanned leather dog collar. Custom-sized for a perfect fit. Available in 3/4-inch.
-  Updated: 2026-07-03T22:04:12Z
+  Updated: 2026-07-14T04:46:31Z
   Vendor: Legacy Goods Co.
   Product Type: Dog Collars
   Availability: Available
@@ -49,7 +49,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/handmade-leather-dog-collar-3-4-inch-chestnut-1.jpg?v=1694911919
     Price: $48.00 USD
 - [M1 Wallet](https://legacygoods.co/products/m1-wallet): Shop our front-pocket minimalist wallet made from vegetable tanned leather. Holds 6 cards, hand-stitched with Japanese thread. Available in black or buck brown.
-  Updated: 2026-07-03T22:04:12Z
+  Updated: 2026-07-14T04:46:31Z
   Vendor: Legacy Goods Co.
   Product Type: Wallets
   Availability: Available
@@ -63,7 +63,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/m1-wallet-handcrafted-leather-good-buck-brown-1.jpg?v=1694976690
     Price: $58.00 USD
 - [H1 Wallet](https://legacygoods.co/products/h1-wallet): Our horizontal minimalist wallet. Made from vegetable tanned leather, it has a capacity of 6 cards and is hand-stitched with Japanese bonded nylon thread.
-  Updated: 2026-07-03T22:04:12Z
+  Updated: 2026-07-14T04:46:31Z
   Vendor: Legacy Goods Co.
   Product Type: Wallets
   Availability: Available
@@ -77,14 +77,14 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/h1-wallet-handcrafted-leather-good-black.jpg?v=1694976379
     Price: $58.00 USD
 - [FN1 Notebook Cover](https://legacygoods.co/products/fn1-field-notes-cover): Get the perfect companion for your Field Notes notebooks - a smooth vegetable tanned leather cover with pen loop. Free Field Notes notebook is included!
-  Updated: 2026-07-03T22:04:12Z
+  Updated: 2026-07-14T04:46:31Z
   Vendor: Legacy Goods Co.
   Product Type: Field Notes Cover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/field-notes-leather-cover-with-pen.jpg?v=1697157706
   Price: $61.00 USD
 - [Dog Collar (1-inch)](https://legacygoods.co/products/dog-collar-1-inch-black): Get the best collar for your furry friend! Handmade from premium vegetable tanned leather, this 1-inch wide dog collar is perfect for medium to large dogs.
-  Updated: 2026-07-03T22:04:17Z
+  Updated: 2026-07-14T04:46:36Z
   Vendor: Legacy Goods Co.
   Product Type: Dog Collars
   Availability: Available
@@ -122,7 +122,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/handmade-leather-dog-collar-1-inch-black-1.jpg?v=1694780771
     Price: $48.00 USD
 - [Gift Cards](https://legacygoods.co/products/gift-cards): Give the gift of choice with Legacy Goods' gift cards. Perfect for any occasion, our high-quality products are just a click away. Make someone's day special!
-  Updated: 2026-07-03T22:04:17Z
+  Updated: 2026-07-14T04:46:36Z
   Vendor: Legacy Goods Co.
   Product Type: Gift Card
   Availability: Available
@@ -144,21 +144,21 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/gift-card-150.jpg?v=1694968844
     Price: $150.00 USD
 - [Leather Tray - Chocolate and Buck Brown](https://legacygoods.co/products/leather-tray-medium): Discover our Premium Vegetable Tanned Leather Tray. Compact yet spacious (15cm x 15cm), in a luxurious chocolate colour. Perfect for home or office with style!
-  Updated: 2026-07-03T22:04:17Z
+  Updated: 2026-07-14T04:46:37Z
   Vendor: Legacy Goods Co.
   Product Type: Trays
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/leather-tray-vegetable-tanned-leather-chocolat-color-wickett-craig-01.jpg?v=1699819681
   Price: $81.00 USD
 - [Camera Strap with Peak Design Anchor Links](https://legacygoods.co/products/camera-strap-with-peak-design-anchor-links): Discover our Camera Strap, a stylish, durable strap made from eco-friendly leather. Perfect for all photographers, with a secure connectivity & vintage charm.
-  Updated: 2026-07-03T22:04:22Z
+  Updated: 2026-07-14T04:46:37Z
   Vendor: Legacy Goods Co.
   Product Type: Camera Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/Camera-Strap-with-Peak-Design-Anchor-Links.jpg?v=1701038256
   Price: $109.00 USD
 - [Dog Poop Bag Holder](https://legacygoods.co/products/dog-poop-bag-holder): Shop our Premium Leather Dog Poop Bag Holder, crafted from eco-friendly leather. Stylish, durable and attaches to leashes. Available in black and chestnut.
-  Updated: 2026-07-03T22:04:22Z
+  Updated: 2026-07-14T04:46:37Z
   Vendor: Legacy Goods Co.
   Product Type: Dog Accessories
   Availability: Available
@@ -194,7 +194,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/dog-walker-bundle-premium-leather-poop-bag-holder.jpg?v=1701039779
     Price: $104.00 USD
 - [C2 Leather Wallet - Sleek, Minimalist & Durable](https://legacygoods.co/products/c2-wallet): Discover the C2 Wallet, a compact, vegetable-tanned leather wallet. Minimalist design, 6-card capacity, and eco-friendly. Explore Legacy Goods today!
-  Updated: 2026-07-03T22:04:22Z
+  Updated: 2026-07-14T04:46:41Z
   Vendor: Legacy Goods Co.
   Product Type: Wallets
   Availability: Available
@@ -208,7 +208,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/compact-c2-wallet.jpg?v=1707684599
     Price: $48.00 USD
 - [M1 Wallet with AirTag](https://legacygoods.co/products/m1-wallet-with-airtag): Discover our M1 slim front-pocket wallet with an AirTag pocket, crafted from vegetable-tanned leather, fits 6 cards, and comes in black or buck brown.
-  Updated: 2026-07-03T22:04:22Z
+  Updated: 2026-07-14T04:46:41Z
   Vendor: Legacy Goods Co.
   Product Type: Wallets
   Availability: Available
@@ -221,7 +221,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/compact-size-leather-wallet-airtag.jpg?v=1711822150
     Price: $67.00 USD
 - [The Timeless Belt](https://legacygoods.co/products/the-timeless-belt): Discover the ultimate leather belt - the Timeless Belt, combining English Bridle leather's durability with classic style for a perfect fit and lasting wear.
-  Updated: 2026-07-03T22:05:05Z
+  Updated: 2026-07-14T04:47:16Z
   Vendor: Legacy Goods Co.
   Product Type: Belts
   Availability: Available
@@ -427,7 +427,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/timeless-belt-dark-brown-and-brass_4ee531bb-4f2e-44bd-bda2-b3d05c91f987.jpg?v=1718395033
     Price: $95.00 USD
 - [NATO Leather Watch Band](https://legacygoods.co/products/nato-leather-watch-band-20mm): Upgrade your watch with our Classic NATO Style Watch Band, crafted from Wickett & Craig Traditional Harness leather, featuring a 20mm matte stainless steel buckle.
-  Updated: 2026-07-03T22:05:03Z
+  Updated: 2026-07-14T04:47:21Z
   Vendor: Legacy Goods Co.
   Product Type: Watch Bands
   Availability: Available
@@ -449,7 +449,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Image: https://cdn.shopify.com/s/files/1/0822/3873/4638/files/durable-nato-watch-band-navy-leather.jpg?v=1727214770
     Price: $71.00 USD
 - [The Party Keychain, Key Holder and Bottle Opener](https://legacygoods.co/products/party-keychain): Elevate your keyring with the Party Keychain, featuring Wickett & Craig leather and a built-in bottle opener for style and convenience on the go.
-  Updated: 2026-07-03T22:05:04Z
+  Updated: 2026-07-14T04:47:21Z
   Vendor: Legacy Goods Co.
   Product Type: Belts
   Availability: Available
@@ -470,7 +470,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Availability: Available
     Price: $25.00 USD
 - [Apple Watch Band - Handmade Harness Leather](https://legacygoods.co/products/apple-watch-leather-band): Upgrade your Apple Watch with our premium Wickett & Craig leather band. Durable, eco-friendly, and elegant, it fits Series 0-10, Ultra, and Ultra 2 models.
-  Updated: 2026-07-03T22:05:32Z
+  Updated: 2026-07-14T04:47:52Z
   Vendor: Legacy Goods Co.
   Product Type: Accessories
   Availability: Available
@@ -634,7 +634,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Availability: Available
     Price: $79.00 USD
 - [Black Matte Timeless Belt](https://legacygoods.co/products/black-matte-timeless-belt): Discover the Timeless Belt in black with a black matte buckle. Crafted from premium English Bridle leather, it's perfect for both casual and formal wear.
-  Updated: 2026-07-03T22:05:41Z
+  Updated: 2026-07-14T04:47:56Z
   Vendor: Legacy Goods Co.
   Product Type: Belts
   Availability: Available
@@ -676,7 +676,7 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
     Availability: Available
     Price: $95.00 USD
 - [The Timeless Belt for Women](https://legacygoods.co/products/the-timeless-belt-for-women): Elevate your style with the Timeless Belt for Woman, handcrafted from premium leather. Available in rich colors and finishes, perfect for any occasion.
-  Updated: 2026-07-03T22:05:57Z
+  Updated: 2026-07-14T04:48:16Z
   Vendor: Legacy Goods Co.
   Product Type: Belts
   Availability: Available
@@ -820,28 +820,28 @@ Legacy Goods Co. is a Florida-based leather goods studio founded by Alexandre Va
   Updated: 2026-07-01T04:14:45Z
   Total Products: 7
 - [Wallets](https://legacygoods.co/collections/wallets): Explore durable, slim minimalist wallets crafted from US-sourced leather. Simplify your life with our compact, stylish card holders. Perfect for everyday use.
-  Updated: 2026-07-01T04:14:45Z
+  Updated: 2026-07-08T20:19:23Z
   Total Products: 5
 - [Pet Supplies](https://legacygoods.co/collections/pet-supplies): Shop luxury leather dog collars, leashes & accessories at Legacy Goods. Our handcrafted collars & leashes contour to your dog's neck for superior comfort.
-  Updated: 2026-06-29T00:03:06Z
+  Updated: 2026-07-08T20:19:23Z
   Total Products: 7
 - [Accessories](https://legacygoods.co/collections/accessories): Explore premium leather goods like our vegetable tanned Leather Tray, durable Camera Strap, and Field Notes Notebook Cover. Shop now for quality and style.
-  Updated: 2026-07-01T04:14:45Z
+  Updated: 2026-07-14T11:12:04Z
   Total Products: 9
 - [Launch Collection](https://legacygoods.co/collections/launch-collection): Our launch collection contains our first batch of incredible products that were all designed in-house, and crafted on demand right here in Québec, Canada.
-  Updated: 2026-07-01T04:14:45Z
+  Updated: 2026-07-14T11:12:04Z
   Total Products: 16
 - [All Products](https://legacygoods.co/collections/all-products): We are crafting numerous exceptional products, and since you've arrived here, allow us to introduce you to all of our great products with unique designs!
-  Updated: 2026-07-01T04:14:45Z
+  Updated: 2026-07-14T11:12:04Z
   Total Products: 25
 - [Belts](https://legacygoods.co/collections/belts): Discover Timeless Elegance with Our Premium Leather Collection Welcome to our exclusive collection of premium leather accessories, where timeless style meets unparalleled craftsmanship. Explore our meticulously crafted products and elevate your everyday ensemble. Black Matte Timeless Belt Elevate your style with the Black Matte Timeless Belt, featuring a sleek matte black buckle and crafted from 10-12oz English Bridle leather from Wickett & Craig tannery. This belt offers robust durability and timeless appeal. Designed with nickel sensitivities in mind, the PVD-coated buckle is nickel-free, and the brass contains less than 1% nickel. Customizable in length, it's perfect for any occasion. The Timeless Belt Embrace timeless style with the Timeless Belt, made from the same premium leather. Available in three rich colors and two width sizes, this belt offers a personalized fit for both casual and formal attire. Our Brass and Antique Brass buckles are ideal for those with nickel sensitivities. The Party Keychain Elevate your everyday carry with the Party Keychain, made from high-quality leather in Black, Medium Brown, and Dark Brown. Featuring a solid iron snap lever and built-in bottle opener, this keychain is both functional and stylish. Lightweight and easy to carry, it’s a thoughtful gift for any occasion. Upgrade your accessory game with our premium leather collection. Order your Timeless Belt and Party Keychain today!
-  Updated: 2026-07-01T04:14:45Z
+  Updated: 2026-07-08T20:19:24Z
   Total Products: 5
 - [Custom Bulk Orders for Company Gifts and  Items](https://legacygoods.co/collections/custom-bulk-orders-for-company-gifts-and--items): Discover our custom bulk orders for company gifts and  items. Personalize with your company logo. Ideal for corporate gifts and brand .
-  Updated: 2026-04-15T18:19:38Z
+  Updated: 2026-07-08T20:19:24Z
   Total Products: 0
 - [Handmade Leather Watch Bands](https://legacygoods.co/collections/handmade-leather-watch-bands): Explore our premium watch bands for Apple Watch and traditional watches. Crafted from high-quality leather, our bands offer style, durability, and a perfect fit.
-  Updated: 2026-06-29T01:13:18Z
+  Updated: 2026-07-08T20:19:24Z
   Total Products: 2
 
 ## Blogs
