@@ -6,12 +6,12 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2026-05-31T11:13:18Z
 - Contact Email: svalcph@hotmail.com
-- Updated At: 2026-07-07T00:00:39.065Z
+- Updated At: 2026-07-17T00:00:39.960Z
 
 ## Products
 
 - [Minimalist Dome Cap - Unisex København Style - SVAL CPH](https://svalcph.com/products/flat-bill-cap-embroidery): Buy Minimalist Dome Cap - Unisex København Style for only DKK320.00 at SVAL CPH!
-  Updated: 2026-06-30T17:25:55Z
+  Updated: 2026-07-15T06:44:08Z
   Vendor: SVAL CPH
   Product Type: Hats
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/classic-danish-cap-five-panel-minimalist-styleclassic-danish-cap-five-panel-minimalist-styleone-sizeredhatssval-cph4634126379186101044-204825457375761182245977s-9075529.jpg?v=1781111018
     Price: kr 279.00 DKK
 - [Danish Minimalist Organic Cotton Hoodie - SVAL CPH](https://svalcph.com/products/unisex-heavy-blend™-hooded-sweatshirt): Buy Danish Minimalist Organic Cotton Hoodie for only DKK799.00 at SVAL CPH!
-  Updated: 2026-06-30T17:25:09Z
+  Updated: 2026-07-16T01:51:02Z
   Vendor: SVAL CPH
   Product Type: Hoodie
   Availability: Available
@@ -213,7 +213,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/arctic-hoodie-by-sval-cph-scandinavian-brand-premium-cotton-unisex-hoodie-from-denmarkarctic-hoodie-by-sval-cph-scandinavian-brand-premium-cotton-unisex-hoodie--9539478.jpg?v=1781111001
     Price: kr 599.00 DKK
 - [Premium Core Tee - Unisex Relaxed Fit - Scandinavian Style Tshirt - SVAL CPH](https://svalcph.com/products/unisex-heavy-oversize-tee-1): Buy Premium Core Tee - Unisex Relaxed Fit - Scandinavian Style Tshirt for only DKK379.00 at SVAL CPH!
-  Updated: 2026-06-30T17:23:00Z
+  Updated: 2026-07-14T22:31:17Z
   Vendor: SVAL CPH
   Product Type: T-Shirt
   Availability: Available
@@ -361,7 +361,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/nordic-crewneck-sweater-sval-cphnordic-crewneck-sweater-sval-cphsnavylong-sleevesval-cph6473041531566160157-204819631603344328881490sval-cph-8069419.jpg?v=1781111005
     Price: kr 349.00 DKK
 - [SVAL Classic Tee – Unisex Jersey T-Shirt - SVAL CPH](https://svalcph.com/products/unisex-jersey-short-sleeve-tee): Buy SVAL Classic Tee – Unisex Jersey T-Shirt for only DKK330.00 at SVAL CPH!
-  Updated: 2026-06-30T17:42:33Z
+  Updated: 2026-07-16T21:46:02Z
   Vendor: SVAL CPH
   Product Type: T-Shirt
   Availability: Available
@@ -399,7 +399,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/sval-classic-tee-unisex-jersey-t-shirtsval-classic-tee-unisex-jersey-t-shirtblackxst-shirtsval-cph11416550091995077935-204833495833873447102770sval-cph-6688772.jpg?v=1781815036
     Price: kr 330.00 DKK
 - [SVAL Classic Hustle Hoodie – Unisex Heavy Blend Sweatshirt - SVAL CPH](https://svalcph.com/products/unisex-heavy-blend™-hooded-sweatshirt-1): Buy SVAL Classic Hustle Hoodie – Unisex Heavy Blend Sweatshirt for only DKK449.00 at SVAL CPH!
-  Updated: 2026-06-30T17:28:49Z
+  Updated: 2026-07-16T22:41:34Z
   Vendor: SVAL CPH
   Product Type: Hoodie
   Availability: Available
@@ -437,7 +437,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/sval-classic-hustle-hoodie-unisex-heavy-blend-sweatshirtsval-classic-hustle-hoodie-unisex-heavy-blend-sweatshirtblackshoodiesval-cph1885322660664433355-20482106-7353369.jpg?v=1781908640
     Price: kr 449.00 DKK
 - [SVAL Heavy Cotton Tee Hour Glass – Unisex - SVAL CPH](https://svalcph.com/products/unisex-heavy-cotton-tee): Buy SVAL Heavy Cotton Tee Hour Glass – Unisex for only DKK330.00 at SVAL CPH!
-  Updated: 2026-06-30T17:19:38Z
+  Updated: 2026-07-14T23:04:27Z
   Vendor: SVAL CPH
   Product Type: T-Shirt
   Availability: Available
