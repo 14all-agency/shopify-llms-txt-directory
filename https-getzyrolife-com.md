@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-12-26T14:37:42Z
 - Contact Email: support@getzyrolife.com
-- Updated At: 2026-07-09T11:10:22.424Z
+- Updated At: 2026-07-17T00:00:22.067Z
 
 ## Products
 
 - [Zyro Life Nitric Oxide Capsules – Gremin™ Formula for Circulation, Endurance & Muscle Pump Support](https://getzyrolife.com/products/zyro-life-nitric-oxide-capsules): Support circulation, endurance, muscle pump, and daily vitality with Zyro Life Nitric Oxide Capsules powered by Gremin™ Triple Arginine Complex.
-  Updated: 2026-07-09T09:55:47Z
+  Updated: 2026-07-16T05:21:56Z
   Vendor: Zyro Life
   Product Type: Dietary Supplement
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/nitric_pack_of_3_823a1543-0b69-4f02-9e0d-4ef90cd20061.jpg?v=1780039714
     Price: $119.99 USD
 - [Zyro Life Focus Pro Capsules – Stadice™ Formula for Brain Health, Focus & Cognitive Support](https://getzyrolife.com/products/zyro-life-focus-pro-capsules): Support focus, memory, and cognitive performance with Zyro Life Focus Pro Capsules powered by the Stadice™ Formula and Lion's Mane Mushroom Extract.
-  Updated: 2026-07-09T10:04:34Z
+  Updated: 2026-07-16T05:21:56Z
   Vendor: Zyro Life
   Product Type: Dietary Supplement
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/focus_pack_of_3.jpg?v=1780033553
     Price: $144.99 USD
 - [Zyro Life Testo Pro Elite Capsules – Gremin™ Formula for Stress Relief, Mood & Energy Support](https://getzyrolife.com/products/zyro-life-test-pro-elite): Support energy, mood, stress resilience and daily vitality with Zyro Life Testo Pro Elite Capsules powered by the proprietary Gremin™ Formula.
-  Updated: 2026-07-09T10:06:19Z
+  Updated: 2026-07-16T05:21:57Z
   Vendor: Zyro Life
   Product Type: Dietary Supplement
   Availability: Available
@@ -55,17 +55,17 @@
   - [1](https://getzyrolife.com/products/zyro-life-test-pro-elite?variant=48540684288215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/newlistingimage2testo_d77aa088-84d3-4f65-926f-b92d492a047b.jpg?v=1780489894
-    Price: $59.99 USD
+    Price: $49.99 USD
   - [2](https://getzyrolife.com/products/zyro-life-test-pro-elite?variant=48540684320983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/testo_pack_of_2_46e98783-c892-48a9-a2c0-b8bb637fa230.jpg?v=1780039878
-    Price: $109.99 USD
+    Price: $89.99 USD
   - [3](https://getzyrolife.com/products/zyro-life-test-pro-elite?variant=48540684353751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/testo_pack_of_3_44e6efbf-7fb1-4e75-ab6e-33eb997541c3.jpg?v=1780039878
-    Price: $159.99 USD
+    Price: $119.99 USD
 - [Zyro Life Power Metab Elite Capsules – Metaberine™ Formula for Glucose Metabolism, Energy & Heart Health](https://getzyrolife.com/products/zyro-life-cardio-metabelite-capsules): Support healthy glucose metabolism, energy production and heart health with Zyro Life Power Metab Elite Capsules powered by the Metaberine™ Formula.
-  Updated: 2026-07-09T10:07:53Z
+  Updated: 2026-07-16T05:21:57Z
   Vendor: Zyro Life
   Product Type: 
   Availability: Available
@@ -82,109 +82,91 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/power_pack_of_3.jpg?v=1780039767
     Price: $119.99 USD
-- [Zyro Life Nitric Oxide — No More Flat Pumps. No More Gassing Out. Just Pure Output.](https://getzyrolife.com/products/zyro-life-dietary-supplement): Train Harder.Recover Smarter. When nitric oxide levels drop, your workouts suffer. Zyro Life Nitric Oxide Capsules help restore what your body loses — so every session counts.
-  Updated: 2026-07-08T21:06:00Z
-  Vendor: Zyro Life
-  Product Type: Dietary Supplement
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/newlistingimage_85eed35a-49d4-4d10-820d-872a28cfd3a1.jpg?v=1774941541
-  - [1](https://getzyrolife.com/products/zyro-life-dietary-supplement?variant=48908595232983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/newlistingimage_85eed35a-49d4-4d10-820d-872a28cfd3a1.jpg?v=1774941541
-    Price: $49.99 USD
-  - [2](https://getzyrolife.com/products/zyro-life-dietary-supplement?variant=48908595265751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/testo_pack_of_2_46e98783-c892-48a9-a2c0-b8bb637fa230.jpg?v=1780039878
-    Price: $89.99 USD
-  - [3](https://getzyrolife.com/products/zyro-life-dietary-supplement?variant=48908595298519)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/nitric_pack_of_3_823a1543-0b69-4f02-9e0d-4ef90cd20061.jpg?v=1780039714
-    Price: $119.99 USD
 - [Zyro Life Alpha Drive Stack – Stadice™ + Gremin™ Formula for Focus, Drive & Daily Performance](https://getzyrolife.com/products/zyro-life-alpha-drive-stack-1): Support focus, mental drive & daily vitality with Focus Pro + Testo Pro Elite. Dual-formula mind & energy stack. 3rd Party Tested | 90-Day Guarantee.
-  Updated: 2026-07-08T21:06:00Z
+  Updated: 2026-07-16T05:21:57Z
   Vendor: Zyro Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/alphadrivestack1.jpg?v=1779962243
   Price: $82.99 USD
 - [Zyro Life Metab Initiate Stack – Metaberine™ + Stadice™ Formula for Energy, Focus & Metabolic Balance](https://getzyrolife.com/products/zyro-life-metab-initiate-stack): Support glucose metabolism & daily cognitive clarity together. Power Metab Elite + Focus Pro — a dual-formula stack. 3rd Party Tested | 90-Day Guarantee.
-  Updated: 2026-07-08T21:06:00Z
+  Updated: 2026-07-16T05:21:57Z
   Vendor: Zyro Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/metabinnitiatestack1_6069d1ba-9add-496c-b95f-e61981d4f258.jpg?v=1779962306
   Price: $79.99 USD
-- [Zyro Life Testo Pro Elite Capsules – Gremin™ Formula for Stress Relief, Mood & Energy Support -B](https://getzyrolife.com/products/zyro-life-testo-pro-elite-b): Support daily energy, mood, vitality and stress resilience with Zyro Life Testo Pro Elite Capsules powered by the proprietary Gremin™ Formula.
-  Updated: 2026-07-09T10:10:21Z
-  Vendor: Zyro Life
+- [Zyro Life Testo Pro Elite Capsules – Gremin™ Formula for Stress Relief, Mood & Energy Support - V4](https://getzyrolife.com/products/zyro-life-testo-pro-elite-capsules-gremin™-formula-for-stress-relief-mood-energy-support-v4): Support energy, mood, stress resilience and daily vitality with Zyro Life Testo Pro Elite Capsules powered by the proprietary Gremin™ Formula.
+  Updated: 2026-07-16T05:21:58Z
+  Vendor: ZL
   Product Type: Dietary Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/newlistingimage2testo_d77aa088-84d3-4f65-926f-b92d492a047b.jpg?v=1780489894
-  - [1](https://getzyrolife.com/products/zyro-life-testo-pro-elite-b?variant=48979194675415)
+  - [1](https://getzyrolife.com/products/zyro-life-testo-pro-elite-capsules-gremin™-formula-for-stress-relief-mood-energy-support-v4?variant=49442370388183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/newlistingimage2testo_d77aa088-84d3-4f65-926f-b92d492a047b.jpg?v=1780489894
-    Price: $59.99 USD
-  - [2](https://getzyrolife.com/products/zyro-life-testo-pro-elite-b?variant=48979194708183)
+    Price: $49.99 USD
+  - [2](https://getzyrolife.com/products/zyro-life-testo-pro-elite-capsules-gremin™-formula-for-stress-relief-mood-energy-support-v4?variant=49442370420951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/testo_pack_of_2_46e98783-c892-48a9-a2c0-b8bb637fa230.jpg?v=1780039878
-    Price: $109.99 USD
-  - [3](https://getzyrolife.com/products/zyro-life-testo-pro-elite-b?variant=48979194740951)
+    Price: $89.99 USD
+  - [3](https://getzyrolife.com/products/zyro-life-testo-pro-elite-capsules-gremin™-formula-for-stress-relief-mood-energy-support-v4?variant=49442370453719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/testo_pack_of_3_44e6efbf-7fb1-4e75-ab6e-33eb997541c3.jpg?v=1780039878
-    Price: $159.99 USD
+    Price: $119.99 USD
 
 ## Collections
 
 - [Immunity](https://getzyrolife.com/collections/immunity): Discover Zyro Life immunity support supplements formulated to help maintain immune health, daily wellness and overall vitality.
-  Updated: 2026-07-09T09:34:45Z
-  Total Products: 4
+  Updated: 2026-07-16T05:21:56Z
+  Total Products: 6
 - [Gut Health](https://getzyrolife.com/collections/gut-health): Explore Zyro Life gut health supplements formulated to support digestion, nutrient absorption and overall wellness.
-  Updated: 2026-07-09T09:34:45Z
-  Total Products: 4
+  Updated: 2026-07-16T05:21:56Z
+  Total Products: 6
 - [Fitness & Recovery](https://getzyrolife.com/collections/fitness-recovery): Explore Zyro Life fitness and recovery supplements formulated to support endurance, circulation, energy and muscle performance.
-  Updated: 2026-07-09T09:34:45Z
-  Total Products: 4
+  Updated: 2026-07-16T05:21:56Z
+  Total Products: 6
 - [Vitamins & Minerals](https://getzyrolife.com/collections/vitamins-minerals): Shop Zyro Life vitamins and mineral supplements designed to support daily nutrition, immunity, energy and long-term wellness.
-  Updated: 2026-07-09T09:34:45Z
-  Total Products: 4
+  Updated: 2026-07-16T05:21:56Z
+  Total Products: 6
 - [Lifestyle / Wellness](https://getzyrolife.com/collections/lifestyle-wellness): Explore Zyro Life lifestyle and wellness supplements designed to support energy, focus, circulation and overall daily health with science-backed ingredients.
-  Updated: 2026-07-09T09:34:45Z
-  Total Products: 4
+  Updated: 2026-07-16T05:21:56Z
+  Total Products: 6
 - [Gremin](https://getzyrolife.com/collections/gremin)
-  Updated: 2026-07-09T09:34:45Z
+  Updated: 2026-07-16T05:21:56Z
   Total Products: 3
 - [Stadice](https://getzyrolife.com/collections/stadice)
-  Updated: 2026-07-08T20:24:26Z
+  Updated: 2026-07-16T05:21:56Z
   Total Products: 1
 - [Shop](https://getzyrolife.com/collections/shop)
-  Updated: 2026-07-08T21:07:28Z
+  Updated: 2026-07-16T05:21:57Z
   Total Products: 10
 - [Focus](https://getzyrolife.com/collections/focus)
-  Updated: 2026-07-08T20:24:26Z
+  Updated: 2026-07-16T05:21:57Z
   Total Products: 1
 - [Metabolism](https://getzyrolife.com/collections/metabolism)
-  Updated: 2026-07-08T20:24:27Z
+  Updated: 2026-07-16T05:21:57Z
   Total Products: 1
 - [Circulation](https://getzyrolife.com/collections/circulation)
-  Updated: 2026-07-08T20:24:27Z
+  Updated: 2026-07-16T05:21:57Z
   Total Products: 1
 - [Testosterone](https://getzyrolife.com/collections/testosterone)
-  Updated: 2026-07-09T09:34:45Z
-  Total Products: 2
+  Updated: 2026-07-16T05:21:57Z
+  Total Products: 4
 - [Metaberine](https://getzyrolife.com/collections/metaberine)
-  Updated: 2026-07-08T20:24:27Z
+  Updated: 2026-07-16T05:21:57Z
   Total Products: 1
 - [Stadice](https://getzyrolife.com/collections/stadice-1)
-  Updated: 2026-07-08T20:24:27Z
+  Updated: 2026-07-16T05:21:57Z
   Total Products: 1
 - [Gremin](https://getzyrolife.com/collections/gremin-1)
-  Updated: 2026-07-09T09:34:45Z
+  Updated: 2026-07-16T05:21:57Z
   Total Products: 3
 - [Herbal Supplements](https://getzyrolife.com/collections/herbal-supplements)
-  Updated: 2026-07-09T09:34:45Z
-  Total Products: 4
+  Updated: 2026-07-16T05:21:57Z
+  Total Products: 6
 - [Amino Acids](https://getzyrolife.com/collections/amino-acids)
-  Updated: 2026-07-08T20:24:27Z
+  Updated: 2026-07-16T05:21:57Z
   Total Products: 1
 
 ## Blogs
@@ -493,6 +475,58 @@
     Updated: 2026-07-09T06:30:59Z
     Author: UC Brand Labs
     Tags: Brain Health, Daily Wellness, fitnesswellness, Health, Health Supplements, healthy blood flow, Healthy Circulation, Healthy Eating, healthy lifestyle, healthy recovery, Men's Health, Supplements Health, Wellness, Wellness Supplements, wellness tips, zyro life
+  - [Why Healthy Blood Flow Matters for Overall Health | Zyro Life](https://getzyrolife.com/blogs/the-formula/why-healthy-blood-flow-matters-for-overall-health-more-than-just-heart-health): Why Healthy Blood Flow Matters for Overall Health | Zyro Life
+    Updated: 2026-07-09T11:42:48Z
+    Author: UC Brand Labs
+    Tags: blood circulation, Blood flow, Blood Flow Support, Blood Sugar, blood sugar stability energy, Daily Wellness, fitnesswellness, healthy blood flow, healthy lifestyle, Wellness, Wellness Supplements, wellness tips, zyro life
+  - [How Better Oxygen Delivery Improves Energy Naturally | Zyro Life](https://getzyrolife.com/blogs/the-formula/how-better-oxygen-delivery-helps-you-feel-more-active-every-day): How Better Oxygen Delivery Improves Energy Naturally | Zyro Life
+    Updated: 2026-07-09T11:46:03Z
+    Author: UC Brand Labs
+    Tags: berberine benefits blood sugar, blood circulation, Blood flow, Blood Flow Support, Blood Sugar, blood sugar stability energy, Daily Wellness, fitnesswellness, healthy blood flow, Oxygen delivery, Wellness, Wellness Supplements, wellness tips, zyro life
+  - [Does Nitric Oxide Help Muscle Recovery? | Zyro Life](https://getzyrolife.com/blogs/the-formula/does-nitric-oxide-help-muscle-recovery-what-science-says): Does Nitric Oxide Help Muscle Recovery? | Zyro Life
+    Updated: 2026-07-09T11:50:07Z
+    Author: UC Brand Labs
+    Tags: Blood flow, Blood Flow Support, healthy blood flow, healthy recovery, Nitric Oxide, Nitric Oxide Benefits, nitric oxide supplements benefits, Workout Recovery, zyro life, Zyro Life Nitric Oxide
+  - [How to Improve Stamina Naturally for Better Workouts | Zyro Life](https://getzyrolife.com/blogs/the-formula/why-you-get-tired-during-workouts-and-how-to-improve-stamina-naturally): How to Improve Stamina Naturally for Better Workouts | Zyro Life
+    Updated: 2026-07-09T11:54:54Z
+    Author: UC Brand Labs
+    Tags: Daily Energy, Endurance, Energy, Nitric Oxide, Nitric Oxide Benefits, nitric oxide supplements benefits, zyro life, Zyro Life Nitric Oxide
+  - [Why Testosterone Declines After 30 | Causes, Symptoms & Natural Support](https://getzyrolife.com/blogs/the-formula/why-testosterone-naturally-declines-after-30-and-what-you-can-do-about-it): Why Testosterone Declines After 30 | Causes, Symptoms & Natural Support
+    Updated: 2026-07-15T06:33:20Z
+    Author: UC Brand Labs
+    Tags: Fitness, Testo Pro Elite, Testosterone, testosterone booster ingredients that work, Wellness, Wellness Supplements, wellness tips, zyro life
+  - [7 Daily Habits to Naturally Boost Men's Energy & Vitality | Zyro Life](https://getzyrolife.com/blogs/the-formula/7-daily-habits-that-naturally-support-mens-energy-and-vitality): 7 Daily Habits to Naturally Boost Men's Energy & Vitality | Zyro Life
+    Updated: 2026-07-15T06:43:28Z
+    Author: UC Brand Labs
+    Tags: Daily Energy, Daily Routine, Daily Wellness, Health, Healthy Eating, healthy lifestyle, Wellness, zyro life
+  - [Ashwagandha Benefits for Men | Stress, Recovery & Performance](https://getzyrolife.com/blogs/the-formula/ashwagandha-benefits-for-men-what-science-says-about-stress-recovery-performance): Ashwagandha Benefits for Men | Stress, Recovery & Performance
+    Updated: 2026-07-15T06:53:44Z
+    Author: UC Brand Labs
+    Tags: Ashwagandha, Daily Wellness, fitnesswellness, Men's Health, Performance, Wellness, Wellness Supplements, wellness tips, Workout Performance
+  - [Tongkat Ali Explained: Benefits, Uses & Men's Wellness | Zyro Life](https://getzyrolife.com/blogs/the-formula/tongkat-ali-explained-a-traditional-botanical-for-modern-mens-wellness): Tongkat Ali Explained: Benefits, Uses & Men's Wellness | Zyro Life
+    Updated: 2026-07-15T07:00:00Z
+    Author: UC Brand Labs
+    Tags: Daily Wellness, fitnesswellness, healthy lifestyle, healthy recovery, Men's Health, Recovery, Tongkat Ali, Wellness, Wellness Supplements, wellness tips, Workout Recovery, zyro life, Zyro Life Nitric Oxide
+  - [Why Ingredient Transparency Matters in Supplements | Zyro Life](https://getzyrolife.com/blogs/the-formula/the-importance-of-ingredient-transparency-in-modern-supplements): Why Ingredient Transparency Matters in Supplements | Zyro Life
+    Updated: 2026-07-15T07:03:32Z
+    Author: UC Brand Labs
+    Tags: Health Supplements, Ingredient Transparency, Men's Health, Science, Supplement, Supplements Health, Wellness Supplements
+  - [How Sleep Affects Recovery, Energy & Men's Wellness | Zyro Life](https://getzyrolife.com/blogs/the-formula/how-sleep-impacts-recovery-energy-and-mens-overall-wellness): How Sleep Affects Recovery, Energy & Men's Wellness | Zyro Life
+    Updated: 2026-07-15T07:11:04Z
+    Author: UC Brand Labs
+    Tags: Daily Energy, Energy, healthy recovery, morning energy, Recovery, sleep, sleep quality, testosterone mood sleep drive, Workout Recovery, zyro life
+  - [Fenugreek for Men: Benefits, Uses & Wellness Guide | Zyro Life](https://getzyrolife.com/blogs/the-formula/fenugreek-for-men-a-traditional-herb-supporting-modern-wellness): Fenugreek for Men: Benefits, Uses & Wellness Guide | Zyro Life
+    Updated: 2026-07-15T07:16:45Z
+    Author: UC Brand Labs
+    Tags: Botanical Ingredients, Daily Wellness, Fenugreek, Fitness, fitnesswellness, healthy lifestyle, Men's Health, Wellness, Wellness Supplements, wellness tips, zyro life
+  - [Hydration for Men: Why Drinking Enough Water Matters | Zyro Life](https://getzyrolife.com/blogs/the-formula/hydration-and-mens-performance-why-water-is-more-important-than-you-think): Hydration for Men: Why Drinking Enough Water Matters | Zyro Life
+    Updated: 2026-07-15T07:28:08Z
+    Author: UC Brand Labs
+    Tags: Daily Energy, Energy, Fitness, Health tips, hydration, Men's Health, Recovery, Water Intake, zyro life
+  - [Strength Training for Beginners: A Guide to Building Healthy Habits | Zyro Life](https://getzyrolife.com/blogs/the-formula/strength-training-for-beginners-building-a-strong-foundation-for-lifelong-health): Strength Training for Beginners: A Guide to Building Healthy Habits | Zyro Life
+    Updated: 2026-07-15T07:28:28Z
+    Author: UC Brand Labs
+    Tags: Beginner Fitness, Fitness, healthy lifestyle, healthy recovery, Men's Health, Recovery, Strength Training, Wellness, Workout Recovery, Workout Tips
 
 ## Store Pages
 
