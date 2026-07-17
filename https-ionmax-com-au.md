@@ -6,17 +6,17 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-12-14T01:29:47Z
 - Contact Email: support@andatech.com.au
-- Updated At: 2026-06-24T13:27:18.137Z
+- Updated At: 2026-07-17T00:00:35.949Z
 
 ## Products
 
 - [Ionmax ION610 6L Desiccant Dehumidifier - Ionmax Australia](https://ionmax.com.au/products/ionmax-ion610-6l-dehumidifier): Remove up to 6L of moisture per day with the ION610 desiccant dehumidifier. Automatic louvre. 1.8L water tank. Continuous drainage option. 2 years warranty
-  Updated: 2026-06-23T07:38:06Z
+  Updated: 2026-07-14T03:59:31Z
   Vendor: Ionmax
   Product Type: Dehumidifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/ionmax-ion610-desiccant-dehumidifier-choice.webp?v=1739325292
-  Price: $303.20 AUD
+  Price: $379.00 AUD
 - [Ionmax Serene Ultrasonic Humidifier Aroma Diffuser - Ionmax Australia](https://ionmax.com.au/products/ionmax-serene-humidifier): Unwind with Ionmax Serene ultrasonic humidifier & aroma diffuser, featuring a built-in alarm clock & colour-changing LEDs. Buy now for a serene atmosphere.
   Updated: 2025-12-19T08:18:10Z
   Vendor: Ionmax
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/products/ionmax-serene-pic.jpg?v=1654134477
   Price: $95.00 AUD
 - [Ionmax Ray Far Infrared Heater - Ionmax Australia](https://ionmax.com.au/products/ionmax-ray-far-infrared-heater): Warm up with Ionmax Ray far infrared heater. Enjoy instant, comfortable sensation of warmth like the sun with infrared heat that does not dry up the air.
-  Updated: 2026-06-06T06:47:17Z
+  Updated: 2026-07-09T04:06:12Z
   Vendor: Ionmax
   Product Type: Heater
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/ionmax-ray-far-infrared-heater-in-black-front.webp?v=1707360778
   Price: $489.00 AUD
 - [Nano Silver antibacterial replacement filter for Ionmax ION90](https://ionmax.com.au/products/ion90-nanosilver-filter): Compatible with Ionmax ION90 humidifier. Replace every 3 months or 80 uses to avoid mineral buildup, prevent bacteria growth, and maintain efficiency.
-  Updated: 2026-06-24T09:02:37Z
+  Updated: 2026-07-14T01:14:08Z
   Vendor: Ionmax
   Product Type: Humidifier Accessories
   Availability: Available
@@ -46,28 +46,28 @@
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/products/ion430-filter-set.jpg?v=1639462116
   Price: $69.00 AUD
 - [HEPA 3-in-1 replacement filter for Ionmax Selah](https://ionmax.com.au/products/selah-hepa-filter): Replacement filter for Ionmax Selah available now! Keep your air clean and fresh by changing your HEPA 3-in-1 filter every 6 months. Shop today!
-  Updated: 2026-06-22T21:44:06Z
+  Updated: 2026-07-10T05:37:26Z
   Vendor: Ionmax
   Product Type: Air Purifier Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/products/ion360-filter.jpg?v=1639462127
   Price: $45.00 AUD
 - [Ionmax Vienne 10L Desiccant Dehumidifier - Ionmax Australia](https://ionmax.com.au/products/ionmax-vienne-10l-dehumidifier): Remove 10L moisture daily with Ionmax Vienne desiccant dehumidifier. Ideal for the Australian climate. CHOICE recommended & Sensitive Choice .
-  Updated: 2026-06-24T10:35:29Z
+  Updated: 2026-06-30T14:00:08Z
   Vendor: Ionmax
   Product Type: Dehumidifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/ionmax-vienne-ion630-desiccant-dehumidifier-choice.webp?v=1773636610
-  Price: $466.65 AUD
+  Price: $549.00 AUD
 - [Ionmax Breeze Plus Antiviral Smart Air Purifier - Ionmax Austrakia](https://ionmax.com.au/products/ionmax-breeze-plus-antiviral-air-purifier): Stay safe indoors with Ionmax Breeze Plus antiviral HEPA air purifier with mobile app. Proven to reduce viral infectivity by 99.97%. 2+2 years warranty.
-  Updated: 2026-06-12T06:44:39Z
+  Updated: 2026-06-27T12:59:22Z
   Vendor: Ionmax
   Product Type: Air Purifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Ionmax_Breeze_Plus_UV_HEPA_air_purifier_with_mobile_app.jpg?v=1770622302
   Price: $399.00 AUD
 - [Antiviral HEPA 3-in-1 replacement filter for Ionmax Breeze series](https://ionmax.com.au/products/breeze-antiviral-hepa-filter): Buy replacement filters for Ionmax Breeze and Breeze Plus! Ensure optimal air quality by changing your antiviral HEPA filter every 12 months. Buy now.
-  Updated: 2026-06-24T03:47:08Z
+  Updated: 2026-07-16T13:11:29Z
   Vendor: Ionmax
   Product Type: Air Purifier Accessories
   Availability: Available
@@ -157,8 +157,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/products/ion330-filter-set.jpg?v=1646018076
   Price: $37.00 AUD
-- [Replacement filter for Ionmax ION610](https://ionmax.com.au/products/ion610-filter): Compatible with Ionmax ION610 desiccant dehumidifiers.
-  Updated: 2026-06-22T09:02:56Z
+- [Replacement filter for Ionmax ION610 (Pre order for mid August delivery)](https://ionmax.com.au/products/ion610-filter): Compatible with Ionmax ION610 desiccant dehumidifiers.
+  Updated: 2026-07-13T11:38:04Z
   Vendor: Ionmax
   Product Type: Dehumidifier Accessories
   Availability: Available
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/products/ionmax_ED18dehumidifier-extendedwarranty.png?v=1651105802
   Price: $369.00 AUD
 - [Ionmax+ Aire High-Performance Smart Air Purifier - Ionmax Australia](https://ionmax.com.au/products/ionmax-aire-air-purifier): Enjoy healthier air with Ionmax+ Aire air purifier. Sensitive Choice  & CHOICE recommended air purifier. Buy now with 2 years warranty.
-  Updated: 2026-06-22T13:07:37Z
+  Updated: 2026-07-06T00:17:22Z
   Vendor: Ionmax
   Product Type: Air Purifier
   Availability: Available
@@ -207,21 +207,21 @@
     Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Ionmax_-Aire-X-Air-Purifier-2-Years-Extended-Warranty.webp?v=1685674361
     Price: $219.00 AUD
 - [Antibacterial HEPA 3-in-1 replacement filter for Ionmax+ Aire (For ION900PRO)](https://ionmax.com.au/products/aire-hepa-filter): Replacement filters for Ionmax Aire. Enhance air purifier performance with a set of 2 antibacterial HEPA filters, designed for yearly replacement. Buy now.
-  Updated: 2026-06-22T13:07:38Z
+  Updated: 2026-07-15T22:04:18Z
   Vendor: Ionmax
   Product Type: Air Purifier Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Ionmax_Aireairpurifierreplacementfiltersset.webp?v=1712887219
   Price: $300.00 AUD
 - [Antibacterial HEPA 3-in-1 replacement filter for Ionmax+ Aire X (For ION1000PRO)](https://ionmax.com.au/products/aire-x-hepa-filter): Compatible with Ionmax+ AIRE X air purifier. Comes with 2 sets of True HEPA H13 filters.
-  Updated: 2026-06-13T04:00:52Z
+  Updated: 2026-07-02T01:26:01Z
   Vendor: Ionmax
   Product Type: Air Purifier Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Ionmax_AireXairpurifierreplacementfiltersset.webp?v=1712887233
   Price: $350.00 AUD
 - [UV Light Replacement for Ionmax+ Aire](https://ionmax.com.au/products/aire-uv-light): Compatible with Ionmax+ Aire and Ionmax+ Aire X air purifiers.
-  Updated: 2026-01-20T00:06:40Z
+  Updated: 2026-07-08T11:47:57Z
   Vendor: Ionmax
   Product Type: Air Purifier Accessories
   Availability: Available
@@ -256,21 +256,21 @@
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/ionmax-breeze-plus-air-purifier-filters-bundle.webp?v=1729755974
   Price: $499.00 AUD
 - [Ionmax+ Aire X Smart Air Purifier Bundle - Ionmax Australia](https://ionmax.com.au/products/ionmax-aire-x-filter-bundle): Get the high performance Ionmax+ Aire X with filters bundle today and save big! Get a set of free filters with every purchase. Buy now while stocks last.
-  Updated: 2026-06-01T00:49:47Z
+  Updated: 2026-06-30T03:32:45Z
   Vendor: Ionmax
   Product Type: Air Purifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Ionmax_AireXairpurifierfiltersbundle.webp?v=1729750845
   Price: $1,549.00 AUD
 - [Ionmax Q10 Air Quality Monitor](https://ionmax.com.au/products/ionmax-q10-air-quality-monitor): Measure PM2.5, TVOC, CO2, humidity & temperature within seconds. 4 colour air quality index. Clear large digital display, compact & rechargeable. Buy now.
-  Updated: 2026-06-24T04:42:19Z
+  Updated: 2026-07-13T08:12:37Z
   Vendor: Ionmax
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/ionmaxq10airqualitymonitor.webp?v=1724283824
   Price: $149.00 AUD
 - [Carbon HEPA filter for Ionmax Vienne](https://ionmax.com.au/products/vienne-carbon-hepa-filter): Remove odours & harmful particles with the deodorising Carbon HEPA filter for the Ionmax Vienne dehumidifier. Order yours today for a healthier home.
-  Updated: 2026-06-24T10:25:58Z
+  Updated: 2026-07-16T12:50:38Z
   Vendor: Ionmax
   Product Type: Dehumidifier Accessories
   Availability: Available
@@ -297,36 +297,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/2_yrs_extended_warranty_Ionmax_ED12_dehumidifier.jpg?v=1748916679
   Price: $279.00 AUD
-- [Ionmax Rhine Pro 50L Smart Compressor Dehumidifier Air Purifier (Pre Order for Early July Delivery)](https://ionmax.com.au/products/ionmax-rhine-pro-50l-smart-compressor-dehumidifier-air-purifier): Powerful dehumidifier & HEPA air purifier in one. Removes up to 50L moisture daily. Breathe cleaner air. Smart WiFi control with mobile app. Shop now!
-  Updated: 2026-06-16T09:22:37Z
+- [Ionmax Rhine Pro 50L Smart Compressor Dehumidifier Air Purifier](https://ionmax.com.au/products/ionmax-rhine-pro-50l-smart-compressor-dehumidifier-air-purifier): Powerful dehumidifier & HEPA air purifier in one. Removes up to 50L moisture daily. Breathe cleaner air. Smart WiFi control with mobile app. Shop now!
+  Updated: 2026-07-16T23:31:42Z
   Vendor: Ionmax
   Product Type: Dehumidifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Rhine_Pro.jpg?v=1773636275
   Price: $649.00 AUD
 - [Ionmax Venta 8L Desiccant Dehumidifier](https://ionmax.com.au/products/ionmax-venta-8l-desiccant-dehumidifier): Keep your home fresh and dry with the Ionmax Venta Desiccant Dehumidifier. Removes up to 8L daily while purifying air with a H13 HEPA filter. Shop now.
-  Updated: 2026-06-24T08:54:07Z
+  Updated: 2026-07-16T11:06:07Z
   Vendor: Ionmax
   Product Type: Dehumidifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/IonmaxVentaDehumidifierION615_1.webp?v=1773636745
-  Price: $399.20 AUD
+  Price: $499.00 AUD
 - [Ionmax Lavish Smart Antibacterial HEPA Air Purifier](https://ionmax.com.au/products/ionmax-lavish-air-purifier): Breathe cleaner air with the Ionmax Lavish Smart Antibacterial HEPA Air Purifier. Sleek and app-enabled, it removes allergens, odours, and particles in rooms up to 138m². Shop now.
-  Updated: 2026-06-23T06:49:06Z
+  Updated: 2026-06-30T14:00:08Z
   Vendor: Ionmax
   Product Type: Air Purifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Lavish_ION350_HEPA_air_purifier.jpg?v=1773635527
-  Price: $319.20 AUD
+  Price: $399.00 AUD
 - [Ionmax Lavish Plus Smart Antibacterial HEPA Air Purifier](https://ionmax.com.au/products/ionmax-lavish-plus-air-purifier): Breathe healthier with the Ionmax Lavish Plus Smart Antibacterial HEPA Air Purifier. Featuring 5-stage filtration with UV-C light, ioniser, and app control for whole-home air purification. Shop now.
-  Updated: 2026-06-24T10:09:37Z
+  Updated: 2026-06-30T14:00:08Z
   Vendor: Ionmax
   Product Type: Air Purifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/LavishPlusION530.webp?v=1773635974
-  Price: $399.20 AUD
+  Price: $499.00 AUD
 - [Ionmax Leone Pro 25L Compressor Dehumidifier Air Purifier](https://ionmax.com.au/products/ionmax-leone-pro-25l-compressor-dehumidifier-air-purifier): Remove up to 25L of moisture daily with the Ionmax Leone Pro dehumidifier and HEPA air purifier. Compact, efficient and Wi-Fi enabled for easy control.
-  Updated: 2026-06-19T12:00:37Z
+  Updated: 2026-07-07T03:15:27Z
   Vendor: Ionmax
   Product Type: Dehumidifier
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/LavishPlusION530_7.jpg?v=1761097599
   Price: $89.00 AUD
 - [2 years extended warranty for Ionmax Venta](https://ionmax.com.au/products/extended-warranty-venta): Buy an additional 2 years of warranty for your Ionmax Venta ION615 desiccant dehumidifier. Service centre based in Melbourne, Victoria.
-  Updated: 2026-05-14T04:05:47Z
+  Updated: 2026-06-30T11:26:58Z
   Vendor: Ionmax
   Product Type: Warranty
   Availability: Available
@@ -382,14 +382,14 @@
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/LavishPlusION530Filter.jpg?v=1773635974
   Price: $99.00 AUD
 - [Antibacterial HEPA replacement filter for Ionmax Lavish](https://ionmax.com.au/products/lavish-hepa-filter): Replacement filter for Ionmax Lavish ION350. Enhance air purifier performance with an antibacterial HEPA filter, designed for yearly replacement. Buy now.
-  Updated: 2026-06-14T09:49:26Z
+  Updated: 2026-07-07T03:45:14Z
   Vendor: Ionmax
   Product Type: Air Purifier Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/LavishION350Filter.jpg?v=1773635527
   Price: $79.00 AUD
 - [HEPA H13 filter for Ionmax Venta ION615 Dehumidifier](https://ionmax.com.au/products/venta-hepa-filter): Keep your Ionmax Venta dehumidifier performing at its best. The optional HEPA H13 filter removes dust, allergens, and odours. Order yours today for a healthier home.
-  Updated: 2026-06-14T08:50:26Z
+  Updated: 2026-07-14T01:01:38Z
   Vendor: Ionmax
   Product Type: Dehumidifier Accessories
   Availability: Available
@@ -403,7 +403,7 @@
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/LeoneProFilter.jpg?v=1773636494
   Price: $47.00 AUD
 - [HEPA filter for Ionmax Rhine Pro ION651 Dehumidifier](https://ionmax.com.au/products/rhine-pro-hepa-filter): Upgrade your Ionmax Rhine Pro dehumidifier with the optional HEPA filter. Remove dust, allergens, and odours for cleaner, healthier indoor air. Order yours today for a healthier home.
-  Updated: 2026-06-19T23:54:57Z
+  Updated: 2026-07-01T09:03:37Z
   Vendor: Ionmax
   Product Type: Dehumidifier Accessories
   Availability: Available
@@ -417,120 +417,127 @@
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/ED_IONMAX_BLACK_app.jpg?v=1768271208
   Price: $2,400.00 AUD
 - [Ionmax Lavish Air Purifier Filter Bundle - Ionmax Australia](https://ionmax.com.au/products/ionmax-lavish-ion350-filter-bundle): Breathe cleaner air with the Ionmax Lavish filter bundle! Enjoy 99.97% effectiveness against viruses & added savings with free filters. Shop now.
-  Updated: 2026-03-17T23:06:38Z
+  Updated: 2026-07-10T05:37:26Z
   Vendor: Ionmax
   Product Type: Air Purifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Lavish_ION350_2_Filter_Bundle.jpg?v=1773635527
   Price: $478.00 AUD
 - [Ionmax Lavish Plus Air Purifier Filter Bundle - Ionmax Australia](https://ionmax.com.au/products/ionmax-lavish-plus-ion530-filter-bundle): Breathe cleaner air with the Ionmax Lavish Plus filter bundle! Enjoy 99.97% effectiveness against viruses & added savings with free filters. Shop now.
-  Updated: 2026-05-09T05:14:18Z
+  Updated: 2026-06-27T10:31:46Z
   Vendor: Ionmax
   Product Type: Air Purifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Lavish_Plus_ION530_2_Filter_Bundle.jpg?v=1773635974
   Price: $598.00 AUD
 - [Ionmax Venta ION615 Desiccant Dehumidifier Filter Bundle](https://ionmax.com.au/products/ionmax-venta-ion615-filter-bundle): Keep your home fresh and dry with the Ionmax Venta desiccant dehumidifier bundle! Removes up to 8L daily while purifying air with a H13 HEPA filter. Shop now.
-  Updated: 2026-05-22T14:21:13Z
+  Updated: 2026-07-16T08:55:22Z
   Vendor: Ionmax
   Product Type: Dehumidifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Venta_ION615_2_Filter.jpg?v=1773636745
   Price: $544.00 AUD
 - [Ionmax Vienne ION630 Desiccant Dehumidifier Filter Bundle](https://ionmax.com.au/products/ionmax-vienne-ion630-filter-bundle): Remove 10L moisture daily with Ionmax Vienne desiccant dehumidifier bundle! Ideal for the Australian climate. CHOICE recommended & Sensitive Choice .
-  Updated: 2026-06-21T04:01:37Z
+  Updated: 2026-07-09T11:43:57Z
   Vendor: Ionmax
   Product Type: Dehumidifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Vienne_ION630_2_Filter.jpg?v=1773636610
   Price: $588.00 AUD
 - [Ionmax Leone Pro ION626 Compressor Dehumidifier Filter Bundle](https://ionmax.com.au/products/ionmax-leone-pro-ion626-filter-bundle): Remove up to 25L of moisture daily with the Ionmax Leone Pro dehumidifier and HEPA air purifier bundle. Compact, efficient and Wi-Fi enabled for easy control.
-  Updated: 2026-06-16T23:54:36Z
+  Updated: 2026-06-29T05:00:47Z
   Vendor: Ionmax
   Product Type: Dehumidifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Leone_Pro_2_Filter.jpg?v=1773636494
   Price: $596.00 AUD
 - [Ionmax Rhine Pro ION651 Compressor Dehumidifier Filter Bundle](https://ionmax.com.au/products/ionmax-rhine-pro-ion651-filter-bundle): Powerful dehumidifier & HEPA air purifier in one bundle. Removes up to 50L moisture daily. Breathe cleaner air. Smart WiFi control with mobile app. Shop now!
-  Updated: 2026-06-06T05:30:06Z
+  Updated: 2026-07-16T15:17:22Z
   Vendor: Ionmax
   Product Type: Dehumidifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/Rhine_Pro_2_Filter.jpg?v=1773636275
   Price: $698.00 AUD
+- [Winter Wellness Starter Pack](https://ionmax.com.au/products/winter-wellness-starter-pack): Beat winter mould, dampness, and chills with the Ionmax Winter Wellness Pack. Complete indoor climate control featuring a heater, dehumidifier, and air monitor.
+  Updated: 2026-07-16T11:06:23Z
+  Vendor: Ionmax
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0559/3658/1764/files/WinterWellnessStarterPack.webp?v=1782890831
+  Price: $949.00 AUD
 
 ## Collections
 
-- [HEPA filters, replacement filters & accessories - Ionmax Australia](https://ionmax.com.au/collections/filters-and-accessories): Buy HEPA filters, replacement filters & other accessories for your Ionmax air purifier, dehumidifier or humidifier. Fast shipping from Ionmax. Shop now!
-  Updated: 2026-06-24T11:13:19Z
+- [Replacement filters & accessories](https://ionmax.com.au/collections/filters-and-accessories): Buy HEPA filters, replacement filters & other accessories for your Ionmax air purifier, dehumidifier or humidifier. Fast shipping from Ionmax. Shop now!
+  Updated: 2026-07-16T11:12:36Z
   Total Products: 31
 - [Smart Products Filter Index - Do not delete](https://ionmax.com.au/collections/globofilter-best--products-index)
-  Updated: 2026-06-24T11:13:19Z
-  Total Products: 98
-- [Dehumidifiers Australia | Shop Ionmax Dehumidifiers](https://ionmax.com.au/collections/dehumidifiers): Protect your home from mould with the best dehumidifiers in Australia. 2+2 years warranty, Choice recommended & Sensitive Choice . Shop now!
-  Updated: 2026-06-24T11:13:19Z
+  Updated: 2026-07-16T11:12:36Z
+  Total Products: 99
+- [Dehumidifiers](https://ionmax.com.au/collections/dehumidifiers): Protect your home from mould with the best dehumidifiers in Australia. 2+2 years warranty, Choice recommended & Sensitive Choice . Shop now!
+  Updated: 2026-07-16T11:12:36Z
   Total Products: 17
-- [Humidifiers to combat dry air - Ionmax Australia](https://ionmax.com.au/collections/humidifiers): Ease your skin and respiratory irritation caused by dry air with Ionmax humidifiers. 2 years warranty, extendable. Free shipping for orders over $500.
+- [Humidifiers](https://ionmax.com.au/collections/humidifiers): Ease your skin and respiratory irritation caused by dry air with Ionmax humidifiers. 2 years warranty, extendable. Free shipping for orders over $500.
   Updated: 2026-06-14T11:11:03Z
   Total Products: 2
-- [Air Purifiers | UV HEPA Air Purifiers | Ionmax Australia](https://ionmax.com.au/collections/air-purifiers): Ionmax UV HEPA air purifiers with up to 6 stages of filtration for healthy & clean indoor air. 4 years warranty. Shop the best air purifiers in Australia.
-  Updated: 2026-06-24T11:13:19Z
+- [Air Purifiers](https://ionmax.com.au/collections/air-purifiers): Ionmax UV HEPA air purifiers with up to 6 stages of filtration for healthy & clean indoor air. 4 years warranty. Shop the best air purifiers in Australia.
+  Updated: 2026-07-16T03:16:38Z
   Total Products: 19
-- [Far Infrared Heaters  - Ionmax Australia](https://ionmax.com.au/collections/heaters): Get cosy and stay warm during the winter season with Ionmax far infrared heaters. 2 years warranty, extendable. Free shipping for orders over $500.
-  Updated: 2026-06-06T11:11:52Z
+- [Heaters](https://ionmax.com.au/collections/heaters): Get cosy and stay warm during the winter season with Ionmax far infrared heaters. 2 years warranty, extendable. Free shipping for orders over $500.
+  Updated: 2026-07-09T11:13:03Z
   Total Products: 1
-- [Extended Warranty for air purifiers & dehumidifiers - Ionmax Australia](https://ionmax.com.au/collections/extended-warranty): Buy 2 years extended warranty for your Ionmax dehumidifier, air purifier, heater or humidifier to extend your warranty to a total of 4 years! Covered in Australia.
-  Updated: 2026-06-17T11:09:49Z
+- [Extended Warranty](https://ionmax.com.au/collections/extended-warranty): Buy 2 years extended warranty for your Ionmax dehumidifier, air purifier, heater or humidifier to extend your warranty to a total of 4 years! Covered in Australia.
+  Updated: 2026-07-01T11:13:04Z
   Total Products: 24
-- [ on Ionmax air purifiers, dehumidifiers & more](https://ionmax.com.au/collections/): Shop the latest air purifiers for Australian homes & dehumidifiers for all climates only on Ionmax! Aus warranty & fast shipping. Shop the latest  now.
-  Updated: 2026-06-24T11:13:19Z
-  Total Products: 14
+- [Winter Wellness](https://ionmax.com.au/collections/): Shop the latest air purifiers for Australian homes & dehumidifiers for all climates only on Ionmax! Aus warranty & fast shipping. Shop the latest  now.
+  Updated: 2026-07-16T11:12:36Z
+  Total Products: 5
 - [Air Purifiers (Filterable)](https://ionmax.com.au/collections/air-purifiers-filterable)
-  Updated: 2026-06-24T11:13:19Z
+  Updated: 2026-07-10T11:14:34Z
   Total Products: 17
 - [Air ](https://ionmax.com.au/collections/air-)
-  Updated: 2026-06-24T11:13:19Z
+  Updated: 2026-07-16T11:12:36Z
   Total Products: 37
 - [View all Ionmax products](https://ionmax.com.au/collections/all): Buy air quality  appliances from CHOICE recommended and Sensitive Choice  dehumidifiers to UV HEPA air purifiers for your home or office.
-  Updated: 2026-06-24T11:13:19Z
+  Updated: 2026-07-16T11:12:36Z
   Total Products: 46
-- [Shop Desiccant Dehumidifiers | Sensitive Choice ](https://ionmax.com.au/collections/desiccant-dehumidifiers): Shop the best desiccant dehumidifiers & prevent mould & mildew all year long. 2+2 years warranty. Choice recommended & Sensitive Choice . Shop now.
-  Updated: 2026-06-24T11:13:19Z
+- [Desiccant Dehumidifiers](https://ionmax.com.au/collections/desiccant-dehumidifiers): Shop the best desiccant dehumidifiers & prevent mould & mildew all year long. 2+2 years warranty. Choice recommended & Sensitive Choice . Shop now.
+  Updated: 2026-07-16T11:12:36Z
   Total Products: 9
-- [Compressor Dehumidifiers | Sensitive Choice ](https://ionmax.com.au/collections/compressor-dehumidifiers): Remove moisture up to 50L/daily with compressor dehumidifiers. Prevent mould & mildew.  Sensitive Choice . 2+2 years warranty. Shop the range now.
-  Updated: 2026-06-20T11:13:54Z
+- [Compressor Dehumidifiers](https://ionmax.com.au/collections/compressor-dehumidifiers): Remove moisture up to 50L/daily with compressor dehumidifiers. Prevent mould & mildew.  Sensitive Choice . 2+2 years warranty. Shop the range now.
+  Updated: 2026-07-16T03:16:38Z
   Total Products: 4
-- [Filter Subscription Plans for Ionmax Air Purifiers](https://ionmax.com.au/collections/filter-subscription-plans): Get 10 to 15% off replacement filters via subscription. Choose your preferred delivery frequency. Subscribe to an air purifier filter management plan now.
-  Updated: 2026-06-24T11:13:19Z
+- [Filter Subscription Plans](https://ionmax.com.au/collections/filter-subscription-plans): Get 10 to 15% off replacement filters via subscription. Choose your preferred delivery frequency. Subscribe to an air purifier filter management plan now.
+  Updated: 2026-07-16T11:12:36Z
   Total Products: 14
-- [Air Purifiers & Dehumidifiers | Sensitive Choice & CHOICE Recommended](https://ionmax.com.au/collections/sensitive-choice-dehumidifiers-air-purifiers): Shop CHOICE Recommended & Sensitive Choice  air purifiers & dehumidifiers to reduce allergies, asthma triggers, mould & improve indoor air quality.
-  Updated: 2026-06-24T11:13:19Z
+- [CHOICE Recommended & Sensitive Choice  dehumidifiers & air purifiers](https://ionmax.com.au/collections/sensitive-choice-dehumidifiers-air-purifiers): Shop CHOICE Recommended & Sensitive Choice  air purifiers & dehumidifiers to reduce allergies, asthma triggers, mould & improve indoor air quality.
+  Updated: 2026-07-14T11:13:43Z
   Total Products: 8
-- [Ionmax Air Purifiers Value Bundles with Air Filters](https://ionmax.com.au/collections/air-purifiers-bundles): Explore Ionmax Air Purifier Value Bundles for cleaner air and more savings!
-  Updated: 2026-06-01T11:12:13Z
+- [Air Purifier Bundles](https://ionmax.com.au/collections/air-purifiers-bundles): Explore Ionmax Air Purifier Value Bundles for cleaner air and more savings!
+  Updated: 2026-07-10T11:14:34Z
   Total Products: 8
-- [24/7 Dehumidifiers - Industrial Desiccant Dehumidifiers](https://ionmax.com.au/collections/industrial-dehumidifiers): Shop high performance industrial & commercial dehumidifiers in Australia. Remove up to 19L of moisture & prevent mould 24/7. 2 years warranty. Shop now!
+- [24/7 Industrial Dehumidifiers](https://ionmax.com.au/collections/industrial-dehumidifiers): Shop high performance industrial & commercial dehumidifiers in Australia. Remove up to 19L of moisture & prevent mould 24/7. 2 years warranty. Shop now!
   Updated: 2026-06-19T11:13:20Z
   Total Products: 3
-- [EOFY  – Up to 20% Off Air Purifiers & Dehumidifiers](https://ionmax.com.au/collections/eofy): Up to 20% off Ionmax air purifiers and dehumidifiers this EOFY. Breathe cleaner air and control indoor humidity for less. Shop our biggest  of the year!
-  Updated: 2026-06-24T11:13:19Z
+- [Ionmax EOFY ](https://ionmax.com.au/collections/eofy): Up to 20% off Ionmax air purifiers and dehumidifiers this EOFY. Breathe cleaner air and control indoor humidity for less. Shop our biggest  of the year!
+  Updated: 2026-07-16T11:12:36Z
   Total Products: 8
 - [Afterpay Day](https://ionmax.com.au/collections/afterpay-day)
-  Updated: 2026-06-24T11:13:19Z
+  Updated: 2026-07-16T03:16:38Z
   Total Products: 15
 - [HEPA Air Purifiers](https://ionmax.com.au/collections/hepa-air-purifiers)
-  Updated: 2026-06-24T11:13:19Z
+  Updated: 2026-07-06T11:11:44Z
   Total Products: 7
 - [Other air quality essentials](https://ionmax.com.au/collections/other-air-quality-essentials)
-  Updated: 2026-06-14T11:11:03Z
+  Updated: 2026-07-09T11:13:03Z
   Total Products: 3
-- [Ionmax Dehumidifier Value Bundles with Filters](https://ionmax.com.au/collections/dehumidifier-bundles): Explore Ionmax Dehumidifier Value Bundles for cleaner air and more savings!
-  Updated: 2026-06-21T11:11:57Z
+- [Dehumidifier Bundles](https://ionmax.com.au/collections/dehumidifier-bundles): Explore Ionmax Dehumidifier Value Bundles for cleaner air and more savings!
+  Updated: 2026-07-16T11:12:36Z
   Total Products: 4
 
 ## Blogs
 
-- [Resources on indoor air quality management in Australia](https://ionmax.com.au/blogs/resources): Everything you need to know on indoor air quality management in Australia to maintain a healthy indoor environment to live in for you and your loved ones.
+- [Resources](https://ionmax.com.au/blogs/resources): Everything you need to know on indoor air quality management in Australia to maintain a healthy indoor environment to live in for you and your loved ones.
   - [How desiccant dehumidifiers work](https://ionmax.com.au/blogs/resources/how-desiccant-dehumidifiers-work): Desiccant dehumidifiers are known to perform well even in cold climates. Here's how they dehumidify the air and self-regenerate, requiring no maintenance.
     Updated: 2023-06-28T04:51:33Z
     Author: Ionmax Australia
@@ -572,7 +579,7 @@
     Author: Ionmax Australia
     Tags: Air purification
   - [The benefits of using a far-infrared heater during winter](https://ionmax.com.au/blogs/resources/benefits-of-far-infrared-heater): Far-infrared heaters surpass conventional heaters in terms of energy-saving capabilities and heating performance, making them an ideal choice for winter.
-    Updated: 2024-09-20T00:15:49Z
+    Updated: 2026-07-01T03:25:43Z
     Author: Ionmax Australia
     Tags: Heating
   - [How negative ions contribute to a better indoor air quality](https://ionmax.com.au/blogs/resources/negative-ions-better-air-quality): Found in abundance in nature, negative ions improve indoor air quality by facilitating the removal of airborne pollutants and inhibiting the transmission of germs.
@@ -1009,7 +1016,7 @@
     Author: Ionmax Australia
     Tags: Dehumidification
   - [FIR heaters vs. oil heaters: Which is the better choice?](https://ionmax.com.au/blogs/resources/fir-heaters-vs-oil-heaters): Choosing between an FIR heater and an oil heater? FIR heaters provide instant, energy-efficient heat, while oil heaters slowly warm the air. Find out which one suits your needs and why the Ionmax Ray FIR heater is a top choice for Australian homes.
-    Updated: 2025-03-26T04:05:01Z
+    Updated: 2026-07-01T03:26:11Z
     Author: Ionmax Australia
     Tags: Heating
   - [Can a humidifier help with congestion?](https://ionmax.com.au/blogs/resources/can-a-humidifier-help-with-congestion): Struggling with congestion? Dry air, allergies, and colds can make it harder to breathe. A humidifier adds moisture to the air, helping to loosen mucus, soothe airways, and relieve nasal congestion. But should you use cool or warm mist?
@@ -1275,7 +1282,17 @@
     Updated: 2026-06-24T07:03:52Z
     Author: Andatech Marketing
     Tags: clean air, Dehumidification, Heating
-- [Latest press releases from Ionmax](https://ionmax.com.au/blogs/press-releases): Read more on recent happenings at Ionmax regarding product launches, product updates, air  technologies, and more.
+  - [Why Conventional Heaters Threaten Your Indoor Air Quality](https://ionmax.com.au/blogs/resources/why-conventional-heaters-threaten-your-indoor-air-quality): <div class="markdown markdown-main-panel enable-luminous-fast-follows enable-updated-hr-color stronger tutor-markdown-rendering" id="model-response-message-contentr_08c0a5cd46ffde15" aria-busy="false" aria-live="polite" dir="ltr">
+<p data-path-to-node="0">Conventional heaters ruin air quality by spreading dust and trapping mold. Protect your home and breathe easy with the Ionmax Winter Wellness bundle.</p>
+</div>
+    Updated: 2026-07-08T01:10:50Z
+    Author: Andatech Marketing
+    Tags: Heating, indoor air quality, winter
+  - [Breathing Easy When the Rain Pours: Why Your Home Needs an Air Purifier This Rainy Season](https://ionmax.com.au/blogs/resources/breathing-easy-when-the-rain-pours-why-your-home-needs-an-air-purifier-this-rainy-season): <p>Beat the wet season damp! Discover why air purifiers are a rainy day essential and how Ionmax 2-in-1 systems eliminate mold spores and musty odors.</p>
+    Updated: 2026-07-15T03:21:20Z
+    Author: Andatech Marketing
+    Tags: Air purification, australian air quality, indoor air quality
+- [Press releases](https://ionmax.com.au/blogs/press-releases): Read more on recent happenings at Ionmax regarding product launches, product updates, air  technologies, and more.
   - [Kick away the winter blues with far infrared heating](https://ionmax.com.au/blogs/press-releases/kick-away-the-winter-blues-with-far-infrared-heating)
     Updated: 2024-09-23T01:23:27Z
     Author: Andatech Admin
@@ -1311,7 +1328,7 @@
     Updated: 2026-02-10T00:50:34Z
     Author: Andatech Marketing
     Tags: Air purification, allergies, asthma, clean air, Dehumidification, Heating, Humidification
-- [Manuals of Ionmax air  products](https://ionmax.com.au/blogs/manuals): Read online or print manuals of your Ionmax air  products here.
+- [Manuals](https://ionmax.com.au/blogs/manuals): Read online or print manuals of your Ionmax air  products here.
   - [Ionmax Breeze user manual](https://ionmax.com.au/blogs/manuals/ionmax-breeze): <p><em>v1.6. Updated Jan 2023.</em></p>
 <p>Please read the user manual to ensure safe and proper usage.</p>
 <p>Please read the instructions carefully before using and be sure to keep the user manual where it is easily accessible for future reference.</p>
