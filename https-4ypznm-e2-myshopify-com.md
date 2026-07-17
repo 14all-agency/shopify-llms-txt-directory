@@ -1,81 +1,85 @@
 # MIMO Pets (https://4ypznm-e2.myshopify.com)
 
 - Domain: https://4ypznm-e2.myshopify.com
-- Locale: en
+- Locale: es
 - Currency: EUR
 - Timezone: Europe/Madrid
 - Created At: 2026-07-07T13:53:31Z
 - Contact Email: mimopets@outlook.es
-- Updated At: 2026-07-09T15:49:08.616Z
+- Updated At: 2026-07-17T00:00:28.582Z
 
 ## Products
 
 - [Cepillo Autolimpiante 2 en 1 para Perros y Gatos](https://4ypznm-e2.myshopify.com/products/cepillo-autolimpiante-2-en-1-para-perros-y-gatos): Adiós al pelo por toda la casa. El cepillo que recoge el pelo suelto de tu mascota y lo expulsa solo con un botón — sin ensuciarte las manos. 🐾 Retira el pelo muerto y los enredos en una pasada ✨ Autolimpiante: pulsa el botón y las púas se retraen soltando todo el pelo 🐶 Ideal para perros y gatos de pelo corto y largo 💆 Cerdas suaves tipo masaje: tu mascota lo disfruta 🚚 Envío rápido desde España Disponible en rosa y azul.
-  Updated: 2026-07-09T15:24:07Z
+  Updated: 2026-07-11T12:30:10Z
   Vendor: MIMO Pets
   Product Type: Aseo para mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-cepillo-autolimpiante-3_e0734266-d575-423a-8546-2f108918ca6a.png?v=1783532886
+  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-cepillo-autolimpiante-08-rosa.png?v=1783629116
   - [Rosa](https://4ypznm-e2.myshopify.com/products/cepillo-autolimpiante-2-en-1-para-perros-y-gatos?variant=62646390292810)
     Availability: Available
-    Price: €19.90 EUR
+    Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-cepillo-autolimpiante-08-rosa.png?v=1783629116
+    Price: 19,90 € EUR
   - [Azul](https://4ypznm-e2.myshopify.com/products/cepillo-autolimpiante-2-en-1-para-perros-y-gatos?variant=62646390325578)
     Availability: Available
-    Price: €19.90 EUR
+    Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-cepillo-autolimpiante-11.png?v=1783629116
+    Price: 19,90 € EUR
 - [Recortadora de Pelo para Mascotas (Kit Completo)](https://4ypznm-e2.myshopify.com/products/recortadora-de-pelo-para-mascotas-kit-completo): La peluquería en casa por menos de lo que cuesta una sola sesión. Recortadora eléctrica silenciosa para recortar y perfilar el pelo de tu perro o gato sin estrés. 🔇 Motor de bajo ruido: no asusta a tu mascota 🔋 Batería recargable por USB, sin cables ✂️ Kit completo: cabezales, peine guía, aceite y cepillo de limpieza 🐕 Perfecta para patas, cara y retoques entre peluquerías 🚚 Envío rápido desde España
-  Updated: 2026-07-09T15:24:07Z
+  Updated: 2026-07-11T12:25:40Z
   Vendor: MIMO Pets
   Product Type: Aseo para mascotas
   Availability: Available
-  Price: €26.90 EUR
+  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-recortadora-03.png?v=1783628841
+  Price: 26,90 € EUR
 - [Secador y Cepillo 2 en 1 para Mascotas](https://4ypznm-e2.myshopify.com/products/secador-y-cepillo-2-en-1-para-mascotas): Seca y cepilla a la vez. El secador con cepillo integrado que deja el pelaje de tu perro o gato suave y desenredado en la mitad de tiempo — pensado para la piel sensible de las mascotas. 🌡️ Temperatura templada segura, no quema la piel 🪮 Cepillo integrado: secas y desenredas en un solo gesto 🔇 Nivel de ruido reducido para no estresar al animal 🐩 Ideal tras el baño, perros y gatos de todo tipo de pelo 🚚 Envío rápido desde España
-  Updated: 2026-07-09T15:24:07Z
+  Updated: 2026-07-11T12:26:03Z
   Vendor: MIMO Pets
   Product Type: Aseo para mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-secador-cepillo-1.png?v=1783532834
-  Price: €32.90 EUR
+  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-secador-02.png?v=1783629152
+  Price: 32,90 € EUR
 - [Cepillo de Vapor para Mascotas](https://4ypznm-e2.myshopify.com/products/cepillo-de-vapor-para-mascotas): Un mini spa en cada cepillado. El cepillo de vapor que humedece ligeramente el pelaje mientras cepilla: desprende el pelo muerto, deshace enredos y relaja a tu mascota. 💨 Vapor suave que ablanda enredos y arrastra el pelo suelto 💆 Efecto masaje: tu perro o gato lo disfruta 🧴 Depósito recargable, fácil de usar 🐱 Perfecto para gatos y perros de pelo medio y largo 🚚 Envío rápido desde España
-  Updated: 2026-07-09T15:24:07Z
+  Updated: 2026-07-11T12:27:05Z
   Vendor: MIMO Pets
   Product Type: Aseo para mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-cepillo-vapor-1_2a1f7573-4096-4ec7-a7a4-4cd35253e393.png?v=1783532859
-  Price: €18.90 EUR
+  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-cepillo-vapor-02.png?v=1783629132
+  Price: 18,90 € EUR
 - [Manopla Quitapelos para Mascotas](https://4ypznm-e2.myshopify.com/products/manopla-quitapelos-para-mascotas): Acaricia y cepilla al mismo tiempo. Guante de silicona de doble cara que recoge el pelo suelto de tu mascota mientras la acaricias — el pelo se despega de un tirón, listo para tirar. 🖐️ Doble dirección de cerdas: recoge más pelo en menos pasadas 🐾 Tan suave que parece una caricia, ideal para mascotas nerviosas 🛋️ Sirve también para retirar pelo de sofás y ropa 🧼 Se limpia en segundos, reutilizable 🚚 Envío rápido desde España
-  Updated: 2026-07-09T15:24:08Z
+  Updated: 2026-07-11T09:26:15Z
   Vendor: MIMO Pets
   Product Type: Aseo para mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-guante-grooming-1_f3432a40-3ea2-487b-97f8-750dcdd103b9.png?v=1783532909
-  Price: €14.90 EUR
+  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-manopla-quitapelos-01.png?v=1783629178
+  Price: 14,90 € EUR
 - [Limpiador de Patas para Perro](https://4ypznm-e2.myshopify.com/products/limpiador-de-patas-para-perro): Patas limpias en 3 segundos, sin montar el numerito del baño. Vaso limpiador con cerdas de silicona suave: metes la pata, giras y  limpia. Se acabó el barro por toda la casa después del paseo. 🐾 Cerdas de silicona que limpian sin dañar la almohadilla 💧 Solo necesita un poco de agua 🏠 Perfecto para días de lluvia y barro 🧽 Fácil de vaciar y limpiar 🚚 Envío rápido desde España
-  Updated: 2026-07-09T15:24:08Z
+  Updated: 2026-07-11T09:26:19Z
   Vendor: MIMO Pets
   Product Type: Aseo para mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-limpiador-patas-1_c8bc6346-6188-4f2f-ba5c-c4debced2872.png?v=1783532807
-  Price: €16.90 EUR
+  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-limpiador-patas-02.png?v=1783629159
+  Price: 16,90 € EUR
 - [Pack 2 Rodillos Quitapelos Lavables](https://4ypznm-e2.myshopify.com/products/pack-2-rodillos-quitapelos-lavables): Un rodillo que no se acaba nunca. Pack de 2 rodillos quitapelos reutilizables: retiran el pelo de sofás, ropa, coche y cama, y se limpian con agua. Sin recambios, sin desperdicio. ♻️ Reutilizable y lavable: adiós a los rollos de usar y tirar 🛋️ Sofá, ropa, asientos del coche, sábanas… todo 👜 Uno para casa y uno de viaje 🐶 Pensado para hogares con perro o gato 🚚 Envío rápido desde España
-  Updated: 2026-07-09T15:24:08Z
+  Updated: 2026-07-11T09:26:15Z
   Vendor: MIMO Pets
   Product Type: Aseo para mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-rodillo-quitapelos-1_fe8c9ae0-d707-49a3-a0f0-4da725ff945a.png?v=1783532944
-  Price: €12.90 EUR
+  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-rodillo-01.png?v=1783629189
+  Price: 12,90 € EUR
 - [Toallitas de Limpieza para Mascotas (Pack)](https://4ypznm-e2.myshopify.com/products/toallitas-de-limpieza-para-mascotas-pack): Limpieza rápida entre baños. Toallitas suaves e hipoalergénicas para patas, cara y pelaje: limpian el polvo, el barro y la suciedad del día a día sin necesidad de agua. 🌿 Fórmula suave e hipoalergénica, apta para uso frecuente 🐾 Ideales para patas después del paseo, cara y pliegues 👜 Formato práctico para casa y viaje 🔁 Producto de recompra: se acaban y se reponen 🚚 Envío rápido desde España
-  Updated: 2026-07-09T15:24:08Z
+  Updated: 2026-07-11T09:26:15Z
   Vendor: MIMO Pets
   Product Type: Aseo para mascotas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-toallitas-guante-1_e4ee5696-5862-49ca-858e-2163ecfd02ff.png?v=1783532969
-  Price: €11.90 EUR
+  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-toallitas-02.png?v=1783629197
+  Price: 11,90 € EUR
 - [Juguete Mordedor Dental para Perros](https://4ypznm-e2.myshopify.com/products/juguete-mordedor-dental-para-perros): Juega y cuida su boca a la vez. Juguete mordedor con relieve pensado para que tu perro lo muerda mientras se entretiene. Un accesorio de enriquecimiento para el día a día. 🦴 Material resistente apto para morder 🐕 Mantiene a tu perro entretenido y activo 🪥 Diseño con textura para sus ratos de mordisqueo 🧼 Fácil de lavar y reutilizar 🚚 Envío rápido desde España Supervisa siempre a tu mascota mientras usa el juguete.
-  Updated: 2026-07-09T15:24:08Z
+  Updated: 2026-07-11T21:37:39Z
   Vendor: MIMO Pets
   Product Type: Juguetes para mascotas
   Availability: Available
-  Price: €15.90 EUR
+  Image: https://cdn.shopify.com/s/files/1/1058/6501/9722/files/mimo-mordedor-01.png?v=1783762654
+  Price: 15,90 € EUR
 
 ## Collections
 
@@ -102,11 +106,11 @@
 ## Policies
 
 - [Privacy Policy](https://4ypznm-e2.myshopify.com/policies/privacy-policy)
-  Updated: 2026-07-07T15:53:36+02:00
+  Updated: 2026-07-09T19:10:13+02:00
 - [Refund Policy](https://4ypznm-e2.myshopify.com/policies/refund-policy)
-  Updated: 2026-07-09T17:39:13+02:00
+  Updated: 2026-07-11T12:08:44+02:00
 - [Terms of Service](https://4ypznm-e2.myshopify.com/policies/terms-of-service)
-  Updated: 2026-07-09T17:39:40+02:00
+  Updated: 2026-07-11T12:09:12+02:00
 - [Contact Information](https://4ypznm-e2.myshopify.com/policies/contact-information)
   Updated: 2026-07-09T17:40:10+02:00
 
