@@ -8,7 +8,7 @@
 - Contact Email: hello@aytexcel.com
 - Contact Phone: +91 98200 22205
 - Address: Esperanza, 1101/02, Linking Rd, next to Just in Time, Bandra West, Mumbai, Maharashtra 400050
-- Updated At: 2026-07-07T00:00:37.658Z
+- Updated At: 2026-07-17T00:00:38.132Z
 
 # Aytexcel — India's Premier Destination for Premium Home Projectors & Home Cinema
 
@@ -473,7 +473,7 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/V104K.jpg?v=1737457082
   Price: ₹139,499.00 INR
 - [Formovie Xming Page One](https://aytexcel.com/products/xming-page-one): World's First Google TV LCD Projector with  Netflix Native 1080P Full HD Resolution 320 ISO Lumens 2000:1 Contrast Ratio 40-120 Inches Screen Powered by Boston Acoustics Dolby Audio Automatic Correction & Focus 2GB RAM and 16GB storage 2.4GHz/5GHz dual-band Wi-Fi & Bluetooth 5.0 Stream It All in One Place Xming Page One delivers entertainment without limitations with more than 700,000 viewingoptions across 10,000+ apps, including  Netflix. Elevate Your Audio Experience Dolby Audio Immerse Yourself in Sound The sound system is also enhanced with Dolby Audio which works to produce a clearer and more dynamic sound by perfectly adjusting the volume levels and canceling background noise.
-  Updated: 2026-04-01T06:54:49Z
+  Updated: 2026-07-14T06:53:27Z
   Vendor: AYTEXCEL 
   Product Type: 
   Availability: Available
@@ -550,13 +550,6 @@ Our expert team is standing by to help you choose the perfect projector and scre
   - [100" inch / White](https://aytexcel.com/products/vividstorm-s-pro-electric-tension-floor-screen-for-ust-projector-aytexcel?variant=46687096275202)
     Availability: Not Available
     Price: ₹165,000.00 INR
-- [Hisense PX3-Pro](https://aytexcel.com/products/hisense-px3-pro): 1.Experience the cutting-edge LPU Technology for exceptional picture quality featuring enhanced contrast and clarity. 2. See a wide spectrum of over one billion colors with the Triple Laser Light Source. 3. Endless content with Google TV. 4. Enjoy action-packed and powerful images with IMAX Enhanced. 5. Step into the story with Dolby Vision & Atmos. 6. Designed for Xbox for smooth, lag-free gaming.
-  Updated: 2026-06-18T03:26:28Z
-  Vendor: AYTEXCEL 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/JMGO_picoplay_14.jpg?v=1772455313
-  Price: ₹360,000.00 INR
 - [Hisense C2 Ultra](https://aytexcel.com/products/hisense-c2-ultra): Brightness of 3000 Lumens UHD 4K (3840 x 2160) Native Resolution 0.9 to 1.5:1 Throw Ratio Integrated Tilt & Swivel Stand Full HD at 240 Hz & 4K at 60 Hz Refresh Supports HDR, HLG & Dolby Vision Auto Magic AI Image Adjustment 40W 2.1-Channel JBL Speaker System Wi-Fi 6E & Bluetooth 5.3 Works with Apple AirPlay 2 & Home
   Updated: 2026-06-23T14:18:57Z
   Vendor: AYTEXCEL 
@@ -565,7 +558,7 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/side_01.jpg?v=1737617362
   Price: ₹265,000.00 INR
 - [Dangbei Atom](https://aytexcel.com/products/dangbei-atom): Google TV™ with Built-in Netflix: Stream everything in one place from over 10,000 apps, featuring 700,000+ movies and shows from officially licensed Netflix, YouTube, Prime Video, Disney+, Hulu, and more. Laser-Powered Brilliance: Illuminate every detail of your content with the dazzling brightness of 1200 ISO lumens, powered by ALPD® laser technology. Easy to Carry: Sleek at 1.87 inches thin and weighing just 2.82 lbs—lighter than a standard laptop. Atom allows you to effortlessly carry it to different rooms in your home. Bring the Theater Home: Immerse yourself in a stunning up to 180-inch 1080p image, supported by HDR10. Experience theater-quality sound, delivered through dual 5W built-in speakers with Dolby Audio. Lightning Fast Setup: Smart features such as autofocus, keystone correction, screen fit and obstacle avoidance ensure a clear, rectangular, and perfect image in seconds. All Your Favorite Content in One Place Atom’s Google TV integration lets you browse 700,000+* movies and shows from top streaming services like Netflix, YouTube, Prime Video, Hulu, Disney+, and more – all in one place. *US only, otherwise 400,000+.
-  Updated: 2026-03-03T00:52:12Z
+  Updated: 2026-07-14T06:53:26Z
   Vendor: AYTEXCEL 
   Product Type: 
   Availability: Available
@@ -656,12 +649,12 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/6.jpg?v=1750940841
   Price: ₹49,999.00 INR
 - [Hisense L9HE 120-Inch 4K Laser TV | Triple Laser, Dolby Vision](https://aytexcel.com/products/hisense-l9he): Discover the Hisense L9HE 120-inch 4K laser TV with triple laser technology, Dolby Vision, 3000 lumens, and immersive home cinema performance.
-  Updated: 2026-06-18T03:27:49Z
+  Updated: 2026-07-08T07:31:07Z
   Vendor: AYTEXCEL 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/HisenseL9HE.jpg?v=1750941196
-  Price: ₹480,000.00 INR
+  Price: ₹399,999.00 INR
 - [Dangbei MP1 MAX](https://aytexcel.com/products/mp1-max): New Dangbei MP1 Max Dangbei MP1 Max is a 4K Home Projector with Google TV and Licensed Netflix that brings theater-quality visual and audio. It delivers 3100 ISO Lumens, vivid colors. Sharp 4K image with high brightness: The high brightness of 3100 ISO lumens delivers clear images even in the daytime, while the ultra-wide color gamut of 110% BT.2020 and professional-level color accuracy (ΔE<1) provide powerful and realistic images. Equipped with next-generation Triple laser + LED technology: Dangbei MP1 Max's Triple laser + LED technology harnesses the NICHIA's QuaLas lasers breakthrough to deliver outstanding image quality from the source, achieving enhanced brightness, superior color saturation, and unprecedented viewing comfort. Google TV OS with Licensed Netflix: It offers access to over 10,000 apps and more than 700,000 movies and TV shows, including YouTube, Prime Video, Disney+, Hulu, and licensed Netflix, delivering endless entertainment at your fingertips. Built-in Stand x InstanPro AI Image Setup: Its 135° vertical tilt & 360° horizontal rotation stand, combined with InstanPro AI Image Setup. Features like Auto Focus, Auto Keystone Correction, Screen Fit, Obstacle Avoidance, Real-Time Keystone Correction, Eye Protection, and AI Brightness Adjustment, making every viewing position perfect for the show. Theater-quality sound: With its 750cc Acoustic chamber and bass reflex design, it produces deep 45 Hz low and immersive surround audio that transforms your living room into a grand concert hall.
   Updated: 2026-06-24T13:04:57Z
   Vendor: AYTEXCEL 
@@ -738,6 +731,13 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitled-jmgo_o2s.jpg?v=1781507477
   Price: ₹325,000.00 INR
+- [C1 Nano Compact Smart Flip Laser TV Cabinet For UST Projector](https://aytexcel.com/products/c1-nano-compact-smart-flip-laser-tv-cabinet-for-ust-projector): Flip Design with Ambient Glow – Flip open to reveal a built-in LED light strip that instantly creates a cinematic atmosphere. Compact & Mobile – Space-saving design fits perfectly in any room; easy to move between living room, bedroom, or office. Smart Projector Integration – Auto memory for your projector settings; just set once and enjoy seamless alignment every time. Silent Operation – Smooth and whisper-quiet lift system for distraction-free viewing. Child & Pet Safe – Anti-pinch sensors and obstacle detection ensure safe automatic stop when movement is detected.
+  Updated: 2026-07-14T06:53:26Z
+  Vendor: AYTEXCEL 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/c1_nano_jpg_01.jpg?v=1781871660
+  Price: ₹225,000.00 INR
 - [JMGO N3 4K](https://aytexcel.com/products/jmgo-n3-4k): 1.3× Optical Zoom: As the first model equipped with a 1.3× optical zoom module, it offers more flexible placement with a 1.0–1.3:1 throw ratio and enables lossless 4K image scaling. All-new self-developed MALC 3.0 pure triple laser：JMGO’s proprietary MALC 3.0 technology delivers cinema-level visuals with pure colors, exceptional contrast, and SGS- low speckle performance. Integrated flexible gimbal design：Supports 360° horizontal rotation and 160° vertical adjustment, allowing easy ceiling or multi-angle projection with a single touch. AI one-touch smart calibration：Features auto focus, keystone correction, screen fitting, and obstacle avoidance, ensuring a sharp, perfectly aligned image instantly after startup. Smart eye protection and immersive sound：Includes intelligent eye protection for safe viewing and JMGO Master Sound Hi-Fi audio with dual 10W speakers and Dolby Audio for a rich, cinematic experience. Enjoy the Latest Google TV：Built-in Google TV offers Netflix and other top streaming apps with one-click access, AI-powered recommendations, multi-user profiles, and over 10,000 available apps. N3 4K Highlights Closer Distance,Bigger Image Enjoy a larger screen with our 1.0-1.3x optical zoom module, bringing stunning visuals closer than ever. Redefining 4K Image Quality Pure, Precise, Powerful, Limitless Enjoy a Comfortable Viewing Experience SGS  with A+ low speckle performance for purer, more natural visuals. AI Image Correction, One-click auto-correction Forget the fuss. With one click, it intelligently scans your space and delivers a perfectly fitted projection with optimal clarity. MALC 3.0 4K Triple laser Higher speckle reduction rate, smaller size, and better heat dissipation performance. Real-time Non-contact Trapezoidal Correction and Focusing Supports 40''–300'' projection with real-time auto correction and focusing for a perfect view anytime. Google TV Built-in Discover over 10,000 Apps Offering Movies, Shows, Live TV sports, Fitness and Music.
   Updated: 2026-05-06T11:25:47Z
   Vendor: AYTEXCEL 
@@ -746,7 +746,7 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/JMGO_picoplay_11.jpg?v=1772455041
   Price: ₹150,000.00 INR
 - [JMGO Picoplay Power Bank Stand Bundle](https://aytexcel.com/products/jmgo-picoplay-power-bank-stand-bundle): 3-in-1 Entertainment Hub: PicoPlay integrates a mini projector, immersive Bluetooth speaker, and dynamic ambient light (Requires Optical Filter) to instantly set the mood for movies, parties, or chill sessions. Power Your Adventures: Connect to a 65W Type-C power bank or JMGO battery tripod (sold separately) for up to 3 hours of video or 7 hours of music on the go. Immersive Visual Feast: Enjoy stunning visuals with 400 ISO Lumens brightness (PicoPlay: 400, PicoPlay+:450), 90% DCI-P3 color, and crisp 1080P resolution—up to a massive 200 inches. Free Angles, Easy Control: Featuring an innovative 88° Rotating Gimbal with high-precision multiple control options and instant App access with customizable Action Button for seamless operation and effortless interaction. No More Wait: FlexiSmart delivers real-time autofocus, auto keystone, screen alignment, and eye protection—so you're ready to watch in seconds.
-  Updated: 2026-06-15T06:22:37Z
+  Updated: 2026-07-15T11:19:04Z
   Vendor: AYTEXCEL 
   Product Type: 
   Availability: Available
@@ -770,30 +770,58 @@ Our expert team is standing by to help you choose the perfect projector and scre
   - [130"](https://aytexcel.com/products/vividstorm-s-pro-p-plus-motorized-tension-floor-rising-screen-made-for-ultra-short-throw-laser-projectors?variant=47611356184834)
     Availability: Available
     Price: ₹235,000.00 INR
+- [Hisense XR10](https://aytexcel.com/products/hisense-xr10): Features: LPU 3.0 Digital Laser Engine Pure RGB triple-laser light source Up to 6,000 ANSI lumens Screen size support from 65″ to 300″ 16 all-glass lens system for improved light transmission and temperature stability Dynamic IRIS system with up to 6000:1 contrast Expanded BT.2020 color gamut Low speckle rate (as low as 6%) for a cleaner image Optical zoom from 0.84x to 2.0x Lens shift for easier vertical and horizontal positioning 4-camera + dual ToF intelligent sensing AI auto image adjustment Lossless side-projection correction up to ±15° Fully sealed microchannel liquid cooling system Compact chassis aimed at both dedicated home theater rooms and living-room setups
+  Updated: 2026-07-14T06:38:57Z
+  Vendor: AYTEXCEL 
+  Product Type: Long Throw Projector
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitled_design_12.png?v=1781158258
+  Price: ₹625,000.00 INR
+- [NECTUNT S-8 Smart Intelligent Electric Invisible UST Projector TV Cabinet](https://aytexcel.com/products/nectunt-s-8-smart-intelligent-electric-invisible-ust-projector-tv-cabinet): If you mean the NECTUNT S-8 Smart Intelligent Electric Invisible UST Projector TV Cabinet, it is not a projector itself. It is a premium motorized cabinet designed to hide and automatically extend an Ultra Short Throw (UST) projector. Key Visual Features: Hidden projector installation design Motorized slide-out mechanism One-button automatic operation Intelligent anti-collision safety system Memory function to save projector position Compatible with most UST laser projectors Suitable for 88" to 120" screens Designed for modern home theater setups Materials Rock plate top panel Solid wood + steel cabinet body Aluminum alloy + diamond glass doors "Transform your living room into a premium cinema with the NECTUNT S-8 Intelligent UST Cabinet. Featuring a hidden motorized projector lift, elegant furniture-grade design, and smart one-touch operation for a clutter-free home theater experience."
+  Updated: 2026-07-14T11:38:07Z
+  Vendor: AYTEXCEL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/H50999f797e6849fbb81ed43875d3ba999.avif?v=1781867898
+  Price: ₹228,000.00 INR
+- [NECTUNT F10 Smart Invisible Projection Cabinet | Motorized Projector Lift Cabinet | Premium Smart Home Solution](https://aytexcel.com/products/nectunt-f10-smart-invisible-projection-cabinet-motorized-projector-lift-cabinet-premium-smart-home-solution): Transform your living space with the NECTUNT F10 Smart Invisible Projection Cabinet, a premium motorized cabinet designed to conceal your projector when not in use. Featuring an automatic lift mechanism, elegant furniture-grade finish, and hidden cable management, the F10 delivers a clean, luxurious, and clutter-free home theatre experience. Key Highlights Automatic Motorized Lift System Concealed Projector Storage Premium White & Walnut Finish Clean Hidden Cable Management Strong & Durable Construction Quiet Lift Operation Ideal for Smart Homes & Home Theatres Elegant Modern Furniture Design Protects Projector from Dust & Damage Compatible with Most Standard Projectors Benefits Keeps your projector hidden Maintains a premium interior look Reduces visible cable clutter Extends projector life Easy operation Elegant furniture appearance Space-saving solution What's Included NECTUNT F10 Smart Projection Cabinet Motorized Lift Mechanism Power Cable Installation Accessories User Manual Why Choose NECTUNT F10? Smart Motorized Lift The integrated electric lift smoothly raises and lowers your projector, eliminating the need for manual installation every time you want to watch.
+  Updated: 2026-07-14T11:37:56Z
+  Vendor: AYTEXCEL 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/4a384d277e2d7efcf5ea1394fff0de4e_1773902090.webp?v=1784008220
+  Price: ₹99,999.00 INR
+- [Motorized Slider Tray (Auto Extendable Shelf) – 150 Inch](https://aytexcel.com/products/motorized-slider-tray-auto-extendable-shelf-150-inch): Upgrade your home theater setup with the Motorized Slider Tray (Auto Extendable Shelf), specially designed for Ultra Short Throw (UST) Projectors. This intelligent motorized platform automatically extends the projector to the perfect viewing position when in use and retracts it neatly inside the cabinet when powered off, creating a clean and modern entertainment space. Perfect for installations with 150-inch projection screens, this premium sliding tray ensures precise projector positioning while protecting your projector from dust and accidental damage. Key Features Automatic forward & backward sliding mechanism Designed for Ultra Short Throw (UST) projectors Compatible with up to 150-inch screen installations Smooth, quiet and stable motorized operation Saves cabinet space with concealed installation Premium metal construction for maximum durability Ideal for luxury home theaters and smart living rooms Easy wall or cabinet-top installation Professional and clutter-free appearance Benefits Keeps your projector hidden when not in use. Maintains perfect throw distance every time. Enhances the aesthetics of your entertainment setup. Reduces dust exposure and accidental damage. Provides convenient one-touch automatic operation. What's in the Box 1 × Motorized Slider Tray Mounting Accessories Power Adapter User Manual
+  Updated: 2026-07-14T23:12:32Z
+  Vendor: AYTEXCEL
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Slider.jpg?v=1784029001
+  Price: ₹59,999.00 INR
 
 ## Collections
 
 - [JMGO](https://aytexcel.com/collections/jmgo-projectors): Explore JMGO 4K laser projectors at Aytexcel, including, JMGO N3 4K, O2S Ultra, N1S Infinity, N1S Ultra, N1S Ultimate, and Picoflix, with MALC triple‑laser optics and home‑theater‑grade performance.
-  Updated: 2026-06-02T10:15:05Z
+  Updated: 2026-07-15T12:21:55Z
   Total Products: 9
 - [Formovie](https://aytexcel.com/collections/formovie-projectors): Shop Formovie 4K UST laser projectors and mini home‑theater projectors at Aytexcel, including Theater, Cinema Edge, R1, V10, and compact models for premium big‑screen viewing
-  Updated: 2026-07-01T09:06:33Z
+  Updated: 2026-07-15T12:24:06Z
   Total Products: 11
 - [Dangbei](https://aytexcel.com/collections/dangbei_4k-laser-projector): Official Dangbei India projectors: Mars Pro 2 (2400 lumens), MP1 Max (3100 lumens), Atom—Google TV, Netflix, fast pan-India delivery with Vividstorm ALR screens!
-  Updated: 2026-06-24T13:04:58Z
+  Updated: 2026-07-15T11:06:42Z
   Total Products: 5
 - [Vividstorm](https://aytexcel.com/collections/vividstorm-alr-motorized-floor-screens): Elevate your Valerion VisionMaster Max setup with Vividstorm S PRO ALR screens—motorized floor-rising, 120" 4K/8K, 95% light rejection. Fast India delivery for stunning home theaters!
-  Updated: 2026-05-07T12:18:08Z
+  Updated: 2026-07-15T12:23:22Z
   Total Products: 6
 - [ROKID](https://aytexcel.com/collections/rokid-ar-glasses): Shop ROKID AR smart glasses in India at Aytexcel. Explore models like Rokid Max 2 and AR Joy Pack with advanced AI features, immersive displays, and special discounts.
-  Updated: 2026-03-22T15:01:53Z
+  Updated: 2026-07-15T12:23:13Z
   Total Products: 3
 - [Hisense](https://aytexcel.com/collections/hisense-projectors): Browse Hisense 4K laser projectors at Aytexcel, featuring C2 Ultra and other triple‑laser cinema projectors with IMAX Enhanced and Dolby Vision‑ready premium home‑theater performance
-  Updated: 2026-06-18T03:29:28Z
-  Total Products: 8
+  Updated: 2026-07-15T12:23:46Z
+  Total Products: 9
 - [Ultra Short Throw Projector](https://aytexcel.com/collections/ultra-short-throw-projectors): Shop ultra short throw projectors at Aytexcel, including 4K UST laser projectors and compact models perfect for small rooms, home theaters, and bright‑room setups
-  Updated: 2026-06-18T03:27:50Z
-  Total Products: 11
+  Updated: 2026-07-13T08:02:10Z
+  Total Products: 12
 - [Long Throw Projector](https://aytexcel.com/collections/long-throw-projectors_buy-4k-uhd-home-theater-model): Shop premium long throw projectors at Aytexcel. Enjoy 4K UHD triple laser models like Hisense M2 Pro (1300 ANSI Lumens) for stunning home theater. Fast delivery across India.
   Updated: 2026-07-01T10:10:21Z
   Total Products: 17
@@ -801,19 +829,19 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-07-01T09:06:33Z
   Total Products: 10
 - [Accessories](https://aytexcel.com/collections/projector-accessories): Explore projector accessories at Aytexcel: ceiling mounts, floor stands, desktop gimbals, and mounts for UST projectors and projection screens to complete your home‑theater setup.
-  Updated: 2026-05-10T11:31:05Z
-  Total Products: 6
+  Updated: 2026-07-14T11:12:20Z
+  Total Products: 7
 - [Projectors](https://aytexcel.com/collections/projectors): Discover premium high-end projectors in India: Hisense, Dangbei, JMGO, Valerion, Formovie, AWOL along with essential accessories for your projector. Free delivery, 1-year warranty, best prices on laser home theater projectors. Shop now
-  Updated: 2026-07-01T09:06:33Z
+  Updated: 2026-07-08T07:31:08Z
   Total Products: 27
 - [Screens](https://aytexcel.com/collections/best-screens-valerion-visionmaster-max-alr): Pair your Valerion VisionMaster Max with Vividstorm Fusion ALR or Nothing Projector screens—95% light rejection, 120" motorized for 4K HDR. India shipping!
   Updated: 2026-05-07T12:18:08Z
   Total Products: 11
 - [Fscreen](https://aytexcel.com/collections/fscreen-fresnel-screens): Shop Fscreen Fresnel ALR projection screens at Aytexcel. Explore Aura and Iris series fixed‑frame & magnetic‑rollable UST and long‑throw screens for home theater and professional setups.
-  Updated: 2026-05-02T06:18:26Z
+  Updated: 2026-07-15T12:24:42Z
   Total Products: 3
 - [Valerion](https://aytexcel.com/collections/valerion-projectors): Shop Valerion VisionMaster home‑theater projectors at Aytexcel, including VisionMaster Plus 2 and VisionMaster PRO 2 models for premium cinematic viewing experiences
-  Updated: 2026-07-01T10:10:21Z
+  Updated: 2026-07-15T12:24:33Z
   Total Products: 3
 - [Featured Collection](https://aytexcel.com/collections/featured-collection)
   Updated: 2026-06-18T03:29:28Z
@@ -824,15 +852,15 @@ Our expert team is standing by to help you choose the perfect projector and scre
 - [New Arrivals](https://aytexcel.com/collections/new-arrivals)
   Updated: 2026-07-01T10:10:21Z
   Total Products: 6
-- [Best Sellers](https://aytexcel.com/collections/best-sellers)
-  Updated: 2026-06-18T03:27:50Z
-  Total Products: 6
+- [Best ](https://aytexcel.com/collections/best-sellers): Explore Aytexcel's best- projectors, ALR screens, and home theatre solutions. Shop premium 4K laser projectors, Ultra Short Throw projectors, projection screens, and AV accessories from leading global brands. Why Customers Love These Products Best  Premium Projectors 4K UHD & Triple Laser Technology Dolby Vision, HDR10+ & Wide Color Gamut Ultra Short Throw & Long Throw Options Premium ALR & Fresnel Projection Screens Perfect for Home Theatre & Smart Homes High Brightness for Day & Night Viewing 🇮🇳 Expert Support & Pan India Delivery Shop with confidence and experience the best in home entertainment with Aytexcel's top-rated AV solutions.
+  Updated: 2026-07-14T06:23:46Z
+  Total Products: 7
 - [AWOL VISION](https://aytexcel.com/collections/awol): Space Saving Projectors designed to project massive, crystal-clear imagery from just inches away from the wall between 100 to 150" and best suited to both, compact and large home spaces.
-  Updated: 2026-06-15T06:18:10Z
+  Updated: 2026-07-15T12:24:16Z
   Total Products: 1
-- [Cabinets](https://aytexcel.com/collections/cabinets)
-  Updated: 2026-06-19T11:57:52Z
-  Total Products: 2
+- [Premium Smart Projection Cabinets](https://aytexcel.com/collections/cabinets): Explore premium motorized projector cabinets at Aytexcel. Discover smart projection cabinets with hidden projector storage, automatic lift systems, elegant finishes, and seamless integration for luxury home theatres and smart living spaces. Why Choose Aytexcel Projection Cabinets? Premium motorized projector lift systems Elegant and space-saving furniture design Hidden projector storage for a clean interior Quiet and smooth lift operation Concealed cable management Durable construction with premium finishes Compatible with selected UST and standard projectors Ideal for home theatres, living rooms, boardrooms, hotels, and smart homes At Aytexcel, we offer innovative AV furniture solutions that enhance both the performance of your projector and the aesthetics of your space.
+  Updated: 2026-07-15T12:23:57Z
+  Total Products: 3
 - [Nectunt](https://aytexcel.com/collections/nectunt)
   Updated: 2026-06-19T12:50:55Z
   Total Products: 2
