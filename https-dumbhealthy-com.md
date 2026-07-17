@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2023-01-10T17:18:42Z
-- Updated At: 2026-07-09T00:00:29.602Z
+- Updated At: 2026-07-17T00:00:29.026Z
 
 ## Products
 
@@ -248,7 +248,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260403153152-chatgpt-image-apr-3--2026--03-25-21-pm.png?v=1775244730
   Price: $65.00 USD
 - [Snow Washed Straight Leg Pants](https://dumbhealthy.com/products/snow-washed-straight-leg-pants): Item Number:RU0070 Gender:Unisex Model:Loose Fabric:100% cotton Fabric Weight:10.6 oz/yd² (360 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Daily Casual, School, Home, Outdoor, Pure Cotton, Washed, Long, Loose, Spring, Summer, Autumn, Winter Print Size:40*52cm Notes:Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 40.2 102 40.9 104 41.7 106 42.5 108 43.3 110 Waist 13.4 34 14.2 36 15.0 38 15.7 40 16.5 42 Hip 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 gid://shopify/Product/10177928364323
-  Updated: 2026-07-08T21:09:08Z
+  Updated: 2026-07-15T06:07:24Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -274,7 +274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/eaa987f21f95403c92fa7402810d9da8.png?v=1775775607
     Price: $25.00 USD
 - [Sunfade Boxy 100% Cotton Hoodie | Drop Shoulder | Dumb Healthy](https://dumbhealthy.com/products/sunfade-boxy-hoodie): 12.4oz 100% cotton sunfade boxy hoodie. Drop shoulder, unisex S-2XL. No polyester — real cotton at a fraction of what other brands charge. Dumb Healthy.
-  Updated: 2026-07-08T21:09:20Z
+  Updated: 2026-07-14T21:42:37Z
   Vendor: ODMPOD
   Product Type: Hoodie
   Availability: Available
@@ -300,7 +300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9cef06711be94be09e2078a2ed60db46.png?v=1775775582
     Price: $40.00 USD
 - [Snow Washed Loose 100% Cotton Hoodie | Unisex | Dumb Healthy](https://dumbhealthy.com/products/snow-washed-loose-cotton-hoodie): 12.4oz 100% pure cotton snow washed loose hoodie. Unisex S-3XL. No polyester, no blends. Real cotton, real comfort, real price. Dumb Healthy.
-  Updated: 2026-07-08T21:09:04Z
+  Updated: 2026-07-15T16:04:09Z
   Vendor: ODMPOD
   Product Type: Hoodie
   Availability: Available
@@ -396,7 +396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/3668faa0c70646d1982559cbc9217d21.png?v=1775775492
     Price: $25.00 USD
 - [Vintage Wash Drop Shoulder T-shirt](https://dumbhealthy.com/products/vintage-wash-drop-shoulder-t-shirt): Item Number:WT0030Gender:WomenModel:BodyconFabric:100% cottonFabric Weight:8.1 oz/yd² (275 g/m²)Fabric Thickness:ThinCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Vintage, Daily Casual, Outdoor, Running, Sport, Office, Pure Cotton, Washed, Snow Wash, Short Sleeve, Regular Sleeve, Round Neck / O-Neck, Crop, Bodycon, Spring, Summer, AutumnPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 17.5 44.5 18.3 46.5 19.1 48.5 19.9 50.5 Length 22.8 58 23.4 59.5 24.0 61 24.6 62.5 Shoulder 14.2 36 14.8 37.5 15.4 39 15.9 40.5 Sleeve length 6.3 16 6.5 16.5 6.7 17 6.9 17.5 gid://shopify/Product/10179586818339
-  Updated: 2026-07-08T21:08:56Z
+  Updated: 2026-07-16T23:54:40Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -425,7 +425,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/0c24544df3d442f0bb1aaf5b6ca0efcc.png?v=1775850968
   Price: $0.00 USD
 - [Snow Washed 100% Cotton Oversized Hoodie | Dumb Healthy | No Polyester](https://dumbhealthy.com/products/snow-washed-loose-cotton-hoodie-1): 12.4oz 100% cotton snow washed loose hoodie. Unisex, sizes S-3XL. No polyester, no blends — just real cotton at a price the big brands can't touch.
-  Updated: 2026-07-08T21:09:23Z
+  Updated: 2026-07-14T20:18:01Z
   Vendor: ODMPOD
   Product Type: Hoodie
   Availability: Available
@@ -651,7 +651,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9d84170591eb4e3b8b9fc07bf7022242.png?v=1775857941
   Price: $0.00 USD
 - [RRCamo](https://dumbhealthy.com/products/rrcamo): Product: Code V 3981  REALTREE Camouflage T-Shirt 5.5 oz yd² Officially licensed REALTREE 100% ring-spun cotton printed jersey Ribbed collar and cuffs Back locker patch Shoulder-to-shoulder self-fabric back neck tape Side seams Double-needle bottom hem Easy Tear label
-  Updated: 2026-07-08T21:09:00Z
+  Updated: 2026-07-14T22:43:17Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -685,7 +685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12592626_f_3981_64_f.jpg?v=1775947436
     Price: $34.29 USD
 - [Dumb Healthy Hat — 100% Cotton Low-Profile Dad Cap](https://dumbhealthy.com/products/dumb-healthy-hat): Dumb Healthy Hat. 100% cotton chino twill, low-profile unstructured 6-panel, antique brass buckle. Clean DH logo.
-  Updated: 2026-07-08T21:09:10Z
+  Updated: 2026-07-16T09:10:55Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -747,7 +747,7 @@
     Availability: Available
     Price: $18.78 USD
 - [Weber-BanditCo Design** **LIMITED EDITION** 100% COTTON Raw-Hem Tank Top](https://dumbhealthy.com/products/bweber-banditco-design-limited-edition-100-cotton-raw-hem-tank-top): DUMB HEALTHY x WEBER-BANDIT CO. — LIMITED DROP This isn’t just a shirt—it’s a statement piece built from two worlds that don’t usually collide… but when they do, it hits different. Mr. Weber is known for precision, edge, and a no-compromise mindset. Everything tied to Weber carries that “done right or not at all” energy—clean execution, sharp visuals, and attention to detail. Bandit Co. brings the other side—gritty, independent, and a little rebellious. It’s that do-your-own-thing mentality. Not built for everyone, just the ones who get it. When those two come together, you get something rare. This is a 100% cotton, raw-edge tank—built to feel broken-in but still hold structure. Raw cut edges for that worn, rugged look Breathable but solid—doesn’t feel cheap Designed to age well the more you wear it It’s not overly polished. That’s the point. This collab works because it shouldn’t. Weber brings precision. Bandit brings edge.DUMB HEALTHY sits right in the middle—two ideas that don’t make sense on paper but work in real life. Limited run — no restocks Not mass-produced — once it’s gone, it’s done Collectible piece tied to a specific collab moment This isn’t just something you wear—it’s something you caught early. You don’t really explain this one.People either get it or they don’t. DUMB HEALTHY x WEBER-BANDIT CO. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 23.6 60 24.6 62.5 25.4 64.5 26.6 67.5 27.4 69.5 Length 28.7 73 29.5 75 30.3 77 31.1 79 31.9 81 Shoulder 16.5 42 17.3 44 18.1 46 18.9 48 19.7 50 gid://shopify/Product/10185048490275
-  Updated: 2026-07-08T21:09:22Z
+  Updated: 2026-07-16T09:20:51Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -958,12 +958,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/099f457ede4144ea928a8670e94e7e5d.png?v=1776466272
     Price: $35.00 USD
-- [Heavyweight 100% Cotton Boxy Hoodie | Limited Drop | Dumb Healthy](https://dumbhealthy.com/products/boxy-oversized-hoodie): 12.4oz 100% cotton boxy oversized hoodie by Dumb Healthy x Weber-Bandit Co. Limited run, no restocks. Real fabric, not plastic. Sizes S-2XL.
-  Updated: 2026-06-21T11:11:57Z
-  Vendor: ODMPOD
-  Product Type: Hoodie
-  Availability: Available
-  Price: $0.00 USD
 - [DUMB HEALTHY x WEBER-BANDIT CO. — BIG HOOD LIMITED DROP](https://dumbhealthy.com/products/boxy-oversized-hoodie-1): DUMB HEALTHY x WEBER-BANDIT CO. — BIG HOOD LIMITED DROP This one is the one your girlfriend is not going to give back. Heavyweight hoodie built to actually feel like one. * Thick, premium 100% COTTON * Structured fit that holds shape * Soft inside, durable outside * Made to wear in, not wear out Simple, solid, and built right. * Limited run — no restocks * Same collab, different feel * Clean enough to wear daily, strong enough to stand out * One of those pieces that only exists for a moment This isn’t a hoodie your girlfriend is going to give back. It’s one you keep. DUMB HEALTHY x WEBER-BANDIT CO. Item Number:RU0113 Gender:Unisex Model:Regular Fabric:100% cotton Fabric Weight:12.4 oz/yd² (420 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Black, Grey, Basics, Casual, Street, Daily Casual, Outdoor, School, Office, Pure Cotton, Pocket, Long Sleeve, Drop Shoulder, Hooded, Regular, Regular, Mid Waist, Spring, Autumn, Winter Print Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Length 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 Shoulder 27.2 69 28.0 71 28.7 73 29.5 75 30.3 77 Sleeve length 20.9 53 21.3 54 21.7 55 22.0 56 22.4 57 gid://shopify/Product/10185148924195
   Updated: 2026-07-08T21:09:14Z
   Vendor: ODMPOD
@@ -1043,7 +1037,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/baca363c1cf2447f8348d29342c64335.png?v=1776541977
     Price: $25.00 USD
 - [DUMB HEALTHY x WEBER-BANDIT CO. —100% PURE COTTON STANDARD TEE](https://dumbhealthy.com/products/unisex-sueded-cotton-t-shirt): DUMB HEALTHY x WEBER-BANDIT CO. — STANDARD TEE This is the clean version. Same identity, just more refined. No raw edges, no extra noise. Straight cut, straight fit, built to be worn anywhere. Weber brings precision and structure. Bandit brings edge and independence. DUMB HEALTHY sits right in the middle, two ideas that don’t usually go together but end up working better because of it. The design stays true. “DUMB” carries that instant, recognizable energy. “HEALTHY” balances it with control and discipline. It’s simple, but it holds its own without needing anything extra. This is a standard, structured cotton tee. No distressing, no raw hem. Just a clean finish, solid weight, and a fit that stays consistent. Easy to wear, easy to pair, built for repeat use. This is the everyday version of the drop. The one that fits any setting and still represents the same mindset. DUMB HEALTHY x WEBER-BANDIT CO. Gender:Unisex Model:Loose Fabric:100% cotton Fabric Weight:5.6 oz/yd² (190 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Street, Daily Casual, Outdoor, Holiday, School, Office, Pure Cotton, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Long, Loose, Spring, Summer, Autumn, Winter Print Size:40*52cm Notes:Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 22.4 57 23.2 59 24.0 61 24.8 63 25.6 65 Length 27.2 69 28.0 71 28.7 73 29.5 75 30.3 77 Shoulder 19.7 50 20.3 51.5 20.9 53 21.5 54.5 22.0 56 Sleeve length 8.7 22 9.1 23 9.4 24 9.8 25 10.2 26 gid://shopify/Product/10185506980131
-  Updated: 2026-07-08T21:56:05Z
+  Updated: 2026-07-15T06:05:37Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1095,7 +1089,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/5b321d609fa54ce393eb3f04a2230a2c.png?v=1776542022
     Price: $35.00 USD
 - [DUMB HEALTHY x Weber-Bandit Co. Wifie Tee — Cotton Crop Top](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top): DUMB HEALTHY x Weber-Bandit Co. Wifie Tee. 6.2oz 100% cotton bodycon crop top. Limited collab, bold graphic, no polyester.
-  Updated: 2026-07-08T21:56:05Z
+  Updated: 2026-07-15T16:29:35Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1163,7 +1157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/5838ddc3daa2469d945c1c027bb1557b.png?v=1776551797
     Price: $35.00 USD
 - [100% Organic Cotton French Terry Hoodie | Ranch and Rover | Dumb Healthy](https://dumbhealthy.com/products/ranch-and-rover-100-organic-cotton-hoodie): Ranch and Rover Organic Hoodie — 8.3oz 100% organic cotton French terry, XS-4XL. Real fabric, real price. No polyester, no plastic, no markup.
-  Updated: 2026-07-08T21:56:18Z
+  Updated: 2026-07-16T16:31:11Z
   Vendor: Dumb Healthy
   Product Type: Hoodie
   Availability: Available
@@ -1201,7 +1195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12691964_f_AL4000_cfc5_f.jpg?v=1777239657
     Price: $43.12 USD
 - [100% Organic Cotton Hoodie Tee | Dumb Healthy | No Plastic, No BS](https://dumbhealthy.com/products/r-r-organic-hoodie-tee): The R&R Organic Hoodie Tee by Dumb Healthy — 100% organic cotton, ultra-soft 30 singles. Real fabric, real price. No synthetics, no markup.
-  Updated: 2026-07-08T21:56:05Z
+  Updated: 2026-07-16T07:01:55Z
   Vendor: Dumb Healthy
   Product Type: Hoodie
   Availability: Available
@@ -1271,7 +1265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12692100_f_AL6305_70bb_f.jpg?v=1777240517
     Price: $36.95 USD
 - [R&R Organic Cotton Tee - new](https://dumbhealthy.com/products/r-r-organic-cotton-tee-new): Ranch and Rover Organic Cotton Tee. AL2100 4.5 oz 100% organic, combed ring spun cotton, 30 singles Classic fit 1x1 rib knit neck Shoulder to shoulder taping Set-in sleeves Side seams Tear-away label
-  Updated: 2026-07-08T21:56:06Z
+  Updated: 2026-07-15T16:21:45Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -1436,7 +1430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12713846_f_BP90_cfd4_f.jpg?v=1777494386
     Price: $28.03 USD
 - [Ranch and Rover Cotton Tee](https://dumbhealthy.com/products/ranch-and-rover-cotton-tee): Next Level Men's Cotton Crew. Nice fit CLEAN LOGO TEE 4.3 oz. 100% combed ringspun cotton fine jersey Fabric laundered for reduced shrinkage Shoulder-to-shoulder taping Hemmed sleeves 1x1 baby rib-knit set-in collar Tear-away label Select colors up to 4xl Sideseamed
-  Updated: 2026-07-08T21:56:19Z
+  Updated: 2026-07-16T23:30:49Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -2040,7 +2034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12881124_f_3600_46_f.jpg?v=1779724830
     Price: $21.27 USD
 - [Paw T](https://dumbhealthy.com/products/paw-t): Product: American Apparel 102 Women's Fine Jersey Boxy Tee 4.3 oz., 30/1 yarn count 100% combed ring spun cotton Proud Better Cotton member Cotton products from American Apparel support more sustainable and ethical cotton farming Non-topstitched, classic width, rib collar Taped neck and shoulders Boxy fit, slightly cropped, side seamed body 100% cotton thread on color white Tear away label
-  Updated: 2026-07-08T21:56:25Z
+  Updated: 2026-07-15T23:35:40Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -2146,7 +2140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904695_f_102_75_f.jpg?v=1779998499
     Price: $22.67 USD
 - [Long Sleeve Paw T](https://dumbhealthy.com/products/long-sleeve-paw-t): Product: Port & Company LPC450VLS Port & Company ® Ladies Long Sleeve Fan Favorite V-Neck Tee. LPC450VLS 4.5 oz., 100% ring spun cotton, 30 singles 90/10 cotton/poly (Athletic Heather) 50/50 cotton/poly (Dark Heather Grey) Ladies fashion fit Removable tag for comfort and relabeling Rib knit collar Shoulder to shoulder back neck taping
-  Updated: 2026-07-08T21:56:19Z
+  Updated: 2026-07-15T04:35:42Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -2354,8 +2348,8 @@
   Updated: 2026-07-08T20:59:58Z
   Total Products: 11
 - [Clothing](https://dumbhealthy.com/collections/clothing): Shop Dumb Healthy clothing and merch. Comfortable, stylish apparel for the health-conscious lifestyle.
-  Updated: 2026-07-08T21:47:21Z
-  Total Products: 39
+  Updated: 2026-07-10T20:16:43Z
+  Total Products: 40
 - [Supplements](https://dumbhealthy.com/collections/supplements): Shop our supplements collection.
   Updated: 2026-07-08T20:59:56Z
   Total Products: 26
@@ -2375,8 +2369,8 @@
   Updated: 2026-07-08T20:48:23Z
   Total Products: 0
 - [Ranch Merch](https://dumbhealthy.com/collections/ranch-merch): Shop Ranch and Rover merch — 100% organic cotton tees, hoodies, and basics. Clean logo, real fabric, built to last.
-  Updated: 2026-07-08T20:48:23Z
-  Total Products: 8
+  Updated: 2026-07-10T20:20:19Z
+  Total Products: 13
 
 ## Blogs
 
@@ -2571,6 +2565,18 @@
     Updated: 2026-05-11T07:08:41Z
     Author: A
     Tags: benefits of outdoor exercise, exercise, fitness, improve mental wellbeing, mental health, outdoor activity, stress relief, wellness
+  - [Revitalize Your Lifestyle: Detoxifying Superfoods for Energy Support and Gut Health](https://dumbhealthy.com/blogs/news/revitalize-your-lifestyle-detoxifying-superfoods-for-energy-support-and-gut-health): Revitalize Your Lifestyle: Detoxifying Superfoods for Energy Support and Gut Health
+    Updated: 2026-07-09T02:14:53Z
+    Author: A.
+  - [Discover the Power of Adaptogens and Magnesium for Energy and Focus Support](https://dumbhealthy.com/blogs/news/discover-the-power-of-adaptogens-and-magnesium-for-energy-and-focus-support): Discover the Power of Adaptogens and Magnesium for Energy and Focus Support
+    Updated: 2026-07-10T07:04:39Z
+    Author: A.
+  - [Elderberry and Beetroot: Can They Help with Inflammation and Liver Support?](https://dumbhealthy.com/blogs/news/elderberry-and-beetroot-can-they-help-with-inflammation-and-liver-support): Elderberry and Beetroot: Can They Help with Inflammation and Liver Support?
+    Updated: 2026-07-11T07:02:08Z
+    Author: A.
+  - [Enhance Your Sleep and Gut Health with Mushroom Supplements and Healthy Habits](https://dumbhealthy.com/blogs/news/enhance-your-sleep-and-gut-health-with-mushroom-supplements-and-healthy-habits): Enhance Your Sleep and Gut Health with Mushroom Supplements and Healthy Habits
+    Updated: 2026-07-16T07:00:37Z
+    Author: A.
 
 ## Store Pages
 
