@@ -6,12 +6,12 @@
 - Timezone: Europe/Chisinau
 - Created At: 2026-06-05T14:59:37Z
 - Contact Email: madalinapilipenco01@gmail.com
-- Updated At: 2026-07-06T00:00:35.621Z
+- Updated At: 2026-07-18T00:00:37.708Z
 
 ## Products
 
 - [Halter Neck Backless One-Piece Swimsuit Women | AquaGlow](https://var1zw-c7.myshopify.com/products/sexy-solid-color-halter-lace-up-low-waist-bikini-set-womens-two-pieces-triangle-thong-swimsuit-bathing-suit-brazilian-biquinis): Costum de baie one-piece halter neck, backless — elegant, senzual şi ultra-flatant. Look complet pentru plajă sau piscină. Comandă acum!
-  Updated: 2026-06-26T20:58:26Z
+  Updated: 2026-07-14T02:43:11Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -156,8 +156,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sa23ef7fb0f9442beb540abfb06755eb2z.webp?v=1780680239
     Price: $24.99 USD
-- [Micro Push-Up Brazilian Bikini Set Women | AquaGlow](https://var1zw-c7.myshopify.com/products/micro-bikinis-2026-women-swimsuits-push-up-sexy-swimwear-brazilian-bikini-set-halter-biquini-patchwork-swimsuit-summer-beachwear): Bikini micro push-up brazilian — bronz maxim, efect flatant natural. Îndrăzneț şi irezistibil pe orice plajă. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:14:58Z
+- [Micro Push-Up Brazilian Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/micro-bikinis-2026-women-swimsuits-push-up-sexy-swimwear-brazilian-bikini-set-halter-biquini-patchwork-swimsuit-summer-beachwear): Micro push-up Brazilian bikini set — enhancing top, leg-lengthening cut, and water-resistant fabric. Bold, daring swimwear for beach or resort. Shop AquaGlow.
+  Updated: 2026-07-14T02:44:09Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -174,8 +174,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S2d5d48938339456e8c1911eba0c85367A.webp?v=1780680249
     Price: $24.99 USD
-- [Halter Bandage Bikini Set Sexy Women | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong): Bikini halter cu bandaje — sculptural, senzual şi irezistibil. Modelează silueta perfect. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:14:58Z
+- [Halter Bandage Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong): Halter bandage bikini set — sculpting bandage construction with elegant halter neckline. Bold, flattering swimwear for beach or resort. Shop AquaGlow Swimwear.
+  Updated: 2026-07-14T21:08:56Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -183,41 +183,41 @@
   - [black / S](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong?variant=48207937011866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sc08d502a80134c6587abd059944629dc4.webp?v=1780680251
-    Price: $20.99 USD
+    Price: $16.79 USD
   - [yellow / S](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong?variant=48207937044634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sfe619c1f3279474899dd46ce13516584t.webp?v=1780680250
-    Price: $20.99 USD
+    Price: $16.79 USD
   - [orange / M](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong?variant=48207937077402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S20fd91b1fc384b2ba795c0288ef7bb8cP.webp?v=1780680251
-    Price: $20.99 USD
+    Price: $16.79 USD
   - [orange / S](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong?variant=48207937110170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S20fd91b1fc384b2ba795c0288ef7bb8cP.webp?v=1780680251
-    Price: $20.99 USD
+    Price: $16.79 USD
   - [black / L](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong?variant=48207937142938)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sc08d502a80134c6587abd059944629dc4.webp?v=1780680251
-    Price: $20.99 USD
+    Price: $16.79 USD
   - [black / M](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong?variant=48207937175706)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sc08d502a80134c6587abd059944629dc4.webp?v=1780680251
-    Price: $20.99 USD
+    Price: $16.79 USD
   - [orange / L](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong?variant=48207937208474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S20fd91b1fc384b2ba795c0288ef7bb8cP.webp?v=1780680251
-    Price: $20.99 USD
+    Price: $16.79 USD
   - [yellow / M](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong?variant=48207937241242)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sfe619c1f3279474899dd46ce13516584t.webp?v=1780680250
-    Price: $20.99 USD
+    Price: $16.79 USD
   - [yellow / L](https://var1zw-c7.myshopify.com/products/solid-color-bikinis-push-up-swimwear-women-halter-bikini-set-shiny-swimsuit-push-up-bathing-suits-bandage-beachwear-thong?variant=48207937274010)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sfe619c1f3279474899dd46ce13516584t.webp?v=1780680250
-    Price: $20.99 USD
-- [Backless Sport Bikini Set | Women Athletic Swimwear – AquaGlow](https://var1zw-c7.myshopify.com/products/bikinis-set-suit-swimsuit-summer-collection-women-fresh-sweet-sexy-backless-sports-water-wading-clothing-fashionable): Backless Sport Bikini Set for active women. Athletic swimwear perfect for beach days & water sports. Shop AquaGlow.
-  Updated: 2026-06-26T09:14:58Z
+    Price: $16.79 USD
+- [Backless Sport Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/bikinis-set-suit-swimsuit-summer-collection-women-fresh-sweet-sexy-backless-sports-water-wading-clothing-fashionable): Backless sport bikini set — open-back design, athletic cut, and quick-dry fabric. Performance swimwear for active women. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:40:12Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -254,8 +254,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Saa3fdb8fc4084970bdc9256e6df25c49E.webp?v=1780686029
     Price: $24.99 USD
-- [High Waist Black Print Brazilian Bikini Set | AquaGlow](https://var1zw-c7.myshopify.com/products/2025-sexy-brazilian-bikini-set-high-waist-black-printed-women-swimwear-push-up-bikinis-swimsuit-female-biquini-bathing-suit): Bikini brazilian negru cu print bold şi talie înaltă — sofisticat, sexy şi atemporal. Cucereşte orice plajă. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T21:00:56Z
+- [High-Waist Black Print Brazilian Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/2025-sexy-brazilian-bikini-set-high-waist-black-printed-women-swimwear-push-up-bikinis-swimsuit-female-biquini-bathing-suit): High-waist black print Brazilian bikini set — bold, sculpting, and fashion-forward. Editorial swimwear for beach or resort. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:43:31Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -356,8 +356,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sc58007b2642240d5b446a661e94b4f6eR.webp?v=1780821613
     Price: $24.99 USD
-- [Polka Dot High Waist Skirt Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/summer-sexy-high-waist-bikinis-set-women-spotted-pattern-bra-thong-two-pieces-with-skirt-beachwear-brazilian-biquinis): Bikini retro cu buline, talie înaltă şi fustă inclusă — jucăuş, feminin şi stylish. Look complet de plajă. Comandă acum!
-  Updated: 2026-06-26T09:14:58Z
+- [Polka Dot High-Waist Skirt Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/summer-sexy-high-waist-bikinis-set-women-spotted-pattern-bra-thong-two-pieces-with-skirt-beachwear-brazilian-biquinis): Polka dot high-waist skirt bikini set — retro-inspired, feminine, and flattering. Playful swimwear for beach or pool. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:37:28Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -394,8 +394,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sc3903cbd82874c23914c68522803c158X.webp?v=1780821613
     Price: $24.99 USD
-- [Floral Brazilian Bikini Set Women | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-rose-flower-bikini-beachwear-swimwear-thong-bikini-women-swimsuits-swimming-bathing-brazilian-bikinis-set-mujer-biquini): Bikini brazilian cu print floral vibrant — feminin, proaspăt şi ultra-trendy. Bronz perfect la plajă. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:14:59Z
+- [Floral Brazilian Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-rose-flower-bikini-beachwear-swimwear-thong-bikini-women-swimsuits-swimming-bathing-brazilian-bikinis-set-mujer-biquini): Floral Brazilian bikini set — vibrant print, leg-lengthening cut, and water-resistant fabric. Feminine swimwear for beach or tropical getaway. Shop AquaGlow.
+  Updated: 2026-07-10T09:39:16Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -432,8 +432,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Scb1cce79e2854b09914e569199dcfd6cz.webp?v=1780821614
     Price: $24.99 USD
-- [High-Neck Sport Bikini Set | Women Athletic Swimwear – AquaGlow](https://var1zw-c7.myshopify.com/products/sexy-korean-fashion-high-neck-bikinis-sets-high-waist-swimsuit-two-pieces-sports-bathing-suits-padded-swimwear-biquini-beachwear): High-Neck Sport Bikini Set for active women. Full coverage athletic swimwear for beach & water sports. Shop AquaGlow.
-  Updated: 2026-06-26T09:14:59Z
+- [High-Neck Sport Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-korean-fashion-high-neck-bikinis-sets-high-waist-swimsuit-two-pieces-sports-bathing-suits-padded-swimwear-biquini-beachwear): High-neck sport bikini set — maximum coverage, athletic cut, and quick-dry fabric. Performance swimwear for active women. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:48:50Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -450,8 +450,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S7b03eebf46894a24b0ca1ecd91e10a5du.webp?v=1781111827
     Price: $25.99 USD
-- [Backless Chic Sport Bikini Set Women | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/bikini-sets-women-fashion-sporty-casual-backless-simple-patchwork-summer-holiday-swimwear-comfortable-students-classic-ins-chic): Bikini sport backless — îndrăzneț, aerodinamic şi ultra-stylish. Libertate de mişcare şi look impecabil. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:14:59Z
+- [Backless Chic Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/bikini-sets-women-fashion-sporty-casual-backless-simple-patchwork-summer-holiday-swimwear-comfortable-students-classic-ins-chic): Backless chic bikini set — open-back design, sporty cut, and water-resistant fabric. Bold and flattering swimwear for beach or pool. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:39:52Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -468,8 +468,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S539d6963b0da4daa89761f56904b0b4dC.webp?v=1781111827
     Price: $29.99 USD
-- [Marble Print Halter Wrap Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-bikinis-women-2025-summer-two-piece-marble-print-swimsuit-female-push-up-halter-ruched-wrap-front-high-waist-bathing-suit): Bikini halter wrap cu print marble — sofisticat, exclusivist şi ultra-trendy. Look de lux la malul mării. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:14:59Z
+- [Marble Print Halter Wrap Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-bikinis-women-2025-summer-two-piece-marble-print-swimsuit-female-push-up-halter-ruched-wrap-front-high-waist-bathing-suit): Marble print halter wrap bikini set — luxurious print, flattering silhouette, and water-resistant fabric. Editorial swimwear for beach or resort. Shop AquaGlow.
+  Updated: 2026-07-10T09:33:24Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -494,8 +494,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sfbffa0669a164ccf92653bbddea2ceeeM.webp?v=1781111829
     Price: $24.99 USD
-- [Bandeau High-Waist Bikini Set Women | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/brown-shiny-u-shaped-bikini-high-waist-sexy-swimsuit-women-2026-wrinkled-solid-swimwears-bathing-suit-bandeau-bikinis-sets-mujer): Bikini bandeau cu talie înaltă — minimalist, chic şi versatil. Look curat şi modern pentru plajă sau piscină. Comandă acum!
-  Updated: 2026-06-26T09:14:59Z
+- [Bandeau High-Waist Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/brown-shiny-u-shaped-bikini-high-waist-sexy-swimsuit-women-2026-wrinkled-solid-swimwears-bathing-suit-bandeau-bikinis-sets-mujer): Bandeau high-waist bikini set — sleek strapless top with flattering retro silhouette. Minimalist, elegant swimwear for beach or pool. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:39:57Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -548,8 +548,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sb38480c3a8cc42bf863deb8d236277cch.webp?v=1781111829
     Price: $24.99 USD
-- [Hollow-Out Brazilian Bikini Set Sexy Women | AquaGlow](https://var1zw-c7.myshopify.com/products/chisalis-sexy-hollow-bikini-2019-brazilian-swimsuit-women-push-up-swimwear-solid-beachwear-bathing-suit-thong-biquini-bikini-set): Bikini brazilian cu decupaje — senzual, îndrăzneț şi ultra-modern. Accentuează silueta şi bronzul perfect. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:15:00Z
+- [Hollow-Out Brazilian Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/chisalis-sexy-hollow-bikini-2019-brazilian-swimsuit-women-push-up-swimwear-solid-beachwear-bathing-suit-thong-biquini-bikini-set): Hollow-out Brazilian bikini set — bold cutout details, leg-lengthening cut, and water-resistant fabric. Daring swimwear for beach or pool. Shop AquaGlow.
+  Updated: 2026-07-10T09:41:46Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -570,8 +570,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/HTB1ywVfclCw3KVjSZFlq6AJkFXa4.webp?v=1781111829
     Price: $24.99 USD
-- [Ribbon Tie Bikini Set Cute Women | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/bikini-swimsuit-woman-2026-new-swimwear-sexy-bikini-fashion-women-split-swimwear-ribbon-swimwear-купальник): Bikini cu Şnirete şi fundițe — adorabil, jucăuş şi ultra-feminin. Perfect pentru plajă şi photos. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:15:00Z
+- [Ribbon Tie Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/bikini-swimsuit-woman-2026-new-swimwear-sexy-bikini-fashion-women-split-swimwear-ribbon-swimwear-купальник): Ribbon tie bikini set — cute, feminine, and adjustable. Flattering swimwear for beach or pool. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:31:11Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -688,8 +688,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S3490c2df197a4beaaac70b1eab342837q.webp?v=1781111830
     Price: $24.99 USD
-- [Ruffle One-Shoulder Bikini Set Women | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/bikini-2026-sexy-swimwear-swimsuit-women-big-ruffle-single-shoulder-bikinis-set-bathing-suit-beach-bikini-female-push-up-tankini): Bikini asimetric one-shoulder cu volănaşe — feminin, modern şi ultra-stylish. Look unic pe orice plajă. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:15:00Z
+- [Ruffle One-Shoulder Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/bikini-2026-sexy-swimwear-swimsuit-women-big-ruffle-single-shoulder-bikinis-set-bathing-suit-beach-bikini-female-push-up-tankini): Ruffle one-shoulder bikini set — bold, chic, and flattering. Fashion-forward swimwear for beach or pool. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:38:24Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -702,8 +702,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S7b2a98c6365345c99e03f05f123a0936l.webp?v=1781111830
     Price: $25.99 USD
-- [Padded Push-Up Bikini Set Women | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-bikinis-2025-women-solid-swimsuit-women-padded-swimwear-female-beachwear-bathers-bathing-swimming-swim-suit): Bikini push-up cu buşten — susținere excelentă, efect flatant natural. Arată fabulos pe orice plajă. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:15:00Z
+- [Padded Push-Up Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-bikinis-2025-women-solid-swimsuit-women-padded-swimwear-female-beachwear-bathers-bathing-swimming-swim-suit): Padded push-up bikini set with adjustable straps and water-resistant fabric. Flattering, supportive, and stylish for beach or pool. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:36:28Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -820,134 +820,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sd720319fd209451ba713e5b04cd7edc1F.webp?v=1781111832
     Price: $24.99 USD
-- [High Waist Tummy Control Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear): Bikini cu talie înaltă şi tummy control — siluetă modelată, încredere maximă. Confortabil şi flatant pentru orice tip de corp. Comandă acum!
-  Updated: 2026-06-26T09:15:00Z
-  Vendor: AquaGlow
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S29b2316a5db548498d8b90ef7c675323J.webp?v=1781111831
-  - [Blue / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224513786010)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sfba7228eb83343fcb1bc825f8b379d80j.webp?v=1781111832
-    Price: $20.99 USD
-  - [black / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224513818778)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S9c5dd0cd91874e5f8b48e4480c30c8347.webp?v=1781111831
-    Price: $20.99 USD
-  - [black / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224513851546)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S9c5dd0cd91874e5f8b48e4480c30c8347.webp?v=1781111831
-    Price: $20.99 USD
-  - [black / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224513884314)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S9c5dd0cd91874e5f8b48e4480c30c8347.webp?v=1781111831
-    Price: $20.99 USD
-  - [YELLOW / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224513917082)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S0becb406ba244657b5da7c9d2e3b05d9t.webp?v=1781111831
-    Price: $20.99 USD
-  - [Orange / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224513949850)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S5e331021d2254744bf1f302eccddbdaey.webp?v=1781111832
-    Price: $20.99 USD
-  - [Orange / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224513982618)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S5e331021d2254744bf1f302eccddbdaey.webp?v=1781111832
-    Price: $20.99 USD
-  - [Orange / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514015386)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S5e331021d2254744bf1f302eccddbdaey.webp?v=1781111832
-    Price: $20.99 USD
-  - [Red / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514048154)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sef3e4831d715486683b27740941e067bW.webp?v=1781111831
-    Price: $20.99 USD
-  - [Red / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514080922)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sef3e4831d715486683b27740941e067bW.webp?v=1781111831
-    Price: $20.99 USD
-  - [YELLOW / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514113690)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S0becb406ba244657b5da7c9d2e3b05d9t.webp?v=1781111831
-    Price: $20.99 USD
-  - [YELLOW / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514146458)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S0becb406ba244657b5da7c9d2e3b05d9t.webp?v=1781111831
-    Price: $20.99 USD
-  - [Brown / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514179226)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S2e7952159c3c492da1b6a424ed21ebe6I.webp?v=1781111832
-    Price: $20.99 USD
-  - [Brown / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514211994)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S2e7952159c3c492da1b6a424ed21ebe6I.webp?v=1781111832
-    Price: $20.99 USD
-  - [Blue / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514244762)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sfba7228eb83343fcb1bc825f8b379d80j.webp?v=1781111832
-    Price: $20.99 USD
-  - [Blue / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514277530)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sfba7228eb83343fcb1bc825f8b379d80j.webp?v=1781111832
-    Price: $20.99 USD
-  - [green / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514310298)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S59ac6354ebd8466bbdbe97547e842c2b8.webp?v=1781111832
-    Price: $20.99 USD
-  - [green / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514343066)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S59ac6354ebd8466bbdbe97547e842c2b8.webp?v=1781111832
-    Price: $20.99 USD
-  - [green / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514375834)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S59ac6354ebd8466bbdbe97547e842c2b8.webp?v=1781111832
-    Price: $20.99 USD
-  - [Brown / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514408602)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S2e7952159c3c492da1b6a424ed21ebe6I.webp?v=1781111832
-    Price: $20.99 USD
-  - [PURPLE / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514441370)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S5f836dc9b1464619ba18df1c52ffc14bg.webp?v=1781111832
-    Price: $20.99 USD
-  - [PURPLE / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514474138)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S5f836dc9b1464619ba18df1c52ffc14bg.webp?v=1781111832
-    Price: $20.99 USD
-  - [Black Green / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514506906)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sa6ffa08a8543449da84280e846ff36164.webp?v=1781111832
-    Price: $20.99 USD
-  - [Black Green / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514539674)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sa6ffa08a8543449da84280e846ff36164.webp?v=1781111832
-    Price: $20.99 USD
-  - [Black Green / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514572442)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sa6ffa08a8543449da84280e846ff36164.webp?v=1781111832
-    Price: $20.99 USD
-  - [Red / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514605210)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sef3e4831d715486683b27740941e067bW.webp?v=1781111831
-    Price: $20.99 USD
-  - [PURPLE / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514637978)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S5f836dc9b1464619ba18df1c52ffc14bg.webp?v=1781111832
-    Price: $20.99 USD
-  - [Rose Red / L](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514670746)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S704e9f8c9d3747fc86eaeccb64529582Y.webp?v=1781111831
-    Price: $20.99 USD
-  - [Rose Red / M](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514703514)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S704e9f8c9d3747fc86eaeccb64529582Y.webp?v=1781111831
-    Price: $20.99 USD
-  - [Rose Red / S](https://var1zw-c7.myshopify.com/products/sexy-bikini-2026-swimsuit-women-trend-swimwear-female-high-waisted-bikinis-sets-korean-swimming-for-woman-bathing-suit-beachwear?variant=48224514736282)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S704e9f8c9d3747fc86eaeccb64529582Y.webp?v=1781111831
-    Price: $20.99 USD
-- [Knitted Beach Bikini & Maxi Skirt | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/tornova-knitted-beach-bikini-set-for-women-sexy-hollow-swimsuit-cover-up-dress-set-slim-high-waist-long-skirt-two-pieces-set): Set bikini tricotat cu fustă maxi — look boho chic perfect pentru plajă sau promenadă. Stil unic, confort maxim. Comandă acum!
-  Updated: 2026-06-26T09:15:01Z
+- [Knitted Beach Bikini & Maxi Skirt Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/tornova-knitted-beach-bikini-set-for-women-sexy-hollow-swimsuit-cover-up-dress-set-slim-high-waist-long-skirt-two-pieces-set): Knitted beach bikini & maxi skirt set — bohemian style meets beach luxury. Lightweight, versatile, and perfect for resort or coastal getaways. Shop AquaGlow.
+  Updated: 2026-07-14T02:44:42Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -988,8 +862,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S409c4df80d1342358bf4e38954c83abfW.webp?v=1781808982
     Price: $30.99 USD
-- [Shiny Mesh Cover-Up Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/2026-womens-swimsuits-mesh-cover-up-three-piece-swimwear-shiny-bikini-set-triangle-swimsuit-micro-thong-bikini-women-swimwear): Cover-up din mesh lucios — glamour la malul mării. Versatil, stylish şi perfect pentru plajă sau seară. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:15:01Z
+- [Shiny Mesh Cover-Up Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/2026-womens-swimsuits-mesh-cover-up-three-piece-swimwear-shiny-bikini-set-triangle-swimsuit-micro-thong-bikini-women-swimwear): Shiny mesh cover-up set — lightweight, glamorous, and perfect for beach-to-bar transitions. Drapes beautifully over any swimwear. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:22:29Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1006,8 +880,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S7b078c4c3a21474ba08f96cd6b0118dci.webp?v=1781808982
     Price: $24.99 USD
-- [Ruffled Halter Neck Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-bikinis-sets-two-piece-womens-swimsuit-ruffled-halter-neck-bikini-2026-female-swimwear-for-woman-beach-wear-bathing-suit): Bikini halter cu volănaşe — feminin, romantic şi irezistibil. Perfect pentru plajă sau piscină. Comandă acum cu livrare rapidă!
-  Updated: 2026-06-26T09:15:01Z
+- [Ruffled Halter Neck Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/sexy-bikinis-sets-two-piece-womens-swimsuit-ruffled-halter-neck-bikini-2026-female-swimwear-for-woman-beach-wear-bathing-suit): Ruffled halter neck bikini set with adjustable tie and water-resistant fabric. Feminine, flattering, and perfect for beach or pool. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:44:46Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1072,8 +946,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S9e7818c8597047fabee5f591f844cd023.webp?v=1781808983
     Price: $24.99 USD
-- [High Waist Drawstring Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/drawstring-front-shorts-bikinis-2026-high-waist-swimsuit-women-swimwear-female-bathers-bathing-swimming-swim-suit-beachwear): Bikini cu talie înaltă și șnur ajustabil — flatant, confortabil și stylish. Comandă acum și fii gata pentru vara perfectă! Livrare rapidă.
-  Updated: 2026-06-26T21:02:07Z
+- [High Waist Drawstring Bikini Set | AquaGlow Swimwear](https://var1zw-c7.myshopify.com/products/drawstring-front-shorts-bikinis-2026-high-waist-swimsuit-women-swimwear-female-bathers-bathing-swimming-swim-suit-beachwear): High waist drawstring bikini set with adjustable fit and water-resistant fabric. Flattering, stylish, and available in seasonal colors. Shop AquaGlow Swimwear.
+  Updated: 2026-07-10T09:24:12Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1278,15 +1152,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S9c9308baf4c349b1a99edf246dd7cd94i.webp?v=1781808985
     Price: $24.99 USD
-- [Prosop Baie Moale Bumbac Multicolor | AquaGlow](https://var1zw-c7.myshopify.com/products/bath-towel-washcloth-cotton-towel-solid-color-soft-absorbent-towels-multipurpose-use-for-hotel-bathroom): Prosop de baie din bumbac moale și absorbant, disponibil în mai multe culori. Ideal pentru acasă, hotel sau spa. AquaGlow.
-  Updated: 2026-06-26T09:15:01Z
+- [Soft Cotton Bath Towel | AquaGlow Home](https://var1zw-c7.myshopify.com/products/bath-towel-washcloth-cotton-towel-solid-color-soft-absorbent-towels-multipurpose-use-for-hotel-bathroom): Soft cotton bath towel — cloud-like softness, highly absorbent, lightweight, and gentle on all skin types. Everyday luxury. Shop AquaGlow.
+  Updated: 2026-07-10T10:28:02Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S9e018d4fbd804e2784f8b12684d65163H.webp?v=1782160532
   Price: $2.99 USD
-- [Prosop Baie Mare Bumbac Hotel Spa | AquaGlow](https://var1zw-c7.myshopify.com/products/cotton-bath-towel--soft-absorbent-towels-bathroom-sets-large-beach-towel-hotel-spa-towels-for-home): Prosop de baie mare din bumbac pur, moale și absorbant. Calitate hotel & spa, ideal pentru plajă sau acasă. AquaGlow.
-  Updated: 2026-06-26T09:15:01Z
+- [Large Cotton Bath Towel | AquaGlow Home](https://var1zw-c7.myshopify.com/products/cotton-bath-towel--soft-absorbent-towels-bathroom-sets-large-beach-towel-hotel-spa-towels-for-home): Large cotton bath towel — premium softness, generous size, highly absorbent, and durable. Perfect for bath, beach, or pool. Shop AquaGlow.
+  Updated: 2026-07-10T10:24:28Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1303,8 +1177,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S0a981b5c5f4946bb985edb0932cac890z.webp?v=1782160532
     Price: $12.99 USD
-- [Prosop Baie 100% Bumbac Pur Uscare Rapidă | AquaGlow](https://var1zw-c7.myshopify.com/products/100-pure-cotton-bath-towel-soft-and-absorbent-multi-purpose-high-quality-quick-dry-bathroom-towel): Prosop de baie din bumbac 100% pur, moale, hipoalergenic și cu uscare rapidă. Multipurpose pentru baie, față și mâini. AquaGlow.
-  Updated: 2026-06-26T09:15:02Z
+- [Pure Cotton Quick-Dry Bath Towel | AquaGlow Home](https://var1zw-c7.myshopify.com/products/100-pure-cotton-bath-towel-soft-and-absorbent-multi-purpose-high-quality-quick-dry-bathroom-towel): 100% pure cotton quick-dry bath towel — soft, hypoallergenic, highly absorbent, and durable. Everyday luxury for your bathroom. Shop AquaGlow.
+  Updated: 2026-07-10T10:06:22Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1333,8 +1207,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S83bc8906e0a34a289dc7aad28f082906s.webp?v=1782160533
     Price: $5.99 USD
-- [Prosop Față Absorbant Îngroșat Moale | AquaGlow](https://var1zw-c7.myshopify.com/products/1-pc-thickened-absorbent-bath-towel-soft-face-towel-for-home): Prosop de față îngroșat, extra moale și absorbant. Ideal pentru uz casnic zilnic. Disponibil la AquaGlow.
-  Updated: 2026-06-26T09:15:02Z
+- [Thickened Soft Face Towel | AquaGlow Home & Wellness](https://var1zw-c7.myshopify.com/products/1-pc-thickened-absorbent-bath-towel-soft-face-towel-for-home): Thickened soft face towel — ultra-plush, highly absorbent, and gentle on sensitive skin. Premium daily face towel. Shop AquaGlow.
+  Updated: 2026-07-10T10:20:21Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1483,8 +1357,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sd1fc5449aa54406bbbbdae166deff98dk.webp?v=1782160535
     Price: $13.99 USD
-- [Set 3 Șampoane Rosemary Creștere Păr Keratină | AquaGlow](https://var1zw-c7.myshopify.com/products/3pcs-rosemary-hair-growth-shampoo-thickening-hydrolyzed-keratin-dry-frizzy-damaged-repair-moisturizing-scalp-cleaning-shampoo): Set 3 șampoane cu rozmarin și keratină hidrolizată pentru creșterea și îngroșarea părului. Hidratare intensă. AquaGlow.
-  Updated: 2026-06-26T09:15:02Z
+- [Rosemary Hair Growth Shampoo Set of 3 | AquaGlow Hair Care](https://var1zw-c7.myshopify.com/products/3pcs-rosemary-hair-growth-shampoo-thickening-hydrolyzed-keratin-dry-frizzy-damaged-repair-moisturizing-scalp-cleaning-shampoo): Rosemary hair growth shampoo set of 3 — stimulates scalp, promotes thicker hair, deep cleansing. Great value hair care set. Shop AquaGlow Hair Care.
+  Updated: 2026-07-10T10:27:45Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1501,36 +1375,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S94b2295788874851bd38ecf141e41d8b8.webp?v=1782160535
     Price: $5.99 USD
-- [Perie Masaj Scalp Silicon Creștere Păr | AquaGlow](https://var1zw-c7.myshopify.com/products/silicone-head-scalp-massage-comb-hair-washing-brush-soft-scalp-massager-for-hair-growth-shampoo-brush-shower-comb-hair-care): Perie de masaj scalp din silicon, blândă și eficientă. Stimulează creșterea părului și curăță în profunzime. AquaGlow.
-  Updated: 2026-06-26T09:15:02Z
+- [Silicone Scalp Massage Brush | AquaGlow Hair Care](https://var1zw-c7.myshopify.com/products/silicone-head-scalp-massage-comb-hair-washing-brush-soft-scalp-massager-for-hair-growth-shampoo-brush-shower-comb-hair-care): Silicone scalp massage brush — stimulates circulation, exfoliates scalp, and promotes healthy hair growth. Spa-like experience at home. Shop AquaGlow Hair Care.
+  Updated: 2026-07-10T10:21:45Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sadd1723a554c450682c77d333940c4cdV.webp?v=1782160535
   Price: $2.00 USD
-- [Ulei Esențial Păr Hidratare Luciu 100ml | AquaGlow](https://var1zw-c7.myshopify.com/products/100ml-hair-care-essential-oil-dry-hair-long-lasting-fragrance-and-smooth-essential-oil-for-girlfriends-and-mothers-on-holiday): Ulei esențial pentru păr 100ml, hidratare profundă și luciu intens. Parfum delicat de lungă durată. Ideal cadou. AquaGlow.
-  Updated: 2026-06-26T09:15:02Z
+- [Hair Care Essential Oil 100ml | AquaGlow Hair Care](https://var1zw-c7.myshopify.com/products/100ml-hair-care-essential-oil-dry-hair-long-lasting-fragrance-and-smooth-essential-oil-for-girlfriends-and-mothers-on-holiday): Hair care essential oil 100ml — strengthens follicles, restores shine, and deeply nourishes scalp. Natural botanical blend for healthier hair. Shop AquaGlow.
+  Updated: 2026-07-10T09:50:34Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S78cdf99948604af5af48e9f17c727557z.webp?v=1782160534
   Price: $2.99 USD
-- [Ser Păr Ulei Argan Marocan Anti-Frizz Luciu | AquaGlow](https://var1zw-c7.myshopify.com/products/moroccan-argan-oil-hair-serum-lightweight-hair-oil-mist-for-split-ends-frizzy-hair-and-flyaways-hair-oil-repair-gloss-shine): Ser de păr cu ulei de argan marocan, anti-frizz și luciu intens. Elimină vârfurile despicate. Formula ușoară. AquaGlow.
-  Updated: 2026-06-26T09:15:03Z
+- [Moroccan Argan Oil Hair Serum | AquaGlow Hair Care](https://var1zw-c7.myshopify.com/products/moroccan-argan-oil-hair-serum-lightweight-hair-oil-mist-for-split-ends-frizzy-hair-and-flyaways-hair-oil-repair-gloss-shine): Moroccan argan oil hair serum — frizz control, deep nourishment, heat protection, and salon-worthy shine. For all hair types. Shop AquaGlow Hair Care.
+  Updated: 2026-07-10T10:03:48Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Scf6559f0dd5d4b959ddd8cfbb1732512D.webp?v=1782160535
   Price: $3.50 USD
-- [Șampon Solid Rozmarin Creștere Păr Eco | AquaGlow](https://var1zw-c7.myshopify.com/products/rosemary-shampoo-hair-growth-soap-moisturizing-oil-control-non-irritating-increase-gloss-nourishing-hair-strengthening-shampoo): Șampon solid cu rozmarin pentru creșterea părului. Control sebum, hidratare echilibrată. Format eco și economic. AquaGlow.
-  Updated: 2026-06-26T09:15:03Z
+- [Rosemary Hair Growth Shampoo Bar | AquaGlow Hair Care](https://var1zw-c7.myshopify.com/products/rosemary-shampoo-hair-growth-soap-moisturizing-oil-control-non-irritating-increase-gloss-nourishing-hair-strengthening-shampoo): Rosemary hair growth shampoo bar — stimulates scalp, promotes growth, deep cleansing, eco-friendly solid format. For all hair types. Shop AquaGlow Hair Care.
+  Updated: 2026-07-10T10:04:50Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S256b5dcc4a394a96aabf67b5e5802e48i.webp?v=1782160536
   Price: $2.10 USD
-- [Loțiune Corp 3 în 1 Parfum Hidratare Lungă Durată | AquaGlow](https://var1zw-c7.myshopify.com/products/3-in-1-perfume-body-lotion-moisturizing-and-caring-fragrance-lotion-deep-cleaning-lasting-fragrance-essential-for-travel): Loțiune de corp 3 în 1 cu parfum delicat, hidratare profundă și îngrijire. Format compact pentru călătorii. AquaGlow.
-  Updated: 2026-06-26T09:15:03Z
+- [3-in-1 Perfume Body Lotion | AquaGlow Body Care](https://var1zw-c7.myshopify.com/products/3-in-1-perfume-body-lotion-moisturizing-and-caring-fragrance-lotion-deep-cleaning-lasting-fragrance-essential-for-travel): 3-in-1 perfume body lotion — moisturizes, perfumes, and illuminates in one step. Lightweight, long-lasting, and luxurious. Shop AquaGlow Body Care.
+  Updated: 2026-07-10T10:10:12Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1543,8 +1417,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S2c9cdca3c2574e09a7e1d99afbf559d40.webp?v=1782160536
     Price: $8.10 USD
-- [Loțiune Corp Colagen Fermitate Anti-Îmbătrânire Hidratare | AquaGlow](https://var1zw-c7.myshopify.com/products/collagen-body-lotion-for-firming-hydration-intense-moisturizer-anti-aging-skin-for-dry-sagging-skin-nourishment-300g-pc): Loțiune corp cu colagen activ pentru fermitate, anti-îmbătrânire și hidratare intensă. Combate pielea uscată și lăsată. AquaGlow.
-  Updated: 2026-06-26T09:15:03Z
+- [Collagen Firming Body Lotion | AquaGlow Body Care](https://var1zw-c7.myshopify.com/products/collagen-body-lotion-for-firming-hydration-intense-moisturizer-anti-aging-skin-for-dry-sagging-skin-nourishment-300g-pc): Collagen firming & hydration body lotion — boosts elasticity, deeply moisturizes, and leaves skin silky-smooth. Anti-aging body care. Shop AquaGlow.
+  Updated: 2026-07-10T10:16:00Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1557,15 +1431,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S379e11e440a148a7ad9af19018df29537.webp?v=1782160536
     Price: $9.99 USD
-- [Cremă Solară SPF90+ Waterproof Față Corp | AquaGlow](https://var1zw-c7.myshopify.com/products/facial-body-sunscreen-waterproof-spf-90-uv-sun-cream-sunblock-skin-protective-cream-anti-sun-facial-seaside-protection-cream): Cremă solară SPF90+ waterproof pentru față și corp. Protecție UVA/UVB extremă, textură ușoară. Ideal plajă. AquaGlow.
-  Updated: 2026-06-26T09:15:03Z
+- [SPF90+ Waterproof Sunscreen | AquaGlow Skincare](https://var1zw-c7.myshopify.com/products/facial-body-sunscreen-waterproof-spf-90-uv-sun-cream-sunblock-skin-protective-cream-anti-sun-facial-seaside-protection-cream): SPF90+ waterproof sunscreen for face & body — maximum broad-spectrum protection, sweat-resistant, lightweight. For beach, sports, and outdoor use. Shop AquaGlow.
+  Updated: 2026-07-14T02:45:01Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S9556a9dc91294ac487b342067f6d6da7F.webp?v=1782160537
   Price: $2.50 USD
-- [Cremă Solară SPF50+ Orez Probiotice Beauty of Joseon | AquaGlow](https://var1zw-c7.myshopify.com/products/spf50-anti-uv-sun-block-facial-50ml-beauty-of-joseon-brand-sunscreen-for-body-and-face-rice-probiotic-solar-blocker-skin-cream): Cremă solară SPF50+ cu extract de orez și probiotice. Protecție UVA/UVB, textură ușoară, ten luminos. 50ml. AquaGlow.
-  Updated: 2026-06-26T09:15:04Z
+- [SPF50+ Rice & Probiotic Sunscreen | AquaGlow Skincare](https://var1zw-c7.myshopify.com/products/spf50-anti-uv-sun-block-facial-50ml-beauty-of-joseon-brand-sunscreen-for-body-and-face-rice-probiotic-solar-blocker-skin-cream): SPF50+ rice & probiotic sunscreen — lightweight, no white cast, brightening and skin-balancing. Daily sun protection for radiant skin. Shop AquaGlow.
+  Updated: 2026-07-10T10:01:30Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1610,8 +1484,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S206a811e62b04b4b844771e364e74b1dZ.webp?v=1782160538
     Price: $4.99 USD
-- [Prosop Exfoliant Spate Dual Sided Detox | AquaGlow](https://var1zw-c7.myshopify.com/products/back-scrubbing-towel-dual-sided-durable-exfoliating-body-towel-back-strap-unisex-detox-mud-back-scrub-extended-bathing-towel): Prosop exfoliant cu două fețe pentru spate și corp. Îndepărtează celulele moarte, piele moale și strălucitoare. AquaGlow.
-  Updated: 2026-06-26T09:15:04Z
+- [Back Scrub Exfoliating Towel | AquaGlow Body Care](https://var1zw-c7.myshopify.com/products/back-scrubbing-towel-dual-sided-durable-exfoliating-body-towel-back-strap-unisex-detox-mud-back-scrub-extended-bathing-towel): Back scrub exfoliating towel — textured surface removes dead skin, stimulates circulation, long format for full back coverage. Shop AquaGlow Body Care.
+  Updated: 2026-07-10T10:13:35Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1624,8 +1498,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S8d174b8f9df341e989c5d3e81c968286w.webp?v=1782160538
     Price: $5.00 USD
-- [Scrub Corp Pepene Shea Zahăr Natural Exfoliant | AquaGlow](https://var1zw-c7.myshopify.com/products/natural-watermelon-shea-sugar-scrub-150g-body-exfoliator-moisturizing-smooth-glowing-skin-for-elbows-knees-back-legs): Scrub de corp natural cu pepene, unt de shea și zahăr. Exfoliere blândă, piele moale și strălucitoare. 150g. AquaGlow.
-  Updated: 2026-06-26T09:15:04Z
+- [Watermelon Shea Sugar Body Scrub | AquaGlow Body Care](https://var1zw-c7.myshopify.com/products/natural-watermelon-shea-sugar-scrub-150g-body-exfoliator-moisturizing-smooth-glowing-skin-for-elbows-knees-back-legs): Watermelon & shea sugar body scrub — gentle exfoliation, deep hydration, and a fresh summer fragrance. For silky, glowing skin. Shop AquaGlow Body Care.
+  Updated: 2026-07-10T10:05:35Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1646,8 +1520,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/Sa8984c44f50b4378ad91091143f9f74eb.webp?v=1782160539
     Price: $6.00 USD
-- [Lumânare Aromoterapie cu Ulei de Masaj | AquaGlow](https://var1zw-c7.myshopify.com/products/massage-oil-candle-for-stress-relief-and-skin-moisturizing-scented-candles-aromatherapy-sm-product-spa-essentials-luxury-candles): Lumânare cu ulei de masaj și aromoterapie pentru relaxare profundă. Parfum îmbietor, ritual de spa acasă. Disponibilă la AquaGlow.
-  Updated: 2026-06-26T09:15:04Z
+- [Massage Oil Aromatherapy Candle | AquaGlow Wellness](https://var1zw-c7.myshopify.com/products/massage-oil-candle-for-stress-relief-and-skin-moisturizing-scented-candles-aromatherapy-sm-product-spa-essentials-luxury-candles): Massage oil aromatherapy candle — melts into warm skin-nourishing oil with calming fragrance. Perfect for self-care or gifting. Shop AquaGlow.
+  Updated: 2026-07-10T09:52:55Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1752,8 +1626,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S4f9d9cb800a64618abf96d78d8eb11f5a.webp?v=1782160540
     Price: $5.99 USD
-- [Lumânare Romantică Aromoterapie Transparentă | AquaGlow](https://var1zw-c7.myshopify.com/products/transparent-romantic-aromatherapy-candle-lamp-gift-aromatherapy-candle-guest-gift-candle-wedding-candle-candle-jar): Lumânare romantică transparentă cu parfum de aromoterapie. Perfectă pentru momente speciale și cadouri. Disponibilă la AquaGlow.
-  Updated: 2026-06-26T09:15:04Z
+- [Romantic Aromatherapy Candle | AquaGlow Home & Wellness](https://var1zw-c7.myshopify.com/products/transparent-romantic-aromatherapy-candle-lamp-gift-aromatherapy-candle-guest-gift-candle-wedding-candle-candle-jar): Romantic aromatherapy candle in transparent glass — soothing fragrance, warm glow, perfect for gifting or self-care. Shop AquaGlow.
+  Updated: 2026-07-10T09:53:30Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1786,8 +1660,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/3377/1162/files/S308bc32a2eea487ab01b9cbb9ede40feS.webp?v=1782160540
     Price: $5.99 USD
-- [Lumânări Vintage Ceară de Soia Parfumate | AquaGlow](https://var1zw-c7.myshopify.com/products/1-4pcs-vintage-scented-candles-soy-wax-candle-jars-flower-fragrance-scent-candle-wedding-ceremony-birthday-gifts-home-decoration): Lumânări vintage din ceară de soia cu parfumuri florale naturale. Set 1-4 bucăți, perfecte cadou sau decor. Disponibile la AquaGlow.
-  Updated: 2026-06-26T09:15:04Z
+- [Vintage Soy Wax Candles | AquaGlow Home & Wellness](https://var1zw-c7.myshopify.com/products/1-4pcs-vintage-scented-candles-soy-wax-candle-jars-flower-fragrance-scent-candle-wedding-ceremony-birthday-gifts-home-decoration): Vintage soy wax candles — 100% pure soy, clean burn, and elegant design. Perfect for home ambiance or gifting. Shop AquaGlow.
+  Updated: 2026-07-10T09:44:51Z
   Vendor: AquaGlow
   Product Type: 
   Availability: Available
@@ -1879,23 +1753,23 @@
 
 ## Collections
 
-- [Bikini Collection - AquaGlow Swimwear](https://var1zw-c7.myshopify.com/collections/frontpage): Shop our full bikini collection at AquaGlow. Stylish swimwear for every beach lover.
-  Updated: 2026-06-26T09:14:57Z
+- [Home page](https://var1zw-c7.myshopify.com/collections/frontpage): Shop our full bikini collection at AquaGlow. Stylish swimwear for every beach lover.
+  Updated: 2026-07-15T11:15:23Z
   Total Products: 20
 - [Bikini Collection](https://var1zw-c7.myshopify.com/collections/bikini-collection): Shop AquaGlow premium bikinis.
-  Updated: 2026-06-26T09:14:58Z
+  Updated: 2026-07-15T11:15:25Z
   Total Products: 20
-- [Prosoape](https://var1zw-c7.myshopify.com/collections/prosoape): Prosoape premium de lux — AquaGlow.
-  Updated: 2026-06-26T09:14:58Z
+- [Prosoape](https://var1zw-c7.myshopify.com/collections/prosoape): Shop AquaGlow's premium cotton towel collection — ultra-soft, highly absorbent bath and beach towels for everyday luxury.
+  Updated: 2026-07-15T11:15:26Z
   Total Products: 5
-- [Îngrijire Păr](https://var1zw-c7.myshopify.com/collections/ingrijire-par): Produse premium de îngrijire a părului — AquaGlow.
-  Updated: 2026-06-26T09:14:58Z
+- [Îngrijire Păr](https://var1zw-c7.myshopify.com/collections/ingrijire-par): Discover AquaGlow's premium hair care collection — rosemary shampoos, argan oil serums, and scalp treatments for beautiful hair.
+  Updated: 2026-07-15T11:15:27Z
   Total Products: 5
-- [Îngrijire Corp](https://var1zw-c7.myshopify.com/collections/ingrijire-corp): Produse premium de îngrijire a corpului — AquaGlow.
-  Updated: 2026-06-26T09:14:58Z
+- [Îngrijire Corp](https://var1zw-c7.myshopify.com/collections/ingrijire-corp): Discover AquaGlow's premium body care collection — scrubs, lotions, and sunscreens for silky, radiant skin. Shop now.
+  Updated: 2026-07-15T11:15:29Z
   Total Products: 5
-- [Lumânări & Aromoterapie](https://var1zw-c7.myshopify.com/collections/lumanari-aromoterapie): Lumânări parfumate și produse de aromoterapie premium — AquaGlow.
-  Updated: 2026-06-26T09:14:58Z
+- [Lumânări & Aromoterapie](https://var1zw-c7.myshopify.com/collections/lumanari-aromoterapie): Shop AquaGlow's luxury candle & aromatherapy collection — soy wax, massage oil candles, and romantic scents for your home ritual.
+  Updated: 2026-07-15T11:15:30Z
   Total Products: 3
 
 ## Blogs
@@ -1913,6 +1787,12 @@
   - [How to Enhance Your Home Office for Maximum Productivity](https://var1zw-c7.myshopify.com/blogs/news/how-to-enhance-your-home-office-for-maximum-productivity): How to Enhance Your Home Office for Maximum Productivity
     Updated: 2026-06-29T00:23:44Z
     Author: User
+  - [Solving Common Problems with Our Smart Gadgets](https://var1zw-c7.myshopify.com/blogs/news/solving-common-problems-with-our-smart-gadgets): Solving Common Problems with Our Smart Gadgets
+    Updated: 2026-07-06T00:23:06Z
+    Author: User
+  - [What Makes Our New Collection Unique and Innovative](https://var1zw-c7.myshopify.com/blogs/news/what-makes-our-new-collection-unique-and-innovative): What Makes Our New Collection Unique and Innovative
+    Updated: 2026-07-13T00:23:26Z
+    Author: User
 
 ## Store Pages
 
@@ -1920,8 +1800,6 @@
   Updated: 2026-06-26T20:00:18Z
 - [Your Privacy Choices](https://var1zw-c7.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-06-07T19:56:36Z
-- [Despre Noi - AquaGlow Swimwear](https://var1zw-c7.myshopify.com/pages/despre-noi): Bine ai venit la AquaGlow 🌊AquaGlow s-a născut din dragostea pentru mare, soare și stilul feminin autentic. Credem că fiecare femeie merită să se s...
-  Updated: 2026-06-20T21:18:27Z
 - [BeME Ad-Hoc API - Do Not Delete](https://var1zw-c7.myshopify.com/pages/90c721f4-e220-11ec-8fea-0242ac121004)
   Updated: 2026-06-16T20:26:11Z
 
