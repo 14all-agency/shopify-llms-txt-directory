@@ -6,232 +6,280 @@
 - Timezone: America/New_York
 - Created At: 2025-07-13T14:47:21Z
 - Contact Email: wldunlimitedventures@gmail.com
-- Updated At: 2026-07-08T00:00:22.889Z
+- Updated At: 2026-07-18T00:00:33.323Z
 
 ## Products
 
 - [Freelancer Notion CRM Template: Client System](https://tl5digitalworld.com/products/freelancer-notion-crm-template): Manage clients, projects, and payments in one place. The Freelancer Notion CRM Template is built for freelancers who mean business.
-  Updated: 2026-07-03T16:32:13Z
+  Updated: 2026-07-13T13:59:23Z
   Vendor: TL5 | ThelmLawr5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPT_Image_Jun_11_2026_09_57_43_PM.png?v=1781229474
   Price: $12.00 USD
 - [AI Prompt Pack for Entrepreneurs to Boost Sales](https://tl5digitalworld.com/products/ai-prompt-pack-for-digital-entrepreneurs): Grow faster with AI Prompt Pack for Entrepreneurs. Get ready-to-use prompts to create content, automate tasks, and increase digital sales.
-  Updated: 2026-07-03T16:32:13Z
+  Updated: 2026-07-13T13:59:33Z
   Vendor: My Store
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPT_Image_Jun_11_2026_10_05_24_PM.png?v=1781229936
   Price: $9.00 USD
 - [From Fired to Funded 7-Day Digital Hustle Plan](https://tl5digitalworld.com/products/from-fired-to-funded-a-7-day-digital-hustle-plan): Turn setbacks into income with From Fired to Funded. Follow a 7-day digital hustle plan to rebuild, launch offers, and start earning fast.
-  Updated: 2026-07-03T16:32:14Z
+  Updated: 2026-07-13T13:59:42Z
   Vendor: TL5 | ThelmLawr5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/From_Fired_to_Funded.png?v=1779241752
   Price: $12.00 USD
 - [90-Day Hustle Planner for Goal Setting Success](https://tl5digitalworld.com/products/90-day-hustle-planner): Stay focused with the 90-Day Hustle Planner. Plan, track, and achieve your goals with a simple system built for productivity and growth.
-  Updated: 2026-07-03T16:32:14Z
+  Updated: 2026-07-13T13:59:53Z
   Vendor: TL5 | ThelmLawr5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPT_Image_Jun_11_2026_10_52_02_PM.png?v=1781232736
   Price: $12.99 USD
 - [Midlife My Way – Escape 9-to-5 and Thrive Online](https://tl5digitalworld.com/products/midlife-my-way-escaping-the-9-to-5-and-thriving-online): Transform your life with Midlife My Way. Escape the 9-to-5 and start thriving online with freedom, purpose, and income on your terms.
-  Updated: 2026-07-04T10:27:03Z
+  Updated: 2026-07-13T13:57:52Z
   Vendor: TL5 | ThelmLawr5 Digital World
-  Product Type: Digital Download
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPT_Image_Jun_11_2026_10_26_06_PM.png?v=1781231179
   Price: $5.99 USD
 - [Embracing the Uncomfortable for Personal Growth](https://tl5digitalworld.com/products/embracing-the-uncomfortable): Grow stronger with Embracing the Uncomfortable. Learn how stepping outside your comfort zone builds resilience, confidence, and success.
-  Updated: 2026-07-03T16:32:14Z
+  Updated: 2026-07-13T13:57:16Z
   Vendor: TL5 | ThelmLawr5 Digital World
-  Product Type: eBook
+  Product Type: Digital Guide
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/Embracing_the_Uncomfortable.png?v=1779241482
   Price: $7.50 USD
 - [AI Side Hustle Starter Kit: AI Business System](https://tl5digitalworld.com/products/ai-side-hustle-starter-kit): AI Side Hustle Starter Kit helps you launch AI-powered businesses using simple systems, practical strategies, and step-by-step guidance
-  Updated: 2026-07-03T16:32:14Z
+  Updated: 2026-07-13T14:00:01Z
   Vendor: TL5 | ThelmLawr5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/AI_Side_Hustle_Starter_Kit.png?v=1779241342
   Price: $17.00 USD
 - [AI Digital Product Mastery 4-Module Video Course](https://tl5digitalworld.com/products/ai-digital-product-mastery-4-module-video-course-private-access): Master digital products with AI Digital Product Mastery. Learn in 4 modules with private video access and step-by-step guidance.
-  Updated: 2026-07-03T16:32:14Z
+  Updated: 2026-07-13T14:03:03Z
   Vendor: TL5 Digital World
   Product Type: Online Course
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/AI_Digital_Product_Mastery.png?v=1779241237
   Price: $49.00 USD
 - [30-Day Plug-and-Post Social Kit with Hashtag Packs](https://tl5digitalworld.com/products/30-day-plug-and-post-social-kit): Stay consistent with the 30-Day Plug-and-Post Social Kit. Includes AI-ready posts, hashtag packs, and a simple tracking system.
-  Updated: 2026-07-03T16:32:15Z
+  Updated: 2026-07-13T14:00:18Z
   Vendor: TL5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/Listing_01_Cover.png?v=1778285930
   Price: $12.00 USD
 - [Digital Product Description Templates: Sales Copy Kit](https://tl5digitalworld.com/products/digital-product-description-templates): Write high-converting product descriptions fast with ready-to-use templates and proven frameworks. Instant digital download for sellers of all niches.
-  Updated: 2026-07-04T02:06:44Z
+  Updated: 2026-07-13T14:00:29Z
   Vendor: TL5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/Digital_Product_Description_Templates.png?v=1779240912
   Price: $14.99 USD
 - [TL5 3-Month Essentials Pack – 150 Caption Prompts](https://tl5digitalworld.com/products/tl5-3-month-essentials-pack): Create content faster with the TL5 3-Month Essentials Pack featuring 150 ready-to-use caption prompts for daily posting.
-  Updated: 2026-07-03T16:32:15Z
+  Updated: 2026-07-13T14:00:44Z
   Vendor: TL5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/3monthimage.png?v=1778285925
   Price: $24.99 USD
 - [Digital Hustle Starter Pack for Side Hustlers](https://tl5digitalworld.com/products/digital-hustle-starter-pack): Launch your online income faster with the Digital Hustle Starter Pack designed for side hustlers and digital entrepreneurs.
-  Updated: 2026-07-03T16:32:15Z
+  Updated: 2026-07-13T14:00:52Z
   Vendor: TL5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/bundleImage_1.png?v=1778985809
   Price: $39.00 USD
 - [AI Caption Vault – 300+ Viral Gen Z Captions](https://tl5digitalworld.com/products/ai-caption-vault-gen-z): Boost engagement with AI Caption Vault featuring 300+ viral Gen Z captions for TikTok, Instagram, and social media growth.
-  Updated: 2026-07-03T16:32:15Z
+  Updated: 2026-07-13T14:01:10Z
   Vendor: TL5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/AICaptionVault_GenZEdition-Image2.png?v=1778285883
   Price: $17.00 USD
 - [Freelancer Emergency Kit™ for Client Crisis Recovery](https://tl5digitalworld.com/products/the-freelancer-emergency-kit): Protect your business with the Freelancer Emergency Kit™. Get client-saving templates and scripts for urgent freelance situations.
-  Updated: 2026-07-03T16:32:16Z
+  Updated: 2026-07-13T14:01:22Z
   Vendor: TL5 | ThelmLawr5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/FreelancerEmergencyKitImage1.png?v=1778285873
   Price: $27.00 USD
 - [Productivity Jumpstart Kit Pro: Boost Focus & Get More Done](https://tl5digitalworld.com/products/productivity-jumpstart-kit-pro-focus-system): Productivity Jumpstart Kit Pro helps you boost focus, build strong habits, and increase daily output using simple systems, tools, and proven productivity method
-  Updated: 2026-07-03T16:32:16Z
+  Updated: 2026-07-13T14:01:34Z
   Vendor: TL5 | ThelmLawr5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPT_Image_Jun_11_2026_09_24_15_PM.png?v=1781227469
   Price: $12.00 USD
 - [AI Escape Plan Income Strategy for Smarter Wealth Building](https://tl5digitalworld.com/products/ai-escape-plan-income-strategy-ai-monetization): Use AI to turn your skills into income. The AI Escape Plan Income Strategy gives you a step-by-step system to create and  digital products fast.
-  Updated: 2026-07-04T02:07:14Z
+  Updated: 2026-07-13T14:01:50Z
   Vendor: TL5 Digital World
-  Product Type: Digital Kit
+  Product Type: Digital Template
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJun23_2026_09_35_43PM.png?v=1782264952
   Price: $27.00 USD
 - [90-Day Financial Recovery Plan for Income Growth Success](https://tl5digitalworld.com/products/90-day-financial-recovery-plan-system): Rebuild your finances in 90 days with a structured, week-by-week recovery plan. Instant digital download for anyone ready to reset their financial life.
-  Updated: 2026-07-04T02:07:45Z
+  Updated: 2026-07-13T13:58:01Z
   Vendor: TL5 Digital World
-  Product Type: Digital Download
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/90dayimage1.png?v=1781143768
   Price: $19.97 USD
 - [Bridge Income Blueprint Guide Financial Growth Workbook](https://tl5digitalworld.com/products/bridge-income-blueprint-guide-blueprint-financial-growth-workbook): Build consistent income with the Bridge Income Blueprint workbook. A step-by-step system to close financial gaps and create lasting earning stability.
-  Updated: 2026-07-04T02:08:10Z
+  Updated: 2026-07-13T13:58:13Z
   Vendor: TL5 Digital World
-  Product Type: Digital Download
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJun16_2026_10_25_16PM.png?v=1782176000
   Price: $17.00 USD
 - [Funding Your Dream™ | Business Funding Blueprint Workbook](https://tl5digitalworld.com/products/funding-your-dream-35-day-business-funding-blueprint): Funding Your Dream Step-by-step workbook to secure business funding. Covers grants, loans, startup capital & trackers. Instant digital download 4 entrepreneurs.
-  Updated: 2026-07-03T16:32:16Z
+  Updated: 2026-07-13T13:58:22Z
   Vendor: TL5 Digital World
-  Product Type: Digital Download
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJun19_2026_10_30_43PM.png?v=1782175915
   Price: $29.99 USD
 - [Business Launch Blueprint™ – Step-by-Step Workbook for New Entrepreneurs](https://tl5digitalworld.com/products/business-launch-blueprint): Download the Business Launch Blueprint™ — a 33-page digital workbook with a 90-Day Action Plan to help entrepreneurs go from idea to launch. Instant download. $24.99.
-  Updated: 2026-07-03T16:32:17Z
+  Updated: 2026-07-13T13:58:31Z
   Vendor: TL5 Digital World
-  Product Type: Digital Download
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJun22_2026_06_53_40PM.png?v=1782263564
   Price: $24.99 USD
 - [Credit Empowerment™ | Credit Repair & Improvement Workbook](https://tl5digitalworld.com/products/credit-empowerment-workbook): Build, repair, and improve your credit with this interactive 35-page workbook featuring dispute letters, trackers, worksheets, and practical financial tools.
-  Updated: 2026-07-03T16:32:17Z
+  Updated: 2026-07-13T13:58:44Z
   Vendor: TL5 Digital World
-  Product Type: Digital Download
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJun22_2026_09_12_32PM.png?v=1782608949
   Price: $24.99 USD
 - [Wealth Builder Blueprint™ – Financial Planning Workbook | TL5 Digital World](https://tl5digitalworld.com/products/wealth-builder-blueprint-workbook): Build lasting wealth with this 35-page interactive workbook. Covers budgeting, investing, debt reduction & retirement planning. Instant digital download.
-  Updated: 2026-07-03T16:32:17Z
+  Updated: 2026-07-13T13:58:55Z
   Vendor: TL5 Digital World
-  Product Type: Digital Download
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJun27_2026_10_30_29PM.png?v=1782862714
   Price: $24.99 USD
 - [Debt Freedom Blueprint™ | 35-Day Financial Workbook | Printable PDF](https://tl5digitalworld.com/products/debt-freedom-blueprint): Eliminate debt & build wealth with this 35-day guided workbook. Includes daily lessons, worksheets, budget planners & credit rebuilding tools. Instant download.
-  Updated: 2026-07-04T03:37:08Z
+  Updated: 2026-07-13T13:57:27Z
   Vendor: TL5 Digital World
-  Product Type: Digital Workbook
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul3_2026_09_32_45PM.png?v=1783135102
   Price: $29.99 USD
 - [Emergency Fund Accelerator™ – 30-Day Financial Coaching Workbook](https://tl5digitalworld.com/products/emergency-fund-accelerator-30-day-financial-coaching-workbook): Build your emergency fund in 30 days with guided coaching lessons, worksheets & savings challenges. Start your financial confidence journey today.
-  Updated: 2026-07-06T02:06:06Z
+  Updated: 2026-07-13T13:59:05Z
   Vendor: TL5 Digital World
-  Product Type: Digital Download
+  Product Type: Digital Planner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul5_2026_09_18_49PM.png?v=1783302778
   Price: $24.99 USD
+- [Investing for Beginners Workbook | TL5 Interactive Blueprint™ – 28-Page Wealth Building System](https://tl5digitalworld.com/products/investing-for-beginners-workbook-tl5-interactive-blueprint): Build investing confidence with the TL5 Interactive Blueprint™—a 28-page digital workbook with trackers, templates & exercises. Instant download. Start today!
+  Updated: 2026-07-13T10:33:01Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Planner
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul10_2026_08_27_33PM.png?v=1783894965
+  Price: $24.99 USD
+- [Retirement Planning Made Simple – 35-Page Workbook | TL5 Digital World](https://tl5digitalworld.com/products/retirement-planning-made-simple-35-page-interactive-workbook): Plan your retirement with confidence using this 35-page interactive workbook. Covers 401(k), IRA, investing,  & more. Instant digital download.
+  Updated: 2026-07-14T01:33:21Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Guide
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul13_2026_07_00_52PM_bc8f11ce-5fdc-46a8-a8e5-4053e4a597f1.png?v=1783992347
+  Price: $24.99 USD
+- [Net Worth Builder Workbook – Track Assets & Build Wealth | TL5 Digital World](https://tl5digitalworld.com/products/net-worth-builder-workbook): Take control of your finances with this 35-page printable workbook. Track net worth, reduce debt, set goals & build lasting wealth. Instant PDF download.
+  Updated: 2026-07-15T14:05:59Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Guide
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul14_2026_09_18_37PM.png?v=1784079961
+  Price: $24.99 USD
+- [Business Systems Blueprint – 28-Page Business Operations Workbook | TL5 Digital World](https://tl5digitalworld.com/products/business-systems-blueprint-workbook): Build repeatable systems & scale smarter. This 28-page digital workbook covers SOPs, automation, delegation, and more. Instant download. Editable & printable.
+  Updated: 2026-07-16T00:48:52Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul15_2026_08_10_08PM.png?v=1784161641
+  Price: $24.99 USD
+- [AI Productivity Toolkit for Entrepreneurs – 26-Page Workbook | TL5 Digital World](https://tl5digitalworld.com/products/ai-productivity-toolkit-entrepreneurs-workbook): Master AI with the TL5 AI Productivity Toolkit—26 pages of prompts, workflows & strategies for entrepreneurs. Instant digital download. Start working smarter today.
+  Updated: 2026-07-17T00:35:14Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul16_2026_07_58_35PM.png?v=1784247477
+  Price: $24.99 USD
+- [Small Business Marketing Blueprint – 21-Page Interactive Workbook | TL5 Digital World](https://tl5digitalworld.com/products/small-business-marketing-blueprint): Build a complete marketing system with this 21-page interactive workbook. Includes strategy templates, AI prompts, KPI dashboards & more. Instant digital download.
+  Updated: 2026-07-17T23:32:46Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul17_2026_07_07_08PM.png?v=1784330715
+  Price: $16.99 USD
 
 ## Collections
 
 - [Home page](https://tl5digitalworld.com/collections/frontpage)
-  Updated: 2026-07-03T16:32:13Z
+  Updated: 2026-07-13T01:57:57Z
   Total Products: 2
 - [Notion Templates](https://tl5digitalworld.com/collections/notion-templates): A curated set of powerful digital tools designed to help freelancers stay productive and organized.
-  Updated: 2026-07-03T16:32:13Z
+  Updated: 2026-07-13T02:01:28Z
   Total Products: 4
 - [Courses, AI Training, Digital Hustle Academy](https://tl5digitalworld.com/collections/courses-ai-training-digital-hustle-academy): Learn how to build, , and scale AI-powered digital products with our 4-module video course. Perfect for entrepreneurs, small business owners, and creators looking to turn ideas into income. Get instant access to step-by-step training, downloadable resources, and proven strategies for online business growth.
-  Updated: 2026-07-03T22:27:00Z
-  Total Products: 5
+  Updated: 2026-07-17T00:23:52Z
+  Total Products: 6
 - [Online Course – AI Training, Digital Hustle Academy](https://tl5digitalworld.com/collections/online-course-ai-training-digital-hustle-academy): Learn how to build, , and scale AI-powered digital products with our 4-module video course. Get instant access to step-by-step training, tools, and strategies for online income success.
-  Updated: 2026-07-03T16:32:13Z
+  Updated: 2026-07-13T02:00:35Z
   Total Products: 3
 - [Content Creator Tool](https://tl5digitalworld.com/collections/content-creator-tool): Done-for-you content creator tools, caption packs, and AI templates to help digital entrepreneurs create faster and grow online.
-  Updated: 2026-07-03T16:32:13Z
+  Updated: 2026-07-13T02:01:17Z
   Total Products: 7
 - [Financial Recovery](https://tl5digitalworld.com/collections/financial-recovery)
-  Updated: 2026-07-03T16:32:13Z
+  Updated: 2026-07-13T01:58:09Z
   Total Products: 2
 - [Business Funding](https://tl5digitalworld.com/collections/business-funding)
-  Updated: 2026-07-03T16:32:14Z
+  Updated: 2026-07-13T01:58:19Z
   Total Products: 1
 - [Business & Entrepreneurship](https://tl5digitalworld.com/collections/business-entrepreneurship)
-  Updated: 2026-07-03T16:32:14Z
-  Total Products: 1
-- [Financial Education](https://tl5digitalworld.com/collections/financial-education)
-  Updated: 2026-07-06T02:01:08Z
+  Updated: 2026-07-16T00:40:52Z
   Total Products: 2
+- [Financial Education](https://tl5digitalworld.com/collections/financial-education)
+  Updated: 2026-07-15T01:54:28Z
+  Total Products: 3
 - [Workbooks](https://tl5digitalworld.com/collections/workbooks)
-  Updated: 2026-07-06T02:01:08Z
+  Updated: 2026-07-13T01:59:01Z
   Total Products: 2
 - [Best Sellers](https://tl5digitalworld.com/collections/best-sellers)
-  Updated: 2026-07-03T16:32:14Z
-  Total Products: 1
+  Updated: 2026-07-15T01:54:28Z
+  Total Products: 2
 - [New Arrivals](https://tl5digitalworld.com/collections/new-arrivals)
-  Updated: 2026-07-06T02:01:08Z
+  Updated: 2026-07-13T01:59:01Z
   Total Products: 2
 - [Wealth Building](https://tl5digitalworld.com/collections/wealth-building)
-  Updated: 2026-07-03T16:32:14Z
-  Total Products: 1
+  Updated: 2026-07-15T01:54:28Z
+  Total Products: 3
 - [Investing](https://tl5digitalworld.com/collections/investing)
-  Updated: 2026-07-03T16:32:14Z
+  Updated: 2026-07-13T01:58:51Z
   Total Products: 1
 - [Financial Foundation Series](https://tl5digitalworld.com/collections/financial-foundation-series): 5 step-by-step digital workbooks to eliminate debt, rebuild credit, and build lasting wealth. Instant download. Start your financial transformation today.
-  Updated: 2026-07-06T02:01:08Z
-  Total Products: 6
+  Updated: 2026-07-13T01:59:01Z
+  Total Products: 7
 - [Digital Workbooks](https://tl5digitalworld.com/collections/digital-workbooks)
-  Updated: 2026-07-06T02:01:08Z
-  Total Products: 2
+  Updated: 2026-07-17T00:23:52Z
+  Total Products: 4
 - [Personal Finance](https://tl5digitalworld.com/collections/personal-finance)
-  Updated: 2026-07-06T02:01:09Z
+  Updated: 2026-07-13T01:59:01Z
   Total Products: 2
+- [Financial Foundation](https://tl5digitalworld.com/collections/financial-foundation)
+  Updated: 2026-07-12T22:27:12Z
+  Total Products: 0
+- [Retirement Planning](https://tl5digitalworld.com/collections/retirement-planning)
+  Updated: 2026-07-14T01:29:13Z
+  Total Products: 1
 
 ## Blogs
 
@@ -274,6 +322,24 @@
   - [How to Use a Side Hustle Planning Template](https://tl5digitalworld.com/blogs/news/how-to-use-a-side-hustle-planning-template): How to Use a Side Hustle Planning Template
     Updated: 2026-07-07T06:42:44Z
     Author: Admin
+  - [How to Improve Credit Score Faster](https://tl5digitalworld.com/blogs/news/how-to-improve-credit-score-faster): How to Improve Credit Score Faster
+    Updated: 2026-07-08T07:15:31Z
+    Author: Admin
+  - [Credit Repair Guide: Steps That Actually Move You Forward](https://tl5digitalworld.com/blogs/news/credit-repair-guide-steps-that-move-you-forward): Credit Repair Guide: Steps That Actually Move You Forward
+    Updated: 2026-07-11T06:57:26Z
+    Author: Admin
+  - [Proposal Templates for Freelancers That Win Work](https://tl5digitalworld.com/blogs/news/proposal-templates-for-freelancers): Proposal Templates for Freelancers That Win Work
+    Updated: 2026-07-12T06:18:30Z
+    Author: Admin
+  - [Secured Card vs Credit Builder: Which Is Better?](https://tl5digitalworld.com/blogs/news/secured-card-vs-credit-builder): Secured Card vs Credit Builder: Which Is Better?
+    Updated: 2026-07-13T06:45:28Z
+    Author: Admin
+  - [Client Onboarding Checklist Template for New Businesses](https://tl5digitalworld.com/blogs/news/client-onboarding-checklist-template): Client Onboarding Checklist Template for New Businesses
+    Updated: 2026-07-14T03:06:40Z
+    Author: Admin
+  - [How to Build Business Credit the Right Way](https://tl5digitalworld.com/blogs/news/how-to-build-business-credit): How to Build Business Credit the Right Way
+    Updated: 2026-07-16T06:21:09Z
+    Author: Admin
 
 ## Store Pages
 
@@ -285,8 +351,8 @@
   Updated: 2025-07-28T20:32:00Z
 - [Freebies & Tools](https://tl5digitalworld.com/pages/freebies-tools): ✨ Welcome to TL5 Digital Hustle HQStay Focused. Stay Funded. Welcome to your one-stop hub for free resources, digital guides, and the tools I perso...
   Updated: 2025-07-29T17:36:48Z
-- [About TL5 | ThelmLawr5 Digital World](https://tl5digitalworld.com/pages/about-us): Built From Necessity. Driven by Purpose.Hey, I'm Wayne Demby — the founder of TL5 | ThelmLawr5 Digital World.A few years ago, I found myself fired ...
-  Updated: 2026-07-03T15:38:30Z
+- [About TL5 | ThelmLawr5 Digital World](https://tl5digitalworld.com/pages/about-us): Built From Necessity. Driven by Purpose. Hey, I'm Wayne Demby — the founder of TL5 Digital World A few years ago, I found myself fired in my 50s. N...
+  Updated: 2026-07-13T02:22:01Z
 - [FAQ – TL5 Digital World | Common Questions Answered](https://tl5digitalworld.com/pages/frequently-asked-questions): 📦 Orders & DownloadsHow do I receive my product after purchasing?All products are digital downloads. After your payment is confirmed, you'll receiv...
   Updated: 2026-06-30T01:08:26Z
 - [Contact Us | TL5 Digital World](https://tl5digitalworld.com/pages/contact-us): Get in Touch We'd love to hear from you! Whether you have a question about a product, need help with your order, or just want to say hello — we're ...
@@ -295,15 +361,15 @@
 ## Policies
 
 - [Privacy Policy](https://tl5digitalworld.com/policies/privacy-policy)
-  Updated: 2025-07-13T10:47:33-04:00
+  Updated: 2026-07-12T22:14:43-04:00
 - [Shipping Policy](https://tl5digitalworld.com/policies/shipping-policy)
   Updated: 2026-07-03T18:28:55-04:00
 - [Refund Policy](https://tl5digitalworld.com/policies/refund-policy)
-  Updated: 2026-05-17T05:04:19-04:00
+  Updated: 2026-07-11T21:40:03-04:00
 - [Terms of Service](https://tl5digitalworld.com/policies/terms-of-service)
-  Updated: 2026-05-17T05:08:03-04:00
+  Updated: 2026-07-12T22:18:27-04:00
 - [Contact Information](https://tl5digitalworld.com/policies/contact-information)
-  Updated: 2026-07-03T12:31:52-04:00
+  Updated: 2026-07-12T22:21:02-04:00
 
 ## Optional
 
