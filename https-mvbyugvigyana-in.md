@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-20T18:12:09Z
 - Contact Email: yugvigyana@gmail.com
-- Updated At: 2026-07-09T00:00:48.522Z
+- Updated At: 2026-07-18T00:00:49.620Z
 
 ## Products
 
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0969/5789/0924/files/Marble-Flower-Coaster-Set-MVB-YUGVIGYANA-53334478815596.jpg?v=1772364661
   Price: ₹1,184.00 INR
 - [Marble Hanging & Table Top Laltain | Hand-Carved Lantern | MVB](https://mvbyugvigyana.in/products/marble-hanging-and-table-top-laltain): Buy MVB Marble Hanging & Table Top Laltain – dual-purpose hand-carved pure marble lantern. 6 inch, unique natural veining. Perfect for home décor & gifting.
-  Updated: 2026-06-13T16:56:10Z
+  Updated: 2026-07-16T07:18:33Z
   Vendor: MVB YUGVIGYANA
   Product Type: Marbel Laltain
   Availability: Available
@@ -2977,8 +2977,8 @@
   Updated: 2026-05-26T19:35:54Z
   Total Products: 0
 - [MVB Fabrics](https://mvbyugvigyana.in/collections/mvb-febrics): Discover authentic hand block printed curtains and premium Indian fabrics. 100% cotton, traditional Jaipuri designs, handcrafted by master artisans. Shop luxury home textiles.
-  Updated: 2026-07-07T17:34:14Z
-  Total Products: 118
+  Updated: 2026-07-16T17:20:41Z
+  Total Products: 125
 - [MVB Handicrafts](https://mvbyugvigyana.in/collections/mvb-handicrafts): Shop handcrafted Indian handicrafts at MVB Yugvigyana. Marble Ganesh Ji, spiritual decor & gifting items. Made in India. Pan India & USA delivery!
   Updated: 2026-06-18T18:25:23Z
   Total Products: 17
@@ -3013,10 +3013,10 @@
   Updated: 2026-05-26T19:35:55Z
   Total Products: 11
 - [Premium Cotton King Size Bedsheets](https://mvbyugvigyana.in/collections/premium-cotton-king-size-bedsheets): Shop luxury king size cotton bedsheets. 100% pure cotton, premium thread count, spa-grade quality. Handcrafted in India. Free shipping on orders ₹999+
-  Updated: 2026-07-07T16:24:56Z
+  Updated: 2026-07-09T17:08:58Z
   Total Products: 80
 - [Pure Cotton Double Bedsheets](https://mvbyugvigyana.in/collections/pure-cotton-double-bedsheets): Shop soft & breathable pure cotton double bedsheets at MVB Yugvigyana. Trendy designs, affordable prices. Pan India delivery. Order now!
-  Updated: 2026-06-28T14:44:34Z
+  Updated: 2026-07-09T16:43:13Z
   Total Products: 85
 - [Pure Cotton Queen Size Bedsheets](https://mvbyugvigyana.in/collections/pure-cotton-queen-size-bedsheets): Shop soft pure cotton queen size bedsheets at MVB Yugvigyana. Beautiful designs, durable fabric, affordable prices. Pan India delivery available!
   Updated: 2026-05-26T19:35:55Z
@@ -3049,14 +3049,17 @@
   Updated: 2026-05-26T19:35:56Z
   Total Products: 5
 - [MVB Yugvigyana Collection](https://mvbyugvigyana.in/collections/mvb-yugvigyana-collection): VISIT OUR STORE NOW: www.mvbyugvigyana.in WHATSAPP ORDERS & ENQUIRIES: 099993 82518 MVB YUGVIGYANA – NATURAL LUXURY FOR EVERY LIFESTYLE Experience the perfect blend of tradition, wellness, craftsmanship, and premium quality products from MVB YUGVIGYANA. EXPLORE OUR PREMIUM COLLECTIONS Premium Attars & Natural Fragrances • Rose Attar • Hina Attar • Sandal Attar • Kesar Chandan Attar • Oud Attar • Alcohol-Free & Long-Lasting Fragrances Aromatic Bliss Collection • Luxury Aroma Candles • Soya Wax Candles • Aromatherapy Candles • Premium Home Fragrance Solutions Essential Oils • Pure Natural Essential Oils • Aromatherapy & Wellness Products • Meditation & Relaxation Essentials Aroma Sticks, Incense & Holders • Premium Agarbatti • Incense Sticks • Dhoop & Fragrance Products • Spiritual & Wellness Aromas MVB Fabrics & Textiles • Premium Bedsheets • Comforters • Dohars • Quilts • Blankets • Hospitality Textiles • Hospital Textiles • Railway Textiles Handicrafts & Home Décor • Ethnic Cushion Covers • Designer Curtains • Traditional Handcrafted Décor • Artisan-Made Home Accessories Premium Dry Fruits & Natural Products • Healthy Lifestyle Essentials • Premium Quality Selections PERFECT FOR Daily Use Home Décor Gifting Corporate Orders Hotels & Hospitality Festivals & Celebrations Retail & Wholesale Buyers WHY CHOOSE MVB YUGVIGYANA? Premium Quality Products Made in India with Pride Natural & Authentic Ingredients Elegant Packaging Trusted Manufacturer Wholesale & Bulk Order Facility PAN India Delivery Competitive Retail & Wholesale Pricing Fast Dispatch & Customer Support From Fragrances to Fabrics, Handicrafts to Home Décor, Wellness to Lifestyle Products – Discover Everything You Need Under One Trusted Brand. ORDER DIRECT FROM MANUFACTURER SPECIAL BULK ORDER PRICING AVAILABLE FAST SHIPPING ACROSS INDIA Shop Online: www.mvbyugvigyana.in WhatsApp Orders & Support: 099993 82518 MVB YUGVIGYANA – Pure. Natural. Yours.
-  Updated: 2026-07-07T17:34:14Z
-  Total Products: 99
+  Updated: 2026-07-16T17:21:20Z
+  Total Products: 108
 - [Jaipuri Silk Hand Block Double Bedsheets](https://mvbyugvigyana.in/collections/jaipuri-silk-hand-block-double-bedsheets): Shop authentic Jaipuri silk hand block printed double bedsheets. Traditional craftsmanship, premium quality. GST invoice included. Free shipping available.
-  Updated: 2026-07-06T13:45:10Z
-  Total Products: 12
+  Updated: 2026-07-16T17:20:41Z
+  Total Products: 18
 - [MVB Poly Cotton Bedsheet Collection](https://mvbyugvigyana.in/collections/mvb-poly-cotton-bedsheet-collection): Shop MVB Poly Cotton Bedsheet Collection — 160TC, skin-friendly, fade-resistant prints. Double bed size with pillow covers. Premium quality at best price.
   Updated: 2026-07-07T17:34:14Z
   Total Products: 20
+- [MVB Automobile - Electric Scooters](https://mvbyugvigyana.in/collections/mvb-automobile-electric-scooters): Buy MVB Automobile electric scooters in bulk. EON, STRIDE, AERO, ZEN models. 1000W-1500W motors, 60-300KM range. Authorised dealer supply across India.
+  Updated: 2026-07-17T14:44:21Z
+  Total Products: 48
 
 ## Blogs
 
@@ -3148,8 +3151,12 @@
   Updated: 2026-03-26T14:01:53Z
 - [Mix & Match](https://mvbyugvigyana.in/pages/collection-bundles)
   Updated: 2026-03-26T14:01:53Z
+- [Return Policy & Size Guide | MVB Yugvigyana](https://mvbyugvigyana.in/pages/return-policy-size-guide): 🔄 Return PolicyAt MVB Yugvigyana, your satisfaction is our priority. We offer a hassle-free 7-day return policy on all products.✅ Return Conditions...
+  Updated: 2026-07-13T15:59:10Z
 - [Your Privacy Choices](https://mvbyugvigyana.in/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-05-12T14:04:20Z
+- [Become an Authorised MVB Automobile Dealer | Bulk EV Scooter Supply India](https://mvbyugvigyana.in/pages/become-a-dealer-mvb-automobile): ⚡ Become an Authorised MVB Automobile Dealer Join India's fastest growing Electric Scooter Dealer Network 📞 WhatsApp Us Now: 9999382518 🏆 Why Partn...
+  Updated: 2026-07-13T15:58:55Z
 
 ## Policies
 
