@@ -6,132 +6,132 @@
 - Timezone: America/New_York
 - Created At: 2026-05-31T15:11:30Z
 - Contact Email: winningsoportefx@gmail.com
-- Updated At: 2026-07-10T00:00:36.802Z
+- Updated At: 2026-07-18T03:00:56.923Z
 
 ## Products
 
 - [Solar Charging Anti-Theft Backpack – 15" Laptop Bag with USB Port for Men](https://winningfindz.store/products/new-solar-charge-outdoor-double-shoulder-bag-men-business-custom-anti-theft-backpack-15-inch-laptop-bag): Solar-powered anti-theft backpack with 15" laptop compartment & USB charging port. Business style, secure design. Perfect for work & travel. Shop now.
-  Updated: 2026-06-19T21:52:22Z
+  Updated: 2026-07-13T12:17:09Z
   Vendor: WINNING FINDZ
   Product Type: Solar Backpack
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5350411629_727366015.jpg?v=1780513084
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5350411629_727366015.jpg?v=1783944598
   - [Black](https://winningfindz.store/products/new-solar-charge-outdoor-double-shoulder-bag-men-business-custom-anti-theft-backpack-15-inch-laptop-bag?variant=66816926777389)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5350411629_727366015.jpg?v=1780513084
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5350411629_727366015.jpg?v=1783944598
     Price: $213.72 USD
   - [Gray](https://winningfindz.store/products/new-solar-charge-outdoor-double-shoulder-bag-men-business-custom-anti-theft-backpack-15-inch-laptop-bag?variant=66816926810157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5348970041_727366015.jpg?v=1780513084
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5348970041_727366015.jpg?v=1783945027
     Price: $219.45 USD
 - [Solar Charging Sports Backpack – Lightweight Outdoor Riding Bag with USB Port](https://winningfindz.store/products/outdoor-riding-solar-charging-backpack-men-and-women-lightweight-skin-sports-backpack): Lightweight solar charging backpack for outdoor riding, hiking & commuting. USB port, unisex design, breathable & comfortable. Shop Winning Findz.
-  Updated: 2026-06-19T21:52:47Z
+  Updated: 2026-07-13T12:17:11Z
   Vendor: WINNING FINDZ
   Product Type: Solar Backpack
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/964081511126.jpg?v=1780513096
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/964081511126.jpg?v=1783945028
   - [Red](https://winningfindz.store/products/outdoor-riding-solar-charging-backpack-men-and-women-lightweight-skin-sports-backpack?variant=66816926908461)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/964081511126.jpg?v=1780513096
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/964081511126.jpg?v=1783945028
     Price: $169.35 USD
   - [Blue](https://winningfindz.store/products/outdoor-riding-solar-charging-backpack-men-and-women-lightweight-skin-sports-backpack?variant=66816926941229)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5042721174472.jpg?v=1780513096
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5042721174472.jpg?v=1783945030
     Price: $169.35 USD
 - [Solar USB Rechargeable Backpack – Charge Devices On the Go | Winning Findz](https://winningfindz.store/products/solar-usb-rechargeable-backpack): Solar-powered backpack with USB charging port. Built-in solar panel charges your phone & devices while you walk. Perfect for travel, hiking & commuting.
-  Updated: 2026-06-19T21:52:58Z
+  Updated: 2026-07-13T12:17:25Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2214323382789.jpg?v=1780513106
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2214323382789.jpg?v=1783945029
   Price: $113.59 USD
 - [14W Solar Backpack – High-Power Solar Charging Bag for Hiking & Travel](https://winningfindz.store/products/14w-solar-backpack): 14W solar backpack with USB charging port. High-efficiency solar panel charges phones & tablets on the go. Perfect for hiking, camping & travel.
-  Updated: 2026-06-19T21:53:05Z
+  Updated: 2026-07-13T12:17:14Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/818725728431.jpg?v=1780513117
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/818725728431.jpg?v=1783945031
   Price: $160.68 USD
 - [Solar USB Charging Backpack – Waterproof Solar Bag for Work & Travel](https://winningfindz.store/products/solar-usb-charging-backpack): Waterproof solar USB charging backpack. Built-in solar panel keeps your devices powered all day. Perfect for work, travel, hiking & school.
-  Updated: 2026-06-19T21:53:47Z
+  Updated: 2026-07-13T12:17:16Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2784381666522.jpg?v=1780513127
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2784381666522.jpg?v=1783945034
   Price: $349.44 USD
 - [Solar Fan Hat Dual USB – Solar-Powered Cooling Hat for Fishing & Hiking](https://winningfindz.store/products/solar-double-fan-hat): Solar fan hat with dual USB ports & built-in cooling fan. Charge 2 devices at once. UV protection, adjustable fit. Perfect for fishing, hiking & camping.
-  Updated: 2026-06-27T15:06:48Z
+  Updated: 2026-07-17T06:12:28Z
   Vendor: WINNING FINDZ
   Product Type: Solar Hat
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/d8b402a8-d04e-4ca8-ab82-11c646cd7f32.jpg?v=1780513135
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/d8b402a8-d04e-4ca8-ab82-11c646cd7f32.jpg?v=1783945035
   - [Camouflage khaki](https://winningfindz.store/products/solar-double-fan-hat?variant=66816931037229)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/d8b402a8-d04e-4ca8-ab82-11c646cd7f32.jpg?v=1780513135
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/d8b402a8-d04e-4ca8-ab82-11c646cd7f32.jpg?v=1783945035
     Price: $39.47 USD
   - [Camouflage dark grey](https://winningfindz.store/products/solar-double-fan-hat?variant=66816931069997)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2218668c-9600-4599-8f19-b86b50e8d1de.jpg?v=1780513135
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2218668c-9600-4599-8f19-b86b50e8d1de.jpg?v=1783945035
     Price: $39.47 USD
   - [Camouflage army green](https://winningfindz.store/products/solar-double-fan-hat?variant=66816931102765)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/02cae4f0-37dc-4b2b-9b1f-05370ee24db5.jpg?v=1780513135
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/02cae4f0-37dc-4b2b-9b1f-05370ee24db5.jpg?v=1783945036
     Price: $39.47 USD
 - [Solar Fan Wide Brim Hat – Rechargeable Outdoor Cooling Sun Hat](https://winningfindz.store/products/outdoor-solar-rechargeable-wide-brim-fan-hat): Solar-powered wide brim hat with built-in cooling fan. USB rechargeable, adjustable fit. Perfect for fishing, hiking & outdoor work. Shop now.
-  Updated: 2026-06-19T21:54:39Z
+  Updated: 2026-07-15T15:43:08Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/b4bdcbc9-b778-48e1-b6c6-ad09cc1049f0.jpg?v=1780513148
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/b4bdcbc9-b778-48e1-b6c6-ad09cc1049f0.jpg?v=1783945036
   - [Black / Adjustable](https://winningfindz.store/products/outdoor-solar-rechargeable-wide-brim-fan-hat?variant=66816933822509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5c845d9a-6b6f-4716-a605-74bf1c3560e6.jpg?v=1780513149
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/5c845d9a-6b6f-4716-a605-74bf1c3560e6.jpg?v=1783945037
     Price: $93.85 USD
   - [Khaki / Adjustable](https://winningfindz.store/products/outdoor-solar-rechargeable-wide-brim-fan-hat?variant=66816933855277)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/a0429d04-dea9-47c3-a95a-ac5604331d5a.jpg?v=1780513149
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/a0429d04-dea9-47c3-a95a-ac5604331d5a.jpg?v=1783945037
     Price: $93.85 USD
   - [Light Gray / Adjustable](https://winningfindz.store/products/outdoor-solar-rechargeable-wide-brim-fan-hat?variant=66816933888045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/42a2b239-4d7e-4d6c-9e00-4dc5e8c3806e.jpg?v=1780513149
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/42a2b239-4d7e-4d6c-9e00-4dc5e8c3806e.jpg?v=1783945037
     Price: $93.85 USD
   - [Dark Gray / Adjustable](https://winningfindz.store/products/outdoor-solar-rechargeable-wide-brim-fan-hat?variant=66816933920813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/f108eb21-966f-43eb-bed4-473af350aefb.jpg?v=1780513149
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/f108eb21-966f-43eb-bed4-473af350aefb.jpg?v=1783945038
     Price: $93.85 USD
   - [Khaki Two fans / Adjustable](https://winningfindz.store/products/outdoor-solar-rechargeable-wide-brim-fan-hat?variant=66816933953581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/e7fa2bb2-1fe6-4844-8f99-5429b6255bf3.jpg?v=1780513148
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/e7fa2bb2-1fe6-4844-8f99-5429b6255bf3.jpg?v=1783945038
     Price: $110.63 USD
 - [Quick-Dry Solar Fan Sun Hat – Wide Brim Cooling Hat for Fishing & Hiking](https://winningfindz.store/products/quick-drying-solar-fan-outdoor-big-brim-sun-hat): Quick-dry solar fan sun hat with wide brim, built-in cooling fan & UV protection. Solar-powered, adjustable. Ideal for fishing, hiking & outdoor sports.
-  Updated: 2026-06-20T01:51:47Z
+  Updated: 2026-07-15T13:19:19Z
   Vendor: WINNING FINDZ
   Product Type: Solar Hat
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1e83501e-fee5-4df5-95e8-d109c9f0f7d2_trans.jpg?v=1780513168
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1e83501e-fee5-4df5-95e8-d109c9f0f7d2_trans.jpg?v=1783945039
   - [Black / Adjustable](https://winningfindz.store/products/quick-drying-solar-fan-outdoor-big-brim-sun-hat?variant=66816935329837)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/9a086995-187d-4fbe-a55c-faf9de8c6dae_trans.jpg?v=1780513168
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/9a086995-187d-4fbe-a55c-faf9de8c6dae_trans.jpg?v=1783945040
     Price: $59.72 USD
   - [Khaki / Adjustable](https://winningfindz.store/products/quick-drying-solar-fan-outdoor-big-brim-sun-hat?variant=66816935362605)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/05f20b65-d3bf-498e-9993-83d192df6722_trans.jpg?v=1780513168
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/05f20b65-d3bf-498e-9993-83d192df6722_trans.jpg?v=1783945040
     Price: $59.72 USD
   - [Light Gray / Adjustable](https://winningfindz.store/products/quick-drying-solar-fan-outdoor-big-brim-sun-hat?variant=66816935395373)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1f910fe9-bfdd-459c-9bde-a7425b42be72_trans.jpg?v=1780513168
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1f910fe9-bfdd-459c-9bde-a7425b42be72_trans.jpg?v=1783945040
     Price: $59.72 USD
   - [Dark Gray / Adjustable](https://winningfindz.store/products/quick-drying-solar-fan-outdoor-big-brim-sun-hat?variant=66816935428141)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/dae153f5-8b8f-4f86-b025-8d06bdd05037_trans.jpg?v=1780513168
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/dae153f5-8b8f-4f86-b025-8d06bdd05037_trans.jpg?v=1783945040
     Price: $59.72 USD
   - [Army Green Ink Painting / Adjustable](https://winningfindz.store/products/quick-drying-solar-fan-outdoor-big-brim-sun-hat?variant=66816935460909)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/053b77ff-fac2-4b1d-ad1c-631c867e0936_trans.jpg?v=1780513168
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/053b77ff-fac2-4b1d-ad1c-631c867e0936_trans.jpg?v=1783945041
     Price: $59.72 USD
   - [Khaki Ink Painting / Adjustable](https://winningfindz.store/products/quick-drying-solar-fan-outdoor-big-brim-sun-hat?variant=66816935493677)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/66119924-f419-4678-84bf-44117b58e071_trans.jpg?v=1780513168
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/66119924-f419-4678-84bf-44117b58e071_trans.jpg?v=1783945041
     Price: $59.72 USD
   - [Dark Gray Ink Painting / Adjustable](https://winningfindz.store/products/quick-drying-solar-fan-outdoor-big-brim-sun-hat?variant=66816935526445)
     Availability: Available
@@ -150,7 +150,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/f32ad2d3-6b52-4c88-9ada-f55a898e1722_trans.jpg?v=1780513168
     Price: $59.72 USD
 - [Solar Fan Fishing Hat – Wide Brim, UV Protection & USB Charging](https://winningfindz.store/products/outdoor-wide-brim-sun-hat-with-solar-fan-wide-brim-solar-fan-outdoor-fishing-hat-solar-usb-charging-solar-powered-hat-adjustable): Solar-powered fishing hat with built-in cooling fan, USB charging & wide brim UV protection. Lightweight & adjustable. Perfect for fishing, hiking & camping.
-  Updated: 2026-06-19T22:10:58Z
+  Updated: 2026-07-18T00:13:58Z
   Vendor: WINNING FINDZ
   Product Type: Solar Hat
   Availability: Available
@@ -224,7 +224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/026f175b-ef49-4e95-9c4e-7a583464fee3.jpg?v=1780513189
     Price: $64.99 USD
 - [Solar Fan Hat – USB Rechargeable Outdoor Cap with UV Protection](https://winningfindz.store/products/solar-fan-hat-usb-rechargeable-fan-uv-protection): Solar fan hat with USB rechargeable cooling fan & UV protection. Lightweight, adjustable. Perfect for fishing, hiking, gardening & outdoor sports.
-  Updated: 2026-06-19T21:54:41Z
+  Updated: 2026-07-17T18:09:25Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -280,7 +280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/56fdb1ce-7289-4e68-be70-633b66c63842_trans.jpg?v=1780513215
     Price: $39.99 USD
 - [Solar Twin Fan Hat – Men's Outdoor Cap with Dual Cooling Fans for Fishing & Hiking](https://winningfindz.store/products/solar-twin-fan-hat-mens-summer-outdoor-mountaineering-fishing): Men's solar twin fan hat with dual cooling fans. Solar-powered, adjustable fit. Perfect for mountaineering, fishing, hiking & outdoor sports.
-  Updated: 2026-06-19T21:54:53Z
+  Updated: 2026-07-17T13:00:00Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -314,7 +314,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1c57f7d9-6c6d-4f6a-8625-2c430e4c176a.jpg?v=1780513227
     Price: $94.40 USD
 - [Solar Energy Hat with Fan – Lightweight Outdoor Sun Hat with Cooling Fan](https://winningfindz.store/products/hat-solar-energy-with-fan): Solar energy hat with built-in cooling fan. Lightweight, adjustable, no batteries needed. Perfect for gardening, fishing, sports & outdoor use.
-  Updated: 2026-06-19T21:54:54Z
+  Updated: 2026-07-17T21:45:00Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -340,7 +340,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/3a2a943f-3b00-4fc7-a8d2-7438535e2872_trans.jpg?v=1780513239
     Price: $71.80 USD
 - [Breathable Mesh Solar Fan Cap – Lightweight Solar Cooling Hat for Outdoors](https://winningfindz.store/products/breathable-mesh-cap-with-a-solar-powered-fan): Breathable mesh solar fan cap with built-in cooling fan. Ultra-lightweight, solar-powered & adjustable. Great for hiking, cycling, fishing & outdoor sports.
-  Updated: 2026-06-19T21:54:55Z
+  Updated: 2026-07-15T22:50:31Z
   Vendor: WINNING FINDZ
   Product Type: Solar Hat
   Availability: Available
@@ -465,22 +465,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1550358065108.jpg?v=1780513444
   Price: $218.27 USD
-- [Charger For Camping Trip, Solar Panel Folding Portable Power Supply](https://winningfindz.store/products/charger-for-camping-trip-solar-panel-folding-portable-power-supply): Product information Place of Origin: Shenzhen Whether to import: No Model: Solar Folding Bag Input parameters: 5V Output parameters: 5V Charging current: 1 (A) Dimensions: 185*120 Packing list Portable power x1
-  Updated: 2026-06-19T21:55:01Z
+- [Portable Folding Solar Panel Charger for Camping – Lightweight Power Supply](https://winningfindz.store/products/charger-for-camping-trip-solar-panel-folding-portable-power-supply): Charge your devices anywhere with this foldable solar panel charger. Lightweight, portable, and perfect for camping trips and outdoor adventures.
+  Updated: 2026-07-15T05:31:58Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/b55dec3d-f39f-4366-8394-e7902403ebe7.jpg?v=1780513454
   Price: $62.17 USD
-- [Solar Panel Mobile Phone Charging Power Supply Is Small And Portable](https://winningfindz.store/products/solar-panel-mobile-phone-charging-power-supply-is-small-and-portable): Product information: 5V 5W/7.5W with 5V 2A voltage regulator, can charge mobile phones Solar panel color: black Process: PET grinding  Packing list: Solar panel*1
-  Updated: 2026-06-19T21:55:32Z
+- [Small Portable Solar Panel Phone Charger – Compact Solar Power Supply](https://winningfindz.store/products/solar-panel-mobile-phone-charging-power-supply-is-small-and-portable): Charge your phone on the go with this compact solar panel power supply. Small, lightweight, and perfect for travel, hiking, and outdoor use.
+  Updated: 2026-07-15T05:32:23Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/d8fdf2b9-7271-4fd8-80b6-70cb4f73685e.jpg?v=1780513462
   Price: $22.29 USD
-- [Solar panel charging controller](https://winningfindz.store/products/solar-panel-charging-controller): Model: PWM Buck: 28.8V Floating charge: 27.4V USB output: 5V/3A Self-consumption: <10mA Discharge stop: 21.4V Voltage: DC 12V / 24V Maximum solar input: <50V Current: 10A / 20A / 30A /40A /50A /60A Rated working current: ≤20A Discharge reconnect: 25.2V Working temperature: -35℃~60℃ Output voltage: 12V / 24V automatically distinguish voltage
-  Updated: 2026-06-19T21:55:33Z
+- [Solar Panel Charge Controller – Automatic Battery Regulator for Solar Systems](https://winningfindz.store/products/solar-panel-charging-controller): Protect your solar battery with this automatic solar charge controller. Compatible with 12V/24V systems, ideal for off-grid solar setups.
+  Updated: 2026-07-15T05:32:43Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -509,8 +509,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/3664325086270.jpg?v=1780513574
     Price: $29.20 USD
-- [Foldable Solar Panel Is Portable](https://winningfindz.store/products/foldable-solar-panel-is-portable): Product information: Model: black, camouflage Input parameters: 10 Output parameters: 10 Charging current: 1 (A) Weight: 376 (g) Product certification: CE FCC Size Information: Dimensions: 185*115*25 (mm) Packing list: Solar panel*1
-  Updated: 2026-06-19T21:55:34Z
+- [Portable Foldable Solar Panel – Lightweight Outdoor Solar Charger](https://winningfindz.store/products/foldable-solar-panel-is-portable): Power your devices anywhere with this portable foldable solar panel. Lightweight, compact, and perfect for camping, hiking, and off-grid adventures.
+  Updated: 2026-07-15T05:33:10Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -523,22 +523,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/ede7b90b-8912-4992-8ae5-16074a92ae67.jpg?v=1780513582
     Price: $75.47 USD
-- [Solar Mini Mini Generator Outdoor Portable Power Supply](https://winningfindz.store/products/solar-mini-mini-generator-outdoor-portable-power-supply): Overview： Solar Mini Mini Generator Outdoor Portable Mobile Power Supply Photovoltaic Power Generation Small System Specification： Model: 4.4 AH Photoelectric panel power :5 (WP) Battery capacity :4.4 (Ah) Host output capacity :18 (W) Product certification :CE Output voltage :6 (V)
-  Updated: 2026-06-19T21:55:35Z
+- [Solar Mini Generator – Portable Outdoor Solar Power Supply](https://winningfindz.store/products/solar-mini-mini-generator-outdoor-portable-power-supply): Stay powered outdoors with this mini solar generator. Compact, portable power supply ideal for camping, emergencies, and off-grid use.
+  Updated: 2026-07-15T05:33:30Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1614151625558.jpg?v=1780513592
   Price: $94.05 USD
-- [Solar Power Floating Fountain  Square Solar Panel Water Pump](https://winningfindz.store/products/solar-power-floating-fountain-square-solar-panel-water-pump): Overview： Solar Power Floating Fountain Water Pump Brushless Motor Solar Fountain for Garden Pool Garden Solar Decorative Fountain Specification： Solar panel specifications: Rated voltage: 7V Rated power: 1.2W Material: monocrystal silicon, PET laminated Pump specifications: Working voltage: DC 7V Working current: 150mA Maximum head: 100CM Maximum flow: 180L/H pump life: > 20000 hours pump noise: < 45dB Packing size: Inner box size: 120*120mm weight: 260g
-  Updated: 2026-06-19T21:55:36Z
+- [Solar Powered Floating Fountain Pump – Square Solar Panel Water Pump](https://winningfindz.store/products/solar-power-floating-fountain-square-solar-panel-water-pump): Add a beautiful solar fountain to your garden or pond. Runs on sunlight with no wiring needed. Perfect for outdoor water features and bird baths.
+  Updated: 2026-07-15T05:33:51Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1614864848518.jpg?v=1780513601
   Price: $38.53 USD
-- [200W Solar Panel Kit 12V Battery Charger](https://winningfindz.store/products/200w-solar-panel-kit-12v-battery-charger): Features: Solar panel High efficiency, 23-24% conversion rate, Solar panels can be used for surface mounting Easy to install and install Voltage: 5v Maximum power supply voltage: 6v Short circuit current: 2a Junction box: Ip67 reted Working temperature: -40℃+85℃. A: Solar panel standard B: Solar panel plus 10A C: Solar panel plus 20A D: Solar panel plus 30A Packing list: Solar panel x1
-  Updated: 2026-06-19T21:55:37Z
+- [200W Solar Panel Kit – 12V Battery Charger for Off-Grid Systems](https://winningfindz.store/products/200w-solar-panel-kit-12v-battery-charger): Power your home or RV with this 200W solar panel kit. Includes 12V battery charger, ideal for off-grid living, camping, and backup power.
+  Updated: 2026-07-15T05:34:15Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -559,22 +559,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1615359362159.jpg?v=1780513614
     Price: $150.80 USD
-- [New Single Crystal 25w5v Solar Panel Folding Package Outdoor Flexible Foldable Mobile Phone Solar Charging Panel](https://winningfindz.store/products/new-single-crystal-25w5v-solar-panel-folding-package-outdoor-flexible-foldable-mobile-phone-solar-charging-panel): Specification： Material: monocrystalline silicon + PET + fabric Expansion size: 65 * 17 * 0.3cm Folding size: 18.5 * 11.5 * 2cm Power (maximum) : 25W Maximum power voltage (VMP) : 5V Maximum power current (IMP) : 2A Battery count: 36 Output: USB5V Packaging: neutral packaging Charging temperature: -20? 70 ℃ Waterproof: IP65 Conversion rate: 20%
-  Updated: 2026-06-19T21:55:38Z
+- [25W 5V Monocrystalline Foldable Solar Panel – Portable Outdoor Charger](https://winningfindz.store/products/new-single-crystal-25w5v-solar-panel-folding-package-outdoor-flexible-foldable-mobile-phone-solar-charging-panel): Charge devices efficiently with this 25W 5V single crystal foldable solar panel. Lightweight, portable, and perfect for outdoor and mobile charging.
+  Updated: 2026-07-15T05:34:42Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1616723053640.jpg?v=1780513626
   Price: $111.19 USD
-- [Solar Panel Set 12V1000W](https://winningfindz.store/products/solar-panel-set-12v1000w): Product information: The conversion rate is 23-24%, Solar panels can be used for surface mounting Easy to install and install Voltage: 5V Maximum power supply voltage: 6V Short circuit current: 2A Junction box: IP67 RETED Working temperature: -40℃+85℃. Colour: Black Maximum power (pmax): 1000W Output: USB Open circuit voltage (VOC): 220V Short circuit current (Isc): 13A Size information: Size: 435*200*2mm Packing list : Solar panel set*1
-  Updated: 2026-06-19T21:55:39Z
+- [1000W 12V Solar Panel Set – Complete Off-Grid Solar Power Kit](https://winningfindz.store/products/solar-panel-set-12v1000w): Power your home or RV with this 1000W 12V solar panel set. Complete off-grid kit for reliable, renewable solar energy anywhere.
+  Updated: 2026-07-15T05:35:06Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1617590123739.jpg?v=1780513637
   Price: $257.74 USD
-- [Solar Electric Fan Life Waterproof Panel Charging Double Switch Barbecues Camping Solar Electric Fan For Climbing](https://winningfindz.store/products/solar-electric-fan-life-waterproof-panel-charging-double-switch-barbecues-camping-solar-electric-fan-for-climbing): Overview: The use of high-quality materials, long service life. There are multiple functions and three power supply methods, rechargeable batteries, dry batteries and solar energy, and strong endurance. Design of waterproof casing which you no need to worry about leakage while it will provide you with a clear vision of a large range at night. Made of ABS, it is durable to use. The length of the product is 17.5 cm, the width is 10 cm and the thickness is 10 cm. It is suitable for outdoor camping, picnics, travel, and fishing. Specification: Light source type: LED Power supply: solar lithium battery dry battery Switch type: Stretch switch Specification: 16.5*9cm Color: solar silver fan lantern, solar golden fan lantern Outer body material: ABS material Wick Material: CREE LED Wick Packing Content: 1*camping light+1*adapter
-  Updated: 2026-06-20T10:11:48Z
+- [Waterproof Solar Electric Fan – Dual Switch Camping & Outdoor Fan](https://winningfindz.store/products/solar-electric-fan-life-waterproof-panel-charging-double-switch-barbecues-camping-solar-electric-fan-for-climbing): Stay cool outdoors with this waterproof solar electric fan. Dual switch, solar-powered, perfect for camping, barbecues, and outdoor activities.
+  Updated: 2026-07-14T17:35:19Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -999,8 +999,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/9e7d905f-794e-4bc4-b59f-d0b9f0ce7483.jpg?v=1780514226
   Price: $155.13 USD
-- [6-inch Solar Fan Set](https://winningfindz.store/products/6-inch-solar-fan-set)
-  Updated: 2026-06-19T21:58:00Z
+- [6-Inch Solar Fan Set – Portable Solar-Powered Fan for Outdoor & Camping](https://winningfindz.store/products/6-inch-solar-fan-set): Stay cool off-grid with this 6-inch solar fan set. Portable, eco-friendly, and perfect for camping, hiking, and outdoor use. No batteries needed.
+  Updated: 2026-07-15T05:30:26Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -1101,8 +1101,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/359036204475.jpg?v=1780514309
     Price: $101.26 USD
-- [Solar panel LED Bulb](https://winningfindz.store/products/solar-panel-led-bulb)
-  Updated: 2026-06-19T21:58:08Z
+- [Solar Panel LED Bulb – Off-Grid Solar-Powered Light for Outdoor & Indoor Use](https://winningfindz.store/products/solar-panel-led-bulb): Illuminate any space with this solar panel LED bulb. Energy-efficient, easy to install, and perfect for off-grid, outdoor, and emergency lighting.
+  Updated: 2026-07-15T05:31:02Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -1177,7 +1177,7 @@
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/c41b9b55-9f9f-4c66-9ab0-f7fdbc4e9e1d.jpg?v=1780514388
   Price: $147.17 USD
 - [ArcticCapTM hat with solar fan](https://winningfindz.store/products/arcticcaptm-hat-with-solar-fan): Item No.: Fan cap Product Category :Cap Applicable gender: neutral / male and female material: cotton Style: simple Weaving method: satin Processing method: satin file Popular elements: solid color Pattern: monochrome Cap style: dome Color: red, yellow, blue, black, white size: one size [product size]: 30*20*12cm Features: The design is simple and the appearance is beautiful. It can be individually adjusted to different head sizes. Equipped with a cooling fan to keep you cool in the summer. Suitable for outdoor activities such as travel, fishing, hiking, golfing. A gift for a friend. description: Energy-saving light bulb, no battery required. Save our land, use green energy solar energy and turn on the fans.
-  Updated: 2026-06-19T21:58:14Z
+  Updated: 2026-07-17T05:34:51Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -1932,7 +1932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/08e92155-7fb2-4b37-b58f-b879e67185e3_trans.jpg?v=1780514961
     Price: $112.24 USD
 - [Solar Fan Cap – Rechargeable Hat with Built-In Fan for Outdoor Work & Sports](https://winningfindz.store/products/solar-fan-cap-strong-wind-power-rechargeable): Solar-powered rechargeable fan cap with strong airflow. Perfect for outdoor work, fishing & hiking. Keeps you cool all day. Shop Winning Findz.
-  Updated: 2026-06-19T21:59:52Z
+  Updated: 2026-07-16T06:51:43Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -2251,7 +2251,7 @@
   Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/7ccbc7e0-25cd-4616-85dc-ee9b24a1cf95.jpg?v=1780515225
   Price: $125.22 USD
 - [Solar Dual-Fan Hat with Dual Power Supply – Outdoor Cooling Hat](https://winningfindz.store/products/solar-powered-dual-fan-hat-with-dual-power-supply): Solar-powered dual-fan hat with dual power supply. Stay cool all day outdoors with no batteries. Perfect for work, hiking & sports. Shop Winning Findz.
-  Updated: 2026-06-19T22:00:27Z
+  Updated: 2026-07-17T21:29:16Z
   Vendor: WINNING FINDZ
   Product Type: 0
   Availability: Available
@@ -2472,22 +2472,329 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/416198899863.jpg?v=1781319891
     Price: $12.87 USD
-[List Continued](https://winningfindz.store/a/llms-agent/llms.txt?shop=bys-store-3032251-219158.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTEzMDk4NzUyODIzNywibGFzdF92YWx1ZSI6IjE1MTMwOTg3NTI4MjM3In0%3D)
+- [Large Capacity Solar Wireless Power Bank](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank): Product information: Color: black, black, black, black orange, black blue, black green, black and yellow Shell Material: Plastic Function: Solar energy Size: 166*82 * 52mm Style: Creative Design Packing list: Plastic power bank * 1 Product Image:
+  Updated: 2026-07-14T05:48:13Z
+  Vendor: WINNING FINDZ
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/a1c1adf4-fe7b-4000-8d7e-f7164d37d0e4.jpg?v=1783964884
+  - [Black Red / 50000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024449929261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/185a271c-cf4a-40e0-80f6-9f345d94b669.jpg?v=1783964884
+    Price: $114.09 USD
+  - [Black Red / 40000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024449962029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/185a271c-cf4a-40e0-80f6-9f345d94b669.jpg?v=1783964884
+    Price: $107.98 USD
+  - [Black Red / 30000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024449994797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/185a271c-cf4a-40e0-80f6-9f345d94b669.jpg?v=1783964884
+    Price: $76.06 USD
+  - [Black Red / 20000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450027565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/185a271c-cf4a-40e0-80f6-9f345d94b669.jpg?v=1783964884
+    Price: $65.05 USD
+  - [Black Red / 10000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450060333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/185a271c-cf4a-40e0-80f6-9f345d94b669.jpg?v=1783964884
+    Price: $55.84 USD
+  - [Black / 50000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450093101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/c1cd57ec-cd80-4788-af2c-ad26a03fb2f9.jpg?v=1783964884
+    Price: $114.09 USD
+  - [Black / 40000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450125869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/c1cd57ec-cd80-4788-af2c-ad26a03fb2f9.jpg?v=1783964884
+    Price: $107.98 USD
+  - [Black / 30000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450158637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/c1cd57ec-cd80-4788-af2c-ad26a03fb2f9.jpg?v=1783964884
+    Price: $76.06 USD
+  - [Black / 20000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450191405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/c1cd57ec-cd80-4788-af2c-ad26a03fb2f9.jpg?v=1783964884
+    Price: $65.05 USD
+  - [Black / 10000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450224173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/c1cd57ec-cd80-4788-af2c-ad26a03fb2f9.jpg?v=1783964884
+    Price: $55.84 USD
+  - [Black Orange / 50000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450256941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382655361024.jpg?v=1783964885
+    Price: $114.09 USD
+  - [Black Orange / 40000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450289709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382655361024.jpg?v=1783964885
+    Price: $107.98 USD
+  - [Black Orange / 30000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450322477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382655361024.jpg?v=1783964885
+    Price: $76.06 USD
+  - [Black Orange / 20000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450355245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382655361024.jpg?v=1783964885
+    Price: $65.05 USD
+  - [Black Orange / 10000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450388013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382655361024.jpg?v=1783964885
+    Price: $55.84 USD
+  - [Black Blue / 50000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450420781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382495977472.jpg?v=1783964885
+    Price: $114.09 USD
+  - [Black Blue / 40000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450453549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382495977472.jpg?v=1783964885
+    Price: $107.98 USD
+  - [Black Blue / 30000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450486317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382495977472.jpg?v=1783964885
+    Price: $76.06 USD
+  - [Black Blue / 20000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450519085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382495977472.jpg?v=1783964885
+    Price: $65.05 USD
+  - [Black Blue / 10000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450551853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914382495977472.jpg?v=1783964885
+    Price: $55.84 USD
+  - [Black Green / 50000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450584621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/8c730f70-462b-4303-8801-4d8e877e1705.jpg?v=1783964884
+    Price: $114.09 USD
+  - [Black Green / 40000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450617389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/8c730f70-462b-4303-8801-4d8e877e1705.jpg?v=1783964884
+    Price: $107.98 USD
+  - [Black Green / 30000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450650157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/8c730f70-462b-4303-8801-4d8e877e1705.jpg?v=1783964884
+    Price: $76.06 USD
+  - [Black Green / 20000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450682925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/8c730f70-462b-4303-8801-4d8e877e1705.jpg?v=1783964884
+    Price: $65.05 USD
+  - [Black Green / 10000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450715693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/8c730f70-462b-4303-8801-4d8e877e1705.jpg?v=1783964884
+    Price: $55.84 USD
+  - [Black Yellow / 50000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450748461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914383234174976.jpg?v=1783964884
+    Price: $114.09 USD
+  - [Black Yellow / 40000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450781229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914383234174976.jpg?v=1783964884
+    Price: $107.98 USD
+  - [Black Yellow / 30000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450813997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914383234174976.jpg?v=1783964884
+    Price: $76.06 USD
+  - [Black Yellow / 20000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450846765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914383234174976.jpg?v=1783964884
+    Price: $65.05 USD
+  - [Black Yellow / 10000 MA Wireless Charger](https://winningfindz.store/products/large-capacity-solar-wireless-power-bank?variant=67024450879533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1719914383234174976.jpg?v=1783964884
+    Price: $59.30 USD
+- [Mobile Phone Outdoor Solar Power Bank](https://winningfindz.store/products/mobile-phone-outdoor-solar-power-bank): Product information: 1. The use of waterproof coating inside the PVC fabric can effectively increase the water resistance, wear resistance, elasticity, heat resistance, etc. It is the most extensive material suitable for various outdoor activities. 2. Direct power generation in the sun, no built-in lithium battery, no need to worry about various problems caused by high temperature exposure. Photovoltaic power generation is environmentally friendly and energy-efficient. Output interface: 3xUSB Output current: 4.8A (peak current) Circuit characteristics: voltage stabilization, intelligent identification, automatic restart Product weight: 0.7kg Material: PET laminated SUNPOWER solar panel / PVC waterproof fabric Power: 24w
+  Updated: 2026-07-14T05:48:26Z
+  Vendor: WINNING FINDZ
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1612689779919.jpg?v=1783964900
+  Price: $104.20 USD
+- [Outdoor Mobile Power Set Solar Power Bank Shell](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell): Overview: 1. The USB dual output port is easy to use How can one output port be enough for multiple devices? Dual output ports are enough Charge two devices at the same time, you can share the world with electricity with friends and lovers 2. Lock the battery smart sleep Lock the power every second, automatically turn off the output when not working, Intelligent adjustment of output power, mobile phone charging 0 damage 3. Long service life of polymer solar Large capacity and high conversion rate polymer solar mobile power supply, Provide safe and sufficient power to solve your worries about the power supply Product information: Battery type: Polymer lithium ion battery Applicable type: General type Battery type: Soft case Shell material: Plastic Additional features: Solar Size: 140*78*20mm Color: Black, blue, green, white, orange Power capacity: 8000mAh，10000mAh ， Nesting: Shell + main board + solar panel and other accessories are not assembled, not finished products Light display: The first indicator light is solar charging indicator light, and the remaining 4 grids are power light display Default 8000mAh Package Content: 1*Solar power bank
+  Updated: 2026-07-14T05:48:46Z
+  Vendor: WINNING FINDZ
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/411302858394.jpg?v=1783964921
+  - [Black 10000mAh](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024451960877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/ededc452-3935-4b3e-8fa5-5b8baf9a7a15.jpg?v=1783964921
+    Price: $48.27 USD
+  - [Blue 10000mAh](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024451993645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/ff80cf15-a97f-4121-b5a0-399cec076a4c.jpg?v=1783964921
+    Price: $48.27 USD
+  - [Green 10000mAh](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452026413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/60efd4d2-7fa6-4727-b071-0466cf6f238b.jpg?v=1783964922
+    Price: $48.27 USD
+  - [Orange 10000mAh](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452059181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/cf4c5593-0893-4ad1-8875-ab1a02ef5f23.jpg?v=1783964921
+    Price: $55.11 USD
+  - [White 10000mAh](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452091949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/9720856b-c46d-4738-b237-e934016cb546.jpg?v=1783964921
+    Price: $48.27 USD
+  - [Black shell 20000MAH](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452124717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/0017854d-027a-4659-9efe-067b3b286947.jpg?v=1783964921
+    Price: $62.91 USD
+  - [White](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452157485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/387189468634.jpg?v=1783964921
+    Price: $48.27 USD
+  - [Black Orange 30000MAH](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452190253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/f5c6e20b-12ea-4240-9b20-5cee00d9ab09_fine.jpg?v=1783964922
+    Price: $43.86 USD
+  - [White 20000mAh](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452223021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/d5d54e8e-845e-44f5-aa52-7a65fabb966e.jpg?v=1783964922
+    Price: $46.10 USD
+  - [Yellow 20000mAh](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452255789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/a3cc9a56-847a-4de3-b432-62fc451b3b72.jpg?v=1783964921
+    Price: $33.76 USD
+  - [Green](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452288557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/474681013659.jpg?v=1783964921
+    Price: $53.44 USD
+  - [Black](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452321325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/101756217328.jpg?v=1783964921
+    Price: $48.27 USD
+  - [Orange](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452354093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/411302858394.jpg?v=1783964921
+    Price: $50.56 USD
+  - [Blue](https://winningfindz.store/products/outdoor-mobile-power-set-solar-power-bank-shell?variant=67024452386861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/350419159298.jpg?v=1783964921
+    Price: $48.27 USD
+- [Solar Mobile Phone Power Bank  Flashlight Keychain Power](https://winningfindz.store/products/solar-mobile-phone-power-bank-flashlight-keychain-power): Features: 1. Especially suitable for emergency situations 2. Easy to use 3. High efficiency charging 4. Fashionable appearance, easy to carry The shape is simple and luxurious, stylish and beautiful, small and exquisite, and easy to carry. 5. With lights With high-brightness LED lighting, it is convenient to travel at night. 6. Charging indicator, safe to use The product has an output charging indicator and a mains charging indicator. The red indicator light will light up when charging, and the red indicator light will go out after the product is fully charged. It is More convenient and safer to use. Product specifications: 1. Using high conversion efficiency monocrystalline silicon solar cells, the solar conversion rate reaches more than 17% 2. The solar panel specification is: 5.0 V / 40 mA 3. Built-in high-capacity rechargeable lithium battery in the charger: 1200 mAh (actually 800-950MAH) 4. Output voltage: DC 5.5±0.2 V 5. Output current: 300-800 mA 6. Specification: 70*40*15mm 7. Weight: 30 grams 8. Charging time for the mobile phone: about 30 minutes (different brands and models of mobile phones have different charging times) 9. The charging time for the built-in battery of the solar charger is 20-24 hours (depending on the intensity of the light) 10. Use a computer or AC adapter to charge the built-in battery of the charger: about 2.5 hours Packing specification: 1. 1 machine, 2. 1 charging line Precautions: 1. Please do not scratch the surface of the solar panel with sharp objects. 2. When using solar energy to charge the built-in battery of the charger, please place the solar panel facing up in direct sunlight to ensure the best charging effect. 3. Please put this product in a dry place, pay attention to moisture. 4. If short-circuit protection is found, just unplug the short-circuit load, and it will automatically recover after ten seconds.
+  Updated: 2026-07-14T05:49:00Z
+  Vendor: WINNING FINDZ
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/cf316db4-b0aa-4ae2-a433-b4c4c2a2c17e.jpg?v=1783964936
+  - [Black](https://winningfindz.store/products/solar-mobile-phone-power-bank-flashlight-keychain-power?variant=67024452714541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/d1dfd9ed-2383-41f5-bff0-42544689bd04.jpg?v=1783964936
+    Price: $24.49 USD
+  - [White](https://winningfindz.store/products/solar-mobile-phone-power-bank-flashlight-keychain-power?variant=67024452747309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/b8d4a9b9-fe0e-49c8-bbdf-d998db6ee47c.jpg?v=1783964935
+    Price: $23.93 USD
+- [Portable Solar Power Bank With Cable](https://winningfindz.store/products/portable-solar-power-bank-with-cable): Specification: Battery type: polymer lithium ion battery Applicable type: general purpose Battery type: soft case Shell material: plastic Additional function: solar Size: 148*71*19mm Color: black + airplane box packaging, white + airplane box packaging Power capacity: 10000 mAh full capacity real standard, 20000 mAh full capacity real standard, Conversion rate: 85 (%) 20000 mA size: 148*71*31mm Package Content: Power bank*1
+  Updated: 2026-07-14T05:49:11Z
+  Vendor: WINNING FINDZ
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/81c5be56-e488-4579-8ef4-0ce05495ca5b.jpg?v=1783964946
+  - [White / 10000mA](https://winningfindz.store/products/portable-solar-power-bank-with-cable?variant=67024453074989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/7ca0fc5b-33a5-49a8-98a6-9c3a121dd499.jpg?v=1783964946
+    Price: $36.47 USD
+  - [White / 20000mA](https://winningfindz.store/products/portable-solar-power-bank-with-cable?variant=67024453107757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/7ca0fc5b-33a5-49a8-98a6-9c3a121dd499.jpg?v=1783964946
+    Price: $45.92 USD
+  - [Black / 10000mA](https://winningfindz.store/products/portable-solar-power-bank-with-cable?variant=67024453140525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/173bd0b9-2703-40ad-86a0-213f3323e621.jpg?v=1783964946
+    Price: $37.40 USD
+  - [Black / 20000mA](https://winningfindz.store/products/portable-solar-power-bank-with-cable?variant=67024453173293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/173bd0b9-2703-40ad-86a0-213f3323e621.jpg?v=1783964946
+    Price: $50.03 USD
+- [Ultra-thin metal solar power bank](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank): [Capacity configuration]: External standard 20000 mA, actual capacity (there are full 8000, 10000 mA optional) Charging time: 8-9 hours Cell phone charging times: it depends on the battery capacity of the phone itself Standard configuration: power bank + exquisite packaging box + V8 charging cable + manual Features: 1. Comes with monocrystalline solar panels 2. The new A product polymer battery cell assembly can provide saturated power for Android phones and Apple iPhones 3. Standard V8 interface input, dual USB interface output, only need mobile phone data cable to charge 4. Durable, with many charge and discharge cycles 5. Intelligent control over charge and over discharge, and short circuit protection circuit 6. Automatic sleep, automatic sleep in non-working state, to prevent power loss 7. One machine with multiple functions, suitable for all devices with USB charging, such as various mobile phones, IPOD, MP3, MP4, IPHONE, GPS, Bluetooth, digital cameras, etc. 8. The USB port is used for power supply and output, and the data line can be plugged in to realize portable charging at any time
+  Updated: 2026-07-14T05:49:36Z
+  Vendor: WINNING FINDZ
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1486633233701.jpg?v=1783964971
+  - [Red / Actual 8000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024453763117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/568289656519.jpg?v=1783964971
+    Price: $40.52 USD
+  - [Gold / Actual 10000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024453795885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2006339964632.jpg?v=1783964971
+    Price: $44.66 USD
+  - [Rose Gold / Actual 10000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024453828653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1980198522920.jpg?v=1783964971
+    Price: $44.66 USD
+  - [Blue / Actual 8000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024453861421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2178775906312.jpg?v=1783964970
+    Price: $40.52 USD
+  - [Black / Actual 10000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024453894189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/4039546154649.jpg?v=1783964970
+    Price: $44.05 USD
+  - [Black / Actual 8000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024453926957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1414033358521.jpg?v=1783964971
+    Price: $40.52 USD
+  - [Gold / Actual 8000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024453959725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/14694863886121.jpg?v=1783964970
+    Price: $40.52 USD
+  - [Blue / Actual 10000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024453992493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/4288094999404.jpg?v=1783964971
+    Price: $44.66 USD
+  - [Silver / Actual 8000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024454025261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2579210383252.jpg?v=1783964971
+    Price: $40.52 USD
+  - [Silver / Actual 10000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024454058029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/2497950951483.jpg?v=1783964970
+    Price: $44.66 USD
+  - [Rose Gold / Actual 8000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024454090797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1602871245749.jpg?v=1783964970
+    Price: $40.52 USD
+  - [Red / Actual 10000 mA](https://winningfindz.store/products/ultra-thin-metal-solar-power-bank?variant=67024454123565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/367163862160.jpg?v=1783964971
+    Price: $44.66 USD
+- [Mini Convenient Solar Power Bank](https://winningfindz.store/products/mini-convenient-solar-power-bank): Name Model: Solar Power Bank Product size: 80 * 80 * 28mm Input voltage: 2.0A/ 5V Output voltage: 2.1A/ 5V Battery capacity: 10000mAh Battery type: polymer lithium ion battery Additional function: 3USB port output with LED display light Product net weight/gross weight: 240g
+  Updated: 2026-07-14T05:49:52Z
+  Vendor: WINNING FINDZ
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/1008681239955.jpg?v=1783964985
+  - [Black / 10000 mAh](https://winningfindz.store/products/mini-convenient-solar-power-bank?variant=67024454647853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/909598460596.jpg?v=1783964985
+    Price: $32.50 USD
+  - [Black / 5000 mAh](https://winningfindz.store/products/mini-convenient-solar-power-bank?variant=67024454680621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/909598460596.jpg?v=1783964985
+    Price: $25.75 USD
+  - [White / 5000 mAh](https://winningfindz.store/products/mini-convenient-solar-power-bank?variant=67024454713389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/8888144857745.jpg?v=1783964985
+    Price: $25.75 USD
+  - [White / 10000 mAh](https://winningfindz.store/products/mini-convenient-solar-power-bank?variant=67024454746157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/0522/9101/files/8888144857745.jpg?v=1783964985
+    Price: $32.50 USD
+[List Continued](https://winningfindz.store/a/llms-agent/llms.txt?shop=bys-store-3032251-219158.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTE3NDg2MzA2MTAzNywibGFzdF92YWx1ZSI6IjE1MTc0ODYzMDYxMDM3In0%3D)
 
 ## Collections
 
 - [All products that use solar panels](https://winningfindz.store/collections/solo-equipo-de-musica)
-  Updated: 2026-06-19T22:11:14Z
+  Updated: 2026-07-14T17:30:17Z
   Total Products: 109
-- [Only solar panels](https://winningfindz.store/collections/los-mejores-de-mejores)
-  Updated: 2026-06-19T22:11:28Z
+- [Solar Panels](https://winningfindz.store/collections/solar-panels): Shop portable and foldable solar panels at Winning Findz. From 14W to 200W, find the right panel for camping, off-grid, and outdoor use.
+  Updated: 2026-07-14T17:30:58Z
   Total Products: 36
 - [AVADA - Best Sellers](https://winningfindz.store/collections/avada-best-sellers)
-  Updated: 2026-06-19T22:11:28Z
-  Total Products: 146
+  Updated: 2026-07-14T17:30:58Z
+  Total Products: 151
 - [Recommended Products (Wiz Email)](https://winningfindz.store/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-06-19T22:11:28Z
-  Total Products: 146
+  Updated: 2026-07-14T17:30:58Z
+  Total Products: 151
 - [Solar Backpacks](https://winningfindz.store/collections/solar-backpacks): Shop solar-powered backpacks with built-in USB charging. Perfect for hiking, camping & travel. Stay powered anywhere.
   Updated: 2026-06-19T22:11:14Z
   Total Products: 12
@@ -2495,10 +2802,10 @@
   Updated: 2026-06-18T18:00:47Z
   Total Products: 14
 - [Solar Panels & Chargers](https://winningfindz.store/collections/solar-panels-chargers): Shop portable solar panels and chargers. Foldable, waterproof options for camping, hiking & emergencies. Fast USB charging anywhere.
-  Updated: 2026-06-19T22:11:28Z
-  Total Products: 64
+  Updated: 2026-07-14T17:30:58Z
+  Total Products: 68
 - [Solar Fans](https://winningfindz.store/collections/solar-fans): Shop solar-powered fans for camping, greenhouses & outdoor use. Eco-friendly cooling with no electricity needed. Portable & efficient.
-  Updated: 2026-06-18T18:00:47Z
+  Updated: 2026-07-14T17:30:17Z
   Total Products: 39
 - [Solar Lighting](https://winningfindz.store/collections/solar-lighting): Shop solar-powered outdoor lights, garden lamps & camping lanterns. Energy-efficient, easy to install, no wiring needed.
   Updated: 2026-06-18T02:00:40Z
@@ -2507,8 +2814,11 @@
   Updated: 2026-06-18T06:06:57Z
   Total Products: 12
 - [Solar Security Cameras](https://winningfindz.store/collections/solar-security-cameras): Shop solar-powered wireless security cameras. Weatherproof, easy install, no wiring needed. 24/7 home protection with clean energy.
-  Updated: 2026-06-18T01:58:17Z
-  Total Products: 6
+  Updated: 2026-07-13T17:54:48Z
+  Total Products: 7
+- [Power Banks](https://winningfindz.store/collections/power-banks): Shop solar-powered power banks at Winning Findz. Portable, reliable chargers for outdoor adventures, travel, and emergencies.
+  Updated: 2026-07-13T18:05:04Z
+  Total Products: 15
 
 ## Store Pages
 
@@ -2516,12 +2826,12 @@
   Updated: 2026-05-31T15:11:36Z
 - [Your Privacy Choices](https://winningfindz.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-05-31T15:11:37Z
-- [About Us](https://winningfindz.store/pages/about-us)
-  Updated: 2026-05-31T16:07:34Z
+- [About Us](https://winningfindz.store/pages/about-us): Powering Your Adventures with Solar Energy At Winning Findz, we believe the best gear is the kind that keeps up with you — wherever you go. We're a...
+  Updated: 2026-07-13T16:33:45Z
 - [FAQs](https://winningfindz.store/pages/faqs)
   Updated: 2026-05-31T16:07:34Z
-- [Return Policy](https://winningfindz.store/pages/return-policy)
-  Updated: 2026-05-31T16:07:35Z
+- [Return Policy](https://winningfindz.store/pages/return-policy): Our Return PolicyWe want you to shop with confidence. Here's everything you need to know about returns:30-Day Return WindowYou have 30 days from th...
+  Updated: 2026-07-13T16:32:10Z
 - [Shipping Policy](https://winningfindz.store/pages/shipping-policy)
   Updated: 2026-05-31T16:07:35Z
 - [Terms and Conditions](https://winningfindz.store/pages/terms-and-conditions)
@@ -2532,11 +2842,11 @@
 ## Policies
 
 - [Privacy Policy](https://winningfindz.store/policies/privacy-policy)
-  Updated: 2026-05-31T11:11:38-04:00
+  Updated: 2026-07-13T12:37:22-04:00
 - [Shipping Policy](https://winningfindz.store/policies/shipping-policy)
   Updated: 2026-05-31T14:03:12-04:00
 - [Refund Policy](https://winningfindz.store/policies/refund-policy)
-  Updated: 2026-06-17T23:50:06-04:00
+  Updated: 2026-07-17T21:51:22-04:00
 - [Terms of Service](https://winningfindz.store/policies/terms-of-service)
   Updated: 2026-05-31T14:00:39-04:00
 - [Contact Information](https://winningfindz.store/policies/contact-information)
