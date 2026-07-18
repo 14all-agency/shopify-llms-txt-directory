@@ -6,271 +6,271 @@
 - Timezone: America/New_York
 - Created At: 2022-09-22T07:56:41Z
 - Contact Email: Info@crossandglory.com
-- Updated At: 2026-07-11T00:00:42.474Z
+- Updated At: 2026-07-18T00:00:43.963Z
 
 ## Products
 
 - [Garden Puzzle – Rainbow of Flowers – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/rainbow-of-flowers-1000-piece--jigsaw-puzzle-by-cross-glory-stunningly-vibrant-colors-challenging-brain-exercise-for-puzzle-lovers): Discover Rainbow of Flowers, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T19:19:37Z
+  Updated: 2026-07-16T10:14:28Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/rainbow-of-flowers-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-415528.jpg?v=1751994974
   Price: $19.99 USD
 - [Garden Puzzle – Sunflower Kaleidoscope – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/sunflower-kaleidoscope-1000-piece-jigsaw-puzzle-by-cross-glory-colorful-flower-artwork-for-adults-challenging-and-fun-activity-great-gift-for-garden-lovers): Discover Sunflower Kaleidoscope, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T19:50:26Z
+  Updated: 2026-07-17T20:43:47Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/sunflower-kaleidoscope-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-617645.jpg?v=1751994972
   Price: $15.99 USD
 - [Bird Puzzle – Festival of The Nine Birds – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/festival-of-the-nine-birds-1000-piece-jigsaw-puzzle-for-adults-by-cross-glory-colorful-collage-of-individual-bird-artwork-vibrant-and-unique-great-gift-for-bird-lovers): Discover Festival of The Nine Birds, a premium 1000-piece bird puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:21:06Z
+  Updated: 2026-07-17T23:49:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/festival-of-the-nine-birds-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-499940.jpg?v=1751994967
   Price: $19.99 USD
 - [Coastal Puzzle – Colorful Sea Urchins – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/colorful-sea-urchins-jigsaw-puzzle-1000-pieces-by-cross-glory-vibrant-and-stunning-collage-challenging-and-relaxing-for-adults-unique-and-beautiful-design): Discover Colorful Sea Urchins, a premium 1000-piece coastal puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:03:37Z
+  Updated: 2026-07-17T15:51:00Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/colorful-sea-urchins-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-631795.jpg?v=1751994964
   Price: $19.99 USD
 - [Alien Puzzle – Meet The Aliens: Zorin and Etrax – 1000 Piece Puzzle](https://crossandglory.com/products/meet-the-aliens-zorin-and-etrax-unique-1000-piece-jigsaw-puzzle-with-alien-couple-artwork-from-cross-glorys-meet-the-aliens-series): Discover Meet The Aliens: Zorin and Etrax, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:14:10Z
+  Updated: 2026-07-17T23:56:47Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/meet-the-aliens-zorin-and-etrax-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-748319.jpg?v=1751994961
-  Price: $15.99 USD
+  Price: $15.49 USD
 - [Garden Puzzle – Waterlilies by Moonlight – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/waterlilies-by-moonlight-1000-piece-jigsaw-puzzle-cross-glory-stunning-artwork-of-moonlit-waterlilies-in-a-serene-pond-great-for-relaxation-and-display-for-puzzle-enthusiasts): Discover Waterlilies by Moonlight, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:04:26Z
+  Updated: 2026-07-17T22:51:38Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/waterlilies-by-moonlight-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-349064.jpg?v=1751994957
   Price: $19.99 USD
 - [Alien Puzzle – Meet The Aliens: Vaxion and Lirien – 1000 Piece Puzzle](https://crossandglory.com/products/meet-the-aliens-vaxion-and-lirien-1000-piece-jigsaw-puzzle-by-cross-glory-unique-and-colorful-artwork-of-an-alien-couple-for-puzzle-enthusiasts-and-science-fiction-fans): Discover Meet The Aliens: Vaxion and Lirien, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T18:47:57Z
+  Updated: 2026-07-17T23:55:50Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/meet-the-aliens-vaxion-and-lirien-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-301283.jpg?v=1751994947
   Price: $14.99 USD
 - [Peacock Puzzle – Emerald Peacock – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/cross-glory-emerald-peacock-jigsaw-puzzle-1000-piece--puzzle-with-stunning-peacock-artwork-challenging-puzzle-for-animal-lovers-pieces-for-lasting-fun-and-display): Discover Emerald Peacock, a premium 1000-piece peacock puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:43:56Z
+  Updated: 2026-07-17T16:50:09Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/emerald-peacock-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-296355.jpg?v=1751994945
   Price: $13.99 USD
 - [Art Puzzle – Tropics on The Moon – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/tropics-on-the-moon-1000-piece--jigsaw-puzzle-from-cross-glory-stunning-artwork-of-astronaut-and-tropical-plants-on-the-moon-challenging-puzzle-for-space-lovers-pieces): Discover Tropics on The Moon, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:00:04Z
+  Updated: 2026-07-16T23:53:29Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/tropics-on-the-moon-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-186697.jpg?v=1751994943
   Price: $14.99 USD
 - [Art Puzzle – Henry and The Herd – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/henry-and-the-herd-1000-piece--jigsaw-puzzle-from-cross-glory-perfect-for-animal-and-puzzle-lovers-vibrant-illustrations-and-quality-pieces-challenging-and-relaxing-great-gift-idea): Discover Henry and The Herd, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T18:57:57Z
+  Updated: 2026-07-17T21:46:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/henry-and-the-herd-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-733338.jpg?v=1751994942
   Price: $14.99 USD
 - [Succulent Puzzle – Succulent Symphony – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/succulent-symphony-1000-piece-jigsaw-puzzle): Discover Succulent Symphony, a premium 1000-piece succulent puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:38:36Z
+  Updated: 2026-07-17T20:11:28Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/succulent-symphony-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-589691.jpg?v=1751994939
   Price: $19.99 USD
 - [Art Puzzle – The Fab Four Giraffes – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/the-fab-four-giraffes-1000-piece-jigsaw-puzzle): Discover The Fab Four Giraffes, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-09T20:17:57Z
+  Updated: 2026-07-17T18:20:27Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/the-fab-four-giraffes-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-537968.jpg?v=1751994937
   Price: $17.99 USD
 - [Bird Puzzle – Kaleidoscope of Feathers – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/kaleidoscope-of-feathers-1000-piece-jigsaw-puzzle): Discover Kaleidoscope of Feathers, a premium 1000-piece bird puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T04:38:36Z
+  Updated: 2026-07-17T22:16:19Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/kaleidoscope-of-feathers-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-135816.jpg?v=1751994935
   Price: $19.99 USD
 - [Art Puzzle – Elegant Kimono Beauties – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/elegant-kimono-beauties-1000-piece-jigsaw-puzzle): Discover Elegant Kimono Beauties, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-11T00:00:06Z
+  Updated: 2026-07-17T21:00:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/elegant-kimono-beauties-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-810496.jpg?v=1751994934
-  Price: $19.99 USD
+  Price: $19.49 USD
 - [Art Puzzle – Cosmic Codex of Colors – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/cosmic-codex-of-colors-1000-piece-jigsaw-puzzle): Discover Cosmic Codex of Colors, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:00:05Z
+  Updated: 2026-07-17T16:20:48Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/cosmic-codex-of-colors-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-183008.jpg?v=1751994932
   Price: $14.99 USD
 - [Art Puzzle – Sunrise Surf – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/sunrise-surf-1000-piece-jigsaw-puzzle): Discover Sunrise Surf, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:07:36Z
+  Updated: 2026-07-17T14:24:06Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/sunrise-surf-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-250455.jpg?v=1751994930
   Price: $19.99 USD
 - [Octopus Puzzle – Deep Blue Octopus Odyssey – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/deep-blue-octopus-odyssey-1000-piece-jigsaw-puzzle): Discover Deep Blue Octopus Odyssey, a premium 1000-piece octopus puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:49:14Z
+  Updated: 2026-07-17T23:16:13Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/deep-blue-octopus-odyssey-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-923194.jpg?v=1751994927
   Price: $22.99 USD
 - [Art Puzzle – Rainbow Ribbit: Frog Ensemble – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/rainbow-ribbit-frog-ensemble-1000-piece-jigsaw-puzzle): Discover Rainbow Ribbit: Frog Ensemble, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:47:46Z
+  Updated: 2026-07-17T20:34:38Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/rainbow-ribbit-frog-ensemble-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-240090.jpg?v=1751994925
   Price: $19.99 USD
 - [Fish Puzzle – Angelfish Abstract – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/angelfish-abstract-1000-piece-jigsaw-puzzle): Discover Angelfish Abstract, a premium 1000-piece fish puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T12:09:29Z
+  Updated: 2026-07-17T21:00:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/angelfish-abstract-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-936791.jpg?v=1751994923
-  Price: $14.99 USD
+  Price: $15.49 USD
 - [Alien Puzzle – Meet the Aliens: Nymira and Dantar – 1000 Piece Puzzle](https://crossandglory.com/products/meet-the-aliens-nymira-and-dantar-1000-piece-jigsaw-puzzle): Discover Meet the Aliens: Nymira and Dantar, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:23:36Z
+  Updated: 2026-07-17T21:00:14Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/meet-the-aliens-nymira-and-dantar-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-760016.jpg?v=1751994914
   Price: $14.49 USD
 - [Alien Puzzle – Meet the Aliens: Xantara and Nykara – 1000 Piece Puzzle](https://crossandglory.com/products/meet-the-aliens-xantara-and-nykara-1000-piece-jigsaw-puzzle): Discover Meet the Aliens: Xantara and Nykara, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T15:17:54Z
+  Updated: 2026-07-17T15:10:28Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/meet-the-aliens-xantara-and-nykara-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-930333.jpg?v=1751994909
   Price: $19.99 USD
 - [Art Puzzle – Crowned Canvas: Mask Majesty – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/crowned-canvas-mask-majesty-1000-piece-jigsaw-puzzle): Discover Crowned Canvas: Mask Majesty, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T06:31:07Z
+  Updated: 2026-07-17T01:27:58Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/crowned-canvas-mask-majesty-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-124533.jpg?v=1751994895
   Price: $19.99 USD
 - [Art Puzzle – Mystical Mosaic: Toucan's Paradise – 1000 Piece Puzzle](https://crossandglory.com/products/mystical-mosaic-toucans-paradise-1000-piece-jigsaw-puzzle): Discover Mystical Mosaic: Toucan's Paradise, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:08:56Z
+  Updated: 2026-07-17T21:00:10Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-050-3D_1.png?v=1751994889
-  Price: $18.99 USD
+  Price: $19.99 USD
 - [Fantasy Puzzle – Golden Peony Dreams – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/golden-peony-dreams-1000-piece-jigsaw-puzzle): Discover Golden Peony Dreams, a premium 1000-piece fantasy puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:00:56Z
+  Updated: 2026-07-17T22:02:48Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-052-3D_1.png?v=1751994886
   Price: $19.99 USD
 - [Art Puzzle – Neon Robot Rhapsody – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/neon-robot-rhapsody-1000-piece-jigsaw-puzzle): Discover Neon Robot Rhapsody, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:15:36Z
+  Updated: 2026-07-17T22:08:09Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-054-3D.png?v=1751994883
   Price: $19.99 USD
 - [Octopus Puzzle – Kaleidoscopic Owls: Colorful Night's Watch – 1000 Piece Puzzle](https://crossandglory.com/products/copy-of-deep-blue-octopus-odyssey-1000-piece-jigsaw-puzzle): Enjoy Kaleidoscopic Owls: Colorful Night's Watch, a premium 1000-piece octopus puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T16:03:49Z
+  Updated: 2026-07-17T21:21:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/kaleidoscopic-owls-colorful-nights-watch-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-289874.jpg?v=1751994871
   Price: $19.99 USD
 - [Owl Puzzle – Blossoming Desert: Poolside Paradise – 1000 Piece Puzzle](https://crossandglory.com/products/copy-of-kaleidoscopic-owls-colorful-nights-watch-1000-piece-jigsaw-puzzle): Discover Blossoming Desert: Poolside Paradise, a premium 1000-piece owl puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:35:16Z
+  Updated: 2026-07-17T22:57:28Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/blossoming-desert-poolside-paradise-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-472199.jpg?v=1751994869
   Price: $19.99 USD
 - [Garden Puzzle – Sarah's Secret Garden Adventure – 1000 Piece Puzzle](https://crossandglory.com/products/copy-of-blossoming-desert-poolside-paradise-1000-piece-jigsaw-puzzle): Discover Sarah's Secret Garden Adventure, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T09:54:37Z
+  Updated: 2026-07-17T03:50:58Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/sarahs-secret-garden-adventure-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-110809.jpg?v=1751994867
   Price: $15.99 USD
 - [Treehouse Puzzle – Fantastical Treehouse Escape – 1000 Piece Puzzle](https://crossandglory.com/products/fantastical-treehouse-escape-1000-piece-jigsaw-puzzle): Discover Fantastical Treehouse Escape, a premium 1000-piece treehouse puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:55:26Z
+  Updated: 2026-07-17T22:02:03Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/fantastical-treehouse-escape-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-638128.jpg?v=1751994861
-  Price: $17.99 USD
+  Price: $19.99 USD
 - [Alien Puzzle – Meet The Aliens: Sylas and Eirlys – 1000 Piece Puzzle](https://crossandglory.com/products/meet-the-aliens-sylas-and-eirlys-1000-piece-jigsaw-puzzle): Discover Meet The Aliens: Sylas and Eirlys, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:16:46Z
+  Updated: 2026-07-17T22:23:58Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/meet-the-aliens-sylas-and-eirlys-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-346755.jpg?v=1751994860
   Price: $19.99 USD
 - [Art Puzzle – Walking with Pi – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/walking-with-pi-1000-piece-jigsaw-puzzle): Discover Walking with Pi, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-09T20:18:16Z
+  Updated: 2026-07-16T07:33:37Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/walking-with-pi-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-339649.jpg?v=1751994854
   Price: $19.99 USD
 - [Alien Puzzle – Meet The Aliens: Calantha and Vaelen – 1000 Piece Puzzle](https://crossandglory.com/products/meet-the-aliens-calantha-and-vaelen-1000-piece-jigsaw-puzzle): Enjoy Meet The Aliens: Calantha and Vaelen, a premium 1000-piece alien puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T20:00:17Z
+  Updated: 2026-07-17T22:56:31Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/meet-the-aliens-calantha-and-vaelen-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-658594.jpg?v=1751994853
   Price: $9.97 USD
 - [Art Puzzle – Macaron Palette Parade – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/macaron-palette-parade-1000-piece-jigsaw-puzzle): Discover Macaron Palette Parade, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:27:37Z
+  Updated: 2026-07-17T23:49:49Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/macaron-palette-parade-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-250486.jpg?v=1751994847
   Price: $19.99 USD
 - [Dog Puzzle – Geometric Dog Dreamscape – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/geometric-dog-dreamscape-1000-piece-jigsaw-puzzle): Discover Geometric Dog Dreamscape, a premium 1000-piece dog puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T18:43:27Z
+  Updated: 2026-07-17T21:34:57Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/geometric-dog-dreamscape-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-826119.jpg?v=1751994845
   Price: $19.49 USD
 - [Art Puzzle – Petal Promenade: Springtime in Paris – 1000 Piece Puzzle](https://crossandglory.com/products/petal-promenade-springtime-in-paris-1000-piece-jigsaw-puzzle): Discover Petal Promenade: Springtime in Paris, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:06:46Z
+  Updated: 2026-07-17T23:42:46Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/petal-promenade-springtime-in-paris-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-753519.jpg?v=1751994836
   Price: $19.99 USD
 - [Garden Puzzle – Koala's Poppy Paradise – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/koalas-poppy-paradise-1000-piece-jigsaw-puzzle): Discover Koala's Poppy Paradise, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T16:22:47Z
+  Updated: 2026-07-17T21:04:53Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/koalas-poppy-paradise-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-339668.jpg?v=1751994832
   Price: $9.97 USD
 - [Art Puzzle – Poultry in Paradise: A Key West Tribute – 1000 Piece Puzzle](https://crossandglory.com/products/poultry-in-paradise-a-key-west-tribute-1000-piece-jigsaw-puzzle): Enjoy Poultry in Paradise: A Key West Tribute, a premium 1000-piece art puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T22:43:46Z
+  Updated: 2026-07-17T01:33:05Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/poultry-in-paradise-a-key-west-tribute-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-941346.jpg?v=1751994831
   Price: $19.99 USD
 - [Art Puzzle – Beneath The Waves: Shark's Colorful Realm – 1000 Piece Puzzle](https://crossandglory.com/products/beneath-the-waves-sharks-colorful-realm-1000-piece-jigsaw-puzzle): Enjoy Beneath The Waves: Shark's Colorful Realm, a premium 1000-piece art puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T18:09:24Z
+  Updated: 2026-07-17T23:51:57Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
@@ -284,273 +284,273 @@
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/gilded-garden-radiant-hens-chicks-poster-cross-glory-201967.jpg?v=1751994823
   Price: $24.99 USD
 - [Garden Puzzle – Poppies Panorama: Orange Elegance – 1000 Piece Puzzle](https://crossandglory.com/products/poppies-panorama-orange-elegance-1000-piece-jigsaw-puzzle): Discover Poppies Panorama: Orange Elegance, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:35:46Z
+  Updated: 2026-07-17T23:52:46Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/poppies-panorama-orange-elegance-1000-piece-jigsaw-puzzle-jigsaw-puzzles-cross-glory-266186.jpg?v=1751994821
   Price: $19.99 USD
 - [Art Puzzle – Surf 'n' Scream Beach Party – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/surf-n-scream-beach-party-1000-piece-jigsaw-puzzle): Discover Surf 'n' Scream Beach Party, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-09T20:18:32Z
+  Updated: 2026-07-17T22:10:28Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-096-3D.png?v=1751994818
   Price: $19.99 USD
 - [Dog Puzzle – Colorful Canines: A Dog Park Day – 1000 Piece Puzzle](https://crossandglory.com/products/colorful-canines-a-dog-park-day-1000-piece-jigsaw-puzzle): Discover Colorful Canines: A Dog Park Day, a premium 1000-piece dog puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:14:48Z
+  Updated: 2026-07-17T21:07:15Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-099-3D_1.png?v=1751994813
-  Price: $19.99 USD
+  Price: $19.49 USD
 - [City Jigsaw Puzzle – Queen City Paddle Wheel Adventure – 1000 Piece Puzzle](https://crossandglory.com/products/queen-city-paddle-wheel-adventure-1000-piece-jigsaw-puzzle): Enjoy Queen City Paddle Wheel Adventure, a premium 1000-piece city jigsaw puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T17:34:07Z
+  Updated: 2026-07-17T21:00:04Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-101-3D.png?v=1751994809
-  Price: $19.99 USD
+  Price: $17.99 USD
 - [Art Puzzle – Santa's Yuletide Village – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/santas-yuletide-village-1000-piece-jigsaw-puzzle): Discover Santa's Yuletide Village, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:34:36Z
+  Updated: 2026-07-17T11:00:15Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/71jjY1I3nqL._AC_SX679.jpg?v=1751994808
   Price: $17.99 USD
 - [London Jigsaw Puzzle – Starry Night in London – 1000 Piece Puzzle](https://crossandglory.com/products/starry-night-in-london-1000-piece-jigsaw-puzzle): Discover Starry Night in London, a premium 1000-piece london jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:08:39Z
+  Updated: 2026-07-17T23:56:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-104-3D.png?v=1751994804
   Price: $19.99 USD
 - [Butterfly Puzzle – Floral Fantasia: A Butterfly’s Haven – 1000 Piece Puzzle](https://crossandglory.com/products/floral-fantasia-a-butterfly-s-haven-1000-piece-jigsaw-puzzle): Enjoy Floral Fantasia: A Butterfly’s Haven, a premium 1000-piece butterfly puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T22:27:36Z
+  Updated: 2026-07-17T21:19:37Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-105-3D.png?v=1751994802
   Price: $19.99 USD
 - [Alien Puzzle – Meet The Aliens: Kael and Narae – 1000 Piece Puzzle](https://crossandglory.com/products/meet-the-aliens-kael-and-narae-1000-piece-jigsaw-puzzle): Discover Meet The Aliens: Kael and Narae, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T10:55:38Z
+  Updated: 2026-07-17T23:53:58Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-106-3D.png?v=1751994801
   Price: $19.99 USD
 - [Lisbon Jigsaw Puzzle – Vibrant Vistas of Lisbon – 1000 Piece Puzzle](https://crossandglory.com/products/vibrant-vistas-of-lisbon-1000-piece-jigsaw-puzzle): Discover Vibrant Vistas of Lisbon, a premium 1000-piece lisbon jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:27:56Z
+  Updated: 2026-07-17T22:30:26Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-107-3D_1.png?v=1751994799
-  Price: $18.99 USD
+  Price: $19.99 USD
 - [Art Puzzle – Bohemian Tiger Tapestry – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/bohemian-tiger-tapestry-1000-piece-jigsaw-puzzle): Discover Bohemian Tiger Tapestry, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T16:56:57Z
+  Updated: 2026-07-17T16:34:04Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-108-3D.png?v=1751994798
   Price: $19.99 USD
 - [Succulent Puzzle – Mesa Verde Succulent Sunset – 1000 Piece Puzzle](https://crossandglory.com/products/mesa-verde-succulent-sunset-1000-piece-jigsaw-puzzle): Discover Mesa Verde Succulent Sunset, a premium 1000-piece succulent puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:51:27Z
+  Updated: 2026-07-17T22:23:48Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-109-3D.png?v=1751994796
   Price: $19.99 USD
 - [Octopus Puzzle – Neptune's Navigator: The Octopus Voyage – 1000 Piece Puzzle](https://crossandglory.com/products/neptunes-navigator-the-octopus-voyage-1000-piece-jigsaw-puzzle): Enjoy Neptune's Navigator: The Octopus Voyage, a premium 1000-piece octopus puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T17:34:27Z
+  Updated: 2026-07-17T14:35:47Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424_CG-M-110-3D_1.png?v=1751994794
   Price: $19.99 USD
 - [Garden Puzzle – Rainbow Dahlia Delight – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/rainbow-dahlia-delight-1000-piece-jigsaw-puzzle): Discover Rainbow Dahlia Delight, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:26:06Z
+  Updated: 2026-07-17T23:44:05Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-111-3D-_1.png?v=1780748631
-  Price: $19.49 USD
+  Price: $18.99 USD
 - [Art Puzzle – Silk and Splendor: an Imperial Puzzle Panorama – 1000 Piece Puzzle](https://crossandglory.com/products/silk-and-splendor-an-imperial-puzzle-panorama-1000-piece-jigsaw-puzzle): Enjoy Silk and Splendor: an Imperial Puzzle Panorama, a premium 1000-piece art puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T21:00:05Z
+  Updated: 2026-07-17T23:57:27Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-112-3D-_1.png?v=1780748623
   Price: $19.98 USD
 - [Cat Puzzle – Petals and The Midnight Cat – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/petals-and-the-midnight-cat-1000-piece-jigsaw-puzzle): Discover Petals and The Midnight Cat, a premium 1000-piece cat puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:44:26Z
+  Updated: 2026-07-17T23:51:14Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-113-3D-_1.png?v=1780748612
   Price: $20.88 USD
 - [Jellyfish Puzzle – Ocean's Opus: The Majestic Medusa – 1000 Piece Puzzle](https://crossandglory.com/products/oceans-opus-the-majestic-medusa-1000-piece-jigsaw-puzzle): Enjoy Ocean's Opus: The Majestic Medusa, a premium 1000-piece jellyfish puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T22:58:16Z
+  Updated: 2026-07-17T23:01:03Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-114-3D-2-_1.png?v=1780748604
   Price: $19.99 USD
 - [Octopus Puzzle – Octopus Alchemy: The Lava Experiment – 1000 Piece Puzzle](https://crossandglory.com/products/octopus-alchemy-the-lava-experiment-1000-piece-jigsaw-puzzle): Enjoy Octopus Alchemy: The Lava Experiment, a premium 1000-piece octopus puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T17:11:12Z
+  Updated: 2026-07-17T22:52:17Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-116-3D-_1.png?v=1780748593
   Price: $19.99 USD
 - [Art Puzzle – Galaxy Quest: Symphony of The Cosmos – 1000 Piece Puzzle](https://crossandglory.com/products/galaxy-quest-symphony-of-the-cosmos-1000-piece-jigsaw-puzzle): Discover Galaxy Quest: Symphony of The Cosmos, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T03:57:35Z
+  Updated: 2026-07-17T18:50:38Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-117-3D-_1.png?v=1780748585
   Price: $12.49 USD
 - [Norway Jigsaw Puzzle – Fjord Facades: Norway's Water's Edge – 1000 Piece Puzzle](https://crossandglory.com/products/fjord-facades-norways-waters-edge-1000-piece-jigsaw-puzzle): Enjoy Fjord Facades: Norway's Water's Edge, a premium 1000-piece norway jigsaw puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T23:42:26Z
+  Updated: 2026-07-17T23:39:37Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-118-3D-_1.png?v=1780748576
   Price: $19.99 USD
 - [Art Puzzle – Key West Colorama: Rooster on Duval – 1000 Piece Puzzle](https://crossandglory.com/products/key-west-colorama-rooster-on-duval-1000-piece-jigsaw-puzzle): Discover Key West Colorama: Rooster on Duval, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:00:08Z
+  Updated: 2026-07-17T23:32:34Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-122-3D-_1.png?v=1780748530
-  Price: $19.49 USD
+  Price: $18.49 USD
 - [Art Puzzle – Caribbean Treasure Hunt – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/caribbean-treasure-hunt-1000-piece-jigsaw-puzzle): Discover Caribbean Treasure Hunt, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T14:05:08Z
+  Updated: 2026-07-17T20:45:25Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-123-3D-1-_1.png?v=1780748515
-  Price: $17.99 USD
+  Price: $19.99 USD
 - [Cat Puzzle – Whiskered World: A Kitty Kaleidoscope – 1000 Piece Puzzle](https://crossandglory.com/products/whiskered-world-a-kitty-kaleidoscope-1000-piece-jigsaw-puzzle): Discover Whiskered World: A Kitty Kaleidoscope, a premium 1000-piece cat puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:55:16Z
+  Updated: 2026-07-17T23:06:57Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-124-3D-_1.png?v=1780748501
-  Price: $17.99 USD
+  Price: $19.99 USD
 - [Bird Puzzle – Hootenanny: Birds in Paradise – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/hootenanny-birds-in-paradise-1000-piece-jigsaw-puzzle): Discover Hootenanny: Birds in Paradise, a premium 1000-piece bird puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:36:56Z
+  Updated: 2026-07-17T21:01:17Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-125-3D-_1.png?v=1780748494
-  Price: $16.99 USD
+  Price: $17.49 USD
 - [City Jigsaw Puzzle – Bombay Bustle: Vibrant Mumbai City Life – 1000 Piece Puzzle](https://crossandglory.com/products/bombay-bustle-vibrant-mumbai-city-life-1000-piece-jigsaw-puzzle): Enjoy Bombay Bustle: Vibrant Mumbai City Life, a premium 1000-piece city jigsaw puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-09T20:18:57Z
+  Updated: 2026-07-13T18:35:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0424-CG-M-126-3D-_1.png?v=1780748487
   Price: $19.99 USD
 - [City Jigsaw Puzzle – City Garden Rainbow Retreat – 1000 Piece Puzzle](https://crossandglory.com/products/city-garden-rainbow-retreat-1000-piece-jigsaw-puzzle): Discover City Garden Rainbow Retreat, a premium 1000-piece city jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:24:56Z
+  Updated: 2026-07-17T22:56:18Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-086-3D-_1.png?v=1780748459
   Price: $17.99 USD
 - [Castle Puzzle – Whimsical Castle Wonderland – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/whimsical-castle-wonderland-1000-piece-jigsaw-puzzle): Discover Whimsical Castle Wonderland, a premium 1000-piece castle puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:37:46Z
+  Updated: 2026-07-16T22:18:38Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-088-3D-_1.png?v=1780748445
   Price: $9.97 USD
 - [Bird Puzzle – Birdsong in Bloom – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/cross-glory-puzzles-galactic-voyage-1000-piece-jigsaw-puzzle-the-magic-space-adventure-perfect-for-puzzle-enthusiasts-copy): Discover Birdsong in Bloom, a premium 1000-piece bird puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T17:50:57Z
+  Updated: 2026-07-17T22:14:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-128-3D-_1.png?v=1780748399
   Price: $19.99 USD
 - [Bird Puzzle – Grand Tour of America's National Parks – 1000 Piece Puzzle](https://crossandglory.com/products/cross-glory-puzzles-birdsong-in-bloom-1000-piece-jigsaw-puzzle-audubon-birds-perfect-for-nature-lovers-copy): Enjoy Grand Tour of America's National Parks, a premium 1000-piece bird puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T21:12:51Z
+  Updated: 2026-07-13T19:35:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-129-3D-_1.png?v=1780748385
   Price: $17.99 USD
 - [Coastal Puzzle – Sea of Green Voyage: British Invasion Beneath The Waves – 1000 Piece Puzzle](https://crossandglory.com/products/cross-glory-puzzles-grand-tour-of-americas-national-parks-scenic-1000-piece-travel-puzzle-perfect-for-adults-puzzle-enthusiasts-copy): Enjoy Sea of Green Voyage: British Invasion Beneath The Waves, a premium 1000-piece coastal puzzle with detailed artwork, satin-finish pieces, and a relaxing ch
-  Updated: 2026-07-10T21:13:41Z
+  Updated: 2026-07-17T16:20:09Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-130-3D-_1.png?v=1780748375
   Price: $19.99 USD
 - [Coastal Puzzle – La Fleur de Paris, 1000 Piece Jigsaw Puzzle – 1000 Piece Puzzle](https://crossandglory.com/products/cross-glory-puzzles-sea-of-green-voyage-british-invasion-beneath-the-waves-1000-piece-jigsaw-puzzle-fun-60s-themed-puzzles-for-adults-underwater-adventure-copy): Enjoy La Fleur de Paris, 1000 Piece Jigsaw Puzzle, a premium 1000-piece coastal puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T22:30:36Z
+  Updated: 2026-07-17T18:52:12Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-131-3D-_1.png?v=1780748360
   Price: $17.99 USD
 - [Lake Puzzle – Lakeside Serenity – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/cross-glory-puzzles-la-fleur-de-paris-1000-piece-jigsaw-puzzle-vibrant-parisian-flower-market-ideal-for-adults-who-love-beautiful-puzzles-copy): Discover Lakeside Serenity, a premium 1000-piece lake puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:00:09Z
+  Updated: 2026-07-17T13:25:26Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-132-3D-eee6635f-70cd-46af-a1ea-b230a937baf3-_1.png?v=1780748349
   Price: $17.99 USD
 - [Alien Puzzle – Meet The Aliens: Kylo and Mira – 1000 Piece Puzzle](https://crossandglory.com/products/cross-glory-puzzles-lakeside-serenity-1000-piece-jigsaw-puzzle-for-adults-tranquil-mountain-cottage-ideal-for-relaxation-and-nature-lovers-copy): Discover Meet The Aliens: Kylo and Mira, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T19:53:17Z
+  Updated: 2026-07-17T21:51:37Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-133-3D-_1.png?v=1780748338
   Price: $15.99 USD
 - [Alien Puzzle – Underwater Paradise – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/cross-glory-puzzles-meet-the-aliens-kylo-and-mira-1000-piece-alien-jigsaw-puzzle-sci-fi-adventure-perfect-for-puzzle-enthusiasts-copy): Discover Underwater Paradise, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:59:56Z
+  Updated: 2026-07-17T22:07:17Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-134-3D-Camera-_1.png?v=1780748326
-  Price: $19.99 USD
+  Price: $17.99 USD
 - [Art Puzzle – Umbrella Festival: Parade of Parasols – 1000 Piece Puzzle](https://crossandglory.com/products/cross-glory-underwater-paradise-1000-piece-jigsaw-puzzle-puzzles-for-adults-1000-pieces-vibrant-marine-life-puzzle-perfect-for-nature-lovers-copy): Discover Umbrella Festival: Parade of Parasols, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T09:42:08Z
+  Updated: 2026-07-17T20:45:15Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-135-3D-Camera-_1.png?v=1780748315
-  Price: $19.99 USD
+  Price: $20.99 USD
 - [Tree of Life Puzzle – Eternal Tree of Life – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/cross-glory-faces-of-unity-a-mosaic-of-us-1000-piece-jigsaw-puzzle-for-adults-best-new-pride-puzzle-vibrant-mosaic-artwork-copy): Discover Eternal Tree of Life, a premium 1000-piece tree of life puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:48:26Z
+  Updated: 2026-07-17T21:35:58Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-140-3D-Camera-_1.jpg?v=1780748284
-  Price: $17.99 USD
+  Price: $19.99 USD
 - [Fantasy Puzzle – Garden of Radiant Dreams – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/cross-glory-vibrant-tree-of-life-1000-piece-jigsaw-puzzle-for-adults-autumns-masterpiece-whimsical-and-colorful-puzzle-best-new-nature-themed-puzzle-copy): Discover Garden of Radiant Dreams, a premium 1000-piece fantasy puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:03:36Z
+  Updated: 2026-07-18T00:00:28Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/71oLwLG3v3L._AC_SX679.jpg?v=1751994697
   Price: $19.99 USD
 - [Waikiki Jigsaw Puzzle – Aloha Harmony: Colors of The Pacific – 1000 Piece Puzzle](https://crossandglory.com/products/cross-glory-garden-of-radiant-dreams-1000-piece-jigsaw-puzzle-for-adults-intricate-floral-artwork-relaxing-puzzle-experience-copy): Enjoy Aloha Harmony: Colors of The Pacific, a premium 1000-piece waikiki jigsaw puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T21:00:05Z
+  Updated: 2026-07-12T19:45:39Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-142-3D-Camera-_1.png?v=1780748270
   Price: $17.99 USD
 - [Waikiki Jigsaw Puzzle – Whiskered Tea Society – 1000 Piece Puzzle](https://crossandglory.com/products/cross-glory-aloha-harmony-colors-of-the-pacific-1000-piece-jigsaw-puzzle-for-adults-best-new-island-sunset-puzzle-vibrant-polynesian-artwork-immersive-puzzle-experience-copy): Discover Whiskered Tea Society, a premium 1000-piece waikiki jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:11:37Z
+  Updated: 2026-07-17T23:58:57Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-143-3D-Camera-_1.jpg?v=1780748255
   Price: $19.99 USD
 - [Cross & Glory Gift Card](https://crossandglory.com/products/cross-glory-gift-card): The Perfect Gift for Puzzle Lovers – Even If You Don’t Know Which Puzzle to Pick! Ever found yourself staring at a sea of options, unsure which puzzle to choose for that special someone? The struggle is real. But guess what? You don’t have to decide. With a Cross & Glory Gift Card, you’re giving the ultimate gift—the freedom to choose. Whether they love intricate landscapes, whimsical worlds, or bold artistic designs, they’ll find a puzzle that sparks their imagination. Why a Cross & Glory Gift Card?✔ No Guesswork Required – They pick their favorite puzzle. You take all the credit.✔ Instant & Hassle-Free – Delivered by email, ready to use in minutes.✔ Perfect for Every Occasion – Birthdays, holidays, or just because.✔ Denominations That Fit Any Budget – Available in $25, $50, $75, and $100. Give a gift that inspires, challenges, and delights—without the stress of choosing the wrong puzzle. Buy a Cross & Glory Gift Card Today and let them piece together their perfect puzzle adventure!
-  Updated: 2026-07-09T20:19:27Z
+  Updated: 2026-07-12T04:45:07Z
   Vendor: Cross & Glory
   Product Type: 
   Availability: Available
@@ -568,49 +568,56 @@
     Availability: Available
     Price: $100.00 USD
 - [Mexico Jigsaw Puzzle – Vivid Vistas of Mexico – 1000 Piece Puzzle](https://crossandglory.com/products/vivid-vistas-of-mexico-1000-piece-jigsaw-puzzle): Discover Vivid Vistas of Mexico, a premium 1000-piece mexico jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:27:06Z
+  Updated: 2026-07-17T17:38:46Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-153-3D-Camera-_1.jpg?v=1780748240
   Price: $19.99 USD
 - [Coastal Puzzle – Bay Breeze & Bright Lights – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/bay-breeze-and-bright-lights-1000-piece-jigsaw-puzzle): Discover Bay Breeze & Bright Lights, a premium 1000-piece coastal puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T17:09:17Z
+  Updated: 2026-07-17T23:36:47Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-152-3D-Camera-_1.jpg?v=1780748225
   Price: $19.99 USD
 - [Alien Puzzle – Meet the Aliens: Elara and Nox – 1000 Piece Puzzle](https://crossandglory.com/products/meet-the-aliens-elara-and-nox-1000-piece-jigsaw-puzzle): Discover Meet the Aliens: Elara and Nox, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T15:17:57Z
+  Updated: 2026-07-17T23:56:46Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-151-3D-Camera-_1.jpg?v=1780748210
   Price: $17.99 USD
 - [City Jigsaw Puzzle – Daisy Streets and Rainbow Skies – 1000 Piece Puzzle](https://crossandglory.com/products/daisy-streets-and-rainbow-skies-1000-piece-jigsaw-puzzle): Enjoy Daisy Streets and Rainbow Skies, a premium 1000-piece city jigsaw puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T23:48:36Z
+  Updated: 2026-07-17T23:46:09Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-150-3D-Camera-_1.jpg?v=1780748195
-  Price: $19.98 USD
+  Price: $19.99 USD
 - [Butterfly Puzzle – Blooming Butterflies – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/blooming-butterflies-1000-piece-jigsaw-puzzle): Discover Blooming Butterflies, a premium 1000-piece butterfly puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:00:06Z
+  Updated: 2026-07-15T01:22:58Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-148-3D-Camera-_1.jpg?v=1780748165
   Price: $19.99 USD
+- [Garden Puzzle – Garden of Colors – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/garden-of-colors-1000-piece-jigsaw-puzzle): Discover Garden of Colors, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
+  Updated: 2026-07-17T11:51:44Z
+  Vendor: Cross & Glory
+  Product Type: Jigsaw Puzzles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-147-3D-Camera-_1.jpg?v=1780748151
+  Price: $15.99 USD
 - [Dragonfly Puzzle – Lunar Symphony: The Dragonfly’s Tale – 1000 Piece Puzzle](https://crossandglory.com/products/lunar-symphony-the-dragonfly-s-tale-1000-piece-jigsaw-puzzle): Enjoy Lunar Symphony: The Dragonfly’s Tale, a premium 1000-piece dragonfly puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T22:27:26Z
+  Updated: 2026-07-17T20:59:38Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-146-3D-Camera-_1.jpg?v=1780748135
   Price: $19.99 USD
 - [City Jigsaw Puzzle – Octopus City: Neon Overlord – 1000 Piece Puzzle](https://crossandglory.com/products/octopus-city-neon-overlord-1000-piece-jigsaw-puzzle): Discover Octopus City: Neon Overlord, a premium 1000-piece city jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:05:18Z
+  Updated: 2026-07-17T16:06:48Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
@@ -680,370 +687,370 @@
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/all-over-print-tote-bag-black-15x15-mockup-68191315226e5-_1.jpg?v=1780748019
   Price: $19.95 USD
 - [Cat Puzzle – Whisker Wonderland: Holiday Cats Edition – 1000 Piece Puzzle](https://crossandglory.com/products/winter-wonderland-holiday-cats-edition-1000-piece-jigsaw-puzzle): Enjoy Whisker Wonderland: Holiday Cats Edition, a premium 1000-piece cat puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T19:17:17Z
+  Updated: 2026-07-17T23:39:43Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0425-CG-M-154-3D-Camera-_1.jpg?v=1780748005
   Price: $17.99 USD
 - [Dinosaur Puzzle – King Chompsalot – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/king-chompsalot-1000-piece-jigsaw-puzzle): Discover King Chompsalot, a premium 1000-piece dinosaur puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:50:36Z
+  Updated: 2026-07-17T16:22:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0425-CG-M-155-3D-Camera-_1.jpg?v=1780747989
   Price: $19.99 USD
 - [Cat Puzzle – Cozy Cats & Colorful Scarves – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/cozy-cats-and-colorful-scarves-1000-piece-jigsaw-puzzle): Discover Cozy Cats & Colorful Scarves, a premium 1000-piece cat puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:56:56Z
+  Updated: 2026-07-17T21:00:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0425-CG-M-156-3D-Camera-_1.jpg?v=1780747975
   Price: $19.49 USD
 - [Garden Puzzle – Cactus Inferno: The Desert in Bloom – 1000 Piece Puzzle](https://crossandglory.com/products/cactus-inferno-the-desert-in-bloom-1000-piece-jigsaw-puzzle): Enjoy Cactus Inferno: The Desert in Bloom, a premium 1000-piece garden puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T22:54:06Z
+  Updated: 2026-07-17T20:35:58Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0425-CG-M-157-3D-Camera-_1.jpg?v=1780747960
   Price: $19.99 USD
 - [Waikiki Jigsaw Puzzle – Golden Shores of Waikiki – 1000 Piece Puzzle](https://crossandglory.com/products/golden-shores-of-waikiki-1000-piece-jigsaw-puzzle-copy): Discover Golden Shores of Waikiki, a premium 1000-piece waikiki jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:51:56Z
+  Updated: 2026-07-17T08:25:56Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0425-CG-M-158-3D-Camera-_1.jpg?v=1780747944
   Price: $19.99 USD
 - [Tea Puzzle – The Colorful Teapot Garden – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/the-colorful-teapot-garden-1000-piece-jigsaw-puzzle): Discover The Colorful Teapot Garden, a premium 1000-piece tea puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T18:09:07Z
+  Updated: 2026-07-15T19:58:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0425-CG-M-159-3D-Camera-_1.jpg?v=1780747928
   Price: $19.99 USD
 - [Garden Puzzle – Stargazer Lilies: A Floral Masterpiece – 1000 Piece Puzzle](https://crossandglory.com/products/stargazer-lilies-a-floral-masterpiece-1000-piece-jigsaw-puzzle): Enjoy Stargazer Lilies: A Floral Masterpiece, a premium 1000-piece garden puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T22:40:16Z
+  Updated: 2026-07-17T22:13:00Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0425-CG-M-160-3D-Camera-_1.jpg?v=1780747912
   Price: $17.99 USD
 - [Octopus Puzzle – The Great Blue Octopus Enigma – 1000 Piece Puzzle](https://crossandglory.com/products/the-great-blue-octopus-enigma-1000-piece-jigsaw-puzzle): Discover The Great Blue Octopus Enigma, a premium 1000-piece octopus puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:40:26Z
+  Updated: 2026-07-17T21:00:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0425-CG-M-161-3D-Camera-_1.jpg?v=1780747897
-  Price: $19.99 USD
+  Price: $19.49 USD
 - [London Jigsaw Puzzle – Colorful London – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/colorful-london-1000-piece-jigsaw-puzzle): Discover Colorful London, a premium 1000-piece london jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:33:36Z
+  Updated: 2026-07-17T23:56:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0425-CG-M-162-3D-Camera-_1.jpg?v=1780747882
   Price: $19.99 USD
 - [Octopus Puzzle – The Octopus Who Grew Flowers – 1000 Piece Puzzle](https://crossandglory.com/products/the-octopus-who-grew-flowers-1000-piece-jigsaw-puzzle): Discover The Octopus Who Grew Flowers, a premium 1000-piece octopus puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-09T20:19:47Z
+  Updated: 2026-07-17T21:21:09Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-163-3D-Camera-_1.jpg?v=1780747866
   Price: $17.99 USD
 - [Lake Puzzle – Dockside Reflections – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/dockside-reflections-1000-piece-jigsaw-puzzle): Discover Dockside Reflections, a premium 1000-piece lake puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:09:46Z
+  Updated: 2026-07-17T23:21:57Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-165-3D-Camera-_1.jpg?v=1780747837
   Price: $19.99 USD
 - [Fantasy Puzzle – A Garden of Wonders – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/a-garden-of-wonders-1000-piece-jigsaw-puzzle): Discover A Garden of Wonders, a premium 1000-piece fantasy puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:10:26Z
+  Updated: 2026-07-17T21:07:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-166-3D-Camera-_1.jpg?v=1780747821
   Price: $15.99 USD
 - [Mountain Puzzle – Milky Way Rising – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/milky-way-rising-1000-piece-jigsaw-puzzle): Discover Milky Way Rising, a premium 1000-piece mountain puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T10:10:18Z
+  Updated: 2026-07-17T23:29:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-167-3D-Camera-_1.jpg?v=1780747807
-  Price: $17.99 USD
+  Price: $18.99 USD
 - [Coastal Puzzle – Patio by The Sea – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/patio-by-the-sea-1000-piece-jigsaw-puzzle): Discover Patio by The Sea, a premium 1000-piece coastal puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T17:32:28Z
+  Updated: 2026-07-17T23:30:39Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-168-3D-Camera-_1.jpg?v=1780747791
   Price: $19.99 USD
 - [Fantasy Puzzle – The Enchanted Garden Escape – 1000 Piece Puzzle](https://crossandglory.com/products/the-enchanted-garden-escape-1000-piece-jigsaw-puzzle): Discover The Enchanted Garden Escape, a premium 1000-piece fantasy puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T11:44:47Z
+  Updated: 2026-07-17T18:07:43Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CG-M-169-3D-Camera-_1.jpg?v=1780747776
   Price: $14.49 USD
 - [Succulent Puzzle – Desert Poolside Oasis – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/desert-poolside-oasis-1000-piece-jigsaw-puzzle): Discover Desert Poolside Oasis, a premium 1000-piece succulent puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T16:09:18Z
+  Updated: 2026-07-15T19:00:49Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0825-CG-M-170-L-3D-Camera-_1.jpg?v=1780747759
   Price: $19.99 USD
 - [Barcelona Jigsaw Puzzle – Charming Barcelona in Bloom – 1000 Piece Puzzle](https://crossandglory.com/products/charming-barcelona-in-bloom-1000-piece-jigsaw-puzzle): Enjoy Charming Barcelona in Bloom, a premium 1000-piece barcelona jigsaw puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T02:52:35Z
+  Updated: 2026-07-17T23:00:37Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0825-CG-M-172-L-3D-Camera-_1.jpg?v=1780747730
   Price: $19.99 USD
 - [Garden Puzzle – Ranunculus Rendezvous – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/ranunculus-rendezvous-1000-piece-jigsaw-puzzle): Discover Ranunculus Rendezvous, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T17:21:28Z
+  Updated: 2026-07-17T22:57:19Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0825-CG-M-173-L-3D-Camera-_1.jpg?v=1780747715
-  Price: $18.49 USD
+  Price: $17.99 USD
 - [Butterfly Puzzle – Bloomtastic Butterfly – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/bloomtastic-butterfly-1000-piece-jigsaw-puzzle): Discover Bloomtastic Butterfly, a premium 1000-piece butterfly puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:00:46Z
+  Updated: 2026-07-17T21:53:57Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0825-CG-M-174-L-3D-Camera-_1.jpg?v=1780747700
-  Price: $14.99 USD
+  Price: $17.49 USD
 - [Art Puzzle – Sunshine at Wishing Well Lane – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/sunshine-at-wishing-well-lane-1000-piece-jigsaw-puzzle): Discover Sunshine at Wishing Well Lane, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T04:08:35Z
+  Updated: 2026-07-17T07:50:37Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-0825-CG-M-175-L-3D-Camera-_1.jpg?v=1780747686
   Price: $19.99 USD
 - [Bird Puzzle – Birds of a Feather – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/birds-of-a-feather-1000-piece-jigsaw-puzzle): Discover Birds of a Feather, a premium 1000-piece bird puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:08:56Z
+  Updated: 2026-07-16T20:44:26Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-176-3D-Camera-_1.jpg?v=1780747672
   Price: $15.99 USD
 - [Snail Puzzle – The Snail Parade – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/the-snail-parade-1000-piece-jigsaw-puzzle): Discover The Snail Parade, a premium 1000-piece snail puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T14:39:58Z
+  Updated: 2026-07-17T16:26:57Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-177-3D-Camera-_1.jpg?v=1780747656
   Price: $15.99 USD
 - [Mountain Puzzle – Sky Through The Aspens – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/sky-through-the-aspens-1000-piece-jigsaw-puzzle): Discover Sky Through The Aspens, a premium 1000-piece mountain puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:37:37Z
+  Updated: 2026-07-17T20:27:47Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-178-3D-Camera-_1.jpg?v=1780747641
   Price: $19.99 USD
 - [City Jigsaw Puzzle – The Harbor That Remembered Color – 1000 Piece Puzzle](https://crossandglory.com/products/the-harbor-that-remembered-color-1000-piece-jigsaw-puzzle): Enjoy The Harbor That Remembered Color, a premium 1000-piece city jigsaw puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T23:37:36Z
+  Updated: 2026-07-17T23:19:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-179-3D-Camera-_1.jpg?v=1780747627
   Price: $15.99 USD
 - [Garden Puzzle – The Color Garden, No. 5 – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/the-color-garden-no-5-1000-piece-jigsaw-puzzle): Discover The Color Garden, No. 5, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:00:10Z
+  Updated: 2026-07-17T22:56:18Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-180-3D-Camera-_1.jpg?v=1780747611
   Price: $14.99 USD
 - [Abstract Puzzle – The Color of Calm – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/the-color-of-calm-1000-piece-jigsaw-puzzle): Discover The Color of Calm, a premium 1000-piece abstract puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T06:25:57Z
+  Updated: 2026-07-16T14:34:27Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-181-3D-Camera-_1.jpg?v=1780747596
   Price: $19.99 USD
 - [City Jigsaw Puzzle – Morning at Café Lisle – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/morning-at-cafe-lisle-1000-piece-jigsaw-puzzle): Discover Morning at Café Lisle, a premium 1000-piece city jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:00:36Z
+  Updated: 2026-07-17T23:58:57Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-182-3D-Camera-_1.jpg?v=1780747580
   Price: $19.99 USD
 - [Copenhagen Jigsaw Puzzle – Copenhagen in Bloom – 1000 Piece Puzzle](https://crossandglory.com/products/copenhagen-in-bloom-1000-piece-jigsaw-puzzle): Discover Copenhagen in Bloom, a premium 1000-piece copenhagen jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T21:40:56Z
+  Updated: 2026-07-17T20:09:03Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-183-3D-Camera-_1.jpg?v=1780747564
   Price: $19.99 USD
 - [Fantasy Puzzle – Lighthouse of Dreams – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/lighthouse-of-dreams-1000-piece-jigsaw-puzzle): Discover Lighthouse of Dreams, a premium 1000-piece fantasy puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T18:40:07Z
+  Updated: 2026-07-17T22:56:49Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-184-3D-Camera-_1.jpg?v=1780747550
   Price: $19.99 USD
 - [Dog Puzzle – Dogtopia – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/dogtopia-1000-piece-jigsaw-puzzle): Discover Dogtopia, a premium 1000-piece dog puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:53:07Z
+  Updated: 2026-07-17T20:30:48Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-185-3D-Camera-_1.jpg?v=1780747535
   Price: $19.99 USD
 - [Alien Puzzle – Meet The Aliens: Luma & Kairo – 1000 Piece Puzzle](https://crossandglory.com/products/meet-the-aliens-luma-kairo-1000-piece-jigsaw-puzzle): Discover Meet The Aliens: Luma & Kairo, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T15:18:56Z
+  Updated: 2026-07-17T20:46:18Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-187-3D-Camera-_1.jpg?v=1780747504
   Price: $15.99 USD
 - [Alien Puzzle – Meet The Aliens: Seru & Lyra – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/meet-the-aliens-seru-lyra-1000-piece-jigsaw-puzzle): Discover Meet The Aliens: Seru & Lyra, a premium 1000-piece alien puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:55:06Z
+  Updated: 2026-07-17T20:21:57Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-188-3D-Camera-_1.jpg?v=1780747488
   Price: $19.99 USD
 - [Peacock Puzzle – Peacock Noir – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/peacock-noir-1000-piece-jigsaw-puzzle): Discover Peacock Noir, a premium 1000-piece peacock puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:49:47Z
+  Updated: 2026-07-17T21:47:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-189-3D-Camera-1-_1.jpg?v=1780747473
   Price: $19.99 USD
 - [Bird Puzzle – The Hummingbird Affair – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/the-hummingbird-affair-1000-piece-jigsaw-puzzle): Discover The Hummingbird Affair, a premium 1000-piece bird puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:43:56Z
+  Updated: 2026-07-17T20:05:49Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-190-3D-Camera-_1.jpg?v=1780747455
   Price: $19.99 USD
 - [Castle Puzzle – Castle & Carousel – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/castle-carousel-1000-piece-jigsaw-puzzle): Discover Castle & Carousel, a premium 1000-piece castle puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:55:16Z
+  Updated: 2026-07-17T19:29:18Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-191-3D-Camera-_1.jpg?v=1780747441
   Price: $19.99 USD
 - [Garden Puzzle – Room with a Bloom – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/room-with-a-bloom-1000-piece-jigsaw-puzzle): Discover Room with a Bloom, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T14:53:06Z
+  Updated: 2026-07-17T20:45:16Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1025-CG-M-192-3D-Camera-_1.jpg?v=1780747426
   Price: $19.99 USD
 - [Garden Puzzle – Soul Bloom – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/soul-bloom-1000-piece-jigsaw-puzzle): Discover Soul Bloom, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:29:26Z
+  Updated: 2026-07-16T03:38:46Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-193-L-3D-jpg-Camera-_1.jpg?v=1780747412
   Price: $19.99 USD
 - [Coastal Puzzle – Sunset Bay – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/sunset-bay-1000-piece-jigsaw-puzzle): Discover Sunset Bay, a premium 1000-piece coastal puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-09T21:00:03Z
+  Updated: 2026-07-17T19:30:34Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-194-L-3D-jpg-Camera-_1.jpg?v=1780747396
   Price: $19.99 USD
 - [Book Lover Puzzle – Petals Between the Pages – 1000 Piece Puzzle](https://crossandglory.com/products/petals-between-the-pages-1000-piece-jigsaw-puzzle): Discover Petals Between the Pages, a premium 1000-piece book lover puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T19:53:16Z
+  Updated: 2026-07-15T19:57:37Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-195-L-3D-jpg-Camera-_1.jpg?v=1780747381
   Price: $19.99 USD
 - [Abstract Puzzle – Iridescence – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/iridescence-1000-piece-jigsaw-puzzle): Discover Iridescence, a premium 1000-piece abstract puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T17:53:46Z
+  Updated: 2026-07-16T12:20:26Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-196-L-3D-jpg-Camera-_1.jpg?v=1780747366
   Price: $19.99 USD
 - [Tea Puzzle – Tea at Tidelight – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/tea-at-tidelight-1000-piece-jigsaw-puzzle): Discover Tea at Tidelight, a premium 1000-piece tea puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T20:25:26Z
+  Updated: 2026-07-17T20:12:09Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-197-L-3D-jpg-Camera-_1.jpg?v=1780747350
   Price: $19.99 USD
 - [Dog Puzzle – A Good Dog – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/a-good-dog-1000-piece-jigsaw-puzzle): Discover A Good Dog, a premium 1000-piece dog puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:55:36Z
+  Updated: 2026-07-17T22:15:48Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-198-L-3D-jpg-Camera-_1.jpg?v=1780747335
   Price: $19.99 USD
 - [Bird Puzzle – Feathers at First Light – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/feathers-at-first-light-1000-piece-jigsaw-puzzle): Discover Feathers at First Light, a premium 1000-piece bird puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T22:23:03Z
+  Updated: 2026-07-17T21:00:06Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-199-L-3D-jpg-Camera-_1.jpg?v=1780747320
-  Price: $19.99 USD
+  Price: $18.49 USD
 - [Owl Puzzle – A Cozy Little Parliament – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/a-cozy-little-parliament-1000-piece-jigsaw-puzzle): Discover A Cozy Little Parliament, a premium 1000-piece owl puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T19:55:06Z
+  Updated: 2026-07-17T22:03:58Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-200-L-3D-jpg-Camera-_1.jpg?v=1780747302
   Price: $19.99 USD
 - [Art Puzzle – A Fence Full of Song – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/a-fence-full-of-song-1000-piece-jigsaw-puzzle): Discover A Fence Full of Song, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:53:27Z
+  Updated: 2026-07-17T18:54:38Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-201-L-3D-jpg-Camera-_1.jpg?v=1780747287
   Price: $19.99 USD
 - [Garden Puzzle – Stitches, Blooms, and Blue Skies – 1000 Piece Puzzle](https://crossandglory.com/products/stitches-blooms-and-blue-skies-1000-piece-jigsaw-puzzle): Discover Stitches, Blooms, and Blue Skies, a premium 1000-piece garden puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T19:06:58Z
+  Updated: 2026-07-16T17:12:46Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-202-L-3D-jpg-Camera-_1.jpg?v=1780747271
   Price: $19.99 USD
 - [Bunny Puzzle – The Easter Garden Bunny – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/the-easter-garden-bunny-1000-piece-jigsaw-puzzle): Discover The Easter Garden Bunny, a premium 1000-piece bunny puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-09T20:20:27Z
+  Updated: 2026-07-14T21:09:06Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-204-L-3D-jpg-Camera-_1.jpg?v=1780747241
   Price: $19.99 USD
 - [Cannes Jigsaw Puzzle – A Bright Day in Cannes – 1000 Piece Puzzle](https://crossandglory.com/products/a-bright-day-in-cannes-1000-piece-jigsaw-puzzle): Discover A Bright Day in Cannes, a premium 1000-piece cannes jigsaw puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:37:36Z
+  Updated: 2026-07-17T23:42:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-205-L-3D-jpg-Camera-1-_1.jpg?v=1780747223
   Price: $19.99 USD
 - [Vancouver Jigsaw Puzzle – Vancouver Under Open Skies – 1000 Piece Puzzle](https://crossandglory.com/products/vancouver-under-open-skies-1000-piece-jigsaw-puzzle): Enjoy Vancouver Under Open Skies, a premium 1000-piece vancouver jigsaw puzzle with detailed artwork, satin-finish pieces, and a relaxing challenge.
-  Updated: 2026-07-10T21:43:26Z
+  Updated: 2026-07-17T21:00:07Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-206-L-3D-jpg-Camera-_1.jpg?v=1780747205
-  Price: $21.98 USD
+  Price: $19.99 USD
 - [Art Puzzle – Color Without Water – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/color-without-water-1000-piece-jigsaw-puzzle): Discover Color Without Water, a premium 1000-piece art puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T23:37:36Z
+  Updated: 2026-07-17T22:58:08Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-207-L-3D-jpg-Camera-_1.jpg?v=1780747190
   Price: $19.99 USD
 - [Fall Puzzle – Harvest for The Table – 1000 Piece Jigsaw Puzzle](https://crossandglory.com/products/harvest-for-the-table-1000-piece-jigsaw-puzzle): Discover Harvest for The Table, a premium 1000-piece fall puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T02:47:46Z
+  Updated: 2026-07-17T21:39:37Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225-CG-M-208-L-3D-jpg-Camera-_1.jpg?v=1780747175
   Price: $19.99 USD
 - [Mountain Puzzle – The Last Light of the Rockies – 1000 Piece Puzzle](https://crossandglory.com/products/the-last-light-of-the-rockies-1000-piece-jigsaw-puzzle): Discover The Last Light of the Rockies, a premium 1000-piece mountain puzzle with satin-finish pieces, detailed artwork, and a relaxing challenge for adults.
-  Updated: 2026-07-10T18:24:34Z
+  Updated: 2026-07-17T19:36:40Z
   Vendor: Cross & Glory
   Product Type: Jigsaw Puzzles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0629/4290/4489/files/CNHB-1225_CG-M-209-L-3D.jpg-Camera.jpg?v=1773776455
   Price: $19.99 USD
-[List Continued](https://crossandglory.com/a/llms-agent/llms.txt?shop=crossandglory.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTIxNjIxNjI3MDQ5LCJsYXN0X3ZhbHVlIjoiODkyMTYyMTYyNzA0OSJ9)
+[List Continued](https://crossandglory.com/a/llms-agent/llms.txt?shop=crossandglory.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTg4MzA0MTc5MzY5LCJsYXN0X3ZhbHVlIjoiODk4ODMwNDE3OTM2OSJ9)
 
 ## Collections
 
@@ -1057,8 +1064,8 @@
   Updated: 2026-07-08T21:11:21Z
   Total Products: 21
 - [1000 Piece Jigsaw Puzzles](https://crossandglory.com/collections/jigsaw-puzzles): Simply the best!"I absolutely love Cross & Glory jigsaw puzzles! The quality is exceptional, the designs are captivating, and the pieces fit perfectly. They truly create the best puzzle experience ever!" - Theresa K.
-  Updated: 2026-07-10T21:00:11Z
-  Total Products: 135
+  Updated: 2026-07-17T21:00:11Z
+  Total Products: 136
 - [Jigsaw Puzzles - Cats and Dogs](https://crossandglory.com/collections/jigsaw-puzzles-cats-and-dogs): Enjoy quality time with your friends and family with our selection of  and family puzzles featuring cats and dogs! Whether your puzzle preference is 500 or 1000 pieces, we have the perfect puzzles for cats and dogs lovers. You can count on hours of fun for the whole family with our cat and dog jigsaw puzzles!
   Updated: 2026-07-08T20:22:48Z
   Total Products: 0
@@ -1090,8 +1097,8 @@
   Updated: 2026-07-08T20:22:50Z
   Total Products: 0
 - [Jigsaw Puzzles On ](https://crossandglory.com/collections/jigsaw-puzzles-on-): Gorgeous Puzzles!"This is my first Cross and Glory puzzle. The colors are so vibrant, really beautiful... a pleasure to put together. I will definitely order from this company again!" - Elle J.
-  Updated: 2026-07-10T21:00:11Z
-  Total Products: 135
+  Updated: 2026-07-17T21:00:11Z
+  Total Products: 136
 - [Coming Soon](https://crossandglory.com/collections/coming-soon): Discover upcoming 1000-piece jigsaw puzzles for adults. Perfect gifts for mom & avid puzzlers. Unique designs that challenge & delight. Stay tuned!
   Updated: 2026-07-08T20:22:50Z
   Total Products: 0
@@ -1102,11 +1109,11 @@
   Updated: 2026-07-08T21:10:21Z
   Total Products: 1
 - [GiggleQuest Puzzles](https://crossandglory.com/collections/gigglequest-puzzles): Simply the best!"I absolutely love Cross & Glory jigsaw puzzles! The quality is exceptional, the designs are captivating, and the pieces fit perfectly. They truly create the best puzzle experience ever!" - Theresa K.
-  Updated: 2026-07-09T21:00:09Z
+  Updated: 2026-07-16T11:22:00Z
   Total Products: 2
 - [Father's Day](https://crossandglory.com/collections/1000-piece-jigsaw-puzzles-copy): Simply the best!"I absolutely love Cross & Glory jigsaw puzzles! The quality is exceptional, the designs are captivating, and the pieces fit perfectly. They truly create the best puzzle experience ever!" - Theresa K.
-  Updated: 2026-07-10T21:00:11Z
-  Total Products: 21
+  Updated: 2026-07-17T21:00:10Z
+  Total Products: 22
 
 ## Blogs
 
