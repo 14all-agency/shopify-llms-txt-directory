@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-05-23T08:42:47Z
 - Contact Email: info@mjartisangiftboxco.com
-- Updated At: 2026-07-10T00:00:43.281Z
+- Updated At: 2026-07-18T00:00:47.593Z
 
 ## Products
 
@@ -326,7 +326,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/hug-in-box-for-men-thinking-of-you-care-package-green-310.jpg?v=1779935768
   Price: £16.95 GBP
 - [May Birthstone Gifts | Letterbox Birthday Gift | Vegan](https://www.mjartisangiftboxco.com/products/may-birthstone-gifts-letterbox-birthday-gift-vegan): Send some 'May' birthday love with our beautifully designed botanical birthday gift box with May 'Emerald' birthstone gifts earrings
-  Updated: 2026-06-07T08:25:24Z
+  Updated: 2026-07-15T07:06:03Z
   Vendor: MJ Artisan Gift Co
   Product Type: 
   Availability: Available
@@ -410,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/bereavement-gift-sympathy-grief-care-package-letterbox-postal-eco-498.jpg?v=1781524036
   Price: £16.98 GBP
 - [Grief Sympathy Bereavement Gift Care package | Letterbox postal eco gift | Sage | Vegan |DS](https://www.mjartisangiftboxco.com/products/grief-sympathy-bereavement-gift-care-package-letterbox-postal-eco-gift-sage-vegan-ds): Grief Sympathy Bereavement Care package | Letterbox postal eco gift | Sage | Vegan A beautifully thought-out care package gift box for grief, because sometimes it's just so difficult to know what to say or do when someone loses a loved one. A gorgeous mini postal box of self-care and wellness for a friend, work colleague or family member going through a tough time. MJ Artisan Gift Box Co. Grief care package contains White Lavender self-heating eye mask by Sensory Retreats with guided meditation music download Lavender heart aromatherapy bath bombs by MJ Otherly vegan milk chocolate bar 25g Calming Aromatherapy roll-on essential oil therapy 'PEACE' by MJ Lavender aromatherapy soy tea light by VelleDomus (5 hours burn time) Hanging wooden mini heart 'Sending you the biggest hug' Well being card 'Difficult day reminders' Personal message on gift card Gift box and wrap. 100% natural, 100% vegan and cruelty-free, and eco-friendly All wrapped up in a beautifully gift-wrapped box, with a personalised gift card that can be posted directly to your loved one. Box size 11cm x 17cm x 0.22cm
-  Updated: 2026-07-07T13:13:33Z
+  Updated: 2026-07-16T08:53:36Z
   Vendor: MJ Artisan Gift Co
   Product Type: 
   Availability: Available
@@ -632,13 +632,13 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/theblessingmockupA6.jpg?v=1764167560
     Price: £3.95 GBP
-- [Christian Sympathy card gift for men, Hug in a box, Thinking of You, Journal,  Prayer](https://www.mjartisangiftboxco.com/products/christian-faith-sympathy-grief-gift-for-men-him-journal-prayer-care-package-blue): Christian Sympathy card gift for men, Hug in a box, Thinking of You, Journal, Prayer A beautifully thought-out grief care package for men in unisex colours by MJ Artisan gift co Traditionally, some men find it more difficult to express their emotions than women, often retreating or being busy to get through. To help Men express their feelings in private, we've included a beautiful journal and journaling prompts within this thoughtful care package. Men often grieve differently, bottling up emotions or focusing on practicality. A care package shows you understand. It offers comfort food for times they might not cook, calming tools for stress, and practical items that ease burdens. It's a thoughtful gesture saying, "I can't take away the pain, but I'm here for you. Colour block Dotted 48-page journal exclusive to MJ Artisan Gift Co. Wooden message hanger ' Journal prompts card Prayer card Difficult time reminders card Otherly-plant based chocolate Aromatherapy pulse roller for relaxation 'Peace' Wellness Tea bags Sometimes no words message card - please include your personal message. Also available in green Box dimensions: 18cm x 11.5cm
-  Updated: 2026-05-29T00:10:18Z
+- [Christian Sympathy card gift for men with journal, Hug in a box, Thinking of You, Bible Verses, Prayer](https://www.mjartisangiftboxco.com/products/christian-faith-sympathy-grief-gift-for-men-him-journal-prayer-care-package-blue): A beautifully thought-out grief care package for men in unisex colours by MJ Artisan Gift Co. x Flourish. Designed by Christian Psychotherapist Amanda Waring. Traditionally, some men find it more difficult to express their emotions than women, often retreating or keeping busy to get through. To help Men express their feelings in private, we've included a beautiful journal and journaling prompts, a grief prayer and bible verses for love and care for self-care when losing a loved one. Men often grieve differently, bottling up emotions or focusing on practicality. A care package shows you understand. It offers comfort plant based chocolate food for times they need energy, calming tools for stress, and practical items that ease burdens. It's a thoughtful gesture saying, "I can't take away the pain, but I'm here for you with comforting prayer and bible verses. Colour block Dotted 48-page journal exclusive to MJ Artisan Gift Co. The Blessing' Art card A6 Comforting stone heart Journal prompts card Bamboo retractable pen Prayer card Sleep relaxation card Bible verses for comfort during grief. Otherly-plant based chocolate Aromatherapy pulse roller for relaxation 'Peace' Wellness Tea bags Sometimes no words message card - please include your personal message. Box dimensions: 16.5cm x 11.5cm
+  Updated: 2026-07-15T22:36:53Z
   Vendor: MJ Artisan Gift Co
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/christian-sympathy-card-gift-for-men-hug-in-a-box-thinking-380.jpg?v=1779971309
-  Price: £18.95 GBP
+  Image: https://cdn.shopify.com/s/files/1/0934/0528/2634/files/christian-sympathy-card-gift-for-men-with-journal-hug-in-a-box-536.jpg?v=1784112745
+  Price: £21.95 GBP
 - [Letterbox Hug in a Box Christian Faith Religious Get Well Soon gift for men | Journal | Thinking of You](https://www.mjartisangiftboxco.com/products/christian-faith-religious-get-well-soon-gift-for-man-unisex-journal-hug-in-box-care-package-green): Letterbox Hug in a Box Christian Faith Religious Get Well Soon gift for men | Journal | Thinking of You A beautifully thought-out Get Well Soon care package or for difficult time hug in a box for men in unisex colours by MJ Artisan Gift Co Designed by Christian Psychotherapist Amanda Waring Traditionally, some men find it more difficult to express their emotions than women, often retreating or being busy to get through. To help Men express their feelings in private, we've included a beautiful journal and journaling prompts within this thoughtful Get Well soon care package. Men often  with difficult times differently, bottling up emotions or focusing on practicality. A care package shows you understand. It offers comfort food for times they might not cook, calming tools for stress, and practical items that ease burdens. It's a thoughtful gesture saying, "I can't take away the pain, but I'm here for you. Colour block Dotted 48-page journal exclusive to MJ Artisan Gift Co. Wooden message hanger Prayer card Journal prompts card Otherly based chocolate Aromatherapy pulse roller for relaxation, 'Peace' Wellness Tea bags Difficult day reminders card Also available in blue with more emphasis on bereavement than difficult times. Box dimensions: 18cm x 11.5cm
   Updated: 2026-05-27T01:04:08Z
   Vendor: MJ Artisan Gift Co
@@ -684,13 +684,13 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-06-02T12:02:30Z
   Total Products: 24
 - [With Sympathy Gifts](https://www.mjartisangiftboxco.com/collections/with-sympathy-gifts): MJ Artisan Gift Co offers bereavement gift boxes featuring soy candles, organic teas, and handcrafted keepsakes designed to provide comfort during difficult times.
-  Updated: 2026-06-18T11:27:58Z
+  Updated: 2026-07-15T10:50:19Z
   Total Products: 19
 - [Birthday Gift Boxes](https://www.mjartisangiftboxco.com/collections/birthday-gift-boxes): MJ Artisan Gift Co offers birthday gift boxes featuring vegan and eco friendly self care hampers, letterbox treats, and natural relaxation sets for new mums.
   Updated: 2026-06-25T00:35:47Z
   Total Products: 26
 - [Mens Gift Boxes](https://www.mjartisangiftboxco.com/collections/mens-gift-boxes): MJ Artisan Gift Co offers curated gift boxes for men featuring premium self-care items, gourmet snacks, and artisanal wares to provide comfort and solidarity.
-  Updated: 2026-06-18T11:27:58Z
+  Updated: 2026-07-15T10:50:19Z
   Total Products: 23
 - [BabyShower Gifts](https://www.mjartisangiftboxco.com/collections/babyshower-gifts): MJ Artisan Gift Co offers eco-conscious baby shower gifts including bespoke sets for infants, new mums, and dads featuring handcrafted items to celebrate new life.
   Updated: 2026-07-08T11:27:47Z
@@ -699,7 +699,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-06-25T00:36:17Z
   Total Products: 0
 - [Thinking of You Gifts](https://www.mjartisangiftboxco.com/collections/thinking-of-you-gifts): MJ Artisan Gift Co offers eco friendly and vegan thinking of you hampers. These letterbox gifts feature natural self care sets for relaxation and stress relief.
-  Updated: 2026-06-25T00:36:49Z
+  Updated: 2026-07-15T10:50:19Z
   Total Products: 24
 - [Hug In A Box Gifts](https://www.mjartisangiftboxco.com/collections/hug-in-a-box-gifts): MJ Artisan Gift Co Hug In A Box collections feature curated self care items, artisan treats, and wellness products designed to provide comfort and support.
   Updated: 2026-06-11T12:47:58Z
@@ -726,7 +726,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-06-11T12:48:02Z
   Total Products: 7
 - [SUE RYDER DROPSHIP](https://www.mjartisangiftboxco.com/collections/sue-ryder-dropship): MJ Artisan Gift Co provides a specialized trade portal for Sue Ryder dropship partners. This collection features discounted giftware and products at agreed prices.
-  Updated: 2026-07-08T11:27:47Z
+  Updated: 2026-07-16T11:24:55Z
   Total Products: 19
 - [Get Well Soon Gifts](https://www.mjartisangiftboxco.com/collections/get-well-soon-gifts): MJ Artisan Gift Co offers eco friendly get well soon hampers and vegan relaxation letterbox gifts featuring natural self care treats for stress and new mothers.
   Updated: 2026-07-09T16:55:57Z
@@ -771,7 +771,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-05-28T00:46:33Z
   Total Products: 0
 - [Letterbox Postal Gifts](https://www.mjartisangiftboxco.com/collections/all-letterbox-gifts): Finding the perfect present shouldn't be a logistical headache. Our curated collection of letterbox postal gifts is designed to bring a smile to their face without them ever having to answer the door. Whether you’re celebrating a milestone or simply sending a "thinking of you" gesture, these slimline surprises are the ultimate in convenience and thoughtfulness.
-  Updated: 2026-07-09T16:55:57Z
+  Updated: 2026-07-15T10:50:19Z
   Total Products: 50
 - [Luxury New Mum to be gifts](https://www.mjartisangiftboxco.com/collections/luxury-new-mum-to-be-gifts): MJ Artisan Gift Co offers luxury baby-safe gift hampers featuring eco-conscious beauty and bodycare for expectant mothers in white, green, aqua, grey, and yellow.
   Updated: 2026-06-20T11:22:23Z
@@ -792,7 +792,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-06-11T00:49:14Z
   Total Products: 3
 - [View All | Vegan friendly Gifts](https://www.mjartisangiftboxco.com/collections/view-all-vegan-friendly-gifts): MJ Artisan Gift Co offers sustainable UK hampers featuring luxury plant based chocolates, botanical skincare, organic snacks, and eco friendly lifestyle brands.
-  Updated: 2026-07-08T11:27:47Z
+  Updated: 2026-07-16T11:24:55Z
   Total Products: 188
 - [Saying Sorry Gifts](https://www.mjartisangiftboxco.com/collections/saying-sorry-gifts): MJ Artisan Gift Co offers vegan bereavement care packages and eco friendly sympathy gifts designed to fit through letterboxes for peaceful and thoughtful support.
   Updated: 2026-06-18T11:27:58Z
@@ -804,7 +804,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-06-11T12:48:03Z
   Total Products: 6
 - [Christian bereavement sympathy gifts](https://www.mjartisangiftboxco.com/collections/christian-bereavement-sympathy-gifts)
-  Updated: 2026-05-28T12:10:15Z
+  Updated: 2026-07-15T10:50:19Z
   Total Products: 3
 - [Christian Pregnancy gifts](https://www.mjartisangiftboxco.com/collections/christian-pregnancy-gifts)
   Updated: 2026-07-09T16:55:40Z
@@ -831,7 +831,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-07-09T16:55:16Z
   Total Products: 58
 - [Christian Faith Religious Artisan Gifts for Men Women UK](https://www.mjartisangiftboxco.com/collections/christian-faith-religious-artisan-gifts-for-men-women-uk): MJ Artisan Gift Co offers Christian faith gifts for men and women UK including prayer journals, photo frames, and vegan self care hampers for mums and sympathy.
-  Updated: 2026-06-25T00:52:39Z
+  Updated: 2026-07-15T10:50:19Z
   Total Products: 9
 - [Teething Toys and Jewellery](https://www.mjartisangiftboxco.com/collections/teething-toys-and-jewellery): MJ Artisan Gift Co offers a curated selection of silicone teethers and beaded nursing jewellery designed for infant safety and soothing gum relief during teething.
   Updated: 2026-06-25T00:52:55Z
@@ -870,7 +870,7 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-07-08T11:27:47Z
   Total Products: 33
 - [HAD A GLOW UP 2026](https://www.mjartisangiftboxco.com/collections/glow-up-2026): MJ Artisan Gift Co offers Christian fathers day postal gifts featuring photo frames, religious journals, and eco friendly vegan self care items for men in 2026.
-  Updated: 2026-06-25T00:56:29Z
+  Updated: 2026-07-15T10:50:19Z
   Total Products: 5
 - [NEED A GLOW UP](https://www.mjartisangiftboxco.com/collections/need-a-glow-up): MJ Artisan Gift Co offers Need A Glow Up gift boxes featuring May birthstone earrings and vegan wellness sets for new mums and milestone birthdays for her.
   Updated: 2026-06-11T00:56:27Z
@@ -1117,6 +1117,11 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
     Updated: 2026-02-05T15:18:41Z
     Author: amanda waring
     Tags: #LINKSTOBEREMOVED, LATEST NEWS..., PARENTING TIPS
+  - [Avoiding Summer Burnout and recovering from it.](https://www.mjartisangiftboxco.com/blogs/mental-health-tips-for-anxiety-stress-work/avoiding-summer-burnout-and-recovering-from-it): <p data-path-to-node="2">But summer burnout is a very real, very exhausting thing.</p>
+<p data-path-to-node="3">As a counsellor, I see it every single year around June and July. There is a cultural expectation that summer is supposed to be the "fun season." We are bombarded with pressure</p>
+    Updated: 2026-07-11T13:09:05Z
+    Author: Amanda Waring
+    Tags: burnout
 - [needs updating and links changing](https://www.mjartisangiftboxco.com/blogs/needs-updating-and-links-changing)
   - [Adorable Artisan New Mum Gift hampers | UK](https://www.mjartisangiftboxco.com/blogs/needs-updating-and-links-changing/new-mum-baby-gift-hampers): <p>The post Adorable Artisan New Mum Gift hampers | UK appeared first on UK Letterbox Gifts and Hampers | Thoughtful Wellbeing Gifts by post.</p>
     Updated: 2026-06-09T11:41:28Z
@@ -1179,6 +1184,18 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   - [Caring for Others: Balancing Your Wellbeing and Their Illness](https://www.mjartisangiftboxco.com/blogs/illness-and-mental-health/caring-for-others-balancing-your-wellbeing-and-their-illness): Caring for Others: Balancing Your Wellbeing and Their Illness
     Updated: 2026-07-08T10:04:11Z
     Author: Amanda Waring MBACP MACC
+  - [Understanding Terminal Illness and Its Impact on Mental Health](https://www.mjartisangiftboxco.com/blogs/illness-and-mental-health/understanding-terminal-illness-and-its-impact-on-mental-health): Understanding Terminal Illness and Its Impact on Mental Health
+    Updated: 2026-07-10T10:05:17Z
+    Author: Amanda Waring MBACP MACC
+  - [Practical Support Tips for Friends with Chronic Illness](https://www.mjartisangiftboxco.com/blogs/illness-and-mental-health/practical-support-tips-for-friends-with-chronic-illness): Practical Support Tips for Friends with Chronic Illness
+    Updated: 2026-07-13T10:03:35Z
+    Author: Amanda Waring MBACP MACC
+  - [Mental Health Checklists: Key Steps When Facing Illness](https://www.mjartisangiftboxco.com/blogs/illness-and-mental-health/mental-health-checklists-key-steps-when-facing-illness): Mental Health Checklists: Key Steps When Facing Illness
+    Updated: 2026-07-15T10:04:35Z
+    Author: Amanda Waring MBACP MACC
+  - [How to Offer Support for Those Recovering from Serious Illness](https://www.mjartisangiftboxco.com/blogs/illness-and-mental-health/how-to-offer-support-for-those-recovering-from-serious-illness): How to Offer Support for Those Recovering from Serious Illness
+    Updated: 2026-07-17T10:06:19Z
+    Author: Amanda Waring MBACP MACC
 
 ## Store Pages
 
@@ -1222,6 +1239,8 @@ It was the first of September, a day that felt like a quiet sigh after the wild 
   Updated: 2026-06-25T01:01:38Z
 - [MJ ARTISAN GIFT CO  X FLOURISH MINDS COUNSELLING BLOG](https://www.mjartisangiftboxco.com/pages/mj-artisan-gift-co-x-flourish-minds-counselling-blog): Welcome to our helpful vault of supportive articles for mental health. I'm Amanda Waring, Psychotherapist and owner at MJ Artisan Gift co. and I ha...
   Updated: 2026-07-01T13:30:20Z
+- [Summer Burnout Checklist](https://www.mjartisangiftboxco.com/pages/summer-burnout-checklist): Summer Burnout Checklist
+  Updated: 2026-07-11T13:29:01Z
 
 ## Policies
 
