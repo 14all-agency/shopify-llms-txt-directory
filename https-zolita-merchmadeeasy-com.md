@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2024-04-12T17:27:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-10T00:00:35.732Z
+- Updated At: 2026-07-18T00:00:36.851Z
 
 ## Products
 
 - [Queen of Hearts Hoodie](https://zolita.merchmadeeasy.com/products/queen-of-hearts-hoodie): 50% cotton/50% polyester hooded sweater Size Chart Size Body Length (in) Chest Width (Laid Flat) Sleeve Length S 28 18 34 M 29 20 35 L 30 22 36 XL 31 24 37 2XL 32 26 38 3XL 33 28 39
-  Updated: 2026-07-08T20:23:44Z
+  Updated: 2026-07-17T18:31:06Z
   Vendor: Zolita
   Product Type: Hoodie
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Queen of Hearts Tee](https://zolita.merchmadeeasy.com/products/queen-of-hearts-tee): 100% cotton heavyweight t-shirt with a drop-shoulder fit. Designed by @peaceandpowershop. Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-07-08T20:23:45Z
+  Updated: 2026-07-14T17:47:31Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Ride A Cowgirl Tee](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee): 100% heavyweight cotton beige t-shirt. Designed by @peaceandpowershop . Please note: This t-shirt is pigment dyed. Pigment-dyed garments are specially dyed for one-of-a-kind coloring. Size Body Length (in) Chest Width (Laid Flat) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
-  Updated: 2026-07-08T20:23:46Z
+  Updated: 2026-07-16T23:01:18Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -109,7 +109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/SAH_ZoEDIT2_474b9948-3a8a-4215-8342-c9ecb9fafd1d.png?v=1716495171
     Price: $35.00 USD
 - [Heaven Tank](https://zolita.merchmadeeasy.com/products/heaven-tank): 100% cotton tank top. Designed by @peaceandpowershop.
-  Updated: 2026-07-08T20:23:46Z
+  Updated: 2026-07-17T19:30:04Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -130,14 +130,14 @@
     Availability: Available
     Price: $25.00 USD
 - [SIGNED God Is Gay Tote](https://zolita.merchmadeeasy.com/products/god-is-gay-tote): 100% cotton tote bag, hand signed by Zolita. Designed by @peaceandpowershop.
-  Updated: 2026-07-08T20:23:46Z
+  Updated: 2026-07-16T23:01:15Z
   Vendor: Zolita
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_GIG_Signed.png?v=1762805242
   Price: $25.00 USD
 - [Scissors Tank](https://zolita.merchmadeeasy.com/products/scissors-tank): 52% Airlume combed and ring-spun cotton, 48% polyester ribbed tank top Size Fits Sizes S 2-4 M 6-8 L 8-10 XL 10-14 2XL 14-18
-  Updated: 2026-07-08T20:23:47Z
+  Updated: 2026-07-16T11:03:20Z
   Vendor: Zolita
   Product Type: Tank
   Availability: Available
@@ -158,7 +158,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Gay Ass Shorts - Black](https://zolita.merchmadeeasy.com/products/gay-ass-shorts): 100% cotton booty shorts Size Relaxed Waist (in) Inseam (in) Outseam (in) S 12 3/4 2 1/2 6 1/2 M 13 1/4 2 3/4 7 L 13 3/4 3 1/4 7 1/4 XL 14 1/4 3 3/4 7 3/4 2XL 14 3/4 4 1/4 8
-  Updated: 2026-07-08T20:23:47Z
+  Updated: 2026-07-17T09:50:13Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
@@ -212,7 +212,7 @@
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/FallingInOutZolitaCD.png?v=1721768004
   Price: $10.00 USD
 - [Queen of Hearts Tour Tee](https://zolita.merchmadeeasy.com/products/queen-of-hearts-tour-tee): 100% cotton Comfort Colors t-shirt. Size Body Length (in) Chest Width (Laid Flat) S 26 1/2 18 1/4 M 28 20 1/4 L 29 1/4 22 XL 30 3/4 24 2XL 31 1/2 26
-  Updated: 2026-07-08T20:23:49Z
+  Updated: 2026-07-16T04:26:59Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -233,7 +233,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Gay Ass Mesh Shorts](https://zolita.merchmadeeasy.com/products/gay-ass-mesh-shorts): 100% polyester breathable mesh shorts Size Waist Width (in) Inseam (in) Outseam (in) S 30 5 1/2 16 M 32 5 1/2 16 1/2 L 34 5 1/2 17 XL 36 5 1/2 17 1/2 2XL 38 5 1/2 18
-  Updated: 2026-07-08T20:23:49Z
+  Updated: 2026-07-16T19:06:58Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
@@ -254,7 +254,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Gay Ass Crewneck](https://zolita.merchmadeeasy.com/products/gay-ass-crewneck): 100% cotton crewneck sweater. Made in Los Angeles. Size Chart Size Body Length (in) Chest Width (Laid Flat) Sleeve Length S 28 1/4 20 3/8 24 1/8 M 28 3/8 22 3/8 24 5/8 L 28 1/2 24 3/8 25 1/8 XL 28 5/8 26 3/8 25 5/8 2XL 28 3/4 28 3/8 26 1/8 3XL 28 7/8 30 3/8 26 5/8
-  Updated: 2026-07-08T20:23:49Z
+  Updated: 2026-07-17T17:09:00Z
   Vendor: Zolita
   Product Type: Crewneck
   Availability: Available
@@ -323,7 +323,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Crazy Ex Baby Tee](https://zolita.merchmadeeasy.com/products/crazy-ex-baby-tee): 100% organic combed ring spun cotton Size Chart Size Body Length (in) Chest Width (in) L 22 1/4 19 1/4 XL 23 1/4 20 1/4
-  Updated: 2026-07-08T20:23:50Z
+  Updated: 2026-07-15T02:24:16Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -335,7 +335,7 @@
     Availability: Available
     Price: $35.00 USD
 - [So Gay Crop Top](https://zolita.merchmadeeasy.com/products/so-gay-crop-top): 100% cotton Size small fits sizes 2-4
-  Updated: 2026-07-08T20:23:51Z
+  Updated: 2026-07-16T10:45:20Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -363,7 +363,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Does She Know Tee](https://zolita.merchmadeeasy.com/products/does-she-know-tee): 100% cotton Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-08T20:23:51Z
+  Updated: 2026-07-14T19:31:14Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -405,14 +405,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Cult of Girls Trucker Hat](https://zolita.merchmadeeasy.com/products/cult-of-girls-trucker-hat): Mesh-back trucker hat
-  Updated: 2026-07-08T20:23:52Z
+  Updated: 2026-07-17T12:38:06Z
   Vendor: Zolita
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLCultofGirlsTruckerHat.png?v=1734641248
   Price: $30.00 USD
 - [Big Bi Energy Tee](https://zolita.merchmadeeasy.com/products/big-bi-energy-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 2XL 32 26
-  Updated: 2026-07-08T20:23:52Z
+  Updated: 2026-07-17T07:25:08Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -458,7 +458,7 @@
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_QoH_Poster.png?v=1742335479
   Price: $15.00 USD
 - [Gay Ass Shorts - Red](https://zolita.merchmadeeasy.com/products/gay-ass-shorts-red): 100% cotton booty shorts in red Size Relaxed Waist (in) Inseam (in) Outseam (in) S 12 3/4 2 1/2 6 1/2 M 13 1/4 2 3/4 7 L 13 3/4 3 1/4 7 1/4 XL 14 1/4 3 3/4 7 3/4 2XL 14 3/4 4 1/4 8
-  Updated: 2026-07-08T20:23:53Z
+  Updated: 2026-07-16T23:01:17Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
@@ -479,7 +479,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Kitty Kisser Tee](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee): 100% ringspun cotton heavyweight t-shirt in washed black Size Body Length (in) Chest Width (Laid Flat) S 27 3/4 19 3/4 M 28 3/4 20 3/4 L 29 3/4 22 3/4 XL 30 3/4 24 3/4 2XL 31 3/4 26 3/4 3XL 32 3/4 28 3/4
-  Updated: 2026-07-08T20:23:54Z
+  Updated: 2026-07-16T03:10:01Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -503,7 +503,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Hell's Belles Shorts](https://zolita.merchmadeeasy.com/products/hells-belles-shorts): 100% cotton gym shorts with elastic foldable waistband Size Waist (in) Inseam (in) S 25 1/2 2 1/2 M 27 1/2 2 1/2 L 29 1/2 2 1/2 XL 31 1/2 2 1/2 2XL 32 1/2 2 1/2
-  Updated: 2026-07-08T20:23:54Z
+  Updated: 2026-07-16T12:27:22Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
@@ -524,7 +524,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Hell's Belles Baby Tee](https://zolita.merchmadeeasy.com/products/hells-belles-baby-tee): 100% combed cotton baby rib t-shirt in white; stretches up to 2 times its original size Size Chart Size Body Length (in) Chest Width (in) S 20 7/8 12 1/8 M 21 3/8 13 1/8 L 21 7/8 14 XL 22 3/8 15 2XL 22 7/8 16
-  Updated: 2026-07-08T20:23:54Z
+  Updated: 2026-07-17T17:35:53Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
