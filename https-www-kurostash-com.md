@@ -1,17 +1,46 @@
 # Kuro Stash (https://www.kurostash.com)
 
+> KURO STASH
+Kurostash es una tienda en línea que vende figuras de acción, peluches, cajas sorpresa, sets armables y accesorios de escritorio/setup, todos inspirados en videojuegos y anime. La tienda está conectada a varios proveedores y los productos están inspirados en franquicias populares de videojuegos y anime — la mayoría de marcas japoneses pero no oficialmente de Nintendo o marcas similares.
+
+
 - Domain: https://www.kurostash.com
 - Locale: es
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-18T04:03:56Z
 - Contact Email: denicezura@kurostash.com
-- Updated At: 2026-07-09T19:45:05.459Z
+- Updated At: 2026-07-18T00:00:22.920Z
+
+KURO STASH
+Kurostash es una tienda en línea que vende figuras de acción, peluches, cajas sorpresa, sets armables y accesorios de escritorio/setup, todos inspirados en videojuegos y anime. La tienda está conectada a varios proveedores y los productos están inspirados en franquicias populares de videojuegos y anime — ninguno es mercancía licenciada. La tienda envía desde varios proveedores, con la mayoría de los pedidos llegando en 2-3 semanas. Kurostash atiende principalmente a coleccionistas y gamers en Estados Unidos, con contenido disponible en inglés y español.
+Kurostash existe para gamers y fans del anime que quieren que su colección y su setup reflejen sus intereses reales — no solo el merch mainstream más fácil de encontrar en retailers grandes. La tienda cura y reabastece piezas inspiradas en la cultura gamer y anime, en vez de ofrecer un catálogo único fijo.
+
+Acerca de
+•	Sobre Nosotros (https://kurostash.com/pages/about): La historia detrás de Kurostash — por qué se creó y qué la hace diferente de los retailers mainstream y otras tiendas de blind box.
+•	Contacto (https://kurostash.com/pages/contact): Cómo contactar al soporte de Kurostash, más FAQ sobre envíos, devoluciones y estado de pedidos.
+
+Colecciones
+•	Ver Todo (https://kurostash.com/collections/all): Catálogo completo de figuras, peluches, cajas sorpresa y coleccionables inspirados en videojuegos y anime.
+•	Colección Inspirada en Videojuegos (https://kurostash.com/collections/gaming-inspired): Figuras y coleccionables inspirados en personajes y mundos populares de videojuegos.
+•	Colección Inspirada en Zelda (https://kurostash.com/collections/zelda-inspired): Coleccionables y figuras inspiradas en el mundo de Zelda.
+•	Coleccionables Kawaii (https://kurostash.com/collections/kawaii-character-collectibles): Peluches, figuras y accesorios inspirados en estéticas de personajes kawaii.
+•	Sets para Armar (https://kurostash.com/collections/build-sets): Sets armables tipo ladrillo inspirados en videojuegos y cultura pop, vendidos pieza por pieza para ensamblar.
+•	Figuras Épicas para Armar (https://kurostash.com/collections/epic-build-figures): Figuras armables tipo ladrillo a gran escala, inspiradas en personajes icónicos de videojuegos.
+•	Esenciales para tu Setup (https://kurostash.com/collections/setup-essentials): Mouse pads, accesorios de escritorio y complementos para controles gamer.
+•	Cajas Sorpresa (https://kurostash.com/collections/blind-boxes): Figuras y coleccionables sorpresa, un artículo seleccionado al azar por caja.
+
+Políticas
+•	Política de Envíos (https://kurostash.com/policies/shipping-policy): La mayoría de los pedidos tardan 2-3 semanas en llegar, ya que los productos se consiguen de vendedores alrededor del mundo.
+•	Devoluciones y Reembolsos (https://kurostash.com/policies/refund-policy): Términos de devolución y reembolso para artículos dañados, defectuosos o incorrectos.
+•	Términos de Servicio (https://kurostash.com/policies/terms-of-service): Términos de la tienda, incluyendo la naturaleza de productos independientes y no licenciados.
+•	Aviso de Privacidad (https://kurostash.com/policies/privacy-policy): Cómo se recopilan y usan los datos de los clientes.
+
 
 ## Products
 
 - [Lámparas de la serie «Kawaii Sanrio Character TV Channel»](https://www.kurostash.com/products/lampara-serie-kawaii-sanrio-character-tv-channel): ¡Añade un toque mágico a tu espacio con estas encantadoras lámparas decorativas de personajes de Sanrio! Este producto, fabricado por la marca LANGBOWANG
-  Updated: 2026-07-09T00:01:30Z
+  Updated: 2026-07-17T20:21:12Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -33,7 +62,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Hello_Kity_Kawaii_Sanrio_Character_TV_Kuro_Stash.webp?v=1783528820
     Price: 22,00 $ USD
 - [Caja sorpresa series «Fox Island» y «Blue Flutter» de Sanrio](https://www.kurostash.com/products/familia-sanrio-caja-fox-island-y-blue-flutter-serie-caja-sorpresa): Sumérgete en la ternura absoluta con la exclusiva Caja Sorpresa de Peluches de Vinilo de las encantadoras series «Fox Island» y «Blue Flutter» de Sanrio Family.
-  Updated: 2026-07-09T04:59:02Z
+  Updated: 2026-07-17T20:21:07Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -111,7 +140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Sb23adf823bf54644a7e87048d50a19f6B_36d1a671-3e24-4ede-82b5-397fc1a37721.webp?v=1783529220
     Price: 15,00 $ USD
 - [Cinnamoroll - Caja sorpresa de la serie «Cooking Cabin»](https://www.kurostash.com/products/cinnamoroll-blind-box-cooking-cabin-series): Cinnamoroll: Caja sorpresa de la serie «Cooking Cabin». Adorno coleccionable hecho a mano. Regalo de moda: un juguete adorable y sorprendente.
-  Updated: 2026-07-09T00:01:31Z
+  Updated: 2026-07-17T20:21:12Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -126,7 +155,7 @@
     Price: 80,00 $ USD
 - [Peluche Morax (Zhongli) Dragón — Genshin Impact | 67 cm](https://www.kurostash.com/products/67cm-peluche-genshin-impact-dragon-morax): ESPECIFICACIONES
 Peluche de algodón de Genshin Impact de Zhong Li, dragón.
-  Updated: 2026-07-09T00:01:31Z
+  Updated: 2026-07-17T20:21:08Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -134,7 +163,7 @@ Peluche de algodón de Genshin Impact de Zhong Li, dragón.
   Price: 35,00 $ USD
 - [Set de Bloques de Construcción — Armadura Hulkbuster MK44 o Mark XLIV | M MENBIS](https://www.kurostash.com/products/2700-piezas-iron-hero-bloques-de-construccion-coleccionable): ESPECIFICACIONES
 Bloque de construcción Marca: M MENBIS Sin caja original, Iron hero
-  Updated: 2026-07-09T00:01:31Z
+  Updated: 2026-07-17T20:21:17Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -148,7 +177,7 @@ Bloque de construcción Marca: M MENBIS Sin caja original, Iron hero
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Bloques_de_contrucci_n_Iron_Hero_2700_piezas_coleccionable_Kuro_Stash_2.webp?v=1783533742
     Price: 155,00 $ USD
 - [Set de Bloques de Construcción — Creative Magic Castle con Luces | 6,369 piezas](https://www.kurostash.com/products/6369-piezas-creative-magic-castle-bloques-de-construccion): 6369 piezas de bloques de construcción «Creative Magic Castle» con luces: juguete educativo STEM, kit de montaje DIY, decoración de escritorio, regalo para niños
-  Updated: 2026-07-09T06:07:31Z
+  Updated: 2026-07-17T20:21:07Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -162,7 +191,7 @@ Bloque de construcción Marca: M MENBIS Sin caja original, Iron hero
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Bloques_de_construcci_n_Creative_Magic_Castle_Con_luces_Kuro_Stash_1.webp?v=1783533972
     Price: 150,00 $ USD
 - [Set de Bloques de Construcción TOYLINX — Arquitectura & Dragón | 2453 piezas](https://www.kurostash.com/products/2453-piezas-bloques-de-construccion-barca-dragon-estilo-chino): Bloques de construcción para armar barca dragón estilo chino. Colleccionables.
-  Updated: 2026-07-09T00:01:32Z
+  Updated: 2026-07-17T20:21:11Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -170,7 +199,7 @@ Bloque de construcción Marca: M MENBIS Sin caja original, Iron hero
   Price: 175,00 $ USD
 - [Caja sorpresa de la serie «Stitch Animal»](https://www.kurostash.com/products/caja-sorpresa-serie-stitch-animal): ESPECIFICACIONES
 Marca: Disney Caja sorpresa de la serie "Stitch animals"
-  Updated: 2026-07-09T00:01:32Z
+  Updated: 2026-07-17T20:21:08Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -184,7 +213,7 @@ Marca: Disney Caja sorpresa de la serie "Stitch animals"
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/6_Cajas_sorpresa_Stitch_Animals_Kuro_Stash_13ab5401-fab9-4950-9ff2-65db030c2546.webp?v=1783534551
     Price: 75,00 $ USD
 - [HOLLOW KNIGHT | Serie completa de figuras de acción](https://www.kurostash.com/products/hollow-knight-complete-series-action-figures): Serie completa de figuras de acción Hollow Knight
-  Updated: 2026-07-09T00:01:32Z
+  Updated: 2026-07-17T20:21:12Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -218,7 +247,7 @@ Marca: Disney Caja sorpresa de la serie "Stitch animals"
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Figura_de_coleccion_Hollow_Knight_Hornet_Kuro_Stash_0ab26327-5d9d-4612-b4c9-ad80cc0973f3.webp?v=1783398845
     Price: 35,00 $ USD
 - [Nendoroid Link & Zelda — The Legend of Zelda: Breath of the Wild | Set con Caballos y Accesorios](https://www.kurostash.com/products/1212-dx-y-original-figuras-de-accion-zelda-y-link-botw): Figura de acción de Zelda, saga The Legend of Zelda: Breath of the Wild
-  Updated: 2026-07-09T00:01:32Z
+  Updated: 2026-07-17T20:21:08Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -236,7 +265,7 @@ Marca: Disney Caja sorpresa de la serie "Stitch animals"
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Figuras_de_accion_Link_BOTW_DX_Kuro_Stash_1.webp?v=1783493095
     Price: 45,00 $ USD
 - [Soporte para Mandos God of War – Organiza tu Setup](https://www.kurostash.com/products/soporte-de-controles-comandos-ps5-xbox-ps4-gamepad-de-god-of-war): Soporte para mando PS5/Xbox/PS4/Switch inspirado en el videojuego God of War. Un deslumbrante e increíble elemento para tu escritorio.
-  Updated: 2026-07-09T00:01:33Z
+  Updated: 2026-07-17T20:21:11Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -250,7 +279,7 @@ Marca: Disney Caja sorpresa de la serie "Stitch animals"
   Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Soporte_para_controles_de_videojuegos_God_of_War_Set_up_Gamer_Kuro_Stash_1.webp?v=1783542035
   Price: 18,00 $ USD
 - [Soporte para Audífonos Hollow Knight – Mantén tu Setup](https://www.kurostash.com/products/soporte-para-audifonos-hollow-knight): Ideal para jugadores, coleccionistas y amantes de Hollow Knight que buscan soporte para sus audífonos y decorar su setup gamer
-  Updated: 2026-07-09T00:01:33Z
+  Updated: 2026-07-17T20:21:11Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -264,7 +293,7 @@ Marca: Disney Caja sorpresa de la serie "Stitch animals"
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Sc272beb586db496aac0b51530c028921c.webp?v=1783527470
     Price: 20,00 $ USD
 - [Juego de teclas Zelda para teclado mecánico MOA y original](https://www.kurostash.com/products/set-144-teclas-para-teclado-eje-de-cruz-xuanmao-zelda-original-y-moa): Los juegos de teclas Zelda de 144 piezas son compatibles con el teclado mecánico Xuanmao Magic Club Zelda Peripherals, versiones MOA y de altura original.
-  Updated: 2026-07-09T00:01:33Z
+  Updated: 2026-07-17T20:21:11Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -278,7 +307,7 @@ Marca: Disney Caja sorpresa de la serie "Stitch animals"
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S313452f921e54e0982a3370dbf0b89d9D_5eb1e72f-5e54-4acf-a4d0-c068125460a6.webp?v=1783541829
     Price: 100,00 $ USD
 - [Alfombra Gamer — The Legend of Zelda: Majora's Mask](https://www.kurostash.com/products/alfombra-vikama-legend-of-zelda-edicion-coleccionista): Alfombra VIKAMA «Legend of Zelda» Edición de Coleccionista. Ideal para salas de juegos, salones, dormitorios y espacios dedicados a los videojuegos.
-  Updated: 2026-07-09T00:01:34Z
+  Updated: 2026-07-17T20:21:07Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -292,7 +321,7 @@ Marca: Disney Caja sorpresa de la serie "Stitch animals"
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Alfombra_VIKAMA_Zelda_Kuro_Stash_Set_up_gamer_1_1.webp?v=1783491417
     Price: 75,00 $ USD
 - [Caja sorpresa | Genshin Impact | Kuro Stash](https://www.kurostash.com/products/genshin-impact-caja-sorpresa-oficial): Figura de acción | Bandai | personajes Genshin Impact | Kuro Stash
-  Updated: 2026-07-09T04:14:48Z
+  Updated: 2026-07-17T20:21:08Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -310,7 +339,7 @@ Marca: Disney Caja sorpresa de la serie "Stitch animals"
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Caja_sorpresa_Genshin_Impact_Kuro_Stash.webp?v=1783549847
     Price: 80,00 $ USD
 - [Figura Figma 626 - Link Tears Of The Kingdom](https://www.kurostash.com/products/figura-figma-link-the-legend-of-zelda-tears-of-the-kingdom): Figura de acción de Link, saga de videojuegos The Legend Of Zelda Tears Of The Kingdom. Figura articulada, capaz de realizar varias poses y con accesorios.
-  Updated: 2026-07-09T00:01:34Z
+  Updated: 2026-07-17T20:21:09Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
@@ -332,20 +361,20 @@ Marca: Disney Caja sorpresa de la serie "Stitch animals"
     Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S9b5b10f004834a1f8daab29eee9753c7F_db115df9-6c3d-4326-b2af-218251a2a24f.webp?v=1783539894
     Price: 52,00 $ USD
 - [Figura Furina — Genshin Impact | Figura de colección - Kuro](https://www.kurostash.com/products/genshin-impact-figura-de-accion-furina): Furina, la enigmática Archon Hidrogénesis de Fontaine, llega a tu vitrina como figura de acción, con todo el dramatismo y elegancia que la caracterizan.
-  Updated: 2026-07-09T00:01:34Z
+  Updated: 2026-07-17T20:21:12Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Figura_de_accion_de_Furina_Kuro_Stash.webp?v=1783440979
   Price: 150,00 $ USD
 - [Figura de 26 cm de «Game Wuthering Waves» - Cartethyia](https://www.kurostash.com/products/figura-de-accion-26cm-wuthering-waves-cartethyia): Trae a tu vitrina el poder y la elegancia oscura de Cartethyia, una de las figuras de acción más esperadas del universo de Wuthering Waves. Para coleccionistas
-  Updated: 2026-07-09T04:35:03Z
+  Updated: 2026-07-17T20:21:08Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
   Price: 120,00 $ USD
 - [Bloques de Construcción — Dragón de Hielo Motorizado | Kuro Stash](https://www.kurostash.com/products/funxinee-1676-piezas-dragon-juego-bloques-de-construccion-got): FUNXINEE 1676 piezas: Dragón de hielo de alta calidad. Reto de construcción avanzado. Ojos que brillan en la oscuridad. Articulaciones móviles.
-  Updated: 2026-07-09T07:20:07Z
+  Updated: 2026-07-17T20:21:08Z
   Vendor: Kuro Stash
   Product Type: 
   Availability: Available
