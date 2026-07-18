@@ -6,7 +6,7 @@
 - Timezone: Australia/Brisbane
 - Created At: 2025-12-12T13:29:26Z
 - Contact Email: info@carlighting.com.au
-- Updated At: 2026-07-11T00:00:40.204Z
+- Updated At: 2026-07-18T00:00:46.230Z
 
 CarLighting.com.au is an Australian supplier of genuine OEM reconditioned headlights, tail lights, modules and automotive lighting components.
 We specialise in Mercedes-Benz, BMW, Audi, Volkswagen, Porsche, Land Rover and other European vehicles.
@@ -15,7 +15,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
 ## Products
 
 - [Mercedes-Benz C-Class Headlight: W205 LED 2015-2018](https://www.carlighting.com.au/products/mercedes-benz-c-class-headlight): Purchase a reconditioned Mercedes-Benz C-Class Headlight for 2015-2018 W205 models. Genuine OEM Intelligent LED unit tested for RHD and LHD compatibility.
-  Updated: 2026-07-05T15:39:15Z
+  Updated: 2026-07-13T02:20:51Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -161,7 +161,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/mercedes-benz-e-class-w213-2017-2020-reconditioned-led-headlight-rhd-lhd-compatible-5010238.png?v=1774448689
     Price: $990.00 AUD
 - [Mercedes-Benz GLE-Class HeadLight | W166 LED 2015-2018](https://www.carlighting.com.au/products/mercedes-gle-w166-led-headlight): Shop this reconditioned Mercedes-Benz GLE-Class HeadLight for W166 models. Genuine OEM LED part compatible with RHD and LHD vehicles from 2015 to 2018.
-  Updated: 2026-07-05T15:39:22Z
+  Updated: 2026-07-14T03:20:48Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -271,7 +271,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Availability: Available
     Price: $1,180.00 AUD
 - [BMW Headlight 3 Series F30 LCI OEM LED 2015-2018 | Australia Stock](https://www.carlighting.com.au/products/bmw-f30-lci-led-headlight): Used & reconditioned genuine OEM LED headlight for 2015–2018 BMW 3 Series F30 LCI. Fully tested. RHD & LHD compatible. Australia-wide supply.
-  Updated: 2026-07-05T15:39:28Z
+  Updated: 2026-07-15T04:17:06Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -353,7 +353,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/bmw-x7-g07-2019-2022-reconditioned-led-headlight-rhd-lhd-compatible-7972104.webp?v=1774448580
     Price: $1,580.00 AUD
 - [BMW Headlight X1 F48 LCI OEM LED 2020-2023 | Australia Stock](https://www.carlighting.com.au/products/bmw-x1-f48-lci-headlight): Used & reconditioned genuine OEM LED headlight for 2020–2023 BMW X1 F48 LCI models. Fully tested. RHD & LHD compatible. Australia-wide supply.
-  Updated: 2026-07-05T15:39:33Z
+  Updated: 2026-07-14T12:03:00Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -423,7 +423,7 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Image: https://cdn.shopify.com/s/files/1/0713/7352/1046/files/mercedes-benz-w167-gle-led-reconditioned-headlight-2019-2023-rhd-lhd-compatible-5252422.webp?v=1774448440
     Price: $1,080.00 AUD
 - [Mercedes-Benz GLS LED Headlight 2019-2023 | X167 OEM](https://www.carlighting.com.au/products/mercedes-gls-x167-led-headlight): Find a reconditioned Mercedes-Benz GLS LED Headlight 2019-2023 for X167 models. This genuine part is fully tested and compatible with RHD and LHD vehicles.
-  Updated: 2026-07-05T15:39:36Z
+  Updated: 2026-07-17T02:43:38Z
   Vendor: Car Headlight Australia
   Product Type: 
   Availability: Available
@@ -676,13 +676,13 @@ Australia-wide shipping is available, with in-store fitment and coding services 
 ## Collections
 
 - [All Genuine Reconditioned Headlights](https://www.carlighting.com.au/collections/shop-all-car-headlights-australia): Shop reconditioned headlights for BMW, Audi, Mercedes and Porsche. Genuine OEM units, fully tested, with RHD and LHD options.
-  Updated: 2026-07-07T08:29:50Z
+  Updated: 2026-07-17T11:19:31Z
   Total Products: 47
 - [Genuine Mercedes-Benz Reconditioned Headlights](https://www.carlighting.com.au/collections/mercedes-benz-oem-led-headlights): Browse OEM LED headlights for Mercedes-Benz A-Class, C-Class, E-Class, GLC, GLE & GLS. Genuine used & reconditioned units. Australia-wide supply.
-  Updated: 2026-07-07T08:29:50Z
+  Updated: 2026-07-17T11:19:31Z
   Total Products: 21
 - [Genuine BMW Reconditioned Headlights](https://www.carlighting.com.au/collections/bmw-oem-led-headlights): Shop genuine Genuine BMW headlights. Used & professionally reconditioned units, fully tested. RHD & LHD options available. Australia-wide supply.
-  Updated: 2026-07-04T11:24:37Z
+  Updated: 2026-07-15T11:22:38Z
   Total Products: 16
 - [Genuine Audi Reconditioned Headlights](https://www.carlighting.com.au/collections/audi-oem-led-headlights): Shop genuine OEM LED AUDI headlights. Used & professionally reconditioned units, fully tested. RHD & LHD options available. Australia-wide supply.
   Updated: 2026-06-29T11:18:21Z
@@ -691,11 +691,11 @@ Australia-wide shipping is available, with in-store fitment and coding services 
   Updated: 2026-06-17T13:58:42Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.carlighting.com.au/collections/avada-best-sellers)
-  Updated: 2026-07-07T08:29:50Z
-  Total Products: 48
+  Updated: 2026-07-17T11:19:31Z
+  Total Products: 50
 - [All Products (ChatGPT-AI Product Description)](https://www.carlighting.com.au/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-07-07T08:29:50Z
-  Total Products: 48
+  Updated: 2026-07-17T11:19:31Z
+  Total Products: 50
 
 ## Blogs
 
@@ -836,6 +836,27 @@ Australia-wide shipping is available, with in-store fitment and coding services 
     Author: Harry
   - [Navigating Reconditioned Mercedes-Benz Headlights: Genuine OEM Compatibility and Replacement in Australia](https://www.carlighting.com.au/blogs/news/navigating-reconditioned-mercedes-benz-headlights-genuine-oem-compatibility-and-replacement-in-australia): Navigating Reconditioned Mercedes-Benz Headlights: Genuine OEM Compatibility and Replacement in Australia
     Updated: 2026-07-10T01:06:50Z
+    Author: Harry
+  - [Genuine Mercedes-Benz OEM Reconditioned Headlights: Guide for Brisbane Replacement Services](https://www.carlighting.com.au/blogs/news/genuine-mercedes-benz-oem-reconditioned-headlights-guide-for-brisbane-replacement-services): Genuine Mercedes-Benz OEM Reconditioned Headlights: Guide for Brisbane Replacement Services
+    Updated: 2026-07-11T00:53:33Z
+    Author: Harry
+  - [Revamp Your Ride with Genuine OEM BMW Headlights: A Guide to Brisbane Melbourne and Sydney Installations](https://www.carlighting.com.au/blogs/news/revamp-your-ride-with-genuine-oem-bmw-headlights-a-guide-to-brisbane-melbourne-and-sydney-installations): Revamp Your Ride with Genuine OEM BMW Headlights: A Guide to Brisbane Melbourne and Sydney Installations
+    Updated: 2026-07-12T01:01:23Z
+    Author: Harry
+  - [Explore Genuine OEM Headlights for Audi BMW & Mercedes-Benz in Australia Focus on Honest Comparisons](https://www.carlighting.com.au/blogs/news/explore-genuine-oem-headlights-for-audi-bmw-mercedes-benz-in-australia-focus-on-honest-comparisons): Explore Genuine OEM Headlights for Audi BMW & Mercedes-Benz in Australia Focus on Honest Comparisons
+    Updated: 2026-07-13T01:04:16Z
+    Author: Harry
+  - [Replacing BMW 4 Series G22 Reconditioned LED Headlights: Understand OEM Compatibility and Costs in Australian Cities](https://www.carlighting.com.au/blogs/news/replacing-bmw-4-series-g22-reconditioned-led-headlights-understand-oem-compatibility-and-costs-in-australian-cities): Replacing BMW 4 Series G22 Reconditioned LED Headlights: Understand OEM Compatibility and Costs in Australian Cities
+    Updated: 2026-07-14T01:03:40Z
+    Author: Harry
+  - [Improving Your Mercedes-Benz A-Class Experience: Genuine OEM Reconditioned Headlights for Sydney Melbourne and Brisbane ABC](https://www.carlighting.com.au/blogs/news/improving-your-mercedes-benz-a-class-experience-genuine-oem-reconditioned-headlights-for-sydney-melbourne-and-brisbane-abc): Improving Your Mercedes-Benz A-Class Experience: Genuine OEM Reconditioned Headlights for Sydney Melbourne and Brisbane ABC
+    Updated: 2026-07-15T01:04:17Z
+    Author: Harry
+  - [Understanding OEM Headlights: Genuine Mercedes-Benz X167 GLS LED Options for Brisbane Replacement](https://www.carlighting.com.au/blogs/news/understanding-oem-headlights-genuine-mercedes-benz-x167-gls-led-options-for-brisbane-replacement): Understanding OEM Headlights: Genuine Mercedes-Benz X167 GLS LED Options for Brisbane Replacement
+    Updated: 2026-07-16T01:01:03Z
+    Author: Harry
+  - [Genuine Reconditioned LED Headlights for Porsche Macan 2026-2026: OEM Solutions for Australia’s Luxurious Rides in Sydney Melbourne and Brisbane](https://www.carlighting.com.au/blogs/news/genuine-reconditioned-led-headlights-for-porsche-macan-2026-2026-oem-solutions-for-australia-s-luxurious-rides-in-sydney-melbourne-and-brisbane): Genuine Reconditioned LED Headlights for Porsche Macan 2026-2026: OEM Solutions for Australia’s Luxurious Rides in Sydney Melbourne and Brisbane
+    Updated: 2026-07-17T01:10:09Z
     Author: Harry
 
 ## Store Pages
