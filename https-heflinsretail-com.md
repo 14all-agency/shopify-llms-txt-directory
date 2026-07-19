@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-28T04:29:53Z
 - Contact Email: heflinscotty08@gmail.com
-- Updated At: 2026-07-12T08:00:26.121Z
+- Updated At: 2026-07-19T12:00:25.536Z
 
 ## Products
 
@@ -469,7 +469,7 @@
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/8903aaad424fac40b49d8a9f2de0.png?v=1781847450
   Price: $28.99 USD
 - [Spider Letter Print Hoodie](https://heflinsretail.com/products/spider-letter-prints-hoodies): Spider Letter Prints Hoodies — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-07-08T20:47:22Z
+  Updated: 2026-07-17T05:00:09Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -573,7 +573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/f01b2c4b47cfad551aee48e04cfb.png?v=1781847451
     Price: $12.99 USD
 - [Loose High Collar Fleece Lined Hoodie](https://heflinsretail.com/products/loose-high-collar-fleece-lined-hoodie): Loose High Collar Fleece Lined Hoodie — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-07-08T20:47:23Z
+  Updated: 2026-07-18T09:54:52Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -936,7 +936,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/9f202ed5453f92fcdcd28af0927e.png?v=1781847453
     Price: $34.99 USD
 - [Mens Lapel Knit Pullover Sweater](https://heflinsretail.com/products/mens-lapel-knit-pullover-sweater): Mens Lapel Knit Pullover Sweater — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-07-08T20:47:27Z
+  Updated: 2026-07-17T12:12:15Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -1166,7 +1166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/fcf3805944ed81ea8a50b2b5b848.png?v=1781847454
     Price: $5.99 USD
 - [Mens Hooded Zip-Up Baseball Jacket](https://heflinsretail.com/products/mens-hooded-zip-up-baseball-jacket): Mens Hooded Zip-Up Baseball Jacket — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-07-08T20:47:27Z
+  Updated: 2026-07-15T17:29:24Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -2909,7 +2909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/947e9bc74d72bb51742241ccc783.jpg?v=1781848056
     Price: $7.99 USD
 - [High-Waist Cargo Pants](https://heflinsretail.com/products/high-waist-cargo-pants-stylish): High Waist Cargo Pants Stylish — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-07-08T20:47:41Z
+  Updated: 2026-07-16T09:35:16Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -2963,7 +2963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/cb16cda8494cbb32fa89aadc57ca.jpg?v=1781848056
     Price: $74.99 USD
 - [Star Print Zip-Up Hoodie](https://heflinsretail.com/products/star-printed-zip-up-hoodies): Star Printed Zip Up Hoodies — shop clothing at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-07-08T20:47:41Z
+  Updated: 2026-07-17T09:31:44Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -3352,7 +3352,7 @@
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/2c567276487cb56bdba72e3ca001.png?v=1781848058
   Price: $78.99 USD
 - [bhvgjkhi](https://heflinsretail.com/products/urban-camo-retro-hoodie): Urba
-  Updated: 2026-07-08T20:47:43Z
+  Updated: 2026-07-17T20:24:08Z
   Vendor: Heflin's Retail
   Product Type: Clothing
   Availability: Available
@@ -3474,36 +3474,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/e35ece5e41e0830057f79f4ce0fa.png?v=1781848060
   Price: $29.99 USD
-- [PSPS](https://heflinsretail.com/products/posture-corrector): PCPC
-  Updated: 2026-07-08T20:47:44Z
-  Vendor: Heflin's Retail
-  Product Type: Health Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/75de3f394ca6b9b5786f2780a0d3.jpg?v=1781848061
-  - [Black / Small](https://heflinsretail.com/products/posture-corrector?variant=51850648715480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/4fc53ee5472a8e16cd9015c9b780.png?v=1781848061
-    Price: $24.99 USD
-  - [Black / Medium](https://heflinsretail.com/products/posture-corrector?variant=51850648748248)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/4fc53ee5472a8e16cd9015c9b780.png?v=1781848061
-    Price: $24.99 USD
-  - [Black / Large](https://heflinsretail.com/products/posture-corrector?variant=51850648781016)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/4fc53ee5472a8e16cd9015c9b780.png?v=1781848061
-    Price: $24.99 USD
-  - [Black / Extra Large](https://heflinsretail.com/products/posture-corrector?variant=51850648813784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/4fc53ee5472a8e16cd9015c9b780.png?v=1781848061
-    Price: $24.99 USD
-- [lkjhgfghkl](https://heflinsretail.com/products/the-ceo-art-markers-coloring-dual-brush-pens-dual-tip-brush-markers-art-pen-set): THE CEO Art Markers Dual Brush Pens Art Pen Set — shop toys at Heflin's Retail. Quality picks, fast checkout, and easy returns.
-  Updated: 2026-07-08T20:47:45Z
-  Vendor: Heflin's Retail
-  Product Type: Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0821/7277/2568/files/97e3132e45f295ebe49617d54d12.jpg?v=1781852473
-  Price: $29.99 USD
-[List Continued](https://heflinsretail.com/a/llms-agent/llms.txt?shop=wzhpak-1s.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Mjg0NDY4Mjc3NDY0LCJsYXN0X3ZhbHVlIjoiOTI4NDQ2ODI3NzQ2NCJ9)
+[List Continued](https://heflinsretail.com/a/llms-agent/llms.txt?shop=wzhpak-1s.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Mjg0NDUzMDczMTEyLCJsYXN0X3ZhbHVlIjoiOTI4NDQ1MzA3MzExMiJ9)
 
 ## Collections
 
@@ -3576,6 +3547,15 @@
     Author: Scotty Heflin
   - [Unlock Your Allure: Understanding the Science Behind Pheromone Perfumes for Women](https://heflinsretail.com/blogs/news/unlock-your-allure-understanding-the-science-behind-pheromone-perfumes-for-women): Unlock Your Allure: Understanding the Science Behind Pheromone Perfumes for Women
     Updated: 2026-07-10T08:09:07Z
+    Author: Scotty Heflin
+  - [Exploring the Strategic Advantage of the Magnetic Chess Board Game](https://heflinsretail.com/blogs/news/exploring-the-strategic-advantage-of-the-magnetic-chess-board-game): Exploring the Strategic Advantage of the Magnetic Chess Board Game
+    Updated: 2026-07-13T08:20:22Z
+    Author: Scotty Heflin
+  - [The Ultimate Guide to Bachelorette Party Dad Hat Trends](https://heflinsretail.com/blogs/news/the-ultimate-guide-to-bachelorette-party-dad-hat-trends): The Ultimate Guide to Bachelorette Party Dad Hat Trends
+    Updated: 2026-07-15T08:09:29Z
+    Author: Scotty Heflin
+  - [The Art of Crafting Your Impression with the Office Signature Pen](https://heflinsretail.com/blogs/news/the-art-of-crafting-your-impression-with-the-office-signature-pen): The Art of Crafting Your Impression with the Office Signature Pen
+    Updated: 2026-07-17T08:08:08Z
     Author: Scotty Heflin
 
 ## Store Pages
