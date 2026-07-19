@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-07-12T08:00:37.324Z
+- Updated At: 2026-07-19T12:00:33.480Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2532,65 +2532,7 @@ File Size: 183 MB
   Product Type: Video Downloads
   Availability: Available
   Price: $60.00 USD
-- [Perfect Pink Photo Set](https://www.carrielachance.com/products/perfect-pink-photo-set-download): Simple and stunning are the words that best describe this feature. All you have is the sexy Carrie LaChance in a bare room. Carrie is wearing a sheer pink floral bra, matching panties and 5.5″ nude lady peep Christian Louboutin high heels. The colors are soft, as are Carrie’s facial features, her lips, and her eyes looking very beautiful. She teases us, slowly stripping off her sheer bra and panties until it’s totally off and then getting into some sexy poses that show off her body and hot high heels. This is a personal favorite set.
-
-Carrie LaChance – Gallery #164 🔞
-Total Images: 46 Photos
-Year: 2015
-File Size: 10 MB
-  Updated: 2026-04-26T20:05:41Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Perfect_Pink_Photo_Set.jpg?v=1744586039
-  Price: $60.00 USD
-- [Perfect Pink Video](https://www.carrielachance.com/products/perfect-pink-video-download): Simple and stunning are the words that best describe this feature. All you have is the sexy Carrie LaChance in a bare room. Carrie is wearing a sheer pink floral bra, matching panties and 5.5″ nude lady peep Christian Louboutin high heels. The colors are soft, as are Carrie’s facial features, her lips, and her eyes looking very beautiful. She teases us, slowly stripping off her sheer bra and panties until it’s totally off and then getting into some sexy poses that show off her body and hot high heels. This is a personal favorite set. This video is from Carrie LaChance – Gallery #164
-
-Perfect Pink Video
-Run Time: 5 min
-Year: 2015
-File Size: 175 MB
-  Updated: 2026-04-26T20:05:41Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $50.00 USD
-- [Transparent Latex Photo Set](https://www.carrielachance.com/products/transparent-latex-photo-set-download): Carrie is wearing a sexy transparent blue latex bodysuit, latex mini skirt, and black boots. The color of the latex is amazing against Carrie’s tan skin. It’s so tight and transparent that she may as well be wearing nothing at all but Carrie likes to leave something to the imagination. When she loses the skirt and is just wearing the bodysuit is when the fun really starts as Carrie looks as she’s so ready for action. The black boots are so hot and show off her sexy thighs. All you latex fetishists out there should be paying close attention to this one.
-
-Carrie LaChance – Gallery #165 🔞
-Total Images: 44 Photos
-Year: 2015
-File Size: 9 MB
-  Updated: 2026-04-26T20:05:41Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Transparent_Latex_Photo_Set.jpg?v=1744585981
-  Price: $50.00 USD
-- [Transparent Latex Video](https://www.carrielachance.com/products/transparent-latex-video-download): Carrie is wearing a sexy transparent blue latex bodysuit, latex mini skirt, and black boots. The color of the latex is amazing against Carrie’s tan skin. It’s so tight and transparent that she may as well be wearing nothing at all but Carrie likes to leave something to the imagination. When she loses the skirt and is just wearing the bodysuit is when the fun really starts as Carrie looks as she’s so ready for action. The black boots are so hot and show off her sexy thighs. All you latex fetishists out there should be paying close attention to this one. This video is from Carrie LaChance – Gallery #165
-
-Transparent Latex Video
-Run Time: 6 min
-Year: 2015
-File Size: 192 MB
-  Updated: 2026-04-26T20:05:42Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $50.00 USD
-- [Hidden Desires Photo Set](https://www.carrielachance.com/products/hidden-desires-photo-set-download): This shoot is so hot on so many levels. Carrie starts off in a sexy skirt and tank top and slowly strips down to her sexy lingerie which included thigh highs and garters. The whole time, of course, she’s wearing bad thought inducing Jimmy Choo pumps. Her body looks absolutely amazing, tan, and taut as ever. She eventually strips out of her sexy black bra and takes some topless shots for us, which is always a major treat. Give it up to Carrie again for hitting yet another one out of the park.
-
-Carrie LaChance – Gallery #166 🔞
-Total Images: 60 Photos
-Year: 2015
-File Size: 11 MB
-  Updated: 2026-04-26T20:05:42Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Hidden_Desires_Photo_Set.jpg?v=1744585848
-  Price: $60.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTUxMDEzMTM0NTAzLCJsYXN0X3ZhbHVlIjoiNTU1MTAxMzEzNDUwMyJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTI2ODA2NzkwMzExLCJsYXN0X3ZhbHVlIjoiNTUyNjgwNjc5MDMxMSJ9)
 
 ## Collections
 
@@ -2601,13 +2543,13 @@ File Size: 11 MB
   Updated: 2026-06-01T23:10:54Z
   Total Products: 5
 - [Carries Closet Collection](https://www.carrielachance.com/collections/carries-closet): Carrie LaChance Memorabilia autographed from my personal own wardrobe, pantyhose, skirts, tops, high heels, boots, panties and autographed photos.
-  Updated: 2026-06-01T23:25:46Z
+  Updated: 2026-07-19T08:51:35Z
   Total Products: 31
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
   Updated: 2026-07-06T20:33:50Z
   Total Products: 331
 - [Video Collection](https://www.carrielachance.com/collections/videos): Explore my Video Collection, featuring over 20 years of professionally shot content. From high heel glamour and lingerie to glossy pantyhose and classic risqué moments, these videos capture my signature style in motion. Each one is a polished, cinematic look at some of my most unforgettable shoots.
-  Updated: 2026-07-06T20:33:50Z
+  Updated: 2026-07-12T20:11:01Z
   Total Products: 195
 - [Carrie Cam Collection](https://www.carrielachance.com/collections/carrie-cam): Step into my Carrie Cam Collection, where you get a glimpse into my real, everyday life. From grabbing lunch and driving around to little moments at home, these photos and videos are candid, unfiltered, and personal, giving you a closer look at me beyond the shoots.
   Updated: 2026-07-06T20:33:50Z
@@ -2616,13 +2558,13 @@ File Size: 11 MB
   Updated: 2026-06-07T11:08:50Z
   Total Products: 80
 - [Latex Collection](https://www.carrielachance.com/collections/latex): Explore my Latex Collection, where every shoot is all about that ultra-shiny, second-skin look I love. From bold outfits to high-gloss finishes, these sets are sleek, edgy, and full of energy. If you love that striking latex shine paired with my signature heels and attitude, this collection is for you.
-  Updated: 2026-06-02T08:31:40Z
+  Updated: 2026-07-12T20:11:01Z
   Total Products: 158
 - [Lingerie Collection](https://www.carrielachance.com/collections/lingerie): Step into my Lingerie Collection, featuring all of my favorite shoots in stunning, sexy sets. From delicate and flirty to bold and seductive, every look highlights my love for heels, confidence, and timeless glamour.
-  Updated: 2026-06-26T16:23:35Z
+  Updated: 2026-07-18T14:11:51Z
   Total Products: 167
 - [Pantyhose Collection](https://www.carrielachance.com/collections/pantyhose): Step into my Pantyhose Collection, featuring all of my favorite shoots in silky, sheer pantyhose. From glossy, ultra-smooth finishes to timeless styling, every look highlights my love for legs, heels, and that signature shine that makes each set so irresistible.
-  Updated: 2026-06-02T08:31:51Z
+  Updated: 2026-07-18T20:49:41Z
   Total Products: 107
 - [Nude Collection](https://www.carrielachance.com/collections/nude): Step into my Artistic Nudes Collection, featuring some of my most revealing and tastefully risqué shoots. These images celebrate confidence, form, and elegance, blending sensuality with a more refined, artistic edge.
   Updated: 2026-07-06T20:33:50Z
@@ -3127,6 +3069,33 @@ File Size: 11 MB
     Updated: 2026-07-12T00:03:55Z
     Author: Carrie LaChance
     Tags:  diaries,  diary, fashion, glamour, glamour stories, seduction, seductive stories, seductive tales, sexy styles, storytelling tips, unlocking seduction secrets
+  - [Sensuous Strides A Peek at My Life and Love of High Heels Lingerie and Glamour Photography](https://www.carrielachance.com/blogs/carrie-lachance/sensuous-strides-a-peek-at-my-life-and-love-of-high-heels-lingerie-and-glamour-photography): Sensuous Strides A Peek at My Life and Love of High Heels Lingerie and Glamour Photography
+    Updated: 2026-07-13T08:00:37Z
+    Author: Carrie LaChance
+    Tags: behind the scense, carrie lachance, elegant photography inspiration., fashion photography, glamour, glamour model, heels, high heels, latex model, life of a model, lifestyle blog, lingerie, love for high heels, outfit of the day, pantyhose, pinup model, sexy model, stilettos
+  - [The Ultimate Photo Shoot Checklist for Glamour Models: Heightening Elegance and Allure](https://www.carrielachance.com/blogs/carrie-lachance/the-ultimate-photo-shoot-checklist-for-glamour-models-heightening-elegance-and-allure): The Ultimate Photo Shoot Checklist for Glamour Models: Heightening Elegance and Allure
+    Updated: 2026-07-14T00:01:59Z
+    Author: Carrie LaChance
+    Tags: elegance, enhance your allure, glamour, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, modeling, modeling advice, modeling tips, perfect posing techniques, photo tips, photography, photoshoot, posing tips, shoot checklist, social media model, taking good selfies
+  - [How to Find the Best Platform for Sexy Content Creators](https://www.carrielachance.com/blogs/carrie-lachance/how-to-find-the-best-platform-for-sexy-content-creators): How to Find the Best Platform for Sexy Content Creators
+    Updated: 2026-07-15T10:01:03Z
+    Author: Carrie LaChance
+  - [Enticing Heights: Luxury Femininity and The Timeless Allure of Sexy Heels](https://www.carrielachance.com/blogs/carrie-lachance/enticing-heights-luxury-femininity-and-the-timeless-allure-of-sexy-heels): Enticing Heights: Luxury Femininity and The Timeless Allure of Sexy Heels
+    Updated: 2026-07-16T00:01:53Z
+    Author: Carrie LaChance
+    Tags: allure of high heels, attraction, femininity, heels, high, high heels, luxury fashion, psychology of heels, psychology of high heels, sexy footwear, why men love women in heels
+  - [Elevate Your Masculinity: Master the Unwritten Rules of Dating From Carrie LaChance](https://www.carrielachance.com/blogs/carrie-lachance/elevate-your-masculinity-master-the-unwritten-rules-of-dating-from-carrie-lachance): Elevate Your Masculinity: Master the Unwritten Rules of Dating From Carrie LaChance
+    Updated: 2026-07-17T00:02:50Z
+    Author: Carrie LaChance
+    Tags: advice, attraction cues, confident dating guide, dating, dating advice, dating strategies, how to find a high heel girl, how to find right girl, masculinity, real connections advice, relationship tips
+  - [Timeless Elegance Discovering the Glistening World of Oil Shine Stockings](https://www.carrielachance.com/blogs/carrie-lachance/timeless-elegance-discovering-the-glistening-world-of-oil-shine-stockings): Timeless Elegance Discovering the Glistening World of Oil Shine Stockings
+    Updated: 2026-07-18T00:01:04Z
+    Author: Carrie LaChance
+    Tags: fashion hosiery trends, glossy legs, legwear styles, nylons, oil shine, pantyhose, shiny smooth stockings, stockings
+  - [The Temptation Chronicles: Seductive Fashion and Glamour Model Secrets.](https://www.carrielachance.com/blogs/carrie-lachance/the-temptation-chronicles-seductive-fashion-and-glamour-model-secrets): The Temptation Chronicles: Seductive Fashion and Glamour Model Secrets.
+    Updated: 2026-07-19T00:03:23Z
+    Author: Carrie LaChance
+    Tags: allure,  diaries,  diary, fashion secrets revealed, glamour fashion, glamour stories, intimacy, seduction, seductive model lifestyle, seductive stories, seductive storytelling
 
 ## Store Pages
 
