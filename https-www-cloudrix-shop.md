@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T14:24:07Z
 - Contact Email: shop.cloudrix@gmail.com
-- Updated At: 2026-07-12T00:00:37.454Z
+- Updated At: 2026-07-19T00:00:38.813Z
 
 ## Products
 
@@ -166,7 +166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0961/7234/3611/files/Sff8c926783f144679d7e611385307324F.webp?v=1781121738
     Price: $27.99 USD
 - [L900 Pro GPS Drone 4K Professional HD Dual Camera 5G Wifi Photography Brushless Foldable Quadcopter RC Distance 1.2KM Drones Toy](https://www.cloudrix.shop/products/l900-pro-4k-gps-drone-with-brushless-motor-and-foldable-design-109786202427-jnqxy): Description:Item NO: L900 proChannel: 4 ChannelsGyro: 6 AxisMotor: Brushless MotorElectric Adjustment Camera Angle: 90°Camera Wide Angle: 120°Configuration Frequency: 2.4GHzRemote Control Distance: 1000 Meters (No Interference, No Occlusion)Charging Time: 4 Hours Or SoFlight Time: 28 Minutes Or SoTransmission Method: FPVFigure Transmission Distance: 500-600 Meters (No Interference, No Occlusion)Photo Resolution : 4096*3072PVideo Resolution : 2048*1080PBottom Camera Photo Resolution : 640*480PBottom Camera Video Resolution : 1280*720PPhoto Recording Mode: Remote Control + APP ControlRemote Control Battery: 3.7V 350mAh Lithium Battery (Included)Quadcopter Rechargeable Battery: 7.4V 2200mAh Lithium Battery (Included)Quadcopter Size: 32*32*5cm (Unfoldable),13*10*5cm(Foldable)Quadcopter Weight: 214gFeatyres:- With foldable arm, small size, easy to carry.- ESC 4k HD Wide Angle Camera. can be adjust the angle 90°by controller.- With 5G WIFI function can be connected APP, take pictures/video, real-time transmission through the phone camera image- GPS Assisted Flight. Provides you with accurate positioning details of your drone.The drone will automatically return to home precisely when its battery is low or the signal is weak when flying out of range, never worrying about losing the drone.- Optical Flow Positioning.Fixed point height,and it can shoot more easily and steadily indoor.- Altitude Hold Mode. By setting the air pressure outside,the quadcopter can hover in the air stably,making the shooting easier.- Gesture Photo/Video. You will break the old way of taking photo and find the fresh new thing by make gestures to record your beauty.(within the range of 1-3m)- 28 Mins Max Flight Time.The High-capacity 7.4V 2200mAh intelligent battery yields up to 28mins flight time.- Brushless Motor. It is so quiet but very powerful when running. Breakdown rarely occurs and motor replacement is seldom required, which makes your flight more enjoyable.- Follow Me Mode.The drone will automatically follows and captures you wherever you move. Keeping you in the frame at all times, easier to get complex shots, provides hands-free flying and selfie.- Waypoint Flight Mode.Open the drone APP, use flight plan at your fingertips, just draw a route on the screen, the copter will auto fly as per the given path.- Fixed Point Surround.Choose one point, then the drone will fly around the point in a circle.- 6-axis g-yro which can have more stable flying and be easy to control.- The quadcopter fuselage is made of high strength and resistant engineering plastics,lightweight and durable resistance.Package included:1 x Aircraft1 x Remote Control1 x Aircraft Battery2 x Spare Propeller1 x Usb Charging Cable1 x Screwdriver1 x Manual
-  Updated: 2026-07-01T09:09:43Z
+  Updated: 2026-07-17T10:25:26Z
   Vendor: Cloudrix Drones
   Product Type: 
   Availability: Available
@@ -372,7 +372,7 @@
 ## Collections
 
 - [Cloudrix Drones](https://www.cloudrix.shop/collections/frontpage): Explore the full Cloudrix Drones collection — built for everyone from first-time flyers to aerial imaging pros. Whether you're looking for ultra-stable camera drones, agile FPV racers, or durable beginner models, our lineup combines cutting‑edge flight technology with intuitive controls. Each drone is tested for reliability, range, and crisp video transmission. Shop by skill level, flight time, or camera quality — and take your view to new heights.
-  Updated: 2026-07-03T13:43:19Z
+  Updated: 2026-07-17T11:24:57Z
   Total Products: 19
 
 ## Blogs
@@ -451,6 +451,24 @@
     Author: Cloudrix Drones
   - [How Cloudrix Drones are Transforming Budget Friendly Aerial Photography](https://www.cloudrix.shop/blogs/cloudrix-drones/how-cloudrix-drones-are-transforming-budget-friendly-aerial-photography): How Cloudrix Drones are Transforming Budget Friendly Aerial Photography
     Updated: 2026-07-11T01:05:58Z
+    Author: Cloudrix Drones
+  - [Exploring the Best Cloudrix Drones for Budget Conscious Creators](https://www.cloudrix.shop/blogs/cloudrix-drones/exploring-the-best-cloudrix-drones-for-budget-conscious-creators): Exploring the Best Cloudrix Drones for Budget Conscious Creators
+    Updated: 2026-07-13T02:44:33Z
+    Author: Cloudrix Drones
+  - [Lightweight Foldable Drone Value | Cloudrix Drones](https://www.cloudrix.shop/blogs/cloudrix-drones/lightweight-foldable-drone-buying-checklist): Lightweight Foldable Drone Value | Cloudrix Drones
+    Updated: 2026-07-15T17:00:04Z
+    Author: Cloudrix Drones
+  - [Hasselblad Camera Drone Features and Setup | Cloudrix Drones](https://www.cloudrix.shop/blogs/cloudrix-drones/hasselblad-camera-drone-features-setup-and-flight-tips): Hasselblad Camera Drone Features and Setup | Cloudrix Drones
+    Updated: 2026-07-15T17:00:04Z
+    Author: Cloudrix Drones
+  - [Long-Range Video Transmission Drone Guide | Cloudrix Drones](https://www.cloudrix.shop/blogs/cloudrix-drones/how-to-choose-a-long-range-video-transmission-drone): Long-Range Video Transmission Drone Guide | Cloudrix Drones
+    Updated: 2026-07-15T17:01:01Z
+    Author: Cloudrix Drones
+  - [Achieving Professional Aerial Footage with Budget Friendly Cloudrix Technology](https://www.cloudrix.shop/blogs/cloudrix-drones/achieving-professional-aerial-footage-with-budget-friendly-cloudrix-technology): Achieving Professional Aerial Footage with Budget Friendly Cloudrix Technology
+    Updated: 2026-07-16T00:27:49Z
+    Author: Cloudrix Drones
+  - [An Explainer on Cloudrix Drones: Budget Meets Professional Quality](https://www.cloudrix.shop/blogs/cloudrix-drones/an-explainer-on-cloudrix-drones-budget-meets-professional-quality): An Explainer on Cloudrix Drones: Budget Meets Professional Quality
+    Updated: 2026-07-18T01:04:10Z
     Author: Cloudrix Drones
 - [News](https://www.cloudrix.shop/blogs/news)
   - [Drone Photography Pricing: 2026 Cost Guide](https://www.cloudrix.shop/blogs/news/drone-photography-pricing-10574-5): Drone Photography Pricing: 2026 Cost Guide
