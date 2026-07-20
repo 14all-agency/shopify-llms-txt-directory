@@ -14,7 +14,7 @@ Resources include matcha education, preparation guides, recipes, wellness articl
 - Timezone: Asia/Beirut
 - Created At: 2024-05-09T12:29:19Z
 - Contact Email: Support@blenditlb.com
-- Updated At: 2026-07-10T00:00:39.033Z
+- Updated At: 2026-07-20T00:00:39.718Z
 
 # Blendit
 
@@ -25,13 +25,13 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
 ## Products
 
 - [500ml Fresh Health Juice Blender by Blendit – Portable & Rechargeable](https://blenditlb.com/products/fresh-juice-bottle-blender): Meet the Fresh Health Juice Bottle Blender 500ml, your compact, on-the-go blending companion. This next-generation blender combines professional-grade  - Blendit
-  Updated: 2026-06-30T09:49:43Z
+  Updated: 2026-07-19T19:30:04Z
   Vendor: Blendit
   Product Type: Portable blender
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_6a53fa68-5b22-40ef-af5a-5eb00d4cf0e6.jpg?v=1776596346
+  Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/blender_500ml.png?v=1784445396
   - [Pink](https://blenditlb.com/products/fresh-juice-bottle-blender?variant=41994661822575)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_d67e2195-75b1-40ae-9acb-c8be7538ea49.png?v=1778386101
     Price: $49.99 USD
   - [Black](https://blenditlb.com/products/fresh-juice-bottle-blender?variant=41994661855343)
@@ -40,25 +40,24 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
     Price: $49.99 USD
   - [White](https://blenditlb.com/products/fresh-juice-bottle-blender?variant=41994661888111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_493b541b-2ce3-4220-9aaf-472703fb2596.jpg?v=1778386101
+    Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/blender_500ml.png?v=1784445396
     Price: $49.99 USD
 - [350ml Fresh Juice by Blendit – Portable Blender for Smoothies, Juices](https://blenditlb.com/products/350-ml-fresh-juice-bottle-blender): 🌀 Fresh, Anytime, Anywhere! The 350ml Fresh Juice Blendit is your ultimate portable blender, designed to help you enjoy healthy, delicious smoothies,  - Blendit
-  Updated: 2026-06-30T09:49:42Z
+  Updated: 2026-07-19T19:29:24Z
   Vendor: Blendit
   Product Type: Portable blender
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/20260110-152242_0000.jpg?v=1768051468
+  Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/hero_350ml.png?v=1784468809
   - [Black / Classic](https://blenditlb.com/products/350-ml-fresh-juice-bottle-blender?variant=41994875011183)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_3eee5d5a-c7af-4632-aba9-560a81aaec42.jpg?v=1774390531
     Price: $35.00 USD
   - [Black / Kids Edition + 2 sticker sheets](https://blenditlb.com/products/350-ml-fresh-juice-bottle-blender?variant=53042766086255)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_03f08af8-e4c4-45c1-96fb-d42ac7fd72b0.jpg?v=1774003413
     Price: $35.00 USD
   - [Pink / Classic](https://blenditlb.com/products/350-ml-fresh-juice-bottle-blender?variant=41994875043951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/1000438900.jpg?v=1774390531
+    Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/350ml_hero1.png?v=1784466736
     Price: $35.00 USD
   - [Pink / Kids Edition + 2 sticker sheets](https://blenditlb.com/products/350-ml-fresh-juice-bottle-blender?variant=53042766119023)
     Availability: Available
@@ -186,7 +185,7 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
   Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_65a9174b-5f23-46db-896c-20e9067a59d2.jpg?v=1751792364
   Price: $12.99 USD
 - [GoMatcha – Naturally Sweet Organic Ceremonial Grade Matcha - Blendit](https://blenditlb.com/products/organic-matcha-ceremonial-grade-green-tea-30gr-tin): 🌿 GoMatcha – Organic Ceremonial Matcha (Naturally Sweet) Say hello to your everyday matcha love! GoMatcha is a smooth, naturally sweet  - Blendit
-  Updated: 2026-07-07T09:07:52Z
+  Updated: 2026-07-19T15:27:32Z
   Vendor: Blendit
   Product Type: Matcha
   Availability: Available
@@ -194,17 +193,17 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
   - [30 gr](https://blenditlb.com/products/organic-matcha-ceremonial-grade-green-tea-30gr-tin?variant=42958721187951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/goalone_49bb7638-9209-4d48-b061-559046235846.png?v=1781362055
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [50 gr](https://blenditlb.com/products/organic-matcha-ceremonial-grade-green-tea-30gr-tin?variant=42957398540399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_c9990d4c-85a3-4a43-9bcd-81f5258db379.jpg?v=1752355749
-    Price: $42.99 USD
+    Price: $47.99 USD
   - [100 gr](https://blenditlb.com/products/organic-matcha-ceremonial-grade-green-tea-30gr-tin?variant=42957398573167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_19d077da-cd97-4a1f-8af0-1fce5eb36e6b.jpg?v=1752355749
-    Price: $77.99 USD
+    Price: $74.99 USD
 - [Matcha Starter Set – 4-Piece Essential Tools for Perfect Matcha](https://blenditlb.com/products/go-matcha-traditional-set): 🌱 Start Your Matcha Journey with Ease! 🌱 Our Matcha Starter Set is perfect for beginners and everyday matcha lovers.This 4-piece premium kit includes  - Blendit
-  Updated: 2026-06-30T09:49:37Z
+  Updated: 2026-07-19T17:32:28Z
   Vendor: Blendit
   Product Type: Matcha set
   Availability: Available
@@ -212,25 +211,25 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
   - [White / Without Spout](https://blenditlb.com/products/go-matcha-traditional-set?variant=43971142418543)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_7ab4b18a-a5c3-4019-a99e-5f1ddc881244.png?v=1774466064
-    Price: $42.50 USD
+    Price: $45.00 USD
   - [Black / Without Spout](https://blenditlb.com/products/go-matcha-traditional-set?variant=43971142451311)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_350359c9-d62a-4780-af02-3b15cd1df560.png?v=1774466064
-    Price: $42.50 USD
+    Price: $45.00 USD
   - [Green / Without Spout](https://blenditlb.com/products/go-matcha-traditional-set?variant=43971142484079)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_a17e629f-46e3-4c46-9a02-8c222f756441.png?v=1774466064
-    Price: $42.50 USD
+    Price: $45.00 USD
   - [Pink / Without Spout](https://blenditlb.com/products/go-matcha-traditional-set?variant=43971142516847)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_6c5e8cdd-638a-4d47-8cb8-5026df1feb2f.png?v=1774466064
-    Price: $42.50 USD
+    Price: $45.00 USD
   - [Blue matt / With spout](https://blenditlb.com/products/go-matcha-traditional-set?variant=52848389816431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_3849452a-f025-4345-8443-0d7f0670ad56.jpg?v=1774466064
-    Price: $42.50 USD
+    Price: $45.00 USD
 - [Matcha  Set – 5-Piece Matcha Tools with 30g Organic](https://blenditlb.com/products/go-matcha-ceremonial-set): 🌿 Master the Art of Matcha at Home! 🌿 Experience the ultimate Japanese tea ritual with our Matcha Ceremonial Set!This set includes a 5-piece premium  - Blendit
-  Updated: 2026-07-09T17:20:07Z
+  Updated: 2026-07-19T23:57:07Z
   Vendor: Blendit
   Product Type: Matcha set
   Availability: Available
@@ -238,23 +237,23 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
   - [White](https://blenditlb.com/products/go-matcha-ceremonial-set?variant=42711377903727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_7ab4b18a-a5c3-4019-a99e-5f1ddc881244.png?v=1774466064
-    Price: $69.99 USD
+    Price: $75.00 USD
   - [Black](https://blenditlb.com/products/go-matcha-ceremonial-set?variant=42711377870959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_350359c9-d62a-4780-af02-3b15cd1df560.png?v=1774466064
-    Price: $69.99 USD
+    Price: $75.00 USD
   - [Pink](https://blenditlb.com/products/go-matcha-ceremonial-set?variant=42711377936495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_6c5e8cdd-638a-4d47-8cb8-5026df1feb2f.png?v=1774466064
-    Price: $69.99 USD
+    Price: $75.00 USD
   - [Green](https://blenditlb.com/products/go-matcha-ceremonial-set?variant=42711377969263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_a17e629f-46e3-4c46-9a02-8c222f756441.png?v=1774466064
-    Price: $69.99 USD
+    Price: $75.00 USD
   - [Matt Blue](https://blenditlb.com/products/go-matcha-ceremonial-set?variant=43971107651695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_3849452a-f025-4345-8443-0d7f0670ad56.jpg?v=1774466064
-    Price: $69.99 USD
+    Price: $75.00 USD
 - [Matcha Mini Set – 3-Piece Essential Kit for Perfect Matcha Moments -](https://blenditlb.com/products/go-matcha-mini-set): Start your matcha journey the authentic way with our Matcha Mini Set! 🍵 This elegant 3-piece kit includes everything you need to brew, whisk, and  - Blendit
   Updated: 2026-05-23T19:23:42Z
   Vendor: Blendit
@@ -412,13 +411,13 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_d8cd10f8-88d4-4be4-bfde-67f80a643424.png?v=1778387867
     Price: $49.00 USD
 - [500ml Fresh Health Juice Blender by Blendit – Portable & Rechargeable](https://blenditlb.com/products/500ml-portable-juice-blender-rechargeable-smoothie-bottle-by-blendit): Meet the Fresh Health Juice Bottle Blender 500ml, your compact, on-the-go blending companion. This next-generation blender combines professional-grade  - Blendit
-  Updated: 2026-06-30T09:49:37Z
+  Updated: 2026-07-19T19:28:42Z
   Vendor: Blendit
   Product Type: Portable blender
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/ChatGPT-Image_Jan_10_2026_05_35_12_PM_png.jpg?v=1768061028
+  Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/bundle2.png?v=1784445397
   - [Pink](https://blenditlb.com/products/500ml-portable-juice-blender-rechargeable-smoothie-bottle-by-blendit?variant=44058786627695)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/bundle-p.png?v=1778322327
     Price: $69.99 USD
   - [Black](https://blenditlb.com/products/500ml-portable-juice-blender-rechargeable-smoothie-bottle-by-blendit?variant=44058786660463)
@@ -427,7 +426,7 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
     Price: $69.99 USD
   - [White](https://blenditlb.com/products/500ml-portable-juice-blender-rechargeable-smoothie-bottle-by-blendit?variant=44058786693231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/ChatGPT-Image_Jan_10_2026_05_35_12_PM_png.jpg?v=1768061028
+    Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/bundle.png?v=1784445396
     Price: $69.99 USD
 - [⭐ Exclusive 5-Piece Japanese Matcha Set – Porcelain Spout Bowl, Purple](https://blenditlb.com/products/⭐-exclusive-5-piece-japanese-matcha-set-limited-edition-550ml-copy): Experience the complete matcha ritual with this Limited Edition 5-Piece Matcha Set, designed for quality, style, and great value. ✨ 5 Premium Tools  - Blendit
   Updated: 2026-07-07T09:07:49Z
@@ -458,7 +457,7 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
     Image: https://cdn.shopify.com/s/files/1/0581/0238/2703/files/rn-image_picker_lib_temp_bca63b7d-e33d-4b3a-a6c4-8fd3b9dc9d65.png?v=1771065400
     Price: $7.00 USD
 - [Matcha Whisk Holder — Keep Your Chasen in Shape](https://blenditlb.com/products/matcha-whisk-holder-keep-your-chasen-in-shape): WHISK CARE ESSENTIAL ✨ Keep your bamboo whisk in perfect shape. A whisk holder helps your bamboo whisk dry properly while maintaining its natural curved shape after every use. ✔ Maintains whisk shape ✔ Supports proper drying ✔ Extends whisk lifespan ✔ Clean, aesthetic setup
-  Updated: 2026-05-23T19:06:36Z
+  Updated: 2026-07-14T11:23:17Z
   Vendor: Blendit
   Product Type: Matcha accessory
   Availability: Available
@@ -527,43 +526,43 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
 ## Collections
 
 - [#1 Portable Blenders | Rechargeable, Stylish, On-the-Go](https://blenditlb.com/collections/products): Lebanon's source for original Fresh Juice blenders, eco-friendly essentials,  healthy lifestyle upgrades. Blend anywhere with our top- 350ml  - Blendit
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T09:10:51Z
   Total Products: 3
 - [Premium Organic Ceremonial Matcha | GoMatcha & Umami](https://blenditlb.com/collections/matcha): Indulge in the finest ceremonial-grade organic matcha sourced directly from Shimane, Japan. Our matcha is harvested from the first flush of young tea  - Blendit
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T09:10:51Z
   Total Products: 3
 - [Matcha Sets](https://blenditlb.com/collections/go-matcha-accessories-and-sets): Elevate your  experience with our curated selection of traditional Japanese tea sets and tools. Each set includes essential items like a ceramic  - Blendit
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T17:35:34Z
   Total Products: 7
 - [Offers & Bundles](https://blenditlb.com/collections/holiday-): Get more for less. Take advantage of exclusive discounts, value bundles, and seasonal deals on your favorite Blendit essentials. These are perfect for  - Blendit
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T17:35:34Z
   Total Products: 5
 - [Eco Essentials](https://blenditlb.com/collections/🌱eco-friendly-picks): Sustainable living starts here. Shop consciously with our curated range of eco-friendly products, including reusable straws, natural cleaning brushes,  - Blendit
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T09:10:51Z
   Total Products: 6
 - [Gift Sets](https://blenditlb.com/collections/🎁gift-ideas): Wellness gifts made simple. Explore a handpicked selection of gift-worthy items for every occasion from matcha kits to stylish blenders and bundles.  - Blendit
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T17:35:34Z
   Total Products: 18
 - [Best Sellers](https://blenditlb.com/collections/customer-favorities): Our most-loved wellness essentials — chosen, tested, and trusted by Blendit customers.
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T17:35:34Z
   Total Products: 12
 - [Matcha Tools & Accessories](https://blenditlb.com/collections/matcha-tools-accessories): MATCHA TOOLS ✨ Build your perfect matcha ritual. From smoother texture to better foam, these tools help you prepare matcha the right way — whether you love the traditional ritual or a modern iced matcha routine. ✔ Smooth texture ✔ Better foam ✔ Beginner-friendly ✔ Traditional & modern options RITUAL ESSENTIALS 🌿 Start with the tools that make the biggest difference. These are the core tools for smoother texture, better foam, and a more balanced matcha taste. ✔ Sifter for smooth texture ✔ Whisk for natural foam ✔ Scoop for consistency ✔ Bowl for better whisking
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T09:10:51Z
   Total Products: 10
 - [All Matcha](https://blenditlb.com/collections/all-matcha)
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T17:35:34Z
   Total Products: 18
 - [Blender Tools & Accessories](https://blenditlb.com/collections/blender-accessories)
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T09:10:52Z
   Total Products: 4
 - [Drinkware](https://blenditlb.com/collections/drinkware)
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T09:10:51Z
   Total Products: 6
 - [All Products](https://blenditlb.com/collections/all-products)
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T17:35:34Z
   Total Products: 28
 - [Matcha sets and Tools](https://blenditlb.com/collections/matcha-sets-and-tools)
-  Updated: 2026-07-09T09:11:57Z
+  Updated: 2026-07-19T17:35:34Z
   Total Products: 14
 
 ## Blogs
@@ -580,9 +579,6 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
     Author: My Store Admin
   - [Chocolate Smoothie for chocolate lovers 🍫 - Blendit](https://blenditlb.com/blogs/recipes-wellness-reads/chocolate-smoothie-for-chocolate-lovers-🍫): Chocolate Smoothie for chocolate lovers 🍫 - Blendit
     Updated: 2026-05-29T14:32:04Z
-    Author: My Store Admin
-  - [Nutrient-packed Mango Smoothie Recipe 🥭 - Blendit](https://blenditlb.com/blogs/recipes-wellness-reads/nutrient-packed-mango-smoothie-recipe): Nutrient-packed Mango Smoothie Recipe 🥭 - Blendit
-    Updated: 2026-05-29T14:31:39Z
     Author: My Store Admin
   - [Back-to-School Power Smoothie for a healthy energy boost. - Blendit](https://blenditlb.com/blogs/recipes-wellness-reads/back-to-school-power-smoothie-for-a-healthy-energy-boost): Back-to-School Power Smoothie for a healthy energy boost. - Blendit
     Updated: 2026-05-29T14:31:17Z
@@ -674,7 +670,7 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
     Updated: 2026-06-17T14:54:30Z
     Author: Rola Amin
   - [Why Japanese Matcha Is Different](https://blenditlb.com/blogs/matcha-journal/why-japanese-matcha-is-different): <p>Learn why Japanese matcha is known for its vibrant color, smooth taste, and centuries-old cultivation methods. Explore how origin, processing, and freshness influence quality.</p>
-    Updated: 2026-06-25T14:59:03Z
+    Updated: 2026-07-17T13:19:20Z
     Author: Rola Amin
   - [How to Choose the Best Matcha Powder in Lebanon (2026)](https://blenditlb.com/blogs/matcha-journal/how-to-choose-the-best-matcha-powder-in-lebanon): How to Choose the Best Matcha Powder in Lebanon (2026)
     Updated: 2026-07-05T08:21:05Z
@@ -691,8 +687,8 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
   Updated: 2026-05-23T19:47:08Z
 - [500ml Fresh Juice Blender Guide | Master Fresh, Healthy Blends at Home](https://blenditlb.com/pages/user-guide-500-ml): 🧃 Master Fresh Juicing - Your Guide to Using the Fresh Juice Blender Become a juicing pro with this complete guide! Learn how to safely use, clean,...
   Updated: 2026-05-23T19:45:24Z
-- [Blendit Wholesale Program | Partner With Us for Health & Sustainability](https://blenditlb.com/pages/wholesale): Welcome to the Blendit Wholesale Program! We’re thrilled that you’re interested in joining the Blendit Wholesale Family! Together, we’ll share the ...
-  Updated: 2026-05-23T19:46:39Z
+- [Blendit Wholesale Program | Partner With Us for Health & Sustainability](https://blenditlb.com/pages/wholesale): .blendit-wholesale-page { background: #fbfaf6; color: #123f33; font-family: inherit; padding: 46px 18px 34px; } .blendit-wholesale-wrap { max-width...
+  Updated: 2026-07-12T14:55:56Z
 - [About Our Matcha](https://blenditlb.com/pages/matcha): .main-page-title, .page-title, h1.main-page-title, .title-wrapper-with-link { display: none !important; } .blendit-matcha-education { background: #...
   Updated: 2026-06-16T02:47:42Z
 - [pop-up](https://blenditlb.com/pages/pop-up): 🔥 Super  Alert! 🔥 Get 10% OFF automatically at checkout - no code needed! 💚 From authentic Japanese matcha to powerful THE ORIGINAL portable bl...
@@ -718,7 +714,7 @@ Blendit specializes in premium Japanese matcha, matcha tools, and portable blend
 - [Blender Warranty](https://blenditlb.com/pages/blender-warranty): .main-page-title, .page-title, h1.main-page-title, .title-wrapper-with-link { display: none !important; } .blendit-policy-page { background: #fbfaf...
   Updated: 2026-05-23T19:40:36Z
 - [Blendit Matcha Club](https://blenditlb.com/pages/blendit-matcha-club): .main-page-title, .page-title, h1.main-page-title, .title-wrapper-with-link { display: none !important; } .blendit-club-page { background: #fbfaf6;...
-  Updated: 2026-06-27T13:43:06Z
+  Updated: 2026-07-12T13:45:49Z
 - [Privacy Policy](https://blenditlb.com/pages/privacy-policy): .main-page-title,.page-title,.title-wrapper-with-link{display:none!important} .blendit-policy-page{background:#fbfaf6;color:#123f33;font-family:inh...
   Updated: 2026-05-24T18:04:33Z
 - [Terms of Service](https://blenditlb.com/pages/terms-of-service): .main-page-title,.page-title,.title-wrapper-with-link{display:none!important} .blendit-policy-page{background:#fbfaf6;color:#123f33;font-family:inh...
