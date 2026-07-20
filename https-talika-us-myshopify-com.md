@@ -6,12 +6,30 @@
 - Timezone: America/New_York
 - Created At: 2020-09-29T11:31:34Z
 - Contact Email: support@talikacosmetics.com
-- Updated At: 2026-07-07T00:00:41.409Z
+- Updated At: 2026-07-20T00:00:43.163Z
 
 ## Products
 
+- [Lipocils Expert Eyelash Serum 10ml](https://talika-us.myshopify.com/products/talika-lipocils-expert): Talika’s best eyelash , Lipocils Expert, makes lashes darker, fuller & bolder. The conditioning lash formula is natural & FDA cleared.
+  Updated: 2026-07-17T18:57:12Z
+  Vendor: TALIKA10785
+  Product Type: Eye Makeup
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/LIPOCILS-Expert-10ml01_293a3df0-6783-4821-b3b9-07068aed74be.jpg?v=1674558152
+  - [Buy 1](https://talika-us.myshopify.com/products/talika-lipocils-expert?variant=40457832038562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/LIPOCILS-Expert-10ml01_293a3df0-6783-4821-b3b9-07068aed74be.jpg?v=1674558152
+    Price: $67.00 USD
+  - [Buy 2](https://talika-us.myshopify.com/products/talika-lipocils-expert?variant=40457832071330)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-Lipocils-Expert-two.jpg?v=1716196623
+    Price: $108.00 USD
+  - [Buy 3](https://talika-us.myshopify.com/products/talika-lipocils-expert?variant=40457832104098)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-Lipocils-Expert-three.jpg?v=1716196623
+    Price: $153.00 USD
 - [Bio Enzymes Mask Neck](https://talika-us.myshopify.com/products/bio-enzymes-mask-neck): Talika’s best anti-aging neck sheet mask for reducing wrinkles, firming & tightening the skin. Boosted with collagen for ultimate rejuvenation.
-  Updated: 2026-06-03T16:19:17Z
+  Updated: 2026-07-18T07:37:37Z
   Vendor: TALIKA11509
   Product Type: Skin Care Masks & Peels
   Availability: Available
@@ -29,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-masks-3-anti-age.jpg?v=1674554966
     Price: $38.00 USD
 - [Bio-Enzymes Mask Neckline](https://talika-us.myshopify.com/products/bio-enzymes-mask-neckline): Tighten and contour the decolletage with this neckline sheet mask for anti-aging and natural rejuvenation through moisturization.
-  Updated: 2026-06-03T16:19:17Z
+  Updated: 2026-07-18T17:32:20Z
   Vendor: TALIKA11510
   Product Type: Skin Care Masks & Peels
   Availability: Available
@@ -46,8 +64,15 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-masks-3-de_ucollete_u.jpg?v=1674555098
     Price: $38.00 USD
+- [Lipocils Mascara XXL Volume](https://talika-us.myshopify.com/products/lipocils-mascara-xxl-volume): Talika Lipocils Mascara XXL Volume is a serum-infused formula for instant lift, volume, and long-term lash strengthening with natural peptides.
+  Updated: 2026-07-17T18:57:09Z
+  Vendor: TALIKA14109
+  Product Type: Eye Makeup
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/files/XXL_VOLUME_Listing_Image_1_small_e15476e9-bdc4-4e77-88bd-edd5534b90ba.jpg?v=1757938731
+  Price: $45.00 USD
 - [Upgrade to Priority Processing](https://talika-us.myshopify.com/products/upgrade-to-priority-processing): With Priority Processing, your order is fast-tracked through our warehouse and dispatched ahead of all standard orders. This optional upgrade ensures your package is picked, packed, and handed off to the carrier as quickly as possible.
-  Updated: 2026-06-17T19:24:13Z
+  Updated: 2026-07-17T16:07:54Z
   Vendor: Talikacosmetics
   Product Type: 
   Availability: Available
@@ -57,151 +82,151 @@
 ## Collections
 
 - [New Arrivals](https://talika-us.myshopify.com/collections/frontpage)
-  Updated: 2026-06-01T11:08:20Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 25
 - [ALL PRODUCTS](https://talika-us.myshopify.com/collections/all-products)
-  Updated: 2026-07-05T11:08:28Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 72
 - [EYE](https://talika-us.myshopify.com/collections/eye)
-  Updated: 2026-07-05T11:08:28Z
+  Updated: 2026-07-08T22:53:13Z
   Total Products: 28
 - [FACE](https://talika-us.myshopify.com/collections/face)
-  Updated: 2026-06-06T03:39:16Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 20
 - [BIO ENZYMES](https://talika-us.myshopify.com/collections/bio-enzymes)
-  Updated: 2026-06-01T11:08:20Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 11
 - [Eye care old](https://talika-us.myshopify.com/collections/eye-care-old)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-08T22:53:06Z
   Total Products: 33
 - [Skin Care](https://talika-us.myshopify.com/collections/skin-care)
-  Updated: 2026-06-01T11:08:20Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 19
 - [Samples](https://talika-us.myshopify.com/collections/samples)
-  Updated: 2026-05-26T19:56:01Z
+  Updated: 2026-07-08T20:51:02Z
   Total Products: 9
 - [Eyelashes](https://talika-us.myshopify.com/collections/eyelashes)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-08T22:53:06Z
   Total Products: 18
 - [Make-up remover](https://talika-us.myshopify.com/collections/make-up-remover)
-  Updated: 2026-05-26T19:56:01Z
+  Updated: 2026-07-08T22:52:54Z
   Total Products: 1
 - [Brows](https://talika-us.myshopify.com/collections/eyebrows)
-  Updated: 2026-05-26T19:56:01Z
+  Updated: 2026-07-08T22:53:03Z
   Total Products: 9
 - [Eye Contour](https://talika-us.myshopify.com/collections/eye-contour)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-08T22:53:06Z
   Total Products: 8
 - [Masks old](https://talika-us.myshopify.com/collections/masks-old)
-  Updated: 2026-06-01T11:08:20Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 13
 - [BODY CARE](https://talika-us.myshopify.com/collections/body-care)
-  Updated: 2026-05-26T19:56:01Z
+  Updated: 2026-07-08T20:51:03Z
   Total Products: 2
 - [BEST SELLERS](https://talika-us.myshopify.com/collections/best-sellers)
-  Updated: 2026-07-05T11:08:28Z
+  Updated: 2026-07-18T11:09:52Z
   Total Products: 34
 - [Popup upselling products](https://talika-us.myshopify.com/collections/popup-upselling-products)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-08T22:53:04Z
   Total Products: 16
 - [Festive Kits](https://talika-us.myshopify.com/collections/festive-kits)
-  Updated: 2026-05-26T19:56:01Z
+  Updated: 2026-07-08T20:51:03Z
   Total Products: 6
 - [Gifts Under $15](https://talika-us.myshopify.com/collections/gifts-under-15)
-  Updated: 2026-06-06T04:52:02Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 15
 - [Gifts Under $35](https://talika-us.myshopify.com/collections/gifts-under-35)
-  Updated: 2026-06-06T04:52:02Z
+  Updated: 2026-07-08T22:52:56Z
   Total Products: 4
 - [Gifts Under $60](https://talika-us.myshopify.com/collections/gifts-under-60)
-  Updated: 2026-06-06T04:52:03Z
+  Updated: 2026-07-08T22:53:13Z
   Total Products: 22
 - [Stocking Stuffers](https://talika-us.myshopify.com/collections/stocking-stuffers)
-  Updated: 2026-06-01T11:08:20Z
+  Updated: 2026-07-08T22:53:06Z
   Total Products: 13
 - [Merry Masking](https://talika-us.myshopify.com/collections/merry-masking)
-  Updated: 2026-06-01T11:08:20Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 14
 - [Best-Sellers](https://talika-us.myshopify.com/collections/best-sellers-1)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-18T11:09:52Z
   Total Products: 10
 - [INFLUENSERS](https://talika-us.myshopify.com/collections/influensers)
-  Updated: 2026-05-26T19:56:01Z
+  Updated: 2026-07-08T20:51:04Z
   Total Products: 0
 - [Talika Products](https://talika-us.myshopify.com/collections/talika-products)
-  Updated: 2026-05-26T19:56:02Z
+  Updated: 2026-07-08T20:51:04Z
   Total Products: 2
 - [SMS](https://talika-us.myshopify.com/collections/sms)
-  Updated: 2026-05-26T19:56:02Z
+  Updated: 2026-07-08T20:51:04Z
   Total Products: 0
 - [Shop My Shelf](https://talika-us.myshopify.com/collections/shop-my-shelf-1)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 39
 - [Faire](https://talika-us.myshopify.com/collections/faire)
-  Updated: 2026-07-05T11:08:28Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 49
 - [EYE CARE](https://talika-us.myshopify.com/collections/eye-care)
-  Updated: 2026-07-05T11:08:28Z
+  Updated: 2026-07-08T22:53:08Z
   Total Products: 16
 - [LASHES](https://talika-us.myshopify.com/collections/lashes)
-  Updated: 2026-07-05T11:08:28Z
+  Updated: 2026-07-08T22:53:13Z
   Total Products: 19
 - [BROWS](https://talika-us.myshopify.com/collections/brows)
-  Updated: 2026-05-31T11:08:45Z
+  Updated: 2026-07-08T22:53:03Z
   Total Products: 11
 - [MASKS](https://talika-us.myshopify.com/collections/masks)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 21
 - [Holiday Bundles](https://talika-us.myshopify.com/collections/holiday-bundles): @media (min-width:800px) { .mobile-image img{ display: none; } .desktop-image{ display:block; width: 100%; } } @media (max-width:800px){ .desktop-image img{ display: none; } .mobile-image{ display:block; width: 100%; margin-bottom:20px; } }
-  Updated: 2026-05-26T19:56:02Z
+  Updated: 2026-07-08T22:53:05Z
   Total Products: 10
 - [ALL CONCERNS](https://talika-us.myshopify.com/collections/all-concern): @media (min-width:800px) { .mobile-image img{ display: none; } .desktop-image{ display:block; width: 100%; } } @media (max-width:800px){ .desktop-image img{ display: none; } .mobile-image{ display:block; width: 100%; margin-bottom:20px; } }
-  Updated: 2026-07-05T11:08:28Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 45
 - [SETS](https://talika-us.myshopify.com/collections/bundles): Get more for less with our specially curated collection of product sets. Save money on your favorite products and discover new favorites too when you purchase one of our bestselling sets.
-  Updated: 2026-05-31T11:08:45Z
+  Updated: 2026-07-08T22:53:08Z
   Total Products: 37
 - [Free Shipping products](https://talika-us.myshopify.com/collections/free-shipping-products)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-08T22:53:06Z
   Total Products: 26
 - [Platinium](https://talika-us.myshopify.com/collections/platinium)
-  Updated: 2026-05-26T19:56:02Z
+  Updated: 2026-07-08T22:52:56Z
   Total Products: 4
 - [Pick & Mix](https://talika-us.myshopify.com/collections/pick-mix)
-  Updated: 2026-06-01T11:08:20Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 12
 - [Memorial Day ](https://talika-us.myshopify.com/collections/memorial-day-): Save 50% in our Memorial Day ! For a limited time only, shop our best sellers and discover new favorites - all at discounted prices.
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-08T22:53:04Z
   Total Products: 9
 - [Eye Patches](https://talika-us.myshopify.com/collections/eye-patches)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-07-08T22:53:06Z
   Total Products: 6
 - [All](https://talika-us.myshopify.com/collections/all)
-  Updated: 2026-07-06T21:55:41Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 166
 - [](https://talika-us.myshopify.com/collections/): Save 40% in the Talika ! For a limited time only - all at discounted prices.
-  Updated: 2026-05-26T19:56:02Z
+  Updated: 2026-07-08T20:51:06Z
   Total Products: 7
 - [all](https://talika-us.myshopify.com/collections/all-1)
-  Updated: 2026-07-05T11:08:28Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 182
 - [SH](https://talika-us.myshopify.com/collections/sh)
-  Updated: 2026-07-05T11:08:28Z
+  Updated: 2026-07-08T22:53:06Z
   Total Products: 52
 - [HAIR](https://talika-us.myshopify.com/collections/hair)
-  Updated: 2026-05-26T19:56:02Z
+  Updated: 2026-07-08T22:53:04Z
   Total Products: 1
 - [EasyGift All Products](https://talika-us.myshopify.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-07-06T21:55:41Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 161
 - [Pigment Patches](https://talika-us.myshopify.com/collections/pigment-patches)
-  Updated: 2026-05-26T19:56:02Z
+  Updated: 2026-07-08T22:53:10Z
   Total Products: 2
 - [Skintelligence](https://talika-us.myshopify.com/collections/skintelligence)
-  Updated: 2026-05-26T19:56:03Z
+  Updated: 2026-07-08T22:53:11Z
   Total Products: 5
 - [New! Shopify performance sharing is now turned on](https://talika-us.myshopify.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-07-06T21:55:41Z
+  Updated: 2026-07-19T11:08:37Z
   Total Products: 182
 
 ## Blogs
