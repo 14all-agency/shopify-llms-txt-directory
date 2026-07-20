@@ -8,12 +8,12 @@
 - Contact Email: info@pelletvoordeel.nl
 - Contact Phone: 0618969108
 - Address: Richterlaan 12, 9207JV, Drachten
-- Updated At: 2026-07-12T18:22:33.960Z
+- Updated At: 2026-07-20T00:00:23.575Z
 
 ## Products
 
 - [Verba Houtpellets afhalen in Drachten | Pelletvoordeel.nl](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak): Je kunt je bestelling afhalen op de Richterlaan 12 in Drachten. Wij zijn op werkdagen geopend van 09:00 tot 17:00 uur. Tijdens het afrekenen kun je eenvoudig aangeven op welke dag je de pellets wilt komen afhalen.
-  Updated: 2026-06-15T14:40:37Z
+  Updated: 2026-07-14T05:18:05Z
   Vendor: Verba
   Product Type: 
   Availability: Available
@@ -21,55 +21,55 @@
   - [1 zak - 15 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146607411544)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 6,99 EUR
+    Price: € 7,99 EUR
   - [5 zakken - 75 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146467590488)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 34,95 EUR
+    Price: € 39,95 EUR
   - [10 zakken - 150 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146467623256)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 69,90 EUR
+    Price: € 79,90 EUR
   - [15 zakken - 225 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55174842384728)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 103,50 EUR
+    Price: € 118,50 EUR
   - [20 zakken - 300 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146467656024)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 138,00 EUR
+    Price: € 158,00 EUR
   - [25 zakken - 375 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55174842417496)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 172,50 EUR
+    Price: € 197,50 EUR
   - [30 zakken - 450 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146467688792)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 207,00 EUR
+    Price: € 237,00 EUR
   - [35 zakken - 525 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146467721560)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 239,00 EUR
+    Price: € 273,00 EUR
   - [40 zakken - 600 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146467754328)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 272,00 EUR
+    Price: € 304,00 EUR
   - [50 zakken - 750 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146467787096)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 335,00 EUR
+    Price: € 380,00 EUR
   - [60 zakken - 900 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146467819864)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/pellet-verba.jpg?v=1776071756
-    Price: € 402,00 EUR
+    Price: € 456,00 EUR
   - [66 zakken - 990 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=55146467852632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/Verba_Pellets_1_Pallet.webp?v=1776071756
-    Price: € 439,00 EUR
+    Price: € 499,00 EUR
   - [70 Zakken - 1050 KG](https://www.pelletvoordeel.nl/products/verba-groen-houtpellets-15-kg-per-zak?variant=57314602910040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/Verba_Pellets_1_Pallet.webp?v=1776071756
-    Price: € 459,00 EUR
+    Price: € 525,00 EUR
 - [VERBA PREMIUM - Houtpellets - ENplus A1](https://www.pelletvoordeel.nl/products/verba-premium-houtpellets-enplus-a1-gecertificeerd-15-kg-per-zak): Waarom Verba Premium Houtpellets? Onze Verba Premium houtpellets zijn ENplus A1 gecertificeerd, wat garant staat voor een uiterst zuivere verbranding, een hoog rendement en minimale asvorming. Ze zijn speciaal ontwikkeld voor pelletkachels, biomassaketels en andere pelletgestookte verwarmingssystemen. Gemaakt van 100% onbehandeld naaldhout uit duurzaam beheerde Europese bossen, zonder toevoegingen of bindmiddelen – puur natuur. Belangrijkste specificaties: Certificering: ENplus A1 & DIN+ Diameter: 6 mm Lengte 40 mm Vochtgehalte 10% Asgehalte 0,7% Netto kleurstofwaarde: 4,7 kWh/kg Verpakkingsvorm: 15 kg per zak Herkomst: Europa (PEFC/FSC-gecertificeerd hout) Houtsoort: 100% naaldhout Afhalen in Drachten Je bent van harte welkom aan de Richterlaan 12 in Drachten. We zijn geopend op werkdagen van 09:00 tot 17:00 uur. Tijdens het afrekenen kun je gemakkelijk aangeven op welke dag je je pellets wilt komen halen. Je bestelling staat meestal klaar binnen 1 uur na bestelling! We helpen je graag met inladen van je pellets! Lokale bezorging Bestel je houtpellets eenvoudig via de webshop en laat ze bij je thuis bezorgen. Wij bezorgen in een straal van 25 kilometer rondom Drachten, zodat je altijd verzekerd bent van snelle en betrouwbare levering. Elke week rijden we een vaste bezorgronde. We stemmen het bezorgmoment samen met je af, zodat je precies weet wanneer je je houtpellets kunt verwachten. Twijfel je of jouw adres binnen de straal valt? Geen probleem! Neem even contact met ons op en we kijken meteen of we bij jou kunnen bezorgen. Thuisbezorgen Wij bezorgen houtpellets door heel Nederland (m.u.v. de Waddeneilanden). We zorgen voor een vlotte en zorgvuldige levering op het door jou gekozen adres. Plaats je een bestelling op werkdagen voor 12:00 uur met een afleveradres in Nederland, dan wordt je bestelling de eerstvolgende werkdag bij ons opgehaald en ontvang je je bestelling een dag later. De verzendkosten worden automatisch in de winkelwagen berekend. Levering binnen 2-3 werkdagen Afleverdatum zelf kiezen in de winkelwagen De levering gebeurt via onze betrouwbare transporteur
   Updated: 2026-07-10T17:27:56Z
   Vendor: Verba
@@ -143,21 +143,21 @@
   Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/Ontwerpzondertitel_1c62b3d9-da1b-4b20-81a7-121e6bc7aaf1.png?v=1756122848
   Price: € 389,00 EUR
 - [VERBA - houtpellets - 66 zakken - 990 kg - Naaldhout pellets - EN plus A1](https://www.pelletvoordeel.nl/products/verba-houtpellets-65-zakken-975-kg-naaldhout-pellets-en-plus-a1): Waarom Verba Houtpellets? Onze Verba Premium houtpellets zijn ENplus A1 gecertificeerd, wat garant staat voor een uiterst zuivere verbranding, een hoog rendement en minimale asvorming.
-  Updated: 2026-05-18T20:46:17Z
+  Updated: 2026-07-14T05:18:16Z
   Vendor: Verba
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/Verba_Groen.jpg?v=1776071756
-  Price: € 439,00 EUR
+  Price: € 499,00 EUR
 - [PURE POWER - HOUTPELLETS - ENplus A1 - 66 zakken - 990 KG - 100% Naaldhout](https://www.pelletvoordeel.nl/products/pure-power-houtpellets-enplus-a1-66-zakken-990-kg): Pure Power Houtpellets Ontdek de betrouwbare warmte van Pure Power houtpellets. Deze hoogwaardige pellets zijn gemaakt van 100% zuiver, onbehandeld hout en bieden een optimale verbranding voor een efficiënte en duurzame warmtebron. Belangrijkste voordelen: Hoge calorische waarde – levert veel warmte per kilo Laag asgehalte – minder schoonmaak, meer comfort Constant van kwaliteit – gelijkmatige korrelgrootte en vochtgehalte Duurzaam geproduceerd – afkomstig uit verantwoord beheerde bossen De oranje zakken van Pure Power zijn een herkenbaar kwaliteitslabel: ideaal voor gebruik in pelletkachels en -ketels. Dankzij hun zuivere samenstelling en constante prestaties geniet je van een comfortabele warmte, terwijl je bijdraagt aan een schonere leefomgeving. Specificaties Pure Power Inhoud: 15 kg per zak Diameter: 6 mm Asgehalte: < 0,7% Calorische waarde: 17,46 Mj/Kg = 4,6Kwh/kg Vochtgehalte: 7,39% | Asgehalte: 0,28% Assmelttemperatuur: 1500°C Bulk dichtheid: ≤ 600 BD ≤ 750 kg/m3 Vochtgehalte: < 10% 66 zakken op een pallet Totaal 990 KG Afhalen in Drachten Je bent van harte welkom aan de Richterlaan 12 in Drachten. We zijn geopend op werkdagen van 09:00 tot 17:00 uur. Tijdens het afrekenen kun je gemakkelijk aangeven op welke dag je je pellets wilt komen halen. Je bestelling staat meestal klaar binnen 1 uur na bestelling! We helpen je graag met inladen van je pellets! Lokale bezorging Bestel je houtpellets eenvoudig via de webshop en laat ze bij je thuis bezorgen. Wij bezorgen in een straal van 25 kilometer rondom Drachten, zodat je altijd verzekerd bent van snelle en betrouwbare levering. Elke week rijden we een vaste bezorgronde. We stemmen het bezorgmoment samen met je af, zodat je precies weet wanneer je je houtpellets kunt verwachten. Twijfel je of jouw adres binnen de straal valt? Geen probleem! Neem even contact met ons op en we kijken meteen of we bij jou kunnen bezorgen. Thuisbezorgen Wij bezorgen houtpellets door heel Nederland (m.u.v. de Waddeneilanden). We zorgen voor een vlotte en zorgvuldige levering op het door jou gekozen adres. Plaats je een bestelling op werkdagen voor 12:00 uur met een afleveradres in Nederland, dan wordt je bestelling de eerstvolgende werkdag bij ons opgehaald en ontvang je je bestelling een dag later. De verzendkosten worden automatisch in de winkelwagen berekend. Levering binnen 2-3 werkdagen Afleverdatum zelf kiezen in de winkelwagen De levering gebeurt via onze betrouwbare transporteur
-  Updated: 2026-07-02T12:51:16Z
+  Updated: 2026-07-17T05:47:35Z
   Vendor: Pure Power
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/Pelletvoordeel_-_Pure_Power_-_15_KG_houtpellets_-_Oranje.jpg?v=1761765114
-  Price: € 499,00 EUR
+  Price: € 519,00 EUR
 - [PURE POWER - HOUTPELLETS - ENplus A1 - Per losse zak | Pelletvoordeel.nl](https://www.pelletvoordeel.nl/products/pure-power-houtpellets-enplus-a1-per-losse-zak): Je kunt je bestelling afhalen op de Richterlaan 12 in Drachten. Wij zijn op werkdagen geopend van 09:00 tot 17:00 uur. Tijdens het afrekenen kun je eenvoudig aangeven op welke dag je de pellets wilt komen afhalen.
-  Updated: 2026-07-12T00:07:56Z
+  Updated: 2026-07-16T11:40:45Z
   Vendor: Pure Power
   Product Type: 
   Availability: Available
@@ -209,7 +209,7 @@
   - [66 zakken - 990 KG](https://www.pelletvoordeel.nl/products/pure-power-houtpellets-enplus-a1-per-losse-zak?variant=55665914675544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/11_0c610e30-8bc3-45a7-9a09-e45e64a976df.png?v=1765804028
-    Price: € 499,00 EUR
+    Price: € 519,00 EUR
 - [PURE POWER - MIX Houtpellets - ENplus A1 - 4-sterren - 66 zakken - 990 KG](https://www.pelletvoordeel.nl/products/pure-power-houtpellets-enplus-a1-66-zakken-990-kg-mix-van-naaldhout-loofhout): Pure Power ENplus A1 4-sterren MIX Houtpellets De Pure Power ENplus A1 4-sterren MIX houtpellets staan garant voor een goede verbranding, intens vlambeeld en hoge warmteafgifte. Deze houtpellets worden in Nederland geproduceerd en bieden een betrouwbaar rendement voor wie comfortabel wil stoken met kwaliteitspellets tegen een scherpe prijs. De pellets zijn gemaakt van gemixte houtsoorten, waaronder loofhout, wat zorgt voor een krachtig vlammenspel en een aangename warmte. Hoewel deze MIX-variant geen 5-sterren kwalificatie draagt, voldoen ze volledig aan de ENplus A1-norm en worden ze vervaardigd uit uitsluitend onbehandeld hout. Dit garandeert een constante kwaliteit en een schone verbranding. Belangrijkste kenmerken: ENplus A1-gecertificeerde 4-sterren houtpellets van gemixte houtsoorten, waaronder naaldhout en loofhout. Goede verbranding en hoog rendement met een intens en levendig vlambeeld. In Nederland geproduceerd uit uitsluitend onbehandeld hout van constante kwaliteit. Eenvoudig te gebruiken, maar kachel mogelijk iets vaker schoonmaken door gemengde houtsoorten. Specificaties Pure Power Inhoud: 15 kg per zak Diameter: 6 mm Calorische waarde: ≥ 4,6 kWh/kg Vochtgehalte: ≤ 10% Asgehalte: ≤ 0,7% Assmelttemperatuur: ≥ 1200°C Bulk dichtheid: ≤ 600 BD ≤ 750 kg/m3 66 zakken op een pallet Totaal 990 KG Afhalen in Drachten Je bent van harte welkom aan de Richterlaan 12 in Drachten. We zijn geopend op werkdagen van 09:00 tot 17:00 uur. Tijdens het afrekenen kun je gemakkelijk aangeven op welke dag je je pellets wilt komen halen. Je bestelling staat meestal klaar binnen 1 uur na bestelling! We helpen je graag met inladen van je pellets! Lokale bezorging Bestel je houtpellets eenvoudig via de webshop en laat ze bij je thuis bezorgen. Wij bezorgen in een straal van 25 kilometer rondom Drachten, zodat je altijd verzekerd bent van snelle en betrouwbare levering. Elke week rijden we een vaste bezorgronde. We stemmen het bezorgmoment samen met je af, zodat je precies weet wanneer je je houtpellets kunt verwachten. Twijfel je of jouw adres binnen de straal valt? Geen probleem! Neem even contact met ons op en we kijken meteen of we bij jou kunnen bezorgen. Thuisbezorgen Wij bezorgen houtpellets door heel Nederland (m.u.v. de Waddeneilanden). We zorgen voor een vlotte en zorgvuldige levering op het door jou gekozen adres. Plaats je een bestelling op werkdagen voor 12:00 uur met een afleveradres in Nederland, dan wordt je bestelling de eerstvolgende werkdag bij ons opgehaald en ontvang je je bestelling een dag later. De verzendkosten worden automatisch in de winkelwagen berekend. Levering binnen 2-3 werkdagen Afleverdatum zelf kiezen in de winkelwagen De levering gebeurt via onze betrouwbare transporteur
   Updated: 2026-05-18T08:38:19Z
   Vendor: Pure Power
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/Modernhoutrek1.png?v=1767954107
   Price: € 54,95 EUR
 - [PURE POWER - HOUTPELLETS - ENplus A1 - 33 zakken - 495 KG - 100% Naaldhout](https://www.pelletvoordeel.nl/products/pure-power-houtpellets-enplus-a1-halve-pallet-33-zakken-100-naaldhout): Pure Power Houtpellets Ontdek de betrouwbare warmte van Pure Power houtpellets. Deze hoogwaardige pellets zijn gemaakt van 100% zuiver, onbehandeld hout en bieden een optimale verbranding voor een efficiënte en duurzame warmtebron. Belangrijkste voordelen: Hoge calorische waarde – levert veel warmte per kilo Laag asgehalte – minder schoonmaak, meer comfort Constant van kwaliteit – gelijkmatige korrelgrootte en vochtgehalte Duurzaam geproduceerd – afkomstig uit verantwoord beheerde bossen De oranje zakken van Pure Power zijn een herkenbaar kwaliteitslabel: ideaal voor gebruik in pelletkachels en -ketels. Dankzij hun zuivere samenstelling en constante prestaties geniet je van een comfortabele warmte, terwijl je bijdraagt aan een schonere leefomgeving. Specificaties Pure Power Inhoud: 15 kg per zak Diameter: 6 mm Asgehalte: < 0,7% Calorische waarde: 17,46 Mj/Kg = 4,6Kwh/kg Vochtgehalte: 7,39% | Asgehalte: 0,28% Assmelttemperatuur: 1500°C Bulk dichtheid: ≤ 600 BD ≤ 750 kg/m3 Vochtgehalte: < 10% 33 zakken op een pallet Totaal 495 KG Afhalen in Drachten Je bent van harte welkom aan de Richterlaan 12 in Drachten. We zijn geopend op werkdagen van 09:00 tot 17:00 uur. Tijdens het afrekenen kun je gemakkelijk aangeven op welke dag je je pellets wilt komen halen. Je bestelling staat meestal klaar binnen 1 uur na bestelling! We helpen je graag met inladen van je pellets! Lokale bezorging Bestel je houtpellets eenvoudig via de webshop en laat ze bij je thuis bezorgen. Wij bezorgen in een straal van 25 kilometer rondom Drachten, zodat je altijd verzekerd bent van snelle en betrouwbare levering. Elke week rijden we een vaste bezorgronde. We stemmen het bezorgmoment samen met je af, zodat je precies weet wanneer je je houtpellets kunt verwachten. Twijfel je of jouw adres binnen de straal valt? Geen probleem! Neem even contact met ons op en we kijken meteen of we bij jou kunnen bezorgen. Thuisbezorgen Wij bezorgen houtpellets door heel Nederland (m.u.v. de Waddeneilanden). We zorgen voor een vlotte en zorgvuldige levering op het door jou gekozen adres. Plaats je een bestelling op werkdagen voor 12:00 uur met een afleveradres in Nederland, dan wordt je bestelling de eerstvolgende werkdag bij ons opgehaald en ontvang je je bestelling een dag later. De verzendkosten worden automatisch in de winkelwagen berekend. Levering binnen 2-3 werkdagen Afleverdatum zelf kiezen in de winkelwagen De levering gebeurt via onze betrouwbare transporteur
-  Updated: 2026-05-18T08:30:43Z
+  Updated: 2026-07-19T09:09:21Z
   Vendor: Pure Power
   Product Type: 
   Availability: Available
@@ -382,7 +382,7 @@
   Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/Ten_Damme_witte_houtpellets_halve_pallet_pelletvoordeel.png?v=1768826574
   Price: € 250,00 EUR
 - [PURE POWER - Volle Pallet Houtpellets - ENplus A1 - Incl bezorging](https://www.pelletvoordeel.nl/products/pure-power-houtpellets-enplus-a1-incl-bezorging): Pure Power Houtpellets Ontdek de betrouwbare warmte van Pure Power houtpellets. Deze hoogwaardige pellets zijn gemaakt van 100% zuiver, onbehandeld hout en bieden een optimale verbranding voor een efficiënte en duurzame warmtebron. Belangrijkste voordelen: Hoge calorische waarde – levert veel warmte per kilo Laag asgehalte – minder schoonmaak, meer comfort Constant van kwaliteit – gelijkmatige korrelgrootte en vochtgehalte Duurzaam geproduceerd – afkomstig uit verantwoord beheerde bossen De oranje zakken van Pure Power zijn een herkenbaar kwaliteitslabel: ideaal voor gebruik in pelletkachels en -ketels. Dankzij hun zuivere samenstelling en constante prestaties geniet je van een comfortabele warmte, terwijl je bijdraagt aan een schonere leefomgeving. Specificaties Pure Power Inhoud: 15 kg per zak Diameter: 6 mm Asgehalte: < 0,7% Calorische waarde: 17,46 Mj/Kg = 4,6Kwh/kg Vochtgehalte: 7,39% | Asgehalte: 0,28% Assmelttemperatuur: 1500°C Bulk dichtheid: ≤ 600 BD ≤ 750 kg/m3 Vochtgehalte: < 10% 66 zakken op een pallet Totaal 990 KG Prijs inclusief thuisbezorgen Wij bezorgen houtpellets door heel Nederland (m.u.v. de Waddeneilanden). We zorgen voor een vlotte en zorgvuldige levering op het door jou gekozen adres. Plaats je een bestelling op werkdagen voor 12:00 uur met een afleveradres in Nederland, dan wordt je bestelling de eerstvolgende werkdag bij ons opgehaald en ontvang je je bestelling een dag later. De verzendkosten worden automatisch in de winkelwagen berekend. Levering binnen 2-3 werkdagen Afleverdatum zelf kiezen in de winkelwagen De levering gebeurt via onze betrouwbare transporteur
-  Updated: 2026-07-12T10:19:07Z
+  Updated: 2026-07-13T07:54:07Z
   Vendor: Pure Power
   Product Type: 
   Availability: Available
@@ -517,7 +517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0894/4350/0376/files/Piniera_Pellets_-_Enplus_A1_-_Pelletvoordeel_-_78_Zakken.jpg?v=1780320170
     Price: € 479,00 EUR
 - [PINIERA - Houtpellets - ENplus A1 - 100% Naaldhout - 66 zakken - 990 kg](https://www.pelletvoordeel.nl/products/piniera-houtpellets-enplus-a1-100-naaldhout-66-zakken-990-kg): Piniera houtpellets zijn gecertificeerd volgens de strengste ENplus® A1-norm — de gouden standaard voor houtpellets in Europa. Met een laag asgehalte van slechts 0,30%, een hoge stookwaarde van 4,89 kWh/kg en een duurzaamheid van 98,7% haal je het maximale uit je pelletkachel of CV-ketel. Specificaties PINIERA Gewicht: 15 kg Doorsnede: 6 mm Asgehalte: 0,30 % As-smeltpunt: 1310 °C Calorische waarde: 4,89 kWh/kg Vochtgehalte: 5,9 % Bulkdichtheid: 670 kg/m³ 66 zakken - 990 KG Keurmerk: ENplus A1 AT384 Afhalen in Drachten Je bent van harte welkom aan de Richterlaan 12 in Drachten. We zijn geopend op werkdagen van 09:00 tot 17:00 uur. Tijdens het afrekenen kun je gemakkelijk aangeven op welke dag je je pellets wilt komen halen. Je bestelling staat meestal klaar binnen 1 uur na bestelling! We helpen je graag met inladen van je pellets! Lokale bezorging Bestel je houtpellets eenvoudig via de webshop en laat ze bij je thuis bezorgen. Wij bezorgen in een straal van 25 kilometer rondom Drachten, zodat je altijd verzekerd bent van snelle en betrouwbare levering. Elke week rijden we een vaste bezorgronde. We stemmen het bezorgmoment samen met je af, zodat je precies weet wanneer je je houtpellets kunt verwachten. Twijfel je of jouw adres binnen de straal valt? Geen probleem! Neem even contact met ons op en we kijken meteen of we bij jou kunnen bezorgen. Thuisbezorgen Wij bezorgen houtpellets door heel Nederland (m.u.v. de Waddeneilanden). We zorgen voor een vlotte en zorgvuldige levering op het door jou gekozen adres. Plaats je een bestelling op werkdagen voor 12:00 uur met een afleveradres in Nederland, dan wordt je bestelling de eerstvolgende werkdag bij ons opgehaald en ontvang je je bestelling een dag later. De verzendkosten worden automatisch in de winkelwagen berekend. Levering binnen 2-3 werkdagen Afleverdatum zelf kiezen in de winkelwagen De levering gebeurt via onze betrouwbare transporteur
-  Updated: 2026-07-12T14:11:32Z
+  Updated: 2026-07-18T20:08:25Z
   Vendor: Piniera
   Product Type: 
   Availability: Available
@@ -551,13 +551,13 @@
   Updated: 2026-02-01T10:36:35Z
   Total Products: 1
 - [Pellets kopen van topkwaliteit?](https://www.pelletvoordeel.nl/collections/pellets): Pellets kopen in Friesland? Ontdek onze voordelige, lokaal geleverde pellets en verwarm je huis efficiënt en duurzaam.
-  Updated: 2026-07-12T11:15:22Z
+  Updated: 2026-07-19T11:15:47Z
   Total Products: 20
 - [Briketten voordelig bestellen?](https://www.pelletvoordeel.nl/collections/briketten): Bestel Briketten voordelig en kies zelf: afhalen in Drachten of thuisbezorging. De beste keuze voor jouw brandstof!
   Updated: 2026-05-18T08:12:16Z
   Total Products: 3
 - [Houtpellets thuis laten bezorgen?](https://www.pelletvoordeel.nl/collections/houtpellets-thuisbezorgd): Houtpellets bestellen? Bij Pelletvoordeel laten we jouw Houtpellets snel en voordelig thuisbezorgen. Geen gesjouw, alleen gemak!
-  Updated: 2026-07-12T11:15:22Z
+  Updated: 2026-07-13T11:18:00Z
   Total Products: 9
 - [Pelletkachel Onderhoud Friesland](https://www.pelletvoordeel.nl/collections/pelletkachel-onderhoud): Professioneel pelletkachel onderhoud in Friesland en Groningen. Zorg voor een optimale werking van uw kachel met onze service.
   Updated: 2026-05-02T18:23:54Z
@@ -566,10 +566,10 @@
   Updated: 2026-06-26T12:56:08Z
   Total Products: 3
 - [Pure Power Pellets voordelig bestellen?](https://www.pelletvoordeel.nl/collections/pure-power): Bestel Pure Power houtpellets voordelig en profiteer van hoge kwaliteit voor uw verwarmingsbehoeften!
-  Updated: 2026-07-12T11:15:22Z
+  Updated: 2026-07-19T11:15:47Z
   Total Products: 11
 - [Verba Pellets voordelig kopen? Bekijk het aanbod op](https://www.pelletvoordeel.nl/collections/verba-pellets): Verba pellets zijn hoogwaardige, FSC-gecertificeerde houtpellets uit Oekraïne. Bestel nu en profiteer van ons scherpe aanbod!
-  Updated: 2026-07-11T11:18:31Z
+  Updated: 2026-07-14T05:18:17Z
   Total Products: 5
 - [Pelfin pellets voordelig bestellen?](https://www.pelletvoordeel.nl/collections/pelfin): Bestel Pelfin pellets voordelig online en ontdek ons ruime aanbod voor de beste prijs per zak. Snel en gemakkelijk geleverd!
   Updated: 2026-06-04T23:03:07Z
@@ -578,10 +578,10 @@
   Updated: 2026-07-09T11:17:09Z
   Total Products: 6
 - [Aanbieding](https://www.pelletvoordeel.nl/collections/aanbieding): Op zoek naar pellets aanbiedingen? Vergelijk prijzen, bespaar slim en koop hoogwaardige houtpellets tegen de beste deals. Tips + actuele kortingen!
-  Updated: 2026-07-11T11:18:31Z
+  Updated: 2026-07-19T11:15:47Z
   Total Products: 2
 - [Piniera](https://www.pelletvoordeel.nl/collections/piniera): Op zoek naar Piniera pellets? Dan ben je bij Pelletvoordeel aan het juiste adres. Piniera houtpellets behoren tot de absolute top als het gaat om kwaliteit, rendement en schone verbranding.
-  Updated: 2026-07-11T11:18:31Z
+  Updated: 2026-07-19T11:15:47Z
   Total Products: 4
 
 ## Blogs
