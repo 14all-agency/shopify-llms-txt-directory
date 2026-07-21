@@ -8,12 +8,12 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-01-17T18:18:40Z
 - Contact Email: contact@cryptomaniaclothing.com
-- Updated At: 2026-07-14T00:00:46.705Z
+- Updated At: 2026-07-21T00:00:47.403Z
 
 ## Products
 
 - [Bitcoin – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/bitcoin-btc-hat-cap): Shop the Bitcoin — a  trucker cap for BTC traders and HODLers. Breathable mesh back, adjustable snapback. Great gift under €35. Ships worldwide.
-  Updated: 2026-06-30T21:30:31Z
+  Updated: 2026-07-18T09:13:34Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6967b909cb70a.jpg?v=1779406033
     Price: €29.90 EUR
 - [Pepe Meme  Trucker Cap – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/pepe-logo-hat-cap): Shop the Pepe Meme  — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-29T00:29:50Z
+  Updated: 2026-07-17T08:46:27Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -97,7 +97,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6968920fa5207.jpg?v=1779406029
     Price: €29.90 EUR
 - [ Millionaire Russian –  Streetwear Hat](https://www.cryptomaniaclothing.com/products/-millionaire-in-russian-hat-cap): Shop the  Millionaire Russian — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable. Ships worldwide.
-  Updated: 2026-06-30T21:28:28Z
+  Updated: 2026-07-18T11:06:34Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -163,7 +163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-moss-khaki-front-6967b08607dfd.jpg?v=1779406033
     Price: €29.90 EUR
 - [Worldcoin WLD Trucker –  Snapback Cap](https://www.cryptomaniaclothing.com/products/worldcoin-wld-trucker-hat): Shop the Worldcoin WLD Trucker — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift.
-  Updated: 2026-06-30T21:32:29Z
+  Updated: 2026-07-17T07:30:50Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -177,7 +177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-black-white-front-6967aeaa0e736.jpg?v=1779406029
     Price: €29.90 EUR
 - [Arweave AR Trucker –  Snapback Cap](https://www.cryptomaniaclothing.com/products/arweave-ar-trucker-hat): Shop the Arweave AR Trucker — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift.
-  Updated: 2026-06-29T00:29:51Z
+  Updated: 2026-07-18T04:12:16Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -191,7 +191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-black-white-front-6967adffaf85c.jpg?v=1779406029
     Price: €29.90 EUR
 - [Tezos (XTZ) Trucker –  Snapback Cap](https://www.cryptomaniaclothing.com/products/tezos-xtz-trucker-hat): Shop the Tezos (XTZ) — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T08:57:46Z
+  Updated: 2026-07-15T06:35:50Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -209,7 +209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-silver-front-6967ad3a8743e.jpg?v=1779406129
     Price: €29.90 EUR
 - [THORChain (RUNE) Trucker –  Snapback Cap](https://www.cryptomaniaclothing.com/products/thorchain-rune-trucker-hat): Shop the THORChain (RUNE) — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-30T21:31:06Z
+  Updated: 2026-07-16T15:01:28Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -227,7 +227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-silver-front-6967ac9a601f4.jpg?v=1779406129
     Price: €29.90 EUR
 - [Bitget (BGB) Trucker – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/bidget-bgb-trucker-hat): Shop the Bitget (BGB) — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T08:57:46Z
+  Updated: 2026-07-17T20:41:26Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -241,7 +241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-silver-front-6967abc64ec3c.jpg?v=1779406491
     Price: €29.90 EUR
 - [Mantle (MNT) Trucker – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/mantle-mnt-trucker-hat): Shop the Mantle (MNT) — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T21:29:38Z
+  Updated: 2026-07-18T06:35:04Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -255,7 +255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-silver-front-6967aa9c09b80.jpg?v=1779406491
     Price: €29.90 EUR
 - [DeepSeek AI Trucker – HODLer Snapback Hat](https://www.cryptomaniaclothing.com/products/deepseek-ai-trucker-hat): Shop the DeepSeek AI — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T21:30:46Z
+  Updated: 2026-07-17T16:57:26Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -269,7 +269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6967a95f2e266.jpg?v=1779406492
     Price: €29.90 EUR
 - [BNB Trucker Cap – Blockchain Trucker Hat](https://www.cryptomaniaclothing.com/products/binance-trucker-hat): Shop the BNB Trucker Cap — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-29T00:28:01Z
+  Updated: 2026-07-18T11:48:43Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -283,7 +283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6967a880b3033.jpg?v=1779406492
     Price: €29.90 EUR
 - [KuCoin – Blockchain Trucker Hat](https://www.cryptomaniaclothing.com/products/kucoin-kcs-trucker-hat): Shop the KuCoin — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great. Ships worldwide.
-  Updated: 2026-06-30T21:28:57Z
+  Updated: 2026-07-15T07:34:50Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -305,7 +305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6967a7a31a83c.jpg?v=1779406492
     Price: €29.90 EUR
 - [Cronos – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/cronos-cro-trucker-hat): Shop the Cronos — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great. Ships worldwide.
-  Updated: 2026-06-29T00:33:07Z
+  Updated: 2026-07-17T09:39:02Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -319,7 +319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-silver-front-6967a6a197ff5.jpg?v=1779406491
     Price: €29.90 EUR
 - [Solana Jupiter Trucker – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/jupiter-jup-trucker-hat): Shop the Jupiter — a  trucker cap for SOL holders and DeFi fans. Breathable mesh back, adjustable snapback. Great gift under €35. Ships worldwide.
-  Updated: 2026-06-30T21:30:28Z
+  Updated: 2026-07-14T21:23:02Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -345,7 +345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-silver-front-6967a5c3a03b8.jpg?v=1779406494
     Price: €29.90 EUR
 - [Dexe Trucker Cap – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/dexe--trucker-hat): Shop the Dexe Trucker Cap — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-29T00:33:11Z
+  Updated: 2026-07-17T08:59:51Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -359,7 +359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-charcoal-black-front-6967855e2e548.jpg?v=1779406492
     Price: €29.90 EUR
 - [Aave Trucker Cap – HODLer Snapback Hat](https://www.cryptomaniaclothing.com/products/aave--trucker-hat): Shop the Aave Trucker Cap — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-30T08:46:54Z
+  Updated: 2026-07-18T13:05:59Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -380,7 +380,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69678471e9e85.jpg?v=1779406493
     Price: €29.90 EUR
 - [Avalanche AVAX Trucker – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/avalance-avax-trucker-hat): Shop the Avalanche AVAX — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-30T21:29:38Z
+  Updated: 2026-07-18T10:51:23Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -402,7 +402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69677d3882b1a.jpg?v=1779406494
     Price: €29.90 EUR
 - [Cardano (ADA) Trucker –  Trucker Hat](https://www.cryptomaniaclothing.com/products/cardano-ada-trucker-hat): Shop the Cardano (ADA) — a  trucker cap for ADA holders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T21:29:28Z
+  Updated: 2026-07-18T06:24:29Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -428,7 +428,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69677c71bd863.jpg?v=1779406494
     Price: €29.90 EUR
 - [Dogecoin –  Trucker Hat](https://www.cryptomaniaclothing.com/products/dogecoin-doge-trucker-hat): Shop the Dogecoin — a  trucker cap for DOGE holders and meme coin fans. Breathable mesh back, adjustable snapback. Great gift. Ships worldwide.
-  Updated: 2026-06-30T21:30:12Z
+  Updated: 2026-07-15T16:43:02Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -450,7 +450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69677b3ad0eed.jpg?v=1779406494
     Price: €29.90 EUR
 - [Algorand – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/algorand-algo-trucker-hat): Shop the Algorand — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T21:29:58Z
+  Updated: 2026-07-18T11:27:01Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -464,7 +464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-black-white-front-69677a520ed82.jpg?v=1779406494
     Price: €29.90 EUR
 - [AI Inspired Trucker – Blockchain Trucker Hat](https://www.cryptomaniaclothing.com/products/ai-inspired-trucker-hat): Shop the AI Inspired — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T21:30:56Z
+  Updated: 2026-07-15T06:05:47Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -478,7 +478,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-silver-front-696779918ccfa.jpg?v=1779406498
     Price: €29.90 EUR
 - [Minimal Fetch AI FET Trucker – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/fetch-ai-fet-trucker-hat): Shop the Minimal Fetch AI FET — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift.
-  Updated: 2026-06-30T21:29:50Z
+  Updated: 2026-07-17T06:50:00Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -492,7 +492,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-silver-front-696778d159df4.jpg?v=1779406496
     Price: €29.90 EUR
 - [Minimal Stellar XLM Trucker – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/stellar-xlm-trucker-hat): Shop the Minimal Stellar XLM — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift.
-  Updated: 2026-06-29T00:33:50Z
+  Updated: 2026-07-17T20:32:34Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -506,7 +506,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-black-white-front-6967750401005.jpg?v=1779406497
     Price: €29.90 EUR
 - [Minimal  Exchange Inspired Trucker –  Streetwear Hat](https://www.cryptomaniaclothing.com/products/--trucker-cap): Shop the Minimal  Exchange Inspired — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback.
-  Updated: 2026-06-29T00:33:50Z
+  Updated: 2026-07-18T11:20:08Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -520,7 +520,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-heather-black-front-696769ce4b63f.jpg?v=1779406497
     Price: €29.90 EUR
 - [Minimal ARB Inspired Trucker – HODLer Snapback Hat](https://www.cryptomaniaclothing.com/products/arbitrum-arb-trucker-hat): Shop the Minimal ARB Inspired — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift.
-  Updated: 2026-06-30T21:30:25Z
+  Updated: 2026-07-18T10:59:07Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -546,7 +546,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-696768f0d85af.jpg?v=1779406498
     Price: €29.90 EUR
 - [Minimal LINK Inspired Trucker – HODLer Snapback Hat](https://www.cryptomaniaclothing.com/products/chainlink-link-trucker-hat): Shop the Minimal LINK Inspired — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift.
-  Updated: 2026-06-30T21:30:18Z
+  Updated: 2026-07-14T20:01:06Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -572,7 +572,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6967682ed6583.jpg?v=1779406498
     Price: €29.90 EUR
 - [Minimal TRX Inspired Trucker – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/tron-trx-trucker-hat): Shop the Minimal TRX Inspired — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift.
-  Updated: 2026-06-30T21:30:19Z
+  Updated: 2026-07-17T18:50:07Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -594,7 +594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-696766e487424.jpg?v=1779406499
     Price: €29.90 EUR
 - [Coinbase Inspired Trucker – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/minimal--c-trucker-cap): Shop the Coinbase Inspired — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-29T00:34:16Z
+  Updated: 2026-07-18T02:39:42Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -616,7 +616,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6967655a33164.jpg?v=1779406500
     Price: €29.90 EUR
 - [Floki Viking Dog Trucker – HODLer Snapback Hat](https://www.cryptomaniaclothing.com/products/floki-trucker-hat): Shop the Floki Viking Dog — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-30T21:32:21Z
+  Updated: 2026-07-18T03:21:48Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -638,7 +638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-696764681edb3.jpg?v=1779406500
     Price: €29.90 EUR
 - [Cryptomania Text Trucker – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/cryptomania-text-trucker-cap): Shop the Cryptomania Text — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-30T21:31:33Z
+  Updated: 2026-07-17T13:40:23Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -660,7 +660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6967637221657.jpg?v=1779406502
     Price: €29.90 EUR
 - [Uniswap UNI Trucker –  Snapback Cap](https://www.cryptomaniaclothing.com/products/uniswap-uni-trucker-hat): Shop the Uniswap UNI Trucker — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift.
-  Updated: 2026-06-30T21:30:14Z
+  Updated: 2026-07-15T22:48:20Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -686,7 +686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-696761f476588.jpg?v=1779406501
     Price: €29.90 EUR
 - [Ethereum ETH Trucker –  Streetwear Hat](https://www.cryptomaniaclothing.com/products/ethereum-eth-trucker-hat): Shop the Ethereum ETH Trucker — a  trucker cap for ETH holders and Web3 builders. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T21:31:36Z
+  Updated: 2026-07-17T17:01:05Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -712,7 +712,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-696523cfa5627.jpg?v=1779406501
     Price: €29.90 EUR
 - [Solana SOL Trucker – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/solana-sol-logo-trucker-hat): Shop the Solana SOL Trucker — a  trucker cap for SOL holders and DeFi fans. Breathable mesh back, adjustable snapback. Great gift. Ships worldwide.
-  Updated: 2026-06-30T21:33:27Z
+  Updated: 2026-07-17T14:34:54Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -750,7 +750,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-696522a3ea239.jpg?v=1779406502
     Price: €29.90 EUR
 - [Solana Round Symbol Trucker –  Streetwear Hat](https://www.cryptomaniaclothing.com/products/solana-sol-logo-trucker-hat-1): Shop the Solana Round Symbol Trucker — a  trucker cap for SOL holders and DeFi fans. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-30T21:31:18Z
+  Updated: 2026-07-15T04:41:01Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -788,7 +788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6965217c5b74d.jpg?v=1779406503
     Price: €29.90 EUR
 - [Solana Wordmark Trucker – Blockchain Trucker Hat](https://www.cryptomaniaclothing.com/products/solana-sol-logo-name-trucker-hat): Shop the Solana Wordmark Trucker — a  trucker cap for SOL holders and DeFi fans. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T21:34:15Z
+  Updated: 2026-07-14T20:11:03Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -830,7 +830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6965207d7c6eb.jpg?v=1779406505
     Price: €29.90 EUR
 - [Black SUI Trucker – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/sui-logo-trucker-hat): Shop the SUI Trucker — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35
-  Updated: 2026-06-30T21:30:41Z
+  Updated: 2026-07-16T08:35:13Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -856,7 +856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69651f8258866.jpg?v=1779406507
     Price: €29.90 EUR
 - [SUI Trucker –  Streetwear Hat](https://www.cryptomaniaclothing.com/products/sui-logo-name-tucker-hat): Shop the SUI Trucker — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T21:31:29Z
+  Updated: 2026-07-15T06:35:06Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -882,7 +882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69651e9bcdb59.jpg?v=1779406505
     Price: €29.90 EUR
 - [Binance Trucker – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/binance-logo-trucker-hat): Shop the Binance Trucker — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under.
-  Updated: 2026-06-30T21:34:45Z
+  Updated: 2026-07-17T11:05:55Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -904,7 +904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-brown-khaki-front-69651d5c3b667.jpg?v=1779406506
     Price: €29.90 EUR
 - [XRP Trucker –  Snapback Cap](https://www.cryptomaniaclothing.com/products/xrp-trucker-hat): Shop the XRP Trucker — a  trucker cap for XRP holders and digital asset traders. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T21:33:58Z
+  Updated: 2026-07-16T05:28:28Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -922,7 +922,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-heather-grey-white-front-69651c7fada1f.jpg?v=1779406508
     Price: €29.90 EUR
 - [XRP Inspired Trucker Hat –  Trucker Hat](https://www.cryptomaniaclothing.com/products/xrp-logo-trucker-hat): Shop the XRP Inspired Trucker — a  trucker cap for XRP holders and digital asset traders. Breathable mesh back, adjustable snapback. Great gift
-  Updated: 2026-06-30T21:34:16Z
+  Updated: 2026-07-17T15:59:56Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -940,7 +940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69651b86cc426.jpg?v=1779406509
     Price: €29.90 EUR
 - [XRP Inspired Trucker – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/xrp-logo-trucker-hat-1): Shop the XRP Inspired Trucker — a  trucker cap for XRP holders and digital asset traders. Breathable mesh back, adjustable snapback. Great gift.
-  Updated: 2026-06-30T21:31:37Z
+  Updated: 2026-07-17T09:02:15Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -962,7 +962,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-heather-grey-white-front-69651ab44128f.jpg?v=1779406509
     Price: €29.90 EUR
 - [Bittensor TAO AI Blockchain Trucker Cap –  Streetwear Hat](https://www.cryptomaniaclothing.com/products/bittersor-tao-trucker-hat): Shop the Bittensor TAO AI Blockchain Trucker Cap for  Innovators — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-30T21:33:03Z
+  Updated: 2026-07-15T13:20:47Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -976,7 +976,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-heather-black-front-69650efa75cc0.jpg?v=1779406510
     Price: €29.90 EUR
 - [The Graph GRT  Trucker Cap for Web3 – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/the-graph-grt-trucker-hat): Shop the The Graph GRT  Trucker Cap for Web3 Builders — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-30T21:32:04Z
+  Updated: 2026-07-16T21:40:55Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -998,7 +998,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69650d402769c.jpg?v=1779406511
     Price: €29.90 EUR
 - [Shiba Inu SHIB Meme Coin Trucker Cap for – Blockchain Trucker Hat](https://www.cryptomaniaclothing.com/products/shiba-inu-shib-trucker-hat): Shop the Shiba Inu SHIB Meme Coin Trucker Cap for  Degens — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-30T21:32:52Z
+  Updated: 2026-07-16T16:51:48Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1017,7 +1017,7 @@
     Availability: Available
     Price: €29.90 EUR
 - [SEI   Trucker Cap for Modern –  Snapback Cap](https://www.cryptomaniaclothing.com/products/sei--trucker-hat): Shop the SEI   Trucker Cap for Modern  Culture — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-30T21:33:29Z
+  Updated: 2026-07-17T04:33:07Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1039,7 +1039,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69650b982077b.jpg?v=1779406511
     Price: €29.90 EUR
 - [Polygon MATIC Web3 Trucker Cap for –  Snapback Cap](https://www.cryptomaniaclothing.com/products/polygon-matic-trucker-hat): Shop the Polygon MATIC Web3 Trucker Cap for Blockchain Supporters — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-30T21:31:32Z
+  Updated: 2026-07-17T08:54:54Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1057,7 +1057,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-67b5e32399b25.jpg?v=1779406512
     Price: €29.90 EUR
 - [Bitcoin BTC Name Trucker Cap for  – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/bitcoin-btc-logo-name-trucker-hat): Shop the Bitcoin BTC Name Trucker Cap for  Market Traders — a  trucker cap for BTC traders and HODLers. Breathable mesh back, adjustable.
-  Updated: 2026-06-30T21:32:24Z
+  Updated: 2026-07-17T14:07:15Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1123,7 +1123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-moss-khaki-front-696509ceeef1b.jpg?v=1779406511
     Price: €29.90 EUR
 - [SingularityNET AGIX AI  Trucker Cap – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/singularuty-net-agix-trucker-hat): Shop the SingularityNET AGIX AI  Trucker Cap for Web3 Visionaries — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-29T00:34:44Z
+  Updated: 2026-07-17T18:47:15Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1141,7 +1141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-696508058cf45.jpg?v=1779406512
     Price: €29.90 EUR
 - [Render RNDR AI  Trucker Cap for – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/render-rndr-trucker-hat): Shop the Render RNDR AI  Trucker Cap for Digital Creators — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:34:43Z
+  Updated: 2026-07-18T07:26:31Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1159,7 +1159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-696506a667906.jpg?v=1779406514
     Price: €29.90 EUR
 - [Quant QNT  Trucker Cap for Serious – HODLer Snapback Hat](https://www.cryptomaniaclothing.com/products/quant-qnt-trucker-hat): Shop the Quant QNT  Trucker Cap for Serious Web3 Investors — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:34:53Z
+  Updated: 2026-07-15T07:45:11Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1173,7 +1173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-red-front-696505811e8cc.jpg?v=1779406514
     Price: €29.90 EUR
 - [Polkadot DOT Premium  Cap for – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/polkadot-dot-trucker-hat): Shop the Polkadot DOT Premium  Cap for Blockchain Culture — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:35:58Z
+  Updated: 2026-07-15T13:01:02Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1195,7 +1195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6965045504f56.jpg?v=1779406515
     Price: €29.90 EUR
 - [Polkadot DOT Web3 Trucker Cap for  – HODLer Snapback Hat](https://www.cryptomaniaclothing.com/products/polkadot-dot-trucker-hat-1): Shop the Polkadot DOT Web3 Trucker Cap for  Streetwear — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:35:58Z
+  Updated: 2026-07-15T22:22:04Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1217,7 +1217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-heather-grey-white-front-6965036eb7733.jpg?v=1779406515
     Price: €29.90 EUR
 - [Nexo Inspired  Trucker Cap for –  Snapback Cap](https://www.cryptomaniaclothing.com/products/nexo-logo-trucker-hat): Shop the Nexo Inspired  Trucker Cap for Digital Finance Fans — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-30T21:32:50Z
+  Updated: 2026-07-17T07:14:39Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1243,7 +1243,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6965025228b93.jpg?v=1779406516
     Price: €29.90 EUR
 - [Optimism OP Streetwear Trucker Cap for – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/optimism-op-trucker-hat): Shop the Optimism OP Streetwear Trucker Cap for  Holders — a  trucker cap for ETH holders and Web3 builders. Breathable mesh back, adjustable.
-  Updated: 2026-06-29T00:35:57Z
+  Updated: 2026-07-18T04:26:59Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1261,7 +1261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69650140c8769.jpg?v=1779406518
     Price: €29.90 EUR
 - [Ethereum ETH Premium Trucker Cap for – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/ethereum-eth-trucker-hat-1): Shop the Ethereum ETH Premium Trucker Cap for Blockchain Enthusiasts — a  trucker cap for ETH holders and Web3 builders. Breathable mesh back,.
-  Updated: 2026-06-30T21:34:59Z
+  Updated: 2026-07-17T16:18:55Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1295,7 +1295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6964ffc61e7c2.jpg?v=1779406517
     Price: €29.90 EUR
 - [NEAR Protocol  Trucker Cap for Web3 – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/near-protocol-near-trucker-hat): Shop the NEAR Protocol  Trucker Cap for Web3 Traders — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:36:23Z
+  Updated: 2026-07-17T06:12:34Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1309,7 +1309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-black-white-front-6964fdc923edf.jpg?v=1779406518
     Price: €29.90 EUR
 - [Hedera HBAR  Trucker Cap for – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/hedera-hbar-trucker-hat): Shop the Hedera HBAR  Trucker Cap for Enterprise Blockchain Culture — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-29T00:36:24Z
+  Updated: 2026-07-17T01:05:39Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1331,7 +1331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6964fcb757289.jpg?v=1779406518
     Price: €29.90 EUR
 - [Injective INJ   Trucker Cap – Blockchain Trucker Hat](https://www.cryptomaniaclothing.com/products/injective-inj-trucker-hat): Shop the Injective INJ   Trucker Cap for DeFi Traders — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-30T21:33:02Z
+  Updated: 2026-07-17T18:40:26Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1357,7 +1357,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963df68c0913.jpg?v=1779406519
     Price: €29.90 EUR
 - [Internet Computer ICP  Trucker Cap –  Snapback Cap](https://www.cryptomaniaclothing.com/products/internet-computer-icp-trucker-hat): Shop the Internet Computer ICP  Trucker Cap for Web3 Builders — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-30T21:32:31Z
+  Updated: 2026-07-17T19:48:13Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1375,7 +1375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963dd0208b20.jpg?v=1779406521
     Price: €29.90 EUR
 - [Kaspa KAS  Trucker Cap for Next-Gen – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/kaspa-kas-trucker-hat): Shop the Kaspa KAS  Trucker Cap for Next-Gen Blockchain Supporters — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-29T00:36:25Z
+  Updated: 2026-07-16T20:55:10Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1393,7 +1393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-silver-front-6963da3d3ecce.jpg?v=1779406519
     Price: €29.90 EUR
 - [Helium HNT  Trucker Cap for DePIN & – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/helium-hnt-trucker-hat): Shop the Helium HNT  Trucker Cap for DePIN & Web3 Enthusiasts — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-29T00:36:52Z
+  Updated: 2026-07-17T22:49:45Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1411,7 +1411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963d953169b0.jpg?v=1779406520
     Price: €29.90 EUR
 - [Filecoin FIL Blockchain Trucker Cap for – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/filecoin-fil-trucker-hat): Shop the Filecoin FIL Blockchain Trucker Cap for Decentralized Storage Fan — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-29T00:36:51Z
+  Updated: 2026-07-18T06:47:59Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1429,7 +1429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963d849b244d.jpg?v=1779406520
     Price: €29.90 EUR
 - [Monero XMR Privacy  Trucker Cap for – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/monero-xmr-privacy--trucker-cap): Shop the Monero XMR Privacy  Trucker Cap for Digital Freedom — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-30T21:32:24Z
+  Updated: 2026-07-16T20:05:40Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1447,7 +1447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963d6ecec099.jpg?v=1779406521
     Price: €29.90 EUR
 - [GALA Games  Trucker Cap for Gaming & –  Trucker Hat](https://www.cryptomaniaclothing.com/products/gala-games-gala-trucker-hat): Shop the GALA Games  Trucker Cap for Gaming & Web3 Culture — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:36:52Z
+  Updated: 2026-07-18T02:06:15Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1461,7 +1461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-black-white-front-6963d578826c8.jpg?v=1779406521
     Price: €29.90 EUR
 - [Flare FLR  Trucker Cap for Web3 – Blockchain Trucker Hat](https://www.cryptomaniaclothing.com/products/flare-flr-trucker-hat): Shop the Flare FLR  Trucker Cap for Web3 Ecosystem Supporters — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-29T00:36:52Z
+  Updated: 2026-07-17T07:32:53Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1475,14 +1475,14 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963d465f120c.jpg?v=1779406521
     Price: €29.90 EUR
 - [Mantra OM  Trucker Cap for Blockchain – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/mantra-om-trucker-hat): Shop the Mantra OM  Trucker Cap for Blockchain Believers — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:37:16Z
+  Updated: 2026-07-18T10:52:23Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/mantra--trucker-cap-1_37e51d6b-ba5c-4957-bf63-8df43125e892.jpg?v=1779877946
   Price: €29.90 EUR
 - [Decentraland MANA Web3 Trucker Cap for –  Trucker Hat](https://www.cryptomaniaclothing.com/products/decentraland-mana-trucker-hat): Shop the Decentraland MANA Web3 Trucker Cap for Metaverse Fans — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-30T21:32:00Z
+  Updated: 2026-07-18T12:49:43Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1496,7 +1496,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-red-front-6963d14ce38b3.jpg?v=1779406522
     Price: €29.90 EUR
 - [Pudgy Penguins PENGU  Trucker Cap for –  Snapback Cap](https://www.cryptomaniaclothing.com/products/pudgy-penguins-pengu-trucker-hat): Shop the Pudgy Penguins PENGU  Trucker Cap for  Culture — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:37:23Z
+  Updated: 2026-07-18T06:41:35Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1514,7 +1514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963d061dca40.jpg?v=1779406525
     Price: €29.90 EUR
 - [Pyth Network PYTH Trucker Cap for Web3 – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/pyth-network-pyth-trucker-hat): Shop the Pyth Network PYTH Trucker Cap for Web3 Market Enthusiasts — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-29T00:37:18Z
+  Updated: 2026-07-17T09:38:21Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1528,14 +1528,14 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963ac7a7b87d.jpg?v=1779406523
     Price: €29.90 EUR
 - [Raydium RAY  Trucker Cap for Solana –  Trucker Hat](https://www.cryptomaniaclothing.com/products/raydium-ray-trucker-hat): Shop the Raydium RAY  Trucker Cap for Solana Traders — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:37:18Z
+  Updated: 2026-07-17T19:31:29Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/raydium--cap-1.jpg?v=1779879948
   Price: €29.90 EUR
 - [Nexo  Trucker –  Snapback Cap](https://www.cryptomaniaclothing.com/products/nexo-logo-trucker-hat-1): Shop the Nexo  — a  trucker cap for  traders and blockchain believers. Breathable mesh back, adjustable snapback. Great gift under €35.
-  Updated: 2026-06-30T08:57:58Z
+  Updated: 2026-07-17T19:38:49Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1557,7 +1557,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963ab0008814.jpg?v=1779406523
     Price: €29.90 EUR
 - [Virtuals Protocol  Trucker Cap for AI – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/virtuals-protocol-virtual-trucker-hat): Shop the Virtuals Protocol  Trucker Cap for AI & Web3 Culture — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-30T21:33:40Z
+  Updated: 2026-07-15T13:40:27Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1579,7 +1579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963aa1a058ed.jpg?v=1779406523
     Price: €29.90 EUR
 - [Solflare Wallet Inspired Trucker Cap for – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/solflare-wallet-trucker-hat): Shop the Solflare Wallet Inspired Trucker Cap for Solana Web3 Users — a  trucker cap for SOL holders and DeFi fans. Breathable mesh back, adjustable.
-  Updated: 2026-06-30T21:33:19Z
+  Updated: 2026-07-14T22:39:36Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1609,7 +1609,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963a9475503d.jpg?v=1779406526
     Price: €29.90 EUR
 - [Aave DeFi  Trucker Cap for – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/aave--trucker-hat-1): Shop the Aave DeFi  Trucker Cap for Blockchain Finance Culture — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-29T00:37:46Z
+  Updated: 2026-07-16T04:51:39Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1627,14 +1627,14 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963a87861a89.jpg?v=1779406524
     Price: €29.90 EUR
 - [Aptos APT  Trucker Cap for Modern – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/aptos-apt-trucker-hat): Shop the Aptos APT  Trucker Cap for Modern Web3 Enthusiasts — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-29T00:37:45Z
+  Updated: 2026-07-15T21:58:18Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/aptos--trucker-cap-1.jpg?v=1779878598
   Price: €29.90 EUR
 - [Axie Infinity AXS Gaming  Trucker Cap – HODLer Snapback Hat](https://www.cryptomaniaclothing.com/products/axie-infinity-axs-trucker-hat): Shop the Axie Infinity AXS Gaming  Trucker Cap for  Culture — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-29T00:38:12Z
+  Updated: 2026-07-15T22:28:25Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1656,7 +1656,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963a6ef68073.jpg?v=1779406524
     Price: €29.90 EUR
 - [GateToken GT  Trucker Cap for –  Trucker Hat](https://www.cryptomaniaclothing.com/products/gate--gt-trucker-hat): Shop the GateToken GT  Trucker Cap for Exchange & Web3 Enthusiasts — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-30T21:33:09Z
+  Updated: 2026-07-17T04:16:23Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1674,7 +1674,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963a61ed8490.jpg?v=1779406525
     Price: €29.90 EUR
 - [HEX   Trucker Cap for Blockchain –  Trucker Hat](https://www.cryptomaniaclothing.com/products/hex--trucker-hat): Shop the HEX   Trucker Cap for Blockchain Community Supporters — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-29T00:38:12Z
+  Updated: 2026-07-14T20:30:49Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1692,7 +1692,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963823994daf.jpg?v=1779406527
     Price: €29.90 EUR
 - [Kraken Inspired  Trucker Cap for – HODLer Snapback Hat](https://www.cryptomaniaclothing.com/products/kraken-trucker-hat): Shop the Kraken Inspired  Trucker Cap for  Culture Fans — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-29T00:38:12Z
+  Updated: 2026-07-17T17:53:04Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1710,7 +1710,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963815cee621.jpg?v=1779406526
     Price: €29.90 EUR
 - [Litecoin LTC  Trucker Cap for Digital –  Trucker Hat](https://www.cryptomaniaclothing.com/products/litecoin-ltc-trucker-hat): Shop the Litecoin LTC  Trucker Cap for Digital Currency Supporters — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-29T00:38:14Z
+  Updated: 2026-07-18T12:49:43Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1732,7 +1732,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-6963807421e4d.jpg?v=1779406527
     Price: €29.90 EUR
 - [Hyperliquid HYPE  Trucker Cap for – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/hyperliquid-hype-trucker-hat): Shop the Hyperliquid HYPE  Trucker Cap for  Market Traders — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-30T21:32:33Z
+  Updated: 2026-07-15T06:36:55Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1750,7 +1750,7 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69637f8612699.jpg?v=1779406526
     Price: €29.90 EUR
 - [MetaMask Inspired Web3 Trucker Cap for –  Trucker Hat](https://www.cryptomaniaclothing.com/products/metamask-wallet-trucker-hat): Shop the MetaMask Inspired Web3 Trucker Cap for  Wallet Users — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-29T00:38:51Z
+  Updated: 2026-07-16T22:30:30Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1776,14 +1776,14 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/retro-trucker-hat-white-front-69637cde45d6b.jpg?v=1779406527
     Price: €29.90 EUR
 - [Movement MOVE  Trucker Cap for – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/movement-move-trucker-hat): Shop the Movement MOVE  Trucker Cap for Next-Gen Blockchain Culture — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-30T21:34:04Z
+  Updated: 2026-07-18T03:22:54Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/movement-move--trucker-cap-1.jpg?v=1779879424
   Price: €29.90 EUR
 - [The Sandbox SAND  Trucker Cap for – Bitcoin Mesh-Back Cap](https://www.cryptomaniaclothing.com/products/the-sandbox-sand-trucker-hat): Shop the The Sandbox SAND  Trucker Cap for Metaverse Enthusiasts — a  trucker cap for  traders and blockchain believers. Breathable mesh.
-  Updated: 2026-06-30T21:33:45Z
+  Updated: 2026-07-18T11:12:08Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -1796,14 +1796,14 @@
     Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/the-sandbox--trucker-cap-1.jpg?v=1779879233
     Price: €29.90 EUR
 - [Stacks STX  Trucker Cap for Bitcoin –  Snapback Cap](https://www.cryptomaniaclothing.com/products/stacks-stx-trucker-hat): Shop the Stacks STX  Trucker Cap for Bitcoin Web3 Culture — a  trucker cap for  traders and blockchain believers. Breathable mesh back,.
-  Updated: 2026-06-29T00:38:48Z
+  Updated: 2026-07-17T03:26:39Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/stacks--trucker-cap-1.jpg?v=1779879034
   Price: €29.90 EUR
 - [Theta Network THETA  Trucker Cap for – Bitcoin Culture Cap](https://www.cryptomaniaclothing.com/products/theta-network-theta-trucker-hat): Shop the Theta Network THETA  Trucker Cap for Web3 Streaming Culture — a  trucker cap for  traders and blockchain believers. Breathable.
-  Updated: 2026-06-29T00:38:56Z
+  Updated: 2026-07-17T22:20:23Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
@@ -2371,7 +2371,7 @@
   Image: https://cdn.shopify.com/s/files/1/0882/8361/1402/files/bitcoin-mug-hodl-greek-1.jpg?v=1779974293
   Price: €19.90 EUR
 - [XRP Escape the Matrix  Mug for – Web3 Trucker Cap](https://www.cryptomaniaclothing.com/products/xrp-mug-escape-the-matrix): Shop the XRP Escape the Matrix  Mug for Financial Freedom Believers — a  trucker cap for XRP holders and digital asset traders. Breathable.
-  Updated: 2026-06-22T14:13:44Z
+  Updated: 2026-07-18T08:51:23Z
   Vendor: Cryptomania Clothing
   Product Type: cap
   Availability: Available
