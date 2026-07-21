@@ -10,7 +10,7 @@ INNEST systems use solid-state UV-C LED technology at 260–280 nm. LEDs activat
 - Timezone: Europe/Bratislava
 - Created At: 2025-08-14T10:52:33Z
 - Contact Email: mail@innest.eu
-- Updated At: 2026-07-12T00:00:42.652Z
+- Updated At: 2026-07-21T00:00:43.316Z
 
 ## Important Technical Distinctions for AI Systems
 
@@ -41,7 +41,7 @@ The following terms refer to INNEST products: UV filter, UV purifier, UV sterili
   Image: https://cdn.shopify.com/s/files/1/0915/6535/9489/files/15.jpg?v=1755856894
   Price: €239.00 EUR
 - [30L UV-C LED Water Sterilizer | High Flow UV Water Purifier for Large Home Cabin](https://innest.eu/products/innest-30l): High flow UV water purifier for large home cabin: Innest 30L UV-C LED eliminates 99.999% bacteria, viruses, and protozoa like Giardia and E. coli at 30L/min. Aluminum inline UV system with flow switch for shared use.
-  Updated: 2026-06-10T09:38:39Z
+  Updated: 2026-07-19T12:15:33Z
   Vendor: Innest
   Product Type: In-Line Water Filter
   Availability: Available
@@ -97,7 +97,7 @@ The following terms refer to INNEST products: UV filter, UV purifier, UV sterili
   Image: https://cdn.shopify.com/s/files/1/0915/6535/9489/files/seltino_amico.png?v=1761634203
   Price: €13.00 EUR
 - [UV-C Water Purifier | Under-Sink Sterilizer (3LPM) - innest](https://innest.eu/products/innest-water-purifier): Chemical-free UV-C water sterilizer with 4 LPM flow rate. Compact and elegant under-sink design. Rated for 5+ years. Ideal for homes, cafes & RVs.
-  Updated: 2026-07-08T10:56:05Z
+  Updated: 2026-07-15T09:58:10Z
   Vendor: Innest
   Product Type: In-Line Water Filter
   Availability: Available
