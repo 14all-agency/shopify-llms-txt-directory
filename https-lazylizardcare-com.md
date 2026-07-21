@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-11T10:54:23Z
 - Contact Email: neha.kwatra176@gmail.com
-- Updated At: 2026-07-14T00:00:33.001Z
+- Updated At: 2026-07-21T00:00:34.787Z
 
 IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our entire skincare range at Lazy Lizard Skincare. This limited-time  applies automatically at checkout.
 
@@ -41,12 +41,23 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
   Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_-_12.png?v=1782742700
   Price: ₹699.00 INR
 - [Lazy Lizard Sip Glow Liposomal Glutathione Effervescent Tablets | Orange Flavour](https://lazylizardcare.com/products/lazy-lizard-sip-glow-liposomal-glutathione-tablets): Lazy Lizard Sip Glow Liposomal Glutathione Effervescent Tablets Ever wished your skin looked healthier and more radiant from within? Lazy Lizard Sip Glow is a delicious orange-flavoured effervescent tablet that easily dissolves in water to become your daily beauty drink. Each tablet contains 600 mg of Liposomal Glutathione, a powerful antioxidant that helps protect your body from everyday stress caused by pollution, UV exposure, and an unhealthy lifestyle. The liposomal form is designed to help your body absorb glutathione more effectively than regular forms. To make the formula even better, we've added Vitamin C, which supports collagen production and works alongside glutathione, Hyaluronic Acid to help maintain skin hydration, Pomegranate Extract and Astaxanthin for antioxidant support, plus Vitamins A, E, Beta Carotene, and Zinc to support healthy skin and overall wellness. Simply drop one tablet into 200 ml of water, let it fizz, and enjoy a refreshing orange drink. No swallowing large pills—just an easy daily routine that fits into your lifestyle. Why you'll love Sip Glow ✨ 600 mg Liposomal Glutathione 🍊 Refreshing Orange Flavour 💧 Hyaluronic Acid for skin hydration 🍎 Powerful antioxidants including Astaxanthin & Pomegranate Extract 🌿 Enriched with Vitamins A, C, E, Beta Carotene & Zinc 🥤 Easy-to-drink effervescent tablets 🚫 0 g Added Sugar 🥬 Vegetarian Formula Recommended Usage: Dissolve 1 tablet in 200 ml of water once daily or as advised by your  professional.
-  Updated: 2026-07-13T23:14:47Z
+  Updated: 2026-07-17T03:51:37Z
   Vendor: LazyLizard-skincare
   Product Type: Effervescent Tablets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Lazylizard.png?v=1783789725
-  Price: ₹580.00 INR
+  - [Pack of 1](https://lazylizardcare.com/products/lazy-lizard-sip-glow-liposomal-glutathione-tablets?variant=54993165877570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Lazylizard.png?v=1783789725
+    Price: ₹580.00 INR
+  - [Pack of 2](https://lazylizardcare.com/products/lazy-lizard-sip-glow-liposomal-glutathione-tablets?variant=54993165910338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Lazylizard.png?v=1783789725
+    Price: ₹1,160.00 INR
+  - [Pack of 3](https://lazylizardcare.com/products/lazy-lizard-sip-glow-liposomal-glutathione-tablets?variant=54993165943106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Lazylizard_-_23.png?v=1783616432
+    Price: ₹1,740.00 INR
 
 ## Collections
 
