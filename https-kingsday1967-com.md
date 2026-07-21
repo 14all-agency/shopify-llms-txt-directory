@@ -8,7 +8,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2022-04-02T11:58:25Z
 - Contact Email: order@kingsday1967.com
-- Updated At: 2026-07-13T00:00:35.806Z
+- Updated At: 2026-07-21T00:00:37.433Z
 
 Kingsday 1967 is het premium Koningsdag kledingmerk van Nederland, opgericht in 2022. Wij ontwerpen exclusieve, eigen oranje streetwear voor Koningsdag (27 april) en voor het Nederlands elftal: T-shirts, hoodies, sweaters, longsleeves, bucket hats en accessoires. Geen standaard oranje feestkleding, maar unieke designs zoals Prins Pils, Prestige, Lion en Nassau.
 Goed om te weten:
@@ -21,7 +21,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
 ## Products
 
 - [Lion Shirt - Premium Shirt voor Koningsdag](https://kingsday1967.com/products/lion-crewneck): Scoor deze exclusieve Lion oranje shirt voor Koningsdag. Gemaakt van premium biologisch katoen, perfect voor festivals, de vrijmibo of gewoon een stijlvolle oranje look. Uniek design voor de echte koning. Verkrijgbaar in oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-06-15T12:41:52Z
+  Updated: 2026-07-16T01:30:19Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -111,7 +111,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/622d6df7e59d8eac73c54ae9a8407021143fa06c-_5.png?v=1773695928
     Price: € 34,95 EUR
 - [Lion Hoodie - Hoodie voor Koningsdag in Premium Kwaliteit](https://kingsday1967.com/products/lion-hoodie): Vier Koningsdag in stijl met onze Lion oranje hoodie. Premium kwaliteit, zachte stof en een opvallend design. Ideaal voor feestjes, koude ochtenden of om op te vallen tijdens Koningsnacht. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:19:47Z
+  Updated: 2026-07-18T12:02:34Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -201,7 +201,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/ef87ca633ca21cbee90a50433a76cb686d565ea9-_5.png?v=1686840934
     Price: € 48,95 EUR
 - [Kings' Shirt - Shirt voor Koningsdag](https://kingsday1967.com/products/kings-crewneck): Draag het Kings' Crewneck oranje shirt als een baas. Premium kwaliteit en uniek design voor Koningsdag. Perfect voor festivals, straatfeesten of chillen in stijl met vrienden. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:19:47Z
+  Updated: 2026-07-17T09:00:56Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -291,7 +291,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1e601d2713dc60162be141dc931be83f6ba2adc4-_5.png?v=1686840878
     Price: € 34,95 EUR
 - [Prince Pils Hoodie](https://kingsday1967.com/products/prince-pils-hoodie): De meest unieke Koningsdag outfit. Karakterstiek door het design met Prince Pils. Voor degenen die niet meer standaard oranje hoodies met Koningsdag willen dragen, maar iets echt unieks zoeken.
-  Updated: 2026-04-25T08:14:48Z
+  Updated: 2026-07-15T06:40:04Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -381,7 +381,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/ddefaa686c4aea026c16b87aa2d3abd5cf57397b.png?v=1741074968
     Price: € 39,95 EUR
 - [Van Gogh Shirt - Artistiek Shirt voor Koningsdag](https://kingsday1967.com/products/van-gogh-edition-crewneck): Een oranje shirt met een kunstzinnig randje. Eerbetoon aan Van Gogh, gemaakt van premium materiaal. Voor wie kunst en Koningsdag stijlvol wil combineren. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:14:47Z
+  Updated: 2026-07-18T11:16:33Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -471,7 +471,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8bacc055e9e91c5841908cacc1c183affdc63a2e-_1.png?v=1686841051
     Price: € 29,95 EUR
 - [Nassau Shirt - Premium Shirt voor Koningsdag](https://kingsday1967.com/products/nassau-crewneck): Het Nassau oranje shirt is jouw moderne klassieker voor Koningsdag. Gemaakt van 100% biologisch katoen met een comfortabele fit en koninklijk design. Premium Koningsdag shirt in oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-06-06T18:25:21Z
+  Updated: 2026-07-18T05:36:42Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -561,7 +561,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88c4678a8bf63b19c9abdbcb96545cbc27fc690e-_1.png?v=1686840941
     Price: € 34,95 EUR
 - [Nassau Hoodie - Warme Hoodie voor Koningsdag](https://kingsday1967.com/products/nassau-hoodie): De Nassau oranje hoodie is jouw go-to voor Koningsdag. Zacht van binnen, stijlvol van buiten. Perfect voor buitenfeestjes of chillen in stijl. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:19:48Z
+  Updated: 2026-07-17T18:27:55Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -651,7 +651,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/18c3b08d1638693cd36825a0fabf18760a19fc84-_1.png?v=1686840965
     Price: € 48,95 EUR
 - [Prince Pils College Shirt - Oranje Shirt met Humor](https://kingsday1967.com/products/prince-pils-college-edition-crewneck): Een oranje shirt in college stijl met een knipoog. Het Prince Pils shirt mixt premium kwaliteit met humor. Perfect voor de feestganger met stijl. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:14:47Z
+  Updated: 2026-07-18T09:20:01Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -741,7 +741,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a8a954e177106be5cdaafd8f340be1186cae2393-_3.png?v=1686840994
     Price: € 29,95 EUR
 - [Willem the II Shirt - Koninklijk Shirt voor Koningsdag](https://kingsday1967.com/products/willem-ii-crewneck): Geschiedenis gemixt met oranje. Dit Willem the I shirt is stijlvol, uniek en perfect voor Koningsdag. Premium kwaliteit voor de moderne royalist. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-06-15T07:13:02Z
+  Updated: 2026-07-18T13:45:38Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -831,7 +831,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/795f8ddc98ad839f69e7122989cc62ed64ee0db0.png?v=1711902923
     Price: € 34,95 EUR
 - [Willem the II Hoodie - Koninklijke Hoodie voor Koningsdag](https://kingsday1967.com/products/willem-the-ii-hoodie): Koninklijke flair in hoodieformaat. De Willem the II oranje hoodie combineert comfort en stijl voor een onvergetelijke Koningsdag. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:14:47Z
+  Updated: 2026-07-18T01:06:43Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -921,7 +921,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1d2714414cbd6b68380789e41a2c0701b2902bdf.png?v=1711902955
     Price: € 39,95 EUR
 - [Orange Hearts Shirt - Stijlvol Shirt voor Koningsdag](https://kingsday1967.com/products/orange-hearts): Laat je hart spreken met dit stijlvolle oranje shirt. De Orange Hearts Crewneck is gemaakt van zachte premium stof. Perfect voor een feestelijke look. Premium shirt in zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-06-15T09:52:17Z
+  Updated: 2026-07-17T12:25:20Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -1011,7 +1011,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9cbc5884751ecf11eed57a28227c58127e4a839e.png?v=1740416195
     Price: € 34,95 EUR
 - [Orange Hearts Hoodie - Koningsdag Hoodie | Kingsday 1967](https://kingsday1967.com/products/orange-hearts-hoodie): Deze Orange Hearts oranje hoodie is jouw stijlvolle keuze voor Koningsdag. Zacht, warm en perfect voor het voorjaar. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:19:51Z
+  Updated: 2026-07-14T22:41:59Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1101,7 +1101,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/181f26036b112229250ea93f9ab43bc7e55bf5fc.png?v=1711193298
     Price: € 48,95 EUR
 - [Signature T-Shirt - Clean Koningsdag Look | Kingsday 1967](https://kingsday1967.com/products/signature-crewneck): Less is more. Het Signature oranje shirt is clean, comfortabel en premium. Voor wie stijlvol wil zijn zonder schreeuwerige prints. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:19:52Z
+  Updated: 2026-07-17T18:05:25Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -1191,7 +1191,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/6d8105a3113dab3b8ffe03334f40a9e8016ede51.png?v=1713016228
     Price: € 34,95 EUR
 - [Prestige T-Shirt - Luxe Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/prestige-crewneck): Voor de stijlvolle feestvierder. Het Prestige oranje shirt is subtiel, hoogwaardig en perfect voor Koningsdag. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-06-06T18:25:21Z
+  Updated: 2026-07-16T23:34:15Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -1281,7 +1281,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/641f374af0fe3f9c85606766dadd966a13207b4d.png?v=1773695301
     Price: € 34,95 EUR
 - [Prins Pils T-Shirt - Grappig Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/prins-pils-crewneck): Prins Pils T-Shirt is onze iconische Koningsdag bestseller. Mega tof design. Oranje, zwart of wit · maten XS–3XL · gratis verzending · op tijd voor Koningsdag.
-  Updated: 2026-07-01T22:36:05Z
+  Updated: 2026-07-17T07:22:13Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -1371,7 +1371,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a37eebe94ecf31fcd02051dcc340cc784586931e.png?v=1774176547
     Price: € 34,95 EUR
 - [Prins Pils Hoodie - Hoodie met Willem Alexander | Kingsday 1967](https://kingsday1967.com/products/prins-pils-hoodie): De legendarische Prins Pils oranje hoodie. Comfortabel, grappig en ideaal voor elk Koningsdagfeest. Premium kwaliteit en gegarandeerd bekijks. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:19:52Z
+  Updated: 2026-07-15T16:19:47Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1461,7 +1461,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/70eee441a972f7ba09636e2c7a4898ab07f983ab.png?v=1774042555
     Price: € 48,95 EUR
 - [Celebrate Like A Royal T-Shirt - Koningsdag | Kingsday 1967](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck): Vier als een koning(in) met dit stijlvolle oranje shirt. Comfort, kwaliteit en een uniek design voor een vorstelijke Koningsdag. Premium shirt in oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:19:56Z
+  Updated: 2026-07-16T17:28:41Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -1551,7 +1551,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9ebaa19b62e52a1df865c754f3775cd55bba5d21.png?v=1741897322
     Price: € 34,95 EUR
 - [Celebrate Like A Royal Hoodie - Luxe Hoodie | Kingsday 1967](https://kingsday1967.com/products/celebrate-like-a-royal-hoodie): Vier Koningsdag in stijl met deze Celebrate Like A Royal oranje hoodie. Hoogwaardige materialen, uniek ontwerp en heerlijk warm. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:14:45Z
+  Updated: 2026-07-17T07:23:46Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1641,7 +1641,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88b508b02a9beef1e2dd031f1f99719b5b28a9a1.png?v=1741897362
     Price: € 39,95 EUR
 - [Prestige Hoodie - Tijdloze Koningsdag Hoodie | Kingsday 1967](https://kingsday1967.com/products/prestige-hoodie): Premium hoodie in oranje voor Koningsdag. Zacht, stijlvol en perfect voor wie comfort en klasse wil combineren op het feest. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:19:48Z
+  Updated: 2026-07-16T23:18:09Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1731,7 +1731,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/e51e2995c780446b21bef272bf3310501469383a.png?v=1741897387
     Price: € 48,95 EUR
 - [Royal Chaos Hoodie - Koningsdag Streetwear | Kingsday 1967](https://kingsday1967.com/products/royal-chaos-hoodie): De Royal Chaos Hoodie van Kingsday 1967. Gave Koningsdag hoodie voor wie opvalt. Verkrijgbaar in zwart. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-04-25T08:14:44Z
+  Updated: 2026-07-17T22:32:24Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1821,7 +1821,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d2f737d00dff435442c416fba582a5cc49f49c4.png?v=1741897468
     Price: € 39,95 EUR
 - [Butterfly Shirt - Festival en Koningsdag Look | Kingsday 1967](https://kingsday1967.com/products/butterfly-crewneck): Deze Butterfly oranje shirt is vrolijk, kleurrijk en gemaakt van premium katoen. Perfect voor een speelse Koningsdag vol plezier. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-06-12T20:51:16Z
+  Updated: 2026-07-15T08:28:56Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -1911,7 +1911,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/455033a03389030dd1651358b6a9cbf04a72d646.png?v=1773696392
     Price: € 34,95 EUR
 - [Buckethat Naar De Maan - Koningsdag | Kingsday 1967](https://kingsday1967.com/products/buckethat-naar-de-maan): De "Naar De Maan" Buckethat voor Koningsdag. Verkrijgbaar in wit, zwart en oranje. One size. Gratis verzending, perfecte aanvulling op je Koningsdag-outfit.
-  Updated: 2026-06-06T18:24:17Z
+  Updated: 2026-07-18T13:58:04Z
   Vendor: Kingsday 1967
   Product Type: Hat
   Availability: Available
@@ -1929,7 +1929,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Astronaut_oranje_241d93ab-6f23-42fa-8a3e-40927910fdfa.png?v=1743150002
     Price: € 18,95 EUR
 - [Buckethat Ga Je Lekker? - Koningsdag 2026 | Kingsday 1967](https://kingsday1967.com/products/buckethat-ga-je-lekker): De "Ga Je Lekker?" Buckethat. De grappigste bucket hat voor Koningsdag. Wit, zwart of oranje. One size. Gratis verzending, perfecte finishing touch.
-  Updated: 2026-06-06T18:24:19Z
+  Updated: 2026-07-16T17:47:34Z
   Vendor: Kingsday 1967
   Product Type: Hat
   Availability: Available
@@ -1947,7 +1947,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Gajelekker_oranje_91225cc4-2140-498d-81b7-637f4d9f1690.png?v=1743161800
     Price: € 18,95 EUR
 - [Leeuw Buckethat - Koningsdag 2026 | Kingsday 1967](https://kingsday1967.com/products/buckethat-leeuw): De Leeuw Buckethat van Kingsday 1967. Nederlandse trots op je hoofd. Wit, zwart of oranje. One size. Gratis verzending.
-  Updated: 2026-06-06T18:24:20Z
+  Updated: 2026-07-18T00:56:59Z
   Vendor: Kingsday 1967
   Product Type: Hat
   Availability: Available
@@ -1965,21 +1965,21 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/mockup-of-a-bucket-hat-floating-over-a-customizable-surface-3033-el1.png?v=1743359526
     Price: € 18,95 EUR
 - [Ariane Koningsdag Zonnebril - Licht & Stijlvol | Kingsday 1967](https://kingsday1967.com/products/ariane-zonnebril-1): De Ariane Zonnebril van Kingsday 1967. Stijlvol accessoire voor Koningsdag. Nu met korting.
-  Updated: 2026-06-06T18:26:08Z
+  Updated: 2026-07-16T21:03:37Z
   Vendor: Kingsday 1967
   Product Type: Accessoire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Ariane_zonnebril.png?v=1741865171
   Price: € 17,95 EUR
 - [Amalia  Koningsdag Zonnebril - Licht & Stijlvol | Kingsday 1967](https://kingsday1967.com/products/amalia-zonnebril): Ben jij al klaar om deze Koningsdag nog beter te maken met de Amalia zonnebril? Een unieke en tijdloze zonnebril met oranje glazen. Nu met korting.
-  Updated: 2026-06-06T18:26:21Z
+  Updated: 2026-07-16T16:56:22Z
   Vendor: Kingsday 1967
   Product Type: Brillen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Amalia_zonnebril_zijkant.png?v=1774975859
   Price: € 19,95 EUR
 - [King of Hearts T-Shirt - Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/king-of-hearts): King of Hearts T-Shirt - uniek Koningsdag design met speelkaart-king in oranje gradient. Premium shirt. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-06-06T18:27:20Z
+  Updated: 2026-07-16T17:09:07Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -2069,7 +2069,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/f8d0e56f8528b8423e6d3b92b71f6e410a9deabf.png?v=1774087301
     Price: € 34,95 EUR
 - [Toeter des Vaderlands - Grappig Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt): De Toeter des Vaderlands - het grappigste Koningsdag shirt van 2026. Koninklijk design met humor. Drie kleuren. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-06-06T18:27:20Z
+  Updated: 2026-07-15T08:27:02Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
@@ -2159,7 +2159,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2edea338302313cc50abc2719ee877385be6a0e8.png?v=1774087371
     Price: € 34,95 EUR
 - [Toeter des Vaderlands - Grappige Koningsdag Sweater | Kingsday 1967](https://kingsday1967.com/products/toeter-des-vaderlands-sweater): De Toeter des Vaderlands - de grappigste Koningsdag sweater van 2026. Koninklijk design met humor. Oranje. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-05-14T17:19:33Z
+  Updated: 2026-07-15T08:29:50Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2249,7 +2249,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/b7d43ff323c0101e69bcf334d4fafd82914cdf4f.png?v=1774175009
     Price: € 49,95 EUR
 - [King of Hearts Sweater - Koningsdag Sweater | Kingsday 1967](https://kingsday1967.com/products/king-of-hearts-sweater): De King of Hearts Sweater - uniek Koningsdag design met speelkaart-king in oranje gradient. Premium sweater. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-05-14T17:19:32Z
+  Updated: 2026-07-18T03:35:11Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2339,7 +2339,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/00f21cd0d6a066851d3cbea6527c5eae3d6d9c9a.png?v=1774096953
     Price: € 49,95 EUR
 - [Prins Pils Sweater - Grappige Koningsdag Sweater | Kingsday 1967](https://kingsday1967.com/products/prins-pils-sweater): De Prins Pils Sweater - het iconische bier-plus-royalty design als premium sweater. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending, op tijd voor 27 april.
-  Updated: 2026-05-14T17:19:32Z
+  Updated: 2026-07-18T05:32:48Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2429,7 +2429,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a40085b19647d7b494f18fc66d4f55ae34cc3518.png?v=1774174894
     Price: € 49,95 EUR
 - [Prestige Sweater - Vintage Koningsdag Sweater | Kingsday 1967](https://kingsday1967.com/products/prestige-sweater): De Prestige Sweater - tijdloos Koningsdag design met vintage streetwear-look. Elk jaar weer goed. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-05-14T17:19:32Z
+  Updated: 2026-07-17T22:53:30Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2519,7 +2519,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2f87cc71f650c27747c0ec4f2a7fe6a46e68d7b9.png?v=1774950268
     Price: € 49,95 EUR
 - [Lion Sweater - Koningsdag Sweater met Nederlandse Leeuw | Kingsday 1967](https://kingsday1967.com/products/lion-sweater): De Lion Sweater met de Nederlandse leeuw. Premium Koningsdag sweater in oranje, zwart of wit. Maten XS–3XL. Gratis verzending, op tijd voor 27 april.
-  Updated: 2026-05-14T17:19:32Z
+  Updated: 2026-07-18T14:22:10Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2581,7 +2581,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1200b-1774174663067.png?v=1774174712
     Price: € 49,95 EUR
 - [Kingsday Original 1967 Longsleeve - Vintage Look | Kingsday 1967](https://kingsday1967.com/products/kingsday-original-1967-longsleeve): Kingsday Original 1967 Longsleeve kopen voor Koningsdag? Dit iconische design is dé bestseller voor 27 april. Verkrijgbaar in wit, maten S t/m XL. Premium kwaliteit, comfortabele fit en perfect voor festivals, vrijmarkt en feestjes. Gratis verzending en op tijd in huis voor Koningsdag.
-  Updated: 2026-06-15T19:21:46Z
+  Updated: 2026-07-17T08:01:11Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2607,7 +2607,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Kingsday_Original_1967_Longsleeve_Back_v2.png?v=1775051039
     Price: € 42,95 EUR
 - [Prins Pils Longsleeve | Kingsday 1967](https://kingsday1967.com/products/prins-pils-longsleeve): Prins Pils Longsleeve voor Koningsdag - het iconische design in zwart en wit met oranje opdruk. 100% biologisch katoen, 180 g/m², dikke stof. Gratis verzending.
-  Updated: 2026-07-12T22:40:48Z
+  Updated: 2026-07-20T02:01:04Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2673,7 +2673,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/dbc05e4f0ba44f4f6ab5533ba45cd407f0d59b26.png?v=1775908477
     Price: € 42,95 EUR
 - [Prestige Longsleeve - Vintage Streetwear | Kingsday 1967](https://kingsday1967.com/products/prestige-longsleeve): Prestige Longsleeve kopen voor Koningsdag? Premium vintage streetwear in zwart en wit met oranje opdruk. 100% biologisch katoen, 180 g/m². Gratis verzending.
-  Updated: 2026-07-12T22:40:49Z
+  Updated: 2026-07-20T02:01:04Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2719,7 +2719,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/94c0982dbfd6c9595ed837cc1fb8fdfe74e25ebc.png?v=1775314063
     Price: € 42,95 EUR
 - [Anti Royal Royal Club Koningsdag Longsleeve | Kingsday 1967](https://kingsday1967.com/products/anti-royal-royal-club-longsleeve): Anti Royal Royal Club Longsleeve voor Koningsdag. Oranje, wit of zwart, 190 g/m² katoen, maten S t/m 2XL. Premium stof. Gratis verzending via PostNL.
-  Updated: 2026-07-12T22:40:48Z
+  Updated: 2026-07-20T02:01:04Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2788,25 +2788,25 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
 ## Collections
 
 - [Koningsdag Kleding](https://kingsday1967.com/collections/koningsdag-kleding): Shop koningsdag kleding voor heren en dames. Oranje shirts, hoodies en accessoires. Unieke designs, maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-02T11:08:59Z
+  Updated: 2026-07-18T12:57:29Z
   Total Products: 34
 - [Koningsnacht Kleding](https://kingsday1967.com/collections/kingsnight): Koningsnacht is de opmaat voor het grootste feest van Nederland. Terwijl anderen die avond nog aan het twijfelen zijn over hun outfit van morgen, sta jij al goed. De Kingsday 1967 Koningsnacht-collectie bestaat uit dezelfde premium shirts en hoodies die je ook een nacht later aandoet. Voor Koningsnacht wil je al subtiel oranje tonen. We hebbe verschillende designs die je ook met Koningsnacht laten opvallen. De hoodies zijn populair voor deze avond: herkenbaar Nederlands, maar warm genoeg voor een late avond buiten. De shirts werken even goed voor wie het liever casual houdt. Alle items zijn verkrijgbaar in zwart, wit en oranje. Maten XS t/m 3XL. Gratis verzending.
-  Updated: 2026-06-16T11:07:09Z
+  Updated: 2026-07-18T12:57:29Z
   Total Products: 11
 - [2024 Collection](https://kingsday1967.com/collections/2024-collection)
-  Updated: 2026-06-15T11:07:45Z
+  Updated: 2026-07-18T04:40:11Z
   Total Products: 5
 - [Koningsdag Shirts](https://kingsday1967.com/collections/crewneck): Ontdek de premium Koningsdag shirts van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-02T11:08:59Z
+  Updated: 2026-07-18T12:53:02Z
   Total Products: 30
 - [Koningsdag Hoodies](https://kingsday1967.com/collections/hoodies): Shop premium Koningsdag hoodies van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending, levering in 1–2 werkdagen.
-  Updated: 2026-06-06T12:09:27Z
+  Updated: 2026-07-18T12:57:29Z
   Total Products: 9
 - [Outlet](https://kingsday1967.com/collections/outlet)
-  Updated: 2026-06-06T23:28:59Z
+  Updated: 2026-07-18T12:53:02Z
   Total Products: 10
 - [Korting](https://kingsday1967.com/collections/korting)
-  Updated: 2026-07-02T11:08:59Z
+  Updated: 2026-07-18T12:53:02Z
   Total Products: 24
 - [Nieuwe collectie](https://kingsday1967.com/collections/nieuw): Nieuwe Koningsdag collectie 2026 - nu met longsleeeves. Premium shirts, hoodies en longsleeves voor 27 april. Gratis verzending, snel geleverd.
   Updated: 2026-06-19T11:10:00Z
@@ -2821,10 +2821,10 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
   Updated: 2026-06-07T00:53:36Z
   Total Products: 3
 - [Oranje Kleding WK voetbal 2026](https://kingsday1967.com/collections/wk-2026): Oranje shirts en hoodies voor het WK 2026. 100% katoen XS–3XL. Premium kwaliteit voor elk Oranje-moment. Gratis verzending.
-  Updated: 2026-07-02T11:08:59Z
+  Updated: 2026-07-18T12:53:02Z
   Total Products: 28
 - [Koningsdag Shirts Dames](https://kingsday1967.com/collections/koningsdag-shirts-dames): Premium Koningsdag shirts voor dames. Biologisch katoen, vegan, regular fit XS–3XL. Draag oranje met stijl op 27 april. Gratis verzending.
-  Updated: 2026-07-02T11:08:59Z
+  Updated: 2026-07-18T12:57:29Z
   Total Products: 31
 - [Koningsdag Sweaters](https://kingsday1967.com/collections/koningsdag-sweaters): Premium Koningsdag sweaters en longsleeves van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending, op tijd voor 27 april.
   Updated: 2026-06-07T13:54:04Z
