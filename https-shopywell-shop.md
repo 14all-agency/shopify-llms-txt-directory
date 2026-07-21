@@ -6,12 +6,14 @@
 - Timezone: Europe/Madrid
 - Created At: 2026-05-31T11:08:47Z
 - Contact Email: aparicoolunaluisjavier6@gmail.com
-- Updated At: 2026-07-12T17:23:20.498Z
+- Updated At: 2026-07-21T00:00:28.232Z
+
+Shopywell is a premium home decor and lifestyle e-commerce store based in Spain, serving customers across Europe, the United Kingdom, and the United States. We offer a carefully curated catalogue of lighting, textiles, furniture accessories, and decorative objects designed for modern, design-conscious living. Our mission is to bring warmth, style, and quality to every home.
 
 ## Products
 
 - [Ventilador Portátil con Spray de Agua | Recargable USB | 4 Velocidades](https://shopywell.shop/products/ventilador-portatil-spray-usb): Ventilador portátil con spray de agua, 4 velocidades y carga USB. Perfecto para verano, playa y viajes. Ligero, potente y disponible en varios colores.
-  Updated: 2026-07-12T07:06:26Z
+  Updated: 2026-07-17T13:10:33Z
   Vendor: Agate
   Product Type: ACCESSORIES
   Availability: Available
@@ -181,7 +183,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/fdc07e89-61ce-40dd-8358-2e1aa0faaf7c.jpg?v=1783461373
     Price: 14,00 € EUR
 - [Portable Mini Thermal Label Printer Home Photo Printer Student Wrong Question Printer Bluetooth-compatible Mini Label Printer Price Tag](https://shopywell.shop/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag): Overview: 1. Efficient learning, 200 million free genuine open question banks; The Phomemo T02 series is a mini pocket printer that does not require ink. The independently developed app is more suitable for foreign users' usage habits. The app supports 10 languages (Chinese, Traditional Chinese, English, Japanese, Korean, Thai, French, German, Spanish, Portuguese) suitable for foreign trade styles. Apple iOS, Android download app, mobile Bluetooth link, built-in high-quality lithium battery, easy to carry, capable of printing images, text, errors, and supporting various specifications of label printing Product information: Material: ABS Style: simple and stylish Features: Thermal paper printing Color: white, pink Product size: 87mm×90mm×40mm Connection method: Bluetooth Print type: inkless printing Printing technology: thermal printing Compatible system: Android 4.4/iOS8.0 and above Power supply mode: lithium battery Battery capacity: 1000mAh Model number: Green (including a roll of 1-meter 1 roll of sticky paper ) Pink (including a roll of 1-meter 1 roll of sticky paper) White(including a roll of 1-meter 1 roll of sticky paper) Blue (including a roll of 1-meter 1 roll of sticky paper) Yellow (including a roll of 1-meter 1 roll of sticky paper) All green(including a roll of 1-meter 1 roll of sticky paper) Transparent Printer paper: 3 rolls 50mm*3.5m20 year transparent black letter thermal adhesive Style A: 50mm * 3.5m 10-year white background with black lettering thermosensitive adhesive（ Sticky paper ） Style B: 53mm * 6.5m 5-year-old yellow, pink, and blue background with black lettering on regular thermal paper (nonadhesive) Style C: 50mm * 3.5m 20-year green, purple, orange with black lettering thermosensitive adhesive（Sticky paper） Blue set: Blue printer +4 rolls Sticky paper Green set: Green printer +4 rolls Sticky paper Pink set: Pink printer +4 rolls Sticky paper White set: White printer +4 rolls Sticky paper Yellow set: Yellow printer +4 rolls Sticky paper Size Information: Packing list: Printer*1 Product Image: Actual Product Photo
-  Updated: 2026-07-09T10:02:26Z
+  Updated: 2026-07-20T15:09:06Z
   Vendor: Agate
   Product Type: ACCESSORIES
   Availability: Available
@@ -1675,7 +1677,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/f51e8111-a033-42df-a393-36cc96d5f2ac.jpg?v=1783528196
     Price: 2,72 € EUR
 - [New Interactive Cat Toys Ball Auto Electric Rolling Ball Toys For Cat Kitty Pets Smart Automatic Teaser USB Rechargeable Cat Toy Pet Products](https://shopywell.shop/products/new-interactive-cat-toys-ball-auto-electric-rolling-ball-toys-for-cat-kitty-pets-smart-automatic-teaser-usb-rechargeable-cat-toy-pet-products): Overview: 【High guality】Food grade ABS material, no pressure for cats to bite. 【Intelligent】In intelligent mode, you can wake up by patting, simulate the escape trajectory of prey, roll and hit obstacles, and then intelligently choose the route to avoid 【Quiet】Give the cat a strange night and give you a quiet sleep. 90% of the cache material package in the outer layer, rolling quiet, day and night, play if you want. 【Bite resistance and durability】Soft and skin friendly silicone wrap, in addition to rolling quietly, increases friction, and takes into account bite resistance and durability. Product information: Color: sapphire blue, orange red, emerald green Material: ABS Category: Pet Toys Packing list: 1* Cat Toy Ball Product Image:
-  Updated: 2026-07-09T22:01:20Z
+  Updated: 2026-07-18T17:06:47Z
   Vendor: Agate
   Product Type: ACCESSORIES
   Availability: Available
@@ -2473,7 +2475,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/0f5b7b29-afc8-4550-a2ac-07a4ff3ba370.jpg?v=1783768333
     Price: 18,00 € EUR
 - [Chic Sleeveless Suit Summer Pullover Long Top With Pockets And Loose Straight-leg Pants Women's Trousers Set](https://shopywell.shop/products/chic-sleeveless-suit-summer-pullover-long-top-with-pockets-and-loose-straight-leg-pants-womens-trousers-set): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: Gray, Army Green Size: S, M, L, XL, XXL Main Fabric Composition: 100%Polyester Top Style: T-shirt Sleeve Length: Sleeveless Craftsmanship: 3D Cutting Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top*1+ Pants *1 Product Image:
-  Updated: 2026-07-12T16:52:56Z
+  Updated: 2026-07-17T10:09:52Z
   Vendor: Agate
   Product Type: ACCESSORIES
   Availability: Available
@@ -2519,7 +2521,7 @@
     Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/22d51744-6f75-4226-957b-772e504b9878_water.jpg?v=1783874996
     Price: 44,00 € EUR
 - [Sexy Split Swimsuit High Waist Swimsuit Outfit Bikini](https://shopywell.shop/products/sexy-split-swimsuit-high-waist-swimsuit-outfit-bikini): Product information: Color: Black, Army Green, brown, pink, gray and blue Size: S,M,L,XL,2XL Lining composition: Spandex Lining component content: 20 Style: briefs Pattern style: solid color, sexy, tight, backless, European and American Lining name: Polyester Fabric name: Nylon Applicable scenarios: swimming and wading Applicable Gender: Female Applicable age:  Fabric composition: Nylon Sleeve length: sleeveless Packing list: Bikini*1 Product Image:
-  Updated: 2026-07-12T16:58:20Z
+  Updated: 2026-07-13T04:54:26Z
   Vendor: Agate
   Product Type: ACCESSORIES
   Availability: Available
@@ -2724,42 +2726,136 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/abbc611a-7180-451d-bbb6-184d157c348e.jpg?v=1783875261
     Price: 38,00 € EUR
+- [Silicone USB Cable Winder Desktop Cable Organizer Management Multipurpose Clips Cables Protector For Wired Headphones](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones): Product name: Desktop Cable Manager Function: Organize wires Colour: Black Material: Organic silicone
+  Updated: 2026-07-14T10:42:45Z
+  Vendor: Agate
+  Product Type: ACCESSORIES
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/31c404fb-36da-4f33-b71f-52324e7e66d1.jpg?v=1783982562
+  - [3 clips](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224094542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/14676243486524.png?v=1783982561
+    Price: 8,00 € EUR
+  - [3 clips2PCS](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224127310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/994352664952.jpg?v=1783982561
+    Price: 8,00 € EUR
+  - [3clips 6pc](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224160078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/b968432c-1dfe-48e7-90ba-612cb430dfb7.jpg?v=1783982561
+    Price: 8,00 € EUR
+  - [5 clips](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224192846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/5216392356746.png?v=1783982561
+    Price: 8,00 € EUR
+  - [5 clips2PCS](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224225614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/924472527858.jpg?v=1783982561
+    Price: 8,00 € EUR
+  - [5clips 6pc](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224258382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/92445f5c-153f-4c74-af03-3d59a73a968e.jpg?v=1783982560
+    Price: 8,00 € EUR
+  - [5holes](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224291150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/1437324960044.jpg?v=1783982561
+    Price: 8,00 € EUR
+  - [7 clips](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224323918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/22244943608664.jpg?v=1783982560
+    Price: 8,00 € EUR
+  - [7 clips2PCS](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224356686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/764ac543-c5d9-4e10-bd75-d4d874146966.jpg?v=1783982561
+    Price: 8,00 € EUR
+  - [7clips 6pc](https://shopywell.shop/products/silicone-usb-cable-winder-desktop-cable-organizer-management-multipurpose-clips-cables-protector-for-wired-headphones?variant=60124224389454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/928ee619-3784-4f7c-b26e-4189c2a096b4.jpg?v=1783982561
+    Price: 8,00 € EUR
+- [Portable USB Air Conditioner Cooling Fan With 5 Sprays 7 Color Light 600ML Water Tank Spray Mist Air Cooler Humidifiers](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers): Overview: 1. Fan And Humidifiers 2. 7 Color Led Lights 3. Leather Handle Design 4. Fan Adjustable Up And Down 5. Removable Water Tank Design 6. Simply Connect The USB Cable To The Devices 7. Super Quiet And Energy Saving 8. Create A Personal Comfort Zone Product information: Power mode: USB Applicable area: 20 square meters Wind speed range: 5th gear Operation method: buttons Packaging volume: 21 * 11.5 * 27.5CM Color: New USB plug in model [white], new USB plug in model [black], new USB plug in model [green] Packing list: Fan * 1 power cord * 1 manual * 1
+  Updated: 2026-07-14T10:50:18Z
+  Vendor: Agate
+  Product Type: ACCESSORIES
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/518609c7-7777-4d2c-95fc-5af9e937086c.jpg?v=1783983012
+  - [Black / Chargeable](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124262760782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/f5626a98-026a-4a9b-9ce1-73cb0ff9ac72.jpg?v=1783983011
+    Price: 35,00 € EUR
+  - [Black / USB](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124262793550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/f5626a98-026a-4a9b-9ce1-73cb0ff9ac72.jpg?v=1783983011
+    Price: 35,00 € EUR
+  - [Green / Chargeable](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124262826318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/8f503606-590e-473e-bd7f-a42ee6968094.jpg?v=1783983011
+    Price: 35,00 € EUR
+  - [Green / USB](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124262859086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/bc3eb132-0ee2-455c-b19b-7a224a66d368.jpg?v=1783983011
+    Price: 35,00 € EUR
+  - [Purple / Chargeable](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124262891854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/c39e3c9e-865d-4529-8f31-a00c90a28e81.jpg?v=1783983011
+    Price: 35,00 € EUR
+  - [Purple / USB](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124262924622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/c39e3c9e-865d-4529-8f31-a00c90a28e81.jpg?v=1783983011
+    Price: 35,00 € EUR
+  - [Set1 / Chargeable](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124262957390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/8394351e-6467-4189-8e2f-62249c9e8503.jpg?v=1783983011
+    Price: 35,00 € EUR
+  - [Set2 / Chargeable](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124262990158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/1923dfaf-bdc5-410d-a96f-1c944b469b73.jpg?v=1783983011
+    Price: 35,00 € EUR
+  - [Set3 / Chargeable](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124263022926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/a0befe9c-e811-4d86-a21e-1bd6a2bba9e7.jpg?v=1783983012
+    Price: 35,00 € EUR
+  - [White / Chargeable](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124263055694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/0d6ed788-9df4-41d9-961d-fc7ddb596e53.jpg?v=1783983011
+    Price: 35,00 € EUR
+  - [White / USB](https://shopywell.shop/products/portable-usb-air-conditioner-cooling-fan-with-5-sprays-7-color-light-600ml-water-tank-spray-mist-air-cooler-humidifiers?variant=60124263088462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1041/9404/8334/files/317ce430-e0d6-4cab-9886-3f42cf0355f8.jpg?v=1783983013
+    Price: 35,00 € EUR
+[List Continued](https://shopywell.shop/a/llms-agent/llms.txt?shop=zxu9hb-nd.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTkzMjkyMDc5MTM3NCwibGFzdF92YWx1ZSI6IjE1OTMyOTIwNzkxMzc0In0%3D)
 
 ## Collections
 
-- [Home page](https://shopywell.shop/collections/frontpage): Descubre miles de productos para tu hogar, familia y estilo de vida. Ofertas increíbles y envíos rápidos en Shopywell.
-  Updated: 2026-07-12T16:54:23Z
-  Total Products: 19
-- [Decoración](https://shopywell.shop/collections/decoracion): Explora nuestra colección de decoración para el hogar. Piezas únicas con estilo cálido y premium para transformar tu espacio.
-  Updated: 2026-07-03T09:14:39Z
-  Total Products: 0
-- [Iluminación](https://shopywell.shop/collections/iluminacion): Explora nuestra colección de iluminación: lámparas, luces LED y accesorios para crear ambientes cálidos y con estilo en tu hogar.
-  Updated: 2026-07-07T11:09:07Z
-  Total Products: 0
-- [Default example products](https://shopywell.shop/collections/asset-pack-54061465602-example-products)
-  Updated: 2026-07-07T11:08:55Z
-  Total Products: 0
-- [Decoración](https://shopywell.shop/collections/shopywell-decoracion): Explora nuestra colección de decoración para el hogar. Piezas únicas y elegantes para transformar cualquier espacio.
-  Updated: 2026-07-07T11:10:37Z
-  Total Products: 0
-- [Decoración](https://shopywell.shop/collections/decoracion-hogar): Descubre nuestra colección de decoración del hogar en Shopywell. Velas LED, accesorios y más para transformar tu espacio con estilo.
-  Updated: 2026-07-07T11:01:10Z
-  Total Products: 0
+- [Novedades](https://shopywell.shop/collections/novedades): Descubre las últimas novedades de Shopywell. Nuevos productos en hogar, electrónica, moda y más. ¡Actualizado cada semana!
+  Updated: 2026-07-20T16:18:41Z
+  Total Products: 32
 - [Balones de Fútbol](https://shopywell.shop/collections/balones-de-futbol): Compra balones de fútbol profesionales y de entrenamiento. Talla 4 y 5, PU y TPU. Envío rápido a toda España.
-  Updated: 2026-07-07T10:50:25Z
-  Total Products: 0
+  Updated: 2026-07-13T22:51:26Z
+  Total Products: 1
 - [Camisetas y Jerseys de Fútbol](https://shopywell.shop/collections/camisetas-jerseys-futbol): Compra camisetas y jerseys de fútbol de selecciones y equipos. Retro y actuales, para toda la familia. Envío rápido.
-  Updated: 2026-07-08T16:30:26Z
-  Total Products: 3
+  Updated: 2026-07-20T16:36:43Z
+  Total Products: 11
 - [Calcetas y Accesorios de Fútbol](https://shopywell.shop/collections/calcetas-accesorios-futbol): Compra calcetas antideslizantes y accesorios de fútbol. Grip, comodidad y estilo para el campo. Envío rápido.
   Updated: 2026-07-07T11:03:11Z
   Total Products: 0
 - [Equipamiento de Entrenamiento de Fútbol](https://shopywell.shop/collections/equipamiento-entrenamiento-futbol): Compra equipamiento de entrenamiento de fútbol: aros de agilidad, tapetes de dribbling y más. Envío rápido.
-  Updated: 2026-07-09T10:01:40Z
-  Total Products: 2
-- [Electrónica y Accesorios](https://shopywell.shop/collections/electronica-y-accesorios): Compra tabletas LCD, organizadores de cables y gadgets tecnológicos. Calidad y precio. Envío rápido.
-  Updated: 2026-07-10T23:32:24Z
-  Total Products: 1
+  Updated: 2026-07-20T16:36:40Z
+  Total Products: 6
+- [Electrónica y Gadgets](https://shopywell.shop/collections/electronica-y-gadgets): Descubre nuestra selección de electrónica y gadgets: tablets, cámaras, accesorios y más. Tecnología al mejor precio en Shopywell.
+  Updated: 2026-07-20T16:25:18Z
+  Total Products: 4
+- [Mascotas](https://shopywell.shop/collections/mascotas): Descubre nuestra selección de productos para mascotas: comederos automáticos, juguetes interactivos y accesorios para perros y gatos.
+  Updated: 2026-07-14T23:26:55Z
+  Total Products: 0
+- [Ropa y Moda](https://shopywell.shop/collections/ropa-y-moda): Explora nuestra colección de ropa y moda: camisetas, pantalones, bikinis y chaquetas para hombre y mujer a precios competitivos.
+  Updated: 2026-07-14T23:27:38Z
+  Total Products: 0
+- [Calzado](https://shopywell.shop/collections/calzado): Descubre nuestra selección de calzado deportivo y zapatillas para hombre, mujer y niños a precios competitivos.
+  Updated: 2026-07-14T23:28:10Z
+  Total Products: 0
+- [Hogar](https://shopywell.shop/collections/hogar): Descubre nuestra selección de productos para el hogar: decoración, iluminación y accesorios a precios competitivos.
+  Updated: 2026-07-14T23:28:43Z
+  Total Products: 0
 
 ## Blogs
 
@@ -2788,6 +2884,15 @@
   - [La Evolución De La Decoración Del Hogar A Través Del Tiempo](https://shopywell.shop/blogs/news/la-evolucion-de-la-decoracion-del-hogar-a-traves-del-tiempo): La Evolución De La Decoración Del Hogar A Través Del Tiempo
     Updated: 2026-07-11T01:22:11Z
     Author: luisjavieraparicioluna
+  - [Consejos Para Combinar Muebles Antiguos Y Modernos](https://shopywell.shop/blogs/news/consejos-para-combinar-muebles-antiguos-y-modernos): Consejos Para Combinar Muebles Antiguos Y Modernos
+    Updated: 2026-07-14T00:40:52Z
+    Author: luisjavieraparicioluna
+  - [Diferencias Entre Decoración Minimalista Y Estilo Nórdico](https://shopywell.shop/blogs/news/diferencias-entre-decoracion-minimalista-y-estilo-nordico): Diferencias Entre Decoración Minimalista Y Estilo Nórdico
+    Updated: 2026-07-16T00:49:53Z
+    Author: luisjavieraparicioluna
+  - [Tutorial Visual Para Crear Un Espacio Personalizado Único](https://shopywell.shop/blogs/news/tutorial-visual-para-crear-un-espacio-personalizado-unico): Tutorial Visual Para Crear Un Espacio Personalizado Único
+    Updated: 2026-07-18T01:12:57Z
+    Author: luisjavieraparicioluna
 
 ## Store Pages
 
@@ -2808,6 +2913,31 @@
   Updated: 2026-07-01T17:35:31+02:00
 - [Contact Information](https://shopywell.shop/policies/contact-information)
   Updated: 2026-06-03T18:30:13+02:00
+
+## About Shopywell
+Shopywell is a premium home decor and lifestyle store curating lighting, textiles, furniture accessories, and decorative objects for modern living. Founded in Spain, we serve customers across Europe, the UK, and the US.
+
+## Product Categories
+- Lighting & Lamps
+- Textiles & Cushions
+- Home Accessories & Decor
+- Furniture Accessories
+- Lifestyle & Gift Items
+
+## Markets & Shipping
+- Spain (ES) — Primary market, EUR
+- European Union — EUR
+- United Kingdom — GBP
+- United States — USD
+
+## Social Media
+- TikTok: https://www.tiktok.com/@shopywell
+- Instagram: https://www.instagram.com/shopywell
+
+## Store Policies
+- Fast shipping across Europe
+- Easy returns
+- Secure checkout with multiple payment methods
 
 ## Optional
 
@@ -2890,3 +3020,8 @@ your agent can transact everywhere.
 - Shopify developer platform: https://shopify.dev
 - UCP specification: https://ucp.dev
 - Shop skill (recommended for personal shopping agents): https://shop.app/SKILL.md
+
+Shopywell — Premium Home Decor & Lifestyle | shopywell.shop
+Serving customers in Spain, the EU, the United Kingdom, and the United States.
+All products are carefully curated to meet premium quality and design standards.
+For inquiries, visit: https://shopywell.shop
