@@ -6,170 +6,185 @@
 - Timezone: Europe/London
 - Created At: 2025-11-25T17:20:33Z
 - Contact Email: hello@thereedit.co.uk
-- Updated At: 2026-07-12T14:19:34.558Z
+- Updated At: 2026-07-21T00:00:24.914Z
 
 ## Products
 
 - [Shoreline Herringbone Necklace | Waterproof Gold](https://www.thereedit.co.uk/products/shoreline-herringbone-necklace): Meet the Shoreline Herringbone Necklace: a smooth 18ct gold plated chain that is waterproof, tarnish-resistant and hypoallergenic for effortless daily wear.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:18Z
   Vendor: the re.edit
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/003b84a1-4500-4343-a963-1e4a58bb9357.png?v=1782931983
-  Price: £24.00 GBP
+  Price: £32.00 GBP
 - [Joyful Heart Necklace | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/joyful-heart-necklace): A polished 18ct gold plated heart necklace with a front T-bar clasp. Waterproof, tarnish-resistant and hypoallergenic for joyful everyday styling.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:20Z
   Vendor: the re.edit
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/7623bd97-abff-4c4d-a908-103d842e03a0.png?v=1782925289
-  Price: £24.00 GBP
+  Price: £36.00 GBP
 - [Sunday Paperclip Necklace | Waterproof Gold](https://www.thereedit.co.uk/products/sunday-paperclip-chain-necklace): A modern 18ct gold plated paperclip chain with light-catching links. Waterproof, tarnish-resistant and hypoallergenic for effortless everyday styling.
-  Updated: 2026-07-12T13:34:36Z
+  Updated: 2026-07-20T16:01:21Z
   Vendor: the re.edit
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/bc1440fc-1217-4cf5-aa83-33d09994c6ab.png?v=1782925287
-  Price: £24.00 GBP
+  Price: £30.00 GBP
 - [Celestial Bead Necklace | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/celestial-bead-necklace): A delicate 18ct gold plated station necklace with polished bead details. Waterproof, tarnish-resistant and hypoallergenic for easy everyday layering.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:22Z
   Vendor: the re.edit
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/81d444b1-f531-46c4-8e74-8f59dab7d38a_1.png?v=1782925290
-  Price: £22.00 GBP
+  Price: £30.00 GBP
 - [Morning Light Solitaire Necklace | Waterproof Gold](https://www.thereedit.co.uk/products/morning-light-solitaire-pendant-necklace): A delicate 18ct gold plated solitaire necklace with a cubic zirconia pendant. Waterproof, tarnish-resistant and hypoallergenic for subtle daily sparkle.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:23Z
   Vendor: the re.edit
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/3aac142f-0a0a-4cde-8e33-faee0fab826d.png?v=1782925290
-  Price: £24.00 GBP
+  Price: £30.00 GBP
 - [Shoreline Layered Necklace | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/shoreline-layered-necklace): Two delicate 18ct gold plated chains in one easy layered necklace. Waterproof, tarnish-resistant and hypoallergenic for an instantly styled golden look.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:25Z
   Vendor: the re.edit
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/cd4a51bf-5fd4-481b-bc92-a0bf7ee04a49_1.png?v=1782925292
-  Price: £24.00 GBP
+  Price: £36.00 GBP
 - [Seabright Shell Necklace | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/seabright-shell-pendant-necklace): A delicate 18ct gold plated shell pendant necklace with a soft coastal feel. Waterproof, tarnish-resistant and hypoallergenic for holidays and daily wear.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:26Z
   Vendor: the re.edit
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/35fa5b59-4122-4f70-9ecd-e3645de5cff0_1.png?v=1782928795
-  Price: £24.00 GBP
+  Price: £28.00 GBP
 - [Little Joy Huggie Hoops | Waterproof Gold Earrings](https://www.thereedit.co.uk/products/little-joy-huggie-hoops): Small 18ct gold plated huggie hoops with a comfortable hinged closure. Waterproof, tarnish-resistant and hypoallergenic for effortless everyday wear.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:28Z
   Vendor: the re.edit
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/5aeed484-e394-4e84-bd5b-b31c6c2c38b0.png?v=1782925282
-  Price: £20.00 GBP
+  Price: £24.00 GBP
 - [Meadow Hoop Earrings | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/meadow-hoop-earrings): Classic 18ct gold plated hoop earrings with a slim polished finish. Waterproof, tarnish-resistant and hypoallergenic for workdays, weekends and beyond.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:29Z
   Vendor: the re.edit
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/53152f77-ebdb-475e-9315-2c3346a66b74.png?v=1782925290
-  Price: £20.00 GBP
+  Price: £26.00 GBP
 - [Rosebay Pearl Drop Earrings | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/rosebay-pearl-drop-earrings): Natural freshwater pearl drops meet 18ct gold plated hoops. Waterproof, tarnish-resistant and hypoallergenic earrings with an elegant, feminine finish.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:30Z
   Vendor: the re.edit
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/ca0bc6e5-c835-4b3e-961e-c86d4b96c777_1.png?v=1782925292
-  Price: £24.00 GBP
+  Price: £28.00 GBP
 - [Travertine Link Earrings | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/travertine-link-earrings): Sculptural 18ct gold plated link earrings with a polished statement shape. Waterproof, tarnish-resistant and hypoallergenic for easy day-to-evening wear.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:32Z
   Vendor: the re.edit
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/3c2b056f-43a4-4e47-87c0-7aaa0b82a59f.png?v=1782925290
-  Price: £28.00 GBP
+  Price: £30.00 GBP
 - [Morning Light Teardrop Earrings | Waterproof Gold](https://www.thereedit.co.uk/products/morning-light-teardrop-earrings): Smooth 18ct gold plated teardrop earrings with a light-catching finish. Waterproof, tarnish-resistant and hypoallergenic for polished day-to-evening wear.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:33Z
   Vendor: the re.edit
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/5d334fa7-4991-4960-b3da-bf9c8ec12db0_1.png?v=1782925289
-  Price: £24.00 GBP
+  Price: £30.00 GBP
 - [Luna Drop Earrings | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/luna-drop-earrings): Rounded 18ct gold plated drop earrings with a softly sculptural shape. Waterproof, tarnish-resistant and hypoallergenic for effortless everyday polish.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:34Z
   Vendor: the re.edit
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/7cde3b7e-3f77-478e-9c6b-4155c6d8f34a_1.png?v=1782925289
-  Price: £24.00 GBP
+  Price: £28.00 GBP
 - [Travertine T-Bar Necklace | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/travertine-t-bar-chain-necklace): A sculptural 18ct gold plated T-bar necklace with polished links and a toggle clasp. Waterproof, tarnish-resistant and hypoallergenic for daily wear.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:36Z
   Vendor: the re.edit
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/fe421b62-5af8-4971-bafe-da99afcd4f8d_1.png?v=1782925286
-  Price: £28.00 GBP
+  Price: £38.00 GBP
 - [Meadow Hinged Bangle | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/meadow-hinged-bangle): A polished 18ct gold plated hinged bangle with a neat, elegant fit. Waterproof, tarnish-resistant and hypoallergenic for an easy everyday jewellery stack.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:37Z
   Vendor: the re.edit
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/ba2cffac-bf97-4a8a-8b60-bd7e5e43aed1_1_b28576c8-8952-41c5-82a6-a020e7a84ee6.png?v=1782926370
-  Price: £20.00 GBP
+  Price: £28.00 GBP
 - [Whitecliff Crystal Bangle | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/whitecliff-crystal-bangle): A slim 18ct gold plated bangle with sparkling cubic zirconia details. Waterproof, tarnish-resistant and hypoallergenic for refined everyday shine.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:38Z
   Vendor: the re.edit
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/8a30f5a8-75e7-48ff-ba1e-8616dc8b3d50_1_415cedaa-0997-43db-a338-c21e1c3c6d67.png?v=1782926250
-  Price: £28.00 GBP
+  Price: £34.00 GBP
 - [Travertine T-Bar Bracelet | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/travertine-t-bar-bracelet-1): A polished 18ct gold plated T-bar bracelet with sculptural links. Waterproof, tarnish-resistant and hypoallergenic for an effortless everyday stack.
-  Updated: 2026-07-12T13:34:38Z
+  Updated: 2026-07-20T16:01:39Z
   Vendor: the re.edit
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/37a2b885-8fe5-45b5-bd84-b8a246d0be55.png?v=1782925290
-  Price: £24.00 GBP
+  Price: £34.00 GBP
 - [Celestial Layered Necklace | Waterproof Gold Jewellery](https://www.thereedit.co.uk/products/celestial-layered-necklace): Three delicate 18ct gold plated chains with polished bead details in one necklace. Waterproof, tarnish-resistant and hypoallergenic for easy layering.
-  Updated: 2026-07-12T13:34:40Z
+  Updated: 2026-07-20T16:01:41Z
   Vendor: the re.edit
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/7cd4425d-79a4-4ef0-8b97-9cda29f5f51f_1.png?v=1782925294
-  Price: £30.00 GBP
+  Price: £40.00 GBP
 - [Cove Reversible Pendant | Waterproof Gold Necklace](https://www.thereedit.co.uk/products/cove-reversible-pendant-necklace): Two looks in one 18ct gold plated reversible pendant, with black glass and mother-of-pearl sides. Waterproof, tarnish-resistant and hypoallergenic.
-  Updated: 2026-07-12T13:34:46Z
+  Updated: 2026-07-20T16:01:42Z
   Vendor: the re.edit
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/1006/0377/files/8ef8b23a-9adc-474b-b676-e69095c46949_1.png?v=1782925291
-  Price: £30.00 GBP
+  Price: £34.00 GBP
 
 ## Collections
 
 - [Earrings](https://www.thereedit.co.uk/collections/earrings): Shop size-inclusive hoops, huggies & pearl drop earrings in tarnish-free 18K gold & rhodium at the re.edit. Waterproof everyday luxury.
-  Updated: 2026-07-03T15:34:15Z
+  Updated: 2026-07-20T16:01:36Z
   Total Products: 6
 - [Necklaces & Pendants](https://www.thereedit.co.uk/collections/necklaces): Shop minimalist chains, layering necklaces, and pendants at the re.edit. Waterproof, tarnish-resistant stainless steel with 18K gold PVD coating.
-  Updated: 2026-07-10T11:43:41Z
+  Updated: 2026-07-20T16:01:43Z
   Total Products: 9
 - [Bracelets](https://www.thereedit.co.uk/collections/bracelets): Shop summer bangles, chain bracelets, and adjustable cuffs at the re.edit. Waterproof, tarnish-resistant stainless steel with 18K gold PVD coating.
-  Updated: 2026-07-03T15:34:23Z
+  Updated: 2026-07-20T16:01:41Z
   Total Products: 3
 - [Summer Edit](https://www.thereedit.co.uk/collections/summer-edit): Shop waterproof summer jewellery from the re.edit. Tarnish resistant, thoughtfully made pieces for holidays, sunshine and everyday wear.
-  Updated: 2026-07-10T11:43:41Z
-  Total Products: 10
-- [New In](https://www.thereedit.co.uk/collections/new-in): Discover the latest additions to the re.edit, featuring waterproof jewellery designed for effortlessly elegant everyday wear.
-  Updated: 2026-07-10T11:43:41Z
+  Updated: 2026-07-20T16:01:42Z
+  Total Products: 5
+- [Sculptural Edit](https://www.thereedit.co.uk/collections/sculptural-edit): Discover sculptural 18ct gold PVD jewellery with clean lines and fluid forms. Shower and swim safe, tarnish-resistant and made for everyday style.
+  Updated: 2026-07-20T16:01:43Z
   Total Products: 5
 - [Foundations](https://www.thereedit.co.uk/collections/foundations): Shop Foundations by the re.edit: waterproof, tarnish resistant and 18ct gold plated jewellery to wear every day, style alone, layer easily and love daily.
-  Updated: 2026-07-05T13:57:12Z
-  Total Products: 11
-- [Featured Jewellery](https://www.thereedit.co.uk/collections/featured-jewellery): A curated selection of the re.edit favourites — waterproof, tarnish-free jewellery chosen for beauty, ease and everyday wear.
-  Updated: 2026-07-05T13:56:24Z
+  Updated: 2026-07-20T16:27:12Z
   Total Products: 5
+- [Featured Jewellery](https://www.thereedit.co.uk/collections/featured-jewellery): A curated selection of the re.edit favourites — waterproof, tarnish-free jewellery chosen for beauty, ease and everyday wear.
+  Updated: 2026-07-20T16:27:12Z
+  Total Products: 3
 - [Final ](https://www.thereedit.co.uk/collections/final-)
   Updated: 2026-07-09T15:52:14Z
   Total Products: 0
+- [Jewellery Sets](https://www.thereedit.co.uk/collections/jewellery-sets): Beautifully coordinated jewellery, chosen to wear together. Discover necklaces, earrings and bracelets that share the same finish, form or detail—then create a set that feels entirely your own.
+  Updated: 2026-07-20T16:51:53Z
+  Total Products: 9
+
+## Blogs
+
+- [The Journal](https://www.thereedit.co.uk/blogs/the-journal): Discover jewellery styling, care and inspiration from the re.edit, including waterproof jewellery, minimalist essentials and ideas for effortless everyday wear.
+  - [Exploring Waterproof PVD Gold Plating](https://www.thereedit.co.uk/blogs/the-journal/exploring-waterproof-pvd-gold-plating): Exploring Waterproof PVD Gold Plating
+    Updated: 2026-07-18T15:28:12Z
+    Author: Cheryl Ford, Founder of the re.edit
+    Tags: chic waterproof fashion, effortless style, jewellery, pvd gold, style, stylish waterproof pieces, trendy accessories, waterproof fashion jewellery
+  - [The Essential Elegant Appeal of the Travertine T-Bar Bracelet for Modern Minimalists](https://www.thereedit.co.uk/blogs/the-journal/the-essential-elegant-appeal-of-the-travertine-t-bar-bracelet-for-modern-minimalists): The Essential Elegant Appeal of the Travertine T-Bar Bracelet for Modern Minimalists
+    Updated: 2026-07-20T17:25:37Z
+    Author: Cheryl Ford, Founder of the re.edit
+    Tags: bracelet, contemporary fashion trends, elegant design, jewellery, minimalism, modern accessories, stylish wristwear, travertine t-bar
 
 ## Store Pages
 
@@ -191,9 +206,9 @@
 - [Shipping Policy](https://www.thereedit.co.uk/policies/shipping-policy)
   Updated: 2026-07-09T16:22:08+01:00
 - [Refund Policy](https://www.thereedit.co.uk/policies/refund-policy)
-  Updated: 2026-07-09T16:58:43+01:00
+  Updated: 2026-07-15T14:55:57+01:00
 - [Terms of Service](https://www.thereedit.co.uk/policies/terms-of-service)
-  Updated: 2026-07-09T16:36:30+01:00
+  Updated: 2026-07-15T14:58:46+01:00
 - [Contact Information](https://www.thereedit.co.uk/policies/contact-information)
   Updated: 2026-07-09T16:30:50+01:00
 
