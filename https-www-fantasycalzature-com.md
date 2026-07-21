@@ -6,12 +6,12 @@
 - Timezone: Europe/Rome
 - Created At: 2023-12-01T15:50:56Z
 - Contact Email: servizioclienti@fantasycalzature.com
-- Updated At: 2026-07-13T00:00:49.510Z
+- Updated At: 2026-07-21T00:00:48.149Z
 
 ## Products
 
 - [1014934 Pantofola BIRKENSTOCK](https://www.fantasycalzature.com/products/1014934-scarpe-birkenstock): Pantofola Zerman Rivet in feltrosottopiede imbottito in pellefondo gomma
-  Updated: 2026-06-05T08:44:59Z
+  Updated: 2026-07-16T10:12:07Z
   Vendor: BIRKENSTOCK
   Product Type: Scarpe
   Availability: Available
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/plbFbvDa1xgwgFYwvWpGB5IlLNxDRaqXimg_2D_0001_80ceb628-7746-48d4-92ef-19406711a875.jpg?v=1711534609
     Price: 80,00 € EUR
 - [1019069/23 Sandalo BIRKENSTOCK](https://www.fantasycalzature.com/products/1019069-23-scarpe-birkenstock): Sandalo Arizona BS in Birko FlorPlantare anatomico in sughero e latticeTomaia: Birko-Flor®Sottopiede: microfibraSuola: EVADettagli: due cinturini con fibbie ad ardiglione in metallo regolabili individualmente
-  Updated: 2026-06-05T08:45:23Z
+  Updated: 2026-07-18T02:54:54Z
   Vendor: BIRKENSTOCK
   Product Type: Scarpe
   Availability: Available
@@ -87,7 +87,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/honiO2PoXEpaQhY2img_2D_0001.jpg?v=1711534949
     Price: 110,00 € EUR
 - [0129443 Sandalo BIRKENSTOCK](https://www.fantasycalzature.com/products/0129443-scarpe-birkenstock): Sandalo Arizona in EvaPlantare BIRKENSTOCK anatomico in EVATomaia/Sottopiede/Suola: EVA in un solo pezzoDettagli: impermeabile, lavabile, ultraleggero
-  Updated: 2026-06-10T16:10:47Z
+  Updated: 2026-07-18T04:21:49Z
   Vendor: BIRKENSTOCK
   Product Type: Scarpe
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/MYpYXjL5AgdGLcn4img_2D_0001_706c90ac-48a8-4a1e-ab1b-e9eb80fd4000.jpg?v=1704966416
     Price: 54,00 € EUR
 - [128201 Sandalo BIRKENSTOCK](https://www.fantasycalzature.com/products/128201-scarpe-birkenstock): Sandalo Gizeh EVAPlantare BIRKENSTOCK dalla forma anatomica in EVATomaia/sottopiede/suola: EVA in un pezzo unicoDettagli: impermeabile, lavabile, ultraleggero
-  Updated: 2026-06-05T08:45:06Z
+  Updated: 2026-07-16T15:28:01Z
   Vendor: BIRKENSTOCK
   Product Type: Scarpe
   Availability: Available
@@ -163,7 +163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/Fp6dVlDSPcK768nrimg_2D_0001.jpg?v=1711544753
     Price: 50,00 € EUR
 - [Z 34140 Sneaker SUN68 in Pelle - Comfort e Stile](https://www.fantasycalzature.com/products/z-34140-sneaker-sun68-1): Scopri la sneaker SUN68 Street Leather: pelle di qualità, chiusura con lacci e soletta imbottita. Comfort assicurato per passeggiate in città.
-  Updated: 2026-06-19T13:25:09Z
+  Updated: 2026-07-15T20:25:52Z
   Vendor: SUN68
   Product Type: Scarpe
   Availability: Available
@@ -319,10 +319,10 @@
 ## Collections
 
 - [UOMO](https://www.fantasycalzature.com/collections/uomo): Scopri la nostra esclusiva collezione UOMO. Design unici per vestire con stile e classe. Esplora ora.
-  Updated: 2026-07-08T11:17:50Z
+  Updated: 2026-07-18T11:16:17Z
   Total Products: 621
 - [DONNA](https://www.fantasycalzature.com/collections/donna): Scopri collezioni DONNA uniche. Stili alla moda per ogni occasione. Acquista ora e trasforma il tuo look!
-  Updated: 2026-07-11T11:18:56Z
+  Updated: 2026-07-17T11:17:27Z
   Total Products: 1897
 - [UNISEX](https://www.fantasycalzature.com/collections/unisex): Esplora la nostra esclusiva collezione Unisex. Moda innovativa per tutti, design unico. Acquista ora!
   Updated: 2026-06-30T07:39:56Z
@@ -331,22 +331,22 @@
   Updated: 2026-04-20T22:04:35Z
   Total Products: 0
 - [Smart Products Filter Index - Do not delete](https://www.fantasycalzature.com/collections/globofilter-best--products-index): Scopri la nostra collezione di prodotti intelligenti, progettati per migliorare la tua vita quotidiana con innovazione e funzionalità.
-  Updated: 2026-07-11T11:18:56Z
+  Updated: 2026-07-19T15:11:38Z
   Total Products: 2985
 - [OUTLET](https://www.fantasycalzature.com/collections/outlet): Scopri l'OUTLET: risparmia oltre il 70% su moda, elettronica e molto altro. Offerte imperdibili, quantità limitate!
-  Updated: 2026-06-26T14:09:52Z
+  Updated: 2026-07-15T11:18:46Z
   Total Products: 1750
 - [NUOVI ARRIVI](https://www.fantasycalzature.com/collections/nuovi-arrivi): Esplora ora la nostra collezione di NUOVI ARRIVI! Trova i must-have di questa stagione e rinnova il tuo stile.
   Updated: 2026-06-08T12:48:55Z
   Total Products: 991
 - [Scarpe Donna](https://www.fantasycalzature.com/collections/scarpe-donna): Scopri la collezione di Scarpe Donna: eleganza, comfort e stile. Acquista ora i modelli esclusivi e trend del 2024. Spedizione veloce!
-  Updated: 2026-07-11T11:18:56Z
+  Updated: 2026-07-17T11:17:27Z
   Total Products: 1154
 - [Sneakers Donna](https://www.fantasycalzature.com/collections/sneakers-donna): Scopri la collezione di sneakers donna. Stili esclusivi per comfort e tendenza. Acquista il tuo paio ideale ora!
   Updated: 2026-07-01T11:19:38Z
   Total Products: 444
 - [Boot Donna](https://www.fantasycalzature.com/collections/boot-donna): Scopri la nostra esclusiva selezione di stivali da donna per uno stile impeccabile e massimo comfort. Acquista ora!
-  Updated: 2026-06-25T11:18:03Z
+  Updated: 2026-07-15T11:18:46Z
   Total Products: 70
 - [Decollette Donna](https://www.fantasycalzature.com/collections/decollette-donna): Esplora la collezione esclusiva di decollette da donna. Eleganza e stile per ogni occasione. Acquista ora!
   Updated: 2026-06-30T07:36:52Z
@@ -373,7 +373,7 @@
   Updated: 2026-06-30T07:40:18Z
   Total Products: 55
 - [Sandalo Donna](https://www.fantasycalzature.com/collections/sandalo-donna): Scopri la nostra collezione di Sandali Donna! Design moderni, comfort eccellente per il tuo look estivo. Acquista ora!
-  Updated: 2026-07-11T11:18:56Z
+  Updated: 2026-07-17T11:17:27Z
   Total Products: 376
 - [Pantofole Donna](https://www.fantasycalzature.com/collections/pantofole-donna): Scopri la nostra collezione di pantofole donna. Comfort, qualità e design per il tuo benessere quotidiano. Acquista ora!
   Updated: 2026-06-08T12:49:10Z
@@ -430,7 +430,7 @@
   Updated: 2024-04-15T08:39:52Z
   Total Products: 0
 - [Scarpe Uomo](https://www.fantasycalzature.com/collections/scarpe-uomo): Scopri la nostra esclusiva collezione di Scarpe Uomo. Stili eleganti e casual per ogni occasione. Acquista ora!
-  Updated: 2026-06-30T07:48:37Z
+  Updated: 2026-07-18T11:16:17Z
   Total Products: 440
 - [Sneakers Uomo](https://www.fantasycalzature.com/collections/sneakers-uomo): Scopri la nostra selezione esclusiva di Sneakers da Uomo. Stile, comfort e le ultime tendenze ti aspettano.
   Updated: 2026-06-30T07:48:36Z
@@ -445,7 +445,7 @@
   Updated: 2026-06-08T12:49:04Z
   Total Products: 1
 - [Mocassino Uomo](https://www.fantasycalzature.com/collections/mocassino-uomo): Scopri la collezione di Mocassini Uomo. Design esclusivi per il massimo dello stile e del comfort. Trova il tuo modello ideale!
-  Updated: 2026-06-30T07:40:14Z
+  Updated: 2026-07-18T11:16:17Z
   Total Products: 20
 - [Polacchino Uomo](https://www.fantasycalzature.com/collections/polacchino-uomo): Scopri la nostra selezione di Polacchini Uomo. Perfetti per ogni outfit, dall'elegante al casual. Stile e comfort in ogni passo.
   Updated: 2026-06-08T12:49:04Z
@@ -454,7 +454,7 @@
   Updated: 2026-04-20T22:04:50Z
   Total Products: 0
 - [Boot Uomo](https://www.fantasycalzature.com/collections/boot-uomo): Scopri la collezione di boot uomo selezionati per stile e comfort. Offerte esclusive su stivali da uomo. Consegna rapida!
-  Updated: 2026-06-30T07:36:41Z
+  Updated: 2026-07-14T10:28:36Z
   Total Products: 30
 - [Pedula Uomo](https://www.fantasycalzature.com/collections/pedula-uomo): Scopri la nostra collezione di Pedula Uomo. Stile, comfort e durabilità per il tuo spirito avventuroso. Acquista ora!
   Updated: 2024-04-15T08:44:43Z
@@ -514,19 +514,19 @@
   Updated: 2026-06-08T12:49:08Z
   Total Products: 2
 - [Ultimate Search - Do not delete](https://www.fantasycalzature.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best  items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2026-07-11T11:18:56Z
+  Updated: 2026-07-19T15:11:38Z
   Total Products: 2967
 - [Valigie e Trolley](https://www.fantasycalzature.com/collections/valigeria)
   Updated: 2026-04-20T22:04:53Z
   Total Products: 0
 - [PE26](https://www.fantasycalzature.com/collections/pe26): Scopri la nuova collezione Primavera/Estate 2026 di Fantasy Calzature e Accessori!Un mix di eleganza, tendenze e comfort, pensato per affrontare con stile la stagione calda.Ogni dettaglio è studiato per offrirti stile e raffinatezza in ogni occasione.Non perdere l’opportunità di rinnovare il tuo look con i nostri esclusivi modelli!
-  Updated: 2026-07-11T11:18:56Z
+  Updated: 2026-07-18T11:16:17Z
   Total Products: 468
 - [ARREDO CASA](https://www.fantasycalzature.com/collections/arredo-casa)
-  Updated: 2026-06-17T14:43:53Z
+  Updated: 2026-07-19T15:11:38Z
   Total Products: 82
 - [Occhiali](https://www.fantasycalzature.com/collections/occhiali): Occhiali e occhiali da sole a prezzi incredibili!
-  Updated: 2026-07-09T07:34:53Z
+  Updated: 2026-07-15T12:53:52Z
   Total Products: 370
 
 ## Blogs
@@ -620,6 +620,14 @@
     Updated: 2026-07-11T00:26:44Z
     Author: Fantasy
     Tags: calzature, calzature eleganti, calzature moderne uomo, calzature per ogni occasione, moda, scarpe, scarpe donna, scarpe uomo, stili calzature
+  - [Calzature in Pelle: Come Riconoscere la Qualità nelle Scarpe Uomo e Donna](https://www.fantasycalzature.com/blogs/calzature/calzature-in-pelle-come-riconoscere-la-qualita-nelle-scarpe-uomo-e-donna): Calzature in Pelle: Come Riconoscere la Qualità nelle Scarpe Uomo e Donna
+    Updated: 2026-07-14T00:25:10Z
+    Author: Fantasy
+    Tags: calzature, calzature donna, calzature uomo, guida calzature in pelle, pelle, qualità calzature, riconoscere qualità scarpe, scarpe, scarpe donna, scarpe uomo
+  - [Scarpe Donna: Soluzioni per Ogni Problema del Piede](https://www.fantasycalzature.com/blogs/calzature/scarpe-donna-soluzioni-per-ogni-problema-del-piede): Scarpe Donna: Soluzioni per Ogni Problema del Piede
+    Updated: 2026-07-18T00:12:54Z
+    Author: Fantasy
+    Tags: calzature, calzature per problemi piedi, comfort scarpe, piedi, problemi piedi, scarpe, scarpe donna, scarpe per camminare, scarpe uomo
 - [Accessori Moda](https://www.fantasycalzature.com/blogs/accessori-moda): Esplora le ultime tendenze in fatto di accessori moda: borse, cinture, gioielli e molto altro. Consigli di stile e guide all'acquisto dal team di Fantasy Calzature e Accessori.
   - [Borse alla moda per ogni occasione: scopri gli stili più trendy](https://www.fantasycalzature.com/blogs/accessori-moda/borse-moda-ogni-occasione-stili-trendy): Borse alla moda per ogni occasione: scopri gli stili più trendy
     Updated: 2026-07-01T08:37:05Z
@@ -665,6 +673,10 @@
     Updated: 2026-07-09T00:06:47Z
     Author: Fantasy
     Tags: accessori, accessori moda, accessori per outfit, borse, come scegliere accessori, moda, moda femminile, occhiali, stile, tendenze moda
+  - [Occhiali e Borse: Come Trasformare un Outfit con gli Accessori Giusti](https://www.fantasycalzature.com/blogs/accessori-moda/occhiali-e-borse-come-trasformare-un-outfit-con-gli-accessori-giusti): Occhiali e Borse: Come Trasformare un Outfit con gli Accessori Giusti
+    Updated: 2026-07-16T00:06:08Z
+    Author: Fantasy
+    Tags: accessori, accessori fashion, accessori moda, borse, come abbinare borse occhiali, moda, occhiali, occhiali eleganti outfit, tendenze autunno
 
 ## Store Pages
 
@@ -707,7 +719,7 @@
 - [A-Z Brands](https://www.fantasycalzature.com/pages/brands-1): .page-width{ max-width: 90%; } .page-content{ max-width: 1000px; } .page-width--narrow{ padding-left: 0; padding-right: 0; } div#sbp::after { conte...
   Updated: 2025-11-03T04:51:11Z
 - [Brands](https://www.fantasycalzature.com/pages/brands-2): .page-width{ max-width: 90%; } .page-content{ max-width: 1000px; } .page-width--narrow{ padding-left: 0; padding-right: 0; } div#sbp::after { conte...
-  Updated: 2026-06-29T16:03:45Z
+  Updated: 2026-07-13T08:08:37Z
 - [Magazine](https://www.fantasycalzature.com/pages/magazine)
   Updated: 2026-04-30T11:50:00Z
 - [DIritto di recesso](https://www.fantasycalzature.com/pages/diritto-di-recesso)
