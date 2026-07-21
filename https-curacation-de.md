@@ -6,33 +6,33 @@
 - Timezone: Europe/Berlin
 - Created At: 2022-01-31T08:56:16Z
 - Contact Email: info@curacation.de
-- Updated At: 2026-07-12T00:00:44.065Z
+- Updated At: 2026-07-21T00:00:44.530Z
 
 ## Products
 
 - [Auffrischungskurs Alltagsbegleiter nach AnFöVO gem. §45a SGB XI](https://curacation.de/products/auffrischungskurs-alltagsbegleiter-gem-45-sgb-xi-anfovo): Um im Alltag einer pflegebedürftigen Person langfristig eine Unterstützung zu sein, ist die Auseinandersetzung mit aktuellen theoretischen Grundlagen notwendig. Mit diesem Kurs werden sowohl Ihr Wissen aufgefrischt als auch Ideen für die praktische Umsetzung im Arbeitsalltag geliefert! Dieser Kurs ist in allen Bundesländern Deutschlands anerkannt.
-  Updated: 2026-06-27T12:03:36Z
+  Updated: 2026-07-16T11:29:08Z
   Vendor: Curacation Kurse für Betreuungskräfte und Alltagsbegleiter
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/9578/5188/products/Alltagsbegleiter_Auffrischung.png?v=1643620768
   Price: 49,99 € EUR
 - [Auffrischungskurs Betreuungskraft gem. § 43b, 53c SGB XI (ehemals §87b)](https://curacation.de/products/auffrischungskurs-betreuungskraft-gem-43b-53c-sgb-xi-anfovo-ehemals-87b): Als anerkannte Betreuungskraft sind aktuelle Erkenntnisse hinsichtlich des Umgangs mit pflegebedürftigen Menschen ein wichtiger Teil Ihres Berufes. Mit diesem Kurs bringen Sie Ihr Wissen auf den neuesten Stand! Dieser Kurs ist in allen Bundesländern Deutschlands anerkannt.
-  Updated: 2026-06-23T08:06:17Z
+  Updated: 2026-07-20T18:56:08Z
   Vendor: Curacation Kurse für Betreuungskräfte und Alltagsbegleiter
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/9578/5188/products/Betreuungskrafte_Auffrischung.png?v=1643620894
   Price: 99,99 € EUR
 - [Grundqualifikation Alltagsbegleiter gem. §45a SGBXI](https://curacation.de/products/grundqualifikation-alltagsbegleiter-nach-45-sgb-xi-anfovo): Als Alltagsbegleiter stehen Sie nicht nur im engen Kontakt mit den zu Pflegenden, sondern auch mit deren Angehörigen. Unsere Videos bereiten Sie auf Ihre Arbeit vor. Der Kurs liefert Ihnen medizinisches, pflegerisches und soziales Grundwissen, um Ihren Arbeitsalltag zu meistern! Als zukünftige/r anerkannte/r AlltagsbegleiterIn müssen Sie über verschiedene Grundkenntnisse verfügen, die für die Professionalität und Qualität Ihrer Arbeit relevant sind. Die notwendigen Themengebiete werden durch die kompakten und dennoch umfassenden Schulungsvideos anschaulich vermittelt. Teilen Sie sich die Schulung frei auf, so dass Sie diese mit ihren persönlichen Verpflichtungen perfekt vereinbaren können. In allen Bundesländern anerkannt.
-  Updated: 2026-07-11T15:28:06Z
+  Updated: 2026-07-19T19:35:28Z
   Vendor: Curacation Kurse für Betreuungskräfte und Alltagsbegleiter
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/9578/5188/products/Alltagsbegleiter_Grundkurs.png?v=1643621083
   Price: 219,99 € EUR
 - [Betreuungskraft Ausbildung nach §§43b, 53b (bisher §87b) SGB XI](https://curacation.de/products/betreuungskraft-ausbildung): Sichern Sie sich Ihre Qualifikation als Betreuungskraft nach §43b/53b SGB XI. Flexible Ausbildung auf Curacation.de – Direkt online informieren!
-  Updated: 2026-07-11T18:21:56Z
+  Updated: 2026-07-19T22:40:36Z
   Vendor: Curacation Kurse für Betreuungskräfte und Alltagsbegleiter
   Product Type: 
   Availability: Available
@@ -42,10 +42,10 @@
 ## Collections
 
 - [OrderlyEmails - Recommended Products](https://curacation.de/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-07-11T11:12:41Z
+  Updated: 2026-07-20T11:14:56Z
   Total Products: 5
 - [Unsere Kurse](https://curacation.de/collections/all): Alle Online-Fortbildungen für Betreuungskräfte & Alltagsbegleiter – ab 49,99 €, bundesweit anerkannt und jederzeit verfügbar. - Jetzt entdecken!
-  Updated: 2026-07-11T11:12:41Z
+  Updated: 2026-07-20T11:14:56Z
   Total Products: 5
 
 ## Store Pages
