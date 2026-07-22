@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2019-06-21T02:44:44Z
 - Contact Email: info@kenzina.com.au
-- Updated At: 2026-07-14T12:41:56.809Z
+- Updated At: 2026-07-22T00:00:25.227Z
 
 ## Products
 
@@ -18,21 +18,21 @@
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/iVNMe34tazGKpEFC4RLfT_Xwx98Wqh.png?v=1772059127
   Price: $99.00 AUD
 - [Shop Bunny Headband Online in Australia](https://kenzina.com.au/products/bunny-headband): Check out our cute new bunny headband collection, which is ideal for keeping your hair out of your face and eyes as you wash your face or apply masks. 100% cruelty-free. Place your order right now!
-  Updated: 2026-06-18T09:01:11Z
+  Updated: 2026-07-16T20:31:00Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/Untitled_design_2_07bfd7e9-e325-4736-8cc3-82707d4f45a7.png?v=1754428854
   Price: $8.00 AUD
 - [Buy Kenzina Hydration Boosting Lip Masks - 20 Sets](https://kenzina.com.au/products/hydration-boosting-lip-masks-20-sets): Buy Kenzina Hydration Boosting Lip Masks - 20 Sets, the best Lip Masks in Australia at https://kenzina.com.au/. It quickly smoothes and shapes the lips while hydrating your lips and soothing dryness. Sustainable, Vegan and 100% cruelty free!
-  Updated: 2026-05-31T09:26:48Z
+  Updated: 2026-07-15T04:09:16Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/45.png?v=1754428854
   Price: $55.00 AUD
 - [Kenzina Rejuvenating Eye Masks – 30 Pairs | Vegan & Anti-Wrinkle](https://kenzina.com.au/products/kenzina-rejuvenating-eye-masks-30-pairs): Hydrate, brighten, and depuff with Kenzina's vegan under-eye masks. Infused with collagen, coconut & peppermint for smoother, younger-looking eyes.
-  Updated: 2026-07-14T05:01:27Z
+  Updated: 2026-07-17T22:02:27Z
   Vendor: Kenzina
   Product Type: beauty
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/35.png?v=1754428854
   Price: $12.00 AUD
 - [Shop Kenzina Fire and Ice Mask | Soothing & Depuffing](https://kenzina.com.au/products/kenzina-fire-ice-mask): Kenzina reusable Fire & Ice Face Mask has a unique hot and cold dual action property delivering quick and effective soothing relief, relaxation and beauty benefits. Simply freeze cold for beauty therapy, or microwave for aches and pains!
-  Updated: 2026-05-16T22:37:47Z
+  Updated: 2026-07-17T05:05:27Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/24_50a85406-aaca-493e-b6a9-61cb88d427ea.png?v=1754428853
   Price: $30.00 AUD
 - [Kenzina Signature Icon Bag](https://kenzina.com.au/products/kenzina-signature-icon-bag): Introducing our bold, vegan leather statement bag—designed to take you from work to brunch and everywhere in between. With a high-grade crocodile pattern and luxurious texture, this tote is more than just a bag—it’s a statement of confidence, elegance, and effortless style. Spacious, chic, and built to complement your on-the-go lifestyle, it’s time to carry Kenzina with you—beyond your beauty routine
-  Updated: 2026-04-20T19:20:13Z
+  Updated: 2026-07-16T22:45:32Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
@@ -101,13 +101,13 @@
   Updated: 2026-06-21T11:06:39Z
   Total Products: 22
 - [Kenzina](https://kenzina.com.au/collections/kenzina)
-  Updated: 2026-07-14T11:05:08Z
+  Updated: 2026-07-18T11:05:34Z
   Total Products: 22
 - [Best sellers](https://kenzina.com.au/collections/best-sellers)
-  Updated: 2026-07-14T11:05:08Z
+  Updated: 2026-07-18T11:05:34Z
   Total Products: 14
 - [Orderly Emails - Recommended Products](https://kenzina.com.au/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-07-14T11:05:08Z
+  Updated: 2026-07-18T11:05:34Z
   Total Products: 52
 
 ## Blogs
