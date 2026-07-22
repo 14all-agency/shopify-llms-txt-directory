@@ -6,7 +6,7 @@
 - Timezone: Europe/Zagreb
 - Created At: 2025-04-21T18:24:19Z
 - Contact Email: Jewelryluxeus@gmail.com
-- Updated At: 2026-07-13T00:00:40.088Z
+- Updated At: 2026-07-22T00:00:43.277Z
 
 ## Products
 
@@ -2000,8 +2000,8 @@
   - [60"x80"](https://jewelryluxeus.shop/products/couple-cuddling-blanket-personalized-custom-fleece-blanket?variant=54971504984388)
     Availability: Available
     Price: $47.60 USD
-- [Personalized Acrylic Ornament-To My Daughters Never Forget That I Love You Forever](https://jewelryluxeus.shop/products/personalized-acrylic-ornament-to-my-daughters-never-forget-that-i-love-you-forever): Express your love and support with the "To My Daughters, Never Forget That I Love You Forever" personalized acrylic ornament, a heartfelt and meaningful gift designed to remind your daughter of your unwavering love. This custom-made Christmas ornament is perfect for decorating her tree while serving as a daily reminder of your bond. Ideal as a Christmas gift or a special keepsake for any occasion, this ornament carries a touching message that will resonate deeply with your daughter, reminding her of the love and guidance that surround her. It’s a thoughtful way to show how much she means to you and a beautiful keepsake she will cherish for years to come. Celebrate your relationship, decorate the Christmas tree, and create lasting memories with this meaningful gift that speaks volumes about your love.MESSAGE: To My Daughter,Never Forget That I Love You Forever. To My Daughters,Never Forget That I Love You Forever. I Love ThatYou Are My Daughter. I Love ThatYou Are My Daughters. PRODUCT DETAILS: 1-sided design Made of transparent acrylic Size: 4.25 x 3 inches; 5.25 x 3.7 inches and 6.25 x 4.4 inches. Our acrylic ornaments are covered with protective film on both sides; keep the acrylic from scratching or getting dirty with dust; please peel off the films before use. Gold string is included for hanging.
-  Updated: 2026-05-26T17:19:09Z
+- [To My Daughters Never Forget I Love You Personalized Acrylic Ornament – Sentimental Gift](https://jewelryluxeus.shop/products/personalized-acrylic-ornament-to-my-daughters-never-forget-that-i-love-you-forever): Personalized acrylic ornament for daughters with heartfelt love message. Fade-resistant, clear acrylic. A meaningful birthday, Christmas or graduation gift from parents.
+  Updated: 2026-07-21T08:38:27Z
   Vendor: Inkedjoy
   Product Type: 
   Availability: Available
@@ -2118,15 +2118,85 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/AK1423-NAH4243-Mockup-Default_8aba6af0-84bb-4c5c-9a01-7949c6d22498.webp?v=1749054015
   Price: $31.34 USD
-[List Continued](https://jewelryluxeus.shop/a/llms-agent/llms.txt?shop=tpr0h9-ns.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTE0MDUzMDk3OTE0MCwibGFzdF92YWx1ZSI6IjE1MTQwNTMwOTc5MTQwIn0%3D)
+- [Long dress Skuls  and Butterflies](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies): 【 Material Description 】100% polyester【 Product performance 】Preferred Material: Made of polyester material, the fabric is soft and comfortable, the thickness is moderate, and the hand feel is moderate, which will keep you cool and dry. UNIQUE STYLE: Slim fit sleeveless dress with sleeveless design, fashion simple and elegant, long design to show your figure, make your waist look slimmer and visually lengthen the line of your legs. Fashionable and versatile: It can be worn with a trench coat, coat, high heels, sneakers, etc., all of which are very fashionable outfits, or you can wear a dress alone, which is also a very sexy match. GREAT GIFT: The perfect gift for your family, wife or girlfriend. A must-have fashion item for summer and fall.【Applicable Scenarios】This stylish sleeveless dress is suitable for weekend parties, daily life, casual vacation, work, outdoor, travel and more.【 Washing instructions 】Hand washable and machine washable, do not soak for a long time, do not bleach, wash solution temperature should not exceed 45ºC.【 Special Note 】Note: This product is in Euro code. If you have any questions, please contact customer service for consultation. This size data is measured under a tile. Due to different measurement methods, the error within 1-2cm is a normal phenomenon. Do not use the same color as the background color of the clothes for the design pictures. It will cause the inability of ink to be released during production, and will not be included in the scope of after-sales processing.【 Reminder 】The picture display effect is for reference only, the final effect shall prevail in kind! Due to objective factors such as production batches, machinery and equipment, it is difficult to avoid or there will be errors such as slight color difference, position and size. If the above problems are normal, they will not be included in the scope of after-sales processing. Size Bust（cm/in） Length（cm/in） S 90/35.4 136/53.5 M 95/37.4 136.5/53.7 L 100/39.4 137/53.9 XL 105/41.3 137.5/54.1 2XL 110/43.3 138/54.3 3XL 115/45.3 138.5/54.5 4XL 120/47.2 139/54.7 5XL 125/49.2 139.5/54.9
+  Updated: 2026-06-29T19:43:12Z
+  Vendor: Inkedjoy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/b26afe6b33188913ead5e81e37b9261f.jpg?v=1749055038
+  - [S / White](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549581636)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/0bee0e3dd856bb3ad48f957857ab1762.jpg?v=1749055038
+    Price: $38.10 USD
+  - [M / White](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549614404)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/0bee0e3dd856bb3ad48f957857ab1762.jpg?v=1749055038
+    Price: $38.48 USD
+  - [L / White](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549647172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/0bee0e3dd856bb3ad48f957857ab1762.jpg?v=1749055038
+    Price: $38.86 USD
+  - [XL / White](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549679940)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/0bee0e3dd856bb3ad48f957857ab1762.jpg?v=1749055038
+    Price: $39.22 USD
+  - [2XL / White](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549712708)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/0bee0e3dd856bb3ad48f957857ab1762.jpg?v=1749055038
+    Price: $39.60 USD
+  - [3XL / White](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549745476)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/0bee0e3dd856bb3ad48f957857ab1762.jpg?v=1749055038
+    Price: $39.98 USD
+  - [4XL / White](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549778244)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/0bee0e3dd856bb3ad48f957857ab1762.jpg?v=1749055038
+    Price: $40.36 USD
+  - [5XL / White](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549811012)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/0bee0e3dd856bb3ad48f957857ab1762.jpg?v=1749055038
+    Price: $40.74 USD
+  - [S / White1](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549843780)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/e7d5f3bd01bc242a6d1aa74b1ab17c71.jpg?v=1749055038
+    Price: $38.10 USD
+  - [M / White1](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549876548)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/e7d5f3bd01bc242a6d1aa74b1ab17c71.jpg?v=1749055038
+    Price: $38.48 USD
+  - [L / White1](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549909316)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/e7d5f3bd01bc242a6d1aa74b1ab17c71.jpg?v=1749055038
+    Price: $38.86 USD
+  - [XL / White1](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549942084)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/e7d5f3bd01bc242a6d1aa74b1ab17c71.jpg?v=1749055038
+    Price: $39.22 USD
+  - [2XL / White1](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971549974852)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/e7d5f3bd01bc242a6d1aa74b1ab17c71.jpg?v=1749055038
+    Price: $39.60 USD
+  - [3XL / White1](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971550007620)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/e7d5f3bd01bc242a6d1aa74b1ab17c71.jpg?v=1749055038
+    Price: $39.98 USD
+  - [4XL / White1](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971550040388)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/e7d5f3bd01bc242a6d1aa74b1ab17c71.jpg?v=1749055038
+    Price: $40.36 USD
+  - [5XL / White1](https://jewelryluxeus.shop/products/long-dress-skuls-and-butterflies?variant=54971550073156)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0929/5560/7364/files/e7d5f3bd01bc242a6d1aa74b1ab17c71.jpg?v=1749055038
+    Price: $40.74 USD
+[List Continued](https://jewelryluxeus.shop/a/llms-agent/llms.txt?shop=tpr0h9-ns.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTE0MDUzNTY5NzczMiwibGFzdF92YWx1ZSI6IjE1MTQwNTM1Njk3NzMyIn0%3D)
 
 ## Collections
 
 - [Home page](https://jewelryluxeus.shop/collections/frontpage): Shop personalized memorial jewelry, custom gifts, necklaces, rings, bracelets, and keepsakes at JewelryLuxeUS. Meaningful pieces crafted to honor your loved ones.
-  Updated: 2026-06-29T19:42:11Z
+  Updated: 2026-07-20T20:40:27Z
   Total Products: 87
 - [Necklaces](https://jewelryluxeus.shop/collections/necklace): Shop personalized necklaces in sterling silver, gold, and rose gold. Memorial pendants, name necklaces, and custom engravings — meaningful jewelry for every moment.
-  Updated: 2026-07-10T08:21:14Z
+  Updated: 2026-07-16T11:22:05Z
   Total Products: 217
 - [Rings](https://jewelryluxeus.shop/collections/ring): Shop personalized and memorial rings in gold, silver, and platinum. Engravable bands, gemstone rings, and custom designs for every meaningful occasion.
   Updated: 2026-06-17T12:45:53Z
@@ -2135,7 +2205,7 @@
   Updated: 2026-06-17T12:46:09Z
   Total Products: 3
 - [Custom Gifts](https://jewelryluxeus.shop/collections/custom-gifts): Find the perfect personalized gift — engraved jewelry, memorial keepsakes, and custom pieces for birthdays, anniversaries, and remembrance. Ships ready to gift.
-  Updated: 2026-06-29T20:04:35Z
+  Updated: 2026-07-20T20:41:45Z
   Total Products: 301
 - [Keychains](https://jewelryluxeus.shop/collections/keychains): Shop personalized engraved keychains — custom names, dates, and messages. Meaningful memorial keepsakes and unique gifts for every occasion.
   Updated: 2026-06-29T19:42:40Z
@@ -2147,17 +2217,17 @@
   Updated: 2026-06-19T09:47:27Z
   Total Products: 10
 - [All Products (ChatGPT-AI Product Description)](https://jewelryluxeus.shop/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - JewelryLuxeUS.Shop
-  Updated: 2026-07-10T08:21:14Z
-  Total Products: 976
+  Updated: 2026-07-20T20:43:09Z
+  Total Products: 980
 - [Candles](https://jewelryluxeus.shop/collections/candles): Shop hand-poured soy candles in calming and uplifting scents. Meaningful memorial gifts and luxury home accessories — perfect for gifting or personal comfort.
   Updated: 2026-06-29T19:42:33Z
   Total Products: 17
 - [A Piece of Them, Always With You](https://jewelryluxeus.shop/collections/memorial-jewelry): Shop memorial jewelry and personalized remembrance keepsakes — engraved necklaces, rings, and gifts to honor a loved one. Meaningful pieces crafted with care.
-  Updated: 2026-06-29T19:42:54Z
-  Total Products: 148
+  Updated: 2026-07-20T20:11:15Z
+  Total Products: 149
 - [Christmas](https://jewelryluxeus.shop/collections/seasonal-and-holiday): Shop personalized Christmas gifts — custom jewelry, memorial keepsakes, and engraved pieces. Meaningful holiday gifts for the people you love most.
-  Updated: 2026-06-29T19:41:42Z
-  Total Products: 331
+  Updated: 2026-07-20T20:09:31Z
+  Total Products: 334
 - [Bracelets](https://jewelryluxeus.shop/collections/bracelets): Shop personalized bracelets in sterling silver, gold, and rose gold. Memorial charm bracelets, engraved bangles, and custom designs for every occasion.
   Updated: 2026-06-29T19:41:45Z
   Total Products: 8
@@ -2165,23 +2235,26 @@
   Updated: 2026-06-17T12:48:33Z
   Total Products: 2
 - [Jewelry Dish](https://jewelryluxeus.shop/collections/jewelry-dish): Introducing our exquisite collection of Jewelry Dishes, where elegance meets functionality in the most delightful way. Our curated selection features meticulously crafted pieces designed to complement any dressing table or vanity, offering both utility and a touch of sophistication. Each jewelry dish in this collection is fashioned from high-quality materials, including fine ceramics, gleaming metals, and stunning glass, ensuring durability while exuding luxury. The intricate designs range from minimalist modern to timeless classic motifs, catering to diverse tastes and decor styles. Whether you prefer the understated elegance of a monochrome piece or the vibrant allure of hand-painted florals, our collection promises a jewelry dish that resonates with your personal style. Beyond their visual appeal, these dishes serve as perfect organizers, keeping your cherished rings, earrings, and bracelets secured and easily accessible. Their thoughtful design helps prevent tangling and misplacement, adding convenience to your daily routine. Ideal for both personal use and as thoughtful gifts, each dish is a testament to the beauty of art meeting practicality. Perfectly sized to fit any space, these jewelry dishes are not only functional accessories but also charming decorative accents. Their versatility allows them to be used in various settings, from bedside tables to office desks, enhancing any environment with a hint of grace. Explore our Jewelry Dish collection today to find the perfect piece that reflects your style and keeps your treasures beautifully displayed and organized. Elevate your everyday routine with a touch of luxury and charm. - JewelryLuxeUS.Shop
-  Updated: 2026-06-29T19:42:32Z
+  Updated: 2026-07-18T18:21:08Z
   Total Products: 97
 - [Wedding, Anniversary](https://jewelryluxeus.shop/collections/wedding-anniversary): Discover the epitome of elegance and timeless romance with our exclusive Wedding and Anniversary Collection. Meticulously curated to celebrate the most cherished milestones, this collection embodies sophistication and grace, offering a stunning array of pieces designed to commemorate love's most beautiful moments. Our Wedding Collection features an exquisite selection of bridal jewelry, including luminous diamond necklaces, delicately crafted earrings, and statement bracelets that perfectly complement the radiance of a bride's special day. Each piece is thoughtfully designed to capture the essence of true love, ensuring that every bride feels extraordinary as she walks down the aisle. Our collection also offers a range of elegant accessories for the groom, from classic cufflinks to sophisticated tie clips, each piece crafted to add a touch of refinement to his wedding attire. Celebrate enduring love with our Anniversary Collection, where every piece tells a story of commitment and devotion. From intricately designed rings symbolizing everlasting bonds to elegant pendants and bracelets that mark years of cherished memories, this collection is a testament to love that grows stronger with each passing year. Choose from an array of precious metals and gemstones, each expertly crafted to honor the unique journey of every couple. Whether you are planning a wedding or celebrating an anniversary, our collection offers timeless pieces that will be treasured for a lifetime. Embrace the beauty of love with our Wedding and Anniversary Collection, where every piece is a testament to the elegance and enduring nature of true romance. - JewelryLuxeUS.Shop
-  Updated: 2026-06-29T19:42:50Z
-  Total Products: 63
+  Updated: 2026-07-20T20:42:21Z
+  Total Products: 65
 - [Valentine's Day](https://jewelryluxeus.shop/collections/valentines-day): Celebrate love and make this Valentine's Day unforgettable with our exquisite collection of gifts, designed to delight and inspire the heart. Our curated selection features luxurious items that are perfect for expressing your affection to that special someone. From timeless classics to modern masterpieces, each piece in our collection has been thoughtfully chosen to convey your deepest emotions. Indulge in our range of elegantly crafted jewelry, where each piece is a testament to craftsmanship and beauty. Whether it's a stunning necklace, a pair of delicate earrings, or a sophisticated bracelet, our jewelry selection promises to enhance any romantic moment. For those looking to say "I love you" with the sweetness of indulgence, explore our array of gourmet chocolates and artisan confections. Each bite is a journey of exquisite flavors, designed to tantalize the senses and create lasting memories. Our Valentine's Day collection also includes premium fragrances, perfect for capturing the essence of romance. Choose from a variety of enchanting scents that evoke warmth, passion, and elegance. To create an intimate setting, explore our selection of luxury candles that fill the air with captivating aromas, ensuring your celebration is nothing short of magical. For the ultimate personalized touch, consider our custom gift options that allow you to add a unique message or monogram. Celebrate love in the most meaningful way with our Valentine's Day collection, where every gift is more than just a present—it's a heartfelt expression of love. - JewelryLuxeUS.Shop
-  Updated: 2026-06-29T19:42:50Z
+  Updated: 2026-07-20T20:43:09Z
   Total Products: 42
 - [Memorial Gifts](https://jewelryluxeus.shop/collections/memorial-gifts): Shop personalized memorial gifts — engraved jewelry, remembrance keepsakes, and sympathy gifts to honor a loved one. Meaningful pieces crafted with care.
-  Updated: 2026-06-29T19:42:54Z
-  Total Products: 101
+  Updated: 2026-07-20T20:11:58Z
+  Total Products: 103
 - [Home Decor](https://jewelryluxeus.shop/collections/home-decor)
-  Updated: 2026-06-29T19:42:54Z
-  Total Products: 188
+  Updated: 2026-07-20T20:43:09Z
+  Total Products: 194
 - [Kitchen](https://jewelryluxeus.shop/collections/kitchen)
-  Updated: 2026-06-29T19:43:55Z
-  Total Products: 391
+  Updated: 2026-07-20T20:43:09Z
+  Total Products: 397
+- [Wall Art](https://jewelryluxeus.shop/collections/wall-art)
+  Updated: 2026-07-20T20:43:09Z
+  Total Products: 120
 
 ## Blogs
 
