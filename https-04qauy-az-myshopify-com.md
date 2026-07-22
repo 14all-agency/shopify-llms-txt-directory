@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-27T06:44:44Z
 - Contact Email: codylockardjesse@gmail.com
-- Updated At: 2026-07-14T00:00:31.656Z
+- Updated At: 2026-07-22T00:00:34.361Z
 
 ## Products
 
@@ -35,7 +35,7 @@
   Availability: Available
   Price: $19.00 USD
 - [Velli Paisley Low Sneakers — Red Bandana Low-Top by Velli Kicks](https://04qauy-az.myshopify.com/products/velli-paisley-low): Shop the Velli Paisley Low — bold red bandana paisley print low-top sneakers. West Coast streetwear culture meets premium craftsmanship. $169.
-  Updated: 2026-06-29T22:42:08Z
+  Updated: 2026-07-16T07:56:09Z
   Vendor: Velli Kicks
   Product Type: Sneakers
   Availability: Available
@@ -59,14 +59,14 @@
     Availability: Not Available
     Price: $169.00 USD
 - [Velli Kicks The Don Low Black Red | Kody Velli Official Shoes](https://04qauy-az.myshopify.com/products/velli-kicks-the-don-low-black-red): Official Velli Kicks by Kody Velli. The Don Low in Black/Red — custom streetwear sneakers, limited drop. Rep the crown.
-  Updated: 2026-06-29T23:04:12Z
+  Updated: 2026-07-15T14:17:03Z
   Vendor: Velli Kicks
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/4316/0508/files/2297.webp?v=1782735520
   Price: $149.99 USD
 - [Velli Kicks The Don Signature Series BloodyVelli Edition | Limited](https://04qauy-az.myshopify.com/products/bloody-velli-the-don-tee-official-artist-merch): Velli Kicks Signature Series — The Don BloodyVelli Edition. Premium leather, blood splatter finish, custom portrait art. Limited drop.
-  Updated: 2026-06-30T01:00:28Z
+  Updated: 2026-07-17T01:31:41Z
   Vendor: Velli Kicks
   Product Type: T-Shirt
   Availability: Available
@@ -114,14 +114,14 @@
     Availability: Not Available
     Price: $249.99 USD
 - [Velli Kicks The Don Flagship KodyVelli Paisley High-Top | Limited](https://04qauy-az.myshopify.com/products/velli-kicks-the-don-flagship-kodyvelli-paisley-high-top): Velli Kicks Flagship Edition — KodyVelli The Don paisley high-top. Premium leather, custom portrait art, Red & Blue colorways. Limited drop.
-  Updated: 2026-06-29T23:08:56Z
+  Updated: 2026-07-18T04:49:05Z
   Vendor: Velli Kicks
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0781/4316/0508/files/3211_3903a835-d861-4bf6-a3c5-ee1c901ddf5e.png?v=1782737880
   Price: $279.99 USD
 - [Velli Kicks BLOOD High-Top Blood Sweat Tears Edition | Streetwear](https://04qauy-az.myshopify.com/products/velli-kicks-b-l-o-o-d-high-top-blood-sweat-tears-edition): Velli Kicks B.L.O.O.D. Edition — white leather with blood splatter finish. Bold streetwear high-tops. Limited drop by KodyVelli.
-  Updated: 2026-06-29T22:54:56Z
+  Updated: 2026-07-16T13:09:08Z
   Vendor: Velli Kicks
   Product Type: Shoes
   Availability: Available
@@ -220,7 +220,7 @@
     Availability: Not Available
     Price: $229.99 USD
 - [Velli Kicks Red Paisley High-Top Step Different Edition | Streetwear](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-high-top-step-different-edition): Velli Kicks Red Paisley High-Top — all-red premium leather, custom paisley print, classic silhouette. Step Different. Stand Out.
-  Updated: 2026-06-29T22:49:02Z
+  Updated: 2026-07-17T08:48:20Z
   Vendor: Velli Kicks
   Product Type: Shoes
   Availability: Available
@@ -253,7 +253,7 @@
     Availability: Available
     Price: $199.99 USD
 - [Velli Kicks Red Paisley Low Step Different Low Edition | Streetwear](https://04qauy-az.myshopify.com/products/velli-kicks-red-paisley-low-step-different-low-edition): Velli Kicks Red Paisley Low — all-red premium leather low-top, custom paisley print. Step Different. Stand Out. Limited drop.
-  Updated: 2026-06-29T22:51:30Z
+  Updated: 2026-07-17T11:17:31Z
   Vendor: Velli Kicks
   Product Type: Shoes
   Availability: Available
@@ -304,7 +304,7 @@
     Availability: Available
     Price: $179.99 USD
 - [Real Killer Graphic T-Shirt — Velli In Red Horror Streetwear Tee](https://04qauy-az.myshopify.com/products/real-killer-graphic-t-shirt-velli-in-red-horror-streetwear-tee): This heavyweight garment-dyed tee carries a dark, cinematic energy — a hooded figure bathed in red, framed by bold type that reads like a vintage record cover. The shirt’s soft, lived-in color and relaxed fit make it feel like an instant favorite; the image brings a raw, streetwise mood that suits late-night walks, underground shows, or layered looks for colder months. Wear it when you want to signal intensity without shouting: it sits well under a worn denim jacket or alone with black jeans, adding drama and edge to an otherwise simple outfit.Product features- 100% ring-spun US cotton for durability and comfort- Garment-dyed for a soft, lived-in color and texture- Heavyweight 6.1 oz fabric with relaxed, pre-shrunk fit- Tubular knit construction (no side seams) with double-needle stitched seams- Available S–4XL with sewn-in label; choice of many colorsCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Comfort Colors® 1717, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Honduras Care instructions: Machine wash: cold (max 30C or 90F), Do not bleach, Tumble dry: low heat, Iron, steam or dry: low heat, Do not dryclean
-  Updated: 2026-06-30T03:59:45Z
+  Updated: 2026-07-17T21:55:55Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
