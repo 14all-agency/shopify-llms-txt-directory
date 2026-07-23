@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-04-02T14:16:26Z
 - Contact Email: support@toyvelle.com
-- Updated At: 2026-07-13T00:00:37.687Z
+- Updated At: 2026-07-23T00:00:37.897Z
 
 ## Products
 
@@ -928,7 +928,7 @@
   Availability: Available
   Price: $9.90 USD
 - [House of DesireLingerieKiki Lace Halter Babydoll w/Open Back & Thong - Red](https://toyvelle.com/products/kiki-lace-halter-babydoll-w-open-back-thong-red): The Kiki Lace & Faux Leather Drop Off Babydoll Set lets you play with a hint of edge. Featuring faux leather detailing on top and lace on the bottom, this hot set is ready for play, passion, and more. Delicate drop off ties takes seduction to the next level. Fabric Content: LACE: 88% NYLON, 12% SPAN ...
-  Updated: 2026-06-22T09:48:02Z
+  Updated: 2026-07-17T10:15:20Z
   Vendor: House of Desire
   Product Type: Lingerie
   Availability: Available
@@ -962,7 +962,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Kiki_Lace_Halter_Babydoll_w_Open_Back_Thong_-_Red-front.jpg?v=1778481868
     Price: $44.99 USD
 - [Oh La La CheriLingerieValentine Lace Babydoll w/Bows & G-String - Purple](https://toyvelle.com/products/valentine-lace-babydoll-w-bows-g-string-purple): Turn up the romance any season with the Valentine Lacey Babydoll. This stunning A-line lacy babydoll features a seductive triangle cup bodice made from ultra-soft fabrics, ensuring all-night comfort on Valentine’s Day or any day. Adjustable elastic shoulder straps allow for a personalized fit, while ...
-  Updated: 2026-06-22T09:48:02Z
+  Updated: 2026-07-18T11:42:34Z
   Vendor: Oh La La Cheri
   Product Type: Lingerie
   Availability: Available
@@ -996,7 +996,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Valentine_Lace_Babydoll_w_Bows_G-String_-_Purple-front-X.jpg?v=1778483353
     Price: $39.90 USD
 - [House of DesireLingerieYasmine Shimmer Mesh O-Ring Slit Cup Babydoll & G-String Set - Burgundy](https://toyvelle.com/products/yasmine-shimmer-mesh-o-ring-slit-cup-babydoll-g-string-set-burgundy): Tease with a little sass. Slip on the Yasmine Shimmer Mesh O-Ring Slit Cup Babydoll Set and bend the rules of seduction. This flowy babydoll features an open back design and a surprise rhinestone O-ring bust accent for a bold touch. Paired with sheer g-string panty that leaves little to the imaginat ...
-  Updated: 2026-06-22T09:48:02Z
+  Updated: 2026-07-15T09:58:07Z
   Vendor: House of Desire
   Product Type: Lingerie
   Availability: Available
@@ -1018,7 +1018,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/YasmineShimmerMeshO-RingSlitCupBabydoll_G-StringSet-Burgundy-lifestyle03.jpg?v=1778483769
     Price: $39.90 USD
 - [Seven 'til MidnightLingerieLace and Dot Mesh Open Cup Bustier w/Hook and Eye Closure & Panty - Black](https://toyvelle.com/products/lace-and-dot-mesh-open-cup-bustier-w-hook-and-eye-closure-panty-black): Lace and Dot Mesh Open Cup Bustier w/Hook and Eye Closure & Panty. Fabric: 90% Polyester 10% Elastane. Small. Size: 2-6. Cup: A/B. Bust: 32in.-34in. Waist: 24in.-26in. Hip: 34in.-36in. Medium. Size: 6-10. Cup B/C. Bust: 34in.-36in. Waist: 26in.-28in. Hip 36in.-38in. Large. Size: 10-14. Cup: C/D. Bus ...
-  Updated: 2026-06-22T09:48:03Z
+  Updated: 2026-07-18T14:12:49Z
   Vendor: Seven 'til Midnight
   Product Type: Lingerie
   Availability: Available
@@ -1052,7 +1052,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Lace_and_Dot_Mesh_Open_Cup_Bustier_w_Hook_and_Eye_Closure_Panty_-_Black--front-X.jpg?v=1778484365
     Price: $34.99 USD
 - [Coquette InternationalLingerieMetallic Stretch Scallop Lace and Mesh Bustier w/Thong - Red](https://toyvelle.com/products/metallic-stretch-scallop-lace-and-mesh-bustier-w-thong-red): Metallic Stretch Scallop Lace and Mesh Bustier with Thong. Small. Weight: 100lb - 120lb. Bust: 34in. - 36in. Waist: 26in. - 28in. Hip: 36in. - 38in. Cup: B. Dress: 4-6. Large. Weight: 150lb - 180lb. Bust: 38in. - 40in. Waist: 30in. - 32in. Hip: 40in. - 42in. Cup: C. Dress: 12-14. XLarge. Weight: 180 ...
-  Updated: 2026-06-22T09:48:03Z
+  Updated: 2026-07-17T12:05:13Z
   Vendor: Coquette International
   Product Type: Lingerie
   Availability: Available
@@ -1074,7 +1074,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Metallic_Stretch_Scallop_Lace_and_Mesh_Bustier_w_Thong_-_Red-front-X.jpg?v=1778485013
     Price: $39.99 USD
 - [Seven 'til MidnightLingerieSuper Sexy Bustier w/G-String Wine QN](https://toyvelle.com/products/super-sexy-bustier-w-g-string-wine-qn): Two piece bustier set. Lace and strappy bustier with open cups, adjustable straps, gold hardware, hook and eye back, removable garters, and g-string. Seven Til Midnight. Fabric: 90% Nylon 10% Elastane. Queen. Size: 16-20. Cup: C-DD. Bust: 40in.-50in. Waist: 36in.-44in. Hip: 42in.-56in.
-  Updated: 2026-06-22T09:48:03Z
+  Updated: 2026-07-18T09:11:09Z
   Vendor: Seven 'til Midnight
   Product Type: Lingerie
   Availability: Available
@@ -1088,7 +1088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Super_Sexy_Bustier_w_G-String_Black-front.jpg?v=1778486737
     Price: $34.99 USD
 - [Seven 'til MidnightLingerieStretch Mesh and Lace Cami w/Thong 2 pc Set QN](https://toyvelle.com/products/stretch-mesh-and-lace-cami-w-thong-2-pc-set-qn): Stretch mesh and lace applique halter camidoll and garter straps and matching thong panty. Fabric Content: 90% Nylon, 10% Elastane. Queen. Size: 16-20. Cup: C-DD. Bust: 40in.-50in. Waist: 36in.-44in. Hip: 42in.-56in.
-  Updated: 2026-06-22T09:48:03Z
+  Updated: 2026-07-18T04:45:48Z
   Vendor: Seven 'til Midnight
   Product Type: Lingerie
   Availability: Available
@@ -1102,7 +1102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Stretch_Mesh_and_Lace_Cami_w_Thong_2_pc_Set_-_Black-front.jpg?v=1778487055
     Price: $34.99 USD
 - [Fantasy LingerieLingerieUnderbust Corset w/Lace Up Back & G-String Black](https://toyvelle.com/products/underbust-corset-w-lace-up-back-g-string-black): Lurex Binding Underbust Corset with Lace-up Back & Matching Panty. Sheer mesh fabric. Lurex binding. Lace-up back. G-string panty. Materials: 90% Nylon, 10% Spandex. Color: Black. Washing Instructions: Hand wash separately in cold water. Do not bleach. Flat dry. Sizing Info: S Size: 2-6 Bust: 32"-36 ...
-  Updated: 2026-06-22T09:48:03Z
+  Updated: 2026-07-17T08:31:23Z
   Vendor: Fantasy Lingerie
   Product Type: Lingerie
   Availability: Available
@@ -1128,7 +1128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Underbust_Corset_w_Lace_Up_Back_G-String_Black-front-X.jpg?v=1778487389
     Price: $44.99 USD
 - [Fantasy LingerieLingeriePlay Herbal Remedy Gartered Bustier w/Panty & Headpiece - White](https://toyvelle.com/products/play-herbal-remedy-gartered-bustier-w-panty-headpiece-white): Collared lace-up bustier top with attached garters. Matching panty. Medic hat.(Stockings not included) Materials: Microfiber: 80% Nylon, 20% Spandex. Mesh: 87% Nylon, 13% Spandex. Washing Instructions: Hand wash separately in cold water. Do not bleach. Flat dry. Sizing Info:S/MSize: 2-6Bust: 32"-36" ...
-  Updated: 2026-06-22T09:48:03Z
+  Updated: 2026-07-16T00:19:20Z
   Vendor: Fantasy Lingerie
   Product Type: Lingerie
   Availability: Available
@@ -1184,7 +1184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/FrenchMaidUnderwireDress_Apron_HeadBand_Panty5pcSet-Black-White-front.jpg?v=1778488194
     Price: $34.99 USD
 - [Escante, IncLingerieEvelyn Lace Garter Belt - Black](https://toyvelle.com/products/evelyn-lace-garter-belt-black): Evelyn Lace Garter Belt from Escante. Small. Size: 2-6. Cup: A/B. Bust: 32in.-34in. Waist: 24in.-26in. Hip: 34in.-36in. Weight: 90-120lbs. Medium. Size: 6-10. Cup: B/C. Bust: 34in.-36in. Waist: 26in.-28in. Hip: 36in.-38in. Weight: 120-140lbs. Large. Size: 10-14. Cup: C/D. Bust: 36in.-38in. Waist: 28 ...
-  Updated: 2026-06-22T09:48:03Z
+  Updated: 2026-07-18T08:14:56Z
   Vendor: Escante, Inc
   Product Type: Lingerie
   Availability: Available
@@ -1210,7 +1210,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/EvelynLaceGarterBelt-Black-front.jpg?v=1778488768
     Price: $14.99 USD
 - [RomaCostumeLingerieAfter Midnight Lace Embroidered Metallic Peony Bra, Garter Belt & Thong - Black/Blue](https://toyvelle.com/products/after-midnight-lace-embroidered-metallic-peony-bra-garter-belt-thong-black-blue): fter Midnight 3pc Garter Set Bra: Embroidered metallic peony lace and stretch satin, Demi cup with underwire, Satin ribbon bow detail, Hook & eye closure Garter Belt: Embroidered metallic peony lace and stretch satin, Adjustable garter straps, Satin ribbon bow detail, Hook & eye closure Thong: Embro ...
-  Updated: 2026-06-22T09:48:03Z
+  Updated: 2026-07-17T01:25:38Z
   Vendor: RomaCostume
   Product Type: Lingerie
   Availability: Available
