@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-03-17T21:21:04Z
 - Contact Email: koreanotc@gmail.com
-- Updated At: 2026-07-15T00:00:33.962Z
+- Updated At: 2026-07-23T00:00:37.683Z
 
 ## Products
 
 - [Korean Moisturizer for Dry Skin | AESTURA](https://www.koreanotc.com/products/atobarrier-365-cream): AESTURA Atobarrier365 Cream is a Korean moisturizer for dry skin that deeply hydrates, supports the skin barrier, and helps soothe dryness daily.
-  Updated: 2026-07-14T15:27:33Z
+  Updated: 2026-07-15T05:52:36Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
@@ -136,24 +136,27 @@
 
 - [AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin Barrier Repair](https://www.koreanotc.com/blogs/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair)
   - [AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin](https://www.koreanotc.com/blogs/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair): AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin
-    Updated: 2026-07-11T10:22:07Z
+    Updated: 2026-07-18T16:36:47Z
     Author: Oh Min
     Tags: AESTURA
 - [AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry Sensitive Skin](https://www.koreanotc.com/blogs/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin)
   - [AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry,](https://www.koreanotc.com/blogs/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin): AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry,
-    Updated: 2026-07-14T04:53:15Z
+    Updated: 2026-07-18T16:36:47Z
     Author: Korean OTC
     Tags: AESTURA, atobarrier, dry skin, Korean skincare, sensitive skin, Skin Care
 - [Best Dry Skin Moisturizer: Top Picks and How to Choose](https://www.koreanotc.com/blogs/best-dry-skin-moisturizer-top-picks-and-how-to-choose)
   - [Best Dry Skin Moisturizer: Top Picks for Lasting Hydration](https://www.koreanotc.com/blogs/best-dry-skin-moisturizer-top-picks-and-how-to-choose/dry-skin-moisturizer-best-picks-12419-9): Best Dry Skin Moisturizer: Top Picks for Lasting Hydration
-    Updated: 2026-07-14T04:57:39Z
+    Updated: 2026-07-18T16:36:47Z
     Author: Oh Min
     Tags: AESTURA, atobarrier
 - [About Us](https://www.koreanotc.com/blogs/news)
-  - [Best Hydrating Serum Picks for Dry Skin in 2026](https://www.koreanotc.com/blogs/news/best-hydrating-serum-dry-skin-12585-76): Best Hydrating Serum Picks for Dry Skin in 2026
-    Updated: 2026-07-14T04:48:42Z
+  - [Best Hydrating Serum Picks for Dry Skin in 2026](https://www.koreanotc.com/blogs/news/best-hydrating-serum-dry-skin): Best Hydrating Serum Picks for Dry Skin in 2026
+    Updated: 2026-07-18T16:36:51Z
     Author: Oh Min
     Tags: AESTURA, Korean skincare, Skin Care
+  - [OH Pharmacy: Locations, Services, and More](https://www.koreanotc.com/blogs/news/oh-pharmacy): OH Pharmacy: Locations, Services, and More
+    Updated: 2026-07-18T17:17:10Z
+    Author: Oh Min
 
 ## Store Pages
 
@@ -187,6 +190,8 @@
   Updated: 2026-07-08T04:15:49Z
 - [HTML Sitemap for Easy Site Navigation](https://www.koreanotc.com/pages/html-sitemap): HTML sitemap for simple website navigation Products AESTURA Atobarrier365 Cream LEMONA Vitamin C 500mg (20 PCS... O! MY ENZYME 30 Sticks AESTURA At...
   Updated: 2026-07-08T04:17:37Z
+- [Partner links](https://www.koreanotc.com/pages/partner-links): Partner links Garden Organics Powered by SEOAnt
+  Updated: 2026-07-18T17:15:43Z
 
 ## Policies
 
