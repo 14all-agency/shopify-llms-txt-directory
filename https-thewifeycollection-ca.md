@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-27T01:53:23Z
 - Contact Email: admin@thewifeycollection.ca
-- Updated At: 2026-07-15T15:39:02.944Z
+- Updated At: 2026-07-23T00:00:23.511Z
 
 he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abayas, kaftans, gowns, cloaks, and outerwear in Canada. Our pieces are made to order, modest in silhouette, and designed for the woman who dresses with intention and grace.
 
@@ -156,6 +156,18 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Updated: 2026-07-15T15:15:35Z
     Author: The Wifey Collection
     Tags: chic modest clothing, elegance, fashion, modest, modest fashion tips, modest outfits, modest style, timeless fashion
+  - [A Graceful Symphony: Embracing Elegance in Modest Fashion](https://thewifeycollection.ca/blogs/news/a-graceful-symphony-embracing-elegance-in-modest-fashion): A Graceful Symphony: Embracing Elegance in Modest Fashion
+    Updated: 2026-07-16T09:08:09Z
+    Author: The Wifey Collection
+    Tags: chic outfits, elegance, embracing modest fashion, fashion, graceful modest wear, modest, modest clothing, stylish modesty
+  - [The Craftsmanship of Silence: Handmade Modesty in Contemporary Design](https://thewifeycollection.ca/blogs/news/the-craftsmanship-of-silence-handmade-modesty-in-contemporary-design): The Craftsmanship of Silence: Handmade Modesty in Contemporary Design
+    Updated: 2026-07-18T09:09:24Z
+    Author: The Wifey Collection
+    Tags: contemporary design, craftsmanship, ethical modest fashion designer, fashion, handmade fashion, handmade modest apparel, modest clothing, modesty
+  - [Echoes of Refinement: Navigating Modest Fashion with The Wifey Collection](https://thewifeycollection.ca/blogs/news/echoes-of-refinement-navigating-modest-fashion-with-the-wifey-collection): Echoes of Refinement: Navigating Modest Fashion with The Wifey Collection
+    Updated: 2026-07-21T09:08:25Z
+    Author: The Wifey Collection
+    Tags: chic outfits, elegance, how to wear modest fashion, modest fashion, modest fashion for women, modesty, refined looks, style
 
 ## Store Pages
 
