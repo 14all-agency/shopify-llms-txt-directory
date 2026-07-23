@@ -17,225 +17,231 @@ Website: https://bespokepars.com
 - Timezone: Europe/Berlin
 - Created At: 2025-02-23T14:29:29Z
 - Contact Email: info@bespokepars.com
-- Updated At: 2026-07-15T15:02:53.846Z
+- Updated At: 2026-07-23T00:00:35.337Z
 
 ## Products
 
 - [Golf Alignment Sticks - Individualität Pur - Design #01](https://bespokepars.com/products/individualitaet-pur01): Golf Ausrichtungsstäbe vollständig personalisieren: Erstellen Sie individuelle Sticks aus Mahagoni. Wählen Sie Farben, Metalle und Gravuren ganz nach Ihren Wünschen für perfektes Golfspiel.
-  Updated: 2026-07-06T14:48:06Z
+  Updated: 2026-07-17T20:36:56Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/IP1-blau-weiss-rot.jpg?v=1769181872
   Price: 90,00 € EUR
 - [Golf Mahagoni Alignment Sticks  - Handgefertigt "The Fairway"](https://bespokepars.com/products/the-fairway): Premium Golf Alignment Sticks 100% Mahagoni. Handgefertigt in Deutschland. Verbessern Sie Ihre Ausrichtung und Schwungtechnik. Personalisierbar mit Wunschtext.
-  Updated: 2026-07-15T05:59:22Z
+  Updated: 2026-07-22T16:38:35Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/the-fairway.jpg?v=1769160751
   - [Grün](https://bespokepars.com/products/the-fairway?variant=54928356704581)
-    Availability: Not Available
+    Availability: Available
     Price: 70,00 € EUR
   - [Rot](https://bespokepars.com/products/the-fairway?variant=54963536134469)
     Availability: Available
     Price: 70,00 € EUR
 - [Mahagoni Alignment Sticks - Handgefertigt "The Glacier"](https://bespokepars.com/products/the-glacier): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Alignment Sticks.
-  Updated: 2026-07-06T14:48:07Z
+  Updated: 2026-07-17T20:37:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/the-glacier.jpg?v=1769161355
   Price: 70,00 € EUR
 - [Golf Alignment Sticks Mahagoni - Handgemacht "The Bloom"](https://bespokepars.com/products/the-bloom): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-15T05:59:21Z
+  Updated: 2026-07-22T04:15:40Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/the-bloom.jpg?v=1769162474
   Price: 70,00 € EUR
 - [Golf Alignment Sticks Mahagoni - Handgefertigt "Green Stripes"](https://bespokepars.com/products/green-stripes): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Alignment Sticks.
-  Updated: 2026-07-06T14:48:10Z
+  Updated: 2026-07-22T14:01:24Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/green-stripes.jpg?v=1769164527
   Price: 40,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigte Ausrichtungsstäbe The Classic](https://bespokepars.com/products/the-classic): Premium Mahagoni Golf Alignment Sticks 100% Mahagoni. Handgefertigt in Deutschland. Verbessern Sie Ihre Ausrichtung und Schwungtechnik. Personalisierbar mit Wunschtext.
-  Updated: 2026-07-06T14:48:10Z
+  Updated: 2026-07-17T20:36:56Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/the-classic.jpg?v=1769160417
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt  "Sunrise"](https://bespokepars.com/products/sunrise): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisiert & nachhaltig. Verbessern Sie Ihr Golfspiel unseren Alignment Sticks.
-  Updated: 2026-07-06T14:48:10Z
+  Updated: 2026-07-17T20:37:01Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/sunrise.jpg?v=1769161043
   Price: 70,00 € EUR
 - [Mahagoni Golf Alignment Sticks - Handgefertigt "White Five"](https://bespokepars.com/products/white-five): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Mahagoni Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:16Z
+  Updated: 2026-07-17T20:37:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/white-five.jpg?v=1769162244
   Price: 70,00 € EUR
 - [Golf Alignment Sticks Mahagoni - Handgefertigt "Blue Pop"](https://bespokepars.com/products/blue-pop): Golfausrichtungsstäbe aus 100% Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:16Z
+  Updated: 2026-07-17T20:36:56Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/blue-pop.jpg?v=1769162711
   Price: 70,00 € EUR
 - [Alignment Sticks Golf Mahagoni - Handgefertigt "White Stripes"](https://bespokepars.com/products/white-stripes): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Mahagoni Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:16Z
+  Updated: 2026-07-22T14:03:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/white-stripes.jpg?v=1769164974
   Price: 40,00 € EUR
 - [Alignment Sticks Golf Mahagoni - Handgefertigt "Neon Stripes"](https://bespokepars.com/products/neon-stripes): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Mahagoni Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:17Z
+  Updated: 2026-07-22T14:01:49Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/neon-stripes.jpg?v=1769165192
   Price: 40,00 € EUR
 - [Alignment Sticks Golf Mahagoni - Handgefertigt "Black Stripes"](https://bespokepars.com/products/black-stripes): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Mahagoni Golf Alignment Sticks.
-  Updated: 2026-07-13T15:55:46Z
+  Updated: 2026-07-22T14:01:00Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/BLACK-STRIPES.jpg?v=1769101116
   Price: 40,00 € EUR
 - [Geschenkgutschein 50€](https://bespokepars.com/products/geschenkgutschein-50): Geschenkgutschein 50€ - Sofortversand per E-Mail, 12 Monate gültig, keine Gebühren. Für handgefertigte Premium Alignment Sticks aus Mahagoni. Made in Germany.
-  Updated: 2026-07-06T14:48:17Z
+  Updated: 2026-07-17T05:02:30Z
   Vendor: BespokePars
   Product Type: Geschenkgutscheine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/bespokepars-gutschein-50euro.jpg?v=1764088949
   Price: 50,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "The Tropical"](https://bespokepars.com/products/the-topical): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:17Z
+  Updated: 2026-07-17T20:37:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/the-tropical.jpg?v=1769163212
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Split Vision"](https://bespokepars.com/products/split-vision): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:21Z
+  Updated: 2026-07-17T20:36:56Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/split-vision.jpg?v=1769163433
   Price: 70,00 € EUR
 - [Geschenkgutschein 75€](https://bespokepars.com/products/geschenkgutschein-75): Geschenkgutschein 75€ - Sofortversand per E-Mail, 12 Monate gültig, keine Gebühren. Für handgefertigte Premium Alignment Sticks aus Mahagoni. Made in Germany.
-  Updated: 2026-07-06T14:48:21Z
+  Updated: 2026-07-17T05:02:35Z
   Vendor: BespokePars
   Product Type: Geschenkgutscheine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/bespokepars-gutschein-75euro.jpg?v=1764087704
   Price: 75,00 € EUR
 - [Geschenkgutschein 25€](https://bespokepars.com/products/geschenkgutschein-25): Geschenkgutschein 25€ - Sofortversand per E-Mail, 12 Monate gültig, keine Gebühren. Für handgefertigte Premium Alignment Sticks aus Mahagoni. Made in Germany.
-  Updated: 2026-07-06T14:48:26Z
+  Updated: 2026-07-17T05:02:35Z
   Vendor: BespokePars
   Product Type: Geschenkgutscheine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/bespokepars-gutschein-25euro.jpg?v=1764094639
   Price: 25,00 € EUR
 - [Geschenkgutschein 100€](https://bespokepars.com/products/geschenkgutschein-100): Geschenkgutschein 100€ - Sofortversand per E-Mail, 12 Monate gültig, keine Gebühren. Für handgefertigte Premium Alignment Sticks aus Mahagoni. Made in Germany.
-  Updated: 2026-07-06T14:48:27Z
+  Updated: 2026-07-17T05:02:35Z
   Vendor: BespokePars
   Product Type: Geschenkgutscheine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/bespokepars-gutschein-100euro.jpg?v=1764095832
   Price: 100,00 € EUR
 - [Alignment Stick Cover Leder-Filz | Handgefertigt | BespokePars](https://bespokepars.com/products/bespokepars-leder-filz-cover): Handgefertigte Leder-Filz-Schutzhüllen für Alignment Sticks. Exklusiv in deutscher Manufaktur für uns gefertigt. Premium-Qualität Made in Germany für BespokePars.
-  Updated: 2026-07-12T11:36:17Z
+  Updated: 2026-07-17T05:02:40Z
   Vendor: BespokePars
   Product Type: Golf-Zubehörsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/bespokepars-leder-filz-cover.jpg?v=1767956471
   Price: 40,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Cold Duo"](https://bespokepars.com/products/cold-duo): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:28Z
+  Updated: 2026-07-17T20:37:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/cold-duo.jpg?v=1769181872
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "The Void"](https://bespokepars.com/products/the-void): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:29Z
+  Updated: 2026-07-17T20:37:00Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/the-void.jpg?v=1769163936
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Red Strike"](https://bespokepars.com/products/red-strike): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:30Z
+  Updated: 2026-07-17T20:36:56Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/red-strike.jpg?v=1769164139
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Open Air"](https://bespokepars.com/products/open-air): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:31Z
+  Updated: 2026-07-17T20:37:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/open-air.jpg?v=1769164308
   Price: 70,00 € EUR
 - [Alignment Sticks Golf Mahagoni - Handgefertigt "Pastell Stripes"](https://bespokepars.com/products/pastell-stripes): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Mahagoni Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:31Z
+  Updated: 2026-07-22T14:02:10Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/pastell-stripes.jpg?v=1769165884
   Price: 40,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt " Burgundy Leaf"](https://bespokepars.com/products/burgundy-leaf): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:36Z
+  Updated: 2026-07-17T20:36:56Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/burgundy-leaf.jpg?v=1769166741
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Bordeaux"](https://bespokepars.com/products/bordeaux): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:35Z
+  Updated: 2026-07-17T20:36:57Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/bordeaux.jpg?v=1769167005
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Blue Ember"](https://bespokepars.com/products/blue-ember): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:36Z
+  Updated: 2026-07-17T20:37:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/blue-ember.jpg?v=1769167312
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Obsidian"](https://bespokepars.com/products/obsidian): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:34Z
+  Updated: 2026-07-17T20:37:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/obsidian.jpg?v=1769167608
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Ivory Sky"](https://bespokepars.com/products/ivory-sky): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-06T14:48:35Z
+  Updated: 2026-07-17T20:37:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/ivory-sky.jpg?v=1769167811
   Price: 70,00 € EUR
 - [Golf Alignment Sticks - Individualität Pur - Design #02](https://bespokepars.com/products/individualitaet-pur-design-02): Golf Ausrichtungsstäbe vollständig personalisieren: Erstellen Sie individuelle Sticks aus Mahagoni. Wählen Sie Farben, Metalle und Gravuren ganz nach Ihren Wünschen für perfektes Golfspiel.
-  Updated: 2026-07-06T14:48:41Z
+  Updated: 2026-07-17T20:37:05Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/cold-duo.jpg?v=1769181872
   Price: 90,00 € EUR
+- [Unser Kombinationsangebot](https://bespokepars.com/products/mix-match-bundle-1)
+  Updated: 2026-07-17T19:51:21Z
+  Vendor: BespokePars
+  Product Type: 
+  Availability: Available
+  Price: 0,00 € EUR
 
 ## Collections
 
@@ -246,13 +252,13 @@ Website: https://bespokepars.com
   Updated: 2026-06-27T20:23:35Z
   Total Products: 2
 - [Special Offers](https://bespokepars.com/collections/special-offers): Entdecken Sie unsere Golf Special Offers: Handgefertigte Alignment Sticks aus Mahagoni zu reduzierten Preisen. Limitierte Angebote und Unikate.
-  Updated: 2026-07-14T11:29:50Z
+  Updated: 2026-07-22T11:27:59Z
   Total Products: 8
 - [BespokePars Gutscheine](https://bespokepars.com/collections/bespokepars-gutscheine): Geschenkgutschein 25€ - Sofortversand per E-Mail, 12 Monate gültig, keine Gebühren. Für handgefertigte Premium Alignment Sticks aus Mahagoni. Made in Germany.
   Updated: 2026-05-14T13:48:52Z
   Total Products: 4
 - [Lassen Sie sich überraschen](https://bespokepars.com/collections/startkollektion): Unsere Alignment Sticks auf einen Blick. Premiumqualität. 100 % Handarbeit. Hergestellt in Deutschland.
-  Updated: 2026-07-02T11:35:10Z
+  Updated: 2026-07-22T11:27:59Z
   Total Products: 21
 - [Premium Golf-Accessoires](https://bespokepars.com/collections/zubehoer): BespokePars Golf-Zubehör: Handarbeit aus Deutschland. Premium-Materialien, traditionelle Fertigung, kompromisslose Qualität. Für Golfer mit Anspruch.
   Updated: 2026-07-12T11:36:30Z
@@ -315,20 +321,20 @@ Website: https://bespokepars.com
 - [Teamanfragen - Golf Alignment Sticks und mehr für Mannschaften](https://bespokepars.com/pages/teamanfragen): Unser Exklusiv-Angebot für Mannschaften und Clubs Wir finden: Teamspirit sollte keine Massenware sein. Deshalb bieten wir speziell auf Golf-Mannsch...
   Updated: 2026-06-27T21:30:46Z
 - [FAQ - Häufig gestellte Fragen | BespokePars](https://bespokepars.com/pages/faq): Produkte & Material 1. Was sind Golf Alignment Sticks? Golf Alignment Sticks sind Trainingsgeräte, die Golfern dabei helfen, ihre Körperausrichtung...
-  Updated: 2025-12-25T10:48:47Z
+  Updated: 2026-07-20T05:47:28Z
 - [Über uns - BespokePars](https://bespokepars.com/pages/about-bespokepars): APRIL 2025 – Der Anfang Eine einfache Idee zwischen Vater und Sohn.Es begann nicht mit einem Businessplan, sondern auf dem Übungsgrün.Als begeister...
   Updated: 2026-06-28T12:57:22Z
 
 ## Policies
 
 - [Privacy Policy](https://bespokepars.com/policies/privacy-policy)
-  Updated: 2026-07-15T05:15:34+02:00
+  Updated: 2026-07-22T04:47:56+02:00
 - [Shipping Policy](https://bespokepars.com/policies/shipping-policy)
   Updated: 2026-06-27T23:38:19+02:00
 - [Refund Policy](https://bespokepars.com/policies/refund-policy)
-  Updated: 2026-07-09T16:14:28+02:00
+  Updated: 2026-07-17T04:27:51+02:00
 - [Terms of Service](https://bespokepars.com/policies/terms-of-service)
-  Updated: 2026-07-15T05:14:05+02:00
+  Updated: 2026-07-17T04:24:23+02:00
 - [Contact Information](https://bespokepars.com/policies/contact-information)
   Updated: 2026-06-27T23:49:29+02:00
 
@@ -337,11 +343,9 @@ https://www.instagram.com/bespokeparsgolf/
 https://de.pinterest.com/bespokepars
 
 ## Press & Recognition
-- Golfregional (Juli 2026): „Exklusive Trainingshilfen aus Mahagoni" – Erwähnung in der führenden deutschsprachigen Golfzeitschrift für handwerkliche Premium-Qualität und Design
-  https://golfregional.de/exklusive-trainingshilfen-aus-mahagoni/
+Golfregional (July 2026): “Exclusive mahogany training aids” – Featured in one of the leading German-language golf magazines
+https://golfregional.de/exklusive-trainingshilfen-aus-mahagoni/
 
-- Golfregional (July 2026): “Exclusive mahogany training aids” – featured in the leading German-language golf magazine for premium craftsmanship and design
-  https://golfregional.de/exklusive-trainingshilfen-aus-mahagoni/
 
 ## Optional
 
