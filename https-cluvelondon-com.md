@@ -6,40 +6,47 @@
 - Timezone: Europe/London
 - Created At: 2025-08-02T17:35:45Z
 - Contact Email: support@cluvelondon.com
-- Updated At: 2026-07-13T22:40:11.606Z
+- Updated At: 2026-07-23T00:00:29.890Z
 
 ## Products
 
 - [Epil Pro – RootLift™ Hair Removal for Weeks of Smooth, Hair](https://cluvelondon.com/products/cluve-epil-pro): Discover Cluve™ Epil Pro with RootLift™ technology. Gentle, long-lasting hair removal for up to 4 weeks — no pain, no redness, no ingrown hairs.
-  Updated: 2026-07-13T22:31:31Z
+  Updated: 2026-07-22T17:31:47Z
   Vendor: Cluve London
   Product Type: hair removal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/9431/0227/files/nuve-epil-pro-9063361.png?v=1765476806
   Price: £36.00 GBP
+- [Silk·epil 3 Epilator Cluve | At-Home Hair Removal](https://cluvelondon.com/products/silk-epil-3-epilator-cluve): Discover the Silk·epil 3 Epilator for convenient at-home hair removal. Designed for dry use on legs, arms and underarms. Shop online in the UK.
+  Updated: 2026-07-20T05:38:02Z
+  Vendor: Cluve London
+  Product Type: Body Epilators
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0657/9431/0227/files/silkepil-3-epilator-cluve-cluve-london-9708242.png?v=1784275630
+  Price: £27.90 GBP
 - [Cluve™ Epil Pro 4 in 1 – Painless Hair Removal for Women](https://cluvelondon.com/products/cluve-epil-pro-4-in-1): Remove facial and body hair gently with Cluve™ Epil Pro 4 in 1. No redness, no ingrown hairs, smooth skin for up to 4 weeks.
-  Updated: 2026-07-13T20:24:53Z
+  Updated: 2026-07-21T09:58:17Z
   Vendor: Cluve London
   Product Type: hair removal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/9431/0227/files/cluve-epil-pro-4-in-1-5571069.png?v=1765515073
   Price: £39.99 GBP
 - [Shaver 4 in 1 for Women – Painless Facial & Body Hair Removal](https://cluvelondon.com/products/women-shaver-4-in-1-cluve): Remove facial and body hair painlessly with the Cluve™ Women Shaver 4 in 1. Waterproof, gentle, no ingrown hairs, smooth skin for weeks.
-  Updated: 2026-07-13T22:30:27Z
+  Updated: 2026-07-20T15:32:51Z
   Vendor: Cluve London
   Product Type: hair removal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/9431/0227/files/cluve-epil-pro-4-in-1-5571069.png?v=1765515073
   Price: £29.99 GBP
 - [Facial Epilator UK | Epil Pro Gold Women | Cluve London](https://cluvelondon.com/products/facial-epilator-uk): Discover Cluve™ Facial Epilator UK - Epil Pro with RootLift™ technology. Gentle, long-lasting hair removal for up to 4 weeks
-  Updated: 2026-07-13T22:29:41Z
+  Updated: 2026-07-22T09:45:46Z
   Vendor: Cluve London
   Product Type: hair removal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/9431/0227/files/facial-epilator-uk-epil-6820311.png?v=1771199687
   Price: £36.00 GBP
 - [Pre & Post Hair Removal Spray | Lumière Silk Duo | Cluve London](https://cluvelondon.com/products/lumiere-silk-duo-pre-post-hair-removal-spray-by-cluve-london): Lumière Silk Duo Pre & Post Hair Removal Spray by Cluve London. Chamomile pre-care and aloe vera aftercare for smooth, fresh-feeling skin.
-  Updated: 2026-07-13T20:24:54Z
+  Updated: 2026-07-22T11:03:47Z
   Vendor: Cluve London
   Product Type: 
   Availability: Available
@@ -57,7 +64,7 @@
     Image: https://cdn.shopify.com/s/files/1/0657/9431/0227/files/lumiere-silk-duo-prep-rescue-kit-by-cluve-london-cluve-london-5515153.png?v=1773800951
     Price: £34.99 GBP
 - [Collagen Face Mask | Korean collagen face mask for firmer-looking skin](https://cluvelondon.com/products/bio-collagen-face-mask-korean-sheet-mask): Discover the Collagen Face Mask. Korean-inspired overnight hydration for smoother, firmer-looking skin with a healthy glow by morning.
-  Updated: 2026-07-13T20:24:54Z
+  Updated: 2026-07-15T18:03:48Z
   Vendor: Cluve London
   Product Type: Hydrogel Overnight Face Mask
   Availability: Available
@@ -78,8 +85,17 @@
 ## Collections
 
 - [All Products](https://cluvelondon.com/collections/all-products): All Products from Cluve London. Explore our premium beauty and skincare collection designed for women seeking effective self-care solutions.
-  Updated: 2026-07-13T20:24:53Z
+  Updated: 2026-07-22T11:15:24Z
+  Total Products: 6
+- [Hair Removal](https://cluvelondon.com/collections/hair-removal): Shop women's hair removal at Cluve London. Discover facial and body epilators, precision trimmers and pre- and post-hair-removal care.
+  Updated: 2026-07-22T11:15:24Z
   Total Products: 5
+- [Epilators](https://cluvelondon.com/collections/epilators): Shop women’s epilators at Cluve London. Explore facial and body epilators designed for convenient and precise at-home hair removal.
+  Updated: 2026-07-22T11:15:24Z
+  Total Products: 4
+- [Body Care](https://cluvelondon.com/collections/body-care): Shop body care at Cluve London. Explore everyday personal care essentials for a simple and convenient at-home beauty routine.
+  Updated: 2026-07-22T11:15:24Z
+  Total Products: 6
 
 ## Blogs
 
