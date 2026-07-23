@@ -6,24 +6,39 @@
 - Timezone: America/Chicago
 - Created At: 2024-10-25T00:49:17Z
 - Contact Email: jbrooks@gaiagrowthsolutions.com
-- Updated At: 2026-07-15T17:46:19.285Z
+- Updated At: 2026-07-23T00:00:20.570Z
 
 ## Products
 
 - [Wholesale Natural Fiber Supplier USA | Gaia Growth Solutions](https://www.gaiagrowthsolutions.com/products/wholesale-natural-fiber-supplier-usa): Bulk natural fiber supplier USA. Cellulose & wood chip alternative by the metric ton. US-grown, tariff-free, 90-day delivery. Request a wholesale quote.
-  Updated: 2026-07-06T03:00:36Z
+  Updated: 2026-07-22T15:57:52Z
   Vendor: Gaia Growth Solutions
   Product Type: Raw Materials
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/7606/9671/files/blog-vast-lush-green-industrial-hemp-field-stretching-to-the-horizon-under-bright-blu-1778730837.png?v=1778730839
   Price: $0.00 USD
-- [The Hemp Home | 12-Month Hemp Home Conversion System](https://www.gaiagrowthsolutions.com/products/the-hemp-home-system): A 12-month hemp home conversion system: room-by-room audits, bast & hurd swap ladders, verification protocols, and savings math you can re-add by hand.
-  Updated: 2026-07-15T01:37:42Z
+- [The Hemp Home | 12-Month Hemp Conversion System](https://www.gaiagrowthsolutions.com/products/the-hemp-home-system): Cut recurring household costs with durable hemp bast & hurd products. A 12-month system with room-by-room audits, worksheets, and math you can check.
+  Updated: 2026-07-16T12:12:05Z
   Vendor: Gaia Growth Solutions
   Product Type: Digital Download
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/7606/9671/files/Gaia_Logo_f7d35063-bbde-4e4d-85a4-a808d10cc0f5.webp?v=1776574047
-  Price: $15.00 USD
+  Price: $20.00 USD
+- [Vendor Booth — End of the Summer Virtual Swap Meet](https://www.gaiagrowthsolutions.com/products/vendor-booth-virtual-shop-a-thon): Saturday, August 29, 2026 · 9 AM–4 PM Central 100% virtual. 100% nationwide. Vendors and shoppers join from anywhere in the country.
+  Updated: 2026-07-22T15:22:01Z
+  Vendor: Gaia Growth Solutions
+  Product Type: Event Booth
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0902/7606/9671/files/instagram_vendor_recruitment_post.png?v=1784670992
+  - [Small Business](https://www.gaiagrowthsolutions.com/products/vendor-booth-virtual-shop-a-thon?variant=51684217520423)
+    Availability: Available
+    Price: $25.00 USD
+  - [Established Business](https://www.gaiagrowthsolutions.com/products/vendor-booth-virtual-shop-a-thon?variant=51684217553191)
+    Availability: Available
+    Price: $250.00 USD
+  - [Enterprise](https://www.gaiagrowthsolutions.com/products/vendor-booth-virtual-shop-a-thon?variant=51684217585959)
+    Availability: Available
+    Price: $500.00 USD
 
 ## Collections
 
@@ -37,7 +52,10 @@
   Updated: 2026-04-07T10:24:52Z
   Total Products: 0
 - [Hemp Fiber for Your Home — Zero Waste Living Bundle](https://www.gaiagrowthsolutions.com/collections/sustainable-living-in-2026-welcom-you-zero-waste-living-guides): Shop 'Hemp Fiber for Your Home' — the ultimate zero waste bundle with hemp bast fiber & hurd. Sustainable living guide + US-sourced hemp. Shop now.
-  Updated: 2026-07-14T14:41:57Z
+  Updated: 2026-07-16T00:11:57Z
+  Total Products: 1
+- [Vendor Booth — End of the Summer Virtual Swap Meet](https://www.gaiagrowthsolutions.com/collections/vendor-booth-end-of-summer-virtual-swap-meet): Reserve your vendor booth for the End of the Summer Virtual Swap Meet. Join our seasonal online marketplace event and connect with buyers.
+  Updated: 2026-07-21T15:00:13Z
   Total Products: 1
 
 ## Blogs
@@ -142,7 +160,7 @@
     Updated: 2026-07-06T19:17:53Z
     Author: John Brooks
   - [Hemp Rebar for Structural Construction | Bio-Composite Alternative to Steel](https://www.gaiagrowthsolutions.com/blogs/news/hemp-rebar-structural-bio-composite-construction-2026): Hemp Rebar for Structural Construction | Bio-Composite Alternative to Steel
-    Updated: 2026-07-06T18:51:02Z
+    Updated: 2026-07-20T12:08:09Z
     Author: John Brooks
   - [Hemp Hurd vs Bast Fiber in Construction | HempCrete Explained](https://www.gaiagrowthsolutions.com/blogs/news/hemp-hurd-bast-fiber-sustainable-construction-guide): Hemp Hurd vs Bast Fiber in Construction | HempCrete Explained
     Updated: 2026-07-06T18:42:55Z
@@ -160,6 +178,14 @@
     Updated: 2026-07-06T19:24:03Z
     Author: John Brooks
     Tags: Bast Fiber, Hemp Hurd, HempCrete, R-Value, Sustainable Construction
+  - [Hemp hurd](https://www.gaiagrowthsolutions.com/blogs/news/hemp-hurd): Hemp hurd
+    Updated: 2026-07-20T12:40:30Z
+    Author: John Brooks
+    Tags: benefits of hemp hurd, deliver by the metric ton, delivering hurd to your facility at scal, eco-friendly material, fiber, hemp, hemp bast fiber, hemp blocks, hemp floors, hemp hurd applications, hemp hurd fiber, hempcrete, hurd, lignin, logistics, natural insulation, r-value, scalability, sustainable construction
+  - [Hemp-rebar-structural-bio-composite-construction-2026](https://www.gaiagrowthsolutions.com/blogs/news/hemp-rebar-structural-bio-composite-construction-2027): Hemp-rebar-structural-bio-composite-construction-2026
+    Updated: 2026-07-22T02:22:35Z
+    Author: John Brooks
+    Tags: bio-composite, construction, deliver by the metric ton, delivering hurd to your facility at scal, fiber, hemp, hemp bast fiber, hemp blocks, hemp floors, hemp hurd fiber, hemp hurdles, hemp in construction, hempcrete, lignin, logistics, r-value, scalability, structural materials, sustainable building materials
 
 ## Store Pages
 
@@ -173,6 +199,10 @@
   Updated: 2026-07-14T15:56:13Z
 - [Bulk Hemp Bast Fiber & Hemp Hurd Supplier | Gaia Growth Solutions](https://www.gaiagrowthsolutions.com/pages/who-we-serve): Who Buys From Gaia Growth Solutions We  bulk hemp bast fiber and hemp hurd to manufacturers, builders, and distributors who need a supplier tha...
   Updated: 2026-07-05T14:46:59Z
+- [End of the Summer Virtual Swap Meet](https://www.gaiagrowthsolutions.com/pages/virtual-swap-meet): .gg-mall{ --paper:#FFF9F0; --ink:#26331F; --ink-soft:#5C6653; --green:#1E5B4F; --green-deep:#16453C; --marigold:#F5B841; --line:#EAE0CB; --card:#FF...
+  Updated: 2026-07-21T14:54:55Z
+- [Vendor Sign-Up — End of the Summer Virtual Swap Meet](https://www.gaiagrowthsolutions.com/pages/vendor-signup): .vs-wrap{max-width:640px;margin:0 auto;padding:10px 4px 40px;font-family:'Karla',system-ui,sans-serif;color:#26331F} .vs-hero{background:#1E5B4F;co...
+  Updated: 2026-07-21T15:23:57Z
 
 ## Policies
 
