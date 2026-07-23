@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2026-04-28T09:56:05Z
 - Contact Email: ramsaym.dahn@yahoo.com
-- Updated At: 2026-07-16T00:00:46.198Z
+- Updated At: 2026-07-23T00:00:47.516Z
 
 ## Products
 
@@ -1106,7 +1106,7 @@
     Image: https://cdn.shopify.com/s/files/1/1066/6429/6787/files/9247_navy_1.jpg?v=1779221418
     Price: $300.00 USD
 - [Jordan 2292 One-Piece Swimsuit — Stylish Women's Swimwear](https://yahwehzuo.com/products/2292-jordan-onepiece): Make a bold statement in swimwear that features a cutting-edge design. The Jordan monokini is for the trendsetter who loves to stand out, featuring an intricate crisscross design, and a side ring detail that wraps the body creating an asymmetrical silhouette that flatters and fascinates. Hook fasting halter neckline Back zipper closure Skimpy high-waisted bottom Hand wash in cold water, dry in shade. Do not bleach/iron/dry clean. Be Wicked Swimwear Polybag Packaging 80% Nylon 20% Spandex
-  Updated: 2026-06-13T18:52:07Z
+  Updated: 2026-07-18T11:48:08Z
   Vendor: BeWicked
   Product Type: Swimwear
   Availability: Available
@@ -1144,7 +1144,7 @@
     Image: https://cdn.shopify.com/s/files/1/1066/6429/6787/files/638665e792dc072e3.jpg?v=1779221481
     Price: $27.00 USD
 - [Fitted Sequin Dress with Velvet Details — Glamorous Evening Gown](https://yahwehzuo.com/products/fitted-sequin-dress-with-velvet-details): Step into timeless elegance in this fitted evening gown, a masterpiece for the woman who exudes sophistication. This gown features a luxurious velvet-embellished floral motif gracefully woven over a stretch net fabrication, ensuring a flawless, figure-hugging silhouette. The thin straps and scoop neckline add a touch of refined simplicity, perfectly framing your shoulders and collarbone. The combination of rich velvet and delicate stretch net creates a stunning interplay of textures, making this gown a standout choice for any formal occasion. Whether you're attending a gala, wedding, or evening soirée, this gown promises to turn heads and make you feel like the epitome of grace and glamour. Let this exquisite piece be your go-to for nights where elegance is a must and unforgettable memories are made.
-  Updated: 2026-06-13T18:52:08Z
+  Updated: 2026-07-18T03:20:53Z
   Vendor: Tux-USA
   Product Type: Nightgown
   Availability: Available
@@ -1174,7 +1174,7 @@
     Image: https://cdn.shopify.com/s/files/1/1066/6429/6787/files/cr381_burgundy.jpg?v=1779221418
     Price: $265.00 USD
 - [Jewel & Bead Embellished Long Dress — Elegant Back Cut-Out Gown](https://yahwehzuo.com/products/jewel-and-bead-embellished-long-dress-with-back-cut-out): Indulge in luxury and glamour with our Jewel and Bead Embellished Long Dress. The sleeveless design and chiffon fabric create an illusion sweetheart neckline, while the open back and back zipper add a touch of sensuality. Complete with intricate bead embellishments, this A-Line dress comes in royal blue, ivory, and red, making it the perfect choice for prom or any special occasion. Elevate your style and make a statement with this show-stopping dress. Fabric: Chiffon Length: Floor Length Neckline: Illusion Sweetheart Sleeve: Sleeveless Back: Open, Zipper Embellishment: Beads Silhouette: A-Line
-  Updated: 2026-06-13T18:52:08Z
+  Updated: 2026-07-17T01:31:44Z
   Vendor: Tux-USA
   Product Type: Nightgown
   Availability: Available
@@ -1392,7 +1392,7 @@
     Image: https://cdn.shopify.com/s/files/1/1066/6429/6787/files/gl3414-sage-1-long-mother-of-bride-mesh-applique-sequin-glitter-covered-zipper-v-back-cap-sleeve-sweetheart-mermaid-1024x1536.jpg?v=1779221418
     Price: $235.00 USD
 - [Anthony Black Italian Wool Tuxedo Pants — Vitale Barberis Premium Formal](https://yahwehzuo.com/products/anthony-black-vitale-barberis-italian-wool-tuxedo-pants): Pants - Rental Construction All rental construction pants include an adjustable waist feature (made with premium US-made components) to ensure a durable and reliable solution for the best in quality, there made for rental tuxedo store. You can Own a one for the same Rental Price. A staple for any stylish modern day man is a great looking tux. The "Anthony" Black Vitale Barberis Italian Wool Tuxedo Pants. The Anthony's are made from 100% wool (also known as Italian Super 110's Vitale Barberis Canonico) making them a unique and special pant. Available in both modern and slim fit, the Anthony's make a great option to be worn at weddings, galas, or any other other special event. These plain front, solid tuxedo pants are sure to become a staple piece in any stylish man's wardrobe. Color: Black Style: Plain Front Material: 100% Wool (Italian Super 110's Vitale Barberis Canonico) Pattern: Solid Formal Stripe: 1/8" Satin Stripe Designer: Cardi Fit & Sizes: Modern Fit (28 - 70) or Slim Fit (34 - 44) Condition: Brand new with original tags & packaging. Pants come unhemmed at the bottom so you can hem to your preferred length. STYLING TIP: The "Anthony" pants are designed to match with the Cardi Heritage Tuxedo Jacket. However, these pants also coordinate well with a variety of jackets.
-  Updated: 2026-06-13T18:52:09Z
+  Updated: 2026-07-17T22:11:06Z
   Vendor: Tux-USA
   Product Type: Mens Pants
   Availability: Available
@@ -1526,7 +1526,7 @@
     Image: https://cdn.shopify.com/s/files/1/1066/6429/6787/files/anthony-black-vitale-barberis-italian-wool-tuxedo-pants-27-29-adjustable-short-modern-210.jpg?v=1779221418
     Price: $145.00 USD
 - [Sebastian Grey Pindot Tuxedo Jacket — Shawl Lapel Separate](https://yahwehzuo.com/products/sebastian-grey-pindot-tuxedo-jacket-shawl-separates): Jackets - Retail Construction Retail construction jackets feature premium interior lining, additional interior pockets & 4-button vented sleeve buttons. What does "Separates" mean?A separates program allows you to purchase any size jacket with any size pants. This particular product is for the jacket only. If you need both jacket and pants, please be sure to add the matching pants to your order. Color: Grey Jacket Lapels: Shawl Buttons: 1 Material: Luxury Wool Blend Pattern: Pindot Jacket Vents: Side Vents Fit & Sizes: Slim Fit (34 - 44) Sizing Tip: BLACKTIE Slim Fit is a true European slim fit design. It is cut closer to the body than your usual American slim fit design. If you are not accustomed to wearing European slim fit, we recommend that you order one size up. For example, if you normally wear a 40R Slim Fit, you may want to consider ordering the 42R Slim Fit. Condition: Brand new with original tags & packaging COMPANION PANTS: The pants that were designed to go with this "Milan" jacket is the "Logan" Black Tuxedo Pants, featuring an updated 1/8" narrow satin stripe going down the outer side of each leg. If you do not prefer the side stripe detail, you could opt for the "Bradley" Black Suit Pants. Either of these pants are crafted using the same luxurious wool blend. COMPANION VEST: Looking for a vest in the same fabric as the jacket & pants? Consider adding the Black Mason Vest and you now have a 3-piece suit! SIZING NOTE: The "Sebastian" Pindot Collection is only currently available in SLIM FIT (sizes 34 - 44).
-  Updated: 2026-06-13T18:52:09Z
+  Updated: 2026-07-17T07:15:51Z
   Vendor: Tux-USA
   Product Type: Tuxedos
   Availability: Available
@@ -1798,7 +1798,7 @@
     Image: https://cdn.shopify.com/s/files/1/1066/6429/6787/files/ethan-black-super-150s-luxury-viscose-blend-suit-pants-27-29-adjustable-short-modern-243.jpg?v=1779221417
     Price: $125.00 USD
 - [Bradley Midnight Navy Luxury Wool Blend Suit Pants — Unhemmed](https://yahwehzuo.com/products/bradley-midnight-navy-luxury-wool-blend-suit-pants-unhemmed): Bradley Midnight Navy Luxury Wool Blend Suit Pants — Unhemmed Elevate your formal wardrobe with the Bradley Midnight Navy Suit Pants — crafted from a premium luxury wool blend for a refined, polished look. Available unhemmed at 37" for a fully customizable fit, these pants are the perfect foundation for any black-tie or formal occasion. Product Details Color: Midnight Navy Style: Plain Front Material: Luxury Wool Blend Pattern: Solid Stripe: 1/8" Satin Stripe down each outside leg Belt Loops: No Fit & Sizes: Modern Fit (28–60) | Slim Fit (28–38) Length: Unhemmed at 37" — tailor to your perfect length Condition: Brand new with original tags & packaging Sizing Tip Our Slim Fit follows a true European slim cut — closer to the body than a standard American slim fit. If you're new to European slim fit, we recommend sizing up one size for optimal comfort. Why You'll Love Them ✔ Premium luxury wool blend for superior drape and comfort ✔ Unhemmed for a fully custom length — perfect for tailoring ✔ Versatile midnight navy pairs beautifully with tuxedo and dinner jackets ✔ Available in a wide range of sizes for the perfect fit ✔ Ideal for weddings, galas, black-tie events, and formal occasions Perfect Pairings These pants are crafted from the same luxury wool blend as our Hartford Black Jacket, Milan Black Jacket, and Rio Black Jacket — making them an effortless match for a complete formal look. They also pair beautifully with any colored tuxedo or dinner jacket. Prefer a pre-hemmed option? Shop the Bradley Midnight Navy Suit Pants — Hemmed in lengths 30, 32, and 34.
-  Updated: 2026-06-13T18:52:09Z
+  Updated: 2026-07-17T11:24:44Z
   Vendor: Tux-USA
   Product Type: Mens Pants
   Availability: Available
@@ -1928,7 +1928,7 @@
     Image: https://cdn.shopify.com/s/files/1/1066/6429/6787/files/bradley-midnight-navy-luxury-wool-blend-suit-pants-unhemmed-28-modern-pantalon-caballero-884.jpg?v=1779221417
     Price: $125.00 USD
 - [Milan Black Tuxedo Jacket — Peak Lapel Formal Separate](https://yahwehzuo.com/products/milan-black-tuxedo-jacket-peak-separates): Jackets - Retail Construction Retail construction jackets feature premium interior lining, additional interior pockets & 4-button vented sleeve buttons. What does "Separates" mean?A separates program allows you to purchase any size jacket with any size pants. This particular product is for the jacket only. If you need both jacket and pants, please be sure to add the matching pants to your order. Color: Black Jacket Lapels: Peak Buttons: 1 Material: Luxury Wool Blend Pattern: Solid Jacket Vents: Side Vents Fit & Sizes: Modern Fit (34 - 60) or Slim Fit (34 - 44) Sizing Tip: BT COLLECTION Slim Fit is a true European slim fit design. It is cut closer to the body than your usual American slim fit design. If you are not accustomed to wearing European slim fit, we recommend that you order one size up. For example, if you normally wear a 40R Slim Fit, you may want to consider ordering the 42R Slim Fit. Condition: Brand new with original tags & packaging COMPANION PANTS: The pants that were designed to go with this "Milan" jacket is the "Logan" Black Tuxedo Pants, featuring an updated 1/8" narrow satin stripe going down the outer side of each leg. If you do not prefer the side stripe detail, you could opt for the "Bradley" Black Tuxedo Pants. Either of these pants are crafted using the same luxurious wool blend.
-  Updated: 2026-06-13T18:52:10Z
+  Updated: 2026-07-17T11:43:57Z
   Vendor: Tux-USA
   Product Type: Tuxedos
   Availability: Available
@@ -2377,6 +2377,12 @@
     Author: User
   - [How to Build a Faith-Focused Family Environment at Home](https://yahwehzuo.com/blogs/news/how-to-build-a-faith-focused-family-environment-at-home): How to Build a Faith-Focused Family Environment at Home
     Updated: 2026-07-15T00:42:06Z
+    Author: User
+  - [Enhancing Bible Study Sessions: Tips and Tricks for Group Leaders](https://yahwehzuo.com/blogs/news/enhancing-bible-study-sessions-tips-and-tricks-for-group-leaders): Enhancing Bible Study Sessions: Tips and Tricks for Group Leaders
+    Updated: 2026-07-20T00:30:05Z
+    Author: User
+  - [A Look at Different Interpretations of The Book of Revelation](https://yahwehzuo.com/blogs/news/a-look-at-different-interpretations-of-the-book-of-revelation): A Look at Different Interpretations of The Book of Revelation
+    Updated: 2026-07-22T00:41:10Z
     Author: User
 
 ## Store Pages
