@@ -6,12 +6,12 @@
 - Timezone: America/Toronto
 - Created At: 2025-04-09T17:48:31Z
 - Contact Email: info@klydescreatives.com
-- Updated At: 2026-07-14T19:40:14.161Z
+- Updated At: 2026-07-23T00:00:31.676Z
 
 ## Products
 
 - [Reframe Tee](https://www.klydescreatives.com/products/reframe-tee): Disruption in a drape. This tee leans offbeat with intention, offering an unconventional fit that holds its own. It’s your everyday rebellion—stitched in cotton, delivered in silence.
-  Updated: 2026-07-14T17:38:17Z
+  Updated: 2026-07-16T09:18:37Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -44,7 +44,7 @@
   Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/bdad823d-5e54-4bdc-af29-7e495ff01a7e.jpg?v=1746551118
   Price: $35.00 CAD
 - [Reclaim Crop Top](https://www.klydescreatives.com/products/reclaim-crop-top): Affirmation streetwear crop top for bold, conscious self-expression. Cropped but far from cut short. This Reclaim top delivers sharp intention in a soft silhouette—where style meets statement, and every inch means something. Made for those who speak volumes in fewer words.
-  Updated: 2026-07-14T19:27:18Z
+  Updated: 2026-07-15T07:27:24Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -62,7 +62,7 @@
     Availability: Available
     Price: $45.00 CAD
 - [Reclaim Muscle Tank](https://www.klydescreatives.com/products/reclaim-muscle-tank): Affirmation streetwear muscle tank for conscious, bold self-expression. Strong lines, soft impact. This sleeveless essential brings edge without the ego, blending structure and ease. Built for movement—both in body and in purpose—it carries the Reclaim message in every stitch, inviting you to wear your values out loud. gid://shopify/Product/7914335207481
-  Updated: 2026-07-14T19:34:39Z
+  Updated: 2026-07-15T07:34:48Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
     Availability: Available
     Price: $50.00 CAD
 - [Reclaim Tank Top](https://www.klydescreatives.com/products/reclaim-tank-top-white): Minimalist affirmation tank top — conscious streetwear essential for everyday layering. Easygoing, but intentional. This minimalist tank flows with you, offering effortless comfort while carrying the Reclaim message with quiet strength. Light on fabric, heavy on meaning.
-  Updated: 2026-07-14T19:29:36Z
+  Updated: 2026-07-15T07:29:46Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -105,7 +105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/0eb6779626ce4ee08b4491d8eb77ca4b.png?v=1747149110
     Price: $45.00 CAD
 - [Reclaim Tank Top](https://www.klydescreatives.com/products/reclaim-tank-top-black): Conscious fashion tank top with an affirmation message, perfect for minimalist streetwear layering. Easygoing, but intentional. This minimalist tank flows with you, offering effortless comfort while carrying the Reclaim message with quiet strength. Light on fabric, heavy on meaning.
-  Updated: 2026-07-14T19:28:30Z
+  Updated: 2026-07-15T07:28:34Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -127,7 +127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/15080380c4aa473fb28b51208e117584.png?v=1747149201
     Price: $45.00 CAD
 - [Heaven Tee](https://www.klydescreatives.com/products/heaven-tee): This is our heaviest tee yet—It’s quiet confidence in fabric form—minimal, but never basic. For those who move with purpose and wear their message without shouting. This isn’t just weight—it’s presence.
-  Updated: 2026-07-14T17:38:18Z
+  Updated: 2026-07-16T06:21:36Z
   Vendor: ODMPOD
   Product Type: Print Material
   Availability: Available
@@ -157,7 +157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/93fe54f1cb1f4b40869ecb7207465771_ed2abee8-ef08-421f-9ede-a7ac44dad5a4.png?v=1747752246
     Price: $85.00 CAD
 - [Daydream Tee](https://www.klydescreatives.com/products/day-dream-tee-apricot-blue): Structured but never stiff. This boxy tee balances clean lines with conscious design, carrying the Reclaim message with quiet power. Made for bold minds and soft armour.
-  Updated: 2026-07-14T17:38:18Z
+  Updated: 2026-07-17T11:50:33Z
   Vendor: ODMPOD
   Product Type: Print Material
   Availability: Available
@@ -183,7 +183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/4c274ca52bc049bfadf7f8e4e88a870d.png?v=1748014230
     Price: $65.00 CAD
 - [Daydream Tee](https://www.klydescreatives.com/products/day-dream-tee-gray-blue): Structured but never stiff. This boxy tee balances clean lines with conscious design, carrying the Reclaim message with quiet power. Made for bold minds and soft armour.
-  Updated: 2026-07-14T17:38:18Z
+  Updated: 2026-07-17T04:35:13Z
   Vendor: ODMPOD
   Product Type: Print Material
   Availability: Available
@@ -209,7 +209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/f993564c899e4ff4ac71f6409a14ffcf.png?v=1748014392
     Price: $65.00 CAD
 - [Daydream Tee](https://www.klydescreatives.com/products/day-dream-tee-apricot-black): Structured but never stiff. This boxy tee balances clean lines with conscious design, carrying the Reclaim message with quiet power. Made for bold minds and soft armour.
-  Updated: 2026-07-14T17:38:18Z
+  Updated: 2026-07-18T03:26:38Z
   Vendor: ODMPOD
   Product Type: Print Material
   Availability: Available
@@ -235,7 +235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/9ac795484d004e689bc691a755035eb9.png?v=1748014543
     Price: $65.00 CAD
 - [Awaken Tee](https://www.klydescreatives.com/products/awaken-tee-black): Loosen up without letting go. This oversized fit wraps you in comfort while delivering the Reclaim message loud and clear—mindful fashion for those thinking bigger.
-  Updated: 2026-07-14T17:38:18Z
+  Updated: 2026-07-15T01:49:59Z
   Vendor: ODMPOD
   Product Type: Print Material
   Availability: Available
@@ -261,7 +261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/181259cc77e1448a87b42aa6b4fbf860.png?v=1748014617
     Price: $65.00 CAD
 - [Awaken Tee](https://www.klydescreatives.com/products/awaken-tee-gray-orange): Loosen up without letting go. This oversized fit wraps you in comfort while delivering the Reclaim message loud and clear—mindful fashion for those thinking bigger.
-  Updated: 2026-07-14T17:38:18Z
+  Updated: 2026-07-15T09:41:45Z
   Vendor: ODMPOD
   Product Type: Print Material
   Availability: Available
@@ -287,7 +287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/650664cc93444ef482cfd60434a45818.png?v=1748014717
     Price: $65.00 CAD
 - [Reclaim Bodycon Tee](https://www.klydescreatives.com/products/reclaim-body-con-tee): Bodycon affirmation tee for bold, conscious self-expression and body confidence. This one hugs like a truth you can’t unsee—soft, bold, and unapologetically fitted. It’s for the ones reclaiming their minds and their curves. Subtle but striking. Comfortable but commanding. This isn’t just a tee—it’s a whole declaration. Because sometimes the most radical thing you can do… is take up space and look good doing it.
-  Updated: 2026-07-14T19:36:50Z
+  Updated: 2026-07-15T07:36:56Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -316,7 +316,7 @@
   Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/creative_reset_product_listing.svg?v=1777507202
   Price: $17.00 CAD
 - [Get Comfortable Being Seen — 7-Day Self-Development Journal for Creatives (Digital Download)](https://www.klydescreatives.com/products/the-creative-reset-21-days-for-the-overwhelmed-multi-passionate-creative-copy): A guided self-development journal for creatives and entrepreneurs ready to be seen. You have something you want the world to see. This journal is built for the moment right before you put it out — the moment you keep stopping at. Get Comfortable Being Seen is a 7-day guided practice from Klyde's Creatives for creatives, entrepreneurs, and builders who are done staying hidden. Each day gives you three things: a truth to sit with, an inventory of honest questions to answer specifically, and one concrete visibility move to make that same day. Over seven days, you'll work through what's really keeping you from sharing your work — not imposter syndrome, but the fear of being witnessed. You'll learn to detach from the response, calculate the real cost of invisibility, create for the right person instead of everyone, and practise showing up even before you feel ready. This is the sequel to The Creative Reset (Journal 1 — 21 days of inner work), but it stands fully on its own. Pick it up wherever you are. What's inside: 7 days × 3 pages each — The Truth, The Inventory, The Move. Plus a baseline reflection to complete before Day 1 and revisit on Day 7. For: Creatives, freelancers, entrepreneurs, and anyone sitting on work that deserves to be seen. The inner work is done. Now be seen.
-  Updated: 2026-07-14T19:25:09Z
+  Updated: 2026-07-15T07:25:13Z
   Vendor: Klyde's Creatives
   Product Type: Digital Product
   Availability: Available
