@@ -6,11 +6,893 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-02T20:36:05Z
 - Contact Email: deniz@sammelsucht-shop.de
-- Updated At: 2026-07-14T00:00:43.130Z
+- Updated At: 2026-07-23T00:00:43.320Z
 
 ## Products
 
-[List Continued](https://sammelsucht-shop.de/a/llms-agent/llms.txt?shop=d0wkdt-vw.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTc2MTcxMzMzMjU1NSwibGFzdF92YWx1ZSI6IjE1NzYxNzEzMzMyNTU1In0%3D)
+- [Aeropteryx 132/086 Illustration Rare Weiße Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/aeropteryx-132-086-illustration-rare-weisse-flammen-de-nm-pokemon): Aeropteryx 132/086 Illustration Rare Weiße Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T20:56:27Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_7b93c59a-6195-43f2-b365-c5c57a70a832.jpg?v=1779371664
+  Price: 9,99 € EUR
+- [Amalias Entschluss 203/203 Ultra Rare Drachenwandel DE NM Pokémon](https://sammelsucht-shop.de/products/amalias-entschluss-203-203-ultra-rare-drachenwandel-de-nm-pokemon): Amalias Entschluss 203/203 Ultra Rare Drachenwandel DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T20:28:28Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_5641b9d6-d565-42e4-88eb-acb1b7d58bf1.jpg?v=1779371670
+  Price: 9,99 € EUR
+- [Alola-Digdri (SSP 208) Stürmische Funken](https://sammelsucht-shop.de/products/alola-digdri-ssp-208-sturmische-funken): Alola-Digdri (SSP 208) Stürmische Funken – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:39:01Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_16c4f87e-179f-48b7-b013-7b06d7e17ee9.jpg?v=1779371673
+  Price: 7,89 € EUR
+- [Azugladis ex 036/191 Double Rare Stürmische Funken DE NM Pokémon](https://sammelsucht-shop.de/products/azugladis-ex-036-191-double-rare-sturmische-funken-de-nm-pokemon): Azugladis ex 036/191 Double Rare Stürmische Funken DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:25:18Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_0a166500-2692-4d66-9f1f-cabb39dff082.jpg?v=1779371676
+  Price: 3,99 € EUR
+- [Anziehungsnetz 207/192 Secret Rare Clash der Rebellen DE NM Pokémon](https://sammelsucht-shop.de/products/anziehungsnetz-207-192-secret-rare-clash-der-rebellen-de-nm-pokemon): Anziehungsnetz 207/192 Secret Rare Clash der Rebellen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:24:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_fc06c67b-11ea-4b8e-9f57-e340f455df45.jpg?v=1779371679
+  Price: 5,49 € EUR
+- [Alolan Muk GX BUS 84 Nacht in Flammen Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/alolan-muk-gx-bus-84-nacht-in-flammen-pokemon-karte-deutsch-near-mint): Alolan Muk GX BUS 84 Nacht in Flammen Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:23:16Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57.png?v=1779371683
+  Price: 4,00 € EUR
+- [Ambidiffel PFL 107 Fatale Flammen Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/ambidiffel-pfl-107-fatale-flammen-pokemon-karte-deutsch-near-mint): Ambidiffel PFL 107 Fatale Flammen Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T21:15:56Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_b9259ab9-33d0-4ce8-a513-8bc2b8e862e5.jpg?v=1779371688
+  Price: 2,49 € EUR
+- [Altaria ex PAR 232 Paradoxrift Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/altaria-ex-par-232-paradoxrift-pokemon-karte-deutsch-near-mint): Altaria ex PAR 232 Paradoxrift Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T21:13:35Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_12a0539d-dcf5-40b9-b728-802cd0ed65f3.jpg?v=1779371702
+  Price: 2,99 € EUR
+- [Aquapolis Evoli Deutsch PSA9 POP 3](https://sammelsucht-shop.de/products/aquapolis-evoli-deutsch-psa9-pop-3): Aquapolis Evoli Deutsch PSA9 POP 3 – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T14:01:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_01e91bcc-353e-448c-bdfd-a20d91602c93.png?v=1779371715
+  Price: 342,99 € EUR
+- [Beatori ex SFA 038 Nebel der Sagen Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/beatori-ex-sfa-038-nebel-der-sagen-pokemon-karte-deutsch-near-mint): Beatori ex SFA 038 Nebel der Sagen Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-22T17:39:25Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_2bcb9f28-2c12-4e7c-87f4-1b82ad6cc149.jpg?v=1779371726
+  Price: 4,49 € EUR
+- [Bauz MEP 043 MEP Black Star Promos Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/bauz-mep-043-mep-black-star-promos-pokemon-karte-deutsch-near-mint): Bauz MEP 043 MEP Black Star Promos Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T18:47:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_287fd934-68cc-44b7-b3b6-eda26342e66b.jpg?v=1779371733
+  Price: 13,49 € EUR
+- [Absol ex OBF 214 Obsidianflammen Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/absol-ex-obf-214-obsidianflammen-pokemon-karte-deutsch-near-mint): Absol ex OBF 214 Obsidianflammen Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T21:11:05Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_ddc089d5-1d6b-4652-a455-c84bfb6d861f.jpg?v=1779371742
+  Price: 2,99 € EUR
+- [Alolan Persian GX CEC 129 Welten im Wandel Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/alolan-persian-gx-cec-129-welten-im-wandel-pokemon-karte-deutsch-near-mint): Alolan Persian GX CEC 129 Welten im Wandel Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T21:12:40Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_0fd27ed5-9fe3-41e3-bf2a-412915e65a07.jpg?v=1779371745
+  Price: 2,49 € EUR
+- [Agiluza ex JTG 043 Reisegefährten Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/agiluza-ex-jtg-043-reisegefahrten-pokemon-karte-deutsch-near-mint): Agiluza ex JTG 043 Reisegefährten Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-22T16:59:31Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a85c80b3-1385-41d3-aa6d-8dc0877d100e.jpg?v=1779371748
+  Price: 1,49 € EUR
+- [Apoquallyp ex WHT 045 Weiße Flammen Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/apoquallyp-ex-wht-045-weisse-flammen-pokemon-karte-deutsch-near-mint): Apoquallyp ex WHT 045 Weiße Flammen Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-22T17:08:26Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_b5657e41-8e55-41ce-a4ee-2626f041379c.jpg?v=1779371751
+  Price: 1,00 € EUR
+- [Banette ex SVI 088 Karmesin und Purpur Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/banette-ex-svi-088-karmesin-und-purpur-pokemon-karte-deutsch-near-mint): Banette ex SVI 088 Karmesin und Purpur Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-22T17:33:55Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_1110b985-19f7-4bfb-bea9-50a7f9ce24ec.jpg?v=1779371754
+  Price: 1,99 € EUR
+- [Arbeiterin SIT 209 Silberne Sturmwinde Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/arbeiterin-sit-209-silberne-sturmwinde-pokemon-karte-deutsch-near-mint): Arbeiterin SIT 209 Silberne Sturmwinde Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:21:47Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_f3e09a89-be31-414d-be07-a10f98e581fa.jpg?v=1779371760
+  Price: 7,49 € EUR
+- [Bibor V ASR 160 Astralglanz Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/bibor-v-asr-160-astralglanz-pokemon-karte-deutsch-near-mint): Bibor V ASR 160 Astralglanz Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:27:28Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_086d5633-98fd-4fde-badd-b70e9fb27504.jpg?v=1779371763
+  Price: 5,89 € EUR
+- [Amura PAL 266 Entwicklungen in Paldea Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/amura-pal-266-entwicklungen-in-paldea-pokemon-karte-deutsch-near-mint): Amura PAL 266 Entwicklungen in Paldea Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:15:57Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a9be3d7f-821b-44d9-a3e6-dac6f9996fe3.jpg?v=1779371774
+  Price: 7,99 € EUR
+- [Amagarga POR 092 Optimale Ordnung Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/amagarga-por-092-optimale-ordnung-pokemon-karte-deutsch-near-mint): Amagarga POR 092 Optimale Ordnung Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:23:47Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_65e0546f-d156-4a21-b989-fdb5b937e9a5.jpg?v=1779371777
+  Price: 5,49 € EUR
+- [Arkani SVP 011 SV Black Star Promos Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/arkani-svp-011-sv-black-star-promos-pokemon-karte-deutsch-near-mint): Arkani SVP 011 SV Black Star Promos Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:54:32Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_dc0c894e-8905-4190-a900-7a6b22bd0c9d.jpg?v=1779371780
+  Price: 9,99 € EUR
+- [Affiti PAF 190 Paldeas Schicksale Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/affiti-paf-190-paldeas-schicksale-pokemon-karte-deutsch-near-mint): Affiti PAF 190 Paldeas Schicksale Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:21:17Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_f9141d4d-bc81-4f1c-ba5d-bf8acbf3500b.jpg?v=1779371789
+  Price: 3,49 € EUR
+- [Aokis Staraptor (ASC 249)Erhabene Helden](https://sammelsucht-shop.de/products/aokis-staraptor-asc-249erhabene-helden): Aokis Staraptor (ASC 249)Erhabene Helden – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:40:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_f566a946-03e6-4fe4-b229-c7fb56a787ee.jpg?v=1779371799
+  Price: 7,99 € EUR
+- [Bellektro V SWSH 085 SWSH Black Star Promos Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/bellektro-v-swsh-085-swsh-black-star-promos-pokemon-karte-deutsch-near-mint): Bellektro V SWSH 085 SWSH Black Star Promos Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T21:25:56Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_605bf96c-756d-4b87-8c8c-89b025a792c5.jpg?v=1779371805
+  Price: 2,99 € EUR
+- [Benesaru SFA 072 Nebel der Sagen Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/benesaru-sfa-072-nebel-der-sagen-pokemon-karte-deutsch-near-mint): Benesaru SFA 072 Nebel der Sagen Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T16:14:51Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_2763cfb6-6f5c-4c57-8a53-fbe9e2cdd29e.jpg?v=1779371808
+  Price: 29,99 € EUR
+- [Eisenhaupt ex 206/162 Special Illustration Rare Gewalten der Zeit DE NM PSA 9](https://sammelsucht-shop.de/products/eisenhaupt-ex-206-162-special-illustration-rare-gewalten-der-zeit-de-nm-psa-9): Eisenhaupt ex 206/162 Special Illustration Rare Gewalten der Zeit DE NM PSA 9 – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T14:09:46Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_95992183-19db-43aa-9d69-f3dd4a02a8d6.jpg?v=1779992219
+  Price: 87,99 € EUR
+- [Janinas Geheimkunst 173/131 Special Illustration Rare Prismatische Entwicklungen](https://sammelsucht-shop.de/products/janinas-geheimkunst-173-131-special-illustration-rare-prismatische-entwicklungen): Janinas Geheimkunst 173/131 Special Illustration Rare Prismatische Entwicklungen – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T16:39:41Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_df2744f1-4c4a-43f6-bf57-2301a195ed9f.jpg?v=1779992228
+  Price: 29,99 € EUR
+- [Team Rockets Mewtu ex 213/182 Ultra Rare Ewige Rivalen DE NM Pokémon](https://sammelsucht-shop.de/products/team-rockets-mewtu-ex-213-182-ultra-rare-ewige-rivalen-de-nm-pokemon): Team Rockets Mewtu ex 213/182 Ultra Rare Ewige Rivalen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T15:16:46Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_f942ac1f-ddad-485c-89fa-43ba82ea86a2.jpg?v=1779992247
+  Price: 29,99 € EUR
+- [Kangama 190/165 Ultra Rare 151 DE NM Pokémon](https://sammelsucht-shop.de/products/kangama-190-165-ultra-rare-151-de-nm-pokemon): Kangama 190/165 Ultra Rare 151 DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:32:26Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_6e853bff-c9d2-4e58-b849-eef1a24a9a15.jpg?v=1779992257
+  Price: 11,49 € EUR
+- [Nemila 238/091 Special Illustration Rare Paldeas Schicksale DE NM Pokémon](https://sammelsucht-shop.de/products/nemila-238-091-special-illustration-rare-paldeas-schicksale-de-nm-pokemon): Nemila 238/091 Special Illustration Rare Paldeas Schicksale DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T20:59:01Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_9f771ea5-6362-4424-8ae4-e19722c98f9f.jpg?v=1779992260
+  Price: 9,99 € EUR
+- [Feelinara 041/131 Promo Prismatische Entwicklungen: Ergänzungen DE NM Pokémon](https://sammelsucht-shop.de/products/feelinara-041-131-promo-prismatische-entwicklungen-erganzungen-de-nm-pokemon): Feelinara 041/131 Promo Prismatische Entwicklungen: Ergänzungen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:06:46Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_2f9315c6-f188-4821-99b1-2550e15122ad.jpg?v=1779992263
+  Price: 9,99 € EUR
+- [Flamara EX 014/131 Double Rare Prismatische Entwicklungen DE NM Pokémon](https://sammelsucht-shop.de/products/flamara-ex-014-131-double-rare-prismatische-entwicklungen-de-nm-pokemon): Flamara EX 014/131 Double Rare Prismatische Entwicklungen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:07:46Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_0597a6c4-7037-4d2d-ac4a-c35edac6374e.jpg?v=1779992269
+  Price: 9,99 € EUR
+- [Sophora 217/198 Rainbow Rare Schaurige Herrschaft DE NM Pokémon](https://sammelsucht-shop.de/products/sophora-217-198-rainbow-rare-schaurige-herrschaft-de-nm-pokemon): Sophora 217/198 Rainbow Rare Schaurige Herrschaft DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T20:57:41Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_14f31c7d-a016-4fea-81a8-e9d2a3f2edc4.jpg?v=1779992281
+  Price: 11,49 € EUR
+- [Washakwil BLK 155/086 DE](https://sammelsucht-shop.de/products/washakwil-blk-155-086-de): Washakwil BLK 155/086 DE – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T20:23:17Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_349971b0-6349-4486-9dd9-abb8b8a2f703.jpg?v=1779992284
+  Price: 14,99 € EUR
+- [Sonderbonbon 256/198 Secret Rare Karmesin und Purpur DE NM Pokémon](https://sammelsucht-shop.de/products/sonderbonbon-256-198-secret-rare-karmesin-und-purpur-de-nm-pokemon): Sonderbonbon 256/198 Secret Rare Karmesin und Purpur DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:47:00Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_c038f35e-f6b9-43fc-98f8-ecde2c076f3d.jpg?v=1779992288
+  Price: 7,99 € EUR
+- [Mega Latias 079/063 Ultra Rare Mega Symphonia JP NM Pokémon](https://sammelsucht-shop.de/products/mega-latias-079-063-ultra-rare-mega-symphonia-jp-nm-pokemon): Mega Latias 079/063 Ultra Rare Mega Symphonia JP NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:47:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_2cba0d12-099f-4739-82a6-ecf14b5fffce.jpg?v=1779992290
+  Price: 8,00 € EUR
+- [Pikachu 005/025 Holo Rare Celebrations DE NM Pokémon](https://sammelsucht-shop.de/products/pikachu-005-025-holo-rare-celebrations-de-nm-pokemon): Pikachu 005/025 Holo Rare Celebrations DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T23:14:15Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_525d6282-87a1-47f0-a434-08be2dfbbe99.jpg?v=1779992296
+  Price: 7,49 € EUR
+- [Pokémon Schallquap BLK-103 Illustration Rare Deutsch NM](https://sammelsucht-shop.de/products/pokemon-schallquap-blk-103-illustration-rare-deutsch-nm): Pokémon Schallquap BLK-103 Illustration Rare Deutsch NM – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T17:07:16Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/2107579369.jpg?v=1784567218
+  Price: 29,99 € EUR
+- [Kukmarda 153/086 Illustration Rare Weiße Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/kukmarda-153-086-illustration-rare-weisse-flammen-de-nm-pokemon): Kukmarda 153/086 Illustration Rare Weiße Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-22T16:14:09Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_b7287970-41fb-41ca-b8bc-112a597db9a5.jpg?v=1779992302
+  Price: 7,79 € EUR
+- [Janina 210/214 Ultra Rare Kräfte im Einklang DE NM Pokémon](https://sammelsucht-shop.de/products/janina-210-214-ultra-rare-krafte-im-einklang-de-nm-pokemon): Janina 210/214 Ultra Rare Kräfte im Einklang DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T16:37:35Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_c7a3ebeb-a934-4338-8c0e-4abc2cd6c5a3.jpg?v=1779992310
+  Price: 25,00 € EUR
+- [Marshadow (Marshadow) — MEG 146 — Illustration Rare — Deutsch — Near Mint (NM)](https://sammelsucht-shop.de/products/marshadow-marshadow-meg-146-illustration-rare-deutsch-near-mint-nm): Marshadow (Marshadow) — MEG 146 — Illustration Rare — Deutsch — Near Mint (NM) – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T18:28:05Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_259ffd3c-d047-4a89-8005-130b5b9c4490.jpg?v=1779992313
+  Price: 14,99 € EUR
+- [Zurrokex 138/086 Illustration Rare Weiße Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/zurrokex-138-086-illustration-rare-weisse-flammen-de-nm-pokemon): Zurrokex 138/086 Illustration Rare Weiße Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T18:06:08Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_b84830e6-75e0-4d63-8b96-1fbdcd3a8a56.jpg?v=1779992317
+  Price: 14,99 € EUR
+- [Jiutesto 128/086 Illustration Rare Schwarze Blitze DE NM Pokémon](https://sammelsucht-shop.de/products/jiutesto-128-086-illustration-rare-schwarze-blitze-de-nm-pokemon): Jiutesto 128/086 Illustration Rare Schwarze Blitze DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:39:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_c89f5170-7716-4163-ae63-2759f55c3829.jpg?v=1779992320
+  Price: 7,99 € EUR
+- [Karadonis 130/086 Illustration Rare Weiße Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/karadonis-130-086-illustration-rare-weisse-flammen-de-nm-pokemon): Karadonis 130/086 Illustration Rare Weiße Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:06:26Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_6567247e-c6fc-411f-976f-eb453d1baa98.jpg?v=1779992323
+  Price: 9,99 € EUR
+- [Gallopa 189/182 Illustration Rare Ewige Rivalen DE NM Pokémon](https://sammelsucht-shop.de/products/gallopa-189-182-illustration-rare-ewige-rivalen-de-nm-pokemon): Gallopa 189/182 Illustration Rare Ewige Rivalen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:43:51Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_e6082e17-0c6e-416e-99d5-678a9a7cf1d5.jpg?v=1779992326
+  Price: 7,99 € EUR
+- [Woingenau V 191/202 Ultra Rare Schwert & Schild DE NM Pokémon](https://sammelsucht-shop.de/products/woingenau-v-191-202-ultra-rare-schwert-schild-de-nm-pokemon): Woingenau V 191/202 Ultra Rare Schwert & Schild DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T20:01:08Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_5df8af76-3d87-4969-b16b-80f7a73c09dc.jpg?v=1779992328
+  Price: 9,99 € EUR
+- [Cynthias Knakrack ex 215/182 Ultra Rare Ewige Rivalen DE NM Pokémon](https://sammelsucht-shop.de/products/cynthias-knakrack-ex-215-182-ultra-rare-ewige-rivalen-de-nm-pokemon): Cynthias Knakrack ex 215/182 Ultra Rare Ewige Rivalen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:46:19Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_9108ddc3-e46f-4be5-b122-3f39b14e9005.jpg?v=1779992331
+  Price: 5,89 € EUR
+- [Felizia 188/189 Ultra Rare Astralglanz DE NM Pokémon](https://sammelsucht-shop.de/products/felizia-188-189-ultra-rare-astralglanz-de-nm-pokemon): Felizia 188/189 Ultra Rare Astralglanz DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:27:51Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_46c326b0-9fe8-4454-88d6-3622c7f16aea.jpg?v=1779992334
+  Price: 7,49 € EUR
+- [Schülerin 262/264 Ultra Rare Fusionsangriff DE NM Pokémon](https://sammelsucht-shop.de/products/schulerin-262-264-ultra-rare-fusionsangriff-de-nm-pokemon): Schülerin 262/264 Ultra Rare Fusionsangriff DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:19:55Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_567bc152-2822-40d8-9d45-daaa81b9130e.jpg?v=1779992364
+  Price: 5,00 € EUR
+- [Hydrapfel 188/182 Illustration Rare Ewige Rivalen DE NM Pokémon](https://sammelsucht-shop.de/products/hydrapfel-188-182-illustration-rare-ewige-rivalen-de-nm-pokemon): Hydrapfel 188/182 Illustration Rare Ewige Rivalen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T16:02:38Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_ca25bdeb-4605-4d92-a77e-881eced28a16.jpg?v=1779992367
+  Price: 4,99 € EUR
+- [Cynthias Roserade 184/182 Illustration Rare Ewige Rivalen DE NM Pokémon](https://sammelsucht-shop.de/products/cynthias-roserade-184-182-illustration-rare-ewige-rivalen-de-nm-pokemon): Cynthias Roserade 184/182 Illustration Rare Ewige Rivalen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:16:27Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_9ce566bc-1c7f-402d-bb69-9c20a934cd9e.jpg?v=1779992373
+  Price: 12,49 € EUR
+- [Despotar 154/163 Ultra Rare Kampfstile DE NM Pokémon](https://sammelsucht-shop.de/products/despotar-154-163-ultra-rare-kampfstile-de-nm-pokemon): Despotar 154/163 Ultra Rare Kampfstile DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:22:58Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_0261c888-a86a-46ec-aa5b-27978a9eebdb.jpg?v=1779992379
+  Price: 9,99 € EUR
+- [Serpiroyal V TG13/TG30 Special Illustration Rare Silberne Sturmwinde DE NM Pokém](https://sammelsucht-shop.de/products/serpiroyal-v-tg13-tg30-special-illustration-rare-silberne-sturmwinde-de-nm-pokem): Serpiroyal V TG13/TG30 Special Illustration Rare Silberne Sturmwinde DE NM Pokém – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T17:08:17Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_dff26069-abee-427d-9471-b39d8d70b3e7.jpg?v=1779992385
+  Price: 24,99 € EUR
+- [Pii 31 Promo Wizards Black Star Promos DE NM Pokémon](https://sammelsucht-shop.de/products/pii-31-promo-wizards-black-star-promos-de-nm-pokemon): Pii 31 Promo Wizards Black Star Promos DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T17:00:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_c6b9951e-3076-41bc-b672-23bb7c929cc5.jpg?v=1779992388
+  Price: 29,99 € EUR
+- [Team Rocket’s Hundemon DRI 191 Ewige Rivalen Pokémon Karte Deutsch](https://sammelsucht-shop.de/products/team-rocket-s-hundemon-dri-191-ewige-rivalen-pokemon-karte-deutsch): Team Rocket’s Hundemon DRI 191 Ewige Rivalen Pokémon Karte Deutsch – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T18:53:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_00b61aeb-1727-4b3f-b03a-a64be33bf6c0.jpg?v=1779992391
+  Price: 14,49 € EUR
+- [Ferkokel 097/086 Illustration Rare Weiße Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/ferkokel-097-086-illustration-rare-weisse-flammen-de-nm-pokemon): Ferkokel 097/086 Illustration Rare Weiße Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T14:52:16Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a31e78e2-7c34-4518-a1ec-18345d7a25bf.jpg?v=1779992409
+  Price: 14,79 € EUR
+- [Caesurio 143/086 Illustration Rare Schwarze Blitze DE NM Pokémon](https://sammelsucht-shop.de/products/caesurio-143-086-illustration-rare-schwarze-blitze-de-nm-pokemon): Caesurio 143/086 Illustration Rare Schwarze Blitze DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:13:57Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_e832b4f1-ceca-4ba4-86eb-3ba4cff0e69a.jpg?v=1779992415
+  Price: 12,99 € EUR
+- [Silvanas Vitalität 184/189 Ultra Rare Astralglanz DE NM Pokémon](https://sammelsucht-shop.de/products/silvanas-vitalitat-184-189-ultra-rare-astralglanz-de-nm-pokemon): Silvanas Vitalität 184/189 Ultra Rare Astralglanz DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:29:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_477878f8-81db-4cdc-94c1-9abae5cbcc8c.jpg?v=1779992422
+  Price: 8,99 € EUR
+- [Victini 144/163 Ultra Rare Kampfstile DE NM Pokémon](https://sammelsucht-shop.de/products/victini-144-163-ultra-rare-kampfstile-de-nm-pokemon): Victini 144/163 Ultra Rare Kampfstile DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:03:16Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_24c8cbcc-a046-4c35-84eb-a6eafa194f32.jpg?v=1779992427
+  Price: 9,99 € EUR
+- [Infernopod VMAX TG15/TG30 Special Illustration Rare Verlorener Ursprung DE NM Po](https://sammelsucht-shop.de/products/infernopod-vmax-tg15-tg30-special-illustration-rare-verlorener-ursprung-de-nm-po): Infernopod VMAX TG15/TG30 Special Illustration Rare Verlorener Ursprung DE NM Po – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:55:16Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_4a380683-a9d4-432e-9376-5982f23ce42d.jpg?v=1779992430
+  Price: 9,99 € EUR
+- [Kontergewinn 249/191 Secret Rare Stürmische Funken DE NM Pokémon](https://sammelsucht-shop.de/products/kontergewinn-249-191-secret-rare-sturmische-funken-de-nm-pokemon): Kontergewinn 249/191 Secret Rare Stürmische Funken DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:17:21Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_311ff5b3-853a-419e-990c-64c2002c57f6.jpg?v=1779992433
+  Price: 7,99 € EUR
+- [Inselwanderschafts-Abzeichen 265/236 Secret Rare Welten im Wandel DE NM Pokémon](https://sammelsucht-shop.de/products/inselwanderschafts-abzeichen-265-236-secret-rare-welten-im-wandel-de-nm-pokemon): Inselwanderschafts-Abzeichen 265/236 Secret Rare Welten im Wandel DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:56:43Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_64373424-9ce1-47d9-8ac5-7147a9f28c6c.jpg?v=1779992436
+  Price: 9,99 € EUR
+- [Siegfried 206/195 Rainbow Rare Silberne Sturmwinde DE NM Pokémon](https://sammelsucht-shop.de/products/siegfried-206-195-rainbow-rare-silberne-sturmwinde-de-nm-pokemon): Siegfried 206/195 Rainbow Rare Silberne Sturmwinde DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:44:57Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_1ee7311c-a324-4490-9764-e79e5379a9b4.jpg?v=1779992442
+  Price: 7,49 € EUR
+- [Maritellit TG12/TG30 Special Illustration Rare Verlorener Ursprung DE NM Pokémon](https://sammelsucht-shop.de/products/maritellit-tg12-tg30-special-illustration-rare-verlorener-ursprung-de-nm-pokemon): Maritellit TG12/TG30 Special Illustration Rare Verlorener Ursprung DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T20:45:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_17612852-cba1-424a-ab60-2187f97e2d36.jpg?v=1779992445
+  Price: 9,99 € EUR
+- [Rüpel von Team Yell 202/202 Ultra Rare Schwert & Schild DE NM Pokémon](https://sammelsucht-shop.de/products/rupel-von-team-yell-202-202-ultra-rare-schwert-schild-de-nm-pokemon): Rüpel von Team Yell 202/202 Ultra Rare Schwert & Schild DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:10:55Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_21b3b66a-9616-4254-b533-2cc1e6f9e46d.jpg?v=1779992458
+  Price: 5,89 € EUR
+- [Peony 197/198 Ultra Rare Schaurige Herrschaft DE NM Pokémon](https://sammelsucht-shop.de/products/peony-197-198-ultra-rare-schaurige-herrschaft-de-nm-pokemon): Peony 197/198 Ultra Rare Schaurige Herrschaft DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T19:38:45Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_edaf27b8-a0c1-4d00-8d9b-4b6d23175f63.jpg?v=1779992460
+  Price: 5,49 € EUR
+- [Navitaub 149/086 Illustration Rare Schwarze Blitze DE NM Pokémon](https://sammelsucht-shop.de/products/navitaub-149-086-illustration-rare-schwarze-blitze-de-nm-pokemon): Navitaub 149/086 Illustration Rare Schwarze Blitze DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:05:16Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_c658eb40-325f-40e7-b341-b936bce724b2.jpg?v=1779992463
+  Price: 7,49 € EUR
+- [Golem EX 46/83 Ultra Rare Generationen DE NM Pokémon](https://sammelsucht-shop.de/products/golem-ex-46-83-ultra-rare-generationen-de-nm-pokemon): Golem EX 46/83 Ultra Rare Generationen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T15:49:50Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_2ca72bd2-9d19-4e68-a561-ef6e292dd24e.jpg?v=1779992466
+  Price: 5,49 € EUR
+- [Geronimatz BLK 154 Schwarze Blitze Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/geronimatz-blk-154-schwarze-blitze-pokemon-karte-deutsch-near-mint): Geronimatz BLK 154 Schwarze Blitze Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:22:31Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_d8a256b4-ca9a-4e09-a9fa-35532ef3c464.jpg?v=1779992469
+  Price: 6,99 € EUR
+- [Mimi 238/198 Ultra Rare Karmesin und Purpur DE NM Pokémon](https://sammelsucht-shop.de/products/mimi-238-198-ultra-rare-karmesin-und-purpur-de-nm-pokemon): Mimi 238/198 Ultra Rare Karmesin und Purpur DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T19:28:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_5dade51c-63f7-4dec-81c8-5297177c4548.jpg?v=1779992472
+  Price: 5,29 € EUR
+- [Schüler FST 276 Fusionsangriff Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/schuler-fst-276-fusionsangriff-pokemon-karte-deutsch-near-mint): Schüler FST 276 Fusionsangriff Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:19:17Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_6bddd700-e2be-4dec-ac0c-2cf94ad5f414.jpg?v=1779992478
+  Price: 5,49 € EUR
+- [Jugong 097/094 Illustration Rare Fatale Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/jugong-097-094-illustration-rare-fatale-flammen-de-nm-pokemon): Jugong 097/094 Illustration Rare Fatale Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T16:08:56Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_0d39f810-8368-45d2-9830-25b44037c30a.jpg?v=1779992481
+  Price: 4,99 € EUR
+- [Urgl SV030/SV122 Shiny Rare Glänzendes Schicksal DE NM Pokémon](https://sammelsucht-shop.de/products/urgl-sv030-sv122-shiny-rare-glanzendes-schicksal-de-nm-pokemon): Urgl SV030/SV122 Shiny Rare Glänzendes Schicksal DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:46:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_1e5f9e9e-3a8a-4a22-9a44-4a34b79842ec.jpg?v=1779992487
+  Price: 5,00 € EUR
+- [Professor Antiquas Vitalität 239/182 Ultra Rare Paradoxrift DE NM Pokémon](https://sammelsucht-shop.de/products/professor-antiquas-vitalitat-239-182-ultra-rare-paradoxrift-de-nm-pokemon): Professor Antiquas Vitalität 239/182 Ultra Rare Paradoxrift DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:02:26Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_2a997a4a-34e4-4be6-9fa2-7d4b17d4c7fc.jpg?v=1779992499
+  Price: 5,74 € EUR
+- [Bissbark 157/163 Ultra Rare Kampfstile DE NM Pokémon](https://sammelsucht-shop.de/products/bissbark-157-163-ultra-rare-kampfstile-de-nm-pokemon): Bissbark 157/163 Ultra Rare Kampfstile DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:28:42Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a153b588-5b90-4a03-b2ca-c225fcc404b1.jpg?v=1779992502
+  Price: 4,99 € EUR
+- [Boreos V CRE 184 Schaurige Herrschaft Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/boreos-v-cre-184-schaurige-herrschaft-pokemon-karte-deutsch-near-mint): Boreos V CRE 184 Schaurige Herrschaft Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:30:32Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_689f5eab-d2c2-4e82-8101-9db428161f9f.png?v=1779992506
+  Price: 4,99 € EUR
+- [Duflor 093/091 Shiny Rare Paldeas Schicksale DE NM Pokémon](https://sammelsucht-shop.de/products/duflor-093-091-shiny-rare-paldeas-schicksale-de-nm-pokemon): Duflor 093/091 Shiny Rare Paldeas Schicksale DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:50:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_ad18c8ac-f1f3-46cf-a2cf-670e6106d1e3.jpg?v=1779992508
+  Price: 6,49 € EUR
+- [Sanaconda SV071/SV122 Shiny Rare Glänzendes Schicksal DE NM Pokémon](https://sammelsucht-shop.de/products/sanaconda-sv071-sv122-shiny-rare-glanzendes-schicksal-de-nm-pokemon): Sanaconda SV071/SV122 Shiny Rare Glänzendes Schicksal DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:13:30Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_7f79bb5b-d550-4dbe-9b92-2ce27f1e8764.jpg?v=1779992514
+  Price: 4,99 € EUR
+- [Miraidon 227/198 Ultra Rare Karmesin und Purpur DE NM Pokémon](https://sammelsucht-shop.de/products/miraidon-227-198-ultra-rare-karmesin-und-purpur-de-nm-pokemon): Miraidon 227/198 Ultra Rare Karmesin und Purpur DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T19:28:47Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_1570f586-04e4-4cee-9d83-54c4253b2c4c.jpg?v=1779992529
+  Price: 4,99 € EUR
+- [Susuki 207/196 Rainbow Rare Verlorener Ursprung DE NM Pokémon](https://sammelsucht-shop.de/products/susuki-207-196-rainbow-rare-verlorener-ursprung-de-nm-pokemon): Susuki 207/196 Rainbow Rare Verlorener Ursprung DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:31:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_0b042996-f586-42b2-8352-bd15e0c417eb.jpg?v=1779992531
+  Price: 4,99 € EUR
+- [Team Rockets Maritellit 198/182 Illustration Rare Ewige Rivalen DE NM Pokémon](https://sammelsucht-shop.de/products/team-rockets-maritellit-198-182-illustration-rare-ewige-rivalen-de-nm-pokemon): Team Rockets Maritellit 198/182 Illustration Rare Ewige Rivalen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:35:50Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_e7b760ff-1b38-40c4-9f58-11932caf39c8.jpg?v=1779992540
+  Price: 4,99 € EUR
+- [Evoli SWSH 212 SWSH Black Star Promos Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/evoli-swsh-212-swsh-black-star-promos-pokemon-karte-deutsch-near-mint): Evoli SWSH 212 SWSH Black Star Promos Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:05:05Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_e820826a-75f7-481f-b92c-f3daa62ee6cf.jpg?v=1779992562
+  Price: 9,99 € EUR
+- [Frida SIT 189 Silberne Sturmwinde Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/frida-sit-189-silberne-sturmwinde-pokemon-karte-deutsch-near-mint): Frida SIT 189 Silberne Sturmwinde Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:08:31Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a1e1be92-332b-4d3b-afa0-0be5495046f1.jpg?v=1779992571
+  Price: 9,99 € EUR
+- [Pikachu VMAX (VIV 44) Farbenschock](https://sammelsucht-shop.de/products/pikachu-vmax-viv-44-farbenschock): Pikachu VMAX (VIV 44) Farbenschock – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:10:11Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_e1ef50f5-3d31-46a1-9c4f-c7d2bc66173d.png?v=1779992577
+  Price: 9,00 € EUR
+- [Sanaconda V FST 252 Fusionsangriff Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/sanaconda-v-fst-252-fusionsangriff-pokemon-karte-deutsch-near-mint): Sanaconda V FST 252 Fusionsangriff Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:14:10Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_1368bfea-7f85-4c94-90bc-31140bd4765a.jpg?v=1779992580
+  Price: 12,49 € EUR
+- [Mimigma SVP 075 Black Star Promo DE NM Pokémon Sealed](https://sammelsucht-shop.de/products/mimigma-svp-075-black-star-promo-de-nm-pokemon-sealed): Mimigma SVP 075 Black Star Promo DE NM Pokémon Sealed – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T18:55:01Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_46a8419a-395b-4ec8-a50d-7fe0fab5e907.jpg?v=1779992583
+  Price: 13,49 € EUR
+- [Surfendes Pikachu VMAX 009/025 Ultra Rare Celebrations DE NM Pokémon](https://sammelsucht-shop.de/products/surfendes-pikachu-vmax-009-025-ultra-rare-celebrations-de-nm-pokemon): Surfendes Pikachu VMAX 009/025 Ultra Rare Celebrations DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T10:23:49Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_ea088957-e339-4bf3-b4a9-19aa56fd0329.jpg?v=1779992586
+  Price: 8,49 € EUR
+- [Pii OBF 202 Obsidianflammen Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/pii-obf-202-obsidianflammen-pokemon-karte-deutsch-near-mint): Pii OBF 202 Obsidianflammen Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T16:58:55Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_cc419d4f-9106-4a2b-8333-ee57b4e2db17.jpg?v=1779992595
+  Price: 29,99 € EUR
+- [Latias 076/191 Promo Stürmische Funken DE NM Pokémon](https://sammelsucht-shop.de/products/latias-076-191-promo-sturmische-funken-de-nm-pokemon): Latias 076/191 Promo Stürmische Funken DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T20:38:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_22fade09-a7f5-40c5-90ba-301fdb37f7bd.jpg?v=1779992601
+  Price: 9,99 € EUR
+- [Delion VIV 195 Farbenschock Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/delion-viv-195-farbenschock-pokemon-karte-deutsch-near-mint): Delion VIV 195 Farbenschock Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:37:16Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_c7fe7ba1-6f3b-4ff7-8d96-7d6eb2bd8c65.jpg?v=1779992604
+  Price: 9,99 € EUR
+- [Fliegendes Pikachu VMAX CEL 007 Celebrations Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/fliegendes-pikachu-vmax-cel-007-celebrations-pokemon-karte-deutsch-near-mint): Fliegendes Pikachu VMAX CEL 007 Celebrations Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:50:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_37d182cc-2a7c-4d78-9013-aa813eef9c4e.jpg?v=1779992613
+  Price: 7,00 € EUR
+- [Papella VIV 197 Farbenschock Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/papella-viv-197-farbenschock-pokemon-karte-deutsch-near-mint): Papella VIV 197 Farbenschock Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T21:37:47Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_ac958ba0-0196-49c4-b173-7aa420bdf3b0.jpg?v=1779992618
+  Price: 9,00 € EUR
+- [Piccolente 109/086 Illustration Rare Weiße Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/piccolente-109-086-illustration-rare-weisse-flammen-de-nm-pokemon): Piccolente 109/086 Illustration Rare Weiße Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T15:10:01Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_741e2eca-1a12-41ab-9a43-ced249671760.jpg?v=1779992624
+  Price: 39,99 € EUR
+- [Toxiped BLK 132 Schwarze Blitze Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/toxiped-blk-132-schwarze-blitze-pokemon-karte-deutsch-near-mint): Toxiped BLK 132 Schwarze Blitze Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:57:12Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_432a6ee0-274b-4573-bf33-a4777b2a46dd.jpg?v=1779992631
+  Price: 9,99 € EUR
+- [Mega Kangama ex 164/132 Ultra Rare Mega-Entwicklung DE NM Pokémon](https://sammelsucht-shop.de/products/mega-kangama-ex-164-132-ultra-rare-mega-entwicklung-de-nm-pokemon): Mega Kangama ex 164/132 Ultra Rare Mega-Entwicklung DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:20:37Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_eb94ce6b-80e5-4e80-b83d-db3ccabcc1a4.jpg?v=1779992632
+  Price: 6,75 € EUR
+- [Paldea-Felino 102/094 Illustration Rare Fatale Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/paldea-felino-102-094-illustration-rare-fatale-flammen-de-nm-pokemon): Paldea-Felino 102/094 Illustration Rare Fatale Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T19:36:25Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_f89beb0b-bf0c-4e1b-823d-ac2beb432b75.jpg?v=1779992638
+  Price: 4,99 € EUR
+- [Mega Schlapor ex PFL 128 Fatale Flammen Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/mega-schlapor-ex-pfl-128-fatale-flammen-pokemon-karte-deutsch-near-mint): Mega Schlapor ex PFL 128 Fatale Flammen Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T16:46:05Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_d094b065-0a90-4320-89bf-3e5e23934b4e.jpg?v=1779992641
+  Price: 18,99 € EUR
+- [Traunfugil ASC 233 Erhabene Helden Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/traunfugil-asc-233-erhabene-helden-pokemon-karte-deutsch-near-mint): Traunfugil ASC 233 Erhabene Helden Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:42:25Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_66535419-79d8-440b-b7da-5af25d7dd37c.jpg?v=1779992644
+  Price: 4,99 € EUR
+- [Roserade LOR TG02 Verlorener Ursprung Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/roserade-lor-tg02-verlorener-ursprung-pokemon-karte-deutsch-near-mint): Roserade LOR TG02 Verlorener Ursprung Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T22:35:05Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_4205b87d-bb1e-493c-b35f-6c017a3e810b.jpg?v=1779992653
+  Price: 2,99 € EUR
+- [Melanies Überzeugung CRE 216 Schaurige Herrschaft Pokémon Karte Deutsch Near Min](https://sammelsucht-shop.de/products/melanies-uberzeugung-cre-216-schaurige-herrschaft-pokemon-karte-deutsch-near-min): Melanies Überzeugung CRE 216 Schaurige Herrschaft Pokémon Karte Deutsch Near Min – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:10:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_3ee2ac0f-61cf-4c44-aa5c-1a2330363529.jpg?v=1779992658
+  Price: 7,99 € EUR
+- [Kecleon SSP 213 Stürmische Funken Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/kecleon-ssp-213-sturmische-funken-pokemon-karte-deutsch-near-mint): Kecleon SSP 213 Stürmische Funken Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T16:13:35Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_98cd1831-2b86-45a5-8d5a-6ad1746454a5.jpg?v=1779992666
+  Price: 4,49 € EUR
+- [Frida SIT 204 Silberne Sturmwinde Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/frida-sit-204-silberne-sturmwinde-pokemon-karte-deutsch-near-mint): Frida SIT 204 Silberne Sturmwinde Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T22:28:47Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_9cd68bcc-886b-4adb-b914-a2ee3c7bc0e1.jpg?v=1779992669
+  Price: 6,49 € EUR
+- [Echnatoll 123/082 Illustration Rare Weiße Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/echnatoll-123-082-illustration-rare-weisse-flammen-de-nm-pokemon): Echnatoll 123/082 Illustration Rare Weiße Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-22T01:07:23Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_ff34fdc4-f42a-4101-b406-bc2ce568828c.jpg?v=1779992671
+  Price: 49,99 € EUR
+- [Chimstix SVP 115 SV Black Star Promo Pokémon Karte Deutsch Near Mint STAFF STAMP](https://sammelsucht-shop.de/products/chimstix-svp-115-sv-black-star-promo-pokemon-karte-deutsch-near-mint-staff-stamp): Chimstix SVP 115 SV Black Star Promo Pokémon Karte Deutsch Near Mint STAFF STAMP – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T14:45:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a4df7f62-862b-493a-a749-7dc0a56381be.jpg?v=1779992677
+  Price: 34,49 € EUR
+- [Panferno SVP 116 SV Black Star Promo Pokémon Karte Deutsch Near Mint STAFF STAMP](https://sammelsucht-shop.de/products/panferno-svp-116-sv-black-star-promo-pokemon-karte-deutsch-near-mint-staff-stamp): Panferno SVP 116 SV Black Star Promo Pokémon Karte Deutsch Near Mint STAFF STAMP – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T15:09:05Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_fec5d5d9-57e4-437b-9933-3ecd38cea11c.jpg?v=1779992681
+  Price: 39,99 € EUR
+- [Ledian SVP 133 SV Black Star Promos Pokémon Karte Deutsch Near Mint STAFF STAMP](https://sammelsucht-shop.de/products/ledian-svp-133-sv-black-star-promos-pokemon-karte-deutsch-near-mint-staff-stamp): Ledian SVP 133 SV Black Star Promos Pokémon Karte Deutsch Near Mint STAFF STAMP – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T16:43:26Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_1b456aea-f1a4-48d0-893b-31e0d6431491.jpg?v=1779992686
+  Price: 20,00 € EUR
+- [Galar-Gorgasonn V CPA 71 Weg des Champs Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/galar-gorgasonn-v-cpa-71-weg-des-champs-pokemon-karte-deutsch-near-mint): Galar-Gorgasonn V CPA 71 Weg des Champs Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T15:43:10Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/2086224085.jpg?v=1784648578
+  Price: 3,49 € EUR
+- [Feelinara VMAX EVS 075 Drachenwandel Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/feelinara-vmax-evs-075-drachenwandel-pokemon-karte-deutsch-near-mint): Feelinara VMAX EVS 075 Drachenwandel Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:17:42Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_38c87f5c-6b79-4ce8-b423-07850b47aaca.jpg?v=1779992727
+  Price: 19,99 € EUR
+- [Farigiraf ex TEF 194 Gewalten der Zeit Pokémon Karte Deutsch Ne](https://sammelsucht-shop.de/products/farigiraf-ex-tef-194-gewalten-der-zeit-pokemon-karte-deutsch-ne): Farigiraf ex TEF 194 Gewalten der Zeit Pokémon Karte Deutsch Ne – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T15:01:32Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_13032dfa-66cc-49de-8660-9b43cabca7a4.jpg?v=1779992739
+  Price: 3,49 € EUR
+- [Skarabaks PAL 215 Entwicklungen in Paldea Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/skarabaks-pal-215-entwicklungen-in-paldea-pokemon-karte-deutsch-near-mint): Skarabaks PAL 215 Entwicklungen in Paldea Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:24:15Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_8a4cf530-3127-4c37-b86e-5bfceeb51cf5.jpg?v=1779992744
+  Price: 5,49 € EUR
+- [Botogel 152/132 Illustration Rare Mega-Entwicklung DE NM Pokémon](https://sammelsucht-shop.de/products/botogel-152-132-illustration-rare-mega-entwicklung-de-nm-pokemon): Botogel 152/132 Illustration Rare Mega-Entwicklung DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:32:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_70ff1784-3c5f-42e9-9c1c-4a774521c22a.jpg?v=1779992750
+  Price: 4,49 € EUR
+- [Ciphermaniacs Decodierung 198/162 Ultra Rare Gewalten der Zeit DE NM Pokémon](https://sammelsucht-shop.de/products/ciphermaniacs-decodierung-198-162-ultra-rare-gewalten-der-zeit-de-nm-pokemon): Ciphermaniacs Decodierung 198/162 Ultra Rare Gewalten der Zeit DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:41:49Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_3017789d-b958-4ca3-b9a3-a17c97b1c77b.jpg?v=1779992754
+  Price: 5,49 € EUR
+- [Wahlgürtel 211/189 Secret Rare Astralglanz DE NM Pokémon](https://sammelsucht-shop.de/products/wahlgurtel-211-189-secret-rare-astralglanz-de-nm-pokemon): Wahlgürtel 211/189 Secret Rare Astralglanz DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:57:30Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_fb0a71e8-4b93-4d98-9e93-4d4fd155cdd5.jpg?v=1779992756
+  Price: 5,49 € EUR
+- [Mopex PAR 215 Paradoxrift Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/mopex-par-215-paradoxrift-pokemon-karte-deutsch-near-mint): Mopex PAR 215 Paradoxrift Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T19:31:00Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_33678e0a-e60d-4553-83ca-996f48cc8458.jpg?v=1779992760
+  Price: 4,99 € EUR
+- [Galar-Mauzinger SV087/SV122 Shiny Rare Glänzendes Schicksal DE NM Pokémon](https://sammelsucht-shop.de/products/galar-mauzinger-sv087-sv122-shiny-rare-glanzendes-schicksal-de-nm-pokemon): Galar-Mauzinger SV087/SV122 Shiny Rare Glänzendes Schicksal DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T15:45:46Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a6301254-ec6b-48fb-8582-bf2a8ea4a81d.jpg?v=1779992768
+  Price: 4,99 € EUR
+- [Teal Mask Ogerpon 211/167 Special Illustration Rare Maskerade im Zwielicht EN NM](https://sammelsucht-shop.de/products/teal-mask-ogerpon-211-167-special-illustration-rare-maskerade-im-zwielicht-en-nm): Teal Mask Ogerpon 211/167 Special Illustration Rare Maskerade im Zwielicht EN NM – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T18:35:47Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_054afd75-d646-45f1-9f37-50ee0e4ab464.jpg?v=1779992774
+  Price: 25,00 € EUR
+- [Voltrel 145/091 Shiny Rare Paldeas Schicksale DE NM Pokémon](https://sammelsucht-shop.de/products/voltrel-145-091-shiny-rare-paldeas-schicksale-de-nm-pokemon): Voltrel 145/091 Shiny Rare Paldeas Schicksale DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T22:49:55Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_0813e9c8-d3ca-497f-80a3-88121df5984c.jpg?v=1779992778
+  Price: 2,99 € EUR
+- [Raffel 205/091 Shiny Rare Paldeas Schicksale DE NM Pokémon](https://sammelsucht-shop.de/products/raffel-205-091-shiny-rare-paldeas-schicksale-de-nm-pokemon): Raffel 205/091 Shiny Rare Paldeas Schicksale DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:06:06Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_3582d9d9-6062-481b-b2d0-3d823f12cd9c.jpg?v=1779992781
+  Price: 3,99 € EUR
+- [Togedemaru 104/094 Illustration Rare Fatale Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/togedemaru-104-094-illustration-rare-fatale-flammen-de-nm-pokemon): Togedemaru 104/094 Illustration Rare Fatale Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T22:43:43Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_b0fcf7d9-106d-465d-a4c4-4327ecabb75e.jpg?v=1779992784
+  Price: 2,99 € EUR
+- [Stadionruine 215/196 Secret Rare Verlorener Ursprung DE NM Pokémon](https://sammelsucht-shop.de/products/stadionruine-215-196-secret-rare-verlorener-ursprung-de-nm-pokemon): Stadionruine 215/196 Secret Rare Verlorener Ursprung DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:28:55Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_2daf39cd-bf6c-48fc-a7be-35c6237e6081.jpg?v=1779992791
+  Price: 5,49 € EUR
+- [Kappalores 095/094 Illustration Rare Fatale Flammen DE NM Pokémon](https://sammelsucht-shop.de/products/kappalores-095-094-illustration-rare-fatale-flammen-de-nm-pokemon): Kappalores 095/094 Illustration Rare Fatale Flammen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T22:16:40Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_bba14116-27c1-45ec-9aa4-d4b9e9108926.jpg?v=1779992793
+  Price: 2,99 € EUR
+- [Cassiopeia 086/064 Ultra Rare Nebel der Sagen DE NM Pokémon](https://sammelsucht-shop.de/products/cassiopeia-086-064-ultra-rare-nebel-der-sagen-de-nm-pokemon): Cassiopeia 086/064 Ultra Rare Nebel der Sagen DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:39:22Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_c8743156-2a98-4589-9c6d-d342a5d3499f.jpg?v=1779992802
+  Price: 3,00 € EUR
+- [Furienblitz ex 196/162 Ultra Rare Gewalten der Zeit DE NM Pokémon](https://sammelsucht-shop.de/products/furienblitz-ex-196-162-ultra-rare-gewalten-der-zeit-de-nm-pokemon): Furienblitz ex 196/162 Ultra Rare Gewalten der Zeit DE NM Pokémon – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T21:59:55Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_b7cf1410-6094-4a28-bfa5-2287b6e0e89c.jpg?v=1779992809
+  Price: 3,49 € EUR
+- [Hisui-Silvarro VSTAR ASR 195 Astralglanz Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/hisui-silvarro-vstar-asr-195-astralglanz-pokemon-karte-deutsch-near-mint): Hisui-Silvarro VSTAR ASR 195 Astralglanz Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-20T19:57:36Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_3d353cf4-eb9b-4843-b3cb-e0c4ece20c3f.jpg?v=1779992811
+  Price: 10,00 € EUR
+- [Castellith PAR 183 Paradoxrift Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/castellith-par-183-paradoxrift-pokemon-karte-deutsch-near-mint): Castellith PAR 183 Paradoxrift Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T14:39:57Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_62cc2410-74ae-4d67-959e-9ae9d6656bd7.jpg?v=1779992815
+  Price: 3,99 € EUR
+- [Starmie V ASR 166 Astralglanz Pokémon Karte Deutsch Near Mint](https://sammelsucht-shop.de/products/starmie-v-asr-166-astralglanz-pokemon-karte-deutsch-near-mint): Starmie V ASR 166 Astralglanz Pokémon Karte Deutsch Near Mint – sicher verpackt, Versand aus Deutschland. Jetzt bei Sammelsucht kaufen.
+  Updated: 2026-07-21T20:29:27Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a9726c83-3f2e-41e4-8567-b484ba82a86d.jpg?v=1779992817
+  Price: 3,99 € EUR
+[List Continued](https://sammelsucht-shop.de/a/llms-agent/llms.txt?shop=d0wkdt-vw.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTc2MTcxNjc0MDQyNywibGFzdF92YWx1ZSI6IjE1NzYxNzE2NzQwNDI3In0%3D)
 
 ## Collections
 
@@ -152,9 +1034,9 @@
 - [Mysterious Mountains](https://sammelsucht-shop.de/collections/mysterious-mountains): e-Card JP 4. Oktober 2002 91 Karten
   Updated: 2026-07-04T20:32:38Z
   Total Products: 0
-- [Expedition](https://sammelsucht-shop.de/collections/expedition): e-Card 15. September 2002 169 Karten
-  Updated: 2026-07-04T20:32:38Z
-  Total Products: 0
+- [Expedition](https://sammelsucht-shop.de/collections/expedition): Ausgewählte Pokémon-Einzelkarten aus Expedition – geprüfter Zustand, sicher verpackt, Versand aus Deutschland.
+  Updated: 2026-07-17T19:02:31Z
+  Total Products: 2
 - [Split Earth](https://sammelsucht-shop.de/collections/split-earth): e-Card JP 23. August 2002 91 Karten
   Updated: 2026-07-04T20:32:38Z
   Total Products: 0
@@ -242,9 +1124,9 @@
 - [PLAY Promos](https://sammelsucht-shop.de/collections/play-promos): ADV 1. Januar 2003 32 Karten
   Updated: 2026-07-04T20:32:39Z
   Total Products: 0
-- [ADV Promos](https://sammelsucht-shop.de/collections/adv-promos): ADV 1. Januar 2003 63 Karten
-  Updated: 2026-07-04T20:32:39Z
-  Total Products: 0
+- [ADV Promos](https://sammelsucht-shop.de/collections/adv-promos): Ausgewählte Pokémon-Einzelkarten aus ADV Promos – geprüfter Zustand, sicher verpackt, Versand aus Deutschland.
+  Updated: 2026-07-17T19:03:18Z
+  Total Products: 1
 - [Gift Box Emerald](https://sammelsucht-shop.de/collections/gift-box-emerald): PCG 19. November 2004 38 Karten
   Updated: 2026-07-04T20:32:39Z
   Total Products: 0
@@ -764,6 +1646,54 @@
 - [Battle Gift Set: Thundurus vs Tornadus](https://sammelsucht-shop.de/collections/battle-gift-set-thundurus-vs-tornadus): Schwarz & Weiß JP 18. November 2011 32 Karten
   Updated: 2026-07-04T20:32:47Z
   Total Products: 0
+
+## Blogs
+
+- [Ratgeber](https://sammelsucht-shop.de/blogs/news)
+  - [Pokémon-Kartenzustand erklärt: Near Mint, Excellent & Co. | Sammelsucht](https://sammelsucht-shop.de/blogs/news/pokemon-kartenzustand-erklart-near-mint-excellent-co-im-uberblick): Pokémon-Kartenzustand erklärt: Near Mint, Excellent & Co. | Sammelsucht
+    Updated: 2026-07-17T15:43:56Z
+    Author: Sammelsucht
+    Tags: Kartenzustand, Ratgeber
+  - [Prismatische Entwicklungen: Wertvollste Karten | Sammelsucht](https://sammelsucht-shop.de/blogs/news/prismatische-entwicklungen-die-wertvollsten-karten-des-sets): Prismatische Entwicklungen: Wertvollste Karten | Sammelsucht
+    Updated: 2026-07-17T15:43:57Z
+    Author: Sammelsucht
+    Tags: Prismatische Entwicklungen, Set-Guide
+  - [Pokémon-Karten Fälschungen erkennen | Sammelsucht](https://sammelsucht-shop.de/blogs/news/pokemon-karten-falschungen-erkennen-so-schutzt-du-dich-beim-kartenkauf): Pokémon-Karten Fälschungen erkennen | Sammelsucht
+    Updated: 2026-07-17T15:43:58Z
+    Author: Sammelsucht
+    Tags: Fälschungen, Ratgeber
+  - [Stürmische Funken: Wertvollste Karten | Sammelsucht](https://sammelsucht-shop.de/blogs/news/sturmische-funken-die-wertvollsten-karten-im-uberblick): Stürmische Funken: Wertvollste Karten | Sammelsucht
+    Updated: 2026-07-18T21:21:22Z
+    Author: Sammelsucht
+    Tags: Set-Guide, Stürmische Funken
+  - [Pokémon-Karten sicher online kaufen | Sammelsucht](https://sammelsucht-shop.de/blogs/news/pokemon-karten-sicher-online-kaufen-worauf-du-wirklich-achten-solltest): Pokémon-Karten sicher online kaufen | Sammelsucht
+    Updated: 2026-07-17T15:44:01Z
+    Author: Sammelsucht
+    Tags: Ratgeber, Sicher kaufen
+  - [Pokémon-Karten richtig aufbewahren | Sammelsucht](https://sammelsucht-shop.de/blogs/news/pokemon-karten-richtig-aufbewahren-sleeves-toploader-co): Pokémon-Karten richtig aufbewahren | Sammelsucht
+    Updated: 2026-07-17T15:44:03Z
+    Author: Sammelsucht
+    Tags: Aufbewahrung, Ratgeber
+  - [DE, EN oder JP? Sprachvergleich Pokémon-Karten | Sammelsucht](https://sammelsucht-shop.de/blogs/news/deutsch-englisch-oder-japanisch-der-sprachvergleich-fur-pokemon-karten): DE, EN oder JP? Sprachvergleich Pokémon-Karten | Sammelsucht
+    Updated: 2026-07-17T15:44:04Z
+    Author: Sammelsucht
+    Tags: Ratgeber, Sprachvergleich
+  - [PSA-Grading für Pokémon-Karten: Lohnt sich das? | Sammelsucht](https://sammelsucht-shop.de/blogs/news/psa-grading-fur-pokemon-karten-lohnt-sich-das): PSA-Grading für Pokémon-Karten: Lohnt sich das? | Sammelsucht
+    Updated: 2026-07-17T15:44:11Z
+    Author: Sammelsucht
+    Tags: Grading, Ratgeber
+  - [Weiße Flammen: Wertvollste Karten | Sammelsucht](https://sammelsucht-shop.de/blogs/news/weisse-flammen-die-wertvollsten-karten-des-sets): Weiße Flammen: Wertvollste Karten | Sammelsucht
+    Updated: 2026-07-17T15:44:14Z
+    Author: Sammelsucht
+    Tags: Set-Guide, Weiße Flammen
+  - [Pokémon-Karten Wert-Guide 2026 | Sammelsucht](https://sammelsucht-shop.de/blogs/news/pokemon-karten-wert-guide-2026-was-deine-karten-wirklich-wert-sind): Pokémon-Karten Wert-Guide 2026 | Sammelsucht
+    Updated: 2026-07-17T15:44:16Z
+    Author: Sammelsucht
+    Tags: Kartenwert, Ratgeber
+  - [Karmesin und Purpur: Set-Guide | Sammelsucht](https://sammelsucht-shop.de/blogs/news/karmesin-und-purpur-der-komplette-set-guide-zur-aktuellen-ara): Karmesin und Purpur: Set-Guide | Sammelsucht
+    Updated: 2026-07-17T15:44:17Z
+    Author: Sammelsucht
+    Tags: Karmesin und Purpur, Set-Guide
 
 ## Store Pages
 
