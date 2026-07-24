@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-16T15:39:04Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-16T00:00:37.492Z
+- Updated At: 2026-07-24T00:00:39.654Z
 
 ## Products
 
 - [Script Logo Ladies Tee](https://shop.weirdal.com/products/script-logo-ladies-tee): Women's t-shirt featuring Weird Al Yankovic script printed on the front.
-  Updated: 2026-06-27T10:53:44Z
+  Updated: 2026-07-22T14:33:12Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: $30.00 USD
 - [In 3-D Ladies Tee](https://shop.weirdal.com/products/in-3-d-ladies-tee): Women's t-shirt in blue featuring Weird Al Yankovic "In 3-D" artwork printed on the front. As seen on Stranger Things.
-  Updated: 2026-07-09T16:46:00Z
+  Updated: 2026-07-23T17:59:32Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -44,7 +44,7 @@
     Availability: Not Available
     Price: $35.00 USD
   - [L](https://shop.weirdal.com/products/in-3-d-ladies-tee?variant=53681869062357)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XL](https://shop.weirdal.com/products/in-3-d-ladies-tee?variant=53681869095125)
     Availability: Available
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Dare to Be Stupid Logo Ladies Tee](https://shop.weirdal.com/products/dare-to-be-stupid-ladies-tee): Ladies' t-Shirt in black featuring Weird Al Yankovic "Dare To Be Stupid" artwork printed on the front and back.
-  Updated: 2026-06-22T18:49:50Z
+  Updated: 2026-07-20T03:00:46Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -71,7 +71,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Dare to Be Stupid Logo Tee](https://shop.weirdal.com/products/dare-to-be-stupid-logo-tee): 100% cotton t-Shirt in black featuring Weird Al Yankovic "Dare To Be Stupid" artwork printed on the front and back.
-  Updated: 2026-07-14T23:02:38Z
+  Updated: 2026-07-21T20:42:08Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Big Roy's Plumbing Tee](https://shop.weirdal.com/products/big-roys-plumbing-t-shirt): 100% cotton t-shirt in natural with front and sleeve print
-  Updated: 2026-07-14T23:02:29Z
+  Updated: 2026-07-20T03:00:46Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -119,7 +119,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Mad Magazine Tee](https://shop.weirdal.com/products/mad-magazine-tee): Licensed and Official. Don't waste your money on a knockoff, buy the 100% Authentic, Weird Al Magazine T-Shirt! 100% cotton t-shirt in white
-  Updated: 2026-07-09T16:23:47Z
+  Updated: 2026-07-21T18:05:38Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -157,28 +157,28 @@
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Photo_USB_Drive.webp?v=1776448892
   Price: $20.00 USD
 - [Hang A Salami & Craigslist Shoelaces](https://shop.weirdal.com/products/hang-a-salami-craigslist-shoelaces): Didn't you see me put up my index finger? Set of shoelaces
-  Updated: 2026-06-20T14:39:16Z
+  Updated: 2026-07-21T17:39:53Z
   Vendor: "Weird Al" Yankovic
   Product Type: Shoe Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Shoelace_Bundle.webp?v=1776354257
   Price: $20.00 USD
 - [Dare to Be Stupid Epoxy Pin](https://shop.weirdal.com/products/dare-to-be-stupid-epoxy-pin): 1.25" wide epoxy pin featuring Dare to Be Stupid album art
-  Updated: 2026-07-11T05:30:58Z
+  Updated: 2026-07-23T23:03:27Z
   Vendor: "Weird Al" Yankovic
   Product Type: Pin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Dare_to_Be_Pin.png?v=1776449075
   Price: $10.00 USD
 - [Groovy Bucket Hat](https://shop.weirdal.com/products/groovy-bucket-hat): 100% cotton bucket hat in black with "Weird Al" Yankovic logo embroidery
-  Updated: 2026-07-11T00:51:09Z
+  Updated: 2026-07-22T21:31:58Z
   Vendor: "Weird Al" Yankovic
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Groovy_Bucket_Hat.webp?v=1776354258
   Price: $35.00 USD
 - [Accordion Tee](https://shop.weirdal.com/products/accordion-t-shirt): 100% cotton t-shirt in black featuring "Weird Al" Yankovic Accordion artwork printed on the front.
-  Updated: 2026-07-09T16:24:00Z
+  Updated: 2026-07-22T01:09:03Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -202,7 +202,7 @@
     Availability: Available
     Price: $35.00 USD
 - ["Weird Al" Polka Tee](https://shop.weirdal.com/products/weird-al-polka-tee): 100% cotton t-shirt in jade featuring "Weird Al" Polka artwork printed on the front.
-  Updated: 2026-07-14T23:02:38Z
+  Updated: 2026-07-21T17:44:47Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -226,7 +226,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Jerry's Bait Shop Tee](https://shop.weirdal.com/products/jerrys-bait-shop-tee): You know the place... 100% cotton t-shirt in light blue featuring Jerry's Bait Shop artwork printed on the front
-  Updated: 2026-07-14T20:34:27Z
+  Updated: 2026-07-22T16:09:11Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -250,7 +250,7 @@
     Availability: Available
     Price: $35.00 USD
 - [White & Nerdy Ladies Tee](https://shop.weirdal.com/products/white-nerdy-ladies-tee): Women's t-shirt in black featuring "White & Nerdy" printed on the front.
-  Updated: 2026-07-15T22:35:06Z
+  Updated: 2026-07-22T18:47:08Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -271,7 +271,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [White & Nerdy Tee](https://shop.weirdal.com/products/white-nerdy-tee): 100% cotton t-shirt in black featuring "White & Nerdy" printed on the front.
-  Updated: 2026-07-14T01:27:08Z
+  Updated: 2026-07-17T14:01:58Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -295,7 +295,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Modern Accordion Hoodie](https://shop.weirdal.com/products/modern-accordion-hoodie): 50% cotton / 50% polyester pre-shrunk fleece hoodie in black featuring a front pouch pocket
-  Updated: 2026-07-15T05:17:34Z
+  Updated: 2026-07-22T15:04:16Z
   Vendor: "Weird Al" Yankovic
   Product Type: Hoodie
   Availability: Available
@@ -319,7 +319,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Rocky Road Tee](https://shop.weirdal.com/products/rocky-road-tee): 100% ringspun cotton t-shirt in black featuring I Love Rocky Road artwork
-  Updated: 2026-07-14T03:05:18Z
+  Updated: 2026-07-22T15:26:36Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -343,7 +343,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Dare to Be Stupid Tee](https://shop.weirdal.com/products/dare-to-be-stupid-tee): 100% ringspun cotton t-shirt in black featuring Dare to Be Stupid artwork
-  Updated: 2026-07-15T23:15:52Z
+  Updated: 2026-07-22T14:33:20Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -367,7 +367,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Accordion on Fire Tee](https://shop.weirdal.com/products/accordion-on-fire-tee): 100% ringspun cotton t-shirt in black featuring "Weird Al" and a flaming accordion
-  Updated: 2026-07-15T23:15:46Z
+  Updated: 2026-07-22T21:12:27Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -391,7 +391,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Bigger & Weirder Tee](https://shop.weirdal.com/products/bigger-weirder-tee): 100% ringspun cotton t-shirt in black featuring Bigger & Weirder design
-  Updated: 2026-07-15T23:46:09Z
+  Updated: 2026-07-23T18:38:08Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -415,7 +415,7 @@
     Availability: Available
     Price: $40.00 USD
 - [The Extremely Up Close & Personal Tee](https://shop.weirdal.com/products/the-extremely-up-close-personal-tee): 100% ringspun cotton t-shirt in white featuring an extremely up close & personal photo of Al
-  Updated: 2026-07-15T22:07:06Z
+  Updated: 2026-07-22T20:24:48Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -463,7 +463,7 @@
     Availability: Available
     Price: $50.00 USD
 - [In 3-D Tee](https://shop.weirdal.com/products/in-3-d-tee): 100% cotton unisex t-shirt in blue featuring Weird Al Yankovic "In 3-D" artwork printed on the front. As seen on Stranger Things.
-  Updated: 2026-07-15T23:46:04Z
+  Updated: 2026-07-22T14:33:16Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -484,17 +484,17 @@
     Availability: Available
     Price: $35.00 USD
   - [3XL](https://shop.weirdal.com/products/in-3-d-tee?variant=53812708540629)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
 - [Weird Al Logo Hat](https://shop.weirdal.com/products/weird-al-logo-hat): 100% cotton twill hat in black with embroidered design
-  Updated: 2026-06-28T04:19:21Z
+  Updated: 2026-07-23T14:50:26Z
   Vendor: "Weird Al" Yankovic
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Logo_Hat.png?v=1778790546
   Price: $30.00 USD
 - [Dare to Be Stupid Logo Hat](https://shop.weirdal.com/products/dare-to-be-stupid-logo-hat): 100% cotton twill hat in black with embroidered design
-  Updated: 2026-07-09T20:50:48Z
+  Updated: 2026-07-23T02:05:17Z
   Vendor: "Weird Al" Yankovic
   Product Type: Hat
   Availability: Available
@@ -507,39 +507,97 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Neon_Instrument_Pop_Socket.png?v=1778789554
   Price: $15.00 USD
+- [Official UHF Score Soundtrack - 37th Anniversary Deluxe 2LP Colored Vinyl](https://shop.weirdal.com/products/uhf-official-score-soundtrack-2lp-vinyl): LIMITED EDITION OFFICIAL UHF SCORE SOUNDTRACK Special 37th Anniversary Collector EditionMusic Composed and Arranged by John Du PrezOriginal Film Score Never Before Released The original UHF score is a masterclass showcase for vintage synthesizer soundtracks with a big, symphonic sound, produced by John Du Prez in his home studio. 2 (two) 180-Gram Colored Vinyl Discs: Disc 1: the original, individual film cues. Disc 2: individual cues combined and arranged by composer John Du Prez into long-play “suites,” created exclusively for this release. Custom Slipcase: custom-designed die-cut slipcase houses soundtrack album. Pop-Up Gatefold: fold-out gatefold with still photos of scenes from the movie and large pop-up of Stanley Spadowski at his train set. Bonus Materials: four custom retro-designed UHF lobby cards. Exact replica of the U62 stock certificate as seen in the movie during the end telethon sequence. ALL PRE-ORDERS END 12:00 AM MIDNIGHT EDT AUGUST 11
+  Updated: 2026-07-23T23:28:47Z
+  Vendor: "Weird Al" Yankovic
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_UHF_Vinyl_4.png?v=1784038402
+  Price: $65.00 USD
+- [Gold Edition - Official UHF Score Soundtrack 37th Anniversary](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-gold-deluxe-2lp-vinyl-box-set): GOLD EDITION LIMITED EDITION BOX SET OFFICIAL UHF SCORE SOUNDTRACK Special 37th Anniversary Collector EditionMusic Composed and Arranged by John Du PrezOriginal Film Score Never Before Released The original UHF score is a masterclass showcase for vintage synthesizer soundtracks with a big, symphonic sound, produced by John Du Prez in his home studio. 2 (two) 180-Gram Colored Vinyl Discs: Disc 1: the original, individual film cues. Disc 2: individual cues combined and arranged by composer John Du Prez into long-play “suites,” created exclusively for this release. Custom Slipcase: custom-designed die-cut slipcase houses soundtrack album. Pop-Up Gatefold: fold-out gatefold with still photos of scenes from the movie and large pop-up of Stanley Spadowski at his train set. Bonus Materials: four custom retro-design UHF lobby cards. Exact replica of the U62 stock certificate as seen in the movie during the end telethon sequence. SPECIAL GOLD EDITION EXTRAS: Shooting Script: exact replica of the UHF screenplay by Al Yankovic and Jay Levey, including scenes not included in the final cut of the movie. Replica of Orion Pictures Tri-Fold  Folder Poster Replicas: Four cardstock 8.5” x 11” mini-posters - final art for theatrical release plus three rare alternative designs. Studio Archives: replicas of the Orion Pictures 1989 tri-fold  folder and UHF GUIDE mini-booklet. Custom Merch: Official premium-cotton UHF T-shirt Twinkie Wiener Sandwich enamel pin. ALL PRE-ORDERS END 12:00 AM MIDNIGHT EDT AUGUST 11
+  Updated: 2026-07-23T23:21:08Z
+  Vendor: "Weird Al" Yankovic
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Gold_Deluxe.png?v=1784057269
+  - [S](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-gold-deluxe-2lp-vinyl-box-set?variant=54277220008149)
+    Availability: Available
+    Price: $135.00 USD
+  - [M](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-gold-deluxe-2lp-vinyl-box-set?variant=54277220040917)
+    Availability: Available
+    Price: $135.00 USD
+  - [L](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-gold-deluxe-2lp-vinyl-box-set?variant=54277220073685)
+    Availability: Available
+    Price: $135.00 USD
+  - [XL](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-gold-deluxe-2lp-vinyl-box-set?variant=54277220106453)
+    Availability: Available
+    Price: $135.00 USD
+  - [2XL](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-gold-deluxe-2lp-vinyl-box-set?variant=54277220139221)
+    Availability: Available
+    Price: $135.00 USD
+  - [3XL](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-gold-deluxe-2lp-vinyl-box-set?variant=54277220171989)
+    Availability: Available
+    Price: $135.00 USD
+- [Platinum Edition - Official UHF Score Soundtrack 37th Anniversary](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-2lp-vinyl-platinum-deluxe-edition): PLATINUM LIMITED EDITION BOX SET OFFICIAL UHF SCORE SOUNDTRACK Special 37th Anniversary Collector EditionMusic Composed and Arranged by John Du PrezOriginal Film Score Never Before Released The original UHF score is a masterclass showcase for vintage synthesizer soundtracks with a big, symphonic sound, produced by John Du Prez in his home studio. 2 (two) 180-Gram Colored Vinyl Discs: Disc 1: the original, individual film cues. Disc 2: individual cues combined and arranged by composer John Du Prez into long-play “suites,” created exclusively for this release. Custom Slipcase: custom-designed die-cut slipcase houses soundtrack album. Pop-Up Gatefold: fold-out gatefold with still photos of scenes from the movie and large pop-up of Stanley Spadowski at his train set. Bonus Materials: four custom retro-design UHF lobby cards. Exact replica of the U62 stock certificate as seen in the movie during the end telethon sequence. Shooting Script: exact replica of the UHF screenplay by Al Yankovic and Jay Levey, including scenes not included in the final cut of the movie. Replica of Orion Pictures Tri-Fold Promo Folder Poster Replicas: 4 cardstock 8.5” x 11” mini-posters – final art for theatrical release + 3 rare alternate designs. Studio Archives: replicas of the Orion Pictures 1989 tri-fold  folder and UHF GUIDE mini-booklet. Custom Merch: official premium-cotton UHF T-shirt and custom enamel Twinkie Wiener Sandwich pin. SPECIAL PLATINUM EDITION EXTRAS Personally Signed Liner Note: heavy stock one-sheet liner note personally signed by composer John Du Prez. Linen-Bound Script Upgrade: shooting script housed in a custom foil-stamped linen slip case. Studio Replica Press Kit: Orion media folder packed with nine 8” x 10” B&W glossy production photos plus rare cast photo, credits, production info and Weird Al bio. Personalized U62 Stock Certificate: exact replica telethon U62 stock certificate with YOUR name (or someone else’s if it’s a gift) hand-drawn by a master calligrapher. UHF Channel 62 Schedule Board Game: custom replica of the schedule board Al as station manager George Newman uses to make the U62 schedule in the movie. Comes with wooden tabletop frame plus magnetic show tiles and dry-erase blank magnetic tiles for shows you create, and black U62 marker. All in a gorgeous retro custom box. Make your own U62 Schedule! After placing your pre-order, follow the link in your confirmation page or email to submit the name for your U62 Stock Certificate and your shipping information. Your personalized certificate will ship separately around the same time as your Platinum Edition. ALL PRE-ORDERS END 12:00 AM MIDNIGHT EDT AUGUST 11
+  Updated: 2026-07-23T23:42:17Z
+  Vendor: "Weird Al" Yankovic
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Platinum_Deluxe.png?v=1784059323
+  - [S](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-2lp-vinyl-platinum-deluxe-edition?variant=54277220532437)
+    Availability: Available
+    Price: $325.00 USD
+  - [M](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-2lp-vinyl-platinum-deluxe-edition?variant=54277220565205)
+    Availability: Available
+    Price: $325.00 USD
+  - [L](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-2lp-vinyl-platinum-deluxe-edition?variant=54277220597973)
+    Availability: Available
+    Price: $325.00 USD
+  - [XL](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-2lp-vinyl-platinum-deluxe-edition?variant=54277220630741)
+    Availability: Available
+    Price: $325.00 USD
+  - [2XL](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-2lp-vinyl-platinum-deluxe-edition?variant=54277220663509)
+    Availability: Available
+    Price: $325.00 USD
+  - [3XL](https://shop.weirdal.com/products/uhf-official-score-soundtrack-37th-anniversary-2lp-vinyl-platinum-deluxe-edition?variant=54277220696277)
+    Availability: Available
+    Price: $325.00 USD
 
 ## Collections
 
 - [Home page](https://shop.weirdal.com/collections/frontpage)
-  Updated: 2026-07-15T11:22:07Z
+  Updated: 2026-07-23T11:25:50Z
   Total Products: 30
 - [Apparel](https://shop.weirdal.com/collections/apparel)
-  Updated: 2026-07-15T11:22:07Z
+  Updated: 2026-07-23T11:25:50Z
   Total Products: 30
 - [Accessories](https://shop.weirdal.com/collections/accessories)
-  Updated: 2026-07-11T11:26:19Z
+  Updated: 2026-07-23T11:25:50Z
   Total Products: 9
 - [All](https://shop.weirdal.com/collections/all)
-  Updated: 2026-07-15T20:23:21Z
+  Updated: 2026-07-23T17:57:47Z
   Total Products: 42
 - [The Back Room](https://shop.weirdal.com/collections/the-back-room)
-  Updated: 2026-07-15T11:22:07Z
+  Updated: 2026-07-23T11:25:50Z
   Total Products: 15
 - [The Dare to Be Stupid Collection](https://shop.weirdal.com/collections/the-dare-to-be-stupid-collection)
-  Updated: 2026-07-15T11:22:07Z
+  Updated: 2026-07-23T11:25:50Z
   Total Products: 4
 - [The Accordion Collection](https://shop.weirdal.com/collections/the-accordion-collection)
-  Updated: 2026-07-13T11:19:20Z
+  Updated: 2026-07-23T11:25:50Z
   Total Products: 5
 - [The Ladies Collection](https://shop.weirdal.com/collections/the-ladies-collection)
-  Updated: 2026-07-10T11:32:45Z
+  Updated: 2026-07-23T11:25:50Z
   Total Products: 4
 - [The Bigger & Weirder Collection](https://shop.weirdal.com/collections/the-bigger-weirder-collection)
-  Updated: 2026-07-14T11:22:43Z
+  Updated: 2026-07-23T11:25:50Z
   Total Products: 13
 - [Featured](https://shop.weirdal.com/collections/featured)
-  Updated: 2026-07-15T20:23:21Z
+  Updated: 2026-07-23T17:57:47Z
   Total Products: 27
+- [UHF](https://shop.weirdal.com/collections/uhf)
+  Updated: 2026-07-23T17:57:47Z
+  Total Products: 3
 
 ## Store Pages
 
@@ -553,6 +611,8 @@
   Updated: 2026-05-22T19:06:21Z
 - [Withdrawal form](https://shop.weirdal.com/pages/eu-withdrawal-form)
   Updated: 2026-06-18T20:59:51Z
+- [Platinum Edition Personalization](https://shop.weirdal.com/pages/platinum-edition-personalization)
+  Updated: 2026-07-21T16:35:58Z
 
 ## Policies
 
