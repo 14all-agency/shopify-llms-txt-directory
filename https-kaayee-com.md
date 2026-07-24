@@ -6,26 +6,26 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-07-29T03:01:42Z
 - Contact Email: service@kaayee.com
-- Updated At: 2026-07-17T00:01:02.529Z
+- Updated At: 2026-07-24T00:01:04.130Z
 
 ## Products
 
 - [Mosque Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/mosque-book-nook-kit): Shop Mosque Book Nook Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:09Z
+  Updated: 2026-07-17T21:03:56Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mosque-book-nook-kit-kaayee-puzzle-8835468.png?v=1768949646
   Price: $46.00 USD
 - [Flower House Book Nook Kit - KAAYEE Puzzle](https://kaayee.com/products/flower-house): Shop Flower House Book Nook Kit for only $46.00 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:10Z
+  Updated: 2026-07-17T21:03:56Z
   Vendor: KAAYEE
   Product Type: 3D puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/flower-house-book-nook-kit-kaayee-puzzle-9802323.png?v=1768949646
   Price: $46.00 USD
 - [Autumn Owl Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/autumn-owl-3d-jigsaw-puzzle): Shop Autumn Owl Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:10Z
+  Updated: 2026-07-23T21:08:37Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -40,7 +40,7 @@
     Availability: Available
     Price: $32.99 USD
 - [Brown Bear House Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/brown-bear-house-wooden-jigsaw-puzzle): Shop Brown Bear House Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:10Z
+  Updated: 2026-07-17T21:03:56Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -55,7 +55,7 @@
     Availability: Available
     Price: $39.99 USD
 - [THE JUNGLE KING Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-the-jungle-king): Shop THE JUNGLE KING Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:11Z
+  Updated: 2026-07-17T21:03:57Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -77,7 +77,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/the-jungle-king-wooden-jigsaw-puzzle-kaayee-puzzle-7636055.jpg?v=1760512699
     Price: $40.99 USD
 - [CHESS KNIGHT Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-chess-knight): Shop CHESS KNIGHT Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:11Z
+  Updated: 2026-07-17T21:03:57Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -95,7 +95,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/chess-knight-wooden-jigsaw-puzzle-kaayee-puzzle-3263937.jpg?v=1760512697
     Price: $32.99 USD
 - [PULSATING CANDLE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-pulsating-candle): Shop PULSATING CANDLE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:11Z
+  Updated: 2026-07-17T21:03:57Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/pulsating-candle-wooden-jigsaw-puzzle-kaayee-puzzle-3794145.jpg?v=1760512698
     Price: $40.99 USD
 - [CHRISTMAS CRYSTAL BALL Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-christmas-crystal-ball): Shop CHRISTMAS CRYSTAL BALL Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:12Z
+  Updated: 2026-07-17T21:04:04Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -139,7 +139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/christmas-crystal-ball-wooden-jigsaw-puzzle-kaayee-puzzle-2784309.jpg?v=1760512698
     Price: $40.99 USD
 - [CHRISTMAS ELK Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-christmas-elk): Shop CHRISTMAS ELK Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:12Z
+  Updated: 2026-07-17T21:04:04Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -161,7 +161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/christmas-elk-wooden-jigsaw-puzzle-kaayee-puzzle-5702299.jpg?v=1760512696
     Price: $49.99 USD
 - [HAND OF FATIMA Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-hand-of-fatima): Shop HAND OF FATIMA Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:12Z
+  Updated: 2026-07-17T21:04:04Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -179,7 +179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/hand-of-fatima-wooden-jigsaw-puzzle-kaayee-puzzle-7968318.webp?v=1760512696
     Price: $32.99 USD
 - [CHRISTMAS EVE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-christmas-eve): Shop CHRISTMAS EVE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:13Z
+  Updated: 2026-07-17T21:04:05Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -201,7 +201,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/christmas-eve-wooden-jigsaw-puzzle-kaayee-puzzle-9894419.jpg?v=1760512697
     Price: $49.99 USD
 - [SNOW WOLF Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-snow-wolf): Shop SNOW WOLF Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:13Z
+  Updated: 2026-07-17T21:04:05Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -223,7 +223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/snow-wolf-wooden-jigsaw-puzzle-kaayee-puzzle-8371071.jpg?v=1760512695
     Price: $40.99 USD
 - [COLORFUL SNAIL Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-colorful-snail): Shop COLORFUL SNAIL Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:13Z
+  Updated: 2026-07-17T21:04:05Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -241,7 +241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/colorful-snail-wooden-jigsaw-puzzle-kaayee-puzzle-4526713.jpg?v=1760512695
     Price: $32.99 USD
 - [BRILLIANT SEA HORSE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-brilliant-sea-horse): Shop BRILLIANT SEA HORSE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:14Z
+  Updated: 2026-07-17T21:04:06Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -259,7 +259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/brilliant-sea-horse-wooden-jigsaw-puzzle-kaayee-puzzle-9430719.jpg?v=1760512695
     Price: $32.99 USD
 - [PASSIONATE FLAMINGO Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-passionate-flamingo): Shop PASSIONATE FLAMINGO Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:14Z
+  Updated: 2026-07-17T21:04:06Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -281,7 +281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/passionate-flamingo-wooden-jigsaw-puzzle-kaayee-puzzle-9810807.jpg?v=1760512695
     Price: $49.99 USD
 - [CHARMING AEGEAN SEA Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-charming-aegean-sea): Shop CHARMING AEGEAN SEA Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:14Z
+  Updated: 2026-07-17T21:04:06Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -299,7 +299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/charming-aegean-sea-wooden-jigsaw-puzzle-kaayee-puzzle-6673289.jpg?v=1760512696
     Price: $32.99 USD
 - [JUNGLE KING KONG Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-jungle-king-kong): Shop JUNGLE KING KONG Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:15Z
+  Updated: 2026-07-17T21:04:07Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -321,7 +321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/jungle-king-kong-wooden-jigsaw-puzzle-kaayee-puzzle-5712148.jpg?v=1760512695
     Price: $40.99 USD
 - [MAGIC DRAGON Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-magic-dragon): Shop MAGIC DRAGON Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:15Z
+  Updated: 2026-07-17T21:04:07Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -343,7 +343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/magic-dragon-wooden-jigsaw-puzzle-kaayee-puzzle-8448434.jpg?v=1760512697
     Price: $40.99 USD
 - [INVINCIBLE TIGER Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-invincible-tiger): Shop INVINCIBLE TIGER Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:15Z
+  Updated: 2026-07-17T21:04:17Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -365,7 +365,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/invincible-tiger-wooden-jigsaw-puzzle-kaayee-puzzle-2036159.jpg?v=1760512696
     Price: $40.99 USD
 - [ADVENTUROUS BETTA Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-adventurous-betta): Shop ADVENTUROUS BETTA Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:16Z
+  Updated: 2026-07-17T21:04:17Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -383,7 +383,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/adventurous-betta-wooden-jigsaw-puzzle-kaayee-puzzle-6617988.jpg?v=1760512695
     Price: $32.99 USD
 - [HOWLING WOLF RED Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-howling-wolf-red): Shop HOWLING WOLF RED Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:16Z
+  Updated: 2026-07-17T21:04:18Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -401,7 +401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/howling-wolf-red-wooden-jigsaw-puzzle-kaayee-puzzle-8718744.jpg?v=1760512696
     Price: $32.99 USD
 - [CAT STATUE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-cat-statue): Shop CAT STATUE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:16Z
+  Updated: 2026-07-17T21:04:18Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/cat-statue-wooden-jigsaw-puzzle-kaayee-puzzle-5235054.jpg?v=1760512696
     Price: $49.99 USD
 - [MANDALA 3 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-mandala-3): Shop MANDALA 3 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:17Z
+  Updated: 2026-07-17T21:04:18Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -445,7 +445,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mandala-3-wooden-jigsaw-puzzle-kaayee-puzzle-3777328.jpg?v=1760512697
     Price: $40.99 USD
 - [MANDALA 2 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-mandala-2): Shop MANDALA 2 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:17Z
+  Updated: 2026-07-17T21:04:26Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -467,7 +467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mandala-2-wooden-jigsaw-puzzle-kaayee-puzzle-1356088.jpg?v=1760512696
     Price: $49.99 USD
 - [MANDALA 1 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-mandala-1): Shop MANDALA 1 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:17Z
+  Updated: 2026-07-22T04:01:27Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -489,7 +489,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mandala-1-wooden-jigsaw-puzzle-kaayee-puzzle-4565566.jpg?v=1760512696
     Price: $40.99 USD
 - [ADVENTUROUS CHAMELEON Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-adventurous-chameleon): Shop ADVENTUROUS CHAMELEON Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:17Z
+  Updated: 2026-07-17T21:04:26Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -507,7 +507,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/adventurous-chameleon-wooden-jigsaw-puzzle-kaayee-puzzle-1692704.jpg?v=1760512624
     Price: $32.99 USD
 - [OCTOPUS XIAOHACHI Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-octopus-xiaohachi): Shop OCTOPUS XIAOHACHI Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:18Z
+  Updated: 2026-07-17T21:04:27Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -529,7 +529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/octopus-xiaohachi-wooden-jigsaw-puzzle-kaayee-puzzle-4182267.jpg?v=1760512625
     Price: $40.99 USD
 - [STATELY LION Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-stately-lion): Shop STATELY LION Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:18Z
+  Updated: 2026-07-17T21:04:27Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -551,7 +551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/stately-lion-wooden-jigsaw-puzzle-kaayee-puzzle-2826155.jpg?v=1760512624
     Price: $40.99 USD
 - [TROPICAL PARROT Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-tropical-parrot): Shop TROPICAL PARROT Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:18Z
+  Updated: 2026-07-17T21:04:27Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -573,7 +573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/tropical-parrot-wooden-jigsaw-puzzle-kaayee-puzzle-5892354.jpg?v=1760512625
     Price: $40.99 USD
 - [SUN Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-sun): Shop SUN Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:19Z
+  Updated: 2026-07-17T21:04:27Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -591,7 +591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sun-wooden-jigsaw-puzzle-kaayee-puzzle-9425993.jpg?v=1760512624
     Price: $32.99 USD
 - [MERCURY Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-mercury): Shop MERCURY Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:19Z
+  Updated: 2026-07-17T21:04:28Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -609,7 +609,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mercury-wooden-jigsaw-puzzle-kaayee-puzzle-2690438.jpg?v=1760512624
     Price: $33.00 USD
 - [SATURN Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-saturn): Shop SATURN Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:19Z
+  Updated: 2026-07-17T21:04:28Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -627,7 +627,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/saturn-wooden-jigsaw-puzzle-kaayee-puzzle-9789709.jpg?v=1760512623
     Price: $33.00 USD
 - [SPACE CRISIS Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-space-crisis): Shop SPACE CRISIS Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:20Z
+  Updated: 2026-07-17T21:04:28Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -645,7 +645,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/space-crisis-wooden-jigsaw-puzzle-kaayee-puzzle-7479995.jpg?v=1760512624
     Price: $32.99 USD
 - [RESOLUTE TURTLE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-resolute-turtle): Shop RESOLUTE TURTLE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:20Z
+  Updated: 2026-07-21T17:13:49Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -667,7 +667,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/resolute-turtle-wooden-jigsaw-puzzle-kaayee-puzzle-3403173.jpg?v=1760512623
     Price: $49.99 USD
 - [MECHA CRABS Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-mecha-crabs): Shop MECHA CRABS Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:20Z
+  Updated: 2026-07-17T21:04:29Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -685,7 +685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mecha-crabs-wooden-jigsaw-puzzle-kaayee-puzzle-6939305.jpg?v=1760512624
     Price: $32.99 USD
 - [OPERA MASK GLADIATOR Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-opera-mask-gladiator): Shop OPERA MASK GLADIATOR Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:21Z
+  Updated: 2026-07-17T21:04:29Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -703,7 +703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/opera-mask-gladiator-wooden-jigsaw-puzzle-kaayee-puzzle-7165465.jpg?v=1760512623
     Price: $32.99 USD
 - [OPERA MASK ADVISER Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-opera-mask-adviser): Shop OPERA MASK ADVISER Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:21Z
+  Updated: 2026-07-17T21:04:29Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -721,7 +721,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/opera-mask-adviser-wooden-jigsaw-puzzle-kaayee-puzzle-7810202.jpg?v=1760512622
     Price: $32.99 USD
 - [OPRRA MASK VALOR Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-oprra-mask-valor): Shop OPRRA MASK VALOR Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:22Z
+  Updated: 2026-07-17T21:04:29Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -739,7 +739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/oprra-mask-valor-wooden-jigsaw-puzzle-kaayee-puzzle-9384699.jpg?v=1760512622
     Price: $32.99 USD
 - [OPREA MASK INTEGRITY Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-oprea-mask-integrity): Shop OPREA MASK INTEGRITY Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:22Z
+  Updated: 2026-07-17T21:04:30Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -757,7 +757,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/oprea-mask-integrity-wooden-jigsaw-puzzle-kaayee-puzzle-9734612.jpg?v=1760512622
     Price: $39.99 USD
 - [MYSTERIOUS LEOPARD Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-mysterious-leopard): Shop MYSTERIOUS LEOPARD Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:22Z
+  Updated: 2026-07-17T21:04:30Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -775,7 +775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mysterious-leopard-wooden-jigsaw-puzzle-kaayee-puzzle-8579986.jpg?v=1760512623
     Price: $32.99 USD
 - [SNOWY OWL Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-snowy-owl): Shop SNOWY OWL Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:23Z
+  Updated: 2026-07-17T21:04:30Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -797,7 +797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/snowy-owl-wooden-jigsaw-puzzle-kaayee-puzzle-4980593.jpg?v=1760512621
     Price: $49.99 USD
 - [FREE HUMMINGBIRD Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-free-hummingbird): Shop FREE HUMMINGBIRD Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:23Z
+  Updated: 2026-07-17T21:04:30Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -819,7 +819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/free-hummingbird-wooden-jigsaw-puzzle-kaayee-puzzle-3560016.jpg?v=1760512621
     Price: $40.99 USD
 - [SUNSET Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-sunset): Shop SUNSET Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:23Z
+  Updated: 2026-07-17T21:04:31Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -841,7 +841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sunset-wooden-jigsaw-puzzle-kaayee-puzzle-5683993.jpg?v=1760512621
     Price: $41.00 USD
 - [SUNRISE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-sunrise): Shop SUNRISE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:24Z
+  Updated: 2026-07-17T21:04:31Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -859,7 +859,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sunrise-wooden-jigsaw-puzzle-kaayee-puzzle-8708325.jpg?v=1760512622
     Price: $32.99 USD
 - [PSYCHEDELIC GIRL Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-psychedelic-girl): Shop PSYCHEDELIC GIRL Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:24Z
+  Updated: 2026-07-17T21:04:31Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -877,7 +877,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/psychedelic-girl-wooden-jigsaw-puzzle-kaayee-puzzle-8418086.jpg?v=1760512620
     Price: $32.99 USD
 - [COLORFUL BUTTERFLIES Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-colorful-butterflies): Shop COLORFUL BUTTERFLIES Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-14T16:50:00Z
+  Updated: 2026-07-17T21:04:31Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -899,7 +899,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/colorful-butterflies-wooden-jigsaw-puzzle-kaayee-puzzle-2192332.jpg?v=1760512620
     Price: $40.99 USD
 - [ANCIENT MASK Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-ancient-mask): Shop ANCIENT MASK Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:25Z
+  Updated: 2026-07-17T21:04:32Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -917,7 +917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/ancient-mask-wooden-jigsaw-puzzle-kaayee-puzzle-3074435.jpg?v=1760512620
     Price: $32.99 USD
 - [SLY FOX Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-sly-fox): Shop SLY FOX Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:25Z
+  Updated: 2026-07-17T21:04:32Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -935,7 +935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sly-fox-wooden-jigsaw-puzzle-kaayee-puzzle-5533731.jpg?v=1760512619
     Price: $33.00 USD
 - [FEROCIOUS T-REX Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-ferocious-t-rex): Shop FEROCIOUS T-REX Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:25Z
+  Updated: 2026-07-17T21:04:32Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -953,7 +953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/ferocious-t-rex-wooden-jigsaw-puzzle-kaayee-puzzle-3183186.jpg?v=1760512620
     Price: $39.99 USD
 - [VIGILANT LEOPARD Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-vigilant-leopard): Shop VIGILANT LEOPARD Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:26Z
+  Updated: 2026-07-17T21:04:32Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -971,7 +971,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/vigilant-leopard-wooden-jigsaw-puzzle-kaayee-puzzle-5818602.jpg?v=1760512619
     Price: $33.00 USD
 - [TREE FROG Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-tree-frog): Shop TREE FROG Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:26Z
+  Updated: 2026-07-17T21:04:32Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -993,7 +993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/tree-frog-wooden-jigsaw-puzzle-kaayee-puzzle-6668205.jpg?v=1760512619
     Price: $49.99 USD
 - [GALLOPING HORSE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-galloping-horse): Shop GALLOPING HORSE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:26Z
+  Updated: 2026-07-17T21:04:33Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1015,7 +1015,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/galloping-horse-wooden-jigsaw-puzzle-kaayee-puzzle-5993806.jpg?v=1760512619
     Price: $41.00 USD
 - [RICH DOG Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-rich-dog): Shop RICH DOG Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:27Z
+  Updated: 2026-07-17T21:04:33Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1037,7 +1037,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/rich-dog-wooden-jigsaw-puzzle-kaayee-puzzle-1969056.jpg?v=1760512619
     Price: $49.99 USD
 - [SUCCULENT PLANT Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-succulent-plant): Shop SUCCULENT PLANT Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:27Z
+  Updated: 2026-07-17T21:04:33Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1059,7 +1059,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/succulent-plant-wooden-jigsaw-puzzle-kaayee-puzzle-5178522.jpg?v=1760512619
     Price: $40.99 USD
 - [BEAUTIFUL BUTTERFLY Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-beautiful-butterfly): Shop BEAUTIFUL BUTTERFLY Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:27Z
+  Updated: 2026-07-17T21:04:34Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1081,7 +1081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/beautiful-butterfly-wooden-jigsaw-puzzle-kaayee-puzzle-7069116.jpg?v=1760512620
     Price: $40.99 USD
 - [ALETOPELTA Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-aletopelta): Shop ALETOPELTA Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:28Z
+  Updated: 2026-07-17T21:04:34Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1099,7 +1099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/aletopelta-wooden-jigsaw-puzzle-kaayee-puzzle-9405703.jpg?v=1760512619
     Price: $32.99 USD
 - [ELEGANT PEACOCK Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-elegant-peacock): Shop ELEGANT PEACOCK Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:28Z
+  Updated: 2026-07-17T21:04:34Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1121,7 +1121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/elegant-peacock-wooden-jigsaw-puzzle-kaayee-puzzle-2320131.jpg?v=1760512587
     Price: $49.99 USD
 - [SHAKE SHARK Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-shake-shark): Shop SHAKE SHARK Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:28Z
+  Updated: 2026-07-17T21:04:34Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1139,7 +1139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/shake-shark-wooden-jigsaw-puzzle-kaayee-puzzle-7693713.jpg?v=1760512586
     Price: $32.99 USD
 - [STRONG COCK RD Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-strong-cock-rd): Shop STRONG COCK RD Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:29Z
+  Updated: 2026-07-19T17:06:40Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1161,7 +1161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/strong-cock-rd-wooden-jigsaw-puzzle-kaayee-puzzle-2948274.jpg?v=1760512585
     Price: $49.99 USD
 - [BOHEMIAN ELEPHANT Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-bohemian-elephant): Shop BOHEMIAN ELEPHANT Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:29Z
+  Updated: 2026-07-17T21:04:35Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1179,7 +1179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/bohemian-elephant-wooden-jigsaw-puzzle-kaayee-puzzle-9076341.jpg?v=1760512585
     Price: $33.00 USD
 - [WISE OWL Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-wise-owl): Shop WISE OWL Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:29Z
+  Updated: 2026-07-17T21:04:35Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1201,7 +1201,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/wise-owl-wooden-jigsaw-puzzle-kaayee-puzzle-2668741.jpg?v=1760512585
     Price: $49.99 USD
 - [SACRED TIGER Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-sacred-tiger): Shop SACRED TIGER Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:30Z
+  Updated: 2026-07-17T21:04:35Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1219,7 +1219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sacred-tiger-wooden-jigsaw-puzzle-kaayee-puzzle-5151820.jpg?v=1760512585
     Price: $32.99 USD
 - [ALMIGHTY EYE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-almighty-eye): Shop ALMIGHTY EYE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:30Z
+  Updated: 2026-07-17T21:04:35Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1237,7 +1237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/almighty-eye-wooden-jigsaw-puzzle-kaayee-puzzle-8960104.jpg?v=1760512585
     Price: $32.99 USD
 - [JUNGLE LIGHTNING Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-jungle-lightning): Shop JUNGLE LIGHTNING Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:30Z
+  Updated: 2026-07-17T21:04:36Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1255,7 +1255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/jungle-lightning-wooden-jigsaw-puzzle-kaayee-puzzle-1474917.jpg?v=1760512584
     Price: $32.99 USD
 - [MANDALA DRAGONFLY 2 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-mandala-dragonfly-2): Shop MANDALA DRAGONFLY 2 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:31Z
+  Updated: 2026-07-17T21:04:36Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1277,7 +1277,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mandala-dragonfly-2-wooden-jigsaw-puzzle-kaayee-puzzle-2637880.jpg?v=1760512584
     Price: $41.00 USD
 - [SACHS Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-sachs): Shop SACHS Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:31Z
+  Updated: 2026-07-17T21:04:36Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1295,7 +1295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sachs-wooden-jigsaw-puzzle-kaayee-puzzle-1810207.jpg?v=1760512584
     Price: $39.99 USD
 - [SWEET DOUGHNUT Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-sweet-doughnut): Shop SWEET DOUGHNUT Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:31Z
+  Updated: 2026-07-17T21:04:50Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1313,7 +1313,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sweet-doughnut-wooden-jigsaw-puzzle-kaayee-puzzle-1199106.jpg?v=1760512582
     Price: $39.99 USD
 - [YIN YANG Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-yin-yang): Shop YIN YANG Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:32Z
+  Updated: 2026-07-17T21:04:50Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1335,7 +1335,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/yin-yang-wooden-jigsaw-puzzle-kaayee-puzzle-6613161.jpg?v=1760512583
     Price: $40.99 USD
 - [FASCINATING NEBULA Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-fascinating-nebula): Shop FASCINATING NEBULA Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:32Z
+  Updated: 2026-07-17T21:04:50Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1357,7 +1357,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/fascinating-nebula-wooden-jigsaw-puzzle-kaayee-puzzle-3642972.jpg?v=1760512583
     Price: $49.99 USD
 - [SAUSAGE PIZZA Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-sausage-pizza): Shop SAUSAGE PIZZA Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:32Z
+  Updated: 2026-07-17T21:04:51Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1379,7 +1379,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sausage-pizza-wooden-jigsaw-puzzle-kaayee-puzzle-1524549.jpg?v=1760512583
     Price: $41.00 USD
 - [HOWLING WOLF Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-howling-wolf): Shop HOWLING WOLF Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:33Z
+  Updated: 2026-07-17T21:04:51Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1401,7 +1401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/howling-wolf-wooden-jigsaw-puzzle-kaayee-puzzle-9928263.jpg?v=1760512582
     Price: $40.99 USD
 - [GENTLEMEN DOG Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-gentlemen-dog): Shop GENTLEMEN DOG Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:33Z
+  Updated: 2026-07-17T21:04:51Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1423,7 +1423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/gentlemen-dog-wooden-jigsaw-puzzle-kaayee-puzzle-3491142.jpg?v=1760512581
     Price: $41.00 USD
 - [URANUS Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-uranus): Shop URANUS Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:33Z
+  Updated: 2026-07-17T21:04:51Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1441,7 +1441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/uranus-wooden-jigsaw-puzzle-kaayee-puzzle-1293368.jpg?v=1760512582
     Price: $32.99 USD
 - [VENUS Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-venus): Shop VENUS Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:34Z
+  Updated: 2026-07-17T21:04:52Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1459,7 +1459,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/venus-wooden-jigsaw-puzzle-kaayee-puzzle-5264553.jpg?v=1760512580
     Price: $32.99 USD
 - [MARS Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-mars): Shop MARS Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:34Z
+  Updated: 2026-07-17T21:04:52Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1477,7 +1477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/mars-wooden-jigsaw-puzzle-kaayee-puzzle-1873955.jpg?v=1760512581
     Price: $32.99 USD
 - [NEPTUNE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-neptune): Shop NEPTUNE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:34Z
+  Updated: 2026-07-17T21:04:52Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1495,7 +1495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/neptune-wooden-jigsaw-puzzle-kaayee-puzzle-1380283.jpg?v=1760512581
     Price: $32.99 USD
 - [MOON Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-moon): Shop MOON Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:35Z
+  Updated: 2026-07-17T21:04:52Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1513,7 +1513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/moon-wooden-jigsaw-puzzle-kaayee-puzzle-5757139.jpg?v=1760512581
     Price: $41.00 USD
 - [EARTH Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-earth): Shop EARTH Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-14T23:21:00Z
+  Updated: 2026-07-17T21:04:53Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1535,7 +1535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/earth-wooden-jigsaw-puzzle-kaayee-puzzle-5003653.jpg?v=1760512581
     Price: $49.99 USD
 - [JUPITER Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-jupiter): Shop JUPITER Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:35Z
+  Updated: 2026-07-17T21:04:53Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1553,7 +1553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/jupiter-wooden-jigsaw-puzzle-kaayee-puzzle-2884902.jpg?v=1760512580
     Price: $32.99 USD
 - [CUTIE PANDA Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-cutie-panda): Shop CUTIE PANDA Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:36Z
+  Updated: 2026-07-17T21:04:53Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1575,7 +1575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/cutie-panda-wooden-jigsaw-puzzle-kaayee-puzzle-1321195.jpg?v=1760512581
     Price: $41.00 USD
 - [CLEVER RACCOON Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-clever-raccoon): Shop CLEVER RACCOON Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:36Z
+  Updated: 2026-07-17T21:04:53Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1593,7 +1593,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/clever-raccoon-wooden-jigsaw-puzzle-kaayee-puzzle-8675664.jpg?v=1760512581
     Price: $33.00 USD
 - [WATHCHFUL RHINO Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-wathchful-rhino): Shop WATHCHFUL RHINO Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:36Z
+  Updated: 2026-07-17T21:04:54Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1615,7 +1615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/wathchful-rhino-wooden-jigsaw-puzzle-kaayee-puzzle-2431357.jpg?v=1760512580
     Price: $40.99 USD
 - [FUNNY RABBIT Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-funny-rabbit): Shop FUNNY RABBIT Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-14T16:49:53Z
+  Updated: 2026-07-17T21:04:54Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1633,7 +1633,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/funny-rabbit-wooden-jigsaw-puzzle-kaayee-puzzle-9503835.jpg?v=1760512579
     Price: $32.99 USD
 - [NAUGHTY HASKY Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-naughty-hasky): Shop NAUGHTY HASKY Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:37Z
+  Updated: 2026-07-17T21:04:54Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1655,7 +1655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/naughty-hasky-wooden-jigsaw-puzzle-kaayee-puzzle-4358287.jpg?v=1760512579
     Price: $40.99 USD
 - [GOLDEN RETRIEVER Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-golden-retriever): Shop GOLDEN RETRIEVER Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:38Z
+  Updated: 2026-07-17T21:04:54Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1677,7 +1677,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/golden-retriever-wooden-jigsaw-puzzle-kaayee-puzzle-4172648.jpg?v=1760512580
     Price: $41.00 USD
 - [DREAM UNICORN Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-dream-unicorn): Shop DREAM UNICORN Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:38Z
+  Updated: 2026-07-17T21:04:55Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1699,7 +1699,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/dream-unicorn-wooden-jigsaw-puzzle-kaayee-puzzle-3317988.jpg?v=1760512579
     Price: $49.99 USD
 - [WARRIOR GRAGON Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-warrior-gragon): Shop WARRIOR GRAGON Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:38Z
+  Updated: 2026-07-17T21:04:55Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1721,7 +1721,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/warrior-gragon-wooden-jigsaw-puzzle-kaayee-puzzle-6264520.jpg?v=1760512579
     Price: $49.99 USD
 - [LOVELY OWL Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-lovely-owl): Shop LOVELY OWL Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:39Z
+  Updated: 2026-07-17T21:04:55Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1743,7 +1743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/lovely-owl-wooden-jigsaw-puzzle-kaayee-puzzle-5003895.jpg?v=1760512540
     Price: $40.99 USD
 - [MAGIC TIGER Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-magic-tiger): Shop MAGIC TIGER Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:39Z
+  Updated: 2026-07-17T21:04:55Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1765,7 +1765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/magic-tiger-wooden-jigsaw-puzzle-kaayee-puzzle-2021687.jpg?v=1760512539
     Price: $40.99 USD
 - [BIGHORN SHEEP Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-bighorn-sheep): Shop BIGHORN SHEEP Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:39Z
+  Updated: 2026-07-17T21:04:56Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1783,7 +1783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/bighorn-sheep-wooden-jigsaw-puzzle-kaayee-puzzle-5334351.jpg?v=1760512538
     Price: $32.99 USD
 - [DAZZLE COLOUR THE TIGER Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-dazzle-colour-the-tiger): Shop DAZZLE COLOUR THE TIGER Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:40Z
+  Updated: 2026-07-17T21:04:56Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1801,7 +1801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/dazzle-colour-the-tiger-wooden-jigsaw-puzzle-kaayee-puzzle-3237800.jpg?v=1760512541
     Price: $32.99 USD
 - [LOTUS FLOWER Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-lotus-flower): Shop LOTUS FLOWER Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:40Z
+  Updated: 2026-07-17T21:04:56Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1823,7 +1823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/lotus-flower-wooden-jigsaw-puzzle-kaayee-puzzle-7121406.jpg?v=1760512540
     Price: $40.99 USD
 - [SANTA CLAUS Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-santa-claus): Shop SANTA CLAUS Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:40Z
+  Updated: 2026-07-17T21:05:04Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1845,7 +1845,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/santa-claus-wooden-jigsaw-puzzle-kaayee-puzzle-7999791.jpg?v=1760512538
     Price: $49.99 USD
 - [BOLD BEAR Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-bold-bear): Shop BOLD BEAR Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:41Z
+  Updated: 2026-07-17T21:05:04Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1867,7 +1867,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/bold-bear-wooden-jigsaw-puzzle-kaayee-puzzle-5156778.jpg?v=1760512540
     Price: $41.00 USD
 - [ANCIENT MAMMOTH Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-ancient-mammoth): Shop ANCIENT MAMMOTH Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:41Z
+  Updated: 2026-07-17T21:05:05Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1889,7 +1889,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/ancient-mammoth-wooden-jigsaw-puzzle-kaayee-puzzle-3457328.jpg?v=1760512539
     Price: $40.99 USD
 - [SHINY ELEPHANT Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-shiny-elephant): Shop SHINY ELEPHANT Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:41Z
+  Updated: 2026-07-17T21:05:05Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1911,7 +1911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/shiny-elephant-wooden-jigsaw-puzzle-kaayee-puzzle-8131525.jpg?v=1760512539
     Price: $40.99 USD
 - [ZODIAC HOROSCOPE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-zodiac-horoscope): Shop ZODIAC HOROSCOPE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:42Z
+  Updated: 2026-07-17T21:05:05Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1933,7 +1933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/zodiac-horoscope-wooden-jigsaw-puzzle-kaayee-puzzle-1598697.jpg?v=1760512540
     Price: $49.99 USD
 - [CHRISTMAS STOCKING Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-christmas-stocking): Shop CHRISTMAS STOCKING Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:42Z
+  Updated: 2026-07-17T21:05:05Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1951,7 +1951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/christmas-stocking-wooden-jigsaw-puzzle-kaayee-puzzle-1235974.jpg?v=1760512540
     Price: $32.99 USD
 - [CHRISTMAS TRAIN Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-christmas-train): Shop CHRISTMAS TRAIN Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:43Z
+  Updated: 2026-07-17T21:05:06Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1969,7 +1969,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/christmas-train-wooden-jigsaw-puzzle-kaayee-puzzle-1713481.jpg?v=1760512536
     Price: $32.99 USD
 - [LOVE CHALLENGE Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-love-challenge): Shop LOVE CHALLENGE Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:43Z
+  Updated: 2026-07-17T21:05:06Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -1991,7 +1991,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/love-challenge-wooden-jigsaw-puzzle-kaayee-puzzle-5817441.jpg?v=1760512538
     Price: $49.99 USD
 - [LOVE ROSES Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-love-roses): Shop LOVE ROSES Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:43Z
+  Updated: 2026-07-17T21:05:06Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2013,7 +2013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/love-roses-wooden-jigsaw-puzzle-kaayee-puzzle-2957587.jpg?v=1760512536
     Price: $49.99 USD
 - [ZEBRA Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-zebra): Shop ZEBRA Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:44Z
+  Updated: 2026-07-17T21:05:06Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2035,7 +2035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/zebra-wooden-jigsaw-puzzle-kaayee-puzzle-1654650.jpg?v=1760512536
     Price: $41.00 USD
 - [Sagittarius Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-sagittarius): Shop Sagittarius Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:44Z
+  Updated: 2026-07-17T21:05:07Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2053,7 +2053,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/sagittarius-wooden-jigsaw-puzzle-kaayee-puzzle-1909967.jpg?v=1760512535
     Price: $39.99 USD
 - [Leo Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-leo): Shop Leo Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:44Z
+  Updated: 2026-07-17T21:05:07Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2071,7 +2071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/leo-wooden-jigsaw-puzzle-kaayee-puzzle-9145000.jpg?v=1760512536
     Price: $39.99 USD
 - [Pisces Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-pisces): Shop Pisces Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:45Z
+  Updated: 2026-07-17T21:05:07Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2089,7 +2089,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/pisces-wooden-jigsaw-puzzle-kaayee-puzzle-5167897.jpg?v=1760512535
     Price: $39.99 USD
 - [Virgo Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-virgo): Shop Virgo Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:45Z
+  Updated: 2026-07-17T21:05:07Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2107,7 +2107,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/virgo-wooden-jigsaw-puzzle-kaayee-puzzle-9199159.jpg?v=1760512535
     Price: $39.99 USD
 - [Aries Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-aries): Shop Aries Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:45Z
+  Updated: 2026-07-17T21:05:08Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2125,7 +2125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/aries-wooden-jigsaw-puzzle-kaayee-puzzle-2040140.jpg?v=1760512536
     Price: $32.99 USD
 - [Scorpio Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-scorpio): Shop Scorpio Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:46Z
+  Updated: 2026-07-17T21:05:08Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2143,7 +2143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/scorpio-wooden-jigsaw-puzzle-kaayee-puzzle-1787520.jpg?v=1760512536
     Price: $39.99 USD
 - [Aquarius Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-aquarius): Shop Aquarius Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:46Z
+  Updated: 2026-07-17T21:05:08Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2161,7 +2161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/aquarius-wooden-jigsaw-puzzle-kaayee-puzzle-4362063.jpg?v=1760512536
     Price: $39.99 USD
 - [Libra Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-libra): Shop Libra Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:46Z
+  Updated: 2026-07-17T21:05:15Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2179,7 +2179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/libra-wooden-jigsaw-puzzle-kaayee-puzzle-4565368.jpg?v=1760512536
     Price: $39.99 USD
 - [Capricorn Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-jigsaw-puzzle-capricorn): Shop Capricorn Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:47Z
+  Updated: 2026-07-17T21:05:15Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2197,7 +2197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/capricorn-wooden-jigsaw-puzzle-kaayee-puzzle-8893990.jpg?v=1760512536
     Price: $39.99 USD
 - [Cancer Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-cancer): Shop Cancer Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:47Z
+  Updated: 2026-07-17T21:05:15Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2215,7 +2215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/cancer-wooden-jigsaw-puzzle-kaayee-puzzle-1629650.jpg?v=1760512536
     Price: $39.99 USD
 - [Taurus Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-taurus): Shop Taurus Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:47Z
+  Updated: 2026-07-17T21:05:16Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2233,7 +2233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/taurus-wooden-jigsaw-puzzle-kaayee-puzzle-6333496.jpg?v=1760512536
     Price: $32.99 USD
 - [Gemini Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/zodiac-wooden-puzzle-gemini): Shop Gemini Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:48Z
+  Updated: 2026-07-21T08:23:18Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2251,7 +2251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/gemini-wooden-jigsaw-puzzle-kaayee-puzzle-6372329.jpg?v=1760512536
     Price: $32.99 USD
 - [Elephant Puzzle Maternal Love Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-elephant-puzzle-maternal-love): Shop Elephant Puzzle Maternal Love Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:48Z
+  Updated: 2026-07-17T21:05:16Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2273,7 +2273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/elephant-puzzle-maternal-love-wooden-jigsaw-puzzle-kaayee-puzzle-4900360.jpg?v=1760512536
     Price: $40.99 USD
 - [Parent Child Fox Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-parent-child-fox): Shop Parent Child Fox Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:48Z
+  Updated: 2026-07-21T14:54:24Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2295,7 +2295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/parent-child-fox-wooden-jigsaw-puzzle-kaayee-puzzle-3382842.jpg?v=1760512536
     Price: $49.99 USD
 - [Parent Child Dachshund Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-parent-child-dachshund): Shop Parent Child Dachshund Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:49Z
+  Updated: 2026-07-17T21:05:17Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2313,7 +2313,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/parent-child-dachshund-wooden-jigsaw-puzzle-kaayee-puzzle-1969403.jpg?v=1760512536
     Price: $39.99 USD
 - [Parent Child Dachshund 2 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-parent-child-dachshund-2): Shop Parent Child Dachshund 2 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:49Z
+  Updated: 2026-07-17T21:05:17Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2335,7 +2335,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/parent-child-dachshund-2-wooden-jigsaw-puzzle-kaayee-puzzle-8339804.jpg?v=1760512537
     Price: $40.99 USD
 - [Parent Boxer Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-parent-boxer): Shop Parent Boxer Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:49Z
+  Updated: 2026-07-17T21:05:17Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2353,7 +2353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/parent-boxer-wooden-jigsaw-puzzle-kaayee-puzzle-6345974.jpg?v=1760512424
     Price: $32.99 USD
 - [Tree of Life 3 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-tree-of-life-3): Shop Tree of Life 3 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:50Z
+  Updated: 2026-07-17T21:05:18Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2375,7 +2375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/tree-of-life-3-wooden-jigsaw-puzzle-kaayee-puzzle-9895689.jpg?v=1760512424
     Price: $49.99 USD
 - [Tree of Life 4 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-tree-of-life-4): Shop Tree of Life 4 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:50Z
+  Updated: 2026-07-17T21:05:18Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2397,7 +2397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/tree-of-life-4-wooden-jigsaw-puzzle-kaayee-puzzle-2810381.jpg?v=1760512424
     Price: $40.99 USD
 - [Tree of Life 5 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-tree-of-life-5): Shop Tree of Life 5 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:50Z
+  Updated: 2026-07-17T21:05:18Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2419,7 +2419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/tree-of-life-5-wooden-jigsaw-puzzle-kaayee-puzzle-5339538.jpg?v=1760512424
     Price: $40.99 USD
 - [Tree of Life 6 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-jigsaw-puzzle-tree-of-life-6): Shop Tree of Life 6 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:51Z
+  Updated: 2026-07-17T21:05:18Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2441,7 +2441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/tree-of-life-6-wooden-jigsaw-puzzle-kaayee-puzzle-9100913.jpg?v=1760512424
     Price: $49.99 USD
 - [Yin Yang Tree of Life Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-yin-yang-tree-of-life): Shop Yin Yang Tree of Life Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:51Z
+  Updated: 2026-07-17T21:05:26Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2459,7 +2459,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/yin-yang-tree-of-life-wooden-jigsaw-puzzle-kaayee-puzzle-5287916.jpg?v=1760512424
     Price: $39.99 USD
 - [Yin Yang Tree of Life 2 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-yin-yang-tree-of-life-2): Shop Yin Yang Tree of Life 2 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:52Z
+  Updated: 2026-07-17T21:05:26Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2481,7 +2481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/yin-yang-tree-of-life-2-wooden-jigsaw-puzzle-kaayee-puzzle-5156938.jpg?v=1760512424
     Price: $49.99 USD
 - [Yin Yang Tree of Life 3 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-yin-yang-tree-of-life-3): Shop Yin Yang Tree of Life 3 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:52Z
+  Updated: 2026-07-17T21:05:45Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2499,7 +2499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/yin-yang-tree-of-life-3-wooden-jigsaw-puzzle-kaayee-puzzle-6072821.jpg?v=1760512423
     Price: $39.99 USD
 - [Yin Yang Tree of Life 4 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-yin-yang-tree-of-life-4): Shop Yin Yang Tree of Life 4 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:52Z
+  Updated: 2026-07-17T21:05:45Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2521,7 +2521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/yin-yang-tree-of-life-4-wooden-jigsaw-puzzle-kaayee-puzzle-7298064.jpg?v=1760512423
     Price: $49.99 USD
 - [Yin Yang Owl Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-yin-yang-owl): Shop Yin Yang Owl Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:53Z
+  Updated: 2026-07-17T21:05:45Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2543,7 +2543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/yin-yang-owl-wooden-jigsaw-puzzle-kaayee-puzzle-1348299.jpg?v=1760512423
     Price: $49.99 USD
 - [Hummingbird Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-hummingbird): Shop Hummingbird Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:53Z
+  Updated: 2026-07-17T21:05:45Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2561,7 +2561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/hummingbird-wooden-jigsaw-puzzle-kaayee-puzzle-9462289.jpg?v=1760512423
     Price: $39.99 USD
 - [Hummingbird 2 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-hummingbird-2): Shop Hummingbird 2 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:53Z
+  Updated: 2026-07-17T21:05:46Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2583,7 +2583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/hummingbird-2-wooden-jigsaw-puzzle-kaayee-puzzle-6962314.jpg?v=1760512420
     Price: $49.99 USD
 - [Fierce Shark Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-fierce-shark): Shop Fierce Shark Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-14T16:49:57Z
+  Updated: 2026-07-17T21:05:46Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2601,7 +2601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/fierce-shark-wooden-jigsaw-puzzle-kaayee-puzzle-9921689.jpg?v=1760512420
     Price: $32.99 USD
 - [Undersea shark Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-undersea-shark): Shop Undersea shark Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:54Z
+  Updated: 2026-07-17T21:05:46Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2619,7 +2619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/undersea-shark-wooden-jigsaw-puzzle-kaayee-puzzle-1746021.jpg?v=1760512419
     Price: $39.99 USD
 - [Shark Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-shark): Shop Shark Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:54Z
+  Updated: 2026-07-17T21:05:46Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2637,7 +2637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/shark-wooden-jigsaw-puzzle-kaayee-puzzle-9574908.jpg?v=1760512421
     Price: $39.99 USD
 - [Colored Shark Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-colored-shark): Shop Colored Shark Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:55Z
+  Updated: 2026-07-17T21:05:47Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2655,7 +2655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/colored-shark-wooden-jigsaw-puzzle-kaayee-puzzle-1543927.jpg?v=1760512420
     Price: $39.99 USD
 - [Yin Yang Owl 2 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-yin-yang-owl-2): Shop Yin Yang Owl 2 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:55Z
+  Updated: 2026-07-17T21:05:47Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2673,7 +2673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/yin-yang-owl-2-wooden-jigsaw-puzzle-kaayee-puzzle-8294002.jpg?v=1760512420
     Price: $39.99 USD
 - [Yin Yang Owl 3 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-yin-yang-owl-3): Shop Yin Yang Owl 3 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:55Z
+  Updated: 2026-07-17T21:05:47Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2691,7 +2691,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/yin-yang-owl-3-wooden-jigsaw-puzzle-kaayee-puzzle-9998836.jpg?v=1760512419
     Price: $39.99 USD
 - [Flower Basket Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-flower-basket): Shop Flower Basket Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:56Z
+  Updated: 2026-07-17T21:05:47Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2709,7 +2709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/flower-basket-wooden-jigsaw-puzzle-kaayee-puzzle-5175342.jpg?v=1760512419
     Price: $39.99 USD
 - [Hydrangeas Flower Basket Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-flower-basket-2): Shop Hydrangeas Flower Basket Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:56Z
+  Updated: 2026-07-17T21:05:48Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2727,7 +2727,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/flower-basket-2-wooden-jigsaw-puzzle-kaayee-puzzle-1246850.jpg?v=1760512419
     Price: $39.99 USD
 - [Sunflower Basket Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-flower-basket-3): Shop Sunflower Basket Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:56Z
+  Updated: 2026-07-17T21:05:48Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2745,7 +2745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/flower-basket-3-wooden-jigsaw-puzzle-kaayee-puzzle-2446184.jpg?v=1760512419
     Price: $39.99 USD
 - [Dragon Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-dragon): Shop Dragon Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:57Z
+  Updated: 2026-07-17T21:05:48Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2767,7 +2767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/dragon-wooden-jigsaw-puzzle-kaayee-puzzle-9910546.jpg?v=1760512419
     Price: $49.99 USD
 - [Dragon 2 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-dragon-2): Shop Dragon 2 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:57Z
+  Updated: 2026-07-17T21:05:49Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2789,7 +2789,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/dragon-2-wooden-jigsaw-puzzle-kaayee-puzzle-1755513.jpg?v=1760512419
     Price: $49.99 USD
 - [Independence Day Carnival Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-independence-day-carnival): Shop Independence Day Carnival Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:57Z
+  Updated: 2026-07-17T21:05:49Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2807,7 +2807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/independence-day-carnival-wooden-jigsaw-puzzle-kaayee-puzzle-1753496.jpg?v=1760512420
     Price: $39.99 USD
 - [Chameleon Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-chameleon): Shop Chameleon Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-14T16:49:57Z
+  Updated: 2026-07-17T21:05:49Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2825,7 +2825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/chameleon-wooden-jigsaw-puzzle-kaayee-puzzle-3381136.jpg?v=1760512420
     Price: $32.99 USD
 - [Maine Cat Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-maine-cat): Shop Maine Cat Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:58Z
+  Updated: 2026-07-21T17:13:48Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2847,7 +2847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/maine-cat-wooden-jigsaw-puzzle-kaayee-puzzle-6593598.jpg?v=1760512419
     Price: $49.99 USD
 - [Maine Cat 2 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-maine-cat-2): Shop Maine Cat 2 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:58Z
+  Updated: 2026-07-17T21:06:03Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2865,7 +2865,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/maine-cat-2-wooden-jigsaw-puzzle-kaayee-puzzle-9401082.jpg?v=1760512420
     Price: $39.99 USD
 - [Panda Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-panda): Shop Panda Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:59Z
+  Updated: 2026-07-17T21:06:03Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2883,7 +2883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/panda-wooden-jigsaw-puzzle-kaayee-puzzle-5650841.jpg?v=1760512419
     Price: $39.99 USD
 - [Panda 2 Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-panda-2): Shop Panda 2 Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:59Z
+  Updated: 2026-07-17T21:06:04Z
   Vendor: KAAYEE
   Product Type: jigsaw puzzle
   Availability: Available
@@ -2900,110 +2900,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/panda-2-wooden-jigsaw-puzzle-kaayee-puzzle-2094515.jpg?v=1760512419
     Price: $39.99 USD
-- [Big Dragonfly Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-big-dragonfly): Shop Big Dragonfly Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:08:59Z
-  Vendor: KAAYEE
-  Product Type: jigsaw puzzle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/big-dragonfly-wooden-jigsaw-puzzle-kaayee-puzzle-2233136.jpg?v=1760512420
-  - [Small](https://kaayee.com/products/wooden-puzzle-big-dragonfly?variant=47025906811118)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/big-dragonfly-wooden-jigsaw-puzzle-kaayee-puzzle-2233136.jpg?v=1760512420
-    Price: $19.99 USD
-  - [Medium](https://kaayee.com/products/wooden-puzzle-big-dragonfly?variant=47025906843886)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/big-dragonfly-wooden-jigsaw-puzzle-kaayee-puzzle-2233136.jpg?v=1760512420
-    Price: $29.99 USD
-  - [Large](https://kaayee.com/products/wooden-puzzle-big-dragonfly?variant=47025906876654)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/big-dragonfly-wooden-jigsaw-puzzle-kaayee-puzzle-2233136.jpg?v=1760512420
-    Price: $39.99 USD
-  - [Extra Large](https://kaayee.com/products/wooden-puzzle-big-dragonfly?variant=47025906909422)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/big-dragonfly-wooden-jigsaw-puzzle-kaayee-puzzle-2233136.jpg?v=1760512420
-    Price: $49.99 USD
-- [Butterfly Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-butterfly): Shop Butterfly Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:09:00Z
-  Vendor: KAAYEE
-  Product Type: jigsaw puzzle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/butterfly-wooden-jigsaw-puzzle-kaayee-puzzle-1097809.jpg?v=1760512419
-  - [Small](https://kaayee.com/products/wooden-puzzle-butterfly?variant=47025906974958)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/butterfly-wooden-jigsaw-puzzle-kaayee-puzzle-1097809.jpg?v=1760512419
-    Price: $19.99 USD
-  - [Medium](https://kaayee.com/products/wooden-puzzle-butterfly?variant=47025907007726)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/butterfly-wooden-jigsaw-puzzle-kaayee-puzzle-1097809.jpg?v=1760512419
-    Price: $29.99 USD
-  - [Large](https://kaayee.com/products/wooden-puzzle-butterfly?variant=47025907040494)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/butterfly-wooden-jigsaw-puzzle-kaayee-puzzle-1097809.jpg?v=1760512419
-    Price: $39.99 USD
-- [Octopus Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-octopus): Shop Octopus Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:09:00Z
-  Vendor: KAAYEE
-  Product Type: jigsaw puzzle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/octopus-wooden-jigsaw-puzzle-kaayee-puzzle-9887168.jpg?v=1760512415
-  - [Small](https://kaayee.com/products/wooden-puzzle-octopus?variant=47025907073262)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/octopus-wooden-jigsaw-puzzle-kaayee-puzzle-9887168.jpg?v=1760512415
-    Price: $19.99 USD
-  - [Medium](https://kaayee.com/products/wooden-puzzle-octopus?variant=47025907106030)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/octopus-wooden-jigsaw-puzzle-kaayee-puzzle-9887168.jpg?v=1760512415
-    Price: $29.99 USD
-  - [Large](https://kaayee.com/products/wooden-puzzle-octopus?variant=47025907138798)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/octopus-wooden-jigsaw-puzzle-kaayee-puzzle-9887168.jpg?v=1760512415
-    Price: $39.99 USD
-- [Phoenix Wooden Jigsaw Puzzle - KAAYEE Puzzle](https://kaayee.com/products/wooden-puzzle-phoenix): Shop Phoenix Wooden Jigsaw Puzzle for only $19.99 at KAAYEE Puzzle! Free Shipping worldwide.
-  Updated: 2026-07-13T18:09:00Z
-  Vendor: KAAYEE
-  Product Type: jigsaw puzzle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/phoenix-wooden-jigsaw-puzzle-kaayee-puzzle-6430549.jpg?v=1760512415
-  - [Small](https://kaayee.com/products/wooden-puzzle-phoenix?variant=47025907171566)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/phoenix-wooden-jigsaw-puzzle-kaayee-puzzle-6430549.jpg?v=1760512415
-    Price: $19.99 USD
-  - [Medium](https://kaayee.com/products/wooden-puzzle-phoenix?variant=47025907204334)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/phoenix-wooden-jigsaw-puzzle-kaayee-puzzle-6430549.jpg?v=1760512415
-    Price: $29.99 USD
-  - [Large](https://kaayee.com/products/wooden-puzzle-phoenix?variant=47025907237102)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/phoenix-wooden-jigsaw-puzzle-kaayee-puzzle-6430549.jpg?v=1760512415
-    Price: $39.99 USD
-  - [Extra Large](https://kaayee.com/products/wooden-puzzle-phoenix?variant=47025907269870)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/3205/6302/files/phoenix-wooden-jigsaw-puzzle-kaayee-puzzle-6430549.jpg?v=1760512415
-    Price: $49.99 USD
-[List Continued](https://kaayee.com/a/llms-agent/llms.txt?shop=kaayeewood.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTc0NDg1NjE4OTI2LCJsYXN0X3ZhbHVlIjoiODk3NDQ4NTYxODkyNiJ9)
+[List Continued](https://kaayee.com/a/llms-agent/llms.txt?shop=kaayeewood.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTc0NDg1MzI0MDE0LCJsYXN0X3ZhbHVlIjoiODk3NDQ4NTMyNDAxNCJ9)
 
 ## Collections
 
 - [Book Nook Kit](https://kaayee.com/collections/diy-book-nook-kit): DIY Book Nook Kits – Creative 3D Puzzles for Your Bookshelf. Original design. Fast delivery. Free worldwide shipping.
-  Updated: 2026-07-13T18:08:09Z
+  Updated: 2026-07-18T11:26:11Z
   Total Products: 35
 - [Clock Kit](https://kaayee.com/collections/clock): DIY Wooden Clock Kits – Build Time with Precision & Style. Original design. Fast delivery. Free worldwide shipping.
-  Updated: 2026-07-16T11:24:55Z
+  Updated: 2026-07-18T11:26:11Z
   Total Products: 23
 - [DIY 3D Puzzle Kits](https://kaayee.com/collections/3d-puzzle): DIY 3D Puzzle Kits – Build, Create, and Display. Original design. Fast delivery. Free worldwide shipping.
-  Updated: 2026-07-16T11:24:55Z
+  Updated: 2026-07-18T11:26:11Z
   Total Products: 185
 - [Jigsaw Puzzle](https://kaayee.com/collections/jigsaw-puzzle): Welcome to the KAAYEE Jigsaw Puzzle Collection, where creativity meets craftsmanship. Designed for puzzle enthusiasts, collectors, and families alike, our puzzles transcend traditional gaming to become a mesmerizing sensory experience and a stunning piece of home decor. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-07-16T11:24:57Z
-  Total Products: 806
+  Updated: 2026-07-23T11:24:52Z
+  Total Products: 812
 - [Animal Jigsaw Puzzle](https://kaayee.com/collections/animal-jigsaw-puzzle)
-  Updated: 2026-07-16T11:24:55Z
+  Updated: 2026-07-23T11:24:52Z
   Total Products: 377
 - [Accessories](https://kaayee.com/collections/accessories): Puzzles, wooden puzzles, miniature puzzles accessories
   Updated: 2026-07-09T21:29:38Z
   Total Products: 3
 - [Christmas Jigsaw Puzzle](https://kaayee.com/collections/christmas-jigsaw-puzzle): Christmas wooden jigsaw puzzles | kaayee, free worldwide shipping.
-  Updated: 2026-07-14T11:27:13Z
+  Updated: 2026-07-17T11:24:44Z
   Total Products: 33
 - [Music Box](https://kaayee.com/collections/music-box): DIY Wooden Music Box Kits – Precision-Engineered 3D Puzzles. Original design. Fast delivery. Free worldwide shipping.
   Updated: 2026-07-13T18:08:09Z
@@ -3015,19 +2935,19 @@
   Updated: 2026-07-13T18:08:10Z
   Total Products: 80
 - [On ](https://kaayee.com/collections/on-)
-  Updated: 2026-07-16T11:24:57Z
-  Total Products: 265
+  Updated: 2026-07-23T11:24:52Z
+  Total Products: 266
 - [Dog Jigsaw Puzzle](https://kaayee.com/collections/dog-jigsaw-puzzle)
-  Updated: 2026-07-16T11:24:55Z
+  Updated: 2026-07-22T11:25:16Z
   Total Products: 54
 - [Dinosaur Jigsaw Puzzle](https://kaayee.com/collections/dinosaur)
   Updated: 2026-07-13T11:22:48Z
   Total Products: 7
 - [Insect Jigsaw Puzzle](https://kaayee.com/collections/insect)
-  Updated: 2026-07-15T11:25:33Z
+  Updated: 2026-07-19T11:24:34Z
   Total Products: 15
 - [Other Animal Jigsaw Puzzle](https://kaayee.com/collections/animal_other): Animal jigsaw puzzles | kaayee, free worldwide shipping.
-  Updated: 2026-07-15T11:25:33Z
+  Updated: 2026-07-22T11:25:16Z
   Total Products: 138
 - [Yin Yang Jigsaw Puzzle](https://kaayee.com/collections/yin-yang)
   Updated: 2026-07-12T11:23:50Z
@@ -3036,49 +2956,49 @@
   Updated: 2026-07-14T11:27:14Z
   Total Products: 7
 - [Constellation Jigsaw Puzzle](https://kaayee.com/collections/constellation)
-  Updated: 2026-07-09T21:27:21Z
+  Updated: 2026-07-21T11:24:35Z
   Total Products: 13
 - [Other Culture Jigsaw Puzzle](https://kaayee.com/collections/culture_other)
-  Updated: 2026-07-13T11:22:48Z
+  Updated: 2026-07-22T11:25:16Z
   Total Products: 40
 - [Scenery Jigsaw Puzzle](https://kaayee.com/collections/scenery)
   Updated: 2026-07-14T11:27:13Z
   Total Products: 12
 - [Flower Jigsaw Puzzle](https://kaayee.com/collections/flower-1)
-  Updated: 2026-07-14T11:27:14Z
+  Updated: 2026-07-22T11:25:16Z
   Total Products: 15
 - [Other Creativity Jigsaw Puzzle](https://kaayee.com/collections/creativity_other)
-  Updated: 2026-07-15T11:25:34Z
+  Updated: 2026-07-23T11:24:52Z
   Total Products: 53
 - [Culture Jigsaw Puzzle](https://kaayee.com/collections/culture)
-  Updated: 2026-07-14T11:27:14Z
+  Updated: 2026-07-22T11:25:16Z
   Total Products: 118
 - [Creativity Jigsaw Puzzle](https://kaayee.com/collections/creativity)
-  Updated: 2026-07-16T11:24:57Z
+  Updated: 2026-07-23T11:24:52Z
   Total Products: 154
 - [Cat Jigsaw Puzzle](https://kaayee.com/collections/cat)
-  Updated: 2026-07-14T11:27:14Z
+  Updated: 2026-07-22T11:25:16Z
   Total Products: 37
 - [Marine Animal Jigsaw Puzzle](https://kaayee.com/collections/marine-animal-jigsaw-puzzle)
-  Updated: 2026-07-15T11:25:33Z
+  Updated: 2026-07-22T11:25:14Z
   Total Products: 31
 - [Plant Jigsaw Puzzle](https://kaayee.com/collections/plant)
   Updated: 2026-07-09T21:29:06Z
   Total Products: 9
 - [New Arrivals](https://kaayee.com/collections/new-arrivals): Wooden puzzles and wooden jigsaw puzzles new arrivals. Free shipping worldwide. Fast delivery.
-  Updated: 2026-07-16T11:24:57Z
-  Total Products: 19
+  Updated: 2026-07-23T12:39:18Z
+  Total Products: 29
 - [Kids' Jigsaw Puzzle](https://kaayee.com/collections/kid-jigsaw-puzzle): Kaayee kids' wooden jigsaw puzzles,  materials, safe and fun. Free worldwide shipping. Fast delivery. 30-day returns
   Updated: 2026-07-09T21:28:23Z
   Total Products: 8
 - [Best Seller](https://kaayee.com/collections/best-seller): Kaayee Best seller wooden model puzzle kits and jigsaw puzzles. Free shipping worldwide. Fast delivery.
-  Updated: 2026-07-16T23:17:11Z
-  Total Products: 205
+  Updated: 2026-07-23T21:19:35Z
+  Total Products: 300
 - [0-30$](https://kaayee.com/collections/0-30-dollar): Kaayee wooden craft kits under 30 dollars. Free worldwide shipping. Fast delivery. 30-day return.
   Updated: 2026-07-16T11:24:55Z
   Total Products: 19
 - [30-60$](https://kaayee.com/collections/30-60-dollar): Kaayee wooden craft kits priced between 30-60 dollars. Free worldwide shipping. Fast delivery. 30-day return.
-  Updated: 2026-07-16T11:24:55Z
+  Updated: 2026-07-18T11:26:11Z
   Total Products: 139
 - [60$+](https://kaayee.com/collections/60-dollar): Kaayee wooden craft kits priced over 60 dollars. Free worldwide shipping. Fast delivery. 30-day return.
   Updated: 2026-07-09T21:31:19Z
@@ -3087,22 +3007,22 @@
   Updated: 2026-07-09T21:28:23Z
   Total Products: 8
 - [Black Friday ](https://kaayee.com/collections/black-friday-): Kaayee Black Friday , up to 50% off! Free worldwide shipping. Fasr delivery.
-  Updated: 2026-07-16T11:24:55Z
+  Updated: 2026-07-18T11:26:11Z
   Total Products: 54
 - [3D vision](https://kaayee.com/collections/3d-vision)
-  Updated: 2026-07-16T11:24:57Z
-  Total Products: 173
+  Updated: 2026-07-23T11:24:52Z
+  Total Products: 176
 - [Christmas Collection](https://kaayee.com/collections/christmas-collection): Kaayee wooden puzzle Christmas Collection. Free shipping over 60$. Fast delivery. 30-day returns.
   Updated: 2026-07-16T11:24:55Z
   Total Products: 10
 - [Mandala Jigsaw Puzzle](https://kaayee.com/collections/mandala-jigsaw-puzzle)
-  Updated: 2026-07-09T21:31:02Z
+  Updated: 2026-07-22T11:25:16Z
   Total Products: 21
 - [bird jigsaw puzzle](https://kaayee.com/collections/bird-jigsaw-puzzle)
-  Updated: 2026-07-15T11:25:33Z
+  Updated: 2026-07-22T11:25:16Z
   Total Products: 52
 - [Wildlife Jigsaw Puzzle](https://kaayee.com/collections/wildlife-jigsaw-puzzle)
-  Updated: 2026-07-14T11:27:14Z
+  Updated: 2026-07-22T11:25:14Z
   Total Products: 80
 - [Miniature House](https://kaayee.com/collections/miniature-house): Kaayee DIY miniature house kit. Free worldwide shipping. Fast delivery. Premuim material. 30-days return. Free part replacement.
   Updated: 2026-07-13T18:08:11Z
@@ -3114,29 +3034,29 @@
   Updated: 2026-07-13T18:08:11Z
   Total Products: 5
 - [Cardboard puzzle](https://kaayee.com/collections/cardboard-puzzle): Explore our premium collection of 1000-piece cardboard puzzles. Made from high-density, eco-friendly materials, each piece offers a perfect fit and zero puzzle dust—ideal for a relaxing weekend challenge or the perfect gift! 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-07-16T11:24:57Z
-  Total Products: 141
+  Updated: 2026-07-23T11:24:52Z
+  Total Products: 144
 - [Suncatcher Puzzle](https://kaayee.com/collections/suncatcher-puzzle): Discover our unique acrylic suncatcher puzzles—easy to assemble, beautiful to hang, and designed to project magical colorful shadows in the sun. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-07-16T11:24:57Z
+  Updated: 2026-07-23T11:24:52Z
   Total Products: 105
 - [Wooden Puzzles](https://kaayee.com/collections/wooden-puzzles): Discover our premium wooden puzzles featuring unique, irregularly shaped pieces and hidden whimsy shapes. Crafted from high-quality, eco-friendly wood, these stunning designs offer a captivating and sensory puzzling experience. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
-  Updated: 2026-07-16T11:24:57Z
-  Total Products: 674
+  Updated: 2026-07-23T11:24:52Z
+  Total Products: 677
 - [Diamond Art Suncatcher](https://kaayee.com/collections/diamond-art-suncatcher)
-  Updated: 2026-07-16T11:24:57Z
-  Total Products: 9
+  Updated: 2026-07-23T11:24:52Z
+  Total Products: 10
 - [DIY Puzzle Clock Kit](https://kaayee.com/collections/diy-puzzle-clock-kit)
-  Updated: 2026-07-16T06:18:10Z
-  Total Products: 39
+  Updated: 2026-07-23T11:24:52Z
+  Total Products: 41
 - [Tabletop Suncatcher](https://kaayee.com/collections/tabletop-suncatcher)
   Updated: 2026-07-14T11:27:14Z
   Total Products: 4
 - [Art & Scenery Jigsaw Puzzle](https://kaayee.com/collections/art-scenery-jigsaw-puzzle)
-  Updated: 2026-07-16T11:24:57Z
-  Total Products: 356
-- [Acrylic Puzzle Night Light](https://kaayee.com/collections/acrylic-puzzle-night-light)
-  Updated: 2026-07-16T11:24:57Z
-  Total Products: 4
+  Updated: 2026-07-23T11:24:52Z
+  Total Products: 359
+- [Acrylic Puzzle Night Light](https://kaayee.com/collections/acrylic-puzzle-night-light): Transform your room into a warm, gentle sanctuary. 🌙 This collection features vibrant artwork printed on high-transparency acrylic, paired with natural rubberwood bases. With smooth touch-dimming and dual-color options, these aren't just lamps. 🎁 Add to cart for automatic multi-buy discounts & secure, tracked shipping service.
+  Updated: 2026-07-23T12:39:18Z
+  Total Products: 5
 
 ## Blogs
 
@@ -3431,6 +3351,48 @@
     Author: KAAYEE Puzzle
   - [Experience Tranquility and Challenge with the Artistic Sea Glass Red Fox Jigsaw Puzzle](https://kaayee.com/blogs/puzzle-life/experience-tranquility-and-challenge-with-the-artistic-sea-glass-red-fox-jigsaw-puzzle): Experience Tranquility and Challenge with the Artistic Sea Glass Red Fox Jigsaw Puzzle
     Updated: 2026-07-16T01:03:43Z
+    Author: KAAYEE Puzzle
+  - [Engaging Educational Activities with Jigsaw Puzzles: A How-To Guide](https://kaayee.com/blogs/puzzle-life/engaging-educational-activities-with-jigsaw-puzzles-a-how-to-guide): Engaging Educational Activities with Jigsaw Puzzles: A How-To Guide
+    Updated: 2026-07-17T01:12:42Z
+    Author: KAAYEE Puzzle
+  - [Discover the Magic of the Ocean with the Moonlit Jellyfish Jigsaw Puzzle](https://kaayee.com/blogs/puzzle-life/discover-the-magic-of-the-ocean-with-the-moonlit-jellyfish-jigsaw-puzzle): Discover the Magic of the Ocean with the Moonlit Jellyfish Jigsaw Puzzle
+    Updated: 2026-07-17T01:12:51Z
+    Author: KAAYEE Puzzle
+  - [Practicing Patience: Why Jigsaw Puzzles Are an Ideal Mental Exercise](https://kaayee.com/blogs/puzzle-life/practicing-patience-why-jigsaw-puzzles-are-an-ideal-mental-exercise): Practicing Patience: Why Jigsaw Puzzles Are an Ideal Mental Exercise
+    Updated: 2026-07-18T01:03:38Z
+    Author: KAAYEE Puzzle
+  - [Explore Gothic Elegance with the Artistic Haunted Manor Jigsaw Puzzle](https://kaayee.com/blogs/puzzle-life/explore-gothic-elegance-with-the-artistic-haunted-manor-jigsaw-puzzle): Explore Gothic Elegance with the Artistic Haunted Manor Jigsaw Puzzle
+    Updated: 2026-07-18T01:03:45Z
+    Author: KAAYEE Puzzle
+  - [Analyzing the Popularity of Vintage Jigsaw Puzzles in Today's Market](https://kaayee.com/blogs/puzzle-life/analyzing-the-popularity-of-vintage-jigsaw-puzzles-in-todays-market): Analyzing the Popularity of Vintage Jigsaw Puzzles in Today's Market
+    Updated: 2026-07-19T00:49:09Z
+    Author: KAAYEE Puzzle
+  - [Discover the Joy of Family Bonding with the Parent-Child Dachshund Jigsaw Puzzle](https://kaayee.com/blogs/puzzle-life/discover-the-joy-of-family-bonding-with-the-parent-child-dachshund-jigsaw-puzzle): Discover the Joy of Family Bonding with the Parent-Child Dachshund Jigsaw Puzzle
+    Updated: 2026-07-19T00:49:18Z
+    Author: KAAYEE Puzzle
+  - [The Family Connection: Using Jigsaw Puzzles for Quality Time Collaboration](https://kaayee.com/blogs/puzzle-life/the-family-connection-using-jigsaw-puzzles-for-quality-time-collaboration): The Family Connection: Using Jigsaw Puzzles for Quality Time Collaboration
+    Updated: 2026-07-20T00:53:28Z
+    Author: KAAYEE Puzzle
+  - [Unveiling the Mysteries of the Zodiac with the Aquarius Wooden Jigsaw Puzzle](https://kaayee.com/blogs/puzzle-life/unveiling-the-mysteries-of-the-zodiac-with-the-aquarius-wooden-jigsaw-puzzle): Unveiling the Mysteries of the Zodiac with the Aquarius Wooden Jigsaw Puzzle
+    Updated: 2026-07-20T01:01:09Z
+    Author: KAAYEE Puzzle
+  - [Choosing Your Next Adventure: What Makes Themed Jigsaw Puzzles Special](https://kaayee.com/blogs/puzzle-life/choosing-your-next-adventure-what-makes-themed-jigsaw-puzzles-special): Choosing Your Next Adventure: What Makes Themed Jigsaw Puzzles Special
+    Updated: 2026-07-21T01:01:28Z
+    Author: KAAYEE Puzzle
+  - [Explore the Calming Beauty of Your Space with the Crystal Kick Light Suncatcher Acrylic Window Art](https://kaayee.com/blogs/puzzle-life/explore-the-calming-beauty-of-your-space-with-the-crystal-kick-light-suncatcher-acrylic-window-art): Explore the Calming Beauty of Your Space with the Crystal Kick Light Suncatcher Acrylic Window Art
+    Updated: 2026-07-21T01:01:38Z
+    Author: KAAYEE Puzzle
+  - [Brain-Boosting Benefits of Jigsaw Puzzles: An Eye-Opening Overview](https://kaayee.com/blogs/puzzle-life/brain-boosting-benefits-of-jigsaw-puzzles-an-eye-opening-overview): Brain-Boosting Benefits of Jigsaw Puzzles: An Eye-Opening Overview
+    Updated: 2026-07-22T00:53:04Z
+    Author: KAAYEE Puzzle
+  - [The Ultimate Guide to Choosing the Perfect Christmas Gift House Wooden Jigsaw Puzzle](https://kaayee.com/blogs/puzzle-life/the-ultimate-guide-to-choosing-the-perfect-christmas-gift-house-wooden-jigsaw-puzzle): The Ultimate Guide to Choosing the Perfect Christmas Gift House Wooden Jigsaw Puzzle
+    Updated: 2026-07-22T00:53:11Z
+    Author: KAAYEE Puzzle
+  - [Balancing Complexity and Fun with Jigsaw Puzzles for Beginners](https://kaayee.com/blogs/puzzle-life/balancing-complexity-and-fun-with-jigsaw-puzzles-for-beginners): Balancing Complexity and Fun with Jigsaw Puzzles for Beginners
+    Updated: 2026-07-23T00:51:50Z
+    Author: KAAYEE Puzzle
+  - [Captivating Your Space with the Serenity of Sunset Canyon Light Suncatcher](https://kaayee.com/blogs/puzzle-life/captivating-your-space-with-the-serenity-of-sunset-canyon-light-suncatcher): Captivating Your Space with the Serenity of Sunset Canyon Light Suncatcher
+    Updated: 2026-07-23T00:52:02Z
     Author: KAAYEE Puzzle
 
 ## Store Pages
