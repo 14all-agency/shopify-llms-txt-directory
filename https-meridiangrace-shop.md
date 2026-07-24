@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-04T20:23:58Z
 - Contact Email: hello@meridiangrace.shop
-- Updated At: 2026-07-15T00:00:45.561Z
+- Updated At: 2026-07-24T00:00:43.454Z
 
 ## Products
 
@@ -133,7 +133,7 @@
   Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/Se065c78aa51d4ae0a86b15c6b99c5e53G.webp?v=1778853543
   Price: $2,923.99 USD
 - [Old School EBike T-Shirt](https://meridiangrace.shop/products/old-school-ebike-t-shirt): Product: District DM130 District ® Perfect Tri ® Tee. DM130 4.5 oz., 50% polyester 25% combed ring-spun cotton 25% rayon Rib-knit neck Tear-away label Shoulder-to-shoulder taping - Crown&Co
-  Updated: 2026-07-11T00:39:09Z
+  Updated: 2026-07-23T20:34:38Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -289,7 +289,7 @@
     Availability: Available
     Price: $20.72 USD
 - [Varsity Logo T-Shirt](https://meridiangrace.shop/products/varsity-logo-t-shirt): Product: Bella + Canvas 3413C Unisex Triblend Short-Sleeve T-Shirt 3.8 oz., 40 singles 50% polyester, 25% combed and ringspun cotton, 25% rayon Black Heather Triblend: 70% combed ring-spun cotton, 15% polyester, 15% rayon Contrast color fleck yarn Pre-shrunk Semi fit Unisex sizing Sideseamed Tear away label Lightly textured print friendly surface Size Body length Body width Sleeve length XS 27" 16 1/2" 8" S 28" 18" 8.25" M 29" 20" 8.63" L 30" 22" 9.13" XL 31" 24" 9.63" 2XL 32" 26" 10.25" 3XL 33" 28" 10 7/8" 4XL 34" 30" 11 1/2" - Meridian Grace
-  Updated: 2026-06-22T18:38:48Z
+  Updated: 2026-07-15T02:32:21Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -495,7 +495,7 @@
     Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ninjapod_12844418_f_3413C_00_f.jpg?v=1779213941
     Price: $26.88 USD
 - [Sunset Cruisin T-Shirt](https://meridiangrace.shop/products/sunset-cruisin-t-shirt): Product: Sport-Tek ST350 Sport-Tek ® PosiCharge ® Competitor™ Tee. ST350 3.8 oz., 100% polyester interlock PosiCharge technology Removable tag for comfort and relabeling Set-in sleeves Moisture-wicking Size Sleeve Chest Body length XS 17 3/4" 18 1/2" 27" S 18 1/2/4" 20" 28" M 19 1/4" 21 1/2" 29" L 20" 23" 30" XL 20 3/4" 24 1/2" 31" 2XL 21 1/2" 26" 32" 3XL 22 1/4" 28" 32 1/2" 4XL 23" 30" 33" - Meridian Grace
-  Updated: 2026-07-07T02:37:01Z
+  Updated: 2026-07-18T08:25:05Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -701,7 +701,7 @@
     Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ninjapod_12844569_f_ST350_0ece_f.jpg?v=1779215090
     Price: $52.00 USD
 - [Just Biking Shirt](https://meridiangrace.shop/products/just-biking-shirt): Product: Independent  Co. PRM33SBP Unisex Special Blend Raglan Hooded Sweatshirt 8 oz. 52% ring-spun cotton / 48% polyester blend, 32 singles Unisex, slim fit Reverse coverstitch sewing Twill neck tape 1x1 ribbing at neck, cuffs and waistband Sewn eyelets Self-fabric side panel inserts Tear away label Size Front body length Body width Sleeve length XS 25 1/2" 19" 32" S 26 1/2" 20" 33" M 27 1/2" 21" 34" L 28 1/2" 22" 35 1/4" XL 29 1/2" 23" 36 1/2" 2XL 30 1/2" 24" 37 3/4" 3XL 31 1/2" 25" 39" - Meridian Grace
-  Updated: 2026-07-09T18:48:33Z
+  Updated: 2026-07-21T22:34:06Z
   Vendor: Meridian Grace
   Product Type: Sweatshirt
   Availability: Available
@@ -811,7 +811,7 @@
     Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ninjapod_12844830_f_PRM33SBP_65_f.jpg?v=1779241561
     Price: $82.00 USD
 - [New York City T-Shirt](https://meridiangrace.shop/products/new-york-city-t-shirt): Product: Next Level Apparel N6210 Men's CVC Crew 4.3 oz., 60% combed ring spun cotton/ 40% polyester jersey Colors have a slightly heathered look Pre-shrunk for reduced shrinkage CVC blend 1x1 baby rib-knit set-in collar Shoulder to shoulder taping Tear-away label Side seamed Size Front body length Body length Body width Sleeve length XS 27" 27" 17" 7.125" S 28" 28" 19" 7.625" M 28" 29" 20.5" 8.125" L 30" 30" 22" 8.625" XL 31" 31" 24" 9.125" 2XL 32" 32" 26" 9.625" 3XL 33" 33" 28" 10.125" 4XL 34" 34" 30" 10.625" 5XL 35" 35" 32" 11.125" 6XL 36" 36" 34" 11.625" - Meridian Grace
-  Updated: 2026-05-28T22:02:34Z
+  Updated: 2026-07-16T19:08:21Z
   Vendor: Meridian Grace
   Product Type: T-Shirt
   Availability: Available
@@ -981,7 +981,7 @@
     Image: https://cdn.shopify.com/s/files/1/1008/7448/6036/files/ninjapod_12844879_f_N6210_30_f.jpg?v=1779239995
     Price: $52.00 USD
 - [Logo Hat](https://meridiangrace.shop/products/logo-hat): Product: Flexfit 6477  Wool Blend Cap 83% acrylic, 15% wool, 2% spandex 6-panel Structured, mid-profile Eight-row stitching on bill 3½" crown Hard buckram backed front panels Sewn eyelets Spandex sweatband retains shape Silver underbill Size Crown height L/XL 3½"" S/M 3½""
-  Updated: 2026-05-28T22:01:24Z
+  Updated: 2026-07-15T17:30:28Z
   Vendor: Meridian Grace
   Product Type: Hat
   Availability: Available
@@ -1162,6 +1162,22 @@
     Updated: 2026-07-13T09:22:35Z
     Author: Meridian Grace
     Tags: benefits of electric bikes, eco-friendly transport, electric, electric bike, electric bikes, electric scooter, everyday riding, features of electric scooters, mobility, scooter
+  - [Why More People Are Choosing Electric Bikes for Convenience and Fun](https://meridiangrace.shop/blogs/news/why-more-people-are-choosing-electric-bikes-for-convenience-and-fun): Why More People Are Choosing Electric Bikes for Convenience and Fun
+    Updated: 2026-07-15T09:12:43Z
+    Author: Meridian Grace
+    Tags: benefits of electric bikes, bikes, choosing electric scooters., commuter scooters, eco-friendly transport, electric, electric bike, electric bikes, electric scooter, scooters
+  - [Essential Safety Gear for Electric Scooter Riding](https://meridiangrace.shop/blogs/news/essential-safety-gear-for-electric-scooter-riding): Essential Safety Gear for Electric Scooter Riding
+    Updated: 2026-07-17T09:09:31Z
+    Author: Meridian Grace
+    Tags: best safety gear for scooters, electric, electric bike, electric scooter, electric scooters, essential gear for electric bikes, gear, protective equipment, riding gear, safety
+  - [The Environmental Impact of Switching to Electric Bikes for Transportation](https://meridiangrace.shop/blogs/news/the-environmental-impact-of-switching-to-electric-bikes-for-transportation): The Environmental Impact of Switching to Electric Bikes for Transportation
+    Updated: 2026-07-20T09:21:34Z
+    Author: Meridian Grace
+    Tags: advantages of electric scooters, bikes, eco-friendly commuting solutions, electric, electric bike, electric bike benefits, electric scooter, environmental impact, scooters, sustainable transportation
+  - [Exploring Sustainable Transport Solutions with Electric Bikes and Scooters](https://meridiangrace.shop/blogs/news/exploring-sustainable-transport-solutions-with-electric-bikes-and-scooters): Exploring Sustainable Transport Solutions with Electric Bikes and Scooters
+    Updated: 2026-07-22T09:10:21Z
+    Author: Meridian Grace
+    Tags: bikes, eco-friendly vehicles, electric, electric bike, electric bike benefits, electric scooter, scooters, scooters for short trips, sustainable transport, urban commuting
 
 ## Store Pages
 
