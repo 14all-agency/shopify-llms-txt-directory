@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2024-01-25T07:19:15Z
 - Contact Email: sales@sachitools.com
-- Updated At: 2026-07-16T06:03:05.366Z
+- Updated At: 2026-07-24T00:00:26.107Z
 
 ## Products
 
@@ -249,7 +249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/files/4x4_15.webp?v=1746509846
     Price: ฿600.00 THB
 - [Metal Box Trays With Magnetic Cover](https://sachitools.com/products/metal-box-trays): Metal Box Trays With Magnetic Cover - Black Box Type - Metal Box (Small/Medium/Large/Long) with memory foam white insert Metal Box Trays with perfectly aligned sections made according to no. of pieces and sizes (with metal boxes) - #4, #9, #12,Â pieces with Cover (Magnetic) or without Cover option. Features : Easy carrying - Easy to carry around while travelling or for exhibition use Easy Presentation - Well finished, allows your customers to view from the countertop Vegan/Cruelty Free : Made from synthetic leather (PU) material Hand Made : Completely customizable for bulk quantity
-  Updated: 2026-07-10T00:26:17Z
+  Updated: 2026-07-17T12:36:08Z
   Vendor: sachitools
   Product Type: 
   Availability: Available
@@ -687,7 +687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/dbx008-11_gem_display_box-economical_011_pcs-19_1.jpg?v=1746509818
     Price: ฿50.00 THB
 - [Gem Display Boxes (A20) - Slide Lock](https://sachitools.com/products/gem-display-boxes-a20-slide-lock): Gem Display Boxes (A20) - Slide Lock Color - Black Sizes - Small to Large Reversible Soft Cushion in White or Black (Can Flip the cushion to change the inside color) Â Key Features : Slide Lock : To prevent accidental opening Durable : MDF structure Â for longer life Vegan/Cruelty Free : Well finished synthetic leather (PU) material Protect precious stones during shipping Attractive Display and Cataloging Prevent from getting dirts and scratch Available in various sizes Customizable for bulk purchase (special grids, prints and logos are subject to availability, quantity or product design) Â
-  Updated: 2026-07-13T13:55:09Z
+  Updated: 2026-07-22T12:07:41Z
   Vendor: sachitools
   Product Type: 
   Availability: Available
@@ -705,18 +705,18 @@
     Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/files/DBX009-3_Gem_Display_Box_A20_No.3_Pic-5.jpg?v=1746509817
     Price: ฿225.00 THB
   - [No.4 (17 x 13 x 2.7 cm)](https://sachitools.com/products/gem-display-boxes-a20-slide-lock?variant=44730173849753)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/files/20200715_130815.jpg?v=1746509817
     Price: ฿315.00 THB
   - [No.5 (15 x 20 x 2.7 cm)](https://sachitools.com/products/gem-display-boxes-a20-slide-lock?variant=44730173882521)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/files/20200715_133218.jpg?v=1746509816
     Price: ฿365.00 THB
   - [No.6 (21.5 x 18 x 2.7 cm)](https://sachitools.com/products/gem-display-boxes-a20-slide-lock?variant=44730173915289)
-    Availability: Available
+    Availability: Not Available
     Price: ฿400.00 THB
   - [No.7 (28 x 23 x 3 cm)](https://sachitools.com/products/gem-display-boxes-a20-slide-lock?variant=44730173948057)
-    Availability: Available
+    Availability: Not Available
     Price: ฿425.00 THB
   - [No.8](https://sachitools.com/products/gem-display-boxes-a20-slide-lock?variant=44730173980825)
     Availability: Not Available
@@ -746,7 +746,7 @@
     Availability: Available
     Price: ฿220.00 THB
 - [Gemax Metal Boxes](https://sachitools.com/products/gemax-metal-boxes): Gemax Metal BoxesÂ Color - Shine Silver/Matt Silver/Matt Black with Glass Top Sizes - Small/Medium/Large/Long Reversible Soft Cushion in White or Black (Can Flip the cushion to change the inside color) Â Key Features : Slide Lock : To prevent accidental opening Protect precious stones during shipping Attractive Display and Cataloging Prevent from getting Dirt and scratch Comes in various attractive colors and sizes Customizable for bulk purchase (special grids, prints and logos are subject to availability, quantity or product design)
-  Updated: 2026-06-15T12:43:56Z
+  Updated: 2026-07-17T12:39:38Z
   Vendor: Gemax
   Product Type: 
   Availability: Available
@@ -768,7 +768,7 @@
     Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/dbx014-ss_gemax_metal_box_s-shine_silver_pcs-8_1.jpg?v=1746509811
     Price: ฿230.00 THB
   - [Medium ( 5.5x5.5x1.5 ) / Matt Silver](https://sachitools.com/products/gemax-metal-boxes?variant=44703285706905)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/files/Metal_Box_M_MS_pixian_ai.png?v=1746509812
     Price: ฿230.00 THB
   - [Medium ( 5.5x5.5x1.5 ) / Matt Black](https://sachitools.com/products/gemax-metal-boxes?variant=44703285739673)
@@ -891,7 +891,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/dm-4a.jpg?v=1746509802
   Price: ฿4,850.00 THB
 - [Diamond Master CZ Set - DM-4B](https://sachitools.com/products/diamond-master-cz-set-dm-4b): It is difficult to use real diamonds each time for studies or presentation as they are expensive. Hence, an alternative option is to use CZ stone which are cheaper but can display same quality as Diamonds. Making it easily available for studies or presentation. 27 Pieces/3 Stone Round Brilliant Selection/0.40-2.00 ct Features : No. of Stones : In Pair of 3 each, 27Â CZ stones (9x1), properly mounted and labelled Details : Arranged in (3/box) 9 boxes in 1 Row - 3 stones round brilliantÂ - 10-20-10 to 50-100-50 Information card - Have inserted informations that explains clearly and in detail about 3 Stone round brilliant selections in various sizes up to 2 cts for purpose of Ring design selection or earring or even nacklace Deluxe black (PU) synthetic leather case, size - 50mm x 270mm x 35mm
-  Updated: 2026-06-15T12:43:58Z
+  Updated: 2026-07-16T12:58:39Z
   Vendor: AGE's Diamond Master
   Product Type: 
   Availability: Available
@@ -982,7 +982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/dm-cc2.jpg?v=1746509793
   Price: ฿11,950.00 THB
 - [Sachi Diamond Wheel](https://sachitools.com/products/sachi-diamond-wheel): "Sachi" Â Diamond Wheels are perfectly balanced to reduce vibrations on higher speed. It features a uniform electroplated diamond coating on the surface with International Quality Standard. Our Wheels are designed to run on all types of Lapidary Machines !!! It can also run on conventional cut stone and cabochon making machines !!! The Grit/Mesh size determines the roughness and fineness of the abrasive or the diamond coating on the surface. As the Grit sizes increases, the abrasive or courseness becomes from Rough to more Fine for polishing. Usually, initial polishing and cutting of rough stones can use the lower size and as the stones become more fine, we can then use the higher number for smoother finishing or fine polishing. Mesh/Grit Size - #60/#80/#100/#120/#150/#180/#200/#220/#260/#300/#360/#600/#800/#1000/#1200 *Customised size & shapes can also be made on specific orders with minimum quantity requirement
-  Updated: 2026-06-15T12:44:01Z
+  Updated: 2026-07-20T11:27:40Z
   Vendor: sachitools
   Product Type: 
   Availability: Available
@@ -994,10 +994,10 @@
     Availability: Available
     Price: ฿650.00 THB
   - [#100](https://sachitools.com/products/sachi-diamond-wheel?variant=44709342937241)
-    Availability: Available
+    Availability: Not Available
     Price: ฿650.00 THB
   - [#120](https://sachitools.com/products/sachi-diamond-wheel?variant=44709342970009)
-    Availability: Available
+    Availability: Not Available
     Price: ฿650.00 THB
   - [#150](https://sachitools.com/products/sachi-diamond-wheel?variant=44709343002777)
     Availability: Available
@@ -1021,7 +1021,7 @@
     Availability: Available
     Price: ฿650.00 THB
   - [#400](https://sachitools.com/products/sachi-diamond-wheel?variant=44709343232153)
-    Availability: Available
+    Availability: Not Available
     Price: ฿650.00 THB
   - [#600](https://sachitools.com/products/sachi-diamond-wheel?variant=44709343264921)
     Availability: Available
@@ -1104,6 +1104,13 @@
   Product Type: 
   Availability: Available
   Price: ฿270.00 THB
+- [Presidium Duo Tester-II (PDT-II)](https://sachitools.com/products/presidium-duo-tester-ii-pdt-ii): Presidium Duo Tester II (PDT II) is the only comprehensive tool on the market that combines two proven testing methods for gemstones. PDT II differentiates diamonds from its simulants based on both their thermal conductivity and reflective indexes. Coated gemstones can also be generally tested with the PDT II. The Presidium Duo Tester II comes with a probe pen that has a retractable probe tip which ensures consistent pressure against the gemstone during testing for more reliable results. With the industryâ€™s thinnest probe tip size of 0.6mm, PDT II tests gemstones as small as 0.02ct. Â Features: â€¢ Assisted Thermal Calibration (ATC) â€¢ Built-in Glass and Calibration (CAL) test discs for reference â€¢ Retractable thermoelectric probe tip that ensures constant pressure between probe and gemstone â€¢ Industryâ€™s thinnest probe tip (0.6mm) for testing gemstones as small as 0.02ct â€¢ Metal alert buzzer to ensure that probe tip is in contact with gemstone during testing â€¢ Large easy-to-read analog dial with 16 colored gemstones â€¢ Digital index LED display for reading of reflectivity value of the gemstone (based on conversion from refractive index) â€¢ Built-in simulant reflective properties reference chart â€¢ Diamond simulant set for calibration of reflectivity meter (optional item provided by Presidium) Benefits: â€¢ Tests gemstones using dual tests of thermal and reflectivity properties to know more about the gemstone â€¢ Accurate and consistent tests for both indoors and outdoors operation â€¢ Tests gemstones as small as 0.02ct â€¢ Clear and visible display for ease of reading measurements for both thermal and reflective test â€¢ No waiting time between tests â€¢ Simple and easy to use â€¢ Runs on 5 AA batteries or with recommended Presidium AC adaptor
+  Updated: 2026-07-18T11:56:03Z
+  Vendor: Presidium
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/pdtii-1.jpg?v=1746509771
+  Price: ฿14,950.00 THB
 - [Gemax ILED Fiber Optic Illuminator - Yellow](https://sachitools.com/products/gemax-iled-fiber-optic-illuminator-yellow): Specifications :- Â Â Â Â Available in YELLOW or WHITE Light Output Â Â * Color Temp. : 3300K (Yellow) / 6500K (White) Also Available in UV 365nm light source Â Â Higher Brightness LED with Special Focus System for Maximum Output * AV Illuminance : 143,000lx (Yellow) / 114,000lx (White),Â approx. * LED Life Span : Approx.30000 HoursÂ Â Â Â Low Power Consupmtion, AC 96-240V / DC 24V ~ 1.5AÂ Â * Continous Dimming / 0~5v Analog Control / PWM 200Hz 5VÂ Â * Soft Start, Eï¬€ectively Protects LED & PCBÂ Â Â Modern Apperance,Compact,Easy to Handle â€“ theÂ REALÂ Cold Light Source DesignÂ * Net Weight : 1860g (Without Light Guides) Â Â * Size : 186(L)Ã—72(W)Ã—104(H) mm Â Â Â Suitable Light Guide Options for various need, Single Flexible Light Guide Single Hard Light Guide Dual Hard Light Guide Dual Flexible Light Guide Dual Flexible + Hard Light Guide
   Updated: 2026-06-15T12:44:05Z
   Vendor: Gemax
@@ -1193,63 +1200,63 @@
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/gag008_presidium_dial_gem_gauge_pic-2.jpg?v=1746509747
   Price: ฿6,650.00 THB
 - [Presidium Elec. Gem Gauge](https://sachitools.com/products/presidium-elec-gem-gauge): Presidium Elec. Gem Gauge is the Most Reliable Gadget when it comes to measuring the Dimensions of Gemstones. It also helps to convert the readings of Dimensions into Carat weight for Round Brilliant-Cut Diamonds. Measures from 0.0 to 25.0mm Accuracy: 0.01mm / Tolerance: 0.02mm Smooth slider mechanism
-  Updated: 2026-06-15T12:44:09Z
+  Updated: 2026-07-22T04:17:12Z
   Vendor: Presidium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/gag009_presidium_elec._gem_gauge_pic-1.jpg?v=1746509746
   Price: ฿11,700.00 THB
 - [Presidium Computer Gem Gauge](https://sachitools.com/products/presidium-computer-gem-gauge): Presidium Computer Gem Gauge (PGCG) is an Advance Digital Computer Gauge that does not only measures the Dimensions of the Gemstones but can also estimate the weight and identity for 9 Different Cuts. Once we enter the weight and dimensions of a gemstone, it can also identify the gemstone by computing its S.G. Value (Specific Gravity) and by referencing its stored internal database. Measuring Range is 0.0 to 25.0mm The PGCG accuracy is 0.01mm which isÂ very high in the Gemstone Industry standards
-  Updated: 2026-06-15T12:44:09Z
+  Updated: 2026-07-22T04:20:25Z
   Vendor: Presidium
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/dsc_3688.jpg?v=1746509746
   Price: ฿12,600.00 THB
 - [A-Source Electronic Gem Gauge](https://sachitools.com/products/a-source-electronic-gem-gauge): A-Source Electronic Gem Gauge is an electronically advanced digital device for measurements of your precious Diamonds or Gemstones in really fast way and yet with extreme accuracy of up to 0.01mm Just Place your stone on its lower fixed plate by sliding down its vertical bar and just let it slide back to the top. That's it !!! You will get accurate reading over your gauge digitally displayed with 2 decimal points precision. Max Capacity 0.00 - 25.00mm Accuracy up to 0.01mm
-  Updated: 2026-06-15T12:44:10Z
+  Updated: 2026-07-22T04:19:57Z
   Vendor: A-source
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/files/ASourceElec.Gauge.png?v=1753433618
   Price: ฿7,250.00 THB
 - [Gemax Electronic Pocket Gauge 25mm (Mini Liv.)](https://sachitools.com/products/gemax-electronic-pocket-gauge-25mm-mini-liv): Gemax Electronic Gauge 25mm (Liv.) in an electronic gauge for measurements of Gemstone or Diamonds. It can measure from 0 - 25mm size of stones accurately. Comes with the Protective Case Extra Battery Included with the package
-  Updated: 2026-06-15T12:44:10Z
+  Updated: 2026-07-22T04:14:16Z
   Vendor: Gemax ECO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/25mm_liv_gauge_2.jpg?v=1746509744
   Price: ฿1,675.00 THB
 - [Gemax Electronic Gauge 15mm Left Hand](https://sachitools.com/products/gemax-electronic-gauge-15mm-left-hand): Gemax Electronic Gauge 15mm Left Hand is an electronic gauge for measurements of Gemstone or Diamonds, specifically for Left Hand users. It can measure from 0 - 15mm size of stones accurately. Comes with the Protective Case Extra Battery Included with the package
-  Updated: 2026-06-15T12:44:10Z
+  Updated: 2026-07-22T04:18:20Z
   Vendor: Gemax ECO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/15mm_gemax_left_hand.jpg?v=1746509740
   Price: ฿1,950.00 THB
 - [Gemax Electronic Gauge 15mm Right Hand](https://sachitools.com/products/gemax-electronic-gauge-15mm-right-hand): Gemax Electronic Gauge 15mm Right Hand is an electronic gauge for measurements of Gemstone or Diamonds, specifically for RightÂ Hand users. It can measure from 0 - 15mm size of stones accurately. Comes with the Protective Case Extra Battery Included with the package
-  Updated: 2026-06-15T12:44:11Z
+  Updated: 2026-07-22T04:16:15Z
   Vendor: Gemax ECO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/gemax_electronic_gauge_15mm_right_hand.jpg?v=1746509739
   Price: ฿1,950.00 THB
 - [Gemax Electronic Gauge 25mm Left Hand](https://sachitools.com/products/gemax-electronic-gauge-25mm-left-hand): Gemax Electronic Gauge 25mm Left Hand is an electronic gauge for measurements of Gemstone or Diamonds, specifically for Left Hand users. It can measure from 0 - 25mm size of stones accurately. Comes with the Protective Case Extra Battery Included with the package
-  Updated: 2026-06-15T12:44:11Z
+  Updated: 2026-07-22T04:15:47Z
   Vendor: Gemax ECO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/20200508_120634.jpg?v=1746509737
   Price: ฿2,275.00 THB
 - [Gemax Electronic Gauge 25mm Right Hand](https://sachitools.com/products/gemax-electronic-gauge-25mm-right-hand): Gemax Electronic Gauge 25mm Right Hand is an electronic gauge for measurements of Gemstone or Diamonds, specifically for RightÂ Hand users. It can measure from 0 - 25mm size of stones accurately. Comes with the Protective Case Extra Battery Included with the package
-  Updated: 2026-06-15T12:44:11Z
+  Updated: 2026-07-22T04:13:28Z
   Vendor: Gemax ECO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/copy_of_20200508_120634.jpg?v=1746509736
   Price: ฿2,275.00 THB
 - [Gemax ECO QuickChk Elec. Gauge 25mm](https://sachitools.com/products/gemax-eco-quickchk-elec-gauge-25mm): Gemax Quick mini Electronic Gauge 25mm is an electronic gauge for measurements of Gemstone or Diamonds or Pearls. It can measure from 0 - 25mm size of stones with accuracy 0.01mm (Tolerance +/- 0.02-0.03mm) Comes with the Protective Case Extra Battery Included with the package Other features : Zero setting at any point mm/inch conversion any point
-  Updated: 2026-06-15T12:44:11Z
+  Updated: 2026-07-22T04:17:47Z
   Vendor: Gemax ECO
   Product Type: 
   Availability: Available
@@ -1263,14 +1270,14 @@
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/gag002_a_-500x500.jpg?v=1746509733
   Price: ฿70.00 THB
 - [Gemax Eco Digital Caliper 150mm](https://sachitools.com/products/gemax-eco-digital-caliper-150mm): Digital Caliper 150mm is a Digital, metallic standard scale size caliper that comes with jaw locking system and with another pair of liver on its upper side of scale to measure inner depth or size of a product. It does allow to take step measurement as well.Â Hard and sturdly built metal body, not easily bendable or break. This model comes with max capacity of 150mm and with accuracy of 0.2mm. It also has Zero adjustment Has Knurled thumb wheel for digitalÂ pointer movement Jaw lock for repetitive decision making (Yes/NO)Â Cover for protection
-  Updated: 2026-06-15T12:44:12Z
+  Updated: 2026-07-22T04:15:21Z
   Vendor: Gemax ECO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/img20230526145731.jpg?v=1746509731
   Price: ฿950.00 THB
 - [Gemax Eco Digital Caliper 100mm](https://sachitools.com/products/gemax-eco-digital-caliper-100mm): Digital Caliper 100mm is a Digital, metallic standard scale size caliper that comes with jaw locking system and with another pair of liver on its upper side of scale to measure inner depth or size of a product. It does allow to take step measurement as well.Â Hard and sturdly built metal body, not easily bendable or break. This model comes with max capacity of 100mm and with accuracy of 0.2mm. It also has Zero adjustment Has Knurled thumb wheel for digitalÂ pointer movement Jaw lock for repetitive decision making (Yes/NO)Â Cover for protection
-  Updated: 2026-06-15T12:44:13Z
+  Updated: 2026-07-22T04:14:51Z
   Vendor: Gemax ECO
   Product Type: 
   Availability: Available
@@ -1311,12 +1318,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/20200818_134714.jpg?v=1746509721
   Price: ฿950.00 THB
-- [Gemax Spectroscope (Prism)-Small](https://sachitools.com/products/gemax-spectroscope-prism-small): Gemax Prism Spectroscope (Small) Scale, comes with fixed slit, it isÂ made from high-quality optics for clear & brighter view of spectrum. Ideal for gemological institutes & labs. Portable & convenient to use. For comparative observations & spectral examinations. Gemax Prism Spectroscope uses a dispersive prism as its dispersive element. The prism refracts the light into its different colour spectrum range.
-  Updated: 2026-06-18T04:32:02Z
+- [Gemax Calcite DichroScope](https://sachitools.com/products/gemax-dichroscope): Gemax Calcite Dichroscope, well calibrated & accurate results!!! The dichroscope is a pocket-sized tool that can aid in the identification of gemstones. Calcite gives better results and is widely used by experienced gemologists. With plenty of experience, one could even positively identify some gemstones with the dichroscope alone (although confirmation tests should always be carried out).This tool is used to inspectÂ pleochroismÂ in gemstones and to quickly separate some common stones from each other (such as ruby versus red garnet).
+  Updated: 2026-07-23T11:57:28Z
   Vendor: Gemax
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/20200508_162357.jpg?v=1746509717
+  Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/20200508_163825.jpg?v=1746509720
   Price: ฿1,450.00 THB
 - [Gemax Spectroscope with W/Scale-L](https://sachitools.com/products/gemax-spectroscope-with-w-scale-l): Gemax Prism Spectroscope with Wavelength Scale, comes with adjustable slit, it is made from high-quality optics for clear & brighter view of spectrum. Ideal for gemolocial institutes & labs. Portable & convenient to use. For comparative observations & spectral examinations. Gemax Prism Spectroscope uses a dispersive prism as its dispersive element. The prism refracts the light into its different colour wavelengths.
   Updated: 2026-06-15T12:44:17Z
@@ -1417,7 +1424,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/monolight-2-1.jpg?v=1746509700
   Price: ฿1,875.00 THB
 - [Gem Master R. I. Liquid 1.79](https://sachitools.com/products/gem-master-r-i-liquid-1-79): This liquid is to be used in congestion with Refractive indexes measurement instruments. Comes in 5ml Amber Glass bottle. Bottle is packed and sealed in accordance with current health and safety regulations. Features : Stable : Limits the amount of liquid to be withdrawn at a time Safer to use : Prevent spillage and reduces harmful vapor emissions Easy to use : Use with its rod to drop one small droplet each time Long Lasting : Securely sealed Economical : Efficiently use for long time as no spillageShipping Notice: Gemological R.I. Liquid (1.79/1.81) is dispatched strictly with an MSDS and NON-DG approval. Restriction: Delivery is limited exclusively to the registered purchasing company to ensure compliance with safety protocols.
-  Updated: 2026-07-08T14:14:47Z
+  Updated: 2026-07-23T11:39:07Z
   Vendor: sachitools
   Product Type: 
   Availability: Available
@@ -1472,8 +1479,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/whatsapp_image_2021-04-09_at_5.49.19_pm_1.jpg?v=1746509693
   Price: ฿3,520.00 THB
-- [UV Light Box LW/SW (SG)](https://sachitools.com/products/uv-light-box-lw-sw-sg): UV Short wave & Long wave Lamp Practical, portable, versatile color-grading light that features both UV short wave and long wave light and comes with a chamber for color grading. The ultra violet light detects fluorescence in diamonds, rubies, emeralds and synthetics.Â
-  Updated: 2026-06-24T02:13:27Z
+- [Gemstone UV Light Cabinet (LW-365nm/SW-254nm)](https://sachitools.com/products/uv-light-box-lw-sw-sg): Gemstone UV Cabinet with correct Long Wave 365nm & Short Wave 254nm : Practical, portable, versatile color-grading light that features both UV short wave and long wave light and comes with a chamber for color grading. The ultra violet light detects fluorescence in diamonds, rubies, emeralds and synthetics.Â
+  Updated: 2026-07-23T12:01:30Z
   Vendor: sachitools
   Product Type: 
   Availability: Available
@@ -1611,6 +1618,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/vacuum_wax_injector_auto_clamp.jpg?v=1746509660
   Price: ฿36,650.00 THB
+- [Pen Light - Yellow](https://sachitools.com/products/pen-light-yellow): This Pen Light provides Best Illumination or YellowÂ ligth source for all purpose of portable lighting source !!! Features : Multi Purpose : Can be used in hospitals for  purpose or also as daily household utility. Also can be used for Jewelry appraisal & so on. Strong : Built from Aluminium alloy which makes it durable and waterproof at the same time Portable : It is pocket size Â and lightweight, hence easy to carry around Â Available in Black color body
+  Updated: 2026-07-18T11:57:57Z
+  Vendor: sachitools
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/pen_light_yellow.jpg?v=1746509658
+  Price: ฿130.00 THB
 - [Gemax UV Key Chain Light](https://sachitools.com/products/gemax-uv-key-chain-light): Easy to Carry â€“ On the go design, attachable to Loupe or any Key !!!Â Correct Long-Wave UV 365nm
   Updated: 2026-07-03T12:53:24Z
   Vendor: Gemax
@@ -1694,7 +1708,7 @@
     Availability: Available
     Price: ฿3,220.00 THB
 - [Base For Gemax I Led Day Lamp](https://sachitools.com/products/base-for-gemax-i-led-day-lamp): Strong and Heavy Base provide stability for Gemax iLED Day Light Lamp Pro-I.Â It is an optional purchase, can be bought seperately. Features : Strong and heavy base helps in flicker free light Long Lasting and Durable Well polished
-  Updated: 2026-06-15T12:44:34Z
+  Updated: 2026-07-16T22:03:32Z
   Vendor: Gemax
   Product Type: 
   Availability: Available
@@ -1952,7 +1966,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/20200523_140642.jpg?v=1746509579
   Price: ฿3,650.00 THB
 - [Gemax Loupe 20.5mm 10X](https://sachitools.com/products/gemax-loupe-20-5mm-10x): Gemax Loupe 20.5mm 10XÂ is Distortion-free, crystal clear lens quality in a well-balanced metal body. Great for assortment, quality check & grading. Available in 10X magnification power. Lense Size - 20.5mm/10x This Jewelry Magnifier/Loupe is an Excellent Gemological tool in hand to examine or inspect intricate details in diamonds and gemstones, minute details in stamps, coins or jewelry or any other work that requires magnification to identify and view details. Suitable for Diamond Graders, Gemologists and Jewelers !!!
-  Updated: 2026-06-30T08:58:16Z
+  Updated: 2026-07-19T10:34:36Z
   Vendor: Gemax
   Product Type: 
   Availability: Available
@@ -1993,6 +2007,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/currency_counting_hl_100.jpg?v=1746509558
   Price: ฿3,875.00 THB
+- [Motic Gem Microscope GM171-Binocular](https://sachitools.com/products/motic-gem-microscope-gm171-binocular): Microscope Head The SMZ171 stereo head is an excellent choice for jewelry and gem stone inspection at an affordable price. The parfocal zoom ratio is 6.7:1, offering a magnification range of 7x-50x with dual-sided zoom controls and a working distance of 110mm. The head is inclined 45Â° and includes lnear sliding interpupillary adjustment of 50mm-75mm. High Eyepoint widefield 10X/F.N.23 eyepieces come standard, offering dual dioptric adjustment and a broad field of view ranging from 30.67mm to 1.33mm. Optional eyepiece powers include 15X and 20X, for additional magnification of 75X and 100X respectively, without the loss of working distance. Finally, the microscope is available in binocular or trinocular format to easily capture digital images for documentation,  or client use. Please note that a trinocular adapter is required to fit your camera. Illumination & Stage Brightfield / Darkfield illumination is from powerful and consistent 6V30W variable-intensity Halogen with an aperture diaphragm adjustable from 41mm to 2mm. This allows depth of field and contrast control for easier stone identification. Incident illumination is provided by a 7-watt, 6000-degree color temp fluorescent light box on a flexible goose neck arm. The stage offers two mounting points for a gem holder and inclusion pointer along with adaptation for optional contrasting methods like immersion or polarization. Stand The professional gem stand features dual focus controls for precise movement through 125mm of vertical range, to accommodate different gems and stones. An integral swivel base allows 360-degree rotation and the arm inclines 45 degrees for flexible viewing positions by jeweler or client.
+  Updated: 2026-07-23T12:06:36Z
+  Vendor: Motic
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/gm-171.jpg?v=1746509557
+  Price: ฿79,900.00 THB
+- [Motic Gem Microscope GM171-Trinocular](https://sachitools.com/products/motic-gem-microscope-gm171-trinocular): Microscope Head The SMZ171 stereo head is an excellent choice for jewelry and gem stone inspection at an affordable price. The parfocal zoom ratio is 6.7:1, offering a magnification range of 7x-50x with dual-sided zoom controls and a working distance of 110mm. The head is inclined 45Â° and includes lnear sliding interpupillary adjustment of 50mm-75mm. High Eyepoint widefield 10X/F.N.23 eyepieces come standard, offering dual dioptric adjustment and a broad field of view ranging from 30.67mm to 1.33mm. Optional eyepiece powers include 15X and 20X, for additional magnification of 75X and 100X respectively, without the loss of working distance. Finally, the microscope is available in binocular or trinocular format to easily capture digital images for documentation,  or client use. Please note that a trinocular adapter is required to fit your camera. Illumination & Stage Brightfield / Darkfield illumination is from powerful and consistent 6V30W variable-intensity Halogen with an aperture diaphragm adjustable from 41mm to 2mm. This allows depth of field and contrast control for easier stone identification. Incident illumination is provided by a 7-watt, 6000-degree color temp fluorescent light box on a flexible goose neck arm. The stage offers two mounting points for a gem holder and inclusion pointer along with adaptation for optional contrasting methods like immersion or polarization. Stand The professional gem stand features dual focus controls for precise movement through 125mm of vertical range, to accommodate different gems and stones. An integral swivel base allows 360-degree rotation and the arm inclines 45 degrees for flexible viewing positions by jeweler or client. Accessories include 100V-240V power supply & wire gem clamp (Tweezer).
+  Updated: 2026-07-23T12:17:31Z
+  Vendor: Motic
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/motic_gm171_trinocular_microscope.jpg?v=1746509556
+  Price: ฿89,800.00 THB
 - [Motic Gem Microscope SMZ-140](https://sachitools.com/products/motic-gem-microscope-smz-140): Additional eyepieces and objectives help to upgrade the standard setups in terms of magnification. Darkfield or POL contrast: the SMZ140 series offers further options to adapt the instrument to the specific demands of your sample. Another option with the SMZ-140 series is the built-in digital versions DM-143 [2-megapixal camera] and DMW-143 [3-simultaneous outputs] versions. The combination of a Motic microscope with a member of the Moticam Series enables to display and to share excellent live images for presentations and discussions. Discover the possibilities and benefits of connecting a Moticam camera onto your microscope. Multiply your teaching options, improve teaching efficiency! Standard Live Resolution | Moticam 1 and 2, an ideal and affordable introduction to Digital Microscopy, great for schools or small laboratories. Wi-Fi streaming | Moticam X, a unique solution to turn your old microscope into a Wi-Fi station
   Updated: 2026-06-15T12:44:50Z
   Vendor: Motic
@@ -2113,10 +2141,10 @@
   Updated: 2026-06-15T12:43:49Z
   Total Products: 1
 - [Essentials](https://sachitools.com/collections/gemology-tools-loupes-tweezers): Buy professional gemology tools: 10x triplet loupes (Zeiss, Belomo), diamond tweezers, sorting pads, and scoops. High-quality jewelry inspection gear shipping to USA.
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-21T08:37:32Z
   Total Products: 288
 - [Loupes/Magnifiers](https://sachitools.com/collections/loupes-magnifiers)
-  Updated: 2026-07-04T11:18:02Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 74
 - [Economical-Range - Loupes](https://sachitools.com/collections/economical-range)
   Updated: 2026-06-27T11:17:43Z
@@ -2125,22 +2153,22 @@
   Updated: 2026-06-15T12:43:49Z
   Total Products: 15
 - [Premium Range - Loupes](https://sachitools.com/collections/premium-range)
-  Updated: 2026-07-04T11:18:02Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 35
 - [Head Band Optivisors](https://sachitools.com/collections/head-band-optivisors)
   Updated: 2026-06-15T12:43:49Z
   Total Products: 13
 - [Tweezers](https://sachitools.com/collections/tweezers)
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 14
 - [Economical Range - Tweezers](https://sachitools.com/collections/economical-range-1)
   Updated: 2026-06-26T15:42:35Z
   Total Products: 3
 - [Mid Range - Tweezers](https://sachitools.com/collections/mid-range-1)
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 5
 - [Premium Range - Tweezer](https://sachitools.com/collections/premium-range-1)
-  Updated: 2026-06-15T12:43:49Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 8
 - [Diamond Sieves](https://sachitools.com/collections/diamond-sieves)
   Updated: 2026-06-15T12:43:50Z
@@ -2161,16 +2189,16 @@
   Updated: 2026-06-15T12:43:50Z
   Total Products: 3
 - [Hand Tools/Accessories](https://sachitools.com/collections/hand-tools-accessories)
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-21T08:37:32Z
   Total Products: 18
 - [Jewelry Templates](https://sachitools.com/collections/jewelry-templates)
   Updated: 2026-06-15T12:43:50Z
   Total Products: 6
 - [Polishing Products-Diamonds/Gems/Jewelry](https://sachitools.com/collections/polishing-products-diamonds-gems-jewelry)
-  Updated: 2026-07-11T11:16:59Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 30
 - [Diamonds/Gems/Pearls](https://sachitools.com/collections/diamonds-gems-pearls)
-  Updated: 2026-07-11T11:16:59Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 13
 - [Silver](https://sachitools.com/collections/silver)
   Updated: 2026-06-15T12:43:50Z
@@ -2182,7 +2210,7 @@
   Updated: 2026-06-15T12:43:50Z
   Total Products: 2
 - [Diamond/Gem Testers](https://sachitools.com/collections/diamond-gem-testers-1)
-  Updated: 2026-07-05T11:14:29Z
+  Updated: 2026-07-20T11:17:10Z
   Total Products: 42
 - [Diamond & Gem Testers](https://sachitools.com/collections/diamond-gem-testers): Buy high-accuracy diamond and gemstone testers for reliable authenticity checks. Perfect for jewelers, gemologists, and labs. Ships to USA, Europe & Thailand.
   Updated: 2026-06-15T12:43:50Z
@@ -2191,16 +2219,16 @@
   Updated: 2026-06-15T12:43:50Z
   Total Products: 23
 - [Metal & Gold Testers](https://sachitools.com/collections/metal-gold-testers)
-  Updated: 2026-07-05T11:14:29Z
+  Updated: 2026-07-20T11:17:10Z
   Total Products: 5
 - [Gemological Instruments & Kits](https://sachitools.com/collections/gemological-instruments-kits): Shop complete gemological kits, refractometers, spectroscopes, and testing instruments. Trusted by gem labs & jewelers in USA, Europe & Thailand.
-  Updated: 2026-07-11T11:16:59Z
+  Updated: 2026-07-23T12:01:25Z
   Total Products: 101
 - [Diamond Master CZ Sets](https://sachitools.com/collections/diamond-master-cz-sets)
-  Updated: 2026-07-11T11:16:59Z
+  Updated: 2026-07-23T11:17:17Z
   Total Products: 32
 - [Gem Identification Tools](https://sachitools.com/collections/gem-identification-tools)
-  Updated: 2026-07-11T11:16:59Z
+  Updated: 2026-07-23T12:01:25Z
   Total Products: 40
 - [Gemological Kits](https://sachitools.com/collections/gemological-kits)
   Updated: 2026-06-24T11:16:55Z
@@ -2224,7 +2252,7 @@
   Updated: 2026-07-10T08:44:23Z
   Total Products: 52
 - [Lamps & Lightings](https://sachitools.com/collections/jewelry-inspection-led-lamps-lighting): Shop high-quality LED lamps and lighting systems for gemstone inspection, jewelry work & precision tasks. Ships globally to USA, Europe & Thailand.
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-23T12:01:25Z
   Total Products: 75
 - [Photography Light Box](https://sachitools.com/collections/photography-light-box)
   Updated: 2026-06-15T12:43:51Z
@@ -2236,7 +2264,7 @@
   Updated: 2026-07-04T11:18:02Z
   Total Products: 16
 - [UV Lights](https://sachitools.com/collections/uv-lights)
-  Updated: 2026-07-04T11:18:02Z
+  Updated: 2026-07-23T12:01:25Z
   Total Products: 8
 - [Fiber Optic Illuminator](https://sachitools.com/collections/fiber-optic-illuminator)
   Updated: 2026-06-15T12:43:51Z
@@ -2245,16 +2273,16 @@
   Updated: 2026-06-15T12:43:51Z
   Total Products: 8
 - [Weighing Scales](https://sachitools.com/collections/weighing-scales-jewelry-gemstone): Shop digital weighing scales designed for jewelry and gemstone accuracy. Ideal for labs, retailers, and artisans. Ships to USA, Europe & Thailand.
-  Updated: 2026-07-04T11:18:02Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 68
 - [Portable/Pocket Scales](https://sachitools.com/collections/portable-pocket-scales)
-  Updated: 2026-07-04T11:18:02Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 23
 - [Diamond / Gemstone Scales](https://sachitools.com/collections/diamond-gemstone-scales)
   Updated: 2026-06-15T12:43:52Z
   Total Products: 6
 - [Portable Gold & Silver Scales](https://sachitools.com/collections/gold-silver-scales)
-  Updated: 2026-07-04T11:18:02Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 17
 - [Diamond & Jewelry Scales](https://sachitools.com/collections/diamond-jewelry-scales)
   Updated: 2026-06-24T11:16:55Z
@@ -2269,31 +2297,31 @@
   Updated: 2026-06-24T11:16:55Z
   Total Products: 8
 - [Measuring Tools - Gauges](https://sachitools.com/collections/measuring-tools-gauges-jewelry-gemstone): Browse precision gauges, calipers, ring sizers & measuring tools for gemologists and jewelers. Ships to USA, Europe & Thailand from Sachi Tools.
-  Updated: 2026-06-15T12:43:52Z
+  Updated: 2026-07-22T11:17:34Z
   Total Products: 38
 - [Manual Gauges & Calipers](https://sachitools.com/collections/manual-gauges-calipers)
   Updated: 2026-06-15T12:43:52Z
   Total Products: 17
 - [Electronic Gauge & Calipers](https://sachitools.com/collections/electronic-gauge-calipers): Diamond Gauge & Calipers
-  Updated: 2026-06-15T12:43:52Z
+  Updated: 2026-07-22T11:17:34Z
   Total Products: 13
 - [Packaging & Displays](https://sachitools.com/collections/jewelry-packaging-display-boxes-pouches-trays): Explore premium jewelry packaging, display stands, boxes, pouches & trays for professional presentation. Ships to USA, Europe & Thailand. Shop online now.
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-23T11:17:17Z
   Total Products: 213
-- [Display Boxes - Gems & Diamonds](https://sachitools.com/collections/display-boxes-gems-diamonds)
-  Updated: 2026-07-14T11:18:07Z
+- [Display Boxes - Gems & Diamonds](https://sachitools.com/collections/display-boxes-gems-diamonds): Browse gem and diamond display boxes for professional presentation and storage. Perfect for jewelers, gemologists & retailers. Ships to USA, Europe & Thailand.
+  Updated: 2026-07-23T11:17:17Z
   Total Products: 140
 - [Diamond Boxes](https://sachitools.com/collections/diamond-boxes)
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-23T11:17:17Z
   Total Products: 19
 - [Gem Boxes](https://sachitools.com/collections/gem-boxes)
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-23T11:17:17Z
   Total Products: 112
 - [Storage Boxes](https://sachitools.com/collections/storage-boxes)
   Updated: 2026-07-14T11:18:07Z
   Total Products: 18
 - [Display Trays & Wallets](https://sachitools.com/collections/display-trays-wallets)
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 39
 - [Plain Trays](https://sachitools.com/collections/plain-trays)
   Updated: 2026-07-14T11:18:07Z
@@ -2302,7 +2330,7 @@
   Updated: 2026-06-26T15:42:35Z
   Total Products: 9
 - [Gem Box Wallets](https://sachitools.com/collections/gem-box-wallets)
-  Updated: 2026-07-10T11:23:26Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 8
 - [TurnTable Displays](https://sachitools.com/collections/turntable-displays)
   Updated: 2026-06-15T12:43:53Z
@@ -2311,13 +2339,13 @@
   Updated: 2026-06-15T12:43:53Z
   Total Products: 3
 - [Polybags / Zippers](https://sachitools.com/collections/polybags-zippers)
-  Updated: 2026-06-15T12:43:53Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 1
 - [PVC Zip Polybags](https://sachitools.com/collections/pvc-zip-polybags)
-  Updated: 2026-06-15T12:43:53Z
+  Updated: 2026-07-19T11:18:07Z
   Total Products: 1
 - [Gem Lapidary Machines & Supplies](https://sachitools.com/collections/gem-lapidary-machines-cutting-polishing-supplies): Explore premium gem lapidary machines, cutting tools, polishing supplies & accessories. Perfect for jewelers & lapidary pros in the USA, Europe & Thailand.
-  Updated: 2026-07-11T11:16:59Z
+  Updated: 2026-07-21T11:16:55Z
   Total Products: 76
 - [Diamond Polishing Powder](https://sachitools.com/collections/diamond-polishing-powder)
   Updated: 2026-07-11T11:16:59Z
@@ -2329,7 +2357,7 @@
   Updated: 2026-06-18T11:19:48Z
   Total Products: 5
 - [Grinding & Polishing Wheels](https://sachitools.com/collections/grinding-polishing-wheels)
-  Updated: 2026-06-15T12:43:53Z
+  Updated: 2026-07-21T11:16:55Z
   Total Products: 10
 - [Grinding & Polishing Laps](https://sachitools.com/collections/grinding-polishing-laps)
   Updated: 2026-06-18T11:19:48Z
@@ -2343,8 +2371,8 @@
 - [Composite / Special Polishing Laps](https://sachitools.com/collections/composite-special-polishing-laps)
   Updated: 2026-06-15T12:43:53Z
   Total Products: 24
-- [Gem Lapidary Machines](https://sachitools.com/collections/gem-lapidary-machines)
-  Updated: 2026-07-10T11:23:26Z
+- [Gem Lapidary Machines](https://sachitools.com/collections/gem-lapidary-machines): Shop professional gem lapidary machines for cutting, grinding & polishing gemstones. Trusted by jewelers, gemologists & labs. Ships to USA, Europe & Thailand.
+  Updated: 2026-07-23T10:02:55Z
   Total Products: 18
 - [Gemstone Heating Furnace](https://sachitools.com/collections/gemstone-heating-furness)
   Updated: 2026-06-15T12:43:54Z
@@ -2377,13 +2405,13 @@
   Updated: 2026-06-15T12:43:54Z
   Total Products: 1
 - [Diamond Saw Blades](https://sachitools.com/collections/diamond-saw-blades)
-  Updated: 2026-06-15T12:43:54Z
+  Updated: 2026-07-16T11:17:19Z
   Total Products: 3
 - [Gauges & Sizing Tools](https://sachitools.com/collections/gauges-sizing-tools)
   Updated: 2026-06-15T12:43:54Z
   Total Products: 1
 - [packaging](https://sachitools.com/collections/packaging)
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-23T11:17:17Z
   Total Products: 146
 - [Feature Products](https://sachitools.com/collections/feature-products)
   Updated: 2026-06-15T12:43:54Z
