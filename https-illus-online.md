@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-26T14:52:41Z
 - Contact Email: illus.online@outlook.com
-- Updated At: 2026-07-08T00:00:42.493Z
+- Updated At: 2026-07-24T00:00:44.826Z
 
 ## Products
 
@@ -388,7 +388,7 @@
 - [About us](https://illus.online/pages/about-us): illus. is a workshop dedicated to crafting stunning art. We create arts and collaborate with artists & social media influencers to produce high-qua...
   Updated: 2026-06-11T15:53:37Z
 - [Customized Pet Art](https://illus.online/pages/customized): Perfect for pet lovers & your furry friend, the colorful artwork brings a warm touch to your home decor. Display it to honor your pet and enjoy a l...
-  Updated: 2026-04-22T14:32:38Z
+  Updated: 2026-07-16T16:14:24Z
 
 ## Policies
 
