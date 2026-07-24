@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-07-17T16:00:33.189Z
+- Updated At: 2026-07-24T16:00:33.393Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -294,8 +294,8 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Daily_Calories_Tracking_Sheet_with_Exercise_2_-_Printable_Planning.jpg?v=1564501462
   Price: $5.95 USD
-- [Kettlebell Exercises Sheet with Warm-up and Cool-down - Printable](https://printableplanning.com/products/kettlebell-exercises-sheet-with-warm-up-and-cool-down-printable): Printable Kettlebell Exercises Sheet with Warm-up and Cool-down for people who want to log their daily exercises and workouts using kettlebells for weights. This printable sheet includes sections for your warm-up and cool-down that includes time and notes. The main section is for your kettlebell workout that allows logging up to 4 sets per exercise keeping track of weight and reps. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. 3 sections: Warm-up, Main Workout, and Cool-down. Clean and simple layout. Print a new printable Kettlebell Exercises Sheet with Warm-up and Cool-down page every day or as needed. This sheet is meant as a guide or log for people who are exercising using kettlebells. This sheet in no way is exercise advice or a workout suggestion. Please consult a doctor before beginning any exercise regimen.
-  Updated: 2026-07-08T20:45:42Z
+- [Kettlebell Workout Log | Sets Reps Weight Printable PDF](https://printableplanning.com/products/kettlebell-exercises-sheet-with-warm-up-and-cool-down-printable): Printable kettlebell workout log with warm-up, cool-down, exercises, sets, reps, weight, time, and notes for organized strength-training records.
+  Updated: 2026-07-24T10:05:06Z
   Vendor: Artistically Invited
   Product Type: Diet and Exercise
   Availability: Available
@@ -378,8 +378,8 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Debt_Snowball_Sheet_-_Payoff_Plan_-_Bill_Tracker_BUNDLE_2_-_Printable_Planning.jpg?v=1686174140
   Price: $7.95 USD
-- [Full Page To-Do List with Level of Importance Column - Printable](https://printableplanning.com/products/full-page-to-do-list-level-of-importance-column-printable): A printable full page to-do list with level of importance column for your daily personal or business activities. Keep a running list of things you need to do or accomplish. Log the date, the task name, and it's level of importance. There is even a column for marking items off your list as you complete them. This list is full page, giving you a full and clear view and can even be included in a binder if you use a 3-hole punch. Print as many sheets as you need, or a new sheet every time you need one. SPECIFICATIONS: 8.5" x 11" printable PDF page. Full page to-do list. Simple and clean. Excellent for both personal and business to-do lists. Print a new printable full page to-do list with level of importance column page every time you need more.
-  Updated: 2026-07-08T20:45:46Z
+- [Priority To-Do List with Importance Levels | Printable PDF](https://printableplanning.com/products/full-page-to-do-list-level-of-importance-column-printable): Printable priority to-do list with date, task, completion, and Low, Medium, High importance options. Keep a clear running task list on one full page.
+  Updated: 2026-07-24T09:20:05Z
   Vendor: Artistically Invited
   Product Type: To-Do List
   Availability: Available
@@ -1190,24 +1190,31 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Purple_Header_Full_Page_Weekly_Grocery_List_-_Printable_Planning_50b22d1c-7f44-48ef-a2b7-24ba7fe5ddc9.jpg?v=1564501399
   Price: $5.95 USD
-[List Continued](https://printableplanning.com/a/llms-agent/llms.txt?shop=printable-planning.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzQ1NTU3MzAwMTUsImxhc3RfdmFsdWUiOiI3NzQ1NTU3MzAwMTUifQ%3D%3D)
+- [Turquoise Header Weekly Grocery List - Full Page - Printable](https://printableplanning.com/products/turquoise-header-weekly-grocery-list-full-page-printable): A convenient printable Turquoise Header Weekly Grocery List - Full Page in a clean and simple two column design with a turquoise header. Make writing grocery lists convenient with this organized list. This page has lines for your grocery items, check boxes to mark off the items as you add them to your grocery cart, and  circles to use if you know you have a  for that item. That takes out the guess work at the cash register. Print as many as you need for as long as you have this printable PDF. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Full page list, perfect for your weekly shopping trip. Color: Turquoise. Clean and Simple. Print a new Turquoise Header Weekly Grocery List - Full Page every time you need more.
+  Updated: 2026-07-08T20:46:15Z
+  Vendor: Artistically Invited
+  Product Type: Meal Planning
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Turquoise_Header_Full_Page_Weekly_Grocery_List_-_Printable_Planning_587e8c7c-5d9b-4301-9a9c-a9fa8d8f247d.jpg?v=1564501484
+  Price: $5.95 USD
+[List Continued](https://printableplanning.com/a/llms-agent/llms.txt?shop=printable-planning.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzQ1NTU3OTU1NTEsImxhc3RfdmFsdWUiOiI3NzQ1NTU3OTU1NTEifQ%3D%3D)
 
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-07-16T21:56:23Z
+  Updated: 2026-07-23T11:01:43Z
   Total Products: 421
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2026-07-12T13:43:34Z
+  Updated: 2026-07-21T14:58:40Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-07-16T21:56:23Z
+  Updated: 2026-07-23T11:01:43Z
   Total Products: 421
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-07-08T20:47:15Z
+  Updated: 2026-07-21T13:50:26Z
   Total Products: 13
 - [Caregiver, Health, and Housekeeping Forms](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-07-15T12:53:09Z
+  Updated: 2026-07-21T18:47:44Z
   Total Products: 47
 - [Financial Sheets](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
   Updated: 2026-07-16T21:56:23Z
@@ -1228,19 +1235,19 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-07-08T20:47:17Z
   Total Products: 53
 - [School and Teachers](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-07-13T19:40:39Z
+  Updated: 2026-07-21T13:50:26Z
   Total Products: 44
 - [Children's Printable Pages](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
   Updated: 2026-07-12T13:43:34Z
   Total Products: 30
 - [Diet and Exercise Sheets](https://printableplanning.com/collections/diet-and-exercise-sheets): Diet and exercise printables for tracking meals, workouts, habits, and progress. Simple logs and goal sheets to support healthy routines.
-  Updated: 2026-07-08T20:20:48Z
+  Updated: 2026-07-21T14:58:40Z
   Total Products: 8
 - [Small Business Sheets and Forms](https://printableplanning.com/collections/small-business-sheets-and-forms): Small business printables for invoices, scheduling, bookkeeping, and tracking. Simple forms and sheets to organize work and clients.
-  Updated: 2026-07-11T11:01:21Z
+  Updated: 2026-07-23T11:01:43Z
   Total Products: 19
 - [To-Do Lists and Task Checklists](https://printableplanning.com/collections/to-do-lists-and-task-checklists): Printable to-do lists and task checklists for daily planning, weekly routines, and project tracking. Simple pages to keep tasks organized.
-  Updated: 2026-07-11T11:01:21Z
+  Updated: 2026-07-21T14:40:08Z
   Total Products: 35
 - [Low-Energy Planning Pages](https://printableplanning.com/collections/low-energy-planning-pages): Explore low-energy planning pages and gentle printable tools for overwhelming days, brain dumps, task sorting, life admin catch-up, home resets, and realistic daily planning.
   Updated: 2026-07-11T11:01:21Z
