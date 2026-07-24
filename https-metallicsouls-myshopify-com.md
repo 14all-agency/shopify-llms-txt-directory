@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-25T17:57:36Z
 - Contact Email: psycous2@gmail.com
-- Updated At: 2026-07-16T00:00:42.463Z
+- Updated At: 2026-07-24T00:00:46.572Z
 
 ## Products
 
@@ -176,7 +176,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/d8f5d55b-56f9-459b-8ac4-53d43f5691d2.jpg?v=1782916401
     Price: $79.48 USD
 - [Metallic Souls Mars Saga Poster with Magnetic Hanger — Matte Print](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger): Magnetic hangers that prevent poster damage and allow easy print changes, offering versatile and durable display options: Hanger Material: Durable pine wood. Paper Weight: 200 gsm (80 lb), thickness: 0.22 mm (8.7 mils). Paper Finish: Matte, smooth uncoated finish with a luxurious feel. Sustainable Paper: FSC- materials or equivalent. Available Sizes: 29 sizes in inches (US&CA) and cms (rest of the world). Recommended Use: For indoor display. Learn about paper types and their unique textures and finishes here. No minimum orders, printed and shipped on demand.
-  Updated: 2026-07-08T20:49:59Z
+  Updated: 2026-07-22T23:28:06Z
   Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
@@ -238,11 +238,11 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/6bbb8904-a342-4c41-83d9-1967cb10a21d.jpg?v=1782916404
     Price: $44.48 USD
   - [45x45 cm / 18x18″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192284676141)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/53c7ead5-c0f0-484f-a2e7-aad194d01f4d.jpg?v=1735443580
     Price: $46.12 USD
   - [45x60 cm / 18x24″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192284708909)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/8d767037-2714-41b5-9c11-df2fc91be218.jpg?v=1735443583
     Price: $47.64 USD
   - [50x50 cm / 20x20″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192284741677)
@@ -282,7 +282,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/9c328dde-c661-47bc-8c65-067dee97d19f.jpg?v=1735443582
     Price: $61.56 USD
   - [A2 (42 x 59.4  cm)](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192285036589)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/57d6d5c1-dcfb-498e-ad90-d88783e6903b.jpg?v=1782916405
     Price: $47.64 USD
   - [A3 (29.7 x 42  cm)](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192285069357)
@@ -290,7 +290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/2336b438-9f01-4679-8c24-c2217133cc35.jpg?v=1782916403
     Price: $37.70 USD
 - [Metallic Souls Dystopian Art Poster with Hanger — Cyberpunk Collection](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2): Elevate your space with our Premium Matte Paper Poster with Hanger. Featuring stunning print quality and modern design, it's perfect for any décor. Shop now to transform your walls!
-  Updated: 2026-07-08T20:49:59Z
+  Updated: 2026-07-21T11:04:44Z
   Vendor: LIVING METAL
   Product Type: Print on demand
   Availability: Available
@@ -356,15 +356,15 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/1fbed60d-36e3-4f64-98f2-37d8338cf23e.jpg?v=1735746464
     Price: $44.48 USD
   - [A2 (42 x 59.4  cm)](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2?variant=43196849029165)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/a1ac5dad-8588-4398-92b6-91078afffa42.jpg?v=1735746458
     Price: $47.64 USD
   - [45x45 cm / 18x18″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2?variant=43196849061933)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/85b6399f-6410-4715-8503-d2118afe5b49.jpg?v=1735746462
     Price: $46.12 USD
   - [45x60 cm / 18x24″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2?variant=43196849094701)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/a26a7171-5d4e-461d-8106-577a7deb6876.jpg?v=1735746457
     Price: $47.64 USD
   - [50x50 cm / 20x20″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2?variant=43196849127469)
@@ -404,7 +404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/dd83b7f5-f9be-4d08-9056-d55b91adb694.jpg?v=1735746463
     Price: $80.80 USD
 - [Metallic Souls Anna Matrix Poster with Hanger — Dual Hanger Finish](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3): Magnetic hangers that prevent poster damage and allow easy print changes, offering versatile and durable display options: Hanger Material: Durable pine wood. Paper Weight: 200 gsm (80 lb), thickness: 0.22 mm (8.7 mils). Paper Finish: Matte, smooth uncoated finish with a luxurious feel. Sustainable Paper: FSC- materials or equivalent. Available Sizes: 29 sizes in inches (US&CA) and cms (rest of the world). Recommended Use: For indoor display. Learn about paper types and their unique textures and finishes here. No minimum orders, printed and shipped on demand.
-  Updated: 2026-07-11T13:49:09Z
+  Updated: 2026-07-21T11:00:29Z
   Vendor: My Store
   Product Type: Print Material
   Availability: Available
@@ -522,7 +522,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/b3e12f09-eb5f-4e79-9974-2435afaa1fbd.jpg?v=1735749878
     Price: $44.48 USD
   - [45x45 cm / 18x18″ / Black wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861087789)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/c012648b-fc4f-4582-b817-bad602574020.jpg?v=1735749869
     Price: $46.12 USD
   - [45x45 cm / 18x18″ / White wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861120557)
@@ -530,7 +530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/6c722970-78c7-48f2-868e-4d50dfbb8092.jpg?v=1735749887
     Price: $46.12 USD
   - [45x60 cm / 18x24″ / Black wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861153325)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/c9b5d9c0-06f3-4dad-9956-df2d69234613.jpg?v=1735749871
     Price: $47.64 USD
   - [45x60 cm / 18x24″ / White wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861186093)
@@ -609,8 +609,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ca3d1d9d-909e-4495-b48b-bd9de67ae202.jpg?v=1735749877
     Price: $61.56 USD
-- [Metallic Souls Cyberpunk Art — Wooden Framed Matte Poster](https://metallicsouls.myshopify.com/products/premium-matte-paper-wooden-framed-poster): Our sturdy wooden framed posters are printed on heavyweight white matte paper with a smooth, luxurious finish—designed to stand the test of time: Ready-to-hang: Includes hanging kit, ready to hang directly on the wall. Frame Material: Durable pine wood. Frame Measurements: 20-25mm (0.79"-0.98") thick, 10-14mm (0.4"-0.6") wide. Paper Weight: 200 gsm (80 lb), thickness: 0.22 mm (8.7 mils). Paper Finishing: Matte, smooth, non-reflective surface. Protection: Shatterproof plexiglass protects the poster. Sustainable Paper: FSC- materials or equivalent. Available Sizes: 15 sizes in inches (US&CA) and cms (rest of the world). Learn about paper types and their unique textures and finishes here. No minimum orders, printed and shipped on demand.
-  Updated: 2026-07-08T20:49:59Z
+- [Metallic Souls Cyberpunk Art — Wooden Framed Matte Poster](https://metallicsouls.myshopify.com/products/premium-matte-paper-wooden-framed-poster): Metallic Souls Cyberpunk Art — Wooden Framed Matte Poster — collectible artwork inspired by the Metallic Souls cyberpunk sci-fi trilogy, ready to hang in a sturdy pine wood frame. Bring the dystopian Mars saga of Anna Matrix, Nakita, and Sara Bennett to your wall.Our sturdy wooden framed posters are printed on heavyweight white matte paper with a smooth, luxurious finish—designed to stand the test of time: Ready-to-hang: Includes hanging kit, ready to hang directly on the wall. Frame Material: Durable pine wood. Frame Measurements: 20-25mm (0.79"-0.98") thick, 10-14mm (0.4"-0.6") wide. Paper Weight: 200 gsm (80 lb), thickness: 0.22 mm (8.7 mils). Paper Finishing: Matte, smooth, non-reflective surface. Protection: Shatterproof plexiglass protects the poster. Sustainable Paper: FSC- materials or equivalent. Available Sizes: 15 sizes in inches (US&CA) and cms (rest of the world). Learn about paper types and their unique textures and finishes here. No minimum orders, printed and shipped on demand.New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
+  Updated: 2026-07-18T01:48:45Z
   Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
@@ -1333,7 +1333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/dff2bf34-4300-4d60-ba13-15ed800a6484.jpg?v=1735837032
     Price: $23.10 USD
 - [Metallic Souls Logo Tee — Gildan Ultra Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metal1): Rep the Metallic Souls universe with the LIVING METAL Logo Tee — a bold cyberpunk graphic t-shirt for fans of sci-fi, dystopian art, and indie brands. Made from 100% USA cotton on a Gildan G200 Ultra Cotton frame. Available in multiple colors and sizes S–5XL. Ship-on-demand, no minimum order required.
-  Updated: 2026-07-08T20:50:18Z
+  Updated: 2026-07-18T02:45:54Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -1523,7 +1523,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12636083_f_G200_77_f.jpg?v=1776481311
     Price: $17.90 USD
 - [Metallic Souls White Edition Tee — Gildan Ultra Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metallic-2): The Metallic Souls White Edition Tee brings clean cyberpunk style to your wardrobe. Original LIVING METAL universe artwork on a heavyweight Gildan G200 Ultra Cotton frame — 100% USA cotton, sizes S–5XL. A fan-favorite for sci-fi and indie brand lovers. Printed and shipped on demand.
-  Updated: 2026-07-08T20:50:18Z
+  Updated: 2026-07-16T19:00:35Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -1713,7 +1713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12636374_f_G200_51_f.jpg?v=1776483223
     Price: $17.90 USD
 - [Metallic Souls Brushed Twill Cap — Port & Company Baseball Hat](https://metallicsouls.myshopify.com/products/metal-hat-2): Top off your cyberpunk look with the Metallic Souls Brushed Twill Cap — a structured mid-profile baseball hat featuring original LIVING METAL universe artwork. Made from 100% cotton twill by Port & Company. Available in multiple colors, one size fits most. A bold accessory for sci-fi fans and streetwear enthusiasts.
-  Updated: 2026-07-15T18:43:53Z
+  Updated: 2026-07-20T20:34:29Z
   Vendor: LIVING METAL
   Product Type: Accessories
   Availability: Available
@@ -1742,8 +1742,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640510_f_CP82_c6cf_f.jpg?v=1776555030
     Price: $14.91 USD
-- [Metallic Souls Mask Series Tee — Port & Company Core Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metal-mask1): Product: Port & Company PC54 Port & Company ® - Core Cotton Tee. PC54 5.4 oz., 100% cotton 90/10 cotton/poly (Athletic Heather) 50/50 cotton/poly (Neon Blue, Neon Green, Neon Orange, Neon Pink, Neon Yellow, Dark Heather Grey, Heather Athletic Maroon, Heather Purple, Heather Navy, Heather Red, Heather Royal, Heather Sangria, Heather Dark Chocolate Brown, Graphite Heather) 98/2 cotton/poly (Ash) Removable tag for comfort and relabeling Size Chest S 35-37" M 38-40" L 41-43" XL 44-46" 2XL 47-49" 3XL 50-53" 4XL 54-57" 5XL 58-60" 6XL 61-63"
-  Updated: 2026-07-08T20:50:19Z
+- [Metallic Souls Mask Series Tee — Port & Company Core Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metal-mask1): Metallic Souls Mask Series Tee — wearable art from the Metallic Souls cyberpunk sci-fi universe. Original LIVING METAL graphic design inspired by the dystopian Mars saga of Anna Matrix, Nakita, and Sara Bennett, printed on a soft Port & Company Core Cotton tee.Product: Port & Company PC54 Port & Company ® - Core Cotton Tee. PC54 5.4 oz., 100% cotton 90/10 cotton/poly (Athletic Heather) 50/50 cotton/poly (Neon Blue, Neon Green, Neon Orange, Neon Pink, Neon Yellow, Dark Heather Grey, Heather Athletic Maroon, Heather Purple, Heather Navy, Heather Red, Heather Royal, Heather Sangria, Heather Dark Chocolate Brown, Graphite Heather) 98/2 cotton/poly (Ash) Removable tag for comfort and relabeling Size Chest S 35-37" M 38-40" L 41-43" XL 44-46" 2XL 47-49" 3XL 50-53" 4XL 54-57" 5XL 58-60" 6XL 61-63" New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
+  Updated: 2026-07-18T01:47:39Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -1948,8 +1948,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640535_f_PC54_25dc_f.jpg?v=1776555311
     Price: $15.42 USD
-- [Metallic Souls Mask 2 Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/mask2): Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit Size Body length Body width Sleeve length S 28" 18" 7.5" M 29" 20" 7.75" L 30" 22" 9.25" XL 31" 24" 10" 2XL 32" 26" 10.75" 3XL 33" 28" 11.43" 4XL 34" 30" 12.12" 5XL 35" 32" 12.69"
-  Updated: 2026-07-08T20:50:19Z
+- [Metallic Souls Mask 2 Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/mask2): Metallic Souls Mask 2 Tee — part of the Mask series graphic tees from the Metallic Souls cyberpunk sci-fi universe. Original LIVING METAL artwork on a classic-fit Gildan cotton tee, made for fans of the dystopian Mars saga.Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
+  Updated: 2026-07-18T01:47:45Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -2130,8 +2130,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640593_f_G500_bk_f.jpg?v=1776555979
     Price: $15.19 USD
-- [Metallic Souls X1 Series Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metal-x1): Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit
-  Updated: 2026-07-15T19:35:16Z
+- [Metallic Souls X1 Series Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metal-x1): Metallic Souls X1 Series Tee — original LIVING METAL graphic art from the Metallic Souls cyberpunk sci-fi trilogy, printed on a classic-fit Gildan cotton tee. Rep the Mars-set saga of buried conspiracies and hidden power.Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
+  Updated: 2026-07-18T01:47:55Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -2308,8 +2308,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640776_f_G500_aq_f.jpg?v=1776558153
     Price: $14.19 USD
-- [Metallic Souls Neon Epic Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/neon-epic-1): Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit
-  Updated: 2026-07-08T20:50:19Z
+- [Metallic Souls Neon Epic Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/neon-epic-1): Metallic Souls Neon Epic Tee — bold neon-cyberpunk graphic art from the Metallic Souls universe, on a classic-fit Gildan cotton tee. Inspired by the dystopian Mars sci-fi saga and the Living Metal Program at its core.Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
+  Updated: 2026-07-18T01:47:53Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -2506,8 +2506,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12641195_f_G500_51_f.jpg?v=1776563054
     Price: $16.19 USD
-- [Metallic Souls Mask 2 Ultra Cotton Tee — Gildan G200](https://metallicsouls.myshopify.com/products/mask-2): Product: Gildan G200  Ultra Cotton 6 oz. T-Shirt 6 oz. 100% USA cotton Heathers and Safety colors are 50/50 Ash Grey is 99/1; Sport Grey & Antiques are 90/10 Made with sustainably and fairly grown USA cotton Tear away label Non-topstitched, classic width, rib collar Double-needle sleeve and bottom hem Seamless double-needle 7/8" collar Taped neck and shoulders Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Gildan's manufacturing process utilizes 45% renewable energy
-  Updated: 2026-07-08T20:50:19Z
+- [Metallic Souls Mask 2 Ultra Cotton Tee — Gildan G200](https://metallicsouls.myshopify.com/products/mask-2): Metallic Souls Mask 2 Ultra Cotton Tee — heavyweight 6oz Gildan Ultra Cotton tee featuring original LIVING METAL artwork from the Metallic Souls cyberpunk sci-fi trilogy.Product: Gildan G200  Ultra Cotton 6 oz. T-Shirt 6 oz. 100% USA cotton Heathers and Safety colors are 50/50 Ash Grey is 99/1; Sport Grey & Antiques are 90/10 Made with sustainably and fairly grown USA cotton Tear away label Non-topstitched, classic width, rib collar Double-needle sleeve and bottom hem Seamless double-needle 7/8" collar Taped neck and shoulders Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Gildan's manufacturing process utilizes 45% renewable energy New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
+  Updated: 2026-07-18T01:48:30Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -2696,8 +2696,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12645865_f_G200_51_f.jpg?v=1776636391
     Price: $17.90 USD
-- [Metallic Souls Mask 3 Ultra Cotton Tee — Gildan G200](https://metallicsouls.myshopify.com/products/mask3): Product: Gildan G200  Ultra Cotton 6 oz. T-Shirt 6 oz. 100% USA cotton Heathers and Safety colors are 50/50 Ash Grey is 99/1; Sport Grey & Antiques are 90/10 Made with sustainably and fairly grown USA cotton Tear away label Non-topstitched, classic width, rib collar Double-needle sleeve and bottom hem Seamless double-needle 7/8" collar Taped neck and shoulders Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Gildan's manufacturing process utilizes 45% renewable energy
-  Updated: 2026-07-15T03:42:21Z
+- [Metallic Souls Mask 3 Ultra Cotton Tee — Gildan G200](https://metallicsouls.myshopify.com/products/mask3): Metallic Souls Mask 3 Ultra Cotton Tee — heavyweight 6oz Gildan Ultra Cotton tee featuring original LIVING METAL artwork from the Metallic Souls cyberpunk sci-fi trilogy, set on a dystopian future Mars.Product: Gildan G200  Ultra Cotton 6 oz. T-Shirt 6 oz. 100% USA cotton Heathers and Safety colors are 50/50 Ash Grey is 99/1; Sport Grey & Antiques are 90/10 Made with sustainably and fairly grown USA cotton Tear away label Non-topstitched, classic width, rib collar Double-needle sleeve and bottom hem Seamless double-needle 7/8" collar Taped neck and shoulders Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Gildan's manufacturing process utilizes 45% renewable energy New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
+  Updated: 2026-07-18T01:48:00Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -2886,8 +2886,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12645937_f_G200_77_f.jpg?v=1776636990
     Price: $17.90 USD
-- [Metallic Souls Evolution Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/evolution-1): Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit
-  Updated: 2026-07-14T20:53:53Z
+- [Metallic Souls Evolution Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/evolution-1): Metallic Souls Evolution Tee — original LIVING METAL graphic art from the Metallic Souls cyberpunk sci-fi universe, printed on a classic-fit Gildan cotton tee.Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
+  Updated: 2026-07-18T01:48:04Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -3065,7 +3065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12646110_f_G500_aq_f.jpg?v=1776638339
     Price: $14.19 USD
 - [Mask soul 1](https://metallicsouls.myshopify.com/products/mask-soul-1): Product: Gildan G640  Softstyle 4.5 oz. T-Shirt 4.5 oz. 100% preshrunk ringspun cotton jersey Sport Grey and Antique colors: 90% cotton, 10% polyester Graphite Heather: 50% cotton, 50% polyester All other Heather colors: 65% polyester, 35% cotton Seamless double-needle 3/4" collar Modern classic fit High stitch density for smoother printing surface Taped neck and shoulders Rolled forward shoulder Double-needle sleeve and bottom hem Tubular fit for minimal torque Tear away label
-  Updated: 2026-07-08T20:50:20Z
+  Updated: 2026-07-16T21:55:48Z
   Vendor: LIVING METAL
   Product Type: 
   Availability: Available
@@ -3238,232 +3238,28 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12650459_f_G640_bn_f.jpg?v=1776703355
     Price: $15.92 USD
-- [Meds Mask 1](https://metallicsouls.myshopify.com/products/meds-mask-1): Product: Gildan G200  Ultra Cotton 6 oz. T-Shirt 6 oz. 100% USA cotton Heathers and Safety colors are 50/50 Ash Grey is 99/1; Sport Grey & Antiques are 90/10 Made with sustainably and fairly grown USA cotton Tear away label Non-topstitched, classic width, rib collar Double-needle sleeve and bottom hem Seamless double-needle 7/8" collar Taped neck and shoulders Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Gildan's manufacturing process utilizes 45% renewable energy
-  Updated: 2026-07-15T14:12:47Z
-  Vendor: LIVING METAL
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_00_f.jpg?v=1776738669
-  - [WHITE / S](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858419839021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_00_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [WHITE / M](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858419871789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_00_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [WHITE / L](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858419904557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_00_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [WHITE / XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858419937325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_00_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [WHITE / 2XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858419970093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_00_f.jpg?v=1776738669
-    Price: $14.90 USD
-  - [WHITE / 3XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420002861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_00_f.jpg?v=1776738669
-    Price: $15.90 USD
-  - [WHITE / 4XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420035629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_00_f.jpg?v=1776738669
-    Price: $16.90 USD
-  - [WHITE / 5XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420068397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_00_f.jpg?v=1776738669
-    Price: $17.90 USD
-  - [ORCHID / S](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420101165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_34_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ORCHID / M](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420133933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_34_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ORCHID / L](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420166701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_34_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ORCHID / XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420199469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_34_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ORCHID / 2XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420232237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_34_f.jpg?v=1776738669
-    Price: $14.90 USD
-  - [ORCHID / 3XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420265005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_34_f.jpg?v=1776738669
-    Price: $15.90 USD
-  - [LIGHT BLUE / S](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420297773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_64_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [LIGHT BLUE / M](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420330541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_64_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [LIGHT BLUE / L](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420363309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_64_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [LIGHT BLUE / XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420396077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_64_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [LIGHT BLUE / 2XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420428845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_64_f.jpg?v=1776738669
-    Price: $14.90 USD
-  - [LIGHT BLUE / 3XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420461613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_64_f.jpg?v=1776738669
-    Price: $15.90 USD
-  - [LIGHT BLUE / 4XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420494381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_64_f.jpg?v=1776738669
-    Price: $16.90 USD
-  - [LIGHT BLUE / 5XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420527149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_64_f.jpg?v=1776738669
-    Price: $17.90 USD
-  - [ICE GREY / S](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420559917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_23_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ICE GREY / M](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420592685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_23_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ICE GREY / L](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420625453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_23_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ICE GREY / XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420658221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_23_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ICE GREY / 2XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420690989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_23_f.jpg?v=1776738669
-    Price: $14.90 USD
-  - [ICE GREY / 3XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420723757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_23_f.jpg?v=1776738669
-    Price: $15.90 USD
-  - [CORNSILK / S](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420756525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_bn_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [CORNSILK / M](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420789293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_bn_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [CORNSILK / L](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420822061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_bn_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [CORNSILK / XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420854829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_bn_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [CORNSILK / 2XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420887597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_bn_f.jpg?v=1776738669
-    Price: $14.90 USD
-  - [CORNSILK / 3XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420920365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_bn_f.jpg?v=1776738669
-    Price: $15.90 USD
-  - [ASH / S](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420953133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_50_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ASH / M](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858420985901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_50_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ASH / L](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858421018669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_50_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ASH / XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858421051437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_50_f.jpg?v=1776738669
-    Price: $13.90 USD
-  - [ASH / 2XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858421084205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_50_f.jpg?v=1776738669
-    Price: $14.90 USD
-  - [ASH / 3XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858421116973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_50_f.jpg?v=1776738669
-    Price: $15.90 USD
-  - [ASH / 4XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858421149741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_50_f.jpg?v=1776738669
-    Price: $16.90 USD
-  - [ASH / 5XL](https://metallicsouls.myshopify.com/products/meds-mask-1?variant=44858421182509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654624_f_G200_50_f.jpg?v=1776738669
-    Price: $17.90 USD
-- [Metallic Souls Red Five-Panel Cap — Port & Company Twill Hat](https://metallicsouls.myshopify.com/products/red-mask-1): Product: Port & Company CP86 Port & Company ® Five-Panel Twill Cap. CP86 Fabric: 100% cotton twill Structure: Structured Profile: High Closure: Hook and loop
-  Updated: 2026-07-14T12:38:09Z
-  Vendor: LIVING METAL
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654723_f_CP86_3495_f.jpg?v=1776739478
-  - [White / ONE SIZE](https://metallicsouls.myshopify.com/products/red-mask-1?variant=44858429964333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654723_f_CP86_3495_f.jpg?v=1776739478
-    Price: $14.09 USD
-  - [Royal / ONE SIZE](https://metallicsouls.myshopify.com/products/red-mask-1?variant=44858429997101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654723_f_CP86_1c0f_f.jpg?v=1776739478
-    Price: $14.09 USD
-  - [Red / ONE SIZE](https://metallicsouls.myshopify.com/products/red-mask-1?variant=44858430029869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654723_f_CP86_ba19_f.jpg?v=1776739478
-    Price: $14.09 USD
-  - [Khaki / ONE SIZE](https://metallicsouls.myshopify.com/products/red-mask-1?variant=44858430062637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654723_f_CP86_1e34_f.jpg?v=1776739478
-    Price: $14.09 USD
-  - [Charcoal / ONE SIZE](https://metallicsouls.myshopify.com/products/red-mask-1?variant=44858430095405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654723_f_CP86_2632_f.jpg?v=1776739478
-    Price: $14.09 USD
-  - [Black / ONE SIZE](https://metallicsouls.myshopify.com/products/red-mask-1?variant=44858430128173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12654723_f_CP86_c6cf_f.jpg?v=1776739478
-    Price: $14.09 USD
-[List Continued](https://metallicsouls.myshopify.com/a/llms-agent/llms.txt?shop=z54ykh-bz.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NDc3MDUxNzgxMTY1LCJsYXN0X3ZhbHVlIjoiODQ3NzA1MTc4MTE2NSJ9)
+[List Continued](https://metallicsouls.myshopify.com/a/llms-agent/llms.txt?shop=z54ykh-bz.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NDc2NDYzNDY0NDkzLCJsYXN0X3ZhbHVlIjoiODQ3NjQ2MzQ2NDQ5MyJ9)
 
 ## Collections
 
 - [Books & E-books](https://metallicsouls.myshopify.com/collections/frontpage): Discover the Metallic Souls trilogy by Matthew Harrington. A gripping sci-fi saga set on Mars featuring Anna Matrix, Sara Bennett, and Nakita. Start reading today.
-  Updated: 2026-07-12T18:59:07Z
+  Updated: 2026-07-17T13:48:56Z
   Total Products: 3
-- [Patriotic Collection](https://metallicsouls.myshopify.com/collections/happy-fourth-of-july-merchandise): Patriotic T-shirts, posters, and accessories featuring bold American designs. Perfect for Fourth of July and year-round American pride. Shop Living Metal now.
+- [Patriotic Collection](https://metallicsouls.myshopify.com/collections/patriotic-collection): Patriotic T-shirts, posters, and accessories featuring bold original American designs. Stars and Stripes and military inspired artwork from LIVING METAL. Shop now.
   Updated: 2026-07-13T15:54:36Z
   Total Products: 33
 - [Posters & Wall Art](https://metallicsouls.myshopify.com/collections/unique-posters-and-t-shirts): Original sci-fi, cyberpunk, fantasy, and patriotic wall art and posters. Premium quality prints for any space. Unique designs you won't find anywhere else.
-  Updated: 2026-07-15T03:12:47Z
-  Total Products: 10
+  Updated: 2026-07-22T04:32:48Z
+  Total Products: 19
 - [Sci-Fi & Cyberpunk](https://metallicsouls.myshopify.com/collections/sci-fi-fantasy-posters): Original sci-fi and cyberpunk T-shirts, posters, and phone cases inspired by the Metallic Souls universe. Bold futuristic designs for true fans.
-  Updated: 2026-07-15T03:12:47Z
-  Total Products: 15
+  Updated: 2026-07-22T03:57:15Z
+  Total Products: 26
 - [Phone Cases](https://metallicsouls.myshopify.com/collections/express-your-style-phone-case-cases): Premium tough phone cases featuring original sci-fi, cyberpunk, fantasy, and humor designs. Shockproof protection with bold style. Shop Living Metal cases now.
-  Updated: 2026-07-13T14:18:21Z
-  Total Products: 54
+  Updated: 2026-07-21T18:17:50Z
+  Total Products: 56
 - [Metallic Souls Merchandise](https://metallicsouls.myshopify.com/collections/metallic-souls-merchandise): Official Metallic Souls merchandise including T-shirts, posters, and phone cases. Exclusive designs inspired by the sci-fi trilogy. Shop the collection today.
-  Updated: 2026-07-15T03:21:50Z
-  Total Products: 18
+  Updated: 2026-07-22T03:57:15Z
+  Total Products: 35
 - [AI & Technology E-books](https://metallicsouls.myshopify.com/collections/ai-technology-e-books): Discover AI and technology e-books by Kyan Zackron. Learn ChatGPT, monetize AI skills,  smarter, and build online businesses. Available on Amazon Kindle now.
   Updated: 2026-07-12T18:42:01Z
   Total Products: 19
@@ -3471,11 +3267,11 @@
   Updated: 2026-07-12T19:56:07Z
   Total Products: 5
 - [Accessories & Gifts](https://metallicsouls.myshopify.com/collections/accessories-gifts): Unique keychains, scented candles, and gifts featuring original sci-fi and fantasy designs. Perfect stocking stuffers and collectibles. Shop Living Metal.
-  Updated: 2026-07-13T16:29:02Z
-  Total Products: 14
+  Updated: 2026-07-21T18:17:59Z
+  Total Products: 19
 - [Unique Clothing Design](https://metallicsouls.myshopify.com/collections/unique-clothing-design): - LIVING METAL
-  Updated: 2026-07-13T02:21:32Z
-  Total Products: 49
+  Updated: 2026-07-21T18:18:08Z
+  Total Products: 54
 
 ## Blogs
 
@@ -3492,6 +3288,30 @@
     Updated: 2026-07-15T15:00:05Z
     Author: Matthew Harrington
     Tags: Anna Matrix, character introduction, cyberpunk books, female lead sci fi, mars sci fi, Metallic Souls series, Science fiction
+  - [Who Is Sara Bennett? The 'Normal Girl' Who Is Anything But](https://metallicsouls.myshopify.com/blogs/news/who-is-sara-bennett-the-normal-girl-who-is-anything-but): She didn't come looking for a fight — but she's not backing down from one either. An introduction to Sara Bennett, the second heroine of Metallic Souls.
+    Updated: 2026-07-17T15:00:05Z
+    Author: Matthew Harrington
+    Tags: character introduction, cyberpunk books, female lead sci fi, Metallic Souls series, Sara Bennett, Science fiction
+  - [Levia and the Promise: The Dream Haunting Metallic Souls](https://metallicsouls.myshopify.com/blogs/news/levia-and-the-promise-the-dream-haunting-metallic-souls): "What do you see when you close your eyes?" The recurring dream at the heart of Metallic Souls — and the question that connects 2145 to Mars.
+    Updated: 2026-07-20T15:00:05Z
+    Author: Matthew Harrington
+    Tags: book teaser, dystopian fiction, Living Metal, Metallic Souls series, sci fi mystery, Science fiction
+  - [The Symbol Anna Can't Stop Drawing](https://metallicsouls.myshopify.com/blogs/news/the-symbol-anna-cant-stop-drawing): A warped T fused with a reversed C, a pulsing dot at the center — drawn again and again by a hand that moves on its own. What does it mean?
+    Updated: 2026-07-22T15:00:06Z
+    Author: Matthew Harrington
+    Tags: book teaser, CTC, dystopian fiction, Metallic Souls series, sci fi artwork, sci fi conspiracy, Science fiction
+  - [What Is Cyberpunk Art? A Complete Guide to the Neon Dystopia Aesthetic](https://metallicsouls.myshopify.com/blogs/news/what-is-cyberpunk-art): <p>Cyberpunk art is high technology set inside social decay: neon light against deep shadow, vertical cities, rain on glass, and bodies rebuilt with machinery. Here is where the style came from, how to recognize it, and how it differs from steampunk and every other punk aesthetic.</p>
+    Updated: 2026-07-22T20:44:59Z
+    Author: Kyan Zackron
+    Tags: art guide, cyberpunk aesthetic, cyberpunk art, dystopian art, neon art, science fiction art, steampunk, wall art
+  - [Cyberpunk Room Decor: How to Build the Aesthetic Without It Looking Like a Dorm](https://metallicsouls.myshopify.com/blogs/news/cyberpunk-room-decor-guide): <p>Most cyberpunk rooms fail because people add neon before they remove light. Here is the lighting logic, the two color palette rule, how to choose and hang wall art, and a realistic budget breakdown from under 100 dollars up.</p>
+    Updated: 2026-07-22T20:52:19Z
+    Author: Kyan Zackron
+    Tags: cyberpunk aesthetic, cyberpunk decor, cyberpunk room, interior design, neon decor, poster guide, room decor ideas, wall art
+  - [The Best Cyberpunk Books: A Reading List From Neuromancer to Now](https://metallicsouls.myshopify.com/blogs/news/best-cyberpunk-books): <p>The cyberpunk books worth your time, from the 1984 novel that named the genre through the 2025 bestseller bringing new readers in. Organized by what you actually want out of it: ideas, action, prose, or something written this decade.</p>
+    Updated: 2026-07-22T20:58:15Z
+    Author: Kyan Zackron
+    Tags: book recommendations, cyberpunk, cyberpunk books, cyberpunk novels, Neuromancer, reading list, science fiction books, William Gibson
 
 ## Store Pages
 
@@ -3503,8 +3323,8 @@
   Updated: 2025-01-01T22:00:25Z
 - [About LIVING METAL](https://metallicsouls.myshopify.com/pages/about-living-metal): Welcome to the Metallic Souls UniverseLIVING METAL is an indie cyberpunk and sci-fi brand born from a love of dark art, dystopian storytelling, and...
   Updated: 2026-07-05T21:05:11Z
-- [FAQ](https://metallicsouls.myshopify.com/pages/faq): Frequently Asked QuestionsOrders & ShippingHow long does shipping take?Most orders are printed and shipped within 3-5 business days. Standard shipp...
-  Updated: 2026-07-05T21:05:28Z
+- [FAQ](https://metallicsouls.myshopify.com/pages/faq): Metallic Souls FAQEverything about the LIVING METAL storefront, the Metallic Souls series, our cyberpunk artwork, and how ordering works. Cannot fi...
+  Updated: 2026-07-22T19:44:04Z
 
 ## Policies
 
