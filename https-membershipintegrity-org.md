@@ -6,51 +6,51 @@
 - Timezone: America/New_York
 - Created At: 2026-06-26T10:06:58Z
 - Contact Email: larolyn.young@gmail.com
-- Updated At: 2026-07-11T00:00:32.491Z
+- Updated At: 2026-07-25T00:00:35.889Z
 
 ## Products
 
 - [Pre-Applicant Member Screening | Membership Integrity](https://membershipintegrity.org/products/pre-applicant-member-screening): Screen membership candidates before they're accepted — not after. FCRA-compliant pre-applicant background screening at $39.99. Results in 1–3 business days.
-  Updated: 2026-07-08T01:49:11Z
+  Updated: 2026-07-20T22:15:08Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/pre-applicant-member-screening_1310db61-0409-4d0d-91b6-af17bb264d92.png?v=1783437256
+  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/new-member-screening-6426578.png?v=1784585707
   Price: $27.95 USD
 - [Volunteer Background Check | Membership Integrity](https://membershipintegrity.org/products/volunteer-background-check): Screen volunteers before they serve your organization. Fast, affordable background checks for churches, nonprofits, and fraternal organizations.
-  Updated: 2026-07-07T15:15:34Z
+  Updated: 2026-07-20T22:15:08Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/volunteer-background-check.png?v=1783437260
+  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/volunteer-background-check-2755100.png?v=1784585707
   Price: $19.99 USD
 - [Annual Renewal Screening | Membership Integrity](https://membershipintegrity.org/products/annual-renewal-screening): Re-screen your members annually to maintain safety standards. Membership Integrity's renewal screening keeps your organization protected year after year.
-  Updated: 2026-07-08T02:38:58Z
+  Updated: 2026-07-20T22:15:08Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/annual-renewal-screening.png?v=1783437262
+  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/annual-membership-renewal-screening-2832573.png?v=1784585707
   Price: $13.95 USD
 - [Driver Record Review | Membership Integrity](https://membershipintegrity.org/products/driver-record-review): Verify driving records for anyone transporting members or youth on behalf of your organization. Protect your community with a Driver Record Review.
-  Updated: 2026-07-07T15:16:17Z
+  Updated: 2026-07-20T22:15:08Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/driver-record-review.png?v=1783437263
+  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/driver-record-review-2427874.png?v=1784585707
   Price: $29.99 USD
 - [Leadership Screening | Membership Integrity](https://membershipintegrity.org/products/leadership-screening): Thoroughly vet officers, board members, and key leaders in your organization. Membership Integrity's Leadership Screening provides deeper due diligence.
-  Updated: 2026-07-08T02:41:41Z
+  Updated: 2026-07-20T22:15:08Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/leadership-screening.png?v=1783437265
+  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/leadership-screening-7932320.png?v=1784585707
   Price: $64.95 USD
 - [Vendor Screening | Membership Integrity](https://membershipintegrity.org/products/vendor-screening): Screen vendors and contractors before they access your events or facilities. Membership Integrity's Vendor Screening protects your organization and members.
-  Updated: 2026-07-07T15:17:27Z
+  Updated: 2026-07-20T22:15:08Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/vendor-screening.png?v=1783437267
+  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/vendor-screening-4724646.png?v=1784585707
   Price: $19.99 USD
 - [Youth Worker Screening | Membership Integrity](https://membershipintegrity.org/products/youth-worker-screening): The most thorough screening for anyone working with minors. Protect the youth in your organization with Membership Integrity's Youth Worker Screening.
   Updated: 2026-07-01T03:30:45Z
@@ -78,7 +78,7 @@
 
 - [News](https://membershipintegrity.org/blogs/news)
   - [The Benefits of Starting a Membership Program Today](https://membershipintegrity.org/blogs/news/the-benefits-of-starting-a-membership-program-today): The Benefits of Starting a Membership Program Today
-    Updated: 2026-06-26T22:01:50Z
+    Updated: 2026-07-20T22:14:07Z
     Author: User
   - [Why Every Fraternity Needs a Background Screening Program](https://membershipintegrity.org/blogs/news/why-every-fraternity-needs-a-background-screening-program): Why Every Fraternity Needs a Background Screening Program
     Updated: 2026-06-27T16:58:32Z
@@ -99,36 +99,54 @@
     Updated: 2026-06-27T17:26:19Z
     Author: Dr. Larolyn Young
   - [7 Key Practices for Maintaining Membership Integrity](https://membershipintegrity.org/blogs/news/7-key-practices-for-maintaining-membership-integrity): 7 Key Practices for Maintaining Membership Integrity
-    Updated: 2026-06-28T00:30:25Z
+    Updated: 2026-07-20T22:14:09Z
     Author: User
   - [How to Navigate Common Challenges in Membership Organizations](https://membershipintegrity.org/blogs/news/how-to-navigate-common-challenges-in-membership-organizations): How to Navigate Common Challenges in Membership Organizations
-    Updated: 2026-06-30T00:49:58Z
+    Updated: 2026-07-20T22:14:10Z
     Author: User
   - [Maximizing Non-Dues Revenue for Fraternal Organizations](https://membershipintegrity.org/blogs/news/maximizing-non-dues-revenue-for-fraternal-organizations): Maximizing Non-Dues Revenue for Fraternal Organizations
-    Updated: 2026-07-02T00:53:17Z
+    Updated: 2026-07-20T22:14:12Z
     Author: User
   - [Effective Governance Strategies for Membership Organizations](https://membershipintegrity.org/blogs/news/effective-governance-strategies-for-membership-organizations): Effective Governance Strategies for Membership Organizations
-    Updated: 2026-07-05T00:24:55Z
+    Updated: 2026-07-20T22:14:13Z
     Author: User
   - [Ensuring Membership Integrity: Best Practices for Organizations](https://membershipintegrity.org/blogs/news/ensuring-membership-integrity-best-practices-for-organizations): Ensuring Membership Integrity: Best Practices for Organizations
-    Updated: 2026-07-07T00:44:07Z
+    Updated: 2026-07-20T22:14:15Z
     Author: User
   - [Top Challenges in Volunteer Screening and How to Overcome Them](https://membershipintegrity.org/blogs/news/top-challenges-in-volunteer-screening-and-how-to-overcome-them): Top Challenges in Volunteer Screening and How to Overcome Them
-    Updated: 2026-07-09T00:52:11Z
+    Updated: 2026-07-20T22:14:17Z
+    Author: User
+  - [Understanding Risk Management for Fraternal Organizations](https://membershipintegrity.org/blogs/news/understanding-risk-management-for-fraternal-organizations): Understanding Risk Management for Fraternal Organizations
+    Updated: 2026-07-20T22:14:18Z
+    Author: User
+  - [A Comprehensive Guide to Enhancing Voluntary Screening Processes](https://membershipintegrity.org/blogs/news/a-comprehensive-guide-to-enhancing-voluntary-screening-processes): A Comprehensive Guide to Enhancing Voluntary Screening Processes
+    Updated: 2026-07-20T22:14:19Z
+    Author: User
+  - [Unraveling the Complexity of Non-Dues Revenue Generation](https://membershipintegrity.org/blogs/news/unraveling-the-complexity-of-non-dues-revenue-generation): Unraveling the Complexity of Non-Dues Revenue Generation
+    Updated: 2026-07-20T22:14:21Z
+    Author: User
+  - [The Role of Governance in Maintaining Membership Integrity](https://membershipintegrity.org/blogs/news/the-role-of-governance-in-maintaining-membership-integrity): The Role of Governance in Maintaining Membership Integrity
+    Updated: 2026-07-20T22:14:22Z
+    Author: User
+  - [Volunteer Screening Checklist: Tips for Safe Membership](https://membershipintegrity.org/blogs/news/volunteer-screening-checklist-tips-for-safe-membership): Volunteer Screening Checklist: Tips for Safe Membership
+    Updated: 2026-07-21T00:44:41Z
+    Author: User
+  - [Why Risk Management is Critical for Fraternal Organizations](https://membershipintegrity.org/blogs/news/why-risk-management-is-critical-for-fraternal-organizations): Why Risk Management is Critical for Fraternal Organizations
+    Updated: 2026-07-23T13:47:07Z
     Author: User
 
 ## Store Pages
 
-- [Contact Membership Integrity — Schedule a Partnership Consultation](https://membershipintegrity.org/pages/contact): Let's TalkWhether you're ready to protect your members, curious about the Partner Program, or just have a question — we want to hear from you. We'r...
-  Updated: 2026-07-08T17:59:33Z
+- [Contact Membership Integrity — Schedule a Partnership Consultation](https://membershipintegrity.org/pages/contact): Let's Talk Whether you're ready to protect your members, curious about the Partner Program, or just have a question — we want to hear from you. We'...
+  Updated: 2026-07-20T22:25:54Z
 - [Your Privacy Choices | Membership Integrity](https://membershipintegrity.org/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-06-28T10:49:43Z
 - [Become a Partner — Membership Integrity Partner Program](https://membershipintegrity.org/pages/become-a-partner): More Than Screening — A True Partnership Membership Integrity offers organizations a partnership program that goes beyond background screening. As ...
   Updated: 2026-06-27T13:35:14Z
-- [Schedule a Free Demo | Membership Integrity Background Screening](https://membershipintegrity.org/pages/request-a-demo): See Membership Integrity in ActionA 30-minute demo is the fastest way to know whether Membership Integrity is the right fit for your organization. ...
-  Updated: 2026-07-08T18:04:19Z
-- [About Membership Integrity — Background Screening for Membership Organizations](https://membershipintegrity.org/pages/about): Who We Are Membership Integrity is a background screening company with a specific focus: membership-based organizations. We exist because the organ...
-  Updated: 2026-06-27T13:43:02Z
+- [Schedule a Free Demo | Membership Integrity Background Screening](https://membershipintegrity.org/pages/request-a-demo): See Membership Integrity in Action A 30-minute demo is the fastest way to know whether Membership Integrity is the right fit for your organization....
+  Updated: 2026-07-20T22:24:42Z
+- [About Membership Integrity, Background Screening for Membership Organizations](https://membershipintegrity.org/pages/about): Who We Are Membership Integrity is a background screening company with a specific focus: membership-based organizations. We exist because the organ...
+  Updated: 2026-07-20T22:22:02Z
 - [Background Screening Solutions — Membership Integrity](https://membershipintegrity.org/pages/solutions): Comprehensive Background Screening Solutions for Membership OrganizationsIf you're new to background screening — or wondering whether your organiza...
   Updated: 2026-07-08T05:05:15Z
 - [Partner Program — Membership Integrity](https://membershipintegrity.org/pages/partner-program): The Membership Integrity Partner Program Membership Integrity offers more than background screening — we offer a true partnership. Our Partner Prog...
@@ -175,8 +193,8 @@
   Updated: 2026-07-08T04:28:35Z
 - [Youth Worker Screening | Membership Integrity](https://membershipintegrity.org/pages/solutions-youth-worker-screening): ← SolutionsYouth Worker Screening: The Highest Standard of Care for the Most VulnerableIf your organization works with children or teenagers in any...
   Updated: 2026-07-08T04:29:30Z
-- [Why Organizations Choose Membership Integrity | Background Screening](https://membershipintegrity.org/pages/why-membership-integrity): Protect Your Members. Simplify Your Screening Process. Strengthen Your Organization.Most background screening companies were built for employers hi...
-  Updated: 2026-06-28T14:00:21Z
+- [Why Organizations Choose Membership Integrity | Background Screening](https://membershipintegrity.org/pages/why-membership-integrity): Protect Your Members. Simplify Your Screening Process. Strengthen Your Organization. Most background screening companies were built for employers h...
+  Updated: 2026-07-20T22:26:38Z
 - [Screening Pricing | Membership Integrity](https://membershipintegrity.org/pages/pricing): Transparent, Flexible Screening Programs Membership Integrity helps organizations implement secure screening programs with little or no direct scre...
   Updated: 2026-07-08T05:09:18Z
 - [Free Volunteer Screening Policy Template | Membership Integrity](https://membershipintegrity.org/pages/volunteer-screening-policy-template): Get Your Free Volunteer Screening Policy Template — Built for Membership OrganizationsMost membership organizations know they need to screen volunt...
