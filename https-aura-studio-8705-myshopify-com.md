@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-02-18T08:51:38Z
 - Contact Email: sharjeelsdcsdc@gmail.com
-- Updated At: 2026-07-16T00:00:41.724Z
+- Updated At: 2026-07-25T00:00:42.319Z
 
 ## Products
 
 - [Women Oversized Black Leather Bomber Hoodie Jacket](https://aura-studio-8705.myshopify.com/products/women-oversized-black-leather-bomber-hoodie-jacket): Women Oversized Black Leather Bomber Hoodie Jacket • Premium Genuine Leather and Comfortable Fit Firstly, this jacket is crafted from high-quality genuine black leather that offers a rich texture and durable wear. Moreover, the oversized silhouette provides a relaxed, modern streetwear fit. Additionally, the soft cotton-blend gray hoodie insert enhances comfort and warmth, allowing effortless layered styling without bulk. Therefore, it is ideal for everyday wear across seasons. • Modern Streetwear Layered Design Furthermore, the jacket features a contemporary oversized bomber cut with dropped shoulders. This design creates a confident, urban silhouette. Also, the integrated hoodie layer adds depth and a fashion-forward streetwear aesthetic. Hence, it works perfectly for casual, athleisure, and elevated street looks. • Functional and Thoughtful Details Plus, the jacket includes two side pockets for essentials and practicality. Besides that, ribbed hem and cuffs provide classic bomber structure and shape retention. Moreover, durable stitching and clean panel construction ensure long-lasting quality and a premium finish. This jacket is designed to be both stylish and resilient. • Versatile and Easy Styling Additionally, the black and gray layered color combination pairs effortlessly with cargo pants, denim, or joggers. As a result, you can wear it for daily streetwear or statement outfits. For care, wipe clean with a soft damp cloth or opt for professional leather cleaning. However, the premium leather maintains its character and texture over time. Specifications: Material: 100% Genuine Black Leather Hood Insert: Cotton-Blend Gray Hoodie Layer Closure: Front Zipper Fit: Oversized / Relaxed Bomber Cuffs & Hem: Ribbed Elastic Pockets: Two Side Pockets Sleeves: Long with Dropped Shoulders Stitching: Reinforced for Durability Color: Black / Heather Gray Style: Streetwear Leather Bomber Jacket Care Instructions: Spot Clean or Professional Leather Clean Recommended
-  Updated: 2026-05-14T11:13:00Z
+  Updated: 2026-07-18T00:29:32Z
   Vendor: auraleather
   Product Type: Bomber Hoodie Jacket
   Availability: Available
