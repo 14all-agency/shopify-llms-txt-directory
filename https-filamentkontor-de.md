@@ -10,14 +10,14 @@
 - Contact Email: info@filamentkontor.de
 - Contact Phone: 0049 40 33 46 46 05
 - Address: Am Neumarkt 30, 22041 Hamburg Deutschland
-- Updated At: 2026-07-16T00:00:44.089Z
+- Updated At: 2026-07-25T00:00:46.728Z
 
 Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir führen über 500 Produkte von mehr als 15 Marken und versenden aus Hamburg nach ganz Deutschland Unser Sortiment umfasst PLA, PETG, ABS, ASA, TPU, Nylon und Spezialfilamente für FDM-Drucker aller gängigen Hersteller (Bambu Lab, Polymaker / Panchroma, Creality, eSun, Professional Lab, Smart Print, Snapmaker u.a.).
 
 ## Products
 
 - [Sakata 3D ASA – UV- & wetterfestes Filament beim Filamentkontor](https://filamentkontor.de/products/sakata-3d-asa): Sakata 3D ASA beim Filamentkontor: UV-beständig, robust & langlebig. Ideal für Außenanwendungen & funktionale 3D-Druckteile.
-  Updated: 2026-07-08T10:12:06Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: SAKATA 3D
   Product Type: Filament
   Availability: Available
@@ -31,7 +31,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/sakata-3d-asa-175mm-1999904.webp?v=1770584387
     Price: 24,95 € EUR
 - [Sakata 3D PLA 850 Glass – Transparentes PLA beim Filamentkontor](https://filamentkontor.de/products/sakata-3d-pla-850-glas): Sakata 3D PLA 850 Glass beim Filamentkontor: stark, präzise & glasähnlich transparent. Ideal für dekorative & funktionale 3D-Drucke.
-  Updated: 2026-07-08T10:12:10Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: SAKATA 3D
   Product Type: Filament
   Availability: Available
@@ -61,21 +61,21 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/SAKATA_3D_SAKATA_3D_PLA_850_GLAS_Filament_da91c126b028a9beb87df6cd98e74475.webp?v=1770584345
     Price: 22,95 € EUR
 - [3DLAC Stick 80 ml – Haftstift für sicheren 3D-Druck](https://filamentkontor.de/products/3dlac-stick-80-ml-haftstift-fur-3d-druck): 3DLAC Stick 80 ml bietet saubere Haftung für perfekte 3D-Drucke. Ideal mit alkoholfreiem Kleber, sicher und umweltfreundlich.
-  Updated: 2026-07-08T10:12:09Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: 3DLAC
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/3DLAC_3DLAC_Stick_80_ml__Haftstift_fr_3D-Druck__Zubehr_62d0167e-86b4-45c8-8fab-1b470dee6b05.webp?v=1765957864
   Price: 7,95 € EUR
-- [dichtol AM Hydro 250 ml – Wasserbasierte Versiegelung](https://filamentkontor.de/products/diamant-polymer-dichtol-am-hydro): dichtol AM Hydro 250 ml ist eine wasserbasierte Versiegelung für 3D-Druckteile, die vor Flüssigkeiten und Umwelteinflüssen schützt.
-  Updated: 2026-07-15T17:15:36Z
+- [DIAMANT Polymer dichtol AM Hydro 250 ml – Wasserbasierte Versiegelung](https://filamentkontor.de/products/diamant-polymer-dichtol-am-hydro): DIAMANT Polymer dichtol AM Hydro 250 ml ist eine wasserbasierte Versiegelung für 3D-Druckteile, die vor Flüssigkeiten und Umwelteinflüssen schützt.
+  Updated: 2026-07-24T17:08:46Z
   Vendor: DIAMANT Polymer
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/diamant-polymer-dichtol-am-hydro-5614009.jpg?v=1765957843
-  Price: 31,95 € EUR
+  Price: 32,95 € EUR
 - [SAKATA PLA 850 – Hochleistungs-3D-Druckmaterial](https://filamentkontor.de/products/sakata-3d-pla-850): SAKATA PLA 850 bietet optimale Präzision und Stabilität für Ihre 3D-Druckprojekte. Hergestellt aus nachhaltigem PLA Ingeo 3D850.
-  Updated: 2026-07-08T10:12:12Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: SAKATA 3D
   Product Type: Filament
   Availability: Available
@@ -165,7 +165,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/SAKATA_3D_SAKATA_3D_PLA_850__Filament.webp?v=1768430940
     Price: 22,50 € EUR
 - [Panchroma CoPE Filament – Erweiterte 3D-Druckmöglichkeiten](https://filamentkontor.de/products/polymaker-panchroma-cope): Panchroma CoPE Filament von Polymaker bietet überlegene Druckqualität und Zuverlässigkeit für anspruchsvolle 3D-Anwendungen.
-  Updated: 2026-07-11T01:17:17Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -215,17 +215,17 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Panchroma_CoPE__Filament_8fe80c99-1c25-4c31-ba7f-86c42fb1482c.webp?v=1764542194
     Price: 11,95 € EUR
   - [Türkis / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/polymaker-panchroma-cope?variant=56059601748345)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Panchroma_CoPE__Filament_7d29655c-77ad-4713-b426-5f02fcdf37d5.webp?v=1764542200
     Price: 11,95 € EUR
 - [Polymaker Panchroma PLA Matt – mattes PLA-Filament, ab 17,95 EUR](https://filamentkontor.de/products/polymaker-panchroma-pla-matt): Polymaker Panchroma PLA Matt (ehemals PolyTerra PLA): 190 bis 230 °C, bis 300 mm/s, in 69 Varianten ab 17,95 EUR als Refill. Beim Filamentkontor kaufen.
-  Updated: 2026-07-15T11:56:10Z
+  Updated: 2026-07-24T18:42:21Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Panchroma_PLA_Matte__Filament_a63a425d-76fe-44af-8604-336049cc5dab.webp?v=1764542205
   - [Charcoal Black / Spule / 1.00 kg](https://filamentkontor.de/products/polymaker-panchroma-pla-matt?variant=55859807453561)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Panchroma_PLA_Matte__Filament_37f4fd9e-8e0a-4114-871e-39bc51c22f12.webp?v=1765957623
     Price: 19,95 € EUR
   - [Charcoal Black / Refill / 1.00 kg](https://filamentkontor.de/products/polymaker-panchroma-pla-matt?variant=57373066887545)
@@ -233,7 +233,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Matte-Charcoal-Black.webp?v=1781210181
     Price: 17,95 € EUR
   - [Cotton White / Spule / 1.00 kg](https://filamentkontor.de/products/polymaker-panchroma-pla-matt?variant=55843625468281)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Panchroma_PLA_Matte__Filament_210b7035-9209-425e-9330-9339854c6a39.webp?v=1764542226
     Price: 19,95 € EUR
   - [Cotton White / Refill / 1.00 kg](https://filamentkontor.de/products/polymaker-panchroma-pla-matt?variant=57373066920313)
@@ -289,7 +289,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Matte-Sakura-Pink.webp?v=1781210183
     Price: 17,95 € EUR
   - [Savannah Yellow / Spule / 1.00 kg](https://filamentkontor.de/products/polymaker-panchroma-pla-matt?variant=55843625763193)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Panchroma_PLA_Matte__Filament_c16e2e46-4538-4d37-98f0-9dfe3a4de8da.webp?v=1764542261
     Price: 19,95 € EUR
   - [Savannah Yellow / Refill / 1.00 kg](https://filamentkontor.de/products/polymaker-panchroma-pla-matt?variant=57373067149689)
@@ -425,7 +425,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Panchroma_PLA_Matte__Filament_a136c316-6624-4869-a535-5ebdb4982a17.webp?v=1764542240
     Price: 19,95 € EUR
 - [Polymaker Panchroma Glow PLA – Nachleuchtendes 3D-Filament](https://filamentkontor.de/products/polymaker-panchroma-glow-pla-nachleuchtend): Entdecken Sie Polymaker Panchroma Glow PLA – ein einzigartiges nachleuchtendes Filament für beeindruckende 3D-Druckprojekte. Jetzt kreativ werden!
-  Updated: 2026-07-11T01:17:41Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -437,7 +437,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Availability: Available
     Price: 29,95 € EUR
 - [Polymaker Fiberon PPS-CF10 - Hochwertiges 3D-Druckfilament](https://filamentkontor.de/products/polymaker-fiberon-pps-cf10-3d-druckfilament): Polymaker Fiberon PPS-CF10 ist ein vielseitiges Filament für 3D-Druck mit exzellenter Temperatur- und Chemikalienresistenz.
-  Updated: 2026-07-13T20:25:55Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -451,7 +451,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fiberon-pps-cf10-8016322.png?v=1768430650
     Price: 404,95 € EUR
 - [Fiberon PPS-GF20 – Glasfaser-Hochleistungsfilament](https://filamentkontor.de/products/polymaker-fiberon-pps-gf20): Polymaker Fiberon PPS-GF20 beim Filamentkontor: 20 % Glasfaser, isolierend & hitzebeständig bis 236 °C. Ideal für Industrie-, Auto- & Elektroanwendungen.
-  Updated: 2026-07-11T01:53:33Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -465,7 +465,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Fiberon_PPS-GF20__Filament_9b17fc59-b181-41ac-985c-cc121bb3123a.webp?v=1768430644
     Price: 359,95 € EUR
 - [Polymaker Fiberon PETG-ESD – Hochwertiges ESD-Filament](https://filamentkontor.de/products/polymaker-fiberon-petg-esd): Polymaker Fiberon PETG-ESD bietet optimalen Schutz für Elektronik. Ideal für sicherere Anwendungen mit elektrostatischer Ableitfähigkeit.
-  Updated: 2026-07-11T01:53:33Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -479,7 +479,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Fiberon_PETG-ESD__Filament_4db3e1e1-3a9f-4a32-9811-8bb6052a5ac2.webp?v=1768430633
     Price: 224,95 € EUR
 - [Fiberon ASA-CF08 | Carbonfaser ASA Filament kaufen](https://filamentkontor.de/products/polymaker-fiberon-asa-cf08): Polymaker Fiberon ASA-CF08 mit 8 % Carbonfaser, ab 19,95 EUR. UV-beständig, steif und maßhaltig für Außenbauteile. Beim Filamentkontor bestellen.
-  Updated: 2026-07-15T18:57:56Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -513,35 +513,35 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Fiberon_ASA-CF08_von_Polymaker_Filament.webp?v=1765957937
     Price: 19,95 € EUR
 - [3DLAC Spray 400 ml – Haftspray für 3D-Drucker](https://filamentkontor.de/products/3dlac-spray-400-ml): 3DLAC Spray 400 ml: Haftspray speziell für FDM-3D-Drucker. Verhindert Warping bei PLA, ABS, PETG, Nylon und TPU. Jetzt beim Filamentkontor bestellen.
-  Updated: 2026-07-15T14:08:27Z
+  Updated: 2026-07-24T12:10:46Z
   Vendor: 3DLAC
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/3DLAC_Spray_400ml_Shopify-_1.webp?v=1768430628
   Price: 8,45 € EUR
 - [3DLAC MINI Spray 75 ml – Optimale Haftung für 3D-Druck](https://filamentkontor.de/products/3dlac-mini-spray-75-ml): Entdecke 3DLAC MINI Spray 75 ml für perfekte 3D-Drucke. Starke Haftung, schnelles Trocknen und keine Verformung – jetzt probieren!
-  Updated: 2026-07-08T10:12:09Z
+  Updated: 2026-07-24T00:23:05Z
   Vendor: 3DLAC
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/3DLAC_3DLAC_MINI_Spray_75_ml__Zubehr.webp?v=1764542080
   Price: 5,95 € EUR
 - [3DLAC Plus Haftspray 100 ml – Ideale Druckbetthaftung](https://filamentkontor.de/products/3dlac-plus-haftspray-100-ml): 3DLAC Plus Haftspray 100 ml sorgt für herausragende Haftung von 3D-Drucken. Perfekt für faserverstärkte Filamente auf jedem Druckbett.
-  Updated: 2026-07-13T11:51:07Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: 3DLAC
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/3DLAC_3DLAC_Plus_Haftspray_100_ml__Zubehr.webp?v=1764964161
   Price: 8,95 € EUR
 - [3DLAC 3DNYLON Haftmittel – Spezial Haftmittel 30 ml](https://filamentkontor.de/products/3dlac-3dnylon-haftmittel-30-ml): 3DLAC 3DNYLON Haftmittel für perfekten Halt bei Nylon-3D-Drucken. Verhindert Warping und sorgt für stabile Drucke.
-  Updated: 2026-07-08T10:12:06Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: 3DLAC
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/3dlac-3dnylon-haftmittel-30-ml-7334714.png?v=1764964142
   Price: 22,95 € EUR
 - [Fiberon PETG-rCF08 – Carbonfaser-PETG beim Filamentkontor](https://filamentkontor.de/products/polymaker-fiberon-petg-rcf08): Fiberon PETG-rCF08 beim Filamentkontor: 8 % recycelte Carbonfasern, stark, matt & präzise. Nachhaltiges Filament für technische 3D-Drucke.
-  Updated: 2026-07-11T01:53:30Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -555,7 +555,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fiberon-petg-rcf08-3033098.png?v=1768430639
     Price: 99,95 € EUR
 - [Professional Lab Silk PLA Dual Color Filament](https://filamentkontor.de/products/professional-lab-silk-pla-dual-color-filament): Entdecken Sie das Professional Lab Silk PLA Dual Color Filament für beeindruckende Drucke mit seidigem Glanz und zwei Farben für kreative Projekte.
-  Updated: 2026-07-15T17:10:59Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -597,7 +597,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p114-e1fg-p114-e1.jpg?v=1768430615
     Price: 13,95 € EUR
 - [Professional Lab Silk PLA Tri Color Filament für 3D-Druck](https://filamentkontor.de/products/professional-lab-silk-pla-tri-color-filament): Hochwertiges Professional Lab Silk PLA Tri Color Filament für beeindruckende 3D-Drucke mit dreifarbigen, seidigen Glanzeffekten.
-  Updated: 2026-07-08T10:12:12Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -643,7 +643,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p115-e1fg-p115-e1.jpg?v=1781210149
     Price: 15,95 € EUR
 - [Smart Print PETG – robustes PETG-Filament für 3D-Druck](https://filamentkontor.de/products/smart-print-petg): Smart Print PETG ist ein PETG-Filament für robuste, leicht flexible Funktionsteile. Gute Layerhaftung, alltagstaugliche Oberfläche, für viele FFF/FDM-Drucker.
-  Updated: 2026-07-15T17:11:06Z
+  Updated: 2026-07-24T12:50:46Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -693,7 +693,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-s37-e1fg-s37-e1.jpg?v=1780951518
     Price: 10,95 € EUR
 - [Smart Print PLA+ für stabile und belastbare Druckteile](https://filamentkontor.de/products/smart-print-pla): Smart Print PLA+ ist ein verstärktes PLA-Filament für zuverlässige 3D-Drucke. Hohe Schichthaftung, reduzierte Sprödigkeit und ruhiger Materialfluss.
-  Updated: 2026-07-15T17:12:26Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -707,7 +707,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/smart-print-pla-8607067.png?v=1770879865
     Price: 12,95 € EUR
   - [Weiß / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/smart-print-pla?variant=55954816500089)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/smart-print-pla-6713552.png?v=1770879865
     Price: 12,95 € EUR
   - [Grau / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/smart-print-pla?variant=55954816532857)
@@ -751,7 +751,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-s58-e1fg-s58-e1.jpg?v=1781210162
     Price: 12,95 € EUR
 - [Panchroma Silk PLA – Glänzendes PLA beim Filamentkontor](https://filamentkontor.de/products/polymaker-panchroma-silk-pla): Panchroma Silk PLA beim Filamentkontor: seidiger Glanz, starke Haftung & kein Verstopfen. Perfekt für schnelle, glänzende 3D-Drucke.
-  Updated: 2026-07-15T16:40:56Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -761,7 +761,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Panchroma_Silk_PLA__Filament_7e049da0-25b1-4ec8-9d82-357f6111d5c4.webp?v=1768430355
     Price: 24,95 € EUR
   - [Weiß / 1.75 mm / 1.00 Kg](https://filamentkontor.de/products/polymaker-panchroma-silk-pla?variant=56054901309817)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Panchroma_Silk_PLA__Filament_aae12ab1-4cca-4818-89fe-4c2f24da0faf.webp?v=1768430381
     Price: 24,95 € EUR
   - [Schwarz / 1.75 mm / 1.00 Kg](https://filamentkontor.de/products/polymaker-panchroma-silk-pla?variant=56054901047673)
@@ -849,28 +849,14 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Panchroma_Silk_PLA__Filament_33428688-396a-46e4-9a74-36fe80cdf584.webp?v=1768430451
     Price: 24,95 € EUR
 - [Silica Gel 3-5 mm Orange/Grün 1 kg mit Farbindikator](https://filamentkontor.de/products/silica-gel-3-5mm-orange-gruen-1kg-trockenperlen): Trockenperlen mit Farbindikator, 3 bis 5 mm, REACH-konform und regenerierbar im Ofen oder der Mikrowelle. Jetzt beim Filamentkontor bestellen.
-  Updated: 2026-07-11T18:17:06Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Filamentkontor
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Filamentkontor_Silica_Gel_3_5_mm_Orange_Gr_n_1_Kg_Trockenperlen_mit_Farbindikator_Zubeh_r.webp?v=1765957523
   Price: 8,95 € EUR
-- [Polymaker Fiberon PA6-CF20 – Nylon mit Carbonfaser](https://filamentkontor.de/products/polymaker-fiberon-pa6-cf20): Entdecken Sie Polymaker Fiberon PA6-CF20, das Nylon mit 20% Carbonfaser für extreme Festigkeit und Hitzebeständigkeit bis 215 °C.
-  Updated: 2026-07-11T01:53:31Z
-  Vendor: Polymaker
-  Product Type: Filament
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Fiberon_PA6-CF20_Filament.webp?v=1768430287
-  - [Schwarz / 1.75 mm / 500 g](https://filamentkontor.de/products/polymaker-fiberon-pa6-cf20?variant=56255249940857)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Fiberon_PA6-CF20_Filament.webp?v=1768430287
-    Price: 44,95 € EUR
-  - [Schwarz / 1.75 mm / 3.00 kg](https://filamentkontor.de/products/polymaker-fiberon-pa6-cf20?variant=56255249973625)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Fiberon_PA6-CF20_Filament_0ec6d8f1-9b61-4e94-ba09-fc0165c3e8cc.webp?v=1768430329
-    Price: 224,95 € EUR
 - [Polymaker Fiberon PA6-GF25 – Hochwertiges Filament](https://filamentkontor.de/products/polymaker-fiberon-pa6-gf25): Polymaker Fiberon PA6-GF25 bietet 25% Glasfaser für hohe Festigkeit und Temperaturbeständigkeit in anspruchsvollen Anwendungen.
-  Updated: 2026-07-11T01:53:30Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -884,7 +870,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Fiberon_PA6-GF25_Filament_c381a86e-7a65-47e3-a9c6-7b6253dd69f1.webp?v=1769176677
     Price: 179,95 € EUR
 - [Polymaker Fiberon PA12-CF10 – Hochleistungsfilament](https://filamentkontor.de/products/polymaker-fiberon-pa12-cf10): Entdecken Sie Polymaker Fiberon PA12-CF10: carbonfaserverstärktes PA12 für präzise industrielle Anwendungen mit optimaler Leistung.
-  Updated: 2026-07-13T20:25:55Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -898,7 +884,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Fiberon_PA12-CF10_Filament_639eb0ab-ac07-48f5-b88c-f2772dedf625.webp?v=1769176669
     Price: 359,95 € EUR
 - [Polymaker Fiberon PA612-CF15 - Hochleistungsfilament](https://filamentkontor.de/products/polymaker-fiberon-pa612-cf15-carbonfaser-nylon): Polymaker Fiberon PA612-CF15 bietet hohe Steifigkeit und Zuverlässigkeit, ideal für technische Anwendungen mit 15 Prozent Carbonfaser.
-  Updated: 2026-07-15T16:40:56Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -912,7 +898,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Fiberon_PA612-CF15_Filament_2e739508-dc7d-4ef2-a58b-ef63a593b978.webp?v=1769176659
     Price: 202,50 € EUR
 - [Polymaker Fiberon PET-CF17 – Hochfestes Filament](https://filamentkontor.de/products/polymaker-fiberon-pet-cf17): Polymaker Fiberon PET-CF17 bietet starke Layerhaftung und hohe Steifigkeit für technische Anwendungen. Perfekt für langlebige Prototypen.
-  Updated: 2026-07-13T20:25:55Z
+  Updated: 2026-07-24T01:36:46Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -926,7 +912,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Fiberon_PET-CF17_Filament_f0e55476-b37f-4781-ac57-07e7fd570703.webp?v=1769176655
     Price: 127,50 € EUR
 - [Polymaker Fiberon PA612-ESD Nylon Filament](https://filamentkontor.de/products/polymaker-fiberon-pa612-esd-esd-faehiges-nylon): Polymaker Fiberon PA612-ESD ist ein ESD-fähiges Nylon, perfekt für elektronische Anwendungen mit hoher Stabilität und Maßhaltigkeit.
-  Updated: 2026-07-11T01:53:33Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -939,8 +925,15 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Polymaker_Polymaker_Fiberon_PA612-ESD_-_ESD-f_higes_Nylon_Filament_c84bd36c-580c-485f-b473-4648e3d793cf.webp?v=1769176661
     Price: 324,95 € EUR
+- [DIAMANT dichtol AM Hydro 1000 ml – Versiegelung für 3D-Druckteile](https://filamentkontor.de/products/diamant-polymer-dichtol-am-hydro-1000ml): Wasserbasierter Versiegler für 3D-gedruckte Bauteile. Lösemittelfrei, gebrauchsfertig, Oberfläche trocken nach 60 Min. 1000 ml beim Filamentkontor kaufen.
+  Updated: 2026-07-23T17:56:38Z
+  Vendor: DIAMANT Polymer
+  Product Type: Zubehör
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/DIAMANT_Polymer_DIAMANT_Polymer_dichtol_AM_Hydro_1000_ml_Zubeh_r_009b6649-9383-4307-9052-29395abba244.webp?v=1775727806
+  Price: 72,95 € EUR
 - [Bambu Lab Hotend - A2L & A1-Serie Präzisionsdüsen](https://filamentkontor.de/products/bambu-lab-hotend-a2l-a1-serie): Bambu Lab Hotend A2L & A1-Serie: Präzise Düsen für exzellente Druckergebnisse in 0,2 mm bis 0,8 mm für Details und vielseitige Anwendungen.
-  Updated: 2026-07-13T14:17:17Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: Bambu Lab
   Product Type: Zubehör
   Availability: Available
@@ -966,7 +959,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Bambu_Lab_Bambu_Lab_Hotend_A1-Serie_Zubeh_r_3440bb5a-e826-4bfa-948e-31a9499bc1c0.webp?v=1765581774
     Price: 12,95 € EUR
 - [Bambu Lab Hotend H2/P2/X2-Serie – 0,2 bis 0,8 mm | Filamentkontor](https://filamentkontor.de/products/bambu-lab-hotend-h2-p2-serie-h2d-h2c-h2c-p2s): Originales Bambu Lab Hotend für die H2-, P2- und X2-Serie. Edelstahl und gehärteter Stahl, 0,2 bis 0,8 mm Düsengröße. Beim Filamentkontor kaufen.
-  Updated: 2026-07-13T19:15:27Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: Bambu Lab
   Product Type: Zubehör
   Availability: Available
@@ -988,7 +981,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Bambu_Lab_Bambu_Lab_Hotend_H2P2-Serie__Zubehr_6cad0c45-70ad-4c72-b20a-08bad3342c4d.webp?v=1765581757
     Price: 19,95 € EUR
 - [3DLAC Spray 400 ml Sparpack - Haftspray für 3D Drucker](https://filamentkontor.de/products/3dlac-spray-400ml-mehrfachpack): 3DLAC Haftspray 400 ml im Sparpack - optimale Haftung fur PLA, ABS & PETG auf dem Druckbett. Jetzt gunstig als Mehrfachpack kaufen!
-  Updated: 2026-07-15T23:59:16Z
+  Updated: 2026-07-24T23:59:21Z
   Vendor: 3DLAC
   Product Type: Zubehör
   Availability: Available
@@ -1018,7 +1011,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/3DLAC_3DLAC_Spray_400_ml_Mehrfachpack_Zubeh_r_2785ea0b-047d-4a0e-a825-b32953efae3e.webp?v=1765581745
     Price: 168,00 € EUR
 - [Geeetech Filament PETG – Stabil, Hochwertig & Zuverlässig](https://filamentkontor.de/products/geeetech-filament-petg): Geeetech Filament: Stabil und einfach zu drucken, ideal für funktionale Teile und großartige Druckqualität auf allen FDM Druckern.
-  Updated: 2026-07-10T14:47:10Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Geeetech
   Product Type: Filament
   Availability: Available
@@ -1032,17 +1025,17 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Geeetech_Geeetech_PETG__Filament_f8872c8d-fb6d-4ca9-b4e6-f135bdbd0217.webp?v=1764539776
     Price: 12,95 € EUR
 - [Hotend – Bambu Lab High Flow für H2/P2S](https://filamentkontor.de/products/bambu-lab-hotend-h2-p2-serie): Entdecken Sie das Hotend von Bambu Lab für schnelle und präzise Extrusion. Optimale Leistung für anspruchsvolle Druckprojekte.
-  Updated: 2026-07-08T10:12:10Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: Bambu Lab
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Bambu_Lab_Bambu_Lab_High_Flow_Hotend_H2_P2-Serie_Zubeh_r_91c55015-cf79-4e68-8091-13df21a2ca92.webp?v=1765581664
   - [0.4 mm (HF) gehärteter Stahl](https://filamentkontor.de/products/bambu-lab-hotend-h2-p2-serie?variant=56318292951417)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Bambu_Lab_Bambu_Lab_High_Flow_Hotend_H2_P2-Serie_Zubeh_r_41b8046e-430b-4cac-8ef2-693d638559a5.webp?v=1765581666
     Price: 52,95 € EUR
   - [0.6 mm (HF) gehärteter Stahl](https://filamentkontor.de/products/bambu-lab-hotend-h2-p2-serie?variant=56318292984185)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Bambu_Lab_Bambu_Lab_High_Flow_Hotend_H2_P2-Serie_Zubeh_r_bf0cdc13-5f82-4824-a095-4f4f337f27f9.webp?v=1765581670
     Price: 52,95 € EUR
   - [0.8 mm (HF) gehärteter Stahl](https://filamentkontor.de/products/bambu-lab-hotend-h2-p2-serie?variant=56318293016953)
@@ -1050,14 +1043,14 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Bambu_Lab_Bambu_Lab_High_Flow_Hotend_H2_P2-Serie_Zubeh_r.webp?v=1765581674
     Price: 52,95 € EUR
 - [SUNLU FilaDryer S4 Filamenttrockner | Für bis zu vier Spulen](https://filamentkontor.de/products/sunlu-filadryer-s4): SUNLU FilaDryer S4 trocknet bis zu vier Spulen gleichzeitig. Ideal für PLA, PETG, ABS, PA und mehr. Mit Feuchtigkeitssensor, 70 °C Heizleistung und Touchscreen.
-  Updated: 2026-07-15T22:00:07Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: SUNLU
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Sunlu_SUNLU_FilaDryer_S4_Zubeh_r.webp?v=1765581649
   Price: 134,95 € EUR
 - [AzureFilm PLA Silk Filament – Hochwertiges 3D-Druck Filament](https://filamentkontor.de/products/azurefilm-pla-silk-filament): AzureFilm PLA Silk Filament sorgt für glänzende 3D-Drucke mit seidenartiger Oberfläche. Ideal für hochwertige Druckergebnisse!
-  Updated: 2026-07-08T10:12:09Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: AzureFilm
   Product Type: Filament
   Availability: Available
@@ -1091,7 +1084,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/AzureFilm_AzureFilm_PLA_Silk_Filament_mit_seidigem_Glanz_Filament_e6e97c8b-7679-4ab8-8504-b9075e4e4ec2.webp?v=1765957414
     Price: 21,95 € EUR
 - [Bambu Lab PLA Silk+ - Hochwertiges PLA-Filament](https://filamentkontor.de/products/bambu-lab-pla-silk): Entdecken Sie Bambu Lab PLA Silk+ für beeindruckende, seidenartige 3D-Drucke. Ideal für alle, die Wert auf Ästhetik legen – passend zum Thema 3D-Druck.
-  Updated: 2026-07-08T10:12:15Z
+  Updated: 2026-07-23T17:56:38Z
   Vendor: Bambu Lab
   Product Type: Filament
   Availability: Available
@@ -1165,7 +1158,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Silk_Gold_a5b2d6b8-8931-4493-9f98-269f219e4892.webp?v=1776029971
     Price: 22,95 € EUR
 - [Bambu Lab PLA Translucent für lichtdurchlässige Drucke](https://filamentkontor.de/products/bambu-lab-pla-translucent): Bambu Lab PLA Translucent für halbtransparente Bauteile mit ruhiger Oberfläche. Geeignet für Abdeckungen, Sichtfenster und Designobjekte.
-  Updated: 2026-07-11T18:16:56Z
+  Updated: 2026-07-23T17:56:38Z
   Vendor: Bambu Lab
   Product Type: Filament
   Availability: Available
@@ -1211,7 +1204,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/996c0314d3c9f4f6a92e228ed4c8e264_a6207c48-38ce-4034-8302-449a67d23b51.jpg?v=1768513667
     Price: 25,95 € EUR
 - [eSUN PETG-Basic – Vielseitiges Filament für 3D-Druck](https://filamentkontor.de/products/esun-petg-basic): eSUN PETG-Basic ist ideal für 3D-Druck. Robust, formstabil und einfach zu verarbeiten für funktionale Bauteile.
-  Updated: 2026-07-08T10:12:11Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: eSUN
   Product Type: Filament
   Availability: Available
@@ -1225,7 +1218,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/white.webp?v=1768430177
     Price: 15,95 € EUR
   - [Schwarz / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/esun-petg-basic?variant=56437294793081)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/black.webp?v=1768430179
     Price: 15,95 € EUR
   - [Grau / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/esun-petg-basic?variant=56437294825849)
@@ -1257,7 +1250,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/109866440444.webp?v=1776029953
     Price: 15,95 € EUR
 - [eSun PETG für robuste funktionale Druckteile](https://filamentkontor.de/products/esun-petg): eSun PETG für zähe, formstabile Bauteile mit sauberer Oberfläche. Geeignet für funktionale Anwendungen und vielseitige Projekte.
-  Updated: 2026-07-11T17:00:22Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: eSUN
   Product Type: Filament
   Availability: Available
@@ -1279,7 +1272,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/109866440046.webp?v=1776029945
     Price: 18,95 € EUR
 - [eSun PLA-Basic für zuverlässige Alltagsdrucke](https://filamentkontor.de/products/esun-pla-basic): eSun PLA-Basic für saubere Druckergebnisse, stabile Maßhaltigkeit und einfache Verarbeitung. Geeignet für Modelle, Prototypen und Alltagsteile.
-  Updated: 2026-07-08T15:59:37Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: eSUN
   Product Type: Filament
   Availability: Available
@@ -1385,7 +1378,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/109866440430.webp?v=1776029944
     Price: 15,95 € EUR
 - [eSUN PLA+ Filament 1,75 mm: PLA mit erhöhter Zähigkeit](https://filamentkontor.de/products/esun-pla-plus): eSUN PLA+, 1,75 mm, zäher und schlagfester als Standard-PLA. Drucktemperatur 210 bis 230 Grad Celsius. Jetzt bei Filamentkontor kaufen.
-  Updated: 2026-07-09T23:18:12Z
+  Updated: 2026-07-24T22:23:19Z
   Vendor: eSUN
   Product Type: Filament
   Availability: Available
@@ -1479,7 +1472,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/eSun_Bone_White.jpg?v=1781210125
     Price: 19,95 € EUR
 - [Bambu Lab PLA Matte | Mattes PLA-Filament kaufen](https://filamentkontor.de/products/bambu-lab-pla-matte-fur-glatte-oberflachen): Bambu Lab PLA Matte in 25 Farben, ab 22,95 EUR. Mattes Finish, hohe Druckgeschwindigkeit bis 300 mm/s und gute Z-Festigkeit. Beim Filamentkontor bestellen.
-  Updated: 2026-07-14T18:49:46Z
+  Updated: 2026-07-24T12:10:46Z
   Vendor: Bambu Lab
   Product Type: Filament
   Availability: Available
@@ -1489,7 +1482,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA-Matte-Ivory-White.webp?v=1766999152
     Price: 25,95 € EUR
   - [Elfenbeinweiß (11100) / Refill](https://filamentkontor.de/products/bambu-lab-pla-matte-fur-glatte-oberflachen?variant=56448971997561)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA-Matte-Ivory-White.webp?v=1766999152
     Price: 22,95 € EUR
   - [Knochenweiß (11103) / Refill](https://filamentkontor.de/products/bambu-lab-pla-matte-fur-glatte-oberflachen?variant=56448972030329)
@@ -1525,7 +1518,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA-Matte-Scarlet-Red_186c8258-1cd3-47cd-84a9-87440b1c8824.webp?v=1766999148
     Price: 25,95 € EUR
   - [Scharlachrot (11200) / Refill](https://filamentkontor.de/products/bambu-lab-pla-matte-fur-glatte-oberflachen?variant=56448972292473)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA-Matte-Scarlet-Red_186c8258-1cd3-47cd-84a9-87440b1c8824.webp?v=1766999148
     Price: 22,95 € EUR
   - [Dunkelrot (11202) / Refill](https://filamentkontor.de/products/bambu-lab-pla-matte-fur-glatte-oberflachen?variant=56448972325241)
@@ -1581,7 +1574,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA-Matte-Terrakotta_c2c2184d-fb58-45ee-a3cb-0736cb2f7a47.webp?v=1767858173
     Price: 22,95 € EUR
   - [Dunkelbraun (11801) / Refill](https://filamentkontor.de/products/bambu-lab-pla-matte-fur-glatte-oberflachen?variant=56448972751225)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA-Matte-Dark-Brown_b9bd77e1-fe81-4600-9434-cdd86db4e314.webp?v=1767858180
     Price: 22,95 € EUR
   - [Dunkel-Schokoladenbraun (11802) / Refill](https://filamentkontor.de/products/bambu-lab-pla-matte-fur-glatte-oberflachen?variant=56448972783993)
@@ -1609,7 +1602,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA-Matte_Charcoal_0b14d9bf-5546-4466-a038-543cc47d0292.webp?v=1766999172
     Price: 22,95 € EUR
 - [Bambu Lab PLA Basic 1,75 mm 1 kg – Spule & Refill](https://filamentkontor.de/products/bambu-lab-pla-basic): Bambu Lab PLA Basic 1,75 mm 1 kg beim Filamentkontor. Als Spule mit RFID für AMS oder als Refill. Druckgeschwindigkeit bis 300 mm/s. Jetzt bestellen.
-  Updated: 2026-07-15T15:54:56Z
+  Updated: 2026-07-24T17:37:08Z
   Vendor: Bambu Lab
   Product Type: Filament
   Availability: Available
@@ -1617,177 +1610,177 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
   - [Jade-Weiß (10100) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449213989241)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_White.webp?v=1767857935
-    Price: 22,95 € EUR
+    Price: 25,95 € EUR
   - [Jade-Weiß (10100) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214022009)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_White.webp?v=1767857935
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Beige (10201) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214054777)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Beige.webp?v=1767857995
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Gelb (10400) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214087545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_gelb.webp?v=1767858001
-    Price: 19,95 € EUR
-  - [Sonnenblumen-Gelb (10402) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214120313)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_SunflowerYellow.webp?v=1767857939
     Price: 22,95 € EUR
+  - [Sonnenblumen-Gelb (10402) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214120313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_SunflowerYellow.webp?v=1767857939
+    Price: 25,95 € EUR
   - [Sonnenblumen-Gelb (10402) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214153081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_SunflowerYellow.webp?v=1767857939
-    Price: 19,95 € EUR
-  - [Gold (10401) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214185849)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Gold.webp?v=1767858006
-    Price: 19,95 € EUR
-  - [Kürbis-Orange (10301) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214218617)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_PumpkinOrange.webp?v=1767857945
     Price: 22,95 € EUR
+  - [Gold (10401) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214185849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Gold.webp?v=1767858006
+    Price: 22,95 € EUR
+  - [Kürbis-Orange (10301) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214218617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_PumpkinOrange.webp?v=1767857945
+    Price: 25,95 € EUR
   - [Kürbis-Orange (10301) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214251385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_PumpkinOrange.webp?v=1767857945
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Orange (10300) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214284153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Orange.webp?v=1767858011
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Hellgrün (10503) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214316921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Hellgruen.webp?v=1767858015
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Bambusgrün (10501) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214349689)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Bambu_Green.webp?v=1767857951
-    Price: 22,95 € EUR
+    Price: 25,95 € EUR
   - [Bambusgrün (10501) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214382457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Bambu_Green.webp?v=1767857951
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Mistelzweig-Grün (10502) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214415225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Mistelzweig_Gruen.webp?v=1767857956
-    Price: 22,95 € EUR
+    Price: 25,95 € EUR
   - [Mistelzweig-Grün (10502) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214447993)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Mistelzweig_Gruen.webp?v=1767857956
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Pink (10203) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214480761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Pink.webp?v=1767858019
-    Price: 19,95 € EUR
-  - [Heißes Pink (10204) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214513529)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_HotPink.webp?v=1767857932
     Price: 22,95 € EUR
+  - [Heißes Pink (10204) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214513529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_HotPink.webp?v=1767857932
+    Price: 25,95 € EUR
   - [Heißes Pink (10204) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214546297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_HotPink.webp?v=1767857932
-    Price: 19,95 € EUR
-  - [Magenta (10202) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214579065)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Magenta.webp?v=1767858025
-    Price: 19,95 € EUR
-  - [Rot (10200) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214611833)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Red.webp?v=1767857960
     Price: 22,95 € EUR
+  - [Magenta (10202) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214579065)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Magenta.webp?v=1767858025
+    Price: 22,95 € EUR
+  - [Rot (10200) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214611833)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Red.webp?v=1767857960
+    Price: 25,95 € EUR
   - [Rot (10200) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214644601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Red.webp?v=1767857960
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Kastanienrot (10205) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214677369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_MaroonRed.webp?v=1767858030
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Lila (10700) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214710137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_PLAPurple.webp?v=1767858036
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Indigo-Violett (10701) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214742905)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_IndigoPurple.webp?v=1767857966
-    Price: 22,95 € EUR
+    Price: 25,95 € EUR
   - [Indigo-Violett (10701) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214775673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_IndigoPurple.webp?v=1767857966
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Türkis ( 10605) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214808441)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Turquoise.webp?v=1767858041
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Cyan (10603) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214841209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Cyan.webp?v=1767857971
-    Price: 22,95 € EUR
+    Price: 25,95 € EUR
   - [Cyan (10603) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214873977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Cyan.webp?v=1767857971
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Kobaltblau (10604) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214906745)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_CobaltBlue.webp?v=1767858045
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Blau (10601) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214939513)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Blau.webp?v=1767857975
-    Price: 22,95 € EUR
+    Price: 25,95 € EUR
   - [Blau (10601) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449214972281)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Blau.webp?v=1767857975
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Braun (10800) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215005049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Braun.webp?v=1767858051
-    Price: 19,95 € EUR
-  - [Kakaobraun (10802) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215037817)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_CocoaBrown.webp?v=1767857982
     Price: 22,95 € EUR
+  - [Kakaobraun (10802) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215037817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_CocoaBrown.webp?v=1767857982
+    Price: 25,95 € EUR
   - [Kakaobraun (10802) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215070585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_CocoaBrown.webp?v=1767857982
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Bronze (10801) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215103353)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Bronze.webp?v=1767858058
-    Price: 19,95 € EUR
-  - [Hellgrau (10104) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215136121)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Bronze.webp?v=1767858058
+    Price: 22,95 € EUR
+  - [Hellgrau (10104) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215136121)
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Hellgrau.webp?v=1767858061
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Grau (10103) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215168889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Grau.webp?v=1767857988
-    Price: 22,95 € EUR
+    Price: 25,95 € EUR
   - [Grau (10103) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215201657)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Grau.webp?v=1767857988
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Silber (10102) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215234425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Silber.webp?v=1767858068
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Blue Grey (10602) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215267193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Blue-Gray.webp?v=1767858074
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Dunkelgrau (10105) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215299961)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_dark_gray.webp?v=1767858077
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
   - [Schwarz (10101) / Spule](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215332729)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Schwarz.webp?v=1767857995
-    Price: 22,95 € EUR
+    Price: 25,95 € EUR
   - [Schwarz (10101) / Refill](https://filamentkontor.de/products/bambu-lab-pla-basic?variant=56449215365497)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PLA_Basic_Schwarz.webp?v=1767857995
-    Price: 19,95 € EUR
+    Price: 22,95 € EUR
 - [Bambu Lab PETG HF 1,75 mm 1 kg – Spule & Refill | Filamentkontor](https://filamentkontor.de/products/bambu-lab-petg-hf-fur-schnelle-petg-drucke): Bambu Lab PETG HF: High-Flow-PETG für schnelle FDM-Drucker. Düse 230 bis 260 °C, Bett 60 bis 80 °C, bis 300 mm/s. Spule & Refill beim Filamentkontor.
-  Updated: 2026-07-15T09:46:43Z
+  Updated: 2026-07-24T10:05:57Z
   Vendor: Bambu Lab
   Product Type: Filament
   Availability: Available
@@ -1809,11 +1802,11 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PETG_HF_Schwarz.webp?v=1766999025
     Price: 25,95 € EUR
   - [Schwarz (33102) / Refill](https://filamentkontor.de/products/bambu-lab-petg-hf-fur-schnelle-petg-drucke?variant=56450294251897)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PETG_HF_Schwarz.webp?v=1766999025
     Price: 22,95 € EUR
   - [Weiß (33100) / Spule](https://filamentkontor.de/products/bambu-lab-petg-hf-fur-schnelle-petg-drucke?variant=56450283340153)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PETG_HF_Weiss.webp?v=1766999029
     Price: 25,95 € EUR
   - [Grau (33101) / Spule](https://filamentkontor.de/products/bambu-lab-petg-hf-fur-schnelle-petg-drucke?variant=56450283372921)
@@ -1877,7 +1870,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PETG_HF_Seeblau.webp?v=1766999062
     Price: 25,95 € EUR
 - [Bambu Lab PETG Translucent – Lichtdurchlässiges Filament](https://filamentkontor.de/products/bambu-lab-petg-translucent): Bambu Lab PETG Translucent ist ideal für 3D-Druck mit transparenten Bauteilen. Erleben Sie formstabile Drucke mit bester Optik.
-  Updated: 2026-07-08T10:12:15Z
+  Updated: 2026-07-23T17:56:38Z
   Vendor: Bambu Lab
   Product Type: Filament
   Availability: Available
@@ -1903,7 +1896,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PETG_Translucent_Klar_7d6d5c02-a9f0-4c8a-865d-dcd26fb63e92.webp?v=1766998942
     Price: 25,95 € EUR
   - [Klar (32101) / Refill](https://filamentkontor.de/products/bambu-lab-petg-translucent?variant=56450711748985)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PETG_Translucent_Klar_7d6d5c02-a9f0-4c8a-865d-dcd26fb63e92.webp?v=1766998942
     Price: 22,95 € EUR
   - [Durchsichtiges Pink (32200) / Refill](https://filamentkontor.de/products/bambu-lab-petg-translucent?variant=56450711781753)
@@ -1931,14 +1924,14 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PETG_Translucent_Grau.webp?v=1766998969
     Price: 22,95 € EUR
 - [Polymaker PolyDryer Box zur Filamentlagerung](https://filamentkontor.de/products/polymaker-polydryer-box): Polymaker PolyDryer Box zur trockenen Lagerung von Filament. Schutz vor Feuchtigkeit, kompatibel mit dem PolyDryer System.
-  Updated: 2026-07-10T15:37:41Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PolyDryer_Top.webp?v=1767857878
   Price: 34,95 € EUR
 - [Professional Lab TPU 95A für flexible 3D-Druckteile](https://filamentkontor.de/products/professional-lab-tpu): Professional Lab TPU 95A für elastische, belastbare Bauteile. Geeignet für Dichtungen, flexible Komponenten und funktionale Anwendungen.
-  Updated: 2026-07-15T17:11:01Z
+  Updated: 2026-07-24T12:10:45Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -1979,8 +1972,15 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p122-e1fg-p122-e1.jpg?v=1776029926
     Price: 13,95 € EUR
+- [Polymaker PolyDryer Dock + Box zur Filamenttrocknung](https://filamentkontor.de/products/polymaker-polydryer-dock): Polymaker PolyDryer Dock + Box zum Trocknen und Lagern von Filament. Kontrollierte Feuchtigkeit, kompatibel mit PolyDryer System.
+  Updated: 2026-07-23T17:56:39Z
+  Vendor: Polymaker
+  Product Type: Zubehör
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/MAIN1_aee631ab-4dc2-47f8-9ade-b883d4777943.webp?v=1767857833
+  Price: 84,95 € EUR
 - [Professional Lab ABS+ für widerstandsfähige Bauteile](https://filamentkontor.de/products/professional-lab-abs-plus): Professional Lab ABS+ für formstabile, schlagfeste Druckteile. Geeignet für Gehäuse, technische Komponenten und funktionale Anwendungen.
-  Updated: 2026-07-15T17:10:57Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -2030,7 +2030,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p6-e1fg-p6-e1.jpg?v=1783890598
     Price: 11,95 € EUR
 - [Bambu Lab ABS für funktionale 3D-Druckteile](https://filamentkontor.de/products/bambu-lab-abs): Bambu Lab ABS für formstabile, hitzefeste Bauteile. Geeignet für technische Anwendungen, Gehäuse und belastbare Konstruktionen.
-  Updated: 2026-07-09T08:42:47Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: Bambu Lab
   Product Type: Filament
   Availability: Available
@@ -2108,7 +2108,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Bambu-Lab-ABS-Refill-30219_3.jpg?v=1766483419
     Price: 22,95 € EUR
 - [Professional Lab PETG](https://filamentkontor.de/products/professional-lab-petg): Professional Lab PETG für zähe, formstabile Bauteile mit sauberer Oberfläche. Geeignet für funktionale Anwendungen und technische Projekte.
-  Updated: 2026-07-15T17:11:03Z
+  Updated: 2026-07-23T18:23:26Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -2194,13 +2194,13 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p196-e1fg-p196-e1.jpg?v=1778153848
     Price: 10,95 € EUR
 - [Professional Lab PLA Marble mit Steinoptik](https://filamentkontor.de/products/professional-lab-pla-marble): Professional Lab PLA Marble für Druckteile mit marmorähnlicher Oberfläche. Ruhige Optik, saubere Details, einfache Verarbeitung.
-  Updated: 2026-07-08T10:12:16Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p73-e1fg-p73-e1_1_162823e9-3869-4038-b31f-15c08f3f9963.jpg?v=1776029914
   - [Grau / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/professional-lab-pla-marble?variant=56495000158585)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p73-e1fg-p73-e1_1_162823e9-3869-4038-b31f-15c08f3f9963.jpg?v=1776029914
     Price: 14,45 € EUR
   - [Ziegelrot / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/professional-lab-pla-marble?variant=56985307218297)
@@ -2212,7 +2212,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p181-e1fg-p181-e1.jpg?v=1776029915
     Price: 14,45 € EUR
 - [Professional Lab PLA Wood mit natürlicher Holzstruktur](https://filamentkontor.de/products/professional-lab-pla-wood): Professional Lab PLA Wood für Druckteile mit natürlicher Holzstruktur. Warme Optik, saubere Details, gut kontrollierbares Druckverhalten.
-  Updated: 2026-07-08T10:12:11Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -2230,7 +2230,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p159-e1fg-p159-e1.jpg?v=1776029912
     Price: 13,95 € EUR
 - [ARKA Kraftprotz 3D Druck Sekundenkleber - Kraftkleber für PLA PETG ABS](https://filamentkontor.de/products/arka-kraftprotz-3d-druck-sekundenkleber): 3D-Druck Sekundenkleber für starkes und präzises Verbinden Ihrer 3D-gedruckten Modelle und Bauteile. Lange Haltbarkeit garantiert!
-  Updated: 2026-07-15T15:00:31Z
+  Updated: 2026-07-23T18:17:55Z
   Vendor: ARKA
   Product Type: Zubehör
   Availability: Available
@@ -2248,14 +2248,14 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/KPDF3D50_1_1.jpg?v=1769894570
     Price: 6,95 € EUR
 - [ARKA Kraftprotz Aktivator-Spray - Effiziente Aushärtung](https://filamentkontor.de/products/arka-kraftprotz-aktivator-spray-200ml): ARKA Kraftprotz Aktivator-Spray beschleunigt die Aushärtung von Sekundenkleber und optimiert Ihre 3D-Druck-Projekte für maximale Effizienz.
-  Updated: 2026-07-15T15:00:25Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: ARKA
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/KPA200G_1.jpg?v=1769894525
   Price: 8,95 € EUR
 - [ARKA Kraftprotz 3D-Druck Bundle – Sekundenkleber & Aktivator](https://filamentkontor.de/products/arka-kraftprotz-3d-druck-sekundenkleber-bundle): ARKA Kraftprotz 3D-Druck Bundle: Sekundenkleber auf Cyanacrylat-Basis und Aktivator-Spray für dauerhafte Verbindungen an PLA, ABS, PETG und TPU.
-  Updated: 2026-07-15T23:59:35Z
+  Updated: 2026-07-24T23:56:36Z
   Vendor: ARKA
   Product Type: Zubehör
   Availability: Available
@@ -2273,7 +2273,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/3_1.webp?v=1773523286
     Price: 13,95 € EUR
 - [Bambu Lab Hotend X1 - Original Ersatz-Hotend für X1/P1-Serie](https://filamentkontor.de/products/bambu-lab-hotend-x1-p1-serie): Bambu Lab Hotend X1 für X1/P1-Serie: Original Ersatzhotend für präzisen Filamentfluss, schnelles Drucken und optimale Ergebnisse.
-  Updated: 2026-07-08T13:10:45Z
+  Updated: 2026-07-23T17:56:37Z
   Vendor: Bambu Lab
   Product Type: Zubehör
   Availability: Available
@@ -2287,14 +2287,14 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/0.2mm.png?v=1772235881
     Price: 36,95 € EUR
   - [0.2 mm Edelstahl / P1 Komplett (Hotend/Heater & Thermistor/Lüfter)](https://filamentkontor.de/products/bambu-lab-hotend-x1-p1-serie?variant=56880336765305)
-    Availability: Available
+    Availability: Not Available
     Price: 36,95 € EUR
   - [0.4 mm gehärteter Stahl / Einzeln (nur Hotend)](https://filamentkontor.de/products/bambu-lab-hotend-x1-p1-serie?variant=56597891154297)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/FAH001-N-1_1e94f2a4-3688-4391-9ad8-71a3ff754c31.webp?v=1773006210
     Price: 16,95 € EUR
   - [0.4 mm gehärteter Stahl / X1 Komplett (Hotend/Heater & Thermistor/Lüfter)](https://filamentkontor.de/products/bambu-lab-hotend-x1-p1-serie?variant=56597964980601)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/0.4mm.png?v=1772235843
     Price: 36,95 € EUR
   - [0.4 mm gehärteter Stahl / P1 Komplett (Hotend/Heater & Thermistor/Lüfter)](https://filamentkontor.de/products/bambu-lab-hotend-x1-p1-serie?variant=56880336798073)
@@ -2323,14 +2323,14 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Availability: Available
     Price: 36,95 € EUR
 - [Polymaker PolyDryer Dry Dock - Effiziente Filamenttrocknung](https://filamentkontor.de/products/polymaker-polydryer-dry-dock-modul-filamenttrocknung): Polymaker PolyDryer Dry Dock sorgt für optimale Trocknung von 3D-Druck-Filamenten durch präzise Temperatur- und Luftzirkulationskontrolle.
-  Updated: 2026-07-08T10:12:15Z
+  Updated: 2026-07-24T17:08:47Z
   Vendor: Polymaker
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PolyDryer_Hero1_500x_1f957113-2eb3-48f9-9430-e6d637967ad5.webp?v=1770584184
   Price: 54,95 € EUR
 - [Polymaker Panchroma PLA Marble – Marmor Effekt Filament](https://filamentkontor.de/products/polymaker-panchroma-pla-marble): Entdecken Sie Polymaker Panchroma PLA Marble – das ideale Filament für edle 3D-Druckteile mit marmorierter Oberfläche und einfacher Verarbeitung.
-  Updated: 2026-07-11T01:18:13Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -2360,7 +2360,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PA04042-Marble-Sandstone.webp?v=1770584184
     Price: 21,95 € EUR
 - [Smart Print PLA META für zuverlässige 3D-Drucke](https://filamentkontor.de/products/smart-print-pla-meta-fur-saubere-alltagsdrucke): Entdecken Sie Smart Print PLA META, das ideale PLA-Filament für saubere, reproduzierbare Alltagsdrucke – perfekt für Anfänger und Profis.
-  Updated: 2026-07-11T13:58:26Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -2394,7 +2394,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-s87-e1fg-s87-e1.jpg?v=1770879807
     Price: 13,95 € EUR
 - [Smart Print PLA Carbon Fiber - Hochwertiges 3D-Druckmaterial](https://filamentkontor.de/products/smart-print-pla-carbon-fiber-fur-formstabile-druckteile): Smart Print PLA Carbon Fiber ist ein carbonfaserverstärktes PLA-Filament für steife und formstabile 3D-Druckteile. Ruhiger Druckprozess und saubere Oberflächen.
-  Updated: 2026-07-08T10:12:12Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -2420,14 +2420,14 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/FG-S186-E-3.png?v=1771369181
     Price: 16,95 € EUR
 - [Smart Print PA12 + CF15 für steife Präzisionsbauteile](https://filamentkontor.de/products/smart-print-pa12-cf15-fur-steife-prazisionsbauteile): Smart Print PA12 + CF15 ist ein carbonfaserverstärktes Polyamid-Filament für formstabile, belastbare 3D-Druckteile mit hoher Maßhaltigkeit.
-  Updated: 2026-07-15T17:11:01Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-s140-e1fg-s140-e1.jpg?v=1770678968
   Price: 49,45 € EUR
 - [Professional Lab ASA: Robustes 3D-Druck-Filament](https://filamentkontor.de/products/professional-lab-asa): Professional Lab ASA bietet hohe Schlagzähigkeit und Witterungsbeständigkeit für strapazierfähige Bauteile im Innen- und Außenbereich.
-  Updated: 2026-07-15T17:10:57Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -2437,7 +2437,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p138-e1fg-p138-e1.jpg?v=1772748807
     Price: 14,95 € EUR
   - [Grau / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/professional-lab-asa?variant=56695638425977)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p135-e1fg-p135-e1_1.jpg?v=1772748809
     Price: 14,95 € EUR
   - [Grün / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/professional-lab-asa?variant=56695638360441)
@@ -2461,7 +2461,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p132-e1fg-p132-e1.jpg?v=1772748812
     Price: 14,95 € EUR
 - [Professional Lab PLA Rainbow mit Farbverlauf](https://filamentkontor.de/products/professional-lab-pla-rainbow-mit-farbverlauf): Professional Lab PLA Rainbow ist ein Silk-PLA mit kontinuierlichem Farbwechsel für dekorative 3D-Drucke mit glänzender Oberfläche und einfacher Verarbeitung.
-  Updated: 2026-07-15T17:11:09Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Imagine s.c.
   Product Type: Filament
   Availability: Available
@@ -2475,7 +2475,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/fg-p110-e1fg-p110-e1.jpg?v=1772748806
     Price: 14,65 € EUR
 - [Bambu Lab Reusable Spool – Umweltfreundliche Mehrwegspule](https://filamentkontor.de/products/bambu-lab-reusable-spool): Entdecken Sie die Bambu Lab Reusable Spool für spulenlose Filamentrollen, ideal für Ihr AMS-System und Bambu Lab 3D-Drucker.
-  Updated: 2026-07-11T18:17:00Z
+  Updated: 2026-07-23T17:56:38Z
   Vendor: Bambu Lab
   Product Type: Zubehör
   Availability: Available
@@ -2489,7 +2489,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/494435049086799872_-_bearbeitet_3d56a904-7005-4675-99a4-a7a4049376a2.jpg?v=1776029902
     Price: 14,95 € EUR
 - [Polymaker HT-PLA - Hitzebeständiges 3D-Druck Filament](https://filamentkontor.de/products/polymaker-ht-pla): Entdecken Sie Polymaker HT-PLA, das hitzebeständige PLA-Filament für langlebige 3D-Druckteile mit hoher Wärmeformbeständigkeit.
-  Updated: 2026-07-15T12:54:37Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -2551,7 +2551,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PA17014_Isometric_Top_400x_f6b206d6-56a5-45b3-a305-822066131f9e.webp?v=1772748801
     Price: 24,95 € EUR
 - [Polymaker HT-PLA-GF – glasfaserverstärktes PLA-Filament](https://filamentkontor.de/products/polymaker-ht-pla-gf): Polymaker HT-PLA-GF ist glasfaserverstärktes Hochtemperatur-PLA für steife, belastbare Druckteile. Ideal für anspruchsvolle technische Anwendungen.
-  Updated: 2026-07-12T17:39:05Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -2573,7 +2573,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PA18004_Isometric_Top.webp?v=1773006183
     Price: 29,95 € EUR
   - [Army Green / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/polymaker-ht-pla-gf?variant=56779504779641)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PA18005_Isometric_Top.webp?v=1773006183
     Price: 29,95 € EUR
   - [Power Tool Yellow / 1.75 mm / 1.00 kg](https://filamentkontor.de/products/polymaker-ht-pla-gf?variant=56779504812409)
@@ -2593,7 +2593,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/PA18009_Isometric_Top.webp?v=1773006189
     Price: 29,95 € EUR
 - [Polymaker PolyLite LW-PLA Filament](https://filamentkontor.de/products/polymaker-polylite-lw-pla): Polymaker PolyLite LW-PLA ist ein leichtes PLA-Filament für RC-Modelle, Flugzeuge und Prototypen. Aktivschaum reduziert Gewicht und Materialverbrauch.
-  Updated: 2026-07-15T16:40:56Z
+  Updated: 2026-07-23T17:56:39Z
   Vendor: Polymaker
   Product Type: Filament
   Availability: Available
@@ -2631,14 +2631,14 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/pa08010_pdt_isometric_top.webp?v=1772748789
     Price: 34,95 € EUR
 - [REFLECON Tarnish 11](https://filamentkontor.de/products/reflecon-tarnish-11): REFLECON Tarnish 11 ist ein sublimierendes Mattierungsmittel für den optischen 3D-Laserscan – keine Nachreinigung, keine Staubrückstände, 1–3 Std. Wirkzeit.
-  Updated: 2026-07-15T18:57:48Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Reflecon
   Product Type: Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/6023/7689/files/Reflecon_Tarnish_11-1024x1024.jpg?v=1773006148
   Price: 34,95 € EUR
 - [REFLECON Tarnish 50 – Sublimierendes Mattierungsmittel](https://filamentkontor.de/products/reflecon-tarnish-50): REFLECON Tarnish 50 auf Cyclododecan-Basis mattiert alle Materialien für den 3D-Laserscan – keine Nachreinigung, 5–8 Std. Sublimationszeit, 500 ml oder 1 L.
-  Updated: 2026-07-15T18:57:46Z
+  Updated: 2026-07-23T17:56:40Z
   Vendor: Reflecon
   Product Type: Zubehör
   Availability: Available
@@ -2649,104 +2649,104 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
 ## Collections
 
 - [PLA Filament](https://filamentkontor.de/collections/pla): PLA Filament beim Filamentkontor. Standard, Matt, Silk und Carbon-PLA von Polymaker, Bambu Lab, eSUN und mehr. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 67
 - [Bestseller vom Filamentkontor - unsere top Produkte](https://filamentkontor.de/collections/bestseller): Die beliebtesten Produkte beim Filamentkontor: Filamente, Zubehör und Resin, bewährt in der Community. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T22:24:54Z
   Total Products: 52
 - [SUNLU](https://filamentkontor.de/collections/sunlu-1): SUNLU Filament & Zubehör beim Filamentkontor. PLA, PETG, ABS, TPU, Sonderfilamente und Filamenttrockner. Vakuumverpackt. Versand in 24 h aus Hamburg.
   Updated: 2026-06-27T23:35:13Z
   Total Products: 3
 - [eSUN](https://filamentkontor.de/collections/esun): eSUN Filament beim Filamentkontor. PLA-Basic, PLA+, PLA-Matt und PETG mit starkem Preis-Leistungs-Verhältnis. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-12T11:39:35Z
+  Updated: 2026-07-19T11:42:27Z
   Total Products: 12
 - [ANYCUBIC](https://filamentkontor.de/collections/anycubic): Anycubic beim Filamentkontor. Kobra FDM-Drucker, Photon Resin-Drucker, UV-Resin, Wash &  und Zubehör. Versand innerhalb von 24 h aus Hamburg.
-  Updated: 2026-06-27T23:35:13Z
+  Updated: 2026-07-19T19:25:06Z
   Total Products: 0
 - [3DLAC – Haftspray für den 3D-Druck](https://filamentkontor.de/collections/3dlac): 3DLAC Haftspray beim Filamentkontor. Spray, Stick und 3DNYLON für PLA, PETG, ABS und Nylon. Alle Größen auf Lager, Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 6
 - [POLYMAKER Filament - für zuverlässig gleichbleibende Drucke](https://filamentkontor.de/collections/polymaker): Polymaker Filament beim Filamentkontor. PolyLite, Panchroma, Fiberon und mehr. Toleranz ±0,02 mm, Versand in 24 h aus Hamburg.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T19:55:20Z
   Total Products: 29
 - [SAKATA 3D](https://filamentkontor.de/collections/sakata-3d): Sakata 3D Filament beim Filamentkontor. PLA, PETG, ABS, ASA, TPU aus spanischer Produktion. Enge Toleranzen, Versand in 24 h aus Hamburg.
   Updated: 2026-07-14T06:37:51Z
   Total Products: 18
 - [DIAMANT Polymer](https://filamentkontor.de/collections/diamant-polymer): DIAMANT Polymer beim Filamentkontor. dichtol AM Hydro, UV Protection und CleanBed Pro für FDM-Drucke aus PLA, PETG und ABS. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-08T11:45:59Z
+  Updated: 2026-07-22T11:45:19Z
   Total Products: 5
 - [PETG Filament](https://filamentkontor.de/collections/petg): PETG Filament beim Filamentkontor. Robust, UV-stabil, geprüfte Toleranz. Versand in 24 h aus Hamburg. 1,75 mm für Bambu Lab, Prusa und Co.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 26
 - [3D-Drucker](https://filamentkontor.de/collections/3d-drucker-fdm): FDM-3D-Drucker beim Filamentkontor. Für Einsteiger und Profis, kompatibel mit PLA, PETG, ABS und mehr. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T22:24:54Z
   Total Products: 15
 - [Filamente](https://filamentkontor.de/collections/filament): 3D-Druck Filament beim Filamentkontor: Bambu Lab, Polymaker, Fiberlogy & mehr. 1,75 & 2,85 mm, Versand in 24 h aus Hamburg.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T19:55:20Z
   Total Products: 121
 - [ASA Filament](https://filamentkontor.de/collections/asa): ASA Filament beim Filamentkontor. UV- und witterungsbeständig, 240 bis 260 °C, von Polymaker, Bambu Lab, Sakata 3D und mehr. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-12T11:39:35Z
+  Updated: 2026-07-24T19:55:20Z
   Total Products: 11
 - [ABS Filament](https://filamentkontor.de/collections/abs): ABS Filament beim Filamentkontor. Formstabil bis über 90 °C, von Bambu Lab, Professional Lab und Sakata 3D. ABS, ABS+ und ABS-GF. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-12T11:39:35Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 8
 - [3D-Druck Zubehör](https://filamentkontor.de/collections/3d-druck-zubehoer-fuer-perfekte-druckergebnisse): 3D-Druck Zubehör beim Filamentkontor. Haftmittel, Filamenttrockner, Reinigungsmittel und Hotends für saubere Drucke. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-15T21:03:51Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 59
 - [CoPE Filament](https://filamentkontor.de/collections/cope): Panchroma CoPE beim Filamentkontor. Copolyester, bis 400 mm/s, 190–230 °C, AMS-kompatibel. Ideal als Breakaway-Stütze. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-10T13:17:11Z
+  Updated: 2026-07-23T11:43:56Z
   Total Products: 1
 - [Polymaker FIBERON](https://filamentkontor.de/collections/fiberon): Polymaker FIBERON bietet technische 3D-Druckfilamente mit außergewöhnlicher Festigkeit und Hitzebeständigkeit für industrielle Anwendungen.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 12
 - [SPEZIAL FILAMENTE](https://filamentkontor.de/collections/spezial-filamente): Spezial-Filamente beim Filamentkontor: Carbon-Nylon, PPS, ESD und ASA-CF von Polymaker Fiberon, Fiberlogy und mehr. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 23
 - [Nylon Filament](https://filamentkontor.de/collections/nylon): Nylon Filament beim Filamentkontor. Zäh, temperaturbeständig, chemisch resistent. PA6, PA12, faserverstärkt. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-20T11:42:53Z
   Total Products: 9
 - [IMAGINE S.C.](https://filamentkontor.de/collections/imagine-s-c): Smart Print als günstiger Einstieg, Professional Lab für anspruchsvolle Drucke. PLA, PLA+ und PETG beim Filamentkontor. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 21
 - [AVADA - Best Sellers](https://filamentkontor.de/collections/avada-best-sellers)
-  Updated: 2026-07-15T21:03:51Z
-  Total Products: 202
+  Updated: 2026-07-24T22:24:54Z
+  Total Products: 203
 - [Bambu Lab Filament und Zubehör](https://filamentkontor.de/collections/bambu-lab): Bambu Lab Filament, Hotends und Zubehör beim Filamentkontor. RFID-Spulen für AMS, Original-Hotends für A1, P1, P2 und H2, X1. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 34
 - [AZUREFILM](https://filamentkontor.de/collections/azurefilm): AzureFilm Filament beim Filamentkontor. PLA, PETG, ABS, ASA, Nylon und Spezialfilamente aus europäischer Produktion. Versand in 24 h aus Hamburg.
   Updated: 2026-06-27T23:35:14Z
   Total Products: 5
 - [Haftmittel für den 3D-Druck](https://filamentkontor.de/collections/haftmittel): Haftmittel für den 3D-Druck beim Filamentkontor. 3DLAC Haftspray, Klebestifte und Haftgrund für PLA, PETG, ABS und PA-CF. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-15T21:03:51Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 9
 - [Hotends für 3D-Drucker](https://filamentkontor.de/collections/hotends): Entdecke Hotends für deinen 3D-Druck! Passend zum Thema 3D-Druck, für konstanten Materialfluss und zuverlässige Druckergebnisse.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-23T11:43:56Z
   Total Products: 6
 - [Reinigungsmittel für den 3D-Druck](https://filamentkontor.de/collections/reinigungsmittel): Reinigungsmittel für den 3D-Druck beim Filamentkontor. Isopropanol 99 %, Reinigungsfilament und Aceton für Druckbett und Düse. Versand in 24 h.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-22T11:45:19Z
   Total Products: 3
 - [Filamenttrockner](https://filamentkontor.de/collections/filamenttrockner): Filamenttrockner beim Filamentkontor. 40 bis 80 °C, Restfeuchte unter 15 % rH. Für PLA, PETG, Nylon und PA-CF. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T06:38:46Z
+  Updated: 2026-07-21T11:45:37Z
   Total Products: 9
 - [Versiegelung für 3D-Drucke](https://filamentkontor.de/collections/versiegelung): Versiegelung für den 3D-Druck beim Filamentkontor. DIAMANT Polymer dichtol AM Hydro und UV Protection für PLA, PETG und ABS. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-08T11:45:59Z
+  Updated: 2026-07-22T11:45:19Z
   Total Products: 4
 - [Trockenmittel für den 3D-Druck](https://filamentkontor.de/collections/trockenmittel): Trockenmittel für den 3D-Druck beim Filamentkontor. Silica-Gel und Molekularsieb halten Filament unter 15 % Luftfeuchte. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T06:38:29Z
+  Updated: 2026-07-21T11:45:37Z
   Total Products: 2
 - [TPU Filament - Flexible 3D Drucklösungen entdecken](https://filamentkontor.de/collections/tpu): Entdecke TPU für flexible 3D Drucklösungen. Ideal für belastbare und deformierbare Teile, perfekt für technische Anwendungen.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 2
 - [Resin](https://filamentkontor.de/collections/resin-fuer-3d-druck): esin für den 3D-Druck beim Filamentkontor. Standard, flexibel, transparent, wasserwaschbar und mehr. Für MSLA, SLA und DLP. Versand in 24 h aus Hamburg.
-  Updated: 2026-06-27T23:35:15Z
+  Updated: 2026-07-19T19:24:09Z
   Total Products: 2
 - [Klebstoffe für den 3D-Druck - Halt in Sekunden](https://filamentkontor.de/collections/klebstoffe-fur-den-3d-druck): Klebstoffe für den 3D-Druck beim Filamentkontor. ARKA Kraftprotz Cyanacrylat in 3 Viskositäten plus Aktivator-Spray. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 3
 - [Alle Produkte für den 3D-Druck](https://filamentkontor.de/collections/alle-produkte): Filament, Zubehör und Werkzeuge für den 3D-Druck beim Filamentkontor. PLA, PETG und Technikmaterial von Bambu Lab, Polymaker und Co. Versand in 24 h.
-  Updated: 2026-07-15T21:03:51Z
-  Total Products: 202
+  Updated: 2026-07-24T22:24:54Z
+  Total Products: 203
 - [Fiberlogy Filament](https://filamentkontor.de/collections/fiberlogy): Fiberlogy Filament: Qualität für anspruchsvolle Anwendungen Fiberlogy ist ein polnischer Hersteller, der sich auf hochwertige FDM-Filamente für Maker, Ingenieure und Profis spezialisiert hat. Das Sortiment reicht von alltagstauglichem PLA und PETG über technische Materialien wie ABS, ASA und Nylon bis hin zu Spezialfilamenten mit Faser- oder Metallbeimischungen. Alle Fiberlogy-Filamente werden mit engen Durchmessertoleranzen gefertigt und sind auf zuverlässigen, gleichmäßigen Druck ausgelegt. Ein klarer Fokus der Marke liegt auf reproduzierbaren Ergebnissen: Fiberlogy setzt auf konstante Rohstoffqualität und kontrollierte Produktion, damit du von Spule zu Spule dieselben Druckergebnisse erhältst. Ob du einfache Prototypen oder technisch anspruchsvolle Bauteile druckst – Fiberlogy bietet für jeden Anwendungsfall das passende Material. Was spricht für Fiberlogy? Breites Sortiment: PLA, PETG, ABS, ASA, Nylon, Spezialfilamente Enge Maßtoleranzen für gleichmäßigen Materialfluss und zuverlässige Druckergebnisse Europäische Produktion mit kontrollierter Rohstoffqualität Kompatibel mit den gängigen FDM-Druckern und Slicer-Profilen Für Einsteiger und erfahrene Anwender gleichermaßen geeignet Beim Filamentkontor findest du Fiberlogy Filamente für jedes Projekt – vom ersten Druck bis zur Serienanwendung. Versand innerhalb von 24 Stunden aus Hamburg. Bei Fragen zu Materialwahl oder Druckeinstellungen erreichst du uns per Mail oder Chat.
   Updated: 2026-06-27T23:35:15Z
   Total Products: 2
@@ -2754,34 +2754,34 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
   Updated: 2026-07-10T10:38:15Z
   Total Products: 10
 - [3D-Scanner Zubehör](https://filamentkontor.de/collections/3d-scanner-zubehor): 3D-Scanner Zubehör beim Filamentkontor. Mattierungssprays, Drehteller, Markierungspunkte und mehr für präzise Scan-Ergebnisse. Versand in 24 h.
-  Updated: 2026-07-10T10:38:15Z
+  Updated: 2026-07-19T19:24:48Z
   Total Products: 3
 - [ARKA Kraftprotz Sekundenkleber für 3D-Druck | Filamentkontor](https://filamentkontor.de/collections/arka): ARKA Kraftprotz beim Filamentkontor. Cyanacrylat-Kleber in 3 Viskositäten plus Aktivator-Spray für PLA, PETG, ABS und mehr. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-24T11:47:04Z
   Total Products: 3
 - [Schmiermittel für den 3D-Druck](https://filamentkontor.de/collections/schmiermittel): Schmiermittel für den 3D-Druck beim Filamentkontor. PTFE-Fett, Silikonfett und Öl für Linearführungen und Spindeln. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-22T11:45:19Z
   Total Products: 8
 - [Synco Lube](https://filamentkontor.de/collections/synco-lube): Synco Lube Schmiermittel beim Filamentkontor. Synthetisches PTFE-Fett für Linearführungen und Spindeln, -45 bis +232 °C. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-22T11:45:19Z
   Total Products: 7
 - [CREALITY](https://filamentkontor.de/collections/creality): Creality 3D-Drucker beim Filamentkontor. Ender-3, K2 Combo und Hi ab 169 Euro. FDM-Drucker für Einsteiger und Fortgeschrittene. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-11T11:44:29Z
+  Updated: 2026-07-18T22:45:19Z
   Total Products: 20
 - [SNAPMAKER](https://filamentkontor.de/collections/snapmaker): Snapmaker 3D-Drucker beim Filamentkontor. Multimaterial, CoreXY, bis 300 °C für PLA, PETG, ABS und mehr. Für Maker und Prototypenentwickler. Versand in 24 h.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T22:24:54Z
   Total Products: 1
 - [Kexcelled](https://filamentkontor.de/collections/kexcelled): Kexcelled Filament beim Filamentkontor: PLA, PETG, ABS, TPU und mehr mit ±0,03 mm Toleranz. Versand in 24 h aus Hamburg.
-  Updated: 2026-07-14T11:49:33Z
+  Updated: 2026-07-22T11:45:19Z
   Total Products: 3
 - [Resin-Drucker](https://filamentkontor.de/collections/resin-drucker)
   Updated: 2026-06-22T15:10:53Z
   Total Products: 0
 - [FDM/FFF 3D-Drucker](https://filamentkontor.de/collections/fdm-fff-drucker): FDM/FFF 3D Drucker kaufen: Snapmaker, Creality, Flashforge & weitere Marken für Hobby, Schule & Gewerbe beim Filamentkontor.
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-24T22:24:54Z
   Total Products: 15
 - [Flashforge](https://filamentkontor.de/collections/flashforge)
-  Updated: 2026-07-15T11:49:16Z
+  Updated: 2026-07-19T16:56:42Z
   Total Products: 9
 
 ## Blogs
@@ -2803,20 +2803,20 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-02-08T21:02:37Z
     Author: Sebastian Nickels
   - [3DLAC – Die Lösung für perfekte 3D-Druck Haftung](https://filamentkontor.de/blogs/filamentkontor-news/3dlac-haftung-fuer-3d-druck): 3DLAC – Die Lösung für perfekte 3D-Druck Haftung
-    Updated: 2026-02-08T21:02:29Z
+    Updated: 2026-07-17T09:31:52Z
     Author: Sebastian Nickels
     Tags: 3DLac
   - [Nachhaltigkeit schreiben wir GROß](https://filamentkontor.de/blogs/filamentkontor-news/verantwortung-fuer-verpackungen-nachhaltigkeit): Nachhaltigkeit schreiben wir GROß
     Updated: 2026-02-08T21:02:31Z
     Author: Sebastian Nickels
   - [Hochwertiges 3D-Druck-Filament: woran du es merkst](https://filamentkontor.de/blogs/filamentkontor-news/hochwertiges-3d-druck-filament-woran-du-es-merkst): Hochwertiges 3D Druck Filament senkt Fehldrucke: Durchmesser, Wicklung, Trockenheit und Materialwahl - so erkennst du Qualität im Druckalltag.
-    Updated: 2026-02-17T12:25:03Z
+    Updated: 2026-07-19T09:30:37Z
     Author: Admin
   - [So findest du den richtigen Filament-Shop online](https://filamentkontor.de/blogs/filamentkontor-news/richtigen-filament-shop-online-finden): 3d druck filament online shop: So erkennst du Qualität, findest das passende Material und reduzierst Fehldrucke mit der richtigen Auswahl.
     Updated: 2026-02-17T12:21:53Z
     Author: Admin
   - [Zubehör für den 3D-Druck – Effizienter Drucken ohne Fehldrucke](https://filamentkontor.de/blogs/filamentkontor-news/zubehoer-3d-druck-fehldrucke-reduzieren): Zubehör für den 3D-Druck – Effizienter Drucken ohne Fehldrucke
-    Updated: 2026-02-25T07:09:34Z
+    Updated: 2026-07-19T09:30:42Z
     Author: Admin
   - [Filamente für den 3D-Druck richtig wählen](https://filamentkontor.de/blogs/filamentkontor-news/filamente-fuer-den-3d-druck-richtig-waehlen): Filamente für den 3D Druck: PLA, PETG, ASA, ABS, Nylon, TPU - inkl. Qualitätskriterien, Trocknung und Tipps gegen Warping &amp; Stringing.
     Updated: 2026-02-19T04:11:42Z
@@ -2852,7 +2852,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-03-01T02:42:28Z
     Author: Admin
   - [Haftmittel für 3D-Druckplatte richtig wählen](https://filamentkontor.de/blogs/filamentkontor-news/haftmittel-fuer-3d-druckplatte-richtig-waehlen): Haftmittel für 3d druckplatte: Welche Mittel wann helfen, wie du sie sauber anwendest und Warping, Ablösen und Schäden an der Druckplatte vermeidest.
-    Updated: 2026-03-02T01:47:47Z
+    Updated: 2026-07-19T09:30:47Z
     Author: Admin
   - [Sekundenkleber für 3D-Druck-Teile richtig nutzen](https://filamentkontor.de/blogs/filamentkontor-news/sekundenkleber-fuer-3d-druck-teile-richtig-nutzen): Sekundenkleber für 3d druck teile: So wählst du den passenden Kleber für PLA, PETG, ABS &amp; TPU - mit Vorbereitung, Tipps und Fehlern.
     Updated: 2026-03-03T00:51:10Z
@@ -2909,7 +2909,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-04-12T21:33:45Z
     Author: Admin
   - [3D-Druck-Haftung: Was wirklich hilft](https://filamentkontor.de/blogs/filamentkontor-news/3d-druck-haftung): 3D-Druck-Haftung: Was wirklich hilft
-    Updated: 2026-04-12T21:33:42Z
+    Updated: 2026-07-18T22:27:32Z
     Author: Admin
   - [Beste Filamenttrockner für FDM im Vergleich](https://filamentkontor.de/blogs/filamentkontor-news/beste-filamenttrockner-fuer-fdm): Beste Filamenttrockner für FDM im Vergleich
     Updated: 2026-04-12T21:33:40Z
@@ -2957,7 +2957,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-04-12T21:33:26Z
     Author: Admin
   - [3D-Druck-Zubehör-Starter-Set für Einsteiger](https://filamentkontor.de/blogs/filamentkontor-news/3d-druck-zubehoer-starter-set-fuer-einsteiger): 3D-Druck-Zubehör-Starter-Set für Einsteiger
-    Updated: 2026-04-12T21:33:24Z
+    Updated: 2026-07-17T09:31:01Z
     Author: Admin
   - [Bestes TPU-Filament für flexible Dämpfer](https://filamentkontor.de/blogs/filamentkontor-news/bestes-tpu-filament-fuer-flexible-daempfer): Bestes TPU-Filament für flexible Dämpfer
     Updated: 2026-04-12T21:33:21Z
@@ -3029,7 +3029,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-04-28T04:24:45Z
     Author: Admin
   - [Die wichtigsten 3D-Druck-Wartungsteile](https://filamentkontor.de/blogs/filamentkontor-news/wichtigste-3d-druck-wartungsteile): Die wichtigsten 3D-Druck-Wartungsteile
-    Updated: 2026-07-14T14:41:52Z
+    Updated: 2026-07-19T09:30:32Z
     Author: Admin
   - [3D-Druck-Versiegelung für PLA wasserfest machen](https://filamentkontor.de/blogs/filamentkontor-news/3d-druck-versiegelung-fuer-pla-wasserfest-machen): 3D-Druck-Versiegelung für PLA wasserfest machen
     Updated: 2026-04-30T04:33:46Z
@@ -3041,7 +3041,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-07-14T14:50:54Z
     Author: Admin
   - [Beste 3D-Druck-Klebstoffe für PLA](https://filamentkontor.de/blogs/filamentkontor-news/beste-3d-druck-klebstoffe-fuer-pla): Beste 3D-Druck-Klebstoffe für PLA
-    Updated: 2026-05-03T04:36:15Z
+    Updated: 2026-07-19T09:30:58Z
     Author: Admin
   - [Welche Düse für Carbon Filament?](https://filamentkontor.de/blogs/filamentkontor-news/welche-duese-fuer-carbon-filament): Welche Düse für Carbon Filament?
     Updated: 2026-05-04T04:42:16Z
@@ -3062,16 +3062,16 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-05-09T05:09:39Z
     Author: Admin
   - [Beste PETG-Filamente für Funktionsteile](https://filamentkontor.de/blogs/filamentkontor-news/beste-petg-filamente-fuer-funktionsteile): Beste PETG-Filamente für Funktionsteile
-    Updated: 2026-05-11T05:15:49Z
+    Updated: 2026-07-19T09:31:12Z
     Author: Admin
   - [Welches Filament ist lebensmittelecht im 3D-Druck?](https://filamentkontor.de/blogs/filamentkontor-news/welches-filament-ist-lebensmittelecht-im-3d-druck): Welches Filament ist lebensmittelecht im 3D-Druck?
-    Updated: 2026-05-13T02:24:13Z
+    Updated: 2026-07-19T09:30:53Z
     Author: Admin
   - [Anleitung für Filament-Trockner-Auswahl](https://filamentkontor.de/blogs/filamentkontor-news/anleitung-fuer-filament-trockner-auswahl): Anleitung für Filament-Trockner-Auswahl
     Updated: 2026-05-15T01:21:35Z
     Author: Admin
   - [Guide für reproduzierbare 3D-Druckergebnisse](https://filamentkontor.de/blogs/filamentkontor-news/guide-fuer-reproduzierbare-3d-druckergebnisse): Guide für reproduzierbare 3D-Druckergebnisse
-    Updated: 2026-05-17T01:24:34Z
+    Updated: 2026-07-17T08:05:35Z
     Author: Admin
   - [ASA oder ABS Filament - was passt besser?](https://filamentkontor.de/blogs/filamentkontor-news/asa-oder-abs-filament-was-passt-besser): ASA oder ABS Filament - was passt besser?
     Updated: 2026-05-19T01:54:08Z
@@ -3080,7 +3080,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-07-14T14:52:21Z
     Author: Admin
   - [3D-Druck-Filament: Qualitätskriterien beim Kauf](https://filamentkontor.de/blogs/filamentkontor-news/3d-druck-filament-qualitaetskriterien-beim-kauf): 3D-Druck-Filament: Qualitätskriterien beim Kauf
-    Updated: 2026-05-21T01:54:07Z
+    Updated: 2026-07-19T09:31:03Z
     Author: Admin
   - [Spezialfilament für Funktionsteile wählen](https://filamentkontor.de/blogs/filamentkontor-news/spezialfilament-fuer-funktionsteile-waehlen): Spezialfilament für Funktionsteile wählen
     Updated: 2026-05-22T04:54:07Z
@@ -3107,7 +3107,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-05-29T02:42:20Z
     Author: Admin
   - [3D-Druck-Klebstoff anwenden ohne Fehlgriffe](https://filamentkontor.de/blogs/filamentkontor-news/3d-druck-klebstoff-anwenden): 3D-Druck-Klebstoff anwenden ohne Fehlgriffe
-    Updated: 2026-07-14T14:43:06Z
+    Updated: 2026-07-19T09:31:07Z
     Author: Admin
   - [Filament Hamburg sofort abholen - so geht's](https://filamentkontor.de/blogs/filamentkontor-news/filament-hamburg-sofort-abholen): Filament Hamburg sofort abholen - so geht's
     Updated: 2026-05-31T01:57:25Z
@@ -3167,7 +3167,7 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
     Updated: 2026-06-16T01:27:35Z
     Author: Admin
   - [Druckbett-Haftung verbessern bei PETG](https://filamentkontor.de/blogs/filamentkontor-news/druckbett-haftung-verbessern-petg): Druckbett-Haftung verbessern bei PETG
-    Updated: 2026-06-17T01:24:36Z
+    Updated: 2026-07-17T09:28:30Z
     Author: Admin
   - [SUNLU Filamenttrockner Testbericht im Praxischeck](https://filamentkontor.de/blogs/filamentkontor-news/sunlu-filamenttrockner-testbericht-praxischeck): SUNLU Filamenttrockner Testbericht im Praxischeck
     Updated: 2026-06-18T01:21:51Z
@@ -3243,19 +3243,19 @@ Filamentkontor ist der Spezialist für 3D-Druck-Filamente in Deutschland. Wir f�
 
 - [Kontakt – Dein direkter Draht zum Filamentkontor Hamburg](https://filamentkontor.de/pages/kontakt): 
   Updated: 2025-12-12T23:12:16Z
-- [Experten-FAQ zum 3D-Druck | Filamentkontor Hamburg](https://filamentkontor.de/pages/faq-3d-druck-wissensdatenbank): Die Filamentkontor Wissensdatenbank zum 3D-Druck Über uns & unser Versprechen Warum bei Filamentkontor kaufen und nicht bei Amazon & Co.? Weil wir ...
-  Updated: 2026-06-03T18:09:09Z
+- [Experten-FAQ zum 3D-Druck | Filamentkontor Hamburg](https://filamentkontor.de/pages/faq-3d-druck-wissensdatenbank): 3D-Druck-Wissen kompakt: Materialien, Resin, Fehlerbehebung & Glossar Zuletzt aktualisiert am 19. Juli 2026 · Erstellt vom Filamentkontor-Expertent...
+  Updated: 2026-07-24T22:30:20Z
 
 ## Policies
 
 - [Privacy Policy](https://filamentkontor.de/policies/privacy-policy)
-  Updated: 2026-07-15T06:12:53+02:00
+  Updated: 2026-07-24T16:44:28+02:00
 - [Shipping Policy](https://filamentkontor.de/policies/shipping-policy)
   Updated: 2026-06-17T17:42:30+02:00
 - [Refund Policy](https://filamentkontor.de/policies/refund-policy)
-  Updated: 2026-07-09T16:45:22+02:00
+  Updated: 2026-07-24T16:45:13+02:00
 - [Terms of Service](https://filamentkontor.de/policies/terms-of-service)
-  Updated: 2026-07-15T06:11:49+02:00
+  Updated: 2026-07-24T16:40:55+02:00
 - [Contact Information](https://filamentkontor.de/policies/contact-information)
   Updated: 2025-10-05T02:43:45+02:00
 
