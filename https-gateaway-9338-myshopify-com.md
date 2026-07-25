@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-06-28T10:57:43Z
 - Contact Email: jannis.terborg@gmail.com
-- Updated At: 2026-07-16T00:00:32.008Z
+- Updated At: 2026-07-25T00:00:34.948Z
 
 ## Products
 
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0979/4915/5661/files/Sfebf11841be9440a963aad0619e1ed33S.webp?v=1782905503
     Price: €89.99 EUR
 - [Cycling Glasses Sunglasses For Men Women Sport Outdoor Sun Glasses Bike Wrap Eyeglasses Bicycle Windproof Eyewear Goggles UV400](https://gateaway-9338.myshopify.com/products/cycling-glasses-sunglasses-for-men-women-sport-outdoor-sun-glasses-bike-wrap-eyeglasses-bicycle-windproof-eyewear-goggles-uv400): SPECIFICATIONSApplicable Scenarios: CasualBrand Name: Ah-MeeCertification: CEChoice: yesDepartment Name: AdultElement type: Basic ClassicEyewear Type: SunglassesFrame Material: PlasticGender: WomenHigh-concerned chemical: NoneItem Type: EYEWEARLens Height: 45mmLens Width: 66mmLenses Material: PolycarbonateLenses Optical Attribute: Gradient,UV400Model Number: ah102Origin: Mainland ChinaPlace Of Origin: China (mainland)Product Type: Sunscreen sunglassesStyle type: Rectangle
-  Updated: 2026-07-01T23:31:49Z
+  Updated: 2026-07-18T00:40:24Z
   Vendor: GateAway
   Product Type: 
   Availability: Available
@@ -183,6 +183,18 @@
     Author: GateAway
   - [Insider Secrets to Timeless Decorating Styles](https://gateaway-9338.myshopify.com/blogs/news/insider-secrets-to-timeless-decorating-styles): Insider Secrets to Timeless Decorating Styles
     Updated: 2026-07-14T00:50:30Z
+    Author: GateAway
+  - [Breaking Down the Benefits of an Open Floor Plan](https://gateaway-9338.myshopify.com/blogs/news/breaking-down-the-benefits-of-an-open-floor-plan): Breaking Down the Benefits of an Open Floor Plan
+    Updated: 2026-07-17T00:43:56Z
+    Author: GateAway
+  - [The Historical Evolution of Home Architecture](https://gateaway-9338.myshopify.com/blogs/news/the-historical-evolution-of-home-architecture): The Historical Evolution of Home Architecture
+    Updated: 2026-07-19T00:30:34Z
+    Author: GateAway
+  - [Common Myths About Minimalist Living Debunked](https://gateaway-9338.myshopify.com/blogs/news/common-myths-about-minimalist-living-debunked): Common Myths About Minimalist Living Debunked
+    Updated: 2026-07-21T00:47:49Z
+    Author: GateAway
+  - [Exploring Innovative Home Layout Ideas for Small Spaces](https://gateaway-9338.myshopify.com/blogs/news/exploring-innovative-home-layout-ideas-for-small-spaces): Exploring Innovative Home Layout Ideas for Small Spaces
+    Updated: 2026-07-24T00:31:56Z
     Author: GateAway
 
 ## Store Pages
