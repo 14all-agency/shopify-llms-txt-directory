@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-20T07:27:11Z
 - Contact Email: garimas.store@gmail.com
-- Updated At: 2026-07-16T00:00:40.309Z
+- Updated At: 2026-07-25T00:00:42.556Z
 
 ## Products
 
@@ -46,11 +46,11 @@
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250515_131144.jpg?v=1780672795
   Price: ₹1,440.00 INR
 - [Silver Plated Aqua Purple Stone Necklace Set](https://garimas.com/products/silver-plated-aqua-pink-stone-american-diamond-necklace-sets-1): Shop Garimas American Diamond Necklace Sets with stunning aqua pink stones. Elevate your style today!
-  Updated: 2026-06-18T03:37:26Z
+  Updated: 2026-07-21T15:38:28Z
   Vendor: Garimas Lifestyle
   Product Type: Necklace Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_c6a0d5fd-9874-4d8f-a3d0-491f01f0c4b1.png?v=1780672802
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/IMG_20260617_204304.png?v=1784569123
   Price: ₹1,440.00 INR
 - [Black Rose Gold Plated American Diamond Necklace](https://garimas.com/products/black-rose-gold-plated-american-diamond-necklace-sets-with-white-stone): Shop stunning Black Rose Gold Plated American Diamond Necklace Sets with elegant white stones. Perfect for any occasion!
   Updated: 2026-06-06T14:13:38Z
@@ -87,29 +87,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250515_125948.jpg?v=1780673030
   Price: ₹999.00 INR
-- [Gold Plated Blue Stone Earrings with American Diamonds](https://garimas.com/products/gold-plated-blue-stone-with-american-diamond-earring-1): Shop stunning gold plated earrings featuring blue stones and American diamonds. Elevate your style with this exquisite jewelry piece today!
-  Updated: 2026-06-06T14:14:49Z
-  Vendor: Garimas Lifestyle
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_49694b68-6c5c-43bd-9c89-14d41952f96f.jpg?v=1780673065
-  Price: ₹300.00 INR
-- [Green Stone with American Diamond Drop Earring](https://garimas.com/products/green-stone-with-american-diamond-drop-earring-1): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:55:36Z
-  Vendor: Garimas Lifestyle
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_1b69c395-c2af-4361-a0de-963693f1ba3a.jpg?v=1780673071
-  Price: ₹288.00 INR
-- [CZ Stone with American Diamond Drop Earring](https://garimas.com/products/cz-stone-with-american-diamond-drop-earring-1): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:55:36Z
-  Vendor: Garimas Lifestyle
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/100932059050_cee55d2cd7df11efafe58584d6140a20_output_0.jpg?v=1752997345
-  Price: ₹312.00 INR
 - [Gold Plated Green Stone with American Diamond Earring](https://garimas.com/products/gold-plated-green-stone-with-american-diamond-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:55:37Z
+  Updated: 2026-07-17T07:07:07Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
@@ -122,78 +101,57 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/100021965883_8703cf1cd7de11ef9e4dd52c6a9efbde_output_0.jpg?v=1752997359
   Price: ₹312.00 INR
-- [Purple Stone American Diamond Brass Drops](https://garimas.com/products/purple-stone-american-diamond-brass-drops): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-06T14:14:58Z
-  Vendor: Garimas Lifestyle
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_20e6f93a-a185-4890-98b1-b8201fc57fb4.png?v=1780673184
-  Price: ₹468.00 INR
-- [Aqua Blue Stone American Diamond Brass Drops](https://garimas.com/products/aqua-blue-american-diamond-drops): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:55:37Z
+- [Blue Stone American Diamond Brass Drops](https://garimas.com/products/aqua-blue-american-diamond-drops): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
+  Updated: 2026-07-17T19:13:16Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250108_172001.jpg?v=1752997376
   Price: ₹468.00 INR
-- [Aqua Green Stone American Diamond Brass Drops](https://garimas.com/products/aqua-green-stone-american-diamond-brass-drops): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-06T14:15:01Z
-  Vendor: Garimas Lifestyle
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_73821ecd-6446-4aaf-9a1a-a9df2e023ceb.png?v=1780673207
-  Price: ₹468.00 INR
 - [CZ Stone with American Diamond Drop Earring](https://garimas.com/products/cz-stone-with-american-diamond-drop-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-06T14:15:07Z
+  Updated: 2026-07-17T07:12:22Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_3eb90dbe-178f-41d7-9332-c07ed43b0e7c.jpg?v=1780673215
   Price: ₹348.00 INR
 - [Purple Stone with American Diamond Drop Earring](https://garimas.com/products/purple-stone-with-american-diamond-drop-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-07-15T10:49:17Z
+  Updated: 2026-07-17T07:11:46Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250214-181149.jpg?v=1780673221
   Price: ₹348.00 INR
 - [Blue Stone with American Diamond Drop Earring](https://garimas.com/products/blue-stone-with-american-diamond-drop-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:55:38Z
+  Updated: 2026-07-17T07:10:58Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/101512105082_99944646d7e011ef9e4dd52c6a9efbde_output_0.jpg?v=1752997399
   Price: ₹348.00 INR
 - [Green Stone with American Diamond Drop Earring](https://garimas.com/products/green-stone-with-american-diamond-drop-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:55:38Z
+  Updated: 2026-07-17T07:10:47Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/101401528040_6f831292d7e011efafe58584d6140a20_output_0.jpg?v=1752997406
   Price: ₹348.00 INR
 - [Aqua Pink Stone with American Diamond Earring](https://garimas.com/products/aqua-pink-stone-with-american-diamond-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-06T14:15:21Z
+  Updated: 2026-07-17T07:10:13Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Screenshot_2025-01-21_151928.png?v=1752997440
   Price: ₹564.00 INR
-- [Purple Stone with American Diamond Earring](https://garimas.com/products/purple-stone-with-american-diamond-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:55:39Z
-  Vendor: Garimas Lifestyle
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/100821280495_a4b569acd7df11efafe58584d6140a20_output_0.jpg?v=1752997452
-  Price: ₹564.00 INR
 - [Pink American Diamond Studded Crystal Brass Drops & Danglers](https://garimas.com/products/pink-american-diamond-studded-crystal-brass-drops-danglers-1): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-06T14:15:47Z
+  Updated: 2026-07-17T07:09:46Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Screenshot_2025-01-20_220252.png?v=1752997499
   Price: ₹1,032.00 INR
 - [Aqua Green American Diamond Crystal Brass Drops & Danglers](https://garimas.com/products/aqua-green-american-diamond-studded-crystal-brass-drops-danglers): Awesome Latest Trendy Original American Diamond Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-06T14:08:47Z
+  Updated: 2026-07-17T07:09:27Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
@@ -207,26 +165,19 @@
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/163910613727_132ff5acd74d11ef9e4dd52c6a9efbde_output_0.jpg?v=1753284506
   Price: ₹1,500.00 INR
 - [Free Gift Wrapping on Orders Over 999](https://garimas.com/products/gift-wrapping): Enjoy complimentary gift wrapping when you spend over 999. Perfect for adding a special touch to your presents, hassle-free!
-  Updated: 2026-06-05T15:55:41Z
+  Updated: 2026-07-20T05:09:27Z
   Vendor: Garimas Lifestyle
   Product Type: GIft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_9de95862-1b37-491b-8dfa-798c2f1082bd.png?v=1752997533
   Price: ₹49.00 INR
 - [Pink Stone with American Diamond Drop Earring](https://garimas.com/products/pink-stone-with-american-diamond-drop-earring-1): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-06T14:15:58Z
+  Updated: 2026-07-17T07:09:12Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250405_125643.png?v=1780673625
   Price: ₹348.00 INR
-- [Silver-Plated Cubic Zirconia Studded Contemporary Drop Earrings](https://garimas.com/products/silver-plated-cubic-zirconia-studded-contemporary-drop-earrings): Elevate your style with our stunning Silver-Plated Cubic Zirconia Studded Contemporary Drop Earrings. These elegant earrings are expertly crafted with silver plating and dazzling cubic zirconia stones that will add a touch of sophistication to any outfit. Perfect for a night out or to add a touch of glamour to your everyday look.
-  Updated: 2026-06-06T14:15:59Z
-  Vendor: Garimas
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_694cf01b-9e85-452d-bf00-2f9e90d74c0c.png?v=1780673633
-  Price: ₹0.00 INR
 - [Multicolor Necklace and Bracelet Set for Baby Girls](https://garimas.com/products/multicolor-necklace-and-bracelet-set-for-baby-girls): Bring vibrant fun to your baby girl’s wardrobe with this multicolor necklace and bracelet set for baby girls.
   Updated: 2026-06-24T01:05:37Z
   Vendor: GARIMAS
@@ -277,18 +228,15 @@
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/IMG_20260615_195649.png?v=1781536669
   Price: ₹299.00 INR
 - [Girls Earring With Premium Glossy Beads Multicolour](https://garimas.com/products/girls-earring-with-premium-glossy-beads-multicolour): Brighten up your little one's jewelry collection with our Girls' Multicolor Premium Glossy Bead Earrings. Crafted with high-quality, high-shine beads, these earrings capture the light beautifully to create a playful and vibrant look. Premium Quality: Made with ultra-glossy, durable beads that resist fading. Vibrant Multicolored Design: A fun mix of colors that matches easily with any outfit. Lightweight & Comfortable: Designed specifically for girls to ensure all-day comfort without pulling. Perfect Gift Idea: Ideal for birthdays, dress-up play, school events, or holiday gifts.
-  Updated: 2026-07-09T20:03:33Z
+  Updated: 2026-07-17T20:10:23Z
   Vendor: Garimas
   Product Type: Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Gemini_Generated_Image_hfj7f7hfj7f7hfj7_b6825dbb-ef3a-4001-b25d-d3484a7678c1.png?v=1783578171
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_d6fc32a5-f2ad-4d36-aae9-313fb930974e.jpg?v=1784275790
   Price: ₹199.00 INR
 
 ## Collections
 
-- [Home page](https://garimas.com/collections/frontpage)
-  Updated: 2026-06-05T15:55:29Z
-  Total Products: 0
 - [Kids Fashion Jewellery](https://garimas.com/collections/kids-fashion-accessories): Discover beautiful kids fashion jewelry that combines fun and style. Perfect accessories to brighten up any child's outfit.
   Updated: 2026-07-15T11:27:04Z
   Total Products: 4
@@ -299,8 +247,8 @@
   Updated: 2026-06-08T06:44:28Z
   Total Products: 5
 - [Earrings](https://garimas.com/collections/earrings): Discover stunning gold stud earrings that combine timeless style with comfort. Perfect for daily wear or special events.
-  Updated: 2026-07-15T11:22:13Z
-  Total Products: 21
+  Updated: 2026-07-17T07:13:09Z
+  Total Products: 18
 - [Best Seller](https://garimas.com/collections/best-seller)
   Updated: 2026-07-15T11:27:04Z
   Total Products: 17
@@ -308,17 +256,11 @@
   Updated: 2026-07-15T11:20:29Z
   Total Products: 19
 - [Bracelates](https://garimas.com/collections/bracelates): Discover our stunning beaded bracelets collection crafted for style and versatility. Perfect accessories to elevate any outfit effortlessly.
-  Updated: 2026-06-06T14:06:49Z
+  Updated: 2026-07-16T10:36:04Z
   Total Products: 2
 - [Phone Charms](https://garimas.com/collections/phone-charms)
-  Updated: 2026-06-08T06:43:09Z
-  Total Products: 0
-- [Deals](https://garimas.com/collections/deals)
-  Updated: 2026-06-05T15:55:30Z
-  Total Products: 0
-- [Amazon](https://garimas.com/collections/amazon)
-  Updated: 2026-07-15T11:19:53Z
-  Total Products: 6
+  Updated: 2026-07-20T05:09:58Z
+  Total Products: 1
 
 ## Blogs
 
@@ -590,6 +532,10 @@
   Updated: 2026-06-05T15:12:38Z
 - [html sitemap](https://garimas.com/pages/html-sitemap): Products Purple Beads Necklace and Brac... Baby Pink Pearl Beaded Unicorn... Pink Pearl Beaded Unicorn Neck... Green and Pink Beads Necklace ... Pu...
   Updated: 2026-06-05T15:12:38Z
+- [kp account](https://garimas.com/pages/kp-account)
+  Updated: 2026-07-18T05:12:14Z
+- [Garimas Brand Story](https://garimas.com/pages/garimas-brand-story): The Story of GARIMAS: A Father’s Love, A Daughter’s Grace Every great brand has an origin, but GARIMAS was born from something far more powerful th...
+  Updated: 2026-07-20T07:36:35Z
 
 ## Policies
 
