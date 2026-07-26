@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-04-12T17:27:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-18T00:00:36.851Z
+- Updated At: 2026-07-26T00:00:38.943Z
 
 ## Products
 
@@ -59,7 +59,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Ride A Cowgirl Tee](https://zolita.merchmadeeasy.com/products/ride-a-cowgirl-tee): 100% heavyweight cotton beige t-shirt. Designed by @peaceandpowershop . Please note: This t-shirt is pigment dyed. Pigment-dyed garments are specially dyed for one-of-a-kind coloring. Size Body Length (in) Chest Width (Laid Flat) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
-  Updated: 2026-07-16T23:01:18Z
+  Updated: 2026-07-18T03:33:49Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -158,7 +158,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Gay Ass Shorts - Black](https://zolita.merchmadeeasy.com/products/gay-ass-shorts): 100% cotton booty shorts Size Relaxed Waist (in) Inseam (in) Outseam (in) S 12 3/4 2 1/2 6 1/2 M 13 1/4 2 3/4 7 L 13 3/4 3 1/4 7 1/4 XL 14 1/4 3 3/4 7 3/4 2XL 14 3/4 4 1/4 8
-  Updated: 2026-07-17T09:50:13Z
+  Updated: 2026-07-18T18:13:12Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
@@ -167,7 +167,7 @@
     Availability: Not Available
     Price: $30.00 USD
   - [M](https://zolita.merchmadeeasy.com/products/gay-ass-shorts?variant=48758379249948)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
   - [L](https://zolita.merchmadeeasy.com/products/gay-ass-shorts?variant=48758379282716)
     Availability: Not Available
@@ -278,7 +278,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Gay Ass Rugby Shirt](https://zolita.merchmadeeasy.com/products/gay-ass-rugby-shirt): 100% carded cotton heavyweight rugby shirt. Made in Los Angeles. Size Chart Size Body Length (in) Chest Width (Laid Flat) S 29 1/2 19 1/2 M 30 1/4 20 3/4 L 31 1/4 22 1/4 XL 32 23 1/2 2XL 32 3/4 25
-  Updated: 2026-07-08T20:23:50Z
+  Updated: 2026-07-18T05:53:12Z
   Vendor: Zolita
   Product Type: Shirt
   Availability: Available
@@ -299,7 +299,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Gay Ass Tee](https://zolita.merchmadeeasy.com/products/gay-ass-tee): 100% cotton t-shirt. Size Body Length (in) Chest Width (Laid Flat) S 27 3/4 17 1/8 M 28 5/8 19 L 29 1/2 21 XL 30 1/2 22 7/8 2XL 31 3/8 24 3/4 3XL 32 3/8 26 5/8
-  Updated: 2026-07-08T20:23:50Z
+  Updated: 2026-07-18T11:32:22Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -322,115 +322,8 @@
   - [3XL](https://zolita.merchmadeeasy.com/products/gay-ass-tee?variant=50388685881628)
     Availability: Available
     Price: $30.00 USD
-- [Crazy Ex Baby Tee](https://zolita.merchmadeeasy.com/products/crazy-ex-baby-tee): 100% organic combed ring spun cotton Size Chart Size Body Length (in) Chest Width (in) L 22 1/4 19 1/4 XL 23 1/4 20 1/4
-  Updated: 2026-07-15T02:24:16Z
-  Vendor: Zolita
-  Product Type: Tee
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLCrazyExBabyTee.png?v=1734035043
-  - [L](https://zolita.merchmadeeasy.com/products/crazy-ex-baby-tee?variant=50840205885724)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://zolita.merchmadeeasy.com/products/crazy-ex-baby-tee?variant=50840205918492)
-    Availability: Available
-    Price: $35.00 USD
-- [So Gay Crop Top](https://zolita.merchmadeeasy.com/products/so-gay-crop-top): 100% cotton Size small fits sizes 2-4
-  Updated: 2026-07-16T10:45:20Z
-  Vendor: Zolita
-  Product Type: Tee
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLlifeissogaycrop.png?v=1734035240
-  Price: $35.00 USD
-- [So Gay Tee](https://zolita.merchmadeeasy.com/products/so-gay-tee): 100% cotton Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-08T20:23:51Z
-  Vendor: Zolita
-  Product Type: Tee
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_life_is_so_gay_tee.png?v=1734035538
-  - [S](https://zolita.merchmadeeasy.com/products/so-gay-tee?variant=50840319820060)
-    Availability: Available
-    Price: $30.00 USD
-  - [M](https://zolita.merchmadeeasy.com/products/so-gay-tee?variant=50840319852828)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://zolita.merchmadeeasy.com/products/so-gay-tee?variant=50840272044316)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://zolita.merchmadeeasy.com/products/so-gay-tee?variant=50840319885596)
-    Availability: Available
-    Price: $35.00 USD
-  - [2XL](https://zolita.merchmadeeasy.com/products/so-gay-tee?variant=50840278991132)
-    Availability: Not Available
-    Price: $35.00 USD
-- [Does She Know Tee](https://zolita.merchmadeeasy.com/products/does-she-know-tee): 100% cotton Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-14T19:31:14Z
-  Vendor: Zolita
-  Product Type: Tee
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_Does_She_Know_Tee.png?v=1734035988
-  - [S](https://zolita.merchmadeeasy.com/products/does-she-know-tee?variant=50840338301212)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://zolita.merchmadeeasy.com/products/does-she-know-tee?variant=50840338333980)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://zolita.merchmadeeasy.com/products/does-she-know-tee?variant=50840338366748)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://zolita.merchmadeeasy.com/products/does-she-know-tee?variant=50840338399516)
-    Availability: Available
-    Price: $35.00 USD
-  - [2XL](https://zolita.merchmadeeasy.com/products/does-she-know-tee?variant=50840338432284)
-    Availability: Available
-    Price: $35.00 USD
-- [Heart Belongs To Zolita Tour Tee](https://zolita.merchmadeeasy.com/products/heart-belongs-to-zolita-tour-tee): 100% cotton Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-08T20:23:52Z
-  Vendor: Zolita
-  Product Type: Tee
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_Falling_In_Falling_OUt_Tour_Tee_Front.png?v=1734640683
-  - [S](https://zolita.merchmadeeasy.com/products/heart-belongs-to-zolita-tour-tee?variant=50885111808284)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://zolita.merchmadeeasy.com/products/heart-belongs-to-zolita-tour-tee?variant=50885111841052)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://zolita.merchmadeeasy.com/products/heart-belongs-to-zolita-tour-tee?variant=50885097062684)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://zolita.merchmadeeasy.com/products/heart-belongs-to-zolita-tour-tee?variant=50885097095452)
-    Availability: Available
-    Price: $35.00 USD
-  - [2XL](https://zolita.merchmadeeasy.com/products/heart-belongs-to-zolita-tour-tee?variant=50885097128220)
-    Availability: Available
-    Price: $35.00 USD
-- [Cult of Girls Trucker Hat](https://zolita.merchmadeeasy.com/products/cult-of-girls-trucker-hat): Mesh-back trucker hat
-  Updated: 2026-07-17T12:38:06Z
-  Vendor: Zolita
-  Product Type: Hat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLCultofGirlsTruckerHat.png?v=1734641248
-  Price: $30.00 USD
-- [Big Bi Energy Tee](https://zolita.merchmadeeasy.com/products/big-bi-energy-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 2XL 32 26
-  Updated: 2026-07-17T07:25:08Z
-  Vendor: Zolita
-  Product Type: Tee
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_BBE_Tee.png?v=1739390210
-  - [S](https://zolita.merchmadeeasy.com/products/big-bi-energy-tee?variant=51251272810780)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://zolita.merchmadeeasy.com/products/big-bi-energy-tee?variant=51251272843548)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://zolita.merchmadeeasy.com/products/big-bi-energy-tee?variant=51251272876316)
-    Availability: Available
-    Price: $35.00 USD
-  - [2XL](https://zolita.merchmadeeasy.com/products/big-bi-energy-tee?variant=51251272909084)
-    Availability: Available
-    Price: $35.00 USD
 - [Hot Girl on the Internet Baby Tee](https://zolita.merchmadeeasy.com/products/hot-girl-on-the-internet-tee): 52% airlume combed and ringspun cotton / 48% polyester. Microrib baby tee in black/white. Size Body Length (in) Chest Width (Laid Flat) S 25 3/4 16 1/4 M 26 1/4 17 1/4 L 26 3/4 18 1/4 XL 27 1/2 19 3/4 2XL 28 1/2 20 3/4
-  Updated: 2026-07-08T20:23:53Z
+  Updated: 2026-07-18T06:06:14Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -544,42 +437,35 @@
   - [2XL](https://zolita.merchmadeeasy.com/products/hells-belles-baby-tee?variant=54088825766172)
     Availability: Available
     Price: $40.00 USD
-- [Cult of Girls Beach Ball](https://zolita.merchmadeeasy.com/products/cult-of-girls-beach-ball): Small PVC beach ball
-  Updated: 2026-07-08T20:23:54Z
-  Vendor: Zolita
-  Product Type: Beach Ball
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLBeachBallInflated.png?v=1780937536
-  Price: $10.00 USD
 
 ## Collections
 
 - [Home page](https://zolita.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-07-08T20:23:56Z
+  Updated: 2026-07-20T19:19:37Z
   Total Products: 36
 - [Apparel](https://zolita.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-07-08T20:23:55Z
+  Updated: 2026-07-20T19:19:37Z
   Total Products: 30
 - [Accessories](https://zolita.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-07-08T20:23:56Z
+  Updated: 2026-07-20T19:19:35Z
   Total Products: 6
 - [Music](https://zolita.merchmadeeasy.com/collections/media)
   Updated: 2026-07-08T20:23:50Z
   Total Products: 10
 - [Hats](https://zolita.merchmadeeasy.com/collections/hats)
-  Updated: 2026-07-08T20:23:54Z
+  Updated: 2026-07-20T19:19:35Z
   Total Products: 1
 - [All](https://zolita.merchmadeeasy.com/collections/all)
-  Updated: 2026-07-08T20:23:56Z
+  Updated: 2026-07-20T19:19:37Z
   Total Products: 46
 - [Queen of Hearts](https://zolita.merchmadeeasy.com/collections/queen-of-hearts)
   Updated: 2026-07-08T20:23:49Z
   Total Products: 9
 - [Queen of Hearts Merch](https://zolita.merchmadeeasy.com/collections/queen-of-hearts-merch)
-  Updated: 2026-07-08T20:23:54Z
+  Updated: 2026-07-19T11:16:05Z
   Total Products: 11
 - [Old Favorites](https://zolita.merchmadeeasy.com/collections/old-favorites)
-  Updated: 2026-07-08T20:23:55Z
+  Updated: 2026-07-20T19:19:37Z
   Total Products: 15
 - [Cult of Girls Collection](https://zolita.merchmadeeasy.com/collections/cult-of-girls-collection)
   Updated: 2026-07-08T20:23:50Z
@@ -588,31 +474,31 @@
   Updated: 2026-07-08T20:23:49Z
   Total Products: 1
 - [Queen of Hearts Tour](https://zolita.merchmadeeasy.com/collections/queen-of-hearts-tour)
-  Updated: 2026-07-08T20:23:55Z
+  Updated: 2026-07-19T11:16:05Z
   Total Products: 12
 - [Gay Ass Collection](https://zolita.merchmadeeasy.com/collections/gay-ass-collection)
-  Updated: 2026-07-08T20:23:55Z
+  Updated: 2026-07-19T11:16:05Z
   Total Products: 8
 - [$20.24](https://zolita.merchmadeeasy.com/collections/20-24)
   Updated: 2026-07-08T20:23:20Z
   Total Products: 0
 - [EasyGift All Products](https://zolita.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-07-08T20:23:56Z
+  Updated: 2026-07-20T19:19:37Z
   Total Products: 48
 - [New](https://zolita.merchmadeeasy.com/collections/new)
   Updated: 2026-07-08T20:23:55Z
   Total Products: 5
 - [New Arrivals](https://zolita.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-07-08T20:23:56Z
+  Updated: 2026-07-20T19:19:37Z
   Total Products: 48
 - [Best Sellers](https://zolita.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-07-08T20:23:56Z
+  Updated: 2026-07-20T19:19:37Z
   Total Products: 48
 - [](https://zolita.merchmadeeasy.com/collections/)
-  Updated: 2026-07-08T20:23:55Z
+  Updated: 2026-07-20T19:19:37Z
   Total Products: 11
 - [Tees & Tanks](https://zolita.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-07-08T20:23:55Z
+  Updated: 2026-07-20T19:19:37Z
   Total Products: 21
 - [I <3 GIRLS](https://zolita.merchmadeeasy.com/collections/i-3-girls)
   Updated: 2026-07-08T20:23:20Z
