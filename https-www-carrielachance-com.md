@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-07-19T12:00:33.480Z
+- Updated At: 2026-07-26T16:00:32.917Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2509,30 +2509,7 @@ File Size: 167 MB
   Product Type: Video Downloads
   Availability: Available
   Price: $40.00 USD
-- [Office Assistant Photo Set](https://www.carrielachance.com/products/office-assistant-photo-set-download): If there were women like this in our offices we wouldn’t call in sick nearly as much. Carrie is wearing an amazingly sexy blue bodysuit under her business jacket which she paired with a leather mini skirt and Madam Butterfly Heels. The color of the bodysuit is incredibly hot and flatters Carrie something fierce. The tight leather mini skirt hugs her hips and booty perfectly. She looks so hot, it’s almost unbelievable. Carrie slowly loses all of her clothes until her perfect naked body is leaning against a filing cabinet. Who said that filing was boring?
-
-Carrie LaChance – Gallery #163 🔞
-Total Images: 53 Photos
-Year: 2015
-File Size: 30 MB
-  Updated: 2026-04-26T20:05:41Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Office_Assistant_Photo_Set.jpg?v=1744586167
-  Price: $70.00 USD
-- [Office Assistant Video](https://www.carrielachance.com/products/office-assistant-video-download): If there were women like this in our offices we wouldn’t call in sick nearly as much. Carrie is wearing an amazingly sexy blue bodysuit under her business jacket which she paired with a leather mini skirt and Madam Butterfly Heels. The color of the bodysuit is incredibly hot and flatters Carrie something fierce. The tight leather miniskirt hugs her hips and booty perfectly. She looks so hot, it’s almost unbelievable. Carrie slowly loses all of her clothes until her perfect naked body is leaning against a filing cabinet. Who said that filing was boring? This video is from Carrie LaChance – Gallery #163
-
-Office Assistant Video 🔞
-Run Time: 5 min
-Year: 2015
-File Size: 183 MB
-  Updated: 2026-04-26T20:05:41Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $60.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTI2ODA2NzkwMzExLCJsYXN0X3ZhbHVlIjoiNTUyNjgwNjc5MDMxMSJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTI2NzQ4NDk2MDM5LCJsYXN0X3ZhbHVlIjoiNTUyNjc0ODQ5NjAzOSJ9)
 
 ## Collections
 
@@ -3096,6 +3073,33 @@ File Size: 183 MB
     Updated: 2026-07-19T00:03:23Z
     Author: Carrie LaChance
     Tags: allure,  diaries,  diary, fashion secrets revealed, glamour fashion, glamour stories, intimacy, seduction, seductive model lifestyle, seductive stories, seductive storytelling
+  - [Unveil Curvy Confidence In High Heels And Glamour Photoshoots](https://www.carrielachance.com/blogs/carrie-lachance/unveil-curvy-confidence-in-high-heels-and-glamour-photoshoots): Unveil Curvy Confidence In High Heels And Glamour Photoshoots
+    Updated: 2026-07-20T08:00:44Z
+    Author: Carrie LaChance
+    Tags: behind the scense, carrie lachance, confidence, curvy fashion, empowering photo shoots, glamour, glamour model, heels, high heel styling, high heels, latex model, life of a model, outfit of the day, pantyhose, photoshoot tips, pinup model, plus size modeling, sexy model, stilettos
+  - [Whispering Elegance: How I Craft Enchanting Glamour Poses for Every Photoshoot](https://www.carrielachance.com/blogs/carrie-lachance/whispering-elegance-how-i-craft-enchanting-glamour-poses-for-every-photoshoot): Whispering Elegance: How I Craft Enchanting Glamour Poses for Every Photoshoot
+    Updated: 2026-07-21T00:01:45Z
+    Author: Carrie LaChance
+    Tags: enchanting modeling advice, glamour model, glamour poses, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, how to pose for photos, modeling, modeling techniques, modeling tips, photography, photoshoot, photoshoot tips, poses, posing tips, social media model, taking good selfies
+  - [How to Turn Sexy Content Into a Financial Windfall](https://www.carrielachance.com/blogs/carrie-lachance/how-to-turn-sexy-content-into-a-financial-windfall): How to Turn Sexy Content Into a Financial Windfall
+    Updated: 2026-07-22T10:00:57Z
+    Author: Carrie LaChance
+  - [The Psychology of High Heels: Secrets Behind Their Mysterious Appeal](https://www.carrielachance.com/blogs/carrie-lachance/the-psychology-of-high-heels-secrets-behind-their-mysterious-appeal): The Psychology of High Heels: Secrets Behind Their Mysterious Appeal
+    Updated: 2026-07-23T00:01:43Z
+    Author: Carrie LaChance
+    Tags: attraction, body language, confidence through footwear, footwear, heels, high heels, personal style, psychology of attraction, psychology of high heels, why men love women in heels
+  - [Style That Captures Attention: Transform Your Look to Meet the Right Girl](https://www.carrielachance.com/blogs/carrie-lachance/style-that-captures-attention-transform-your-look-to-meet-the-right-girl): Style That Captures Attention: Transform Your Look to Meet the Right Girl
+    Updated: 2026-07-24T00:01:53Z
+    Author: Carrie LaChance
+    Tags: advice, attract women, dating, dating advice, dating advice for men, how to find a high heel girl, how to find right girl, men's fashion, relationship tips, style, transform your look
+  - [The Irresistible Allure of Pantyhose and Glossy Legs](https://www.carrielachance.com/blogs/carrie-lachance/the-irresistible-allure-of-pantyhose-and-glossy-legs): The Irresistible Allure of Pantyhose and Glossy Legs
+    Updated: 2026-07-25T00:01:02Z
+    Author: Carrie LaChance
+    Tags: benefits of glossy legs, glossy legs, how to wear pantyhose, leg fashion, legs, nylons, pantyhose, stylish pantyhose
+  - [The Velvet Lure of Glossy Heels: Entranced in My Secret Seductive Diary](https://www.carrielachance.com/blogs/carrie-lachance/the-velvet-lure-of-glossy-heels-entranced-in-my-secret-seductive-diary): The Velvet Lure of Glossy Heels: Entranced in My Secret Seductive Diary
+    Updated: 2026-07-26T00:03:09Z
+    Author: Carrie LaChance
+    Tags: desire, enchanted heels theme,  diaries,  diary, fashion allure, glamour, glamour stories, intimate storytelling experiences, seduction, seductive stories, seductive storytelling
 
 ## Store Pages
 
@@ -3115,25 +3119,17 @@ File Size: 183 MB
   Updated: 2025-03-31T23:21:38Z
 - [Reviews](https://www.carrielachance.com/pages/reviews)
   Updated: 2026-03-29T19:28:30Z
-- [18 USC 2257](https://www.carrielachance.com/pages/18-usc-2257): 18 USC 2257 Policy Last Updated: May 20, 2026 Any persons that appear in any visual depiction of actual sexually  conduct appearing or othe...
-  Updated: 2026-05-20T16:23:28Z
-- [Complaints Policy](https://www.carrielachance.com/pages/complaints-policy): This policy sets out the complaints policy for Carrie LaChance and its subsidiaries and affiliates (collectively, “Carrie LaChance”, “we,” or “us,”...
-  Updated: 2026-05-20T16:51:00Z
-- [Anti Trafficking Policy](https://www.carrielachance.com/pages/anti-trafficking-policy): Cybercrime, Child , Non-Consensual Activity, and Anti Human Trafficking Policy Purpose Carrie LaChance is committed to operating a safe,...
-  Updated: 2026-05-20T16:51:07Z
-- [Content Removal & Appeals Policy](https://www.carrielachance.com/pages/content-removal-appeals-policy): Carrie LaChance operates www.carrielachance.com (“Carrie LaChance”) and qualifies as a “Service Provider” within the meaning of 17 U.S.C. § 512(k)(...
-  Updated: 2026-05-20T19:23:39Z
 
 ## Policies
 
 - [Privacy Policy](https://www.carrielachance.com/policies/privacy-policy)
   Updated: 2025-08-22T12:35:15-05:00
 - [Shipping Policy](https://www.carrielachance.com/policies/shipping-policy)
-  Updated: 2026-05-15T18:17:21-05:00
+  Updated: 2026-07-24T17:45:47-05:00
 - [Refund Policy](https://www.carrielachance.com/policies/refund-policy)
-  Updated: 2026-05-15T18:32:31-05:00
+  Updated: 2026-07-24T19:10:27-05:00
 - [Terms of Service](https://www.carrielachance.com/policies/terms-of-service)
-  Updated: 2026-05-21T12:06:48-05:00
+  Updated: 2026-07-24T18:53:51-05:00
 - [Contact Information](https://www.carrielachance.com/policies/contact-information)
   Updated: 2026-02-02T12:55:04-06:00
 
