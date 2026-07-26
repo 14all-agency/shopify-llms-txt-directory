@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-09T06:52:22Z
 - Contact Email: noreply@gleame.co.in
-- Updated At: 2026-07-17T00:00:44.709Z
+- Updated At: 2026-07-26T00:00:44.680Z
 
 ## Products
 
 - [Balaclava Ninja Hoodie - Men & Women - Gleame](https://gleame.co.in/products/balaclava-hoodie-with-mask-black): Product Details Crafted from a premium fleece cotton blend, this hoodie combines comfort, durability, and modern streetwear style. Featuring a built-in balaclava mask, it offers versatile wear for both casual and outdoor settings. Features: Material: Fleece Cotton blend (soft, warm, and durable) Sleeve: Long sleeves with ribbed cuffs Neck: Hooded with full zip-up closure Design: All-in-one hoodie with integrated balaclava mask Breathable: Mask made from breathable fabric for all-day comfort Fit: Tailored modern fit for a sleek look Style: Unisex design, suitable for men and women Care Instructions: Machine wash cold at 30°C / 85°F Do not bleach Do not tumble dry Do not dry clean Iron on low heat if needed Additional Details: Standard length hoodie with adjustable coverage Built-in balaclava for extra warmth and protection Ideal for everyday wear, outdoor activities, and urban fashion - Gleame
-  Updated: 2026-06-24T19:22:18Z
+  Updated: 2026-07-17T12:53:57Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: ₹799.00 INR
 - [Ferrari F1 Motorsport Vintage Racer White & Red Jacket Unisex - Gleame](https://gleame.co.in/products/ferrari-f1-motorsport-vintage-racer-white-red-jacket-unisex): White & Red Ferrari F1 Vintage Racer Jacket Ferrari F1 Vintage Racer Jacket – Speed Meets Style Rev up your wardrobe with the White & Red Ferrari F1 Vintage Racer Jacket from Gleame, designed for those who live life in the fast lane. Perfect for parties, events, club outings, travels, and date nights, this jacket combines luxury-inspired design, comfort, and timeless appeal. Crafted with attention to detail, it features a sleek silhouette, vibrant Ferrari-red finish, and vintage racing accents that echo the spirit of Formula 1. Whether layering over casual tees or pairing with your favorite streetwear, this jacket ensures you stand out and feel confident wherever you go. Key Features: Premium Material: Comfortable, durable, and built for everyday wear Vintage Racing Design: Inspired by iconic Ferrari F1 heritage Versatile Styling: Ideal for casual outings, events, and travel Unisex Appeal: Perfect for men and women seeking statement streetwear Elevate your look, flaunt your individuality, and feel the thrill of motorsport-inspired fashion with this must-have Ferrari F1 jacket. - Gleame
-  Updated: 2026-06-03T16:13:57Z
+  Updated: 2026-07-18T17:39:07Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -52,27 +52,27 @@
   - [2XL](https://gleame.co.in/products/ferrari-f1-motorsport-vintage-racer-white-red-jacket-unisex?variant=46602295541914)
     Availability: Available
     Price: ₹1,799.00 INR
-- [CNY-Inspired Premium White Suede Streetwear Jacket - Gleame](https://gleame.co.in/products/cny-white-suede-streetwear-jacket-for-men): Refresh your winter wardrobe with the CNY-inspired premium white suede streetwear jacket, designed for those who appreciate minimal aesthetics, cultural detailing, and modern urban fashion. This jacket seamlessly blends Chinese New Year inspired design with contemporary streetwear, making it a standout piece for winter styling. Crafted from high-quality premium suede fabric, this jacket offers a soft, smooth, and luxurious feel while providing warmth and durability. The clean white color delivers a premium, modern streetwear look, perfect for statement winter outfits, casual day wear, and festive occasions. The jacket features traditional Chinese knot-style button detailing on the front, adding a unique cultural touch to modern street fashion. Contrast stripe detailing on the sleeves enhances the sporty streetwear appeal, creating the perfect balance between elegance and urban edge. Designed with a relaxed streetwear fit, elasticated cuffs, and a structured waistband, this jacket ensures comfort without compromising on style. Pair it effortlessly with black or blue denim, cargos, joggers, or sneakers for versatile looks ideal for college wear, casual outings, and everyday street fashion. Key Features Premium white suede jacket for men with a soft-touch luxury finish Chinese New Year inspired knot button detailing Full front zip closure for easy and comfortable wear Sporty contrast sleeve stripes for modern streetwear style Elasticated cuffs and hem for a structured, clean fit Functional side pockets for daily utility Perfect winter jacket for men’s streetwear & casual fashion Fabric & Care Fabric: Premium Suede Fit: Regular / Relaxed Streetwear Fit Care Instructions: Dry clean recommended or gentle hand wash only Perfect For Men’s winter streetwear outfits Premium casual & college wear Festive fashion & CNY-inspired looks Urban, minimalist & statement winter styling - Gleame
-  Updated: 2026-07-16T22:33:47Z
+- [Premium White CNY Jacket | Chinese Knot Tang Streetwear Jacket | Gleame](https://gleame.co.in/products/premium-white-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket): Shop the Premium White CNY Jacket at Gleame. Crafted from premium suede with traditional Chinese knot buttons, an oversized unisex fit, and luxury Tang-inspired streetwear styling.
+  Updated: 2026-07-23T06:08:45Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/cnywh1.jpg?v=1780214948
-  - [S](https://gleame.co.in/products/cny-white-suede-streetwear-jacket-for-men?variant=48099762405530)
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/multi4_99c7ef59-6a40-4af1-8c3a-495129ecda10.jpg?v=1784711579
+  - [S](https://gleame.co.in/products/premium-white-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48099762405530)
     Availability: Available
-    Price: ₹1,999.00 INR
-  - [M](https://gleame.co.in/products/cny-white-suede-streetwear-jacket-for-men?variant=48099762438298)
+    Price: ₹1,499.00 INR
+  - [M](https://gleame.co.in/products/premium-white-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48099762438298)
     Availability: Available
-    Price: ₹1,999.00 INR
-  - [L](https://gleame.co.in/products/cny-white-suede-streetwear-jacket-for-men?variant=48099762372762)
+    Price: ₹1,499.00 INR
+  - [L](https://gleame.co.in/products/premium-white-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48099762372762)
     Availability: Available
-    Price: ₹1,999.00 INR
-  - [XL](https://gleame.co.in/products/cny-white-suede-streetwear-jacket-for-men?variant=48099762471066)
+    Price: ₹1,499.00 INR
+  - [XL](https://gleame.co.in/products/premium-white-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48099762471066)
     Availability: Available
-    Price: ₹1,999.00 INR
-  - [2XL](https://gleame.co.in/products/cny-white-suede-streetwear-jacket-for-men?variant=48099762503834)
+    Price: ₹1,499.00 INR
+  - [2XL](https://gleame.co.in/products/premium-white-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48099762503834)
     Availability: Available
-    Price: ₹1,999.00 INR
+    Price: ₹1,499.00 INR
 - [The Penguin T-shirt - Off White - Gleame](https://gleame.co.in/products/meant-for-greater-nihilist-penguin-oversized-t-shirt): Product Details Premium oversized t-shirt made from heavyweight cotton, inspired by the Nihilist Penguin theme — representing solitude, resilience, and quiet individuality. Features: Material: 100% premium cotton Fabric Weight: 240 GSM heavyweight Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: Soft-touch, fade-style premium print Style: Unisex streetwear design Care Instructions: Machine wash cold (30°C) Do not bleach or tumble dry Iron inside-out on low heat Additional Details: Heavyweight premium feel Breathable and comfortable Ideal for casual & streetwear - Gleame
   Updated: 2026-07-15T11:03:52Z
   Vendor: Gleame
@@ -100,7 +100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/1_a8aaaadf-ff0a-44b1-bae6-ec198e24e142.png?v=1769270613
     Price: ₹1,299.00 INR
 - [The Penguin Hoodie - Off White - Gleame](https://gleame.co.in/products/but-why-nihilist-penguin-oversized-hoodie): Product Details Premium oversized Hoodie made from heavyweight cotton, inspired by the Nihilist Penguin theme — representing solitude, resilience, and quiet individuality. Features: Material: 100% premium cotton Fabric Weight: 400 GSM heavyweight Fit: Oversized relaxed fit Neck: Ribbed crew neck Print: Soft-touch, fade-style premium print Style: Unisex streetwear design Care Instructions: Machine wash cold (30°C) Do not bleach or tumble dry Iron inside-out on low heat Additional Details: Heavyweight premium feel Breathable and comfortable Ideal for casual & streetwear - Gleame
-  Updated: 2026-06-03T16:14:47Z
+  Updated: 2026-07-17T05:07:35Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -121,7 +121,7 @@
     Availability: Available
     Price: ₹1,799.00 INR
 - [Guts Oversized T-Shirt | Berserk - Gleame](https://gleame.co.in/products/guts-oversized-t-shirt-berserk-1): Product Details Premium oversized T-shirt inspired by Guts — the Black Swordsman from Berserk, known for his brutal strength, relentless will, and  - Gleame
-  Updated: 2026-05-31T09:02:58Z
+  Updated: 2026-07-17T08:47:58Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -142,7 +142,7 @@
     Availability: Available
     Price: ₹1,299.00 INR
 - [Grimmjow Oversized T-Shirt | Bleach - Gleame](https://gleame.co.in/products/grimmjow-oversized-t-shirt-bleach): Product Details Premium oversized T-shirt inspired by Grimmjow Jaegerjaquez — the fearless Sexta Espada from Bleach, known for his wild aggression,  - Gleame
-  Updated: 2026-05-31T09:05:07Z
+  Updated: 2026-07-17T00:37:17Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Ichigo Kurosaki Oversized T-Shirt | Bleach - Gleame](https://gleame.co.in/products/ichigo-kurosaki-oversized-t-shirt-bleach): Product Details Premium oversized T-shirt inspired by Ichigo Kurosaki — the Substitute Soul Reaper from Bleach, known for his hybrid powers, fearless  - Gleame
-  Updated: 2026-05-31T09:05:52Z
+  Updated: 2026-07-18T14:45:36Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -291,7 +291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/61714366_jpg.webp?v=1780218443
     Price: ₹1,199.00 INR
 - [Monkey D. Luffy Edition Oversized Jersey - Gleame](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey): Product Details Premium anime jersey inspired by Monkey D. Luffy — the fearless Captain of the Straw Hat Pirates from One Piece. Known for his Gum-Gum powers, unstoppable determination, and dream to become the Pirate King, this jersey is perfect for anime streetwear lovers and One Piece fans who carry a never-give-up attitude. Character Highlights: Captain of the Straw Hat Pirates User of the Gomu Gomu no Mi (Rubber Devil Fruit) Future King of the Pirates Fearless, energetic, and loyal leader Features: Fit: Relaxed jersey fit Print: High-definition anime graphic print Style: Unisex anime streetwear jersey Design: Breathable and lightweight sports-style design Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Iconic Straw Hat pirate-inspired design Perfect for anime fans and streetwear outfits Great choice for everyday wear and anime events - Gleame
-  Updated: 2026-07-16T05:22:46Z
+  Updated: 2026-07-24T07:31:26Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -303,16 +303,16 @@
     Availability: Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400394906)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400427674)
     Availability: Available
     Price: ₹999.00 INR
   - [2XL](https://gleame.co.in/products/monkey-d-luffy-edition-over-sized-jersey?variant=47967400460442)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
 - [Demon Slayer Legacy – Zenitsu Oversized Jersey - Gleame](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey): Product Details Premium oversized anime jersey inspired by Zenitsu Agatsuma — the lightning-fast Demon Slayer from Demon Slayer: Kimetsu no Yaiba. Known for his Thunder Breathing techniques, hidden strength, and incredible speed when unconscious, this jersey is perfect for anime streetwear lovers and Demon Slayer fans who connect with courage beneath fear. Character Highlights: Demon Slayer Corps member User of Thunder Breathing (First Form specialist) Unmatched speed and lightning-fast reflexes Timid yet powerful warrior with hidden potential Features: Fit: Oversized relaxed fit Print: High-definition soft-touch anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Lightning-inspired anime streetwear aesthetic Bold and energetic design for standout style Perfect for Demon Slayer anime fans - Gleame
-  Updated: 2026-07-15T07:26:29Z
+  Updated: 2026-07-24T07:56:51Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -321,7 +321,7 @@
     Availability: Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476809882)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476842650)
     Availability: Available
@@ -330,10 +330,10 @@
     Availability: Available
     Price: ₹999.00 INR
   - [2XL](https://gleame.co.in/products/demon-slayer-legacy-zenitsu-over-sized-mesh-jersey?variant=47967476908186)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
 - [Demon Aura Jersey Oversized Jersey - Gleame](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey): Product Details Premium oversized mesh anime jersey inspired by Zenitsu Agatsuma in his electrifying Demon Aura form from Demon Slayer: Kimetsu no Yaiba. Surrounded by a thunder-charged aura and lightning-fast energy, this design captures his ultimate speed, focus, and unleashed power. Perfect for anime streetwear lovers and Demon Slayer fans who want a bold and high-energy look. Character Highlights: Thunder Breathing master with intense aura presence Iconic lightning-charged combat state Extreme speed and precision strikes Fear transformed into pure power Features: Fabric: Breathable mesh for all-day comfort Fit: Oversized relaxed fit Print: High-definition soft-touch anime print with aura effects Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Electric aura-inspired anime streetwear aesthetic High-energy lightning design for standout looks Perfect for Demon Slayer anime fans - Gleame
-  Updated: 2026-07-16T23:51:07Z
+  Updated: 2026-07-17T17:15:48Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -342,40 +342,40 @@
     Availability: Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522095258)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522128026)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522160794)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [2XL](https://gleame.co.in/products/demon-aura-jersey-over-sized-mesh-jersey?variant=47967522193562)
     Availability: Available
     Price: ₹999.00 INR
 - [Monkey D. Luffy – One Piece Black Edition Oversized Jersey - Gleame](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey): Product Details Premium oversized mesh anime jersey inspired by Monkey D. Luffy — the fearless Captain of the Straw Hat Pirates from One Piece. Driven by his dream to become the King of the Pirates, Luffy is known for his Gum-Gum powers, unstoppable determination, and fearless spirit. This jersey is perfect for anime streetwear lovers and One Piece fans who represent freedom and adventure. Character Highlights: Captain of the Straw Hat Pirates User of the Gomu Gomu no Mi (Gum-Gum Fruit) Future King of the Pirates Fearless, energetic, and battle-driven leader Features: Fabric: Breathable mesh for all-day comfort Fit: Oversized relaxed fit Print: High-definition soft-touch anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Adventure-inspired anime streetwear aesthetic Bold pirate-themed design for standout style Perfect for One Piece anime fans - Gleame
-  Updated: 2026-07-16T23:51:07Z
+  Updated: 2026-07-24T07:58:09Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/id-11134207-7ra0t-md1dgtagowev03.jpg?v=1779793774
   - [S](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728533658)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [M](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728566426)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [L](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728599194)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [XL](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728631962)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
   - [2XL](https://gleame.co.in/products/monkey-d-luffy-one-piece-black-edition-oversized-jersey?variant=47967728664730)
     Availability: Available
     Price: ₹999.00 INR
 - [Monkey D. Luffy – White Edition Jersey - Gleame](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey): Product Details Premium oversized white mesh anime jersey inspired by Monkey D. Luffy — the fearless Captain of the Straw Hat Pirates from One Piece. This White Edition highlights a clean, powerful aesthetic while representing Luffy’s limitless determination, Gum-Gum powers, and dream to become the King of the Pirates. Perfect for anime streetwear lovers and One Piece fans who want a bold yet minimal look. Character Highlights: Captain of the Straw Hat Pirates User of the Gomu Gomu no Mi (Gum-Gum Fruit) Future King of the Pirates Fearless and unstoppable leader Features: Fabric: Breathable mesh for all-day comfort Fit: Oversized relaxed fit Print: High-definition soft-touch anime print Style: Unisex anime streetwear Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Clean white anime streetwear aesthetic Minimal yet bold pirate-inspired design Perfect for One Piece anime fans - Gleame
-  Updated: 2026-07-15T18:16:29Z
+  Updated: 2026-07-18T12:23:37Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -393,27 +393,27 @@
     Availability: Available
     Price: ₹999.00 INR
   - [2XL](https://gleame.co.in/products/monkey-d-luffy-white-edition-jersey?variant=47967727583386)
-    Availability: Available
+    Availability: Not Available
     Price: ₹999.00 INR
-- [Vintage Washed Denim CNY Oversized Unisex Jacket](https://gleame.co.in/products/vintage-washed-denim-cny-oversized-unisex-jacket): Elevate your street style with this Vintage Washed Denim CNY Jacket, a statement piece that blends modern streetwear aesthetics with traditional Chinese-inspired detailing. Designed with an oversized, relaxed fit, this unisex denim jacket delivers effortless comfort and standout urban appeal. Crafted from high-quality washed denim, the jacket features a soft, vintage-inspired light blue finish that adds a worn-in, retro vibe. The standout Chinese knot button detail at the collar gives this piece a unique cultural touch, making it perfect for Lunar New Year outfits, festival styling, or everyday streetwear looks. The ribbed cuffs and hem provide structure while maintaining comfort, and the roomy silhouette makes it ideal for layering over hoodies, tees, or sweaters. Functional front pockets add practicality without compromising the clean, minimal design. NOTE : It doesn't come with adidas tags and labels Features: Material: 92% polyester, 8% elastane Fit: Oversized relaxed fit Style: Unisex streetwear Jacket Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat
-  Updated: 2026-06-04T11:11:27Z
+- [Premium Vintage Black Denim CNY Jacket | Chinese Knot Streetwear | Gleame](https://gleame.co.in/products/premium-vintage-black-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket): Shop the Premium Vintage Black Denim CNY Jacket at Gleame. Made from heavyweight washed denim with traditional Chinese knot buttons and an oversized luxury streetwear fit.
+  Updated: 2026-07-23T06:14:15Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/hellochinguplus-20260216-0007_jpg.jpg?v=1780218797
-  - [S](https://gleame.co.in/products/vintage-washed-denim-cny-oversized-unisex-jacket?variant=48099758637210)
+  - [S](https://gleame.co.in/products/premium-vintage-black-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48099758637210)
     Availability: Available
     Price: ₹2,699.00 INR
-  - [M](https://gleame.co.in/products/vintage-washed-denim-cny-oversized-unisex-jacket?variant=48099758669978)
+  - [M](https://gleame.co.in/products/premium-vintage-black-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48099758669978)
     Availability: Available
     Price: ₹2,699.00 INR
-  - [L](https://gleame.co.in/products/vintage-washed-denim-cny-oversized-unisex-jacket?variant=48099758702746)
+  - [L](https://gleame.co.in/products/premium-vintage-black-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48099758702746)
     Availability: Available
     Price: ₹2,699.00 INR
-  - [XL](https://gleame.co.in/products/vintage-washed-denim-cny-oversized-unisex-jacket?variant=48099758735514)
+  - [XL](https://gleame.co.in/products/premium-vintage-black-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48099758735514)
     Availability: Available
     Price: ₹2,699.00 INR
-  - [2XL](https://gleame.co.in/products/vintage-washed-denim-cny-oversized-unisex-jacket?variant=48099758768282)
+  - [2XL](https://gleame.co.in/products/premium-vintage-black-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48099758768282)
     Availability: Available
     Price: ₹2,699.00 INR
 - [Argentina 26 Away Messi Jersey (Embroidery)](https://gleame.co.in/products/argentina-26-away-messi-jersey-embroidery): Product Details Premium Argentina 26 Away Messi Jersey featuring the legendary Lionel Messi design with high-quality embroidery logo for a premium football look. Inspired by Argentina’s iconic away kit, this jersey is perfect for football fans, Messi supporters, and streetwear lovers who want both comfort and style on and off the field. Player Highlights: World Champion & Argentina Legend Iconic No. 10 Football Jersey Inspired by Lionel Messi’s legendary football journey Premium embroidered crest & detailing Features: Fabric: Breathable premium sports fabric for all-day comfort Fit: Regular athletic fit Logo: Premium embroidery team logo Style: Unisex football streetwear jersey Design: Argentina 26 Away Edition with Messi 10 print Care Instructions: Machine wash cold (30°C) Wash inside-out to protect print & embroidery Do not bleach Do not tumble dry Iron inside-out on low heat Do not iron directly on print or logo Additional Details: Premium football jersey aesthetic with embroidered finish Perfect for match days, casual wear, and football fans Stylish Argentina away jersey inspired by Messi’s legacy Ideal gift for Messi & Argentina supporters
@@ -480,26 +480,173 @@
     Availability: Not Available
     Price: ₹1,199.00 INR
 - [Monkey D. Luffy – Gear 5 Edition Oversied Jersey](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey): Product Details Premium anime jersey inspired by Monkey D. Luffy Gear 5 — the legendary awakened form of the future Pirate King from One Piece. Unleashing the true power of the Hito Hito no Mi, Model: Nika, Gear 5 represents ultimate freedom, limitless creativity, and unmatched strength. Perfect for anime streetwear lovers and One Piece fans who embody a fearless spirit. Character Highlights: Awakened Gear 5 Form of Monkey D. Luffy User of the Mythical Zoan Devil Fruit: Hito Hito no Mi, Model: Nika The Warrior of Liberation Limitless power, freedom, and imagination Features: Fit: Relaxed jersey fit Print: High-definition Gear 5 anime graphic print Style: Unisex anime streetwear jersey Design: Breathable and lightweight sports-style design Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Iconic Gear 5 Nika-inspired design Perfect for One Piece fans and anime streetwear outfits Great choice for conventions, anime events, and everyday wear
-  Updated: 2026-07-16T09:19:46Z
+  Updated: 2026-07-24T09:52:46Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/sg-11134201-7rdye-md1glrvdqse4f1_1.jpg?v=1781713440
   - [S](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556044442)
     Availability: Available
-    Price: ₹999.00 INR
+    Price: ₹1,199.00 INR
   - [M](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556077210)
     Availability: Available
-    Price: ₹999.00 INR
+    Price: ₹1,199.00 INR
   - [L](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556109978)
     Availability: Available
-    Price: ₹999.00 INR
+    Price: ₹1,199.00 INR
   - [XL](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556142746)
     Availability: Available
-    Price: ₹999.00 INR
+    Price: ₹1,199.00 INR
   - [2XL](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey?variant=48344556175514)
     Availability: Available
-    Price: ₹999.00 INR
+    Price: ₹1,199.00 INR
+- [Premium Navy Blue CNY Jacket | Chinese Knot Tang Streetwear Jacket | Gleame](https://gleame.co.in/products/premium-navy-blue-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket): Shop the Premium Navy Blue CNY Jacket at Gleame. Crafted from premium suede with traditional Chinese knot buttons, an oversized unisex fit, and luxury Tang-inspired streetwear styling.
+  Updated: 2026-07-25T21:13:44Z
+  Vendor: Gleame
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/IMG_4642_540x_effddbe6-bccd-4a88-abb5-9661e51fcdc2.jpg?v=1784706878
+  - [S](https://gleame.co.in/products/premium-navy-blue-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793995739290)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [M](https://gleame.co.in/products/premium-navy-blue-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793995772058)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [L](https://gleame.co.in/products/premium-navy-blue-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793995804826)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [XL](https://gleame.co.in/products/premium-navy-blue-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793995837594)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [2XL](https://gleame.co.in/products/premium-navy-blue-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793995870362)
+    Availability: Available
+    Price: ₹1,499.00 INR
+- [Premium Black CNY Jacket | Chinese Knot Tang Streetwear Jacket](https://gleame.co.in/products/premium-black-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket): Shop the Premium Black CNY Jacket featuring traditional Chinese knot buttons, premium suede fabric, oversized unisex fit, and luxury Tang-inspired streetwear for everyday style.
+  Updated: 2026-07-25T21:11:22Z
+  Vendor: Gleame
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/1_5c1282dd-c6fb-4d20-b87b-153bf270961d.jpg?v=1784714256
+  - [S](https://gleame.co.in/products/premium-black-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793995903130)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [M](https://gleame.co.in/products/premium-black-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793995935898)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [L](https://gleame.co.in/products/premium-black-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793995968666)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [XL](https://gleame.co.in/products/premium-black-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793996001434)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [2XL](https://gleame.co.in/products/premium-black-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793996034202)
+    Availability: Available
+    Price: ₹1,499.00 INR
+- [Premium Maroon CNY Jacket | Chinese Knot Tang Streetwear Jacket | Gleame](https://gleame.co.in/products/premium-maroon-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket): Shop the Premium Maroon CNY Jacket at Gleame. Crafted from premium suede with traditional Chinese knot buttons, an oversized unisex fit, and luxury Tang-inspired streetwear styling.
+  Updated: 2026-07-25T22:42:07Z
+  Vendor: Gleame
+  Product Type: jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/dce189eac47ae14c7e35d2aa3b29f58c_e1f4ebaa-8897-4a65-b0c7-c1f80e7fd193.jpg?v=1784707900
+  - [S](https://gleame.co.in/products/premium-maroon-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793996099738)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [M](https://gleame.co.in/products/premium-maroon-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793996132506)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [L](https://gleame.co.in/products/premium-maroon-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793996165274)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [XL](https://gleame.co.in/products/premium-maroon-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793996198042)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [2XL](https://gleame.co.in/products/premium-maroon-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48793996230810)
+    Availability: Available
+    Price: ₹1,499.00 INR
+- [Premium Light Blue Denim CNY Jacket | Chinese Knot Streetwear | Gleame](https://gleame.co.in/products/premium-light-blue-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket): Shop the Premium Light Blue Denim CNY Jacket at Gleame. Made from heavyweight washed denim with traditional Chinese knot buttons and an oversized luxury streetwear fit.
+  Updated: 2026-07-25T22:42:16Z
+  Vendor: Gleame
+  Product Type: jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/hellochinguplus-20260216-0006_jpg_f9d72a25-26a1-4465-9ee4-93be54845264.jpg?v=1784694907
+  - [S](https://gleame.co.in/products/premium-light-blue-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48793996492954)
+    Availability: Available
+    Price: ₹2,688.00 INR
+  - [M](https://gleame.co.in/products/premium-light-blue-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48793996525722)
+    Availability: Available
+    Price: ₹2,688.00 INR
+  - [L](https://gleame.co.in/products/premium-light-blue-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48793996558490)
+    Availability: Available
+    Price: ₹2,688.00 INR
+  - [XL](https://gleame.co.in/products/premium-light-blue-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48793996591258)
+    Availability: Available
+    Price: ₹2,688.00 INR
+  - [2XL](https://gleame.co.in/products/premium-light-blue-denim-cny-jacket-chinese-knot-oversized-streetwear-unisex-jacket?variant=48793996624026)
+    Availability: Available
+    Price: ₹2,688.00 INR
+- [Premium Grey CNY Jacket | Chinese Knot Tang Streetwear Jacket | Gleame](https://gleame.co.in/products/premium-grey-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket): Shop the Premium Grey CNY Jacket at Gleame. Crafted from premium suede with traditional Chinese knot buttons, an oversized unisex fit, and luxury Tang-inspired streetwear styling.
+  Updated: 2026-07-25T03:12:29Z
+  Vendor: Gleame
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/ChatGPTImageJul23_2026_11_09_07AM.png?v=1784785224
+  - [S](https://gleame.co.in/products/premium-grey-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796041281690)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [M](https://gleame.co.in/products/premium-grey-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796041314458)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [L](https://gleame.co.in/products/premium-grey-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796041347226)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [XL](https://gleame.co.in/products/premium-grey-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796041379994)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [2XL](https://gleame.co.in/products/premium-grey-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796041412762)
+    Availability: Available
+    Price: ₹1,499.00 INR
+- [Premium Mustard Yellow CNY Jacket | Chinese Knot Tang Streetwear Jacket | Gleame](https://gleame.co.in/products/premium-mustard-yellow-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket): Shop the Premium Mustard Yellow CNY Jacket at Gleame. Crafted from premium suede with traditional Chinese knot buttons, an oversized unisex fit, and luxury Tang-inspired streetwear styling.
+  Updated: 2026-07-25T04:17:40Z
+  Vendor: Gleame
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/Cny_by_lzrus.jpg?v=1784710508
+  - [S](https://gleame.co.in/products/premium-mustard-yellow-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796402974874)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [M](https://gleame.co.in/products/premium-mustard-yellow-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796403007642)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [L](https://gleame.co.in/products/premium-mustard-yellow-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796403040410)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [XL](https://gleame.co.in/products/premium-mustard-yellow-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796403073178)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [2XL](https://gleame.co.in/products/premium-mustard-yellow-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796403105946)
+    Availability: Available
+    Price: ₹1,499.00 INR
+- [Premium Olive Green CNY Jacket | Chinese Knot Tang Streetwear Jacket | Gleame](https://gleame.co.in/products/premium-olive-green-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket): Shop the Premium Olive Green CNY Jacket at Gleame. Crafted from premium suede with traditional Chinese knot buttons, an oversized unisex fit, and luxury Tang-inspired streetwear styling.
+  Updated: 2026-07-25T03:13:31Z
+  Vendor: Gleame
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/ChatGPTImageJul23_2026_11_16_23AM.png?v=1784785605
+  - [S](https://gleame.co.in/products/premium-olive-green-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796795568282)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [M](https://gleame.co.in/products/premium-olive-green-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796795601050)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [L](https://gleame.co.in/products/premium-olive-green-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796795633818)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [XL](https://gleame.co.in/products/premium-olive-green-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796795666586)
+    Availability: Available
+    Price: ₹1,499.00 INR
+  - [2XL](https://gleame.co.in/products/premium-olive-green-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket?variant=48796795699354)
+    Availability: Available
+    Price: ₹1,499.00 INR
 
 ## Collections
 
@@ -510,7 +657,7 @@
   Updated: 2026-07-15T16:25:35Z
   Total Products: 2
 - [Best Seller](https://gleame.co.in/collections/best-seller): - Gleame
-  Updated: 2026-07-16T11:18:01Z
+  Updated: 2026-07-24T11:17:43Z
   Total Products: 6
 - [Leather Jacket](https://gleame.co.in/collections/leather-jacket): - Gleame
   Updated: 2026-07-15T16:25:35Z
@@ -558,11 +705,11 @@
   Updated: 2026-07-15T16:25:36Z
   Total Products: 4
 - [Anime Jersey](https://gleame.co.in/collections/anime-jersey): - Gleame
-  Updated: 2026-07-16T11:18:01Z
+  Updated: 2026-07-24T11:17:43Z
   Total Products: 7
 - [CNY Jacket](https://gleame.co.in/collections/cny-jacket)
-  Updated: 2026-07-15T16:25:37Z
-  Total Products: 2
+  Updated: 2026-07-23T06:15:08Z
+  Total Products: 10
 - [Football Jersey](https://gleame.co.in/collections/football-jersey)
   Updated: 2026-07-15T16:25:37Z
   Total Products: 7
@@ -759,6 +906,18 @@
     Updated: 2026-07-15T15:02:52Z
     Author: Gleame
     Tags: anime, anime fashion, anime jersey, anime merchandise, anime streetwear india, boxy fit, iconic anime shows, jerseys, luffy jersey, one piece jersey, oversized, oversized anime jersey, oversized anime jerseys, oversized clothing, premium anime clothing, streetwear, trend styles, zoro jersey
+  - [How to Style a Boxy Fit Zoro Jersey for Distinctive Anime Streetwear](https://gleame.co.in/blogs/streetwear/how-to-style-a-boxy-fit-zoro-jersey-for-distinctive-anime-streetwear): How to Style a Boxy Fit Zoro Jersey for Distinctive Anime Streetwear
+    Updated: 2026-07-20T15:02:07Z
+    Author: Gleame
+    Tags: anime, anime fashion trends, anime jersey, anime merchandise, anime streetwear india, boxy fit, how to wear anime shirts, jersey, luffy jersey, one piece jersey, oversized, oversized anime jersey, premium anime clothing, streetwear, unique styling, zoro jersey, zoro outfit
+  - [From Luffy to Zoro: A Guide to the Perfect One Piece Jersey for You](https://gleame.co.in/blogs/streetwear/from-luffy-to-zoro-a-guide-to-the-perfect-one-piece-jersey-for-you): From Luffy to Zoro: A Guide to the Perfect One Piece Jersey for You
+    Updated: 2026-07-21T15:01:48Z
+    Author: Gleame
+    Tags: anime, anime jersey, anime merchandise, anime streetwear india, best one piece jerseys, boxy fit, guide to jerseys, jersey, luffy jersey, luffy merchandise, one piece, one piece jersey, one piece jerseys, oversized, oversized anime jersey, premium anime clothing, streetwear, zoro apparel, zoro jersey
+  - [Unlock the Charm of Anime Streetwear India with Oversized Jerseys](https://gleame.co.in/blogs/streetwear/unlock-the-charm-of-anime-streetwear-india-with-oversized-jerseys): Unlock the Charm of Anime Streetwear India with Oversized Jerseys
+    Updated: 2026-07-22T15:02:45Z
+    Author: Gleame
+    Tags: anime, anime clothing, anime jersey, anime merchandise, anime streetwear india, boxy fit, jerseys, luffy jersey, one piece jersey, oversized, oversized anime jersey, oversized fashion, premium anime clothing, street style, streetwear, trendy oversized jerseys, zoro jersey
 
 ## Store Pages
 
