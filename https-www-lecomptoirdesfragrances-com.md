@@ -8,7 +8,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-29T15:35:06Z
 - Contact Email: sav.lecomptoirdesfragrances@gmail.com
-- Updated At: 2026-07-16T00:00:41.590Z
+- Updated At: 2026-07-26T00:00:46.239Z
 
 ## Products
 
@@ -55,14 +55,14 @@
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/kryptonitekhalilt.jpg?v=1781134050
   Price: 34,90 € EUR
 - [Suprême - Extrait de Parfum Mixte - Inspiré de Suprême bouquet](https://www.lecomptoirdesfragrances.com/products/supreme): Parfum Suprême, parfum mixte dupe, extrait de parfum fabriqué en France. Notes florales riches et accords orientaux, inspiré Supreme Bouquet, tenue et sillage intenses.
-  Updated: 2026-07-08T12:52:24Z
+  Updated: 2026-07-23T22:50:16Z
   Vendor: Comptoir Des Fragrances
   Product Type: Inspiration Supreme Bouquet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/supreme_bouquet.jpg?v=1781133165
   Price: 34,90 € EUR
 - [Sweety Rose - Extrait de Parfum Mixte - Inspiré de Rose Vanille](https://www.lecomptoirdesfragrances.com/products/sweety-rose): Parfum Sweety Rose, parfum mixte dupe, extrait de parfum fabriqué en France. Accord gourmand rose-loukoum-vanille, sillage exceptionnel et tenue extrême, parfum audacieux.
-  Updated: 2026-06-10T23:27:58Z
+  Updated: 2026-07-23T12:47:56Z
   Vendor: Comptoir Des Fragrances
   Product Type: Inspiration Rose Vanille
   Availability: Available
@@ -276,23 +276,23 @@
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/echantillon-acqua-pura-3ml-1196634716.png?v=1761160555
   Price: 3,00 € EUR
 - [Luma Rouge - Extrait de Parfum Mixte - Inspiré de Mula mula rouge](https://www.lecomptoirdesfragrances.com/products/luma-rouge): Parfum Luma rouge, parfum dupe Mixte, extrait fabriqué en France.
-  Updated: 2026-07-08T12:52:25Z
+  Updated: 2026-07-23T12:38:01Z
   Vendor: Comptoir Des Fragrances
   Product Type: inspiration mula mula rouge
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/lumarouge_2_02a90899-65e6-4332-9374-a43e38746d5b.jpg?v=1781427748
   Price: 34,90 € EUR
 - [Luma Bleu - Extrait de Parfum Mixte - Inspié de Mula mula narcotique](https://www.lecomptoirdesfragrances.com/products/luma-bleu): Parfum Luma bleu, parfum dupe Mixte, extrait fabriqué en France. Un sillage gourmand et fruité pour sublimer chaque instant.
-  Updated: 2026-07-08T12:52:25Z
+  Updated: 2026-07-23T12:44:40Z
   Vendor: Comptoir Des Fragrances
   Product Type: mula mula bleu
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/lumableu_dce8c8f5-c923-419c-88ed-5adefd90651f.jpg?v=1781427712
   Price: 34,90 € EUR
 - [Vanille Poudrée - Extrait de Parfum Mixte - Le comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/products/vanille-poudree): Découvrez Vanille Poudrée, un extrait de parfum envoûtant mêlant poudre de noix de coco, héliotrope et vanille de Madagascar. Sillage onctueux et durable (50ml).
-  Updated: 2026-07-15T19:03:36Z
+  Updated: 2026-07-24T00:48:14Z
   Vendor: Comptoir Des Fragrances
-  Product Type: Vanille powder matière première
+  Product Type: Inspiration Vanilla Powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/4829/8371/files/vanillapowder_2_41e7fc49-25b3-47a2-b009-8d21b685e899.jpg?v=1781427703
   Price: 34,90 € EUR
@@ -307,13 +307,13 @@
 ## Collections
 
 - [Orderly Emails - Recommended Products](https://www.lecomptoirdesfragrances.com/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-07-15T12:26:13Z
+  Updated: 2026-07-23T12:38:17Z
   Total Products: 40
 - [MEILLEURES VENTES](https://www.lecomptoirdesfragrances.com/collections/meilleures-ventes): Découvrez les meilleures ventes Le Comptoir des Fragrances, parfums dupe extraits fabriqués en France, inspirés par les parfums des grandes marques.
-  Updated: 2026-07-15T12:26:13Z
+  Updated: 2026-07-23T12:38:17Z
   Total Products: 11
 - [PARFUM MIXTE](https://www.lecomptoirdesfragrances.com/collections/parfums-mixte): Découvrez chez Comptoir des Fragrances des parfums mixtes dupe, extrait de parfum fabriqué en France, inspirés de grandes marques réputées.
-  Updated: 2026-07-15T12:26:13Z
+  Updated: 2026-07-23T12:38:17Z
   Total Products: 14
 - [PARFUM HOMME](https://www.lecomptoirdesfragrances.com/collections/parfums-homme): Le Comptoir des Fragrances propose des parfums homme dupe, extraits de parfum 100% fabriqués en France, inspirés des plus grandes marques prestigieuses
   Updated: 2026-07-15T12:26:13Z
@@ -352,8 +352,8 @@
 
 - [Contact](https://www.lecomptoirdesfragrances.com/pages/contact)
   Updated: 2025-10-11T13:07:37Z
-- [Formulaire contact grossiste](https://www.lecomptoirdesfragrances.com/pages/formulaire-contact-grossiste): Vous êtes professionnel et souhaitez revendre nos produits ? Remplissez le formulaire de contact grossiste ci-dessous, notre équipe vous répondra d...
-  Updated: 2025-10-11T19:02:27Z
+- [Formulaire contact grossiste Le Comptoir des Fragrances](https://www.lecomptoirdesfragrances.com/pages/formulaire-contact-grossiste): Vous êtes professionnel et souhaitez revendre nos produits ? Remplissez le formulaire de contact grossiste ci-dessous, notre équipe vous répondra d...
+  Updated: 2026-07-23T12:43:08Z
 - [Vos choix en matière de confidentialité](https://www.lecomptoirdesfragrances.com/pages/data-sharing-opt-out): Comme indiqué dans notre politique de confidentialité, nous collectons vos données personnelles issues de vos interactions avec notre site web, not...
   Updated: 2026-01-28T15:27:53Z
 
