@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T13:50:08Z
 - Contact Email: sales@tlztechnologies.com
-- Updated At: 2026-07-19T00:00:44.917Z
+- Updated At: 2026-07-26T00:00:45.302Z
 
 ## Products
 
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46510110.jpg?v=1687336899
   Price: $68.00 USD
 - [Bluebird RT100 Tablet Charging Cradle 12V 2A Ethernet USB Host 1SC(E)-RT100](https://tlztechnologies.com/products/bluebird-rt100-tablet-ethernet-usb-host-12v-2a-docking-cradle-1sce-rt100): Bluebird RT100 Tablet Charging Cradle 12V 2A Ethernet USB Host 1SC(E)-RT100 Condition: As Pictured / Open box Package: Original package Make: Bluebird Type: Docking Cradle Model: 1SC(E)-RT100 Compatibility: For Bluebird RT100 1SC(E) to RT100
-  Updated: 2026-07-01T13:35:24Z
+  Updated: 2026-07-25T18:56:41Z
   Vendor: Bluebird
   Product Type: Docking Cradle
   Availability: Available
@@ -389,7 +389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46515704.jpg?v=1715258836
   Price: $30.42 USD
 - [Symbol MC1000 Battery Barcode Scanner 1800mAh 3.7V BTRY-MC10EAB00 Genuine OEM](https://tlztechnologies.com/products/symbol-mc1000-barcode-scanner-li-ion-battery-1800mah-3-7v-btry-mc10eab00): Symbol MC1000 Battery Barcode Scanner 1800mAh 3.7V BTRY-MC10EAB00 Genuine OEM Condition: As Pictured / Open Box Package: Original Package Make: Symbol Type: Battery Part #: MC10EAB00 Compatibility: For Symbol MC1000 Mobile Computer
-  Updated: 2026-07-01T12:55:34Z
+  Updated: 2026-07-25T13:08:07Z
   Vendor: Symbol
   Product Type: Battery
   Availability: Available
@@ -697,7 +697,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46506302.jpg?v=1750790646
   Price: $70.96 USD
 - [Brocade 1G-SFP-TWX-0501 Direct Attached SFP Stacking Copper 5M Cable](https://tlztechnologies.com/products/brocade-1g-sfp-twx-0501-direct-attached-sfp-stacking-copper-cable-size-5m): Brocade 1G-SFP-TWX-0501 Direct Attached SFP Stacking Copper 5M Cable Condition: New Item description: New (Open box) Package: Brown Box Make: Brocade Type: Cable Color: Black Part #: 1G-SFP-TWX-0501
-  Updated: 2026-07-05T13:31:38Z
+  Updated: 2026-07-22T20:26:37Z
   Vendor: Brocade
   Product Type: Cable 
   Availability: Available
@@ -1060,13 +1060,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46909530.jpg?v=1752670638
   Price: $58.36 USD
-- [Hanwha Techwin SBP-300WM Gooseneck Wall Mount Pole Adapter SBP-300PMW](https://tlztechnologies.com/products/hanwha-techwin-sbp-300wm-gooseneck-wall-mount-pole-adapter-sbp-300pmw): Hanwha Techwin SBP-300WM Gooseneck Wall Mount Pole Adapter SBP-300PMW Condition: New Make: Hanwha Techwin Type: Pole Adapter Model #: SBP-300PMW Compatibility: Hanwha Techwin SBP-300WM Gooseneck Wall Mount
-  Updated: 2026-07-01T11:40:15Z
-  Vendor: Hanwha Techwin
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/products/46505932.jpg?v=1668444430
-  Price: $28.97 USD
 - [SATO Labels 4" x 6" Direct Thermal 3000 White Genuine OEM 53S002012 - 3 Rolls](https://tlztechnologies.com/products/sato-4-x-6-genuine-direct-thermal-3000-labels-53s002012-white-3-rolls): SATO Labels 4" x 6" Direct Thermal 3000 White Genuine OEM 53S002012 - 3 Rolls Condition: New Packaging: Original box 5 Major benefits of Genuine printer labels Minimize printhead wear and tear – Happy printer, long life! Specifically designed for performance – finishes & right adhesives properties! Optimum printer performance – No downtime! Best print quality – No faded labels! Extensively tested printers they will be used on – No frustrating printer jams! Make: SATO Type: Direct Thermal Labels Labels per Roll: 3000 Quantity: 3 Rolls Shape: Rectangle Print Technology: Direct Thermal Color: Bright White
   Updated: 2026-07-01T12:11:06Z
   Vendor: Sato
@@ -1285,7 +1278,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46514282.jpg?v=1748854269
   Price: $28.07 USD
 - [Zebra ZD620 Barcode Label Printer Stepper Motor 212630-001 Genuine Lot of 2](https://tlztechnologies.com/products/stepper-motor-25680g-nema-17-robot-project-cnc-sth-39h2003-02-lot-of-2): Lot of 2 Stepper Motor for Zebra ZD620 Barcode Label Printer 212630-001 GenuineCondition: Excellent Condition Package: Brown Box Make: Shinano Kenshi Type: Stepper Motor Model: STH-39H2003-02 Part #: 212630-001
-  Updated: 2026-07-01T13:26:03Z
+  Updated: 2026-07-20T21:08:28Z
   Vendor: Zebra
   Product Type: Stepper Motor
   Availability: Available
@@ -1760,22 +1753,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46516610.jpg?v=1713265182
   Price: $15.21 USD
-[List Continued](https://tlztechnologies.com/a/llms-agent/llms.txt?shop=tlz-technologies.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3MTM1NzM0NTYyODY0LCJsYXN0X3ZhbHVlIjoiNzEzNTczNDU2Mjg2NCJ9)
+- [Ubiquiti Networks 5GHZ Powerbeam Airmax PBE-M5-300-ISO](https://tlztechnologies.com/products/ubiquiti-networks-5ghz-powerbeam-airmax-pbe-m5-300-iso-us): Ubiquiti Networks 5GHZ Powerbeam Airmax PBE-5AC-300-ISO-US Condition: New / Open box Packaging: Original box (condition; cosmetic imperfections / distressed Name: Ubiquiti Type: Powerbeam Network BridgePart #: PBE-5AC-300-ISO-US
+  Updated: 2026-07-01T11:03:33Z
+  Vendor: Ubiquiti Networks
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/51380530.jpg?v=1691398914
+  Price: $198.35 USD
+[List Continued](https://tlztechnologies.com/a/llms-agent/llms.txt?shop=tlz-technologies.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3MTM1NzM0OTU2MDgwLCJsYXN0X3ZhbHVlIjoiNzEzNTczNDk1NjA4MCJ9)
 
 ## Collections
 
 - [Computer & Accessories](https://tlztechnologies.com/collections/computer-accessories): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco accessories. Get authentic enterprise computing gear at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-07-17T08:57:59Z
+  Updated: 2026-07-24T18:19:10Z
   Total Products: 76
 - [POS Systems & Scanners](https://tlztechnologies.com/collections/pos-systems-scanners): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco POS gear. Get authentic barcode scanners and point-of- systems at a fraction of the cost.
   Updated: 2026-07-18T09:36:52Z
   Total Products: 45
 - [Electronics & More](https://tlztechnologies.com/collections/electronics-more): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco electronics. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-07-08T11:06:28Z
+  Updated: 2026-07-24T18:19:10Z
   Total Products: 43
 - [Networking Equipment, Servers & Storage](https://tlztechnologies.com/collections/networking-equipment-servers-storage): Shop Zebra, Honeywell, Intermec, Cisco, Avaya & Polycom. Get authentic servers, storage, and networking gear at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-07-17T14:02:01Z
-  Total Products: 163
+  Updated: 2026-07-23T10:38:04Z
+  Total Products: 165
 - [Business Phones & Video Conferencing](https://tlztechnologies.com/collections/business-phones-video-conferencing): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco. Get authentic video conferencing and business phone systems at a fraction of the cost. Shop 50% Off!
   Updated: 2026-07-15T08:32:35Z
   Total Products: 20
@@ -1783,17 +1783,17 @@
   Updated: 2026-07-17T08:10:27Z
   Total Products: 80
 - [Super Saver Deals](https://tlztechnologies.com/collections/): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco deals. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-07-18T23:10:22Z
+  Updated: 2026-07-25T11:14:30Z
   Total Products: 1611
 - [Security Systems](https://tlztechnologies.com/collections/security-systems): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco gear. Get authentic security systems and surveillance hardware at a fraction of the cost. Shop 50% Off!
   Updated: 2026-06-30T22:07:51Z
   Total Products: 8
 - [Best Sellers](https://tlztechnologies.com/collections/best-sellers): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco best sellers. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-07-18T23:10:51Z
-  Total Products: 1964
+  Updated: 2026-07-25T06:29:50Z
+  Total Products: 1923
 - [Zebra Technologies (expensive products)](https://tlztechnologies.com/collections/zebra-technologies): Shop Zebra, Honeywell, Intermec, Cisco & Polycom hardware. Get authentic Zebra mobile computers and printers at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-07-18T19:35:43Z
-  Total Products: 1109
+  Updated: 2026-07-25T11:14:30Z
+  Total Products: 1129
 - [Security Systems (Copy)](https://tlztechnologies.com/collections/security-systems-copy)
   Updated: 2026-06-30T22:07:51Z
   Total Products: 8
@@ -1989,6 +1989,15 @@
     Author: Joe Muita
   - [Zebra's Affordable Solutions for Enterprise Hardware Challenges](https://tlztechnologies.com/blogs/news/zebras-affordable-solutions-for-enterprise-hardware-challenges): Zebra's Affordable Solutions for Enterprise Hardware Challenges
     Updated: 2026-07-17T01:23:53Z
+    Author: Joe Muita
+  - [Mastering Enterprise Efficiency with Zebra Tools](https://tlztechnologies.com/blogs/news/mastering-enterprise-efficiency-with-zebra-tools): Mastering Enterprise Efficiency with Zebra Tools
+    Updated: 2026-07-20T01:30:17Z
+    Author: Joe Muita
+  - [Enhance Enterprise Operations Using Honeywell Technologies Efficiently](https://tlztechnologies.com/blogs/news/enhance-enterprise-operations-using-honeywell-technologies-efficiently): Enhance Enterprise Operations Using Honeywell Technologies Efficiently
+    Updated: 2026-07-22T01:07:57Z
+    Author: Joe Muita
+  - [Transform Enterprise Systems with Zebra Tools at Lower Cost](https://tlztechnologies.com/blogs/news/transform-enterprise-systems-with-zebra-tools-at-lower-cost): Transform Enterprise Systems with Zebra Tools at Lower Cost
+    Updated: 2026-07-24T01:11:55Z
     Author: Joe Muita
 
 ## Store Pages
