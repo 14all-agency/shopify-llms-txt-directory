@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-06-04T23:01:09Z
 - Contact Email: jeremymcanally@gmail.com
-- Updated At: 2026-07-05T00:00:31.611Z
+- Updated At: 2026-07-26T00:00:37.421Z
 
 ## Products
 
 - [Totally Talhoffer Rash Guard (Men's)](https://sweatygambeson.com/products/totally-talhoffer-rash-guard-1): Hans Talhoffer meticulously illustrated people demolishing each other in 1467, and now it's printed on four-way stretch so you can sweat through it in a three-hour sparring block.
-  Updated: 2026-06-25T01:41:00Z
+  Updated: 2026-07-17T13:36:51Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -45,7 +45,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-mens-rash-guard-white-front-6a22419750eb7.png?v=1780629937
     Price: $50.00 USD
 - [Totally Talhoffer Rash Guard (Women's)](https://sweatygambeson.com/products/womens-rash-guard): Hans Talhoffer meticulously illustrated people demolishing each other in 1467, and now it's printed on four-way stretch so you can sweat through it in a three-hour sparring block.
-  Updated: 2026-06-25T01:41:01Z
+  Updated: 2026-07-15T03:57:10Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -411,7 +411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-ivory-front-6a28be9136d15.png?v=1781055127
     Price: $32.00 USD
 - [Fühlen Güd Tee](https://sweatygambeson.com/products/fuhlen-gud-tee): "Fühlen" is the art of feeling your opponent's intentions through the bind. This is the art of feeling güd through the vibes. Or something.
-  Updated: 2026-06-25T01:41:02Z
+  Updated: 2026-07-16T12:39:20Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -432,7 +432,7 @@
     Availability: Available
     Price: $28.00 USD
 - [Fühlen Güd Tee](https://sweatygambeson.com/products/fuhlen-gud-tee-1): "Fühlen" is the art of feeling your opponent's intentions through the bind. This is the art of feeling güd through the vibes. Or something.
-  Updated: 2026-06-25T01:41:02Z
+  Updated: 2026-07-18T06:07:44Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -562,7 +562,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-womens-rash-guard-white-front-6a225fa9d7002.png?v=1780637618
     Price: $50.00 USD
 - [Chainmail Rash Guard (Men's)](https://sweatygambeson.com/products/chainmail-rash-guard-mens): All the visual menace of maille, none of the weight, rust, or chafing. Looks like armor, moves like a second skin, weighs roughly nothing.
-  Updated: 2026-06-25T01:41:02Z
+  Updated: 2026-07-18T06:08:33Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -596,7 +596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-mens-rash-guard-white-front-6a2264dbf32d6.png?v=1780638974
     Price: $50.00 USD
 - [Chainmail Rash Guard (Women's)](https://sweatygambeson.com/products/chainmail-rash-guard-womens): All the visual menace of maille, none of the weight, rust, or chafing. Looks like armor, moves like a second skin, weighs roughly nothing.
-  Updated: 2026-06-25T01:41:03Z
+  Updated: 2026-07-15T10:01:48Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -630,7 +630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-womens-rash-guard-white-front-6a22651161c81.png?v=1780639007
     Price: $50.00 USD
 - [Totally Talhoffer Rash Guard (Short-Sleeved)](https://sweatygambeson.com/products/totally-talhoffer-rash-guard-short-sleeved): Hans Talhoffer meticulously illustrated people demolishing each other in 1467, and now it's printed on four-way stretch so you can sweat through it in a three-hour sparring block.
-  Updated: 2026-06-25T01:41:03Z
+  Updated: 2026-07-18T16:21:59Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -770,7 +770,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-ivory-front-6a263ebd4f06e.png?v=1780891332
     Price: $32.00 USD
 - [Dancing Corpse Hoodie](https://sweatygambeson.com/products/dancing-corpse-hoodie): Pseudo-Hans Döbringer may have mocked flamboyant fencing instructors as Leichmeisters (a play on dance/corpse masters), but we all know the core of all fencing is to be fancy. This is the heaviest, boxiest tee we make, built to outlive its wearer (low bar, given the artwork).
-  Updated: 2026-06-25T01:41:03Z
+  Updated: 2026-07-18T06:45:28Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -800,7 +800,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-premium-full-zip-hoodie-black-back-6a22685816ea9.png?v=1780639850
     Price: $50.00 USD
 - [Fiore's Seven Blows Rash Guard (Men's)](https://sweatygambeson.com/products/fiores-seven-blows-rash-guard-mens): Fiore dei Liberi named seven blows of the sword, and you'll feel all of them in your forearms by drill three.
-  Updated: 2026-06-25T01:41:03Z
+  Updated: 2026-07-18T08:11:02Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -834,7 +834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-mens-rash-guard-white-front-6a28d4fc55866.png?v=1781060912
     Price: $52.00 USD
 - [Do Not Stab Socks](https://sweatygambeson.com/products/do-not-stab-socks): Direct your opponents away from this crucial off-target with these stylish socks. At least they can’t say they didn’t know now!
-  Updated: 2026-06-25T01:41:04Z
+  Updated: 2026-07-18T06:07:24Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -852,7 +852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/sublimation-socks-l-left-sock-6a29c33283a69.png?v=1781121870
     Price: $12.00 USD
 - [SWORDS Corduroy Hat](https://sweatygambeson.com/products/swords-hat): SWORDS. What else do you need to know about a person? The corduroy is just a bonus.
-  Updated: 2026-06-25T01:41:04Z
+  Updated: 2026-07-18T07:52:52Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -866,14 +866,14 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/corduroy-hat-camel-right-front-6a29cffb5a29c.png?v=1781125131
     Price: $24.00 USD
 - [Dancing Corpse Hat](https://sweatygambeson.com/products/dancing-corpse-hat): Pseudo-Hans Döbringer may have mocked flamboyant fencing instructors as Leichmeisters (a play on dance/corpse masters), but we all know the core of all fencing is to be fancy.
-  Updated: 2026-06-25T01:41:04Z
+  Updated: 2026-07-17T15:01:23Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/vintage-cap-black-right-front-6a2af11a913b8.png?v=1781199150
   Price: $24.00 USD
 - [Longsword Hat](https://sweatygambeson.com/products/longsword-hat): A longsword, on a hat. Need we say more?
-  Updated: 2026-06-25T01:41:04Z
+  Updated: 2026-07-21T20:15:22Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -887,7 +887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/otto-cap-18-772-dusty-rose-right-front-6a2af15db3700.png?v=1781199214
     Price: $24.00 USD
 - [The Bind Hat](https://sweatygambeson.com/products/crossed-swords-hat): A good fencer reads everything from the bind, sensing strong from weak through the steel. You will sense nothing through this hat except that it looks stunning on you, which is enough.
-  Updated: 2026-06-25T01:41:05Z
+  Updated: 2026-07-21T20:15:19Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -905,7 +905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/otto-cap-18-772-dusty-rose-right-front-6a2af183646cd.png?v=1781199253
     Price: $24.00 USD
 - [Mordhau Tee](https://sweatygambeson.com/products/mordhau-tee): The most metal of all longsword techniques. The murder-stroke: history's most polite way to ruin a helmet.
-  Updated: 2026-06-25T01:41:05Z
+  Updated: 2026-07-18T11:39:40Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -967,7 +967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-brick-front-6a2af275aa938.png?v=1781199487
     Price: $32.00 USD
 - [Vadi's Not Weird, You're Weird Tee](https://sweatygambeson.com/products/vadis-not-weird-youre-weird-tee): Sure, Vadi had strong opinions about geometry, but that’s not weird, that's committed. You're the weird one.
-  Updated: 2026-06-25T01:41:05Z
+  Updated: 2026-07-18T07:00:39Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1029,7 +1029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-sage-front-6a2b7eb8afdb1.png?v=1781235401
     Price: $32.00 USD
 - [Plateful of Meyer Tee](https://sweatygambeson.com/products/meyer-plate-l-tee): Joachim Meyer left more longsword material than any sane person could drill in a lifetime, so we're serving him by the plateful. This shirt features a rendering of Plate L from Meyer’s manual.
-  Updated: 2026-06-25T01:41:05Z
+  Updated: 2026-07-17T15:24:14Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1091,7 +1091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-ivory-front-6a2c24ef8dc37.png?v=1781278045
     Price: $32.00 USD
 - [The Master Tee](https://sweatygambeson.com/products/unisex-garment-dyed-heavyweight-t-shirt): Liechtenauer. The man, the myth, the epic swordfighting legend. He never lost a fight, and with this shirt, you can let your enemies assume you haven’t either.
-  Updated: 2026-06-25T01:41:05Z
+  Updated: 2026-07-16T18:51:55Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1181,7 +1181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-ivory-front-6a2cd83c38218.png?v=1781323853
     Price: $32.00 USD
 - [Mean Mug Meyer Tee](https://sweatygambeson.com/products/mean-mug-meyer-tee): Joachim Meyer, staring you down across five centuries like you racked the feders wrong. You did, by the way.
-  Updated: 2026-06-25T01:41:06Z
+  Updated: 2026-07-18T08:08:17Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1271,7 +1271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-ivory-front-6a2cd89464ffa.png?v=1781323940
     Price: $32.00 USD
 - [The Sword Jacquard Sweater (Black)](https://sweatygambeson.com/products/knitted-crew-neck-sweater): A sweater for a more civilized age, this piece is a Hauptstücke in fashion.
-  Updated: 2026-06-25T01:41:06Z
+  Updated: 2026-07-17T17:07:11Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1305,7 +1305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-classic-fit-knitted-crew-neck-sweater-custom-3xl-front-6a2ce0512a15e.png?v=1781325996
     Price: $70.00 USD
 - [The Master Jacquard Sweater (Mustard)](https://sweatygambeson.com/products/the-master-sweater-mustard): The master taught that a duel is won in a single instant he called Indes. The instant you saw this sweater knitted with his likeness was, frankly, a very similar moment.
-  Updated: 2026-06-25T01:41:06Z
+  Updated: 2026-07-17T18:56:58Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1339,7 +1339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-classic-fit-knitted-crew-neck-sweater-custom-3xl-front-6a2ce8ee1ba2e.png?v=1781328182
     Price: $70.00 USD
 - [Sword Person Headband](https://sweatygambeson.com/products/sword-person-headband): You’re a sword person. Just put it out there in case there was any doubt at all. Own it. Live it.
-  Updated: 2026-06-25T01:41:06Z
+  Updated: 2026-07-16T15:52:42Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1353,7 +1353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-headband-white-left-front-6a2ced4f4be86.png?v=1781329240
     Price: $12.00 USD
 - [The Master Jacquard Sweater (Beige)](https://sweatygambeson.com/products/the-master-sweater-beige): The master taught that a duel is won in a single instant he called Indes. The instant you saw this sweater knitted with his likeness was, frankly, a very similar moment.
-  Updated: 2026-06-25T01:41:06Z
+  Updated: 2026-07-18T03:01:40Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1387,7 +1387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-classic-fit-knitted-crew-neck-sweater-custom-3xl-front-6a2cedb40efcb.png?v=1781329401
     Price: $70.00 USD
 - [The Master Jacquard Sweater (Pine)](https://sweatygambeson.com/products/the-master-sweater-pine): The master taught that a duel is won in a single instant he called Indes. The instant you saw this sweater knitted with his likeness was, frankly, a very similar moment.
-  Updated: 2026-06-25T01:41:07Z
+  Updated: 2026-07-16T19:59:57Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1421,7 +1421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-classic-fit-knitted-crew-neck-sweater-custom-3xl-front-6a2cee455c8d6.png?v=1781329544
     Price: $70.00 USD
 - [The Sword Jacquard Sweater (Burgundy)](https://sweatygambeson.com/products/the-sword-sweater-burgundy): A sweater for a more civilized age, this piece is a Hauptstücke in fashion.
-  Updated: 2026-06-25T01:41:07Z
+  Updated: 2026-07-16T19:46:56Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1455,7 +1455,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-classic-fit-knitted-crew-neck-sweater-custom-3xl-front-6a2cf132714f7.png?v=1781330296
     Price: $70.00 USD
 - [Sword Person Headband (Red)](https://sweatygambeson.com/products/sword-person-headband-red): You’re a sword person. Just put it out there in case there was any doubt at all. Own it. Live it.
-  Updated: 2026-06-25T01:41:07Z
+  Updated: 2026-07-17T06:17:35Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1469,7 +1469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-headband-white-left-front-6a2cf388e6972.png?v=1781331007
     Price: $12.00 USD
 - [Fiore's Seven Blows Rash Guard (Women's)](https://sweatygambeson.com/products/fiores-seven-blows-rash-guard-womens): Fiore dei Liberi named seven blows of the sword, and you'll feel all of them in your forearms by drill three.
-  Updated: 2026-06-25T01:41:07Z
+  Updated: 2026-07-17T06:44:34Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1503,7 +1503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-womens-rash-guard-white-front-6a2cfba9a9f69.png?v=1781332954
     Price: $52.00 USD
 - [Longsword Jacquard Cardigan (Beige)](https://sweatygambeson.com/products/longsword-jacquard-sweater): For when you want to project both Mr. Rogers and Mr. Fiore, don this casually martial piece.
-  Updated: 2026-06-25T01:41:07Z
+  Updated: 2026-07-18T05:28:18Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1534,7 +1534,7 @@
     Availability: Available
     Price: $72.00 USD
 - [Longsword Jacquard Cardigan (Brown)](https://sweatygambeson.com/products/longsword-jacquard-cardigan-brown): For when you want to project both Mr. Rogers and Mr. Fiore, don this casually martial piece.
-  Updated: 2026-06-25T01:41:08Z
+  Updated: 2026-07-17T10:10:42Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1565,7 +1565,7 @@
     Availability: Available
     Price: $72.00 USD
 - [Longsword Jacquard Cardigan (Black)](https://sweatygambeson.com/products/longsword-jacquard-cardigan-black): For when you want to project both Mr. Rogers and Mr. Fiore, don this casually martial piece.
-  Updated: 2026-06-25T01:41:08Z
+  Updated: 2026-07-16T10:51:10Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1596,7 +1596,7 @@
     Availability: Available
     Price: $72.00 USD
 - [lol swords Tee](https://sweatygambeson.com/products/lol-swords-tee): lol swords amirite guise?
-  Updated: 2026-06-25T01:41:08Z
+  Updated: 2026-07-16T17:33:55Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -1769,15 +1769,105 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/kiss-cut-stickers-white-3x3-default-6a39892405f64.png?v=1782155559
   Price: $4.00 USD
+- [Just Stab Them Tee](https://sweatygambeson.com/products/just-stab-them-tee): When the bind gets complicated and the fechtbuch gets confusing, there's always one reliable option: just stab them. Every treatise dresses it up in Italian and German, but the core lesson has never really changed.
+  Updated: 2026-07-19T00:48:44Z
+  Vendor: The Sweaty Gambeson
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-black-front-6a5b760f5c232.png?v=1784378918
+  - [HEMA Black / S](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701548632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-black-front-6a5b760f5c232.png?v=1784378918
+    Price: $25.00 USD
+  - [HEMA Black / M](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701581400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-black-front-6a5b760f5c232.png?v=1784378918
+    Price: $25.00 USD
+  - [HEMA Black / L](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701614168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-black-front-6a5b760f5c232.png?v=1784378918
+    Price: $25.00 USD
+  - [HEMA Black / XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701646936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-black-front-6a5b760f5c232.png?v=1784378918
+    Price: $25.00 USD
+  - [HEMA Black / 2XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701679704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-black-front-6a5b760f5c232.png?v=1784378918
+    Price: $28.00 USD
+  - [HEMA Black / 3XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701712472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-black-front-6a5b760f5c232.png?v=1784378918
+    Price: $28.00 USD
+  - [HEMA Black / 4XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701745240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-black-front-6a5b760f5c232.png?v=1784378918
+    Price: $32.00 USD
+  - [Sage Advice / S](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701778008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-sage-front-6a5b760f5d8fd.png?v=1784378919
+    Price: $25.00 USD
+  - [Sage Advice / M](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701810776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-sage-front-6a5b760f5d8fd.png?v=1784378919
+    Price: $25.00 USD
+  - [Sage Advice / L](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701843544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-sage-front-6a5b760f5d8fd.png?v=1784378919
+    Price: $25.00 USD
+  - [Sage Advice / XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701876312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-sage-front-6a5b760f5d8fd.png?v=1784378919
+    Price: $25.00 USD
+  - [Sage Advice / 2XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701909080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-sage-front-6a5b760f5d8fd.png?v=1784378919
+    Price: $28.00 USD
+  - [Sage Advice / 3XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701941848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-sage-front-6a5b760f5d8fd.png?v=1784378919
+    Price: $28.00 USD
+  - [Sage Advice / 4XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396701974616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-sage-front-6a5b760f5d8fd.png?v=1784378919
+    Price: $32.00 USD
+  - [Fresh Bruise / S](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396702007384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-grape-front-6a5b760f5e8bc.png?v=1784378919
+    Price: $25.00 USD
+  - [Fresh Bruise / M](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396702040152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-grape-front-6a5b760f5e8bc.png?v=1784378919
+    Price: $25.00 USD
+  - [Fresh Bruise / L](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396702072920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-grape-front-6a5b760f5e8bc.png?v=1784378919
+    Price: $25.00 USD
+  - [Fresh Bruise / XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396702105688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-grape-front-6a5b760f5e8bc.png?v=1784378919
+    Price: $25.00 USD
+  - [Fresh Bruise / 2XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396702138456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-grape-front-6a5b760f5e8bc.png?v=1784378919
+    Price: $28.00 USD
+  - [Fresh Bruise / 3XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396702171224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-grape-front-6a5b760f5e8bc.png?v=1784378919
+    Price: $28.00 USD
+  - [Fresh Bruise / 4XL](https://sweatygambeson.com/products/just-stab-them-tee?variant=44396702203992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/unisex-garment-dyed-heavyweight-t-shirt-grape-front-6a5b760f5e8bc.png?v=1784378919
+    Price: $32.00 USD
 
 ## Collections
 
 - [Home page](https://sweatygambeson.com/collections/frontpage)
-  Updated: 2026-06-25T01:40:59Z
-  Total Products: 8
+  Updated: 2026-07-18T12:48:41Z
+  Total Products: 9
 - [Apparel](https://sweatygambeson.com/collections/apparel): HEMA-themed apparel rated for longsword and grocery run alike: heavyweight tees, four-way-stretch rash guards, hoodies, and jacquard knitwear. Made to order, shipped worldwide.
-  Updated: 2026-06-25T02:21:35Z
-  Total Products: 31
+  Updated: 2026-07-18T12:49:15Z
+  Total Products: 32
 - [Stickers and Patches](https://sweatygambeson.com/collections/patches-and-stickers): Embroidered patches and weatherproof die-cut stickers with a HEMA bent. Iron-on, sew-on, or Velcro. The merit badges your fencing club would never sanction.
   Updated: 2026-06-25T02:21:37Z
   Total Products: 10
