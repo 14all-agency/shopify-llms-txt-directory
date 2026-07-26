@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2026-04-01T14:25:11Z
 - Contact Email: contato@afroditebeauty.com.br
-- Updated At: 2026-07-18T11:47:17.418Z
+- Updated At: 2026-07-26T00:00:30.395Z
 
 ## Products
 
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/kit-shampoo-condicionador-mise-en-scene-perfect-serum-original-530g-hidratacao-coreana-4029132.jpg?v=1777251474
   Price: R$ 285,00 BRL
 - [Camisola Tule Bojo Renda e Calcinha Fio - Lingerie Sensual](https://www.afroditebeauty.com.br/products/sem-titulo-10deabr-_15-32): Explore a elegância da nossa camisola em tule com bojo e detalhes em renda, acompanhada de uma calcinha fio para realçar sua sensualidade.
-  Updated: 2026-07-18T08:39:09Z
+  Updated: 2026-07-18T14:47:24Z
   Vendor: Afrodite Beauty
   Product Type: Lingerie
   Availability: Available
@@ -159,7 +159,7 @@
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/WhatsAppImage2026-04-12at18.44.20.jpg?v=1777252237
   Price: R$ 143,76 BRL
 - [Fantasia Lingerie Noiva Branco - Roupa Sensual Romântica](https://www.afroditebeauty.com.br/products/fantasia-noiva-dos-sonhos-lingerie-feminina-branco-m): Surpreenda com a fantasia lingerie feminina noiva em branco! O presente romântico perfeito para momentos sensuais e especiais a dois.
-  Updated: 2026-07-18T08:40:01Z
+  Updated: 2026-07-18T13:03:05Z
   Vendor: Afrodite Beauty
   Product Type: Lingerie
   Availability: Available
@@ -187,7 +187,7 @@
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/fantasia-professora-sedutora-branco-lingerie-feminina-m-5717546.png?v=1777251551
   Price: R$ 158,16 BRL
 - [Conjunto Lingerie Tule e Renda Branco - Presente Romântico](https://www.afroditebeauty.com.br/products/conjunto-em-tule-com-renda-branco-lingerie-feminina-m): Surpreenda com nosso conjunto de lingerie em tule e renda branca. Perfeito para momentos românticos e especiais, adicionando charme e sensualidade!
-  Updated: 2026-07-18T08:41:19Z
+  Updated: 2026-07-18T16:03:50Z
   Vendor: Afrodite Beauty
   Product Type: Lingerie
   Availability: Available
@@ -248,8 +248,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/lubrificante-neutro-natural-good-vibres-4737623.webp?v=1781392552
   Price: R$ 49,90 BRL
-- [Vibrador Golfinho - Bem-Estar Íntimo e Prazer Garantido](https://www.afroditebeauty.com.br/products/vibrador-golfinho): Descubra o prazer do nosso Vibrador Golfinho. Ideal para momentos de bem-estar íntimo, proporcionando toques suaves e intensos. Experimente já!
-  Updated: 2026-07-18T08:38:10Z
+- [Vibrador Golfinho - Bem-Estar Íntimo e Prazer Garantido](https://www.afroditebeauty.com.br/products/vibrador-golfinho): Experimente a intensidade do vibrador golfinho, diversão garantida!
+  Updated: 2026-07-22T23:20:50Z
   Vendor: Serena Intimacy
   Product Type: Bem-Estar Íntimo
   Availability: Available
@@ -378,59 +378,59 @@
 
 ## Collections
 
-- [Bem-Estar Íntimo → Ritual de Bem-Estar](https://www.afroditebeauty.com.br/collections/frontpage): Linha íntima Serena Intimacy: vibradores, géis, lubrificantes e acessórios sensuais premium. Discrição total na entrega para todo o Brasil.
-  Updated: 2026-06-23T15:57:12Z
+- [Bem-Estar Íntimo: De Geração em Geração](https://www.afroditebeauty.com.br/collections/frontpage): Linha íntima Serena Intimacy: vibradores, géis, lubrificantes e acessórios sensuais premium. Discrição total na entrega para todo o Brasil.
+  Updated: 2026-07-20T23:22:12Z
   Total Products: 15
-- [Comprar Produtos para Cabelos Premium e Tratamentos - Afrodite Beauty](https://www.afroditebeauty.com.br/collections/fragrance-example-products): Produtos premium para cabelos: shampoos, condicionadores e tratamentos selecionados. Cuide dos seus cabelos com as melhores marcas.
-  Updated: 2026-06-23T00:21:10Z
+- [Cabelos Premium: Produtos e Tratamentos Afrodite Beauty](https://www.afroditebeauty.com.br/collections/fragrance-example-products): Produtos premium para cabelos: shampoos, condicionadores e tratamentos selecionados. Cuide dos seus cabelos com as melhores marcas.
+  Updated: 2026-07-19T04:46:51Z
   Total Products: 7
-- [Perfumes Masculinos](https://www.afroditebeauty.com.br/collections/masculino): Perfumes masculinos importados e originais das melhores marcas premium. Fragrâncias sofisticadas com entrega rápida para todo o Brasil.
-  Updated: 2026-06-23T00:01:20Z
+- [Coleção: Perfumes para Homens Modernos](https://www.afroditebeauty.com.br/collections/masculino): Perfumes masculinos importados e originais das melhores marcas premium. Fragrâncias sofisticadas com entrega rápida para todo o Brasil.
+  Updated: 2026-07-19T04:48:14Z
   Total Products: 3
 - [Perfumes Femininos](https://www.afroditebeauty.com.br/collections/perfumes-feminos): Descubra perfumes femininos importados e originais. Fragrâncias exclusivas de marcas premium como Prada e Paco Rabanne. Entrega rápida para todo o Brasil.
-  Updated: 2026-06-23T00:03:44Z
+  Updated: 2026-07-19T04:47:44Z
   Total Products: 6
 - [Skincare](https://www.afroditebeauty.com.br/collections/skin-care): Descubra produtos de skincare premium para cuidado facial e corporal. Séruns, hidratantes e tratamentos selecionados para uma pele radiante.
   Updated: 2026-06-22T20:58:16Z
   Total Products: 2
-- [Kits Exclusivos Afrodite](https://www.afroditebeauty.com.br/collections/kits-exclusivos): Kits exclusivos Afrodite Beauty com perfumes importados e lingeries premium. Presentes perfeitos com frete grátis para todo o Brasil.
-  Updated: 2026-06-23T00:03:44Z
+- [Coleção Exclusiva Afrodite: Herança Divina](https://www.afroditebeauty.com.br/collections/kits-exclusivos): Kits exclusivos Afrodite Beauty com perfumes importados e lingeries premium. Presentes perfeitos com frete grátis para todo o Brasil.
+  Updated: 2026-07-19T04:48:37Z
   Total Products: 10
-- [Lingerie & Intimidade](https://www.afroditebeauty.com.br/collections/lingerie-intimidade): Lingeries, camisolas e conjuntos sensuais com entrega discreta. Celebre sua feminilidade com a Afrodite Beauty.
-  Updated: 2026-06-23T00:36:39Z
+- [Delicadeza Íntima: Uma jornada pela evolução da lingerie](https://www.afroditebeauty.com.br/collections/lingerie-intimidade): Lingeries, camisolas e conjuntos sensuais com entrega discreta. Celebre sua feminilidade com a Afrodite Beauty.
+  Updated: 2026-07-19T04:44:09Z
   Total Products: 17
-- [Perfumaria → Perfumaria & Fragrâncias](https://www.afroditebeauty.com.br/collections/perfumaria): Descubra nossa seleção de perfumes importados femininos e masculinos. Fragrâncias premium com entrega rápida.
-  Updated: 2026-06-23T00:38:01Z
+- [Perfumaria Clássica → Fragrâncias Modernas](https://www.afroditebeauty.com.br/collections/perfumaria): Descubra nossa seleção de perfumes importados femininos e masculinos. Fragrâncias premium com entrega rápida.
+  Updated: 2026-07-19T04:43:42Z
   Total Products: 12
 - [Destaques Afrodite](https://www.afroditebeauty.com.br/collections/destaques-afrodite): Conheça os produtos mais amados da Afrodite Beauty: perfumes, lingeries, skincare e bem-estar íntimo.
   Updated: 2026-06-23T00:10:40Z
   Total Products: 14
-- [Skin & Care → Skin & Care ✦ K-Beauty](https://www.afroditebeauty.com.br/collections/k-beauty): Produtos K-Beauty autênticos: skincare, haircare e tratamentos coreanos premium. Curadoria exclusiva com as melhores marcas da Coreia.
-  Updated: 2026-06-23T00:21:10Z
+- [Skin & Care to Skin & Care ✦ K-Beauty: A Evolução da Beleza](https://www.afroditebeauty.com.br/collections/k-beauty): Produtos K-Beauty autênticos: skincare, haircare e tratamentos coreanos premium. Curadoria exclusiva com as melhores marcas da Coreia.
+  Updated: 2026-07-19T04:42:52Z
   Total Products: 19
-- [Cabelos](https://www.afroditebeauty.com.br/collections/universobeleza): Curadoria sensorial de perfumes importados e skincare coreano para transformar seu autocuidado em ritual. Entrega discreta. Afrodite Beauty.
-  Updated: 2026-06-23T00:21:10Z
+- [Corte de cabelo: guia completo para um visual descolado](https://www.afroditebeauty.com.br/collections/universobeleza): Curadoria sensorial de perfumes importados e skincare coreano para transformar seu autocuidado em ritual. Entrega discreta. Afrodite Beauty.
+  Updated: 2026-07-19T04:42:11Z
   Total Products: 9
-- [Universo Feminilidade](https://www.afroditebeauty.com.br/collections/universofeminilidade): Lingeries sofisticadas para celebrar sua feminilidade com delicadeza e elegância. Tecidos nobres, embalagem discreta. Afrodite Beauty.
-  Updated: 2026-06-23T00:36:39Z
+- [Elegância Feminina: A Evolução](https://www.afroditebeauty.com.br/collections/universofeminilidade): Lingeries sofisticadas para celebrar sua feminilidade com delicadeza e elegância. Tecidos nobres, embalagem discreta. Afrodite Beauty.
+  Updated: 2026-07-19T04:40:44Z
   Total Products: 7
-- [Universo Íntimo](https://www.afroditebeauty.com.br/collections/universointimo): Curadoria de bem-estar íntimo com segurança, discrição e sofisticação. Entrega discreta garantida. Afrodite Beauty.
-  Updated: 2026-06-23T15:57:12Z
+- [Íntimo: A Essência](https://www.afroditebeauty.com.br/collections/universointimo): Curadoria de bem-estar íntimo com segurança, discrição e sofisticação. Entrega discreta garantida. Afrodite Beauty.
+  Updated: 2026-07-20T23:22:12Z
   Total Products: 12
-- [Perfumes Importados](https://www.afroditebeauty.com.br/collections/perfumes-importados): Perfumes importados originais com alta fixação e fragrâncias únicas. Entrega discreta. Afrodite Beauty.
-  Updated: 2026-06-23T00:03:44Z
+- [Coleção Exclusiva de Fragrâncias Internacionais](https://www.afroditebeauty.com.br/collections/perfumes-importados): Perfumes importados originais com alta fixação e fragrâncias únicas. Entrega discreta. Afrodite Beauty.
+  Updated: 2026-07-19T04:39:48Z
   Total Products: 6
-- [Skincare K-Beauty](https://www.afroditebeauty.com.br/collections/skincare-k-beauty): Skincare K-Beauty com ingredientes ativos para pele hidratada e radiante. Curadoria sensorial. Afrodite Beauty.
-  Updated: 2026-06-22T20:58:16Z
+- [Coleção K-Beauty: Rotina Skincare](https://www.afroditebeauty.com.br/collections/skincare-k-beauty): Skincare K-Beauty com ingredientes ativos para pele hidratada e radiante. Curadoria sensorial. Afrodite Beauty.
+  Updated: 2026-07-19T04:39:21Z
   Total Products: 7
-- [Lingerie](https://www.afroditebeauty.com.br/collections/lingerie): Lingeries em tecidos nobres que unem conforto, elegância e sensualidade. Embalagem discreta. Afrodite Beauty.
-  Updated: 2026-06-23T00:36:39Z
+- [Coleção Sensual: Lingerie Chique](https://www.afroditebeauty.com.br/collections/lingerie): Lingerie feminina para todos os momentos, unindo conforto, elegância e sensualidade. Peças escolhidas a dedo pela Afrodite Beauty.
+  Updated: 2026-07-20T23:35:52Z
   Total Products: 9
 - [Vibradores Discretos](https://www.afroditebeauty.com.br/collections/vibradores-discretos): Vibradores com design sofisticado, materiais seguros e entrega 100% discreta. Bem-estar íntimo com elegância. Afrodite Beauty.
-  Updated: 2026-06-23T00:38:59Z
+  Updated: 2026-07-20T23:34:31Z
   Total Products: 5
-- [Cosméticos Íntimos](https://www.afroditebeauty.com.br/collections/cosmeticos-intimos): Lubrificantes, geléis e cosméticos íntimos dermatologicamente testados. Ritual íntimo com segurança e sofisticação. Afrodite Beauty.
-  Updated: 2026-06-23T15:55:20Z
+- [Evolução dos Cosméticos Íntimos ao longo das Décadas](https://www.afroditebeauty.com.br/collections/cosmeticos-intimos): Lubrificantes, geléis e cosméticos íntimos dermatologicamente testados. Ritual íntimo com segurança e sofisticação. Afrodite Beauty.
+  Updated: 2026-07-20T23:33:43Z
   Total Products: 5
 
 ## Blogs
@@ -445,42 +445,60 @@
   - [Eau de Parfum: guia para escolher o ideal](https://www.afroditebeauty.com.br/blogs/noticias/eau-de-parfum-guia-para-escolher-10708-35): Eau de Parfum: guia para escolher o ideal
     Updated: 2026-06-17T02:05:10Z
     Author: DIOVANA CORREA
-  - [Como Recuperar Cabelos Danificados Sem Precisar Cortar](https://www.afroditebeauty.com.br/blogs/noticias/como-recuperar-cabelos-danificados-sem-precisar-cortar): <p>Dicas essenciais para recuperar cabelos danificados, ressecados e quebradiços com os cuidados certos. Aprenda a identificar os sinais de danos e descubra tratamentos capilares que devolvem brilho, força e saúde aos fios. </p>
-    Updated: 2026-07-18T11:33:34Z
+  - [Como Recuperar Cabelos Danificados Sem Precisar Cortar](https://www.afroditebeauty.com.br/blogs/noticias/como-recuperar-cabelos-danificados-sem-precisar-cortar): Como Recuperar Cabelos Danificados Sem Precisar Cortar
+    Updated: 2026-07-20T23:49:03Z
     Author: DIOVANA CORREA
     Tags: cabelo danificado, cabelo ressecado, recuperação capilar, tratamento capilar
-  - [Perfume Feminino: Como Escolher a Fragância Ideal para Sua Personalidade](https://www.afroditebeauty.com.br/blogs/noticias/perfume-feminino-como-escolher-a-fragancia-ideal-para-sua-personalidade): <p>Descubra como escolher o perfume perfeito para cada ocasião e personalidade. Entenda as famílias olfativas, tipos de fragrâncias e dicas para encontrar o aroma que mais combina com você.</p>
-    Updated: 2026-07-18T11:32:49Z
+  - [Perfume Feminino: Encontre sua fragrância ideal](https://www.afroditebeauty.com.br/blogs/noticias/perfume-feminino-como-escolher-a-fragancia-ideal): Perfume Feminino: Encontre sua fragrância ideal
+    Updated: 2026-07-20T23:26:30Z
     Author: DIOVANA CORREA
     Tags: como escolher perfume, fragrância, perfume feminino, perfume importado
-  - [Lingerie e Autoestima: Por Que a Roupa Que Ninguém Vê Pode Mudar Como Você Se Sente](https://www.afroditebeauty.com.br/blogs/noticias/lingerie-e-autoestima-por-que-a-roupa-que-ninguem-ve-pode-mudar-como-voce-se-sente): <p>A lingerie vai muito além da estética. Descubra como ela influencia sua autoestima, confiança e bem-estar no dia a dia e como escolher peças que valorizam seu corpo e te fazem se sentir ainda mais poderosa. </p>
-    Updated: 2026-07-18T11:32:06Z
+  - [Lingerie e autoestima: impacto da roupa invisível](https://www.afroditebeauty.com.br/blogs/noticias/lingerie-e-autoestima-por-que-a-roupa-pode-mudar-como-voce-se-sente): Lingerie e autoestima: impacto da roupa invisível
+    Updated: 2026-07-20T23:25:57Z
     Author: DIOVANA CORREA
     Tags: autoestima, confiança feminina, lingerie feminina, lingerie sensual
-  - [Os 10 principais ingredientes naturais para uma pele brilhante](https://www.afroditebeauty.com.br/blogs/noticias/top-10-natural-ingredients-for-glowing-skin)
-    Updated: 2026-07-18T11:40:00Z
+  - [10 ingredientes naturais para uma pele brilhante](https://www.afroditebeauty.com.br/blogs/noticias/top-10-natural-ingredients-for-glowing-skin): 10 ingredientes naturais para uma pele brilhante
+    Updated: 2026-07-20T23:24:44Z
+    Author: Diovana Correa
+  - [10 Dicas Para Incorporar Beleza Natural Na Sua Rotina](https://www.afroditebeauty.com.br/blogs/noticias/10-dicas-para-incorporar-beleza-natural-na-sua-rotina): 10 Dicas Para Incorporar Beleza Natural Na Sua Rotina
+    Updated: 2026-07-20T09:18:07Z
+    Author: Diovana Correa
+  - [Descubra o Segredo da Beleza Verdadeira com Afrodite Beauty](https://www.afroditebeauty.com.br/blogs/noticias/descubra-o-segredo-da-beleza-verdadeira-com-afrodite-beauty)
+    Updated: 2026-07-21T08:19:11Z
+    Author: Afrodite Beauty
+  - [Descubra os Perfumes Afrodite Beauty que Transformarão sua Rotina](https://www.afroditebeauty.com.br/blogs/noticias/descubra-os-perfumes-afrodite-beauty-que-transformarao-sua-rotina)
+    Updated: 2026-07-21T08:19:14Z
+    Author: Afrodite Beauty
+  - [Transforme seus Cabelos com os Produtos Premium da Afrodite Beauty](https://www.afroditebeauty.com.br/blogs/noticias/transforme-seus-cabelos-com-os-produtos-premium-da-afrodite-beauty)
+    Updated: 2026-07-21T08:19:16Z
+    Author: Afrodite Beauty
+  - [Como Resolver Problemas Comum De Cuidados Naturais Para Pele](https://www.afroditebeauty.com.br/blogs/noticias/como-resolver-problemas-comum-de-cuidados-naturais-para-pele): Como Resolver Problemas Comum De Cuidados Naturais Para Pele
+    Updated: 2026-07-22T07:20:08Z
+    Author: Diovana Correa
+  - [Entendendo Os Benefícios Da Beleza Natural Para Sua Saúde](https://www.afroditebeauty.com.br/blogs/noticias/entendendo-os-beneficios-da-beleza-natural-para-sua-saude): Entendendo Os Benefícios Da Beleza Natural Para Sua Saúde
+    Updated: 2026-07-24T05:22:08Z
     Author: Diovana Correa
 
 ## Store Pages
 
-- [Contato](https://www.afroditebeauty.com.br/pages/contact): Entre em contato conosco pelos canais disponíveis: contato@afroditebeauty.com.br (11) 99752-6178. Estamos prontos para ajudar!
-  Updated: 2026-04-19T00:20:13Z
-- [Nossa História](https://www.afroditebeauty.com.br/pages/nossa-historia): Bem-vinda à Afrodite Beauty, onde cada detalhe é pensado para oferecer uma experiência de compra segura, elegante e confiável. Conheça nossa histór...
-  Updated: 2026-07-18T09:41:03Z
-- [Afilie-se | Afrodite Beauty](https://www.afroditebeauty.com.br/pages/afilie-se): Programa de Afiliados Afrodite BeautyQuer ganhar dinheiro indicando produtos que você ama? Faça parte do nosso Programa de Afiliados e comece a fat...
-  Updated: 2026-05-07T00:21:13Z
-- [html sitemap products](https://www.afroditebeauty.com.br/pages/html-sitemap-products): Products Perfume Rabanne Black XS For H... Perfume Carolina Herrera Good ... Perfume Lancôme Idôle Nectar E... Perfume Jean Paul Gaultier Sca... Pe...
-  Updated: 2026-04-27T01:10:40Z
-- [html sitemap collections](https://www.afroditebeauty.com.br/pages/html-sitemap-collections): Collections Serena Intimacy: Produtos Ínti... Comprar Produtos para Cabelos ... Perfumes Masculinos Perfumes Femininos Skincare Kits Exclusivos Afr...
-  Updated: 2026-04-27T01:10:42Z
-- [html sitemap blogs](https://www.afroditebeauty.com.br/pages/html-sitemap-blogs): Blogs Notícias .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { m...
-  Updated: 2026-04-27T01:10:43Z
-- [html sitemap pages](https://www.afroditebeauty.com.br/pages/html-sitemap-pages): Pages Contato Nossa História Sobre Nós html sitemap products html sitemap collections html sitemap blogs .seoant-html-sitemap-row { margin-bottom: ...
-  Updated: 2026-04-27T01:10:44Z
+- [Entre em contato conosco](https://www.afroditebeauty.com.br/pages/contact): Entre em contato conosco pelos canais disponíveis: contato@afroditebeauty.com.br (11) 99752-6178. Estamos prontos para ajudar!
+  Updated: 2026-07-20T23:29:42Z
+- [Conheça nossa trajetória](https://www.afroditebeauty.com.br/pages/nossa-historia): Bem-vinda à Afrodite Beauty, onde cada detalhe é pensado para oferecer uma experiência de compra segura, elegante e confiável. Conheça nossa histór...
+  Updated: 2026-07-19T13:04:17Z
+- [Afilie-se | Afrodite Beauty](https://www.afroditebeauty.com.br/pages/afilie-se): Programa de Afiliados Afrodite Beauty Quer ganhar dinheiro indicando produtos que você ama? Faça parte do nosso Programa de Afiliados e comece a fa...
+  Updated: 2026-07-19T13:09:44Z
+- [Sitemap of Products](https://www.afroditebeauty.com.br/pages/html-sitemap-products): Sitemap HTML O sitemap HTML de produtos organiza seus itens em uma página clara e fácil de navegar. Ele ajuda visitantes a encontrar categorias, co...
+  Updated: 2026-07-19T13:14:41Z
+- [Html Sitemap for Collections](https://www.afroditebeauty.com.br/pages/html-sitemap-collections): MAPA DE COLEÇÕES Nosso HTML sitemap de coleções organiza suas páginas em um formato simples e acessível. Isso facilita a navegação, ajuda visitante...
+  Updated: 2026-07-19T13:12:56Z
+- [Mapa de site em HTML: Guia Prático](https://www.afroditebeauty.com.br/pages/html-sitemap-blogs): Guia Prático O mapa de site para blogs em HTML ajuda visitantes a encontrar conteúdos com rapidez e melhora a navegação do seu site. Para blogs, el...
+  Updated: 2026-07-19T13:13:27Z
+- [html sitemap pages](https://www.afroditebeauty.com.br/pages/html-sitemap-pages): Estrutura clara para SEO Um mapa do site bem organizado ajuda os motores de busca a entenderem a hierarquia das páginas e a encontrarem conteúdo co...
+  Updated: 2026-07-19T13:13:44Z
 - [html sitemap](https://www.afroditebeauty.com.br/pages/html-sitemap): Products Perfume Rabanne Black XS For H... Perfume Carolina Herrera Good ... Perfume Lancôme Idôle Nectar E... Perfume Jean Paul Gaultier Sca... Pe...
-  Updated: 2026-04-27T01:10:45Z
-- [Contato | Afrodite Beauty](https://www.afroditebeauty.com.br/pages/contato): Fale ConoscoEstamos aqui para te atender com carinho e agilidade. Escolha o canal de sua preferência:📞 WhatsApp / Telefone(11) 99752-6178📧 E-mailco...
-  Updated: 2026-06-02T21:56:05Z
+  Updated: 2026-07-19T13:06:06Z
+- [Entre em contato](https://www.afroditebeauty.com.br/pages/contato): Fale Conosco Estamos aqui para te atender com carinho e agilidade. Escolha o canal de sua preferência: 📞 WhatsApp / Telefone (11) 99752-6178 📧 E-ma...
+  Updated: 2026-07-19T13:12:04Z
 - [Envio Discreto e Privacidade Total | Afrodite Beauty](https://www.afroditebeauty.com.br/pages/envio-discreto-privacidade): Envio 100% Discreto e Política de Privacidade
   Updated: 2026-07-18T09:23:07Z
 - [Quem Somos | O Ritual Afrodite Beauty](https://www.afroditebeauty.com.br/pages/quem-somos): Quem Somos — O Ritual Afrodite Beauty
