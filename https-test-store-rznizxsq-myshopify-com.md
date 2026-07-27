@@ -10,7 +10,7 @@
 - Contact Email: vinaychilveri143@gmail.com
 - Contact Phone: 4343
 - Address: 12, baner pune
-- Updated At: 2026-07-15T00:00:38.395Z
+- Updated At: 2026-07-27T00:00:43.545Z
 
 custom information 
 for testing
@@ -128,6 +128,14 @@ for testing
   - [20](https://test-store-rznizxsq.myshopify.com/products/the-collection-snowboard-liquid?variant=48052103217326)
     Availability: Available
     Price: $749.95 USD
+- [Talan](https://test-store-rznizxsq.myshopify.com/products/anon-talan-helmet-2015): Anon Talan Helmet warm helmet Endura-Shell Injected Vented ABS Construction Passive Ventilation Expedition Fleece on Liner and Ear Pads Goggle Ventilation Channel Strap Stash + Simple Fit Sk
+  Updated: 2026-07-15T18:15:33Z
+  Vendor: Anon
+  Product Type: Helmets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/13322100084_3_1854x2100_300_RGB.jpg?v=1784096122
+  Price: $109.95 USD
+[List Continued](https://test-store-rznizxsq.myshopify.com/a/llms-agent/llms.txt?shop=test-store-rznizxsq.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTgwNzI1Njc0MTU4LCJsYXN0X3ZhbHVlIjoiOTE4MDcyNTY3NDE1OCJ9)
 
 ## Collections
 
@@ -135,14 +143,14 @@ for testing
   Updated: 2026-06-26T03:35:01Z
   Total Products: 1
 - [Automated Collection](https://test-store-rznizxsq.myshopify.com/collections/automated-collection)
-  Updated: 2026-07-07T08:09:00Z
-  Total Products: 8
+  Updated: 2026-07-15T06:18:42Z
+  Total Products: 128
 - [Hydrogen](https://test-store-rznizxsq.myshopify.com/collections/hydrogen)
   Updated: 2026-07-07T08:09:00Z
   Total Products: 3
 - [AVADA - Best Sellers](https://test-store-rznizxsq.myshopify.com/collections/avada-best-sellers)
-  Updated: 2026-07-07T09:20:09Z
-  Total Products: 17
+  Updated: 2026-07-15T06:18:46Z
+  Total Products: 270
 
 ## Blogs
 
