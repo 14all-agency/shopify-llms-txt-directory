@@ -10,12 +10,12 @@
 - Contact Email: info@tienda-alpine.com
 - Contact Phone: +57 320 2851156
 - Address: Calle 74 # 86-40, 111051 Bogotá, D.C. DC, Colombia
-- Updated At: 2026-07-16T00:00:35.733Z
+- Updated At: 2026-07-27T00:00:37.966Z
 
 ## Products
 
 - [Juguete Palos De Café Perro S](https://tienda-alpine.com/products/juguete-palos-de-cafe-perro-s): 1 juguete en madera de árbol de café para perro. Tamaño del juguete: S.Peso del juguete: 200g.Material: 100% Madera de árbol de caféDimensiones del juguete: 30cm x 2 - 3cm. Recomendado para perros entre 5 - 8 kg de peso corporal.
-  Updated: 2026-06-09T17:45:57Z
+  Updated: 2026-07-16T16:36:18Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
@@ -29,14 +29,14 @@
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/1_a32e4316-1c19-41f3-ae55-a0a1fda430bd.png?v=1763426724
   Price: 22.700,00 $ COP
 - [Juguete Perro Palo De Café M](https://tienda-alpine.com/products/juguete-perro-palo-de-cafe-m): 1 juguete en madera de árbol de café para perro. Tamaño del juguete: M.Peso del juguete: 300g.Material: 100% Madera de árbol de caféDimensiones del juguete: 30cm x 3 - 4cm. Recomendado para perros entre 8 - 12 kg de peso corporal.
-  Updated: 2026-07-15T02:44:18Z
+  Updated: 2026-07-21T21:34:55Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/1_b9d1f2a9-4c5e-4d65-9c1b-beaf71d1d0ce.png?v=1761070404
   Price: 15.700,00 $ COP
 - [Kit 3 Palos De Café Perro M](https://tienda-alpine.com/products/kit-3-palos-de-cafe-perro-m): Combo por 3 juguetes en madera de árbol de café para perro. Tamaño del juguete: M.Peso del juguete: 300g.Material: 100% Madera de árbol de caféDimensiones del juguete: 30cm x 3 - 4cm. Recomendado para perros entre 8 - 12 kg de peso corporal.
-  Updated: 2026-07-15T20:01:36Z
+  Updated: 2026-07-21T21:20:06Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
@@ -50,7 +50,7 @@
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/1_4ac5bdfa-57ea-4df0-9d00-8f21c447bee2.png?v=1754929486
   Price: 34.290,00 $ COP
 - [Kit 3 Palos De Café Perro L](https://tienda-alpine.com/products/kit-3-palos-de-cafe-perro-l): Combo por 3 juguetes en madera de árbol de café para perro. Tamaño del juguete: L.Peso del juguete: 400g.Material: 100% Madera de árbol de caféDimensiones del juguete: 30cm x 4 - 5cm. Recomendado para perros entre 12 - 20 kg de peso corporal.
-  Updated: 2026-07-15T20:01:36Z
+  Updated: 2026-07-21T21:34:51Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
@@ -71,14 +71,14 @@
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/1_2f185b10-c644-4873-8c20-30153ec051ce.png?v=1763428728
   Price: 20.685,00 $ COP
 - [Kit 3 Palos De Café Perro XS](https://tienda-alpine.com/products/juguete-palos-de-cafe-perro-xs-copia): Combo por 3 juguetes en madera de árbol de café para perro. Tamaño del juguete: XS.Peso del juguete: 100g.Material: 100% Madera de árbol de caféDimensiones del juguete: 30cm x 1.5 - 2cm. Recomendado para perros entre 3 - 5 kg de peso corporal.
-  Updated: 2026-06-28T18:27:37Z
+  Updated: 2026-07-21T21:20:06Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0622/7417/5039/files/kit_x_3_did_it.png?v=1765781472
   Price: 26.190,00 $ COP
 - [Kit 3 Palos De Café Perro XL](https://tienda-alpine.com/products/juguete-palos-de-cafe-perro-xl-copia): Combo por 3 juguetes en madera de árbol de café para perro. Tamaño del juguete: XL.Peso del juguete: 500g.Material: 100% Madera de árbol de caféDimensiones del juguete: 30cm x 5 - 7cm. Recomendado para perros entre > 20 kg de peso corporal.
-  Updated: 2026-07-10T21:49:57Z
+  Updated: 2026-07-26T02:35:26Z
   Vendor: A L P I N E
   Product Type: 
   Availability: Available
@@ -88,10 +88,10 @@
 ## Collections
 
 - [Kits de 3 Unidades](https://tienda-alpine.com/collections/frontpage): ¡¡ Ahorra -10% en nuestros kits de palitos de madera de árbol de café !!
-  Updated: 2026-07-15T11:22:44Z
+  Updated: 2026-07-26T11:20:50Z
   Total Products: 5
 - [AVADA - Best Sellers](https://tienda-alpine.com/collections/avada-best-sellers)
-  Updated: 2026-07-15T11:22:44Z
+  Updated: 2026-07-26T11:20:50Z
   Total Products: 10
 
 ## Blogs
@@ -132,6 +132,21 @@
     Author: Alpine
   - [Cómo Elegir Palitos de Café Seguros para Tu Perro Volverás a Ver el Café de Otra Manera](https://tienda-alpine.com/blogs/noticias/como-elegir-palitos-de-cafe-seguros-para-tu-perro-volveras-a-ver-el-cafe-de-otra-manera): Cómo Elegir Palitos de Café Seguros para Tu Perro Volverás a Ver el Café de Otra Manera
     Updated: 2026-07-14T00:46:05Z
+    Author: Alpine
+  - [Problemas Comunes al Introducir Madera de Café para Perros y Cómo Solucionarlos](https://tienda-alpine.com/blogs/noticias/problemas-comunes-al-introducir-madera-de-cafe-para-perros-y-como-solucionarlos): Problemas Comunes al Introducir Madera de Café para Perros y Cómo Solucionarlos
+    Updated: 2026-07-16T01:02:30Z
+    Author: Alpine
+  - [Explorando las Ventajas de la Madera de Café para el Bienestar Canino](https://tienda-alpine.com/blogs/noticias/explorando-las-ventajas-de-la-madera-de-cafe-para-el-bienestar-canino): Explorando las Ventajas de la Madera de Café para el Bienestar Canino
+    Updated: 2026-07-19T00:26:24Z
+    Author: Alpine
+  - [¿Son los Palos de Café la Mejor Opción para las Necesidades Masticativas de los Perros?](https://tienda-alpine.com/blogs/noticias/son-los-palos-de-cafe-la-mejor-opcion-para-las-necesidades-masticativas-de-los-perros): ¿Son los Palos de Café la Mejor Opción para las Necesidades Masticativas de los Perros?
+    Updated: 2026-07-21T00:43:42Z
+    Author: Alpine
+  - [Aprende a Crear una Rutina Divertida para Perros con Madera de Café](https://tienda-alpine.com/blogs/noticias/aprende-a-crear-una-rutina-divertida-para-perros-con-madera-de-cafe): Aprende a Crear una Rutina Divertida para Perros con Madera de Café
+    Updated: 2026-07-23T00:49:46Z
+    Author: Alpine
+  - [Guía Esencial: Todo lo que Necesitas Saber sobre Palitos de Café para Perros](https://tienda-alpine.com/blogs/noticias/guia-esencial-todo-lo-que-necesitas-saber-sobre-palitos-de-cafe-para-perros): Guía Esencial: Todo lo que Necesitas Saber sobre Palitos de Café para Perros
+    Updated: 2026-07-26T00:22:47Z
     Author: Alpine
 
 ## Store Pages
