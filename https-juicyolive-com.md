@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2023-10-09T12:08:55Z
 - Contact Email: flavours@juicyolive.com
-- Updated At: 2026-07-19T00:00:44.156Z
+- Updated At: 2026-07-27T00:00:47.437Z
 
 Boost your health with our high polyphenol, cold pressed extra virgin olive oil. Lab-tested for purity and flavor. Shop our premium collection today!
 
@@ -67,7 +67,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TRIPLEBOTTLES-ORGANIC.jpg?v=1742800189
     Price: ₺3,115.00 TRY
 - [Fruity & Full bodied | Organic Early Harvest Extra Virgin Olive Oil | 1 L Tin | Acidity ≤0.2%](https://juicyolive.com/products/fruity-full-bodied-organic-early-harvest-extra-virgin-olive-oil-1l): Fit for gourmets who want to perfect their food with charming and premium Juicy Olive Squeezed.Due to the premier harvest (1st week of August), it has an intriguingly piquant and elegant flavor with a full-bodied and dense texture. It leaves a pungent and sharp mouthfeel with intense robust aroma notes.Thanks to being rich in phenolic compounds and rare in acidity (0.1% - 0.2%), it reveals precision, freshness, and healthiness on every plate. .
-  Updated: 2026-06-04T12:41:52Z
+  Updated: 2026-07-22T18:46:07Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -139,7 +139,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF-TIN2-TRIPLE-PERSPECTIVE-ORGANIC.jpg?v=1776410796
     Price: ₺15,675.00 TRY
 - [Mild & Flavorous | Organic Early Harvest Extra Virgin Olive Oil | 2 L Tin | Acidity ≤0.3%](https://juicyolive.com/products/mild-flavorous-organic-early-harvest-extra-virgin-olive-oil-2l): The emerald-green color of this special product formed by the reflection of sunlight and freshly-cut grass will take you on a journey to the rich fields of Troy.Harvested in the last week of August, this skillfully-crafted mixture will demonstrate a mild olive-fruity flavor and a well-balanced texture.You'll be delighted by the aftertaste of mild juice and fresh savor!
-  Updated: 2026-07-17T22:31:26Z
+  Updated: 2026-07-19T15:18:07Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -175,7 +175,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN2-TRIPLE-PERSPECTIVE-ORGANIC.jpg?v=1776410768
     Price: ₺10,180.00 TRY
 - [Fruity & Full bodied - Organic Early Harvest Extra Virgin Olive Oil - 500 Ml Bottle - Acidity ≤0.2%](https://juicyolive.com/products/fruity-full-bodied-organic-early-harvest-extra-virgin-olive-oil-acidity-0-3): Fit for gourmets who want to perfect their food with charming and premium Juicy Olive Squeezed.Due to the premier harvest (1st week of August), it has an intriguingly piquant and elegant flavor with a full-bodied and dense texture. It leaves a pungent and sharp mouthfeel with intense robust aroma notes.Thanks to being rich in phenolic compounds and rare in acidity (0.1% - 0.2%), it reveals precision, freshness, and healthiness on every plate. .
-  Updated: 2026-07-10T10:48:59Z
+  Updated: 2026-07-25T08:48:32Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -229,7 +229,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TRIPLEBOTTLES-ORGANIC_92e516e1-9d6e-4b67-8aad-67dc22237e64.jpg?v=1742800145
     Price: ₺5,400.00 TRY
 - [Fruity & Full bodied - Organic Early Harvest Extra Virgin Olive Oil  - 1 L Tin - Acidity ≤0.2%](https://juicyolive.com/products/fruity-full-bodied-organic-early-harvest-extra-virgin-olive-oil-1-l-tin-acidity-0-3): Fit for gourmets who want to perfect their food with charming and premium Juicy Olive Squeezed.Due to the premier harvest (1st week of August), it has an intriguingly piquant and elegant flavor with a full-bodied and dense texture. It leaves a pungent and sharp mouthfeel with intense robust aroma notes.Thanks to being rich in phenolic compounds and rare in acidity (0.1% - 0.2%), it reveals precision, freshness, and healthiness on every plate.
-  Updated: 2026-06-08T16:46:56Z
+  Updated: 2026-07-26T19:11:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -447,28 +447,28 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF_RST1-Organik.jpg?v=1742800071
   Price: ₺4,035.00 TRY
 - [Mild & Flavorous + Fruity & Full-Bodied Duo | 1 L Tin](https://juicyolive.com/products/mild-flavorous-fruity-full-bodied-duo-1-l-tin): Experience the elegance of mild and fruity flavors with our Mild & Flavorous and Fruity & Full-Bodied Duo, crafted for those who appreciate the finest olive oils. Mild & Flavorous- Crafted from olives harvested in late August, this emerald-green oil offers a gentle olive-fruity taste with a well-balanced texture, finishing with delicate fresh notes. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Together, these oils provide a versatile spectrum of robust flavors, ideal for those who appreciate intensity and character in every drop.
-  Updated: 2026-07-02T09:30:22Z
+  Updated: 2026-07-22T18:46:17Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF_FFT1-Organik.jpg?v=1742800070
   Price: ₺5,025.00 TRY
 - [Fruity & Full-Bodied + Relish & Smooth | 1 L Tin](https://juicyolive.com/products/fruity-full-bodied-relish-smooth-1-l-tin): Elevate your culinary experience with the Fruity & Full-Bodied and Relish & Smooth Duo, a perfect pairing of two exceptional extra virgin olive oils—one smooth and silky, the other rich and full-bodied. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Relish & Smooth – An early autumn harvest with a clean, grassy aroma and a light yet memorable mouthfeel. Its subtle bitterness and smooth texture create a refined tasting experience.
-  Updated: 2026-06-19T18:10:48Z
+  Updated: 2026-07-22T18:46:13Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FF_RST1-Organik.jpg?v=1742800069
   Price: ₺4,675.00 TRY
 - [Relish & Smooth + Mild & Flavorous Duo | 2 L Tin](https://juicyolive.com/products/relish-smooth-mild-flavorous-duo-2-l-tin): Discover the perfect balance of smoothness and rich aroma with our Mild & Flavorous and Relish & Smooth Olive Oil Duo—a carefully curated selection of two exquisite extra virgin olive oils, designed to elevate your culinary experience. Relish & Smooth – An early autumn harvest with a clean, grassy aroma and a light yet memorable mouthfeel. Its subtle bitterness and smooth texture create a refined tasting experience. Mild & Flavorous – Crafted from olives harvested in late August, this emerald-green oil offers a gentle olive-fruity taste with a well-balanced texture, finishing with delicate fresh notes. These two premium olive oils offer a versatile tasting experience, from mild and fruity to smooth and elegant. Perfect for gourmet enthusiasts, thoughtful gifts, or everyday indulgence in fine olive oil.
-  Updated: 2026-06-19T18:10:48Z
+  Updated: 2026-07-19T15:18:17Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-RS-2L-Organic_Logo.jpg?v=1778830357
   Price: ₺7,545.00 TRY
 - [Mild & Flavorous + Fruity & Full-Bodied Duo | 2 L Tin](https://juicyolive.com/products/mild-flavorous-fruity-full-bodied-duo-2-l-tin): Experience the elegance of mild and fruity flavors with our Mild & Flavorous and Fruity & Full-Bodied Duo, crafted for those who appreciate the finest olive oils. Mild & Flavorous- Crafted from olives harvested in late August, this emerald-green oil offers a gentle olive-fruity taste with a well-balanced texture, finishing with delicate fresh notes. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Together, these oils provide a versatile spectrum of robust flavors, ideal for those who appreciate intensity and character in every drop.
-  Updated: 2026-06-19T18:10:48Z
+  Updated: 2026-07-19T15:18:18Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
@@ -496,7 +496,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MFCompactCollection-Bottle_1L.jpg?v=1742800063
   Price: ₺3,445.00 TRY
 - [Fruity & Full-Bodied Compact Collection | 500 ml Bottle + 1 L Tin](https://juicyolive.com/products/fruity-full-bodied-compact-collection-500-ml-bottle-1-l-tin): Fit for gourmets who want to perfect their food with charming and premium Juicy Olive Squeezed.Due to the premier harvest (1st week of August), it has an intriguingly piquant and elegant flavor with a full-bodied and dense texture. It leaves a pungent and sharp mouthfeel with intense robust aroma notes.Thanks to being rich in phenolic compounds and rare in acidity (0.1% - 0.2%), it reveals precision, freshness, and healthiness on every plate.
-  Updated: 2026-07-10T10:36:28Z
+  Updated: 2026-07-22T18:46:16Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
@@ -510,7 +510,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS_Essential_Collection_-_Bottle_2L.jpg?v=1742800060
   Price: ₺4,485.00 TRY
 - [Mild & Flavorous Essential Collection | 500 ml Bottle+ 2 L Tin](https://juicyolive.com/products/mild-flavorous-essential-collection-500-ml-bottle-2-l-tin): The emerald-green color of this special product formed by the reflection of sunlight and freshly-cut grass will take you on a journey to the rich fields of Troy.Harvested in the last week of August, this skillfully-crafted mixture will demonstrate a mild olive-fruity flavor and a well-balanced texture.You'll be delighted by the aftertaste of mild juice and fresh savor!
-  Updated: 2026-06-19T18:10:49Z
+  Updated: 2026-07-19T15:18:18Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
@@ -531,14 +531,14 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/ThreeFlavours-Bottle.jpg?v=1742800056
   Price: ₺3,910.00 TRY
 - [Three Flavours | 1 L Tin Collection](https://juicyolive.com/products/three-flavours-1-l-tin-collection): Indulge in the full spectrum of premium extra virgin olive oil with our Three Flavors Collection—a carefully curated trio that brings together mild, smooth, and fruity profiles for a truly versatile tasting experience. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Mild & Flavorous- Crafted from olives harvested in late August, this emerald-green oil offers a gentle olive-fruity taste with a well-balanced texture, finishing with delicate fresh notes. Relish & Smooth – An early autumn harvest with a clean, grassy aroma and a light yet memorable mouthfeel. Its subtle bitterness and smooth texture create a refined tasting experience.
-  Updated: 2026-06-19T18:10:49Z
+  Updated: 2026-07-22T18:46:14Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/ThreeFlavours-T1Set.jpg?v=1742800055
   Price: ₺6,805.00 TRY
 - [Three Flavours | 2 L Tin Collection](https://juicyolive.com/products/three-flavours-2-l-tin-collection): Indulge in the full spectrum of premium extra virgin olive oil with our Three Flavors Collection—a carefully curated trio that brings together mild, smooth, and fruity profiles for a truly versatile tasting experience. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Mild & Flavorous- Crafted from olives harvested in late August, this emerald-green oil offers a gentle olive-fruity taste with a well-balanced texture, finishing with delicate fresh notes. Relish & Smooth – An early autumn harvest with a clean, grassy aroma and a light yet memorable mouthfeel. Its subtle bitterness and smooth texture create a refined tasting experience.
-  Updated: 2026-06-19T18:10:49Z
+  Updated: 2026-07-19T15:18:18Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
@@ -552,14 +552,14 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF_RSBOTTLE-Organik.jpg?v=1742800075
   Price: ₺3,952.00 TRY
 - [Mild & Flavorous + Fruity & Full-Bodied Duo - 500 ml Bottle](https://juicyolive.com/products/mild-flavorous-fruity-full-bodied-duo-500-ml-bottle-1): Experience the elegance of mild and fruity flavors with our Mild & Flavorous and Fruity & Full-Bodied Duo, crafted for those who appreciate the finest olive oils. Mild & Flavorous- Crafted from olives harvested in late August, this emerald-green oil offers a gentle olive-fruity taste with a well-balanced texture, finishing with delicate fresh notes. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Together, these oils provide a versatile spectrum of robust flavors, ideal for those who appreciate intensity and character in every drop.
-  Updated: 2026-07-10T10:47:01Z
+  Updated: 2026-07-25T08:48:34Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF_FFBOTTLE-Organik.jpg?v=1742800074
   Price: ₺4,582.00 TRY
 - [Fruity & Full-Bodied + Relish & Smooth - 500 ml Bottle](https://juicyolive.com/products/fruity-full-bodied-relish-smooth-500-ml-bottle-1): Elevate your culinary experience with the Fruity & Full-Bodied and Relish & Smooth Duo, a perfect pairing of two exceptional extra virgin olive oils—one smooth and silky, the other rich and full-bodied. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Relish & Smooth – An early autumn harvest with a clean, grassy aroma and a light yet memorable mouthfeel. Its subtle bitterness and smooth texture create a refined tasting experience.
-  Updated: 2026-06-19T18:10:50Z
+  Updated: 2026-07-25T08:48:34Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
@@ -601,14 +601,14 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MFCompactCollection-Bottle_1L.jpg?v=1742800063
   Price: ₺5,145.00 TRY
 - [Fruity & Full-Bodied Compact Collection - 500 ml Bottle + 1 L Tin](https://juicyolive.com/products/fruity-full-bodied-compact-collection-500-ml-bottle-1-l-tin-2): Fit for gourmets who want to perfect their food with charming and premium Juicy Olive Squeezed.Due to the premier harvest (1st week of August), it has an intriguingly piquant and elegant flavor with a full-bodied and dense texture. It leaves a pungent and sharp mouthfeel with intense robust aroma notes.Thanks to being rich in phenolic compounds and rare in acidity (0.1% - 0.2%), it reveals precision, freshness, and healthiness on every plate.
-  Updated: 2026-07-10T10:36:27Z
+  Updated: 2026-07-25T08:48:37Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/FFCompactCollection-Bottle_1L.jpg?v=1742800061
   Price: ₺6,251.00 TRY
 - [Three Flavours - 500 ml Bottle Collection](https://juicyolive.com/products/three-flavours-500-ml-bottle-collection-2): Indulge in the full spectrum of premium extra virgin olive oil with our Three Flavors Collection—a carefully curated trio that brings together mild, smooth, and fruity profiles for a truly versatile tasting experience. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Mild & Flavorous- Crafted from olives harvested in late August, this emerald-green oil offers a gentle olive-fruity taste with a well-balanced texture, finishing with delicate fresh notes. Relish & Smooth – An early autumn harvest with a clean, grassy aroma and a light yet memorable mouthfeel. Its subtle bitterness and smooth texture create a refined tasting experience.
-  Updated: 2026-06-29T17:07:57Z
+  Updated: 2026-07-25T08:48:34Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
@@ -874,53 +874,53 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MFCompactCollection-Bottle_1L.jpg?v=1742800063
   Price: ₺6,202.00 TRY
 - [Organic Early Harvest Extra Virgin Olive Oil - Relish & Smooth](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth): Harvested in early September and cold extracted within hours, Relish & Smooth is our most delicate expression of organic early-harvest extra virgin olive oil. Silky, elegant, and beautifully balanced, it delivers gentle fruitiness with a clean, rounded finish. Naturally rich in polyphenols (420 mg/kg) and crafted with an exceptionally low free fatty acid level (≤0.5%), it reflects the precision, care, and craftsmanship behind every Juicy Olive harvest.
-  Updated: 2026-07-17T11:13:04Z
+  Updated: 2026-07-24T10:38:23Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RSCompactCollection-Bottle_1L.jpg?v=1742800064
+  Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-BOTTLE-BOX-1L-OL.webp?v=1784873919
   - [500 mL / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=44967450083414)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-Box-Bottle_3917e793-e92e-4006-b28e-31dd55d49dc0.jpg?v=1776410768
+    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS_Bottle-Box-OL.webp?v=1784873919
     Price: ₺100.00 TRY
-  - [500 mL / Duo](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132680986710)
+  - [500 mL / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132680986710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-DOUBLEBOTTLES-ORGANIC_c20c8759-3555-42c1-8e78-3c1a48856c2e.jpg?v=1716217875
+    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-BOTTLE-DOUBLE-OL.webp?v=1784873919
     Price: ₺180.00 TRY
-  - [500 mL / Trio](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681019478)
+  - [500 mL / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681019478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TRIPLEBOTTLES-ORGANIC_e9f9d43d-1928-40e2-b024-7a86512cbd05.jpg?v=1742800091
+    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-BOTTLE-TRIPLE-OL.webp?v=1784873919
     Price: ₺240.00 TRY
   - [1 L / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=44967450116182)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-1LT-FRONT-ORGANIC_0e3d2b2f-34f8-4b52-bcdc-88fe69f48727.jpg?v=1742800079
+    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-1L-TIN-OL.webp?v=1784873919
     Price: ₺200.00 TRY
-  - [1 L / Duo](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681052246)
+  - [1 L / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681052246)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-1LT-DOUBLE-PERSPECTIVE-ORGANIC_a4432052-e139-4804-b9f8-02733e9fb4f8.jpg?v=1742800080
+    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-1L-TIN-PERS-DOUBLE-OL.webp?v=1784873919
     Price: ₺380.00 TRY
-  - [1 L / Trio](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681085014)
+  - [1 L / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681085014)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN1-TRIPLE-PERSPECTIVE-ORGANIC_1e19db3b-928d-4bdb-9e19-0866445c0743.jpg?v=1742800080
+    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_1_-TRIOS-PERSPECTIVE-OL.webp?v=1784873919
     Price: ₺540.00 TRY
   - [2 L / Single](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=44967450148950)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-2LT-PERSPECTIVE-ORGANIC_512d8080-00cf-402d-aec3-dde6f9688313.jpg?v=1742800127
+    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-2L-TIN-PERS-OL.webp?v=1784873919
     Price: ₺300.00 TRY
-  - [2 L / Duo](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681117782)
+  - [2 L / Duo (Save 5%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681117782)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-2LT-DOUBLE-PERSPECTIVE-ORGANIC_35c9a979-18e5-41da-bb77-1806ce74dfe0.jpg?v=1742800078
+    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-2L-TIN-PERS-DOUBLE-OL.webp?v=1784873920
     Price: ₺580.00 TRY
-  - [2 L / Trio](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681150550)
+  - [2 L / Trio (Save 10%)](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth?variant=45132681150550)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN2-TRIPLE-PERSPECTIVE-ORGANIC_6b56d72a-14c4-48b1-9f61-bc90895a31a1.jpg?v=1742800078
+    Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_2_-TRIOS-PERSPECTIVE-OL.webp?v=1784873919
     Price: ₺840.00 TRY
 [List Continued](https://juicyolive.com/a/llms-agent/llms.txt?shop=8f2782.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTQ1Mjk3NjU3OTQyLCJsYXN0X3ZhbHVlIjoiNzk0NTI5NzY1Nzk0MiJ9)
 
 ## Collections
 
 - [Products](https://juicyolive.com/collections/shop): Discover premium Turkish DOP Extra Virgin Olive Oil. HPLC lab tested for high phenolic content and cold pressed for purity. Shop our elite 500ml bottle now.
-  Updated: 2026-07-16T11:09:18Z
+  Updated: 2026-07-25T11:08:31Z
   Total Products: 67
 - [Special Offers](https://juicyolive.com/collections/special-offers)
   Updated: 2026-05-06T12:35:30Z
