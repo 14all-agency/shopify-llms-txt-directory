@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-16T17:42:50Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-19T00:00:36.720Z
+- Updated At: 2026-07-27T00:00:38.845Z
 
 ## Products
 
 - [logo crewneck](https://www.yungkai.com/products/logo-crewneck): crewneck in cream, made from 80% cotton, 10% polyester, and 10% recycled polyester from plastic bottles. featuring a premium puff print logo. Size Chart Size Body Length (in) Chest Width (in) XS 26 18 S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-07-17T07:34:12Z
+  Updated: 2026-07-25T20:14:17Z
   Vendor: yung kai
   Product Type: Crewneck
   Availability: Available
@@ -42,7 +42,7 @@
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_Tote.png?v=1750258314
   Price: $25.00 USD
 - [flower, moon, star tour tee](https://www.yungkai.com/products/flower-moon-star-tour-tee): 100% US heavyweight cotton t-shirt in powder blue Size Chart Size Chest Width (in) Body Length (in) S 18 26 1/2 M 20 28 1/2 L 22 30 1/2 XL 24 31 1/2 2XL 26 32 1/2
-  Updated: 2026-07-18T17:19:42Z
+  Updated: 2026-07-22T18:55:16Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -105,7 +105,7 @@
     Availability: Available
     Price: $75.00 USD
 - [stay with the ocean, i'll find you - galaxy vinyl](https://www.yungkai.com/products/stay-with-the-ocean-ill-find-you-galaxy-vinyl): yung kai's debut full-length album, on 12" galaxy vinyl. tracklist blue wildflower how do you dance? my light (我的光) my love my love my love do you think you could love me? flower tell me (a lullaby) beach song by uyng kai & asumuh think i'm falling i hope my cat loves me release date: september 26, 2025
-  Updated: 2026-07-18T17:50:06Z
+  Updated: 2026-07-24T00:48:13Z
   Vendor: yung kai
   Product Type: Vinyl
   Availability: Available
@@ -136,7 +136,7 @@
     Availability: Available
     Price: $60.00 USD
 - [stay with the ocean tour tee - navy](https://www.yungkai.com/products/stay-with-the-ocean-tour-tee-navy): 100% US heavyweight cotton, pigment-dyed t-shirt in navy blue Size Chart Size Chest Width (in) Body Length (in) XS 18 1/2 25 S 20 1/2 26 M 22 1/2 27 L 24 1/2 28 XL 26 1/2 29 2XL 28 1/2 30
-  Updated: 2026-07-18T17:19:43Z
+  Updated: 2026-07-22T21:05:40Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -160,7 +160,7 @@
     Availability: Available
     Price: $25.00 USD
 - [stay with the ocean tour tee - white](https://www.yungkai.com/products/stay-with-the-ocean-tour-tee-white): 100% US heavyweight cotton, pigment-dyed t-shirt in white Size Chart Size Chest Width (in) Body Length (in) XS 18 1/2 25 S 20 1/2 26 M 22 1/2 27 L 24 1/2 28 XL 26 1/2 29 2XL 28 1/2 30
-  Updated: 2026-07-17T01:23:08Z
+  Updated: 2026-07-24T21:52:38Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -274,28 +274,28 @@
 ## Collections
 
 - [Home page](https://www.yungkai.com/collections/frontpage)
-  Updated: 2026-07-17T11:20:27Z
+  Updated: 2026-07-26T11:18:36Z
   Total Products: 19
 - [apparel](https://www.yungkai.com/collections/apparel)
-  Updated: 2026-07-17T11:20:27Z
+  Updated: 2026-07-26T11:18:36Z
   Total Products: 11
 - [accessories](https://www.yungkai.com/collections/accessories)
   Updated: 2026-07-08T20:51:54Z
   Total Products: 6
 - [all](https://www.yungkai.com/collections/all)
-  Updated: 2026-07-17T11:20:27Z
+  Updated: 2026-07-26T11:18:36Z
   Total Products: 21
 - [music](https://www.yungkai.com/collections/music)
-  Updated: 2026-07-15T11:19:41Z
+  Updated: 2026-07-19T11:18:51Z
   Total Products: 3
 - [$20.25](https://www.yungkai.com/collections/20-25)
   Updated: 2026-07-08T20:31:48Z
   Total Products: 0
 - [2026 Tour Merch](https://www.yungkai.com/collections/2026-tour-merch)
-  Updated: 2026-07-17T11:20:27Z
+  Updated: 2026-07-25T11:20:34Z
   Total Products: 10
 - [](https://www.yungkai.com/collections/)
-  Updated: 2026-07-17T11:20:27Z
+  Updated: 2026-07-25T11:20:34Z
   Total Products: 4
 
 ## Store Pages
