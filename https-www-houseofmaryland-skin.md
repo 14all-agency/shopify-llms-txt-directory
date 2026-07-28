@@ -6,67 +6,67 @@
 - Timezone: America/New_York
 - Created At: 2026-04-11T11:58:19Z
 - Contact Email: larolyn.young@gmail.com
-- Updated At: 2026-07-20T00:00:35.402Z
+- Updated At: 2026-07-28T00:00:38.246Z
 
 ## Products
 
 - [Complete Ebon Ritual Skincare Set for Black & Brown Skin | House of Maryland](https://www.houseofmaryland.skin/products/ebon-collection): The full 6-step P.I.E. Ritual in one set. Botanically formulated for melanin-rich skin. Cleanse, exfoliate, hydrate, and glow — $65.
-  Updated: 2026-06-28T04:45:45Z
+  Updated: 2026-07-27T07:11:59Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
   Price: $65.00 USD
 - [Botanical Exfoliating Scrub for Black & Brown Skin | House of Maryland](https://www.houseofmaryland.skin/products/renew-polishing-scrub): Reveal radiant skin. Shea Butter, Aloe Vera & botanical exfoliants smooth and hydrate melanin-rich skin. Step 3 of the P.I.E. Ritual.
-  Updated: 2026-06-28T04:45:46Z
+  Updated: 2026-07-27T07:11:59Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/renew-polishing-scrub-4051793.jpg?v=1780906746
   Price: $24.00 USD
 - [Illuminate Face Cream for Radiant Melanated Skin | House of Maryland](https://www.houseofmaryland.skin/products/illuminate-face-cream): Complete your ritual with lasting hydration. Botanical actives refine and illuminate melanin-rich skin for a luminous finish. Step 6 of the P.I.E. Ritual.
-  Updated: 2026-06-28T04:45:47Z
+  Updated: 2026-07-27T07:11:59Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/illuminate-face-cream-8181093.jpg?v=1780906746
   Price: $24.00 USD
 - [Awaken Facial Cleanser for Melanin-Rich Skin | House of Maryland](https://www.houseofmaryland.skin/products/awaken-facial-cleanser): Gently cleanse without stripping. Cocoa Extract, Licorice Root & Tremella Mushroom brighten and hydrate Black and Brown skin. Step 1 of the P.I.E. Ritual.
-  Updated: 2026-06-28T04:45:47Z
+  Updated: 2026-07-27T07:12:00Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/awaken-facial-cleanser-2255226.jpg?v=1780906747
   Price: $20.00 USD
 - [Nourishing Body Oil for Melanin-Rich Skin | House of Maryland](https://www.houseofmaryland.skin/products/nurture-body-oil): Seal in moisture and enhance your glow. Sweet Almond, Evening Primrose & Vitamin E nourish and soften Black and Brown skin. Step 5 of the P.I.E. Ritual.
-  Updated: 2026-06-28T04:45:47Z
+  Updated: 2026-07-27T07:11:59Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/nurture-body-oil-8107562.png?v=1780906747
   Price: $20.00 USD
 - [Purify Body Cleanser for Melanated Skin | House of Maryland](https://www.houseofmaryland.skin/products/purify-body-cleanser): Cleanse and nourish in one step. Coconut Oil, Cocoa Extract & Licorice Root maintain moisture and support a healthy glow. Step 2 of the P.I.E. Ritual.
-  Updated: 2026-06-28T04:45:48Z
+  Updated: 2026-07-27T07:11:59Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/purify-body-cleanser-2661517.jpg?v=1780906747
   Price: $20.00 USD
 - [Hydrating Body Lotion for Melanated Skin | House of Maryland](https://www.houseofmaryland.skin/products/balance-body-lotion-1): Deep hydration that lasts. Cocoa Extract, Oat Protein & Aloe Vera strengthen the skin barrier and restore softness. Step 4 of the P.I.E. Ritual.
-  Updated: 2026-06-27T04:42:02Z
+  Updated: 2026-07-27T07:11:59Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/balance-body-lotion-6415809.jpg?v=1780906747
   Price: $22.00 USD
 - [Luxury Body Care Bundle for Melanated Skin | House of Maryland](https://www.houseofmaryland.skin/products/body-bundle): Four-step body ritual for Black and Brown skin. Cleanse, exfoliate, hydrate, and seal in glow with botanical ingredients. Save when you bundle.
-  Updated: 2026-06-27T04:42:03Z
+  Updated: 2026-07-27T07:11:59Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/the-velvet-body-ritual-2124184.jpg?v=1780906746
   Price: $52.00 USD
 - [Facial Skincare Bundle for Melanin-Rich Skin | House of Maryland](https://www.houseofmaryland.skin/products/face-care-bundle): Two-step face ritual for Black and Brown skin. Cleanse and illuminate with Cocoa Extract, Licorice Root & botanical actives.
-  Updated: 2026-06-27T04:42:03Z
+  Updated: 2026-07-27T07:12:00Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
@@ -97,6 +97,9 @@
 - [Gifts](https://www.houseofmaryland.skin/collections/gifts): Give the gift of ritual. Luxury skincare gift sets for melanin-rich skin. Botanically formulated bundles for Black and Brown skin. Shop House of Maryland.
   Updated: 2026-06-26T22:47:11Z
   Total Products: 4
+- [Travel Bundle](https://www.houseofmaryland.skin/collections/travel-bundle): Shop the House of Maryland Travel Bundle. Ritual-ready skincare for melanated skin in travel-friendly sizes. Protect, infuse, and elevate anywhere.
+  Updated: 2026-07-22T17:22:22Z
+  Total Products: 1
 
 ## Blogs
 
@@ -616,6 +619,97 @@
   - [Vegan Makeup Products Guide – Clean Routine | House of Maryland](https://www.houseofmaryland.skin/blogs/news/vegan-makeup-products-how-to-build-a-clean-routine): Vegan Makeup Products Guide – Clean Routine | House of Maryland
     Updated: 2026-07-19T17:00:46Z
     Author: House Of Maryland
+  - [Effective Skincare Strategies for Women of Color Facing Hyperpigmentation](https://www.houseofmaryland.skin/blogs/news/effective-skincare-strategies-for-women-of-color-facing-hyperpigmentation): Effective Skincare Strategies for Women of Color Facing Hyperpigmentation
+    Updated: 2026-07-20T01:49:41Z
+    Author: Momma Maryland of House of Maryland
+    Tags: anti-aging products, best skincare routine, dark spots, hydration for melanin-rich skin, hyperpigmentation, hyperpigmentation in dark skin, melanated skin care, melanin, skin barrier repair, skin tone, skincare, skincare for women of color, targeted  strategies
+  - [Eco-Friendly Skincare Products Buyer Guide | House of Maryland](https://www.houseofmaryland.skin/blogs/news/eco-friendly-skincare-products-buyer-guide-basics): Eco-Friendly Skincare Products Buyer Guide | House of Maryland
+    Updated: 2026-07-20T09:00:04Z
+    Author: House Of Maryland
+  - [Natural Ingredient Beauty Tips for Glowing Skin | House of Maryland](https://www.houseofmaryland.skin/blogs/news/natural-ingredient-beauty-clean-tips-for-glowing-skin): Natural Ingredient Beauty Tips for Glowing Skin | House of Maryland
+    Updated: 2026-07-20T09:00:04Z
+    Author: House Of Maryland
+  - [Buying Guide for Sustainable Fashion Accessories | House of Maryland](https://www.houseofmaryland.skin/blogs/news/sustainable-fashion-accessories-a-practical-buying-guide): Buying Guide for Sustainable Fashion Accessories | House of Maryland
+    Updated: 2026-07-20T09:01:01Z
+    Author: House Of Maryland
+  - [Vegan Hair Care Tips – Softer, Healthier Hair | House of Maryland](https://www.houseofmaryland.skin/blogs/news/vegan-hair-care-tips-for-healthier-softer-strands): Vegan Hair Care Tips – Softer, Healthier Hair | House of Maryland
+    Updated: 2026-07-20T14:00:05Z
+    Author: House Of Maryland
+  - [Cruelty-Free Face Moisturizer Benefits | Hydration | House of Maryland](https://www.houseofmaryland.skin/blogs/news/cruelty-free-face-moisturizer-guide-for-healthier-skin): Cruelty-Free Face Moisturizer Benefits | Hydration | House of Maryland
+    Updated: 2026-07-20T17:00:05Z
+    Author: House Of Maryland
+  - [Eco-Friendly Skincare Routines | Clean Habit | House of Maryland](https://www.houseofmaryland.skin/blogs/news/eco-friendly-skincare-routines-build-your-clean-habit): Eco-Friendly Skincare Routines | Clean Habit | House of Maryland
+    Updated: 2026-07-21T09:00:05Z
+    Author: House Of Maryland
+  - [Sustainable Beauty Brands | What to Look for | House of Maryland](https://www.houseofmaryland.skin/blogs/news/sustainable-beauty-brands-what-to-look-for-in-2026): Sustainable Beauty Brands | What to Look for | House of Maryland
+    Updated: 2026-07-21T14:00:05Z
+    Author: House Of Maryland
+  - [Organic Body Lotion Benefits | Nourishing Hydration | House of Maryland](https://www.houseofmaryland.skin/blogs/news/organic-body-lotion-guide-for-healthy-hydrated-skin): Organic Body Lotion Benefits | Nourishing Hydration | House of Maryland
+    Updated: 2026-07-21T17:00:02Z
+    Author: House Of Maryland
+  - [Repairing Your Skin Barrier: Essential Tips for Melanin-Rich Skin](https://www.houseofmaryland.skin/blogs/news/repairing-your-skin-barrier-essential-tips-for-melanin-rich-skin): Repairing Your Skin Barrier: Essential Tips for Melanin-Rich Skin
+    Updated: 2026-07-22T01:27:39Z
+    Author: Momma Maryland of House of Maryland
+    Tags: barrier, barrier repair tips, healthy skin care, hydration, hydration for melanin-rich skin, hyperpigmentation in dark skin, melanated skin care, melanin-rich skin, nourishing skin products, skin, skin barrier repair, skincare for women of color, skincare routine
+  - [Hydrating Face Masks Benefits | Plump, Glowy Skin | House of Maryland](https://www.houseofmaryland.skin/blogs/news/hydrating-face-mask-guide-for-plump-glowy-skin): Hydrating Face Masks Benefits | Plump, Glowy Skin | House of Maryland
+    Updated: 2026-07-22T09:00:05Z
+    Author: House Of Maryland
+  - [Plant-Based Hair Treatments Benefits | House of Maryland](https://www.houseofmaryland.skin/blogs/news/plant-based-hair-treatments-for-healthier-stronger-hair): Plant-Based Hair Treatments Benefits | House of Maryland
+    Updated: 2026-07-22T14:00:09Z
+    Author: House Of Maryland
+  - [Hydrating Facial Serums Guide: Glow & Plump | House of Maryland](https://www.houseofmaryland.skin/blogs/news/hydrating-facial-serums-how-to-choose-and-use): Hydrating Facial Serums Guide: Glow & Plump | House of Maryland
+    Updated: 2026-07-22T17:00:05Z
+    Author: House Of Maryland
+  - [Vegan Leather Handbags Value | Style and Care | House of Maryland](https://www.houseofmaryland.skin/blogs/news/vegan-leather-handbags-style-care-and-buying-tips): Vegan Leather Handbags Value | Style and Care | House of Maryland
+    Updated: 2026-07-23T09:00:04Z
+    Author: House Of Maryland
+  - [Gluten-Free Makeup Guide | Ingredients to Check | House of Maryland](https://www.houseofmaryland.skin/blogs/news/gluten-free-makeup-ingredients-to-look-for-and-avoid): Gluten-Free Makeup Guide | Ingredients to Check | House of Maryland
+    Updated: 2026-07-23T14:00:04Z
+    Author: House Of Maryland
+  - [Non-Toxic Nail Polish Ingredients Guide | Healthier Nails](https://www.houseofmaryland.skin/blogs/news/non-toxic-nail-polish-ingredients-to-check-before-you-buy): Non-Toxic Nail Polish Ingredients Guide | Healthier Nails
+    Updated: 2026-07-23T17:00:04Z
+    Author: House Of Maryland
+  - [Must-Have Skincare Ingredients for Melanated Skin Solutions](https://www.houseofmaryland.skin/blogs/news/must-have-skincare-ingredients-for-melanated-skin-solutions): Must-Have Skincare Ingredients for Melanated Skin Solutions
+    Updated: 2026-07-24T01:41:17Z
+    Author: Momma Maryland of House of Maryland
+    Tags: best ingredients for melanin skin, hyaluronic acid, hydration for melanin-rich skin, hyperpigmentation in dark skin, melanated skin care, melanin, moisturizer, radiant skin solutions, skin barrier repair, skincare, skincare for women of color, vitamin c
+  - [Sensitive Skin Solutions: Calming Care | House of Maryland](https://www.houseofmaryland.skin/blogs/news/sensitive-skin-solutions-simple-routines-that-calm): Sensitive Skin Solutions: Calming Care | House of Maryland
+    Updated: 2026-07-24T09:00:04Z
+    Author: House Of Maryland
+  - [Anti-Aging Skincare Solutions: Ingredients That Work | House of Maryland](https://www.houseofmaryland.skin/blogs/news/anti-aging-skincare-solutions-key-ingredients-that-work): Anti-Aging Skincare Solutions: Ingredients That Work | House of Maryland
+    Updated: 2026-07-24T14:00:04Z
+    Author: House Of Maryland
+  - [Moisturizing Hand Cream Care Guide | House of Maryland](https://www.houseofmaryland.skin/blogs/news/moisturizing-hand-cream-how-to-choose-and-use): Moisturizing Hand Cream Care Guide | House of Maryland
+    Updated: 2026-07-24T17:00:05Z
+    Author: House Of Maryland
+  - [Reusable Water Bottles Buying Guide | House of Maryland](https://www.houseofmaryland.skin/blogs/news/reusable-water-bottles-how-to-choose-the-right-fit): Reusable Water Bottles Buying Guide | House of Maryland
+    Updated: 2026-07-25T14:00:05Z
+    Author: House Of Maryland
+  - [Luxury Bath Essentials – Spa Comfort Guide | House of Maryland](https://www.houseofmaryland.skin/blogs/news/luxury-bath-essentials-what-to-use-for-spa-like-comfort): Luxury Bath Essentials – Spa Comfort Guide | House of Maryland
+    Updated: 2026-07-25T17:00:11Z
+    Author: House Of Maryland
+  - [Rejuvenating Facial Masks Guide | House of Maryland](https://www.houseofmaryland.skin/blogs/news/rejuvenating-facial-masks-benefits-and-how-to-use): Rejuvenating Facial Masks Guide | House of Maryland
+    Updated: 2026-07-26T09:00:05Z
+    Author: House Of Maryland
+  - [Artisan Handcrafted Candles Guide | House of Maryland](https://www.houseofmaryland.skin/blogs/news/artisan-handcrafted-candles-how-to-choose-the-best): Artisan Handcrafted Candles Guide | House of Maryland
+    Updated: 2026-07-26T14:00:05Z
+    Author: House Of Maryland
+  - [Aromatherapy Body Scrubs Benefits | Soft, Smooth Skin](https://www.houseofmaryland.skin/blogs/news/aromatherapy-body-scrubs-how-to-use-for-soft-skin): Aromatherapy Body Scrubs Benefits | Soft, Smooth Skin
+    Updated: 2026-07-26T17:00:05Z
+    Author: House Of Maryland
+  - [Understanding the Unique Needs of Melanin-Rich Skin](https://www.houseofmaryland.skin/blogs/news/understanding-the-unique-needs-of-melanin-rich-skin): Understanding the Unique Needs of Melanin-Rich Skin
+    Updated: 2026-07-27T01:43:18Z
+    Author: Momma Maryland of House of Maryland
+    Tags: best skincare for melanin-rich skin, dark skin, hydration, hydration for melanin-rich skin, hyperpigmentation in dark skin, melanated skin care, melanin, natural products, skin barrier repair, skin routine, skincare, skincare for women of color, understanding skincare for darker skin t
+  - [Fragrance-Free Lotions for Sensitive Skin | House of Maryland](https://www.houseofmaryland.skin/blogs/news/fragrance-free-lotions-for-sensitive-skin-a-guide): Fragrance-Free Lotions for Sensitive Skin | House of Maryland
+    Updated: 2026-07-27T09:00:05Z
+    Author: House Of Maryland
+  - [Gluten-Free Cosmetics Checklist | Safe Ingredient Picks](https://www.houseofmaryland.skin/blogs/news/gluten-free-cosmetics-ingredients-to-look-for): Gluten-Free Cosmetics Checklist | Safe Ingredient Picks
+    Updated: 2026-07-27T14:00:05Z
+    Author: House Of Maryland
+  - [SPF Skincare Solutions: Everyday Protection | House of Maryland](https://www.houseofmaryland.skin/blogs/news/spf-skincare-solutions-for-everyday-sun-protection): SPF Skincare Solutions: Everyday Protection | House of Maryland
+    Updated: 2026-07-27T17:00:01Z
+    Author: House Of Maryland
 
 ## Store Pages
 
@@ -633,8 +727,8 @@
   Updated: 2026-05-10T08:25:54Z
 - [The Ebon Travel Ritual – 6-Piece Luxury Travel Collection | House of Maryland](https://www.houseofmaryland.skin/pages/the-ebon-travel-ritual): Your ritual. Anywhere. Experience the essence of House of Maryland with our TSA- luxury discovery collection thoughtfully crafted for melan...
   Updated: 2026-06-08T09:20:21Z
-- [P.I.E. Ritual™: Self-care Skincare for Melanated Skin](https://www.houseofmaryland.skin/pages/the-p-i-e-ritual™): THE P.I.E. RITUAL™ PROTECT. INFUSE. ELEVATE. Inspired by Momma Maryland The P.I.E. Ritual™ is a luxury skincare experience inspired by the intentio...
-  Updated: 2026-06-08T09:09:54Z
+- [P.I.E. Ritual™: Self-care Skincare for Melanated Skin](https://www.houseofmaryland.skin/pages/the-pie-ritual-instruction): THE P.I.E. RITUAL™ PROTECT. INFUSE. ELEVATE. Inspired by Momma Maryland The P.I.E. Ritual™ is a luxury skincare experience inspired by the intentio...
+  Updated: 2026-07-26T21:18:49Z
 - [Shipping Policy](https://www.houseofmaryland.skin/pages/shipping-policy): Discover our shipping options, delivery timelines, and policies. House of Maryland ships within the US with standard and expedited options. Orders ...
   Updated: 2026-06-08T10:12:20Z
 - [Return Policy](https://www.houseofmaryland.skin/pages/return-policy): Understand our hassle-free return processAt House of Maryland, we stand behind the quality of our premium skincare products. We want you to feel co...
