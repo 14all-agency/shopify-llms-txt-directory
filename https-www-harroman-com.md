@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-12T04:06:04Z
 - Contact Email: hello@harroman.com
-- Updated At: 2026-07-15T00:00:41.806Z
+- Updated At: 2026-07-28T00:00:43.456Z
 
 ## Products
 
 - [HARROMAN Shave Stick – 2-in-1 Facial Cleansing & Shaving Soap](https://www.harroman.com/products/harroman-shave-stick-for-cuts-prevent-razor-burn-nicks-ingrown-hairs): Discover the HARROMAN shave stick: softens beard roots, protects skin, moisturizes & soothes. Perfect for travel with creamy, convenient 2-in-1 formula.
-  Updated: 2026-07-14T17:06:06Z
+  Updated: 2026-07-27T08:15:01Z
   Vendor: Harroman
   Product Type: 
   Availability: Available
@@ -39,16 +39,16 @@
 ## Collections
 
 - [home page](https://www.harroman.com/collections/frontpage)
-  Updated: 2026-07-14T11:19:06Z
+  Updated: 2026-07-26T11:20:10Z
   Total Products: 2
 - [APPPlaza - Best Sellers](https://www.harroman.com/collections/appplaza-best-sellers)
-  Updated: 2026-07-14T11:19:06Z
+  Updated: 2026-07-26T11:20:10Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.harroman.com/collections/avada-best-sellers)
-  Updated: 2026-07-14T11:19:06Z
+  Updated: 2026-07-26T11:20:10Z
   Total Products: 2
 - [All item](https://www.harroman.com/collections/all-item)
-  Updated: 2026-07-14T11:19:06Z
+  Updated: 2026-07-26T11:20:10Z
   Total Products: 2
 
 ## Blogs
@@ -434,6 +434,45 @@
   - [How to Achieve a Close Shave with the Proper Razor](https://www.harroman.com/blogs/blog-post/how-to-achieve-a-close-shave-with-the-proper-razor): How to Achieve a Close Shave with the Proper Razor
     Updated: 2026-07-14T17:55:45Z
     Author: harroman
+  - [Exploring Shave Bars A Key to Enhancing Your Shaving Routine](https://www.harroman.com/blogs/blog-post/exploring-shave-bars-a-key-to-enhancing-your-shaving-routine): Exploring Shave Bars A Key to Enhancing Your Shaving Routine
+    Updated: 2026-07-15T17:32:56Z
+    Author: harroman
+  - [Maximize Your Shaving Performance with the Right Razor and Shave Bar](https://www.harroman.com/blogs/blog-post/maximize-your-shaving-performance-with-the-right-razor-and-shave-bar): Maximize Your Shaving Performance with the Right Razor and Shave Bar
+    Updated: 2026-07-16T17:35:32Z
+    Author: harroman
+  - [A Comprehensive Guide to Understanding Shave Sticks](https://www.harroman.com/blogs/blog-post/a-comprehensive-guide-to-understanding-shave-sticks): A Comprehensive Guide to Understanding Shave Sticks
+    Updated: 2026-07-17T17:16:46Z
+    Author: harroman
+  - [The Hidden Benefits of Using a Shave Bar](https://www.harroman.com/blogs/blog-post/the-hidden-benefits-of-using-a-shave-bar): The Hidden Benefits of Using a Shave Bar
+    Updated: 2026-07-18T17:20:28Z
+    Author: harroman
+  - [Shaving Myths vs Facts Understanding the Role of Razors](https://www.harroman.com/blogs/blog-post/shaving-myths-vs-facts-understanding-the-role-of-razors): Shaving Myths vs Facts Understanding the Role of Razors
+    Updated: 2026-07-19T17:35:33Z
+    Author: harroman
+  - [Choosing the Perfect Shave Stick for Your Skin Type](https://www.harroman.com/blogs/blog-post/choosing-the-perfect-shave-stick-for-your-skin-type): Choosing the Perfect Shave Stick for Your Skin Type
+    Updated: 2026-07-20T17:44:45Z
+    Author: harroman
+  - [Simplifying Men's Shaving Essential Tools for a Better Experience](https://www.harroman.com/blogs/blog-post/simplifying-mens-shaving-essential-tools-for-a-better-experience): Simplifying Men's Shaving Essential Tools for a Better Experience
+    Updated: 2026-07-21T17:47:57Z
+    Author: harroman
+  - [The Ultimate Guide to Selecting the Right Razor for Men](https://www.harroman.com/blogs/blog-post/the-ultimate-guide-to-selecting-the-right-razor-for-men): The Ultimate Guide to Selecting the Right Razor for Men
+    Updated: 2026-07-25T17:18:16Z
+    Author: harroman
+  - [Solving Your Shaving Dilemmas From Razors to Shave Bars](https://www.harroman.com/blogs/blog-post/solving-your-shaving-dilemmas-from-razors-to-shave-bars): Solving Your Shaving Dilemmas From Razors to Shave Bars
+    Updated: 2026-07-25T17:18:16Z
+    Author: harroman
+  - [Exploring the Benefits of Shave Sticks in Modern Grooming](https://www.harroman.com/blogs/blog-post/exploring-the-benefits-of-shave-sticks-in-modern-grooming): Exploring the Benefits of Shave Sticks in Modern Grooming
+    Updated: 2026-07-25T17:18:18Z
+    Author: harroman
+  - [Frequently Asked Questions About Perfect Shaving Techniques](https://www.harroman.com/blogs/blog-post/frequently-asked-questions-about-perfect-shaving-techniques): Frequently Asked Questions About Perfect Shaving Techniques
+    Updated: 2026-07-25T17:18:18Z
+    Author: harroman
+  - [A Comprehensive Look at Razors Essential for Men's Shaves](https://www.harroman.com/blogs/blog-post/a-comprehensive-look-at-razors-essential-for-mens-shaves): A Comprehensive Look at Razors Essential for Men's Shaves
+    Updated: 2026-07-26T17:14:55Z
+    Author: harroman
+  - [How Shave Bars Can Elevate Your Daily Shaving Routine](https://www.harroman.com/blogs/blog-post/how-shave-bars-can-elevate-your-daily-shaving-routine): How Shave Bars Can Elevate Your Daily Shaving Routine
+    Updated: 2026-07-27T00:45:20Z
+    Author: harroman
 
 ## Store Pages
 
@@ -448,7 +487,7 @@
 - [Track Order](https://www.harroman.com/pages/track-order): (function () { const root = document.getElementById("trackingWidget"); // Add styles const style = document.createElement('style'); style.textConte...
   Updated: 2025-06-05T09:25:27Z
 - [Your Privacy Choices](https://www.harroman.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-28T16:31:36Z
+  Updated: 2026-07-18T06:25:53Z
 - [Wholesale Inquiries](https://www.harroman.com/pages/wholesale-inquiries): Welcome to Harroman – where tradition meets innovation in men’s grooming. Our signature product, the Harroman Shave Stick, is crafted for the moder...
   Updated: 2025-07-08T14:56:16Z
 - [About Us](https://www.harroman.com/pages/about-us)
