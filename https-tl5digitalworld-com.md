@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-13T14:47:21Z
 - Contact Email: wldunlimitedventures@gmail.com
-- Updated At: 2026-07-18T00:00:33.323Z
+- Updated At: 2026-07-28T00:00:36.111Z
 
 ## Products
 
@@ -214,12 +214,61 @@
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul16_2026_07_58_35PM.png?v=1784247477
   Price: $24.99 USD
 - [Small Business Marketing Blueprint – 21-Page Interactive Workbook | TL5 Digital World](https://tl5digitalworld.com/products/small-business-marketing-blueprint): Build a complete marketing system with this 21-page interactive workbook. Includes strategy templates, AI prompts, KPI dashboards & more. Instant digital download.
-  Updated: 2026-07-17T23:32:46Z
+  Updated: 2026-07-18T02:44:05Z
   Vendor: TL5 Digital World
   Product Type: Digital Workbook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul17_2026_07_07_08PM.png?v=1784330715
   Price: $16.99 USD
+- [Salary Negotiation Blueprint – 36-Page Career Workbook | TL5 Digital World](https://tl5digitalworld.com/products/salary-negotiation-blueprint-workbook): Master salary negotiation with this 36-page interactive workbook. Scripts, worksheets, raise templates & more. Instant digital download.
+  Updated: 2026-07-20T09:48:13Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPT_Image_Jul_19_2026_05_37_25_PM.png?v=1784497658
+  Price: $14.99 USD
+- [Resume & Interview Toolkit: Complete Career Success Workbook | TL5 Digital World](https://tl5digitalworld.com/products/resume-interview-toolkit-the-complete-career-success-workbook-26-interactive-pages): Land more interviews with our 26-page interactive Resume & Interview Toolkit. Includes resume templates, LinkedIn tips, interview prep & AI-powered career tools.
+  Updated: 2026-07-23T12:53:47Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul20_2026_07_27_03PM.png?v=1784594835
+  Price: $17.99 USD
+- [Side Hustle Launch System | Business Startup Digital Workbook](https://tl5digitalworld.com/products/side-hustle-launch-system): Launch your first profitable side hustle with this premium 26-page interactive workbook. Includes business planning worksheets, AI tools, marketing strategies, pricing guides, and a 30-day launch challenge.
+  Updated: 2026-07-24T12:10:47Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul21_2026_08_28_46PM.png?v=1784680587
+  Price: $19.99 USD
+- [Job Search Workbook: Stand Out, Get Interviews & Get Hired | TL5 Digital World](https://tl5digitalworld.com/products/job-search-workbook-stand-out-get-hired): Land your next job faster. This 26-page digital workbook covers ATS resume tips, LinkedIn optimization, interview prep, salary negotiation & a 90-day career plan.
+  Updated: 2026-07-23T20:41:26Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul22_2026_06_51_54PM.png?v=1784761461
+  Price: $19.99 USD
+- [Remote Work Success Guide – Work From Home Workbook | TL5 Digital World](https://tl5digitalworld.com/products/remote-work-success-guide-workbook): Land a remote job, boost productivity & grow your income. 26-page interactive digital workbook. Instant download. Start today.
+  Updated: 2026-07-23T22:34:32Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul23_2026_05_39_51PM.png?v=1784845294
+  Price: $19.99 USD
+- [Ultimate AI Toolkit for Entrepreneurs | Choose the Right AI Tool](https://tl5digitalworld.com/products/ultimate-ai-toolkit-entrepreneurs): Compare ChatGPT, Claude, Gemini & more. This professional guide helps entrepreneurs build the right AI stack for writing, research, coding & productivity.
+  Updated: 2026-07-24T22:17:13Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul23_2026_07_40_08PM.png?v=1784930705
+  Price: $14.99 USD
+- [ChatGPT Masterclass Blueprint | 34-Page AI Workbook & Prompt Guide](https://tl5digitalworld.com/products/chatgpt-masterclass-blueprint-workbook): Master ChatGPT with this 34-page interactive workbook. Learn prompt engineering, business writing, automation & more. Instant digital download.
+  Updated: 2026-07-25T00:48:12Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul24_2026_06_22_59PM.png?v=1784939819
+  Price: $29.99 USD
 
 ## Collections
 
@@ -245,8 +294,8 @@
   Updated: 2026-07-13T01:58:19Z
   Total Products: 1
 - [Business & Entrepreneurship](https://tl5digitalworld.com/collections/business-entrepreneurship)
-  Updated: 2026-07-16T00:40:52Z
-  Total Products: 2
+  Updated: 2026-07-23T22:29:57Z
+  Total Products: 3
 - [Financial Education](https://tl5digitalworld.com/collections/financial-education)
   Updated: 2026-07-15T01:54:28Z
   Total Products: 3
@@ -269,8 +318,8 @@
   Updated: 2026-07-13T01:59:01Z
   Total Products: 7
 - [Digital Workbooks](https://tl5digitalworld.com/collections/digital-workbooks)
-  Updated: 2026-07-17T00:23:52Z
-  Total Products: 4
+  Updated: 2026-07-22T23:14:45Z
+  Total Products: 5
 - [Personal Finance](https://tl5digitalworld.com/collections/personal-finance)
   Updated: 2026-07-13T01:59:01Z
   Total Products: 2
@@ -280,6 +329,12 @@
 - [Retirement Planning](https://tl5digitalworld.com/collections/retirement-planning)
   Updated: 2026-07-14T01:29:13Z
   Total Products: 1
+- [Career & Income Series](https://tl5digitalworld.com/collections/career-income-series)
+  Updated: 2026-07-23T22:29:57Z
+  Total Products: 5
+- [AI Series](https://tl5digitalworld.com/collections/ai-series)
+  Updated: 2026-07-25T00:43:55Z
+  Total Products: 2
 
 ## Blogs
 
@@ -339,6 +394,21 @@
     Author: Admin
   - [How to Build Business Credit the Right Way](https://tl5digitalworld.com/blogs/news/how-to-build-business-credit): How to Build Business Credit the Right Way
     Updated: 2026-07-16T06:21:09Z
+    Author: Admin
+  - [How to Rebuild Finances After Debt in 7 Steps](https://tl5digitalworld.com/blogs/news/how-to-rebuild-finances-after-debt): How to Rebuild Finances After Debt in 7 Steps
+    Updated: 2026-07-18T06:24:46Z
+    Author: Admin
+  - [How to Budget With Irregular Income With Confidence](https://tl5digitalworld.com/blogs/news/how-to-budget-with-irregular-income): How to Budget With Irregular Income With Confidence
+    Updated: 2026-07-20T05:51:51Z
+    Author: Admin
+  - [What Hurts Your Credit Score and What to Do Next](https://tl5digitalworld.com/blogs/news/what-hurts-your-credit-score): What Hurts Your Credit Score and What to Do Next
+    Updated: 2026-07-22T06:09:14Z
+    Author: Admin
+  - [10 Best Side Hustles for Full Time Workers](https://tl5digitalworld.com/blogs/news/best-side-hustles-for-full-time-workers): 10 Best Side Hustles for Full Time Workers
+    Updated: 2026-07-24T06:01:00Z
+    Author: Admin
+  - [Sole Proprietorship vs LLC: Which Is Right?](https://tl5digitalworld.com/blogs/news/sole-proprietorship-vs-llc): Sole Proprietorship vs LLC: Which Is Right?
+    Updated: 2026-07-26T05:24:39Z
     Author: Admin
 
 ## Store Pages
