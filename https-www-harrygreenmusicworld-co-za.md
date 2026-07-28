@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2017-06-22T06:41:36Z
 - Contact Email: online@hgmw.co.za
-- Updated At: 2026-07-21T00:00:41.997Z
+- Updated At: 2026-07-28T00:00:44.392Z
 
 ## Products
 
@@ -593,38 +593,38 @@
 ## Collections
 
 - [Pre-Owned Items](https://www.harrygreenmusicworld.co.za/collections/pre-owned-items)
-  Updated: 2026-07-20T11:02:17Z
-  Total Products: 9
+  Updated: 2026-07-27T06:38:36Z
+  Total Products: 10
 - [Refurbished Pianos](https://www.harrygreenmusicworld.co.za/collections/refurbished-pianos)
-  Updated: 2026-07-20T11:02:17Z
-  Total Products: 3
+  Updated: 2026-07-27T06:38:36Z
+  Total Products: 4
 - [Gift Cards](https://www.harrygreenmusicworld.co.za/collections/gift-cards)
   Updated: 2025-12-04T06:40:34Z
   Total Products: 1
 - [Pro Audio](https://www.harrygreenmusicworld.co.za/collections/pro-audio)
-  Updated: 2026-07-20T08:35:13Z
-  Total Products: 752
+  Updated: 2026-07-27T09:23:22Z
+  Total Products: 791
 - [Pro Audio Live Sound](https://www.harrygreenmusicworld.co.za/collections/live-sound)
-  Updated: 2026-07-20T08:35:13Z
-  Total Products: 409
+  Updated: 2026-07-27T09:23:22Z
+  Total Products: 432
 - [Studio](https://www.harrygreenmusicworld.co.za/collections/studio)
-  Updated: 2026-07-15T10:10:00Z
-  Total Products: 454
+  Updated: 2026-07-23T13:04:22Z
+  Total Products: 469
 - [Headphones](https://www.harrygreenmusicworld.co.za/collections/headphones)
-  Updated: 2026-07-15T10:10:00Z
-  Total Products: 73
+  Updated: 2026-07-23T13:04:22Z
+  Total Products: 79
 - [Lighting & Stage Effects](https://www.harrygreenmusicworld.co.za/collections/lighting-stage-effects)
   Updated: 2026-06-19T09:13:11Z
   Total Products: 20
 - [Guitar](https://www.harrygreenmusicworld.co.za/collections/guitars)
-  Updated: 2026-07-15T10:08:17Z
-  Total Products: 732
+  Updated: 2026-07-27T11:37:43Z
+  Total Products: 748
 - [Keys](https://www.harrygreenmusicworld.co.za/collections/keys)
-  Updated: 2026-07-20T11:02:17Z
-  Total Products: 264
+  Updated: 2026-07-27T06:38:36Z
+  Total Products: 266
 - [Drums](https://www.harrygreenmusicworld.co.za/collections/drums)
-  Updated: 2026-07-20T14:55:56Z
-  Total Products: 297
+  Updated: 2026-07-21T10:56:05Z
+  Total Products: 299
 - [Strings](https://www.harrygreenmusicworld.co.za/collections/strings)
   Updated: 2026-07-08T07:27:14Z
   Total Products: 84
@@ -635,7 +635,7 @@
   Updated: 2026-06-08T09:38:28Z
   Total Products: 1
 - [Studio Interfaces](https://www.harrygreenmusicworld.co.za/collections/interfaces)
-  Updated: 2026-07-15T10:08:32Z
+  Updated: 2026-07-23T13:03:59Z
   Total Products: 23
 - [Studio Monitors](https://www.harrygreenmusicworld.co.za/collections/studio-monitors)
   Updated: 2026-07-08T09:39:30Z
@@ -644,19 +644,19 @@
   Updated: 2026-07-08T10:04:49Z
   Total Products: 136
 - [Studio Mixers](https://www.harrygreenmusicworld.co.za/collections/studio-mixers)
-  Updated: 2026-06-30T11:39:57Z
-  Total Products: 50
+  Updated: 2026-07-21T09:34:49Z
+  Total Products: 61
 - [Studio Recording Gear](https://www.harrygreenmusicworld.co.za/collections/recording-gear)
-  Updated: 2026-07-07T07:38:21Z
-  Total Products: 29
+  Updated: 2026-07-21T10:55:06Z
+  Total Products: 31
 - [Pro Audio Live Microphones](https://www.harrygreenmusicworld.co.za/collections/live-microphones)
-  Updated: 2026-07-08T10:16:20Z
-  Total Products: 68
+  Updated: 2026-07-21T11:04:45Z
+  Total Products: 75
 - [Racks & Cases](https://www.harrygreenmusicworld.co.za/collections/racks-cases)
-  Updated: 2026-07-20T06:00:28Z
+  Updated: 2026-07-22T11:26:21Z
   Total Products: 22
 - [DJ](https://www.harrygreenmusicworld.co.za/collections/dj)
-  Updated: 2026-07-20T11:02:17Z
+  Updated: 2026-07-22T11:26:21Z
   Total Products: 120
 - [Brass & Wind](https://www.harrygreenmusicworld.co.za/collections/wind-brass)
   Updated: 2026-07-14T09:20:53Z
@@ -665,8 +665,8 @@
   Updated: 2025-12-04T06:40:37Z
   Total Products: 1
 - [Buy](https://www.harrygreenmusicworld.co.za/collections/browse)
-  Updated: 2026-07-20T14:55:56Z
-  Total Products: 3886
+  Updated: 2026-07-27T11:37:43Z
+  Total Products: 3952
 - [Stentor](https://www.harrygreenmusicworld.co.za/collections/stentor)
   Updated: 2026-06-08T09:38:32Z
   Total Products: 11
@@ -674,8 +674,8 @@
   Updated: 2026-06-19T09:13:09Z
   Total Products: 161
 - [Pro Audio Cables](https://www.harrygreenmusicworld.co.za/collections/pro-audio-cables)
-  Updated: 2026-07-06T09:58:00Z
-  Total Products: 61
+  Updated: 2026-07-22T11:03:02Z
+  Total Products: 68
 - [Keys MIDI](https://www.harrygreenmusicworld.co.za/collections/keys-midi)
   Updated: 2026-06-30T11:40:01Z
   Total Products: 34
@@ -689,23 +689,23 @@
   Updated: 2026-07-15T10:07:56Z
   Total Products: 96
 - [Studio Accessories](https://www.harrygreenmusicworld.co.za/collections/accessories-studio)
-  Updated: 2026-07-15T10:10:00Z
-  Total Products: 141
+  Updated: 2026-07-22T07:24:57Z
+  Total Products: 143
 - [Media Player](https://www.harrygreenmusicworld.co.za/collections/media-player)
   Updated: 2026-06-06T18:13:52Z
   Total Products: 1
 - [Drums Accessories](https://www.harrygreenmusicworld.co.za/collections/drums-accessories)
-  Updated: 2026-07-20T14:55:56Z
-  Total Products: 187
+  Updated: 2026-07-21T10:56:05Z
+  Total Products: 189
 - [Guitar Accessories](https://www.harrygreenmusicworld.co.za/collections/guitar-accessories)
-  Updated: 2026-07-15T10:08:17Z
-  Total Products: 384
+  Updated: 2026-07-27T10:49:12Z
+  Total Products: 385
 - [Bass Guitar](https://www.harrygreenmusicworld.co.za/collections/guitar-bass)
-  Updated: 2026-06-26T08:26:13Z
+  Updated: 2026-07-27T11:22:27Z
   Total Products: 74
 - [Electric Guitar](https://www.harrygreenmusicworld.co.za/collections/electric-guitar)
-  Updated: 2026-07-15T10:08:17Z
-  Total Products: 149
+  Updated: 2026-07-27T11:37:43Z
+  Total Products: 164
 - [Acoustic Drums](https://www.harrygreenmusicworld.co.za/collections/acoustic-drums)
   Updated: 2026-07-20T14:55:56Z
   Total Products: 65
@@ -713,8 +713,8 @@
   Updated: 2026-06-19T09:13:09Z
   Total Products: 30
 - [Keys Accessories](https://www.harrygreenmusicworld.co.za/collections/keys-accessories)
-  Updated: 2026-07-15T06:43:38Z
-  Total Products: 69
+  Updated: 2026-07-22T07:23:55Z
+  Total Products: 70
 - [Strings Violin](https://www.harrygreenmusicworld.co.za/collections/strings-violin)
   Updated: 2026-06-22T09:38:52Z
   Total Products: 24
@@ -731,8 +731,8 @@
   Updated: 2026-07-08T07:27:14Z
   Total Products: 62
 - [Pro Audio Accessories](https://www.harrygreenmusicworld.co.za/collections/pro-audio-accessories)
-  Updated: 2026-07-15T10:08:55Z
-  Total Products: 154
+  Updated: 2026-07-22T11:03:02Z
+  Total Products: 160
 - [Keys Grand](https://www.harrygreenmusicworld.co.za/collections/keys-grand)
   Updated: 2026-06-06T18:21:22Z
   Total Products: 8
@@ -811,6 +811,15 @@
     Author: HGMW
   - [How to Start Playing Guitar: Affordable Acoustic Options for Beginners](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/how-to-start-playing-guitar-affordable-acoustic-options-for-beginners): How to Start Playing Guitar: Affordable Acoustic Options for Beginners
     Updated: 2026-07-20T02:26:53Z
+    Author: HGMW
+  - [Understanding Guitars: Acoustic vs. Electric for Beginners](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/understanding-guitars-acoustic-vs-electric-for-beginners): Understanding Guitars: Acoustic vs. Electric for Beginners
+    Updated: 2026-07-22T02:02:40Z
+    Author: HGMW
+  - [A Beginner's Checklist to Affordable Acoustic Guitar Practices](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/a-beginners-checklist-to-affordable-acoustic-guitar-practices): A Beginner's Checklist to Affordable Acoustic Guitar Practices
+    Updated: 2026-07-25T00:45:08Z
+    Author: HGMW
+  - [Solving Common AWoodlrdablee kanyaanges: Ti99San'st G3GuiTariu contact Properless](https://www.harrygreenmusicworld.co.za/blogs/harry-s-picks/solving-common-awoodlrdablee-kanyaanges-ti99sanst-g3guitariu-contact-properless): Solving Common AWoodlrdablee kanyaanges: Ti99San'st G3GuiTariu contact Properless
+    Updated: 2026-07-27T02:11:03Z
     Author: HGMW
 
 ## Store Pages
