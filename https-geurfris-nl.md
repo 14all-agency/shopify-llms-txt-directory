@@ -6,12 +6,12 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-12-12T19:05:59Z
 - Contact Email: info@geurfris.nl
-- Updated At: 2026-07-10T00:00:23.349Z
+- Updated At: 2026-07-28T00:00:38.006Z
 
 ## Products
 
 - [Stopcontact geurverspreider voor ontspanning thuis](https://geurfris.nl/products/elektrische-stopcontact-geurverspreider): Ontdek deze stopcontact geurverspreider met ontspannende geur. Eenvoudig in gebruik, compact en ideaal voor een frisse, rustgevende sfeer thuis.
-  Updated: 2026-07-05T20:46:35Z
+  Updated: 2026-07-18T19:36:31Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
@@ -25,18 +25,18 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/Geurstokjes_Verpakking_61f33709-f528-442c-ab1d-4cd048389478.jpg?v=1782786936
   Price: € 29,95 EUR
 - [Dierengeur verwijderaar Navulling - Frisse Sfeer | Neutrale Geuren](https://geurfris.nl/products/dierengeur-verwijderaar-navulling): Effectieve dierengeur verwijderaar navulling. Geniet van een frisse sfeer tenminste 30 dagen. Geschikt voor Ambielectric Plus geurverspreiders.
-  Updated: 2026-07-09T17:26:47Z
+  Updated: 2026-07-17T19:31:21Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/animalfresh.webp?v=1782786621
   Price: € 29,95 EUR
 - [Dierengeur Neutraliseren Starterset | Langdurig Fris](https://geurfris.nl/products/dierengeur-neutraliseren): Dierengeur Neutraliseren? Neutraliseer huisdierengeur met de Citrusgeur Starterset. Verwijdert effectief ongewenste dierenluchtjes met langdurige werking.
-  Updated: 2026-07-08T09:24:42Z
+  Updated: 2026-07-22T07:27:57Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/AnimalFresh-Ambielectric.png?v=1782786773
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/dierengeurverwijderaar-citrus.webp?v=1784662036
   Price: € 59,95 EUR
 - [Elektrische aroma diffuser voor frisse geurervaring](https://geurfris.nl/products/elektrische-aroma-diffuser): Ontdek de elektrische aroma diffuser van Respir: een complete set voor een frisse geurervaring, ontspanning en een sfeervol interieur.
   Updated: 2026-07-05T20:46:35Z
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/CAJA_CONJUNTO_NL-2.jpg?v=1782786640
   Price: € 59,95 EUR
 - [Ambielectric Plus diffuser Bruin voor huisparfums met sfeer](https://geurfris.nl/products/ambielectric-plus-diffuser-bruin): Ambielectric Plus diffuser Bruin brengt rust, stijl en geur samen. Elegant design, sfeervolle verlichting en gebruiksgemak voor elk interieur.
-  Updated: 2026-07-03T01:04:29Z
+  Updated: 2026-07-19T08:58:51Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
@@ -60,112 +60,119 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/ambielectric-grijs.webp?v=1782786623
   Price: € 59,95 EUR
 - [Ambielectric Plus Diffuser Wit voor stijlvol aroma](https://geurfris.nl/products/ambielectric-plus-diffuser-wit): Ontdek de Ambielectric Plus Diffuser Wit: een elegante geurverspreider voor een frisse sfeer, subtiele aromaverdeling en modern gebruiksgemak.
-  Updated: 2026-07-09T17:26:46Z
+  Updated: 2026-07-18T08:10:16Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/diffusor_white.jpg?v=1782786648
   Price: € 59,95 EUR
 - [Rookgeur verwijderen met Ambielectric Plus Navulling](https://geurfris.nl/products/rookgeur-verwijderen): Rookgeur verwijderen in huis of auto? De Tabac Navulling voor Ambielectric Plus neutraliseert geurtjes en zorgt voor een frisse, subtiele geur.
-  Updated: 2026-07-08T21:17:01Z
+  Updated: 2026-07-19T10:00:07Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/hout_kruidig.jpg?v=1782786649
   Price: € 29,95 EUR
 - [Huisparfum voor Ambielectric Plus Navulling - Ambielectric](https://geurfris.nl/products/huisparfum): Ontdek huisparfum voor de Ambielectric Plus geurverspreider. Frisse, langdurige geur voor een aangename sfeer in elke ruimte.
-  Updated: 2026-07-05T19:34:15Z
+  Updated: 2026-07-19T09:43:43Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/aire-limpio.jpg?v=1782786652
   Price: € 29,95 EUR
 - [Kokos huisparfum voor een warme tropische sfeer - Ambielectric Plus](https://geurfris.nl/products/kokos-huisparfum): Ontdek kokos huisparfum voor een frisse, warme en tropische geur in huis. Ideaal voor woonkamer, slaapkamer en badkamer.
-  Updated: 2026-07-05T13:58:32Z
+  Updated: 2026-07-19T09:43:43Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/kokosnoot.jpg?v=1782786654
   Price: € 29,95 EUR
 - [Huisparfum met aangename geur DES Ambielectric Plus](https://geurfris.nl/products/huisparfum-aangename-geur): Ontdek Ambielectric Plus navulling: een huisparfum met aangename geur voor een frisse, comfortabele sfeer in elke ruimte.
-  Updated: 2026-07-09T06:28:29Z
+  Updated: 2026-07-24T22:40:51Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/des.jpg?v=1782786657
   Price: € 29,95 EUR
 - [Huisparfum appel: Ambielectric Plus Manzana - Ambielectric](https://geurfris.nl/products/huisparfum-appel): Ontdek huisparfum appel Ambielectric Plus - Manzana. Een frisse, zoete geur die je huis een schoon, fruitig en uitnodigend gevoel geeft.
-  Updated: 2026-07-09T06:30:39Z
+  Updated: 2026-07-19T09:07:47Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/appel.jpg?v=1782786663
   Price: € 29,95 EUR
 - [Sinaasappel kaneel huisparfum voor Ambielectric Plus](https://geurfris.nl/products/sinaasappel-kaneel-huisparfum): Geniet van sinaasappel kaneel huisparfum met deze navulling voor Ambielectric Plus. Warm, fris en sfeervol voor elke ruimte in huis.
-  Updated: 2026-07-09T06:30:12Z
+  Updated: 2026-07-16T17:42:17Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/sinaasappel-kaneel.jpg?v=1782786667
   Price: € 29,95 EUR
+- [Sinaasappel huisgeur voor een frisse ruimte - Ambielectric Plus](https://geurfris.nl/products/sinaasappel-huisgeur): Geniet van een warme sinaasappel huisgeur met de Ambielectric navulling. Zorgt voor een frisse, aangename sfeer in elke ruimte.
+  Updated: 2026-07-24T22:25:09Z
+  Vendor: Mijn winkel
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/sinaasappel.jpg?v=1782786668
+  Price: € 29,95 EUR
 - [Huisparfum met schone, frisse geur voor thuis - Ambielectric](https://geurfris.nl/products/huisparfum-schone-frisse-geur): Ontdek Ambielectric Plus navulling: een huisparfum met schone, frisse geur voor een aangename sfeer in elke ruimte. Fris, subtiel en langdurig.
-  Updated: 2026-07-09T06:29:02Z
+  Updated: 2026-07-16T17:42:15Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/septic.jpg?v=1782786671
   Price: € 29,95 EUR
 - [Huisgeur Vanille Navulling - Ambielectric Plus - Frisse geur](https://geurfris.nl/products/huisgeur-vanille): Frisse huisgeur vanille navulling voor Ambielectric Plus. Geniet langdurig van een warme, zachte vanillegeur in huis.
-  Updated: 2026-07-09T06:27:57Z
+  Updated: 2026-07-16T17:42:41Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/vanilla.jpg?v=1782786943
   Price: € 29,95 EUR
 - [Citrus huisparfum Ambielectric Plus Citronella Navulling](https://geurfris.nl/products/citrus-huisparfum): Ontdek citrus huisparfum met Ambielectric Plus Citronella Navulling. Verfrissend, gebruiksvriendelijk en ideaal voor een aangename geurbeleving.
-  Updated: 2026-07-09T06:27:18Z
+  Updated: 2026-07-16T17:42:39Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/citronella.jpg?v=1782786679
   Price: € 29,95 EUR
 - [Huisparfum Relax voor Rustgevende Sfeer en Comfort](https://geurfris.nl/products/huisparfum-relax): Ontdek huisparfum relax van Ambielectric Plus: een navulling voor een rustgevende sfeer, ideaal voor dagelijks comfort en een warm thuisgevoel.
-  Updated: 2026-07-09T06:26:37Z
+  Updated: 2026-07-16T17:42:14Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/geurfris_relax.webp?v=1782786619
   Price: € 29,95 EUR
 - [Navulling Dierengeur verwijderen - Citrus | Elimineert geuren](https://geurfris.nl/products/ambielectric-plus-navulling-dierengeur-verwijderen-citrus): Neutraliseer dierengeuren effectief met Dierengeur verwijderen met Citrus navulling. Laat een frisse citrusgeur achter, geschikt voor Ambielectric Plus.
-  Updated: 2026-07-08T18:25:55Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-24T14:56:02Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/Navulling_Ambielectric_Plus.png?v=1782786625
   Price: € 29,95 EUR
 - [Geurverwijderaar voor huisdieren | Effectief & vrijwel geurloos](https://geurfris.nl/products/geurverwijderaar_voor_huisdieren): Kies deze geurverwijderaar voor huisdieren starterset voor een fris huis zonder nare dierengeuren. Effectief, handig en eenvoudig in gebruik.
-  Updated: 2026-07-09T06:22:34Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-27T15:02:16Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/AnimalFresh-Ambielectric.png?v=1782786773
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/dierengeur-verwijderaar_937b7dc2-488e-459e-ba95-46df41e57938.webp?v=1784661240
   Price: € 59,95 EUR
 - [Geurverspreider Ambielectric Diffuser voor Elke Ruimte](https://geurfris.nl/products/geurverspreider): Ontdek de geurverspreider Ambielectric Diffuser: stijlvol, krachtig en geschikt voor elke ruimte. Voor een frisse, aangename sfeer thuis.
-  Updated: 2026-07-09T06:21:37Z
+  Updated: 2026-07-19T08:58:51Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/ambielectric-star2_800.webp?v=1782786916
   Price: € 39,95 EUR
 - [Nare geuren verwijderen met Star Magic Navulling - Ambielectric](https://geurfris.nl/products/nare-geuren-verwijderen): Verwijder nare geuren eenvoudig met Ambielectric Navulling Star Magic. Frisse geur, langdurige werking en ideaal voor een aangename ruimte.
-  Updated: 2026-07-09T06:20:00Z
+  Updated: 2026-07-16T13:16:22Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/magic_neutralizer.jpg?v=1782786695
   Price: € 19,95 EUR
 - [Geurverwijderaar Navulling Ambielectric Plus - Tegen ongewenste geuren](https://geurfris.nl/products/geurverwijderaar): Ontdek de geurverwijderaar navulling Ambielectric Plus: natuurlijk, effectief en langdurig tegen ongewenste geuren in huis.
-  Updated: 2026-07-09T06:14:56Z
+  Updated: 2026-07-16T17:42:02Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
@@ -179,186 +186,200 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/CAJA_CONJUNTO_NL-2.jpg?v=1782786640
   Price: € 59,95 EUR
 - [Elektrische geurverwijderaar voor vieze geuren - Ambielectric Plus](https://geurfris.nl/products/elektrische-geurverwijderaar-vieze-geuren): Ontdek de Ambielectric Magic Kit: een elektrische geurverwijderaar voor vieze geuren die zorgt voor frisse lucht, comfort en gemak in huis.
-  Updated: 2026-07-09T17:31:26Z
+  Updated: 2026-07-22T06:05:18Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/CAJA_CONJUNTO_NL-2.jpg?v=1782786640
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/magic-neutraliser.webp?v=1784663844
   Price: € 59,95 EUR
 - [Karamel huisparfum? Ambielectric Caramelo Navulling | Warme,Zoete Geur](https://geurfris.nl/products/karamel-huisparfum): Karamel Huisparfum? Ervaar de Ambielectric Caramelo navulling: een warme, zoete geur van karamel en vanille. Ideaal voor winkels en woonkamers. Bezoek de shop!
-  Updated: 2026-07-08T20:30:56Z
+  Updated: 2026-07-16T17:42:35Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/caramelo.webp?v=1782786630
   Price: € 29,95 EUR
 - [Warme Luxe Huisgeur voor Diffuser](https://geurfris.nl/products/warme-luxe-huisgeur): Ontdek Warme Luxe Huisgeur met Arabian geurnavulling voor diffuser. Creëer een elegante, langdurige en verfijnde sfeer in huis.
-  Updated: 2026-07-09T06:11:30Z
+  Updated: 2026-07-16T17:42:34Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/arabian.jpg?v=1782786713
   Price: € 29,95 EUR
 - [Huisparfum Spa Navulling met Lavendel en Roos - Ambielectric Plus](https://geurfris.nl/products/huisparfum-spa): Ontdek huisparfum spa voor Ambielectric: een zachte wellnessgeur met lavendel en roos voor rust, ontspanning en een frisse sfeer in huis.
-  Updated: 2026-07-09T06:53:48Z
+  Updated: 2026-07-25T10:50:07Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/spa-geur.webp?v=1782786919
   Price: € 29,95 EUR
 - [Maritieme huisparfum navulling Brisa Azul Ambielectric](https://geurfris.nl/products/maritieme-huisparfum): Ontdek Brisa Azul navulling: een maritieme huisparfum voor Ambielectric met frisse, elegante geurnoten voor een zuivere, ontspannen sfeer thuis.
-  Updated: 2026-07-09T06:08:54Z
+  Updated: 2026-07-27T10:08:58Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/brisa-azul-geur.webp?v=1782786634
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/brisa-azul-geurverspreider.webp?v=1784664511
   Price: € 29,95 EUR
 - [Luxe Huisparfum CKO voor Ambielectric Plus Navulling](https://geurfris.nl/products/luxe-huisparfum-cko): Ontdek Luxe Huisparfum CKO voor Ambielectric: een verfijnde geur navulling die elke ruimte vult met luxe sfeer, warmte en elegantie.
-  Updated: 2026-07-09T06:08:01Z
+  Updated: 2026-07-24T21:59:09Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/cko-geur.webp?v=1782786633
   Price: € 29,95 EUR
 - [Huisparfum limoen voor Ambielectric Plus - Ambielectric Plus](https://geurfris.nl/products/huisparfum-limoen-groen): Ontdek huisparfum limoen met Verde Limón navulling voor Ambielectric Plus. Frisse citrusgeur voor een schoon en energiek interieur.
-  Updated: 2026-07-09T06:51:34Z
+  Updated: 2026-07-19T09:56:11Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/verde-limon-geur.webp?v=1782786634
   Price: € 29,95 EUR
 - [Huisparfum Lotus Bamboe Navulling voor Rust in Huis-Ambielectric Plus](https://geurfris.nl/products/huisparfum-lotus-bamboe): Ontdek huisparfum Lotus van Ambielectric: een frisse, bloemige navulling met bamboe voor een rustige, elegante geur in elke ruimte.
-  Updated: 2026-07-09T06:50:58Z
+  Updated: 2026-07-19T10:01:43Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/flor-de-loto-bambu-geur.webp?v=1782786636
   Price: € 29,95 EUR
 - [Huisparfum kaneelgeur voor warme, sfeervolle ruimtes](https://geurfris.nl/products/huisparfum-kaneelgeur): Geef je interieur een warme boost met huisparfum kaneelgeur. De Canela navulling zorgt voor een gezellige, langdurige geur in elke ruimte.
-  Updated: 2026-07-09T06:49:32Z
+  Updated: 2026-07-19T10:01:43Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/canela-geur.webp?v=1782786637
   Price: € 29,95 EUR
 - [Bloemige huisparfum Gardenia Navulling - Ambielectric Plus](https://geurfris.nl/products/bloemige-huisparfum): Ontdek de bloemige huisparfum Gardenia Navulling voor Ambielectric: fris, elegant en langdurig voor een verfijnde geurbeleving thuis.
-  Updated: 2026-07-09T06:48:51Z
+  Updated: 2026-07-19T10:01:43Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/gardenia-geur.webp?v=1782786920
   Price: € 29,95 EUR
 - [Huisparfum Jasmijn voor Elegante Bloemige Geur - Stijlvol](https://geurfris.nl/products/huisparfum-jasmijn-ambielectric): Huisparfum Jasmijn geeft je interieur een elegante, bloemige geur. Ideaal als navulling voor geurverspreiders met langdurige frisheid.
-  Updated: 2026-07-09T06:48:18Z
+  Updated: 2026-07-19T09:56:09Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/jazmin-geur.webp?v=1782786922
   Price: € 29,95 EUR
 - [Huisparfum baby cologne voor zachte kindergeur -voor Ambielectric Plus](https://geurfris.nl/products/huisparfum-baby-cologne): Ontdek huisparfum baby cologne van Ambielectric: een zachte, frisse geur voor kinderruimtes, met navulling voor langdurig gebruik.
-  Updated: 2026-07-09T09:48:09Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-19T10:01:42Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/baby-cologne-geur.webp?v=1782786922
   Price: € 29,95 EUR
 - [Huisparfum rozengeur voor Ambielectric Plus navulling](https://geurfris.nl/products/huisparfum-rozengeur): Geniet van huisparfum rozengeur met deze navulling voor Ambielectric. Een zachte, elegante geur voor een frisse en warme sfeer in huis.
-  Updated: 2026-07-09T06:47:20Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-24T22:18:39Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/rozengeur.webp?v=1782786925
   Price: € 29,95 EUR
 - [Aardbeien Huisparfum voor Ambielectric Plus - Frisse, zoete geur](https://geurfris.nl/products/aardbeien-huisparfum): Geniet van Aardbeien Huisparfum met deze navulling voor Ambielectric Plus. Een frisse, zoete geur voor een uitnodigend en prettig thuisgevoel.
-  Updated: 2026-07-09T05:38:29Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-19T09:56:10Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/aardbeien.jpg?v=1782786744
   Price: € 29,95 EUR
+- [Oosterse huisparfum Orient Navulling – Kruidige Geur | Oosterse Sfeer](https://geurfris.nl/products/oosterse-huisparfum-ambielectric): Ontdek de Oosterse huisparfum Orient Navulling Kruidige Geur met oosterse tonen van amber, patchouli en vanille. Perfect voor sfeervolle interieurs. Ervaar het!
+  Updated: 2026-07-19T10:01:41Z
+  Vendor: Ambielectric
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/orient-geur.webp?v=1782786925
+  Price: € 29,95 EUR
+- [Jasmijn geurstokjes voor een frisse natuurlijke bloemige geur](https://geurfris.nl/products/jasmijn-geurstokjes): Ontdek jasmijn geurstokjes van Ambielectric Aroma voor een langdurige, bloemige geur die elke ruimte sfeervol en ontspannend maakt.
+  Updated: 2026-07-19T10:01:41Z
+  Vendor: Ambielectric
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/Geurstokjes.jpg?v=1782786936
+  Price: € 29,95 EUR
 - [Verleidelijke huisparfum: Affair Navulling - Zachte, elegante Geur](https://geurfris.nl/products/verleidelijke-huisparfum): Affair: een verleidelijke huisparfum met zachte muskus en poederige noten. Stijlvol en subtiel. Voor Ambielectric geurverspreider. Verkrijgbaar bij GeurFris.
-  Updated: 2026-07-08T21:39:21Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-19T10:01:41Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/affair-geur-ambielectric.webp?v=1782786925
   Price: € 29,95 EUR
 - [Rookgeur Verwijderaar van Ambielectric-Elektrische Geurdiffuser-Tabac Neutral](https://geurfris.nl/products/rookgeur-verwijderaar-complete-kit): Rookgeur verwijderaar? :Effectief rook- en tabaksluchten met de Ambielectric Geurdiffuser en Tabac Neutral navulling. Creëer een frisse en zuivere omgeving.
-  Updated: 2026-07-09T17:31:26Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-22T07:48:57Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/Tabac-Neutral-Ambielectric.png?v=1782786641
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/rookgeur-verwijderen.webp?v=1784663342
   Price: € 59,95 EUR
 - [Huisparfum Elektrische Geurdiffuser Brisa Azul | Frisse Oceaanbries](https://geurfris.nl/products/huisparfum-elektrische-geurdiffuser): Ervaar de frisse geur van Brisa Azul met de Ambielectric Huisparfum Elektrische Geurdiffuser. Creëer een zuivere, aangename sfeer in huis.Stil en energiezuinig.
-  Updated: 2026-07-09T17:31:26Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-22T08:08:40Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/CAJA_CONJUNTO_NL-2.jpg?v=1782786640
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/brisa-azul-geurverspreider.webp?v=1784664511
   Price: € 59,95 EUR
 - [Geurverwijderaar Kit - Stopcontact - Star Neutralizer | Compact Design](https://geurfris.nl/products/geurverwijderaar-stopcontact): Ontdek de stopcontact geurverwijderaar kit met Magic Neutralizer. Compact en stijlvol, effectief tegen ongewenste geuren tot 200 m³. Plug & play gemak zonder sprays.
-  Updated: 2026-07-08T21:33:35Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-22T09:05:43Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/ambielectric_star_home_800.webp?v=1782786925
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/magic-neutraliser-star.webp?v=1784667925
   Price: € 49,90 EUR
 - [White Tea Huisparfum - Luxe geur navulling - White Tea Gember](https://geurfris.nl/products/white-tea-huisparfum): White Tea Huisparfum: Een verfijnde geur navulling met white tea en gember. Ideaal voor elke ruimte. Zorgt voor langdurige frisheid en balans. Bezoek de shop!
-  Updated: 2026-07-09T09:31:41Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-19T10:01:42Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/white_tea_ginger_sfeerafbeelding.webp?v=1782786929
   Price: € 29,95 EUR
 - [Ontspannende huisparfum? Navulling voor Ambielectric Star - SPA](https://geurfris.nl/products/ontspannende-huisparfum): Ervaar rust en klasse met de ontspannende huisparfum van Ambielectric. Fris, bloemig en ontspannend aroma, ideaal voor salons tot thuis. Eenvoudig te vervangen.
-  Updated: 2026-07-08T21:29:51Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-19T09:56:10Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/spa-geur.webp?v=1782786919
   Price: € 19,95 EUR
 - [Rookgeur neutraliseren? Tabac Neutral Geur Navulling - Ambielectric](https://geurfris.nl/products/rookgeur-neutraliseren-ambielectric-navulling): Rookgeur neutraliseren? Neutraliseer rook- en tabaksgeuren met de Tabac Neutral geur navulling voor de Ambielectric Star. Ideaal voor thuis, kantoren en horeca.
-  Updated: 2026-07-09T06:36:46Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-22T08:56:04Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/hout_kruidig.jpg?v=1782786649
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/Ambieletric-star_02.jpg?v=1782786694
   Price: € 19,95 EUR
 - [Frisse huisparfum: Navulling voor Ambielectric Star - Langdurige Geur](https://geurfris.nl/products/frisse-huisparfum-ambielectric): Ontdek de Frisse huisparfum van Ambielectric Star navulling: combineer citrus, bloemig en warme geuren. Geschikt voor winkels en thuisgebruik. Bezoek de shop!
-  Updated: 2026-07-09T09:28:14Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-19T10:01:42Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/des.jpg?v=1782786657
   Price: € 19,95 EUR
 - [Huisparfum Navulling voor Ambielectric Star | Continu aroma](https://geurfris.nl/products/huisparfum-ambielectric-star-blue-navulling): Huisparfumnavulling voor een frisse, eigentijdse geur. Bevat citrus, bloemig en houtige tonen voor retail, salons en thuis.
-  Updated: 2026-07-09T06:35:29Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-20T20:33:44Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/blue-geur.webp?v=1782786918
   Price: € 19,95 EUR
 - [Oosterse huisparfum - Ambielectric Star Orient - Geur Navulling](https://geurfris.nl/products/oosterse-huisparfum): Deze oosterse huisparfum brengt elegantie in elke ruimte met de Ambielectric Star Orient Geur Navulling. Geniet van bloemige, kruidige en houtige tonen.
-  Updated: 2026-07-08T21:25:19Z
-  Vendor: Mijn winkel
+  Updated: 2026-07-19T10:01:41Z
+  Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/orient-geur.webp?v=1782786925
   Price: € 19,95 EUR
 - [Zwarte elektrische diffuser huisparfum | Ambieletric](https://geurfris.nl/products/zwarte-elektrische-diffuser-huisparfum): Ontdek de zwarte elektrische diffuser huisparfum van Ambieletric voor een constante geurverdeling en een stijlvolle sfeer in huis.
-  Updated: 2026-07-09T09:18:05Z
+  Updated: 2026-07-18T14:28:55Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/ambielectric-zwart-star_b5337897-54d7-4ef9-a755-f330261c1fad.webp?v=1782786932
   Price: € 39,95 EUR
 - [Stopcontact Geurverwijderaar Kit - Star Tabac Neutral | Compact Design](https://geurfris.nl/products/stopcontact-geurverwijderaar-rookgeuren): Ontdek de stopcontact geurverspreider kit met Tabac Neutral. Compact en stijlvol, effectief tegen rookgeuren tot 200 m³. Plug & play gemak zonder sprays.
-  Updated: 2026-07-09T17:31:22Z
+  Updated: 2026-07-22T08:57:42Z
   Vendor: Mijn winkel
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/ambielectric_star_home_800.webp?v=1782786925
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/rookgeur-verwijderen-star.webp?v=1784667396
   Price: € 49,90 EUR
 
 ## Collections
@@ -367,74 +388,74 @@
   Updated: 2026-06-30T20:12:26Z
   Total Products: 2
 - [Lavendel](https://geurfris.nl/collections/lavendel): - GeurFris.nl
-  Updated: 2026-06-29T21:59:08Z
+  Updated: 2026-07-20T20:48:23Z
   Total Products: 0
-- [Geurstokjes – Subtiele geur, stijlvolle uitstraling](https://geurfris.nl/collections/geurstokjes): Geurstokjes geven je interieur een subtiele, langdurige geur en een stijlvolle uitstraling. Ontdek de voordelen en toepassingen.
-  Updated: 2026-07-02T12:16:53Z
+- [Geurstokjes – Subtiele geur, stijlvolle uitstraling](https://geurfris.nl/collections/geurstokjes): Ontdek luxe geurstokjes van GeurFris. Langdurige geurverspreiding voor woonkamer, badkamer, slaapkamer, kantoor en andere ruimtes. Verkrijgbaar in diverse geure
+  Updated: 2026-07-19T09:05:51Z
   Total Products: 7
 - [Elektrische geurverspreider](https://geurfris.nl/collections/elektrische-geurverspreider): - GeurFris.nl
   Updated: 2026-06-29T21:50:45Z
   Total Products: 0
 - [Vanille geurverspreiders – Warm, zacht en onweerstaanbaar](https://geurfris.nl/collections/vanille): De geur van vanille is tijdloos en geliefd. Zacht, zoet en licht romig – perfect om een warme en huiselijke sfeer te creëren. Onze vanille  - GeurFris.nl
-  Updated: 2026-06-30T21:31:07Z
+  Updated: 2026-07-18T17:51:46Z
   Total Products: 5
 - [Elektrische geurdiffuser: Ambielectric Star – Krachtige Geurverspreiding tot 200m³](https://geurfris.nl/collections/elektrische-geurdiffuser): Ontdek de elektrische geurdiffuser Ambielectric Star: krachtige geurverspreiding tot 200m³ voor een frisse, luxe sfeer in elke ruimte.
-  Updated: 2026-07-08T21:28:10Z
+  Updated: 2026-07-18T15:33:46Z
   Total Products: 13
 - [Elektrische geurdiffuser: Ambielectric Plus – Krachtige Geurverspreiding tot 400 m³](https://geurfris.nl/collections/elektrische-geurdiffuser-1): Elektrische geurdiffuser Ambielectric Plus verspreidt geur krachtig tot 400 m³. Ideaal voor een frisse, professionele geurbeleving.
-  Updated: 2026-07-09T11:26:13Z
+  Updated: 2026-07-25T11:19:14Z
   Total Products: 17
 - [Navullingen voor Huisparfums | Ontdek Onze Professionele Geuren | Creëer de Perfecte Sfeer](https://geurfris.nl/collections/navullingen-huisparfums): Ontdek navullingen voor huisparfums met verfijnde geuren, langdurige frisheid en een stijlvolle sfeer voor elke ruimte in huis.
-  Updated: 2026-07-09T11:26:13Z
+  Updated: 2026-07-25T11:19:14Z
   Total Products: 43
-- [Complete geurverspreider kits – Alles-in-één voor een frisse start](https://geurfris.nl/collections/complete-kits): Wil je direct aan de slag met het creëren van een fijne geurbeleving in huis of op het werk? Met onze complete geurverspreider kits heb je in één keer  - GeurFris.nl
-  Updated: 2026-07-08T20:59:33Z
+- [Complete geurverspreider kits – Alles-in-één voor een frisse start](https://geurfris.nl/collections/complete-kits): Ontdek de complete kits van GeurFris met Ambielectric diffuser en navulling. Direct klaar voor gebruik voor geurverwijdering of een luxe geurbeleving.
+  Updated: 2026-07-27T11:20:58Z
   Total Products: 8
 - [Ontspannende geuren: Een oase van rust voor lichaam en geest](https://geurfris.nl/collections/ontspannende-geuren): Ontspannende geuren helpen je lichaam en geest tot rust te brengen. Ontdek hoe je met sfeer, verzorging en eenvoud meer balans ervaart.
-  Updated: 2026-07-02T09:48:28Z
+  Updated: 2026-07-18T18:17:10Z
   Total Products: 22
 - [Huisdierengeur Verwijderaars–Fris Huis Tegen Hondengeuren of Kattengeuren](https://geurfris.nl/collections/dierengeur-verwijderaars): Dierengeur verwijderaar tegen hondengeur en kattengeur – pakt hardnekkige geurtjes écht aan, blijft langdurig werken en houdt je huis fris en aangenaam
-  Updated: 2026-07-08T11:22:56Z
-  Total Products: 3
-- [Ambielectric Plus Navullingen – Duurzaam en langdurig genieten van geur](https://geurfris.nl/collections/amibielectric-plus-navullingen): Met de Ambielectric Plus navullingen geniet je keer op keer van dezelfde hoogwaardige geur zonder dat je een nieuwe geurverspreider hoeft aan te  - GeurFris.nl
-  Updated: 2026-07-09T11:26:13Z
+  Updated: 2026-07-27T11:20:58Z
+  Total Products: 4
+- [Ambielectric Plus Navullingen – Duurzaam en langdurig genieten van geur](https://geurfris.nl/collections/amibielectric-plus-navullingen): Bestel Ambielectric Plus navullingen voor geurverwijderaars en luxe huisparfums. Minimaal 30 dagen werking. Geschikt voor ruimtes tot 400 m³.
+  Updated: 2026-07-25T11:19:14Z
   Total Products: 30
-- [Diffusers](https://geurfris.nl/collections/diffusers): - GeurFris.nl
-  Updated: 2026-07-02T13:05:04Z
-  Total Products: 1
-- [Ambielectric Navullingen – Altijd een Frisse Sfeer in Huis](https://geurfris.nl/collections/navullingen): Bestel navullingen voor je GeurFris diffuser. Duurzaam, voordelig en verkrijgbaar in vele heerlijke geuren. Voor een blijvend frisse sfeer in elke ruimte.
-  Updated: 2026-07-09T11:26:13Z
-  Total Products: 38
-- [Vanilla – Romig, zoet en sensueel met een frisse twist](https://geurfris.nl/collections/vanilla): Vanilla: een romige, zoete geur met fruitige gourmand tonen en een frisse fougère ondertoon. Verleidelijke zachtheid in een elegante compositie.
-  Updated: 2026-07-08T18:28:31Z
+- [Diffusers](https://geurfris.nl/collections/elektrische-geurdiffusers): Ontdek de elektrische geurdiffusers van Ambielectric. Kies de diffuser die past bij jouw ruimte en combineer deze met een geurverwijderaar of luxe huisparfum.
+  Updated: 2026-07-19T08:58:49Z
   Total Products: 2
-- [Appel/Manzana – Verfrissend fruitig met een fluweelzachte ondertoon](https://geurfris.nl/collections/appel): Manzana: een frisse geur met citroen, groene bladeren, appel, waterfruit en fluweelzachte perzik. Fruitig, lichtzoet en vol natuurlijke frisheid.
-  Updated: 2026-07-08T18:31:52Z
+- [Ambielectric Navullingen – Altijd een Frisse Sfeer in Huis](https://geurfris.nl/collections/navullingen): Bestel Ambielectric Plus en Star navullingen. Kies uit geurverwijderaars en luxe huisparfums. Minimaal 30 dagen werking en eenvoudig te vervangen.
+  Updated: 2026-07-25T11:19:14Z
+  Total Products: 38
+- [Vanilla huisparfum: Een romige vanillegeur met fruitige gourmand-tonen en een zachte, warme basis](https://geurfris.nl/collections/huisparfum-vanille): Ontdek Vanille huisparfum van Ambielectric. Een warme gourmand-geur met romige vanille, fruitige accenten en een zachte fougèrebasis voor een luxe geurbeleving.
+  Updated: 2026-07-27T20:03:56Z
+  Total Products: 2
+- [Huisparfum Manzana: Een frisse appelgeur met citrus en een zachte perzikbasis](https://geurfris.nl/collections/huisparfum-appel): Ontdek Appel huisparfum van Ambielectric. Een frisse geur met citroen, appel, waterfruiten en zachte perzik voor een natuurlijke en langdurige geurbeleving.
+  Updated: 2026-07-27T18:04:11Z
   Total Products: 1
-- [Aire Limpio – Een frisse bries vol karakter](https://geurfris.nl/collections/aire-limpio): Ontdek Aire Limpio: een frisse geur met mariene en ozonische tonen, fruitige accenten en natuurlijke essentiële oliën. Perfect voor een zuivere sfeer.
-  Updated: 2026-07-02T12:14:34Z
+- [Aire Limpio: Een frisse ozonische geur met mariene accenten en warme houtnoten](https://geurfris.nl/collections/huisparfum-aire-limpio): Ontdek Aire Limpio huisparfum van Ambielectric. Een frisse geur met ozonische, mariene en fruitige noten, verfijnd met hout en specerijen voor een schone en lux
+  Updated: 2026-07-27T20:45:40Z
   Total Products: 0
 - [DES – Elegant, fris en sensueel met een houtachtig hart](https://geurfris.nl/collections/des): DES: citrusfris met een bloemig-ozonisch hart en een warme basis van amber, musk en hout. Elegant, luchtig en zwoel. Voor een verfijnde geurbeleving.
-  Updated: 2026-07-08T21:28:10Z
+  Updated: 2026-07-24T22:40:48Z
   Total Products: 1
-- [Kokos – Tropisch, romig en onweerstaanbaar zacht](https://geurfris.nl/collections/kokos): Kokos: romig en tropisch met kokos, perzik en vanille. Fruitige top met amandel en banaan. Een zachte geur die voelt als zon op je huid.
-  Updated: 2026-06-30T20:03:49Z
+- [Kokos – Een tropische geur vol warmte en ontspanning](https://geurfris.nl/collections/kokos): Kokos: romig en tropisch met kokos, perzik en vanille. Fruitige top met amandel en banaan. Een zachte geur die voelt als zon op je huid.
+  Updated: 2026-07-27T07:09:07Z
   Total Products: 0
 - [Ambielectric Magic Neutralizer – frisse geur, weg met stank](https://geurfris.nl/collections/geur-neutralizer): Geur Neutralizer van Ambielectric neutraliseert vieze geuren en stank in huis op moleculair niveau – geen maskering, maar echte geurverwijdering.Bezoek de shop!
-  Updated: 2026-07-08T18:20:36Z
+  Updated: 2026-07-21T21:05:33Z
   Total Products: 3
 - [Septic – Elegant bloemig met een frisse citrusknipoog](https://geurfris.nl/collections/septic): Septic: een frisse geur met bergamot, roos en jasmijn. Elegant bloemig met kruidige accenten. Zacht, vrouwelijk en ideaal voor een verzorgde sfeer.
-  Updated: 2026-07-08T18:29:42Z
+  Updated: 2026-07-24T22:15:10Z
   Total Products: 1
 - [Sinaasappel – Frisgroen en marien met een vleugje mos](https://geurfris.nl/collections/sinaasappel): Sinaasappel: citrusfris met groene bladeren, mariene irisnoten en een zachte mosbasis. Verfrissend, natuurlijk en perfect voor elke ruimte.
-  Updated: 2026-06-30T20:53:28Z
+  Updated: 2026-07-24T22:25:06Z
   Total Products: 0
-- [Sinaasappel Kaneel](https://geurfris.nl/collections/sinaasapple-kaneel): - GeurFris.nl
-  Updated: 2026-07-09T11:26:13Z
+- [Sinaasappel Kaneel Huisparfum: Een warme citrusgeur met sinaasappel, kaneel en zachte vanille](https://geurfris.nl/collections/huisparfum-sinaasappel-kaneel): Ontdek Sinaasappel & Kaneel huisparfum van Ambielectric. Een warme geur met sinaasappel, kaneel, oranjebloesem, vanille en amber voor een luxe en gezellige sfee
+  Updated: 2026-07-27T18:43:12Z
   Total Products: 2
 - [Rookgeur neutraliseren: Tabac Neutral – Neutraliseert tabaksgeur met een stijlvolle, frisse basis](https://geurfris.nl/collections/tabac-neutral): Rookgeur neutraliseren doe je stijlvol met Tabac Neutral. Frisse, neutrale geurbeleving voor een aangename sfeer in huis of andere ruimtes.
-  Updated: 2026-07-01T08:43:24Z
-  Total Products: 3
+  Updated: 2026-07-24T21:59:06Z
+  Total Products: 4
 - [Rode vruchten](https://geurfris.nl/collections/rode-vruchten): - GeurFris.nl
   Updated: 2026-06-30T21:23:10Z
   Total Products: 0
@@ -442,11 +463,11 @@
   Updated: 2026-06-30T21:11:17Z
   Total Products: 0
 - [Speciaal tegen dierengeuren](https://geurfris.nl/collections/speciaal-tegen-dierengeuren): Ontdek onze professionele oplossingen om hardnekkige dierengeuren snel en effectief te verwijderen. Onze geurdiffusers en navullingen neutraliseren  - GeurFris.nl
-  Updated: 2026-07-08T11:22:56Z
-  Total Products: 3
+  Updated: 2026-07-27T11:20:58Z
+  Total Products: 4
 - [CKO – Frisgroen, kruidig en vol karakter](https://geurfris.nl/collections/cko): CKO: frisgroen met citrus, bloemen en fougère. Afgerond met amber, musk en hout. Natuurlijk, karaktervol en elegant – een geur met persoonlijkheid.
-  Updated: 2026-07-08T18:26:09Z
-  Total Products: 1
+  Updated: 2026-07-24T21:25:15Z
+  Total Products: 3
 - [Active - Verfrissend en Energiegevend](https://geurfris.nl/collections/active): Ervaar de opwekkende kracht van Active: een frisse geur met appel, ananas en watermeloen. Breng energie en positiviteit in elke ruimte met GeurFris.
   Updated: 2026-06-18T22:41:15Z
   Total Products: 0
@@ -456,14 +477,14 @@
 - [Arabian – Houtachtige, Kruidige Geur met Bloemige Accenten voor een Warme en Luxueuze Sfeer](https://geurfris.nl/collections/arabian): Ontdek Arabian: een houtachtige geur met bloemige en kruidige hartnoten, afgerond met een warme gourmand basis. Perfect voor een elegante en uitnodigende sfeer.
   Updated: 2026-06-30T20:09:53Z
   Total Products: 0
-- [Baby Cologne – Zachte luchtverfrisser voor babykamer en kinderruimte | GeurFris](https://geurfris.nl/collections/baby-cologne): Last van katten- of hondengeur? Animal Fresh verwijdert dierengeuren effectief en veilig. Voor een fris ruikend huis zonder chemische sprays.
-  Updated: 2026-06-26T07:32:34Z
+- [Een frisse, zachte geur met de vertrouwde charme van Baby Cologne](https://geurfris.nl/collections/huisparfum-baby-cologne): Ontdek Baby Cologne huisparfum van Ambielectric. Een frisse geur met citroen, oranjebloesem, muguet en witte musk voor een schone en verzorgde sfeer.
+  Updated: 2026-07-27T17:18:48Z
   Total Products: 0
 - [Cor – Warme elegantie met een bloemig hart](https://geurfris.nl/collections/cor): Ontdek Cor: een stijlvolle geur met sinaasappel, iris, amber en vanille. Warme elegantie voor winkels en woonruimtes. Nu verkrijgbaar bij Geurfris.
-  Updated: 2026-07-08T18:55:14Z
+  Updated: 2026-07-25T10:41:18Z
   Total Products: 1
-- [Affair – Frisse elegantie met een zilt bloemig hart](https://geurfris.nl/collections/affair): Ontdek Affair: een frisse geur met munt, zeeakkoord en amber. Voor een moderne, energieke sfeer. Professionele navulling bij GeurFris
-  Updated: 2026-06-30T16:30:48Z
+- [Elegante frisheid met een warm bloemig karakter](https://geurfris.nl/collections/affair): Ontdek Affair: een frisse geur met munt, zeeakkoord en amber. Voor een moderne, energieke sfeer. Professionele navulling bij GeurFris
+  Updated: 2026-07-26T20:26:04Z
   Total Products: 1
 - [Timber – Houtachtig, aromatisch en vol karakter](https://geurfris.nl/collections/timber-houtachtig): Timber is een houtachtige geur met bergamot, lavendel en sandelhout. Voor een warme, natuurlijke sfeer. Navulling verkrijgbaar bij Geurfris.
   Updated: 2026-06-18T22:41:15Z
@@ -478,83 +499,104 @@
   Updated: 2026-06-18T22:41:15Z
   Total Products: 0
 - [White Tea & Ginger – Verfijnd aromatisch met een kruidige, schone frisheid](https://geurfris.nl/collections/white-tea-ginger): White Tea &amp; Ginger (Witte Thee &amp; Gember) is een frisse, kruidige geur met witte thee, gember en cederhout. Voor rust, frisheid en stijl. GeurFris.nl
-  Updated: 2026-06-30T16:08:08Z
+  Updated: 2026-07-18T15:40:20Z
   Total Products: 1
-- [Bambú – Flor de Loto – Een frisse bloemengeur met een marien en kruidig karakter](https://geurfris.nl/collections/frisse-bloemengeur): Bambú – Flor de Loto (Bamboe – Lotusbloem) is een frisse geur met lavendel, lotus en amber. Bloemig, licht kruidig en ontspannend. GeurFris.nl
-  Updated: 2026-06-18T22:41:15Z
+- [Bambú – Flor de Loto – De rust van een luxe wellnessomgeving](https://geurfris.nl/collections/frisse-bloemengeur): Bambú – Flor de Loto (Bamboe – Lotusbloem) is een frisse geur met lavendel, lotus en amber. Bloemig, licht kruidig en ontspannend. GeurFris.nl
+  Updated: 2026-07-26T21:32:50Z
   Total Products: 0
-- [Lavanda – Kruidig, aromatisch en aards met een klassieke lavendelbasis](https://geurfris.nl/collections/lavandel): Lavanda (Lavendel) is een aromatische geur met eucalyptus, lavendel en sandelhout. Kruidig, rustgevend en klassiek. Verkrijgbaar bij GeurFris.
-  Updated: 2026-06-18T22:41:15Z
+- [Een rustgevende lavendelgeur met frisse kruiden en warme houtnoten](https://geurfris.nl/collections/huisparfum-lavendel): Ontdek Lavendel huisparfum van Ambielectric. Een aromatische geur met lavendel, eucalyptus, rozemarijn, mos en sandelhout voor een rustgevende sfeer.
+  Updated: 2026-07-27T17:43:25Z
   Total Products: 0
-- [Gardenia – Bloemig, fris en helder met een elegante groene ondertoon](https://geurfris.nl/collections/gardenia-bloemig-fris): Gardenia is een bloemige geur met ylang, grapefruit en een hart van roos en jasmijn. Elegant, fris en warm afgerond. Verkrijgbaar bij GeurFris.
-  Updated: 2026-06-30T19:02:59Z
+- [Gardenia – Een elegante bloemengeur met frisse en houtachtige accenten](https://geurfris.nl/collections/huisparfum-gardenia): Ontdek Gardenia huisparfum van Ambielectric. Een elegante geur met gardenia, jasmijn, roos, grapefruit en warme houtnoten voor een luxe geurbeleving.
+  Updated: 2026-07-27T16:06:02Z
   Total Products: 0
-- [Fresa – Fruitig, zoet en speels met een vleugje munt en tropisch karakter](https://geurfris.nl/collections/aardbei-fresa-fruitig): Fresa is een vrolijke geur met aardbei, munt en karamel. Fris, fruitig en speels. Ideaal voor kinderruimtes en winkels. Verkrijgbaar bij GeurFris.
-  Updated: 2026-06-30T17:52:52Z
-  Total Products: 0
-- [Flor – Zacht bloemig en romig met een fruitige, warme ondertoon](https://geurfris.nl/collections/flor-zacht-bloemig): Flor is een zachte geur met ylang, perzik en vanille. Bloemig en romig met een warme houtbasis. Elegant en tijdloos. Verkrijgbaar bij GeurFris.
-  Updated: 2026-06-30T20:47:00Z
+- [Fresa – Een sappige fruitgeur met een speels zoet karakter](https://geurfris.nl/collections/aardbei-fresa-fruitig): Fresa is een vrolijke geur met aardbei, munt en karamel. Fris, fruitig en speels. Ideaal voor kinderruimtes en winkels. Verkrijgbaar bij GeurFris.
+  Updated: 2026-07-27T12:45:51Z
+  Total Products: 1
+- [Flor – Een elegante bloemengeur met een warme, verfijnde basis](https://geurfris.nl/collections/flor-zacht-bloemig): Flor is een zachte geur met ylang, perzik en vanille. Bloemig en romig met een warme houtbasis. Elegant en tijdloos. Verkrijgbaar bij GeurFris.
+  Updated: 2026-07-27T12:12:48Z
   Total Products: 0
 - [Pétalos de Rosa – Frisse rozengeur met aquatisch hart en cederhouten basis](https://geurfris.nl/collections/rozengeur): Pétalos de Rosa is een frisse rozengeur met jasmijn, wateraccenten en een zachte houtbasis. Natuurlijk en elegant. Verkrijgbaar bij GeurFris.
-  Updated: 2026-06-30T18:50:06Z
+  Updated: 2026-07-24T22:18:37Z
   Total Products: 0
 - [Blue – Fris, verleidelijk en elegant](https://geurfris.nl/collections/blue-fris-verleidelijk-en-elegant): Ontdek Blue: een elegante geur met mandarijn, roos en cederhout. Fris, verleidelijk en sensueel. Met natuurlijke oliën. Nu verkrijgbaar bij GeurFris.
-  Updated: 2026-06-30T20:27:11Z
+  Updated: 2026-07-24T21:50:08Z
   Total Products: 1
-- [Huisparfum Aloë Vera rustgevend – Zacht en fris](https://geurfris.nl/collections/huisparfum-aloe-vera-rustgevend): Ontdek onze huisparfum aloë vera rustgevend: zacht, fris en kalmerend. Breng een ontspannen sfeer in huis met een natuurlijke geurbeleving.
-  Updated: 2026-07-02T15:52:27Z
+- [Huisparfum Aloë Vera: Puur, fris en in balans](https://geurfris.nl/collections/huisparfum-aloe-vera-rustgevend): Ontdek onze huisparfum aloë vera rustgevend: zacht, fris en kalmerend. Breng een ontspannen sfeer in huis met een natuurlijke geurbeleving.
+  Updated: 2026-07-26T20:56:12Z
   Total Products: 0
-- [Huisparfum spa ontspanning – Fris en bloemig](https://geurfris.nl/collections/huisparfum-spa-ontspanning): Huisparfum spa ontspanning brengt een frisse, bloemige geur in huis voor een kalme sfeer. Creëer elke dag een ontspannen spa-gevoel.
-  Updated: 2026-07-08T18:54:24Z
+- [Spa huisparfum: Een frisse wellnessgeur met bloemige elegantie en warme houtnoten](https://geurfris.nl/collections/huisparfum-spa-ontspanning): Ontdek Spa huisparfum van Ambielectric. Een frisse wellnessgeur met appel, lavendel, roos, aquatische noten en warme houtsoorten voor een ontspannen sfeer.
+  Updated: 2026-07-27T19:32:08Z
   Total Products: 2
-- [Huisparfum frisse zeebries - Fris, marien en krachtig](https://geurfris.nl/collections/huisparfum-frisse-zeebries): Ontdek huisparfum frisse zeebries met mariene frisheid en krachtige geuraccenten. Creëer een schoon, rustgevend en stijlvol thuisgevoel.
-  Updated: 2026-07-08T18:53:07Z
+- [Frisse zeelucht voor ieder interieur](https://geurfris.nl/collections/huisparfum-frisse-zeebries): Ontdek huisparfum frisse zeebries met mariene frisheid en krachtige geuraccenten. Creëer een schoon, rustgevend en stijlvol thuisgevoel.
+  Updated: 2026-07-26T22:05:07Z
   Total Products: 3
 - [Huisgeur Relax – kruidig, rustgevend en warm](https://geurfris.nl/collections/huisgeur-relax): Ontdek huisgeur relax: kruidig, rustgevend en warm. Creëer thuis direct meer sfeer, ontspanning en comfort met deze unieke geur.
   Updated: 2026-07-02T15:03:00Z
   Total Products: 0
-- [Huisparfum groene limoen – Fris, kruidig en aromatisch](https://geurfris.nl/collections/huisparfum-groene-limoen): Ontdek huisparfum groene limoen: fris, kruidig en aromatisch voor een levendige sfeer in huis met een natuurlijke en elegante geur.
-  Updated: 2026-07-02T15:24:20Z
+- [Verde Limon huisparfum: Een frisse citrusgeur met aromatische kruiden en warme amber](https://geurfris.nl/collections/huisparfum-groene-limoen): Ontdek Verde Limón huisparfum van Ambielectric. Een frisse geur met citrus, citroenverbena, salie, litsea cubeba en amber voor natuurlijke en luxe geurbeleving.
+  Updated: 2026-07-27T20:24:38Z
   Total Products: 0
-- [Huisparfum kaneelgeur? Canela – Warm, kruidig en verleidelijk](https://geurfris.nl/collections/huisparfum-kaneelgeur): Ontdek huisparfum kaneelgeur met Canela: warm, kruidig en verleidelijk. Creëer direct een sfeervol en uitnodigend interieur.
-  Updated: 2026-07-02T15:17:18Z
+- [Huisparfum kaneelgeur? Warme elegantie met een vleugje kaneel](https://geurfris.nl/collections/huisparfum-kaneelgeur): Ontdek huisparfum kaneelgeur met Canela: warm, kruidig en verleidelijk. Creëer direct een sfeervol en uitnodigend interieur.
+  Updated: 2026-07-27T06:44:13Z
   Total Products: 0
-- [Huisparfum Jasmijn – Bloemig, sensueel en verfijnd](https://geurfris.nl/collections/huisparfum-jasmijn): Ontdek huisparfum jasmijn voor een bloemige, sensuele sfeer in huis. Elegant, verfijnd en ideaal voor elke ruimte. Bezoek de shop en ervaar het.
-  Updated: 2026-07-02T15:12:13Z
+- [Een elegante jasmijngeur met zachte witte bloemen en een warme, sensuele basis](https://geurfris.nl/collections/huisparfum-jasmijn): Ontdek Jasmijn huisparfum van Ambielectric. Een elegante bloemengeur met jasmijn, honing, witte musk en sandelhout voor een luxe en langdurige geurbeleving.
+  Updated: 2026-07-27T17:28:34Z
   Total Products: 0
 - [Neutraliserende geuren – Weg met nare luchtjes, welkom frisse sfeer](https://geurfris.nl/collections/neutraliserende-geuren): Neutraliserende geuren helpen nare luchtjes snel weg te nemen en zorgen voor een frisse, aangename sfeer in huis, op kantoor of in elke ruimte.
-  Updated: 2026-07-08T21:29:18Z
-  Total Products: 7
-- [Ambielectric navullingen voor Star diffuser – Compacte kracht voor kleinere ruimtes](https://geurfris.nl/collections/ambielectric-star-navullingen): Ontdek Ambielectric navullingen voor kleinere ruimtes: compact, efficiënt en betrouwbaar. Ideaal voor een frisse geur en slimme geurverspreiding.
-  Updated: 2026-07-08T21:28:10Z
+  Updated: 2026-07-27T11:20:58Z
+  Total Products: 8
+- [Ambielectric navullingen voor Star diffuser – Compacte kracht voor kleinere ruimtes](https://geurfris.nl/collections/ambielectric-star-navullingen): Bestel Ambielectric Star navullingen voor geurverwijderaars en luxe huisparfums. Minimaal 30 dagen werking. Geschikt voor ruimtes tot 200 m³.
+  Updated: 2026-07-19T09:46:38Z
   Total Products: 5
 - [AVADA - Best Sellers](https://geurfris.nl/collections/avada-best-sellers): - GeurFris.nl
-  Updated: 2026-07-09T11:26:13Z
+  Updated: 2026-07-27T11:20:58Z
   Total Products: 72
 - [Geurmarketing is Geen Kostenpost, Maar een Directe ROI-Strategie. Verhoog Uw Verkoop tot 30%.](https://geurfris.nl/collections/geurmarketing): Ontdek hoe professionele geurmarketing uw omzet kan verhogen. Ervaar de kracht van Ambielectric en verleng de verblijfstijd door strategisch geurgebruik.
-  Updated: 2026-07-01T12:16:00Z
-  Total Products: 3
+  Updated: 2026-07-21T19:58:23Z
+  Total Products: 4
 - [Frisse Geuren voor Thuis en Werk - GeurFris](https://geurfris.nl/collections/frisse-geuren): Ontdek frisse geuren voor thuis en werk! Frisse geuren voor schoon, luchtig gevoel. Ideaal voor elke ruimte en geurverspreiders.
-  Updated: 2026-07-08T21:53:47Z
+  Updated: 2026-07-21T21:05:33Z
   Total Products: 14
 - [Fruitige Geuren voor Elke Ruimte - Energiek & Fris](https://geurfris.nl/collections/fruitige-geuren): Ontdek fruitige geuren die elke ruimte fris, energiek en uitnodigend maken. Perfect voor een vrolijke sfeer in huis.
-  Updated: 2026-07-08T21:54:37Z
+  Updated: 2026-07-19T09:54:15Z
   Total Products: 6
 - [Kalmerende Geuren voor Ontspanning en Rust](https://geurfris.nl/collections/kalmerende-geuren): Ontdek kalmerende geuren die helpen bij ontspanning, stress verminderen en een rustige sfeer creëren in huis, slaapkamer of werkruimte.
-  Updated: 2026-07-08T21:54:37Z
+  Updated: 2026-07-19T10:01:38Z
   Total Products: 13
 - [Bloemige Stopcontact Geuren voor een Elegante Sfeer](https://geurfris.nl/collections/bloemige-stopcontact-geuren): Ontdek bloemige stopcontact geuren voor een frisse, elegante sfeer in huis. Kies de juiste bloemige geur voor elke ruimte en stemming.
-  Updated: 2026-07-08T21:54:37Z
+  Updated: 2026-07-21T17:58:38Z
   Total Products: 13
 - [Houtachtige en Warme Geuren voor Luxe en Comfort](https://geurfris.nl/collections/houtachtige-warme-geuren): Ontdek houtachtige en warme geuren die luxe, rust en comfort brengen. Ideaal voor een sfeervolle, elegante en gezellige uitstraling.
-  Updated: 2026-07-08T21:42:47Z
+  Updated: 2026-07-21T20:58:28Z
   Total Products: 9
 - [Guerrillamarketing proefplaatsing? Verwelkom je klanten en medewerkers met de juiste geurbeleving](https://geurfris.nl/collections/geurmarketing-proefplaatsing-zakelijk): Ontdek hoe geurmarketing proefplaatsing klanten en medewerkers verwelkomt met een passende geurbeleving die merk, sfeer en comfort versterkt.
-  Updated: 2026-07-02T15:07:50Z
+  Updated: 2026-07-21T19:48:36Z
   Total Products: 1
 - [Effectieve dierengeurverwijderaars voor een fris huishouden](https://geurfris.nl/collections/segment-dierengeur-verwijderaars): Ontdek effectieve dierengeurverwijderaars voor een fris huishouden. Verwijder hardnekkige geuren snel en houd je woning aangenaam schoon.
-  Updated: 2026-07-08T11:22:56Z
-  Total Products: 3
+  Updated: 2026-07-27T11:20:58Z
+  Total Products: 4
+- [Effectieve oplossingen voor rookgeur verwijderen](https://geurfris.nl/collections/rookgeur-verwijderen): Ontdek effectieve methodes om rookgeur verwijderen van textiel en stoffen. Verfris uw meubels en kleding vandaag nog met onze tips en producten.
+  Updated: 2026-07-21T20:58:28Z
+  Total Products: 4
+- [Geurverwijderaars voor bedrijfsruimtes - Altijd fris](https://geurfris.nl/collections/bedrijfsruimte-geurverwijderaars): Houd kantoren, winkels en andere bedrijfsruimtes langdurig fris. Ontdek geurverwijderaars en luxe huisparfums voor een professionele geurbeleving.
+  Updated: 2026-07-21T19:58:23Z
+  Total Products: 5
+- [Complete geurverspreider Ambielectric Plus kits – Alles-in-één voor een frisse start](https://geurfris.nl/collections/complete-geurverspreider-ambielectric-plus): Creëer een fijne geurbeleving met complete geurverspreider kits. Bevat een hoogwaardige diffuser en navulling voor langdurig frisse resultaten.
+  Updated: 2026-07-27T11:20:58Z
+  Total Products: 6
+- [Complete geurverspreider kits voor kleinere ruimtes](https://geurfris.nl/collections/complete-geurverspreider-ambielectric-star-kits): Ontdek complete geurverspreider kits voor kleinere ruimtes. Inclusief hoogwaardige diffuser en navulling, creëer een langdurig frisse geurbeleving.
+  Updated: 2026-07-22T07:25:36Z
+  Total Products: 2
+- [Fuji huisparfum: Een frisse bloemengeur met mariene elegantie](https://geurfris.nl/collections/huisparfum-fuji): Ontdek Fuji huisparfum van Ambielectric. Een frisse geur met witte rozen, mariene noten, iris en warme houtaccenten. Voor een elegante geurbeleving in huis.
+  Updated: 2026-07-27T15:35:16Z
+  Total Products: 0
+- [Mango huisparfum: Een tropische fruitgeur vol zonnige frisheid en zachte vanille](https://geurfris.nl/collections/huisparfum-mango): Ontdek Mango huisparfum van Ambielectric. Een tropische geur met mango, meloen, grapefruit, aardbei, framboos en zachte vanille voor een frisse zomerse sfeer.
+  Updated: 2026-07-27T17:56:16Z
+  Total Products: 0
+- [Manzana Canela: Een warme fruitgeur met frisse appel, zoete aardbei en zachte kaneel](https://geurfris.nl/collections/huisparfum-appel-kaneel): Ontdek Appel & Kaneel huisparfum van Ambielectric. Een warme geur met appel, aardbei, kaneel en vanille voor een gezellige en luxe sfeer in huis.
+  Updated: 2026-07-27T18:18:04Z
+  Total Products: 0
 
 ## Blogs
 
@@ -880,7 +922,7 @@
 - [Luchtverfrisser kopen? Professionele geurverspreiders | Geurfris](https://geurfris.nl/pages/luchtverfrisser-kopen): Bij Geurfris.nl vind je professionele luchtverfrissers voor thuis, op kantoor of in je winkel. Onze geurverspreiders verbeteren niet alleen de luch...
   Updated: 2025-06-02T15:22:56Z
 - [Luchtverfrisser voor huisdieren – Verwijder katten- en hondengeur | Geurfris](https://geurfris.nl/pages/luchtverfrisser-voor-huisdieren): Heb je last van katten- of hondengeur in huis? Bij Geurfris.nl vind je professionele luchtverfrissers die dierengeuren effectief neutraliseren zond...
-  Updated: 2025-06-01T19:22:00Z
+  Updated: 2026-07-17T16:43:18Z
 - [Elektrische luchtverfrisser navulling kopen – Geurverspreiders | Geurfris](https://geurfris.nl/pages/elektrische-luchtverfrisser-navulling): Ben je op zoek naar een navulling voor je elektrische luchtverfrisser? Bij Geurfris.nl vind je professionele navullingen die zorgen voor een consta...
   Updated: 2025-06-07T18:29:55Z
 - [Luchtverfrisser kledingwinkel – Professionele geurverspreiding | Geurfris](https://geurfris.nl/pages/luchtverfrisser-voor-kledingwinkels): Professionele geurverspreiders die sfeer, merkbeleving en klantgedrag positief beïnvloeden Wil je dat klanten zich welkom voelen in je kledingzaak,...
