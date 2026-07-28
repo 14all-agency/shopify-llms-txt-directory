@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2023-04-20T18:23:43Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-18T00:00:37.479Z
+- Updated At: 2026-07-28T00:00:39.991Z
 
 ## Products
 
 - [Oil Pastel Tour Tee](https://store.rickymontgomery.com/products/oil-pastel-tour-tee): this is a hyper-realistic depiction of what i look like
-  Updated: 2026-07-08T20:54:03Z
+  Updated: 2026-07-18T14:00:29Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -46,7 +46,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Face Text Hoodie](https://store.rickymontgomery.com/products/ricky-montgomery-hoodie): these cute lil guys worked so hard to spell my name out so i put them on a hoodie
-  Updated: 2026-07-08T20:54:04Z
+  Updated: 2026-07-18T05:55:36Z
   Vendor: Ricky Montgomery
   Product Type: Hoodie
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMSettleDownLongSleeveBrown.png?v=1761661262
   Price: $40.00 USD
 - [Montgomery Ricky Vinyl](https://store.rickymontgomery.com/products/montgomery-ricky-vinyl): Released April 8, 2016. 1. This December2. Line Without a Hook3. Cabo4. Don't Know How5. Last Night6. California7. My Heart is Buried in Venice8. Mr. Loverman9. Get Used to It10. Snow
-  Updated: 2026-07-17T01:47:47Z
+  Updated: 2026-07-25T14:24:57Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
@@ -102,14 +102,14 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMRick-StandardVinyl-Black.png?v=1689969720
   Price: $25.00 USD
 - [Rick - CD](https://store.rickymontgomery.com/products/rick-cd): Track Listing One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Release Date: September 29, 2023
-  Updated: 2026-07-16T22:55:18Z
+  Updated: 2026-07-21T20:53:56Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RMRick-CD.png?v=1690228677
   Price: $15.00 USD
 - [Rick - Cassette](https://store.rickymontgomery.com/products/rick-cassette): Track Listing One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Release Date: September 29, 2023
-  Updated: 2026-07-08T20:54:07Z
+  Updated: 2026-07-19T17:07:55Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Truth Or Dare Tee](https://store.rickymontgomery.com/products/truth-or-dare-tee): triple dog dare you 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-08T20:54:08Z
+  Updated: 2026-07-18T04:42:59Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -175,7 +175,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/OvertimeTourToteFront.png?v=1700512725
   Price: $15.00 USD
 - [Overdrive Tee - Faded Brown](https://store.rickymontgomery.com/products/overdrive-tee): try the R1-CK today for improved tone and dynamic range! ★★★★★★ 100% heavyweight cotton, garment-dyed tee in Faded Brown Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-07-16T20:37:53Z
+  Updated: 2026-07-23T13:12:37Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -241,7 +241,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/AnotherRickIntheWallPoster.png?v=1712081926
   Price: $20.00 USD
 - [Rick(y) - Deluxe 2LP Vinyl](https://store.rickymontgomery.com/products/ricky-deluxe-2lp-vinyl): Double 12” Vinyl Limited run of 1,000 units Track Listing Disc One One Way Mirror Boy Toy Truth or Dare I’m Just Joking In This Interlude (interlude) In Your Pocket Don’t Say That Eraser We Got Married Twice (interlude) Type A Paper Towel Sometimes I Need To Be Alone Ethan’s Song Black Fins Ribbons (outro) Disc Two Here Comes the Moon Penny Come Home It's Ok to Cry Sorry for Me Talk to You Settle Down Same Shit (interlude) Reptilia Unknown Phantom Release Date: September 29, 2023
-  Updated: 2026-07-08T20:54:11Z
+  Updated: 2026-07-23T22:09:57Z
   Vendor: Ricky Montgomery
   Product Type: Music
   Availability: Available
@@ -290,7 +290,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Same Shit Crewneck](https://store.rickymontgomery.com/products/handdrawn-crewneck): it's in your hands 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-08T20:54:12Z
+  Updated: 2026-07-18T13:59:11Z
   Vendor: Ricky Montgomery
   Product Type: Crewneck
   Availability: Available
@@ -325,7 +325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/RM_VHS.png?v=1779907795
   Price: $34.99 USD
 - [Upside Down Long Sleeve](https://store.rickymontgomery.com/products/upside-down-long-sleeve): the blood is really rushing to my head 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-15T15:31:50Z
+  Updated: 2026-07-25T13:23:38Z
   Vendor: Ricky Montgomery
   Product Type: Long Sleeve
   Availability: Available
@@ -362,7 +362,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4275/0742/files/EraserBundle.png?v=1725567119
   Price: $10.00 USD
 - [Signs Tie-Dye Tee](https://store.rickymontgomery.com/products/picket-tie-dye-tee): those guys are going through it 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-09T02:30:44Z
+  Updated: 2026-07-18T14:16:50Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -539,7 +539,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Montgomery Ricky (Plus 3) Vinyl - Mushroom Cream/Picture Disc](https://store.rickymontgomery.com/products/montgomery-ricky-plus-3-vinyl-mushroom-cream-picture-disc): Celebrate a decade of Montgomery Ricky with this limited‑edition anniversary vinyl, Montgomery Ricky (Plus 3). This special pressing honors ten years of Ricky’s iconic debut album with three unreleased demos from the original 2016 writing sessions. The gatefold packaging showcases never‑before‑seen early album artwork sketches, offering a glimpse into the creative process behind the record. Side A is pressed on Mushroom Cream–colored vinyl and features the three newly released tracks. Side B is a collectible picture disc, displaying one of the original hand‑drawn sketches from the album’s early creative design. Limited pressing of 1,000 units Track Listing Side A Oh My My Some Kind of Man Object of Desire Side B Original Album Sketch Artwork Picture Disc Release Date: April 1, 2026
-  Updated: 2026-07-17T22:52:42Z
+  Updated: 2026-07-27T21:44:48Z
   Vendor: Ricky Montgomery
   Product Type: Vinyl
   Availability: Available
@@ -567,7 +567,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Line Without A Hook Tee](https://store.rickymontgomery.com/products/line-without-a-hook-tee): what do u think of my mace? i think it looks pretty cool 100% cotton t-shirt in ivory Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-16T13:32:20Z
+  Updated: 2026-07-19T17:07:51Z
   Vendor: Ricky Montgomery
   Product Type: Tee
   Availability: Available
@@ -609,7 +609,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Montgomery Ricky (Plus 3) Vinyl Bundle](https://store.rickymontgomery.com/products/montgomery-ricky-plus-3-vinyl-bundle): Get the original album plus the 3 new tracks, all in one convenient bundle! Montgomery Ricky (Plus 3) Celebrate a decade of Montgomery Ricky with this limited‑edition anniversary vinyl, Montgomery Ricky (Plus 3). This special pressing honors ten years of Ricky’s iconic debut album with three unreleased demos from the original 2016 writing sessions. Side A is pressed on Mushroom Cream–colored vinyl and features the three newly released tracks. Side B is a collectible picture disc, displaying one of the original hand‑drawn sketches from the album’s early creative design. Limited pressing of 1,000 units Track Listing Side A Oh My My Some Kind of Man Object of Desire Side B Original Album Sketch Artwork Picture Disc Release Date: April 1, 2026 Montgomery Ricky The album that started it all! This vinyl contains the original 1 Montgomery Ricky tracks, pressed on black vinyl. Track Listing This December Line Without a Hook Cabo Don't Know How Last Night California My Heart is Buried in Venice Mr. Loverman Get Used to It Snow
-  Updated: 2026-07-17T14:05:27Z
+  Updated: 2026-07-25T14:25:10Z
   Vendor: Ricky Montgomery
   Product Type: Bundle
   Availability: Available
@@ -675,19 +675,19 @@
 ## Collections
 
 - [Home page](https://store.rickymontgomery.com/collections/frontpage)
-  Updated: 2026-07-17T11:08:38Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 86
 - [Apparel](https://store.rickymontgomery.com/collections/apparel)
-  Updated: 2026-07-08T21:01:46Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 43
 - [Accessories](https://store.rickymontgomery.com/collections/accessories)
   Updated: 2026-07-10T11:12:09Z
   Total Products: 30
 - [All](https://store.rickymontgomery.com/collections/all)
-  Updated: 2026-07-17T11:08:38Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 89
 - [Tour](https://store.rickymontgomery.com/collections/tour)
-  Updated: 2026-07-10T11:12:09Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 28
 - [OG Collection](https://store.rickymontgomery.com/collections/og-collection)
   Updated: 2026-07-08T21:01:42Z
@@ -699,28 +699,28 @@
   Updated: 2026-07-08T20:29:09Z
   Total Products: 0
 - [Music](https://store.rickymontgomery.com/collections/music)
-  Updated: 2026-07-17T11:08:38Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 16
 - [almost gone](https://store.rickymontgomery.com/collections/almost-gone)
-  Updated: 2026-07-10T11:12:09Z
-  Total Products: 11
+  Updated: 2026-07-26T11:08:39Z
+  Total Products: 12
 - [New Arrivals](https://store.rickymontgomery.com/collections/new)
-  Updated: 2026-07-17T11:08:38Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 89
 - [Rick](https://store.rickymontgomery.com/collections/rick)
-  Updated: 2026-07-17T11:08:38Z
+  Updated: 2026-07-20T11:07:10Z
   Total Products: 7
 - [Just In](https://store.rickymontgomery.com/collections/just-in)
   Updated: 2026-07-08T21:01:24Z
   Total Products: 12
 - [Montgomery Ricky](https://store.rickymontgomery.com/collections/montgomery-ricky)
-  Updated: 2026-07-17T11:08:38Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 15
 - [Another Rick in the Wall](https://store.rickymontgomery.com/collections/another-rick-in-the-wall)
-  Updated: 2026-07-10T11:12:09Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 11
 - [Rick(y)](https://store.rickymontgomery.com/collections/ricky)
-  Updated: 2026-07-08T21:01:32Z
+  Updated: 2026-07-24T11:09:10Z
   Total Products: 6
 - [One Rick To Rule Them All](https://store.rickymontgomery.com/collections/one-rick-to-rule-them-all)
   Updated: 2026-07-08T21:01:41Z
@@ -732,19 +732,19 @@
   Updated: 2026-07-08T20:29:11Z
   Total Products: 2
 - [](https://store.rickymontgomery.com/collections/)
-  Updated: 2026-07-10T11:12:09Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 21
 - [Old Favorites. New Colors.](https://store.rickymontgomery.com/collections/old-favorites-new-colors)
-  Updated: 2026-07-08T21:01:20Z
+  Updated: 2026-07-24T11:09:10Z
   Total Products: 4
 - [Best Sellers](https://store.rickymontgomery.com/collections/bestsellers)
-  Updated: 2026-07-17T11:08:38Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 89
 - [On Tour Forever](https://store.rickymontgomery.com/collections/on-tour-forever)
   Updated: 2026-07-08T20:29:11Z
   Total Products: 1
 - [EasyGift All Products](https://store.rickymontgomery.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-07-17T11:08:38Z
+  Updated: 2026-07-26T11:08:39Z
   Total Products: 89
 - [10 Year Tour Merch](https://store.rickymontgomery.com/collections/10-year-tour-merch)
   Updated: 2026-07-08T21:01:26Z
