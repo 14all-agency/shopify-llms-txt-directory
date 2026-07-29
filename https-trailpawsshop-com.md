@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-05T00:15:21Z
 - Contact Email: info@trailpawsshop.com
-- Updated At: 2026-07-20T00:00:37.272Z
+- Updated At: 2026-07-29T00:00:39.279Z
 
 TrailPaws is an online store specializing in outdoor and adventure gear for dogs and cats. We  hiking harnesses, trail leashes, cooling vests, life jackets, paw protection, carriers, and grooming/cleaning products designed for pet owners who hike, camp, and explore outdoors with their animals.
 
@@ -52,7 +52,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/1620789164894.jpg?v=1780712265
     Price: $19.99 USD
 - [Reflective No-Pull Dog Hiking Harness – High-Visibility | TrailPaws](https://trailpawsshop.com/products/reflective-dog-harness): No-pull reflective dog hiking harness with high-visibility strips for dawn & dusk trails. Durable nylon, adjustable fit. Multiple sizes & colors. Shop now.
-  Updated: 2026-07-16T19:46:26Z
+  Updated: 2026-07-27T09:46:37Z
   Vendor: TrailPaws
   Product Type: Dog Harnesses
   Availability: Available
@@ -1160,7 +1160,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/80197880-e0fb-4c03-a101-334a7f1e578c.jpg?v=1781233768
     Price: $39.99 USD
 - [AirTag Dog Collar with Leather Case – GPS Tracker Holder | TrailPaws](https://trailpawsshop.com/products/airtag-leather-case-collar): Durable leather AirTag dog collar keeps your GPS tracker secure on every adventure. Stylish & functional. Multiple sizes & colors for all breeds.
-  Updated: 2026-07-17T08:51:26Z
+  Updated: 2026-07-27T09:46:38Z
   Vendor: TrailPaws
   Product Type: Dog Collars
   Availability: Available
