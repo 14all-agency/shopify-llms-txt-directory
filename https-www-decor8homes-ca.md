@@ -6,471 +6,562 @@
 - Timezone: America/Toronto
 - Created At: 2025-08-10T20:26:08Z
 - Contact Email: decor8homesinc@gmail.com
-- Updated At: 2026-06-18T06:00:03.304Z
+- Updated At: 2026-07-29T00:00:27.501Z
 
 ## Products
 
 - [Modern Black Abstract Sculpture – Luxury Table Decor Accent](https://www.decor8homes.ca/products/elegant-abstract-black-sculpture-modern-art-piece-for-home-decor): ✨ Elevate Any Space Instantly Bring modern sophistication into your home with this elegant black abstract sculpture. Designed to create a bold yet refined statement, it fits beautifully in living rooms, bedrooms, offices, and entryways. Its minimalist silhouette and timeless matte black finish make it the perfect accent piece for modern interiors. ✔ Why You'll Love It Premium modern design Elegant matte black finish Perfect for shelves, tables & consoles Ideal for home or office styling Easy to match with any decor theme 📏 Best For: Living room shelves Coffee tables Office desks Bedroom side tables Entryway styling
-  Updated: 2026-06-18T05:12:31Z
+  Updated: 2026-07-02T04:16:59Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM004-3.png?v=1781111973
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM004-3.jpg?v=1782485766
   Price: $39.99 CAD
 - [The Abstract Stallion Horse Wall Art – Strength Sculpted in Motion | Modern Abstract Animal Art Print for Living Room, Office & Gallery Decor](https://www.decor8homes.ca/products/elegant-black-polystone-horse-sculpture-modern-artistic-decor): The Abstract Stallion: Strength sculpted in motion.Bold yet refined, The Abstract Stallion embodies power, grace, and modern artistry. Its fluid, layered design captures the essence of movement — a horse mid-stride, frozen in sleek precision. Crafted entirely in deep matte black, this piece is both commanding and minimalist, making it the perfect statement for contemporary interiors.Every ridge and curve reflects light in subtle variations, creating depth and texture that draw the eye from every angle. The Abstract Stallion symbolizes freedom, ambition, and quiet strength — a conversation piece that brings art-gallery energy to any living room, hallway, or office.Ideal for those who appreciate sculpture that blends bold design with timeless meaning, this piece transforms any setting into a showcase of taste and imagination. Key Features:• Captures horse in motion• Bold and refined design• Matte black premium resin• Embodies freedom, ambition, and strength Care & Maintenance:Dust with soft cloth; keep away from direct sunlight
-  Updated: 2026-06-18T05:12:31Z
+  Updated: 2026-07-02T04:17:12Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM052-3_eb127530-095c-4236-88f8-5b3defb49ad6.png?v=1781111961
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM052-3_eb127530-095c-4236-88f8-5b3defb49ad6.png?v=1782484101
   Price: $39.99 CAD
 - [Matte Black Horse Bust Statue – Modern Equestrian Tabletop Decor](https://www.decor8homes.ca/products/matte-black-horse-bust-statue-modern-equestrian-tabletop-decor): Elevate your home décor with this stunning matte black horse bust statue, a contemporary art piece that brings powerful elegance and dramatic sophistication to any interior space. Key Points: Modern horse head sculpture with sleek matte black finish Hand-crafted equestrian art piece showcasing realistic stallion details Perfect tabletop décor for entryways, offices, living rooms, and bookshelves Contemporary home décor statement piece for art enthusiasts Complements modern, minimalist, transitional, rustic, and industrial interiors Design Care & Maintenance: Wipe gently with soft microfiber cloth Avoid harsh chemical cleaners and abrasive pads Indoor display only Maintains pristine matte finish with proper care
-  Updated: 2026-06-18T05:52:35Z
+  Updated: 2026-07-02T04:17:00Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/1d39f656680544f093fad46e8a48304b.png?v=1781761895
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM009-3.jpg?v=1782485766
   Price: $99.99 CAD
 - [Abstract Kissing Couple Statue – Matte Black Romantic Lovers Sculpture](https://www.decor8homes.ca/products/abstract-kissing-couple-statue-matte-black-romantic-lovers-sculpture): Capture the timeless essence of romance and contemporary artistry with this exquisite Abstract Kissing Couple Statue. This striking tabletop sculpture beautifully depicts two lovers shared in an intimate embrace, their faces seamlessly merging through fluid, flowing lines to form a breathtaking symbol of unity, passion, and deep connection. Crafted with a sleek, monochromatic matte black finish, this art piece leverages light and shadow to showcase its deep contours and elegant negative space. Anchored on a clean, matching square pedestal block, it stands as a commanding focal piece. Elevate your interior styling by featuring it on a living room mantle, master bedroom dresser, entryway console, or an office bookshelf. This romantic figurine serves as a powerful statement of modern luxury and makes an unforgettable gift for weddings, anniversaries, or housewarmings. Key Features Modern Abstract Artistry: Elegant minimalist design using fluid shapes and negative space to convey a powerful romantic narrative. Premium Matte Finish: The velvet-like matte black coat subtly absorbs light, emphasizing the sculpture's dramatic curves and contours. Elevated Pedestal Display: Set upon a clean, weighted block base that ensures excellent stability while providing a gallery-worthy presentation. The Ultimate Romantic Gift: A deeply meaningful gesture perfect for celebrating anniversaries, engagements, weddings, or Valentine's Day. Care & Maintenance Wipe gently with a soft, dry microfiber cloth to keep the surface clear of dust and oils. Avoid using wet towels, harsh chemical cleansers, or abrasive tools, which can alter the matte texture. Recommended for indoor display only.
-  Updated: 2026-06-18T05:12:31Z
+  Updated: 2026-07-02T04:17:00Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM011-1.png?v=1781112072
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM011-1.jpg?v=1782485765
   Price: $169.99 CAD
 - [Greek Goddess Bust Statue – Matte Black Classical Roman Venus Sculpture](https://www.decor8homes.ca/products/greek-goddess-bust-statue-matte-black-classical-roman-venus-sculpture): Evoke the timeless grandeur of classical antiquities with a bold, contemporary twist. This striking Greek Goddess Bust Statue beautifully merges traditional Roman and Hellenistic art with modern minimalist design. Capturing a profile of serene grace, the sculpture highlights a goddess with intricately styled, wavy hair gathered in a classic bun, draped in elegant, flowing robes.Finished in a premium monochromatic matte black, the smooth porcelain-like surface absorbs light to showcase the soft contours of her face and the deep dramatic folds of her attire. The bust is supported by an ornate, highly detailed Corinthian-style pedestal base complete with acanthus leaves and scrollwork. Perfect for anchoring an entryway console table, accenting a living room bookshelf, or bringing classic luxury to a home office desk, this historical art piece redefines modern sophisticated decor. Key Features: Classical Hellenistic Design: Features precise, museum-quality detailing inspired by traditional sculptures of Venus and ancient Greek goddesses. Sleek Matte Black Finish: A rich matte coat lends a moody, high-end gallery aesthetic that contrasts beautifully against light backgrounds. Ornate Corinthian Pedestal: Set on an intricately carved architectural column base, providing an elevated, majestic stance and superior stability. Versatile Luxury Accent: Effortlessly bridges the gap between classic dark academia, moody modern interiors, and minimalist luxury styles. Care & Maintenance: Wipe gently with a clean, dry microfiber cloth to remove dust and fingerprints. Avoid the use of liquid detergents, water, or abrasive cleaning pads to protect the delicate matte finish. Recommended strictly for indoor tabletop display.
-  Updated: 2026-06-18T05:12:32Z
+  Updated: 2026-07-02T04:16:59Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM014-7.png?v=1781112081
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM014-1.jpg?v=1782485765
   Price: $59.99 CAD
 - [The Modern David in Black – Classical Renaissance Sculpture Reimagined in Contemporary Monochrome | Luxury Modern Wall Art Print for Living Room, Bedroom, Office & Gallery Decor](https://www.decor8homes.ca/products/13): The Modern David: Classic art, reimagined in black.A bold reinterpretation of timeless artistry, The Modern David blends Renaissance form with contemporary minimalism. Sculpted in deep matte black, it transforms a classical icon into a statement of modern sophistication and strength.Perfect for console tables, bookshelves, or artistic corners, this bust adds depth and luxury to any setting. Its sleek finish reflects light subtly, highlighting every contour of the sculpture’s expressive detail — merging history with modern design. Key Features:• High-quality tin sculpture• Sleek black finish• Abstract geometric design• Handcrafted artistry Care & Maintenance:Clean with soft dry cloth; avoid water exposure
-  Updated: 2026-06-18T05:12:32Z
+  Updated: 2026-07-02T04:17:00Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM015-1.png?v=1781111962
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM015-10.jpg?v=1782485765
   Price: $59.99 CAD
 - [Silver and Gold Horse Bust Statue – Luxury Equestrian Tabletop Décor](https://www.decor8homes.ca/products/silver-and-gold-horse-bust-statue-luxury-equestrian-tabletop-decor): Introduce an element of classic majesty and refined luxury to your living space with this exquisite Silver and Gold Horse Bust Statue. This stunning accent piece beautifully captures the noble spirit, intricate bridle details, and powerful grace of a stallion. It features a brilliant metallic silver body seamlessly contrasted with radiant gold highlights along the dynamic crest of its mane and contours of its neck.Exquisitely molded for a lifelike, high-end gallery appearance, this horse head figurine is anchored atop a tiered, high-gloss piano black pedestal base. It makes a grand statement when placed on an entry console table, an office executive desk, a study shelf, or a living room mantelpiece. A perfect crossover of heritage charm and modern metallic accents, this premium sculpture is an exceptional gift for equestrian lovers, collectors, and connoisseurs of fine home decor alike. Key Features: Dual-Tone Luxury Finish: Shimmering metallic silver paired with antiqued gold accents creates an eye-catching interplay of light and texture. Intricate Equestrian Detailing: Beautifully highlights textured details from the flowing mane to the refined buckles of the sculpted bridle. Polished Pedestal Base: Raised on a steady, high-gloss black structural plinth that brings a sleek, museum-grade presentation to flat surfaces. Sophisticated Showpiece: Effortlessly coordinates with traditional, transitionally modern, Hollywood regency, or luxury farmhouse interior styles. Care & Maintenance: Wipe gently with a soft, dry microfiber cloth to maintain the metallic brilliance and prevent dust buildup. Avoid using abrasive pads, chemical solvents, or water, which may break down the delicate silver and gold surface plating. Designed for indoor display only.
-  Updated: 2026-06-18T05:12:32Z
+  Updated: 2026-07-02T04:16:59Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM016-8.png?v=1781112070
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM016-8.png?v=1782484109
   Price: $49.99 CAD
 - [Silver Winged Angel Statue – Sitting Angel Figurine Tabletop Décor](https://www.decor8homes.ca/products/silver-winged-angel-statue-sitting-angel-figurine-tabletop-decor): Bring a touch of celestial beauty, comfort, and timeless elegance into your home with this stunning Silver Winged Angel Tabletop Sculpture. This beautifully detailed piece features a serene angel in a seated position of deep contemplation, her magnificent, layered feathers wrapping gently around her form to capture a moment of quiet grace and spiritual reflection.Finished in a bright metallic silver with subtle antiqued burnish highlights, this sculpture boasts a lovely depth that accentuates the fine, intricate textures of her wings and drapery. Resting securely on its built-in sculpted base, it makes a perfect focal piece for a living room mantel, bedroom dresser, entryway console, or home office shelf. Whether you are creating a calming sanctuary in your own living space or looking for a deeply meaningful, heartfelt gift, this angelic figurine brings sophisticated style to any setting. Key Features: Intricate Metallic Artistry: Exquisitely sculpted details on the feathers and folded robe offer a premium, lifelike gallery look. Elegant Two-Tone Shimmer: A striking silver body combined with delicate dark antiquing highlights the deep textures and contours. Sturdy Stable Base: Carefully weighted and sculpted flat at the bottom to sit perfectly flat on any tabletop or shelf. Meaningful Accent & Gift: A comforting and thoughtful gift choice for housewarmings, holidays, memorials, or any lover of classic angelic decor. Care & Maintenance: Wipe gently with a soft, dry microfiber cloth to keep the metallic surface shiny and free of dust. Avoid using wet towels, harsh chemical cleansers, or abrasive pads, which may compromise the silver finish.Designed for indoor display only.
-  Updated: 2026-06-18T05:12:32Z
+  Updated: 2026-07-02T04:17:06Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM017-10.png?v=1781112064
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM017-10.png?v=1782484107
   Price: $39.99 CAD
 - [Luxury Hat Lady Sculpture – Elegant Home Decor Accent](https://www.decor8homes.ca/products/luxury-hat-lady-sculpture-elegant-home-decor-accent): ✨ Elevate Your Space with Timeless Elegance Bring sophistication and modern charm into your home with this luxury hat lady sculpture. Designed to stand out on console tables, shelves, dressers, or office spaces, this statement piece instantly adds a refined designer touch. Its elegant silhouette and premium finish make it the perfect accent for modern interiors. ✔ Why You'll Love It Luxury statement decor piece Premium modern finish Ideal for living room, bedroom, office Eye-catching conversation starter Perfect gift for decor lovers 📏 Best Placement: Entryway console Living room shelf Bedroom dresser Office desk 🚚 Shipping: Fast delivery across Canada
-  Updated: 2026-06-18T05:12:32Z
+  Updated: 2026-07-02T04:17:18Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM018-1.png?v=1781111949
   Price: $79.99 CAD
 - [The Royal Bond Tabletop Art – More Than Decor, a Story of Forever | Luxury Symbolic Art Print for Living Room, Bedroom & Gallery Decor](https://www.decor8homes.ca/products/18): The Royal Bond: More than decor — a story of forever.Sculpted with grace and metallic brilliance, The Royal Bond captures devotion that words can’t express.A masterpiece of emotion and artistry, The Royal Bond freezes an intimate moment in time — where love transcends form and becomes sculpture. With its fluid contours and radiant tones of gold and silver, it radiates passion, purity, and timeless connection.Every curve whispers the story of two souls bound by affection, evoking elegance and warmth in every glance. The gentle kiss symbolizes devotion, while the regal detailing adds a luxurious touch that complements both modern and classic interiors.Perfect for bedrooms, living spaces, or as a heartfelt gift, The Royal Bond stands as an enduring tribute to love — sculpted beautifully for those who believe in forever. Key Features:• Premium resin sculpture• Gold & silver metallic accents• Represents love and devotion• Luxury décor for modern and classic interiors Care & Maintenance:Wipe gently; avoid water or harsh cleaning agents
-  Updated: 2026-06-18T05:12:32Z
+  Updated: 2026-07-02T04:17:18Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM020-1.png?v=1781111941
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM020-1.jpg?v=1782486629
   Price: $39.99 CAD
-- [Abstract Embracing Couple Metallic Statue](https://www.decor8homes.ca/products/abstract-embracing-couple-metallic-statue): Bring a touch of celestial beauty, comfort, and timeless elegance into your home with this stunning Silver Winged Angel Tabletop Sculpture. This beautifully detailed piece features a serene angel in a seated position of deep contemplation, her magnificent, layered feathers wrapping gently around her form to capture a moment of quiet grace and spiritual reflection.The sculpture boasts a striking metallic silver finish enriched with antique highlights, accentuating every delicate ridge of her wings and the soft contours of her form. Perfect for creating a peaceful sanctuary in any room, this ethereal accent piece makes a deeply meaningful gift for loved ones or a beautiful addition to your own seasonal or year-round decor. Key Features: Exquisite Detailing: Intricately sculpted layered wings wrap gracefully around a seated angel, capturing a lifelike sense of peace and reflection. Antique Silver Finish: The premium metallic silver coating features sophisticated antique highlights that bring out the deep textures and fine craftsmanship. Serene Ambience: Instantly introduces a calming, spiritual, and elegant presence to your living space. Versatile Placement: Perfectly sized to serve as a stunning focal point on a tabletop, display shelf, bedroom dresser, or fireplace mantel. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to maintain the metallic luster. Keep away from moisture and avoid harsh liquid chemicals or abrasive materials to protect the antique finish.
-  Updated: 2026-06-18T05:49:21Z
+- [Abstract Embracing Couple Metallic Statue](https://www.decor8homes.ca/products/abstract-embracing-couple-metallic-statue): A Unique Artistic Statement for Your Home Infuse your living space with celestial beauty and timeless elegance through this distinctive metallic sculpture. Designed as a singular art piece, it offers a unique focal point that speaks to refined taste and a passion for creative decor. Crafted with meticulous attention to detail, this statue embodies sophisticated artistry. The fine craftsmanship is evident in every curve and contour, reflecting a dedication to creating pieces that are both visually stunning and emotionally resonant, transforming any room into a serene sanctuary. Constructed from premium metallic materials, this sculpture boasts a striking silver finish. This is further enhanced by subtle antique highlights, which accentuate the intricate textures and delicate sculpting of the piece, ensuring it stands out as a testament to premium materials and design. Intricate Sculpting: Features exquisitely detailed, layered wings gracefully enveloping a serene figure, capturing a moment of quiet contemplation and spiritual reflection. Antique Silver Finish: A sophisticated metallic silver coating is enriched with antique highlights, bringing out the depth of texture and the meticulous craftsmanship. Serene Ambiance Creator: Instantly introduces a calming, elegant, and spiritual presence, enhancing the peaceful atmosphere of your home decor. Symbol of Connection: The "embracing couple" motif, interpreted through an angelic form, conveys themes of unity, contemplation, and shared presence, adding profound meaning to your space. Elegant Statement Piece: The abstract design and refined finish make it a perfect accent for tabletops, shelves, or mantels, signifying a modern artistic sensibility. Key Features and Benefits: Exclusivity and Prestige This abstract sculpture is more than just home decor; it's a piece that signifies exclusivity and elevates the prestige of your collection. Its unique design and superior finish make it a conversation starter and a beautiful addition to any discerning household.
+  Updated: 2026-07-02T04:17:17Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/d426fa0db15345baafd6221654b16237.png?v=1781761707
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM021-11.jpg?v=1782485778
   Price: $37.99 CAD
 - [Elegant Abstract Female Bust Metallic Statue](https://www.decor8homes.ca/products/elegant-abstract-female-bust-metallic-statue): Capture the essence of grace, femininity, and contemporary art with this stunning abstract female bust sculpture. Beautifully contoured to emphasize fluid lines and a sophisticated silhouette, this statue portrays a serene woman in a gentle, expressive pose. The cascading hair and elegant positioning of the arms create an exquisite sense of movement and modern allure, making it a captivating visual focal point for any upscale interior.Crafted with a sleek metallic silver finish and accented by rich gold highlights along the curves and shadows, this piece interacts beautifully with light to bring depth and luxury to your decor. Perfectly balanced with a smooth, self-standing base, it bridges the gap between high-end gallery aesthetics and home design. It serves as a striking addition to your living room console, bedroom dresser, or office shelf, and makes a sophisticated gift for art enthusiasts and collectors alike. Key Features: Sensual Modern Aesthetic: Flowing abstract lines celebrate the elegance and grace of the female form. Luminous Two-Tone Finish: Premium metallic silver base paired with warm gold highlights provides an eye-catching, radiant sheen. Intricate Detail Work: Beautifully sculpted flowing hair and expressive posturing create dimension from every viewing angle. Upscale Decor Accent: Effortlessly elevates modern, minimalist, luxury, or transitional home interiors. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to preserve the metallic luster. Avoid the use of harsh chemical cleaners, liquids, or abrasive pads to protect the delicate finish.
-  Updated: 2026-06-18T05:12:33Z
+  Updated: 2026-07-02T04:17:17Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM022-10.png?v=1781112278
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM022-10.jpg?v=1782485776
   Price: $51.99 CAD
 - [Majestic Galloping Horse Matte Black Statue](https://www.decor8homes.ca/products/majestic-galloping-horse-matte-black-statue): Embody the spirit of freedom, strength, and untamed power with this magnificent galloping horse sculpture. Meticulously designed to capture the breathtaking motion of a stallion in mid-stride, this statue showcases exceptional muscle definition, a wind-swept mane, and a flowing tail. The dynamic pose creates an immediate sense of energy and momentum, making it a bold, statement-making piece for your interior space.Finished in a sophisticated matte black, this sculpture strips away distractions to focus purely on form, shadow, and silhouette. The sleek monochromatic look ensures it fits flawlessly into ultra-modern, minimalist, industrial, or classic office and home settings. Set upon an integrated, textured ground-style base for absolute stability, this powerful horse statue serves as a striking accent for an executive desk, a living room mantel, or a grand entryway console. Key Features: Dynamic Motion Design: Captures the lifelike grace, speed, and raw muscular power of a horse in full gallop. Sleek Matte Black Finish: A refined modern finish that creates dramatic silhouettes and highlights fine sculpted details. Integrated Textured Base: Crafted with a sturdy, built-in terrain-style base that provides exceptional balance and structural support. Commanding Statement Piece: Brings an aura of success, ambition, and timeless elegance to any workspace or home living area. Care & Maintenance: Wipe gently with a soft, dry microfiber cloth or a feather duster to keep the matte surface free of dust. Avoid damp cloths, liquid polishes, or chemical cleaners, as they can alter or smudge the matte finish.
-  Updated: 2026-06-18T05:12:33Z
+  Updated: 2026-07-02T04:17:31Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM024-16.png?v=1781112271
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM024-16.jpg?v=1782485777
   Price: $139.99 CAD
 - [Modern Abstract Sitting Woman Matte Black Statue](https://www.decor8homes.ca/products/modern-abstract-sitting-woman-matte-black-statue): Introduce an element of haute couture gallery art to your living space with this striking abstract sitting woman sculpture. Masterfully designed with exaggerated proportions, this shelf-sitter piece features elongated arms and an elegantly minimalist silhouette that celebrates the beauty of contemporary form. The poised, seated posture allows it to rest seamlessly over the edge of a shelf, mantel, or console table, adding a unique architectural dimension to your home.Boasting a premium matte black finish, the sculpture uses clean lines and dramatic shadows to create a sophisticated, high-contrast look. Its monochromatic style blends effortlessly into ultra-modern, industrial, minimalist, or transitional design schemes. Whether placed on a living room bookshelf or as an eye-catching accent in a chic entryway, this evocative figurine brings an immediate sense of mood and modern luxury to any room. Key Features: Unique Shelf-Sitter Design: Engineered to gracefully perch over the edge of flat surfaces, creating an intriguing visual display. Elongated Abstract Silhouette: Bold minimalist proportions offer a distinctive, gallery-inspired aesthetic. Sophisticated Matte Black Finish: Absorbs light beautifully to emphasize the smooth, dramatic contours of the sculpture. Versatile Decor Appeal: Perfectly complements contemporary home offices, minimalist living spaces, and luxury bookshelf layouts. Care & Maintenance: Dust gently with a soft, dry microfiber cloth or feather duster to keep the surface pristine. Avoid damp cloths, water, or harsh household detergents to prevent spotting on the matte finish.
-  Updated: 2026-06-18T05:12:33Z
+  Updated: 2026-07-02T04:17:17Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM025-8.png?v=1781112274
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM025-8.jpg?v=1782485776
   Price: $59.99 CAD
 - [Silent Muse Sculpture – Modern Black Statement Decor](https://www.decor8homes.ca/products/silent-muse-sculpture-modern-black-statement-decor): ✨ Add Instant Sophistication to Your Space Elevate your home with this striking modern black face sculpture. Its sleek silhouette and minimalist design make it the perfect statement piece for living rooms, bedrooms, offices, and condos. Whether placed on a shelf, console table, or desk, it instantly creates a calm and luxurious atmosphere. ✔ Why You'll Love It Modern designer-inspired aesthetic Elegant matte black finish Perfect for shelves, tables & desks Fits minimalist and luxury interiors Eye-catching conversation piece 📍 Perfect For: Living room styling Bedroom dresser Office desk Condo shelf decor 🚚 Shipping: Fast delivery across Canada 🔒 Checkout: Secure payment + trusted support
-  Updated: 2026-06-18T05:12:33Z
+  Updated: 2026-07-02T04:17:17Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM026-7.png?v=1781111930
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM026-7.jpg?v=1782485781
   Price: $59.99 CAD
 - [Musician Guitarist Tabletop Bust Statue](https://www.decor8homes.ca/products/musician-guitarist-tabletop-bust-statue): Celebrate the soul, energy, and passion of live music with this stunning guitarist tabletop bust sculpture. Exquisitely crafted to capture a performer in the heat of a song, this statue features intricate textures from the realistic folds of his denim blue shirt to the finely detailed acoustic guitar. The expressive facial features and dynamic posturing beautifully convey a sense of rhythm and artistic devotion, making it a perfect conversation piece for music lovers.The sculpture breaks away from standard monochromes by blending a deep blue hue with brilliant metallic gold skin tones and silver hair accents. Supported by a sleek, elevated black block pedestal, it offers a gallery-worthy display that commands attention. Whether you are looking to add some personality to your recording studio, liven up a living room bookshelf, or gift something special to the musician in your life, this statue stands out as a unique tribute to creative expression. Key Features: Passionate Performance Design: Artfully captures a musician mid-strum, bringing a lively, rhythmic energy to your room layout. Rich Multi-Tone Palette: Combines a textured blue shirt with radiant metallic gold and silver details for an eye-catching look. Elevated Pedestal Base: Rests securely upon a clean, square black display block that matches modern and classic aesthetics alike. The Perfect Gift for Musicians: An ideal, deeply personal decorative piece for guitarists, songwriters, music instructors, and collectors. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to keep the metallic and colored details looking vibrant. Do not apply wet cloths, water, or chemical household spray cleaners to protect the multi-tone painted finish.
-  Updated: 2026-06-18T05:12:34Z
+  Updated: 2026-07-02T04:17:31Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM035-14.png?v=1781112283
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM035-14.jpg?v=1782485784
   Price: $89.99 CAD
 - [Musician Saxophonist Tabletop Figurine](https://www.decor8homes.ca/products/musician-saxophonist-tabletop-figurine): Infuse your home with the soulful, rhythmic vibes of vintage jazz with this captivating saxophonist tabletop figurine. Standing in a dynamic, mid-performance stance, this beautifully sculpted statue depicts a dapper jazz musician lost in the melody of his golden saxophone. From the tailored folds of his deep blue suit jacket and classic necktie to his striking red dress shoes, every detail is carefully rendered to celebrate the rich history and timeless style of musical performers.The sculpture stands out with its intricate multi-tone hand-painted finish, blending rich textures and subtle metallic highlights that catch the light beautifully from any angle. Rooted by a unique, crescent-shaped slate-textured display base, it provides an immediate conversation piece wherever it rests. Whether placed in a home theater, a music studio, a living room mantel, or gifted to a fellow jazz enthusiast, this expressive figurine is a beautiful tribute to the passion of live performance. Key Features: Dynamic Jazz Aesthetic: Intricately captures the fluid movement and style of a classic saxophonist mid-performance. Detailed Hand-Painted Craftsmanship: Features a rich color palette blending a deep blue suit, a golden saxophone, and vibrant red shoe accents. Textured Crescent Base: Supported by an artistic, curved slate-style base that enhances structural stability and visual appeal. An Inspiring Gift Choice: The ultimate decorative statement piece for jazz lovers, saxophonists, music educators, and art collectors alike. Care & Maintenance: Dust gently with a soft, dry microfiber cloth or feather duster to preserve the hand-painted details. Avoid contacting with water, damp cloths, or harsh chemical sprays to prevent spotting or fading on the painted finish.
-  Updated: 2026-06-18T05:12:34Z
+  Updated: 2026-07-02T04:17:36Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM037-13.png?v=1781112447
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM037-13.jpg?v=1782485785
   Price: $79.99 CAD
 - [The Visionary – Art That Moves with Ambition | Modern Luxury Wall Art Print for Living Room, Office, Studio & Contemporary Home Decor](https://www.decor8homes.ca/products/35): Elegance in Motion: Stunning Abstract Sculpture for Modern Home Decor - Adds creative sophistication with a sleek black finish. Perfect centerpiece for any space. Shop now!
-  Updated: 2026-06-18T05:12:34Z
+  Updated: 2026-07-02T16:12:06Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM039-1.png?v=1781111755
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM039-1.jpg?v=1782485786
   Price: $79.99 CAD
 - [Modern Abstract Fragmented Soccer Player 15-Inch Tabletop Figurine – Contemporary Resin Sports Statue for Home and Office Décor](https://www.decor8homes.ca/products/modern-abstract-fragmented-soccer-player-15-inch-tabletop-figurine-contemporary-resin-sports-statue-for-home-and-office-decor): Celebrate the soul, energy, and passion of live sports with this stunning soccer player tabletop sculpture. Exquisitely crafted to capture a performer in the heat of a game, this statue features intricate textures from the realistic folds of his weathered blue jersey to the rugged, dynamic details of his stance. Utilizing a captivating, avant-garde "fragmented" design, it masterfully plays with negative space by leaving portions of the torso and leg completely invisible, creating a powerful surrealist aesthetic. Caught mid-stride while focused intently on the game, this beautifully sculpted athlete serves as an inspiring statement piece—perfect for infusing any home office, living room mantel, or trophy showcase with a modern, athletic spirit. Key Features: Avant-Garde Fragmented Design: Masterfully utilizes negative space with missing segments of the torso and leg, creating a striking "invisible man" illusion that instantly draws the eye.Intricate Textures & Details: Features lifelike folds in the jersey and shorts alongside a classically paneled soccer ball, showcasing premium artistic craftsmanship. Dynamic Athletic Spirit: Captures the focus and momentum of a soccer player mid-stride, bringing an energetic yet sophisticated vibe to your decor. Versatile Placement: An ideal focal piece that seamlessly fits onto modern office desks, living room mantels, bookshelves, or dedicated sports memorabilia showcases. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to preserve the textured, hand-painted finish. Avoid exposure to direct moisture, harsh liquid chemicals, or abrasive cleaning tools to protect the color and metallic accents.
-  Updated: 2026-06-18T05:12:34Z
+  Updated: 2026-07-02T04:17:37Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM041-4.png?v=1781110334
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM041-4.jpg?v=1782486646
   Price: $57.99 CAD
 - [The Gentle Hound Dog Wall Art – Luxury, Loyalty & Attitude | Modern Animal Art Print for Living Room, Office & Gallery Decor](https://www.decor8homes.ca/products/39): The Gentle hound: Luxury, loyalty, and a touch of attitude.Refined, poised, and undeniably charismatic — The Gentlehound stands as the perfect blend of art and function. With its matte black body, sharp geometric lines, and golden accents, this statement piece transforms any corner into a showcase of style and sophistication.A modern butler with a playful twist, The Gentlehound features a polished gold tray ideal for holding drinks, keys, or décor accessories. Its bold sunglasses and bow tie add a personality that radiates both confidence and charm — making it as conversation-worthy as it is functional.Whether placed in an entryway, living room, or office lounge, The Gentlehound brings an effortless mix of humor and high design — proof that true elegance can have a little fun. Key Features:• Premium resin with metal tray• Matte black with gold accents• Functional and decorative• Adds humor and elegance to interiors Care & Maintenance:Wipe with soft cloth; avoid harsh cleaners
-  Updated: 2026-06-18T05:12:35Z
+  Updated: 2026-07-02T04:17:31Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM043-9.png?v=1781111763
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM043-9.jpg?v=1782485792
   Price: $179.99 CAD
 - [Modern Matte Black Abstract Ribbon Tabletop Sculpture with Clear Glass Orb – Contemporary Minimalist Geometric Statue for Luxury Home and Office Decor](https://www.decor8homes.ca/products/modern-matte-black-abstract-ribbon-tabletop-sculpture-with-clear-glass-orb-contemporary-minimalist-geometric-statue-for-luxury-home-and-office-decor): Bring a touch of sophisticated modern art, fluid elegance, and timeless minimalist beauty into your home with this stunning Abstract Ribbon Tabletop Sculpture. This beautifully detailed piece features a series of sweeping, interlocking loops and fluid curves that rise gracefully upward, culminating in a clear, polished glass orb cradled perfectly at its peak. The undulating lines masterfully balance weight and weightlessness, capturing a sense of continuous motion and quiet harmony.The sculpture boasts a striking matte black finish that absorbs light beautifully, accentuating every smooth contour, dramatic twist, and inner shadow of its form. Anchored securely on a substantial, matching rectangular block base, this ethereal accent piece instantly elevates the aesthetic value of any space. It makes a deeply meaningful gift for design enthusiasts, or a beautiful addition to your own year-round contemporary decor layout. Key Features: Fluid Abstract Design: Captivating, twisting ribbon silhouette creates a sense of dynamic verticality and rhythmic motion that adds movement to still spaces. Stunning Material Contrast: The smooth, light-absorbing matte black resin body beautifully balances the brilliant, light-refracting properties of the clear glass sphere crown. Premium Minimalist Aesthetics: Clean geometric curves combined with a monochrome finish seamlessly complement modern, contemporary, or luxury interior styles. Substantial Foundation: Set on a solid, block-style pedestal base to provide stability while enhancing its museum-quality gallery presentation. Care & Maintenance: Dust gently with a soft, dry microfiber cloth or a feather duster to keep the matte surface free from smudges and lint. Wipe the glass orb with a lint-free glass cleaning cloth if fingerprints or smudges appear. Avoid the use of abrasive scrubbing pads, harsh liquid chemicals, or spray cleaners to protect the integrity of the matte finish.
-  Updated: 2026-06-18T05:12:35Z
+  Updated: 2026-07-02T04:17:36Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM044-1.png?v=1781110223
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM044-1.jpg?v=1782485791
   Price: $57.99 CAD
 - [Modern Matte Black Abstract Reclining Figure Tabletop Wine Bottle Holder – Contemporary Resin Statue and Decorative Single Bottle Stand for Kitchen, Bar, and Dining Room Décor](https://www.decor8homes.ca/products/modern-matte-black-abstract-reclining-figure-tabletop-wine-bottle-holder-contemporary-resin-statue-and-decorative-single-bottle-stand-for-kitchen-bar-and-dining-room-decor): Bring a touch of sophisticated abstract beauty, functional artistry, and timeless minimalist elegance into your home with this stunning Abstract Figure Tabletop Wine Bottle Holder. This beautifully detailed piece features a stylized human figure in a serene, fluid pose of calm repose, its head gently tilted as its sweeping, interconnected limbs curve gracefully around to double as a secure cradle for your favorite vintage bottle. The continuous, undulating lines masterfully balance form and function, seamlessly turning a practical countertop storage solution into a poetic statement of quiet contemplation.The sculpture boasts a striking matte black finish that absorbs light beautifully, accentuating every smooth contour, dramatic bend, and negative space within its loop. Thoughtfully engineered to present a standard bottle at an elegant, accessible angle, this versatile accent piece rests steadily on its own weighted form without needing an expansive base. It makes a deeply meaningful gift for wine enthusiasts, art collectors, or a beautiful addition to your own modern dining room or kitchen countertop display. Key Features: Dual-Purpose Functional Art: Beautifully functions as both an eye-catching modern abstract tabletop sculpture and a sturdy, secure single-bottle wine cradle. Fluid Minimalist Silhouette: Features sweeping, interconnected lines and open loops that rely on elegant negative space to capture a peaceful, reclining human form. Premium Matte Black Finish: The smooth, monochrome coating complements contemporary, mid-century modern, and minimalist interior design themes. Compact Countertop Display: Sized to add sculptural sophistication to dining tables, home bars, kitchen islands, or sideboards without overcrowding your space. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to keep the smooth matte surface pristine and free from fingerprints. Avoid the use of harsh liquid chemicals, spray cleaners, or abrasive scrubbing materials to protect the integrity of the finish.
-  Updated: 2026-06-18T05:12:35Z
+  Updated: 2026-07-02T08:18:03Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM045-3.png?v=1781110133
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM045-3.jpg?v=1782485790
   Price: $39.99 CAD
 - [Whimsical Cartoon Girl with Headphones Tabletop Wine Bottle Holder – Decorative Resin Character Statue and Single Bottle Wine Display Cradle for Home Bar and Kitchen](https://www.decor8homes.ca/products/whimsical-cartoon-girl-with-headphones-tabletop-wine-bottle-holder-decorative-resin-character-statue-and-single-bottle-wine-display-cradle-for-home-bar-and-kitchen): Bring a delightful touch of playful charm, musical joy, and functional art into your home with this stunning Cartoon Girl Tabletop Wine Bottle Holder. This beautifully detailed piece features a serene character in a cross-legged seating position, her eyes softly closed with an expression of pure relaxation as she enjoys her favorite tracks. Her gracefully extended arms are cleverly designed to double as a secure, form-fitting cradle that holds your favorite bottle of wine or spirits close to her chest.The sculpture boasts a striking dark forest green high-neck dress accented with clean white polka dots, beautifully contrasted by her soft pink skin tones, short brown hair, and bright red lips. Crowned with a pair of oversized, metallic gold mouse-eared headphones that catch the light elegantly, this whimsical accent piece infuses any setting with a lively, contemporary pop-art vibe. It makes a deeply meaningful gift for wine lovers, music enthusiasts, or a beautiful addition to your own dining table or kitchen counter display. Key Features: Playful Functional Art: Serves as both a whimsical decorative character statue and a sturdy single-bottle wine cradle that adds personality to your storage. Charming Pop-Art Design: Features a cute cartoon girl wearing oversized gold headphones, capturing a peaceful moment of musical bliss. Vibrant Color Palette: The rich forest green and white polka-dot dress stands out beautifully alongside the polished metallic gold accents and soft character details. Sturdy and Balanced Base: Designed with a wide, integrated seating base that ensures the sculpture remains completely stable when holding a full standard-sized bottle. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to maintain the painted finish and gold luster. Avoid using harsh liquid chemicals, spray cleaners, or abrasive washing materials to protect the multi-colored finish.
-  Updated: 2026-06-18T05:12:35Z
+  Updated: 2026-07-02T16:12:13Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM046-green-2.png?v=1781109962
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM046-green-2.jpg?v=1782485791
   Price: $42.99 CAD
 - [The Dapper Pup – A Playful Spirit Wrapped in Golden Style | Modern Luxury Dog Wall Art Print for Sophisticated Home Decor](https://www.decor8homes.ca/products/the-dapper-pup-a-playful-spirit-wrapped-in-golden-style-modern-luxury-dog-wall-art-print-for-sophisticated-home-decor): The Dapper Pup: Playful spirit, golden style.Stylish, confident, and bursting with charm — The Dapper Pup is where personality meets luxury décor. Dressed in a sharp tuxedo, gold bow tie, and glossy sunglasses, this sculptural side table embodies the perfect balance of fun and sophistication.Crafted in deep matte black with radiant gold accents, The Dapper Pup isn’t just an accessory — it’s an experience. The elevated tray adds practical function for serving or display, while the playful pose turns it into a conversation piece that instantly draws attention.Whether brightening a living space, entryway, or modern office, The Dapper Pup brings life, laughter, and luxury wherever he stands — proving true style never takes itself too seriously. Key Features:• Premium resin with metal tray• Matte black with gold details• Playful and functional• Perfect for living spaces or offices Care & Maintenance:Clean with dry cloth; avoid liquids on tray
-  Updated: 2026-06-18T05:12:35Z
+  Updated: 2026-07-02T08:19:06Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/VX1JaeWTFKW4yrMPi-__sAU_3_gps_generated.png?v=1781111740
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/VX1JaeWTFKW4yrMPi-__sAU_3_gps_generated.jpg?v=1782485798
   - [Black](https://www.decor8homes.ca/products/the-dapper-pup-a-playful-spirit-wrapped-in-golden-style-modern-luxury-dog-wall-art-print-for-sophisticated-home-decor?variant=49237761065187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/VX1JaeWTFKW4yrMPi-__sAU_3_gps_generated.png?v=1781111740
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/VX1JaeWTFKW4yrMPi-__sAU_3_gps_generated.jpg?v=1782485798
     Price: $39.99 CAD
   - [White](https://www.decor8homes.ca/products/the-dapper-pup-a-playful-spirit-wrapped-in-golden-style-modern-luxury-dog-wall-art-print-for-sophisticated-home-decor?variant=49237761097955)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM047-white-3.png?v=1781107674
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM047-white-1.jpg?v=1782485801
     Price: $39.99 CAD
 - [Modern Abstract Fragmented Badminton Player Tabletop Figurine – Contemporary Resin Sports Statue for Home and Office Décor](https://www.decor8homes.ca/products/modern-abstract-fragmented-badminton-player-tabletop-figurine-contemporary-resin-sports-statue-for-home-and-office-decor): Celebrate the soul, energy, and passion of live sports with this stunning badminton player tabletop sculpture. Exquisitely crafted to capture a performer in the heat of a game, this statue features intricate textures from the realistic folds of his weathered blue jersey to the rugged, dynamic details of his stance. Utilizing a captivating, avant-garde "fragmented" design, it masterfully plays with negative space by leaving portions of the torso and leg completely invisible, creating a powerful surrealist aesthetic. Caught mid-stride while focused intently on the game and cradling his gear, this beautifully sculpted athlete serves as an inspiring statement piece—perfect for infusing any home office, living room mantel, or trophy showcase with a modern, athletic spirit. Key Features: Avant-Garde Fragmented Design: Masterfully utilizes negative space with missing segments of the torso and leg, creating a striking "invisible man" illusion that instantly draws the eye. Intricate Textures & Details: Features lifelike folds in the jersey and shorts alongside an athletic posture, showcasing premium artistic craftsmanship. Dynamic Athletic Spirit: Captures the focus and momentum of a badminton player mid-stride, bringing an energetic yet sophisticated vibe to your decor. Versatile Placement: An ideal focal piece that seamlessly fits onto modern office desks, living room mantels, bookshelves, or dedicated sports memorabilia showcases. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to preserve the textured, hand-painted finish. Avoid exposure to direct moisture, harsh liquid chemicals, or abrasive cleaning tools to protect the color and metallic accents.
-  Updated: 2026-06-18T05:12:35Z
+  Updated: 2026-07-02T04:17:44Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM048-2.png?v=1781107644
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM048-2.jpg?v=1782485795
   Price: $25.99 CAD
 - [Modern Abstract Fragmented Golf Player 11-Inch Tabletop Figurine – Contemporary Resin Sports Statue for Home and Office Décor](https://www.decor8homes.ca/products/modern-abstract-fragmented-golf-player-11-inch-tabletop-figurine-contemporary-resin-sports-statue-for-home-and-office-decor): Celebrate the focus, precision, and passion of the greens with this stunning golf player tabletop sculpture. Exquisitely crafted to capture an athlete in a moment of quiet concentration, this statue features rich, intricate textures, from the realistic folds of his weathered blue polo jersey to the sharp, structured lines of his athletic kit. Utilizing a captivating, avant-garde "fragmented" or "invisible man" design, it masterfully plays with negative space by leaving major sections of the torso and left leg completely unformed—creating a powerful surrealist aesthetic that allows the lower leg to float independently above the base.Captured mid-stride while securely cradling a detailed golf club over his right shoulder, this beautifully sculpted figure embodies kinetic energy and calculated poise. The contrast between the rugged, hand-painted fabric finishes and the smooth, metallic bronze skin tone elevates it from a traditional trophy to a fine piece of contemporary art. It serves as an inspiring statement piece—perfect for infusing a home office, living room shelf, mantle, or dedicated sports showcase with an elegant, athletic spirit. Key Features: Avant-Garde Fragmented Silhouette: Masterfully utilizes open space with missing sections of the torso and thigh, creating an intriguing, high-art "vanishing" effect. Intricate Textures & Finishes: Showcases a heavily textured, weathered sky blue and navy uniform paired with a detailed miniature golf club for exceptional premium craftsmanship. Dynamic Athletic Energy: Captures the stance and unwavering focus of a golfer, bringing an inspiring sense of movement to stationary decor. Substantial Gallery Display: Set on an integrated, antiqued silver-finished pedestal base that ensures absolute stability while providing a museum-quality presentation. Care & Maintenance: Dust gently with a soft, dry microfiber cloth or feather duster to preserve the hand-painted texture and metallic sheen. Keep away from direct moisture, and avoid using harsh chemical cleaners or abrasive pads to protect the multi-toned finish.
-  Updated: 2026-06-18T05:12:36Z
+  Updated: 2026-07-02T04:17:43Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM049-2.png?v=1781107553
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM049-2.jpg?v=1782485799
   Price: $25.99 CAD
 - [Modern Abstract Fragmented Musician 11-Inch Tabletop Figurine – Contemporary Resin Saxophone Player Statue for Home and Office Décor](https://www.decor8homes.ca/products/modern-abstract-fragmented-musician-11-inch-tabletop-figurine-contemporary-resin-saxophone-player-statue-for-home-and-office-decor): Celebrate the rhythm, soul, and passion of jazz with this stunning musician tabletop sculpture. Exquisitely crafted to capture a performer in a moment of deep musical focus, this statue features rich, intricate textures, from the realistic folds of his weathered blue jacket to the sharp, structured lines of his attire. Utilizing a captivating, avant-garde "fragmented" or "invisible man" design, it masterfully plays with negative space by leaving major sections of the torso and left leg completely unformed—creating a powerful surrealist aesthetic that allows the lower leg to float independently above the base.Captured mid-performance while securely holding a detailed saxophone, this beautifully sculpted figure embodies kinetic energy and calculated poise. The contrast between the rugged, hand-painted fabric finishes and the smooth, metallic bronze skin tone elevates it from a traditional decoration to a fine piece of contemporary art. It serves as an inspiring statement piece—perfect for infusing a home office, living room shelf, mantle, or music room showcase with an elegant, creative spirit. Key Features: Avant-Garde Fragmented Silhouette: Masterfully utilizes open space with missing sections of the torso and thigh, creating an intriguing, high-art "vanishing" effect. Intricate Textures & Finishes: Showcases a heavily textured, weathered sky blue and navy outfit paired with a detailed miniature saxophone for exceptional premium craftsmanship. Dynamic Musical Energy: Captures the stance and unwavering focus of a live performer, bringing an inspiring sense of movement and harmony to stationary decor. Substantial Gallery Display: Set on an integrated, antiqued silver-finished pedestal base that ensures absolute stability while providing a museum-quality presentation. Care & Maintenance: Dust gently with a soft, dry microfiber cloth or feather duster to preserve the hand-painted texture and metallic sheen. Keep away from direct moisture, and avoid using harsh chemical cleaners or abrasive pads to protect the multi-toned finish.
-  Updated: 2026-06-18T05:12:36Z
+  Updated: 2026-07-02T04:17:51Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM050-9.png?v=1781107440
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM050-9.jpg?v=1782485799
   Price: $25.99 CAD
 - [Modern Abstract Fragmented Guitar Player 11-Inch Tabletop Figurine – Contemporary Resin Musician Statue for Creative Home, Studio, and Office Décor](https://www.decor8homes.ca/products/modern-abstract-fragmented-guitar-player-11-inch-tabletop-figurine-contemporary-resin-musician-statue-for-creative-home-studio-and-office-decor): Celebrate the rhythm, soul, and creative energy of live music with this stunning guitar player tabletop sculpture. Exquisitely crafted to capture an artist in a moment of intense musical focus, this statue features rich, intricate textures, from the realistic folds of his weathered blue jacket to the sharp, structured lines of his performance attire. Utilizing a captivating, avant-garde "fragmented" or "invisible man" design, it masterfully plays with negative space by leaving major sections of the torso and left leg completely unformed—creating a powerful surrealist aesthetic that allows the lower leg to float independently above the base.Captured mid-performance while passionately strumming a detailed acoustic guitar, this beautifully sculpted figure embodies kinetic energy and artistic poise. The contrast between the rugged, hand-painted fabric finishes and the smooth, metallic bronze skin tone elevates it from a traditional decoration to a fine piece of contemporary gallery art. It serves as an inspiring statement piece—perfect for infusing a home office, living room shelf, mantle, or music studio with an elegant, creative spirit. Key Features: Avant-Garde Fragmented Silhouette: Masterfully utilizes open space with missing sections of the torso and thigh, creating an intriguing, high-art "vanishing" effect. Intricate Textures & Finishes: Showcases a heavily textured, weathered sky blue and navy outfit paired with a detailed miniature acoustic guitar for exceptional premium craftsmanship. Dynamic Musical Energy: Captures the stance and unwavering focus of a live guitarist, bringing an inspiring sense of movement and harmony to stationary decor. Substantial Gallery Display: Set on an integrated, antiqued silver-finished pedestal base that ensures absolute stability while providing a museum-quality presentation. Care & Maintenance: Dust gently with a soft, dry microfiber cloth or feather duster to preserve the hand-painted texture and metallic sheen. Keep away from direct moisture, and avoid using harsh chemical cleaners or abrasive pads to protect the multi-toned finish.
-  Updated: 2026-06-18T05:12:36Z
+  Updated: 2026-07-02T04:17:50Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM051-white-7.png?v=1781107345
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM051-white-7.jpg?v=1782486632
   Price: $25.99 CAD
 - [Modern Abstract Mother and Child Tabletop Sculpture – Contemporary Minimalist Parent-Child Statue for Family Home, Living Room, and Bedroom Decor](https://www.decor8homes.ca/products/modern-abstract-mother-and-child-tabletop-sculpture-contemporary-minimalist-parent-child-statue-for-family-home-living-room-and-bedroom-decor): Celebrate the timeless bond of unconditional love and family with this stunning Mother and Child tabletop sculpture. Exquisitely crafted to capture a tender moment of quiet affection, this piece features a stylized maternal figure cradling her child in a close, loving embrace. The open-air, hollowed construction masterfully utilizes negative space, allowing light to weave through the design and cast dynamic architectural shadows across your room.The sculpture boasts a beautiful combination of textures and finishes. One side features a smooth, clean silhouette that seamlessly transitions into a heavily pitted, rustic stone-like texture on the other half. Accented with a brilliant, fluid metallic drip trailing down the side, this piece balances a raw, organic feel with high-end luxury. Anchored securely on a substantial rectangular block base, this ethereal accent piece bridges the gap between classic gallery aesthetics and high-fashion contemporary design. It makes a deeply meaningful gift for new mothers, baby showers, or an exquisite addition to your own family living room, mantel, or nursery display. Key Features: Poetic Family Design: Captures a stylized mother hugging her child, beautifully embodying themes of love, protection, comfort, and lifelong family bonds. Striking Split-Texture Finish: Features a unique juxtaposition of smooth surfaces and rugged, weathered stone textures, highlighted by a shimmering metallic accent drip. Intriguing Play of Negative Space: The hollow, fluid frame lets background light and shadows become part of the sculpture's overall gallery aesthetic. Versatile Modern Accent: Seamlessly elevates bookshelves, entryway consoles, living room mantels, and nursery dressers with a sophisticated, art-gallery presence. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to keep the textured and smooth surfaces free from dust buildup. Avoid the use of harsh chemical cleaners, liquids, or abrasive cloths to protect the integrity of the metallic and multi-textured finishes.
-  Updated: 2026-06-18T05:12:36Z
+  Updated: 2026-07-02T04:17:42Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM053-2.png?v=1781107266
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM053-2.jpg?v=1782486631
   Price: $29.99 CAD
 - [Modern Abstract Thinker Tabletop Sculpture – Contemporary Minimalist Seated Figurine for Home, Office, and Living Room Décor](https://www.decor8homes.ca/products/modern-abstract-thinker-tabletop-sculpture-contemporary-minimalist-seated-figurine-for-home-office-and-living-room-decor): Introduce a sense of quiet contemplation and sleek sophistication to your space with this Modern Abstract Thinker Tabletop Sculpture. This striking contemporary piece features a minimalist silhouette of a seated figure deep in thought, resting its head gently on its hand. Crafted with smooth, fluid lines and an elegant cutout design, it beautifully captures the essence of mindfulness and intellectual reflection.The sculpture features a flawless matte black finish that absorbs light beautifully, creating a bold, graphic focal point against any backdrop. Perfect for minimalist, mid-century modern, or urban loft aesthetics, this artistic statue adds a touch of gallery-worthy refinement to your personal sanctuary or professional workspace. Key Features: Minimalist Thinker Design: Elegant, abstract contours and negative space create a timeless representation of thought, focus, and serenity. Sleek Matte Black Finish: The premium monochromatic coating offers a smooth, non-reflective surface that effortlessly complements any modern colour palette. Instantly brings a calm, sophisticated, and deeply artistic presence to professional or personal environments. Versatile Placement: Designed with a sturdy base, making it an excellent decorative accent for office desks, bookshelves, living room consoles, or entryway tables. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to maintain the smooth matte finish. Keep away from sharp objects and avoid harsh liquid chemicals or abrasive materials to protect the surface coating.
-  Updated: 2026-06-18T05:12:36Z
+  Updated: 2026-07-02T04:17:50Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM057-2.png?v=1781107191
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM057-2.jpg?v=1782485805
   Price: $21.99 CAD
 - [Minimalist Modern Wall Art – Living Room Decor](https://www.decor8homes.ca/products/minimalist-modern-wall-art-living-room-decor): ✨ Transform Any Room Instantly Bring a modern and premium feel into your home with this stylish decor piece. Designed to elevate living rooms, bedrooms, offices, and apartments with effortless sophistication. ✔ Why You'll Love It Clean modern aesthetic Premium finish Easy to style anywhere Perfect gift idea Great for condos & apartments 🚚 Shipping Fast delivery across Canada 🔒 Secure Checkout Protected payment + customer support
-  Updated: 2026-06-18T05:12:36Z
+  Updated: 2026-07-02T04:17:44Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM058-4.png?v=1781111750
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM058-4.jpg?v=1782485806
   Price: $34.99 CAD
 - [Quiet Reader Sculpture – Modern Shelf Decor](https://www.decor8homes.ca/products/quiet-reader-sculpture-modern-shelf-decor): ✨ Style Meets Storytelling Bring calm, creativity, and elegance into your space with this modern reading sculpture. Designed for book lovers and design lovers alike, this artistic statement piece adds personality to shelves, desks, and living spaces. Its sleek black finish and thoughtful silhouette create a timeless minimalist look. ✔ Why You'll Love It Unique storytelling decor piece Premium modern finish Perfect for shelves, desks & consoles Great gift for readers & creatives Fits modern and minimalist interiors 📍 Perfect For: Bookshelves Office desks Living room shelf styling Bedroom side tables Reading corners 🚚 Shipping Fast delivery across Canada
-  Updated: 2026-06-18T05:12:37Z
+  Updated: 2026-07-02T04:17:43Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM059-5.png?v=1781111731
-  Price: $34.99 CAD
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM059_white-6.jpg?v=1782485811
+  - [White](https://www.decor8homes.ca/products/quiet-reader-sculpture-modern-shelf-decor?variant=49315383541987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM059_white-6.jpg?v=1782485811
+    Price: $34.99 CAD
+  - [Black](https://www.decor8homes.ca/products/quiet-reader-sculpture-modern-shelf-decor?variant=49315383574755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM059-1.jpg?v=1782486676
+    Price: $34.99 CAD
 - [Vintage Antique-Style Corded Telephone – Classic Retro Wooden Desktop Landline Phone for Home, Office, and Living Room Decor](https://www.decor8homes.ca/products/vintage-antique-style-corded-telephone-classic-retro-wooden-desktop-landline-phone-for-home-office-and-living-room-decor): Step back in time while keeping modern functionality close at hand with this stunning Vintage Antique-Style Corded Telephone. Masterfully designed to evoke the timeless sophistication of the early 20th century, this statement piece features a rich, dark-stained wooden body supported by intricately detailed ornate brass feet. The heavy-duty handset, classic coiled cord, and mechanical-style cradle boast a premium antique brass finish, highlighted by a polished wood accent grip that feels substantial and luxurious to hold.While it perfectly mirrors the aesthetic of a classic rotary telephone, the front dial is updated with easy-to-use push buttons arranged in a traditional circular layout. At its center rests a clear digital LCD display screen providing contemporary convenience, such as caller ID and clock functions, seamlessly bridging the gap between old-world charm and modern reliability. It is the ultimate conversation starter for any executive desk, vintage-themed parlor, or living room console. Key Features: Nostalgic Masterpiece: Beautifully replicates the aesthetic of early landline phones with a premium wood housing, antique brass hardware, and ornate accents. Modern Push-Button Convenience: Features a circular keypad disguised with retro button styling for effortless dialing without the wait of a traditional rotary wheel. Integrated LCD Display: A subtle, built-in screen provides helpful modern functions, including date, time, and menu settings. Authentic Accents: Equipped with a top-mounted metal ringer bell and an side-mounted crank handle accessory to preserve true vintage character. Care & Maintenance: Wipe the wooden surface and metallic components gently with a soft, dry microfiber cloth to preserve the polished luster. Avoid damp environments, liquid cleaning agents, or abrasive polishes that could tarnish the antique finish or damage the internal electronics.
-  Updated: 2026-06-18T05:12:37Z
+  Updated: 2026-07-02T17:36:10Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM061-3.png?v=1781111712
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM061-3.jpg?v=1782485808
   Price: $159.99 CAD
 - [Vintage Luxury Rotary-Style Corded Telephone – Antique Wooden Desktop Landline Phone with Storage Drawer for Home and Office Decor](https://www.decor8homes.ca/products/vintage-luxury-rotary-style-corded-telephone-antique-wooden-desktop-landline-phone-with-storage-drawer-for-home-and-office-decor): Infuse your home or office with the grandeur of yesteryear with this Vintage Luxury Rotary-Style Corded Telephone. Masterfully designed to honor the classic aesthetics of late 19th- and early 20th-century craftsmanship, this magnificent landline phone features a sloped, premium dark wood body standing on sturdy, protective rubber-tipped feet. The centerpiece of the phone is an exquisitely detailed, high-luster metal rotary-style dial plate, complete with an ornate crest engraving that radiates old-world prestige.Complementing the wood frame is a brilliant antique brass handset cradle and matching receiver, styled with a polished wooden center grip for maximum comfort and an authentic historical feel. A unique, integrated slide-out storage drawer with a decorative lion-head medallion pull adds functional charm to the base—perfect for stowing note pads, pens, or small keepsakes. Combining nostalgic design with smooth, reliable push-button dialing tucked inside the vintage-style finger holes, this corded telephone serves as a stunning operational statement piece for your study, library, or living room console table. Key Features: Exquisite Old-World Craftsmanship: Features a beautiful sloped wood housing, premium antique brass accents, and an ornately embossed center dial face. Integrated Storage Drawer: Built-in lower drawer with a stylized vintage metal pull provides a hidden, convenient compartment for small essentials. Nostalgic Rotary-Style Keypad: Classic circular layout utilizing discreet push-buttons for effortless and modern dialing functionality. Operational Corded Desk Phone: Combines timeless decorative appeal with practical landline utility, coming complete with a heavy-duty coiled receiver cord. Care & Maintenance: Wipe the wooden surface and metallic components gently with a soft, dry microfiber cloth to maintain the polished finish. Keep away from humid areas and avoid harsh chemical cleaners, liquids, or abrasive polishes to safeguard the internal wiring and outer finish.
-  Updated: 2026-06-18T05:12:37Z
+  Updated: 2026-07-02T17:36:11Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM062-2.png?v=1781111716
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM062-2.jpg?v=1782485808
   Price: $179.99 CAD
 - [The Regal Elephant – Graceful Strength, Quiet Wisdom | Premium Decorative Sculpture for Refined Home & Office Spaces](https://www.decor8homes.ca/products/61): The Regal Elephant: Strength. Wisdom. Royal grace.A timeless emblem of prosperity and power, The Regal Elephant brings an aura of majesty to any space. Adorned with exquisite patterns, ornate accents, and a delicately sculpted leaf tray, this piece stands as a tribute to tradition refined by modern craftsmanship.Its rich mahogany finish and intricate black-and-gold detailing highlight every curve, giving it the look of a royal heirloom. The elephant’s raised trunk symbolizes good fortune and success — making it a powerful statement piece that blends meaning with beauty.Perfect for entryways, living rooms, or as a thoughtful gift, The Regal Elephant serves both as décor and as a symbol of strength, balance, and dignity — a touch of timeless luxury in sculpted form. Key Features:• Premium polyresin sculpture• Gloss mahogany with black & gold accents• Symbolizes strength, wisdom, and royalty• Includes decorative tray Care & Maintenance:Dust gently; avoid harsh chemicals
-  Updated: 2026-06-18T05:12:37Z
+  Updated: 2026-07-02T04:18:07Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM065-3_4a0b2afa-14a1-4d46-83f7-95d0dd57773a.png?v=1781111728
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM065-5.jpg?v=1782485811
   Price: $219.99 CAD
 - [The Golden Majesty – Power Refined in Gold | Luxury Contemporary Wall Art Print for Living Room, Office, Gallery & High-End Home Decor](https://www.decor8homes.ca/products/63): The Golden Majesty: Power refined in gold.Fierce, elegant, and commanding — The Golden Majesty embodies strength at its most sophisticated. This gold-plated tiger sculpture captures motion and might in exquisite detail, transforming a wild force of nature into a statement of luxury and presence.Its polished golden sheen and sculpted texture reflect light like liquid metal, emphasizing every muscle and line of movement. A true symbol of courage and leadership, The Golden Majesty adds a regal energy to any modern interior or executive space.Perfect as a centerpiece, display accent, or symbolic décor item, this piece represents ambition, resilience, and the pursuit of greatness — a timeless embodiment of luxury with an untamed spirit. Key Features:• Premium resin with metallic coating• Polished gold finish• Embodies strength and courage• Luxury centerpiece Care & Maintenance:Wipe with soft cloth; avoid abrasion
-  Updated: 2026-06-18T05:12:37Z
+  Updated: 2026-07-02T04:18:04Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM067-10.png?v=1781111714
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM067-10.jpg?v=1782485815
   Price: $139.99 CAD
-- [Majestic Twin Elephants Tabletop Sculpture – Rustic Wood-Grain Style Lucky Elephant Statue Set for Wealth and Home Décor](https://www.decor8homes.ca/products/majestic-twin-elephants-tabletop-sculpture-rustic-wood-grain-style-lucky-elephant-statue-set-for-wealth-and-home-decor): Bring a sense of natural majesty, harmony, and timeless good fortune into your living space with this beautiful Twin Elephants Tabletop Sculpture. Crafted to showcase two beautifully detailed elephants striding gracefully side-by-side, this continuous sculpture features upraised trunks and elegant faux-ivory tusks—classic symbols of prosperity, strength, and protective energy in traditional home styling.The sculpture boasts a gorgeous faux wood-grain finish, mirroring the deep, warm tones and rich textures of masterfully hand-carved timber. Designed as a singular, cohesive accent piece rather than two separate figures, it creates a balanced and harmonious look wherever it rests. Whether placed as an auspicious welcome piece in your entryway or as a rustic focal point in your living room, this stunning wildlife accent brings a peaceful, organic aesthetic to any shelf, mantel, or tabletop. Key Features: Harmonious Twin Design: Features two highly detailed elephants moving together in a single, unified sculpture, representing family, unity, and companionship. Realistic Wood-Grain Finish: Exquisitely textured to replicate the authentic look, grain pattern, and warm luster of polished artisan woodwork. Auspicious Symbolism: Upward-facing trunks and prominent tusks serve as a timeless symbol of luck, wealth, stability, and positive energy for the home. Elongated Statement Piece: Spanning over 50 cm in length, this substantial landscape figurine makes a commanding addition to wider surfaces. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to keep the textured wood-grain finish looking fresh. Keep away from excess moisture and avoid harsh liquid chemicals or abrasive scrubbing tools to protect the painted details.
-  Updated: 2026-06-18T05:12:38Z
+- [(2pc Set) Majestic Twin Elephants Tabletop Sculpture – Rustic Wood-Grain Style Lucky Elephant Statue Set for Wealth and Home Décor](https://www.decor8homes.ca/products/majestic-twin-elephants-tabletop-sculpture-rustic-wood-grain-style-lucky-elephant-statue-set-for-wealth-and-home-decor): Bring a sense of natural majesty, harmony, and timeless good fortune into your living space with this beautiful Twin Elephants Tabletop Sculpture. Crafted to showcase two beautifully detailed elephants striding gracefully side-by-side, this continuous sculpture features upraised trunks and elegant faux-ivory tusks—classic symbols of prosperity, strength, and protective energy in traditional home styling.The sculpture boasts a gorgeous faux wood-grain finish, mirroring the deep, warm tones and rich textures of masterfully hand-carved timber. Designed as a singular, cohesive accent piece rather than two separate figures, it creates a balanced and harmonious look wherever it rests. Whether placed as an auspicious welcome piece in your entryway or as a rustic focal point in your living room, this stunning wildlife accent brings a peaceful, organic aesthetic to any shelf, mantel, or tabletop. Key Features: Harmonious Twin Design: Features two highly detailed elephants moving together in a single, unified sculpture, representing family, unity, and companionship. Realistic Wood-Grain Finish: Exquisitely textured to replicate the authentic look, grain pattern, and warm luster of polished artisan woodwork. Auspicious Symbolism: Upward-facing trunks and prominent tusks serve as a timeless symbol of luck, wealth, stability, and positive energy for the home. Elongated Statement Piece: Spanning over 50 cm in length, this substantial landscape figurine makes a commanding addition to wider surfaces. Care & Maintenance: Dust gently with a soft, dry microfiber cloth to keep the textured wood-grain finish looking fresh. Keep away from excess moisture and avoid harsh liquid chemicals or abrasive scrubbing tools to protect the painted details.
+  Updated: 2026-07-02T04:17:55Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM069-1.png?v=1781111698
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM069-1.jpg?v=1782485815
   Price: $69.99 CAD
-- [Luxury Golden Twin Elephants Sculpture – Modern Electroplated Tri-Color Lucky Elephant Statue for Wealth, Success, and Home Decor](https://www.decor8homes.ca/products/luxury-golden-twin-elephants-sculpture-modern-electroplated-tri-color-lucky-elephant-statue-for-wealth-success-and-home-decor): Introduce a commanding presence of prestige, strength, and timeless good fortune to your home or office with this Luxury Golden Twin Elephants Sculpture. Artfully captured in a moment of majestic grace, this continuous landscape piece features two stylized elephants striding forward side-by-side. Symbolizing family harmony, unity, and protective power, both figures are sculpted with beautifully upraised trunks and elegant tusks—classic focal points for attracting prosperity and positive energy into a living space.The sculpture features an ultra-premium, multi-textured electroplated gold finish. The smooth, sweeping bodies boast a flawless, high-shine mirror glaze that reflects light beautifully from every angle. Providing a sophisticated contrast, the elaborate ceremonial saddle blankets (caparisons), headwear, and rugged terrain base are adorned with a deeply etched, shimmering frosted texture. Perfect for wide display surfaces, this stunning wildlife statement piece effortlessly elevates minimalist, contemporary, or modern luxury interiors. Key Features: Symbol of Power & Prosperity: Features two magnificent elephants with trunks raised high, a traditional Feng Shui arrangement meant to welcome wealth, stability, and good luck. Luxury Dual-Texture Gold: High-polish mirror surfaces contrast beautifully with finely detailed, textured frosted accents on the decorative blankets and foundation base. Harmonious Unified Design: Crafted as a singular, panoramic sculpture representing partnership, loyalty, and strength in unity. Grand Landscape Dimensions: Spanning a substantial 70 cm in length, this wide profile figurine serves as a magnificent focal point for expansive tabletops or mantels. Care & Maintenance: Wipe very gently with a soft, dry microfibre cloth to keep the high-shine electroplated surface immaculate and free of fingerprints. Avoid the use of water, damp cloth, commercial metal polishes, or chemical cleaners, which can wear down the delicate metallic plating.
-  Updated: 2026-06-18T05:12:38Z
+- [(2pc Set) Luxury Golden Twin Elephants Sculpture – Modern Electroplated Tri-Color Lucky Elephant Statue for Wealth, Success, and Home Decor](https://www.decor8homes.ca/products/luxury-golden-twin-elephants-sculpture-modern-electroplated-tri-color-lucky-elephant-statue-for-wealth-success-and-home-decor): Introduce a commanding presence of prestige, strength, and timeless good fortune to your home or office with this Luxury Golden Twin Elephants Sculpture. Artfully captured in a moment of majestic grace, this continuous landscape piece features two stylized elephants striding forward side-by-side. Symbolizing family harmony, unity, and protective power, both figures are sculpted with beautifully upraised trunks and elegant tusks—classic focal points for attracting prosperity and positive energy into a living space.The sculpture features an ultra-premium, multi-textured electroplated gold finish. The smooth, sweeping bodies boast a flawless, high-shine mirror glaze that reflects light beautifully from every angle. Providing a sophisticated contrast, the elaborate ceremonial saddle blankets (caparisons), headwear, and rugged terrain base are adorned with a deeply etched, shimmering frosted texture. Perfect for wide display surfaces, this stunning wildlife statement piece effortlessly elevates minimalist, contemporary, or modern luxury interiors. Key Features: Symbol of Power & Prosperity: Features two magnificent elephants with trunks raised high, a traditional Feng Shui arrangement meant to welcome wealth, stability, and good luck. Luxury Dual-Texture Gold: High-polish mirror surfaces contrast beautifully with finely detailed, textured frosted accents on the decorative blankets and foundation base. Harmonious Unified Design: Crafted as a singular, panoramic sculpture representing partnership, loyalty, and strength in unity. Grand Landscape Dimensions: Spanning a substantial 70 cm in length, this wide profile figurine serves as a magnificent focal point for expansive tabletops or mantels. Care & Maintenance: Wipe very gently with a soft, dry microfibre cloth to keep the high-shine electroplated surface immaculate and free of fingerprints. Avoid the use of water, damp cloth, commercial metal polishes, or chemical cleaners, which can wear down the delicate metallic plating.
+  Updated: 2026-07-02T04:17:56Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM070-11.png?v=1781111642
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM070-11.jpg?v=1782485814
   Price: $109.99 CAD
 - [Decorative Electric LED Fireplace Mantel Sculpture – Realistic Ambient Hearth Glow for Modern Interiors](https://www.decor8homes.ca/products/decorative-electric-led-fireplace-mantel-sculpture-realistic-ambient-hearth-glow-for-modern-interiors): Bring the cozy, inviting warmth of a crackling hearth into any space with this sophisticated, fully functional electric fireplace sculpture. Meticulously designed to capture the essence of a roaring fire without the need for complex ventilation, this piece features a sleek, durable matte black frame adorned with classic architectural detailing. The interior showcases a highly realistic, illuminated log set and glowing embers, providing a calming, flicker-effect ambient light that instantly elevates the mood of your living room, home office, or bedroom. Key Features: Realistic Ambient Illumination: Features high-quality electric LED lighting that simulates a gentle, flickering ember effect, providing instant atmosphere and a relaxing glow to any room. Timeless Architectural Design: Housed in a premium matte black frame with elegant column detailing, this piece seamlessly transitions between traditional, transitional, and modern decor styles. Versatile Decor Element: Perfectly sized for mantle displays, bookshelves, or as a statement centerpiece for your dining or entryway table. Safe & Hassle-Free: Enjoy the serene, functional aesthetic of a fireplace without the maintenance of real wood, ash, or gas—ideal for apartments, offices, or any home looking for a touch of refined, worry-free luxury. Care & Maintenance: Wipe the frame gently with a soft, dry microfiber cloth to keep the matte surface free of dust and fingerprints. Clean the glass viewing pane with a glass-safe cloth to ensure the LED glow remains vibrant and clear.
-  Updated: 2026-06-18T05:12:38Z
+  Updated: 2026-07-02T04:17:56Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM072-6.png?v=1781101525
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM072-6.jpg?v=1782485817
   Price: $59.99 CAD
 - [Medieval Knight Embossed Tankard – Gothic Stainless Steel Stein for Fantasy Enthusiasts](https://www.decor8homes.ca/products/medieval-knight-embossed-tankard-gothic-stainless-steel-stein-for-fantasy-enthusiasts): Channel the chivalry and legendary spirit of the medieval era with this meticulously crafted Knight Embossed Tankard. Featuring a dramatic, high-relief design, this vessel showcases two noble knights in full armor standing guard against a backdrop of intricate Celtic-inspired knotwork and heraldic motifs. Whether you are a fan of high fantasy, historical aesthetics, or simply appreciate bold barware, this tankard serves as a striking functional centerpiece that brings an immersive, Old World atmosphere to your home collection or themed gatherings. Key Features: Immersive Relief Artistry: The exterior is adorned with highly detailed, 3D embossed figures of knights in battle-ready armor, framed by elegant scrollwork and symbolic patterns. Dual-Material Craftsmanship: Combines the rugged, weathered aesthetic of a resin-cast exterior with a food-grade stainless steel interior, ensuring a safe and durable drinking experience. Ergonomic Themed Handle: Features a robust, sculpted handle that continues the ornate thematic design, offering a comfortable and sturdy grip for your favourite beverage. Epic Collectible Decor: Perfect for fantasy-themed events, game nights, or as an eye-catching display piece on a bar cart, bookshelf, or man cave. Care & Maintenance: The stainless steel interior is easy to clean; simply hand wash with mild soap and warm water. To preserve the intricate detail and finish of the outer resin casing, avoid soaking in water or using abrasive scrubbers. Not recommended for dishwasher or microwave use.
-  Updated: 2026-06-18T05:12:38Z
+  Updated: 2026-07-02T16:14:50Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM074-8.png?v=1781111641
-  Price: $14.99 CAD
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM074-1.jpg?v=1782485818
+  - [Medieval Knight Embossed Tankard](https://www.decor8homes.ca/products/medieval-knight-embossed-tankard-gothic-stainless-steel-stein-for-fantasy-enthusiasts?variant=49346604138723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM074-1.jpg?v=1782485818
+    Price: $14.99 CAD
+  - [Grim Reaper Skull Tankard](https://www.decor8homes.ca/products/medieval-knight-embossed-tankard-gothic-stainless-steel-stein-for-fantasy-enthusiasts?variant=49346604171491)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM073_1-5.jpg?v=1782941160
+    Price: $14.99 CAD
 - [Gothic Wedding Skeleton Couple Tankard – Artistic Stainless Steel Beverage Stein](https://www.decor8homes.ca/products/gothic-wedding-skeleton-couple-tankard-artistic-stainless-steel-beverage-stein): Celebrate eternal love with a gothic twist with this exquisitely detailed Wedding Skeleton Couple Tankard. This unique piece features a high-relief sculpture of a skeleton bride and groom embraced within a stylized heart, set against a dark, textured background adorned with sculpted roses. The handle is intricately molded to mirror the rose motif, creating a seamless and immersive aesthetic. Combining a dark, romantic charm with the practicality of a food-grade stainless steel interior, this tankard is the perfect choice for those who appreciate the beauty in the macabre, making it an unforgettable gift for weddings, anniversaries, or alternative-style home collections. Key Features: Artistic Gothic Detailing: Features a meticulously hand-finished relief of a skeleton couple, complete with a red rose accent, framed by a heart and ornate floral scrollwork. Premium Dual-Material Build: Constructed with a high-quality stainless steel inner lining for a hygienic, durable drinking surface, encased in a rugged, decorative resin shell. Thematic Design: Every detail, from the rose-molded handle to the textured dark finish, is designed to evoke a sense of "till death do us part" romance and gothic elegance. Versatile Statement Piece: Ideal as a functional drinkware item for themed gatherings, a conversation-starting centerpiece for your bar, or a thoughtful, edgy gift for a partner. Care & Maintenance: The stainless steel interior is easy to clean; simply hand wash with mild soap and warm water. To preserve the intricate resin finish and the painted details, avoid using the dishwasher or harsh abrasive cleaners. Not recommended for dishwasher or microwave use.
-  Updated: 2026-06-18T05:12:38Z
+  Updated: 2026-07-02T04:18:12Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM075-5.png?v=1781111632
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM075-5.jpg?v=1782486684
   Price: $14.99 CAD
 - [The Skull Chalice – A Dark Icon of Strength and Mystery | Premium Decorative Art Object for Collectors & Statement Spaces](https://www.decor8homes.ca/products/73): The Skull Chalice: Where power drinks in silence.Commanding and unapologetic, The Skull Chalice fuses gothic artistry with bold craftsmanship. Detailed with carved horns, ornate patterns, and an aged metallic finish, this mug transforms a symbol of mortality into one of strength and defiance.Designed for those who appreciate dark elegance, its stainless-steel interior and hand-painted resin exterior make it both functional and visually arresting. Every curve and contour reflects rebellion wrapped in refinement — the perfect piece for display or for the daring to drink from.Whether placed in a bar, game room, or collector’s shelf, The Skull Chalice adds an edge of mystique and dominance — a reminder that true style dares to be different. Key Features:• Hand-painted resin with stainless steel interior• Antique metallic & bone texture• Gothic and bold aesthetic• Display or functional use Care & Maintenance:Hand wash only; do not soak
-  Updated: 2026-06-18T05:12:39Z
+  Updated: 2026-07-02T17:36:16Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM077-6.png?v=1781111635
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM077-6.jpg?v=1782485823
   Price: $19.99 CAD
 - [Modern Ribbed Cream Glass Vase – Elegant Sculptural Décor](https://www.decor8homes.ca/products/modern-ribbed-cream-glass-vase-elegant-sculptural-decor): Elevate your living space with the understated elegance of this Modern Ribbed Cream Glass Vase. Crafted with a sophisticated, flowing silhouette, the vase features rhythmic, vertical ribbing that plays with light and shadow, creating a soft, textural appeal. Its smooth, cream-toned finish brings a serene and neutral warmth to any room, making it a versatile addition to both minimalist and transitional interior styles. Whether displayed as a standalone art piece or holding a fresh floral arrangement, this vase serves as a refined focal point for your home. Key Features: Textured Sculptural Design: The unique, undulating ribbed surface adds visual interest and a tactile quality, elevating the simple form into a statement of modern art. Serene Cream Finish: A soft, neutral color palette that complements a wide variety of decor styles, from Scandinavian minimalism to warm, contemporary luxury. Light-Reflective Beauty: The glossy, high-quality glass finish catches natural and ambient light, providing a subtle, luminous glow that enhances any setting. Versatile Decor Element: Perfectly sized for centerpieces on dining tables, accenting a side table, or gracing a console, this piece effortlessly blends form and function. Care & Maintenance: Wipe gently with a soft, damp cloth and mild soap to maintain the glass's clarity and sheen. Dry immediately with a lint-free cloth to prevent water spots and preserve the pristine surface.
-  Updated: 2026-06-18T05:12:39Z
+  Updated: 2026-07-02T04:18:13Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM087-5.png?v=1781111624
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM087-5.png?v=1782441181
   Price: $39.99 CAD
 - [Contemporary Twisted Smoke Glass Vase – Elegant Sculptural Statement Piece](https://www.decor8homes.ca/products/contemporary-twisted-smoke-glass-vase-elegant-sculptural-statement-piece): Add a touch of dramatic sophistication to your home with this stunning Contemporary Twisted Smoke Glass Vase. Masterfully crafted with a dynamic, swirling silhouette, this vase captures the fluidity of molten glass, featuring elegant vertical ridges that spiral around its form. The translucent smoke-tinted finish offers a moody, high-end aesthetic that beautifully catches and refracts light, making it a captivating focal point whether standing alone as a piece of art or showcasing a vibrant floral arrangement. Key Features: Dynamic Twisted Form: The striking, architectural spiral design creates a sense of movement and artistry, ensuring it stands out in any modern or luxury interior. Sophisticated Smoke Finish: The refined, translucent grey tone offers a versatile, contemporary look that adds depth and allure to any room’s color palette. Artisanal Glass Craftsmanship: Made with high-quality glass, the vase features a graceful, undulating rim and a smooth, polished texture that enhances its premium feel. Versatile Decor Element: Perfectly proportioned for entryways, dining table centerpieces, or bedside tables, this piece seamlessly complements minimalist, industrial, and chic decor styles. Care & Maintenance: Wipe gently with a soft, damp cloth and mild soap to maintain the glass's clarity and deep smoke finish. Dry immediately with a lint-free cloth to prevent water spots and keep the surface pristine.
-  Updated: 2026-06-18T05:12:39Z
+  Updated: 2026-07-02T04:18:13Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM091-1.png?v=1781111621
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM091-1.png?v=1782484966
   Price: $31.99 CAD
 - [Organic Amber Flow Glass Vase – Sculptural Art Deco Accent Piece](https://www.decor8homes.ca/products/organic-amber-flow-glass-vase-sculptural-art-deco-accent-piece): Infuse your home with the warm, radiant glow of this Organic Amber Flow Glass Vase. Designed to resemble liquid gold in motion, this stunning piece features deep, undulating ripples and a unique, asymmetric silhouette that celebrates the artistry of molten glass. The rich amber hue catches the sunlight beautifully, casting golden reflections that add warmth and depth to any interior space. Whether used to hold a simple floral stem or displayed as a standalone piece of modern art, this vase brings a sense of fluidity and natural luxury to your decor. Key Features: Fluid Sculptural Form: The intentional, organic ripples and dramatic folds create a sense of arrested movement, making each vase feel like a one-of-a-kind art piece. Radiant Amber Palette: A deep, sunset-inspired amber finish that provides a warm, inviting focal point, perfectly suited for both traditional and contemporary settings. Artisanal Craftsmanship: Hand-finished glass construction with a refined, flowing rim that complements the vase's complex, tactile surface. Versatile Decor Element: Perfectly proportioned for entryways, living room centerpieces, or bedside tables, this piece effortlessly blends high-end luxury with an earthy, organic aesthetic. Care & Maintenance: Wipe gently with a soft, damp cloth and mild soap to maintain the glass's deep clarity and amber sheen. Dry immediately with a lint-free cloth to prevent water spots and keep the surface pristine.
-  Updated: 2026-06-18T05:12:39Z
+  Updated: 2026-07-02T04:18:12Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM092-2.png?v=1781111618
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM092-2.png?v=1782484135
   Price: $39.99 CAD
 - [Modern Ribbed Smoke Glass & Wood Vase – Architectural Tabletop Accent](https://www.decor8homes.ca/products/modern-ribbed-smoke-glass-wood-vase-architectural-tabletop-accent): Elevate your interior aesthetic with this striking Modern Ribbed Smoke Glass Vase, featuring a seamless blend of contemporary glass artistry and natural warmth. The tall, cylindrical smoke-tinted glass is defined by graceful vertical ribbing that catches the light, creating a sophisticated play of depth and texture. This elegant glass vessel is expertly set into a solid, rich-toned wooden base, providing a beautiful contrast of materials that perfectly suits modern, industrial, and transitional home styles. Whether holding a tall botanical arrangement or serving as a standalone sculptural piece, this vase offers a refined focal point for your living room, entryway, or dining area. Key Features: Contemporary Mixed-Media Design: The combination of translucent, ribbed smoke glass and a natural, dark-finished wooden base offers a timeless, sophisticated aesthetic. Textured Architectural Form: The elegant vertical ribbing adds tactile depth and visual rhythm, enhancing the slim, modern silhouette. Balanced Aesthetic: Designed for stability and style, the weighted wooden base provides a solid foundation for the airy, transparent glass. Versatile Decor Statement: Perfectly proportioned for dramatic floral displays, entry console tables, or as a high-end accent for shelves and mantels. Care & Maintenance: Wipe the glass section gently with a soft, lint-free cloth and mild glass cleaner to maintain its clarity and smoke finish. Use a dry or lightly oiled wood-safe cloth to clean the wooden base; avoid submerging the wooden base in water to preserve its natural grain and finish.
-  Updated: 2026-06-18T05:12:39Z
+  Updated: 2026-07-02T17:36:11Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM094-4.png?v=1781100790
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM094-4.png?v=1782485822
   Price: $35.99 CAD
 - [Contemporary Deep Blue Leaf-Vein Glass Vase – Artistic Sculptural Decor](https://www.decor8homes.ca/products/contemporary-deep-blue-leaf-vein-glass-vase-artistic-sculptural-decor): Elevate your interior styling with this exquisite Deep Blue Leaf-Vein Glass Vase. Inspired by the natural elegance of foliage, this piece features a sophisticated, organic structure with prominent, stylized "veins" that ripple across the surface, creating a dynamic interplay of light and shadow. The stunning, deep ocean-blue finish offers a rich, saturated tone that adds an air of luxury and calm to any space. Whether showcased as a bold, standalone art piece or used to hold an elegant floral arrangement, this vase serves as a captivating focal point for modern, eclectic, or nature-inspired homes. Key Features: Organic Leaf-Inspired Artistry: The unique surface texture mimics the intricate veins of a leaf, providing a tactile and visually compelling narrative of organic beauty. Rich Ocean Blue Finish: The deep, translucent blue hue provides a saturated splash of color that brings depth and a serene atmosphere to any room. Dynamic Sculptural Form: Its elegant, tapering silhouette and detailed surface make it a perfect statement piece for minimalist or luxury interior decor. Versatile Decor Element: Perfectly proportioned for entryways, living room centerpieces, dining tables, or as a sophisticated addition to a collector’s shelf. Care & Maintenance: Wipe gently with a soft, damp cloth and mild soap to maintain the glass's deep clarity and vibrant blue sheen. Dry immediately with a lint-free cloth to prevent water spots and keep the surface pristine.
-  Updated: 2026-06-18T05:12:40Z
+  Updated: 2026-07-02T04:18:19Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM095-10.png?v=1781111646
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM095-10.png?v=1782484135
   Price: $29.99 CAD
 - [Modern Minimalist Tied-Sack Ceramic Vase – Matte Pastel Decorative Accent](https://www.decor8homes.ca/products/modern-minimalist-tied-sack-ceramic-vase-matte-pastel-decorative-accent): Add a touch of playful, modern artistry to your home with this unique Tied-Sack Ceramic Vase. Crafted to mimic the soft, organic look of a draped fabric bag cinched with a delicate tie, this piece offers a beautiful contrast between structured design and fluid, natural forms. Finished in a smooth, matte pastel tone, it serves as a serene and tactile addition to any contemporary, minimalist, or Nordic-inspired interior. Whether used as a sculptural tabletop ornament or a charming vessel for dried stems, this vase brings a sense of soft elegance to any living space. Key Features: Whimsical Sculptural Design: The clever "tied-bag" silhouette provides a soft, organic aesthetic that breaks up the sharp lines of modern furniture. Soft Matte Finish: The serene, pastel matte surface offers a velvety, non-reflective finish that is both trendy and soothing to the touch. Artisanal Detailing: Features a delicate, integrated "tie" detail that adds a realistic, handcrafted feel to the contemporary ceramic form. Versatile Decor Element: Perfectly sized for intimate spaces—ideal as an accent on a bedside table, a minimalist shelf display, or a unique desk ornament. Care & Maintenance: Wipe gently with a soft, dry cloth to keep the matte surface free of dust. If necessary, use a lightly dampened cloth for spot cleaning. Avoid using harsh chemical cleaners or abrasive sponges that could scratch the delicate matte finish.
-  Updated: 2026-06-18T05:12:40Z
+  Updated: 2026-07-02T04:18:12Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM096-7.png?v=1781111631
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM096-3.jpg?v=1782485823
   Price: $14.99 CAD
 - [The Orbit Vase – Simplicity Shaped to Perfection | Modern Luxury Decorative Vase for Refined Contemporary Interiors](https://www.decor8homes.ca/products/88): The Orbit Vase: Simplicity shaped to perfection.A modern icon of form and balance, The Orbit Vase embodies minimal elegance with a bold sculptural edge. Its circular silhouette and central void create a sense of movement and calm — making it a timeless décor piece that enhances any interior style.Crafted in matte black ceramic, it brings understated luxury to coffee tables, console tops, or shelving displays. Whether styled with dried florals or standing beautifully on its own, The Orbit Vase is a celebration of design simplicity and artistic precision. Key Features:• Premium ceramic• Matte black finish• Minimalist design• Perfect for flowers or standalone décor Care & Maintenance:Wipe with damp cloth; avoid heavy impact
-  Updated: 2026-06-18T05:12:40Z
+  Updated: 2026-07-02T04:18:30Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM097-1.png?v=1781111653
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM097-6.jpg?v=1782485825
   Price: $15.99 CAD
 - [Modern Hexagonal Matte White Ceramic Vase – Geometric Tabletop Decor](https://www.decor8homes.ca/products/modern-hexagonal-matte-white-ceramic-vase-geometric-tabletop-decor): Introduce a clean, contemporary aesthetic to your home with this striking Hexagonal Ceramic Vase. Designed with a geometric sensibility, this piece features a unique hollow hexagonal shape with concentric ridges that add subtle texture and visual interest. Finished in a versatile matte white, it offers a crisp, minimalist appeal that effortlessly complements modern, Scandinavian, or industrial decor styles. Perfectly sized for a minimalist console, a side table, or as part of a curated shelf display, this vase turns simple botanicals into a work of modern art. Key Features: Geometric Silhouette: The bold hexagonal design breaks away from traditional vase shapes, offering a sharp, modern focal point for any room. Concentric Ridged Texture: Features delicate, uniform ridges that radiate from the center, providing a tactile, artisanal quality to the clean matte finish. Minimalist Matte Finish: The soft, non-reflective white coat is perfect for creating a clean, serene environment and highlights the vase's architectural lines. Versatile Decor Piece: Its compact and balanced shape makes it an ideal addition to bookshelves, coffee tables, or as part of a modern tables-cape. Care & Maintenance: Wipe gently with a soft, dry cloth to keep the matte surface free of dust. For spot cleaning, use a lightly dampened cloth. Avoid using harsh chemicals or abrasive cleaners that may compromise the matte finish.
-  Updated: 2026-06-18T05:12:40Z
+  Updated: 2026-07-02T04:18:30Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM098-1.png?v=1781111630
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM098-1.jpg?v=1782485824
   Price: $14.99 CAD
 - [Modern Interlocking Matte Black Ceramic Duo Vases – Abstract Minimalist Sculpture](https://www.decor8homes.ca/products/modern-interlocking-matte-black-ceramic-duo-vases-abstract-minimalist-sculpture): Elevate your interior styling with this sophisticated Interlocking Ceramic Duo. Meticulously crafted with a bold, matte black textured finish, this set features two interconnected, crescent-shaped vessels that form a seamless, artistic silhouette. Symbolizing harmony and unity through their intertwined design, these vases serve as a captivating focal point, blending modern abstract sculpture with functional decor. Whether displayed on an entryway console, a living room mantel, or as a centerpiece on a dining table, this duo adds depth, character, and contemporary luxury to any space. Key Features: Dynamic Abstract Design: The interconnected, fluid curves create a striking visual narrative, ensuring this piece stands out in any minimalist or modern luxury interior. Premium Matte Texture: The ultra-modern, matte black finish absorbs light subtly, highlighting the dramatic silhouettes and sculptural depth of the set. Harmonious Unified Display: Crafted to be displayed as a single, commanding sculpture, these vases represent partnership and balance, elevating your decor with a refined touch. Versatile Decor Element: Perfectly sized for expansive tabletops or open shelving, serving as a magnificent focal point that complements diverse interior styles, from industrial to chic modern. Care & Maintenance: Wipe very gently with a soft, dry microfiber cloth to keep the matte surface immaculate and free of dust. Avoid the use of water, damp cloths, or abrasive cleaners, which could compromise the delicate matte finish.
-  Updated: 2026-06-18T05:12:41Z
+  Updated: 2026-07-02T04:18:31Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM099-3.png?v=1781111620
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM099-2.jpg?v=1782484149
   Price: $24.99 CAD
 - [Minimalist Teardrop Ceramic Vase – Contemporary Matte Navy Decor](https://www.decor8homes.ca/products/minimalist-teardrop-ceramic-vase-contemporary-matte-navy-decor): Bring a sophisticated, artistic edge to your tabletop with this minimalist Teardrop Ceramic Vase. Featuring an iconic, abstract silhouette with a central negative space, this piece merges geometric precision with soft, organic curves. The striking deep navy finish, rendered in a refined matte texture, offers a bold yet calming color statement that pairs beautifully with modern, coastal, or contemporary interiors. Whether placed on a floating shelf, executive desk, or entryway console, this vase acts as a functional sculpture that brings balance and character to any curated home collection. Key Features: Abstract Teardrop Form: The unique central cutout design creates a compelling interplay of negative space, offering a modern, airy aesthetic that is both structurally interesting and visually calming. Refined Matte Navy Finish: The deep, saturated navy hue provides a sophisticated contrast to lighter decor elements, while the velvety matte surface adds a touch of understated luxury. Modern Minimalist Appeal: With its clean lines and smooth, unbroken surface, this vase is a perfect match for those who appreciate design-forward, decluttered interior spaces. Versatile Decorative Accent: Perfectly proportioned for intimate spaces, this vase serves as an ideal standout piece for bookshelves, side tables, or as a striking centerpiece in a minimalist tablescape. Care & Maintenance: Wipe gently with a soft, dry cloth to keep the matte surface free of dust and to preserve the depth of the navy finish. Avoid using harsh chemical cleaners or abrasive sponges that could scratch the delicate surface.
-  Updated: 2026-06-18T05:12:41Z
+  Updated: 2026-07-02T04:18:31Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM100-3.png?v=1781111616
-  Price: $14.99 CAD
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM100_blue-1.jpg?v=1782486699
+  - [Navy](https://www.decor8homes.ca/products/minimalist-teardrop-ceramic-vase-contemporary-matte-navy-decor?variant=49315639591139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM100_blue-1.jpg?v=1782486699
+    Price: $14.99 CAD
+  - [White](https://www.decor8homes.ca/products/minimalist-teardrop-ceramic-vase-contemporary-matte-navy-decor?variant=49315639623907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM100_white-11.jpg?v=1782485835
+    Price: $14.99 CAD
+  - [Beige](https://www.decor8homes.ca/products/minimalist-teardrop-ceramic-vase-contemporary-matte-navy-decor?variant=49315639656675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM100_cream-11.jpg?v=1782486704
+    Price: $14.99 CAD
+  - [Black](https://www.decor8homes.ca/products/minimalist-teardrop-ceramic-vase-contemporary-matte-navy-decor?variant=49315639689443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM100_black-2.jpg?v=1782485840
+    Price: $14.99 CAD
+  - [Green](https://www.decor8homes.ca/products/minimalist-teardrop-ceramic-vase-contemporary-matte-navy-decor?variant=49315639722211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM100_green-6.jpg?v=1782485842
+    Price: $14.99 CAD
 - [The Halo Vase – Soft Curves with Bold Presence | Modern Sculptural Decorative Vase for Contemporary Home Styling, Centerpieces, Shelves & Luxury Interior Decor](https://www.decor8homes.ca/products/92): The Halo Vase: Soft curves. Bold presence.Designed with sculptural grace, The Halo Vase transforms simplicity into sophistication. Its elliptical form and open center create a balanced aesthetic that blends modern artistry with timeless elegance.The smooth teal finish adds a refreshing pop of color while maintaining a minimalist charm — perfect for contemporary interiors. Whether standing solo or paired with delicate stems, The Halo Vase radiates serenity and refined taste. Key Features:• Premium ceramic• Gloss teal finish• Minimalist and modern• Sculptural centerpiece Care & Maintenance:Clean with damp cloth; avoid abrasive cleaners
-  Updated: 2026-06-18T05:12:41Z
+  Updated: 2026-07-02T04:18:31Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM101-3.png?v=1781111602
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM101_green-1.jpg?v=1782486694
   Price: $15.99 CAD
 - [Modern Minimalist Ring Vase – Matte Forest Green Ceramic Sculpture](https://www.decor8homes.ca/products/modern-minimalist-ring-vase-matte-forest-green-ceramic-sculpture): Embrace the beauty of modern simplicity with this striking Ring Vase. Crafted with a sleek, circular form, this piece features a smooth, continuous silhouette and a central opening that adds an airy, architectural feel to any tabletop. The rich, matte forest green finish provides a sophisticated, nature-inspired pop of color that pairs perfectly with contemporary, Japandi, or minimalist decor. Whether displayed as a standalone sculpture or holding a single delicate floral stem, this vase serves as a refined, design-forward accent for your home. Key Features: Iconic Circular Form: The bold, ring-shaped design offers a timeless, minimalist aesthetic that acts as a sophisticated focal point in any room. Serene Matte Forest Green: A deep, muted green tone that brings a calming, organic elegance to your space, effortlessly blending with both neutral and vibrant palettes. Artisanal Ceramic Craftsmanship: Features a seamless, smooth surface and high-quality ceramic construction that ensures stability and a premium feel. Versatile Decorative Accent: Perfectly sized for intimate display spots—ideal as a standout piece for bookshelves, coffee tables, bedside nightstands, or as a chic addition to an entryway console. Care & Maintenance: Wipe gently with a soft, dry cloth to keep the matte surface free of dust and to preserve the depth of the forest green finish. Avoid using harsh chemical cleaners or abrasive sponges that could scratch the delicate finish.
-  Updated: 2026-06-18T05:12:41Z
+  Updated: 2026-07-02T04:18:30Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM102-green-1.png?v=1781111599
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM102-green-1.jpg?v=1782485829
   Price: $14.99 CAD
 - [Modern Abstract Minimalist White Ceramic Vase with Gold Accent](https://www.decor8homes.ca/products/modern-abstract-minimalist-white-ceramic-vase-with-gold-accent): Elevate your home decor with this artistically crafted, minimalist ceramic vase. Featuring a soft, matte white finish and an elegant teardrop-inspired silhouette, this piece serves as a sophisticated focal point for any modern interior. The standout feature is a lustrous, high-polished gold sphere accent that adds a touch of refined luxury, creating a striking contrast against the clean ceramic surface. Key Features: Artistic Minimalist Design: The elegant, abstract form and smooth texture make this vase a versatile piece of art, suitable for a variety of styles from contemporary to chic modern. Sophisticated Gold Accent: Features a polished golden sphere that provides a luminous, premium focal point, adding elegance to any setting. Versatile Decor Element: Perfectly proportioned for accentuating spaces like a living room mantel, bedroom dresser, entryway console, or office desk. Care & Maintenance: Wipe gently with a soft, dry microfiber cloth to keep the matte surface free of dust and to maintain the polished luster of the gold accent. Avoid the use of abrasive cleaners.
-  Updated: 2026-06-18T05:12:41Z
+  Updated: 2026-07-02T04:18:30Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM103-3.png?v=1781111595
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM103_white-3.jpg?v=1782485830
   Price: $19.99 CAD
 - [The Blush Eucalyptus – Soft Elegance in Every Stem | Premium Artificial Eucalyptus Stems for Vase Styling, Table Centerpieces & Modern Luxury Home Decor](https://www.decor8homes.ca/products/98): The Blush Eucalyptus: Soft elegance in every stem.Delicate and refined, The Blush Eucalyptus brings natural serenity and timeless style into modern interiors. Its muted mauve and earthy brown tones create a calming palette that pairs beautifully with both light and dark décor themes.Perfect for minimalist vases or statement centerpieces, this arrangement adds warmth without overpowering the space. Whether used alone or blended with other botanicals, The Blush Eucalyptus captures nature’s quiet luxury in every leaf. Key Features:• Vibrant artificial blooms• Tall floor vase suitable• Easy maintenance• Permanent decorative solution Care & Maintenance:Dust occasionally; keep dry
-  Updated: 2026-06-18T05:12:41Z
+  Updated: 2026-07-02T04:18:30Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM119-1.png?v=1781111578
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM119-1.png?v=1782484156
   Price: $9.99 CAD
 - [Vintage Automotive Elegance: The Handcrafted Timber Roadster](https://www.decor8homes.ca/products/vintage-automotive-elegance-the-handcrafted-timber-roadster): Revive the romance of the open road with this stunning, artisan-built wooden roadster. Moving beyond mass-produced replicas, this piece celebrates the raw beauty of natural timber, pairing a warm, honey-toned body with deep, coffee-hued fenders and roof. It is a masterclass in contrasts—where the rugged charm of wood grain meets the polished, reflective gleam of chrome-style detailing. From the intricate, spoked wheels to the classic radiator grille and rear-mounted spare, every element has been thoughtfully curated to transport you back to a time of style, freedom, and mechanical marvels. Key Features: Artisan Timber Craft: Constructed with a focus on natural aesthetic, utilizing distinct wood stains to define the vehicle's classic silhouette. Refined Nostalgic Details: Enhanced with period-accurate chrome finishes on the headlamps and grille, coupled with an interior steering wheel and tactile rubber-feel spare tire. Decorative Statement Piece: This roadster is engineered to be more than a model—it is a sculpture. Its timeless profile adds a dash of sophisticated "old-world" character to any mantle, desk, or library. Heirloom-Style Construction: Built for durability and display, this model offers a rich, weightier feel and a level of detail that commands attention in any setting. Care & Maintenance: To preserve the natural finish and deep wood stains, keep this piece away from direct, high-intensity sunlight and excessive moisture. Dusting with a soft, dry cloth is all that is required to keep the chrome accents bright and the wood surface looking pristine. Avoid harsh chemical cleaners, as they may damage the protective finish.
-  Updated: 2026-06-18T05:12:42Z
+  Updated: 2026-07-02T17:36:17Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM126-6.png?v=1781111571
-  Price: $37.99 CAD
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM126-6.png?v=1782485009
+  - [A](https://www.decor8homes.ca/products/vintage-automotive-elegance-the-handcrafted-timber-roadster?variant=49346696282339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM126-6.png?v=1782485009
+    Price: $37.99 CAD
+  - [B](https://www.decor8homes.ca/products/vintage-automotive-elegance-the-handcrafted-timber-roadster?variant=49346696315107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM126_1-1.jpg?v=1782941824
+    Price: $37.99 CAD
 - [The Classic Rider – Crafted for Those Who Live to Move | Premium Decorative Art Object Celebrating Motion, Freedom & Timeless Style for Modern Home and Office Interiors](https://www.decor8homes.ca/products/105): The Classic Rider: Crafted for those who live to move.Inspired by the spirit of adventure, The Classic Rider captures the timeless allure of open roads and endless journeys — all sculpted from natural wood. Each curve and contour is hand-carved with care, turning a symbol of speed into a piece of art that speaks of freedom and craftsmanship.With its smooth polished finish and meticulous detailing, this wooden motorcycle exudes vintage sophistication. Whether placed on a study shelf, office desk, or living room console, it adds warmth, nostalgia, and style to any space.A perfect gift for enthusiasts, dreamers, or collectors, The Classic Rider reminds us that the journey itself is the true destination. Key Features:• Handcrafted wood• Natural woodgrain polish• Represents freedom and adventure• Vintage sophistication Care & Maintenance:Wipe with dry cloth; avoid water
-  Updated: 2026-06-18T05:12:42Z
+  Updated: 2026-07-02T16:12:19Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM127-6.png?v=1781111580
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM127-6.png?v=1782484164
   Price: $89.99 CAD
-- [The Golden Veil – Mystery Draped in Elegance | Contemporary Luxury Wall Painting with Golden Accents for Living Room, Bedroom, Office & Sophisticated Interior Decor](https://www.decor8homes.ca/products/108): The Golden Veil: Mystery draped in elegance.A mesmerizing blend of abstraction and allure, The Golden Veil captures the beauty of concealment and revelation. With bold strokes of metallic gold and deep shadowed tones, this artwork transforms simplicity into intrigue — where every glance reveals a new layer of meaning.The faceless muse, half-hidden behind torn bands of gold, represents strength, vulnerability, and the duality of modern identity. Each texture and glimmer evokes both luxury and emotion, making it a centerpiece that commands attention without uttering a word.Ideal for bedrooms, lounges, or office spaces, The Golden Veil brings depth, drama, and elegance to your wall — art that doesn’t just decorate, but speaks. Key Features:• Textured canvas with gold foil detailing• Matte black & metallic gold finish• Abstract, bold and elegant• Wall décor centerpiece Care & Maintenance:Avoid moisture; dust gently
-  Updated: 2026-06-18T05:12:42Z
+- [Timeless Wall Art: Elevate Your Space with Style](https://www.decor8homes.ca/products/108): Bring character and sophistication to your home or workspace with this stunning decorative painting. Designed to complement a variety of interior styles, its striking composition, rich textures, and elegant color palette create a captivating focal point in any room. Whether displayed in a living room, bedroom, office, hallway, or dining area, this artwork adds depth, warmth, and visual appeal while enhancing your décor with a modern, artistic touch. Key Features: Premium quality canvas artwork Elegant design suitable for modern and contemporary interiors Rich colors with detailed artistic finish Perfect as a statement wall décor piece Ideal for homes, offices, hotels, and gifting Care & Maintenance: Keep away from direct moisture and excessive sunlight. Dust gently with a soft, dry cloth. Avoid using water or harsh cleaning chemicals.
+  Updated: 2026-07-02T13:00:16Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM132-1.png?v=1781111530
-  Price: $19.99 CAD
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM132C1.jpg?v=1782485016
+  - [Painting 1](https://www.decor8homes.ca/products/108?variant=49315594436835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM132C1.jpg?v=1782485016
+    Price: $19.99 CAD
+  - [Painting 2](https://www.decor8homes.ca/products/108?variant=49315594469603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM132C2.png?v=1782485775
+    Price: $19.99 CAD
+  - [Painting 3](https://www.decor8homes.ca/products/108?variant=49315594502371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM132C3.png?v=1782485021
+    Price: $19.99 CAD
 - [Artisan Wooden Barrel-Style Wine & Glass Rack – Rustic Tabletop Storage](https://www.decor8homes.ca/products/artisan-wooden-barrel-style-wine-glass-rack-rustic-tabletop-storage-2pc-set): Elevate your home bar or entertaining space with this uniquely designed, barrel-inspired rack. Crafted to blend functional storage with old-world charm, this piece features a curved wooden cradle supported by an elegant, high-arched frame. The warm, rich mahogany-toned finish highlights the natural beauty of the wood, while the integrated design allows you to securely organize up to three wine or whiskey bottles and three stemware glasses. Its sturdy construction and rustic aesthetic make it a sophisticated focal point for a dining room, bar area, or kitchen counter. Key Features: Capacity & Display: Expertly engineered to hold up to 3 bottles and 3 glasses, providing a convenient and stylish way to showcase your collection in a compact footprint. Timeless Barrel-Inspired Aesthetic: The deep, curved design evokes the heritage of traditional wine-making, bringing a warm and nostalgic feel to any interior. Premium Craftsmanship: Constructed from high-quality wood with a rich, polished finish, this rack offers both lasting durability and a refined, heirloom-quality appearance. Stable & Sophisticated: The elevated, arched frame ensures your bottles and glasses are displayed safely, making it a perfect functional art piece for entertaining guests. Care & Maintenance: Keep the rack looking pristine by wiping it gently with a soft, dry cloth. To maintain the deep wood luster, you may occasionally apply a high-quality furniture polish or wood oil. Avoid placing the rack in areas of extreme moisture to preserve the wood's structural integrity and finish.
-  Updated: 2026-06-18T05:12:42Z
+  Updated: 2026-07-02T08:17:33Z
   Vendor: Decor8 Homes Inc.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM138-1.png?v=1781111517
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/decor8-homes-inc-wooden-barrel-wine-rack_d004c6bd-0dfd-4cd7-8713-e8242eecb529.jpg?v=1782484167
   Price: $79.99 CAD
-- [The Tranquil Bonsai – Nature’s Art, Sculpted in Stillness | Premium Decorative Bonsai Accent for Shelves, Tables, Offices & Serene Modern Home Decor](https://www.decor8homes.ca/products/114): The Tranquil Bonsai: Nature’s art, sculpted in stillness.A living expression of balance and harmony, The Tranquil Bonsai brings peace and natural elegance into any space. Every branch tells a story of patience and artistry, carefully shaped to capture the beauty of time, growth, and resilience.With lush green foliage and an intricately curved trunk, this bonsai embodies the essence of zen living — a daily reminder to slow down, breathe, and find calm amidst the rush. Whether placed in a living room, workspace, or meditation corner, its presence transforms the atmosphere with serenity and sophistication.Perfect for design lovers and nature enthusiasts alike, The Tranquil Bonsai unites craftsmanship and calm — bringing the timeless art of nature into modern interiors. Key Features:• Realistic artificial bonsai• Polished brown base• Brings zen and calm to interiors• Perfect for workspace or living area Care & Maintenance:Dust foliage; keep out of direct sunlight
-  Updated: 2026-06-18T05:12:43Z
+- [Artificial Decorative Bonsai Tree Potted Plant](https://www.decor8homes.ca/products/114): Bring a touch of serene, natural beauty into your home or office with this exquisite Artificial Decorative Bonsai Tree. Expertly crafted to mimic the timeless elegance of a traditional Japanese bonsai, this faux plant features lush, vibrant green foliage and a meticulously detailed, weathered-look trunk that adds an authentic touch to any space. Whether you are looking to enhance your living room decor, brighten up a home office, or add a calming element to your entryway, this bonsai tree offers the perfect solution without the need for sunlight, watering, or pruning. The tree is securely potted in a sleek, dark brown rectangular container, complete with realistic decorative pebbles that provide a polished, finished appearance. Its compact yet striking design makes it an ideal centerpiece for shelves, desks, or side tables. Key features include: - Lifelike design with high-quality materials for a realistic look and feel. - Zero maintenance required; stays vibrant and green all year round. - Sturdy, durable construction that fits seamlessly into any interior design style, from modern minimalist to traditional. - Perfect for allergy sufferers who want the aesthetic of greenery without the pollen or soil. Elevate your interior styling with this maintenance-free botanical accent that brings a sense of peace and sophistication to your surroundings.
+  Updated: 2026-07-02T04:18:36Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM139-1.png?v=1781111450
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/decor8-homes-inc-artificial-bonsai-tree_ca671393-c58e-41b9-944a-eaf90ec618ac.jpg?v=1782484792
   Price: $49.99 CAD
+- [Premium Framed Canvas Wall Art | Modern Decorative Painting](https://www.decor8homes.ca/products/117): Transform your walls with timeless framed canvas artwork. Enhance your home or workspace with beautifully crafted framed wall art designed to complement a variety of interior styles. Featuring vibrant colors, detailed artwork, and a premium frame, each design adds personality, warmth, and sophistication to any room. Whether you're decorating a living room, bedroom, office, hallway, or dining area, this artwork creates an elegant focal point that blends effortlessly with modern, contemporary, and classic décor. Key Features Premium quality framed canvas artwork Available in multiple unique designs High-definition print with rich, vibrant colors Durable frame with elegant finish Ready to hang Perfect for homes, offices, hotels, cafés, and gifting Care & Maintenance Dust gently with a soft, dry cloth. Keep away from excessive moisture and direct sunlight. Avoid using harsh cleaning chemicals. This generic title and description work well regardless of whether the customer selects an elephant, floral, abstract, landscape, or any other painting variant.
+  Updated: 2026-07-02T16:38:45Z
+  Vendor: Decor8 Homes
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM142_1-6_4be55a84-2bf3-4f1d-8f8d-3cf23d351184.png?v=1782943644
+  - [Elephant Family – Golden Safari / 60cm x 90cm](https://www.decor8homes.ca/products/117?variant=49347032809699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM142_1-6_4be55a84-2bf3-4f1d-8f8d-3cf23d351184.png?v=1782943644
+    Price: $75.00 CAD
+  - [White Blossom – Midnight Elegance / 60cm x 90cm](https://www.decor8homes.ca/products/117?variant=49347032842467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM142B_1-1.png?v=1782943632
+    Price: $75.00 CAD
+  - [Abstract Horse – Wild Spirit / 60cm x 90cm](https://www.decor8homes.ca/products/117?variant=49347032875235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM142A_2-2.png?v=1782943629
+    Price: $75.00 CAD
+  - [Abstract Horse – Wild Spirit / 50cm x 70cm](https://www.decor8homes.ca/products/117?variant=49347142713571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM142A_2-2.png?v=1782943629
+    Price: $60.00 CAD
+  - [Abstract flower wall art / 60cm x 90cm](https://www.decor8homes.ca/products/117?variant=49347032908003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM142A_1-6.png?v=1782943617
+    Price: $75.00 CAD
+  - [Abstract flower wall art / 50cm x 70cm](https://www.decor8homes.ca/products/117?variant=49347142746339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/RM142A_1-6.png?v=1782943617
+    Price: $60.00 CAD
 
 ## Collections
 
 - [Sculptures & Figurines](https://www.decor8homes.ca/collections/decor-accents): Discover a stunning range of sculptures and figurines to elevate your home décor. From modern and abstract art pieces to elegant tabletop statues, our collection adds a touch of sophistication to any living space. Perfect for living rooms, offices, and bedrooms.
-  Updated: 2026-06-18T05:12:31Z
+  Updated: 2026-07-02T08:05:53Z
   Total Products: 69
 - [Vintage & Antique Home Décor Items](https://www.decor8homes.ca/collections/vintage-classics): Add character and charm to your home with our vintage and antique décor collection. Featuring wooden models, classic gramophones, retro collectibles, and timeless clocks, these pieces are perfect for collectors and anyone who loves a nostalgic touch in their interior design.
-  Updated: 2026-06-18T05:12:31Z
+  Updated: 2026-07-02T08:05:53Z
   Total Products: 8
 - [Home & Living Furniture & Décor](https://www.decor8homes.ca/collections/home-living): Explore our Home & Living collection featuring stylish and functional furniture and decorative pieces. From elegant tea tables, coffee tables, and shelves to organizers and storage solutions, these pieces combine style and utility, making your living room, bedroom, or office space both practical and beautiful.
-  Updated: 2026-06-18T05:12:31Z
+  Updated: 2026-07-02T08:05:53Z
   Total Products: 10
 - [Wall Art & Hanging Décor](https://www.decor8homes.ca/collections/wall-art): Transform your walls with our curated collection of wall art and hanging décor. Choose from canvas paintings, modern abstract art, metal and 3D pieces, or decorative tapestries. Perfect for creating a statement in your living room, bedroom, or office.
-  Updated: 2026-06-18T05:12:31Z
-  Total Products: 13
+  Updated: 2026-07-02T04:16:54Z
+  Total Products: 4
 - [Artificial Flowers & Decorative Vases](https://www.decor8homes.ca/collections/artificial-flowers-decorative-vases): Bring life and color into your home with our artificial flowers and decorative vases. Choose from realistic floral arrangements, ceramic, glass, and metal vases, perfect for table tops or floor displays. Ideal for enhancing living rooms, dining areas, or office spaces.
-  Updated: 2026-06-18T05:12:31Z
+  Updated: 2026-07-02T08:05:53Z
   Total Products: 27
 - [Featured Products](https://www.decor8homes.ca/collections/featured-products)
-  Updated: 2026-06-18T05:12:31Z
+  Updated: 2026-07-02T04:16:55Z
   Total Products: 5
 - [Wallpapers](https://www.decor8homes.ca/collections/wallpapers)
-  Updated: 2026-06-18T05:12:31Z
+  Updated: 2026-07-02T04:16:55Z
   Total Products: 0
 - [All Products](https://www.decor8homes.ca/collections/all-products-chatgpt-ai-product-description)
-  Updated: 2026-06-17T20:55:10Z
-  Total Products: 126
+  Updated: 2026-07-01T22:39:14Z
+  Total Products: 117
+
+## Blogs
+
+- [News](https://www.decor8homes.ca/blogs/news)
+  - [10 Unique Ways to Incorporate Sculptures into Your Home Decor](https://www.decor8homes.ca/blogs/news/10-unique-ways-to-incorporate-sculptures-into-your-home-decor): 10 Unique Ways to Incorporate Sculptures into Your Home Decor
+    Updated: 2026-06-18T06:10:10Z
+    Author: Decor8 Homes Inc.
+  - [How to Transform Your Office Decor with Sculptures and Vases](https://www.decor8homes.ca/blogs/news/how-to-transform-your-office-decor-with-sculptures-and-vases): How to Transform Your Office Decor with Sculptures and Vases
+    Updated: 2026-06-26T00:34:57Z
+    Author: Decor8 Homes Inc.
 
 ## Store Pages
 
