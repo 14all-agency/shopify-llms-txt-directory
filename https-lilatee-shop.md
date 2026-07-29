@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-11-11T17:29:16Z
 - Contact Email: info@lilatee.shop
-- Updated At: 2026-07-21T00:00:39.728Z
+- Updated At: 2026-07-29T00:00:43.731Z
 
 ## German description:
 
@@ -81,7 +81,7 @@ LILATEE ist eine Premium Teemarke aus Deutschland, inspiriert von der Eleganz un
   Image: https://cdn.shopify.com/s/files/1/0996/8291/0540/files/Lemon_Mix_Infusion_LILA_TEE_Zitrone_Ingwer_Tee_Produktverpackung_Frontansicht.jpg?v=1772548383
   Price: 12,99 € EUR
 - [Paradise Safran Tee mit Damaszenerrose, koffeinfrei | LILATEE](https://lilatee.shop/products/paradis-infusion-safran-rose-apfel): Paradise von LILATEE ist ein koffeinfreier Safran Tee mit Apfel, Damaszenerrose und Safran. Floral, vegan, zuckerfrei und elegant.
-  Updated: 2026-07-19T18:31:34Z
+  Updated: 2026-07-26T18:24:26Z
   Vendor: LILATEE
   Product Type: Safran Tee
   Availability: Available
@@ -114,10 +114,10 @@ LILATEE ist eine Premium Teemarke aus Deutschland, inspiriert von der Eleganz un
   Updated: 2026-07-13T11:37:31Z
   Total Products: 3
 - [Deep Calm - Tee für ruhige Momente](https://lilatee.shop/collections/deep-calm-entspannungstee): Deep Calm von LILATEE vereint Royal, Paradise und Peace: koffeinfreie Safran Tee und Früchtetee Mischungen für ruhige Teemomente.
-  Updated: 2026-07-20T11:25:11Z
+  Updated: 2026-07-27T11:27:40Z
   Total Products: 3
 - [LILATEE Tee-Geschenke](https://lilatee.shop/collections/lilatee-tee-geschenke): Entdecken Sie hochwertige Tee Geschenkideen von LILATEE: exklusives Tee Geschenkset, Safran Tee, Schwarztee und Früchtetee, inspiriert von iranischer Teekultur.
-  Updated: 2026-07-20T11:25:11Z
+  Updated: 2026-07-27T11:27:40Z
   Total Products: 5
 
 ## Blogs
