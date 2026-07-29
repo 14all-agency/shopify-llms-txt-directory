@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2023-01-10T17:18:42Z
-- Updated At: 2026-07-17T00:00:29.026Z
+- Updated At: 2026-07-29T00:00:36.256Z
 
 ## Products
 
@@ -86,7 +86,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ChatGPT_Image_Mar_29_2026_04_54_26_PM.png?v=1774817765
   Price: $24.99 USD
 - [Diet Consultation and Coaching](https://dumbhealthy.com/products/diet-consultation-and-coaching): Dumb Healthy Coaching & Consultation — Looking to improve your daily routine, nutrition, and overall wellness? At DumbHealthy, we offer a structured coaching experience focused on helping you build better habits around food, lifestyle, and consistency. This is more than just a diet plan — it’s a guided approach to nutrition, routine, and personal accountability, designed to fit your schedule and goals. What’s Included: Personalized nutrition guidance tailored to your lifestyle Lifestyle and habit coaching for sustainable routines 24/7 access to our team for questions and support Full DumbHealthy E-Book library Focus Areas: Daily nutrition and food choices Building consistent routines General wellness and lifestyle habits Accountability and support What To Expect: Clear guidance, structure, and support to help you stay consistent and make informed decisions over time. We focus on simple, practical changes that fit into real life. Who This Is For: Anyone looking to improve their routine and nutrition Individuals wanting guidance and accountability Those interested in a structured, supportive approach
-  Updated: 2026-07-08T20:53:27Z
+  Updated: 2026-07-24T01:40:18Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -330,7 +330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/7e483440b4c549769de3ecec36317c10.png?v=1775775537
     Price: $35.00 USD
 - [Dumb Healthy Billboard Tee — 100% Cotton Oversized Graphic Tee](https://dumbhealthy.com/products/color-blocked-raglan-sleeve-t-shirt): The Dumb Healthy Billboard Tee. 7.4oz 100% cotton, loose fit, raglan sleeve. Bold graphic, real fabric, no polyester.
-  Updated: 2026-07-08T21:09:22Z
+  Updated: 2026-07-17T17:22:08Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -418,7 +418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/c40dd58357fb40ee951fddca8fd33d7e.png?v=1775775426
     Price: $20.00 USD
 - [Color-Blocked Raglan Long-Sleeve T-Shirt](https://dumbhealthy.com/products/color-blocked-raglan-long-sleeve-t-shirt): Item Number:RT0028Gender:UnisexModel:LooseFabric:100% cottonFabric Weight:8.0 oz/yd² (270 g/m²)Fabric Thickness:ModerateFabric Strench:High StretchCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Street, Vintage, Daily Casual, Outdoor, School, Office, Festival, Pure Cotton, Patchwork, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Long, Loose, Spring, Summer, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 22.8 58 23.6 60 24.4 62 25.2 64 Length 27.6 70 28.3 72 29.1 74 29.9 76 Sleeve length 29.9 76 30.7 78 31.5 80 32.3 82
-  Updated: 2026-06-21T11:11:56Z
+  Updated: 2026-07-28T04:42:31Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -455,7 +455,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9c170c3055044267b553cf4c95dbf634.png?v=1775853312
     Price: $35.00 USD
 - [Dumb Healthy Raglan Long-Sleeve — 100% Cotton Drop Shoulder Tee](https://dumbhealthy.com/products/color-blocked-raglan-long-sleeve-t-shirt-1): Dumb Healthy Raglan Long-Sleeve. 8oz 100% cotton, drop shoulder, loose fit. Built for daily wear, no polyester.
-  Updated: 2026-07-08T21:09:06Z
+  Updated: 2026-07-17T20:57:29Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -477,7 +477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/0c24544df3d442f0bb1aaf5b6ca0efcc_daa491e0-2abc-4951-b77c-c9a42b619fb9.png?v=1775853233
     Price: $35.00 USD
 - [Snow Wash Drawstring Cotton Pants](https://dumbhealthy.com/products/snow-wash-drawstring-cotton-pants): Item Number:RK0040Gender:UnisexModel:LooseFabric:100% cottonFabric Weight:7.1 oz/yd² (240 g/m²)Fabric Thickness:ThickCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Vintage, Daily Casual, Outdoor, School, Sport, Office, Pure Cotton, Washed, Drawstring, Pocket, Regular, Loose, Mid Waist, Spring, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 41.7 106 42.5 108 43.3 110 44.1 112 44.9 114 Waist 14.2 36 15.0 38 15.7 40 16.5 42 16.9 43 Hip 25.2 64 26.0 66 26.8 68 27.6 70 28.3 72 gid://shopify/Product/10180316627235
-  Updated: 2026-07-08T21:09:26Z
+  Updated: 2026-07-17T07:28:15Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -503,14 +503,14 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9519d5e9180d4980afde0a619637ad91.png?v=1775853786
     Price: $30.00 USD
 - [Snow Washed Raw Edge Sweatpants](https://dumbhealthy.com/products/snow-washed-raw-edge-sweatpants): Item Number:RK0025Gender:UnisexModel:OversizedFabric:100% cottonFabric Weight:12.4 oz/yd² (420 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Outdoor, School, Sport, Office, Pure Cotton, Snow Wash, Drawstring, Long, Oversized, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 40.6 103 41.3 105 42.1 107 42.9 109 43.7 111 Waist 12.6 32 13.4 34 14.2 36 15.0 38 15.7 40 Hip 20.9 53 21.7 55 22.4 57 23.2 59 23.6 60
-  Updated: 2026-06-21T11:11:56Z
+  Updated: 2026-07-28T04:42:31Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ca4d4d4dae7743a0aff3e8445e3db89b.png?v=1775854760
   Price: $0.00 USD
 - [Vintage Washed Raw Edge 100% Cotton Hoodie | Dumb Healthy](https://dumbhealthy.com/products/vintage-washed-raw-edge-hoodie): 9.4oz 100% cotton vintage washed raw edge hoodie. Real fabric, real feel — no polyester. Dumb Healthy. Sizes S-XL. Less than the plastic brands charge.
-  Updated: 2026-07-08T21:09:15Z
+  Updated: 2026-07-18T00:58:23Z
   Vendor: ODMPOD
   Product Type: Hoodie
   Availability: Available
@@ -532,7 +532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f7f4203e2d8a42ad889b8ef83e5bc724.png?v=1775855452
     Price: $35.00 USD
 - [Snow Washed Raw Edge Sweatpants](https://dumbhealthy.com/products/snow-washed-raw-edge-sweatpants-1): Item Number:RK0025Gender:UnisexModel:OversizedFabric:100% cottonFabric Weight:12.4 oz/yd² (420 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Preppy, Sporty, Street, Daily Casual, Outdoor, School, Sport, Office, Pure Cotton, Snow Wash, Drawstring, Long, Oversized, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 40.6 103 41.3 105 42.1 107 42.9 109 43.7 111 Waist 12.6 32 13.4 34 14.2 36 15.0 38 15.7 40 Hip 20.9 53 21.7 55 22.4 57 23.2 59 23.6 60 gid://shopify/Product/10180323868963
-  Updated: 2026-07-08T21:09:08Z
+  Updated: 2026-07-17T18:41:29Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -558,7 +558,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ca4d4d4dae7743a0aff3e8445e3db89b_807e3663-01ea-4789-b6e2-6787eb488c0c.png?v=1775855469
     Price: $35.00 USD
 - [Vintage Washed Waist Pants](https://dumbhealthy.com/products/vintage-washed-waist-pants): Item Number:WK0006Gender:WomenModel:LooseFabric:100% cottonFabric Weight:10.9 oz/yd² (370 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Street, Vintage, Daily Casual, Gym, Outdoor, Sport, Office, Pure Cotton, Washed, Drawstring, Elastic Waist, Pocket, Regular, Straight, Mid Waist, Spring, Autumn, WinterPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Length 41.7 106 42.5 108 43.3 110 44.1 112 Waist 12.2 31 13.0 33 13.8 35 14.6 37 Hip 24.4 62 25.2 64 26.0 66 26.8 68 gid://shopify/Product/10180326424867
-  Updated: 2026-07-08T21:09:08Z
+  Updated: 2026-07-18T14:30:03Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -644,7 +644,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/83bcd014fcdc46988a0a97ec6006cac3.png?v=1775855991
     Price: $40.00 USD
 - [Essential Cotton T-Shirt](https://dumbhealthy.com/products/essential-cotton-t-shirt): Item Number:RT0026Gender:UnisexModel:LooseFabric:100% cottonFabric Weight:7.7 oz/yd² (260 g/m²)Fabric Thickness:ModerateCare Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures:Basics, Casual, Sporty, Daily Casual, Outdoor, Sport, Running, Pure Cotton, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, SummerPrint Size:40*52cmNotes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 22.4 57 23.2 59 24.0 61 24.8 63 25.6 65 Length 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Shoulder 19.9 50.5 20.5 52 21.1 53.5 21.7 55 22.2 56.5 Sleeve length 9.4 24 9.6 24.5 9.8 25 10.0 25.5 10.2 26
-  Updated: 2026-06-21T11:11:56Z
+  Updated: 2026-07-28T04:42:31Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -699,7 +699,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12592668_f_6245CM_51_f.jpg?v=1775947967
     Price: $18.75 USD
 - [RRT](https://dumbhealthy.com/products/rrt): Product: Next Level Apparel 3600 Men's Cotton Crew 4.3 oz. 100% combed ringspun cotton fine jersey 32 singles Fabric laundered for reduced shrinkage Shoulder-to-shoulder taping Hemmed sleeves 1x1 baby rib-knit set-in collar Tear-away label Select colors up to 4xl Sideseamed
-  Updated: 2026-07-08T21:09:20Z
+  Updated: 2026-07-17T09:54:49Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -773,7 +773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/54ae3c8cd42b48238963c27d0d8bc7f3.png?v=1776542247
     Price: $20.00 USD
 - [R&R 100% Cotton T-Shirt](https://dumbhealthy.com/products/rr-100-cotton-t-shirt): Item Number:RT0026 Gender:Unisex Model:Loose Fabric:100% cotton Fabric Weight:7.7 oz/yd² (260 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Sporty, Daily Casual, Outdoor, Sport, Running, Pure Cotton, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, Summer Print Size:40*52cm Notes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 22.4 57 23.2 59 24.0 61 24.8 63 25.6 65 Length 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Shoulder 19.9 50.5 20.5 52 21.1 53.5 21.7 55 22.2 56.5 Sleeve length 9.4 24 9.6 24.5 9.8 25 10.0 25.5 10.2 26 gid://shopify/Product/10185049932067
-  Updated: 2026-06-21T11:11:57Z
+  Updated: 2026-07-28T04:42:32Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -878,62 +878,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/2ac44f7d4fd6403aa0706f035148c3a0_8ceee2fa-a5b0-4660-8844-f8aebaeef94a.png?v=1776460303
     Price: $30.00 USD
-- [Handcrafted 100% Cotton Limited Hoodie Drop | Dumb Healthy x Weber-Bandit](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop): 11.8oz 100% cotton handcrafted limited hoodie by Dumb Healthy x Weber-Bandit Co. No restocks. Real fabric, not polyester. Sizes S-XL.
-  Updated: 2026-07-08T21:09:32Z
-  Vendor: ODMPOD
-  Product Type: Hoodie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/c6ca383f498a401fb47395d0a04ab053.png?v=1776466392
-  - [Black / S](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983287587)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/c6ca383f498a401fb47395d0a04ab053.png?v=1776466392
-    Price: $35.00 USD
-  - [Black / M](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983320355)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/c6ca383f498a401fb47395d0a04ab053.png?v=1776466392
-    Price: $35.00 USD
-  - [Black / L](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983353123)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/c6ca383f498a401fb47395d0a04ab053.png?v=1776466392
-    Price: $35.00 USD
-  - [Black / XL](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983385891)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/c6ca383f498a401fb47395d0a04ab053.png?v=1776466392
-    Price: $35.00 USD
-  - [Dark Gray / S](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983418659)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f97184bf4dea4b95a60ed1bfa53520fd.png?v=1776466392
-    Price: $35.00 USD
-  - [Dark Gray / M](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983451427)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f97184bf4dea4b95a60ed1bfa53520fd.png?v=1776466392
-    Price: $35.00 USD
-  - [Dark Gray / L](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983484195)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f97184bf4dea4b95a60ed1bfa53520fd.png?v=1776466392
-    Price: $35.00 USD
-  - [Dark Gray / XL](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983516963)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f97184bf4dea4b95a60ed1bfa53520fd.png?v=1776466392
-    Price: $35.00 USD
-  - [Purple / S](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983549731)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/e2507b95e40e486fb74dce6b5a715d24.png?v=1776466392
-    Price: $35.00 USD
-  - [Purple / M](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983582499)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/e2507b95e40e486fb74dce6b5a715d24.png?v=1776466392
-    Price: $35.00 USD
-  - [Purple / L](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983615267)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/e2507b95e40e486fb74dce6b5a715d24.png?v=1776466392
-    Price: $35.00 USD
-  - [Purple / XL](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop?variant=54937983648035)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/e2507b95e40e486fb74dce6b5a715d24.png?v=1776466392
-    Price: $35.00 USD
 - [Heavyweight Cotton Hoodie No Rips | Limited Drop | Dumb Healthy x Weber-Bandit](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-limited-hoodie-drop-no-rips): 12.4oz 100% cotton limited hoodie — no rips, no polyester. Dumb Healthy x Weber-Bandit Co. Sizes S-2XL. Real fabric at a real price. No restocks.
-  Updated: 2026-07-08T21:09:33Z
+  Updated: 2026-07-18T03:02:03Z
   Vendor: ODMPOD
   Product Type: Hoodie
   Availability: Available
@@ -959,7 +905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/099f457ede4144ea928a8670e94e7e5d.png?v=1776466272
     Price: $35.00 USD
 - [DUMB HEALTHY x WEBER-BANDIT CO. — BIG HOOD LIMITED DROP](https://dumbhealthy.com/products/boxy-oversized-hoodie-1): DUMB HEALTHY x WEBER-BANDIT CO. — BIG HOOD LIMITED DROP This one is the one your girlfriend is not going to give back. Heavyweight hoodie built to actually feel like one. * Thick, premium 100% COTTON * Structured fit that holds shape * Soft inside, durable outside * Made to wear in, not wear out Simple, solid, and built right. * Limited run — no restocks * Same collab, different feel * Clean enough to wear daily, strong enough to stand out * One of those pieces that only exists for a moment This isn’t a hoodie your girlfriend is going to give back. It’s one you keep. DUMB HEALTHY x WEBER-BANDIT CO. Item Number:RU0113 Gender:Unisex Model:Regular Fabric:100% cotton Fabric Weight:12.4 oz/yd² (420 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Black, Grey, Basics, Casual, Street, Daily Casual, Outdoor, School, Office, Pure Cotton, Pocket, Long Sleeve, Drop Shoulder, Hooded, Regular, Regular, Mid Waist, Spring, Autumn, Winter Print Size:40*52cm Size Chart S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Chest 27.6 70 28.3 72 29.1 74 29.9 76 30.7 78 Length 24.0 61 24.8 63 25.6 65 26.4 67 27.2 69 Shoulder 27.2 69 28.0 71 28.7 73 29.5 75 30.3 77 Sleeve length 20.9 53 21.3 54 21.7 55 22.0 56 22.4 57 gid://shopify/Product/10185148924195
-  Updated: 2026-07-08T21:09:14Z
+  Updated: 2026-07-18T15:59:54Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -985,7 +931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/c4ae28163fdb425a9e21f25cecdc3de5.png?v=1776542202
     Price: $40.00 USD
 - [DUMB HEALTHY x WEBER-BANDIT CO.  — LIMITED SHORTS DROP](https://dumbhealthy.com/products/essential-cotton-shorts): DUMB HEALTHY x WEBER-BANDIT CO. — LIMITED SHORTS DROP Same energy, stripped down. These aren’t filler pieces—they’re part of the set. Built to match the hoodie, but stand on their own when it’s hot out and you still want to look put together. Weber brings that clean, no-compromise execution. Bandit brings the edge—the part that doesn’t ask for approval. DUMB HEALTHY sits right in the middle—two things that shouldn’t work together, but somehow hit harder because they do. 🔥 THE DESIGN Same flame-driven identity, just applied different. “DUMB” carries that instant impact—raw, bold, recognizable. “HEALTHY” keeps it grounded—clean, controlled, intentional. It’s that balance again. Not trying too hard, but still catching eyes. 💎 THE PIECE These are **premium, heavyweight shorts**—not thin, not throwaway. * Thick, quality fabric with structure * Comfortable fit without looking sloppy * Durable for daily wear * Clean finish with just enough edge Made to move in, but still look right when you step out. 💎 WHY IT HITS * Limited run — no restocks * Part of the full collab set * Same designer energy carried through * Easy to wear, hard to miss This is one of those pieces people wish they grabbed when it’s gone. Not overdone. Not overthought. Just right. DUMB HEALTHY x WEBER-BANDIT CO. Gender:Unisex Model:Loose Fabric:85% cotton, 15% polyester Fabric Weight:9.4 oz/yd² (320 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Daily Casual, Holiday, Home, Outdoor, Party, Sport, Pure Cotton, Drawstring, Regular, Loose, Mid Waist, Spring, Summer Print Size:40*52cm Notes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL 2XL 3XL inch cm inch cm inch cm inch cm inch cm inch cm Length 20.1 51 20.7 52.5 21.3 54 21.9 55.5 22.4 57 23.0 58.5 Waist 15.7 40 16.3 41.5 16.9 43 17.5 44.5 18.1 46 18.7 47.5 Hip 20.9 53 21.7 55 22.4 57 23.2 59 24.0 61 24.8 63 gid://shopify/Product/10185505079587
-  Updated: 2026-07-08T21:56:23Z
+  Updated: 2026-07-18T04:02:58Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1015,7 +961,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/a5d5599296aa43fb99c9902b1e4ebb2a.png?v=1776542127
     Price: $19.99 USD
 - [DUMB HEALTHY x WEBER-BANDIT CO. — CORE TEE](https://dumbhealthy.com/products/snow-wash-raw-hem-boxy-t-shirt): DUMB HEALTHY x WEBER-BANDIT CO. — CORE TEE Snow Wash Raw-Hem Boxy T-shirt This is the piece everything builds off of. Not the loudest. Not the most overdone. Just the one that works every time. Weber brings precision and clean execution. Bandit brings edge and that do-your-own-thing mindset. DUMB HEALTHY sits in the middle, two things that don’t usually go together but make more sense the longer you wear it. The design keeps it simple but recognizable. “DUMB” carries that raw, instant identity. “HEALTHY” balances it out with control and discipline. It’s not trying too hard, and that’s exactly why it hits. This is a premium cotton tee with real structure. It holds its shape, feels solid, and wears in over time instead of wearing out. Clean enough to dress up, easy enough to throw on every day. This is the staple of the collection. The one you grab without thinking. The one that ends up getting worn the most. DUMB HEALTHY x WEBER-BANDIT CO. Model:Loose Fabric:100% cotton Fabric Weight:10.0 oz/yd² (340 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Sporty, Street, Vintage, Daily Casual, Outdoor, Running, Sport, Office, Pure Cotton, Washed, Frayed, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, Spring, Summer, Autumn Print Size:40*52cm Notes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 24.0 61 24.8 63 25.6 65 26.4 67 Length 25.6 65 26.4 67 27.2 69 28.0 71 Shoulder 22.4 57 23.2 59 24.0 61 24.8 63 Sleeve length 10.0 25.5 10.4 26.5 10.8 27.5 11.2 28.5 gid://shopify/Product/10185506390307
-  Updated: 2026-07-08T21:56:23Z
+  Updated: 2026-07-17T05:06:38Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1063,7 +1009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/7c7b8667672d4560a7ed149f38f6df8d.png?v=1776541812
     Price: $20.00 USD
 - [DUMB HEALTHY x WEBER-BANDIT CO. — 100% COTTON SWEATPANTS](https://dumbhealthy.com/products/essential-heavyweight-cotton-sweatpants): DUMB HEALTHY x WEBER-BANDIT CO. — SWEATPANTS Same mindset, just built for movement. These are part of the core set. Not an afterthought. Designed to match the rest of the drop but still hold their own. Weber brings that clean, structured execution. Bandit brings the edge and attitude. DUMB HEALTHY sits right in the middle, two ideas that don’t usually go together but work better because they do. The design stays consistent. “DUMB” carries that bold, recognizable energy. “HEALTHY” keeps it grounded. It’s simple, but it stands out without forcing it. These are heavyweight sweatpants with real structure. Thick cotton blend, soft on the inside, durable on the outside. They hold their shape, move well, and don’t feel cheap. Clean fit, adjustable waist, built to wear daily without falling apart. This is the full set coming together. Not just something to throw on, something you keep in rotation. DUMB HEALTHY x WEBER-BANDIT CO. Gender:Unisex Model:Regular Fabric:100% cotton Fabric Weight:15.6 oz/yd² (530 g/m²) Fabric Thickness:Thick Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Sporty, Street, Vintage, Daily Casual, Outdoor, Running, Sport, Office, Pure Cotton, Drawstring, Regular, Regular, Mid Waist, Spring, Autumn Print Size:40*52cm Notes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart 2XS XS S M L inch cm inch cm inch cm inch cm inch cm Length 38.6 98 39.4 100 40.2 102 40.9 104 41.7 106 Waist 14.4 36.5 15.0 38 15.6 39.5 16.1 41 16.7 42.5 Hip 20.5 52 21.3 54 22.0 56 22.8 58 23.6 60 gid://shopify/Product/10185507209507
-  Updated: 2026-07-08T21:56:18Z
+  Updated: 2026-07-18T09:55:58Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1088,54 +1034,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/5b321d609fa54ce393eb3f04a2230a2c.png?v=1776542022
     Price: $35.00 USD
-- [DUMB HEALTHY x Weber-Bandit Co. Wifie Tee — Cotton Crop Top](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top): DUMB HEALTHY x Weber-Bandit Co. Wifie Tee. 6.2oz 100% cotton bodycon crop top. Limited collab, bold graphic, no polyester.
-  Updated: 2026-07-15T16:29:35Z
-  Vendor: ODMPOD
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d08477c9d34147ec871985cef283f69f.png?v=1776543757
-  - [Black / S](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939776745763)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d08477c9d34147ec871985cef283f69f.png?v=1776543757
-    Price: $19.95 USD
-  - [Black / M](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939776778531)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d08477c9d34147ec871985cef283f69f.png?v=1776543757
-    Price: $19.95 USD
-  - [Black / L](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939776811299)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d08477c9d34147ec871985cef283f69f.png?v=1776543757
-    Price: $19.95 USD
-  - [Black / XL](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939776844067)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d08477c9d34147ec871985cef283f69f.png?v=1776543757
-    Price: $19.95 USD
-  - [Black / 2XL](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939776876835)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d08477c9d34147ec871985cef283f69f.png?v=1776543757
-    Price: $19.95 USD
-  - [White / S](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939776909603)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d0c365364e68419f83fbcd6e4bc1564f.png?v=1776543757
-    Price: $19.95 USD
-  - [White / M](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939776942371)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d0c365364e68419f83fbcd6e4bc1564f.png?v=1776543757
-    Price: $19.95 USD
-  - [White / L](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939776975139)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d0c365364e68419f83fbcd6e4bc1564f.png?v=1776543757
-    Price: $19.95 USD
-  - [White / XL](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939777007907)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d0c365364e68419f83fbcd6e4bc1564f.png?v=1776543757
-    Price: $19.95 USD
-  - [White / 2XL](https://dumbhealthy.com/products/essential-cotton-bodycon-crop-top?variant=54939777040675)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/d0c365364e68419f83fbcd6e4bc1564f.png?v=1776543757
-    Price: $19.95 USD
 - [DUMB HEALTHY x WEBER-BANDIT CO. — WOMEN’S RAW CUTOFF HOODIE](https://dumbhealthy.com/products/dumb-healthy-x-weber-bandit-co-womens-raw-cutoff-hoodie): DUMB HEALTHY x WEBER-BANDIT CO. — WOMEN’S CUTOFF HOODIE Vintage Washed Raw Edge Hoodie Same mindset, cut different. This piece keeps the identity but strips it down. Cropped, raw, and built to move. It’s not oversized or heavy—it’s sharp, clean, and intentional. Weber brings precision and structure. Bandit brings edge and attitude. DUMB HEALTHY sits right in the middle, two ideas that don’t usually go together but work better because they do. The design stays consistent. “DUMB” carries that bold, recognizable energy. “HEALTHY” balances it out with control and discipline. It’s simple, but it holds its own. This is a cropped hoodie with a raw cutoff hem. Soft interior, structured feel, and a fit that sits right without feeling bulky. Lightweight enough to wear year-round, solid enough to keep its shape. Easy to throw on, hard to ignore. This is one of those pieces that becomes part of your rotation without trying. DUMB HEALTHY x WEBER-BANDIT CO. Gender:Women Model:Regular Fabric:100% cotton Fabric Weight:9.4 oz/yd² (320 g/m²) Fabric Thickness:Moderate Care Instructions:Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry clean Features:Basics, Casual, Sporty, Street, Vintage, Daily Casual, Outdoor, Sport, Office, Gym, Pure Cotton, Washed, Pleated, Long Sleeve, Drop Shoulder, Hooded, V-Neck, Crop, Bodycon, Spring, Autumn Print Size:40*52cm Notes:Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Size Chart S M L XL inch cm inch cm inch cm inch cm Chest 19.3 49 20.1 51 20.9 53 21.7 55 Length 18.5 47 18.9 48 19.3 49 19.7 50 Shoulder 17.3 44 18.1 46 18.9 48 19.7 50 Sleeve length 26.0 66 26.4 67 26.8 68 27.2 69 gid://shopify/Product/10185545777443
-  Updated: 2026-07-08T21:56:24Z
+  Updated: 2026-07-18T01:30:31Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1399,7 +1299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12692183_f_AL2100_Ab72_f.jpg?v=1777315700
     Price: $25.45 USD
 - [DH BW Collab Hat — Organic Cotton Unstructured Cap | Dumb Healthy](https://dumbhealthy.com/products/dh-bw-colab-hat): DH BW Collab Hat. 8oz  organic cotton twill, unstructured 6-panel, brass slider closure. WRAP-.
-  Updated: 2026-07-08T21:56:24Z
+  Updated: 2026-07-17T15:46:13Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -1552,7 +1452,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12721501_f_3600_67_f.jpg?v=1777586832
     Price: $24.76 USD
 - [Dumb Healthy Long-Sleeve Crew — 100% Cotton | Dumb Healthy](https://dumbhealthy.com/products/dumb-long-sleeve): Dumb Healthy Long-Sleeve. 4.3oz 100% ringspun cotton, preshrunk, side seams, removable label. Soft, layerable, built to last.
-  Updated: 2026-07-08T21:56:01Z
+  Updated: 2026-07-18T17:35:40Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -1726,7 +1626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12734045_f_N3601_30_f.jpg?v=1777757859
     Price: $31.31 USD
 - [100% Organic Cotton Hoodie | Cheapest on the Market | Dumb Healthy](https://dumbhealthy.com/products/dumb-organic): Shop the Dumb Healthy Organic Cotton Hoodie — 100% organic French terry, sizes XS-4XL. Premium quality at the lowest price on the market. Free shipping available.
-  Updated: 2026-07-08T21:56:06Z
+  Updated: 2026-07-18T08:53:09Z
   Vendor: Dumb Healthy
   Product Type: Hoodie
   Availability: Available
@@ -1860,7 +1760,7 @@
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12738960_f_AL4000_f0d4_f.jpg?v=1777837242
     Price: $43.12 USD
 - [R&R Farmers Market Tee](https://dumbhealthy.com/products/r-r-farmers-market-tee): 100% Men's Cotton Crew 4.3 oz. 100% combed ringspun cotton fine jersey Heather Gray 90 Cotton/10 Poly 32 singles Fabric laundered for reduced shrinkage Shoulder-to-shoulder taping Hemmed sleeves 1x1 baby rib-knit set-in collar Tear-away label Select colors up to 4xl Sideseamed
-  Updated: 2026-07-08T21:56:25Z
+  Updated: 2026-07-18T15:56:14Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
@@ -2337,7 +2237,93 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904719_f_LPC450VLS_fb47_f.jpg?v=1779998828
     Price: $26.50 USD
-[List Continued](https://dumbhealthy.com/a/llms-agent/llms.txt?shop=dumb-healthy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDI0MDc0MDA5ODMzOSwibGFzdF92YWx1ZSI6IjEwMjQwNzQwMDk4MzM5In0%3D)
+- [Long Sleeve Paw Tee Crop top - new](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new): Product: Bella + Canvas 6501B Fast Fashion Ladies' Cropped Long-Sleeve T-Shirt 4.2oz., 100% airlume combed and ringspun cotton, 32 singles Perfect layering piece for Fall Streetwear-inspired raw hem and dropped shoulder Lightweight Airlume cotton is fit to flatter Cropped body Side-seamed Tear away label
+  Updated: 2026-07-15T06:27:05Z
+  Vendor: Dumb Healthy
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_54_f.jpg?v=1779999140
+  - [NAVY / S](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998508323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_54_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [NAVY / M](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998541091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_54_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [NAVY / L](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998573859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_54_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [NAVY / XL](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998606627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_54_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [NAVY / 2XL](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998639395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_54_f.jpg?v=1779999140
+    Price: $22.33 USD
+  - [MAUVE / S](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998672163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_BT_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [MAUVE / M](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998704931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_BT_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [MAUVE / L](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998737699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_BT_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [MAUVE / XL](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998770467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_BT_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [MAUVE / 2XL](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998803235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_BT_f.jpg?v=1779999140
+    Price: $22.33 USD
+  - [DARK LAVENDER / S](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998836003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_78_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [DARK LAVENDER / M](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998868771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_78_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [DARK LAVENDER / L](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998901539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_78_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [DARK LAVENDER / XL](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998934307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_78_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [DARK LAVENDER / 2XL](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998967075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_78_f.jpg?v=1779999140
+    Price: $22.33 USD
+  - [BLACK / S](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161998999843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_51_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [BLACK / M](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161999032611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_51_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [BLACK / L](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161999065379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_51_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [BLACK / XL](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161999098147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_51_f.jpg?v=1779999140
+    Price: $21.33 USD
+  - [BLACK / 2XL](https://dumbhealthy.com/products/long-sleeve-paw-tee-crop-top-new?variant=55161999130915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ninjapod_12904764_f_6501B_51_f.jpg?v=1779999140
+    Price: $22.33 USD
+[List Continued](https://dumbhealthy.com/a/llms-agent/llms.txt?shop=dumb-healthy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDI0MDc0MTQ0MTgyNywibGFzdF92YWx1ZSI6IjEwMjQwNzQxNDQxODI3In0%3D)
 
 ## Collections
 
@@ -2348,8 +2334,8 @@
   Updated: 2026-07-08T20:59:58Z
   Total Products: 11
 - [Clothing](https://dumbhealthy.com/collections/clothing): Shop Dumb Healthy clothing and merch. Comfortable, stylish apparel for the health-conscious lifestyle.
-  Updated: 2026-07-10T20:16:43Z
-  Total Products: 40
+  Updated: 2026-07-27T23:35:02Z
+  Total Products: 39
 - [Supplements](https://dumbhealthy.com/collections/supplements): Shop our supplements collection.
   Updated: 2026-07-08T20:59:56Z
   Total Products: 26
@@ -2357,14 +2343,14 @@
   Updated: 2026-07-08T20:59:51Z
   Total Products: 4
 - [Specialty Coaching & Wellness Consultation](https://dumbhealthy.com/collections/specialty-wellness): Explore Dumb Healthy's specialty wellness products — raw honey, farm eggs, dog treats, wellness boxes, and diet coaching.
-  Updated: 2026-07-08T20:59:42Z
+  Updated: 2026-07-24T11:07:40Z
   Total Products: 5
 - [Dog Treats](https://dumbhealthy.com/collections/dog-treats): Shop wholesome dog treats made with pasture-raised ingredients. Natural, healthy options your dog will love.
   Updated: 2026-07-08T20:59:43Z
   Total Products: 1
 - [DUMB Merch](https://dumbhealthy.com/collections/dumb-merch): Shop DUMB Merch — bold 100% cotton streetwear from Dumb Healthy. Limited drops, no restocks, no polyester. Real fabric, real construction.
-  Updated: 2026-07-08T20:48:23Z
-  Total Products: 27
+  Updated: 2026-07-27T23:35:02Z
+  Total Products: 26
 - [Taco Merch](https://dumbhealthy.com/collections/taco-merch): Shop the Taco Maki x Dumb Healthy collab — limited edition cotton streetwear. Bold graphics, premium fabric, no restocks.
   Updated: 2026-07-08T20:48:23Z
   Total Products: 0
@@ -2576,6 +2562,21 @@
     Author: A.
   - [Enhance Your Sleep and Gut Health with Mushroom Supplements and Healthy Habits](https://dumbhealthy.com/blogs/news/enhance-your-sleep-and-gut-health-with-mushroom-supplements-and-healthy-habits): Enhance Your Sleep and Gut Health with Mushroom Supplements and Healthy Habits
     Updated: 2026-07-16T07:00:37Z
+    Author: A.
+  - [Non-Toxic Living Essentials: Detoxifying Superfoods for Home Wellness](https://dumbhealthy.com/blogs/news/non-toxic-living-essentials-detoxifying-superfoods-for-home-wellness): Non-Toxic Living Essentials: Detoxifying Superfoods for Home Wellness
+    Updated: 2026-07-17T07:04:42Z
+    Author: A.
+  - [Detoxifying Superfoods that May Boost Indoor Air and Water Quality](https://dumbhealthy.com/blogs/news/detoxifying-superfoods-that-may-boost-indoor-air-and-water-quality): Detoxifying Superfoods that May Boost Indoor Air and Water Quality
+    Updated: 2026-07-18T07:02:33Z
+    Author: A.
+  - [The Role of Superfoods in Environmental and Home Wellness](https://dumbhealthy.com/blogs/news/the-role-of-superfoods-in-environmental-and-home-wellness): The Role of Superfoods in Environmental and Home Wellness
+    Updated: 2026-07-23T07:01:14Z
+    Author: A.
+  - [Strengthen Your Healthy Habits with Detoxifying Foods for Liver Support](https://dumbhealthy.com/blogs/news/strengthen-your-healthy-habits-with-detoxifying-foods-for-liver-support): Strengthen Your Healthy Habits with Detoxifying Foods for Liver Support
+    Updated: 2026-07-24T07:04:40Z
+    Author: A.
+  - [Clean Living Tips: Incorporate Superfoods to Improve Inflammation and Focus Support](https://dumbhealthy.com/blogs/news/clean-living-tips-incorporate-superfoods-to-improve-inflammation-and-focus-support): Clean Living Tips: Incorporate Superfoods to Improve Inflammation and Focus Support
+    Updated: 2026-07-25T07:02:12Z
     Author: A.
 
 ## Store Pages
