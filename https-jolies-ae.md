@@ -6,7 +6,7 @@
 - Timezone: Asia/Muscat
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: jolies.ae@gmail.com
-- Updated At: 2026-07-21T21:06:01.301Z
+- Updated At: 2026-07-29T00:00:53.700Z
 
 ## Products
 
@@ -31,13 +31,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/POSA-Instant-Control-Edge-Control_Hair-Wax_-48-hours-Lasting-Natural-Tea-Tree-Oil-Deep-Moisturizing-EdgeTamer_-Shine-Smooth-Hair-Styling-Gel-with-Shea-Butter_Jojoba-Oil-120-ML-POSA-JO.jpg?v=1696936037
   Price: AED 60.00 AED
-- [Nuspa Natural Organic Sulfate Free Moroccan Argan Oil Shampoo and](https://jolies.ae/products/nuspa-natural-organic-sulfate-free-moroccan-argan-oil-shampoo-and-conditioner-set-color-safe--uv-protection-intense-moisturizing-for-dry-damaged-frizzy-volumizing-for-thin-hair1000ml): NUSPA Get Healthier and More Beautiful Hair with Nuspa Organic Argan Oil Shampoo and Conditioner Set! A  JOLIE'S
-  Updated: 2026-05-24T03:28:53Z
-  Vendor: NUSPA
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Nuspa-Natural-Organic-Sulfate-Free-Moroccan-Argan-Oil-Shampoo-and-Conditioner-Set-Color-Safe-Treatment_-UV-Protection_-Intense-Moisturizing-For-Dry_-Damaged_-Frizzy_-Volumizing-for-Thin-Hai-205065257.png?v=1779550134
-  Price: AED 190.00 AED
 - [Nuspa Argan Oil Hair Mask Deep Conditioner Sulfate Free 250 ML -](https://jolies.ae/products/nuspa-argan-oil-hair-mask-deep-conditioner-sulfate-free-for-dry-or-damaged-hair-with-organic-jojoba-kernel-oil-aloe-vera-collagen-and-keratin): NUSPA  Nuspa Argan Oil Hair Mask Deep Conditioner Sulfate Free 250 ML RESTORES HAIR BREAKAGE WITH LEAVE IN  JOLIE'S
   Updated: 2026-05-21T00:33:22Z
   Vendor: NUSPA
@@ -179,14 +172,14 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ADORE-TECH-Hair-Dryer-By-Ceriotti-2200-W-ADORE-TECH-JOLIE-S-1696938393329.jpg?v=1696938395
   Price: AED 300.00 AED
 - [Amazon Flowers Blond Liss Organic Hair Straightener 1000 ML - JOLIE'S](https://jolies.ae/products/amazon-flowers-blond-liss-organic-hair--1000-ml): AMAZON FLOWERS Achieve Smooth and Silky Hair with Amazon Flowers Blond Liss Organic Hair Straightener 1000 ML  JOLIE'S
-  Updated: 2026-07-03T23:27:25Z
+  Updated: 2026-07-24T13:34:52Z
   Vendor: AMAZON FLOWERS
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Amazon-Flowers-Blond-Liss-Organic-Hair-Straightener-1000-ML-AMAZON-FLOWERS-JOLIE_S-205065088.png?v=1779549864
   Price: AED 500.00 AED
 - [NUSPA Anti Hair Loss Hair Care Set with Herbal Shampoo, Serum &](https://jolies.ae/products/nuspa-anti-hair-loss-hair-care-set-with-herbal-shampoo-serum-massage-comb): NUSPA NUSPA Anti Hair Loss Hair Care Set with Herbal Shampoo, Serum &amp; Massage Comb Leaving hair loss  JOLIE'S
-  Updated: 2026-06-24T13:02:14Z
+  Updated: 2026-07-25T12:31:47Z
   Vendor: NUSPA
   Product Type: 
   Availability: Available
@@ -355,7 +348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/HB-HAIR-SOLUTION-Amazon-Therapy-Anti-Frizz-Protein-HB-JOLIE_S-127910365.jpg?v=1724965201
     Price: AED 200.00 AED
 - [HB HAIR SOLUTION Brazilian Caviar Anti Frizz Protein - JOLIE'S](https://jolies.ae/products/hb-hair-solution-brazilian-caviar-anti-frizz-protein-1000-ml): HB HB HAIR SOLUTION Brazilian Caviar Anti Frizz Protein With Caviar Extract, Pracaxi oil, tannin , 0%  JOLIE'S
-  Updated: 2026-07-19T06:27:01Z
+  Updated: 2026-07-23T08:00:46Z
   Vendor: HB
   Product Type: 
   Availability: Available
@@ -515,27 +508,27 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/NUSPA-11-in-1-Moroccan-Argan-oil-Moisture-Leave-In-Conditioner-Spray-250-ML-NUSPA-JOLIE_S-127536321.jpg?v=1724965482
   Price: AED 100.00 AED
 - [Sally's Choice Bio Protein Natural Hair Therapy Anti Frizz 6 Pcs Set -](https://jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set): SALLY'S CHOICE Sally's Choice Bio Protein Natural Hair Therapy Anti Frizz with Collagen, Shea, Argan &amp;  JOLIE'S
-  Updated: 2026-07-03T23:27:31Z
+  Updated: 2026-07-28T05:44:07Z
   Vendor: SALLY'S CHOICE
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Sally_s-Choice-Bio-Protein-Natural-Hair-Therapy-Anti-Frizz-6-Pcs-Set-SALLY_S-CHOICE-JOLIE_S-128002149.jpg?v=1724965566
-  - [Shampoo & conditioner](https://jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set?variant=48625523032385)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Sally_s-Choice-Bio-Protein-Natural-Hair-Therapy-Anti-Frizz-6-Pcs-Set-SALLY_S-CHOICE-JOLIE_S-128002953.jpg?v=1724965588
-    Price: AED 160.00 AED
-  - [Shampoo & conditioner & mask & serum](https://jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set?variant=48625523196225)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Sally_s-Choice-Bio-Protein-Natural-Hair-Therapy-Anti-Frizz-6-Pcs-Set-SALLY_S-CHOICE-JOLIE_S-128002233.jpg?v=1724965568
-    Price: AED 299.00 AED
-  - [Hair Blowout](https://jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set?variant=48625523261761)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Sally_s-Choice-Bio-Protein-Natural-Hair-Therapy-Anti-Frizz-6-Pcs-Set-SALLY_S-CHOICE-JOLIE_S-128002378.jpg?v=1724965572
-    Price: AED 600.00 AED
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Sally_s-Choice-Bio-Protein-Natural-Hair-Therapy-Anti-Frizz-6-Pcs-Set-SALLY_S-CHOICE-JOLIE_S-205471260.png?v=1785217446
   - [Complete Set 6 Pcs](https://jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set?variant=48625523294529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Sally_s-Choice-Bio-Protein-Natural-Hair-Therapy-Anti-Frizz-6-Pcs-Set-SALLY_S-CHOICE-JOLIE_S-128002149.jpg?v=1724965566
     Price: AED 799.00 AED
+  - [Hair Blowout](https://jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set?variant=48625523261761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Sally_s-Choice-Bio-Protein-Natural-Hair-Therapy-Anti-Frizz-6-Pcs-Set-SALLY_S-CHOICE-JOLIE_S-128002378.jpg?v=1724965572
+    Price: AED 600.00 AED
+  - [Shampoo & conditioner & mask & serum](https://jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set?variant=48625523196225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Sally_s-Choice-Bio-Protein-Natural-Hair-Therapy-Anti-Frizz-6-Pcs-Set-SALLY_S-CHOICE-JOLIE_S-128002233.jpg?v=1724965568
+    Price: AED 299.00 AED
+  - [Shampoo & conditioner](https://jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set?variant=48625523032385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Sally_s-Choice-Bio-Protein-Natural-Hair-Therapy-Anti-Frizz-6-Pcs-Set-SALLY_S-CHOICE-JOLIE_S-128002953.jpg?v=1724965588
+    Price: AED 160.00 AED
 - [Abpnatural Cosmetics Power Brushing Avocado Butter Gloss Reductive](https://jolies.ae/products/abpnatural-cosmetics-power-brushing-avocado-butter-gloss-reductive-brazilian-protein-1-l): ABPNATURAL Abpnatural Cosmetics Power Brushing Avocado Butter Gloss Reductive Brazilian Protein 1000 ML Rich in  JOLIE'S
   Updated: 2026-07-03T23:27:32Z
   Vendor: ABPNATURAL
@@ -640,14 +633,14 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TIGI-BED-HEAD-Colour-Goddess-Conditioner-2000-ML-TIGI-JOLIE_S-128609832.jpg?v=1724965842
   Price: AED 200.00 AED
 - [TopHair Cosmetics  Barra Da Tijuca Hair Protein Keratin 120 ML For](https://jolies.ae/products/tophair-cosmetics-barra-da-tijuca-hair-protein-keratin-120-ml-for-colored-hair): TopHair Cosmetics TopHair Cosmetics  Barra Da Tijuca Hair Protein Keratin 120 ML For Colored Hair ✅ AMLA ✅ TANINO ✅  JOLIE'S
-  Updated: 2026-07-03T23:27:33Z
+  Updated: 2026-07-25T14:26:40Z
   Vendor: TopHair Cosmetics
   Product Type: Hair Permanents & Straighteners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TopHair-Cosmetics-Barra-Da-Tijuca-Hair-Protein-Keratin-120-ML-For-Colored-Hair-TopHair-Cosmetics-JOLIE_S-205064585.png?v=1779549640
   Price: AED 150.00 AED
 - [TopHair Cosmetics Premium Hair Smooth Collagen Protein 120 ML -](https://jolies.ae/products/tophair-cosmetics-premium-hair-smooth-collagen-protein-120-ml): TopHair Cosmetics TopHair Cosmetics Premium Hair Smooth Collagen Protein 120 ML  Collagen  Ojon Oil  Caviar  Argan  JOLIE'S
-  Updated: 2026-07-03T23:27:34Z
+  Updated: 2026-07-25T14:26:37Z
   Vendor: TopHair Cosmetics
   Product Type: Hair Permanents & Straighteners
   Availability: Available
@@ -906,7 +899,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Ginseng-Cleansing-Oil-210-ml-BEAUTY-OF-JOSEON-JOLIE_S-131218653.png?v=1724967181
   Price: AED 90.00 AED
 - [Beauty of Joseon Red Bean Refreshing Pore Mask 140 ml - JOLIE'S](https://jolies.ae/products/beauty-of-joseon-red-bean-refreshing-pore-mask-140-ml): BEAUTY OF JOSEON Beauty of Joseon Red Bean Refreshing Pore Mask 140 ml Our pores are essentially pathways that sebum  JOLIE'S
-  Updated: 2026-05-23T08:19:39Z
+  Updated: 2026-07-26T14:23:32Z
   Vendor: BEAUTY OF JOSEON
   Product Type: 
   Availability: Available
@@ -1064,7 +1057,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Karseell-Maca-Power-Maca-Essence-Moroccan-Argan-Oil-50-ml-KARSEELL-JOLIE_S-131755839.webp?v=1724968158
   Price: AED 100.00 AED
 - [AXIS-Y Dark Spot Correcting Glow Serum 50 ml - JOLIE'S](https://jolies.ae/products/axis-y-dark-spot-correcting-glow-serum-50-ml): AXIS-Y AXIS-Y Dark Spot Correcting Glow Serum 50 ml A 5% Niacinamide-based serum that corrects dark spots  JOLIE'S
-  Updated: 2026-05-21T00:22:26Z
+  Updated: 2026-07-26T23:42:12Z
   Vendor: AXIS-Y
   Product Type: 
   Availability: Available
@@ -1099,7 +1092,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ISNTREE-Hyper-Acid4-30-Serum-20-ml-ISNTREE-JOLIE_S-131949658.png?v=1724968259
   Price: AED 90.00 AED
 - [I'M FROM Rice Toner 150 ml - JOLIE'S](https://jolies.ae/products/im-from-rice-toner-150-ml): I'M FROM I'M FROM Rice Toner 150 ml I'M FROM RICE TONER contains rice harvested in Yeoju, Korea. The rice  JOLIE'S
-  Updated: 2026-05-21T21:57:32Z
+  Updated: 2026-07-26T11:08:57Z
   Vendor: I'M FROM
   Product Type: 
   Availability: Available
@@ -1232,7 +1225,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SOME-BY-MI-Super-Matcha-Pore-Care-Starter-Kit-SOME-BY-MI-JOLIE_S-132670390.jpg?v=1743091353
   Price: AED 120.00 AED
 - [SKIN1004 Madagascar Centella Travel Kit - JOLIE'S](https://jolies.ae/products/skin1004-madagascar-centella-travel-kit): SKIN1004 SKIN1004 Madagascar Centella Travel Kit Infused with centella asiatica extract, the five  JOLIE'S
-  Updated: 2026-05-21T01:46:07Z
+  Updated: 2026-07-26T09:08:39Z
   Vendor: SKIN1004
   Product Type: 
   Availability: Available
@@ -1302,7 +1295,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Anua-Peach-77-Niacin-Conditioning-Milk-150-ml-Anua-JOLIE_S-132765627.jpg?v=1743091667
   Price: AED 110.00 AED
 - [ANUA Rice 70 Glow Milky Toner 250 ml - JOLIE'S](https://jolies.ae/products/anua-rice-70-glow-milky-toner): Anua ANUA Rice 70 Glow Milky Toner 250 ml Experience radiant, glowing skin with ANUA Rice 70 Glow Milky  JOLIE'S
-  Updated: 2026-05-21T09:58:14Z
+  Updated: 2026-07-26T11:26:41Z
   Vendor: Anua
   Product Type: toner
   Availability: Available
@@ -1421,13 +1414,13 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-N_.0-INTENSIVE-BOND-BUILDING--180-ML-OLAPLEX-JOLIE_S-132787475.png?v=1743091943
   Price: AED 140.00 AED
 - [St Dalfour Philpina Beauty Whitening Strong Formula Cream & Soap -](https://jolies.ae/products/st-dalfour-philpina-beauty-whitening-strong-formula-cream-soap): St Dalfour St Dalfour Philpina Beauty Whitening Strong Formula Cream &amp; Soap Is  and proven to be  JOLIE'S
-  Updated: 2026-06-27T18:17:07Z
+  Updated: 2026-07-22T08:51:42Z
   Vendor: St Dalfour
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/St-Dalfour-Philpina-Beauty-Whitening-Strong-Formula-Cream-_-Soap-St-Dalfour-JOLIE_S-133904119.jpg?v=1776787276
   - [Cream & Soap](https://jolies.ae/products/st-dalfour-philpina-beauty-whitening-strong-formula-cream-soap?variant=49310295982401)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/St-Dalfour-Philpina-Beauty-Whitening-Strong-Formula-Cream-_-Soap-St-Dalfour-JOLIE_S-133904119.jpg?v=1776787276
     Price: AED 150.00 AED
   - [Cream](https://jolies.ae/products/st-dalfour-philpina-beauty-whitening-strong-formula-cream-soap?variant=49310295916865)
@@ -1599,24 +1592,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OLAPLEX-No.-4-Bond-Maintenance-Shampoo-250-ML-OLAPLEX-JOLIE_S-132924118.png?v=1743092804
   Price: AED 140.00 AED
-- [& Honey Deep Moist Shampoo,  & Hair Oil Set](https://jolies.ae/products/honey-deep-moist-shampoo--hair-oil-set): & Honey Introducing the &amp; Honey Deep Moist Shampoo,  &amp; Hair Oil Set, a comprehensive hair  JOLIES
-  Updated: 2026-07-14T14:42:09Z
-  Vendor: & Honey
-  Product Type: Beauty & Cosmetics
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Deep-Moist-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-132966217.webp?v=1743092820
-  - [Complete Set](https://jolies.ae/products/honey-deep-moist-shampoo--hair-oil-set?variant=49329656889665)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Deep-Moist-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-132966217.webp?v=1743092820
-    Price: AED 340.00 AED
-  - [Shampoo & ](https://jolies.ae/products/honey-deep-moist-shampoo--hair-oil-set?variant=49329656856897)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Deep-Moist-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-132966869.jpg?v=1743092857
-    Price: AED 230.00 AED
-  - [Shampoo](https://jolies.ae/products/honey-deep-moist-shampoo--hair-oil-set?variant=49329656824129)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Deep-Moist-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-132966953.jpg?v=1743092863
-    Price: AED 120.00 AED
 - [Embryolisse Lait Crème Concentré Multi function Moisturiser 75 ml -](https://jolies.ae/products/embryolisse-lait-creme-concentre-multi-function-moisturiser-75-ml): Embryolisse Embryolisse Lait Crème Concentré Multi function Moisturiser 75 ml Information 6-in-1 multi-function  -  jolies
   Updated: 2026-05-21T10:00:19Z
   Vendor: Embryolisse
@@ -1750,42 +1725,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Bio-Collagen-Real-Deep-Mask-34-gm-BIODANCE-JOLIE_S-165528868.jpg?v=1728669686
   Price: AED 100.00 AED
-- [& Honey Deep Moist Shampoo,  & Hair Oil Set - DOKAN](https://jolies.ae/products/honey-melty-moist-shampoo--hair-oil-set): &amp; Honey Deep Moist ,  and  &amp; Hair Oil Set  &amp; Honey Set Contains : 1-  Shop name
-  Updated: 2026-07-21T05:04:33Z
-  Vendor: & Honey
-  Product Type: Beauty & Cosmetics
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Melty-Moist-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-165544454.jpg?v=1728759793
-  - [Complete Set](https://jolies.ae/products/honey-melty-moist-shampoo--hair-oil-set?variant=49521718034753)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Melty-Moist-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-165544454.jpg?v=1728759793
-    Price: AED 340.00 AED
-  - [Shampoo & Conditioner](https://jolies.ae/products/honey-melty-moist-shampoo--hair-oil-set?variant=49521718001985)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Melty-Moist-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-165544747.jpg?v=1728759802
-    Price: AED 230.00 AED
-  - [Shampoo](https://jolies.ae/products/honey-melty-moist-shampoo--hair-oil-set?variant=49521717969217)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Melty-Moist-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-165544660.jpg?v=1728759799
-    Price: AED 120.00 AED
-- [& Honey Deep Moist Shampoo,  & Hair Oil Set - DOKAN](https://jolies.ae/products/honey-creamy-ex-damage-repair-shampoo--hair-oil-set): &amp; Honey Deep Moist ,  and  &amp; Hair Oil Set  &amp; Honey Set Contains : 1-  Shop name
-  Updated: 2026-07-14T14:41:51Z
-  Vendor: & Honey
-  Product Type: Beauty & Cosmetics
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Creamy-EX-Damage-Repair-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-165544936.jpg?v=1728759809
-  - [Shampoo](https://jolies.ae/products/honey-creamy-ex-damage-repair-shampoo--hair-oil-set?variant=49521719673153)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Creamy-EX-Damage-Repair-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-165545320.jpg?v=1728759820
-    Price: AED 120.00 AED
-  - [Shampoo & Conditioner](https://jolies.ae/products/honey-creamy-ex-damage-repair-shampoo--hair-oil-set?variant=49521719705921)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Creamy-EX-Damage-Repair-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-165545162.jpg?v=1728759815
-    Price: AED 230.00 AED
-  - [Complete Set](https://jolies.ae/products/honey-creamy-ex-damage-repair-shampoo--hair-oil-set?variant=49521719738689)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Creamy-EX-Damage-Repair-Shampoo_--_-Hair-Oil-Set-_-Honey-JOLIE_S-165544936.jpg?v=1728759809
-    Price: AED 340.00 AED
 - [KARSEELL Brazilian Keratin  Complex Blowout Collagen Biotin](https://jolies.ae/products/karseell-brazilian-keratin--complex-blowout-collagen-biotin-organic-hair-straightening-conditioner-500-ml): KARSEELL KARSEELL Brazilian Keratin  Complex Blowout Collagen Biotin Organic Hair Straightening  JOLIE'S
   Updated: 2026-07-03T23:27:35Z
   Vendor: KARSEELL
@@ -1822,7 +1761,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BEAUTY-OF-JOSEON-Relief-Sun-Aqua-Fresh-Rice-_-B5-SPF50_-PA_-50-ML-BEAUTY-OF-JOSEON-JOLIE_S-166326617.png?v=1731353859
   Price: AED 60.00 AED
 - [DR.ALTHEA 345 Relief Cream - Soothing Skin Care](https://jolies.ae/products/dr-althea-345-relief-cream-50ml): Discover DR.ALTHEA 345 Relief Cream for effective skin care. This soothing cream hydrates and calms sensitive skin.
-  Updated: 2026-05-20T16:05:36Z
+  Updated: 2026-07-22T01:17:08Z
   Vendor: DR ALTHEA
   Product Type: CREAM
   Availability: Available
@@ -1871,7 +1810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Collagen-Jelly-Cream-110-ML-Medicube-JOLIE_S-166761489.png?v=1732910284
     Price: AED 125.00 AED
 - [KARSEELL Maca Power Purple Mask and Shampoo Set For Colored Hair -](https://jolies.ae/products/karseell-purple-mask-and-shampoo-for-blonde-set): KARSEELL KARSEELL Maca Power Purple Mask and  Set For Colored Hair The KARSEELL Purple Mask and  JOLIE'S
-  Updated: 2026-05-21T02:01:48Z
+  Updated: 2026-07-25T07:23:50Z
   Vendor: KARSEELL
   Product Type: 
   Availability: Available
@@ -1905,13 +1844,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Collagen-Night-Wrapping-Mask-75-ML-Medicube-JOLIE_S-166791825.png?v=1733083438
   Price: AED 99.00 AED
-- [BOSSA NOVA Protein Hair  System 150 ML - JOLIE'S](https://jolies.ae/products/bossa-nova-protein-hair--system-150-ml): BOSSA NOVA BOSSA NOVA Protein Hair  System 150 ML Elevate Your Hair Game with Bossa ! The Bossa  JOLIE'S
-  Updated: 2026-07-03T23:27:36Z
-  Vendor: BOSSA NOVA
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BOSSA-NOVA-Protein-Hair--System-150-ML-BOSSA-NOVA-JOLIE_S-166793578.jpg?v=1733084508
-  Price: AED 180.00 AED
 - [KARSEELL Maca Power Maca Essence Collagen Moisture Hair Care Set -](https://jolies.ae/products/karseell-maca-power-maca-essence-collagen-moisture-hair-care-set): KARSEELL KARSEELL Maca Power Maca Essence Collagen Moisture Hair Care Set Sulfate Free, Paraben Free,  JOLIE'S
   Updated: 2026-05-20T14:29:51Z
   Vendor: KARSEELL
@@ -1945,26 +1877,12 @@
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/25ml-8-Sheets-Pack-Mom_s-Bath-Recipe-JOLIE_S-166848236.webp?v=1733347694
     Price: AED 130.00 AED
 - [KARSEELL Maca Essence Purple Hair Mask for Blonde Hair 500 ML -](https://jolies.ae/products/karseell-maca-essence-purple-hair-mask-for-blonde-hair-deep-conditioning-tone-correction): KARSEELL KARSEELL Maca Essence Purple Hair  for Blonde Hair 500 ML The KARSEELL Maca Essence Purple Hair  JOLIE'S
-  Updated: 2026-05-20T15:07:43Z
+  Updated: 2026-07-23T11:48:13Z
   Vendor: KARSEELL
   Product Type: CONDITIONER
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/KARSEELL-Maca-Essence-Purple-Hair-Mask-for-Blonde-Hair-500-ML-KARSEELL-JOLIE_S-203477145.jpg?v=1762809320
   Price: AED 120.00 AED
-- [& Honey Deep Moist Shampoo,  & Hair Oil Set - DOKAN](https://jolies.ae/products/honey-herb-smooth-shampoo-conditioner): &amp; Honey Deep Moist ,  and  &amp; Hair Oil Set  &amp; Honey Set Contains : 1-  Shop name
-  Updated: 2026-07-14T14:40:25Z
-  Vendor: & Honey
-  Product Type: Beauty & Cosmetics
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Herb-Smooth-Shampoo-_-Conditioner-_-Honey-JOLIE_S-168528595.jpg?v=1734254841
-  - [Shampoo & Conditioner](https://jolies.ae/products/honey-herb-smooth-shampoo-conditioner?variant=49806766604609)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Herb-Smooth-Shampoo-_-Conditioner-_-Honey-JOLIE_S-168528595.jpg?v=1734254841
-    Price: AED 230.00 AED
-  - [Shampoo](https://jolies.ae/products/honey-herb-smooth-shampoo-conditioner?variant=49806766571841)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Honey-Herb-Smooth-Shampoo-_-Conditioner-_-Honey-JOLIE_S-168528649.png?v=1734254844
-    Price: AED 120.00 AED
 - [Jumiso Snail Mucin 95 + Peptide Facial Essence 140 ml - JOLIE'S](https://jolies.ae/products/jumiso-snail-mucin-95-peptide-facial-essence-140-ml): Jumiso Jumiso's all-in-one facial essence combines 95% snail mucin with peptides to deliver intense  JOLIE'S
   Updated: 2026-05-23T11:16:24Z
   Vendor: JUMISO
@@ -1986,18 +1904,1231 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Ginseng-Moist-Sun-Serum-50ml-BEAUTY-OF-JOSEON-JOLIE_S-169107040.jpg?v=1736769785
   Price: AED 90.00 AED
-[List Continued](https://jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5ODM2NTc0MTQ2ODgxLCJsYXN0X3ZhbHVlIjoiOTgzNjU3NDE0Njg4MSJ9)
+- [Beauty of Joseon Apricot Blossom Peeling Gel 120ml - JOLIE'S](https://jolies.ae/products/beauty-of-joseon-apricot-blossom-peeling-gel-120ml): BEAUTY OF JOSEON The Beauty of Joseon Apricot Blossom Peeling Gel contains natural ingredients from Korean Beauty to  JOLIE'S
+  Updated: 2026-05-22T03:21:50Z
+  Vendor: BEAUTY OF JOSEON
+  Product Type: Gel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Apricot-Blossom-Peeling-Gel-120ml-BEAUTY-OF-JOSEON-JOLIE_S-169107665.jpg?v=1736769652
+  Price: AED 80.00 AED
+- [Beauty Of Joseon Calming Serum Green Tea + Panthenol 30ml - JOLIE'S](https://jolies.ae/products/beauty-of-joseon-calming-serum-green-tea-panthenol-30ml): BEAUTY OF JOSEON Beauty Of Joseon Calming Serum Green Tea + Panthenol is a gentle serum that helps protect your skin  JOLIE'S
+  Updated: 2026-05-20T17:57:02Z
+  Vendor: BEAUTY OF JOSEON
+  Product Type: Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-Of-Joseon-Calming-Serum-Green-Tea-_-Panthenol-30ml-BEAUTY-OF-JOSEON-JOLIE_S-169108092.jpg?v=1736776917
+  Price: AED 80.00 AED
+- [Beauty of Joseon Glow Charging Rice Duo Kit - Radiant Skin](https://jolies.ae/products/glow-charging-rice-duo-kit): Discover the Beauty of Joseon Glow Charging Rice Duo Kit for radiant, moisturized skin. Perfect for achieving a glowing complexion.
+  Updated: 2026-05-24T09:20:52Z
+  Vendor: BEAUTY OF JOSEON
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Glow-Charging-Rice-Duo-Kit-Beauty-of-Joseon-JOLIE_S-169554826.png?v=1737053983
+  Price: AED 160.00 AED
+- [St Dalfour Philpina Beauty Whitening Strong Formula Cream & Soap -](https://jolies.ae/products/st-dalfour-sunblock-cream): St Dalfour Philpina Beauty Whitening Strong Formula Cream &amp; Soap Is  and proven to be  Shop name
+  Updated: 2026-05-21T21:42:54Z
+  Vendor: St Dalfour
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/St-Dalfour-Sunblock-Cream-St-Dalfour-JOLIE_S-173101099.png?v=1737201308
+  Price: AED 80.00 AED
+- [ANUA Azelaic Acid 10 Hyaluron Redness Soothing Serum 30 ML - JOLIE'S](https://jolies.ae/products/anua-azelaic-acid-10-hyaluron-soothing-serum-30ml): ANUA  Azelaic Acid 10 Hyaluron Redness Soothing Serum 30 ml Transform your skincare routine with the  JOLIE'S
+  Updated: 2026-05-21T14:13:34Z
+  Vendor: ANUA
+  Product Type: Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Azelaic-Acid-10-Hyaluron-Redness-Soothing-Serum-30-ML-ANUA-JOLIE_S-173103773.webp?v=1737275593
+  Price: AED 100.00 AED
+- [MEDICUBE Super Cica Pad 70 pcs - JOLIE'S](https://jolies.ae/products/medicube-super-cica-pad-70pcs): Medicube MEDICUBE  Cica Pad 70 pcs Highly concentrated super soothing pads for a sensitive skin Medicube  JOLIE'S
+  Updated: 2026-05-27T11:46:55Z
+  Vendor: Medicube
+  Product Type: Toner Pads
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Super-Cica-Pad-70-pcs-Medicube-JOLIE_S-173104158.jpg?v=1737275622
+  Price: AED 80.00 AED
+- [DR ALTHEA To Be Youthful Eye Serum - JOLIE'S](https://jolies.ae/products/dr-althea-to-be-youthful-eye-serum): Dr Althea The Dr. Althea To Be Youthful Eye Serum is a specialized eye  designed to target common  JOLIE'S
+  Updated: 2026-05-21T07:06:45Z
+  Vendor: DR ALTHEA
+  Product Type: Eye Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/DR-ALTHEA-To-Be-Youthful-Eye-Serum-Dr-Althea-JOLIE_S-173395132.png?v=1737917488
+  Price: AED 75.00 AED
+- [ANUA & DR ALTHEA Brighten & Soothe Duo - JOLIE'S](https://jolies.ae/products/anua-dr-althea-brighten-soothe-duo): JOLIE'S ANUA &amp; DR ALTHEA Brighten &amp; Soothe Duo Anua  10% + TXA 4% Serum 30 ML: The Anua  JOLIE'S
+  Updated: 2026-05-20T18:26:56Z
+  Vendor: JOLIE'S
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-_-DR-ALTHEA-Brighten-_-Soothe-Duo-JOLIE_S-JOLIE_S-173637538.jpg?v=1738261473
+  Price: AED 179.00 AED
+- [ST DALFOUR Ultimate Whitening Trio - JOLIE'S](https://jolies.ae/products/st-dalfour-ultimate-whitening-trio): St Dalfour ST DALFOUR Ultimate  Trio Unleash the full potential of your skin with the ST. DALFOUR  JOLIE'S
+  Updated: 2026-06-27T18:50:56Z
+  Vendor: St Dalfour
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ST-DALFOUR-Ultimate-Whitening-Trio-St-Dalfour-JOLIE_S-173637627.jpg?v=1738262088
+  Price: AED 200.00 AED
+- [Double Sided Prayer Mat for Kids | Comfortable & Durable](https://jolies.ae/products/double-sided-prayer-mat): Explore our Double Sided Prayer Mat for kids, featuring a foam layer for comfort. Perfect for children learning to pray.
+  Updated: 2026-05-20T22:02:34Z
+  Vendor: JOLIE'S
+  Product Type: prayer mat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193652934.png?v=1740182458
+  - [Pink](https://jolies.ae/products/double-sided-prayer-mat?variant=50203562279233)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193653020.png?v=1740182461
+    Price: AED 150.00 AED
+  - [Blue](https://jolies.ae/products/double-sided-prayer-mat?variant=50203562312001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193652934.png?v=1740182458
+    Price: AED 150.00 AED
+  - [Gray](https://jolies.ae/products/double-sided-prayer-mat?variant=50203562344769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193653145.png?v=1740182464
+    Price: AED 150.00 AED
+- [Children Prayer Mat - Double Sided and Comfortable](https://jolies.ae/products/children-double-sided-prayer-mat): Discover our children double sided prayer mat, designed for comfort and ease. Perfect for kids, featuring a foam layer for extra cushioning.
+  Updated: 2026-05-20T22:17:03Z
+  Vendor: JOLIE'S
+  Product Type: prayer mat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Children-Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193652762.png?v=1740181026
+  - [Pink](https://jolies.ae/products/children-double-sided-prayer-mat?variant=50203569029441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Children-Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193652762.png?v=1740181026
+    Price: AED 99.00 AED
+  - [Blue](https://jolies.ae/products/children-double-sided-prayer-mat?variant=50203569062209)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Children-Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193652858.png?v=1740181030
+    Price: AED 99.00 AED
+- [Couple Double Sided Prayer Mat - Perfect for Shared Prayer](https://jolies.ae/products/couple-double-sided-prayer-mat): Discover the Couple Double Sided Prayer Mat with foam layer. Comfortable, versatile, and perfect for shared prayer moments.
+  Updated: 2026-05-20T22:59:35Z
+  Vendor: JOLIE'S
+  Product Type: prayer mat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Couple-Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193653277.png?v=1740184357
+  - [Beige & Pink](https://jolies.ae/products/couple-double-sided-prayer-mat?variant=50203606286657)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Couple-Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193653446.png?v=1740184183
+    Price: AED 300.00 AED
+  - [Beige & Gray](https://jolies.ae/products/couple-double-sided-prayer-mat?variant=50203606319425)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Couple-Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193653277.png?v=1740184357
+    Price: AED 300.00 AED
+  - [Beige & Blue](https://jolies.ae/products/couple-double-sided-prayer-mat?variant=50203653996865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Couple-Double-Sided-Prayer-Mat-JOLIE_S-JOLIE_S-193653380.png?v=1740184183
+    Price: AED 300.00 AED
+- [Anua Ultra Thin Spot Cover Patch (75ea) - JOLIE'S](https://jolies.ae/products/anua-ultra-thin-spot-cover-patch-75ea): ANUA Kiyoko's Notes Say goodbye to stubborn blemishes with this seamless acne patch! Designed to protect  JOLIE'S
+  Updated: 2026-05-20T21:06:54Z
+  Vendor: ANUA
+  Product Type: Spot 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Anua-Ultra-Thin-Spot-Cover-Patch-_75ea_-ANUA-JOLIE_S-194342688.jpg?v=1741037738
+  Price: AED 75.00 AED
+- [Medicube Age-R Booster Pro (154g) - JOLIE'S](https://jolies.ae/products/medicube-age-r-booster-pro-154g): Medicube Kiyoko's Notes 6-in-1 viral beauty tool to achieve firm and lifted glass skin!  Medicube Age-R  JOLIE'S
+  Updated: 2026-07-23T13:48:04Z
+  Vendor: Medicube
+  Product Type: Skin Care Tools
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Age-R-Booster-Pro-_154g_-Medicube-JOLIE_S-194343151.jpg?v=1741037614
+  - [Black](https://jolies.ae/products/medicube-age-r-booster-pro-154g?variant=50285198672193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Age-R-Booster-Pro-_154g_-Medicube-JOLIE_S-194343151.jpg?v=1741037614
+    Price: AED 800.00 AED
+  - [Pink](https://jolies.ae/products/medicube-age-r-booster-pro-154g?variant=50285198704961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Age-R-Booster-Pro-154-g-Medicube-JOLIE_S-195071471.jpg?v=1742159114
+    Price: AED 800.00 AED
+  - [Sky Blue](https://jolies.ae/products/medicube-age-r-booster-pro-154g?variant=51490029928769)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Age-R-Booster-Pro-154-g-Medicube-JOLIE_S-204516785.jpg?v=1773617769
+    Price: AED 800.00 AED
+  - [Yellow](https://jolies.ae/products/medicube-age-r-booster-pro-154g?variant=51580363833665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Age-R-Booster-Pro-154-g-Medicube-JOLIE_S-204768193.jpg?v=1775506380
+    Price: AED 800.00 AED
+- [Medicube PDRN Pink Collagen Gel Mask (1PC) - JOLIE'S](https://jolies.ae/products/medicube-pdrn-pink-collagen-gel-mask-1pc): Medicube Kiyoko's Notes A revolutionary salmon PDRN gel mask that helps to achieve glass skin Medicube PDRN  JOLIE'S
+  Updated: 2026-05-21T14:30:52Z
+  Vendor: Medicube
+  Product Type: Sheet Masks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-PDRN-Pink-Collagen-Gel-Mask-_1PC_-Medicube-JOLIE_S-194342912.webp?v=1741037519
+  Price: AED 25.00 AED
+- [Medicube Triple Collagen Toner (140ml) - JOLIE'S](https://jolies.ae/products/medicube-triple-collagen-toner-140ml): Medicube Kiyoko's Notes Get the perfect skin that glows from the inside with  Collagen Toner. Medicube  JOLIE'S
+  Updated: 2026-07-21T16:00:43Z
+  Vendor: Medicube
+  Product Type: Toner
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Triple-Collagen-Toner-_140ml_-Medicube-JOLIE_S-194344339.png?v=1741037453
+  Price: AED 100.00 AED
+- [Medicube Zero Pore Pads 2.0 (70pcs) - JOLIE'S](https://jolies.ae/products/medicube-zero-pore-pads-2-0-70pcs): Medicube Kiyoko's Notes Say goodbye to enlarged pores, greasy skin, and pesky blackheads and whiteheads  JOLIE'S
+  Updated: 2026-05-22T14:00:14Z
+  Vendor: Medicube
+  Product Type: Toner Pads
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Zero-Pore-Pads-2.0-_70pcs_-Medicube-JOLIE_S-194344490.jpg?v=1741037096
+  Price: AED 99.00 AED
+- [Medicube Triple Collagen Serum 4.0 (55ml) - JOLIE'S](https://jolies.ae/products/medicube-triple-collagen-serum-4-0-50ml): Medicube Kiyoko's Notes Lightweight serum for plump, glowing glass skin  Medicube Triple Collagen Serum 4.0  JOLIE'S
+  Updated: 2026-07-21T16:00:43Z
+  Vendor: Medicube
+  Product Type: Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Triple-Collagen-Serum-4.0-_55ml_-Medicube-JOLIE_S-194345144.jpg?v=1741037220
+  Price: AED 85.00 AED
+- [Medicube One Day Exosome Shot Pore Ampoule 2000 (30ml) - JOLIE'S](https://jolies.ae/products/medicube-one-day-exosome-shot-pore-ampoule-2000-30ml): Medicube Kiyoko's Notes Tingling ampoule that follows the principles of microneedling.  Medicube One Day  JOLIE'S
+  Updated: 2026-05-21T06:28:47Z
+  Vendor: Medicube
+  Product Type: Ampoule
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-One-Day-Exosome-Shot-Pore-Ampoule-2000-_30ml_-Medicube-JOLIE_S-194345212.jpg?v=1741037150
+  Price: AED 100.00 AED
+- [SKIN1004 Madagascar Centella Double Cleansing Duo - JOLIE'S](https://jolies.ae/products/skin1004-madagascar-centella-double-cleansing-duo): Skin1004 The SKIN1004 Madagascar Centella Double Cleansing Duo effectively removes dirt and impurities from  JOLIE'S
+  Updated: 2026-05-21T12:30:47Z
+  Vendor: SKIN 1004
+  Product Type: cleansing duo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-Madagascar-Centella-Double-Cleansing-Duo-Skin1004-JOLIE_S-194376054.jpg?v=1741178936
+  Price: AED 130.00 AED
+- [MEDICUBE Ultimate Collagen Skin Care Combo - JOLIE'S](https://jolies.ae/products/medicube-ultimate-collagen-skin-care-combo): Medicube MEDICUBE Ultimate Collagen Skin Care Combo Elevate your skin with the trending korean medicube set  JOLIE'S
+  Updated: 2026-05-20T15:24:44Z
+  Vendor: Medicube
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Ultimate-Collagen-Skin-Care-Combo-Medicube-JOLIE_S-202259756.png?v=1754415329
+  Price: AED 900.00 AED
+- [MEDICUBE AGE-R Vita C Pro Ampoule - 20 ml - JOLIE'S](https://jolies.ae/products/age-r-vita-c-pro-ampoule-20-ml): Medicube  This ampoule is packed with concentrated Vitamin C to visibly brighten dark spots and even out skin  JOLIE'S
+  Updated: 2026-05-20T21:38:35Z
+  Vendor: Medicube
+  Product Type: Medicube
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/AGE-R-Vita-C-Pro-Ampoule_-20-ml-Medicube-JOLIE_S-195066334.png?v=1742041564
+  Price: AED 90.00 AED
+- [MEDICUBE Deep Vita C Capsule Cream - 55 g - JOLIE'S](https://jolies.ae/products/deep-vita-c-capsule-cream): Medicube  This cream, featuring 500,000 PPM of Vitamin Water and Vitamin C capsules, effectively reduces deep  JOLIE'S
+  Updated: 2026-05-21T05:05:26Z
+  Vendor: Medicube
+  Product Type: Medicube
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Deep-Vita-C-Capsule-Cream-55-g-Medicube-JOLIE_S-195066758.webp?v=1742041478
+  Price: AED 120.00 AED
+- [biodance Refreshing Sea Kelp Real Deep Mask - 4 Sheet Masks - JOLIE'S](https://jolies.ae/products/refreshing-sea-kelp-real-deep-mask-4-sheet-masks): Biodance  Infused with 10% sea kelp, this hydro-gel mask soothes and refines the skin while restoring its  JOLIE'S
+  Updated: 2026-05-31T04:53:28Z
+  Vendor: BIODANCE
+  Product Type: Biodance
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Refreshing-Sea-Kelp-Real-Deep-Mask-4-Sheet-Masks-Biodance-JOLIE_S-195135063.png?v=1742513027
+  Price: AED 100.00 AED
+- [biodance Radiant Vita Niacinamide Real Deep Mask - 4 pcs pack JOLIE'S](https://jolies.ae/products/radiant-vita-niacinamide-real-deep-mask-4-sheet-masks): Biodance  This dark spot-correcting mask is infused with Niacinamide and high-purity Glutathione to refine  JOLIE'S
+  Updated: 2026-05-21T08:16:30Z
+  Vendor: BIODANCE
+  Product Type: Biodance
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Radiant-Vita-Niacinamide-Real-Deep-Mask-4-Sheet-Masks-Biodance-JOLIE_S-195135536.png?v=1742512856
+  Price: AED 100.00 AED
+- [biodance Hydro Cera-nol Real Deep Mask - 1 Box (4 pcs) - JOLIE'S](https://jolies.ae/products/hydro-cera-nol-real-deep-mask-1-box-4-pcs): Biodance  Infused with Cera-nol, this mask provides intense moisture and quick relief, perfect for soothing  JOLIE'S
+  Updated: 2026-05-28T03:43:19Z
+  Vendor: BIODANCE
+  Product Type: Biodance
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Hydro-Cera-nol-Real-Deep-Mask-1-Box-_4-pcs_-Biodance-JOLIE_S-195136087.png?v=1742513081
+  Price: AED 100.00 AED
+- [MEDICUBE Glutathione Glow Serum 30g - JOLIE'S](https://jolies.ae/products/medicube-glutathione-glow-serum-30g): Medicube Achieve brighter, more even-toned skin with the MEDICUBE Glutathione Glow Serum! Infused with  JOLIE'S
+  Updated: 2026-05-21T00:10:24Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Glutathione-Glow-Serum-30g-Medicube-JOLIE_S-195140424.jpg?v=1742554473
+  Price: AED 100.00 AED
+- [MEDICUBE Red Acne Succinic Acid Peel Serum - JOLIE'S](https://jolies.ae/products/medicube-red-acne-succinic-acid-peel): Medicube The MEDICUBE Red Acne Succinic Acid Peel is your solution to clearer, smoother skin with its  JOLIE'S
+  Updated: 2026-05-22T07:19:15Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Red-Acne-Succinic-Acid-Peel-Serum-Medicube-JOLIE_S-195140970.png?v=1742555228
+  Price: AED 105.00 AED
+- [MEDICUBE Pink Peptide Serum - JOLIE'S](https://jolies.ae/products/medicube-pink-peptide-serum): Medicube MEDICUBE Pink Peptide Serum – Skin Firming &amp; Hydrating Peptide-Rich Serum for Youthful Glow  JOLIE'S
+  Updated: 2026-05-21T04:27:52Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Pink-Peptide-Serum-30-ml-Medicube-JOLIE_S-201708540.png?v=1752146021
+  Price: AED 90.00 AED
+- [MEDICUBE Vita C Daily Quick Mask - JOLIE'S](https://jolies.ae/products/medicube-vita-c-daily-quick-mask): Medicube MEDICUBE Vita C Daily Quick Mask – Brightening &amp; Revitalizing Sheet Mask for Glowing Skin Boost  JOLIE'S
+  Updated: 2026-05-23T10:56:49Z
+  Vendor: Medicube
+  Product Type: MASK
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Vita-C-Daily-Quick-Mask-Medicube-JOLIE_S-195141619.png?v=1742554957
+  Price: AED 100.00 AED
+- [MEDICUBE Deep Vita C Pad - 70 Pads - JOLIE'S](https://jolies.ae/products/medicube-deep-vita-c-pad-70-pads): Medicube MEDICUBE Deep Vita C Pad – Brighten, Hydrate, and Revitalize Your Skin MEDICUBE Deep Vita C Pad is a  JOLIE'S
+  Updated: 2026-05-29T09:26:22Z
+  Vendor: Medicube
+  Product Type: Vita C Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Deep-Vita-C-Pad-70-Pads-Medicube-JOLIE_S-195141784.png?v=1742554983
+  Price: AED 90.00 AED
+- [MEDICUBE Red Succinic Acid Peeling Pad - JOLIE'S](https://jolies.ae/products/medicube-red-succinic-acid-peeling-pad): Medicube Reveal smoother, brighter, and healthier skin with the MEDICUBE Red Succinic Acid Peeling Pad!  JOLIE'S
+  Updated: 2026-05-22T12:00:59Z
+  Vendor: Medicube
+  Product Type: peeling pads
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Red-Succinic-Acid-Peeling-Pad-Medicube-JOLIE_S-195141893.png?v=1742555008
+  Price: AED 100.00 AED
+- [MEDICUBE Ultimate Glow Booster Kit - JOLIE'S](https://jolies.ae/products/medicube-ultimate-glow-booster-kit): Medicube MEDICUBE Ultimate Glow  Kit Achieve a radiant, youthful complexion with the Ultimate Glow  JOLIE'S
+  Updated: 2026-05-22T13:23:27Z
+  Vendor: Medicube
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Ultimate-Glow-Booster-Kit-Medicube-JOLIE_S-202259876.png?v=1754415609
+  Price: AED 980.00 AED
+- [MEDICUBE  Ultimate Glow & Firmness Set - JOLIE'S](https://jolies.ae/products/medicube-ultimate-glow-firmness-set): Medicube Medicube Ultimate Glow &amp; Firmness Set – Your All-in-One Anti-Aging Skincare Solution Unlock  JOLIE'S
+  Updated: 2026-05-24T08:36:56Z
+  Vendor: Medicube
+  Product Type: set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Ultimate-Glow-_-Firmness-Set-Medicube-JOLIE_S-202259676.png?v=1754415081
+  Price: AED 950.00 AED
+- [DOKAN PURITO Wonder Releaf Centella Unscented Skincare Set](https://jolies.ae/products/purito-wonder-releaf-centella-unscented-skincare-set): ✨ PURITO Wonder Releaf Centella Unscented Skincare Set ✨Soothe, restore, and protect your skin with  -  DOKAN
+  Updated: 2026-05-21T23:27:17Z
+  Vendor: Purito
+  Product Type: set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Wonder-Releaf-Centella-Unscented-Skincare-Set-Purito-JOLIE_S-195631484.jpg?v=1745095241
+  Price: AED 255.00 AED
+- [DOKAN PURITO Timeless Bloom Bakuchiol & Timeless Bloom Bakuchiol Spot](https://jolies.ae/products/purito-timeless-bloom-bakuchiol-timeless-bloom-bakuchiol-spot-set): PURITO Timeless Bloom Bakuchiol &amp; Spot  Set – Gentle Retinol Alternative for Radiant,  -  DOKAN
+  Updated: 2026-05-22T12:54:30Z
+  Vendor: Purito
+  Product Type: Serum and Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Timeless-Bloom-Bakuchiol-_-Timeless-Bloom-Bakuchiol-Spot-SET-Purito-JOLIE_S-195631518.jpg?v=1745095266
+  Price: AED 160.00 AED
+- [DOKAN DR ALTHEA 345 Relief Cream & ANUA Azelaic Acid 10+ Hyaluron](https://jolies.ae/products/dr-althea-345-relief-cream-anua-azelaic-acid-10-hyaluron-serum-set): ✨ DR. ALTHEA 345 Relief Cream &amp; ANUA Azelaic Acid 10+ Hyaluron Serum Set – Soothe, Clear &amp;  -  DOKAN
+  Updated: 2026-05-20T18:37:44Z
+  Vendor: Anua + Dr Althea
+  Product Type: set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/DR-ALTHEA-345-Relief-Cream-_-ANUA-Azelaic-Acid-10_-Hyaluron-Serum-Set-Anua-_-Dr-Althea-JOLIE_S-195631654.jpg?v=1745095284
+  Price: AED 172.00 AED
+- [DOKAN MEDICUBE PDRN Toner& Serum](https://jolies.ae/products/medicube-pdrn-toner-serum): ✨ MEDICUBE PDRN Toner &amp; Serum Set – Advanced Skin Regeneration &amp; Firming Care ✨ Discover the  -  DOKAN
+  Updated: 2026-05-27T03:45:40Z
+  Vendor: Medicube
+  Product Type: toner & Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-PDRN-Toner_-Serum-Medicube-JOLIE_S-195631785.jpg?v=1745095303
+  Price: AED 172.00 AED
+- [DOKAN DR ALTHEA 345 Relief Cream &  Vitamin C Boosting Serum SET](https://jolies.ae/products/dr-althea-345-relief-cream-vitamin-c-boosting-serum-set): DR ALTHEA 345 Relief Cream &amp; Vitamin C Boosting Serum Set - Ultimate Skin Care Solution for  -  DOKAN
+  Updated: 2026-05-21T04:32:27Z
+  Vendor: DR ALTHEA
+  Product Type: cream and serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/DR-ALTHEA-345-Relief-Cream-_-Vitamin-C-Boosting-Serum-SET-DR-ALTHEA-JOLIE_S-195631834.jpg?v=1745095323
+  Price: AED 162.00 AED
+- [DOKAN Beauty of Joseon Hanbang  Discovery Kit + Ginseng Moist Sun](https://jolies.ae/products/beauty-of-joseon-hanbang-serum-discovery-kit-ginseng-moist-sun-serum-bundle): This bundle combes the Beauty of Joseon Hanbang Serum Discovery Kit, featurg four serums rooted  -  DOKAN
+  Updated: 2026-05-28T23:03:52Z
+  Vendor: BEAUTY OF JOSEON
+  Product Type: set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Hanbang-Serum-Discovery-Kit-_-Ginseng-Moist-Sun-Serum-Bundle-BEAUTY-OF-JOSEON-JOLIE_S-195631971.jpg?v=1745095341
+  Price: AED 170.00 AED
+- [DOKAN PAULA'S CHOICE Skin Perfecting + ANUA Niacinamide 10% + TXA 4%](https://jolies.ae/products/paulas-choice-skin-perfecting-anua-niacinamide-10-txa-4-serum-anua-heartleaf-pore-control-cleansing-oil): Achieve Clearer, Smoother Skin with PAULA'S CHOICE, ANUA Niacinamide 10%, and ANUA Heartleaf Pore  -  DOKAN
+  Updated: 2026-05-27T02:18:57Z
+  Vendor: Paula Choice X Anua
+  Product Type: Serum + Cleanser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PAULA_S-CHOICE-Skin-Perfecting-_-ANUA-Niacinamide-10_-_-TXA-4_-Serum-_-Anua-Heartleaf-pore-control-cleansing-oil-Paula-Choice-X-Anua-JOLIE_S-195632037.jpg?v=1745095380
+  Price: AED 288.00 AED
+- [DOKAN PURITO Wonder Releaf Centella Unscented Toner & Serum](https://jolies.ae/products/purito-wonder-releaf-centella-unscented-toner-serum): PURITO Wonder Releaf Centella Unscented Toner &amp; Serum – Hydrate, Soo, and Revitalize Unlock  -  DOKAN
+  Updated: 2026-05-21T14:44:37Z
+  Vendor: Purito
+  Product Type: toner & Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Wonder-Releaf-Centella-Unscented-Toner-_-Serum-Purito-JOLIE_S-195632197.jpg?v=1745095399
+  Price: AED 194.00 AED
+- [DOKAN I'M FROM Toner, Serum and Cream Set](https://jolies.ae/products/im-from-toner-serum-and-cream-set): This I'M FROM Toner, Serum and Cream Set is a powerful trio of skincare products designed to  -  DOKAN
+  Updated: 2026-05-28T10:40:37Z
+  Vendor: I m From
+  Product Type: I'm From Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/I_M-FROM-Toner_-Serum-and-Cream-Set-I-m-From-JOLIE_S-195632619.jpg?v=1745095437
+  Price: AED 275.00 AED
+- [DOKAN I'M FROM Rice Serum, Cream and Sunscreen Set](https://jolies.ae/products/im-from-rice-serum-cream-and-sunscreen-set): This set cludes I'M FROM's Rice Serum, Cream and Sunscreen, featurg natural gredients and rich  -  DOKAN
+  Updated: 2026-05-30T00:31:38Z
+  Vendor: I m From
+  Product Type: I'm From Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/I_M-FROM-Rice-Serum_-Cream-and-Sunscreen-Set-I-m-From-JOLIE_S-195632716.jpg?v=1745095453
+  Price: AED 219.00 AED
+- [DOKAN I'M FROM Rice Complete Set](https://jolies.ae/products/im-from-rice-complete-set): As an industry expert, the I'M FROM Rice Complete Set offers a complete solution for your skincare  -  DOKAN
+  Updated: 2026-05-23T17:51:15Z
+  Vendor: I m From
+  Product Type: I'm From Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/I_M-FROM-Rice-Complete-Set-I-m-From-JOLIE_S-195632817.jpg?v=1745095491
+  Price: AED 278.00 AED
+- [DOKAN BEAUTY OF JOSEON Glow Replenishing Rice Milk Glow & Glow Serum](https://jolies.ae/products/beauty-of-joseon-glow-replenishing-rice-milk-glow-glow-serum-propolis-niacinamide-set): Experience radiant, glowing skin with BEAUTY OF JOSEON's Glow Replenishing Rice Milk Glow &amp; Glow  -  DOKAN
+  Updated: 2026-05-22T15:34:42Z
+  Vendor: BEAUTY OF JOSEON
+  Product Type: toner & Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BEAUTY-OF-JOSEON-Glow-Replenishing-Rice-Milk-Glow-_-Glow-Serum-Propolis-_-Niacinamide-Set-BEAUTY-OF-JOSEON-JOLIE_S-195633089.jpg?v=1745095530
+  Price: AED 199.00 AED
+- [DOKAN ANUA Quercetinol Pore Deep Cleansing Foam, Heartleaf 77%](https://jolies.ae/products/anua-quercetinol-pore-deep-cleansing-foam-heartleaf-77-soothing-toner-80-soothing-ampoule-set): This ANUA Cleansing Foam, Toner, and Serum trio offers a deep clean with the power of quercetin and  -  DOKAN
+  Updated: 2026-05-21T14:44:54Z
+  Vendor: Anua
+  Product Type: Cleansing Foam + Soothing Toner + Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Quercetinol-Pore-Deep-Cleansing-Foam_-Heartleaf-77_-Soothing-Toner-_-80_-Soothing-Ampoule-Set-Anua-JOLIE_S-195633198.jpg?v=1745095549
+  Price: AED 267.00 AED
+- [DOKAN ANUA Quercetinol Pore Deep Cleansing Foam, Heartleaf 77%](https://jolies.ae/products/anua-quercetinol-pore-deep-cleansing-foam-heartleaf-77-soothing-toner-70-niacinamide-serumset): The ANUA Cleansing Foam, Toner, and Serum provide powerful skincare benefits with their  -  DOKAN
+  Updated: 2026-05-26T10:15:22Z
+  Vendor: Anua
+  Product Type: Cleansing Foam + Soothing Toner + Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Quercetinol-Pore-Deep-Cleansing-Foam_-Heartleaf-77_-Soothing-Toner-_-70_-Niacinamide-SerumSet-Anua-JOLIE_S-195633228.jpg?v=1745095587
+  Price: AED 272.00 AED
+- [DOKAN ANUA Heartleaf Quercetinol Pore Deep Cleansing Foam, Heartleaf](https://jolies.ae/products/anua-heartleaf-quercetinol-pore-deep-cleansing-foam-heartleaf-77-soothing-toner-and-niacinamide-10-txa-4-set): Revitalize and refresh your skin with the  Cleansing Foam, Toner, and Serum Set. Featuring the  -  DOKAN
+  Updated: 2026-05-23T04:55:05Z
+  Vendor: Anua
+  Product Type: Cleansing Foam + Soothing Toner + Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Heartleaf-Quercetinol-Pore-Deep-Cleansing-Foam_-Heartleaf-77_-Soothing-Toner-and-Niacinamide-10_-_-TXA-4_-Set-Anua-JOLIE_S-195633340.jpg?v=1745095606
+  Price: AED 255.00 AED
+- [DOKAN ANUA Heartleaf Cleansing Foam & Soothing Toner Set](https://jolies.ae/products/anua-heartleaf-cleansing-foam-soothing-toner-set): This ANUA Heartleaf Cleansing Foam &amp; Soothing Toner Set is perfect for gently removing  -  DOKAN
+  Updated: 2026-05-21T15:43:29Z
+  Vendor: Anua
+  Product Type: Cleansing Foam + Soothing Toner
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Heartleaf-Cleansing-Foam-_-Soothing-Toner-Set-Anua-JOLIE_S-195633459.jpg?v=1745095622
+  Price: AED 161.00 AED
+- [DOKAN GOODAL Cleansing Foam, Toner, Serum and Cream Set](https://jolies.ae/products/goodal-cleansing-foam-toner-serum-and-cream-set): Cleanse, tone, and hydrate your skin with the GOODAL Cleansing Foam, Toner, Serum, and Cream Set.  -  DOKAN
+  Updated: 2026-05-21T09:14:13Z
+  Vendor: GOODAL
+  Product Type: Facial Cleansers, Toner, Serum, & Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/GOODAL-Cleansing-Foam_-Toner_-Serum-and-Cream-Set-Goodal-JOLIE_S-195633569.jpg?v=1745095638
+  Price: AED 234.00 AED
+- [DOKAN SKIN1004 Toner,Ampoule & Serum Set](https://jolies.ae/products/skin1004-toner-ampoule-serum-set): Enhance your skincare routine with the SKIN1004 Toner, Ampoule &amp; Serum Set. Formulated with  -  DOKAN
+  Updated: 2026-05-31T10:31:17Z
+  Vendor: SKIN 1004
+  Product Type: Toner + Ampoule + Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-Toner_Ampoule-_-Serum-Set-Skin1004-JOLIE_S-195633660.jpg?v=1745095654
+  Price: AED 330.00 AED
+- [DOKAN SKIN1004 Madagascar Centella Probio-Cica Toner, Ampoule and](https://jolies.ae/products/skin1004-madagascar-centella-probio-cica-toner-ampoule-and-cream-set): Experience the healing properties of SKIN1004 Madagascar Centella Probio-Cica Toner, Ampoule, and  -  DOKAN
+  Updated: 2026-05-22T22:53:12Z
+  Vendor: SKIN 1004
+  Product Type: Toner + Serum + Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-Madagascar-Centella-Probio-Cica-Toner_-Ampoule-and-Cream-Set-Skin1004-JOLIE_S-195633768.jpg?v=1745095685
+  Price: AED 341.00 AED
+- [DOKAN SKIN1004 Madagascar Centella Poremizing Quick Clay Set](https://jolies.ae/products/skin1004-madagascar-centella-poremizing-quick-clay-set): This quick clay from SKIN1004 utilizes the healing and nourishing properties of Madagascar Centella  -  DOKAN
+  Updated: 2026-05-22T04:02:34Z
+  Vendor: SKIN 1004
+  Product Type: Ampoule, Cream And Stick
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-Madagascar-Centella-Poremizing-Quick-Clay-Set-SKIN-1004-JOLIE_S-195633833.jpg?v=1745095698
+  Price: AED 282.00 AED
+- [DOKAN GOODAL Toner, Serum & Cream](https://jolies.ae/products/goodal-toner-serum-cream): This skincare set from GOODAL includes a toner, serum, and cream, providing a comprehensive and  -  DOKAN
+  Updated: 2026-05-29T06:54:36Z
+  Vendor: GOODAL
+  Product Type: Toner + Serum + Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/GOODAL-Toner_-Serum-_-Cream-Goodal-JOLIE_S-195633988.jpg?v=1745095714
+  Price: AED 206.00 AED
+- [DOKAN MIXSOON Water Hyaluronic acid, Centella Asiastica & Bean Essence](https://jolies.ae/products/mixsoon-water-hyaluronic-acid-centella-asiastica-bean-essence-set): This intensive set from MIXSOON combines the powerful hydrating effects of Water Hyaluronic acid  -  DOKAN
+  Updated: 2026-05-22T18:51:59Z
+  Vendor: mixsoon
+  Product Type: Hyaluronic Acid, Essence
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MIXSOON-Water-Hyaluronic-acid_-Centella-Asiastica-_-Bean-Essence-Set-mixsoon-JOLIE_S-195634088.jpg?v=1745095730
+  Price: AED 270.00 AED
+- [DOKAN MIXSOON Cleansing Water, Glucan  & Centella Asiatica](https://jolies.ae/products/mixsoon-cleansing-water-glucan-essence-centella-asiatica-essence): This cleansing water contains glucan essence and centella asiatica essence for a gentle and  -  DOKAN
+  Updated: 2026-05-20T19:51:45Z
+  Vendor: mixsoon
+  Product Type: Essence, Cleansing Water & Glucan Essence
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MIXSOON-Cleansing-Water_-Glucan-Essence-_-Centella-Asiatica-Essence-mixsoon-JOLIE_S-195634262.jpg?v=1745095775
+  Price: AED 304.00 AED
+- [DOKAN GOODAL Green Tangerine Vita C Toner and CREAM](https://jolies.ae/products/goodal-green-tangerine-vita-c-toner-and-cream): Vitamin C-rich GOODAL Green Tangerine Vita C Toner and CREAM provides essential hydration and  -  DOKAN
+  Updated: 2026-05-23T22:56:58Z
+  Vendor: GOODAL
+  Product Type: Toner and cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/GOODAL-Green-Tangerine-Vita-C-Toner-and-CREAM-Goodal-JOLIE_S-195634311.jpg?v=1745095788
+  Price: AED 149.00 AED
+- [DOKAN GOODAL Cleansing Foam & Tone Up Cream](https://jolies.ae/products/goodal-cleansing-foam-tone-up-cream): Cleanse and tone skin effortlessly with GOODAL Cleansing Foam &amp; Tone Up Cream. This powerful  -  DOKAN
+  Updated: 2026-05-20T16:57:47Z
+  Vendor: GOODAL
+  Product Type: Cleansing Foam & Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/GOODAL-Cleansing-Foam-_-Tone-Up-Cream-Goodal-JOLIE_S-195634427.jpg?v=1745095800
+  Price: AED 128.00 AED
+- [DOKAN GOODAL Toner, Cleansing Foam & Cream Set](https://jolies.ae/products/goodal-toner-cleansing-foam-cream-set): This GOODAL Toner, Cleansing Foam &amp; Cream Set is a complete skincare package, featuring a toner,  -  DOKAN
+  Updated: 2026-06-03T19:20:33Z
+  Vendor: GOODAL
+  Product Type: Toner, Cleansing Foam & Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/GOODAL-Toner_-Cleansing-Foam-_-Cream-Set-Goodal-JOLIE_S-195634554.jpg?v=1745095816
+  Price: AED 213.00 AED
+- [DOKAN ROUND LAB Toner, Serum and Cleansing Balm Set](https://jolies.ae/products/round-lab-toner-serum-and-cleansing-balm-set): This set includes a ROUND LAB toner, serum, and cleansing balm, perfect for a comprehensive skincare  -  DOKAN
+  Updated: 2026-05-20T16:33:49Z
+  Vendor: Round lab
+  Product Type: Toner + Serum + Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ROUND-LAB-Toner_-Serum-and-Cleansing-Balm-Set-Round-lab-JOLIE_S-195634774.jpg?v=1745095847
+  Price: AED 274.00 AED
+- [DOKAN NUMBUZIN Vitamin Concentrated Serum & Boosting Essence Toner](https://jolies.ae/products/numbuzin-vitamin-concentrated-serum-boosting-essence-toner): Introducing NUMBUZIN Vitamin Concentrated Serum &amp; Boosting Essence Toner—the dynamic duo that  -  DOKAN
+  Updated: 2026-05-28T18:09:52Z
+  Vendor: NUMBUZIN
+  Product Type: toner & Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/NUMBUZIN-Vitamin-Concentrated-Serum-_-Boosting-Essence-Toner-Numbuzin-JOLIE_S-195634853.jpg?v=1745095867
+  Price: AED 175.00 AED
+- [DOKAN NUMBUZIN Vitamin Boosting Toner, Contrasted Serum and](https://jolies.ae/products/numbuzin-vitamin-boosting-toner-contrasted-serum-and-concentrated-pad): Revitalize your skin with NUMBUZIN Vitamin Booting Toner, Contrasted Serum, and Concentrated Pad.  -  DOKAN
+  Updated: 2026-06-03T10:23:20Z
+  Vendor: NUMBUZIN
+  Product Type: toner, serum ad Concentrated pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/NUMBUZIN-Vitamin-Boosting-Toner_-Contrasted-Serum-and-Concentrated-Pad-Numbuzin-JOLIE_S-195634989.jpg?v=1745095883
+  Price: AED 254.00 AED
+- [DOKAN ANUA Renewing Serum & Cleansing Foam Set](https://jolies.ae/products/anua-renewing-serum-cleansing-foam-set): Experience double the rejuvenation  the ANUA Renewing Serum &amp; Cleansing Foam Set. Formulated  -  DOKAN
+  Updated: 2026-06-06T00:42:31Z
+  Vendor: anua
+  Product Type: Cleansing Foam
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Renewing-Serum-_-Cleansing-Foam-Set-anua-JOLIE_S-195635018.jpg?v=1745095898
+  Price: AED 187.00 AED
+- [DOKAN ANUA Soothing Toner & Renewing Serum Set](https://jolies.ae/products/anua-soothing-toner-renewing-serum-set): This ANUA Heartleaf  Soothing Toner and Renewing Serum Set is perfect for sensitive skin. With  -  DOKAN
+  Updated: 2026-05-21T13:45:38Z
+  Vendor: Anua
+  Product Type: toner and serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Soothing-Toner-_-Renewing-Serum-Set-Anua-JOLIE_S-195644763.jpg?v=1745097228
+  Price: AED 190.00 AED
+- [DOKAN ANUA Renewing Serum & Toner & Cleansing Foam Set](https://jolies.ae/products/anua-renewing-serum-toner-cleansing-foam-set): Experience triple the benefits with ANUA Renewing Serum, Toner, &amp; Cleansing Foam. This  -  DOKAN
+  Updated: 2026-05-27T21:20:50Z
+  Vendor: Anua
+  Product Type: Serum, Toner and Cleansing foam
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Renewing-Serum-_-Toner-_-Cleansing-Foam-Set-Anua-JOLIE_S-195644836.jpg?v=1745097241
+  Price: AED 263.00 AED
+- [DOKAN ANUA Green Lemon Vita C & Heartleaf 70 Daily Lotion & Heartleaf](https://jolies.ae/products/anua-green-lemon-vita-c-heartleaf-70-daily-lotion-heartleaf-soothing-toner-set): This ANUA set includes a Green Lemon Vita C daily lotion and Heartleaf 70-toner. With a powerful  -  DOKAN
+  Updated: 2026-06-02T10:58:38Z
+  Vendor: Anua
+  Product Type: Lotion, Toner & Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Green-Lemon-Vita-C-_-Heartleaf-70-Daily-Lotion-_-Heartleaf-Soothing-Toner-Set-Anua-JOLIE_S-195644940.jpg?v=1745097257
+  Price: AED 281.00 AED
+- [DOKAN ANUA Green Lemon Vita C & Heartleaf 70 Daily Lotion](https://jolies.ae/products/anua-green-lemon-vita-c-heartleaf-70-daily-lotion): This daily lotion, enriched with ANUA Green Lemon Vita C and Heartleaf 70, provides your skin with  -  DOKAN
+  Updated: 2026-05-24T19:30:59Z
+  Vendor: Anua
+  Product Type: Lotion and Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Green-Lemon-Vita-C-_-Heartleaf-70-Daily-Lotion-Anua-JOLIE_S-195645097.jpg?v=1745097273
+  Price: AED 205.00 AED
+- [DOKAN MIXSOON BEAN Cleansing Oil, Been Essence and Toner Set](https://jolies.ae/products/mixsoon-bean-cleansing-oil-been-essence-and-toner-set): Experience radiant, hydrated skin with the MIXSOON BEAN Cleansing Oil, Been Essence and Toner Set.  -  DOKAN
+  Updated: 2026-05-24T23:57:24Z
+  Vendor: mixsoon
+  Product Type: Toner + Cleansing Oil + serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MIXSOON-BEAN-Cleansing-Oil_-Been-Essence-and-Toner-Set-mixsoon-JOLIE_S-195645155.jpg?v=1745097286
+  Price: AED 299.00 AED
+- [DOKAN MIXSOON Bean Essence, Bean Cream and Bean Toner Set](https://jolies.ae/products/mixsoon-bean-essence-bean-cream-and-bean-toner-set): Introducing the MIXSOON Bean Essence, Cream, and Toner Set—a powerful combination of beauty and  -  DOKAN
+  Updated: 2026-06-01T19:42:01Z
+  Vendor: mixsoon
+  Product Type: Serum Toner and Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MIXSOON-Bean-Essence_-Bean-Cream-and-Bean-Toner-Set-mixsoon-JOLIE_S-195635125.jpg?v=1745095930
+  Price: AED 299.00 AED
+- [DOKAN GOODAL Green Tangerine Vita-C Dark Spot Care Set](https://jolies.ae/products/goodal-green-tangerine-vita-c-dark-spot-care-set): The GOODAL Green Tangerine Vita-C Dark Spot Care Set features a powerful serum and cream set that  -  DOKAN
+  Updated: 2026-05-21T23:09:52Z
+  Vendor: GOODAL
+  Product Type: cream and serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/GOODAL-Green-Tangerine-Vita-C-Dark-Spot-Care-Set-Goodal-JOLIE_S-195635227.jpg?v=1745095943
+  Price: AED 148.00 AED
+- [DOKAN COSRX Advanced Snail Mucin Gel Cleanser & ANUA 77% Clear Pads](https://jolies.ae/products/cosrx-advanced-snail-mucin-gel-cleanser-anua-77-clear-pads-set): Cleanse and tone your skin with this powerful set from COSRX and ANUA. The Advanced Snail Mucin Gel  -  DOKAN
+  Updated: 2026-05-24T05:25:24Z
+  Vendor: Anua and Cosrx
+  Product Type: cleanser & Clear pads
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Advanced-Snail-Mucin-Gel-Cleanser-_-ANUA-77_-Clear-Pads-SET-Anua-and-Cosrx-JOLIE_S-195635351.jpg?v=1745095959
+  Price: AED 156.00 AED
+- [DOKAN ANUA Heartleaf 77 Clear Pad & BEAUTY OF JOSEON serum Set](https://jolies.ae/products/anua-heartleaf-77-clear-pad-beauty-of-joseon-serum-set): Revitalize and brighten your skin with ANUA Heartleaf 77 Clear Pad &amp; BEAUTY OF JOSEON Serum Set.  -  DOKAN
+  Updated: 2026-05-24T08:17:43Z
+  Vendor: anua and Beauty of joseon
+  Product Type: serum + clearpad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Heartleaf-77-Clear-Pad-_-BEAUTY-OF-JOSEON-serum-Set-anua-and-Beauty-of-joseon-JOLIE_S-195635424.jpg?v=1745095975
+  Price: AED 178.00 AED
+- [DOKAN Anua Heartleaf Clearpad, BOJ Glow Serum & COSRX Advanced Snail](https://jolies.ae/products/anua-heartleaf-clearpad-boj-glow-serum-cosrx-advanced-snail-gel-cleanser-set): This set includes three powerful skincare products: Anua Heartleaf Clearpad, BOJ Glow Serum, and  -  DOKAN
+  Updated: 2026-05-23T22:32:13Z
+  Vendor: anua, beauty of joseon & cosrx
+  Product Type: Cleanser + Clearpad + Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Anua-Heartleaf-Clearpad_-BOJ-Glow-Serum-_-COSRX-Advanced-Snail-Gel-Cleanser-Set-anua_-beauty-of-joseon-_-cosrx-JOLIE_S-195635512.jpg?v=1745095988
+  Price: AED 242.00 AED
+- [DOKAN ANUA Cleansing Oil, Toner, Serum and Cream Set](https://jolies.ae/products/anua-cleansing-oil-toner-serum-and-cream-set): This ANUA Cleansing Oil, Toner, Serum, and Cream Set includes a  77% soothing toner,  -  DOKAN
+  Updated: 2026-05-22T14:42:25Z
+  Vendor: Anua
+  Product Type: Anua Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Cleansing-Oil_-Toner_-Serum-and-Cream-Set-Anua-JOLIE_S-195635664.jpg?v=1745096020
+  Price: AED 348.00 AED
+- [DOKAN ANUA Heartleaf Toner, Serum and Cream Set](https://jolies.ae/products/anua-heartleaf-toner-serum-and-cream-set): This set includes the Anua  77% soothing toner,  80 moisture soothing ampoule, and  -  DOKAN
+  Updated: 2026-05-27T21:08:47Z
+  Vendor: Anua
+  Product Type: Toner + Serum + Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Heartleaf-Toner_-Serum-and-Cream-Set-Anua-JOLIE_S-195635711.jpg?v=1745096036
+  Price: AED 272.00 AED
+- [DOKAN ANUA Heartleaf Set Toner, Cleansing Oil and Cream](https://jolies.ae/products/anua-heartleaf-set-toner-cleansing-oil-and-cream): This ANUA Heartleaf Set includes a soothing toner made with 77% heartleaf extract, a pore-control  -  DOKAN
+  Updated: 2026-05-26T00:34:55Z
+  Vendor: Anua
+  Product Type: Toner + Cleansing Oil + Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Heartleaf-Set-Toner_-Cleansing-Oil-and-Cream-Anua-JOLIE_S-195635891.jpg?v=1745096077
+  Price: AED 262.00 AED
+- [DOKAN NUMBUZIN Super Glowing Essence Toner, Skin Softening Serum &](https://jolies.ae/products/numbuzin-super-glowing-essence-toner-skin-softening-serum-clear-filter-sunblock-set): Enhance your skincare routine with the NUMBUZIN Super Glowing Essence Toner, Skin Softening Serum,  -  DOKAN
+  Updated: 2026-05-27T18:58:19Z
+  Vendor: NUMBUZIN
+  Product Type: toner +Serum + Sunblock
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/NUMBUZIN-Super-Glowing-Essence-Toner_-Skin-Softening-Serum-_-Clear-Filter-Sunblock-Set-Numbuzin-JOLIE_S-195635993.jpg?v=1745096093
+  Price: AED 239.00 AED
+- [DOKAN HARU HARU Wonder Black Rice Toner & Beauty of Joseon Ginseng](https://jolies.ae/products/haru-haru-wonder-black-rice-toner-beauty-of-joseon-ginseng-essence-water-set): Enhance your skincare routine with our HARU HARU Wonder Black Rice Toner &amp; Beauty of Joseon  -  DOKAN
+  Updated: 2026-05-21T07:46:22Z
+  Vendor: BEAUTY OF JOSEON + HARUHARU
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/HARU-HARU-Wonder-Black-Rice-Toner-_-Beauty-of-Joseon-Ginseng-Essence-Water-Set-BEAUTY-OF-JOSEON-_-HARUHARU-JOLIE_S-195636033.jpg?v=1745096121
+  Price: AED 121.00 AED
+- [DOKAN Revive Eye Serum & Ginseng Moise Sun Serum & Relief Sun: Rice +](https://jolies.ae/products/revive-eye-serum-ginseng-moise-sun-serum-relief-sun-rice-probiotics-beauty-of-joseon-set): "Experience the ultimate rejuvenation with our Revive Eye Serum &amp; Ginseng Moist Sun Serum &amp;  -  DOKAN
+  Updated: 2026-05-31T04:20:03Z
+  Vendor: BEAUTY OF JOSEON
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Revive-Eye-Serum-_-Ginseng-Moise-Sun-Serum-_-Relief-Sun_-Rice-_-Probiotics-Beauty-of-Joseon-Set-BEAUTY-OF-JOSEON-JOLIE_S-195636110.jpg?v=1745096137
+  Price: AED 193.00 AED
+- [DOKAN Light On Serum Centella + Vita C & Relief Sun Rice + Probiotics](https://jolies.ae/products/light-on-serum-centella-vita-c-relief-sun-rice-probiotics-spf50-beauty-of-joseon-set): Experience the combined power of  Asiatica, Vitamin C, and Probiotics in our Light On Serum  -  DOKAN
+  Updated: 2026-05-22T13:19:26Z
+  Vendor: BEAUTY OF JOSEON
+  Product Type: Combination Skin Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Light-On-Serum-Centella-_-Vita-C-_-Relief-Sun-Rice-_-Probiotics-SPF50-Beauty-of-Joseon-Set-BEAUTY-OF-JOSEON-JOLIE_S-195636234.jpg?v=1745096152
+  Price: AED 130.00 AED
+- [DOKAN Anua Peach 77 Series Set](https://jolies.ae/products/anua-peach-77-series-set): Introducing the Anua Peach 77 Series Set, the perfect solution for a smooth and radiant complexion.  -  DOKAN
+  Updated: 2026-05-21T21:05:25Z
+  Vendor: Anua
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Anua-Peach-77-Series-Set-Anua-JOLIE_S-195636312.jpg?v=1745096169
+  Price: AED 265.00 AED
+- [DOKAN Anua Heartleaf 70% Intense Calming Cream + Toner](https://jolies.ae/products/anua-heartleaf-70-intense-calming-cream-toner): Anua Heartleaf Intense Calming Cream + Toner is a powerful combination of 70% heartleaf extract and  -  DOKAN
+  Updated: 2026-05-27T18:13:55Z
+  Vendor: Anua
+  Product Type: Toner + Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Anua-Heartleaf-70_-Intense-Calming-Cream-_-Toner-Anua-JOLIE_S-195636491.jpg?v=1745096182
+  Price: AED 203.00 AED
+- [DOKAN Axis Y complete Day night routine Set](https://jolies.ae/products/axis-y-complete-day-night-routine-set): Discover the ultimate skincare routine with Axis Y's Day Night Routine Set. This comprehensive set  -  DOKAN
+  Updated: 2026-05-23T04:51:54Z
+  Vendor: AXIS Y
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Axis-Y-complete-Day-night-routine-Set-AXIS-Y-JOLIE_S-195636594.webp?v=1745096197
+  Price: AED 293.00 AED
+- [DOKAN ANUA Heartleaf Series 2 Cleanser + Toner + Serum](https://jolies.ae/products/anua-heartleaf-series-2-cleanser-toner-serum): Unlock the power of nature with ANUA Heartleaf Series 2. This all-in-one set includes a cleanser,  -  DOKAN
+  Updated: 2026-05-21T09:57:33Z
+  Vendor: Anua
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Heartleaf-Series-2-Cleanser-_-Toner-_-Serum-Anua-JOLIE_S-195636673.jpg?v=1745096210
+  Price: AED 196.00 AED
+- [DOKAN ANUA Heartleaf Series 3 (Toner+Soothing Ampoule+Clear Pad)](https://jolies.ae/products/anua-heartleaf-series-3-toner-soothing-ampoule-clear-pad): Nourish your skin with the ANUA Heartleaf Series 3. This set includes a toner, soothing ampoule, and  -  DOKAN
+  Updated: 2026-05-23T11:03:16Z
+  Vendor: Anua
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Heartleaf-Series-3-_Toner_Soothing-Ampoule_Clear-Pad_-Anua-JOLIE_S-195636721.jpg?v=1745096226
+  Price: AED 273.00 AED
+- [DOKAN ANUA Heartleaf Series 4 Toner Soothing Ampoule + Cleansing Oil](https://jolies.ae/products/anua-heartleaf-series-4-toner-soothing-ampoule-cleansing-oil-glam-secret): Discover the benefits of the ANUA Heartleaf Series 4 skincare set. This set includes a toner,  -  DOKAN
+  Updated: 2026-05-21T12:24:20Z
+  Vendor: Anua
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Heartleaf-Series-4-Toner-Soothing-Ampoule-_-Cleansing-Oil-Anua-JOLIE_S-195636872.jpg?v=1745096255
+  Price: AED 259.00 AED
+- [DOKAN Anua Acne Care Set Toner 250ml + Ampoule 30ml](https://jolies.ae/products/anua-acne-care-set-toner-250ml-ampoule-30ml): The Anua Brightening Set  Anua Acne Care Set Toner 250ml + Ampoule 30ml is a complete skincare  -  DOKAN
+  Updated: 2026-05-23T10:46:04Z
+  Vendor: Anua
+  Product Type: Toner + Ampoule
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Anua-Acne-Care-Set-Toner-250ml-_-Ampoule-30ml-Anua-JOLIE_S-195636926.jpg?v=1745096271
+  Price: AED 177.00 AED
+- [DOKAN I'm from rice toner and serum Set](https://jolies.ae/products/im-from-rice-toner-and-serum-set): The I'm from rice toner and serum set is a nourishing skincare set that deeply and effectively  -  DOKAN
+  Updated: 2026-05-25T09:28:51Z
+  Vendor: I m From
+  Product Type: toner and serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/I_m-from-rice-toner-and-serum-Set-I-m-From-JOLIE_S-195637077.jpg?v=1745096284
+  Price: AED 184.00 AED
+- [DOKAN SKIN1004 X BEAUTY of JOSEON Sun Protection Set](https://jolies.ae/products/skin1004-x-beauty-of-joseon-sun-protection-set): The SKIN1004 X BEAUTY of JOSEON is very knows brand in line of Korean Skincare This Sun Protection  -  DOKAN
+  Updated: 2026-05-21T13:00:21Z
+  Vendor: SKIN 1004 + beauty of joseon
+  Product Type: Sunscreen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SKIN1004-X-BEAUTY-of-JOSEON-Sun-Protection-Set-skin1004-_-beauty-of-joseon-JOLIE_S-195637183.jpg?v=1745096297
+  Price: AED 149.00 AED
+- [DOKAN COSRX Centella Set](https://jolies.ae/products/cosrx-centella-set): Experience the nourishing power of Centella with the COSRX Centella Set. Formulated with centella  -  DOKAN
+  Updated: 2026-06-03T08:31:34Z
+  Vendor: COSRX
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Centella-Set-COSRX-JOLIE_S-195637251.jpg?v=1745096325
+  Price: AED 112.00 AED
+- [DOKAN COSRX Favourites Best Sellers Set](https://jolies.ae/products/cosrx-favourites-best-sellers-set): This COSRX Bestsellers Set is perfect for introducing yourself to the brand. It includes the low pH  -  DOKAN
+  Updated: 2026-05-26T02:58:10Z
+  Vendor: COSRX
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Favourites-Best-Sellers-Set-COSRX-JOLIE_S-195637367.jpg?v=1745096338
+  Price: AED 148.00 AED
+- [DOKAN COSRX Skincare Heroes Set](https://jolies.ae/products/cosrx-skincare-heroes-set): Rejuvenate your skin with the COSRX Skin Heroes Set. This set includes three best- skin  -  DOKAN
+  Updated: 2026-05-25T11:55:27Z
+  Vendor: COSRX
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Skincare-Heroes-Set-COSRX-JOLIE_S-195637425.jpg?v=1745096347
+  Price: AED 210.00 AED
+- [COSRX X BEAUTY of JOSEON Snail Set - JOLIE'S](https://jolies.ae/products/cosrx-x-beauty-of-joseon-snail-set): Experience the rejuvenating power of COSRX X BEAUTY of JOSEON Snail Set. Formulated with 86.9% snail  -  DOKAN
+  Updated: 2026-05-21T19:20:34Z
+  Vendor: cosrx and beauty of joseon
+  Product Type: cream and serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-X-BEAUTY-of-JOSEON-Snail-Set-cosrx-and-beauty-of-joseon-JOLIE_S-195637575.jpg?v=1745096360
+  Price: AED 150.00 AED
+- [DOKAN COSRX Low PH Good Morning Gel Cleanser with Advanced Snail 96](https://jolies.ae/products/cosrx-low-ph-good-morning-gel-cleanser-with-advanced-snail-96-mucin-power-essence-set): The COSRX Low PH Good Morning Gel Cleanser and Advanced Snail 96 Mucin Power Essence is a korean  -  DOKAN
+  Updated: 2026-05-21T23:48:16Z
+  Vendor: COSRX
+  Product Type: CLEANSER ESSENCE
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Low-PH-Good-Morning-Gel-Cleanser-with-Advanced-Snail-96-Mucin-Power-Essence-set-COSRX-JOLIE_S-195637677.jpg?v=1745096386
+  Price: AED 101.00 AED
+- [DOKAN 2 Pack COSRX AHA 7 Whitehead Power Liquid 100ml Set](https://jolies.ae/products/cosrx-aha-7-whitehead-power-liquid-100ml-set): This two pack of AHA 7 Whitehead Power Liquid from COSRX is the perfect solution for dealing with  -  DOKAN
+  Updated: 2026-05-23T08:24:18Z
+  Vendor: COSRX
+  Product Type: Face Toner
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/2-Pack-COSRX-AHA-7-Whitehead-Power-Liquid-100ml-Set-COSRX-JOLIE_S-195637776.jpg?v=1745096398
+  Price: AED 139.00 AED
+- [DOKAN Isntree Hyaluronic Acid Sun Gel + Beauty of Joseon Relief Sun](https://jolies.ae/products/isntree-hyaluronic-acid-sun-gel-beauty-of-joseon-relief-sun-cream-2-piece-sunscreen-set): This sunscreen set is ideal for keeping skin safe from UV rays. The Isntree Hyaluronic Acid Sun Gel  -  DOKAN
+  Updated: 2026-05-21T06:27:14Z
+  Vendor: BEAUTY OF JOSEON + ISNTREE
+  Product Type: Sunscreen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Isntree-Hyaluronic-Acid-Sun-Gel-_-Beauty-of-Joseon-Relief-Sun-Cream-2-Piece-Sunscreen-Set-BEAUTY-OF-JOSEON-_-ISNTREE-JOLIE_S-195637838.jpg?v=1745096411
+  Price: AED 117.00 AED
+- [DOKAN Axis Y Dark Spot Correcting Glow Serum + Complete No stress](https://jolies.ae/products/axis-y-dark-spot-correcting-glow-serum-complete-no-stress-physical-sunscreen-set): Keep your skin looking bright and healthy with the Axis Y Dark Spot Correcting Glow Serum and  -  DOKAN
+  Updated: 2026-05-23T20:13:57Z
+  Vendor: AXIS Y
+  Product Type: Serum+sunscreen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Axis-Y-Dark-Spot-Correcting-Glow-Serum-_-Complete-No-stress-Physical-Sunscreen-Set-AXIS-Y-JOLIE_S-195637983.jpg?v=1745096424
+  Price: AED 108.00 AED
+- [Isntree Hyaluronic Acid Moisture Set - JOLIE'S](https://jolies.ae/products/isntree-hyaluronic-acid-moisture-set): The Isntree  Acid Moisture Set nourishes and hydrates skin with a powerful combination of  -  DOKAN
+  Updated: 2026-05-22T14:26:18Z
+  Vendor: Isntree
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Isntree-Hyaluronic-Acid-Moisture-Set-Isntree-JOLIE_S-195638094.jpg?v=1745096459
+  Price: AED 232.00 AED
+- [Cosrx Starter Kit - JOLIE'S](https://jolies.ae/products/cosrx-starter-kit): This Cosrx Starter Kit is perfect for taking your skincare routine to the next level. It contains  -  DOKAN
+  Updated: 2026-05-20T22:16:56Z
+  Vendor: COSRX
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Cosrx-Starter-Kit-COSRX-JOLIE_S-195638184.webp?v=1745096474
+  Price: AED 182.00 AED
+- [COSRX Best Seller Set - JOLIE'S](https://jolies.ae/products/cosrx-best-seller-set): Introducing the COSRX Best Seller Set, featuring four of the brand's most popular products. Get the  -  DOKAN
+  Updated: 2026-05-20T16:18:00Z
+  Vendor: COSRX
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Best-Seller-Set-COSRX-JOLIE_S-195638335.webp?v=1745096488
+  Price: AED 220.00 AED
+- [All About Snail Set - JOLIE'S](https://jolies.ae/products/all-about-snail-set): Experience the ultimate skin care routine with this Advance Snail Set. The Cleanser + Essence +  -  jolies
+  Updated: 2026-05-20T10:51:03Z
+  Vendor: COSRX
+  Product Type: Serum, toner and cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/All-About-Snail-Set-COSRX-JOLIE_S-195638491.jpg?v=1745096503
+  Price: AED 233.00 AED
+- [Cosrx Eye Gel Patch and Advance Snail Essence Set - JOLIE'S](https://jolies.ae/products/cosrx-eye-gel-patch-and-advance-snail-essence-set): Enjoy a luxurious spa-like experience with the Cosrx Eye Gel Patch and Advance Snail Essence Set.  -  DOKAN
+  Updated: 2026-05-23T10:56:30Z
+  Vendor: COSRX
+  Product Type: Serum and Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Cosrx-Eye-Gel-Patch-and-Advance-Snail-Essence-Set-COSRX-JOLIE_S-195638529.jpg?v=1745096516
+  Price: AED 120.00 AED
+- [Cosrx Day night Set 350ml - JOLIE'S](https://jolies.ae/products/cosrx-day-night-set-350ml): Cosrx Day night Set include Advanced Snail 96 Mucin Power Essence Cosrx Low ph good morning gel  -  DOKAN
+  Updated: 2026-05-27T03:01:40Z
+  Vendor: COSRX
+  Product Type: MOISTURIZER
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Cosrx-Day-night-Set-350ml-COSRX-JOLIE_S-195638639.jpg?v=1745096529
+  Price: AED 185.00 AED
+- [Beauty of Joseon glowing Set - JOLIE'S](https://jolies.ae/products/beauty-of-joseon-glowing-set): The Beauty of Joseon glowing set offers nourishing and refreshing ingredients to restore your skin's  -  DOKAN
+  Updated: 2026-05-22T20:51:07Z
+  Vendor: BEUTY OF JOSEON
+  Product Type: SUNBLOCK
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-glowing-Set-BEUTY-OF-JOSEON-JOLIE_S-195638712.jpg?v=1745096542
+  Price: AED 176.00 AED
+- [COSRX Best Seller Snail Set - JOLIE'S](https://jolies.ae/products/cosrx-best-seller-snail-set): Cosrx Best seller snail set include the following : COSRX Advanced Snail 96 Mucin Power Essence  -  DOKAN
+  Updated: 2026-05-20T10:41:31Z
+  Vendor: COSRX
+  Product Type: Skincare Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Best-Seller-Snail-Set-COSRX-JOLIE_S-195638997.jpg?v=1745096554
+  Price: AED 240.00 AED
+- [Cosrx Snail Skincare Set - JOLIE'S](https://jolies.ae/products/cosrx-snail-skincare-set): COSRX Advanced Snail 92 All in one Cream 100ml Best Hydrating cream it has 94% of Snail Secretion  -  DOKAN
+  Updated: 2026-05-26T08:12:48Z
+  Vendor: COSRX
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Cosrx-Snail-Skincare-Set-COSRX-JOLIE_S-195639057.jpg?v=1745096584
+  Price: AED 182.00 AED
+- [I'm From Rice Serum + Cream - JOLIE'S](https://jolies.ae/products/im-from-rice-serum-cream): I'm from RICE SERUM contains rice harvested in yeoju Korea. The rice germ ferment extract filtrate  -  DOKAN
+  Updated: 2026-05-21T15:10:24Z
+  Vendor: I m From
+  Product Type: Serum and Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/I_m-From-Rice-Serum-_-Cream-I-m-From-JOLIE_S-195639113.jpg?v=1745096596
+  Price: AED 148.00 AED
+- [COSRX Low pH Good Morning Gel Cleanser +Salicylic Acid Daily](https://jolies.ae/products/cosrx-low-ph-good-morning-gel-cleanser-salicylic-acid-daily-gentle-cleanser-set): Description A set of cleanser that help to improve dead skin cells, breakouts and promote clear  -  DOKAN
+  Updated: 2026-05-23T21:53:35Z
+  Vendor: COSRX
+  Product Type: COSRX Low pH Good Morning Gel Cleanser +Salicylic Acid Daily Gentle Cleanser SET
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Low-pH-Good-Morning-Gel-Cleanser-_Salicylic-Acid-Daily-Gentle-Cleanser-SET-COSRX-JOLIE_S-195639249.jpg?v=1745096612
+  Price: AED 90.00 AED
+- [COSRX Night Skin Care Set 350ml - JOLIE'S](https://jolies.ae/products/cosrx-night-skin-care-set-350ml): COSRX  About this Set: Low pH Good Morning Gel Cleanser: With a mildly acidic pH level, this cleanser is
+  Updated: 2026-05-22T14:35:48Z
+  Vendor: COSRX
+  Product Type: COSRX BHA BLACKHEAD WATER, GOOD MORNING GEL, ADVANCE SNAIL 85 POWER ESSENCE
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Night-Skin-Care-Set-350ml-COSRX-JOLIE_S-195639371.webp?v=1745096624
+  Price: AED 163.00 AED
+- [SOME BY MI Blackheads 30 Days Miracle Toner, Serum and Cream Set -](https://jolies.ae/products/somebymi-blackheads-30-days-miracle-toner-serum-and-cream-set): SOME BY MI Experience smoother, healthier skin with the Somebymi Blackheads 30 Days Miracle Toner, Serum and  -  jolies
+  Updated: 2026-05-21T16:22:54Z
+  Vendor: SOME BY MI
+  Product Type: Health & Beauty
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Somebymi-Blackheads-30-Days-Miracle-Toner_-Serum-and-Cream-Set-SOME-BY-MI-JOLIE_S-195639461.webp?v=1745096637
+  Price: AED 233.00 AED
+- [COSRX Low pH Good Morning Gel Cleanser +Advanced Snail 92 All in](https://jolies.ae/products/cosrx-low-ph-good-morning-gel-cleanser-advanced-snail-92-all-in-one-cream-250ml): Description:  Advanced Snail 92 All in one Cream Formulated with snail 92 All in one cream is very  -  JOLIES
+  Updated: 2026-05-23T00:41:46Z
+  Vendor: COSRX
+  Product Type: COSRX Low pH Good Morning Gel Cleanser +Advanced Snail 92 All in one Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Low-pH-Good-Morning-Gel-Cleanser-_Advanced-Snail-92-All-in-one-Cream-250ml-COSRX-JOLIE_S-195639866.jpg?v=1754420852
+  Price: AED 126.00 AED
+- [DOKAN COSRX Snail moisture set](https://jolies.ae/products/cosrx-snail-moisture-set): Experience hydrated, rejuvenated skin with the COSRX Snail moisture set. Featuring the powerful  -  DOKAN
+  Updated: 2026-05-28T08:30:43Z
+  Vendor: COSRX
+  Product Type: COSRX Snail moisture set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Snail-moisture-set-COSRX-JOLIE_S-195641270.jpg?v=1754420796
+  Price: AED 141.00 AED
+- [DOKAN COSRX Oily skin set](https://jolies.ae/products/cosrx-oily-skin-set): 1- COSRX BHA BLACKHEAD POWER LIQUIDVolume: 100mlIngredients: Pyrus Malus Fruit Water 75%, Glycolic  -  DOKAN
+  Updated: 2026-05-21T02:16:45Z
+  Vendor: COSRX
+  Product Type: COSRX Oily skin set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Oily-skin-set-COSRX-JOLIE_S-195643162.jpg?v=1754420742
+  Price: AED 214.00 AED
+- [DOKAN COSRX All in One Set 350ml](https://jolies.ae/products/cosrx-all-in-one-set-350ml): Description : COSRX All In One Care for Sensitive skin  Low ph good morning cleanser is formulated  -  DOKAN
+  Updated: 2026-05-23T05:46:14Z
+  Vendor: COSRX
+  Product Type: Skincare Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-All-in-One-Set-350ml-COSRX-JOLIE_S-195643695.jpg?v=1754420723
+  Price: AED 270.00 AED
+- [SOME BY MI Somebymi Snail Truecica Miracle Repair Starter Kit](https://jolies.ae/products/somebymi-snail-truecica-miracle-repair-starter-kit): Snail Truceica Miracle Repair Starter kit its a 4 steps daily routine it has a cleanser  Toner  -  DOKAN
+  Updated: 2026-05-24T10:19:37Z
+  Vendor: SOME BY MI
+  Product Type: Skincare Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Somebymi-Snail-Truecica-Miracle-Repair-Starter-Kit-SOME-BY-MI-JOLIE_S-195644293.jpg?v=1745096951
+  Price: AED 64.00 AED
+- [EQQUALBERRY Vitamin illuminating Serum - JOLIE'S](https://jolies.ae/products/vitamin-illuminating-serum): Eqqualberry Global Contains 40% Acerola Water: The King of Vitamin C Addresses both potential and visible dark spots as  JOLIE'S
+  Updated: 2026-05-22T07:25:38Z
+  Vendor: EQQUALBERRY
+  Product Type: Face Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Vitamin-illuminating-Serum-Eqqualberry-Global-JOLIE_S-195646715.png?v=1745148693
+  Price: AED 90.00 AED
+- [EQQUALBERRY Bakuchiol Plumping Serum - JOLIE'S](https://jolies.ae/products/eqqualberry-bakuchiol-plumping-serum): Eqqualberry Global 99% of gentle, low-irritating bakuchiol A natural alternative to retinol  Improves skin volume by  JOLIE'S
+  Updated: 2026-05-22T20:35:54Z
+  Vendor: EQQUALBERRY
+  Product Type: Face Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/EQQUALBERRY-Bakuchiol-Plumping-Serum-EQQUALBERRY-JOLIE_S-195646891.png?v=1745148895
+  Price: AED 90.00 AED
+- [KSECRET SEOUL 1988 Serum: Retinal Liposome 2% + Black Ginseng (30ml) -](https://jolies.ae/products/ksecret-seoul-1988-serum-retinal-liposome-2-black-ginseng-30ml): KSECRET SEOUL 1988 Kiyoko's Notes A retinal serum that works up to 11x faster than retinol and has a lower irritation  JOLIE'S
+  Updated: 2026-05-21T07:45:46Z
+  Vendor: SEOUL 1988
+  Product Type: Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/KSECRET-SEOUL-1988-Serum_-Retinal-Liposome-2_-_-Black-Ginseng-_30ml_-KSECRET-SEOUL-1988-JOLIE_S-199214865.jpg?v=1746884259
+  Price: AED 95.00 AED
+- [KSECRET SEOUL 1988 Eye Cream: Retinal Liposome 4% + Fermented Bean](https://jolies.ae/products/ksecret-seoul-1988-eye-cream-retinal-liposome-4-fermented-bean-30ml): KSECRET SEOUL 1988 Kiyoko's Notes An eye cream to lift under-eye bags and provides antioxidant benefits SEOUL 1988 Eye  JOLIE'S
+  Updated: 2026-05-21T01:17:03Z
+  Vendor: SEOUL 1988
+  Product Type: Eye Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/KSECRET-SEOUL-1988-Eye-Cream_-Retinal-Liposome-4_-_-Fermented-Bean-_30ml_-KSECRET-SEOUL-1988-JOLIE_S-199214411.jpg?v=1746884213
+  Price: AED 95.00 AED
+- [KSECRET SEOUL 1988 Cream: Snail Mucin 93% + Rice (100ml) - JOLIE'S](https://jolies.ae/products/ksecret-seoul-1988-cream-snail-mucin-93-rice-100ml): KSECRET SEOUL 1988 Kiyoko's Notes A moisturizing cream enriched with 93% snail mucus filtrate and rice extract to  JOLIE'S
+  Updated: 2026-05-21T17:57:08Z
+  Vendor: SEOUL 1988
+  Product Type: Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/KSECRET-SEOUL-1988-Cream_-Snail-Mucin-93_-_-Rice-_100ml_-KSECRET-SEOUL-1988-JOLIE_S-199215244.jpg?v=1746884159
+  Price: AED 95.00 AED
+- [KSECRET SEOUL 1988 Cleansing Oil: Pine Cica 1% + Probiotics (200ml) -](https://jolies.ae/products/ksecret-seoul-1988-cleansing-oil-pine-cica-1-probiotics-200ml): KSECRET SEOUL 1988 Kiyoko's Notes A purifying cleansing oil enriched with Japanese red pine extract and Centella  JOLIE'S
+  Updated: 2026-05-20T13:17:16Z
+  Vendor: SEOUL 1988
+  Product Type: Oil Cleanser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/KSECRET-SEOUL-1988-Cleansing-Oil_-Pine-Cica-1_-_-Probiotics-_200ml_-KSECRET-SEOUL-1988-JOLIE_S-199215738.png?v=1746884106
+  Price: AED 85.00 AED
+- [celimax Derma Nature Fresh Blackhead Jojoba Cleansing Oil (20ml) -](https://jolies.ae/products/celimax-derma-nature-fresh-blackhead-jojoba-cleansing-oil-20ml): Celimax Kiyoko's Notes A light, non-greasy cleansing oil that gently removes makeup with zero irritation.  JOLIE'S
+  Updated: 2026-05-29T16:08:39Z
+  Vendor: CELIMAX
+  Product Type: Oil Cleanser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/celimax-Derma-Nature-Fresh-Blackhead-Jojoba-Cleansing-Oil-_20ml_-Celimax-JOLIE_S-199216019.png?v=1746884046
+  Price: AED 60.00 AED
+- [celimax The Vita-A Retinal Shot Tightening Booster (15ml) - JOLIE'S](https://jolies.ae/products/celimax-the-vita-a-retinal-shot-tightening-booster-15ml): celimax The Vita-A Retinal Shot A highly-concentrated formula packed with nutrients that penetrate and give you  JOLIE'S
+  Updated: 2026-07-20T12:23:26Z
+  Vendor: CELIMAX
+  Product Type: Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/celimax-The-Vita-A-Retinol-Shot-Tightening-Booster-_15ml_-Celimax-JOLIE_S-199216412.png?v=1746883996
+  Price: AED 85.00 AED
+- [celimax The Vita-A Retinal Shot Tightening Serum (30ml) - JOLIE'S](https://jolies.ae/products/celimax-the-vita-a-retinal-shot-tightening-serum-30ml): celimax The Vita-A Retinal Shot  An innovative serum with pure retinol and a peptide complex to help address wrinkles,  JOLIE'S
+  Updated: 2026-05-20T19:21:04Z
+  Vendor: CELIMAX
+  Product Type: Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/celimax-The-Vita-A-Retinol-Shot-Tightening-Serum-_30ml_-CELIMAX-JOLIE_S-199217466.jpg?v=1746883893
+  Price: AED 85.00 AED
+- [celimax The Real Noni Energy Ampoule - JOLIE'S](https://jolies.ae/products/celimax-the-real-noni-energy-ampoule-30ml-50ml): Celimax Kiyoko's Notes An improved moisturizing and calming formula in a lightweight, non-greasy ampoule.  JOLIE'S
+  Updated: 2026-05-23T02:38:45Z
+  Vendor: CELIMAX
+  Product Type: Ampoule
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/celimax-The-Real-Noni-Energy-Ampoule-CELIMAX-JOLIE_S-199216559.png?v=1746883782
+  Price: AED 85.00 AED
+- [celimax Dual Barrier Creamy Toner (150ml) - JOLIE'S](https://jolies.ae/products/celimax-dual-barrier-creamy-toner-150ml): Celimax Kiyoko's Notes A premium vegan toner premium that is designed to provide your skin with  JOLIE'S
+  Updated: 2026-05-22T02:18:31Z
+  Vendor: CELIMAX
+  Product Type: Toner
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/CELIMAX-Dual-Barrier-Creamy-Toner-150-ml-CELIMAX-JOLIE_S-199217559.jpg?v=1746883252
+  Price: AED 85.00 AED
+- [MEDICUBE PDRN Pink Collagen Capsule Cream - JOLIE'S](https://jolies.ae/products/medicube-pdrn-pink-collagen-capsule-cream): Medicube MEDICUBE PDRN Pink Collagen Capsule Cream: Ultimate Skin Rejuvenation &amp; Firming Solution  JOLIE'S
+  Updated: 2026-05-21T18:49:34Z
+  Vendor: Medicube
+  Product Type: CREAM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-PDRN-Pink-Collagen-Capsule-Cream-Medicube-JOLIE_S-199940064.png?v=1748605557
+  Price: AED 90.00 AED
+- [ANUA 100+ PDRN + Hyaluron Serum - JOLIE'S](https://jolies.ae/products/anua-pdrn-hyaluron-serum): Anua Restore and rejuvenate your skin with ANUA PDRN + Hyaluron, a powerful anti-aging and hydrating  JOLIE'S
+  Updated: 2026-07-21T12:06:42Z
+  Vendor: ANUA
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-PDRN-_-Hyaluron-Serum-Anua-JOLIE_S-199955611.png?v=1748711720
+  Price: AED 90.00 AED
+- [Best Seller Daily skin care routine Combo - JOLIE'S](https://jolies.ae/products/medicube-anua-cosrx-someby-mi-skin-care-routine): JOLIE'S Best Seller Daily skin care routine Combo MEDICUBE Collagen Jelly Cream Experience the  JOLIE'S
+  Updated: 2026-05-20T21:49:10Z
+  Vendor: JOLIE'S
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-_-anua-_-cosrx-_-someby-mi-skin-care-routine-JOLIE_S-JOLIE_S-200413829.jpg?v=1748899216
+  Price: AED 350.00 AED
+- [Medicube Collagen Booster Set- JOLIE'S](https://jolies.ae/products/medicube-collagen-booster-set): Discover the Medicube Collagen Booster Set for enhanced skin hydration and elasticity. Perfect for a youthful glow.
+  Updated: 2026-05-22T11:35:44Z
+  Vendor: JOLIE'S
+  Product Type: Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Collagen-Booster-Set-JOLIE_S-JOLIE_S-200517837.png?v=1749251170
+  Price: AED 800.00 AED
+- [CAPIXY Intense Hair Tonic Spray for Healthy Hair](https://jolies.ae/products/capixy-intense-hair-tonic-spray-125-ml): Discover CAPIXY Intense Hair Tonic Spray for enhanced hair growth. Infused with natural ingredients for stronger, healthier hair.
+  Updated: 2026-07-21T16:00:43Z
+  Vendor: CAPIXY
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Capixy-Intense-Tonic-Spray-125ml-JOLIE_S-JOLIE_S-201146468.webp?v=1750956447
+  Price: AED 220.00 AED
+- [Effective Makeup Remover for Eyes and Lips](https://jolies.ae/products/eva-skin-clinic-collagen-makeup-remover-for-eyes-lips): Discover EVA Skin Clinic's Collagen Eyes & Lips Makeup Remover for gentle and effective cleansing. Perfect for all skin types!
+  Updated: 2026-05-29T12:52:24Z
+  Vendor: EVA
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/EVA-Skin-Clinic-Collagen-Eyes-_-Lips-Makeup-Remover-EVA-JOLIE_S-201149458.jpg?v=1750961310
+  Price: AED 80.00 AED
+- [EQQUALBERRY Bouncy Day Collagen Pore-Tight Up 4pcs - JOLIE'S](https://jolies.ae/products/eqqualberry-bouncy-day-collagen-pore-tight-up-4pcs): EQQUALBERRY EQQUALBERRY Bouncy Day Collagen Pore-Tight Up – Firming, Lifting &amp; Pore-Refining  Give  JOLIE'S
+  Updated: 2026-05-26T21:47:10Z
+  Vendor: EQQUALBERRY
+  Product Type: MASK
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/EQQUALBERRY-Bouncy-Day-Collagen-Pore-Tight-Up-4pcs-EQQUALBERRY-JOLIE_S-201205283.png?v=1751226371
+  Price: AED 95.00 AED
+- [EQQUALBERRY Purple PDRN Pore Minimizing Serum - JOLIE'S](https://jolies.ae/products/eqqualberry-purple-pdrn-pore-minimizing-serum): EQQUALBERRY EQQUALBERRY Purple PDRN Pore Minimizing Serum – Firm, Refine &amp; Restore Radiance Revitalize your  JOLIE'S
+  Updated: 2026-05-22T06:41:04Z
+  Vendor: EQQUALBERRY
+  Product Type: Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/EQQUALBERRY-Purple-PDRN-Pore-Minimizing-Serum-EQQUALBERRY-JOLIE_S-201205770.png?v=1751226315
+  Price: AED 90.00 AED
+- [EQQUALBERRY Purple Rice Pore Purifying Pack Cleanser - JOLIE'S](https://jolies.ae/products/eqqualberry-purple-rice-pore-purifying-pack-cleanser): EQQUALBERRY EQQUALBERRY Purple Rice Pore Purifying Pack Cleanser – Deep Cleanse &amp; Glow in One Step Unlock  JOLIE'S
+  Updated: 2026-05-26T03:58:34Z
+  Vendor: EQQUALBERRY
+  Product Type: Cleanser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/EQQUALBERRY-Purple-Rice-Pore-Purifying-Pack-Cleanser-EQQUALBERRY-JOLIE_S-201206448.png?v=1751226220
+  Price: AED 90.00 AED
+- [EQQUALBERRY Vegan Swimming Pool Toner Pads 70pads 220ml - JOLIE'S](https://jolies.ae/products/eqqualberry-vegan-swimming-pool-toner-pads-70pads-220ml): EQQUALBERRY EQQUALBERRY Vegan Swimming Pool Toner Pads 70 Pads 220ml – Hydrating &amp; Soothing Skin Care in One  JOLIE'S
+  Updated: 2026-05-26T22:14:21Z
+  Vendor: EQQUALBERRY
+  Product Type: Toner Pads
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/EQQUALBERRY-Vegan-Swimming-Pool-Toner-Pads-70-pads-220-ml-EQQUALBERRY-JOLIE_S-201206588.png?v=1751226198
+  Price: AED 90.00 AED
+- [EQQUALBERRY Swimming Pool Toner 155ml - JOLIE'S](https://jolies.ae/products/eqqualberry-swimming-pool-toner-155ml): EQQUALBERRY EQQUALBERRY Swimming Pool Toner 155ml – Hydrate, Soothe &amp; Refresh Your Skin Give your skin a  JOLIE'S
+  Updated: 2026-07-26T14:26:55Z
+  Vendor: EQQUALBERRY
+  Product Type: Toner
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/EQQUALBERRY-Swimming-Pool-Toner-155-ml-EQQUALBERRY-JOLIE_S-201207183.png?v=1751226255
+  Price: AED 95.00 AED
+- [numbuzin No.9 NAD Bio Lifting-Sil Essence (50ml) - JOLIE'S](https://jolies.ae/products/numbuzin-no-9-nad-bio-lifting-sil-essence-50ml): numbuzin Kiyoko's Notes Game-changing anti-aging essence that's better than Botox. numbuzin No.9 NAD Bio  JOLIE'S
+  Updated: 2026-07-26T05:27:12Z
+  Vendor: NUMBUZIN
+  Product Type: Essence
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/NUMBUZIN-No.9-NAD-Bio-Lifting-Sil-Essence-50-ml-NUMBUZIN-JOLIE_S-201281231.png?v=1751377582
+  Price: AED 100.00 AED
+- [MEDICUBE TXA Niacinamide Serum Capsule Cream Set - JOLIE'S](https://jolies.ae/products/medicube-txa-niacinamide-serum-capsule-cream-set): Medicube MEDICUBE TXA Niacinamide Serum Capsule Cream Set – Brightening &amp; Dark Spot  for  JOLIE'S
+  Updated: 2026-07-26T14:32:01Z
+  Vendor: Medicube
+  Product Type: Serum and Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-TXA-Niacinamide-Serum-Capsule-Cream-Set-Medicube-JOLIE_S-201281881.png?v=1751377726
+  Price: AED 135.00 AED
+- [MEDICUBE TXA Niacinamide Capsule Cream - JOLIE'S](https://jolies.ae/products/medicube-txa-niacinamide-capsule-cream): Medicube MEDICUBE TXA Niacinamide Capsule Cream – Brighten, Hydrate &amp; Fade Dark Spots Fast Achieve  JOLIE'S
+  Updated: 2026-05-21T11:11:26Z
+  Vendor: Medicube
+  Product Type: CREAM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-TXA-Niacinamide-Capsule-Cream-55-gm-Medicube-JOLIE_S-201281972.png?v=1751378011
+  Price: AED 100.00 AED
+- [Medicube PDRN Pink One Day Serum Set - 1.5ml 10pcs - JOLIE'S](https://jolies.ae/products/medicube-red-acne-succinic-acid-peel-40g-copy): My Store  This medicube PDRN Pink one-day ampoule contains 99% high-purity Salmon PDRN, designed for fresh  JOLIE'S
+  Updated: 2026-05-21T02:20:34Z
+  Vendor: Medicube
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-PDRN-Pink-One-Day-Serum-Set-1.5ml-10pcs-My-Store-JOLIE_S-201525580.png?v=1751743484
+  Price: AED 90.00 AED
+- [MEDICUBE PDRN Booster Gel - JOLIE'S](https://jolies.ae/products/medicube-pdrn-booster-gel): Medicube MEDICUBE AGE-R PDRN Booster Gel – Advanced Skin Regeneration and Hydration Elevate your skincare  JOLIE'S
+  Updated: 2026-05-22T14:37:17Z
+  Vendor: Medicube
+  Product Type: Booster Gel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-PDRN-Booster-Gel-Medicube-JOLIE_S-201526536.png?v=1751747348
+  Price: AED 95.00 AED
+- [MEDICUBE Zero Pore Blackhead Deep Cleansing Oil - JOLIE'S](https://jolies.ae/products/medicube-zero-pore-blackhead-deep-cleansing-oil): Medicube MEDICUBE Zero Pore Blackhead Deep Cleansing Oil – Purify Pores, Dissolve Blackheads, and Reveal  JOLIE'S
+  Updated: 2026-05-23T12:56:51Z
+  Vendor: Medicube
+  Product Type: Cleansing Oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Zero-Pore-Blackhead-Deep-Cleansing-Oil-Medicube-JOLIE_S-201527878.jpg?v=1751745643
+  Price: AED 95.00 AED
+- [MEDICUBE Kojic Acid Turmeric Night Wrapping Mask - JOLIE'S](https://jolies.ae/products/medicube-kojic-acid-turmeric-night-wrapping-mask): Medicube MEDICUBE Kojic Acid Turmeric Night Wrapping Mask – Overnight Brightening &amp; Skin Tone Correction  JOLIE'S
+  Updated: 2026-05-21T20:58:04Z
+  Vendor: Medicube
+  Product Type: MASK
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Kojic-Acid-Turmeric-Night-Wrapping-Mask-Medicube-JOLIE_S-201529146.png?v=1751747167
+  Price: AED 100.00 AED
+- [MEDICUBE TXA Niacinamide 15 Serum - JOLIE'S](https://jolies.ae/products/medicube-txa-niacinamide-15-serum): Medicube MEDICUBE TXA Niacinamide 15 Serum – Advanced Brightening &amp; Dark Spot Corrector Achieve visibly  JOLIE'S
+  Updated: 2026-05-21T16:52:55Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-TXA-Niacinamide-15-Serum-Medicube-JOLIE_S-201529646.png?v=1751747101
+  Price: AED 100.00 AED
+- [MEDICUBE PDRN Collagen Exosome Shot 7500 - JOLIE'S](https://jolies.ae/products/medicube-pdrn-collagen-exosome-shot-7500): Medicube MEDICUBE PDRN Collagen Exosome Shot 7500 – Advanced Anti-Aging &amp; Skin Repair Solution Discover  JOLIE'S
+  Updated: 2026-05-21T03:34:54Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-PDRN-Collagen-Exosome-Shot-7500-Medicube-JOLIE_S-201530182.png?v=1751808895
+  Price: AED 99.00 AED
+- [MEDICUBE Deep Vita A Retinol Serum - JOLIE'S](https://jolies.ae/products/medicube-deep-vita-a-retinol-serum): Medicube MEDICUBE Deep Vita C Retinol Serum – Powerful Anti-Aging &amp; Brightening for Smooth, Radiant Skin  JOLIE'S
+  Updated: 2026-05-23T10:37:51Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Deep-Vita-A-Retinol-Serum-Medicube-JOLIE_S-201530698.png?v=1751746926
+  Price: AED 95.00 AED
+- [MEDICUBE Zero Pore Serum - JOLIE'S](https://jolies.ae/products/medicube-zero-pore-serum): Medicube MEDICUBE Zero Pore Serum – Pore-Tightening &amp; Oil Control for a Smooth, Clear Complexion Achieve  JOLIE'S
+  Updated: 2026-05-26T19:26:48Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Zero-Pore-Serum-Medicube-JOLIE_S-201531013.png?v=1751975934
+  Price: AED 85.00 AED
+- [MEDICUBE Zero Pore Day Cream - JOLIE'S](https://jolies.ae/products/medicube-zero-pore-day-cream): Medicube MEDICUBE Zero Pore Day Cream – Lightweight Hydration &amp; Pore Care for Shine-Free Skin Achieve  JOLIE'S
+  Updated: 2026-05-25T22:14:48Z
+  Vendor: Medicube
+  Product Type: Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Zero-Pore-Day-Cream-Medicube-JOLIE_S-201531179.jpg?v=1751746796
+  Price: AED 95.00 AED
+- [MEDICUBE Zero Foam Cleanser - JOLIE'S](https://jolies.ae/products/medicube-zero-foam-cleanser-1): Medicube MEDICUBE Zero Foam Cleanser – Deep Pore Cleansing &amp; Oil Control for Clear Skin Say goodbye to  JOLIE'S
+  Updated: 2026-05-23T11:46:29Z
+  Vendor: Medicube
+  Product Type: Cleanser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Zero-Foam-Cleanser-Medicube-JOLIE_S-201532182.png?v=1751976245
+  Price: AED 70.00 AED
+- [MEDICUBE Super Cica Deep Cleansing Balm 100ml - JOLIE'S](https://jolies.ae/products/medicube-super-cica-deep-cleansing-balm-100ml): Medicube MEDICUBE Super Cica Deep Cleansing Balm – Powerful Makeup Remover &amp; Pore Purifier Upgrade your  JOLIE'S
+  Updated: 2026-05-21T23:54:46Z
+  Vendor: Medicube
+  Product Type: CLEANSING BALM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Super-Cica-Deep-Cleansing-Balm-100ml-Medicube-JOLIE_S-201532565.png?v=1751746584
+  Price: AED 100.00 AED
+- [MEDICUBE Glow Booster Serum - JOLIE'S](https://jolies.ae/products/medicube-glow-booster-serum): Medicube MEDICUBE Glow Booster Serum – Radiance-Boosting, Hydrating, and Skin-Revitalizing Formula Unleash  JOLIE'S
+  Updated: 2026-06-04T08:48:57Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Glow-Booster-Serum-15-ML-Medicube-JOLIE_S-201535557.png?v=1751747648
+  Price: AED 90.00 AED
+- [MEDICUBE Collagen Firming Sun Cream- JOLIE'S](https://jolies.ae/products/medicube-collagen-firming-sun-cream): Medicube MEDICUBE Collagen Firming Sunscreen – SPF Protection with Anti-Aging Benefits Protect and rejuvenate  JOLIE'S
+  Updated: 2026-05-21T17:36:36Z
+  Vendor: Medicube
+  Product Type: sun cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Collagen-Firming-Sun-Cream-50-ML-Medicube-JOLIE_S-201533163.png?v=1751746500
+  Price: AED 100.00 AED
+- [MEDICUBE Age-R Glutathione Glow Toner - JOLIE'S](https://jolies.ae/products/medicube-age-r-glutathione-glow-milky-toner): Medicube Medicube Age-R Glutathione Glow Milky Toner – Low-Irritation, Double-Layer Toner for Radiant Skin  JOLIE'S
+  Updated: 2026-05-25T10:03:50Z
+  Vendor: Medicube
+  Product Type: Toner
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Age-R-Glutathione-Glow-Toner-140-ML-Medicube-JOLIE_S-201533581.png?v=1751746574
+  Price: AED 85.00 AED
+- [MEDICUBE One Day Exosome Shot 7500 30ml - JOLIE'S](https://jolies.ae/products/medicube-one-day-exosome-shot-7500-30ml): Medicube Experience immediate skin rejuvenation with the MEDICUBE One Day Exosome Shot 7500! This luxurious  JOLIE'S
+  Updated: 2026-07-26T10:21:14Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-One-Day-Exosome-Shot-7500-30-ml-Medicube-JOLIE_S-201534024.webp?v=1751746646
+  Price: AED 100.00 AED
+- [MEDICUBE Red Acne Succinic Acid Peel Serum - JOLIE'S](https://jolies.ae/products/medicube-red-acne-succinic-acid-peel-serum): Medicube The MEDICUBE Red Acne Succinic Acid Peel is your solution to clearer, smoother skin with its  JOLIE'S
+  Updated: 2026-05-22T22:40:20Z
+  Vendor: Medicube
+  Product Type: SERUM
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Red-Acne-Succinic-Acid-Peel-Serum-40-gm-Medicube-JOLIE_S-201534494.png?v=1751746724
+  Price: AED 90.00 AED
+- [MEDICUBE PDRN Pink Cica Soothing Toner - JOLIE'S](https://jolies.ae/products/medicube-pdrn-pink-cica-soothing-toner): Medicube MEDICUBE PDRN Pink Cica Soothing Toner – Nurture &amp; Restore Your Skin with Powerful Healing  JOLIE'S
+  Updated: 2026-05-21T23:56:23Z
+  Vendor: Medicube
+  Product Type: Toner
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-PDRN-Pink-Cica-Soothing-Toner-120-ML-Medicube-JOLIE_S-201534937.png?v=1751746798
+  Price: AED 95.00 AED
+- [Medicube Zero Pore Blackhead Mud Mask (100g) - JOLIE'S](https://jolies.ae/products/medicube-zero-pore-blackhead-mud-mask-100g): Medicube Kiyoko's Notes Discover the dual benefits of cooling and tightening encapsulated in a single  JOLIE'S
+  Updated: 2026-05-21T12:17:03Z
+  Vendor: Medicube
+  Product Type: Wash-off Face Mask
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Zero-Pore-Blackhead-Mud-Mask-100-gm-Medicube-JOLIE_S-201536845.jpg?v=1751751318
+  Price: AED 90.00 AED
+- [Medicube PDRN Lip Sleeping Mask 10 gm - JOLIE'S](https://jolies.ae/products/medicube-pdrn-lip-sleeping-mask-10g): Medicube Kiyoko's Notes A deeply moisturizing sleep mask infused with PDRN and collagen Medicube PDRN Lip  JOLIE'S
+  Updated: 2026-05-25T02:13:22Z
+  Vendor: Medicube
+  Product Type: Lip Sleeping Mask
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-PDRN-Lip-Sleeping-Mask-_10g_-Medicube-JOLIE_S-201540068.jpg?v=1751805072
+  Price: AED 60.00 AED
+- [Medicube Deep Lifting Peptide Eye Cream (30ml) - Renewal - JOLIE'S](https://jolies.ae/products/medicube-deep-lifting-peptide-eye-cream-30ml-renewal): Medicube Kiyoko's Notes Intense firming effect for crows feet, fine lines, and dark circles! Medicube Deep  JOLIE'S
+  Updated: 2026-05-21T10:28:11Z
+  Vendor: Medicube
+  Product Type: Eye Cream
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Deep-Lifting-Peptide-Eye-Cream-_30ml_-Renewal-Medicube-JOLIE_S-201540824.jpg?v=1751805363
+  Price: AED 75.00 AED
+- [Shiseido Fino Premium Touch Penetrating Essence Hair Oil Airy Smooth](https://jolies.ae/products/fino-premium-touch-penetrating-essence-hair-oil-airy-smooth-70ml-hair-care-damage-day-repair-gloss-fino): SHISEIDO Product Description Experience "smooth hair" anytime, even at the ends of damaged hair, with this  JOLIE'S
+  Updated: 2026-05-21T06:09:09Z
+  Vendor: SHISEIDO FINO
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Shiseido-Fino-Premium-Touch-Penetrating-Essence-Hair-Oil-Airy-Smooth-70ml-Damage-Repair-SHISEIDO-JOLIE_S-201844295.jpg?v=1752355264
+  Price: AED 70.00 AED
+- [BIODANCE Collagen Gel Toner Pads  ( 60 Pads ) - JOLIE'S](https://jolies.ae/products/biodance-collagen-gel-toner-pads-60-pads): Medicube BIODANCE Collagen Gel Toner Pads  ( 60 Pads ) Size: 140g Benefits: This first-ever gel-type toner  JOLIE'S
+  Updated: 2026-05-21T17:30:24Z
+  Vendor: BIODANCE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Collagen-Gel-Toner-Pads-_-60-Pads-_-Medicube-JOLIE_S-202019799.avif?v=1753442770
+  Price: AED 90.00 AED
+- [BIODANCE Cera-nol Gel Toner Pads ( 60 pads ) - JOLIE'S](https://jolies.ae/products/biodance-cera-nol-gel-toner-pads-60-pads): Medicube BIODANCE Cera-nol Gel Toner Pads ( 60 s ) Size: 140g Benefits:   This first-ever gel-type toner  JOLIE'S
+  Updated: 2026-05-28T02:16:11Z
+  Vendor: BIODANCE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Cera-nol-Gel-Toner-Pads-_-60-pads-_-Medicube-JOLIE_S-202019657.avif?v=1753442832
+  Price: AED 90.00 AED
+- [BIODANCE Vita Niacinamide Gel Toner Pads ( 60 pads ) - JOLIE'S](https://jolies.ae/products/biodance-vita-niacinamide-gel-toner-pads-60-pads): Medicube BIODANCE Cera-nol Gel Toner Pads ( 60 s ) Size: 140g Benefits:   This first-ever gel-type toner  JOLIE'S
+  Updated: 2026-05-23T20:44:20Z
+  Vendor: BIODANCE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Vita-Niacinamide-Gel-Toner-Pads-_-60-pads-_-Medicube-JOLIE_S-202019327.avif?v=1753442695
+  Price: AED 90.00 AED
+- [BIODANCE Vita Niacinamide Gel Toner Pads ( 60 pads ) - JOLIE'S](https://jolies.ae/products/biodance-sea-kelp-gel-toner-pads-60-pads): Medicube BIODANCE Cera-nol Gel Toner Pads ( 60 s ) Size: 140g Benefits:   This first-ever gel-type toner  JOLIE'S
+  Updated: 2026-05-22T09:27:14Z
+  Vendor: BIODANCE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Sea-Kelp-Gel-Toner-Pads-_-60-pads-_-Medicube-JOLIE_S-202019259.avif?v=1753442649
+  Price: AED 90.00 AED
+- [BIODANCE Hydro Cera-nol Real Deep Mask Set + Cera-nol Gel Toner Pads -](https://jolies.ae/products/biodance-hydro-cera-nol-real-deep-mask-set-cera-nol-gel-toner-pads): Medicube BIODANCE Hydro Cera-nol Real Deep Mask Set + Cera-nol Gel Toner Pads Features This bundle set comes  JOLIE'S
+  Updated: 2026-05-24T17:43:16Z
+  Vendor: BIODANCE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Hydro-Cera-nol-Real-Deep-Mask-Set-_-Cera-nol-Gel-Toner-Pads-Medicube-JOLIE_S-201979751.webp?v=1753362443
+  Price: AED 170.00 AED
+[List Continued](https://jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgwNTk2MjI0MzIxLCJsYXN0X3ZhbHVlIjoiOTk4MDU5NjIyNDMyMSJ9)
 
 ## Collections
 
 - [Hair ](https://jolies.ae/collections/hair-): Explore our range of Premium Brazilian  Essentials to achieve salon-quality hair at home with smooth, shiny, and healthy results.
-  Updated: 2026-07-18T15:09:10Z
-  Total Products: 37
+  Updated: 2026-07-24T13:34:43Z
+  Total Products: 32
 - [Hair Care](https://jolies.ae/collections/hair-care): Discover the best hair care tips and products. Achieve healthy, shiny hair with our expert advice and top recommendations. Explore now!
-  Updated: 2026-07-21T11:10:22Z
-  Total Products: 112
+  Updated: 2026-07-27T22:59:54Z
+  Total Products: 114
 - [Skin Care](https://jolies.ae/collections/skin-care): Explore Korean skincare to achieve flawless skin. Discover top products and tips for radiant, youthful skin.
-  Updated: 2026-07-21T19:58:07Z
+  Updated: 2026-07-28T11:12:31Z
   Total Products: 485
 - [Makeup](https://jolies.ae/collections/makeup): Discover the art of Makeup with our authentic products. Explore various looks with our high-quality, genuine makeup items crafted to enhance your beauty.
   Updated: 2026-07-16T11:10:45Z
@@ -2009,8 +3140,8 @@
   Updated: 2026-06-02T00:11:26Z
   Total Products: 12
 - [Best Sellers](https://jolies.ae/collections/best-sellers): - JOLIE'S
-  Updated: 2026-07-21T19:58:07Z
-  Total Products: 352
+  Updated: 2026-07-28T11:12:31Z
+  Total Products: 349
 - [Hair Dryer](https://jolies.ae/collections/hair-dryer): Discover the best hair dryer for quick, gentle, and efficient drying. Explore our collection and find the perfect hair dryer to make styling a breeze.
   Updated: 2026-06-02T00:28:27Z
   Total Products: 4
@@ -2018,7 +3149,7 @@
   Updated: 2026-04-20T20:10:34Z
   Total Products: 34
 - [Skin Care Kit](https://jolies.ae/collections/skin-care-travel-kit): Discover the ultimate skin care kit to keep your skin healthy and glowing. Our comprehensive kit includes all essentials for your daily skin care routine.
-  Updated: 2026-07-21T19:59:34Z
+  Updated: 2026-07-27T15:05:24Z
   Total Products: 126
 - [Hair Care Gift Set](https://jolies.ae/collections/hair-care-gift-set): Hair Care Gift Set Suitable Hair care kits for gifting friends . Varies from shampoos to conditioners and masks with different ingredients from  - JOLIE'S
   Updated: 2026-04-20T20:10:34Z
@@ -2030,11 +3161,11 @@
   Updated: 2026-07-19T11:09:41Z
   Total Products: 11
 - [Premium products](https://jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-07-21T19:58:07Z
-  Total Products: 506
+  Updated: 2026-07-27T22:59:54Z
+  Total Products: 502
 - [Normal products](https://jolies.ae/collections/premium-products-copy): - JOLIE'S
-  Updated: 2026-07-21T11:10:22Z
-  Total Products: 320
+  Updated: 2026-07-28T11:12:31Z
+  Total Products: 322
 
 ## Blogs
 
@@ -2159,6 +3290,12 @@
   - [Anua Retinol 0.3 + Niacin Review for Brighter Skin](https://jolies.ae/blogs/news/anua-retinol-0-3-niacin-brighter-firmer-skin-review-12576-23): Anua Retinol 0.3 + Niacin Review for Brighter Skin
     Updated: 2026-07-11T16:22:00Z
     Author: jolies store
+  - [Korean Skincare Routine for Glowing Skin Guide](https://jolies.ae/blogs/news/korean-skincare-routine-for-glowing-skin-13359-47): Korean Skincare Routine for Glowing Skin Guide
+    Updated: 2026-07-25T16:23:07Z
+    Author: jolies store
+  - [Skincare Routine for Glowing Skin: Easy Steps](https://jolies.ae/blogs/news/skincare-routine-for-glowing-skin-13360-7): Skincare Routine for Glowing Skin: Easy Steps
+    Updated: 2026-07-25T16:23:13Z
+    Author: jolies store
 
 ## Store Pages
 
@@ -2167,7 +3304,7 @@
 - [Review Submission](https://jolies.ae/pages/review-submission)
   Updated: 2023-06-11T13:48:01Z
 - [Partner links](https://jolies.ae/pages/partner-links): Partner links The Be Line Products Beyondtech Ammuri Skincare Augusta Jewellery Fostino Sttelland AbsoluteSkin Butikkom MysticalCherry Outer Limit ...
-  Updated: 2026-07-16T02:33:15Z
+  Updated: 2026-07-21T23:24:30Z
 - [CONTACT US](https://jolies.ae/pages/contact-us)
   Updated: 2024-06-11T07:53:00Z
 - [Customer Reviews](https://jolies.ae/pages/reviews): .main-page-title.page-title { display: none; } .page-width--narrow { max-width: 100vw; padding-top: 0; } #vstar-all-reviews { max-width: 100vw; }
