@@ -6,40 +6,40 @@
 - Timezone: Europe/Bucharest
 - Created At: 2026-03-20T10:10:02Z
 - Contact Email: office@craftmystic.ro
-- Updated At: 2026-07-22T00:00:42.600Z
+- Updated At: 2026-07-29T00:00:45.537Z
 
 ## Products
 
 - [Colier cu pandantiv hexagonal din cristal obsidian | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-hexagonal-din-cristal-obsidian-realizat-manual-infasurat-intr-o-sarma-de-cupru-argintie-dandu-i-o-forma-perfecta): Colier din obsidian natural, cupru. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:55Z
+  Updated: 2026-07-24T07:49:46Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-hexagonal-din-cristal-obsidian-realizat-manual-infasurat-intr-o-sarma-de-cupru-argintie-dandu-i-o-forma-perfecta-512424.jpg?v=1780690009
   Price: 70,00 lei RON
 - [Piramida Orgonica cu cristale vindecatoare de Ametist](https://www.craftmystic.ro/products/piramida-orgonica-cu-cristale-vindecatoare-de-ametist-obsidian-foita-aurie-rasina-naturala-si-sfera-din-cristal-ametist-8-cm-pentru-energie-pozitiva-si-reducerea-stresului): Piramida de orgon este realizata din sfera de ametist natural, obsidian, foita de aur, rasina naturala.
-  Updated: 2026-07-21T14:59:04Z
+  Updated: 2026-07-28T10:45:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-cristale-vindecatoare-de-ametist-obsidian-foita-de-aur-rasina-naturala-si-sfera-din-cristal-ametist-6-cm-pentru-energie-pozitiva-579941.jpg?v=1780690010
   Price: 199,00 lei RON
 - [Bonsai cu cristale Cuart Roz pe suport dreptunghiular de](https://www.craftmystic.ro/products/bonsai-cu-cristale-cuart-roz-pe-suport-dreptunghiular-de-ceramica-simbolizeaza-feng-shui-noroc-sanatate-bogatie-si-familie): Un copac frumos, lucrat manual cu ramuri realizate din sarma de cupru si pietre semipretioase Cuart trandafiriu, cuplate cu o baza de rasina intr-un...
-  Updated: 2026-07-21T14:59:04Z
+  Updated: 2026-07-24T07:41:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bonsai-cu-cristale-cuart-roz-pe-suport-dreptunghiular-de-ceramica-simbolizeaza-feng-shui-noroc-sanatate-bogatie-si-familie-061006.jpg?v=1780690009
   Price: 199,00 lei RON
 - [Patura pentru altar magic - Design Moon Phases With | CraftMystic](https://www.craftmystic.ro/products/patura-pentru-altar-magic-design-moon-phases-with-triple-moon-vrajitorie-tarot-wiccani-spiritualitate): Patura pentru altar magic - Design Moon Phases With Triple Moon - Vrajitorie Tarot Wiccani. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:04Z
+  Updated: 2026-07-24T07:42:42Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-50-accesorii-wicca-ideal-pentru-vraji-usoare-pentru-incepatori-vraji-de-dragoste-protectie-iubire-copie-152221.jpg?v=1780690011
   Price: 112,00 lei RON
 - [Panza Sacra pentru altar magic - Design Pentagrama | CraftMystic](https://www.craftmystic.ro/products/panza-sacra-pentru-altar-magic-design-pentagrama-triple-moon-vrajitorie-tarot-wiccani-spiritualitate): Panza Sacra pentru altar magic - Design Pentagrama Triple Moon - Vrajitorie Tarot Wiccani. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:04Z
+  Updated: 2026-07-24T07:37:21Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
@@ -53,539 +53,539 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-2-panze-cu-design-unic-pentru-altar-magic-decor-perete-056276.jpg?v=1780690010
     Price: 62,00 lei RON
 - [Mini Set cu 7 mini pietre semipretioase polisate | CraftMystic](https://www.craftmystic.ro/products/mini-set-cu-7-mini-pietre-semipretioase-polisate-si-7-cristale-semipretioase-hexagonale-naturale-cristale-vindecatoare-pentru-meditatie-ameliorarea-anxietatii-yoga): Mini Set cu 7 mini pietre semipretioase polisate si 7 cristale semipretioase hexagonale. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:04Z
+  Updated: 2026-07-24T07:49:30Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-14-pietre-semipretioase-naturale-cristale-vindecatoare-pentru-meditatie-ameliorarea-anxietatii-yoga-764004.jpg?v=1780690010
   Price: 75,00 lei RON
 - [Colier cu pandantiv hexagonal din agat negru | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-hexagonal-din-agat-negru-piatra-semipretioasa-realizata-manual-infasurata-intr-o-sarma-de-cupru-sub-forma-unui-copac-al-vietii): Colier din agat negru natural, cupru. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:56Z
+  Updated: 2026-07-28T22:04:16Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-hexagonal-din-agat-negru-piatra-semipretioasa-realizata-manual-infasurata-intr-o-sarma-de-cupru-sub-forma-unui-copac-al-vietii-487477.jpg?v=1780690011
   Price: 62,00 lei RON
 - [Piramida Orgonica cu cristal Ametist si simbolul | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cu-cristal-ametist-si-simbolul-floarea-vietii-8-cm-pentru-energie-vindecarea-reiki-echilibrarea-chakrelor): Piramida Orgonica cu cristal Ametist si simbolul floarea vietii 8 cm – Pentru energie. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:55Z
+  Updated: 2026-07-24T07:45:57Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-cristal-ametist-si-simbolul-floarea-vietii-8-cm-pentru-energie-vindecarea-reiki-echilibrarea-chakrelor-840787.jpg?v=1780690012
   Price: 149,00 lei RON
 - [Copac arborele vietii premium](https://www.craftmystic.ro/products/copac-arborele-vietii-premium-arbore-din-cristale-pentru-energie-pozitiva-realizat-manual-cu-sapte-pietre-chakre-cristale-si-pietre-vindecatoare): Un copac frumos, lucrat manual cu toate cele sapte chakre, pietre pretioase cuplate cu o baza de lemn si trunchiul de sarma aurie acoperit cu sigiliu.
-  Updated: 2026-07-21T14:59:05Z
+  Updated: 2026-07-25T14:30:22Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/copac-arborele-vietii-premium-arbore-din-cristale-pentru-energie-pozitiva-realizat-manual-cu-sapte-pietre-chakre-cristale-si-pietre-vindecatoare-842572.jpg?v=1780690011
   Price: 199,00 lei RON
 - [Piramida Orgonica cu cristal Acvamarin si simbolul | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cu-cristal-acvamarin-si-simbolul-floarea-vietii-8-cm-pentru-energie-pozitiva-curaj-eliminarea-fricii-si-a-stresului): Piramida Orgonica cu cristal Acvamarin si simbolul floarea vietii 8 cm - pentru energie. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:44:12Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-cristal-acvamarin-si-simbolul-floarea-vietii-8-cm-pentru-energie-pozitiva-curaj-eliminarea-fricii-si-a-stresului-214208.jpg?v=1780690011
   Price: 199,00 lei RON
 - [Set 36 lumanari pentru ritualuri si 6 suporturi | CraftMystic](https://www.craftmystic.ro/products/set-36-lumanari-pentru-ritualuri-si-6-suporturi-negre-din-ceramica): Set 36 lumanari pentru ritualuri si 6 suporturi negre din ceramica. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:05Z
+  Updated: 2026-07-24T07:39:34Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-de-lumanari-spell-taper-pentru-vrajitorie-36-de-betisoare-de-lumanari-ritual-chime-colorate-si-6-suporturi-negre-9-9885.jpg?v=1780690013
   Price: 192,00 lei RON
 - [Set 9 planete in Sistemul Solar din pietre semipretioase](https://www.craftmystic.ro/products/set-9-planete-in-sistemul-solar-din-pietre-semipretioase-univers-stiinta-astrologie-meditatie): Set cutie lemn cu 9 sfere realizate din pietre semipretioase naturale, lustruite, in diferite culori si dimensiuni care imita aspectul planetelelor din...
-  Updated: 2026-07-21T14:59:07Z
+  Updated: 2026-07-24T07:47:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/kit-9-planete-in-sistemul-solar-din-pietre-semipretioase-univers-stiinta-astrologie-meditatie-167747.jpg?v=1780690012
   Price: 142,45 lei RON
 - [Set 3 statuete sculptate pentru meditatie Yoga | CraftMystic](https://www.craftmystic.ro/products/set-3-statuete-sculptate-pentru-meditatie-yoga-decor-feng-shui-ideale-pentru-o-stare-de-liniste-si-relaxare): Set 3 statuete sculptate pentru meditatie Yoga - Decor Feng Shui, ideale pentru o stare. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:07Z
+  Updated: 2026-07-24T07:45:32Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-3-statuete-sculptate-pentru-meditatie-yoga-decor-feng-shui-ideale-pentru-o-stare-de-liniste-si-relaxare-303307.jpg?v=1780690013
   Price: 102,00 lei RON
 - [Piramida Orgonica cu Turmalina neagra si simbolul | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cu-turmalina-neagra-si-simbolul-floarea-vietii-8-cm-pentru-meditatie-si-trezirea-spiritualitatii-si-a-abilitatilor-interioare): Piramida Orgonica cu Turmalina neagra si simbolul floarea vietii 8 cm – pentru meditatie. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:57Z
+  Updated: 2026-07-27T05:49:46Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-turmalina-neagra-si-simbolul-floarea-vietii-8-cm-pentru-meditatie-si-trezirea-spiritualitatii-si-a-abilitatilor-interioare-583354.jpg?v=1780690013
   Price: 179,00 lei RON
 - [Cristale Naturale si Pietre Naturale Vindecatoare | CraftMystic](https://www.craftmystic.ro/products/cristale-naturale-si-pietre-naturale-vindecatoare-chakra-set-complet-din-34-piese-pentru-meditatie-spiritualitate-selenit-lapis-citrine-ametist): Set bijuterii din ametist natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:07Z
+  Updated: 2026-07-28T05:36:18Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cristale-naturale-si-pietre-naturale-vindecatoare-chakra-set-complet-din-34-piese-pentru-meditatie-spiritualitate-selenit-lapis-citrine-ametist-287206.jpg?v=1780690013
   Price: 187,53 lei RON
 - [Set accesorii pentru meditatie spirituala | CraftMystic](https://www.craftmystic.ro/products/set-accesorii-pentru-meditatie-spirituala-cu-7-pietre-semipretioase-chakra-figurina-yoga-si-bratara-decor-feng-shui-ideal-pentru-o-stare-de-liniste-si-relaxare): Set accesorii pentru meditatie spirituala cu 7 pietre semipretioase chakra, figurina yoga. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:08Z
+  Updated: 2026-07-24T07:51:28Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-accesorii-pentru-meditatie-spirituala-cu-7-pietre-semipretioase-chakra-figurina-yoga-si-bratara-decor-feng-shui-ideal-pentru-o-stare-de-liniste-si-423696.jpg?v=1780690013
   Price: 240,00 lei RON
 - [Piramida Orgonica cu Citrin si simbolul floarea | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cu-citrin-si-simbolul-floarea-vietii-8-cm-pentru-intelepciune-bogatie-si-succes): Piramida Orgonica cu Citrin si simbolul floarea vietii 8 cm - pentru intelepciune, bogatie. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:57Z
+  Updated: 2026-07-28T17:00:29Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-citrin-si-simbolul-floarea-vietii-8-cm-pentru-intelepciune-bogatie-si-succes-603051_40c72fb5-d2fa-47cc-bbde-0ea5c36f1d7f.jpg?v=1780690014
   Price: 179,00 lei RON
 - [Set 21 Sticlute cu Mini Cristale si Pietre Naturale | CraftMystic](https://www.craftmystic.ro/products/set-21-sticlute-cu-mini-cristale-si-pietre-naturale-pentru-ritualuri-magice-si-meditatie): Set 21 Sticlute cu Mini Cristale si Pietre Naturale pentru Ritualuri Magice si Meditatie. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:08Z
+  Updated: 2026-07-28T06:15:11Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cristale-vindecatoare-pentru-vrajitorie-in-borcane-cu-vraji-21-set-de-mini-cristale-reale-chakre-si-pietre-11-8056.jpg?v=1780690013
   Price: 129,00 lei RON
 - [Tava cu suport pentru arzator de betisoare | CraftMystic](https://www.craftmystic.ro/products/tava-cu-suport-pentru-arzator-de-betisoare-parfumate-si-copacel-din-cristale-naturale-de-citrin-pentru-o-stare-de-liniste-si-relaxare): Tava cu suport pentru arzator de betisoare parfumate si copacel din cristale naturale. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T17:30:26Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/tava-cu-suport-pentru-arzator-de-betisoare-parfumate-si-copacel-din-cristale-naturale-de-citrin-pentru-o-stare-de-liniste-si-relaxare-438428.jpg?v=1780690014
   Price: 142,00 lei RON
 - [Piramida Orgonica cu cristale Labradorit | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cu-cristale-labradorit-si-simbolul-floarea-vietii-8-cm-pentru-dezvoltare-spirituala-si-emotionala): Piramida Orgonica cu cristale Labradorit si simbolul floarea vietii 8 cm – pentru dezvoltare. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:55Z
+  Updated: 2026-07-24T07:33:56Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-cristale-labradorit-si-simbolul-floarea-vietii-8-cm-pentru-dezvoltare-spirituala-si-emotionala-931190.jpg?v=1780690015
   Price: 149,00 lei RON
 - [Set 2 turnuri din cristale semipretiose | CraftMystic](https://www.craftmystic.ro/products/set-2-turnuri-din-cristale-semipretiose-vindecatoare-hexagonale-ochi-de-tigru-obelisc-cu-inaltimea-de-6-cm): Turn din ochi de tigru natural, 6 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:08Z
+  Updated: 2026-07-24T07:38:47Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-2-turnuri-din-cristale-semipretiose-vindecatoare-hexagonale-ochi-de-tigru-obelisc-cu-inaltimea-de-6-cm-617417.jpg?v=1780690015
   Price: 97,00 lei RON
 - [Panza de Perete sau Decor de perete cu sapte chakre | CraftMystic](https://www.craftmystic.ro/products/panza-de-perete-sau-decor-de-perete-cu-sapte-chakre-pentru-yoga-spiritualitate-si-meditatie): Panza de Perete sau Decor de perete cu sapte chakre pentru yoga, spiritualitate si meditatie. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:08Z
+  Updated: 2026-07-24T07:57:16Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/ornament-perete-tip-covor-cu-sapte-chakre-pentru-yoga-spiritualitate-si-meditatie-845285.jpg?v=1780690015
   Price: 88,00 lei RON
 - [Piramida Orgonica cu cristale Lapis Lazuli | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cu-cristale-lapis-lazuli-si-simbolul-floarea-vietii-8-cm-pentru-intelepciune-armonie-onestitate-si-constientizare-de-sine): Piramida Orgonica cu cristale Lapis Lazuli si simbolul floarea vietii 8 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:56Z
+  Updated: 2026-07-24T07:42:45Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-cristale-lapis-lazuli-si-simbolul-floarea-vietii-8-cm-pentru-intelepciune-armonie-onestitate-si-constientizare-de-sine-508296.jpg?v=1780690015
   Price: 149,00 lei RON
 - [Set 2 Panze cu design unic pentru altar magic | CraftMystic](https://www.craftmystic.ro/products/set-2-panze-cu-design-unic-pentru-altar-magic-decor-perete): Set 2 Panze cu design unic pentru altar magic - Decor perete. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:08Z
+  Updated: 2026-07-24T07:46:06Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-8-pietre-semipretioase-chakra-in-cutie-de-lemn-cristale-reiki-de-vindecare-din-piatre-naturale-brute-pentru-meditatie-echilibrarea-chakrelor-sau-r-927312.jpg?v=1780690016
   Price: 59,00 lei RON
 - [Bratara 7 chakra cu margele din pietre | CraftMystic](https://www.craftmystic.ro/products/bratara-7-chakra-cu-margele-din-pietre-semipretioase-si-pandantiv-inima-10mm): Brățară din agat natural, 10 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T15:00:27Z
+  Updated: 2026-07-28T06:12:56Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-7-chakra-cu-margele-din-pietre-semipretioase-si-pandantiv-inima-10mm-035200.jpg?v=1780690016
   Price: 37,00 lei RON
 - [Turn de cristal semipretios vindecator hexagonal | CraftMystic](https://www.craftmystic.ro/products/turn-de-cristal-semipretios-vindecator-hexagonal-obsidian-obelisc-cu-inaltimea-intre-7-8-cm): Turn din obsidian natural, 7-8 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:56Z
+  Updated: 2026-07-24T07:57:32Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-de-cristal-vindecator-obsidian-7-8-cm-637766.jpg?v=1780690015
   Price: 67,00 lei RON
 - [Set 12 lumanari colorate fara miros, lungime de 100 | CraftMystic](https://www.craftmystic.ro/products/set-12-lumanari-colorate-fara-miros-lungime-de-100-mm-pentru-ritualuri-aniversari-torturi): Set 12 lumanari colorate fara miros, lungime de 100 mm, pentru ritualuri, aniversari. torturi. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:09Z
+  Updated: 2026-07-24T07:38:17Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-36-lumanari-pentru-ritualuri-si-6-suporturi-negre-din-ceramica-copie-541454.png?v=1780690016
   Price: 52,00 lei RON
 - [Piramida Orgonica cu Piatra lunii curcubeu | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cu-piatra-lunii-curcubeu-si-simbolul-floarea-vietii-8-cm-incurajeaza-speranta-sensibilitatea-intuitia-si-abilitatile-psihice): Piramida Orgonica cu Piatra lunii curcubeu si simbolul floarea vietii 8 cm - incurajeaza. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:00Z
+  Updated: 2026-07-24T07:49:46Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-piatra-lunii-curcubeu-si-simbolul-floarea-vietii-8-cm-incurajeaza-speranta-sensibilitatea-intuitia-si-abilitatile-psihice-370532.jpg?v=1780690017
   Price: 149,00 lei RON
 - [Set 60 de sticlute cu dop de pluta - Sticle | CraftMystic](https://www.craftmystic.ro/products/set-60-de-sticlute-cu-dop-de-pluta-sticle-miniatura-cu-capace-si-accesorii-mini-borcane-din-sticla-transparenta-mini-sticlute-decorative-pentru-nunti-botezuri-potiuni-proiecte-craft-diy): Set 60 de sticlute cu dop de pluta - Sticle miniatura cu capace si accesorii - Mini borcane. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:09Z
+  Updated: 2026-07-24T07:44:32Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-21-sticlute-cu-mini-cristale-si-pietre-naturale-pentru-ritualuri-magice-si-meditatie-copie-647222.jpg?v=1780690016
   Price: 159,00 lei RON
 - [Set de 6 bucati suport ceramica pentru lumanari | CraftMystic](https://www.craftmystic.ro/products/set-de-6-bucati-suport-ceramica-pentru-lumanari-utilizate-pentru-ritualuri-magice-proiecte-diy-consumabile-wiccan-si-multe-altele): Set de 6 bucati suport ceramica pentru lumanari utilizate pentru ritualuri magice, proiecte. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:09Z
+  Updated: 2026-07-24T07:30:36Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-12-lumanari-colorate-fara-miros-lungime-de-100-mm-pentru-ritualuri-aniversari-torturi-copie-824749.png?v=1780690017
   Price: 42,00 lei RON
 - [Piramida orgonica cuart roz si simbolul floarea | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cuart-roz-si-simbolul-floarea-vietii-8-cm-incurajeaza-speranta-sensibilitatea-intuitia-si-abilitatile-psihice): Piramida orgonica cuart roz si simbolul floarea vietii 8 cm - incurajeaza speranta. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:00Z
+  Updated: 2026-07-24T07:31:43Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cuart-roz-si-simbolul-floarea-vietii-8-cm-incurajeaza-speranta-sensibilitatea-intuitia-si-abilitatile-psihice-834737.jpg?v=1780690017
   Price: 149,00 lei RON
 - [Bratara dubla 7 chakra cu pietre semipretioase de 6 mm](https://www.craftmystic.ro/products/bratara-dubla-7-chakra-cu-pietre-semipretioase-naturale-cu-pigment-de-culoare-de-6-mm-bratara-pentru-meditatie): Bratara 7 chakra cu margele semipretioase, autentica, naturala, este realizata manual din: ametist, sodalit, turcoaz jad verde,ochi de tigru, aventurin...
-  Updated: 2026-07-21T14:59:10Z
+  Updated: 2026-07-28T06:30:27Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-dubla-7-chakra-cu-pietre-semipretioase-de-8-mm-bratara-pentru-meditatie-653320.jpg?v=1780690017
   Price: 70,00 lei RON
 - [Piramida Orgonica cu 7 chakre](https://www.craftmystic.ro/products/piramida-orgonica-cu-7-chakre-generator-de-energie-pozitiva-meditatie-si-echilibru-spiritual): Piramida Orgonica este realizata din pietre 7 chakre: ametist, lapis lazuli, aventurina albastra, aventurina verde, aventurina galbena, carneol si jasp...
-  Updated: 2026-07-21T14:59:10Z
+  Updated: 2026-07-28T19:30:36Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/ornament-de-agatat-tematica-pietre-chakra-contine-arborele-vietii-lucrat-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-a-celor-7-chakre-copi-815402.png?v=1780690020
   Price: 105,00 lei RON
 - [Piramida orgonica cu selenit si simbolul floarea | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cu-selenit-si-simbolul-floarea-vietii-8-cm-pentru-curatarea-energiei-negative-pace-calm-si-energie-pozitiva): Piramida orgonica cu selenit si simbolul floarea vietii 8 cm - pentru curatarea energiei. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:59Z
+  Updated: 2026-07-24T07:39:47Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-selenit-si-simbolul-floarea-vietii-8-cm-pentru-curatarea-energiei-negative-pace-calm-si-energie-pozitiva-444204.jpg?v=1780690018
   Price: 149,00 lei RON
 - [Set 2 pietre 6-7 cm semipretioase de Agat rosu | CraftMystic](https://www.craftmystic.ro/products/set-2-pietre-6-7-cm-semipretioase-de-agat-rosu-natural-slefuit-pentru-regasirea-echilibrului): Set 2 pietre 6-7 cm semipretioase de Agat rosu natural slefuit - Pentru regasirea echilibrului. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:10Z
+  Updated: 2026-07-24T07:34:24Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piatra-semipretioasa-de-agat-rosu-pentru-regasirea-echilibrului-668018.jpg?v=1780690018
   Price: 127,00 lei RON
 - [Set 2 Bratari elastice cu pietre semipretioase ochi | CraftMystic](https://www.craftmystic.ro/products/set-2-bratari-elastice-cu-pietre-semipretioase-ochi-de-tigru-de-8-mm-bratara-pentru-meditatie-yoga-reiki): Brățară din ochi de tigru natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:10Z
+  Updated: 2026-07-28T06:12:56Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-2-bratari-elastice-cu-pietre-semipretioase-ochi-de-tigru-de-8-mm-bratara-pentru-meditatie-yoga-reiki-923426.jpg?v=1780690018
   Price: 70,00 lei RON
 - [Set 9 sfere din cristale naturale sempretioase | CraftMystic](https://www.craftmystic.ro/products/set-9-sfere-din-cristale-naturale-sempretioase-in-cutie-cadou-pentru-decor-feng-shui-meditatie-astrologie): Set 9 sfere din cristale naturale sempretioase in cutie cadou - Pentru decor feng shui. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:11Z
+  Updated: 2026-07-24T07:34:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-9-sfere-din-cristale-naturale-pentru-decor-feng-shui-meditatie-astrologie-019177.jpg?v=1780690019
   Price: 399,00 lei RON
 - [Piramida cristal negru obsidian din piatra | CraftMystic](https://www.craftmystic.ro/products/piramida-cristal-negru-obsidian-din-piatra-semipretioasa-naturala-4-cm-pentru-protectie-integritate-si-energie-pozitiva): Piramida cristal negru obsidian din piatra semipretioasa naturala 4 cm – pentru protectie. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:47:36Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-cristal-negru-obsidian-din-piatra-semipretioasa-naturala-4-cm-pentru-protectie-integritate-si-energie-pozitiva-792063.jpg?v=1780690019
   Price: 79,00 lei RON
 - [Set 8 suporturi pentru pahare tematica boho mandala | CraftMystic](https://www.craftmystic.ro/products/set-8-suporturi-pentru-pahare-tematica-boho-mandala-si-organizator-material-ceramica-absorbanta-cu-baza-din-pluta-antiaderenta): Set 8 suporturi pentru pahare tematica boho mandala si organizator, material ceramica. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:11Z
+  Updated: 2026-07-24T07:40:26Z
   Vendor: Decopom
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-60-de-sticlute-cu-dop-de-pluta-sticle-miniatura-cu-capace-si-accesorii-mini-borcane-din-sticla-transparenta-mini-sticlute-decorative-pentru-nunti-263093.jpg?v=1780690019
   Price: 122,00 lei RON
 - [Mini Set 36 de cristale si pietre semipretioase de colectie](https://www.craftmystic.ro/products/mini-set-36-de-cristale-si-pietre-semipretioase-de-colectie-din-intreaga-lume-cadou-educational-pentru-copii-geologie-pietre-minerale): Mini Setul in forma de triunghi continue 36 de cristale si pietre semipretioase de diferite tipuri si culori, cum ar fi: cuart, agat, obsidian...
-  Updated: 2026-07-21T15:30:33Z
+  Updated: 2026-07-24T07:32:53Z
   Vendor: CraftMystic
   Product Type: Pachete & Seturi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-36-de-cristale-si-pietre-semipretioase-de-colectie-cadou-educational-pentru-copii-geologie-pietre-minerale-135886.jpg?v=1780690020
   Price: 55,00 lei RON
 - [Colier cu cristal vindecator Ochi de Tigru | CraftMystic](https://www.craftmystic.ro/products/colier-cu-cristal-vindecator-ochi-de-tigru-in-forma-hexagonala-cu-dublu-varf-pentru-protectie-vointa-si-noroc): Colier din ochi de tigru natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T23:15:12Z
+  Updated: 2026-07-24T07:32:46Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-cristal-vindicator-ochi-de-tigru-in-forma-hexagonala-cu-dublu-varf-pentru-protectie-vointa-si-noroc-439721.jpg?v=1780690020
   Price: 52,00 lei RON
 - [Ornament de agatat tematica pietre chakra - Contine | CraftMystic](https://www.craftmystic.ro/products/ornament-de-agatat-tematica-pietre-chakra-contine-arborele-vietii-lucrat-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-a-celor-7-chakre): Ornament de agatat tematica pietre chakra - Contine arborele vietii lucrat manual cu pietre. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:11Z
+  Updated: 2026-07-24T07:40:27Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-21-sticlute-cu-mini-cristale-si-pietre-naturale-pentru-ritualuri-magice-si-meditatie-copie-530504.png?v=1780690020
   Price: 119,00 lei RON
 - [Bratara elastica cu pietre semipretioase zebra | CraftMystic](https://www.craftmystic.ro/products/bratara-elastica-cu-pietre-semipretioase-zebra-stone-roz-de-10-si-5-mm-cu-margele-aurii-si-strasuri): Brățară din jasp zebra natural, 5 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:56Z
+  Updated: 2026-07-24T07:37:42Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-elastica-cu-pietre-semipretioase-zebra-stone-roz-de-10-si-5-mm-cu-margele-aurii-si-strasuri-121085.jpg?v=1780690020
   Price: 70,00 lei RON
 - [Ornament de agatat Suncatcher sub forma de semiluna | CraftMystic](https://www.craftmystic.ro/products/ornament-de-agatat-suncatcher-sub-forma-de-semiluna-cu-cristal-ametist-decoratiune-feng-shui-pentru-casa-masina-si-birou): Ornament de agatat Suncatcher sub forma de semiluna cu cristal Ametist decoratiune feng shui. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:12Z
+  Updated: 2026-07-24T07:49:37Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/ornament-de-agatat-suncatcher-sub-forma-de-semiluna-cu-cristal-ametist-decoratiune-feng-shui-pentru-casa-masina-si-birou-033351.jpg?v=1780690020
   Price: 119,00 lei RON
 - [Colier cu cristal Turmalina Neagra- o piatra semipretioasa](https://www.craftmystic.ro/products/colier-cu-cristal-turmalina-neagra-o-piatra-semipretioasa-excelenta-pentru-meditatie-trezirea-spiritualitatii-si-a-abilitatilor-interioare-care-creste-si-pozitivitatea-mentala): Colierul este realizat cu pandantiv din cristal natural Turmalina Neagra si o franghie neagra tesuta manual; Turmalina neagra este autentica si unica...
-  Updated: 2026-07-21T14:59:12Z
+  Updated: 2026-07-28T16:30:24Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-cristal-turmalina-neagra-o-piatra-semipretioasa-excelenta-pentru-meditatie-trezirea-spiritualitatii-si-a-abilitatilor-interioare-care-creste-972866.jpg?v=1780690020
   Price: 42,00 lei RON
 - [Set coliere ce contine 7 cristale naturale chakre | CraftMystic](https://www.craftmystic.ro/products/set-coliere-ce-contine-7-cristale-naturale-chakre-si-doua-lanturi-de-franghie-reglabile-realizate-manual-de-diferite-dimensiuni-un-cadou-ideal-pentru-femei-barbati-si-copii): Brățară din ametist natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:12Z
+  Updated: 2026-07-24T07:50:32Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/ornament-de-agatat-tematica-pietre-chakra-contine-arborele-vietii-lucrat-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-a-celor-7-chakre-copi-096083.png?v=1780690021
   Price: 108,00 lei RON
 - [Bratara cu cristale naturale de citrin](https://www.craftmystic.ro/products/bratara-cu-cristale-naturale-de-citrin-pirita-si-verde-aventurin-de-8-mm-bratara-feng-shui-pentru-meditatie-noroc-prosperitate): Bratara este realizata manual cu pietre pretioase naturale de citrin, aventurina verde, pirita si distantiere.
-  Updated: 2026-07-21T21:00:22Z
+  Updated: 2026-07-28T17:30:21Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-cu-cristale-naturale-de-citrin-pirita-si-verde-aventurin-de-8-mm-bratara-feng-shui-pentru-meditatie-noroc-prosperitate-380290.jpg?v=1780690021
   Price: 70,00 lei RON
 - [Set doua sfori reglabile, una neagra si una maro](https://www.craftmystic.ro/products/set-doua-sfori-reglabile-una-neagra-si-una-maro-ideale-pentru-realizarea-colierelor-cu-pietre-naturale-sau-bijuterii-de-artizanat): Acest set vine cu doua lanturi de franghie reglabile, realizate manual, care se potrivesc perfect cu orice piatra naturala.
-  Updated: 2026-07-21T14:59:12Z
+  Updated: 2026-07-24T07:36:06Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-doua-sfori-reglabile-una-neagra-si-una-maro-ideale-pentru-realizarea-colierelor-cu-pietre-naturale-sau-bijuterii-de-artizanat-182167.jpg?v=1780690021
   Price: 42,00 lei RON
 - [Bratara zen cu cristale semipretioase din ametist | CraftMystic](https://www.craftmystic.ro/products/bratara-zen-cu-cristale-semipretioase-din-ametist-8-mm-si-pandantiv-argintiu-gravat-cu-buddha-feng-shui-pentru-meditatie-liniste-echilibru): Brățară din ametist natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T14:30:21Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-zen-cu-cristale-semipretioase-din-ametist-8-mm-si-pandantiv-argintiu-gravat-cu-buddha-bratara-feng-shui-pentru-meditatie-liniste-echilibru-618302.jpg?v=1780690021
   Price: 60,00 lei RON
 - [Set 8 pietre semipretioase chakra in cutie de lemn](https://www.craftmystic.ro/products/set-8-pietre-semipretioase-chakra-in-cutie-de-lemn-cristale-reiki-de-vindecare-din-piatre-naturale-brute-pentru-meditatie-echilibrarea-chakrelor-sau-ritualuri-magice): Setul este format din 8 pietre naturale: ochi de tigru, obsidian, cristal roz, lapis lazuli, jasp rosu, cristal transparent, ametist si jad verde...
-  Updated: 2026-07-21T14:59:14Z
+  Updated: 2026-07-28T17:45:26Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-coliere-ce-contine-7-cristale-naturale-chakre-si-doua-lanturi-de-franghie-reglabile-realizate-manual-de-diferite-dimensiuni-un-cadou-ideal-pentru-729514.jpg?v=1780690022
   Price: 105,00 lei RON
 - [Colier cu cristal Labradorit in forma de inima | CraftMystic](https://www.craftmystic.ro/products/colier-cu-cristal-labradorit-in-forma-de-inima-o-piatra-semipretioasa-pentru-meditatie-intuitie-imaginatie): Colier din labradorit natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:56Z
+  Updated: 2026-07-24T07:44:55Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-cristal-labradorit-in-forma-de-inima-o-piatra-semipretioasa-pentru-meditatie-intuitie-imaginatie-407272.jpg?v=1780690022
   Price: 42,00 lei RON
 - [Colier cu pandantiv model semiluna si arborele vietii](https://www.craftmystic.ro/products/colier-cu-pandantiv-model-semiluna-si-arborele-vietii-realizat-din-piatra-de-cristal-polisat-cu-7-chakre-si-rasina-naturala): Colierul cu pandantiv din piatra de cristal cu 7 chakre este realizat din piatra de cristal zdrobita si rasina naturala.
-  Updated: 2026-07-21T14:59:14Z
+  Updated: 2026-07-24T07:57:56Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-model-semiluna-si-arborele-vietii-realizat-din-piatra-de-cristal-polisat-cu-7-chakre-si-rasina-naturala-621125.jpg?v=1780690023
   Price: 92,00 lei RON
 - [Set Premium cristale si pietre naturale | CraftMystic](https://www.craftmystic.ro/products/set-premium-cristale-si-pietre-naturale-vindecatoare-in-cutie-de-lemn-11-piese-pentru-meditatie-spiritualitate-echilibrarea-chakrelor-cluster-de-ametist-pendul-chakra-cuart-roz-cristal-de-sta): Pendul din jasp roșu natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:14Z
+  Updated: 2026-07-24T07:32:26Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cristale-naturale-si-pietre-naturale-vindecatoare-chakra-set-complet-din-34-piese-pentru-meditatie-spiritualitate-selenit-lapis-citrine-ametist-copie-550260.jpg?v=1780690023
   Price: 249,00 lei RON
 - [Bratara cu tripla protectie din obsidian negru](https://www.craftmystic.ro/products/bratara-cu-tripla-protectie-din-obsidian-negru-ochi-de-tigru-si-hematit-10-mm-bratara-feng-shui-pentru-protectie-noroc-si-prosperitate): Bratara cu tripla protectie este realizata din cristale vindecatoare obsidian negru, ochi de tigru si hematit, este o bratara feng shui pentru...
-  Updated: 2026-07-21T19:15:25Z
+  Updated: 2026-07-28T22:15:46Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-cu-tripla-protectie-din-obsidian-negru-ochi-de-tigru-si-hematit-10-mm-bratara-feng-shui-pentru-protectie-noroc-si-prosperitate-025381.png?v=1780690023
   Price: 43,00 lei RON
 - [Colier cu cristal Labradorit in forma ovala](https://www.craftmystic.ro/products/colier-cu-cristal-labradorit-in-forma-ovala-infasurat-intr-o-plasa-de-franghie-neagra-o-piatra-semipretioasa-pentru-meditatie-intuitie-imaginatie): Colierul este realizat cu pandantiv din cristal natural Labradorit in forma ovala, infasurat intr-o plasa de franghie neagra tesuta manual...
-  Updated: 2026-07-21T23:15:25Z
+  Updated: 2026-07-24T07:38:37Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-cristal-labradorit-in-forma-ovala-infasurat-intr-o-plasa-de-franghie-neagra-o-piatra-semipretioasa-pentru-meditatie-intuitie-imaginatie-143067.jpg?v=1780690023
   Price: 54,90 lei RON
 - [Colier cu pandantiv model semiluna cu arborele | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-model-semiluna-cu-arborele-vietii-realizat-din-piatra-de-cristal-transparent-si-rasina-naturala): Colier din cuarț natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:59Z
+  Updated: 2026-07-27T16:45:27Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-model-semiluna-cu-arborele-vietii-realizat-din-piatra-de-cristal-transparent-si-rasina-naturala-036863.jpg?v=1780690024
   Price: 62,00 lei RON
 - [Arborele vietii 13-14 cm din pietre semipretioase polisate](https://www.craftmystic.ro/products/arborele-vietii-13-14-cm-din-pietre-semipretioase-polisate-de-cuart-roz-si-baza-de-piatra-naturala-de-aventurin-verde-copacel-de-cristal-pentru-energie-pozitiva-atrage-norocul-decor-feng-shui-cad): Copacelul vietii cu cuart roz si aventurin verde: Descopera un obiect de decor spiritual plin de armonie si echilibru.
-  Updated: 2026-07-21T14:59:15Z
+  Updated: 2026-07-24T07:45:58Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/agrafa-de-par-cu-pietre-semipretioase-naturale-aventurin-in-forma-de-semiluna-accesoriu-decorativ-pentru-par-415902.jpg?v=1780690024
   Price: 167,00 lei RON
 - [Colier cu cristal vindecator Obsidian Negru](https://www.craftmystic.ro/products/colier-cu-cristal-vindecator-obsidian-negru-in-forma-hexagonala-cu-dublu-varf-si-franghie-neagra-ajustabila-pentru-protectie-stabilitate-si-armonie): Colierul este realizat dintr-o franghie neagra ajustabila cu pandantiv din cristal natural Obsidian Negru in forma hexagonala cu dublu varf.
-  Updated: 2026-07-16T13:15:25Z
+  Updated: 2026-07-28T17:45:20Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-cristal-vindecator-obsidian-negru-in-forma-hexagonala-cu-dublu-varf-si-franghie-neagra-ajustabila-pentru-protectie-stabilitate-si-armonie-879878.jpg?v=1780690024
   Price: 52,00 lei RON
 - [Colier cu pandantiv model semiluna si arborele | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-model-semiluna-si-arborele-vietii-cu-cristal-ametist-si-rasina-naturala): Colier din ametist natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:58Z
+  Updated: 2026-07-24T07:44:15Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-model-semiluna-si-arborele-vietii-cu-cristal-ametist-si-rasina-naturala-825722.jpg?v=1780690024
   Price: 70,00 lei RON
 - [Bratara din obsidian negru si ochi natural de agat | CraftMystic](https://www.craftmystic.ro/products/bratara-din-obsidian-negru-si-ochi-natural-de-agat-bratara-feng-shui-pentru-protectie-si-noroc): Brățară din agat natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:15Z
+  Updated: 2026-07-28T07:25:55Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-din-obsidian-negru-si-ochi-natural-de-agat-bratara-feng-shui-pentru-protectie-si-noroc-860522.jpg?v=1780690025
   Price: 62,00 lei RON
 - [Arborele vietii 13-14 cm din pietre semipretioase polisate](https://www.craftmystic.ro/products/arborele-vietii-13-14-cm-din-pietre-semipretioase-polisate-de-cuart-roz-si-baza-de-piatra-naturala-de-cuart-transparent-copacel-de-cristal-pentru-energie-pozitiva-atrage-norocul-decor-feng-shui-c): Arborele vietii din Cuart Roz si Cuart Transparent: Acest copacel, realizat manual din pietre semipretioase de cuart roz si cu o baza solida din cuart...
-  Updated: 2026-07-06T18:14:01Z
+  Updated: 2026-07-24T07:36:09Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/arborele-vietii-13-14-cm-din-pietre-semipretioase-polisate-de-cuart-roz-si-baza-de-piatra-naturala-de-cuart-transparent-copacel-de-cristal-pentru-ener-677631.jpg?v=1780690024
   Price: 167,00 lei RON
 - [Colier cu cristal vindecator Obsidian Negru | CraftMystic](https://www.craftmystic.ro/products/colier-cu-cristal-vindecator-obsidian-negru-in-forma-hexagonala-dublu-varf-infasurat-intr-o-plasa-de-franghie-neagra-ajustabila-pentru-protectie-stabilitate-si-armonie): Colier din obsidian natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T23:15:27Z
+  Updated: 2026-07-24T13:15:59Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-cristal-vindecator-obsidian-negru-in-forma-hexagonala-infasurat-intr-o-plasa-de-franghie-neagra-ajustabila-pentru-protectie-stabilitate-si-a-881035.jpg?v=1780690024
   Price: 60,00 lei RON
 - [Set 2 bratari reglabile din piatra naturala ochi | CraftMystic](https://www.craftmystic.ro/products/set-2-bratari-reglabile-din-piatra-naturala-ochi-de-tigru-si-piatra-de-lava-neagra-8mm-bratara-vindecatoare-aromaterapie-difuzor-de-uleiuri-esentiale): Brățară din ochi de tigru natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:15Z
+  Updated: 2026-07-28T16:00:17Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-2-bratari-reglabile-din-piatra-naturala-ochi-de-tigru-si-piatra-de-lava-neagra-8mm-bratara-vindecatoare-aromaterapie-difuzor-de-uleiuri-esentiale-720272.jpg?v=1780690025
   Price: 68,00 lei RON
 - [Copacel 13-14 cm din pietre semipretioase polisate | CraftMystic](https://www.craftmystic.ro/products/copacel-13-14-cm-din-pietre-semipretioase-polisate-de-ametist-si-baza-de-piatra-naturala-de-cuart-roz-arbore-din-cristale-semipretioase-pentru-energie-pozitiva-cadou-spiritual): Copacel 13-14 cm din pietre semipretioase polisate de ametist si baza de piatra naturala. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:15Z
+  Updated: 2026-07-24T07:54:46Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/agrafa-de-par-cu-pietre-semipretioase-naturale-ochi-de-tigru-in-forma-de-semiluna-accesoriu-decorativ-pentru-par-922689.jpg?v=1780690026
   Price: 167,00 lei RON
 - [Bratara elastica cu pietre semipretioase ochi | CraftMystic](https://www.craftmystic.ro/products/bratara-elastica-cu-pietre-semipretioase-ochi-de-tigru-de-8-mm-bratara-pentru-meditatie): Brățară din ochi de tigru natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:00Z
+  Updated: 2026-07-28T16:30:21Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-elastica-cu-pietre-semipretioase-ochi-de-tigru-de-8-mm-bratara-pentru-meditatie-196203.jpg?v=1780690026
   Price: 60,00 lei RON
 - [Copacel 13-14 cm din pietre semipretioase polisate | CraftMystic](https://www.craftmystic.ro/products/copacel-13-14-cm-din-pietre-semipretioase-polisate-de-ametist-si-baza-de-piatra-naturala-de-aventurin-verde-arbore-din-cristale-semipretioase-pentru-energie-pozitiva-cadou-spiritual): Copacel 13-14 cm din pietre semipretioase polisate de ametist si baza de piatra naturala. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:15Z
+  Updated: 2026-07-24T07:51:27Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/agrafa-de-par-cu-pietre-semipretioase-naturale-lapis-lazuli-in-forma-de-semiluna-accesoriu-decorativ-pentru-par-066919.jpg?v=1780690026
   Price: 125,25 lei RON
 - [Bratara energetica cu tripla protectie, realizata | CraftMystic](https://www.craftmystic.ro/products/bratara-energetica-cu-tripla-protectie-realizata-din-pietre-semipretioase-hematit-ochi-de-tigru-galben-si-ochi-de-tigru-albastru-de-8-mm-bratara-pentru-energie-protectie-meditatie): Brățară din hematit natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T15:00:34Z
+  Updated: 2026-07-24T07:52:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-energetica-cu-tripla-protectie-realizata-din-pietre-semipretioase-obsidian-negru-ochi-de-tigru-galben-si-ochi-de-tigru-albastru-de-8-mm-bratar-448467.jpg?v=1780690027
   Price: 82,00 lei RON
 - [Colier cu pandantiv hexagonal din cristal ochi | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-hexagonal-din-cristal-ochi-de-tigru-o-piatra-semipretioasa-care-reprezinta-protectie-si-ajuta-la-vindecarea-energiei-spirituale): Colier din ochi de tigru natural, inox (oțel inoxidabil). Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:50:56Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-hexagonal-din-cristal-ochi-de-tigru-o-piatra-semipretioasa-care-reprezinta-protectie-si-ajuta-la-vindecarea-energiei-spirituale-638802.jpg?v=1780690027
   Price: 42,00 lei RON
 - [Copacel 13-14 cm din pietre semipretioase polisate | CraftMystic](https://www.craftmystic.ro/products/copacel-13-14-cm-din-pietre-semipretioase-polisate-de-ametist-si-baza-de-piatra-naturala-de-cuart-transparent-arbore-din-cristale-semipretioase-pentru-energie-pozitiva-atrage-norocul-decor-feng-sh): Copacel 13-14 cm din pietre semipretioase polisate de ametist si baza de piatra naturala. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:16Z
+  Updated: 2026-07-25T19:45:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/agrafa-de-par-cu-pietre-semipretioase-naturale-citrin-in-forma-de-semiluna-accesoriu-decorativ-pentru-par-424464.jpg?v=1780690027
   Price: 167,00 lei RON
 - [Set Cristale premium si pietre semipretioase | CraftMystic](https://www.craftmystic.ro/products/set-cristale-premium-si-pietre-semipretioase-vindecatoare-in-cutie-de-lemn-maro-contine-19-piese-turn-selenit-pietre-chakre-cristale-brute-cluster-de-ametist-varf-de-cristal-transparent-cuart): Set Cristale premium si pietre semipretioase vindecatoare in cutie de lemn maro - Contine 19. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:16Z
+  Updated: 2026-07-24T07:57:31Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-premium-18-piese-cristale-si-pietre-naturale-vindecatoare-chakra-in-cutie-de-lemn-ideal-pentru-meditatie-spiritualitate-echilibrarea-chakrelor-inc-702488.jpg?v=1780690028
   Price: 279,00 lei RON
 - [Bratara reglabila cu tripla protectie din obsidian | CraftMystic](https://www.craftmystic.ro/products/bratara-reglabila-cu-tripla-protectie-din-obsidian-negru-ochi-de-tigru-si-hematit-10-mm-bratara-feng-shui-pentru-protectie-noroc-si-prosperitate): Bratara reglabila cu tripla protectie din obsidian negru, ochi de tigru si hematit 10 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T19:45:25Z
+  Updated: 2026-07-28T13:30:34Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-reglabila-cu-tripla-protectie-din-obsidian-negru-ochi-de-tigru-si-hematit-10-mm-bratara-feng-shui-pentru-protectie-noroc-si-prosperitate-214702.jpg?v=1780690028
   Price: 48,00 lei RON
 - [Arborele vietii 13-14 cm din pietre semipretioase polisate](https://www.craftmystic.ro/products/arborele-vietii-13-14-cm-din-pietre-semipretioase-polisate-de-cuart-roz-si-baza-de-piatra-naturala-de-cuart-roz-copacel-de-cristal-pentru-energie-pozitiva-atrage-norocul-decor-feng-shui-cadou-spi): Arborele vietii din Cuart Roz: Splendid si incarcat de energie pozitiva, acest arbore al vietii este alcatuit din pietre semipretioase de cuart roz...
-  Updated: 2026-07-06T18:14:20Z
+  Updated: 2026-07-24T07:51:53Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/agrafa-de-par-cu-pietre-semipretioase-naturale-cuart-transparent-in-forma-de-semiluna-accesoriu-decorativ-pentru-par-228383.jpg?v=1780690028
   Price: 167,00 lei RON
 - [Colier hexagrama realizat din obsidian negru natural](https://www.craftmystic.ro/products/colier-hexagrama-realizat-din-obsidian-negru-natural-cristal-care-protejeaza-de-afectarea-cu-energii-negative): Colierul este realizat dintr-un snur negru reglabil cu pandantiv hexagrama din cristal natural negru obsidian; Obsidianul este extrem de puternic si...
-  Updated: 2026-07-21T22:00:26Z
+  Updated: 2026-07-28T10:30:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-hexagrama-realizat-din-obsidian-negru-natural-cristal-care-protejeaza-de-afectarea-cu-energii-negative-838317.jpg?v=1780690028
   Price: 47,84 lei RON
 - [Craniu 5 cm sculptat manual din cristal de Ochi | CraftMystic](https://www.craftmystic.ro/products/craniu-5-cm-sculptat-manual-din-cristal-de-ochi-de-tigru-piatra-semipretioasa-vindecatoare-figurina-artistica-pentru-decor-de-halloween-decoraratiune-pentru-biroul-de-acasa): Craniu 5 cm sculptat manual din cristal de Ochi de tigru piatra semipretioasa vindecatoare. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T19:30:26Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/craniu-din-cristal-natural-ochi-de-tigru-decoratiune-684053.jpg?v=1780690029
   Price: 149,00 lei RON
 - [Set 3 Bratari Inedite cu Arborele Vietii si piele | CraftMystic](https://www.craftmystic.ro/products/set-3-bratari-inedite-cu-arborele-vietii-si-piele-sintetica-stil-si-protectie-pentru-orice-ocazie): Set 3 Bratari Inedite cu Arborele Vietii si piele sintetica - Stil si Protectie pentru Orice. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:17Z
+  Updated: 2026-07-28T12:15:15Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-piele-in-doua-culori-una-neagra-si-una-maro-cu-margele-negre-din-lemn-si-aplicatii-metalice-cu-arborele-vietii-pentru-femei-barbati-si-copii-006699.jpg?v=1780690029
   Price: 42,00 lei RON
 - [Pendul cu varf hexagonal din piatra naturala semipretioasa](https://www.craftmystic.ro/products/pendul-cu-varf-hexagonal-din-piatra-naturala-semipretioasa-ochi-de-tigru): Pendulele sunt, de obicei, cristale sau pietre semipretioase plasate la capatul unor franghii, lanturi, balansandu-se inainte si inapoi sub actiunea...
-  Updated: 2026-07-06T18:14:26Z
+  Updated: 2026-07-24T07:31:47Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/pendul-cu-varf-hexagonal-din-piatra-naturala-semipretioasa-ochi-de-tigru-054488.jpg?v=1780690029
   Price: 49,00 lei RON
 - [Colier 7 chakra cu Cristal de Stanca, infasurat | CraftMystic](https://www.craftmystic.ro/products/colier-7-chakra-cu-cristal-de-stanca-infasurat-intr-o-sarma-de-cupru-cu-pietre-semipretioase-sparte-sub-forma-unui-copac-al-vietii): Colier din cristal de stâncă natural, cupru. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:17Z
+  Updated: 2026-07-24T07:37:18Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-7-chakra-cu-cristal-de-stanca-infasurat-intr-o-sarma-de-cupru-cu-pietre-semipretioase-prabusite-sub-forma-unui-copac-al-vietii-407202.jpg?v=1780690030
   Price: 92,00 lei RON
 - [Set Bol Tibetan cantator prelucrat manual | CraftMystic](https://www.craftmystic.ro/products/set-bol-tibetan-cantator-prelucrat-manual-la-poalele-muntelui-himalaya-un-percutor-cu-doua-capete-din-lemn-si-piele-si-o-perna-cusuta-manual-ideal-pentru-energizare-purificare-si-meditatie): Set Bol Tibetan cantator prelucrat manual la poalele muntelui Himalaya - un percutor cu doua. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:17Z
+  Updated: 2026-07-24T12:30:26Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-bol-tibetan-cantator-prelucrat-manual-la-poalele-muntelui-himalaya-un-percutor-cu-doua-capete-din-lemn-si-piele-si-o-perna-cusuta-manual-ideal-pen-743246.jpg?v=1780690030
   Price: 199,00 lei RON
 - [Craniu 5 cm sculptat manual din cristal de Ametist | CraftMystic](https://www.craftmystic.ro/products/craniu-5-cm-sculptat-manual-din-cristal-de-ametist-piatra-semipretioasa-vindecatoare-figurina-artistica-pentru-decor-de-halloween-decoratiune-pentru-biroul-de-acasa): Craniu 5 cm sculptat manual din cristal de Ametist piatra semipretioasa vindecatoare Figurina. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:00Z
+  Updated: 2026-07-28T10:30:36Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/craniu-din-cristal-natural-ametist-decoratiune-187902.jpg?v=1780690030
   Price: 149,00 lei RON
 - [Cristal de cuart trandafir natural in forma | CraftMystic](https://www.craftmystic.ro/products/cristal-de-cuart-trandafir-natural-in-forma-de-inima-set-de-5-pietre-de-vindecare-meditatie-echilibrare-decoratiuni-pentru-casa): Cristal de cuart trandafir natural in forma de inima - Set de 5 pietre de vindecare. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:17Z
+  Updated: 2026-07-24T07:39:46Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cristal-de-cuart-trandafir-natural-in-forma-de-inima-set-de-5-pietre-de-vindecare-meditatie-echilibrare-decoratiuni-pentru-casa-261655.jpg?v=1780690031
   Price: 99,00 lei RON
 - [Pendul orgonic cu cristale vindecatoare 7 chakra pentru](https://www.craftmystic.ro/products/pendul-orgonic-cu-cristale-vindecatoare-7-chakra-pentru-meditatie-si-energie-pozitiva): Pendul orgonic de radiestezie este realizat cu pietre semipretioase naturale, cu simbolul arborele vietii si lantisor detasabil; Pendulul de...
-  Updated: 2026-07-21T14:59:17Z
+  Updated: 2026-07-24T07:31:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/pendul-orgonic-cu-cristale-vindecatoare-7-chakra-pentru-meditatie-660569.jpg?v=1780690030
   Price: 79,00 lei RON
 - [Panza sacra pentru altar magic - Design unic | CraftMystic](https://www.craftmystic.ro/products/panza-sacra-pentru-altar-magic-design-unic-pentagram-argintiu-vrajitorie-tarot-wiccani-spiritualitate): Panza sacra pentru altar magic - Design unic Pentagram Argintiu - Vrajitorie Tarot Wiccani. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:18Z
+  Updated: 2026-07-24T07:51:01Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
@@ -599,49 +599,49 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/panza-sacra-pentru-altar-magic-design-pentagrama-triple-moon-vrajitorie-tarot-wiccani-spiritualitate-copie-851621.jpg?v=1780690030
     Price: 62,00 lei RON
 - [Bol din cupru cu simbol de luna tripla | CraftMystic](https://www.craftmystic.ro/products/bol-din-cupru-cu-simbol-de-luna-tripla-si-pentagrama-excelent-pentru-decorarea-altarului-ritualuri-arzator-de-tamaie-preparator-de-potiuni): Bol din cupru cu simbol de luna tripla si pentagrama – excelent pentru decorarea altarului. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:18Z
+  Updated: 2026-07-24T07:53:56Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bol-din-cupru-cu-simbol-de-luna-tripla-si-pentagrama-excelent-pentru-decorarea-altarului-ritualuri-arzator-de-tamaie-preparator-de-potiuni-467360.jpg?v=1780690031
   Price: 153,00 lei RON
 - [Ornament de agatat cu 7 chakre reprezentate | CraftMystic](https://www.craftmystic.ro/products/ornament-de-agatat-cu-7-chakre-reprezentate-cu-arborele-vietii-lucrat-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-ornament-de-meditatie-decor-feng-shui-pentru-casa-birou-masina): Ornament de agatat cu 7 chakre reprezentate cu arborele vietii lucrat manual cu pietre. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:18Z
+  Updated: 2026-07-24T07:47:35Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/ornament-de-agatat-cu-7-chakre-reprezentate-cu-arborele-vietii-lucrat-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-ornament-de-meditatie-de-661985.jpg?v=1780690031
   Price: 149,50 lei RON
 - [Craniu 5 cm sculptat manual din cristal | CraftMystic](https://www.craftmystic.ro/products/craniu-5-cm-sculptat-manual-din-cristal-de-aventurin-piatra-semipretioasa-vindecatoare-figurina-artistica-pentru-decor-de-halloween-decoratiune-pentru-biroul-de-acasa): Craniu 5 cm sculptat manual din cristal de Aventurin piatra semipretioasa vindecatoare. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T10:30:14Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/craniu-din-cristal-natural-aventurin-verde-decoratiune-742221.jpg?v=1780690031
   Price: 149,00 lei RON
 - [Sfera obsidian negru, minge de cristal decorativa](https://www.craftmystic.ro/products/sfera-pudra-obsidian-negru-80-mm-minge-de-cristal-decorativa-cu-suport-de-lemn-pentru-decor-meditatie-vindecare): Sfera de cristal obsidian negru cu suport de lemn, ideala pentru a schimba starea de spirit acasa sau la birou, ea poate fi plasat pe mese, birou...
-  Updated: 2026-07-06T18:14:35Z
+  Updated: 2026-07-27T19:11:22Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/sfera-obsidian-negru-minge-de-cristal-decorativa-cu-suport-de-lemn-pentru-decor-meditatie-vindecare-604833.jpg?v=1780690031
   Price: 139,00 lei RON
 - [Pendul radiestezie Fluorit violet si saculet satin de](https://www.craftmystic.ro/products/pendul-radiestezie-fluorit-violet-si-saculet-satin-de-catifea-pentru-meditatie-divinatie): Pendul de radiestezie este realizat din pietre semipretioase naturale de Fluorit violet si lantisor scurt, nu poate fi purtat ca si colier, dar puteti...
-  Updated: 2026-07-21T08:15:22Z
+  Updated: 2026-07-24T07:51:56Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/pendul-radiestezie-fluorit-violet-pentru-radiestezie-meditatie-divinatie-529744.jpg?v=1780690031
   Price: 39,00 lei RON
 - [Ornament de agatat model arborele vietii in forma | CraftMystic](https://www.craftmystic.ro/products/ornament-de-agatat-model-arborele-vietii-in-forma-de-inima-realizat-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-a-celor-7-chakre): Ornament de agatat model arborele vietii in forma de inima - Realizat manual cu pietre. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:18Z
+  Updated: 2026-07-24T07:55:27Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/ornament-de-agatat-model-arborele-vietii-in-forma-de-inima-realizat-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-a-celor-7-chakre-366409.jpg?v=1780690032
   Price: 167,00 lei RON
 - [Panza Sacra pentru altar magic - Design Moon Phases | CraftMystic](https://www.craftmystic.ro/products/panza-sacra-pentru-altar-magic-design-moon-phases-vrajitorie-tarot-wiccani-spiritualitate-1): Panza Sacra pentru altar magic - Design Moon Phases - Vrajitorie Tarot Wiccani Spiritualitate. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:18Z
+  Updated: 2026-07-24T07:47:45Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
@@ -655,28 +655,28 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/panza-sacra-pentru-altar-magic-design-pentagrama-triple-moon-vrajitorie-tarot-wiccani-spiritualitate-copie-008859.jpg?v=1780690032
     Price: 62,00 lei RON
 - [Colier cu cristal vindecator Ametist, cu 6 fatete | CraftMystic](https://www.craftmystic.ro/products/colier-cu-cristal-vindecator-ametist-cu-6-fatete-si-franghia-impletita-pentru-pace-interioara-calm-si-reducerea-stresului): Colier din ametist natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T23:15:27Z
+  Updated: 2026-07-24T07:45:58Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-cristal-vindecator-ametist-cu-6-fatete-si-franghia-impletita-pentru-pace-interioara-calm-si-reducerea-stresului-729819.jpg?v=1780690032
   Price: 92,00 lei RON
 - [Craniu 5 cm sculptat manual din cristal de Obsidian | CraftMystic](https://www.craftmystic.ro/products/craniu-5-cm-sculptat-manual-din-cristal-de-obsidian-piatra-semipretioasa-vindecatoare-figurina-artistica-pentru-decor-de-halloween-decoratiune-pentru-biroul-de-acasa): Craniu 5 cm sculptat manual din cristal de Obsidian piatra semipretioasa vindecatoare Figurina. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T10:30:26Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/craniu-din-cristal-natural-obsidian-decoratiune-792426.jpg?v=1780690032
   Price: 149,00 lei RON
 - [Colier cu pandantiv arborele vietii - Realizat | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-arborele-vietii-realizat-manual-cu-pietre-semipretioase-sparte-si-cristale-vindecatoare-a-celor-7-chakre): Colier din agat natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:19Z
+  Updated: 2026-07-24T07:33:47Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-arborele-vietii-realizat-manual-cu-pietre-semipretioase-sparte-si-cristale-vindecatoare-a-celor-7-chakre-095411.png?v=1780690033
   Price: 70,00 lei RON
 - [Panza Sacra pentru altar magic - Design Tree of | CraftMystic](https://www.craftmystic.ro/products/panza-sacra-pentru-altar-magic-design-tree-of-life-arborele-vietii-vrajitorie-tarot-wiccani-spiritualitate-1): Panza Sacra pentru altar magic - Design Tree of Life Arborele Vietii - Vrajitorie Tarot. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:19Z
+  Updated: 2026-07-24T07:50:42Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
@@ -690,14 +690,14 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/panza-sacra-pentru-altar-magic-design-moon-phases-vrajitorie-tarot-wiccani-spiritualitate-copie-copie-381969.jpg?v=1780690033
     Price: 62,00 lei RON
 - [Set 3 Tapiserii cu semne spirituale, soare, luna | CraftMystic](https://www.craftmystic.ro/products/set-3-tapiserii-cu-semne-spirituale-soare-luna-stea-pentru-yoga-meditatie-decorarea-camerei): Set 3 Tapiserii cu semne spirituale, soare, luna, stea, – Pentru yoga, meditatie, decorarea. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:19Z
+  Updated: 2026-07-24T07:35:57Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-3-tapiserii-cu-semne-spirituale-soare-luna-stea-pentru-yoga-meditatie-decorarea-camerei-956376.jpg?v=1780690033
   Price: 132,00 lei RON
 - [Panza Sacra pentru altar magic - Design Triple | CraftMystic](https://www.craftmystic.ro/products/panza-sacra-pentru-altar-magic-design-triple-goddess-natraj-vrajitorie-tarot-wiccani-spiritualitate): Panza Sacra pentru altar magic - Design Triple Goddess Natraj - Vrajitorie Tarot Wiccani. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:19Z
+  Updated: 2026-07-24T07:47:06Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
@@ -711,161 +711,161 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/panza-sacra-pentru-altar-magic-design-tree-of-life-arborele-vietii-vrajitorie-tarot-wiccani-spiritualitate-copie-copie-copie-765093.jpg?v=1780690033
     Price: 62,00 lei RON
 - [Bratara zen cu pietre semipretioase Ametist si pandantiv](https://www.craftmystic.ro/products/bratara-zen-cu-pietre-semipretioase-ametist-si-pandantiv-scluptat-in-forma-de-inima-bratara-feng-shui-pentru-meditatie-liniste-echilibru): Bratara este realizata din margele naturale de cristal Ametist si pandantiv scluptat in forma de inima, insirate pe un snur elastic de rezistent pentru...
-  Updated: 2026-07-20T12:15:33Z
+  Updated: 2026-07-28T06:36:17Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-zen-cu-pietre-semipretioase-ametist-si-pandantiv-scluptat-in-forma-de-inima-bratara-feng-shui-pentru-meditatie-liniste-echilibru-623782.jpg?v=1780690034
   Price: 63,00 lei RON
 - [Cercei arborele vietii - Realizati manual cu pietre | CraftMystic](https://www.craftmystic.ro/products/cercei-arborele-vietii-realizati-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-a-celor-7-chakre): Cercei din agat natural, cupru. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T15:00:27Z
+  Updated: 2026-07-28T06:30:27Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-arborele-vietii-realizati-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-a-celor-7-chakre-459086.jpg?v=1780690033
   Price: 42,00 lei RON
 - [Craniu 5 cm sculptat manual din cristal de Turcoaz | CraftMystic](https://www.craftmystic.ro/products/craniu-5-cm-sculptat-manual-din-cristal-de-turcoaz-alb-piatra-semipretioasa-vindecatoare-figurina-artistica-pentru-decor-de-halloween-decoratiune-pentru-biroul-de-acasa): Craniu 5 cm sculptat manual din cristal de Turcoaz Alb piatra semipretioasa vindecatoare. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T10:30:35Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/craniu-din-cristal-natural-alb-turcoaz-decoratiune-329298.jpg?v=1780690034
   Price: 149,00 lei RON
 - [Piramida din piatra semipretioasa naturala ochi | CraftMystic](https://www.craftmystic.ro/products/piramida-din-piatra-semipretioasa-naturala-ochi-de-tigru-4-cm): Piramida din piatra semipretioasa naturala ochi de tigru 4 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T07:01:32Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-din-piatra-semipretioasa-naturala-ochi-de-tigru-4-cm-557904.jpg?v=1780690034
   Price: 99,00 lei RON
 - [Panza Sacra pentru altar magic - Design Triple | CraftMystic](https://www.craftmystic.ro/products/panza-sacra-pentru-altar-magic-design-triple-goddess-natraj-vrajitorie-tarot-wiccani-spiritualitate-copie-copie): Panza Sacra pentru altar magic - Design Triple Goddess Natraj - Vrajitorie Tarot Wiccani. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:21Z
+  Updated: 2026-07-24T07:39:47Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/panza-sacra-pentru-altar-magic-design-tree-of-life-arborele-vietii-vrajitorie-tarot-wiccani-spiritualitate-copie-copie-copie-76509358792087.jpg?v=1780690034
   Price: 62,00 lei RON
 - [Colier cu pandantiv chip de vulpe din cristal | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-chip-de-vulpe-din-cristal-vindecator-flourit-semnificatia-pandantivului-intelepciune-frumusete-inteligenta-adaptabilitate-si-oportunitate): Colier din fluorit natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:00Z
+  Updated: 2026-07-24T07:32:16Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-chip-de-vulpe-din-cristal-vindecator-flourit-semnificatia-pandantivului-intelepciune-frumusete-inteligenta-adaptabilitate-si-oport-601893.jpg?v=1780690034
   Price: 142,00 lei RON
 - [Cana model ceaun magic cu inscriptia Witches brew | CraftMystic](https://www.craftmystic.ro/products/cana-model-ceaun-magic-cu-inscriptia-witches-brew): Cana model ceaun magic cu inscriptia Witches brew. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:21Z
+  Updated: 2026-07-24T07:33:26Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cana-model-ceaun-magic-cu-inscriptia-witches-brew-893798.jpg?v=1780690035
   Price: 97,00 lei RON
 - [Figurina Craniu din Labradorit Natural, 5 cm | CraftMystic](https://www.craftmystic.ro/products/figurina-craniu-din-labradorit-natural-5-cm-sprijina-transformarea-si-protectia-energetica): Figurina Craniu din Labradorit Natural, 5 cm - Sprijina Transformarea si Protectia Energetica. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:00Z
+  Updated: 2026-07-28T10:30:21Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/craniu-din-cristal-natural-labradorit-decoratiune-508366.png?v=1780690035
   Price: 129,00 lei RON
 - [Cercei din cristal Flourit 4 cm, forma aripi | CraftMystic](https://www.craftmystic.ro/products/cercei-din-cristal-flourit-4-cm-forma-aripi-de-inger-si-saculet-satin-inclus-pentru-protectie): Cercei din fluorit natural, argint 925, 4 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:00Z
+  Updated: 2026-07-26T14:01:52Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-din-cristal-flourit-forma-aripi-de-inger-pentru-protectie-138978.jpg?v=1780690035
   Price: 70,00 lei RON
 - [Piramida Orgonica cu cristale vindecatoare Ochi | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-cu-cristale-vindecatoare-ochi-de-tigru-floare-de-lotus-si-sfera-din-cristal-transparent-8-cm-promoveaza-bogatia-prosperitatea-si-atrage-succesul): Piramida Orgonica cu cristale vindecatoare Ochi de Tigru, floare de lotus si sfera din cristal. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:59Z
+  Updated: 2026-07-28T14:30:26Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-cristale-vindecatoare-ochi-de-tigru-floare-de-lotus-si-sfera-din-cristal-transparent-6-cm-promoveaza-bogatia-prosperitatea-si-atr-043471.png?v=1780690037
   Price: 199,00 lei RON
 - [Inimioara cristal Obsidian Negru 4 cm si saculet | CraftMystic](https://www.craftmystic.ro/products/inimioara-cristal-obsidian-negru-4-cm-si-saculet-satin-inclus-pentru-protectie-stabilitate-si-armonie): Inimioara cristal Obsidian Negru 4 cm si saculet satin inclus - pentru protectie, stabilitate. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:21Z
+  Updated: 2026-07-26T09:08:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/inimioara-cristal-obsidian-negru-pentru-protectie-stabilitate-si-armonie-491790.jpg?v=1780690036
   Price: 39,00 lei RON
 - [Copac pietre semipretioase 7 chakra in forma de inima](https://www.craftmystic.ro/products/copac-pietre-semipretioase-7-chakra-in-forma-de-inima-decor-cristal-feng-shui-accesorii-premium-pentru-birou): Un copac frumos, lucrat manual cu toate cele sapte chakre din cristal si pietre pretioase cuplate cu o baza naturala de felie de agat si trunchiul in...
-  Updated: 2026-07-21T14:59:21Z
+  Updated: 2026-07-24T07:41:06Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/copac-pietre-semipretioase-7-chakra-in-forma-de-inima-decor-cristal-feng-shui-accesorii-premium-pentru-birou-521888.jpg?v=1780690038
   Price: 199,00 lei RON
 - [Mini Copacel pietre semipretioase 7 chakra pe felie | CraftMystic](https://www.craftmystic.ro/products/mini-copacel-pietre-semipretioase-7-chakra-pe-felie-de-agat-decor-cristal-feng-shui-accesorii-pentru-birou-cristale-pentru-meditatie): Mini Copacel pietre semipretioase 7 chakra pe felie de agat - decor cristal feng shui. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:21Z
+  Updated: 2026-07-24T07:55:27Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/copac-pietre-semipretioase-7-chakra-pe-felie-de-agat-decor-cristal-feng-shui-accesorii-pentru-birou-cristale-pentru-meditatie-911240.jpg?v=1780690038
   Price: 79,00 lei RON
 - [Copac pietre semipretioase ametist si cuart Roz pe felie de](https://www.craftmystic.ro/products/copac-pietre-semipretioase-ametist-si-cuart-roz-pe-felie-de-agat-decor-cristal-feng-shui-accesorii-pentru-birou-cristale-pentru-meditatie): Un copacel frumos, lucrat manual cu doua ramuri realizate din sarma de cupru si pietre semipretioase Ametist si Cuart roz, cuplate cu o baza naturala...
-  Updated: 2026-07-21T14:59:22Z
+  Updated: 2026-07-24T07:48:56Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/copac-pietre-semipretioase-ametist-si-cuart-transparent-pe-felie-de-agat-decor-cristal-feng-shui-accesorii-pentru-birou-cristale-pentru-meditatie-560868.jpg?v=1780690039
   Price: 199,00 lei RON
 - [Turn Hexagonal Dublu Varf din Cuart Roz inaltime | CraftMystic](https://www.craftmystic.ro/products/turn-hexagonal-dublu-varf-din-cuart-roz-inaltime-de-7-9-cm-cristalul-iubirii-neconditionate-si-al-pacii-infinite): Turn Hexagonal Dublu Varf din Cuart Roz inaltime de 7-9 cm - Cristalul iubirii neconditionate. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:02Z
+  Updated: 2026-07-24T07:38:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/obelisc-de-cristal-natural-fluorita-dublu-varf-9-10-cm-cristalul-lustruit-pentru-concentrare-curatarea-energiei-si-echilibrarea-chakrei-celui-de-al-tr-784416.jpg?v=1780690122
   Price: 59,00 lei RON
 - [Set 7 Mere din Cristale Naturale pentru Echilibru | CraftMystic](https://www.craftmystic.ro/products/set-7-mere-din-cristale-naturale-pentru-echilibru-si-armonie-colier-si-cutie-cadou): Colier din lapis lazuli natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:22Z
+  Updated: 2026-07-28T05:45:56Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-7-mere-din-cristale-naturale-vindecatoare-si-pietre-semipretioase-merele-simbolizeaza-pace-siguranta-sanatate-si-longevitate-pentru-meditatie-spir-214401.jpg?v=1780690123
   Price: 99,00 lei RON
 - [Copacel 12 cm din cristale semipretioase Citrin | CraftMystic](https://www.craftmystic.ro/products/copacel-12-cm-din-cristale-semipretioase-citrin-si-baza-de-fluorit-aduce-prosperitate-succes-echilibru-mental): Copacel 12 cm din cristale semipretioase Citrin si baza de Fluorit - Aduce prosperitate. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:22Z
+  Updated: 2026-07-24T07:31:41Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/copacel-12-cm-din-cristale-semipretioase-citrin-si-baza-de-cuart-roz-aduce-energie-pozitiva-iubire-copie-502156.jpg?v=1780690123
   Price: 99,00 lei RON
 - [Bratara din pietre semipretioase in forma | CraftMystic](https://www.craftmystic.ro/products/bratara-din-pietre-semipretioase-in-forma-de-margele-8mm-de-hematit-ochi-de-tigru-si-ametist-te-poate-ajuta-sa-renunti-la-fumat): Brățară din ametist natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:22Z
+  Updated: 2026-07-24T07:50:06Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-reglabila-cu-tripla-protectie-din-obsidian-negru-ochi-de-tigru-si-hematit-10-mm-bratara-feng-shui-pentru-protectie-noroc-si-prosperitate-copie-218134.jpg?v=1780690123
   Price: 60,00 lei RON
 - [Set bol Tibetan de meditatie 13 cm gravura mantra | CraftMystic](https://www.craftmystic.ro/products/set-bol-tibetan-de-meditatie-13-cm-gravura-mantra-batut-manual-sunet-pentru-yoga-vindecare-chakre-si-meditatie-zen-cu-ciocan-din-piele-si-perna-de-matase): Set bol Tibetan de meditatie 13 cm gravura mantra, batut manual, sunet pentru yoga, vindecare. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:22Z
+  Updated: 2026-07-24T07:36:16Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bol-tibetan-cantator-9-5-cm-model-arborele-vietii-setul-complet-pentru-meditatie-si-vindecare-relaxare-profunda-si-echilibru-energetic-copie-923213.jpg?v=1780690123
   Price: 389,00 lei RON
 - [Turn Hexagonal Dublu Varf din Obsidian Negru | CraftMystic](https://www.craftmystic.ro/products/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-stresului): Turn din obsidian natural, 7-9 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:53:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-cuart-roz-inaltime-de-7-9-cm-cristalul-iubirii-neconditionate-si-al-pacii-infinite-copie-205851.jpg?v=1780690123
   Price: 49,00 lei RON
 - [Pandantiv in forma de inima cu pietre naturale | CraftMystic](https://www.craftmystic.ro/products/pandantiv-in-forma-de-inima-cu-pietre-naturale-semipretioase-naturale-mixte-chakra-cu-ton-auriu): Colier din ametist natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:23Z
+  Updated: 2026-07-28T06:30:37Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-din-pietre-pretioase-naturale-mixte-7-chakre-677420.jpg?v=1780690123
   Price: 70,00 lei RON
 - [Bratara de jad cu margele de 8 mm pentru femei si barbati](https://www.craftmystic.ro/products/bratara-de-jad-cu-margele-de-8-mm-pentru-femei-si-barbati-aduce-noroc-bogatie-prosperitate): CALITATE PREMIUM - Pietrele naturale de jad verde sunt mestesugite cu maiestrie si insirate pe o sfoara elastica puternica pentru o potrivire sigura...
-  Updated: 2026-07-19T15:30:15Z
+  Updated: 2026-07-28T16:30:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-de-jad-cu-margele-de-8-mm-pentru-femei-si-barbati-aduce-noroc-bogatie-prosperitate-242804.png?v=1780690125
   Price: 42,00 lei RON
 - [Piramida de Energie Orgonica cu Cristale de Vindecare](https://www.craftmystic.ro/products/piramida-de-energie-orgonica-6-cm-cu-cristale-de-vindecare-specifice-zodiei-berbec-pentru-relaxare-meditatie-si-ornament): Cristale de vindecare - Experimenteaza o vindecare spirituala profunda si transcendenta mintii cu piramidele de cristal lucrate manual.
-  Updated: 2026-07-21T13:30:30Z
+  Updated: 2026-07-24T14:15:28Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
@@ -919,56 +919,56 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-de-energie-orgonica-cu-cristale-de-vindecare-specifice-a-zodiilor-pentru-relaxare-meditatie-si-ornament-219013.jpg?v=1780690125
     Price: 119,00 lei RON
 - [Bratara elastica \\"fertilitate\\" din cristale | CraftMystic](https://www.craftmystic.ro/products/bratara-elastica-fertilitate-din-cristale-naturale-vindecatoare-cu-margele-de-8-mm-potrivire-elastica-pentru-majoritatea-incheieturilor): Bratara elastica \\"fertilitate\\" din cristale naturale vindecatoare cu margele de 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:23Z
+  Updated: 2026-07-24T07:56:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-cu-cristale-naturale-de-citrin-pirita-si-verde-aventurin-de-8-mm-bratara-feng-shui-pentru-meditatie-noroc-prosperitate-copie-363279.jpg?v=1780690125
   Price: 58,00 lei RON
 - [Bratara cu cristale 8mm semipretioase naturale | CraftMystic](https://www.craftmystic.ro/products/bratara-cu-cristale-8mm-semipretioase-naturale-ametist-pentru-femei-si-barbati-noroc-echilibru-reducerea-anxietatii): Brățară din ametist natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-27T21:45:24Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-cu-cristale-8mm-semipretioase-naturale-ametist-pentru-femei-si-barbati-noroc-echilibru-reducerea-anxietatii-951616.jpg?v=1780690125
   Price: 42,00 lei RON
 - [Cercei cu cristal natural din turmalina neagra | CraftMystic](https://www.craftmystic.ro/products/cercei-cu-cristal-natural-din-turmalina-neagra-electroplacat-curcubeu-si-forma-de-pana-4-5-cm-bijuterii-pentru-femei-de-moda-retro): Cercei din turmalină neagră natural, argint 925, 4-5 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-27T12:30:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-arborele-vietii-realizati-manual-cu-pietre-semipretioase-si-cristale-vindecatoare-a-celor-7-chakre-copie-239997.jpg?v=1780690125
   Price: 42,00 lei RON
 - [Arborele vietii premium din cristale naturale Chakra cu](https://www.craftmystic.ro/products/arborele-vietii-premium-din-cristale-naturale-chakra-cu-baza-de-cuart-roz-cu-proprietati-vindecatoare-bonsai-feng-shui-pentru-vindecare-si-noroc-20-cm-si-432-mini-pietre-naturale-si-baza-din-cristal): Arborele Vietii din Cristale Chakra: Bucurati-va de armonie, echilibru si noroc cu acest arbore al vietii, meticulos realizat din cristale naturale.
-  Updated: 2026-07-07T06:15:16Z
+  Updated: 2026-07-24T07:49:26Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/copac-arborele-vietii-premium-arbore-din-cristale-pentru-energie-pozitiva-realizat-manual-cu-sapte-pietre-chakre-cristale-si-pietre-vindecatoare-copie-647055.jpg?v=1780690125
   Price: 349,00 lei RON
 - [Mini set educational copii 15 pietre de colectie](https://www.craftmystic.ro/products/mini-set-educational-copii-15-pietre-de-colectie-pietre-specimen-etichetate-educationale-pentru-baieti-si-fete): Invatare interactiva: Setul nostru mini educational pentru copii contine 15 pietre de colectie, fiecare etichetata cu informatii educationale.
-  Updated: 2026-07-21T14:59:23Z
+  Updated: 2026-07-25T18:51:55Z
   Vendor: CraftMystic
   Product Type: Pachete & Seturi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/mini-set-32-pietre-de-colectie-cutie-in-forma-de-luna-cu-pietre-specimen-etichetate-educationale-pentru-baieti-si-fete-copie-166442.jpg?v=1780690126
   Price: 35,00 lei RON
 - [Bratara cu margele 8mm din pietre semipretioase naturale](https://www.craftmystic.ro/products/bratara-cu-margele-8mm-din-pietre-semipretioase-din-turcoaz-tratat-termic-aduce-echilibru): Turcoazul este una dintre cele mai puternice pietre de vindecare metafizica. Puterile de vindecare metafizica ale turcoazului au existat inca de...
-  Updated: 2026-07-21T08:15:27Z
+  Updated: 2026-07-28T10:30:37Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-de-jad-cu-margele-de-8-mm-pentru-femei-si-barbati-aduce-noroc-bogatie-prosperitate-copie-249020.jpg?v=1780690128
   Price: 50,00 lei RON
 - [Arborele vietii 18 cm cu cristale semipretioase cuart roz](https://www.craftmystic.ro/products/arborele-vietii-18-cm-cu-cristale-semipretioase-cuart-roz-bonsai-de-cristal-cu-162-mini-pietre-si-baza-din-cuart-roz-pentru-bani-feng-shui-noroc): Arborele Vietii cu Cristale de Cuart Roz: Acest arbore al vietii Bonsai, realizat meticulos cu 162 de mini pietre semipretioase de cuart roz, este un...
-  Updated: 2026-07-06T18:15:26Z
+  Updated: 2026-07-24T07:34:07Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/arborele-vietii-premium-din-cristale-naturale-chakra-cu-baza-de-cuart-roz-cu-proprietati-vindecatoare-bonsai-feng-shui-pentru-vindecare-si-noroc-20-cm-792326.jpg?v=1780690126
   Price: 199,00 lei RON
 - [Bratara din pietre naturale 8mm Obsidian si Ochi de Tigru](https://www.craftmystic.ro/products/bratara-zodie-berbec-din-pietre-naturale-8mm-obsidian-si-ochi-de-tigru-pentru-barbati-cu-cele-12-constelatii-include-dubla-gravura-cu-semn-zodiacala-specifica): Protectie si echilibru: Aceasta bratara este confectionata din pietre naturale de Obsidian si Ochi de Tigru, cunoscute pentru proprietatile lor de...
-  Updated: 2026-07-21T14:59:23Z
+  Updated: 2026-07-28T13:30:46Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
@@ -1022,442 +1022,378 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-elastica-cu-margele-de-onix-negru-stralucitor-natural-de-6-mm-adevar-forta-bratara-unisex-cu-margele-neagra-de-inalta-calitate-pentru-barbati-909137.jpg?v=1780690127
     Price: 62,00 lei RON
 - [Bonsai cu cristale naturale citrin](https://www.craftmystic.ro/products/bonsai-cu-cristale-naturale-citrin-supranumit-copacul-banilor-copacelul-cu-inaltimea-de-25-cm-reprezinta-cadoul-perfect-pentru-prosperitate-succes-energie-pozitiva): Bonsai Citrin - Copacul Banilor: Acest Bonsai impresionant, realizat cu cristale naturale de citrin, este supranumit "copacul banilor".
-  Updated: 2026-07-14T12:01:20Z
+  Updated: 2026-07-24T07:50:11Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/arborele-vietii-18-cm-cu-cristale-semipretioase-cuart-roz-bonsai-de-cristal-cu-162-mini-pietre-si-baza-din-cuart-roz-pentru-bani-feng-shui-noroc-copie-063724.jpg?v=1780690127
   Price: 249,00 lei RON
 - [Figurina 5 cm inger din cristal vindecator Obsidian | CraftMystic](https://www.craftmystic.ro/products/figurina-5-cm-inger-din-cristal-vindecator-obsidian-sculptura-manuala-din-piatra-naturala-lustruita-decor-pentru-camera-birou-cu-energie-reiki-pentru-femei-barbati): Figurina 5 cm inger din cristal vindecator Obsidian - Sculptura manuala din piatra naturala. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:55:28Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-inger-din-cristal-vindecator-obsidian-sculptura-manuala-din-piatra-naturala-lustruita-decor-pentru-camera-birou-cu-energie-reiki-pentru-577495.jpg?v=1780690127
   Price: 119,00 lei RON
 - [Bagheta din cristal natural de labradorit 10-11 cm | CraftMystic](https://www.craftmystic.ro/products/bagheta-din-cristal-natural-de-labradorit-10-11-cm-turn-de-cristal-vindecator-baghete-mari-naturale-cu-6-puncte-fatetate-pentru-reiki-chakra-meditatie-colectie-decor-acasa): Turn din labradorit natural, 10-11 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T10:30:36Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-din-cristal-natural-fluorit-curcubeu-9-10-cm-adauga-un-strop-de-culoare-si-energie-in-viata-ta-copie-340863.jpg?v=1780690127
   Price: 99,00 lei RON
 - [Inel ajustabil cu piatra naturala cluster Ametist | CraftMystic](https://www.craftmystic.ro/products/inel-ajustabil-cu-piatra-naturala-cluster-ametist): Inel din ametist natural, alamă placată auriu. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-27T07:45:27Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/inel-ajustabil-cu-piatra-naturala-cluster-ametist-990650.jpg?v=1780690127
   Price: 42,00 lei RON
 - [Figurina 5 cm Bufnita din cristal vindecator Cuart | CraftMystic](https://www.craftmystic.ro/products/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa): Figurina 5 cm Bufnita din cristal vindecator Cuart roz - Sculptat in forma de bufnita. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T15:00:31Z
+  Updated: 2026-07-24T07:56:43Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-367041.jpg?v=1780690127
   Price: 67,00 lei RON
 - [Bratara de Manifestare - Bratara Manuala din Rutil | CraftMystic](https://www.craftmystic.ro/products/bratara-de-manifestare-bratara-manuala-din-rutil-negru-natural-8mm): Brățară din cuarț natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:23Z
+  Updated: 2026-07-24T07:42:28Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-elastica-fertilitate-din-cristale-naturale-vindecatoare-cu-margele-de-8-mm-potrivire-elastica-pentru-majoritatea-incheieturilor-copie-391067.jpg?v=1780690128
   Price: 80,00 lei RON
 - [Colier 6-7 cm ajustabil cu cristal natural | CraftMystic](https://www.craftmystic.ro/products/colier-6-7-cm-ajustabil-cu-cristal-natural-turmalina-neagra-elctroplacat-curcubeu): Colier din turmalină neagră natural, piele, 6-7 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:02Z
+  Updated: 2026-07-25T13:25:37Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/inel-ajustabil-cu-piatra-naturala-cluster-ametist-copie-094675.jpg?v=1780690128
   Price: 50,00 lei RON
 - [Colier cu pandantiv din labradorit natural | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-din-labradorit-natural-pentru-barbati-si-femei-cristal-neregulat-lucrat-manual-invelit-cu-sarma-model-arborele-vietii-o-piatra-semipretioasa-pentru-meditatie-intuitie-imagin): Colier din labradorit natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:40:37Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-cristal-labradorit-in-forma-ovala-infasurat-intr-o-plasa-de-franghie-neagra-o-piatra-semipretioasa-pentru-meditatie-intuitie-imaginatie-copi-019088.jpg?v=1780690128
   Price: 102,00 lei RON
-- [Figurina elefant din piatra semi-pretioasa Ametist sculptata manual - Statuie din cristale vindecatoare Reiki de buzunar pentru meditatie, pace](https://www.craftmystic.ro/products/figurina-elefant-din-piatra-semi-pretioasa-ametist-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace): Figurină/Sculptură din cristal din ametist natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:24Z
-  Vendor: CraftMystic
-  Product Type: Cristale Semiprețioase
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-elefant-din-piatra-semi-pretioasa-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace-069517.jpg?v=1780690129
-  - [ametist](https://www.craftmystic.ro/products/figurina-elefant-din-piatra-semi-pretioasa-ametist-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace?variant=62005135704394)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-elefant-din-piatra-semi-pretioasa-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace-069517.jpg?v=1780690129
-    Price: 59,00 lei RON
-  - [Cristal capsuna](https://www.craftmystic.ro/products/figurina-elefant-din-piatra-semi-pretioasa-ametist-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace?variant=62005135737162)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-elefant-din-piatra-semi-pretioasa-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace-234120.jpg?v=1780690129
-    Price: 49,00 lei RON
-  - [Obsidian](https://www.craftmystic.ro/products/figurina-elefant-din-piatra-semi-pretioasa-ametist-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace?variant=62005135769930)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-elefant-din-piatra-semi-pretioasa-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace-105272.jpg?v=1780690129
-    Price: 59,00 lei RON
-  - [Aventurin Verde](https://www.craftmystic.ro/products/figurina-elefant-din-piatra-semi-pretioasa-ametist-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace?variant=62005135802698)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-elefant-din-piatra-semi-pretioasa-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace-600076.jpg?v=1780690128
-    Price: 59,00 lei RON
-  - [Cuart Roz](https://www.craftmystic.ro/products/figurina-elefant-din-piatra-semi-pretioasa-ametist-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace?variant=62005135835466)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-elefant-din-piatra-semi-pretioasa-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace-329639.jpg?v=1780690128
-    Price: 59,00 lei RON
-  - [Ochi de tigru](https://www.craftmystic.ro/products/figurina-elefant-din-piatra-semi-pretioasa-ametist-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace?variant=62005135868234)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-elefant-din-piatra-semi-pretioasa-sculptata-manual-statuie-din-cristale-vindecatoare-reiki-de-buzunar-pentru-meditatie-pace-769276.jpg?v=1780690129
-    Price: 59,00 lei RON
 - [Bratara din pietre semipretioase 8mm Lapis Lazuli | CraftMystic](https://www.craftmystic.ro/products/bratara-din-pietre-semipretioase-8mm-lapis-lazuli-cu-pigment-culoare-lucrata-manual-bratara-stretch-cu-margele): Bratara din pietre semipretioase 8mm Lapis Lazuli cu pigment culoare lucrata manual - Bratara. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T16:30:16Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-din-pietre-semipretioase-8mm-lapis-lazuli-lucrata-manual-bratara-stretch-cu-margele-417242.jpg?v=1780690129
   Price: 52,00 lei RON
 - [Colier cu pandantiv din labradorit natural | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-din-labradorit-natural-pentru-barbati-si-femei-cristal-neregulat-lucrat-manual-invelit-cu-sarma-model-neregulat-o-piatra-semipretioasa-pentru-meditatie-intuitie-imagin): Colier din labradorit natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:39:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-din-labradorit-natural-pentru-barbati-si-femei-cristal-neregulat-lucrat-manual-invelit-cu-sarma-model-arborele-vietii-o-piatra-sem-883143.jpg?v=1780690129
   Price: 102,00 lei RON
 - [Bratara Feng Shui cu cristale naturale de citrin | CraftMystic](https://www.craftmystic.ro/products/bratara-feng-shui-cu-cristale-naturale-de-citrin-hematita-si-obisidian-negru-de-8-mm-generator-de-bogatie-si-atractie-norocoasa-a-banilor-prosperitate): Brățară din citrin natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T19:45:26Z
+  Updated: 2026-07-28T06:30:37Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-feng-shui-cu-cristale-naturale-de-citrin-hematita-si-obisidian-negru-de-8-mm-generator-de-bogatie-si-atractie-norocoasa-a-banilor-prosperitate-093403.jpg?v=1780690130
   Price: 48,00 lei RON
 - [Bonsai cu cristale naturale mixte](https://www.craftmystic.ro/products/bonsai-cu-cristale-naturale-mixte-supranumit-copacul-banilor-copacelul-cu-inaltimea-de-25-cm-reprezinta-cadoul-perfect-pentru-prosperitate-succes-feng-shui): Bonsai cu cristale naturale mixte - O capodopera a naturii: Imbogatiti-va spatiul cu acest copac cu cristale semipretioase, o combinatie fascinanta de...
-  Updated: 2026-07-21T14:59:24Z
+  Updated: 2026-07-24T07:31:32Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bonsai-cu-cristale-naturale-ametist-supranumit-copacul-banilor-copacelul-cu-inaltimea-de-25-cm-reprezinta-cadoul-perfect-pentru-prosperitate-succes-fe-579116.jpg?v=1780690130
   Price: 249,00 lei RON
 - [Colier cu pandantiv din labradorit natural | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-din-labradorit-natural-pentru-barbati-si-femei-cristal-neregulat-lucrat-manual-invelit-cu-sarma-in-model-neregulat-o-piatra-semipretioasa-pentru-meditatie-intuitie-si-imagina): Colier din labradorit natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:59Z
+  Updated: 2026-07-24T07:32:46Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-din-labradorit-natural-pentru-barbati-si-femei-cristal-neregulat-lucrat-manual-invelit-cu-sarma-model-neregulat-o-piatra-semipreti-652733.jpg?v=1780690130
   Price: 102,00 lei RON
 - [Cristal de selenit sculptat in forma de femeie 10 | CraftMystic](https://www.craftmystic.ro/products/cristal-de-selenit-sculptat-in-forma-de-femeie-10-cm-cu-cele-7-chakre-pentru-decor-si-vindecare-energetica): Cristal de selenit sculptat in forma de femeie 10 cm cu cele 7 chakre - Pentru decor. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:24Z
+  Updated: 2026-07-24T07:33:56Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-copi-026980.jpg?v=1780690130
   Price: 202,00 lei RON
 - [Bratara de cristal cu margele 8mm cu malachit | CraftMystic](https://www.craftmystic.ro/products/bratara-de-cristal-cu-margele-8mm-cu-malachit-pirit-piatra-de-sange-si-piatra-de-granat-bratari-spirituale-si-chakre-pentru-femei-si-barbati-pentru-noroc-si-noroc): Brățară din granat natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:24Z
+  Updated: 2026-07-28T10:15:19Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-de-cristal-cu-margele-8mm-cu-malachit-pirit-piatra-de-sange-si-piatra-de-granat-bratari-spirituale-si-chakre-pentru-femei-si-barbati-pentru-no-998658.jpg?v=1780690131
   Price: 70,00 lei RON
 - [Mini Raft 30x30 cm expunere din lemn | CraftMystic](https://www.craftmystic.ro/products/mini-raft-30x30-cm-expunere-din-lemn-pentru-cristale-uleiuri-esensiale-design-pisica-neagra-pe-luna-decorare-gotica-pentru-camera-moon-cat): Mini Raft 30x30 cm expunere din lemn pentru cristale, uleiuri esensiale design Pisica neagra. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:27Z
+  Updated: 2026-07-24T07:38:55Z
   Vendor: CraftMystic
   Product Type: Accesorii pentru Cristale și Pietre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bonsai-cu-cristale-naturale-mixte-supranumit-copacul-banilor-copacelul-cu-inaltimea-de-25-cm-reprezinta-cadoul-perfect-pentru-prosperitate-succes-feng-727987.jpg?v=1780690131
   Price: 149,00 lei RON
 - [Forma ovala din pietre semipretioase 7 chakre | CraftMystic](https://www.craftmystic.ro/products/forma-ovala-din-pietre-semipretioase-7-chakre-pentru-degetul-mare-utila-pentru-anxietate-meditatie-cristal-natural-de-buzunar): Forma ovala din pietre semipretioase 7 chakre pentru degetul mare - Utila pentru anxietate. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:27Z
+  Updated: 2026-07-24T07:55:58Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-715554.jpg?v=1780690131
   Price: 59,00 lei RON
 - [Bratara cu tripla protectie din pietre naturale 8mm | CraftMystic](https://www.craftmystic.ro/products/bratara-cu-tripla-protectie-din-pietre-naturale-8mm-ochi-de-tigru-natural-obsidian-negru-si-ochiul-rau-pentru-noroc-si-prosperitate-fericire): Bratara cu tripla protectie din pietre naturale 8mm Ochi de tigru natural, Obsidian negru. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:27Z
+  Updated: 2026-07-24T07:51:00Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-energetica-cu-tripla-protectie-realizata-din-pietre-semipretioase-hematit-ochi-de-tigru-galben-si-ochi-de-tigru-albastru-de-8-mm-bratara-pentr-436928.jpg?v=1780690131
   Price: 82,00 lei RON
 - [Generator de energie unic din cristal natural | CraftMystic](https://www.craftmystic.ro/products/generator-de-energie-unic-din-cristal-natural-de-obsidian-negru-in-forma-de-piramida-8-cm): Generator de energie unic din cristal natural de Obsidian Negru in forma de piramida 8 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-27T08:31:25Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-cristal-negru-obsidian-din-piatra-semipretioasa-naturala-4-cm-pentru-protectie-integritate-si-energie-pozitiva-copie-827914.jpg?v=1780690131
   Price: 179,00 lei RON
 - [Bratara curcubeu din cristale semipretiose Fluorit | CraftMystic](https://www.craftmystic.ro/products/bratara-curcubeu-din-cristale-semipretiose-fluorit-9mm-cadou-bijuterii-cristal-chakra-natural): Brățară din fluorit natural, 9 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:24:58Z
+  Updated: 2026-07-24T07:34:36Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-din-pietre-semipretioase-8mm-lapis-lazuli-lucrata-manual-bratara-stretch-cu-margele-copie-735749.jpg?v=1780690131
   Price: 52,00 lei RON
 - [Bratara din pietre naturale semipretioase polisate | CraftMystic](https://www.craftmystic.ro/products/bratara-din-pietre-naturale-semipretioase-polisate-7-chakre-cu-impletitura-manuala-vindecare-reiki-energie-pozitiva): Brățară din ametist natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:27Z
+  Updated: 2026-07-26T08:43:06Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-de-cristal-cu-margele-8mm-cu-malachit-pirit-piatra-de-sange-si-piatra-de-granat-bratari-spirituale-si-chakre-pentru-femei-si-barbati-pentru-no-202249.jpg?v=1780690132
   Price: 70,00 lei RON
-- [Figurina broasca testoasa 4 cm de cristal semipretios Ametist - Sculptura din piatra vindecatoare reiki de buzunar pentru decor, colectie](https://www.craftmystic.ro/products/figurina-broasca-testoasa-4-cm-de-cristal-semipretios-ametist-sculptura-din-piatra-vindecatoare-reiki-de-buzunar-pentru-decor-colectie): Figurină/Sculptură din cristal din ametist natural, 4 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:27Z
-  Vendor: CraftMystic
-  Product Type: Cristale Semiprețioase
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-446270.jpg?v=1780690132
-  - [ametist](https://www.craftmystic.ro/products/figurina-broasca-testoasa-4-cm-de-cristal-semipretios-ametist-sculptura-din-piatra-vindecatoare-reiki-de-buzunar-pentru-decor-colectie?variant=62005136654666)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-446270.jpg?v=1780690132
-    Price: 49,00 lei RON
-  - [Unakite](https://www.craftmystic.ro/products/figurina-broasca-testoasa-4-cm-de-cristal-semipretios-ametist-sculptura-din-piatra-vindecatoare-reiki-de-buzunar-pentru-decor-colectie?variant=62005136687434)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-331972.jpg?v=1780690132
-    Price: 49,00 lei RON
-  - [Aventurin Verde](https://www.craftmystic.ro/products/figurina-broasca-testoasa-4-cm-de-cristal-semipretios-ametist-sculptura-din-piatra-vindecatoare-reiki-de-buzunar-pentru-decor-colectie?variant=62005136720202)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-989032.jpg?v=1780690132
-    Price: 49,00 lei RON
-  - [Howlita](https://www.craftmystic.ro/products/figurina-broasca-testoasa-4-cm-de-cristal-semipretios-ametist-sculptura-din-piatra-vindecatoare-reiki-de-buzunar-pentru-decor-colectie?variant=62005136752970)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-332661.jpg?v=1780690132
-    Price: 49,00 lei RON
-  - [Ochi de tigru](https://www.craftmystic.ro/products/figurina-broasca-testoasa-4-cm-de-cristal-semipretios-ametist-sculptura-din-piatra-vindecatoare-reiki-de-buzunar-pentru-decor-colectie?variant=62005136785738)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-240780.jpg?v=1780690132
-    Price: 49,00 lei RON
-  - [Obsidian](https://www.craftmystic.ro/products/figurina-broasca-testoasa-4-cm-de-cristal-semipretios-ametist-sculptura-din-piatra-vindecatoare-reiki-de-buzunar-pentru-decor-colectie?variant=62005136818506)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-097653.jpg?v=1780690132
-    Price: 49,00 lei RON
-  - [Cuart Roz](https://www.craftmystic.ro/products/figurina-broasca-testoasa-4-cm-de-cristal-semipretios-ametist-sculptura-din-piatra-vindecatoare-reiki-de-buzunar-pentru-decor-colectie?variant=62005136851274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/figurina-5-cm-bufnita-din-cristal-vindecator-cuart-roz-sculptat-in-forma-de-bufnita-cu-piatra-vindecatoare-artizanat-pentru-biroul-de-acasa-copie-954125.jpg?v=1780690132
-    Price: 49,00 lei RON
 - [Piramida Orgonit 8.5 cm pentru energie pozitiva | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonit-8-5-cm-pentru-energie-pozitiva-echilibrare-spirituala-si-protectie-impotriva-emisiilor-electromagnetice): Piramida Orgonit 8.5 cm pentru energie pozitiva, echilibrare spirituala si protectie impotriva. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:30:26Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonit-8-5-cm-pentru-energie-pozitiva-echilibrare-spirituala-si-protectie-impotriva-emisiilor-electromagnetice-727965.jpg?v=1780690132
   Price: 199,00 lei RON
 - [Bratara de vindecare realizata manual cu margele | CraftMystic](https://www.craftmystic.ro/products/bratara-de-vindecare-realizata-manual-cu-margele-8mm-din-cristale-semipretioase-de-onix-negru-cuart-roz-si-agat-negru): Brățară din agat natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:28Z
+  Updated: 2026-07-26T14:00:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-de-vindecare-realizata-manual-cu-margele-8mm-din-cristale-semipretioase-de-onix-negru-cuart-roz-si-agat-negru-034515.jpg?v=1780690132
   Price: 70,00 lei RON
 - [Bratara deosebita cu ametist natural 8mm - Elastica | CraftMystic](https://www.craftmystic.ro/products/bratara-deosebita-cu-ametist-natural-8mm-elastica-ajustabila-cu-pietre-semipretioase-violete): Brățară din ametist natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T15:30:36Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-din-pietre-naturale-semipretioase-polisate-7-chakre-cu-impletitura-manuala-vindecare-reiki-energie-pozitiva-copie-641431.jpg?v=1780690132
   Price: 50,00 lei RON
 - [Cluster cristale de stanca transparent natural | CraftMystic](https://www.craftmystic.ro/products/cluster-cristale-de-stanca-transparent-natural-montat-uniform-piatra-semipretioasa-pentru-decoratiuni-si-vindecare-energetica): Cluster cristale de stanca transparent natural montat uniform Piatra semipretioasa. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:02Z
+  Updated: 2026-07-28T09:02:12Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cluster-de-ametist-natural-10-11-cm-670-grame-piatra-semipretioasa-de-cristal-vindecatoare-in-forma-bruta-copie-604590.jpg?v=1780690133
   Price: 149,00 lei RON
 - [Mini Set cu 8 mini pietre semipretioase polisate | CraftMystic](https://www.craftmystic.ro/products/mini-set-cu-8-mini-pietre-semipretioase-polisate-1-bratara-chakra-1-colier-cu-cristal-de-stanca-si-o-inima-din-cuart-roz): Brățară din cristal de stâncă natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:28Z
+  Updated: 2026-07-28T21:44:26Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/mini-set-cu-7-mini-pietre-semipretioase-polisate-si-7-cristale-semipretioase-hexagonale-naturale-cristale-vindecatoare-pentru-meditatie-ameliorarea-an-949731.jpg?v=1780690134
   Price: 79,00 lei RON
 - [Mini Raft negru 30x30 cm expunere din lemn | CraftMystic](https://www.craftmystic.ro/products/mini-raft-negru-30x30-cm-expunere-din-lemn-pentru-cristale-uleiuri-esentiale-design-luna-stea-decorare-pentru-camera): Mini Raft negru 30x30 cm expunere din lemn pentru cristale, uleiuri esentiale design Luna Stea. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:28Z
+  Updated: 2026-07-24T07:54:37Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/mini-raft-negru-30x30-cm-expunere-din-lemn-pentru-cristale-uleiuri-esentiale-design-luna-stea-decorare-gotica-pentru-camera-473673.jpg?v=1780690133
   Price: 129,00 lei RON
 - [Pandantiv orgonit pentru curatarea si activarea chakrelor](https://www.craftmystic.ro/products/pandantiv-orgonit-pentru-curatarea-si-activarea-chakrelor-cu-cristale-bionizate-realizat-manual): PANDANTIV ORGONIT CU PIETRE SEMIPRETIOASE PENTRU FIECARE CHAKRA - Orgonit de calitate superioara realizat manual, cu element piezo si cristale...
-  Updated: 2026-07-21T21:02:45Z
+  Updated: 2026-07-28T22:15:46Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-6-7-cm-ajustabil-cu-cristal-natural-turmalina-curcubeu-copie-108839.jpg?v=1780690134
   Price: 39,20 lei RON
 - [Mini set de cristale vindecatoare cu 14 cristale | CraftMystic](https://www.craftmystic.ro/products/mini-set-de-cristale-vindecatoare-cu-14-cristale-include-7-pietre-naturale-polisate-si-7-turnuri-cu-dublu-varf-din-cristale): Mini set de cristale vindecatoare cu 14 cristale - Include 7 pietre naturale polisate si 7. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:29Z
+  Updated: 2026-07-28T19:30:36Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/mini-set-cu-8-mini-pietre-semipretioase-polisate-1-bratara-chakra-1-colier-cu-cristal-de-stanca-si-o-inima-din-cuart-roz-copie-833068.jpg?v=1780690134
   Price: 75,00 lei RON
 - [Mini Raft 45x35 cm expunere din lemn | CraftMystic](https://www.craftmystic.ro/products/mini-raft-45x35-cm-expunere-din-lemn-pentru-cristale-uleiuri-esentiale-design-soare-si-luna-decorare-gotica-pentru-camera): Mini Raft 45x35 cm expunere din lemn pentru cristale, uleiuri esentiale design Soare si Luna. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:29Z
+  Updated: 2026-07-24T07:57:12Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/mini-raft-negru-30x30-cm-expunere-din-lemn-pentru-cristale-uleiuri-esentiale-design-luna-stea-decorare-gotica-pentru-camera-copie-212177.jpg?v=1780690134
   Price: 199,00 lei RON
 - [Cercei aripi de inger din piatra semipretioasa | CraftMystic](https://www.craftmystic.ro/products/cercei-aripi-de-inger-din-piatra-semipretioasa-ametist-3-cm): Cercei din ametist natural, argint 925, 3 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:41:27Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-din-cristal-ametist-4-cm-533282.jpg?v=1780690134
   Price: 62,00 lei RON
 - [Bol Tibetan Cantator 9.5 cm model arborele vietii | CraftMystic](https://www.craftmystic.ro/products/bol-tibetan-cantator-9-5-cm-model-arborele-vietii-setul-complet-pentru-meditatie-si-vindecare-relaxare-profunda-si-echilibru-energetic): Bol Tibetan Cantator 9.5 cm model arborele vietii Setul complet pentru meditatie si vindecare. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T15:00:27Z
+  Updated: 2026-07-24T07:42:55Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-bol-tibetan-cantator-prelucrat-manual-la-poalele-muntelui-himalaya-un-percutor-cu-doua-capete-din-lemn-si-piele-si-o-perna-cusuta-manual-ideal-pen-666023.jpg?v=1780690134
   Price: 249,00 lei RON
 - [Mini set 32 pietre de colectie](https://www.craftmystic.ro/products/mini-set-32-pietre-de-colectie-cutie-in-forma-de-luna-cu-pietre-specimen-etichetate-educationale-pentru-baieti-si-fete): Acest mini set colectie de cristale naturale contine 32 de pietre naturale diferite, precum jasp rosu, agat musca, cuart fraga, prehnita, cuart ahmat...
-  Updated: 2026-07-21T14:59:29Z
+  Updated: 2026-07-25T04:56:25Z
   Vendor: CraftMystic
   Product Type: Pachete & Seturi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/mini-set-36-de-cristale-si-pietre-semipretioase-de-colectie-din-intreaga-lume-cadou-educational-pentru-copii-geologie-pietre-minerale-copie-823583.jpg?v=1780690135
   Price: 55,00 lei RON
 - [Cercei aripi de inger din piatra semipretioasa | CraftMystic](https://www.craftmystic.ro/products/cercei-aripi-de-inger-din-piatra-semipretioasa-labradorit-3-cm): Cercei din labradorit natural, argint 925, 3 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:00Z
+  Updated: 2026-07-24T07:49:10Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-din-cristal-labradorit-4-cm-721750.jpg?v=1780690135
   Price: 62,00 lei RON
 - [Turnul de cristal natural Apatit Albastru 9-10 cm | CraftMystic](https://www.craftmystic.ro/products/turnul-de-cristal-natural-apatit-albastru-9-10-cm-bagheta-de-vindecare-naturala-cu-6-fete-pentru-meditatie-profunda-echilibrarea-chakrelor-si-terapia-reiki): Turn din apatit natural, 9-10 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:02Z
+  Updated: 2026-07-25T11:45:22Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turnul-de-cristal-natural-apatit-albastru-9-10-cm-bagheta-de-vindecare-naturala-cu-6-fete-pentru-meditatie-profunda-echilibrarea-chakrelor-si-terapia-386871.jpg?v=1780690135
   Price: 97,00 lei RON
 - [Set 4 Lumanari rosii drepte de 25 cm - Lumanari | CraftMystic](https://www.craftmystic.ro/products/set-4-lumanari-rosii-drepte-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-cina-ocazii-speciale): Set 4 Lumanari rosii drepte de 25 cm - Lumanari fara picurare si fara parfum - Perfecte ca. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T20:00:23Z
+  Updated: 2026-07-24T07:51:38Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-12-lumanari-colorate-fara-miros-lungime-de-100-mm-pentru-ritualuri-aniversari-torturi-copie-188471.jpg?v=1780690135
   Price: 40,00 lei RON
 - [Turn cristal Ochi de Tigru de 10-11 cm din Piatra | CraftMystic](https://www.craftmystic.ro/products/turn-cristal-ochi-de-tigru-de-10-11-cm-din-piatra-naturala-vindecatoare-hexagonala-pentru-meditatie): Turn din ochi de tigru natural, 10-11 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:31:56Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-2-turnuri-din-cristale-semipretiose-vindecatoare-hexagonale-ochi-de-tigru-obelisc-cu-inaltimea-de-6-cm-copie-177600.jpg?v=1780690135
   Price: 97,00 lei RON
 - [Set colier si bratara cu tripla protectie | CraftMystic](https://www.craftmystic.ro/products/set-colier-si-bratara-cu-tripla-protectie-cu-cristale-naturale-lucrata-manual-pentru-barbati-si-femei-margele-de-8-mm-din-hematit-obsidian-negru-si-ametist-protectie-noroc): Brățară din ametist natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:32Z
+  Updated: 2026-07-24T07:44:39Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-energetica-cu-tripla-protectie-colier-zsc20-13-971965.jpg?v=1780690136
   Price: 102,00 lei RON
 - [Set 4 Lumanari albe drepte de 25 cm - Lumanari | CraftMystic](https://www.craftmystic.ro/products/set-4-lumanari-albe-drepte-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-cina-ocazii-speciale): Set 4 Lumanari albe drepte de 25 cm - Lumanari fara picurare si fara parfum - Perfecte ca. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:32Z
+  Updated: 2026-07-24T07:33:56Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-4-lumanari-rosii-drepte-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-cina-ocazii-speciale-copie-397345.jpg?v=1780690136
   Price: 40,00 lei RON
 - [Set 4 Lumanari negre conice de 25 cm - Lumanari | CraftMystic](https://www.craftmystic.ro/products/set-4-lumanari-negre-conice-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-decor-ocazii-speciale): Set 4 Lumanari negre conice de 25 cm - Lumanari fara picurare si fara parfum - Perfecte ca. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:32Z
+  Updated: 2026-07-27T03:47:36Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-4-lumanari-albe-drepte-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-cina-ocazii-speciale-copie-961484.jpg?v=1780690137
   Price: 40,00 lei RON
 - [Turn de cristal din Turmalina Roz 9-10 cm Bagheta | CraftMystic](https://www.craftmystic.ro/products/turn-de-cristal-din-turmalina-roz-9-10-cm-bagheta-cu-6-fete-pentru-vindecare-meditatie-si-decor-in-casa-si-birou): Turn din turmalină roz natural, 9-10 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:48:56Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/obelisc-de-cristal-natural-fluorita-dublu-varf-9-10-cm-cristalul-lustruit-pentru-concentrare-curatarea-energiei-si-echilibrarea-chakrei-celui-de-al-tr-766186.jpg?v=1780690137
   Price: 97,00 lei RON
 - [Bratara din pietre semipretioase 8mm Ametist | CraftMystic](https://www.craftmystic.ro/products/bratara-din-pietre-semipretioase-8mm-ametist-pandativ-cu-arborele-vietii): Brățară din ametist natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-27T21:45:32Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-deosebita-cu-ametist-natural-8mm-pandativ-arborele-vietii-922925.jpg?v=1780690137
   Price: 70,00 lei RON
 - [Turn de 9-10 cm din cristal semipretios vindecator | CraftMystic](https://www.craftmystic.ro/products/turn-de-9-10-cm-din-cristal-semipretios-vindecator-hexagonal-obsidian-obelisc-pentru-meditatie): Turn din obsidian natural, 9-10 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:42:28Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-de-cristal-vindecator-obsidian-7-8-cm-6377663365.jpg?v=1780690137
   Price: 87,00 lei RON
 - [Set 4 Lumanari drepte verde lime de 25 cm | CraftMystic](https://www.craftmystic.ro/products/set-4-lumanari-drepte-verde-lime-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-cina-ocazii-speciale): Set 4 Lumanari drepte verde lime de 25 cm - Lumanari fara picurare si fara parfum - Perfecte. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:32Z
+  Updated: 2026-07-24T07:32:26Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-4-lumanari-negre-conice-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-decor-ocazii-speciale-copie-611373.jpg?v=1780690137
   Price: 40,00 lei RON
 - [Turn de cristal din Obsidian Negru 9-10 cm cu cele | CraftMystic](https://www.craftmystic.ro/products/turn-de-cristal-din-obsidian-negru-9-10-cm-cu-cele-7-chakre-bagheta-hexagonala-pentru-vindecare-reiki-si-decor-pentru-casa-si-birou): Turn din obsidian natural, 9-10 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:32Z
+  Updated: 2026-07-24T07:48:51Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-de-cristal-din-turmalina-roz-9-10-cm-bagheta-cu-6-fete-pentru-vindecare-meditatie-si-decor-in-casa-si-birou-copie-508260.jpg?v=1780690137
   Price: 97,00 lei RON
 - [Bratara lucrata manual cu cristale 8mm naturale | CraftMystic](https://www.craftmystic.ro/products/bratara-lucrata-manual-cu-cristale-8mm-naturale-de-ametist-si-roca-vulcanica-pentru-femei-protectie-energetica-pentru-noroc-si-echilibru): Bratara lucrata manual cu cristale 8mm naturale de ametist si roca vulcanica - Pentru femei. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:02Z
+  Updated: 2026-07-24T07:36:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/natural-crystal-amethyst-black-lava-hand-woven-bracelet-8mm-466713.jpg?v=1780690138
   Price: 70,00 lei RON
 - [Bratara cu Margele de 8mm din Cristale | CraftMystic](https://www.craftmystic.ro/products/bratara-cu-margele-de-8mm-din-cristale-semipretioase-onyx-negru-curea-de-mana-reglabila-pentru-incheietura-mainii-eliminator-de-energie-negativa): Brățară din onix natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:02Z
+  Updated: 2026-07-28T10:15:22Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-din-pietre-semipretioase-8mm-lapis-lazuli-lucrata-manual-bratara-stretch-cu-margele-copie-169686.jpg?v=1780690138
   Price: 52,00 lei RON
 - [Set 4 Lumanari negre spirala de 25 cm - Lumanari | CraftMystic](https://www.craftmystic.ro/products/set-4-lumanari-negre-spirala-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-cina-ocazii-speciale): Set 4 Lumanari negre spirala de 25 cm - Lumanari fara picurare si fara parfum - Perfecte ca. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:33Z
+  Updated: 2026-07-24T07:43:15Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-4-lumanari-negre-spirala-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-cina-ocazii-speciale-124669.jpg?v=1780690138
   Price: 42,00 lei RON
 - [Turn cristal natural Kianit albastru 9 -10 cm | CraftMystic](https://www.craftmystic.ro/products/turn-cristal-natural-kianit-albastru-9-10-cm-punct-energetic-pentru-meditatie-si-alinierea-chakrelor): Turn din kyanit albastru natural, 9-10 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:39:46Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-de-cristal-din-obsidian-negru-9-10-cm-cu-cele-7-chakre-bagheta-hexagonala-pentru-vindecare-reiki-si-decor-pentru-casa-si-birou-copie-913985.jpg?v=1780690138
   Price: 159,00 lei RON
 - [Set 2 bratari elastice cu margele pietre | CraftMystic](https://www.craftmystic.ro/products/set-2-bratari-elastice-cu-margele-pietre-semipretioase-de-8-mm-din-frunza-agata-de-bambus-si-amazonit): Brățară din agat natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:33Z
+  Updated: 2026-07-24T07:53:37Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-2-bratari-natural-gem-8mm-round-bead-elastic-bracelet-859458.jpg?v=1780690139
   Price: 80,00 lei RON
 - [Set 3 Bratari cu Tripla Protectie, Bratara | CraftMystic](https://www.craftmystic.ro/products/set-3-bratari-cu-tripla-protectie-bratara-cu-margele-de-cristal-vindecator-de-8-mm-bratara-din-obsidian-hematit-ochi-de-tigru-albastru-rosu-pentru-femei-si-barbati): Brățară din hematit natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:33Z
+  Updated: 2026-07-26T13:44:46Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-2-bratari-din-turmalina-neagra-cu-margele-de-6-si-8-mm-aduce-noroc-pace-si-dragoste-cadou-feng-shui-pentru-prieteni-familie-copie-860231.jpg?v=1780690139
   Price: 102,00 lei RON
 - [Set 4 Lumanari albe spirala de 25 cm - Lumanari | CraftMystic](https://www.craftmystic.ro/products/set-4-lumanari-albe-spirala-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-cina-ocazii-speciale): Set 4 Lumanari albe spirala de 25 cm - Lumanari fara picurare si fara parfum - Perfecte ca. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T14:59:33Z
+  Updated: 2026-07-24T07:45:46Z
   Vendor: CraftMystic
   Product Type: Instrumente și Accesorii Spirituale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-4-lumanari-negre-spirala-de-25-cm-lumanari-fara-picurare-si-fara-parfum-perfecte-ca-lumanari-pentru-cina-ocazii-speciale-copie-481952.jpg?v=1780690139
   Price: 42,00 lei RON
 - [Piramida Orgonica 8 cm cu Sfera si cristale Ochi | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-8-cm-cu-sfera-si-cristale-ochi-de-tigru-atrage-abundenta-si-energie-pozitiva-in-viata-ta): Piramida Orgonica 8 cm cu Sfera si cristale Ochi de Tigru: Atrage Abundenta si Energie. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:59:07Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/piramida-orgonica-cu-cristale-vindecatoare-ochi-de-tigru-floare-de-lotus-si-sfera-din-cristal-transparent-8-cm-promoveaza-bogatia-prosperitatea-si-atr-269805.jpg?v=1780690139
   Price: 199,00 lei RON
 - [Cristal natural unicat de vindecare Turmalina neagra pietre](https://www.craftmystic.ro/products/cristal-natural-unicat-de-vindecare-turmalina-neagra-pietre-brute-4-6-cm-pentru-energie-pozitiva-protectie): Turmalina Neagra Naturala: Primiti un unicat - cristalul natural de vindecare cu turmalina neagra.
-  Updated: 2026-07-18T14:15:16Z
+  Updated: 2026-07-28T16:22:31Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
@@ -1503,35 +1439,35 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cristal-natural-unicat-de-vindecare-turmalina-neagra-pietre-brute-4-6-cm-pentru-energie-pozitiva-protectie-593541_0a38b892-d98a-472a-9901-d9273101611d.jpg?v=1780909303
     Price: 15,00 lei RON
 - [Cercei cu cristal vindecator ametist brut | CraftMystic](https://www.craftmystic.ro/products/cercei-cu-cristal-vindecator-ametist-brut-pentru-femei-bijuterii-cu-metal-placat-auriu-pentru-constientizare-si-pace-spirituala): Cercei din ametist natural, alamă placată auriu. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:33Z
+  Updated: 2026-07-28T10:30:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-ametist-cu-galben-027171.jpg?v=1780690140
   Price: 62,00 lei RON
 - [Bratara elastica cu margele de onix negru | CraftMystic](https://www.craftmystic.ro/products/bratara-elastica-cu-margele-de-onix-negru-stralucitor-natural-de-6-mm-adevar-forta-bratara-unisex-cu-margele-neagra-de-inalta-calitate-pentru-barbati-si-femei-dimensiune-reglabila): Brățară din onix natural, 6 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T15:00:27Z
+  Updated: 2026-07-24T07:39:40Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-din-pietre-semipretioase-8mm-lapis-lazuli-lucrata-manual-bratara-stretch-cu-margele-copie-981483.jpg?v=1780690140
   Price: 42,00 lei RON
 - [Bratara cu pietre semipretioase margele 8mm ochi | CraftMystic](https://www.craftmystic.ro/products/bratara-cu-pietre-semipretioase-margele-8mm-ochi-de-tigru-si-inima-vindecare-echilibru-si-dragoste-pentru-tine-si-cei-dragi): Brățară din ochi de tigru natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T09:30:28Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-zen-cu-pietre-semipretioase-ametist-si-pandantiv-scluptat-in-forma-de-inima-bratara-feng-shui-pentru-meditatie-liniste-echilibru-copie-061462.jpg?v=1780690140
   Price: 63,00 lei RON
 - [Cercei cu carlig cu piatra de cristal ametist | CraftMystic](https://www.craftmystic.ro/products/cercei-cu-carlig-cu-piatra-de-cristal-ametist-polisat-bijuterii-pentru-femei): Cercei din ametist natural, argint 925. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:56:11Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-tourmaline-zsc20-1-870451.jpg?v=1780690141
   Price: 50,00 lei RON
 - [Cristal natural unicat Cuart Roz pietre brute 7-8 cm](https://www.craftmystic.ro/products/cristal-natural-unicat-cuart-roz-pietre-brute-3-4-cm-pietre-semipretioase-de-vindecare): Cuart Roz Natural: Descoperiti un cristal deosebit - Cuart Roz natural, piesa unica de vindecare, cu o greutate si o lungime specifica fiecarei piese.
-  Updated: 2026-07-15T12:30:29Z
+  Updated: 2026-07-28T16:45:27Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
@@ -1557,28 +1493,28 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cristal-natural-unicat-de-vindecare-turmalina-neagra-pietre-brute-8-9-cm-pentru-energie-pozitiva-protectie-copie-050107.jpg?v=1780690141
     Price: 15,00 lei RON
 - [Bratara din cristal natural acvamarin | CraftMystic](https://www.craftmystic.ro/products/bratara-din-cristal-natural-acvamarin-pentru-barbati-si-femei-bratara-elastica-cu-margele-de-6mm-acvamarin-natural-aduce-noroc-cadouri-pentru-ziua-mamei): Bratara din cristal natural acvamarin pentru barbati si femei - Bratara elastica cu margele. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:49:57Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-de-cristal-cu-margele-8mm-cu-malachit-pirit-piatra-de-sange-si-piatra-de-granat-bratari-spirituale-si-chakre-pentru-femei-si-barbati-pentru-no-739809.jpg?v=1780690141
   Price: 70,00 lei RON
 - [Turn din cristal natural Malachit 6-7 cm: Energie | CraftMystic](https://www.craftmystic.ro/products/turn-din-cristal-natural-malachit-6-7-cm-energie-purificatoare-si-transformarea-vietii-tale): Turn din malachit natural, 6-7 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:47:12Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-cristal-natural-kianit-albastru-9-10-cm-punct-energetic-pentru-meditatie-si-alinierea-chakrelor-copie-820630.jpg?v=1780690141
   Price: 159,00 lei RON
 - [Cercei din scoici Abalone cu invelis din sarma | CraftMystic](https://www.craftmystic.ro/products/cercei-din-scoici-abalone-cu-invelis-din-sarma-placata-in-culoarea-argintului-sub-forma-de-arborele-vietii): Cercei din scoici Abalone cu invelis din sarma placata in culoarea argintului sub forma. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:52:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-abalone-762892.jpg?v=1780690142
   Price: 82,00 lei RON
 - [Cristal natural unicat Aventurin Verde pietre brute | CraftMystic](https://www.craftmystic.ro/products/cristal-natural-unicat-aventurin-verde-pietre-brute-8-9-cm-pietre-semipretioase-pentru-echilibru-si-calmare-emotionala): Cristal natural unicat Aventurin Verde pietre brute 8-9 cm - Pietre semipretioase. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:49:39Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
@@ -1604,42 +1540,42 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cristal-natural-unicat-aventurin-verde-pietre-brute-9-cm-pietre-semipretioase-pentru-echilibru-si-calmare-emotionala-006620_30663e83-b4cd-4349-8b89-77ca58fa109c.jpg?v=1780909308
     Price: 89,25 lei RON
 - [Turn din cristal natural Amazonit 9-10 cm: Armonie | CraftMystic](https://www.craftmystic.ro/products/turn-din-cristal-natural-amazonit-9-10-cm-armonie-echilibru-si-protectie-intr-o-singura-piatra-semipretioasa): Turn din amazonit natural, 9-10 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:53:05Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-din-cristal-natural-malachit-6-7-cm-energie-purificatoare-si-transformarea-vietii-tale-copie-168655.jpg?v=1780690142
   Price: 97,00 lei RON
 - [Bratara reglabila cu mini margele piatra | CraftMystic](https://www.craftmystic.ro/products/bratara-reglabila-cu-mini-margele-piatra-semipretioasa-naturala-calcedonia): Brățară din calcedonie alb natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-28T15:30:37Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-reglabila-cu-mini-margele-piatra-semipretioasa-naturala-calcedonia-580074.jpg?v=1780690142
   Price: 32,00 lei RON
 - [Bratara cu margele 8mm din cristale naturale | CraftMystic](https://www.craftmystic.ro/products/bratara-cu-margele-8mm-din-cristale-naturale-obsidian-negru-si-selenit-pentru-dragoste): Bratara cu margele 8mm din cristale naturale Obsidian negru si selenit pentru dragoste. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:33Z
+  Updated: 2026-07-28T16:30:22Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-curcubeu-din-cristale-semipretiose-fluorit-9mm-cadou-bijuterii-cristal-chakra-natural-copie-973759.jpg?v=1780690143
   Price: 52,00 lei RON
 - [Colier realizat manual cu dubla utilizare si 108 margele](https://www.craftmystic.ro/products/colier-mala-realizat-manual-cu-dubla-utilizare-si-108-margele-naturale-semipretioase-7-chakre-pentru-yoga-meditatie): Colier pentru echilibrarea chakrelor: Acest colier chakra este conceput pentru a stimula fluxul de energie al corpului și pentru a echilibra aura.
-  Updated: 2026-07-21T14:59:34Z
+  Updated: 2026-07-24T07:31:06Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-zsc20-11-864908.jpg?v=1780690143
   Price: 142,00 lei RON
 - [Bratara cu pietre semipretioase margele 8mm ochi | CraftMystic](https://www.craftmystic.ro/products/bratara-cu-pietre-semipretioase-margele-8mm-ochi-de-lapis-lazuli-natural-cu-pigment-culoare-calmarea-stresului-si-a-anxietatii): Brățară din lapis lazuli natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:56:56Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-cu-pietre-semipretioase-margele-8mm-ochi-de-tigru-si-inima-vindecare-echilibru-si-dragoste-pentru-tine-si-cei-dragi-copie-611353.jpg?v=1780690144
   Price: 68,00 lei RON
 - [Cristal natural unicat Citrin pietre brute 8-9 cm](https://www.craftmystic.ro/products/cristal-natural-unicat-citrin-pietre-brute-6-7-cm-pietre-semipretioase-pentru-optimism-creativitate-motivatie): Cristal Natural de Citrin: Exploreaza splendoarea si energia pozitiva a Citrinului, aceasta piatra semipretioasa bruta, unica in natura.
-  Updated: 2026-07-21T13:34:20Z
+  Updated: 2026-07-28T10:45:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
@@ -1669,550 +1605,646 @@
     Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cristal-natural-unicat-aventurin-verde-pietre-brute-9-cm-pietre-semipretioase-pentru-echilibru-si-calmare-emotionala-copie-318270_d8f62273-b839-452f-95e6-ec062edb27f8.jpg?v=1780909290
     Price: 30,00 lei RON
 - [Colier cu pandantiv 16mm din cinabru natural | CraftMystic](https://www.craftmystic.ro/products/colier-cu-pandantiv-16mm-din-cinabru-natural-amuleta-de-vindecare-spirituala-impotriva-chakrei-rele-pandantiv-reglabil): Colier din cinabru natural, 16 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:37:46Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/pandantiv-in-forma-de-inima-cu-pietre-naturale-semipretioase-naturale-mixte-chakra-cu-ton-auriu-copie-826632.jpg?v=1780690143
   Price: 78,00 lei RON
 - [Cercei cu piatra semipretioasa naturala onyx negru | CraftMystic](https://www.craftmystic.ro/products/cercei-cu-piatra-semipretioasa-naturala-onyx-negru-forma-geoda-cu-metal-placat-argintiu): Cercei din onix natural, argint 925. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:32:27Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-onyx-zsc20-4-360435.jpg?v=1780690144
   Price: 102,00 lei RON
 - [Turn din cristal natural unicat Jasp Bondar 8-9 cm | CraftMystic](https://www.craftmystic.ro/products/turn-din-cristal-natural-unicat-jasp-bondar-8-9-cm-protectie-si-echilibru): Turn din jasp bondar natural, 8-9 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:02Z
+  Updated: 2026-07-24T07:54:46Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turnul-de-cristal-natural-apatit-albastru-9-10-cm-bagheta-de-vindecare-naturala-cu-6-fete-pentru-meditatie-profunda-echilibrarea-chakrelor-si-terapia-482882.jpg?v=1780690144
   Price: 167,00 lei RON
 - [Set 28 piese cu cristale vindecatoare naturale | CraftMystic](https://www.craftmystic.ro/products/set-28-piese-cu-cristale-vindecatoare-naturale-contine-14-cristale-naturale-polisate-si-7-pietre-brute-sfera-pendul-selenit-bratara-colier-cristal-stanca-pietre-sparte): Pendul din selenit natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:34Z
+  Updated: 2026-07-27T07:43:13Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cristale-naturale-si-pietre-naturale-vindecatoare-chakra-set-complet-din-34-piese-pentru-meditatie-spiritualitate-selenit-lapis-citrine-ametist-copie-784378.jpg?v=1780690144
   Price: 249,00 lei RON
 - [Bratara cu pietre semipretioase margele 8mm ochi | CraftMystic](https://www.craftmystic.ro/products/bratara-cu-pietre-semipretioase-margele-8mm-ochi-de-labradorit-echilibru-si-armonie): Bratara cu pietre semipretioase margele 8mm ochi de Labradorit : Echilibru si armonie. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T19:30:36Z
+  Updated: 2026-07-24T07:31:56Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-cu-pietre-semipretioase-margele-8mm-ochi-de-labradorit-echilibru-si-armonie-945105.jpg?v=1780690144
   Price: 57,00 lei RON
 - [Cercei cu piatra semipretioasa naturala onyx | CraftMystic](https://www.craftmystic.ro/products/cercei-cu-piatra-semipretioasa-naturala-onyx-deschis-forma-geoda-cu-metal-placat-argintiu): Cercei din onix natural, argint 925. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:48:56Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-onyx-deschis-zsc20-4b-922257.jpg?v=1780690145
   Price: 102,00 lei RON
 - [Set bratara pentru mana si picior cu cristal | CraftMystic](https://www.craftmystic.ro/products/set-bratara-pentru-mana-si-picior-cu-cristal-natural-cinabru-feng-shui): Brățară din cinabru natural. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:34Z
+  Updated: 2026-07-24T07:33:48Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-cu-pandantiv-16mm-din-cinabru-natural-amuleta-de-vindecare-spirituala-impotriva-chakrei-rele-pandantiv-reglabil-copie-302178.jpg?v=1780690144
   Price: 52,00 lei RON
 - [Turn din cristal natural unicat Carneol Agat 9-10 | CraftMystic](https://www.craftmystic.ro/products/turn-din-cristal-natural-unicat-carneol-agat-9-10-cm-echilibru-emotional-imbunatateste-concentrarea): Turn din cristal natural unicat Carneol Agat 9-10 cm - Echilibru emotional, imbunatateste. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:34Z
+  Updated: 2026-07-24T07:47:16Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-din-cristal-natural-unicat-jasp-bondar-8-9-cm-protectie-si-echilibru-copie-236627.jpg?v=1780690145
   Price: 119,00 lei RON
 - [Turn din cristal natural Onyx Agat negru 9-10 cm | CraftMystic](https://www.craftmystic.ro/products/turn-din-cristal-natural-onyx-agat-negru-9-10-cm-un-obiect-elegant-si-puternic-pentru-protectie-si-vitalitate): Turn din onix natural, 9-10 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:51:17Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-din-cristal-natural-onyx-agat-negru-9-10-cm-un-obiect-elegant-si-puternic-pentru-protectie-si-vitalitate-094121.jpg?v=1780690145
   Price: 97,00 lei RON
 - [Copacel 12 cm din cristale semipretioase Citrin | CraftMystic](https://www.craftmystic.ro/products/copacel-12-cm-din-cristale-semipretioase-citrin-si-baza-de-agat-aduce-claritate-mentala-prosperitate-securitate): Copacel 12 cm din cristale semipretioase Citrin si baza de agat - Aduce claritate mentala. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:35Z
+  Updated: 2026-07-24T07:48:07Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/arborele-vietii-18-cm-cu-cristale-semipretioase-cuart-roz-bonsai-de-cristal-cu-162-mini-pietre-si-baza-din-cuart-roz-pentru-bani-feng-shui-noroc-copie-578831.jpg?v=1780690145
   Price: 99,00 lei RON
 - [Bratara cu tripla protectie Ochi de tigru, onix | CraftMystic](https://www.craftmystic.ro/products/bratara-cu-tripla-protectie-ochi-de-tigru-onix-negru-mat-si-roca-vulcanica-margele-de-8-mm-realizata-manual-pentru-barbati-si-femei-aduce-noroc-prosperitate-si-fericire): Brățară din ochi de tigru natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:35Z
+  Updated: 2026-07-27T07:45:28Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-energetica-cu-tripla-protectie-zsc20-12-903715.jpg?v=1780690146
   Price: 70,00 lei RON
 - [Turn din cristal natural unicat Carneol 9-10 cm | CraftMystic](https://www.craftmystic.ro/products/turn-din-cristal-natural-unicat-carneol-9-10-cm-ajuta-la-echilibrarea-emotiilor-ameliorarea-stresului-si-stimularea-claritatii-mentale): Turn din cristal natural unicat Carneol 9-10 cm - Ajuta la echilibrarea emotiilor, ameliorarea. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:02Z
+  Updated: 2026-07-24T07:31:31Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-din-cristal-natural-unicat-jasp-bondar-8-9-cm-protectie-si-echilibru-copie-127407.jpg?v=1780690146
   Price: 85,05 lei RON
 - [Bratara cu tripla protectie margele 8 mm cu "Ochiul | CraftMystic](https://www.craftmystic.ro/products/bratara-cu-tripla-protectie-margele-8-mm-cu-ochiul-rau-obsidian-negru-si-hematit-aduce-noroc-si-bogatie): Brățară din hematit natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:35Z
+  Updated: 2026-07-24T15:00:34Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-energetica-cu-tripla-protectie-zsc20-16-215231.jpg?v=1780690146
   Price: 82,00 lei RON
 - [Turn din cristal natural unicat Acvamarin 9-10 cm | CraftMystic](https://www.craftmystic.ro/products/turn-din-cristal-natural-unicat-acvamarin-9-10-cm-cunoscut-ca-piatra-curajului-si-a-comunicarii-clare): Turn din acvamarin natural, 9-10 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:02Z
+  Updated: 2026-07-24T07:53:58Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-din-cristal-natural-unicat-carneol-9-10-cm-ajuta-la-echilibrarea-emotiilor-ameliorarea-stresului-si-stimularea-claritatii-mentale-copie-301802.jpg?v=1780690147
   Price: 159,00 lei RON
 - [Bratara tripla protectie cu margele 8mm din 3 pietre](https://www.craftmystic.ro/products/bratara-tripla-protectie-cu-margele-8mm-din-3-pietre-semipretioase-ochi-de-tigru-albastru-hematita-si-obsidian): Bratara cu Tripla Protectie: Ochiul de Tigru Albastru poate aduce noroc si prosperitate, atragand bogatia.
-  Updated: 2026-07-21T14:59:35Z
+  Updated: 2026-07-26T07:20:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-tripla-protectie-cu-margele-8mm-din-3-pietre-semipretioase-ochi-de-tigru-albastru-hematita-si-obsidian-012059.jpg?v=1780690147
   Price: 82,00 lei RON
 - [Turn cristal natural Calcit Portocaliu 12-15 cm | CraftMystic](https://www.craftmystic.ro/products/turn-cristal-natural-calcit-portocaliu-12-15-cm-proprietati-de-echilibrare-emotionala-imbunatatire-a-starii-de-spirit-si-stimulare-a-creativitatii): Turn cristal natural Calcit Portocaliu 12-15 cm - Proprietati de echilibrare emotionala. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:48:32Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-din-cristal-natural-unicat-acvamarin-9-10-cm-cunoscut-ca-piatra-curajului-si-a-comunicarii-clare-copie-927601.jpg?v=1780690147
   Price: 289,00 lei RON
 - [Set 2 bratari cu tripla protectie cu margele 8mm | CraftMystic](https://www.craftmystic.ro/products/set-2-bratari-cu-tripla-protectie-cu-margele-8mm-din-ochi-de-tigru-obsidian-negru-si-hematit-pentru-barbati-femei-copii-lucrate-manual-aduc-noroc-prosperitate-si-fericire): Brățară din hematit natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:35Z
+  Updated: 2026-07-24T07:35:17Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-2-bratara-energetica-zsc20-19-762608.jpg?v=1780690148
   Price: 92,00 lei RON
 - [Bratara din piatra semipretioasa Ochi de Tigru Rosu | CraftMystic](https://www.craftmystic.ro/products/bratara-din-piatra-semipretioasa-ochi-de-tigru-rosu-dragons-eye-stimulare-incredere-si-armonie-intr-un-accesoriu-atragator): Bratara din piatra semipretioasa Ochi de Tigru Rosu Dragon's Eye - Stimulare, Incredere. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:33:55Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-din-piatra-semipretioasa-ochi-de-tigru-rosu-dragon-s-eye-stimulare-incredere-si-armonie-intr-un-accesoriu-atragator-426225.jpg?v=1780690147
   Price: 60,00 lei RON
 - [Set 2 bratari din turmalina neagra cu margele | CraftMystic](https://www.craftmystic.ro/products/set-2-bratari-din-turmalina-neagra-cu-margele-de-6-si-8-mm-aduce-noroc-pace-si-dragoste-cadou-feng-shui-pentru-prieteni-familie): Brățară din turmalină neagră natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T15:00:36Z
+  Updated: 2026-07-28T17:00:22Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-2-bratari-din-turmalina-neagra-cu-margele-de-6-si-8-mm-aduce-noroc-pace-si-dragoste-cadou-feng-shui-pentru-prieteni-familie-789359.jpg?v=1780690148
   Price: 82,00 lei RON
 - [Colier cu pandativ din Ametist natural invelit cu sarma](https://www.craftmystic.ro/products/colier-mala-cu-pandativ-din-ametist-natural-invelit-cu-sarma-model-arborele-vietii-si-margele-8mm-cadou-pentru-mame-iubita): Energie vindecatoare si design unic: Acest colier cu pandantiv este realizat manual si prezinta un design frumos si unic.
-  Updated: 2026-07-06T18:17:26Z
+  Updated: 2026-07-24T07:48:26Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-zsc20-6-321085.jpg?v=1780690149
   Price: 142,00 lei RON
 - [Cercei aripi de inger din piatra semipretioasa | CraftMystic](https://www.craftmystic.ro/products/cercei-aripi-de-inger-din-piatra-semipretioasa-fluorit-3-cm): Cercei din fluorit natural, argint 925, 3 cm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:25:01Z
+  Updated: 2026-07-24T07:54:52Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-zsc20-6-copie-259762.jpg?v=1780690150
   Price: 62,00 lei RON
 - [Bratara tripla protectie cu pietre semipretioase | CraftMystic](https://www.craftmystic.ro/products/bratara-tripla-protectie-cu-pietre-semipretioase-6mm-ametist-hematit-si-obsidian-negru-imbunatateste-carisma-norocul-si-fericirea): Brățară din ametist natural, 6 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:36Z
+  Updated: 2026-07-28T19:06:37Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-energetica-cu-tripla-protectie-zsc20-14-241458.jpg?v=1780690150
   Price: 80,00 lei RON
 - [Bratara de tripla protectie lucrata manual | CraftMystic](https://www.craftmystic.ro/products/bratara-de-tripla-protectie-lucrata-manual-din-piatra-fatetata-naturala-hematita-ochi-de-tigru-si-obsidian-negru-8mm-cadouri-spirituale-pentru-curaj): Brățară din hematit natural, 8 mm. Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:36Z
+  Updated: 2026-07-24T10:22:04Z
   Vendor: CraftMystic
   Product Type: Bijuterii Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-energetica-cu-tripla-protectie-zsc20-18-009081.jpg?v=1780690170
   Price: 82,00 lei RON
 - [Pendul din Labradorit Natural cu Punct Hexagonal Instrument](https://www.craftmystic.ro/products/pendul-din-labradorit-natural-cu-punct-hexagonal-instrument-precis-pentru-reiki-si-chakra): Despre Labradorit: Nascut in adancurile pamantului, labradoritul este cunoscut pentru reflectiile  fascinante de culoare, adesea asemanate cu...
-  Updated: 2026-07-06T18:17:31Z
+  Updated: 2026-07-27T16:15:36Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/pendul-labradorit-247491.jpg?v=1780690170
   Price: 59,00 lei RON
 - [Piramida Orgonica de 11.5 cm cu 7 Pietre Naturale | CraftMystic](https://www.craftmystic.ro/products/piramida-orgonica-de-11-5-cm-cu-7-pietre-naturale-pentru-cele-7-chakre-si-simbolul-floarea-vietii-protectie-impotriva-radiatiilor-emf-si-amplificare-a-energiei-pozitive): Piramida Orgonica de 11.5 cm cu 7 Pietre Naturale pentru Cele 7 Chakre si Simbolul 'Floarea. Atent selectate, showroom în București, livrare rapidă.
-  Updated: 2026-07-21T17:32:06Z
+  Updated: 2026-07-24T07:37:59Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/set-piramida-orgonica-6-5-cm-si-colier-7-chakre-piramida-orgonica-pentru-vindecare-energetica-protectie-emf-copie-284164.jpg?v=1780690171
   Price: 199,00 lei RON
 - [Ramurica Decorativa DIY cu Pietre Naturale Cuart | CraftMystic](https://www.craftmystic.ro/products/ramurica-decorativa-diy-cu-pietre-naturale-cuart-roz-9-pietricele): Ramurica Decorativa DIY cu Pietre Naturale Cuart Roz (9 Pietricele). Cristale naturale atent selectate, showroom în București.
-  Updated: 2026-07-21T14:59:36Z
+  Updated: 2026-07-24T07:37:17Z
   Vendor: CraftMystic
   Product Type: Cristale Semiprețioase
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/ramura-pietre-naturale-cuart-roz-638736.png?v=1780690171
   Price: 18,00 lei RON
-[List Continued](https://www.craftmystic.ro/a/llms-agent/llms.txt?shop=kc0m5r-mi.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTcwNjM4MDA3NTMzOCwibGFzdF92YWx1ZSI6IjE1NzA2MzgwMDc1MzM4In0%3D)
+- [Varf de Cristal 6 cm pentru cele 12 zodii - Pietre | CraftMystic](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit): Varf de Cristal 6 cm pentru cele 12 zodii - Pietre semipretioase specifice zodiei Berbec. Atent selectate, showroom în București, livrare rapidă.
+  Updated: 2026-07-24T07:55:56Z
+  Vendor: CraftMystic
+  Product Type: Cristale Semiprețioase
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-526229.jpg?v=1780690171
+  - [Berbec](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142421834)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-526229.jpg?v=1780690171
+    Price: 67,00 lei RON
+  - [Pești](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142454602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-243200.jpg?v=1780690172
+    Price: 67,00 lei RON
+  - [Vărsător](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142487370)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-823360.jpg?v=1780690172
+    Price: 67,00 lei RON
+  - [Capricorn](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142520138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-104106.jpg?v=1780690171
+    Price: 67,00 lei RON
+  - [Săgetător](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142552906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-667908.jpg?v=1780690171
+    Price: 67,00 lei RON
+  - [Scorpion](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142585674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-310900.jpg?v=1780690172
+    Price: 67,00 lei RON
+  - [Balanță](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142618442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-008935.jpg?v=1780690172
+    Price: 67,00 lei RON
+  - [Fecioară](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142651210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-585380.jpg?v=1780690171
+    Price: 67,00 lei RON
+  - [Leu](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142683978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-344191.jpg?v=1780690171
+    Price: 67,00 lei RON
+  - [Rac](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142716746)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-008849.jpg?v=1780690172
+    Price: 67,00 lei RON
+  - [Gemeni](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142749514)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-554596.jpg?v=1780690172
+    Price: 67,00 lei RON
+  - [Taur](https://www.craftmystic.ro/products/varf-de-cristal-6-cm-pentru-cele-12-zodii-pietre-semipretioase-specifice-zodiei-berbec-un-cadou-deosebit?variant=62005142782282)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/turn-hexagonal-dublu-varf-din-obsidian-negru-inaltime-de-7-9-cm-cristal-de-protectie-puternic-care-actioneaza-ca-un-scut-impotriva-negativitatii-si-a-551698.jpg?v=1780690172
+    Price: 67,00 lei RON
+- [Colier Mala din Roca Vulcanica Naturala 8MM cu 108 | CraftMystic](https://www.craftmystic.ro/products/colier-mala-din-roca-vulcanica-naturala-8mm-cu-108-margele): Colier Mala din Roca Vulcanica Naturala 8MM cu 108 margele. Atent selectate, showroom în București, livrare rapidă.
+  Updated: 2026-07-24T07:56:43Z
+  Vendor: CraftMystic
+  Product Type: Bijuterii Semiprețioase
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-mala-roca-vulcanica-108-583687.png?v=1780690172
+  Price: 122,00 lei RON
+- [Cercei cu pietre semipretioase naturale | CraftMystic](https://www.craftmystic.ro/products/cercei-cu-pietre-semipretioase-naturale-din-turmalina-polisate-pentru-femei): Cercei din turmalină multicoloră natural, cupru. Cristale naturale atent selectate, showroom în București.
+  Updated: 2026-07-27T12:30:21Z
+  Vendor: CraftMystic
+  Product Type: Bijuterii Semiprețioase
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/cercei-ametist-zsc20-1b-661341.jpg?v=1780690171
+  Price: 50,00 lei RON
+- [Pandantiv 4.5 cm de Vindecare a Chakrelor Orgonic | CraftMystic](https://www.craftmystic.ro/products/pandantiv-4-5-cm-de-vindecare-a-chakrelor-orgonic-cu-snur-colier-cu-7-pietre-ale-chakrelor-pentru-protectia-energetica-si-vindecare-spirituala): Colier din acvamarin natural, 4.5 cm. Cristale naturale atent selectate, showroom în București.
+  Updated: 2026-07-28T19:30:36Z
+  Vendor: CraftMystic
+  Product Type: Bijuterii Semiprețioase
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/pandantiv-4-5-cm-de-vindecare-a-chakrelor-orgonic-cu-snur-colier-cu-7-pietre-ale-chakrelor-pentru-protectia-energetica-si-vindecare-spirituala-619362.png?v=1780690172
+  Price: 70,00 lei RON
+- [Ramurica DIY din Pietre Naturale Cuart Transparent | CraftMystic](https://www.craftmystic.ro/products/ramurica-diy-din-pietre-naturale-cuart-transparent-9-pietricele): Ramurica DIY din Pietre Naturale Cuart Transparent (9 Pietricele). Cristale naturale atent selectate, showroom în București.
+  Updated: 2026-07-26T06:37:27Z
+  Vendor: CraftMystic
+  Product Type: Cristale Semiprețioase
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/ramura-pietre-naturale-cuart-transparent-794367.png?v=1780690172
+  Price: 18,00 lei RON
+- [Colier Mala cu Turcoaz si 7 Chakre Colier Autentic din Jad](https://www.craftmystic.ro/products/colier-mala-cu-turcoaz-si-7-chakre-colier-autentic-din-jad-piatra-sacralizata-pentru-echilibru-si-liniste): Jadul Cerului in Fiecare Margea: Turcoazul, cunoscut si ca "bijuteria cerului", este recunoscut pentru proprietatile  spirituale si estetice...
+  Updated: 2026-07-24T14:45:15Z
+  Vendor: CraftMystic
+  Product Type: Bijuterii Semiprețioase
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/colier-mala-turcoaz-108-533289.jpg?v=1780690172
+  Price: 142,00 lei RON
+- [Bratara energetica cu tripla protectie, realizata | CraftMystic](https://www.craftmystic.ro/products/bratara-energetica-cu-tripla-protectie-realizata-din-pietre-semipretioase-obsidian-ochi-de-tigru-galben-si-ochi-de-tigru-albastru-de-8-mm-bratara-pentru-noroc-protectie-stare-de-bine): Brățară din obsidian natural, 8 mm. Cristale naturale atent selectate, showroom în București.
+  Updated: 2026-07-28T10:30:36Z
+  Vendor: CraftMystic
+  Product Type: Bijuterii Semiprețioase
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1029/7249/0058/files/bratara-energetica-cu-tripla-protectie-realizata-din-pietre-semipretioase-hematit-ochi-de-tigru-galben-si-ochi-de-tigru-albastru-de-8-mm-bratara-pentr-544127.jpg?v=1780690172
+  Price: 58,00 lei RON
+[List Continued](https://www.craftmystic.ro/a/llms-agent/llms.txt?shop=kc0m5r-mi.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTcwNjM4MDMzNzQ4MiwibGFzdF92YWx1ZSI6IjE1NzA2MzgwMzM3NDgyIn0%3D)
 
 ## Collections
 
 - [Home page](https://www.craftmystic.ro/collections/frontpage): Descoperă cristale semiprețioase vindecătoare, pietre naturale, bijuterii personalizate și accesorii spirituale. Calitate garantată. Livrare în toată România.
   Updated: 2026-06-25T06:08:07Z
   Total Products: 0
-- [Bijuterii Semiprețioase](https://www.craftmystic.ro/collections/bijuterii-semipretioase): Coliere, brățări, inele și cercei cu cristale naturale, pe argint 925, cupru sau alamă. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T22:44:30Z
-  Total Products: 2040
+- [Bijuterii Semiprețioase](https://www.craftmystic.ro/collections/bijuterii-semipretioase): Coliere, brățări, inele și cercei cu pietre semiprețioase naturale, multe pe argint 925. 4,9★ din peste 1.000 de recenzii. Livrare gratuită peste 190 lei.
+  Updated: 2026-07-28T16:00:22Z
+  Total Products: 2067
 - [Instrumente și Accesorii Spirituale](https://www.craftmystic.ro/collections/instrumente-si-accesorii-spirituale): Rechizite pentru magie  și vrajitorie : Lumanari Negre și Cristale ; Suporturi ceramica, sticlute umplute cu cristale si pietre pretioase
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 316
-- [Cristale pentru zodii](https://www.craftmystic.ro/collections/cristale-pentru-zodii): Descoperă cristalele potrivite zodiei tale: pietre și bijuterii pentru fiecare semn, de la Berbec la Pești. Idei de cadou pe zodie, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 3360
-- [Cristale și Pietre Semiprețioase](https://www.craftmystic.ro/collections/cristale-si-pietre-semipretioase): Cristale semiprețioase și pietre naturale — colecție variată pentru bijuterii, meditație sau decor. Selectate manual, livrate în toată România.
-  Updated: 2026-07-21T11:29:37Z
+- [Cristale pentru zodii](https://www.craftmystic.ro/collections/cristale-pentru-zodii): Găsește cristalele asociate zodiei tale, de la Berbec la Pești — bijuterii și pietre alese după tradiția cristalelor. Cadouri pe zodie, retur 30 de zile.
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 3404
+- [Cristale și Pietre Semiprețioase](https://www.craftmystic.ro/collections/cristale-si-pietre-semipretioase): Pietre semiprețioase naturale pentru bijuterii, meditație și decor. Vezi-le pe viu în showroomul din București sau comandă cu retur în 30 de zile.
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 310
 - [Tip Cristal](https://www.craftmystic.ro/collections/tip-cristal): Toate tipurile de cristale naturale și pietre semiprețioase CraftMystic: ametist, cuarț, obsidian și zeci de altele. Alege pe tip, showroom în București.
-  Updated: 2026-07-21T22:44:30Z
-  Total Products: 2573
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 2596
 - [Pachete și Seturi](https://www.craftmystic.ro/collections/pachete-si-seturi): Alege pachete și seturi cu cristale naturale, bijuterii și accesorii pentru zodii, protecție, iubire și prosperitate. Economisești 10–15% la CraftMystic.
-  Updated: 2026-07-15T11:36:52Z
+  Updated: 2026-07-26T11:23:23Z
   Total Products: 31
 - [Cristale pe beneficii](https://www.craftmystic.ro/collections/cristale-pe-beneficii): Navighează cristalele pe teme: protecție, iubire, abundență, împământare, energie. Pietre atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 3405
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 3449
 - [Accesorii pentru Cristale și Pietre](https://www.craftmystic.ro/collections/accesorii-pentru-cristale-si-pietre): Accesorii pietre semipretioase și ornamente - Comanda acum din zeci de produse accesorii pietre semipretioase
-  Updated: 2026-07-14T11:36:47Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 33
-- [Cercei](https://www.craftmystic.ro/collections/cercei): Cercei cu cristale precum ametist, cuarț și altele, pe cupru și alamă placată argintiu. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+- [Cercei](https://www.craftmystic.ro/collections/cercei): Cercei cu ametist, cuarț și alte cristale naturale. Piese unice, retur 30 de zile, livrare gratuită peste 190 lei, showroom în București.
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 180
-- [Coliere](https://www.craftmystic.ro/collections/coliere): Coliere cu cristale precum ametist, cuarț și altele, pe șnur reglabil și alamă placată argintiu. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+- [Coliere](https://www.craftmystic.ro/collections/coliere): Coliere cu ametist, cuarț roz, obsidian și alte pietre semiprețioase. Piese unice, retur 30 de zile, livrare gratuită peste 190 lei.
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 368
-- [Brățări](https://www.craftmystic.ro/collections/bratari): Brățări cu cristale precum cuarț, ochi de tigru și altele, pe elastic rezistent și șnur reglabil. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T17:32:44Z
-  Total Products: 341
+- [Brățări](https://www.craftmystic.ro/collections/bratari): Brățări din ametist, ochi de tigru, cuarț și alte cristale naturale. Retur 30 de zile, livrare gratuită peste 190 lei, showroom în București.
+  Updated: 2026-07-28T15:31:12Z
+  Total Products: 339
 - [Inele](https://www.craftmystic.ro/collections/inele): Inele cu cristale precum ametist, cuarț și altele, pe alamă placată argintiu și cupru. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 121
 - [Broșe Pietre Semiprețioase](https://www.craftmystic.ro/collections/brose-pietre-semipretioase): Broșe elegante cu pietre semiprețioase, perle și cristale. Accesoriu rafinat și idee de cadou, showroom în București.
-  Updated: 2026-07-13T11:34:22Z
+  Updated: 2026-07-26T11:23:23Z
   Total Products: 19
 - [Seturi cristale semipretioase](https://www.craftmystic.ro/collections/seturi-cristale-semipretioase): Seturi de cristale semiprețioase din ametist, cuarț și alte cristale. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 23
 - [Cristale Decorative](https://www.craftmystic.ro/collections/cristale-decorative): Cristale decorative: piese din cristale naturale precum ametist, cuarț, obsidian și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T19:32:01Z
   Total Products: 294
 - [Piramide din Cristal și Orgonice](https://www.craftmystic.ro/collections/piramide-din-cristal-si-orgonice): Piramide din cristal și orgonice: piese din cristale naturale precum obsidian, citrin, cuarț și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 63
 - [Pendule din Cristale](https://www.craftmystic.ro/collections/pendule-din-cristale): Pendule din cristale din ametist, piatra lunii și alte cristale. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 16
-- [Copaci cu cristale](https://www.craftmystic.ro/collections/copaci-cu-cristale): Copaci cu cristale: piese din cristale naturale precum ametist, cuarț, aventurin și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-20T11:29:22Z
+- [Copaci cu cristale](https://www.craftmystic.ro/collections/copaci-cu-cristale): Copaci cu cristale naturale — ametist, cuarț, aventurin, 7 chakre. Cadou cu semnificație, retur 30 de zile, livrare gratuită peste 190 lei.
+  Updated: 2026-07-26T11:23:25Z
   Total Products: 42
 - [Figurine și Sculpturi din Cristal](https://www.craftmystic.ro/collections/figurine-si-sculpturi-din-cristal): Figurine și sculpturi din cristal: piese din cristale naturale precum ametist, obsidian, cuarț și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T19:32:01Z
   Total Products: 216
 - [Vârfuri de Cristal](https://www.craftmystic.ro/collections/varfuri-de-cristal): Vârfuri de cristal din obsidian, fluorit și alte cristale. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-18T11:25:42Z
+  Updated: 2026-07-26T11:23:23Z
   Total Products: 22
-- [Pietre brute](https://www.craftmystic.ro/collections/pietre-brute): Pietre brute naturale — ametist, cuarț, fluorit, celestit, rodonit. Fiecare piatră unică, selectată manual. Import direct, prețuri corecte.
-  Updated: 2026-07-21T11:29:37Z
+- [Pietre brute](https://www.craftmystic.ro/collections/pietre-brute): Pietre brute naturale, fiecare bucată unică — fotografii reale. Import direct, prețuri corecte, retur 30 de zile, showroom în București.
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 36
 - [Pietre Rulate](https://www.craftmystic.ro/collections/pietre-rulate): Pietre rulate: piese din cristale naturale precum agat, jasp, cuarț și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 43
 - [Cristale pentru Bijuterii și Proiecte Handmade](https://www.craftmystic.ro/collections/cristale-pentru-bijuterii-si-proiecte-handmade)
-  Updated: 2026-07-17T11:32:13Z
+  Updated: 2026-07-26T11:23:25Z
   Total Products: 10
 - [Cristale pentru Curățare și Încărcare Energetică](https://www.craftmystic.ro/collections/cristale-pentru-curatare-si-incarcare-energetica)
-  Updated: 2026-07-20T11:29:22Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 8
 - [Seturi Spirituale](https://www.craftmystic.ro/collections/seturi-spirituale): Seturi Spirituale
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 26
 - [Lumânări](https://www.craftmystic.ro/collections/lumanari): Lumânări: sunt alese pentru relaxare, pentru momente de meditație sau ca un mic cadou. Accesorii alese cu grijă, showroom în București.
-  Updated: 2026-07-19T11:24:24Z
+  Updated: 2026-07-27T12:10:17Z
   Total Products: 23
 - [Yoga și Meditație](https://www.craftmystic.ro/collections/yoga-si-meditatie): Yoga și meditație: te ajută să creezi un colț liniștit pentru practică, acasă sau la studio. Accesorii alese cu grijă, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-25T11:29:17Z
   Total Products: 19
 - [Boluri Tibetane](https://www.craftmystic.ro/collections/boluri-tibetane): Boluri tibetane: sunt folosite în meditație, în terapia prin sunet și pentru momente de relaxare. Accesorii alese cu grijă, showroom în București.
-  Updated: 2026-07-20T11:29:22Z
+  Updated: 2026-07-23T11:32:41Z
   Total Products: 8
 - [Jurnale din piele](https://www.craftmystic.ro/collections/jurnale-din-piele): Jurnale din piele naturală, lucrate manual, cu hârtie de calitate și accente din pietre semiprețioase. Cadou aparte, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 45
 - [Aromaterapie](https://www.craftmystic.ro/collections/aromaterapie): Aromaterapie: sunt folosite pentru a parfuma plăcut o cameră și pentru momente de relaxare. Accesorii alese cu grijă, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 45
 - [Brățări pentru Femei](https://www.craftmystic.ro/collections/bratari-pentru-femei): Brățări pentru femei: brățară, set bijuterii și colier cu cristale precum cuarț, ochi de tigru și altele. Idei de cadou cu semnificație, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 316
-- [Brățări pentru Bărbați](https://www.craftmystic.ro/collections/bratari-pentru-barbati): Brățări pentru bărbați: brățară, set bijuterii și colier cu cristale precum obsidian, ochi de tigru și altele. Idei de cadou cu semnificație, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 77
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 319
+- [Brățări pentru Bărbați](https://www.craftmystic.ro/collections/bratari-pentru-barbati): Brățări bărbătești cu obsidian, ochi de tigru și alte cristale naturale. Cadou cu semnificație, retur 30 de zile, livrare gratuită peste 190 lei.
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 79
 - [Ornamente de Agățat din Cristale](https://www.craftmystic.ro/collections/ornamente-de-agatat-din-cristale): Ornamente de agățat din cristale: piese din cristale naturale precum ametist, cuarț, agat și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-20T11:29:19Z
-  Total Products: 34
+  Updated: 2026-07-28T12:16:19Z
+  Total Products: 33
 - [Sfere și Ouă din Cristal](https://www.craftmystic.ro/collections/sfere-si-oua-din-cristal): Sfere și ouă din cristal din cuarț, ametist și alte cristale. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-19T11:24:24Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 40
 - [Articole din Cristale pentru Uz Personal](https://www.craftmystic.ro/collections/articole-din-cristale-pentru-uz-personal): Articole din Cristale pentru Uz Personal
-  Updated: 2026-07-04T11:30:53Z
+  Updated: 2026-07-24T11:31:02Z
   Total Products: 14
 - [Lămpi cu Cristale Naturale](https://www.craftmystic.ro/collections/lampi-cu-cristale-naturale): Lămpi cu cristale naturale din ametist, citrin și alte cristale. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T12:10:17Z
   Total Products: 24
 - [Piramide Orgonice](https://www.craftmystic.ro/collections/piramide-orgonice): Piramide orgonice din citrin, cuarț și alte cristale. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 36
 - [Piramide din Cristal Brut](https://www.craftmystic.ro/collections/piramide-din-cristal-brut): Piramide din cristal brut din obsidian, labradorit și alte cristale. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-18T11:25:42Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 23
 - [Îngeri și Simboluri Spirituale](https://www.craftmystic.ro/collections/ingeri-si-simboluri-spirituale): Îngeri și simboluri spirituale: piese din cristale naturale precum ametist, cuarț, chihlimbar și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-21T22:44:30Z
-  Total Products: 3224
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 3250
 - [Figurine Animale din Cristal](https://www.craftmystic.ro/collections/figurine-animale-din-cristal): Figurine animale din cristal: piese din cristale naturale precum obsidian, ochi de tigru, ametist și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T19:32:01Z
   Total Products: 86
 - [Cranii și figurine tematice](https://www.craftmystic.ro/collections/cranii-si-figurine-tematice): Cranii și figurine tematice: piese din cristale naturale precum ametist, obsidian, cuarț și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T19:32:01Z
   Total Products: 216
 - [Forme și Sculpturi Decorative Diverse](https://www.craftmystic.ro/collections/forme-si-sculpturi-decorative-diverse): Forme și sculpturi decorative diverse: piese din cristale naturale precum ametist, agat, cuarț și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-19T11:24:24Z
+  Updated: 2026-07-23T11:32:43Z
   Total Products: 73
 - [Seturi pentru Meditație și Vindecare Energetică](https://www.craftmystic.ro/collections/seturi-pentru-meditatie-si-vindecare-energetica)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 17
 - [Seturi pentru Feng Shui și Decor](https://www.craftmystic.ro/collections/seturi-pentru-feng-shui-si-decor)
-  Updated: 2026-07-14T11:36:47Z
+  Updated: 2026-07-23T11:32:41Z
   Total Products: 8
 - [Seturi Educaționale și de Colecție](https://www.craftmystic.ro/collections/seturi-educationale-si-de-colectie): Seturi Educaționale și de Colecție
-  Updated: 2026-07-15T11:36:52Z
+  Updated: 2026-07-26T11:23:23Z
   Total Products: 6
 - [Lapis Lazuli](https://www.craftmystic.ro/collections/lapis-lazuli): Descoperă lapis lazuli natural, albastru intens cu sclipiri aurii: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 115
 - [Ochi de tigru](https://www.craftmystic.ro/collections/ochi-de-tigru): Descoperă ochi de tigru natural cu luciu auriu-maroniu: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 166
-- [Labradorit](https://www.craftmystic.ro/collections/labradorit): Labradorit natural cu reflexii unice — brățări, coliere, pietre brute și șlefuite. Fiecare piesă aleasă pentru strălucire.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 105
-- [Ametist](https://www.craftmystic.ro/collections/ametist): Descoperă colecția de ametist natural CraftMystic: brățări și coliere din argint, geode, piramide și pietre brute. Cristale naturale, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 402
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 167
+- [Labradorit](https://www.craftmystic.ro/collections/labradorit): Labradorit natural cu reflexii albastre-aurii — brățări, coliere, pietre brute și șlefuite. Fiecare piesă fotografiată real. Retur 30 de zile.
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 104
+- [Ametist](https://www.craftmystic.ro/collections/ametist): Ametist natural în toate formele: brățări, coliere pe argint 925, geode, piramide și pietre brute. 4,9★ recenzii, showroom în București.
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 404
 - [Malachit](https://www.craftmystic.ro/collections/malachit): Descoperă malachit natural cu benzi verzi caracteristice: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
-  Total Products: 82
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 88
 - [Carneol](https://www.craftmystic.ro/collections/carneol): Descoperă carneol natural: brățări, pandantive și pietre rulate, în nuanțe calde de portocaliu-roșcat. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 64
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 65
 - [Claritate și intuiție](https://www.craftmystic.ro/collections/claritate-si-intuitie): Claritate Mentala si Focus
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 2237
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 2267
 - [Sănătate](https://www.craftmystic.ro/collections/sanatate)
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 359
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 358
 - [Iubire și relații](https://www.craftmystic.ro/collections/iubire-si-relatii): Cristale și bijuterii asociate în tradiție cu iubire și relații. Pietre atent selectate, idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:46:01Z
+  Updated: 2026-07-28T16:00:23Z
   Total Products: 239
 - [Prosperitate si Abundenta](https://www.craftmystic.ro/collections/prosperitate-si-abundenta): Cristale și bijuterii asociate în tradiție cu abundență și prosperitate. Pietre atent selectate, idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 713
+  Updated: 2026-07-28T16:52:26Z
+  Total Products: 717
 - [Berbec](https://www.craftmystic.ro/collections/berbec): Descoperă cristalele potrivite zodiei Berbec: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T22:44:30Z
-  Total Products: 537
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 536
 - [Taur](https://www.craftmystic.ro/collections/taur): Descoperă cristalele potrivite zodiei Taur: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:46:01Z
-  Total Products: 1002
+  Updated: 2026-07-28T16:00:24Z
+  Total Products: 1018
 - [Fecioară](https://www.craftmystic.ro/collections/fecioara): Descoperă cristalele potrivite zodiei Fecioară: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 988
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 994
 - [Rac](https://www.craftmystic.ro/collections/rac): Descoperă cristalele potrivite zodiei Rac: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:46:01Z
-  Total Products: 515
+  Updated: 2026-07-28T12:31:05Z
+  Total Products: 525
 - [Gemeni](https://www.craftmystic.ro/collections/gemeni): Descoperă cristalele potrivite zodiei Gemeni: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 807
+  Updated: 2026-07-28T16:52:26Z
+  Total Products: 812
 - [Scorpion](https://www.craftmystic.ro/collections/scorpion): Descoperă cristalele potrivite zodiei Scorpion: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T17:32:44Z
-  Total Products: 926
+  Updated: 2026-07-28T16:51:12Z
+  Total Products: 942
 - [Rafturi expunere cristale](https://www.craftmystic.ro/collections/rafturi-expunere-cristale): Rafturi expunere cristale
   Updated: 2026-06-28T11:27:39Z
   Total Products: 9
 - [Grile pentru Cristale](https://www.craftmystic.ro/collections/grile-pentru-cristale): Grile pentru Cristale
-  Updated: 2026-07-14T11:36:47Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 7
 - [Toate produsele](https://www.craftmystic.ro/collections/toate-produsele)
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 3712
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 3756
 - [Bijuterii Argint 925](https://www.craftmystic.ro/collections/bijuterii-argint-925): Bijuterii din argint 925 veritabil (sterling) cu cristale precum chihlimbar, moldavit și altele. Piese de calitate, showroom în București.
-  Updated: 2026-07-21T22:44:31Z
-  Total Products: 897
+  Updated: 2026-07-28T16:52:26Z
+  Total Products: 921
 - [Chihlimbar](https://www.craftmystic.ro/collections/chihlimbar): Descoperă chihlimbar natural, rășină fosilizată în nuanțe calde de auriu: brățări și pandantive. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 195
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 192
 - [Obsidian](https://www.craftmystic.ro/collections/obsidian): Descoperă obsidian negru natural: brățări, pandantive, pietre brute și sfere. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 171
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 170
 - [Agat](https://www.craftmystic.ro/collections/agat): Descoperă agat natural: brățări, pandantive, pietre brute și felii decorative. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 120
-- [Turmalină](https://www.craftmystic.ro/collections/turmalina): Descoperă turmalină neagră naturală și alte varietăți: brățări, coliere, pandantive și pietre brute. Cristale selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+- [Turmalină](https://www.craftmystic.ro/collections/turmalina): Turmalină neagră și alte varietăți: brățări, pandantive, pietre brute. Fotografii reale, retur 30 de zile, livrare gratuită peste 190 lei.
+  Updated: 2026-07-28T16:00:24Z
   Total Products: 126
 - [Piatra Lunii](https://www.craftmystic.ro/collections/piatra-lunii): Descoperă piatra lunii naturală, cu luciu perlat și reflexii: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 88
-- [Citrin](https://www.craftmystic.ro/collections/citrin): Descoperă colecția de citrin natural CraftMystic: brățări și coliere, pietre brute, clustere și piramide. Cristale naturale, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:31:05Z
+  Total Products: 96
+- [Citrin](https://www.craftmystic.ro/collections/citrin): Citrin natural: brățări, coliere, clustere și piramide. Fotografii reale, retur 30 de zile, showroom în București.
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 117
 - [Perla](https://www.craftmystic.ro/collections/perla): Perla
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 75
 - [Moldavit](https://www.craftmystic.ro/collections/moldavit): Descoperă moldavit natural la CraftMystic: pietre brute și bijuterii din argint cu moldavit, piatră rară de origine meteoritică. Surse de încredere, showroom București.
-  Updated: 2026-07-20T09:01:01Z
-  Total Products: 116
-- [Aventurin](https://www.craftmystic.ro/collections/aventurin): Descoperă aventurin verde natural: brățări, pandantive și pietre rulate. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T16:00:24Z
+  Total Products: 110
+- [Aventurin](https://www.craftmystic.ro/collections/aventurin): Aventurin verde natural: brățări, pandantive și pietre rulate. Cadou cu semnificație, retur 30 de zile, livrare gratuită peste 190 lei.
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 102
 - [Selenit](https://www.craftmystic.ro/collections/selenit): Descoperă selenit natural, alb translucid cu luciu perlat: plăci, baghete și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 53
 - [Jasp](https://www.craftmystic.ro/collections/jasp): Descoperă jasp natural în multe culori și modele: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-26T11:23:25Z
   Total Products: 51
 - [Fluorit](https://www.craftmystic.ro/collections/fluorit): Descoperă fluorit natural în nuanțe de verde, mov și albastru: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 46
 - [Hematit](https://www.craftmystic.ro/collections/hematit): Descoperă hematit natural, gri-metalic cu luciu: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 31
 - [Opal](https://www.craftmystic.ro/collections/opal): Descoperă opal natural cu reflexii de culoare: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-17T11:32:12Z
-  Total Products: 41
-- [Topaz](https://www.craftmystic.ro/collections/topaz): Descoperă topaz natural în nuanțe de albastru și auriu: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-26T11:23:23Z
   Total Products: 44
+- [Topaz](https://www.craftmystic.ro/collections/topaz): Descoperă topaz natural în nuanțe de albastru și auriu: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
+  Updated: 2026-07-27T12:10:17Z
+  Total Products: 46
 - [Turcoaz](https://www.craftmystic.ro/collections/turcoaz): Descoperă turcoaz natural în nuanțe albastru-verzui: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T12:10:17Z
   Total Products: 76
 - [Onix](https://www.craftmystic.ro/collections/onix): Descoperă onix negru natural, elegant și mat: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 25
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 34
 - [Granat](https://www.craftmystic.ro/collections/granat): Descoperă granat natural, roșu profund cu luciu: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
-  Total Products: 40
+  Updated: 2026-07-27T12:10:17Z
+  Total Products: 41
 - [Amazonit](https://www.craftmystic.ro/collections/amazonit): Descoperă amazonit natural, verde-turcoaz cu vinișoare albe: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-27T12:10:12Z
   Total Products: 20
 - [Tanzanit](https://www.craftmystic.ro/collections/tanzanit): Descoperă tanzanit natural, albastru-violet profund: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-15T11:36:52Z
+  Updated: 2026-07-24T13:49:39Z
   Total Products: 15
 - [Apatit](https://www.craftmystic.ro/collections/apatit): Descoperă apatit natural, albastru-verzui viu: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-20T11:29:22Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 23
 - [Larimar](https://www.craftmystic.ro/collections/larimar): Descoperă larimar natural, albastru deschis cu modele albe: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-19T11:24:23Z
-  Total Products: 15
-- [Calcedonie](https://www.craftmystic.ro/collections/calcedonie): Descoperă calcedonie naturală, în nuanțe blânde: brățări și pietre. Showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T15:31:22Z
   Total Products: 13
+- [Calcedonie](https://www.craftmystic.ro/collections/calcedonie): Descoperă calcedonie naturală, în nuanțe blânde: brățări și pietre. Showroom în București.
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 16
 - [Scoică Abalone](https://www.craftmystic.ro/collections/abalone): Scoica Abalone
-  Updated: 2026-07-17T11:32:13Z
+  Updated: 2026-07-25T11:29:17Z
   Total Products: 10
 - [Sodalit](https://www.craftmystic.ro/collections/sodalit): Descoperă sodalit natural, albastru cu vinișoare albe: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-27T12:10:12Z
   Total Products: 13
 - [Crisocol](https://www.craftmystic.ro/collections/crisocol): Descoperă crisocol natural, albastru-verzui: brățări și pietre. Showroom în București.
-  Updated: 2026-07-19T05:00:52Z
-  Total Products: 12
+  Updated: 2026-07-28T11:00:48Z
+  Total Products: 17
 - [Rodonit](https://www.craftmystic.ro/collections/rodonit): Descoperă rodonit natural, roz cu negru: brățări și pietre. Showroom în București.
   Updated: 2026-07-14T11:36:47Z
   Total Products: 3
 - [Rodocrozit](https://www.craftmystic.ro/collections/rodocrozit): Descoperă rodocrozit natural, roz cu benzi: brățări și pietre. Showroom în București.
-  Updated: 2026-07-19T05:00:46Z
+  Updated: 2026-07-28T05:26:13Z
   Total Products: 9
 - [Prehnit](https://www.craftmystic.ro/collections/prehnit): Descoperă prehnit natural, verde-gălbui: brățări și pietre. Showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T14:56:23Z
   Total Products: 6
 - [Lepidolit](https://www.craftmystic.ro/collections/lepidolit): Descoperă lepidolit natural, mov-lila: brățări și pietre. Showroom în București.
   Updated: 2026-07-08T07:21:48Z
   Total Products: 2
 - [Unakite](https://www.craftmystic.ro/collections/unakite): Descoperă unakit natural, verde cu roz: brățări și pietre. Showroom în București.
-  Updated: 2026-07-11T11:42:12Z
+  Updated: 2026-07-24T11:30:59Z
   Total Products: 5
 - [Brelocuri](https://www.craftmystic.ro/collections/brelocuri): Brelocuri cu cristale și pietre semiprețioase — accesorii energizante pentru chei și genți.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 16
 - [Cabochoane](https://www.craftmystic.ro/collections/cabochoane): Cabochoane din pietre semiprețioase — pietre șlefuite pentru bijuterii și colecții.
-  Updated: 2026-07-14T11:36:47Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 6
 - [Suporturi și Baze](https://www.craftmystic.ro/collections/suporturi-si-baze): Suporturi, baze și platouri pentru cristale și copaci decorativi.
-  Updated: 2026-07-19T11:24:23Z
+  Updated: 2026-07-26T11:23:25Z
   Total Products: 20
 - [Protecție Energetică](https://www.craftmystic.ro/collections/protectie-energetica): Cristale și bijuterii asociate în tradiție cu protecție energetică. Pietre atent selectate, idei de cadou, showroom în București.
-  Updated: 2026-07-21T17:32:44Z
-  Total Products: 1623
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 1644
 - [Leu](https://www.craftmystic.ro/collections/leu): Descoperă cristalele potrivite zodiei Leu: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T22:44:31Z
-  Total Products: 826
+  Updated: 2026-07-28T15:31:13Z
+  Total Products: 838
 - [Vărsător](https://www.craftmystic.ro/collections/varsator): Descoperă cristalele potrivite zodiei Vărsător: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T17:32:44Z
-  Total Products: 1025
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 1024
 - [Pești](https://www.craftmystic.ro/collections/pesti): Descoperă cristalele potrivite zodiei Pești: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 1110
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 1113
 - [Balanță](https://www.craftmystic.ro/collections/balanta): Descoperă cristalele potrivite zodiei Balanță: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:46:01Z
-  Total Products: 994
+  Updated: 2026-07-28T16:00:25Z
+  Total Products: 1006
 - [Săgetător](https://www.craftmystic.ro/collections/sagetator): Descoperă cristalele potrivite zodiei Săgetător: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T22:44:31Z
-  Total Products: 558
+  Updated: 2026-07-28T16:51:12Z
+  Total Products: 559
 - [Capricorn](https://www.craftmystic.ro/collections/capricorn): Descoperă cristalele potrivite zodiei Capricorn: pietre, bijuterii și idei de cadou pe zodie. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T17:32:45Z
-  Total Products: 1170
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 1185
 - [Cadouri sub 100 lei](https://www.craftmystic.ro/collections/cadouri-sub-150-lei)
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 1527
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 1526
 - [Pietre brute și rulate](https://www.craftmystic.ro/collections/pietre-brute-si-rulate): Pietre brute și rulate: piese din cristale naturale precum ametist, agat, obsidian și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 134
 - [Meditație și spiritualitate](https://www.craftmystic.ro/collections/meditatie-si-spiritualitate): Meditatie si Spiritualitate
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 2156
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 2185
 - [Anti deochi](https://www.craftmystic.ro/collections/anti-deochi): Cristale și bijuterii asociate în tradiție cu protecție și anti-deochi. Pietre atent selectate, idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 402
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 411
 - [Echilibru și vindecare](https://www.craftmystic.ro/collections/echilibru-si-vindecare): Cristale asociate în tradiție cu echilibrul emoțional, calmul și armonia interioară. Pietre atent selectate, idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 2641
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 2680
 - [Creativitate și inspirație](https://www.craftmystic.ro/collections/creativitate-si-inspiratie): Cristale și bijuterii asociate în tradiție cu creativitate și inspirație. Pietre atent selectate, idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 671
+  Updated: 2026-07-28T12:31:05Z
+  Total Products: 687
 - [Încredere și curaj](https://www.craftmystic.ro/collections/incredere-si-curaj): Incredere si Curaj
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 1387
+  Updated: 2026-07-28T16:50:55Z
+  Total Products: 1412
 - [Brățări pentru copii](https://www.craftmystic.ro/collections/bratari-pentru-copii): Brățări pentru copii: brățară cu cristale precum agat, cuarț și altele. Idei de cadou cu semnificație, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 38
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 39
 - [Brățări cu pandative simbolice](https://www.craftmystic.ro/collections/bratari-cu-pandative-simbolice)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 40
 - [Seturi de brățări](https://www.craftmystic.ro/collections/seturi-de-bratari): Seturi de Brățări
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 19
 - [Bijuterii cu perle](https://www.craftmystic.ro/collections/bijuterii-cu-perle): Bijuterii cu Perle
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 74
 - [Accesorii pentru păr](https://www.craftmystic.ro/collections/accesorii-pentru-par): Accesorii pentru par
-  Updated: 2026-07-19T11:24:23Z
+  Updated: 2026-07-24T11:31:02Z
   Total Products: 12
 - [Acvamarin](https://www.craftmystic.ro/collections/acvamarin): Descoperă acvamarin natural, albastru-verzui deschis: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 46
 - [Ametrin](https://www.craftmystic.ro/collections/ametrin): Descoperă ametrin natural, mov și auriu: brățări și pietre. Showroom în București.
   Updated: 2026-07-08T07:21:49Z
@@ -2221,22 +2253,22 @@
   Updated: 2026-07-08T07:21:40Z
   Total Products: 7
 - [Cuarț](https://www.craftmystic.ro/collections/cuart): Descoperă cuarț natural (cristal de stâncă) transparent: brățări, pandantive, pietre brute și sfere. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 336
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 337
 - [Diamant Herkimer](https://www.craftmystic.ro/collections/diamant-herkimer): Diamant Herkimer
-  Updated: 2026-07-21T22:44:31Z
-  Total Products: 3054
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 3079
 - [Goldstone](https://www.craftmystic.ro/collections/goldstone-maro): Descoperă goldstone maro cu sclipiri aurii: brățări și pietre decorative. Showroom în București.
   Updated: 2026-07-08T07:21:51Z
   Total Products: 1
 - [Howlit](https://www.craftmystic.ro/collections/howlita): Descoperă howlit natural, alb cu vinișoare gri: brățări și pietre. Showroom în București.
-  Updated: 2026-07-10T11:43:52Z
+  Updated: 2026-07-26T11:23:23Z
   Total Products: 6
 - [Jad](https://www.craftmystic.ro/collections/jad): Descoperă jad natural în nuanțe de verde: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T12:10:12Z
   Total Products: 66
 - [Kianit](https://www.craftmystic.ro/collections/kianit): Descoperă kianit natural, albastru cu structură lamelară: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-17T11:32:13Z
+  Updated: 2026-07-25T11:29:18Z
   Total Products: 36
 - [Marcasit indonezian](https://www.craftmystic.ro/collections/marcasit-indonezian): Descoperă marcasit natural, auriu-metalic: pietre și piese. Showroom în București.
   Updated: 2026-07-08T07:21:47Z
@@ -2251,52 +2283,52 @@
   Updated: 2026-06-29T11:39:11Z
   Total Products: 2
 - [Noutăți](https://www.craftmystic.ro/collections/noutati)
-  Updated: 2026-07-21T17:32:45Z
-  Total Products: 95
+  Updated: 2026-07-28T15:31:14Z
+  Total Products: 93
 - [Cele mai vândute](https://www.craftmystic.ro/collections/cele-mai-vandute)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T19:31:17Z
   Total Products: 123
 - [Peridot](https://www.craftmystic.ro/collections/peridot): Descoperă peridot natural, verde-gălbui luminos: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T15:31:14Z
   Total Products: 19
 - [Piatra soarelui](https://www.craftmystic.ro/collections/piatra-soarelui): Descoperă piatra soarelui, portocaliu-auriu cu sclipiri: brățări și pietre. Showroom în București.
-  Updated: 2026-07-18T11:25:42Z
+  Updated: 2026-07-28T05:27:18Z
   Total Products: 11
 - [Pirită](https://www.craftmystic.ro/collections/pirita): Descoperă pirită naturală: cuburi, clustere și pietre brute cu luciu auriu. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 70
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 72
 - [Rubin Zoisit](https://www.craftmystic.ro/collections/rubin-zoisit): Descoperă rubin zoisit natural, verde cu roșu: brățări și pietre. Showroom în București.
-  Updated: 2026-07-17T11:32:13Z
+  Updated: 2026-07-24T11:30:59Z
   Total Products: 6
 - [Serafinit](https://www.craftmystic.ro/collections/serafinit): Serafinit
   Updated: 2026-07-15T11:36:52Z
   Total Products: 2
 - [Shungit](https://www.craftmystic.ro/collections/shungit): Descoperă shungit natural, negru mat: brățări și pietre. Showroom în București.
-  Updated: 2026-07-20T11:29:19Z
+  Updated: 2026-07-27T12:10:12Z
   Total Products: 8
 - [Smarald](https://www.craftmystic.ro/collections/smarald): Descoperă smarald natural, verde intens: brățări și pietre. Showroom în București.
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 10
 - [Sticle și obiecte energetice](https://www.craftmystic.ro/collections/sticle-si-obiecte-energetice): Sticle și Obiecte Energetice cu Cristale
-  Updated: 2026-07-10T11:43:52Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 17
 - [Fazele Lunii](https://www.craftmystic.ro/collections/fazele-lunii): Toate cristalele asociate cu fazele lunii — de la Luna Nouă la Luna Descrescătoare.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 3358
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 3401
 - [Cristale pentru Luna Nouă](https://www.craftmystic.ro/collections/cristale-pentru-luna-noua): Cristale pentru zodii
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 183
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 184
 - [Cristale pentru Luna în creștere](https://www.craftmystic.ro/collections/cristale-pentru-luna-in-crestere): Cristale pentru zodii
-  Updated: 2026-07-21T22:44:31Z
-  Total Products: 786
+  Updated: 2026-07-28T16:00:26Z
+  Total Products: 797
 - [Cristale pentru Luna Plină](https://www.craftmystic.ro/collections/cristale-pentru-luna-plina): Cristale pentru zodii
-  Updated: 2026-07-21T17:32:45Z
-  Total Products: 1117
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 1126
 - [Cristale pentru Luna în descreștere](https://www.craftmystic.ro/collections/cristale-pentru-luna-in-descrestere): Cristale pentru zodii
-  Updated: 2026-07-21T11:46:01Z
-  Total Products: 1001
+  Updated: 2026-07-28T16:50:55Z
+  Total Products: 1009
 - [Rubin](https://www.craftmystic.ro/collections/rubin): Descoperă rubin natural, roșu intens: brățări, pandantive și pietre. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-17T11:32:13Z
+  Updated: 2026-07-24T11:30:59Z
   Total Products: 21
 - [Zirconiu](https://www.craftmystic.ro/collections/zirconiu): Descoperă zirconiu, piatră strălucitoare transparentă sau colorată: brățări și bijuterii. Showroom în București.
   Updated: 2026-07-19T11:24:23Z
@@ -2305,13 +2337,13 @@
   Updated: 2026-06-23T11:31:30Z
   Total Products: 15
 - [Cinabru](https://www.craftmystic.ro/collections/cinabru): Descoperă cinabru, piatră roșie intensă: piese decorative și bijuterii. Showroom în București.
-  Updated: 2026-07-14T11:36:47Z
+  Updated: 2026-07-25T11:29:14Z
   Total Products: 3
 - [Titanium Druzy](https://www.craftmystic.ro/collections/titanium-druzy)
   Updated: 2026-06-30T13:06:46Z
   Total Products: 3
 - [Meteorit](https://www.craftmystic.ro/collections/meteorit)
-  Updated: 2026-07-18T11:25:42Z
+  Updated: 2026-07-22T07:12:48Z
   Total Products: 5
 - [Agat Carneol](https://www.craftmystic.ro/collections/agat-carneol): Descoperă agat carneol natural, cu benzi calde: brățări și pietre. Showroom în București.
   Updated: 2026-07-17T11:32:13Z
@@ -2320,7 +2352,7 @@
   Updated: 2026-07-08T08:55:09Z
   Total Products: 3
 - [Piatra Sângelui](https://www.craftmystic.ro/collections/piatra-sangelui)
-  Updated: 2026-07-20T11:29:22Z
+  Updated: 2026-07-26T11:23:23Z
   Total Products: 2
 - [Angelit](https://www.craftmystic.ro/collections/angelit): Descoperă angelit natural, albastru pal senin: brățări și pietre. Showroom în București.
   Updated: 2026-07-20T11:29:22Z
@@ -2329,8 +2361,8 @@
   Updated: 2026-07-06T14:55:37Z
   Total Products: 3
 - [Crisopraz](https://www.craftmystic.ro/collections/crisopraz): Descoperă crisopraz natural, verde-măr: brățări și pietre. Showroom în București.
-  Updated: 2026-07-08T17:17:14Z
-  Total Products: 3
+  Updated: 2026-07-24T13:49:57Z
+  Total Products: 5
 - [Druzy](https://www.craftmystic.ro/collections/druzy)
   Updated: 2026-06-16T15:14:12Z
   Total Products: 1
@@ -2359,227 +2391,230 @@
   Updated: 2026-06-23T11:31:15Z
   Total Products: 2
 - [Bijuterii Argint 925 Placat cu Aur](https://www.craftmystic.ro/collections/bijuterii-argint-925-placat-cu-aur)
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 147
 - [Cadouri peste 250 lei](https://www.craftmystic.ro/collections/cadouri-peste-250-lei)
-  Updated: 2026-07-21T22:44:31Z
-  Total Products: 824
+  Updated: 2026-07-28T16:00:26Z
+  Total Products: 854
 - [Seturi Bijuterii](https://www.craftmystic.ro/collections/seturi-bijuterii): Seturi de bijuterii cu cristale precum ametist, obsidian și altele, pe cupru. Piese unice și idei de cadou, showroom în București.
   Updated: 2026-07-09T05:42:00Z
   Total Products: 33
 - [Chakra Rădăcină](https://www.craftmystic.ro/collections/chakra-radacina): Descoperă cristalele asociate chakra rădăcinii (roșu): pietre și bijuterii pentru împământarea. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 836
+  Updated: 2026-07-28T16:52:26Z
+  Total Products: 844
 - [Chakra Sacrală](https://www.craftmystic.ro/collections/chakra-sacrala): Descoperă cristalele asociate chakra sacrală (portocaliu): pietre și bijuterii pentru creativitatea. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 1048
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 1054
 - [Chakra Plexului Solar](https://www.craftmystic.ro/collections/chakra-plexului-solar): Descoperă cristalele asociate chakra plexului solar (galben): pietre și bijuterii pentru încrederea. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T22:44:31Z
-  Total Products: 1190
+  Updated: 2026-07-28T16:50:56Z
+  Total Products: 1210
 - [Chakra Inimii](https://www.craftmystic.ro/collections/chakra-inimii): Descoperă cristalele asociate chakra inimii (verde): pietre și bijuterii pentru iubirea. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:46:01Z
-  Total Products: 1103
+  Updated: 2026-07-28T16:00:27Z
+  Total Products: 1105
 - [Chakra Gâtului](https://www.craftmystic.ro/collections/chakra-gatului): Descoperă cristalele asociate chakra gâtului (albastru): pietre și bijuterii pentru comunicarea. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T17:32:45Z
+  Updated: 2026-07-28T16:52:26Z
   Total Products: 785
 - [Chakra celui de-al Treilea Ochi](https://www.craftmystic.ro/collections/chakra-celui-de-al-treilea-ochi): Descoperă cristalele asociate chakra celui de-al treilea ochi (indigo): pietre și bijuterii pentru intuiția. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T17:32:45Z
-  Total Products: 1345
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 1359
 - [Chakra Coroanei](https://www.craftmystic.ro/collections/chakra-coronala): Descoperă cristalele asociate chakra coroanei (violet sau alb): pietre și bijuterii pentru spiritualitatea. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 1116
-- [Cadou Gratuit 300](https://www.craftmystic.ro/collections/cadou-gratuit-300)
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 1123
+- [Cadou Gratuit](https://www.craftmystic.ro/collections/cadou-gratuit)
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 4
-- [Cadou Gratuit 600](https://www.craftmystic.ro/collections/cadou-gratuit-600)
-  Updated: 2026-07-21T10:38:32Z
+- [Cadou Premium Gratuit](https://www.craftmystic.ro/collections/cadou-premium-gratuit)
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 4
 - [Import-Nou-Mai-2025](https://www.craftmystic.ro/collections/import-nou-mai-2025)
-  Updated: 2026-07-21T22:44:31Z
-  Total Products: 340
+  Updated: 2026-07-28T16:00:27Z
+  Total Products: 335
 - [Top Bestsellers](https://www.craftmystic.ro/collections/top-bestsellers): Descoperă cele mai populare produse CraftMystic, actualizate automat după vânzări.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T19:31:17Z
   Total Products: 122
 - [Cristale Semiprețioase](https://www.craftmystic.ro/collections/cristale-semipretioase): Cristale semiprețioase: piese din cristale naturale precum ametist, cuarț, obsidian și altele. Showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 671
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 669
 - [Pandantive](https://www.craftmystic.ro/collections/pandantive): Brățări cu Pandantive Simbolice
   Updated: 2026-07-19T11:24:23Z
   Total Products: 13
 - [Accesorii cu Cristale](https://www.craftmystic.ro/collections/accesorii-cu-cristale): Accesorii pietre semipretioase și ornamente - Comanda acum din zeci de produse accesorii pietre semipretioase
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-25T11:29:17Z
   Total Products: 12
 - [Cristale și Kituri Handmade](https://www.craftmystic.ro/collections/cristale-kituri-handmade)
-  Updated: 2026-07-17T11:32:13Z
+  Updated: 2026-07-26T11:23:25Z
   Total Products: 16
 - [Selenit și Încărcare Cristale](https://www.craftmystic.ro/collections/selenit-incarcare-cristale): Plăci și baghete de selenit pentru așezarea și curățarea altor cristale. Showroom în București.
-  Updated: 2026-07-20T11:29:22Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 19
 - [Palo Santo](https://www.craftmystic.ro/collections/palo-santo): Palo Santo, Salvie și Bețișoare
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 9
 - [Salvie](https://www.craftmystic.ro/collections/salvie): Palo Santo, Salvie și Bețișoare
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 17
 - [Bețișoare Parfumate](https://www.craftmystic.ro/collections/betisoare-parfumate)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 58
 - [Accesorii din Piele](https://www.craftmystic.ro/collections/accesorii-din-piele): Accesorii pietre semipretioase și ornamente - Comanda acum din zeci de produse accesorii pietre semipretioase
-  Updated: 2026-07-18T11:25:42Z
+  Updated: 2026-07-27T12:10:12Z
   Total Products: 6
 - [Brățări Argint 925](https://www.craftmystic.ro/collections/bratari-argint-925): Brățări din argint 925 veritabil (sterling) cu cristale precum chihlimbar, moldavit și altele. Piese de calitate, showroom în București.
-  Updated: 2026-07-21T17:32:45Z
-  Total Products: 21
+  Updated: 2026-07-28T15:31:15Z
+  Total Products: 16
 - [Coliere Argint 925](https://www.craftmystic.ro/collections/coliere-argint-925): Coliere din argint 925 veritabil (sterling) cu cristale precum chihlimbar, moldavit și altele. Piese de calitate, showroom în București.
-  Updated: 2026-07-21T11:46:01Z
-  Total Products: 494
+  Updated: 2026-07-28T16:52:26Z
+  Total Products: 497
 - [Cercei Argint 925](https://www.craftmystic.ro/collections/cercei-argint-925): Cercei din argint 925 veritabil (sterling) cu cristale precum chihlimbar, citrin și altele. Piese de calitate, showroom în București.
-  Updated: 2026-07-21T11:29:34Z
-  Total Products: 182
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 181
 - [Inele Argint 925](https://www.craftmystic.ro/collections/inele-argint-925): Inele din argint 925 veritabil (sterling) cu cristale precum chihlimbar, moldavit și altele. Piese de calitate, showroom în București.
-  Updated: 2026-07-21T22:44:31Z
-  Total Products: 207
+  Updated: 2026-07-28T16:52:27Z
+  Total Products: 236
 - [Accesorii Argint 925](https://www.craftmystic.ro/collections/accesorii-argint-925)
-  Updated: 2026-07-15T11:36:52Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 16
 - [Druse și geode](https://www.craftmystic.ro/collections/druse-si-geode): Cristale naturale cu forme spectaculoase, potrivite pentru decor, colecție sau pentru a aduce un plus de energie și frumusețe în spațiul tău.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 31
 - [Turnuri și vârfuri](https://www.craftmystic.ro/collections/turnuri-si-varfuri): Turnuri și vârfuri din cristale, alese pentru decor, energie și armonizarea spațiului. Formele verticale scot în evidență frumusețea naturală a pietrelor și adaugă un detaliu special oricărui colț al casei.
-  Updated: 2026-07-18T11:25:42Z
+  Updated: 2026-07-26T11:23:23Z
   Total Products: 41
 - [Lanțuri și șnururi pentru pandantive](https://www.craftmystic.ro/collections/lanturi-si-snururi-pentru-pandantive): Lanțuri și șnururi simple, potrivite pentru pandantivele tale preferate. Alege varianta care se potrivește cel mai bine stilului tău, fie că vrei ceva discret, reglabil sau ușor de purtat zi de zi.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T12:10:17Z
   Total Products: 6
 - [Măturici și accesorii de purificare](https://www.craftmystic.ro/collections/maturici-si-accesorii-de-purificare): Accesorii pietre semipretioase și ornamente - Comanda acum din zeci de produse accesorii pietre semipretioase
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 31
 - [Aromaterapie și uleiuri esențiale](https://www.craftmystic.ro/collections/aromaterapie-si-uleiuri-esentiale): Aromaterapie
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-24T11:30:59Z
   Total Products: 25
 - [Accesorii scris și sigilii](https://www.craftmystic.ro/collections/accesorii-scris-si-sigilii): Accesorii pietre semipretioase și ornamente - Comanda acum din zeci de produse accesorii pietre semipretioase
-  Updated: 2026-07-20T11:29:22Z
+  Updated: 2026-07-25T11:29:17Z
   Total Products: 23
 - [Îngrijire și wellness](https://www.craftmystic.ro/collections/ingrijire-si-wellness): Produse pentru momentele în care vrei să încetinești puțin și să ai grijă de tine.
-  Updated: 2026-07-07T11:50:50Z
+  Updated: 2026-07-25T11:29:17Z
   Total Products: 10
 - [Energie și vitalitate](https://www.craftmystic.ro/collections/energie-si-vitalitate): Cristale și bijuterii asociate în tradiție cu energie și vitalitate. Pietre atent selectate, idei de cadou, showroom în București.
-  Updated: 2026-07-21T22:44:32Z
-  Total Products: 815
+  Updated: 2026-07-28T16:00:28Z
+  Total Products: 816
 - [Împământare](https://www.craftmystic.ro/collections/impamantare): Cristale și bijuterii asociate în tradiție cu împământare și stabilitate. Pietre atent selectate, idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 752
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 762
 - [Cadouri 100 - 150 lei](https://www.craftmystic.ro/collections/cadouri-100-150-lei)
-  Updated: 2026-07-21T11:46:01Z
-  Total Products: 348
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 346
 - [Cadouri 150 - 250 lei](https://www.craftmystic.ro/collections/cadouri-150-250-lei)
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 332
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 334
 - [Cadou pentru ea](https://www.craftmystic.ro/collections/cadou-pentru-ea): Cadou pentru ea: colier, cercei și inel cu cristale precum ametist, chihlimbar și altele. Idei de cadou cu semnificație, showroom în București.
-  Updated: 2026-07-21T22:44:32Z
-  Total Products: 2049
+  Updated: 2026-07-28T16:00:28Z
+  Total Products: 2076
 - [Cadou pentru el](https://www.craftmystic.ro/collections/cadou-pentru-el): Cadou pentru el: colier, brățară și inel cu cristale precum obsidian, ochi de tigru și altele. Idei de cadou cu semnificație, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 286
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 288
 - [Cadou pentru copii](https://www.craftmystic.ro/collections/cadou-pentru-copii): Cadou pentru copii: brățară, colier și set bijuterii cu cristale precum cuarț, aventurin și altele. Idei de cadou cu semnificație, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 57
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 58
 - [Amulete și Talismane](https://www.craftmystic.ro/collections/amulete-si-talismane): Descopera colectia CraftMystic de amulete si talismane nepaleze lucrate manual: coliere Thangka din lemn de abanos, simboluri sacre Ganesha, Arborele Vietii si Saraswati, pentru protectie, echilibru si claritate spirituala.
-  Updated: 2026-07-19T11:24:23Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 18
 - [Agnes Cat](https://www.craftmystic.ro/collections/agnes-cat)
   Updated: 2026-07-21T11:29:37Z
   Total Products: 5
 - [Ancient Wisdom](https://www.craftmystic.ro/collections/ancient-wisdom)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-25T11:29:17Z
   Total Products: 12
 - [Banjara](https://www.craftmystic.ro/collections/banjara)
   Updated: 2026-07-10T11:43:52Z
   Total Products: 1
 - [Banjara Buddha](https://www.craftmystic.ro/collections/banjara-buddha)
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-25T11:29:18Z
   Total Products: 3
 - [Crystal Scents](https://www.craftmystic.ro/collections/crystal-scents)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T12:10:17Z
   Total Products: 6
 - [Decopom](https://www.craftmystic.ro/collections/decopom)
   Updated: 2026-07-06T11:42:15Z
   Total Products: 2
 - [Earth Inspired](https://www.craftmystic.ro/collections/earth-inspired)
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-24T11:30:59Z
   Total Products: 2
 - [Frankincense](https://www.craftmystic.ro/collections/frankincense)
-  Updated: 2026-07-20T11:29:22Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 1
 - [Golden Frankincense](https://www.craftmystic.ro/collections/golden-frankincense)
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-27T12:10:17Z
   Total Products: 1
 - [Golden Nag](https://www.craftmystic.ro/collections/golden-nag)
-  Updated: 2026-07-21T11:29:34Z
+  Updated: 2026-07-25T11:29:17Z
   Total Products: 3
 - [Hem](https://www.craftmystic.ro/collections/hem)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T15:23:38Z
   Total Products: 5
 - [Namaste Mandala](https://www.craftmystic.ro/collections/namaste-mandala)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T12:10:17Z
   Total Products: 3
 - [Narje Cosmetics](https://www.craftmystic.ro/collections/narje-cosmetics)
   Updated: 2026-06-25T06:08:17Z
   Total Products: 4
 - [Cristale și decorațiuni](https://www.craftmystic.ro/collections/cristale-si-decoratiuni): Decor din cristale naturale: forme, figurine, piramide, copăcei, îngeri și simboluri. Piese unice și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 700
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 697
 - [Spiritualitate](https://www.craftmystic.ro/collections/spiritualitate): Spiritualitate: piese din cristale naturale precum ametist, lapis lazuli, cuarț și altele. Showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 327
 - [Pietre naturale](https://www.craftmystic.ro/collections/pietre-naturale)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 113
 - [Forme](https://www.craftmystic.ro/collections/forme): Forme din cristal: piese din cristale naturale precum obsidian, cuarț, ametist și altele. Decor și idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 153
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 152
 - [Decor din cristale](https://www.craftmystic.ro/collections/decor-din-cristale): Decor din cristale: piese din cristale naturale precum ametist, cuarț, obsidian și altele. Showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 350
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 348
 - [Purificare](https://www.craftmystic.ro/collections/purificare): Cristale și bijuterii asociate în tradiție cu purificare energetică. Pietre atent selectate, idei de cadou, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 142
 - [Ritualuri](https://www.craftmystic.ro/collections/ritualuri)
-  Updated: 2026-07-20T11:29:22Z
-  Total Products: 55
+  Updated: 2026-07-27T12:10:17Z
+  Total Products: 54
 - [Meditație și sunet](https://www.craftmystic.ro/collections/meditatie-si-sunet)
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 26
+  Updated: 2026-07-25T11:29:17Z
+  Total Products: 27
 - [Chakre](https://www.craftmystic.ro/collections/chakre): Descoperă cristalele pentru cele șapte chakre: pietre, seturi și bijuterii alese după culoare și simbolistică. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T22:44:32Z
-  Total Products: 2752
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 2777
 - [Cadouri](https://www.craftmystic.ro/collections/cadouri): Idei de cadou cu cristale naturale: pentru ea, pentru el, pentru copii sau pe buget. Daruri cu semnificație, showroom în București.
-  Updated: 2026-07-21T22:44:32Z
-  Total Products: 3032
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 3057
 - [Accesorii bijuterii](https://www.craftmystic.ro/collections/accesorii-bijuterii)
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T12:10:17Z
   Total Products: 48
 - [Coliere pentru Bărbați](https://www.craftmystic.ro/collections/coliere-pentru-barbati): Coliere pentru bărbați: colier cu cristale precum obsidian, jad și altele. Idei de cadou cu semnificație, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-28T12:16:20Z
   Total Products: 167
 - [Inele pentru Bărbați](https://www.craftmystic.ro/collections/inele-pentru-barbati): Inele din argint și pietre naturale pentru bărbați — ochi de tigru, onix, carneol și modele bărbătești.
-  Updated: 2026-07-20T11:29:22Z
+  Updated: 2026-07-28T12:16:19Z
   Total Products: 15
 - [Lanțuri pentru Bărbați](https://www.craftmystic.ro/collections/lanturi-pentru-barbati): Lanțuri și șnururi ajustabile pentru bărbați — din oțel inoxidabil, argint sau piele, pentru pietrele tale favorite.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-27T12:10:17Z
   Total Products: 9
 - [Cuarț roz](https://www.craftmystic.ro/collections/cuart-roz): Descoperă cuarț roz natural: brățări, pandantive, pietre brute și inimi decorative. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
-  Total Products: 201
+  Updated: 2026-07-28T12:16:20Z
+  Total Products: 202
 - [Jasp roșu](https://www.craftmystic.ro/collections/jasp-rosu): Descoperă jasp roșu natural: brățări, pandantive și pietre rulate. Cristale atent selectate, showroom în București.
-  Updated: 2026-07-21T11:29:37Z
+  Updated: 2026-07-26T11:23:25Z
   Total Products: 28
+- [Reduceri](https://www.craftmystic.ro/collections/reduceri): Cristale naturale și bijuterii cu pietre semiprețioase la reduceri de peste 40%. Stoc limitat, livrare gratuită peste 190 lei, retur 30 de zile.
+  Updated: 2026-07-28T19:32:01Z
+  Total Products: 572
 
 ## Blogs
 
 - [Blog](https://www.craftmystic.ro/blogs/blog)
   - [Cristale pentru fiecare zodie — ghid pe semne | CraftMystic](https://www.craftmystic.ro/blogs/blog/cristale-potrivite-pentru-fiecare-zodie): Cristale pentru fiecare zodie — ghid pe semne | CraftMystic
-    Updated: 2026-07-09T09:44:48Z
+    Updated: 2026-07-22T12:39:38Z
     Author: CraftMystic
     Tags: Blog
   - [Aventurin verde — proprietăți și utilizări | CraftMystic](https://www.craftmystic.ro/blogs/blog/cristalul-anului-2023-aventurin-verde-calmeaza-furia-si-iritatia): Aventurin verde — proprietăți și utilizări | CraftMystic
@@ -2655,7 +2690,7 @@
     Author: CraftMystic
     Tags: Blog
   - [Ghidul complet al cristalelor (începători) | CraftMystic](https://www.craftmystic.ro/blogs/blog/ghidul-complet-al-cristalelor): Ghidul complet al cristalelor (începători) | CraftMystic
-    Updated: 2026-07-09T09:44:55Z
+    Updated: 2026-07-22T12:39:38Z
     Author: CraftMystic
 
 ## Store Pages
@@ -2684,6 +2719,12 @@
   Updated: 2026-06-18T07:44:19Z
 - [Formular de retur](https://www.craftmystic.ro/pages/formular-de-retragere)
   Updated: 2026-06-23T09:05:15Z
+- [Moldavit Natural Autentic — Bijuterii Argint 925 | CraftMystic](https://www.craftmystic.ro/pages/moldavit-natural): /* CMLP — LP Moldavit/Chihlimbar — adaptat la design system-ul temei (Poppins, #217538) — v3 reorg ads 23.07 */ .cmlp{--v:#217538;--vm:#1a5c2c;--vi...
+  Updated: 2026-07-23T14:08:16Z
+- [Chihlimbar Baltic Autentic — Bijuterii Argint 925 | CraftMystic](https://www.craftmystic.ro/pages/chihlimbar-baltic): /* CMLP — LP Chihlimbar — același design system (Poppins, #217538) ca LP moldavit — v3 reorg ads 23.07 */ .cmlp{--v:#217538;--vm:#1a5c2c;--vi:#163f...
+  Updated: 2026-07-23T14:08:17Z
+- [Piatra Lunii: Cum Recunoști Autenticitatea — Ghid | CraftMystic](https://www.craftmystic.ro/pages/ghid-piatra-lunii): /* CMLP — LP Ghid Piatra Lunii — același design system (Poppins, #217538) ca LP moldavit/chihlimbar */ .cmlp{--v:#217538;--vm:#1a5c2c;--vi:#163f23;...
+  Updated: 2026-07-24T08:23:18Z
 
 ## Policies
 
