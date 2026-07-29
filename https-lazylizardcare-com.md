@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-11T10:54:23Z
 - Contact Email: neha.kwatra176@gmail.com
-- Updated At: 2026-07-21T00:00:34.787Z
+- Updated At: 2026-07-29T00:00:37.330Z
 
 IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our entire skincare range at Lazy Lizard Skincare. This limited-time  applies automatically at checkout.
 
@@ -251,6 +251,9 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
     Updated: 2026-07-08T15:00:15Z
     Author: NESHVARYA CONSUMER(OPC) PRIVATE LIMITED
     Tags: glutathione, lazy lizard, liposomal glutathione, sip glow
+  - [10 Surprising Benefits of Glutathione for Your Skin Glow](https://lazylizardcare.com/blogs/news/10-surprising-benefits-of-glutathione-for-your-skin-glow): 10 Surprising Benefits of Glutathione for Your Skin Glow
+    Updated: 2026-07-25T05:50:43Z
+    Author: Meenakshi Chaudhary
 
 ## Store Pages
 
@@ -266,6 +269,8 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
   Updated: 2026-06-24T23:06:08Z
 - [Partial Payment Policy](https://lazylizardcare.com/pages/partial-payment-policy): How Partial Payment Works: We offer Partial Cash on Delivery (COD) to provide flexibility: Initial Payment (Online): Pay a portion of your order to...
   Updated: 2026-05-27T14:24:59Z
+- [FAQ](https://lazylizardcare.com/pages/faq): Frequently Asked Questions Have Questions? We Have Answers. Select a category or search keywords to find instant answers. ✨ All FAQs 🔥 BOGO Offers ...
+  Updated: 2026-07-25T07:37:24Z
 
 ## Policies
 
