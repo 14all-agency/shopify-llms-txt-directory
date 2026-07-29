@@ -6,11 +6,11 @@
 - Timezone: America/Detroit
 - Created At: 2026-03-22T15:27:01Z
 - Contact Email: eric@marvingrowthpartners.com
-- Updated At: 2026-07-19T00:00:34.867Z
+- Updated At: 2026-07-29T00:00:35.573Z
 
 ## Collections
 
-- [Home page](https://marvingrowthpartners.com/collections/frontpage)
+- [Transform Your Business with Marvin Growth Partners](https://marvingrowthpartners.com/collections/marvin-growth-partners): Transform your business with Marvin Growth Partners. Discover expert strategies, tailored tools, and insights designed for your unique growth journey.
   Updated: 2026-06-01T16:26:32Z
   Total Products: 0
 
@@ -750,6 +750,228 @@ Building Your MI G…
     Updated: 2026-07-18T05:30:14Z
     Author: Eric Marvin
     Tags: en, grow local business organic traffic
+  - [Google Business Profile Explained: Enhancing Your Local Search Presence](https://marvingrowthpartners.com/blogs/news/google-business-profile-explained-enhancing-your-local-search-presence): Google Business Profile Explained: Enhancing Your Local Search Presence
+    Updated: 2026-07-19T01:02:49Z
+    Author: Eric Marvin
+  - [Proven Strategies for Lead Generation in Small Business Marketing](https://marvingrowthpartners.com/blogs/news/proven-strategies-for-lead-generation-in-small-business-marketing): Proven Strategies for Lead Generation in Small Business Marketing
+    Updated: 2026-07-19T01:02:57Z
+    Author: Eric Marvin
+  - [Building a Story-driven Sales Copy Inspired by Donald Miller's Techniques](https://marvingrowthpartners.com/blogs/news/building-a-story-driven-sales-copy-inspired-by-donald-millers-techniques): Building a Story-driven Sales Copy Inspired by Donald Miller's Techniques
+    Updated: 2026-07-19T01:03:14Z
+    Author: Eric Marvin
+    Tags: brand messaging, brand storytelling, business storytelling, conversion optimization, copywriting, customer journey, donald miller, donald miller techniques, effective sales copy,  copy, marketing, marketing messaging, sales copy, sales strategies, storybrand, value proposition, website messaging
+  - [The Role of Content Marketing in Boosting Search Engine and Local SEO](https://marvingrowthpartners.com/blogs/news/the-role-of-content-marketing-in-boosting-search-engine-and-local-seo): The Role of Content Marketing in Boosting Search Engine and Local SEO
+    Updated: 2026-07-19T01:03:46Z
+    Author: Eric Marvin
+    Tags: backlinks, boost local rankings, content, content marketing, content strategy, google business profile, keyword strategy, local rankings, local search optimization, local seo, marketing, organic traffic, search engine, search engine optimization, seo, seo techniques, technical seo, website seo
+  - [From Concept to Execution: Marketing Management with a CMO](https://marvingrowthpartners.com/blogs/news/from-concept-to-execution-marketing-management-with-a-cmo): From Concept to Execution: Marketing Management with a CMO
+    Updated: 2026-07-19T01:04:02Z
+    Author: Eric Marvin
+    Tags: business consulting, cmo, cmo services for startups, effective marketing strategies, execution plan, executive leadership, fractional cmo, growth strategy, marketing, marketing consultant, marketing leadership, marketing management, marketing planning, outsourced marketing executive, small business growth, strategic marketing, strategy
+  - [Offline Marketing Tactics Still Working in 2026](https://marvingrowthpartners.com/blogs/news/offline-marketing-tactics-still-working-in-2026): Discover offline marketing tactics still working in 2026. Learn how these strategies build trust and drive higher engagement than digital methods.
+    Updated: 2026-07-19T06:00:25Z
+    Author: Eric Marvin
+    Tags: en, offline marketing tactics still working
+  - [Maximizing Business Potential: How a Business Consultant Transforms Strategies](https://marvingrowthpartners.com/blogs/news/maximizing-business-potential-how-a-business-consultant-transforms-strategies): Maximizing Business Potential: How a Business Consultant Transforms Strategies
+    Updated: 2026-07-20T00:07:46Z
+    Author: Eric Marvin
+    Tags: best business practices, business advisor, business coaching, business consulting, business consulting services, business growth consultant, business strategy, consultant, fractional coo, growth, market analysis, marketing consultant, operations consulting, performance optimization, small business consultant, strategic planning, strategic planning services, strategy
+  - [Increase Local Search Visibility: An Educational Guide Using Business Listings and Citations](https://marvingrowthpartners.com/blogs/news/increase-local-search-visibility-an-educational-guide-using-business-listings-and-citations): Increase Local Search Visibility: An Educational Guide Using Business Listings and Citations
+    Updated: 2026-07-20T01:07:06Z
+    Author: Eric Marvin
+  - [Debunking Myths About Digital Marketing's Impact on Business Success](https://marvingrowthpartners.com/blogs/news/debunking-myths-about-digital-marketings-impact-on-business-success): Debunking Myths About Digital Marketing's Impact on Business Success
+    Updated: 2026-07-20T01:07:15Z
+    Author: Eric Marvin
+  - [Increase Conversion Rates by Elevating Brand Messaging with Donald Miller's Framework](https://marvingrowthpartners.com/blogs/news/increase-conversion-rates-by-elevating-brand-messaging-with-donald-millers-framework): Increase Conversion Rates by Elevating Brand Messaging with Donald Miller's Framework
+    Updated: 2026-07-20T01:07:29Z
+    Author: Eric Marvin
+    Tags: brand messaging, brand strategy, branding, business storytelling, conversion optimization, customer journey, donald miller, effective storytelling techniques, elevate brand communication,  copy, marketing, marketing messaging, messaging, sales copy, storybrand framework, value proposition, website messaging
+  - [Step-by-Step Guide to Balancing Local Search Optimization and Overall SEO](https://marvingrowthpartners.com/blogs/news/step-by-step-guide-to-balancing-local-search-optimization-and-overall-seo): Step-by-Step Guide to Balancing Local Search Optimization and Overall SEO
+    Updated: 2026-07-20T01:08:04Z
+    Author: Eric Marvin
+    Tags: backlinks, balancing seo and local strategies, comparing seo techniques, content marketing, digital marketing, google business profile, keyword strategy, local, local rankings, local search optimization, local seo strategies, marketing, organic traffic, search engine optimization, search optimization, seo, technical seo, website seo
+  - [Why Fractional CMOs Are Essential for Small Business Growth](https://marvingrowthpartners.com/blogs/news/why-fractional-cmos-are-essential-for-small-business-growth): Why Fractional CMOs Are Essential for Small Business Growth
+    Updated: 2026-07-20T01:08:22Z
+    Author: Eric Marvin
+    Tags: business consulting, business strategy, cmo, cost-effective marketing solutions, executive leadership, expert marketing advice, fractional leadership, growth, growth strategy, marketing, marketing consultant, marketing leadership, marketing management, marketing planning, outsourced marketing executive, small business, small business growth, strategic marketing
+  - [Grassroots Marketing Strategy Types for Small Businesses](https://marvingrowthpartners.com/blogs/news/grassroots-marketing-strategy-types-for-small-businesses): Discover effective grassroots marketing strategy types for small businesses. Build trust and engage your community without expensive ads!
+    Updated: 2026-07-20T17:07:43Z
+    Author: Eric Marvin
+    Tags: en, grassroots marketing strategy types
+  - [Small Business Growth Unlocked: The Role of Strategic Planning and Business Advisors](https://marvingrowthpartners.com/blogs/news/small-business-growth-unlocked-the-role-of-strategic-planning-and-business-advisors): Small Business Growth Unlocked: The Role of Strategic Planning and Business Advisors
+    Updated: 2026-07-21T00:11:34Z
+    Author: Eric Marvin
+    Tags: advisor, business advisor, business coaching, business consulting services, business growth, business growth consultant, business strategy, consultant, effective business strategies, fractional coo, marketing consultant, operations consulting, role of business advisors, small business consultant, small business success, strategic planning, strategy
+  - [The Connection Between SEO Audits and Improved Google Ranking](https://marvingrowthpartners.com/blogs/news/the-connection-between-seo-audits-and-improved-google-ranking): The Connection Between SEO Audits and Improved Google Ranking
+    Updated: 2026-07-21T01:08:03Z
+    Author: Eric Marvin
+  - [Navigating the Evolution of Branding in Modern Marketing Strategies](https://marvingrowthpartners.com/blogs/news/navigating-the-evolution-of-branding-in-modern-marketing-strategies): Navigating the Evolution of Branding in Modern Marketing Strategies
+    Updated: 2026-07-21T01:08:12Z
+    Author: Eric Marvin
+  - [Essential Guide to Creating Purposeful Brand Messaging and Customer Journeys à la Donald Miller](https://marvingrowthpartners.com/blogs/news/essential-guide-to-creating-purposeful-brand-messaging-and-customer-journeys-a-la-donald-miller): Essential Guide to Creating Purposeful Brand Messaging and Customer Journeys à la Donald Miller
+    Updated: 2026-07-21T01:08:26Z
+    Author: Eric Marvin
+    Tags: brand messaging, brand strategy, business storytelling, conversion optimization, create engaging brands, customer journey, customer journeys, donald miller, effective brand communication,  copy, marketing, marketing messaging, messaging, purposeful messaging, sales copy, storybrand, value proposition, website messaging
+  - [Historical Insights into the Development of Local Search Optimization Techniques](https://marvingrowthpartners.com/blogs/news/historical-insights-into-the-development-of-local-search-optimization-techniques): Historical Insights into the Development of Local Search Optimization Techniques
+    Updated: 2026-07-21T01:09:05Z
+    Author: Eric Marvin
+    Tags: backlinks, content marketing, evolution of local seo, google business profile, keyword strategy, local, local rankings, local search optimization, local search optimization history, marketing, optimization techniques, organic traffic, search engine, search engine optimization, seo, seo strategies, technical seo, website seo
+  - [Learning About Executive Leadership through a Fractional CMO's Lens](https://marvingrowthpartners.com/blogs/news/learning-about-executive-leadership-through-a-fractional-cmos-lens): Learning About Executive Leadership through a Fractional CMO's Lens
+    Updated: 2026-07-21T01:09:26Z
+    Author: Eric Marvin
+    Tags: business consulting, business growth, cmo, effective leadership strategies, executive coaching, executive leadership, fractional cmo benefits, fractional services, growth strategy, leadership, marketing consultant, marketing leadership, marketing management, marketing planning, marketing strategy, outsourced marketing executive, small business growth, strategic marketing
+  - [Build Brand Awareness Pre-Launch: Startup Guide 2026](https://marvingrowthpartners.com/blogs/news/build-brand-awareness-pre-launch): Learn how to build brand awareness pre-launch effectively. Discover strategies for engaging early adopters and creating anticipation before your product...
+    Updated: 2026-07-21T07:30:10Z
+    Author: Eric Marvin
+    Tags: build brand awareness pre-launch, en
+  - [Expert Insights: Unveiling the Core Benefits of Business Consulting Services](https://marvingrowthpartners.com/blogs/news/expert-insights-unveiling-the-core-benefits-of-business-consulting-services): Expert Insights: Unveiling the Core Benefits of Business Consulting Services
+    Updated: 2026-07-22T00:13:08Z
+    Author: Eric Marvin
+    Tags: benefits of consulting, business advisor, business coaching, business consultant, business consulting services, business growth consultant, business strategy, consultant, consulting services, expert business advice, fractional coo, growth, marketing consultant, operations consulting, professional guidance, small business consultant, strategic planning, strategy
+  - [Comparing the Top Strategies for Breaking into the Map Pack](https://marvingrowthpartners.com/blogs/news/comparing-the-top-strategies-for-breaking-into-the-map-pack): Comparing the Top Strategies for Breaking into the Map Pack
+    Updated: 2026-07-22T01:06:19Z
+    Author: Eric Marvin
+  - [The Role of a Marketing Consultant in Achieving Business and Sales Growth](https://marvingrowthpartners.com/blogs/news/the-role-of-a-marketing-consultant-in-achieving-business-and-sales-growth): The Role of a Marketing Consultant in Achieving Business and Sales Growth
+    Updated: 2026-07-22T01:06:29Z
+    Author: Eric Marvin
+  - [How Donald Miller's Business Storytelling Techniques Revolutionize Marketing Messaging](https://marvingrowthpartners.com/blogs/news/how-donald-millers-business-storytelling-techniques-revolutionize-marketing-messaging): How Donald Miller's Business Storytelling Techniques Revolutionize Marketing Messaging
+    Updated: 2026-07-22T01:06:49Z
+    Author: Eric Marvin
+    Tags: brand messaging, business storytelling, conversion optimization, customer journey, donald miller, effective brand communication,  copy, marketing, marketing messaging, marketing techniques, messaging, sales copy, storybrand, storytelling in business, value proposition, website messaging
+  - [Solving SEO Problems: A Focus on Local Search Challenges](https://marvingrowthpartners.com/blogs/news/solving-seo-problems-a-focus-on-local-search-challenges): Solving SEO Problems: A Focus on Local Search Challenges
+    Updated: 2026-07-22T01:07:31Z
+    Author: Eric Marvin
+    Tags: backlinks, content marketing, digital marketing, google business profile, keyword strategy, local, local optimization, local rankings, local search optimization, local seo strategies, organic traffic, search, search engine, search engine optimization, seo, seo challenges in local search, technical seo, website seo
+  - [Comparing Fractional CMOs to Full-Time Marketing Executives in Business Consulting](https://marvingrowthpartners.com/blogs/news/comparing-fractional-cmos-to-full-time-marketing-executives-in-business-consulting): Comparing Fractional CMOs to Full-Time Marketing Executives in Business Consulting
+    Updated: 2026-07-22T01:07:49Z
+    Author: Eric Marvin
+    Tags: benefits of fractional cmos, business consulting, cmo, executive leadership, fractional cmo, full-time executives, growth strategy, marketing, marketing consultant, marketing leadership, marketing management, marketing planning, outsourced marketing executive, outsourcing marketing leadership, small business growth, strategic marketing, strategy
+  - [Google Business Profile Marketing: Your Local Growth Engine](https://marvingrowthpartners.com/blogs/news/role-of-google-business-profile-marketing): Unlock the potential of your small business with the role of Google Business Profile marketing. Attract local customers and boost conversions!
+    Updated: 2026-07-22T12:00:06Z
+    Author: Eric Marvin
+    Tags: en, role of google business profile marketing
+  - [How to Choose the Right Business Growth Consultant for Your Company](https://marvingrowthpartners.com/blogs/news/how-to-choose-the-right-business-growth-consultant-for-your-company): How to Choose the Right Business Growth Consultant for Your Company
+    Updated: 2026-07-23T00:13:09Z
+    Author: Eric Marvin
+    Tags: best consultant for growth, business advisor, business coaching, business consultant, business consulting services, business growth consultant, business strategy, choosing consultant, consultant, find a business consultant, fractional coo, growth, marketing consultant, operations consulting, small business consultant, strategic planning, strategy
+  - [Trending in Local SEO: New Techniques for Google Maps Ranking Success](https://marvingrowthpartners.com/blogs/news/trending-in-local-seo-new-techniques-for-google-maps-ranking-success): Trending in Local SEO: New Techniques for Google Maps Ranking Success
+    Updated: 2026-07-23T01:05:45Z
+    Author: Eric Marvin
+  - [Essentials of Small Business Marketing: Growing Your Brand and Customer Base](https://marvingrowthpartners.com/blogs/news/essentials-of-small-business-marketing-growing-your-brand-and-customer-base): Essentials of Small Business Marketing: Growing Your Brand and Customer Base
+    Updated: 2026-07-23T01:05:56Z
+    Author: Eric Marvin
+  - [Innovative Website and Conversion Optimization Tips through Donald Miller's Approach](https://marvingrowthpartners.com/blogs/news/innovative-website-and-conversion-optimization-tips-through-donald-millers-approach): Innovative Website and Conversion Optimization Tips through Donald Miller's Approach
+    Updated: 2026-07-23T01:06:16Z
+    Author: Eric Marvin
+    Tags: brand messaging, branding, business storytelling, conversion optimization, conversion tips, customer journey, donald miller, donald miller strategy,  copy, marketing, marketing messaging, sales copy, storybrand, storytelling marketing techniques., value proposition, website messaging, website optimization
+  - [Current Trends in Search Engine Optimization and Local SEO Methods](https://marvingrowthpartners.com/blogs/news/current-trends-in-search-engine-optimization-and-local-seo-methods): Current Trends in Search Engine Optimization and Local SEO Methods
+    Updated: 2026-07-23T01:07:00Z
+    Author: Eric Marvin
+    Tags: backlinks, content marketing, current seo trends, google business profile, keyword strategy, local, local rankings, local search optimization, optimization, organic traffic, search engine, search engine optimization, seo, seo strategies, seo vs local seo, technical seo, website seo
+  - [Debunking Myths about Fractional CMOs in Strategic Marketing](https://marvingrowthpartners.com/blogs/news/debunking-myths-about-fractional-cmos-in-strategic-marketing): Debunking Myths about Fractional CMOs in Strategic Marketing
+    Updated: 2026-07-23T01:07:16Z
+    Author: Eric Marvin
+    Tags: benefits of fractional cmos, brand strategy, business consulting, chief marketing officer, cmo, executive leadership, fractional marketing, growth strategy, marketing, marketing consultant, marketing leadership, marketing management, marketing planning, outsourced marketing executive, small business growth, strategic marketing, strategy, what is fractional cmo
+  - [Why SMBs Struggle with Marketing Consistency](https://marvingrowthpartners.com/blogs/news/why-smbs-struggle-with-marketing-consistency): Discover why SMBs struggle with marketing consistency and learn actionable strategies to overcome common barriers. Boost your marketing today!
+    Updated: 2026-07-23T07:30:11Z
+    Author: Eric Marvin
+    Tags: en, why smbs struggle with marketing consistency
+  - [Operations Consulting Know-How: Boost Efficiency and Achieve Success](https://marvingrowthpartners.com/blogs/news/operations-consulting-know-how-boost-efficiency-and-achieve-success): Operations Consulting Know-How: Boost Efficiency and Achieve Success
+    Updated: 2026-07-24T00:27:03Z
+    Author: Eric Marvin
+    Tags: business advisor, business coaching, business consulting, business consulting services, business growth consultant, business strategy, consultant, effective operations consulting, efficiency, fractional coo, marketing consultant, operational excellence tips, operations, operations consulting, process improvement, small business consultant, strategic planning, success strategies
+  - [How to Optimize Your Google Business Profile for Better Local Search Results](https://marvingrowthpartners.com/blogs/news/how-to-optimize-your-google-business-profile-for-better-local-search-results): How to Optimize Your Google Business Profile for Better Local Search Results
+    Updated: 2026-07-24T01:21:34Z
+    Author: Eric Marvin
+  - [10 Innovative Marketing Strategies for Lead Generation in Small Businesses](https://marvingrowthpartners.com/blogs/news/10-innovative-marketing-strategies-for-lead-generation-in-small-businesses): 10 Innovative Marketing Strategies for Lead Generation in Small Businesses
+    Updated: 2026-07-24T01:21:44Z
+    Author: Eric Marvin
+  - [Aligning Brand Messaging and Customer Journeys with Insights from Donald Miller](https://marvingrowthpartners.com/blogs/news/aligning-brand-messaging-and-customer-journeys-with-insights-from-donald-miller): Aligning Brand Messaging and Customer Journeys with Insights from Donald Miller
+    Updated: 2026-07-24T01:22:00Z
+    Author: Eric Marvin
+    Tags: brand alignment, brand messaging, business storytelling, conversion optimization, customer journey, customer-centric strategies, donald miller, effective communication,  copy, marketing, marketing messaging, messaging, sales copy, storybrand, storybrand framework, value proposition, website messaging
+  - [Exploring the Differences Between Search Engine Optimization and Local Search Optimization](https://marvingrowthpartners.com/blogs/news/exploring-the-differences-between-search-engine-optimization-and-local-search-optimization): Exploring the Differences Between Search Engine Optimization and Local Search Optimization
+    Updated: 2026-07-24T01:22:37Z
+    Author: Eric Marvin
+    Tags: backlinks, content marketing, digital marketing, google business profile, keyword strategy, local, local rankings, local search optimization, local seo, optimization, organic traffic, search engine, search engine optimization, search optimization differences, seo, seo vs local seo, technical seo, website seo
+  - [Understanding Fractional CMOs for Enhanced Marketing Leadership](https://marvingrowthpartners.com/blogs/news/understanding-fractional-cmos-for-enhanced-marketing-leadership): Understanding Fractional CMOs for Enhanced Marketing Leadership
+    Updated: 2026-07-24T01:22:55Z
+    Author: Eric Marvin
+    Tags: business consulting, business growth, cmo, dedicated marketing officer, executive leadership, fractional cmo, fractional marketing leadership, growth strategy, leadership, marketing, marketing consultant, marketing leadership, marketing management, marketing planning, marketing strategy, outsourced marketing executive, small business growth, strategic marketing
+  - [Transition From Startup to Scalable Brand: A Practical Guide](https://marvingrowthpartners.com/blogs/news/transition-from-startup-to-scalable-brand): Unlock growth with our practical guide on the transition from startup to scalable brand. Discover essential strategies to thrive without bottlenecks!
+    Updated: 2026-07-24T07:13:25Z
+    Author: Eric Marvin
+    Tags: en, transition from startup to scalable brand
+  - [Running a Successful Local SEO Audit: Key Elements to Consider](https://marvingrowthpartners.com/blogs/news/running-a-successful-local-seo-audit-key-elements-to-consider): Running a Successful Local SEO Audit: Key Elements to Consider
+    Updated: 2026-07-25T01:04:43Z
+    Author: Eric Marvin
+  - [Overcoming Small Business Marketing Challenges: Solutions for Better Branding](https://marvingrowthpartners.com/blogs/news/overcoming-small-business-marketing-challenges-solutions-for-better-branding): Overcoming Small Business Marketing Challenges: Solutions for Better Branding
+    Updated: 2026-07-25T01:04:52Z
+    Author: Eric Marvin
+  - [Website Messaging Clarity: Lessons in Effective Business Storytelling from Donald Miller](https://marvingrowthpartners.com/blogs/news/website-messaging-clarity-lessons-in-effective-business-storytelling-from-donald-miller): Website Messaging Clarity: Lessons in Effective Business Storytelling from Donald Miller
+    Updated: 2026-07-25T01:05:07Z
+    Author: Eric Marvin
+    Tags: brand messaging, brand strategy, business clarity, business storytelling, conversion optimization, customer journey, donald miller, donald miller lessons, effective business storytelling, effective communication,  copy, marketing messaging, messaging, sales copy, storybrand, storytelling, value proposition, website messaging
+  - [How Google Business Profile Impacts Search Engine Optimization and Local SEO](https://marvingrowthpartners.com/blogs/news/how-google-business-profile-impacts-search-engine-optimization-and-local-seo): How Google Business Profile Impacts Search Engine Optimization and Local SEO
+    Updated: 2026-07-25T01:05:40Z
+    Author: Eric Marvin
+    Tags: backlinks, business seo techniques, content marketing, google business, google business profile, keyword strategy, local, local rankings, local search optimization, local search strategy, optimization, organic traffic, profile impact, search engine, search engine optimization, seo, technical seo, website seo
+  - [Finding business growth with the expertise of a Fractional CMO](https://marvingrowthpartners.com/blogs/news/finding-business-growth-with-the-expertise-of-a-fractional-cmo): Finding business growth with the expertise of a Fractional CMO
+    Updated: 2026-07-25T01:05:55Z
+    Author: Eric Marvin
+    Tags: business consulting, business strategy, cmo, executive leadership, executive marketing, fractional chief marketing officer, fractional cmo, growth, growth strategy, improve business performance, marketing, marketing consultant, marketing leadership, marketing management, marketing planning, outsourced marketing executive, small business growth, strategic marketing
+  - [E-Commerce Pricing Strategy Types That Drive Real Profit](https://marvingrowthpartners.com/blogs/news/pricing-strategy-types-e-commerce): Discover the best pricing strategy types for e-commerce that drive profit. Learn how the right approach can boost your bottom line significantly!
+    Updated: 2026-07-25T06:00:12Z
+    Author: Eric Marvin
+    Tags: en, pricing strategy types e-commerce
+  - [Understanding Google's Map Pack: A Comprehensive Explainer on Improving Your Google Maps Ranking](https://marvingrowthpartners.com/blogs/news/understanding-googles-map-pack-a-comprehensive-explainer-on-improving-your-google-maps-ranking): Understanding Google's Map Pack: A Comprehensive Explainer on Improving Your Google Maps Ranking
+    Updated: 2026-07-26T00:48:09Z
+    Author: Eric Marvin
+  - [Explained: How Digital Marketing Drives Business Growth](https://marvingrowthpartners.com/blogs/news/explained-how-digital-marketing-drives-business-growth): Explained: How Digital Marketing Drives Business Growth
+    Updated: 2026-07-26T00:48:17Z
+    Author: Eric Marvin
+  - [Exploring Donald Miller’s Advice: Crafting an Impactful Value Proposition](https://marvingrowthpartners.com/blogs/news/exploring-donald-miller-s-advice-crafting-an-impactful-value-proposition): Exploring Donald Miller’s Advice: Crafting an Impactful Value Proposition
+    Updated: 2026-07-26T00:48:32Z
+    Author: Eric Marvin
+    Tags: brand messaging, business storytelling, conversion optimization, customer clarity, customer journey, donald miller, donald miller advice, effective value proposition,  copy, impactful strategy, marketing, marketing messaging, sales copy, storybrand, value, value proposition, website messaging
+  - [Dive into Technical SEO for Enhanced Local Rankings and Organic Traffic](https://marvingrowthpartners.com/blogs/news/dive-into-technical-seo-for-enhanced-local-rankings-and-organic-traffic): Dive into Technical SEO for Enhanced Local Rankings and Organic Traffic
+    Updated: 2026-07-26T00:49:04Z
+    Author: Eric Marvin
+    Tags: backlinks, content marketing, enhance local visibility, google business profile, improve website rankings, keyword strategy, local, local rankings, local search optimization, organic traffic, rankings, search engine optimization, search optimization, seo, technical seo, website seo
+  - [How an Outsourced Marketing Executive Accelerates Small Business Growth](https://marvingrowthpartners.com/blogs/news/how-an-outsourced-marketing-executive-accelerates-small-business-growth): How an Outsourced Marketing Executive Accelerates Small Business Growth
+    Updated: 2026-07-26T00:49:17Z
+    Author: Eric Marvin
+    Tags: business consulting, cmo, cmo for hire, executive leadership, executive marketing, fractional, growth, growth strategy, marketing consultant, marketing leadership, marketing management, marketing planning, marketing strategy, outsourced marketing executive, outsourced marketing solutions, small business, small business growth, strategic marketing
+  - [How to Transition from Ad Hoc Marketing to Strategy](https://marvingrowthpartners.com/blogs/news/transition-from-ad-hoc-marketing): Discover how to transition from ad hoc marketing to a strategic approach. Boost ROI, streamline messaging, and enhance brand recognition.
+    Updated: 2026-07-26T06:30:09Z
+    Author: Eric Marvin
+    Tags: en, transition from ad hoc marketing
+  - [Fractional COO vs. Full-Time COO: Which is Better for Your Business Development?](https://marvingrowthpartners.com/blogs/news/fractional-coo-vs-full-time-coo-which-is-better-for-your-business-development): Fractional COO vs. Full-Time COO: Which is Better for Your Business Development?
+    Updated: 2026-07-27T00:07:10Z
+    Author: Eric Marvin
+    Tags: business advisor, business coaching, business consulting services, business development, business growth consultant, business growth strategies, business strategy, consultant, coo, fractional coo, full-time coo, marketing consultant, operational efficiency tips, operations consulting, small business consultant, strategic planning, strategy
+  - [Five Essential Citations Every Business Needs for Improved Local Marketing](https://marvingrowthpartners.com/blogs/news/five-essential-citations-every-business-needs-for-improved-local-marketing): Five Essential Citations Every Business Needs for Improved Local Marketing
+    Updated: 2026-07-27T00:52:30Z
+    Author: Eric Marvin
+  - [Marketing Plan Essentials: A Guide for Small Business Success](https://marvingrowthpartners.com/blogs/news/marketing-plan-essentials-a-guide-for-small-business-success): Marketing Plan Essentials: A Guide for Small Business Success
+    Updated: 2026-07-27T00:52:39Z
+    Author: Eric Marvin
+  - [Transforming Sales Copy with Donald Miller's Brand Messaging Principles](https://marvingrowthpartners.com/blogs/news/transforming-sales-copy-with-donald-millers-brand-messaging-principles): Transforming Sales Copy with Donald Miller's Brand Messaging Principles
+    Updated: 2026-07-27T00:52:52Z
+    Author: Eric Marvin
+    Tags: brand messaging, brand strategy, business storytelling, conversion optimization, customer focus, customer journey, donald miller, donald miller messaging framework,  copy, marketing, marketing messaging, messaging, sales copy, storybrand, storybrand principles guide, value proposition, website messaging
+  - [Content Marketing Strategies to Elevate Both Search Engine Optimization and Local SEO](https://marvingrowthpartners.com/blogs/news/content-marketing-strategies-to-elevate-both-search-engine-optimization-and-local-seo): Content Marketing Strategies to Elevate Both Search Engine Optimization and Local SEO
+    Updated: 2026-07-27T00:53:22Z
+    Author: Eric Marvin
+    Tags: backlinks, boost local visibility, content, content marketing, effective seo techniques, google business profile, keyword strategy, keywords research, local, local rankings, local search optimization, marketing strategies, organic traffic, search engine optimization, search optimization, seo, technical seo, website seo
+  - [Mastering Strategic Marketing with the guidance of a Fractional CMO](https://marvingrowthpartners.com/blogs/news/mastering-strategic-marketing-with-the-guidance-of-a-fractional-cmo): Mastering Strategic Marketing with the guidance of a Fractional CMO
+    Updated: 2026-07-27T00:53:38Z
+    Author: Eric Marvin
+    Tags: business consulting, business growth, cmo, executive leadership, experienced marketing leadership, fractional cmo, fractional marketing solutions, growth strategy, marketing, marketing consultant, marketing leadership, marketing management, marketing planning, outsourced marketing executive, small business growth, strategic marketing, strategy
+  - [Why Entrepreneurs Need a Marketing Calendar](https://marvingrowthpartners.com/blogs/news/why-entrepreneurs-need-a-marketing-calendar): Discover why entrepreneurs need a marketing calendar to boost consistency, resource clarity, and smarter campaign planning for success.
+    Updated: 2026-07-27T08:00:07Z
+    Author: Eric Marvin
+    Tags: en, why entrepreneurs need a marketing calendar
 
 ## Store Pages
 
