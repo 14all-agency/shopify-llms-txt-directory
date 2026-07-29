@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2020-06-04T17:54:08Z
 - Contact Email: info@popcycling.co
-- Updated At: 2026-07-10T00:00:43.033Z
+- Updated At: 2026-07-29T05:09:05.596Z
 
 ## Products
 
 - [POP Cycling Co. White Cycling Socks - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/permanents-socks-white): Elevate your cycling experience with POP white cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight white cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
-  Updated: 2026-07-09T21:41:55Z
+  Updated: 2026-07-29T01:54:36Z
   Vendor: POP Cycling Co.
   Product Type: Socks
   Availability: Available
@@ -26,7 +26,7 @@
     Availability: Available
     Price: £16.00 GBP
 - [POP Cycling Co. Cycling Socks Black - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/permanents-socks-black): Elevate your cycling experience with POP unisex cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight black cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
-  Updated: 2026-07-09T14:42:00Z
+  Updated: 2026-07-28T07:04:18Z
   Vendor: POP Cycling Co.
   Product Type: Socks
   Availability: Available
@@ -38,17 +38,17 @@
     Availability: Available
     Price: £16.00 GBP
   - [43-46](https://www.popcyclingco.com/products/permanents-socks-black?variant=43853546750205)
-    Availability: Not Available
+    Availability: Available
     Price: £16.00 GBP
 - [POP Cycling Co. Cycling Water Bottle Icon Bidon](https://www.popcyclingco.com/products/icon-bidon): Discover premium cycling water bottles designed to keep you hydrated on every ride. Our lightweight, BPA-free bottles offer easy grip, leak-proof caps, and optimal flow for quick sips while cycling. Perfect for road cycling, these durable water bottles fit standard cages and come in various sizes and colors. Stay refreshed and ride longer with our top-rated cycling water bottles, offering quality, convenience, and performance.
-  Updated: 2026-07-08T08:57:26Z
+  Updated: 2026-07-28T23:15:55Z
   Vendor: POP Cycling Co.
   Product Type: Water Bottles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0404/4501/8274/files/icon-bottle-5230662.webp?v=1752060705
   Price: £15.00 GBP
 - [White Cycling Socks 3-Pack - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/pack-of-3-permanent-white-socks): Elevate your cycling experience with POP unisex cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight white cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
-  Updated: 2026-07-09T21:22:05Z
+  Updated: 2026-07-29T01:45:22Z
   Vendor: POP Cycling Co.
   Product Type: Socks
   Availability: Available
@@ -63,7 +63,7 @@
     Availability: Available
     Price: £35.00 GBP
 - [Black Cycling Socks 3-Pack - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/pack-of-3-permanent-black-socks): Elevate your cycling experience with POP unisex cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight white cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
-  Updated: 2026-07-09T14:26:12Z
+  Updated: 2026-07-28T19:50:38Z
   Vendor: POP Cycling Co.
   Product Type: Socks
   Availability: Available
@@ -75,109 +75,145 @@
     Availability: Available
     Price: £35.00 GBP
   - [43-46](https://www.popcyclingco.com/products/pack-of-3-permanent-black-socks?variant=45617095966973)
-    Availability: Not Available
+    Availability: Available
     Price: £35.00 GBP
 - [POP Cycling Co. Laurel White Cycling Socks - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/laurel-socks): Elevate your cycling experience with POP white cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight white cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
-  Updated: 2026-07-08T22:46:46Z
+  Updated: 2026-07-28T04:37:05Z
   Vendor: POP Cycling Co.
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0404/4501/8274/files/pop-cycling-fruity-socks-laurel-pair.jpg?v=1769112741
   - [35-38](https://www.popcyclingco.com/products/laurel-socks?variant=55830334636412)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
   - [39-42](https://www.popcyclingco.com/products/laurel-socks?variant=55830334669180)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
   - [43-46](https://www.popcyclingco.com/products/laurel-socks?variant=55830334701948)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
 - [POP Cycling Co. Rose White Cycling Socks - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/rose-socks): Elevate your cycling experience with POP white cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight white cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
-  Updated: 2026-07-08T08:57:26Z
+  Updated: 2026-07-28T21:00:36Z
   Vendor: POP Cycling Co.
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0404/4501/8274/files/pop-cycling-white-socks-rose-pair.jpg?v=1775833970
   - [35-38](https://www.popcyclingco.com/products/rose-socks?variant=55830349349244)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
   - [39-42](https://www.popcyclingco.com/products/rose-socks?variant=55830349382012)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
   - [43-46](https://www.popcyclingco.com/products/rose-socks?variant=55830349414780)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
 - [POP Cycling Co. Cherry White Cycling Socks - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/cherry-socks): Elevate your cycling experience with POP white cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight white cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
-  Updated: 2026-07-08T08:57:18Z
+  Updated: 2026-07-28T21:00:36Z
   Vendor: POP Cycling Co.
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0404/4501/8274/files/pop-cycling-fruity-socks-cherry-pair.jpg?v=1775833808
   - [35-38](https://www.popcyclingco.com/products/cherry-socks?variant=55830352494972)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
   - [39-42](https://www.popcyclingco.com/products/cherry-socks?variant=55830352527740)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
   - [43-46](https://www.popcyclingco.com/products/cherry-socks?variant=55830352560508)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
 - [POP Cycling Co. Fruity White Cycling Socks - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/fruity-socks): Elevate your cycling experience with POP white cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight white cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
-  Updated: 2026-07-08T14:13:58Z
+  Updated: 2026-07-28T23:15:56Z
   Vendor: POP Cycling Co.
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0404/4501/8274/files/pop-cycling-fruity-white-socks-pair.jpg?v=1769111674
   - [35-38](https://www.popcyclingco.com/products/fruity-socks?variant=55830354755964)
-    Availability: Available
-    Price: £16.00 GBP
+    Availability: Not Available
+    Price: £10.00 GBP
   - [39-42](https://www.popcyclingco.com/products/fruity-socks?variant=55830354788732)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
   - [43-46](https://www.popcyclingco.com/products/fruity-socks?variant=55830354821500)
     Availability: Available
-    Price: £16.00 GBP
+    Price: £10.00 GBP
+- [Aero White Cycling Socks - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/aero-white-socks): Elevate your cycling experience with POP aero white cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight white cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
+  Updated: 2026-07-28T20:11:55Z
+  Vendor: POP Cycling Co.
+  Product Type: Socks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0404/4501/8274/files/Untitled_design-7.jpg?v=1784827132
+  - [35-38](https://www.popcyclingco.com/products/aero-white-socks?variant=56947784057212)
+    Availability: Available
+    Price: £30.00 GBP
+  - [39-42](https://www.popcyclingco.com/products/aero-white-socks?variant=56947784089980)
+    Availability: Available
+    Price: £30.00 GBP
+  - [43-46](https://www.popcyclingco.com/products/aero-white-socks?variant=56947784122748)
+    Availability: Available
+    Price: £30.00 GBP
+- [Aero Cycling Socks 3-Pack White - Premium Performance Unisex - Men & Women](https://www.popcyclingco.com/products/3-pack-aero-socks): Elevate your cycling experience with POP aero white cycling socks, meticulously crafted in Europe to the highest standards of quality. Designed for performance, our premium lightweight white cycling socks boast unparalleled breathability and durability, ensuring optimal comfort mile after mile. Constructed with fabrics 2x lighter than cotton, these socks maximize ventilation for a cool and comfortable ride. Step up your cycling game with socks that deliver on both performance and style.
+  Updated: 2026-07-28T21:08:19Z
+  Vendor: POP Cycling Co.
+  Product Type: Socks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0404/4501/8274/files/Untitled_design-8.jpg?v=1784827317
+  - [35-38](https://www.popcyclingco.com/products/3-pack-aero-socks?variant=57185244348796)
+    Availability: Available
+    Price: £60.00 GBP
+  - [39-42](https://www.popcyclingco.com/products/3-pack-aero-socks?variant=57185244381564)
+    Availability: Available
+    Price: £60.00 GBP
+  - [43-46](https://www.popcyclingco.com/products/3-pack-aero-socks?variant=57185244414332)
+    Availability: Available
+    Price: £60.00 GBP
 
 ## Collections
 
 - [Socks](https://www.popcyclingco.com/collections/socks): Elevate your cycling performance with our premium cycling socks. Engineered for comfort and durability, our socks feature advanced moisture-wicking technology to keep your feet dry and comfortable throughout your ride. With a snug yet non-restrictive fit, they provide support and cushioning where you need it most. Whether you're tackling steep climbs or cruising along scenic routes, our premium cycling socks offer the perfect blend of performance and style. Upgrade your ride with our top-quality socks today.
-  Updated: 2026-07-09T11:14:09Z
-  Total Products: 9
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 8
 - [Bidons](https://www.popcyclingco.com/collections/bidons): Quench your thirst for excellence with our premium cycling bidons. Crafted with precision and innovation, our bidons are designed to keep you hydrated on the go. Featuring high-quality materials and ergonomic designs, they offer durability, reliability, and leak-proof performance. Whether you're hitting the trails or cruising through the city streets, our bidons ensure you stay refreshed and ready for the ride ahead. Choose excellence for your hydration needs with our premium cycling bidons. Shop now and elevate your cycling experience.
-  Updated: 2026-07-08T11:15:29Z
+  Updated: 2026-07-28T11:17:14Z
   Total Products: 1
 - [Shop All](https://www.popcyclingco.com/collections/all-products)
-  Updated: 2026-07-09T11:14:09Z
-  Total Products: 12
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 13
 - [Permanent](https://www.popcyclingco.com/collections/sibling-permanent): The Permanents Collection is a premium line of minimalist staples. We reviewed what we wanted from our own daily wardrobe and designed essential items that accommodate year-round wearing and easy pairing, whilst produced to the most premium standards.
 
 We have added these to our "Never out of stock“ (NOS) program so they can continue to be a staple part of your capsule wardrobe.
-  Updated: 2026-07-09T11:14:09Z
-  Total Products: 3
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 2
 - [Permanent Socks](https://www.popcyclingco.com/collections/permanents-socks)
-  Updated: 2026-07-09T11:14:09Z
-  Total Products: 3
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 2
 - [Bundles](https://www.popcyclingco.com/collections/sibling-permanent-pack)
-  Updated: 2026-07-09T11:14:09Z
+  Updated: 2026-07-28T11:17:14Z
   Total Products: 2
 - [All Products](https://www.popcyclingco.com/collections/all)
-  Updated: 2026-07-09T11:14:09Z
-  Total Products: 12
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 13
 - [Permanent Range](https://www.popcyclingco.com/collections/home-page)
-  Updated: 2026-07-09T11:14:09Z
-  Total Products: 5
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 4
 - [Gifts](https://www.popcyclingco.com/collections/gifts): Discover premium Christmas gifts for cyclists at POP Cycling Co. A curated selection of refined essentials and accessories — designed for riders who value quality, style, and performance.
-  Updated: 2026-07-09T11:14:09Z
+  Updated: 2026-07-28T11:17:14Z
   Total Products: 9
 - [Signature](https://www.popcyclingco.com/collections/sibling-pattern)
-  Updated: 2026-07-09T11:14:09Z
-  Total Products: 5
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 4
 - [Bundles](https://www.popcyclingco.com/collections/single-socks)
-  Updated: 2026-07-09T11:14:09Z
-  Total Products: 9
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 8
 - [all](https://www.popcyclingco.com/collections/all-1)
-  Updated: 2026-07-09T11:14:09Z
-  Total Products: 12
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 13
+- [Aero Socks](https://www.popcyclingco.com/collections/aero-socks): Premium aero cycling socks engineered by POP Cycling Co. to minimise drag. Featuring a sleek branded upper designed to complement any kit.
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 2
+- [](https://www.popcyclingco.com/collections/)
+  Updated: 2026-07-28T11:17:14Z
+  Total Products: 4
 
 ## Blogs
 
@@ -227,8 +263,6 @@ We have added these to our "Never out of stock“ (NOS) program so they can cont
   Updated: 2025-10-09T09:01:56Z
 - [Become a retailer](https://www.popcyclingco.com/pages/become-a-retailer)
   Updated: 2026-01-21T11:37:54Z
-- [Bundles](https://www.popcyclingco.com/pages/bundles)
-  Updated: 2025-12-04T13:22:01Z
 - [Socks Bundles](https://www.popcyclingco.com/pages/socks-bundles): Buy any four pairs of single socks and save 22%. is automatically applied at checkout.
   Updated: 2025-12-04T12:44:45Z
 - [Best Cycling Socks for Road Cycling | POP Cycling Co.](https://www.popcyclingco.com/pages/best-cycling-socks): 
