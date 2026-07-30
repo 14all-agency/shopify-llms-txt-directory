@@ -1,38 +1,40 @@
 # MUVA (https://wearemuva.com)
 
+> MUVA is a women-focused wellness and  platform offering curated products for period care, pregnancy, postpartum recovery, menopause, and everyday wellbeing. The platform combines trusted wellness brands, self-care essentials, supplements, skincare, and intimate health solutions designed to support women through every stage of life.
+
 - Domain: https://wearemuva.com
 - Locale: en
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2026-02-03T19:02:43Z
 - Contact Email: hello@wearemuva.com
-- Updated At: 2026-07-22T09:45:36.139Z
+- Updated At: 2026-07-30T00:00:24.554Z
 
 ## Products
 
 - [Fushi Vegan Collagen Builder for Hair, Skin & Joints | MUVA](https://wearemuva.com/products/vegan-collagen-builder): Nourish from within. Shop the Fushi Vegan Collagen Builder — to support stronger hair, radiant skin, and healthy joints, naturally.
-  Updated: 2026-07-20T15:56:11Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Fushi Wellbeing
   Product Type: Herbal Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/vegan_collagen_builder_fa88f47d-c8ab-4854-bbf5-1c9fd93094ff.webp?v=1780880162
   Price: £30.00 GBP
 - [Sleep Cheat Night Cream for Soft, Fresh-Looking Skin](https://wearemuva.com/products/sleep-cheat-night-cream): Wake up to softer, more hydrated skin. Shop Sleep Cheat Night Cream — curated by MUVA for deep overnight nourishment and a complexion that feels renewed.
-  Updated: 2026-07-21T18:36:46Z
+  Updated: 2026-07-29T13:24:08Z
   Vendor: SKN TO SKN
   Product Type: Moisturiser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/sleep-cheat-night-cream_d2b242db-5a24-4269-907a-03beac8d1cd4.jpg?v=1777299881
   Price: £30.00 GBP
 - [Multi-Tasking Face Serum for Hydration and Skin Support](https://wearemuva.com/products/multi-tasking-face-serum): One serum, multiple benefits. Shop the multi-tasking face serum for hydration, refined texture, and skin that visibly glows.
-  Updated: 2026-07-21T18:46:02Z
+  Updated: 2026-07-29T14:05:51Z
   Vendor: SKN TO SKN
   Product Type: Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Untitled_design-12.png?v=1777299887
   Price: £35.00 GBP
 - [Glow & Go SPF 30 Moisturiser for Daily Sun Protection](https://wearemuva.com/products/glow-go-daily-moisturiser-with-mineral-spf-30): Hydration and sun protection in one. Shop Glow & Go SPF 30 moisturiser. A lightweight, glowing finish you'll actually want to wear every day.
-  Updated: 2026-07-21T14:41:03Z
+  Updated: 2026-07-29T13:24:06Z
   Vendor: SKN TO SKN
   Product Type: Moisturiser
   Availability: Available
@@ -44,14 +46,14 @@
     Availability: Available
     Price: £30.00 GBP
 - [Balancing Act Gel to Oil Cleanser for Fresh Skin](https://wearemuva.com/products/balancing-act-gel-to-oil-cleanser): Makeup, impurities, the day - all of it gone. Shop Balancing Act gel-to-oil cleanser for a thorough, skin-kind cleanse that leaves you balanced.
-  Updated: 2026-07-21T14:41:04Z
+  Updated: 2026-07-29T13:24:03Z
   Vendor: SKN TO SKN
   Product Type: Cleanser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/balancing-act-gel-to-oil-cleanser-independent.jpg?v=1777299885
   Price: £29.00 GBP
 - [Buy Flow Freedom Period Underwear for All-Day Ease](https://wearemuva.com/products/flow-freedom-period-underwear): Meet Flow Freedom — period underwear built for reliable leak protection and all-day comfort. Find your fit, curated by MUVA.
-  Updated: 2026-07-19T13:25:57Z
+  Updated: 2026-07-29T13:24:06Z
   Vendor: Ruby Cup
   Product Type: Underwear
   Availability: Available
@@ -185,7 +187,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Ruby_Cup_flow_freedom_period_underwear_dusty_rose.jpg?v=1777300478
     Price: £24.95 GBP
 - [Ruby Cup Steriliser for Menstrual Cup Care | MUVA](https://wearemuva.com/products/ruby-steriliser): Keep your Ruby Cup clean and ready. The Ruby Steriliser makes menstrual cup hygiene simple, effective, and built into your routine.
-  Updated: 2026-07-22T02:40:21Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Ruby Cup
   Product Type: Accessory
   Availability: Available
@@ -211,7 +213,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/PURPLE.jpg?v=1777300499
     Price: £13.95 GBP
 - [Period Underwear for Leak Protection and Everyday Comfort](https://wearemuva.com/products/fearless-period-underwear): Meet Fearless — period underwear designed for light flow days, leak-free comfort, and the confidence to get on with it. Curated by MUVA.
-  Updated: 2026-07-20T15:34:36Z
+  Updated: 2026-07-29T13:24:09Z
   Vendor: Ruby Cup
   Product Type: Underwear
   Availability: Available
@@ -313,7 +315,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_5e1573b7-302d-44ef-87e7-9d4c7979f856.jpg?v=1777300499
     Price: £18.95 GBP
 - [Train Pelvic Muscles Easily with Ruby Kegel Trainer](https://wearemuva.com/products/ruby-kegel-trainer): Train pelvic muscles with a discreet kegel trainer designed for targeted workouts and better control. Feel the difference over time.
-  Updated: 2026-07-17T17:12:17Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Ruby Cup
   Product Type: Kegel Trainer
   Availability: Available
@@ -327,7 +329,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/PurpleKegelVertical_75042bbe-563f-4faa-b351-1f2987622fef.jpg?v=1777300498
     Price: £12.95 GBP
 - [Ruby Cup Menstrual Cup for Comfortable Period Care](https://wearemuva.com/products/ruby-cup-menstrual-cup): The Ruby Cup — a reusable menstrual cup designed for a secure, comfortable fit. Make the switch to period care that works for you and the planet.
-  Updated: 2026-07-22T06:13:02Z
+  Updated: 2026-07-29T21:53:56Z
   Vendor: Ruby Cup
   Product Type: Menstrual Cup
   Availability: Available
@@ -373,126 +375,126 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/15_25186c61-adf8-49c7-99d0-d7a96bdcbd25.jpg?v=1777300503
     Price: £25.95 GBP
 - [Fushi's Gut Detox Bundle for Digestive Balance & Wellness | MUVA](https://wearemuva.com/products/gut-detox-bundle): Reset from the inside out. Shop the Gut Detox Bundle with targeted ingredients to support digestive balance and internal cleansing.
-  Updated: 2026-07-21T04:25:56Z
+  Updated: 2026-07-29T23:40:36Z
   Vendor: Fushi Wellbeing
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/triphala_aloe_milk.webp?v=1780880287
   Price: £58.00 GBP
 - [Organic Shea Butter 200g for Soft Nourished Skin](https://wearemuva.com/products/organic-shea-butter-200g): Pure, rich, and deeply nourishing. Shop organic shea butter 200g — a skin and hair essential curated by MUVA for lasting moisture and softness.
-  Updated: 2026-07-21T22:01:25Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Fushi Wellbeing
   Product Type: Shea Butter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/shea_butter_45c246e3-9796-45ce-9191-ef6bb85943fc.webp?v=1780880345
   Price: £21.00 GBP
 - [Adaptogen Energy Blend for Daily Energy and Wellbeing](https://wearemuva.com/products/adaptogen-energy-blend): Discover an adaptogen energy blend designed to support everyday energy, focus, and overall wellbeing. A simple addition to your daily wellness routine.
-  Updated: 2026-07-22T04:13:25Z
+  Updated: 2026-07-29T13:24:06Z
   Vendor: Fushi Wellbeing
   Product Type: Herbal Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/adaptogen_energy_1bf4abe6-55ae-4cf5-be25-c4bec7fcf044.webp?v=1780880469
   Price: £28.00 GBP
 - [Really Good Muscle & Joints Oil 100ml](https://wearemuva.com/products/really-good-muscle-joints-oil-100ml): Really Good Muscle & Joints Oil 100 ml blends warming Ayurvedic herbs to ease sore muscles and stiff joints after workouts.
-  Updated: 2026-07-21T16:45:01Z
+  Updated: 2026-07-29T21:20:09Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgmjo_9c425017-ad54-4cd3-86d9-e15b81c9af3e.webp?v=1780880357
   Price: £29.00 GBP
 - [Mother & Baby Set for Daily Wellness Support | MUVA](https://wearemuva.com/products/mother-baby-set): Everything you need, thoughtfully paired. Shop mother and baby set for the wellbeing of both of you — from newborn days and beyond.
-  Updated: 2026-07-22T09:40:39Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Fushi Wellbeing
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/mother_baby_set_8d7fa187-dd51-46f0-955c-692b4a0606d0.webp?v=1777300778
   Price: £74.00 GBP
 - [Fushi's Skin Support Duo for Balanced, Healthy-Looking Skin | MUVA](https://wearemuva.com/products/skin-support-duo): Two products, one clear goal. Shop the Skin Support Duo curated by Fushi, stocked on MUVA, for balanced complexion, smoother texture, and skin that works in harmony.
-  Updated: 2026-07-22T04:25:36Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Fushi Wellbeing
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/skin_support_duo_f9269527-6b03-4f02-a03b-de042bc9cdaf.webp?v=1780880443
   Price: £50.00 GBP
 - [Fushi Turmeric C3 & Bioperine Extract Capsules | MUVA](https://wearemuva.com/products/turmeric-c3-bioperine-extract): High-absorption turmeric, done properly. Shop Fushi Turmeric C3 & Bioperine Extract capsules — for daily anti-inflammatory support and lasting wellness.
-  Updated: 2026-07-22T04:13:20Z
+  Updated: 2026-07-29T18:07:55Z
   Vendor: Fushi Wellbeing
   Product Type: Herbal Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/turmeric_blend_2afc66f9-03f9-4868-8e01-0d8aecf7baba.webp?v=1780880370
   Price: £30.00 GBP
 - [Fushi Really Good Muscle & Joints Oil 10ml | MUVA](https://wearemuva.com/products/really-good-muscle-joints-oil-10ml): Really Good Muscle & Joints Oil 10 ml blends 23 Ayurvedic herbs to ease sore muscles and stiff joints after workouts and daily recovery.
-  Updated: 2026-07-21T13:36:07Z
+  Updated: 2026-07-29T13:24:08Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgmjo_9a237b70-d6d3-4625-9693-c34f1a9e8aec.webp?v=1780880383
   Price: £5.00 GBP
 - [Organic Castor Oil 30ml for Stronger Hair & Skin](https://wearemuva.com/products/organic-castor-oil-30ml): Nourish hair and skin with organic castor oil 30ml. Supports fuller-looking hair and smoother skin with a pure formula. Add it to your routine today.
-  Updated: 2026-07-21T08:58:16Z
+  Updated: 2026-07-29T13:24:09Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/castor_d2950557-5a41-40f3-a9f3-f2e8ed5639e7.webp?v=1780880396
   Price: £8.00 GBP
 - [Really Good Vitamin E Oil 50ml for Skin Nourishment](https://wearemuva.com/products/really-good-vitamin-e-oil-50ml): Nourish skin with vitamin E oil in a 50ml bottle. Helps maintain a smooth, radiant appearance for lasting care. Suitable for daily skin care & skin concerns.
-  Updated: 2026-07-21T20:21:00Z
+  Updated: 2026-07-29T15:06:23Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/vitamin_e_3c45907f-33d5-46e2-8db7-1ab1fbcbe0d1.webp?v=1780880455
   Price: £29.00 GBP
 - [Really Good Stretch Mark Oil 100ml](https://wearemuva.com/products/really-good-stretch-mark-oil-100ml): Nourishing, fast-absorbing, and made with intention. Shop Really Good Stretch Mark Oil 100ml — curated by MUVA for skin that's stretching and shifting.
-  Updated: 2026-07-22T09:40:54Z
+  Updated: 2026-07-29T16:56:24Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgsmo_54799be9-094f-4edd-8a57-0007f1ab2683.webp?v=1780880409
   Price: £30.00 GBP
 - [Really Good Cellulite Oil 100ml for Soft and Even Skin](https://wearemuva.com/products/really-good-cellulite-oil-100ml): Discover a cellulite oil formulated to support skin care routines and promote smoother-looking skin through regular use.
-  Updated: 2026-07-22T09:40:37Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgco_d5af4103-4696-40eb-b92a-c6eaf9d920cf.webp?v=1780880435
   Price: £30.00 GBP
 - [Ashwagandha with Vegan MCT Extract for Daily Wellness](https://wearemuva.com/products/ashwagandha-with-vegan-mct-extract): Enhance Calm, focus and balance. Ashwagandha with vegan MCT extract, for daily stress support and a steadier sense of wellbeing.
-  Updated: 2026-07-19T04:13:25Z
+  Updated: 2026-07-29T13:24:04Z
   Vendor: Fushi Wellbeing
   Product Type: Herbal Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/ashwagandha_blend.webp?v=1777300779
   Price: £25.00 GBP
 - [Magnesium Complex for Better Sleep & Muscle Support](https://wearemuva.com/products/magnesium-complex-bisglycinate-taurate): The mineral your body keeps asking for. Shop Magnesium Complex — to support restful sleep, a calmer mind, and everyday muscle function.
-  Updated: 2026-07-22T04:09:05Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Arbor Vitamins
   Product Type: Nutritional Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Untitled_design_6_7c37aa1c-d072-4444-9c18-a54d2079087f.svg?v=1777550456
   Price: £17.99 GBP
 - [Peri Blend for Hormonal Support and Women's Wellness](https://wearemuva.com/products/peri-blend): Balanced wellness for women with a peri-focused blend crafted for hormonal harmony and overall vitality through life's transitions in one convenient formula.
-  Updated: 2026-07-21T04:09:02Z
+  Updated: 2026-07-29T13:24:08Z
   Vendor: Arbor Vitamins
   Product Type: Nutritional Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/peri-blend-815518.jpg?v=1777550456
   Price: £29.99 GBP
 - [Meno Blend for Menopause Support & Hormonal Balance](https://wearemuva.com/products/meno-blend): Explore Meno Blend, a menopause supplement formulated to support wellbeing, balance, and everyday comfort during menopause.
-  Updated: 2026-07-16T20:31:09Z
+  Updated: 2026-07-29T13:24:08Z
   Vendor: Arbor Vitamins
   Product Type: Nutritional Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/meno-blend-452241.jpg?v=1777550461
   Price: £29.99 GBP
 - [Multi Nutrient System for Daily Wellness Support](https://wearemuva.com/products/trinity-multi-nutrient-system): Everything your body needs, in one system. Shop Trinity Multi Nutrient System — curated by MUVA for essential vitamins, minerals, and balanced daily nutrition.
-  Updated: 2026-07-22T04:09:06Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Arbor Vitamins
   Product Type: Nutritional Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Named_in_Glamour_as_best_multivitamin_Instagram_Post.svg?v=1777550469
   Price: £28.99 GBP
 - [POSTPARTUM BRIEFS](https://wearemuva.com/products/postpartum-briefs): Lesh's Postpartum Briefs are designed to keep postpartum pads securely in place through heavy flow, and work just as well as everyday underwear for ongoing discharge.
-  Updated: 2026-07-21T13:47:16Z
+  Updated: 2026-07-29T13:24:08Z
   Vendor: Lesh
   Product Type: 
   Availability: Available
@@ -558,7 +560,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/53.jpg?v=1777971201
     Price: £16.00 GBP
 - [Soft Postpartum Boyshorts for Recovery & Daily Wear](https://wearemuva.com/products/postpartum-boyshorts): Gentle, secure, and made for after birth. Shop postpartum boyshorts curated by MUVA for the recovery days that deserve real comfort.
-  Updated: 2026-07-22T07:35:01Z
+  Updated: 2026-07-29T13:24:09Z
   Vendor: Lesh
   Product Type: 
   Availability: Available
@@ -604,7 +606,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/48.jpg?v=1777971201
     Price: £17.00 GBP
   - [XL / Black](https://wearemuva.com/products/postpartum-boyshorts?variant=57218345533771)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/42.jpg?v=1777971201
     Price: £17.00 GBP
   - [XL / Beige](https://wearemuva.com/products/postpartum-boyshorts?variant=57218345566539)
@@ -624,7 +626,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/45.jpg?v=1777971201
     Price: £17.00 GBP
 - [Clipless Leakproof Nursing Bra With Smooth Fit Support](https://wearemuva.com/products/clipless-comfort-leakproof-nursing-bra): No clips, no fuss. Shop the clipless leakproof nursing bra curated by MUVA for smooth, secure support through every feed.
-  Updated: 2026-07-21T19:33:15Z
+  Updated: 2026-07-29T13:24:08Z
   Vendor: Lesh
   Product Type: 
   Availability: Available
@@ -650,7 +652,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/17.jpg?v=1777971201
     Price: £38.00 GBP
   - [L / Beige](https://wearemuva.com/products/clipless-comfort-leakproof-nursing-bra?variant=57218346418507)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/21.jpg?v=1777971200
     Price: £38.00 GBP
   - [XL / Black](https://wearemuva.com/products/clipless-comfort-leakproof-nursing-bra?variant=57218346549579)
@@ -662,7 +664,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/21.jpg?v=1777971200
     Price: £38.00 GBP
 - [Leakproof Nursing Bra for Easy Feeding & Daily Comfort](https://wearemuva.com/products/lesh-freeflo-2-0-leakproof-nursing-bra): Feeding-ready, leak-managed, and comfortable all day. Shop the Lesh Freeflo 2.0 leakproof nursing bra — curated by MUVA for new mothers who need both function and ease.
-  Updated: 2026-07-22T08:21:21Z
+  Updated: 2026-07-29T20:54:37Z
   Vendor: Lesh
   Product Type: 
   Availability: Available
@@ -696,11 +698,11 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/FreeFlo_Leakproof_Nursing_Bra_1.png?v=1777971207
     Price: £39.00 GBP
   - [XL / Beige](https://wearemuva.com/products/lesh-freeflo-2-0-leakproof-nursing-bra?variant=57218350973259)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/31.jpg?v=1777971206
     Price: £39.00 GBP
 - [Anywear Leakproof Nursing Bra for Busy Mums On Go](https://wearemuva.com/products/anywear-leakproof-nursing-bra): From school run to sofa, the Anywear leakproof nursing bra moves with you. Curated by MUVA for feeding mothers who need support that keeps up.
-  Updated: 2026-07-22T07:29:52Z
+  Updated: 2026-07-29T23:15:27Z
   Vendor: Lesh
   Product Type: 
   Availability: Available
@@ -738,162 +740,169 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/7.jpg?v=1777971206
     Price: £44.00 GBP
 - [Healthclub Natural Electrolytes - Coconut Mineral (20 pack)](https://wearemuva.com/products/healthclub-natural-electrolytes-coconut-mineral-20-pack): Healthclub natural electrolytes coconut mineral 20 Pack delivers coconut-derived minerals for clean hydration and balanced refreshment for active lifestyles.
-  Updated: 2026-07-13T13:07:06Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Healthclub
   Product Type: Electrolytes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Health_Club_Web_Assets_Coconuts.png?v=1778512960
   Price: £34.99 GBP
 - [Healthclub Natural Electrolytes - Fresh Lemon (20 pack)](https://wearemuva.com/products/healthclub-natural-electrolytes-fresh-lemon-20-pack): Healthclub natural electrolytes fresh lemon delivers a crisp mineral blend in 20 convenient sachets for hydration.
-  Updated: 2026-07-15T20:56:05Z
+  Updated: 2026-07-29T13:24:08Z
   Vendor: Healthclub
   Product Type: Electrolytes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Health_Club_Web_Assets_Lemon_Stick_Lemons.png?v=1778513826
   Price: £34.99 GBP
 - [Intimate Wipes - Aloe Vera & Chamomile](https://wearemuva.com/products/intimate-wipes-aloe-vera-chamomile): You've got back-to-back meetings, a gym session at 6, and dinner after. NILA M. is the 30-second reset that keeps you feeling like you — fresh, confident, and ready for whatever's next. 10 individually wrapped wipes, made for your bag and your life.
-  Updated: 2026-07-13T21:05:20Z
+  Updated: 2026-07-29T23:01:46Z
   Vendor: Nila M.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Namnlos_design_33_copy.png?v=1782297772
   Price: £8.95 GBP
 - [Organic Argan Oil 100ml](https://wearemuva.com/products/organic-argan-oil-100ml): A single-ingredient, cold-pressed argan oil that works across skin, hair, scalp and nails — relevant at every hormonal stage, from the dryness that can accompany cycle fluctuations to the skin and hair changes of pregnancy, postpartum and menopause.
-  Updated: 2026-07-21T18:44:26Z
+  Updated: 2026-07-29T14:12:15Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/argan.webp?v=1779799216
   Price: £35.00 GBP
 - [Organic Jojoba Oil 100ml](https://wearemuva.com/products/organic-jojoba-oil-100ml): 100% Pure & Organic Fresh-Pressed® Jojoba Oil. Jojoba closely mimics the skin's natural sebum — making it one of the most effective and hormonally compatible skin and scalp options across all stages of a woman's life.
-  Updated: 2026-07-21T20:37:15Z
+  Updated: 2026-07-29T18:42:25Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/jojoba_76c5e428-6588-4843-bedb-b51a5922af8c.webp?v=1779799215
   Price: £21.00 GBP
 - [Organic Rosehip Oil 100ml](https://wearemuva.com/products/organic-rosehip-oil-100ml): A Vitamin A-rich oil with a direct relevance to hormonally-driven skin changes — pigmentation, scarring, barrier disruption and accelerated ageing — making it one of the more targeted oils in the range.
-  Updated: 2026-07-22T09:25:34Z
+  Updated: 2026-07-29T13:24:07Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rosehip_c5f27e89-a7b1-429e-a3d2-44560ef6153a.webp?v=1779799215
   Price: £27.00 GBP
 - [Holiday Ritual Kit](https://wearemuva.com/products/holiday-ritual-kit): Holiday Ritual Kit to elevate your skin's radiance and nurture smoothness for a perfect summer look.
-  Updated: 2026-07-21T22:25:56Z
+  Updated: 2026-07-29T13:24:06Z
   Vendor: Fushi Wellbeing
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/holiday_ritual_kit.webp?v=1779799221
   Price: £68.00 GBP
 - [Really Good Hair Oil 100ml](https://wearemuva.com/products/really-good-hair-oil-100ml): An Ayurvedic-rooted  oil that directly addresses the hair thinning, breakage and scalp disruption that are among the most common — and least discussed — effects of hormonal change across postpartum, perimenopause and menopause.
-  Updated: 2026-07-21T19:55:55Z
+  Updated: 2026-07-29T18:28:06Z
   Vendor: Fushi Wellbeing
   Product Type: Hair Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgho.webp?v=1779799220
   Price: £32.00 GBP
-- [The First Pour - All 4 Phases | Mini Ritual](https://wearemuva.com/products/the-first-pour-all-4-phases-mini-ritual): Four phase-specific blends in one kit — the clearest way to experience cycle syncing across a full month before committing to a single blend. Each mini contains 5–7 cups of its respective blend: The Reset for menstruation, The Rising for the follicular phase, The Glow for ovulation, and The Hold for the luteal phase. Together they give a complete introduction to botanical cycle support, with each tea formulated for the hormonal and physical demands of its specific window.
-  Updated: 2026-07-15T13:04:33Z
-  Vendor: Pour Some More
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Untitled_design-30.png?v=1779804356
-  Price: £14.99 GBP
 - [The Cycle-Syncing Collection | 5-Cycle Journey](https://wearemuva.com/products/the-cycle-syncing-collection-5-cycle-journey): For women who want cycle support built into daily life — not a short-term fix but a sustained, phase-specific practice across five months. The same four full-size phase blends as the 2-Cycle Ritual, scaled for a full five cycles: 150–175 cups across The Reset, The Rising, The Glow, and The Hold. Twenty-six whole-leaf herbs delivered as loose-leaf tea — a format that allows for gradual, gentle absorption rather than concentrated supplementation — working with your body's existing hormonal rhythm whether your cycle runs 21 or 35 days.
-  Updated: 2026-07-21T17:12:16Z
+  Updated: 2026-07-29T13:24:05Z
   Vendor: Pour Some More
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Traditionally_used_to_soothe_monthly_cramps-5.png?v=1779804361
   Price: £48.95 GBP
-- [The Rising | Follicular Phase | Days 8-13](https://wearemuva.com/products/the-rising-follicular-phase-days-8-13): A botanical blend formulated for the post-period window, supporting the body's natural shift from rest into rising oestrogen and returning energy. Eleven herbs work across the follicular phase's key needs: holy basil and oat straw address stress hormones and nervous system recovery post-bleed; red clover and spearmint gently support oestrogen production and clear hormonal breakouts; lemon verbena and passionflower sharpen focus while keeping mood grounded as energy climbs; calendula, lemongrass, and lemon peel support lymph flow, circulation, and detox as the body clears and renews.
-  Updated: 2026-07-21T17:12:22Z
-  Vendor: Pour Some More
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/15.png?v=1779804361
-  Price: £14.95 GBP
 - [Cycle-Syncing Tea Collection | 2-Cycle Ritual](https://wearemuva.com/products/cycle-syncing-tea-collection-2-cycle-ritual): The complete cycle-syncing kit for women ready to make phase-based botanical support a consistent practice. All four phase blends in full-size pouches: The Reset for menstruation, The Rising for the follicular phase, The Glow for ovulation, and The Hold for the luteal phase. Twenty-six whole-leaf herbs across the collection address the full spectrum of cycle symptoms — cramping, bloating, mood fluctuation, energy dips, and hormonal skin changes — each ingredient matched to the phase where it's most relevant.
-  Updated: 2026-07-21T17:11:57Z
+  Updated: 2026-07-29T13:24:08Z
   Vendor: Pour Some More
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Traditionally_used_to_soothe_monthly_cramps-6.png?v=1779804361
   Price: £28.95 GBP
-- [The Reset | Menstrual Phase | days 1-7](https://wearemuva.com/products/the-reset-menstrual-phase-days-1-7): A botanical blend formulated for days 1–5, working with the body's natural shedding process rather than against it. Nine herbs address the menstrual phase's core demands: nettle and hibiscus replenish iron and antioxidants lost during bleeding; ginger and raspberry leaf support circulation and uterine tone to ease cramping; cinnamon bark and liquorice root stabilise blood sugar and adrenal response — both common drivers of period fatigue and irritability. Star anise and orange peel calm digestion and counter sluggishness, while rose petal softens tension.
-  Updated: 2026-07-21T17:11:56Z
-  Vendor: Pour Some More
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/14.png?v=1779804361
-  Price: £14.95 GBP
-- [The Glow | Ovulation Phase | Days 14-18](https://wearemuva.com/products/the-glow-ovulation-phase-days-14-18): A botanical blend formulated for ovulation, supporting the body through its peak hormonal window while keeping energy grounded and excess oestrogen in check. Eight herbs address the ovulatory phase from multiple angles: liquorice root and dandelion root work to regulate oestrogen and clear excess hormones; jasmine green tea and rose petal support focus, circulation, and vitality; hibiscus brings antioxidant support for skin and hormonal balance; lemon balm and lavender ease the overstimulation and tension that can accompany peak oestrogen.
-  Updated: 2026-07-21T17:11:55Z
-  Vendor: Pour Some More
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/16.png?v=1779804361
-  Price: £14.95 GBP
-- [The Hold | Luteal Phase | Days 19-28](https://wearemuva.com/products/the-hold-luteal-phase-days-19-28): A botanical blend designed for days 19–28, when the body needs steady support through progesterone's peak. Ten herbs work across the luteal phase's key concerns: lemon balm and passionflower calm the nervous system; raspberry leaf and maca root address hormonal and uterine shifts; dandelion root and peppermint ease bloating and digestion; lavender supports sleep.
-  Updated: 2026-07-21T17:11:57Z
-  Vendor: Pour Some More
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/17.png?v=1779804361
-  Price: £14.95 GBP
 - [Fushi Organic Castor Oil – Cold Fresh-Pressed Multi-Use Oil 250ml](https://wearemuva.com/products/organic-castor-oil-250ml): A 100% pure, organic castor oil, Cold Fresh-Pressed® for freshness and traditionally used across hair, brow, lash and skin routines.
-  Updated: 2026-07-22T09:25:45Z
+  Updated: 2026-07-29T23:26:12Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/castor_2.webp?v=1783957387
   Price: £12.00 GBP
 - [Zeus Hydrogel Pads – 3 Month Supply (90 Pack)](https://wearemuva.com/products/3-month-supply-hydrogel): A 3-month supply of -grade replacement Hydrogel Pads for the Zeus anti-snoring device, ensuring consistent skin contact and stimulation delivery night after night.
-  Updated: 2026-07-22T01:01:30Z
+  Updated: 2026-07-29T15:17:47Z
   Vendor: Zeus
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/SHOPIFY_PRODUCT_IMAGES_4.png?v=1784055865
   Price: £80.00 GBP
 - [Zeus Hydrogel Pads – 30 Pack Snoring Device Refills](https://wearemuva.com/products/1-month-supply-hydrogel): -grade replacement Hydrogel Pads for the Zeus anti-snoring device, ensuring consistent skin contact and stimulation delivery night after night.
-  Updated: 2026-07-21T22:28:51Z
+  Updated: 2026-07-29T14:28:47Z
   Vendor: Zeus
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/SHOPIFY_PRODUCT_IMAGES_8.png?v=1784055870
   Price: £30.00 GBP
 - [Zeus Anti-Snoring TENS Device – Tongue & Throat Support](https://wearemuva.com/products/zeus): A clinically developed, non-invasive snoring solution using gentle TENS stimulation to support the tongue and throat muscles during sleep
-  Updated: 2026-07-21T23:59:45Z
+  Updated: 2026-07-29T17:06:21Z
   Vendor: Zeus
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/SHOPIFY_PRODUCT_IMAGES_6.png?v=1784055870
   Price: £250.00 GBP
+- [The Gentle Period Herbal Blend](https://wearemuva.com/products/the-gentle-period-herbal-blend): A high-dose blend of whole botanicals — including red clover, raspberry leaf and holy basil — traditionally used to support the body through the days leading up to and during your period to ease discomfort. Plastic-free teabags. All-natural and vegan. Made in the UK.
+  Updated: 2026-07-29T13:24:08Z
+  Vendor: The Sabi
+  Product Type: Gentle Period Herbata
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_2b8cb736-fee2-40c3-a1ef-6bb4bb3885cd.jpg?v=1784890205
+  Price: £22.00 GBP
+- [The  Digestive Herbal Blend](https://wearemuva.com/products/the-digestive-herbal-blend): Botanicals traditionally used to support digestion, post-meal comfort, and ease bloating. Built around holy basil — revered in Ayurvedic tradition for digestive comfort and a sense of calm — with cinnamon and fennel long used to ease trapped wind. Plastic-free teabags. All-natural and vegan. Made in the UK.
+  Updated: 2026-07-29T13:24:09Z
+  Vendor: The Sabi
+  Product Type: Digestive Herbata
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/DIGESTIVEWEBSITE_1600x1600px.jpg?v=1784890205
+  Price: £22.00 GBP
+- [Prebiotic Moisturiser](https://wearemuva.com/products/prebiotic-moisturiser): Skin that feels dry one minute and thirsty the next. This butter-soft cream works with dermal prebiotics to feed your skin's microbiome, restoring what stripped-back routines and harsh environments take out. Fast-absorbing, with a soft matte blur on texture and a glow that holds all day. For face and body.
+  Updated: 2026-07-29T13:24:07Z
+  Vendor: The Sabi
+  Product Type: Body Moisturiser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/MOISTURISERWEBSITE.jpg?v=1784890205
+  Price: £38.50 GBP
+- [The Breastfeeding Herbal Blend](https://wearemuva.com/products/the-breastfeeding-herbal-blend): A high-dose, whole-leaf herbal blend of fennel, moringa, oat straw and nettle, formulated to support milk flow throughout breastfeeding. Formulated and reviewed by an OB-GYN, nutritionist, master herbalist and microbiologist — because taste matters as much as function. Delicious hot or iced.
+  Updated: 2026-07-29T22:32:37Z
+  Vendor: The Sabi
+  Product Type: Breastfeeding Herbata
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_dd1b4e98-4a82-42dc-a7b6-dd582398a22a.jpg?v=1784890205
+  Price: £22.00 GBP
+- [Rest & Digest](https://wearemuva.com/products/rest-digest): For when your gut and nervous system are both asking for support. Two high-dose herbal blends, designed to work side by side — one for calm, one for digestion. Each is made with whole botanicals traditionally used to support relaxation, gut comfort, bloating and healthy elimination. Includes: 1. The Calm Herbal BlendFor wired evenings, broken nights and the moments your nervous system needs help softening. 2. The Digestive Herbal BlendFor bloating, trapped wind, sluggish digestion and the uncomfortable feeling of being stuck. One calms. One clears. The rest follows.
+  Updated: 2026-07-29T13:24:04Z
+  Vendor: The Sabi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_1b487c9c-bfb6-4034-b179-1b9590c7314d.jpg?v=1784890205
+  Price: £40.00 GBP
+- [Mama Recover Postpartum Herbal Blend](https://wearemuva.com/products/mama-recover-postpartum-herbal-blend): A high-dose, whole-leaf herbal blend formulated for the fourth trimester and beyond, drawing on botanicals traditionally used to ease recovery, restore balance and support new mothers through early motherhood. Formulated with an OB-GYN, nutritionist, master herbalist and microbiologist — because postpartum care deserves the same rigour as the nine months before it. Plastic-free teabags. All-natural and vegan. Made in the UK.
+  Updated: 2026-07-29T17:04:05Z
+  Vendor: The Sabi
+  Product Type: Mama Recover Herbata
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_98a384dd-2ffa-46dc-8d1a-79f81d93411e.jpg?v=1784890205
+  Price: £22.00 GBP
 
 ## Collections
 
 - [Menopause Products](https://wearemuva.com/collections/menopause): Effective menopause products made to support mood, sleep, and daily comfort during hormonal changes. Feel better every day.
-  Updated: 2026-07-16T11:36:41Z
+  Updated: 2026-07-29T11:37:15Z
   Total Products: 18
 - [Pregnancy Products](https://wearemuva.com/collections/pregnancy): Find the best pregnancy products for comfort, support, and daily essentials made for every stage of motherhood. Feel confident in your choices.
-  Updated: 2026-07-07T11:34:52Z
-  Total Products: 14
+  Updated: 2026-07-24T11:38:45Z
+  Total Products: 15
 - [SKN TO SKN](https://wearemuva.com/collections/skn-to-skn): SKN TO SKN was created with a clear purpose: to support mothers with skincare solutions designed specifically for the unique needs of pregnancy. The brand is built on a foundation of safety, education, transparency, and effectiveness. Each product is developed with science-backed formulations, ensuring high standards of quality while prioritising the well-being of both mother and baby. Understanding that pregnancy brings significant changes to the skin, SKN TO SKN focuses on delivering targeted solutions that are gentle, reliable, and results-driven. Clear ingredient choices and honest communication remain central to the brand, allowing customers to feel informed and confident in their skincare decisions. SKN TO SKN is dedicated to providing products that help mothers feel supported, comfortable, and confident throughout every stage of their journey.
   Updated: 2026-07-07T11:34:52Z
   Total Products: 4
 - [Period Care Products](https://wearemuva.com/collections/period): Buy selected period products, chosen for all-day comfort, reliable protection, and daily ease. Find what works for you!
-  Updated: 2026-07-16T11:36:41Z
-  Total Products: 17
+  Updated: 2026-07-24T15:42:13Z
+  Total Products: 18
 - [Wellbeing Products](https://wearemuva.com/collections/wellbeing): Explore the best collagen supplements for women along with premium wellbeing products. Shop women's supplements designed for daily wellness, balance, and vitality.
-  Updated: 2026-07-16T11:36:41Z
-  Total Products: 31
+  Updated: 2026-07-29T11:37:15Z
+  Total Products: 34
 - [Skin & Body](https://wearemuva.com/collections/pregnancy-skin-body): Your skin changes — your routine should too. Shop pregnancy-safe skincare curated by MUVA for stretch care, hydration, and your changing body.
   Updated: 2026-06-24T21:19:34Z
   Total Products: 7
 - [Postpartum Physical Recovery](https://wearemuva.com/collections/postpartum-physical-recovery): Shop postpartum recovery products curated by MUVA to support your healing, comfort, and recovery after birth.
-  Updated: 2026-07-16T11:36:41Z
-  Total Products: 12
+  Updated: 2026-07-24T14:59:45Z
+  Total Products: 14
 - [Nutrition](https://wearemuva.com/collections/pregnancy-nutrition): From preconception to postpartum, shop pregnancy supplements curated by MUVA to support you and your baby through every trimester.
   Updated: 2026-07-16T11:36:41Z
   Total Products: 5
@@ -928,7 +937,7 @@
   Updated: 2026-07-07T11:34:52Z
   Total Products: 6
 - [Fushi Wellbeing](https://wearemuva.com/collections/fushi-wellbeing): Fushi Wellbeing products feature premium supplements, oils and skincare crafted with fresh, organic ingredients for daily wellness and wellness routines.
-  Updated: 2026-07-16T11:36:41Z
+  Updated: 2026-07-29T11:37:15Z
   Total Products: 27
 - [Lesh](https://wearemuva.com/collections/lesh): LESH nursing bras blend leakproof protection, adaptive comfort and easy feeding with soft fabrics made for changing postpartum bodies and daily wear needs.
   Updated: 2026-06-24T21:26:07Z
@@ -952,10 +961,10 @@
   Updated: 2026-06-27T11:24:26Z
   Total Products: 7
 - [Cramps & Pain Relief](https://wearemuva.com/collections/cramps-pain-relief): From cramps to fatigue, find period pain relief products that actually work. Curated by MUVA for every cycle, every body.
-  Updated: 2026-07-16T11:36:41Z
-  Total Products: 2
+  Updated: 2026-07-24T15:42:13Z
+  Total Products: 3
 - [Fatigue](https://wearemuva.com/collections/fatigue): Fatigue support products selected for every stage of women's health, from periods to menopause, featuring supplements and essentials that fit daily life.
-  Updated: 2026-07-16T11:36:41Z
+  Updated: 2026-07-29T11:37:15Z
   Total Products: 4
 - [Pads, Tampons, Cups](https://wearemuva.com/collections/pads-tampons-cups): Soft, trusted, and better for your body. Shop organic tampons curated by MUVA for comfortable, reliable period protection.
   Updated: 2026-06-15T01:59:29Z
@@ -1000,13 +1009,13 @@
   Updated: 2026-06-30T08:16:33Z
   Total Products: 0
 - [Skin & Hair Changes](https://wearemuva.com/collections/menopause-skin-hair-changes): Hair thinning, skin shifting — menopause changes more than you expect. Shop products curated by MUVA to support your hair and skin through every stage.
-  Updated: 2026-07-14T23:41:16Z
-  Total Products: 12
+  Updated: 2026-07-29T11:37:15Z
+  Total Products: 13
 - [Perimenopause](https://wearemuva.com/collections/perimenopause): Perimenopause doesn't come with a manual. Shop products curated by MUVA to support mood, sleep, and hormonal shifts — whatever stage you're at.
-  Updated: 2026-07-16T11:36:41Z
+  Updated: 2026-07-23T18:50:37Z
   Total Products: 6
 - [Postmenopause](https://wearemuva.com/collections/postmenopause): Life after menopause deserves just as much attention. Shop postmenopause support products curated by MUVA for energy, balance, and long-term wellbeing.
-  Updated: 2026-07-16T11:36:41Z
+  Updated: 2026-07-23T18:49:20Z
   Total Products: 9
 - [Menopause Supplements](https://wearemuva.com/collections/menopause-supplements): Menopause supplements curated for perimenopause, menopause and postmenopause, featuring trusted formulas for sleep, hot flushes and wellbeing from top brands.
   Updated: 2026-06-24T21:07:03Z
@@ -1042,17 +1051,17 @@
   Updated: 2026-06-30T08:24:53Z
   Total Products: 0
 - [Energy & Fatigue](https://wearemuva.com/collections/wellbeing-energy-fatigue): Boost your wellbeing with MUVA's Energy & Fatigue collection, packed with supplements and essentials chosen for low-energy days from trusted UK brands.
-  Updated: 2026-07-16T11:36:41Z
-  Total Products: 6
+  Updated: 2026-07-24T14:51:49Z
+  Total Products: 7
 - [Immunity](https://wearemuva.com/collections/wellbeing-immunity): Your immune system works hard — give it the support it deserves. Shop immune supplements for women curated by MUVA for everyday resilience and balance.
-  Updated: 2026-07-16T11:36:41Z
+  Updated: 2026-07-23T18:48:15Z
   Total Products: 3
 - [Sleep Support](https://wearemuva.com/collections/wellbeing-sleep-support): Premium sleep formulas, magnesium blends and bedtime supplements crafted for restful nights and refreshed mornings that fit modern routines and busy lives.
   Updated: 2026-07-14T23:34:47Z
   Total Products: 4
 - [Hydration & Nutrition Basics](https://wearemuva.com/collections/wellbeing-hydration-nutrition): Boost your wellbeing with hydration and nutrition essentials, from electrolytes to supplements chosen for energy, immunity and balanced living and vitality.
-  Updated: 2026-07-16T11:36:41Z
-  Total Products: 5
+  Updated: 2026-07-24T15:38:00Z
+  Total Products: 6
 - [PMS & Mood Balance](https://wearemuva.com/collections/wellbeing-pms-mood-balance): PMS & Mood Balance products for hormonal wellbeing, including supplements and self-care picks that help you feel more like yourself throughout the month.
   Updated: 2026-06-30T08:20:32Z
   Total Products: 0
@@ -1074,6 +1083,9 @@
 - [Zeus](https://wearemuva.com/collections/zeus)
   Updated: 2026-07-16T09:50:10Z
   Total Products: 3
+- [The Sabi](https://wearemuva.com/collections/the-sabi)
+  Updated: 2026-07-24T15:42:13Z
+  Total Products: 6
 
 ## Blogs
 
@@ -1088,7 +1100,7 @@
     Updated: 2026-04-12T01:08:57Z
     Author: hello@wearemuva.com User
   - [Why Your Period Mood Swings Feel So Intense](https://wearemuva.com/blogs/muva-source/why-your-mood-changes-before-your-period-and-what-you-can-actually-do-about-it): Why Your Period Mood Swings Feel So Intense
-    Updated: 2026-05-15T10:05:37Z
+    Updated: 2026-07-27T06:09:04Z
     Author: hello@wearemuva.com User
   - [Perimenopause: The Stage Nobody Talks About Enough](https://wearemuva.com/blogs/muva-source/perimenopause-the-stage-nobody-talks-about-enough)
     Updated: 2026-07-16T05:34:11Z
@@ -1122,6 +1134,12 @@
   Updated: 2026-06-04T22:24:14+01:00
 - [Contact Information](https://wearemuva.com/policies/contact-information)
   Updated: 2026-06-07T01:54:50+01:00
+
+## Social Media
+- [Facebook] https://www.facebook.com/wearemuva
+- [Instagram] https://www.instagram.com/muva_uk
+- [LinkedIn] https://www.linkedin.com/company/wearemuva/
+- [TikTok] https://www.tiktok.com/@muva_uk
 
 ## Optional
 
