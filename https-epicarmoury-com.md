@@ -8,12 +8,12 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2025-03-24T08:01:24Z
 - Contact Email: info@ironfortress.com
-- Updated At: 2026-07-23T08:01:00.381Z
+- Updated At: 2026-07-30T12:00:59.924Z
 
 ## Products
 
 - [Jorik Shoes | Black Leather Medieval LARP Footwear](https://epicarmoury.com/products/1087-shoes-jorik): Shoes Jorik: Black Viking footwear for active LARPers. Crafted from full-grained leather with thick laces & leather sole. Shop now!
-  Updated: 2026-07-19T18:27:56Z
+  Updated: 2026-07-27T21:15:07Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -192,7 +192,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442429.webp?v=1749381207
   Price: €111.00 EUR
 - [Sabatons - Medieval Foot Armor for LARP | Epic Armoury](https://epicarmoury.com/products/1345-sabatons): Epic Armoury's polished Sabatons guard your feet in combat. Made from 1mm steel lames, they cover your feet without hindering movement. Shop now!
-  Updated: 2026-07-16T13:47:30Z
+  Updated: 2026-07-27T02:16:42Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -254,14 +254,14 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402821.webp?v=1749536488
   Price: €221.00 EUR
 - [Angelic Sword Hybrid - Larp  | EpicArmoury.com](https://epicarmoury.com/products/1964-angelic-sword): Discover the Angelic Sword Hybrid, a 76 cm medium sword inspired by clerics & paladins. Features a 57 cm blade & aged gold finish. Buy now!
-  Updated: 2026-07-14T22:17:15Z
+  Updated: 2026-07-27T09:49:53Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/452007.webp?v=1749536493
   Price: €77.00 EUR
 - [Stronghold Arming Sword for LARP & Cosplay | Epic Armoury](https://epicarmoury.com/products/1967-arming-sword): Answer the call to adventure with the Stronghold Arming Sword. A reliable foam  for LARP, cosplay, and ren faire glory. Shop now!
-  Updated: 2026-07-21T13:02:52Z
+  Updated: 2026-07-28T13:53:21Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -354,7 +354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402836.webp?v=1749536579
   Price: €208.00 EUR
 - [Battleworn Celtic Leaf Sword](https://epicarmoury.com/products/1912-battleworn-celtic-leaf-sword): The Battleworn Celtic Leaf Sword (60cm, 85cm, 100cm) is a trusty, fully functioning . Tell gruesome tales. Shop now!
-  Updated: 2026-07-14T20:54:24Z
+  Updated: 2026-07-27T09:49:56Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -372,7 +372,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442549.webp?v=1749536589
     Price: €124.00 EUR
 - [Battleworn Footman Sword](https://epicarmoury.com/products/1937-battleworn-footman-sword): The Battleworn Footman Sword: a long latex-hybrid sword inspired by medieval weapons and fantasy lore. Full of hyper realistic details.
-  Updated: 2026-07-15T15:14:36Z
+  Updated: 2026-07-27T09:49:51Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -386,7 +386,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442547.webp?v=1749536598
     Price: €124.00 EUR
 - [Battleworn Squire Sword](https://epicarmoury.com/products/1938-battleworn-squire-sword): Shop Epic Armoury's Battleworn Squire Sword: a 85 cm latex-hybrid medieval sidearm with a 70 cm double-edged blade. Get yours now!
-  Updated: 2026-07-08T22:11:13Z
+  Updated: 2026-07-27T09:49:57Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -400,7 +400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442548.webp?v=1749536606
     Price: €111.00 EUR
 - [Battleworn Trench Knife](https://epicarmoury.com/products/1911-battleworn-trench-knife): Shop the Battleworn Trench Knife! This latex-hybrid features a knuckleduster handle & worn look. Perfect for LARP. Buy now!
-  Updated: 2026-07-18T11:33:16Z
+  Updated: 2026-07-27T09:49:57Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -428,14 +428,14 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442550.webp?v=1749536611
     Price: €111.00 EUR
 - [Bladesinger - 110 cm](https://epicarmoury.com/products/1506-bladesinger-110-cm): Elven ears hear the rustle of footsteps? Discover the Bladesinger 110cm sword! Hone your skills with this elegant, immersive LARP .
-  Updated: 2026-07-21T13:02:41Z
+  Updated: 2026-07-29T12:29:46Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402051.webp?v=1749536614
   Price: €117.00 EUR
 - [Bollocks Dagger - 45 cm](https://epicarmoury.com/products/1565-bollocks-dagger-45-cm): As a Roman infantryman, ensure your Bollocks Dagger is secure. Own this 45cm historical LARP . Shop now!
-  Updated: 2026-07-21T13:02:50Z
+  Updated: 2026-07-29T11:14:48Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -470,7 +470,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/432315.webp?v=1749536626
   Price: €11.00 EUR
 - [Bone Scimitar Latex-Hybrid Sword - 85cm | Epic Armoury](https://epicarmoury.com/products/1935-bone-scimitar): Wield the Bone Scimitar & wreak terror! This latex-hybrid sword for necromancers and dark villains is 85cm long. Become the Bone Master!
-  Updated: 2026-07-08T22:14:20Z
+  Updated: 2026-07-27T09:49:53Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -484,7 +484,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402313.webp?v=1749536631
   Price: €59.00 EUR
 - [Broad Knife - Rogue & Soldier LARP Blade | Epic Armoury](https://epicarmoury.com/products/1876-broad-knife): Broad Knife with sharpened, curved blade for rogues and soldiers. 9.5 cm blade, wood handle. Perfect for LARP & cosplay. Shop now!
-  Updated: 2026-07-10T13:05:26Z
+  Updated: 2026-07-29T11:14:45Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -502,7 +502,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/432323.webp?v=1749536633
     Price: €11.00 EUR
 - [Caprine LARP Sword - Fantasy Ram Hilt | Epic Armoury](https://epicarmoury.com/products/1949-caprine-sword): Shop Epic Armoury's 100cm Caprine Sword! A hybrid LARP longsword inspired by fantasy, handmade with a 66cm latex blade & brass ram hilt. Buy now!
-  Updated: 2026-07-16T12:57:30Z
+  Updated: 2026-07-23T09:46:01Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -573,7 +573,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/403515.webp?v=1749536667
   Price: €175.00 EUR
 - [Choppa - 110 cm LARP Sword for Orc Warriors | Epic Armoury](https://epicarmoury.com/products/1503-choppa-110-cm): Ignite your Orc warrior spirit. Wield the 110cm Choppa sword, designed for warrior brutes & warlords. Shop orc Larp weapons & gear today!
-  Updated: 2026-07-08T22:14:20Z
+  Updated: 2026-07-27T09:49:55Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -594,7 +594,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/403508.webp?v=1749536676
   Price: €36.00 EUR
 - [Corsair Cutlass - 95 cm](https://epicarmoury.com/products/1509-corsair-cutlass-95-cm): The underdark is your domain. Strike fear with the Corsair Cutlass (95cm)! Made for Dark Elves, this LARP  offers safety & appeal. Shop now!
-  Updated: 2026-07-22T13:50:37Z
+  Updated: 2026-07-28T13:53:22Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -654,7 +654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/23050155.webp?v=1749537416
     Price: €113.00 EUR
 - [Curved Sabre | Epic Armoury LARP , Officer Sword](https://epicarmoury.com/products/2309-curved-sabre): BEAT TO QUARTERS! Commandeer vessels with this Curved Sabre. Offers flexibility & safety. An elegant  for the duty-bound. Shop now!
-  Updated: 2026-07-16T11:03:36Z
+  Updated: 2026-07-27T09:49:54Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -668,7 +668,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/23090155.webp?v=1749536695
     Price: €113.00 EUR
 - [Cutlass Handle for LARP Weapons | Epic Armoury](https://epicarmoury.com/products/1786-cutlass-handle): The Pirate City is dangerous. Your baldric keeps your Cutlass ready. Equip your DIY project with this durable Epic Armoury Cutlass Handle. Shop now!
-  Updated: 2026-07-08T22:14:04Z
+  Updated: 2026-07-27T10:12:56Z
   Vendor: Epic Armoury Europe
   Product Type: DIY Foam Weapons Parts
   Availability: Available
@@ -682,7 +682,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/178602-01.webp?v=1751632365
     Price: €14.00 EUR
 - [Cutter Dagger 45 cm for LARP & Cosplay | Epic Armoury](https://epicarmoury.com/products/1552-cutter-45-cm): Your clan needs blood for a ritual! Capture slaves, force them into a tournament. Losers sacrificed. As shaman, await your victim. Cheers & roars!
-  Updated: 2026-07-21T13:02:56Z
+  Updated: 2026-07-23T12:58:25Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -703,7 +703,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402085.webp?v=1749536707
   Price: €111.00 EUR
 - [Dark Elven Blade - 60 cm](https://epicarmoury.com/products/1524-dark-elven-blade-60-cm): Wield the Dark Elven Blade, a 60 cm chopping short sword with a dark, vicious feel. Perfect for LARP. Shop now!
-  Updated: 2026-07-19T19:18:26Z
+  Updated: 2026-07-29T11:14:47Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -717,7 +717,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402822.webp?v=1749536712
   Price: €208.00 EUR
 - [Dark Elven Long Blade - 110 cm](https://epicarmoury.com/products/1520-dark-elven-long-blade-110-cm): The underdark is your domain. Equip the 110 cm Dark Elven Long Blade for LARP, with a bone-colored blade & leather grip. Strike fear!
-  Updated: 2026-07-08T22:14:25Z
+  Updated: 2026-07-27T09:49:56Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -775,7 +775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/432340.webp?v=1749536729
     Price: €12.00 EUR
 - [Draug LARP Sword - Fantasy Undead  | Epic Armoury](https://epicarmoury.com/products/1941-draug-sword): Epic Armoury's 85cm Draug Sword is a medium latex LARP sword inspired by high-fantasy undead creatures. Features a 59cm double-edged blade.
-  Updated: 2026-07-08T22:08:16Z
+  Updated: 2026-07-27T09:49:57Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -793,7 +793,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442543.webp?v=1749536740
     Price: €124.00 EUR
 - [Dreki Sword: Unleash Your Inner Viking Warrior](https://epicarmoury.com/products/1969-dreki-sword): Experience the legendary Dreki Sword, designed for both durability and lightweight handling in any battle scenario.
-  Updated: 2026-07-08T22:11:20Z
+  Updated: 2026-07-25T18:23:46Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -851,14 +851,14 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/413115.webp?v=1749536745
     Price: €27.00 EUR
 - [Earl Sword - 75 cm: Celtic Design Elegance](https://epicarmoury.com/products/1957-earl-sword-75-cm): Explore the Earl Sword - 75 cm, featuring a stunning Celtic design, a double-edged blade, and an intricately crafted handle, perfect for collectors.
-  Updated: 2026-07-21T13:03:12Z
+  Updated: 2026-07-25T18:23:46Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/452002.webp?v=1749536748
   Price: €77.00 EUR
 - [EirikR Sword - 83 cm](https://epicarmoury.com/products/1966-eirikr-sword-83-cm): Wield the EirikR Sword, 83cm, a historically authentic Viking sword. Built in collaboration with archaeologists. Begin your saga!
-  Updated: 2026-07-16T19:30:58Z
+  Updated: 2026-07-29T11:14:43Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -872,7 +872,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/19660150-01.webp?v=1749536750
     Price: €104.00 EUR
 - [Eldarian Dagger - Epic Armoury Throwing Knife | Epic Armoury](https://epicarmoury.com/products/1882-eldarian-dagger): The Eldarian Dagger: a 16cm throwing knife from Epic Armoury's Stygian Universe. Elegant, well-balanced, hand-painted. Get yours!
-  Updated: 2026-07-15T05:21:57Z
+  Updated: 2026-07-29T12:29:46Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -902,7 +902,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/432346.webp?v=1749537524
     Price: €12.00 EUR
 - [Elven Blade LARP Sword - Epic Armoury Fantasy ](https://epicarmoury.com/products/1516-elven-blade): Elven ears hear a rustle? With an Elven Blade, no mortal can surprise you. Refine your LARP skills with this elegant sword. Shop now!
-  Updated: 2026-07-21T08:07:37Z
+  Updated: 2026-07-27T10:12:50Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -920,14 +920,14 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402079.webp?v=1749536765
     Price: €92.00 EUR
 - [Elven Dagger 45cm - LARP Safe Blade | Epic Armoury](https://epicarmoury.com/products/1562-elven-dagger): Elven Dagger for ! Your Elven ears detect a foe, but you're too agile. You are immortal kindred. No mortal can surprise you. Shop now!
-  Updated: 2026-07-13T14:31:45Z
+  Updated: 2026-07-29T12:29:51Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402320.webp?v=1749536764
   Price: €50.00 EUR
 - [Elven Hunter Foam Blade for LARP | EpicArmoury](https://epicarmoury.com/products/1956-elven-hunter-blade): Guide clumsy guests past forest dangers with your Elven Hunter Blade. This 75cm Stronghold blade is designed for LARP combat. Shop now!
-  Updated: 2026-07-21T13:44:01Z
+  Updated: 2026-07-27T09:49:55Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -996,21 +996,21 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/309301-01.webp?v=1749536781
   Price: €226.00 EUR
 - [Eventide Greatsword - LARP Foam  | Epic Armoury](https://epicarmoury.com/products/3062-eventide-greatsword): Wield the Eventide Greatsword! A vicious 150cm  inspired by sunless elves. Crafted from durable foam & fiberglass. Buy yours now!
-  Updated: 2026-07-16T14:09:27Z
+  Updated: 2026-07-27T11:55:33Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/306201-01.webp?v=1749536782
   Price: €158.00 EUR
 - [Eventide Scimitar - LARP Latex-Hybrid  | Epic Armoury](https://epicarmoury.com/products/3063-eventide-scimitar): Her blades wove a deadly dance, stalking prey. The bladesinger was confident to take out the goblin & its five friends. They would regret it.
-  Updated: 2026-07-21T13:02:49Z
+  Updated: 2026-07-27T11:55:26Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/306301-01.webp?v=1749536783
   Price: €121.00 EUR
 - [Falchion - Curved LARP Sword | Epic Armoury](https://epicarmoury.com/products/2307-falchion-curved): Discover Epic Armoury's Falchion - Curved. Inspired by medieval blades, crafted for secure grip & comfort. Safe for use. Shop now!
-  Updated: 2026-07-21T14:12:56Z
+  Updated: 2026-07-28T13:53:22Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -1024,14 +1024,14 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/23070155-01.webp?v=1749536785
     Price: €118.00 EUR
 - [First Crusader Sword - LARP Medieval Longsword | Epic Armoury](https://epicarmoury.com/products/1502-first-crusader): Unleash your inner knight with the First Crusader sword. Its 110cm latex blade & detailed hilt demand attention. Shop now for historic LARP gear!
-  Updated: 2026-07-11T11:30:07Z
+  Updated: 2026-07-29T12:29:47Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402035.webp?v=1749536790
   Price: €111.00 EUR
 - [Fiskars Dagger | Epic Armoury](https://epicarmoury.com/products/1883-fiskars-dagger): Fiskars Dagger by Epic Armoury: a 13 cm throwing knife with an 8.5 cm double-edged blade & Celtic-inspired handle. Shop now for €12,00!
-  Updated: 2026-07-19T09:45:56Z
+  Updated: 2026-07-29T12:29:46Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -1061,7 +1061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/432351.webp?v=1749536799
     Price: €12.00 EUR
 - [Foam on Glassfiber Core](https://epicarmoury.com/products/1707-foam-on-glassfiber-core): Create your own safe LARP  with Epic Armoury's Foam on Glassfiber Core. 75 cm long, 8mm Ø core with Kevlar Tip. Shop now!
-  Updated: 2026-07-22T10:18:18Z
+  Updated: 2026-07-27T09:49:56Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1115,7 +1115,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402813.webp?v=1749536811
   Price: €208.00 EUR
 - [Hellfire - Red - 90 cm](https://epicarmoury.com/products/1494-hellfire-red-90-cm): Hellfire - Red - 90 cm. Epic Armoury's Orc Universe sword with hand-painted deep reds & oranges. Double-edged blade & ergonomic handle.
-  Updated: 2026-07-19T20:09:36Z
+  Updated: 2026-07-24T09:14:15Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1185,7 +1185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/452512.webp?v=1749536832
     Price: €141.00 EUR
 - [Highborn Sword - Red](https://epicarmoury.com/products/197103-highborn-sword-red): Before purchasing Stronghold Master Collection weapons for LARP, apply Epic Armoury Silicon/Protection Gel. Marks are expected. Buy now!
-  Updated: 2026-07-21T07:56:03Z
+  Updated: 2026-07-27T09:49:54Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1231,7 +1231,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402110.webp?v=1749536836
   Price: €86.00 EUR
 - [Jade Dao LARP  - Asian-Inspired Sword | Epic Armoury](https://epicarmoury.com/products/1936-jade-dao): Unleash the legend with the Epic Armoury Jade Dao! Discover this rare, beautiful , warmed by your touch and ready for adventure. Shop now!
-  Updated: 2026-07-19T20:09:32Z
+  Updated: 2026-07-28T12:38:18Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1266,7 +1266,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402086.webp?v=1749536844
   Price: €98.00 EUR
 - [Katana - Latex-Hybrid Sword for LARP | Epic Armoury](https://epicarmoury.com/products/1896-katana): Discover the Katana, a latex-hybrid short sword, perfect for ninjas & samurai. Precision-crafted with a fiberglass core. Shop now!
-  Updated: 2026-07-20T22:20:52Z
+  Updated: 2026-07-27T02:16:49Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1288,7 +1288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442604.webp?v=1749536845
     Price: €143.00 EUR
 - [Katana Handle for DIY Projects - Katana Parts | Epic Armoury](https://epicarmoury.com/products/1782-katana-handle): Craft your DIY Katana with Epic Armoury's handle. Durable polyurethane foam, 20cm grip, available in Original or Unpainted. Shop now!
-  Updated: 2026-07-08T22:08:29Z
+  Updated: 2026-07-27T10:12:53Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1323,7 +1323,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402317.webp?v=1749536857
   Price: €53.00 EUR
 - [Stronghold Knightly Sword for LARP | Epic Armoury](https://epicarmoury.com/products/1970-knightly-sword): Protect your Stronghold Master Collection LARP ! Apply Epic Armoury Maintenance Silicon or Protection Gel to prevent paint marks. Shop now!
-  Updated: 2026-07-08T22:11:26Z
+  Updated: 2026-07-28T15:19:46Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1413,28 +1413,28 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/403522.webp?v=1749536880
   Price: €195.00 EUR
 - [Long Yari 255 cm LARP Polearm - Epic Armoury](https://epicarmoury.com/products/1648-long-yari-255-cm): Your Long Yari was handed to you by your master. Overcome obstacles with its well-worn grip. Find comfort in its familiar hold. Shop now!
-  Updated: 2026-07-09T02:44:48Z
+  Updated: 2026-07-27T21:35:34Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402833.webp?v=1749536882
   Price: €247.00 EUR
 - [Lorian Dagger - 55 cm](https://epicarmoury.com/products/1564-lorian-dagger-55-cm): Elven ears hear a rustle? Find the 55 cm Lorian Dagger! Hone your skills with this 36 cm blade, perfect for LARP. Shop now!
-  Updated: 2026-07-13T12:25:47Z
+  Updated: 2026-07-28T23:48:04Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402322.webp?v=1749536882
+  Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/1564-01.jpg?v=1785239241
   Price: €71.00 EUR
 - [Lorian Glaive - 190 cm](https://epicarmoury.com/products/1639-lorian-glaive-190-cm): Elven ears rustle. A smile crosses your lips as a stranger tries to sneak up on you. You are an immortal kindred. No mortal can surprise you.
-  Updated: 2026-07-17T12:59:01Z
+  Updated: 2026-07-23T09:45:56Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/1639-01.jpg?v=1784293024
   Price: €208.00 EUR
 - [Marauder LARP Sword | Epic Armoury Stronghold Collection](https://epicarmoury.com/products/1972-marauder-sword): Protect your Stronghold Marauder Sword for LARP combat. Apply Epic Armoury Maintenance Silicon to preserve the blade's paint finish.
-  Updated: 2026-07-21T13:44:05Z
+  Updated: 2026-07-29T11:14:45Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1456,7 +1456,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/19720555-01_42d4e948-56c3-4c10-aa32-4d6ca51b1fb6.jpg?v=1766067844
     Price: €154.00 EUR
 - [Nightmare Blade - 100cm Hybrid LARP Sword | Epic Armoury](https://epicarmoury.com/products/1950-nightmare-blade): Epic Armoury’s 100cm Nightmare Blade is a hybrid LARP sword for barbarians. Features a 63cm blade, hand-painted to look like real steel with antique gold. Shop now!
-  Updated: 2026-07-13T14:31:46Z
+  Updated: 2026-07-28T15:19:46Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1524,7 +1524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442519.webp?v=1749536910
     Price: €133.00 EUR
 - [Orc Short Sword - 60 cm](https://epicarmoury.com/products/1527-orc-short-sword-60-cm): Wield the 60cm Orc Short Sword! For your clan, war is a permanent state. Prepare for battle & sate your thirst for chaos. Shop now!
-  Updated: 2026-07-15T05:21:55Z
+  Updated: 2026-07-23T09:45:56Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1538,21 +1538,21 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402835.webp?v=1749536908
   Price: €208.00 EUR
 - [Panabas LARP  - 140 cm | Epic Armoury](https://epicarmoury.com/products/1619-panabas-140-cm): The Panabas: a formidable symbol of power for live-action role-playing. This 140cm curved blade is safe for LARP. Shop now for your next adventure!
-  Updated: 2026-07-08T22:14:30Z
+  Updated: 2026-07-27T21:34:40Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402729.webp?v=1749536911
   Price: €156.00 EUR
 - [Persian Blade - 85 cm](https://epicarmoury.com/products/1498-persian-blade-85-cm): Your Persian Blade: quick, sharp, and precise. More than a , it's an extension of you. Hone your skill and test your blade. Shop now!
-  Updated: 2026-07-08T22:14:30Z
+  Updated: 2026-07-27T09:49:57Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402010.webp?v=1749536913
   Price: €104.00 EUR
 - [Persian Dagger - 45 cm](https://epicarmoury.com/products/1551-persian-dagger-45-cm): Get the Epic Armoury Persian Dagger, 45 cm. Quick & sharp for precise accuracy. Test your blade against the deadliest fighters. Buy now!
-  Updated: 2026-07-14T14:24:46Z
+  Updated: 2026-07-26T14:34:47Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -1566,7 +1566,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402111.webp?v=1749536915
   Price: €59.00 EUR
 - [Push Dagger - 10 cm Larp Knife | Epic Armoury](https://epicarmoury.com/products/1872-push-dagger-10-cm): Adjust your Push Dagger for a visit. Measuring 10 cm, this foam dagger is safe for LARP. Get your money or else! Shop now!
-  Updated: 2026-07-22T22:28:44Z
+  Updated: 2026-07-23T15:01:06Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -1615,7 +1615,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402279.webp?v=1749536928
   Price: €39.00 EUR
 - [Ready For Battle Sword - 75 cm](https://epicarmoury.com/products/2213-ready-for-battle-sword-75-cm): Gear up for adventure! Find your trusty 75cm Ready For Battle Sword today. Durable foam & fiberglass, great for new players. Shop now!
-  Updated: 2026-07-21T00:43:41Z
+  Updated: 2026-07-29T16:17:41Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1629,21 +1629,21 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402264.webp?v=1749536930
   Price: €53.00 EUR
 - [Ready For Battle Sword Dao - 75 cm](https://epicarmoury.com/products/1544-ready-for-battle-sword-dao-75-cm): Your Dao Sword was handed to you by your master. Overcome training obstacles & set out on your own. Feel the anticipation, shop now!
-  Updated: 2026-07-13T14:31:43Z
+  Updated: 2026-07-27T09:49:56Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402275.webp?v=1749536934
   Price: €59.00 EUR
 - [Ready For Battle Sword Elven - 75 cm](https://epicarmoury.com/products/1537-ready-for-battle-sword-elven-75-cm): Elven ears hear a rustle & a stranger attempts to sneak up on you! Wield this Elven Sword, honed for centuries. Shop now!
-  Updated: 2026-07-21T13:44:06Z
+  Updated: 2026-07-30T06:46:14Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402262.webp?v=1749536936
   Price: €59.00 EUR
 - [Ready For Battle Sword Evil - 75 cm](https://epicarmoury.com/products/1542-ready-for-battle-sword-evil-75-cm): The underdark is your domain. Strike fear with your Evil Sword! 75cm long & only €59. Shop now!
-  Updated: 2026-07-13T14:31:46Z
+  Updated: 2026-07-27T09:49:58Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1664,7 +1664,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402270.webp?v=1749536939
   Price: €59.00 EUR
 - [Ready For Battle Sword Pirate - 75 cm](https://epicarmoury.com/products/1541-ready-for-battle-sword-pirate-75-cm): Pirate City is dangerous. Your baldric keeps your Cutlass ready for cutthroats & scoundrels. Be prepared. Shop ready-for-battle pirate swords! Max 150 chars.
-  Updated: 2026-07-21T13:02:49Z
+  Updated: 2026-07-29T12:29:46Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1678,7 +1678,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402274.webp?v=1749536944
   Price: €53.00 EUR
 - [Ready For Battle Sword Wing - 75 cm](https://epicarmoury.com/products/1540-ready-for-battle-sword-wing-75-cm): Defend the innocent with the Wing Sword! This 75cm LARP sword has a sturdy blade & balanced feel. Perfect for new warriors. Shop now!
-  Updated: 2026-07-15T16:02:56Z
+  Updated: 2026-07-27T09:49:57Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1692,7 +1692,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442203.webp?v=1749536948
   Price: €66.00 EUR
 - [RFB Choppa - 75 cm LARP Sword for Warriors | Epic Armoury](https://epicarmoury.com/products/1921-rfb-choppa-75-cm): The wasteland is harsh, and your RFB Choppa sword reflects the hard-bitten wanderer you’ve become. Unrefined, it's an extension of you.
-  Updated: 2026-07-20T15:29:37Z
+  Updated: 2026-07-27T09:49:56Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1727,7 +1727,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442202.webp?v=1749536957
   Price: €66.00 EUR
 - [Rillet Rapier - Elegant LARP Sword | Epic Armoury](https://epicarmoury.com/products/2303-rillet-rapier): Wield the Rillet Rapier, a delicate 16th-17th century inspired sword for high-ranking noble LARP characters. Shop now from Epic Armoury!
-  Updated: 2026-07-15T11:55:48Z
+  Updated: 2026-07-29T11:14:41Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1795,7 +1795,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402327.webp?v=1749536971
   Price: €59.00 EUR
 - [Rune Spear 190 cm - Epic Armoury LARP  | Epic Armoury](https://epicarmoury.com/products/1627-rune-spear-190-cm): Grip the Rune Spear (190 cm) and serve the Lord of Shadows. Its runes glisten as you call for guidance. Conquer your foes today!
-  Updated: 2026-07-14T20:54:27Z
+  Updated: 2026-07-27T08:17:41Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1816,14 +1816,14 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/413102.webp?v=1749536979
     Price: €20.00 EUR
 - [Scout Sword 75cm - Durable LARP Foam  | Epic Armoury](https://epicarmoury.com/products/1959-scout-sword-75-cm): Lost in the woods? Your 1959 Scout Sword (75cm) guides your adventure! Epic Armoury's Stronghold foam weapons are built for tough LARP combat. Get yours!
-  Updated: 2026-07-21T13:02:46Z
+  Updated: 2026-07-27T09:49:55Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/452004.webp?v=1749536976
   Price: €77.00 EUR
 - [Scramasax - 60 cm: Celtic Short Sword from Epic Armoury](https://epicarmoury.com/products/1525-scramasax-60-cm): Discover the Scramasax - 60 cm, a bestselling Celtic short sword with a unique blade design, perfect for LARP and collection.
-  Updated: 2026-07-08T22:14:45Z
+  Updated: 2026-07-26T14:34:40Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1837,7 +1837,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402328.webp?v=1749536980
   Price: €53.00 EUR
 - [Sentinel Spear - 180 cm](https://epicarmoury.com/products/1625-sentinel-spear-180-cm): Stand watch with the Sentinel Spear, 180cm. Keep your camp safe and sound the alarm with this durable latex polearm. Shop now!
-  Updated: 2026-07-13T20:01:26Z
+  Updated: 2026-07-27T17:28:07Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1851,7 +1851,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/IF-402308.webp?v=1749536981
   Price: €47.00 EUR
 - [Shadow Blade Larp Sword - Dark Elven | Epic Armoury](https://epicarmoury.com/products/1906-shadow-blade): Unleash your inner villain with the Dark Elven Shadow Blade. A deadly, respected figure in the underground. Shop now!
-  Updated: 2026-07-21T13:02:53Z
+  Updated: 2026-07-27T09:49:57Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1869,7 +1869,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/442518.webp?v=1749537684
     Price: €117.00 EUR
 - [Skinner Knife - 15 cm](https://epicarmoury.com/products/1873-skinner-knife-15-cm): Catch a rabbit & skin it with ease using the 15 cm Skinner Knife. Perfect for reenactment. Get yours now!
-  Updated: 2026-07-21T19:06:13Z
+  Updated: 2026-07-29T11:14:45Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -1908,7 +1908,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/413114.webp?v=1750078605
     Price: €28.00 EUR
 - [Soulstealer - 110 cm](https://epicarmoury.com/products/1505-soulstealer-110-cm): Lead your army with the Soulstealer 110 cm LARP sword. Experience bloody battle & gain advantage over rival houses tonight. Shop now!
-  Updated: 2026-07-08T22:14:45Z
+  Updated: 2026-07-27T09:49:56Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -1947,7 +1947,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402817.webp?v=1749536998
   Price: €162.00 EUR
 - [Spear of Light - 190 cm](https://epicarmoury.com/products/1628-spear-of-light-190-cm): Conquer the dark voice within! Grip your 190 cm Spear of Light, defeat demons & stay true. Red stones glisten. Get yours today!
-  Updated: 2026-07-08T22:14:46Z
+  Updated: 2026-07-23T09:45:48Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -2032,7 +2032,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/432331.webp?v=1749537022
     Price: €11.00 EUR
 - [Tanto 40 cm Larp  for Samurai | Epic Armoury](https://epicarmoury.com/products/1561-tanto-40-cm):  your Tanto & test its perfect blade. 40cm, inspired by feudal Japan, for samurai LARP. Shop now for quality!
-  Updated: 2026-07-14T15:41:37Z
+  Updated: 2026-07-24T08:36:56Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -2060,7 +2060,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402707.webp?v=1749537016
   Price: €14.00 EUR
 - [Throwing Knife Orc - 24 cm](https://epicarmoury.com/products/1607-throwing-knife-orc-24-cm): Orc Throwing Knife 24 cm for rituals & battle. Dented, double-edged 14 cm blade, curved 10 cm handle. Get yours now!
-  Updated: 2026-07-21T07:25:55Z
+  Updated: 2026-07-23T15:01:06Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -2081,7 +2081,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/432321.webp?v=1749537020
   Price: €11.00 EUR
 - [Trappers Knife - Ideal Utility Blade for Hunters](https://epicarmoury.com/products/1879-trappers-knife): Discover the Trappers Knife, a versatile tool made for utility and action—perfect for hunters and characters in low-fantasy settings.
-  Updated: 2026-07-15T13:05:34Z
+  Updated: 2026-07-23T15:01:06Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -2192,7 +2192,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/185901-01.webp?v=1749537032
   Price: €35.00 EUR
 - [Wakizashi LARP Sword – Epic Armoury High-Quality Blades](https://epicarmoury.com/products/1529-wakizashi): Discover the perfect Wakizashi. Crafted with precision for LARP, this 60cm blade offers exceptional appeal. Shop this high-quality latex short sword!
-  Updated: 2026-07-08T22:14:50Z
+  Updated: 2026-07-23T09:45:56Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -2213,7 +2213,7 @@
   Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/402329.webp?v=1749537035
   Price: €59.00 EUR
 - [Yari - 190 cm LARP Spear for Combat | Epic Armoury](https://epicarmoury.com/products/1647-yari-190-cm): Your Yari was handed to you many years ago. You find the handle comforting, your hand finding its usual well-worn grip. Explore now!
-  Updated: 2026-07-08T22:14:50Z
+  Updated: 2026-07-23T09:45:46Z
   Vendor: Epic Armoury Europe
   Product Type: 
   Availability: Available
@@ -2248,7 +2248,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/4323560210.webp?v=1749537040
     Price: €27.00 EUR
 - [Ranger Knife With Core](https://epicarmoury.com/products/1885-ranger-knife-with-core): The Epic Armoury Gold-Black Ranger Knife with Core (32cm, 17cm blade) is a pragmatic backup  with a pointed tip & sharp edge. Shop now!
-  Updated: 2026-07-17T12:21:45Z
+  Updated: 2026-07-30T09:48:22Z
   Vendor: Epic Armoury Europe
   Product Type: Foam Weapons
   Availability: Available
@@ -2298,7 +2298,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/250601-02.webp?v=1749537043
     Price: €96.00 EUR
 - [Basic Medieval Pants - Durable LARP & Cosplay | Epic Armoury](https://epicarmoury.com/products/1449-basic-pants): Shop Epic Armoury's Basic Pants! Classic medieval style with modern alterations, like pockets. Made from durable cotton with adjustable drawstrings. Shop now!
-  Updated: 2026-07-22T04:01:55Z
+  Updated: 2026-07-30T09:30:02Z
   Vendor: Epic Armoury Europe
   Product Type: Costume Apparel
   Availability: Available
@@ -2418,7 +2418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/301130.webp?v=1749537059
     Price: €53.00 EUR
 - [Chain Skirt for LARP & Medieval | Epic Armoury](https://epicarmoury.com/products/1311-chain-skirt): Feel the protection of Epic Armoury's Chain Skirt. This flexible mail armor covers your lower body from waist to thighs. Shop now!
-  Updated: 2026-07-17T13:10:08Z
+  Updated: 2026-07-27T02:16:45Z
   Vendor: Epic Armoury Europe
   Product Type: Medieval Armor
   Availability: Available
@@ -2440,7 +2440,7 @@
     Image: https://cdn.shopify.com/s/files/1/0888/7291/1184/files/200801.webp?v=1749537064
     Price: €93.00 EUR
 - [CQ Black Ice Battleskirt](https://epicarmoury.com/products/2145-cq-black-ice-battleskirt): Unify your unit with the CQ Black Ice Battleskirt, a physical manifestation of perfection. Designed for efficient combat. Shop now!
-  Updated: 2026-07-19T21:53:56Z
+  Updated: 2026-07-23T13:12:42Z
   Vendor: Epic Armoury Europe
   Product Type: Costume Apparel
   Availability: Available
@@ -2479,298 +2479,298 @@
 ## Collections
 
 - [Axes](https://epicarmoury.com/collections/axes): Epic Armoury axes for LARP, cosplay, and reenactment. From Viking axes to fantasy war axes, each foam  is safe, durable, and ready for adventure.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 35
 - [Arrows](https://epicarmoury.com/collections/arrows): Shoot with confidence using LARP-safe arrows. Durable foam heads, flexible shafts & reliable flight for archery, battles & training.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 10
 - [Swords](https://epicarmoury.com/collections/swords): <p>Browse our collection of LARP swords crafted for epic quests and dangerous endeavours. Find the sword that completes your character.</p>
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 139
 - [Throwing Weapons](https://epicarmoury.com/collections/throwing-weapons): Discover lightweight, accurate throwing weapons for rogues, warriors, and tacticians. Equip yourself to gain the edge in every LARP battle
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 56
 - [Staffs & Spears](https://epicarmoury.com/collections/staffs-spears): <p>Browse our range of staffs and spears crafted for reach, balance, and durability. Perfect for mages and warriors ready to control the battlefield.</p>
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 34
 - [Shields](https://epicarmoury.com/collections/shields): Explore shields built for safety, balance, and style. Choose round, tower, or heater designs made for LARP combat, cosplay, or display.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 53
 - [ Maintenance](https://epicarmoury.com/collections/-maintenance): Keep your LARP swords, axes, and shields in top shape with Epic Armoury  maintenance gear. Easy-to-use products for cleaning, protection, and long-lasting
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 3
 - [2nd Quality Weapons](https://epicarmoury.com/collections/2nd-quality-weapons): Find LARP weapons at reduced prices. 2nd Quality items offer full function with minor flaws—great for practice, cosplay, and battle-ready fun.
   Updated: 2026-07-15T11:42:17Z
   Total Products: 31
 - [DIY Weaponry](https://epicarmoury.com/collections/diy-weaponry): Build your own DIY foam weapons with step-by-step guides and kit recommendations. Tips on materials, safety and finishing for LARP and cosplay.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 43
 - [Wands](https://epicarmoury.com/collections/wands): Explore LARP wands built for spellcasters and storytellers. Safe, detailed, and ready for magic on the battlefield or stage.
   Updated: 2026-07-20T11:22:28Z
   Total Products: 13
 - [Helmets](https://epicarmoury.com/collections/helmets): Need a medieval helmet? We've got a wide selection of helmets for knights, warriors and vikings, with inspirations in both the Middle Ages and from Fantasy.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 44
 - [Chainmail](https://epicarmoury.com/collections/chainmail): Find chainmail shirts and coifs built for protection and style. Durable, comfortable, and ready for battle at any LARP, fair, or stage performance.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 13
 - [Weaponry](https://epicarmoury.com/collections/weaponry): Explore Epic Armoury’s medieval weaponry: foam medieval weapons, fantasy swords, axes, and melee weapons for LARP and Renfairs. Safe, durable, adventure-ready!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 384
 - [Two-Handed Swords](https://epicarmoury.com/collections/two-handed-swords): Epic Armoury two-handed swords, greatswords, and claymores for LARP, cosplay, and reenactment. Safe, durable, and built for epic battles.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-29T11:21:28Z
   Total Products: 12
 - [Short Swords](https://epicarmoury.com/collections/short-swords): Epic Armoury short swords for LARP, cosplay, and reenactment. Foam blades inspired by medieval arming swords, fantasy sidearms, and more. Safe, durable, and adv
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 42
 - [Medium Swords](https://epicarmoury.com/collections/medium-swords): Epic Armoury medium swords for LARP, cosplay, and reenactment. Foam blades inspired by medieval arming swords and fantasy designs | safe, durable, and ready for
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 90
 - [Long Swords](https://epicarmoury.com/collections/long-swords): Epic Armoury long swords designed for Larp, Ren Fairs and cosplay. Safe foam construction, medieval and fantasy styles, and ready for epic duels.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 76
 - [Armour](https://epicarmoury.com/collections/armour): Explore armour built for LARP, cosplay, and reenactment. Choose steel, leather, or foam protection that fits your look and your adventure.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 429
 - [Medieval & Knight Helmets](https://epicarmoury.com/collections/medieval-knight-helmets): Epic Armoury medieval helmets bring history to life. Explore knight, Viking and fantasy styles built for comfort, safety and adventure.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 16
 - [PU Helmets](https://epicarmoury.com/collections/pu-helmets): Explore PU helmets made for comfort and safety. Durable, lightweight, and designed for long LARP days without the weight of steel.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-27T11:22:37Z
   Total Products: 8
 - [Clothing](https://epicarmoury.com/collections/clothing): Explore medieval and fantasy clothing for LARP, cosplay, and fairs. Find tunics, dresses, and accessories designed for comfort and authenticity.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 159
 - [Accessories](https://epicarmoury.com/collections/accessories): Epic Armoury accessories for LARP, cosplay, and reenactment. Discover belts, pouches, potion bottles, masks, and more to finish your adventure-ready look.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 263
 - [Special FX](https://epicarmoury.com/collections/special-fx): Bring your character to life with special FX makeup and prosthetics. Create wounds, scars, and fantasy looks that transform your next event.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 123
 - [Archery](https://epicarmoury.com/collections/archery): Epic Armoury archery gear for LARP and cosplay. Foam-tipped arrows with large heads, durable bows, and quivers designed for fun, and action-filled adventures.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 42
 - [Gauntlets](https://epicarmoury.com/collections/gauntlets): Gauntlets, steel mittens and plate hand armor for LARP and reenactment. Articulated and mitten styles from historical reproductions to dark fantasy.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 11
 - [Arms](https://epicarmoury.com/collections/arms): Protect your arms with flexible leather, metal, or PU armour. Built for safety and movement in LARP, cosplay, and reenactment battles.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 54
 - [Faux Leather](https://epicarmoury.com/collections/faux-leather)
   Updated: 2026-03-26T16:06:09Z
   Total Products: 0
 - [Leg Armour](https://epicarmoury.com/collections/leg-armour): Explore leg armour in leather, metal, or PU for LARP and cosplay. Designed for mobility, protection, and authentic medieval style.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 47
 - [Breastplate](https://epicarmoury.com/collections/breastplate): Protect your chest with durable LARP breastplates in steel, leather, and PU. Designed for comfort, mobility, and authentic medieval style.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 33
 - [Faulds and Tassets](https://epicarmoury.com/collections/faulds-and-tassets): Protect your waist and thighs with faulds and tassets made from steel, leather, or PU. Designed for movement, comfort, and authentic style.
-  Updated: 2026-07-21T11:22:37Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 17
 - [Headwear & Hats](https://epicarmoury.com/collections/headwear-hats): Top off your look with medieval headwear and hats. From simple caps to noble hoods, find styles that complete your costume with comfort and flair.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 36
 - [Corsets](https://epicarmoury.com/collections/corsets): Explore corsets made for LARP, cosplay, and fairs. Designed for comfort and support while adding shape and style to your medieval look.
-  Updated: 2026-07-02T11:25:27Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 3
 - [Medieval Pants](https://epicarmoury.com/collections/medieval-pants): Find medieval pants made for LARP, cosplay, and reenactment. Choose from wool, cotton, or linen designs built for comfort, movement, and style.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 19
 - [Skirts](https://epicarmoury.com/collections/skirts): Explore medieval skirts designed for movement and authenticity. Perfect for LARP, cosplay, or festivals where comfort meets timeless style.
-  Updated: 2026-07-20T11:22:28Z
+  Updated: 2026-07-24T11:22:18Z
   Total Products: 4
 - [Shirts](https://epicarmoury.com/collections/shirts): Find medieval shirts made for comfort and style. Ideal for LARP, fairs, and cosplay, each piece pairs easily with tunics, vests, and armour.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 17
 - [Tabards & Surcoats](https://epicarmoury.com/collections/tabards-surcoats): Wear tabards and surcoats that show your colors on and off the field. Made for LARP, reenactment, and cosplay with comfort and durability in mind.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 8
 - [Dresses](https://epicarmoury.com/collections/dresses): Explore medieval dresses made for LARP, cosplay, and fairs. From simple linen gowns to elegant styles, each is designed for comfort and grace.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 29
 - [Medieval Tunics](https://epicarmoury.com/collections/medieval-tunics): Find medieval tunics inspired by history and built for comfort. Ideal for LARP, cosplay, or fairs, with styles suited for any era or adventure.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 11
 - [Vests](https://epicarmoury.com/collections/vests): Add depth to your outfit with medieval vests made for LARP and cosplay. Designed for layering, comfort, and an authentic historical look.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 13
 - [Capes & Cloaks](https://epicarmoury.com/collections/capes-cloaks): Epic Armoury Capes & Cloaks in wool and cotton for LARP, cosplay, and Renaissance fairs. Durable, stylish, and ready for your next adventure.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 11
 - [Robes](https://epicarmoury.com/collections/robes): Explore monk, medieval and wizard robes. Designed for comfort, layering, and movement in LARP, cosplay, and fantasy settings.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-29T11:21:28Z
   Total Products: 9
 - [Leather Hats](https://epicarmoury.com/collections/leather-hats): Explore our collection of leather headgear. Featuring diverse styles from nautical tricornes to woodland ranger hats.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 8
 - [Doublets & Coats](https://epicarmoury.com/collections/doublets-coats): Stay warm and look the part with medieval doublets and coats made for LARP and reenactment. Built for movement, made for stories.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 16
 - [Gloves](https://epicarmoury.com/collections/gloves): Keep your hands ready for anything with medieval gloves designed for grip, warmth, and authenticity. Built for LARP, fairs, and long adventures.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 9
 - [Footwear](https://epicarmoury.com/collections/footwear): Step into sturdy medieval footwear designed for long treks and timeless style. Authentic shoes made for LARP, fairs, and every path you walk.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 10
 - [Textile](https://epicarmoury.com/collections/textile): Find textile products by Epic Armoury. Shop clothing, gambesons and fabric gear built for LARP
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 16
 - [Children's Clothing](https://epicarmoury.com/collections/childrens-clothing)
   Updated: 2026-06-01T08:54:53Z
   Total Products: 12
 - [Belts](https://epicarmoury.com/collections/belts): Epic Armoury medieval belts for LARP, cosplay, and reenactment. Leather designs for strength, comfort, and authentic detail in any costume.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 26
 - [ Holders](https://epicarmoury.com/collections/-holders): Carry your sword, axe, or dagger with ease using Epic Armoury’s  holders. Built for comfort and quick access during LARP battles. Find your fit and stay r
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 63
 - [Maces & Clubs](https://epicarmoury.com/collections/maces-clubs): Strike with style using Epic Armoury’s foam maces and clubs. Safe, durable, and made for close combat. Pick your  and bring the fight to life.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 38
 - [Scabbards & Sword Sheaths](https://epicarmoury.com/collections/scabbards-sword-sheaths): Protect your sword and keep it close with Epic Armoury’s scabbards and sheaths. Designed for comfort, quick draws, and authentic looks. Gear up and get ready to
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 15
 - [Hammers](https://epicarmoury.com/collections/hammers): Epic Armoury’s foam hammers deliver solid impact with safe, balanced design. Built for action and bold looks on the battlefield.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 13
 - [Bags & Purses](https://epicarmoury.com/collections/bags-purses): Epic Armoury bags & purses for LARP, cosplay, and reenactment. Leather designs for coins, gear, and accessories, practical storage with authentic style.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 35
 - [Books](https://epicarmoury.com/collections/books): Find sewing books & leather-bound diaries for LARP, cosplay & journaling. Create costumes or record stories with practical, immersive books.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-24T11:22:18Z
   Total Products: 7
 - [Adventure & Camp Gear](https://epicarmoury.com/collections/adventure-camp-gear): Equip your camp with the essentials, from drinking horns to firepits. Savour every meal and gather by the fire, embracing camp life.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 97
 - [Ready For Battle Swords](https://epicarmoury.com/collections/ready-for-battle-swords): Epic Armoury’s RFB swords are safe, durable, and easy to wield. Perfect for LARP beginners and seasoned players alike.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 17
 - [Neck & Shoulders](https://epicarmoury.com/collections/neck-shoulders): Protect your neck and shoulders with Epic Armoury’s pauldrons, gorgets, and bevors. Strong, comfortable, and made for battle-ready style.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 58
 - [New](https://epicarmoury.com/collections/new): Explore new arrivals in LARP armor, clothing and gear. Fresh styles for adventurers, cosplayers and medieval enthusiasts.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 24
 - [Character Accessories](https://epicarmoury.com/collections/character-accessories): Complete your kit with character accessories—belts, pouches & diaries that add story, function & style to every LARP or cosplay outfit.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 38
 - [News](https://epicarmoury.com/collections/news): Explore the newest LARP weapons, armour, and clothing from Epic Armoury. Fresh designs, ready for your next event.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 63
 - [Display Racking](https://epicarmoury.com/collections/display-racking): Display racking for swords, axes & wands. Keep your LARP gear safe, organised & ready with wall, table & freestanding  racks.
-  Updated: 2026-07-14T11:25:43Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 6
 - [2nd Quality Armour](https://epicarmoury.com/collections/2nd-quality-armour): Save on LARP armour with Epic Armoury’s 2nd quality selection. Minor flaws, same protection, lower price.
   Updated: 2026-07-15T11:44:43Z
   Total Products: 2
 - [Game Props](https://epicarmoury.com/collections/game-props): Bring scenes to life with game props—foam mugs, coins, bones & skulls. Safe, detailed, and perfect for LARP, cosplay, fairs & stage.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 20
 - [Services](https://epicarmoury.com/collections/services)
   Updated: 2026-06-01T08:55:12Z
   Total Products: 2
 - [Sets](https://epicarmoury.com/collections/sets): Get fully equipped with Epic Armoury’s LARP sets. Matching armour and weapons designed to keep you ready from head to toe.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 39
 - [Curved Swords](https://epicarmoury.com/collections/curved-swords): Epic Armoury curved blades for LARP, cosplay, and reenactment. Foam sabers and scimitars designed for safety, durability, and striking character style.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-29T11:21:28Z
   Total Products: 6
 - [Mystery Deals](https://epicarmoury.com/collections/mystery-deals)
   Updated: 2026-05-20T16:13:17Z
   Total Products: 1
 - [Rawblade](https://epicarmoury.com/collections/rawblade): Discover Rawblade’s leather armour, clothing, and fantasy gear made in Spain. Bold designs, crafted quality. Explore the collection at Epic Armoury.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 319
 - [Calimacil](https://epicarmoury.com/collections/calimacil): Discover Calimacil’s foam swords, maces and Hollywood Replicas.
-  Updated: 2026-07-21T11:22:36Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 108
 - [Burgschneider](https://epicarmoury.com/collections/burgschneider): Discover Burgschneider’s handcrafted medieval and fantasy clothing. Authentic style, durable fabrics, for your next quest.
-  Updated: 2026-06-09T11:22:22Z
+  Updated: 2026-07-24T11:22:21Z
   Total Products: 22
 - [Clothing Sets](https://epicarmoury.com/collections/clothing-sets)
   Updated: 2026-03-26T16:06:09Z
   Total Products: 0
 - [Stronghold](https://epicarmoury.com/collections/stronghold): Discover Epic Armoury’s Stronghold collection ⚔️ durable, lightweight LARP swords designed for speed, safety, and immersive combat.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 20
 - [LarpSpot](https://epicarmoury.com/collections/larpspot)
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-27T11:22:38Z
   Total Products: 31
 - [Epic Effect](https://epicarmoury.com/collections/epic-effect): Transform your character with Epic Effect — SFX makeup, prosthetics, masks, and fake blood for LARP, theatre, and film.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 103
 - [Eventide](https://epicarmoury.com/collections/eventide): Step into shadow with the Eventide Collection. Dark elf-inspired armour, clothing & weapons for LARP, cosplay & fantasy roleplay.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 20
 - [Ready For Battle](https://epicarmoury.com/collections/ready-for-battle): Check out the Ready For Battle line - simple, battle-ready foam weapons and armor, for the beginning of your adventure
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 65
 - [Themes](https://epicarmoury.com/collections/themes): Find your style with Epic Armoury’s themed collections. Viking, medieval, fantasy, or seasonal looks like Halloween and Christmas.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 143
 - [Dark Moon](https://epicarmoury.com/collections/dark-moon): Explore Dark Moon’s modern, improvised weapons and gear built for futuristic battle scenes.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 40
 - [Halloween](https://epicarmoury.com/collections/halloween): Get ready for Halloween with Epic Armoury’s spooky costumes and props. Perfect for parties, LARP, or eerie photoshoots.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 143
 - [Light Kit](https://epicarmoury.com/collections/light-kit): Discover Light Kit armour in polyurea—lightweight, durable & maintenance-free. Get the look of steel with comfort for LARP, cosplay & stage.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 87
 - [The Witcher](https://epicarmoury.com/collections/the-witcher)
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 27
 - [Scarecrow](https://epicarmoury.com/collections/scarecrow): Get creepy with Epic Armoury’s scarecrow masks, fangs, and effects. Perfect for LARP, Halloween, horror cosplay.
   Updated: 2026-07-11T11:20:20Z
   Total Products: 12
 - [Sci-Fi](https://epicarmoury.com/collections/sci-fi): Gear up for a galaxy far far away. Explore our collection of Heroic and Villainous laser swords, and thematic robes for space-faring characters.
-  Updated: 2026-07-17T11:21:42Z
+  Updated: 2026-07-27T11:22:34Z
   Total Products: 9
 - [Landsknecht](https://epicarmoury.com/collections/landsknecht): Landsknecht Clothing: Explore vibrant, slashed fabrics & layered textures from 16th-century mercenaries. Shop our collection!
-  Updated: 2026-07-21T11:22:37Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 29
 - [IDV](https://epicarmoury.com/collections/idv): Explore IDV Engineering’s bows, arrows, and archery equipment. Built for safety, accuracy, and consistent LARP performance.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 15
 - [Tinsley Transfers](https://epicarmoury.com/collections/tinsley-transfers): Bring cinematic realism with Tinsley Transfers’ 3D FX tattoos, prosthetics, and special effects | Epic Armoury
   Updated: 2026-06-14T11:23:23Z
   Total Products: 43
 - [Pirate Costumes](https://epicarmoury.com/collections/pirate-costumes): Shop the Pirate collection at Epic Armoury. Featuring period-style clothing, leather belts, and seafaring accessories.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 102
 - [Dental Distortion](https://epicarmoury.com/collections/dental-distortion): Transform your look with Dental Distortions’ realistic fangs, claws, and prosthetic teeth, used in Hollywood FX.
   Updated: 2026-06-02T06:41:26Z
   Total Products: 13
 - [Elves](https://epicarmoury.com/collections/elves): Browse our elven collection Including latex ears, elegant armour sets like the Illumine and Eventide, and a variety of elven bows, swords, and glaives.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 90
 - [Atelier Fantastic'Art](https://epicarmoury.com/collections/atelier-fantasticart): Explore Atelier Fantastic'Art’s masks, helmets, tiaras, and foam daggers for LARP and cosplay | Epic Armoury
-  Updated: 2026-07-19T11:18:56Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 10
 - [Halflings](https://epicarmoury.com/collections/halflings): Shop the Halfling collection for authentic-looking rural wear. From simple clothing to the Adventurers backpack, find the small-but-mighty pieces.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 34
 - [Zauberfeder](https://epicarmoury.com/collections/zauberfeder): Browse Zauberfeder’s publications and LARP accessories, from magazines to game aids
   Updated: 2026-05-20T16:21:04Z
   Total Products: 6
 - [Epic Armoury Vanguard](https://epicarmoury.com/collections/epic-armoury-vanguard): Check out Epic Armoury Vanguard, our advanced foam weapons line built for realism, strength, and low maintenance.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 8
 - [Battle Bundles](https://epicarmoury.com/collections/battle-bundles): Grab a full set of weapons, armour, and accessories in one bundle, and save on your next LARP setup.
   Updated: 2026-06-02T06:41:27Z
   Total Products: 3
 - [Jewelry](https://epicarmoury.com/collections/jewelry): Shop Epic Armoury's diverse LARP jewelry since 2007! Find leather & metal bracelets from €9.35. Free EU shipping over €150!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 7
 - [Replica ](https://epicarmoury.com/collections/replica-)
   Updated: 2026-06-01T08:57:11Z
   Total Products: 0
 - [Stationery](https://epicarmoury.com/collections/stationery): Write letters, seal scrolls, and record quests with Epic Armoury’s stationery. Perfect for immersive LARP Amoments.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-24T11:22:18Z
   Total Products: 2
 - [Potion Bottles](https://epicarmoury.com/collections/potion-bottles): Add atmosphere with potion bottles for LARP & cosplay. Glass vials & cork-sealed flasks for alchemists, healers & curious collectors.
-  Updated: 2026-07-21T11:22:37Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 3
 - [Daillati](https://epicarmoury.com/collections/daillati): Discover Dallaiti’s artisanal pens, quills, journals, and leather goods. Elegant, handcrafted, and sustainable.
   Updated: 2026-07-06T11:22:03Z
@@ -2779,43 +2779,43 @@
   Updated: 2026-05-20T16:21:04Z
   Total Products: 30
 - [Compact Gear](https://epicarmoury.com/collections/compact-gear): Travel light with Epic Armoury’s compact gear. Practical LARP weapons, armour, and accessories made for easy transport.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 25
 - [Armorware](https://epicarmoury.com/collections/armorware): Explore Armorware’s handmade leather armour and costumes. Durable designs made for comfort, style, and LARP performance.
-  Updated: 2026-07-12T11:19:22Z
+  Updated: 2026-07-27T11:22:38Z
   Total Products: 42
 - [Yoremade](https://epicarmoury.com/collections/yoremade): Yoremade by Epic Armoury: History to Wear. Experience the future of the past with authentic medieval fashion for LARP & reenactment.
-  Updated: 2026-07-21T11:22:37Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 47
 - [Flails](https://epicarmoury.com/collections/flails): Master the chaos of battle with Epic Armoury’s foam flails. Safe, flexible, and built for fast LARP action.
-  Updated: 2026-07-20T11:22:28Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 9
 - [Modular Weapons](https://epicarmoury.com/collections/modular-weapons): Create your own LARP  setup with Epic Armoury’s modular system. Swap parts for unique builds and endless customization options.
-  Updated: 2026-07-20T11:22:28Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 25
 - [Sales](https://epicarmoury.com/collections/sales): Save on Epic Armoury gear with our latest . Find discounts on LARP weapons, armour, and costumes while stocks last.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 286
 - [Viking](https://epicarmoury.com/collections/viking): Explore Epic Armoury’s Viking collection with historically inspired armour, weapons, and clothing made for LARP and reenactment.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 160
 - [Viking Helmet](https://epicarmoury.com/collections/viking-helmet): Protect your head in style with Epic Armoury’s Viking helmets. Strong, safe, and inspired by Norse design for LARP and cosplay.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-29T11:21:28Z
   Total Products: 10
 - [Polearms](https://epicarmoury.com/collections/polearms): Reach further in battle with Epic Armoury’s foam polearms. Safe, balanced, and built for immersive LARP combat.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 41
 - [Viking Shields](https://epicarmoury.com/collections/viking-shields): Defend like a Norse warrior with Epic Armoury’s Viking shields. Lightweight, durable, and made for authentic LARP combat.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 8
 - [Viking Swords](https://epicarmoury.com/collections/viking-swords): Wield the strength of the North with Epic Armoury’s Viking swords. Safe foam design with authentic historical detail for LARP combat.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 11
 - [Viking Armor](https://epicarmoury.com/collections/armor): Equip yourself with Epic Armoury’s Viking armour. Durable, flexible, and inspired by historical Norse craftsmanship for LARP battles.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 27
 - [Drinking Horns](https://epicarmoury.com/collections/drinking-horns): Raise a toast with Epic Armoury’s drinking horns. Perfect for LARP, medieval banquets, or home display.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 22
 - [Merchandise](https://epicarmoury.com/collections/merchandise): Merchandise from Epic Armoury featuring apparel, mugs, and more. Show the world, where to get epic equipment and wildly cool weaponry.
   Updated: 2026-05-20T16:13:32Z
@@ -2824,25 +2824,25 @@
   Updated: 2026-06-26T11:07:03Z
   Total Products: 29
 - [Full Masks](https://epicarmoury.com/collections/full-masks): Transform your look with Epic Armoury’s full masks. Designed for comfort, durability, and immersive LARP play.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 21
 - [Face Masks](https://epicarmoury.com/collections/face-masks): Explore Epic Armoury’s latex face masks with lifelike designs. Ideal for LARP, cosplay, or adding realism to your character.
   Updated: 2026-07-09T11:25:21Z
   Total Products: 21
 - [Effect Accessories](https://epicarmoury.com/collections/effect-accessories): Add realism with Epic Armoury’s effect accessories. Fake blood, adhesives, and makeup tools made to complete your transformation.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 14
 - [Armour Sets](https://epicarmoury.com/collections/armour-sets): Gear up with Epic Armoury’s Armour sets. From mix-and-match pieces to full suits, built for comfort, safety, and style.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 56
 - [Color Contact Lenses](https://epicarmoury.com/collections/color-contact-lenses): Find the perfect match for your costume with Epic Armoury’s color contact lenses. Choose your shade and change your look with ease.
   Updated: 2026-03-26T16:06:10Z
   Total Products: 0
 - [SFX Makeup](https://epicarmoury.com/collections/sfx-makeup): Elevate your appearance with Epic Armoury’s high-quality SFX makeup. Create stunning special effects for any event and unleash your creativity.
-  Updated: 2026-07-21T11:22:36Z
+  Updated: 2026-07-28T11:26:24Z
   Total Products: 25
 - [Fake Blood](https://epicarmoury.com/collections/fake-blood): Get realistic, non-toxic fake blood from Epic Armoury. Perfect for costumes, Halloween, and special effects makeup.
-  Updated: 2026-07-20T11:22:28Z
+  Updated: 2026-07-27T11:22:32Z
   Total Products: 5
 - [Transfers & Tattoes](https://epicarmoury.com/collections/transfers-tattoes): Create lifelike scars, wounds, and tattoos with Epic Armoury’s SFX transfers. Easy to apply and perfect for LARP, cosplay, or film.
   Updated: 2026-06-14T11:23:23Z
@@ -2851,13 +2851,13 @@
   Updated: 2026-07-11T11:20:20Z
   Total Products: 23
 - [Bows](https://epicarmoury.com/collections/bows): Explore wooden LARP bows made for real draw and authentic feel. Lightweight, reliable, and perfect for archery, cosplay & reenactment.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 15
 - [Bow Accessories](https://epicarmoury.com/collections/bow-accessories): Stay ready with bow accessories for LARP & training. Bracers, gloves, strings & targets that keep your shots smooth, safe & comfortable.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 9
 - [Quivers](https://epicarmoury.com/collections/quivers): Carry arrows with durable LARP quivers in leather & fabric. Practical, comfortable & authentic designs for archery, cosplay & reenactment.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 9
 - [Gift Cards](https://epicarmoury.com/collections/gift-cards): Give an Epic Armoury Gift Card and let your friends choose their own adventure.
   Updated: 2026-05-20T16:13:24Z
@@ -2866,91 +2866,91 @@
   Updated: 2026-07-21T11:22:36Z
   Total Products: 16
 - [Medieval Tents](https://epicarmoury.com/collections/medieval-tents): Set up camp with medieval tents built for LARP, fairs & reenactment. Durable canvas, easy setup & classic designs for immersive events.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-29T11:21:28Z
   Total Products: 40
 - [Prosthetics](https://epicarmoury.com/collections/prosthetics): Complete your look with quality prosthetics. Choose from ears, scars, and wounds that look real and stay secure through long events.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 28
 - [Daggers](https://epicarmoury.com/collections/daggers): Discover Epic Armoury’s collection of foam daggers, from rogue blades to ritual daggers — safe, durable, and crafted for immersive LARP.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 36
 - [Gambesons](https://epicarmoury.com/collections/gambesons): Explore Epic Armoury’s Gambesons — padded armor for LARP, reenactment, and cosplay. Comfortable, authentic, and ready for your next adventure!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 23
 - [Cuirass](https://epicarmoury.com/collections/cuirass): Step into battle with a cuirass built for comfort, style, and story. Perfect for LARP, cosplay, and medieval reenactments.
-  Updated: 2026-07-20T11:22:27Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 16
 - [Gorget](https://epicarmoury.com/collections/gorget): Protect your neck and shoulders with gorgets and bevors crafted for realism and flair. Designed for LARP, cosplay, and collectors.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 12
 - [Pauldrons](https://epicarmoury.com/collections/pauldrons): Protect your shoulders with Epic Armoury’s LARP pauldrons and spaulders. Explore steel, leather, and fantasy designs built for safety and style in every fight.
-  Updated: 2026-07-21T11:22:37Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 27
 - [Bracers](https://epicarmoury.com/collections/bracers): Secure your arms with LARP bracers built for style and comfort. Explore leather and steel designs made for battle, cosplay, and reenactment.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 16
 - [Plate Armor Chest](https://epicarmoury.com/collections/plate-armor-chest): Plate Armor Chest with historical and fantasy designs, including breastplates and cuirasses in steel and plate construction.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 29
 - [PU Armor Chest](https://epicarmoury.com/collections/pu-breastplates): PU Breastplates and Cuirass offer a steely look without the weight. Ideal for LARP, cosplay or stage performance with full mobility.
-  Updated: 2026-07-17T11:21:42Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 11
 - [Leather Cuirasses and Brigandines](https://epicarmoury.com/collections/leather-cuirass-brigandine): Explore our Leather Armor for the upper body, including suede ranger torsos, affordable RFB cuirass, celtic styled leather armor, and reinforced brigandines
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 20
 - [Faux Leather Torso Armour](https://epicarmoury.com/collections/faux-leather-torso-armour)
   Updated: 2026-03-26T16:06:09Z
   Total Products: 0
 - [Battle Standards](https://epicarmoury.com/collections/battle-standards): Fly your colors with bold battle standards made for LARP, reenactments, and festivals. Let your banner tell your story.
-  Updated: 2026-07-14T11:25:43Z
+  Updated: 2026-07-24T11:22:21Z
   Total Products: 20
 - [Tavern Brawl Collection](https://epicarmoury.com/collections/tavern-brawl-collection): Gear up for mischief with the Tavern Brawl Collection. LARP-ready outfits, props, and accessories for your next rowdy tale
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 9
 - [Viking Clothes](https://epicarmoury.com/collections/viking-clothes): Explore Viking clothes inspired by Norse history. Durable, authentic, and ready for LARP, festivals, and historical life.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 21
 - [Leather Armor](https://epicarmoury.com/collections/leather-armor): Flexible, durable, and battle-ready. Find leather armor that moves with you and looks authentic at every LARP or fair.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 64
 - [Medieval Clothing](https://epicarmoury.com/collections/medieval-clothing): Shop Medieval Clothing from Epic Armoury. Explore ou large selection of styles inspired by the early, high and late middle ages, and experience.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 122
 - [Outlet](https://epicarmoury.com/collections/outlet): Browse our outlet collection for special offers and discounted products
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 492
 - [Leather Armor Sets](https://epicarmoury.com/collections/leather-armor-sets): Complete your outfit with full leather armor sets. Designed for durability, flexibility and timeless medieval appeal.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-29T11:21:28Z
   Total Products: 4
 - [Leather Armor Legs](https://epicarmoury.com/collections/leather-armor-legs): Protect your stride with durable leather leg armor designed for movement, comfort and authentic medieval looks.
-  Updated: 2026-07-20T11:22:27Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 10
 - [Leather Helmets](https://epicarmoury.com/collections/leather-helmets): Explore leather headgear designed for different character types. From the full-coverage Assassin and Warrior helmets to the lightweight Headband of Strength.
-  Updated: 2026-07-18T11:20:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 5
 - [Leather Bracers](https://epicarmoury.com/collections/leather-bracers): Arm yourself with flexible leather bracers and armguards designed for combat and comfort. Ideal for LARP warriors and medieval enthusiasts.
-  Updated: 2026-07-21T11:22:36Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 21
 - [PU Armor Shoulders](https://epicarmoury.com/collections/pu-pauldrons-spaulders): Lightweight PU Pauldrons & Spaulders with the look of steel. Perfect for LARP battles, cosplay heroes and medieval armor sets.
-  Updated: 2026-07-17T11:21:42Z
+  Updated: 2026-07-27T11:22:32Z
   Total Products: 11
 - [PU Armor Greaves](https://epicarmoury.com/collections/pu-greaves): Lightweight PU greaves protect your legs while keeping your look sharp. Ideal for LARP fighters, cosplayers and fantasy fans.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-27T11:22:34Z
   Total Products: 9
 - [PU Armor Sets](https://epicarmoury.com/collections/pu-armor-sets): Explore PU armor sets that combine realism and comfort. Perfect for long events, easy maintenance and bold medieval looks.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-29T11:21:28Z
   Total Products: 11
 - [PU Armor Bracers](https://epicarmoury.com/collections/pu-bracers): Lightweight PU bracers built for action and style. Perfect for LARP fighters and cosplayers who want realism without the weight.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-27T11:22:34Z
   Total Products: 10
 - [Brands](https://epicarmoury.com/collections/brands)
   Updated: 2026-06-02T06:19:28Z
   Total Products: 0
 - [All](https://epicarmoury.com/collections/all): Browse all Epic Armoury products in one place. Discover armour, weapons, costumes and accessories made for LARP, cosplay and adventure.
-  Updated: 2026-07-22T11:23:13Z
-  Total Products: 2269
+  Updated: 2026-07-30T11:21:29Z
+  Total Products: 2274
 - [Black-Week](https://epicarmoury.com/collections/black-week): Shop the Black Week collection at Epic Armoury. Explore a wide range of discounted LARP equipment and accessories.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 495
 - [testtesttest](https://epicarmoury.com/collections/testtesttest)
   Updated: 2026-05-20T16:23:00Z
@@ -2962,137 +2962,143 @@
   Updated: 2026-03-19T07:31:17Z
   Total Products: 0
 - [Medieval](https://epicarmoury.com/collections/medieval): Explore our medieval clothing, armour, and gear for Larp, Ren Faires, and Reenactment Events.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 270
 - [Pants](https://epicarmoury.com/collections/pants): Shop LARP & Costume Pants for comfort & movement. Styles for medieval, Viking, fantasy & samurai. Practical cuts & breathable fabrics. Shop now!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 17
 - [Medieval Armour](https://epicarmoury.com/collections/medieval-armour): Building a medieval armour kit? Find your perfect pieces here! We clarify medieval armour's history & function to help you choose. Shop now!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 116
 - [Medieval Swords](https://epicarmoury.com/collections/medieval-swords): Explore foam medieval swords for LARP and stage use with arming swords, longswords, and other historical styles built for safe strikes and steady handling.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 34
 - [Gift Ideas](https://epicarmoury.com/collections/gift-ideas): Explore gift ideas for LARP, cosplay, and Renaissance events. Find clothing, armour, and weapons built to bring adventure to someone’s kit.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 15
 - [Renaissance Festival Gear](https://epicarmoury.com/collections/renaissance-festival-gear): Epic Armoury offers Renaissance Faire Gear! Find gear that helps you feel part of the experience, for new & seasoned attendees. Shop now!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 281
 - [Ready To Dye](https://epicarmoury.com/collections/ready-to-dye)
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 12
 - [Ranged Weaponry](https://epicarmoury.com/collections/ranged-weaponry): Explore ranged weaponry for LARP and cosplay. Find archery gear, throwing weapons, and casting tools built for distance, control, and safe event use.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 112
 - [Daggers, Scabbards, &  Holders](https://epicarmoury.com/collections/daggers-scabbards--holders): Daggers, Scabbards, and  Holders The gear you need to keep your blades secure and your kit looking finished.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 98
 - [Swords & Shields](https://epicarmoury.com/collections/swords-shields): Foam Swords & Shields for LARP Epic Armoury has a wide range of foam swords and shields for LARP, roleplay combat, and immersive events.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 192
 - [DIY &  Maintenance](https://epicarmoury.com/collections/diy--maintenance): Keep your LARP gear in top shape! Essential DIY &  maintenance supplies to protect your . Shop now!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 42
 - [Blunt & Cleaving Foam Weaponry](https://epicarmoury.com/collections/blunt-cleaving-foam-weaponry): Explore blunt and cleaving foam weaponry for LARP and cosplay. Find maces, clubs, axes, and hammers built for impact control and safe event use.
-  Updated: 2026-07-22T11:23:11Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 93
 - [Staffs](https://epicarmoury.com/collections/staffs): Explore LARP foam staffs built for control, reach, and safe event use. Find Epic Armoury staffs for training, casting styles, and battlefield play.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 6
 - [Spears](https://epicarmoury.com/collections/spears): Explore LARP foam spears built for reach, control, and safe event use. Find Epic Armoury spears for battles, training, and immersive play.
-  Updated: 2026-07-16T11:23:15Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 17
 - [Halberds](https://epicarmoury.com/collections/halberds): Shop foam and latex halberds for LARP. Long reach, control, and a LARP-safe strike surface for immersive, recreational combat.
-  Updated: 2026-07-03T12:56:55Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 5
 - [Glaives, Guandaos & War Scythes](https://epicarmoury.com/collections/glaives-guandaos-war-scythes): Glaives, Guandaos & War Scythes The reach of a polearm with the cutting power of a sword.
-  Updated: 2026-07-20T11:22:27Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 11
 - [High Medieval Period Clothing - Yoremade](https://epicarmoury.com/collections/high-medieval-clothing): Shop like the knights of old with Epic Armoury's Yoremade - High Medieval Period Clothing.
-  Updated: 2026-07-20T11:22:28Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 16
 - [Late Medieval Period Clothing - Yoremade](https://epicarmoury.com/collections/late-medieval-clothing): Shop Yoremade's Late Medieval Period Clothing. Discover 14th & 15th-century fashion, featuring structured Gothic silhouettes. Buy now!
-  Updated: 2026-07-21T11:22:37Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 24
 - [Renaissance Clothing - Yoremade](https://epicarmoury.com/collections/renaissance-clothing-yoremade): Shop Renaissance clothing (1400-1600) at Epic Armoury's Yoremade: fitted wool & linen garments, Landsknecht styles & more. Find your historical kit!
-  Updated: 2026-07-21T11:22:37Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 20
 - [Cotehardies](https://epicarmoury.com/collections/cotehardies): Shop authentic 14th-century cotehardies for men & women. Fitted, buttoned garments that defined medieval fashion.
-  Updated: 2026-07-15T11:25:31Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 4
 - [Medieval Undergarments - Yoremade](https://epicarmoury.com/collections/medieval-undergarments-yoremade): Epic Armoury: Yoremade Medieval Undergarments. Shop men's & women's base layers for comfort & authenticity. Protect outer garments! Shop now.
-  Updated: 2026-07-21T11:22:37Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 9
 - [Renaissance and Medieval Footwear](https://epicarmoury.com/collections/renaissance-and-medieval-footwear): Find the perfect Renaissance & Medieval footwear. Shop our range of historically accurate leather shoes & boots from ankle boots to Landsknecht.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 7
 - [Men's Medieval Clothing](https://epicarmoury.com/collections/mens-medieval-clothing): Shop men's medieval clothing from the 5th to the 15th century. Discover tunics, doublets, and more! Get free EU shipping over €150. Shop now!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 83
 - [Women's Medieval Clothing](https://epicarmoury.com/collections/womens-medieval-clothing): Shop women's medieval clothing from 5th to 15th-century European fashion. Find gowns, dresses & headwear for all classes. Shop now!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 69
 - [Plate Armor Arms](https://epicarmoury.com/collections/plate-armor-arms): Find plate armor for your arms and hands. Here, you will find arm sets, matching both the Knightly, Medieval and the Fantastic.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 24
 - [Vambraces & Couters](https://epicarmoury.com/collections/vambraces-couters): Shop vambraces and couters for LARP and reenactment. Full arm plate armor and standalone elbow plates in historical and fantasy styles.
-  Updated: 2026-07-18T11:20:13Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 10
 - [Shoulder Plates & Neck Armor](https://epicarmoury.com/collections/shoulder-plates-neck-armor): Shop shoulder plates, pauldrons, spaulders and gorgets for LARP and reenactment. Historical and fantasy styles in mild steel, from Scout to Milanese.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 30
 - [Pauldrons, Spaulders & Shoulder Plate](https://epicarmoury.com/collections/pauldrons-spaulders): Shop shoulder plate armor for LARP and reenactment. Pauldrons and spaulders in historical and fantasy styles, from Milanese knights to dark fantasy.
-  Updated: 2026-07-21T11:22:37Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 20
 - [Cuisses](https://epicarmoury.com/collections/cuisses): Cuisses and spaulders are the pieces that separate a half-finished kit from a complete harness. Cuisses, pronounced kwiss, are plate armor thigh guards: the pieces that protect the upper leg from hip to knee and connect the torso armor above to the knee and lower leg protection below. In a full plate harness they are essential. In a LARP or reenactment kit they are the addition that closes one of the most visually obvious remaining gaps once the upper body is covered. What Are Cuisses? Cuisses are thigh armor, taking their name from the French word for thigh. Their purpose is straightforward: the upper leg is one of the largest and most exposed targets on the body, and while a cuirass with tassets can offer some protection from above, a strike or thrust from below passes underneath that coverage entirely. Cuisses close that gap, wrapping around the thigh to protect against exactly the kind of low attack that upper body armor cannot reach. The design has a long history. Padded cuisses, constructed similarly to a gambeson, were worn by knights as early as the 12th century, typically over mail chausses. By the mid 14th century steel plate had become the standard material, and from around 1370 onward cuisses were typically formed from a single shaped plate of iron or steel. One interesting regional variation: English cuisses of the medieval period tended to fully encircle the thigh, protecting the back of the leg as well as the front, reflecting the English preference for infantry and foot combat over the mounted cavalry charges more common on the continent, where rear thigh protection mattered less. In a modern LARP or reenactment context, cuisses are most commonly associated with knightly and military character builds, though they appear across a wide range of fantasy aesthetics as well. A pair of cuisses worn over a padded base layer adds immediate visual weight to the lower body and signals a level of commitment to a kit that few other pieces match. Cuisses and the Leg Harness Cuisses do not exist in isolation. In a complete leg harness they sit between the tassets or skirt of a cuirass above and the poleyn, the knee plate, below. That connection to the poleyn is worth understanding before you build: historically, cuisses and poleyns were often constructed as a single integrated assembly, with the knee plate attached directly to the lower edge of the thigh armor and articulated to allow the knee to bend freely. Some designs in our range follow that same logic, combining cuisse and poleyn into one piece, while others are standalone thigh guards designed to be worn with a separate knee defense. If you are building a complete leg harness from the ground up, the natural sequence runs from cuisses first, then poleyns at the knee, then greaves for the lower leg. Each piece connects to the next, and cuisses are where that sequence starts. Choosing the Right Cuisses Coverage. Some cuisses wrap fully around the thigh for complete encirclement, the English style. Others protect the front and sides only. Full encirclement offers more protection and a more substantial feel, but may be less practical for high-mobility combat styles. Front-facing designs are lighter and easier to move in. Integration with poleyns. If your cuisses include an integrated knee plate, make sure the articulation works with your fighting style before committing. If they are standalone thigh guards, check whether the lower edge sits cleanly above whichever poleyn you plan to pair them with. Matching your kit. Cuisses work best when they are consistent in finish and aesthetic with the chest piece and shoulder armor above them. Polished steel cuisses alongside an Epic Dark chest plate will create a jarring mismatch. Use the finish as your guide and the character type as your starting point. Frequently Asked Questions Do I need cuisses if I have a cuirass with tassets? Tassets hang from the lower edge of a cuirass and protect the upper thigh from above, but they leave the sides and the area below exposed. Cuisses wrap around the thigh itself and provide considerably more complete coverage. The two work together rather than replacing each other. Can I wear cuisses without greaves or poleyns? Yes. Cuisses as a standalone addition to an upper body kit is a common and effective approach, particularly for LARP players building incrementally. They make an immediate visual difference to the lower body without requiring a full leg harness. How do cuisses attach? Most cuisses attach via leather straps around the thigh, either buckled at the side or the back and with a tie string or leather strap up to a belt. They are typically worn over a padded base layer or gambeson to prevent the metal from shifting and to add comfort. Check individual product pages for specific attachment details. What is the difference between cuisses and greaves? Cuisses protect the thigh, from hip to knee. Greaves protect the lower leg, from knee to ankle. They are distinct pieces covering different parts of the leg, and a complete leg harness uses both alongside a poleyn at the knee.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 5
 - [Greaves, Cuisses & Leg Armor](https://epicarmoury.com/collections/greaves-cuisses): Shop greaves, cuisses and plate leg armor for LARP and reenactment. Thigh armor, knee plates and lower leg protection in historical and fantasy styles.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 23
 - [Poleyns](https://epicarmoury.com/collections/poleyns): Poleyns Poleyns and knee plates are the pivot point of a complete leg harness, literally and figuratively. Sitting at the hinge between cuisses above and greaves below, knee armor is the piece that connects the upper and lower leg into a coherent defense, allows the leg to bend freely under load, and closes the most mechanically demanding gap in any plate armor build. Get the knee covered and the leg harness starts to feel like a system. Leave it exposed and every step in combat is a vulnerability. What Are Poleyns? A poleyn is a plate armor knee guard: a shaped steel piece covering the knee joint and the area immediately surrounding it. The name comes from the Old French word for knee, and the piece itself has been a component of European plate armor since the 13th century, appearing first as a standalone addition to mail and padded armor before becoming an integrated element of the full plate harness as it developed through the 14th and 15th centuries. The engineering challenge a poleyn solves is significant. The knee is not a static joint: it flexes through a wide range of motion under considerable load, and a knee plate that prevents that movement is worse than no knee plate at all. A well-designed poleyn addresses this through a combination of careful shaping and articulated side wings, called genouillères, that extend to protect the sides of the joint without binding as the leg bends. The central dome of the poleyn deflects strikes away from the joint itself, while the wings cover the vulnerable areas to either side that a simple front plate would leave exposed. In a LARP context, knee armor serves the same mechanical purpose and adds significant visual weight to a leg harness. A pair of poleyns between cuisses and greaves transforms the overall impression of a leg kit from partial to complete. Poleyns in a Full Leg Harness Knee plates sit at the center of the leg harness sequence: cuisses at the thigh, poleyns at the knee, greaves at the lower leg. That central position means poleyns have to work in two directions simultaneously, connecting cleanly to whatever is above and below while maintaining enough articulation for combat movement. Historically, poleyns were often integrated directly into the cuisse, with the knee plate attached to the lower edge of the thigh armor and articulated via leather straps or riveted lames. Some designs in this range follow that same logic. Others are standalone knee plates designed to be worn independently, which makes them a flexible addition to builds that already have cuisses or greaves in place but need to close the gap between them. For LARP players building a leg harness incrementally, knee armor is often the most impactful intermediate addition: cuisses cover the largest surface area, greaves finish the lower leg, but poleyns are the piece that makes the connection between them visually and structurally legible. Choosing the Right Knee Armor Articulation range. The most important practical consideration for any poleyn is how much it allows the knee to bend. Check the articulation notes on individual products if you are a combat-active player, particularly in systems that involve kneeling, lunging, or rapid directional changes. Wing coverage. Wider genouillère wings offer more complete side protection but can catch on adjacent armor pieces or restrict lateral movement slightly. Narrower wings are more mobile but leave more of the joint sides exposed. The right balance depends on your combat style and how complete a coverage you want. Integration with cuisses and greaves. If you are building a full leg harness, check that the upper edge of the poleyn sits cleanly against the lower edge of your cuisses, and that the lower edge connects correctly to the top of your greaves. A leg harness where the pieces do not connect creates gaps that undermine both the protection and the visual coherence of the kit. Frequently Asked Questions Do I need poleyns if I have cuisses and greaves? Yes, if you want a complete leg harness. Cuisses end at the knee and greaves begin below it, leaving the joint itself exposed without a poleyn to bridge them. In LARP combat the knee is an active target, and the gap between thigh and lower leg armor is one of the most obvious weak points in a partially assembled kit. Can I wear knee plates without the rest of a leg harness? Absolutely. Poleyns as a standalone addition to a kit that otherwise has no leg armor is a legitimate and practical choice, particularly for fighters who want joint protection without the full commitment of a leg harness. They also work well as an intermediate step between acquiring cuisses and greaves. How do poleyns attach? Most knee plates attach via leather straps above and below the joint, securing around the thigh and calf respectively. They should sit centered over the kneecap and remain in position through the full range of leg movement without rotating or sliding. Wear them over a padded base layer for comfort and to help hold them in place. What is the difference between a poleyn and a full leg harness? A poleyn is a single component covering the knee joint. A full leg harness combines cuisses at the thigh, poleyns at the knee, and greaves at the lower leg into a complete system. The poleyn is the central piece that connects the other two.
-  Updated: 2026-07-06T12:35:51Z
+  Updated: 2026-07-27T11:22:38Z
   Total Products: 4
 - [Suits of Armor](https://epicarmoury.com/collections/suits-of-armor): Shop suits of armor for LARP and reenactment. Complete steel plate armor sets in historical and fantasy styles, ready to wear as a matched harness.
-  Updated: 2026-07-16T11:23:18Z
+  Updated: 2026-07-27T11:22:37Z
   Total Products: 24
 - [Plate Armor](https://epicarmoury.com/collections/plate-armor): Plate armor for LARP and reenactment. Steel breastplates, cuirasses, gauntlets, greaves and full suits of armor in historical and fantasy styles.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 146
 - [Leather Armor Shoulders & Neck](https://epicarmoury.com/collections/leather-armor-shoulders-neck): Protect vulnerable points with Epic Armoury leather shoulder & neck armor. Crafted from vegetable-tanned full-grain leather for LARP, reenactment, & cosplay. Find pauldrons, spaulders, & gorgets. Shop now!
-  Updated: 2026-07-17T11:21:42Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 12
 - [Epic Armoury](https://epicarmoury.com/collections/epic-armoury): All Epic Armoury products - Shop Historically inspired foam weaponry, full sets and suits of armor, fantastical and period inspired clothing. Adventure Awaits
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 1889
 - [PU Armor](https://epicarmoury.com/collections/pu-armor): Shop lightweight PU armor for LARP & cosplay at Epic Armoury. Replicates metal/leather look, no upkeep needed. Shop now!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 81
 - [Steel Helmets](https://epicarmoury.com/collections/steel-helmets): Steel Helmets: Authentic head protection from Viking to Renaissance. Perfect for reenactors & LARP. Shop 30+ designs now!
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 32
 - [Greek & Roman Helmets - Corinthians, Galeas & Spartan](https://epicarmoury.com/collections/greek-roman-helmets): Steel Galea, Corinthian, and Spartan helmets, hand-shaped from mild steel and built for actual wear. Greek & Roman helmets for larp, reenactment, and display.
-  Updated: 2026-07-16T11:23:18Z
+  Updated: 2026-07-27T11:22:34Z
   Total Products: 8
 - [Chainmail & Padded Armor](https://epicarmoury.com/collections/chainmail-padded-armor): Chainmail and Padded Armor Two pieces of kit have kept fighters protected for over a thousand years. A quilted padded layer worn close to the body. Chainmail on top. That combination outlasted every alternative Europe came up with, and the reason is simple: it works. At Epic Armoury, we make both. Chainmail in riveted and butted steel, padded armor in quilted cotton, and everything you need to layer them correctly and keep them in good shape. At a glance: Two categories: Chainmail and padded armor, designed to work together or independently Layering: Padded armor typically goes under chainmail, though some padded garments work just as well over it Weight: A standard steel hauberk weighs between 10 and 15 kg, worth keeping in mind for full day events Use: LARP, reenactment, cosplay, display, and collection What Is Chainmail and Padded Armor? Chainmail or historically, maille, is a mesh of interlocking metal rings. It has been in use since at least the 4th century BCE, and for most of the medieval period it was the armor that ordinary soldiers actually wore. Not plate. Not leather. Maille. Because it moved with the body, stopped blades, and could be repaired with a pair of pliers and spare rings. Padded armor is what makes chainmail liveable. The gambeson, arming coat, aketon, padded jack: different names, same idea. A quilted layer worn underneath that does two things chainmail on its own simply cannot. It stops the rings from pinching and grinding against skin during movement. And it absorbs blunt force, the kind of impact that rings deflect but do not stop. Chainmail handles the edge. Padded armor handles the force behind it. The two have been worn together for as long as both have existed, and for good reason. What You Will Find in This Category Chainmail covers the full range: hauberks, haubergeons, chain shirts, skirts, coifs, mantles, and sleeves. Two construction types across the range. Riveted chainmail has each ring overlapped and pinned shut. It holds under stress and is the right choice for full-contact LARP and reenactment. Butted chainmail has the ring ends simply meeting without a pin. It is lighter on cost, easy to repair at home, and works well for costume, theatrical, and light-contact use. Both use the European 4-in-1 weave: each ring connects to four others, which is why this pattern has been the standard for functional maille for centuries. Padded Armor runs from simple padded jacks and gambesons through to structured arming coats and pourpoints designed for wear under heavy maille or plate. Padded accessories for individual body areas are also available: bracers, greaves, shoulders, and legs, for anyone who wants targeted padding without a full underlayer. Sleeved and sleeveless options throughout. How the Two Work Together Padded armor against the skin, chainmail on top. That is the standard order, and the reasons are practical as much as historical. Chainmail over a thin shirt causes ring-pinch: the rings catch on skin during movement and it gets uncomfortable fast. The padded layer stops that. It also spreads the weight of the maille across your body rather than letting it hang from your shoulders. A standard hauberk weighs between 10 and 15 kg. By hour four of an event, how that weight is distributed matters a great . A heavy leather belt worn over the maille helps too, pulling the load down from the shoulders to the hips where it is much easier to carry. That said, not every build follows the same order. Some padded garments sit just as naturally over chainmail as under it, with the maille as the protective layer and the coat giving the outer look. It depends on the garment and what you are going for. How Chainmail Fits Measure your chest while wearing your padded underlayer. That is the measurement that matters, because that is how you will actually wear it. If you are between sizes, go up. Maille that is too tight restricts breathing, and that is not something you can adjust away. Pull-over and jacket-style variants with front-fastening leather straps are both available. The strapped versions are worth considering if you go to events alone: getting into a 12 kg hauberk without help is a different experience when it opens at the front. How to Look After Chainmail and Padded Armor Chainmail has one real enemy: moisture. Sweat, rain, and humidity cause rust in mild steel, so wipe the rings down with a dry cloth after every event. For ongoing protection, use a lanolin-based oil. It holds up across the surface of maille rings far better than a standard spray. If rust does appear, the old method still works: put the maille in a bucket with sand, tumble it until the rings come clean, then oil it straight away. Store somewhere dry and ventilated, with a moisture absorber if you can. Padded armor is easy. Machine wash on a gentle cycle, air dry flat or hanging. Let it breathe after events before it goes into storage. Do not tumble dry: heat damages the quilting over time. Frequently Asked Questions Do I need padded armor under chainmail? For any serious use, yes. Chainmail on bare skin causes ring-pinch and offers no blunt-force protection. The padded layer is not a comfort upgrade. It is how the system is supposed to work. Riveted or butted chainmail? If you are doing full-contact LARP or reenactment, riveted. Each ring is pinned shut, which means it holds under real stress. Butted is more affordable and easy to repair at home, and it works well for costume and theatrical use. For combat, go riveted. How heavy is a hauberk? Between 10 and 15 kg for a standard steel hauberk, depending on size and ring gauge. A padded underlayer and a leather belt over the maille make that weight manageable. Without them, it is just heavy. Does chainmail stop arrows? It handles cutting and slashing well. Against narrow, high-velocity points like bodkin arrows or stiletto daggers, less so: they push through the rings rather than being deflected. For LARP, chainmail over padded armor gives solid protection against foam weapons, which is the practical question. Can I repair chainmail myself? Butted chainmail, yes: open and close rings with pliers. Riveted needs more skill and the right tools, but you will need to repair it far less often. Shop Chainmail and Padded Armor at Epic Armoury
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 34
 - [Fantasy Helmets](https://epicarmoury.com/collections/fantasy-helmets): Fantasy Helmets Fantasy helmets are where historical design stops being a constraint and starts being a starting point. The shapes, proportions, and surface details draw on real armour traditions, but they push further: darker, more dramatic, more character-specific than anything a historical armourer would have produced. If your build calls for a helmet that reads immediately as something from another world, this is the category. Epic Armoury's fantasy helmet range covers nine steel designs, from brooding dark aesthetics to more imposing warrior silhouettes. At a glance: Material: Steel construction throughout Fit: Leather inlay for internal adjustment, most designs one size Maintenance: Oil periodically to prevent rust, store dry Use: LARP, cosplay, theatre, and costume What Are Fantasy Helmets? Fantasy helmets are steel helmets designed around fictional, mythological, or genre-specific aesthetics rather than strict historical accuracy. They borrow from real armour traditions but interpret them freely, resulting in designs that carry the weight and presence of steel without being tied to any specific period or culture. For LARP and cosplay, that freedom is the point. A fantasy helmet can define a character in a way a historically accurate piece sometimes cannot, because it is built around identity and visual impact rather than period correctness. What You Will Find in This Category Nine designs cover a wide spread of fantasy aesthetics, from dark and unsettling to heavy and imposing. The Eventide Helmet is part of Epic Armoury's Stygian line, with a deep, darkened finish and a silhouette built for characters who belong to shadow-heavy or undead aesthetics. The CQ Undead Helmet pushes further in that direction, with a design that reads as corrupted or otherworldly rather than simply armoured. The CQ Black Ice Helmet has a colder, more austere quality: sharp, precise, and suited to characters whose aesthetic sits somewhere between disciplined and dangerous. The Marauder Helmet and Raider Helmet are heavier and more aggressive in silhouette. Both suit builds where the helmet should look threatening without being overtly supernatural. The Berserker Helmet is the most imposing of the three, with a design built for maximum presence on a battlefield or stage. The Dreki Helmet draws on Norse and Viking aesthetic traditions but interprets them through a fantasy lens, with detailing that goes beyond what historical Norse helmets actually looked like. The Illumine Helmet sits at the other end of the tonal range: brighter, more refined, suited to characters whose armour should suggest light and order rather than darkness and aggression. The CQ Ratio Helmet has a more neutral quality that sits comfortably across a wider range of build directions. How Fantasy Helmets Fit Epic Armoury's steel helmets come with a leather inlay inside, which allows for internal adjustment and a comfortable fit across different head sizes. Most designs in this range are one size. If fit is a concern, check the dimensions on the individual product page before purchasing. Wearing a coif underneath is worth considering for longer events. It adds comfort, prevents the interior from pulling at hair, and for most fantasy builds it layers naturally under the helmet without affecting the overall look. How to Choose Your Fantasy Helmet The main question is tonal direction. The range splits broadly between darker, more unsettling designs at one end, the Eventide, CQ Undead, CQ Black Ice, and Berserker, and designs with a more neutral or varied character at the other. Think about the overall aesthetic of your build and where on that spectrum it sits. Beyond aesthetics, consider how much of the face the helmet covers. Some designs in this range are more open-faced, which improves visibility and ventilation during active play. Others are more enclosed, which suits builds where full facial coverage is part of the look. Check the individual product pages for coverage details before deciding. Fantasy helmets pair naturally with the rest of Epic Armoury's steel armour range, and most designs also work alongside leather and polyurea pieces depending on the overall direction of the kit. How to Care for Fantasy Helmets Wipe the surface dry after every event to remove moisture and sweat. Apply a light coat of oil periodically to protect against rust. Store somewhere dry, away from damp. Surface rust, if it develops, can be removed with fine steel wool and treated with oil before it progresses. The Helmet Stand Metal in Black is available for display and storage between events. Shop Fantasy Helmets at Epic Armoury
-  Updated: 2026-07-14T11:25:43Z
+  Updated: 2026-07-30T11:21:27Z
   Total Products: 9
 - [PU Armor Faulds and Tassets](https://epicarmoury.com/collections/pu-faulds-and-tassets): Shop PU faulds and tassets for waist and thigh protection. Lightweight polyurea armour built for LARP combat.
   Updated: 2026-07-20T11:22:27Z
   Total Products: 4
 - [Mens Pirate Costumes](https://epicarmoury.com/collections/mens-pirate-costumes): Mens pirate costumes built from cotton shirts, doublets, vests, and coats. Authentic pirate clothing for LARP, Renaissance faires, cosplay, and stage.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 33
 - [Womens Pirate Costumes](https://epicarmoury.com/collections/womens-pirate-costumes): Women's pirate costumes built from real dresses, chemises, corsets, and layered garments. Authentic pirate clothing for LARP, Renaissance faires, and stage.
-  Updated: 2026-07-22T11:23:13Z
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 41
-- [Pirate Swords](https://epicarmoury.com/collections/pirate-swords): Pirate Swords Safe for Combat, Made for Swagger A pirate sword from Epic Armoury is a foam LARP  built around a solid fiberglass core: a blade that looks the part hanging at your hip and is safe to swing when the boarding action starts. The classic choice is the cutlass, short and broad with a guard protecting your hand, but this collection arms every kind of sea rover: sabers for cavalry-style slashers, rapiers and smallswords for duelists, and daggers for the close, dirty work. One purchase does both jobs, costume centerpiece and combat , for years of events. Find Your Blade Cutlasses: The pirate . Short, broad, and vicious, from compact deck-fighters to the 95 cm Corsair Cutlass, with full handguards your knuckles will thank you for. Sabers and falchions: Longer curved blades for duelists and cut-throats who fight with speed and reach. Rapiers and smallswords: The gentleman pirate's answer, elegant thrusting blades for captains who won their coat in a duel rather than a brawl. Daggers and knives: A stiletto, Bowie, or hunting dagger as backup steel, boarding knife, or the blade you're still allowed to wear in the tavern. Scabbards, baldrics, and swordholders: Carry it the period way: a curved scabbard for your cutlass, an over-shoulder baldric that stays put when you run, or a swordholder that hangs from any belt you own. Your First Pirate Sword If you're starting out, the answer is simple: the Ready For Battle Sword Pirate, 75 cm. It's our bestselling pirate blade for a reason: moderately styled so it fits nearly any setting, very durable, priced for a first kit, and compact enough to qualify as a short  under many LARP rulesets, which often means fewer restrictions on where and how you fight with it. Check your event's rules, but short and vicious is historically accurate anyway. Add a dagger later for a backup, and a scabbard when you're tired of holding it. Costume Prop and LARP  in One This is what separates a foam sword from a plastic costume prop: you can actually fight with it. The same blade that completes your outfit at a faire passes  check at your next LARP. And for pure costume use it simply looks better, with hand-finished detail, realistic guards, and wrapped grips instead of hollow plastic shine. Why the Cutlass Ruled the Deck Long blades are poor tools in rigging, low ceilings, and a press of bodies. The cutlass was short, stiff, and simple to learn, ideal for sailors who fought rarely but suddenly, and its broad guard doubled as knuckle protection. That practicality is why the cutlass became the pirate sword in history and fiction alike, and why it should probably be your first pick too. Frequently Asked Questions Are foam pirate swords safe for LARP fighting? Yes, they're purpose-built LARP weapons with foam blades over a fiberglass core. Always follow your event's  check and combat rules. Cutlass, saber, or rapier: which fits my character? Cutlass for the classic deck-fighting pirate, saber or falchion for reach and slashing duels, rapier or smallsword for the refined duelist captain. There's no wrong answer, only fighting style. Do I need a scabbard? For costume wear, it's what sells the look and frees your hands. For LARP, it keeps your blade safe between fights. Match a curved scabbard to curved blades, and hang either from a baldric or swordholder. How do I maintain a foam sword? Store it flat or hanging, away from heat and direct sunlight, and check it before each event as your LARP requires. Latex-coated blades stay supple with occasional silicone . Can I bring one on a flight to a con? Yes, in checked luggage. Foam blades are light, and packing one is far easier than shipping a steel replica. Arm Yourself Pick the blade that fits your fighting style, sheathe it properly, and dress the rest at [mens] or [womens pirate costumes], [pirate hats], and [pirate boots], or start from the top at [pirate costumes].
-  Updated: 2026-07-22T11:23:13Z
+- [Pirate Swords](https://epicarmoury.com/collections/pirate-swords): Pirate Swords Safe for Combat, Made for Swagger A pirate sword from Epic Armoury is a foam LARP  built around a solid fiberglass core: a blade that looks the part hanging at your hip and is safe to swing when the boarding action starts. The classic choice is the cutlass, short and broad with a guard protecting your hand, but this collection arms every kind of sea rover: sabers for cavalry-style slashers, rapiers and smallswords for duelists, and daggers for the close, dirty work. One purchase does both jobs, costume centerpiece and combat , for years of events. Find Your Blade Cutlasses: The pirate . Short, broad, and vicious, from compact deck-fighters to the 95 cm Corsair Cutlass, with full handguards your knuckles will thank you for. Sabers and falchions: Longer curved blades for duelists and cut-throats who fight with speed and reach. Rapiers and smallswords: The gentleman pirate's answer, elegant thrusting blades for captains who won their coat in a duel rather than a brawl. Daggers and knives: A stiletto, Bowie, or hunting dagger as backup steel, boarding knife, or the blade you're still allowed to wear in the tavern. Scabbards, baldrics, and swordholders: Carry it the period way: a curved scabbard for your cutlass, an over-shoulder baldric that stays put when you run, or a swordholder that hangs from any belt you own. Your First Pirate Sword If you're starting out, the answer is simple: the Ready For Battle Sword Pirate, 75 cm. It's our bestselling pirate blade for a reason: moderately styled so it fits nearly any setting, very durable, priced for a first kit, and compact enough to qualify as a short  under many LARP rulesets, which often means fewer restrictions on where and how you fight with it. Check your event's rules, but short and vicious is historically accurate anyway. Add a dagger later for a backup, and a scabbard when you're tired of holding it. Costume Prop and LARP  in One This is what separates a foam sword from a plastic costume prop: you can actually fight with it. The same blade that completes your outfit at a faire passes  check at your next LARP. And for pure costume use it simply looks better, with hand-finished detail, realistic guards, and wrapped grips instead of hollow plastic shine. Why the Cutlass Ruled the Deck Long blades are poor tools in rigging, low ceilings, and a press of bodies. The cutlass was short, stiff, and simple to learn, ideal for sailors who fought rarely but suddenly, and its broad guard doubled as knuckle protection. That practicality is why the cutlass became the pirate sword in history and fiction alike, and why it should probably be your first pick too. Frequently Asked Questions Are foam pirate swords safe for LARP fighting? Yes, they're purpose-built LARP weapons with foam blades over a fiberglass core. Always follow your event's  check and combat rules. Cutlass, saber, or rapier: which fits my character? Cutlass for the classic deck-fighting pirate, saber or falchion for reach and slashing duels, rapier or smallsword for the refined duelist captain. There's no wrong answer, only fighting style. Do I need a scabbard? For costume wear, it's what sells the look and frees your hands. For LARP, it keeps your blade safe between fights. Match a curved scabbard to curved blades, and hang either from a baldric or swordholder. How do I maintain a foam sword? Store it flat or hanging, away from heat and direct sunlight, and check it before each event as your LARP requires. Latex-coated blades stay supple with occasional silicone . Can I bring one on a flight to a con? Yes, in checked luggage. Foam blades are light, and packing one is far easier than shipping a steel replica. Arm Yourself Pick the blade that fits your fighting style, sheathe it properly, and dress the rest at mens or womens pirate costumes, pirate hats, and pirate boots.
+  Updated: 2026-07-30T11:21:29Z
   Total Products: 26
+- [Pirate Hats](https://epicarmoury.com/collections/pirate-hats): Leather pirate hats for LARP, Renaissance faires, cosplay, and stage. Tricorns in real or faux leather, plus turbans and headwear, in black or brown.
+  Updated: 2026-07-29T11:33:00Z
+  Total Products: 6
+- [Pirate Boots](https://epicarmoury.com/collections/pirate-boots): Pirate boots and leather gaiters for LARP, Renaissance faires, cosplay, and stage. Get the tall seafarer silhouette in footwear built for real terrain.
+  Updated: 2026-07-30T11:21:29Z
+  Total Products: 4
 
 ## Blogs
 
@@ -3166,11 +3172,11 @@
     Author: Lisa Wolfrum
     Tags: TUTORIALS & GUIDES
   - [Cloaks, capes & mantles: What’s the difference](https://epicarmoury.com/blogs/news/cloaks-capes-mantles-what-s-the-difference): Cloaks, capes & mantles: What’s the difference
-    Updated: 2026-05-26T11:31:34Z
+    Updated: 2026-07-29T02:31:38Z
     Author: Lisa Wolfrum
     Tags: PRODUCTS, TUTORIALS & GUIDES
   - [Layering & Accessories for LARP Costumes | Epic Armoury](https://epicarmoury.com/blogs/news/layering-and-accessories-for-larp-costumes): Layering & Accessories for LARP Costumes | Epic Armoury
-    Updated: 2026-07-10T08:21:24Z
+    Updated: 2026-07-29T02:31:30Z
     Author: Lisa Wolfrum
     Tags: INSPIRATION, TUTORIALS & GUIDES
   - [Modify Your Epic Armoury Warrior Breast & Back Plate | Epic Armoury](https://epicarmoury.com/blogs/news/modifying-your-warrior-breastplate): Modify Your Epic Armoury Warrior Breast & Back Plate | Epic Armoury
@@ -3178,7 +3184,7 @@
     Author: Lisa Wolfrum
     Tags: PRODUCTS, TUTORIALS & GUIDES
   - [50 significant events in medieval history](https://epicarmoury.com/blogs/news/50-medieval-events-to-inspire-larp): 50 significant events in medieval history
-    Updated: 2026-07-10T07:41:15Z
+    Updated: 2026-07-29T02:31:18Z
     Author: Lisa Wolfrum
     Tags: INSPIRATION
   - [How to romance in LARP](https://epicarmoury.com/blogs/news/how-to-romance-in-larp): <p>Romance, longing, crushes, and emotional drama are not side quests in LARP. They are often the main story. When played well, romance creates some of the strongest memories players take home. When played badly, it creates awkwardness, confusion, and hurt feelings. Here, we explain how to do the first and avoid the second.</p>
