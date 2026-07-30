@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-02T16:18:26Z
 - Contact Email: info@chaksstudio.com
-- Updated At: 2026-07-22T16:16:17.776Z
+- Updated At: 2026-07-30T00:00:28.280Z
 
 ## Products
 
@@ -182,16 +182,16 @@
 ## Collections
 
 - [MENSWEAR](https://www.chaksstudio.com/collections/frontpage): Explore ‘Transit’ by CHAKS – handmade Kantha cotton shirts from Bengal. Inspired by migration, nostalgia, and timeless everyday craftsmanship.
-  Updated: 2026-07-22T16:13:08Z
+  Updated: 2026-07-28T19:04:20Z
   Total Products: 7
 - [WOMENSWEAR](https://www.chaksstudio.com/collections/womenswear): Discover ‘Transit’, CHAKS’ debut collection of hand-stitched Kantha cotton shirts. Handmade in Bengal, inspired by migration, nostalgia, and everyday craft.
   Updated: 2026-07-12T00:19:15Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.chaksstudio.com/collections/avada-best-sellers)
-  Updated: 2026-07-22T16:13:08Z
+  Updated: 2026-07-23T11:20:17Z
   Total Products: 12
 - [REKHA SHIRT](https://www.chaksstudio.com/collections/rekha-shirt)
-  Updated: 2026-07-22T16:13:08Z
+  Updated: 2026-07-23T11:20:17Z
   Total Products: 8
 
 ## Blogs
@@ -217,7 +217,7 @@
 - [About CHAKS Studio - Our Story and Mission](https://www.chaksstudio.com/pages/about-us): Welcome to CHAKS At CHAKS Studio, we are passionate about creating exceptional products that bring joy and value to our customers' lives. Our journ...
   Updated: 2025-08-14T03:50:23Z
 - [Your Privacy Choices](https://www.chaksstudio.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-28T16:45:33Z
+  Updated: 2026-07-26T11:13:23Z
 
 ## Policies
 
