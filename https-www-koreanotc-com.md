@@ -6,19 +6,19 @@
 - Timezone: America/New_York
 - Created At: 2026-03-17T21:21:04Z
 - Contact Email: koreanotc@gmail.com
-- Updated At: 2026-07-23T00:00:37.683Z
+- Updated At: 2026-07-30T00:00:39.070Z
 
 ## Products
 
 - [Korean Moisturizer for Dry Skin | AESTURA](https://www.koreanotc.com/products/atobarrier-365-cream): AESTURA Atobarrier365 Cream is a Korean moisturizer for dry skin that deeply hydrates, supports the skin barrier, and helps soothe dryness daily.
-  Updated: 2026-07-15T05:52:36Z
+  Updated: 2026-07-27T17:19:57Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-cream-7958431.png?v=1783450781
   Price: $28.99 USD
 - [Vitamin C Powder Sticks | LEMONA 500mg 20 PCS](https://www.koreanotc.com/products/lemona-vitamin-c-powder): LEMONA vitamin c powder sticks deliver 500mg vitamin C per stick in a convenient 20-piece pack for daily wellness support.
-  Updated: 2026-07-08T07:37:08Z
+  Updated: 2026-07-23T03:53:27Z
   Vendor: Korean OTC
   Product Type: 
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-hydro-cera-ha-ampoule-30ml-6570549.png?v=1783450784
   Price: $32.00 USD
 - [Travel Size Moisturizer for Barrier Repair](https://www.koreanotc.com/products/aestura-travel-size-atobarrier365-cream-moisturizer-30ml-ceramide-barrier-repair-cream): AESTURA travel size moisturizer helps repair and protect the skin barrier with ceramides. A rich, gentle cream for daily hydration anywhere.
-  Updated: 2026-07-11T03:13:32Z
+  Updated: 2026-07-26T03:21:07Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/antiphlamine-double-power-pain-relief-patch-30-ct-7135096.png?v=1783452379
   Price: $39.95 USD
 - [Sensitive Skin Mist for Daily Barrier Care](https://www.koreanotc.com/products/aestura-atobarrier365-cream-mist): AESTURA Atobarrier 365 Cream Mist is a sensitive skin mist that hydrates, soothes, and supports a healthy barrier for daily comfort.
-  Updated: 2026-07-14T15:27:33Z
+  Updated: 2026-07-29T16:36:17Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
@@ -105,22 +105,22 @@
 ## Collections
 
 - [Moisturizer](https://www.koreanotc.com/collections/skincare): Discover the benefits of Korean moisturizer for deep hydration, smooth texture, and a healthy glow. Find the best formula for your skin type.
-  Updated: 2026-07-11T03:12:14Z
+  Updated: 2026-07-28T11:34:06Z
   Total Products: 6
 - [Supplements](https://www.koreanotc.com/collections/health): Discover Korean supplements designed to support daily wellness, energy, immunity, and balance with trusted ingredients and easy routines.
-  Updated: 2026-07-11T11:28:55Z
+  Updated: 2026-07-23T11:25:57Z
   Total Products: 2
 - [Shop All](https://www.koreanotc.com/collections/all-skincare): Shop Korean skincare products designed to hydrate, brighten, and support healthy skin with gentle formulas and daily essentials for every routine.
-  Updated: 2026-07-11T11:28:55Z
+  Updated: 2026-07-28T11:34:06Z
   Total Products: 13
 - [Cleansers](https://www.koreanotc.com/collections/cleansers): Discover Korean cleansers that remove dirt, oil, and makeup while keeping skin soft, calm, and refreshed for daily cleansing.
   Updated: 2026-07-07T22:31:55Z
   Total Products: 1
 - [AESTURA](https://www.koreanotc.com/collections/aestura): Discover AESTURA products designed to support sensitive skin with gentle care, hydration, and daily comfort for a healthier-looking complexion.
-  Updated: 2026-07-11T03:12:14Z
+  Updated: 2026-07-28T11:34:06Z
   Total Products: 8
 - [Vitamins](https://www.koreanotc.com/collections/vitamins): Discover Korean vitamins for daily wellness, energy, and immune support. Explore key benefits, types, and how to choose the right supplement.
-  Updated: 2026-07-08T05:12:00Z
+  Updated: 2026-07-23T11:25:57Z
   Total Products: 1
 - [Serums](https://www.koreanotc.com/collections/serums): Discover Korean serums designed to hydrate, brighten, and target skin concerns for a smoother, healthier, and more radiant complexion.
   Updated: 2026-07-07T23:09:05Z
@@ -136,27 +136,46 @@
 
 - [AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin Barrier Repair](https://www.koreanotc.com/blogs/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair)
   - [AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin](https://www.koreanotc.com/blogs/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair): AESTURA: The Best Korean Skincare Brand for Deep Hydration and Skin
-    Updated: 2026-07-18T16:36:47Z
+    Updated: 2026-07-25T19:37:07Z
     Author: Oh Min
     Tags: AESTURA
+  - [AESTURA Atobarrier 365 Cream Mist Review The Ultimate Ceramide Face Mist for Dry and Sensitive Skin](https://www.koreanotc.com/blogs/aestura-the-best-korean-skincare-brand-for-deep-hydration-and-skin-barrier-repair/aestura-atobarrier-365-cream-mist-review-the-ultimate-ceramide-face-mist-for-dry-and-sensitive-skin): AESTURA Atobarrier 365 Cream Mist Review The Ultimate Ceramide Face Mist for Dry and Sensitive Skin
+    Updated: 2026-07-25T19:37:15Z
+    Author: Yobin
+    Tags: aestura, aestura atobarrier 365 cream mist, barrier repair mist, ceramide, ceramide face mist, ceramide face mist for dry skin, dry skin, face cream, korean skincare for dry sensitive skin, mist, sensitive skin, ultimate face mist review
 - [AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry Sensitive Skin](https://www.koreanotc.com/blogs/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin)
   - [AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry,](https://www.koreanotc.com/blogs/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin/aestura-atobarrier-365-cream-mist-best-ceramide-face-mist-for-dry-sensitive-skin): AESTURA Atobarrier 365 Cream Mist: Best Ceramide Face Mist for Dry,
-    Updated: 2026-07-18T16:36:47Z
+    Updated: 2026-07-25T19:37:09Z
     Author: Korean OTC
     Tags: AESTURA, atobarrier, dry skin, Korean skincare, sensitive skin, Skin Care
 - [Best Dry Skin Moisturizer: Top Picks and How to Choose](https://www.koreanotc.com/blogs/best-dry-skin-moisturizer-top-picks-and-how-to-choose)
   - [Best Dry Skin Moisturizer: Top Picks for Lasting Hydration](https://www.koreanotc.com/blogs/best-dry-skin-moisturizer-top-picks-and-how-to-choose/dry-skin-moisturizer-best-picks-12419-9): Best Dry Skin Moisturizer: Top Picks for Lasting Hydration
-    Updated: 2026-07-18T16:36:47Z
+    Updated: 2026-07-25T19:37:11Z
     Author: Oh Min
     Tags: AESTURA, atobarrier
+- [What Makes Korean Skincare Different? A Complete Guide for Beginners](https://www.koreanotc.com/blogs/what-makes-korean-skincare-different-a-complete-guide-for-beginners)
+  - [Unveiling the Magic of Korean Skincare in the USA for Sensitive Skin](https://www.koreanotc.com/blogs/what-makes-korean-skincare-different-a-complete-guide-for-beginners/unveiling-the-magic-of-korean-skincare-in-the-usa-for-sensitive-skin): Unveiling the Magic of Korean Skincare in the USA for Sensitive Skin
+    Updated: 2026-07-29T13:24:30Z
+    Author: Korean OTC
+    Tags: korean beauty products, Korean skincare, Skin Care
 - [About Us](https://www.koreanotc.com/blogs/news)
   - [Best Hydrating Serum Picks for Dry Skin in 2026](https://www.koreanotc.com/blogs/news/best-hydrating-serum-dry-skin): Best Hydrating Serum Picks for Dry Skin in 2026
-    Updated: 2026-07-18T16:36:51Z
+    Updated: 2026-07-25T19:37:12Z
     Author: Oh Min
     Tags: AESTURA, Korean skincare, Skin Care
   - [OH Pharmacy: Locations, Services, and More](https://www.koreanotc.com/blogs/news/oh-pharmacy): OH Pharmacy: Locations, Services, and More
-    Updated: 2026-07-18T17:17:10Z
+    Updated: 2026-07-25T19:37:19Z
     Author: Oh Min
+- [Round Lab Birch Juice Moisturizing Sunscreen SPF50+: The Korean Sunscreen for Glass Skin](https://www.koreanotc.com/blogs/round-lab-birch-juice-moisturizing-sunscreen-spf50-the-korean-sunscreen-for-glass-skin)
+  - [Round Lab Birch Juice Sunscreen SPF50+: A Hydrating Korean Sunscreen for Glass Skin](https://www.koreanotc.com/blogs/round-lab-birch-juice-moisturizing-sunscreen-spf50-the-korean-sunscreen-for-glass-skin/round-lab-birch-juice-sunscreen-glass-skin-s-skin)
+    Updated: 2026-07-29T15:41:12Z
+    Author: Oh Min
+    Tags: dry skin , korean beauty products, Korean skincare, Round Lab, sensitive skin, sensitive skin care, Skin Care
+- [What Is LEMONA Vitamin C? Benefits, Ingredients and How to Take It](https://www.koreanotc.com/blogs/what-is-lemona-vitamin-c-benefits-ingredients-and-how-to-take-it)
+  - [LEMONA Vitamin C Powder Sticks 500mg | Korean OTC](https://www.koreanotc.com/blogs/what-is-lemona-vitamin-c-benefits-ingredients-and-how-to-take-it/what-is-lemona-vitamin-c-benefits-ingredients-and-how-to-take-it): LEMONA Vitamin C Powder Sticks 500mg | Korean OTC
+    Updated: 2026-07-29T15:41:15Z
+    Author: Oh Min
+    Tags: Skin Care, Supplements
 
 ## Store Pages
 
