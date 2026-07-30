@@ -6,12 +6,12 @@
 - Timezone: Africa/Dakar
 - Created At: 2026-04-24T07:54:06Z
 - Contact Email: comservicess3@gmail.com
-- Updated At: 2026-07-21T00:00:41.817Z
+- Updated At: 2026-07-30T00:00:46.632Z
 
 ## Products
 
 - [La Clé de Hasbouna lahou wa nihmal wakil](https://islamcity.fr/products/la-cle-de-hasbouna-lahou-wa-nihmal-wakil): La Clé de Hasbouna Allahou wa Nihmal Wakil n’est pas un simple livre… c’est un guide puissant pour retrouver la paix, la confiance et la délivrance face aux épreuves de la vie. Dans ce livre numérique, vous découvrirez le secret profond de cette invocation majestueuse, souvent répétée mais rarement ée à sa véritable puissance. À travers des explications claires, des méthodes pratiques et des exemples concrets, vous apprendrez comment transformer cette parole en une véritable clé de secours, de protection et d’ouverture. Ce que vous allez obtenir dans ce livre : - La signification spirituelle profonde de Hasbouna Allahou wa Nihmal Wakil- Comment l’utiliser efficacement dans les moments de blocage, d’injustice ou de difficulté- Des techniques simples pour activer ses bienfaits dans votre vie quotidienne- Des formules et répétitions adaptées pour attirer l’aide divine rapidement- Des conseils pratiques pour renforcer votre foi et votre confiance en Allah Imaginez ne plus vous sentir seul face aux problèmes…Imaginez avoir une parole qui vous protège, vous apaise et agit pour vous… Ce livre est fait pour ceux qui cherchent une solution simple, spirituelle et puissante accessible à tout moment. N’attendez pas que les situations s’aggravent.Prenez dès maintenant cette clé entre vos mains et laissez Allah agir pour vous. Commandez maintenant et commencez à voir les changements dans votre vie.
-  Updated: 2026-06-28T13:04:20Z
+  Updated: 2026-07-21T17:59:12Z
   Vendor: Islamcity
   Product Type: 
   Availability: Available
@@ -265,7 +265,7 @@
   Image: https://cdn.shopify.com/s/files/1/0994/4707/9210/files/cheikhtidianediop.jpg?v=1780566439
   Price: €6.99 EUR
 - [Des Secrets pour nos Enfants](https://islamcity.fr/products/des-secrets-pour-nos-enfants): Des Secrets pour nos Enfants est un ouvrage pensé pour accompagner les jeunes lecteurs dans leur découverte du monde. Ce livre dévoile des secrets coraniques pour accompagner nos enfants afin qu'ils réussissent sur le plan spirituel et éducatif.
-  Updated: 2026-06-28T13:04:24Z
+  Updated: 2026-07-21T18:00:17Z
   Vendor: Islamcity
   Product Type: pdf
   Availability: Available
@@ -331,10 +331,10 @@
 ## Collections
 
 - [Home page](https://islamcity.fr/collections/frontpage)
-  Updated: 2026-06-28T13:04:20Z
+  Updated: 2026-07-22T11:24:47Z
   Total Products: 1
 - [Les livres PDF](https://islamcity.fr/collections/les-livres-pdf): Commandez en toute sécurité et recevez instantanément votre lien de téléchargement de votre livre.
-  Updated: 2026-07-05T11:21:38Z
+  Updated: 2026-07-22T11:24:47Z
   Total Products: 19
 - [Les écritures](https://islamcity.fr/collections/les-ecritures): Dans cette catégorie vous avez l'occasion de commander en ligne des écritures à transformer en eau bénite pour la protection, le déblocage, l'ouverture, la chance, l'ouverture dans votre activité, avoir des papiers etc....
   Updated: 2026-07-03T14:27:13Z
@@ -342,6 +342,9 @@
 - [Les Bagues de réussir](https://islamcity.fr/collections/les-bagues-de-reussir): Ce sont des bagues qui vont beaucoup vous servir dans votre vie : La Bague de protection ; Pour se protéger contre les maraboutages, les djinns, les accidents, les mauvaises maladies etc... La Bague mahabat : Pour avoir l'affection de tout le monde La Bague Al Waqiah : Pour attirer en vous la richesse, l'argent La Bague Fidjidiha : Protection et une très grande ouverture La Bague Miracle : Pour la réussite, la chance et des ouvertures
   Updated: 2026-06-28T13:04:20Z
   Total Products: 0
+- [Nos Bestsellers](https://islamcity.fr/collections/nos-bestsellers): Découvrez les livres islamiques PDF et kits spirituels les plus vendus sur Islamcity. Téléchargement immédiat, qualité premium.
+  Updated: 2026-07-21T13:20:39Z
+  Total Products: 4
 
 ## Blogs
 
@@ -373,6 +376,12 @@
   - [ de 04 livres](https://islamcity.fr/blogs/news/-de-04-livres)
     Updated: 2026-07-09T19:43:25Z
     Author: My Store Admin
+  - [Les ebooks islamiques](https://islamcity.fr/blogs/news/les-ebooks-islamiques)
+    Updated: 2026-07-21T12:11:22Z
+    Author: My Store Admin
+  - [Le Grand Magal de Touba](https://islamcity.fr/blogs/news/le-grand-magal-de-touba)
+    Updated: 2026-07-27T12:44:04Z
+    Author: My Store Admin
 
 ## Store Pages
 
@@ -382,6 +391,12 @@
   Updated: 2026-05-05T15:08:30Z
 - [Appel aux bonnes volontés](https://islamcity.fr/pages/appel-aux-bonnes-volontes): *{ margin:0; padding:0; box-sizing:border-box; } body{ font-family:'Poppins',sans-serif; background:#f5f7fb; color:#222; line-height:1.6; } a{ text...
   Updated: 2026-05-20T17:18:09Z
+- [Les livres numériques](https://islamcity.fr/pages/les-livres-numeriques): *{ margin:0; padding:0; box-sizing:border-box; font-family:'Poppins',sans-serif; } body{ background:#f8fafc; color:#1f2937; line-height:1.6; } .con...
+  Updated: 2026-07-26T20:13:15Z
+- [KIT SPIRITUEL – LE VERSET DE LA SOURATE AL-FATH ÉCRITE 12 000 FOIS](https://islamcity.fr/pages/kit-spirituel-le-verset-de-la-sourate-al-fath-ecrite-12-000-fois): *{ margin:0; padding:0; box-sizing:border-box; } body{ font-family:'Poppins',sans-serif; color:#222; line-height:1.7; background:#fafafa; } .contai...
+  Updated: 2026-07-26T20:19:56Z
+- [Projet de construction](https://islamcity.fr/pages/projet-de-construction): * { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; } body { background: #f5f5f5; color: #333; line-height: 1.6; } ....
+  Updated: 2026-07-29T11:37:44Z
 
 ## Policies
 
