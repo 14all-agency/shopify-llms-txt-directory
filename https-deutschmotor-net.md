@@ -3,10 +3,10 @@
 - Domain: https://deutschmotor.net
 - Locale: en
 - Currency: USD
-- Timezone: Asia/Taipei
+- Timezone: America/Los_Angeles
 - Created At: 2022-02-24T05:22:45Z
 - Contact Email: bmwmb888@gmail.com
-- Updated At: 2026-07-19T00:00:37.520Z
+- Updated At: 2026-07-30T00:00:40.057Z
 
 ## Products
 
@@ -722,8 +722,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0570/1749/9701/files/roma-bk-7.png?v=1782629130
   Price: $199.99 USD
-- [Weather protection for soft top: Ultimate Waterproof Shield](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield): Get the best weather protection for soft top convertibles. Our waterproof, UV-resistant shield keeps your vehicle in pristine condition. Shop now!
-  Updated: 2026-07-15T16:31:05Z
+- [Weather protection for soft top roof cover Shield](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield): Weather protection for soft top roof cover Shield. Our waterproof, UV-resistant shield keeps your vehicle in pristine condition. Shop now!
+  Updated: 2026-07-25T04:46:49Z
   Vendor: Deutschmotor
   Product Type: Car cover
   Availability: Available
@@ -752,34 +752,58 @@
   - [Z3 Z4 / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45771227725877)
     Availability: Available
     Price: $139.99 USD
-  - [Universal / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45771227758645)
+  - [4 seaters coupe / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45771227758645)
     Availability: Available
     Price: $139.99 USD
-  - [Universal / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45771227791413)
+  - [4 seaters coupe / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45771227791413)
+    Availability: Available
+    Price: $139.99 USD
+  - [2 seaters sedan / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45799230275637)
+    Availability: Available
+    Price: $139.99 USD
+  - [2 seaters sedan / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45799230308405)
+    Availability: Available
+    Price: $139.99 USD
+  - [R129 SL500 / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45799230406709)
+    Availability: Available
+    Price: $139.99 USD
+  - [R129 SL500 / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45799230439477)
+    Availability: Available
+    Price: $139.99 USD
+  - [AMG R109 GTR roadster / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45799230472245)
+    Availability: Available
+    Price: $139.99 USD
+  - [AMG R109 GTR roadster / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45799230505013)
+    Availability: Available
+    Price: $139.99 USD
+  - [Vantage roadster / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45799230537781)
+    Availability: Available
+    Price: $139.99 USD
+  - [Vantage roadster / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-ultimate-waterproof-shield?variant=45799230570549)
     Availability: Available
     Price: $139.99 USD
 - [Weather protection for soft top Durable & UV Resistant Cover](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield): Get the best weather protection for soft top convertibles. Our waterproof, UV-resistant shield keeps your vehicle in pristine condition year-round. Shop now!
-  Updated: 2026-07-15T16:40:56Z
+  Updated: 2026-07-25T04:50:08Z
   Vendor: Deutschmotor
   Product Type: Car cover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0570/1749/9701/files/Gemini_Generated_Image_jo6b5qjo6b5qjo6b.png?v=1784123453
+  - [Mercedes SL500/600 (R129) / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45799258554421)
+    Availability: Available
+    Price: $159.99 USD
+  - [Mercedes SL500/600 (R129) / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45799258587189)
+    Availability: Available
+    Price: $159.99 USD
   - [Mustang cabriolet / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633328181)
     Availability: Available
     Price: $159.99 USD
   - [Mustang cabriolet / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633360949)
     Availability: Available
     Price: $159.99 USD
-  - [Mercedes CLE SL(R129) / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633393717)
+  - [Mercedes CLE / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633393717)
     Availability: Available
     Price: $159.99 USD
-  - [Mercedes CLE SL(R129) / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633426485)
-    Availability: Available
-    Price: $159.99 USD
-  - [A4 A5 cabriolet / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633459253)
-    Availability: Available
-    Price: $159.99 USD
-  - [A4 A5 cabriolet / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633492021)
+  - [Mercedes CLE / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633426485)
     Availability: Available
     Price: $159.99 USD
   - [Lexus LC500 / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633524789)
@@ -788,16 +812,28 @@
   - [Lexus LC500 / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633557557)
     Availability: Available
     Price: $159.99 USD
+  - [A4 A5 cabriolet / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633459253)
+    Availability: Available
+    Price: $159.99 USD
+  - [A4 A5 cabriolet / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633492021)
+    Availability: Available
+    Price: $159.99 USD
   - [Bentley Continental GT / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633590325)
     Availability: Available
     Price: $159.99 USD
   - [Bentley Continental GT / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633623093)
     Availability: Available
     Price: $159.99 USD
-  - [BMW 4 & 8 series / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633655861)
+  - [BMW 8 series cabriolet / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45799258619957)
     Availability: Available
     Price: $159.99 USD
-  - [BMW 4 & 8 series / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633688629)
+  - [BMW 8 series cabriolet / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45799258652725)
+    Availability: Available
+    Price: $159.99 USD
+  - [BMW 2&4 series / Black](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633655861)
+    Availability: Available
+    Price: $159.99 USD
+  - [BMW 2&4 series / Silver](https://deutschmotor.net/products/weather-protection-for-soft-top-best-waterproof-uv-shield?variant=45771633688629)
     Availability: Available
     Price: $159.99 USD
 
@@ -1341,6 +1377,26 @@
     Updated: 2026-07-17T23:00:37Z
     Author: Deutschmotor
     Tags: car cover, cover for convertible, how to protect your car paint, semi custom car cover, soft top convertible protection, waterproof car cover
+  - [Protect Your Aston Martin DBX with a Premium Semi Custom Waterproof Car Cover for soft top Convertible Protection and Paint Preservation](https://deutschmotor.net/blogs/latest-deutschmotor-news/protect-your-aston-martin-dbx-with-a-premium-semi-custom-waterproof-car-cover-for-soft-top-convertible-protection-and-paint-preservation): Protect Your Aston Martin DBX with a Premium Semi Custom Waterproof Car Cover for soft top Convertible Protection and Paint Preservation
+    Updated: 2026-07-19T23:00:17Z
+    Author: Deutschmotor
+    Tags: car cover, cover for convertible, how to protect your car paint, semi custom car cover, soft top convertible protection, waterproof car cover
+  - [Protect Your Convertible's Shine: The Ultimate Guide to Using a Semi-Custom Waterproof Car Cover](https://deutschmotor.net/blogs/latest-deutschmotor-news/protect-your-convertibles-shine-the-ultimate-guide-to-using-a-semi-custom-waterproof-car-cover): Protect Your Convertible's Shine: The Ultimate Guide to Using a Semi-Custom Waterproof Car Cover
+    Updated: 2026-07-22T23:00:57Z
+    Author: Deutschmotor
+    Tags: car cover, cover for convertible, how to protect your car paint, semi custom car cover, soft top convertible protection, waterproof car cover
+  - [Protecting Your BMW 3 and 4 Series: The Ultimate Guide to Choosing the Best Waterproof Car Cover for Convertibles and Soft Tops](https://deutschmotor.net/blogs/latest-deutschmotor-news/protecting-your-bmw-3-and-4-series-the-ultimate-guide-to-choosing-the-best-waterproof-car-cover-for-convertibles-and-soft-tops): Protecting Your BMW 3 and 4 Series: The Ultimate Guide to Choosing the Best Waterproof Car Cover for Convertibles and Soft Tops
+    Updated: 2026-07-24T23:00:44Z
+    Author: Deutschmotor
+    Tags: car cover, cover for convertible, how to protect your car paint, semi custom car cover, soft top convertible protection, waterproof car cover
+  - [Protect Your Convertible with the Deutschmotor W463 Mercedes Waterproof Car Cover: Essential Tips for Paint Protection and Soft Top Preservation](https://deutschmotor.net/blogs/latest-deutschmotor-news/protect-your-convertible-with-the-deutschmotor-w463-mercedes-waterproof-car-cover-essential-tips-for-paint-protection-and-soft-top-preservation): Protect Your Convertible with the Deutschmotor W463 Mercedes Waterproof Car Cover: Essential Tips for Paint Protection and Soft Top Preservation
+    Updated: 2026-07-26T23:00:15Z
+    Author: Deutschmotor
+    Tags: car cover, cover for convertible, how to protect your car paint, semi custom car cover, soft top convertible protection, waterproof car cover
+  - [How to Protect Your Convertible and Car Paint with the Lexus LS400 430 Waterproof Car Cover Series](https://deutschmotor.net/blogs/latest-deutschmotor-news/how-to-protect-your-convertible-and-car-paint-with-the-lexus-ls400-430-waterproof-car-cover-series): How to Protect Your Convertible and Car Paint with the Lexus LS400 430 Waterproof Car Cover Series
+    Updated: 2026-07-29T23:01:02Z
+    Author: Deutschmotor
+    Tags: car cover, cover for convertible, how to protect your car paint, semi custom car cover, soft top convertible protection, waterproof car cover
 
 ## Store Pages
 
@@ -1354,15 +1410,15 @@
 ## Policies
 
 - [Privacy Policy](https://deutschmotor.net/policies/privacy-policy)
-  Updated: 2022-03-02T22:17:13+08:00
+  Updated: 2022-03-02T06:17:13-08:00
 - [Shipping Policy](https://deutschmotor.net/policies/shipping-policy)
-  Updated: 2023-02-23T20:35:54+08:00
+  Updated: 2023-02-23T04:35:54-08:00
 - [Refund Policy](https://deutschmotor.net/policies/refund-policy)
-  Updated: 2023-02-23T20:33:56+08:00
+  Updated: 2023-02-23T04:33:56-08:00
 - [Terms of Service](https://deutschmotor.net/policies/terms-of-service)
-  Updated: 2026-06-30T16:14:19+08:00
+  Updated: 2026-06-30T01:14:19-07:00
 - [Contact Information](https://deutschmotor.net/policies/contact-information)
-  Updated: 2026-06-30T16:15:36+08:00
+  Updated: 2026-06-30T01:15:36-07:00
 
 ## Optional
 
