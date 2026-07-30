@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-20T04:18:55Z
 - Contact Email: gfeed.app@gmail.com
-- Updated At: 2026-07-21T00:00:34.109Z
+- Updated At: 2026-07-30T00:00:37.802Z
 
 ## Products
 
@@ -116,14 +116,14 @@
   Image: https://cdn.shopify.com/s/files/1/0981/0372/2347/files/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1776658765
   Price: $1,025.00 USD
 - [The Collection Snowboard: Liquid](https://go-pro-01-1rbghkq1.myshopify.com/products/the-collection-snowboard-liquid)
-  Updated: 2026-07-19T03:05:58Z
+  Updated: 2026-07-21T08:45:28Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0981/0372/2347/files/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1776658766
   Price: $749.95 USD
-- [The Collection Snowboard: Liquid Dup2](https://go-pro-01-1rbghkq1.myshopify.com/products/the-collection-snowboard-liquid-dup)
-  Updated: 2026-07-19T03:05:58Z
+- [The Collection Snowboard: Liquid Dup2](https://go-pro-01-1rbghkq1.myshopify.com/products/the-collection-snowboard-liquid-dup): The Collection Snowboard: Liquid Dup2
+  Updated: 2026-07-24T08:09:36Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
