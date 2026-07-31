@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-07-21T05:22:02Z
 - Contact Email: ascorenutra@gmail.com
-- Updated At: 2026-07-21T10:56:28.660Z
+- Updated At: 2026-07-31T00:00:34.337Z
 
 ## Products
 
-- [Buy Alloveda AI Immune Support Capsules | Best Immune Supplement](https://allovedaai.com/products/alloveda-ai-capsules): Shop Alloveda AI immune support capsules. AI-powered, Ayurvedic immune support for adults. Natural immune health supplements to balance your immunity. Buy now!
-  Updated: 2026-05-14T20:56:38Z
+- [Ayurvedic Anti-Inflammatory Supplement for Immune Balance Support](https://allovedaai.com/products/alloveda-ai-capsules): Discover Alloveda AI Ayurvedic anti-inflammatory supplement formulated with powerful herbs to support inflammation balance, immunity, and overall wellness naturally.
+  Updated: 2026-07-30T02:54:10Z
   Vendor: Alloveda
   Product Type: 
   Availability: Available
@@ -21,7 +21,7 @@
 ## Collections
 
 - [Home page](https://allovedaai.com/collections/frontpage)
-  Updated: 2026-04-23T09:44:46Z
+  Updated: 2026-07-26T11:20:33Z
   Total Products: 2
 
 ## Blogs
@@ -122,6 +122,9 @@
     Author: Manan Mehta
   - [Zinc for Immunity: Benefits, Dosage, and Best Food Sources](https://allovedaai.com/blogs/alloveda-ai/zinc-for-immune-support): Zinc for Immunity: Benefits, Dosage, and Best Food Sources
     Updated: 2026-07-13T11:12:23Z
+    Author: Manan Mehta
+  - [How to Reduce Chronic Inflammation Naturally: 8 Evidence-Backed Strategies](https://allovedaai.com/blogs/alloveda-ai/how-to-reduce-chronic-inflammation-naturally): How to Reduce Chronic Inflammation Naturally: 8 Evidence-Backed Strategies
+    Updated: 2026-07-27T12:47:49Z
     Author: Manan Mehta
 
 ## Store Pages
