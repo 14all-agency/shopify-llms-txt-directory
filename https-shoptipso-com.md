@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2026-07-07T02:25:09Z
 - Contact Email: Shoptipso@gmail.com
-- Updated At: 2026-07-18T00:00:28.007Z
+- Updated At: 2026-07-31T00:00:43.477Z
 
 Welcome to Shoptipso, your trusted online general store. We offer electronics, fashion, beauty products, home essentials, accessories, and more at competitive prices with secure shopping and reliable delivery.
 
@@ -220,7 +220,7 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/d31ddd02b2bf45c098a5bd1d106eb13f.webp?v=1783459690
     Price: €15.99 EUR
 - [Woman Clothing Short Sleeve T-shirt Slim Fit Tops Female O-Neck Knitted Sheath Tee Shirt Street Wear  Sporty 2026 Y2K New2410](https://shoptipso.com/products/woman-clothing-short-sleeve-t-shirt-slim-fit-tops-female-o-neck-knitted-sheath-tee-shirt-street-wear--sporty-2024-y2k-new2410): Polyester Fiber FabricCrafted from high-quality polyester fiber, this T-shirt offers durability and a soft, breathable feel against the skin.Medium Stretch ElasticityEnjoy unrestricted movement with the medium stretch fabric, ensuring comfort and ease of wear throughout the day.Y2K StyleEmbrace the retro-futuristic charm of Y2K with this trendy T-shirt, perfect for those who love a vintage twist on modern fashion.Versatile Summer WearThis summer-ready T-shirt is a versatile addition to your wardrobe, suitable for various occasions and settings.Slim Fit DesignAchieve a sleek silhouette with the slim fit design, ideal for those seeking a flattering and fashionable look.
-  Updated: 2026-07-17T22:15:13Z
+  Updated: 2026-07-18T10:14:46Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -561,26 +561,12 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
   Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/getpubthumb.jpg?v=1783461880
   Price: €25.04 EUR
 - [Privacy Anti-Spy Full Cover Tempered Glass Screen Protector for iPhone](https://shoptipso.com/products/privacy-anti-spy-full-cover-tempered-glass-screen-protector-for-iphone): Wholesale and distribute super protective strong privacy tempered glass for Apple iPhone 12 Mini (5.4 inch) Conditions: Brand new with retail package. Shields and protects your LCD screen against scratches and dust. Super durable tempered glass screen protector Offers a transparent, durable, tough protection but will not affect sensitivity of the touch screen. Attaches with self-adhering surface and leaves no residue when removed. Clear when properly installed. This strong durable tuff tempered glass screen protector is treated by carbon hardening technology. protect your valuable smart phone for the expensive repair of the front touch screen. it shock absorption layer absorbs external shocks and prevent damage of screen, protects and reduce your smartphone screen from damage. Ultra clear screen with 91% of high transmittance. Protects the screen from scratches and abrasion How To Install Completely clean your screen of dirt and dust. Peel back the layer labeled "1" an inch or so, apply guard starting at one side of your screen. Line up screen protector with your phone. Using a , or similar item, smooth out bubbles as you lay down the guard on the screen. Slowly remove layer labeled "2" and you're finished! Package Contains Screen Protectors with retail packages Cleaning Cloth
-  Updated: 2026-07-12T01:57:10Z
+  Updated: 2026-07-21T01:35:56Z
   Vendor: SHOP TIPSO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/Apple_iphone12_Mini_Privacy_tempered_Glass.jpg?v=1783461881
   Price: €3.07 EUR
-- [Yoga Foam Blocks - 4"](https://shoptipso.com/products/yoga-foam-blocks-4): Our Foam Yoga Blocks are made from sturdy, scratch-resistant foam and are lightweight and easy to use. Each block has beveled edges for added comfort. These blocks are very strong and durable, and yet incredibly lightweight and comfortable. Foam blocks lend support and extension to yoga postures. They provide the support and/or height needed to do poses safely and effectively. Place this eco-friendly support block under your hands to find balance in poses where you need just a little help. Comes in Size : 4" x 6" x 9" Each Yoga Block comes can easily be resold in Yoga boutiques and Gift Shops.
-  Updated: 2026-07-12T01:57:10Z
-  Vendor: SHOP TIPSO
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/BlueFoamBlocks.jpg?v=1783461884
-  - [Purple](https://shoptipso.com/products/yoga-foam-blocks-4?variant=58223062384988)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/OM141004_b6bd3978-6699-4e8a-ab36-be879c8a8ef1.jpg?v=1783461886
-    Price: €12.25 EUR
-  - [Blue](https://shoptipso.com/products/yoga-foam-blocks-4?variant=58223062417756)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/BlueFoamBlocks_3b4d3ca1-686e-4268-82ca-6392aab19b34.jpg?v=1783461885
-    Price: €12.25 EUR
 - [KIKO Transparent Clear MAGNETIC Magsafe Circle Case for iPhone 13 Pro](https://shoptipso.com/products/kiko-transparent-clear-magnetic-magsafe-circle-case-for-iphone-13-pro): Compatible with Apple iPhone 13 Pro The magnetic ring is precisely docked and fixed with the phone, allowing for faster wireless charging without removing the case. Built-in magnet technology allows 36 "N52" magnets to be fixed in independent grooves, no matter how long they are used, they will not loosen or fall off. The crystal clear compatibility for iPhone 13 case shows the phone's original design and beauty. The frame is designed slightly higher than the camera and screen, prevents from the most of the bumps or scratches, it can overcome almost anything and provide excellent protection. Hollow design buttons make it easy to press and bounce back comfortably. The ergonomic, slightly rounded edges offer you a comfortable grip, thin and not bulky.
   Updated: 2026-07-12T01:57:11Z
   Vendor: SHOP TIPSO
@@ -825,7 +811,7 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
   Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/205885-1.jpg?v=1783462155
   Price: €11.35 EUR
 - [New Summer Waffle Round Neck Short Sleeved T-shirt for Men's Short Sleeved Top](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top): modname=images&cols=1&colspace=10&rowspace=10&align=center
-  Updated: 2026-07-12T01:37:07Z
+  Updated: 2026-07-21T15:16:34Z
   Vendor: SHOP TIPSO
   Product Type: 
   Availability: Available
@@ -833,31 +819,31 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
   - [green / XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223221899612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/a1365a67b440478c9edd7082d304328f.webp?v=1783463902
-    Price: €24.99 EUR
+    Price: €47.99 EUR
   - [Red / S](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223221932380)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/0b616e2faf394ef2a99d6e1210753400.webp?v=1783463902
-    Price: €24.99 EUR
+    Price: €62.99 EUR
   - [Khaki / M](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223221965148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/8ab8e5405db04e209155e4041c857489.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €59.99 EUR
   - [Khaki / XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223221997916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/10b1693ffafa463e94b8dbe85533269f.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €64.99 EUR
   - [Navy Blue / M](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222030684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/31828df343064432818180f1c31e37ff.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €60.99 EUR
   - [Navy Blue / L](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222063452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/039288f2e9f64d86b1ea23550420ca36.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €59.99 EUR
   - [YELLOW / XXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222096220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/c53dd997fa6e40c5a29ee7de5dec8be8.webp?v=1783463903
-    Price: €26.99 EUR
+    Price: €64.99 EUR
   - [YELLOW / XXXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222128988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/b72081a7a98b488ca758f6070b830df5.webp?v=1783463902
@@ -865,15 +851,15 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
   - [YELLOW / 4XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222161756)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/a35e3bcac7f54a2c8a53a3e64549976a.webp?v=1783463902
-    Price: €27.99 EUR
+    Price: €67.99 EUR
   - [YELLOW / S](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222194524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/9a30af0aaa9a439fb0196f5499fe1bc0.webp?v=1783463903
-    Price: €25.99 EUR
+    Price: €58.99 EUR
   - [Red / XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222227292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/11acb20b974840b1a98fc826d70a5e99.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €50.99 EUR
   - [Khaki / XXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222260060)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/f7ba1bbed894447486c56134995e6dbd.webp?v=1783463902
@@ -881,119 +867,119 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
   - [Khaki / XXXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222292828)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/1fbd766d5f814c2ca3a86f7989782589.webp?v=1783463902
-    Price: €27.99 EUR
+    Price: €60.99 EUR
   - [Khaki / 4XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222325596)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/75c913d91ea44def90ecd21e15e0461a.webp?v=1783463902
-    Price: €27.99 EUR
+    Price: €67.99 EUR
   - [green / XXXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222358364)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/ab179569cc624112b952779864fd3f35.webp?v=1783463902
-    Price: €27.99 EUR
+    Price: €66.99 EUR
   - [black / 4XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222391132)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/77241824256749c3ac73383a0486149b.webp?v=1783463902
-    Price: €28.99 EUR
+    Price: €69.99 EUR
   - [green / S](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222423900)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/9efc732f58504e9292c23db4ef7d03de.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €57.99 EUR
   - [Red / XXXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222456668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/d222f70ed1d84a75a8b4e536650d5c0f.webp?v=1783463902
-    Price: €27.99 EUR
+    Price: €68.99 EUR
   - [black / M](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222489436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/556a110ef8624c529703c31e46ac0b51.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €60.99 EUR
   - [green / XXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222522204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/6d0ddfe3e4834a4daf88e64df9d83e9f.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €61.99 EUR
   - [WHITE / M](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222554972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/9887fff30ce247ddad7235d2edce5815.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €63.99 EUR
   - [Red / M](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222587740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/6aca3856ddbb4fb0aa08d8196aaf0c69.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €57.99 EUR
   - [Khaki / S](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222620508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/7c2be4d16fe4423eb2900b86e4b2d9ff.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €61.99 EUR
   - [Khaki / L](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222653276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/f17742f875ab484f9dfa2646fdc623ea.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €60.99 EUR
   - [Navy Blue / S](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222686044)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/ad6bf04d4ba345fe8f723e3f0e81f6cc.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €55.99 EUR
   - [Navy Blue / XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222718812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/07d3d9a845154822be92f83a0fd378e9.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €64.99 EUR
   - [YELLOW / M](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222751580)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/305eac11472241be84512ddf6e0f9e7e.webp?v=1783463903
-    Price: €25.99 EUR
+    Price: €59.99 EUR
   - [YELLOW / L](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222784348)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/094254f0d91440189f399f56ecac6286.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €62.99 EUR
   - [WHITE / L](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222817116)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/8db9f8cbc0694f0ca6193608d99373a9.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €61.99 EUR
   - [WHITE / XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222849884)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/27d328378f5a49558a7f092c982cf971.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €64.99 EUR
   - [WHITE / XXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222882652)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/eced0a5416ee464abed59b0f839786c0.webp?v=1783463902
-    Price: €28.99 EUR
+    Price: €69.99 EUR
   - [WHITE / XXXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222915420)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/d8563bf06539478781c416e49f8c0164.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €64.99 EUR
   - [WHITE / 4XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222948188)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/ecd0f974c3d44de4a8bf6686ddecea44.webp?v=1783463902
-    Price: €27.99 EUR
+    Price: €66.99 EUR
   - [green / 4XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223222980956)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/da757559f5584c7b9d7d0a3a4751c1bf.webp?v=1783463902
-    Price: €27.99 EUR
+    Price: €62.99 EUR
   - [green / M](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223013724)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/32562513d0394154bd7cfa3865e72d2e.webp?v=1783463902
-    Price: €24.99 EUR
+    Price: €46.99 EUR
   - [Navy Blue / XXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223046492)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/bf1ceb52068348f697f1c3f52273af6d.webp?v=1783463903
-    Price: €26.99 EUR
+    Price: €63.99 EUR
   - [Red / XXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223079260)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/4a94adfe150d46f595dce8b4cfe096d2.webp?v=1783463902
-    Price: €27.99 EUR
+    Price: €65.99 EUR
   - [black / L](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223112028)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/124d71cfc93f4da7ad3709aabf68b3b7.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €63.99 EUR
   - [black / XXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223144796)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/7fba5ed65caf440fa45f4608eeb71b68.webp?v=1783463902
-    Price: €28.99 EUR
+    Price: €65.99 EUR
   - [black / XXXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223177564)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/61cbe073a69245c98e79e75345b91df6.webp?v=1783463902
-    Price: €27.99 EUR
+    Price: €65.99 EUR
   - [black / S](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223210332)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/b915c20ca85a40b0968c0d526556d897.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €59.99 EUR
   - [WHITE / S](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223243100)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/5df3d2305ed6486cb8476222b63d58b4.webp?v=1783463902
@@ -1001,15 +987,15 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
   - [Red / L](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223275868)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/b0caa951afe84f2db655f31f5b34a653.webp?v=1783463902
-    Price: €26.99 EUR
+    Price: €62.99 EUR
   - [Red / 4XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223308636)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/81d1f1aeeaf042f9bdcd586c97269693.webp?v=1783463902
-    Price: €28.99 EUR
+    Price: €69.99 EUR
   - [Navy Blue / XXXL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223341404)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/611d7f8c1126488bb62ea5af59de8481.webp?v=1783463902
-    Price: €25.99 EUR
+    Price: €52.99 EUR
   - [Navy Blue / 4XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223374172)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/d77ba93cb2fb4883bb9aad73e2678f67.webp?v=1783463902
@@ -1017,11 +1003,11 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
   - [YELLOW / XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223406940)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/adf1445cd6614de48c1873e6daa3ad20.webp?v=1783463903
-    Price: €25.99 EUR
+    Price: €50.99 EUR
   - [green / L](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223439708)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/bef69b6405a943f09b466c7968740918.webp?v=1783463902
-    Price: €24.99 EUR
+    Price: €49.99 EUR
   - [black / XL](https://shoptipso.com/products/new-summer-waffle-round-neck-short-sleeved-t-shirt-for-mens-short-sleeved-top?variant=58223223472476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/4439/7916/files/95aacab896d7411cb6025ccdd6e27f08.webp?v=1783463902
@@ -2659,23 +2645,29 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
   Updated: 2026-07-13T22:37:50Z
   Total Products: 68
 - [Men](https://shoptipso.com/collections/men): Shop our Men's collection for the latest clothing, accessories, and more at great prices.
-  Updated: 2026-07-14T07:00:30Z
-  Total Products: 80
+  Updated: 2026-07-29T08:39:22Z
+  Total Products: 81
 - [Women](https://shoptipso.com/collections/women): Shop our Women's collection for the latest clothing, accessories, and more at great prices.
-  Updated: 2026-07-17T22:14:43Z
+  Updated: 2026-07-21T23:06:44Z
   Total Products: 76
 - [Accessories](https://shoptipso.com/collections/accessories): Shop our Accessories collection for the latest bags, jewellery, and more at great prices.
-  Updated: 2026-07-14T07:00:29Z
+  Updated: 2026-07-30T05:21:50Z
   Total Products: 72
 - [Default example products](https://shoptipso.com/collections/asset-pack-74055155714-example-products)
-  Updated: 2026-07-14T07:01:08Z
-  Total Products: 3
+  Updated: 2026-07-22T00:42:59Z
+  Total Products: 4
 - [Default example products](https://shoptipso.com/collections/asset-pack-74052632578-example-products)
   Updated: 2026-07-14T07:01:12Z
   Total Products: 3
 - [Default example products](https://shoptipso.com/collections/asset-pack-74049617922-example-products)
   Updated: 2026-07-14T07:01:13Z
   Total Products: 3
+- [Default example products](https://shoptipso.com/collections/asset-pack-77997899778-example-products)
+  Updated: 2026-07-21T01:36:31Z
+  Total Products: 4
+- [Watches](https://shoptipso.com/collections/watches): Browse our Watches collection at SHOP TIPSO. Find classic, modern, and smartwatches for every style.
+  Updated: 2026-07-18T20:59:44Z
+  Total Products: 0
 
 ## Blogs
 
@@ -2701,6 +2693,8 @@ Welcome to Shoptipso, your trusted online general store. We offer electronics, f
   Updated: 2026-07-10T13:23:14Z
 - [Download Our App](https://shoptipso.com/pages/opus-app-download): (function() { var userAgent = navigator.userAgent || navigator.vendor || window.opera; var appleStoreUrl = "https://www.apple.com/vn/app-store/"; v...
   Updated: 2026-07-11T23:15:27Z
+- [new theme](https://shoptipso.com/pages/untitled)
+  Updated: 2026-07-24T00:02:10Z
 
 ## Policies
 
