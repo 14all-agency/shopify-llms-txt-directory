@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2024-10-25T00:49:17Z
 - Contact Email: jbrooks@gaiagrowthsolutions.com
-- Updated At: 2026-07-23T00:00:20.570Z
+- Updated At: 2026-07-31T00:00:35.649Z
 
 ## Products
 
-- [Wholesale Natural Fiber Supplier USA | Gaia Growth Solutions](https://www.gaiagrowthsolutions.com/products/wholesale-natural-fiber-supplier-usa): Bulk natural fiber supplier USA. Cellulose & wood chip alternative by the metric ton. US-grown, tariff-free, 90-day delivery. Request a wholesale quote.
-  Updated: 2026-07-22T15:57:52Z
+- [Wholesale Natural Fiber Supplier USA | 5 MT Minimum Quote](https://www.gaiagrowthsolutions.com/products/wholesale-natural-fiber-supplier-usa): Bulk hemp hurd and bast fiber quoted by the metric ton, 5 MT minimum order. US-grown, tariff-free, delivered within 90 days. Request a wholesale quote.
+  Updated: 2026-07-30T18:27:10Z
   Vendor: Gaia Growth Solutions
   Product Type: Raw Materials
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/7606/9671/files/blog-vast-lush-green-industrial-hemp-field-stretching-to-the-horizon-under-bright-blu-1778730837.png?v=1778730839
   Price: $0.00 USD
-- [The Hemp Home | 12-Month Hemp Conversion System](https://www.gaiagrowthsolutions.com/products/the-hemp-home-system): Cut recurring household costs with durable hemp bast & hurd products. A 12-month system with room-by-room audits, worksheets, and math you can check.
-  Updated: 2026-07-16T12:12:05Z
+- [The Hemp Home | 12-Month Hemp System for Homes & Businesses](https://www.gaiagrowthsolutions.com/products/the-hemp-home-system): Cut recurring costs with durable hemp — at home or for cafés, salons, rentals, and farms. A 12-month system with audits, test protocols, and checkable math.
+  Updated: 2026-07-30T10:01:03Z
   Vendor: Gaia Growth Solutions
   Product Type: Digital Download
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0902/7606/9671/files/Gaia_Logo_f7d35063-bbde-4e4d-85a4-a808d10cc0f5.webp?v=1776574047
   Price: $20.00 USD
-- [Vendor Booth — End of the Summer Virtual Swap Meet](https://www.gaiagrowthsolutions.com/products/vendor-booth-virtual-shop-a-thon): Saturday, August 29, 2026 · 9 AM–4 PM Central 100% virtual. 100% nationwide. Vendors and shoppers join from anywhere in the country.
-  Updated: 2026-07-22T15:22:01Z
+- [Vendor Booth | End of Summer Virtual Swap Meet 2026](https://www.gaiagrowthsolutions.com/products/vendor-booth-virtual-shop-a-thon): Reserve a vendor booth for the End of Summer Virtual Swap Meet — Saturday, August 29, 2026. Nationwide online marketplace. Booths start at $25.
+  Updated: 2026-07-25T18:05:11Z
   Vendor: Gaia Growth Solutions
   Product Type: Event Booth
   Availability: Available
@@ -42,27 +42,21 @@
 
 ## Collections
 
-- [Industrial Hemp Fiber — US-Sourced Raw Materials](https://www.gaiagrowthsolutions.com/collections/industrial-raw-materials-available-at-scale-in-2026): Wholesale hemp bast fiber & hurd from a trusted US supplier. Bulk raw material for manufacturers & processors. MOQ available. Request a quote today.
-  Updated: 2026-07-05T15:00:31Z
+- [Industrial Hemp Fiber — US-Sourced Raw Materials](https://www.gaiagrowthsolutions.com/collections/industrial-raw-materials-available-at-scale-in-2026): Wholesale hemp bast fiber and hurd from a US supplier. Bulk raw material for manufacturers. 5 metric ton minimum, tariff-free, 90-day delivery.
+  Updated: 2026-07-30T18:27:11Z
   Total Products: 1
-- [Sustainable Packaging Solutions](https://www.gaiagrowthsolutions.com/collections/plastic-free-bags-and-packaging): Plant-based, compostable bags and packaging for retail, shipping, and food service. Tear-resistant, leak-proof, and biodegrades in 90 days. EU and BPI .
-  Updated: 2026-04-07T10:24:56Z
-  Total Products: 0
-- [🌎 Plastic-Free Bags & Packaging  | Final ](https://www.gaiagrowthsolutions.com/collections/🌎-plastic-free-bags-packaging--final--limited-sto): Final  on compostable, plant-based bags and packaging. Biodegrades in 90 days, handles heavy loads. Limited stock — grab it before it's gone.
-  Updated: 2026-04-07T10:24:52Z
-  Total Products: 0
-- [Hemp Fiber for Your Home — Zero Waste Living Bundle](https://www.gaiagrowthsolutions.com/collections/sustainable-living-in-2026-welcom-you-zero-waste-living-guides): Shop 'Hemp Fiber for Your Home' — the ultimate zero waste bundle with hemp bast fiber & hurd. Sustainable living guide + US-sourced hemp. Shop now.
-  Updated: 2026-07-16T00:11:57Z
+- [Hemp Fiber for Your Home — Zero Waste Living Bundle](https://www.gaiagrowthsolutions.com/collections/sustainable-living-in-2026-welcom-you-zero-waste-living-guides): A 12-month system for cutting recurring household costs with durable hemp. Room-by-room audits, test protocols, and a savings ledger. $20 instant download.
+  Updated: 2026-07-27T06:45:45Z
   Total Products: 1
-- [Vendor Booth — End of the Summer Virtual Swap Meet](https://www.gaiagrowthsolutions.com/collections/vendor-booth-end-of-summer-virtual-swap-meet): Reserve your vendor booth for the End of the Summer Virtual Swap Meet. Join our seasonal online marketplace event and connect with buyers.
-  Updated: 2026-07-21T15:00:13Z
+- [Vendor Booth — End of the Summer Virtual Swap Meet](https://www.gaiagrowthsolutions.com/collections/vendor-booth-end-of-summer-virtual-swap-meet): Reserve a vendor booth for the End of the Summer Virtual Swap Meet, Saturday August 29, 2026. A nationwide online marketplace event. Booths from $25.
+  Updated: 2026-07-27T06:45:45Z
   Total Products: 1
 
 ## Blogs
 
 - [News](https://www.gaiagrowthsolutions.com/blogs/news)
   - [Why Switch to Industrial Hemp Fiber in 2026 | Manufacturers Guide](https://www.gaiagrowthsolutions.com/blogs/news/why-manufacturers-should-switching-from-conventional-methods-to-industrial-hemp-fiber-in-2026): Why Switch to Industrial Hemp Fiber in 2026 | Manufacturers Guide
-    Updated: 2026-07-15T15:16:29Z
+    Updated: 2026-07-27T06:43:33Z
     Author: John Brooks
     Tags: 2026, Bast Fiber, Buyer, Existing Equipment, Fiber, Hemp Fiber, Hurd, Lignin, Lignin Content, Manufacturing, manufacturing strategy market intelligence material innovation industrial sustainability future of manufacturing supply chain strategy, prices, Procurement, R&D, Wood pulp
   - [Industrial Hemp Fiber vs. Wood Pulp | Cost & Performance Compared](https://www.gaiagrowthsolutions.com/blogs/news/industrial-hemp-fiber-vs-wood-pulp-what-you-do-now-determines-your-cost-position-later): Industrial Hemp Fiber vs. Wood Pulp | Cost & Performance Compared
@@ -77,8 +71,8 @@
     Updated: 2026-07-15T15:19:29Z
     Author: John Brooks
     Tags: B2B-sourcing, hemp-composites, hemp-raw-materials, hemp-textiles, industrial-hemp-fiber, sustainable-manufacturing
-  - [Sustainability in Your Supply Chain Your Customers will thank you](https://www.gaiagrowthsolutions.com/blogs/news/sustainability-hemp-fiber-supplier-2026-gaia-growth-solutions): Sustainability in Your Supply Chain Your Customers will thank you
-    Updated: 2026-07-06T20:58:52Z
+  - [Sustainability in Your Supply Chain | Hemp Fiber at Scale](https://www.gaiagrowthsolutions.com/blogs/news/sustainability-hemp-fiber-supplier-2026-gaia-growth-solutions): Sustainability in Your Supply Chain | Hemp Fiber at Scale
+    Updated: 2026-07-25T10:38:26Z
     Author: John Brooks
     Tags: B2B hemp supplier, bulk hemp fiber, compostable packaging supplier, eco-friendly raw materials, hemp fiber 2026, hemp fiber composites, hemp fiber for manufacturing, hemp fiber for textiles, hemp fiber supplier, hemp fiber wholesale, hemp packaging materials, industrial hemp fiber, natural fiber alternatives, PFAS-free materials, SB 54 compliance, supply chain sustainability, sustainable packaging materials, sustainable supply chain
   - [Hemp Fiber vs. Fiberglass | Why Manufacturers Are Making the Switch](https://www.gaiagrowthsolutions.com/blogs/news/hemp-fiber-vs-fiberglass-a-manufacturers-comparison-for-2026): Hemp Fiber vs. Fiberglass | Why Manufacturers Are Making the Switch
@@ -93,8 +87,8 @@
     Updated: 2026-07-06T21:00:17Z
     Author: John Brooks
     Tags: green-building-2026, hemp-fiber-insulation, industrial-hemp-fiber, natural-fiber-building-materials, sustainable-construction
-  - [Buying Industrial Hemp Fiber Wholesale How American Manufactures win](https://www.gaiagrowthsolutions.com/blogs/news/buying-industrial-hemp-fiber-wholesale): Buying Industrial Hemp Fiber Wholesale How American Manufactures win
-    Updated: 2026-07-15T15:20:30Z
+  - [Buying Hemp Fiber Wholesale | Guide for US Manufacturers](https://www.gaiagrowthsolutions.com/blogs/news/buying-industrial-hemp-fiber-wholesale): Buying Hemp Fiber Wholesale | Guide for US Manufacturers
+    Updated: 2026-07-27T06:43:33Z
     Author: John Brooks
     Tags: B2B-fiber-sourcing, bulk-hemp-fiber, buy-industrial-hemp-fiber, hemp-fiber-supplier-usa, industrial-hemp-fiber
   - [Hemp Fiber for Electrical Insulation | What Engineers Need to Know](https://www.gaiagrowthsolutions.com/blogs/news/hemp-fiber-for-electrical-insulation-what-engineers-need-to-know-in-2026): Hemp Fiber for Electrical Insulation | What Engineers Need to Know
@@ -116,93 +110,39 @@
   - [The Ultimate Guide to Hemp Fiber | Properties, Uses & Sustainability](https://www.gaiagrowthsolutions.com/blogs/news/the-ultimate-guide-to-hemp-fiber-in-sustainable-textiles-2026): The Ultimate Guide to Hemp Fiber | Properties, Uses & Sustainability
     Updated: 2026-07-15T16:09:51Z
     Author: John Brooks
-  - [Hemp Fiber & Lignin for Zero-Waste Manufacturing | 2026 Strategy](https://www.gaiagrowthsolutions.com/blogs/news/sustainable-solutions-with-lignin-and-industrial-strength-hemp-fiber-a-zero-waste-strategy-for-2026): Hemp Fiber & Lignin for Zero-Waste Manufacturing | 2026 Strategy
-    Updated: 2026-07-06T21:05:26Z
-    Author: John Brooks
-    Tags: 2026, B2B hemp supplier, B2B-fiber-sourcing, B2B-manufacturing, B2B-procurement, Bast Fiber, bast-fiber-manufacturing, Cellulose, hemp, hemp fiber hemp hurd industrial hemp wood pulp alternative paper manufacturing supply chain strategy manufacturing efficiency raw material sourcing pulp market cost reduction manufacturing, Hurd
-  - [Industrial Hemp Bast Fiber for Zero-Waste Logistics | Scalable Supply](https://www.gaiagrowthsolutions.com/blogs/news/industrial-hemp-bast-fiber-zero-waste-logistics-scalable-supply): Industrial Hemp Bast Fiber for Zero-Waste Logistics | Scalable Supply
-    Updated: 2026-07-06T19:12:03Z
-    Author: John Brooks
-  - [Zero-Waste Logistics with Hemp Fiber & Lignin](https://www.gaiagrowthsolutions.com/blogs/news/sustainability-unveiled-how-zero-waste-logistics-with-lignin-and-industrial-strength-hemp-fiber-deliver-by-the-metric-ton): Zero-Waste Logistics with Hemp Fiber & Lignin
-    Updated: 2026-07-06T21:05:46Z
-    Author: John Brooks
-  - [Industrial Hemp Fiber for Zero-Waste Logistics | Scalable Supply](https://www.gaiagrowthsolutions.com/blogs/news/unraveling-the-versatility-of-industrial-strength-hemp-fiber-in-zero-waste-logistics-and-sustainable-scalability): Industrial Hemp Fiber for Zero-Waste Logistics | Scalable Supply
-    Updated: 2026-07-06T21:06:01Z
-    Author: John Brooks
-  - [Zero-Waste Living 2026 | Hemp Fiber & Lignin for Sustainable Homes](https://www.gaiagrowthsolutions.com/blogs/news/zero-waste-living-in-2026-harnessing-industrial-strength-hemp-and-lignin-for-scalable-logistics-delivering-hurd-by-the-metric-ton): Zero-Waste Living 2026 | Hemp Fiber & Lignin for Sustainable Homes
-    Updated: 2026-07-06T21:06:26Z
-    Author: John Brooks
-  - [Gaia Green Fiber | Industrial Hemp Fiber Raw Material for Manufacturers](https://www.gaiagrowthsolutions.com/blogs/news/gaia-green-fiber-industrial-hemp-fiber-zero-waste-manufacturing): Gaia Green Fiber | Industrial Hemp Fiber Raw Material for Manufacturers
-    Updated: 2026-07-06T19:15:50Z
-    Author: John Brooks
-  - [Zero-Waste Living Strategies 2026 | Hemp Fiber & Hurd at Scale](https://www.gaiagrowthsolutions.com/blogs/news/top-strategies-for-zero-waste-living-with-lignin-and-industrial-strength-hemp-fiber-in-2026-sustainable-scalability-for-delivering-hurd-by-the-metric-ton): Zero-Waste Living Strategies 2026 | Hemp Fiber & Hurd at Scale
-    Updated: 2026-07-06T21:06:42Z
-    Author: John Brooks
-  - [Sustainable Zero-Waste 2026 | Hemp Fiber & Lignin at Scale](https://www.gaiagrowthsolutions.com/blogs/news/sustainable-zero-waste-2026-hemp-fiber-lignin-scalability): Sustainable Zero-Waste 2026 | Hemp Fiber & Lignin at Scale
-    Updated: 2026-07-06T19:10:11Z
-    Author: John Brooks
-  - [Zero-Waste Hemp Fiber & Lignin | Industrial Sustainability at Scale](https://www.gaiagrowthsolutions.com/blogs/news/zero-waste-hemp-fiber-lignin-industrial-sustainability): Zero-Waste Hemp Fiber & Lignin | Industrial Sustainability at Scale
-    Updated: 2026-07-06T19:05:01Z
-    Author: John Brooks
-  - [Zero-Waste Hemp Fiber & Lignin Solutions 2026 | Scalable Logistics](https://www.gaiagrowthsolutions.com/blogs/news/zero-waste-hemp-fiber-lignin-solutions-2026): Zero-Waste Hemp Fiber & Lignin Solutions 2026 | Scalable Logistics
-    Updated: 2026-07-06T19:02:19Z
-    Author: John Brooks
-  - [Industrial Hemp Fiber & Lignin for Zero-Waste Logistics | Gaia Growth](https://www.gaiagrowthsolutions.com/blogs/news/industrial-hemp-fiber-lignin-zero-waste-scalable-logistics): Industrial Hemp Fiber & Lignin for Zero-Waste Logistics | Gaia Growth
-    Updated: 2026-07-06T19:13:06Z
-    Author: John Brooks
-  - [Lignin & Hemp Fiber for Zero-Waste Scalability | Metric Ton Delivery](https://www.gaiagrowthsolutions.com/blogs/news/unlocking-the-power-of-lignin-and-hemp-fiber-for-zero-waste-scalability-how-to-deliver-by-the-metric-ton): Lignin & Hemp Fiber for Zero-Waste Scalability | Metric Ton Delivery
-    Updated: 2026-07-06T21:07:04Z
-    Author: John Brooks
-  - [Zero-Waste Hemp Fiber Logistics 2026 | Scalable & Sustainable Supply](https://www.gaiagrowthsolutions.com/blogs/news/zero-waste-living-in-2026-transforming-sustainability-with-scalable-hemp-fiber-and-lignin-logistics-delivered-by-the-metric-ton): Zero-Waste Hemp Fiber Logistics 2026 | Scalable & Sustainable Supply
-    Updated: 2026-07-06T21:07:27Z
+  - [Hemp Fiber Sourcing Guide for Manufacturers | 5 MT Minimum](https://www.gaiagrowthsolutions.com/blogs/news/gaia-green-fiber-industrial-hemp-fiber-zero-waste-manufacturing): Hemp Fiber Sourcing Guide for Manufacturers | 5 MT Minimum
+    Updated: 2026-07-27T06:48:08Z
     Author: John Brooks
   - [Domestic Hemp Fiber Eliminates Import Tariff Risk](https://www.gaiagrowthsolutions.com/blogs/news/domestic-hemp-fiber-eliminates-import-tariff-risk): Domestic Hemp Fiber Eliminates Import Tariff Risk
-    Updated: 2026-07-06T19:17:53Z
+    Updated: 2026-07-25T10:38:26Z
     Author: John Brooks
-  - [Hemp Rebar for Structural Construction | Bio-Composite Alternative to Steel](https://www.gaiagrowthsolutions.com/blogs/news/hemp-rebar-structural-bio-composite-construction-2026): Hemp Rebar for Structural Construction | Bio-Composite Alternative to Steel
-    Updated: 2026-07-20T12:08:09Z
+  - [Hemp Rebar | The Bio-Composite Alternative to Steel](https://www.gaiagrowthsolutions.com/blogs/news/hemp-rebar-structural-bio-composite-construction-2026): Hemp Rebar | The Bio-Composite Alternative to Steel
+    Updated: 2026-07-25T10:38:26Z
     Author: John Brooks
-  - [Hemp Hurd vs Bast Fiber in Construction | HempCrete Explained](https://www.gaiagrowthsolutions.com/blogs/news/hemp-hurd-bast-fiber-sustainable-construction-guide): Hemp Hurd vs Bast Fiber in Construction | HempCrete Explained
-    Updated: 2026-07-06T18:42:55Z
+  - [HempCrete for Builders | R-Value, Hurd Specs & Sourcing](https://www.gaiagrowthsolutions.com/blogs/news/hempcrete-hemp-fiber-high-r-value-construction): HempCrete for Builders | R-Value, Hurd Specs & Sourcing
+    Updated: 2026-07-27T06:45:45Z
     Author: John Brooks
-  - [HempCrete Hemp Hurd R-Value | Bulk Supply by the Metric Ton](https://www.gaiagrowthsolutions.com/blogs/news/hempcrete-hemp-hurd-r-value-scalable-supply): HempCrete Hemp Hurd R-Value | Bulk Supply by the Metric Ton
-    Updated: 2026-07-06T18:55:35Z
+  - [The Role of Lignin in HempCrete: How Hemp Hurd Fiber Enhances R-value and Energy Efficiency](https://www.gaiagrowthsolutions.com/blogs/news/the-role-of-lignin-in-hempcrete-how-hemp-hurd-fiber-enhances-r-value-and-energy-efficiency): The Role of Lignin in HempCrete: How Hemp Hurd Fiber Enhances R-value and Energy Efficiency
+    Updated: 2026-07-30T17:53:07Z
     Author: John Brooks
-  - [HempCrete for Zero-Waste Home Building | Hemp Hurd Insulation 2026](https://www.gaiagrowthsolutions.com/blogs/news/hempcrete-zero-waste-home-building-2026): HempCrete for Zero-Waste Home Building | Hemp Hurd Insulation 2026
-    Updated: 2026-07-06T18:53:02Z
-    Author: John Brooks
-  - [HempCrete for High R-Value Construction | Hemp Hurd & Bast Fiber](https://www.gaiagrowthsolutions.com/blogs/news/hempcrete-hemp-fiber-high-r-value-construction): HempCrete for High R-Value Construction | Hemp Hurd & Bast Fiber
-    Updated: 2026-07-06T18:51:56Z
-    Author: John Brooks
-  - [HempCrete & Hemp Hurd for Large-Scale Construction | Superior R-Value](https://www.gaiagrowthsolutions.com/blogs/news/hempcrete-bast-fiber-large-scale-construction): HempCrete & Hemp Hurd for Large-Scale Construction | Superior R-Value
-    Updated: 2026-07-06T19:24:03Z
-    Author: John Brooks
-    Tags: Bast Fiber, Hemp Hurd, HempCrete, R-Value, Sustainable Construction
-  - [Hemp hurd](https://www.gaiagrowthsolutions.com/blogs/news/hemp-hurd): Hemp hurd
-    Updated: 2026-07-20T12:40:30Z
-    Author: John Brooks
-    Tags: benefits of hemp hurd, deliver by the metric ton, delivering hurd to your facility at scal, eco-friendly material, fiber, hemp, hemp bast fiber, hemp blocks, hemp floors, hemp hurd applications, hemp hurd fiber, hempcrete, hurd, lignin, logistics, natural insulation, r-value, scalability, sustainable construction
-  - [Hemp-rebar-structural-bio-composite-construction-2026](https://www.gaiagrowthsolutions.com/blogs/news/hemp-rebar-structural-bio-composite-construction-2027): Hemp-rebar-structural-bio-composite-construction-2026
-    Updated: 2026-07-22T02:22:35Z
-    Author: John Brooks
-    Tags: bio-composite, construction, deliver by the metric ton, delivering hurd to your facility at scal, fiber, hemp, hemp bast fiber, hemp blocks, hemp floors, hemp hurd fiber, hemp hurdles, hemp in construction, hempcrete, lignin, logistics, r-value, scalability, structural materials, sustainable building materials
+    Tags: deliver by the metric ton, delivering hurd to your facility at scal, eco-friendly construction techniques, energy efficiency, fiber, hemp, hemp bast fiber, hemp blocks, hemp floors, hemp hurd, hemp hurd fiber, hempcrete, lignin, logistics, r-value, r-value insulation, scalability, sustainable building materials
 
 ## Store Pages
 
 - [Contact Gaia Growth Solutions | Bulk Industrial Hemp Fiber Supplier](https://www.gaiagrowthsolutions.com/pages/contact): Let's Talk Hemp Fiber If you're evaluating industrial hemp fiber as a raw material input — or you're already convinced and just need a reliable sup...
   Updated: 2026-07-14T15:46:37Z
-- [Natural Fiber, Cellulose, Wholesale Supplier US, Grown](https://www.gaiagrowthsolutions.com/pages/who-we-are): Gaia Growth Solutions is a U.S.-based bulk supplier of natural fiber and raw plant material for industrial manufacturing. We supply processors, bui...
-  Updated: 2026-07-14T15:42:10Z
-- [Our Story | Gaia Growth Solutions](https://www.gaiagrowthsolutions.com/pages/our-story): 
-  Updated: 2026-04-10T16:56:18Z
+- [Who We Are | US Bulk Hemp Hurd & Bast Fiber Supplier](https://www.gaiagrowthsolutions.com/pages/who-we-are): Gaia Growth Solutions is a U.S.-based bulk supplier of natural fiber and raw plant material for industrial manufacturing. We supply processors, bui...
+  Updated: 2026-07-24T20:58:04Z
+- [Our Story | Why We Built a US Hemp Fiber Supply Chain](https://www.gaiagrowthsolutions.com/pages/our-story): 
+  Updated: 2026-07-24T20:58:05Z
 - [Frequently Asked Questions | Gaia Growth Solutions](https://www.gaiagrowthsolutions.com/pages/frequently-asked-questions): Frequently Asked Questions Industrial Hemp Fiber Supply for Manufacturers What grades of industrial hemp fiber does Gaia Growth Solutions supply? W...
-  Updated: 2026-07-14T15:56:13Z
+  Updated: 2026-07-25T10:10:25Z
 - [Bulk Hemp Bast Fiber & Hemp Hurd Supplier | Gaia Growth Solutions](https://www.gaiagrowthsolutions.com/pages/who-we-serve): Who Buys From Gaia Growth Solutions We  bulk hemp bast fiber and hemp hurd to manufacturers, builders, and distributors who need a supplier tha...
   Updated: 2026-07-05T14:46:59Z
-- [End of the Summer Virtual Swap Meet](https://www.gaiagrowthsolutions.com/pages/virtual-swap-meet): .gg-mall{ --paper:#FFF9F0; --ink:#26331F; --ink-soft:#5C6653; --green:#1E5B4F; --green-deep:#16453C; --marigold:#F5B841; --line:#EAE0CB; --card:#FF...
-  Updated: 2026-07-21T14:54:55Z
-- [Vendor Sign-Up — End of the Summer Virtual Swap Meet](https://www.gaiagrowthsolutions.com/pages/vendor-signup): .vs-wrap{max-width:640px;margin:0 auto;padding:10px 4px 40px;font-family:'Karla',system-ui,sans-serif;color:#26331F} .vs-hero{background:#1E5B4F;co...
-  Updated: 2026-07-21T15:23:57Z
+- [End of Summer Virtual Swap Meet | August 29, 2026](https://www.gaiagrowthsolutions.com/pages/virtual-swap-meet): .gg-mall{ --paper:#FFF9F0; --ink:#26331F; --ink-soft:#5C6653; --green:#1E5B4F; --green-deep:#16453C; --marigold:#F5B841; --line:#EAE0CB; --card:#FF...
+  Updated: 2026-07-24T20:58:05Z
+- [Vendor Sign-Up | End of Summer Virtual Swap Meet 2026](https://www.gaiagrowthsolutions.com/pages/vendor-signup): .vs-wrap{max-width:640px;margin:0 auto;padding:10px 4px 40px;font-family:'Karla',system-ui,sans-serif;color:#26331F} .vs-hero{background:#1E5B4F;co...
+  Updated: 2026-07-28T14:25:24Z
 
 ## Policies
 
