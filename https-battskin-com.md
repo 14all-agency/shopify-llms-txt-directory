@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2026-02-10T08:47:42Z
 - Contact Email: sales@battskin.com
-- Updated At: 2026-07-23T02:43:40.584Z
+- Updated At: 2026-07-31T00:00:32.736Z
 
 Home Battery Covers - Protect Your Solar Battery
 Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, BYD and GoodWe Home Solar Battery from heat, UV and harsh weather — extending the life of your Solar Batteries.
@@ -21,14 +21,14 @@ Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, B
   Image: https://cdn.shopify.com/s/files/1/0659/8406/9691/files/SmartChargerOptimizer.png?v=1770806966
   Price: $14.99 AUD
 - [Advanced Sunshield for Home Batteries - Battskin Lite](https://battskin.com/products/battskin-sunshield): Keep your home battery cool and safe with Battskin Sunshield, designed to enhance solar battery storage solutions for better efficiency, safety & lifespan.
-  Updated: 2026-07-02T00:45:53Z
+  Updated: 2026-07-24T10:55:52Z
   Vendor: Battskin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8406/9691/files/Frame18_6.png?v=1770806992
   Price: $335.00 AUD
 - [SunShield Pro - Keep Your Home Battery Cool & Safe](https://battskin.com/products/r-dee-sunshield-pro): R&DEE SunShield Pro keeps your Australian home battery safe from heat while working with a home solar battery monitoring system for lasting performance.
-  Updated: 2026-07-02T00:28:56Z
+  Updated: 2026-07-24T10:47:36Z
   Vendor: Battskin
   Product Type: 
   Availability: Available
@@ -45,7 +45,7 @@ Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, B
 
 - [News](https://battskin.com/blogs/news)
   - [Understand Next Steps After 250K Battery Installations](https://battskin.com/blogs/news/federal-battery-rebate-passes-250-000-installs-what-happens-next): Understand Next Steps After 250K Battery Installations
-    Updated: 2026-06-08T05:06:08Z
+    Updated: 2026-07-27T11:15:09Z
     Author: Ian Boake
   - [Protect Your Battery From Heat Damage and Failure](https://battskin.com/blogs/news/your-home-battery-isn-t-dying-it-s-overheating-what-most-homeowners-miss): Protect Your Battery From Heat Damage and Failure
     Updated: 2026-05-26T10:35:48Z
