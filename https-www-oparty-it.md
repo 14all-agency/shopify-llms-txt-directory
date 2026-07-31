@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2021-01-09T19:52:42Z
 - Contact Email: opartysrl@gmail.com
-- Updated At: 2026-07-23T00:00:38.742Z
+- Updated At: 2026-07-31T00:00:44.626Z
 
 ## Products
 
@@ -430,11 +430,221 @@
   Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/products/pollicelikegigante.jpg?v=1666020169
   Price: 19,90 € EUR
 - [Striscione Evento Aziendale](https://www.oparty.it/products/striscione-evento-aziendale): Striscione benvenuto per bambini, ideale per festeggiare le nuove nascite. Personalizzabile inserendo il proprio nome. Spedizione gratuita disponibile
-  Updated: 2025-01-27T10:29:20Z
+  Updated: 2026-07-24T01:09:25Z
   Vendor: Oparty
   Product Type: Striscioni
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Striscione_mobile.jpg?v=1630414443
   Price: 29,00 € EUR
+- [Roll-Up Personalizzato per Eventi 80x200 cm](https://www.oparty.it/products/roll-up-personalizzato-per-eventi-80x200-cm): Caratteristiche del prodotto Roll-up pubblicitario con stampa digitale ad alta definizione inclusa Struttura in alluminio con base in metallo avvolgibile Meccanismo di riavvolgimento automatico della grafica Montaggio rapido, senza attrezzi Borsa da trasporto inclusa Personalizzabile dalla A alla Z con logo e grafica a tua scelta Dimensioni banner: 80 x 200 cm - Peso: 5 kg Ideale per fiere, negozi, reception, eventi aziendali, congressi, feste e cerimonie Spedizione con corriere espresso 24/48 ore
+  Updated: 2026-07-24T00:42:48Z
+  Vendor: Oparty
+  Product Type: Accessori
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Rolluppersonalizzato.jpg?v=1784809082
+  Price: 97,00 € EUR
+- [Roll-Up Personalizzato per Eventi 100x200 cm](https://www.oparty.it/products/roll-up-personalizzato-per-eventi-100x200-cm): Caratteristiche del prodotto Roll-up pubblicitario con stampa digitale ad alta definizione inclusa Struttura in alluminio con base in metallo avvolgibile, formato ampio per massima visibilità Meccanismo di riavvolgimento automatico della grafica Montaggio rapido, senza attrezzi Borsa da trasporto inclusa Personalizzabile dalla A alla Z con logo e grafica a tua scelta Dimensioni banner: 100 x 200 cm - Peso: 12 kg Ideale per fiere, congressi, punti vendita, grandi vetrine, eventi aziendali Spedizione con corriere espresso 24/48 ore
+  Updated: 2026-07-24T00:38:48Z
+  Vendor: Oparty
+  Product Type: Accessori
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Rolluppersonalizzato_3ab76354-ddeb-469d-b1e3-d19b7cc89b68.jpg?v=1784809085
+  Price: 119,00 € EUR
+- [Roll-Up Personalizzato per Eventi 200x200 cm](https://www.oparty.it/products/roll-up-personalizzato-per-eventi-200x200-cm): Caratteristiche del prodotto Formato maxi per il massimo impatto visivo, ideale per grandi spazi espositivi Struttura in alluminio con base in metallo avvolgibile Meccanismo di riavvolgimento automatico della grafica Montaggio rapido, senza attrezzi Borsa da trasporto inclusa Personalizzabile dalla A alla Z con logo e grafica a tua scelta Dimensioni banner: 200 x 200 cm - Peso: 13,5 kg Ideale per grandi eventi, fiere, congressi, allestimenti di grande formato Spedizione con corriere espresso 24/48 ore
+  Updated: 2026-07-24T00:34:58Z
+  Vendor: Oparty
+  Product Type: Accessori
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Rolluppersonalizzato_a0e88cb6-5d4f-449c-902c-9b64438a8872.jpg?v=1784809089
+  Price: 297,00 € EUR
+- [Foto su Tela Matrimonio – Quadro Personalizzato con Cornice](https://www.oparty.it/products/foto-su-tela-matrimonio-quadro-personalizzato-con-cornice): Caratteristiche del prodotto Foto stampata su tela canvas di alta qualità, effetto quadro pittorico Disponibile con o senza telaio in legno 4 formati disponibili: 50x70, 70x100, 100x100, 100x140 cm Personalizzabile con la tua foto preferita Stampa digitale ad alta definizione Ideale come regalo di nozze o ricordo del matrimonio Spedizione con corriere espresso 24/48 ore
+  Updated: 2026-07-24T00:57:35Z
+  Vendor: Oparty
+  Product Type: Cornici
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_kv9wkxkv9wkxkv9w_b6267c5d-8248-4b56-b963-a145314087a9.png?v=1784811442
+  - [50x70 / Senza telaio](https://www.oparty.it/products/foto-su-tela-matrimonio-quadro-personalizzato-con-cornice?variant=54465175945562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_kv9wkxkv9wkxkv9w_b6267c5d-8248-4b56-b963-a145314087a9.png?v=1784811442
+    Price: 47,00 € EUR
+  - [50x70 / Con telaio](https://www.oparty.it/products/foto-su-tela-matrimonio-quadro-personalizzato-con-cornice?variant=54465175978330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_kv9wkxkv9wkxkv9w_b6267c5d-8248-4b56-b963-a145314087a9.png?v=1784811442
+    Price: 115,00 € EUR
+  - [70x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-matrimonio-quadro-personalizzato-con-cornice?variant=54465176011098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_kv9wkxkv9wkxkv9w_b6267c5d-8248-4b56-b963-a145314087a9.png?v=1784811442
+    Price: 49,00 € EUR
+  - [70x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-matrimonio-quadro-personalizzato-con-cornice?variant=54465176043866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_kv9wkxkv9wkxkv9w_b6267c5d-8248-4b56-b963-a145314087a9.png?v=1784811442
+    Price: 125,00 € EUR
+  - [100x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-matrimonio-quadro-personalizzato-con-cornice?variant=54465176076634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_kv9wkxkv9wkxkv9w_b6267c5d-8248-4b56-b963-a145314087a9.png?v=1784811442
+    Price: 69,00 € EUR
+  - [100x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-matrimonio-quadro-personalizzato-con-cornice?variant=54465176109402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_kv9wkxkv9wkxkv9w_b6267c5d-8248-4b56-b963-a145314087a9.png?v=1784811442
+    Price: 139,00 € EUR
+  - [100x140 / Senza telaio](https://www.oparty.it/products/foto-su-tela-matrimonio-quadro-personalizzato-con-cornice?variant=54465176142170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_kv9wkxkv9wkxkv9w_b6267c5d-8248-4b56-b963-a145314087a9.png?v=1784811442
+    Price: 97,00 € EUR
+  - [100x140 / Con telaio](https://www.oparty.it/products/foto-su-tela-matrimonio-quadro-personalizzato-con-cornice?variant=54465176174938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_kv9wkxkv9wkxkv9w_b6267c5d-8248-4b56-b963-a145314087a9.png?v=1784811442
+    Price: 162,00 € EUR
+- [Foto su Tela Laurea – Quadro Personalizzato con Cornice](https://www.oparty.it/products/foto-su-tela-laurea-quadro-personalizzato-con-cornice): Caratteristiche del prodotto Foto stampata su tela canvas di alta qualità, effetto quadro pittorico Disponibile con o senza telaio in legno 4 formati disponibili: 50x70, 70x100, 100x100, 100x140 cm Personalizzabile con la tua foto preferita Stampa digitale ad alta definizione Ideale come regalo per la laurea, un ricordo speciale del traguardo raggiunto Spedizione con corriere espresso 24/48 ore
+  Updated: 2026-07-24T00:59:43Z
+  Vendor: Oparty
+  Product Type: Cornici
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_q82r81q82r81q82r_0a55024d-1141-4fd7-a815-4dfa08aff337.png?v=1784811447
+  - [50x70 / Senza telaio](https://www.oparty.it/products/foto-su-tela-laurea-quadro-personalizzato-con-cornice?variant=54465176469850)
+    Availability: Available
+    Price: 47,00 € EUR
+  - [50x70 / Con telaio](https://www.oparty.it/products/foto-su-tela-laurea-quadro-personalizzato-con-cornice?variant=54465176502618)
+    Availability: Available
+    Price: 115,00 € EUR
+  - [70x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-laurea-quadro-personalizzato-con-cornice?variant=54465176535386)
+    Availability: Available
+    Price: 49,00 € EUR
+  - [70x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-laurea-quadro-personalizzato-con-cornice?variant=54465176568154)
+    Availability: Available
+    Price: 125,00 € EUR
+  - [100x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-laurea-quadro-personalizzato-con-cornice?variant=54465176600922)
+    Availability: Available
+    Price: 69,00 € EUR
+  - [100x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-laurea-quadro-personalizzato-con-cornice?variant=54465176633690)
+    Availability: Available
+    Price: 139,00 € EUR
+  - [100x140 / Senza telaio](https://www.oparty.it/products/foto-su-tela-laurea-quadro-personalizzato-con-cornice?variant=54465176666458)
+    Availability: Available
+    Price: 97,00 € EUR
+  - [100x140 / Con telaio](https://www.oparty.it/products/foto-su-tela-laurea-quadro-personalizzato-con-cornice?variant=54465176699226)
+    Availability: Available
+    Price: 162,00 € EUR
+- [Foto su Tela Evento Aziendale – Quadro Personalizzato con Cornice](https://www.oparty.it/products/foto-su-tela-evento-aziendale-quadro-personalizzato-con-cornice): Caratteristiche del prodotto Foto stampata su tela canvas di alta qualità, effetto quadro pittorico Disponibile con o senza telaio in legno 4 formati disponibili: 50x70, 70x100, 100x100, 100x140 cm Personalizzabile con la tua foto preferita Stampa digitale ad alta definizione Ideale per celebrare eventi aziendali, anniversari lavorativi, conferenze Spedizione con corriere espresso 24/48 ore
+  Updated: 2026-07-24T00:57:47Z
+  Vendor: Oparty
+  Product Type: Cornici
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_cheqxrcheqxrcheq_f9c3be8f-627d-4f7d-8419-07c0be838a04.png?v=1784811452
+  - [50x70 / Senza telaio](https://www.oparty.it/products/foto-su-tela-evento-aziendale-quadro-personalizzato-con-cornice?variant=54465176764762)
+    Availability: Available
+    Price: 47,00 € EUR
+  - [50x70 / Con telaio](https://www.oparty.it/products/foto-su-tela-evento-aziendale-quadro-personalizzato-con-cornice?variant=54465176797530)
+    Availability: Available
+    Price: 115,00 € EUR
+  - [70x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-evento-aziendale-quadro-personalizzato-con-cornice?variant=54465176830298)
+    Availability: Available
+    Price: 49,00 € EUR
+  - [70x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-evento-aziendale-quadro-personalizzato-con-cornice?variant=54465176863066)
+    Availability: Available
+    Price: 125,00 € EUR
+  - [100x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-evento-aziendale-quadro-personalizzato-con-cornice?variant=54465176895834)
+    Availability: Available
+    Price: 69,00 € EUR
+  - [100x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-evento-aziendale-quadro-personalizzato-con-cornice?variant=54465176928602)
+    Availability: Available
+    Price: 139,00 € EUR
+  - [100x140 / Senza telaio](https://www.oparty.it/products/foto-su-tela-evento-aziendale-quadro-personalizzato-con-cornice?variant=54465176961370)
+    Availability: Available
+    Price: 97,00 € EUR
+  - [100x140 / Con telaio](https://www.oparty.it/products/foto-su-tela-evento-aziendale-quadro-personalizzato-con-cornice?variant=54465176994138)
+    Availability: Available
+    Price: 162,00 € EUR
+- [Foto su Tela Compleanno – Quadro Personalizzato con Cornice](https://www.oparty.it/products/foto-su-tela-compleanno-quadro-personalizzato-con-cornice): Caratteristiche del prodotto Foto stampata su tela canvas di alta qualità, effetto quadro pittorico Disponibile con o senza telaio in legno 4 formati disponibili: 50x70, 70x100, 100x100, 100x140 cm Personalizzabile con la tua foto preferita Stampa digitale ad alta definizione Ideale come regalo di compleanno originale e personale Spedizione con corriere espresso 24/48 ore
+  Updated: 2026-07-24T01:00:47Z
+  Vendor: Oparty
+  Product Type: Cornici
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_adlnyadlnyadlnya_5a8d9f15-bfc8-483d-a888-b59aa79b92ae.png?v=1784811459
+  - [50x70 / Senza telaio](https://www.oparty.it/products/foto-su-tela-compleanno-quadro-personalizzato-con-cornice?variant=54465177092442)
+    Availability: Available
+    Price: 47,00 € EUR
+  - [50x70 / Con telaio](https://www.oparty.it/products/foto-su-tela-compleanno-quadro-personalizzato-con-cornice?variant=54465177125210)
+    Availability: Available
+    Price: 115,00 € EUR
+  - [70x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-compleanno-quadro-personalizzato-con-cornice?variant=54465177157978)
+    Availability: Available
+    Price: 49,00 € EUR
+  - [70x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-compleanno-quadro-personalizzato-con-cornice?variant=54465177190746)
+    Availability: Available
+    Price: 125,00 € EUR
+  - [100x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-compleanno-quadro-personalizzato-con-cornice?variant=54465177223514)
+    Availability: Available
+    Price: 69,00 € EUR
+  - [100x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-compleanno-quadro-personalizzato-con-cornice?variant=54465177256282)
+    Availability: Available
+    Price: 139,00 € EUR
+  - [100x140 / Senza telaio](https://www.oparty.it/products/foto-su-tela-compleanno-quadro-personalizzato-con-cornice?variant=54465177289050)
+    Availability: Available
+    Price: 97,00 € EUR
+  - [100x140 / Con telaio](https://www.oparty.it/products/foto-su-tela-compleanno-quadro-personalizzato-con-cornice?variant=54465177321818)
+    Availability: Available
+    Price: 162,00 € EUR
+- [Foto su Tela Comunione – Quadro Personalizzato con Cornice](https://www.oparty.it/products/foto-su-tela-comunione-quadro-personalizzato-con-cornice): Caratteristiche del prodotto Foto stampata su tela canvas di alta qualità, effetto quadro pittorico Disponibile con o senza telaio in legno 4 formati disponibili: 50x70, 70x100, 100x100, 100x140 cm Personalizzabile con la tua foto preferita Stampa digitale ad alta definizione Ideale come ricordo della Prima Comunione Spedizione con corriere espresso 24/48 ore
+  Updated: 2026-07-24T00:59:41Z
+  Vendor: Oparty
+  Product Type: Cornici
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_fidaeffidaeffida_23c7796e-5e26-41cb-a0ef-fec0460631fd.png?v=1784811465
+  - [50x70 / Senza telaio](https://www.oparty.it/products/foto-su-tela-comunione-quadro-personalizzato-con-cornice?variant=54465177452890)
+    Availability: Available
+    Price: 47,00 € EUR
+  - [50x70 / Con telaio](https://www.oparty.it/products/foto-su-tela-comunione-quadro-personalizzato-con-cornice?variant=54465177485658)
+    Availability: Available
+    Price: 115,00 € EUR
+  - [70x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-comunione-quadro-personalizzato-con-cornice?variant=54465177518426)
+    Availability: Available
+    Price: 49,00 € EUR
+  - [70x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-comunione-quadro-personalizzato-con-cornice?variant=54465177551194)
+    Availability: Available
+    Price: 125,00 € EUR
+  - [100x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-comunione-quadro-personalizzato-con-cornice?variant=54465177583962)
+    Availability: Available
+    Price: 69,00 € EUR
+  - [100x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-comunione-quadro-personalizzato-con-cornice?variant=54465177616730)
+    Availability: Available
+    Price: 139,00 € EUR
+  - [100x140 / Senza telaio](https://www.oparty.it/products/foto-su-tela-comunione-quadro-personalizzato-con-cornice?variant=54465177649498)
+    Availability: Available
+    Price: 97,00 € EUR
+  - [100x140 / Con telaio](https://www.oparty.it/products/foto-su-tela-comunione-quadro-personalizzato-con-cornice?variant=54465177682266)
+    Availability: Available
+    Price: 162,00 € EUR
+- [Foto su Tela Neonato – Quadro Personalizzato con Cornice](https://www.oparty.it/products/foto-su-tela-neonato-quadro-personalizzato-con-cornice): Caratteristiche del prodotto Foto stampata su tela canvas di alta qualità, effetto quadro pittorico Disponibile con o senza telaio in legno 4 formati disponibili: 50x70, 70x100, 100x100, 100x140 cm Personalizzabile con la tua foto preferita Stampa digitale ad alta definizione Ideale come ricordo di nascita o regalo per il battesimo Spedizione con corriere espresso 24/48 ore
+  Updated: 2026-07-24T00:58:23Z
+  Vendor: Oparty
+  Product Type: Cornici
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0526/0424/0034/files/Gemini_Generated_Image_jpyey6jpyey6jpye_2b68b240-8a70-4cf2-973b-e5ad071a5eca.png?v=1784811473
+  - [50x70 / Senza telaio](https://www.oparty.it/products/foto-su-tela-neonato-quadro-personalizzato-con-cornice?variant=54465177747802)
+    Availability: Available
+    Price: 47,00 € EUR
+  - [50x70 / Con telaio](https://www.oparty.it/products/foto-su-tela-neonato-quadro-personalizzato-con-cornice?variant=54465177780570)
+    Availability: Available
+    Price: 115,00 € EUR
+  - [70x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-neonato-quadro-personalizzato-con-cornice?variant=54465177813338)
+    Availability: Available
+    Price: 49,00 € EUR
+  - [70x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-neonato-quadro-personalizzato-con-cornice?variant=54465177846106)
+    Availability: Available
+    Price: 125,00 € EUR
+  - [100x100 / Senza telaio](https://www.oparty.it/products/foto-su-tela-neonato-quadro-personalizzato-con-cornice?variant=54465177878874)
+    Availability: Available
+    Price: 69,00 € EUR
+  - [100x100 / Con telaio](https://www.oparty.it/products/foto-su-tela-neonato-quadro-personalizzato-con-cornice?variant=54465177911642)
+    Availability: Available
+    Price: 139,00 € EUR
+  - [100x140 / Senza telaio](https://www.oparty.it/products/foto-su-tela-neonato-quadro-personalizzato-con-cornice?variant=54465177944410)
+    Availability: Available
+    Price: 97,00 € EUR
+  - [100x140 / Con telaio](https://www.oparty.it/products/foto-su-tela-neonato-quadro-personalizzato-con-cornice?variant=54465177977178)
+    Availability: Available
+    Price: 162,00 € EUR
 
 ## Collections
 
@@ -445,41 +655,50 @@
   Updated: 2026-07-17T11:08:27Z
   Total Products: 30
 - [Tutti i Prodotti](https://www.oparty.it/collections/tutti-i-prodotti): Scopri tutti i prodotti personalizzabili Oparty per rendere unico il tuo evento! Cornici selfie, striscioni, accessori photo booth, oggetti giganti, etc.
-  Updated: 2026-07-17T11:08:27Z
-  Total Products: 34
+  Updated: 2026-07-23T13:06:39Z
+  Total Products: 43
 - [OrderlyEmails - Recommended Products](https://www.oparty.it/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-07-17T11:08:27Z
-  Total Products: 38
+  Updated: 2026-07-23T13:06:39Z
+  Total Products: 47
 - [Cornici Natale e Capodanno](https://www.oparty.it/collections/natale-e-capodanno): Cornici photo booth a tema di Natale e Capodanno. Ideali per divertire gli ospiti durante le feste, eventi privati e aziendali. Personalizza il tuo party!
   Updated: 2023-12-16T21:47:37Z
   Total Products: 2
 - [Tutti Gli Accessori](https://www.oparty.it/collections/tutti-gli-accessori): Scopri la nostra collezione di accessori personalizzabili. Ideale per coinvolgere gli invitati e fare fotografie divertenti. Spedizione gratuita 24/48h
-  Updated: 2026-06-17T14:38:53Z
-  Total Products: 4
+  Updated: 2026-07-23T12:22:07Z
+  Total Products: 7
 - [Cornici Wedding](https://www.oparty.it/collections/cornici-wedding): Scopri le nostra collezione di cornici a tema wedding. Ideale per coinvolgere gli invitati e fare fotografie divertenti. Spedizione gratuita 24/48 ore.
   Updated: 2026-07-17T11:08:27Z
   Total Products: 15
-- [Wedding](https://www.oparty.it/collections/wedding): Scopri la nostra collezione di prodotti a tema wedding. Ideale per coinvolgere gli invitati e fare fotografie divertenti. Spedizione gratuita 24/48 ore.
-  Updated: 2026-07-17T11:08:27Z
-  Total Products: 16
+- [Wedding - Matrimonio](https://www.oparty.it/collections/wedding): Scopri la nostra collezione di prodotti a tema wedding. Ideale per coinvolgere gli invitati e fare fotografie divertenti. Spedizione gratuita 24/48 ore.
+  Updated: 2026-07-23T13:06:08Z
+  Total Products: 17
 - [Social](https://www.oparty.it/collections/social): Scopri la nostra collezione di prodotti a tema social. Ideale per coinvolgere gli invitati e fare fotografie divertenti. Spedizione gratuita 24/48 ore.
   Updated: 2026-07-17T11:08:27Z
   Total Products: 8
 - [Laurea](https://www.oparty.it/collections/laurea)
-  Updated: 2026-07-17T11:08:27Z
-  Total Products: 10
-- [Comunione](https://www.oparty.it/collections/comunione)
-  Updated: 2026-07-17T11:08:27Z
+  Updated: 2026-07-23T13:06:12Z
   Total Products: 11
+- [Comunione](https://www.oparty.it/collections/comunione)
+  Updated: 2026-07-23T13:06:33Z
+  Total Products: 12
 - [Compleanno](https://www.oparty.it/collections/compleanni)
-  Updated: 2026-07-17T11:08:27Z
-  Total Products: 8
+  Updated: 2026-07-23T13:06:24Z
+  Total Products: 9
 - [Neon](https://www.oparty.it/collections/neon)
   Updated: 2023-11-12T19:03:41Z
   Total Products: 0
 - [Neonato](https://www.oparty.it/collections/neonati)
   Updated: 2026-06-08T13:10:11Z
   Total Products: 5
+- [Roll-Up Personalizzati per Eventi](https://www.oparty.it/collections/roll-up-personalizzati-per-eventi): Roll-up pubblicitari personalizzati per il tuo evento! Disponibili in tre formati, tutti con stampa digitale ad alta definizione e telaio in legno inclusi!
+  Updated: 2026-07-23T12:25:33Z
+  Total Products: 3
+- [Foto su Tela con Cornice](https://www.oparty.it/collections/foto-su-tela-con-cornice): Trasforma i tuoi ricordi più belli in un quadro su tela canvas, con o senza telaio in legno. Perfetta per matrimoni, lauree, compleanni, comunioni, eventi aziendali e per celebrare la nascita di un bambino.
+  Updated: 2026-07-23T13:06:39Z
+  Total Products: 6
+- [Eventi Aziendali - Prodotti Personalizzati](https://www.oparty.it/collections/eventi-aziendali)
+  Updated: 2026-07-23T13:06:20Z
+  Total Products: 8
 
 ## Store Pages
 
