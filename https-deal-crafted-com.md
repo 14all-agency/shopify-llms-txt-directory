@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-04-07T04:56:42Z
 - Contact Email: rpulsifer@-crafted.com
-- Updated At: 2026-07-05T00:00:33.800Z
+- Updated At: 2026-07-31T00:00:40.713Z
 
 ## Collections
 
@@ -70,6 +70,22 @@
     Updated: 2026-06-30T06:01:54Z
     Author: -Crafted Editorial Team
     Tags: ai, ai for distribution optimization, ai implementation for distributors, business process automation, data analysis, distribution, distributor automation, implementing ai in wholesale distributio, inventory management, operational efficiency wholesale, supply chain, wholesale, wholesale distribution ai
+  - [Risk Mitigation in Wholesale Distribution through AI](https://-crafted.com/blogs/-crafted-journal/risk-mitigation-in-wholesale-distribution-through-ai): Risk Mitigation in Wholesale Distribution through AI
+    Updated: 2026-07-07T06:01:32Z
+    Author: -Crafted Editorial Team
+    Tags: ai, ai implementation for distributors, ai in wholesale distribution, business process automation, distribution, distributor automation, inventory optimization, mitigating risks with ai, operational efficiency wholesale, risk management, supply chain, wholesale, wholesale distribution ai
+  - [Leveraging AI for Improved Business Process Automation in Distribution](https://-crafted.com/blogs/-crafted-journal/leveraging-ai-for-improved-business-process-automation-in-distribution): Leveraging AI for Improved Business Process Automation in Distribution
+    Updated: 2026-07-14T06:01:27Z
+    Author: -Crafted Editorial Team
+    Tags: ai, ai implementation for distributors, ai in distribution, automation, business process automation, business processes, distribution, distributor automation, improving distribution efficiency, inventory management, operational efficiency wholesale, supply chain, wholesale distribution ai
+  - [AI-Driven Decision-Making in the Distribution Industry](https://-crafted.com/blogs/-crafted-journal/ai-driven-decision-making-in-the-distribution-industry): AI-Driven Decision-Making in the Distribution Industry
+    Updated: 2026-07-21T06:01:30Z
+    Author: -Crafted Editorial Team
+    Tags: ai, ai implementation for distributors, ai in wholesale, business process automation, data analysis, decision-making tools, distribution, distributor automation, forecasting, inventory management, operational efficiency wholesale, supply chain, wholesale distribution ai
+  - [Achieving Greater Efficiency in Distribution with Strategic AI](https://-crafted.com/blogs/-crafted-journal/achieving-greater-efficiency-in-distribution-with-strategic-ai): Achieving Greater Efficiency in Distribution with Strategic AI
+    Updated: 2026-07-28T06:01:16Z
+    Author: -Crafted Editorial Team
+    Tags: ai, ai for wholesale distribution, ai implementation for distributors, business process automation, data management, distribution, distributor automation, efficiency, operational efficiency wholesale, strategic ai in logistics, supply chain, wholesale distribution ai, wholesale solutions
 
 ## Policies
 
