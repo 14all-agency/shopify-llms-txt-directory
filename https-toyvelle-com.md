@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-04-02T14:16:26Z
 - Contact Email: support@toyvelle.com
-- Updated At: 2026-07-23T00:00:37.897Z
+- Updated At: 2026-07-31T00:00:41.927Z
 
 ## Products
 
@@ -775,126 +775,126 @@
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/XXX_Warrior-Oud_Cologne_Pheromone_Infused_Air_Freshener.jpg?v=1775228348
   Price: $14.99 USD
 - [Our  JourneyVibratorsPisces Mini Vibe](https://toyvelle.com/products/pisces-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Pisces (February 19 – March 20)  Style: Dreamy, emotional, and imaginative. Pisce ...
-  Updated: 2026-06-22T09:48:00Z
+  Updated: 2026-07-24T05:51:12Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_fe79effc-0603-4cb4-8b94-8f5acb316152.jpg?v=1775228349
   Price: $59.99 USD
 - [Our  JourneyVibratorsAquarius Mini Vibe](https://toyvelle.com/products/aquarius-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Aquarius (January 20 – February 18)  Style: Unconventional, innovative, and exper ...
-  Updated: 2026-06-22T09:48:00Z
+  Updated: 2026-07-24T05:50:47Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_37c7f229-ba68-4b66-b904-438edb5dd2bf.jpg?v=1775228351
   Price: $59.99 USD
 - [Our  JourneyVibratorsCapricorn Mini Vibe](https://toyvelle.com/products/capricorn-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Capricorn (December 22 – January 19)  Style: Patient, disciplined, and focused. C ...
-  Updated: 2026-06-22T09:48:00Z
+  Updated: 2026-07-24T05:50:27Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Capricorn_Mini_Vibe_800x800_10598cf8-dba7-44a9-a56a-b8affb1248b5.jpg?v=1775228352
   Price: $59.99 USD
 - [Our  JourneyVibratorsSagittarius Mini Vibe](https://toyvelle.com/products/sagittarius-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Sagittarius (November 22 – December 21)  Style: Free-spirited, adventurous, and o ...
-  Updated: 2026-06-22T09:48:00Z
+  Updated: 2026-07-24T05:53:17Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_d3586bd5-8771-42a0-a423-53865f79bed6.jpg?v=1775228353
   Price: $59.99 USD
 - [Our  JourneyVibratorsScorpio Mini Vibe](https://toyvelle.com/products/scorpio-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Scorpio (October 23 – November 21)  Style: Intense, passionate, and magnetic. Sco ...
-  Updated: 2026-06-22T09:48:00Z
+  Updated: 2026-07-24T05:55:16Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_129d9d35-08c3-4d1d-9507-bc08ded6c2fb.jpg?v=1775228355
   Price: $59.99 USD
 - [Our  JourneyVibratorsLibra Mini Vibe](https://toyvelle.com/products/libra-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Libra (September 23 – October 22)  Style: Elegant, romantic, and harmonious. Libr ...
-  Updated: 2026-06-22T09:48:00Z
+  Updated: 2026-07-24T05:57:31Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_4da938f4-1ded-44f1-bd21-735a0d3b9383.jpg?v=1775228356
   Price: $59.99 USD
 - [Our  JourneyVibratorsVirgo Mini Vibe](https://toyvelle.com/products/virgo-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Virgo (August 23 – September 22)  Style: Methodical, attentive, and precise. Virg ...
-  Updated: 2026-06-22T09:48:00Z
+  Updated: 2026-07-24T05:59:16Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_046c7518-3552-4c1c-8787-70b16aa8cac9.jpg?v=1775228357
   Price: $59.99 USD
 - [Our  JourneyVibratorsLeo Mini Vibe](https://toyvelle.com/products/leo-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Leo (July 23 – August 22)  Style: Confident, passionate, and dramatic. Leo loves  ...
-  Updated: 2026-06-22T09:48:01Z
+  Updated: 2026-07-24T06:02:10Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Leo_Mini_Vibe_800x800_2f340452-5fac-4e00-9ea6-f071286dbb9f.jpg?v=1775228359
   Price: $59.99 USD
 - [Our  JourneyVibratorsCancer Mini Vibe](https://toyvelle.com/products/cancer-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Cancer (June 21 – July 22)  Style: Deeply emotional, tender, and intimate. Cancer ...
-  Updated: 2026-06-22T09:48:01Z
+  Updated: 2026-07-24T06:03:46Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Cancer_Mini_Vibe_800x800_1b4c1f67-1464-47c4-b96c-8552f30d12c6.jpg?v=1775228360
   Price: $59.99 USD
 - [Our  JourneyVibratorsGemini Mini Vibe](https://toyvelle.com/products/gemini-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars!  Style: Playful, curious, and spontaneous. Gemini loves variety and mental stimul ...
-  Updated: 2026-06-22T09:48:01Z
+  Updated: 2026-07-24T06:05:33Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Gemini_Mini_Vibe_800x800_1a88b842-657e-4fbf-97a0-63af5547eac3.jpg?v=1775228361
   Price: $59.99 USD
 - [Our  JourneyVibratorsTaurus Mini Vibe](https://toyvelle.com/products/taurus-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Taurus (April 20 – May 20)  Style: Sensual, patient, and indulgent. Taurus craves ...
-  Updated: 2026-06-22T09:48:01Z
+  Updated: 2026-07-24T06:07:17Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/Taurus_Mini_Vibe_800x800_c7dc2c76-b4f1-4f78-a5d3-5ee053213dad.jpg?v=1775228363
   Price: $59.99 USD
 - [Our  JourneyVibratorsAries Mini Vibe](https://toyvelle.com/products/aries-mini-vibe): Discreet Keychain/Clit Stimulator Unlock your desires with our Zodiac Collection, crafted to match the unique  energy and color of each star sign. Discover personalized pleasure that’s written in the stars! Aries (March 21 – April 19)  Style: Passionate, bold, and always in control. Arie ...
-  Updated: 2026-06-22T09:48:01Z
+  Updated: 2026-07-24T06:09:50Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_e99c08ed-48b3-4349-bfe8-c8025c43174f.jpg?v=1775228364
   Price: $59.99 USD
 - [Our  JourneyDildosPOC 10" Dildo - Caramel](https://toyvelle.com/products/poc-8-dual-density-realistic-10-inch-dildo-caramel): Dual-Density/Suction/Stay-Warm Tech POC offers a range of dildos with extra soft high quality silicone skin with a dual density Silexpan filing and inner hard core, for an extremely realistic feel and incomparable pleasure experience. The revolutionary patented formula of the Silexpan material used  ...
-  Updated: 2026-06-22T09:48:01Z
+  Updated: 2026-07-24T06:27:56Z
   Vendor: Our  Journey
   Product Type: Dildos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_26e03125-1f36-4d25-8c80-0298b550c381.jpg?v=1775228365
   Price: $75.99 USD
 - [Our  JourneyDildosPOC 9" Dildo - Brown](https://toyvelle.com/products/poc-7-dual-density-realistic-9-inch-dildo-brown): Dual-Density/Suction/Stay-Warm Tech POC offers a range of dildos with extra soft high quality silicone skin with a dual density Silexpan filing and inner hard core, for an extremely realistic feel and incomparable pleasure experience. The revolutionary patented formula of the Silexpan material used  ...
-  Updated: 2026-06-22T09:48:01Z
+  Updated: 2026-07-24T06:27:52Z
   Vendor: Our  Journey
   Product Type: Dildos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_9d17a43d-7aba-4bc8-b42c-fc9020f440a6.jpg?v=1775228367
   Price: $65.99 USD
 - [Our  JourneyDildosPOC 8.5" Dildo - Caramel](https://toyvelle.com/products/poc-6-dual-density-realistic-8-5-inch-dildo-caramel): Dual-Density/Suction/Stay-Warm Tech POC offers a range of dildos with extra soft high quality silicone skin with a dual density Silexpan filing and inner hard core, for an extremely realistic feel and incomparable pleasure experience. The revolutionary patented formula of the Silexpan material used  ...
-  Updated: 2026-06-22T09:48:01Z
+  Updated: 2026-07-24T06:30:47Z
   Vendor: Our  Journey
   Product Type: Dildos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_aa1572f0-3427-45b4-be99-32d761b70ddb.jpg?v=1775228368
   Price: $52.99 USD
 - [Our  JourneyDildosPOC 8.5" Dildo - Brown](https://toyvelle.com/products/poc-5-dual-density-realistic-8-5-inch-dildo-brown): Dual-Density/Suction/Stay-Warm Tech POC offers a range of dildos with extra soft high quality silicone skin with a dual density Silexpan filing and inner hard core, for an extremely realistic feel and incomparable pleasure experience. The revolutionary patented formula of the Silexpan material used  ...
-  Updated: 2026-06-22T09:48:01Z
+  Updated: 2026-07-24T06:33:22Z
   Vendor: Our  Journey
   Product Type: Dildos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_915cab95-e7b7-4847-b862-db2c289882e3.jpg?v=1775228369
   Price: $52.99 USD
 - [Our  JourneyDildosPOC 8" Dildo - Brown](https://toyvelle.com/products/poc-4-dual-density-realistic-8-inch-dildo-brown): Dual-Density/Suction/Stay-Warm Tech POC offers a range of dildos with extra soft high quality silicone skin with a dual density Silexpan filing and inner hard core, for an extremely realistic feel and incomparable pleasure experience. The revolutionary patented formula of the Silexpan material used  ...
-  Updated: 2026-06-22T09:48:02Z
+  Updated: 2026-07-24T06:35:32Z
   Vendor: Our  Journey
   Product Type: Dildos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_9b839f0c-002b-4b5f-831e-32d01ed8300e.jpg?v=1775228370
   Price: $46.99 USD
 - [Our  JourneyDildosPOC 8" Dildo - Caramel](https://toyvelle.com/products/poc-3-dual-density-realistic-8-inch-dildo-caramel): Dual-Density/Suction/Stay-Warm Tech POC offers a range of dildos with extra soft high quality silicone skin with a dual density Silexpan filing and inner hard core, for an extremely realistic feel and incomparable pleasure experience. The revolutionary patented formula of the Silexpan material used  ...
-  Updated: 2026-06-22T09:48:02Z
+  Updated: 2026-07-24T06:37:32Z
   Vendor: Our  Journey
   Product Type: Dildos
   Availability: Available
@@ -908,14 +908,14 @@
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_cfdce145-ba98-4d7e-8e29-899a07f475bd.jpg?v=1775228374
   Price: $36.99 USD
 - [Our  JourneyDildosPOC 7" Dildo - Light Caramel](https://toyvelle.com/products/poc-1-dual-density-realistic-7-inch-dildo-light-caramel): Dual-Density/Suction/Stay-Warm Tech POC offers a range of dildos with extra soft high quality silicone skin with a dual density Silexpan filing and inner hard core, for an extremely realistic feel and incomparable pleasure experience. The revolutionary patented formula of the Silexpan material used  ...
-  Updated: 2026-06-22T09:48:02Z
+  Updated: 2026-07-24T06:39:36Z
   Vendor: Our  Journey
   Product Type: Dildos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/6716/5227/files/1_44df7259-d93e-40dc-b73c-a3b3b1759fd6.jpg?v=1775228375
   Price: $36.99 USD
 - [Our  JourneyVibratorsWearable Couples Vibrator](https://toyvelle.com/products/flutterplugon-wearable-panty-vibe-anal-plug-with-penis-access): Dual Clit & Anal Stim/Penis Access Flutterplugon isn’t just a toy. It’s your ultimate pleasure . Slip into the teasing hug of a powerful panty vibe paired with a snug, exhilarating anal plug. Sleek, wearable, and fully remote-controlled, it puts the power at your fingertips or theirs. Whether  ...
-  Updated: 2026-06-22T09:48:02Z
+  Updated: 2026-07-24T06:46:12Z
   Vendor: Our  Journey
   Product Type: Vibrators
   Availability: Available
@@ -928,7 +928,7 @@
   Availability: Available
   Price: $9.90 USD
 - [House of DesireLingerieKiki Lace Halter Babydoll w/Open Back & Thong - Red](https://toyvelle.com/products/kiki-lace-halter-babydoll-w-open-back-thong-red): The Kiki Lace & Faux Leather Drop Off Babydoll Set lets you play with a hint of edge. Featuring faux leather detailing on top and lace on the bottom, this hot set is ready for play, passion, and more. Delicate drop off ties takes seduction to the next level. Fabric Content: LACE: 88% NYLON, 12% SPAN ...
-  Updated: 2026-07-17T10:15:20Z
+  Updated: 2026-07-24T06:47:51Z
   Vendor: House of Desire
   Product Type: Lingerie
   Availability: Available
