@@ -6,7 +6,7 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2026-05-31T11:13:18Z
 - Contact Email: svalcph@hotmail.com
-- Updated At: 2026-07-17T00:00:39.960Z
+- Updated At: 2026-07-31T00:00:43.359Z
 
 ## Products
 
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/minimalist-dome-cap-unisex-koebenhavn-styleminimalist-dome-cap-unisex-koebenhavn-styleone-sizeredhatssval-cph1611034734374103373-204827739649074745041724sval-cp-5090223.jpg?v=1781111015
     Price: kr 249.00 DKK
 - [Classic Danish Cap: Five Panel Minimalist Style - SVAL CPH](https://svalcph.com/products/5-panel-cap-embroidery): Buy Classic Danish Cap: Five Panel Minimalist Style for only DKK350.00 at SVAL CPH!
-  Updated: 2026-06-30T17:25:37Z
+  Updated: 2026-07-18T01:01:29Z
   Vendor: SVAL CPH
   Product Type: Hats
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/danish-minimalist-organic-cotton-hoodiedanish-minimalist-organic-cotton-hoodieblackshoodiesval-cph4857967918229948303-204812541024546913821346sval-cph-7230140.jpg?v=1781110997
     Price: kr 599.00 DKK
 - [SVAL Oversized High Neck T-Shirt - SVAL CPH](https://svalcph.com/products/unisex-heavy-oversize-tee): Buy SVAL Oversized High Neck T-Shirt for only DKK399.00 at SVAL CPH!
-  Updated: 2026-06-30T17:24:41Z
+  Updated: 2026-07-17T18:15:46Z
   Vendor: SVAL CPH
   Product Type: T-Shirt
   Availability: Available
@@ -187,7 +187,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/sval-oversized-high-neck-t-shirtsval-oversized-high-neck-t-shirtnavyst-shirtsval-cph998338340656882671-204823532416182778409633sval-cph-7453647.jpg?v=1781111003
     Price: kr 299.00 DKK
 - [Arctic Hoodie by SVAL CPH Scandinavian Brand: Premium Cotton Unisex Hoodie from Denmark - SVAL CPH](https://svalcph.com/products/unisex-organic-relaxed-slammer-hoodie): Buy Arctic Hoodie by SVAL CPH Scandinavian Brand: Premium Cotton Unisex Hoodie from Denmark for only DKK799.00 at SVAL CPH!
-  Updated: 2026-06-30T17:23:19Z
+  Updated: 2026-07-17T00:26:58Z
   Vendor: SVAL CPH
   Product Type: Hoodie
   Availability: Available
@@ -315,7 +315,7 @@
     Image: https://cdn.shopify.com/s/files/1/1080/1322/4274/files/premium-core-tee-unisex-relaxed-fit-scandinavian-style-tshirtpremium-core-tee-unisex-relaxed-fit-scandinavian-style-tshirtsandst-shirtsval-cph182724772646934216-3957267.jpg?v=1781110998
     Price: kr 299.00 DKK
 - [Nordic Crewneck Sweater - SVAL CPH - SVAL CPH](https://svalcph.com/products/unisex-ultra-cotton-long-sleeve-tee): Buy Nordic Crewneck Sweater - SVAL CPH for only DKK450.00 at SVAL CPH!
-  Updated: 2026-06-30T17:22:09Z
+  Updated: 2026-07-17T07:06:05Z
   Vendor: SVAL CPH
   Product Type: Long-sleeve
   Availability: Available
