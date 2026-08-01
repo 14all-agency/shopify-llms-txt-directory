@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-06-28T10:57:43Z
 - Contact Email: jannis.terborg@gmail.com
-- Updated At: 2026-07-25T00:00:34.948Z
+- Updated At: 2026-08-01T00:00:39.149Z
 
 ## Products
 
@@ -195,6 +195,15 @@
     Author: GateAway
   - [Exploring Innovative Home Layout Ideas for Small Spaces](https://gateaway-9338.myshopify.com/blogs/news/exploring-innovative-home-layout-ideas-for-small-spaces): Exploring Innovative Home Layout Ideas for Small Spaces
     Updated: 2026-07-24T00:31:56Z
+    Author: GateAway
+  - [How to Choose the Right Color Palette for Your Space](https://gateaway-9338.myshopify.com/blogs/news/how-to-choose-the-right-color-palette-for-your-space): How to Choose the Right Color Palette for Your Space
+    Updated: 2026-07-26T00:26:27Z
+    Author: GateAway
+  - [The Rise of Eco-Friendly Home Solutions and Why They're Essential](https://gateaway-9338.myshopify.com/blogs/news/the-rise-of-eco-friendly-home-solutions-and-why-theyre-essential): The Rise of Eco-Friendly Home Solutions and Why They're Essential
+    Updated: 2026-07-28T00:47:09Z
+    Author: GateAway
+  - [Comparing Traditional and Contemporary Home Designs](https://gateaway-9338.myshopify.com/blogs/news/comparing-traditional-and-contemporary-home-designs): Comparing Traditional and Contemporary Home Designs
+    Updated: 2026-07-31T00:31:02Z
     Author: GateAway
 
 ## Store Pages
