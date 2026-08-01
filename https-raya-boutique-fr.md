@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-09-09T14:59:06Z
 - Contact Email: contact@raya-boutique.fr
-- Updated At: 2026-07-20T00:00:39.565Z
+- Updated At: 2026-08-01T00:00:46.230Z
 
 ## Products
 
@@ -88,7 +88,7 @@
     Availability: Available
     Price: 24,90 € EUR
 - [Thym Sauvage BIO feuille, Cultivé à 2100m d'Altitude (za'atar) - Raya Boutique](https://raya-boutique.fr/products/thym_sauvage_bio): Découvrez notre thym sauvage BIO feuille cultivé à 2100m d’altitude. Utilisez-le en infusion avec des boutons de roses ou en assaisonnement.
-  Updated: 2026-07-15T16:45:55Z
+  Updated: 2026-07-24T10:04:20Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -106,7 +106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Thyms_sauvages_bio_100g_a432b293-60b4-4a79-8168-8961a8ed7721.jpg?v=1733739981
     Price: 22,90 € EUR
 - [Citrons Noirs Séchés (Loomi): Le Secret de la Saveur Umami - Raya Boutique](https://raya-boutique.fr/products/citrons_noirs): « Un concentré de saveur Umami, les citrons noirs séchés (loomi) parfumeront vos plats salés, infusions et desserts aux saveurs persanes ».
-  Updated: 2026-07-02T08:03:06Z
+  Updated: 2026-07-23T11:43:06Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -160,7 +160,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Citrons_noirs_peles_100g_0172130b-1960-4a05-bfae-b75a2d9831d5.jpg?v=1733739981
     Price: 15,00 € EUR
 - [Sumac en poudre BIO : Épice Naturellement Salée Citronnée - Raya Boutique](https://raya-boutique.fr/products/sumac_bio): Rehaussez vos plats avec le sumac BIO, une épice en poudre appréciée pour sa saveur salée, citronnée et vinaigrée. Ajoutez de la profondeur à vos recettes!
-  Updated: 2026-07-16T12:09:20Z
+  Updated: 2026-07-26T10:18:45Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -177,7 +177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Sumac_bio_100g_572d76ed-c39f-46f7-88b1-5ec14e12acc3.jpg?v=1733739981
     Price: 13,90 € EUR
 - [Mûres Blanches Bio d'Iran : Un Délice Sucré à Savourer](https://raya-boutique.fr/products/mures_blanches_bio): Découvrez nos mûres blanches bio en provenance d'Iran sucrées, au goût mielleux, qui rappellent les arômes de la figue séchée🍇
-  Updated: 2026-07-07T09:05:40Z
+  Updated: 2026-07-26T10:18:44Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -362,7 +362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Prunes_en_sachet.jpg?v=1774521453
     Price: 18,00 € EUR
 - [Orange sanguine déshydratés fruits séchés : Sans sucre, sans colorant](https://raya-boutique.fr/products/oranges_sanguines): Oranges sanguines déshydratées sans sucre ajouté, idéales pour cocktails, infusions et pâtisseries. Saveur intense et couleur rouge rubis pour des créations saines et gourmandes.
-  Updated: 2026-07-18T07:12:36Z
+  Updated: 2026-07-31T11:04:16Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -380,7 +380,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Oranges_sanguines_50g_38cd0492-c056-4d12-b148-ce665fdb1274.jpg?v=1733739992
     Price: 18,00 € EUR
 - [Pistaches crues bio Akbari : Cultivées depuis des Générations ! - Raya Boutique](https://raya-boutique.fr/products/pistaches_crues_bio): Découvrez nos pistaches crues, cultivées dans la province du Varamin en Iran. Un goût naturellement herbacé pour les amateurs de pistaches authentiques 🌿🥜
-  Updated: 2026-07-15T18:50:27Z
+  Updated: 2026-07-31T06:10:26Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -452,7 +452,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Camomilles_suavages_100g_9fbd7b2a-199a-4597-9c90-5f149ac96533.jpg?v=1733739994
     Price: 8,10 € EUR
 - [Cumin Sauvage BIO en graine – Une saveur intense et naturelle - Raya Boutique](https://raya-boutique.fr/products/cumin_sauvage_bio): Le secret pour des plats savoureux! Découvrez nos graines de cumin sauvage BIO, produit avec amour et séché naturellement au soleil.
-  Updated: 2026-07-05T06:06:06Z
+  Updated: 2026-07-24T10:04:19Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -480,7 +480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Fenouil_sauvage_bio_100g_fda6ddbc-d658-4645-8bea-16c478e69bd4.jpg?v=1737392956
     Price: 13,90 € EUR
 - [Mauve Bleue BIO fleurs: Une Fleur Séchée Authentique et Délicate - Raya Boutique](https://raya-boutique.fr/products/mauve_bleue_bio): Offrez-vous une touche de couleur avec notre fleurs de mauve bleue BIO, récoltée par nos cueilleurs. Une fleur séchée de qualité supérieure. 🌸
-  Updated: 2026-07-02T08:03:06Z
+  Updated: 2026-07-23T08:29:27Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -497,14 +497,14 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Mauve_bleue_bio_100g_fcb09415-4ec2-4734-9013-5a4a1da18279.jpg?v=1733739995
     Price: 29,90 € EUR
 - [Mélasse de grenade d'Iran naturelle : un condiment ancestral - Raya Boutique](https://raya-boutique.fr/products/melasse_de_grenade): Savourez la mélasse de grenade d'Iran naturelle la plus authentique, cuit au chaudron pendant des heures. Un vrai trésor culinaire! 😋
-  Updated: 2026-07-15T16:45:52Z
+  Updated: 2026-07-24T10:04:18Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/ChatGPT_Image_15_juin_2026_a_15_44_08.png?v=1781533844
   Price: 11,90 € EUR
 - [Menthe Poivrée Séchée et Sauvage : Infusez et Savourez](https://raya-boutique.fr/products/menthe_poivree_bio): Découvrez notre menthe poivrée séchée sauvage, récoltée à la main. Infusez-la seule ou en mélange avec d'autres herbes aromatiques.
-  Updated: 2026-07-03T13:16:12Z
+  Updated: 2026-07-26T10:18:49Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -522,7 +522,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Menthe_poivree_bio_50g_1b8bc975-1739-443f-9866-e2783711885c.jpg?v=1733739994
     Price: 5,90 € EUR
 - [Des Pistaches Sauvages d'Exception, Rares et Délicieuses](https://raya-boutique.fr/products/pistaches_sauvages): Découvrez nos pistaches sauvages d'exception, un produit authentique délicieux. Vous allez adorer leur goût unique et leur fraîcheur incomparable!
-  Updated: 2026-07-03T13:16:18Z
+  Updated: 2026-07-26T10:21:26Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -540,7 +540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/pistache_sauvage_en_sachet.jpg?v=1774521259
     Price: 42,50 € EUR
 - [Sumac en grain BIO: épice au Goût Unique et Acidulé découvrez le - Raya Boutique](https://raya-boutique.fr/products/sumac_en_grain_bio): Découvrez le sumac en grain BIO, une épice polyvalente au goût à la fois citronné, vinaigré et astringent. Ajoutez une nouvelle dimension à vos recettes!
-  Updated: 2026-07-15T16:45:55Z
+  Updated: 2026-07-22T13:38:57Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -579,7 +579,7 @@
     Availability: Available
     Price: 45,00 € EUR
 - [Pistaches torréfiées et parfumées au sumac brun - Raya Boutique](https://raya-boutique.fr/products/pistaches_au_sumac_bio): Optez pour la fraîcheur et la qualité de nos pistaches au sumac brun bio. Découvrez un goût unique, Commandez dès maintenant!
-  Updated: 2026-07-05T17:15:06Z
+  Updated: 2026-07-26T10:18:47Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -605,7 +605,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Pistaches_sumac_bio_350g_9ef08d91-5a06-4343-8b8d-58362c3005a8.jpg?v=1733739995
     Price: 45,00 € EUR
 - [Pistaches vertes émondées: Couleurs intenses et goût savoureux - Raya Boutique](https://raya-boutique.fr/products/pistaches_emondees_bio): Offrez-vous la meilleure qualité avec nos pistaches vertes émondées, un goût irrésistible. Un vrai délice pour tous les instants!
-  Updated: 2026-07-05T01:59:37Z
+  Updated: 2026-07-26T10:21:26Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -623,7 +623,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Pistaches_emondees_bio_350g_38e66839-579b-41c6-b2d6-b9ebd047f345.jpg?v=1733739996
     Price: 24,15 € EUR
 - [Pêches déshydratées – Saveur ensoleillée pour cocktails et infusions](https://raya-boutique.fr/products/peches): Pêches déshydratées naturellement sucrées, parfaites pour cocktails, infusions et encas sains. Sans sucre ajouté, riches en fibres et antioxydants.
-  Updated: 2026-07-13T14:11:35Z
+  Updated: 2026-07-29T08:30:20Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -641,7 +641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Peches_400g_43df3a43-fc8a-41fc-96ea-cf1d35fe552b.jpg?v=1774361050
     Price: 18,00 € EUR
 - [Riz Champa d'Iran découvrez le, un Goût et une Odeur Uniques - Raya Boutique](https://raya-boutique.fr/products/riz_champa_culture_familliale): Savourez l'authenticité avec notre riz Champa d'Iran d'une qualité rare. Son parfum intense et son goût inégalé transformeront vos repas en festins!
-  Updated: 2026-07-13T08:56:02Z
+  Updated: 2026-07-24T10:04:19Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -656,7 +656,7 @@
     Availability: Available
     Price: 16,10 € EUR
 - [Citrons Verts Déshydratés, pour Cocktail Fruits déshydratés Sans sucre](https://raya-boutique.fr/products/citrons_verts): Citrons verts déshydratés en tranches : saveur acidulée et naturelle, idéals pour cocktails, infusions, pâtisseries et cuisine créative. En décor pour mixologue
-  Updated: 2026-07-18T07:12:36Z
+  Updated: 2026-07-31T11:04:25Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -674,7 +674,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/citron_vert_sachet.jpg?v=1776334559
     Price: 18,00 € EUR
 - [Pistaches au zaatar BIO Iran: Un mélange savoureux et biologique - Raya Boutique](https://raya-boutique.fr/products/pistaches_au_zaatar_bio): Craquez pour nos délicieuses pistaches d'Iran au zaatar BIO. Un mélange subtil de sumac, thym et sésame torréfié, un régal pour les papilles! 😋
-  Updated: 2026-07-05T17:15:06Z
+  Updated: 2026-07-26T10:18:45Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -699,7 +699,7 @@
     Availability: Available
     Price: 45,00 € EUR
 - [Pistaches torréfiées et parfumées aux citrons : le duo parfait](https://raya-boutique.fr/products/pistaches_au_citron): Découvrez nos pistaches torréfiées et parfumées aux citrons, une combinaison parfaite d'acidité et de rondeur pour les amateurs de saveurs uniques. 🍋
-  Updated: 2026-07-08T16:57:46Z
+  Updated: 2026-07-29T08:44:28Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -743,7 +743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/IMG_4076_1.jpg?v=1774440569
     Price: 75,00 € EUR
 - [Raisins brun sultanines Bio: Découvrez ce produit d'exception](https://raya-boutique.fr/products/raisins_secs_sultanines_bio): Découvrez nos délicieux raisins bruns sultanines BIO cultivés dans la région du Khorasan. Parfaits pour grignoter ou cuisiner. Essayez-les dès maintenant !
-  Updated: 2026-07-06T07:10:30Z
+  Updated: 2026-07-24T11:17:42Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -757,7 +757,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Raisin_sec_sultanines_bio_300g_f47d18c8-8820-47ef-90b5-c8b3c338735a.jpg?v=1733740039
     Price: 4,45 € EUR
 - [Fleurs de thym sauvage Bio: Trésor de saveurs à 2100m d'altitude - Raya Boutique](https://raya-boutique.fr/products/fleurs_de_thym_sauvage_bio): Ajoutez une touche d'originalité à vos plats avec nos fleurs de thym sauvage BIO, révélant des saveurs aromatiques uniques. Dégustez une explosion de goût !
-  Updated: 2026-06-30T18:24:46Z
+  Updated: 2026-07-27T10:50:27Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -799,7 +799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Cardamome_noire_100g_26d58943-d974-46ac-af62-ceb04935cfa3.jpg?v=1733740039
     Price: 17,90 € EUR
 - [zaatar Bio mélange za'atar authentique pour rehausser vos plats! - Raya Boutique](https://raya-boutique.fr/products/zaatar_bio): Réveillez vos papilles avec notre zaatar artisanal Bio, Un mélange délicieux de thym, sumac et sésame torréfiées, za'atar parfait pour agrémenter vos plats.
-  Updated: 2026-07-18T13:40:43Z
+  Updated: 2026-07-24T10:04:16Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -812,7 +812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Zaatar_bio_50g_bc70c9c3-a223-4d17-97cd-840d61272a1d.jpg?v=1733740039
     Price: 9,75 € EUR
 - [Pistaches sans coque BIO : Cultivées dans la Province de Qazvin](https://raya-boutique.fr/products/pistaches_sans_coque_bio): Découvrez nos délicieuses pistaches sans coque BIO, parfaites pour une cuisine et une pâtisserie raffinées. Un choix incontournable pour les gourmands !
-  Updated: 2026-07-12T22:48:31Z
+  Updated: 2026-07-23T08:29:44Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -837,7 +837,7 @@
     Availability: Available
     Price: 65,00 € EUR
 - [Pâte de Pistaches BIO 100%: Onctueuse et Naturellement Verte - Raya Boutique](https://raya-boutique.fr/products/pate_de_pistaches_bio_100_pistaches): « Le vrai goût d’une pâte de pistache BIO 100% pistaches, une onctuosité et une couleur naturellement verte pistaches, pour vos pâtisseries. »
-  Updated: 2026-07-16T07:17:06Z
+  Updated: 2026-07-28T21:01:56Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -877,7 +877,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/pistache_citron_noir_en_sachet.jpg?v=1774521636
     Price: 45,00 € EUR
 - [Pistaches enrobées de piment paprika: Des saveurs audacieuses](https://raya-boutique.fr/products/pistaches-au-piment-paprika-bio): « Tout le goût, le croquant et la rondeur de nos pistaches délicatement enrobées de piment paprika, pour une touche parfumée et pimentée unique, typique »
-  Updated: 2026-07-05T17:15:07Z
+  Updated: 2026-07-27T10:50:23Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -902,7 +902,7 @@
     Availability: Available
     Price: 45,00 € EUR
 - [Fruits déshydratés fruits séchés : Sans sucre, ni conservateur - cocktails](https://raya-boutique.fr/products/ananas): « Toute la délicatesse des fruits déshydratés, fruits séchés à consommer sans modération en encas, lors d'une randonnée, un cocktail ou à cuisiner ».
-  Updated: 2026-07-05T17:15:06Z
+  Updated: 2026-07-24T11:17:45Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -949,7 +949,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Huile_menthe_poivree_100ml_2_b2864fe6-f642-4737-8ade-6351bbd89345.jpg?v=1733740040
     Price: 20,90 € EUR
 - [Pistaches torréfiées et salées BIO - Saveur et fraîcheur garanties - Raya Boutique](https://raya-boutique.fr/products/pistaches-torrefiees-et-salees-bio): Dégustez nos pistaches torréfiées (grillées) et salées certifiées BIO. Un délice, croquant à savourer, cultivé avec passion depuis des générations.
-  Updated: 2026-07-15T18:50:22Z
+  Updated: 2026-07-25T14:02:37Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -2064,7 +2064,7 @@
   Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Harissa_a_la_rose_200g.jpg?v=1733740049
   Price: 15,90 € EUR
 - [Eau de Rose d'ispahan BIO: Un hydrolat d'exception](https://raya-boutique.fr/products/eau-de-rose-dispahan-bio): "Son parfum vous fera voyager instantanément. Notre Eau de Rose d'ispahan BIO, peut être utilisée pour des préparations alimentaires ou en soin cosmétique"
-  Updated: 2026-07-16T09:20:21Z
+  Updated: 2026-07-23T08:29:13Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -2112,7 +2112,7 @@
     Availability: Available
     Price: 10,44 € EUR
 - [Une pincée suffit ! découvrez l'ase fétide en sachet !](https://raya-boutique.fr/products/ase-fetide-sauvage): Puissante au nez, étonnamment douce à la cuisson, l’asé fétide est une épice incontournable de la cuisine persane et indienne. Utilisée avec parcimonie, elle apporte une profondeur unique et des notes rappelant l’ail et l’oignon aux plats mijotés, légumes et légumineuses
-  Updated: 2026-07-01T09:30:08Z
+  Updated: 2026-07-24T10:04:23Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -2144,14 +2144,14 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/grenade_en_sachet.jpg?v=1774522324
     Price: 17,40 € EUR
 - [Eau de fleur d'oranger](https://raya-boutique.fr/products/eau-de-fleur-doranger): Eau de Fleurs d’Oranger Saturée de Shiraz – Un Hydrolat Exceptionnel et Puissant Issue d’un petit producteur artisanal de la région de Shiraz, notre eau de fleurs d’oranger saturée se distingue par sa concentration exceptionnelle et son parfum naturellement mielleux et envoûtant. Contrairement aux hydrolats standards courants en France, cette version saturée offre une intensité aromatique supérieure, capturant pleinement la délicatesse et la richesse des fleurs d’oranger fraîchement récoltées. Distillée en petites quantités selon des méthodes traditionnelles, elle conserve toutes les propriétés aromatiques de la fleur et développe une profondeur olfactive rare, idéale pour la gastronomie, la cosmétique et l’aromathérapie.
-  Updated: 2026-07-12T22:48:31Z
+  Updated: 2026-07-27T10:50:21Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/Image.jpg?v=1781533240
   Price: 9,90 € EUR
 - [Mélasse d'épines vinettes BIO](https://raya-boutique.fr/products/melasse-depines-vinettes): Découvrez notre mélasse d’épine-vinette BIO, un produit rare et d’exception, issu de fruits sauvages soigneusement récoltés à la main dans les régions montagneuses de l’est de l’Iran. Obtenue à partir des baies d’épine-vinette (berberis), cette mélasse artisanale concentre toute la richesse aromatique et nutritionnelle de ce petit fruit rouge acidulé, réputé depuis des siècles pour ses bienfaits et sa saveur unique. Les baies sont récoltées à la main dans les régions montagneuses de l’est de l’Iran, où elles poussent naturellement depuis des siècles. Après la cueillette, elles sont lentement réduites en jus, puis cuîtes à basse température afin de conserver leurs arômes intenses et leurs propriétés nutritionnelles. Le résultat ? Une mélasse riche, veloutée et légèrement acidulée, parfaite pour sublimer vos plats et boissons. Naturellement riche en antioxydants, vitamine C et minéraux, la mélasse d’épine-vinette est à la fois tonifiante et digestive. Son goût unique, à mi-chemin entre la grenade et l’hibiscus, apporte une touche acidulée et sucrée qui équilibre à merveille les recettes sucrées et salées.
-  Updated: 2026-07-15T09:05:47Z
+  Updated: 2026-07-24T10:04:21Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -2243,7 +2243,7 @@
   Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/CUISINEIRANIENNE_COUV_OK.jpg?v=1743430596
   Price: 34,95 € EUR
 - [Mandarines déshydratés en tranches](https://raya-boutique.fr/products/mandarine): Mandarines Déshydratées en Tranches – L’Incontournable pour Cocktails, Encas et Infusions Découvrez nos mandarines déshydratées en tranches, spécialement sélectionnées pour sublimer vos cocktails, agrémenter vos boissons rafraîchissantes, et se déguster comme encas sain ou en infusion parfumée. Issues de fruits récoltés à parfaite maturité, chaque tranche conserve l’intensité aromatique et la couleur vive de la mandarine fraîche.Elles sont 100 % naturelles, sans sucre ajouté, sans colorant ni arôme artificiel. Nos producteurs suivent un processus artisanal : les mandarines sont récoltées à pleine maturité, tranchées avec précision, puis déshydratées lentement afin de préserver leurs huiles essentielles et concentrer leur saveur douce et acidulée. Cette méthode assure une qualité premium, idéale pour les bartenders, mixologues et amateurs de cocktails. Pourquoi choisir nos mandarines séchées ? Parfaites pour la mixologie : apportent une touche décorative et un parfum intense aux cocktails classiques ou créations originales. Polyvalentes : à savourer en snack sain, en infusion chaude ou froide, ou pour sublimer pâtisseries et desserts. 100 % naturelles : sans sucre ajouté, sans colorant ni conservateur. Ajoutez une note d’élégance, d'agrume et d’authenticité à vos créations grâce à nos mandarines déshydratées : la touche incontournable pour des cocktails visuellement spectaculaires et des arômes intenses. Un sachet de 100g peut contenir environ 53 tranches. Cela peut varier en fonction des récoltes
-  Updated: 2026-07-18T07:12:37Z
+  Updated: 2026-07-20T19:10:56Z
   Vendor: Raya boutique
   Product Type: Produit
   Availability: Available
@@ -2261,7 +2261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/mandarine_en_sachet.jpg?v=1774522013
     Price: 18,00 € EUR
 - [Pistaches hachées BIO](https://raya-boutique.fr/products/pistaches-hachees-bio): Pistaches Hachées BIO – L’Incontournable des Gourmets et Pâtissiers Découvrez nos pistaches hachées BIO issues des vergers certifiés de la région de Qazvin, réputée pour produire certaines des meilleures pistaches au monde. Naturellement riches en saveur et en nutriments, elles sont soigneusement sélectionnées et finement hachées pour sublimer vos créations culinaires. Pourquoi choisir nos pistaches hachées BIO ? Origine contrôler : Cultivées dans des terres fertiles sous un climat idéal, nos pistaches sont récoltées à parfaite maturité par des producteurs passionnés. Polyvalence culinaire : Parfaites pour la pâtisserie, les glaces, les sauces, les salades ou en topping, elles ajoutent croquant et raffinement à toutes vos recettes. Richesse nutritionnelle : Source naturelle de bons gras, de protéines et d’antioxydants, elles allient plaisir et bienfaits pour la santé. Qualité supérieure : Hachage précis préservant couleur, arôme et fraîcheur pour un rendu esthétique et gourmand. Offrez à vos plats une touche de saveur authentique et de croquant élégant grâce à nos pistaches hachées BIO, le choix idéal des amateurs de cuisine saine et raffinée.
-  Updated: 2026-07-10T13:29:15Z
+  Updated: 2026-07-27T10:50:26Z
   Vendor: Raya boutique
   Product Type: Produit
   Availability: Available
@@ -2297,7 +2297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/pistache_batonnet_en_sachet.jpg?v=1774521805
     Price: 42,10 € EUR
 - [🌸 Pétales de Rose de Damas BIO – Tradition, pureté et excellence](https://raya-boutique.fr/products/petales-de-roses-de-damas-bio): Nos pétales de rose de Damas BIO proviennent d’une famille de producteurs passionnés, qui cultive depuis des générations la célèbre Rosa damascena dans la province d’Ispahan, berceau millénaire de cette fleur d’exception.Dans cette région aride, où le savoir-faire se transmet avec amour, chaque rose est cueillie à la main, au petit matin, lorsque son parfum et ses bienfaits sont à leur apogée. Les pétales sont ensuite délicatement séchés le jour même, selon des méthodes traditionnelles, afin de préserver toute leur couleur naturelle et leurs arômes intenses.Ce procédé artisanal garantit un produit d’une qualité exceptionnelle, riche en senteurs florales et en propriétés apaisantes. Récoltés lors de la dernière floraison, nos pétales de rose de Damas BIO vous offrent le meilleur de la nature : une couleur éclatante, un parfum raffiné, et une pureté incomparable. Utilisez-les pour vos infusions parfumées, rituels de beauté, ou créations artisanales — et laissez-vous transporter par l’élégance intemporelle de la rose de Damas.
-  Updated: 2026-06-21T10:32:52Z
+  Updated: 2026-07-23T08:29:46Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -2315,7 +2315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0856/6977/3646/files/petale_de_rose_en_sachet.jpg?v=1774521707
     Price: 29,99 € EUR
 - [Fleur de sel aux saveurs de harissa à la rose](https://raya-boutique.fr/products/fleur-de-sel-aux-saveurs-de-harissa-a-la-rose): Délicate et précieuse, la Fleur de Sel est récoltée à la surface des marais salants. Ses cristaux fins et croquants révèlent une saveur subtile qui sublime aussi bien les plats salés que les desserts...
-  Updated: 2026-07-13T05:52:20Z
+  Updated: 2026-07-20T05:50:26Z
   Vendor: Raya boutique upsy
   Product Type: Produit
   Availability: Available
@@ -2347,43 +2347,43 @@
   Updated: 2026-06-09T02:03:50Z
   Total Products: 58
 - [Les plus populaires](https://raya-boutique.fr/collections/les-plus-populaires): Les plus populaires
-  Updated: 2026-07-19T11:21:50Z
+  Updated: 2026-07-31T11:27:49Z
   Total Products: 12
 - [Les nouveautés](https://raya-boutique.fr/collections/les-produits): Les nouveautés
-  Updated: 2026-07-18T11:24:30Z
+  Updated: 2026-07-27T11:27:28Z
   Total Products: 8
 - [Baies](https://raya-boutique.fr/collections/baies): Baies
   Updated: 2026-07-13T11:26:09Z
   Total Products: 2
 - [Epices et condiments](https://raya-boutique.fr/collections/epices-et-condiments): Epices et condiments
-  Updated: 2026-07-19T11:21:50Z
+  Updated: 2026-07-26T11:20:14Z
   Total Products: 19
 - [Fruits à coques](https://raya-boutique.fr/collections/fruits-a-coques): Fruits à coques
-  Updated: 2026-07-16T11:25:38Z
+  Updated: 2026-07-31T11:27:49Z
   Total Products: 17
 - [Fruits séchés](https://raya-boutique.fr/collections/fruits-seches): Fruits séchés
-  Updated: 2026-07-18T11:24:30Z
+  Updated: 2026-07-31T11:27:49Z
   Total Products: 23
 - [Hydrolat](https://raya-boutique.fr/collections/hydrolat): Hydrolat
-  Updated: 2026-07-16T11:25:38Z
+  Updated: 2026-07-27T11:27:28Z
   Total Products: 2
 - [Pistaches](https://raya-boutique.fr/collections/pistaches): Pistaches
-  Updated: 2026-07-16T11:25:38Z
+  Updated: 2026-07-31T11:27:49Z
   Total Products: 15
 - [Plantes et fleurs séchées](https://raya-boutique.fr/collections/plantes-et-fleurs-sechees): Plantes et fleurs séchées
-  Updated: 2026-07-11T11:28:06Z
+  Updated: 2026-07-27T11:27:28Z
   Total Products: 7
 - [Riz](https://raya-boutique.fr/collections/riz): Riz
-  Updated: 2026-07-13T11:26:09Z
+  Updated: 2026-07-24T11:29:52Z
   Total Products: 1
 - [Safran](https://raya-boutique.fr/collections/safran): Safran
   Updated: 2026-07-11T11:28:06Z
   Total Products: 3
 - [Tous les produits](https://raya-boutique.fr/collections/tous-les-produits): Tous les produits
-  Updated: 2026-07-19T11:21:50Z
+  Updated: 2026-07-31T11:27:49Z
   Total Products: 73
 - [Tous les produits pour TVA 5.5%](https://raya-boutique.fr/collections/tous-les-produits-pour-tva-5-5)
-  Updated: 2026-07-19T11:21:50Z
+  Updated: 2026-07-31T11:27:49Z
   Total Products: 131
 - [Livre de cuisine](https://raya-boutique.fr/collections/livre-de-cuisine)
   Updated: 2026-07-16T11:25:38Z
