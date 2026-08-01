@@ -6,12 +6,12 @@
 - Timezone: Australia/Sydney
 - Created At: 2019-06-21T02:44:44Z
 - Contact Email: info@kenzina.com.au
-- Updated At: 2026-07-22T00:00:25.227Z
+- Updated At: 2026-08-01T00:00:36.919Z
 
 ## Products
 
 - [Buy Kenzina Eye and Lip Duo | Rejuvenating Eye Mask and Lip Mask](https://kenzina.com.au/products/kenzina-eye-and-lip-duo): Buy Kenzina Eye and Lip Duo at kenzina.com.au. This package contains a Kenzina Rejuvenating Eye Mask jar (30 pairs) and delicious Kenzina Plumping Lip Masks (24 sets) for targeted multi-masking. Order Now!
-  Updated: 2026-06-21T08:09:37Z
+  Updated: 2026-07-31T08:10:56Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/45.png?v=1754428854
   Price: $55.00 AUD
 - [Kenzina Rejuvenating Eye Masks – 30 Pairs | Vegan & Anti-Wrinkle](https://kenzina.com.au/products/kenzina-rejuvenating-eye-masks-30-pairs): Hydrate, brighten, and depuff with Kenzina's vegan under-eye masks. Infused with collagen, coconut & peppermint for smoother, younger-looking eyes.
-  Updated: 2026-07-17T22:02:27Z
+  Updated: 2026-07-30T12:25:36Z
   Vendor: Kenzina
   Product Type: beauty
   Availability: Available
@@ -98,16 +98,16 @@
 ## Collections
 
 - [Bundles](https://kenzina.com.au/collections/kenzina-bundles)
-  Updated: 2026-06-21T11:06:39Z
+  Updated: 2026-07-31T11:04:46Z
   Total Products: 22
 - [Kenzina](https://kenzina.com.au/collections/kenzina)
-  Updated: 2026-07-18T11:05:34Z
+  Updated: 2026-07-31T11:04:46Z
   Total Products: 22
 - [Best sellers](https://kenzina.com.au/collections/best-sellers)
-  Updated: 2026-07-18T11:05:34Z
+  Updated: 2026-07-31T11:04:46Z
   Total Products: 14
 - [Orderly Emails - Recommended Products](https://kenzina.com.au/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-07-18T11:05:34Z
+  Updated: 2026-07-31T11:04:46Z
   Total Products: 52
 
 ## Blogs
