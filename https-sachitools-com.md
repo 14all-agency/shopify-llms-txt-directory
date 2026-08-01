@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2024-01-25T07:19:15Z
 - Contact Email: sales@sachitools.com
-- Updated At: 2026-07-24T00:00:26.107Z
+- Updated At: 2026-08-01T00:00:38.079Z
 
 ## Products
 
@@ -982,7 +982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/dm-cc2.jpg?v=1746509793
   Price: ฿11,950.00 THB
 - [Sachi Diamond Wheel](https://sachitools.com/products/sachi-diamond-wheel): "Sachi" Â Diamond Wheels are perfectly balanced to reduce vibrations on higher speed. It features a uniform electroplated diamond coating on the surface with International Quality Standard. Our Wheels are designed to run on all types of Lapidary Machines !!! It can also run on conventional cut stone and cabochon making machines !!! The Grit/Mesh size determines the roughness and fineness of the abrasive or the diamond coating on the surface. As the Grit sizes increases, the abrasive or courseness becomes from Rough to more Fine for polishing. Usually, initial polishing and cutting of rough stones can use the lower size and as the stones become more fine, we can then use the higher number for smoother finishing or fine polishing. Mesh/Grit Size - #60/#80/#100/#120/#150/#180/#200/#220/#260/#300/#360/#600/#800/#1000/#1200 *Customised size & shapes can also be made on specific orders with minimum quantity requirement
-  Updated: 2026-07-20T11:27:40Z
+  Updated: 2026-07-27T22:30:58Z
   Vendor: sachitools
   Product Type: 
   Availability: Available
@@ -1319,7 +1319,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/20200818_134714.jpg?v=1746509721
   Price: ฿950.00 THB
 - [Gemax Calcite DichroScope](https://sachitools.com/products/gemax-dichroscope): Gemax Calcite Dichroscope, well calibrated & accurate results!!! The dichroscope is a pocket-sized tool that can aid in the identification of gemstones. Calcite gives better results and is widely used by experienced gemologists. With plenty of experience, one could even positively identify some gemstones with the dichroscope alone (although confirmation tests should always be carried out).This tool is used to inspectÂ pleochroismÂ in gemstones and to quickly separate some common stones from each other (such as ruby versus red garnet).
-  Updated: 2026-07-23T11:57:28Z
+  Updated: 2026-07-30T05:17:16Z
   Vendor: Gemax
   Product Type: 
   Availability: Available
@@ -1480,7 +1480,7 @@
   Image: https://cdn.shopify.com/s/files/1/0632/4253/5065/products/whatsapp_image_2021-04-09_at_5.49.19_pm_1.jpg?v=1746509693
   Price: ฿3,520.00 THB
 - [Gemstone UV Light Cabinet (LW-365nm/SW-254nm)](https://sachitools.com/products/uv-light-box-lw-sw-sg): Gemstone UV Cabinet with correct Long Wave 365nm & Short Wave 254nm : Practical, portable, versatile color-grading light that features both UV short wave and long wave light and comes with a chamber for color grading. The ultra violet light detects fluorescence in diamonds, rubies, emeralds and synthetics.Â
-  Updated: 2026-07-23T12:01:30Z
+  Updated: 2026-07-30T00:40:20Z
   Vendor: sachitools
   Product Type: 
   Availability: Available
@@ -2210,19 +2210,19 @@
   Updated: 2026-06-15T12:43:50Z
   Total Products: 2
 - [Diamond/Gem Testers](https://sachitools.com/collections/diamond-gem-testers-1)
-  Updated: 2026-07-20T11:17:10Z
-  Total Products: 42
+  Updated: 2026-07-25T08:33:04Z
+  Total Products: 43
 - [Diamond & Gem Testers](https://sachitools.com/collections/diamond-gem-testers): Buy high-accuracy diamond and gemstone testers for reliable authenticity checks. Perfect for jewelers, gemologists, and labs. Ships to USA, Europe & Thailand.
-  Updated: 2026-06-15T12:43:50Z
-  Total Products: 31
+  Updated: 2026-07-25T08:31:45Z
+  Total Products: 32
 - [Synthetic Diamond Screeners](https://sachitools.com/collections/synthetic-diamond-screeners)
   Updated: 2026-06-15T12:43:50Z
   Total Products: 23
 - [Metal & Gold Testers](https://sachitools.com/collections/metal-gold-testers)
-  Updated: 2026-07-20T11:17:10Z
-  Total Products: 5
+  Updated: 2026-07-25T08:33:04Z
+  Total Products: 6
 - [Gemological Instruments & Kits](https://sachitools.com/collections/gemological-instruments-kits): Shop complete gemological kits, refractometers, spectroscopes, and testing instruments. Trusted by gem labs & jewelers in USA, Europe & Thailand.
-  Updated: 2026-07-23T12:01:25Z
+  Updated: 2026-07-31T11:17:03Z
   Total Products: 101
 - [Diamond Master CZ Sets](https://sachitools.com/collections/diamond-master-cz-sets)
   Updated: 2026-07-23T11:17:17Z
@@ -2231,7 +2231,7 @@
   Updated: 2026-07-23T12:01:25Z
   Total Products: 40
 - [Gemological Kits](https://sachitools.com/collections/gemological-kits)
-  Updated: 2026-06-24T11:16:55Z
+  Updated: 2026-07-31T11:17:03Z
   Total Products: 8
 - [Gemological Books](https://sachitools.com/collections/gemological-books)
   Updated: 2026-06-15T12:43:51Z
@@ -2252,13 +2252,13 @@
   Updated: 2026-07-10T08:44:23Z
   Total Products: 52
 - [Lamps & Lightings](https://sachitools.com/collections/jewelry-inspection-led-lamps-lighting): Shop high-quality LED lamps and lighting systems for gemstone inspection, jewelry work & precision tasks. Ships globally to USA, Europe & Thailand.
-  Updated: 2026-07-23T12:01:25Z
+  Updated: 2026-07-27T11:17:46Z
   Total Products: 75
 - [Photography Light Box](https://sachitools.com/collections/photography-light-box)
   Updated: 2026-06-15T12:43:51Z
   Total Products: 16
 - [Table Lamps](https://sachitools.com/collections/table-lamps)
-  Updated: 2026-07-14T11:18:07Z
+  Updated: 2026-07-27T11:17:46Z
   Total Products: 20
 - [Gem Torches & Penlights](https://sachitools.com/collections/gem-torches-penlights)
   Updated: 2026-07-04T11:18:02Z
@@ -2273,7 +2273,7 @@
   Updated: 2026-06-15T12:43:51Z
   Total Products: 8
 - [Weighing Scales](https://sachitools.com/collections/weighing-scales-jewelry-gemstone): Shop digital weighing scales designed for jewelry and gemstone accuracy. Ideal for labs, retailers, and artisans. Ships to USA, Europe & Thailand.
-  Updated: 2026-07-19T11:18:07Z
+  Updated: 2026-07-31T11:17:03Z
   Total Products: 68
 - [Portable/Pocket Scales](https://sachitools.com/collections/portable-pocket-scales)
   Updated: 2026-07-19T11:18:07Z
@@ -2285,7 +2285,7 @@
   Updated: 2026-07-19T11:18:07Z
   Total Products: 17
 - [Diamond & Jewelry Scales](https://sachitools.com/collections/diamond-jewelry-scales)
-  Updated: 2026-06-24T11:16:55Z
+  Updated: 2026-07-31T11:17:03Z
   Total Products: 43
 - [Diamond / Gemstone Scales](https://sachitools.com/collections/diamond-gemstone-scales-1)
   Updated: 2026-06-15T12:43:52Z
@@ -2294,7 +2294,7 @@
   Updated: 2026-06-15T12:43:52Z
   Total Products: 20
 - [Scale's Accessories](https://sachitools.com/collections/scales-accessories)
-  Updated: 2026-06-24T11:16:55Z
+  Updated: 2026-07-31T11:17:03Z
   Total Products: 8
 - [Measuring Tools - Gauges](https://sachitools.com/collections/measuring-tools-gauges-jewelry-gemstone): Browse precision gauges, calipers, ring sizers & measuring tools for gemologists and jewelers. Ships to USA, Europe & Thailand from Sachi Tools.
   Updated: 2026-07-22T11:17:34Z
@@ -2345,7 +2345,7 @@
   Updated: 2026-07-19T11:18:07Z
   Total Products: 1
 - [Gem Lapidary Machines & Supplies](https://sachitools.com/collections/gem-lapidary-machines-cutting-polishing-supplies): Explore premium gem lapidary machines, cutting tools, polishing supplies & accessories. Perfect for jewelers & lapidary pros in the USA, Europe & Thailand.
-  Updated: 2026-07-21T11:16:55Z
+  Updated: 2026-07-28T11:18:50Z
   Total Products: 76
 - [Diamond Polishing Powder](https://sachitools.com/collections/diamond-polishing-powder)
   Updated: 2026-07-11T11:16:59Z
@@ -2357,7 +2357,7 @@
   Updated: 2026-06-18T11:19:48Z
   Total Products: 5
 - [Grinding & Polishing Wheels](https://sachitools.com/collections/grinding-polishing-wheels)
-  Updated: 2026-07-21T11:16:55Z
+  Updated: 2026-07-28T11:18:50Z
   Total Products: 10
 - [Grinding & Polishing Laps](https://sachitools.com/collections/grinding-polishing-laps)
   Updated: 2026-06-18T11:19:48Z
