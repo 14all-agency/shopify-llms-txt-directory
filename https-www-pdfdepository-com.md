@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-09T00:13:32Z
 - Contact Email: pdfdepository.shopify@gmail.com
-- Updated At: 2026-07-26T00:00:35.772Z
+- Updated At: 2026-08-02T00:00:39.564Z
 
 ## Products
 
@@ -18,11 +18,11 @@
   Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/the-2016-glow-up-guide.png?v=1783293743
   Price: $4.99 USD
 - [Relationship Goals Book: Love Strategies & Communication Guide PDF | PDF Depository](https://www.pdfdepository.com/products/the-love-playbook-insights-strategies-for-a-fulfilling-relationship): The relationship goals book for real couples. Proven strategies for communication, intimacy & lasting love. Instant PDF download.
-  Updated: 2026-07-25T20:45:17Z
+  Updated: 2026-07-28T03:22:28Z
   Vendor: PDF Oasis
   Product Type: Digital Download
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/TheLovePlaybookRulesforLove_Sex_andHappiness.webp?v=1784378770
+  Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/TheLovePlaybookRulesforLove_Sex_andHappiness.webp?v=1785208944
   Price: $4.99 USD
 - [Signs Your Newborn Is Sick | New Parent Baby Health Guide | PDF Depository](https://www.pdfdepository.com/products/signs-your-newborn-is-sick): Signs your newborn is sick and early warning symptoms to help new parents identify illness, monitor health, and know when to seek care.
   Updated: 2026-07-25T22:28:27Z
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/HowToRebuildIntimacyInYourRelationship.webp?v=1784477326
   Price: $4.99 USD
 - [Cat Anxiety  & New Cat Owner Guide PDF | PDF Depository](https://www.pdfdepository.com/products/how-to-overcome-new-cat-anxiety): Natural cat anxiety  tips for new owners. Help your cat settle in fast with this calming PDF guide. Instant download.
-  Updated: 2026-07-22T04:53:40Z
+  Updated: 2026-07-26T00:22:28Z
   Vendor: PDF Oasis
   Product Type: Digital Download
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/the-ai-proof-resume-reset.png?v=1783293733
   Price: $4.99 USD
 - [Google Sheets Budget Template & Zero-Based Budget Guide PDF | PDF Depository](https://www.pdfdepository.com/products/the-soft-life-budget-live-well-spend-less-build-peace-with-your-money): The Google Sheets budget template that actually sticks. Zero-based budgeting guide, weekly planner & tracker bundle. Instant PDF download.
-  Updated: 2026-07-22T05:28:23Z
+  Updated: 2026-07-26T00:35:03Z
   Vendor: pdf Depository
   Product Type: Digital Download
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/The_Cottage_Cheese_Revolution_KDP_Cover.jpg?v=1784476807
   Price: $4.99 USD
 - [Phonics Detective: Crack the Reading Code in 5 Minutes a Day | PDF Depository](https://www.pdfdepository.com/products/the-phonics-detective-a-parent-child-adventure-to-crack-the-reading-code-in-5-minutes-a-day): Help your child learn to read with fun 5-minute phonics games. No prep needed. The Phonics Detective parent-child adventure guide. Instant PDF download.
-  Updated: 2026-07-22T05:22:06Z
+  Updated: 2026-07-26T00:21:52Z
   Vendor: pdf Depository
   Product Type: Digital Download
   Availability: Available
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/phonics-detective-the-word-blender-breakthrough_402eec69-5dfd-4b56-a892-63a6d4e0d3d5.png?v=1784143036
   Price: $4.99 USD
 - [Screen-Smart Family Reset: 30-Day Plan to Reduce Screen Time Battles | PDF Depository](https://www.pdfdepository.com/products/the-screen-smart-family-reset-a-practical-30-day-plan-to-reduce-digital-battles-rebuild-routines-and-help-kids-use-technology-without-losing-their-minds-or-yours): A practical 30-day plan to reduce screen-time fights, rebuild family routines, and help kids use technology without the daily battles. Instant PDF.
-  Updated: 2026-07-22T05:17:51Z
+  Updated: 2026-07-26T01:16:18Z
   Vendor: pdf Depository
   Product Type: Digital Download
   Availability: Available
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/the-ai-admin-escape-plan.png?v=1783290109
   Price: $4.99 USD
 - [10-Minute Burnout Reset: Daily Rituals for Stress & Energy | PDF Depository](https://www.pdfdepository.com/products/the-10-minute-burnout-reset-simple-daily-rituals-for-busy-adults-who-need-more-energy-calmer-evenings-and-a-brain-that-stops-opening-47-tabs): Simple 10-minute daily rituals to beat burnout, boost energy, calm your evenings, and quiet an overloaded mind. Practical PDF guide. Instant download.
-  Updated: 2026-07-22T05:11:43Z
+  Updated: 2026-07-26T01:01:03Z
   Vendor: pdf Depository
   Product Type: Digital Download
   Availability: Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/cute-animal-coloring-pages-2026-cover.png?v=1783432514
   Price: $4.97 USD
 - [Sea Animal Coloring Pages — 13-Page Printable PDF for Kids | Instant Download](https://www.pdfdepository.com/products/sea-animal-coloring-pages-13-page-printable-pdf-coloring-book-for-kids): Cute sea animal coloring pages PDF — 13 printable ocean designs for kids. Instant download, print at home. Perfect for classrooms & parties.
-  Updated: 2026-07-22T04:58:18Z
+  Updated: 2026-07-26T00:31:32Z
   Vendor: PDF Depository
   Product Type: Digital Download
   Availability: Available
@@ -227,6 +227,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/signs-she-is-cheating-cover.webp?v=1784224903
   Price: $4.99 USD
+- [Do It Yourself Credit Repair Guide — Fix Your Credit](https://www.pdfdepository.com/products/do-it-yourself-credit-repair-guide): Learn do it yourself credit repair step-by-step: dispute letters, remove collections, raise your score & rebuild credit. Complete DIY toolkit — just $20.
+  Updated: 2026-07-29T16:00:34Z
+  Vendor: PDF Depository
+  Product Type: Digital Download
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0825/0232/0342/files/do-it-yourself-credit-repair-cover.webp?v=1785294496
+  Price: $19.99 USD
 
 ## Collections
 
@@ -237,8 +244,8 @@
   Updated: 2026-07-16T19:09:25Z
   Total Products: 10
 - [Money & Finance](https://www.pdfdepository.com/collections/money-and-finance): Savings tracker printables, debt payoff trackers & personal finance guides for women. Instant PDF downloads to take control of your money today.
-  Updated: 2026-07-16T01:31:21Z
-  Total Products: 2
+  Updated: 2026-07-29T03:39:54Z
+  Total Products: 3
 - [Health & Wellness](https://www.pdfdepository.com/collections/health-and-wellness): Self care checklists, wellness planners & health guides for women. Instant PDF downloads to help you feel better, live better, every day.
   Updated: 2026-07-15T19:26:02Z
   Total Products: 7
@@ -316,6 +323,18 @@
     Updated: 2026-07-24T01:44:39Z
     Author: PDF Depository
     Tags: balance health and finances, budgeting, budgeting & finance, family finances, financial well-being, health budget, money, parenting & family, personal finance strategies, relationships, self-help, wellness, what are career growth strategies, what is the difference between health an
+  - [Enhance Your Well-being by Balancing Financial Goals and Family Life](https://www.pdfdepository.com/blogs/news/enhance-your-well-being-by-balancing-financial-goals-and-family-life): Enhance Your Well-being by Balancing Financial Goals and Family Life
+    Updated: 2026-07-27T01:45:44Z
+    Author: PDF Depository
+    Tags: achieve financial wellness, balance work and family, budgeting, budgeting & finance, family budgeting, finance, mental health, money, parenting & family, personal finance, relationships, well-being, what are career growth strategies, what is the difference between health an
+  - [What is the Difference between Health and Wellness in Budgeting Practices](https://www.pdfdepository.com/blogs/news/what-is-the-difference-between-health-and-wellness-in-budgeting-practices): What is the Difference between Health and Wellness in Budgeting Practices
+    Updated: 2026-07-29T01:31:38Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, budgeting for well-being, financial planning, health, healthy financial habits, money, parenting & family, personal finance, relationships, self-care tips, wellness, what are career growth strategies, what is the difference between health an
+  - [Enhancing Relationships through Smart Budgeting and Finance](https://www.pdfdepository.com/blogs/news/enhancing-relationships-through-smart-budgeting-and-finance): Enhancing Relationships through Smart Budgeting and Finance
+    Updated: 2026-07-31T01:33:00Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, enhance relationships through finance, finance, financial wellness strategies, money, parenting & family, personal finance, relationship tips, relationships, smart budgeting, well-being, what are career growth strategies, what is the difference between health an
 
 ## Store Pages
 
@@ -339,7 +358,7 @@
 - [Privacy Policy](https://www.pdfdepository.com/policies/privacy-policy)
   Updated: 2026-07-04T23:16:35-04:00
 - [Shipping Policy](https://www.pdfdepository.com/policies/shipping-policy)
-  Updated: 2026-07-04T23:17:50-04:00
+  Updated: 2026-07-28T20:59:27-04:00
 - [Refund Policy](https://www.pdfdepository.com/policies/refund-policy)
   Updated: 2026-07-04T23:16:17-04:00
 - [Terms of Service](https://www.pdfdepository.com/policies/terms-of-service)
