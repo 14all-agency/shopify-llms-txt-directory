@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-07-26T16:00:32.917Z
+- Updated At: 2026-08-02T16:00:35.042Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2463,53 +2463,7 @@ File Size: 376 MB
   Product Type: Video Downloads
   Availability: Available
   Price: $60.00 USD
-- [Latex Desire Photo Set](https://www.carrielachance.com/products/latex-desire-photo-download): If this shoot doesn’t make you hot, I’m not sure I can help. Carrie is at her absolute best. Her body looks incredible, tan, and toned with visible abs. Her hair is slicked back giving her a cool, sleek look, dominatrix like. Carrie is wearing a latex top, panties, gloves, thigh highs, and my black patent Christian Louboutin 6.3″ Exagona heels. As if this sexy latex outfit wasn’t hot enough, Carrie takes some of the steamiest implied, and nude shots she’s ever taken. This set is easily one of Carrie’s best ever and that’s saying a lot.
-
-Carrie LaChance – Gallery #161 🔞
-Total Images: 62 Photos
-Year: 2015
-File Size: 11 MB
-  Updated: 2026-04-26T20:05:40Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Latex_Desire_Photo_Set.jpg?v=1744586482
-  Price: $80.00 USD
-- [Latex Desire Video](https://www.carrielachance.com/products/latex-desire-video-download): If this shoot doesn’t make you hot, I’m not sure I can help. Carrie is at her absolute best. Her body looks incredible, tan, and toned with visible abs. Her hair is slicked back giving her a cool, sleek look, dominatrix like. Carrie is wearing a latex top, panties, gloves, thigh highs, and my black patent Christian Louboutin 6.3″ Exagona heels. As if this sexy latex outfit wasn’t hot enough, Carrie takes some of the steamiest implied, and nude shots she’s ever taken. This set is easily one of Carrie’s best ever and that’s saying a lot. This video is from Carrie LaChance – Gallery #161
-
-Latex Desire Video 🔞
-Run Time: 7 min
-Year: 2015
-File Size: 231 MB
-  Updated: 2026-04-26T20:05:40Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $60.00 USD
-- [Violet Photo Set](https://www.carrielachance.com/products/violet-photo-download): We all know that Carrie LaChance loves latex but for this shoot, she took things to another level. She’s wearing a latex hood, latex corset, latex dress, latex panties, fishnet thigh highs, and my violet purple Christian Louboutin Jem heels. While shooting, Carrie could barely breathe as the latex hood nearly suffocated her. Still, she managed to get some amazing shots in her all violet get up. Her body looks stunning and the fishnets and heels make her legs look so hot. This was a new look for Carrie and like every other look she pulled it off. This is definitely one of the most intense shoots she’s ever done.
-
-Carrie LaChance – Gallery #162
-Total Images: 52 Photos
-Year: 2015
-File Size: 13 MB
-  Updated: 2026-04-26T20:05:40Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Violet_Photo_Set.jpg?v=1744586312
-  Price: $40.00 USD
-- [Violet Video](https://www.carrielachance.com/products/violet-video-download): We all know that Carrie LaChance loves latex but for this shoot, she took things to another level. She’s wearing a latex hood, latex corset, latex dress, latex panties, fishnet thigh highs, and my violet purple Christian Louboutin Jem heels. While shooting, Carrie could barely breathe as the latex hood nearly suffocated her. Still, she managed to get some amazing shots in her all violet get up. Her body looks stunning and the fishnets and heels make her legs look so hot. This was a new look for Carrie and like every other look she pulled it off. This is definitely one of the most intense shoots she’s ever done. This video is from Carrie LaChance – Gallery #162
-
-Violet Video
-Run Time: 5 min
-Year: 2015
-File Size: 167 MB
-  Updated: 2026-04-26T20:05:40Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $40.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTI2NzQ4NDk2MDM5LCJsYXN0X3ZhbHVlIjoiNTUyNjc0ODQ5NjAzOSJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTE4NTc0NTUxMjA3LCJsYXN0X3ZhbHVlIjoiNTUxODU3NDU1MTIwNyJ9)
 
 ## Collections
 
@@ -3100,6 +3054,33 @@ File Size: 167 MB
     Updated: 2026-07-26T00:03:09Z
     Author: Carrie LaChance
     Tags: desire, enchanted heels theme,  diaries,  diary, fashion allure, glamour, glamour stories, intimate storytelling experiences, seduction, seductive stories, seductive storytelling
+  - [Sundrenched Glamour A Luxurious Escape into My World of High Heels Pantyhose and Pinup Model Allure](https://www.carrielachance.com/blogs/carrie-lachance/sundrenched-glamour-a-luxurious-escape-into-my-world-of-high-heels-pantyhose-and-pinup-model-allure): Sundrenched Glamour A Luxurious Escape into My World of High Heels Pantyhose and Pinup Model Allure
+    Updated: 2026-07-27T08:00:40Z
+    Author: Carrie LaChance
+    Tags: allure, behind the scense, carrie lachance, glamour, glamour model, heels, high heels, high heels footwear, latex model, life of a model, luxury fashion, outfit of the day, pantyhose, pantyhose trends guide, pinup model, pinup style, sexy model, stilettos, stylish model inspiration
+  - [My Top Tips for Taking Sexy High Heel Photos That Demand Attention](https://www.carrielachance.com/blogs/carrie-lachance/my-top-tips-for-taking-sexy-high-heel-photos-that-demand-attention): My Top Tips for Taking Sexy High Heel Photos That Demand Attention
+    Updated: 2026-07-28T00:02:25Z
+    Author: Carrie LaChance
+    Tags: capturing attention in fashion photograp, glamour model, heels, high heel tips, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, how to take high heel photos, modeling, modeling tips, photography, photoshoot, posing techniques, posing tips, sexy photos, social media model, taking good selfies
+  - [Maximize Earnings: Top Platforms for Content Creators](https://www.carrielachance.com/blogs/carrie-lachance/maximize-earnings-top-platforms-for-content-creators): Maximize Earnings: Top Platforms for Content Creators
+    Updated: 2026-07-29T10:00:40Z
+    Author: Carrie LaChance
+  - [Seductive Stilettos: Discover Why Men Are Drawn to Glossy Legs and Glamour](https://www.carrielachance.com/blogs/carrie-lachance/seductive-stilettos-discover-why-men-are-drawn-to-glossy-legs-and-glamour): Seductive Stilettos: Discover Why Men Are Drawn to Glossy Legs and Glamour
+    Updated: 2026-07-30T00:01:53Z
+    Author: Carrie LaChance
+    Tags: allure of stilettos, attraction, glossy legs, heels, high heel effects, high heels, leg length perception, psychology, psychology of high heels, seductive footwear, why men love women in heels
+  - [Luxurious Love: Carrie’s Secrets to Developing an Emotional Connection with Her](https://www.carrielachance.com/blogs/carrie-lachance/luxurious-love-carrie-s-secrets-to-developing-an-emotional-connection-with-her): Luxurious Love: Carrie’s Secrets to Developing an Emotional Connection with Her
+    Updated: 2026-07-31T00:02:01Z
+    Author: Carrie LaChance
+    Tags: build rapport, dating, dating advice, effective communication strategies, emotional connection, how to find a high heel girl, how to find right girl, love, men dating tips, relationships
+  - [The Magic of Pantyhose and High Heels in Glamour Fashion](https://www.carrielachance.com/blogs/carrie-lachance/the-magic-of-pantyhose-and-high-heels-in-glamour-fashion): The Magic of Pantyhose and High Heels in Glamour Fashion
+    Updated: 2026-08-01T00:01:00Z
+    Author: Carrie LaChance
+    Tags: best high heels for leg enhancement, fashion trends, glamour style, glossy legs, heels, how to wear pantyhose, nylons, pantyhose
+  - [Diary of a Midnight Seduction: When Glamour and Lingerie Whisper Teasing Secrets](https://www.carrielachance.com/blogs/carrie-lachance/diary-of-a-midnight-seduction-when-glamour-and-lingerie-whisper-teasing-secrets): Diary of a Midnight Seduction: When Glamour and Lingerie Whisper Teasing Secrets
+    Updated: 2026-08-02T00:03:41Z
+    Author: Carrie LaChance
+    Tags:  diary,  storytelling, glamour, glamour stories, lingerie whispers, midnight seduction, secrets, seduction, seductive diary themes, seductive stories, teasing storytelling techniques
 
 ## Store Pages
 
@@ -3107,8 +3088,8 @@ File Size: 167 MB
   Updated: 2025-03-24T21:57:37Z
 - [About Carrie LaChance](https://www.carrielachance.com/pages/about): Carrie LaChance – Model • Entrepreneur • High Heel Queen Carrie LaChance is a professional model, social media personality, and entrepreneur whose ...
   Updated: 2025-09-12T22:32:23Z
-- [Carrie LaChance Official Website Links](https://www.carrielachance.com/pages/links): The following links are our official links. allmylinks.com/carrielachance archenemys.com (this page) bombshell.fans bsky.app/profile/carrielachance...
-  Updated: 2026-07-04T20:08:09Z
+- [Carrie LaChance Official Website Links](https://www.carrielachance.com/pages/links): The following links are our official links. onlyfans.com/carrielachance 🔞 Exclusive Content allmylinks.com/carrielachance archenemys.com (this page...
+  Updated: 2026-07-31T17:30:51Z
 - [Luxe My Body Founder Carrie LaChance](https://www.carrielachance.com/pages/luxe-my-body-founder-carrie-lachance): Luxe My Body is a high-end fashion brand of luxury hosiery & footwear founded by Carrie LaChance. www.LuxeMyBody.com
   Updated: 2025-04-09T01:04:54Z
 - [Bombshell Influencers Founder Carrie LaChance](https://www.carrielachance.com/pages/bombshell-influencers-founder-carrie-lachance): Bombshell Influencers is the world's first agency-friendly, fully monetizable, socially expressive hybrid platform for sharing Creator driven conte...
