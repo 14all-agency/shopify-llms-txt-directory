@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2020-01-08T15:55:40Z
 - Contact Email: info@nameplatedepot.com
-- Updated At: 2026-07-18T15:46:43.456Z
+- Updated At: 2026-08-03T00:00:32.796Z
 
 ## Products
 
 - [Sterling Silver Classic Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/sterling-silver-classic-name-necklace): Here it is! The perfect silver name necklace. Our Personalized Classic Name Necklace in .925 Sterling Silver is a favorite. This beautiful necklace  - NamePlateDepot
-  Updated: 2026-07-12T09:23:57Z
+  Updated: 2026-08-01T04:00:08Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/AJS043-Rose-Gold-Name-Necklace.jpg?v=1766256478
     Price: $73.00 USD
 - [Kids 3D Nameplate Necklace with Diamond Accent at NamePlateDepot](https://www.nameplatedepot.com/products/kids-3d-nameplate-necklace-with-diamond-accent): Make your little one sparkle with this elegant Kids 3D Nameplate Necklace with Diamond Accent. Expertly crafted with 15 dazzling cubic zirconia, this  - NamePlateDepot
-  Updated: 2026-07-12T09:23:57Z
+  Updated: 2026-08-01T04:00:19Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -141,7 +141,7 @@
     Availability: Available
     Price: $262.00 USD
 - [Double Name Plate Necklace with Diamond Cut at NamePlateDepot](https://www.nameplatedepot.com/products/double-name-plate-necklace-with-diamond-cut): Enjoy timeless elegance with this custom-made Petite Double Name Plate Necklace with Diamond Cut and 15 CZ. Crafted from fine-quality metal and  - NamePlateDepot
-  Updated: 2026-07-12T09:23:57Z
+  Updated: 2026-08-01T04:00:05Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Available
     Price: $267.00 USD
 - [Personalized 3D Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-3d-nameplate-necklace): Show off your unique style with a personalized 3D Nameplate Necklace with 10 CZ. Crafted with care, this custom-made nameplate features a diamond-cut  - NamePlateDepot
-  Updated: 2026-07-12T09:24:02Z
+  Updated: 2026-08-01T04:00:35Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -174,7 +174,7 @@
     Availability: Available
     Price: $325.00 USD
 - [Double Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/double-nameplate-necklace): This personalized double nameplate necklaces comes with sparkling CZ set on rhodium cut to give max bling impact. Specs: Type: Double 3D Style Base  - NamePlateDepot
-  Updated: 2026-07-12T09:24:02Z
+  Updated: 2026-08-01T04:00:55Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -189,7 +189,7 @@
     Availability: Available
     Price: $325.00 USD
 - [Custom 3D Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace): Make a unique statement with our Custom 3D Nameplate Necklace, featuring a double plate with wave pattern for a 3D look. The diamond cut and 20 CZ  - NamePlateDepot
-  Updated: 2026-07-12T09:24:02Z
+  Updated: 2026-08-01T04:01:20Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -213,7 +213,7 @@
     Availability: Available
     Price: $306.00 USD
 - [Nameplate Chain Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/nameplate-chain-necklace-with-heart): This exquise Nameplate Chain Necklace wh Heart is crafted wh love and care, outfted wh 20 dazzling CZ stones for maximum sparkle. Customize  - NamePlateDepot
-  Updated: 2026-07-12T09:24:06Z
+  Updated: 2026-08-01T04:00:44Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -228,7 +228,7 @@
     Availability: Available
     Price: $315.00 USD
 - [3D Heart Nameplate Necklace  at NamePlateDepot](https://www.nameplatedepot.com/products/3d-heart-nameplate-necklace): Adorn yourself in luxury with the 3D Hert Nmeplte Necklce Extr Big with 20 CZ. This chic nme plte necklce showcses  double plte design with  - NamePlateDepot
-  Updated: 2026-07-12T09:24:06Z
+  Updated: 2026-08-01T04:00:38Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -246,7 +246,7 @@
     Availability: Available
     Price: $315.00 USD
 - [Personalized Necklace Name Plate at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-necklace-name-plate): Featuring a big, bold nameplate design, this timeless personalized necklace is sure to become your go-to accessory for any special occasion. Boasting  - NamePlateDepot
-  Updated: 2026-07-12T09:24:06Z
+  Updated: 2026-08-01T04:00:40Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -261,7 +261,7 @@
     Availability: Available
     Price: $340.00 USD
 - [Two Heart Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace): This two-heart nameplate necklace with 20 CZ offers a custom made design to give you something truly unique and special. Its diamond cut accents  - NamePlateDepot
-  Updated: 2026-07-12T09:24:07Z
+  Updated: 2026-08-01T04:00:17Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -285,7 +285,7 @@
     Availability: Available
     Price: $267.00 USD
 - [Double Personalized Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/double-personalized-necklace-with-heart): This double personalized necklace with heart is a luxurious expression of affection. Its name plate necklace is adorned with a wave design below the  - NamePlateDepot
-  Updated: 2026-07-12T09:24:11Z
+  Updated: 2026-08-01T04:00:35Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -313,7 +313,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP32.jpg?v=1766256530
     Price: $306.00 USD
 - [3D Nameplate Necklace with Bird & Heart at NamePlateDepot](https://www.nameplatedepot.com/products/3d-nameplate-necklace-with-bird-heart): This 3D Nameplate Necklace with Bird &amp; Heart with 20 CZ exudes chic elegance and understated sophistication. The diamond-cut nameplate necklace  - NamePlateDepot
-  Updated: 2026-07-12T09:24:17Z
+  Updated: 2026-08-01T04:00:40Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -340,7 +340,7 @@
     Availability: Available
     Price: $301.00 USD
 - [Two Tone Nameplate Necklace with at Bow at NamePlateDepot](https://www.nameplatedepot.com/products/two-tone-nameplate-necklace-with-at-bow): This exquisite Two Tone Nameplate Necklace will elevate y look to luxurious heights. Crafted from sterling silver, this personalized piece features  - NamePlateDepot
-  Updated: 2026-07-12T09:24:17Z
+  Updated: 2026-08-01T04:00:25Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -355,7 +355,7 @@
     Availability: Available
     Price: $315.00 USD
 - [Big Small Letter Nameplate Necklace Two Tone at NamePlateDepot](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone): This dazzling two-tone  necklace brings a touch of elegance to any look. Crafted in sterling silver and plated in gold, it features a  - NamePlateDepot
-  Updated: 2026-07-12T09:24:21Z
+  Updated: 2026-08-01T04:00:42Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -373,7 +373,7 @@
     Availability: Available
     Price: $315.00 USD
 - [Custom 3D Nameplate Necklace with Birthstone Heart at NamePlateDepot](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-with-birthstone-heart): Perfect for a unique expression of love, this custom 3D nameplate necklace features a diamond-cut name and a birthstone heart at its center. Crafted  - NamePlateDepot
-  Updated: 2026-07-12T09:24:27Z
+  Updated: 2026-08-01T04:00:57Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -403,7 +403,7 @@
     Availability: Available
     Price: $346.00 USD
 - [3D Name Plate Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/3d-name-plate-necklace-with-heart): Adorn your neck in sparkling diamond-cut elegance with this exquisitely crafted custom-made 3D Name Plate Necklace with Heart. Featuring 20  - NamePlateDepot
-  Updated: 2026-07-12T09:24:26Z
+  Updated: 2026-08-01T04:00:52Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -418,7 +418,7 @@
     Availability: Available
     Price: $306.00 USD
 - [Big Size Nameplate Necklace with Tail at NamePlateDepot](https://www.nameplatedepot.com/products/big-size-nameplate-necklace-with-tail): This Big Size Nameplate Necklace with Tail provides a personalized touch to a classic design. Crafted with 20 cubic zirconia stones set in a double  - NamePlateDepot
-  Updated: 2026-07-12T09:24:27Z
+  Updated: 2026-08-01T04:00:51Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -433,7 +433,7 @@
     Availability: Available
     Price: $335.00 USD
 - [Custom 3D Name Plate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace): This sophisticated name plate necklace is the perfect way to show your everlasting love and admiration with its exquisite design. The sparkling 10 CZs  - NamePlateDepot
-  Updated: 2026-07-12T09:24:36Z
+  Updated: 2026-08-01T04:01:04Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -467,7 +467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP39.jpg?v=1766256554
     Price: $536.00 USD
 - [Personalized Double Plate 3D Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-double-plate-3d-name-necklace): Adorn yourself with a timeless keepsake--the Personalized Double Plate 3D Name Necklace with 20 CZ. Showcasing your personal name or the name of a  - NamePlateDepot
-  Updated: 2026-07-12T09:24:36Z
+  Updated: 2026-08-01T04:00:56Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -486,7 +486,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP40.jpg?v=1766256561
     Price: $315.00 USD
 - [Curved 3D Nameplate Necklace with Two Hearts at NamePlateDepot](https://www.nameplatedepot.com/products/curved-3d-nameplate-necklace-with-two-hearts): Introducing the Curved 3D Nameplate Necklace with Two Hearts with 10 CZ! This unique  stylish necklace is the perfect way to show your personality  - NamePlateDepot
-  Updated: 2026-07-12T09:25:04Z
+  Updated: 2026-08-01T04:01:21Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -644,7 +644,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/JME001-3.jpg?v=1766256561
     Price: $615.50 USD
 - [Big 3D Double Plated CZ Nameplate Necklace with Crown at NamePlateDepot](https://www.nameplatedepot.com/products/big-3d-double-plated-cz-nameplate-necklace-with-crown): Admirably opulent, this Big 3D Double Plated CZ Nameplate Necklace with Crown is the perfect statement piece for the modern queen. Featuring a  - NamePlateDepot
-  Updated: 2026-07-12T09:25:03Z
+  Updated: 2026-08-01T04:01:42Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -665,7 +665,7 @@
     Availability: Available
     Price: $325.00 USD
 - [Valentines Ruby Hearts Nameplate Necklace for Women at NamePlateDepot](https://www.nameplatedepot.com/products/valentines-ruby-hearts-nameplate-necklace-for-women): This Valentines Ruby Hearts Nameplate Necklace is a perfect way for her to show off her personal style. Crafted from two-tone silver with a classic  - NamePlateDepot
-  Updated: 2026-07-12T09:25:07Z
+  Updated: 2026-08-01T04:01:34Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -683,7 +683,7 @@
     Availability: Available
     Price: $572.00 USD
 - [Valentine Day Two Hearts Nameplate Necklace for Women at NamePlateDepot](https://www.nameplatedepot.com/products/valentine-day-two-hearts-nameplate-necklace-for-women): Celebrate love and affection with this Valentine Day Two Hearts Nameplate Necklace for Women. Crafted with a two-tone design, the necklace features a  - NamePlateDepot
-  Updated: 2026-07-12T09:25:11Z
+  Updated: 2026-08-01T04:01:42Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -698,7 +698,7 @@
     Availability: Available
     Price: $383.00 USD
 - [3D Nameplate Neckalce with Back Plate in Sterling Silver at NamePlateDepot](https://www.nameplatedepot.com/products/3d-nameplate-neckalce-with-back-plate-in-sterling-silver): Adorn your neck with style, elegance, and exclusivity with our 3D Nameplate Necklace. Crafted in sterling silver and adorned with 20 dazzling CZ  - NamePlateDepot
-  Updated: 2026-07-12T09:25:11Z
+  Updated: 2026-08-01T04:01:35Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -719,7 +719,7 @@
     Availability: Available
     Price: $335.00 USD
 - [Butterfly Name Plate Necklace Big in Gold Overlay at NamePlateDepot](https://www.nameplatedepot.com/products/butterfly-name-plate-necklace-big-in-gold-overlay): This exquisite Butterfly Name Plate Necklace Big with 10 CZ is the perfect way to express your individuality in style. Crafted with a double plate  - NamePlateDepot
-  Updated: 2026-07-12T09:25:17Z
+  Updated: 2026-08-01T04:01:37Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -746,7 +746,7 @@
     Availability: Available
     Price: $354.00 USD
 - [Curssive Font Nameplate Necklace Double Plated at NamePlateDepot](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated): Fully loaded nameplate necklace with 20 sparkling crystals will make it stand out in any necklace.   Specs: Type: Double 3D Style Base Metal: .925  - NamePlateDepot
-  Updated: 2026-07-12T09:25:21Z
+  Updated: 2026-08-01T04:01:27Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -776,7 +776,7 @@
     Availability: Available
     Price: $335.00 USD
 - [3D Nameplate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/3d-nameplate-necklace): Enhance your look with this exquisite 3D Nameplate Necklace with 20 CZ. Crafted from sterling silver with an elegant plating option, this impressive  - NamePlateDepot
-  Updated: 2026-07-12T09:25:27Z
+  Updated: 2026-08-01T04:01:47Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -791,7 +791,7 @@
     Availability: Available
     Price: $295.00 USD
 - [ Double Plated Name Necklace in Gold Overlay at NamePlateDepot](https://www.nameplatedepot.com/products/-double-plated-name-necklace-in-gold-overlay): Stay ahead of the trends with this stylish and luxurious  Double Plated Name Necklace in Gold Overlay with 20 CZ. This high-end fashion  - NamePlateDepot
-  Updated: 2026-07-12T09:25:27Z
+  Updated: 2026-08-01T04:01:47Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -815,7 +815,7 @@
     Availability: Available
     Price: $315.00 USD
 - [3D Block Nameplate Necklace  at NamePlateDepot](https://www.nameplatedepot.com/products/3d-block-nameplate-necklace): Designed for the fashion-forward man, this 3D Block Nameplate Necklace with 20 CZs stands out with its bold, block letters and luxurious nameplate. An  - NamePlateDepot
-  Updated: 2026-07-12T09:25:27Z
+  Updated: 2026-08-01T04:01:46Z
   Vendor: nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -834,7 +834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP50.jpg?v=1766256594
     Price: $286.00 USD
 - [Large Personalized Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/large-personalized-name-necklace): This luxurious Large Personalized Name Necklace will add a touch of sophistication and class to your look. Crafted from sterling silver, the delicate  - NamePlateDepot
-  Updated: 2026-07-12T09:25:31Z
+  Updated: 2026-08-01T04:02:03Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -858,14 +858,14 @@
     Availability: Available
     Price: $185.00 USD
 - [Name Plate Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/name-plate-necklace): Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay : Polish  or Brushed Satin  - NamePlateDepot
-  Updated: 2026-07-12T09:25:36Z
+  Updated: 2026-08-01T04:02:03Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP09B.jpg?v=1766256613
   Price: $131.00 USD
 - [Personalized Curssive Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-curssive-name-necklace): A classic, subtle style with a personalized touch, this personalized cursive name necklace is perfect for wearing every day. Its timeless design will  - NamePlateDepot
-  Updated: 2026-07-12T09:25:36Z
+  Updated: 2026-08-01T04:01:50Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -886,7 +886,7 @@
     Availability: Available
     Price: $176.00 USD
 - [Curssive Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/curssive-name-necklace): For the perfect blend of personal customisation and sophisticated luxury, our sterling silver block name necklace is the perfect choice. Handcrafted  - NamePlateDepot
-  Updated: 2026-07-12T09:25:41Z
+  Updated: 2026-08-01T04:02:03Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -919,7 +919,7 @@
     Availability: Available
     Price: $166.00 USD
 - [Personalized Classic Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/personalized-classic-name-necklace): Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay : Polish  or Brushed Satin  - NamePlateDepot
-  Updated: 2026-07-12T09:25:41Z
+  Updated: 2026-08-01T04:02:03Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -931,7 +931,7 @@
     Availability: Available
     Price: $121.00 USD
 - [Large Name Necklace Princess Style at NamePlateDepot](https://www.nameplatedepot.com/products/large-name-necklace-princess-style): Specs: Base Metal: .925 Sterling Silver Colors: Sterling Silver, Yellow Gold Overlay or Rose Gold Overlay : Polish  or Brushed Satin  - NamePlateDepot
-  Updated: 2026-07-12T09:25:46Z
+  Updated: 2026-08-01T04:01:51Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -946,7 +946,7 @@
     Availability: Available
     Price: $176.00 USD
 - [Styled Name Necklace at NamePlateDepot](https://www.nameplatedepot.com/products/styled-name-necklace): This elegant name necklace is the perfect choice to add a touch of sophistication and timeless style to your jewelry collection. Crafted with precise  - NamePlateDepot
-  Updated: 2026-07-12T09:25:51Z
+  Updated: 2026-08-01T04:01:59Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -982,7 +982,7 @@
     Availability: Available
     Price: $225.00 USD
 - [Two Name Necklace with Heart at NamePlateDepot](https://www.nameplatedepot.com/products/two-name-necklace-with-heart): This exquisite two name necklace is hand-cut with a diamond accent to commemorate a special bond or union. The top name and bottom name curve  - NamePlateDepot
-  Updated: 2026-07-12T09:25:51Z
+  Updated: 2026-08-01T04:02:03Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1003,7 +1003,7 @@
     Availability: Available
     Price: $259.00 USD
 - [Gothic Name Necklace with All Capital Letters at NamePlateDepot](https://www.nameplatedepot.com/products/gothic-name-necklace-with-all-capital-letters): Crafted from sterling silver and finely detailed with a blockish font, this luxurious Gothic Name Necklace offers a sophisticated and exclusive way to  - NamePlateDepot
-  Updated: 2026-07-12T09:25:57Z
+  Updated: 2026-08-01T04:02:05Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1027,7 +1027,7 @@
     Availability: Available
     Price: $176.00 USD
 - [Custom Name Necklace with Heart on Top at NamePlateDepot](https://www.nameplatedepot.com/products/custom-name-necklace-with-heart-on-top): This exclusive Custom Nme Necklce with Hert on Top is the perfect gift for the little girl in your life. Crfted from sterling silver nd feturing  - NamePlateDepot
-  Updated: 2026-07-12T09:26:01Z
+  Updated: 2026-08-01T04:02:25Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1048,7 +1048,7 @@
     Availability: Available
     Price: $160.00 USD
 - [Curved Name Necklace with Heart & Accent at NamePlateDepot](https://www.nameplatedepot.com/products/curved-name-necklace-with-heart-accent): Elevate your wardrobe with this sophisticated curved name necklace made of sterling silver and gold overlay. Increase your style with the additional  - NamePlateDepot
-  Updated: 2026-07-12T09:26:02Z
+  Updated: 2026-08-01T04:02:28Z
   Vendor: nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1066,7 +1066,7 @@
     Availability: Available
     Price: $131.00 USD
 - [Kids Gold Name necklace with birthstone - NamePlateDepot](https://www.nameplatedepot.com/products/gold-name-necklace-with-birthstone): Make a lasting impression with a stunning gold name necklace featuring a beautiful birthstone. Personalize it with your name, or the name of your  - NamePlateDepot
-  Updated: 2026-07-12T09:26:07Z
+  Updated: 2026-08-01T04:02:34Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1105,7 +1105,7 @@
     Availability: Available
     Price: $808.50 USD
 - [Kids 3D Nameplate Necklace with Diamond Accent - NamePlateDepot](https://www.nameplatedepot.com/products/kids-3d-gold-nameplate-necklace): Introducing the Kids 3D Nameplate Necklace with Diamond Accent! This dainty and oh-so-cute piece is perfect for any new mama looking to adorn her  - NamePlateDepot
-  Updated: 2026-07-12T09:26:17Z
+  Updated: 2026-08-01T04:02:33Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1141,7 +1141,7 @@
     Availability: Available
     Price: $1,023.50 USD
 - [Double Name Plate Necklace with Diamond Cut - NamePlateDepot](https://www.nameplatedepot.com/products/10k-14k-gold-double-name-plate-necklace-with-diamond-cut): Make a daily statement with this 10K / 14K Gold Double Name Plate Necklace with Diamond Cut! It's delicate danity design is perfect for layering with  - NamePlateDepot
-  Updated: 2026-07-12T09:26:21Z
+  Updated: 2026-08-01T04:02:32Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1178,7 +1178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP02_1f90d653-59b0-4c93-ab12-2f48d60fd188.jpg?v=1766256684
     Price: $1,818.50 USD
 - [Personalized 3D Nameplate Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/real-gold-personalized-3d-nameplate-necklace): Step up your necklace game with this personalized 3D Nameplate Necklace! Customize with any name of your choice on diamond-cut, 3D double plates that  - NamePlateDepot
-  Updated: 2026-07-12T09:26:26Z
+  Updated: 2026-08-01T04:02:51Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1214,7 +1214,7 @@
     Availability: Available
     Price: $1,218.50 USD
 - [Double Nameplate Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/gold-double-nameplate-necklace): 3D double nameplate in Cursive font with diamond cut design and an underline accent. Fly like a  with this diamond cut, 3D double nameplate  - NamePlateDepot
-  Updated: 2026-07-12T09:26:31Z
+  Updated: 2026-08-01T04:02:42Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1247,7 +1247,7 @@
     Availability: Available
     Price: $2,065.50 USD
 - [Miami Magic Custom 3D Nameplate Necklace in 10K / 14K Gold -](https://www.nameplatedepot.com/products/custom-3d-nameplate-necklace-in-10k-14k-gold): Catch the magic of Miami nights with our Diamond Cut Personalized Nameplate Necklace, showcasing an enchanting wave design beneath your name. This  - NamePlateDepot
-  Updated: 2026-07-12T09:26:36Z
+  Updated: 2026-08-01T04:02:51Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1294,7 +1294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP08_0b0d0a1b-b75e-450c-a2b3-da981b82b6b6.jpg?v=1766256697
     Price: $2,253.50 USD
 - [Nameplate Chain Necklace with Heart - NamePlateDepot](https://www.nameplatedepot.com/products/10k-14k-gold-nameplate-chain-necklace-with-heart): Personalize the perfect necklace with your name and diamond cut in letters to make it stand out. Show off your special style with this one-of-a-kind  - NamePlateDepot
-  Updated: 2026-07-12T09:26:41Z
+  Updated: 2026-08-01T04:03:07Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1326,7 +1326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP10_a705f90e-d415-4c0a-aeb1-6f89675d691f.jpg?v=1766256702
     Price: $1,646.50 USD
 - [Real Gold 3D Heart Nameplate Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/real-gold-3d-heart-nameplate-necklace): Make a bold statement of love with this luxurious Real Gold 3D Heart Nameplate Necklace, intricately designed with two tones and diamond-cut  - NamePlateDepot
-  Updated: 2026-07-12T09:26:46Z
+  Updated: 2026-08-01T04:03:14Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1356,14 +1356,14 @@
     Availability: Available
     Price: $2,686.50 USD
 - [Gold Personalized Necklace Name Plate - NamePlateDepot](https://www.nameplatedepot.com/products/gold-personalized-necklace-name-plate): Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 55mm x 22mm. Total length  - NamePlateDepot
-  Updated: 2026-07-12T09:26:46Z
+  Updated: 2026-08-01T04:03:06Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP21_425e045a-440a-4236-8fab-8aab1c0c7cb0.jpg?v=1766256708
   Price: $1,828.50 USD
 - [Two Heart Nameplate Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/two-heart-nameplate-necklace-in-10k-14k-gold): Give your loved one  specil birthdy gift they won't forget with this two hert nmeplte necklce! A rel golden hert with their birthstone, plus  - NamePlateDepot
-  Updated: 2026-07-12T09:26:51Z
+  Updated: 2026-08-01T04:03:03Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1391,7 +1391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP31.jpg?v=1766256715
     Price: $1,282.50 USD
 - [10K / 14K Gold Double Personalized Necklace with Heart -](https://www.nameplatedepot.com/products/10k-14k-gold-double-personalized-necklace-with-heart): Turn some heads with this 10K/14K Gold Double Personalized Necklace with Heart! This sparkly beauty features a diamond accent design, a wave design  - NamePlateDepot
-  Updated: 2026-07-12T09:26:56Z
+  Updated: 2026-08-01T04:03:20Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1427,7 +1427,7 @@
     Availability: Available
     Price: $2,554.50 USD
 - [3D Nameplate Necklace with Bird & Heart - NamePlateDepot](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-necklace-with-bird-heart): Show your love for NYC with this stunning 3D Nameplate Necklace with Bird &amp; Heart! Our classic diamond-cut gold nameplate is elevated with a  - NamePlateDepot
-  Updated: 2026-07-12T09:27:02Z
+  Updated: 2026-08-01T04:03:25Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1445,7 +1445,7 @@
     Availability: Available
     Price: $1,882.50 USD
 - [Two Tone Nameplate Necklace with at Bow - NamePlateDepot](https://www.nameplatedepot.com/products/gold-two-tone-nameplate-necklace-with-at-bow): Add a touch of sparkle to your neckline with this two tone nameplate necklace! You'll love the chic 3D design with its engraved ribbon-like detail  - NamePlateDepot
-  Updated: 2026-07-12T09:27:02Z
+  Updated: 2026-08-01T04:03:28Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1463,7 +1463,7 @@
     Availability: Available
     Price: $1,882.50 USD
 - [Big Small Letter Nameplate Necklace Two Tone in 10K / 14K Gold -](https://www.nameplatedepot.com/products/big-small-letter-nameplate-necklace-two-tone-in-10k-14k-gold): Introducing our San Diego Sun-kissed Big &amp; Small Letter Nameplate Necklace - an enchanting embodiment of San Diego's vibrant spirit, vivacious  - NamePlateDepot
-  Updated: 2026-07-12T09:27:06Z
+  Updated: 2026-08-01T04:03:30Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1484,7 +1484,7 @@
     Availability: Available
     Price: $2,261.50 USD
 - [Custom 3D Nameplate Necklace with Birthstone Heart - NamePlateDepot](https://www.nameplatedepot.com/products/gold-custom-3d-nameplate-necklace): Treat yourself (or some else!) to the perfect present with this Custom 3D Nameplate Necklace with Birthst Heart. Not only will you or your loved  - NamePlateDepot
-  Updated: 2026-07-12T09:27:21Z
+  Updated: 2026-08-01T04:03:55Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1601,7 +1601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP36_f5a6048f-c778-4344-aafe-d4d987bf2c86.jpg?v=1766256741
     Price: $1,882.50 USD
 - [3D Name Plate Necklace with Heart - NamePlateDepot](https://www.nameplatedepot.com/products/real-gold-3d-name-plate-necklace-with-heart): Treat that special someone to love and NYC-style bling with this sparkling 3D Name Plate Necklace with Heart. Add a personalized name to the diamond  - NamePlateDepot
-  Updated: 2026-07-12T09:27:26Z
+  Updated: 2026-08-01T04:04:05Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1622,7 +1622,7 @@
     Availability: Available
     Price: $1,388.50 USD
 - [Gold Big Size Nameplate Necklace with Tail - NamePlateDepot](https://www.nameplatedepot.com/products/gold-big-size-nameplate-necklace-with-tail): Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 42.5mm x 23mm. Total length  - NamePlateDepot
-  Updated: 2026-07-12T09:27:27Z
+  Updated: 2026-08-01T04:03:46Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1637,7 +1637,7 @@
     Availability: Available
     Price: $2,846.50 USD
 - [Our Everlasting Love: 3D Name Plate Necklace in 10K / 14K Gold -](https://www.nameplatedepot.com/products/custom-3d-name-plate-necklace-in-10k-14k-gold): Our Everlasting Love Nameplate Necklace serves as a beautiful reminder of the ones we hold dear. Expertly personalized and custom-made, this piece  - NamePlateDepot
-  Updated: 2026-07-12T09:27:37Z
+  Updated: 2026-08-01T04:03:47Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1688,7 +1688,7 @@
     Availability: Available
     Price: $2,368.50 USD
 - [Personalized Double Plate 3D Name Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-double-plate-3d-name-necklace): Show 'em who's boss with this unique 3D Name Necklace! Customize it with your own name and an underline, heart, and diamond for extra pizzazz.  Specs:  - NamePlateDepot
-  Updated: 2026-07-12T09:27:42Z
+  Updated: 2026-08-01T04:04:04Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1718,7 +1718,7 @@
     Availability: Available
     Price: $2,046.50 USD
 - [Curved 3D Diamond Nameplate Pendant in Solid Gold & Diamonds](https://www.nameplatedepot.com/products/diamond-heart-necklace): Get this curved nameplate necklace personalized in solid gold 10K &amp; 14K and add diamonds to any name.
-  Updated: 2026-07-12T09:27:41Z
+  Updated: 2026-08-01T04:04:07Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1733,7 +1733,7 @@
     Availability: Available
     Price: $1,200.00 USD
 - [Gold Big 3D Double Plated CZ Nameplate Necklace with Crown -](https://www.nameplatedepot.com/products/gold-big-3d-double-plated-cz-nameplate-necklace-with-crown): Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 43mm x 12mm. Total length  - NamePlateDepot
-  Updated: 2026-07-12T09:27:47Z
+  Updated: 2026-08-01T04:03:59Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1760,7 +1760,7 @@
     Availability: Available
     Price: $1,500.50 USD
 - [Valentines Ruby Hearts Nameplate Necklace for Women - NamePlateDepot](https://www.nameplatedepot.com/products/gold-nameplate-necklace-for-women): This Vlentines Ruby Herts Nmeplte Necklce is your pssport to  posh look. Feturing two herts, you cn customize it with your nme nd even dd  - NamePlateDepot
-  Updated: 2026-07-12T09:27:51Z
+  Updated: 2026-08-01T04:04:08Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1787,7 +1787,7 @@
     Availability: Available
     Price: $2,046.50 USD
 - [Los Angeles Love: 3D Dual Heart Nameplate Necklace in Real Gold with Diamond Cut Name and Birthstone](https://www.nameplatedepot.com/products/gold-two-hearts-nameplate-necklace-for-women): The heart of Los Angeles fashion meets personalized luxury in our spectacular 3D Dual Heart Nameplate Necklace. Crafted in exquisite, real gold, this  - NamePlateDepot
-  Updated: 2026-07-12T09:27:57Z
+  Updated: 2026-08-01T04:04:03Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1830,7 +1830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP44_ef9d3e38-e661-4a07-bf3f-fab36676f62e.jpg?v=1766256768
     Price: $3,175.50 USD
 - [Real Gold 3D Nameplate Neckalce with Back Plate - NamePlateDepot](https://www.nameplatedepot.com/products/real-gold-3d-nameplate-neckalce-with-back-plate): Specs: Type: Double 3D Style Metal: Real Solid Gold - 10K or 14k Colors: White Gold, Yellow Gold or Rose Gold Dimension: 46mm x 18mm. Total length  - NamePlateDepot
-  Updated: 2026-07-12T09:27:57Z
+  Updated: 2026-08-01T04:04:03Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1842,7 +1842,7 @@
     Availability: Available
     Price: $3,600.50 USD
 - [Gold Butterfly Name Plate Necklace Big - NamePlateDepot](https://www.nameplatedepot.com/products/gold-butterfly-name-plate-necklace-big-in-gold-overlay): This elegant Gold Butterfly Name Plate Necklace Big is a luxurious fashion statement crafted from real gold for an unmistakably opulent finish.  - NamePlateDepot
-  Updated: 2026-07-12T09:28:02Z
+  Updated: 2026-08-01T04:04:14Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -1869,7 +1869,7 @@
     Availability: Available
     Price: $2,904.50 USD
 - [Miami Magic: Nameplate Necklace Double Plated in 10K / 14K Gold](https://www.nameplatedepot.com/products/curssive-font-nameplate-necklace-double-plated-gold): Bask in the Miami Magic with our Personalized Gold Nameplate Necklace, beautifully adorned with diamond accents and a heart-wave design, meticulously  - NamePlateDepot
-  Updated: 2026-07-12T09:28:12Z
+  Updated: 2026-08-01T04:04:33Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -1918,7 +1918,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PDP47_721fd3ad-172f-4df9-b00c-108c957a87e4.jpg?v=1766256786
     Price: $2,751.50 USD
 - [Curssive 3D Nameplate Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/10k-14k-gold-3d-nameplate-necklace): Make a statement with our  Curssive 3D Nameplate Necklace! Handcrafted with love and care, this double-plated delight adds sass and style to your  - NamePlateDepot
-  Updated: 2026-07-12T09:28:42Z
+  Updated: 2026-08-01T04:05:06Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -2074,7 +2074,7 @@
     Availability: Available
     Price: $2,530.50 USD
 - [ Double Plated Name Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/real-gold--double-plated-name-necklace-in-gold-overlay): Head-turning style with a personalized touch! This  double plated name necklace is sure to stand out - with a unique 3D design and real gold  - NamePlateDepot
-  Updated: 2026-07-12T09:28:47Z
+  Updated: 2026-08-01T04:04:55Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -2110,7 +2110,7 @@
     Availability: Available
     Price: $2,118.50 USD
 - [3D Block Nameplate Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/gold-3d-block-nameplate-necklace): Get personal with Nameplatedepot's block name necklace, crafted with diamond accent design set in gold of your choice 10K or 14K. Choose either your  - NamePlateDepot
-  Updated: 2026-07-12T09:28:57Z
+  Updated: 2026-08-01T04:05:00Z
   Vendor: Nameplatedepot
   Product Type: Double Plated / 3D
   Availability: Available
@@ -2158,7 +2158,7 @@
     Availability: Available
     Price: $1,611.50 USD
 - [Classic Name Necklace in 10K / 14K Gold - NamePlateDepot](https://www.nameplatedepot.com/products/classic-name-necklace-in-10k-14k-gold): Make a statement with this classic name necklace. It's a real stunner in 10K/14K gold, tailored for you with a personalized touch. Perfectly simple  - NamePlateDepot
-  Updated: 2026-07-12T09:29:12Z
+  Updated: 2026-08-01T04:05:29Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2265,7 +2265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP03_34975152-d791-47a2-ad84-933c0e02f591.jpg?v=1766256847
     Price: $959.50 USD
 - [Gold Large Personalized Name Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/gold-large-personalized-name-necklace): Make a grand statement with this glittering Gold Large Personalized Name Necklace! Featuring a stunning cursive name, this necklace is perfect for  - NamePlateDepot
-  Updated: 2026-07-12T09:29:16Z
+  Updated: 2026-08-01T04:05:24Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2301,7 +2301,7 @@
     Availability: Available
     Price: $1,186.50 USD
 - [Name Plate Necklace in 10K / 14K Gold - NamePlateDepot](https://www.nameplatedepot.com/products/name-plate-necklace-in-10k-14k-gold): This custom-made nameplate necklace crafted from 10K or 14K gold is the perfect piece for an unforgettable date night. Showcasing a unique big design  - NamePlateDepot
-  Updated: 2026-07-12T09:29:26Z
+  Updated: 2026-08-01T04:06:05Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2359,7 +2359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP09B_3bb9f9b7-9e26-4d42-a4ab-828e90e9541f.jpg?v=1766256906
     Price: $901.50 USD
 - [10K / 14K Gold Personalized Curssive Name Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/10k-14k-gold-personalized-curssive-name-necklace): Lookin' for a way to show off your name in a classy way? Get your name around your neck with this 10K/14K personalized cursive gold necklace! With a  - NamePlateDepot
-  Updated: 2026-07-12T09:29:41Z
+  Updated: 2026-08-01T04:06:11Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2462,7 +2462,7 @@
     Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP10A_de521d1c-fdca-41fe-b985-1eca6ce9bbbb.jpg?v=1766256913
     Price: $1,208.50 USD
 - [Real Gold Block Name Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/real-gold-curssive-name-necklace): Add a timeless look to r wardrobe with this luxurious Real Gold Block Name Necklace. Each stunning necklace is crafted with solid gold, allowing  - NamePlateDepot
-  Updated: 2026-07-12T09:29:51Z
+  Updated: 2026-08-01T04:06:17Z
   Vendor: Nameplatedepot
   Product Type: Name Necklace
   Availability: Available
@@ -2518,53 +2518,7 @@
   - [Real Gold - Yellow 10K #MWS Options 401200871](https://www.nameplatedepot.com/products/real-gold-curssive-name-necklace?variant=49589474132261)
     Availability: Available
     Price: $852.50 USD
-- [Gold Custom Name Necklace - NamePlateDepot](https://www.nameplatedepot.com/products/gold-custom-name-necklace): Adorn yourself with this stunning Gold Custom Name Necklace! It is made of real gold and intricately engraved with your name written in a beautiful,  - NamePlateDepot
-  Updated: 2026-07-12T09:30:03Z
-  Vendor: Nameplatedepot
-  Product Type: Name Necklace
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP12A_dbd69e0d-b84b-4847-a943-5d08321d7e9d.jpg?v=1766256950
-  - [Real Gold - Yellow 10K](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=46240509362469)
-    Availability: Available
-    Price: $959.50 USD
-  - [Real Gold - White 14K](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=46240509395237)
-    Availability: Available
-    Price: $1,174.50 USD
-  - [Real Gold - Yellow 14K](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=46240509428005)
-    Availability: Available
-    Price: $959.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1719637854](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=47426033877285)
-    Availability: Available
-    Price: $1,179.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 1164613578](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=47498660348197)
-    Availability: Available
-    Price: $1,039.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1965004649](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=47736043929893)
-    Availability: Available
-    Price: $959.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3701331502](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=48151094264101)
-    Availability: Available
-    Price: $1,025.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 4092974737](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=48456754495781)
-    Availability: Available
-    Price: $959.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 3938637365](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=48924224880933)
-    Availability: Available
-    Price: $1,022.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 853006155](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=49648233513253)
-    Availability: Available
-    Price: $1,018.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 743429873](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=49795946971429)
-    Availability: Available
-    Price: $959.50 USD
-  - [Real Gold - Yellow 10K #MWS Options 1](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=50201291424037)
-    Availability: Available
-    Price: $959.50 USD
-  - [Real Gold - Yellow 14K #MWS Options 1](https://www.nameplatedepot.com/products/gold-custom-name-necklace?variant=51401313124645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0305/6625/2589/products/PNP12A_dbd69e0d-b84b-4847-a943-5d08321d7e9d.jpg?v=1766256950
-    Price: $1,007.50 USD
-[List Continued](https://www.nameplatedepot.com/a/llms-agent/llms.txt?shop=nameplatedepot.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NTQyMzY5MDk1NzI1LCJsYXN0X3ZhbHVlIjoiNjU0MjM2OTA5NTcyNSJ9)
+[List Continued](https://www.nameplatedepot.com/a/llms-agent/llms.txt?shop=nameplatedepot.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NTQyMzY5MDYyOTU3LCJsYXN0X3ZhbHVlIjoiNjU0MjM2OTA2Mjk1NyJ9)
 
 ## Collections
 
@@ -2581,10 +2535,10 @@
   Updated: 2026-07-10T13:13:17Z
   Total Products: 0
 - [Name Ring](https://www.nameplatedepot.com/collections/custom-name-rings): Dive into our collection of gold, silver, and diamond name rings, personalized signets, and initial jewelry designed just for you.
-  Updated: 2026-07-10T17:08:03Z
-  Total Products: 116
+  Updated: 2026-07-31T01:54:23Z
+  Total Products: 168
 - [Personalized Name Bracelet](https://www.nameplatedepot.com/collections/name-bracelets): Shop our collection of personalized name bracelets and engraved bracelets for a unique accessory. Perfect for gifts or personal style!
-  Updated: 2026-07-17T19:36:19Z
+  Updated: 2026-07-24T11:04:59Z
   Total Products: 21
 - [Gifts](https://www.nameplatedepot.com/collections/gifts): - NamePlateDepot
   Updated: 2026-07-10T13:13:17Z
@@ -2599,10 +2553,10 @@
   Updated: 2026-07-10T13:13:18Z
   Total Products: 13
 - [Name Jewelry Trends](https://www.nameplatedepot.com/collections/trending): Explore the latest jewelry trends in 2023. Discover vibrant colors, layered styles, and sustainability in your jewelry choices.
-  Updated: 2026-07-10T13:13:18Z
+  Updated: 2026-07-30T11:06:58Z
   Total Products: 21
 - [Gold Name Necklace](https://www.nameplatedepot.com/collections/gold-name-necklace): Wide array of sold 14K gold name necklaces in various categories - Classic 10k / 14K Gold Nameplates to 3D Look. These personalized gold necklaces can be made to order with any words you desire.
-  Updated: 2026-07-10T17:07:50Z
+  Updated: 2026-07-30T11:06:58Z
   Total Products: 25
 - [Hip Hop Name Chains: A Symbol of Identity and Style](https://www.nameplatedepot.com/collections/hip-hop-pendants): Discover the significance of hip hop name chains. Learn how they symbolize identity and unique style in hip hop culture.
   Updated: 2026-07-10T13:13:18Z
@@ -2617,7 +2571,7 @@
   Updated: 2026-03-11T15:23:30Z
   Total Products: 0
 - [Engraved Bracelet](https://www.nameplatedepot.com/collections/engraved-bracelet): Explore our collection of engraved bracelets. Perfect for gifts and personal expression with meaningful engravings.
-  Updated: 2026-07-17T19:36:28Z
+  Updated: 2026-07-24T11:04:59Z
   Total Products: 20
 - [Monogram Necklace](https://www.nameplatedepot.com/collections/monogram-necklace): Explore our unique monogram necklace collection. Personalize your style with a special touch today!
   Updated: 2026-07-10T13:13:18Z
@@ -2625,17 +2579,17 @@
 - [Real Gold Nameplate Necklace](https://www.nameplatedepot.com/collections/gold-3d-double-necklaces): Discover stunning Real Gold Nameplate Necklaces with elegant designs. Perfect for personal expression and thoughtful gifts.
   Updated: 2026-07-10T13:13:19Z
   Total Products: 43
-- [Engraved Necklaces](https://www.nameplatedepot.com/collections/engraved-necklaces): Explore our collection of engraved necklaces. Personalize your jewelry for any occasion with unique designs.
-  Updated: 2026-07-17T19:36:39Z
-  Total Products: 10
+- [Engraved Necklaces](https://www.nameplatedepot.com/collections/engraved-necklaces): Create a personalized engraved necklace with names, dates, birthstones or a meaningful message. Shop custom gifts for moms, grandmas, couples and families.
+  Updated: 2026-07-29T15:42:35Z
+  Total Products: 200
 - [Personalized Mother's Day Gifts](https://www.nameplatedepot.com/collections/mothers_day_gifts): Discover the best Mother's Day gifts to make your mom feel special. Find personalized, unique, and thoughtful gifts for Mother's Day!
-  Updated: 2026-07-17T19:36:19Z
+  Updated: 2026-07-24T11:04:59Z
   Total Products: 48
 - [Personalised Gifts for Occasions](https://www.nameplatedepot.com/collections/gifts-for-occasions): Discover the joy of personalised gifts for any occasion. Thoughtful, unique, and memorable. Perfect for everyone!
   Updated: 2026-07-10T13:13:19Z
   Total Products: 8
 - [Personalized Birthday Gifts](https://www.nameplatedepot.com/collections/birthday-gifts): Explore thoughtful personalized birthday gifts that will make your loved ones feel special and appreciated on their big day.
-  Updated: 2026-07-10T13:13:19Z
+  Updated: 2026-07-30T11:06:58Z
   Total Products: 12
 - [Anniversary Gifts](https://www.nameplatedepot.com/collections/anniversary-gifts): Discover the perfect anniversary gift for your loved one. Explore unique ideas to celebrate your special day together!
   Updated: 2026-07-10T17:07:51Z
@@ -2653,10 +2607,10 @@
   Updated: 2026-07-10T17:07:51Z
   Total Products: 17
 - [Valentine's Day Gifts](https://www.nameplatedepot.com/collections/valentines-day-gifts): Explore the best Valentine's Day gifts to make your loved one smile. Find the perfect present that expresses your love and affection.
-  Updated: 2026-07-10T17:07:54Z
+  Updated: 2026-07-30T11:06:58Z
   Total Products: 11
 - [Christmas Gifts](https://www.nameplatedepot.com/collections/christmas-gifts): Discover unique personalized Christmas gifts that create lasting memories. Perfect for family and friends!
-  Updated: 2026-07-17T19:36:19Z
+  Updated: 2026-07-24T11:04:59Z
   Total Products: 15
 - [Thanksgiving Gifts](https://www.nameplatedepot.com/collections/thanksgiving-gifts): Make this Thanksgiving extra special with unique and heartfelt personalized gifts from NamePlateDepot.com. Shop now and show your appreciation in style!
   Updated: 2026-07-10T17:07:51Z
@@ -2683,22 +2637,22 @@
   Updated: 2026-07-10T17:07:51Z
   Total Products: 27
 - [Name Necklaces](https://www.nameplatedepot.com/collections/personalized_necklace_name): Discover beautiful personalized necklace names that reflect your style. Create a meaningful piece today!
-  Updated: 2026-07-18T13:58:48Z
-  Total Products: 235
+  Updated: 2026-07-30T11:06:58Z
+  Total Products: 496
 - [Gifts for Her](https://www.nameplatedepot.com/collections/gifts-for-her): - NamePlateDepot
   Updated: 2026-07-10T17:07:42Z
   Total Products: 7
 - [Gifts for Kid](https://www.nameplatedepot.com/collections/gifts-for-kid): - NamePlateDepot
-  Updated: 2026-07-10T13:13:21Z
-  Total Products: 8
+  Updated: 2026-07-26T17:21:36Z
+  Total Products: 19
 - [Gift Ideas for Couples](https://www.nameplatedepot.com/collections/gift-ideas-for-couples): - NamePlateDepot
-  Updated: 2026-07-17T19:36:31Z
-  Total Products: 4
+  Updated: 2026-07-26T16:23:52Z
+  Total Products: 11
 - [Necklaces](https://www.nameplatedepot.com/collections/necklaces): Discover personalized name necklaces. Perfect for gifts or self-expression, these stylish pieces add a personal touch to any outfit.
-  Updated: 2026-07-17T19:35:05Z
+  Updated: 2026-07-30T11:06:58Z
   Total Products: 72
 - [Personalized Name Necklace - Best Sellers](https://www.nameplatedepot.com/collections/necklace-best-sellers): Discover our collection of personalized name necklaces. Perfect for gifts and special occasions.
-  Updated: 2026-07-17T11:05:47Z
+  Updated: 2026-07-30T11:06:58Z
   Total Products: 12
 - [Today's Deals](https://www.nameplatedepot.com/collections/deals): Enjoy Online Deals &amp; Surprise Discounts on Surprise Days&amp;nbspfrom NamePlateDepot. Plus, free ground shipping on all orders to the U.S. &amp; Canada.
   Updated: 2026-07-10T13:13:22Z
@@ -2707,8 +2661,8 @@
   Updated: 2026-07-17T19:35:05Z
   Total Products: 9
 - [Initial Necklaces](https://www.nameplatedepot.com/collections/initial-necklaces): Shop personalized initial necklaces at NamePlateDepot. Our initial necklaces come in gold, sterling silver, and rose gold — from a clean capital pendant to bold Old English lettering, with birthstone options for a more personal touch. Wear your own initial, or make it a gift with theirs. Choose your letter, metal, and style below.
-  Updated: 2026-07-18T15:40:41Z
-  Total Products: 54
+  Updated: 2026-07-28T13:55:13Z
+  Total Products: 146
 
 ## Blogs
 
@@ -3203,6 +3157,36 @@
   - [Say It in Style: A Girl's Guide to Name Necklace Trends in New York](https://www.nameplatedepot.com/blogs/posts/say-it-in-style-a-girls-guide-to-name-necklace-trends-in-new-york): Say It in Style: A Girl's Guide to Name Necklace Trends in New York
     Updated: 2026-07-14T00:03:06Z
     Author: Peter R
+  - [Necklace Engraving Ideas for Every Occasion](https://www.nameplatedepot.com/blogs/posts/necklace-engraving-ideas-for-every-occasion): <p>An engraved necklace says this piece is yours, or made for someone specific. Here's where to start, organized by what you're actually marking.</p>
+    Updated: 2026-07-18T23:22:29Z
+    Author: NamePlateDepot Team
+    Tags: engraved-necklaces, gift-guide
+  - [Initial Necklace Meaning and Gift Guide](https://www.nameplatedepot.com/blogs/posts/initial-necklace-meaning-and-gift-guide): <p>An initial necklace is the simplest form of personalized jewelry — here's what it means, how letter style changes the piece, and how to choose one as a gift.</p>
+    Updated: 2026-07-18T23:21:51Z
+    Author: NamePlateDepot Team
+    Tags: gift-guide, initial-necklaces
+  - [Why a Personalized Gift Says What You Can't](https://www.nameplatedepot.com/blogs/posts/why-a-personalized-gift-says-what-you-cant): <p>What separates a gift someone keeps for a decade from one that's forgotten by January — and why personalization does more of that work than price ever will.</p>
+    Updated: 2026-07-18T23:35:28Z
+    Author: NamePlateDepot Team
+    Tags: gift-guide, relationships
+  - [Personalized Name Necklaces: Finding the Ideal 14k Gold Option](https://www.nameplatedepot.com/blogs/posts/personalized-name-necklaces-finding-the-ideal-14k-gold-option): Personalized Name Necklaces: Finding the Ideal 14k Gold Option
+    Updated: 2026-07-19T14:00:28Z
+    Author: Peter R
+    Tags: 14k gold name necklace, 14k gold necklace, custom name, gold, gold necklace, jewelry, my name necklace, name jewelry, name necklace, name necklace anniversary gift, name necklace birthday gift, name necklace for women, necklaces, personalized name necklace, personalized necklaces, unique gift ideas
+  - [Best Practices for Purchasing Silver and Gold Name Necklaces in California](https://www.nameplatedepot.com/blogs/posts/best-practices-for-purchasing-silver-and-gold-name-necklaces-in-california): Best Practices for Purchasing Silver and Gold Name Necklaces in California
+    Updated: 2026-07-21T00:02:37Z
+    Author: Peter R
+  - [Personalized Princess Crown Name Necklace: A Unique Birthday Gift](https://www.nameplatedepot.com/blogs/posts/personalized-princess-crown-name-necklace-a-unique-birthday-gift): Personalized Princess Crown Name Necklace: A Unique Birthday Gift
+    Updated: 2026-07-26T14:00:30Z
+    Author: Peter R
+    Tags: 14k gold name necklace, birthday gift ideas, crown, custom name necklace, gift, gold necklace, my name necklace, name necklace, name necklace anniversary gift, name necklace birthday gift, name necklace for women, necklace, personalized name necklace, personalized necklace, princess gift, unique jewelry
+  - [Curating a Collection of Name Necklaces in Texas: A Tutorial](https://www.nameplatedepot.com/blogs/posts/curating-a-collection-of-name-necklaces-in-texas-a-tutorial): Curating a Collection of Name Necklaces in Texas: A Tutorial
+    Updated: 2026-07-28T00:03:00Z
+    Author: Peter R
+  - [Personalized Name Necklace and Anniversary Gifts for Brides](https://www.nameplatedepot.com/blogs/posts/personalized-name-necklace-and-anniversary-gifts-for-brides): Personalized Name Necklace and Anniversary Gifts for Brides
+    Updated: 2026-08-02T14:00:31Z
+    Author: Peter R
+    Tags: 14k gold name necklace, anniversary gifts, brides wedding gifts, gift, gold necklace, jewelry, my name necklace, name necklace, name necklace anniversary gift, name necklace birthday gift, name necklace for women, necklace, personalized gifts, personalized name necklace, unique anniversary gifts
 - [News](https://www.nameplatedepot.com/blogs/news)
   - [NamePlateDepot Launches Custom Signet Rings with Initials and Symbols](https://www.nameplatedepot.com/blogs/news/nameplatedepot-launches-custom-signet-rings-with-initials-and-symbols): NamePlateDepot Launches Custom Signet Rings with Initials and Symbols
     Updated: 2025-12-20T18:31:31Z
