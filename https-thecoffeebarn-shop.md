@@ -3,17 +3,17 @@
 - Domain: https://thecoffeebarn.shop
 - Locale: en
 - Currency: USD
-- Timezone: America/Detroit
+- Timezone: America/New_York
 - Created At: 2026-07-05T21:31:28Z
 - Contact Email: akerleymark@duck.com
-- Updated At: 2026-07-26T15:30:53.919Z
+- Updated At: 2026-08-03T00:00:29.429Z
 
 The Coffee Barn is a premium online coffee shop offering carefully sourced beans.Our tone is warm, knowledgeable, and inviting — like your favorite local coffee shop. Thecoffeebarn.shop
 
 ## Products
 
 - [El Salvador Santa Ana Washed HG/EP](https://thecoffeebarn.shop/products/el-salvador-santa-ana-washed-hg-ep): El Salvador Coffee | Santa Ana Region Santa Ana is known for producing some of El Salvador’s best coffee. The region's fertile volcanic soil and ideal climate provide perfect growing conditions for high-quality Arabica coffee beans. Coffees from Santa Ana display a smooth, well-balanced flavor profile that is chocolaty, nutty, fruity and bright. This green coffee comes from small producers whose farms dot the mountainous slopes of Santa Ana. Coffee farmers here grow two of El Salvador’s most popular varieties: Bourbon and Pacas. This coffee’s flavors include cocoa, dried fruit, and nuttiness, complemented by a medium acidity and rich body. Quality El Salvador Green Coffee Strictly High Grown (SHG) coffee signifies that the coffee was grown above 1,200 meters. Coffees grown between 900 – 1200 meters above sea level are classified as High Grown (HG). Higher elevations mean slower coffee cherry and bean development, leading to more nutrient density and more flavor. The challenges associated with production at higher elevations encourage higher standards to streamline labor logistics for the best possible crop quality, particularly for the smaller volume yielded from the slow-growing process. In addition to being hand sorted with European Preparation (EP) standards for less than eight defects per 300 grams of beans, the labor-intensive processes involved in producing this coffee result in a consistently high-quality clean cup. Washed Process Coffee in El Salvador Most of the coffee produced by El Salvador undergoes “washed” or “wet” processing. Coffee cherries are floated and sorted to ensure consistent ripeness and to remove any defective cherries. The seeds (coffee beans) are then removed from their skins using depulping machines and typically moved to fermentation tanks to remove the mucilage—the remaining fruit remnants. Afterward, the coffee is dried until it reaches the optimal moisture level. Washed processing has become widely popular. The cup profile of washed coffees tends to reflect the terroir of the coffee. The processing method allows the growing conditions, the region, and the true character of the coffee to shine through. El Salvador Coffee Production El Salvador might be the smallest country in Central America, but the green coffee beans are renowned for their high-quality. That said, the El Salvador is struggling due to climate change, increased cost of labor and fertilizer, as well as much needed  at the farm level. The USDA expects the 23/24 El Salvador crop to reach 670,000 60kg bags. El Salvador’s unroasted coffee plays an important balancing role in creating blends because of the association with mellow flavor intensity, but innovative farming and processing methods can also produce colorful and complex flavors that are lively on their own. For a more in depth view, visit our blog and read our El Salvador Origin Report. Origin Santa Ana, El Salvador Processing Washed Harvest Schedule December - March Variety Bourbon, Pacas Altitude 1100 - 1600
-  Updated: 2026-07-23T11:33:01Z
+  Updated: 2026-07-28T21:42:09Z
   Vendor: The Coffee Barn.
   Product Type: Coffee
   Availability: Available
@@ -34,7 +34,7 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
     Availability: Available
     Price: $29.50 USD
 - [Kenya AB Lenana Plus](https://thecoffeebarn.shop/products/kenya-ab-lenana-plus): Introducing "Kenya Harvest Reserve" – a coffee that embodies the essence of Kenyan coffee craftsmanship. This blend comprises AB screen size coffees from various estates and cooperatives, predominantly cultivated by dedicated smallholders, each nurturing an average of 200 coffee trees. The cherries, handpicked at the peak of ripeness, embark on a journey from the farms to cooperative factories (wet mills). Here, they undergo meticulous processing, including disc pulping, full fermentation, washing, and sundrying on elevated drying tables. The result is a carefully consolidated parchment, ready for the final steps at dry mills, where it's hulled, graded by size and density, and prepared for . Kenya is renowned for its green coffee beans, known for bold, fruit-forward flavors and lively acidity. The legendary SL-28 and SL-34 varietals, developed in the 1930s by Scott Agricultural Laboratories (hence, SL), have been instrumental in shaping Kenyan coffee's exceptional cup quality. Even in high-altitude conditions, they deliver a remarkable yield and resist drought. Following the 1968 coffee berry disease (CBD) epidemic, the CBD-resistant Ruiru-11 varietal was developed and swiftly embraced throughout the country. Discover the essence of Kenya's coffee heritage in every sip of Kenya Harvest Reserve, a testament to the dedication of Kenyan coffee farmers and the rich flavors they bring to your cup. FLAVOR: Dark Chocolate, Brown Spice, Apricot, Chamomile BODY: Medium ACIDITY: Bright PROCESS: Washed
-  Updated: 2026-07-23T11:32:24Z
+  Updated: 2026-07-28T21:46:31Z
   Vendor: Cerca Coffee Roasters
   Product Type: Coffee
   Availability: Available
@@ -58,7 +58,7 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
     Availability: Available
     Price: $32.00 USD
 - [Guatemala Huehuetenango Candelaria](https://thecoffeebarn.shop/products/guatemala-huehuetenango-candelaria): Introducing Guatemala Huehuetenango Candelaria, a masterpiece that encapsulates the essence of Guatemalan coffee craftsmanship. Situated within mountainous terrains reaching heights of 5,000 to 6,500 feet (2,000masl), Huehuetenango's unique flavor profile is nurtured by the protective winds from Mexico's Tehuantepec plain. Remote farms, often with micro-mills, harness abundant rivers for the washed-process mastery. Candelaria, a hallmark of Huehuetenango's coffee excellence, presents a symphony of flavors. With a light body and bright acidity, it delights the palate with notes of dark chocolate, dried fruit, stone fruit, and a delicate tea-like essence. This washed-process gem embodies the epitome of Guatemala's coffee heritage, reflecting the region's rich volcanic soil and diverse micro-climates. Guatemala Huehuetenango Candelaria, meticulously sorted to European Preparation (EP) standards, promises an unparalleled coffee experience. Each sip transports you to the heart of Guatemala's coffee culture, where tradition meets innovation in a cup of pure delight. FLAVOR: Dark Chocolate, Dried Fruit, Stone Fruit, Tea-like BODY: Light ACIDITY: Bright PROCESS: Washed
-  Updated: 2026-07-23T11:32:22Z
+  Updated: 2026-07-28T21:48:21Z
   Vendor: Cerca Coffee Roasters
   Product Type: Coffee
   Availability: Available
@@ -82,7 +82,7 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
     Availability: Available
     Price: $31.00 USD
 - [Ethiopian Organic Floral](https://thecoffeebarn.shop/products/ethiopian-organic-floral): Introducing "ETHIOPIAN ORGANIC FLORAL FIELDS" - a captivating coffee from the heart of Ethiopia's Yirgacheffe region. This exquisite brew is now available for you to add to your store and delight your customers. About the Coffee Nestled in the renowned Chelbesa kebele of Yirgacheffe, this coffee flourishes beneath a lush, semi-forested canopy. The Chelbesa wet mill, established in 2019, is on a mission to source the freshest coffee cherries from hundreds of dedicated smallholders. In fact, over 760 producers have contributed to crafting this Grade 2 washed coffee. The secret behind its exceptional quality lies in the ceramic fermentation tanks at the Chelbesa mill, which enhance the clarity of the coffees and stimulate the fermentation process with optimal heat retention. FLAVOR: Floral, Lavender, Citrus, Rose Hips BODY: Medium ACIDITY: Bright PROCESS: Washed
-  Updated: 2026-07-23T11:32:51Z
+  Updated: 2026-07-28T21:48:01Z
   Vendor: Cerca Coffee Roasters
   Product Type: Coffee
   Availability: Available
@@ -106,7 +106,7 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
     Availability: Available
     Price: $34.00 USD
 - [Honduras Pacavita Organic](https://thecoffeebarn.shop/products/honduras-pacavita-organic): Nestled in the western part of Honduras, Pacavita is surrounded by rich biological reserves and towering mountain ranges. The region experiences a distinct rainy season that yields beautiful cherries. During the clear dry season, producers have the perfect conditions for sun-drying the coffees after washing. With its high-altitude climate, fertile clay soil, and ample sunshine, Pacavita ensures the integrity and quality of the beans from start to finish. This exceptional lot brings together the efforts of two primary producers, Silvestre Vasquez and Joel Lopez. Silvestre is known for his relentless pursuit of superior quality and has expanded his farm into the higher altitudes of Pico Congolon, nestled amidst the Reserva Biologica de Opalaca and Reserva Biologica Volcan Pacavita. Joel Lopez, a fourth-generation coffee producer, manages Los Lesquines farm, where coffee cultivation has been a family tradition since 1865. The farm predominantly grows Bourbon, Caturra, and Catuai varieties across its 67 hectares of production. FLAVOR: Bittersweet Chocolate, Brown Spice, Golden Raisin, Vanilla BODY: Medium ACIDITY: Bright PROCESS: Washed
-  Updated: 2026-07-23T11:32:45Z
+  Updated: 2026-07-28T21:42:51Z
   Vendor: Cerca Coffee Roasters
   Product Type: Coffee
   Availability: Available
@@ -130,7 +130,7 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
     Availability: Available
     Price: $28.00 USD
 - [Colombia Huila El Tiple Excelso](https://thecoffeebarn.shop/products/colombia-huila-el-tiple-excelso): Introducing Colombia Huila El Tiple Excelso, a vibrant coffee that celebrates the rich tapestry of Colombian flavors. Named after the traditional Tiple instrument, this blend showcases the diversity of Colombia's micro-climates and flavor profiles, sourced from small, family-owned farms nestled in the heart of Huila. In this exquisite coffee, expect to be enveloped by indulgent notes of milk chocolate, complemented by the subtle sweetness of brown sugar and the tang of dried cherry. With a medium acidity and a satisfyingly medium body, it's an ideal choice for both espresso enthusiasts and those who prefer filter brews. The Huila region, renowned for its delicate cup profile, boasts a perfect balance of bright acidity, sweetness, and aromatic richness. Its volcanic soil and equatorial proximity create a unique environment for coffee cultivation, resulting in a signature profile cherished by coffee aficionados worldwide. Excelso classification ensures the highest quality, with beans meticulously sorted to meet stringent standards. This designation signifies beans of 14/64 inch screen size, indicative of superior quality and flavor. Furthermore, the washed processing method enhances the coffee's inherent terroir, allowing the true essence of Huila to shine through. Colombian coffee, with its rich history and unparalleled variety, continues to captivate coffee lovers globally. From the lush volcanic mountain ranges to the dedicated farming families, each cup of Colombia Huila El Tiple Excelso encapsulates the essence of Colombian coffee culture. FLAVOR: Milk Chocolate, Brown Sugar, Dried Cherry BODY: Medium ACIDITY: Medium PROCESS: Washed
-  Updated: 2026-07-23T11:32:19Z
+  Updated: 2026-07-28T21:44:01Z
   Vendor: Cerca Coffee Roasters
   Product Type: Coffee
   Availability: Available
@@ -154,7 +154,7 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
     Availability: Available
     Price: $30.00 USD
 - [Brazil Guaxupé](https://thecoffeebarn.shop/products/brazil-guaxupe): Experience the essence of Brazilian coffee excellence with Brazil Guaxupé. Nestled in the picturesque landscapes of Minas Gerais, the municipality of Guaxupé boasts ideal conditions for cultivating specialty coffee. Its high altitudes and distinctive micro-climate, with cooler temperatures averaging about 68ºF (20ºC), foster the growth of premium coffee beans. Notably, the region's distinct wet and dry seasons further enhance coffee production, contributing to its renowned quality. The Cooxupé cooperative, a cornerstone of Guaxupé's coffee industry, unites over 16,000 smallholder farmers across more than 200 municipalities. Founded in 1937, the cooperative has evolved into a vital force, providing essential support services such as soil analysis laboratories and geographic data geoprocessing. Through collaboration and sustainable practices, Cooxupé empowers its members to achieve better development and results, enriching Brazil's agriculturally dependent economy. Savor the rich complexity of Brazil Guaxupé's flavor profile, characterized by indulgent notes of dark chocolate, bright citrus, and the nutty richness of roasted hazelnuts. With a medium body and mild acidity, this semi-washed coffee offers a balanced and satisfying cup, embodying the essence of Brazilian coffee heritage. Indulge in the allure of Brazilian coffee excellence with Brazil Guaxupé. Add this exceptional coffee to your collection and treat your customers to a taste of Brazil's rich coffee tradition. FLAVOR: Dark Chocolate, Citrus, Roasted Hazelnut BODY: Medium ACIDITY: Mild PROCESS: Semi-Washed
-  Updated: 2026-07-23T11:32:39Z
+  Updated: 2026-07-28T21:46:52Z
   Vendor: Cerca Coffee Roasters
   Product Type: Coffee
   Availability: Available
@@ -178,7 +178,7 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
     Availability: Available
     Price: $30.99 USD
 - [Costa Rica Tarrazú San Diego Jaguar Honey](https://thecoffeebarn.shop/products/costa-rica-tarrazu-san-diego-jaguar-honey): Discover Costa Rica Tarrazú San Diego Jaguar Honey, a testament to the innovation and excellence of Costa Rica's coffee industry, proudly brought to you by Beneficio San Diego, the nation's most modern coffee mill. Established in 1888, this mill has been at the forefront of coffee processing, specializing in sourcing exceptional beans from the renowned Tarrazú and Tres Ríos regions. Beneficio San Diego not only pursues ever-increasing efficiency and quality standards but also plays a pivotal role in fostering strong community relations and promoting sustainable production practices. Honey Processing Costa Rica gave birth to the honey processing method, now adopted across Central America. In this meticulous process, some or all of the mucilage, often referred to as coffee honey, is left on the parchment during drying. This imparts a unique sweetness to the coffee, reminiscent of natural honey. Within the Tarrazú region, where farms average three hectares in size, a dedicated community of farmers delivers carefully selected, ripe cherries to the San Diego wet mill. The coffee chosen for this special honey process is exceptional due to its remarkable cup profile. No two honey coffees are alike, given the complexity of this craft process. It all begins with the meticulous selection of perfectly ripe cherries. After depulping, the mucilage remains, allowing the natural sugars to enrich the coffee's sweetness. The coffee is then slowly and evenly dried on African beds or patios. Costa Rica Green Coffee Origin Report Costa Rican coffees are renowned for their exceptional quality and innovation. The country's commitment to a high standard of living, including universal , top-tier education, advanced agronomy and research, and well-regulated sustainability programs, contributes to the premium pricing of its coffee. When coffee roasters choose Costa Rican green coffee, producers receive nearly 80% of the FOB (Free On Board) value, providing a fair and sustainable livelihood for the local coffee community. FLAVOR: Raspberry, Plum, Almond, Clementine, Honey BODY: Medium ACIDITY: Bright PROCESS: Honey
-  Updated: 2026-07-23T11:33:04Z
+  Updated: 2026-07-28T21:44:41Z
   Vendor: Cerca Coffee Roasters
   Product Type: Coffee
   Availability: Available
@@ -202,7 +202,7 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
     Availability: Available
     Price: $31.00 USD
 - [Colombia Huila El Tiple Supremo](https://thecoffeebarn.shop/products/colombia-huila-el-tiple-supremo): Introducing Colombia Huila El Tiple Supremo, a luxurious coffee that embodies the essence of Colombian excellence. Named after the traditional Tiple instrument, this blend showcases the diverse micro-climates and flavor profiles of Colombia's renowned Huila region, sourced from small, family-owned farms nestled amidst the majestic Andes. Indulge in the rich symphony of flavors, where decadent milk chocolate harmonizes with the luscious sweetness of caramel and vanilla, accentuated by the nutty richness of roasted almonds. A delicate touch of floral notes adds complexity to this exquisite brew. With a medium body and acidity, it offers a robust yet satisfyingly sweet cup, perfect for those seeking a refined coffee experience. Huila's pristine landscapes and volcanic soil create the perfect environment for coffee cultivation, resulting in beans with signature profiles characterized by fruit and caramel notes, sweet acidity, and intense aromas. The Supremo classification guarantees the highest quality, with beans meticulously sorted to meet stringent standards. Beans of 17/64 inch screen size signify superior quality, ensuring a coffee of unparalleled excellence. Washed processing enhances the coffee's inherent terroir, allowing the true character of Huila to shine through. This meticulous process ensures a cup profile that reflects the region's unique growing conditions and the dedication of its farmers. Colombian coffee, with its rich history and unparalleled variety, continues to captivate coffee enthusiasts worldwide. Each sip of Colombia Huila El Tiple Supremo transports you to the heart of Colombia's vibrant coffee culture, where passion and tradition converge to create an unforgettable experience. FLAVOR: Milk Chocolate, Caramel, Vanilla, Roasted Almond BODY: Medium ACIDITY: Medium PROCESS: Washed
-  Updated: 2026-07-23T11:33:08Z
+  Updated: 2026-07-28T21:41:41Z
   Vendor: Cerca Coffee Roasters
   Product Type: Coffee
   Availability: Available
@@ -229,18 +229,30 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
 
 ## Collections
 
-- [Coffee collection](https://thecoffeebarn.shop/collections/coffee-collection): These are just a few favorites. These are not your local store coffee's.So sorry, sites under development but rest assured you will be enjoying a cup of real fresh coffee. Drink on !
-  Updated: 2026-07-23T11:32:54Z
+- [Coffee collection](https://thecoffeebarn.shop/collections/coffee-collection): Coffee,dark, medium, roast,silky,velvety, smooth
+  Updated: 2026-07-29T21:10:26Z
   Total Products: 9
 - [Digital Goods VAT Tax](https://thecoffeebarn.shop/collections/digital-goods-vat-tax)
-  Updated: 2026-07-25T16:59:34Z
+  Updated: 2026-07-28T21:47:31Z
   Total Products: 0
 
 ## Blogs
 
 - [News](https://thecoffeebarn.shop/blogs/news)
+  - [Coffee ☕](https://thecoffeebarn.shop/blogs/news/coffee-☕): <p>Our coffees are fresh and unique. The flavors are amazing and you will enjoy every cup. Give this a try. You won't see coffee the same. Enjoy 😍</p>
+    Updated: 2026-07-27T17:43:03Z
+    Author: Mark Akerley
   - [10 Incredible Benefits of Drinking Coffee You Didn't Know](https://thecoffeebarn.shop/blogs/news/10-incredible-benefits-of-drinking-coffee-you-didnt-know): 10 Incredible Benefits of Drinking Coffee You Didn't Know
-    Updated: 2026-07-26T14:48:25Z
+    Updated: 2026-07-28T21:39:50Z
+    Author: The coffee barn
+  - [The Ultimate Guide to Brewing the Perfect Cup of Coffee](https://thecoffeebarn.shop/blogs/news/the-ultimate-guide-to-brewing-the-perfect-cup-of-coffee): The Ultimate Guide to Brewing the Perfect Cup of Coffee
+    Updated: 2026-07-27T08:21:11Z
+    Author: The coffee barn
+  - [7 Common Coffee Brewing Mistakes and How to Fix Them](https://thecoffeebarn.shop/blogs/news/7-common-coffee-brewing-mistakes-and-how-to-fix-them): 7 Common Coffee Brewing Mistakes and How to Fix Them
+    Updated: 2026-07-29T08:10:45Z
+    Author: The coffee barn
+  - [The History of Coffee From Bean to Brew](https://thecoffeebarn.shop/blogs/news/the-history-of-coffee-from-bean-to-brew): The History of Coffee From Bean to Brew
+    Updated: 2026-07-31T08:09:35Z
     Author: The coffee barn
 
 ## Store Pages
@@ -267,9 +279,9 @@ The Coffee Barn is a premium online coffee shop offering carefully sourced beans
 - [Shipping Policy](https://thecoffeebarn.shop/policies/shipping-policy)
   Updated: 2026-07-07T13:51:02-04:00
 - [Refund Policy](https://thecoffeebarn.shop/policies/refund-policy)
-  Updated: 2026-07-24T09:13:30-04:00
+  Updated: 2026-07-31T07:56:09-04:00
 - [Terms of Service](https://thecoffeebarn.shop/policies/terms-of-service)
-  Updated: 2026-07-08T09:46:21-04:00
+  Updated: 2026-07-27T12:30:03-04:00
 - [Contact Information](https://thecoffeebarn.shop/policies/contact-information)
   Updated: 2026-07-24T09:23:03-04:00
 
