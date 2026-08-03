@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-12T21:34:01Z
 - Contact Email: hrtlshmbl@gmail.com
-- Updated At: 2026-07-22T00:00:20.599Z
+- Updated At: 2026-08-03T00:00:35.666Z
 
 ## Products
 
@@ -1938,132 +1938,572 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/c08599c2364843029e463bba2505ea37.png?v=1783636383
     Price: $63.82 USD
-- [HRTLS HMBL — Snow Wash Oversized Sweatshirt](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt): Item Number: RU0064Gender: UnisexFabric: 100% cottonFabric Weight: 10.6 oz/yd² (360 g/m²)Fabric Thickness: ThickCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Daily Casual, Home, Outdoor, School, Pure Cotton, Washed, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, Autumn, WinterPrint Size: 40*52cmNotes: Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 27.56 70 28.35 72 29.13 74 29.92 76 30.71 78 Chest 24.41 62 25.20 64 25.98 66 26.77 68 27.56 70 Shoulder 22.44 57 23.23 59 24.02 61 24.80 63 25.59 65 Sleeve length 22.44 57 22.83 58 23.23 59 23.62 60 24.02 61
-  Updated: 2026-07-21T22:00:17Z
+- [HRTLS HMBL Vintage Wash Boxy Distressed Tee](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee): Item Number: RT0077Gender: UnisexFabric: 100% cottonFabric Weight: 7.1 oz/yd² (240 g/m²)Fabric Thickness: ThinCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Vintage, Daily Casual, Holiday, Outdoor, Party, Pure Cotton, Washed, Frayed, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, SummerPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. Due to the hand-cut raw hem design, slight variations in length may occur. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 24.02 61 25.20 64 26.38 67 27.56 70 28.74 73 Shoulder 21.65 55 22.24 56.5 22.83 58 23.43 59.5 24.02 61 Chest 24.02 61 24.80 63 25.59 65 26.38 67 27.17 69 Sleeve length 7.87 20 8.07 20.5 8.27 21 8.46 21.5 8.66 22
+  Updated: 2026-07-29T17:28:01Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/68fec733ace6491bb9ca9df36381c6a7.png?v=1784670903
-  - [Sky Blue / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773113905)
+  Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6750e60a4ddd48e791754e66740eafba.png?v=1784841978
+  - [Gray / S](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385070129)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6c91ea9676d14b5cbca8c4fd03adf772.png?v=1784670903
-    Price: $57.90 USD
-  - [Sky Blue / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773146673)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1861f2eacd214524b96fc9e38a832ddf.png?v=1784841978
+    Price: $49.92 USD
+  - [Gray / M](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385102897)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6c91ea9676d14b5cbca8c4fd03adf772.png?v=1784670903
-    Price: $57.90 USD
-  - [Sky Blue / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773179441)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1861f2eacd214524b96fc9e38a832ddf.png?v=1784841978
+    Price: $49.92 USD
+  - [Gray / L](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385135665)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6c91ea9676d14b5cbca8c4fd03adf772.png?v=1784670903
-    Price: $57.90 USD
-  - [Sky Blue / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773212209)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1861f2eacd214524b96fc9e38a832ddf.png?v=1784841978
+    Price: $49.92 USD
+  - [Gray / XL](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385168433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6c91ea9676d14b5cbca8c4fd03adf772.png?v=1784670903
-    Price: $57.90 USD
-  - [Sky Blue / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773244977)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1861f2eacd214524b96fc9e38a832ddf.png?v=1784841978
+    Price: $49.92 USD
+  - [Gray / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385201201)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6c91ea9676d14b5cbca8c4fd03adf772.png?v=1784670903
-    Price: $57.90 USD
-  - [Blue / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773277745)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1861f2eacd214524b96fc9e38a832ddf.png?v=1784841978
+    Price: $49.92 USD
+  - [White / S](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385233969)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/11084a1cd21d4e6a9ad597b1d650cda5.png?v=1784670904
-    Price: $57.90 USD
-  - [Blue / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773310513)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/12b0393dc77a4821a5521c12b2bdf26c.png?v=1784841978
+    Price: $49.92 USD
+  - [White / M](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385266737)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/11084a1cd21d4e6a9ad597b1d650cda5.png?v=1784670904
-    Price: $57.90 USD
-  - [Blue / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773343281)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/12b0393dc77a4821a5521c12b2bdf26c.png?v=1784841978
+    Price: $49.92 USD
+  - [White / L](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385299505)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/11084a1cd21d4e6a9ad597b1d650cda5.png?v=1784670904
-    Price: $57.90 USD
-  - [Blue / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773376049)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/12b0393dc77a4821a5521c12b2bdf26c.png?v=1784841978
+    Price: $49.92 USD
+  - [White / XL](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385332273)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/11084a1cd21d4e6a9ad597b1d650cda5.png?v=1784670904
-    Price: $57.90 USD
-  - [Blue / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773408817)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/12b0393dc77a4821a5521c12b2bdf26c.png?v=1784841978
+    Price: $49.92 USD
+  - [White / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385365041)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/11084a1cd21d4e6a9ad597b1d650cda5.png?v=1784670904
-    Price: $57.90 USD
-  - [Light Apricot / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773441585)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/12b0393dc77a4821a5521c12b2bdf26c.png?v=1784841978
+    Price: $49.92 USD
+  - [Black / S](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385397809)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/4b834d9faee8408fb4da9ba91678a723.png?v=1784670903
-    Price: $57.90 USD
-  - [Light Apricot / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773474353)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6750e60a4ddd48e791754e66740eafba.png?v=1784841978
+    Price: $49.92 USD
+  - [Black / M](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385430577)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/4b834d9faee8408fb4da9ba91678a723.png?v=1784670903
-    Price: $57.90 USD
-  - [Light Apricot / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773507121)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6750e60a4ddd48e791754e66740eafba.png?v=1784841978
+    Price: $49.92 USD
+  - [Black / L](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385463345)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/4b834d9faee8408fb4da9ba91678a723.png?v=1784670903
-    Price: $57.90 USD
-  - [Light Apricot / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773539889)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6750e60a4ddd48e791754e66740eafba.png?v=1784841978
+    Price: $49.92 USD
+  - [Black / XL](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385496113)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/4b834d9faee8408fb4da9ba91678a723.png?v=1784670903
-    Price: $57.90 USD
-  - [Light Apricot / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773572657)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6750e60a4ddd48e791754e66740eafba.png?v=1784841978
+    Price: $49.92 USD
+  - [Black / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-vintage-wash-boxy-distressed-tee?variant=41134385528881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/4b834d9faee8408fb4da9ba91678a723.png?v=1784670903
-    Price: $57.90 USD
-  - [Light Gray / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773605425)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/6750e60a4ddd48e791754e66740eafba.png?v=1784841978
+    Price: $49.92 USD
+- [HRTLS HMBL | Snow Wash Oversized Hoodie](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie): Item Number: RW0038Gender: UnisexFabric: 93.2% cotton, 6.8% spandexFabric Weight: 11.2 oz/yd² (380 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Daily Casual, Outdoor, School, Office, Cotton Blend, Snow Wash, Long Sleeve, Drop Shoulder, Hooded, Regular, Oversized, Spring, AutumnPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL inch cm inch cm inch cm inch cm Length 27.76 70.5 28.54 72.5 29.33 74.5 30.12 76.5 Shoulder 22.44 57 23.03 58.5 23.62 60 24.21 61.5 Chest 26.38 67 27.17 69 27.95 71 28.74 73 Sleeve length 24.02 61 24.41 62 24.80 63 25.20 64
+  Updated: 2026-07-30T00:06:28Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ab6d5a6cb6914dd09442e496ec00ce86.png?v=1785021423
+  - [Light Blue / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567170609)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/a19b7105ee1a4aeaab5fcb58ef3e19d5.png?v=1784670903
-    Price: $57.90 USD
-  - [Light Gray / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773638193)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/84ee6ae65ead4355973bf5bb153ae707.png?v=1785021423
+    Price: $88.52 USD
+  - [Light Blue / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567203377)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/a19b7105ee1a4aeaab5fcb58ef3e19d5.png?v=1784670903
-    Price: $57.90 USD
-  - [Light Gray / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773670961)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/84ee6ae65ead4355973bf5bb153ae707.png?v=1785021423
+    Price: $88.52 USD
+  - [Light Blue / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567236145)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/a19b7105ee1a4aeaab5fcb58ef3e19d5.png?v=1784670903
-    Price: $57.90 USD
-  - [Light Gray / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773703729)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/84ee6ae65ead4355973bf5bb153ae707.png?v=1785021423
+    Price: $88.52 USD
+  - [Light Blue / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567268913)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/a19b7105ee1a4aeaab5fcb58ef3e19d5.png?v=1784670903
-    Price: $57.90 USD
-  - [Light Gray / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773736497)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/84ee6ae65ead4355973bf5bb153ae707.png?v=1785021423
+    Price: $88.52 USD
+  - [Royal Blue / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567301681)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/a19b7105ee1a4aeaab5fcb58ef3e19d5.png?v=1784670903
-    Price: $57.90 USD
-  - [Black / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773769265)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/002cef7f3b6445728d543385f27f1612.png?v=1785021423
+    Price: $88.52 USD
+  - [Royal Blue / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567334449)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/68fec733ace6491bb9ca9df36381c6a7.png?v=1784670903
-    Price: $57.90 USD
-  - [Black / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773802033)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/002cef7f3b6445728d543385f27f1612.png?v=1785021423
+    Price: $88.52 USD
+  - [Royal Blue / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567367217)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/68fec733ace6491bb9ca9df36381c6a7.png?v=1784670903
-    Price: $57.90 USD
-  - [Black / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773834801)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/002cef7f3b6445728d543385f27f1612.png?v=1785021423
+    Price: $88.52 USD
+  - [Royal Blue / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567399985)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/68fec733ace6491bb9ca9df36381c6a7.png?v=1784670903
-    Price: $57.90 USD
-  - [Black / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773867569)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/002cef7f3b6445728d543385f27f1612.png?v=1785021423
+    Price: $88.52 USD
+  - [Black / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567432753)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/68fec733ace6491bb9ca9df36381c6a7.png?v=1784670903
-    Price: $57.90 USD
-  - [Black / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773900337)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ab6d5a6cb6914dd09442e496ec00ce86.png?v=1785021423
+    Price: $88.52 USD
+  - [Black / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567465521)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/68fec733ace6491bb9ca9df36381c6a7.png?v=1784670903
-    Price: $57.90 USD
-  - [Stone Gray / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773933105)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ab6d5a6cb6914dd09442e496ec00ce86.png?v=1785021423
+    Price: $88.52 USD
+  - [Black / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567498289)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/0bd1500f03e24f70aa93fcacd18fbb67.png?v=1784670904
-    Price: $57.90 USD
-  - [Stone Gray / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773965873)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ab6d5a6cb6914dd09442e496ec00ce86.png?v=1785021423
+    Price: $88.52 USD
+  - [Black / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-hoodie?variant=41137567531057)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/0bd1500f03e24f70aa93fcacd18fbb67.png?v=1784670904
-    Price: $57.90 USD
-  - [Stone Gray / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132773998641)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ab6d5a6cb6914dd09442e496ec00ce86.png?v=1785021423
+    Price: $88.52 USD
+- [HRTLS HMBL | Essential Cropped Hoodie](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie): Item Number: WW0003Gender: WomenFabric: Main Fabric: 50% cotton, 50% polyester; Contrast Fabric: 50% cotton, 50% polyesterFabric Weight: 10.3 oz/yd² (350 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Sexy, Sporty, Street, Daily Casual, Gym, Sport, Outdoor, Cotton Blend, Drop Shoulder, Hooded, Crop, Loose, Autumn, SpringNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL inch cm inch cm inch cm inch cm Length 16.93 43 17.52 44.5 18.11 46 18.70 47.5 Shoulder 18.90 48 19.69 50 20.47 52 21.26 54 Chest 20.08 51 20.87 53 21.65 55 22.44 57 Sleeve length 22.05 56 22.44 57 22.83 58 23.23 59
+  Updated: 2026-07-30T06:24:25Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/018233e5ba224618998b84c2403738b7.png?v=1785022518
+  - [Dark Reddish Purple / S](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570381873)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/0bd1500f03e24f70aa93fcacd18fbb67.png?v=1784670904
-    Price: $57.90 USD
-  - [Stone Gray / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132774031409)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ab978c35822c40fcad895381695882fe.png?v=1785022518
+    Price: $65.12 USD
+  - [Dark Reddish Purple / M](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570414641)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/0bd1500f03e24f70aa93fcacd18fbb67.png?v=1784670904
-    Price: $57.90 USD
-  - [Stone Gray / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-wash-oversized-sweatshirt?variant=41132774064177)
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ab978c35822c40fcad895381695882fe.png?v=1785022518
+    Price: $65.12 USD
+  - [Dark Reddish Purple / L](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570447409)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/0bd1500f03e24f70aa93fcacd18fbb67.png?v=1784670904
-    Price: $57.90 USD
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ab978c35822c40fcad895381695882fe.png?v=1785022518
+    Price: $65.12 USD
+  - [Dark Reddish Purple / XL](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570480177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ab978c35822c40fcad895381695882fe.png?v=1785022518
+    Price: $65.12 USD
+  - [Black / S](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570512945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/018233e5ba224618998b84c2403738b7.png?v=1785022518
+    Price: $65.12 USD
+  - [Black / M](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570545713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/018233e5ba224618998b84c2403738b7.png?v=1785022518
+    Price: $65.12 USD
+  - [Black / L](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570578481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/018233e5ba224618998b84c2403738b7.png?v=1785022518
+    Price: $65.12 USD
+  - [Black / XL](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570611249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/018233e5ba224618998b84c2403738b7.png?v=1785022518
+    Price: $65.12 USD
+  - [Charcoal Gray / S](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570644017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/4577a192fb9e483291cc1a0a359bcac1.png?v=1785022518
+    Price: $65.12 USD
+  - [Charcoal Gray / M](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570676785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/4577a192fb9e483291cc1a0a359bcac1.png?v=1785022518
+    Price: $65.12 USD
+  - [Charcoal Gray / L](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570709553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/4577a192fb9e483291cc1a0a359bcac1.png?v=1785022518
+    Price: $65.12 USD
+  - [Charcoal Gray / XL](https://hrtlshmbl.site/products/hrtls-hmbl-essential-cropped-hoodie?variant=41137570742321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/4577a192fb9e483291cc1a0a359bcac1.png?v=1785022518
+    Price: $65.12 USD
+- [Hrtls Hmbl Snow Washed Frayed Edge T-Shirt](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt): Item Number: RU0069Gender: UnisexFabric: 100% cottonFabric Weight: 8.0 oz/yd² (270 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Vintage, Daily Casual, Outdoor, Office, Pure Cotton, Washed, Frayed, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Spring, Autumn, WinterPrint Size: 40*52cmNotes: Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 27.95 71 28.74 73 29.53 75 30.31 77 31.10 79 Shoulder 22.83 58 23.62 60 24.41 62 25.20 64 25.98 66 Chest 24.80 63 25.59 65 26.38 67 27.17 69 27.95 71 Sleeve length 22.44 57 22.83 58 23.23 59 23.62 60 24.02 61
+  Updated: 2026-07-29T23:47:59Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/29f44b21d1cb474eaf42e805169239ec.png?v=1785048978
+  - [Sky Blue / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556281393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/b3f0cfe1dea44794b1f50c15e37108ba.png?v=1785048978
+    Price: $57.52 USD
+  - [Sky Blue / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556314161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/b3f0cfe1dea44794b1f50c15e37108ba.png?v=1785048978
+    Price: $57.52 USD
+  - [Sky Blue / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556346929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/b3f0cfe1dea44794b1f50c15e37108ba.png?v=1785048978
+    Price: $57.52 USD
+  - [Sky Blue / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556379697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/b3f0cfe1dea44794b1f50c15e37108ba.png?v=1785048978
+    Price: $57.52 USD
+  - [Sky Blue / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556412465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/b3f0cfe1dea44794b1f50c15e37108ba.png?v=1785048978
+    Price: $57.52 USD
+  - [Pink / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556445233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8117c4883ea34732aeff059eecd728a8.png?v=1785048978
+    Price: $57.52 USD
+  - [Pink / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556478001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8117c4883ea34732aeff059eecd728a8.png?v=1785048978
+    Price: $57.52 USD
+  - [Pink / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556510769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8117c4883ea34732aeff059eecd728a8.png?v=1785048978
+    Price: $57.52 USD
+  - [Pink / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556543537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8117c4883ea34732aeff059eecd728a8.png?v=1785048978
+    Price: $57.52 USD
+  - [Pink / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556576305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8117c4883ea34732aeff059eecd728a8.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Apricot / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556609073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/29f44b21d1cb474eaf42e805169239ec.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Apricot / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556641841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/29f44b21d1cb474eaf42e805169239ec.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Apricot / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556674609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/29f44b21d1cb474eaf42e805169239ec.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Apricot / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556707377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/29f44b21d1cb474eaf42e805169239ec.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Apricot / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556740145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/29f44b21d1cb474eaf42e805169239ec.png?v=1785048978
+    Price: $57.52 USD
+  - [Royal Blue / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556772913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/014d2796e2e44d399748f59f072b8046.png?v=1785048978
+    Price: $57.52 USD
+  - [Royal Blue / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556805681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/014d2796e2e44d399748f59f072b8046.png?v=1785048978
+    Price: $57.52 USD
+  - [Royal Blue / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556838449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/014d2796e2e44d399748f59f072b8046.png?v=1785048978
+    Price: $57.52 USD
+  - [Royal Blue / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556871217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/014d2796e2e44d399748f59f072b8046.png?v=1785048978
+    Price: $57.52 USD
+  - [Royal Blue / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556903985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/014d2796e2e44d399748f59f072b8046.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Gray / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556936753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/744acb10a98a462d95ee9ffd1ffa9e13.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Gray / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141556969521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/744acb10a98a462d95ee9ffd1ffa9e13.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Gray / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141557002289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/744acb10a98a462d95ee9ffd1ffa9e13.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Gray / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141557035057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/744acb10a98a462d95ee9ffd1ffa9e13.png?v=1785048978
+    Price: $57.52 USD
+  - [Light Gray / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141557067825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/744acb10a98a462d95ee9ffd1ffa9e13.png?v=1785048978
+    Price: $57.52 USD
+  - [Stone Gray / S](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141557100593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1f033148108f438fb33174c471ff5841.png?v=1785048978
+    Price: $57.52 USD
+  - [Stone Gray / M](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141557133361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1f033148108f438fb33174c471ff5841.png?v=1785048978
+    Price: $57.52 USD
+  - [Stone Gray / L](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141557166129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1f033148108f438fb33174c471ff5841.png?v=1785048978
+    Price: $57.52 USD
+  - [Stone Gray / XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141557198897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1f033148108f438fb33174c471ff5841.png?v=1785048978
+    Price: $57.52 USD
+  - [Stone Gray / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-snow-washed-frayed-edge-t-shirt?variant=41141557231665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1f033148108f438fb33174c471ff5841.png?v=1785048978
+    Price: $57.52 USD
+- [HMBL Vintage Wash Oversized Hoodie](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie): Item Number: RW0038Gender: UnisexFabric: 93.2% cotton, 6.8% spandexFabric Weight: 11.2 oz/yd² (380 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Daily Casual, Outdoor, School, Office, Cotton Blend, Snow Wash, Long Sleeve, Drop Shoulder, Hooded, Regular, Oversized, Spring, AutumnPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL inch cm inch cm inch cm inch cm Length 27.76 70.5 28.54 72.5 29.33 74.5 30.12 76.5 Shoulder 22.44 57 23.03 58.5 23.62 60 24.21 61.5 Chest 26.38 67 27.17 69 27.95 71 28.74 73 Sleeve length 24.02 61 24.41 62 24.80 63 25.20 64
+  Updated: 2026-07-30T14:48:13Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1d1183e3c6e84fbabde177557b601d0c.png?v=1785366198
+  - [Light Blue / S](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203218481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c09df219e73476992e7daafb8f5ca99.png?v=1785366198
+    Price: $88.52 USD
+  - [Light Blue / M](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203251249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c09df219e73476992e7daafb8f5ca99.png?v=1785366198
+    Price: $88.52 USD
+  - [Light Blue / L](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203284017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c09df219e73476992e7daafb8f5ca99.png?v=1785366198
+    Price: $88.52 USD
+  - [Light Blue / XL](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203316785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c09df219e73476992e7daafb8f5ca99.png?v=1785366198
+    Price: $88.52 USD
+  - [Royal Blue / S](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203349553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ce99eca7b7214a139469c7515314a2f9.png?v=1785366198
+    Price: $88.52 USD
+  - [Royal Blue / M](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203382321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ce99eca7b7214a139469c7515314a2f9.png?v=1785366198
+    Price: $88.52 USD
+  - [Royal Blue / L](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203415089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ce99eca7b7214a139469c7515314a2f9.png?v=1785366198
+    Price: $88.52 USD
+  - [Royal Blue / XL](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203447857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/ce99eca7b7214a139469c7515314a2f9.png?v=1785366198
+    Price: $88.52 USD
+  - [Black / S](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203480625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1d1183e3c6e84fbabde177557b601d0c.png?v=1785366198
+    Price: $88.52 USD
+  - [Black / M](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203513393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1d1183e3c6e84fbabde177557b601d0c.png?v=1785366198
+    Price: $88.52 USD
+  - [Black / L](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203546161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1d1183e3c6e84fbabde177557b601d0c.png?v=1785366198
+    Price: $88.52 USD
+  - [Black / XL](https://hrtlshmbl.site/products/hmbl-vintage-wash-oversized-hoodie?variant=41149203578929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1d1183e3c6e84fbabde177557b601d0c.png?v=1785366198
+    Price: $88.52 USD
+- [HRTLS HMBL | Unisex Mineral Wash Short Sleeve Hoodie](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie): Item Number: UT0108Gender: UnisexFabric: 100% cottonFabric Weight: 10.6 oz/yd² (360 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Daily Casual, School, Holiday, Outdoor, Office, Pure Cotton, Snow Wash, Short Sleeve, Hooded, Regular, Loose, Spring, Summer, AutumnPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 25.20 64 25.98 66 26.77 68 27.56 70 28.35 72 Shoulder 20.67 52.5 21.26 54 21.85 55.5 22.44 57 23.03 58.5 Chest 24.80 63 25.59 65 26.38 67 27.17 69 27.95 71 Sleeve length 10.24 26 10.63 27 11.02 28 11.42 29 11.81 30
+  Updated: 2026-08-02T20:26:25Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/5c25c4052443439da05ad6140b1e241d.png?v=1785701148
+  - [Apricot / S](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284533297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/09b88f40d4d24c319521a01f90690a63.png?v=1785701148
+    Price: $84.66 USD
+  - [Apricot / M](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284566065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/09b88f40d4d24c319521a01f90690a63.png?v=1785701148
+    Price: $84.66 USD
+  - [Apricot / L](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284598833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/09b88f40d4d24c319521a01f90690a63.png?v=1785701148
+    Price: $84.66 USD
+  - [Apricot / XL](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284631601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/09b88f40d4d24c319521a01f90690a63.png?v=1785701148
+    Price: $84.66 USD
+  - [Apricot / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284664369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/09b88f40d4d24c319521a01f90690a63.png?v=1785701148
+    Price: $84.66 USD
+  - [Rose Pink / S](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284697137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/459d0f0a91a2406facaae86ff3fa69ae.png?v=1785701148
+    Price: $84.66 USD
+  - [Rose Pink / M](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284729905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/459d0f0a91a2406facaae86ff3fa69ae.png?v=1785701148
+    Price: $84.66 USD
+  - [Rose Pink / L](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284762673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/459d0f0a91a2406facaae86ff3fa69ae.png?v=1785701148
+    Price: $84.66 USD
+  - [Rose Pink / XL](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284795441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/459d0f0a91a2406facaae86ff3fa69ae.png?v=1785701148
+    Price: $84.66 USD
+  - [Rose Pink / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284828209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/459d0f0a91a2406facaae86ff3fa69ae.png?v=1785701148
+    Price: $84.66 USD
+  - [Black / S](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284860977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/5c25c4052443439da05ad6140b1e241d.png?v=1785701148
+    Price: $84.66 USD
+  - [Black / M](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284893745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/5c25c4052443439da05ad6140b1e241d.png?v=1785701148
+    Price: $84.66 USD
+  - [Black / L](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284926513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/5c25c4052443439da05ad6140b1e241d.png?v=1785701148
+    Price: $84.66 USD
+  - [Black / XL](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284959281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/5c25c4052443439da05ad6140b1e241d.png?v=1785701148
+    Price: $84.66 USD
+  - [Black / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie?variant=41155284992049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/5c25c4052443439da05ad6140b1e241d.png?v=1785701148
+    Price: $84.66 USD
+- [HRTLS HMBL | Inverted Cash Fleeced Sweatshirt](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt): Item Number: R00368Gender: UnisexFabric: 42% cotton, 53% polyester, 5% other fibersFabric Weight: 10.3 oz/yd² (350 g/m²)Fabric Thickness: ThickCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Casual, Street, Daily Casual, Cotton Blend, Long Sleeve, Round Neck / O-Neck, Regular, Loose, Autumn, WinterNotes: Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 26.77 68 27.56 70 28.35 72 29.13 74 29.92 76 Chest 23.62 60 24.41 62 25.20 64 25.98 66 26.77 68 Shoulder 24.02 61 24.80 63 25.59 65 26.38 67 27.17 69 Sleeve length 20.08 51 20.47 52 20.87 53 21.26 54 21.65 55
+  Updated: 2026-08-02T22:37:36Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c3b2eb2fdfa4291ab1e8a9efad758d0.png?v=1785709323
+  - [Gray / S](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397451825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/39f07d4c11824902a471493e103cd501.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray / M](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397484593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/39f07d4c11824902a471493e103cd501.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray / L](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397517361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/39f07d4c11824902a471493e103cd501.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray / XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397550129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/39f07d4c11824902a471493e103cd501.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397582897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/39f07d4c11824902a471493e103cd501.png?v=1785709323
+    Price: $69.80 USD
+  - [Eden Green / S](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397615665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/997f5d85ab044120b91ed5a15ed83f4f.png?v=1785709323
+    Price: $69.80 USD
+  - [Eden Green / M](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397648433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/997f5d85ab044120b91ed5a15ed83f4f.png?v=1785709323
+    Price: $69.80 USD
+  - [Eden Green / L](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397681201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/997f5d85ab044120b91ed5a15ed83f4f.png?v=1785709323
+    Price: $69.80 USD
+  - [Eden Green / XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397713969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/997f5d85ab044120b91ed5a15ed83f4f.png?v=1785709323
+    Price: $69.80 USD
+  - [Eden Green / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397746737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/997f5d85ab044120b91ed5a15ed83f4f.png?v=1785709323
+    Price: $69.80 USD
+  - [Black / S](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397779505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c3b2eb2fdfa4291ab1e8a9efad758d0.png?v=1785709323
+    Price: $69.80 USD
+  - [Black / M](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397812273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c3b2eb2fdfa4291ab1e8a9efad758d0.png?v=1785709323
+    Price: $69.80 USD
+  - [Black / L](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397845041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c3b2eb2fdfa4291ab1e8a9efad758d0.png?v=1785709323
+    Price: $69.80 USD
+  - [Black / XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397877809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c3b2eb2fdfa4291ab1e8a9efad758d0.png?v=1785709323
+    Price: $69.80 USD
+  - [Black / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397910577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/7c3b2eb2fdfa4291ab1e8a9efad758d0.png?v=1785709323
+    Price: $69.80 USD
+  - [Navy Blue / S](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397943345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e2f16e45eeda410089a8083812967a12.png?v=1785709323
+    Price: $69.80 USD
+  - [Navy Blue / M](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155397976113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e2f16e45eeda410089a8083812967a12.png?v=1785709323
+    Price: $69.80 USD
+  - [Navy Blue / L](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398008881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e2f16e45eeda410089a8083812967a12.png?v=1785709323
+    Price: $69.80 USD
+  - [Navy Blue / XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398041649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e2f16e45eeda410089a8083812967a12.png?v=1785709323
+    Price: $69.80 USD
+  - [Navy Blue / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398074417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e2f16e45eeda410089a8083812967a12.png?v=1785709323
+    Price: $69.80 USD
+  - [Dark Gray / S](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398107185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/078e49e6cbde4e7d9ae1aa3962f058a9.png?v=1785709323
+    Price: $69.80 USD
+  - [Dark Gray / M](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398139953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/078e49e6cbde4e7d9ae1aa3962f058a9.png?v=1785709323
+    Price: $69.80 USD
+  - [Dark Gray / L](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398172721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/078e49e6cbde4e7d9ae1aa3962f058a9.png?v=1785709323
+    Price: $69.80 USD
+  - [Dark Gray / XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398205489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/078e49e6cbde4e7d9ae1aa3962f058a9.png?v=1785709323
+    Price: $69.80 USD
+  - [Dark Gray / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398238257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/078e49e6cbde4e7d9ae1aa3962f058a9.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Apricot / S](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398271025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e843a97c882e4d5d81adf953efa3fff9.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Apricot / M](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398303793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e843a97c882e4d5d81adf953efa3fff9.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Apricot / L](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398336561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e843a97c882e4d5d81adf953efa3fff9.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Apricot / XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398369329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e843a97c882e4d5d81adf953efa3fff9.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Apricot / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398402097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/e843a97c882e4d5d81adf953efa3fff9.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Coffee / S](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398434865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8bc025ef8eed42c99e77583609ae0794.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Coffee / M](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398467633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8bc025ef8eed42c99e77583609ae0794.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Coffee / L](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398500401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8bc025ef8eed42c99e77583609ae0794.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Coffee / XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398533169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8bc025ef8eed42c99e77583609ae0794.png?v=1785709323
+    Price: $69.80 USD
+  - [Gray Coffee / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt?variant=41155398565937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8bc025ef8eed42c99e77583609ae0794.png?v=1785709323
+    Price: $69.80 USD
 
 ## Collections
 
@@ -2071,11 +2511,11 @@
   Updated: 2026-07-19T22:56:31Z
   Total Products: 22
 - [Recommended Products (Wiz Email)](https://hrtlshmbl.site/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-07-21T21:55:35Z
-  Total Products: 23
+  Updated: 2026-08-02T22:22:36Z
+  Total Products: 29
 - [Recommended Products (Wiz Email)](https://hrtlshmbl.site/collections/recommended-products-wiz-email-1): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-07-21T21:55:35Z
-  Total Products: 23
+  Updated: 2026-08-02T22:22:36Z
+  Total Products: 29
 
 ## Store Pages
 
