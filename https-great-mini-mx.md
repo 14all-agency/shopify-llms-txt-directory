@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2016-12-13T17:20:00Z
 - Contact Email: virgilio@great-mini.mx
-- Updated At: 2026-07-08T00:00:28.424Z
+- Updated At: 2026-08-03T00:00:39.684Z
 
 # GREAT + MINI · Mobiliario Corporativo y Equipamiento Integral
 
@@ -1602,7 +1602,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Sillon_Contract_Stazzo.jpg?v=1748045397
   Price: 8499,00 $ MXN
 - [Whirlpool Refrigerador 18' y Congelador 18'](https://great-mini.mx/products/wsr57r18dm-wsz57l18dm-skt60m): Conjunto de refrigerador y congelador separados, ambos de 18 pies cúbicos con control electrónico y luz LED. El congelador incluye Fast Freeze, compartimento para pizza y es Frost Free. El refrigerador tiene cajones para frutas, verduras y carnes frías. Incluye jaladeras metálicas y un trim de empotre en acero inoxidable.
-  Updated: 2026-04-18T00:29:18Z
+  Updated: 2026-07-17T11:16:34Z
   Vendor: WHIRLPOOL
   Product Type: Enfriador
   Availability: Available
@@ -1651,14 +1651,14 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/FreidoraImperialIFS-40.png?v=1750364993
   Price: 1315,00 $ MXN
 - [Horno Turbochef Bullet](https://great-mini.mx/products/equipos-cocina-hornos-de-alta-velocidad-turbochef-bullet-con-coccion-hibrida): Cocina en tiempo récord con el Horno TurboChef Bullet. Tecnología de impacto de aire y microondas para resultados perfectos sin ventilación. ¡Incluye accesorios!
-  Updated: 2026-04-16T07:55:38Z
+  Updated: 2026-07-24T15:11:08Z
   Vendor: TURBOCHEF
   Product Type: HORNO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/Bullet-Front-min.webp?v=1750365898
-  Price: 13.199,00 $ MXN
+  Price: 27.129,00 $ MXN
 - [🍕HHB-8603-1K2098 / Horno de Convección de Alto Rendimiento TurboChef High h Batch 2™ ⚡](https://great-mini.mx/products/horno-de-conveccion-de-alto-rendimiento-high-h-batch-2-hhb-8603-1k2098): ⚡ ¡Lleva tu cocina al siguiente nivel con el TurboChef High h Batch 2™! Hornea hasta 5x más rápido con su sistema de convección por impacto y rejilla oscilante 🍕🛑 Operación Ventless sin campana. SKU: HHB-8603-1K2098. ¡Cómpralo en México! 🇲🇽🛒
-  Updated: 2026-06-25T11:58:31Z
+  Updated: 2026-07-29T20:40:47Z
   Vendor: TURBOCHEF
   Product Type: HORNO ALTA VELOCIDAD
   Availability: Available
@@ -1846,7 +1846,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-16T01:34:06Z
   Total Products: 8
 - [BÁSICOS FOOD SERVICE](https://great-mini.mx/collections/food-service)
-  Updated: 2026-07-03T22:35:13Z
+  Updated: 2026-07-24T15:11:09Z
   Total Products: 50
 - [FREGADEROS](https://great-mini.mx/collections/fregaderos)
   Updated: 2026-06-08T18:28:04Z
@@ -1855,8 +1855,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:28:06Z
   Total Products: 5
 - [REFRIGERADORES](https://great-mini.mx/collections/refrigeradores)
-  Updated: 2026-06-09T03:10:07Z
-  Total Products: 25
+  Updated: 2026-07-20T15:10:59Z
+  Total Products: 24
 - [ESTUFAS](https://great-mini.mx/collections/estufas)
   Updated: 2026-06-29T20:30:58Z
   Total Products: 12
@@ -1876,8 +1876,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:46:47Z
   Total Products: 22
 - [KITCHEN AID](https://great-mini.mx/collections/kitchen-aid)
-  Updated: 2026-06-08T18:46:49Z
-  Total Products: 4
+  Updated: 2026-07-20T15:10:59Z
+  Total Products: 3
 - [IMPERIAL](https://great-mini.mx/collections/imperial)
   Updated: 2026-06-08T18:46:59Z
   Total Products: 7
@@ -1885,7 +1885,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-09T03:13:57Z
   Total Products: 25
 - [TURBOCHEF](https://great-mini.mx/collections/turbochef): ⚡ Descubre la colección TurboChef en Great Mini. Hornos de alta velocidad y convección industrial que cocinan hasta 5 veces más rápido. Tecnología Ventless sin campana y menús programables. ¡Lleva tu negocio al siguiente nivel con envío a todo México! 🇲🇽🛒
-  Updated: 2026-06-25T01:14:59Z
+  Updated: 2026-07-24T15:11:09Z
   Total Products: 6
 - [MENUMASTER](https://great-mini.mx/collections/menumaster)
   Updated: 2026-06-08T18:47:10Z
