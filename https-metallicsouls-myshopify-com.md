@@ -6,34 +6,34 @@
 - Timezone: America/New_York
 - Created At: 2024-12-25T17:57:36Z
 - Contact Email: psycous2@gmail.com
-- Updated At: 2026-07-24T00:00:46.572Z
+- Updated At: 2026-08-03T00:00:47.067Z
 
 ## Products
 
 - [Metallic Souls Part 1 - The Hunt Begins](https://metallicsouls.myshopify.com/products/metallic-souls-part-1): Anna Matrix and Sara Bennett uncover the secrets of living metal, setting them on a path that could change humanity forever.
-  Updated: 2026-07-13T06:02:18Z
+  Updated: 2026-07-27T16:33:48Z
   Vendor: LIVING METAL
   Product Type: E-book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/91CQo9fsD5L.jpg?v=1782915008
   Price: $0.99 USD
-- [Metallic Souls Part Two: Discover Your Inner Strength and Power](https://metallicsouls.myshopify.com/products/metallic-souls-part-two): Unlock your potential with *Metallic Souls Part Two*. Discover powerful insights and transformative experiences that will guide you on your journey to self-discovery and empowerment.
-  Updated: 2026-07-13T06:02:32Z
+- [Metallic Souls Part Two: Nakita's Wrath](https://metallicsouls.myshopify.com/products/metallic-souls-part-two): Nakita awakens with an unstable power and a hunger for revenge, plunging deeper into the Living Metal conspiracy that could burn Mars to the ground.
+  Updated: 2026-07-30T04:01:45Z
   Vendor: LIVING METAL
   Product Type: E-book
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/811A1OoIaVL.jpg?v=1782916391
+  Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/25381F4D-A38A-4C5A-8AA3-67AA247FD4F6.jpg?v=1783809450
   Price: $4.00 USD
 - [Metallic Souls Part 3: Mars Will Burn](https://metallicsouls.myshopify.com/products/metallic-souls-part-3): Everything has led to this. Anna confronts Nikita as Sara battles Core in the explosive climax of Metallic Souls: Part Three.
-  Updated: 2026-07-13T06:02:49Z
+  Updated: 2026-07-27T16:30:04Z
   Vendor: LIVING METAL
   Product Type: E-book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/81rtn2G70IL.jpg?v=1782916392
   Price: $4.00 USD
-- [Premium Matte Paper Poster - High-Quality Wall Art for Every Space](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-2): Discover our Premium Matte Paper Poster, perfect for elevating your space. With a sleek finish and vibrant colors, these posters are designed to impress. Shop now!
-  Updated: 2026-07-08T20:49:58Z
-  Vendor: My Store
+- [Metallic Souls Cyberpunk Art Poster — Living Metal Universe](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-2): Original cyberpunk artwork from the Metallic Souls sci-fi trilogy, printed on premium matte paper. Bring the dystopian Mars saga to your wall.
+  Updated: 2026-07-29T21:50:32Z
+  Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/377802df-290e-4dd5-9a07-08332122ba43.jpg?v=1782916392
@@ -153,9 +153,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/377802df-290e-4dd5-9a07-08332122ba43.jpg?v=1782916392
     Price: $37.60 USD
-- [Premium Matte Poster with Hanger - Stylish Wall Decor for Home](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-1): Elevate your space with our Premium Matte Poster with Hanger. This stylish wall decor adds a touch of sophistication to any room. Perfect for home or office!
-  Updated: 2026-07-08T20:49:58Z
-  Vendor: My Store
+- [Metallic Souls Sci-Fi Art Poster with Hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-1): Original Metallic Souls cyberpunk artwork, ready to hang with an included wooden hanger — no frame needed. From the dystopian Mars sci-fi trilogy.
+  Updated: 2026-07-29T22:25:12Z
+  Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/d8f5d55b-56f9-459b-8ac4-53d43f5691d2.jpg?v=1782916401
@@ -175,8 +175,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/d8f5d55b-56f9-459b-8ac4-53d43f5691d2.jpg?v=1782916401
     Price: $79.48 USD
-- [Metallic Souls Mars Saga Poster with Magnetic Hanger — Matte Print](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger): Magnetic hangers that prevent poster damage and allow easy print changes, offering versatile and durable display options: Hanger Material: Durable pine wood. Paper Weight: 200 gsm (80 lb), thickness: 0.22 mm (8.7 mils). Paper Finish: Matte, smooth uncoated finish with a luxurious feel. Sustainable Paper: FSC- materials or equivalent. Available Sizes: 29 sizes in inches (US&CA) and cms (rest of the world). Recommended Use: For indoor display. Learn about paper types and their unique textures and finishes here. No minimum orders, printed and shipped on demand.
-  Updated: 2026-07-22T23:28:06Z
+- [Metallic Souls Mars Saga Poster with Magnetic Hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger): Original artwork from the dystopian Mars saga behind the Metallic Souls cyberpunk sci-fi trilogy and the Living Metal universe.
+  Updated: 2026-07-30T05:02:26Z
   Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
@@ -289,8 +289,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/2336b438-9f01-4679-8c24-c2217133cc35.jpg?v=1782916403
     Price: $37.70 USD
-- [Metallic Souls Dystopian Art Poster with Hanger — Cyberpunk Collection](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2): Elevate your space with our Premium Matte Paper Poster with Hanger. Featuring stunning print quality and modern design, it's perfect for any décor. Shop now to transform your walls!
-  Updated: 2026-07-21T11:04:44Z
+- [Metallic Souls Dystopian Art Poster with Hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2): Original artwork from the Metallic Souls cyberpunk trilogy — the dystopian Mars saga of Anna Matrix, Nakita, and Sara Bennett. Ready to hang.
+  Updated: 2026-07-29T16:09:23Z
   Vendor: LIVING METAL
   Product Type: Print on demand
   Availability: Available
@@ -403,9 +403,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/dd83b7f5-f9be-4d08-9056-d55b91adb694.jpg?v=1735746463
     Price: $80.80 USD
-- [Metallic Souls Anna Matrix Poster with Hanger — Dual Hanger Finish](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3): Magnetic hangers that prevent poster damage and allow easy print changes, offering versatile and durable display options: Hanger Material: Durable pine wood. Paper Weight: 200 gsm (80 lb), thickness: 0.22 mm (8.7 mils). Paper Finish: Matte, smooth uncoated finish with a luxurious feel. Sustainable Paper: FSC- materials or equivalent. Available Sizes: 29 sizes in inches (US&CA) and cms (rest of the world). Recommended Use: For indoor display. Learn about paper types and their unique textures and finishes here. No minimum orders, printed and shipped on demand.
-  Updated: 2026-07-21T11:00:29Z
-  Vendor: My Store
+- [Metallic Souls Anna Matrix Poster — Living Metal Universe](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3): Original artwork of Anna Matrix, the Mars cop with metal-manipulation powers from the Metallic Souls cyberpunk sci-fi trilogy.
+  Updated: 2026-08-01T17:08:04Z
+  Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/cbe80483-0947-495a-9b7a-3581786b9720.jpg?v=1735749861
@@ -610,7 +610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ca3d1d9d-909e-4495-b48b-bd9de67ae202.jpg?v=1735749877
     Price: $61.56 USD
 - [Metallic Souls Cyberpunk Art — Wooden Framed Matte Poster](https://metallicsouls.myshopify.com/products/premium-matte-paper-wooden-framed-poster): Metallic Souls Cyberpunk Art — Wooden Framed Matte Poster — collectible artwork inspired by the Metallic Souls cyberpunk sci-fi trilogy, ready to hang in a sturdy pine wood frame. Bring the dystopian Mars saga of Anna Matrix, Nakita, and Sara Bennett to your wall.Our sturdy wooden framed posters are printed on heavyweight white matte paper with a smooth, luxurious finish—designed to stand the test of time: Ready-to-hang: Includes hanging kit, ready to hang directly on the wall. Frame Material: Durable pine wood. Frame Measurements: 20-25mm (0.79"-0.98") thick, 10-14mm (0.4"-0.6") wide. Paper Weight: 200 gsm (80 lb), thickness: 0.22 mm (8.7 mils). Paper Finishing: Matte, smooth, non-reflective surface. Protection: Shatterproof plexiglass protects the poster. Sustainable Paper: FSC- materials or equivalent. Available Sizes: 15 sizes in inches (US&CA) and cms (rest of the world). Learn about paper types and their unique textures and finishes here. No minimum orders, printed and shipped on demand.New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
-  Updated: 2026-07-18T01:48:45Z
+  Updated: 2026-07-27T16:22:30Z
   Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
@@ -723,8 +723,8 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/25864cc2-1879-447f-a6ff-7335d62d5dd0.jpg?v=1735759032
     Price: $152.12 USD
 - [Metallic Souls Flexi Phone Case — Original Artwork Cover](https://metallicsouls.myshopify.com/products/flexi-case): Protect your phone with original cyberpunk artwork from the Metallic Souls universe. The LIVING METAL Flexi Phone Case offers lightweight protection with a flexible frame and vibrant wraparound print. Compatible with most iPhone models. Perfect for sci-fi fans, gamers, and indie brand supporters. Printed and shipped on demand.
-  Updated: 2026-07-08T20:50:00Z
-  Vendor: My Store
+  Updated: 2026-07-29T21:18:08Z
+  Vendor: LIVING METAL
   Product Type: Phone Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/4a412a79-8ee5-402a-bfbe-201365b3109e.jpg?v=1735759470
@@ -857,8 +857,8 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/38db9511-c94d-4890-85d4-7334c4391752.jpg?v=1735759477
     Price: $15.18 USD
 - [Metallic Souls Tough Phone Case — Original Sci-Fi Art](https://metallicsouls.myshopify.com/products/tough-case): Metallic Souls Tough Phone Case — Original Sci-Fi ArtProtect your phone with a durable case built for daily use and finished with original sci-fi artwork from the Metallic Souls brand. This design gives your device a stronger visual identity than a plain case while keeping the focus on protection, style, and everyday function.The tough case is made for shoppers who want a phone cover that feels bold, futuristic, and different from generic mass-market accessories. The artwork connects with fans of cyberpunk, dystopian science fiction, gaming culture, anime-inspired art, and independent creator-owned designs.Product highlights Durable protective phone case for everyday use Glossy printed artwork with a clean finished look Built for multiple iPhone model options Good gift idea for sci-fi fans, gamers, and cyberpunk art collectors Part of the Living Metal / Metallic Souls visual universe This case works as both a practical phone accessory and a small piece of collectible artwork. Use it as a daily cover, a gift for someone who likes futuristic designs, or a matching accessory alongside Metallic Souls posters, stickers, apparel, and books.Style: sci-fi, cyberpunk, futuristic, original artwork, protective phone case.
-  Updated: 2026-07-10T10:49:41Z
-  Vendor: My Store
+  Updated: 2026-07-29T23:50:07Z
+  Vendor: LIVING METAL
   Product Type: Phone Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/2d717891-9d5d-481a-86c5-9f0d8aac18fd.jpg?v=1735835198
@@ -971,8 +971,8 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/48350fde-22d0-4379-97ac-2bdc9b5160d3.jpg?v=1735835204
     Price: $23.10 USD
 - [Metallic Souls Flexi Phone Case — Lightweight Sci-Fi Cover](https://metallicsouls.myshopify.com/products/flexi-case-1): Metallic Souls Flexi Phone Case — Lightweight Sci-Fi CoverThis Metallic Souls flexi phone case is designed for shoppers who want a lighter protective cover with original sci-fi artwork. The flexible case format keeps the product practical for everyday use while the artwork gives it a stronger identity than a plain transparent shell.The design fits fans of cyberpunk, futuristic art, anime-inspired visuals, gaming culture, and independent creator-owned merchandise. It gives buyers a simple way to carry a piece of the Metallic Souls visual universe on a device they use every day.Product highlights Lightweight flexible phone case for everyday carry Original sci-fi artwork with cyberpunk appeal Good option for shoppers who prefer slim protection Works as a gift for gamers, sci-fi fans, and art collectors Part of the Metallic Souls / Living Metal product line This listing targets searches for flexi phone case, sci-fi phone cover, cyberpunk phone case, unique iPhone case, and original artwork phone accessory.
-  Updated: 2026-07-08T20:50:17Z
-  Vendor: My Store
+  Updated: 2026-07-29T21:48:18Z
+  Vendor: LIVING METAL
   Product Type: Phone Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/81a0d696-6966-40d5-8fe3-c6a4bbdecfca.jpg?v=1735836893
@@ -1219,8 +1219,8 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/4b518898-be65-4430-a0dd-5ee98c0f8b84.jpg?v=1735836770
     Price: $23.10 USD
 - [Metallic Souls Tough Phone Case — Futuristic Design](https://metallicsouls.myshopify.com/products/tough-case-2): Metallic Souls Tough Phone Case — Futuristic DesignGive your phone a sharper sci-fi look with this Metallic Souls tough phone case. The design combines original futuristic artwork with practical everyday protection, making it a strong choice for anyone who wants a phone cover that looks more distinct than a standard case.This case is aimed at fans of cyberpunk worlds, science fiction, comic-style art, gaming, dystopian visuals, and creator-owned merchandise. It helps connect the product to the larger Metallic Souls universe while still clearly explaining what the buyer is getting: a protective phone case with bold artwork.Features Protective phone case designed for daily handling Glossy printed finish for vivid artwork Futuristic sci-fi style with cyberpunk influence Available across multiple iPhone model options Good gift for fans of original art and speculative fiction This listing is designed for shoppers searching for unique phone cases, sci-fi phone covers, cyberpunk accessories, gamer gifts, and original artwork cases. It also works well as part of a larger Metallic Souls collection with matching posters, stickers, apparel, and books.
-  Updated: 2026-07-10T10:51:42Z
-  Vendor: My Store
+  Updated: 2026-07-29T19:20:00Z
+  Vendor: LIVING METAL
   Product Type: Phone Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/981fce81-8753-4872-ad80-bba12c761b8b.jpg?v=1735837016
@@ -1332,10 +1332,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/dff2bf34-4300-4d60-ba13-15ed800a6484.jpg?v=1735837032
     Price: $23.10 USD
-- [Metallic Souls Logo Tee — Gildan Ultra Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metal1): Rep the Metallic Souls universe with the LIVING METAL Logo Tee — a bold cyberpunk graphic t-shirt for fans of sci-fi, dystopian art, and indie brands. Made from 100% USA cotton on a Gildan G200 Ultra Cotton frame. Available in multiple colors and sizes S–5XL. Ship-on-demand, no minimum order required.
-  Updated: 2026-07-18T02:45:54Z
+- [Metallic Souls Logo Tee — Living Metal Cyberpunk T-Shirt](https://metallicsouls.myshopify.com/products/metal1): Rep the Metallic Souls universe with the LIVING METAL Logo Tee, a bold cyberpunk graphic t-shirt for fans of the dystopian Mars sci-fi trilogy.
+  Updated: 2026-07-29T21:19:07Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12636083_f_G200_51_f.jpg?v=1776481311
   - [BLACK / S](https://metallicsouls.myshopify.com/products/metal1?variant=44850485657645)
@@ -1523,9 +1523,9 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12636083_f_G200_77_f.jpg?v=1776481311
     Price: $17.90 USD
 - [Metallic Souls White Edition Tee — Gildan Ultra Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metallic-2): The Metallic Souls White Edition Tee brings clean cyberpunk style to your wardrobe. Original LIVING METAL universe artwork on a heavyweight Gildan G200 Ultra Cotton frame — 100% USA cotton, sizes S–5XL. A fan-favorite for sci-fi and indie brand lovers. Printed and shipped on demand.
-  Updated: 2026-07-16T19:00:35Z
+  Updated: 2026-07-30T03:59:41Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12636374_f_G200_00_f.jpg?v=1776483223
   - [WHITE / S](https://metallicsouls.myshopify.com/products/metallic-2?variant=44850552930349)
@@ -1743,9 +1743,9 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640510_f_CP82_c6cf_f.jpg?v=1776555030
     Price: $14.91 USD
 - [Metallic Souls Mask Series Tee — Port & Company Core Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metal-mask1): Metallic Souls Mask Series Tee — wearable art from the Metallic Souls cyberpunk sci-fi universe. Original LIVING METAL graphic design inspired by the dystopian Mars saga of Anna Matrix, Nakita, and Sara Bennett, printed on a soft Port & Company Core Cotton tee.Product: Port & Company PC54 Port & Company ® - Core Cotton Tee. PC54 5.4 oz., 100% cotton 90/10 cotton/poly (Athletic Heather) 50/50 cotton/poly (Neon Blue, Neon Green, Neon Orange, Neon Pink, Neon Yellow, Dark Heather Grey, Heather Athletic Maroon, Heather Purple, Heather Navy, Heather Red, Heather Royal, Heather Sangria, Heather Dark Chocolate Brown, Graphite Heather) 98/2 cotton/poly (Ash) Removable tag for comfort and relabeling Size Chest S 35-37" M 38-40" L 41-43" XL 44-46" 2XL 47-49" 3XL 50-53" 4XL 54-57" 5XL 58-60" 6XL 61-63" New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
-  Updated: 2026-07-18T01:47:39Z
+  Updated: 2026-07-30T07:06:43Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640535_f_PC54_3495_f.jpg?v=1776555312
   - [White / S](https://metallicsouls.myshopify.com/products/metal-mask1?variant=44853163917357)
@@ -1949,9 +1949,9 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640535_f_PC54_25dc_f.jpg?v=1776555311
     Price: $15.42 USD
 - [Metallic Souls Mask 2 Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/mask2): Metallic Souls Mask 2 Tee — part of the Mask series graphic tees from the Metallic Souls cyberpunk sci-fi universe. Original LIVING METAL artwork on a classic-fit Gildan cotton tee, made for fans of the dystopian Mars saga.Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
-  Updated: 2026-07-18T01:47:45Z
+  Updated: 2026-07-30T00:23:22Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640593_f_G500_00_f.jpg?v=1776555979
   - [WHITE / S](https://metallicsouls.myshopify.com/products/mask2?variant=44853174632493)
@@ -2131,9 +2131,9 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640593_f_G500_bk_f.jpg?v=1776555979
     Price: $15.19 USD
 - [Metallic Souls X1 Series Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/metal-x1): Metallic Souls X1 Series Tee — original LIVING METAL graphic art from the Metallic Souls cyberpunk sci-fi trilogy, printed on a classic-fit Gildan cotton tee. Rep the Mars-set saga of buried conspiracies and hidden power.Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
-  Updated: 2026-07-18T01:47:55Z
+  Updated: 2026-07-29T19:46:01Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640776_f_G500_00_f.jpg?v=1776558153
   - [WHITE / S](https://metallicsouls.myshopify.com/products/metal-x1?variant=44853194948653)
@@ -2309,9 +2309,9 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12640776_f_G500_aq_f.jpg?v=1776558153
     Price: $14.19 USD
 - [Metallic Souls Neon Epic Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/neon-epic-1): Metallic Souls Neon Epic Tee — bold neon-cyberpunk graphic art from the Metallic Souls universe, on a classic-fit Gildan cotton tee. Inspired by the dystopian Mars sci-fi saga and the Living Metal Program at its core.Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
-  Updated: 2026-07-18T01:47:53Z
+  Updated: 2026-07-29T21:20:57Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12641195_f_G500_00_f.jpg?v=1776563054
   - [WHITE / S](https://metallicsouls.myshopify.com/products/neon-epic-1?variant=44853214117933)
@@ -2507,9 +2507,9 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12641195_f_G500_51_f.jpg?v=1776563054
     Price: $16.19 USD
 - [Metallic Souls Mask 2 Ultra Cotton Tee — Gildan G200](https://metallicsouls.myshopify.com/products/mask-2): Metallic Souls Mask 2 Ultra Cotton Tee — heavyweight 6oz Gildan Ultra Cotton tee featuring original LIVING METAL artwork from the Metallic Souls cyberpunk sci-fi trilogy.Product: Gildan G200  Ultra Cotton 6 oz. T-Shirt 6 oz. 100% USA cotton Heathers and Safety colors are 50/50 Ash Grey is 99/1; Sport Grey & Antiques are 90/10 Made with sustainably and fairly grown USA cotton Tear away label Non-topstitched, classic width, rib collar Double-needle sleeve and bottom hem Seamless double-needle 7/8" collar Taped neck and shoulders Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Gildan's manufacturing process utilizes 45% renewable energy New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
-  Updated: 2026-07-18T01:48:30Z
+  Updated: 2026-07-29T22:53:38Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12645865_f_G200_00_f.jpg?v=1776636391
   - [WHITE / S](https://metallicsouls.myshopify.com/products/mask-2?variant=44854965108781)
@@ -2697,9 +2697,9 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12645865_f_G200_51_f.jpg?v=1776636391
     Price: $17.90 USD
 - [Metallic Souls Mask 3 Ultra Cotton Tee — Gildan G200](https://metallicsouls.myshopify.com/products/mask3): Metallic Souls Mask 3 Ultra Cotton Tee — heavyweight 6oz Gildan Ultra Cotton tee featuring original LIVING METAL artwork from the Metallic Souls cyberpunk sci-fi trilogy, set on a dystopian future Mars.Product: Gildan G200  Ultra Cotton 6 oz. T-Shirt 6 oz. 100% USA cotton Heathers and Safety colors are 50/50 Ash Grey is 99/1; Sport Grey & Antiques are 90/10 Made with sustainably and fairly grown USA cotton Tear away label Non-topstitched, classic width, rib collar Double-needle sleeve and bottom hem Seamless double-needle 7/8" collar Taped neck and shoulders Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Gildan's manufacturing process utilizes 45% renewable energy New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
-  Updated: 2026-07-18T01:48:00Z
+  Updated: 2026-07-29T18:17:07Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12645937_f_G200_00_f.jpg?v=1776636990
   - [WHITE / S](https://metallicsouls.myshopify.com/products/mask3?variant=44854973661229)
@@ -2887,9 +2887,9 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12645937_f_G200_77_f.jpg?v=1776636990
     Price: $17.90 USD
 - [Metallic Souls Evolution Tee — Gildan  Cotton T-Shirt](https://metallicsouls.myshopify.com/products/evolution-1): Metallic Souls Evolution Tee — original LIVING METAL graphic art from the Metallic Souls cyberpunk sci-fi universe, printed on a classic-fit Gildan cotton tee.Product: Gildan G500  5.3 oz. T-Shirt 5.3 oz., 100% preshrunk cotton Antique (Cherry Red, Jade Dome, Irish Green, Sapphire, Orange) and Sport Grey are 90% cotton, 10% polyester Sunset, Safety Pink, Russet, Neon (Green, Blue), Midnight, Lilac, Blackberry, Tweed, Safety Green, S. Orange, Dark Heather, Graphite Heather, and Heather (Military Green, Radiant Orchid, Red, Sapphire) are 50% cotton, 50% polyester Ash Grey is 99% cotton, 1% polyester Made with sustainably and fairly grown USA cotton Seamless rib at neck Taped shoulder-to-shoulder Double-needle stitching throughout Non-topstitched, classic width, rib collar Tear away label Safety Green is compliant with ANSI / ISEA 107 high-visibility standards Quarter-turned to eliminate center crease 7/8" collar Classic fit New to Metallic Souls? Start the trilogy in our Books & E-books collection — Part 1 is just $0.99. Or browse more of the Metallic Souls Merchandise collection.
-  Updated: 2026-07-18T01:48:04Z
+  Updated: 2026-07-30T06:41:22Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12646110_f_G500_00_f.jpg?v=1776638339
   - [WHITE / S](https://metallicsouls.myshopify.com/products/evolution-1?variant=44854998106157)
@@ -3064,10 +3064,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12646110_f_G500_aq_f.jpg?v=1776638339
     Price: $14.19 USD
-- [Mask soul 1](https://metallicsouls.myshopify.com/products/mask-soul-1): Product: Gildan G640  Softstyle 4.5 oz. T-Shirt 4.5 oz. 100% preshrunk ringspun cotton jersey Sport Grey and Antique colors: 90% cotton, 10% polyester Graphite Heather: 50% cotton, 50% polyester All other Heather colors: 65% polyester, 35% cotton Seamless double-needle 3/4" collar Modern classic fit High stitch density for smoother printing surface Taped neck and shoulders Rolled forward shoulder Double-needle sleeve and bottom hem Tubular fit for minimal torque Tear away label
-  Updated: 2026-07-16T21:55:48Z
+- [Metallic Souls Mask 1 Tee — Gildan Softstyle T-Shirt](https://metallicsouls.myshopify.com/products/mask-soul-1): Metallic Souls Mask 1 Tee — part of the Mask series graphic tees from the Metallic Souls cyberpunk sci-fi universe. Original LIVING METAL artwork on a soft, lightweight Gildan Softstyle tee.4.5 oz. 100% preshrunk ringspun cotton jersey (Sport Grey and Antique colors: 90% cotton, 10% polyester).
+  Updated: 2026-07-29T19:22:40Z
   Vendor: LIVING METAL
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12650459_f_G640_00_f.jpg?v=1776703355
   - [WHITE / XS](https://metallicsouls.myshopify.com/products/mask-soul-1?variant=44856817156141)
@@ -3243,7 +3243,7 @@
 ## Collections
 
 - [Books & E-books](https://metallicsouls.myshopify.com/collections/frontpage): Discover the Metallic Souls trilogy by Matthew Harrington. A gripping sci-fi saga set on Mars featuring Anna Matrix, Sara Bennett, and Nakita. Start reading today.
-  Updated: 2026-07-17T13:48:56Z
+  Updated: 2026-07-27T15:32:59Z
   Total Products: 3
 - [Patriotic Collection](https://metallicsouls.myshopify.com/collections/patriotic-collection): Patriotic T-shirts, posters, and accessories featuring bold original American designs. Stars and Stripes and military inspired artwork from LIVING METAL. Shop now.
   Updated: 2026-07-13T15:54:36Z
@@ -3252,14 +3252,14 @@
   Updated: 2026-07-22T04:32:48Z
   Total Products: 19
 - [Sci-Fi & Cyberpunk](https://metallicsouls.myshopify.com/collections/sci-fi-fantasy-posters): Original sci-fi and cyberpunk T-shirts, posters, and phone cases inspired by the Metallic Souls universe. Bold futuristic designs for true fans.
-  Updated: 2026-07-22T03:57:15Z
+  Updated: 2026-07-27T15:48:00Z
   Total Products: 26
 - [Phone Cases](https://metallicsouls.myshopify.com/collections/express-your-style-phone-case-cases): Premium tough phone cases featuring original sci-fi, cyberpunk, fantasy, and humor designs. Shockproof protection with bold style. Shop Living Metal cases now.
-  Updated: 2026-07-21T18:17:50Z
+  Updated: 2026-07-27T15:48:01Z
   Total Products: 56
 - [Metallic Souls Merchandise](https://metallicsouls.myshopify.com/collections/metallic-souls-merchandise): Official Metallic Souls merchandise including T-shirts, posters, and phone cases. Exclusive designs inspired by the sci-fi trilogy. Shop the collection today.
-  Updated: 2026-07-22T03:57:15Z
-  Total Products: 35
+  Updated: 2026-07-27T15:47:56Z
+  Total Products: 36
 - [AI & Technology E-books](https://metallicsouls.myshopify.com/collections/ai-technology-e-books): Discover AI and technology e-books by Kyan Zackron. Learn ChatGPT, monetize AI skills,  smarter, and build online businesses. Available on Amazon Kindle now.
   Updated: 2026-07-12T18:42:01Z
   Total Products: 19
@@ -3267,11 +3267,11 @@
   Updated: 2026-07-12T19:56:07Z
   Total Products: 5
 - [Accessories & Gifts](https://metallicsouls.myshopify.com/collections/accessories-gifts): Unique keychains, scented candles, and gifts featuring original sci-fi and fantasy designs. Perfect stocking stuffers and collectibles. Shop Living Metal.
-  Updated: 2026-07-21T18:17:59Z
+  Updated: 2026-07-27T11:11:52Z
   Total Products: 19
 - [Unique Clothing Design](https://metallicsouls.myshopify.com/collections/unique-clothing-design): - LIVING METAL
-  Updated: 2026-07-21T18:18:08Z
-  Total Products: 54
+  Updated: 2026-07-27T16:23:01Z
+  Total Products: 55
 
 ## Blogs
 
@@ -3300,6 +3300,22 @@
     Updated: 2026-07-22T15:00:06Z
     Author: Matthew Harrington
     Tags: book teaser, CTC, dystopian fiction, Metallic Souls series, sci fi artwork, sci fi conspiracy, Science fiction
+  - [Anna vs. Sara: The Cage Fight That Starts It All](https://metallicsouls.myshopify.com/blogs/news/anna-vs-sara-the-cage-fight-that-starts-it-all): Two heroines. One cage. Hundreds of spectators. The first collision between Anna Matrix and Sara Bennett — and why it changes everything.
+    Updated: 2026-07-24T15:00:06Z
+    Author: Matthew Harrington
+    Tags: Anna Matrix, book teaser, cyberpunk books, female lead sci fi, Metallic Souls series, Sara Bennett, Science fiction
+  - [The Crimson Mask: The Villain Who Doesn't Have a Body](https://metallicsouls.myshopify.com/blogs/news/the-crimson-mask-the-villain-who-doesnt-have-a-body): <p>Every great saga has a villain. Metallic Souls has something worse: a presence with no body, no face, and only one fixed point in reality. A crimson mask.</p>
+    Updated: 2026-07-27T15:00:05Z
+    Author: Kyan Zackron
+    Tags: book teaser, Crimson Mask, cyberpunk books, dystopian fiction, Metallic Souls series, sci fi villain, Science fiction
+  - [Why Mars? Building a Dystopia on the Red Planet](https://metallicsouls.myshopify.com/blogs/news/why-mars-building-a-dystopia-on-the-red-planet): <p>Mars was supposed to be humanity's fresh start. In Metallic Souls, it became something else entirely. Here's why the Red Planet is the perfect stage for a dystopia.</p>
+    Updated: 2026-07-29T15:00:01Z
+    Author: Kyan Zackron
+    Tags: cyberpunk books, dystopian fiction, mars sci fi, Metallic Souls series, Science fiction, worldbuilding
+  - [What Is Living Metal? The Name Behind the Brand](https://metallicsouls.myshopify.com/blogs/news/what-is-living-metal-the-name-behind-the-brand): <p>You've seen the name on every book, poster, and shirt. But inside the Metallic Souls universe, Living Metal is not a brand. It's a question no one on Mars wants answered.</p>
+    Updated: 2026-07-31T15:00:03Z
+    Author: Kyan Zackron
+    Tags: book teaser, dystopian fiction, Living Metal, Metallic Souls series, sci fi lore, Science fiction, worldbuilding
   - [What Is Cyberpunk Art? A Complete Guide to the Neon Dystopia Aesthetic](https://metallicsouls.myshopify.com/blogs/news/what-is-cyberpunk-art): <p>Cyberpunk art is high technology set inside social decay: neon light against deep shadow, vertical cities, rain on glass, and bodies rebuilt with machinery. Here is where the style came from, how to recognize it, and how it differs from steampunk and every other punk aesthetic.</p>
     Updated: 2026-07-22T20:44:59Z
     Author: Kyan Zackron
@@ -3325,6 +3341,8 @@
   Updated: 2026-07-05T21:05:11Z
 - [FAQ](https://metallicsouls.myshopify.com/pages/faq): Metallic Souls FAQEverything about the LIVING METAL storefront, the Metallic Souls series, our cyberpunk artwork, and how ordering works. Cannot fi...
   Updated: 2026-07-22T19:44:04Z
+- [Start Here: The Metallic Souls Series](https://metallicsouls.myshopify.com/pages/start-here): New to Metallic Souls? This is where to begin. Below is the reading order, what each book covers, and the fastest way into the world for under a do...
+  Updated: 2026-07-28T00:56:57Z
 
 ## Policies
 
