@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-12-26T14:37:42Z
 - Contact Email: support@getzyrolife.com
-- Updated At: 2026-07-27T00:00:34.639Z
+- Updated At: 2026-08-03T00:00:36.747Z
 
 ## Products
 
 - [Zyro Life Nitric Oxide Capsules – Gremin™ Formula for Circulation, Endurance & Muscle Pump Support](https://getzyrolife.com/products/zyro-life-nitric-oxide-capsules): Support circulation, endurance, muscle pump, and daily vitality with Zyro Life Nitric Oxide Capsules powered by Gremin™ Triple Arginine Complex.
-  Updated: 2026-07-26T14:18:07Z
+  Updated: 2026-08-02T18:30:32Z
   Vendor: Zyro Life
   Product Type: Dietary Supplement
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/nitric_pack_of_3_823a1543-0b69-4f02-9e0d-4ef90cd20061.jpg?v=1780039714
     Price: $84.99 USD
 - [Zyro Life Focus Pro Capsules – Stadice™ Formula for Brain Health, Focus & Cognitive Support](https://getzyrolife.com/products/zyro-life-focus-pro-capsules): Support focus, memory, and cognitive performance with Zyro Life Focus Pro Capsules powered by the Stadice™ Formula and Lion's Mane Mushroom Extract.
-  Updated: 2026-07-25T07:22:45Z
+  Updated: 2026-08-02T18:27:51Z
   Vendor: Zyro Life
   Product Type: Dietary Supplement
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/focus_pack_of_3.jpg?v=1780033553
     Price: $144.99 USD
 - [Zyro Life Testo Pro Elite Capsules – Gremin™ Formula for Stress Relief, Mood & Energy Support](https://getzyrolife.com/products/zyro-life-test-pro-elite): Support energy, mood, stress resilience and daily vitality with Zyro Life Testo Pro Elite Capsules powered by the proprietary Gremin™ Formula.
-  Updated: 2026-07-25T15:04:10Z
+  Updated: 2026-07-29T10:34:07Z
   Vendor: Zyro Life
   Product Type: Dietary Supplement
   Availability: Available
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/testo_pack_of_3_44e6efbf-7fb1-4e75-ab6e-33eb997541c3.jpg?v=1780039878
     Price: $119.99 USD
 - [Zyro Life Power Metab Elite Capsules – Metaberine™ Formula for Glucose Metabolism, Energy & Heart Health](https://getzyrolife.com/products/zyro-life-cardio-metabelite-capsules): Support healthy glucose metabolism, energy production and heart health with Zyro Life Power Metab Elite Capsules powered by the Metaberine™ Formula.
-  Updated: 2026-07-26T17:34:06Z
+  Updated: 2026-08-02T18:29:36Z
   Vendor: Zyro Life
   Product Type: Dietary Supplement
   Availability: Available
@@ -83,90 +83,86 @@
     Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/power_pack_of_3.jpg?v=1780039767
     Price: $119.99 USD
 - [Zyro Life Alpha Drive Stack – Stadice™ + Gremin™ Formula for Focus, Drive & Daily Performance](https://getzyrolife.com/products/zyro-life-alpha-drive-stack-1): Support focus, mental drive & daily vitality with Focus Pro + Testo Pro Elite. Dual-formula mind & energy stack. 3rd Party Tested | 90-Day Guarantee.
-  Updated: 2026-07-16T05:21:57Z
+  Updated: 2026-08-02T16:09:37Z
   Vendor: Zyro Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/alphadrivestack1.jpg?v=1779962243
   Price: $82.99 USD
 - [Zyro Life Metab Initiate Stack – Metaberine™ + Stadice™ Formula for Energy, Focus & Metabolic Balance](https://getzyrolife.com/products/zyro-life-metab-initiate-stack): Support glucose metabolism & daily cognitive clarity together. Power Metab Elite + Focus Pro — a dual-formula stack. 3rd Party Tested | 90-Day Guarantee.
-  Updated: 2026-07-25T13:18:50Z
+  Updated: 2026-07-29T21:27:05Z
   Vendor: Zyro Life
   Product Type: Dietary Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/metabinnitiatestack1_6069d1ba-9add-496c-b95f-e61981d4f258.jpg?v=1779962306
   Price: $79.99 USD
-- [Zyro Life Nitric Oxide Capsules – Gremin™ Formula for Circulation, Endurance, Muscle Support](https://getzyrolife.com/products/zyro-life-nitric-oxide-capsules-gremin™-formula-for-circulation-endurance-muscle-support): Support circulation, endurance, muscle pump, and daily vitality with Zyro Life Nitric Oxide Capsules powered by Gremin™ Triple Arginine Complex.
-  Updated: 2026-07-25T16:45:23Z
+- [Frequently Bought Together](https://getzyrolife.com/products/frequently-bought-together)
+  Updated: 2026-08-02T17:52:06Z
   Vendor: Zyro Life
-  Product Type: Dietary Supplement
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/newlistingimage_1.jpg?v=1782373007
-  - [1](https://getzyrolife.com/products/zyro-life-nitric-oxide-capsules-gremin™-formula-for-circulation-endurance-muscle-support?variant=49496623087831)
+  - [1](https://getzyrolife.com/products/frequently-bought-together?variant=49531015528663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/newlistingimage_1.jpg?v=1782373007
-    Price: $34.99 USD
-  - [2](https://getzyrolife.com/products/zyro-life-nitric-oxide-capsules-gremin™-formula-for-circulation-endurance-muscle-support?variant=49496623120599)
+    Price: $134.97 USD
+  - [2](https://getzyrolife.com/products/frequently-bought-together?variant=49531015561431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/nitric_pack_of_2_1ab68582-f5f5-499b-87fc-731e23c32059.jpg?v=1780039714
-    Price: $64.99 USD
-  - [3](https://getzyrolife.com/products/zyro-life-nitric-oxide-capsules-gremin™-formula-for-circulation-endurance-muscle-support?variant=49496623153367)
+    Price: $244.97 USD
+  - [3](https://getzyrolife.com/products/frequently-bought-together?variant=49531015594199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0799/0119/6503/files/nitric_pack_of_3_823a1543-0b69-4f02-9e0d-4ef90cd20061.jpg?v=1780039714
-    Price: $84.99 USD
+    Price: $324.97 USD
 
 ## Collections
 
 - [Immunity](https://getzyrolife.com/collections/immunity): Discover Zyro Life immunity support supplements formulated to help maintain immune health, daily wellness and overall vitality.
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 7
 - [Gut Health](https://getzyrolife.com/collections/gut-health): Explore Zyro Life gut health supplements formulated to support digestion, nutrient absorption and overall wellness.
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 7
 - [Fitness & Recovery](https://getzyrolife.com/collections/fitness-recovery): Explore Zyro Life fitness and recovery supplements formulated to support endurance, circulation, energy and muscle performance.
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 7
 - [Vitamins & Minerals](https://getzyrolife.com/collections/vitamins-minerals): Shop Zyro Life vitamins and mineral supplements designed to support daily nutrition, immunity, energy and long-term wellness.
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 7
 - [Lifestyle / Wellness](https://getzyrolife.com/collections/lifestyle-wellness): Explore Zyro Life lifestyle and wellness supplements designed to support energy, focus, circulation and overall daily health with science-backed ingredients.
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 7
 - [Gremin](https://getzyrolife.com/collections/gremin)
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 4
 - [Stadice](https://getzyrolife.com/collections/stadice)
   Updated: 2026-07-16T05:21:56Z
   Total Products: 1
 - [Shop](https://getzyrolife.com/collections/shop)
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 11
 - [Focus](https://getzyrolife.com/collections/focus)
   Updated: 2026-07-16T05:21:57Z
   Total Products: 1
 - [Metabolism](https://getzyrolife.com/collections/metabolism)
-  Updated: 2026-07-25T13:17:11Z
+  Updated: 2026-07-27T11:24:22Z
   Total Products: 2
 - [Circulation](https://getzyrolife.com/collections/circulation)
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 2
 - [Testosterone](https://getzyrolife.com/collections/testosterone)
   Updated: 2026-07-23T11:24:35Z
   Total Products: 4
 - [Metaberine](https://getzyrolife.com/collections/metaberine)
-  Updated: 2026-07-25T13:17:11Z
+  Updated: 2026-07-27T11:24:22Z
   Total Products: 2
 - [Stadice](https://getzyrolife.com/collections/stadice-1)
   Updated: 2026-07-16T05:21:57Z
   Total Products: 1
 - [Gremin](https://getzyrolife.com/collections/gremin-1)
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 4
 - [Herbal Supplements](https://getzyrolife.com/collections/herbal-supplements)
-  Updated: 2026-07-25T13:17:11Z
+  Updated: 2026-07-27T11:24:22Z
   Total Products: 7
 - [Amino Acids](https://getzyrolife.com/collections/amino-acids)
-  Updated: 2026-07-26T11:22:02Z
+  Updated: 2026-08-02T11:24:08Z
   Total Products: 2
 
 ## Blogs
