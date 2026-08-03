@@ -6,7 +6,7 @@
 - Timezone: Atlantic/Canary
 - Created At: 2026-04-14T22:23:28Z
 - Contact Email: tienda.candelaria2026@gmail.com
-- Updated At: 2026-07-18T00:00:41.597Z
+- Updated At: 2026-08-03T00:00:45.261Z
 
 ## Products
 
@@ -18,12 +18,12 @@
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_1b9baee2-10f5-4f33-907d-d51c23320004.png?v=1777683702
   Price: 19,99 € EUR
 - [Exprimidor Eléctrico Palson Lemon 1L 🍋 Potente y Fácil de Usar](https://candecanarias.com/products/exprimidor-electrico-palson-lemon-1l-🍋-potente-y-facil-de-usar): 📝 Descripción: Si eres de los que no perdona un buen zumito natural, esto te va a encantar 😎🍊 El exprimidor Palson Lemon es justo lo que necesitas pa empezar el día con energía y vitamina. Con capacidad de 1 litro, puedes hacer zumo pa toda la familia sin estar parando a cada rato. Fácil de usar, rápido y sin complicaciones. 💪 Características: • Capacidad de 1 litro • Ideal para naranjas, limones y más cítricos • Sistema práctico y cómodo • Desmontable pa limpieza fácil • Diseño compacto y ligero 🍹 Perfecto pa desayunos, meriendas o darte un capricho saludable cuando te apetezca. 🔥 Un básico en cualquier casa… y más en Canarias, que aquí el zumo no se negocia 😏
-  Updated: 2026-06-17T08:19:37Z
+  Updated: 2026-07-29T19:35:33Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_6ab47e0e-ceaf-4e61-bc8e-3a9ed7d15400.png?v=1777684275
-  Price: 10,99 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_8565b145-9b97-4d3c-9a62-435eeef61fba.png?v=1785353723
+  Price: 11,90 € EUR
 - [Set de 3 Fuentes de Horno Rectangulares Elite 🍽️ Cristal Resistente](https://candecanarias.com/products/set-de-3-fuentes-de-horno-rectangulares-elite-🍽️-cristal-resistente): 📝 Descripción: Si te gusta cocinar bien y sin complicarte, este set es pa ti, mi niño 😎🔥 Tres fuentes de horno de cristal perfectas pa todo: lasaña, carne, pescado o lo que se te antoje. 💪 Incluye: • 3 fuentes rectangulares de distintos tamaños • Cristal resistente al calor • Aptas para horno • Fáciles de limpiar • Diseño práctico y duradero 🍲 Ideales pa el día a día o pa cuando te montas un buen plato en casa. 🔥 Un básico que no puede faltar en tu cocina… y más aquí, que siempre cae algo al horno 😏 💥 Calidad top a precio canario, no te compliques.
   Updated: 2026-06-17T08:19:36Z
   Vendor: CANDECANARIAS
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_ea4b485b-bba7-4801-9e5e-78e43e31f34a.png?v=1777687243
   Price: 14,99 € EUR
 - [Picadora de Carne Eléctrica FALSON ZEUS 1500W con Accesorios](https://candecanarias.com/products/picadora-de-carne-electrica-falson-zeus-1500w-con-accesorios): La aliada perfecta para los amantes de la cocina casera 🥩⚡. Con la picadora FALSON ZEUS podrás preparar carne fresca, hamburguesas, albóndigas y embutidos con total control y rapidez. Su potente motor de 1500W trabaja sin esfuerzo, logrando un picado uniforme y profesional en segundos. Incluye accesorios para diferentes tipos de corte y función embutidora para llevar tus recetas al siguiente nivel. ✔ Potencia máxima de 1500W ✔ Función picadora y embutidora ✔ Incluye discos de corte intercambiables ✔ Material resistente y duradero ✔ Fácil de montar y limpiar 💡 Ideal para uso en casa o negocio. Más sabor, más control, más calidad en cada preparación.
-  Updated: 2026-06-17T08:19:34Z
+  Updated: 2026-07-29T19:41:25Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_a56b0184-2620-41d6-a3b8-e5e050a3c792.png?v=1777689735
   Price: 35,00 € EUR
 - [Sartén Antiadherente MasterPRO 20 cm – Aluminio Forjado](https://candecanarias.com/products/sarten-antiadherente-masterpro-20-cm-aluminio-forjado): Cocina fácil, rápida y sin que se pegue nada 🍳✨. Esta sartén MasterPRO de 20 cm está fabricada en aluminio forjado con recubrimiento antiadherente de alta calidad, ideal para el uso diario. Su diseño ligero y resistente permite una distribución uniforme del calor, consiguiendo resultados perfectos en cada plato. ✔ Diámetro de 20 cm ✔ Revestimiento antiadherente premium ✔ Aluminio forjado de alta resistencia ✔ Fácil limpieza y uso diario ✔ Mango ergonómico y cómodo 💡 Perfecta para huevos, tortillas, carnes y todo tipo de recetas sin complicaciones.
-  Updated: 2026-06-17T08:19:32Z
+  Updated: 2026-07-29T19:42:05Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_d6e5b7ee-7f16-4eb7-8dab-8134eddd68cf.png?v=1777741598
   Price: 36,00 € EUR
 - [Plancha de Viaje PALSON Traveller Mini Vapor 220V ✈️🔥](https://candecanarias.com/products/sin-titulo-11may_22-16): Plancha de viaje compacta PALSON Traveller, perfecta para vacaciones, escapadas, apartamentos o llevar en la maleta sin ocupar espacio. 🧳 ✔️ Función vapor ✔️ Tamaño mini y portátil ✔️ Selector de temperatura ✔️ Incluye vaso medidor y funda ✔️ Voltaje 110V / 220V ✔️ Fácil de transportar Ideal para mantener tu ropa impecable estés donde estés. Compacta por fuera, guerrera contra las arrugas por dentro. 👕✨
-  Updated: 2026-06-19T07:47:15Z
+  Updated: 2026-07-29T19:41:55Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -319,7 +319,7 @@
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_3d6fd7eb-353f-42c1-8324-7de28556bff9.png?v=1779215721
   Price: 1,75 € EUR
 - [Cuñas de Esparto Beige para Mujer](https://candecanarias.com/products/cunas-de-esparto-beige-para-mujer): Elegancia y comodidad en cada paso ✨👡 Estas cuñas de esparto en color beige son perfectas para completar cualquier look de verano con un estilo fresco y sofisticado. 🔹 Diseño trenzado moderno 🔹 Tacón de cuña cómodo y ligero 🔹 Cierre ajustable al tobillo 🔹 Ideales para eventos, salidas o uso diario 🔹 Combina fácilmente con vestidos, jeans y conjuntos veraniegos 🔹 Acabado elegante y femenino Perfectas para lucir cómoda y con estilo en cualquier ocasión ☀️🤍
-  Updated: 2026-06-17T08:19:15Z
+  Updated: 2026-07-18T05:54:43Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -399,7 +399,7 @@
     Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_3087c6d0-07de-4e71-a8d6-dcbaf7073b81.jpg?v=1779221354
     Price: 17,90 € EUR
 - [Sandalias Denim Summer Blue 👡💙](https://candecanarias.com/products/sandalias-denim-summer-blue-👡💙): Comodidad y estilo fresco en cada paso. Estas sandalias plataforma en acabado denim azul son perfectas para darle un toque casual y moderno a tus looks de verano. Su diseño ligero con suela efecto esparto crea esa esencia mediterránea que nunca pasa de moda 🌿☀️ ✔️ Diseño cómodo y versátil ✔️ Acabado vaquero moderno ✔️ Plataforma ligera estilo esparto ✔️ Ideales para diario, vacaciones y paseos ✔️ Fácil de combinar con vestidos, shorts o jeans El equilibrio perfecto entre relax y tendencia para esta temporada ✨
-  Updated: 2026-06-17T08:19:14Z
+  Updated: 2026-07-18T10:56:16Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -492,7 +492,7 @@
     Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_261b5332-d7f1-457c-8e20-c4bd96c972b4.jpg?v=1779223576
     Price: 9,90 € EUR
 - [Camiseta Cristian Negra Estilo Luxury Street](https://candecanarias.com/products/camiseta-cristian-negra-estilo-luxury-street): Destaca con esta camiseta Cristian de diseño exclusivo y estilo urbano premium 🖤✨ Su combinación en negro y dorado con estampados llamativos crea un look moderno, elegante y diferente. ✔ Diseño full print de alta tendencia ✔ Tejido cómodo y ligero ✔ Estilo streetwear y casual premium ✔ Ideal para combinar con jeans o deportivas ✔ Perfecta para outfits diarios o salidas Una camiseta con personalidad propia que mezcla moda urbana y detalles luxury para un look que no pasa desapercibido 🔥👑
-  Updated: 2026-06-17T08:19:12Z
+  Updated: 2026-07-18T05:01:29Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -555,7 +555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_f5f939e7-8e65-42d0-ab6a-f2924bdf82df.jpg?v=1779280751
     Price: 17,90 € EUR
 - [FINACE](https://candecanarias.com/products/producto-digital): Gran idea
-  Updated: 2026-07-07T22:36:27Z
+  Updated: 2026-07-25T08:15:41Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -735,7 +735,7 @@ Fragancia intensa, elegante y adictiva. ✨🖤](https://candecanarias.com/produ
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_872d1579-87f5-47cb-9c6b-468569ef489e.jpg?v=1779948814
   Price: 135,95 € EUR
 - [Telefono Xiaomi Redmi Note 15 4G 6.83" 128 Gb 6 Gb Ram azul (Garantia oficial](https://candecanarias.com/products/telefono-xiaomi-redmi-note-15-4g-6-83-128-gb-6-gb-ram-azul-garantia-oficial): ROM: 128 Gb RAM: 6 Gb Batería: 6000mAh Li-Polymer Cam. Principal: 108Mpx Peso: 183 Gr Componente: XIAOMI Capacidad mAh: 6000mAh Pantalla: AMOLED curva 6,77" FHD+ 120Hz Procesador: MediaTek Helio G100 Ultra, 8 núcleos, ha Pulgadas: 6.77" PULGADAS Dimensiones: 164 x 75,4 x 7,94 mm Sistema Operativo: Xiaomi HyperOS
-  Updated: 2026-06-17T08:19:00Z
+  Updated: 2026-07-24T23:04:13Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -833,7 +833,7 @@ Fragancia intensa, elegante y adictiva. ✨🖤](https://candecanarias.com/produ
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_7784b4d7-d021-4552-b980-2d466293e242.jpg?v=1780124286
   Price: 329,00 € EUR
 - [🌬️ Ventilador Nebulizador Cecotec ForceSilence PureTech 6500 Aqua](https://candecanarias.com/products/🌬️-ventilador-nebulizador-cecotec-forcesilence-puretech-6500-aqua): Mantén cualquier espacio fresco y cómodo con este ventilador nebulizador Cecotec. Combina una potente ventilación con sistema de agua pulverizada para reducir la sensación de calor en los días más calurosos. Cuenta con depósito de agua integrado, varias velocidades, ruedas para moverlo fácilmente y diseño elegante en color negro. ✅ Función nebulizador de agua✅ Varias velocidades de ventilación✅ Depósito de gran capacidad✅ Fácil transporte con ruedas✅ Ideal para hogar, negocio, terraza o local comercial✅ Bajo consumo energético 💧 Disfruta de un ambiente más fresco y agradable durante todo el verano.
-  Updated: 2026-06-19T07:47:14Z
+  Updated: 2026-07-25T08:16:05Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -847,7 +847,7 @@ Fragancia intensa, elegante y adictiva. ✨🖤](https://candecanarias.com/produ
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_38b9e5c1-95c9-40f5-8477-ec963d287dc9.jpg?v=1780993352
   Price: 31,99 € EUR
 - [VENTILADOR DE TECHO RETRÁCTIL 30W CON LED Y 6 VELOCIDADES BLANCO MUVIP](https://candecanarias.com/products/ventilador-de-techo-retractil-30w-con-led-y-6-velocidades-blanco-muvip): El ventilador de techo retráctil de 42´ con iluminación LED integrada combina elegancia, tecnología y eficiencia. • Sus aspas transparentes se extienden automáticamente cuando está en funcionamiento y se retraen al apagarse, convirtiéndose en una elegante lámpara de techo. • Ideal para salones, dormitorios, oficinas y estancias modernas que buscan diseño y confort. • Especificaciones Técnicas - Voltaje: 180–260V / 50–60Hz - Motor: DC 24V – 30W - Material aspas: ABS de alta calidad - Cantidad de aspas: 4 unidades - Aspas retráctiles automáticas: se ocultan al apagar el ventilador. - Diámetro LED: 48 cm - Diámetro total del producto: 106 cm (aspas extendidas) - Lámpara LED integrada con 72LEDs y 3 temperaturas de color (4000K / 5000K / 6000K). - Potencia LED: 36W ± 3W - Velocidades: 6 (160–240 rpm) - Temporizador: 1h / 2h / 4h - Longitud barra inferior: 15 cm - Peso neto: 6.1 kg - Peso bruto: 7.4 kg - 50dB - Control remoto: Funciona con 2×AAA (no incluidas) - Color blanco. - 2 años de garantia
-  Updated: 2026-06-19T07:47:13Z
+  Updated: 2026-07-29T19:42:21Z
   Vendor: CANDECANARIAS
   Product Type: 
   Availability: Available
@@ -909,7 +909,14 @@ Fragancia intensa, elegante y adictiva. ✨🖤](https://candecanarias.com/produ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_8ccfbeeb-cc9e-4c8a-9b2a-5f9a786da765.jpg?v=1784221376
   Price: 65,65 € EUR
-[List Continued](https://candecanarias.com/a/llms-agent/llms.txt?shop=vn01bw-f0.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTg3ODUzNDMzMjc2MCwibGFzdF92YWx1ZSI6IjE1ODc4NTM0MzMyNzYwIn0%3D)
+- [POSTADORA PALSON](https://candecanarias.com/products/postadora-palson): ULTIMAS 3 UNIDADES EN EXISTENCIA
+  Updated: 2026-07-29T07:34:53Z
+  Vendor: CANDECANARIAS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0985/6063/9320/files/rn-image_picker_lib_temp_e8be5b0a-6272-4dd1-a341-36d615134ecd.png?v=1785267244
+  Price: 19,90 € EUR
+[List Continued](https://candecanarias.com/a/llms-agent/llms.txt?shop=vn01bw-f0.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTkwMjA0NTk2MjU4NCwibGFzdF92YWx1ZSI6IjE1OTAyMDQ1OTYyNTg0In0%3D)
 
 ## Collections
 
@@ -917,37 +924,37 @@ Fragancia intensa, elegante y adictiva. ✨🖤](https://candecanarias.com/produ
   Updated: 2026-06-17T08:18:47Z
   Total Products: 22
 - [HERRAMIENTAS](https://candecanarias.com/collections/herramientas)
-  Updated: 2026-06-17T08:18:47Z
+  Updated: 2026-07-29T16:45:41Z
   Total Products: 8
 - [PARA MUJER](https://candecanarias.com/collections/perfumes-mujer)
-  Updated: 2026-06-17T08:18:47Z
+  Updated: 2026-07-29T16:45:41Z
   Total Products: 7
 - [PARA  HOMBRE](https://candecanarias.com/collections/perfume-hombre)
-  Updated: 2026-07-16T17:26:33Z
+  Updated: 2026-07-29T16:45:41Z
   Total Products: 8
 - [ARTICULOS DE COCINA](https://candecanarias.com/collections/articulos-de-cocina)
-  Updated: 2026-06-20T06:41:04Z
-  Total Products: 17
+  Updated: 2026-07-29T19:35:08Z
+  Total Products: 18
 - [ARTICULOS DE BAÑO](https://candecanarias.com/collections/articulos-de-bano)
-  Updated: 2026-06-17T08:18:48Z
+  Updated: 2026-07-29T16:45:41Z
   Total Products: 1
 - [TEXTIL HOGAR 🏡](https://candecanarias.com/collections/textil-hogar-🏡)
-  Updated: 2026-06-17T08:18:48Z
+  Updated: 2026-07-29T16:45:41Z
   Total Products: 2
 - [ACCESORIOS PARA EL MOVIL [cargadores,auriculares y mas]](https://candecanarias.com/collections/accesorios-para-el-movil-cargadores-auriculares-y-mas)
-  Updated: 2026-06-17T08:18:49Z
+  Updated: 2026-07-29T16:45:42Z
   Total Products: 6
 - [Xiaomi Experience](https://candecanarias.com/collections/xiaomi-experience): Tu espacio Xiaomi con móviles, patinetes eléctricos, smartwatches, auriculares, gadgets y tecnología inteligente para el día a día. Innovación, diseño y calidad Xiaomi en un solo lugar.
-  Updated: 2026-06-17T08:18:49Z
+  Updated: 2026-07-29T16:45:42Z
   Total Products: 18
 - [MOVILES,TABLESy TV](https://candecanarias.com/collections/moviles-y-tables)
-  Updated: 2026-06-17T08:18:49Z
+  Updated: 2026-07-29T16:45:42Z
   Total Products: 16
 - [PAQUETES SORPRESA](https://candecanarias.com/collections/paquetes-sorpresa)
-  Updated: 2026-06-17T08:18:49Z
+  Updated: 2026-07-29T16:45:42Z
   Total Products: 0
 - [VERANO 2026](https://candecanarias.com/collections/verano-2026)
-  Updated: 2026-06-17T08:18:50Z
+  Updated: 2026-07-25T11:24:03Z
   Total Products: 4
 - [PACKS AHORRO](https://candecanarias.com/collections/packs-ahorro)
   Updated: 2026-06-17T08:18:50Z
@@ -958,6 +965,9 @@ Fragancia intensa, elegante y adictiva. ✨🖤](https://candecanarias.com/produ
 - [LOS MEJORES PACK DE CANDECANARIAS.COM](https://candecanarias.com/collections/los-mejores-pack-de-candecanarias-com)
   Updated: 2026-07-16T17:05:38Z
   Total Products: 3
+- [VAMOS A COCINAR](https://candecanarias.com/collections/vamos-a-cocinar)
+  Updated: 2026-07-29T19:44:27Z
+  Total Products: 13
 
 ## Blogs
 
