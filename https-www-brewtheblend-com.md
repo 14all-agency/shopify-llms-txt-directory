@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-28T19:48:55Z
 - Contact Email: info@brewtheblend.com
-- Updated At: 2026-07-25T00:00:28.034Z
+- Updated At: 2026-08-03T00:00:28.365Z
 
 ## Products
 
@@ -89,7 +89,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Buy Brillaberry Coffee | A Burst of Fruity Flavor in Every Sip](https://www.brewtheblend.com/products/brillaberry): Enjoy the natural sweetness of coffee berry fruit in our Brillaberry blend. A unique coffee with bright, berry-forward flavors in every sip.
-  Updated: 2026-07-23T08:01:29Z
+  Updated: 2026-07-30T11:52:42Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -186,11 +186,11 @@
     Availability: Available
     Price: $21.00 USD
 - [Brew the Blend+](https://www.brewtheblend.com/products/brewtheblend): An improved take on the classic breakfast blend, Brew the Blend+ is designed for coffee lovers longing for a robust, intricate savor. Our specialty-crafted blend combines high-quality Arabica beans with a touch of Robusta for an extra caffeine boost that will invigorate your mornings.
-  Updated: 2026-07-24T06:03:24Z
+  Updated: 2026-07-29T23:09:11Z
   Vendor: BREW THE BLEND
   Product Type: Coffee
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brewtheblend-_1.jpg?v=1775130504
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew_the_blend_4.webp?v=1785208983
   - [12oz / Drip/Standard](https://www.brewtheblend.com/products/brewtheblend?variant=46017312719100)
     Availability: Available
     Price: $22.00 USD
@@ -262,11 +262,11 @@
     Availability: Available
     Price: $94.00 USD
 - [Enjoy Bourbon Amber Coffee | A Unique Brew Just for You!](https://www.brewtheblend.com/products/bourbon-amber): Get the rich, smooth taste of barrel and bean coffee. Our whiskey barrel-aged Guatemalan coffee delivers a delightful whiskey flavor in every sip. Order now!
-  Updated: 2026-07-08T21:09:12Z
+  Updated: 2026-07-29T18:12:32Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Bourbonebag-faa868bf-1cae-4798-b32a-e0ad81c8ddbb-_1.png?v=1741248017
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Bourbon_Whiskey_Label.webp?v=1785209920
   - [12oz / Drip Grind](https://www.brewtheblend.com/products/bourbon-amber?variant=46894951923964)
     Availability: Available
     Price: $23.00 USD
@@ -344,26 +344,20 @@
     Availability: Available
     Price: $94.00 USD
 - [Get Delicious Cinnamon Hazelnut Coffee | Hazarella Perfect at any Time](https://www.brewtheblend.com/products/hazarella): Hazarella (Cinnamon Hazelnut) is a delightful way to add warmth to your day, perfect for those who enjoy a cinnamon, spiced, nutty flavor in their coffee.
-  Updated: 2026-07-08T21:09:13Z
+  Updated: 2026-07-29T22:40:42Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/CinHazel-dc42bc1b-5a13-4dfb-b23c-064785bbafdc-_1.png?v=1773714234
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Cinnamon_Hazelnut_5.webp?v=1785215141
   - [12oz / Drip / Standar](https://www.brewtheblend.com/products/hazarella?variant=46020162158844)
     Availability: Available
     Price: $22.00 USD
   - [12oz / Whole Bean](https://www.brewtheblend.com/products/hazarella?variant=46020162126076)
     Availability: Available
     Price: $22.00 USD
-  - [2 LB / Drip / Standard](https://www.brewtheblend.com/products/hazarella?variant=46020162322684)
-    Availability: Available
-    Price: $51.00 USD
   - [2 LB / Whole Bean](https://www.brewtheblend.com/products/hazarella?variant=46020162289916)
     Availability: Available
     Price: $51.00 USD
-  - [5 LB / Drip / Standard](https://www.brewtheblend.com/products/hazarella?variant=46020162420988)
-    Availability: Available
-    Price: $94.00 USD
   - [5 LB / Whole Bean](https://www.brewtheblend.com/products/hazarella?variant=46020162388220)
     Availability: Available
     Price: $94.00 USD
@@ -396,7 +390,7 @@
     Availability: Available
     Price: $94.00 USD
 - [Turtlelisse | Chocolate Caramel Pecan Coffee – Brew the Blend](https://www.brewtheblend.com/products/turtlelisse): Indulge in Turtlelisse, Brew the Blend’s chocolate, caramel, and pecan coffee. A smooth, comforting pecan-kissed medium-dark roast that reimagines a classic turtle candy in every sip.
-  Updated: 2026-07-08T21:09:14Z
+  Updated: 2026-07-30T06:15:03Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -445,7 +439,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew-s-Passport-Pack-_1.png?v=1773714144
   Price: $25.20 USD
 - [Shop Jasmine Green Tea | Refreshing & Floral Loose Leaf Tea](https://www.brewtheblend.com/products/jasmine-florasteep): Experience the delicate flavor of Jasmine Serenity. This premium jasmine tea is perfect for relaxation and well-being. Taste now a soothing cup!
-  Updated: 2026-07-23T08:07:17Z
+  Updated: 2026-07-29T23:35:52Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
@@ -459,14 +453,14 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Mango_Wink_Kraft.jpg?v=1769753998
   Price: $18.00 USD
 - [Buy Authentic Masala Chai Tea | Spiced & Flavorful Blend](https://www.brewtheblend.com/products/sassy-chai): Looking for the best masala chai tea? Get rich, aromatic flavors delivered to your door—no need to search for masala chai near me. Order now!
-  Updated: 2026-07-23T07:51:35Z
+  Updated: 2026-07-30T02:07:16Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sassy_Charm_Chai_-_New.webp?v=1784785795
   Price: $18.00 USD
 - [Get Brazilian Coffee | Brew the Best with Brazela](https://www.brewtheblend.com/products/brazela): Brazela is a medium roast from Brazil’s highland farms, offering a smooth, toasted flavor with gentle complexity and an easy, balanced finish. Born of Brazil’s Soil. Brewed for Any Moment.
-  Updated: 2026-07-24T02:36:08Z
+  Updated: 2026-07-30T08:45:39Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -546,7 +540,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Dulce Altura Signature](https://www.brewtheblend.com/products/dulce-altura): Dulce Altura Signature, Costa Rica’s coffee excellence. Dulce Altura Signature is a refreshing, flavorful brew for any time of day—specialty-grade, medium roast.
-  Updated: 2026-07-24T07:27:34Z
+  Updated: 2026-07-30T05:28:48Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -660,7 +654,7 @@
     Availability: Available
     Price: $21.00 USD
 - [Six‑Bean Standoff](https://www.brewtheblend.com/products/six-bean-standoff): Six‑Bean Standoff Blend is a global flavor face-off. Sourced from six coffee-growing regions across South America, Central America, Africa, and Asia.
-  Updated: 2026-07-23T08:05:05Z
+  Updated: 2026-07-30T01:37:30Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -747,7 +741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Butterfly_3_-_Ellie.jpg?v=1775130439
     Price: $16.99 USD
 - [FOR THE MONTH](https://www.brewtheblend.com/products/for-the-month)
-  Updated: 2026-06-19T13:06:59Z
+  Updated: 2026-07-28T05:31:01Z
   Vendor: Brew the Blend
   Product Type: 
   Availability: Available
@@ -781,7 +775,7 @@
   Updated: 2026-07-08T21:12:55Z
   Total Products: 3
 - [SINGLE-ORIGIN SPECIALTY-GRADE](https://www.brewtheblend.com/collections/single-origin): Explore single origin coffee beans for rich, authentic flavors. Shop the best single origin coffee sourced from top regions around the world." at Brew The Blend
-  Updated: 2026-07-08T21:12:53Z
+  Updated: 2026-07-30T15:57:00Z
   Total Products: 11
 - [SPECIALTY-GRADE BLENDS](https://www.brewtheblend.com/collections/specialty-blends): Find the perfect specialty blend coffee in our collection. From bold to smooth, our blend coffee offers rich flavors for every coffee lover." at Brew The Blend!
   Updated: 2026-07-08T21:12:55Z
@@ -829,7 +823,7 @@
   Updated: 2026-07-08T21:12:55Z
   Total Products: 7
 - [BREW’S PASSPORT PACK](https://www.brewtheblend.com/collections/brew-s-passport-pack): BREW’S PASSPORT PACK ☕ BLUEBERRY SERENADE RESERVEMedium-Light / Lush. Floral. Wine-Kissed. (Ethiopia) ☕ BRAZELA Medium / Smooth. Nutty. Toasted-Cocoa. (Brazil) ☕ BRILLABERRY Medium-Light / Vibrant. Berry-Rich. Bright-Toned. (Tanzania) ☕ DULCE ALTURA SIGNATUREMedium / Sweet. Creamy. Velvety. (Costa Rica) ☕ HONDURAN DRIFTMedium / Round. Cocoa-Forward. Balanced. (Honduras) ☕ SUNTRAIL ROASTMedium / Juicy. Cocoa-Tinged. Citrus. (Colombia)
-  Updated: 2026-07-14T11:29:52Z
+  Updated: 2026-07-30T15:57:13Z
   Total Products: 7
 - [FUNCTIONAL](https://www.brewtheblend.com/collections/functional)
   Updated: 2026-07-08T21:13:00Z
