@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-11-25T11:16:41Z
 - Contact Email: jewelsbyaadisha@gmail.com
-- Updated At: 2026-07-23T00:00:22.295Z
+- Updated At: 2026-08-03T00:00:34.930Z
 
 ## Products
 
