@@ -6,12 +6,12 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-12-01T14:08:17Z
 - Contact Email: hello@seissense.com
-- Updated At: 2026-07-27T12:00:28.504Z
+- Updated At: 2026-08-03T12:00:28.218Z
 
 ## Products
 
 - [Pollock Leggings](https://gcc.seissense.com/products/pollock-leggings): Leggings built for full range of motion, every session.Made from recycled nylon and elastane with FUZE™ technology, the Pollock delivers four-way stretch and moisture-wicking performance for workouts or daily wear. Quick-dry fabric keeps you comfortable no matter how the session goes. Recycled nylon and elastane — Comfort and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control Four-way stretch — Full freedom of motion Moisture-wicking and quick-dry — Keeps you fresh throughout UV refraction — Added protection outdoors Perfect for: Training, running, everyday wearMaterials: Recycled nylon and elastane with FUZE™ 
-  Updated: 2026-07-15T12:31:57Z
+  Updated: 2026-08-02T15:09:06Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1177,7 +1177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012674_Hirst_Long_Sleeve_Tee_Dark_Suntan_02.jpg?v=1781071852
     Price: AED 180.00 AED
 - [Jackson Mid Impact Bra](https://gcc.seissense.com/products/jackson-mid-impact-bra-1): A mid-impact bra built for the sessions that ask more.Made from recycled nylon and elastane with FUZE™ technology, the Jackson delivers support and four-way stretch for mid-impact training. Moisture-wicking fabric keeps you fresh and supported through every rep. Recycled nylon and elastane — Support and sustainability together FUZE™ technology — Antimicrobial protection and odour control Four-way stretch — Unrestricted movement during training Moisture-wicking — Keeps you fresh and supported Quick-dry — Comfortable from warm-up to cool-down Perfect for: Mid-impact training, HIIT, cyclingMaterials: Recycled nylon and elastane with FUZE™ 
-  Updated: 2026-07-18T11:58:39Z
+  Updated: 2026-08-02T15:09:06Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2766,7 +2766,7 @@
   Updated: 2026-07-12T06:50:53Z
   Total Products: 0
 - [Summer Collection](https://gcc.seissense.com/collections/summer-collection)
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 64
 - [Organic cotton-blend | Women](https://gcc.seissense.com/collections/organic-cotton-blend-women)
   Updated: 2026-07-12T06:50:53Z
@@ -2802,22 +2802,22 @@
   Updated: 2026-07-12T06:50:54Z
   Total Products: 2
 - [FUZE™ Treated](https://gcc.seissense.com/collections/fuze™-treated-women)
-  Updated: 2026-07-27T09:05:31Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 63
 - [Shop The Look](https://gcc.seissense.com/collections/shop-the-look)
   Updated: 2026-07-27T09:05:31Z
   Total Products: 34
 - [New In](https://gcc.seissense.com/collections/new-in): The latest drop from Seissense. Fresh styles, core colours, designed to move.
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 81
 - [All Women](https://gcc.seissense.com/collections/all-women): Every Seissense piece for women — activewear, loungewear, swim and more.
-  Updated: 2026-07-27T09:05:31Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 122
 - [Women's Leggings](https://gcc.seissense.com/collections/womens-leggings): Compression and high-stretch leggings built for training, running and everyday movement.
-  Updated: 2026-07-27T09:05:31Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 21
 - [Women's Sports Bras](https://gcc.seissense.com/collections/womens-sports-bras): Low to high impact sports bras with supportive compression fits.
-  Updated: 2026-07-27T09:05:31Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 12
 - [Women's Tanks](https://gcc.seissense.com/collections/womens-tanks): Lightweight tanks for training, yoga and warm-weather days.
   Updated: 2026-07-20T11:21:30Z
@@ -2829,7 +2829,7 @@
   Updated: 2026-07-17T11:22:58Z
   Total Products: 4
 - [Dresses & Kaftans](https://gcc.seissense.com/collections/dresses-kaftans): Maxis, midis and kaftans — effortless silhouettes in breathable fabrics.
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 13
 - [Women's Hoodies & Sweaters](https://gcc.seissense.com/collections/womens-hoodies-sweaters): Hoodies, sweaters and half zips for cooler evenings and layering.
   Updated: 2026-07-12T06:50:55Z
@@ -2838,7 +2838,7 @@
   Updated: 2026-07-12T06:50:55Z
   Total Products: 7
 - [Women's Swimwear](https://gcc.seissense.com/collections/womens-swimwear): Swim bras, bottoms and one pieces in ECONYL® recycled fibers.
-  Updated: 2026-07-20T11:21:30Z
+  Updated: 2026-08-01T11:23:18Z
   Total Products: 11
 - [All Men](https://gcc.seissense.com/collections/all-men): Every Seissense piece for men — training, running and lounge.
   Updated: 2026-07-22T11:24:40Z
@@ -2850,16 +2850,16 @@
   Updated: 2026-07-22T11:24:40Z
   Total Products: 20
 - [Women's Gym & Training](https://gcc.seissense.com/collections/womens-gym-training): Compression fits and supportive layers built for the gym.
-  Updated: 2026-07-27T09:05:31Z
+  Updated: 2026-08-01T11:23:18Z
   Total Products: 48
 - [Women's Yoga & Pilates](https://gcc.seissense.com/collections/womens-yoga-pilates): Soft, flexible fits for yoga, pilates and low-impact movement.
-  Updated: 2026-07-27T09:05:31Z
+  Updated: 2026-08-01T11:23:18Z
   Total Products: 49
 - [Women's Running](https://gcc.seissense.com/collections/womens-running): Reflective details, compression support and breathable layers for every run.
-  Updated: 2026-07-27T09:05:31Z
+  Updated: 2026-08-01T11:23:18Z
   Total Products: 56
 - [Women's Lounge](https://gcc.seissense.com/collections/womens-lounge): Soft loungewear sets, dresses and easy layers for downtime.
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 29
 - [Men's Gym & Training](https://gcc.seissense.com/collections/mens-gym-training): Performance training gear engineered for the gym, the mat and everything in between.
   Updated: 2026-07-22T11:24:40Z
@@ -2871,7 +2871,7 @@
   Updated: 2026-07-22T11:24:40Z
   Total Products: 25
 - [All Products](https://gcc.seissense.com/collections/all-products): The full Seissense range — activewear, loungewear, swim, kids and accessories.
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 185
 - [Men's Bottoms](https://gcc.seissense.com/collections/mens-bottoms): Performance shorts, joggers and tights built for the gym, the track and everything in between.
   Updated: 2026-07-22T11:24:40Z
@@ -2895,10 +2895,10 @@
   Updated: 2026-07-27T09:05:31Z
   Total Products: 5
 - [Best Seller](https://gcc.seissense.com/collections/best-seller)
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 4
 - [The Dress Edit](https://gcc.seissense.com/collections/the-dress-edit): Our most-loved dresses, from flowing maxis to elegant kaftans. Crafted in sustainable fabrics for the modern GCC woman.
-  Updated: 2026-07-17T11:22:58Z
+  Updated: 2026-08-01T11:23:18Z
   Total Products: 5
 - [Women's Outerwear](https://gcc.seissense.com/collections/womens-outerwear): Hoodies, sweaters, jackets and vests for every layer.
   Updated: 2026-07-17T11:22:58Z
@@ -2910,13 +2910,13 @@
   Updated: 2026-07-12T06:50:56Z
   Total Products: 5
 - [Best Sellers](https://gcc.seissense.com/collections/best-sellers): Our most-loved pieces — tried, tested and trusted by the Seissense community.
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 14
 - [Swim & Beach](https://gcc.seissense.com/collections/swim-beach): From pool to shore — swimwear, rashguards and beach essentials for the GCC summer.
-  Updated: 2026-07-20T11:21:30Z
+  Updated: 2026-08-01T11:23:18Z
   Total Products: 16
 - [The Lounge](https://gcc.seissense.com/collections/the-lounge): Effortless pieces for in between — tracksuits, dresses, hoodies and everything made for slow days done right.
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 22
 - [Run Collection](https://gcc.seissense.com/collections/run-collection): Built for pace — performance tees, leggings, shorts and windbreakers for men and women who run.
   Updated: 2026-07-22T11:24:40Z
@@ -2931,22 +2931,22 @@
   Updated: 2026-07-12T06:50:57Z
   Total Products: 2
 - [Women's Leggings & Bottoms](https://gcc.seissense.com/collections/womens-bottoms)
-  Updated: 2026-07-27T09:05:31Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 32
 - [Bundle & Sets](https://gcc.seissense.com/collections/bundles-sets): Discover curated bundles designed for performance, comfort, and value. Shop complete outfits and essential sets built for training, travel, and everyday wear.
   Updated: 2026-07-27T09:05:31Z
   Total Products: 10
 - [Women Summer Collection](https://gcc.seissense.com/collections/women-summer-collection)
-  Updated: 2026-07-20T11:21:30Z
+  Updated: 2026-08-01T11:23:18Z
   Total Products: 15
 - [Women New In](https://gcc.seissense.com/collections/women-new-in)
-  Updated: 2026-07-20T11:21:30Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 29
 - [New Arrivals](https://gcc.seissense.com/collections/active-essesntials)
-  Updated: 2026-07-20T11:21:30Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 25
 - [Women New Arrivals](https://gcc.seissense.com/collections/women-new-arrivals)
-  Updated: 2026-07-20T11:21:30Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 13
 - [Men New Arrivals](https://gcc.seissense.com/collections/men-new-arrivals)
   Updated: 2026-07-12T06:50:57Z
@@ -2955,11 +2955,17 @@
   Updated: 2026-07-22T11:24:40Z
   Total Products: 38
 - [Buy 2 Get 1 – Women](https://gcc.seissense.com/collections/buy-2-get-1-women): The Style Edit You Deserve: Buy 2, Get 1 FREE! Treat yourself to the ultimate closet refresh. Explore our Exclusive Selection of stunning silhouettes, must-have statement pieces, and everyday favorites hand-picked just for you. Mix and match your top 3 picks, and watch the third one drop to £0 instantly at checkout!
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 75
 - [Buy 2 Get 1 – All](https://gcc.seissense.com/collections/buy-2-get-1-all): Because you deserve the best. We’ve hand-crafted a special Exclusive Selection of premium items available only to our insiders. Explore this unique collection today and secure your favorites before the offer expires.
-  Updated: 2026-07-26T11:23:44Z
+  Updated: 2026-08-03T11:22:37Z
   Total Products: 98
+- [Best  Products](https://gcc.seissense.com/collections/best--products)
+  Updated: 2026-08-03T11:22:37Z
+  Total Products: 212
+- [Newest Products](https://gcc.seissense.com/collections/newest-products)
+  Updated: 2026-08-03T11:22:37Z
+  Total Products: 212
 - [Mega Menu - Featured Products](https://gcc.seissense.com/collections/mega-menu-featured-products)
   Updated: 2026-07-26T05:42:13Z
   Total Products: 1
@@ -3012,6 +3018,8 @@
   Updated: 2026-06-16T11:21:21Z
 - [Mix and Match](https://gcc.seissense.com/pages/collection-bundle)
   Updated: 2026-06-18T09:58:38Z
+- [Shop The Look](https://gcc.seissense.com/pages/shop-the-look)
+  Updated: 2026-07-28T06:15:17Z
 
 ## Policies
 
