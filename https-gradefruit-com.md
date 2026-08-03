@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-08-28T15:17:32Z
 - Contact Email: contact@gradefruit.com
-- Updated At: 2026-07-25T00:00:26.773Z
+- Updated At: 2026-08-03T00:00:27.187Z
 
 ## Products
 
@@ -88,7 +88,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Blue Steel – Cool, Edgy Tones for Intense Scenes](https://gradefruit.com/products/blue-steel): Impart a cool, steely tone to your scenes, perfect for creating an intense and edgy atmosphere.
-  Updated: 2026-05-26T16:21:59Z
+  Updated: 2026-08-01T11:49:20Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -268,7 +268,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Mediterranean Summer – Sun-Kissed Colors and Bright Blues](https://gradefruit.com/products/mediterranean-summer): Infuse your visuals with the bright, sun-kissed colors of a Mediterranean summer, featuring soft blues, warm sands, and lush greens.
-  Updated: 2026-07-15T10:46:59Z
+  Updated: 2026-07-30T02:25:45Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -544,13 +544,13 @@
   Updated: 2024-08-28T19:36:50Z
   Total Products: 0
 - [LUTs](https://gradefruit.com/collections/luts): Transform your photos and videos with our premium LUT packs! Designed for photographers, videographers, and creators, our LUTs offer stunning color grading options to elevate your visuals effortlessly. Perfect for all skill levels!
-  Updated: 2026-07-15T11:19:29Z
+  Updated: 2026-08-02T11:15:25Z
   Total Products: 34
 - [Bundles](https://gradefruit.com/collections/bundles): Experience the incredible value and versatility of our bundles. Each bundle offers you a wide range of styles and looks to enhance your creative projects. Perfect for creatives who want a comprehensive set of color correction tools while benefiting from large bundle discounts. Everything works on desktop computers and mobile devices.
   Updated: 2026-06-04T05:13:12Z
   Total Products: 1
 - [Lightroom Presets](https://gradefruit.com/collections/lightroom-presets): Enhance your photos instantly with our professional Lightroom Presets! Designed for photographers of all levels, our presets deliver stunning edits with just one click. Perfect for creating vibrant, consistent, and polished images!
-  Updated: 2026-07-15T11:19:29Z
+  Updated: 2026-08-02T11:15:25Z
   Total Products: 34
 
 ## Store Pages
