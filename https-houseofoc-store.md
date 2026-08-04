@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-21T21:57:07Z
 - Contact Email: hoopulentcreations@gmail.com
-- Updated At: 2026-07-28T10:01:19.096Z
+- Updated At: 2026-08-04T12:00:25.162Z
 
 ## Products
 
@@ -928,6 +928,86 @@
   - [L](https://houseofoc.store/products/riviera-bow-halter-top-white?variant=53921600373063)
     Availability: Available
     Price: £45.00 GBP
+- [LONDON Casual Denim Wear Kids’ T-Shirt](https://houseofoc.store/products/london-casual-denim-wear-kids-t-shirt): Trendy Streetwear Graphic Tee for Boys & Girls Let your little one stand out in style with our LONDON Casual Denim Wear graphic T-shirt. Featuring a bold, modern typography design in soft lavender tones, this fashionable tee brings effortless streetwear style to everyday adventures. Made from soft, breathable cotton, it’s designed to keep kids comfortable whether they’re playing at the park, exploring the city, or spending time with family and friends. The versatile white colour pairs perfectly with jeans, shorts, joggers, or trainers for an easy, stylish look. Features Premium soft cotton fabric Eye-catching “LONDON” graphic print Modern streetwear-inspired design Lightweight and breathable for everyday comfort Perfect for boys and girls Ideal for casual wear, holidays, birthdays, and everyday outings Easy to mix and match with denim, shorts, and trainers Whether they’re heading to the playground or enjoying a family day out, this stylish graphic tee is designed for little trendsetters who love comfort with personality.
+  Updated: 2026-07-31T09:05:20Z
+  Vendor: House of OC
+  Product Type: House of OC
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7042.jpg?v=1784977092
+  - [4T](https://houseofoc.store/products/london-casual-denim-wear-kids-t-shirt?variant=54423640473927)
+    Availability: Available
+    Price: £15.00 GBP
+  - [5T](https://houseofoc.store/products/london-casual-denim-wear-kids-t-shirt?variant=54423640506695)
+    Availability: Available
+    Price: £15.00 GBP
+- [I’m Just Here for Snacks Toddler T-Shirt | Funny Raccoon Graphic Tee](https://houseofoc.store/products/i-m-just-here-for-snacks-toddler-t-shirt-funny-raccoon-graphic-tee): Snack time just got even cuter! This I’m Just Here for Snacks toddler T-shirt features an adorable raccoon enjoying a delicious cookie alongside a playful slogan that’s sure to get laughs from family and friends. Made from soft, breathable fabric for all-day comfort, this fun graphic tee is perfect for active toddlers who love to play, explore, and of course… snack! Whether paired with shorts, jeans, or joggers, it creates an adorable everyday outfit that’s comfortable and stylish. Perfect for birthdays, family outings, preschool, daycare, vacations, and casual wear, this cute animal T-shirt also makes a wonderful gift for little boys and girls with big personalities.
+  Updated: 2026-07-31T09:14:00Z
+  Vendor: House of OC
+  Product Type: House of OC
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/EB6DDF6C-F38D-42B3-84D8-1983B6718EC3.png?v=1785488613
+  - [3-6 months](https://houseofoc.store/products/i-m-just-here-for-snacks-toddler-t-shirt-funny-raccoon-graphic-tee?variant=54476210700615)
+    Availability: Available
+    Price: £8.99 GBP
+  - [6-9 months](https://houseofoc.store/products/i-m-just-here-for-snacks-toddler-t-shirt-funny-raccoon-graphic-tee?variant=54476210733383)
+    Availability: Not Available
+    Price: £8.99 GBP
+  - [9-12 months](https://houseofoc.store/products/i-m-just-here-for-snacks-toddler-t-shirt-funny-raccoon-graphic-tee?variant=54476210766151)
+    Availability: Not Available
+    Price: £8.99 GBP
+  - [12-18 months](https://houseofoc.store/products/i-m-just-here-for-snacks-toddler-t-shirt-funny-raccoon-graphic-tee?variant=54476210798919)
+    Availability: Not Available
+    Price: £8.99 GBP
+  - [18-24 months](https://houseofoc.store/products/i-m-just-here-for-snacks-toddler-t-shirt-funny-raccoon-graphic-tee?variant=54476210831687)
+    Availability: Not Available
+    Price: £8.99 GBP
+- [Tiny But Mighty toddler T-shirt](https://houseofoc.store/products/tiny-but-mighty-toddler-t-shirt): Big courage comes in small packages! This adorable Tiny But Mighty toddler T-shirt features a lovable lion wearing a superhero cape, making it the perfect outfit for little adventurers with big hearts. Whether they’re learning, playing, or exploring the world around them, this playful graphic tee is designed to inspire confidence while keeping them comfortable all day long. Made from soft, breathable fabric, it’s perfect for preschool, daycare, birthdays, family outings, vacations, playdates, or everyday casual wear. Pair it with jeans, shorts, or joggers for an effortlessly cute look. Available in multiple colours, this fun animal graphic tee is a must-have for every tiny superhero.
+  Updated: 2026-07-31T09:19:46Z
+  Vendor: House of OC
+  Product Type: House of OC
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/4CC88E6D-1511-4017-B4DC-2B8F5A4DEEFB.png?v=1785488613
+  - [2T](https://houseofoc.store/products/tiny-but-mighty-toddler-t-shirt?variant=54476234555719)
+    Availability: Available
+    Price: £10.99 GBP
+  - [3T](https://houseofoc.store/products/tiny-but-mighty-toddler-t-shirt?variant=54476234588487)
+    Availability: Not Available
+    Price: £10.99 GBP
+- [Women’s High-Waist Tummy Control Shaper Shorts](https://houseofoc.store/products/women-s-high-waist-tummy-control-shaper-shorts): Women’s High-Waist Tummy Control Shaper Shorts Achieve a smooth, sculpted silhouette with these high-waist shaping shorts, designed to enhance your natural curves while providing all-day comfort. Made from soft, stretchy, breathable fabric, these seamless shapewear shorts offer firm tummy control, waist support, and a flattering butt-lifting effect, making them ideal for everyday wear, special occasions, or postpartum support. The high-rise waistband features flexible anti-roll support that helps keep the shorts securely in place without slipping or curling. Compression panels gently smooth the abdomen, waist, hips, and thighs, creating a sleek look under dresses, skirts, jeans, and fitted outfits.
+  Updated: 2026-07-31T17:15:47Z
+  Vendor: House of OC
+  Product Type: House of OC
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7314_4b101839-89bb-450a-a948-87cbffc85ef1.jpg?v=1785517890
+  Price: £10.00 GBP
+- [Black Oversized Square Sunglasses – Luxury Statement Eyewear](https://houseofoc.store/products/black-oversized-square-sunglasses-luxury-statement-eyewear): Black Oversized Square Sunglasses – Luxury Statement Eyewear Elevate your everyday style with these bold oversized square sunglasses, designed for women who appreciate effortless sophistication. Featuring a sleek black frame with dark UV-protective lenses, they offer the perfect blend of fashion and function. Their structured silhouette creates a confident, high-fashion look while remaining versatile enough for both casual and elegant occasions. Whether you’re heading to brunch, travelling, shopping, or attending a special event, these sunglasses instantly add a polished finish to any outfit. Lightweight and comfortable, they are crafted for all-day wear without compromising on style. Features: Oversized square silhouette Premium glossy black frame Dark UV-protective lenses Lightweight, comfortable fit Durable construction for everyday wear Flattering design suitable for most face shapes Perfect For: Luxury everyday wear Resort and holiday styling Brunch dates and city outings Driving and travel Fashion editorials and content creation Completing both casual and elevated looks HOUSE OF OCLuxury Ready-to-Wear & Accessories Designed to stand out. Made to be remembered.
+  Updated: 2026-08-02T22:34:26Z
+  Vendor: House of OC
+  Product Type: House of OC
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/43DBFA67-6117-4F94-9BC9-92AB46B72CA7.png?v=1785709860
+  Price: £10.00 GBP
+- [Amber Cat-Eye Sunglasses – Effortless Luxury Collection](https://houseofoc.store/products/amber-cat-eye-sunglasses-effortless-luxury-collection): Amber Cat-Eye Sunglasses – Effortless Luxury Collection Refined, feminine, and undeniably chic, these slim cat-eye sunglasses are the perfect finishing touch for any elevated wardrobe. Designed with a glossy black frame and warm amber-tinted UV-protective lenses, they offer a modern take on a timeless silhouette. The sleek, narrow profile beautifully enhances the face, while the soft amber tint provides a sophisticated contrast that complements every skin tone. Whether styled with everyday essentials or luxury occasion wear, these sunglasses deliver effortless elegance with every look. Lightweight and comfortable, they’re designed for all-day wear while making a subtle yet unforgettable statement. Features: Slim cat-eye silhouette Premium glossy black frame Warm amber UV-protective lenses Lightweight, comfortable fit Durable construction for everyday wear Flattering design for most face shapes Perfect For: Everyday luxury styling Brunch and café dates Holidays and resort wear Weekend shopping Driving and travel Fashion editorials and content creation These sunglasses pair beautifully with neutral tones, soft tailoring, linen, and effortless summer looks, creating a polished aesthetic that transitions seamlessly from day to evening. HOUSE OF OCLuxury Ready-to-Wear & Accessories Timeless elegance. Modern confidence.
+  Updated: 2026-08-02T22:42:21Z
+  Vendor: House of OC
+  Product Type: House of OC
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7486.jpg?v=1785710428
+  Price: £10.00 GBP
+- [Beige Oversized Square Sunglasses – Quiet Luxury Collection](https://houseofoc.store/products/beige-oversized-square-sunglasses-quiet-luxury-collection): Beige Oversized Square Sunglasses – Quiet Luxury Collection Timeless, elegant, and effortlessly chic, these oversized square sunglasses are designed to elevate every look. Featuring a premium glossy beige frame paired with dark UV-protective lenses, they blend modern sophistication with everyday versatility. The clean architectural silhouette adds a refined statement without overpowering your style, making them the perfect finishing touch for everything from tailored blazers and linen sets to casual denim and resort wear. Lightweight and comfortable, they’re crafted for all-day confidence wherever life takes you. Whether you’re brunching with friends, travelling in style, or enjoying a sunny afternoon, these sunglasses embody understated luxury with every wear. Features: Premium glossy beige frame Oversized square silhouette Dark UV-protective lenses Lightweight, comfortable fit Durable construction for everyday wear Flattering design suitable for most face shapes Style Tip: Pair with crisp white tailoring, neutral tones, gold jewellery, or monochrome outfits for a polished, luxury-inspired finish. HOUSE OF OCLuxury Ready-to-Wear & Accessories Quiet Luxury. Timeless Confidence.
+  Updated: 2026-08-02T22:59:33Z
+  Vendor: House of OC
+  Product Type: House of OC
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7347.jpg?v=1785710616
+  Price: £10.00 GBP
+- [Fashion Retro Rectangular Women's Sunglasses](https://houseofoc.store/products/fashion-retro-rectangular-womens-sunglasses): Fashion Retro Rectangular Women's Sunglasses Elevate your everyday style with these striking amber square sunglasses, crafted for women who appreciate timeless elegance with a contemporary edge. Featuring a bold glossy black frame paired with warm amber-tinted lenses, these sunglasses offer the perfect balance of sophistication and confidence. Designed to complement everything from tailored blazers to casual weekend outfits, they deliver a polished, fashion-forward look for every occasion. The lightweight construction ensures all-day comfort, while the oversized square silhouette flatters a variety of face shapes. Whether you’re enjoying brunch, exploring a new city, attending a rooftop event, or relaxing on holiday, these sunglasses are the statement accessory your wardrobe deserves. Features: Bold oversized square silhouette Glossy black premium frame Warm amber-tinted UV-protective lenses Lightweight and comfortable for everyday wear Durable construction with a luxurious finish Suitable for casual, business, and resort styling Style Tip: Pair with neutral tones, structured blazers, gold jewellery, or monochrome outfits for an effortlessly chic, luxury-inspired look. HOUSE OF OCLuxury Ready-to-Wear & AccessoriesQuiet Luxury. Bold Presence.
+  Updated: 2026-08-02T23:07:37Z
+  Vendor: House of OC
+  Product Type: House of OC
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7349.jpg?v=1785710617
+  Price: £10.00 GBP
 
 ## Collections
 
@@ -970,6 +1050,18 @@
 - [Hoc Luxury Tops](https://houseofoc.store/collections/hoc-luxury-tops)
   Updated: 2026-05-26T22:13:21Z
   Total Products: 1
+- [Kidz Lux](https://houseofoc.store/collections/kidz-lux): Kidz Lux
+  Updated: 2026-07-31T09:19:33Z
+  Total Products: 1
+- [Premium T-Shirt Lux](https://houseofoc.store/collections/premium-t-shirt-lux)
+  Updated: 2026-07-31T08:58:18Z
+  Total Products: 0
+- [Luxury Shape wears](https://houseofoc.store/collections/luxury-shape-wears)
+  Updated: 2026-07-31T17:15:42Z
+  Total Products: 1
+- [Accessories](https://houseofoc.store/collections/accessories)
+  Updated: 2026-08-02T23:02:40Z
+  Total Products: 4
 
 ## Store Pages
 
@@ -996,8 +1088,10 @@
   Updated: 2025-11-21T21:57:20+00:00
 - [Shipping Policy](https://houseofoc.store/policies/shipping-policy)
   Updated: 2025-12-03T02:47:45+00:00
+- [Refund Policy](https://houseofoc.store/policies/refund-policy)
+  Updated: 2026-08-01T00:57:36+01:00
 - [Terms of Service](https://houseofoc.store/policies/terms-of-service)
-  Updated: 2025-12-03T02:46:41+00:00
+  Updated: 2026-08-01T00:50:53+01:00
 - [Contact Information](https://houseofoc.store/policies/contact-information)
   Updated: 2025-12-03T02:48:13+00:00
 
