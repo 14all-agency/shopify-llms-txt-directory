@@ -6,12 +6,12 @@
 - Timezone: Europe/Prague
 - Created At: 2026-05-19T16:44:51Z
 - Contact Email: jogaspetrem@gmail.com
-- Updated At: 2026-07-26T13:16:50.657Z
+- Updated At: 2026-08-04T00:00:35.406Z
 
 ## Products
 
 - [Hormonální jógová terapie pro muže podle Dinah Rodrigues](https://online.jogaspetrem.cz/products/hormonalni-jogova-terapie-pro-muze-podle-dinah-rodrigues): Kompletní online kurz Hormonální jógové terapie pro muže podle Dinah Rodrigues. 6 lekcí, které Vás krok za krokem provedu celým systémem. Od zahřívací části až po samotné cvičení. Přirozená cesta k optimální hladině testosteronu, vitalitě a zdraví.
-  Updated: 2026-07-26T08:00:06Z
+  Updated: 2026-07-27T18:23:11Z
   Vendor: Můj obchod
   Product Type: 
   Availability: Available
@@ -26,7 +26,7 @@
 ## Collections
 
 - [Domovská stránka](https://online.jogaspetrem.cz/collections/frontpage)
-  Updated: 2026-07-26T11:24:03Z
+  Updated: 2026-07-28T12:17:45Z
   Total Products: 1
 
 ## Store Pages
@@ -35,6 +35,8 @@
   Updated: 2026-05-27T21:31:31Z
 - [Často kladené otázky – Hormonální jóga pro muže](https://online.jogaspetrem.cz/pages/faq): Pro koho je kurz určen? Kurz je určen pro muže ve věku 40+, kteří chtějí přirozeně podpořit hladinu testosteronu, zlepšit energii, spánek, libido a...
   Updated: 2026-07-11T15:32:06Z
+- [Certifikovaný lektorský kurz Hormonální jógové terapie pro muže](https://online.jogaspetrem.cz/pages/pro-lektory): autorka metody Dinah Rodrigues a Petr Bavlšík Certifikát vydává Dinah Rodrigues a lektorský kurz vede Petr Bavlšík v českém jazyce. Nové lektory ho...
+  Updated: 2026-07-26T20:38:27Z
 
 ## Policies
 
