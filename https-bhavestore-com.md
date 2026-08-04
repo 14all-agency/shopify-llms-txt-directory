@@ -6,33 +6,33 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-02-19T13:05:44Z
 - Contact Email: info@bhavestore.com
-- Updated At: 2026-07-28T00:00:37.929Z
+- Updated At: 2026-08-04T00:00:41.813Z
 
 ## Products
 
 - [Mobil Oyun Tetik Aparatı - As Q Senin ile Keskin Kontrol](https://bhavestore.com/products/ace-q): As Q Senin mobil oyun tetik aparatı ile oyunlarda hızlı ve hassas saldırılar yapın. Üstün performans için ideal oyun aksesuarı.
-  Updated: 2026-07-22T16:31:57Z
+  Updated: 2026-08-03T10:43:36Z
   Vendor: bhave
   Product Type: Tetik
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/0_10194ce8-dd42-498a-b444-23ef4ced9fdd.png?v=1779810974
   Price: ₺519,99 TRY
 - [Telefon Soğutucu Ice Q ile Serin Performans](https://bhavestore.com/products/ice-q): Ice Q telefon soğutucu, oyun ve yoğun kullanımda cihazınızı serin tutar. Telefon soğutucu ile performans kaybını azaltın.
-  Updated: 2026-07-27T18:55:38Z
+  Updated: 2026-08-03T19:55:46Z
   Vendor: bhave
   Product Type: Soğutucu
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/0_754dcc68-fbe6-4552-8606-487db63875b3.png?v=1779810987
   Price: ₺1.099,99 TRY
 - [Carbon Parmaklık - En İyi Mobil Oyun Parmaklığı](https://bhavestore.com/products/carbon-parmaklik): Carbon parmaklık ile mobil oyun deneyiminizi geliştirin. Dayanıklı ve konforlu mobil oyun parmaklığı şimdi satın alın.
-  Updated: 2026-07-27T21:32:25Z
+  Updated: 2026-08-03T22:51:27Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/CARBON1.png?v=1779811031
   Price: ₺139,99 TRY
 - [Hibrit Mobil Oyun Parmaklık - Konforlu Oyun Deneyimi](https://bhavestore.com/products/hybrid): Hibrit mobil oyun parmaklık ile oyun oynarken maksimum rahatlık ve kontrol sağlayın. Dayanıklı ve kullanışlı tasarım ile en iyi performans.
-  Updated: 2026-07-27T23:15:48Z
+  Updated: 2026-08-03T23:03:26Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
@@ -58,28 +58,28 @@
     Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/S2_83c9545e-60a1-43b7-bb08-d0546cbe9eb4.png?v=1779811055
     Price: ₺199,99 TRY
 - [Silver Parmaklık Mobil Oyun Parmaklık Seti - Rahat Kullanım](https://bhavestore.com/products/silver-parmaklik): Silver parmaklık ile mobil oyun parmaklık seti deneyiminizi geliştirin. Konforlu ve sağlam tasarımla daha iyi kontrol sizde.
-  Updated: 2026-07-27T21:47:57Z
+  Updated: 2026-08-03T21:03:36Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/SILVER3.png?v=1779811058
   Price: ₺199,99 TRY
 - [Silver Pro Parmaklık | PUBG Mobile Parmaklık Kalitesi](https://bhavestore.com/products/silver-pro-parmaklik): Silver Pro Parmaklık ile PUBG Mobile parmaklık deneyiminizi geliştirin. Dayanıklı ve hassas tasarım ile oyun performansınızı artırın.
-  Updated: 2026-07-27T19:45:48Z
+  Updated: 2026-08-03T17:39:36Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/SILVERPRO4_6abb08c1-c8c2-4b45-9f8e-029b45f6d181.png?v=1784586341
   Price: ₺219,99 TRY
 - [Taşınabilir Fan Aero Q: Kompakt, Sessiz ve Uzun Pil Ömrü](https://bhavestore.com/products/aeroqtasinlabilir-fan): Taşınabilir Fan Aero Q ile yüksek performans ve dayanıklılık bir arada. Hafif ve şık tasarımıyla kablosuz serinlik artık cebinizde. Hemen keşfedin!
-  Updated: 2026-07-27T09:23:46Z
+  Updated: 2026-08-03T18:55:46Z
   Vendor: Bhave
   Product Type: Soğutucu
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/aeropost1kopya.png?v=1784586369
   Price: ₺1.299,99 TRY
 - [Bhave Cut Akıllı Şarj Ayırıcı - Bhave](https://bhavestore.com/products/bhave-cut-akilli-sarj-ayirici): @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&display=swap'); .bhave-container { font-family: 'Josefin Sans',  - Bhave
-  Updated: 2026-07-22T20:47:27Z
+  Updated: 2026-08-02T11:05:16Z
   Vendor: Bhave
   Product Type: 
   Availability: Available
@@ -100,7 +100,7 @@
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/1_8b60f9df-ad3e-4fd1-b380-53cee69dd2f7.png?v=1784586390
   Price: ₺849,99 TRY
 - [Akıllı Şarj İstasyonu ile 5'i 1 Arada Güç](https://bhavestore.com/products/5in1-powerbank-ve-sarj-i̇stasyonu): Akıllı şarj istasyonu ile telefon, kulaklık ve diğer cihazlarınızı aynı anda şarj edin. 5'i 1 arada pratik, taşınabilir ve güçlü çözüm.
-  Updated: 2026-07-22T20:30:41Z
+  Updated: 2026-07-30T18:32:46Z
   Vendor: Yesido
   Product Type: Güç
   Availability: Available
@@ -114,14 +114,14 @@
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/V4.png?v=1784586407
   Price: ₺299,99 TRY
 - [Atakcı Limited Edition Parmaklık - Bhave](https://bhavestore.com/products/atakci-limited-edition-parmaklik): - Bhave
-  Updated: 2026-07-27T10:57:20Z
+  Updated: 2026-07-31T20:27:30Z
   Vendor: Bhave
   Product Type: Parmaklık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/A7_51299114-ebac-4d29-8c5e-9837a5aa76f0.png?v=1784586420
   Price: ₺299,99 TRY
 - [240W Standlı Type-C Kablo - Bhave](https://bhavestore.com/products/240w-standli-type-c-kablo): @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&display=swap'); .bhave-container { font-family: 'Josefin Sans',  - Bhave
-  Updated: 2026-07-25T12:06:17Z
+  Updated: 2026-08-03T16:16:42Z
   Vendor: Bhave
   Product Type: 
   Availability: Available
@@ -129,38 +129,38 @@
   - [Turuncu](https://bhavestore.com/products/240w-standli-type-c-kablo?variant=46846101815495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/TPNG.png?v=1784586466
-    Price: ₺599,00 TRY
+    Price: ₺499,00 TRY
   - [Mor](https://bhavestore.com/products/240w-standli-type-c-kablo?variant=46846101848263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/PPNG.png?v=1784586474
-    Price: ₺599,00 TRY
+    Price: ₺499,00 TRY
   - [Gri](https://bhavestore.com/products/240w-standli-type-c-kablo?variant=46846101881031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/GPNG.png?v=1784586471
-    Price: ₺599,00 TRY
+    Price: ₺499,00 TRY
 
 ## Collections
 
 - [Parmak Eldiven](https://bhavestore.com/collections/parmaklik): Parmak Eldiven Espor, oyuncular için konfor ve kontrol sağlar. Parmaklık modelleri hakkında detaylı bilgi alın.
-  Updated: 2026-07-27T11:20:21Z
+  Updated: 2026-08-03T11:20:14Z
   Total Products: 6
 - [Mobil Oyun Tetik](https://bhavestore.com/collections/tetik): Mobil Oyun Tetik ile oyun performansınızı artırın. Hızlı ve etkili mobil oyun tetik mekanizmaları hakkında her şey burada.
-  Updated: 2026-07-20T22:28:21Z
+  Updated: 2026-08-02T11:19:02Z
   Total Products: 1
 - [Soğutucu & Fan](https://bhavestore.com/collections/sogutucu): Telefon Soğutucu Fan sayesinde cihazınız ısınmaz, performansınız düşmez. Taşınabilir ve etkili soğutma çözümü.
-  Updated: 2026-07-23T11:22:13Z
+  Updated: 2026-08-03T11:20:14Z
   Total Products: 2
 - [Kablo/Adaptör](https://bhavestore.com/collections/kablo-adaptor): Şarj kablosu ve adaptör seçiminde hız, uyumluluk ve güvenliği öğrenin. Cihazınız için doğru kabloyu kolayca seçin.
-  Updated: 2026-07-26T11:19:14Z
+  Updated: 2026-08-03T11:20:14Z
   Total Products: 3
 - [Stant](https://bhavestore.com/collections/stant): Ergonomik ve Şık Stant Modelleri ile Konforu Keşfedin Teknolojik cihazlarınızı daha verimli kullanmak, masa düzeninizi sağlamak ve sağlığınızı korumak  - Bhave
-  Updated: 2026-07-26T11:19:14Z
+  Updated: 2026-08-03T11:20:14Z
   Total Products: 3
 - [Özel Tasarım Pubg Parmaklık](https://bhavestore.com/collections/limited-edition): Pubg parmaklık ile oyun kontrolünü artırın, sınırlı üretim ayrıcalığını deneyimleyin. Rahat tutuş ve hızlı tepki için ideal seçim.
   Updated: 2026-07-27T10:54:29Z
   Total Products: 3
-- [Çok Satan Mobil Aksesuar](https://bhavestore.com/collections/cok-satanlar): Çok Satan Mobil Aksesuar ürünlerini keşfedin. Ekran koruyucular, şarj kablosu, şarj adaptörü ve daha fazlasını uygun fiyatla inceleyin.
-  Updated: 2026-07-27T11:20:21Z
+- [Çok Satanlar](https://bhavestore.com/collections/cok-satanlar): Çok Satan Mobil Aksesuar ürünlerini keşfedin. Ekran koruyucular, şarj kablosu, şarj adaptörü ve daha fazlasını uygun fiyatla inceleyin.
+  Updated: 2026-08-03T11:20:14Z
   Total Products: 15
 
 ## Blogs
