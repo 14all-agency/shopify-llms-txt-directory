@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-04T18:48:03Z
 - Contact Email: kunwarjadaorganics@gmail.com
-- Updated At: 2026-07-26T00:00:26.489Z
+- Updated At: 2026-08-04T00:00:35.640Z
 
 # Kodand Honey
 
@@ -15,28 +15,27 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
 ## Products
 
 - [Buy Eucalyptus Honey 1kg Online India | Pure Raw Honey | KODAND](https://iamkodand.in/products/eucalyptus-honey-1kg-best-honey-for-cough-cold-throat-relief-kodand): Buy KODAND Eucalyptus Honey 1kg – 100% pure, raw, unprocessed honey. Distinctive aroma. No added sugar. Lab tested. Free shipping. Order online in India.
-  Updated: 2026-07-16T18:45:35Z
+  Updated: 2026-08-03T18:39:32Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Eucalyptus Honey
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/Eucalyptus_Honey_3.jpg?v=1783945241
   Price: ₹850.00 INR
 - [Buy Sidr Honey 1kg Online India | Premium Raw Jujube Honey | KODAND](https://iamkodand.in/products/sidr-honey-1kg-premium-raw-honey-for-immunity-strength-kodand): Buy KODAND Sidr Honey 1kg – 100% pure, raw, unprocessed Jujube honey. No added sugar. Lab tested. Free shipping. Order online in India.
-  Updated: 2026-07-11T11:23:10Z
+  Updated: 2026-08-03T18:39:09Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Sidr Honey
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/Sidr_Honey_6.jpg?v=1780751201
   Price: ₹850.00 INR
 - [Multiflora Honey 1kg | Pure Raw Wildflower Honey | Kodand](https://iamkodand.in/products/multiflora-honey-1kg-pure-natural-honey-for-daily-use-kodand): Buy Kodand Multiflora Honey 1kg – 100% pure raw wildflower honey, unprocessed, no added sugar. Rich, complex flavour. Lab tested. Free shipping in India.
-  Updated: 2026-07-06T12:56:56Z
+  Updated: 2026-08-03T19:27:32Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Multiflora Honey
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/Raw_Multiflora_Honey_Bottle.jpg?v=1780744889
   Price: ₹845.00 INR
 - [Buy Litchi Honey 1kg Online India | Pure Raw Honey | KODAND](https://iamkodand.in/products/litchi-honey-1kg-pure-natural-honey-with-rich-taste-kodand): Buy KODAND Litchi Honey 1kg – 100% pure, raw litchi blossom honey. Naturally sweet floral taste. No added sugar. Lab tested. Free shipping. Order online.
-  Updated: 2026-07-14T09:58:25Z
+  Updated: 2026-08-03T18:40:07Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Litchi Honey
   Availability: Available
@@ -92,14 +91,14 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/Natural_Litchi_Nectar_Honey_Bottle.jpg?v=1784023581
   Price: ₹285.00 INR
 - [Multiflora Honey 250g | Pure Raw Wildflower Honey | Kodand](https://iamkodand.in/products/multiflora-honey-250g-natural-honey-for-everyday-health-kodand): Buy Kodand Multiflora Honey 250g – 100% pure raw wildflower honey, unprocessed, no added sugar. Rich, complex flavour. Lab tested. Free shipping in India.
-  Updated: 2026-07-20T11:17:38Z
+  Updated: 2026-07-27T09:04:38Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Multiflora Honey
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/Authentic_Multiflora_Honey_by_KODAND.jpg?v=1780744846
   Price: ₹290.00 INR
 - [Buy Wild Forest Honey 1kg Online India | Pure Raw Multifloral Honey | KODAND](https://iamkodand.in/products/wild-forest-honey-1kg-pure-raw-honey-with-strong-immunity-benefits-kodand): Buy KODAND Wild Forest Honey 1kg – raw, unprocessed multifloral forest honey. Rich dark flavour. No added sugar. Lab tested. Order online in India.
-  Updated: 2026-07-06T04:32:25Z
+  Updated: 2026-08-03T18:41:21Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Wild Forest Honey
   Availability: Available
@@ -148,28 +147,28 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/KODAND_Premium_Tulsi_Honey.jpg?v=1780752529
   Price: ₹495.00 INR
 - [Tulsi Honey 1kg | Pure Raw Holy Basil Honey | Kodand](https://iamkodand.in/products/tulsi-honey-1kg-pure-natural-honey-for-immunity-cold-relief-kodand): Buy Kodand Tulsi Honey 1kg – pure raw holy basil honey, unprocessed, no added sugar. Earthy, aromatic & distinctive. Lab tested. Free shipping in India.
-  Updated: 2026-07-16T04:48:12Z
+  Updated: 2026-08-03T18:43:07Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Tulsi Honey
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/KODAND_Tulsi_Honey_Jar.jpg?v=1780752536
   Price: ₹785.00 INR
 - [Rajasthan Acacia Honey 1kg | Pure Raw Low Glycemic Honey | Kodand](https://iamkodand.in/products/rajasthan-acacia-honey-1kg-pure-natural-honey-for-weight-management-kodand): Buy Kodand Rajasthan Acacia Honey 1kg – pure raw low glycemic honey, unprocessed, no added sugar. Mild, light & crystal clear. Lab tested. Free shipping.
-  Updated: 2026-07-06T20:49:36Z
+  Updated: 2026-08-03T18:35:33Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Acacia Honey
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/Raw_Rajasthan_Acacia_Honey_Bottle.jpg?v=1780749448
   Price: ₹870.00 INR
 - [Buy Ajwain Honey 1kg Online India | Pure Raw Carom Honey | KODAND](https://iamkodand.in/products/ajwain-honey-1kg-natural-honey-for-digestion-immunity-kodand): Buy KODAND Ajwain Honey 1kg – 100% pure raw carom (ajwain) honey. Warm, pungent, herbal taste. No added sugar. Lab tested. Free shipping. Order online.
-  Updated: 2026-07-13T10:45:21Z
+  Updated: 2026-08-03T18:40:10Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Ajwain Honey
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/KODAND_Ajwain_Honey_Jar.jpg?v=1783939444
   Price: ₹850.00 INR
 - [Buy Jamun Honey 1kg Online India | Pure Raw Indian Blackberry Honey | KODAND](https://iamkodand.in/products/jamun-honey-1kg-pure-raw-honey-for-diabetes-support-immunity-kodand): Buy KODAND Jamun Honey 1kg – 100% pure raw Indian blackberry honey. Dark, rich, mildly tangy. No added sugar. Lab tested. Free shipping. Order online.
-  Updated: 2026-07-13T08:54:32Z
+  Updated: 2026-08-03T18:37:38Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Jamun Honey
   Availability: Available
@@ -183,7 +182,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
   Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/Rajasthan_Acacia_Honey_by_KODAND.jpg?v=1780749285
   Price: ₹285.00 INR
 - [Tulsi Honey 250g | Pure Raw Holy Basil Honey | Kodand](https://iamkodand.in/products/tulsi-honey-250g-natural-honey-for-daily-wellness-kodand): Buy Kodand Tulsi Honey 250g – pure raw holy basil honey, unprocessed, no added sugar. Earthy, aromatic & distinctive. Lab tested. Free shipping in India.
-  Updated: 2026-07-23T11:53:16Z
+  Updated: 2026-07-29T21:03:28Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Tulsi Honey
   Availability: Available
@@ -207,44 +206,47 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
 ## Collections
 
 - [Sidr Honey – Premium Raw Honey | 100% Pure Natural Honey India](https://iamkodand.in/collections/sidr-honey-premium-raw-honey-100-pure-natural-honey-india): Shop Kodand Sidr Honey online in India. 100% pure raw jujube honey, unprocessed, no added sugar. Lab tested. Available in 250g, 500g & 1kg glass jars.
-  Updated: 2026-07-12T11:29:31Z
+  Updated: 2026-08-03T06:35:11Z
   Total Products: 3
 - [Litchi Honey – 100% Pure Natural Raw Honey with Floral Taste](https://iamkodand.in/collections/litchi-honey-100-pure-natural-raw-honey-with-floral-taste): Buy Kodand Litchi Honey in India. Pure raw lychee blossom honey, light & floral. Unprocessed, no added sugar, glass jar. 250g, 500g & 1kg. Free shipping.
-  Updated: 2026-07-12T11:29:31Z
+  Updated: 2026-08-03T06:34:06Z
   Total Products: 3
 - [Multiflora Honey | Pure Raw Honey | KODAND](https://iamkodand.in/collections/natural-honey-collection-kodand-honey): Buy Kodand Multiflora Honey in India. Pure raw wildflower honey from diverse Indian floral regions. Unprocessed, no added sugar, glass jar. 250g, 500g & 1kg.
-  Updated: 2026-07-09T11:46:30Z
+  Updated: 2026-08-03T06:32:27Z
   Total Products: 3
 - [Eucalyptus Honey – Pure Natural Honey for Cough & Immunity](https://iamkodand.in/collections/raw-honey-100-pure-natural-raw-honey-online-kodand-honey): Buy Kodand Eucalyptus Honey in India. Pure raw honey from eucalyptus blossoms. Unprocessed, no added sugar, glass jar. 250g, 500g & 1kg. Free shipping.
-  Updated: 2026-07-09T11:46:30Z
+  Updated: 2026-08-03T06:34:36Z
   Total Products: 3
 - [Ajwain Honey – 100% Pure Natural Raw Honey for Digestion & Immunity](https://iamkodand.in/collections/ajwain-honey-100-pure-natural-raw-honey-for-digestion-immunity): Buy Kodand Ajwain Honey in India. Pure raw carom blossom honey, warm & aromatic. Unprocessed, no added sugar, glass jar. 250g, 500g & 1kg. Free shipping.
-  Updated: 2026-07-16T11:16:57Z
+  Updated: 2026-08-03T06:35:34Z
   Total Products: 3
 - [Jamun Honey – 100% Pure Raw Honey for Sugar Control & Immunity](https://iamkodand.in/collections/jamun-honey-100-pure-raw-honey-for-sugar-control-immunity): Buy Kodand Jamun Honey in India. Pure raw Indian blackberry honey, dark & bold. Unprocessed, no added sugar, glass jar. 250g, 500g & 1kg. Free shipping.
-  Updated: 2026-07-12T11:29:31Z
+  Updated: 2026-08-03T06:33:34Z
   Total Products: 3
 - [Tulsi Honey – 100% Pure Raw Honey for Immunity & Wellness](https://iamkodand.in/collections/tulsi-honey-100-pure-raw-honey-for-immunity-wellness): Buy Kodand Tulsi Honey in India. Pure raw holy basil honey, earthy & aromatic. Unprocessed, no added sugar, glass jar. 250g, 500g & 1kg. Free shipping.
-  Updated: 2026-07-12T11:29:31Z
+  Updated: 2026-08-03T06:33:12Z
   Total Products: 3
 - [Rajasthan Acacia Honey – 100% Pure Raw Natural Honey](https://iamkodand.in/collections/rajasthan-acacia-honey-100-pure-raw-natural-honey): Buy Kodand Rajasthan Acacia Honey in India. Pure raw acacia honey, mild & crystal clear. Unprocessed, no added sugar, glass jar. 250g, 500g & 1kg.
-  Updated: 2026-07-12T11:29:31Z
+  Updated: 2026-08-03T06:32:52Z
   Total Products: 3
 - [Wild Forest Honey – 100% Pure Raw Natural Forest Honey](https://iamkodand.in/collections/wild-forest-honey-100-pure-raw-natural-forest-honey): Buy Kodand Wild Forest Honey online in India. 100% pure raw honey from deep forest regions. Rich, dark & unprocessed. Lab tested. Free shipping.
-  Updated: 2026-07-09T11:46:30Z
+  Updated: 2026-08-03T06:36:00Z
   Total Products: 3
 - [New Arrivals](https://iamkodand.in/collections/new-arrivals): Discover the latest raw honey additions from Kodand. Pure, unprocessed, lab tested. Free shipping across India.
   Updated: 2026-07-09T11:46:30Z
   Total Products: 0
 - [Honey 250g | Pure Raw Honey in 250g Glass Jar | KODAND](https://iamkodand.in/collections/honey-250g): Shop Kodand raw honey in 250g glass jars. 9 pure varieties available. Unprocessed, no added sugar, lab tested. Free shipping across India.
-  Updated: 2026-07-09T11:46:30Z
+  Updated: 2026-07-27T11:31:30Z
   Total Products: 2
 - [Honey 500g | Pure Raw Honey in 500g Glass Jar | KODAND](https://iamkodand.in/collections/honey-500g): Shop Kodand raw honey in 500g glass jars. 9 pure varieties available. Unprocessed, no added sugar, lab tested. Free shipping across India.
   Updated: 2026-07-09T11:46:30Z
   Total Products: 0
 - [Honey 1kg | Pure Raw Honey in 1kg Glass Jar | KODAND](https://iamkodand.in/collections/honey-1kg): Shop Kodand raw honey in 1kg glass jars. 9 pure varieties available. Unprocessed, no added sugar, lab tested. Best value. Free shipping across India.
-  Updated: 2026-07-09T11:46:30Z
+  Updated: 2026-08-03T06:32:27Z
   Total Products: 1
+- [All Honey – Pure Natural Honey | KODAND](https://iamkodand.in/collections/all-honey): Shop all KODAND honey varieties — 100% pure, raw, and natural. Jamun, Tulsi, Ajwain, Wild Forest & more. Free from adulteration.
+  Updated: 2026-08-03T05:28:14Z
+  Total Products: 0
 
 ## Blogs
 
@@ -544,6 +546,14 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Updated: 2026-07-22T12:09:59Z
     Author: Kodand Honey Team
     Tags: benefits, health benefits, honey, honey benefits, indian honey, jamun, jamun honey, jamun honey uses, kodand honey, natural honey, natural sweetener, nutritional value of jamun honey, pure honey, raw honey, superfood
+  - [How Pure Jamun Honey Elevates Your Daily Wellness Routine](https://iamkodand.in/blogs/news/how-pure-jamun-honey-elevates-your-daily-wellness-routine): How Pure Jamun Honey Elevates Your Daily Wellness Routine
+    Updated: 2026-07-28T12:01:22Z
+    Author: Kodand Honey Team
+    Tags: health, honey, honey benefits, immune support, incorporate jamun honey., indian honey, jamun, jamun honey, jamun honey benefits, kodand honey, natural honey, natural sweetener, pure honey, raw honey, wellness benefits
+  - [A Guide to Choosing Authentic Raw Indian Jamun Honey](https://iamkodand.in/blogs/news/a-guide-to-choosing-authentic-raw-indian-jamun-honey): A Guide to Choosing Authentic Raw Indian Jamun Honey
+    Updated: 2026-07-29T12:09:33Z
+    Author: Kodand Honey Team
+    Tags: benefits, health benefits of jamun honey, honey, honey benefits, indian honey, jamun, jamun honey, jamun honey uses, kodand honey, natural honey, natural sweetener, organic jamun, pure honey, raw honey
 - [Benefits of Raw Honey – Why KODAND Raw Honey is a Daily Superfood](https://iamkodand.in/blogs/benefits-of-raw-honey-why-kodand-raw-honey-is-a-daily-superfood)
   - [Honey – The Ultimate Guide to Pure, Raw & Natural Honey (Benefits, Uses & Buying Guide)](https://iamkodand.in/blogs/benefits-of-raw-honey-why-kodand-raw-honey-is-a-daily-superfood/honey-the-ultimate-guide-to-pure-raw-natural-honey-benefits-uses-buying-guide)
     Updated: 2026-03-31T07:18:20Z
