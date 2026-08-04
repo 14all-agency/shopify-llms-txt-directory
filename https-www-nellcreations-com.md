@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-04-21T12:46:29Z
 - Contact Email: annienellcreations@gmail.com
-- Updated At: 2026-07-17T00:00:45.719Z
+- Updated At: 2026-08-04T00:00:43.955Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/demaquillant-yeux-avril-bouteille-plastique-transparente-etiquette-936.webp?v=1780330797
   Price: 7,00 € EUR
 - [Gommage visage Avril bio exfoliant doux et nourrissant](https://www.nellcreations.com/products/gommage-visage-bio-avril): Le gommage visage certifié bio Avril contient de la poudre de riz et de noyau d'abricot. Ce soin exfolie et affine le grain des peaux sensibles et mixtes.
-  Updated: 2026-06-24T14:06:03Z
+  Updated: 2026-08-03T13:10:41Z
   Vendor: Nellcréations
   Product Type: gommage visage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gommage-visage-avril-tube-vert-menthe-550.webp?v=1780330806
   Price: 3,20 € EUR
 - [Gel nettoyant visage Avril bio cosmétique peau douce](https://www.nellcreations.com/products/gel-nettoyant-visage-100ml-certifie-bio): Ce gel nettoyant visage Avril certifié bio élimine les impuretés de l'épiderme. Sa formule pour peaux sèches ou grasses contient un parfum naturel d'agrumes.
-  Updated: 2026-07-06T12:23:12Z
+  Updated: 2026-07-27T15:52:08Z
   Vendor: Nellcréations
   Product Type: Gel nettoyant
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/soin-contour-des-yeux-et-levres-avril-tube-souple-couleur-lavande-pale-899.webp?v=1780330841
   Price: 9,00 € EUR
 - [Crème jour et nuit Avril bio hydratation visage](https://www.nellcreations.com/products/creme-jour-et-nuit-50-ml-certifiee-bio): La crème jour et nuit certifiée bio Avril contient de l'aloe vera et du beurre de karité. Ce soin hydrate les peaux normales, sèches, grasses, mixtes ou matures.
-  Updated: 2026-07-07T15:12:06Z
+  Updated: 2026-07-19T11:04:57Z
   Vendor: Nellcréations
   Product Type: crème visage jour et nuit
   Availability: Available
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/serum-unifiant-avril-visage-bouteille-verre-transparente-etiquette-922.webp?v=1780330869
   Price: 3,60 € EUR
 - [Sérum désaltérant Avril hydratant bio acide hyaluronique](https://www.nellcreations.com/products/serum-desalterant-30ml-certifie-bio): Ce sérum désaltérant Avril contient de l acide hyaluronique végétal et de l aloe vera bio. Sa texture légère hydrate la peau sans laisser de film gras.
-  Updated: 2026-06-24T14:57:07Z
+  Updated: 2026-08-02T20:20:58Z
   Vendor: Nellcréations
   Product Type: sérum visage désaltérant
   Availability: Available
@@ -95,14 +95,14 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/masque-visage-nourrissant-avril-tube-dun-rose-peche-912.webp?v=1780330893
   Price: 2,00 € EUR
 - [Masque énergisant Avril éclat visage anti fatigue](https://www.nellcreations.com/products/masque-visage-energisant-coup-d-eclat-50-ml-certifie-bio): Ce masque visage Avril apporte une dose d'énergie pour atténuer les signes de fatigue. Sa formule aux ingrédients naturels convient aux peaux sensibles.
-  Updated: 2026-06-24T14:06:06Z
+  Updated: 2026-07-25T14:22:56Z
   Vendor: Nellcréations
   Product Type: masque visage énergisant et coup d'éclat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/masque-energisant-et-coup-declat-avril-visage-tube-couleur-abricot-418.webp?v=1780330903
   Price: 2,00 € EUR
 - [Masque visage purifiant Avril bio peaux grasses](https://www.nellcreations.com/products/masque-visage-purifiant-50ml-certifie-bio): Ce masque visage purifiant Avril pour peaux normales à grasses contient des argiles blanches et rouges ainsi que de l'eau florale de camomille romaine bio.
-  Updated: 2026-06-24T14:06:06Z
+  Updated: 2026-07-25T14:23:26Z
   Vendor: Nellcréations
   Product Type: masque purifiant
   Availability: Available
@@ -123,14 +123,14 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/savon-a-raser-multi-usages-saponifie-froid-avril-boite-rectangulaire-794.webp?v=1780330928
   Price: 2,80 € EUR
 - [Crème visage corps Avril bio karité aloé vera hydratante](https://www.nellcreations.com/products/creme-visage-corps-200-ml-certifiee-bio): Cette crème hydratante Avril pour visage et corps contient du beurre de karité et de l'aloé vera bio. Elle nourrit la peau sèche de toute la famille dès trois ans.
-  Updated: 2026-06-24T14:06:06Z
+  Updated: 2026-07-21T14:00:12Z
   Vendor: Nellcréations
   Product Type: Crème visage et corps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/creme-visage-et-corps-avril-tube-bleu-clair-899.webp?v=1780330936
   Price: 8,00 € EUR
 - [Gel Aloé Vera Avril Soin Bio Corps Visage Cheveux](https://www.nellcreations.com/products/gel-d-aloe-vera-150-ml-certifie-bio): Le gel d aloe vera certifié bio Avril apaise le corps, le visage et les cheveux. Ce soin testé sous contrôle dermatologique convient à tous les types de peaux.
-  Updated: 2026-06-24T14:06:06Z
+  Updated: 2026-07-25T14:28:17Z
   Vendor: Nellcréations
   Product Type: gel aloe vera
   Availability: Available
@@ -156,7 +156,7 @@
     Availability: Available
     Price: 2,00 € EUR
 - [Base teint matifiante Avril bio lisse pores visage](https://www.nellcreations.com/products/base-de-teint-matifiante-30-ml-certifiee-bio): La base de teint matifiante Avril certifiée bio lisse la peau et réduit les pores. Sa formule non grasse unifie le teint et prépare le visage au maquillage.
-  Updated: 2026-06-24T14:06:07Z
+  Updated: 2026-07-24T15:58:46Z
   Vendor: Nellcréations
   Product Type: Base de teint matifiante
   Availability: Available
@@ -205,157 +205,136 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gummies-anti-ballonnements-epycure-complement-alimentaire-pochon-vert-270.webp?v=1780331116
   Price: 25,00 € EUR
 - [Gel raffermissant corps prêle lierre tonifiant](https://www.nellcreations.com/products/gel-raffermissant): Ce gel raffermissant Nellcréations contient des extraits de prêle, de lierre et du collagène marin. Ses actifs favorisent l'élasticité, la souplesse et le tonus.
-  Updated: 2026-07-15T15:58:28Z
+  Updated: 2026-07-21T22:30:42Z
   Vendor: Nellcréations
   Product Type: Soin corps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gel-raffermissant-nellcreations-soin-corps-flacon-blanc-contours-835.webp?v=1780331124
-  Price: 27,00 € EUR
+  Price: 36,00 € EUR
 - [Gel amincissant thermo actif raffermissant corps](https://www.nellcreations.com/products/gel-thermo-amincissant-nellcreations): Ce gel thermo amincissant contient de la caféine et du lierre. Ses actifs chauffants favorisent la lipolyse et le raffermissement pour une peau lisse et tonifiée.
-  Updated: 2026-07-15T15:59:13Z
+  Updated: 2026-07-21T22:31:01Z
   Vendor: Nellcréations
   Product Type: Soin corps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gel-thermo-amincissant-nellcreations-soin-corps-bouteille-cylindrique-450.webp?v=1780331137
-  Price: 26,25 € EUR
+  Price: 35,00 € EUR
 - [Lait hydratant fleur de coton soin corps nourrissant](https://www.nellcreations.com/products/lait-hydratant-fleur-de-coton): Ce lait hydratant Nellcréations contient de huile amande douce et du jus aloe vera bio. La formule nourrit la peau et apporte de la vitamine E anti-oxydante.
-  Updated: 2026-07-15T15:59:19Z
+  Updated: 2026-07-21T22:31:38Z
   Vendor: Nellcréations
   Product Type: Soin corps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/lait-hydratant-fleur-de-coton-nellcreations-soin-corps-bouteille-230.webp?v=1780331148
-  Price: 11,25 € EUR
+  Price: 15,00 € EUR
 - [Bouquet parfumé nuage de coton diffuseur fleur](https://www.nellcreations.com/products/bouquet-parfume-nuage-de-coton): Ce diffuseur de parfum Nellcréations imprègne des tiges de rotin pour libérer une senteur de fleur de coton. Ce flacon assure une diffusion constante et durable.
-  Updated: 2026-07-15T15:59:27Z
+  Updated: 2026-07-21T22:31:43Z
   Vendor: Nellcréations
   Product Type: Diffuseur de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/bouquet-parfume-nuage-de-coton-nellcreations-diffuseur-parfum-498.webp?v=1780331155
-  Price: 18,00 € EUR
+  Price: 24,00 € EUR
 - [Parfum ambiance nuage coton pour maison douce](https://www.nellcreations.com/products/parfum-dambiance-nuage-de-coton): Ce parfum d ambiance Nellcréations à la fleur de coton diffuse une senteur légère dans la maison. Ce vaporisateur crée une atmosphère par simple pulvérisation.
-  Updated: 2026-07-15T15:59:59Z
+  Updated: 2026-07-21T22:32:01Z
   Vendor: Nellcréations
   Product Type: Parfum d'ambiance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/parfum-dambiance-nuage-de-coton-nellcreations-flacon-verre-346.webp?v=1780331163
-  Price: 11,25 € EUR
+  Price: 15,00 € EUR
 - [Draineur minceur thé pêche élimination naturelle](https://www.nellcreations.com/products/draineur-elimination-arome-the-peche): Ce draineur aux dix extraits de plantes et arôme thé pêche favorise l'élimination de l'eau. Le thé de java et le fenouil soutiennent les fonctions urinaires.
-  Updated: 2026-07-15T16:00:30Z
+  Updated: 2026-07-21T22:32:24Z
   Vendor: Nellcréations
   Product Type: Complément alimentaire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/draineur-elimination-arome-the-peche-nellcreations-complement-792.webp?v=1780331172
-  Price: 29,25 € EUR
+  Price: 39,00 € EUR
 - [Boucles d'oreilles Pétale de Rosée en résine fleurie](https://www.nellcreations.com/products/boucles-doreilles-petales-rose-nellcreations): Ces boucles d'oreilles botaniques présentent des pétales de fleurs naturelles sous résine. La monture en acier inoxydable mesure 2 cm. Ce bijou résiste à l'eau.
-  Updated: 2026-07-15T16:01:06Z
+  Updated: 2026-07-21T22:32:42Z
   Vendor: Nellcréations
   Product Type: Bijoux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/boucles-doreilles-petale-de-rosee-nellcreations-bijoux-doreilles-320.webp?v=1780330609
-  Price: 12,00 € EUR
+  Price: 16,00 € EUR
 - [Bougie parfumée Nuage de Coton senteur linge frais](https://www.nellcreations.com/products/bougie-100-vegetale-nuage-de-coton): Cette bougie Nuage de Coton Nellcréations en cire végétale diffuse un parfum de linge propre. Sa mèche en coton assure une combustion sans paraffine ni minéraux.
-  Updated: 2026-07-15T16:01:41Z
+  Updated: 2026-07-21T22:33:03Z
   Vendor: Nellcréations
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/bougie-parfumee-nuage-de-coton-nellcreations-soja-blanche-cremeuse-108.webp?v=1780331215
-  Price: 24,75 € EUR
+  Price: 33,00 € EUR
 - [Collier Rosa Rouge en fleur naturelle et résine](https://www.nellcreations.com/products/collier-rosa-rouge): Ce collier Rosa Rouge contient une fleur naturelle séchée sous résine. Le médaillon et la chaîne de 50 cm sont en acier inoxydable antiallergique et résistant.
-  Updated: 2026-07-15T16:01:26Z
+  Updated: 2026-07-21T22:33:16Z
   Vendor: Nellcréations
   Product Type: Bijoux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/collier-rosa-rouge-nellcreations-bijoux-pendentif-circulaire-cadre-410.webp?v=1780330621
-  Price: 14,25 € EUR
+  Price: 19,00 € EUR
 - [Collier Rosa Cristal Bijou Botanique Fleur Résine](https://www.nellcreations.com/products/collier-rosa-cristal): Le collier Rosa Cristal présente une fleur naturelle séchée sous résine UV avec des strass roses. Ce bijou botanique fait main appartient à la marque Nellcréations.
-  Updated: 2026-07-15T16:02:02Z
+  Updated: 2026-07-21T22:33:30Z
   Vendor: Nellcréations
   Product Type: Bijoux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/collier-rosa-cristal-nellcreations-bijoux-delicat-chaine-argentee-306.webp?v=1780330629
-  Price: 14,25 € EUR
+  Price: 19,00 € EUR
 - [Collier Rosa Rouge Éclat Bijou Artisanal Résine Strass](https://www.nellcreations.com/products/collier-rosa-rouge-eclat-nellcreations): Le collier Rosa Rouge Éclat contient une fleur naturelle séchée sous résine. Ce bijou en acier inoxydable mesure deux centimètres et résiste à l'eau.
-  Updated: 2026-07-15T16:01:58Z
+  Updated: 2026-07-21T22:33:47Z
   Vendor: Nellcréations
   Product Type: Bijoux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/collier-rosa-rouge-eclat-nellcreations-bijoux-delicat-chaine-argentee-879.webp?v=1780330638
-  Price: 14,25 € EUR
+  Price: 19,00 € EUR
 - [Collier Jardin Éternel Bleu avec fleurs naturelles](https://www.nellcreations.com/products/collier-fleurs-bleues): Ce médaillon en acier inoxydable contient des fleurs bleues naturelles séchées sous résine. Le bijou fait main possède une chaîne de 50 cm résistante à l'eau.
-  Updated: 2026-07-15T16:02:28Z
+  Updated: 2026-07-21T22:33:59Z
   Vendor: Nellcréations
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/collier-jardin-eternel-bleu-nellcreations-delicat-chaine-dargent-419.webp?v=1780330645
-  Price: 14,25 € EUR
+  Price: 19,00 € EUR
 - [Boucles oreilles Jardin Éternel Bleu fleurs résine](https://www.nellcreations.com/products/boucles-doreilles-jardin-eternel-bleu-nellcreations): Ces boucles d oreilles botaniques Jardin Éternel Bleu présentent des pétales de fleurs naturelles sous résine. Les montures en acier inoxydable mesurent 2 cm.
-  Updated: 2026-07-15T16:02:26Z
+  Updated: 2026-07-21T22:34:07Z
   Vendor: Nellcréations
   Product Type: Bijoux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/boucles-doreilles-jardin-eternel-bleu-nellcreations-bijoux-873.webp?v=1780330654
-  Price: 12,00 € EUR
-- [Boucles oreilles Pétales été en fleurs naturelles](https://www.nellcreations.com/products/boucles-d-oreilles-petales-dete-nellcreations): Ces boucles d'oreilles botaniques présentent des pétales de fleurs naturelles sous résine. La monture en acier inoxydable mesure 2 cm. Chaque bijou est unique.
-  Updated: 2026-07-15T16:02:33Z
-  Vendor: Nellcréations
-  Product Type: Boucles d'oreilles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/boucles-doreilles-petales-dete-nellcreations-doreilles-pendantes-721.webp?v=1780330668
-  Price: 12,00 € EUR
-- [Collier Pétales d été Bijou Fleurs Bleues Résine](https://www.nellcreations.com/products/collier-petales-dete-nellcreations): Ce collier artisanal en acier inoxydable contient des fleurs bleues séchées sous résine. Le médaillon de 2 cm et la chaîne de 50 cm résistent à l eau.
-  Updated: 2026-07-15T16:03:17Z
-  Vendor: Nellcréations
-  Product Type: Collier
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/collier-petales-dete-nellcreations-delicat-cou-argent-pendentif-459.webp?v=1780330681
-  Price: 14,25 € EUR
+  Price: 16,00 € EUR
 - [Boucles oreilles Poussière fée fleurs sous résine](https://www.nellcreations.com/products/boucles-doreilles-poussiere-de-fee-nellcreations): Ces boucles d oreilles botaniques contiennent des pétales de fleurs naturelles sous résine. Les montures en acier inoxydable mesurent 2 cm de diamètre.fr
-  Updated: 2026-07-15T16:03:12Z
+  Updated: 2026-07-21T22:34:33Z
   Vendor: Nellcréations
   Product Type: Boucles d'oreilles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/boucles-doreilles-poussiere-de-fee-nellcreations-doreilles-resine-778.webp?v=1780330689
-  Price: 12,00 € EUR
-- [Boucles d’oreilles Douceur du printemps en fleurs](https://www.nellcreations.com/products/boucles-doreilles-douceur-du-printemps): Ces boucles doreilles botaniques Nellcréations contiennent des pétales de fleurs naturelles sous résine et une monture en acier inoxydable de deux centimètres.
-  Updated: 2026-07-15T16:03:17Z
-  Vendor: Nellcréations
-  Product Type: Boucles d'oreilles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/boucles-doreilles-douceur-du-printemps-nellcreations-doreilles-992.webp?v=1780330702
-  Price: 12,00 € EUR
+  Price: 16,00 € EUR
 - [Pack Minceur aux trois soins cosmétiques raffermissants](https://www.nellcreations.com/products/pack-minceur): Le Pack Minceur Nellcréations contient trois soins ciblés. Le gel raffermissant tonifie la peau. Le thermo amincissant brûle les graisses. Le draineur évacue l'eau.
-  Updated: 2026-07-15T16:03:17Z
+  Updated: 2026-07-21T22:34:47Z
   Vendor: Nellcréations
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/pack-minceur-nellcreations-trois-flacons-plastique-blancs-etiquettes-454.webp?v=1780331253
-  Price: 66,00 € EUR
+  Price: 88,00 € EUR
 
 ## Collections
 
 - [Compléments alimentaires - Naturels - Epycure](https://www.nellcreations.com/collections/minceur): Nellcréations propose la gamme Epycure avec des compléments alimentaires naturels comme les gummies anti ballonnements et les cures perte de poids pour la santé.
-  Updated: 2026-07-02T11:24:27Z
+  Updated: 2026-07-21T09:31:26Z
   Total Products: 2
 - [Avril cosmétiques](https://www.nellcreations.com/collections/soin-visage-avril): Nellcréations propose la gamme Avril cosmétiques incluant des soins du visage, du corps et du maquillage bio comme la BB crème, le sérum lissant ou le gommage.
-  Updated: 2026-07-08T11:21:11Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 25
 - [Nellcréations - Gamme ambiance](https://www.nellcreations.com/collections/nellcreations-gamme-ambiance): La collection ambiance Nellcréations propose des bouquets parfumés, bougies et parfums pour la maison au parfum nuage de coton pour créer une atmosphère douce.
-  Updated: 2026-07-15T15:39:50Z
+  Updated: 2026-07-21T22:13:31Z
   Total Products: 3
 - [Nellcréations - Gamme minceur et corps](https://www.nellcreations.com/collections/nellcreations-gamme-minceur-et-corps): La collection Nellcréations propose un draineur au thé pêche, un lait à la fleur de coton, des gels amincissants et un pack minceur pour le soin du corps complet.
-  Updated: 2026-07-15T15:39:54Z
+  Updated: 2026-07-21T22:13:35Z
   Total Products: 6
 - [Bijoux](https://www.nellcreations.com/collections/nouveaute-chez-nellcreations): Nellcréations propose une collection de bijoux artisanaux incluant des colliers et boucles d’oreilles aux thèmes floraux comme Rosa Rouge ou Jardin Éternel Bleu.
-  Updated: 2026-07-15T15:39:54Z
-  Total Products: 10
+  Updated: 2026-07-21T22:13:35Z
+  Total Products: 7
 - [Nellcréations](https://www.nellcreations.com/collections/nellcreations): Nellcréations propose une gamme de soins incluant lait hydratant, gels amincissants et packs minceur ainsi que des bougies et parfums d'ambiance au nuage de coton.
-  Updated: 2026-07-15T15:39:54Z
+  Updated: 2026-07-21T22:13:35Z
   Total Products: 9
 - [Meilleurs ventes](https://www.nellcreations.com/collections/meilleurs-ventes): La collection Meilleurs ventes de Nellcréations propose des soins Avril comme le gel nettoyant et des produits exclusifs tels que le draineur ou le gel fermeté.
-  Updated: 2026-07-15T15:39:49Z
-  Total Products: 7
+  Updated: 2026-07-28T11:26:26Z
+  Total Products: 10
 - [New! Shopify performance sharing is now turned on](https://www.nellcreations.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-07-15T15:39:54Z
+  Updated: 2026-07-28T11:26:26Z
   Total Products: 48
 
 ## Blogs
@@ -396,11 +375,19 @@
     Updated: 2026-07-01T16:38:03Z
     Author: Annie Grégoire
     Tags: alternatives naturelles, bien-être femme, bouffées de chaleur, ménopause, THM, traitement hormonal
+  - [Rehaussement de cils : durée et entretien | Nellcréations](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/rehaussement-de-cils-duree-entretien-et-conseils-pour-un-regard-parfait): Rehaussement de cils : durée et entretien | Nellcréations
+    Updated: 2026-07-21T15:51:17Z
+    Author: Annie Grégoire
+    Tags: beauté regard, conseils beauté, entretien cils, lash lift, rehaussement de cils, soin cils
 - [Bijoux et créations](https://www.nellcreations.com/blogs/bijoux-et-creations)
   - [Bijoux résine fleurs séchées artisanaux uniques](https://www.nellcreations.com/blogs/bijoux-et-creations/bijoux-fantaisies-resine-uv-fleurs-sechees): Bijoux résine fleurs séchées artisanaux uniques
     Updated: 2026-06-15T14:31:22Z
     Author: Annie Grégoire
     Tags: artisanat, bijoux, cadeau, fait main, fleurs séchées, résine UV
+  - [Comment entretenir vos bijoux en résine UV | Nellcréations](https://www.nellcreations.com/blogs/bijoux-et-creations/comment-entretenir-vos-bijoux-en-resine-uv-pour-les-garder-beaux-longtemps): Comment entretenir vos bijoux en résine UV | Nellcréations
+    Updated: 2026-07-21T15:56:02Z
+    Author: Annie Grégoire
+    Tags: bijoux artisanaux, bijoux résine, conseils, entretien bijoux, résine UV
 
 ## Store Pages
 
@@ -417,9 +404,7 @@
 - [Bijoux fantaisies en résine et fleurs séchées](https://www.nellcreations.com/pages/bijoux-fantaisies-faits-main-en-resine-uv-et-fleurs-sechees): Laissez une émotion prendre forme dans un bijou unique Vous imaginez un bijou qui ne ressemble à aucun autre… une création délicate, façonnée à la ...
   Updated: 2026-06-15T14:32:20Z
 - [Offres du moment soins exclusifs beauté bien être](https://www.nellcreations.com/pages/offres-du-moment): ✨ Le soin inédit du mois Chaque mois, Le salon de beauté Nellcréations vous propose un soin exclusif, imaginé pour sublimer votre peau et vous offr...
-  Updated: 2026-07-01T16:36:40Z
-- [Devenir revendeur de créations naturelles bien-être](https://www.nellcreations.com/pages/devenir-revendeurs): Rejoignez le réseau de revendeurs Nellcréations Vous êtes boutique, concept store, spa, institut de beauté ou professionnel du bien-être ? Proposez...
-  Updated: 2026-07-08T00:44:06Z
+  Updated: 2026-07-21T14:53:11Z
 
 ## Policies
 
