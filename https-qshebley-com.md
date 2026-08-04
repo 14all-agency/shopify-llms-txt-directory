@@ -9,574 +9,574 @@
 - Created At: 2014-06-06T22:31:25Z
 - Contact Email: info@shopqbyqs.com
 - Contact Phone: 18883188144
-- Updated At: 2026-07-04T00:01:16.202Z
+- Updated At: 2026-08-04T00:01:10.864Z
 
 Que Shebley is an independent artisan brand specializing in handcrafted footwear. We provide a human-connected alternative to mass-market luxury, offering superior craftsmanship and a unique rationale for Millennial and Gen X shoppers who value quality over brand names. Our heritage is rooted in Lebanese craftsmanship, moving to the beat of our own drum to provide truly unique dress shoes and boots.
 
 ## Products
 
 - [Chalky W Balmoral Boots for Men Dress Styles](https://qshebley.com/products/the-chalky-w-boots): Chalky W Balmoral Boots showcase a sophisticated design with closed channel lacing, offering timeless elegance for formal occasions and a polished appearance.
-  Updated: 2026-07-01T14:32:03Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/chalky-w-balmoral-boots-men-dress-brown-leather-lace-up-216.webp?v=1760104322
   Price: $650.00 USD
 - [Juliano Chukka Men Dress Boots for Stylish Elegance](https://qshebley.com/products/juliano-chukka): Juliano Chukka offers a stylish blend of comfort and versatility in handmade dress boots, featuring camel lux suede and brown calf leather for a confident look.
-  Updated: 2026-07-01T14:32:01Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/juliano-chukka-men-dress-boots-two-toned-suede-leather-512.webp?v=1760104396
   Price: $450.00 USD
 - [Dealer Oxford Dress Shoe  Save on Stylish Footwear](https://qshebley.com/products/dealer-oxford-shoe): Dealer Oxford Dress Shoe features a timeless design with closed lacing and elegant details, ideal for any occasion while showcasing minor imperfections.
-  Updated: 2026-07-01T14:32:02Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/dealer-oxford-dress-shoe-sample-eu-43-us-10--two-tone-leather-228.webp?v=1741883541
   Price: $224.97 USD
 - [Elegance Wholecut Sample  Now Available Online](https://qshebley.com/products/touched-by-elegance-dress-shoe): Touched by Elegance Wholecut sample features a sleek design with closed channel lacing, crafted from a single cut of leather for ultimate sophistication.
-  Updated: 2026-07-01T14:32:03Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/touched-by-elegance-wholecut-sample-eu-43-us-10--pair-brown-986.webp?v=1741883556
   Price: $224.97 USD
 - [Alexander Loafers in Black Painted Calf Herringbone](https://qshebley.com/products/alexander-loafers): Alexander Loafers offer timeless style and comfort, crafted with Herringbone Sartorial and Black Painted Calf leather for a sophisticated look.
-  Updated: 2026-07-01T14:32:03Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/alexander-loafers-men-dress-shoes-gray-herringbone-tassel-396.webp?v=1760104449
   Price: $450.00 USD
 - [Ceaser Single Monk Shoes for Men - Stylish Option](https://qshebley.com/products/ceaser-single-monk): Ceaser Single Monk features a stylish single strap with a buckle, crafted from croco dark brown leather and beige calf leather, ensuring comfort and sophistication.
-  Updated: 2026-07-01T14:32:02Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/ceaser-single-monk-men-dress-shoes-brown-crocodile-patterned-strap-796.webp?v=1760104508
   Price: $450.00 USD
 - [Gandhi Patina Double Monk Shoes for Elegant Style](https://qshebley.com/products/gandhi-patina-double-monk-shoes): Gandhi Patina Double Monk Shoes showcase an elegant design with brown flannel and crust patina leather, combining modern style with classic sophistication.
-  Updated: 2026-07-01T14:32:03Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/gandhi-patina-double-monk-shoes-men-dress-brown-leather-strap-135.webp?v=1760106372
   Price: $550.00 USD
 - [Peter Double Monk Croco Shoes for Men Dress Attire](https://qshebley.com/products/peter-double-monk-croco-shoes): Peter Double Monk Croco Shoes feature two stylish straps, combining modern elegance with classic design. Ideal for men seeking fashion-forward footwear.
-  Updated: 2026-07-01T14:32:03Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/peter-double-monk-croco-shoes-men-dress-brown-leather-tweed-strap-938.webp?v=1760106488
   Price: $450.00 USD
 - [Abraham Double Monk Patina Shoes for Men](https://qshebley.com/products/abraham-double-monk-patina-shoes): Abraham Double Monk Patina shoes feature two elegant straps, crafted in Croco Brown and Navy Calf Leather, offering a modern twist on classic dress footwear.
-  Updated: 2026-07-01T14:32:07Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/abraham-double-monk-patina-shoes-men-dress-brown-leather-strap-780.webp?v=1760106763
   Price: $550.00 USD
 - [Azzedine Oxford Shoes for Men Dress Shoes](https://qshebley.com/products/azzedine-oxford-shoes): Azzedine Oxford Shoes feature a classic closed lacing style, crafted from tan calf leather with a brown leather sole, perfect for any occasion.
-  Updated: 2026-07-01T14:32:07Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/azzedine-oxford-shoes-men-dress-brown-tweed-951.webp?v=1760106861
   Price: $450.00 USD
 - [Pierre Military Brogue Boots for Timeless Style](https://qshebley.com/products/pierre-military-brogue-boots): Pierre Military Brogue Boots blend rugged durability with refined style, featuring a brogue pattern, tweed sartorial, and dark brown calf leather for a classic look.
-  Updated: 2026-07-01T14:32:07Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/pierre-military-brogue-boots-men-dress-brown-leather-tweed-327.webp?v=1760106952
   Price: $450.00 USD
 - [Bowie High Top Sneakers in Painted Calf Leather](https://qshebley.com/products/bowie-high-top-sneakers): Bowie High Top Sneakers feature a classic high-top design crafted from painted calf leather, offering style and comfort for casual wear with a chic cupsole.
-  Updated: 2026-07-01T14:32:07Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/bowie-high-top-sneakers-men-casual-shoes-two-tone-leather-high-top-748.webp?v=1760107140
   Price: $350.00 USD
 - [Jackson Chukka Boots for Men Dress Style](https://qshebley.com/products/jackson-chukka-boots): Jackson Chukka boots feature dark brown lux suede and beige calf leather, offering comfort and versatility for a stylish yet casual look.
-  Updated: 2026-07-01T14:32:07Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/jackson-chukka-boots-men-dress-brown-suede-343.webp?v=1760107440
   Price: $450.00 USD
 - [Testino Derby Shoes for Elegant Men's Attire](https://qshebley.com/products/testino): Testino Derby shoes feature a classic open lacing design in dark brown calf leather, offering versatility for both casual and formal attire.
-  Updated: 2026-07-01T14:32:12Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/testino-derby-shoes-men-dress-brown-leather-white-733.webp?v=1760107638
   Price: $450.00 USD
 - [Bourdin Full Brogue Shoes for Elegant Dress Style](https://qshebley.com/products/bourdin-full-brogue-shoes): Bourdin Full Brogue Shoes are classic dress shoes featuring a distinctive brogue pattern, crafted from dark brown calf leather for timeless elegance and style.
-  Updated: 2026-07-01T14:32:10Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/bourdin-full-brogue-shoes-men-dress-brown-leather-wingtip-778.webp?v=1741883791
   Price: $450.00 USD
 - [Avidon Loafers for Comfortable Stylish Footwear](https://qshebley.com/products/avidon-loafers): Avidon Loafers feature a classic design with a rounded toe, crafted from cognac box calf and beige calf leather for exceptional comfort and style. Shipping may vary.
-  Updated: 2026-07-01T14:32:11Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/avidon-loafers-men-dress-shoes-tweed-tassel-127.webp?v=1760111399
   Price: $450.00 USD
 - [Rudi Longwing Blucher in Brown Lux Suede](https://qshebley.com/products/rudi): Rudi Longwing Blucher offers a unique blend of style and sophistication with medium and dark brown Lux suede, perfect for formal occasions and office wear.
-  Updated: 2026-07-01T14:32:12Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/rudi-longwing-blucher-men-casual-shoes-two-tone-leather-wingtip-183.webp?v=1760111600
   Price: $450.00 USD
 - [Bardot Belgian Sneaker in Calf Leather for Men](https://qshebley.com/products/bardot-belgian-sneaker): The Bardot Belgian Sneaker combines the elegance of a Belgian loafer with the comfort of a sneaker, featuring brown calf leather and a durable cupsole.
-  Updated: 2026-07-01T14:32:12Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/bardot-belgian-sneaker-men-casual-shoes-beige-tassel-loafers-white-856.webp?v=1760112060
   Price: $350.00 USD
 - [Lloyd Wholecut Patina Shoes for Elegant Men](https://qshebley.com/products/lloyd-wholecut-patina-shoes): Lloyd Wholecut Patina shoes feature a sleek design in Cognac Crust Patina brown calf leather, offering elegance and sophistication for formal occasions.
-  Updated: 2026-07-01T14:32:12Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/lloyd-wholecut-patina-shoes-men-dress-brown-leather-150.webp?v=1760112205
   Price: $550.00 USD
 - [Dilya Double Monk Patina Men Dress Shoes Online](https://qshebley.com/products/dilya-double-monk-patina): Dilya Double Monk Patina features two straps, cognac Marble patina, and brown calf leather, offering a modern twist on classic elegance in men's fashion.
-  Updated: 2026-07-01T14:32:17Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/dilya-double-monk-patina-men-dress-shoes-brown-leather-strap-659.webp?v=1760112276
   Price: $550.00 USD
 - [Jabrann Single Monk Shoes in Medium Brown Color](https://qshebley.com/products/jabrann-single-monk): Jabrann Single Monk features a stylish single strap design in med brown lux suede and navy calf leather, offering comfort and modern sophistication for men.
-  Updated: 2026-07-01T14:32:17Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/jabrann-single-monk-men-dress-shoes-brown-leather-strap-598.webp?v=1760112372
   Price: $450.00 USD
 - [Shakspear Single Monk Stylish Men's Dress Shoes](https://qshebley.com/products/shakspear-single-monk): Shakspear Single Monk features a sleek design with khaki lux suede and navy painted calf, offering comfort and style for any occasion. Perfect for modern men.
-  Updated: 2026-07-01T14:32:17Z
+  Updated: 2026-08-02T14:59:34Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/shakspear-single-monk-men-dress-shoes-two-tone-strap-719.webp?v=1760112438
   Price: $450.00 USD
 - [Eisen Military Brogue Boots for Men Dress Style](https://qshebley.com/products/eisen-military-boots): Eisen Military Brogue Boots feature a striking brogue pattern and sturdy construction, blending ruggedness with refinement for every man's wardrobe.
-  Updated: 2026-07-01T14:32:17Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/eisen-military-brogue-boots-men-dress-brown-leather-tweed-wingtip-614.webp?v=1760112491
   Price: $450.00 USD
 - [Textured Hampton Belt Perfect for Any Occasion](https://qshebley.com/products/textured-hampton-belt): The Textured Hampton Belt features timeless stitching and hardware, crafted from medium brown calf and black nubuck for a sleek, minimal look.
-  Updated: 2026-07-01T14:32:18Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/textured-hampton-belt-belts-brown-woven-leather-silver-258.webp?v=1760112747
   Price: $225.00 USD
 - [Marsille Belt in Lux Suede for Distinctive Style](https://qshebley.com/products/marsille-belt): The Marsille Belt features lux suede in grey and khaki, designed to elevate any outfit with its bold style and unique craftsmanship. Perfect for standout looks.
-  Updated: 2026-07-01T14:32:17Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/marsille-belt-belts-two-tone-leather-gold-buckle-314.webp?v=1760146178
   Price: $225.00 USD
 - [Duran Croc Hampton Belt Handcrafted for Unique Style](https://qshebley.com/products/croc-hampton-belt): The Duran Croc Hampton Belt features a stylish design, handmade craftsmanship, and unique color variations, ensuring a distinctive accessory for any outfit.
-  Updated: 2026-07-01T14:32:20Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/duran-croc-hampton-belt-belts-black-crocodile-patterned-leather-silver-966.webp?v=1760146259
   Price: $225.00 USD
 - [Hagen Single Monk Lux Suede Golf Shoes for Men](https://qshebley.com/products/single-monk-gulf-shoes): Hagen Single Monk Golf Shoes feature medium brown lux suede and navy lux suede, offering comfort and style with a distinctive single strap design.
-  Updated: 2026-07-01T14:32:21Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Gulf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/hagen-single-monk-golf-shoes-men-gulf-two-toned-strap-282.webp?v=1760198335
   Price: $475.00 USD
 - [Vardon Oxford Golf Shoes for Men Handmade Luxury](https://qshebley.com/products/oxford-golf-shoes): Vardon Oxford Golf Shoes feature handmade craftsmanship, with slight color variations and natural imperfections, ensuring a unique addition to your golf attire.
-  Updated: 2026-07-01T14:32:22Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Golf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/vardon-oxford-golf-shoes-men-two-tone-brown-leather-814.webp?v=1760198221
   Price: $475.00 USD
 - [FB Full Brogue Golf Shoes for Stylish Performance](https://qshebley.com/products/full-brogue-pebble-grain-shoes): FB Full Brogue Golf Shoes feature a handmade design with slight imperfections, providing unique style and comfort for golfers. Color variations may occur.
-  Updated: 2026-07-01T14:32:22Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Golf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/fb-full-brogue-golf-shoes-men-tricolored-leather-914.webp?v=1760198183
   Price: $475.00 USD
 - [XO Double Monk Patina Stylish Men's Dress Shoes](https://qshebley.com/products/xo-double-monk): XO Double Monk Patina offers a modern twist with grey and cognac crust patina on brown calf leather, featuring a classic elegance and slightly square toe design.
-  Updated: 2026-07-01T14:32:21Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/xo-double-monk-patina-men-dress-shoes-brown-leather-strap-857.webp?v=1760146587
   Price: $550.00 USD
 - [WT Full Brogue Patina Dress Shoes for Men](https://qshebley.com/products/wt-full-brogue): WT Full Brogue Patina dress shoes feature a classic brogue pattern and premium leather options, making them an essential addition to any man's footwear collection.
-  Updated: 2026-07-01T14:32:22Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/wt-full-brogue-patina-men-dress-shoes-two-tone-leather-wingtip-641.webp?v=1760146687
   Price: $550.00 USD
 - [NY Full Brogue Patina Dress Shoes for Men](https://qshebley.com/products/ny-full-brogue): NY Full Brogue Patina dress shoes feature a classic wingtip design in dark brown painted calf and cognac crust patina, ideal for any sophisticated wardrobe.
-  Updated: 2026-07-01T14:32:27Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/ny-full-brogue-patina-men-dress-shoes-two-toned-brown-leather-wingtip-253.webp?v=1760146785
   Price: $550.00 USD
 - [T Hardy Derby Shoes for Elegant Men’s Fashion](https://qshebley.com/products/t-hardy-derby-shoes): T Hardy Derby Shoes offer a timeless design with an open lacing system, crafted from cognac crust patina brown calf leather, suitable for both casual and formal occasions.
-  Updated: 2026-07-01T14:32:27Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/t-hardy-derby-shoes-men-dress-brown-leather-923.webp?v=1760146845
   Price: $550.00 USD
 - [J Milton Longwing Blucher Casual Shoes for Men](https://qshebley.com/products/j-milton-longwing-blucher): The J Milton Longwing Blucher features a unique design with brogue detailing, making it suitable for both formal occasions and office wear. Available in various colors.
-  Updated: 2026-07-01T14:32:27Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/j-milton-longwing-blucher-men-casual-shoes-black-gray-patent-leather-744.webp?v=1760146892
   Price: $450.00 USD
 - [Mina Sartorial Single Monk Dress Shoes for Men](https://qshebley.com/products/sartorial-single-monk): Mina Sartorial single monk features a sleek design with black painted calf leather and a comfortable fit, making it a stylish staple in men's dress shoes.
-  Updated: 2026-07-01T14:32:27Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/mina-sartorial-single-monk-men-dress-shoes-pair-black-leather-tweed-569.webp?v=1760146945
   Price: $450.00 USD
 - [JT Chelsea Patina Boots for Elegant Men's Style](https://qshebley.com/products/jt-chelsea-patina-boots): JT Chelsea Patina Boots offer a timeless blend of style and versatility, crafted from grey crust and black calf leather for a polished look in any setting.
-  Updated: 2026-07-01T14:32:27Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/jt-chelsea-patina-boots-men-dress-pair-black-leather-117.webp?v=1760147066
   Price: $650.00 USD
 - [Ineffable Double Monk Shoes for Men in Stylish Design](https://qshebley.com/products/ineffable-double-monk): Ineffable Double Monk shoes feature two stylish straps, combining modern elegance with traditional craftsmanship in flannel dark grey and black calf leather.
-  Updated: 2026-07-01T14:32:27Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/ineffable-double-monk-men-dress-shoes-pair-mens-strap-562.webp?v=1760147303
   Price: $450.00 USD
 - [LH Double Monk Shoes in Elegant Monk Patina Finish](https://qshebley.com/products/lh-double-monk): LH Double Monk shoes feature a sleek design with a denim crust patina or black calf leather, offering a modern twist on classic elegance for stylish men.
-  Updated: 2026-07-01T14:32:32Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/lh-double-monk-men-dress-shoes-blue-leather-strap-691.webp?v=1760147531
   Price: $550.00 USD
 - [Gent Double Monk Shoes in Modern Elegant Style](https://qshebley.com/products/gent-double-monk): Gent Double Monk shoes combine modern elegance with classic design, featuring two stylish straps in nailhead sartorial and luxurious materials for refined sophistication.
-  Updated: 2026-07-01T14:32:32Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/gent-double-monk-men-dress-shoes-pair-mens-strap-509.webp?v=1760147582
   Price: $450.00 USD
 - [Emperor Chelsea Suede Boot for Elegant Style](https://qshebley.com/products/emperor-chelsea-suede-boot): Emperor Chelsea Suede Boot offers timeless elegance with dark brown lux suede and brown leather sole. A versatile choice for both formal and casual styles.
-  Updated: 2026-07-01T14:32:32Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/emperor-chelsea-suede-boot-men-dress-boots-two-tone-leather-908.webp?v=1760147681
   Price: $450.00 USD
 - [GI Double Monk Patina Dress Shoes for Men](https://qshebley.com/products/gi-double-monk-patina): GI Double Monk Patina offers a modern twist on classic elegance with its brown camo patina, leather sole, and stylish double monk strap design.
-  Updated: 2026-07-01T14:32:32Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/gi-double-monk-patina-men-dress-shoes-camo-patterned-leather-strap-218.webp?v=1760147766
   Price: $550.00 USD
 - [Elegant GO Jodpur Boots for Men Dress Collection](https://qshebley.com/products/go-jodpur-boots): GO Jodpur Boots feature an equestrian-inspired design with a strap-and-buckle fastener, crafted from sand lux suede, exemplifying classic men’s shoemaking.
-  Updated: 2026-07-01T14:32:32Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/go-jodpur-boots-men-dress-beige-leather-ankle-765.webp?v=1760147821
   Price: $450.00 USD
 - [Marlene Ladies Derby Wingtip Dress Shoes for Women](https://qshebley.com/products/marlene-derby-wingtip): Marlene Ladies Derby Wingtip features a unique long wingtip design in dark brown lux suede, perfect for formal occasions and office wear with classic elegance.
-  Updated: 2026-07-01T14:32:32Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/marlene-ladies-derby-wingtip-women-dress-shoes-brown-leather-suede-510.webp?v=1760148042
   Price: $450.00 USD
 - [GEO Jodhpur Patina Boots for Elegant Men's Dress Style](https://qshebley.com/products/geo-jodhpur-boots): GEO Jodhpur Patina Boots feature an equestrian-inspired design with a strap-and-buckle fastener and a stylish cognac crust patina, epitomizing classic men’s footwear.
-  Updated: 2026-07-01T14:32:37Z
+  Updated: 2026-08-02T14:59:33Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/geo-jodhpur-patina-boots-men-dress-brown-leather-monk-strap-394.webp?v=1760148250
   Price: $650.00 USD
 - [Testino 2 Derby Patina Casual Shoes for Men](https://qshebley.com/products/testino-2-derby): Testino 2 Derby Patina offers a timeless style with an open lacing system, crafted in denim crust and cognac crust patina, perfect for casual and formal wear.
-  Updated: 2026-07-01T14:32:37Z
+  Updated: 2026-08-02T14:59:32Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/testino-2-derby-patina-men-casual-shoes-two-toned-leather-dress-254.webp?v=1760148546
   Price: $550.00 USD
 - [Mary Woman Double Monk Stylish Dress Shoes for Women](https://qshebley.com/products/mary-double-monk): Mary Woman Double Monk shoes feature a modern design with two straps, crafted in croco brown and lux suede, offering an elegant twist on classic style.
-  Updated: 2026-07-01T14:32:37Z
+  Updated: 2026-08-02T15:17:44Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/mary-woman-double-monk-women-dress-shoes-brown-leather-strap-124.webp?v=1760149348
   Price: $450.00 USD
 - [Maryet Kiltie Unisex Monk Strap in Painted Calf](https://qshebley.com/products/mary-kilie-unisex-monk-strap): Maryet Kiltie Unisex Monk Strap features a blend of brogue details and fringes on the upper, crafted from painted calf for contemporary elegance.
-  Updated: 2026-07-01T14:32:37Z
+  Updated: 2026-08-02T15:17:43Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/maryet-kiltie-unisex-monk-strap-women-dress-shoes-pair-leather-180.webp?v=1760149464
   Price: $450.00 USD
 - [Elizabeth Ladies Brogue Boots for Elegant Style](https://qshebley.com/products/elizabeth-borgue-boots): Elizabeth Ladies Brogue Boots feature a classic silhouette with a beautiful brogue pattern, crafted from grey lux suede and calf leather for a refined yet rugged look.
-  Updated: 2026-07-01T14:32:37Z
+  Updated: 2026-08-02T15:17:43Z
   Vendor: Que Shebley
   Product Type: women dress boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/elizabeth-ladies-brogue-boots-women-dress-gray-leather-wingtip-328.webp?v=1760149607
   Price: $450.00 USD
 - [Thomas Jodhpur Boots for Elegant Men's Style](https://qshebley.com/products/thomas-jodhpur-boots): Thomas Jodhpur Boots offer an equestrian-inspired design with a strap-and-buckle fastener, representing a classic in men's footwear craftsmanship.
-  Updated: 2026-07-01T14:32:37Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/thomas-jodhpur-boots-men-dress-burgundy-suede-ankle-680.webp?v=1760149666
   Price: $450.00 USD
 - [Herodotus Jodhpur Boots for Men - Stylish Dress Footwear](https://qshebley.com/products/herodotus-jodhpur-boots): Herodotus Jodhpur Boots feature a classic equestrian design with a strap-and-buckle fastener, blending style and tradition for the modern man.
-  Updated: 2026-07-01T14:32:42Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/herodotus-jodhpur-boots-men-dress-gray-leather-ankle-778.webp?v=1760149722
   Price: $450.00 USD
 - [David Monti Chukkas for Men - Elegant Dress Boots](https://qshebley.com/products/david-monti-chukkas): David Monti Chukkas offer a blend of elegance and comfort with their unique height, crafted from premium leather, ideal for versatile, stylish dressing.
-  Updated: 2026-07-01T14:32:40Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/david-monti-chukkas-men-dress-boots-two-tone-leather-chukka-575.webp?v=1760149790
   Price: $450.00 USD
 - [Royalty Jodhpur Boots for Men Dress Style](https://qshebley.com/products/royalty-jodhpur-boots): Royalty Jodhpur Boots feature an elegant strap-and-buckle design, inspired by traditional equestrian footwear, combining style and comfort for the modern man.
-  Updated: 2026-07-01T14:32:42Z
+  Updated: 2026-08-02T15:17:46Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/royalty-jodhpur-boots-men-dress-pair-beige-ankle-157.webp?v=1760150056
   Price: $450.00 USD
 - [Commando 2 Chelsea Patina Boots for Men Casual Style](https://qshebley.com/products/commando-2-chelsea-patina-boots): Commando 2 Chelsea Patina Boots offer a polished look with grey camo patina and black calf leather, blending elegance with versatility for any occasion.
-  Updated: 2026-07-01T14:32:42Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/commando-2-chelsea-patina-boots-men-casual-shoes-camo-white-soles-194.webp?v=1760150101
   Price: $650.00 USD
 - [Tima Double Monk - Elegant Men's Dress Shoes](https://qshebley.com/products/tima-double-monk): Tima Double Monk features a stylish design with two straps, crafted from navy calf leather and a herringbone sartorial finish, perfect for modern elegance.
-  Updated: 2026-07-01T14:32:42Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/tima-double-monk-men-dress-shoes-pair-brown-leather-942.webp?v=1760150296
   Price: $450.00 USD
 - [Gina Women Double Monk Stylish Dress Shoes Online](https://qshebley.com/products/gina-women-double-monk): Gina Women Double Monk shoes feature two elegant straps, combining modern style with classic charm. Crafted from cognac polished calf and tan leather for sophistication.
-  Updated: 2026-07-01T14:32:46Z
+  Updated: 2026-08-02T15:17:45Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/gina-women-double-monk-dress-shoes-tan-tweed-strap-379.webp?v=1760150367
   Price: $450.00 USD
 - [Z Ladies Military Brogue Boot for Stylish Comfort](https://qshebley.com/products/z-women-military-brogue): Z Ladies Military Brogue combines a beautiful brogue pattern with a classic silhouette, offering a rugged yet refined look in every wardrobe.
-  Updated: 2026-07-01T14:32:46Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: women dress boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/z-ladies-military-brogue-women-dress-boots-brown-leather-tweed-wingtip-298.webp?v=1760150428
   Price: $450.00 USD
 - [Capone Patina Balmoral Boots for Men Dress Style](https://qshebley.com/products/al-capone-patina-balmoral-boots): Al Capone Patina Balmoral Boots feature a luxurious dark brown suede with a classic silhouette, exemplifying sophistication and timeless European style.
-  Updated: 2026-07-01T14:32:47Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/al-capone-patina-balmoral-boots-men-dress-brown-leather-black-suede-690.webp?v=1760150491
   Price: $650.00 USD
 - [Boss Belgian Patina Sneaker for Men Casual Style](https://qshebley.com/products/boss-belgian-patina-sneaker): Boss Belgian Patina sneaker features classic Belgian loafer design with comfortable cupsole, crafted in cognac crust patina brown calf leather for timeless style.
-  Updated: 2026-07-01T14:32:47Z
+  Updated: 2026-08-02T15:17:46Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/boss-belgian-patina-sneaker-men-casual-shoes-brown-leather-slip-103.webp?v=1760150606
   Price: $475.00 USD
 - [Julieta Woman Double Monk Stylish Dress Shoes](https://qshebley.com/products/julieta-woman-double-monk): Julieta Woman Double Monk features two elegant straps and a modern design, crafted from navy calf and orange leather with a striking turquoise sole.
-  Updated: 2026-07-01T14:32:46Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/julieta-woman-double-monk-women-dress-shoes-blue-leather-strap-375.webp?v=1760150660
   Price: $450.00 USD
 - [Mizarble Wellington Slip On Men's Dress Shoes](https://qshebley.com/products/mizarble-wellington-slip-on): Mizarble Wellington slip on shoes combine elegance and comfort with a classic design. Crafted from brown velvet and calf leather, they offer a sophisticated look.
-  Updated: 2026-07-01T14:32:47Z
+  Updated: 2026-08-02T15:17:45Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/mizarble-wellington-slip-on-men-dress-shoes-brown-suede-loafers-438.webp?v=1760150723
   Price: $425.00 USD
 - [Mizrable II Wellington Slip On Available Now](https://qshebley.com/products/mizrable-ii-wellington-slip-on): Explore Mizrable II Wellington slip-on shoes at Que Shebley. Sophisticated tan suede loafers with skull design, embodying luxury bespoke artistry for men.
-  Updated: 2026-07-01T14:32:47Z
+  Updated: 2026-08-02T15:17:43Z
   Vendor: Que Shebley
   Product Type: wholesale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/mizrable-ii-wellington-slip-on-wholesale-tan-suede-loafers-skull-587.webp?v=1760150890
   Price: $425.00 USD
 - [Sinere Full Brogue Shoes Adding to Your Cart](https://qshebley.com/products/sinere-full-brogue): Sinere Full Brogue shoes feature a classic wingtip design with a brogue pattern, available in navy lux suede and beige calf leather for timeless style.
-  Updated: 2026-07-01T14:32:49Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/sinere-full-brogue-men-casual-shoes-navy-blue-leather-suede-wingtip-225.webp?v=1760151602
   Price: $450.00 USD
 - [Azuna Double Monk Casual Shoes for Men](https://qshebley.com/products/azuna-double-monk): Azuna Double Monk features two elegant straps, cognac painted calf leather, and a rounded toe, offering a modern twist on classic men's fashion.
-  Updated: 2026-07-01T14:32:52Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/azuna-double-monk-men-casual-shoes-brown-leather-strap-629.webp?v=1760151639
   Price: $450.00 USD
 - [Toka Patina Chukkas for Stylish Men's Dress Boots](https://qshebley.com/products/toka-patina-chukkas): Toka Patina Chukkas feature unique height and comfort, blending denim crust patina and navy calf leather, perfect for versatile men's dress footwear.
-  Updated: 2026-07-01T14:32:52Z
+  Updated: 2026-08-02T15:17:46Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/toka-patina-chukkas-men-dress-boots-blue-leather-chukka-113.webp?v=1760151677
   Price: $550.00 USD
 - [Susan Kiltie Unisex Monk Strap Shoes for Women](https://qshebley.com/products/susan-kiltie-unisex-monk-strap): Susan Kiltie unisex Monk Strap features a stylish blend of brogue and kiltie design, offering unique flair in a contemporary dress shoe for women.
-  Updated: 2026-07-01T14:32:52Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/susan-kiltie-unisex-monk-strap-women-dress-shoes-pair-blue-suede-785.webp?v=1760151748
   Price: $450.00 USD
 - [Gina Kiltie Unisex Monk Strap Dress Shoes](https://qshebley.com/products/gina-kilie-unisex-monk-strap): Gina Kiltie unisex Monk Strap features a stylish blend of brogue details and classic dress monk straps, ideal for contemporary footwear choices.
-  Updated: 2026-07-01T14:32:52Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/gina-kiltie-unisex-monk-strap-women-dress-shoes-burgundy-leather-182.webp?v=1760151789
   Price: $450.00 USD
 - [Pete Patina Longwing Blucher Men Dress Shoes Online](https://qshebley.com/products/pete-patina-longwing-blucher): Pete Patina Longwing Blucher features a unique brogue design with grey crust patina and red painted calf, making it ideal for formal and office wear.
-  Updated: 2026-07-01T14:32:52Z
+  Updated: 2026-08-02T15:17:43Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/pete-patina-longwing-blucher-men-dress-shoes-pair-blue-leather-wingtip-768.webp?v=1760152093
   Price: $550.00 USD
 - [Battle Patina Chukkas Handmade Men's Dress Boots](https://qshebley.com/products/battle-patina-chukkas): Battle Patina Chukkas are handcrafted men's dress boots, showcasing unique color variations and natural imperfections for a distinctive look and style.
-  Updated: 2026-07-01T14:32:57Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/battle-patina-chukkas-men-dress-boots-camouflage-leather-chukka-122.webp?v=1760152271
   Price: $550.00 USD
 - [Star Chelsea Suede Boot for Stylish Men’s Footwear](https://qshebley.com/products/star-chelsea-suede-boot): Star Chelsea Suede Boot offers timeless elegance with its navy lux suede and red calf leather. A versatile choice for both formal and casual attire.
-  Updated: 2026-07-01T14:32:57Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/star-chelsea-suede-boot-men-dress-boots-pair-black-960.webp?v=1760152313
   Price: $450.00 USD
 - [Drew Octavian Boots for Sophisticated Style](https://qshebley.com/products/drew-octavian-boots): Drew Octavian Boots combine the elegance of monk dress shoes with boot durability, featuring a double buckle design and side zip fastening for versatility.
-  Updated: 2026-07-01T14:32:57Z
+  Updated: 2026-08-02T15:17:44Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/drew-octavian-boots-men-dress-black-leather-suede-monk-strap-840.webp?v=1760152384
   Price: $450.00 USD
 - [Johndow Double Monk Casual Shoes for Men](https://qshebley.com/products/johndow-double-monk): Johndow Double Monk shoes feature an elegant design with sand lux suede and beige calf leather, offering a modern twist on classic men’s fashion.
-  Updated: 2026-07-01T14:32:57Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/johndow-double-monk-men-casual-shoes-beige-strap-579.webp?v=1741885497
   Price: $450.00 USD
 - [Robins Loafers for Comfort and Style in Dress Shoes](https://qshebley.com/products/robins-loafers): Robins Loafers offer a blend of comfort and style, featuring a rounded toe design, premium materials, and versatile appeal for both office and weekend wear.
-  Updated: 2026-07-01T14:32:57Z
+  Updated: 2026-08-02T15:17:48Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/robins-loafers-men-dress-shoes-beige-leather-horsebit-252.webp?v=1741490822
   Price: $450.00 USD
 - [Mena Loafers for Stylish Comfort in Men's Dress Shoes](https://qshebley.com/products/mena-loafers): Mena Loafers offer a blend of comfort and style with their sand lux suede and cognac painted calf design, perfect for both the office and weekend outings.
-  Updated: 2026-07-01T14:33:03Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/mena-loafers-men-dress-shoes-beige-suede-tassel-618.webp?v=1760196958
   Price: $450.00 USD
 - [Timo Camo Patina Loafers for Stylish Men’s Dress Shoes](https://qshebley.com/products/timo-camo-patina-loafers): Timo Camo Patina Loafers feature a blend of burgundy and black full grain leather, offering comfort and style for both casual and professional settings.
-  Updated: 2026-07-01T14:33:03Z
+  Updated: 2026-08-02T15:17:44Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/timo-camo-patina-loafers-men-dress-shoes-red-camouflage-tassel-997.webp?v=1741885619
   Price: $550.00 USD
 - [Nationals Golf Shoes for Men - Premium Quality Fit](https://qshebley.com/products/nationals-golf-shoes): Nationals Golf Shoes feature a modern double monk design with premium leather, combining elegance and style for the discerning golfer. Perfect for any occasion.
-  Updated: 2026-07-01T14:33:03Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Golf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/nationals-golf-shoes-men-two-buckle-plaid-766.webp?v=1760198075
   Price: $475.00 USD
 - [Lee Belgian Slipper for Men Dress Shoes Online](https://qshebley.com/products/lee-belgian-sneaker): Lee Belgian Slipper combines elegance and comfort with its structured design, seamless stitching, and premium materials, ideal for an elevated casual style.
-  Updated: 2026-07-01T14:33:03Z
+  Updated: 2026-08-02T15:17:45Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/lee-belgian-slipper-men-dress-shoes-blue-tassel-loafers-855.webp?v=1741885670
   Price: $350.00 USD
 - [Jimmy Octavian Patina Boots for Men Dress Style](https://qshebley.com/products/jimmy-octavian-boots): Jimmy Octavian Patina Boots combine the elegance of a monk dress shoe with boot durability, featuring double buckle and side zip for effortless style transitions.
-  Updated: 2026-07-01T14:33:03Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/jimmy-octavian-patina-boots-men-dress-pair-leather-monk-strap-229.webp?v=1741885703
   Price: $650.00 USD
 - [Utah Patina Chelsea Boots for Distinguished Style](https://qshebley.com/products/utah-patina-chelsea-boots): Utah Patina Chelsea Boots offer a timeless design with cognac and burgundy crust patina leather, ideal for both formal and casual attire.
-  Updated: 2026-07-01T14:33:01Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/utah-patina-chelsea-boots-men-dress-burgundy-leather-967.webp?v=1741885789
   Price: $650.00 USD
 - [Tito Drake Slipon Dress Shoes for Men](https://qshebley.com/products/tito-drake-slipon): Tito Drake Slipon features a classic low-profile design in wine suede and black calf leather, offering stylish comfort without laces or straps. Ideal for casual wear.
-  Updated: 2026-07-01T14:33:03Z
+  Updated: 2026-08-02T15:17:48Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/tito-drake-slipon-men-dress-shoes-burgundy-velvet-loafers-embroidery-171.webp?v=1741885818
   Price: $425.00 USD
 - [Empire Single Monk Patina Stylish Men's Dress Shoes](https://qshebley.com/products/empire-single-monk-patina): Empire Single Monk Patina features a stylish single strap design in navy calf leather, perfect for making a sophisticated statement in men's dress shoes.
-  Updated: 2026-07-01T14:33:03Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/empire-single-monk-patina-men-dress-shoes-pair-plaid-strap-906.webp?v=1741885852
   Price: $550.00 USD
 - [QS Gift Card for Any Occasion and Free Shipping](https://qshebley.com/products/qs-gift-card): QS Gift Card offers flexibility and choice with no processing fees. Delivered by email, it never expires and is perfect for any occasion.
-  Updated: 2026-06-24T00:11:27Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Gift Card
   Availability: Available
@@ -648,469 +648,469 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
     Availability: Available
     Price: $1,025.00 USD
 - [Hero Double Monk Casual Shoes for Men](https://qshebley.com/products/hero-double-monk): Hero Double Monk offers a modern take on classic footwear, featuring two straps and elegant design in premium materials for a stylish addition to men’s fashion.
-  Updated: 2026-07-01T14:33:07Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/hero-double-monk-men-casual-shoes-black-patent-leather-strap-697.webp?v=1741885888
   Price: $450.00 USD
 - [Rosa Kiltie Unisex Monk Strap in Painted Calf Finish](https://qshebley.com/products/rosa-kilie-unisex-monk-strap): Rosa Kiltie Unisex Monk Strap features hand-painted calf leather in various colors, offering a stylish and versatile option for women’s dress shoes.
-  Updated: 2026-07-01T14:33:07Z
+  Updated: 2026-08-02T15:17:48Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/rosa-kiltie-unisex-monk-strap-women-dress-shoes-two-toned-leather-355.webp?v=1741886029
   Price: $450.00 USD
 - [Juliet Kiltie Womens Patina Monk Dress Shoes](https://qshebley.com/products/juliet-kiltie-womens-patina-monk-strap): Juliet Kiltie Womens Patina Monk features brown kid suede and calf leather, with a commando sole, handcrafted to provide unique style and comfort.
-  Updated: 2026-07-01T14:33:07Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/juliet-kiltie-womens-patina-monk-women-dress-shoes-brown-leather-strap-981.webp?v=1741491184
   Price: $550.00 USD
 - [Anastasio Jodhpur Boots for Stylish Men’s Fashion](https://qshebley.com/products/anastasia-jodhpur-boots): Anastasio Jodhpur Boots feature an equestrian-inspired design with a strap-and-buckle fastener, blending style and heritage in classic men's footwear.
-  Updated: 2026-07-01T14:33:07Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/anastasio-jodhpur-boots-men-dress-black-leather-ankle-brown-344.webp?v=1741886079
   Price: $460.00 USD
 - [Luther Octavian Boots for Men Dress Style](https://qshebley.com/products/luther-octavian-boots): Luther Octavian Boots combine monk dress shoe elegance with the durability of a boot, featuring a double buckle and side zip for versatile style.
-  Updated: 2026-07-01T14:33:07Z
+  Updated: 2026-08-02T15:17:44Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/luther-octavian-boots-men-dress-black-leather-suede-ankle-901.webp?v=1741886157
   Price: $450.00 USD
 - [Manny High Top Sneakers in Painted Calf Leather](https://qshebley.com/products/manny-high-top-sneakers): Manny High Top Sneakers feature a classic silhouette with a youthful twist, crafted from painted calf leather and set on a white cupsole for casual elegance.
-  Updated: 2026-07-01T14:33:11Z
+  Updated: 2026-08-02T15:17:45Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/manny-high-top-sneakers-men-casual-shoes-brown-leather-high-top-785.webp?v=1741886209
   Price: $350.00 USD
 - [Evander Trainer Sneaker for Men Casual Style](https://qshebley.com/products/evander-trainer-sneaker): The Evander Trainer Sneaker features a sleek design with a cupsole, combining comfort and style for everyday wear. Crafted from premium materials for durability.
-  Updated: 2026-07-01T14:33:10Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/evander-trainer-sneaker-men-casual-shoes-pair-white-leather-sneakers-201.webp?v=1741886257
   Price: $350.00 USD
 - [Vegas Patina High Top Sneakers for Men Casual Wear](https://qshebley.com/products/vegas-high-top-sneakers): Vegas Patina high top sneakers feature a classic design with brown calf leather and a white rubber cupsole, ideal for casual wear and stylish comfort.
-  Updated: 2026-07-01T14:33:11Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/vegas-patina-high-top-sneakers-men-casual-shoes-green-leather-high-top-825.webp?v=1741886298
   Price: $550.00 USD
 - [Tommy Windowpane Chelsea Boot for Elegant Style](https://qshebley.com/products/tommy-windowpane-chelsea-boot): Tommy Windowpane Chelsea Boot offers a timeless design in beige calf leather with a polished look, ideal for both formal and casual attire.
-  Updated: 2026-07-01T14:33:12Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/tommy-windowpane-chelsea-boot-men-dress-boots-plaid-697.webp?v=1741491360
   Price: $450.00 USD
 - [Mira Ladies Brogue Shoes for Elegant Dress Styles](https://qshebley.com/products/ladies-full-brogue): Mira Ladies Full Brogue Shoes feature a classic wingtip design with brogue detailing, crafted from navy calf leather for elegance and durability in dress shoes.
-  Updated: 2026-07-01T14:33:11Z
+  Updated: 2026-08-02T15:17:47Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/mira-ladies-full-brogue-shoes-women-dress-blue-leather-plaid-449.webp?v=1741886322
   Price: $550.00 USD
 - [Julio Venice Belt for Trainer Sneakers and Style](https://qshebley.com/products/julio-venice-belt): The Julio Venice Belt offers a unique blend of style and craftsmanship, perfect for pairing with trainer sneakers. Handmade with minor natural imperfections.
-  Updated: 2026-07-01T14:33:17Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/julio-venice-belt-belts-brown-leather-houndstooth-433.webp?v=1759256928
   Price: $225.00 USD
 - [Dtown Marseille Belt Handmade Accessories for You](https://qshebley.com/products/dtown-marseille-belt): The Dtown Marseille Belt features handmade craftsmanship, unique color variations, and natural imperfections, offering a distinctive accessory for any wardrobe.
-  Updated: 2026-07-01T14:33:17Z
+  Updated: 2026-08-02T15:26:41Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/dtown-marseille-belt-belts-brown-white-leather-gold-836.webp?v=1759257152
   Price: $200.00 USD
 - [Romeo Venice Belt Elegant Design for Luxury Style](https://qshebley.com/products/romeo-venice-belt): The Romeo Venice Belt features customizable options with dual channels, available in leather or contrasting materials, elevating your style with fine quality.
-  Updated: 2026-07-01T14:33:17Z
+  Updated: 2026-08-02T15:26:46Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/romeo-venice-belt-belts-blue-leather-plaid-957.webp?v=1741886416
   Price: $225.00 USD
 - [Caine Balmoral Patina Boots for Elegant Style](https://qshebley.com/products/caine-balmoral-boots): Caine Balmoral Patina Boots offer a sophisticated blend of vintage European style and modern elegance, featuring closed channel lacing and rich brown calf leather.
-  Updated: 2026-07-01T14:33:17Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/caine-balmoral-patina-boots-men-dress-brown-leather-tweed-lace-up-508.webp?v=1741886438
   Price: $650.00 USD
 - [Dillinger Whole Cut Patina Men’s Dress Shoes](https://qshebley.com/products/dillinger-whole-cut-patina): Dillinger Whole Cut Patina features a sleek design crafted from a single leather cut, showcasing denim and cognac crust patina for an elegant, formal appearance.
-  Updated: 2026-07-01T14:33:17Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/dillinger-whole-cut-patina-men-dress-shoes-pair-brown-leather-748.webp?v=1741886484
   Price: $550.00 USD
 - [Spartacus Whole Cut Patina Men Dress Shoes Online](https://qshebley.com/products/spartacus-whole-cut-patina): Spartacus Whole Cut Patina shoes feature a sleek design crafted from a single cut of leather, offering elegance and sophistication for formal occasions.
-  Updated: 2026-07-01T14:33:22Z
+  Updated: 2026-08-02T15:26:41Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/spartacus-whole-cut-patina-men-dress-shoes-camouflage-patterned-214.webp?v=1741886518
   Price: $550.00 USD
 - [Roselli Whole Cut Patina Luxury Dress Shoes](https://qshebley.com/products/roselli-whole-cut-patina): Roselli Whole Cut Patina shoes are crafted from a single cut of leather, featuring a sleek design with closed channel lacing and a luxurious cognac crust patina finish.
-  Updated: 2026-07-01T14:33:22Z
+  Updated: 2026-08-02T15:26:41Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/roselli-whole-cut-patina-men-dress-shoes-brown-leather-wingtip-260.webp?v=1741886542
   Price: $550.00 USD
 - [Mario Whole Cut Patina Dress Shoes for Men](https://qshebley.com/products/mario-whole-cut-patina): Mario Whole Cut Patina offers a sleek, formal design made from a single cut of leather, featuring closed channel lacing and a rounded toe for classic elegance.
-  Updated: 2026-07-01T14:33:22Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/mario-whole-cut-patina-men-dress-shoes-brown-leather-127.webp?v=1741886588
   Price: $550.00 USD
 - [Cheung Patina Hampton Handmade Belt for Everyday Use](https://qshebley.com/products/cheung-patina-hampton-belt): The Cheung Patina Hampton Belt offers a unique handmade design with natural color variations, ensuring each piece is distinct and elegantly crafted.
-  Updated: 2026-07-01T14:33:22Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/cheung-patina-hampton-belt-belts-brown-leather-gold-buckle-795.webp?v=1759257359
   Price: $350.00 USD
 - [Vito Patina Hampton Classic Belt for Any Occasion](https://qshebley.com/products/vito-patina-hampton-belt): Vito Patina Hampton Belt offers a timeless design with sleek stitching and khaki crust patina, perfect for any occasion and handmade for unique charm.
-  Updated: 2026-07-01T14:33:22Z
+  Updated: 2026-08-02T15:26:47Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/vito-patina-hampton-belt-belts-olive-green-leather-silver-896.webp?v=1741886684
   Price: $350.00 USD
 - [Corallo Hampton Patina Belt for Elegant Style](https://qshebley.com/products/corallo-hampton-patina-belt): Corallo Hampton Patina Belt features handcrafted elegance, unique color variations, and a perfect complement to Patina Chelsea Boots for refined style.
-  Updated: 2026-07-01T14:33:22Z
+  Updated: 2026-08-02T15:26:41Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/corallo-hampton-patina-belt-belts-brown-leather-gold-buckle-892.webp?v=1759267321
   Price: $325.00 USD
 - [Oobama Whole Cut Patina Shoes for Men](https://qshebley.com/products/oobama-whole-cut-patina): Oobama Whole Cut Patina shoes embody elegance with their sleek design, crafted from a single cut of leather, featuring closed channel lacing and limited stitching.
-  Updated: 2026-07-01T14:33:22Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/obama-whole-cut-patina-men-dress-shoes-camouflage-patterned-leather-822.webp?v=1741886715
   Price: $550.00 USD
 - [Glimco Double Monk Dress Shoes in Elegant Patina](https://qshebley.com/products/glimco-double-monk): Glimco Double Monk shoes feature two stylish straps, combining modern elegance with classic craftsmanship in navy calf leather and a unique turquoise sole.
-  Updated: 2026-07-01T14:33:27Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/glimco-double-monk-men-dress-shoes-mens-plaid-crocodile-strap-328.webp?v=1741886746
   Price: $450.00 USD
 - [Shapiro Saddle Golf Shoes for Stylish Performance](https://qshebley.com/products/shapiro-golf-shoes): Shapiro Saddle Golf shoes feature a stylish two-tone design with premium leather, offering versatility for both casual and formal occasions in comfortable footwear.
-  Updated: 2026-07-01T14:33:27Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Golf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/shapiro-saddle-golf-shoes-men-tartan-leather-319.webp?v=1741886766
   Price: $475.00 USD
 - [Benz Single Monk Shoes in Painted Calf Leather](https://qshebley.com/products/benz-single-monk-patina): Benz Single Monk shoes feature a single strap and buckle design, crafted from high-quality painted calf leather, blending comfort with sophisticated style.
-  Updated: 2026-07-01T14:33:25Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/benz-single-monk-men-dress-shoes-blue-plaid-strap-949.webp?v=1741886851
   Price: $450.00 USD
 - [Amuso Wellington Slip On Dress Shoes for Men](https://qshebley.com/products/amuso-wellington-slip-on): Amuso Wellington slip on features a low-profile design in black patent leather and red calf leather, offering comfort with a classic aesthetic for formal occasions.
-  Updated: 2026-07-01T14:33:27Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/amuso-wellington-slip-on-men-dress-shoes-pair-shiny-black-tassel-719.webp?v=1741886871
   Price: $425.00 USD
 - [Master Windowpane Loafers for Elegant Footwear Choices](https://qshebley.com/products/master-windowpane-loafers): Master Windowpane Loafers combine classic style with exceptional comfort, featuring tartan sartorial designs and quality materials for versatile wear.
-  Updated: 2026-07-01T14:33:27Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/master-windowpane-loafers-men-dress-shoes-plaid-patterned-mens-566.webp?v=1741886923
   Price: $450.00 USD
 - [Chhota Saddle Patina Shoes for Timeless Style](https://qshebley.com/products/chhota-patina-saddle-shoes): Chhota Saddle Patina shoes blend cognac and brown crust patina leather, offering a classic two-tone style perfect for both casual and formal occasions.
-  Updated: 2026-07-01T14:33:27Z
+  Updated: 2026-08-02T15:26:41Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/chhota-saddle-patina-shoes-men-dress-brown-leather-256.webp?v=1741886948
   Price: $550.00 USD
 - [Lincoln Military Brogue Boots for Men Dress Style](https://qshebley.com/products/lincoln-military-boots): Lincoln Military Brogue Boots feature a unique brogue pattern, brown calf leather, and a commando sole, combining rugged durability with refined style.
-  Updated: 2026-07-01T14:33:28Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/lincoln-military-brogue-boots-men-dress-burgundy-leather-wingtip-630.webp?v=1741887038
   Price: $650.00 USD
 - [Ronaldo Jodhpur Boots for Elegant Men’s Style](https://qshebley.com/products/ronaldo-jodhpur-boots): Ronaldo Jodhpur Boots feature an equestrian-inspired design with a strap-and-buckle fastener, blending classic style with luxury craftsmanship for men.
-  Updated: 2026-07-01T14:33:32Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/ronaldo-jodhpur-boots-men-dress-two-toned-leather-ankle-buckle-734.webp?v=1741887083
   Price: $450.00 USD
 - [Miltiades Longwing Blucher Men's Casual Shoes](https://qshebley.com/products/miltiades-longwing-blucher): Miltiades Longwing Blucher features a unique Long Wingtip design, blending classic style with versatility for formal occasions and office wear. Available in various materials.
-  Updated: 2026-07-01T14:33:32Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/miltiades-longwing-blucher-men-casual-shoes-black-leather-plaid-dress-443.webp?v=1741887134
   Price: $450.00 USD
 - [Roger Trainer Sneaker for Men Casual Style](https://qshebley.com/products/roger-trainer-sneaker): Roger Trainer Sneaker offers a sleek, comfortable design with a classic cupsole. Ideal for daily wear, it pairs effortlessly with casual outfits.
-  Updated: 2026-07-01T14:33:32Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/roger-trainer-sneaker-men-casual-shoes-gray-brown-leather-sneakers-567.webp?v=1741887279
   Price: $350.00 USD
 - [Owens Full Brogue Patina Leather Dress Shoes](https://qshebley.com/products/owens-full-brogue-patina): Owens Full Brogue Patina offers meticulously crafted leather dress shoes featuring an elegant brogue patina design, ideal for formal occasions.
-  Updated: 2026-07-01T14:33:32Z
+  Updated: 2026-08-02T15:26:47Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/owens-full-brogue-patina-men-dress-shoes-pair-leather-120.webp?v=1741887344
   Price: $550.00 USD
 - [Griffith Patina Derby Shoes for Elegant Men’s Wear](https://qshebley.com/products/griffith-patina-derby-shoes): Griffith Patina Derby shoes offer a timeless design with an open lacing system, featuring grey crust and burgundy camo patina, suitable for any occasion.
-  Updated: 2026-07-01T14:33:32Z
+  Updated: 2026-08-02T15:26:46Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/griffith-patina-derby-shoes-men-dress-pair-black-leather-835.webp?v=1741887376
   Price: $550.00 USD
 - [Haile Jodhpur Patina Boots for Elegant Style](https://qshebley.com/products/haile-jodhpur-patina-boots): Haile Jodhpur Patina Boots feature an equestrian-inspired design, complete with a strap-and-buckle fastener, offering timeless elegance for discerning gentlemen.
-  Updated: 2026-07-01T14:33:37Z
+  Updated: 2026-08-02T15:26:41Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/haile-jodhpur-patina-boots-men-dress-leather-ankle-buckle-981.webp?v=1741887412
   Price: $650.00 USD
 - [Asafa Belgian Monk Slipper in Calf Leather](https://qshebley.com/products/asafa-belgian-monk-slipper): Asafa Belgian Monk Slipper features classic design in black calf leather with a contrasting double monk strap, perfect for formal occasions and stylish wear.
-  Updated: 2026-07-01T14:33:37Z
+  Updated: 2026-08-02T15:26:41Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/asafa-belgian-monk-slipper-men-dress-shoes-pair-black-leather-strap-302.webp?v=1741887445
   Price: $350.00 USD
 - [Mo Ladies Captoe Boots Brown Leather Leopard Print](https://qshebley.com/products/mo-ladies-captoe-boots): Mo Ladies Captoe boots feature a unique blend of brown leather and leopard print. Stylish captoe boots perfect for adding flair to any wardrobe.
-  Updated: 2026-07-01T14:33:36Z
+  Updated: 2026-08-02T15:26:43Z
   Vendor: Que Shebley
   Product Type: women dress boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/mo-ladies-captoe-boots-women-dress-brown-leather-leopard-print-719.webp?v=1741887480
   Price: $450.00 USD
 - [Sergei High Top Blue Brown Trainer Sneakers](https://qshebley.com/products/sergei-high-top-sneakers): Sergei High Top Sneakers feature a sleek blue and brown design, offering style and comfort for those seeking a versatile trainer sneaker option.
-  Updated: 2026-07-01T14:33:37Z
+  Updated: 2026-08-02T15:26:47Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/sergei-high-top-sneakers-men-casual-shoes-blue-brown-high-top-487.webp?v=1741887518
   Price: $350.00 USD
 - [Vicenzo Sider Patina Sneaker Brown Leather Shoes](https://qshebley.com/products/vicenzo-top-sider-patina-sneaker): Vicenzo Top Sider Patina Sneaker features brown leather and white soles, offering a blend of style and durability for a sophisticated casual look.
-  Updated: 2026-07-01T14:33:37Z
+  Updated: 2026-08-02T15:26:47Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/vicenzo-top-sider-patina-sneaker-men-casual-shoes-brown-leather-342.webp?v=1741887562
   Price: $550.00 USD
 - [Georgia Rose Ladies Slipon for Elegant Comfort](https://qshebley.com/products/georgia-rose-ladies-slipon): Georgia Rose Ladies Slipon features a classic shape with a low profile, crafted from black suede and tweed for a stylish, comfortable look. Handmade quality ensures uniqueness.
-  Updated: 2026-07-01T14:33:42Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/georgia-rose-ladies-slipon-women-dress-shoes-tweed-loafer-gold-429.webp?v=1741887602
   Price: $350.00 USD
 - [Eleanor Unisex Brogue Shoes in Painted Calf Leather](https://qshebley.com/products/eleanor-unisex-full-brogue-shoes): Eleanor Unisex Full Brogue shoes feature a classic wingtip design with a brogue pattern. Made from painted calf, they are essential for any dress shoe collection.
-  Updated: 2026-07-01T14:33:42Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/eleanor-unisex-full-brogue-shoes-women-dress-colorful-leather-wingtip-482.webp?v=1741887649
   Price: $450.00 USD
 - [Weekend Longwing Blucher Brown Leather Tweed Shoes](https://qshebley.com/products/weekend-longwing-blucher): Weekend Longwing Blucher offers elegant brown leather and tweed wingtip shoes perfect for sophisticated weekends with timeless style and comfort.
-  Updated: 2026-07-01T14:33:42Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/weekend-longwing-blucher-men-dress-shoes-brown-leather-tweed-413.webp?v=1741887744
   Price: $450.00 USD
 - [Cyprian Trainer Patina Sneaker Two-Tone Leather](https://qshebley.com/products/cyprian-trainer-patina-sneaker): Cyprian Trainer Patina Sneaker features two-tone leather and white soles, offering a stylish blend of classic design and modern comfort.
-  Updated: 2026-07-01T14:33:42Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/cyprian-trainer-patina-sneaker-men-casual-shoes-two-tone-leather-241.webp?v=1741887785
   Price: $475.00 USD
 - [Theodora Chelsea Boots Red Black Camouflage](https://qshebley.com/products/theodora-chelsea-boots): Theodora Chelsea Boots feature a striking red and black camouflage design, blending style and comfort for a standout addition to any footwear collection.
-  Updated: 2026-07-01T14:33:42Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/theodora-chelsea-boots-men-dress-red-camouflage-435.webp?v=1741887825
   Price: $650.00 USD
 - [Usainit Trainer Sneaker Blue Suede Sneakers](https://qshebley.com/products/usain-trainer-sneaker): Usainit Trainer Sneaker offers a stylish look with premium blue suede material, providing comfort and durability for daily wear.
-  Updated: 2026-07-01T14:33:47Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/usainit-trainer-sneaker-men-casual-shoes-blue-suede-sneakers-943.webp?v=1741887867
   Price: $350.00 USD
 - [Battani Double Monk Strap Shoes Houndstooth](https://qshebley.com/products/battani-double-monk): Battani Double Monk shoes feature a black and white houndstooth design, offering a distinguished style and classic elegance for any formal occasion.
-  Updated: 2026-07-01T14:33:47Z
+  Updated: 2026-08-02T15:26:43Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/battani-double-monk-men-dress-shoes-black-white-houndstooth-247.webp?v=1741887966
   Price: $450.00 USD
 - [Bobby Full Brogue Golf Shoes for Men](https://qshebley.com/products/bobby-full-brogue-golf-shoes): Bobby Full Brogue golf shoes offer handmade craftsmanship, unique style, and durability, ensuring comfort and performance on the golf course. Color variations may occur.
-  Updated: 2026-07-01T14:33:47Z
+  Updated: 2026-08-02T15:26:43Z
   Vendor: Que Shebley
   Product Type: Men Golf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/bobby-full-brogue-golf-shoes-men-pair-crocodile-patterned-361.webp?v=1741887998
   Price: $475.00 USD
 - [Hogan Oxford Golf Shoes for Comfortable Play](https://qshebley.com/products/hogan-oxford-golf-shoes): Hogan Oxford Golf shoes offer handmade quality with subtle variations in color and design, enhancing comfort and style for every golfer on the course.
-  Updated: 2026-07-01T14:33:47Z
+  Updated: 2026-08-02T15:26:43Z
   Vendor: Que Shebley
   Product Type: Men Golf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/hogan-oxford-golf-shoes-men-black-leather-plaid-473.webp?v=1760197916
   Price: $475.00 USD
 - [Chuck Jodhpur Boots Brown Leather Gray Wool](https://qshebley.com/products/chuck-jodhpur-boots): Chuck Jodhpur Boots, crafted from brown leather and gray wool, offer a stylish and durable option for ankle boots, combining classic design with versatility.
-  Updated: 2026-07-01T14:33:47Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/chuck-jodhpur-boots-men-dress-brown-leather-gray-wool-ankle-656.webp?v=1741888034
   Price: $450.00 USD
 - [Q1 Patina Double Monk Camouflage Shoes](https://qshebley.com/products/q1-patina-double-monk): Q1 Patina Double Monk shoes feature a striking white and camouflage design, offering a unique blend of style and craftsmanship with a distinct patina finish.
-  Updated: 2026-07-01T14:33:52Z
+  Updated: 2026-08-02T15:26:43Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/q1-patina-double-monk-men-casual-shoes-white-camouflage-strap-313.webp?v=1741888074
   Price: $550.00 USD
 - [Sappho Rose Ladies Slipon Elegant Dress Shoes](https://qshebley.com/products/sappho-rose-ladies-slipon): Sappho Rose Ladies Slipon offers a stylish, comfortable design with a low profile and elegant materials, perfect for a laid-back yet classic look.
-  Updated: 2026-07-01T14:33:52Z
+  Updated: 2026-08-02T15:26:42Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/sappho-rose-ladies-slipon-women-dress-shoes-houndstooth-patterned-449.webp?v=1741888104
   Price: $350.00 USD
 - [Stylish Two-Tone Salvador Golf Shoes](https://qshebley.com/products/salvador-golf-shoes): Salvador Golf Shoes feature a stylish two-tone design, combining elegance and functional performance for optimal comfort on the golf course.
-  Updated: 2026-07-01T14:33:52Z
+  Updated: 2026-08-02T15:26:46Z
   Vendor: Que Shebley
   Product Type: Men Golf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/salvador-golf-shoes-men-two-tone-544.webp?v=1741888173
   Price: $475.00 USD
 - [Belem Patina Derby - Classic Men's Dress Shoes](https://qshebley.com/products/belem-patina-derby): Belem Patina Derby features an open lacing system and classic design in brown and cognac crust patina, crafted from fine brown calf leather for versatile elegance.
-  Updated: 2026-07-01T14:33:52Z
+  Updated: 2026-08-02T15:26:46Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/belem-patina-derby-men-dress-shoes-brown-leather-637.webp?v=1741888214
   Price: $550.00 USD
 - [Parks Audrey Slipper with Butterfly Embroidery](https://qshebley.com/products/parks-audrey-slipper): Parks Audrey Slipper features elegant beige loafers with intricate butterfly embroidery, offering a blend of sophistication and style for any wardrobe.
-  Updated: 2026-07-01T14:33:57Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/parks-audrey-slipper-women-dress-shoes-beige-loafers-butterfly-246.webp?v=1741888253
   Price: $350.00 USD
 - [Vegas Patina Belgian Slipper for Men Casual Shoes](https://qshebley.com/products/vegas-patina-belgian-slipper): Vegas Patina Belgian Slippers feature a classic design with contrasting double monk straps, crafted from rich brown and burgundy calf leather for formal occasions.
-  Updated: 2026-07-01T14:33:57Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/vegas-patina-belgian-slipper-men-casual-shoes-burgundy-leather-loafers-580.webp?v=1741888319
   Price: $450.00 USD
 - [Abril Trainer Patina Burgundy Leather Sneakers](https://qshebley.com/products/abril-trainer-patina-sneaker): Abril Trainer Patina Sneaker features burgundy leather with a refined crust patina finish, offering stylish comfort and timeless elegance in every step.
-  Updated: 2026-07-01T14:33:56Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/abril-trainer-patina-sneaker-men-casual-shoes-burgundy-leather-989.webp?v=1741888358
   Price: $475.00 USD
 - [Victoria Ladies Military Brogue Stylish Dress Boots](https://qshebley.com/products/victoria-ladies-military-brogue): Victoria Ladies Military Brogue boots feature a brogue pattern and classic silhouette, blending ruggedness with refinement in luxurious brown calf leather.
-  Updated: 2026-07-01T14:33:57Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: women dress boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/victoria-ladies-military-brogue-women-dress-boots-brown-leather-tweed-738.webp?v=1741888400
   Price: $650.00 USD
 - [Juan Double Monk Patina Men's Dress Shoes Online](https://qshebley.com/products/juan-double-monk-patina): Juan Double Monk Patina offers a modern twist on classic elegance with two stylish straps, crafted in brown calf leather and enhanced with unique patinas.
-  Updated: 2026-07-01T14:33:57Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/juan-double-monk-patina-men-dress-shoes-camouflage-burgundy-leather-180.webp?v=1741888529
   Price: $550.00 USD
 - [Cruz Wellington Slipon Tartan Plaid Loafers](https://qshebley.com/products/cruz-wellington-slipon): Cruz Wellington Slipon: Elegant tartan plaid tassel loafers. Ideal for a sophisticated look with premium craftsmanship.
-  Updated: 2026-07-01T14:33:57Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/cruz-wellington-slipon-men-dress-shoes-tartan-plaid-tassel-loafers-437.webp?v=1741888570
   Price: $425.00 USD
 - [Fernan Slip On Sneaker White Trainer Sneakers](https://qshebley.com/products/fernan-slip-on-sneaker): Fernan Slip On Sneakers offer sleek, white comfort and style perfect for casual outings, combining the convenience of slip-on design with a modern aesthetic.
-  Updated: 2026-07-01T14:34:02Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/fernan-slip-on-sneaker-men-casual-shoes-pair-white-slip-on-sneakers-334.webp?v=1741888611
   Price: $350.00 USD
 - [Vega High Top Sneakers Black](https://qshebley.com/products/vega-high-top-sneakers): Vega High Top Sneakers offer a sleek design in versatile black. Experience comfort and style with these premium high-top sneakers.
-  Updated: 2026-07-01T14:34:02Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/vega-high-top-sneakers-men-casual-shoes-black-high-top-410.webp?v=1741888662
   Price: $350.00 USD
 - [Aja Single Monk Shoes for Elegant Men's Dressing](https://qshebley.com/products/aja-single-monk-shoes): Aja Single Monk Shoes feature a stylish design with a single strap and buckle, made from premium materials like white box calf and navy kid suede for comfort.
-  Updated: 2026-07-01T14:34:03Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/aja-single-monk-shoes-men-dress-two-tone-strap-327.webp?v=1741888703
   Price: $450.00 USD
 - [Sancho Trainer Patina Sneaker for Casual Style](https://qshebley.com/products/sancho-trainer-patina-sneaker): Sancho Trainer Patina Sneaker offers a sleek silhouette and comfortable design in grey crust patina and navy calf leather, ideal for casual everyday wear.
-  Updated: 2026-07-01T14:34:02Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/sancho-trainer-patina-sneaker-men-casual-shoes-pair-black-leather-269.webp?v=1741888744
   Price: $475.00 USD
 - [Belen High-Top Blue Leopard Trainer Sneaker](https://qshebley.com/products/belen-high-top-sneakers): Belen High Top Sneakers feature a striking blue leopard print. These trainer sneakers combine style and comfort for a bold fashion statement.
-  Updated: 2026-07-01T14:34:02Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/belen-high-top-sneakers-men-casual-shoes-blue-leopard-print-high-top-536.webp?v=1741888780
   Price: $350.00 USD
 - [Tapies Balmoral Boots with Goodyear Welting Quality](https://qshebley.com/products/tapies-balmoral-boots): Tapies Balmoral Boots offer a sophisticated design inspired by vintage European styles, featuring closed channel lacing and Goodyear welting for durability.
-  Updated: 2026-07-01T14:34:10Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/tapies-balmoral-boots-men-dress-tartan-tweed-lace-up-167.webp?v=1741888825
   Price: $450.00 USD
 - [Anza Venice Belt Navy and White Striped Leather](https://qshebley.com/products/anza-venice-belt): The Anza Venice Belt features a navy and white striped design crafted in leather, perfect for pairing with trainer sneakers for a stylish, contemporary look.
-  Updated: 2026-07-01T14:34:10Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: belts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/anza-venice-belt-belts-navy-white-striped-leather-443.webp?v=1741888867
   Price: $225.00 USD
 - [Leonidas Patina Wholecut Black Leather Dress Shoe](https://qshebley.com/products/leonidas-patina-wholecut): The Leonidas Patina Wholecut is a black leather dress shoe featuring a sleek, seamless design that exemplifies elegance and sophistication for formal occasions.
-  Updated: 2026-07-01T14:34:33Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Shoes Limited Edition
   Availability: Available
@@ -1266,638 +1266,589 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
     Availability: Available
     Price: $650.00 USD
 - [Seleucid Longwing Blucher Casual Shoes for Men](https://qshebley.com/products/seleucid-longwing-blucher): Seleucid Longwing Blucher offers a unique long wingtip design, blending classic brogue style with versatility for formal occasions and office wear.
-  Updated: 2026-07-01T14:34:32Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/seleucid-longwing-blucher-men-casual-shoes-black-leather-plaid-wingtip-596.webp?v=1741888966
   Price: $450.00 USD
 - [Antigo Belgian Sneaker Stylish Men Casual Shoes](https://qshebley.com/products/antigo-belgian-sneaker): Antigo Belgian Sneaker blends the elegance of a Belgian loafer with sneaker comfort, featuring luxurious materials and a stylish cupsole for casual wear.
-  Updated: 2026-07-01T14:34:37Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/antigo-belgian-sneaker-men-casual-shoes-two-tone-tassel-loafers-986.webp?v=1741889018
   Price: $350.00 USD
 - [Sheikh 2 Wellington Slip On Black Velvet Loafers](https://qshebley.com/products/sheikh-2-wellington-slip-on): Sheikh 2 Wellington Slip On in black velvet features an elegant embroidered design, combining style and comfort in a luxurious longwing blucher silhouette.
-  Updated: 2026-07-01T14:34:37Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/sheikh-2-wellington-slip-on-men-dress-shoes-black-velvet-loafers-601.webp?v=1741493342
   Price: $425.00 USD
 - [Greco Jodhpur Patina Boots for Elegant Men's Dress Wear](https://qshebley.com/products/greco-jodhpur-patina-boots): Greco Jodhpur Patina Boots offer an equestrian-inspired design with a strap-and-buckle fastener, blending classic style and modern craftsmanship for men.
-  Updated: 2026-07-01T14:34:37Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/greco-jodhpur-patina-boots-men-dress-pair-black-leather-ankle-454.webp?v=1741889053
   Price: $660.00 USD
 - [Darius Saddle Golf Shoes for Men Handmade Quality](https://qshebley.com/products/darius-golf-shoes): Darius Saddle Golf Shoes offer handmade quality with unique color variations. Enjoy comfort and style on the course, with minor imperfections adding to their charm.
-  Updated: 2026-07-01T14:34:37Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Golf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/darius-saddle-golf-shoes-men-two-tone-289.webp?v=1760198371
   Price: $475.00 USD
 - [Tennes Chukkas Black Leather Boots Red Laces](https://qshebley.com/products/tennes-chukkas): Tennes Chukkas are black leather chukka boots featuring distinctive red laces, blending timeless style with modern elegance for versatile footwear.
-  Updated: 2026-07-01T14:34:40Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/tennes-chukkas-men-dress-boots-black-leather-chukka-red-735.webp?v=1741889115
   Price: $450.00 USD
 - [Achilles Loafers Brown Suede Tassel Footwear](https://qshebley.com/products/achilles-loafers): Achilles Loafers offer elegance with brown suede and tassel details, providing a sophisticated addition to any wardrobe with timeless style.
-  Updated: 2026-07-01T14:34:42Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/achilles-loafers-men-dress-shoes-brown-suede-tassel-306.webp?v=1741889168
   Price: $450.00 USD
 - [Icarus Loafers Burgundy Leather Tassel Footwear](https://qshebley.com/products/icarus-loafers): Icarus Loafers offer refined elegance with burgundy leather and tassel detailing, perfect for a sophisticated touch to any ensemble.
-  Updated: 2026-07-01T14:34:43Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/icarus-loafers-men-dress-shoes-burgundy-leather-tassel-501.webp?v=1741889209
   Price: $450.00 USD
 - [Andrios Wholecut Shoes Brown Leather Dress Shoes](https://qshebley.com/products/andrios-whole-cut-shoes): Andrios Wholecut Shoes present exquisite brown leather wingtip design, blending elegance and craftsmanship for a distinguished dress shoe experience.
-  Updated: 2026-07-01T14:34:42Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/andrios-wholecut-shoes-men-dress-brown-leather-wingtip-837.webp?v=1741889262
   Price: $450.00 USD
 - [JackD Longwing Blucher Men Dress Shoes for Elegance](https://qshebley.com/products/jackd-longwing-blucher): JackD Longwing Blucher offers a unique Full Brogue design, crafted from navy and tan calf leather, suitable for formal occasions and office wear.
-  Updated: 2026-07-01T14:34:42Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/jackd-longwing-blucher-men-dress-shoes-blue-leather-brogue-532.webp?v=1741889302
   Price: $450.00 USD
 - [Ramses Double Monk Patina Men's Dress Shoes](https://qshebley.com/products/ramses-double-monk-patina): The Ramses Double Monk Patina showcases two stylish straps and a unique patina finish, perfect for a modern take on classic men's footwear.
-  Updated: 2026-07-01T14:34:43Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/ramses-double-monk-patina-men-dress-shoes-black-leather-strap-831.webp?v=1741889345
   Price: $550.00 USD
 - [Tesla Wholecut Patina Men's Dress Shoes for ](https://qshebley.com/products/tesla-whole-cut-patina): Tesla Wholecut Patina offers an elegant design in men's dress shoes, featuring closed channel lacing and premium leather for a sophisticated look.
-  Updated: 2026-07-01T14:34:47Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/tesla-wholecut-patina-men-dress-shoes-brown-leather-419.webp?v=1741889392
   Price: $550.00 USD
 - [Tzu Loafers Burgundy Leather Penny Shoes](https://qshebley.com/products/tzu-loafers): Tzu Loafers offer a refined look with their burgundy leather design and pebble grain texture, perfect for enhancing any sophisticated wardrobe.
-  Updated: 2026-07-01T14:34:47Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/tzu-loafers-men-dress-shoes-burgundy-leather-penny-112.webp?v=1741889442
   Price: $450.00 USD
 - [Q Lux Leather Care Kit Brushes Polish Cloth Set](https://qshebley.com/products/q-shoe-care-kit): Q Lux Leather Care Kit offers premium brushes, polish, and cloth for effective shoe care, ensuring long-lasting luxury with this essential leather care kit.
-  Updated: 2026-07-01T14:34:47Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Leather care Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/q-lux-leather-care-kit-shoe-brushes-polish-311.webp?v=1741889479
   Price: $125.00 USD
 - [Shoe Tree  Lux for Perfect Fit and Maintenance](https://qshebley.com/products/shoe-tree-lux): Shoe Tree Lux , crafted from high-quality cedar wood, absorbs moisture while providing an aromatic scent, ensuring your footwear maintains its shape and freshness.
-  Updated: 2026-07-01T14:34:51Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: shoe tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/lux-shoe-tree-black-plastic-stretchers-842.webp?v=1741889490
   - [5 us/38 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390851306)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [6 us/39 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390884074)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [7 us/40 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390916842)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [8 us/41 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390949610)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [9 us/42 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390982378)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [10 us/43 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391015146)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [11 us/44 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391047914)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [12 us/45 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391080682)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [13 us/46 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391113450)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [14 us/47 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391146218)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
   - [15 us/48 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391178986)
     Availability: Available
-    Price: $75.00 USD
+    Price: $100.00 USD
 - [Alto Loafers Brown Leather Penny Loafers](https://qshebley.com/products/alto-loafers): Alto Loafers present brown leather penny loafers crafted from painted calf, combining timeless style with premium materials for unmatched comfort and elegance.
-  Updated: 2026-07-01T14:34:57Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/alto-loafers-men-dress-shoes-brown-leather-penny-532.webp?v=1741889504
   Price: $450.00 USD
 - [Silwauski Loafers Burgundy Black Leather Tassel](https://qshebley.com/products/silwauski-loafers): Silwauski Loafers offer elegance with burgundy and black painted calf leather tassels, ideal for a classy look. Perfect for both casual and formal occasions.
-  Updated: 2026-07-01T14:34:57Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/silwauski-loafers-men-dress-shoes-burgundy-black-leather-tassel-552.webp?v=1741889552
   Price: $450.00 USD
 - [Tonny Belgian Sneaker in Premium Calf Leather](https://qshebley.com/products/tonny-belgian-sneaker): Tonny Belgian Sneaker combines the elegance of a Belgian loafer with casual comfort, crafted from calf leather and featuring a durable cupsole for all-day wear.
-  Updated: 2026-07-01T14:34:58Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/tonny-belgian-sneaker-men-casual-shoes-beige-tassel-loafer-sneakers-892.webp?v=1741889593
   Price: $350.00 USD
 - [Balti Double Monk Patina Elegant Men's Dress Shoes](https://qshebley.com/products/balti-double-monk): Balti Double Monk shoes showcase a modern twist on classic elegance, featuring grey luxe suede, navy painted calf, and a traditional rounded toe for sophistication.
-  Updated: 2026-07-01T14:34:57Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/balti-double-monk-men-dress-shoes-blue-gray-strap-921.webp?v=1741889631
   Price: $450.00 USD
 - [Hudson Single Monk Patina Premium Men's Dress Shoes](https://qshebley.com/products/hudson-single-monk-patina): Hudson Single Monk Patina offers a stylish black calf leather design with a comfortable single strap. Ideal for elevating any formal attire.
-  Updated: 2026-07-01T14:34:58Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/hudson-single-monk-patina-men-dress-shoes-blue-leather-tweed-strap-367.webp?v=1741889648
   Price: $550.00 USD
 - [Harvey Double Monk Patina Men's Dress Shoes](https://qshebley.com/products/harvey-double-monk): Harvey Double Monk Patina features a modern design with grey and brown crust patina, crafted from premium leather for an elegant touch in men's fashion.
-  Updated: 2026-07-01T14:35:04Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/harvey-double-monk-patina-men-dress-shoes-pair-leather-strap-556.webp?v=1741889673
   Price: $550.00 USD
 - [Dirk Full Brogue Brown Leather Dress Shoes](https://qshebley.com/products/dirk-full-brogue-shoes): Dirk Full Brogue Shoes offer classic style with brown leather, perfect for any formal occasion. Discover the elegance of premium dress shoes today.
-  Updated: 2026-07-01T14:35:02Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/dirk-full-brogue-shoes-men-dress-brown-leather-wingtip-914.webp?v=1741889704
   Price: $450.00 USD
 - [Dre Patina Loafers Elegant Leather Footwear](https://qshebley.com/products/dre-loafers): Dre Patina Loafers offer timeless style with their premium leather construction. Perfect for elevating any outfit with a sophisticated touch.
-  Updated: 2026-07-01T14:35:01Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/dre-patina-loafers-men-dress-shoes-pair-leather-760.webp?v=1741889725
   Price: $550.00 USD
 - [Singapor Jodhpur Boots Black Leather Ankle Design](https://qshebley.com/products/singapor-jodhpur-boots): Singapor Jodhpur Boots in black leather feature ankle-length design and buckle straps, offering a stylish and versatile choice for fashion-conscious individuals.
-  Updated: 2026-07-01T14:35:03Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/singapor-jodhpur-boots-men-dress-pair-black-leather-ankle-491.webp?v=1741889753
   Price: $450.00 USD
 - [Abu Dhabi Military Brogue Boots for Men in Medium Brown](https://qshebley.com/products/abu-dhabi-military-boots): Abu Dhabi Military Brogue Boots feature a stunning brogue pattern, luxurious med brown suede, and a classic design that combines rugged durability with refined style.
-  Updated: 2026-07-01T14:35:03Z
+  Updated: 2026-08-02T15:34:57Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/abu-dhabi-military-brogue-boots-men-dress-brown-leather-suede-wingtip-577.webp?v=1741889798
   Price: $450.00 USD
 - [Aias Double Monk Strap Shoes Black and Red](https://qshebley.com/products/aias-double-monk): Aias Double Monk offers a sophisticated blend of black and red hues in a classic double monk strap design, ideal for elevating formal wear.
-  Updated: 2026-07-01T14:35:03Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/aias-double-monk-men-dress-shoes-black-red-strap-665.webp?v=1741889828
   Price: $450.00 USD
 - [Aesop Double Monk Strap Shoes in Blue](https://qshebley.com/products/aesop-double-monk): Aesop Double Monk features elegant blue double monk strap design, combining style and sophistication for a refined footwear choice.
-  Updated: 2026-07-01T14:35:07Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/aesop-double-monk-men-dress-shoes-blue-strap-948.webp?v=1741889844
   Price: $450.00 USD
 - [Oldy Trainer Sneaker White Plaid Leather Sneakers](https://qshebley.com/products/oldy-trainer-sneaker): Oldy Trainer Sneaker in white leather with plaid accents offers a classic design. Ideal for those seeking versatile and stylish trainer sneakers.
-  Updated: 2026-07-01T14:35:07Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/oldy-trainer-sneaker-men-casual-shoes-white-leather-sneakers-plaid-455.webp?v=1741889906
   Price: $350.00 USD
 - [Giles Trainer Sneaker in Calf Leather for Men](https://qshebley.com/products/giles-trainer-sneaker): The Giles Trainer Sneaker features a sleek design in black nappa calf leather, offering optimal comfort and style for everyday wear with casual outfits.
-  Updated: 2026-07-01T14:35:07Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/giles-trainer-sneaker-men-casual-shoes-houndstooth-patterned-sneakers-750.webp?v=1741889927
   Price: $350.00 USD
 - [Claus Trainer Sneaker Brown Leather Shoes](https://qshebley.com/products/claus-trainer-sneaker): Claus Trainer Sneaker offers premium brown leather, combining timeless style with modern comfort for everyday wear. A must-have in any trainer sneaker collection.
-  Updated: 2026-07-01T14:35:07Z
+  Updated: 2026-08-02T15:34:56Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/claus-trainer-sneaker-men-casual-shoes-brown-leather-sneakers-614.webp?v=1741889946
   Price: $350.00 USD
 - [Nicholas Trainer Sneaker for Casual Style and Comfort](https://qshebley.com/products/nicholas-trainer-sneaker): Nicholas Trainer Sneaker offers a sleek design in grey and black calf leather, blending comfort with style for everyday wear with casual outfits.
-  Updated: 2026-07-01T14:35:12Z
+  Updated: 2026-08-02T15:44:21Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/nicholas-trainer-sneaker-men-casual-shoes-gray-leather-sneakers-111.webp?v=1741889962
   Price: $350.00 USD
 - [Cyril Trainer Sneaker White Leather Red Accents](https://qshebley.com/products/cyril-trainer-sneaker): Cyril Trainer Sneaker features white leather with red accents offering stylish comfort. Ideal for enthusiasts seeking quality trainer sneakers.
-  Updated: 2026-07-01T14:35:12Z
+  Updated: 2026-08-02T15:44:22Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/cyril-trainer-sneaker-men-casual-shoes-white-leather-sneakers-red-904.webp?v=1741889988
   Price: $350.00 USD
 - [Erasmus Top Sider Sneaker Two-Toned Leather](https://qshebley.com/products/erasmus-top-sider-sneaker): Erasmus Top Sider Sneaker features a stylish two-toned leather design and durable cupsole, blending elegance with comfort for everyday wear.
-  Updated: 2026-07-01T14:35:12Z
+  Updated: 2026-08-02T15:44:22Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/erasmus-top-sider-sneaker-men-casual-shoes-two-toned-leather-sneakers-405.webp?v=1741890038
   Price: $350.00 USD
 - [Battus Single Monk Black Leather Tweed Shoes](https://qshebley.com/products/battus-single-monk): Battus Single Monk shoes feature a sophisticated blend of black leather and tweed, offering style and elegance for refined footwear enthusiasts.
-  Updated: 2026-07-01T14:35:11Z
+  Updated: 2026-08-02T15:44:21Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/battus-single-monk-men-dress-shoes-pair-black-leather-tweed-404.webp?v=1741494228
   Price: $450.00 USD
 - [Dios Wellington Slipon Blue Leather Loafers](https://qshebley.com/products/dios-wellington-slipon): Dios Wellington Slipon offers a stylish blue leather design in loafers, combining comfort and elegance for modern footwear suitable for any occasion.
-  Updated: 2026-07-01T14:35:12Z
+  Updated: 2026-08-02T15:44:21Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/dios-wellington-slipon-men-dress-shoes-pair-blue-leather-loafers-684.webp?v=1741890172
   Price: $425.00 USD
 - [Scopas Single Monk Golf Shoes for Stylish Play](https://qshebley.com/products/scopas-single-monk-golf-shoes): Scopas Single Monk Golf Shoes combine style and comfort with a unique single strap design. Ideal for golfers seeking a fashionable yet functional option.
-  Updated: 2026-07-01T14:35:12Z
+  Updated: 2026-08-02T15:44:22Z
   Vendor: Que Shebley
   Product Type: Men Gulf Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/scopas-single-monk-golf-shoes-men-gulf-green-plaid-699.webp?v=1741890215
   Price: $475.00 USD
 - [Celsus Monk Sneaker Crafted from Painted Calf Leather](https://qshebley.com/products/celsus-monk-sneaker): Celsus Monk Sneaker features a classic Belgian design with a contrasting double monk strap, crafted from premium painted calf leather and a white cupsole for a stylish look.
-  Updated: 2026-07-01T14:35:17Z
+  Updated: 2026-08-02T15:44:22Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/celsus-monk-sneaker-men-casual-shoes-pair-navy-blue-leather-787.webp?v=1741890247
   Price: $350.00 USD
 - [Crito Slip On Blue Leather Sneaker](https://qshebley.com/products/crito-slip-on-sneaker): Blue leather Crito Slip On Sneaker offers effortless style and comfort, ideal for casual wear. Premium craftsmanship ensures durability and elegance.
-  Updated: 2026-07-01T14:35:17Z
+  Updated: 2026-08-02T15:44:21Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/crito-slip-on-sneaker-men-casual-shoes-pair-navy-blue-slip-520.webp?v=1741890282
   Price: $350.00 USD
 - [Herais Trainer Patina Sneaker Camouflage Leather](https://qshebley.com/products/herais-trainer-patina-sneaker): Herais Trainer Patina Sneaker features exquisite camouflage leather, blending unique style with comfort, ideal for fashion-forward individuals seeking distinct footwear.
-  Updated: 2026-07-01T14:35:17Z
+  Updated: 2026-08-02T15:44:21Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/herais-trainer-patina-sneaker-men-casual-shoes-camouflage-leather-223.webp?v=1741890308
   Price: $475.00 USD
 - [Tan Leather Homer Trainer Sneaker](https://qshebley.com/products/homer-trainer-sneaker): Homer Trainer Sneaker offers premium tan leather design, delivering elegance and comfort for any casual or athletic endeavor.
-  Updated: 2026-07-01T14:35:20Z
+  Updated: 2026-08-02T15:44:21Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/homer-trainer-sneaker-men-casual-shoes-tan-leather-sneakers-brown-755.webp?v=1741890344
   Price: $350.00 USD
 - [Artemon Chukka Boots Two-Tone Leather and Tweed](https://qshebley.com/products/artemon-chukkas-boots): Artemon Chukka Boots feature two-tone leather and tweed construction, combining style and durability, ideal for a sophisticated yet versatile look.
-  Updated: 2026-07-01T14:35:20Z
+  Updated: 2026-08-02T15:44:21Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/artemon-chukka-boots-men-dress-two-tone-leather-tweed-393.webp?v=1741890423
   Price: $450.00 USD
 - [Euclid Wellington Patina Slip On for Men Dress Shoes](https://qshebley.com/products/euclid-wellington-patina-slip-on): Euclid Wellington Patina slip on features wine calf leather and a stylish purple crust patina, offering comfort and elegance for any dress occasion.
-  Updated: 2026-07-01T14:35:22Z
+  Updated: 2026-08-02T15:44:22Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/euclid-wellington-patina-slip-on-men-dress-shoes-pair-purple-leather-829.webp?v=1741890463
   Price: $550.00 USD
 - [Euphemia Top Sider Sneaker Black Leather Suede](https://qshebley.com/products/euphemia-top-sider-sneaker): Euphemia Top Sider Sneaker features luxurious black leather and suede materials, offering a stylish and comfortable option for cupsole trainer enthusiasts.
-  Updated: 2026-07-01T14:35:20Z
+  Updated: 2026-08-02T15:44:22Z
   Vendor: Que Shebley
   Product Type: Men Casual Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/euphemia-top-sider-sneaker-men-casual-shoes-black-leather-suede-172.webp?v=1741890508
   Price: $350.00 USD
 - [Pelagios Belgian Patina Monk Slipper for Men](https://qshebley.com/products/pelagios-belgian-patina-monk-slipper): Pelagios Belgian Patina Monk Slipper features a contrasting double monk strap, combining classic style with formal elegance in brown camo patina leather.
-  Updated: 2026-07-01T14:35:22Z
+  Updated: 2026-08-02T15:44:21Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/pelagios-belgian-patina-monk-slipper-men-dress-shoes-camouflage-237.webp?v=1741890552
   Price: $550.00 USD
-- [Philo Chukkas Burgundy Black Leather Chukka Boots](https://qshebley.com/products/philo-chukkas): Philo Chukkas are premium burgundy and black leather chukka boots combining elegance with durable construction, ideal for versatile style and comfort.
-  Updated: 2026-07-01T14:35:22Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/philo-chukkas-men-dress-boots-burgundy-black-leather-chukka-428.webp?v=1741890593
-  Price: $450.00 USD
-- [Pyyros Patina Belgian Monk Slipper for Men Dress Shoes](https://qshebley.com/products/pyyros-patina-belgian-monk-slipper): Pyyros Patina Belgian Monk Slipper features a unique denim camo patina and a double monk strap, blending elegance and comfort for formal occasions.
-  Updated: 2026-07-01T14:35:27Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/pyyros-patina-belgian-monk-slipper-men-dress-shoes-camouflage-double-961.webp?v=1741890641
-  Price: $550.00 USD
-- [Theron Military Brogue Boots for Stylish Men](https://qshebley.com/products/theron-military-boots): Theron Military Brogue Boots feature a beautiful brogue pattern, dark brown lux suede, and a rugged yet refined design, perfect for any man's wardrobe.
-  Updated: 2026-07-01T14:35:27Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/theron-military-brogue-boots-men-dress-brown-leather-suede-wingtip-612.webp?v=1741890678
-  Price: $650.00 USD
-- [Zeno Military Brogue Patina Boots for Men Dress Code](https://qshebley.com/products/zeno-military-brogue-patina-boots): Zeno Military Brogue Patina Boots feature a sophisticated brogue pattern, navy calf leather, and a commando sole, combining ruggedness with refined style.
-  Updated: 2026-07-01T14:35:26Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/zeno-military-brogue-patina-boots-men-dress-blue-leather-plaid-wingtip-816.webp?v=1741890698
-  Price: $650.00 USD
-- [Timon Military Brogue Boots for Men Dress Style](https://qshebley.com/products/timon-military-boots): Timon Military Brogue Boots feature a stylish brogue pattern, rugged yet refined design, and are crafted from cognac burnished calf leather with a classic English silhouette.
-  Updated: 2026-07-01T14:35:27Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/timon-military-brogue-boots-men-dress-brown-leather-wingtip-946.webp?v=1741890716
-  Price: $450.00 USD
-- [Zoticus Military Brogue Boots for Men Dress Style](https://qshebley.com/products/zoticus-military-boots): Zoticus Military Brogue Boots combine a rugged design with refined craftsmanship, featuring luxe suede, full-grain leather, and a classic silhouette for versatile style.
-  Updated: 2026-07-01T14:35:27Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/zoticus-military-brogue-boots-men-dress-two-toned-leather-wingtip-876.webp?v=1741890733
-  Price: $450.00 USD
-- [Albus Drake Patina Slipon Men Dress Shoes Online](https://qshebley.com/products/albus-drake-patina-slipon): Albus Drake Patina slipon, crafted from cognac crust and burgundy calf leather, combines comfort with a classic design for a sophisticated look.
-  Updated: 2026-07-01T14:35:27Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/albus-drake-patina-slipon-men-dress-shoes-leather-horsebit-loafers-489.webp?v=1741890757
-  Price: $550.00 USD
-[List Continued](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo0MTE5OTAwMjI1NjQ3LCJsYXN0X3ZhbHVlIjoiNDExOTkwMDIyNTY0NyJ9)
+[List Continued](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo0MDk0NDg3MTAxNTUxLCJsYXN0X3ZhbHVlIjoiNDA5NDQ4NzEwMTU1MSJ9)
 
 ## Collections
 
-- [Luxury Bespoke Shoes for Men Dress Collection](https://qshebley.com/collections/men-dress-shoes): Discover an exquisite collection of men's dress shoes, including Cayton Double Monk, Adahy Full Brogue, and Wachiwi Loafers, with free shipping on orders over $500.
-  Updated: 2026-06-29T16:31:41Z
+- [Men Dress Shoes](https://qshebley.com/collections/men-dress-shoes): Discover an exquisite collection of men's dress shoes, including Cayton Double Monk, Adahy Full Brogue, and Wachiwi Loafers, with free shipping on orders over $500.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 621
-- [Men Casual Shoes Chunky Trainer Sneaker Collection](https://qshebley.com/collections/men-casual-shoes): Discover our Men Casual Shoes collection featuring premium options like Olimpia Oxford Sneaker and Markof Longwing, ensuring style and comfort.
-  Updated: 2026-06-29T16:31:41Z
-  Total Products: 502
-- [Mens Boots Luxury Bespoke Shoes Collection](https://qshebley.com/collections/mens-boots): Discover exquisite men's dress boots featuring styles like Chelsea, Chukka, Jodhpur, and Military Brogue, jumper, moc and balmoral boots.
-  Updated: 2026-06-29T16:31:41Z
+- [Men Casual Shoes](https://qshebley.com/collections/men-casual-shoes): Discover our Men Casual Shoes collection featuring premium options like Olimpia Oxford Sneaker and Markof Longwing, ensuring style and comfort.
+  Updated: 2026-07-22T02:18:36Z
+  Total Products: 504
+- [Mens Boots](https://qshebley.com/collections/mens-boots): Discover exquisite men's dress boots featuring styles like Chelsea, Chukka, Jodhpur, and Military Brogue, jumper, moc and balmoral boots.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 385
-- [Women Shoes Boots Bologna High Heels Luxury](https://qshebley.com/collections/women-dress-shoes): Women Shoes+Boots offers an elegant collection featuring luxury high heels like Emitra Florance, Rinata Barcelona, and more with free shipping on orders over $500.
-  Updated: 2026-06-29T16:31:41Z
-  Total Products: 103
-- [Luxury Boots & Shoes Collection  Online](https://qshebley.com/collections/on-):  collection offers unisex boots, oxford shoes, and ladies loafers with discounts. Enjoy luxury footwear including Brooklyn Patina Moc Boot II and more.
-  Updated: 2026-06-29T16:31:41Z
-  Total Products: 67
-- [Mike Dopud Collection Luxury Bespoke Shoes](https://qshebley.com/collections/the-mike-dopud-collection): The Mike Dopud Collection features high-end footwear for men and women, including exclusive loafers, heels, booties, sneakers, and hiking boots.
-  Updated: 2026-07-01T11:00:25Z
-  Total Products: 315
-- [Luxury Travel Bags and Accessories Collection](https://qshebley.com/collections/luxury-travel): Explore exquisite luxury travel bags for men and women including the Reykjavic Duffle, Palermo Duffle, and Ourika Travel Tote for a sophisticated journey.
-  Updated: 2026-06-29T16:31:41Z
+- [Women Shoes+Boots](https://qshebley.com/collections/women-dress-shoes): Women Shoes+Boots offers an elegant collection featuring luxury high heels like Emitra Florance, Rinata Barcelona, and more with free shipping on orders over $500.
+  Updated: 2026-08-02T01:32:03Z
+  Total Products: 109
+- [](https://qshebley.com/collections/on-):  collection offers unisex boots, oxford shoes, and ladies loafers with discounts. Enjoy luxury footwear including Brooklyn Patina Moc Boot II and more.
+  Updated: 2026-07-26T02:02:56Z
+  Total Products: 57
+- [Mike Dopud Collection](https://qshebley.com/collections/the-mike-dopud-collection): The Mike Dopud Collection features high-end footwear for men and women, including exclusive loafers, heels, booties, sneakers, and hiking boots.
+  Updated: 2026-07-26T02:01:21Z
+  Total Products: 313
+- [Luxury Travel Bags](https://qshebley.com/collections/luxury-travel): Explore exquisite luxury travel bags for men and women including the Reykjavic Duffle, Palermo Duffle, and Ourika Travel Tote for a sophisticated journey.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 104
-- [Premium Leather Belts Shopping Collection Online](https://qshebley.com/collections/premium-belts): Discover the Premium Belts collection featuring exquisite design with options like the Textured Hampton Belt and Duran Croc Hampton Belt. Free shipping over $500.
-  Updated: 2026-06-29T16:31:41Z
+- [Premium Belts](https://qshebley.com/collections/premium-belts): Discover the Premium Belts collection featuring exquisite design with options like the Textured Hampton Belt and Duran Croc Hampton Belt. Free shipping over $500.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 66
-- [Blucher and Longwing Golf Shoes Collection](https://qshebley.com/collections/golf-shoes): Explore a curated selection of premium golf shoes featuring unique designs like Lambo Single Monk and Joseph Longwing Blucher for both men and women.
-  Updated: 2026-07-02T04:45:23Z
+- [Golf Shoes](https://qshebley.com/collections/golf-shoes): Explore a curated selection of premium golf shoes featuring unique designs like Lambo Single Monk and Joseph Longwing Blucher for both men and women.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 46
-- [Unisex Monk Strap and Ibiza High Heels for Women](https://qshebley.com/collections/shop-women): Explore the SHOP WOMEN collection featuring elegant high heels, stylish holdall gym bags, and luxurious duffle bags, all available for online shopping.
-  Updated: 2026-06-29T16:31:42Z
+- [SHOP WOMEN](https://qshebley.com/collections/shop-women): Explore the SHOP WOMEN collection featuring elegant high heels, stylish holdall gym bags, and luxurious duffle bags, all available for online shopping.
+  Updated: 2026-08-02T01:32:03Z
   Total Products: 223
-- [Luxury Exotic Skin Shoes Collection Online](https://qshebley.com/collections/exotic-skin-shoes): Explore luxurious footwear in the Exotic Skin Shoes collection, featuring Amiri Alligator Double Monk, Karma Alligator Loafers, and TheDon Alligator Loafers.
-  Updated: 2026-06-29T16:31:42Z
+- [Exotic Skin Shoes](https://qshebley.com/collections/exotic-skin-shoes): Explore luxurious footwear in the Exotic Skin Shoes collection, featuring Amiri Alligator Double Monk, Karma Alligator Loafers, and TheDon Alligator Loafers.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 154
-- [Luxury Bespoke Loafers for Men](https://qshebley.com/collections/loafers-men): Discover a curated selection of men's loafers featuring brands like Wachiwi, Nndee, and Antonio, with prices starting at $260 for style and sophistication.
-  Updated: 2026-07-03T20:00:37Z
+- [Loafers (Men)](https://qshebley.com/collections/loafers-men): Discover a curated selection of men's loafers featuring brands like Wachiwi, Nndee, and Antonio, with prices starting at $260 for style and sophistication.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 131
-- [Luxury Patina Chelsea Boots Collection Online](https://qshebley.com/collections/chelsea-boots): Explore our Chelsea Boots collection featuring sophisticated designs like the Francesco Patina and Chumani. Premium quality starting at $360.
-  Updated: 2026-06-29T16:31:42Z
+- [Chelsea Boots](https://qshebley.com/collections/chelsea-boots): Explore our Chelsea Boots collection featuring sophisticated designs like the Francesco Patina and Chumani. Premium quality starting at $360.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 122
-- [Women Boots Luxury Collection Online](https://qshebley.com/collections/women-boots): Women Boots collection features high heel and military brogue boots including styles like the Hana Toulouse and Rosa Lyon, offering elegance and versatility.
-  Updated: 2026-06-29T16:31:42Z
+- [Women Boots](https://qshebley.com/collections/women-boots): Women Boots collection features high heel and military brogue boots including styles like the Hana Toulouse and Rosa Lyon, offering elegance and versatility.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 28
-- [Luxury Bespoke Shoes for Men Online Collection](https://qshebley.com/collections/shop-men): Explore the diverse SHOP MEN collection featuring luxury footwear including Nab Loafers, Olimpia Oxford Sneaker, and exotic Amiri Alligator Double Monk.
-  Updated: 2026-07-01T11:00:25Z
-  Total Products: 1698
-- [Luxury Moccasins and Drivers for Leaders](https://qshebley.com/collections/moccasins-drivers): Explore the Moccasins + Drivers collection featuring luxurious options like Lincoln RD Driver, Kalma Driver, and Patina series, with shoes priced from $325 to $450.
-  Updated: 2026-06-29T16:31:42Z
+- [SHOP MEN](https://qshebley.com/collections/shop-men): Explore the diverse SHOP MEN collection featuring luxury footwear including Nab Loafers, Olimpia Oxford Sneaker, and exotic Amiri Alligator Double Monk.
+  Updated: 2026-07-22T02:18:36Z
+  Total Products: 1700
+- [Moccasins + Drivers](https://qshebley.com/collections/moccasins-drivers): Explore the Moccasins + Drivers collection featuring luxurious options like Lincoln RD Driver, Kalma Driver, and Patina series, with shoes priced from $325 to $450.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 53
-- [Hand Painted Patina Wholecut Shoes Collection](https://qshebley.com/collections/hand-painted-patina): Discover the Hand Painted Patina collection featuring limited-edition, award-winning wholecut shoes and boots with unique patina designs, available for both men and women.
-  Updated: 2026-07-01T11:00:25Z
+- [Hand Painted Patina](https://qshebley.com/collections/hand-painted-patina): Discover the Hand Painted Patina collection featuring limited-edition, award-winning wholecut shoes and boots with unique patina designs, available for both men and women.
+  Updated: 2026-07-22T02:18:36Z
   Total Products: 305
 - [Recommended Products](https://qshebley.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-07-01T11:00:25Z
-  Total Products: 1799
-- [Luxury Bespoke Trainer Sneakers for Men and Women](https://qshebley.com/collections/sneakers): Discover the exquisite Sneakers collection featuring premium choices like Olimpia Oxford, Markof Longwing, and FT19 Chunky Trainer, starting at $325.
-  Updated: 2026-06-29T16:31:42Z
-  Total Products: 291
-- [Triple Patina Cigar Cases and Accessories](https://qshebley.com/collections/accessories): Explore the comprehensive Accessories collection offering elegantly crafted cigar cases and document holders, including the upscale Patina series.
-  Updated: 2026-06-29T16:31:42Z
+  Updated: 2026-08-02T01:32:03Z
+  Total Products: 1801
+- [Sneakers](https://qshebley.com/collections/sneakers): Discover the exquisite Sneakers collection featuring premium choices like Olimpia Oxford, Markof Longwing, and FT19 Chunky Trainer, starting at $325.
+  Updated: 2026-07-22T02:18:36Z
+  Total Products: 293
+- [Accessories](https://qshebley.com/collections/accessories): Explore the comprehensive Accessories collection offering elegantly crafted cigar cases and document holders, including the upscale Patina series.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 13
-- [Limited Edition Patina Wholecut Shoes Collection](https://qshebley.com/collections/limited-edition-shoes): Discover the Limited Edition Shoes collection featuring unique designs like Quswa Noir, Arabic Matrix, and award-winning Egyptian Patina Wholecut Shoes.
-  Updated: 2026-07-01T11:00:25Z
+- [Limited Edition Shoes](https://qshebley.com/collections/limited-edition-shoes): Discover the Limited Edition Shoes collection featuring unique designs like Quswa Noir, Arabic Matrix, and award-winning Egyptian Patina Wholecut Shoes.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 44
-- [Luxury Bespoke Shoes for Men New Releases Online](https://qshebley.com/collections/new-releases): Explore our New Releases collection featuring luxury bespoke shoes for men, including Jorgo Double Monk Shoes and Gall Chelsea Boots. Enjoy exclusive styles and rush shipping.
-  Updated: 2026-06-29T16:31:42Z
-  Total Products: 6
-- [Culture Collection Egyptian Patina Wholecut Shoes](https://qshebley.com/collections/the-culture-collection): The Culture Collection offers limited-edition, award-winning patina wholecut shoes, including Script 2, Quswa 2, Egyptian, and Lapis designs, starting at $625.
-  Updated: 2026-06-29T16:31:42Z
+- [New Releases](https://qshebley.com/collections/new-releases): Explore our New Releases collection featuring luxury bespoke shoes for men, including Jorgo Double Monk Shoes and Gall Chelsea Boots. Enjoy exclusive styles and rush shipping.
+  Updated: 2026-08-03T03:12:31Z
+  Total Products: 20
+- [The Culture Collection](https://qshebley.com/collections/the-culture-collection): The Culture Collection offers limited-edition, award-winning patina wholecut shoes, including Script 2, Quswa 2, Egyptian, and Lapis designs, starting at $625.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 19
 - [OrderlyEmails - Recommended Products](https://qshebley.com/collections/orderlyemails-recommended-products-1): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-07-01T11:00:25Z
-  Total Products: 1799
-- [Luxury Patina Wholecut and Chelsea Boots](https://qshebley.com/collections/best-sellers): Discover the Best Sellers collection featuring award-winning Arabic Matrix Patina Shoes, elegant Givario Single Monk designs, and luxurious Lima travel totes.
-  Updated: 2026-07-01T11:00:25Z
+  Updated: 2026-08-02T01:32:03Z
+  Total Products: 1801
+- [Best Sellers](https://qshebley.com/collections/best-sellers): Discover the Best Sellers collection featuring award-winning Arabic Matrix Patina Shoes, elegant Givario Single Monk designs, and luxurious Lima travel totes.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 109
-- [Limited Edition Belts Patina Hamptons Collection](https://qshebley.com/collections/limited-edition-belts): Discover our Limited Edition Belts collection featuring exclusive designs like the Gezzle, Cygnus, and Spartan Patina Hamptons Belt, each priced at $300.
-  Updated: 2026-06-29T16:31:42Z
+- [Limited Edition Belts](https://qshebley.com/collections/limited-edition-belts): Discover our Limited Edition Belts collection featuring exclusive designs like the Gezzle, Cygnus, and Spartan Patina Hamptons Belt, each priced at $300.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 9
-- [Under $400 Mens Laceless Sneaker Collection](https://qshebley.com/collections/under-400-mens-products): Explore premium men's products under $400, featuring brands like Olimpia and Markof, with options like Oxford and Laceless Sneakers for refined style.
-  Updated: 2026-06-29T16:31:42Z
-  Total Products: 401
-- [Lifestyle Jogger Sneakers Relaunching Soon](https://qshebley.com/collections/lifestyle-jogger-sneakers-mens-unisex): Discover the upcoming Lifestyle Jogger Sneakers collection, relaunching soon. Enjoy free shipping on orders over $500.
+- [Under $400 Mens Products](https://qshebley.com/collections/under-400-mens-products): Explore premium men's products under $400, featuring brands like Olimpia and Markof, with options like Oxford and Laceless Sneakers for refined style.
+  Updated: 2026-07-26T02:01:18Z
+  Total Products: 400
+- [Lifestyle Jogger Sneakers (RELAUNCHING SOON)](https://qshebley.com/collections/lifestyle-jogger-sneakers-mens-unisex): Discover the upcoming Lifestyle Jogger Sneakers collection, relaunching soon. Enjoy free shipping on orders over $500.
   Updated: 2026-06-01T23:18:06Z
   Total Products: 78
-- [Q Fast Lane Collection Luxury Bespoke Shoes for Men](https://qshebley.com/collections/q-fast-lane-collection): Discover the Q Fast Lane Collection featuring premium footwear like FP Jumper Boots and Vuala Patina Loafers, with options for expedited shipping.
-  Updated: 2026-06-29T16:31:42Z
+- [Q Fast Lane Collection](https://qshebley.com/collections/q-fast-lane-collection): Discover the Q Fast Lane Collection featuring premium footwear like FP Jumper Boots and Vuala Patina Loafers, with options for expedited shipping.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 197
-- [Designers Pick Luxury Bespoke Shoes for Men](https://qshebley.com/collections/designers-pick): Designers Pick offers exclusive collections of finely crafted footwear and accessories, including limited-edition Arabic Matrix Patina Wholecut Shoes.
-  Updated: 2026-07-01T11:00:25Z
+- [Designers Pick](https://qshebley.com/collections/designers-pick): Designers Pick offers exclusive collections of finely crafted footwear and accessories, including limited-edition Arabic Matrix Patina Wholecut Shoes.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 30
-- [Luxury Gibran Collection Shoes for Men](https://qshebley.com/collections/the-gibran-collection): The Gibran Collection offers limited-edition footwear including Wholecut Shoes, Patina loafers, and Wellington Slip-ons, with prices starting at $485.
-  Updated: 2026-06-29T16:31:43Z
+- [The Gibran Collection](https://qshebley.com/collections/the-gibran-collection): The Gibran Collection offers limited-edition footwear including Wholecut Shoes, Patina loafers, and Wellington Slip-ons, with prices starting at $485.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 9
-- [Mad Men Collection Luxury Bespoke Shoes for Men](https://qshebley.com/collections/mad-men-collection): The Mad Men collection offers premium slip-on shoes for men and women, featuring styles like Lane Drake and DDrapper Wellington. Free shipping on orders over $500.
-  Updated: 2026-06-29T16:31:43Z
+- [Mad Men collection](https://qshebley.com/collections/mad-men-collection): The Mad Men collection offers premium slip-on shoes for men and women, featuring styles like Lane Drake and DDrapper Wellington. Free shipping on orders over $500.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 11
-- [Luxury Double Monk Shoes Collection Online](https://qshebley.com/collections/double-monk-shoes): Explore an exquisite collection of Double Monk Shoes, featuring a variety of styles, from Patina to Exotic. Prices start at $425 with rush shipping options available.
-  Updated: 2026-06-29T16:31:43Z
+- [Double Monk Shoes](https://qshebley.com/collections/double-monk-shoes): Explore an exquisite collection of Double Monk Shoes, featuring a variety of styles, from Patina to Exotic. Prices start at $425 with rush shipping options available.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 103
-- [Luxury Patina Single Monk Shoes Collection](https://qshebley.com/collections/single-monk-shoes): Discover the elegant Single Monk Shoes collection, featuring unique patina designs and styles for both men and women with prompt 7-day rush shipping.
-  Updated: 2026-06-29T16:31:43Z
+- [Single Monk Shoes](https://qshebley.com/collections/single-monk-shoes): Discover the elegant Single Monk Shoes collection, featuring unique patina designs and styles for both men and women with prompt 7-day rush shipping.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 57
-- [Luxury Oxford Shoes for Men and Women Online](https://qshebley.com/collections/oxford-shoes): Discover a curated selection of premium Oxford shoes, including Denver, Olimpia, and Vanguard Patina, with options for rush shipping.
-  Updated: 2026-06-29T16:31:43Z
+- [Oxford shoes](https://qshebley.com/collections/oxford-shoes): Discover a curated selection of premium Oxford shoes, including Denver, Olimpia, and Vanguard Patina, with options for rush shipping.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 56
-- [Luxury Longwing Blucher Shoes for Men](https://qshebley.com/collections/longwing-blucher-shoes): Explore the collection of Longwing Blucher shoes including Markof and Vos styles, available with Patina finishes and 7-day rush shipping. Prices start at $325.
-  Updated: 2026-06-29T16:31:43Z
+- [Longwing Blucher shoes](https://qshebley.com/collections/longwing-blucher-shoes): Explore the collection of Longwing Blucher shoes including Markof and Vos styles, available with Patina finishes and 7-day rush shipping. Prices start at $325.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 57
-- [Patina Derby Shoes Luxury Collection Online](https://qshebley.com/collections/derby-shoes): Explore our collection of Derby shoes, including Maidon, Sharly, and Vincenzo. Enjoy a range of split toe and patina designs with rush shipping options.
-  Updated: 2026-06-29T16:31:43Z
+- [Derby shoes](https://qshebley.com/collections/derby-shoes): Explore our collection of Derby shoes, including Maidon, Sharly, and Vincenzo. Enjoy a range of split toe and patina designs with rush shipping options.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 45
-- [Luxury Full Brogue Shoes with Rush Shipping](https://qshebley.com/collections/full-brogue-shoes): Full brogue shoes collection features handcrafted styles for men and women, including Patina and Taycan options, with prices starting at $425 and fast shipping available.
-  Updated: 2026-06-29T16:31:43Z
+- [Full brogue shoes](https://qshebley.com/collections/full-brogue-shoes): Full brogue shoes collection features handcrafted styles for men and women, including Patina and Taycan options, with prices starting at $425 and fast shipping available.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 40
-- [Luxury Saddle Shoes Collection for Men and Women](https://qshebley.com/collections/saddle-shoes): Discover Noble and Carmine Saddle shoes, including special editions and patina finishes. Enjoy premium craftsmanship and unique styles for both men and women.
-  Updated: 2026-06-29T16:31:43Z
+- [Saddle shoes](https://qshebley.com/collections/saddle-shoes): Discover Noble and Carmine Saddle shoes, including special editions and patina finishes. Enjoy premium craftsmanship and unique styles for both men and women.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 10
-- [Luxury Military Brogue Boots Online Collection](https://qshebley.com/collections/military-brogue-boots): Explore our exquisite Military Brogue Boots collection, featuring options like Manolo Patina and Moscow designs, with 48HR and 7DAY rush shipping available.
-  Updated: 2026-06-29T16:31:43Z
+- [Military brogue boots](https://qshebley.com/collections/military-brogue-boots): Explore our exquisite Military Brogue Boots collection, featuring options like Manolo Patina and Moscow designs, with 48HR and 7DAY rush shipping available.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 50
-- [Balmoral Patina Boots Luxury Bespoke Shoes](https://qshebley.com/collections/balmoral-boots): Explore the refined craftsmanship of Balmoral boots with diverse options including Fabrizio, Luke, Chavez Patina, and more, starting from $360.
-  Updated: 2026-06-29T16:31:43Z
+- [Balmoral boots](https://qshebley.com/collections/balmoral-boots): Explore the refined craftsmanship of Balmoral boots with diverse options including Fabrizio, Luke, Chavez Patina, and more, starting from $360.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 20
-- [Luxury Mens Chukka Boots Collection Online](https://qshebley.com/collections/chukka-boots): Discover a wide collection of Chukka boots featuring styles like Demothi, Juliano, and Franko, with prices starting at $360 for both men and women.
-  Updated: 2026-06-29T16:31:43Z
+- [Chukka boots](https://qshebley.com/collections/chukka-boots): Discover a wide collection of Chukka boots featuring styles like Demothi, Juliano, and Franko, with prices starting at $360 for both men and women.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 43
-- [Luxury Patina Hiking Boots for Men and Women](https://qshebley.com/collections/hiking-boots): Explore a premium collection of hiking boots featuring renowned designs like Winstein and Orizaba Patina, crafted for both men and women.
-  Updated: 2026-06-29T16:31:43Z
+- [Hiking boots](https://qshebley.com/collections/hiking-boots): Explore a premium collection of hiking boots featuring renowned designs like Winstein and Orizaba Patina, crafted for both men and women.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 20
-- [Luxury Jodhpur Patina Boots for Men and Women](https://qshebley.com/collections/jodhpur-boots): Discover an exclusive collection of Jodhpur boots featuring unique patinas and designs, including Godio, Horizon, and Beckam, starting from $425.
-  Updated: 2026-06-29T16:31:43Z
+- [Jodhpur boots](https://qshebley.com/collections/jodhpur-boots): Discover an exclusive collection of Jodhpur boots featuring unique patinas and designs, including Godio, Horizon, and Beckam, starting from $425.
+  Updated: 2026-07-22T02:18:37Z
   Total Products: 50
-- [Luxury Octavian Boots Collection Online](https://qshebley.com/collections/octavian-boots): Discover the Octavian Boots collection featuring styles like T90, Lordius, and Leonard. Enjoy free shipping on orders over $500 and 7-day rush delivery.
-  Updated: 2026-06-29T16:31:43Z
+- [Octavian boots](https://qshebley.com/collections/octavian-boots): Discover the Octavian Boots collection featuring styles like T90, Lordius, and Leonard. Enjoy free shipping on orders over $500 and 7-day rush delivery.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 43
-- [Luxury Moc Boots for Men Online Collection](https://qshebley.com/collections/moc-boots): Moc Boots online collection offers luxurious options like Grandeur Moc Boot for $525 and Summit Moc Boots, featuring 7-day rush shipping for premium footwear.
-  Updated: 2026-06-29T16:31:43Z
+- [Moc boots](https://qshebley.com/collections/moc-boots): Moc Boots online collection offers luxurious options like Grandeur Moc Boot for $525 and Summit Moc Boots, featuring 7-day rush shipping for premium footwear.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 25
-- [Luxury Patina Wholecut Shoes for Men Collection](https://qshebley.com/collections/mens-whole-cut-shoes): Discover premium Men’s Wholecut Shoes featuring unique Patina designs, including limited editions and award-winning styles, with prices starting from $525.
-  Updated: 2026-07-01T11:00:25Z
+- [Men’s Whole cut Shoes](https://qshebley.com/collections/mens-whole-cut-shoes): Discover premium Men’s Wholecut Shoes featuring unique Patina designs, including limited editions and award-winning styles, with prices starting from $525.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 61
-- [Ladies Military Brogue Shoes and Boots Online](https://qshebley.com/collections/womens-full-brogue-shoes-boots): Discover elegant women's full brogue shoes and boots, including styles like Lila Military Brogue Boots and Gaya Unisex Full Brogue Shoes, with options on .
-  Updated: 2026-06-29T16:31:43Z
-  Total Products: 24
-- [Womens Unisex Trainer and Slip-on Sneakers](https://qshebley.com/collections/womens-sneakers): Discover exclusive women's sneakers, including Jullia Patina Tennis Sneaker and Lidia Trainer, crafted for style and comfort. Shop high-top, trainer, and slip-on options.
-  Updated: 2026-06-29T16:31:43Z
+- [Womens Full brogue shoes + boots](https://qshebley.com/collections/womens-full-brogue-shoes-boots): Discover elegant women's full brogue shoes and boots, including styles like Lila Military Brogue Boots and Gaya Unisex Full Brogue Shoes, with options on .
+  Updated: 2026-07-26T02:01:23Z
+  Total Products: 22
+- [Womens sneakers](https://qshebley.com/collections/womens-sneakers): Discover exclusive women's sneakers, including Jullia Patina Tennis Sneaker and Lidia Trainer, crafted for style and comfort. Shop high-top, trainer, and slip-on options.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 21
-- [Womens Kiltie Monk Strap Shoes Collection](https://qshebley.com/collections/womens-kiltie-monk-strap-shoes): Discover elegant Women's Kiltie Monk Strap Shoes featuring patina finishes and unique designs in unisex styles, available in our exquisite online collection.
-  Updated: 2026-06-29T16:31:43Z
+- [Womens kiltie monk strap shoes](https://qshebley.com/collections/womens-kiltie-monk-strap-shoes): Discover elegant Women's Kiltie Monk Strap Shoes featuring patina finishes and unique designs in unisex styles, available in our exquisite online collection.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 12
-- [Womens Patina Loafers Online Collection](https://qshebley.com/collections/womens-loafers): Explore the exquisite Women's Loafers collection featuring Marisool, Patina, Indi, and Marina styles. Prices start at $425, offering elegance and comfort.
-  Updated: 2026-06-29T16:31:43Z
-  Total Products: 6
-- [Designer Womens Flats Hillary Padua Laurina Anna](https://qshebley.com/collections/womens-flats): Explore the Womens Flats collection featuring elegant designs like the Hillary Padua Flat II and Anna Rome Flat, combining style and comfort.
-  Updated: 2026-06-29T16:31:44Z
+- [Womens loafers](https://qshebley.com/collections/womens-loafers): Explore the exquisite Women's Loafers collection featuring Marisool, Patina, Indi, and Marina styles. Prices start at $425, offering elegance and comfort.
+  Updated: 2026-07-22T02:18:38Z
+  Total Products: 8
+- [Womens flats](https://qshebley.com/collections/womens-flats): Explore the Womens Flats collection featuring elegant designs like the Hillary Padua Flat II and Anna Rome Flat, combining style and comfort.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 4
-- [Luxury Men's Drake Shoes Collection Online](https://qshebley.com/collections/men-s-drake-shoes): Discover the exclusive Men’s Drake Shoes collection with luxurious slip-ons including Lane, Harry, and Albus Patina. Prices start at $400.
-  Updated: 2026-06-29T16:31:44Z
+- [Men’s Drake Shoes](https://qshebley.com/collections/men-s-drake-shoes): Discover the exclusive Men’s Drake Shoes collection with luxurious slip-ons including Lane, Harry, and Albus Patina. Prices start at $400.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 18
-- [Luxury Belgian Monk Slippers for Men](https://qshebley.com/collections/men-s-monk-slip-on-shoes): Explore an exquisite collection of Men's Monk Slip-On Shoes, featuring premium Belgian Monk Slippers and Patina designs with prices starting at $325.
-  Updated: 2026-06-29T16:31:44Z
+- [Men’s monk slip on shoes](https://qshebley.com/collections/men-s-monk-slip-on-shoes): Explore an exquisite collection of Men's Monk Slip-On Shoes, featuring premium Belgian Monk Slippers and Patina designs with prices starting at $325.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 17
-- [Men's Wellington Slip-On Shoes Collection](https://qshebley.com/collections/men-s-wellington-shoes): Discover a curated selection of stylish and diverse men's Wellington slip-on shoes, including brands like DDrapper, Khalil Patina, and Eagle, starting at $400.
-  Updated: 2026-06-29T16:31:44Z
+- [Men’s wellington shoes](https://qshebley.com/collections/men-s-wellington-shoes): Discover a curated selection of stylish and diverse men's Wellington slip-on shoes, including brands like DDrapper, Khalil Patina, and Eagle, starting at $400.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 32
-- [Handmade Lux Cigar Cases Triple Patina Cigar](https://qshebley.com/collections/handmade-lux-cigar-cases): Explore the exquisite Handmade Lux Cigar Cases featuring unique designs like Patina and Colombiano, ensuring luxurious protection for your cigars.
-  Updated: 2026-06-29T16:31:44Z
+- [Handmade Lux Cigar cases](https://qshebley.com/collections/handmade-lux-cigar-cases): Explore the exquisite Handmade Lux Cigar Cases featuring unique designs like Patina and Colombiano, ensuring luxurious protection for your cigars.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 14
-- [Luxury Men's Sneakers and Shoes $100-$400](https://qshebley.com/collections/mens-products-100-400): Discover a curated range of men's footwear from $100-$400 including Olimpia Oxford and Twilight Trainer Sneakers, with free shipping on purchases over $500.
-  Updated: 2026-06-29T16:31:44Z
-  Total Products: 370
-- [Luxury Bespoke Shoes for Men $400-$600 Collection](https://qshebley.com/collections/mens-products-400-600): Discover premium men's footwear ranging from $400-$600, including Nab Loafers, Gall Chelsea Boots, and Saif Patina Longwing Blucher, with options for rush shipping.
-  Updated: 2026-06-29T16:31:44Z
+- [Mens Products $100-$400](https://qshebley.com/collections/mens-products-100-400): Discover a curated range of men's footwear from $100-$400 including Olimpia Oxford and Twilight Trainer Sneakers, with free shipping on purchases over $500.
+  Updated: 2026-07-22T02:18:38Z
+  Total Products: 372
+- [Mens Products $400-$600](https://qshebley.com/collections/mens-products-400-600): Discover premium men's footwear ranging from $400-$600, including Nab Loafers, Gall Chelsea Boots, and Saif Patina Longwing Blucher, with options for rush shipping.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 898
-- [Luxury Mens Patina Chelsea Boots Collection](https://qshebley.com/collections/mens-products-600-1000): Explore Mens Products from $600-$1000 featuring limited-edition Chelsea and Wholecut Shoes. Enjoy free shipping on purchases over $500.
-  Updated: 2026-06-29T16:31:44Z
+- [Mens Products $600-$1000](https://qshebley.com/collections/mens-products-600-1000): Explore Mens Products from $600-$1000 featuring limited-edition Chelsea and Wholecut Shoes. Enjoy free shipping on purchases over $500.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 91
-- [Luxury Duffle Bags and Alligator Loafers for Men](https://qshebley.com/collections/mens-products-1000-plus): Luxury men's collection featuring high-end items over $1000, including Amadias Doc Bag, Paris Duffle Bag, and Amiri Alligator Double Monk.
-  Updated: 2026-06-29T16:31:44Z
+- [Mens Products $1000+](https://qshebley.com/collections/mens-products-1000-plus): Luxury men's collection featuring high-end items over $1000, including Amadias Doc Bag, Paris Duffle Bag, and Amiri Alligator Double Monk.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 115
-- [Luxury Chelsea Boots Patina Artisto Collection](https://qshebley.com/collections/the-artisto-collection): The Artisto Collection offers premium footwear including Chelsea Boots, Monk Shoes, and Wholecut Shoes with options like Patina and special editions.
-  Updated: 2026-06-29T16:31:44Z
+- [The Artisto Collection](https://qshebley.com/collections/the-artisto-collection): The Artisto Collection offers premium footwear including Chelsea Boots, Monk Shoes, and Wholecut Shoes with options like Patina and special editions.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 14
-- [Luxury Hand Bags and Weekender Bags Collection](https://qshebley.com/collections/hand-bags): Explore the Hand Bags collection featuring luxury options like The Marilyn, Grace, and Roma Weekender Bags, with prices starting at $825.
-  Updated: 2026-06-29T16:31:44Z
+- [Hand Bags](https://qshebley.com/collections/hand-bags): Explore the Hand Bags collection featuring luxury options like The Marilyn, Grace, and Roma Weekender Bags, with prices starting at $825.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 9
 - [Shop All Collection](https://qshebley.com/collections/shop-all-collection): The Shop All Collection offers premium leather items like Q Lux Leather Care Kit, Anza Venice Belt, and 1955 Loafers with free shipping on $500+ orders.
-  Updated: 2026-07-03T02:15:35Z
-  Total Products: 855
+  Updated: 2026-07-30T11:00:30Z
+  Total Products: 865
 - [Event Collection](https://qshebley.com/collections/event-collection)
-  Updated: 2026-07-03T02:15:35Z
+  Updated: 2026-07-26T02:00:42Z
   Total Products: 27
-- [Luxury Belgian Slip-on Shoes Collection](https://qshebley.com/collections/belgian-slip-on-shoes): Discover exquisite Belgian Slip-on Shoes, featuring luxurious Daou, Chami, and Russia styles, starting at $325; enjoy quality craftsmanship for men and women.
-  Updated: 2026-06-29T16:31:44Z
+- [Belgian Slip-on Shoes](https://qshebley.com/collections/belgian-slip-on-shoes): Discover exquisite Belgian Slip-on Shoes, featuring luxurious Daou, Chami, and Russia styles, starting at $325; enjoy quality craftsmanship for men and women.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 24
-- [Luxury Alligator Shoes and Boots Online Collection](https://qshebley.com/collections/alligator-shoes-and-boots): Explore luxurious Alligator Shoes and Boots, featuring high-end brands like Amiri and Karma, with exclusive designs for both men and women.
-  Updated: 2026-06-29T16:31:44Z
+- [Alligator Shoes and Boots](https://qshebley.com/collections/alligator-shoes-and-boots): Explore luxurious Alligator Shoes and Boots, featuring high-end brands like Amiri and Karma, with exclusive designs for both men and women.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 80
-- [Luxury Snake Skin Shoes and Boots Collection](https://qshebley.com/collections/snake-skin-shoes-and-boots): Explore an exclusive selection of luxurious Snake Skin Shoes and Boots, crafted for elegance and sophistication. Elevate your style with our premium collection.
-  Updated: 2026-06-29T16:31:44Z
+- [Snake Skin Shoes and Boots](https://qshebley.com/collections/snake-skin-shoes-and-boots): Explore an exclusive selection of luxurious Snake Skin Shoes and Boots, crafted for elegance and sophistication. Elevate your style with our premium collection.
+  Updated: 2026-07-22T02:18:38Z
   Total Products: 73
-- [Exotic Ostrich Shoes and Designer Boots Collection](https://qshebley.com/collections/ostrich-shoes-and-boots): Explore Ostrich Shoes and Boots collection featuring distinctive designs, including the Honovi Trainer Ostrich Sneaker for $525. Free shipping on orders over $500.
-  Updated: 2026-06-29T16:31:44Z
+- [Ostrich Shoes and Boots](https://qshebley.com/collections/ostrich-shoes-and-boots): Explore Ostrich Shoes and Boots collection featuring distinctive designs, including the Honovi Trainer Ostrich Sneaker for $525. Free shipping on orders over $500.
+  Updated: 2026-07-22T02:18:39Z
   Total Products: 45
-- [Luxury Duffle Bags Collection for Travel](https://qshebley.com/collections/duffle-bags): Explore our exclusive collection of premium duffle bags, including the Paris, Reykjavic, and Tuscany styles, crafted for sophistication and travel efficiency.
-  Updated: 2026-06-29T16:31:44Z
+- [Duffle Bags](https://qshebley.com/collections/duffle-bags): Explore our exclusive collection of premium duffle bags, including the Paris, Reykjavic, and Tuscany styles, crafted for sophistication and travel efficiency.
+  Updated: 2026-07-22T02:18:39Z
   Total Products: 28
-- [48-Hour Rush Collection Luxury Shoes for Men](https://qshebley.com/collections/48-hour-rush-collection): Explore the 48-Hour Rush Collection featuring premium footwear like Oxford shoes, Chelsea boots, and Military Brogue Boots with quick shipping options.
-  Updated: 2026-06-29T16:31:44Z
+- [48-Hour Rush Collection](https://qshebley.com/collections/48-hour-rush-collection): Explore the 48-Hour Rush Collection featuring premium footwear like Oxford shoes, Chelsea boots, and Military Brogue Boots with quick shipping options.
+  Updated: 2026-07-22T02:18:39Z
   Total Products: 24
-- [Que Shebley Golf Collection Luxury Bespoke Shoes for](https://qshebley.com/collections/golf-collection): Discover the Golf Collection at Que Shebley, where brogue and blucher golf shoes define luxury bespoke shoes for men seeking timeless artistry and prestige.
-  Updated: 2026-06-29T16:31:44Z
+- [Golf Collection](https://qshebley.com/collections/golf-collection): Discover the Golf Collection at Que Shebley, where brogue and blucher golf shoes define luxury bespoke shoes for men seeking timeless artistry and prestige.
+  Updated: 2026-07-30T11:00:30Z
   Total Products: 33
-- [Que Shebley Penny Loafers Luxury Bespoke Shoes](https://qshebley.com/collections/penny-loafers): Discover Shebley Penny Loafers, luxury bespoke shoes for men that unite artisanal heritage with modern precision and hand-painted patina mastery.
-  Updated: 2026-06-29T16:31:44Z
+- [Penny Loafers](https://qshebley.com/collections/penny-loafers): Discover Shebley Penny Loafers, luxury bespoke shoes for men that unite artisanal heritage with modern precision and hand-painted patina mastery.
+  Updated: 2026-07-22T02:18:39Z
   Total Products: 12
-- [Que Shebley Womens Military Brogue Boots](https://qshebley.com/collections/womens-military-brogue-boots): Discover Que Shebley Womens Military Brogue Boots, where refined strength meets artistry in every Jayanta Ladies Military design crafted for distinction.
-  Updated: 2026-06-29T16:31:45Z
+- [Womens Military Brogue Boots](https://qshebley.com/collections/womens-military-brogue-boots): Discover Que Shebley Womens Military Brogue Boots, where refined strength meets artistry in every Jayanta Ladies Military design crafted for distinction.
+  Updated: 2026-07-22T02:18:39Z
   Total Products: 11
-- [Que Shebley Womens Captoe Boots Elegance](https://qshebley.com/collections/womens-captoe-boots): Discover Womens Captoe Boots at Que Shebley, where ladies captoe boots like Jamila and Jorge designs embody refined artistry and timeless sophistication.
-  Updated: 2026-06-29T16:31:45Z
+- [Womens Captoe Boots](https://qshebley.com/collections/womens-captoe-boots): Discover Womens Captoe Boots at Que Shebley, where ladies captoe boots like Jamila and Jorge designs embody refined artistry and timeless sophistication.
+  Updated: 2026-07-22T02:18:39Z
   Total Products: 15
-- [Que Shebley Womens Brogue Boots Collection](https://qshebley.com/collections/womens-brogue-boots): Discover Womens Brogue Boots at Que Shebley, where heritage meets artistry in refined Lauren Ladies Brogue designs crafted for modern elegance.
-  Updated: 2026-06-29T16:31:45Z
+- [Womens Brogue Boots](https://qshebley.com/collections/womens-brogue-boots): Discover Womens Brogue Boots at Que Shebley, where heritage meets artistry in refined Lauren Ladies Brogue designs crafted for modern elegance.
+  Updated: 2026-07-22T02:18:39Z
   Total Products: 6
 - [New! Shopify performance sharing is now turned on](https://qshebley.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-07-03T02:15:35Z
-  Total Products: 2864
-- [Que Shebley Spring 2026 Luxury Bespoke Shoes](https://qshebley.com/collections/spring-summer-2026): Discover Que Shebley Spring Summer 2026, a refined fusion of artistry and comfort showcasing luxury bespoke shoes for men and hand-painted patina styles.
-  Updated: 2026-06-29T16:31:45Z
+  Updated: 2026-08-03T20:29:26Z
+  Total Products: 2858
+- [Spring/Summer 2026](https://qshebley.com/collections/spring-summer-2026): Discover Que Shebley Spring Summer 2026, a refined fusion of artistry and comfort showcasing luxury bespoke shoes for men and hand-painted patina styles.
+  Updated: 2026-07-22T02:18:39Z
   Total Products: 41
 - [Wholesale](https://qshebley.com/collections/wholesale)
-  Updated: 2026-07-03T02:15:35Z
-  Total Products: 989
+  Updated: 2026-07-30T11:00:30Z
+  Total Products: 990
 - [Google Shopping — Active Wholesale](https://qshebley.com/collections/google-shopping-active-wholesale): Auto-synced to Google Merchant Center. Contains all active wholesale/variant products only.
-  Updated: 2026-07-03T03:01:15Z
-  Total Products: 855
-- [Open AI feed](https://qshebley.com/collections/open-ai-feed)
-  Updated: 2026-07-03T02:15:35Z
-  Total Products: 853
+  Updated: 2026-07-30T11:00:30Z
+  Total Products: 865
+- [Q Couture](https://qshebley.com/collections/q-couture): Q Couture holds our occasion-ready heels — pieces built for evenings that ask for more than quiet elegance. Every silhouette in the collection takes its name from Al-Andalus, the centuries when Arab and Iberian art shared the same rooftops — the pointed arches of Córdoba, the bow and strap born of Sevilla's flamenco tradition. It's a lineage that echoes our own: a house shaped by a father's eye for fine leather across the Middle East, now speaking in a new register — sculptural, considered, unmistakably Que Shebley.
+  Updated: 2026-08-02T01:32:03Z
+  Total Products: 5
 
 ## Blogs
 
@@ -2798,11 +2749,59 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
     Updated: 2026-07-01T07:07:47Z
     Author: Que Shebley
     Tags: bespoke tailoring vs made to measure, designer deterioration, footwear anatomy, luxury, mass-market fashion, posture, shoe comfort, shoes, standardized shoe lasts
+  - [Bespoke Tailoring vs Made to Measure Truths Exposed](https://qshebley.com/blogs/news/bespoke-tailoring-vs-made-to-measure-truths-exposed): Bespoke Tailoring vs Made to Measure Truths Exposed
+    Updated: 2026-07-06T07:01:51Z
+    Author: Que Shebley
+    Tags: anatomy, bespoke tailoring vs made to measure, designer suits, footwear quality, glue, luxury, posture issues, tailored suits benefits
+  - [Your Shoes' Expiry Date: Cheap Materials to Blame](https://qshebley.com/blogs/news/your-shoes-expiry-date-cheap-materials-to-blame): Your Shoes' Expiry Date: Cheap Materials to Blame
+    Updated: 2026-07-07T07:06:19Z
+    Author: Que Shebley
+    Tags: bespoke tailoring vs made to measure, cheap footwear, comfort issues, designer fashion, luxury materials, mass-market shoes, shoe quality, shoes and posture, why shoes deteriorate
+  - [Invisible Cracks: Are You Paying for Unseen Errors?](https://qshebley.com/blogs/news/invisible-cracks-are-you-paying-for-unseen-errors): Invisible Cracks: Are You Paying for Unseen Errors?
+    Updated: 2026-07-08T07:06:41Z
+    Author: Que Shebley
+    Tags: bespoke tailoring vs made to measure, comfort, designer clothing failures, deteriorating quality materials, durability, hidden craftsmanship flaws, luxury footwear, posture support, shoes
+  - [The Groom's Last Decision: Why Wedding Shoes Deserve More Thought Than the Cake](https://qshebley.com/blogs/news/the-grooms-last-decision-why-wedding-shoes-deserve-more-thought-than-the-cake): A style guide to wedding shoes for men — from patina Oxfords to dress boots — covering colour, formality, comfort, and why the right pair outlives the day.
+    Updated: 2026-07-24T03:07:04Z
+    Author: Que Shebley
+  - [The Chelsea Boot: Two Hundred Years From the Riding Stable to the Front Row](https://qshebley.com/blogs/news/the-chelsea-boot-two-hundred-years-from-the-riding-stable-to-the-front-row): How the Chelsea boot travelled from a Victorian queen's shoemaker to mod London and the modern wardrobe — and how to choose and wear one now.
+    Updated: 2026-07-24T03:06:44Z
+    Author: Que Shebley
+  - [The Penny Loafer's Long Con: How a Norwegian Farm Shoe Talked Its Way Into Every Room That Matters](https://qshebley.com/blogs/news/the-penny-loafers-long-con-how-a-norwegian-farm-shoe-talked-its-way-into-every-room-that-matters): From Norwegian dairy farms to Ivy League quads, Wall Street and the runway — the strange, brilliant history of the penny loafer and how to wear one now.
+    Updated: 2026-07-24T03:06:19Z
+    Author: Que Shebley
+  - [The Evening Slipper: How a Victorian House Shoe Became Menswear's Most Confident Flourish](https://qshebley.com/blogs/news/the-evening-slipper-how-a-victorian-house-shoe-became-menswears-most-confident-flourish): From Prince Albert's velvet house shoes to the Belgian loafer, the evening slipper is menswear's quietest way of dressing loudly. A history and a guide.
+    Updated: 2026-07-24T03:04:57Z
+    Author: Que Shebley
+  - [The Buckle That Broke the Rules: A Field Guide to the Monk Strap](https://qshebley.com/blogs/news/the-buckle-that-broke-the-rules-a-field-guide-to-the-monk-strap): The monk strap's history, from medieval monasteries to the front row — plus how to wear single and double buckles with real authority. A field guide.
+    Updated: 2026-07-24T03:15:01Z
+    Author: Que Shebley
+  - [The Fairway Was Always a Runway: A Short History of the Golf Shoe](https://qshebley.com/blogs/news/the-fairway-was-always-a-runway-a-short-history-of-the-golf-shoe): From spiked Scottish brogues to saddle shoes and modern dress hybrids, the golf shoe has quietly been one of menswear's most stylish inventions. Here's how.
+    Updated: 2026-07-24T03:14:59Z
+    Author: Que Shebley
+  - [Borrowed, Never Returned: How Women Stole Menswear's Best Shoes](https://qshebley.com/blogs/news/borrowed-never-returned-how-women-stole-menswears-best-shoes): From Dietrich's tuxedo to the tassel loafer, a look at how women appropriated menswear's finest footwear and made it their own power move.
+    Updated: 2026-07-24T03:46:03Z
+    Author: Que Shebley
+  - [The Tassel Loafer: How a Movie Star's Souvenir Became the Establishment's Favourite Shoe](https://qshebley.com/blogs/news/the-tassel-loafer-how-a-movie-stars-souvenir-became-the-establishments-favourite-shoe): The tassel loafer went from a matinee idol's European souvenir to the badge of Ivy League lawyers and, now, one of the most elegant shoes a woman can own.
+    Updated: 2026-07-24T13:01:19Z
+    Author: Que Shebley
+  - [The Holes Were the Point: How a Waterlogged Irish Farm Shoe Became a Symbol of Taste](https://qshebley.com/blogs/news/the-holes-were-the-point-how-a-waterlogged-irish-farm-shoe-became-a-symbol-of-taste): The brogue's decorative perforations began as drainage holes in Irish bog country. Here's how a rough farm shoe climbed into tailoring's inner circle.
+    Updated: 2026-07-27T13:01:07Z
+    Author: Que Shebley
+  - [The Gunboat: How America's Biggest, Boldest Shoe Earned Its Swagger](https://qshebley.com/blogs/news/the-gunboat-how-americas-biggest-boldest-shoe-earned-its-swagger): The longwing blucher — the American "gunboat" — went from Midwest banker's staple to menswear cult object. A short history and how to wear it now.
+    Updated: 2026-07-29T13:01:13Z
+    Author: Que Shebley
+  - [The Chukka Boot: A Desert Ghost That Marched Into the Wardrobe](https://qshebley.com/blogs/news/the-chukka-boot-a-desert-ghost-that-marched-into-the-wardrobe): From Cairo bazaars and polo fields to Clarks, Steve McQueen and Ivy campuses — the improbable story of the chukka boot and why it remains menswear's most versatile.
+    Updated: 2026-07-31T13:01:15Z
+    Author: Que Shebley
+  - [Oxblood: The One Shoe Colour That Refuses to Behave](https://qshebley.com/blogs/news/oxblood-the-one-shoe-colour-that-refuses-to-behave): Why oxblood — that deep, bruised red between burgundy and brown — is the most versatile and most underrated colour in a man's shoe wardrobe.
+    Updated: 2026-08-03T13:01:10Z
+    Author: Que Shebley
 
 ## Store Pages
 
 - [Origins of Que Shebley Bespoke Leather Goods](https://qshebley.com/pages/about-us): Our Story: The Shebley Legacy Crafting timeless luxury with modern vision. The Spirit of Que Shebley At Que Shebley, we honor the artistry of handm...
-  Updated: 2025-04-03T16:21:31Z
+  Updated: 2026-07-07T21:32:10Z
 - [Contact Us - Shebley Luxury Bespoke Shoes](https://qshebley.com/pages/contact-us): 
   Updated: 2025-04-03T16:21:31Z
 - [Sitemap of Luxury Bespoke Shoes for Men](https://qshebley.com/pages/sitemap): Explore the comprehensive Sitemap to easily navigate through Shebley's offerings. Discover luxury bespoke shoes for men, meticulously crafted to co...
@@ -2831,10 +2830,6 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2025-04-03T16:21:34Z
 - [Order Status Lookup by Order Number](https://qshebley.com/pages/my-order-status): 
   Updated: 2026-06-22T15:47:26Z
-- [Luxury Bespoke Shoes and Suits for Executives](https://qshebley.com/pages/wholesale-bespoke): #configurator-container { width: 100%; height: 80vh; max-height: 100%; overflow-y: auto; -webkit-overflow-scrolling: touch; }
-  Updated: 2025-04-03T16:21:38Z
-- [Luxury Bespoke Shoes and Suits for Executives](https://qshebley.com/pages/wholesale-s-bespoke): //
-  Updated: 2025-04-03T16:21:39Z
 - [New Release Luxury Bespoke Shoes for Men](https://qshebley.com/pages/new-release): Discover the elegance of luxury bespoke shoes for men with our latest release. Immerse yourself in the world of Shebley, where each pair is crafted...
   Updated: 2025-04-03T06:27:00Z
 - [ Register Luxury Bespoke Shoes Men](https://qshebley.com/pages/register--account): The  Register Page offers a seamless experience for individuals interested in promoting luxury bespoke shoes for men. As an , you...
@@ -2855,8 +2850,6 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2025-04-03T06:32:47Z
 - [How to Use Feetsizr After Scanning](https://qshebley.com/pages/how-to-use-feetsizr-after-scanning): 
   Updated: 2025-04-03T16:21:48Z
-- [Privacy Policy on Personal Information Collection](https://qshebley.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-29T17:08:03Z
 - [ Program for Luxury Bespoke Shoes](https://qshebley.com/pages/-program): 
   Updated: 2025-04-03T16:21:50Z
 - [Track Your Order for Luxury Bespoke Shoes](https://qshebley.com/pages/track-your-order): Monitor the progress of your order with ease on our dedicated page. This feature allows customers to stay informed about every step of their shipme...
@@ -2889,15 +2882,17 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-02-26T08:54:52Z
 - [Returns Portal for Luxury Bespoke Shoes for Men](https://qshebley.com/pages/returns-portal): 
   Updated: 2026-03-31T17:32:16Z
+- [Your Privacy Choices](https://qshebley.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-07-11T16:16:16Z
 
 ## Policies
 
 - [Privacy Policy](https://qshebley.com/policies/privacy-policy)
-  Updated: 2024-01-29T13:51:00-05:00
+  Updated: 2026-07-11T12:16:16-04:00
 - [Shipping Policy](https://qshebley.com/policies/shipping-policy)
   Updated: 2026-03-22T12:28:54-04:00
 - [Refund Policy](https://qshebley.com/policies/refund-policy)
-  Updated: 2026-03-22T12:27:18-04:00
+  Updated: 2026-07-12T18:42:51-04:00
 - [Terms of Service](https://qshebley.com/policies/terms-of-service)
   Updated: 2023-10-08T11:07:20-04:00
 - [Contact Information](https://qshebley.com/policies/contact-information)
@@ -2905,11 +2900,9 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
 
 ## Alternate Currencies & Languages
 
-- [ADDITIONAL MARKETS (en / USD)](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&market=additional-markets)
-- [ADDITIONAL MARKETS (duties not collected) (en / USD)](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&market=deliver-duties-unpaid-0a2d97bb-322a-41a5-9020-57192ccbd454)
-- [rest of the world (en / USD)](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&market=rest-of-the-world)
-- [rest of the world (duties not collected) (en / USD)](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&market=deliver-duties-unpaid-25e68251-a9a5-4498-9d81-a78f13e010e1)
-- [USA (en / USD)](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&market=usa)
+- [ADDITIONAL MARKETS (en / USD)](https://shopqbyqs.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&market=additional-markets&locale=en&country=AX)
+- [rest of the world (en / USD)](https://shopqbyqs.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&market=rest-of-the-world&locale=en&country=CN)
+- [USA (en / USD)](https://shopqbyqs.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&market=usa&locale=en&country=US)
 
 instagram.com/queshebley
 facebook.com/qbyqs
