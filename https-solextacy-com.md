@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-09-09T14:00:46Z
 - Contact Email: Info@solextacy.com
-- Updated At: 2026-07-27T00:00:38.240Z
+- Updated At: 2026-08-04T00:00:39.988Z
 
 ## Products
 
@@ -279,7 +279,7 @@
     Availability: Available
     Price: $79.99 USD
 - [Helena Pearl Satin Low Heel Shoes | Comfortable Formal Heels | SoleXtacy](https://solextacy.com/products/helena): Helena pearl-studded satin low heel shoes offer cushioned comfort and shimmer. 1-inch block heel with elegant pearl embellishments — perfect for weddings, galas & formal events.
-  Updated: 2026-07-16T23:08:25Z
+  Updated: 2026-08-02T11:53:37Z
   Vendor: SoleXtacy
   Product Type: Shoes
   Availability: Available
@@ -382,7 +382,7 @@
   Image: https://cdn.shopify.com/s/files/1/0594/7985/1165/products/image_f0879244-e70c-4c36-8788-1662f34ec505.jpg?v=1781046906
   Price: $20.00 USD
 - [Erica White Lace Gloves | Sheer Satin Ruffle Formal Gloves | SoleXtacy](https://solextacy.com/products/erica): Erica white lace full-fingered gloves feature sheer fabric with satin ruffles and pearl accents. Elegant finishing touch for weddings & formal occasions.
-  Updated: 2026-07-17T12:13:48Z
+  Updated: 2026-08-02T11:53:37Z
   Vendor: SoleXtacy
   Product Type: 
   Availability: Available
@@ -918,22 +918,22 @@
 ## Collections
 
 - [Heels](https://solextacy.com/collections/heels): Shop SoleXtacy's luxury formal heels — pearl pumps, platform heels, and elegant stilettos for weddings, galas, sorority events, church, and every special occasion.
-  Updated: 2026-06-27T19:23:18Z
+  Updated: 2026-08-03T11:06:25Z
   Total Products: 14
 - [Elegant Handbags](https://solextacy.com/collections/elegant-handbags): Shop SoleXtacy's luxury evening bags and clutches — pearl clutches, sphere bags, and formal minaudieres for weddings, galas, sorority events, and church occasions.
   Updated: 2026-06-27T19:24:04Z
   Total Products: 7
 - [Best Sellers](https://solextacy.com/collections/best-sellers): Shop SoleXtacy's best- formal heels, evening bags, and gloves — the most-loved styles for weddings, galas, church events, sorority conferences, and more.
-  Updated: 2026-06-27T19:25:24Z
+  Updated: 2026-08-03T11:06:25Z
   Total Products: 12
 - [Gloves](https://solextacy.com/collections/gloves): Shop SoleXtacy's luxury formal gloves — pearl, satin, rhinestone, and sheer styles for weddings, galas, church events, sorority conferences, and Masonic occasions.
-  Updated: 2026-06-27T19:24:55Z
+  Updated: 2026-08-03T11:06:25Z
   Total Products: 9
 - [D'vine Collection](https://solextacy.com/collections/divine-collection): Shop the SoleXtacy D'vine Collection — graceful formal heels and accessories for church services, Women's Day, First Lady events, and Masonic occasions.
   Updated: 2026-06-27T19:25:56Z
   Total Products: 3
 - [Bela Collection](https://solextacy.com/collections/bela-collection): Shop the SoleXtacy Bela Collection — bold, glamorous formal heels and accessories for galas, award ceremonies, sorority boules, and retirement celebrations.
-  Updated: 2026-06-27T19:26:29Z
+  Updated: 2026-08-03T11:06:25Z
   Total Products: 24
 - [Spiked Tote (Cabata Inspired)](https://solextacy.com/collections/spiked-tote-cabata-inspired): Signature metallic spikes encircling the handles, a bold sneaker sole and Loubi red lining. It is crafted in grained white leather and features a detachable pouch that can be carried as a clutch. - Dimensions : H 29 x L 39 x W 16 cm
   Updated: 2026-06-14T08:10:30Z
@@ -942,7 +942,7 @@
   Updated: 2026-06-27T19:31:35Z
   Total Products: 6
 - [Church Elegance Collection](https://solextacy.com/collections/church-elegance-collection): Shop the SoleXtacy Church Elegance Collection — refined heels, pearl clutch, and gloves for Women's Day, First Lady events, Sunday service, and church milestones.
-  Updated: 2026-06-27T19:32:22Z
+  Updated: 2026-08-03T11:06:25Z
   Total Products: 6
 - [First Lady Collection](https://solextacy.com/collections/first-lady-collection): Shop the SoleXtacy First Lady Collection — statement heels, pearl sphere bag, and rhinestone gloves for First Lady Anniversary events and formal occasions.
   Updated: 2026-06-27T19:33:12Z
