@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-06-14T11:30:45Z
 - Contact Email: support@aurinwear.com
-- Updated At: 2026-07-29T00:00:52.116Z
+- Updated At: 2026-08-05T00:00:57.145Z
 
 ## Products
 
