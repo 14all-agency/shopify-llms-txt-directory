@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2026-05-23T20:48:04Z
 - Contact Email: admin@safelifedev.com
-- Updated At: 2026-07-29T00:00:43.413Z
+- Updated At: 2026-08-05T00:00:47.247Z
 
 ## Products
 
