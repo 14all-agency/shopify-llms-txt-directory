@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-01-21T05:18:30Z
 - Contact Email: ash@heaustralia.com.au
-- Updated At: 2026-07-27T00:00:44.008Z
+- Updated At: 2026-08-05T00:00:47.238Z
 
 ## Products
 
@@ -159,14 +159,14 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/4031330.webp?v=1776992927
   Price: $79.95 AUD
 - [Progasm Black Ice – Black Prostate Massager for Men | Wildmart](https://wildmart.com.au/products/progasm-black-ice-black-prostate-massager): Shop Progasm Black Ice Prostate Massager at Wildmart for intense stimulation and ultimate pleasure. Order now – get yours today from Wildmart!
-  Updated: 2026-04-20T05:58:17Z
+  Updated: 2026-07-28T08:21:18Z
   Vendor: wildmart.com
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/894757001096.jpg?v=1769074545
   Price: $132.95 AUD
 - [Aneros Helix Trident – White Prostate Massager for Men | Wildmart](https://wildmart.com.au/products/aneros-helix-trident-white-prostate-massager): Get Aneros Helix Trident White Prostate Massager at Wildmart for precise stimulation and ultimate pleasure. Shop now – order today from Wildmart!
-  Updated: 2026-04-20T05:58:17Z
+  Updated: 2026-07-28T08:21:18Z
   Vendor: wildmart.com
   Product Type: 
   Availability: Available
@@ -1557,7 +1557,7 @@
   Image: https://cdn.shopify.com/s/files/1/0790/1246/2838/files/100474_1.jpg?v=1769133813
   Price: $175.95 AUD
 - [Wet Stuff Plus Disc Top 270g | Premium Lubricant | Wildmart](https://wildmart.com.au/products/wet-stuff-plus-disc-top-270g): Shop Wet Stuff Plus Disc Top 270g at Wildmart – premium lubricant for smooth, long-lasting comfort. Buy now to enhance your experience!
-  Updated: 2026-04-20T05:57:09Z
+  Updated: 2026-07-28T08:21:17Z
   Vendor: Wet Stuff
   Product Type: Lotions & Potions
   Availability: Available
@@ -2116,7 +2116,7 @@
   Updated: 2026-05-18T11:43:17Z
   Total Products: 18
 - [Aneros](https://wildmart.com.au/collections/aneros): Shop Aneros prostate toys at Wildmart Australia. Explore premium designs, trusted brands & discreet delivery. Browse the collection and order today!
-  Updated: 2026-05-14T03:29:17Z
+  Updated: 2026-07-28T12:17:33Z
   Total Products: 5
 - [Bondage](https://wildmart.com.au/collections/bondage): Explore bondage toys and accessories at Wildmart Australia. Discover quality gear, trusted brands & discreet delivery. Shop the bondage collection now at Wildmart.
   Updated: 2026-07-17T04:04:35Z
@@ -2146,7 +2146,7 @@
   Updated: 2026-05-14T04:23:43Z
   Total Products: 13
 - [Wet Stuff](https://wildmart.com.au/collections/wet-stuff): Shop Wet Stuff lubricants at Wildmart Australia. Premium, body-safe lubes with discreet delivery. Browse the collection and order now at Wildmart!
-  Updated: 2026-05-18T11:43:17Z
+  Updated: 2026-07-28T12:17:33Z
   Total Products: 9
 - [ Toys Accessories](https://wildmart.com.au/collections/wm-accessories): Shop Vibrators at Wildmart – explore powerful, body-safe designs for ultimate pleasure and satisfaction. Buy now to upgrade your intimate experience.
   Updated: 2026-05-17T11:46:14Z
@@ -2155,13 +2155,13 @@
   Updated: 2026-05-14T03:29:21Z
   Total Products: 6
 - [Male  Toys](https://wildmart.com.au/collections/male--toys): Explore male  toys at Wildmart Australia. Discover quality designs, top brands & discreet delivery. Shop the collection today at Wildmart.
-  Updated: 2026-05-18T11:43:17Z
+  Updated: 2026-07-28T12:17:33Z
   Total Products: 61
 - [ Toys for Couples](https://wildmart.com.au/collections/-toys-for-couples): Enhance intimacy with  toys for couples at Wildmart Australia. Explore premium brands with discreet shipping. Shop now at Wildmart today!
-  Updated: 2026-06-25T11:32:13Z
+  Updated: 2026-07-28T12:17:33Z
   Total Products: 70
 - [Ladies  Toys](https://wildmart.com.au/collections/ladies--toys): Discover premium ladies  toys at Wildmart Australia. Enjoy top brands, body-safe designs & discreet delivery. Shop now and explore at Wildmart!
-  Updated: 2026-07-18T00:57:29Z
+  Updated: 2026-07-28T12:17:33Z
   Total Products: 192
 - [Vibrators](https://wildmart.com.au/collections/vibrators): Shop premium dildos at Wildmart Australia. Explore top brands, body-safe designs & discreet delivery. Browse the collection and order today at Wildmart.
   Updated: 2026-05-18T11:43:17Z
@@ -2170,7 +2170,7 @@
   Updated: 2026-05-14T04:23:51Z
   Total Products: 23
 - [ Lube](https://wildmart.com.au/collections/-lube): Shop premium  lubes at Wildmart Australia. Discover water, silicone & hybrid lubes from top brands. Browse the range and order today at Wildmart.
-  Updated: 2026-05-18T11:43:17Z
+  Updated: 2026-07-28T12:17:33Z
   Total Products: 17
 - [Best   Toys](https://wildmart.com.au/collections/best---toys): Shop Satisfyer toys online at Wildmart for innovative pleasure tech and premium designs. Enjoy discreet delivery across Australia. Browse the collection now!
   Updated: 2026-05-18T11:43:17Z
@@ -2219,7 +2219,7 @@
     Updated: 2026-04-17T12:59:04Z
     Author: Dona Senara
   - [How to Store  Toys the Right Way](https://wildmart.com.au/blogs/news/how-to-store--toys-the-right-way)
-    Updated: 2026-04-17T12:58:34Z
+    Updated: 2026-08-02T19:49:08Z
     Author: Dona Senara
   - [Where Is the Clitoris?](https://wildmart.com.au/blogs/news/where-is-the-clitoris-nbsp)
     Updated: 2026-04-17T12:59:31Z
