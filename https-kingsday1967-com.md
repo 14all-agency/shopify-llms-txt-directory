@@ -8,7 +8,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2022-04-02T11:58:25Z
 - Contact Email: order@kingsday1967.com
-- Updated At: 2026-07-28T00:00:39.581Z
+- Updated At: 2026-08-05T00:00:42.722Z
 
 Kingsday 1967 is het premium Koningsdag kledingmerk van Nederland, opgericht in 2022. Wij ontwerpen exclusieve, eigen oranje streetwear voor Koningsdag (27 april) en voor het Nederlands elftal: T-shirts, hoodies, sweaters, longsleeves, bucket hats en accessoires. Geen standaard oranje feestkleding, maar unieke designs zoals Prins Pils, Prestige, Lion en Nassau.
 Goed om te weten:
@@ -2607,7 +2607,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Kingsday_Original_1967_Longsleeve_Back_v2.png?v=1775051039
     Price: € 42,95 EUR
 - [Prins Pils Longsleeve | Kingsday 1967](https://kingsday1967.com/products/prins-pils-longsleeve): Prins Pils Longsleeve voor Koningsdag - het iconische design in zwart en wit met oranje opdruk. 100% biologisch katoen, 180 g/m², dikke stof. Gratis verzending.
-  Updated: 2026-07-27T07:18:02Z
+  Updated: 2026-08-04T08:27:18Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2673,7 +2673,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/dbc05e4f0ba44f4f6ab5533ba45cd407f0d59b26.png?v=1775908477
     Price: € 42,95 EUR
 - [Prestige Longsleeve - Vintage Streetwear | Kingsday 1967](https://kingsday1967.com/products/prestige-longsleeve): Prestige Longsleeve kopen voor Koningsdag? Premium vintage streetwear in zwart en wit met oranje opdruk. 100% biologisch katoen, 180 g/m². Gratis verzending.
-  Updated: 2026-07-27T07:18:03Z
+  Updated: 2026-08-04T08:27:19Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2719,7 +2719,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/94c0982dbfd6c9595ed837cc1fb8fdfe74e25ebc.png?v=1775314063
     Price: € 42,95 EUR
 - [Anti Royal Royal Club Koningsdag Longsleeve | Kingsday 1967](https://kingsday1967.com/products/anti-royal-royal-club-longsleeve): Anti Royal Royal Club Longsleeve voor Koningsdag. Oranje, wit of zwart, 190 g/m² katoen, maten S t/m 2XL. Premium stof. Gratis verzending via PostNL.
-  Updated: 2026-07-27T07:18:02Z
+  Updated: 2026-08-04T08:27:18Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2790,17 +2790,17 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
 - [Koningsdag Kleding](https://kingsday1967.com/collections/koningsdag-kleding): Shop koningsdag kleding voor heren en dames. Oranje shirts, hoodies en accessoires. Unieke designs, maten XS–3XL. Gratis verzending.
   Updated: 2026-07-18T12:57:29Z
   Total Products: 34
-- [Koningsnacht Kleding](https://kingsday1967.com/collections/kingsnight): Koningsnacht is de opmaat voor het grootste feest van Nederland. Terwijl anderen die avond nog aan het twijfelen zijn over hun outfit van morgen, sta jij al goed. De Kingsday 1967 Koningsnacht-collectie bestaat uit dezelfde premium shirts en hoodies die je ook een nacht later aandoet. Voor Koningsnacht wil je al subtiel oranje tonen. We hebbe verschillende designs die je ook met Koningsnacht laten opvallen. De hoodies zijn populair voor deze avond: herkenbaar Nederlands, maar warm genoeg voor een late avond buiten. De shirts werken even goed voor wie het liever casual houdt. Alle items zijn verkrijgbaar in zwart, wit en oranje. Maten XS t/m 3XL. Gratis verzending.
-  Updated: 2026-07-18T12:57:29Z
+- [Koningsnacht Kleding](https://kingsday1967.com/collections/koningsnacht-kleding): Koningsnacht is de opmaat voor het grootste feest van Nederland. Terwijl anderen die avond nog aan het twijfelen zijn over hun outfit van morgen, sta jij al goed. De Kingsday 1967 Koningsnacht-collectie bestaat uit dezelfde premium shirts en hoodies die je ook een nacht later aandoet. Voor Koningsnacht wil je al subtiel oranje tonen. We hebbe verschillende designs die je ook met Koningsnacht laten opvallen. De hoodies zijn populair voor deze avond: herkenbaar Nederlands, maar warm genoeg voor een late avond buiten. De shirts werken even goed voor wie het liever casual houdt. Alle items zijn verkrijgbaar in zwart, wit en oranje. Maten XS t/m 3XL. Gratis verzending.
+  Updated: 2026-07-31T20:36:19Z
   Total Products: 11
 - [2024 Collection](https://kingsday1967.com/collections/2024-collection)
-  Updated: 2026-07-18T04:40:11Z
+  Updated: 2026-07-31T20:38:17Z
   Total Products: 5
-- [Koningsdag Shirts](https://kingsday1967.com/collections/crewneck): Ontdek de premium Koningsdag shirts van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-18T12:53:02Z
+- [Koningsdag Shirts](https://kingsday1967.com/collections/shirts): Ontdek de premium Koningsdag shirts van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-07-31T20:25:35Z
   Total Products: 30
-- [Koningsdag Hoodies](https://kingsday1967.com/collections/hoodies): Shop premium Koningsdag hoodies van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending, levering in 1–2 werkdagen.
-  Updated: 2026-07-18T12:57:29Z
+- [Koningsdag Hoodies](https://kingsday1967.com/collections/hoodies): Shop premium Koningsdag hoodies van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending, levering in 1–3 werkdagen.
+  Updated: 2026-07-31T20:45:14Z
   Total Products: 9
 - [Outlet](https://kingsday1967.com/collections/outlet)
   Updated: 2026-07-18T12:53:02Z
@@ -2820,8 +2820,8 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
 - [Koningsdag Zonnebrillen](https://kingsday1967.com/collections/zonnebrillen): Stijlvolle zonnebrillen voor Koningsdag van Kingsday 1967. Goede prijs, gratis verzending. De perfecte finishing touch voor jouw Koningsdag-look.
   Updated: 2026-06-07T00:53:36Z
   Total Products: 3
-- [Oranje Kleding WK voetbal 2026](https://kingsday1967.com/collections/wk-2026): Oranje shirts en hoodies voor het WK 2026. 100% katoen XS–3XL. Premium kwaliteit voor elk Oranje-moment. Gratis verzending.
-  Updated: 2026-07-18T12:53:02Z
+- [Oranje Kleding](https://kingsday1967.com/collections/oranje-kleding): Oranje shirts en hoodies voor Koningsdag en voetbal. 100% katoen XS–3XL. Premium kwaliteit voor elk oranje-moment. Gratis verzending.
+  Updated: 2026-07-31T20:37:38Z
   Total Products: 28
 - [Koningsdag Shirts Dames](https://kingsday1967.com/collections/koningsdag-shirts-dames): Premium Koningsdag shirts voor dames. Biologisch katoen, vegan, regular fit XS–3XL. Draag oranje met stijl op 27 april. Gratis verzending.
   Updated: 2026-07-18T12:57:29Z
@@ -2844,6 +2844,14 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Updated: 2026-06-23T20:37:07Z
     Author: Bart Natics
     Tags: koningsdag kleding, koningsdag outfit heren, koningsdag shirt heren, koningsdag t-shirt heren, koningsdag-gids
+  - [Wanneer is Koningsdag 2027? Datum en Koningsnacht](https://kingsday1967.com/blogs/koningsdag-kleding/wanneer-is-koningsdag): Wanneer is Koningsdag 2027? Datum en Koningsnacht
+    Updated: 2026-07-30T15:51:57Z
+    Author: Bart Natics
+- [festivals](https://kingsday1967.com/blogs/festivals)
+  - [Koningsdag festivals 2027: alle grote festivals op een rij](https://kingsday1967.com/blogs/festivals/koningsdag-festivals): <p>Alle grote Koningsdag en Koningsnacht festivals van 2027 met datum, locatie en muzieksoort. Plus: wat je aantrekt naar elk type festival.</p>
+    Updated: 2026-07-30T15:22:51Z
+    Author: Bart Natics
+    Tags: festivals, koningsdag festivals 2027, koningsdag kleding
 
 ## Store Pages
 
