@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-02T16:18:26Z
 - Contact Email: info@chaksstudio.com
-- Updated At: 2026-07-30T00:00:28.280Z
+- Updated At: 2026-08-06T00:00:34.553Z
 
 ## Products
 
@@ -137,7 +137,7 @@
     Availability: Available
     Price: ₹2,250.00 INR
 - [REKHA SHIRT - KANTHA EMBROIDERY SHIRT](https://www.chaksstudio.com/products/rekha-shirt): The REKHA shirt is built around an uninterrupted hand-embroidered kantha zigzag line, a quiet detail inspired by the rhythm of traditional Kantha stitching. The embroidery acts as a subtle mark of the maker's hand, bringing warmth and character to an otherwise minimal silhouette. Crafted from a 100% cotton-linen blend, it delivers a breathable, relaxed fit ideal for year-round wear. Designed to move effortlessly between everyday wear and special occasions, Rekha celebrates the beauty of restraint, where every stitch has a purpose.
-  Updated: 2026-07-22T16:13:29Z
+  Updated: 2026-08-01T06:17:27Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -158,7 +158,7 @@
     Availability: Available
     Price: ₹1,399.00 INR
 - [NISHAAN SHIRT](https://www.chaksstudio.com/products/nishaan-shirt): The NISHAAN SHIRT is an exploration of the traces left by the maker's hand. Inspired by the irregular rhythm of traditional Kantha embroidery, each stitched detail is intentionally placed across the garment, creating a composition of quiet marks rather than a repeating pattern. Crafted from breathable cotton-linen in a deep navy hue, the shirt features a relaxed silhouette, tonal buttons, and thoughtfully embroidered details that bring texture without overwhelming the design.
-  Updated: 2026-07-19T09:47:37Z
+  Updated: 2026-08-01T06:23:27Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -182,16 +182,16 @@
 ## Collections
 
 - [MENSWEAR](https://www.chaksstudio.com/collections/frontpage): Explore ‘Transit’ by CHAKS – handmade Kantha cotton shirts from Bengal. Inspired by migration, nostalgia, and timeless everyday craftsmanship.
-  Updated: 2026-07-28T19:04:20Z
+  Updated: 2026-08-01T11:20:34Z
   Total Products: 7
 - [WOMENSWEAR](https://www.chaksstudio.com/collections/womenswear): Discover ‘Transit’, CHAKS’ debut collection of hand-stitched Kantha cotton shirts. Handmade in Bengal, inspired by migration, nostalgia, and everyday craft.
   Updated: 2026-07-12T00:19:15Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.chaksstudio.com/collections/avada-best-sellers)
-  Updated: 2026-07-23T11:20:17Z
+  Updated: 2026-08-01T11:20:34Z
   Total Products: 12
 - [REKHA SHIRT](https://www.chaksstudio.com/collections/rekha-shirt)
-  Updated: 2026-07-23T11:20:17Z
+  Updated: 2026-08-01T11:20:34Z
   Total Products: 8
 
 ## Blogs
@@ -202,13 +202,21 @@
     Author: CHAKS STUDIO
     Tags: Artisan made, Chaks, Conscious Consumerism, Craft revival, Ethical fashion, Fashion with Purpose, Handcrafted fashion, Handmade clothing, Indian, Indian crafts, Kantha embroidery, Made in India, Slow fashion, Sustainable fashion, Wearable Art
   - [Elevate Your Style: Luxury Travel Meets Sustainable Indian Fashion](https://www.chaksstudio.com/blogs/news/elevate-your-style-3a-luxury-travel-outfits-26-sustainable-indian-fashion): Elevate Your Style: Luxury Travel Meets Sustainable Indian Fashion
-    Updated: 2025-08-21T17:28:46Z
+    Updated: 2026-08-01T09:10:37Z
     Author: CHAKS STUDIO
     Tags: eco-friendly clothing, Indian fashion, luxury fashion, sustainable style, travel outfits
   - [WHEN JAZZ MEETS CRAFT : CHAKS X TAMIL JAZZ COLLECTIVE](https://www.chaksstudio.com/blogs/news/when-jazz-meets-craft-3a-chaks-x-tamil-jazz-collective): WHEN JAZZ MEETS CRAFT : CHAKS X TAMIL JAZZ COLLECTIVE
     Updated: 2025-08-22T18:57:21Z
     Author: CHAKS
     Tags: CHAKS Studio, Craft Collaboration, Cultural Fusion, Jazz, Tamil Jazz
+  - [How Our Shirts Are Made: The Craft Behind Every Chaks Kantha Piece](https://www.chaksstudio.com/blogs/news/handcrafted-kantha-embroidery-shirts-craft)
+    Updated: 2026-08-01T15:04:45Z
+    Author: CHAKS STUDIO
+    Tags: Artisan made, Chaks, Conscious Consumerism, Craft Collaboration, Craft revival, Cultural Fusion, eco-friendly clothing, Handcrafted fashion, Handmade clothing, Indian crafts, Slow fashion, Sustainable fashion, travel outfits
+  - [Behind the Design: Introducing the Rekha and Nishaan Handcrafted Shirts](https://www.chaksstudio.com/blogs/news/behind-the-design-rekha-nishaan-shirts)
+    Updated: 2026-08-01T12:33:26Z
+    Author: CHAKS STUDIO
+    Tags: Artisan made, Chaks, CHAKS Studio, Conscious Consumerism, Craft Collaboration, Craft revival, Cultural Fusion, eco-friendly clothing, Ethical fashion, Fashion with Purpose, Handcrafted fashion, Handmade clothing, Indian, Indian crafts, Indian fashion, Kantha embroidery, luxury fashion, Made in India, Slow fashion, Sustainable fashion, Wearable Art
 
 ## Store Pages
 
