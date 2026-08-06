@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-03-17T21:21:04Z
 - Contact Email: koreanotc@gmail.com
-- Updated At: 2026-07-30T00:00:39.070Z
+- Updated At: 2026-08-06T00:00:41.023Z
 
 ## Products
 
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/aestura-atobarrier365-gentle-ph-balancing-foaming-cleanser-5232750.png?v=1783450833
   Price: $21.00 USD
 - [Korean Sunscreen SPF 45 | ROUND LAB UV Lock](https://www.koreanotc.com/products/round-lab-birch-juice-sunscreen): Discover ROUND LAB Birch Juice Moisturizing UV Lock, a Korean sunscreen SPF 45 that helps protect skin while keeping it hydrated and comfortable.
-  Updated: 2026-07-08T06:58:41Z
+  Updated: 2026-08-04T14:46:23Z
   Vendor: Round Lab
   Product Type: 
   Availability: Available
@@ -166,6 +166,14 @@
   - [OH Pharmacy: Locations, Services, and More](https://www.koreanotc.com/blogs/news/oh-pharmacy): OH Pharmacy: Locations, Services, and More
     Updated: 2026-07-25T19:37:19Z
     Author: Oh Min
+  - [How to Get Skin Like Korean Idols | K-Beauty Routine](https://www.koreanotc.com/blogs/news/how-to-get-skin-like-korean-idols): How to Get Skin Like Korean Idols | K-Beauty Routine
+    Updated: 2026-07-30T23:11:55Z
+    Author: Oh Min
+    Tags: AESTURA, BTS Skincare, Ceramides, Lemona, Skin Barrier, Vitamin C
+  - [How to Choose the Perfect Lightweight Face Moisturizer for Smooth, Hydrated Skin.](https://www.koreanotc.com/blogs/news/how-to-choose-the-perfect-lightweight-face-moisturizer-for-smooth-hydrated-skin)
+    Updated: 2026-08-05T08:48:10Z
+    Author: Oh Min
+    Tags: AESTURA, dry skin, Korean skincare, moisture barrier, moisturizer, sensitive skin care, Skin Care
 - [Round Lab Birch Juice Moisturizing Sunscreen SPF50+: The Korean Sunscreen for Glass Skin](https://www.koreanotc.com/blogs/round-lab-birch-juice-moisturizing-sunscreen-spf50-the-korean-sunscreen-for-glass-skin)
   - [Round Lab Birch Juice Sunscreen SPF50+: A Hydrating Korean Sunscreen for Glass Skin](https://www.koreanotc.com/blogs/round-lab-birch-juice-moisturizing-sunscreen-spf50-the-korean-sunscreen-for-glass-skin/round-lab-birch-juice-sunscreen-glass-skin-s-skin)
     Updated: 2026-07-29T15:41:12Z
