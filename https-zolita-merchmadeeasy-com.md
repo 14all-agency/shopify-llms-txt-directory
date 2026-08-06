@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-04-12T17:27:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-26T00:00:38.943Z
+- Updated At: 2026-08-06T00:00:44.004Z
 
 ## Products
 
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZolitaVinyl.png?v=1713456968
   Price: $27.00 USD
 - [Cult of Girls Necklace](https://zolita.merchmadeeasy.com/products/cult-of-girls-necklace): Gold-plated and silver-plated necklace with 18 inch cable chain; for best results, do not expose necklace to water.
-  Updated: 2026-07-08T20:23:48Z
+  Updated: 2026-07-29T02:35:03Z
   Vendor: Zolita
   Product Type: Necklace
   Availability: Available
@@ -198,7 +198,7 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Falling Out / Falling In - SIGNED CD](https://zolita.merchmadeeasy.com/products/falling-out-falling-in-signed-cd): Zolita's 2023 EP, hand-signed by Zolita! Track Listing 20 Questions Drunk with Your Exes Crazy Ex Ruin My Life Ashley For the Both of Us Release Date: February 10, 2023
-  Updated: 2026-07-08T20:23:48Z
+  Updated: 2026-07-28T23:01:40Z
   Vendor: Zolita
   Product Type: CD
   Availability: Available
@@ -299,7 +299,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Gay Ass Tee](https://zolita.merchmadeeasy.com/products/gay-ass-tee): 100% cotton t-shirt. Size Body Length (in) Chest Width (Laid Flat) S 27 3/4 17 1/8 M 28 5/8 19 L 29 1/2 21 XL 30 1/2 22 7/8 2XL 31 3/8 24 3/4 3XL 32 3/8 26 5/8
-  Updated: 2026-07-18T11:32:22Z
+  Updated: 2026-07-30T08:44:32Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -441,70 +441,70 @@
 ## Collections
 
 - [Home page](https://zolita.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-07-20T19:19:37Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 36
 - [Apparel](https://zolita.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-07-20T19:19:37Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 30
 - [Accessories](https://zolita.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-07-20T19:19:35Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 6
 - [Music](https://zolita.merchmadeeasy.com/collections/media)
-  Updated: 2026-07-08T20:23:50Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 10
 - [Hats](https://zolita.merchmadeeasy.com/collections/hats)
   Updated: 2026-07-20T19:19:35Z
   Total Products: 1
 - [All](https://zolita.merchmadeeasy.com/collections/all)
-  Updated: 2026-07-20T19:19:37Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 46
 - [Queen of Hearts](https://zolita.merchmadeeasy.com/collections/queen-of-hearts)
-  Updated: 2026-07-08T20:23:49Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 9
 - [Queen of Hearts Merch](https://zolita.merchmadeeasy.com/collections/queen-of-hearts-merch)
-  Updated: 2026-07-19T11:16:05Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 11
 - [Old Favorites](https://zolita.merchmadeeasy.com/collections/old-favorites)
-  Updated: 2026-07-20T19:19:37Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 15
 - [Cult of Girls Collection](https://zolita.merchmadeeasy.com/collections/cult-of-girls-collection)
-  Updated: 2026-07-08T20:23:50Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 4
 - [Necklace](https://zolita.merchmadeeasy.com/collections/necklace)
-  Updated: 2026-07-08T20:23:49Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 1
 - [Queen of Hearts Tour](https://zolita.merchmadeeasy.com/collections/queen-of-hearts-tour)
-  Updated: 2026-07-19T11:16:05Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 12
 - [Gay Ass Collection](https://zolita.merchmadeeasy.com/collections/gay-ass-collection)
-  Updated: 2026-07-19T11:16:05Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 8
 - [$20.24](https://zolita.merchmadeeasy.com/collections/20-24)
-  Updated: 2026-07-08T20:23:20Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 0
 - [EasyGift All Products](https://zolita.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-07-20T19:19:37Z
+  Updated: 2026-07-30T11:17:42Z
   Total Products: 48
 - [New](https://zolita.merchmadeeasy.com/collections/new)
-  Updated: 2026-07-08T20:23:55Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 5
 - [New Arrivals](https://zolita.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-07-20T19:19:37Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 48
 - [Best Sellers](https://zolita.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-07-20T19:19:37Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 48
 - [](https://zolita.merchmadeeasy.com/collections/)
-  Updated: 2026-07-20T19:19:37Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 11
 - [Tees & Tanks](https://zolita.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-07-20T19:19:37Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 21
 - [I <3 GIRLS](https://zolita.merchmadeeasy.com/collections/i-3-girls)
-  Updated: 2026-07-08T20:23:20Z
+  Updated: 2026-08-05T18:57:59Z
   Total Products: 2
 - [Hell's Belles](https://zolita.merchmadeeasy.com/collections/hells-belles)
-  Updated: 2026-07-08T20:23:20Z
+  Updated: 2026-08-05T18:58:00Z
   Total Products: 2
 
 ## Store Pages
