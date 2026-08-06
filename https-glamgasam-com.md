@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-02-21T03:08:43Z
 - Contact Email: Info@GlamGasam.com
-- Updated At: 2026-07-27T00:00:40.105Z
+- Updated At: 2026-08-06T00:00:44.083Z
 
 ## Products
 
@@ -1704,35 +1704,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/0712/0211/files/SE0309-00-2.jpg?v=1772230019
   Price: $28.20 USD
-- [Kama Sutra Pleasure Balm Sensations-Raspberry Kiss 1.7oz](https://glamgasam.com/products/kama-sutra-pleasure-balm-sensations-raspberry-kiss-1-7oz): Kissable, water-based Kama Sutra body gel for romantic play. Formulated to provide a refreshing cooling, tingling sensation on the skin. Features * Refreshing, kissable body treat * Exciting cool and tingly sensation * Water-based and non-staining * TSA  * Paraben Free Package Weight 2.80 Ounces Package Dimensions 1.30W by 5.00H by 2.30L inches
-  Updated: 2026-07-13T20:37:16Z
-  Vendor: KAMA SUTRA
-  Product Type: Enhancers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/0712/0211/files/KS10071.jpg?v=1772230021
-  Price: $21.86 USD
-- [Sliquid Oceanics Natural Lube 4.2oz](https://glamgasam.com/products/sliquid-oceanics-natural-lube-4-2oz): Sliquid Oceanics is the newest addition to the Organics family of products. This product takes the infusion of organic botanical extracts to a whole new level with the addition of natural seaweed extracts. Carrageenan offers the benefit of being one of the most effective lubricants found in nature, and has been shown in some lab tests to help prevent the spread of HPV (Genital Warts), which is one of the most common STDÕs. Nori is a green algae, and is a great source of B Vitamins (Folic Acid) and minerals, including Zinc, Iodine, Iron and Copper. Features * Aloe based lubricant infused w/ seaweed extracts * Formulated with 95% organic ingredients * 100% Vegan friendly/ NO animal testing * Long lasting and easy to clean up * Glycerin, paraben, & petroleum free * Hypoallergenic and non-toxic * Enhance your bodyÕs own natural lubrication * pH balanced * Proudly formulated & produced in the USA Package Weight 5.20 Ounces Package Dimensions 2.00W by 4.50H by 2.00L inches
-  Updated: 2026-07-13T20:37:16Z
-  Vendor: SLIQUID
-  Product Type: Lubricants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/0712/0211/files/SLQ1663-00_83622993-24a7-4ab2-9cf7-555f4bee448b.jpg?v=1772230022
-  Price: $17.14 USD
-- [Shunga Toko Aqua Lube 5.5oz](https://glamgasam.com/products/shunga-toko-aqua-lube-5-5oz): TOKO Aqua is the next generation of personal lubricant, exclusively formulated to emulate natural lubrication and facilitate penetration. This ultra-silky, long-lasting water-based lubricant enhances bodily sensations. Features * Water Based * Ultra Silky * Non-Staining * Long-Lasting * Paraben Free Package Weight 7.80 Ounces Package Dimensions 2.00W by 6.00H by 2.30L inches
-  Updated: 2026-07-13T20:37:16Z
-  Vendor: SHUNGA
-  Product Type: Lubricants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/0712/0211/files/SH6200.jpg?v=1772230024
-  Price: $22.28 USD
-- [Coochy Shave Cream-Peachy Keen 7.2oz](https://glamgasam.com/products/coochy-shave-cream-peachy-keen-7-2oz): Delight in the ripe pleasures of peachy keen. Infused with a sweet and juicy blend of Georgia peaches, sugar cane and a hint of vanilla, you'll fall in love with the lip smacking goodness of this fragrance. Our signature shave cream stops red bumps from appearing on your bikini area, underarms, legs, and anywhere else you shave. Leaves skin oh so smooth, delicately fragranced and irresistible to touch! Features * Gentle enough for all areas of the body * Designed for both men and women * Dermatologist TestedÑIdeal for Sensitive Skin * Doubles as a gentle, moisturizing hair conditioner Package Weight 8.30 Ounces Package Dimensions 2.00W by 8.00H by 3.00L inches
-  Updated: 2026-07-13T20:37:16Z
-  Vendor: CLASSIC BRANDS
-  Product Type: Bath & Body
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/0712/0211/files/HCOO1014-07.jpg?v=1772230025
-  Price: $20.50 USD
-[List Continued](https://glamgasam.com/a/llms-agent/llms.txt?shop=5qfrkq-qu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODk0MzUzOTAzNjk5LCJsYXN0X3ZhbHVlIjoiNzg5NDM1MzkwMzY5OSJ9)
+[List Continued](https://glamgasam.com/a/llms-agent/llms.txt?shop=5qfrkq-qu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODk0MzUzNzcyNjI3LCJsYXN0X3ZhbHVlIjoiNzg5NDM1Mzc3MjYyNyJ9)
 
 ## Collections
 
@@ -1740,7 +1712,7 @@
   Updated: 2026-07-01T18:57:08Z
   Total Products: 1
 - [The Glam Gasam Featured Products](https://glamgasam.com/collections/the-glam-gasam-featured-products)
-  Updated: 2026-07-26T11:20:01Z
+  Updated: 2026-08-05T11:18:02Z
   Total Products: 53848
 - [Anal Toys](https://glamgasam.com/collections/anal-toys): Explore a curated selection of premium anal play essentials designed for comfort, confidence, and elevated experiences. From beginner-friendly designs to advanced luxury pieces, each item is crafted with quality and discretion in mind.
   Updated: 2026-07-12T11:18:24Z
@@ -1800,7 +1772,7 @@
   Updated: 2026-07-16T11:18:19Z
   Total Products: 11288
 - [Lubricants](https://glamgasam.com/collections/lubricants): Silky, premium formulas designed for comfort, performance, and seamless pleasure.
-  Updated: 2026-07-26T11:20:01Z
+  Updated: 2026-07-28T11:18:45Z
   Total Products: 2022
 - [Lubricants, Creams & Glides](https://glamgasam.com/collections/lubricants-creams-glides): Explore specialized formulas crafted to enhance sensation, support intimacy, and elevate comfort.
   Updated: 2026-07-01T18:57:09Z
@@ -1821,7 +1793,7 @@
   Updated: 2026-07-16T11:18:19Z
   Total Products: 92
 - [Packers](https://glamgasam.com/collections/packers): Body-positive essentials designed for confidence, identity expression, and everyday comfort.
-  Updated: 2026-07-17T11:18:58Z
+  Updated: 2026-08-01T11:17:00Z
   Total Products: 16
 - [Penis Accessories](https://glamgasam.com/collections/penis-accessories): High-quality performance and enhancement tools designed for confidence, comfort, and style.
   Updated: 2026-07-01T18:57:09Z
@@ -1848,7 +1820,7 @@
   Updated: 2026-07-01T18:57:10Z
   Total Products: 71
 - [Vibrators](https://glamgasam.com/collections/vibrators): Luxury vibration technology crafted for precision, performance, and unforgettable experiences.
-  Updated: 2026-07-21T11:17:57Z
+  Updated: 2026-07-28T11:18:45Z
   Total Products: 5685
 - [lingerie](https://glamgasam.com/collections/lingerie-1): Fun and flirty or sassy and sexy - huge selection of colors and styles of lingerie. The perfect fit - find sizes designed to accentuate any body type.
   Updated: 2026-07-01T18:57:10Z
@@ -2187,6 +2159,45 @@
     Author: Jason Marsh
   - [The Art of Elegance: Why Every Woman Deserves Luxury Lingerie](https://glamgasam.com/blogs/theglamgasamdiary/the-art-of-elegance-why-every-woman-deserves-luxury-lingerie)
     Updated: 2026-07-26T23:02:33Z
+    Author: Jason Marsh
+  - [Confidence Is the Sexiest Thing You Can Wear](https://glamgasam.com/blogs/theglamgasamdiary/confidence-is-the-sexiest-thing-you-can-wear)
+    Updated: 2026-07-27T15:34:00Z
+    Author: Jason Marsh
+  - [List of Must-Have  Toys for First Timers](https://glamgasam.com/blogs/theglamgasamdiary/list-of-must-have--toys-for-first-timers): List of Must-Have  Toys for First Timers
+    Updated: 2026-07-27T18:04:45Z
+    Author: Violet P.
+  - [The Bralette That Does It All: Why This Glam Gasam Favorite Is a Total Wardrobe MVP](https://glamgasam.com/blogs/theglamgasamdiary/the-bralette-that-does-it-all-why-this-glam-gasam-favorite-is-a-total-wardrobe-mvp)
+    Updated: 2026-07-28T20:01:45Z
+    Author: Jason Marsh
+  - [How to Incorporate  Toys Into a Long Distance Relationship](https://glamgasam.com/blogs/theglamgasamdiary/how-to-incorporate--toys-into-a-long-distance-relationship): How to Incorporate  Toys Into a Long Distance Relationship
+    Updated: 2026-07-29T18:04:39Z
+    Author: Violet P.
+  - [The Glam Gasam Mystery Box: A Little Surprise in Every Package](https://glamgasam.com/blogs/theglamgasamdiary/the-glam-gasam-mystery-box-a-little-surprise-in-every-package)
+    Updated: 2026-07-30T01:00:34Z
+    Author: Jason Marsh
+  - [Your Package, Your Secret : Discreet Shipping at Glam Gasam](https://glamgasam.com/blogs/theglamgasamdiary/your-package-your-secret-discreet-shipping-at-glam-gasam)
+    Updated: 2026-07-30T16:03:44Z
+    Author: Jason Marsh
+  - [Elegance & Luxury: Why Your Lingerie Drawer Deserves a Touch of Pure Indulgence](https://glamgasam.com/blogs/theglamgasamdiary/elegance-luxury-why-your-lingerie-drawer-deserves-a-touch-of-pure-indulgence)
+    Updated: 2026-08-01T00:00:32Z
+    Author: Jason Marsh
+  - [The Science Behind Why  Toys Enhance Pleasure During ](https://glamgasam.com/blogs/theglamgasamdiary/the-science-behind-why--toys-enhance-pleasure-during-): The Science Behind Why  Toys Enhance Pleasure During 
+    Updated: 2026-08-01T18:01:49Z
+    Author: Violet P.
+  - [The Ultimate Girls' Night In: Comfy Puffs, Popcorn, and Cute Lingerie](https://glamgasam.com/blogs/theglamgasamdiary/the-ultimate-girls-night-in-comfy-puffs-popcorn-and-cute-lingerie)
+    Updated: 2026-08-02T14:03:14Z
+    Author: Jason Marsh
+  - [Self-Care Sunday: The Luxe Ritual You Didn't Know You Needed (Featuring Our Favorite Wireless Bra)](https://glamgasam.com/blogs/theglamgasamdiary/self-care-sunday-the-luxe-ritual-you-didnt-know-you-needed-featuring-our-favorite-wireless-bra)
+    Updated: 2026-08-02T21:01:19Z
+    Author: Jason Marsh
+  - [Navigating the Market for Eco-Friendly  Toys A Buyer’s Guide](https://glamgasam.com/blogs/theglamgasamdiary/navigating-the-market-for-eco-friendly--toys-a-buyer-s-guide): Navigating the Market for Eco-Friendly  Toys A Buyer’s Guide
+    Updated: 2026-08-03T18:05:13Z
+    Author: Violet P.
+  - [Troubleshooting and Fixing Issues With Common  Toy Problems](https://glamgasam.com/blogs/theglamgasamdiary/troubleshooting-and-fixing-issues-with-common--toy-problems): Troubleshooting and Fixing Issues With Common  Toy Problems
+    Updated: 2026-08-05T18:04:54Z
+    Author: Violet P.
+  - [The Silky Secret: Why Our Plus Size Lingerie Collection Is Worth the Hype](https://glamgasam.com/blogs/theglamgasamdiary/the-silky-secret-why-our-plus-size-lingerie-collection-is-worth-the-hype)
+    Updated: 2026-08-05T19:01:47Z
     Author: Jason Marsh
 
 ## Store Pages
