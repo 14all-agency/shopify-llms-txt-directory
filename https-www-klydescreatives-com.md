@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2025-04-09T17:48:31Z
 - Contact Email: info@klydescreatives.com
-- Updated At: 2026-07-23T00:00:31.676Z
+- Updated At: 2026-08-06T00:00:36.239Z
 
 ## Products
 
@@ -309,7 +309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0719/9644/0633/files/042ade69c87f4e278c6e93cb0c84f2bf.png?v=1749567756
     Price: $55.00 CAD
 - [The Creative Reset — 21-Day Journaling Workbook for Overwhelmed Creatives (Printable Digital Download)](https://www.klydescreatives.com/products/the-creative-reset): A 21-day journaling workbook for overwhelmed, multi-passionate creatives. You already have everything this journal is going to ask you to use. The creativity. The vision. The capacity to show up. None of that needs to be installed — it is already yours. What has been missing is the framework to move it. The Creative Reset is a 21-day guided journal built for the creative brain that is done waiting for the right moment, the right mood, or the right version of itself to finally begin. It is not a productivity hack. It is a return to yourself. Three phases. 21 days. Real proof. 🔥 Phase 1 — Reset (Days 1–6): You are not behind. You hit a skill gap. This is where you put down the shame and pick up the evidence. 🔥 Phase 2 — Rebuild (Days 7–14): The system is you. Your ART, your anchors, your signal — this is where you build the infrastructure that actually holds. 🔥 Phase 3 — Execute (Days 15–21): The work is the proof. This is where you stop consuming and start creating from the fullest version of yourself. Each day includes an insight, a writing prompt, a single focused action, and an end-of-day check-in. Built from 38 days of real, documented proof — by someone who was stuck, and then wasn't. This journal was built for you if you are a multi-passionate creative who has started and stopped more times than you can count, who knows exactly who they want to be but can't seem to stay in motion long enough to get there. The size of the dream does not determine whether the tools work. The showing up does. Digital download. Print at home. Begin today. #HeavenIsAStateOfMind
-  Updated: 2026-07-14T19:26:18Z
+  Updated: 2026-07-30T01:12:52Z
   Vendor: Klyde's Creatives
   Product Type: Digital Product
   Availability: Available
