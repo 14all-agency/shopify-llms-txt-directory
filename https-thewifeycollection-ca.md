@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-27T01:53:23Z
 - Contact Email: admin@thewifeycollection.ca
-- Updated At: 2026-07-23T00:00:23.511Z
+- Updated At: 2026-08-07T00:00:37.937Z
 
 he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abayas, kaftans, gowns, cloaks, and outerwear in Canada. Our pieces are made to order, modest in silhouette, and designed for the woman who dresses with intention and grace.
 
@@ -35,43 +35,6 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1457/2254/products/logo_high_resolution_8a0fc014-0b8e-4795-8119-b4b9a2f2e96a.png?v=1612958054
     Price: $300.00 CAD
-- [Vegan Leather Trench Coat — Handmade Ethical Luxury Outerwear | The Wifey Collection](https://thewifeycollection.ca/products/vegan-leather-trench-coat-1): Handcrafted vegan leather trench coat made in Canada. Ethical, modest, and quietly luxurious. Shop The Wifey Collection.
-  Updated: 2026-07-14T13:41:15Z
-  Vendor: The Wifey Collection
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1457/2254/files/image_24b2fd3a-1f6e-49e3-b71f-a8f0b4e2c193.jpg?v=1711983676
-  Price: $620.00 CAD
-- [Red Sequin Abaya — Handmade Luxury Modest Abaya | The Wifey Collection](https://thewifeycollection.ca/products/red-sequin-abaya): Handcrafted red sequin abaya made in Canada. Quiet luxury modest fashion for the discerning woman. Shop The Wifey Collection.
-  Updated: 2026-07-14T13:39:47Z
-  Vendor: The Wifey Collection Corp.
-  Product Type: Abaya
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1457/2254/files/IMG-1027.jpg?v=1740747096
-  - [S](https://thewifeycollection.ca/products/red-sequin-abaya?variant=42538085187667)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1457/2254/files/IMG-1027.jpg?v=1740747096
-    Price: $350.00 CAD
-  - [M](https://thewifeycollection.ca/products/red-sequin-abaya?variant=42538085220435)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1457/2254/files/IMG-1027.jpg?v=1740747096
-    Price: $350.00 CAD
-  - [L](https://thewifeycollection.ca/products/red-sequin-abaya?variant=42538085253203)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1457/2254/files/IMG-1027.jpg?v=1740747096
-    Price: $350.00 CAD
-  - [XL](https://thewifeycollection.ca/products/red-sequin-abaya?variant=42538085285971)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1457/2254/files/IMG-1027.jpg?v=1740747096
-    Price: $350.00 CAD
-  - [2XL](https://thewifeycollection.ca/products/red-sequin-abaya?variant=42538085318739)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1457/2254/files/IMG-1027.jpg?v=1740747096
-    Price: $350.00 CAD
-  - [3XL](https://thewifeycollection.ca/products/red-sequin-abaya?variant=42538085351507)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1457/2254/files/IMG-1027.jpg?v=1740747096
-    Price: $350.00 CAD
 - [Wide Leg Trousers — Handmade Sequin Modest Pants | The Wifey Collection](https://thewifeycollection.ca/products/wide-leg-pants): Handcrafted wide leg sequin trousers made in Canada. Modest, elegant, and timeless. Shop The Wifey Collection.
   Updated: 2026-07-14T06:09:12Z
   Vendor: The Wifey Collection Corp.
@@ -168,6 +131,34 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Updated: 2026-07-21T09:08:25Z
     Author: The Wifey Collection
     Tags: chic outfits, elegance, how to wear modest fashion, modest fashion, modest fashion for women, modesty, refined looks, style
+  - [Artisanal Balance: The Intersection of Modesty and Refinement](https://thewifeycollection.ca/blogs/news/artisanal-balance-the-intersection-of-modesty-and-refinement): Artisanal Balance: The Intersection of Modesty and Refinement
+    Updated: 2026-07-23T09:05:46Z
+    Author: The Wifey Collection
+    Tags: artisanal wear, elegance, fashion, intersection of modesty and refinement, modest, modest fashion trends, modest style, refined clothing
+  - [Threads of Tradition: A Discourse on Heritage in Modest Garments](https://thewifeycollection.ca/blogs/news/threads-of-tradition-a-discourse-on-heritage-in-modest-garments): Threads of Tradition: A Discourse on Heritage in Modest Garments
+    Updated: 2026-07-25T09:08:23Z
+    Author: The Wifey Collection
+    Tags: cultural style, fashion, heritage, heritage in fashion, modest, modest clothing, modest style trends, traditional attire
+  - [Quintessential Wardrobe: Finding Tranquility in Modest Fashion Essentials](https://thewifeycollection.ca/blogs/news/quintessential-wardrobe-finding-tranquility-in-modest-fashion-essentials): Quintessential Wardrobe: Finding Tranquility in Modest Fashion Essentials
+    Updated: 2026-07-28T09:07:53Z
+    Author: The Wifey Collection
+    Tags: capsule wardrobe, creating modest outfits, essentials, fashion, modest, modest attire, modest fashion tips, modest style
+  - [Elegance Enriched: Quiet Luxe in Modestly Crafted Canadian Garments](https://thewifeycollection.ca/blogs/news/elegance-enriched-quiet-luxe-in-modestly-crafted-canadian-garments): Elegance Enriched: Quiet Luxe in Modestly Crafted Canadian Garments
+    Updated: 2026-07-30T09:06:13Z
+    Author: The Wifey Collection
+    Tags: canadian garments, elegance, fashion, luxurious modesty, modest fashion, modesty, refined modest clothing, stylish modest attire
+  - [A Tapestry of Decorum: The Wifey Collection Experience](https://thewifeycollection.ca/blogs/news/a-tapestry-of-decorum-the-wifey-collection-experience): A Tapestry of Decorum: The Wifey Collection Experience
+    Updated: 2026-08-01T09:08:01Z
+    Author: The Wifey Collection
+    Tags: chic modesty, collection, elegant modest fashion tips, fashion, modest, modest attire, modest fashion community, wifey style
+  - [Resplendent Serenity: A Journey in Elevated Modest Fashion](https://thewifeycollection.ca/blogs/news/resplendent-serenity-a-journey-in-elevated-modest-fashion): Resplendent Serenity: A Journey in Elevated Modest Fashion
+    Updated: 2026-08-04T09:07:34Z
+    Author: The Wifey Collection
+    Tags: elegant clothing, elevated style, fashion, modern modesty, modest attire, modest fashion trends, modesty, sophisticated modest wear
+  - [The Quiet Forms: Traditional Yet Innovatively Modest Couture from Canada](https://thewifeycollection.ca/blogs/news/the-quiet-forms-traditional-yet-innovatively-modest-couture-from-canada): The Quiet Forms: Traditional Yet Innovatively Modest Couture from Canada
+    Updated: 2026-08-06T09:06:33Z
+    Author: The Wifey Collection
+    Tags: canadian fashion, couture, fashion, innovative style, modern modest clothing, modest, stylish modest attire, traditional modesty
 
 ## Store Pages
 
