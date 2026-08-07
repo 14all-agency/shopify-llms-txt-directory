@@ -6,15 +6,15 @@
 - Timezone: Australia/Sydney
 - Created At: 2026-02-10T08:47:42Z
 - Contact Email: sales@battskin.com
-- Updated At: 2026-07-31T00:00:32.736Z
+- Updated At: 2026-08-07T00:00:35.771Z
 
 Home Battery Covers - Protect Your Solar Battery
 Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, BYD and GoodWe Home Solar Battery from heat, UV and harsh weather — extending the life of your Solar Batteries.
 
 ## Products
 
-- [Smarter Battery Charging Without Apps or Extra Hardware](https://battskin.com/products/smartcharge-optimizer): Optimize your solar power battery management easily with SmartCharge Optimizer for lifespan extension, reduced degradation & smarter, effortless charging.
-  Updated: 2026-07-02T02:39:31Z
+- [Buy SmartCharge Optimizer for Smarter Battery Charging](https://battskin.com/products/smartcharge-optimizer): Optimize your solar power battery management easily with SmartCharge Optimizer for lifespan extension, reduced degradation & smarter, effortless charging.
+  Updated: 2026-08-03T03:38:02Z
   Vendor: Battskin
   Product Type: 
   Availability: Available
@@ -27,13 +27,6 @@ Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, B
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8406/9691/files/Frame18_6.png?v=1770806992
   Price: $335.00 AUD
-- [SunShield Pro - Keep Your Home Battery Cool & Safe](https://battskin.com/products/r-dee-sunshield-pro): R&DEE SunShield Pro keeps your Australian home battery safe from heat while working with a home solar battery monitoring system for lasting performance.
-  Updated: 2026-07-24T10:47:36Z
-  Vendor: Battskin
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/8406/9691/files/Frame18_7.png?v=1770807008
-  Price: $850.00 AUD
 
 ## Collections
 
@@ -44,14 +37,14 @@ Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, B
 ## Blogs
 
 - [News](https://battskin.com/blogs/news)
-  - [Understand Next Steps After 250K Battery Installations](https://battskin.com/blogs/news/federal-battery-rebate-passes-250-000-installs-what-happens-next): Understand Next Steps After 250K Battery Installations
-    Updated: 2026-07-27T11:15:09Z
+  - [250K Battery Installs: What the Federal Rebate Means](https://battskin.com/blogs/news/federal-battery-rebate-passes-250-000-installs-what-happens-next): 250K Battery Installs: What the Federal Rebate Means
+    Updated: 2026-08-03T03:57:44Z
     Author: Ian Boake
-  - [Protect Your Battery From Heat Damage and Failure](https://battskin.com/blogs/news/your-home-battery-isn-t-dying-it-s-overheating-what-most-homeowners-miss): Protect Your Battery From Heat Damage and Failure
-    Updated: 2026-05-26T10:35:48Z
+  - [Home Battery Overheating - Causes, Risks & Protection](https://battskin.com/blogs/news/your-home-battery-isn-t-dying-it-s-overheating-what-most-homeowners-miss): Home Battery Overheating - Causes, Risks & Protection
+    Updated: 2026-08-03T03:52:27Z
     Author: Ian Boake
-  - [Improve Battery Life with Fox ESS Sun Protection Australia](https://battskin.com/blogs/news/why-professional-installers-recommend-fox-ess-battery-sun-protection-for-all-homes): Improve Battery Life with Fox ESS Sun Protection Australia
-    Updated: 2026-06-09T10:52:24Z
+  - [Fox ESS Battery Protection: Why Installers Recommend](https://battskin.com/blogs/news/why-professional-installers-recommend-fox-ess-battery-sun-protection-for-all-homes): Fox ESS Battery Protection: Why Installers Recommend
+    Updated: 2026-08-03T03:55:10Z
     Author: Ian Boake
 
 ## Store Pages
@@ -62,8 +55,8 @@ Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, B
   Updated: 2026-03-04T08:10:38Z
 - [Privacy Policy Ensuring Your Data Stays Safe and Secure](https://battskin.com/pages/privacy-policy): Last Updated: 26 november 2025 Battskin (“we”, “us”, “our”) operates the website Battskin.com, where we offer digital products including SmartCharg...
   Updated: 2026-03-04T08:31:36Z
-- [Thermal Battery Protection for Longer Lifespan and Performance](https://battskin.com/pages/our-story): 
-  Updated: 2026-03-04T08:19:35Z
+- [Our Story - Australian-Made Home Battery Protection](https://battskin.com/pages/our-story): 
+  Updated: 2026-08-03T03:35:00Z
 - [FAQ](https://battskin.com/pages/faq)
   Updated: 2026-07-02T05:42:38Z
 
