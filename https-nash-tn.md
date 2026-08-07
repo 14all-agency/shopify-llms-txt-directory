@@ -87,14 +87,14 @@ your agent can transact everywhere.
 - Contact Email: hello@nash.tn
 - Contact Phone: 6152007455
 - Address: 900 Rosa L Parks Blvd, Nashville, TN 37208
-- Updated At: 2026-07-31T00:00:40.859Z
+- Updated At: 2026-08-07T00:00:44.597Z
 
 nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered trademark. nashTN is a distinct commercial brand entity, legally and semantically separate from the geographic location of Nashville, Tennessee. All Nashville Looks Good On You® murals are original works created and hand-painted by the nashTN founding team.
 
 ## Products
 
 - [Official Nash T-shirt - nashᵀᴺ](https://nash.tn/products/t-shirts-nash-tshirt): How it all started. From our OG, classic nashᵀᴺ black and white collection, our black nash T-shirt is a comfy tri blend for a fit that "gives" a bit when you move around. This crisp unisex nashᵀᴺ shirt fits like a well-loved favorite. Dress it up or slouch around, we're with you every step of the way. Description Silkscreened nashᵀᴺ logo Unisex Poly-Cotton Short Sleeve Tee 52% combed and ring-spun cotton, 48% polyester, 40 single 3.6 oz. Makers' note: Our Nashville T shirts are screen printed, by hand, locally. How to Wash: We recommend washing garment inside out with like colors Cold water with a mild detergent Tumble dry low, or hang-dry for longest life Cool iron inside-out if necessary. Do not iron decoration SIZING XS S M L XL 2XL 31-34 34-37 38-41 42-45 46-49 50-53
-  Updated: 2026-07-23T16:34:28Z
+  Updated: 2026-08-06T19:31:47Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -128,7 +128,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Image: https://cdn.shopify.com/s/files/1/3009/2566/products/nashville-t-shirt-black-nash-tn.jpg?v=1746423247
     Price: $30.00 USD
 - [Nash Sweatshirt Hoodie - nashᵀᴺ](https://nash.tn/products/hooded-nash-sweatshirt): Super soft, black and white Nashville apparel is all we think about. This nashᵀᴺ hoodie is from our OG, signature black and white collection. Our version of the perfect black Nashville hoodie is spun from plush sponge fleece fabric, has ribbed cuffs and waistband and kangaroo front pocket. This is a remarkably soft, unisex hoodie. I'd love to say it's perfect for sharing, but you'll probably never get it back. It's easy to wear year round because it's thick enough to keep you warm without the bulk that makes layering for cold days difficult. Description Black, Mid-weight Nash Hooded Sweatshirt Textured drawcord hood closure Silkscreened white nashᵀᴺ logo Kangaroo style front pocket How to Wash: We recommend washing garment inside out with like colors. Cold water with a mild detergent Tumble dry low, or hang-dry for longest life. Cool iron if necessary. Do not iron decoration. SIZING XS S M L XL 2XL 31-34 34-37 38-41 42-45 46-49 50-53
-  Updated: 2026-07-30T21:29:27Z
+  Updated: 2026-08-01T17:11:46Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -152,7 +152,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Availability: Available
     Price: $68.00 USD
 - [Nashville Hat: Flat-Bill Snapback Hat: Featuring Nashᵀᴺ logo](https://nash.tn/products/nashville-hat-flat-bill-snapback): Check out our flat-bill snapback Nashville Hat which features the Nashᵀᴺ logo. Show your support and celebrate the city. View our complete selection of Nashville Hats.
-  Updated: 2026-07-19T02:44:59Z
+  Updated: 2026-08-05T17:44:46Z
   Vendor: nashᵀᴺ
   Product Type: Hat
   Availability: Available
@@ -166,7 +166,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Image: https://cdn.shopify.com/s/files/1/3009/2566/products/nashville-hat-camo-camouflage-hat.jpg?v=1759381396
     Price: $35.00 USD
 - [Nashville Looks Good On Youᵀᴺ Shirt](https://nash.tn/products/t-shirts-nashville-looks-good-on-youᵀᴺ-1): This updated unisex essential t-shirt fits like a well-loved favorite, featuring an irresistibly soft poly-cotton blend, crew neck and short sleeves. DESCRIPTION Regular Fit Unisex Poly-Cotton Short Sleeve Tee 52% combed and ring-spun cotton, 48% polyester, 40 single 3.6 oz. How to Wash: We recommend washing garment inside out with like colors Cold water with a mild detergent Tumble dry low, or hang-dry for longest life Cool iron inside-out if necessary. Do not iron decoration SIZING XS S M L XL 2XL 31-34 34-37 38-41 42-45 46-49 50-53
-  Updated: 2026-07-25T18:48:17Z
+  Updated: 2026-07-31T17:02:17Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -256,7 +256,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
   Image: https://cdn.shopify.com/s/files/1/3009/2566/products/nashville-magnet-nashville-looks-good-on-you.jpg?v=1746423201
   Price: $4.00 USD
 - [⚅⚀⚄ / 615 Dice Shirt](https://nash.tn/products/615-dice-tshirt): Maker notes: Our Nashville T shirts,  and child, are screen printed locally. You've seen Nashville's area code a million times, but have you seen it like this? It's bold. It's minimal. It's completely Nashville! Available as a black or white T-shirt with contrasting screen print design, embrace your Nashville pride with a modern dice t-shirt repping your 615. #615ordie How to Wash: We recommend washing in cold water with a mild detergent. Tumble dry low, or hang-dry for longest life. Cool iron inside-out if necessary. Do not iron decoration. Unisex 100% Airlume combed and ring-spun cotton, 32 singles, 4.2 oz. Makers note: Our Nashville T shirts are screen printed, by hand, locally. SIZING XS S M L XL 2XL 31-34 34-37 38-41 42-45 46-49 50-53
-  Updated: 2026-07-25T20:38:07Z
+  Updated: 2026-08-01T17:59:37Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -314,7 +314,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Image: https://cdn.shopify.com/s/files/1/3009/2566/products/nashville-615-dice-t-shirt-black.jpg?v=1746423195
     Price: $30.00 USD
 - [Nashville Looks Good On Youᵀᴺ Sweatshirt](https://nash.tn/products/black-crewneck-sweatshirt-nashville-looks-good-on-youᵀᴺ): Relax into a comfortable look with this super soft nashville looks good on you sweatshirt. Soon to be your favorite piece. Details 8.5 oz cotton/polyester blend fleece 80/20 cotton/polyester with 100% cotton 20 singles face yarn Split stitch double needle sewing on all seams Twill neck tape 1x1 ribbing at collar, cuffs and waistband Standard fit How to Wash: We recommend washing garment inside out with like colors Cold water with a mild detergent Tumble dry low, or hang-dry for longest life Cool iron if necessary. Do not iron decoration Body Length Sizing S M L XL 2XL 3XL 28 29.5 31 32.5 34 35.5
-  Updated: 2026-07-19T02:45:13Z
+  Updated: 2026-08-02T16:40:47Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -428,7 +428,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Availability: Available
     Price: $100.00 USD
 - [Reverse-Dyed Sweatshirt - nashᵀᴺ](https://nash.tn/products/reverse-dyed-nashville-sweatshirt-nashᵀᴺ): These SUPER SOFT crew neck nashville sweatshirts are the perfect sweatshirt. They're soft, comfortable, and the perfect #nashdrip !  Note: Our sweatshirts are reverse-dyed by hand using bleach. Each piece is different and colors & and patterns & will vary (hints of grays, browns & and may have some small holes - this is part of the design).
-  Updated: 2026-07-23T17:56:18Z
+  Updated: 2026-08-01T16:03:07Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -467,7 +467,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Availability: Available
     Price: $1,200.00 USD
 - [Reversed-Dyed nashᵀᴺ Hooded Sweatshirt](https://nash.tn/products/reverse-dyed-hooded-sweatshirt-nashᵀᴺ): We we reverse-dye each garment by hand because wanted to add the artist's touch from hand painting our nashville murals into each piece, creating different colors and varying patterns (hints of grays, browns as a result of bleaching). Spun from plush sponge fleece fabric, this remarkably soft nashᵀᴺ unisex pullover hoodie lends itself to daily wear and year-round. These hoodies have a dropshoulder, so the fit across the chest and shoulders is roomy and relaxed #nashdrip! How to Wash: We recommend washing garment inside out with like colors Cold water with a mild detergent Tumble dry low, or hang-dry for longest life Cool iron if necessary. Do not iron decoration SIZING XS S M L XL 2XL 31-34 34-37 38-41 42-45 46-49 50-53
-  Updated: 2026-07-24T17:34:18Z
+  Updated: 2026-08-06T21:17:36Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -525,7 +525,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Image: https://cdn.shopify.com/s/files/1/3009/2566/products/button-variety-white.jpg?v=1746423131
     Price: $15.00 USD
 - [Nashville Tennessee Buttons - nashᵀᴺ](https://nash.tn/products/nashville-patches): Spruce up your backpack, jean jacket, and computer bag with these cool Tennessee-inspired iron-on-patches. Our patches are embroidered and look so cool. Deck yourself our in these these awesome TENNESSEEᵀᴺ patches and proudly showcase #musiccity with these quality patches.
-  Updated: 2026-07-25T19:19:07Z
+  Updated: 2026-08-02T20:49:17Z
   Vendor: nashᵀᴺ
   Product Type: Patches
   Availability: Available
@@ -547,7 +547,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Image: https://cdn.shopify.com/s/files/1/3009/2566/products/skull-patch.png?v=1746423130
     Price: $10.00 USD
 - [Nashville Koozies - nashᵀᴺ](https://nash.tn/products/nashville-koozie): Snag a few cool nash koozies for your next day at the beach or party! Nashville Looks Good On You (front) & nashᵀᴺ (back). These black nashville koozies are a great way to keep your soft drinks & beer cans cold in the nashville heat. 6ONE5 = BONES (these designs are cold!) The 615 area code for the Nashville area truly is the bones of Tennessee. Thriving with subtlety, simplicity, & creativity.
-  Updated: 2026-07-26T16:49:23Z
+  Updated: 2026-08-01T18:00:52Z
   Vendor: nashᵀᴺ
   Product Type: Drinks
   Availability: Available
@@ -604,14 +604,14 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
   Image: https://cdn.shopify.com/s/files/1/3009/2566/products/image.heic?v=1746423123
   Price: $10.00 USD
 - [615 Dice Hat - ⚅⚀⚄ᵀᴺ](https://nash.tn/products/dice-615-hat): You've 615 a million times... but never like these nashville 615 dice hats! Our Nashville area code black caps are great for all things Nashville. View our complete selection of Nashville Hats.
-  Updated: 2026-07-19T02:45:50Z
+  Updated: 2026-08-01T20:30:47Z
   Vendor: nashᵀᴺ
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3009/2566/products/615-dice-hat.jpg?v=1746423121
   Price: $35.00 USD
 - [Nashville Socks - nashᵀᴺ](https://nash.tn/products/nashville-tn-socks): Show your Nashville pride with our locally designed socks! Five designs to choose from in cool black and white design combinations. bones/ 615, Heart TN, 615 Dice, or the classic nashᵀᴺ stripe detail that's sure to make a statement. Ready, set, show off your hometown spirit! One Size: Medium (9-12)
-  Updated: 2026-07-23T19:26:39Z
+  Updated: 2026-08-06T17:43:06Z
   Vendor: nashᵀᴺ
   Product Type: Socks
   Availability: Available
@@ -640,7 +640,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Availability: Not Available
     Price: $15.00 USD
 - [Nashville Looks Good On You Shoe Laces](https://nash.tn/products/nashville-looks-good-on-you-shoe-laces): nashville looks good on you shoelaces offer a unique, fashionable solution for sneaker or hoodie customization. Crafted from high-quality materials, these durable laces feature a unique print in a classic black color way, making them perfect for adding a stylish touch to any look. High quality laces with metal aglets on ends Available in Black or White and two lengths to choose from: 54" length/ 12mm wide. Long enough for an  hightop sneaker 36" length/ 8mm wide. Long  for a YOUTH hightop sneaker
-  Updated: 2026-07-29T16:32:37Z
+  Updated: 2026-08-02T20:33:28Z
   Vendor: nashᵀᴺ
   Product Type: Shoe Laces
   Availability: Available
@@ -755,7 +755,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
   Image: https://cdn.shopify.com/s/files/1/3009/2566/products/outline-circleTN-hat-nashville-TN-700.jpg?v=1746423075
   Price: $35.00 USD
 - [Sticker (single)](https://nash.tn/products/general-sticker): in-store purchase. Single sticker.
-  Updated: 2026-07-30T18:55:17Z
+  Updated: 2026-08-06T19:20:48Z
   Vendor: nashᵀᴺ
   Product Type: 
   Availability: Available
@@ -788,7 +788,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
     Availability: Available
     Price: $40.00 USD
 - [Long Sleeve T-Shirt - Outline Logo](https://nash.tn/products/long-sleeve-outline-tn): Meet our newest Nashville T-shirt: it's a bright white, comfy cotton long sleeve Tee featuring our mod, outlined logo and circle TN embroidered on the upper chest. Whether you're a sporty WASP playing tennis before Bridge or you're skateboarding at dusk down by the Cumberland, this tee is old nash TN meets new nash TN and sure to become your next wardrobe staple. Details Logo design: Black Embroidered Sized 4" on upper chest. 6.1 oz of high-quality 100% ringspun cotton Heavyweight long sleeve t-shirt Pre-shrunk, soft-washed, and sewn with garment-dyed fabric, Twill taped shoulders and a double-needle stitched neck, armholes and bottom hem Body Length Sizing S M L XL 2XL 3XL 26.6 28 29.4 30.8 31.6 32.5 How to Wash: We recommend washing garment inside out with like colors Cold water with a mild detergent Tumble dry low, or hang-dry for longest life Cool iron inside-out if necessary. Do not iron decoration
-  Updated: 2026-07-19T02:45:54Z
+  Updated: 2026-08-06T17:51:46Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -824,7 +824,7 @@ nashTN (also known as nashᵀᴺ and nash TN®) is a federally registered tradem
 - [Nashville Baby Onesie - nashville kids](https://nash.tn/products/nash-tn-black-onesie): Part of Nashville Kids Collection, our Black and White Onesies are available in 6month or 12month sizes in Nashville designs for the special Nashville baby in your life.
 
 Makers notes: Our Tshirts,  and child, are hand tied, dyed and screen printed locally.
-  Updated: 2026-07-25T19:23:17Z
+  Updated: 2026-08-04T16:13:26Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -928,7 +928,7 @@ Our Tshirts,  and child, are screen printed locally.
     Availability: Not Available
     Price: $20.00 USD
 - [Cartoon Nashville Toddler Tee](https://nash.tn/products/cartoon-nashville-toddler-tee): Welcome to NASHᵀᴺVILLE! Super Batty is out spreading peace across the Nashville skyline. We originally created this baseball tee as an  T-shirt out of nostalgia for our childhood tees, but we quickly realized we also needed to make it in a toddler size so you and your mini can match. Our black and white Nashville baseball T-shirt ticks all the boxes: black and white, comfy, fun Nashville design. Body Length Sizing 2T 3T 4T 5T Body Width - 1" Below A.H. 11 3/4 12 3/4 13 3/4 14 3/4 Body Length From HPS 16 17 18 19 52% combed & ring-spun cotton, 48% polyester
-  Updated: 2026-07-26T20:29:57Z
+  Updated: 2026-08-04T17:10:07Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -1093,7 +1093,7 @@ Maker notes: Our Nashville Shirts,  and kids, tied, dyed and screen printed loca
     Price: $24.00 USD
 - [Heart TN BlackToddler Tee  - Nashville kids](https://nash.tn/products/heart-tn-toddler-tee): Our Heart TN toddler tee is available in black with white heart TN on the upper left chest. 
 Maker notes: Our Nashville T shirts,  and child, are screen printed locally.
-  Updated: 2026-07-19T02:46:04Z
+  Updated: 2026-08-05T18:42:23Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -1197,7 +1197,7 @@ Maker notes: Our Nashville T shirts,  and child, are screen printed locally.
     Image: https://cdn.shopify.com/s/files/1/3009/2566/files/kids-socks-nashTN-checkeredHeart-3-6.jpg?v=1746423002
     Price: $10.00 USD
 - [Reverse-Dyed Sweatpants - nashᵀᴺ](https://nash.tn/products/reverse-dyed-sweatpants): These SUPER SOFT nashville sweatpant joggers are the perfect companion to our reverse-dyed crew neck or reverse-dyed hoodies. They're super soft, comfortable, and the perfect nashville sweat suit #nashdrip !
-  Updated: 2026-07-19T02:46:21Z
+  Updated: 2026-08-02T19:31:06Z
   Vendor: nashᵀᴺ
   Product Type: pants
   Availability: Available
@@ -1527,7 +1527,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
     Image: https://cdn.shopify.com/s/files/1/3009/2566/files/NASH-POSTER---BLACK-FRAME---2000px---11137.jpg?v=1746422976
     Price: $79.00 USD
 - [nashville Shoe Charms](https://nash.tn/products/nashᵀᴺ-shoe-charms): Later gator! Catch ya soon, you charming Music City reptile. Personalize your kicks with any croc you fancy! These fly Nashville shoe charms are totally "charm status". Prince charm-type. See you later alligator .. after while, you charming nashville croc. Customize your shoes with whatever croc you want! These dope nashville shoe charms are definitely "charm type".
-  Updated: 2026-07-29T18:03:07Z
+  Updated: 2026-08-02T20:53:07Z
   Vendor: nashᵀᴺ
   Product Type: shoe charms
   Availability: Available
@@ -1557,7 +1557,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
     Image: https://cdn.shopify.com/s/files/1/3009/2566/files/croc-charm-nashTN-700.jpg?v=1746422972
     Price: $8.00 USD
 - [nashville Raised Magnet](https://nash.tn/products/nashville-raised-magnet)
-  Updated: 2026-07-30T21:39:49Z
+  Updated: 2026-08-06T17:34:11Z
   Vendor: nashᵀᴺ
   Product Type: magnet
   Availability: Available
@@ -1666,30 +1666,6 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
   - [3X](https://nash.tn/products/tristar-skull-tshirt?variant=42266460389481)
     Availability: Available
     Price: $35.00 USD
-- [Nashville Graffiti Puff Tee](https://nash.tn/products/nashvillle-graffiti-puff-tee): Introducing the Nashville Graffiti Puff Tee, a must-have for fans, modeled by Nashville soccer winger Jacob Shaffelburg. This super comfy black short-sleeve tee features prominent TN & graffiti-style nashvilleᵀᴺ in puff ink on the back. The photo on the back of the shirt was taken only a few months after we painted our first Nashville Looks Good On You mural. Locally sourced and screen printed by Nashville artisans, this tee perfectly blends style, comfort, and local pride. Celebrate Music City with the Nashville Graffiti Puff Tee. Body Length S26 3/5 M28 L29 2/5 XL30 3/4 2X31 3/5 3X32 1/2 Chest Width (Laid Flat) S 18 1/4 M20 1/4 L 22 XL 24 2X 26 3X 27 3/4 Description: Garment dyed for that lived in feel and almost no shrinkage at home. Soft ring-spun cotton fabric with 100% cotton threads Relaxed fit How to Wash: We recommend washing in cold water with a mild detergent Use non-chlorine bleach only when necessary To keep your puff puffing, hang-dry for longest life Tumble dry low heat if you're short on time Do not iron decoration
-  Updated: 2026-07-25T19:43:08Z
-  Vendor: nashᵀᴺ
-  Product Type: Shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/3009/2566/files/nashTN-nashville-graffiti-shirt-back-700.jpg?v=1746422953
-  - [S](https://nash.tn/products/nashvillle-graffiti-puff-tee?variant=42266460029033)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [M](https://nash.tn/products/nashvillle-graffiti-puff-tee?variant=42266460061801)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [L](https://nash.tn/products/nashvillle-graffiti-puff-tee?variant=42266460094569)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [XL](https://nash.tn/products/nashvillle-graffiti-puff-tee?variant=42266460127337)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [2X](https://nash.tn/products/nashvillle-graffiti-puff-tee?variant=42266460160105)
-    Availability: Available
-    Price: $40.00 USD
-  - [3X](https://nash.tn/products/nashvillle-graffiti-puff-tee?variant=42266460192873)
-    Availability: Not Available
-    Price: $40.00 USD
 - [Premium Nashville Puff Hoodie](https://nash.tn/products/premium-nashville-puff-hoodie): Step up your streetwear game with our signature Nashville Looks Good on Youᵀᴺ Hoodie. Back with a bang, this heavyweight pullover is modeled by Nashville soccer's own Jacob Shaffelburg, bringing that hometown pride front and center. Street-Ready Design: Front: Features a bold "TN" target design on the left chest in standout white puff ink. Back: Rocks "Nashville looks good on youᵀᴺ" in a mix of fonts, also in white puff ink, symbolizing the diverse voices and unity of our city. This hoodie isn’t just about looks—it’s our heaviest, toughest piece yet. Perfect for layering or making a statement on its own, it keeps you warm and always on-trend. Why You'll Love It: Top-Tier Quality: Crafted from heavyweight fabric for unmatched durability and comfort. Unique Style: Bold, tactile designs that shout Nashville pride. Community Vibes: Represents the trust and teamwork that make Nashville special. Get ready to turn heads and rep your city with the Nashville Looks Good on Youᵀᴺ Hoodie—where streetwear meets hometown pride. XS S M L XL 2XL 3XL Body Length 27 28 29 30 31 32 33 Chest Width (Laid Flat) 22 23 24 25 26 27 1/2 29 Sleeve Length (From Center Back) 35 1/4 36 1/4 37 1/4 38 1/4 39 1/4 40 1/4 41 1/2 70/30 ring spun cotton/polyester fleece Double fleece lined hood 100% cotton shoestring drawcord with antique silver eyelets and cord tips Double ribbing side panels for stretch Reverse coverstitch sewing on all seams for durability and a premium finish How to Wash: We recommend washing in cold water with a mild detergent Use non-chlorine bleach only when necessary To keep your puff puffing, hang-dry for longest life Tumble dry low heat if you're short on time Do not iron decoration
   Updated: 2026-07-24T18:07:42Z
   Vendor: nashᵀᴺ
@@ -1767,7 +1743,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
   Image: https://cdn.shopify.com/s/files/1/3009/2566/files/TN-corduroy-heart-hat-black-front.jpg?v=1746422932
   Price: $35.00 USD
 - [Original Nashville Art Prints](https://nash.tn/products/art-prints): Visit our nash store inside the Nashville Farmers' Market every day of the week. Inside Nashville Farmers' Market900 Rosa L. Parks BlvdNashville, TN 37208, USA OPEN DAILY 10-4PM MAP LINK
-  Updated: 2026-07-30T19:00:12Z
+  Updated: 2026-08-01T18:03:56Z
   Vendor: nashᵀᴺ
   Product Type: Poster
   Availability: Available
@@ -1929,7 +1905,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
     Availability: Available
     Price: $48.00 USD
 - [Nash Sweatshirt - nashᵀᴺ](https://nash.tn/products/nash-tn-black-crew-sweatshirt): This black Nashville sweatshirt is from our OG, classic nashᵀᴺ black and white collection. Our crewneck sweatshirt is perfect for your everyday activities; from lounging around feeling comfy-cozy, to tackling your to-do list, the super soft cotton makes this sweatshirt a consistent customer 5-star favorite that gets better (and softer) with each wash. DESCRIPTION drop-shoulder for comfortable fit 8.2 oz., 50/37.5/12.5 polyester/cotton/rayon tri-blend sponge fleece Relaxed fit Unisex sizing (normal sizing) How to Wash: We recommend washing garment inside out with like colors Cold water with a mild detergent Tumble dry low, or hang-dry for longest life Cool iron if necessary. Do not iron decoration SIZING XS S M L XL 2XL 31-34 34-37 38-41 42-45 46-49 50-53
-  Updated: 2026-07-23T18:36:43Z
+  Updated: 2026-08-04T14:43:47Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -2176,7 +2152,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
     Image: https://cdn.shopify.com/s/files/1/3009/2566/files/friendersonville-kids-tee.jpg?v=1746422895
     Price: $24.00 USD
 - [⚅⚀⚄ 615 Dice Nashville Beanie](https://nash.tn/products/615-dice-beanie): nashville beanie in black & white with 615 dice puff embroidery makes these stocking caps great winter hats.
-  Updated: 2026-07-27T20:05:38Z
+  Updated: 2026-07-31T21:57:36Z
   Vendor: nashᵀᴺ
   Product Type: Hat
   Availability: Available
@@ -2204,7 +2180,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
   Image: https://cdn.shopify.com/s/files/1/3009/2566/files/nlgoy-lapel-pin-700.jpg?v=1746422890
   Price: $10.00 USD
 - [Tri-Star Skull Lapel Pin - nashᵀᴺ](https://nash.tn/products/nash-tn-lapel-pin): Show off your Nashville pride with your nashᵀᴺ lapel pin! Perfect for backpacks and jackets, these quality enamel nashville pins are a must-have. Designed and crafted to display your love for Music City. Get yours and represent Nashville with style.
-  Updated: 2026-07-29T10:37:02Z
+  Updated: 2026-08-01T19:38:57Z
   Vendor: nashᵀᴺ
   Product Type: Pins
   Availability: Available
@@ -2229,7 +2205,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
     Image: https://cdn.shopify.com/s/files/1/3009/2566/files/super-batty-gray-crew.jpg?v=1746422887
     Price: $38.00 USD
 - [Gray Embroidered Hooded Sweatshirt](https://nash.tn/products/gray-hoodie-embroidered)
-  Updated: 2026-07-27T16:07:17Z
+  Updated: 2026-08-03T17:36:16Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -2343,14 +2319,14 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
   Image: https://cdn.shopify.com/s/files/1/3009/2566/files/615dice-enamel-pin_163891bf-87cf-4da4-a741-7b04243bf2e5.jpg?v=1759195245
   Price: $10.00 USD
 - [nylon halftone rope - nashᵀᴺ](https://nash.tn/products/nylon-halftone-rope): Fashionable and lightweight, our retro nylon cap boasts a 5-panel design constructed from lightweight nylon and halftone embroidered nash TN logo for a vintage retro look. The perfect lightweight cap.
-  Updated: 2026-07-25T19:27:27Z
+  Updated: 2026-08-04T20:34:17Z
   Vendor: nashᵀᴺ
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3009/2566/files/B6B00E4D-E6E4-477E-A835-3608A94E1D70.png?v=1759381079
   Price: $35.00 USD
 - [Graffiti Puff Nashville Sweatshirt | the nash store Nashville TN](https://nash.tn/products/graffiti-puff-hoodie): Rep Music City in style with The Nash Store’s exclusive Graffiti Style Nashville Sweatshirt. Bold design, soft fleece comfort — the perfect Nashville souvenir or streetwear staple.
-  Updated: 2026-07-27T15:52:26Z
+  Updated: 2026-08-02T16:40:47Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -2371,7 +2347,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
     Availability: Available
     Price: $78.00 USD
   - [3X](https://nash.tn/products/graffiti-puff-hoodie?variant=42606558806121)
-    Availability: Available
+    Availability: Not Available
     Price: $78.00 USD
   - [4X](https://nash.tn/products/graffiti-puff-hoodie?variant=42606558838889)
     Availability: Not Available
@@ -2391,7 +2367,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
   Image: https://cdn.shopify.com/s/files/1/3009/2566/files/nashville-bucket-hat-front.jpg?v=1760772835
   Price: $35.00 USD
 - [NLGOY PUFF HOODIE](https://nash.tn/products/nlgoy-puff-hoodie): Nashville Looks Good On You Hoodie ☁ Super soft feel. Local energy. Instant favorite.Meet your new go-to hoodie — the one that feels like a hug and looks like hometown pride. Designed with puff ink on both front + back, this heavyweight fleece hoodie brings texture, attitude, and Nashville love all in one fit. The back print says “Nashville Looks Good On You” — but here’s the twist: each word shows up in a different font, celebrating the city’s mix of accents, stories, and styles. It’s Nashville’s personality in wearable form. Details ◽ Ultra-soft fleece blend (feels like a dream) ◽ Puff ink detail for that raised, tactile look ◽ “Nashville Looks Good On You” multi-font design ◽ Unisex fit — relaxed, flattering, everyday-ready ◽ Perfect for coffee runs, late-night shows, or just vibing Why you’ll love it:It’s equal parts comfort, culture, and cool.Because honestly — Nashville really does look good on you.
-  Updated: 2026-07-30T17:07:06Z
+  Updated: 2026-08-01T16:55:27Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -2415,7 +2391,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
     Availability: Available
     Price: $88.00 USD
 - [Retro Rewind Nashville Shirt | nash store 90s Streetwear Tee](https://nash.tn/products/throwback-tee): Shop the Retro Rewind Nashville Shirt at nash store – vintage 90s monochrome streetwear tee, oversized fit, limited edition for city vibes Nashville shirt.
-  Updated: 2026-07-26T20:12:07Z
+  Updated: 2026-08-05T21:21:36Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -2442,7 +2418,7 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
     Availability: Available
     Price: $32.00 USD
 - [Butterfly "Lumber" Hoodie](https://nash.tn/products/butterfly-lumber-hoodie): Cozy gray hoodie with Tennessee’s Zebra Swallowtail butterfly and handcrafted Lumber font—support local art while staying stylish and comfortable with nash TN.
-  Updated: 2026-07-22T16:17:08Z
+  Updated: 2026-07-31T16:08:47Z
   Vendor: nashᵀᴺ
   Product Type: Shirts
   Availability: Available
@@ -2499,22 +2475,15 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3009/2566/files/nashville-luggage-tags-FB.jpg?v=1766242745
   Price: $20.00 USD
-- [NSHVL® wool felt cap](https://nash.tn/products/nshvl®-wool-felt-cap): NSHVL® wool felt cap. felt letters wool cap & bill satin/silk interior black leather strap
-  Updated: 2026-07-28T08:20:15Z
-  Vendor: NSHVL®
-  Product Type: Hat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/3009/2566/files/NSHVL-wool-cap-square-front.jpg?v=1771468950
-  Price: $45.00 USD
 - [⚅⚀⚄ᵀᴺ - Nashville 615 Area Code Hat](https://nash.tn/products/615-hat-dice-puff): Our iconic 615 DICE nashville hats are only for the die-hard nashville lover. The ⚅⚀⚄ puff embroidered nashville hat is statement and conversation piece. This minimal cap has a clean, structured profile. Show your city pride by wearing our 615 area code hat from the nash store.
-  Updated: 2026-07-19T02:46:59Z
+  Updated: 2026-08-01T17:41:36Z
   Vendor: nashᵀᴺ
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/3009/2566/files/615-dice-snapback.jpg?v=1776009212
   Price: $35.00 USD
 - [Kitty - Catman Building T-Shirt](https://nash.tn/products/kitty-catman-building-t-shirt): Sometimes cats do cat things. What's better than cats, bubble letters and our iconic Nashville Batman building... well, a Catman Building™, of course! Nashville has a very recognizable, iconic downtown building, the AT&T building—aka Batman Building—to which our beloved Catman Building pays homage. The front features a mischievous cat pushing the "n" off the nashᵀᴺ name, while the back showcases the full Catman Building™ design in all its glory. These are original designs, screen printed in Nashville, Tennessee by local artisans.
-  Updated: 2026-07-28T20:43:06Z
+  Updated: 2026-08-06T16:12:36Z
   Vendor: nashᵀᴺ
   Product Type: Clothing
   Availability: Available
@@ -2548,49 +2517,49 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
 ## Collections
 
 - [nashville mugs & rocks glasses](https://nash.tn/collections/coffee-mugs): nash mugs and nashville looks good on you glasses
-  Updated: 2026-07-28T11:04:45Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 12
 - [Nashville Sweatshirts and Hoodies](https://nash.tn/collections/nashville-sweatshirts): Keep warm and stylish with our collection of sweatshirts, and hoodies. These shirts feature one of two imprints: "Nashville Looks Good On You" or "Nashᵀᴺ". Our shirts are comfy, high quality and display your city spirit for all to see.
   Updated: 2026-07-09T19:56:16Z
   Total Products: 0
 - [nashville posters](https://nash.tn/collections/posters): non-touristy
-  Updated: 2026-07-25T11:04:16Z
+  Updated: 2026-08-02T11:04:28Z
   Total Products: 5
 - [Hats](https://nash.tn/collections/nashville-hats): Looking for a Nashville hat, cap, beanie, or trucker hat? We have got you covered with a selection of styles and colors. Each hat will show your love of Nashville. Check our site to view all available hat styles.
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 39
 - [nashville kid™](https://nash.tn/collections/nashville-kid): oh, grow up™
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 23
 - [nashville tote bags](https://nash.tn/collections/bags)
   Updated: 2026-02-04T20:54:31Z
   Total Products: 0
 - [Nashville T Shirts](https://nash.tn/collections/nashville-t-shirts): Nashville Looks Good On You features an exclusive collection of Nashville Tn t shirts, with a variety of themes and colors.  Nashville women's t shirts, men's tee shirts, and even a Nashvilleᵀᴺ onesie for infants. Our  T shirt is fast becoming a symbol of the creative spirit of Nashville. Wear our shirts with pride.
-  Updated: 2026-07-29T11:04:41Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 27
 - [memphis](https://nash.tn/collections/memphis)
-  Updated: 2026-07-09T20:05:22Z
+  Updated: 2026-08-02T11:04:28Z
   Total Products: 3
 - [tennessee](https://nash.tn/collections/tennessee)
-  Updated: 2026-07-29T11:04:41Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 19
 - [chattanooga](https://nash.tn/collections/chattanooga)
-  Updated: 2026-07-09T20:05:22Z
+  Updated: 2026-08-02T11:04:28Z
   Total Products: 4
 - [knoxville](https://nash.tn/collections/knoxville)
-  Updated: 2026-07-09T20:05:47Z
+  Updated: 2026-08-02T11:04:28Z
   Total Products: 5
 - [franklin](https://nash.tn/collections/franklin)
-  Updated: 2026-07-25T11:04:16Z
+  Updated: 2026-08-02T11:04:28Z
   Total Products: 6
 - [all products](https://nash.tn/collections/all)
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 203
 - [nashville gifts](https://nash.tn/collections/nashville-gifts-souvenirs)
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 45
 - [winter collection](https://nash.tn/collections/winter)
-  Updated: 2026-07-28T11:04:45Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 34
 - [Nashville Tennessee Sweatshirts](https://nash.tn/collections/nashville-tennessee-sweatshirts): Our sweatshirts, are soft, warm and made locally with quality materials. The sweatshirts feature one of 2 imprints both of which show your city pride. First, is "Nashᵀᴺ" as if you are trademarking your support. The second is "Nashville Looks Good On You" our iconic saying that is featured on walls around the city.
   Updated: 2026-07-09T19:56:17Z
@@ -2599,40 +2568,40 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
   Updated: 2026-02-04T20:54:34Z
   Total Products: 0
 - [ALL SHIRTS](https://nash.tn/collections/all-nashville-shirts)
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 69
 - [Wall Art](https://nash.tn/collections/wall-art)
   Updated: 2026-07-09T20:05:37Z
   Total Products: 5
 - [nashville looks good on youᵀᴺ](https://nash.tn/collections/nashville-looks-good-on-you)
-  Updated: 2026-07-28T11:04:45Z
+  Updated: 2026-08-05T11:04:24Z
   Total Products: 40
 - [Mᵀᴺ / Music City Products](https://nash.tn/collections/mᵀᴺ-music-city-products): Vintage inspired Mᵀᴺ Music City shirts for those music lovers looking for a little bit of nostalgia.
-  Updated: 2026-07-27T11:04:43Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 7
 - [615 or DIE | ⚅⚀⚄ | 615 DICE](https://nash.tn/collections/615-dice-shirts-stickers)
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-04T11:04:19Z
   Total Products: 13
 - [super deals](https://nash.tn/collections/super-deals)
   Updated: 2026-07-09T20:05:24Z
   Total Products: 8
 - [STICKWITHNASH](https://nash.tn/collections/stickwithnash): Follow us on instagram & get a free sticker!  is only valid toward stickers. Total  is $3.00 and is limited to one per customer.  can be applied toward stickers with a higher value for $3 off.
-  Updated: 2026-07-25T11:04:16Z
+  Updated: 2026-08-02T11:04:28Z
   Total Products: 11
 - [Popular](https://nash.tn/collections/popular)
-  Updated: 2026-07-29T11:04:41Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 20
 - [Summer](https://nash.tn/collections/summer)
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 27
 - [BABY](https://nash.tn/collections/baby)
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-05T11:04:24Z
   Total Products: 5
 - [TODDLER](https://nash.tn/collections/toddler)
   Updated: 2026-02-04T20:54:00Z
   Total Products: 0
 - [YOUTH](https://nash.tn/collections/youth)
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-03T11:04:05Z
   Total Products: 8
 - [Nashville Beanies](https://nash.tn/collections/nashville-beanies)
   Updated: 2026-02-04T20:54:35Z
@@ -2644,25 +2613,25 @@ Maker notes: Our Nashville Tshirts,  and child, are screen printed locally.
   Updated: 2026-02-03T03:40:23Z
   Total Products: 0
 - [REVERSE DYE](https://nash.tn/collections/reverse-dye)
-  Updated: 2026-07-27T11:04:43Z
+  Updated: 2026-08-03T11:04:05Z
   Total Products: 6
 - [Buttons & Pins](https://nash.tn/collections/buttons-pins): unique nashville buttons & lapel pins
-  Updated: 2026-07-29T11:04:41Z
+  Updated: 2026-08-05T11:04:24Z
   Total Products: 8
 - [keychains & Magnets](https://nash.tn/collections/keychains)
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-03T11:04:05Z
   Total Products: 6
 - [Premium Collection / Puff Ink](https://nash.tn/collections/nashville-puff-ink-shirts)
-  Updated: 2026-07-26T11:04:17Z
+  Updated: 2026-08-03T11:04:05Z
   Total Products: 2
 - [6ONE5](https://nash.tn/collections/6one5): BONES = 6ONE5 = 615
-  Updated: 2026-07-30T11:04:35Z
+  Updated: 2026-08-05T11:04:24Z
   Total Products: 10
 - [friendersonville](https://nash.tn/collections/friendersonville)
   Updated: 2026-07-24T11:04:10Z
   Total Products: 3
 - [Catman Building™](https://nash.tn/collections/catman-building): original Catman Building™ artwork
-  Updated: 2026-07-29T11:04:41Z
+  Updated: 2026-08-06T11:04:11Z
   Total Products: 5
 
 ## Blogs
