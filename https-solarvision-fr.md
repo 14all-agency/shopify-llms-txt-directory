@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2021-12-17T16:53:59Z
 - Contact Email: solarvision.shop@gmail.com
-- Updated At: 2026-08-01T00:00:43.437Z
+- Updated At: 2026-08-08T00:00:46.522Z
 
 ## Products
 
