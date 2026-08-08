@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-07-31T20:00:32.868Z
+- Updated At: 2026-08-08T04:00:34.950Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -175,15 +175,15 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ChristmasGiftPlanningList-HolidayOrganizer-PrintablePlanning.jpg?v=1687885561
   Price: $5.95 USD
-- [Nanny Log - Daily Infant Care Sheet - Blue and Green - Printable](https://printableplanning.com/products/nanny-log-daily-infant-care-sheet-printable): A printable Nanny Log - Daily Infant Care Sheet - Blue and Green page for keeping track of the daily care of an infant while the parents are away. This caregiver's tracking sheet allows you to log a lot of information while caring for a baby. This printable page tracks diaper changes, feedings, nap times, mood, and tummy time. It also logs activities, special care, and special concerns. There is also a section for letting the parents know what supplies are running low and a section for any additional notes. All of the sections are clearly defined, and the subcategories are color coded in blue and green. There is room on the left side of these sheets for you to use a 3-hole punch to organize your pages in a binder. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Color coding ideal for boy babies. Print a new printable Nanny Log - Daily Infant Care Sheet - Blue and Green page for every day or as needed.
-  Updated: 2026-07-08T20:45:37Z
+- [Nanny Log Daily Infant Care Sheet | Blue & Green Printable PDF](https://printableplanning.com/products/nanny-log-daily-infant-care-sheet-printable): Track diaper changes, feedings, naps, activities, special care, supplies, and notes with this blue and green printable daily infant nanny log.
+  Updated: 2026-08-07T06:16:20Z
   Vendor: Artistically Invited
   Product Type: Caregiver Forms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Nanny_Log_-_Daily_Care_Sheet_-_Boy_Blue_Green_-_Printable_Planning.jpg?v=1564501501
   Price: $5.95 USD
-- [Nanny Log - Daily Infant Care Sheet - Pink and Yellow - Printable](https://printableplanning.com/products/nanny-log-daily-infant-care-sheet-pink-yellow-printable): A printable Nanny Log - Daily Infant Care Sheet - Pink and Yellow page for keeping track of the daily care of an infant while the parents are away. This caregiver's tracking sheet allows you to log a lot of information while caring for a baby. This printable page tracks diaper changes, feedings, nap times, mood, and tummy time. It also logs activities, special care, and special concerns. There is also a section for letting the parents know what supplies are running low and a section for any additional notes. All of the sections are clearly defined, and the subcategories are color coded in pink and yellow. There is room on the left side of these sheets for you to use a 3-hole punch to organize your pages in a binder. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Color coding ideal for girl babies. Print a new printable Nanny Log - Daily Infant Care Sheet - Pink and Yellow page every day or as needed.
-  Updated: 2026-07-08T20:45:38Z
+- [Nanny Log Daily Infant Care Sheet | Pink & Yellow Printable PDF](https://printableplanning.com/products/nanny-log-daily-infant-care-sheet-pink-yellow-printable): Use this pink and yellow printable nanny log to record feedings, diapers, naps, tummy time, activities, special care, supplies, and daily notes.
+  Updated: 2026-08-07T08:43:01Z
   Vendor: Artistically Invited
   Product Type: Caregiver Forms
   Availability: Available
@@ -302,7 +302,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/KettlebellExercisesSheetwithWarm-upandCool-down-PrintablePlanning.jpg?v=1687790941
   Price: $5.95 USD
 - [Weight Training Workout Log with Sets and Reps | Printable](https://printableplanning.com/products/weight-training-daily-log-with-warm-up-and-cool-down-printable): Record warm-ups, exercises, weight, reps, four workout sets, cool-downs, and notes with this printable daily weight-training log.
-  Updated: 2026-07-31T18:11:48Z
+  Updated: 2026-08-01T02:07:45Z
   Vendor: Artistically Invited
   Product Type: Diet and Exercise
   Availability: Available
@@ -497,8 +497,8 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Baby_Log_-_Daily_Infant_Care_Sheet_BUNDLE_-_Printable_Planning_e50a6771-0896-4a19-9ead-bb4a3c9538e4.jpg?v=1564705786
   Price: $7.95 USD
-- [Nanny Log - Daily Infant Care Sheet - 2 page BUNDLE - Printable](https://printableplanning.com/products/nanny-log-daily-infant-care-sheet-2-page-bundle-printable): A bundle including 2 printable Nanny Logs for keeping track of the daily care of an infant while the parents are away. These Nanny Log - Daily Infant Care Sheet - 2 Page Bundle caregiver's tracking sheets allow you to log a lot of information while caring for a baby. This printable page tracks diaper changes, feedings, nap times, mood, and tummy time. It also logs activities, special care, and special concerns. There is also a section for letting the parents know what supplies are running low and a section for any additional notes. All of the sections are clearly defined, and the subcategories are color coded in blue and green, and pink and yellow. There is room on the left side of these sheets for you to use a 3-hole punch to organize your pages in a binder. SPECIFICATIONS & BENEFITS: 2 @ 8.5" x 11" printable PDF pages. Offset to the right to allow for a 3-hole punch. Simple and clean. Clear categories. Color coding ideal for boy or girl babies. Print a new page from this printable Nanny Log - Daily Infant Care Sheet - 2 Page Bundle every day or as needed.
-  Updated: 2026-07-08T20:45:50Z
+- [Nanny Log Bundle | 2 Printable Infant Care Sheets](https://printableplanning.com/products/nanny-log-daily-infant-care-sheet-2-page-bundle-printable): Get two printable nanny logs in blue/green and pink/yellow for tracking feedings, diapers, naps, tummy time, activities, special care, and notes.
+  Updated: 2026-08-07T23:54:02Z
   Vendor: Artistically Invited
   Product Type: Caregiver Forms
   Availability: Available
@@ -1253,33 +1253,47 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/TurquoiseGinghamDailyOrganizationCategoryTaskSheet-PrintablePlanning.jpg?v=1687023373
   Price: $5.95 USD
-[List Continued](https://printableplanning.com/a/llms-agent/llms.txt?shop=printable-planning.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzQ1ODkxNTMzNzUsImxhc3RfdmFsdWUiOiI3NzQ1ODkxNTMzNzUifQ%3D%3D)
+- [Yellow Gingham Daily Organization Category Task Sheet - Printable](https://printableplanning.com/products/yellow-gingham-daily-organization-category-task-sheet-printable): Get your daily life organized with our yellow gingham daily organization category task sheet. A printable full page daily task list for your daily personal activities and responsibilities with a yellow gingham design. This list highlights many of the common tasks people face everyday. It's a full page size, giving you a full and clear view of your daily tasks. Print as many sheets as you need, or a new sheet every time you need one. INCLUDED on SHEET: Important Tasks. People to Call. Errands. If I get to them... tasks. SPECIFICATIONS: 8.5" x 11" printable PDF page. Full page daily task list. Simple and clean. Color and Design: Yellow Gingham. Excellent for personal daily to-do lists. Print a new printable yellow gingham daily organization category task sheet every time you need more.
+  Updated: 2026-07-08T20:46:17Z
+  Vendor: Artistically Invited
+  Product Type: To-Do List
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/YellowGinghamDailyOrganizationCategoryTaskSheet-PrintablePlanning.jpg?v=1687023365
+  Price: $5.95 USD
+- [Rainbow Gingham Daily Organization Category Task Sheet - Printable](https://printableplanning.com/products/rainbow-gingham-daily-organization-category-task-sheet-printable): Get your daily life organized with our rainbow gingham daily organization category task sheet. A printable full page daily task list for your daily personal activities and responsibilities with a rainbow gingham design. This list highlights many of the common tasks people face everyday. It's a full page size, giving you a full and clear view of your daily tasks. Print as many sheets as you need, or a new sheet every time you need one. INCLUDED on SHEET: Important Tasks. People to Call. Errands. If I get to them... tasks. SPECIFICATIONS: 8.5" x 11" printable PDF page. Full page daily task list. Simple and clean. Color and Design: Rainbow Gingham. Excellent for personal daily to-do lists. Print a new printable rainbow gingham daily organization category task sheet every time you need more.
+  Updated: 2026-07-08T20:46:17Z
+  Vendor: Artistically Invited
+  Product Type: To-Do List
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/RainbowGinghamDailyOrganizationCategoryTaskSheet-PrintablePlanning.jpg?v=1687023392
+  Price: $5.95 USD
+[List Continued](https://printableplanning.com/a/llms-agent/llms.txt?shop=printable-planning.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzQ1ODkyNTE2NzksImxhc3RfdmFsdWUiOiI3NzQ1ODkyNTE2NzkifQ%3D%3D)
 
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-07-31T19:44:31Z
-  Total Products: 424
+  Updated: 2026-08-07T13:23:24Z
+  Total Products: 425
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-07-31T14:07:41Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-07-31T19:44:31Z
-  Total Products: 424
+  Updated: 2026-08-07T13:23:24Z
+  Total Products: 425
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
   Updated: 2026-07-29T17:01:36Z
   Total Products: 14
 - [Caregiver, Health, and Housekeeping Forms](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-07-30T19:27:40Z
+  Updated: 2026-08-07T11:53:57Z
   Total Products: 47
 - [Financial Sheets](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
-  Updated: 2026-07-30T19:28:34Z
+  Updated: 2026-08-07T13:23:24Z
   Total Products: 44
 - [Holiday and Occasion Printable Pages](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Holiday and occasion printables like gift tags, RSVP and guest list pages, gift planning lists, and more for organized celebrations.
   Updated: 2026-07-31T11:01:04Z
   Total Products: 66
 - [Calendars and Planner Pages](https://printableplanning.com/collections/calendars-and-planner-pages): Printable calendars and planner pages with blank, undated layouts for monthly and weekly planning. Print as needed and organize your schedule your way.
-  Updated: 2026-07-30T19:24:19Z
+  Updated: 2026-08-04T11:01:51Z
   Total Products: 29
 - [Address Labels](https://printableplanning.com/collections/address-labels): Personalized printable return address labels in many designs. Sized for Avery 5160 and compatible sheets. Print as needed for mail and gifts.
   Updated: 2026-07-08T20:20:47Z
@@ -1291,8 +1305,8 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-07-08T20:47:17Z
   Total Products: 53
 - [School and Teachers](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-07-30T18:20:42Z
-  Total Products: 44
+  Updated: 2026-08-04T14:16:26Z
+  Total Products: 45
 - [Children's Printable Pages](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
   Updated: 2026-07-26T11:01:59Z
   Total Products: 30
