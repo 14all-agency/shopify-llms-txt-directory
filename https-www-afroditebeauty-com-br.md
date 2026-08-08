@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2026-04-01T14:25:11Z
 - Contact Email: contato@afroditebeauty.com.br
-- Updated At: 2026-07-26T00:00:30.395Z
+- Updated At: 2026-08-08T00:00:38.509Z
 
 ## Products
 
@@ -32,12 +32,12 @@
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/perfume-jean-paul-gaultier-scandal-edp-80ml-feminino-original-ousado-e-sedutor-3016057.jpg?v=1777251451
   Price: R$ 740,00 BRL
 - [Lancôme La Vie Est Belle Perfume Feminino - Eau de Parfum](https://www.afroditebeauty.com.br/products/la-vie-est-belle-edp-30ml): Descubra a essência da felicidade com Lancôme La Vie Est Belle. Este perfume feminino oferece longa duração e é o toque perfeito para qualquer ocasião.
-  Updated: 2026-07-18T08:38:43Z
+  Updated: 2026-08-01T01:06:57Z
   Vendor: Lancôme
   Product Type: Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/perfume-lancome-la-vie-est-belle-edp-30ml-feminino-original-o-manifesto-da-felicidade-7036692.jpg?v=1777251454
-  Price: R$ 480,00 BRL
+  Price: R$ 380,00 BRL
 - [Ralph Lauren Ralph's Club Parfum 100ml - Perfume Masculino](https://www.afroditebeauty.com.br/products/ralphs-club-parfum-100ml): Descubra a elegância do Perfume Masculino Ralph Lauren Ralph's Club Parfum 100ml. Fragrância intensa, original e de longa duração para o homem moderno.
   Updated: 2026-07-18T08:38:48Z
   Vendor: Ralph Lauren
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/perfume-paco-rabanne-one-million-100ml-masculino-original-3826187.jpg?v=1777251467
   Price: R$ 690,00 BRL
 - [Kit Shampoo e Condicionador - Cabelos Transformados Rápido](https://www.afroditebeauty.com.br/products/kit-shampoo-e-condicionador-530g-perfect-serum): Transforme seus cabelos em apenas uma lavagem! Experimente o Kit Shampoo + Condicionador Mise En Scène Perfect Serum 530g e revele seu brilho.
-  Updated: 2026-07-18T08:39:03Z
+  Updated: 2026-08-01T11:55:24Z
   Vendor: Mise En Scène
   Product Type: Cabelos
   Availability: Available
@@ -81,14 +81,14 @@
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/conjunto-sutia-balcone-rendado-com-aro-calcinha-string-fio-lingerie-feminina-sensual-4314228.png?v=1777251508
   Price: R$ 95,76 BRL
 - [Shampoo Mise En Scène Damage Care RED - Cabelos Danificados](https://www.afroditebeauty.com.br/products/mes-damage-care-red-protein-shampoo-200ml): Transforme seus cabelos danificados com o Shampoo Mise En Scène Damage Care. Recuperação intensa em cada gota, a beleza está a um passo!
-  Updated: 2026-07-18T08:39:19Z
+  Updated: 2026-08-01T11:56:11Z
   Vendor: Mise En Scène
   Product Type: Cabelos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/mes-damage-care-red-protein-condicionador-200ml-2765446.png?v=1777251512
   Price: R$ 90,00 BRL
 - [Condicionador MES Damage Care RED Protein 200ml para Cabelos](https://www.afroditebeauty.com.br/products/mes-damage-care-red-protein-condicionador-200ml): Revitalize seus cabelos com o Condicionador MES Damage Care RED Protein. Ideal para reparar danos e deixar suas madeixas saudáveis e brilhantes!
-  Updated: 2026-07-18T08:39:23Z
+  Updated: 2026-08-01T12:01:27Z
   Vendor: Mise En Scène
   Product Type: Cabelos
   Availability: Available
@@ -102,14 +102,14 @@
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/-mise-en-scene-damage-care-red-protein-180ml-tratamento-intensivo-para-cabelos-danificados-9370718.jpg?v=1777251517
   Price: R$ 135,00 BRL
 - [Shampoo Coreano Geléia Real - Tratamento Capilar Eficaz](https://www.afroditebeauty.com.br/products/mes-royal-jelly-protein-shampoo-200ml): Transforme seus cabelos com o Shampoo Mise En Scène Geléia Real! Tratamento capilar original coreano que nutre e revitaliza profundamente.
-  Updated: 2026-07-18T08:39:29Z
+  Updated: 2026-08-01T11:55:33Z
   Vendor: Mise En Scène
   Product Type: Cabelos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/shampoo-mise-en-scene-royal-jelly-protein-200ml-nutricao-real-com-geleia-real-3515908.png?v=1777251517
   Price: R$ 90,00 BRL
 - [Condicionador Geléia Real Mise En Scene - Tratamento Capilar](https://www.afroditebeauty.com.br/products/mes-royal-jelly-protein-condicionador--200ml): Revitalize seus cabelos com o Condicionador Mise En Scene Geléia Real. Tratamento capilar coreano que nutre e fortalece os fios. Experimente agora!
-  Updated: 2026-07-18T08:39:33Z
+  Updated: 2026-08-01T11:55:47Z
   Vendor: Mise En Scène
   Product Type: Cabelos
   Availability: Available
@@ -369,12 +369,19 @@
     Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/lip-gloss-babasoul-soul-cosmeticos-brilho-espelhado-hidratacao-intensa-e-cheirinho-de-chiclete-9019252.webp?v=1781568453
     Price: R$ 25,50 BRL
 - [Kit de Tratamento Capilar Tutti Frutti - Brilho e Perfume](https://www.afroditebeauty.com.br/products/kit-de-tratamento-capilar-sensorial-tutti-frutti-soul-cosmeticos-3-itens-brilho-espelhado-e-perfume-prolongado): Transforme seus cabelos com o Kit Sensorial Tutti Frutti! Brilho espelhado e perfume prolongado para fios irresistíveis. Experimente agora!
-  Updated: 2026-07-18T08:37:30Z
+  Updated: 2026-08-01T00:39:11Z
   Vendor: Afrodite Beauty
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/kit-de-tratamento-capilar-sensorial-tutti-frutti-soul-cosmeticos-3-itens-brilho-espelhado-e-perfume-prolongado-2068222.webp?v=1781910607
   Price: R$ 35,00 BRL
+- [Gel Fixador Sobrancelhas Baby Hair Antifrizz Incolor 6ml](https://www.afroditebeauty.com.br/products/gel-fixador-para-sobrancelhas-e-baby-hair-fix-antifrizz-miamake-incolor-6ml-original): Domine suas sobrancelhas e baby hair com o Gel Fixador Miamake! Fórmula incolor de 6ml, segura, durável e antifrizz para um look impecável.
+  Updated: 2026-07-30T09:07:38Z
+  Vendor: Miamake
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0979/8805/1247/files/gel-fixador-para-sobrancelhas-e-baby-hair-fix-antifrizz-miamake-incolor-6ml-original-4488045.webp?v=1785284947
+  Price: R$ 17,00 BRL
 
 ## Collections
 
@@ -382,56 +389,29 @@
   Updated: 2026-07-20T23:22:12Z
   Total Products: 15
 - [Cabelos Premium: Produtos e Tratamentos Afrodite Beauty](https://www.afroditebeauty.com.br/collections/fragrance-example-products): Produtos premium para cabelos: shampoos, condicionadores e tratamentos selecionados. Cuide dos seus cabelos com as melhores marcas.
-  Updated: 2026-07-19T04:46:51Z
-  Total Products: 7
-- [Coleção: Perfumes para Homens Modernos](https://www.afroditebeauty.com.br/collections/masculino): Perfumes masculinos importados e originais das melhores marcas premium. Fragrâncias sofisticadas com entrega rápida para todo o Brasil.
-  Updated: 2026-07-19T04:48:14Z
-  Total Products: 3
-- [Perfumes Femininos](https://www.afroditebeauty.com.br/collections/perfumes-feminos): Descubra perfumes femininos importados e originais. Fragrâncias exclusivas de marcas premium como Prada e Paco Rabanne. Entrega rápida para todo o Brasil.
-  Updated: 2026-07-19T04:47:44Z
-  Total Products: 6
+  Updated: 2026-08-01T00:35:41Z
+  Total Products: 9
 - [Skincare](https://www.afroditebeauty.com.br/collections/skin-care): Descubra produtos de skincare premium para cuidado facial e corporal. Séruns, hidratantes e tratamentos selecionados para uma pele radiante.
-  Updated: 2026-06-22T20:58:16Z
-  Total Products: 2
-- [Coleção Exclusiva Afrodite: Herança Divina](https://www.afroditebeauty.com.br/collections/kits-exclusivos): Kits exclusivos Afrodite Beauty com perfumes importados e lingeries premium. Presentes perfeitos com frete grátis para todo o Brasil.
-  Updated: 2026-07-19T04:48:37Z
-  Total Products: 10
+  Updated: 2026-08-01T00:32:47Z
+  Total Products: 13
 - [Delicadeza Íntima: Uma jornada pela evolução da lingerie](https://www.afroditebeauty.com.br/collections/lingerie-intimidade): Lingeries, camisolas e conjuntos sensuais com entrega discreta. Celebre sua feminilidade com a Afrodite Beauty.
   Updated: 2026-07-19T04:44:09Z
   Total Products: 17
 - [Perfumaria Clássica → Fragrâncias Modernas](https://www.afroditebeauty.com.br/collections/perfumaria): Descubra nossa seleção de perfumes importados femininos e masculinos. Fragrâncias premium com entrega rápida.
-  Updated: 2026-07-19T04:43:42Z
+  Updated: 2026-08-01T01:06:58Z
   Total Products: 12
 - [Destaques Afrodite](https://www.afroditebeauty.com.br/collections/destaques-afrodite): Conheça os produtos mais amados da Afrodite Beauty: perfumes, lingeries, skincare e bem-estar íntimo.
-  Updated: 2026-06-23T00:10:40Z
-  Total Products: 14
+  Updated: 2026-08-01T01:06:58Z
+  Total Products: 15
 - [Skin & Care to Skin & Care ✦ K-Beauty: A Evolução da Beleza](https://www.afroditebeauty.com.br/collections/k-beauty): Produtos K-Beauty autênticos: skincare, haircare e tratamentos coreanos premium. Curadoria exclusiva com as melhores marcas da Coreia.
-  Updated: 2026-07-19T04:42:52Z
-  Total Products: 19
-- [Corte de cabelo: guia completo para um visual descolado](https://www.afroditebeauty.com.br/collections/universobeleza): Curadoria sensorial de perfumes importados e skincare coreano para transformar seu autocuidado em ritual. Entrega discreta. Afrodite Beauty.
-  Updated: 2026-07-19T04:42:11Z
-  Total Products: 9
-- [Elegância Feminina: A Evolução](https://www.afroditebeauty.com.br/collections/universofeminilidade): Lingeries sofisticadas para celebrar sua feminilidade com delicadeza e elegância. Tecidos nobres, embalagem discreta. Afrodite Beauty.
-  Updated: 2026-07-19T04:40:44Z
-  Total Products: 7
+  Updated: 2026-08-01T00:35:12Z
+  Total Products: 10
 - [Íntimo: A Essência](https://www.afroditebeauty.com.br/collections/universointimo): Curadoria de bem-estar íntimo com segurança, discrição e sofisticação. Entrega discreta garantida. Afrodite Beauty.
   Updated: 2026-07-20T23:22:12Z
   Total Products: 12
-- [Coleção Exclusiva de Fragrâncias Internacionais](https://www.afroditebeauty.com.br/collections/perfumes-importados): Perfumes importados originais com alta fixação e fragrâncias únicas. Entrega discreta. Afrodite Beauty.
-  Updated: 2026-07-19T04:39:48Z
-  Total Products: 6
 - [Coleção K-Beauty: Rotina Skincare](https://www.afroditebeauty.com.br/collections/skincare-k-beauty): Skincare K-Beauty com ingredientes ativos para pele hidratada e radiante. Curadoria sensorial. Afrodite Beauty.
-  Updated: 2026-07-19T04:39:21Z
-  Total Products: 7
-- [Coleção Sensual: Lingerie Chique](https://www.afroditebeauty.com.br/collections/lingerie): Lingerie feminina para todos os momentos, unindo conforto, elegância e sensualidade. Peças escolhidas a dedo pela Afrodite Beauty.
-  Updated: 2026-07-20T23:35:52Z
-  Total Products: 9
-- [Vibradores Discretos](https://www.afroditebeauty.com.br/collections/vibradores-discretos): Vibradores com design sofisticado, materiais seguros e entrega 100% discreta. Bem-estar íntimo com elegância. Afrodite Beauty.
-  Updated: 2026-07-20T23:34:31Z
-  Total Products: 5
-- [Evolução dos Cosméticos Íntimos ao longo das Décadas](https://www.afroditebeauty.com.br/collections/cosmeticos-intimos): Lubrificantes, geléis e cosméticos íntimos dermatologicamente testados. Ritual íntimo com segurança e sofisticação. Afrodite Beauty.
-  Updated: 2026-07-20T23:33:43Z
-  Total Products: 5
+  Updated: 2026-08-01T00:33:57Z
+  Total Products: 10
 
 ## Blogs
 
@@ -478,6 +458,24 @@
   - [Entendendo Os Benefícios Da Beleza Natural Para Sua Saúde](https://www.afroditebeauty.com.br/blogs/noticias/entendendo-os-beneficios-da-beleza-natural-para-sua-saude): Entendendo Os Benefícios Da Beleza Natural Para Sua Saúde
     Updated: 2026-07-24T05:22:08Z
     Author: Diovana Correa
+  - [Guia Completo Para Praticar Beleza Natural Em Casa](https://www.afroditebeauty.com.br/blogs/noticias/guia-completo-para-praticar-beleza-natural-em-casa): Guia Completo Para Praticar Beleza Natural Em Casa
+    Updated: 2026-07-28T01:26:07Z
+    Author: Diovana Correa
+  - [Perguntas Frequentes Sobre Produtos De Beleza Natural](https://www.afroditebeauty.com.br/blogs/noticias/perguntas-frequentes-sobre-produtos-de-beleza-natural): Perguntas Frequentes Sobre Produtos De Beleza Natural
+    Updated: 2026-07-29T01:41:53Z
+    Author: Diovana Correa
+  - [Checklist De Produtos Essenciais Para Beleza Natural](https://www.afroditebeauty.com.br/blogs/noticias/checklist-de-produtos-essenciais-para-beleza-natural): Checklist De Produtos Essenciais Para Beleza Natural
+    Updated: 2026-07-31T14:00:32Z
+    Author: Diovana Correa
+  - [A Importância Histórica Da Beleza Natural Nas Culturas Tradicionais](https://www.afroditebeauty.com.br/blogs/noticias/a-importancia-historica-da-beleza-natural-nas-culturas-tradicionais): A Importância Histórica Da Beleza Natural Nas Culturas Tradicionais
+    Updated: 2026-08-03T18:06:30Z
+    Author: Diovana Correa
+  - [O Impacto Educacional Da Beleza Natural Na Sociedade](https://www.afroditebeauty.com.br/blogs/noticias/o-impacto-educacional-da-beleza-natural-na-sociedade): O Impacto Educacional Da Beleza Natural Na Sociedade
+    Updated: 2026-08-05T18:30:02Z
+    Author: Diovana Correa
+  - [Comparando Cosméticos Industriais E Alternativas Naturais](https://www.afroditebeauty.com.br/blogs/noticias/comparando-cosmeticos-industriais-e-alternativas-naturais): Comparando Cosméticos Industriais E Alternativas Naturais
+    Updated: 2026-08-07T18:21:40Z
+    Author: Diovana Correa
 
 ## Store Pages
 
@@ -501,8 +499,8 @@
   Updated: 2026-07-19T13:12:04Z
 - [Envio Discreto e Privacidade Total | Afrodite Beauty](https://www.afroditebeauty.com.br/pages/envio-discreto-privacidade): Envio 100% Discreto e Política de Privacidade
   Updated: 2026-07-18T09:23:07Z
-- [Quem Somos | O Ritual Afrodite Beauty](https://www.afroditebeauty.com.br/pages/quem-somos): Quem Somos — O Ritual Afrodite Beauty
-  Updated: 2026-07-18T09:40:53Z
+- [Quem Somos | Afrodite Beauty — Curadoria de Beleza, Perfumes e Bem-Estar Feminino](https://www.afroditebeauty.com.br/pages/quem-somos): Quem Somos — O Ritual Afrodite Beauty A Afrodite Beauty nasceu de uma crença simples e poderosa: toda mulher merece se cuidar com intenção, elegânc...
+  Updated: 2026-08-01T00:44:59Z
 - [Política de Trocas e Devoluções | Afrodite Beauty](https://www.afroditebeauty.com.br/pages/trocas-e-devolucoes): Política de Trocas e Devoluções
   Updated: 2026-07-18T09:40:39Z
 
