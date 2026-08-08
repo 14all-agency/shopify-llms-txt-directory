@@ -6,84 +6,73 @@
 - Timezone: America/New_York
 - Created At: 2025-09-11T10:54:23Z
 - Contact Email: neha.kwatra176@gmail.com
-- Updated At: 2026-07-29T00:00:37.330Z
+- Updated At: 2026-08-08T00:00:41.631Z
 
 IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our entire skincare range at Lazy Lizard Skincare. This limited-time  applies automatically at checkout.
 
 ## Products
 
 - [Vegan Lip Balm with Ceramides & Vitamin E | Lazy Lizard](https://lazylizardcare.com/products/luxe-lip-balm-5gm): Nourish & repair lips with coconut oil, cocoa butter, ceramides & vitamin E. Vegan, cruelty-free lip balm. ₹249.
-  Updated: 2026-07-03T08:37:47Z
+  Updated: 2026-08-06T01:22:35Z
   Vendor: LazyLizard-skincare
   Product Type: lip Balm
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_-_14.png?v=1782742610
+  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_c78a047d-aa1e-47b4-8d54-033fb32a9558.png?v=1772099815
   Price: ₹333.00 INR
 - [PDRN Barrier Repair Serum India | Lazy Lizard PDRN Serum 30ml](https://lazylizardcare.com/products/pdrn-infused-skin-fuel-serum): Lazy Lizard PDRN Serum with Rose PDRN, Licorice PDRN, Ceramides, Niacinamide & Hyaluronic Acid for hydrated, glowing and healthier-looking skin.
-  Updated: 2026-06-30T02:20:09Z
+  Updated: 2026-08-07T14:14:36Z
   Vendor: LazyLizard-skincare
   Product Type: Serum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_-_11.png?v=1782742701
+  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_1a26f391-48c5-40e8-8140-8a319e484478.png?v=1772104860
   Price: ₹666.00 INR
 - [PDRN Hydrating Face Toner India | Lazy Lizard](https://lazylizardcare.com/products/lazy-twin-fusion-luxe-toner): Refresh and transform your skincare routine with Lazy Lizard Twin Fusion Luxe Toner, a bi-phase toner powered by advanced skincare actives like Rose PDRN, Lactosporin, Niacinamide, Centella Asiatica, Collapant and Rice Water. This unique formula blends science and nature to provide hydration, radiance and skin barrier support
-  Updated: 2026-06-30T02:24:53Z
+  Updated: 2026-08-07T14:14:58Z
   Vendor: LazyLizard-skincare
   Product Type: Face Toner
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_4dcce26b-a646-431e-a08a-81ac30c3b198.png?v=1782743058
+  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_6dd29f5b-7075-4726-a4e0-3b4e9ced4b66.png?v=1772105810
   Price: ₹555.00 INR
 - [Glass Skin Face Cream India – PDRN Boba Cream | Lazy Lizard](https://lazylizardcare.com/products/lazy-lizard-boba-cream-55gm): Lazy Lizard Boba Cream with Niacinamide, Vitamin C, Rice Ferment Filtrate & advanced actives for Glass skin, hydration, brightening and healthy-looking skin.
-  Updated: 2026-07-03T08:37:47Z
+  Updated: 2026-08-07T18:31:10Z
   Vendor: LazyLizard-skincare
   Product Type: Face cream
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/LUXE_LIP_-_12.png?v=1782742700
-  Price: ₹699.00 INR
+  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/lazy_lizard_boba_cream1.png?v=1780938746
+  Price: ₹888.00 INR
 - [Lazy Lizard Sip Glow Liposomal Glutathione Effervescent Tablets | Orange Flavour](https://lazylizardcare.com/products/lazy-lizard-sip-glow-liposomal-glutathione-tablets): Lazy Lizard Sip Glow Liposomal Glutathione Effervescent Tablets Ever wished your skin looked healthier and more radiant from within? Lazy Lizard Sip Glow is a delicious orange-flavoured effervescent tablet that easily dissolves in water to become your daily beauty drink. Each tablet contains 600 mg of Liposomal Glutathione, a powerful antioxidant that helps protect your body from everyday stress caused by pollution, UV exposure, and an unhealthy lifestyle. The liposomal form is designed to help your body absorb glutathione more effectively than regular forms. To make the formula even better, we've added Vitamin C, which supports collagen production and works alongside glutathione, Hyaluronic Acid to help maintain skin hydration, Pomegranate Extract and Astaxanthin for antioxidant support, plus Vitamins A, E, Beta Carotene, and Zinc to support healthy skin and overall wellness. Simply drop one tablet into 200 ml of water, let it fizz, and enjoy a refreshing orange drink. No swallowing large pills—just an easy daily routine that fits into your lifestyle. Why you'll love Sip Glow ✨ 600 mg Liposomal Glutathione 🍊 Refreshing Orange Flavour 💧 Hyaluronic Acid for skin hydration 🍎 Powerful antioxidants including Astaxanthin & Pomegranate Extract 🌿 Enriched with Vitamins A, C, E, Beta Carotene & Zinc 🥤 Easy-to-drink effervescent tablets 🚫 0 g Added Sugar 🥬 Vegetarian Formula Recommended Usage: Dissolve 1 tablet in 200 ml of water once daily or as advised by your  professional.
-  Updated: 2026-07-17T03:51:37Z
+  Updated: 2026-08-07T18:30:42Z
   Vendor: LazyLizard-skincare
   Product Type: Effervescent Tablets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Lazylizard.png?v=1783789725
-  - [Pack of 1](https://lazylizardcare.com/products/lazy-lizard-sip-glow-liposomal-glutathione-tablets?variant=54993165877570)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Lazylizard.png?v=1783789725
-    Price: ₹580.00 INR
-  - [Pack of 2](https://lazylizardcare.com/products/lazy-lizard-sip-glow-liposomal-glutathione-tablets?variant=54993165910338)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Lazylizard.png?v=1783789725
-    Price: ₹1,160.00 INR
-  - [Pack of 3](https://lazylizardcare.com/products/lazy-lizard-sip-glow-liposomal-glutathione-tablets?variant=54993165943106)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Lazylizard_-_23.png?v=1783616432
-    Price: ₹1,740.00 INR
+  Price: ₹1,740.00 INR
 
 ## Collections
 
 - [Home page](https://lazylizardcare.com/collections/frontpage)
-  Updated: 2026-07-03T11:19:38Z
+  Updated: 2026-08-07T18:31:11Z
   Total Products: 3
 - [Skin Toner](https://lazylizardcare.com/collections/skin-toner)
-  Updated: 2026-07-03T11:19:38Z
+  Updated: 2026-08-04T11:19:55Z
   Total Products: 2
 - [Serum](https://lazylizardcare.com/collections/serum)
-  Updated: 2026-06-29T11:18:04Z
+  Updated: 2026-08-07T11:21:35Z
   Total Products: 1
 - [MOISTURISING CREAM](https://lazylizardcare.com/collections/moisturising-cream)
-  Updated: 2026-06-29T11:18:04Z
+  Updated: 2026-07-30T11:19:53Z
   Total Products: 1
 - [Lip Balm](https://lazylizardcare.com/collections/lip-balm)
-  Updated: 2026-07-03T11:19:38Z
+  Updated: 2026-08-04T11:19:55Z
   Total Products: 2
 - [Feature Product -01](https://lazylizardcare.com/collections/feature-product-01)
-  Updated: 2026-07-03T11:19:38Z
+  Updated: 2026-08-07T18:31:11Z
   Total Products: 3
 - [Feature Product -02](https://lazylizardcare.com/collections/feature-product-02)
-  Updated: 2026-06-29T11:18:04Z
+  Updated: 2026-08-07T11:21:35Z
   Total Products: 2
 - [Gift Products](https://lazylizardcare.com/collections/gift-products)
-  Updated: 2026-06-29T11:18:04Z
+  Updated: 2026-07-30T11:19:53Z
   Total Products: 2
 
 ## Blogs
@@ -253,6 +242,18 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
     Tags: glutathione, lazy lizard, liposomal glutathione, sip glow
   - [10 Surprising Benefits of Glutathione for Your Skin Glow](https://lazylizardcare.com/blogs/news/10-surprising-benefits-of-glutathione-for-your-skin-glow): 10 Surprising Benefits of Glutathione for Your Skin Glow
     Updated: 2026-07-25T05:50:43Z
+    Author: Meenakshi Chaudhary
+  - [How Glutathione Benefits Your Skin Glow and Hydration: An Educational Guide](https://lazylizardcare.com/blogs/news/how-glutathione-benefits-your-skin-glow-and-hydration-an-educational-guide): How Glutathione Benefits Your Skin Glow and Hydration: An Educational Guide
+    Updated: 2026-08-04T10:22:23Z
+    Author: Meenakshi Chaudhary
+  - [Liposomal Glutathione vs Traditional Supplements for Skin Glow: A Comparative Analysis](https://lazylizardcare.com/blogs/news/liposomal-glutathione-vs-traditional-supplements-for-skin-glow-a-comparative-analysis): Liposomal Glutathione vs Traditional Supplements for Skin Glow: A Comparative Analysis
+    Updated: 2026-07-30T08:12:20Z
+    Author: Meenakshi Chaudhary
+  - [Lazy Lizard Products for Vegans: A Comprehensive Explainer on Skin Hydration](https://lazylizardcare.com/blogs/news/lazy-lizard-products-for-vegans-a-comprehensive-explainer-on-skin-hydration): Lazy Lizard Products for Vegans: A Comprehensive Explainer on Skin Hydration
+    Updated: 2026-07-31T07:53:54Z
+    Author: Meenakshi Chaudhary
+  - [Boost Your Skin Glow Naturally with Glutathione: How-To Tips for Every Skin Type](https://lazylizardcare.com/blogs/news/boost-your-skin-glow-naturally-with-glutathione-how-to-tips-for-every-skin-type): Boost Your Skin Glow Naturally with Glutathione: How-To Tips for Every Skin Type
+    Updated: 2026-08-05T09:07:01Z
     Author: Meenakshi Chaudhary
 
 ## Store Pages
