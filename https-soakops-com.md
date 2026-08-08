@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2026-05-25T09:14:00Z
 - Contact Email: tonwondun@gmail.com
-- Updated At: 2026-08-01T00:00:40.631Z
+- Updated At: 2026-08-08T00:00:44.429Z
 
 ## Products
 
@@ -127,7 +127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sa4ff330c06a742e9bf2622c284a73802r.webp?v=1780995972
     Price: $25.31 USD
 - [Electric Burst Splatter Blaster Toy Gun Gel Blaster Outdoor Shooting Games Gift for Boy Kids Adults (Bullets Excluded)](https://soakops.com/products/electric-burst-splatter-blaster-toy-gun-gel-blaster-outdoor-shooting-games-gift-for-boy-kids-adults-bullets-excluded): SPECIFICATIONSBrand Name: OiKeChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-07-28T20:23:47Z
+  Updated: 2026-08-05T15:23:46Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -232,7 +232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sdea1282a1d5b4991bb293eecdbcbd95bE.webp?v=1780995975
     Price: $17.55 USD
 - [Electric Water Gun Water Blaster High Capacity Long Range Summer Outdoor Beach Water Fight Toy for Kids Boys Birthday Gift](https://soakops.com/products/electric-water-gun-water-blaster-high-capacity-long-range-summer-outdoor-beach-water-fight-toy-for-kids-boys-birthday-gift): SPECIFICATIONSBrand Name: NONECertification: CEChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 14+yToy Gun Theme: Military
-  Updated: 2026-06-09T21:06:20Z
+  Updated: 2026-08-03T04:50:43Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -274,7 +274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S5f86805c1c7c43e9b0adceabf5afcfc2Q.webp?v=1780995975
     Price: $25.99 USD
 - [Nylon SLR Gel Blaster Toy for Family Fun Safe Eco Friendly Gel Ball Blaster for Outdoor Parent Child Games 30m Range](https://soakops.com/products/nylon-slr-gel-blaster-toy-for-family-fun-safe-eco-friendly-gel-ball-blaster-for-outdoor-parent-child-games-30m-range): SPECIFICATIONSBrand Name: NONECE: CertificateCertification: CEChoice: yesFeatures: Electronic,Diecast,SoundingGender: UnisexHigh-concerned chemical: NoneIs Electric: Lithium batteryMaterial: PlasticModel Number: SLR-White-BlkOrigin: Mainland ChinaPlastic Type: ABSRecommend Age: 6-12Y,14+yStyle: Shoulder styleToy Gun Theme: Military,Electronic gamesType: Toy Rifle GunWarning: Do not aim at eyes or face
-  Updated: 2026-07-11T04:43:16Z
+  Updated: 2026-08-07T04:44:02Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -331,7 +331,7 @@
   Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/H12cbf5acb6cc489586f1f38b607fdadbd.webp?v=1780995977
   Price: $112.28 USD
 - [Summer Outdoor Large Capacity Electric Shooting Water Gun Toy, MK3 Large Fully Automatic Water Gun With Lights Gift](https://soakops.com/products/summer-outdoor-large-capacity-electric-shooting-water-gun-toy-mk3-large-fully-automatic-water-gun-with-lights-gift): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneIs Electric: YesOrigin: Mainland ChinaRecommend Age: 14+yTheme: Fantasy & Sci-FiToy Gun Theme: Cartoon
-  Updated: 2026-07-31T04:51:27Z
+  Updated: 2026-08-07T01:57:37Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -441,7 +441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S2d0f66e7e75e45d2aa5c33d5dbc67153G.webp?v=1780995980
     Price: $29.36 USD
 - [M1911 Water  Pistol Toy Squirt , Summer Pool Beach Shooting Games Outdoor Toys, Water Blaster Pistol for Kids ](https://soakops.com/products/m1911-water--pistol-toy-squirt--summer-pool-beach-shooting-games-outdoor-toys-water-blaster-pistol-for-kids-): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-07-26T04:43:16Z
+  Updated: 2026-08-04T04:48:38Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -473,7 +473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S8028f5f56b484bed92a332e44c20ad9d9.webp?v=1780995980
     Price: $41.87 USD
 - [50-200 Pack Mini Water Gun for Boys and Girls Colorful Water Squirt  Small Toy Gun Plastic Pistol for Beach Water Park](https://soakops.com/products/50-200-pack-mini-water-gun-for-boys-and-girls-colorful-water-squirt--small-toy-gun-plastic-pistol-for-beach-water-park): SPECIFICATIONSBrand Name: NONECertification: CEHigh-concerned chemical: NoneIs Electric: No BatteryOrigin: Mainland ChinaRecommend Age: 14+yToy Gun Theme: Cartoon
-  Updated: 2026-07-31T04:51:33Z
+  Updated: 2026-08-07T04:43:58Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -560,7 +560,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sd4e73245e59e41d8bfd6da064ffa48c9f.webp?v=1780995983
     Price: $19.35 USD
 - [Revolver Electric Automatic Water Gun Backpack Pistol Firing Waters Fight Summer Outdoor Beach Swimming Pool Shooting Game Toys](https://soakops.com/products/revolver-electric-automatic-water-gun-backpack-pistol-firing-waters-fight-summer-outdoor-beach-swimming-pool-shooting-game-toys): SPECIFICATIONSAccessories: Strap X2, hook X4, single outlet connection X1, outlet pipe X1Backpack Size: 22.5*30CMBattery details: Lithium battery (3.7V 14500/500mAh)Brand Name: HUIQIBAO TOYSCertification: 3CCharging time: 110 minutesChoice: yesFiring range: about 6-8 metersHigh-concerned chemical: NoneIs Electric: Lithium batteryModel Number: HUIQIBAO TOYSOrigin: Mainland ChinaPacking: With boxRecommend Age: 6-12YTheme: Fantasy & Sci-Fi,Occupations,SportsWarning: Do not use it against the eyesWater Gun Size: 28.5*4*14.5CM
-  Updated: 2026-07-27T04:45:25Z
+  Updated: 2026-08-01T04:51:04Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -661,7 +661,7 @@
   Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sd71a5d37f52f49acae90c11ea320be26B.webp?v=1780995986
   Price: $104.31 USD
 - [Water Gun For Kids Girl Water Toys OutDoor Garden Game Beach Toy Dropshipping Toy Gun Pistol](https://soakops.com/products/water-gun-for-kids-girl-water-toys-outdoor-garden-game-beach-toy-dropshipping-toy-gun-pistol): SPECIFICATIONSBrand Name: NONECE: CertificateCertification: CEChoice: yesFeatures: MiniGender: UnisexHigh-concerned chemical: NoneIs Electric: No BatteryMaterial: PlasticOrigin: Mainland ChinaPlastic Type: ABSRecommend Age: 3-6Y,6-12Y,14+yStyle: PistolToy Gun Theme: Fantasy,Military,Movie,Electronic gamesType: Toy Pistol Gunsemi_Choice: yes
-  Updated: 2026-07-23T04:37:37Z
+  Updated: 2026-08-07T04:44:03Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -731,7 +731,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sacedb625eea74d3b97dbf3f717254305O.webp?v=1780995988
     Price: $50.78 USD
 - [Funny Double-Sided Reverse Water Gun - Summer Prank Toy,Mini Tactical Water Sprayer for Kids & Adults, Pool Beach Water Fight](https://soakops.com/products/funny-double-sided-reverse-water-gun-summer-prank-toy-mini-tactical-water-sprayer-for-kids-adults-pool-beach-water-fight): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneIs Electric: No BatteryOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-07-31T04:51:27Z
+  Updated: 2026-08-07T04:44:07Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -835,7 +835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Scc678cad67ae4c5dabcec6332a7263bcF.webp?v=1780995990
     Price: $22.30 USD
 - [Water Gun Toys Bursts Children's High-pressure Strong Charging Energy Water Automatic Water Spray Children's Toy ](https://soakops.com/products/water-gun-toys-bursts-childrens-high-pressure-strong-charging-energy-water-automatic-water-spray-childrens-toy-): SPECIFICATIONSBrand Name: GOWKECertification: 3C,CEChoice: yesHigh-concerned chemical: NoneIs Electric: No BatteryOrigin: Mainland ChinaRecommend Age: 12+y,3-6Y,6-12Y,14+y
-  Updated: 2026-07-31T17:51:27Z
+  Updated: 2026-08-07T12:19:37Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -959,7 +959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S46b0ff987c3f4987b331722ae8d66596z.webp?v=1780995994
     Price: $150.77 USD
 - [M416 Gun Toy Outdoor Electric Blaster Shooting Sport Gel Bullet Shoot Summer Water Ball Toys For Interactive Parent Child Game](https://soakops.com/products/m416-gun-toy-outdoor-electric-blaster-shooting-sport-gel-bullet-shoot-summer-water-ball-toys-for-interactive-parent-child-game): SPECIFICATIONSBrand Name: NONEChoice: yesFeatures: Electronic,SoundingGender: UnisexHigh-concerned chemical: NoneIs Electric: Lithium batteryMaterial: PlasticModel Number: M416Origin: Mainland ChinaPlastic Type: ABSRecommend Age: 3-6Y,6-12Y,14+yStyle: PistolToy Gun Theme: CartoonType: Toy Submachine Gun
-  Updated: 2026-07-31T06:38:01Z
+  Updated: 2026-08-07T03:11:56Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1035,7 +1035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Se2edae6fc95249c88a6d75bcb2cf290fC.webp?v=1780995997
     Price: $26.75 USD
 - [NEW Arrival Electric Gel  Blaster,Upgrade high-speed motor,splatter blaster,7.4v lithium battery(without bullet)](https://soakops.com/products/new-arrival-electric-gel-blaster-upgrade-high-speed-motor-splatter-blaster-7-4v-lithium-batterywithout-bullet): SPECIFICATIONSBrand Name: NoEnName_NullHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 6-12Y,14+y
-  Updated: 2026-07-29T19:13:37Z
+  Updated: 2026-08-07T17:12:37Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1049,7 +1049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sbde8cf3ce3e940a7b179ca57ab4a2dfcQ.webp?v=1780995999
     Price: $45.41 USD
 - [Firefighter Toy Fire Backpack Water Gun Large Capacity Water Gun Fireman Role Play Pool Toys Fire Extinguisher Watergun](https://soakops.com/products/firefighter-toy-fire-backpack-water-gun-large-capacity-water-gun-fireman-role-play-pool-toys-fire-extinguisher-watergun): SPECIFICATIONSBrand Name: NONECertification: CEChoice: yesHigh-concerned chemical: NoneIs Electric: No BatteryOrigin: Mainland ChinaRecommend Age: 14+yTheme: Sports
-  Updated: 2026-07-31T04:51:32Z
+  Updated: 2026-08-06T04:45:08Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1086,7 +1086,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S08cc0bcf63064a7cb6e941d6bfa2608cL.webp?v=1780995999
     Price: $14.49 USD
 - [AUG Gel Ball Blaster Set - Rechargeable Outdoor Combat Toy for Teens 14+, Perfect Gift for Boys & Girls (Gel Beads Not Included）](https://soakops.com/products/aug-gel-ball-blaster-set-rechargeable-outdoor-combat-toy-for-teens-14-perfect-gift-for-boys-girls-gel-beads-not-included): SPECIFICATIONSBrand Name: BraoomChoice: yesGender: UnisexHigh-concerned chemical: NoneIs Electric: Lithium batteryMaterial: PlasticOrigin: Mainland ChinaRecommend Age: 14+yType: Toy Rifle Gun
-  Updated: 2026-07-29T02:56:32Z
+  Updated: 2026-08-02T09:21:07Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1126,7 +1126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S0e6571f6ae8145f783aec3235f6c0013K.webp?v=1780996004
     Price: $41.40 USD
 - [M416 Electric Ball Blaster Toy Gun - High-Speed, Metallic Finish, Rechargeable - Outdoor Game Party Gift(Bullets Excluded)](https://soakops.com/products/m416-electric-ball-blaster-toy-gun-high-speed-metallic-finish-rechargeable-outdoor-game-party-giftbullets-excluded): SPECIFICATIONSBrand Name: unilaboChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-07-30T16:49:34Z
+  Updated: 2026-08-07T12:12:48Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1152,14 +1152,14 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sb6aca8db3deb41b0beca70eeccf06e16g.webp?v=1780996005
     Price: $46.94 USD
 - [Children's M416 Soft Cartridge Gun with Handheld Shell Electric Continuously Firing Submachine Model Toy](https://soakops.com/products/childrens-m416-soft-cartridge-gun-with-handheld-shell-electric-continuously-firing-submachine-model-toy): SPECIFICATIONSAge Range: 14 Years & up,8 to 13 YearsGender: BoysMaterial: NylonPlace of Origin: Guangdong, ChinaStyle: Electronic ToyType: Toy Machine Gun
-  Updated: 2026-07-26T04:43:30Z
+  Updated: 2026-08-04T04:48:47Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/H29a8916d56f64317bedb88df387ad47am.webp?v=1780996005
   Price: $27.00 USD
 - [Two-Way Water Gun Prank Water Gun Toy Stress Relief Small Pistol Game Outdoor Indoor  Child Interaction Shoot Gift 2 style](https://soakops.com/products/two-way-water-gun-prank-water-gun-toy-stress-relief-small-pistol-game-outdoor-indoor--child-interaction-shoot-gift-2-style): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneIs Electric: No BatteryOrigin: Mainland ChinaRecommend Age: 3-6Y,6-12Y,14+yTheme: Animals & NatureToy Gun Theme: Cartoon
-  Updated: 2026-07-30T04:45:06Z
+  Updated: 2026-08-03T04:51:07Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1177,7 +1177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sc65ca448e3dc48b8b80c913051c6f1fdG.webp?v=1780996006
     Price: $10.00 USD
 - [M416 Electric Blaster Gun Set, High Precision Shooting Toy, Perfect Outdoor Toy Gift for Birthday (Bullets Excluded)](https://soakops.com/products/m416-electric-blaster-gun-set-high-precision-shooting-toy-perfect-outdoor-toy-gift-for-birthday-bullets-excluded): SPECIFICATIONSBrand Name: unilaboCE: CertificateCertificate Number: EDG2401220084C00501RM1Certification: CEChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 14+yType: Toy Rifle Gun
-  Updated: 2026-07-25T04:27:57Z
+  Updated: 2026-08-01T11:29:23Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1252,7 +1252,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/H536c0d6f4fc9455c9e091be3aed2a765D.webp?v=1780996009
     Price: $36.00 USD
 - [High-Performance Water Gel Ball Blaster,Electric Ball Blaster Toy Gun  - Safe Outdoor Fun for Kids & Adults(Bullets Excluded)](https://soakops.com/products/high-performance-water-gel-ball-blaster-electric-ball-blaster-toy-gun-safe-outdoor-fun-for-kids-adultsbullets-excluded): SPECIFICATIONSBarcode: NoBrand Name: otherCE: CertificateCertification: CEChoice: yesGender: UnisexHigh-concerned chemical: NoneIs Electric: Lithium batteryMaterial: PlasticOrigin: Mainland ChinaPlastic Type: PPRecommend Age: 14+yStyle: Shoulder styleToy Gun Theme: MilitaryType: Toy Rifle Gun
-  Updated: 2026-07-26T14:51:46Z
+  Updated: 2026-08-05T02:20:57Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1270,7 +1270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sfa1ca5881f8040f4bb7622a65501bb7fg.webp?v=1780996010
     Price: $80.66 USD
 - [M416 Electric  Blaster Gun Toys, Rechargeable, Automatic Outdoor Toys for Team Activities, Perfect Gift(Bullets Excluded)](https://soakops.com/products/m416-electric-blaster-gun-toys-rechargeable-automatic-outdoor-toys-for-team-activities-perfect-giftbullets-excluded): SPECIFICATIONSBrand Name: unilaboCertification: CEChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-07-29T05:48:20Z
+  Updated: 2026-08-02T05:55:57Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1312,7 +1312,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sda29b1903b744a90b16cafc53f9a1641e.webp?v=1780996010
     Price: $79.45 USD
 - [Gel Blasters Gun Toys for Adults 500 Rounds Full Auto 7.4V Electric Long Range Outdoor Team Game Battle Blaster For Adults&Teens](https://soakops.com/products/gel-blasters-gun-toys-for-adults-500-rounds-full-auto-7-4v-electric-long-range-outdoor-team-game-battle-blaster-for-adults-teens): SPECIFICATIONSBrand Name: NONEChoice: yesFeatures: Electronic,Diecast,SoundingGender: UnisexHigh-concerned chemical: NoneIs Electric: Lithium batteryMaterial: PlasticModel Number: M416-Purple-101-001Origin: Mainland ChinaPlastic Type: ABSRecommend Age: 6-12Y,14+yToy Gun Theme: Military,Electronic gamesType: Toy Rifle GunWarning: Do not aim at eyes or face
-  Updated: 2026-07-29T05:48:28Z
+  Updated: 2026-08-07T09:09:11Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1334,7 +1334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S821f18329a6a49d78254e83621e93d8cn.webp?v=1780996011
     Price: $99.70 USD
 - [Water Gel Ball Blaster Gun Accessories Splatter Ball Gun Refill Ammo Plastic Hopper Gel Bead Subpackage Bottle for Kids Summer](https://soakops.com/products/water-gel-ball-blaster-gun-accessories-splatter-ball-gun-refill-ammo-plastic-hopper-gel-bead-subpackage-bottle-for-kids-summer): SPECIFICATIONSApplicable People: AdultBrand Name: EliteHMXCare instructions: Hand Wash OnlyChoice: yesDrinkware Type: Water BottlesFeature: Eco-Friendly,StockedHigh-concerned chemical: NoneMaterial: PlasticMaterial types not included: BPAOrigin: Mainland ChinaReusability: Reusablesemi_Choice: yes
-  Updated: 2026-07-31T19:26:51Z
+  Updated: 2026-08-07T05:51:37Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1356,7 +1356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S7ea010d263044d159f0982ecedf1caa6O.webp?v=1780996013
     Price: $23.09 USD
 - [4pcs Water Blaster Water  for Kids Shooter Portable 4 Colors 30ft Range Children Foam Water Gun Summer Swimming Pool Toys](https://soakops.com/products/4pcs-water-blaster-water--for-kids-shooter-portable-4-colors-30ft-range-children-foam-water-gun-summer-swimming-pool-toys): SPECIFICATIONS3C: TypeBarcode: NoBrand Name: NONECertification: 3CChoice: yesGender: UnisexHigh-concerned chemical: NoneIs Electric: No BatteryMaterial: PlasticOrigin: Mainland ChinaPlastic Type: ABSRecommend Age: 3-6Y,6-12Y,14+yType: Water Gun
-  Updated: 2026-07-31T06:01:49Z
+  Updated: 2026-08-07T05:51:37Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1395,7 +1395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sc2083aa6f54a472ab8482d1d9c3ab5d12.webp?v=1780996014
     Price: $12.00 USD
 - [High-Speed AK Electric Ball Blaster - Fun for Kids and Adults, Rechargeable - Ideal for Outdoor Game Parties（No water bombs）](https://soakops.com/products/high-speed-ak-electric-ball-blaster-fun-for-kids-and-adults-rechargeable-ideal-for-outdoor-game-parties-no-water-bombs): SPECIFICATIONSBrand Name: YuizukeotCE: CertificateCertificate Number: U01808220328148-3ECertification: CEChoice: yesGender: UnisexHigh-concerned chemical: NoneIs Electric: Lithium batteryMaterial: PlasticModel Number: AK47Origin: Mainland ChinaPlastic Type: ABSRecommend Age: 14+yType: Toy Rifle Gun
-  Updated: 2026-07-08T08:33:51Z
+  Updated: 2026-08-04T06:00:12Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1439,7 +1439,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S4cb9777edb2a45009a4fdb23d8f397e98.webp?v=1780996016
     Price: $281.54 USD
 - [15L Large Capacity Backpack Water Gun Toy High Pressure Long Range Water Blaster for Outdoor Summer Water Fights  Kids Use](https://soakops.com/products/15l-large-capacity-backpack-water-gun-toy-high-pressure-long-range-water-blaster-for-outdoor-summer-water-fights--kids-use): SPECIFICATIONSBrand Name: NONECertification: CEChoice: yesHigh-concerned chemical: NoneIs Electric: No BatteryModel Number: CP078Origin: Mainland ChinaRecommend Age: 14+yTheme: Occupations,SportsToy Gun Theme: Cartoon,MilitaryWarning: Do not aim at the eyes
-  Updated: 2026-07-23T05:42:51Z
+  Updated: 2026-08-01T06:03:47Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1467,7 +1467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S534d80245c724c43aa0beba0cc83ddcdJ.webp?v=1780996019
   Price: $14.83 USD
 - [Electric M416 Toy Gun Automatic Gel Bullet Blaster Children Toys Outdoor Game AirSoft Sniper Rifle Splatter Gun  For Boy](https://soakops.com/products/electric-m416-toy-gun-automatic-gel-bullet-blaster-children-toys-outdoor-game-airsoft-sniper-rifle-splatter-gun--for-boy): SPECIFICATIONSBrand Name: EVYVKVChoice: yesHigh-concerned chemical: NoneIs Electric: No BatteryOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-07-23T05:43:01Z
+  Updated: 2026-08-07T05:51:42Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1503,7 +1503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S323357f5bc894410bb9451cbf038b554S.webp?v=1780996023
     Price: $40.75 USD
 - [Strongest Electric Gatling Water Gun Toy Rotating Double Barrel With Big Capacity Backpack Outdoor Pool Toy for Kids  Gifts](https://soakops.com/products/strongest-electric-gatling-water-gun-toy-rotating-double-barrel-with-big-capacity-backpack-outdoor-pool-toy-for-kids--gifts): SPECIFICATIONSBrand Name: NONECertification: 3C,CEChoice: yesFeature: Birthday gift, Christmas gift, Easter giftFeature1: Rotating dual tube with light, continuous shootingHigh-concerned chemical: NoneIs Electric: Lithium batteryModel Number: 005Origin: Mainland ChinaRecommend Age: 14+yTheme: Occupations,SportsToy Gun Theme: Cartoon,Military
-  Updated: 2026-07-29T17:59:08Z
+  Updated: 2026-08-07T05:32:37Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1654,7 +1654,7 @@
   Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S41d01cfb6dd74b0685a824936fc0a687q.webp?v=1780996029
   Price: $24.82 USD
 - [Adults Electric Water Gun Kids Gatling High Speed Powerful Shooting Children Automatic Water Blaster Backpack Summer Outdoor Toy](https://soakops.com/products/adults-electric-water-gun-kids-gatling-high-speed-powerful-shooting-children-automatic-water-blaster-backpack-summer-outdoor-toy): SPECIFICATIONSBattery: 7.4V Li-ion Battery (included)Brand Name: NONECertification: CEChoice: yesFunction: Electric Gatling Water GunHigh-concerned chemical: NoneIs Electric: Lithium batteryModel Number: CY150Origin: Mainland ChinaRange Distance: 8-10 MetersRecommend Age: 14+yStyle: Electronic ToyTheme: SportsToy Gun Theme: Cartoon,MilitaryType: WATER GUNWarning: No
-  Updated: 2026-07-31T06:01:57Z
+  Updated: 2026-08-04T06:00:15Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1772,7 +1772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S3d233ef4cac74541bf48f8b0b04f32ccW.webp?v=1780996032
     Price: $39.47 USD
 - [Kids Outdoor Toy Electric Blaster Gun Shooting Bullet Pistols Summer Play Water Shooting Interactive Party Game Children ](https://soakops.com/products/kids-outdoor-toy-electric-blaster-gun-shooting-bullet-pistols-summer-play-water-shooting-interactive-party-game-children-): SPECIFICATIONSBrand Name: NONEChoice: yesFeatures: Electronic,SoundingGender: UnisexHigh-concerned chemical: NoneIs Electric: Lithium batteryMaterial: PlasticOrigin: Mainland ChinaRecommend Age: 3-6Y,6-12Y,14+yStyle: PistolToy Gun Theme: CartoonType: Toy Pistol Gun
-  Updated: 2026-07-30T04:23:26Z
+  Updated: 2026-08-07T05:51:57Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1832,7 +1832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S437d660bc42c48c5ab035b47f1d87572N.webp?v=1780996035
     Price: $32.67 USD
 - [High-Speed Gatling Electric Ball Blaster - Fun for Kids and Adults, Outdoor Game Parties （Excluding water bombs)](https://soakops.com/products/high-speed-gatling-electric-ball-blaster-fun-for-kids-and-adults-outdoor-game-parties-excluding-water-bombs): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 12+y,14+ysemi_Choice: yes
-  Updated: 2026-07-24T05:47:31Z
+  Updated: 2026-08-03T06:02:46Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1864,7 +1864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Se7467ae9f28c4d3bafc92dede1999e61E.webp?v=1780996041
     Price: $25.40 USD
 - [Children Backpack water gun Toys Summer Outdoor Beach Pool Garden Fight Games Kids Water fight Watergun outing toy Gifts](https://soakops.com/products/children-backpack-water-gun-toys-summer-outdoor-beach-pool-garden-fight-games-kids-water-fight-watergun-outing-toy-gifts): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneIs Electric: No BatteryModel Number: 26001Origin: Mainland ChinaRecommend Age: 14+yTheme: SportsToy Gun Theme: Cartoon
-  Updated: 2026-07-30T21:42:37Z
+  Updated: 2026-08-03T06:02:47Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -1993,7 +1993,7 @@
   Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sfc26b77c2d3d44769a036c8fc208135bp.webp?v=1780997091
   Price: $25.79 USD
 - [Electric Water  For Adults Powerful Squirt Automatic Water Suction Water Blasters Summer Outdoor Beach Toy For boys Kid Gift](https://soakops.com/products/electric-water--for-adults-powerful-squirt-automatic-water-suction-water-blasters-summer-outdoor-beach-toy-for-boys-kid-gift-1): SPECIFICATIONSBrand Name: NONECertification: CEChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryModel Number: ZNMSQOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-07-31T19:05:06Z
+  Updated: 2026-08-05T00:15:37Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -2176,7 +2176,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S0c6c16b1bc0a4fbdbcf0569c8a6b3ff4S.webp?v=1780997094
     Price: $92.45 USD
 - [High-Speed Gatling Electric Ball Blaster - Fun for Kids and Adults, Rechargeable- Ideal for Outdoor Game Parties（No water bombs）](https://soakops.com/products/high-speed-gatling-electric-ball-blaster-fun-for-kids-and-adults-rechargeable-ideal-for-outdoor-game-parties-no-water-bombs): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 14+yTheme: Fantasy & Sci-Fi,MusicToy Gun Theme: Cartoonsemi_Choice: yes
-  Updated: 2026-07-29T05:48:32Z
+  Updated: 2026-08-06T05:54:21Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -2250,7 +2250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S41fd16ef3d5e46328f26b9f89c414ba6n.webp?v=1780997096
     Price: $14.00 USD
 - [Electric Water Gun Toy Kids Water Squirt Gun with Lights and Sound Automatic Continuous Firing Watergun Beach Pool Outdoor Toy](https://soakops.com/products/electric-water-gun-toy-kids-water-squirt-gun-with-lights-and-sound-automatic-continuous-firing-watergun-beach-pool-outdoor-toy): SPECIFICATIONSBrand Name: NONECertification: CEChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-07-31T06:02:06Z
+  Updated: 2026-08-06T13:52:37Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -2335,7 +2335,7 @@
   Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S4dfcabb92f544df2850b70b1143a957bT.webp?v=1780997097
   Price: $26.00 USD
 - [Automatic Summer Electric Toy Water Gun Large-capacity Water Gun Beach Outdoor Water Fight Swimming Pool Toys Gifts](https://soakops.com/products/automatic-summer-electric-toy-water-gun-large-capacity-water-gun-beach-outdoor-water-fight-swimming-pool-toys-gifts): SPECIFICATIONSBrand Name: NONECertification: CEChoice: yesHigh-concerned chemical: NoneIs Electric: Nickel BatteryModel Number: TD1292Origin: Mainland ChinaRecommend Age: 14+yTheme: Fantasy & Sci-Fi,SportsWarning: no
-  Updated: 2026-07-31T05:02:08Z
+  Updated: 2026-08-07T09:13:15Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -2393,7 +2393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/S34430e0a17f14b38a89769c5e6c58b16e.webp?v=1780997099
     Price: $72.90 USD
 - [Flame Effect Electric Water  For Powerful Squirt Automatic Water Suction Water Blasters Summer Outdoor Beach Toy For Gift](https://soakops.com/products/flame-effect-electric-water--for-powerful-squirt-automatic-water-suction-water-blasters-summer-outdoor-beach-toy-for-gift): SPECIFICATIONSBrand Name: NONEChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryOrigin: Mainland ChinaRecommend Age: 14+y
-  Updated: 2026-07-29T05:48:42Z
+  Updated: 2026-08-07T05:52:05Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -2531,7 +2531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/0457/8991/files/Sbb59a760717b495f9a34a8697152f453m.webp?v=1780997102
     Price: $28.49 USD
 - [Electric Water Gun Automatic Water Blaster with LED Lights High Pressure Long Range Summer Beach Pool Outdoor Toy for Kids ](https://soakops.com/products/electric-water-gun-automatic-water-blaster-with-led-lights-high-pressure-long-range-summer-beach-pool-outdoor-toy-for-kids-): SPECIFICATIONSBrand Name: YUNBEIDICategory: Electric water gunCertification: CEChoice: yesHigh-concerned chemical: NoneIs Electric: Lithium batteryModel Number: CY133/CY135Origin: Mainland ChinaRecommend Age: 14+ySpecifications: Large capacity of energy gathering ringTheme: Fantasy & Sci-Fi,Sports,MusicToy Gun Theme: MilitaryWarning: WARNING: Not for adults only. Keep away from eyes and face.Water toys category: Water gunability development: Sensory, hand-eye coordination, interactive toysfunction: Electric, Water Jet, Water Jet,Electric water spray, electric burst, automatic reloadingmaterial: Plastic/Plasticname: Spitfire Space Water Gunsemi_Choice: yes
-  Updated: 2026-07-18T05:40:49Z
+  Updated: 2026-08-07T16:07:57Z
   Vendor: SoakOps
   Product Type: 
   Availability: Available
@@ -2572,8 +2572,8 @@
   Updated: 2026-06-09T09:06:08Z
   Total Products: 1
 - [All Products (ChatGPT-AI Product Description)](https://soakops.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-07-24T11:22:53Z
-  Total Products: 180
+  Updated: 2026-08-07T21:25:09Z
+  Total Products: 190
 
 ## Store Pages
 
