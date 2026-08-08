@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-20T04:18:55Z
 - Contact Email: gfeed.app@gmail.com
-- Updated At: 2026-07-30T00:00:37.802Z
+- Updated At: 2026-08-08T00:00:43.895Z
 
 ## Products
 
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0981/0372/2347/files/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1776658766
   Price: $749.95 USD
 - [The Collection Snowboard: Liquid Dup2](https://go-pro-01-1rbghkq1.myshopify.com/products/the-collection-snowboard-liquid-dup): The Collection Snowboard: Liquid Dup2
-  Updated: 2026-07-24T08:09:36Z
+  Updated: 2026-07-30T04:23:22Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
