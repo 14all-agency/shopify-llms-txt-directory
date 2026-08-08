@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-21T05:22:02Z
 - Contact Email: ascorenutra@gmail.com
-- Updated At: 2026-07-31T00:00:34.337Z
+- Updated At: 2026-08-08T00:00:36.333Z
 
 ## Products
 
@@ -125,6 +125,9 @@
     Author: Manan Mehta
   - [How to Reduce Chronic Inflammation Naturally: 8 Evidence-Backed Strategies](https://allovedaai.com/blogs/alloveda-ai/how-to-reduce-chronic-inflammation-naturally): How to Reduce Chronic Inflammation Naturally: 8 Evidence-Backed Strategies
     Updated: 2026-07-27T12:47:49Z
+    Author: Manan Mehta
+  - [Best Anti-Inflammatory Supplements & Herbs (Evidence-Based)](https://allovedaai.com/blogs/alloveda-ai/best-anti-inflammatory-supplements-and-herbs-backed-by-real-research): Best Anti-Inflammatory Supplements & Herbs (Evidence-Based)
+    Updated: 2026-08-07T12:10:49Z
     Author: Manan Mehta
 
 ## Store Pages
