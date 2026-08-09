@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-02T05:40:43Z
 - Contact Email: kavya.aaradhya@gmail.com
-- Updated At: 2026-08-01T03:42:11.044Z
+- Updated At: 2026-08-09T00:00:32.520Z
 
 ## Products
 
 - [Black and White Pure Cotton Poplin Ambika Dress for Women](https://singaarabykavya.com/products/black-white-pure-cotton-poplin-ambika-dress): Shop Black and White Pure Cotton Poplin Ambika Dress for Women for breathable comfort, timeless style & handcrafted elegance. Order today!
-  Updated: 2026-08-01T03:04:54Z
+  Updated: 2026-08-08T07:26:42Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Not Available
     Price: ₹3,200.00 INR
 - [Black Cotton Poplin Poorna Midi Dress For Women](https://singaarabykavya.com/products/black-cotton-poplin-poorna-midi-dress): Shop Black Cotton Poplin Poorna Midi Dress For Women featuring breathable poplin fabric, elegant comfort & timeless style. Order today now!
-  Updated: 2026-08-01T03:04:55Z
+  Updated: 2026-08-08T07:38:02Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -58,7 +58,7 @@
     Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06643.jpg?v=1770633298
     Price: ₹2,499.00 INR
 - [Blue Cotton Sharadha Dress For Women](https://singaarabykavya.com/products/blue-cotton-sharadha-dress): Shop Blue Cotton Sharadha Dress For Women crafted from soft cotton for breathable comfort, timeless style & effortless elegance. Buy today!
-  Updated: 2026-08-01T03:04:55Z
+  Updated: 2026-08-08T07:41:36Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -79,7 +79,7 @@
     Availability: Available
     Price: ₹1,900.00 INR
 - [Black and White Cotton Seersucker Neelambari Maxi Dress For Women](https://singaarabykavya.com/products/black-white-cotton-seersucker-neelambari-maxi-dress): Discover Black and White Cotton Seersucker Neelambari Maxi Dress For Women for breathable comfort & timeless elegance. Shop now today!
-  Updated: 2026-08-01T03:04:55Z
+  Updated: 2026-08-08T07:23:02Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -100,7 +100,7 @@
     Availability: Not Available
     Price: ₹2,200.00 INR
 - [Green Cotton Sadhana Midi Dress For Women](https://singaarabykavya.com/products/green-cotton-sadhana-midi-dress): Buy Green Cotton Sadhana Midi Dress For Women crafted for breathable comfort, relaxed elegance & versatile everyday wear. Shop today online!
-  Updated: 2026-08-01T03:04:55Z
+  Updated: 2026-08-08T07:55:37Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -121,7 +121,7 @@
     Availability: Available
     Price: ₹2,100.00 INR
 - [Green Handloom Khadi Cotton Pakshi Midi Dress For Women](https://singaarabykavya.com/products/green-handloom-khadi-cotton-pakshi-midi-dress): Buy Green Handloom Khadi Cotton Pakshi Midi Dress For Women handcrafted from premium Khadi cotton. Shop today for timeless comfort & style!
-  Updated: 2026-08-01T03:04:55Z
+  Updated: 2026-08-08T07:50:46Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -142,7 +142,7 @@
     Availability: Not Available
     Price: ₹3,500.00 INR
 - [Purple Handloom Khadi Cotton Nimbe Dress For Women](https://singaarabykavya.com/products/purple-handloom-khadi-cotton-nimbe-dress): Buy Purple Handloom Khadi Cotton Nimbe Dress for Women crafted with breathable Khadi cotton & artisan detailing. Order yours today online!
-  Updated: 2026-08-01T03:04:55Z
+  Updated: 2026-08-08T09:14:18Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@
     Availability: Not Available
     Price: ₹3,500.00 INR
 - [Black Cotton Mul Kasthuri Jamdani Dress For Women](https://singaarabykavya.com/products/black-cotton-mul-kasthuri-jamdani-dress): Shop Black Cotton Mul Kasthuri Jamdani Dress For Women handcrafted with breathable cotton mul & authentic Jamdani artistry. Buy today!
-  Updated: 2026-08-01T03:04:56Z
+  Updated: 2026-08-08T07:34:06Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -184,7 +184,7 @@
     Availability: Not Available
     Price: ₹3,900.00 INR
 - [Black Cotton Mul Krishna Jamdani Dress For Women](https://singaarabykavya.com/products/black-cotton-mul-krishna-jamdani-dress): Discover Black Cotton Mul Krishna Jamdani Dress For Women with handcrafted Jamdani weaving, breathable comfort & timeless elegance. Shop now!
-  Updated: 2026-08-01T03:04:56Z
+  Updated: 2026-08-08T07:52:47Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -205,7 +205,7 @@
     Availability: Not Available
     Price: ₹3,900.00 INR
 - [Orange Cotton Seersucker Vandana Midi Dress For Women](https://singaarabykavya.com/products/orange-cotton-seersucker-vandana-midi-dress): Buy Orange Cotton Seersucker Vandana Midi Dress for Women crafted for breathable comfort, classic charm & everyday elegance. Shop now today!
-  Updated: 2026-08-01T03:04:56Z
+  Updated: 2026-08-08T07:59:12Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -231,7 +231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06859.jpg?v=1770637620
     Price: ₹2,200.00 INR
 - [Brick Red Cotton Medha Dress For Women](https://singaarabykavya.com/products/brick-red-cotton-medha-dress): Buy Brick Red Cotton Medha Dress For Women for breathable cotton comfort, relaxed elegance & handcrafted style. Shop your favourite today!
-  Updated: 2026-08-01T03:04:56Z
+  Updated: 2026-08-08T07:47:28Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -257,7 +257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06392.jpg?v=1770634501
     Price: ₹1,900.00 INR
 - [Orange Cotton Padma Midi Dress For Women](https://singaarabykavya.com/products/orange-cotton-padma-midi-dress): Discover Orange Cotton Padma Midi Dress For Women crafted from breathable cotton for effortless elegance. Shop yours before it sells out!
-  Updated: 2026-08-01T03:04:56Z
+  Updated: 2026-08-08T07:57:02Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -278,7 +278,7 @@
     Availability: Available
     Price: ₹2,499.00 INR
 - [Green Cotton Varsha Scallop Skirt For Women](https://singaarabykavya.com/products/green-cotton-varsha-scallop-skirt): Shop Green Cotton Varsha Scallop Skirt For Women with vibrant prints, scalloped detailing, soft cotton comfort & pockets. Order today now!
-  Updated: 2026-08-01T03:04:56Z
+  Updated: 2026-08-07T07:09:37Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -299,7 +299,7 @@
     Availability: Available
     Price: ₹1,900.00 INR
 - [Off White Cotton Kamana Scallop Skirt For Women](https://singaarabykavya.com/products/off-white-cotton-kamana-scallop-skirt): Buy Off White Cotton Kamana Scallop Skirt For Women featuring breathable cotton, elegant scallops & all-day comfort. Shop yours today!
-  Updated: 2026-08-01T03:04:57Z
+  Updated: 2026-08-07T07:10:22Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -320,7 +320,7 @@
     Availability: Available
     Price: ₹1,900.00 INR
 - [Sage Green Cotton Seersucker Midi Length Pacche Skirt For Women](https://singaarabykavya.com/products/sage-green-cotton-seersucker-midi-length-pacche-skirt): Shop Sage Green Cotton Seersucker Midi-Length Pacche Skirt for Women with breathable seersucker cotton for everyday comfort. Order today online!
-  Updated: 2026-08-01T03:04:57Z
+  Updated: 2026-08-07T07:06:17Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -341,7 +341,7 @@
     Availability: Available
     Price: ₹1,700.00 INR
 - [Blue Handwoven Kala Cotton Jala Midi Skirt For Women](https://singaarabykavya.com/products/blue-handwoven-kala-cotton-jala-midi-skirt): Shop Blue Handwoven Kala Cotton Jala Midi Skirt For Women made with sustainable Kala cotton. Order today for timeless handcrafted style!
-  Updated: 2026-08-01T03:04:57Z
+  Updated: 2026-08-07T07:08:02Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -362,7 +362,7 @@
     Availability: Not Available
     Price: ₹2,200.00 INR
 - [Mustard Handwoven Kala Cotton Ganga Midi Skirt For Women](https://singaarabykavya.com/products/mustard-handwoven-kala-cotton-ganga-midi-skirt): Buy Mustard Handwoven Kala Cotton Ganga Midi Skirt for Women for breathable comfort, artisan craftsmanship & effortless everyday style today!
-  Updated: 2026-08-01T03:04:57Z
+  Updated: 2026-08-07T07:07:08Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -383,7 +383,7 @@
     Availability: Available
     Price: ₹2,200.00 INR
 - [Multi Color Handloom Cotton Gowri Halter Top For Women](https://singaarabykavya.com/products/multi-color-handloom-cotton-gowri-halter-top): Discover Multi Color Handloom Cotton Gowri Halter Top For Women with breathable handloom cotton. Shop now for effortless everyday elegance!
-  Updated: 2026-08-01T03:04:57Z
+  Updated: 2026-08-07T07:05:37Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -404,7 +404,7 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [Green Handloom Cotton Girija Halter Top For Women](https://singaarabykavya.com/products/green-handloom-cotton-girija-halter-top): Shop Green Handloom Cotton Girija Halter Top for Women crafted for breathable comfort, versatile styling & handcrafted elegance. Buy now!
-  Updated: 2026-08-01T03:04:58Z
+  Updated: 2026-08-07T07:04:41Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -425,7 +425,7 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [White & Indigo Handloom Kora Cotton Avani Shibori Top For Women](https://singaarabykavya.com/products/white-indigo-handloom-kora-cotton-avani-shibori-top): Buy White & Indigo Handloom Kora Cotton Avani Shibori Top For Women for handcrafted comfort, breathable fabric & timeless style. Shop now!
-  Updated: 2026-08-01T03:04:58Z
+  Updated: 2026-08-07T07:03:42Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -446,7 +446,7 @@
     Availability: Available
     Price: ₹1,800.00 INR
 - [Multicolor Cotton Chowka Scallop Skirt For Women](https://singaarabykavya.com/products/multicolor-cotton-chowka-scallop-skirt): Shop Multicolor Cotton Chowka Scallop Skirt for Women with soft cotton, scalloped detailing & pockets. Order yours before it sells out!
-  Updated: 2026-08-01T03:04:58Z
+  Updated: 2026-08-07T07:08:47Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -467,7 +467,7 @@
     Availability: Not Available
     Price: ₹1,900.00 INR
 - [Black Cotton Linen Mythili Crop Top For Women](https://singaarabykavya.com/products/black-cotton-linen-mythili-crop-top): The crop top is crafted for effortless comfort and easy style. Made from cotton linen fabric, it features a relaxed to semi- fitted silhouette with a high neckline in the front & deeper at the back. The subtle back button detail adds a touch of understated charm. Mythili top is perfect for days when you want to feel light, comfortable, and effortlessly stylish. Pair it with Singaara skirts for a relaxed or casual look.
-  Updated: 2026-08-01T03:04:58Z
+  Updated: 2026-08-07T07:13:32Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -488,7 +488,7 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [Purple Handloom Cotton Jaanki Crop Top For Women](https://singaarabykavya.com/products/purple-handloom-cotton-jaanki-crop-top): Buy Purple Handloom Cotton Jaanki Crop Top For Women crafted from breathable handloom cotton for comfort, style & everyday elegance today!
-  Updated: 2026-08-01T03:04:58Z
+  Updated: 2026-08-07T07:02:03Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -509,7 +509,7 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [Beige Cotton Linen Sita Crop Top For Women](https://singaarabykavya.com/products/beige-cotton-linen-sita-crop-top): Buy Beige Cotton Linen Sita Crop Top For Women crafted from breathable cotton linen for everyday comfort & effortless style. Shop now!
-  Updated: 2026-08-01T03:04:58Z
+  Updated: 2026-08-07T07:00:46Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -530,7 +530,7 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [Brown Cotton Linen Urvi Crop Top For Women](https://singaarabykavya.com/products/brown-cotton-linen-urvi-crop-top): Shop Brown Cotton Linen Urvi Crop Top For Women featuring breathable cotton linen, relaxed comfort & timeless elegance. Order today online!
-  Updated: 2026-08-01T03:04:59Z
+  Updated: 2026-08-07T07:11:16Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -551,7 +551,7 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [Blue Mul Jamdani Navilu Dress For Women](https://singaarabykavya.com/products/blue-mul-jamdani-navilu-dress): Shop Blue Mul Jamdani Navilu Dress For Women crafted with breathable mul cotton & elegant Jamdani artistry. Order yours before it's gone!
-  Updated: 2026-08-01T03:04:59Z
+  Updated: 2026-08-08T07:45:22Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -571,29 +571,29 @@
   - [2XL](https://singaarabykavya.com/products/blue-mul-jamdani-navilu-dress?variant=48154847838429)
     Availability: Not Available
     Price: ₹3,900.00 INR
-- [Black Mul Cotton Neeli Chowka Jamdani Dress For Women](https://singaarabykavya.com/products/black-mul-cotton-neeli-chowka-jamdani-dress): Shop Black Mul Cotton Neeli Chowka Jamdani Dress For Women handcrafted with breathable mul cotton & timeless Jamdani elegance. Buy now!
-  Updated: 2026-08-01T03:04:59Z
+- [Blue Mul Cotton Neeli Chowka Jamdani Dress For Women](https://singaarabykavya.com/products/blue-mul-cotton-neeli-chowka-jamdani-dress): Shop Blue Mul Cotton Neeli Chowka Jamdani Dress For Women handcrafted with breathable mul cotton & timeless Jamdani elegance. Buy now!
+  Updated: 2026-08-08T07:43:29Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DD8135B3-F19F-4E8D-8EF0-4B7228A7E0F7.jpg?v=1783693241
-  - [S](https://singaarabykavya.com/products/black-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997686493)
+  - [S](https://singaarabykavya.com/products/blue-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997686493)
     Availability: Available
     Price: ₹3,900.00 INR
-  - [M](https://singaarabykavya.com/products/black-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997719261)
+  - [M](https://singaarabykavya.com/products/blue-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997719261)
     Availability: Available
     Price: ₹3,900.00 INR
-  - [L](https://singaarabykavya.com/products/black-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997752029)
+  - [L](https://singaarabykavya.com/products/blue-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997752029)
     Availability: Available
     Price: ₹3,900.00 INR
-  - [XL](https://singaarabykavya.com/products/black-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997784797)
+  - [XL](https://singaarabykavya.com/products/blue-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997784797)
     Availability: Available
     Price: ₹3,900.00 INR
-  - [2XL](https://singaarabykavya.com/products/black-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997817565)
+  - [2XL](https://singaarabykavya.com/products/blue-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997817565)
     Availability: Not Available
     Price: ₹3,900.00 INR
 - [White Cotton Mul Jamdani Dhavala Chowka Dress For Women](https://singaarabykavya.com/products/white-cotton-mul-jamdani-dhavala-chowka-dress): Discover White Cotton Mul Jamdani Dhavala Chowka Dress for Women crafted with authentic Jamdani artistry. Shop today for timeless elegance!
-  Updated: 2026-08-01T03:04:59Z
+  Updated: 2026-08-08T09:16:21Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -614,7 +614,7 @@
     Availability: Not Available
     Price: ₹3,900.00 INR
 - [White Cotton Mul Jamdani Shubra Dress For Women](https://singaarabykavya.com/products/white-cotton-mul-jamdani-shubra-dress): Discover White Cotton Mul Jamdani Shubra Dress For Women handcrafted with authentic Jamdani weaving. Order yours before it's gone today!
-  Updated: 2026-08-01T03:04:59Z
+  Updated: 2026-08-08T09:18:36Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -638,7 +638,7 @@
 ## Collections
 
 - [Home page](https://singaarabykavya.com/collections/frontpage)
-  Updated: 2026-08-01T03:04:54Z
+  Updated: 2026-08-04T10:50:12Z
   Total Products: 12
 - [Top Wear](https://singaarabykavya.com/collections/top-wear)
   Updated: 2026-08-01T03:04:54Z
@@ -647,13 +647,13 @@
   Updated: 2026-08-01T03:04:54Z
   Total Products: 6
 - [Dresses](https://singaarabykavya.com/collections/dresses)
-  Updated: 2026-08-01T03:04:54Z
+  Updated: 2026-08-04T10:50:12Z
   Total Products: 16
 - [Featured](https://singaarabykavya.com/collections/featured)
   Updated: 2026-08-01T03:04:54Z
   Total Products: 4
 - [Top ](https://singaarabykavya.com/collections/all)
-  Updated: 2026-08-01T03:04:54Z
+  Updated: 2026-08-04T10:50:12Z
   Total Products: 29
 - [Products ₹2499 & Below](https://singaarabykavya.com/collections/products-2499-below)
   Updated: 2026-08-01T03:04:54Z
