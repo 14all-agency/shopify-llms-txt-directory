@@ -6,15 +6,15 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-27T22:45:08Z
 - Contact Email: support@novaplusstor.com
-- Updated At: 2026-07-23T13:57:24.627Z
+- Updated At: 2026-08-09T00:00:36.726Z
 
 Nova+ est une boutique française spécialisée dans les genouillères et supports de genou pour la récupération, le sport et le quotidien. Site : novaplusstor.com
 
 
 ## Products
 
-- [Genouillère Kuangmi® Nova+ — Maintien réglable pour le genou](https://novaplusstor.com/products/genouillere-kuangmi-nova-plus): Genouillère réglable pour retrouver stabilité et confiance pendant la marche, le sport ou le travail. Peut aider à réduire la gêne au genou au quotidien.
-  Updated: 2026-07-22T15:45:56Z
+- [Genouillère Kuangmi® Nova+ — Soulager la douleur au genou | Maintien réglable](https://novaplusstor.com/products/genouillere-kuangmi-nova-plus): Genouillère réglable et respirante pour soulager la douleur au genou, l'arthrose et la reprise du sport. Tailles M à XL. Livraison rapide.
+  Updated: 2026-08-01T04:30:23Z
   Vendor: Nova+
   Product Type: Genouillère
   Availability: Available
@@ -55,8 +55,8 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
   - [Blanc Droite / XL](https://novaplusstor.com/products/genouillere-kuangmi-nova-plus?variant=58109072212349)
     Availability: Available
     Price: 27,99 € EUR
-- [Sangle Rotulienne Nova+ — Soutien ciblé sous la rotule](https://novaplusstor.com/products/sangle-rotulienne): Sangle rotulienne réglable pour réduire la gêne sous la rotule. Discrète et légère, elle peut accompagner la marche, le sport et les activités quotidiennes.
-  Updated: 2026-07-22T15:45:56Z
+- [Sangle Rotulienne Nova+ — Soulager la tendinite et la douleur sous la rotule](https://novaplusstor.com/products/sangle-rotulienne): Sangle rotulienne réglable en néoprène pour soulager la tendinite rotulienne et le syndrome rotulien. Légère, discrète, efficace.
+  Updated: 2026-07-29T19:19:27Z
   Vendor: Nova+
   Product Type: Sangle rotulienne
   Availability: Available
@@ -68,7 +68,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Available
     Price: 14,99 € EUR
 - [Genouillère Thermique Nova+ — Chaud & Froid pour la récupération du genou](https://novaplusstor.com/products/genouillere-thermique-nova-plus): Genouillère thermique chaud & froid pour accompagner la récupération du genou. Poche gel amovible, compression douce. Peut aider à réduire l'inconfôrt après l'effort.
-  Updated: 2026-07-22T15:45:56Z
+  Updated: 2026-07-29T16:00:45Z
   Vendor: Nova+
   Product Type: Genouillère thermique
   Availability: Available
@@ -82,14 +82,14 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/d33391cd-0a7f-4ea3-8322-10812307d2a2.jpg?v=1780832455
     Price: 25,00 € EUR
 - [Patch Genou Nova+ — Confort articulaire discret au quotidien](https://novaplusstor.com/products/patch-genou-nova-plus): Patch genou discret à appliquer directement sur la zone inconfortable. Peut contribuer au confort articulaire au quotidien. 15 patchs par sachet.
-  Updated: 2026-07-22T15:45:56Z
+  Updated: 2026-07-29T18:56:40Z
   Vendor: Nova+
   Product Type: Patch antidouleur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/rn-image_picker_lib_temp_b3fbe75f-d8b6-4faa-9cc2-4a96efb34bfd.png?v=1780870780
   Price: 14,99 € EUR
-- [Genouillère Sport 3D Nova+ — Maintien renforcé pour le genou](https://novaplusstor.com/products/genouillere-flex-3d-nova-plus): Genouillère sport 3D pour un maintien enveloppant pendant l'effort. Peut aider à stabiliser le genou et réduire la fatigue articulaire. Tailles S à 4XL.
-  Updated: 2026-07-22T15:45:57Z
+- [Genouillère Sport 3D Nova+ — Maintien genou pour course et musculation](https://novaplusstor.com/products/genouillere-flex-3d-nova-plus): Genouillère sport 3D en nylon/lycra pour maintien renforcé du genou. Idéale course, musculation, rééducation. Tailles S à 4XL, 5 coloris.
+  Updated: 2026-07-29T16:00:50Z
   Vendor: Nova+
   Product Type: Genouillère
   Availability: Available
@@ -187,7 +187,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Not Available
     Price: 19,99 € EUR
 - [Manchon de Compression Jambe Nova+ — Soutien cuisse, genou & mollet](https://novaplusstor.com/products/manchon-compression-jambe-nova-plus): Manchon de compression léger pour soutenir cuisse, genou et mollet. Peut aider à réduire la fatigue et la lourdeur dans la jambe pendant et après l'effort.
-  Updated: 2026-07-22T15:45:56Z
+  Updated: 2026-07-29T16:00:58Z
   Vendor: Nova+
   Product Type: Manchon de compression
   Availability: Available
@@ -294,22 +294,25 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
 ## Collections
 
 - [Page d’accueil](https://novaplusstor.com/collections/frontpage)
-  Updated: 2026-07-13T21:58:30Z
+  Updated: 2026-07-31T11:49:22Z
   Total Products: 2
 - [Vivre avec, bouger quand même](https://novaplusstor.com/collections/vivre-avec-bouger-quand-meme): Genouillères et manchons pour continuer à marcher, travailler et bouger malgré la gêne au genou. Solutions NOVA+ adaptées à votre quotidien.
-  Updated: 2026-07-22T21:41:35Z
+  Updated: 2026-07-31T11:49:22Z
   Total Products: 6
 - [Soulager ma douleur](https://novaplusstor.com/collections/soulager-ma-douleur): Genouillères et solutions NOVA+ pour soulager rapidement la douleur au genou : compression, chaleur, maintien ciblé. Retrouvez confort et mobilité au quotidien.
-  Updated: 2026-07-22T21:49:55Z
+  Updated: 2026-07-31T11:49:22Z
   Total Products: 6
 - [Calmer les crises](https://novaplusstor.com/collections/calmer-les-crises): Patch thermique et genouillère chaud/froid pour calmer une crise de douleur au genou. Solutions NOVA+ pour un soulagement rapide et ciblé.
-  Updated: 2026-07-22T18:36:46Z
+  Updated: 2026-07-25T20:05:00Z
   Total Products: 2
 - [Reprendre sans forcer](https://novaplusstor.com/collections/reprendre-sans-forcer): Genouillères et manchons NOVA+ pour reprendre progressivement le sport et la marche après une blessure ou douleur au genou. Bougez à nouveau, sans forcer.
-  Updated: 2026-07-22T21:55:56Z
+  Updated: 2026-07-31T11:49:22Z
   Total Products: 4
 - [Tous nos produits](https://novaplusstor.com/collections/tous-nos-produits): Découvrez toute la gamme NOVA+ : genouillères réglables, thermiques, sport, sangle rotulienne, manchon et patch. Trouvez le produit adapté à votre situation.
-  Updated: 2026-07-22T21:47:40Z
+  Updated: 2026-07-31T11:49:22Z
+  Total Products: 6
+- [Bestsellers Genou Nova+](https://novaplusstor.com/collections/bestsellers-genou): Découvrez nos bestsellers pour le genou : genouillères, sangle rotulienne, patch et manchon de compression. Soulagement rapide et maintien optimal.
+  Updated: 2026-07-31T11:49:22Z
   Total Products: 6
 
 ## Blogs
@@ -410,9 +413,38 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Updated: 2026-07-18T22:10:28Z
     Author: Équipe Nova+
     Tags: articulaires, conseils sport genoux, douleur genoux, douleurs, exercices genoux, genoux, prévenir douleurs articulaires, protection genoux
-  - [10 signes d'alerte pour savoir si la douleur de votre rotule est préoccupante](https://novaplusstor.com/blogs/sante-bien-etre/10-signes-dalerte-pour-savoir-si-la-douleur-de-votre-rotule-est-preoccupante): 10 signes d'alerte pour savoir si la douleur de votre rotule est préoccupante
-    Updated: 2026-07-23T13:37:47Z
+  - [Les douleurs tendineuses des genoux expliquées simplement](https://novaplusstor.com/blogs/sante-bien-etre/les-douleurs-tendineuses-des-genoux-expliquees-simplement): Les douleurs tendineuses des genoux expliquées simplement
+    Updated: 2026-07-24T23:16:35Z
     Author: Équipe Nova+
+    Tags: articulations, causes des douleurs articulaires, douleur genou, douleurs, genoux, soulagement des douleurs aux genoux, symptômes genoux, traitement douleurs articulaires
+  - [Comment favoriser la récupération après une blessure au genou](https://novaplusstor.com/blogs/sante-bien-etre/comment-favoriser-la-recuperation-apres-une-blessure-au-genou): Comment favoriser la récupération après une blessure au genou
+    Updated: 2026-07-24T23:20:48Z
+    Author: Équipe Nova+
+    Tags: articulaire, blessure genou, douleurs, exercices de réhabilitation genoux, genoux, récupération genou, soins après blessure, traitement douleurs articulaires
+  - [Les meilleures genouillères pour le travail et le sport](https://novaplusstor.com/blogs/sante-bien-etre/les-meilleures-genouilleres-pour-le-travail-et-le-sport): Les meilleures genouillères pour le travail et le sport
+    Updated: 2026-07-24T23:20:24Z
+    Author: Équipe Nova+
+  - [10 signes d'alerte pour savoir si la douleur de votre rotule est préoccupante](https://novaplusstor.com/blogs/sante-bien-etre/10-signes-dalerte-pour-savoir-si-la-douleur-de-votre-rotule-est-preoccupante): 10 signes d'alerte pour savoir si la douleur de votre rotule est préoccupante
+    Updated: 2026-07-23T14:33:43Z
+    Author: Équipe Nova+
+    Tags: douleur genou, genouillère, sport
+  - [Symptômes alarmants de l'instabilité du genou à ne pas ignorer](https://novaplusstor.com/blogs/sante-bien-etre/symptomes-alarmants-de-linstabilite-du-genou-a-ne-pas-ignorer): Symptômes alarmants de l'instabilité du genou à ne pas ignorer
+    Updated: 2026-07-24T23:19:39Z
+    Author: Équipe Nova+
+  - [Techniques pour gérer la douleur au genou en sport](https://novaplusstor.com/blogs/sante-bien-etre/techniques-pour-gerer-la-douleur-au-genou-en-sport): Techniques pour gérer la douleur au genou en sport
+    Updated: 2026-07-27T23:05:53Z
+    Author: Équipe Nova+
+    Tags: douleur, exercices récupérations sportives, genou, genouillère, récupération douleur, soulagement douleur genou, sport, techniques gestion genou
+  - [Comparaison des genouillères pour le travail et le sport](https://novaplusstor.com/blogs/sante-bien-etre/comparaison-des-genouilleres-pour-le-travail-et-le-sport): Comparaison des genouillères pour le travail et le sport
+    Updated: 2026-07-30T21:45:00Z
+    Author: Équipe Nova+
+  - [Comment réduire la douleur à la rotule avec des exercices simples](https://novaplusstor.com/blogs/sante-bien-etre/comment-reduire-la-douleur-a-la-rotule-avec-des-exercices-simples): Comment réduire la douleur à la rotule avec des exercices simples
+    Updated: 2026-07-31T23:20:01Z
+    Author: Équipe Nova+
+  - [Genou instable : causes et solutions | Nova+](https://novaplusstor.com/blogs/sante-bien-etre/genou-instable-causes-symptomes-solutions): Genou instable : causes et solutions | Nova+
+    Updated: 2026-08-01T23:24:16Z
+    Author: boubou camara
+    Tags: douleur genou, genou, genouillère, instabilité, récupération
 
 ## Store Pages
 
@@ -438,6 +470,10 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
   Updated: 2026-07-22T22:10:26Z
 - [Quelle genouillère me convient ? — Quiz NOVA+](https://novaplusstor.com/pages/quiz-genouillere): Trouvez votre solution NOVA+ Répondez à quelques questions simples et découvrez le support de genou adapté à votre situation en moins de 2 minutes....
   Updated: 2026-07-22T22:56:04Z
+- [Guide des tailles Genouillère Kuangmi | Nova+](https://novaplusstor.com/pages/guide-des-tailles): Guide des tailles – Genouillère KuangmiComment mesurer pour un ajustement optimalMesurez la circonférence de votre cuisse 15 cm au-dessus de la rot...
+  Updated: 2026-08-01T21:45:07Z
+- [Livraison & Retours | Nova+](https://novaplusstor.com/pages/livraison-et-retours): Livraison & Retours 📦 Livraison Délai de traitement : Les commandes sont traitées sous 1 à 2 jours ouvrables. Délai de livraison : 8 à 12 jours ouv...
+  Updated: 2026-08-01T23:32:48Z
 
 ## Policies
 
