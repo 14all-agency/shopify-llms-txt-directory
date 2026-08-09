@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-01-12T13:16:06Z
 - Contact Email: hello@betalafragrance.com
-- Updated At: 2026-07-25T06:59:25.582Z
+- Updated At: 2026-08-09T00:00:38.684Z
 
 ## Products
 
 - [Betala Fragrance Chandan/Sandal Flavour Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-chandan-sandal-flavour-dhoop-stick): Betala Fragrance is know for the quality of fragrance it provides and in this pack it provides Chandan Flavour dhoop batti Dhoop has always been at first position while offering prayers in pooja Experience the pure tradition at your home with BETALA FRAGARNCE Premium Quality incense Dhoop Sticks.
-  Updated: 2026-07-14T04:03:17Z
+  Updated: 2026-08-07T12:37:46Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -25,35 +25,35 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/Gulab_5b87f7b4-d5fc-4c2b-942f-72fa9f2386c4.jpg?v=1777645150
   Price: ₹249.00 INR
 - [Betala Fragrance | Mogra Flavour Perfumed Dhoop Stick | Order Online](https://www.betalafragrance.com/products/betala-fragrance-mogra-flavour-perfume-dhoop-stick): Betala Fragrance is know for the quality of fragrance it provides and in this pack it provides Mogra Flavour dhoop batti Dhoop has always been at first position while offering prayers in pooja Experience the pure tradition at your home with BETALA FRAGARNCE Premium Quality incense Dhoop Sticks.
-  Updated: 2026-07-22T09:40:06Z
+  Updated: 2026-08-07T12:37:47Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/Mogra_094c3e88-7c3f-445a-81b1-75fe4790c47f.jpg?v=1777646143
   Price: ₹249.00 INR
 - [Chandan/Sandal Incense Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-chandan-sandal-flavour-incense-stick): Betala Fragrance brand is know for the best quality of fragrance it provides shop chandan sandalwood Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-22T12:35:37Z
+  Updated: 2026-07-30T17:18:56Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/CHANDANAG.jpg?v=1777727191
   Price: ₹249.00 INR
 - [Betala Fragrance | Chandan Flavour Sambrani Dhoop Powder | Order Online](https://www.betalafragrance.com/products/betala-fragrance-loban-flavour-sambrani-dhoop-powder-200-gm-pack): About Brand : BETALA FRAGARNCE is known for modernizing the skills of artisans and introducing the traditional and authentic creations to the world About Product : These most amazing Dhoop Powders are made from pure wood powder & natural herbs, they and widely used for spiritual purpose, also for meditation, yoga, ceremony, aesthetic, medicinal and healing purpose Chandan has always been at first position while offering prayers in puja experience the pure tradition at your home with Betala Fragrance Chandan Sambrani dhoop powder Common benefits of our Non Charcoal Dhoop Powder : ✓ Non Charcoal Dhoop is safe for your health ✓ Freshen up mind and body ✓ Lighten up the mood ✓ Relieves stress and anxiety ✓ Improves sleep quality Safer alternative of chemical air fresheners : Made with high quality ingredients Natural flavor dhup powder with pleasant aroma The most amazing popular flavour of all time Sandalwood fragrance Pack 200 gram jar of dhoop powder with long lasting fragrance (10 gm of powder last for approx. 45 minutes) Steel Burner Plate included in the box Unlike stick , incense sticks, dhoop cones, cups and other forms of fragrance diffusers it emits lesser smoke and more fragrance | Buy this authentic Charcoal Free Dhoop Powder for pooja room or gift it to your dear ones to enjoy variety of exotic fragrances |
-  Updated: 2026-05-10T05:34:17Z
+  Updated: 2026-08-05T16:22:38Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/CHANDANPOWDER.jpg?v=1710598219
   Price: ₹199.00 INR
 - [Betala Fragrance | Loban Flavour Sambrani Dhoop Powder, 200 Gm Pack](https://www.betalafragrance.com/products/betala-fragrance-loban-flavour-sambrani-dhoop-powder-200-gm-pack-1): About Brand : BETALA FRAGARNCE is known for modernizing the skills of artisans and introducing the traditional and authentic creations to the world About Product : These most amazing Dhoop Powders are made from pure wood powder & natural herbs, they and widely used for spiritual purpose, also for meditation, yoga, ceremony, aesthetic, medicinal and healing purpose Loban has always been at first position while offering prayers in puja experience the pure tradition at your home with Betala Fragrance Chandan Sambrani dhoop powder Common benefits of our Non Charcoal Dhoop Powder : ✓ Non Charcoal Dhoop is safe for your health ✓ Freshen up mind and body ✓ Lighten up the mood ✓ Relieves stress and anxiety ✓ Improves sleep quality Safer alternative of chemical air fresheners : Made with high quality ingredients Natural flavor dhup powder with pleasant aroma The most amazing popular flavour of all time Loban fragrance Pack 200 gram jar of dhoop powder with long lasting fragrance (10 gm of powder last for approx. 45 minutes) Steel Burner Plate included in the box Unlike stick , incense sticks, dhoop cones, cups and other forms of fragrance diffusers it emits lesser smoke and more fragrance | Buy this authentic Charcoal Free Dhoop Powder for pooja room or gift it to your dear ones to enjoy variety of exotic fragrances |
-  Updated: 2026-05-10T05:34:17Z
+  Updated: 2026-08-06T08:02:34Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/LOBANPOWDER.jpg?v=1710598684
   Price: ₹199.00 INR
 - [Betala Fragrance | Guggal Flavour Sambrani Dhoop Powder, 250 Gm Pack](https://www.betalafragrance.com/products/betala-fragrance-guggal-flavour-sambrani-dhoop-powder-200-gm-pack): About Brand : BETALA FRAGARNCE is known for modernizing the skills of artisans and introducing the traditional and authentic creations to the world About Product : These most amazing Dhoop Powders are made from pure wood powder & natural herbs, they and widely used for spiritual purpose, also for meditation, yoga, ceremony, aesthetic, medicinal and healing purpose Guggal has always been at first position while offering prayers in puja experience the pure tradition at your home with Betala Fragrance Chandan Sambrani dhoop powder Common benefits of our Non Charcoal Dhoop Powder : ✓ Non Charcoal Dhoop is safe for your health ✓ Freshen up mind and body ✓ Lighten up the mood ✓ Relieves stress and anxiety ✓ Improves sleep quality Safer alternative of chemical air fresheners : Made with high quality ingredients Natural flavor dhup powder with pleasant aroma The most amazing popular flavour of all time Guggal fragrance Pack 200 gram jar of dhoop powder with long lasting fragrance (10 gm of powder last for approx. 45 minutes) Steel Burner Plate included in the box Unlike stick , incense sticks, dhoop cones, cups and other forms of fragrance diffusers it emits lesser smoke and more fragrance | Buy this authentic Charcoal Free Dhoop Powder for pooja room or gift it to your dear ones to enjoy variety of exotic fragrances |
-  Updated: 2026-05-02T13:03:18Z
+  Updated: 2026-08-07T12:37:47Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Powder
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/Musk_10116e0b-00e9-4bf3-b3ee-f09344990299.jpg?v=1777646481
   Price: ₹249.00 INR
 - [Betala Fragrance Oudh Agarwood Flavour Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-non-charcoal-oudh-flavour-dhoop-stick): Betala Fragrance brand is know for the best quality of fragrance it provides shop oud agarwood Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-21T18:43:38Z
+  Updated: 2026-08-07T12:37:46Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/AttarPhool.jpg?v=1777642181
   Price: ₹249.00 INR
 - [Betala Fragrance Jasmine Flavour Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-non-charcoal-jasmine-flavour-dhoop-stick): Betala Fragrance brand is know for the best quality of fragrance it provides shop Jasmine Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-20T18:07:06Z
+  Updated: 2026-08-07T07:38:06Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/Loban_fbdf669d-100e-4377-ac52-6bc1edcc71ae.jpg?v=1777645907
   Price: ₹249.00 INR
 - [Betala Fragrance Pachouli Flavour Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-non-charcoal-pachauli-flavour-dhoop-stick): Betala Fragrance brand is know for the best quality of fragrance it provides shop Pachauli Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-08T16:56:42Z
+  Updated: 2026-07-30T03:18:26Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/GULABAG.jpg?v=1779023473
   Price: ₹249.00 INR
 - [Betala Fragrance Non-Charcoal Oudh Flavour Incense Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-non-charcoal-oudh-agarwood-flavour-incense-stick-perfumed-agarbatti): Betala Fragrance brand is know for the best quality of fragrance it provides shop oudh agarwood Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-08T14:51:18Z
+  Updated: 2026-07-28T03:24:17Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
@@ -186,21 +186,21 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/MUSKAG.jpg?v=1779024593
   Price: ₹249.00 INR
 - [Betala Fragrance Non-Charcoal Saffron Flavour Incense Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-non-charcoal-saffron-kesar-flavour-incense-stick-perfumed-agarbatti): Betala Fragrance brand is know for the best quality of fragrance it provides shop kesar Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-08T14:59:30Z
+  Updated: 2026-07-28T03:24:17Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/SAFFRONAG.jpg?v=1779024044
   Price: ₹249.00 INR
 - [Betala Fragrance Metalic Aqua Flavour Incense Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-metalic-aqua-flavour-incense-stick-perfumed-agarbatti): Betala Fragrance brand is know for the best quality of fragrance it provides shop ice cool Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-22T20:30:16Z
+  Updated: 2026-08-08T10:23:16Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/AQUAAG.jpg?v=1777726832
   Price: ₹260.00 INR
 - [Betala Fragrance Metalic Sandal Gold Flavour Incense Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-metalic-sandal-gold-flavour-incense-stick-perfumed-agarbatti): Betala Fragrance brand is know for the best quality of fragrance it provides shop swarn chandan Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-21T06:23:47Z
+  Updated: 2026-08-07T07:04:11Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/JASMINEAG.jpg?v=1779023689
   Price: ₹249.00 INR
 - [Betala Fragrance Non-Charcoal Lavender Flavour Incense Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-non-charcoal-lavender-flavour-incense-stick-perfumed-agarbatti): Betala Fragrance brand is know for the best quality of fragrance it provides shop lavender Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-09T12:38:32Z
+  Updated: 2026-07-28T03:24:17Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
@@ -277,7 +277,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/Saffroncone.jpg?v=1710576089
   Price: ₹249.00 INR
 - [Betala Fragrance Chandan Flavour Dhoop Cones | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/chandan-sandalwood-flavour-perfumed-dhoop-cones): Betala Fragrance brand is know for the best quality of fragrance it provides shop sandalwood Flavour dhoop cones, company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop stick, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-20T10:33:36Z
+  Updated: 2026-08-02T02:56:36Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Cones
   Availability: Available
@@ -354,14 +354,14 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/ROSEBACKFLOW.jpg?v=1733842919
   Price: ₹249.00 INR
 - [Betala Fragrance Chandan, Gulab, Lavender & Oud Dhoop Stick  Bundle (100 g X 4 Pack)](https://www.betalafragrance.com/products/betala-fragrance-dhoop-stick-combo-chandan-gulab-lavender): ✅ Premium 4-in-1 Dhoop Stick BundleExperience four rich and soothing fragrances in one pack – Chandan, Gulab, Lavender & Oud. Perfect for daily pooja, meditation, relaxation, and creating a pleasant fragrance in your home. ✅ Pack DetailsThis bundle includes 4 packs of 100 g each. Each 100 g pack contains approximately 30–35 dhoop sticks, giving you a total of around 120–140 sticks. ✅ 4-Inch Dhoop SticksEach dhoop stick is 4 inches long and offers a burning time of approximately 35–40 minutes, making it suitable for daily use. ✅ Charcoal-Free & Bamboo-FreeMade using high-quality charcoal-free wood powder blend and dipped in aromatic perfumes for a rich, long-lasting fragrance experience. ✅ Ideal For Everyday UseBest suited for pooja rooms, home fragrance, meditation, yoga, festive occasions, and spiritual ambience.
-  Updated: 2026-07-25T05:05:47Z
+  Updated: 2026-08-08T08:35:16Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/CGLODSCOMBO.jpg?v=1778597734
   Price: ₹450.00 INR
 - [Betala Fragrance | Lavender Flavour Sambrani Dhoop Powder, 200 Gm Pack](https://www.betalafragrance.com/products/lavender-flavour-sambrani-dhoop-powder-200-gm-pack): About Brand : BETALA FRAGARNCE is known for modernizing the skills of artisans and introducing the traditional and authentic creations to the world About Product : These most amazing Dhoop Powders are made from pure wood powder & natural herbs, they and widely used for spiritual purpose, also for meditation, yoga, ceremony, aesthetic, medicinal and healing purpose Lavender has always been at first position while offering prayers in puja experience the pure tradition at your home with Betala Fragrance Chandan Sambrani dhoop powder Common benefits of our Non Charcoal Dhoop Powder : ✓ Non Charcoal Dhoop is safe for your health ✓ Freshen up mind and body ✓ Lighten up the mood ✓ Relieves stress and anxiety ✓ Improves sleep quality Safer alternative of chemical air fresheners : Made with high quality ingredients Natural flavor dhup powder with pleasant aroma The most amazing popular flavour of all time Guggal fragrance Pack 200 gram jar of dhoop powder with long lasting fragrance (10 gm of powder last for approx. 45 minutes) Steel Burner Plate included in the box Unlike stick , incense sticks, dhoop cones, cups and other forms of fragrance diffusers it emits lesser smoke and more fragrance | Buy this authentic Charcoal Free Dhoop Powder for pooja room or gift it to your dear ones to enjoy variety of exotic fragrances |
-  Updated: 2026-05-02T15:05:13Z
+  Updated: 2026-07-30T05:24:09Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Powder
   Availability: Available
@@ -410,14 +410,14 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/PaanSudha_87de8f18-e504-41c9-acdf-b55e96723fee.jpg?v=1777647687
   Price: ₹249.00 INR
 - [Betala Fragrance Attar Oud Flavour Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/attar-oud-flavour-perfumed-dhoop-stick): Betala Fragrance brand is know for the best quality of fragrance it provides shop Attar Oud Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-08T16:56:41Z
+  Updated: 2026-08-07T12:37:47Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/AttarOud_df461b48-9b86-4cec-a968-a9aa7ff0fdbb.jpg?v=1777641934
   Price: ₹249.00 INR
 - [Betala Fragrance Kasturi Flavour Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/kasturi-flavour-perfumed-dhoop-stick): Betala Fragrance brand is know for the best quality of fragrance it provides shop kasturi Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-21T05:48:56Z
+  Updated: 2026-08-07T12:37:47Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -592,7 +592,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/Rajwadi_58f5a2c2-a37e-488c-ac59-c3d656cdc103.jpg?v=1777641509
   Price: ₹249.00 INR
 - [Betala Fragrance Non-Charcoal Attar Oudh Flavour Incense Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/attar-oudh-flavour-incense-stick-perfumed-agarbatti): Betala Fragrance brand is know for the best quality of fragrance it provides shop oudh agarwood Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-06-13T05:24:27Z
+  Updated: 2026-08-06T14:28:51Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
@@ -627,7 +627,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/FIRDOUSAG_79254ebf-5b02-470a-a3cf-fea0311bdbc2.jpg?v=1777712542
   Price: ₹249.00 INR
 - [Betala Fragrance Non-Charcoal Kasturi Flavour Incense Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/kasturi-flavour-incense-stick-perfumed-agarbatti): Betala Fragrance brand is know for the best quality of fragrance it provides shop oudh agarwood Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-20T10:33:36Z
+  Updated: 2026-07-28T03:24:08Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
@@ -683,7 +683,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/WHITEMUSKAG.jpg?v=1777566126
   Price: ₹249.00 INR
 - [Betala Fragrance | Chandan Lavender Gulab Oudh Combo Agarbatti Stick](https://www.betalafragrance.com/products/betala-fragrance-agarbatti--bundle-chandan-gulab-lavender-oudh): Shop our Perfumed Incense Non-Charcoal Agarbatti, containing 4 delightful flavors of 100 Gm each - Chandan, Gulab, Lavender, Oudh. Each pack holds around 60 sticks, 9-inch long, with a burning time of 40 minutes per stick. Discover a fragrant journey with our premium agarbatti sticks. Buy Betala Fragrance Online
-  Updated: 2026-07-21T13:23:27Z
+  Updated: 2026-08-07T08:26:13Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
@@ -697,14 +697,14 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/KESARCHANDANAG.jpg?v=1777565944
   Price: ₹249.00 INR
 - [Betala Fragrance Kesar Chandan Flavour Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/kesar-chandan-flavour-perfumed-dhoop-stick): Betala Fragrance brand is know for the best quality of fragrance it provides shop Kesar Chandan Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-06-02T14:17:21Z
+  Updated: 2026-08-02T08:22:17Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/KesarChandan_297c3011-ec8a-473f-972e-ce789f5a8cee.jpg?v=1777565628
   Price: ₹249.00 INR
 - [Betala Fragrance | Oudh/Agarwood Flavour Sambrani Dhoop Powder, 200 Gm Pack](https://www.betalafragrance.com/products/oud-flavour-sambrani-dhoop-powder-200-gm-pack): About Brand : BETALA FRAGARNCE is known for modernizing the skills of artisans and introducing the traditional and authentic creations to the world About Product : These most amazing Dhoop Powders are made from pure wood powder & natural herbs, they and widely used for spiritual purpose, also for meditation, yoga, ceremony, aesthetic, medicinal and healing purpose Guggal has always been at first position while offering prayers in puja experience the pure tradition at your home with Betala Fragrance Chandan Sambrani dhoop powder Common benefits of our Non Charcoal Dhoop Powder : ✓ Non Charcoal Dhoop is safe for your health ✓ Freshen up mind and body ✓ Lighten up the mood ✓ Relieves stress and anxiety ✓ Improves sleep quality Safer alternative of chemical air fresheners : Made with high quality ingredients Natural flavor dhup powder with pleasant aroma The most amazing popular flavour of all time Oudh/Agarwood fragrance Pack 200 gram jar of dhoop powder with long lasting fragrance (10 gm of powder last for approx. 45 minutes) Steel Burner Plate included in the box Unlike stick , incense sticks, dhoop cones, cups and other forms of fragrance diffusers it emits lesser smoke and more fragrance | Buy this authentic Charcoal Free Dhoop Powder for pooja room or gift it to your dear ones to enjoy variety of exotic fragrances |
-  Updated: 2026-05-18T17:04:16Z
+  Updated: 2026-08-07T12:37:47Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Powder
   Availability: Available
@@ -718,7 +718,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/SAFFRONPOWDER.jpg?v=1710599274
   Price: ₹199.00 INR
 - [Betala Fragrance | Musk Patchouli Saffron Oudh Combo Agarbatti Stick](https://www.betalafragrance.com/products/copy-of-betala-fragrance-agarbatti--bundle-musk-oud-patchouli-saffron-100-g-x-4-pack): Shop our Perfumed Incense Non-Charcoal Agarbatti, containing 4 delightful flavors of 100 Gm each - Musk, Patchouli, Saffron & Oudh. Each pack holds around 60 sticks, 9-inch long, with a burning time of 40 minutes per stick. Discover a fragrant journey with our premium agarbatti sticks. Buy Betala Fragrance Online
-  Updated: 2026-07-25T01:45:27Z
+  Updated: 2026-08-07T13:02:52Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
@@ -760,7 +760,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/FAAOAGCOMBO.jpg?v=1778596257
   Price: ₹450.00 INR
 - [Betala Fragrance Aqua Flavour Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/aqua-flavour-perfumed-dhoop-stick): Betala Fragrance brand is know for the best quality of fragrance it provides shop Aqua Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-25T02:40:17Z
+  Updated: 2026-08-08T11:45:13Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -774,21 +774,21 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/APSODSCOMBO.jpg?v=1778597173
   Price: ₹450.00 INR
 - [Betala Fragrance | Musk Oudh Patchouli Saffron Combo Dhoop Stick](https://www.betalafragrance.com/products/betala-fragrance-dhoop-stick--bundle-musk-oudh-patchouli-saffron-100-g-x-4-pack): Shop our Perfumed Dhoop Stick Non-Charcoal Agarbatti, containing 4 delightful flavors of 100 Gm each -Musk, Oudh, Patchouli & Saffron. Each pack holds around 45 sticks, 4-inch long, with a burning time of 40 minutes per stick. Discover a fragrant journey with our premium agarbatti sticks. Buy Betala Fragrance Online
-  Updated: 2026-07-08T16:56:41Z
+  Updated: 2026-07-26T02:36:37Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/MPSODSCOMBO.jpg?v=1778596698
   Price: ₹450.00 INR
 - [Betala Fragrance | Firdous, Attar Oud, Oudh & Attar Gulab Combo Dhoop Stick](https://www.betalafragrance.com/products/betala-fragrance-agarbatti--bundle-firdous-attar-oud-oudh-attar-gulab-100-g-x-4-pack-1): Shop our Perfumed Incense Non-Charcoal Dhoop Stick, containing 4 delightful flavors of 100 Gm each - Firdous, Attar Oud, Oudh & Attar Gulab . Each pack holds around 45 sticks, 4-inch long, with a burning time of 40 minutes per stick. Discover a fragrant journey with our premium Dhoop sticks. Buy Betala Fragrance Online
-  Updated: 2026-07-21T11:27:57Z
+  Updated: 2026-08-02T04:40:28Z
   Vendor: www.betalafragrance.com
   Product Type: Incense Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/FAAODSCOMBO.jpg?v=1778597074
   Price: ₹450.00 INR
 - [Betala Fragrance Chandan, Gulab, Lavender & Oud Dhoop Cone  Bundle (30 pc X 4 Pack)](https://www.betalafragrance.com/products/betala-fragrance-dhoop-cone--bundle-chandan-gulab-lavender-oud-30-pc-x-4-pack-copy): ✅ Dhoop Cone Flavour : Premium Bundle of Chandan, Gulab, Lavender & Oud ✅ No of Cones : In this packing there will be 30 Cone in each pack, Total 4 Packs of 30 pc Cone each pack. ✅ Size of Dhoop Cone : Size of Cone will be 2 Inch Long with burning time of appox. 40 Minutes ✅ Ingredients : Made from 100% charcoal free wooden powder and dipped in aromatic perfumes
-  Updated: 2026-07-23T14:59:26Z
+  Updated: 2026-07-25T12:18:27Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -802,7 +802,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/BURNER_COMBO_1.jpg?v=1733848368
   Price: ₹799.00 INR
 - [Betala Fragrance Marigold Flavour Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/marigold-fragrance-perfumed-dhoop-stick): Betala Fragrance is know for the quality of fragrance it provides and in this pack it provides Chandan Flavour dhoop batti Dhoop has always been at first position while offering prayers in pooja Experience the pure tradition at your home with BETALA FRAGARNCE Premium Quality incense Dhoop Sticks.
-  Updated: 2026-07-12T03:29:57Z
+  Updated: 2026-08-02T08:22:16Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -844,14 +844,14 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/LYCHEECONE_c32088cf-f471-4314-95c3-25ffbbd76705.jpg?v=1777557329
   Price: ₹249.00 INR
 - [Betala Fragrance Attar oud, Oudh, Musk & White Musk Dhoop Cone  Bundle (30 pc X 4 Pack)](https://www.betalafragrance.com/products/attar-oud-oudh-musk-white-musk-dhoop-cone--bundle-30-pc-x-4-pack): ✅ Dhoop Cone Flavour : Premium Bundle of Attar Oudh, Oud, Musk & White Musk ✅ No of Cones : In this packing there will be 30 Cone in each pack, Total 4 Packs of 30 pc Cone each pack. ✅ Size of Dhoop Cone : Size of Cone will be 2 Inch Long with burning time of appox. 40 Minutes ✅ Ingredients : Made from 100% charcoal free wooden powder and dipped in aromatic perfumes
-  Updated: 2026-07-23T14:59:26Z
+  Updated: 2026-07-26T14:35:08Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Cones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/MWAODCCOMBO_a61d6994-5bff-4f54-a32f-62dfbd4e980e.jpg?v=1778592157
   Price: ₹450.00 INR
 - [Betala Fragrance | Attar Gulab Dhoop Stick | Buy Online](https://www.betalafragrance.com/products/attar-gulab-dhoop-stick): Betala Fragrance is know for the quality of fragrance it provides and in this pack it provides Rose Flavour dhoop batti Dhoop has always been at first position while offering prayers in pooja Experience the pure tradition at your home with BETALA FRAGARNCE Premium Quality incense Dhoop Sticks.
-  Updated: 2026-07-24T02:03:36Z
+  Updated: 2026-08-07T12:37:46Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -886,7 +886,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/MWAODSCOMBO_8e94242f-905b-419d-be95-39681a309ae0.jpg?v=1778601973
   Price: ₹450.00 INR
 - [Betala Fragrance Musk, Oudh, Patchouli & Saffron Dhoop Cone  Bundle (30 pc X 4 Pack)](https://www.betalafragrance.com/products/betala-fragrance-musk-oudh-patchouli-saffron-dhoop-cone--bundle-30-pc-x-4-pack-copy): ✅ Dhoop Cone Flavour : Premium Bundle of Chandan, Gulab, Lavender & Oud ✅ No of Cones : In this packing there will be 30 Cone in each pack, Total 4 Packs of 30 pc Cone each pack. ✅ Size of Dhoop Cone : Size of Cone will be 2 Inch Long with burning time of appox. 40 Minutes ✅ Ingredients : Made from 100% charcoal free wooden powder and dipped in aromatic perfumes
-  Updated: 2026-05-13T04:23:37Z
+  Updated: 2026-07-26T14:24:57Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -900,21 +900,21 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/FLORALBREEZE8INCH.jpg?v=1780248586
   Price: ₹450.00 INR
 - [Betala Fragrance Bakhoor 8" inch Long Perfumed Dhoop Stick, 60 count](https://www.betalafragrance.com/products/betala-fragrance-bakhoor-8-inch-long-perfumed-dhoop-stick-60-count): Bring home a refreshing Arabic fragrance experience with premium 8-inch Bakhoor Perfumed Dhoop Sticks by Betala Fragrance. Crafted for peaceful mornings, relaxing evenings, and a luxurious home atmosphere, each dhup stick fills your space with a soft long-lasting floral aroma that instantly refreshes the mood. ✨ Premium Bakhoor fragrance🔥 Charcoal-free & bamboo-free📏 Long 8-inch dhoop sticks⏳ Slow burning with long-lasting fragrance🏡 Perfect for pooja, relaxation & everyday freshness📦 60 premium dhoop sticks per pack Turn every corner of your home into a calm, fresh, and positive space with Bakhoor.
-  Updated: 2026-07-09T18:26:37Z
+  Updated: 2026-08-07T08:20:41Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/BAKHOOR8INCH_c3ee0b2c-c907-4369-8e6a-b68623bc9373.jpg?v=1780248457
   Price: ₹499.00 INR
 - [Betala Fragrance Sandellium 8" inch Long Perfumed Dhoop Stick, 60 count](https://www.betalafragrance.com/products/betala-fragrance-sandellium-8-inch-long-perfumed-dhoop-stick-60-count): Bring home a refreshing Chandan / Sandal fragrance experience with premium 8-inch Sandellium Perfumed Dhoop Sticks by Betala Fragrance. Crafted for peaceful mornings, relaxing evenings, and a luxurious home atmosphere, each dhup stick fills your space with a soft long-lasting floral aroma that instantly refreshes the mood. ✨ Premium Sandalwood fragrance🔥 Charcoal-free & bamboo-free📏 Long 8-inch dhoop sticks⏳ Slow burning with long-lasting fragrance🏡 Perfect for pooja, relaxation & everyday freshness📦 60 premium dhoop sticks per pack Turn every corner of your home into a calm, fresh, and positive space with Sandellium.
-  Updated: 2026-07-09T08:56:46Z
+  Updated: 2026-08-06T10:40:16Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/SANDELLIUM8INCH.jpg?v=1781420832
   Price: ₹499.00 INR
 - [Betala Fragrance Shahi Pushp 8" inch Long Perfumed Dhoop Stick, 60 count](https://www.betalafragrance.com/products/betala-fragrance-shahipushp-8-inch-long-perfumed-dhoop-stick-60-count): Bring home a refreshing Rose / Gulab fragrance experience with premium 8-inch Shahi Pushp Perfumed Dhoop Sticks by Betala Fragrance. Crafted for peaceful mornings, relaxing evenings, and a luxurious home atmosphere, each dhup stick fills your space with a soft long-lasting floral aroma that instantly refreshes the mood. ✨ Premium fragrance of Gulab & Kesar🔥 Charcoal-free & bamboo-free📏 Long 8-inch dhoop sticks⏳ Slow burning with long-lasting fragrance🏡 Perfect for pooja, relaxation & everyday freshness📦 60 premium dhoop sticks per pack Turn every corner of your home into a calm, fresh, and positive space with Shahi pushp.
-  Updated: 2026-07-17T01:40:36Z
+  Updated: 2026-08-07T08:20:33Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -934,8 +934,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/JMCMAGCOMBO.jpg?v=1782199329
   Price: ₹450.00 INR
-- [Betala Fragrance Jasmine, Marigold, Champa & Mogra Dhoop Stick  Bundle (100 g X 4 Pack)](https://www.betalafragrance.com/products/betala-fragrance-jasmine-marigold-champa-mogra-dhoop-stick--bundle-100-g-x-4-pack): ✅ Dhoop Stick FragrancePremium 4-in-1 fragrance bundle featuring Jasmine, Marigold, Champa & Mogra – perfect for daily pooja, meditation, relaxation, and home fragrance. ✅ Pack DetailsThis combo includes 4 packs of 100 g each. Each 100 g pack contains approximately 30–35 dhoop sticks, giving you a total of around 120–140 sticks. ✅ Stick Size & Burning TimeEach dhoop stick is 4 inches long and offers a burning time of approximately 35–40 minutes, making it suitable for everyday use. ✅ IngredientsMade using charcoal-free wooden powder blend and dipped in aromatic perfumes to deliver a rich, pleasant, and long-lasting fragrance experience.
-  Updated: 2026-07-25T06:37:56Z
+- [Jasmine Marigold Champa Mogra Dhoop Stick Bundle – Betala](https://www.betalafragrance.com/products/betala-fragrance-jasmine-marigold-champa-mogra-dhoop-stick--bundle-100-g-x-4-pack): Shop Betala's premium Jasmine, Marigold, Champa & Mogra dhoop stick bundle. Perfect for pooja & home fragrance. Order now!
+  Updated: 2026-08-07T08:26:17Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
@@ -963,7 +963,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/aquaagarbatti_27a1cd10-6765-48c4-b4dc-883b94416682.jpg?v=1783953419
   Price: ₹0.00 INR
 - [🎁 Free Gift - Aqua Flavour Perfumed Dhoop Stick - 50 G](https://www.betalafragrance.com/products/🎁-free-gift-aqua-flavour-perfumed-dhoop-stick-50-g)
-  Updated: 2026-07-20T16:57:56Z
+  Updated: 2026-07-27T07:06:07Z
   Vendor: Betala Fragrance
   Product Type: 
   Availability: Available
@@ -998,65 +998,65 @@
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/SANDALGOLD2.jpg?v=1783953379
   Price: ₹0.00 INR
 - [🎁 Free Gift -  Metalic Sandal Gold Fragrance Incense Stick | Perfumed Agarbatti - 50 G](https://www.betalafragrance.com/products/🎁-free-gift-metalic-sandal-gold-fragrance-incense-stick-perfumed-agarbatti-50-g)
-  Updated: 2026-07-24T02:55:47Z
+  Updated: 2026-08-07T08:20:37Z
   Vendor: Betala Fragrance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/SANDALGOLD2_b6f05078-f1bf-4375-b994-d2e8b4401717.jpg?v=1783953655
   Price: ₹0.00 INR
 - [🎁 Free Gift - Sandal Gold Perfumed Dhoop Stick - 50 G](https://www.betalafragrance.com/products/🎁-free-gift-sandal-gold-perfumed-dhoop-stick-50-g)
-  Updated: 2026-07-22T06:43:37Z
+  Updated: 2026-08-07T12:37:49Z
   Vendor: Betala Fragrance
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/sandalgold_9ead0ae5-0eac-419b-9451-3e65bd1f873b.png?v=1783953658
   Price: ₹0.00 INR
 - [Betala Fragrance SandalGold Dhoop Stick | Buy Dhoop Agarbatti Sambrani Online](https://www.betalafragrance.com/products/betala-fragrance-sandalgold-perfumed-dhoop-stick-200-gm): Betala Fragrance brand is know for the best quality of fragrance it provides shop sandalgold Flavour dhoop sticks , company manufactures luxury dhoop batti, natural masala agarbattis, organic sambrani dhup cup, premium dhoop cone, backflow incense cones, aroma oils, pooja items for home online delivery across India
-  Updated: 2026-07-22T08:21:47Z
+  Updated: 2026-08-07T12:37:56Z
   Vendor: www.betalafragrance.com
   Product Type: Dhoop Stick
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/9460/9985/files/SANDALGOLD_ee1b3bf3-4ec6-448f-af6f-eb97ffd7e9bc.png?v=1783954500
-  Price: ₹249.00 INR
+  Price: ₹349.00 INR
 [List Continued](https://www.betalafragrance.com/a/llms-agent/llms.txt?shop=www-betalafragrance-com.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDMxNDEyNzUwNzc3NywibGFzdF92YWx1ZSI6IjEwMzE0MTI3NTA3Nzc3In0%3D)
 
 ## Collections
 
 - [Perfumed Agarbatti | Buy Incense Sticks Online](https://www.betalafragrance.com/collections/perfumed-agarbatti): Welcome to our online store, your premier destination for agarbatti (incense sticks), incense cones, and battis. With a wide range of fragrances, premium quality, and affordable prices, we are dedicated to providing you with the best online shopping experience for all your incense needs in India. Choose from a Variety of Incense Sticks: Explore our extensive collection of incense sticks and find the perfect fragrance to suit your preferences. Whether you seek traditional scents for puja and meditation, or unique and exotic aromas to create a luxurious ambiance, our range of agarbattis has something for everyone. Affordable Prices and Best Deals: We understand the importance of finding the best incense sticks at competitive prices. That's why we offer affordable rates and attractive deals on our premium products. Shop with us to get the most value for your money without compromising on quality. Premium Quality and Long-lasting Fragrance: We take pride in offering high-quality incense sticks that burn evenly, emit a delightful aroma, and create a serene atmosphere. Our incense sticks are made using pure ingredients, ensuring a long-lasting fragrance that lingers in your space. Convenient Online Shopping: With our user-friendly website, you can easily browse through our extensive selection of incense sticks and make your purchase with just a few clicks. Enjoy the convenience of shopping for your favorite incense sticks online, saving time and effort. Perfect for Pooja and Spiritual Practices: Our incense sticks are ideal for all your spiritual practices, including pooja, meditation, and creating a sacred environment. Experience the divine scents that help you connect with your inner self and enhance your spiritual journey. Wide Range of Fragrances and Scents: From floral and fruity scents to woody and earthy tones, our incense sticks offer a diverse range of fragrances to cater to your unique preferences. Experience the soothing aroma of rose, jasmine, sandalwood, and many more captivating scents. Luxury and Premium Brands: Discover our exquisite collection of luxury and premium brands that provide the ultimate incense experience. These high-end incense sticks are crafted using traditional methods and precious ingredients, creating a luxurious ambiance and elevating your surroundings. Incense Accessories and Holders: Enhance your incense burning experience with our range of incense holders, ceramic stands, and accessories. These beautifully designed items not only hold your incense sticks securely but also add an aesthetic touch to your space. Fast and Secure Delivery: We understand the excitement of receiving your incense sticks promptly. That's why we ensure fast and secure delivery to your doorstep, so you can enjoy the heavenly scents without any delay. Customer Satisfaction: Your satisfaction is our top priority. We strive to provide exceptional customer service and ensure that your incense shopping experience with us is seamless and delightful. Should you have any queries or require assistance, our friendly customer support team is always ready to help. Shop with us now to experience the best smelling incense sticks and a hassle-free online purchasing experience. Create a blissful ambiance, elevate your spiritual practices, or find the perfect gift for your loved ones. Discover the joy of aromatic bliss with our premium incense sticks.
-  Updated: 2026-07-23T11:07:13Z
+  Updated: 2026-08-08T11:06:35Z
   Total Products: 32
 - [Perfumed Dhoop Sticks](https://www.betalafragrance.com/collections/dhoop-sticks): Betala Fragrance Premium Dhoop Sticks These most amazing Dhoop Sticks are widely used for spiritual purpose, also for meditation, yoga, ceremony, aesthetic, medicinal and healing purpose Common benefits of our Dhoop Stick : ✓ Freshen up mind and body ✓ Lighten up the mood ✓ Relieves stress and anxiety ✓ Improves sleep quality
-  Updated: 2026-07-24T11:07:06Z
+  Updated: 2026-08-08T11:06:35Z
   Total Products: 34
 - [Backflow Cone](https://www.betalafragrance.com/collections/backflow-burner): creating a smoke fountain giving the surrounding a spiritual feel.
   Updated: 2026-07-18T11:06:46Z
   Total Products: 7
 - [Sambrani Dhoop Powder](https://www.betalafragrance.com/collections/sambrani-dhoop-powder): These are made from pure wood powder & natural herbs, which are widely used for spiritual purpose, also for meditation, yoga, ceremony, aesthetic, medicinal and healing purpose. It is ideal for pooja. It also contains a dhoop plate. It has a very pleasant aroma which has a spiritual feel helping the mind and body to relax. It is made of non charcoal dhoop which is safe for health. It is a safe alternative of chemical air freshener. It emits lesser smoke and more fragrance.
-  Updated: 2026-05-19T11:09:35Z
+  Updated: 2026-08-08T11:06:35Z
   Total Products: 7
 - [Perfumed Dhoop Cones](https://www.betalafragrance.com/collections/dhoop-cones): Dhoop cones can be used for a variety of purposes, like an air purifier and during meditation These incense sticks are suitable for room fragrance, spa, yoga, and so on. They are made from natural materials, and their heavenly aroma will give relief to your mind and soul. You can keep these spiritual products at your home or workplace as per your preference. They are made of ingredients such as aromatic oil, sandalwood, natural plant produce, and more. Burning of dhoop is considered to bring good luck, happiness, and prosperity. It is an age-old practice performed while worshipping gods and goddesses to remove negative energy. These cones can create a peaceful environment, and reduce anxiety and stress with their healing odour. Incense sticks with and without fragrances are available online. You can compare all the alternatives and place your order online from the comfort of your home
-  Updated: 2026-07-22T11:06:25Z
+  Updated: 2026-08-02T11:06:35Z
   Total Products: 29
 - [Best ](https://www.betalafragrance.com/collections/best-)
-  Updated: 2026-07-24T11:07:06Z
+  Updated: 2026-08-08T11:06:35Z
   Total Products: 18
 - [New Lauch](https://www.betalafragrance.com/collections/new-lauch)
-  Updated: 2026-07-22T11:06:25Z
+  Updated: 2026-08-07T11:07:00Z
   Total Products: 33
 - [Best  Combo](https://www.betalafragrance.com/collections/best--combo): Now get our best  products bundle at just Rs 450 /-
-  Updated: 2026-07-24T11:07:06Z
+  Updated: 2026-08-08T11:06:35Z
   Total Products: 18
 - [Cow Dung Dhoop/Agarbatti](https://www.betalafragrance.com/collections/cow-dung-dhoop): Cow Dung Dhoop/Agarbatti are made from cow dung, ghee, dhoop mixture and guggal essence powder (100% natural dhoop)
   Updated: 2026-07-02T11:07:14Z
   Total Products: 1
 - [Navratri Special Offer](https://www.betalafragrance.com/collections/navratri-special-offer): Celebrate Navratri & Nav Varsh with divine fragrance.Get 30% OFF on purchase of any 3 products using  code NAVRATRI.Offer valid till 27 March.
-  Updated: 2026-07-24T11:07:06Z
-  Total Products: 111
+  Updated: 2026-08-08T11:06:35Z
+  Total Products: 110
 - [Dhoop Sticks Best Seller Combo](https://www.betalafragrance.com/collections/dhoop-sticks-best-seller-combo): Experience the divine aroma with Betala Fragrance Dhoop Sticks Best Seller Combo, a collection of our most popular fragrances designed for pooja, meditation, and daily rituals. These charcoal-free and bamboo-free dhoop sticks are carefully crafted to produce low smoke and a long-lasting fragrance that keeps your home fresh and spiritually uplifting. Each stick offers 25–30 minutes of slow burning, making it perfect for morning and evening pooja. 🌿 Product Highlights• Charcoal-Free Dhoop Sticks• Bamboo-Free Formula• Rich & Long-Lasting Fragrance• Ideal for Home, Temple & Meditation• Premium Quality from Betala Fragrance Make every pooja special with the Best Seller Combo from Betala Fragrance.
-  Updated: 2026-07-24T11:07:06Z
+  Updated: 2026-08-08T11:06:35Z
   Total Products: 6
 - [8" INCH LONG DHOOP STICK](https://www.betalafragrance.com/collections/8-inch-dhoop-stick)
-  Updated: 2026-07-18T11:06:46Z
+  Updated: 2026-08-07T11:07:00Z
   Total Products: 8
 
 ## Blogs
@@ -1107,6 +1107,32 @@
     Author: Lokpal
   - [Strong fragrance dhoop sticks](https://www.betalafragrance.com/blogs/news/strong-fragrance-dhoop-sticks): Strong fragrance dhoop sticks
     Updated: 2026-07-22T18:05:32Z
+    Author: Lokpal
+  - [Discover Heavenly Scents: BAMBOOLESS CHARCOAL FREE DHOOP STICK by Betala Fragrance](https://www.betalafragrance.com/blogs/news/discover-heavenly-scents-bambooless-charcoal-free-dhoop-stick-by-betala-fragrance): Discover Heavenly Scents: BAMBOOLESS CHARCOAL FREE DHOOP STICK by Betala Fragrance
+    Updated: 2026-07-30T04:32:05Z
+    Author: BETALA MARKETING
+    Tags: Dhoop, Dhoop Batti, Dhoop Stick
+  - [Best rose dhoop stick](https://www.betalafragrance.com/blogs/news/best-rose-dhoop-stick): Best rose dhoop stick
+    Updated: 2026-07-28T15:50:40Z
+    Author: Lokpal
+  - [Which fragrance is best for pooja?](https://www.betalafragrance.com/blogs/news/which-fragrance-is-best-for-pooja): Which fragrance is best for pooja?
+    Updated: 2026-07-28T15:33:23Z
+    Author: Lokpal
+  - [What Is Bakhoor? Complete Guide + Best Bakhoor Dhoop Stick](https://www.betalafragrance.com/blogs/news/what-is-bakhoor-complete-guide-best-bakhoor-dhoop-stick): <p>Discover what bakhoor really is, what it smells like, and how Betala Fragrance's bamboo-free dhoop stick brings this Arabic scent home.</p>
+    Updated: 2026-07-28T15:37:38Z
+    Author: Betala Fragrance
+    Tags: bakhoor, dhoop stick, home fragrance
+  - [Best oud dhoop stick](https://www.betalafragrance.com/blogs/news/best-oud-dhoop-stick): Best oud dhoop stick
+    Updated: 2026-07-29T18:05:05Z
+    Author: Lokpal
+  - [Dhoop Sticks vs Agarbatti: What Makes Them Unique?](https://www.betalafragrance.com/blogs/news/dhoop-sticks-vs-agarbatti-what-makes-them-unique): Dhoop Sticks vs Agarbatti: What Makes Them Unique?
+    Updated: 2026-08-02T18:00:38Z
+    Author: Lokpal
+  - [The Ultimate Guide to Choosing Perfect Dhoop Sticks](https://www.betalafragrance.com/blogs/news/recommended-title)
+    Updated: 2026-08-04T06:23:42Z
+    Author: Lokpal
+  - [Comparison](https://www.betalafragrance.com/blogs/news/comparison): Comparison
+    Updated: 2026-08-05T18:05:35Z
     Author: Lokpal
 
 ## Store Pages
