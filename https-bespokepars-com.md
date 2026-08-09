@@ -17,7 +17,7 @@ Website: https://bespokepars.com
 - Timezone: Europe/Berlin
 - Created At: 2025-02-23T14:29:29Z
 - Contact Email: info@bespokepars.com
-- Updated At: 2026-08-02T00:00:39.920Z
+- Updated At: 2026-08-09T00:00:45.201Z
 
 ## Products
 
@@ -29,7 +29,7 @@ Website: https://bespokepars.com
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/IP1-blau-weiss-rot.jpg?v=1769181872
   Price: 90,00 € EUR
 - [Golf Mahagoni Alignment Sticks  - Handgefertigt "The Fairway"](https://bespokepars.com/products/the-fairway): Premium Golf Alignment Sticks 100% Mahagoni. Handgefertigt in Deutschland. Verbessern Sie Ihre Ausrichtung und Schwungtechnik. Personalisierbar mit Wunschtext.
-  Updated: 2026-08-01T13:47:45Z
+  Updated: 2026-08-08T05:32:40Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
@@ -48,14 +48,14 @@ Website: https://bespokepars.com
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/the-glacier.jpg?v=1769161355
   Price: 70,00 € EUR
 - [Golf Alignment Sticks Mahagoni - Handgemacht "The Bloom"](https://bespokepars.com/products/the-bloom): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-08-01T13:47:50Z
+  Updated: 2026-08-08T05:32:40Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/the-bloom.jpg?v=1769162474
   Price: 70,00 € EUR
 - [Golf Alignment Sticks Mahagoni - Handgefertigt "Green Stripes"](https://bespokepars.com/products/green-stripes): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Alignment Sticks.
-  Updated: 2026-07-31T06:59:11Z
+  Updated: 2026-08-05T19:30:51Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
@@ -104,7 +104,7 @@ Website: https://bespokepars.com
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/neon-stripes.jpg?v=1769165192
   Price: 40,00 € EUR
 - [Alignment Sticks Golf Mahagoni - Handgefertigt "Black Stripes"](https://bespokepars.com/products/black-stripes): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Mahagoni Golf Alignment Sticks.
-  Updated: 2026-07-31T07:40:27Z
+  Updated: 2026-08-07T19:58:17Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
@@ -153,7 +153,7 @@ Website: https://bespokepars.com
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/bespokepars-gutschein-100euro.jpg?v=1764095832
   Price: 100,00 € EUR
 - [Alignment Stick Cover Leder-Filz | Handgefertigt | BespokePars](https://bespokepars.com/products/bespokepars-leder-filz-cover): Handgefertigte Leder-Filz-Schutzhüllen für Alignment Sticks. Exklusiv in deutscher Manufaktur für uns gefertigt. Premium-Qualität Made in Germany für BespokePars.
-  Updated: 2026-07-17T05:02:40Z
+  Updated: 2026-08-03T09:39:50Z
   Vendor: BespokePars
   Product Type: Golf-Zubehörsets
   Availability: Available
@@ -202,14 +202,14 @@ Website: https://bespokepars.com
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/burgundy-leaf.jpg?v=1769166741
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Bordeaux"](https://bespokepars.com/products/bordeaux): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-31T06:49:21Z
+  Updated: 2026-08-03T08:51:30Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0933/5819/5013/files/bordeaux.jpg?v=1769167005
   Price: 70,00 € EUR
 - [Golf Mahagoni Alignment Sticks - Handgefertigt "Blue Ember"](https://bespokepars.com/products/blue-ember): Golfausrichtungsstäbe aus 100 % Mahagoni: Handgefertigt, personalisierbar & nachhaltig. Verbessern Sie Ihr Golfspiel mit unseren Golf Alignment Sticks.
-  Updated: 2026-07-17T20:37:05Z
+  Updated: 2026-08-07T21:36:56Z
   Vendor: BespokePars
   Product Type: Golf-Trainingshilfen
   Availability: Available
@@ -246,25 +246,25 @@ Website: https://bespokepars.com
 ## Collections
 
 - [Meisterstücke](https://bespokepars.com/collections/meisterstuecke): Premium Golf Alignment Sticks aus Mahagoni - 100% handgefertigt in Deutschland. Personalisierbar & nachhaltig. Jetzt entdecken!
-  Updated: 2026-07-31T11:30:30Z
+  Updated: 2026-08-08T11:24:35Z
   Total Products: 18
 - [Individualität Pur](https://bespokepars.com/collections/individualitaet-pur): Individuelle Mahagoni Golfausrichtungsstäbe: Handgefertigt, personalisiert & nachhaltig.  Alignment Sticks in über 10 Farben. Verschiedene Designs.
   Updated: 2026-06-27T20:23:35Z
   Total Products: 2
 - [Special Offers](https://bespokepars.com/collections/special-offers): Entdecken Sie unsere Golf Special Offers: Handgefertigte Alignment Sticks aus Mahagoni zu reduzierten Preisen. Limitierte Angebote und Unikate.
-  Updated: 2026-07-31T11:30:30Z
+  Updated: 2026-08-08T11:24:35Z
   Total Products: 8
 - [BespokePars Gutscheine](https://bespokepars.com/collections/bespokepars-gutscheine): Geschenkgutschein 25€ - Sofortversand per E-Mail, 12 Monate gültig, keine Gebühren. Für handgefertigte Premium Alignment Sticks aus Mahagoni. Made in Germany.
   Updated: 2026-05-14T13:48:52Z
   Total Products: 4
 - [Lassen Sie sich überraschen](https://bespokepars.com/collections/startkollektion): Unsere Alignment Sticks auf einen Blick. Premiumqualität. 100 % Handarbeit. Hergestellt in Deutschland.
-  Updated: 2026-07-31T11:30:30Z
+  Updated: 2026-08-08T11:24:35Z
   Total Products: 21
 - [Premium Golf-Accessoires](https://bespokepars.com/collections/zubehoer): BespokePars Golf-Zubehör: Handarbeit aus Deutschland. Premium-Materialien, traditionelle Fertigung, kompromisslose Qualität. Für Golfer mit Anspruch.
-  Updated: 2026-07-12T11:36:30Z
+  Updated: 2026-08-03T11:31:56Z
   Total Products: 2
 - [Neue Produkte - Neue Designs - Neue Farben](https://bespokepars.com/collections/neue-produkte): Unsere neuen Produkte. Lassen Sie sich überraschen.
-  Updated: 2026-07-31T11:30:30Z
+  Updated: 2026-08-08T11:24:35Z
   Total Products: 5
 - [Beispielprodukte Sonstiges](https://bespokepars.com/collections/other-example-products)
   Updated: 2026-05-12T15:01:06Z
@@ -281,6 +281,9 @@ Website: https://bespokepars.com
 - [Beispielprodukte Standard](https://bespokepars.com/collections/asset-pack-59611676674-example-products)
   Updated: 2026-06-26T19:14:26Z
   Total Products: 0
+- [Beispielprodukte Elegante Kleidung für Damen](https://bespokepars.com/collections/womens-dress-wear-example-products)
+  Updated: 2026-08-06T19:26:01Z
+  Total Products: 4
 
 ## Blogs
 
@@ -328,13 +331,13 @@ Website: https://bespokepars.com
 ## Policies
 
 - [Privacy Policy](https://bespokepars.com/policies/privacy-policy)
-  Updated: 2026-08-01T04:24:57+02:00
+  Updated: 2026-08-08T04:01:55+02:00
 - [Shipping Policy](https://bespokepars.com/policies/shipping-policy)
   Updated: 2026-06-27T23:38:19+02:00
 - [Refund Policy](https://bespokepars.com/policies/refund-policy)
-  Updated: 2026-07-31T07:08:12+02:00
+  Updated: 2026-08-07T01:40:09+02:00
 - [Terms of Service](https://bespokepars.com/policies/terms-of-service)
-  Updated: 2026-07-31T07:05:33+02:00
+  Updated: 2026-08-07T01:36:02+02:00
 - [Contact Information](https://bespokepars.com/policies/contact-information)
   Updated: 2026-06-27T23:49:29+02:00
 
