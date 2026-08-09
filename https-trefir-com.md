@@ -11,12 +11,12 @@
 - Contact Email: yaren@trefir.com
 - Contact Phone: +905016341171
 - Address: YAKUPLU MERMERCİLER SAN. SİTESİ 8. CAD.NO.13 KAT.3
-- Updated At: 2026-07-09T00:00:22.424Z
+- Updated At: 2026-08-09T00:00:42.691Z
 
 ## Products
 
 - [Dr. Klompa Womens Sabo‎‏‎ 1541054‎ㅤ](https://trefir.com/products/comfort-clogs-women-1541054): Comfortable women’s clogs with a nurse illustration, designed for all-day wear. Lightweight, slip-on design with supportive sole, ideal for nurses and  professionals.
-  Updated: 2026-06-30T12:29:11Z
+  Updated: 2026-07-15T22:38:48Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -42,7 +42,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womans_Sabo_1541054_Print--Synthetic-Pranetta_1.jpg?v=1767946257
     Price: ₺739,50 TRY
 - [Dr. Klompa Mens Sabo 154553](https://trefir.com/products/work-clogs-for-men-154553): Designed for those looking for soft-soled men’s slippers, this men’s clog offers lightweight comfort for everyday use. Explore now.
-  Updated: 2026-06-30T12:29:11Z
+  Updated: 2026-07-22T23:46:19Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -240,7 +240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154553_Tobacco--Synthetic-Nubuck_1.jpg?v=1773388477
     Price: ₺750,75 TRY
 - [Cloud Cushion Sandals Men 154483](https://trefir.com/products/cloud-cushion-sandals-men-154483): Designed for those seeking soft-soled men’s sandals, this black DR KLOMPA men’s sandal delivers lightweight comfort for everyday wear. Explore now.
-  Updated: 2026-07-02T19:41:39Z
+  Updated: 2026-08-08T18:32:07Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -254,7 +254,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Navy--Synthetic-Nubuck_1.jpg?v=1766643059
     Price: ₺1.020,00 TRY
   - [Navy : Synthetic Nubuck / 42](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42115457220656)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Navy--Synthetic-Nubuck_1.jpg?v=1766643059
     Price: ₺1.020,00 TRY
   - [Navy : Synthetic Nubuck / 43](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42115457253424)
@@ -266,7 +266,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Navy--Synthetic-Nubuck_1.jpg?v=1766643059
     Price: ₺1.020,00 TRY
   - [Navy : Synthetic Nubuck / 45](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42115457318960)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Navy--Synthetic-Nubuck_1.jpg?v=1766643059
     Price: ₺1.020,00 TRY
   - [Navy : Synthetic Nubuck / 46](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42834401919024)
@@ -274,7 +274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Navy--Synthetic-Nubuck_1.jpg?v=1766643059
     Price: ₺1.020,00 TRY
   - [Black : Synthetic Nubuck / 40](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42846023614512)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Black--Synthetic-Nubuck_1.jpg?v=1773388200
     Price: ₺1.020,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42115456794672)
@@ -286,7 +286,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Black--Synthetic-Nubuck_1.jpg?v=1773388200
     Price: ₺1.020,00 TRY
   - [Black : Synthetic Nubuck / 43](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42115456860208)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Black--Synthetic-Nubuck_1.jpg?v=1773388200
     Price: ₺1.020,00 TRY
   - [Black : Synthetic Nubuck / 44](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42115456892976)
@@ -302,7 +302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Black--Synthetic-Nubuck_1.jpg?v=1773388200
     Price: ₺1.020,00 TRY
   - [Mink : Synthetic Nubuck / 40](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42846023647280)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Mink--Synthetic-Nubuck_1.jpg?v=1773388200
     Price: ₺1.020,00 TRY
   - [Mink : Synthetic Nubuck / 41](https://trefir.com/products/cloud-cushion-sandals-men-154483?variant=42832041672752)
@@ -330,7 +330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154483_Mink--Synthetic-Nubuck_1.jpg?v=1773388200
     Price: ₺1.020,00 TRY
 - [Dr. Klompa Mens Sandals 154478](https://trefir.com/products/cloud-cushion-sandals-men-154478): From our men's sandal collection, the DR KLOMPA men's sandal is suitable for everyday use with its lightweight and comfortable construction. Explore now.
-  Updated: 2026-07-07T09:02:58Z
+  Updated: 2026-08-08T18:22:06Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -372,15 +372,15 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Black-Grey--Synthetic-Pako_1.jpg?v=1773154770
     Price: ₺1.020,00 TRY
   - [Black-Grey : Synthetic Pako / 44](https://trefir.com/products/cloud-cushion-sandals-men-154478?variant=42115458793520)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Black-Grey--Synthetic-Pako_1.jpg?v=1773154770
     Price: ₺1.020,00 TRY
   - [Black-Grey : Synthetic Pako / 45](https://trefir.com/products/cloud-cushion-sandals-men-154478?variant=42115458826288)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Black-Grey--Synthetic-Pako_1.jpg?v=1773154770
     Price: ₺1.020,00 TRY
   - [Black-Grey : Synthetic Pako / 46](https://trefir.com/products/cloud-cushion-sandals-men-154478?variant=42834400870448)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Black-Grey--Synthetic-Pako_1.jpg?v=1773154770
     Price: ₺1.020,00 TRY
   - [Khaki-Grey : Synthetic Pako / 41](https://trefir.com/products/cloud-cushion-sandals-men-154478?variant=42115458859056)
@@ -404,7 +404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Khaki-Grey--Synthetic-Pako_1.jpg?v=1750150068
     Price: ₺1.020,00 TRY
   - [Khaki-Grey : Synthetic Pako / 46](https://trefir.com/products/cloud-cushion-sandals-men-154478?variant=42115459022896)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Khaki-Grey--Synthetic-Pako_1.jpg?v=1750150068
     Price: ₺1.020,00 TRY
   - [Mink-Grey : Synthetic Pako / 41](https://trefir.com/products/cloud-cushion-sandals-men-154478?variant=42115459055664)
@@ -420,7 +420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Mink-Grey--Synthetic-Pako_3.jpg?v=1767869741
     Price: ₺1.020,00 TRY
   - [Mink-Grey : Synthetic Pako / 44](https://trefir.com/products/cloud-cushion-sandals-men-154478?variant=42115459153968)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Mink-Grey--Synthetic-Pako_3.jpg?v=1767869741
     Price: ₺1.020,00 TRY
   - [Mink-Grey : Synthetic Pako / 45](https://trefir.com/products/cloud-cushion-sandals-men-154478?variant=42115459186736)
@@ -480,7 +480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154478_Black-Black--Synthetic-Nubuck-Fanetta_1.jpg?v=1750148678
     Price: ₺1.020,00 TRY
 - [Cloud Cushioned Sandals Men 154404](https://trefir.com/products/cloud-cushion-sandals-men-154404): Designed for those looking for comfortable and stylish men's sandals, our genuine leather men's sandals are suitable for everyday use with their lightweight and comfort-supporting construction.
-  Updated: 2026-07-08T22:02:37Z
+  Updated: 2026-08-06T20:33:03Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -490,11 +490,11 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Brown--Synthetic-Nubuck_1.jpg?v=1773388798
     Price: ₺997,00 TRY
   - [Brown : Synthetic Nubuck / 42](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463315504)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Brown--Synthetic-Nubuck_1.jpg?v=1773388798
     Price: ₺997,00 TRY
   - [Brown : Synthetic Nubuck / 43](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463348272)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Brown--Synthetic-Nubuck_1.jpg?v=1773388798
     Price: ₺997,00 TRY
   - [Brown : Synthetic Nubuck / 44](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463381040)
@@ -510,7 +510,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Brown--Synthetic-Nubuck_1.jpg?v=1773388798
     Price: ₺997,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463086128)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Black--Synthetic-Nubuck_1.jpg?v=1773388798
     Price: ₺997,00 TRY
   - [Black : Synthetic Nubuck / 42](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463118896)
@@ -522,7 +522,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Black--Synthetic-Nubuck_1.jpg?v=1773388798
     Price: ₺997,00 TRY
   - [Black : Synthetic Nubuck / 44](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463184432)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Black--Synthetic-Nubuck_1.jpg?v=1773388798
     Price: ₺997,00 TRY
   - [Black : Synthetic Nubuck / 45](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463217200)
@@ -534,19 +534,19 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Black--Synthetic-Nubuck_1.jpg?v=1773388798
     Price: ₺997,00 TRY
   - [Dark Navy : Synthetic Nubuck / 41](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463479344)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Dark-Navy--Synthetic-Nubuck_1.jpg?v=1773388297
     Price: ₺997,00 TRY
   - [Dark Navy : Synthetic Nubuck / 42](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463512112)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Dark-Navy--Synthetic-Nubuck_1.jpg?v=1773388297
     Price: ₺997,00 TRY
   - [Dark Navy : Synthetic Nubuck / 43](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463544880)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Dark-Navy--Synthetic-Nubuck_1.jpg?v=1773388297
     Price: ₺997,00 TRY
   - [Dark Navy : Synthetic Nubuck / 44](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463577648)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Dark-Navy--Synthetic-Nubuck_1.jpg?v=1773388297
     Price: ₺997,00 TRY
   - [Dark Navy : Synthetic Nubuck / 45](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463610416)
@@ -574,7 +574,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Tobacco--Synthetic-Nubuck_cover.jpg?v=1780559066
     Price: ₺997,00 TRY
   - [Tobacco : Synthetic Nubuck / 45](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463807024)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Tobacco--Synthetic-Nubuck_cover.jpg?v=1780559066
     Price: ₺997,00 TRY
   - [Tobacco : Synthetic Nubuck / 46](https://trefir.com/products/cloud-cushion-sandals-men-154404?variant=42115463839792)
@@ -582,7 +582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154404_Tobacco--Synthetic-Nubuck_cover.jpg?v=1780559066
     Price: ₺997,00 TRY
 - [Dr. Klompa Mens Slippers 154403](https://trefir.com/products/plush-memory-foam-slippers-men-154403): From our men’s sandal collection, the DR KLOMPA men’s sandal offers a stylish leather look and all-day comfort with its soft sole. Explore now.
-  Updated: 2026-06-30T12:29:13Z
+  Updated: 2026-07-19T13:11:51Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -660,7 +660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154403_Black--Synthetic-Nubuck_1.jpg?v=1773387872
     Price: ₺849,00 TRY
 - [Plush Memory Foam Slippers Men 154400](https://trefir.com/products/plush-memory-foam-slippers-men-154400): Designed for everyday use, these men's sandals provide all-day comfort with their lightweight construction and supportive soles. Explore now.
-  Updated: 2026-06-30T16:02:01Z
+  Updated: 2026-08-04T14:21:57Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -686,7 +686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_White--Synthetic-Fanetta_1.jpg?v=1773149725
     Price: ₺849,00 TRY
   - [White : Synthetic Fanetta / 46](https://trefir.com/products/plush-memory-foam-slippers-men-154400?variant=42115466068016)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_White--Synthetic-Fanetta_1.jpg?v=1773149725
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/plush-memory-foam-slippers-men-154400?variant=42115466100784)
@@ -786,19 +786,19 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_Khaki--Synthetic-Nubuck_1.jpg?v=1773149725
     Price: ₺849,00 TRY
   - [Mink : Synthetic Nubuck / 41](https://trefir.com/products/plush-memory-foam-slippers-men-154400?variant=42115466887216)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_Mink--Synthetic-Nubuck_1.jpg?v=1773149725
     Price: ₺849,00 TRY
   - [Mink : Synthetic Nubuck / 42](https://trefir.com/products/plush-memory-foam-slippers-men-154400?variant=42115466919984)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_Mink--Synthetic-Nubuck_1.jpg?v=1773149725
     Price: ₺849,00 TRY
   - [Mink : Synthetic Nubuck / 43](https://trefir.com/products/plush-memory-foam-slippers-men-154400?variant=42115466952752)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_Mink--Synthetic-Nubuck_1.jpg?v=1773149725
     Price: ₺849,00 TRY
   - [Mink : Synthetic Nubuck / 44](https://trefir.com/products/plush-memory-foam-slippers-men-154400?variant=42115466985520)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_Mink--Synthetic-Nubuck_1.jpg?v=1773149725
     Price: ₺849,00 TRY
   - [Mink : Synthetic Nubuck / 45](https://trefir.com/products/plush-memory-foam-slippers-men-154400?variant=42115467018288)
@@ -830,11 +830,11 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_Tobacco--Synthetic-Nubuck_1.jpg?v=1773149725
     Price: ₺849,00 TRY
   - [Tobacco : Synthetic Nubuck / 46](https://trefir.com/products/plush-memory-foam-slippers-men-154400?variant=42115467247664)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154400_Tobacco--Synthetic-Nubuck_1.jpg?v=1773149725
     Price: ₺849,00 TRY
 - [Cloud Cushioned Sandals Men 154389](https://trefir.com/products/cloud-cushion-sandals-men-154389): Combining comfort and style, these men's sandals are perfect for everyday wear with their soft soles and modern design. Explore now.
-  Updated: 2026-07-08T17:42:17Z
+  Updated: 2026-08-08T07:51:42Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -888,7 +888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154389_Black--Synthetic-Nubuck_1.jpg?v=1773150549
     Price: ₺939,00 TRY
   - [Dark Navy : Synthetic Nubuck / 41](https://trefir.com/products/cloud-cushion-sandals-men-154389?variant=42115467804720)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154389_Dark-Navy--Synthetic-Nubuck_1.jpg?v=1750149952
     Price: ₺939,00 TRY
   - [Dark Navy : Synthetic Nubuck / 42](https://trefir.com/products/cloud-cushion-sandals-men-154389?variant=42115467837488)
@@ -936,7 +936,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154389_Mink--Synthetic-Nubuck_1.jpg?v=1750148932
     Price: ₺939,00 TRY
   - [White : Synthetic Fanetta / 41](https://trefir.com/products/cloud-cushion-sandals-men-154389?variant=42650729742384)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154389_White--Synthetic-Fanetta_1.jpg?v=1750148678
     Price: ₺939,00 TRY
   - [White : Synthetic Fanetta / 42](https://trefir.com/products/cloud-cushion-sandals-men-154389?variant=42650729775152)
@@ -964,7 +964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154389_White--Synthetic-Fanetta_1.jpg?v=1750148678
     Price: ₺939,00 TRY
 - [Dr. Klompa Mens Sabo 154332](https://trefir.com/products/work-clogs-for-men-154332): Designed with a focus on comfort, men’s clogs are suitable for both work use and everyday wear, offering long-lasting comfort thanks to their soft sole. Explore now.
-  Updated: 2026-07-08T20:35:06Z
+  Updated: 2026-08-05T17:01:37Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -972,205 +972,205 @@
   - [Navy : Synthetic Fanetta / 41](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373209648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Navy--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 42](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373242416)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Navy--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 43](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373275184)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Navy--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 44](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373307952)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Navy--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 45](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373340720)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Navy--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 46](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373373488)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Navy--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Fanetta / 41](https://trefir.com/products/work-clogs-for-men-154332?variant=42727372816432)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Fanetta / 42](https://trefir.com/products/work-clogs-for-men-154332?variant=42727372849200)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Fanetta / 43](https://trefir.com/products/work-clogs-for-men-154332?variant=42727372881968)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Fanetta / 44](https://trefir.com/products/work-clogs-for-men-154332?variant=42727372914736)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Fanetta / 45](https://trefir.com/products/work-clogs-for-men-154332?variant=42727372947504)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Fanetta / 46](https://trefir.com/products/work-clogs-for-men-154332?variant=42727372980272)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Fanetta / 41](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373013040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Fanetta / 42](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373045808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Fanetta / 43](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373078576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Fanetta / 44](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373111344)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Fanetta / 45](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373144112)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Fanetta / 46](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373176880)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 41](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373406256)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_White--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 42](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373439024)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_White--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 43](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373471792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_White--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 44](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373504560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_White--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 45](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373537328)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_White--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 46](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373570096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_White--Synthetic-Fanetta_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373602864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 42](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373635632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 43](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373668400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 44](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373701168)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 45](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373733936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 46](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373766704)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Black--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Nubuck / 41](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373799472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Nubuck / 42](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373832240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Nubuck / 43](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373865008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Nubuck / 44](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373897776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Nubuck / 45](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373930544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Brown : Synthetic Nubuck / 46](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373963312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Brown--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Grey : Synthetic Nubuck / 41](https://trefir.com/products/work-clogs-for-men-154332?variant=42727373996080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Grey--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Grey : Synthetic Nubuck / 42](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374028848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Grey--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Grey : Synthetic Nubuck / 43](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374061616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Grey--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Grey : Synthetic Nubuck / 44](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374094384)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Grey--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Grey : Synthetic Nubuck / 45](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374127152)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Grey--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Grey : Synthetic Nubuck / 46](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374159920)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Grey--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Nubuck / 41](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374192688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Khaki--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Nubuck / 42](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374225456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Khaki--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Nubuck / 43](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374258224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Khaki--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Nubuck / 44](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374290992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Khaki--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Nubuck / 45](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374323760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Khaki--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Nubuck / 46](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374356528)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Khaki--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Mink : Synthetic Nubuck / 41](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374389296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Mink--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Mink : Synthetic Nubuck / 42](https://trefir.com/products/work-clogs-for-men-154332?variant=42727374422064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154332_Mink--Synthetic-Nubuck_1.jpg?v=1773388590
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
 - [Comfort Clogs Women 154312](https://trefir.com/products/comfort-clogs-women-154312): Combining comfort with understated elegance, our women’s clogs are suitable for both work use and everyday wear, offering long-lasting comfort thanks to their soft sole. Explore now.
-  Updated: 2026-07-01T16:01:56Z
+  Updated: 2026-08-08T12:32:12Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1178,185 +1178,185 @@
   - [Khaki : Synthetic Fanetta / 37](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371472944)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Khaki--Synthetic-Fanettta_1.jpg?v=1772794964
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Fanetta / 38](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371505712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Khaki--Synthetic-Fanettta_1.jpg?v=1772794964
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Fanetta / 39](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371538480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Khaki--Synthetic-Fanettta_1.jpg?v=1772794964
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Fanetta / 40](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371571248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Khaki--Synthetic-Fanettta_1.jpg?v=1772794964
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Khaki : Synthetic Fanetta / 41](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371604016)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Khaki--Synthetic-Fanettta_1.jpg?v=1772794964
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 37](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371636784)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_White--Synthetic-Fanetta_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 38](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371669552)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_White--Synthetic-Fanetta_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 39](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371702320)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_White--Synthetic-Fanetta_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 40](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371735088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_White--Synthetic-Fanetta_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 41](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371767856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_White--Synthetic-Fanetta_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 37](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371800624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 38](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371833392)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 39](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371866160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 40](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371898928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371931696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 37](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371964464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 38](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371997232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 39](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372030000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 40](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372062768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 41](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372095536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Fanetta / 37](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371309104)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Beige--Synthetic-Pisa-1.jpg?v=1778061260
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Fanetta / 38](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371341872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Beige--Synthetic-Pisa-1.jpg?v=1778061260
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Fanetta / 39](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371374640)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Beige--Synthetic-Pisa-1.jpg?v=1778061260
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Fanetta / 40](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371407408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Beige--Synthetic-Pisa-1.jpg?v=1778061260
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Fanetta / 41](https://trefir.com/products/comfort-clogs-women-154312?variant=42727371440176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Beige--Synthetic-Pisa-1.jpg?v=1778061260
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Powder : Synthetic Nubuck / 37](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372128304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Powder--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Powder : Synthetic Nubuck / 38](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372161072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Powder--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Powder : Synthetic Nubuck / 39](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372193840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Powder--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Powder : Synthetic Nubuck / 40](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372226608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Powder--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Powder : Synthetic Nubuck / 41](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372259376)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Powder--Synthetic-Nubuck_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Red : Synthetic Nubuck / 37](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372292144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Red--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Red : Synthetic Nubuck / 38](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372324912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Red--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Red : Synthetic Nubuck / 39](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372357680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Red--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Red : Synthetic Nubuck / 40](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372390448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Red--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Red : Synthetic Nubuck / 41](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372423216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Red--Synthetic-Nubuck_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Pisa / 37](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372455984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Pisa_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Pisa / 38](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372488752)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Pisa_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Pisa / 39](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372521520)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Pisa_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Pisa / 40](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372554288)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Pisa_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Pisa / 41](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372587056)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Black--Synthetic-Pisa_1.jpg?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 37](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372619824)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Fanetta_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 38](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372652592)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Fanetta_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 39](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372685360)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Fanetta_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 40](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372718128)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Fanetta_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Fanetta / 41](https://trefir.com/products/comfort-clogs-women-154312?variant=42727372750896)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154312_Navy--Synthetic-Fanetta_1.webp?v=1773387176
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
 - [Dr. Klompa Mens Sabo 154304](https://trefir.com/products/work-clogs-for-men-154304): -
-  Updated: 2026-06-30T12:29:14Z
+  Updated: 2026-07-17T23:24:59Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1482,7 +1482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154304_Brown--Synthetic-Marlow_1.jpg?v=1750149653
     Price: ₺609,00 TRY
 - [Dr. Klompa Mens Sabo 154304 Action Leather](https://trefir.com/products/work-clogs-for-men-154304-action-leather): 06 black taban beige insole-black taban beige insole
-  Updated: 2026-06-30T12:29:14Z
+  Updated: 2026-08-05T20:52:41Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1600,7 +1600,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154304_White--Action-Leather_1.jpg?v=1773135853
     Price: ₺828,75 TRY
 - [Everyday Comfort Mens Clogs 154303](https://trefir.com/products/work-clogs-for-men-154303): Ideal for everyday use, these men's clogs feature a simple, stylish design, leather look, and lightweight construction, making them suitable for both indoor and outdoor use. Explore now.
-  Updated: 2026-07-05T22:51:17Z
+  Updated: 2026-08-07T21:04:22Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1608,205 +1608,205 @@
   - [Brown : Synthetic Marlow / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369703472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Marlow_1.jpg?v=1766643183
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Marlow / 42](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369736240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Marlow_1.jpg?v=1766643183
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Marlow / 43](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369769008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Marlow_1.jpg?v=1766643183
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Marlow / 44](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369801776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Marlow_1.jpg?v=1766643183
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Marlow / 45](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369834544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Marlow_1.jpg?v=1766643183
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Marlow / 46](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369867312)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Marlow_1.jpg?v=1766643183
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Marlow / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369506864)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Marlow_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Marlow / 42](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369539632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Marlow_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Marlow / 43](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369572400)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Marlow_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Marlow / 44](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369605168)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Marlow_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Marlow / 45](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369637936)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Marlow_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Marlow / 46](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369670704)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Marlow_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Navy : Synthetic Marlow / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369900080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Navy--Synthetic-Marlow_1.jpg?v=1773049679
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Navy : Synthetic Marlow / 42](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369932848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Navy--Synthetic-Marlow_1.jpg?v=1773049679
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Navy : Synthetic Marlow / 43](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369965616)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Navy--Synthetic-Marlow_1.jpg?v=1773049679
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Navy : Synthetic Marlow / 44](https://trefir.com/products/work-clogs-for-men-154303?variant=42727369998384)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Navy--Synthetic-Marlow_1.jpg?v=1773049679
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Navy : Synthetic Marlow / 45](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370031152)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Navy--Synthetic-Marlow_1.jpg?v=1773049679
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Navy : Synthetic Marlow / 46](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370063920)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Navy--Synthetic-Marlow_1.jpg?v=1773049679
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Nubuck / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370293296)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Nubuck / 42](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370326064)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Nubuck / 43](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370358832)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Nubuck / 44](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370391600)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Nubuck / 45](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370424368)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Brown : Synthetic Nubuck / 46](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370457136)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Brown--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370096688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Nubuck / 42](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370129456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Nubuck / 43](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370162224)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Nubuck / 44](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370194992)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Nubuck / 45](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370227760)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Nubuck / 46](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370260528)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Black--Synthetic-Nubuck_1.jpg?v=1773049625
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Grey : Synthetic Nubuck / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370489904)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Grey--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Grey : Synthetic Nubuck / 42](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370522672)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Grey--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Grey : Synthetic Nubuck / 43](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370555440)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Grey--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Grey : Synthetic Nubuck / 44](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370588208)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Grey--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Grey : Synthetic Nubuck / 45](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370620976)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Grey--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Grey : Synthetic Nubuck / 46](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370653744)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Grey--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Mink : Synthetic Nubuck / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370686512)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Mink--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Mink : Synthetic Nubuck / 42](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370719280)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Mink--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Mink : Synthetic Nubuck / 43](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370752048)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Mink--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Mink : Synthetic Nubuck / 44](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370784816)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Mink--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Mink : Synthetic Nubuck / 45](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370817584)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Mink--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Mink : Synthetic Nubuck / 46](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370850352)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Mink--Synthetic-Nubuck_1.jpg?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370883120)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_White--Synthetic-Fanetta_1.webp?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 42](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370915888)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_White--Synthetic-Fanetta_1.webp?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 43](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370948656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_White--Synthetic-Fanetta_1.webp?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 44](https://trefir.com/products/work-clogs-for-men-154303?variant=42727370981424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_White--Synthetic-Fanetta_1.webp?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 45](https://trefir.com/products/work-clogs-for-men-154303?variant=42727371014192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_White--Synthetic-Fanetta_1.webp?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 46](https://trefir.com/products/work-clogs-for-men-154303?variant=42727371046960)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_White--Synthetic-Fanetta_1.webp?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Tobacco : Synthetic Fanetta / 41](https://trefir.com/products/work-clogs-for-men-154303?variant=42727371079728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Tobacco--Synthetic-Fanetta_1.webp?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Tobacco : Synthetic Fanetta / 42](https://trefir.com/products/work-clogs-for-men-154303?variant=42727371112496)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154303_Tobacco--Synthetic-Fanetta_1.webp?v=1773388937
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
 - [Dr. Klompa Womens Sabo 154301](https://trefir.com/products/comfort-clogs-women-154301): Designed with a focus on comfort, our women’s clogs are suitable for both work use and everyday wear, providing long-lasting comfort thanks to their soft sole. Explore now.
-  Updated: 2026-06-30T12:29:15Z
+  Updated: 2026-07-22T14:23:49Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1814,65 +1814,65 @@
   - [Beige : Synthetic Afrin / 37](https://trefir.com/products/comfort-clogs-women-154301?variant=42727368982576)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Beige--Synthetic-Fanetta_1.jpg?v=1750149917
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Beige : Synthetic Afrin / 38](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369015344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Beige--Synthetic-Fanetta_1.jpg?v=1750149917
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Beige : Synthetic Afrin / 39](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369048112)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Beige--Synthetic-Fanetta_1.jpg?v=1750149917
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Beige : Synthetic Afrin / 40](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369080880)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Beige--Synthetic-Fanetta_1.jpg?v=1750149917
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Beige : Synthetic Afrin / 41](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369113648)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Beige--Synthetic-Fanetta_1.jpg?v=1750149917
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Fanetta / 37](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369146416)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Black--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Fanetta / 38](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369179184)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Black--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Fanetta / 39](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369211952)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Black--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Fanetta / 40](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369244720)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Black--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [Black : Synthetic Fanetta / 41](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369277488)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_Black--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 37](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369310256)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_White--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 38](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369343024)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_White--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 39](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369375792)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_White--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 40](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369408560)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_White--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
   - [White : Synthetic Fanetta / 41](https://trefir.com/products/comfort-clogs-women-154301?variant=42727369441328)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154301_White--Synthetic-Fanetta_1.jpg?v=1773152905
-    Price: ₺780,75 TRY
+    Price: ₺860,00 TRY
 - [Dr. Klompa Womens Sandals 154228](https://trefir.com/products/cloud-cushion-sandals-women-154228): Designed for everyday comfort, our women’s sandal combines stylish colors with a soft, cushioned sole for all-day wear. Explore now.
-  Updated: 2026-07-07T19:12:47Z
+  Updated: 2026-08-06T08:15:47Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1914,7 +1914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154228_Red-Dark-Navy--Synthetic-Nubuck_1.jpg?v=1773153901
     Price: ₺849,00 TRY
   - [Red-Dark Navy : Synthetic Nubuck / 41](https://trefir.com/products/cloud-cushion-sandals-women-154228?variant=42115492184112)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154228_Red-Dark-Navy--Synthetic-Nubuck_1.jpg?v=1773153901
     Price: ₺849,00 TRY
   - [Powder-Dark Navy : Synthetic Nubuck / 37](https://trefir.com/products/cloud-cushion-sandals-women-154228?variant=42115491889200)
@@ -1938,7 +1938,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154228_Powder-Dark-Navy--Synthetic-Nubuck_1.webp?v=1773153901
     Price: ₺849,00 TRY
 - [Cloud Cushion Sandals Women 154226](https://trefir.com/products/cloud-cushion-sandals-women-154226): Designed for those looking for comfortable women’s sandals, the DR KLOMPA sandal offers all-day comfort with its lightweight design and supportive sole.
-  Updated: 2026-06-30T12:29:16Z
+  Updated: 2026-07-27T11:51:42Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1956,7 +1956,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154226_Grey-Navy--Synthetic-Nubuck_1.jpg?v=1773153599
     Price: ₺849,00 TRY
   - [Grey-Navy : Synthetic Nubuck / 40](https://trefir.com/products/cloud-cushion-sandals-women-154226?variant=42115492315184)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154226_Grey-Navy--Synthetic-Nubuck_1.jpg?v=1773153599
     Price: ₺849,00 TRY
   - [Grey-Navy : Synthetic Nubuck / 41](https://trefir.com/products/cloud-cushion-sandals-women-154226?variant=42115492347952)
@@ -1964,7 +1964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154226_Grey-Navy--Synthetic-Nubuck_1.jpg?v=1773153599
     Price: ₺849,00 TRY
   - [Tobacco-Khaki : Synthetic Nubuck-Fanetta / 37](https://trefir.com/products/cloud-cushion-sandals-women-154226?variant=42115492380720)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154226_Tobacco-Khaki--Synthetic-Nubuck-Fanetta_1.jpg?v=1773153599
     Price: ₺849,00 TRY
   - [Tobacco-Khaki : Synthetic Nubuck-Fanetta / 38](https://trefir.com/products/cloud-cushion-sandals-women-154226?variant=42115492413488)
@@ -2004,7 +2004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sandals_154226_Black--Synthetic-Nubuck-Rugan_1.jpg?v=1773153599
     Price: ₺849,00 TRY
 - [Dr. Klompa Mens Slippers 154144](https://trefir.com/products/plush-memory-foam-slippers-men-154144): Designed for everyday comfort, our men’s slippers combine a stylish look with a soft sole for indoor and outdoor wear. Shop now
-  Updated: 2026-06-30T12:29:16Z
+  Updated: 2026-07-14T21:59:07Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2178,7 +2178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154144_White--Synthetic-Fanetta_1.jpg?v=1773387983
     Price: ₺849,00 TRY
 - [Plush Memory Foam Slippers Men 154133](https://trefir.com/products/plush-memory-foam-slippers-men-154133): Soft-soled men’s slippers feature a leather-look design and a lightweight, comfortable structure, offering ease of use both indoors and outdoors. Explore now.
-  Updated: 2026-07-08T12:49:57Z
+  Updated: 2026-08-02T11:41:12Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2221,39 +2221,39 @@
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 40](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497361456)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1777548390
+    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1785415250
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497394224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1777548390
+    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1785415250
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 42](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497426992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1777548390
+    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1785415250
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 43](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497459760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1777548390
+    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1785415250
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 44](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497492528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1777548390
+    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1785415250
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 45](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497525296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1777548390
+    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1785415250
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 46](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497558064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1777548390
+    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1785415250
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 47](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497590832)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1777548390
+    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1785415250
     Price: ₺849,00 TRY
   - [Black : Synthetic Nubuck / 48](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497623600)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1777548390
+    Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Black--Synthetic-Nubuck_v2_1.png?v=1785415250
     Price: ₺849,00 TRY
   - [Tobacco : Synthetic Nubuck / 40](https://trefir.com/products/plush-memory-foam-slippers-men-154133?variant=42115497656368)
     Availability: Not Available
@@ -2292,7 +2292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154133_Tobacco--Synthetic-Nubuck_1.jpg?v=1750150017
     Price: ₺849,00 TRY
 - [Dr. Klompa Womens Slippers 154024](https://trefir.com/products/plush-memory-foam-slippers-women-154024): Combining comfort and elegance, our women’s slippers provide all-day comfort with an exceptionally soft sole. Explore now.
-  Updated: 2026-07-06T11:47:57Z
+  Updated: 2026-08-08T20:32:21Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2410,7 +2410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154024_Mink-Black--Synthetic-Nubuck-Satin_1.webp?v=1773153493
     Price: ₺849,00 TRY
   - [Mink-Black : Synthetic Satin-Nubuck / 40](https://trefir.com/products/plush-memory-foam-slippers-women-154024?variant=42115506307120)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154024_Mink-Black--Synthetic-Nubuck-Satin_1.webp?v=1773153493
     Price: ₺849,00 TRY
   - [Mink-Black : Synthetic Satin-Nubuck / 41](https://trefir.com/products/plush-memory-foam-slippers-women-154024?variant=42115506339888)
@@ -2438,7 +2438,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154024_Beige-Powder--Synthetic-Nubuck-Rugan_4.webp?v=1773153493
     Price: ₺849,00 TRY
 - [Dr. Klompa Womens Sabo 154890](https://trefir.com/products/comfort-clogs-women-154890): Designed for those looking for soft-soled women’s slippers, this women’s clog offers lightweight comfort for everyday use. Explore now.
-  Updated: 2026-07-07T22:02:17Z
+  Updated: 2026-08-04T06:10:46Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2446,125 +2446,125 @@
   - [White : Synthetic Fanetta / 37](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367639088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_White--Synthetic-Fanetta_1.jpg?v=1750149433
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 38](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367671856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_White--Synthetic-Fanetta_1.jpg?v=1750149433
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 39](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367704624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_White--Synthetic-Fanetta_1.jpg?v=1750149433
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 40](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367737392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_White--Synthetic-Fanetta_1.jpg?v=1750149433
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [White : Synthetic Fanetta / 41](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367770160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_White--Synthetic-Fanetta_1.jpg?v=1750149433
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Felt / 37](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367802928)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Felt_1.jpg?v=1750149592
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Felt / 38](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367835696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Felt_1.jpg?v=1750149592
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Felt / 39](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367868464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Felt_1.jpg?v=1750149592
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Felt / 40](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367901232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Felt_1.jpg?v=1750149592
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Felt / 41](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367934000)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Felt_1.jpg?v=1750149592
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Mozaik / 37](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367966768)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Mozaik_1.jpg?v=1750149434
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Mozaik / 38](https://trefir.com/products/comfort-clogs-women-154890?variant=42727367999536)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Mozaik_1.jpg?v=1750149434
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Mozaik / 39](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368032304)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Mozaik_1.jpg?v=1750149434
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Mozaik / 40](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368065072)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Mozaik_1.jpg?v=1750149434
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Mozaik / 41](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368097840)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Mozaik_1.jpg?v=1750149434
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Nubuck / 37](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368130608)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Nubuck / 38](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368163376)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Nubuck / 39](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368196144)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Nubuck / 40](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368228912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Beige : Synthetic Nubuck / 41](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368261680)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Beige--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 37](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368294448)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 38](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368327216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 39](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368359984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 40](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368392752)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368425520)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Black--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 37](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368458288)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Navy--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 38](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368491056)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Navy--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 39](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368523824)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Navy--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 40](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368556592)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Navy--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
   - [Navy : Synthetic Nubuck / 41](https://trefir.com/products/comfort-clogs-women-154890?variant=42727368589360)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Sabo_154890_Navy--Synthetic-Nubuck_1.jpg?v=1773386836
-    Price: ₺750,75 TRY
+    Price: ₺825,00 TRY
 - [Plush Memory Foam Mens Slippers 154737](https://trefir.com/products/plush-memory-foam-slippers-men-154737): Men’s slippers featuring a soft sole and a comfort-focused design, delivering ease and support for everyday indoor and outdoor wear. Explore now.
-  Updated: 2026-06-30T12:29:18Z
+  Updated: 2026-08-05T19:42:06Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2578,7 +2578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154737_Black--Synthetic-Pako_1.jpg?v=1750150019
     Price: ₺970,00 TRY
   - [Black-Black : Synthetic Pako / 43](https://trefir.com/products/plush-memory-foam-slippers-men-154737?variant=42115620339760)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154737_Black--Synthetic-Pako_1.jpg?v=1750150019
     Price: ₺970,00 TRY
   - [Black-Black : Synthetic Pako / 44](https://trefir.com/products/plush-memory-foam-slippers-men-154737?variant=42115620372528)
@@ -2598,7 +2598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154737_Brown--Synthetic-Pako_1.jpg?v=1750150019
     Price: ₺970,00 TRY
   - [Black-Brown : Synthetic Pako / 42](https://trefir.com/products/plush-memory-foam-slippers-men-154737?variant=42115620503600)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154737_Brown--Synthetic-Pako_1.jpg?v=1750150019
     Price: ₺970,00 TRY
   - [Black-Brown : Synthetic Pako / 43](https://trefir.com/products/plush-memory-foam-slippers-men-154737?variant=42115620536368)
@@ -2690,13 +2690,13 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154737_Navy--Synthetic-Pako_1.jpg?v=1750150019
     Price: ₺970,00 TRY
 - [Dr. Klompa Womens Slippers 154711](https://trefir.com/products/plush-memory-foam-slippers-women-154711): Soft-soled women’s slippers with a comfort-focused design provide relaxed all-day wear for indoor and everyday use. Explore now.
-  Updated: 2026-07-08T07:40:06Z
+  Updated: 2026-08-07T17:22:17Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_White--Synthetic-Fanetta_1.jpg?v=1773150638
   - [White : Synthetic Fanetta / 37](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115621781552)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_White--Synthetic-Fanetta_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [White : Synthetic Fanetta / 38](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115621814320)
@@ -2704,7 +2704,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_White--Synthetic-Fanetta_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [White : Synthetic Fanetta / 39](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115621847088)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_White--Synthetic-Fanetta_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [White : Synthetic Fanetta / 40](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115621879856)
@@ -2716,7 +2716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_White--Synthetic-Fanetta_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [Black : Synthetic Mozaik / 37](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115621945392)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_Black--Synthetic-Mozaik_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [Black : Synthetic Mozaik / 38](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115621978160)
@@ -2724,7 +2724,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_Black--Synthetic-Mozaik_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [Black : Synthetic Mozaik / 39](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115622010928)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_Black--Synthetic-Mozaik_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [Black : Synthetic Mozaik / 40](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115622043696)
@@ -2736,7 +2736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_Black--Synthetic-Mozaik_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [Black : Synthetic Nubuck / 37](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115622109232)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_Black--Synthetic-Nubuck_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [Black : Synthetic Nubuck / 38](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115622142000)
@@ -2752,7 +2752,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_Black--Synthetic-Nubuck_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115622240304)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_Black--Synthetic-Nubuck_1.jpg?v=1773150638
     Price: ₺839,00 TRY
   - [Grey : Synthetic Nubuck / 37](https://trefir.com/products/plush-memory-foam-slippers-women-154711?variant=42115622273072)
@@ -2776,7 +2776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Womens_Slippers_154711_Grey--Synthetic-Nubuck_1.jpg?v=1767871593
     Price: ₺839,00 TRY
 - [Cloud Cushioned Sandals Men 154700](https://trefir.com/products/cloud-cushion-sandals-men-154700): Among our soft-soled men’s sandals, the DR KLOMPA men’s sandal is suitable for everyday wear with its lightweight and comfort-focused design. Explore now.
-  Updated: 2026-07-08T22:05:37Z
+  Updated: 2026-08-07T18:52:26Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2794,7 +2794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154700_Brown--Synthetic-Nubuck_1.jpg?v=1750148679
     Price: ₺1.066,00 TRY
   - [Brown : Synthetic Nubuck / 44](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42115627614256)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154700_Brown--Synthetic-Nubuck_1.jpg?v=1750148679
     Price: ₺1.066,00 TRY
   - [Brown : Synthetic Nubuck / 45](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42115627647024)
@@ -2806,7 +2806,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sabo_154700_Brown--Synthetic-Nubuck_1.jpg?v=1750148679
     Price: ₺1.066,00 TRY
   - [Black : Synthetic Nubuck / 41](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42115627319344)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_Black--Synthetic-Nubuck_1.jpg?v=1750149952
     Price: ₺1.066,00 TRY
   - [Black : Synthetic Nubuck / 42](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42115627352112)
@@ -2818,7 +2818,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_Black--Synthetic-Nubuck_1.jpg?v=1750149952
     Price: ₺1.066,00 TRY
   - [Black : Synthetic Nubuck / 44](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42115627417648)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_Black--Synthetic-Nubuck_1.jpg?v=1750149952
     Price: ₺1.066,00 TRY
   - [Black : Synthetic Nubuck / 45](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42115627450416)
@@ -2830,7 +2830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_Black--Synthetic-Nubuck_1.jpg?v=1750149952
     Price: ₺1.066,00 TRY
   - [White : Synthetic Fanetta / 41](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42696383954992)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_White--Synthetic-Fanetta_1.jpg?v=1750148678
     Price: ₺1.066,00 TRY
   - [White : Synthetic Fanetta / 42](https://trefir.com/products/cloud-cushion-sandals-men-154700?variant=42696383987760)
@@ -2854,7 +2854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Sandals_154700_White--Synthetic-Fanetta_1.jpg?v=1750148678
     Price: ₺1.066,00 TRY
 - [Plush Memory Foam Slippers Men 154685](https://trefir.com/products/plush-memory-foam-slippers-men-154685): Comfort-focused men’s slippers with a soft sole provide lightweight, all-day ease for indoor and everyday use. Explore now.
-  Updated: 2026-07-08T16:05:26Z
+  Updated: 2026-07-30T00:20:56Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2904,7 +2904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_Brown--Synthetic-Fanetta_1.jpg?v=1773147658
     Price: ₺972,00 TRY
   - [Brown : Synthetic Fanetta / 46](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115635052592)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_Brown--Synthetic-Fanetta_1.jpg?v=1773147658
     Price: ₺972,00 TRY
   - [Navy : Synthetic Fanetta / 41](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115635085360)
@@ -2940,7 +2940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_White--Synthetic-Fanetta_1.jpg?v=1773147658
     Price: ₺972,00 TRY
   - [White : Synthetic Fanetta / 43](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115635347504)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_White--Synthetic-Fanetta_1.jpg?v=1773147658
     Price: ₺972,00 TRY
   - [White : Synthetic Fanetta / 44](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115635380272)
@@ -3004,7 +3004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_Grey--Synthetic-Nubuck_1.jpg?v=1773147658
     Price: ₺972,00 TRY
   - [Khaki : Synthetic Nubuck / 41](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115635871792)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_Khaki--Synthetic-Nubuck_1.jpg?v=1773387815
     Price: ₺972,00 TRY
   - [Khaki : Synthetic Nubuck / 42](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115635904560)
@@ -3012,7 +3012,7 @@
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_Khaki--Synthetic-Nubuck_1.jpg?v=1773387815
     Price: ₺972,00 TRY
   - [Khaki : Synthetic Nubuck / 43](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115635937328)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0596/9005/7776/files/Mens_Slippers_154685_Khaki--Synthetic-Nubuck_1.jpg?v=1773387815
     Price: ₺972,00 TRY
   - [Khaki : Synthetic Nubuck / 44](https://trefir.com/products/plush-memory-foam-slippers-men-154685?variant=42115635970096)
@@ -3035,25 +3035,25 @@
   Updated: 2026-05-21T13:53:34Z
   Total Products: 1
 - [Mens](https://trefir.com/collections/mens-footwear): Discover men's orthopedic clogs, slippers, and sandals! 🦶✨ Experience superior comfort and support with our stylish footwear. Perfect for all-day wear! 👟💼
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 58
 - [Sandals](https://trefir.com/collections/sandals): Explore our collection of orthopedic sandals designed for superior comfort and support. Shop now and find your perfect pair for happier, healthier feet 👟💼
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 29
 - [Women's Footwear](https://trefir.com/collections/womens-footwear): Discover fully anatomic women's clogs, sandals, and daily slipper models offering all-day comfort. Buy high quality designs today with Trefir assurance!
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 52
 - [Men's Sandals](https://trefir.com/collections/mens-sandals): Shop stylish men's sandals designed for comfort and support! 🌞🦶 Perfect for any occasion, our collection offers the ideal blend of style and durability. 👟✨
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 9
 - [Men's Slippers](https://trefir.com/collections/mens-slippers): Discover orthopedic slippers designed for comfort and support! 🦶✨ Perfect for soothing tired feet with cushioning and stability. Shop now for happier feet! 🛒
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-06T11:18:57Z
   Total Products: 20
 - [Women's Slippers](https://trefir.com/collections/womens-slippers): Indulge in our stylish women's slippers for cozy comfort at home! 🛋️💕 Soft and supportive, they're perfect for relaxing after a long day. Shop your favorites now! 👡✨
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 25
 - [Women's Sandals](https://trefir.com/collections/womens-sandals): Explore our stylish women's sandals for ultimate comfort and flair! 🌼👡 Perfect for any occasion, enjoy chic designs that support your every step. Shop now! ✨
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-05T11:16:03Z
   Total Products: 15
 - [Men's Boots](https://trefir.com/collections/mens-boots)
   Updated: 2026-05-21T13:54:45Z
@@ -3062,79 +3062,79 @@
   Updated: 2026-05-21T13:54:32Z
   Total Products: 0
 - [Men's Clogs - Sabo Slippers](https://trefir.com/collections/mens-clogs-sabo-slippers): Discover our collection of men's clogs for unmatched comfort and style! 🦶✨ Perfect for everyday wear, enjoy support and durability with every step. Shop now! 👟
-  Updated: 2026-07-06T11:16:14Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 5
 - [Women's Clogs - Sabo Slippers](https://trefir.com/collections/womens-clogs-sabo-slippers): Step into style with our women's clogs designed for comfort and support! 🦶✨ Perfect for any occasion, enjoy trendy designs that keep your feet happy. Shop now! 👟💖
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-07T11:13:46Z
   Total Products: 12
 - [Men's Casual Shoes](https://trefir.com/collections/mens-casual-shoes)
-  Updated: 2026-06-30T12:29:11Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 17
 - [Clogs - Sabo Slippers](https://trefir.com/collections/clogs): Shop stylish orthopedic clogs for all-day comfort. Enjoy superior arch support and cushioning for healthier feet—perfect for those on their feet!
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 88
 - [Loafers](https://trefir.com/collections/loafers)
   Updated: 2026-05-21T13:54:20Z
   Total Products: 0
 - [Slippers](https://trefir.com/collections/slippers): High quality, anatomic Trefir slippers designed to pamper your feet in daily life. Discover our extra-cushioned, comfortable models with free shipping!
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 75
 - [Boots](https://trefir.com/collections/boots)
   Updated: 2026-06-06T10:45:27Z
   Total Products: 7
 - [Casual Shoes](https://trefir.com/collections/casual-shoes)
-  Updated: 2026-06-19T11:15:55Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 19
 - [Best Sellers](https://trefir.com/collections/best-sellers)
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 14
 - [Winter Footwear](https://trefir.com/collections/winter-footwear): Trefir winter footwear combines warmth for winter and support for long days for you. Explore your new favorite pair for winter!
-  Updated: 2026-06-06T10:47:48Z
+  Updated: 2026-07-14T11:16:52Z
   Total Products: 8
 - [Winter Women's Footwear](https://trefir.com/collections/winter-womens-footwear): Trefir winter women's footwear combines warmth for winter and support for long days for you. Explore your new favorite pair for winter!
-  Updated: 2026-06-06T10:47:58Z
+  Updated: 2026-07-14T11:16:52Z
   Total Products: 7
 - [Winter Men's](https://trefir.com/collections/winter-mens)
   Updated: 2026-05-21T13:52:53Z
   Total Products: 0
 - [Full Catalog](https://trefir.com/collections/full-collection): Explore our orthopedic clogs, slippers, and sandals! 🦶✨ Enjoy unmatched comfort and support for your feet. Shop now for stylish footwear that cares! 🛒
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 110
 - [Sabo Best Sellers](https://trefir.com/collections/sabo-best-sellers)
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 5
 - [Buy 2 Get 3!](https://trefir.com/collections/buy-2-get-3): This  is valid only for the products displayed on this page. When you add 3 units of the same or different products from this page to your cart, 1 item will be automatically free. This offer cannot be combined with other active promotions. However, if the products displayed on this page meet the conditions of other active campaigns, you can still benefit from those promotions when adding 1 or 2 items to your cart.
-  Updated: 2026-06-06T17:20:28Z
+  Updated: 2026-07-14T11:16:52Z
   Total Products: 8
 - [Kadın Konfor Terlikleri](https://trefir.com/collections/kadin-konfor-terlikleri): Kadınlar için en rahat terlik modelleri Trefir'de. Destekleyici, yumuşak tabanlı kadın konfor terlikleri ile her adımda rahatlık hissedin.
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 25
 - [Erkek Konfor Terlikleri](https://trefir.com/collections/erkek-konfor-terlikleri): Erkekler için en rahat terlik modelleri Trefir'de. Yumuşak tabanlı, hafif ve dayanıklı erkek konfor terlikleri ile günlük rahatlığınızı artırın.
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-06T11:18:57Z
   Total Products: 20
 - [Dr Klompa Footwear](https://trefir.com/collections/dr-klompa-footwear): Discover Dr. Klompa's fully anatomic clogs and sandal models with carefully designed soles. Buy these supreme comfortable designs with Trefir assurance!
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 146
 - [Comfortable Summer Sandals and Slippers for Women](https://trefir.com/collections/comfortable-summer-sandals-and-slippers-for-women): Discover Trefir women's summer sandals and slippers with cushioned soles that refresh your feet in the summer heat. Order comfortable and anatomic models securely!
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 35
 - [Comfortable Summer Sandals and Slippers for Men](https://trefir.com/collections/comfortable-summer-sandals-and-slippers-for-men): Discover Trefir anatomic men's sandals and slippers that let your feet breathe in summer. Order sweat-proof, lightweight, and comfortable designs today!
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 16
 - [Genuine Leather Collection](https://trefir.com/collections/genuine-leather-collection): Explore the 100% genuine leather Trefir men's collection! Shop our premium sandals, slippers, and casual shoes for timeless elegance. Order today!
-  Updated: 2026-07-07T11:13:37Z
+  Updated: 2026-08-06T11:18:57Z
   Total Products: 32
 - [New Products](https://trefir.com/collections/new-products)
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-06T11:18:57Z
   Total Products: 30
 - [Summer Collection](https://trefir.com/collections/summer-collection): Discover Trefir Spring/Summer ! Shop stylish, breathable, and orthopedic men's & women's sandals and slippers. 35 years of comfort in every step.
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 52
 - [Home & Lifestyle Comfort](https://trefir.com/collections/home-lifestyle-comfort): Bring home comfort to the streets. Explore our Home & Lifestyle Comfort collection featuring high quality clogs and slippers designed for both indoor and outdoor wear.
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 47
 - [Best Sellers New](https://trefir.com/collections/best-sellers-new)
-  Updated: 2026-07-08T11:13:20Z
+  Updated: 2026-08-08T11:16:32Z
   Total Products: 29
 
 ## Blogs
@@ -3159,6 +3159,15 @@
     Updated: 2026-05-12T13:51:44Z
     Author: Yaren Özen
     Tags: Travel Tips
+  - [10 Effective Ways to Keep Your Feet Healthy During Summer](https://trefir.com/blogs/blog/summer-foot-care-tips): <p>Stay comfortable and protect your feet all summer long with these 10 practical foot care tips. Learn how choosing the right footwear, maintaining proper hygiene, and following simple daily habits can help prevent common foot problems while keeping your feet healthy and supported.</p>
+    Updated: 2026-08-06T06:42:03Z
+    Author: Yaren Özen
+  - [Sandals or Slippers? Which One Should You Choose?](https://trefir.com/blogs/blog/sandals-or-slippers): <p>Not sure whether to choose sandals or slippers? Learn the key differences, their advantages, and which option is best for everyday wear, vacations, walking, and all-day comfort.</p>
+    Updated: 2026-08-08T09:00:05Z
+    Author: Yaren Özen
+  - [How to Choose the Right Sandal Size: A Complete Fit Guide](https://trefir.com/blogs/blog/how-to-choose-the-right-sandal-size): <p>Choosing the right sandal size is essential for all-day comfort. Learn how to measure your feet, understand shoe sizing, and use size and fit guides to find your perfect pair.</p>
+    Updated: 2026-08-08T09:00:05Z
+    Author: Yaren Özen
 - [News](https://trefir.com/blogs/news)
   - [Rahat Ayakkabı Seçerken Dikkat Edilmesi Gereken 5 Önemli Faktör](https://trefir.com/blogs/news/rahat-ayakkabi-secerken-dikkat-edilmesi-gereken-5-onemli-faktor): <p><meta charset="utf-8">Ayakkabı seçimi sadece estetik bir karar değildir. Özellikle günün büyük bölümünü ayakta geçiren insanlar için, doğru ayakkabı seçmek sağlık ve konfor açısından kritik öneme sahiptir. Rahat ayakkabı, sadece hoş görünmekle kalmaz, aynı zamanda ayak sağlığınızı korur ve günlük yaşamınızda daha verimli olmanızı sağlar.</p>
     Updated: 2026-04-15T19:00:02Z
