@@ -6,60 +6,57 @@
 - Timezone: America/Chicago
 - Created At: 2026-06-25T01:53:29Z
 - Contact Email: info@shopsondera.co
-- Updated At: 2026-07-31T00:00:33.117Z
+- Updated At: 2026-08-09T00:00:36.162Z
 
 ## Products
 
 - [Flower Market Morning Mystery Puzzle | Sondera](https://shopsondera.co/products/flower-market-morning-the-missing-bouquet-puzzle-520-piece): Solve a colorful 520-piece flower market mystery, uncover hidden clues, submit your answer, and unlock an illustrated digital epilogue.
-  Updated: 2026-07-30T19:37:38Z
-  Vendor: Sondera
+  Updated: 2026-08-06T02:14:49Z
+  Vendor: Printify
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/6611/3999/files/flower-market-morning-the-missing-bouquet-520-piece-puzzle-3722380.jpg?v=1785438850
-  Price: $27.99 USD
+  Price: $31.99 USD
 - [The Very Civilized Dinner Party Mystery Puzzle | Sondera](https://shopsondera.co/products/the-very-civilized-dinner-party-7-03-pm-12-41-am-puzzle): Piece together a glamorous dinner party before and after midnight in this richly detailed 520-piece Plot Twist jigsaw puzzle from Sondera.
-  Updated: 2026-07-30T20:28:22Z
-  Vendor: Sondera
+  Updated: 2026-08-06T01:52:55Z
+  Vendor: Printify
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/6611/3999/files/the-very-civilized-dinner-party-703-pm-1241-am-520-piece-puzzle-7990203.jpg?v=1785438849
-  Price: $27.99 USD
+  Price: $31.99 USD
 - [The Last Toast at Hotel Sondera Mystery Puzzle | Sondera](https://shopsondera.co/products/the-last-toast-at-hotel-sondera-case-001-mystery-puzzle): Solve Case 001 of The Missing Piece Society in this richly detailed 520-piece Art Deco hotel mystery puzzle with hidden clues and a digital ending.
-  Updated: 2026-07-30T22:14:01Z
-  Vendor: Sondera
+  Updated: 2026-08-06T02:11:25Z
+  Vendor: Printify
   Product Type: Jigsaw Puzzle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0655/6611/3999/files/14782014106218731387_2048.jpg?v=1785446542
-  Price: $27.99 USD
+  Image: https://cdn.shopify.com/s/files/1/0655/6611/3999/files/the-last-toast-at-hotel-sondera-case-001-520-piece-mystery-puzzle-2718112.jpg?v=1785521298
+  Price: $31.99 USD
 
 ## Collections
 
 - [Current Drop](https://shopsondera.co/collections/current-drop): Shop Drop 001: The No Contact Motel, a Sondera collection of emotional artifacts for the person who almost texted back.
-  Updated: 2026-07-30T21:46:39Z
+  Updated: 2026-08-05T13:50:38Z
   Total Products: 3
-- [Sondera Piece Club](https://shopsondera.co/collections/sondera-piece-club): Original jigsaw puzzles and puzzle-night essentials made for good company, close races, and immediate rematches. Shop colorful puzzles designed for solo solving, head-to-head races, and social game nights.
-  Updated: 2026-07-30T21:47:19Z
+- [Jigsaw Puzzles](https://shopsondera.co/collections/jigsaw-puzzles): Shop every Sondera jigsaw puzzle, from immersive Hidden Worlds to before-and-after Plot Twists and numbered Mystery Cases. Each puzzle is designed as a complete visual story with a digital ending.
+  Updated: 2026-08-05T13:51:20Z
+  Total Products: 3
+- [After Dinner, Volume One](https://shopsondera.co/collections/after-dinner-volume-one): An elegant Sondera volume of evening mysteries, dinner-party disruptions, hotel secrets, and after-hours discoveries. After Dinner, Volume One brings together puzzles made for slow nights, shared tables, and one more clue before bed.
+  Updated: 2026-08-05T13:50:38Z
   Total Products: 2
-- [Jigsaw Puzzles](https://shopsondera.co/collections/jigsaw-puzzles): Shop original Sondera Piece Club jigsaw puzzles designed for satisfying solo solves, friendly races, and memorable puzzle nights. Explore detailed 500- and 520-piece formats.
-  Updated: 2026-07-30T21:47:20Z
+- [New Releases](https://shopsondera.co/collections/new-releases): Freshly released Sondera puzzles and newly opened cases. Browse the latest additions across every story format.
+  Updated: 2026-08-05T13:50:38Z
   Total Products: 3
-- [After Dinner, Volume One](https://shopsondera.co/collections/after-dinner-volume-one): The opening puzzle collection from Sondera Piece Club: colorful social scenes built for satisfying solo solves, friendly head-to-head races, and puzzle nights that end in rematches.
-  Updated: 2026-07-30T14:39:26Z
-  Total Products: 0
-- [New Releases](https://shopsondera.co/collections/new-releases): Discover the newest Sondera puzzles—unexpected endings, hidden details, and illustrated worlds designed to reward a second look.
-  Updated: 2026-07-30T21:46:38Z
-  Total Products: 3
-- [Hidden Worlds](https://shopsondera.co/collections/hidden-worlds): Beautiful illustrated worlds filled with hidden details, recurring characters, tiny stories, and discoveries that become meaningful after the final piece.
-  Updated: 2026-07-30T14:39:26Z
+- [Hidden Worlds](https://shopsondera.co/collections/hidden-worlds): Step into richly illustrated places where the main story is hiding in plain sight. Sondera Hidden Worlds puzzles pair beautiful scenes with subtle clues, small discoveries, and a digital ending revealed after the final piece.
+  Updated: 2026-08-05T13:50:37Z
   Total Products: 1
-- [Plot Twist](https://shopsondera.co/collections/plot-twist): The box sets the scene. The completed puzzle reveals what really happened. Plot Twist puzzles are built for surprise endings, gift reactions, and unforgettable final-piece reveals.The first Plot Twist release is currently being developed. Join the Sondera email list for the reveal.
-  Updated: 2026-07-30T18:40:08Z
+- [Plot Twist](https://shopsondera.co/collections/plot-twist): Two moments. One scene. Everything changed in between. Sondera Plot Twist puzzles invite you to compare the before and after, reconstruct the missing hours, and unlock the story behind the transformation.
+  Updated: 2026-08-05T13:50:38Z
   Total Products: 1
-- [Mystery Cases](https://shopsondera.co/collections/mystery-cases): Serialized puzzle investigations with hidden evidence, suspect behavior, visual contradictions, and digital endings. Complete the image, examine the scene, and submit your conclusion.The first Sondera Mystery Case is currently being developed. Case enrollment details will be announced before release.
-  Updated: 2026-07-30T21:46:38Z
+- [Mystery Cases](https://shopsondera.co/collections/mystery-cases): Open the file. Study the evidence. Decide what really happened. Sondera Mystery Cases are numbered, story-driven investigations with suspects, hidden clues, and a digital case ending unlocked after completion.
+  Updated: 2026-08-05T13:50:37Z
   Total Products: 1
-- [Bundles](https://shopsondera.co/collections/bundles): Build a full evening around the reveal. Sondera bundles will pair puzzles with multi-case sets, gift-ready collections, and household challenge formats.Bundles will open as the first Plot Twist and Mystery Case releases arrive.
-  Updated: 2026-07-29T17:57:47Z
+- [Bundles](https://shopsondera.co/collections/bundles): Curated Sondera puzzle sets designed for gifting, shared puzzle nights, and collecting complete story arcs. Bundles combine complementary titles across the main puzzle formats.
+  Updated: 2026-07-31T17:10:25Z
   Total Products: 0
 
 ## Blogs
