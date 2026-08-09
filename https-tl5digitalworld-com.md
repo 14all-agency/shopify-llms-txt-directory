@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-13T14:47:21Z
 - Contact Email: wldunlimitedventures@gmail.com
-- Updated At: 2026-07-28T00:00:36.111Z
+- Updated At: 2026-08-09T00:00:41.459Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPT_Image_Jun_11_2026_09_57_43_PM.png?v=1781229474
   Price: $12.00 USD
 - [AI Prompt Pack for Entrepreneurs to Boost Sales](https://tl5digitalworld.com/products/ai-prompt-pack-for-digital-entrepreneurs): Grow faster with AI Prompt Pack for Entrepreneurs. Get ready-to-use prompts to create content, automate tasks, and increase digital sales.
-  Updated: 2026-07-13T13:59:33Z
+  Updated: 2026-08-05T11:58:28Z
   Vendor: My Store
   Product Type: Digital Template
   Availability: Available
@@ -242,33 +242,40 @@
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul21_2026_08_28_46PM.png?v=1784680587
   Price: $19.99 USD
 - [Job Search Workbook: Stand Out, Get Interviews & Get Hired | TL5 Digital World](https://tl5digitalworld.com/products/job-search-workbook-stand-out-get-hired): Land your next job faster. This 26-page digital workbook covers ATS resume tips, LinkedIn optimization, interview prep, salary negotiation & a 90-day career plan.
-  Updated: 2026-07-23T20:41:26Z
+  Updated: 2026-07-28T18:22:57Z
   Vendor: TL5 Digital World
   Product Type: Digital Workbook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul22_2026_06_51_54PM.png?v=1784761461
   Price: $19.99 USD
 - [Remote Work Success Guide – Work From Home Workbook | TL5 Digital World](https://tl5digitalworld.com/products/remote-work-success-guide-workbook): Land a remote job, boost productivity & grow your income. 26-page interactive digital workbook. Instant download. Start today.
-  Updated: 2026-07-23T22:34:32Z
+  Updated: 2026-07-29T15:59:12Z
   Vendor: TL5 Digital World
   Product Type: Digital Workbook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul23_2026_05_39_51PM.png?v=1784845294
   Price: $19.99 USD
 - [Ultimate AI Toolkit for Entrepreneurs | Choose the Right AI Tool](https://tl5digitalworld.com/products/ultimate-ai-toolkit-entrepreneurs): Compare ChatGPT, Claude, Gemini & more. This professional guide helps entrepreneurs build the right AI stack for writing, research, coding & productivity.
-  Updated: 2026-07-24T22:17:13Z
+  Updated: 2026-07-29T19:54:55Z
   Vendor: TL5 Digital World
   Product Type: Digital Workbook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul23_2026_07_40_08PM.png?v=1784930705
   Price: $14.99 USD
 - [ChatGPT Masterclass Blueprint | 34-Page AI Workbook & Prompt Guide](https://tl5digitalworld.com/products/chatgpt-masterclass-blueprint-workbook): Master ChatGPT with this 34-page interactive workbook. Learn prompt engineering, business writing, automation & more. Instant digital download.
-  Updated: 2026-07-25T00:48:12Z
+  Updated: 2026-07-29T16:40:32Z
   Vendor: TL5 Digital World
   Product Type: Digital Workbook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul24_2026_06_22_59PM.png?v=1784939819
   Price: $29.99 USD
+- [Gemini AI Productivity Blueprint – Google AI Guide for Entrepreneurs](https://tl5digitalworld.com/products/gemini-ai-productivity-blueprint): Master Google Gemini AI with this step-by-step digital blueprint. Learn prompting, content creation, automation & more. Instant download.
+  Updated: 2026-08-06T01:19:04Z
+  Vendor: TL5 Digital World
+  Product Type: Digital Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ChatGPTImageJul29_2026_05_39_40PM.png?v=1785978184
+  Price: $19.99 USD
 
 ## Collections
 
@@ -285,7 +292,7 @@
   Updated: 2026-07-13T02:00:35Z
   Total Products: 3
 - [Content Creator Tool](https://tl5digitalworld.com/collections/content-creator-tool): Done-for-you content creator tools, caption packs, and AI templates to help digital entrepreneurs create faster and grow online.
-  Updated: 2026-07-13T02:01:17Z
+  Updated: 2026-07-30T11:24:47Z
   Total Products: 7
 - [Financial Recovery](https://tl5digitalworld.com/collections/financial-recovery)
   Updated: 2026-07-13T01:58:09Z
@@ -294,8 +301,8 @@
   Updated: 2026-07-13T01:58:19Z
   Total Products: 1
 - [Business & Entrepreneurship](https://tl5digitalworld.com/collections/business-entrepreneurship)
-  Updated: 2026-07-23T22:29:57Z
-  Total Products: 3
+  Updated: 2026-08-06T01:23:59Z
+  Total Products: 4
 - [Financial Education](https://tl5digitalworld.com/collections/financial-education)
   Updated: 2026-07-15T01:54:28Z
   Total Products: 3
@@ -306,8 +313,8 @@
   Updated: 2026-07-15T01:54:28Z
   Total Products: 2
 - [New Arrivals](https://tl5digitalworld.com/collections/new-arrivals)
-  Updated: 2026-07-13T01:59:01Z
-  Total Products: 2
+  Updated: 2026-08-06T01:24:00Z
+  Total Products: 4
 - [Wealth Building](https://tl5digitalworld.com/collections/wealth-building)
   Updated: 2026-07-15T01:54:28Z
   Total Products: 3
@@ -318,8 +325,8 @@
   Updated: 2026-07-13T01:59:01Z
   Total Products: 7
 - [Digital Workbooks](https://tl5digitalworld.com/collections/digital-workbooks)
-  Updated: 2026-07-22T23:14:45Z
-  Total Products: 5
+  Updated: 2026-08-06T01:24:00Z
+  Total Products: 7
 - [Personal Finance](https://tl5digitalworld.com/collections/personal-finance)
   Updated: 2026-07-13T01:59:01Z
   Total Products: 2
@@ -333,8 +340,8 @@
   Updated: 2026-07-23T22:29:57Z
   Total Products: 5
 - [AI Series](https://tl5digitalworld.com/collections/ai-series)
-  Updated: 2026-07-25T00:43:55Z
-  Total Products: 2
+  Updated: 2026-08-06T01:23:59Z
+  Total Products: 4
 
 ## Blogs
 
@@ -409,6 +416,24 @@
     Author: Admin
   - [Sole Proprietorship vs LLC: Which Is Right?](https://tl5digitalworld.com/blogs/news/sole-proprietorship-vs-llc): Sole Proprietorship vs LLC: Which Is Right?
     Updated: 2026-07-26T05:24:39Z
+    Author: Admin
+  - [How to Improve Credit Responsibly, Step by Step](https://tl5digitalworld.com/blogs/news/how-to-improve-credit-responsibly): How to Improve Credit Responsibly, Step by Step
+    Updated: 2026-07-28T05:15:32Z
+    Author: Admin
+  - [Business Funding Guide for Startups in 7 Steps](https://tl5digitalworld.com/blogs/news/business-funding-guide-for-startups): Business Funding Guide for Startups in 7 Steps
+    Updated: 2026-07-30T06:07:06Z
+    Author: Admin
+  - [Should You Use Debt Snowball Versus Avalanche?](https://tl5digitalworld.com/blogs/news/debt-snowball-versus-avalanche): Should You Use Debt Snowball Versus Avalanche?
+    Updated: 2026-08-01T06:48:23Z
+    Author: Admin
+  - [12 Best Low Cost Business Ideas to Start Smart](https://tl5digitalworld.com/blogs/news/best-low-cost-business-ideas): 12 Best Low Cost Business Ideas to Start Smart
+    Updated: 2026-08-03T06:31:22Z
+    Author: Admin
+  - [How to Stop Overspending Without Feeling Deprived](https://tl5digitalworld.com/blogs/news/how-to-stop-overspending): How to Stop Overspending Without Feeling Deprived
+    Updated: 2026-08-05T06:57:34Z
+    Author: Admin
+  - [LLC Versus Corporation Differences Explained](https://tl5digitalworld.com/blogs/news/llc-versus-corporation-differences): LLC Versus Corporation Differences Explained
+    Updated: 2026-08-07T03:06:23Z
     Author: Admin
 
 ## Store Pages
