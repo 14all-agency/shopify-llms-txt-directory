@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-08-02T16:00:35.042Z
+- Updated At: 2026-08-09T20:00:37.008Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -1735,7 +1735,7 @@ Carrie LaChance – Gallery #109
 Total Images: 36 Photos
 Year: 2013
 File Size: 13 MB
-  Updated: 2026-04-26T20:05:27Z
+  Updated: 2026-08-07T13:34:33Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -2416,54 +2416,7 @@ File Size: 96 MB
   Product Type: Video Downloads
   Availability: Available
   Price: $50.00 USD
-- [Blue Fishnets Photo Set](https://www.carrielachance.com/products/blue-fishnets-photo-set-download): There's nothing like a woman in fishnet stockings and when that woman is Carrie LaChance, all the better. Carrie looks stunning here wearing lingerie from Trashy Lingerie with blue fishnet thigh highs, thong, accessories, and 6" Christian Louboutins. Her body looks incredible as usual and she's wearing a stare that would make any man melt. Needless to say, her heels are as sexy as the day is long and she stays topless for us for nearly the whole set.
-
-Carrie LaChance - Gallery #158 🔞
-Total Images: 33 Photos
-Year: 2015
-File Size: 7 MB
-  Updated: 2026-05-25T23:37:43Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Blue_Fishnets_Photo_Set.jpg?v=1744586764
-  Price: $60.00 USD
-- [Sensual And Kinky Photo Set](https://www.carrielachance.com/products/sensual-and-kinky-photo-set-download): As amazing as Carrie LaChance looks in all of her different outfits, her best outfit of all is her birthday suit. In this set, Carrie bares all and in some very sexy poses. Her tan, gorgeous body is on full display from her incredible breasts to her beautiful legs. We get to see her both barefoot and in her sexy high heels. Carrie is breathtakingly stunning and this set perfectly displays that. Make sure you stick around until the end for this one to see a little kinky bondage surprise at the end involving handcuffs and a ballgag.
-
-Carrie LaChance - Gallery #159 🔞
-Total Images: 33 Photos
-Year: 2015
-File Size: 7 MB
-  Updated: 2026-04-26T20:05:39Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Sensual_And_Kinky_Photo_Set.jpg?v=1744586674
-  Price: $60.00 USD
-- [Red Hot Valentine Photo Set](https://www.carrielachance.com/products/red-hot-valentine-photo-set-download): Carrie is wearing red lingerie, thigh highs, and Louboutin high heels. Basically, this is what every guy dreams of as a Valentine's gift. The slinky lingerie hugs every curve on Carrie's amazing body and the thigh high stockings are unbelievably sexy. Carrie knows shoes and she picked a hot pair for this shoot, a pair that will have any guy dreaming about one thing and one thing only. Put everything together and what you have is utter perfection. Show me one guy who wouldn't give anything for a night with Carrie LaChance and I'll show you a guy who's lying.
-
-Carrie LaChance - Gallery #160 🔞
-Total Images: 63 Photos
-Year: 2015
-File Size: 18 MB
-  Updated: 2026-04-26T20:05:39Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Red_Hot_Valentine_Photo_Set.jpg?v=1744586567
-  Price: $70.00 USD
-- [Red Hot Valentine Video](https://www.carrielachance.com/products/red-hot-valentine-video-download): Carrie is wearing red lingerie, thigh highs, and Louboutin high heels. Basically, this is what every guy dreams of for their Valentine's gift. The slinky lingerie hugs every curve on Carrie's amazing body and the thigh high stockings are unbelievably sexy. Carrie knows shoes and she picked a hot pair for this shoot, a pair that will have any guy dreaming about one thing and one thing only. Put everything together and what you have is utter perfection. Show me one guy who wouldn't give anything for a night with Carrie LaChance and I'll show you a guy who's lying. This video is from Carrie LaChance - Gallery #160
-
-Red Hot Valentine Video 🔞
-Run Time: 8 min
-Year: 2015
-File Size: 376 MB
-  Updated: 2026-04-26T20:05:40Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $60.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTE4NTc0NTUxMjA3LCJsYXN0X3ZhbHVlIjoiNTUxODU3NDU1MTIwNyJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NDkyOTkwNDc2NDU1LCJsYXN0X3ZhbHVlIjoiNTQ5Mjk5MDQ3NjQ1NSJ9)
 
 ## Collections
 
@@ -2477,7 +2430,7 @@ File Size: 376 MB
   Updated: 2026-07-19T08:51:35Z
   Total Products: 31
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
-  Updated: 2026-07-06T20:33:50Z
+  Updated: 2026-08-08T11:09:34Z
   Total Products: 331
 - [Video Collection](https://www.carrielachance.com/collections/videos): Explore my Video Collection, featuring over 20 years of professionally shot content. From high heel glamour and lingerie to glossy pantyhose and classic risqué moments, these videos capture my signature style in motion. Each one is a polished, cinematic look at some of my most unforgettable shoots.
   Updated: 2026-07-12T20:11:01Z
@@ -2504,7 +2457,7 @@ File Size: 376 MB
   Updated: 2026-06-02T08:31:42Z
   Total Products: 38
 - [Public Collection](https://www.carrielachance.com/collections/public): Step into my Public Collection, featuring some of my most daring shoots captured out in real-world settings. From spontaneous moments to bold, eye-catching looks, these sets bring my signature heels, confidence, and style beyond the studio and into the spotlight.
-  Updated: 2026-07-06T20:33:50Z
+  Updated: 2026-08-08T11:09:34Z
   Total Products: 266
 
 ## Blogs
@@ -3081,6 +3034,33 @@ File Size: 376 MB
     Updated: 2026-08-02T00:03:41Z
     Author: Carrie LaChance
     Tags:  diary,  storytelling, glamour, glamour stories, lingerie whispers, midnight seduction, secrets, seduction, seductive diary themes, seductive stories, teasing storytelling techniques
+  - [Sultry Heights A Day in My High Heeled Glamour Model Life](https://www.carrielachance.com/blogs/carrie-lachance/sultry-heights-a-day-in-my-high-heeled-glamour-model-life): Sultry Heights A Day in My High Heeled Glamour Model Life
+    Updated: 2026-08-03T08:00:42Z
+    Author: Carrie LaChance
+    Tags: beauty tips, behind the scense, carrie lachance, day in my life, fashion, glamour, glamour model, heels, high heels, latex model, life of a model, lifestyle blog, model, outfit of the day, pantyhose, pinup model, sexy model, stilettos, urban fashion guide
+  - [Transform Your Selfies with My Go-To Posing Techniques for Models](https://www.carrielachance.com/blogs/carrie-lachance/transform-your-selfies-with-my-go-to-posing-techniques-for-models): Transform Your Selfies with My Go-To Posing Techniques for Models
+    Updated: 2026-08-04T00:02:37Z
+    Author: Carrie LaChance
+    Tags: best poses for models, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, model techniques, modeling, modeling tips, photo angles, photography, photoshoot, posing, posing tips, selfie tips, social media model, taking good selfies, tips for better selfies
+  - [5 Proven Ways to Elevate Your Creator Income](https://www.carrielachance.com/blogs/carrie-lachance/5-proven-ways-to-elevate-your-creator-income): 5 Proven Ways to Elevate Your Creator Income
+    Updated: 2026-08-05T10:00:48Z
+    Author: Carrie LaChance
+  - [Glamour Walks Tall: The Confidence Men Love and How High Heels Deliver](https://www.carrielachance.com/blogs/carrie-lachance/glamour-walks-tall-the-confidence-men-love-and-how-high-heels-deliver): Glamour Walks Tall: The Confidence Men Love and How High Heels Deliver
+    Updated: 2026-08-06T00:02:36Z
+    Author: Carrie LaChance
+    Tags: allure of heels, attraction, confidence, heels, high heel psychology, high heels, impact of footwear, psychology of attraction, psychology of high heels, the power of heels, why men love women in heels
+  - [Flawless First Impressions: How to Dress to Impress and Land a Date with Ease](https://www.carrielachance.com/blogs/carrie-lachance/flawless-first-impressions-how-to-dress-to-impress-and-land-a-date-with-ease): Flawless First Impressions: How to Dress to Impress and Land a Date with Ease
+    Updated: 2026-08-07T00:02:16Z
+    Author: Carrie LaChance
+    Tags: confidence, dating, dating advice, dressing tips, fashion, first impressions, how to date effectively, how to find a high heel girl, how to find right girl, men's advice, tips for successful dating
+  - [How Sheer Tights Define Pure Sophistication](https://www.carrielachance.com/blogs/carrie-lachance/how-sheer-tights-define-pure-sophistication): How Sheer Tights Define Pure Sophistication
+    Updated: 2026-08-08T00:01:13Z
+    Author: Carrie LaChance
+    Tags: glossy legs, leg fashion, legwear trends, nylons, pantyhose, sheer tights, sophisticated leg styles, tights
+  - [Enveloped in Allure: How My  Diary Unfolded with Sensual Fashion](https://www.carrielachance.com/blogs/carrie-lachance/enveloped-in-allure-how-my--diary-unfolded-with-sensual-fashion): Enveloped in Allure: How My  Diary Unfolded with Sensual Fashion
+    Updated: 2026-08-09T00:04:12Z
+    Author: Carrie LaChance
+    Tags: allure, allure in fashion, captivating narratives, desire diary,  diary,  storytelling, glamour, glamour stories, seduction, seductive stories, sensual fashion
 
 ## Store Pages
 
