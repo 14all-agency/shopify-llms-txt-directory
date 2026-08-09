@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-02-18T18:16:29Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-30T21:23:34.443Z
+- Updated At: 2026-08-09T00:00:34.349Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/saraevansbeigebeanie.png?v=1684985922
   Price: $15.00 USD
 - [Born To Fly Tee](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-tee): Born to fly tee in ivory! Front and back print 100% Cotton
-  Updated: 2026-07-15T05:25:58Z
+  Updated: 2026-07-31T01:55:47Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -109,7 +109,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [[Fan Club] Collegiate Tee](https://saraevansstore.merchmadeeasy.com/products/fan-club-collegiate-tee): Fan Club exclusive-- Sara Evans Collegiate Tee! 100% Cotton
-  Updated: 2026-07-17T04:17:40Z
+  Updated: 2026-08-03T19:28:01Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -130,7 +130,7 @@
     Availability: Available
     Price: $25.00 USD
 - [[Fan Club] Symbols Tee](https://saraevansstore.merchmadeeasy.com/products/fan-club-symbols-tee): Fan Club exclusive-- Sara Evans Symbols Tee! 100% Cotton
-  Updated: 2026-07-17T04:43:21Z
+  Updated: 2026-08-03T19:28:02Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -151,28 +151,28 @@
     Availability: Available
     Price: $25.00 USD
 - [[Fan Club] Roses Tote](https://saraevansstore.merchmadeeasy.com/products/fan-club-roses-tote): Fan Club exclusive-- Sara Evans canvas roses tote!
-  Updated: 2026-07-13T22:46:27Z
+  Updated: 2026-08-03T19:28:02Z
   Vendor: Sara Evans Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/rosestote.png?v=1699285266
   Price: $10.00 USD
 - [[Fan Club] Enamel Pin](https://saraevansstore.merchmadeeasy.com/products/fan-club-enamel-pin): Fan Club exclusive-- Sara Evans enamel pin!
-  Updated: 2026-07-27T23:01:17Z
+  Updated: 2026-08-03T19:28:02Z
   Vendor: Sara Evans Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/enamelpin.png?v=1699285424
   Price: $5.00 USD
 - [[Fan Club] Stronger Pennant](https://saraevansstore.merchmadeeasy.com/products/fan-club-stronger-pennant): Fan Club exclusive-- Sara Evans stronger pennant!
-  Updated: 2026-07-08T20:12:30Z
+  Updated: 2026-08-03T19:28:01Z
   Vendor: Sara Evans Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SEFlag.png?v=1699285501
   Price: $10.00 USD
 - [[Fan Club] Laminate](https://saraevansstore.merchmadeeasy.com/products/fan-club-laminate): The official Fan Club laminate is here!
-  Updated: 2026-07-08T20:12:30Z
+  Updated: 2026-08-03T19:28:06Z
   Vendor: Sara Evans Store
   Product Type: 
   Availability: Available
@@ -343,7 +343,7 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SEWORDSVINYLPNG.png?v=1745940225
   Price: $25.00 USD
 - [Saints & Angels - Saints](https://saraevansstore.merchmadeeasy.com/products/saints-angels-saints): Be the first to grab tickets with presale access Stay in the know with insider updates straight from Sara Go behind the scenes with exclusive content and past performances Join the community and engage with BTS moments
-  Updated: 2026-07-22T19:46:06Z
+  Updated: 2026-08-02T02:21:38Z
   Vendor: Sara Evans Store
   Product Type: Membership
   Availability: Available
@@ -357,7 +357,7 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/artwork29cdc602-3848-4962-94b0-bf773abf1391.png?v=1738866815
   Price: $45.00 USD
 - [Born To Fly Hoodie | Official Sara Evans Merch](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-hoodie): Born To Fly Hoodie in grey with front and back print. 100% Cotton
-  Updated: 2026-07-18T17:35:43Z
+  Updated: 2026-08-04T02:07:46Z
   Vendor: Sara Evans Store
   Product Type: Hoodie
   Availability: Available
@@ -432,8 +432,8 @@
   - [3XL](https://saraevansstore.merchmadeeasy.com/products/stronger-horse-tee?variant=48719163195547)
     Availability: Available
     Price: $35.00 USD
-- [We Got The Beat Tour Tee](https://saraevansstore.merchmadeeasy.com/products/orange-suds-in-the-bucket-tee-copy): Sara Evans graphic on the front We Got The Beat tour cities on the back Unisex tee in charcoal 100% Cotton
-  Updated: 2026-07-30T12:36:02Z
+- [We Got The Beat Tour Tee](https://saraevansstore.merchmadeeasy.com/products/orange-suds-in-the-bucket-tee-copy): Please note: orders containing this item will ship by August 17th Sara Evans graphic on the front We Got The Beat tour cities on the back Unisex tee in charcoal 100% Cotton
+  Updated: 2026-08-08T23:14:16Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -442,7 +442,7 @@
     Availability: Available
     Price: $35.00 USD
   - [M](https://saraevansstore.merchmadeeasy.com/products/orange-suds-in-the-bucket-tee-copy?variant=48200130166939)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [L](https://saraevansstore.merchmadeeasy.com/products/orange-suds-in-the-bucket-tee-copy?variant=48200130199707)
     Availability: Available
@@ -454,7 +454,7 @@
     Availability: Available
     Price: $35.00 USD
   - [XXXL](https://saraevansstore.merchmadeeasy.com/products/orange-suds-in-the-bucket-tee-copy?variant=48200130298011)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
 - [Hit Songs Tee](https://saraevansstore.merchmadeeasy.com/products/hits-tee): Sara Evans graphic on the front Sara's hit songs on the back Unisex tee in graphite 100% Cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
   Updated: 2026-07-15T01:52:33Z
@@ -481,7 +481,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Suds in the Bucket Sketch Tee](https://saraevansstore.merchmadeeasy.com/products/suds-in-the-bucket-sketch-tee): Sara Evans graphic on the front Suds in the Bucket title and sketch graphics on the back Unisex tee in Ivory 100% Cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-07-15T08:52:53Z
+  Updated: 2026-08-04T17:38:52Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -505,7 +505,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Born to Fly Zip Hoodie](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-zip-hoodie): Born to Fly graphic on the front and back in red screen print Zip up hoodie in grey Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30
-  Updated: 2026-07-16T22:04:29Z
+  Updated: 2026-08-01T15:32:06Z
   Vendor: Sara Evans Store
   Product Type: Hoodie
   Availability: Available
@@ -546,31 +546,31 @@
 ## Collections
 
 - [Accessories](https://saraevansstore.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-07-28T04:00:06Z
+  Updated: 2026-08-03T14:44:57Z
   Total Products: 64
 - [Apparel](https://saraevansstore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-07-20T11:02:31Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 56
 - [Music](https://saraevansstore.merchmadeeasy.com/collections/music)
   Updated: 2026-07-08T20:12:51Z
   Total Products: 18
 - [Last Chance](https://saraevansstore.merchmadeeasy.com/collections/on-)
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-03T14:44:57Z
   Total Products: 40
 - [Fan Club Exclusives](https://saraevansstore.merchmadeeasy.com/collections/fan-club-exclusives)
   Updated: 2026-07-26T11:03:37Z
   Total Products: 6
 - [Unbroke Collection](https://saraevansstore.merchmadeeasy.com/collections/unbroke-collection)
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-03T14:44:57Z
   Total Products: 12
 - [Last Call On Tour Merch Collection](https://saraevansstore.merchmadeeasy.com/collections/eoy-)
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-03T14:44:57Z
   Total Products: 9
 - [Hats](https://saraevansstore.merchmadeeasy.com/collections/hats)
   Updated: 2026-07-08T20:12:23Z
   Total Products: 9
 - [ALL](https://saraevansstore.merchmadeeasy.com/collections/all): Shop all merchandise from the Official Sara Evans store!
-  Updated: 2026-07-28T23:02:02Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 58
 - [](https://saraevansstore.merchmadeeasy.com/collections/)
   Updated: 2026-07-28T04:00:06Z
@@ -585,13 +585,13 @@
   Updated: 2026-07-08T20:12:49Z
   Total Products: 15
 - [Lyric Collection](https://saraevansstore.merchmadeeasy.com/collections/lyric-collection)
-  Updated: 2026-07-20T11:02:31Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 20
 - [Unbroke Music](https://saraevansstore.merchmadeeasy.com/collections/unbroke-music)
   Updated: 2026-07-08T20:12:45Z
   Total Products: 7
 - [BEST SELLERS](https://saraevansstore.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-07-20T11:02:31Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 16
 - [Words Anniversary](https://saraevansstore.merchmadeeasy.com/collections/words-anniversary)
   Updated: 2026-07-08T20:12:51Z
@@ -600,34 +600,34 @@
   Updated: 2026-07-19T11:02:24Z
   Total Products: 14
 - [Restless Anniversary](https://saraevansstore.merchmadeeasy.com/collections/restless)
-  Updated: 2026-07-20T11:02:31Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 65
 - [$10](https://saraevansstore.merchmadeeasy.com/collections/10): Due to high volume of orders, sticker  products may take up to a week to ship.
   Updated: 2026-07-26T11:03:37Z
   Total Products: 10
 - [$5 and Under](https://saraevansstore.merchmadeeasy.com/collections/5-and-under): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-03T14:44:57Z
   Total Products: 32
 - [$15 and up](https://saraevansstore.merchmadeeasy.com/collections/15-and-up): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 81
 - [Sticker ](https://saraevansstore.merchmadeeasy.com/collections/sticker-): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-07-28T04:00:06Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 156
 - [Born To Fly](https://saraevansstore.merchmadeeasy.com/collections/born-to-fly)
-  Updated: 2026-07-19T11:02:24Z
+  Updated: 2026-08-04T11:02:33Z
   Total Products: 10
 - [](https://saraevansstore.merchmadeeasy.com/collections/-1)
   Updated: 2026-07-08T20:12:25Z
   Total Products: 21
 - [We Got The Beat Tour](https://saraevansstore.merchmadeeasy.com/collections/we-got-the-beat-tour)
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 8
 - [Gifts for Mom](https://saraevansstore.merchmadeeasy.com/collections/gifts-for-mom)
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 14
 - [Summer Picks](https://saraevansstore.merchmadeeasy.com/collections/summer-picks)
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-05T11:03:30Z
   Total Products: 11
 
 ## Blogs
