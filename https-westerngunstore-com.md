@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-21T15:36:39Z
 - Contact Email: Info@WesternGunStore.com
-- Updated At: 2026-08-03T00:00:41.655Z
+- Updated At: 2026-08-10T00:00:44.130Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/nosler-whitetail-country-150gr-spitzer-superior-accuracy-30-324.webp?v=1777385920
   Price: $33.64 USD
 - [45-70 Ammo: Precision Power with HSM Jacketed Hollow Point](https://westerngunstore.com/products/hsm-45-70-gov-300-gr-jacketed-hollow-point-ammo-20-round-box): Experience unmatched stopping power with HSM 45-70 ammo. Ideal for big game hunting and self-defense, ensuring precision and reliability in every shot.
-  Updated: 2026-07-07T15:08:43Z
+  Updated: 2026-08-07T18:39:26Z
   Vendor: HSM Ammunition
   Product Type: Rifle Ammo
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-norma-whitetail-308-winchester-soft-point-ammo-power-30-150-119.webp?v=1777385923
   Price: $24.81 USD
 - [Ammo for Tactical Shooters | Hornady Subsonic 45-70 Government](https://westerngunstore.com/products/hornady-subsonic-45-70-government-410-gr-sub-x-ammo-20-rounds-for-tactical-shooters): Discover Hornady Subsonic ammo for tactical shooters, delivering quiet performance and reliable results. Perfect for training and enhancing shooting enjoyment.
-  Updated: 2026-07-07T15:08:45Z
+  Updated: 2026-08-07T18:39:37Z
   Vendor: Hornady
   Product Type: Rifle Ammo
   Availability: Available
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/g2-research-telos-magnum-105gr-lead-free-copper-ammunition-power-357-820.webp?v=1777385933
   Price: $23.01 USD
 - [Lever Action Unleash 30-30 Win Federal Hammerdown Ammo - Western Gun Store](https://westerngunstore.com/products/federal-prem-3030-win-hammer-dwn-nkl-150gr-20-bx): Elevate Your Shooting with Lever Action Ammo Experience the difference with Federal Premium HammerDown Rifle ammunition, specially crafted for your .30-30 Win lever gun. This ammo isn’t just about shooting; it’s about enhancing your entire experience, whether you're in the field or at the range. With a powerful 150-grain bullet and a rapid 2390 fps muzzle velocity, you’ll enjoy flawless performance and accuracy in every shot. Custom-crafted for lever : Designed to perform flawlessly in side gate loading and tubular magazines, preventing jams and ensuring smooth operation. Enhanced feeding mechanics: Featuring a modified chamfered case for quicker reloads and a competitive edge. Exceptional stopping power: The 150-grain projectile is perfect for taking down big game with precision. This dependable 20-round box from Federal combines durability, reliability, and innovative design to give you the best shooting experience possible. Whether you're a seasoned hunter or a passionate enthusiast, HammerDown ammo stands out with unmatched performance and appeal. Don’t just shoot—unleash your potential! - Western Gun Store
-  Updated: 2026-07-07T15:08:48Z
+  Updated: 2026-08-07T18:39:37Z
   Vendor: Federal
   Product Type: Rifle Ammo
   Availability: Available
@@ -102,21 +102,21 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-remington-45-70-grain-sjhp-ammo-superiority-government-300-922.webp?v=1777385938
   Price: $55.28 USD
 - [45-70 Ammo: Remington 405gr Jacketed Soft Point for Performance](https://westerngunstore.com/products/45-70-government-20-rounds-ammunition-remington-405-grain-jacketed-soft-point): Get unmatched reliability with Remington 45-70 ammo. Featuring 405gr Jacketed Soft Point bullets for superior performance in big game hunting.
-  Updated: 2026-07-07T15:08:48Z
+  Updated: 2026-08-07T18:39:36Z
   Vendor: Remington
   Product Type: Rifle Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/remington-45-70-government-405gr-jacketed-soft-point-ammo-405-grain-861.webp?v=1777385939
   Price: $54.32 USD
 - [357 Ammo: Hammerdown .357 Magnum Power 300gr - Top Performance](https://westerngunstore.com/products/45-70-government-20-rounds-ammunition-federal-cartridge-300-grain-soft-point-1): Discover the power of our 357 ammo with .357 Magnum Power 300gr soft point cartridges, designed for ultimate performance and reliability in every shot.
-  Updated: 2026-07-07T15:08:53Z
+  Updated: 2026-08-07T18:39:37Z
   Vendor: Federal
   Product Type: Rifle Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-hammerdown-357-magnum-power-300gr-soft-point-45-70-361.webp?v=1777385947
   Price: $57.93 USD
 - [Hornady Subsonic: 175gr Winchester Sub-X Ammunition](https://westerngunstore.com/products/30-30-winchester-20-rounds-ammunition-hornady-175-grain-ftx): Shop Hornady Subsonic 175gr Winchester Sub-X for unmatched precision and performance. Quiet, reliable, and perfect for hunting or target practice.
-  Updated: 2026-07-07T15:08:52Z
+  Updated: 2026-08-07T18:39:37Z
   Vendor: Hornady
   Product Type: Rifle Ammo
   Availability: Available
@@ -158,7 +158,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/nosler-30-winchester-150-grain-e-tip-ammunition-unleashed-copper-611.webp?v=1777385957
   Price: $48.71 USD
 - [Krag Ammo: Hornady 180 Grain Soft Point Precision for Hunters](https://westerngunstore.com/products/30-40-krag-20-rounds-ammunition-hornady-180-grain-soft-point): Discover Krag ammo with Hornady 180 Grain Soft Point bullets. Experience superior accuracy and reliable expansion for successful big game hunting.
-  Updated: 2026-07-07T15:09:04Z
+  Updated: 2026-08-07T18:39:33Z
   Vendor: Hornady
   Product Type: Rifle Ammo
   Availability: Available
@@ -206,6 +206,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/winchester-deer-season-xp-30-win-extreme-ammo-explosive-impact-150-881.webp?v=1777385969
   Price: $28.13 USD
+- [30-30 Ammo: Federal Premium Trophy Copper Performance](https://westerngunstore.com/products/30-30-winchester-20-rounds-ammunition-federal-cartridge-150-grain-hollow-point): Discover the power of Federal Premium 30-30 ammo. Ideal for hunting and precision shooting, this lead-free option ensures unmatched performance and ethical takedowns.
+  Updated: 2026-08-07T18:39:26Z
+  Vendor: Federal
+  Product Type: Rifle Ammo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/federal-premium-30-win-trophy-copper-power-winchester-150-grain-651.webp?v=1777385982
+  Price: $44.35 USD
 - [7x57 Mauser Ammo – Nosler 140 Grain for Unmatched Performance](https://westerngunstore.com/products/7x57mm-mauser-20-rounds-ammunition-nosler-140-grain-ballistic-tip): Discover Nosler 7x57 Mauser ammo with 140 grain Ballistic Tip for precision, power and performance you can trust on your next hunting adventure.
   Updated: 2026-07-07T15:09:08Z
   Vendor: Nosler
@@ -249,12 +256,19 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/fiery-bear-load-45-70-government-ammunition-430-grain-lead-rifle-610.webp?v=1777385977
   Price: $49.48 USD
 - [44-40 Ammo - MagTech 200 Grain Lead Flat Nose Precision Pack](https://westerngunstore.com/products/44-40-winchester-50-rounds-ammunition-magtech-200-grain-lead-1): Explore MagTech's 44-40 ammo. This 50-round pack offers unmatched quality, precision, and reliability for your shooting needs.
-  Updated: 2026-07-07T15:09:11Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: MagTech
   Product Type: Rifle Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/magtech-44-40-winchester-200-grain-lead-flat-nose-ammo-precision-pack-947.webp?v=1777385980
   Price: $47.30 USD
+- [7x57 Mauser Ammo – Precision 140 Grain Soft Point](https://westerngunstore.com/products/model-rifle-caliber-7x57-grains-140gr-type-soft-point-units-per-box-20): Discover 7x57 Mauser ammo with 140 grain soft points for exceptional accuracy and performance. Perfect for serious hunters and shooters alike.
+  Updated: 2026-08-07T18:39:26Z
+  Vendor: Sellier & Bellot
+  Product Type: Rifle Ammo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-7x57-caliber-140-grain-soft-point-precision-7x57mm-mauser-977.webp?v=1777385989
+  Price: $22.92 USD
 - [45-70 Ammo - Golden Winchester Power and Precision](https://westerngunstore.com/products/45-70-government-20-rounds-ammunition-winchester-405-grain-soft-point): Discover Golden Winchester 45-70 ammo for unmatched accuracy and reliability. Perfect for hunting and shooting enthusiasts. Upgrade your arsenal today!
   Updated: 2026-07-07T15:09:12Z
   Vendor: Winchester
@@ -262,13 +276,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/golden-winchester-45-70-grain-soft-point-ammo-power-government-405-778.webp?v=1777385990
   Price: $50.61 USD
-- [45-70 Ammo - Buffalo Bore Hollow Point for Powerful Performance](https://westerngunstore.com/products/45-70-government-20-rounds-ammunition-buffalo-bore-350-grain-hollow-point): Shop Buffalo Bore 45-70 ammo featuring 350 Grain Hollow Point rounds. Experience high velocity and stopping power for hunting and self-defense.
-  Updated: 2026-07-07T15:09:17Z
-  Vendor: Buffalo Bore Ammunition
-  Product Type: Rifle Ammo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/buffalo-bore-45-70-government-hollow-point-ammunition-power-350-654.webp?v=1777385991
-  Price: $87.90 USD
 - [Ammo: Buffalo Bore 300 Grain JHP for Superior Hunting Power](https://westerngunstore.com/products/45-70-government-20-rounds-ammunition-buffalo-bore-300-grain-hollow-point): Discover Buffalo Bore's powerful 300 Grain JHP ammo. Engineered for deep penetration and maximum expansion, it’s your best choice for big game hunting.
   Updated: 2026-07-07T15:09:18Z
   Vendor: Buffalo Bore Ammunition
@@ -305,14 +312,14 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/hornady-american-whitetail-30-win-150gr-interlock-ammo-explosive-134.webp?v=1777386011
   Price: $24.82 USD
 - [Barnes 45-70 Government Tsx Ammo: Superior Stopping Power - Western Gun Store](https://westerngunstore.com/products/barnes-45-70-government-300-gr-tsx-ammo-20-rounds-for-superior-stopping-power): Experience unmatched performance with the Barnes 45-70 Government 300 Gr TSX Ammo, designed for superior stopping power in every shot. This premium ammunition from the VOR-TX line delivers exceptional accuracy and reliability, making it a top choice for hunters and shooters alike. Caliber and Grain: Specifically engineered for 45-70 Government with 300 grains, ensuring deep penetration and devastating impact on big game. Bullet Type: The TSX-FN (Triple-Shock X Flat Nose) bullet expands reliably upon impact, maximizing energy transfer for quick, ethical takedowns. Round Count: Each box contains 20 rounds, providing ample supply for range sessions or field excursions without compromise. Unique  Points: Built for precision and power, this ammo offers superior stopping power through advanced design, reducing the need for follow-up shots and enhancing your overall shooting experience. Whether you're pursuing large game or seeking dependable defense options, this Barnes ammo combines cutting-edge technology with proven results to elevate your performance. Unlock the full potential of your firearm today! - Western Gun Store
-  Updated: 2026-07-07T15:09:23Z
+  Updated: 2026-08-07T18:39:23Z
   Vendor: Barnes
   Product Type: Rifle Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/barnes-45-70-government-tsx-ammo-superior-stopping-power-300-grain-254.webp?v=1777385998
   Price: $60.08 USD
 - [Lever Action Flex Tip Ammo Power - Unleash Precision and Performance - Western Gun Store](https://westerngunstore.com/products/45-70-government-20-rounds-ammunition-hornady-250-grain-flex-tip-expanding): Unleash the Power of Lever Action with Hornady’s Precision Ammo If you're looking to enhance your shooting experience, look no further than Hornady's LEVERevolution 45-70 Government ammunition. With a focus on lever action performance, this ammo features 20 rounds of 250 Grain Flex Tip Expanding bullets designed for superior results in lever action rifles and revolvers. Each round is engineered with Hornady’s patented elastomer Flex Tip technology, ensuring optimal expansion and deep penetration. This means you can trust in exceptional accuracy and stopping power, whether you're on the range or hunting in the field. Breakthrough Design: LEVERevolution blends modern advancements with classic lever action capabilities, delivering flatter trajectories and impressive velocities. Exceptional Expansion: The MonoFlex bullet expands reliably upon impact, maximizing energy transfer and ensuring ethical hunting. Versatile Performance: Ideal for big game hunting or target practice, this 20-round box promises consistent reliability in all conditions. Elevate your shooting game with Hornady’s LEVERevolution ammunition, where advanced engineering meets legendary quality for unbeatable results. - Western Gun Store
-  Updated: 2026-07-07T15:09:22Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Hornady
   Product Type: Rifle Ammo
   Availability: Available
@@ -326,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-remington-core-lokt-30-winchester-170gr-soft-point-power-331.webp?v=1777386000
   Price: $27.99 USD
 - [Unleash Remington 30-30 Win Power 150 Grain Soft Point Ammunition - Western Gun Store](https://westerngunstore.com/products/30-30-winchester-20-rounds-ammunition-remington-150-grain-soft-point): Discover the power and precision of the 30-30 Winchester 20 Rounds Ammunition from Remington, featuring 150 Grain Soft Point bullets designed for exceptional performance in the field. This Remington Core-Lokt ammunition delivers unmatched value without sacrificing quality, ensuring every shot is reliable and effective for hunters and shooters alike. Superior Expansion: The soft point design promotes rapid and controlled expansion upon impact, maximizing energy transfer for humane takedowns. Accurate and Consistent: With 150 grain bullets, experience tight groupings and dependable trajectories for medium-game hunting. Proven Reliability: Backed by Remington's legacy, this ammunition offers the choice of bullet types while maintaining high standards of performance and durability. Versatile Use: Ideal for 30-30 Winchester rifles, making it a go-to option for both novice and experienced marksmen seeking affordability and excellence. Elevate your shooting experience with this high-quality ammunition that combines affordability, accuracy, and power in every round. - Western Gun Store
-  Updated: 2026-07-07T15:09:22Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Remington
   Product Type: Rifle Ammo
   Availability: Available
@@ -340,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/hornady-444-marlin-superformance-big-game-hunting-ammo-265-grain-995.webp?v=1777386012
   Price: $46.51 USD
 - [Unleash Hornady 30-30 Winchester 140gr Monoflex Precision Power - Western Gun Store](https://westerngunstore.com/products/30-30-winchester-20-rounds-ammunition-hornady-140-grain-gmx): Experience the unmatched precision and power of Hornady's 30-30 Winchester ammunition, featuring 140-grain GMX bullets designed for superior performance in lever-action rifles. High-Velocity Impact: With a muzzle velocity of 2466 fps, these rounds deliver exceptional speed and accuracy for long-range shots, ensuring reliable expansion and deep penetration. Advanced Bullet Technology: The MonoFlex Leverevolution bullet offers lead-free construction for ethical hunting, providing consistent expansion and weight retention to maximize your success in the field. Convenient Packaging: Each box contains 20 rounds, making it easy to stock up for your next hunting trip or range session without the hassle. Versatile Caliber: Perfect for 30-30 Winchester , this ammunition combines historical reliability with modern innovations to enhance your shooting experience. Whether you're pursuing big game or honing your skills, this Hornady ammunition stands out for its deadly accuracy, ethical design, and dependable functionality, making it a must-have for serious shooters. - Western Gun Store
-  Updated: 2026-07-07T15:09:27Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Hornady
   Product Type: Rifle Ammo
   Availability: Available
@@ -368,7 +375,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/federal-30-winchester-170-grain-soft-point-ammo-power-shok-rifle-377.webp?v=1777386019
   Price: $26.08 USD
 - [Golden Winchester Super-x 30-30 Win 20rd 150gr Hollow Point Dominance - Western Gun Store](https://westerngunstore.com/products/30-30-winchester-20-rounds-ammunition-150-grain-hollow-point): Experience unmatched precision and reliability with the 30-30 Winchester 20 Rounds Ammunition in 150 Grain Hollow Point, a top-tier choice from the legendary Winchester Super-X line. Superior Accuracy: The innovative hollow point design features a weight rearward configuration that ensures exceptional bullet stability and enhanced accuracy for every shot. Made in the USA: Crafted with pride in the USA, this ammunition upholds the highest standards of quality and performance that Winchester is renowned for. Versatile Performance: Ideal for hunting and target practice, the 150-grain hollow point delivers powerful expansion and reliable stopping power in the 30-30 Winchester caliber. Elevate your shooting experience with this dependable ammunition that combines time-tested engineering with modern precision, making it a must-have for serious shooters. - Western Gun Store
-  Updated: 2026-07-07T15:09:27Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Winchester
   Product Type: Rifle Ammo
   Availability: Available
@@ -403,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-precision-hornady-44-40-winchester-ammunition-205-grain-lead-756.webp?v=1777386024
   Price: $22.72 USD
 - [45-70 Ammo | Winchester 45-70 Govt Hollow Point Performance](https://westerngunstore.com/products/45-70-government-20-rounds-ammunition-winchester-300-grain-hollow-point): Discover the high-performance Winchester 45-70 ammo, designed for accuracy and impact. Perfect for big game hunting. Elevate your shooting experience!
-  Updated: 2026-07-07T15:09:32Z
+  Updated: 2026-08-07T18:39:28Z
   Vendor: Winchester
   Product Type: Rifle Ammo
   Availability: Available
@@ -445,7 +452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/blazer-brass-45-acp-jacketed-hollow-point-power-230-grain-jhp-270.webp?v=1777386034
   Price: $27.01 USD
 - [40 S&W Ammo - Reliable Target & Defense by CCI Blazer](https://westerngunstore.com/products/cci-blazer-handgun-40s-w-reliable-jacketed-hollow-point-ammunition): Discover 40 S&W Ammo by CCI Blazer, designed for unmatched reliability. Perfect for target shooting and self-defense with 180 grain jacketed hollow points.
-  Updated: 2026-07-07T15:09:37Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: CCI
   Product Type: Handgun Ammo
   Availability: Available
@@ -543,14 +550,14 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-ecopower-9mm-luger-dominance-self-defense-65-grain-hollow-378.webp?v=1777386076
   Price: $13.66 USD
 - [Unleash Golden Saber Defense Power 9mm Luger +p Ammo - Western Gun Store](https://westerngunstore.com/products/remington-golden-saber-defense-9mm-luger-p-premium-brass-jacket-hollow-point): Remington Golden Saber Defense 9mm Luger +P by Remington delivers unparalleled stopping power for personal defense situations. Featuring: Brass Jacket Hollow Point: Designed for maximum expansion and penetration, ensuring reliable performance in critical situations. 124 Grain Weight: Optimized for accuracy and manageable recoil, making it ideal for both experienced and novice shooters. 20 Rounds Per Box: Conveniently packaged for easy transport and storage, providing you with the right amount of ammunition for training or defense. Perfect for self-defense scenarios, target practice, or law enforcement training, backed by Remington's commitment to quality and reliability. Trust the Golden Saber Defense series for your defense needs, ensuring youâ€™re equipped for any situation that comes your way. Each box comes with the assurance of Remington's reputation for excellence, helping you protect what matters most. - Western Gun Store
-  Updated: 2026-07-07T15:10:16Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-golden-saber-defense-power-9mm-luger-p-ammo-124-grain-944.webp?v=1777386077
   Price: $27.52 USD
 - [Unleash Remington Performance Wheelgun .410 Power 50-round Box! - Western Gun Store](https://westerngunstore.com/products/remington-performance-wheelgun-32-h-r-premium-95-grain-lead-semi-wadcutter): Remington Performance Wheelgun 32 H&R Premium 95 Grain Lead Semi Wadcutter by Remington delivers exceptional accuracy and reliability for your shooting needs. Featuring: High-Quality Construction: Made with premium lead material for optimal performance and precision. 95 Grain Weight: Perfectly balanced for reduced recoil and enhanced control during firing. Lead Semi Wadcutter Design: Ideal for target shooting, providing clean cuts and effective performance. Perfect for competitive shooters and enthusiasts at the range, backed by Remington's reputation for quality and reliability. With 20 rounds per box, youâ€™ll have plenty of ammunition for extended practice sessions or competitions. Experience the difference in your shooting skills with the Remington Performance Wheelgun ammunition a trusted choice among firearm aficionados. - Western Gun Store
-  Updated: 2026-07-07T15:10:16Z
+  Updated: 2026-08-07T18:39:28Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
@@ -564,19 +571,12 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-the-gold-standard-38spss2-snake-shot-power-38-special-130-353.webp?v=1777386081
   Price: $27.12 USD
 - [Remington 32 H&r Magnum High Terminal Performance Ammo - Western Gun Store](https://westerngunstore.com/products/remington-high-terminal-performance-32-h-r-jacketed-hollow-point-85-grain-ammo): Remington High Terminal Performance 32 H&R Jacketed Hollow Point 85 Grain Ammo by Remington delivers exceptional stopping power for personal defense and recreational shooting. Featuring: High Terminal Performance: Designed to deliver maximum energy transfer upon impact, ensuring reliable performance. 85 Grain Jacketed Hollow Point: The JHP design enhances expansion and penetration, making it ideal for self-defense situations. 20 Round Box: Conveniently packaged for easy storage and transport, perfect for a day at the range or emergency preparedness. Perfect for target shooters and self-defense enthusiasts, backed by Remington's commitment to quality and performance. Equip yourself with reliable ammunition that delivers when it matters most. - Western Gun Store
-  Updated: 2026-07-07T15:10:16Z
+  Updated: 2026-08-07T18:39:28Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/remington-32-h-r-magnum-high-terminal-performance-ammo-mag-85-grain-903.webp?v=1777386085
   Price: $27.81 USD
-- [Unleash Winchester Silvertip Precise Accuracy for Personal Defense - Western Gun Store](https://westerngunstore.com/products/winchester-silvertip-45-colt-225-gr-hp-ammo-reliable-functioning-and-precise-accuracy): Winchester Silvertip 45 Colt 225 Gr HP Ammo by Winchester delivers reliable functioning and precise accuracy for all your personal defense needs. Featuring: Time-Proven Design: The Silvertip features an innovative jacket profile that ensures dependable performance in critical situations. Consistent Expansion: Engineered to expand upon impact, this hollow point ammunition maximizes stopping power and effectiveness. Precision Accuracy: Designed for superior accuracy, making it ideal for both target shooting and personal defense scenarios. Perfect for shooters looking for reliable self-defense options, this ammo is backed by Winchester's commitment to quality, ensuring you can trust it when it matters most. Take your shooting experience to the next level with Winchester Silvertip 45 Colt 225 Gr HP Ammo your reliable partner in protection. - Western Gun Store
-  Updated: 2026-07-07T15:10:16Z
-  Vendor: Winchester
-  Product Type: Handgun Ammo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-winchester-silvertip-precise-accuracy-for-personal-defense-45-340.webp?v=1777386086
-  Price: $27.71 USD
 - [Norma .38 Special Ammo: Innovative Terminal Performance - Western Gun Store](https://westerngunstore.com/products/norma-self-defense-38-special-ammo-innovative-terminal-performance): Norma Self Defense 38 Special Ammo by Norma delivers innovative terminal performance for personal protection and self-defense scenarios. Featuring: Advanced Fluted Design: The projectile boasts a unique fluted profile derived from FMJ rounds, ensuring optimal feeding and reliable performance in critical moments. High-Quality 38 Grain NXD: Each round is meticulously crafted to provide maximum stopping power while minimizing recoil, making it ideal for effective self-defense without compromising control. 20 Rounds per Box: Stock up with a convenient pack of 20 rounds, ensuring you have plenty of ammunition for practice sessions and real-world defense situations. Perfect for everyday carry, home defense, or range training, backed by Norma's commitment to quality and performance. Get your hands on this reliable self-defense ammo, designed to deliver when it matters most! - Western Gun Store
   Updated: 2026-07-07T15:10:17Z
   Vendor: Norma
@@ -655,14 +655,14 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/federal-bc45ct1-ballistic-clean-rht-frangible-ammunition-power-45-acp-701.webp?v=1777386124
   Price: $49.78 USD
 - [Remington Htp Handgun Ammo Devastating Sjhp Power - Western Gun Store](https://westerngunstore.com/products/remington-htp-handgun-ammo-44-rem-mag-240-gr-sjhp-superior-stopping-power): Remington HTP Handgun Ammo 44 Rem Mag 240 gr SJHP by Remington delivers superior stopping power for defensive and recreational shooting. Featuring: 240 Grain SJHP Bullet: Designed for maximum expansion and weight retention, ensuring devastating impact on target. High-Quality Brass Casings: Offers reliable feeding and extraction, enhancing overall performance and consistency. 20 Rounds per Box: Perfectly packaged for convenience, allowing for extended shooting sessions without frequent reloading. Perfect for self-defense, target practice, and hunting, backed by Remingtonâ€™s commitment to quality and reliability. - Western Gun Store
-  Updated: 2026-07-07T15:10:35Z
+  Updated: 2026-08-07T18:39:28Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/remington-htp-handgun-ammo-devastating-sjhp-power-44-magnum-240-976.webp?v=1777386126
   Price: $29.00 USD
 - [Liberty Overwatch Handgun Ammunition 9mm Luger Dominates - Western Gun Store](https://westerngunstore.com/products/liberty-overwatch-handgun-ammunition-9mm-luger-high-velocity-hollow-point-1700-fps): Liberty Overwatch Handgun Ammunition 9mm Luger by Liberty delivers maximum stopping power for self-defense and tactical situations. Featuring: High Velocity: Achieving an impressive 1700 fps, this ammunition ensures rapid energy transfer for effective stopping power. Lightweight Design: With a 72 Grain bullet weight, it offers a balance of manageable recoil and maximum lethality. Nickel Casing: The silver nickel casing provides superior reliability and corrosion resistance, ensuring smooth feeding and ejection. Perfect for home defense, law enforcement, or competitive shooting, backed by Liberty's commitment to quality and performance. - Western Gun Store
-  Updated: 2026-07-07T15:10:39Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Liberty Ammunition
   Product Type: Handgun Ammo
   Availability: Available
@@ -676,7 +676,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/remington-ammunition-range-clean-9mm-consistent-shooting-40-s-w-180-919.webp?v=1777386128
   Price: $35.04 USD
 - [Unleash Golden Saber Defense 9mm Luger Power - Western Gun Store](https://westerngunstore.com/products/remington-golden-saber-defense-9mm-luger-trusted-law-enforcement-protection): Remington Golden Saber Defense 9mm Luger by Remington delivers trusted law enforcement protection for personal defense and critical situations. Featuring: 147 Grain Brass Jacket Hollow Point (BJHP): Provides superior stopping power and controlled expansion upon impact. Reliability: Engineered to perform consistently under pressure, making it a dependable choice for everyday carry. 20 Rounds per Box: Offers an ample supply for practice and readiness, ensuring you're always prepared. Perfect for personal defense enthusiasts, law enforcement, and security professionals, the Remington Golden Saber Defense 9mm Luger is backed by Remington's reputation for quality and reliability. Equip yourself with the best in ammunition to protect what matters most. Donâ€™t compromise on safetyâ€”choose Remington Golden Saber Defense for your defensive needs. - Western Gun Store
-  Updated: 2026-07-07T15:10:39Z
+  Updated: 2026-08-07T18:39:28Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
@@ -690,14 +690,14 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-sig-sauer-rose-9mm-luger-power-gold-standard-ammo-115-grain-567.webp?v=1777386134
   Price: $25.43 USD
 - [Remington Htp Jacketed Hollow Point Ammunition Power Unleashed - Western Gun Store](https://westerngunstore.com/products/remington-htp-45lc-230-grain-jacketed-hollow-point-reliable-stopping-power): Remington HTP 45LC 230 Grain Jacketed Hollow Point by Remington delivers reliable stopping power for self-defense and target shooting. Featuring: Velocity: At an impressive 955 FPS, this ammunition ensures powerful performance. Caliber: Designed specifically for .40SW, providing versatility for a range of . Bullet Type: The Jacketed Hollow Point design expands on impact for maximum stopping capability. Bullet Weight: Weighing in at 180 grains, this ammunition offers a balance of power and recoil management. Reloadable: Yes, making it an economical choice for avid shooters looking to reuse their casings. Perfect for hunters, sport shooters, and personal defense, backed by Remingtonâ€™s commitment to quality and performance. With 20 rounds per box, you have the right amount of ammunition for practice or defense scenarios. Elevate your shooting experience with Remington HTP today! - Western Gun Store
-  Updated: 2026-07-07T15:10:43Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/remington-htp-jacketed-hollow-point-ammunition-power-unleashed-45-864.webp?v=1777386135
   Price: $27.33 USD
 - [Unleash the Power Remington Htp 44 Rem Mag Jacketed Soft Point - Western Gun Store](https://westerngunstore.com/products/remington-htp-44-rem-mag-240-grain-jacketed-soft-point-high-velocity-performance): Remington HTP 44 Rem Mag 240 Grain Jacketed Soft Point by Remington delivers high velocity performance for hunting and self-defense. Featuring: Caliber: .44 Remington Magnum ensures a powerful and effective shot for various applications. Bullet Type: Jacketed Soft Point design offers excellent expansion and weight retention upon impact. Velocity: Achieves remarkable speeds of 1610 fps, providing accuracy and force at distance. Perfect for experienced hunters and sport shooters, backed by Remington's renowned quality and reliability. With 20 rounds per box, this reloadable ammunition is designed to meet the demands of both the field and the range. Choose Remington HTP for your next shooting experience and enjoy unparalleled performance with every shot! - Western Gun Store
-  Updated: 2026-07-07T15:10:43Z
+  Updated: 2026-08-07T18:39:28Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
@@ -718,7 +718,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-elite-pmc-9mm-luger-sfx-hp-ammunition-124-grain-hollow-505.webp?v=1777386145
   Price: $25.23 USD
 - [Liberty Ultra-light 380 Acp 50gr Copper Enhanced Kinetic Energy - Western Gun Store](https://westerngunstore.com/products/liberty-ultra-light-ammunition-380-acp-50gr-copper-mono-frag-hp-enhanced-kinetic-energy): Liberty Ultra-Light Ammunition .380 ACP 50Gr Copper Mono Frag HP by Liberty delivers enhanced kinetic energy for self-defense use. Featuring: Innovative Civil Defense Projectiles: Engineered for maximum stopping power, ensuring effective performance in critical situations. Shell Shock Tech Cases: Lightweight yet durable cases that improve reliability and performance, making every shot count. 50 Grain Design: Provides optimal velocity and energy transfer, resulting in superior terminal ballistics. Perfect for personal protection or law enforcement scenarios, backed by a commitment to exceptional quality and performance. - Western Gun Store
-  Updated: 2026-07-07T15:10:52Z
+  Updated: 2026-08-07T18:39:26Z
   Vendor: Liberty Ammunition
   Product Type: Handgun Ammo
   Availability: Available
@@ -760,7 +760,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/federal-personal-defense-handgun-ammo-serious-self-power-357-magnum-866.webp?v=1777386158
   Price: $34.67 USD
 - [Unleash Power Winchester Usa White Box 9mm Luger Ammo - Western Gun Store](https://westerngunstore.com/products/winchester-usa-white-box-9mm-luger-fmj-reliable-performance-with-full-metal-jacket-bullets): Winchester USA White Box 9MM Luger FMJ by Winchester delivers reliable performance for target shooting and personal defense. Featuring: Full Metal Jacket (FMJ): Ensures consistent accuracy and minimized barrel fouling for optimal shooting experiences. 115 Grain Bullet Weight: Provides an excellent balance of recoil management and stopping power, making it ideal for practice and self-defense. Muzzle Energy of 362: Delivers powerful performance with impressive energy output, enhancing your shooting confidence. Muzzle Velocity of 1190 Feet Per Second: Offers a fast and flat trajectory, ensuring precise hits and quick follow-up shots. Perfect for both novice and experienced shooters at the range or for home defense, backed by Winchester's renowned reputation for quality and reliability. - Western Gun Store
-  Updated: 2026-07-07T15:10:58Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Winchester
   Product Type: Handgun Ammo
   Availability: Available
@@ -781,7 +781,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/lehigh-defense-xtreme-gold-tipped-ammo-unleashed-380-acp-68-grain-413.webp?v=1777386165
   Price: $29.95 USD
 - [Hornady Hunter 357 Mag 130gr Monoflex Unleash Power - Western Gun Store](https://westerngunstore.com/products/hornady-hunter-357-mag-130gr-monoflex-reliable-hollow-point-performance): Hornady Hunter 357 Mag 130Gr MONOFLEX by Hornady delivers reliable hollow point performance for hunting and self-defense. Featuring: Caliber .357 Magnum: Designed for exceptional stopping power and precision. 130 Grains Hollow Point: Promotes maximum expansion upon impact for superior performance. Reloadable: Cost-effective option for avid shooters, allowing for multiple uses. Perfect for hunting enthusiasts and self-defense situations, backed by Hornady's commitment to quality and performance. Each box contains 20 cartridges, and with 10 boxes per case, you'll be well-prepared for your next outing. Choose Hornady Hunter for the reliability and effectiveness you demand in the field. - Western Gun Store
-  Updated: 2026-07-07T15:11:03Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Hornady
   Product Type: Handgun Ammo
   Availability: Available
@@ -809,7 +809,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/underwood-xtreme-defender-380acp-ultimate-stopping-power-380-acp-68-741.webp?v=1777386171
   Price: $26.08 USD
 - [Punch P45shc1 Personal Defense Ammunition Unrivaled Stopping Power - Western Gun Store](https://westerngunstore.com/products/federal-p45shc1-premium-personal-defense-punch-high-performance-240-gr-solid-core-ammunition): The Federal P45SHC1 Premium Personal Defense Punch delivers unparalleled stopping power for your personal defense needs. Designed for those who prioritize safety and performance, this high-performance 240 Gr solid core ammunition is perfect for self-defense situations. Featuring: High-Performance 240 Gr Solid Core: Provides exceptional energy transfer for effective stopping power when it matters most. Synthetic Flat Nose Design: Ensures reliable feeding and accuracy, reducing the chance of jams and misfires during critical moments. Stringent Quality Control: Each primer undergoes rigorous inspections for dimensional tolerances, ensuring consistent performance shot after shot. Perfect for law enforcement, home defense, and personal safety during high-pressure situations, backed by Federal's commitment to quality and reliability. - Western Gun Store
-  Updated: 2026-07-07T15:11:08Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Federal
   Product Type: Handgun Ammo
   Availability: Available
@@ -837,7 +837,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-precision-remington-range-handgun-ammo-power-40-s-w-180-454.webp?v=1777386190
   Price: $23.55 USD
 - [Unleash Golden Saber Defense Ammunition Power - Western Gun Store](https://westerngunstore.com/products/remington-golden-saber-defense-ammunition-high-performance-9mm-luger-brass-jacketed-hollow-point): Remington Golden Saber Defense Ammunition by Remington delivers high-performance personal protection for your defense needs. Designed for optimal reliability and effectiveness, this 9mm Luger Brass Jacketed Hollow Point ammunition is the choice of law enforcement professionals. Featuring: Massive Expansion: The unique brass jacketed hollow point design ensures maximum expansion upon impact, delivering devastating stopping power. Consistent Accuracy: Each round is engineered for precision, providing exceptional accuracy and reliability in high-pressure situations. Dependable Performance: Trusted by professionals, this ammunition is rigorously tested to ensure it performs consistently when you need it most. Perfect for personal defense, home protection, and law enforcement use, backed by Remington's commitment to quality and performance. Choose the Remington Golden Saber Defense Ammunition for peace of mind and confidence in your safety. - Western Gun Store
-  Updated: 2026-07-07T15:11:17Z
+  Updated: 2026-08-07T18:39:26Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
@@ -851,14 +851,14 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/g2-research-telos-45acp-unrivaled-stopping-power--45-acp-837.webp?v=1777386196
   Price: $24.19 USD
 - [Federal Premium Hydra-shok Unleashed 38 Special Plus p Power - Western Gun Store](https://westerngunstore.com/products/federal-premium-38-special-plus-p-hydra-shok-jhp-exceptional-stopping-power): Federal Premium 38 Special Plus P Hydra-Shok JHP by Federal delivers exceptional stopping power for personal defense and law enforcement applications. Featuring: Caliber: .38 Special: Designed specifically for reliable performance in critical situations. Bullet Type: Jacketed Hollow Point: Ensures maximum expansion upon impact for devastating stopping power. Bullet Weight: 130 Grains: Optimized for balance between recoil control and terminal ballistics. Perfect for personal protection, home defense, and tactical applications, backed by Federal's commitment to quality and reliability. Each box contains 20 cartridges, making it easy to stock up with 10 boxes per case. Choose Federal Premium 38 Special Plus P Hydra-Shok JHP to ensure you are prepared when it matters most! - Western Gun Store
-  Updated: 2026-07-07T15:11:27Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Federal
   Product Type: Handgun Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/federal-premium-hydra-shok-unleashed-38-special-plus-p-power-130-902.webp?v=1777386205
   Price: $30.09 USD
 - [Winchester Big Bore .45 Colt 250gr Jhp Ammunition Box - Western Gun Store](https://westerngunstore.com/products/winchester-big-bore-45-colt-250gr-jhp-high-performance-jacketed-hollow-point): Winchester Big Bore 45 Colt 250Gr JHP by Winchester delivers high-performance stopping power for serious shooters and hunters. Featuring: Caliber: .45 Long Colt, known for its powerful impact and versatility in various shooting applications. Bullet Type: Jacketed Hollow Point, designed for maximum expansion upon impact, ensuring superior lethality. Weight: 250 Grains, providing the perfect balance of power and accuracy for both target shooting and hunting. Perfect for experienced shooters, competitive events, and big game hunting, backed by Winchester's commitment to quality and reliability. Each box contains 20 cartridges, with 10 boxes per case, ensuring you have a generous supply for all your shooting needs. With reloadable capabilities, these cartridges provide not only performance but also cost efficiency for avid reloaders. - Western Gun Store
-  Updated: 2026-07-07T15:11:27Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Winchester
   Product Type: Handgun Ammo
   Availability: Available
@@ -893,28 +893,28 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-your-potential-with-federal-champion-training-ammo-40-s-w-913.webp?v=1777386220
   Price: $138.48 USD
 - [Unleash Indoor Precision: American Eagle Irt 38 Special Lead-free - Western Gun Store](https://westerngunstore.com/products/federal-american-eagle-irt-38-special-lead-free-indoor-range-training): Federal American Eagle IRT 38 Special by Federal delivers a cleaner shooting experience for indoor range training. Featuring: Lead-Free Design: This ammunition is specifically engineered to minimize lead exposure, making it ideal for indoor ranges. 100 Grains: The optimized weight offers a balance of power and precision, enhancing your shooting performance. 50 Rounds Per Box: Each box contains ample rounds for extensive practice sessions, ensuring you have enough ammo for your needs. Perfect for competitive shooters, hobbyists, and anyone looking to improve their shooting skills indoors, backed by a commitment to safety and quality. - Western Gun Store
-  Updated: 2026-07-07T15:11:38Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Federal
   Product Type: Handgun Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-indoor-precision-american-eagle-irt-38-special-lead-free-779.webp?v=1777386226
   Price: $38.73 USD
 - [Barnes Vor-tx Handgun Ammo Unleash Max Stopping Power! - Western Gun Store](https://westerngunstore.com/products/barnes-vor-tx-handgun-ammo-45-acp-185-gr-tac-xp-all-copper-lead-free-projectiles): Barnes VOR-TX Handgun Ammo 45 ACP 185 gr TAC-XP by Barnes delivers superior stopping power for defensive use. This premium ammunition features all-copper lead-free projectiles designed for maximum performance, making it ideal for personal protection and tactical situations. Featuring: All-Copper Lead-Free Projectiles: Engineered for environmentally friendly shooting while ensuring reliable expansion and penetration. 185 Grain Weight: Offers optimal balance of velocity and energy transfer, enhancing stopping power. Brass Casing: Provides reliable feeding and extraction in various handgun models, ensuring consistent performance. Perfect for self-defense enthusiasts and law enforcement professionals, this ammunition is backed by Barnes' commitment to quality and reliability. Choose Barnes VOR-TX Handgun Ammo for your next range day or personal defense strategy and experience the difference of premium ammunition. Your purchase is supported by a Maker's guarantee for peace of mind. - Western Gun Store
-  Updated: 2026-07-07T15:11:38Z
+  Updated: 2026-08-07T18:39:23Z
   Vendor: Barnes
   Product Type: Handgun Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/barnes-vor-tx-handgun-ammo-unleash-max-stopping-power-45-acp-185-235.webp?v=1777386228
   Price: $26.16 USD
 - [Revolver Performance Redefined: Barnes Pioneer Ammo 357 Mag - Western Gun Store](https://westerngunstore.com/products/barnes-pioneer-revolver-ammo-357-mag-180-gr-exceptional-stopping-power): Elevate Your Revolver Experience with Barnes Pioneer Ammo Barnes Pioneer Revolver Ammo 357 Mag is your ultimate companion in achieving unmatched performance. Tailored for both serious enthusiasts and casual shooters, this top-quality ammunition enhances your shooting experience, offering reliability and power with every round. When your target is on the line, you need ammo that won’t let you down. This 357 Magnum ammo is designed to deliver exceptional stopping power and accuracy, making it an ideal choice for personal defense, competition shooting, and practice sessions alike. Premium Brass Casings: Ensure durability and reliable feeding in all revolvers. 180 Grain Bullets: Optimized for maximum impact and energy transfer upon impact, perfect for self-defense and hunting. 20 Rounds Per Box: Convenient packaging designed for easy storage and transport, so you're always ready for your next range day. Backed by Barnes' legacy of quality and precision engineering, this ammunition is compatible with a variety of revolver models, ensuring you can trust it every time you pull the trigger. Order now and feel the difference in your shooting performance! - Western Gun Store
-  Updated: 2026-07-07T15:11:43Z
+  Updated: 2026-08-07T18:39:23Z
   Vendor: Barnes
   Product Type: Handgun Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-barnes-pioneer-revolver-ammo-357-mag-power-magnum-180-415.webp?v=1777386229
   Price: $28.01 USD
 - [Unleash the Bear Big Bore 44 Remington Magnum Jsp Handgun Ammo - Western Gun Store](https://westerngunstore.com/products/big-bore-44-remington-magnum-jsp-handgun-ammo-high-power-jacketed-soft-point-performance): Big Bore 44 Remington Magnum JSP Handgun Ammo by Big Bore delivers exceptional stopping power and reliability for serious handgun enthusiasts and hunters. Featuring: High Power Jacketed Soft Point (JSP): Designed for maximum expansion upon impact, ensuring superior stopping power. 240 Grain Bullet Weight: Offers a perfect balance between recoil management and terminal ballistics. Muzzle Energy of 1175 ft-lbs: Delivers powerful performance for a wide range of shooting applications. Muzzle Velocity of 1,200 Feet Per Second: Provides a high-speed trajectory for greater accuracy and effective range. Perfect for avid shooters and hunters looking for reliable ammunition in the field or at the range, backed by Big Boreâ€™s commitment to quality and performance. Whether you're taking down game or improving your shooting skills, this ammo ensures you never compromise on power and precision. Experience the difference with Big Bore 44 Remington Magnum JSP Handgun Ammo, designed to meet the demands of serious shooters. Get ready to elevate your shooting experience! - Western Gun Store
-  Updated: 2026-07-07T15:11:47Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Winchester
   Product Type: Handgun Ammo
   Availability: Available
@@ -928,7 +928,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/barnes-ammo-357-mag-xpb-140gr-superior-expansion-power-magnum-140-733.webp?v=1777386235
   Price: $31.29 USD
 - [Unleash Golden Saber Defense 380 Acp Power - Western Gun Store](https://westerngunstore.com/products/remington-golden-saber-defense-380-acp-ammo-reliable-brass-jacket-hollow-point-delivery): Remington Golden Saber Defense 380 ACP Ammo by Remington delivers unmatched reliability for personal defense. This premium ammo is designed to provide law enforcement-grade performance, ensuring you are always protected when it matters most. Featuring: Brass Jacket Hollow Point (BJHP): Engineered for superior expansion and stopping power, this ammo ensures maximum lethality upon impact. 102 Grains: The optimal weight for managing recoil while maintaining effective performance in self-defense situations. 815 Feet Per Second (FPS): Provides a balanced velocity that enhances accuracy and minimizes muzzle flip, making it easier to control during rapid firing. Perfect for self-defense enthusiasts and law enforcement professionals who demand reliability and performance, backed by Remington's commitment to quality and excellence. With its trusted design, the Remington Golden Saber Defense 380 ACP Ammo is ready for use in crucial moments, ensuring you have the confidence to protect yourself and your loved ones. Plus, it comes in a convenient 20-round box, making it easy to carry and store. - Western Gun Store
-  Updated: 2026-07-07T15:11:47Z
+  Updated: 2026-08-07T18:39:26Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
@@ -998,14 +998,14 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/blazing-hot-650-round-40sw-180gr-fmj-ammo-bulk-40-s-w-180-grain-461.webp?v=1777386263
   Price: $321.60 USD
 - [Unleash Golden Saber Defense 45 Acp Power - Western Gun Store](https://westerngunstore.com/products/remington-golden-saber-defense-45-acp-reliable-jacketed-hollow-point-performance): Remington Golden Saber Defense 45 ACP by Remington delivers reliable jacketed hollow point performance for personal defense and law enforcement. Featuring: High-Performance Design: Engineered for optimal expansion and penetration to ensure maximum stopping power. 230 Grain Jacketed Hollow Point: Provides superior accuracy and reliability, ensuring you hit your target every time. Trusted by Professionals: Utilized by law enforcement agencies, offering peace of mind and confidence during critical situations. Perfect for home defense, concealed carry, and law enforcement, backed by Remington's commitment to quality and performance. Each box contains 20 rounds, ensuring youâ€™re equipped when it matters most. - Western Gun Store
-  Updated: 2026-07-07T15:12:04Z
+  Updated: 2026-08-07T18:39:27Z
   Vendor: Remington
   Product Type: Handgun Ammo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/unleash-golden-saber-defense-45-acp-power-230-grain-hollow-point-217.webp?v=1777386265
   Price: $29.29 USD
 - [Unleash Exergy 9mm Luger Defense Power - Western Gun Store](https://westerngunstore.com/products/sellier-bellot-exergy-9mm-luger-100-gr-solid-copper-hollow-point-ammo-devastating-terminal-ballistics): Sellier & Bellot Exergy 9mm Luger 100 Gr Solid Copper Hollow Point Ammo by Sellier & Bellot delivers devastating terminal ballistics for today's compact personal defense handguns and pistols. Featuring: Solid Copper Hollow Point Bullet: Designed for maximum expansion and energy transfer upon impact, ensuring effective stopping power. 100 Grains Weight: Optimized for superior performance in compact , providing reliable accuracy and trajectory. 25 Round Box: Convenient packaging for extended shooting sessions, perfect for training and self-defense preparedness. Perfect for self-defense enthusiasts, range training, and personal protection, backed by Sellier & Bellotâ€™s commitment to quality and reliability. - Western Gun Store
-  Updated: 2026-07-07T15:12:12Z
+  Updated: 2026-08-07T18:39:13Z
   Vendor: Sellier & Bellot
   Product Type: Handgun Ammo
   Availability: Available
@@ -1019,7 +1019,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/federal-syntech-defense-9mm-ammo-dynamic-performance-luger-138-715.webp?v=1777386273
   Price: $32.88 USD
 - [Lehigh Defense Xtreme Gold Tip Ammo - Western Gun Store](https://westerngunstore.com/products/lehigh-defense-xtreme-9mm-luger-90-gr-xd-fmt-ammo-deep-penetration-with-solid-copper-design): Lehigh Defense Xtreme 9mm Luger 90 gr XD FMT Ammo by Lehigh Defense delivers unmatched deep penetration for self-defense and tactical use. Featuring: Solid Copper Design: This innovative construction enhances durability and ensures consistent performance. Deep Penetration Geometry: The unique nose shape facilitates deep, straight penetration, making it effective against various threats. Permanent Wound Cavity: It creates a wound cavity diameter that exceeds most conventional expanding bullets, maximizing stopping power. Perfect for self-defense enthusiasts and law enforcement professionals, this ammunition is backed by Lehigh Defenseâ€™s commitment to quality. With a 20 round box, youâ€™ll have plenty of firepower when you need it most. Equip yourself with the best in self-defense ammunitionâ€”choose Lehigh Defense Xtreme for reliability and performance. - Western Gun Store
-  Updated: 2026-07-07T15:12:17Z
+  Updated: 2026-08-07T18:39:17Z
   Vendor: Lehigh Defense
   Product Type: Handgun Ammo
   Availability: Available
@@ -1061,7 +1061,7 @@
   Image: https://cdn.shopify.com/s/files/1/0659/8341/4377/files/ammo-inc-signature-45-acp-enhanced-performance-total-metal-power-420.webp?v=1777386321
   Price: $25.40 USD
 - [Winchester Silvertip 45 Auto Jacket Hollow Point Defense Ammo - Western Gun Store](https://westerngunstore.com/products/winchester-silvertip-45-acp-185-gr-jacket-hollow-point-trusted-performance-for-defense): Winchester Silvertip 45 ACP 185 Gr Jacket Hollow Point by Winchester delivers trusted performance for defense scenarios. This reliable ammunition is designed for those who prioritize safety and effectiveness in critical situations. Featuring: Caliber: 45 ACP: A powerful caliber choice that ensures optimal stopping power. Bullet Type: Silvertip Jacket Hollow Point: This innovative design promotes expansion upon impact, enhancing lethality and reducing the risk of over-penetration. 20 Round Box: Convenient packaging that allows for easy storage and quick access during emergencies. Perfect for law enforcement, personal defense, or recreational shooting, the Winchester Silvertip is trusted by professionals and civilians alike. Backed by decades of proven performance, this ammunition provides peace of mind when it matters most. Be prepared and confident with Winchester Silvertip ammunition at your side. - Western Gun Store
-  Updated: 2026-07-07T15:12:23Z
+  Updated: 2026-08-07T18:39:17Z
   Vendor: Winchester
   Product Type: Handgun Ammo
   Availability: Available
@@ -1082,11 +1082,11 @@
   Updated: 2026-07-08T11:10:35Z
   Total Products: 4566
 - [Revolvers for  – Single & Double Action Handguns](https://westerngunstore.com/collections/revolver-collection): Explore our premium collection of revolvers for , including single and double action handguns. Find the perfect wheel gun for every purpose today!
-  Updated: 2026-07-02T16:46:49Z
-  Total Products: 1217
+  Updated: 2026-08-07T19:57:48Z
+  Total Products: 1190
 - [Lever Action  for  – Classic Hunting & Cowboy Rifles](https://westerngunstore.com/collections/lever-action-rifles): Explore our collection of Lever Action —perfect for hunting and adding a piece of history to your collection. Enjoy reliability and style in every shot!
-  Updated: 2026-07-02T16:46:49Z
-  Total Products: 108
+  Updated: 2026-08-07T19:57:48Z
+  Total Products: 373
 - [Single Shot  for  – Rifles & Shotguns for Hunting & Precision](https://westerngunstore.com/collections/single-shot-rifles-western-gun-store): Single Shot  – Western Gun Store In a world full of rapid-fire options, the single-shot rifle stands apart — a symbol of discipline, precision, and true marksmanship.  - Western Gun Store
   Updated: 2026-07-02T16:46:49Z
   Total Products: 16
@@ -1094,11 +1094,11 @@
   Updated: 2026-07-02T16:46:50Z
   Total Products: 1410
 - [Western Gun Store: Shooter's Paradise!](https://westerngunstore.com/collections/-western-gun-store): At Western Gun Store, our Gun Section is built for true shooters—sportsmen, collectors, enthusiasts, and defenders of home and family. Whether you're gearing up for the field, outfitting your ranch, or expanding your collection, we offer a trusted selection of  from the most respected manufacturers in the industry. Explore a curated lineup of rifles, shotguns, handguns, and classic Western-style , each chosen for reliability, performance, and craftsmanship. From lever-action rifles and cowboy-action revolvers to modern semi-autos and tactical platforms, our inventory is designed to match every shooting style and skill level. Western Gun Store is committed to providing honest value, quality gear, and the heritage of the American West. Every firearm we carry reflects that legacy—rugged, dependable, and ready for action. Shop with confidence, shoot with pride, and equip yourself with  built to last. - Western Gun Store
-  Updated: 2026-07-01T21:03:12Z
-  Total Products: 262
+  Updated: 2026-08-07T20:00:36Z
+  Total Products: 208
 - [All Items – Your Ultimate Destination for , Ammo, Optics & Outdoor Gear](https://westerngunstore.com/collections/-ammo-optics): Discover the ultimate collection of , ammo, optics, and outdoor gear at Western Gun Store. All items designed to elevate your outdoor adventures await!
-  Updated: 2026-08-02T11:11:33Z
-  Total Products: 60967
+  Updated: 2026-08-08T11:11:59Z
+  Total Products: 60790
 - [ for  – Rifles, Shotguns & Handguns Online](https://westerngunstore.com/collections/-for-): Browse  for , including rifles, shotguns, and handguns from trusted brands for hunting, range use, and collecting.
   Updated: 2026-07-02T16:46:50Z
   Total Products: 10912
@@ -1166,11 +1166,11 @@
   Updated: 2026-07-02T16:46:50Z
   Total Products: 6561
 - [Cowboy Action Essentials](https://westerngunstore.com/collections/cowboy-action-essentials): Discover a curated selection of Cowboy Action shooting supplies, including revolvers, rifles, and holsters for your next competitive western match.
-  Updated: 2026-07-01T21:02:38Z
-  Total Products: 156
+  Updated: 2026-08-07T21:19:35Z
+  Total Products: 421
 - [New Arrivals](https://westerngunstore.com/collections/wester-gun-store-new-arrivals): Browse the Wester Gun Store New Arrivals to find our most recent selection of  and gear. Stay updated with the latest inventory added to our shop.
-  Updated: 2026-08-02T11:11:33Z
-  Total Products: 60755
+  Updated: 2026-08-08T11:11:59Z
+  Total Products: 60790
 
 ## Blogs
 
@@ -1658,6 +1658,15 @@
     Author: Jason Marsh
   - [The Timeless Art of Shooting Mastering Your First Lever Action Rifle](https://westerngunstore.com/blogs/news/the-timeless-art-of-shooting-mastering-your-first-lever-action-rifle): The Timeless Art of Shooting Mastering Your First Lever Action Rifle
     Updated: 2026-08-02T12:02:27Z
+    Author: Jason Marsh
+  - [The Fascinating Evolution of the Revolver A  Enthusiast’s Dream](https://westerngunstore.com/blogs/news/the-fascinating-evolution-of-the-revolver-a--enthusiast-s-dream): The Fascinating Evolution of the Revolver A  Enthusiast’s Dream
+    Updated: 2026-08-04T12:04:03Z
+    Author: Jason Marsh
+  - [Lever Action versus Semi-Automatic Which Rifle Wins in Versatility?](https://westerngunstore.com/blogs/news/lever-action-versus-semi-automatic-which-rifle-wins-in-versatility): Lever Action versus Semi-Automatic Which Rifle Wins in Versatility?
+    Updated: 2026-08-08T12:01:29Z
+    Author: Jason Marsh
+  - [Addressing Common Issues With Your Revolver A Troubleshooter’s Manual](https://westerngunstore.com/blogs/news/addressing-common-issues-with-your-revolver-a-troubleshooter-s-manual): Addressing Common Issues With Your Revolver A Troubleshooter’s Manual
+    Updated: 2026-08-09T12:02:34Z
     Author: Jason Marsh
 
 ## Store Pages
