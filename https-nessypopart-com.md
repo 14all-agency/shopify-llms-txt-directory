@@ -6,12 +6,12 @@
 - Timezone: Australia/Melbourne
 - Created At: 2025-08-13T08:46:37Z
 - Contact Email: scott@nessypopart.com
-- Updated At: 2026-08-02T00:00:34.907Z
+- Updated At: 2026-08-10T00:00:37.590Z
 
 ## Products
 
 - [A DOGS LIFE - 1 2 3](https://nessypopart.com/products/a-dogs-life-1-2-3): “I’m gonna swing…” and he does. Inspired by Sia’s iconic Chandelier, this piece finds our dog mid-swing on a light fixture, rainbow mop proudly atop his head like a party crown. It’s chaos, it’s joy, it’s pure canine abandon. Ness channels the spirit of the song’s opening countdown—1, 2, 3...—into a moment of wild celebration, where rules don’t apply and gravity’s just a suggestion. Available in 40×40 cm and 100×100 cm Choose Framed or Rolled For the ones who swing first and ask questions later.
-  Updated: 2026-07-27T08:08:21Z
+  Updated: 2026-08-03T08:08:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-123-pets-framed-canvas-40x40cm.jpg?v=1755423862
     Price: $495.00 AUD
 - [A DOGS LIFE – Friends Forever | Original Pop Art Dog Portrait by Nessy](https://nessypopart.com/products/a-dogs-life-friends-forever): Giclée canvas print by Nessy Pop Art—celebrating loyalty and friendship in a vibrant 100×100 cm or 40x40 cm limited edition artwork.
-  Updated: 2026-07-27T08:08:21Z
+  Updated: 2026-08-03T08:08:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -55,7 +55,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-friends-forever-pets-framed-canvas-40x40cm.jpg?v=1755422783
     Price: $495.00 AUD
 - [A DOGS LIFE – Gig | Giclée Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-gig): Giclée canvas print by Nessy Pop Art—fresh from the bath, towel-wrapped, and giggling. A cheeky 100×100 cm dog portrait full of charm.
-  Updated: 2026-07-27T08:08:21Z
+  Updated: 2026-08-03T08:08:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -77,7 +77,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-gig-pets-framed-canvas-40x40cm.jpg?v=1755420899
     Price: $495.00 AUD
 - [A DOGS LIFE – Mmmm | Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-mmm): Giclée canvas print by Nessy Pop Art—one blade of grass, infinite questions. A dog mid-chew, lost in cosmic contemplation.
-  Updated: 2026-07-27T08:08:21Z
+  Updated: 2026-08-03T08:08:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -99,7 +99,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-mmmm-pets-framed-canvas-40x40cm.jpg?v=1755418979
     Price: $495.00 AUD
 - [A DOGS LIFE – Pant | Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-pant): Giclée canvas print by Nessy Pop Art—balance, bravado, and circus cool in a bold 100×100 cm  and 40x40 cm dog portrait
-  Updated: 2026-07-27T08:08:26Z
+  Updated: 2026-08-03T08:08:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -121,7 +121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-pant-pets-framed-canvas-40x40cm.jpg?v=1755418179
     Price: $495.00 AUD
 - [A DOGS LIFE – Slurp | Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-slurp): Giclée canvas print by Nessy Pop Art—celebrating loyalty and friendship in a vibrant 100×100 cm limited edition artwork.
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -213,7 +213,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-milo-packaging-giclee-a4.jpg?v=1755338512
     Price: $60.00 AUD
 - [AUS POP - Smiths](https://nessypopart.com/products/aus-pop-smiths): Crinkle-cut memories, sealed in foil and Aussie pride. AUS POP — Smiths celebrates the iconic chip packet that’s fueled road trips, lunchboxes, and backyard cricket for generations. With bold colors and pop art flair inspired by Warhol and Lichtenstein, this print transforms salty snacking into cultural storytelling. Whether you were a Chicken maniac, Salt & Vinegar rebel, or Original purist, this piece is a tribute to the joy of tearing open a bag and diving into flavor. It’s not just chips—it’s childhood, chaos, and crunchy comfort. Giclee Print on Cold Press Bright Art Paper A4: 210 x 297 mm (8.3 x 11.7 inches) Framed Giclee on canvas 100 x 75 cm (40 x 30 inches) Perfect for kitchens, studios, or gallery walls. Limited availability—secure yours today. Collect all 9 in the series!
-  Updated: 2026-07-27T08:08:20Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -255,7 +255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-vegemite-packaging-giclee-a4_2.jpg?v=1755080306
     Price: $60.00 AUD
 - [AUS POP - Weetbix](https://nessypopart.com/products/aus-pop-weetbix-le): How do you start your day? If you're Aussie, chances are it's with a bowl of Weet-Bix and a splash of milk. AUS POP — Weet-Bix immortalizes the breakfast of champions in bold, pop art style—nostalgic, cheeky, and unmistakably iconic. Inspired by Warhol and Lichtenstein, this piece celebrates the golden crunch that powered generations, from backyard footy legends to sleepy school mornings. Whether you were a two-bix kid or a six-bix hero, this print is a tribute to Aussie resilience, routine, and the quiet magic of cereal boxes on kitchen tables. Giclee Print on Cold Press Bright Art Paper A4: 210 x 297 mm (8.3 x 11.7 inches) Framed Giclee on canvas 100 x 75 cm (40 x 30 inches) Perfect for kitchens, studios, or gallery walls. Limited availability—secure yours today. Collect all 9 in the series!
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -451,12 +451,12 @@
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-original-hoodie-boy-struggle-emotive-pop-art-30x40cm-hero.jpg?v=1755234499
   Price: $2,200.00 AUD
 - [Swimming Towards Love | Hoodie Boy Original by Ness](https://nessypopart.com/products/hoodie-boy-swimming-towards-love): Hoodie Boy reaches for love in vivid blue waves—original pop art exploring connection, mental health, and emotional resilience with warmth and depth.
-  Updated: 2026-07-10T14:08:21Z
+  Updated: 2026-08-08T03:09:13Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-original-hoodie-boy-swimming-to-love-emotive-pop-art-15x15cm-hero_cb7d07db-fbf2-4758-9629-a2df88c6b9d2.jpg?v=1755231154
-  Price: $295.00 AUD
+  Price: $595.00 AUD
 - [Hoodie Boy - That’s all love! | Limited Edition Pop Art Print | 40×40 cm Giclée](https://nessypopart.com/products/hoodie-boy-that-s-all-love): Hoodie Boy – That’s all love! Pop Art Print. 40×40 cm giclée on fine art paper. Limited edition of 50.
   Updated: 2026-07-10T14:08:21Z
   Vendor: Nessy Pop Art
@@ -472,7 +472,7 @@
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-yo-yo-emotive-pop-art-hero.jpg?v=1755346386
   Price: $495.00 AUD
 - [ICON - Bowie](https://nessypopart.com/products/icon-bowie): Drawn the day Ness heard of David Bowie’s passing, this portrait marks the beginning of the ICON series—a spontaneous, emotional response to loss, legacy, and transformation. Signed Nessy – 2016, it captures Bowie not as one version of himself, but as a fusion of many: The Aladdin Sane lightning bolt, sharp and iconic The Ziggy Stardust flame-red hair, untamed and theatrical The raised hands, echoing Heroes era vulnerability and defiance Set against a saturated orange field, this piece radiates pop-art clarity and emotional depth. Ness didn’t just draw Bowie—she summoned him. The result is a composite myth, stitched from memory and reverence, inviting collectors to see Bowie as both icon and mirror. This was the first ICON. The one that cracked open the series. A moment of grief turned into a visual anthem for reinvention. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) For collectors who carry Bowie’s spirit in their own transformations, this print is more than art—it’s origin. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:17Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -497,7 +497,7 @@
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-original-freddie-emotive-mixed-media-canvas-100x75cm-hero.jpg?v=1755251981
   Price: $2,300.00 AUD
 - [JETSONS – Rosie Doubtfire | Limited Edition Pop Art by Nessy](https://nessypopart.com/products/jetsons-rosie-doubtfire): Retro-futurist Giclée canvas print by Nessy Pop Art—Rosie the Robot meets Mrs. Doubtfire in a playful 40x40 cm and 75×75 cm mashup.
-  Updated: 2026-07-28T11:07:41Z
+  Updated: 2026-08-03T08:26:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -511,7 +511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-rosie-doubtfire-cartoon-framed-canvas-75x75cm.jpg?v=1757764116
     Price: $1,295.00 AUD
 - [K9 Wonder Woman – Bold Pop Art Dog Portrait by Nessy Pop Art](https://nessypopart.com/products/k9-wonder-woman): A vibrant Wonder Woman‑inspired dog artwork bursting with colour, attitude, and pop‑art charm. Perfect for collectors who love heroic, playful canine art.
-  Updated: 2026-07-27T08:08:11Z
+  Updated: 2026-08-03T08:08:11Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -533,7 +533,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-wonder-woman-pets-framed-canvas-40x40cm.jpg?v=1768454989
     Price: $495.00 AUD
 - [PIXEL - Mega Pixel](https://nessypopart.com/products/pixel-mega-pixel): Legacy upgraded. Pixel perfected. Mega Pixel is a tribute to evolution—where the iconic silhouette of the original Mega Man helmet meets its sleek, modern counterpart. NessyART’s mashup captures the tension between nostalgia and innovation, pixelating the past and future into one electrifying canvas. It’s a visual power-up for collectors who grew up with 8-bit dreams and still chase boss-level brilliance. Limited Editions of 100 each 40x40cm or 75x75cm Rolled or Framed Canvas
-  Updated: 2026-07-10T14:08:24Z
+  Updated: 2026-08-03T08:08:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -555,7 +555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-pixels-megapixel-arcade-framed-canvas-75x75cm_b5c1e61c-7dc8-46d0-a1b6-1e201b95a589.jpg?v=1755413011
     Price: $995.00 AUD
 - [PIXEL - Pac Bomber](https://nessypopart.com/products/pixel-pac-bomber): Eat fast. Explode faster. Pac Bomber is a pixel-fueled collision of two arcade legends—where maze-running meets bomb-dropping mayhem. NessyART’s mashup reimagines Pac-Man’s endless hunger with Bomberman’s explosive strategy, creating a chaotic playground of pixels, pellets, and peril. It’s nostalgia with a fuse lit—perfect for collectors who crave retro rebellion. Limited Editions of 100 each 40x40cm or 75x75cm Rolled or Framed Canvas
-  Updated: 2026-07-10T14:08:24Z
+  Updated: 2026-08-03T08:08:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -577,7 +577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-pixels-pac-bomber-arcade-framed-canvas-75x75cm.jpg?v=1755412375
     Price: $995.00 AUD
 - [PIXEL – Super Chance | Giclée Limited Edition Pop Art by Nessy](https://nessypopart.com/products/pixel-super-chance): Giclée canvas print by Nessy Pop Art—Monopoly meets Mario in a pixel-powered mashup of luck and chaos.
-  Updated: 2026-07-10T14:08:25Z
+  Updated: 2026-08-03T08:08:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -628,28 +628,28 @@
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-pretty-astro-limited-edition-hero_d4087ec7-b315-4de9-a0bb-952cbcf192ec.jpg?v=1755404081
   Price: $1,295.00 AUD
 - [ROCKY HORROR - Columbia](https://nessypopart.com/products/rocky-horror-columbia-limited-edition): Tap into the tap-dancing heart of Rocky Horror with Ness’s Columbia—a vibrant, high-energy portrait that channels the sequined spirit of the castle’s most loyal groupie. This piece radiates purple multicolor chaos, capturing Columbia’s manic charm and glitter-drenched devotion. At the center, one line steals the spotlight: “A guy gave me an evil wink.” A moment of heartbreak, obsession, and theatrical brilliance—etched in bold, just like Columbia herself. 💜 Purple multicolor palette, full of razzle-dazzle and emotional punch ✍️ Signed by for authenticity and collector connection 🎁 Limited edition of 100 🖼️ Floater shadow box frame adds gallery-grade depth
-  Updated: 2026-07-27T08:08:18Z
+  Updated: 2026-08-03T08:08:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-rocky-horror-columbia-movies-hero.jpg?v=1755762746
   Price: $995.00 AUD
 - [Frank-N-Furter – Rocky Horror Pop Art Canvas by NessyART](https://nessypopart.com/products/rocky-horror-frankie-limited-edition): Limited Edition Pop Art Canvas of Frank-N-Furter from Rocky Horror – Large 100x75cm Giclée Print, Signed & Framed by NessyART
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-rocky-horror-frank-n-furter-movies-hero.jpg?v=1755761220
   Price: $1,295.00 AUD
 - [Magenta – Rocky Horror Pop Art Canvas by NessyART](https://nessypopart.com/products/rocky-horror-magenta-limited-edition): Magenta – Rocky Horror Pop Art Giclée Print on Canvas – Signed, Framed Limited Edition 75x75cm by NessyART
-  Updated: 2026-07-27T08:08:21Z
+  Updated: 2026-08-03T08:08:18Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-rocky-horror-magenta-movies-hero.jpg?v=1755763218
   Price: $995.00 AUD
 - [SUPERHERO - Captain Bulldog (Limited Edition)](https://nessypopart.com/products/superhero-captain-bulldog-le): Justice never looked so jowly. Captain Bulldog is the blue Frenchie with a heart of gold and a shield of sass. With ears perked and stance firm, he’s the steadfast sentinel of backyard freedom and biscuit equality. Whether he’s leading the charge or napping mid-mission, this patriotic pup proves that courage comes in compact, snorty packages. This limited edition giclée on canvas captures the bulldog in full heroic glory—stoic, stylish, and slightly skeptical of your snack choices. A tribute to loyalty, resilience, and the power of a well-timed head tilt. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:21Z
   Vendor: Nessy Pop Art
   Product Type: Canvas
   Availability: Available
@@ -671,7 +671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-captain-bulldog-comic-framed-canvas-75x75cm.jpg?v=1755493293
     Price: $895.00 AUD
 - [SUPERHERO - Dr Airedale (Limited Edition)](https://nessypopart.com/products/superhero-dr-airedale-le): Reality is overrated. Dr Airedale bends time, space, and snack schedules with a flick of his paw and a furrowed brow. Cloaked in cosmic charm and armed with a stare that sees through dimensions (and closed pantry doors), this wise-cracking wizard pup brings a touch of magic to the Superheroes Series. This limited edition giclée on canvas captures the Airedale in full sorcerer mode—mystical, majestic, and mildly judgmental. Whether he’s guarding your sanctum or meditating on the meaning of mealtime, Dr Airedale reminds us that the universe is best explored with a loyal companion by your side. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2026-07-27T08:08:21Z
+  Updated: 2026-08-03T08:08:21Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -693,7 +693,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-dr-airedale-comic-framed-canvas-75x75cm.jpg?v=1755492383
     Price: $895.00 AUD
 - [SUPERHERO – Spiderdog | Framed Limited Edition Canvas Dog Print by Nessy](https://nessypopart.com/products/superhero-spiderdog-le): Giclée canvas print by Nessy Pop Art—Spiderdog swings into action with paws poised and senses tuned. Available in 40×40 or 75×75 cm.
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -715,7 +715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-spiderdog-comic-framed-canvas-75x75cm.jpg?v=1755491895
     Price: $895.00 AUD
 - [SUPERHERO - Thanos (Limited Edition)](https://nessypopart.com/products/superhero-thanos-le): He’s compact, cosmic, and absolutely unbothered. Thanos the Bulldog enters the Superheroes Series with a face as purple as his ego and a stare that could silence galaxies. No collar. No leash. Just pure, unfiltered power wrapped in wrinkles and snorts. This limited edition canvas captures the moment when destiny meets dogged determination. Whether he’s perched on the couch like a throne or stomping through the backyard like it’s Titan, Thanos reminds us: balance isn’t given—it’s demanded (preferably with treats). Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -737,7 +737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-thanos-comic-framed-canvas-75x75cm.jpg?v=1755484718
     Price: $895.00 AUD
 - [SUPERHERO - The Incredible Pug (Limited Edition)](https://nessypopart.com/products/superhero-the-incredible-pug-le): Don’t let the squishy face fool you—The Incredible Pug is pure power wrapped in green fur and stubborn charm. When this pint-sized Hulk gets riled up, furniture trembles and snack jars quake. But beneath the growl lies a heart that’s fiercely loyal and hilariously lovable. This limited edition giclée on canvas captures the pug’s transformation into a muscle-bound marvel of mischief. With bulging brows and a heroic pout, he’s ready to smash boredom and snuggle through the aftermath. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -759,7 +759,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-incredible-pug-comic-framed-canvas-75x75cm.jpg?v=1755483975
     Price: $895.00 AUD
 - [SUPERHERO - Wonderhound](https://nessypopart.com/products/superhero-wonderhound): Meet Wonderhound, the noble Basset Hound who’s traded her sniffing duties for a golden lasso and a mission of justice. With ears that flap like a cape and eyes that pierce through villainy (and snack cupboards), she’s the embodiment of loyalty, courage, and quiet sass. These open edition giclée prints transform the iconic Wonder Woman into a long-bodied legend of love and strength. Whether she’s guarding your living room or inspiring your studio, Wonderhound reminds us that true heroism comes with droopy eyes and a heart of gold. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included. For something extra special, Framed Limited Edition Canvases can be found here: Superheroes Limited Editions
-  Updated: 2026-07-27T08:08:17Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -773,7 +773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-wonder-hound-comic-giclee-30x30cm.jpg?v=1756528454
     Price: $120.00 AUD
 - [SUPERHERO - Wonderhound (Limited Edition)](https://nessypopart.com/products/superhero-wonderhound-le): Meet Wonderhound, the noble Basset Hound who’s traded her sniffing duties for a golden lasso and a mission of justice. With ears that flap like a cape and eyes that pierce through villainy (and snack cupboards), she’s the embodiment of loyalty, courage, and quiet sass. This limited edition giclée on canvas transforms the iconic Wonder Woman into a long-bodied legend of love and strength. Whether she’s guarding your living room or inspiring your studio, Wonderhound reminds us that true heroism comes with droopy eyes and a heart of gold. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -833,35 +833,35 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-warhol-pink-portrait-framed-canvas-100x100cm.jpg?v=1755394183
     Price: $1,595.00 AUD
 - [Hoodie Boy - Bullied](https://nessypopart.com/products/hoodie-boy-bullied): A jester crown sits crooked atop Hoodie Boy’s head — the artist’s recurring alter‑egoi —not in triumph, but defiance. Bruised but unbowed, he stands at the center of a chaotic chorus of pop culture ghosts and childhood echoes. Charlie Brown’s “Good Grief” floats nearby like a sigh too familiar. Inspector Clouseau stumbles through the margins, clueless to the cruelty. Keith Haring’s radiant baby beams in contrast, a symbol of innocence lost. This painting is a riot of color and commentary, channeling Basquiat’s raw energy but swapping royalty for jesters, heroes for survivors. Scribbled phrases, fractured symbols, and cartoon fragments swirl around Hoodie Boy like the noise of a thousand taunts. Yet he remains—scraped, scuffed, but still standing. Bullied is not just a portrait. It’s a protest. A memory. A mirror.
-  Updated: 2026-07-29T13:32:25Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-bullied-emotive-acrylic-canvas-60x60cm-hero.jpg?v=1755593735
   Price: $2,300.00 AUD
 - [Hoodie Boy - Pills](https://nessypopart.com/products/hoodie-boy-pills): Hoodie Boy – Pills Hoodie Boy — the artist’s recurring alter‑egoi — grips a spray can, freshly tagging the word PILLS in dripping blood-red across the wall. It’s not graffiti—it’s a confession. A protest. A cry. The letters bleed like open wounds, raw and unresolved. Around him, the world spins in manic contradiction: Muttley cackles with cruel delight. Spy vs Spy lurks in monochrome tension. Felix the Cat grins through the static. Pac-Man chases ghosts that never die. The Monopoly cop watches, unmoved. A peace sign flickers. Keith Haring’s heart pulses. A lone figure waves. This isn’t just about medication—it’s about the storm inside. The characters aren’t random; they’re echoes of distraction, surveillance, nostalgia, and absurdity. Hoodie Boy doesn’t ask for permission. He paints the truth. This piece confronts the messy reality of mental health—the pills that help, the ones that numb, and the ones that simply exist in the background of survival.
-  Updated: 2026-07-29T13:34:48Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-pills-emotive-acrylic-canvas-50x40cm-hero-Copy.jpg?v=1755601492
   Price: $2,200.00 AUD
 - [Hoodie Boy - Dali Who?](https://nessypopart.com/products/hoodie-boy-dali): What happens when Hoodie Boy — the artist’s recurring alter‑egoi — channels the master of surrealism? You get Dali—a bold, blue figure against a blazing red backdrop, complete with the unmistakable curled mustache. It’s a wink to Salvador, but with Hoodie Boy’s signature emotional depth and quiet defiance. This piece isn’t just homage—it’s transformation. A miniature rebellion wrapped in pop iconography, perfect for collectors who crave wit, color, and a touch of the absurd. Put it on a shelf. Frame it. Hang it. Let it stare back at you like time melting in reverse. Frame not included - for illustrative purposes only.
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-originals-hoodie-boy-dali-emotive-acrylic-canvas-15x15cm-hero.jpg?v=1755688680
   Price: $295.00 AUD
 - [CHFNO](https://nessypopart.com/products/chfno): If you know, you know. Some days you pray. Some days you medicate. Some days you do both and hope the side effects cancel each other out. CHFNO doesn’t judge. It just sits there—haloed, smiling, chemically precise. For collectors who know that getting through the day is an art form too. Frame not included - for illustrative purposes only.
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-originals-chfno-emotive-acrylic-canvas-15x15cm-hero.jpg?v=1755690789
   Price: $295.00 AUD
 - [Hoodie Boy - Unity](https://nessypopart.com/products/hoodie-boy-unity): A riot of color. A quiet declaration. Draped in a ceremonial headdress and wired into the present, Hoodie Boy — the artist’s recurring alter‑egoi — sits at the crossroads of culture and connection. This piece channels Love, Harmony, Peace, and Equality—not as slogans, but as lived contradictions. The headphones aren’t escape—they’re communion. The feathers aren’t costume—they’re legacy. Unity doesn’t shout. It listens. Available in two sizes. Limited to 50 editions. For those who believe rebellion can be gentle, and presence can be loud. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 50
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -883,7 +883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-unity-emotive-framed-canvas-75x75cm-kitchen.jpg?v=1755924446
     Price: $995.00 AUD
 - [Hoodie Boy - Dali Who?](https://nessypopart.com/products/hoodie-boy-dali-who): What happens when Hoodie Boy — the artist’s recurring alter‑egoi — channels the master of surrealism? You get Dali Who?—a bold figure against a colourful backdrop, complete with the unmistakable curled mustache. It’s a wink to Salvador, but with Hoodie Boy’s signature emotional depth and quiet defiance. This piece isn’t just homage—it’s transformation. A rebellion wrapped in pop iconography, perfect for collectors who crave wit, color, and a touch of the absurd. Multiple colours available as a nod to Warhol. Just one, or multiples. Let it stare back at you like time melting in reverse. 40x40cm or 75x75cm Limited Edition Framed Canvas 4 colour variations Limited to 30 each Red, Pink, Green or Yellow background
-  Updated: 2026-07-27T08:08:19Z
+  Updated: 2026-08-03T08:08:21Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -929,21 +929,21 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-dali-who-multi-artist-framed-canvas-75x75cm-kitchen.jpg?v=1755933095
     Price: $1,295.00 AUD
 - [Hoodie Boy - Dali Who?](https://nessypopart.com/products/hoodie-boy-dali-who-60x60cm): What happens when Hoodie Boy — the artist’s recurring alter‑egoi — channels the master of surrealism? You get Dali—a bold, figure against a splashy backdrop, complete with the unmistakable curled mustache. It’s a wink to Salvador, but with Hoodie Boy’s signature emotional depth and quiet defiance. This piece isn’t just homage—it’s transformation. A rebellion wrapped in pop iconography, perfect for collectors who crave wit, color, and a touch of the absurd. Hang it. Let it stare back at you like time melting in reverse.
-  Updated: 2026-07-29T13:30:19Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-dali-who-artist-framed-acrylic-canvas-60x60cm-hero_40af875c-529d-45e6-830d-4f74673555d1.jpg?v=1756112529
   Price: $2,300.00 AUD
 - [Hoodie Boy x Monopoly Man](https://nessypopart.com/products/hoodie-boy-x-monopoly-man): Two figures reach skyward—Hoodie Boy for a pair of drifting pills, Monopoly Man for a floating bill. Between them, currency and capsules cross mid-air like symbols in orbit. Is this relief or reward? Medication or capitalism? Each reach for what they think they need. Or maybe what they’ve been told to want. Shadow box framed.
-  Updated: 2026-07-27T08:08:22Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-x-monopoly-man-games-framed-canvas-acrylic-30x30cm-hero.jpg?v=1756094156
   Price: $795.00 AUD
 - [SUPERHERO - Captain Bulldog](https://nessypopart.com/products/superhero-captain-bulldog-1): Justice never looked so jowly. Captain Bulldog is the blue Frenchie with a heart of gold and a shield of sass. With ears perked and stance firm, he’s the steadfast sentinel of backyard freedom and biscuit equality. Whether he’s leading the charge or napping mid-mission, this patriotic pup proves that courage comes in compact, snorty packages. This open edition giclée print on fine art paper captures the bulldog in full heroic glory—stoic, stylish, and slightly skeptical of your snack choices. A tribute to loyalty, resilience, and the power of a well-timed head tilt. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included. For something extra special, Framed Limited Edition Canvases can be found here: Superheroes Limited Editions
-  Updated: 2026-07-27T08:08:18Z
+  Updated: 2026-08-03T08:08:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -957,7 +957,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-captain-bulldog-comic-giclee-30x30cm.jpg?v=1756527003
     Price: $120.00 AUD
 - [SUPERHERO - Dr Airedale](https://nessypopart.com/products/superhero-dr-airedale-1): Reality is overrated. Dr Airedale bends time, space, and snack schedules with a flick of his paw and a furrowed brow. Cloaked in cosmic charm and armed with a stare that sees through dimensions (and closed pantry doors), this wise-cracking wizard pup brings a touch of magic to the Superheroes Series. This open edition giclée print on fine art paper captures the Airedale in full sorcerer mode—mystical, majestic, and mildly judgmental. Whether he’s guarding your sanctum or meditating on the meaning of mealtime, Dr Airedale reminds us that the universe is best explored with a loyal companion by your side. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included. For something extra special, Framed Limited Edition Canvases can be found here: Superheroes Limited Editions
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -971,7 +971,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-doctor-airedale-comic-giclee-30x30cm.jpg?v=1756527293
     Price: $120.00 AUD
 - [SUPERHERO - Spiderdog](https://nessypopart.com/products/superhero-spiderdog-1): With great power comes great appetite. Spiderdog swings into the Superheroes Series with paws poised for action and spidey senses tuned to the faintest rustle of a treat bag. Agile, alert, and adorably food-motivated, this heroic hound proves that not all heroes wear capes—some just sniff out snacks with supernatural precision. This open edition giclée print on fine art paper captures Spiderdog mid-mission, balancing bravery with belly-driven instincts. Whether he’s scaling couch cushions or guarding the pantry, he’s a reminder that heroism can be both noble and delicious. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included. For something extra special, Framed Limited Edition Canvases can be found here: Superheroes Limited Editions
-  Updated: 2026-07-27T08:08:18Z
+  Updated: 2026-08-03T08:08:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -985,7 +985,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-spiderdog-comic-giclee-30x30cm.jpg?v=1756527770
     Price: $120.00 AUD
 - [SUPERHERO - Thanos](https://nessypopart.com/products/superhero-thanos-1): He’s compact, cosmic, and absolutely unbothered. Thanos the Bulldog enters the Superheroes Series with a face as purple as his ego and a stare that could silence galaxies. No collar. No leash. Just pure, unfiltered power wrapped in wrinkles and snorts. This open edition giclee print on fine art paper captures the moment when destiny meets dogged determination. Whether he’s perched on the couch like a throne or stomping through the backyard like it’s Titan, Thanos reminds us: balance isn’t given—it’s demanded (preferably with treats). Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included. For something extra special, Framed Limited Edition Canvases can be found here: Superheroes Limited Editions
-  Updated: 2026-07-27T08:08:17Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -999,7 +999,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-thanos-comic-giclee-30x30cm_88e06df6-7ebd-4a84-a276-535b1189e8e4.jpg?v=1756528299
     Price: $120.00 AUD
 - [SUPERHERO - Incredible Pug](https://nessypopart.com/products/superhero-incredible-pug): Don’t let the squishy face fool you—The Incredible Pug is pure power wrapped in green fur and stubborn charm. When this pint-sized Hulk gets riled up, furniture trembles and snack jars quake. But beneath the growl lies a heart that’s fiercely loyal and hilariously lovable. This open edition giclée print on fine art paper captures the pug’s transformation into a muscle-bound marvel of mischief. With bulging brows and a heroic pout, he’s ready to smash boredom and snuggle through the aftermath. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included. For something extra special, Framed Limited Edition Canvases can be found here: Superheroes Limited Editions
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1013,7 +1013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-incredible-pug-comic-giclee-30x30cm.jpg?v=1756528116
     Price: $120.00 AUD
 - [ICON - Freddie](https://nessypopart.com/products/icon-freddie-1): A salute to the showman who turned vulnerability into spectacle and defiance into anthem. Ness’s portrait of Freddie Mercury draws from his legendary 1986 Wembley performance—yellow military jacket, raised fist, and that unmistakable gaze of triumph. But this isn’t just Freddie on stage—it’s Freddie as symbol: of queer joy, theatrical power, and unapologetic self-expression. Rendered in bold lines and a warm brown backdrop, the piece balances graphic simplicity with emotional weight. The yellow jacket pops like a spotlight, while Freddie’s stance evokes both command and invitation. Signed Nessy – 2016, this portrait doesn’t just depict a moment—it channels a legacy. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates Freddie not just as a performer, but as a permission slip to live louder. For collectors who carry Queen’s spirit in their bones, this is a visual encore Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1031,7 +1031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-freddie-portrait-giclee-a4.jpg?v=1756539715
     Price: $60.00 AUD
 - [ICON - Prince](https://nessypopart.com/products/icon-prince-1): A portrait of purple power and quiet defiance. Ness’s tribute to Prince draws from multiple visual signatures: the rich purple suit, the dramatic white cravat, and the gaze that’s equal parts invitation and challenge. Set against a saturated pink backdrop, this piece doesn’t just depict Prince—it pulses with his spirit. The illustration blends cartoon clarity with pop-art boldness, capturing Prince not as a performer, but as a force: gender-fluid, genre-defying, and emotionally unfiltered. This ICON stands apart—both in palette and posture—offering collectors a glimpse into the myth behind the music. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates Prince as a symbol of radical self-expression and emotional truth. For collectors who see music as identity and style as resistance, this is a visual encore. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1049,7 +1049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-prince-portrait-giclee-a4.jpg?v=1756540871
     Price: $60.00 AUD
 - [ICON - Amy](https://nessypopart.com/products/icon-amy-1): A portrait of defiance, heartbreak, and unmistakable style. Ness’s tribute to Amy Winehouse captures her in full mythic form: beehive hair crowned with a red rose, dramatic eyeliner, tattoos worn like memoirs. The yellow top pops against a saturated red backdrop, while Amy’s gaze—direct, unflinching—holds the viewer in quiet confrontation. This isn’t just Amy the singer. It’s Amy the symbol: of soul laid bare, of brilliance tangled with pain, of a voice that cracked open the world. Every detail—Cynthia, Blake, the heart, the ink—is rendered with reverence. This portrait is both homage and elegy. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print invites collectors to hold space for Amy—not just as a voice, but as a story. For those who see beauty in the broken and strength in the scars, this is a visual requiem. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1067,7 +1067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-amy-portrait-giclee-A4.jpg?v=1756546169
     Price: $60.00 AUD
 - [ICON - Gaga](https://nessypopart.com/products/icon-gaga-1): A portrait of glam, gore, and divine theatre. Ness’s tribute to Lady Gaga channels her American Horror Story era—where pop met blood, and elegance wore fangs. The voluminous blonde waves, dramatic eye, and crimson backdrop evoke a lineage of glam queens: Debbie Harry’s icy defiance, Madonna’s sculpted provocation, Gaga’s own velvet menace. This isn’t Gaga the chart-topper—it’s Gaga the vampiric icon, the one who made horror couture. The bold lines and minimal shading amplify her mythic silhouette, rooted in the visual language of ICONS. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates Gaga as a shape-shifter of pop mythology—where fashion is ritual, and persona is prophecy. For collectors who see glamour as armor and performance as truth, this is a visual invocation. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1085,7 +1085,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-gaga-portrait-giclee-a4.jpg?v=1756549004
     Price: $60.00 AUD
 - [ICON - George](https://nessypopart.com/products/icon-george-1): A portrait of elegance, introspection, and pop defiance. Ness’s tribute to George Michael blends visual cues from across his career: the tousled hair and earring from Faith, the contemplative pose from Older, and the tailored cool of his later performances. It’s not one George—it’s many. A composite of charisma, vulnerability, and quiet rebellion. Set against a vivid blue backdrop, the piece balances pop-art clarity with emotional nuance. The hand resting against his face evokes both confidence and reflection, while the cross earring nods to the iconography he wore with pride. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates George not just as a pop star, but as a storyteller—of love, loss, and liberation. For collectors who hear truth in every lyric and see grace in every transformation, this is a visual hymn. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1103,7 +1103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-george-portrait-giclee-a4.jpg?v=1756550709
     Price: $60.00 AUD
 - [ICON - John](https://nessypopart.com/products/icon-john-1): A portrait of wit, wonder, and radical softness. Ness’s tribute to John Lennon blends visual cues from across his evolution: the round glasses of Imagine, the clasped hands of introspection, the tousled hair and layered jacket that echo both activist and artist. It’s not one John—it’s a quiet amalgam of many: dreamer, provocateur, poet. Set against a vivid green backdrop, the piece balances cartoon clarity with emotional depth. The yellow shirt and blue jacket pop with pop-art precision, while John’s expression—gentle, knowing—invites reflection. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates John not just as a Beatle, but as a symbol of imagination and resistance. For collectors who believe in the power of words, art, and quiet rebellion, this is a visual prayer. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:17Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1121,7 +1121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-john-portrait-giclee-A4.jpg?v=1756552394
     Price: $60.00 AUD
 - [ICON - Elton](https://nessypopart.com/products/icon-elton): A portrait of flamboyance, joy, and unapologetic spectacle. Ness’s tribute to Elton John channels his most radiant eras—white-framed glasses, orange-tinted lenses, and a smile that feels like a standing ovation. Surrounding him, a cascade of multicolored feathers, fabric, and pure theatrical energy. It’s not just Elton—it’s the feeling of Elton: exuberant, generous, larger than life. Set against a pop-art explosion of colour, this piece is pure celebration. This portrait doesn’t just depict a performer—it captures a mood, a movement, a moment. Part of the ICON series, this print celebrates Elton as a beacon of queer joy, musical brilliance, and radical self-expression. For collectors who believe in the power of sequins, sincerity, and piano ballads that break your heart and heal it in the same breath—this is your anthem in ink. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1139,7 +1139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-elton-portrait-giclee-a4.jpg?v=1756553716
     Price: $60.00 AUD
 - [CANINE CLASSICS - Canine Gothic](https://nessypopart.com/products/canine-classics-canine-gothic-1): Two serious dogs. One very unserious pitchfork. In this cheeky riff on Grant Wood’s “American Gothic,” Ness swaps solemn humans for dapper pups and replaces rural austerity with pop-colored joy. The heart pendant? Iconic. The glasses? Scholarly. The sausages skewered on the pitchfork? Utterly ridiculous. And perfect. Set against a sky of cartoon clouds and a barn that looks suspiciously like it moonlights as a doghouse, Canine Gothic is part homage, part howl-worthy parody. It’s a love letter to loyalty, odd couples, and the quiet comedy of domestic life. From the CANINE CLASSICS series—where every masterpiece gets a tail-wagging twist. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1153,7 +1153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-canine-classics-canine-gothic-dogs-giclee-30x30cm.jpg?v=1756695265
     Price: $120.00 AUD
 - [CANINE CLASSICS - Whistler's Doggie](https://nessypopart.com/products/canine-classics-whistlers-doggie): Stoic. Stylish. Slightly sulky. In this canine twist on Whistler’s Mother, Ness gives us a dog who’s mastered the art of quiet judgment. Seated in profile like a Victorian matriarch, this pup radiates dignity—with just a hint of “I told you so.” The backdrop? Minimal. The mood? Maximal. Whistler’s Doggie is all about restraint, poise, and the kind of emotional depth only a well-dressed dog can deliver. It’s a wink to art history and a nudge to anyone who’s ever been silently judged by their pet. From the CANINE CLASSICS series—where every masterpiece gets a tail-wagging twist. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:17Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1167,7 +1167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-canine-classics-whistlers-doggie-dogs-giclee-30x30cm.jpg?v=1756698563
     Price: $120.00 AUD
 - [CANINE CLASSICS - Howl](https://nessypopart.com/products/canine-classics-howl-1): A scream? A snack attack? A full-blown existential moment? In this canine parody of Edvard Munch’s The Scream, Ness channels pure emotional chaos—dog-style. Our hero lies belly-up in a swirl of color and crumbs, mid-howl, mid-mess, mid-meltdown. Two food bags lie torn beside him, evidence of a crime of passion (and hunger). With bold lines and cartoon drama, Howl turns angst into art and mischief into masterpiece. It’s a tribute to impulse, joy, and the kind of emotional honesty only a dog can pull off. From the CANINE CLASSICS series—where every masterpiece gets a tail-wagging twist. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1181,7 +1181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-canine-classics-howl-dogs-giclee-30x30cm.jpg?v=1756699222
     Price: $120.00 AUD
 - [CANINE CLASSICS - Son of Dog](https://nessypopart.com/products/canine-classics-son-of-dog-1): Dressed to impress. Obscured by chicken. In this surrealist send-up of Magritte’s The Son of Man, Ness swaps the classic green apple for a floating roast chicken—because of course he does. Our canine gentleman stands poised in bowler hat and red tie, his face hidden behind poultry perfection. Is it symbolism? Is it lunch? Is it both? Son of Dog is a delicious mystery—equal parts pop art, parody, and canine philosophy. It’s a nod to the unknowable desires of the modern mutt and a wink to anyone who’s ever been stared down by a dog mid-snack. From the CANINE CLASSICS series—where every masterpiece gets a tail-wagging twist. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1195,7 +1195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-canine-classics-son-of-dog-dogs-giclee-30x30cm.jpg?v=1756699304
     Price: $120.00 AUD
 - [CANINE CLASSICS - Dog with a Bone Earring](https://nessypopart.com/products/canine-classics-dog-with-the-bone-earing-1): She’s elegant. She’s mysterious. She’s probably just heard the treat jar open. In this canine homage to Vermeer’s Girl with a Pearl Earring, Ness swaps the quiet gaze of a Dutch maiden for the wide-eyed wonder of a pup caught mid-daydream. Draped in a blue and yellow headscarf, with a bone-shaped earring dangling just so, she radiates poise with a hint of mischief. The red backdrop adds pop drama, while her expression says, “I’m listening… but also plotting.” It’s a portrait of canine grace, curiosity, and the eternal question: Is that snack for me? From the CANINE CLASSICS series—where every masterpiece gets a tail-wagging twist. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1209,7 +1209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-canine-classics-dog-with-bone-earing-dogs-giclee-30x30cm.jpg?v=1756699628
     Price: $120.00 AUD
 - [CANINE CLASSICS - Modern Lisa](https://nessypopart.com/products/canine-classics-modern-lisa-1): She’s serene. She’s stylish. She’s definitely judging you. In this canine riff on da Vinci’s Mona Lisa, Ness trades Renaissance mystery for pop-colored sass. With flowing hair, a heart pendant, and a lakeside backdrop that feels more weekend getaway than Florentine landscape, Modern Lisa is part icon, part influencer, all dog. Her crossed arms say “I’ve seen things,” while her expression says “...and I’m not impressed.” It’s a portrait of quiet power, emotional depth, and the kind of gaze that follows you around the room—especially if you’re holding snacks. From the CANINE CLASSICS series—where every masterpiece gets a tail-wagging twist. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-27T08:08:17Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1223,49 +1223,49 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-canine-classics-modern-lisa-dogs-giclee-30x30cm.jpg?v=1756700091
     Price: $120.00 AUD
 - [Yoga](https://nessypopart.com/products/yoga): A spiritual awakening with calf definition. “Yoga” captures the sacred moment when inner peace meets outer pecs, and the only mantra is “don’t fall over.” Set against a backdrop of suspicious serenity, this piece invites viewers to contemplate balance, body hair, and the quiet dignity of stretching in front of a window. It’s not about enlightenment—it’s about commitment, delusion, and the occasional hamstring cramp.
-  Updated: 2026-07-27T08:08:17Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-originals-yoga-acrylic-canvas-8x10in-hero_e51de581-e37c-45f3-b89b-af878255d27f.jpg?v=1756882415
   Price: $395.00 AUD
 - [Beach](https://nessypopart.com/products/beach): Some people go to the beach for serenity. This guy came for the drama. “Beach” is a celebration of glistening delusion, where the surf crashes, the clouds pose, and one man’s sweat becomes a spiritual offering to the sun gods of self-confidence. With heroic body hair and a speedo that defies modesty, this painting asks: what if Baywatch was a one-man show and nobody was watching?
-  Updated: 2026-07-27T08:08:16Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-originals-beach-acrylic-canvas-8x10in-hero.jpg?v=1756882829
   Price: $395.00 AUD
 - [Hoodie Boy - Do Da Walk (Special Edition)](https://nessypopart.com/products/hoodie-boy-do-da-walk-special-edition): Cartoon icons walk a rainbow crosswalk in pop art tribute to Pulse victims—celebrating love, unity, and resilience with bold color and joy.
-  Updated: 2026-07-27T08:08:17Z
+  Updated: 2026-08-03T08:08:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-do-da-walk-special-edition-hero.jpg?v=1757995340
   Price: $1,495.00 AUD
 - [Hoodie Boy – Do Da Walk | Acrylic on Wood Panel | 50×40 cm](https://nessypopart.com/products/hoodie-boy-do-da-walk): Hoodie Boy – Do Da Walk. Original acrylic painting on wood panel, 50×40 cm. Abbey Road parody with pop culture icons.
-  Updated: 2026-07-27T08:08:12Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-original-do-da-walk-solidarity-acrylic-panel-40x50cm-hero_4d1441b0-b972-411e-9877-8d2b6a14cc56.jpg?v=1759221739
   Price: $1,695.00 AUD
 - [The Bark Side | Playful Dog Art Framed Canvas Painting by Nessy](https://nessypopart.com/products/the-bark-side): Celebrate canine charm with The Bark Side, a playful dog art painting featuring 10 expressive pups in a vibrant cartoon-style cluster. Perfect for dog lovers!
-  Updated: 2026-07-27T08:08:12Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-originals-the-bark-side-dogs-framed-acrylic-canvas-16x20in-hero.jpg?v=1761204267
   Price: $1,495.00 AUD
 - [ICON Series - Freddie (Coaster)](https://nessypopart.com/products/icon-series-freddie-coaster): Bold tempered glass coaster featuring Freddie Mercury in vibrant pop art style—functional barware meets iconic music legend.
-  Updated: 2026-07-28T11:07:41Z
+  Updated: 2026-08-03T08:26:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Freddie.webp?v=1764930084
   Price: $17.00 AUD
 - [K9 Flash – Lightning-Fast Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-flash): A vibrant superhero dog in red, inspired by The Flash. Bold colours, playful energy, and Nessy Pop Art charm for collectors who love fast, cheeky pups.
-  Updated: 2026-07-27T08:08:11Z
+  Updated: 2026-08-03T08:08:11Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1287,7 +1287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-flash-pets-framed-canvas-40x40cm.jpg?v=1768458882
     Price: $495.00 AUD
 - [K9 Batman – Bold Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-batman): A playful Batman-inspired pop art dog with bold colours and cheeky charm. Nessy Pop Art’s heroic pup brings justice, joy, and comic-book cool to your walls.
-  Updated: 2026-07-27T08:08:12Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1309,7 +1309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-batman-pets-framed-canvas-40x40cm.jpg?v=1768467762
     Price: $495.00 AUD
 - [K9 Robin – Playful Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-robin): A cheeky Robin-inspired pop art dog with bold colours and loyal energy. Nessy Pop Art’s sidekick pup brings charm, courage, and comic-book fun to your space.
-  Updated: 2026-07-27T08:08:12Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1331,7 +1331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-robin-pets-framed-canvas-40x40cm.jpg?v=1768469137
     Price: $495.00 AUD
 - [K9 Aquaman – Splashy Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-aquaman): A playful Aquaman-inspired pop art dog with bold colours and underwater charm. Nessy Pop Art’s sea pup brings hero vibes and cheeky fun to your walls.
-  Updated: 2026-07-27T08:08:12Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1353,7 +1353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-aquaman-pets-framed-canvas-40x40cm.jpg?v=1768616734
     Price: $495.00 AUD
 - [K9 Superman – Heroic Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-superman): A bold Superman-inspired pop art dog with rainbow energy and heroic charm. Nessy Pop Art’s flying pup brings colour, courage, and comic-book joy to your walls.
-  Updated: 2026-07-27T08:08:11Z
+  Updated: 2026-08-03T08:08:11Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1375,7 +1375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-superman-pets-framed-canvas-40x40cm.jpg?v=1768617008
     Price: $495.00 AUD
 - [K9 Harley Quinn – Playful Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-harley-quinn): A cheeky Harley Quinn-inspired pop art dog with bold colours and jester charm. Nessy’s wild pup brings love, laughter, and comic-book chaos to your walls.
-  Updated: 2026-07-27T08:08:11Z
+  Updated: 2026-08-03T08:08:11Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1397,7 +1397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-harelyquinn-pets-framed-canvas-40x40cm.jpg?v=1768617461
     Price: $495.00 AUD
 - [K9 Joker – Mischievous Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-joker): A bold Joker-inspired pop art dog with wild colours and cheeky charm. Nessy Pop Art’s prankster pup brings chaos, colour, and comic-book cool to your walls.
-  Updated: 2026-07-27T08:08:12Z
+  Updated: 2026-08-03T08:08:11Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1419,7 +1419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-joker-pets-framed-canvas-40x40cm.jpg?v=1768617674
     Price: $495.00 AUD
 - [K9 Superman – Heroic Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-superman-i): A bold Superman-inspired pop art dog with rainbow energy and heroic charm. Nessy Pop Art’s flying pup brings colour, courage, and comic-book joy to your walls.
-  Updated: 2026-07-27T08:08:12Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1433,7 +1433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-superman-pets-framed-canvas-40x40cm.jpg?v=1768617008
     Price: $595.00 AUD
 - [K9 Joker – Mischievous Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-joker-i): A bold Joker-inspired pop art dog with wild colours and cheeky charm. Nessy Pop Art’s prankster pup brings chaos, colour, and comic-book cool to your walls.
-  Updated: 2026-07-27T08:08:09Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1447,7 +1447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-joker-pets-framed-canvas-40x40cm.jpg?v=1768617674
     Price: $595.00 AUD
 - [K9 Harley Quinn – Playful Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-harley-quinn-i): A cheeky Harley Quinn-inspired pop art dog with bold colours and jester charm. Nessy’s wild pup brings love, laughter, and comic-book chaos to your walls.
-  Updated: 2026-07-27T08:08:12Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1461,7 +1461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-harelyquinn-pets-framed-canvas-40x40cm.jpg?v=1768617461
     Price: $595.00 AUD
 - [K9 Aquaman – Splashy Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-aquaman-i): A playful Aquaman-inspired pop art dog with bold colours and underwater charm. Nessy Pop Art’s sea pup brings hero vibes and cheeky fun to your walls.
-  Updated: 2026-07-27T08:08:11Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1475,7 +1475,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-aquaman-pets-framed-canvas-40x40cm.jpg?v=1768616734
     Price: $595.00 AUD
 - [K9 Robin – Playful Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-robin-i): A cheeky Robin-inspired pop art dog with bold colours and loyal energy. Nessy Pop Art’s sidekick pup brings charm, courage, and comic-book fun to your space.
-  Updated: 2026-07-27T08:08:11Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1489,7 +1489,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-robin-pets-framed-canvas-40x40cm.jpg?v=1768469137
     Price: $595.00 AUD
 - [K9 Batman – Bold Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-batman-i): A playful Batman-inspired pop art dog with bold colours and cheeky charm. Nessy Pop Art’s heroic pup brings justice, joy, and comic-book cool to your walls.
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1503,7 +1503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-batman-pets-framed-canvas-40x40cm.jpg?v=1768467762
     Price: $595.00 AUD
 - [K9 Flash – Lightning-Fast Pop Art Dog by Nessy Pop Art](https://nessypopart.com/products/k9-flash-i): A vibrant superhero dog in red, inspired by The Flash. Bold colours, playful energy, and Nessy Pop Art charm for collectors who love fast, cheeky pups.
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:08Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1517,7 +1517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-flash-pets-framed-canvas-40x40cm.jpg?v=1768458882
     Price: $595.00 AUD
 - [K9 Wonder Woman – Bold Pop Art Dog Portrait by Nessy Pop Art](https://nessypopart.com/products/k9-wonder-woman-i): A vibrant Wonder Woman‑inspired dog artwork bursting with colour, attitude, and pop‑art charm. Perfect for collectors who love heroic, playful canine art.
-  Updated: 2026-07-27T08:08:11Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1531,7 +1531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-k9-wonder-woman-pets-framed-canvas-40x40cm.jpg?v=1768454989
     Price: $595.00 AUD
 - [A DOGS LIFE – Slurp | Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-slurp-i): Giclée canvas print by Nessy Pop Art—celebrating loyalty and friendship in a vibrant 100×100 cm limited edition artwork.
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1545,7 +1545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-slurp-pets-framed-canvas-40x40cm.jpg?v=1755417018
     Price: $595.00 AUD
 - [A DOGS LIFE – Pant | Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-pant-i): Giclée canvas print by Nessy Pop Art—balance, bravado, and circus cool in a bold 100×100 cm  and 40x40 cm dog portrait
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:08Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1559,7 +1559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-pant-pets-framed-canvas-40x40cm.jpg?v=1755418179
     Price: $595.00 AUD
 - [A DOGS LIFE – Mmmm | Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-mmmm-i): Giclée canvas print by Nessy Pop Art—one blade of grass, infinite questions. A dog mid-chew, lost in cosmic contemplation.
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:11Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1573,7 +1573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-mmmm-pets-framed-canvas-40x40cm.jpg?v=1755418979
     Price: $595.00 AUD
 - [A DOGS LIFE – Gig | Giclée Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-gig-i): Giclée canvas print by Nessy Pop Art—fresh from the bath, towel-wrapped, and giggling. A cheeky 100×100 cm dog portrait full of charm.
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1587,7 +1587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-gig-pets-framed-canvas-40x40cm.jpg?v=1755420899
     Price: $595.00 AUD
 - [A DOGS LIFE – Friends Forever | Original Pop Art Dog Portrait by Nessy](https://nessypopart.com/products/a-dogs-life-friends-forever-i): Giclée canvas print by Nessy Pop Art—celebrating loyalty and friendship in a vibrant 100×100 cm or 40x40 cm limited edition artwork.
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:07Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1601,7 +1601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-friends-forever-pets-framed-canvas-40x40cm.jpg?v=1755422783
     Price: $595.00 AUD
 - [A DOGS LIFE - 1 2 3](https://nessypopart.com/products/a-dogs-life-1-2-3-i): “I’m gonna swing…” and he does. Inspired by Sia’s iconic Chandelier, this piece finds our dog mid-swing on a light fixture, rainbow mop proudly atop his head like a party crown. It’s chaos, it’s joy, it’s pure canine abandon. Ness channels the spirit of the song’s opening countdown—1, 2, 3...—into a moment of wild celebration, where rules don’t apply and gravity’s just a suggestion. Available in 40×40 cm and 100×100 cm Shipped rolled, ready for stretching and framing For the ones who swing first and ask questions later.
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:07Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1615,7 +1615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-123-pets-framed-canvas-40x40cm.jpg?v=1755423862
     Price: $595.00 AUD
 - [Warhol](https://nessypopart.com/products/warhol-i): This striking portrait of Andy Warhol bursts with color and energy, presenting a modern take on iconic imagery. The bold use of vibrant hues—such as electric blue skin contrasted against a fiery red background—invites viewers to explore the emotional depth behind this familiar visage. The artist's unique graphic style captures a moment that feels both contemporary and profound, embodying a playful yet significant connection to pop culture. Perfect for adding a splash of personality to any space, this piece resonates with passion and empathy, making it a compelling addition to your collection. 75x75 cm or 100x100 cm Limited Edition Canvas Shipped as a rolled canvas, ready for stretching and framing Inspired by Andy Warhol 4 colour variations Limited to 50 each Red, Pink, Green or Yellow background
-  Updated: 2026-07-29T20:18:32Z
+  Updated: 2026-08-03T08:08:07Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1653,7 +1653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-warhol-pink-portrait-framed-canvas-100x100cm.jpg?v=1755394183
     Price: $1,595.00 AUD
 - [Hoodie Boy - Unity](https://nessypopart.com/products/hoodie-boy-unity-i): A riot of color. A quiet declaration. Draped in a ceremonial headdress and wired into the present, Hoodie Boy — the artist’s recurring alter‑egoi — sits at the crossroads of culture and connection. This piece channels Love, Harmony, Peace, and Equality—not as slogans, but as lived contradictions. The headphones aren’t escape—they’re communion. The feathers aren’t costume—they’re legacy. Unity doesn’t shout. It listens. Available in two sizes. Limited to 50 editions. For those who believe rebellion can be gentle, and presence can be loud. Sizes: 40×40 cm or 75×75 cm Finish: Shipped rolled, ready for stretching and framing Edition: Limited to 50
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:07Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1667,14 +1667,14 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-unity-emotive-framed-canvas-75x75cm-kitchen.jpg?v=1755924446
     Price: $1,295.00 AUD
 - [Hoodie Boy - Do Da Walk (Special Edition)](https://nessypopart.com/products/hoodie-boy-do-da-walk-special-edition-i): Cartoon icons walk a rainbow crosswalk in pop art tribute to Pulse victims—celebrating love, unity, and resilience with bold color and joy.
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:07Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-do-da-walk-special-edition-hero.jpg?v=1757995340
   Price: $1,495.00 AUD
 - [Hoodie Boy - Dali Who?](https://nessypopart.com/products/hoodie-boy-dali-who-i): What happens when Hoodie Boy — the artist’s recurring alter‑egoi — channels the master of surrealism? You get Dali Who?—a bold figure against a colourful backdrop, complete with the unmistakable curled mustache. It’s a wink to Salvador, but with Hoodie Boy’s signature emotional depth and quiet defiance. This piece isn’t just homage—it’s transformation. A rebellion wrapped in pop iconography, perfect for collectors who crave wit, color, and a touch of the absurd. Multiple colours available as a nod to Warhol. Just one, or multiples. Let it stare back at you like time melting in reverse. 40x40cm or 75x75cm Limited Edition Canvas Shipped rolled, ready for stretching and framing 4 colour variations Limited to 30 each Red, Pink, Green or Yellow background
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:07Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1720,14 +1720,14 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-dali-who-multi-artist-framed-canvas-75x75cm-kitchen.jpg?v=1755933095
     Price: $1,295.00 AUD
 - [Bucket Boy](https://nessypopart.com/products/bucket-boy-i): Escapism in Pixels, Silence in Steel Bucket Boy is a portrait of quiet rebellion—an anonymous figure with a bucket over his head, lost in the glow of video games. He plays not for fun, but for refuge. The bucket shields him from a world too loud, too demanding, too real. This is not just a gamer—it’s a soul seeking sanctuary. 75x75cm giclee print on canvas Shipped rolled, ready for stretching and framing Limited Edition of only 25
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:07Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/bucket-boy-limited-edition-escapism-hero.jpg?v=1755340802
   Price: $1,295.00 AUD
 - [PIXEL - King Donkey](https://nessypopart.com/products/pixel-king-donkey-i): A colossal clash of pop culture titans. King Donkey is NessyART’s pixel-powered tribute to two legends: the primal fury of King Kong and the arcade swagger of Donkey Kong. Rendered in bold, blocky brilliance, this piece captures the moment where cinematic might meets retro gaming chaos. Whether you see a misunderstood beast or a barrel-hurling antihero, King Donkey invites you to play with power, nostalgia, and rebellion. Limited Editions of 100 each 40x40cm or 75x75cm Shipped rolled, ready for stretching and framing
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1741,7 +1741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-pixels-king-donkey-arcade-framed-canvas-75x75cm.jpg?v=1755410698
     Price: $1,295.00 AUD
 - [PIXEL – Super Chance | Giclée Limited Edition Pop Art by Nessy](https://nessypopart.com/products/pixel-super-chance-i): Giclée canvas print by Nessy Pop Art—Monopoly meets Mario in a pixel-powered mashup of luck and chaos.
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:07Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1755,7 +1755,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-pixels-super-chance-arcade-framed-canvas-75x75cm.jpg?v=1755413872
     Price: $1,295.00 AUD
 - [PIXEL - Pac Bomber](https://nessypopart.com/products/pixel-pac-bomber-i): Eat fast. Explode faster. Pac Bomber is a pixel-fueled collision of two arcade legends—where maze-running meets bomb-dropping mayhem. NessyART’s mashup reimagines Pac-Man’s endless hunger with Bomberman’s explosive strategy, creating a chaotic playground of pixels, pellets, and peril. It’s nostalgia with a fuse lit—perfect for collectors who crave retro rebellion. Limited Editions of 100 each 40x40cm or 75x75cm Shipped rolled, ready for stretching and framing
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1769,7 +1769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-pixels-pac-bomber-arcade-framed-canvas-75x75cm.jpg?v=1755412375
     Price: $1,295.00 AUD
 - [PIXEL - Mega Pixel](https://nessypopart.com/products/pixel-mega-pixel-i): Legacy upgraded. Pixel perfected. Mega Pixel is a tribute to evolution—where the iconic silhouette of the original Mega Man helmet meets its sleek, modern counterpart. NessyART’s mashup captures the tension between nostalgia and innovation, pixelating the past and future into one electrifying canvas. It’s a visual power-up for collectors who grew up with 8-bit dreams and still chase boss-level brilliance. Limited Editions of 100 each 40x40cm or 75x75cm Shipped rolled, ready for stretching and framing
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1783,28 +1783,28 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-pixels-megapixel-arcade-framed-canvas-75x75cm_b5c1e61c-7dc8-46d0-a1b6-1e201b95a589.jpg?v=1755413011
     Price: $1,295.00 AUD
 - [ROCKY HORROR - Columbia](https://nessypopart.com/products/rocky-horror-columbia-i): Tap into the tap-dancing heart of Rocky Horror with Ness’s Columbia—a vibrant, high-energy portrait that channels the sequined spirit of the castle’s most loyal groupie. This piece radiates purple multicolor chaos, capturing Columbia’s manic charm and glitter-drenched devotion. At the center, one line steals the spotlight: “A guy gave me an evil wink.” A moment of heartbreak, obsession, and theatrical brilliance—etched in bold, just like Columbia herself. 💜 Purple multicolor palette, full of razzle-dazzle and emotional punch ✍️ Signed by for authenticity and collector connection 🎁 Limited edition of 100 🖼️ Shipped rolled, ready for stretching and framing
-  Updated: 2026-07-27T08:08:08Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-rocky-horror-columbia-movies-hero.jpg?v=1755762746
   Price: $995.00 AUD
 - [Frank-N-Furter – Rocky Horror Pop Art Canvas by NessyART](https://nessypopart.com/products/rocky-horror-frankie-i): Limited Edition Pop Art Canvas of Frank-N-Furter from Rocky Horror – Large 100x75cm Giclée Print, Signed by NessyART
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-rocky-horror-frank-n-furter-movies-hero.jpg?v=1755761220
   Price: $1,295.00 AUD
 - [Magenta – Rocky Horror Pop Art Canvas by NessyART](https://nessypopart.com/products/rocky-horror-magenta-i): Magenta – Rocky Horror Pop Art Giclée Print on Canvas – Signed Limited Edition 75x75cm by NessyART
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-rocky-horror-magenta-movies-hero.jpg?v=1755763218
   Price: $995.00 AUD
 - [SUPERHERO - Captain Bulldog (Limited Edition)](https://nessypopart.com/products/superhero-captain-bulldog-limited-edition-i): Justice never looked so jowly. Captain Bulldog is the blue Frenchie with a heart of gold and a shield of sass. With ears perked and stance firm, he’s the steadfast sentinel of backyard freedom and biscuit equality. Whether he’s leading the charge or napping mid-mission, this patriotic pup proves that courage comes in compact, snorty packages. This limited edition giclée on canvas captures the bulldog in full heroic glory—stoic, stylish, and slightly skeptical of your snack choices. A tribute to loyalty, resilience, and the power of a well-timed head tilt. Sizes: 40×40 cm or 75×75 cm Finish: Shipped rolled, ready for stretching and framing Edition: Limited to 100
-  Updated: 2026-07-27T08:08:06Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: Canvas
   Availability: Available
@@ -1818,7 +1818,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-captain-bulldog-comic-framed-canvas-75x75cm.jpg?v=1755493293
     Price: $995.00 AUD
 - [SUPERHERO - Dr Airedale (Limited Edition)](https://nessypopart.com/products/superhero-dr-airedale-limited-edition-i): Reality is overrated. Dr Airedale bends time, space, and snack schedules with a flick of his paw and a furrowed brow. Cloaked in cosmic charm and armed with a stare that sees through dimensions (and closed pantry doors), this wise-cracking wizard pup brings a touch of magic to the Superheroes Series. This limited edition giclée on canvas captures the Airedale in full sorcerer mode—mystical, majestic, and mildly judgmental. Whether he’s guarding your sanctum or meditating on the meaning of mealtime, Dr Airedale reminds us that the universe is best explored with a loyal companion by your side. Sizes: 40×40 cm or 75×75 cm Finish: Shipped rolled, ready for stretching and framing Edition: Limited to 100
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1832,7 +1832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-dr-airedale-comic-framed-canvas-75x75cm.jpg?v=1755492383
     Price: $995.00 AUD
 - [SUPERHERO – Spiderdog | Framed Limited Edition Canvas Dog Print by Nessy](https://nessypopart.com/products/superhero-spiderdog-limited-edition-i): Giclée canvas print by Nessy Pop Art—Spiderdog swings into action with paws poised and senses tuned. Available in 40×40 or 75×75 cm.
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:07Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1846,7 +1846,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-spiderdog-comic-framed-canvas-75x75cm.jpg?v=1755491895
     Price: $995.00 AUD
 - [SUPERHERO - Thanos (Limited Edition)](https://nessypopart.com/products/superhero-thanos-limited-edition-i): He’s compact, cosmic, and absolutely unbothered. Thanos the Bulldog enters the Superheroes Series with a face as purple as his ego and a stare that could silence galaxies. No collar. No leash. Just pure, unfiltered power wrapped in wrinkles and snorts. This limited edition canvas captures the moment when destiny meets dogged determination. Whether he’s perched on the couch like a throne or stomping through the backyard like it’s Titan, Thanos reminds us: balance isn’t given—it’s demanded (preferably with treats). Sizes: 40×40 cm or 75×75 cm Finish: Shipped rolled, ready for stretching and framing Edition: Limited to 100
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1860,7 +1860,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-thanos-comic-framed-canvas-75x75cm.jpg?v=1755484718
     Price: $995.00 AUD
 - [SUPERHERO - The Incredible Pug (Limited Edition)](https://nessypopart.com/products/superhero-the-incredible-pug-limited-edition-i): Don’t let the squishy face fool you—The Incredible Pug is pure power wrapped in green fur and stubborn charm. When this pint-sized Hulk gets riled up, furniture trembles and snack jars quake. But beneath the growl lies a heart that’s fiercely loyal and hilariously lovable. This limited edition giclée on canvas captures the pug’s transformation into a muscle-bound marvel of mischief. With bulging brows and a heroic pout, he’s ready to smash boredom and snuggle through the aftermath. Sizes: 40×40 cm or 75×75 cm Finish: Shipped rolled, ready for stretching and framing Edition: Limited to 100
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1874,7 +1874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-incredible-pug-comic-framed-canvas-75x75cm.jpg?v=1755483975
     Price: $995.00 AUD
 - [SUPERHERO - Wonderhound (Limited Edition)](https://nessypopart.com/products/superhero-wonderhound-limited-edition-i): Meet Wonderhound, the noble Basset Hound who’s traded her sniffing duties for a golden lasso and a mission of justice. With ears that flap like a cape and eyes that pierce through villainy (and snack cupboards), she’s the embodiment of loyalty, courage, and quiet sass. This limited edition giclée on canvas transforms the iconic Wonder Woman into a long-bodied legend of love and strength. Whether she’s guarding your living room or inspiring your studio, Wonderhound reminds us that true heroism comes with droopy eyes and a heart of gold. Sizes: 40×40 cm or 75×75 cm Finish: Shipped rolled, ready for stretching and framing Edition: Limited to 100
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1888,112 +1888,112 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-wonder-hound-comic-framed-canvas-75x75cm.jpg?v=1755482316
     Price: $995.00 AUD
 - [Hoodie Boy – Hoodie in the Grid - Mondrian Grid Pop Art by Nessy](https://nessypopart.com/products/hoodie-boy-hoodie-in-the-grid): Hoodie Boy in a blue hoodie and red headphones set inside a Mondrian‑inspired grid. Clean lines, bold colour, and modern pop art symbolism.
-  Updated: 2026-07-27T08:08:06Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-originals-hoodie-in-the-grid-acrylic-canvas-8x10in-hero.jpg?v=1768985520
   Price: $495.00 AUD
 - [Hoodie Boy – Snoopy and I Pop Art by Nessy Pop Art](https://nessypopart.com/products/hoodie-boy-snoopy-and-i): Hoodie Boy and Snoopy share a quiet moment of affection. A pop art piece blending tenderness, whimsy, and unexpected grace.
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T08:08:03Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-snoopy-and-i-character-acrylic-canvas-8x10in-hero.jpg?v=1769664209
   Price: $495.00 AUD
 - [ICON Series - Bowie (Coaster)](https://nessypopart.com/products/icon-series-bowie-coaster)
-  Updated: 2026-07-28T11:07:42Z
+  Updated: 2026-08-03T08:26:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-bowie-portrait-hero.jpg?v=1756536405
   Price: $17.00 AUD
 - [ICON Series - Gaga (Coaster)](https://nessypopart.com/products/icon-series-gaga-coaster)
-  Updated: 2026-07-28T11:07:42Z
+  Updated: 2026-08-03T08:26:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-gaga-portrait-hero.jpg?v=1756549004
   Price: $17.00 AUD
 - [ICON Series - George (Coaster)](https://nessypopart.com/products/icon-series-george-coaster)
-  Updated: 2026-07-28T11:07:42Z
+  Updated: 2026-08-03T08:26:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-george-portrait-hero.jpg?v=1756550709
   Price: $17.00 AUD
 - [ICON Series - John (Coaster)](https://nessypopart.com/products/icon-series-john-coaster)
-  Updated: 2026-07-28T11:07:42Z
+  Updated: 2026-08-03T08:26:05Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-john-portrait-hero.jpg?v=1756552394
   Price: $17.00 AUD
 - [ICON Series - Elton (Coaster)](https://nessypopart.com/products/icon-series-elton-coaster)
-  Updated: 2026-07-28T11:07:43Z
+  Updated: 2026-08-03T08:26:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-elton-portrait-hero.jpg?v=1756553716
   Price: $17.00 AUD
 - [ICON Series - Amy (Coaster)](https://nessypopart.com/products/icon-series-amy-coaster)
-  Updated: 2026-07-28T11:07:43Z
+  Updated: 2026-08-03T08:26:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-amy-portrait-hero.jpg?v=1756546169
   Price: $17.00 AUD
 - [ICON Series - Prince (Coaster)](https://nessypopart.com/products/icon-series-prince-coaster)
-  Updated: 2026-07-28T11:07:43Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-prince-portrait-hero.jpg?v=1756540871
   Price: $17.00 AUD
 - [SUPERHERO Series - Captain Bulldog (Coaster)](https://nessypopart.com/products/superhero-series-captain-bulldog-coaster)
-  Updated: 2026-07-28T11:07:43Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-captain-bulldog-comic-hero.jpg?v=1756527003
   Price: $17.00 AUD
 - [SUPERHERO Series - Spiderdog (Coaster)](https://nessypopart.com/products/superhero-series-spiderdog-coaster)
-  Updated: 2026-07-28T11:07:43Z
+  Updated: 2026-08-03T08:26:11Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-spiderdog-comic-hero.jpg?v=1756527770
   Price: $17.00 AUD
 - [SUPERHERO Series - Wonderhound (Coaster)](https://nessypopart.com/products/superhero-series-wonderhound-coaster)
-  Updated: 2026-07-28T11:07:44Z
+  Updated: 2026-08-03T08:26:11Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-wonder-hound-comic-hero_ef967b7b-1066-4278-832c-2ad5dee080a2.jpg?v=1756522848
   Price: $17.00 AUD
 - [SUPERHERO Series - Dr Airedale (Coaster)](https://nessypopart.com/products/superhero-series-dr-airedale-coaster)
-  Updated: 2026-07-28T11:07:44Z
+  Updated: 2026-08-03T08:26:13Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-dr-airedale-comic-hero.jpg?v=1756527293
   Price: $17.00 AUD
 - [SUPERHERO Series - Thanos (Coaster)](https://nessypopart.com/products/superhero-series-thanos-coaster)
-  Updated: 2026-07-28T11:07:44Z
+  Updated: 2026-08-03T08:26:11Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-thanos-comic-hero.jpg?v=1756528299
   Price: $17.00 AUD
 - [SUPERHERO Series - Incredible Pug (Coaster)](https://nessypopart.com/products/superhero-series-incredible-pug-coaster)
-  Updated: 2026-07-28T11:07:44Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-incredible-pug-comic-hero.jpg?v=1756528116
   Price: $17.00 AUD
 - [ICON Series - Sinatra](https://nessypopart.com/products/icon-series-sinatra)
-  Updated: 2026-07-28T11:07:44Z
+  Updated: 2026-08-03T08:26:13Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2005,7 +2005,7 @@
     Availability: Available
     Price: $995.00 AUD
 - [OUT OF AFRICA - Amazing Zebra](https://nessypopart.com/products/out-of-africa-amazing-zebra)
-  Updated: 2026-07-28T11:07:45Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2023,7 +2023,7 @@
     Availability: Available
     Price: $995.00 AUD
 - [OUT OF AFRICA - Lion](https://nessypopart.com/products/out-of-africa-lion)
-  Updated: 2026-07-28T11:07:45Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2041,14 +2041,14 @@
     Availability: Available
     Price: $995.00 AUD
 - [CUSTOM DOG FRAMED](https://nessypopart.com/products/custom-dog-framed)
-  Updated: 2026-07-28T11:07:45Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_2007.jpg?v=1777459767
   Price: $1,295.00 AUD
 - [ROCKY HORROR - Columbia Prints](https://nessypopart.com/products/rocky-horror-columbia-18x18cm): Tap into the tap-dancing heart of Rocky Horror with Ness’s Columbia—a vibrant, high-energy portrait that channels the sequined spirit of the castle’s most loyal groupie. This piece radiates purple multicolor chaos, capturing Columbia’s manic charm and glitter-drenched devotion. At the center, one line steals the spotlight: “A guy gave me an evil wink.” A moment of heartbreak, obsession, and theatrical brilliance—etched in bold, just like Columbia herself. 💜 Purple multicolor palette, full of razzle-dazzle and emotional punch
-  Updated: 2026-07-28T11:07:45Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2063,21 +2063,21 @@
     Availability: Available
     Price: $240.00 AUD
 - [BEAR Series - Rustic Panda 90x90cm](https://nessypopart.com/products/bear-series-rustic-panda-90x90cm)
-  Updated: 2026-07-28T11:07:45Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Bear11.jpg?v=1777462512
   Price: $595.00 AUD
 - [SUPERHERO - Spider Dog 100x100 cm](https://nessypopart.com/products/superhero-spider-dog-100x100-cm)
-  Updated: 2026-07-28T11:07:46Z
+  Updated: 2026-08-03T08:26:13Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-spiderdog-comic-hero_bad3aeb0-01ce-4949-aa07-6552d4eb1833.jpg?v=1777463888
   Price: $995.00 AUD
 - [DRAG DIVAS - Carmen](https://nessypopart.com/products/drag-divas-carmen)
-  Updated: 2026-07-28T11:07:46Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2095,42 +2095,42 @@
     Availability: Available
     Price: $995.00 AUD
 - [POP - Soda Pop](https://nessypopart.com/products/pop-soda-pop)
-  Updated: 2026-07-28T11:07:46Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/SODAPOP.jpg?v=1777464559
   Price: $795.00 AUD
 - [POP - Pop Corn](https://nessypopart.com/products/pop-pop-corn)
-  Updated: 2026-07-28T11:07:46Z
+  Updated: 2026-08-03T08:26:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/POPCORN.jpg?v=1777464717
   Price: $795.00 AUD
 - [BEAR Series - Rustic Polar 90x90cm](https://nessypopart.com/products/bear-series-rustic-polar-90x90cm)
-  Updated: 2026-07-28T11:07:46Z
+  Updated: 2026-08-03T08:26:12Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Bear12.jpg?v=1777464841
   Price: $595.00 AUD
 - [BEAR Series - Rustic Sloth 90x90cm](https://nessypopart.com/products/bear-series-rustic-sloth-90x90cm)
-  Updated: 2026-07-28T11:07:47Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Bear14.jpg?v=1777464949
   Price: $595.00 AUD
 - [BEAR Series - Rustic Black 90x90cm](https://nessypopart.com/products/bear-series-rustic-black-90x90cm)
-  Updated: 2026-07-28T11:07:47Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Bear9.jpg?v=1777465068
   Price: $795.00 AUD
 - [Captain Christmas](https://nessypopart.com/products/captain-christmas-90x90-cm)
-  Updated: 2026-07-28T11:07:47Z
+  Updated: 2026-08-03T08:26:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2142,7 +2142,7 @@
     Availability: Available
     Price: $795.00 AUD
 - [DOGS - French Bulldog](https://nessypopart.com/products/dogs-french-bulldog)
-  Updated: 2026-07-28T11:07:47Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2157,7 +2157,7 @@
     Availability: Available
     Price: $795.00 AUD
 - [DOGS - Siberian Husky](https://nessypopart.com/products/dogs-siberian-husky)
-  Updated: 2026-07-28T11:07:47Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2172,28 +2172,28 @@
     Availability: Available
     Price: $795.00 AUD
 - [BEAR Series - Red Panda 100x100 cm](https://nessypopart.com/products/bear-series-red-panda-100x100-cm)
-  Updated: 2026-07-28T11:07:48Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/RedPandaDraft.png?v=1777467382
   Price: $795.00 AUD
 - [DOGS - Happy Captain 30x30 cm](https://nessypopart.com/products/dogs-happy-captain-30x30-cm)
-  Updated: 2026-07-28T11:07:48Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/DOG.jpg?v=1777467579
   Price: $95.00 AUD
 - [DOGS - Chihuahua 30x30 cm](https://nessypopart.com/products/dogs-chihuahua-30x30-cm)
-  Updated: 2026-07-28T11:07:48Z
+  Updated: 2026-08-03T08:26:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/19_37772e0b-6a65-44c3-b933-59d3aecd42cf.jpg?v=1777468052
   Price: $95.00 AUD
 - [AUSTRALIA - Cockatoo](https://nessypopart.com/products/australia-cockatoo)
-  Updated: 2026-07-28T11:07:48Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2214,7 +2214,7 @@
     Availability: Available
     Price: $95.00 AUD
 - [AUSTRALIA - Kookaburra](https://nessypopart.com/products/australia-kookaburra)
-  Updated: 2026-07-28T11:07:49Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2235,7 +2235,7 @@
     Availability: Available
     Price: $95.00 AUD
 - [AUSTRALIA - Platypus](https://nessypopart.com/products/australia-platypus)
-  Updated: 2026-07-28T11:07:49Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2256,7 +2256,7 @@
     Availability: Available
     Price: $95.00 AUD
 - [AUSTRALIA - Wombat](https://nessypopart.com/products/australia-wombat)
-  Updated: 2026-07-28T11:07:49Z
+  Updated: 2026-08-03T08:26:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2277,7 +2277,7 @@
     Availability: Available
     Price: $95.00 AUD
 - [AUSTRALIA - Kangaroo](https://nessypopart.com/products/australia-kangaroo)
-  Updated: 2026-07-28T11:07:49Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2298,49 +2298,49 @@
     Availability: Available
     Price: $95.00 AUD
 - [SUPERHERO - Incredible Pug OE 30x30 cm Canvas](https://nessypopart.com/products/superhero-incredible-pug-oe-canvas)
-  Updated: 2026-07-28T11:07:50Z
+  Updated: 2026-08-03T08:26:17Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-incredible-pug-comic-hero.jpg?v=1756528116
   Price: $95.00 AUD
 - [SUPERHERO - Wonderhound OE 30x30 cm Canvas](https://nessypopart.com/products/superhero-wonderhound-oe-30x30-cm-canvas)
-  Updated: 2026-07-28T11:07:50Z
+  Updated: 2026-08-03T08:26:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-wonder-hound-comic-hero_ef967b7b-1066-4278-832c-2ad5dee080a2.jpg?v=1756522848
   Price: $95.00 AUD
 - [BEAR Series - Sun Bear 30x30cm](https://nessypopart.com/products/bear-series-sun-bear-30x30cm)
-  Updated: 2026-07-28T11:07:50Z
+  Updated: 2026-08-03T08:26:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Bear5.jpg?v=1777549972
   Price: $95.00 AUD
 - [BEAR Series - Andean Bear 30x30cm](https://nessypopart.com/products/bear-series-andean-bear-30x30cm)
-  Updated: 2026-07-28T11:07:50Z
+  Updated: 2026-08-03T08:26:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Bear7.jpg?v=1777550095
   Price: $95.00 AUD
 - [BEAR Series - Brown Bear 30x30 cm](https://nessypopart.com/products/bear-series-brown-bear-30x30-cm)
-  Updated: 2026-07-28T11:07:51Z
+  Updated: 2026-08-03T08:26:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Bear2.jpg?v=1777550360
   Price: $95.00 AUD
 - [BEAR Series - Grizzly Bear 30x30 cm](https://nessypopart.com/products/bear-series-grizzly-bear-30x30-cm)
-  Updated: 2026-07-28T11:07:51Z
+  Updated: 2026-08-03T08:26:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Bear8.jpg?v=1777550451
   Price: $95.00 AUD
 - [OUT OF AFRICA - Rhino Blossom](https://nessypopart.com/products/out-of-africa-rhino-blossom)
-  Updated: 2026-07-28T11:07:51Z
+  Updated: 2026-08-03T08:26:21Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2358,7 +2358,7 @@
     Availability: Available
     Price: $895.00 AUD
 - [DIVAS - Cher](https://nessypopart.com/products/divas-cher)
-  Updated: 2026-07-28T11:07:51Z
+  Updated: 2026-08-03T08:26:21Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2379,42 +2379,42 @@
     Availability: Available
     Price: $895.00 AUD
 - [ICON - George 75x100 cm Canvas](https://nessypopart.com/products/icon-george-75x100-cm-canvas)
-  Updated: 2026-07-28T11:07:52Z
+  Updated: 2026-08-03T08:26:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-george-portrait-hero.jpg?v=1756550709
   Price: $795.00 AUD
 - [ICON - Prince 100x75 cm Canvas](https://nessypopart.com/products/icon-prince-100x75-cm-canvas)
-  Updated: 2026-07-28T11:07:52Z
+  Updated: 2026-08-03T08:26:21Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-prince-portrait-hero.jpg?v=1756540871
   Price: $795.00 AUD
 - [ICON - Madonna 75x100 cm Canvas](https://nessypopart.com/products/icon-madonna-75x100-cm-canvas)
-  Updated: 2026-07-28T11:07:52Z
+  Updated: 2026-08-03T08:26:21Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Madonna_Web.jpg?v=1777552973
   Price: $795.00 AUD
 - [ICON - Gaga 75x100 cm Canvas](https://nessypopart.com/products/icon-gaga-75x100-cm-canvas)
-  Updated: 2026-07-28T11:07:52Z
+  Updated: 2026-08-03T08:26:21Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-gaga-portrait-hero.jpg?v=1756549004
   Price: $795.00 AUD
 - [ICON - John 100x75 cm Canvas](https://nessypopart.com/products/icon-john-100x75-cm-canvas)
-  Updated: 2026-07-28T11:07:52Z
+  Updated: 2026-08-03T08:26:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-john-portrait-hero.jpg?v=1756552394
   Price: $795.00 AUD
 - [CARS - Chevy](https://nessypopart.com/products/cars-chevy-75x100-cm-canvas)
-  Updated: 2026-07-28T11:07:53Z
+  Updated: 2026-08-03T08:26:22Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2435,91 +2435,91 @@
     Availability: Available
     Price: $60.00 AUD
 - [AUSTRALIA - Cockatoo 75x75 Framed Canvas](https://nessypopart.com/products/australia-cockatoo-75x75-framed-canvas)
-  Updated: 2026-07-28T11:07:53Z
+  Updated: 2026-08-03T08:26:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_0004.jpg?v=1777468171
   Price: $795.00 AUD
 - [SUPERHERO - Captain Bulldog OE 60x60 cm Canvas](https://nessypopart.com/products/superhero-captain-bulldog-oe-60x60-cm-canvas)
-  Updated: 2026-07-28T11:07:53Z
+  Updated: 2026-08-03T08:26:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-captain-bulldog-comic-hero.jpg?v=1756527003
   Price: $295.00 AUD
 - [SUPERHERO - Dr Airedale OE 60x60 cm Canvas](https://nessypopart.com/products/superhero-dr-airedale-oe-60x60-cm-canvas)
-  Updated: 2026-07-28T11:07:53Z
+  Updated: 2026-08-03T08:26:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-dr-airedale-comic-hero.jpg?v=1756527293
   Price: $295.00 AUD
 - [LEGO PEOPLE - Ms Lego (40x40cm Framed Canvas)](https://nessypopart.com/products/lego-people-ms-lego)
-  Updated: 2026-07-28T11:07:56Z
+  Updated: 2026-08-03T08:26:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_2849_1.jpg?v=1777717869
   Price: $495.00 AUD
 - [LEGO PEOPLE - Sheldon (40x40cm Framed Canvas)](https://nessypopart.com/products/lego-people-sheldon-40x40cm-framed-canvas)
-  Updated: 2026-07-28T11:07:56Z
+  Updated: 2026-08-03T08:26:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_2847_1.jpg?v=1777718185
   Price: $495.00 AUD
 - [LEGO PEOPLE - Mr Fireman (40x40cm Framed Canvas)](https://nessypopart.com/products/lego-people-mr-fireman-40x40cm-framed-canvas)
-  Updated: 2026-07-28T11:07:56Z
+  Updated: 2026-08-03T08:26:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_2447.jpg?v=1777718284
   Price: $495.00 AUD
 - [LEGO PEOPLE - Mr Doctor (40x40cm Framed Canvas)](https://nessypopart.com/products/lego-people-mr-doctor-40x40cm-framed-canvas)
-  Updated: 2026-07-28T11:07:56Z
+  Updated: 2026-08-03T08:26:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_2846_1.jpg?v=1777718361
   Price: $495.00 AUD
 - [LEGO PEOPLE - Ms Doctor (40x40cm Framed Canvas)](https://nessypopart.com/products/lego-people-ms-doctor-40x40cm-framed-canvas)
-  Updated: 2026-07-28T11:07:56Z
+  Updated: 2026-08-03T08:26:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_3299.jpg?v=1777718446
   Price: $495.00 AUD
 - [LEGO PEOPLE - Ms Chef (40x40cm Framed Canvas)](https://nessypopart.com/products/lego-people-ms-chef-40x40cm-framed-canvas)
-  Updated: 2026-07-28T11:07:57Z
+  Updated: 2026-08-03T08:26:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_2840_1.jpg?v=1777718540
   Price: $495.00 AUD
 - [LEGO PEOPLE - Mr Handyman (40x40cm Framed Canvas)](https://nessypopart.com/products/lego-people-mr-handyman-40x40cm-framed-canvas)
-  Updated: 2026-07-28T11:07:57Z
+  Updated: 2026-08-03T08:26:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_2848_1.jpg?v=1777718629
   Price: $495.00 AUD
 - [LEGO PEOPLE - Artist (40x40cm Framed Canvas)](https://nessypopart.com/products/lego-people-artist-40x40cm-framed-canvas)
-  Updated: 2026-07-28T11:07:57Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_2839_1.jpg?v=1777718713
   Price: $495.00 AUD
 - [HOODIE BOY - Pills  (40x40cm Framed Canvas)](https://nessypopart.com/products/hoodie-boy-pills-40x40cm-framed-canvas)
-  Updated: 2026-07-28T11:07:57Z
+  Updated: 2026-08-03T08:26:31Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_2803.jpg?v=1777718955
   Price: $695.00 AUD
 - [A DOGS LIFE - Riding Hood](https://nessypopart.com/products/a-dogs-life-riding-hood)
-  Updated: 2026-07-28T11:07:58Z
+  Updated: 2026-08-03T08:26:28Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2536,7 +2536,7 @@
     Availability: Available
     Price: $495.00 AUD
 - [TRANSPORT Series - Captain Scooter](https://nessypopart.com/products/transport-series-captain-scooter)
-  Updated: 2026-07-28T11:07:58Z
+  Updated: 2026-08-03T08:26:31Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2551,7 +2551,7 @@
     Availability: Available
     Price: $495.00 AUD
 - [TRANSPORT Series - Major Tricycle](https://nessypopart.com/products/transport-series-major-tricycle)
-  Updated: 2026-07-28T11:07:58Z
+  Updated: 2026-08-03T08:26:31Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2566,7 +2566,7 @@
     Availability: Available
     Price: $495.00 AUD
 - [TRANSPORT Series - Rocky Motorcycle](https://nessypopart.com/products/transport-series-rocky-motorcycle)
-  Updated: 2026-07-28T11:07:58Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2581,7 +2581,7 @@
     Availability: Available
     Price: $495.00 AUD
 - [DIVAS - Audrey](https://nessypopart.com/products/divas-audrey)
-  Updated: 2026-07-28T11:07:58Z
+  Updated: 2026-08-03T08:26:31Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2605,7 +2605,7 @@
     Availability: Available
     Price: $150.00 AUD
 - [DIVAS - Kylie](https://nessypopart.com/products/divas-kylie)
-  Updated: 2026-07-28T11:07:59Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2629,7 +2629,7 @@
     Availability: Available
     Price: $150.00 AUD
 - [DIVAS - Bette](https://nessypopart.com/products/divas-bette)
-  Updated: 2026-07-28T11:07:59Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2653,7 +2653,7 @@
     Availability: Available
     Price: $150.00 AUD
 - [ICON - Taylor](https://nessypopart.com/products/icon-taylor): Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-28T11:07:59Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2671,7 +2671,7 @@
     Availability: Available
     Price: $240.00 AUD
 - [ICON - Madonna](https://nessypopart.com/products/icon-madonna): Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2026-07-28T11:07:59Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2686,7 +2686,7 @@
     Availability: Available
     Price: $60.00 AUD
 - [CARS - Mustang](https://nessypopart.com/products/cars-mustang)
-  Updated: 2026-07-28T11:07:59Z
+  Updated: 2026-08-03T08:26:31Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2707,7 +2707,7 @@
     Availability: Available
     Price: $60.00 AUD
 - [CARS - BMW](https://nessypopart.com/products/cars-bmw)
-  Updated: 2026-07-28T11:08:00Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2728,7 +2728,7 @@
     Availability: Available
     Price: $60.00 AUD
 - [DRAG DIVAS - Maxi](https://nessypopart.com/products/drag-divas-maxi)
-  Updated: 2026-07-28T11:08:00Z
+  Updated: 2026-08-03T08:26:31Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2746,7 +2746,7 @@
     Availability: Not Available
     Price: $995.00 AUD
 - [DRAG DIVAS - Bianca](https://nessypopart.com/products/drag-divas-bianca)
-  Updated: 2026-07-28T11:08:00Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2764,7 +2764,7 @@
     Availability: Not Available
     Price: $995.00 AUD
 - [DIVAS - Madonna](https://nessypopart.com/products/divas-madonna)
-  Updated: 2026-07-28T11:08:00Z
+  Updated: 2026-08-03T08:26:31Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2785,7 +2785,7 @@
     Availability: Not Available
     Price: $895.00 AUD
 - [DIVAS - Aretha](https://nessypopart.com/products/divas-aretha)
-  Updated: 2026-07-28T11:08:01Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2806,7 +2806,7 @@
     Availability: Not Available
     Price: $895.00 AUD
 - [DIVAS - Barbra](https://nessypopart.com/products/divas-barbra)
-  Updated: 2026-07-28T11:08:01Z
+  Updated: 2026-08-03T08:26:31Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2827,7 +2827,7 @@
     Availability: Not Available
     Price: $895.00 AUD
 - [DIVAS - Whitney](https://nessypopart.com/products/divas-whitney)
-  Updated: 2026-07-28T11:08:01Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2847,7 +2847,7 @@
     Availability: Not Available
     Price: $895.00 AUD
 - [DRAG DIVAS - Jujubee](https://nessypopart.com/products/drag-divas-jujubee)
-  Updated: 2026-07-28T11:08:01Z
+  Updated: 2026-08-03T08:26:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2865,7 +2865,7 @@
     Availability: Not Available
     Price: $995.00 AUD
 - [DRAG DIVAS - Manila](https://nessypopart.com/products/drag-divas-manila)
-  Updated: 2026-07-28T11:08:02Z
+  Updated: 2026-08-03T08:26:36Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -2883,7 +2883,7 @@
     Availability: Not Available
     Price: $995.00 AUD
 - [DRAG DIVAS - Victoria](https://nessypopart.com/products/drag-divas-victoria)
-  Updated: 2026-07-28T11:08:02Z
+  Updated: 2026-08-03T08:26:37Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -3127,28 +3127,28 @@
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-rocky-horror-frank-n-furter-movies-hero.jpg?v=1755761220
   Price: $995.00 AUD
 - [Dumbo / ADIDAS](https://nessypopart.com/products/dumbo-adidas): Original by SideQuest Dumbo was always a trendsetter—he just needed the right wardrobe. By taking that pure childhood nostalgia and giving it a modern streetwear upgrade we see what we consume as kids and what we consume now isn’t that different. It’s just different packaging. Because why fly with magic feathers when you can do it in three stripes? Big ears, bigger style.
-  Updated: 2026-07-27T08:08:03Z
+  Updated: 2026-08-03T03:12:55Z
   Vendor: SideQuest
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/Dumbo_Adidas.jpg?v=1781753111
   Price: $2,500.00 AUD
 - [Orko / NIKE](https://nessypopart.com/products/orko-nike): Original by SideQuest Orko was always a wildcard with his magic, but his outfit? Unmatched. He doesn’t even need to show you his face. By matching that confidence with the biggest sportswear brand on Earth we see that they are similar. Orko doesn’t need to show you his face for you to know who he is, Nike doesn’t need to show you a pair of shoes to show you who they are. The logo of Nike is faceless just like Orko but we recognise it straight away. Orko might mess up a spell, but at least he’s doing it in style.
-  Updated: 2026-07-27T08:08:07Z
+  Updated: 2026-08-03T03:12:33Z
   Vendor: SideQuest
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_4150.jpg?v=1781753635
   Price: $2,500.00 AUD
 - [Mojo / PRADA](https://nessypopart.com/products/mojo-prada): Original by SideQuest Mojo Jojo always had the most dramatic monologues, so it only made sense that he’d upgrade to the most dramatic high fashion. While his nostalgia comes from being grandiose, Prada’s power comes from being limited. By being limited you consume a product but purchase status. Mojo is the same, with a brain cap like that he was born to have status. Immaculate.
-  Updated: 2026-07-27T08:08:02Z
+  Updated: 2026-08-03T03:12:14Z
   Vendor: SideQuest
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/IMG_4149.jpg?v=1781753941
   Price: $2,500.00 AUD
 - [Hoodie Boy – Snoopy and I Pop Art by Nessy Pop Art](https://nessypopart.com/products/hoodie-boy-snoopy-and-i-mini): Hoodie Boy and Snoopy share a quiet moment of affection. A pop art piece blending tenderness, whimsy, and unexpected grace.
-  Updated: 2026-07-27T08:08:02Z
+  Updated: 2026-08-03T08:08:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -3165,7 +3165,7 @@
   Updated: 2026-05-18T12:15:02Z
   Total Products: 1
 - [Original Paintings](https://nessypopart.com/collections/original-paintings): Discover Ness’s original pop art paintings—each one a one-of-a-kind emotional expression captured in bold acrylic. These works explore vulnerability, defiance, joy, and connection with a raw, painterly intensity. Originals are available exclusively as single editions, hand-created with depth and purpose.
-  Updated: 2026-07-29T13:35:34Z
+  Updated: 2026-08-08T03:09:15Z
   Total Products: 29
 - [Limited Editions](https://nessypopart.com/collections/limited-editions): Shop Nessy Pop Art’s Limited Editions—bold, rare, and emotionally rich prints. Collector-worthy art with meaning, joy, and vibrant storytelling.
   Updated: 2026-07-10T14:09:02Z
@@ -3183,7 +3183,7 @@
   Updated: 2026-07-10T14:09:07Z
   Total Products: 12
 - [Original Minis](https://nessypopart.com/collections/original-minis): Original Minis – Small Works, Big Feelings Each 15x15cm canvas in this collection is a raw, unfiltered glimpse into Ness’s world—where humor collides with heartbreak, and pop culture meets personal truth. Painted in acrylic with black-painted sides, these original works are ready to sit proudly on a shelf or hang solo like a quiet rebellion. No frames. No filters. Just pure emotion, captured in miniature. Whether it’s Hoodie Boy reaching for love or confronting pills and paradoxes, these pieces are more than art—they’re fragments of a story still unfolding. Perfect for collectors who crave intimacy, edge, and a touch of the unexpected.
-  Updated: 2026-07-10T14:08:35Z
+  Updated: 2026-08-08T03:09:15Z
   Total Products: 6
 - [Rocky Horror Series](https://nessypopart.com/collections/rocky-horror-series): Step into the velvet-draped chaos of the castle with NessyART’s Rocky Horror series—a bold, unapologetic tribute to the sweet transvestite himself, Frank-N-Furter. These large-format giclée prints are signed, framed, and strictly limited edition, crafted for collectors who crave drama, desire, and a dash of decadence. Each piece is a love letter to the cult classic: 💄 Black and multicolor palette evokes the glam-punk tension of the film’s most iconic characters 🖼️ Large and limited adds gallery-grade depth and presence ✍️ Signed by Nessy, ensuring authenticity and emotional connection Whether you’re a longtime devotee or a curious newcomer, this series invites you to do the Time Warp again—with style, wit, and a wink. Only a handful exist. Once they’re gone, they’re gone.
   Updated: 2026-07-28T11:08:07Z
@@ -3210,7 +3210,7 @@
   Updated: 2026-07-10T14:08:56Z
   Total Products: 16
 - [Heart](https://nessypopart.com/collections/heart)
-  Updated: 2026-07-22T11:19:02Z
+  Updated: 2026-08-08T03:09:15Z
   Total Products: 21
 - [SUPERHERO Coasters](https://nessypopart.com/collections/superhero-coasters)
   Updated: 2026-07-26T11:17:16Z
@@ -3252,7 +3252,7 @@
   Updated: 2026-07-10T13:08:30Z
   Total Products: 26
 - [Guest Artist - SideQuest](https://nessypopart.com/collections/guest-artist-sidequest): Daily Objects 15 to 29 July 2026Guest Artist Reception - Friday 17 July 6-8pm Nathan Castle is an Australian mixed-media pop artist creating out of Geelong, Victoria. He is a Psychologist in his main life. He steps into the studio under a different moniker: SideQuest. SideQuest’s artwork looks at what we consumed as children and how that evolves, but ultimately stays the same, as we evolve to adulthood. Using a combination of aerosol spray paint, heavy body acrylics, and physical packaging from everyday products we mindlessly consume, these pieces are layered with meaning. His work asks the viewer to look beneath the bright neon surface. SideQuest intentionally aligns the nostalgic cartoon characters from our past—the heroes and villains that shaped our childhoods—with the commercial brands and modern products that dictate our identities today. It’s a playful look at how our innocent memories have been repackaged and sold back to us. Beyond the canvas, Nathan’s life is deeply rooted in human connection and advocacy. As a practicing psychologist, he works both statewide children’s services and  mental health services across the Geelong region. He knows firsthand how crucial a creative outlet is for mental well-being. Just as pop art serves as his personal "side quest", his art aims to do the same for others—sparking joy, triggering core memories, and fostering a sense of bright, accessible connection. Through every layer of paint and repurposed cardboard, SideQuest invites you to pause, smile, and reflect on the pieces that make us who we are for better or for worse.
-  Updated: 2026-07-10T14:09:15Z
+  Updated: 2026-08-03T03:11:46Z
   Total Products: 3
 
 ## Store Pages
