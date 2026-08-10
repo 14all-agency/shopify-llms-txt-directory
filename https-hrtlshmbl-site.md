@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-12T21:34:01Z
 - Contact Email: hrtlshmbl@gmail.com
-- Updated At: 2026-08-03T00:00:35.666Z
+- Updated At: 2026-08-10T00:00:38.602Z
 
 ## Products
 
@@ -2293,7 +2293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/1d1183e3c6e84fbabde177557b601d0c.png?v=1785366198
     Price: $88.52 USD
 - [HRTLS HMBL | Unisex Mineral Wash Short Sleeve Hoodie](https://hrtlshmbl.site/products/hrtls-hmbl-unisex-mineral-wash-short-sleeve-hoodie): Item Number: UT0108Gender: UnisexFabric: 100% cottonFabric Weight: 10.6 oz/yd² (360 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Daily Casual, School, Holiday, Outdoor, Office, Pure Cotton, Snow Wash, Short Sleeve, Hooded, Regular, Loose, Spring, Summer, AutumnPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 25.20 64 25.98 66 26.77 68 27.56 70 28.35 72 Shoulder 20.67 52.5 21.26 54 21.85 55.5 22.44 57 23.03 58.5 Chest 24.80 63 25.59 65 26.38 67 27.17 69 27.95 71 Sleeve length 10.24 26 10.63 27 11.02 28 11.42 29 11.81 30
-  Updated: 2026-08-02T20:26:25Z
+  Updated: 2026-08-03T08:05:57Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2359,7 +2359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/5c25c4052443439da05ad6140b1e241d.png?v=1785701148
     Price: $84.66 USD
 - [HRTLS HMBL | Inverted Cash Fleeced Sweatshirt](https://hrtlshmbl.site/products/hrtls-hmbl-inverted-cash-fleeced-sweatshirt): Item Number: R00368Gender: UnisexFabric: 42% cotton, 53% polyester, 5% other fibersFabric Weight: 10.3 oz/yd² (350 g/m²)Fabric Thickness: ThickCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Casual, Street, Daily Casual, Cotton Blend, Long Sleeve, Round Neck / O-Neck, Regular, Loose, Autumn, WinterNotes: Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 26.77 68 27.56 70 28.35 72 29.13 74 29.92 76 Chest 23.62 60 24.41 62 25.20 64 25.98 66 26.77 68 Shoulder 24.02 61 24.80 63 25.59 65 26.38 67 27.17 69 Sleeve length 20.08 51 20.47 52 20.87 53 21.26 54 21.65 55
-  Updated: 2026-08-02T22:37:36Z
+  Updated: 2026-08-03T10:22:10Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2504,6 +2504,72 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8bc025ef8eed42c99e77583609ae0794.png?v=1785709323
     Price: $69.80 USD
+- [HRTLS HMBL  Feed The Tide Heavyweight Frayed Hoodie](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie): Item Number: RW0015Gender: UnisexFabric: 88.5% cotton, 11.5% polyesterFabric Weight: 10.0 oz/yd² (340 g/m²)Fabric Thickness: ThickCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Vintage, Sporty, Street, Daily Casual, Sport, Washed, Long Sleeve, Regular Sleeve, Regular, Loose, Autumn, WinterPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 24.21 61.5 24.80 63 25.39 64.5 25.98 66 26.57 67.5 Shoulder 24.49 62.2 25.28 64.2 26.06 66.2 26.85 68.2 27.64 70.2 Chest 24.41 62 25.20 64 25.98 66 26.77 68 27.56 70 Sleeve length 23.62 60 24.02 61 24.41 62 24.80 63 25.20 64
+  Updated: 2026-08-06T12:13:44Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/c66d8a23495544df8684ea12138ca009.png?v=1785975003
+  - [Gray / S](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478613041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/48c030a09b4f47eca03f3666cf2bf7e9.png?v=1785975003
+    Price: $98.54 USD
+  - [Gray / M](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478645809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/48c030a09b4f47eca03f3666cf2bf7e9.png?v=1785975003
+    Price: $98.54 USD
+  - [Gray / L](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478678577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/48c030a09b4f47eca03f3666cf2bf7e9.png?v=1785975003
+    Price: $98.54 USD
+  - [Gray / XL](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478711345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/48c030a09b4f47eca03f3666cf2bf7e9.png?v=1785975003
+    Price: $98.54 USD
+  - [Gray / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478744113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/48c030a09b4f47eca03f3666cf2bf7e9.png?v=1785975003
+    Price: $98.54 USD
+  - [Blue / S](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478776881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8485dc570aa44e8cbdd77b7d0a0a8cb8.png?v=1785975003
+    Price: $98.54 USD
+  - [Blue / M](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478809649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8485dc570aa44e8cbdd77b7d0a0a8cb8.png?v=1785975003
+    Price: $98.54 USD
+  - [Blue / L](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478842417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8485dc570aa44e8cbdd77b7d0a0a8cb8.png?v=1785975003
+    Price: $98.54 USD
+  - [Blue / XL](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478875185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8485dc570aa44e8cbdd77b7d0a0a8cb8.png?v=1785975003
+    Price: $98.54 USD
+  - [Blue / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478907953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/8485dc570aa44e8cbdd77b7d0a0a8cb8.png?v=1785975003
+    Price: $98.54 USD
+  - [Black / S](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478940721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/c66d8a23495544df8684ea12138ca009.png?v=1785975003
+    Price: $98.54 USD
+  - [Black / M](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157478973489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/c66d8a23495544df8684ea12138ca009.png?v=1785975003
+    Price: $98.54 USD
+  - [Black / L](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157479006257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/c66d8a23495544df8684ea12138ca009.png?v=1785975003
+    Price: $98.54 USD
+  - [Black / XL](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157479039025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/c66d8a23495544df8684ea12138ca009.png?v=1785975003
+    Price: $98.54 USD
+  - [Black / 2XL](https://hrtlshmbl.site/products/hrtls-hmbl-feed-the-tide-heavyweight-frayed-hoodie?variant=41157479071793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0600/7727/7233/files/c66d8a23495544df8684ea12138ca009.png?v=1785975003
+    Price: $98.54 USD
 
 ## Collections
 
@@ -2511,11 +2577,11 @@
   Updated: 2026-07-19T22:56:31Z
   Total Products: 22
 - [Recommended Products (Wiz Email)](https://hrtlshmbl.site/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-08-02T22:22:36Z
-  Total Products: 29
+  Updated: 2026-08-06T00:10:45Z
+  Total Products: 30
 - [Recommended Products (Wiz Email)](https://hrtlshmbl.site/collections/recommended-products-wiz-email-1): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-08-02T22:22:36Z
-  Total Products: 29
+  Updated: 2026-08-06T00:10:45Z
+  Total Products: 30
 
 ## Store Pages
 
