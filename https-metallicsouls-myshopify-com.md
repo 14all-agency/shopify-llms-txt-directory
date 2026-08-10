@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-25T17:57:36Z
 - Contact Email: psycous2@gmail.com
-- Updated At: 2026-08-03T00:00:47.067Z
+- Updated At: 2026-08-10T00:00:51.901Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/91CQo9fsD5L.jpg?v=1782915008
   Price: $0.99 USD
 - [Metallic Souls Part Two: Nakita's Wrath](https://metallicsouls.myshopify.com/products/metallic-souls-part-two): Nakita awakens with an unstable power and a hunger for revenge, plunging deeper into the Living Metal conspiracy that could burn Mars to the ground.
-  Updated: 2026-07-30T04:01:45Z
+  Updated: 2026-08-08T02:09:05Z
   Vendor: LIVING METAL
   Product Type: E-book
   Availability: Available
@@ -404,7 +404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/dd83b7f5-f9be-4d08-9056-d55b91adb694.jpg?v=1735746463
     Price: $80.80 USD
 - [Metallic Souls Anna Matrix Poster — Living Metal Universe](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3): Original artwork of Anna Matrix, the Mars cop with metal-manipulation powers from the Metallic Souls cyberpunk sci-fi trilogy.
-  Updated: 2026-08-01T17:08:04Z
+  Updated: 2026-08-09T10:53:52Z
   Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
@@ -3243,8 +3243,8 @@
 ## Collections
 
 - [Books & E-books](https://metallicsouls.myshopify.com/collections/frontpage): Discover the Metallic Souls trilogy by Matthew Harrington. A gripping sci-fi saga set on Mars featuring Anna Matrix, Sara Bennett, and Nakita. Start reading today.
-  Updated: 2026-07-27T15:32:59Z
-  Total Products: 3
+  Updated: 2026-08-05T02:16:24Z
+  Total Products: 4
 - [Patriotic Collection](https://metallicsouls.myshopify.com/collections/patriotic-collection): Patriotic T-shirts, posters, and accessories featuring bold original American designs. Stars and Stripes and military inspired artwork from LIVING METAL. Shop now.
   Updated: 2026-07-13T15:54:36Z
   Total Products: 33
@@ -3258,8 +3258,8 @@
   Updated: 2026-07-27T15:48:01Z
   Total Products: 56
 - [Metallic Souls Merchandise](https://metallicsouls.myshopify.com/collections/metallic-souls-merchandise): Official Metallic Souls merchandise including T-shirts, posters, and phone cases. Exclusive designs inspired by the sci-fi trilogy. Shop the collection today.
-  Updated: 2026-07-27T15:47:56Z
-  Total Products: 36
+  Updated: 2026-08-05T02:16:24Z
+  Total Products: 37
 - [AI & Technology E-books](https://metallicsouls.myshopify.com/collections/ai-technology-e-books): Discover AI and technology e-books by Kyan Zackron. Learn ChatGPT, monetize AI skills,  smarter, and build online businesses. Available on Amazon Kindle now.
   Updated: 2026-07-12T18:42:01Z
   Total Products: 19
@@ -3316,6 +3316,18 @@
     Updated: 2026-07-31T15:00:03Z
     Author: Kyan Zackron
     Tags: book teaser, dystopian fiction, Living Metal, Metallic Souls series, sci fi lore, Science fiction, worldbuilding
+  - [How to Start Reading Metallic Souls: A Guide to Parts 1, 2, and 3](https://metallicsouls.myshopify.com/blogs/news/how-to-start-reading-metallic-souls-a-guide-to-parts-1-2-and-3): <p>Three books. One saga. Here's the reading order, what to expect from each part, and why you should start tonight.</p>
+    Updated: 2026-08-03T15:00:01Z
+    Author: Kyan Zackron
+    Tags: cyberpunk books, dystopian fiction, Ebooks, female lead sci fi, Metallic Souls series, reading order, Science fiction
+  - [From Page to Poster: How Metallic Souls Art Comes to Life](https://metallicsouls.myshopify.com/blogs/news/from-page-to-poster-how-metallic-souls-art-comes-to-life): <p>The Metallic Souls look didn't happen by accident. Here's how the saga's cinematic style makes the leap from book pages to posters, apparel, and more.</p>
+    Updated: 2026-08-05T15:00:05Z
+    Author: Kyan Zackron
+    Tags: Anna Matrix, cyberpunk clothing, Metallic Souls series, Sara Bennett, sci fi artwork, sci fi merch, Science fiction
+  - [Cyberpunk on Mars: The Themes That Drive Metallic Souls](https://metallicsouls.myshopify.com/blogs/news/cyberpunk-on-mars-the-themes-that-drive-metallic-souls): <p>Identity, memory, control, and the question of what makes a soul. These are the themes running under every chapter of Metallic Souls.</p>
+    Updated: 2026-08-07T15:00:06Z
+    Author: Kyan Zackron
+    Tags: cyberpunk books, dystopian fiction, female lead sci fi, mars sci fi, Metallic Souls series, Science fiction, worldbuilding
   - [What Is Cyberpunk Art? A Complete Guide to the Neon Dystopia Aesthetic](https://metallicsouls.myshopify.com/blogs/news/what-is-cyberpunk-art): <p>Cyberpunk art is high technology set inside social decay: neon light against deep shadow, vertical cities, rain on glass, and bodies rebuilt with machinery. Here is where the style came from, how to recognize it, and how it differs from steampunk and every other punk aesthetic.</p>
     Updated: 2026-07-22T20:44:59Z
     Author: Kyan Zackron
