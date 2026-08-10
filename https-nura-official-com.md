@@ -6,7 +6,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2026-04-20T13:21:56Z
 - Contact Email: ournurastore@gmail.com
-- Updated At: 2026-07-31T20:19:23.489Z
+- Updated At: 2026-08-10T00:00:32.017Z
 
 NURA® is a premium skincare brand specializing in nose strips and facial care products. Designed for deep cleansing, pore minimizing, and skin purification. We ship internationally and offer high-quality, dermatologist-friendly skincare solutions.
 
@@ -14,7 +14,7 @@ NURA® is a premium skincare brand specializing in nose strips and facial care p
 ## Products
 
 - [NURA® Deep Cleansing Nose Strips | Blackhead Removal](https://nura-official.com/products/nura-deep-cleansing-nose-strips-instant-blackhead-pore-purifying-mask-20pcs): Clear pores with NURA® charcoal nose strips - say goodbye to blackheads in minutes. 20 strips per pack. Enjoy 10% off today with WELCOME10. Order now.
-  Updated: 2026-07-22T09:44:37Z
+  Updated: 2026-08-04T07:06:04Z
   Vendor: NURA®
   Product Type: Nose Strips
   Availability: Available
@@ -27,14 +27,14 @@ NURA® is a premium skincare brand specializing in nose strips and facial care p
     Image: https://cdn.shopify.com/s/files/1/1069/1913/3522/files/modelize-NURA-Deep-Cleansing-Nose-Strip-20pcs_459fa5a6-66de-44f0-8d8b-a62d2c35493c.jpg?v=1781541613
     Price: $12.99 USD
 - [Green Tea Clay Mask Stick — Pore Cleansing & Oil Control | NURA®](https://nura-official.com/products/1pcs-green-tea-clay-stick-for-face-green-mask-stick-smear-acne-shrink-blackhead-green-tea-extract-facial-mask-pore-cleansing): A mess-free clay mask stick with Green Tea Extract. Deep cleanses pores, controls oil, and brightens skin in just 10–15 minutes. Shop NURA® skincare.
-  Updated: 2026-07-28T04:01:45Z
+  Updated: 2026-08-04T07:06:04Z
   Vendor: NURA®
   Product Type: Face Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1069/1913/3522/files/ChatGPT_Image_Jul_10_2026_05_07_09_PM.png?v=1783692502
   Price: $24.99 USD
 - [Peptide Collagen Eye Patches — Anti-Wrinkle & Dark Circles | NURA®](https://nura-official.com/products/peptide-collagen-hydrogel-eye-patch-reduce-wrinkles-dark-circles-with-copper-peptide-niacinamide-firming-hydrating-gel-eye-pads): Shop NURA® Peptide Collagen Hydrogel Eye Patches with Copper Peptide, Niacinamide & Caffeine. Reduce wrinkles, dark circles and puffiness. For all skin types. 60 patches per box.
-  Updated: 2026-07-28T04:01:46Z
+  Updated: 2026-08-04T07:06:04Z
   Vendor: NURA®
   Product Type: eye patches
   Availability: Available
@@ -51,14 +51,11 @@ NURA® is a premium skincare brand specializing in nose strips and facial care p
 ## Collections
 
 - [Bestsellers](https://nura-official.com/collections/bestsellers): Shop NURA®'s bestselling skincare products. Loved by thousands of customers. Premium quality, free tracked worldwide shipping.
-  Updated: 2026-07-31T11:28:13Z
+  Updated: 2026-08-04T07:06:04Z
   Total Products: 4
 - [Nose Strips](https://nura-official.com/collections/nose-strips): Shop NURA® charcoal nose strips for deep pore cleansing. Remove blackheads in 10-15 min. Free tracked worldwide shipping in 8-15 days.
-  Updated: 2026-07-22T09:44:37Z
+  Updated: 2026-08-04T07:06:04Z
   Total Products: 1
-- [Beauty example products](https://nura-official.com/collections/beauty-example-products)
-  Updated: 2026-07-31T19:59:21Z
-  Total Products: 4
 
 ## Store Pages
 
