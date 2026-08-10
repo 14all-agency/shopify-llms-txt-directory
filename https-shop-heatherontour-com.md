@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-09-26T19:01:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-30T21:16:37.339Z
+- Updated At: 2026-08-10T00:00:32.923Z
 
 ## Products
 
@@ -125,7 +125,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Bamboozled Face Tee | Official Heather McMahan Merch Store](https://shop.heatherontour.com/products/bamboozled-face-tee): Bamboozled Face Tee in faded cream with front and back print. 100% Cotton / American Apparel tee
-  Updated: 2026-07-28T21:04:11Z
+  Updated: 2026-08-08T02:55:36Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
@@ -433,10 +433,10 @@ Adjustable closure
 ## Collections
 
 - [Shop All](https://shop.heatherontour.com/collections/shop-all)
-  Updated: 2026-07-30T19:54:45Z
+  Updated: 2026-08-08T11:08:12Z
   Total Products: 71
 - [Apparel](https://shop.heatherontour.com/collections/apparel)
-  Updated: 2026-07-30T19:55:26Z
+  Updated: 2026-08-08T11:08:12Z
   Total Products: 28
 - [Accessories](https://shop.heatherontour.com/collections/accessories)
   Updated: 2026-07-30T19:54:35Z
@@ -445,13 +445,13 @@ Adjustable closure
   Updated: 2026-07-30T11:09:09Z
   Total Products: 21
 - [](https://shop.heatherontour.com/collections/shop-)
-  Updated: 2026-07-30T19:58:39Z
+  Updated: 2026-08-08T11:08:12Z
   Total Products: 25
 - [Bamboozled Tour Collection](https://shop.heatherontour.com/collections/bamboozled-tour-collection)
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-08T11:08:12Z
   Total Products: 16
 - [EasyGift All Products](https://shop.heatherontour.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-08T11:08:12Z
   Total Products: 71
 - [Mother's Day ](https://shop.heatherontour.com/collections/mothers-day-)
   Updated: 2026-07-30T11:09:09Z
@@ -466,7 +466,7 @@ Adjustable closure
   Updated: 2026-07-12T11:08:24Z
   Total Products: 13
 - [New Arrivals](https://shop.heatherontour.com/collections/new-arrivals)
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-08T11:08:12Z
   Total Products: 11
 - [Bracelets](https://shop.heatherontour.com/collections/bracelets)
   Updated: 2026-07-08T22:24:06Z
@@ -475,7 +475,7 @@ Adjustable closure
   Updated: 2026-07-30T11:09:09Z
   Total Products: 3
 - [Black Friday ](https://shop.heatherontour.com/collections/all-but-5-bin)
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-08T11:08:12Z
   Total Products: 54
 - [$5 bin](https://shop.heatherontour.com/collections/5-bin)
   Updated: 2026-07-30T11:09:09Z
