@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-23T19:40:11Z
 - Contact Email: Contactus@blueprintbrandinglab.com
-- Updated At: 2026-08-02T20:18:03.885Z
+- Updated At: 2026-08-10T00:00:30.841Z
 
 ## Products
 
@@ -51,6 +51,9 @@
   - [Stay Connected With Blueprint Branding Lab](https://blueprintbrandinglab.com/blogs/news/stay-connected-with-blueprint-branding-lab)
     Updated: 2026-07-16T00:49:59Z
     Author: Shanta Johnson
+  - [Capturing the Essence: A Guide to Your Next Photoshoot](https://blueprintbrandinglab.com/blogs/news/capturing-the-essence-a-guide-to-your-next-photoshoot): Capturing the Essence: A Guide to Your Next Photoshoot
+    Updated: 2026-08-08T17:27:30Z
+    Author: Anonymous
 
 ## Store Pages
 
