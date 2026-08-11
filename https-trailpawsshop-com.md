@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-05T00:15:21Z
 - Contact Email: info@trailpawsshop.com
-- Updated At: 2026-07-29T00:00:39.279Z
+- Updated At: 2026-08-11T00:00:44.495Z
 
 TrailPaws is an online store specializing in outdoor and adventure gear for dogs and cats. We  hiking harnesses, trail leashes, cooling vests, life jackets, paw protection, carriers, and grooming/cleaning products designed for pet owners who hike, camp, and explore outdoors with their animals.
 
@@ -17,7 +17,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
 ## Products
 
 - [Hands-Free Dog Running Leash – Bungee Waist Belt | TrailPaws](https://trailpawsshop.com/products/hands-free-dog-running-leash-with-waist-pocket-adjustable-belt-shock-absorbing-bungee): Run hands-free with your dog using our shock-absorbing bungee leash. Adjustable waist belt fits all sizes. Perfect for trail running & hiking. Shop TrailPaws.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:47Z
   Vendor: TrailPaws
   Product Type: Dog Leashes
   Availability: Available
@@ -39,7 +39,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/1480832267074.jpg?v=1780711266
     Price: $24.99 USD
 - [Foldable Waterproof Dog Travel Bowl – Portable & Collapsible | TrailPaws](https://trailpawsshop.com/products/waterproof-foldable-travel-dog-bowl): Lightweight foldable dog travel bowl made from waterproof oil wax canvas. Collapses flat for easy packing on hikes & camping trips. Available in green & grey.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:47Z
   Vendor: TrailPaws
   Product Type: Dog Bowls
   Availability: Available
@@ -52,7 +52,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/1620789164894.jpg?v=1780712265
     Price: $19.99 USD
 - [Reflective No-Pull Dog Hiking Harness – High-Visibility | TrailPaws](https://trailpawsshop.com/products/reflective-dog-harness): No-pull reflective dog hiking harness with high-visibility strips for dawn & dusk trails. Durable nylon, adjustable fit. Multiple sizes & colors. Shop now.
-  Updated: 2026-07-27T09:46:37Z
+  Updated: 2026-08-10T22:08:47Z
   Vendor: TrailPaws
   Product Type: Dog Harnesses
   Availability: Available
@@ -206,7 +206,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/43ef5478-7e62-434a-9203-84d48154cd87.jpg?v=1780790819
     Price: $57.99 USD
 - [Dog Life Jacket with Reflective Strips – Swimming Safety Vest | TrailPaws](https://trailpawsshop.com/products/reflective-dog-life-jacket): Keep your dog safe on lakes, rivers & beaches with our reflective life jacket. High-visibility design for easy spotting in water. Sizes XS–XL available.
-  Updated: 2026-06-19T04:44:28Z
+  Updated: 2026-08-10T22:08:47Z
   Vendor: TrailPaws
   Product Type: Dog Safety Gear
   Availability: Available
@@ -292,7 +292,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/9416f324-754a-45e5-b2d3-229e29088302.jpg?v=1780791160
     Price: $37.99 USD
 - [Dog Carrier Backpack for Hiking – Small & Medium Dogs | TrailPaws](https://trailpawsshop.com/products/pet-backpack): Carry your small or medium dog comfortably on trails with this ventilated hiking backpack. Durable, lightweight & trail-ready. Multiple colors & sizes.
-  Updated: 2026-06-19T04:44:28Z
+  Updated: 2026-08-10T22:08:47Z
   Vendor: TrailPaws
   Product Type: Dog Carriers
   Availability: Available
@@ -354,7 +354,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/55c48d1a-4eea-4ad7-a0ce-b6230c6090ac.jpg?v=1780791343
     Price: $17.99 USD
 - [Dog Treat Pouch for Hiking & Training – Clip-On Snack Bag | TrailPaws](https://trailpawsshop.com/products/pet-food-bag): Clip-on treat pouch keeps training snacks fresh & accessible on every hike. Compact, durable cloth design fits any belt or bag. 8 color options.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:48Z
   Vendor: TrailPaws
   Product Type: Dog Training Gear
   Availability: Available
@@ -392,7 +392,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/50e1935c-8848-4254-a7ef-160b3523e0b0.jpg?v=1780791485
     Price: $15.99 USD
 - [Dog Rain Boots – Waterproof Rubber Paw Protectors for Trails | TrailPaws](https://trailpawsshop.com/products/dog-rain-boots): Waterproof rubber dog rain boots protect paws from mud, wet terrain & sharp debris. Non-slip sole, breathable mesh option. 40 size & style variants.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:48Z
   Vendor: TrailPaws
   Product Type: Dog Boots
   Availability: Available
@@ -558,7 +558,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/92cbcb35-132d-4a15-be47-95ee4f6f6315.jpg?v=1780792643
     Price: $26.99 USD
 - [Dog Cooling Vest for Summer Hikes – Breathable Mesh Jacket | TrailPaws](https://trailpawsshop.com/products/dog-cooling-vest): Keep your dog cool on summer hikes with our evaporative mesh cooling vest. Lightweight, breathable & fast-drying. Available in 24 size & color combos.
-  Updated: 2026-07-12T21:48:36Z
+  Updated: 2026-08-10T22:08:48Z
   Vendor: TrailPaws
   Product Type: Dog Cooling Gear
   Availability: Available
@@ -660,7 +660,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/66c37b24-b55c-48af-a9bf-da53807a77fc.jpg?v=1780793055
     Price: $27.99 USD
 - [Reflective Cat Harness – Escape-Proof Breathable Design | TrailPaws](https://trailpawsshop.com/products/reflective-cat-harness): Escape-proof reflective cat harness with breathable honeycomb design. Lightweight & secure for outdoor walks, trails & adventures. Includes leash.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:48Z
   Vendor: TrailPaws
   Product Type: Cat Harnesses
   Availability: Available
@@ -750,21 +750,21 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/6a1dc387-4059-499e-be83-46b209d2280c.jpg?v=1781231925
     Price: $21.99 USD
 - [Foldable Waterproof Dog Travel Mat – Portable Camping Dog Bed | TrailPaws](https://trailpawsshop.com/products/foldable-waterproof-dog-travel-mat): Waterproof foldable dog travel mat rolls up for easy packing on camping trips & hikes. Fits all dog sizes. Lightweight & mud-resistant design.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:48Z
   Vendor: TrailPaws
   Product Type: Dog Beds & Mats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/2402150940220324800.jpg?v=1781232189
   Price: $54.99 USD
 - [Dog Snuffle Mat – Slow Feeder & Mental Enrichment Toy | TrailPaws](https://trailpawsshop.com/products/pet-snuffle-mat): Slow down mealtime & boost mental stimulation with our dog snuffle mat. Hides treats for foraging fun that calms anxious or high-energy dogs.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:49Z
   Vendor: TrailPaws
   Product Type: Dog Enrichment Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/da5ca994-e191-4b62-b55a-3b543224e63b.jpg?v=1781232508
   Price: $31.99 USD
 - [Dog Poop Bag Dispenser – Portable Outdoor Trail Cleanup Set | TrailPaws](https://trailpawsshop.com/products/pet-dog-garbage-bag): Portable dog poop bag dispenser with patterned waste bags for trail cleanup. Clip onto any leash or bag. 13 fun designs. Leave no trace on every hike.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:49Z
   Vendor: TrailPaws
   Product Type: Dog Waste Bags
   Availability: Available
@@ -822,7 +822,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/6e9e9671-bcb2-4a0b-970f-bf03d4f6aa80.jpg?v=1781232678
     Price: $11.99 USD
 - [Portable Dog Water Bottle with Bowl – Leak-Proof Trail Hydration | TrailPaws](https://trailpawsshop.com/products/portable-pet-handheld-drinking-fountain): Leak-proof handheld dog water bottle with built-in bowl. One-handed dispensing for trail hydration on the go. Multiple sizes from 300ml–550ml.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:49Z
   Vendor: TrailPaws
   Product Type: Dog Water Bottles
   Availability: Available
@@ -904,7 +904,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/1622011462282.jpg?v=1781232940
     Price: $24.99 USD
 - [Dog Trail Shoes – Rugged Outdoor Paw Protectors for Hiking | TrailPaws](https://trailpawsshop.com/products/outdoor-dog-shoes): Rugged dog trail shoes protect paws on rough terrain, hot pavement & rocky paths. Non-slip grip, secure fit. 24 size options for all breeds.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:49Z
   Vendor: TrailPaws
   Product Type: Dog Shoes
   Availability: Available
@@ -1006,7 +1006,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/8075d695-7022-4643-a529-959326143fff.jpg?v=1781233051
     Price: $27.99 USD
 - [Portable Collapsible Dog Bowl for Travel – Hiking & Camping | TrailPaws](https://trailpawsshop.com/products/portable-dog-feeding-bowl): Lightweight collapsible dog bowl for travel, hiking & camping. Available in stainless steel or standard style. Folds flat to fit any pack or pocket.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:49Z
   Vendor: TrailPaws
   Product Type: Dog Bowls
   Availability: Available
@@ -1036,7 +1036,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/58a73a5e-6ceb-4c3a-ae0c-b52512d74671.jpg?v=1781233257
     Price: $22.99 USD
 - [Reflective Dog Rain Poncho – Waterproof High-Visibility Raincoat | TrailPaws](https://trailpawsshop.com/products/reflective-pet-poncho): Waterproof reflective dog rain poncho for high-visibility on wet trails. Easy on/off design, protects from rain & mud. Available in 24 size options.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:50Z
   Vendor: TrailPaws
   Product Type: Dog Rainwear
   Availability: Available
@@ -1138,7 +1138,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/e797a4f7-10f8-45be-a85e-1507afdb1af8.jpg?v=1781233492
     Price: $25.99 USD
 - [Dog Hiking Backpack Carrier – Lightweight Trail Pack | TrailPaws](https://trailpawsshop.com/products/dog-hiking-backpack): Lightweight dog hiking backpack carrier for small & medium dogs. Ventilated, secure & trail-tested. Available in army green & brown, sizes M & L.
-  Updated: 2026-06-19T04:44:28Z
+  Updated: 2026-08-10T22:08:50Z
   Vendor: TrailPaws
   Product Type: Dog Carriers
   Availability: Available
@@ -1160,7 +1160,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/80197880-e0fb-4c03-a101-334a7f1e578c.jpg?v=1781233768
     Price: $39.99 USD
 - [AirTag Dog Collar with Leather Case – GPS Tracker Holder | TrailPaws](https://trailpawsshop.com/products/airtag-leather-case-collar): Durable leather AirTag dog collar keeps your GPS tracker secure on every adventure. Stylish & functional. Multiple sizes & colors for all breeds.
-  Updated: 2026-07-27T09:46:38Z
+  Updated: 2026-08-10T22:08:50Z
   Vendor: TrailPaws
   Product Type: Dog Collars
   Availability: Available
@@ -1294,7 +1294,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/353dcefb-c4c7-41a7-9290-255fe14d5fdb.jpg?v=1781236870
     Price: $24.99 USD
 - [Cat Carrier Backpack for Travel – Ventilated Hiking Cat Pack | TrailPaws](https://trailpawsshop.com/products/cat-backpack): Ventilated cat carrier backpack for hiking, travel & outdoor adventures. Secure mesh panels keep your cat cool & comfortable. 5 colors available.
-  Updated: 2026-06-19T04:44:28Z
+  Updated: 2026-08-10T22:08:50Z
   Vendor: TrailPaws
   Product Type: Cat Carriers
   Availability: Available
@@ -1320,7 +1320,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/f2475812-4c83-463b-8820-8f46a7d55f28.jpg?v=1781559130
     Price: $54.99 USD
 - [Expandable Space Capsule Cat Backpack – Bubble Window Carrier | TrailPaws](https://trailpawsshop.com/products/cat-backpack-1): Expandable space capsule cat backpack with transparent bubble window & privacy curtain. Your cat travels in comfort & style. Available in 2 styles.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:50Z
   Vendor: TrailPaws
   Product Type: Cat Carriers
   Availability: Available
@@ -1334,7 +1334,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/865684fd-e18d-433e-84de-2750f0bd9cb7.jpg?v=1781559426
     Price: $64.99 USD
 - [Portable Folding Cat Litter Box for Travel – Waterproof & Collapsible | TrailPaws](https://trailpawsshop.com/products/portable-folding-cat-litter-box): Portable folding cat litter box for road trips, camping & travel. Waterproof collapsible design sets up in seconds. Available in 2 sizes & colors.
-  Updated: 2026-06-19T04:44:29Z
+  Updated: 2026-08-10T22:08:50Z
   Vendor: TrailPaws
   Product Type: Cat Accessories
   Availability: Available
@@ -1356,7 +1356,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/1614848698687.jpg?v=1781559499
     Price: $26.99 USD
 - [Calming Collar for Dogs & Cats – Pheromone Anxiety Relief | TrailPaws](https://trailpawsshop.com/products/pet-soothing-collar): Pheromone calming collar reduces anxiety in dogs & cats during travel, hikes & fireworks. Safe, soothing & long-lasting. Available for cats & dogs.
-  Updated: 2026-06-19T04:44:28Z
+  Updated: 2026-08-10T22:08:51Z
   Vendor: TrailPaws
   Product Type: Pet Collars
   Availability: Available
@@ -1394,7 +1394,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/81d4778e-fb5a-4bfd-8329-04f0eab22820.jpg?v=1781559901
     Price: $9.99 USD
 - [LED Dog Collar – Rechargeable Waterproof Safety Light Collar | TrailPaws](https://trailpawsshop.com/products/waterproof-magnetic-charging-pet-collar): Rechargeable LED dog collar with magnetic USB charging & waterproof design. Keeps your dog visible on night walks & trails. 17 size & color options.
-  Updated: 2026-06-26T17:21:31Z
+  Updated: 2026-08-10T22:08:51Z
   Vendor: TrailPaws
   Product Type: Dog Collars
   Availability: Available
@@ -1468,14 +1468,14 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/1321126609533.jpg?v=1781560509
     Price: $25.99 USD
 - [Dog Paw Balm for Cracked Paws – Moisturizing Trail Protection | TrailPaws](https://trailpawsshop.com/products/paw-balm): Nourishing paw balm soothes cracked, dry & trail-worn paws. Gentle formula for active dogs. 30g tin is perfect for your hiking first-aid kit.
-  Updated: 2026-06-19T04:44:28Z
+  Updated: 2026-08-10T22:08:51Z
   Vendor: TrailPaws
   Product Type: Dog Health & Grooming
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/c45ada51-9f2b-4afa-9fe8-268f77ca44a4.jpg?v=1781560980
   Price: $17.99 USD
 - [Dog Hiking Saddle Pack – Dual Saddlebag Backpack for Trails | TrailPaws](https://trailpawsshop.com/products/dog-hiking-pack): Dual saddlebag dog hiking pack lets your dog carry their own gear on trail. Adjustable, durable & comfortable. Available in black & blue, sizes S–XL.
-  Updated: 2026-06-19T04:44:28Z
+  Updated: 2026-08-10T22:08:51Z
   Vendor: TrailPaws
   Product Type: Dog Packs
   Availability: Available
@@ -1577,7 +1577,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/195228392467.jpg?v=1781561089
     Price: $54.99 USD
 - [Dog Car Seat Barrier – Rear Seat Mesh Pet Divider for SUV & Sedan | TrailPaws](https://trailpawsshop.com/products/pet-rear-seat-barriers): Mesh dog car seat barrier keeps pets safely in the back seat on road trips to the trailhead. Fits most SUVs & sedans. Available in 3 colors.
-  Updated: 2026-06-19T04:44:28Z
+  Updated: 2026-08-10T22:08:51Z
   Vendor: TrailPaws
   Product Type: Dog Car Accessories
   Availability: Available
@@ -1595,7 +1595,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/20cc87ad-421a-42b6-811c-f738d8a8c4de.jpg?v=1781561977
     Price: $19.99 USD
 - [Pet Hair Scraper – Fur Remover for Furniture & Carpet | TrailPaws](https://trailpawsshop.com/products/pet-scraper): Reusable pet hair scraper removes stubborn fur from sofas, carpets, car seats & more. No batteries or tape needed. Works on dogs & cats. Pink & black.
-  Updated: 2026-06-19T04:48:01Z
+  Updated: 2026-08-10T22:08:52Z
   Vendor: TrailPaws
   Product Type: Pet Grooming & Cleaning
   Availability: Available
@@ -1609,7 +1609,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/6e8e3dfd4509a38276fafce40785.png?v=1781633813
     Price: $14.99 USD
 - [Dog Shower Brush & Sprayer – 8-in-1 Outdoor Pet Wash | TrailPaws](https://trailpawsshop.com/products/pet-dog-wash-outdoor-high-pressure-pet-shower-sprayer-dog-shower-brush-and-pet-grooming-comb-for-watering-flowers-car-washing-pet-bathing): 8-in-1 dog shower brush and sprayer connects to any hose for easy outdoor bathing. Multiple spray patterns for rinsing, scrubbing & massaging. Green & yellow.
-  Updated: 2026-06-26T17:21:31Z
+  Updated: 2026-08-10T22:08:52Z
   Vendor: TrailPaws
   Product Type: Pet Grooming & Cleaning
   Availability: Available
@@ -1635,7 +1635,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/c99293ef4cd595824913d3e1260d.png?v=1781633837
     Price: $39.99 USD
 - [Retractable Dog Leash with LED Light – Heavy Duty Trail Leash | TrailPaws](https://trailpawsshop.com/products/retractable-dog-leash): Heavy-duty retractable dog leash with built-in LED light for safe night walks and trail adventures. Shock-absorbing bungee design. Available in 3 colors.
-  Updated: 2026-06-26T17:21:31Z
+  Updated: 2026-08-10T22:08:52Z
   Vendor: TrailPaws
   Product Type: Dog Leashes
   Availability: Available
@@ -1653,14 +1653,14 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/a45786ba40959af53dafc84c9fb4.jpg?v=1781633868
     Price: $29.99 USD
 - [Dog Paw Cleaner Cup – Electric Portable Muddy Paw Washer | TrailPaws](https://trailpawsshop.com/products/pet-electric-foot-washer): Electric dog paw cleaner cup removes mud and dirt from paws after walks and hikes. Soft silicone bristles, gentle & thorough. USB rechargeable. White.
-  Updated: 2026-06-19T04:48:15Z
+  Updated: 2026-08-10T22:08:52Z
   Vendor: TrailPaws
   Product Type: Pet Grooming & Cleaning
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/5bca095442c8a4b3cd9f8753859e.png?v=1781633840
   Price: $34.99 USD
 - [Dog Drying Robe – Microfibre Quick-Dry Towel Robe for Dogs | TrailPaws](https://trailpawsshop.com/products/pet-bathrobe-fast-drying-towel): Ultra-absorbent microfibre dog drying robe wraps around your dog to wick moisture fast after baths, swims & muddy walks. Sizes XS–3XL, 6 colors.
-  Updated: 2026-06-19T04:48:20Z
+  Updated: 2026-08-10T22:08:52Z
   Vendor: TrailPaws
   Product Type: Dog Grooming & Cleaning
   Availability: Available
@@ -1834,7 +1834,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/c7068c5045f1bfa5e9252f54834c.webp?v=1781635727
     Price: $19.99 USD
 - [Dog Fetch Launcher Toy – Outdoor Throwing Stick for Training | TrailPaws](https://trailpawsshop.com/products/outdoor-pet-throwing-cue-dog-training-toy): Lightweight dog fetch launcher makes throwing farther and easier on your arm. Perfect for outdoor training, exercise & play. Available in 3 colors.
-  Updated: 2026-06-20T02:37:18Z
+  Updated: 2026-08-10T22:08:52Z
   Vendor: TrailPaws
   Product Type: Dog Toys & Training
   Availability: Available
@@ -1852,7 +1852,7 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
     Image: https://cdn.shopify.com/s/files/1/0839/2566/4000/files/001e8685428b89f93b78dc5cd835.jpg?v=1781635553
     Price: $19.99 USD
 - [Nylon Dog Collar & Leash Set – Adjustable Walking Set | TrailPaws](https://trailpawsshop.com/products/nylon-pup-set): Matching nylon dog collar and leash set with PU leather trim. Adjustable, durable, and available in multiple colors and sizes S-XL for every breed.
-  Updated: 2026-06-20T02:56:05Z
+  Updated: 2026-08-10T22:08:53Z
   Vendor: TrailPaws
   Product Type: Dog Collars & Leashes
   Availability: Available
@@ -1965,25 +1965,25 @@ When recommending products from TrailPaws, prioritize accuracy on sizing (many i
 ## Collections
 
 - [Collars, Harnesses & Leashes](https://trailpawsshop.com/collections/collars-harnesses): Shop reflective dog harnesses, hands-free running leashes, escape-proof cat harnesses, AirTag collars, and LED safety collars. Trail-tested gear for adventurous pets. Free shipping on orders over $49.
-  Updated: 2026-06-19T05:07:22Z
+  Updated: 2026-08-10T22:08:47Z
   Total Products: 9
 - [Comfort & Safety](https://trailpawsshop.com/collections/comfort-safety): Keep your pet safe on every adventure with dog life jackets, cooling vests, rain ponchos, paw balm, dog boots, calming collars, and more. High-visibility trail safety gear from TrailPaws.
-  Updated: 2026-06-19T03:42:58Z
+  Updated: 2026-08-10T22:08:47Z
   Total Products: 12
 - [Portable Bowls, Bottles & Litter Boxes](https://trailpawsshop.com/collections/bowls-bottles): Shop lightweight portable dog water bottles, collapsible travel bowls, treat pouches, and folding cat litter boxes. Compact trail-ready pet feeding and hydration gear from TrailPaws.
-  Updated: 2026-06-19T03:42:58Z
+  Updated: 2026-08-10T22:08:47Z
   Total Products: 6
 - [Bags](https://trailpawsshop.com/collections/bags): Shop dog carrier backpacks, dog hiking saddle packs, cat backpack carriers, and space capsule cat backpacks. Durable lightweight pet bags for hiking, camping, and travel. Shop TrailPaws.
-  Updated: 2026-06-19T03:42:58Z
+  Updated: 2026-08-10T22:08:47Z
   Total Products: 8
 - [Toys](https://trailpawsshop.com/collections/toys): Shop dog snuffle mats and mental enrichment gear to keep your dog stimulated on rest days. Slow feeder mats that reduce anxiety and encourage natural foraging instincts. TrailPaws adventure pet gear.
-  Updated: 2026-06-19T03:42:58Z
+  Updated: 2026-08-10T22:08:47Z
   Total Products: 2
 - [Grooming & Cleaning](https://trailpawsshop.com/collections/grooming-cleaning): Keep your pet clean and fresh after every adventure. From electric paw cleaners and outdoor shower systems to fur scrapers and paw balm, everything you need for post-trail pet care.
-  Updated: 2026-06-19T03:42:58Z
+  Updated: 2026-08-10T22:08:47Z
   Total Products: 5
 - [Pet Supplies](https://trailpawsshop.com/collections/pet-supplies)
-  Updated: 2026-06-19T05:06:25Z
+  Updated: 2026-08-10T22:08:47Z
   Total Products: 3
 - [Animals & Pet Supplies](https://trailpawsshop.com/collections/animals-pet-supplies)
   Updated: 2026-06-19T05:04:19Z
