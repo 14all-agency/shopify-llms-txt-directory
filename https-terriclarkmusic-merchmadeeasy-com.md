@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2018-08-24T17:42:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-30T21:23:53.237Z
+- Updated At: 2026-08-11T00:00:36.482Z
 
 ## Products
 
@@ -195,7 +195,7 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Silver TC Logo Keychain](https://terriclarkmusic.merchmadeeasy.com/products/silver-tc-logo-keychain): Silver "TC" logo metal keychain.
-  Updated: 2026-07-08T22:11:53Z
+  Updated: 2026-08-03T19:33:27Z
   Vendor: Terri Clark
   Product Type: Accessories
   Availability: Available
@@ -300,7 +300,7 @@
     Availability: Not Available
     Price: $45.00 USD
 - [Hat Brats Club Tee](https://terriclarkmusic.merchmadeeasy.com/products/hat-brat-club-tee): Join the club! Rep Terri Clark's Hat Brats Vintage Purple Tee made of 50/25/25 poly/cotton/rayon blend. Unisex fit!
-  Updated: 2026-07-14T20:22:26Z
+  Updated: 2026-08-06T23:00:38Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -679,7 +679,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Official Hat Brats Fan Club Black Tee](https://terriclarkmusic.merchmadeeasy.com/products/official-hat-brats-fan-club-black-tee)
-  Updated: 2026-07-18T12:32:28Z
+  Updated: 2026-07-31T23:00:35Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -727,7 +727,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Better Things To Do Tee](https://terriclarkmusic.merchmadeeasy.com/products/better-things-to-do-tee): Garment dyed Comfort Colors tee Pre-shrunk 100% ring spun cotton. Size Chart Size Body Length (in) Chest Width (Laid Flat) Sleeve Length (in) S 26 1/2 18 1/4 16 1/4 M 28 20 1/4 17 3/4 L 29 1/2 22 19 XL 30 3/4 24 20 1/2 2XL 31 1/2 26 21 3/4 3XL 32 1/2 27 3/4 23 1/4
-  Updated: 2026-07-19T21:05:28Z
+  Updated: 2026-08-06T15:21:23Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -789,7 +789,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/LifeGoesOnCdSIGNED.png?v=1761918640
   Price: $20.00 USD
 - [Greatest Hits Guitar Tee](https://terriclarkmusic.merchmadeeasy.com/products/greatest-hits-guitar-tee): TC hits photo black tee.
-  Updated: 2026-07-19T21:05:28Z
+  Updated: 2026-08-06T23:00:37Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -827,7 +827,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/TC-Classic-Hat.png?v=1759344891
   Price: $25.00 USD
 - [Lightning Vintage Photo Tee](https://terriclarkmusic.merchmadeeasy.com/products/lightning-vintage-photo-tee): TC hits photo black tee.
-  Updated: 2026-07-28T08:11:43Z
+  Updated: 2026-08-09T00:22:56Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -839,7 +839,7 @@
     Availability: Available
     Price: $35.00 USD
   - [L](https://terriclarkmusic.merchmadeeasy.com/products/lightning-vintage-photo-tee?variant=45243829846198)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XL](https://terriclarkmusic.merchmadeeasy.com/products/lightning-vintage-photo-tee?variant=45243829878966)
     Availability: Available
@@ -851,7 +851,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Just The Same Tour Tee](https://terriclarkmusic.merchmadeeasy.com/products/just-the-same-tour-tee): TC hits photo black tee.
-  Updated: 2026-07-29T15:04:57Z
+  Updated: 2026-08-01T12:27:07Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -885,28 +885,28 @@
 ## Collections
 
 - [Official Merch](https://terriclarkmusic.merchmadeeasy.com/collections/official-merch)
-  Updated: 2026-07-30T11:07:46Z
+  Updated: 2026-08-09T11:06:27Z
   Total Products: 90
 - [Apparel](https://terriclarkmusic.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-07-30T11:07:46Z
+  Updated: 2026-08-09T11:06:27Z
   Total Products: 46
 - [Accessories](https://terriclarkmusic.merchmadeeasy.com/collections/accessories)
   Updated: 2026-07-22T11:06:32Z
   Total Products: 43
 - [Music](https://terriclarkmusic.merchmadeeasy.com/collections/music)
-  Updated: 2026-07-30T11:07:46Z
-  Total Products: 21
+  Updated: 2026-08-05T20:38:41Z
+  Total Products: 23
 - [Hats](https://terriclarkmusic.merchmadeeasy.com/collections/hats)
   Updated: 2026-07-22T11:06:32Z
   Total Products: 14
 - [Featured](https://terriclarkmusic.merchmadeeasy.com/collections/featured)
-  Updated: 2026-07-30T11:07:46Z
-  Total Products: 17
+  Updated: 2026-08-09T11:06:27Z
+  Total Products: 18
 - [All Products](https://terriclarkmusic.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-07-30T11:07:46Z
-  Total Products: 120
+  Updated: 2026-08-09T11:06:27Z
+  Total Products: 122
 - [T-Shirts](https://terriclarkmusic.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-07-30T11:07:46Z
+  Updated: 2026-08-09T11:06:27Z
   Total Products: 40
 - [Hoodies](https://terriclarkmusic.merchmadeeasy.com/collections/hoodies)
   Updated: 2026-07-08T22:12:19Z
@@ -921,8 +921,8 @@
   Updated: 2026-07-08T20:17:29Z
   Total Products: 3
 - [CDs](https://terriclarkmusic.merchmadeeasy.com/collections/cds)
-  Updated: 2026-07-30T11:07:46Z
-  Total Products: 14
+  Updated: 2026-08-05T20:38:41Z
+  Total Products: 15
 - [Digital Albums](https://terriclarkmusic.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:17:29Z
   Total Products: 0
@@ -930,8 +930,8 @@
   Updated: 2026-07-08T20:17:30Z
   Total Products: 0
 - [All](https://terriclarkmusic.merchmadeeasy.com/collections/all)
-  Updated: 2026-07-30T11:07:46Z
-  Total Products: 120
+  Updated: 2026-08-09T11:06:27Z
+  Total Products: 122
 - [](https://terriclarkmusic.merchmadeeasy.com/collections/)
   Updated: 2026-07-23T11:06:14Z
   Total Products: 39
@@ -939,22 +939,22 @@
   Updated: 2026-07-30T11:07:46Z
   Total Products: 33
 - [ NOT Exempt](https://terriclarkmusic.merchmadeeasy.com/collections/-not-exempt)
-  Updated: 2026-07-30T11:07:46Z
+  Updated: 2026-08-05T19:12:58Z
   Total Products: 73
 - [2022 Tour Collection](https://terriclarkmusic.merchmadeeasy.com/collections/2022-tour-collection)
   Updated: 2026-07-30T11:07:46Z
   Total Products: 15
 - [Merch](https://terriclarkmusic.merchmadeeasy.com/collections/merch)
-  Updated: 2026-07-30T11:07:46Z
-  Total Products: 102
+  Updated: 2026-08-09T11:06:27Z
+  Total Products: 103
 - [Best Sellers](https://terriclarkmusic.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-07-30T11:07:46Z
+  Updated: 2026-08-09T11:06:27Z
   Total Products: 22
 - [Cold Weather Collection](https://terriclarkmusic.merchmadeeasy.com/collections/cold-weather-collection)
   Updated: 2026-07-15T11:06:27Z
   Total Products: 7
 - [2024 Tour Collection](https://terriclarkmusic.merchmadeeasy.com/collections/2024-tour-collection-1)
-  Updated: 2026-07-21T11:07:19Z
+  Updated: 2026-08-07T11:06:51Z
   Total Products: 9
 - [Buy One, Get One 50% Off](https://terriclarkmusic.merchmadeeasy.com/collections/buy-one-get-one-50-off)
   Updated: 2026-07-20T11:06:57Z
@@ -966,35 +966,38 @@
   Updated: 2026-07-23T11:06:14Z
   Total Products: 20
 - [EasyGift All Products](https://terriclarkmusic.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-07-30T11:07:46Z
-  Total Products: 120
+  Updated: 2026-08-09T11:06:27Z
+  Total Products: 122
 - [Koozies](https://terriclarkmusic.merchmadeeasy.com/collections/koozies)
   Updated: 2026-07-15T11:06:27Z
   Total Products: 7
 - [Summer  $5](https://terriclarkmusic.merchmadeeasy.com/collections/summer--5)
-  Updated: 2026-07-23T11:06:14Z
+  Updated: 2026-08-05T19:15:09Z
   Total Products: 42
 - [Summer  $10](https://terriclarkmusic.merchmadeeasy.com/collections/summer--10)
   Updated: 2026-07-08T22:12:15Z
   Total Products: 3
 - [Greatest Hits Anniversary](https://terriclarkmusic.merchmadeeasy.com/collections/greatest-hits-anniversary)
-  Updated: 2026-07-22T11:06:32Z
+  Updated: 2026-08-03T19:54:10Z
   Total Products: 6
 - [Signed Media](https://terriclarkmusic.merchmadeeasy.com/collections/signed-cds)
-  Updated: 2026-07-21T11:07:19Z
-  Total Products: 8
+  Updated: 2026-08-05T20:38:41Z
+  Total Products: 10
 - [Stocking Stuffers](https://terriclarkmusic.merchmadeeasy.com/collections/stocking-stuffers-1)
-  Updated: 2026-07-30T11:07:46Z
-  Total Products: 51
+  Updated: 2026-08-05T20:38:41Z
+  Total Products: 52
 - [NEW ARRIVALS](https://terriclarkmusic.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-07-30T11:07:46Z
+  Updated: 2026-08-09T11:06:27Z
   Total Products: 14
 - [Spring BOGO ](https://terriclarkmusic.merchmadeeasy.com/collections/spring-)
-  Updated: 2026-07-30T11:07:46Z
+  Updated: 2026-08-09T11:06:27Z
   Total Products: 99
 - [Tour Merch](https://terriclarkmusic.merchmadeeasy.com/collections/tour-merch)
-  Updated: 2026-07-30T11:07:46Z
+  Updated: 2026-08-09T11:06:27Z
   Total Products: 12
+- [Live From The Ryman](https://terriclarkmusic.merchmadeeasy.com/collections/live-from-the-ryman)
+  Updated: 2026-08-05T20:38:49Z
+  Total Products: 2
 
 ## Store Pages
 
