@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-21T20:12:00Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-30T21:19:47.216Z
+- Updated At: 2026-08-11T00:00:35.817Z
 
 ## Products
 
 - [ECLESIA Standard Vinyl](https://naikaofficial.merchmadeeasy.com/products/eclesia-standard-vinyl): First vinyl pressing of Naïka’s debut album ECLESIA Pressed on standard black vinyl and accompanied by inner lyric sheets. SIDE A WELCOME TO ECLESIA BLOOM RITUAL MATADOR ONE TRACK MIND BARELY BARELY F.I.S.H. SIDE B SOLEIL WHAT A DAY BLESSINGS MEMORY ON ME ALL MY LIFE MESSAGE IN A BOTTLE
-  Updated: 2026-07-30T17:14:36Z
+  Updated: 2026-08-05T17:27:07Z
   Vendor: Naika
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Cody-Mockups-Portraits_0002_ECLESIA-Vinyl-Black-Front.png?v=1775487032
   Price: $39.98 USD
 - [ECLESIA Emerald Vinyl](https://naikaofficial.merchmadeeasy.com/products/eclesia-emerald-vinyl): Second vinyl pressing of Naïka’s debut album ECLESIA Pressed on Emerald marbled vinyl and accompanied by inner lyric sheets. SIDE A WELCOME TO ECLESIA BLOOM RITUAL MATADOR ONE TRACK MIND BARELY BARELY F.I.S.H. SIDE B SOLEIL WHAT A DAY BLESSINGS MEMORY ON ME ALL MY LIFE MESSAGE IN A BOTTLE As each vinyl pressing is unique, please note that there may be slight variations in color from the product mock-up.
-  Updated: 2026-07-27T20:11:37Z
+  Updated: 2026-08-06T19:08:43Z
   Vendor: Naika
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Naika-Vinyl-Main-Mockup.png?v=1781818904
   Price: $49.98 USD
 - [ECLESIA Tee](https://naikaofficial.merchmadeeasy.com/products/eclesia-tee): Vintage-style Naïka ‘Eclesia’ tee featuring a bold back graphic with sun, palm trees, florals and flamingo. Soft, premium cotton for everyday wear.
-  Updated: 2026-07-29T19:38:51Z
+  Updated: 2026-08-03T12:45:06Z
   Vendor: Naika
   Product Type: T-Shirt
   Availability: Available
@@ -116,27 +116,20 @@
     Availability: Not Available
     Price: $65.00 USD
 - [ECLESIA Tour Poster](https://naikaofficial.merchmadeeasy.com/products/eclesia-tour-poster): Commemorate the ECLESIA tour with this vintage style poster of Naïka. 11x17 inches.
-  Updated: 2026-07-25T09:10:17Z
+  Updated: 2026-08-10T21:52:42Z
   Vendor: Naika
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Eclesia-Tour-Poster.png?v=1771537251
   Price: $15.00 USD
-- [Lost In Paradise EP Vinyl](https://naikaofficial.merchmadeeasy.com/products/lost-in-paradise-pt-1-vinyl): Original pressing of Naïka’s EP Lost In Paradise pressed on black vinyl Side A is Part I, Side B is Part II *These are vintage collector's items. Some of these have been opened and show minor wear and tear from travel and storage. TRACKLIST Vultures African Sun Big Steps On My Way Head in the Clouds Sauce For Gerard Ma Chérie Water Burn Slow
-  Updated: 2026-07-25T01:06:41Z
-  Vendor: Naika
-  Product Type: Vinyl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Naika_0003_LIP-2-Regular.png?v=1781819086
-  Price: $75.00 USD
 
 ## Collections
 
 - [Home page](https://naikaofficial.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-07-30T11:19:52Z
+  Updated: 2026-08-07T11:18:28Z
   Total Products: 7
 - [Apparel](https://naikaofficial.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-07-30T11:19:52Z
+  Updated: 2026-08-04T11:18:02Z
   Total Products: 5
 - [Accessories](https://naikaofficial.merchmadeeasy.com/collections/accessories)
   Updated: 2026-07-25T11:22:00Z
@@ -145,16 +138,16 @@
   Updated: 2026-07-08T20:31:02Z
   Total Products: 0
 - [Music](https://naikaofficial.merchmadeeasy.com/collections/music)
-  Updated: 2026-07-28T11:20:58Z
+  Updated: 2026-08-07T11:18:28Z
   Total Products: 5
 - [All](https://naikaofficial.merchmadeeasy.com/collections/all)
-  Updated: 2026-07-30T11:19:52Z
-  Total Products: 9
+  Updated: 2026-08-07T11:18:28Z
+  Total Products: 8
 - [ECLESIA](https://naikaofficial.merchmadeeasy.com/collections/eclesia)
-  Updated: 2026-07-30T11:19:52Z
+  Updated: 2026-08-07T11:18:28Z
   Total Products: 10
 - [Lost In Paradise](https://naikaofficial.merchmadeeasy.com/collections/lost-in-paradise)
-  Updated: 2026-07-25T11:22:00Z
+  Updated: 2026-08-01T11:18:30Z
   Total Products: 2
 
 ## Store Pages
