@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-28T19:48:55Z
 - Contact Email: info@brewtheblend.com
-- Updated At: 2026-08-03T00:00:28.365Z
+- Updated At: 2026-08-11T00:00:28.047Z
 
 ## Products
 
 - [Get Bali Coffee | With LavaLoom Experience Luxurious Velvet Flavor](https://www.brewtheblend.com/products/lavaloom): Experience the smooth richness of our LavaLoom coffee, crafted with Bali blue coffee beans. A unique blend that offers a delightful taste with every sip.
-  Updated: 2026-07-08T21:09:07Z
+  Updated: 2026-08-07T05:10:04Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Available
     Price: $52.00 USD
 - [Brew’s Ease Decaf – Smooth Swiss Water® Decaf](https://www.brewtheblend.com/products/brew-ease-decaf): Brew's Ease Decaf transforms your daily cup into a rich sensory experience, where flavor, aroma, and craftsmanship come together in every sip.
-  Updated: 2026-07-08T21:09:08Z
+  Updated: 2026-08-07T05:12:39Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -89,7 +89,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Buy Brillaberry Coffee | A Burst of Fruity Flavor in Every Sip](https://www.brewtheblend.com/products/brillaberry): Enjoy the natural sweetness of coffee berry fruit in our Brillaberry blend. A unique coffee with bright, berry-forward flavors in every sip.
-  Updated: 2026-07-30T11:52:42Z
+  Updated: 2026-08-07T05:05:12Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Available
     Price: $94.00 USD
 - [60 Pack Single Serve Coffee Capsules | EveryCup Original Convenient & Fresh](https://www.brewtheblend.com/products/60-capsules): EveryCup Original: 60-pack specialty-grade coffee capsules with rich, balanced flavor and fresher, smoother brews. Crafted for consistent satisfaction.
-  Updated: 2026-07-08T21:09:09Z
+  Updated: 2026-08-10T09:00:45Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Available
     Price: $89.50 USD
 - [Get Best South American Coffee Beans in House Breakfast Blend](https://www.brewtheblend.com/products/morniva): Start your day with Morniva! Our American coffee beans deliver the best coffee bean experience, perfect for your morning brew. Shop now!
-  Updated: 2026-07-08T21:09:10Z
+  Updated: 2026-08-07T05:04:47Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -186,7 +186,7 @@
     Availability: Available
     Price: $21.00 USD
 - [Brew the Blend+](https://www.brewtheblend.com/products/brewtheblend): An improved take on the classic breakfast blend, Brew the Blend+ is designed for coffee lovers longing for a robust, intricate savor. Our specialty-crafted blend combines high-quality Arabica beans with a touch of Robusta for an extra caffeine boost that will invigorate your mornings.
-  Updated: 2026-07-29T23:09:11Z
+  Updated: 2026-08-07T05:12:31Z
   Vendor: BREW THE BLEND
   Product Type: Coffee
   Availability: Available
@@ -234,7 +234,7 @@
     Availability: Available
     Price: $102.00 USD
 - [Chillspire – Cold Brew Coffee with Chocolate & Toffee | Brew the Blend](https://www.brewtheblend.com/products/chillspire): Smooth and refreshing, Chillspire is a specialty cold brew with chocolate, toffee, and floral notes. Silken, balanced, and crafted to uplift every sip.
-  Updated: 2026-07-08T21:09:12Z
+  Updated: 2026-08-07T05:13:05Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -262,7 +262,7 @@
     Availability: Available
     Price: $94.00 USD
 - [Enjoy Bourbon Amber Coffee | A Unique Brew Just for You!](https://www.brewtheblend.com/products/bourbon-amber): Get the rich, smooth taste of barrel and bean coffee. Our whiskey barrel-aged Guatemalan coffee delivers a delightful whiskey flavor in every sip. Order now!
-  Updated: 2026-07-29T18:12:32Z
+  Updated: 2026-08-07T05:12:25Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -362,7 +362,7 @@
     Availability: Available
     Price: $94.00 USD
 - [Caramel Coffee – Sweet & Buttery Medium Roast | Brew the Blend](https://www.brewtheblend.com/products/caralisse): Enjoy a rich, buttery caramel coffee in a smooth medium roast. Specialty-grade Arabica from Central/South America with notes of caramel, butter & cream—delicious black or in lattes.
-  Updated: 2026-07-08T21:09:14Z
+  Updated: 2026-08-07T05:13:01Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -418,28 +418,28 @@
     Availability: Available
     Price: $94.00 USD
 - [Shop Best Sellers | Blend Coffee for Every Taste](https://www.brewtheblend.com/products/riders-collection): Searching for the best coffee near you? Discover our best- coffee blends, crafted to perfection for every coffee lover. Order today! "from Brew The Blend
-  Updated: 2026-07-08T21:09:15Z
+  Updated: 2026-08-07T05:12:46Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew-s-Riders-Collection-_1.png?v=1773714155
   Price: $25.20 USD
 - [Try Brew’s Sweet Escape | Flavored Coffee Sample Pack](https://www.brewtheblend.com/products/sweet-escape): Brew’s Sweet Escape – A medley of flavored coffees. From vanilla clouds to chocolate heat, discover six flavored coffees crafted for comfort, delight, and everyday joy.
-  Updated: 2026-07-08T21:09:15Z
+  Updated: 2026-08-07T05:12:50Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew-s-Sweet-Escape-_1.png?v=1773714152
   Price: $25.20 USD
 - [Discover Single Origin Coffee | From Ethiopia to Honduras](https://www.brewtheblend.com/products/passport-pack): Explore six single-origin coffees in the Brew’s Passport Pack—berry-bright Ethiopian to creamy Honduran, each roast a journey across the coffee belt.
-  Updated: 2026-07-08T21:09:15Z
+  Updated: 2026-08-07T05:12:48Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brew-s-Passport-Pack-_1.png?v=1773714144
   Price: $25.20 USD
 - [Shop Jasmine Green Tea | Refreshing & Floral Loose Leaf Tea](https://www.brewtheblend.com/products/jasmine-florasteep): Experience the delicate flavor of Jasmine Serenity. This premium jasmine tea is perfect for relaxation and well-being. Taste now a soothing cup!
-  Updated: 2026-07-29T23:35:52Z
+  Updated: 2026-08-07T05:42:17Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
@@ -460,7 +460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sassy_Charm_Chai_-_New.webp?v=1784785795
   Price: $18.00 USD
 - [Get Brazilian Coffee | Brew the Best with Brazela](https://www.brewtheblend.com/products/brazela): Brazela is a medium roast from Brazil’s highland farms, offering a smooth, toasted flavor with gentle complexity and an easy, balanced finish. Born of Brazil’s Soil. Brewed for Any Moment.
-  Updated: 2026-07-30T08:45:39Z
+  Updated: 2026-08-07T05:15:56Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -484,7 +484,7 @@
     Availability: Available
     Price: $102.00 USD
 - [Suntrail Roast - A Trail of Flavor, Rooted in Colombia.](https://www.brewtheblend.com/products/suntrail-roast): Suntrail Roast is a smooth, medium Colombian coffee with bright citrus notes, gentle sweetness, and a clean, balanced finish. Suntrail Roast, a Taste of Paradise
-  Updated: 2026-07-08T21:09:17Z
+  Updated: 2026-08-07T05:15:11Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -512,7 +512,7 @@
     Availability: Available
     Price: $99.00 USD
 - [SolWhisper Mexican Coffee | Rich & Bold Aztec Coffee Blend](https://www.brewtheblend.com/products/solwhisper): Get SolWhisper offers premium flavored coffee beans with rich, bold coffee flavors. Perfect for anyone seeking a truly unique coffee experience.
-  Updated: 2026-07-08T21:09:18Z
+  Updated: 2026-08-07T05:07:55Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -540,7 +540,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Dulce Altura Signature](https://www.brewtheblend.com/products/dulce-altura): Dulce Altura Signature, Costa Rica’s coffee excellence. Dulce Altura Signature is a refreshing, flavorful brew for any time of day—specialty-grade, medium roast.
-  Updated: 2026-07-30T05:28:48Z
+  Updated: 2026-08-07T05:11:42Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -564,7 +564,7 @@
     Availability: Available
     Price: $22.50 USD
 - [Blueberry Serenade Reserve | A Fruity Berry Coffee Delight Shop now!](https://www.brewtheblend.com/products/blueberry-serenade): Enjoy the best flavors of Ethiopian nature in every cup with our blueberry coffee. Made from premium Ethiopian coffee beans for an unforgettable taste.
-  Updated: 2026-07-08T21:09:18Z
+  Updated: 2026-08-07T05:12:22Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -654,7 +654,7 @@
     Availability: Available
     Price: $21.00 USD
 - [Six‑Bean Standoff](https://www.brewtheblend.com/products/six-bean-standoff): Six‑Bean Standoff Blend is a global flavor face-off. Sourced from six coffee-growing regions across South America, Central America, Africa, and Asia.
-  Updated: 2026-07-30T01:37:30Z
+  Updated: 2026-08-07T05:37:08Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -722,6 +722,28 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/7125363012841985107_2048.jpg?v=1750063796
     Price: $22.99 USD
+- [Spook Me Up Coffee | Pumpkin Spice Halloween Brew](https://www.brewtheblend.com/products/spook-me-up): 🎃 Hauntingly delicious pumpkin spice coffee! Medium roast with cinnamon, nutmeg & clove. Perfect for spooky season mornings & cozy autumn nights.
+  Updated: 2026-08-08T11:07:50Z
+  Vendor: Brew the Blend
+  Product Type: COFFEE, CAFÉ
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SpookMeUptest-tcr_coffee_blank_final_latest.jpg?v=1758780727
+  - [Drip / 12 oz](https://www.brewtheblend.com/products/spook-me-up?variant=48158945706236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Spook_Me_Up_Drip_12oz_-_tcr_coffee_blank_final_latest_097b4616-914d-40e4-837a-890297acb74d.jpg?v=1759135854
+    Price: $22.00 USD
+  - [Drip / 2 LB](https://www.brewtheblend.com/products/spook-me-up?variant=48158945739004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Spook_Me_Up_Drip_2lb_-_tcr_coffee_blank_final_latest_a4fa2bc8-8457-415b-91d5-9e5e4f697dbf.jpg?v=1759135854
+    Price: $51.00 USD
+  - [Whole Bean / 12 oz](https://www.brewtheblend.com/products/spook-me-up?variant=48158945771772)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/SpookMeUptest-tcr_coffee_blank_final_latest.jpg?v=1758780727
+    Price: $22.00 USD
+  - [Whole Bean / 2 LB](https://www.brewtheblend.com/products/spook-me-up?variant=48158945804540)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Spook_Me_Up_WholeBean_2lb_-_tcr_coffee_blank_final_latest_a7b35d3d-5c37-4ca6-bf8b-5f5395e0f5d4.jpg?v=1759135854
+    Price: $51.00 USD
 - [YOU NEVER FAIL Butterfly Mug – Inspirational Coffee Cup Gift](https://www.brewtheblend.com/products/you-never-fail-inspirational-butterfly-mug): Stay inspired with this butterfly mug featuring a motivational quote. A durable 11oz coffee cup—perfect as a thoughtful gift or a daily reminder to keep going. Available in three colors.
   Updated: 2026-07-23T08:21:41Z
   Vendor: Brew the Blend
@@ -747,7 +769,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Mushrovia Coffee | Specialty-Grade Coffee with Mushrooms](https://www.brewtheblend.com/products/mushrovia-medium-roast): Mushrovia Coffee blends specialty-grade coffee with Lion’s Mane, Cordyceps, and Reishi mushrooms for a smooth, earthy cup.
-  Updated: 2026-07-08T21:09:23Z
+  Updated: 2026-08-07T05:09:40Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -763,16 +785,16 @@
   Updated: 2026-07-08T21:12:52Z
   Total Products: 3
 - [FLAVORED SPECIALTY-GRADE](https://www.brewtheblend.com/collections/flavored-coffee): Find the best flavored coffee right here! Our flavored coffee beans bring rich and exciting tastes to your daily brew. Perfect for coffee enthusiasts!"
-  Updated: 2026-07-08T21:12:48Z
+  Updated: 2026-08-07T08:14:39Z
   Total Products: 7
 - [LIGHT-MEDIUM ROAST](https://www.brewtheblend.com/collections/light-medium-roast): Shop the best light and medium roast coffee beans for a smooth and flavorful cup. Freshly roasted and perfect for any coffee lover. at Brew The Blend!
   Updated: 2026-07-08T21:12:53Z
   Total Products: 2
 - [MEDIUM ROAST](https://www.brewtheblend.com/collections/medium-roast): Explore our collection of medium roast or medium-dark roast whole bean coffee. Perfect for coffee lovers who enjoy rich, balanced flavors in every cup."
-  Updated: 2026-07-08T21:12:53Z
+  Updated: 2026-08-07T08:14:39Z
   Total Products: 10
 - [MEDIUM-DARK ROAST](https://www.brewtheblend.com/collections/medium-dark-roast): "Enjoy our Medium Dark Roast coffee, known for its robust, rich flavor profile. Ideal for coffee drinkers seeking a deep, satisfying brew with every cup."
-  Updated: 2026-07-08T21:12:55Z
+  Updated: 2026-08-10T11:20:55Z
   Total Products: 3
 - [SINGLE-ORIGIN SPECIALTY-GRADE](https://www.brewtheblend.com/collections/single-origin): Explore single origin coffee beans for rich, authentic flavors. Shop the best single origin coffee sourced from top regions around the world." at Brew The Blend
   Updated: 2026-07-30T15:57:00Z
@@ -787,7 +809,7 @@
   Updated: 2026-07-08T21:12:55Z
   Total Products: 2
 - [SPECIALTY-GRADE SINGLE SERVING](https://www.brewtheblend.com/collections/single-serving): Shop premium single-serving capsules for rich, flavorful brews. Pair them with the best K Cup coffee maker and enjoy your favorite coffee capsule at home or on the go."
-  Updated: 2026-07-08T21:12:55Z
+  Updated: 2026-08-10T11:20:55Z
   Total Products: 8
 - [SELECTED BY ROAST](https://www.brewtheblend.com/collections/selected-by-roast)
   Updated: 2026-07-08T21:09:08Z
@@ -808,13 +830,13 @@
   Updated: 2026-07-08T21:12:59Z
   Total Products: 6
 - [TRISAVOR SUBSCRIPTION](https://www.brewtheblend.com/collections/product-of-the-month)
-  Updated: 2026-07-14T11:29:52Z
+  Updated: 2026-08-07T04:57:51Z
   Total Products: 1
 - [ONLINE ONLY](https://www.brewtheblend.com/collections/online-only)
   Updated: 2026-07-08T21:12:54Z
   Total Products: 7
 - [COFFEE & TEA SPECIALS FOR THE SEASON](https://www.brewtheblend.com/collections/coffee-tea-specials-for-the-season)
-  Updated: 2026-07-23T07:41:25Z
+  Updated: 2026-08-07T08:14:39Z
   Total Products: 11
 - [BREW'S SWEET ESCAPE](https://www.brewtheblend.com/collections/brews-sweet-escape): BREW'S SWEET ESCAPE Avellanut - Combines the richness of coffee with the warm, sweet taste of hazelnuts. Caralisse - All-natural medium-roasted coffee with caramelized sugar, fantastic alone or as the base for blended drinks. CinnaCharm - No added sugar or calories; enjoy the great taste of your favorite iced cinnamon roll. Hazarella - A smooth, rich taste makes this medium-roasted coffee a delightfully mellow cup. MochaFlare - Rich chocolate flavor infused into a medium-roasted specialty-grade arabica bean. Vanilure - A smooth and rich flavor enhanced by natural vanilla extracts.
   Updated: 2026-07-08T21:12:50Z
