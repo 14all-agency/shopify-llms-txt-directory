@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-04-07T04:56:42Z
 - Contact Email: rpulsifer@-crafted.com
-- Updated At: 2026-07-31T00:00:40.713Z
+- Updated At: 2026-08-11T00:00:42.940Z
 
 ## Collections
 
@@ -86,6 +86,10 @@
     Updated: 2026-07-28T06:01:16Z
     Author: -Crafted Editorial Team
     Tags: ai, ai for wholesale distribution, ai implementation for distributors, business process automation, data management, distribution, distributor automation, efficiency, operational efficiency wholesale, strategic ai in logistics, supply chain, wholesale distribution ai, wholesale solutions
+  - [The Role of AI in Distributor Automation and Operational Success](https://-crafted.com/blogs/-crafted-journal/the-role-of-ai-in-distributor-automation-and-operational-success): The Role of AI in Distributor Automation and Operational Success
+    Updated: 2026-08-04T06:01:24Z
+    Author: -Crafted Editorial Team
+    Tags: ai, ai for wholesale distribution, ai implementation for distributors, ai in distribution, automation, business process automation, distributor automation, distributor technology, logistics, operational efficiency, operational efficiency wholesale, supply chain, wholesale distribution ai
 
 ## Policies
 
