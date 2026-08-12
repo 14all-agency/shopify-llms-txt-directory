@@ -8,7 +8,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2022-04-02T11:58:25Z
 - Contact Email: order@kingsday1967.com
-- Updated At: 2026-08-05T00:00:42.722Z
+- Updated At: 2026-08-12T00:00:44.702Z
 
 Kingsday 1967 is het premium Koningsdag kledingmerk van Nederland, opgericht in 2022. Wij ontwerpen exclusieve, eigen oranje streetwear voor Koningsdag (27 april) en voor het Nederlands elftal: T-shirts, hoodies, sweaters, longsleeves, bucket hats en accessoires. Geen standaard oranje feestkleding, maar unieke designs zoals Prins Pils, Prestige, Lion en Nassau.
 Goed om te weten:
@@ -20,98 +20,98 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
 
 ## Products
 
-- [Lion Shirt - Premium Shirt voor Koningsdag](https://kingsday1967.com/products/lion-crewneck): Scoor deze exclusieve Lion oranje shirt voor Koningsdag. Gemaakt van premium biologisch katoen, perfect voor festivals, de vrijmibo of gewoon een stijlvolle oranje look. Uniek design voor de echte koning. Verkrijgbaar in oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-16T01:30:19Z
+- [Lion Shirt - Premium Shirt voor Koningsdag](https://kingsday1967.com/products/lion-shirt): Scoor deze exclusieve Lion oranje shirt voor Koningsdag. Gemaakt van premium biologisch katoen, perfect voor festivals, de vrijmibo of gewoon een stijlvolle oranje look. Uniek design voor de echte koning. Verkrijgbaar in oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:25Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/58f5985e862be81d6ee1d55245e0eebd46aa72f6-_1.png?v=1696101892
-  - [Zwart / XS](https://kingsday1967.com/products/lion-crewneck?variant=40261136580689)
+  - [Zwart / XS](https://kingsday1967.com/products/lion-shirt?variant=40261136580689)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/58f5985e862be81d6ee1d55245e0eebd46aa72f6-_1.png?v=1696101892
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/lion-crewneck?variant=40261136613457)
+  - [Zwart / S](https://kingsday1967.com/products/lion-shirt?variant=40261136613457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/58f5985e862be81d6ee1d55245e0eebd46aa72f6-_1.png?v=1696101892
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/lion-crewneck?variant=40261136646225)
+  - [Zwart / M](https://kingsday1967.com/products/lion-shirt?variant=40261136646225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/58f5985e862be81d6ee1d55245e0eebd46aa72f6-_1.png?v=1696101892
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/lion-crewneck?variant=40261136678993)
+  - [Zwart / L](https://kingsday1967.com/products/lion-shirt?variant=40261136678993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/58f5985e862be81d6ee1d55245e0eebd46aa72f6-_1.png?v=1696101892
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/lion-crewneck?variant=40261136711761)
+  - [Zwart / XL](https://kingsday1967.com/products/lion-shirt?variant=40261136711761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/58f5985e862be81d6ee1d55245e0eebd46aa72f6-_1.png?v=1696101892
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/lion-crewneck?variant=40261136744529)
+  - [Zwart / 2XL](https://kingsday1967.com/products/lion-shirt?variant=40261136744529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/58f5985e862be81d6ee1d55245e0eebd46aa72f6-_1.png?v=1696101892
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/lion-crewneck?variant=40261136777297)
+  - [Zwart / 3XL](https://kingsday1967.com/products/lion-shirt?variant=40261136777297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/58f5985e862be81d6ee1d55245e0eebd46aa72f6-_1.png?v=1696101892
     Price: € 34,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/lion-crewneck?variant=40261136351313)
+  - [Wit / XS](https://kingsday1967.com/products/lion-shirt?variant=40261136351313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/900a389bfb2b62cbd8b1005cdc64872abea589d4.png?v=1773695928
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/lion-crewneck?variant=40261136384081)
+  - [Wit / S](https://kingsday1967.com/products/lion-shirt?variant=40261136384081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/900a389bfb2b62cbd8b1005cdc64872abea589d4.png?v=1773695928
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/lion-crewneck?variant=40261136416849)
+  - [Wit / M](https://kingsday1967.com/products/lion-shirt?variant=40261136416849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/900a389bfb2b62cbd8b1005cdc64872abea589d4.png?v=1773695928
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/lion-crewneck?variant=40261136449617)
+  - [Wit / L](https://kingsday1967.com/products/lion-shirt?variant=40261136449617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/900a389bfb2b62cbd8b1005cdc64872abea589d4.png?v=1773695928
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/lion-crewneck?variant=40261136482385)
+  - [Wit / XL](https://kingsday1967.com/products/lion-shirt?variant=40261136482385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/900a389bfb2b62cbd8b1005cdc64872abea589d4.png?v=1773695928
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/lion-crewneck?variant=40261136515153)
+  - [Wit / 2XL](https://kingsday1967.com/products/lion-shirt?variant=40261136515153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/900a389bfb2b62cbd8b1005cdc64872abea589d4.png?v=1773695928
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/lion-crewneck?variant=40261136547921)
+  - [Wit / 3XL](https://kingsday1967.com/products/lion-shirt?variant=40261136547921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/900a389bfb2b62cbd8b1005cdc64872abea589d4.png?v=1773695928
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/lion-crewneck?variant=39853232848977)
+  - [Oranje / XS](https://kingsday1967.com/products/lion-shirt?variant=39853232848977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/622d6df7e59d8eac73c54ae9a8407021143fa06c-_5.png?v=1773695928
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/lion-crewneck?variant=39853232881745)
+  - [Oranje / S](https://kingsday1967.com/products/lion-shirt?variant=39853232881745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/622d6df7e59d8eac73c54ae9a8407021143fa06c-_5.png?v=1773695928
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/lion-crewneck?variant=39853232914513)
+  - [Oranje / M](https://kingsday1967.com/products/lion-shirt?variant=39853232914513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/622d6df7e59d8eac73c54ae9a8407021143fa06c-_5.png?v=1773695928
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/lion-crewneck?variant=39853232947281)
+  - [Oranje / L](https://kingsday1967.com/products/lion-shirt?variant=39853232947281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/622d6df7e59d8eac73c54ae9a8407021143fa06c-_5.png?v=1773695928
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/lion-crewneck?variant=39853232980049)
+  - [Oranje / XL](https://kingsday1967.com/products/lion-shirt?variant=39853232980049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/622d6df7e59d8eac73c54ae9a8407021143fa06c-_5.png?v=1773695928
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/lion-crewneck?variant=39853233012817)
+  - [Oranje / 2XL](https://kingsday1967.com/products/lion-shirt?variant=39853233012817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/622d6df7e59d8eac73c54ae9a8407021143fa06c-_5.png?v=1773695928
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/lion-crewneck?variant=39853233045585)
+  - [Oranje / 3XL](https://kingsday1967.com/products/lion-shirt?variant=39853233045585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/622d6df7e59d8eac73c54ae9a8407021143fa06c-_5.png?v=1773695928
     Price: € 34,95 EUR
 - [Lion Hoodie - Hoodie voor Koningsdag in Premium Kwaliteit](https://kingsday1967.com/products/lion-hoodie): Vier Koningsdag in stijl met onze Lion oranje hoodie. Premium kwaliteit, zachte stof en een opvallend design. Ideaal voor feestjes, koude ochtenden of om op te vallen tijdens Koningsnacht. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-18T12:02:34Z
+  Updated: 2026-08-07T16:55:26Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -200,98 +200,98 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/ef87ca633ca21cbee90a50433a76cb686d565ea9-_5.png?v=1686840934
     Price: € 48,95 EUR
-- [Kings' Shirt - Shirt voor Koningsdag](https://kingsday1967.com/products/kings-crewneck): Draag het Kings' Crewneck oranje shirt als een baas. Premium kwaliteit en uniek design voor Koningsdag. Perfect voor festivals, straatfeesten of chillen in stijl met vrienden. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-17T09:00:56Z
+- [Kings' Shirt - Shirt voor Koningsdag](https://kingsday1967.com/products/kings-shirt): Draag het Kings' Crewneck oranje shirt als een baas. Premium kwaliteit en uniek design voor Koningsdag. Perfect voor festivals, straatfeesten of chillen in stijl met vrienden. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:27Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8e969329af90452cf77f53fff7b02c7e63e5099e-_1.png?v=1686840863
-  - [Zwart / XS](https://kingsday1967.com/products/kings-crewneck?variant=40260061397073)
+  - [Zwart / XS](https://kingsday1967.com/products/kings-shirt?variant=40260061397073)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8e969329af90452cf77f53fff7b02c7e63e5099e-_1.png?v=1686840863
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/kings-crewneck?variant=40260061429841)
+  - [Zwart / S](https://kingsday1967.com/products/kings-shirt?variant=40260061429841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8e969329af90452cf77f53fff7b02c7e63e5099e-_1.png?v=1686840863
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/kings-crewneck?variant=40260061462609)
+  - [Zwart / M](https://kingsday1967.com/products/kings-shirt?variant=40260061462609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8e969329af90452cf77f53fff7b02c7e63e5099e-_1.png?v=1686840863
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/kings-crewneck?variant=40260061495377)
+  - [Zwart / L](https://kingsday1967.com/products/kings-shirt?variant=40260061495377)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8e969329af90452cf77f53fff7b02c7e63e5099e-_1.png?v=1686840863
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/kings-crewneck?variant=40260061528145)
+  - [Zwart / XL](https://kingsday1967.com/products/kings-shirt?variant=40260061528145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8e969329af90452cf77f53fff7b02c7e63e5099e-_1.png?v=1686840863
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/kings-crewneck?variant=40260061560913)
+  - [Zwart / 2XL](https://kingsday1967.com/products/kings-shirt?variant=40260061560913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8e969329af90452cf77f53fff7b02c7e63e5099e-_1.png?v=1686840863
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/kings-crewneck?variant=40260061593681)
+  - [Zwart / 3XL](https://kingsday1967.com/products/kings-shirt?variant=40260061593681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8e969329af90452cf77f53fff7b02c7e63e5099e-_1.png?v=1686840863
     Price: € 34,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/kings-crewneck?variant=40260061167697)
+  - [Wit / XS](https://kingsday1967.com/products/kings-shirt?variant=40260061167697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/3ccf14ca33824ab90c4f7b4ebc09b4f7ec1a1f42-_3.png?v=1686840870
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/kings-crewneck?variant=40260061200465)
+  - [Wit / S](https://kingsday1967.com/products/kings-shirt?variant=40260061200465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/3ccf14ca33824ab90c4f7b4ebc09b4f7ec1a1f42-_3.png?v=1686840870
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/kings-crewneck?variant=40260061233233)
+  - [Wit / M](https://kingsday1967.com/products/kings-shirt?variant=40260061233233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/3ccf14ca33824ab90c4f7b4ebc09b4f7ec1a1f42-_3.png?v=1686840870
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/kings-crewneck?variant=40260061266001)
+  - [Wit / L](https://kingsday1967.com/products/kings-shirt?variant=40260061266001)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/3ccf14ca33824ab90c4f7b4ebc09b4f7ec1a1f42-_3.png?v=1686840870
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/kings-crewneck?variant=40260061298769)
+  - [Wit / XL](https://kingsday1967.com/products/kings-shirt?variant=40260061298769)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/3ccf14ca33824ab90c4f7b4ebc09b4f7ec1a1f42-_3.png?v=1686840870
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/kings-crewneck?variant=40260061331537)
+  - [Wit / 2XL](https://kingsday1967.com/products/kings-shirt?variant=40260061331537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/3ccf14ca33824ab90c4f7b4ebc09b4f7ec1a1f42-_3.png?v=1686840870
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/kings-crewneck?variant=40260061364305)
+  - [Wit / 3XL](https://kingsday1967.com/products/kings-shirt?variant=40260061364305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/3ccf14ca33824ab90c4f7b4ebc09b4f7ec1a1f42-_3.png?v=1686840870
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/kings-crewneck?variant=39872861110353)
+  - [Oranje / XS](https://kingsday1967.com/products/kings-shirt?variant=39872861110353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1e601d2713dc60162be141dc931be83f6ba2adc4-_5.png?v=1686840878
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/kings-crewneck?variant=39872861143121)
+  - [Oranje / S](https://kingsday1967.com/products/kings-shirt?variant=39872861143121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1e601d2713dc60162be141dc931be83f6ba2adc4-_5.png?v=1686840878
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/kings-crewneck?variant=39872861175889)
+  - [Oranje / M](https://kingsday1967.com/products/kings-shirt?variant=39872861175889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1e601d2713dc60162be141dc931be83f6ba2adc4-_5.png?v=1686840878
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/kings-crewneck?variant=39872861208657)
+  - [Oranje / L](https://kingsday1967.com/products/kings-shirt?variant=39872861208657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1e601d2713dc60162be141dc931be83f6ba2adc4-_5.png?v=1686840878
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/kings-crewneck?variant=39872861241425)
+  - [Oranje / XL](https://kingsday1967.com/products/kings-shirt?variant=39872861241425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1e601d2713dc60162be141dc931be83f6ba2adc4-_5.png?v=1686840878
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/kings-crewneck?variant=39872861274193)
+  - [Oranje / 2XL](https://kingsday1967.com/products/kings-shirt?variant=39872861274193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1e601d2713dc60162be141dc931be83f6ba2adc4-_5.png?v=1686840878
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/kings-crewneck?variant=39872861306961)
+  - [Oranje / 3XL](https://kingsday1967.com/products/kings-shirt?variant=39872861306961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1e601d2713dc60162be141dc931be83f6ba2adc4-_5.png?v=1686840878
     Price: € 34,95 EUR
 - [Prince Pils Hoodie](https://kingsday1967.com/products/prince-pils-hoodie): De meest unieke Koningsdag outfit. Karakterstiek door het design met Prince Pils. Voor degenen die niet meer standaard oranje hoodies met Koningsdag willen dragen, maar iets echt unieks zoeken.
-  Updated: 2026-07-15T06:40:04Z
+  Updated: 2026-08-07T16:55:28Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -380,188 +380,188 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/ddefaa686c4aea026c16b87aa2d3abd5cf57397b.png?v=1741074968
     Price: € 39,95 EUR
-- [Van Gogh Shirt - Artistiek Shirt voor Koningsdag](https://kingsday1967.com/products/van-gogh-edition-crewneck): Een oranje shirt met een kunstzinnig randje. Eerbetoon aan Van Gogh, gemaakt van premium materiaal. Voor wie kunst en Koningsdag stijlvol wil combineren. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-18T11:16:33Z
+- [Van Gogh Shirt - Artistiek Shirt voor Koningsdag](https://kingsday1967.com/products/van-gogh-edition-shirt): Een oranje shirt met een kunstzinnig randje. Eerbetoon aan Van Gogh, gemaakt van premium materiaal. Voor wie kunst en Koningsdag stijlvol wil combineren. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:28Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8bacc055e9e91c5841908cacc1c183affdc63a2e-_1.png?v=1686841051
-  - [Zwart / XS](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432194641)
+  - [Zwart / XS](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432194641)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8b0009f0b66e584ca6de54594389979056b14ce4-_5.png?v=1686841065
     Price: € 29,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432227409)
+  - [Zwart / S](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432227409)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8b0009f0b66e584ca6de54594389979056b14ce4-_5.png?v=1686841065
     Price: € 29,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432260177)
+  - [Zwart / M](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432260177)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8b0009f0b66e584ca6de54594389979056b14ce4-_5.png?v=1686841065
     Price: € 29,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432292945)
+  - [Zwart / L](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432292945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8b0009f0b66e584ca6de54594389979056b14ce4-_5.png?v=1686841065
     Price: € 29,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432325713)
+  - [Zwart / XL](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432325713)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8b0009f0b66e584ca6de54594389979056b14ce4-_5.png?v=1686841065
     Price: € 29,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432358481)
+  - [Zwart / 2XL](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432358481)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8b0009f0b66e584ca6de54594389979056b14ce4-_5.png?v=1686841065
     Price: € 29,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432391249)
+  - [Zwart / 3XL](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432391249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8b0009f0b66e584ca6de54594389979056b14ce4-_5.png?v=1686841065
     Price: € 29,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432424017)
+  - [Wit / XS](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432424017)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/0aa901ed9b49377dd4a7236e784a69567cbb8c87-_3.png?v=1686841058
     Price: € 29,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432456785)
+  - [Wit / S](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432456785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/0aa901ed9b49377dd4a7236e784a69567cbb8c87-_3.png?v=1686841058
     Price: € 29,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432489553)
+  - [Wit / M](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432489553)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/0aa901ed9b49377dd4a7236e784a69567cbb8c87-_3.png?v=1686841058
     Price: € 29,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432522321)
+  - [Wit / L](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432522321)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/0aa901ed9b49377dd4a7236e784a69567cbb8c87-_3.png?v=1686841058
     Price: € 29,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432555089)
+  - [Wit / XL](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432555089)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/0aa901ed9b49377dd4a7236e784a69567cbb8c87-_3.png?v=1686841058
     Price: € 29,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432587857)
+  - [Wit / 2XL](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432587857)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/0aa901ed9b49377dd4a7236e784a69567cbb8c87-_3.png?v=1686841058
     Price: € 29,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432620625)
+  - [Wit / 3XL](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432620625)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/0aa901ed9b49377dd4a7236e784a69567cbb8c87-_3.png?v=1686841058
     Price: € 29,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432653393)
+  - [Oranje / XS](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432653393)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8bacc055e9e91c5841908cacc1c183affdc63a2e-_1.png?v=1686841051
     Price: € 29,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432686161)
+  - [Oranje / S](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432686161)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8bacc055e9e91c5841908cacc1c183affdc63a2e-_1.png?v=1686841051
     Price: € 29,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432718929)
+  - [Oranje / M](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432718929)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8bacc055e9e91c5841908cacc1c183affdc63a2e-_1.png?v=1686841051
     Price: € 29,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432751697)
+  - [Oranje / L](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432751697)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8bacc055e9e91c5841908cacc1c183affdc63a2e-_1.png?v=1686841051
     Price: € 29,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432784465)
+  - [Oranje / XL](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432784465)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8bacc055e9e91c5841908cacc1c183affdc63a2e-_1.png?v=1686841051
     Price: € 29,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432817233)
+  - [Oranje / 2XL](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432817233)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8bacc055e9e91c5841908cacc1c183affdc63a2e-_1.png?v=1686841051
     Price: € 29,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/van-gogh-edition-crewneck?variant=40326432850001)
+  - [Oranje / 3XL](https://kingsday1967.com/products/van-gogh-edition-shirt?variant=40326432850001)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/8bacc055e9e91c5841908cacc1c183affdc63a2e-_1.png?v=1686841051
     Price: € 29,95 EUR
-- [Nassau Shirt - Premium Shirt voor Koningsdag](https://kingsday1967.com/products/nassau-crewneck): Het Nassau oranje shirt is jouw moderne klassieker voor Koningsdag. Gemaakt van 100% biologisch katoen met een comfortabele fit en koninklijk design. Premium Koningsdag shirt in oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-18T05:36:42Z
+- [Nassau Shirt - Premium Shirt voor Koningsdag](https://kingsday1967.com/products/nassau-shirt): Het Nassau oranje shirt is jouw moderne klassieker voor Koningsdag. Gemaakt van 100% biologisch katoen met een comfortabele fit en koninklijk design. Premium Koningsdag shirt in oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:29Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88c4678a8bf63b19c9abdbcb96545cbc27fc690e-_1.png?v=1686840941
-  - [Zwart / XS](https://kingsday1967.com/products/nassau-crewneck?variant=40329093382225)
+  - [Zwart / XS](https://kingsday1967.com/products/nassau-shirt?variant=40329093382225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fb6b5b543f3e69df276d1337d6446b330a97b53d-_3.png?v=1686840949
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/nassau-crewneck?variant=40329093414993)
+  - [Zwart / S](https://kingsday1967.com/products/nassau-shirt?variant=40329093414993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fb6b5b543f3e69df276d1337d6446b330a97b53d-_3.png?v=1686840949
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/nassau-crewneck?variant=40329093447761)
+  - [Zwart / M](https://kingsday1967.com/products/nassau-shirt?variant=40329093447761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fb6b5b543f3e69df276d1337d6446b330a97b53d-_3.png?v=1686840949
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/nassau-crewneck?variant=40329093480529)
+  - [Zwart / L](https://kingsday1967.com/products/nassau-shirt?variant=40329093480529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fb6b5b543f3e69df276d1337d6446b330a97b53d-_3.png?v=1686840949
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/nassau-crewneck?variant=40329093513297)
+  - [Zwart / XL](https://kingsday1967.com/products/nassau-shirt?variant=40329093513297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fb6b5b543f3e69df276d1337d6446b330a97b53d-_3.png?v=1686840949
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/nassau-crewneck?variant=40329093546065)
+  - [Zwart / 2XL](https://kingsday1967.com/products/nassau-shirt?variant=40329093546065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fb6b5b543f3e69df276d1337d6446b330a97b53d-_3.png?v=1686840949
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/nassau-crewneck?variant=40329093578833)
+  - [Zwart / 3XL](https://kingsday1967.com/products/nassau-shirt?variant=40329093578833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fb6b5b543f3e69df276d1337d6446b330a97b53d-_3.png?v=1686840949
     Price: € 34,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/nassau-crewneck?variant=40329093611601)
+  - [Wit / XS](https://kingsday1967.com/products/nassau-shirt?variant=40329093611601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/47098ce4593b74796cb9b5ab8f0e952341531dac-_5.png?v=1686840956
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/nassau-crewneck?variant=40329093644369)
+  - [Wit / S](https://kingsday1967.com/products/nassau-shirt?variant=40329093644369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/47098ce4593b74796cb9b5ab8f0e952341531dac-_5.png?v=1686840956
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/nassau-crewneck?variant=40329093677137)
+  - [Wit / M](https://kingsday1967.com/products/nassau-shirt?variant=40329093677137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/47098ce4593b74796cb9b5ab8f0e952341531dac-_5.png?v=1686840956
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/nassau-crewneck?variant=40329093709905)
+  - [Wit / L](https://kingsday1967.com/products/nassau-shirt?variant=40329093709905)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/47098ce4593b74796cb9b5ab8f0e952341531dac-_5.png?v=1686840956
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/nassau-crewneck?variant=40329093742673)
+  - [Wit / XL](https://kingsday1967.com/products/nassau-shirt?variant=40329093742673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/47098ce4593b74796cb9b5ab8f0e952341531dac-_5.png?v=1686840956
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/nassau-crewneck?variant=40329093775441)
+  - [Wit / 2XL](https://kingsday1967.com/products/nassau-shirt?variant=40329093775441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/47098ce4593b74796cb9b5ab8f0e952341531dac-_5.png?v=1686840956
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/nassau-crewneck?variant=40329093808209)
+  - [Wit / 3XL](https://kingsday1967.com/products/nassau-shirt?variant=40329093808209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/47098ce4593b74796cb9b5ab8f0e952341531dac-_5.png?v=1686840956
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/nassau-crewneck?variant=40329093840977)
+  - [Oranje / XS](https://kingsday1967.com/products/nassau-shirt?variant=40329093840977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88c4678a8bf63b19c9abdbcb96545cbc27fc690e-_1.png?v=1686840941
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/nassau-crewneck?variant=40329093873745)
+  - [Oranje / S](https://kingsday1967.com/products/nassau-shirt?variant=40329093873745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88c4678a8bf63b19c9abdbcb96545cbc27fc690e-_1.png?v=1686840941
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/nassau-crewneck?variant=40329093906513)
+  - [Oranje / M](https://kingsday1967.com/products/nassau-shirt?variant=40329093906513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88c4678a8bf63b19c9abdbcb96545cbc27fc690e-_1.png?v=1686840941
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/nassau-crewneck?variant=40329093939281)
+  - [Oranje / L](https://kingsday1967.com/products/nassau-shirt?variant=40329093939281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88c4678a8bf63b19c9abdbcb96545cbc27fc690e-_1.png?v=1686840941
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/nassau-crewneck?variant=40329093972049)
+  - [Oranje / XL](https://kingsday1967.com/products/nassau-shirt?variant=40329093972049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88c4678a8bf63b19c9abdbcb96545cbc27fc690e-_1.png?v=1686840941
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/nassau-crewneck?variant=40329094004817)
+  - [Oranje / 2XL](https://kingsday1967.com/products/nassau-shirt?variant=40329094004817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88c4678a8bf63b19c9abdbcb96545cbc27fc690e-_1.png?v=1686840941
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/nassau-crewneck?variant=40329094037585)
+  - [Oranje / 3XL](https://kingsday1967.com/products/nassau-shirt?variant=40329094037585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88c4678a8bf63b19c9abdbcb96545cbc27fc690e-_1.png?v=1686840941
     Price: € 34,95 EUR
 - [Nassau Hoodie - Warme Hoodie voor Koningsdag](https://kingsday1967.com/products/nassau-hoodie): De Nassau oranje hoodie is jouw go-to voor Koningsdag. Zacht van binnen, stijlvol van buiten. Perfect voor buitenfeestjes of chillen in stijl. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-17T18:27:55Z
+  Updated: 2026-08-07T16:55:29Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -650,188 +650,188 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/18c3b08d1638693cd36825a0fabf18760a19fc84-_1.png?v=1686840965
     Price: € 48,95 EUR
-- [Prince Pils College Shirt - Oranje Shirt met Humor](https://kingsday1967.com/products/prince-pils-college-edition-crewneck): Een oranje shirt in college stijl met een knipoog. Het Prince Pils shirt mixt premium kwaliteit met humor. Perfect voor de feestganger met stijl. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-18T09:20:01Z
+- [Prince Pils College Shirt - Oranje Shirt met Humor](https://kingsday1967.com/products/prins-pils-college-edition-shirt): Een oranje shirt in college stijl met een knipoog. Het Prince Pils shirt mixt premium kwaliteit met humor. Perfect voor de feestganger met stijl. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:25Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d05e2ce47706e55ae5a8ff661590a4dafbd364b-_1.png?v=1712913850
-  - [Oranje / XS](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041101905)
+  - [Oranje / XS](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041101905)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d05e2ce47706e55ae5a8ff661590a4dafbd364b-_1.png?v=1712913850
     Price: € 29,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041134673)
+  - [Oranje / S](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041134673)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d05e2ce47706e55ae5a8ff661590a4dafbd364b-_1.png?v=1712913850
     Price: € 29,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041167441)
+  - [Oranje / M](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041167441)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d05e2ce47706e55ae5a8ff661590a4dafbd364b-_1.png?v=1712913850
     Price: € 29,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041200209)
+  - [Oranje / L](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041200209)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d05e2ce47706e55ae5a8ff661590a4dafbd364b-_1.png?v=1712913850
     Price: € 29,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041232977)
+  - [Oranje / XL](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041232977)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d05e2ce47706e55ae5a8ff661590a4dafbd364b-_1.png?v=1712913850
     Price: € 29,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041265745)
+  - [Oranje / 2XL](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041265745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d05e2ce47706e55ae5a8ff661590a4dafbd364b-_1.png?v=1712913850
     Price: € 29,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041298513)
+  - [Oranje / 3XL](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041298513)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d05e2ce47706e55ae5a8ff661590a4dafbd364b-_1.png?v=1712913850
     Price: € 29,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=48187106230613)
+  - [Wit / XS](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=48187106230613)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2b0f5fc51c8aee8ba7ad2a20a1e6125c0bafe20.png?v=1712913850
     Price: € 29,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=48187106263381)
+  - [Wit / S](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=48187106263381)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2b0f5fc51c8aee8ba7ad2a20a1e6125c0bafe20.png?v=1712913850
     Price: € 29,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=48187106296149)
+  - [Wit / M](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=48187106296149)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2b0f5fc51c8aee8ba7ad2a20a1e6125c0bafe20.png?v=1712913850
     Price: € 29,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=48187106328917)
+  - [Wit / L](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=48187106328917)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2b0f5fc51c8aee8ba7ad2a20a1e6125c0bafe20.png?v=1712913850
     Price: € 29,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=48187106361685)
+  - [Wit / XL](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=48187106361685)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2b0f5fc51c8aee8ba7ad2a20a1e6125c0bafe20.png?v=1712913850
     Price: € 29,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=48187106394453)
+  - [Wit / 2XL](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=48187106394453)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2b0f5fc51c8aee8ba7ad2a20a1e6125c0bafe20.png?v=1712913850
     Price: € 29,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=48187106427221)
+  - [Wit / 3XL](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=48187106427221)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2b0f5fc51c8aee8ba7ad2a20a1e6125c0bafe20.png?v=1712913850
     Price: € 29,95 EUR
-  - [Zwart / XS](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335040872529)
+  - [Zwart / XS](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335040872529)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a8a954e177106be5cdaafd8f340be1186cae2393-_3.png?v=1686840994
     Price: € 29,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335040905297)
+  - [Zwart / S](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335040905297)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a8a954e177106be5cdaafd8f340be1186cae2393-_3.png?v=1686840994
     Price: € 29,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335040938065)
+  - [Zwart / M](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335040938065)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a8a954e177106be5cdaafd8f340be1186cae2393-_3.png?v=1686840994
     Price: € 29,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335040970833)
+  - [Zwart / L](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335040970833)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a8a954e177106be5cdaafd8f340be1186cae2393-_3.png?v=1686840994
     Price: € 29,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041003601)
+  - [Zwart / XL](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041003601)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a8a954e177106be5cdaafd8f340be1186cae2393-_3.png?v=1686840994
     Price: € 29,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041036369)
+  - [Zwart / 2XL](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041036369)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a8a954e177106be5cdaafd8f340be1186cae2393-_3.png?v=1686840994
     Price: € 29,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/prince-pils-college-edition-crewneck?variant=40335041069137)
+  - [Zwart / 3XL](https://kingsday1967.com/products/prins-pils-college-edition-shirt?variant=40335041069137)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a8a954e177106be5cdaafd8f340be1186cae2393-_3.png?v=1686840994
     Price: € 29,95 EUR
-- [Willem the II Shirt - Koninklijk Shirt voor Koningsdag](https://kingsday1967.com/products/willem-ii-crewneck): Geschiedenis gemixt met oranje. Dit Willem the I shirt is stijlvol, uniek en perfect voor Koningsdag. Premium kwaliteit voor de moderne royalist. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-18T13:45:38Z
+- [Willem the II Shirt - Koninklijk Shirt voor Koningsdag](https://kingsday1967.com/products/willem-ii-shirt): Geschiedenis gemixt met oranje. Dit Willem the I shirt is stijlvol, uniek en perfect voor Koningsdag. Premium kwaliteit voor de moderne royalist. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:26Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/795f8ddc98ad839f69e7122989cc62ed64ee0db0.png?v=1711902923
-  - [Zwart / XS](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524535125)
+  - [Zwart / XS](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524535125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/96794f7132b9e11687519e55d52ca5b9f417a6c7.png?v=1773696268
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524567893)
+  - [Zwart / S](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524567893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/96794f7132b9e11687519e55d52ca5b9f417a6c7.png?v=1773696268
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524600661)
+  - [Zwart / M](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524600661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/96794f7132b9e11687519e55d52ca5b9f417a6c7.png?v=1773696268
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524633429)
+  - [Zwart / L](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524633429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/96794f7132b9e11687519e55d52ca5b9f417a6c7.png?v=1773696268
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524666197)
+  - [Zwart / XL](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524666197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/96794f7132b9e11687519e55d52ca5b9f417a6c7.png?v=1773696268
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524698965)
+  - [Zwart / 2XL](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524698965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/96794f7132b9e11687519e55d52ca5b9f417a6c7.png?v=1773696268
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524731733)
+  - [Zwart / 3XL](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524731733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/96794f7132b9e11687519e55d52ca5b9f417a6c7.png?v=1773696268
     Price: € 34,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524305749)
+  - [Wit / XS](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524305749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/028850f09c989de9c68404421a21eefc0798a27c.png?v=1773696268
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524338517)
+  - [Wit / S](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524338517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/028850f09c989de9c68404421a21eefc0798a27c.png?v=1773696268
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524371285)
+  - [Wit / M](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524371285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/028850f09c989de9c68404421a21eefc0798a27c.png?v=1773696268
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524404053)
+  - [Wit / L](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524404053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/028850f09c989de9c68404421a21eefc0798a27c.png?v=1773696268
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524436821)
+  - [Wit / XL](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524436821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/028850f09c989de9c68404421a21eefc0798a27c.png?v=1773696268
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524469589)
+  - [Wit / 2XL](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524469589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/028850f09c989de9c68404421a21eefc0798a27c.png?v=1773696268
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878524502357)
+  - [Wit / 3XL](https://kingsday1967.com/products/willem-ii-shirt?variant=47878524502357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/028850f09c989de9c68404421a21eefc0798a27c.png?v=1773696268
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878433997141)
+  - [Oranje / XS](https://kingsday1967.com/products/willem-ii-shirt?variant=47878433997141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/795f8ddc98ad839f69e7122989cc62ed64ee0db0.png?v=1711902923
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878434029909)
+  - [Oranje / S](https://kingsday1967.com/products/willem-ii-shirt?variant=47878434029909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/795f8ddc98ad839f69e7122989cc62ed64ee0db0.png?v=1711902923
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878434062677)
+  - [Oranje / M](https://kingsday1967.com/products/willem-ii-shirt?variant=47878434062677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/795f8ddc98ad839f69e7122989cc62ed64ee0db0.png?v=1711902923
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878434095445)
+  - [Oranje / L](https://kingsday1967.com/products/willem-ii-shirt?variant=47878434095445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/795f8ddc98ad839f69e7122989cc62ed64ee0db0.png?v=1711902923
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878434128213)
+  - [Oranje / XL](https://kingsday1967.com/products/willem-ii-shirt?variant=47878434128213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/795f8ddc98ad839f69e7122989cc62ed64ee0db0.png?v=1711902923
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878434160981)
+  - [Oranje / 2XL](https://kingsday1967.com/products/willem-ii-shirt?variant=47878434160981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/795f8ddc98ad839f69e7122989cc62ed64ee0db0.png?v=1711902923
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/willem-ii-crewneck?variant=47878434193749)
+  - [Oranje / 3XL](https://kingsday1967.com/products/willem-ii-shirt?variant=47878434193749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/795f8ddc98ad839f69e7122989cc62ed64ee0db0.png?v=1711902923
     Price: € 34,95 EUR
 - [Willem the II Hoodie - Koninklijke Hoodie voor Koningsdag](https://kingsday1967.com/products/willem-the-ii-hoodie): Koninklijke flair in hoodieformaat. De Willem the II oranje hoodie combineert comfort en stijl voor een onvergetelijke Koningsdag. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-18T01:06:43Z
+  Updated: 2026-08-07T16:55:26Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -920,98 +920,98 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1d2714414cbd6b68380789e41a2c0701b2902bdf.png?v=1711902955
     Price: € 39,95 EUR
-- [Orange Hearts Shirt - Stijlvol Shirt voor Koningsdag](https://kingsday1967.com/products/orange-hearts): Laat je hart spreken met dit stijlvolle oranje shirt. De Orange Hearts Crewneck is gemaakt van zachte premium stof. Perfect voor een feestelijke look. Premium shirt in zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-17T12:25:20Z
+- [Orange Hearts Shirt - Stijlvol Shirt voor Koningsdag](https://kingsday1967.com/products/orange-hearts-shirt): Laat je hart spreken met dit stijlvolle oranje shirt. De Orange Hearts Crewneck is gemaakt van zachte premium stof. Perfect voor een feestelijke look. Premium shirt in zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:27Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c106a4a855b3a208fd8524cbcbea3477d441996f.png?v=1740416195
-  - [Zwart / XS](https://kingsday1967.com/products/orange-hearts?variant=48052514160981)
+  - [Zwart / XS](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514160981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4e40ebe63452c213759d44b8d4f47b42b9110e3e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/orange-hearts?variant=48052514193749)
+  - [Zwart / S](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514193749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4e40ebe63452c213759d44b8d4f47b42b9110e3e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/orange-hearts?variant=48052514226517)
+  - [Zwart / M](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514226517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4e40ebe63452c213759d44b8d4f47b42b9110e3e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/orange-hearts?variant=48052514259285)
+  - [Zwart / L](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514259285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4e40ebe63452c213759d44b8d4f47b42b9110e3e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/orange-hearts?variant=48052514292053)
+  - [Zwart / XL](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514292053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4e40ebe63452c213759d44b8d4f47b42b9110e3e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/orange-hearts?variant=48052514324821)
+  - [Zwart / 2XL](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514324821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4e40ebe63452c213759d44b8d4f47b42b9110e3e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/orange-hearts?variant=48052514357589)
+  - [Zwart / 3XL](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514357589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4e40ebe63452c213759d44b8d4f47b42b9110e3e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/orange-hearts?variant=48052514619733)
+  - [Wit / XS](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514619733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c106a4a855b3a208fd8524cbcbea3477d441996f.png?v=1740416195
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/orange-hearts?variant=48052514652501)
+  - [Wit / S](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514652501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c106a4a855b3a208fd8524cbcbea3477d441996f.png?v=1740416195
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/orange-hearts?variant=48052514685269)
+  - [Wit / M](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514685269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c106a4a855b3a208fd8524cbcbea3477d441996f.png?v=1740416195
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/orange-hearts?variant=48052514718037)
+  - [Wit / L](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514718037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c106a4a855b3a208fd8524cbcbea3477d441996f.png?v=1740416195
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/orange-hearts?variant=48052514750805)
+  - [Wit / XL](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514750805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c106a4a855b3a208fd8524cbcbea3477d441996f.png?v=1740416195
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/orange-hearts?variant=48052514783573)
+  - [Wit / 2XL](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514783573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c106a4a855b3a208fd8524cbcbea3477d441996f.png?v=1740416195
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/orange-hearts?variant=48052514816341)
+  - [Wit / 3XL](https://kingsday1967.com/products/orange-hearts-shirt?variant=48052514816341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c106a4a855b3a208fd8524cbcbea3477d441996f.png?v=1740416195
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/orange-hearts?variant=48036151918933)
+  - [Oranje / XS](https://kingsday1967.com/products/orange-hearts-shirt?variant=48036151918933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9cbc5884751ecf11eed57a28227c58127e4a839e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/orange-hearts?variant=48036151951701)
+  - [Oranje / S](https://kingsday1967.com/products/orange-hearts-shirt?variant=48036151951701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9cbc5884751ecf11eed57a28227c58127e4a839e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/orange-hearts?variant=48036151984469)
+  - [Oranje / M](https://kingsday1967.com/products/orange-hearts-shirt?variant=48036151984469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9cbc5884751ecf11eed57a28227c58127e4a839e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/orange-hearts?variant=48036152017237)
+  - [Oranje / L](https://kingsday1967.com/products/orange-hearts-shirt?variant=48036152017237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9cbc5884751ecf11eed57a28227c58127e4a839e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/orange-hearts?variant=48036152050005)
+  - [Oranje / XL](https://kingsday1967.com/products/orange-hearts-shirt?variant=48036152050005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9cbc5884751ecf11eed57a28227c58127e4a839e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/orange-hearts?variant=48036152082773)
+  - [Oranje / 2XL](https://kingsday1967.com/products/orange-hearts-shirt?variant=48036152082773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9cbc5884751ecf11eed57a28227c58127e4a839e.png?v=1740416195
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/orange-hearts?variant=48036152115541)
+  - [Oranje / 3XL](https://kingsday1967.com/products/orange-hearts-shirt?variant=48036152115541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9cbc5884751ecf11eed57a28227c58127e4a839e.png?v=1740416195
     Price: € 34,95 EUR
 - [Orange Hearts Hoodie - Koningsdag Hoodie | Kingsday 1967](https://kingsday1967.com/products/orange-hearts-hoodie): Deze Orange Hearts oranje hoodie is jouw stijlvolle keuze voor Koningsdag. Zacht, warm en perfect voor het voorjaar. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-14T22:41:59Z
+  Updated: 2026-08-07T16:55:27Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1100,278 +1100,278 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/181f26036b112229250ea93f9ab43bc7e55bf5fc.png?v=1711193298
     Price: € 48,95 EUR
-- [Signature T-Shirt - Clean Koningsdag Look | Kingsday 1967](https://kingsday1967.com/products/signature-crewneck): Less is more. Het Signature oranje shirt is clean, comfortabel en premium. Voor wie stijlvol wil zijn zonder schreeuwerige prints. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-17T18:05:25Z
+- [Signature T-Shirt - Clean Koningsdag Look | Kingsday 1967](https://kingsday1967.com/products/signature-shirt): Less is more. Het Signature oranje shirt is clean, comfortabel en premium. Voor wie stijlvol wil zijn zonder schreeuwerige prints. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:27Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/6d8105a3113dab3b8ffe03334f40a9e8016ede51.png?v=1713016228
-  - [Zwart / XS](https://kingsday1967.com/products/signature-crewneck?variant=48148785267029)
+  - [Zwart / XS](https://kingsday1967.com/products/signature-shirt?variant=48148785267029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1a08cb6835a7fa879db8a68ade1f27e343888707.png?v=1713016228
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/signature-crewneck?variant=48148785299797)
+  - [Zwart / S](https://kingsday1967.com/products/signature-shirt?variant=48148785299797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1a08cb6835a7fa879db8a68ade1f27e343888707.png?v=1713016228
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/signature-crewneck?variant=48148785332565)
+  - [Zwart / M](https://kingsday1967.com/products/signature-shirt?variant=48148785332565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1a08cb6835a7fa879db8a68ade1f27e343888707.png?v=1713016228
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/signature-crewneck?variant=48148785365333)
+  - [Zwart / L](https://kingsday1967.com/products/signature-shirt?variant=48148785365333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1a08cb6835a7fa879db8a68ade1f27e343888707.png?v=1713016228
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/signature-crewneck?variant=48148785398101)
+  - [Zwart / XL](https://kingsday1967.com/products/signature-shirt?variant=48148785398101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1a08cb6835a7fa879db8a68ade1f27e343888707.png?v=1713016228
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/signature-crewneck?variant=48148785430869)
+  - [Zwart / 2XL](https://kingsday1967.com/products/signature-shirt?variant=48148785430869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1a08cb6835a7fa879db8a68ade1f27e343888707.png?v=1713016228
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/signature-crewneck?variant=48148785463637)
+  - [Zwart / 3XL](https://kingsday1967.com/products/signature-shirt?variant=48148785463637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1a08cb6835a7fa879db8a68ade1f27e343888707.png?v=1713016228
     Price: € 34,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/signature-crewneck?variant=48148785496405)
+  - [Wit / XS](https://kingsday1967.com/products/signature-shirt?variant=48148785496405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4d271f091aa3cd9d7d7a410be00a801e23700567.png?v=1713016228
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/signature-crewneck?variant=48148785529173)
+  - [Wit / S](https://kingsday1967.com/products/signature-shirt?variant=48148785529173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4d271f091aa3cd9d7d7a410be00a801e23700567.png?v=1713016228
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/signature-crewneck?variant=48148785561941)
+  - [Wit / M](https://kingsday1967.com/products/signature-shirt?variant=48148785561941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4d271f091aa3cd9d7d7a410be00a801e23700567.png?v=1713016228
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/signature-crewneck?variant=48148785594709)
+  - [Wit / L](https://kingsday1967.com/products/signature-shirt?variant=48148785594709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4d271f091aa3cd9d7d7a410be00a801e23700567.png?v=1713016228
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/signature-crewneck?variant=48148785627477)
+  - [Wit / XL](https://kingsday1967.com/products/signature-shirt?variant=48148785627477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4d271f091aa3cd9d7d7a410be00a801e23700567.png?v=1713016228
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/signature-crewneck?variant=48148785660245)
+  - [Wit / 2XL](https://kingsday1967.com/products/signature-shirt?variant=48148785660245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4d271f091aa3cd9d7d7a410be00a801e23700567.png?v=1713016228
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/signature-crewneck?variant=48148785693013)
+  - [Wit / 3XL](https://kingsday1967.com/products/signature-shirt?variant=48148785693013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4d271f091aa3cd9d7d7a410be00a801e23700567.png?v=1713016228
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/signature-crewneck?variant=48148785725781)
+  - [Oranje / XS](https://kingsday1967.com/products/signature-shirt?variant=48148785725781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/6d8105a3113dab3b8ffe03334f40a9e8016ede51.png?v=1713016228
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/signature-crewneck?variant=48148785758549)
+  - [Oranje / S](https://kingsday1967.com/products/signature-shirt?variant=48148785758549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/6d8105a3113dab3b8ffe03334f40a9e8016ede51.png?v=1713016228
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/signature-crewneck?variant=48148785791317)
+  - [Oranje / M](https://kingsday1967.com/products/signature-shirt?variant=48148785791317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/6d8105a3113dab3b8ffe03334f40a9e8016ede51.png?v=1713016228
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/signature-crewneck?variant=48148785824085)
+  - [Oranje / L](https://kingsday1967.com/products/signature-shirt?variant=48148785824085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/6d8105a3113dab3b8ffe03334f40a9e8016ede51.png?v=1713016228
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/signature-crewneck?variant=48148785856853)
+  - [Oranje / XL](https://kingsday1967.com/products/signature-shirt?variant=48148785856853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/6d8105a3113dab3b8ffe03334f40a9e8016ede51.png?v=1713016228
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/signature-crewneck?variant=48148785889621)
+  - [Oranje / 2XL](https://kingsday1967.com/products/signature-shirt?variant=48148785889621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/6d8105a3113dab3b8ffe03334f40a9e8016ede51.png?v=1713016228
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/signature-crewneck?variant=48148785922389)
+  - [Oranje / 3XL](https://kingsday1967.com/products/signature-shirt?variant=48148785922389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/6d8105a3113dab3b8ffe03334f40a9e8016ede51.png?v=1713016228
     Price: € 34,95 EUR
-- [Prestige T-Shirt - Luxe Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/prestige-crewneck): Voor de stijlvolle feestvierder. Het Prestige oranje shirt is subtiel, hoogwaardig en perfect voor Koningsdag. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-16T23:34:15Z
+- [Prestige T-Shirt - Luxe Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/prestige-shirt): Voor de stijlvolle feestvierder. Het Prestige oranje shirt is subtiel, hoogwaardig en perfect voor Koningsdag. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:28Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9b4200c03efe77d20dfd23a1a2c6bd8c02a7a283.png?v=1774042543
-  - [Wit / XS](https://kingsday1967.com/products/prestige-crewneck?variant=50358436102485)
+  - [Wit / XS](https://kingsday1967.com/products/prestige-shirt?variant=50358436102485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9b4200c03efe77d20dfd23a1a2c6bd8c02a7a283.png?v=1774042543
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/prestige-crewneck?variant=50358436135253)
+  - [Wit / S](https://kingsday1967.com/products/prestige-shirt?variant=50358436135253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9b4200c03efe77d20dfd23a1a2c6bd8c02a7a283.png?v=1774042543
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/prestige-crewneck?variant=50358436168021)
+  - [Wit / M](https://kingsday1967.com/products/prestige-shirt?variant=50358436168021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9b4200c03efe77d20dfd23a1a2c6bd8c02a7a283.png?v=1774042543
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/prestige-crewneck?variant=50358436200789)
+  - [Wit / L](https://kingsday1967.com/products/prestige-shirt?variant=50358436200789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9b4200c03efe77d20dfd23a1a2c6bd8c02a7a283.png?v=1774042543
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/prestige-crewneck?variant=50358436233557)
+  - [Wit / XL](https://kingsday1967.com/products/prestige-shirt?variant=50358436233557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9b4200c03efe77d20dfd23a1a2c6bd8c02a7a283.png?v=1774042543
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/prestige-crewneck?variant=50358436266325)
+  - [Wit / 2XL](https://kingsday1967.com/products/prestige-shirt?variant=50358436266325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9b4200c03efe77d20dfd23a1a2c6bd8c02a7a283.png?v=1774042543
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/prestige-crewneck?variant=50358436299093)
+  - [Wit / 3XL](https://kingsday1967.com/products/prestige-shirt?variant=50358436299093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9b4200c03efe77d20dfd23a1a2c6bd8c02a7a283.png?v=1774042543
     Price: € 34,95 EUR
-  - [Zwart / XS](https://kingsday1967.com/products/prestige-crewneck?variant=50358435873109)
+  - [Zwart / XS](https://kingsday1967.com/products/prestige-shirt?variant=50358435873109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/39fa10dfe8948a9f07fcfc8af1e867cbce7cc08f.png?v=1773695301
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/prestige-crewneck?variant=50358435905877)
+  - [Zwart / S](https://kingsday1967.com/products/prestige-shirt?variant=50358435905877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/39fa10dfe8948a9f07fcfc8af1e867cbce7cc08f.png?v=1773695301
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/prestige-crewneck?variant=50358435938645)
+  - [Zwart / M](https://kingsday1967.com/products/prestige-shirt?variant=50358435938645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/39fa10dfe8948a9f07fcfc8af1e867cbce7cc08f.png?v=1773695301
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/prestige-crewneck?variant=50358435971413)
+  - [Zwart / L](https://kingsday1967.com/products/prestige-shirt?variant=50358435971413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/39fa10dfe8948a9f07fcfc8af1e867cbce7cc08f.png?v=1773695301
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/prestige-crewneck?variant=50358436004181)
+  - [Zwart / XL](https://kingsday1967.com/products/prestige-shirt?variant=50358436004181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/39fa10dfe8948a9f07fcfc8af1e867cbce7cc08f.png?v=1773695301
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/prestige-crewneck?variant=50358436036949)
+  - [Zwart / 2XL](https://kingsday1967.com/products/prestige-shirt?variant=50358436036949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/39fa10dfe8948a9f07fcfc8af1e867cbce7cc08f.png?v=1773695301
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/prestige-crewneck?variant=50358436069717)
+  - [Zwart / 3XL](https://kingsday1967.com/products/prestige-shirt?variant=50358436069717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/39fa10dfe8948a9f07fcfc8af1e867cbce7cc08f.png?v=1773695301
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/prestige-crewneck?variant=50358436331861)
+  - [Oranje / XS](https://kingsday1967.com/products/prestige-shirt?variant=50358436331861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/641f374af0fe3f9c85606766dadd966a13207b4d.png?v=1773695301
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/prestige-crewneck?variant=50358436364629)
+  - [Oranje / S](https://kingsday1967.com/products/prestige-shirt?variant=50358436364629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/641f374af0fe3f9c85606766dadd966a13207b4d.png?v=1773695301
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/prestige-crewneck?variant=50358436397397)
+  - [Oranje / M](https://kingsday1967.com/products/prestige-shirt?variant=50358436397397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/641f374af0fe3f9c85606766dadd966a13207b4d.png?v=1773695301
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/prestige-crewneck?variant=50358436430165)
+  - [Oranje / L](https://kingsday1967.com/products/prestige-shirt?variant=50358436430165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/641f374af0fe3f9c85606766dadd966a13207b4d.png?v=1773695301
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/prestige-crewneck?variant=50358436462933)
+  - [Oranje / XL](https://kingsday1967.com/products/prestige-shirt?variant=50358436462933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/641f374af0fe3f9c85606766dadd966a13207b4d.png?v=1773695301
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/prestige-crewneck?variant=50358436495701)
+  - [Oranje / 2XL](https://kingsday1967.com/products/prestige-shirt?variant=50358436495701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/641f374af0fe3f9c85606766dadd966a13207b4d.png?v=1773695301
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/prestige-crewneck?variant=50358436528469)
+  - [Oranje / 3XL](https://kingsday1967.com/products/prestige-shirt?variant=50358436528469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/641f374af0fe3f9c85606766dadd966a13207b4d.png?v=1773695301
     Price: € 34,95 EUR
-- [Prins Pils T-Shirt - Grappig Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/prins-pils-crewneck): Prins Pils T-Shirt is onze iconische Koningsdag bestseller. Mega tof design. Oranje, zwart of wit · maten XS–3XL · gratis verzending · op tijd voor Koningsdag.
-  Updated: 2026-07-17T07:22:13Z
+- [Prins Pils T-Shirt - Grappig Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/prins-pils-shirt): Prins Pils T-Shirt is onze iconische Koningsdag bestseller. Mega tof design. Oranje, zwart of wit · maten XS–3XL · gratis verzending · op tijd voor Koningsdag.
+  Updated: 2026-08-08T04:58:25Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a908eeafd9ed5ae451c7cf3d0a6cc8fd14fb6538.png?v=1742990407
-  - [Oranje / XS](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619710805)
+  - [Oranje / XS](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619710805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a908eeafd9ed5ae451c7cf3d0a6cc8fd14fb6538.png?v=1742990407
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619743573)
+  - [Oranje / S](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619743573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a908eeafd9ed5ae451c7cf3d0a6cc8fd14fb6538.png?v=1742990407
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619776341)
+  - [Oranje / M](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619776341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a908eeafd9ed5ae451c7cf3d0a6cc8fd14fb6538.png?v=1742990407
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619809109)
+  - [Oranje / L](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619809109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a908eeafd9ed5ae451c7cf3d0a6cc8fd14fb6538.png?v=1742990407
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619841877)
+  - [Oranje / XL](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619841877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a908eeafd9ed5ae451c7cf3d0a6cc8fd14fb6538.png?v=1742990407
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619874645)
+  - [Oranje / 2XL](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619874645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a908eeafd9ed5ae451c7cf3d0a6cc8fd14fb6538.png?v=1742990407
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619907413)
+  - [Oranje / 3XL](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619907413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a908eeafd9ed5ae451c7cf3d0a6cc8fd14fb6538.png?v=1742990407
     Price: € 34,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619481429)
+  - [Wit / XS](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619481429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/863bba8c71b449830cee0bf60d5854ba5894e7c9.png?v=1774176547
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619514197)
+  - [Wit / S](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619514197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/863bba8c71b449830cee0bf60d5854ba5894e7c9.png?v=1774176547
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619546965)
+  - [Wit / M](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619546965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/863bba8c71b449830cee0bf60d5854ba5894e7c9.png?v=1774176547
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619579733)
+  - [Wit / L](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619579733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/863bba8c71b449830cee0bf60d5854ba5894e7c9.png?v=1774176547
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619612501)
+  - [Wit / XL](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619612501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/863bba8c71b449830cee0bf60d5854ba5894e7c9.png?v=1774176547
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619645269)
+  - [Wit / 2XL](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619645269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/863bba8c71b449830cee0bf60d5854ba5894e7c9.png?v=1774176547
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619678037)
+  - [Wit / 3XL](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619678037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/863bba8c71b449830cee0bf60d5854ba5894e7c9.png?v=1774176547
     Price: € 34,95 EUR
-  - [Zwart / XS](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619252053)
+  - [Zwart / XS](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619252053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a37eebe94ecf31fcd02051dcc340cc784586931e.png?v=1774176547
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619284821)
+  - [Zwart / S](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619284821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a37eebe94ecf31fcd02051dcc340cc784586931e.png?v=1774176547
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619317589)
+  - [Zwart / M](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619317589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a37eebe94ecf31fcd02051dcc340cc784586931e.png?v=1774176547
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619350357)
+  - [Zwart / L](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619350357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a37eebe94ecf31fcd02051dcc340cc784586931e.png?v=1774176547
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619383125)
+  - [Zwart / XL](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619383125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a37eebe94ecf31fcd02051dcc340cc784586931e.png?v=1774176547
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619415893)
+  - [Zwart / 2XL](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619415893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a37eebe94ecf31fcd02051dcc340cc784586931e.png?v=1774176547
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/prins-pils-crewneck?variant=50380619448661)
+  - [Zwart / 3XL](https://kingsday1967.com/products/prins-pils-shirt?variant=50380619448661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a37eebe94ecf31fcd02051dcc340cc784586931e.png?v=1774176547
     Price: € 34,95 EUR
 - [Prins Pils Hoodie - Hoodie met Willem Alexander | Kingsday 1967](https://kingsday1967.com/products/prins-pils-hoodie): De legendarische Prins Pils oranje hoodie. Comfortabel, grappig en ideaal voor elk Koningsdagfeest. Premium kwaliteit en gegarandeerd bekijks. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-15T16:19:47Z
+  Updated: 2026-08-07T16:55:29Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1460,98 +1460,98 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/70eee441a972f7ba09636e2c7a4898ab07f983ab.png?v=1774042555
     Price: € 48,95 EUR
-- [Celebrate Like A Royal T-Shirt - Koningsdag | Kingsday 1967](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck): Vier als een koning(in) met dit stijlvolle oranje shirt. Comfort, kwaliteit en een uniek design voor een vorstelijke Koningsdag. Premium shirt in oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-16T17:28:41Z
+- [Celebrate Like A Royal T-Shirt - Koningsdag | Kingsday 1967](https://kingsday1967.com/products/celebrate-like-a-royal-shirt): Vier als een koning(in) met dit stijlvolle oranje shirt. Comfort, kwaliteit en een uniek design voor een vorstelijke Koningsdag. Premium shirt in oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:25Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9ebaa19b62e52a1df865c754f3775cd55bba5d21.png?v=1741897322
-  - [Zwart / XS](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174167893)
+  - [Zwart / XS](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174167893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/42ed169917f1aca1fa5e510e3f01d9d4aa0840d8.png?v=1741897322
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174233429)
+  - [Zwart / S](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174233429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/42ed169917f1aca1fa5e510e3f01d9d4aa0840d8.png?v=1741897322
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174266197)
+  - [Zwart / M](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174266197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/42ed169917f1aca1fa5e510e3f01d9d4aa0840d8.png?v=1741897322
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174298965)
+  - [Zwart / L](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174298965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/42ed169917f1aca1fa5e510e3f01d9d4aa0840d8.png?v=1741897322
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174331733)
+  - [Zwart / XL](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174331733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/42ed169917f1aca1fa5e510e3f01d9d4aa0840d8.png?v=1741897322
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174364501)
+  - [Zwart / 2XL](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174364501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/42ed169917f1aca1fa5e510e3f01d9d4aa0840d8.png?v=1741897322
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174397269)
+  - [Zwart / 3XL](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174397269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/42ed169917f1aca1fa5e510e3f01d9d4aa0840d8.png?v=1741897322
     Price: € 34,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174430037)
+  - [Wit / XS](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174430037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/abbb7755a5fc357bd0d82085a93a2335189016de.png?v=1741897322
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174462805)
+  - [Wit / S](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174462805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/abbb7755a5fc357bd0d82085a93a2335189016de.png?v=1741897322
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174495573)
+  - [Wit / M](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174495573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/abbb7755a5fc357bd0d82085a93a2335189016de.png?v=1741897322
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174528341)
+  - [Wit / L](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174528341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/abbb7755a5fc357bd0d82085a93a2335189016de.png?v=1741897322
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174561109)
+  - [Wit / XL](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174561109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/abbb7755a5fc357bd0d82085a93a2335189016de.png?v=1741897322
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174593877)
+  - [Wit / 2XL](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174593877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/abbb7755a5fc357bd0d82085a93a2335189016de.png?v=1741897322
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174626645)
+  - [Wit / 3XL](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174626645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/abbb7755a5fc357bd0d82085a93a2335189016de.png?v=1741897322
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174659413)
+  - [Oranje / XS](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174659413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9ebaa19b62e52a1df865c754f3775cd55bba5d21.png?v=1741897322
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174692181)
+  - [Oranje / S](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174692181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9ebaa19b62e52a1df865c754f3775cd55bba5d21.png?v=1741897322
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174724949)
+  - [Oranje / M](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174724949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9ebaa19b62e52a1df865c754f3775cd55bba5d21.png?v=1741897322
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174757717)
+  - [Oranje / L](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174757717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9ebaa19b62e52a1df865c754f3775cd55bba5d21.png?v=1741897322
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174790485)
+  - [Oranje / XL](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174790485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9ebaa19b62e52a1df865c754f3775cd55bba5d21.png?v=1741897322
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174823253)
+  - [Oranje / 2XL](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174823253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9ebaa19b62e52a1df865c754f3775cd55bba5d21.png?v=1741897322
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/celebrate-like-a-royal-crewneck?variant=50385174856021)
+  - [Oranje / 3XL](https://kingsday1967.com/products/celebrate-like-a-royal-shirt?variant=50385174856021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/9ebaa19b62e52a1df865c754f3775cd55bba5d21.png?v=1741897322
     Price: € 34,95 EUR
 - [Celebrate Like A Royal Hoodie - Luxe Hoodie | Kingsday 1967](https://kingsday1967.com/products/celebrate-like-a-royal-hoodie): Vier Koningsdag in stijl met deze Celebrate Like A Royal oranje hoodie. Hoogwaardige materialen, uniek ontwerp en heerlijk warm. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-17T07:23:46Z
+  Updated: 2026-08-07T16:55:26Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1641,7 +1641,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/88b508b02a9beef1e2dd031f1f99719b5b28a9a1.png?v=1741897362
     Price: € 39,95 EUR
 - [Prestige Hoodie - Tijdloze Koningsdag Hoodie | Kingsday 1967](https://kingsday1967.com/products/prestige-hoodie): Premium hoodie in oranje voor Koningsdag. Zacht, stijlvol en perfect voor wie comfort en klasse wil combineren op het feest. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-16T23:18:09Z
+  Updated: 2026-08-07T16:55:26Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1731,7 +1731,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/e51e2995c780446b21bef272bf3310501469383a.png?v=1741897387
     Price: € 48,95 EUR
 - [Royal Chaos Hoodie - Koningsdag Streetwear | Kingsday 1967](https://kingsday1967.com/products/royal-chaos-hoodie): De Royal Chaos Hoodie van Kingsday 1967. Gave Koningsdag hoodie voor wie opvalt. Verkrijgbaar in zwart. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-17T22:32:24Z
+  Updated: 2026-08-07T16:55:27Z
   Vendor: Kingsday 1967
   Product Type: Hoodie
   Availability: Available
@@ -1820,98 +1820,98 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/7d2f737d00dff435442c416fba582a5cc49f49c4.png?v=1741897468
     Price: € 39,95 EUR
-- [Butterfly Shirt - Festival en Koningsdag Look | Kingsday 1967](https://kingsday1967.com/products/butterfly-crewneck): Deze Butterfly oranje shirt is vrolijk, kleurrijk en gemaakt van premium katoen. Perfect voor een speelse Koningsdag vol plezier. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-15T08:28:56Z
+- [Butterfly Shirt - Festival en Koningsdag Look | Kingsday 1967](https://kingsday1967.com/products/butterfly-shirt): Deze Butterfly oranje shirt is vrolijk, kleurrijk en gemaakt van premium katoen. Perfect voor een speelse Koningsdag vol plezier. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:27Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4f4e8fa9d3667a257ea0b65884908eb4ae41d449.png?v=1743003118
-  - [Zwart / XS](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754028373)
+  - [Zwart / XS](https://kingsday1967.com/products/butterfly-shirt?variant=50501754028373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4f4e8fa9d3667a257ea0b65884908eb4ae41d449.png?v=1743003118
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754061141)
+  - [Zwart / S](https://kingsday1967.com/products/butterfly-shirt?variant=50501754061141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4f4e8fa9d3667a257ea0b65884908eb4ae41d449.png?v=1743003118
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754093909)
+  - [Zwart / M](https://kingsday1967.com/products/butterfly-shirt?variant=50501754093909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4f4e8fa9d3667a257ea0b65884908eb4ae41d449.png?v=1743003118
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754126677)
+  - [Zwart / L](https://kingsday1967.com/products/butterfly-shirt?variant=50501754126677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4f4e8fa9d3667a257ea0b65884908eb4ae41d449.png?v=1743003118
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754159445)
+  - [Zwart / XL](https://kingsday1967.com/products/butterfly-shirt?variant=50501754159445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4f4e8fa9d3667a257ea0b65884908eb4ae41d449.png?v=1743003118
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754192213)
+  - [Zwart / 2XL](https://kingsday1967.com/products/butterfly-shirt?variant=50501754192213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4f4e8fa9d3667a257ea0b65884908eb4ae41d449.png?v=1743003118
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754224981)
+  - [Zwart / 3XL](https://kingsday1967.com/products/butterfly-shirt?variant=50501754224981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/4f4e8fa9d3667a257ea0b65884908eb4ae41d449.png?v=1743003118
     Price: € 34,95 EUR
-  - [Wit / XS](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754257749)
+  - [Wit / XS](https://kingsday1967.com/products/butterfly-shirt?variant=50501754257749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/70df9b5721c5b4b9f12d714d1de78ce250173e38.png?v=1773696392
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754290517)
+  - [Wit / S](https://kingsday1967.com/products/butterfly-shirt?variant=50501754290517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/70df9b5721c5b4b9f12d714d1de78ce250173e38.png?v=1773696392
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754323285)
+  - [Wit / M](https://kingsday1967.com/products/butterfly-shirt?variant=50501754323285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/70df9b5721c5b4b9f12d714d1de78ce250173e38.png?v=1773696392
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754356053)
+  - [Wit / L](https://kingsday1967.com/products/butterfly-shirt?variant=50501754356053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/70df9b5721c5b4b9f12d714d1de78ce250173e38.png?v=1773696392
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754388821)
+  - [Wit / XL](https://kingsday1967.com/products/butterfly-shirt?variant=50501754388821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/70df9b5721c5b4b9f12d714d1de78ce250173e38.png?v=1773696392
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754421589)
+  - [Wit / 2XL](https://kingsday1967.com/products/butterfly-shirt?variant=50501754421589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/70df9b5721c5b4b9f12d714d1de78ce250173e38.png?v=1773696392
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754454357)
+  - [Wit / 3XL](https://kingsday1967.com/products/butterfly-shirt?variant=50501754454357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/70df9b5721c5b4b9f12d714d1de78ce250173e38.png?v=1773696392
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754487125)
+  - [Oranje / XS](https://kingsday1967.com/products/butterfly-shirt?variant=50501754487125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/455033a03389030dd1651358b6a9cbf04a72d646.png?v=1773696392
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754519893)
+  - [Oranje / S](https://kingsday1967.com/products/butterfly-shirt?variant=50501754519893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/455033a03389030dd1651358b6a9cbf04a72d646.png?v=1773696392
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754552661)
+  - [Oranje / M](https://kingsday1967.com/products/butterfly-shirt?variant=50501754552661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/455033a03389030dd1651358b6a9cbf04a72d646.png?v=1773696392
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754585429)
+  - [Oranje / L](https://kingsday1967.com/products/butterfly-shirt?variant=50501754585429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/455033a03389030dd1651358b6a9cbf04a72d646.png?v=1773696392
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754618197)
+  - [Oranje / XL](https://kingsday1967.com/products/butterfly-shirt?variant=50501754618197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/455033a03389030dd1651358b6a9cbf04a72d646.png?v=1773696392
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754650965)
+  - [Oranje / 2XL](https://kingsday1967.com/products/butterfly-shirt?variant=50501754650965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/455033a03389030dd1651358b6a9cbf04a72d646.png?v=1773696392
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/butterfly-crewneck?variant=50501754683733)
+  - [Oranje / 3XL](https://kingsday1967.com/products/butterfly-shirt?variant=50501754683733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/455033a03389030dd1651358b6a9cbf04a72d646.png?v=1773696392
     Price: € 34,95 EUR
 - [Buckethat Naar De Maan - Koningsdag | Kingsday 1967](https://kingsday1967.com/products/buckethat-naar-de-maan): De "Naar De Maan" Buckethat voor Koningsdag. Verkrijgbaar in wit, zwart en oranje. One size. Gratis verzending, perfecte aanvulling op je Koningsdag-outfit.
-  Updated: 2026-07-18T13:58:04Z
+  Updated: 2026-08-07T16:55:28Z
   Vendor: Kingsday 1967
   Product Type: Hat
   Availability: Available
@@ -1928,8 +1928,8 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Astronaut_oranje_241d93ab-6f23-42fa-8a3e-40927910fdfa.png?v=1743150002
     Price: € 18,95 EUR
-- [Buckethat Ga Je Lekker? - Koningsdag 2026 | Kingsday 1967](https://kingsday1967.com/products/buckethat-ga-je-lekker): De "Ga Je Lekker?" Buckethat. De grappigste bucket hat voor Koningsdag. Wit, zwart of oranje. One size. Gratis verzending, perfecte finishing touch.
-  Updated: 2026-07-16T17:47:34Z
+- [Buckethat Ga Je Lekker? - Koningsdag 2027 | Kingsday 1967](https://kingsday1967.com/products/buckethat-ga-je-lekker): De "Ga Je Lekker?" Buckethat. De grappigste bucket hat voor Koningsdag. Wit, zwart of oranje. One size. Gratis verzending, perfecte finishing touch.
+  Updated: 2026-08-07T16:55:58Z
   Vendor: Kingsday 1967
   Product Type: Hat
   Availability: Available
@@ -1946,8 +1946,8 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Gajelekker_oranje_91225cc4-2140-498d-81b7-637f4d9f1690.png?v=1743161800
     Price: € 18,95 EUR
-- [Leeuw Buckethat - Koningsdag 2026 | Kingsday 1967](https://kingsday1967.com/products/buckethat-leeuw): De Leeuw Buckethat van Kingsday 1967. Nederlandse trots op je hoofd. Wit, zwart of oranje. One size. Gratis verzending.
-  Updated: 2026-07-18T00:56:59Z
+- [Leeuw Buckethat - Koningsdag 2027 | Kingsday 1967](https://kingsday1967.com/products/buckethat-leeuw): De Leeuw Buckethat van Kingsday 1967. Nederlandse trots op je hoofd. Wit, zwart of oranje. One size. Gratis verzending.
+  Updated: 2026-08-07T16:56:15Z
   Vendor: Kingsday 1967
   Product Type: Hat
   Availability: Available
@@ -1965,201 +1965,201 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/mockup-of-a-bucket-hat-floating-over-a-customizable-surface-3033-el1.png?v=1743359526
     Price: € 18,95 EUR
 - [Ariane Koningsdag Zonnebril - Licht & Stijlvol | Kingsday 1967](https://kingsday1967.com/products/ariane-zonnebril-1): De Ariane Zonnebril van Kingsday 1967. Stijlvol accessoire voor Koningsdag. Nu met korting.
-  Updated: 2026-07-16T21:03:37Z
+  Updated: 2026-08-07T16:55:26Z
   Vendor: Kingsday 1967
   Product Type: Accessoire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Ariane_zonnebril.png?v=1741865171
   Price: € 17,95 EUR
 - [Amalia  Koningsdag Zonnebril - Licht & Stijlvol | Kingsday 1967](https://kingsday1967.com/products/amalia-zonnebril): Ben jij al klaar om deze Koningsdag nog beter te maken met de Amalia zonnebril? Een unieke en tijdloze zonnebril met oranje glazen. Nu met korting.
-  Updated: 2026-07-16T16:56:22Z
+  Updated: 2026-08-07T16:55:26Z
   Vendor: Kingsday 1967
   Product Type: Brillen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Amalia_zonnebril_zijkant.png?v=1774975859
   Price: € 19,95 EUR
-- [King of Hearts T-Shirt - Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/king-of-hearts): King of Hearts T-Shirt - uniek Koningsdag design met speelkaart-king in oranje gradient. Premium shirt. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-16T17:09:07Z
+- [King of Hearts T-Shirt - Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/king-of-hearts-shirt): King of Hearts T-Shirt - uniek Koningsdag design met speelkaart-king in oranje gradient. Premium shirt. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:27Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/d11b6eb1a5698ec8bc00f8efd8b0b62bc7aa7e9f.png?v=1774087301
-  - [Wit / XS](https://kingsday1967.com/products/king-of-hearts?variant=53518176059733)
+  - [Wit / XS](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176059733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/d11b6eb1a5698ec8bc00f8efd8b0b62bc7aa7e9f.png?v=1774087301
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/king-of-hearts?variant=53518176092501)
+  - [Wit / S](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176092501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/d11b6eb1a5698ec8bc00f8efd8b0b62bc7aa7e9f.png?v=1774087301
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/king-of-hearts?variant=53518176125269)
+  - [Wit / M](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176125269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/d11b6eb1a5698ec8bc00f8efd8b0b62bc7aa7e9f.png?v=1774087301
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/king-of-hearts?variant=53518176158037)
+  - [Wit / L](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176158037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/d11b6eb1a5698ec8bc00f8efd8b0b62bc7aa7e9f.png?v=1774087301
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/king-of-hearts?variant=53518176190805)
+  - [Wit / XL](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176190805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/d11b6eb1a5698ec8bc00f8efd8b0b62bc7aa7e9f.png?v=1774087301
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/king-of-hearts?variant=53518176223573)
+  - [Wit / 2XL](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176223573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/d11b6eb1a5698ec8bc00f8efd8b0b62bc7aa7e9f.png?v=1774087301
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/king-of-hearts?variant=53518176256341)
+  - [Wit / 3XL](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176256341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/d11b6eb1a5698ec8bc00f8efd8b0b62bc7aa7e9f.png?v=1774087301
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/king-of-hearts?variant=53518176289109)
+  - [Oranje / XS](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176289109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fe6089f987d7d713415138e11b919c47745f73dd.png?v=1774087301
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/king-of-hearts?variant=53518176321877)
+  - [Oranje / S](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176321877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fe6089f987d7d713415138e11b919c47745f73dd.png?v=1774087301
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/king-of-hearts?variant=53518176354645)
+  - [Oranje / M](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176354645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fe6089f987d7d713415138e11b919c47745f73dd.png?v=1774087301
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/king-of-hearts?variant=53518176387413)
+  - [Oranje / L](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176387413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fe6089f987d7d713415138e11b919c47745f73dd.png?v=1774087301
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/king-of-hearts?variant=53518176420181)
+  - [Oranje / XL](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176420181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fe6089f987d7d713415138e11b919c47745f73dd.png?v=1774087301
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/king-of-hearts?variant=53518176452949)
+  - [Oranje / 2XL](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176452949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fe6089f987d7d713415138e11b919c47745f73dd.png?v=1774087301
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/king-of-hearts?variant=53518176485717)
+  - [Oranje / 3XL](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176485717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/fe6089f987d7d713415138e11b919c47745f73dd.png?v=1774087301
     Price: € 34,95 EUR
-  - [Zwart / XS](https://kingsday1967.com/products/king-of-hearts?variant=53518175830357)
+  - [Zwart / XS](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518175830357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/f8d0e56f8528b8423e6d3b92b71f6e410a9deabf.png?v=1774087301
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/king-of-hearts?variant=53518175863125)
+  - [Zwart / S](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518175863125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/f8d0e56f8528b8423e6d3b92b71f6e410a9deabf.png?v=1774087301
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/king-of-hearts?variant=53518175895893)
+  - [Zwart / M](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518175895893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/f8d0e56f8528b8423e6d3b92b71f6e410a9deabf.png?v=1774087301
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/king-of-hearts?variant=53518175928661)
+  - [Zwart / L](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518175928661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/f8d0e56f8528b8423e6d3b92b71f6e410a9deabf.png?v=1774087301
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/king-of-hearts?variant=53518175961429)
+  - [Zwart / XL](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518175961429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/f8d0e56f8528b8423e6d3b92b71f6e410a9deabf.png?v=1774087301
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/king-of-hearts?variant=53518175994197)
+  - [Zwart / 2XL](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518175994197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/f8d0e56f8528b8423e6d3b92b71f6e410a9deabf.png?v=1774087301
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/king-of-hearts?variant=53518176026965)
+  - [Zwart / 3XL](https://kingsday1967.com/products/king-of-hearts-shirt?variant=53518176026965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/f8d0e56f8528b8423e6d3b92b71f6e410a9deabf.png?v=1774087301
     Price: € 34,95 EUR
-- [Toeter des Vaderlands - Grappig Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt): De Toeter des Vaderlands - het grappigste Koningsdag shirt van 2026. Koninklijk design met humor. Drie kleuren. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-15T08:27:02Z
+- [Toeter des Vaderlands - Grappig Koningsdag Shirt | Kingsday 1967](https://kingsday1967.com/products/toeter-des-vaderlands-shirt): De Toeter des Vaderlands - het grappigste Koningsdag shirt van 2026. Koninklijk design met humor. Drie kleuren. Maten XS–3XL. Gratis verzending.
+  Updated: 2026-08-07T16:55:27Z
   Vendor: Kingsday 1967
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2ace325dba7da71f7a74a338ac07c198b454638.png?v=1775201701
-  - [Wit / XS](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177206613)
+  - [Wit / XS](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177206613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2ace325dba7da71f7a74a338ac07c198b454638.png?v=1775201701
     Price: € 34,95 EUR
-  - [Wit / S](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177239381)
+  - [Wit / S](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177239381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2ace325dba7da71f7a74a338ac07c198b454638.png?v=1775201701
     Price: € 34,95 EUR
-  - [Wit / M](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177272149)
+  - [Wit / M](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177272149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2ace325dba7da71f7a74a338ac07c198b454638.png?v=1775201701
     Price: € 34,95 EUR
-  - [Wit / L](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177304917)
+  - [Wit / L](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177304917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2ace325dba7da71f7a74a338ac07c198b454638.png?v=1775201701
     Price: € 34,95 EUR
-  - [Wit / XL](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177337685)
+  - [Wit / XL](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177337685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2ace325dba7da71f7a74a338ac07c198b454638.png?v=1775201701
     Price: € 34,95 EUR
-  - [Wit / 2XL](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177370453)
+  - [Wit / 2XL](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177370453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2ace325dba7da71f7a74a338ac07c198b454638.png?v=1775201701
     Price: € 34,95 EUR
-  - [Wit / 3XL](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177403221)
+  - [Wit / 3XL](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177403221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/c2ace325dba7da71f7a74a338ac07c198b454638.png?v=1775201701
     Price: € 34,95 EUR
-  - [Oranje / XS](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177435989)
+  - [Oranje / XS](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177435989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/69e450091885c6ee123cb150fd108919f51fdad7.png?v=1774087371
     Price: € 34,95 EUR
-  - [Oranje / S](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177468757)
+  - [Oranje / S](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177468757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/69e450091885c6ee123cb150fd108919f51fdad7.png?v=1774087371
     Price: € 34,95 EUR
-  - [Oranje / M](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177501525)
+  - [Oranje / M](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177501525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/69e450091885c6ee123cb150fd108919f51fdad7.png?v=1774087371
     Price: € 34,95 EUR
-  - [Oranje / L](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177534293)
+  - [Oranje / L](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177534293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/69e450091885c6ee123cb150fd108919f51fdad7.png?v=1774087371
     Price: € 34,95 EUR
-  - [Oranje / XL](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177567061)
+  - [Oranje / XL](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177567061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/69e450091885c6ee123cb150fd108919f51fdad7.png?v=1774087371
     Price: € 34,95 EUR
-  - [Oranje / 2XL](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177599829)
+  - [Oranje / 2XL](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177599829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/69e450091885c6ee123cb150fd108919f51fdad7.png?v=1774087371
     Price: € 34,95 EUR
-  - [Oranje / 3XL](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177632597)
+  - [Oranje / 3XL](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177632597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/69e450091885c6ee123cb150fd108919f51fdad7.png?v=1774087371
     Price: € 34,95 EUR
-  - [Zwart / XS](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518176977237)
+  - [Zwart / XS](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518176977237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2edea338302313cc50abc2719ee877385be6a0e8.png?v=1774087371
     Price: € 34,95 EUR
-  - [Zwart / S](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177010005)
+  - [Zwart / S](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177010005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2edea338302313cc50abc2719ee877385be6a0e8.png?v=1774087371
     Price: € 34,95 EUR
-  - [Zwart / M](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177042773)
+  - [Zwart / M](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177042773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2edea338302313cc50abc2719ee877385be6a0e8.png?v=1774087371
     Price: € 34,95 EUR
-  - [Zwart / L](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177075541)
+  - [Zwart / L](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177075541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2edea338302313cc50abc2719ee877385be6a0e8.png?v=1774087371
     Price: € 34,95 EUR
-  - [Zwart / XL](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177108309)
+  - [Zwart / XL](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177108309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2edea338302313cc50abc2719ee877385be6a0e8.png?v=1774087371
     Price: € 34,95 EUR
-  - [Zwart / 2XL](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177141077)
+  - [Zwart / 2XL](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177141077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2edea338302313cc50abc2719ee877385be6a0e8.png?v=1774087371
     Price: € 34,95 EUR
-  - [Zwart / 3XL](https://kingsday1967.com/products/toeter-des-vaderlands-t-shirt?variant=53518177173845)
+  - [Zwart / 3XL](https://kingsday1967.com/products/toeter-des-vaderlands-shirt?variant=53518177173845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2edea338302313cc50abc2719ee877385be6a0e8.png?v=1774087371
     Price: € 34,95 EUR
 - [Toeter des Vaderlands - Grappige Koningsdag Sweater | Kingsday 1967](https://kingsday1967.com/products/toeter-des-vaderlands-sweater): De Toeter des Vaderlands - de grappigste Koningsdag sweater van 2026. Koninklijk design met humor. Oranje. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-15T08:29:50Z
+  Updated: 2026-08-07T16:55:28Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2249,7 +2249,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/b7d43ff323c0101e69bcf334d4fafd82914cdf4f.png?v=1774175009
     Price: € 49,95 EUR
 - [King of Hearts Sweater - Koningsdag Sweater | Kingsday 1967](https://kingsday1967.com/products/king-of-hearts-sweater): De King of Hearts Sweater - uniek Koningsdag design met speelkaart-king in oranje gradient. Premium sweater. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-18T03:35:11Z
+  Updated: 2026-08-07T16:55:28Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2339,7 +2339,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/00f21cd0d6a066851d3cbea6527c5eae3d6d9c9a.png?v=1774096953
     Price: € 49,95 EUR
 - [Prins Pils Sweater - Grappige Koningsdag Sweater | Kingsday 1967](https://kingsday1967.com/products/prins-pils-sweater): De Prins Pils Sweater - het iconische bier-plus-royalty design als premium sweater. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending, op tijd voor 27 april.
-  Updated: 2026-07-18T05:32:48Z
+  Updated: 2026-08-07T16:55:28Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2429,7 +2429,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/a40085b19647d7b494f18fc66d4f55ae34cc3518.png?v=1774174894
     Price: € 49,95 EUR
 - [Prestige Sweater - Vintage Koningsdag Sweater | Kingsday 1967](https://kingsday1967.com/products/prestige-sweater): De Prestige Sweater - tijdloos Koningsdag design met vintage streetwear-look. Elk jaar weer goed. Oranje, zwart of wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-17T22:53:30Z
+  Updated: 2026-08-07T16:55:25Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2519,7 +2519,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/2f87cc71f650c27747c0ec4f2a7fe6a46e68d7b9.png?v=1774950268
     Price: € 49,95 EUR
 - [Lion Sweater - Koningsdag Sweater met Nederlandse Leeuw | Kingsday 1967](https://kingsday1967.com/products/lion-sweater): De Lion Sweater met de Nederlandse leeuw. Premium Koningsdag sweater in oranje, zwart of wit. Maten XS–3XL. Gratis verzending, op tijd voor 27 april.
-  Updated: 2026-07-18T14:22:10Z
+  Updated: 2026-08-07T16:55:26Z
   Vendor: Kingsday 1967
   Product Type: Sweater
   Availability: Available
@@ -2580,8 +2580,8 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/1200b-1774174663067.png?v=1774174712
     Price: € 49,95 EUR
-- [Kingsday Original 1967 Longsleeve - Vintage Look | Kingsday 1967](https://kingsday1967.com/products/kingsday-original-1967-longsleeve): Kingsday Original 1967 Longsleeve kopen voor Koningsdag? Dit iconische design is dé bestseller voor 27 april. Verkrijgbaar in wit, maten S t/m XL. Premium kwaliteit, comfortabele fit en perfect voor festivals, vrijmarkt en feestjes. Gratis verzending en op tijd in huis voor Koningsdag.
-  Updated: 2026-07-17T08:01:11Z
+- [Kingsday Original 1967 Longsleeve - Vintage Look | Kingsday 1967](https://kingsday1967.com/products/kingsday-original-1967-longsleeve): Kingsday Original 1967 Longsleeve kopen voor Koningsdag? Dit iconische design is dé bestseller voor 27 april. Verkrijgbaar in wit, maten S t/m 2XL. Premium kwaliteit, comfortabele fit en perfect voor festivals, vrijmarkt en feestjes. Gratis verzending en op tijd in huis voor Koningsdag.
+  Updated: 2026-08-11T17:52:30Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2607,7 +2607,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Kingsday_Original_1967_Longsleeve_Back_v2.png?v=1775051039
     Price: € 42,95 EUR
 - [Prins Pils Longsleeve | Kingsday 1967](https://kingsday1967.com/products/prins-pils-longsleeve): Prins Pils Longsleeve voor Koningsdag - het iconische design in zwart en wit met oranje opdruk. 100% biologisch katoen, 180 g/m², dikke stof. Gratis verzending.
-  Updated: 2026-08-04T08:27:18Z
+  Updated: 2026-08-11T10:33:25Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2673,7 +2673,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/dbc05e4f0ba44f4f6ab5533ba45cd407f0d59b26.png?v=1775908477
     Price: € 42,95 EUR
 - [Prestige Longsleeve - Vintage Streetwear | Kingsday 1967](https://kingsday1967.com/products/prestige-longsleeve): Prestige Longsleeve kopen voor Koningsdag? Premium vintage streetwear in zwart en wit met oranje opdruk. 100% biologisch katoen, 180 g/m². Gratis verzending.
-  Updated: 2026-08-04T08:27:19Z
+  Updated: 2026-08-11T17:52:15Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2719,7 +2719,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/94c0982dbfd6c9595ed837cc1fb8fdfe74e25ebc.png?v=1775314063
     Price: € 42,95 EUR
 - [Anti Royal Royal Club Koningsdag Longsleeve | Kingsday 1967](https://kingsday1967.com/products/anti-royal-royal-club-longsleeve): Anti Royal Royal Club Longsleeve voor Koningsdag. Oranje, wit of zwart, 190 g/m² katoen, maten S t/m 2XL. Premium stof. Gratis verzending via PostNL.
-  Updated: 2026-08-04T08:27:18Z
+  Updated: 2026-08-11T17:53:00Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2788,28 +2788,28 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
 ## Collections
 
 - [Koningsdag Kleding](https://kingsday1967.com/collections/koningsdag-kleding): Shop koningsdag kleding voor heren en dames. Oranje shirts, hoodies en accessoires. Unieke designs, maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-18T12:57:29Z
+  Updated: 2026-08-07T20:19:16Z
   Total Products: 34
-- [Koningsnacht Kleding](https://kingsday1967.com/collections/koningsnacht-kleding): Koningsnacht is de opmaat voor het grootste feest van Nederland. Terwijl anderen die avond nog aan het twijfelen zijn over hun outfit van morgen, sta jij al goed. De Kingsday 1967 Koningsnacht-collectie bestaat uit dezelfde premium shirts en hoodies die je ook een nacht later aandoet. Voor Koningsnacht wil je al subtiel oranje tonen. We hebbe verschillende designs die je ook met Koningsnacht laten opvallen. De hoodies zijn populair voor deze avond: herkenbaar Nederlands, maar warm genoeg voor een late avond buiten. De shirts werken even goed voor wie het liever casual houdt. Alle items zijn verkrijgbaar in zwart, wit en oranje. Maten XS t/m 3XL. Gratis verzending.
-  Updated: 2026-07-31T20:36:19Z
+- [Koningsnacht Kleding](https://kingsday1967.com/collections/koningsnacht-kleding): Koningsnacht outfit voor de avond van 26 april. Premium shirts, longsleeves en hoodies in oranje, zwart en wit. Gratis verzending in 1 tot 3 werkdagen.
+  Updated: 2026-08-11T17:46:14Z
   Total Products: 11
 - [2024 Collection](https://kingsday1967.com/collections/2024-collection)
   Updated: 2026-07-31T20:38:17Z
   Total Products: 5
 - [Koningsdag Shirts](https://kingsday1967.com/collections/shirts): Ontdek de premium Koningsdag shirts van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending.
-  Updated: 2026-07-31T20:25:35Z
+  Updated: 2026-08-07T20:19:16Z
   Total Products: 30
-- [Koningsdag Hoodies](https://kingsday1967.com/collections/hoodies): Shop premium Koningsdag hoodies van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending, levering in 1–3 werkdagen.
-  Updated: 2026-07-31T20:45:14Z
-  Total Products: 9
+- [Koningsdag Hoodies & Sweaters](https://kingsday1967.com/collections/koningsdag-truien-hoodies): Premium Koningsdag truien en hoodies met exclusieve designs. Oranje, zwart en wit, maten XS tot en met 3XL. Gratis verzending, in 1 tot 3 werkdagen in huis.
+  Updated: 2026-08-11T16:29:41Z
+  Total Products: 14
 - [Outlet](https://kingsday1967.com/collections/outlet)
-  Updated: 2026-07-18T12:53:02Z
+  Updated: 2026-08-07T20:19:16Z
   Total Products: 10
 - [Korting](https://kingsday1967.com/collections/korting)
-  Updated: 2026-07-18T12:53:02Z
+  Updated: 2026-08-07T20:19:16Z
   Total Products: 24
-- [Nieuwe collectie](https://kingsday1967.com/collections/nieuw): Nieuwe Koningsdag collectie 2026 - nu met longsleeeves. Premium shirts, hoodies en longsleeves voor 27 april. Gratis verzending, snel geleverd.
-  Updated: 2026-06-19T11:10:00Z
+- [Nieuwe collectie](https://kingsday1967.com/collections/nieuw): Nieuwe Koningsdag collectie 2027 - nu met longsleeeves. Premium shirts, hoodies en longsleeves voor 27 april. Gratis verzending, snel geleverd.
+  Updated: 2026-08-07T16:55:35Z
   Total Products: 12
 - [Koningsdag Accessoires](https://kingsday1967.com/collections/accessoires): Koningsdag accessoires van Kingsday 1967. Schmink, zonnebrillen en meer voor een complete look op 27 april. Gratis verzending.
   Updated: 2026-06-13T11:06:43Z
@@ -2821,23 +2821,23 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
   Updated: 2026-06-07T00:53:36Z
   Total Products: 3
 - [Oranje Kleding](https://kingsday1967.com/collections/oranje-kleding): Oranje shirts en hoodies voor Koningsdag en voetbal. 100% katoen XS–3XL. Premium kwaliteit voor elk oranje-moment. Gratis verzending.
-  Updated: 2026-07-31T20:37:38Z
+  Updated: 2026-08-07T20:19:16Z
   Total Products: 28
-- [Koningsdag Shirts Dames](https://kingsday1967.com/collections/koningsdag-shirts-dames): Premium Koningsdag shirts voor dames. Biologisch katoen, vegan, regular fit XS–3XL. Draag oranje met stijl op 27 april. Gratis verzending.
-  Updated: 2026-07-18T12:57:29Z
+- [Koningsdag Shirts Dames](https://kingsday1967.com/collections/koningsdag-shirts-dames): Premium Koningsdag shirts voor dames. 100% katoen, vegan, regular fit XS–3XL. Draag oranje met stijl op 27 april. Gratis verzending.
+  Updated: 2026-08-07T20:19:16Z
   Total Products: 31
-- [Koningsdag Sweaters](https://kingsday1967.com/collections/koningsdag-sweaters): Premium Koningsdag sweaters en longsleeves van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending, op tijd voor 27 april.
-  Updated: 2026-06-07T13:54:04Z
+- [Koningsdag Sweaters](https://kingsday1967.com/collections/koningsdag-sweaters): Premium Koningsdag sweaters van Kingsday 1967. Exclusieve designs in oranje, zwart en wit. Maten XS–3XL. Gratis verzending, op tijd voor 27 april.
+  Updated: 2026-08-06T10:27:40Z
   Total Products: 5
-- [Koningsdag Longsleeves](https://kingsday1967.com/collections/koningsdag-longsleeves): De Kingsday 1967 longsleeve-collectie is gemaakt voor wie op 27 april niet wil kiezen tussen stijl en comfort. Een longsleeve zit precies goed: luchtig genoeg voor overdag, maar met net dat beetje extra body voor frisse ochtenden en lange avonden buiten. Geen dun festivalshirt dat na één keer dragen z’n vorm verliest, maar een stevig stuk dat je met overtuiging draagt van vrijmarkt tot laatste biertje. Binnen de collectie draait alles om herkenbare designs met karakter. De speelse energie van de King of Hearts met “Kingsday of Love Amsterdam”. De rauwe knipoog van de Toeter des Vaderlands. De ingetogen, cleane uitstraling van de Prestige. Of de krachtige presence van de Lion. Elk ontwerp staat op zichzelf en voelt doordacht, geen standaard oranje print die na één dag weer in de kast verdwijnt. De kracht van een longsleeve zit in de balans. Het draagt als een T-shirt, maar oogt volwassener en voelt direct kwalitatiever. Ideaal voor Koningsdag, waar het weer zelden meewerkt en je outfit de hele dag moet kloppen. Dit is geen tussenoplossing, maar een bewuste keuze. Verkrijgbaar in oranje, wit en zwart, van S tot en met XL. Gratis verzending en gewoon door de brievenbus. Gemaakt om vaker dan één dag gedragen te worden.
-  Updated: 2026-06-19T11:10:00Z
+- [Koningsdag Longsleeves](https://kingsday1967.com/collections/koningsdag-longsleeves): Premium koningsdag longsleeves in oranje, zwart en wit. Luchtig overdag, warm genoeg 's avonds. Gratis verzending in 1 tot 3 werkdagen.
+  Updated: 2026-08-11T17:51:38Z
   Total Products: 4
 
 ## Blogs
 
 - [Koningsdag Kleding](https://kingsday1967.com/blogs/koningsdag-kleding)
-  - [Koningsdag T-Shirt Heren 2026 - De Ultieme Koopgids | Kingsday 1967](https://kingsday1967.com/blogs/koningsdag-kleding/koningsdag-t-shirt-heren-2026-de-ultieme-koopgids): Koningsdag T-Shirt Heren 2026 - De Ultieme Koopgids | Kingsday 1967
-    Updated: 2026-03-21T16:42:38Z
+  - [Koningsdag T-Shirt Heren 2027 - De Ultieme Koopgids | Kingsday 1967](https://kingsday1967.com/blogs/koningsdag-kleding/koningsdag-t-shirt-heren-2027-de-ultieme-koopgids): Koningsdag T-Shirt Heren 2027 - De Ultieme Koopgids | Kingsday 1967
+    Updated: 2026-08-07T16:57:41Z
     Author: Bart Natics
     Tags: beste koningsdag shirt 2026, koningsdag outfit heren, koningsdag shirt heren, koningsdag t-shirt heren, koningsdag-gids
   - [Originele Koningsdag kleding zonder saai basic oranje](https://kingsday1967.com/blogs/koningsdag-kleding/originele-koningsdag-kleding): Originele Koningsdag kleding zonder saai basic oranje
