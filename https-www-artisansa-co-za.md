@@ -6,12 +6,12 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2022-06-17T06:47:05Z
 - Contact Email: artisanfurnituresa@gmail.com
-- Updated At: 2026-08-04T00:00:45.930Z
+- Updated At: 2026-08-12T00:00:46.152Z
 
 ## Products
 
 - [Hammock Swing Chair | Outdoor Garden Hanging – Artisan SA](https://www.artisansa.co.za/products/hammock-swing-chair): Shop the F95 hammock swing chair. Iron frame, cocoon nest pod, pillow set. Garden, patio or poolside. Grey or Red. Delivered nationwide in SA. Shop now.
-  Updated: 2026-07-28T09:57:27Z
+  Updated: 2026-08-11T08:12:57Z
   Vendor: Artisan Furniture
   Product Type: Outdoor Chairs
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/4_d146522e-c2fa-4daf-98f7-2adda0e87698.jpg?v=1778042908
     Price: R 3,329.00 ZAR
 - [Velvet Deluxe Couch | 2 & 3 Seater | Navy, Green & Grey | SA](https://www.artisansa.co.za/products/velvet-deluxe-couches): Shop the Velvet Deluxe Couch in SA. Plush velvet, gold legs, 2 & 3 seater. Navy Blue, Emerald Green & Grey. Delivered nationwide. From ZAR 9,360.
-  Updated: 2026-07-13T06:15:28Z
+  Updated: 2026-08-11T08:12:57Z
   Vendor: zhongli-furniture
   Product Type: Couch
   Availability: Available
@@ -113,13 +113,13 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/6j_2.jpg?v=1778042641
     Price: R 604.00 ZAR
 - [Ergonomic Gaming Chair with Footrest | CR-M2 – Artisan SA](https://www.artisansa.co.za/products/ergonomic-gaming-chair-cr-m2-footrest): Shop the CR-M2 ergonomic gaming chair. 180° recline, retractable footrest, lumbar support. 6 colours. Delivered nationwide in SA. Shop now at Artisan SA.
-  Updated: 2026-07-30T09:55:56Z
+  Updated: 2026-08-11T08:12:47Z
   Vendor: Zhongli Furniture
   Product Type: Gaming Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/d934afd7-6b7b-49bf-8922-5a73b723536c.png?v=1780389428
   - [Red](https://www.artisansa.co.za/products/ergonomic-gaming-chair-cr-m2-footrest?variant=43258447593691)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-M2-RED_20_4_59306dba-e356-4f39-8ef2-8f2923733193.jpg?v=1778042489
     Price: R 1,463.00 ZAR
   - [Blue](https://www.artisansa.co.za/products/ergonomic-gaming-chair-cr-m2-footrest?variant=43258447626459)
@@ -157,7 +157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/F09_16.jpg?v=1778042366
     Price: R 4,995.00 ZAR
 - [Glass Coffee Table CT-A08 | Dual-Tier Tempered Glass | South Africa](https://www.artisansa.co.za/products/glass-coffee-table-white-frame): Shop the CT-A08 dual-tier glass coffee table in SA. Tempered glass, MDF legs, 95x55x40cm. Black or White. Delivered nationwide. From ZAR 879.
-  Updated: 2026-07-30T09:55:55Z
+  Updated: 2026-08-11T08:12:45Z
   Vendor: Zhongli Furniture
   Product Type: Coffee Tables
   Availability: Available
@@ -171,7 +171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CT-A08_20_15.jpg?v=1764639496
     Price: R 879.00 ZAR
 - [4-Tier Ladder Shelf - Stylish Storage Solution | Artisansa](https://www.artisansa.co.za/products/4-tier-ladder-shelf): Discover the versatile 4-tier ladder shelf, perfect for any room, combining style and durability for your storage or display needs.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Artisan Furniture
   Product Type: Shelving
   Availability: Available
@@ -185,7 +185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SF-KJT41_20_1.jpg?v=1764642738
     Price: R 414.00 ZAR
 - [3-Tier Storage Cart - Durable & Space-Saving Solution](https://www.artisansa.co.za/products/3-tier-storage-cart): Discover the versatile 3-Tier Storage Cart, a durable and stylish solution for organizing your space with ease and efficiency.
-  Updated: 2026-07-30T09:56:01Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Zhongli Furniture
   Product Type: Shelving
   Availability: Available
@@ -206,7 +206,7 @@
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/TV-KJ03_20_3.jpg?v=1778041878
   Price: R 1,249.00 ZAR
 - [Rustic TV Stand TV-JY02 | 50" TV | Storage Cabinets | South Africa](https://www.artisansa.co.za/products/stapleford-rustic-tv-stand): Shop the Rustic TV-JY02 in SA. MDF, adjustable iron legs, fits 50" TV, 120x40x50cm, 2 open shelves + side cabinets. Delivered nationwide. ZAR 1,250.
-  Updated: 2026-07-30T09:56:15Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Artisan Furniture
   Product Type: Entertainment Centers & TV Stands
   Availability: Available
@@ -287,7 +287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/4_e737b1f8-6573-43aa-b2a0-1d2c6406b812.jpg?v=1778041477
     Price: R 3,600.00 ZAR
 - [Dakota Recliner Chair CR-2030 | Grey, Beige & Brown | South Africa](https://www.artisansa.co.za/products/dakota-recliner-armchair-cr-2030): Shop the Dakota Recliner Armchair in SA. PU leather, 150kg capacity, 5 colours. Delivered across South Africa. From ZAR 4,179.
-  Updated: 2026-07-30T09:55:41Z
+  Updated: 2026-08-10T08:52:58Z
   Vendor: Zhongli Furniture
   Product Type: Recliner Chair
   Availability: Available
@@ -297,19 +297,19 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_4_98b078fa-3469-4858-87cc-9dd5b6dc730d.jpg?v=1778041429
     Price: R 4,179.00 ZAR
   - [Brown](https://www.artisansa.co.za/products/dakota-recliner-armchair-cr-2030?variant=45038213562587)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_2.jpg?v=1778041420
     Price: R 4,179.00 ZAR
   - [Beige](https://www.artisansa.co.za/products/dakota-recliner-armchair-cr-2030?variant=46237382115547)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_5_4ccfa1f7-0a33-41e6-92be-beb58c868616.jpg?v=1778041434
     Price: R 4,179.00 ZAR
   - [Light Brown](https://www.artisansa.co.za/products/dakota-recliner-armchair-cr-2030?variant=47962644349147)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_1_d204fbc3-42c3-46dd-8f07-522fe25ae6df.jpg?v=1778041414
     Price: R 4,179.00 ZAR
   - [Black](https://www.artisansa.co.za/products/dakota-recliner-armchair-cr-2030?variant=47962644381915)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_3.jpg?v=1778041425
     Price: R 4,179.00 ZAR
 - [Rocking Recliner Chair R1056A-31 | Air Leather | South Africa](https://www.artisansa.co.za/products/rocking-recliner-chair): Shop the R1056A-31 Rocking Recliner in SA. Air leather, pocket coil, 2-stage recline, 150kg capacity. Black, Brown & Dark Grey. Delivered nationwide.
@@ -331,7 +331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/R1056A-31_20BLACK_20_9.jpg?v=1778041289
     Price: R 5,085.00 ZAR
 - [Lexi Massage Recliner CR-2032 | Adjustable Sofa | South Africa](https://www.artisansa.co.za/products/lexi-recliner-armchair-cr-2032): Shop the Lexi CR-2032 multi-functional adjustable massage sofa recliner in SA. Microfiber, 150kg capacity, 4 colours. Nationwide delivery from ZAR 3,985.
-  Updated: 2026-07-30T01:58:45Z
+  Updated: 2026-08-05T17:43:07Z
   Vendor: Artisan Furniture
   Product Type: Recliner Chair
   Availability: Available
@@ -353,7 +353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/3_14.jpg?v=1778041211
     Price: R 3,985.00 ZAR
 - [White & Gold TV Stand | Extends 1.4m–2m – Artisan SA](https://www.artisansa.co.za/products/white-black-bone-gold-adjustable-plasma-tv-stand): Shop the white and gold TV stand that extends 1.4m–2m. 2 drawers, gold legs, flatpack. Delivered nationwide in SA. Shop now at Artisan SA.
-  Updated: 2026-07-21T10:21:47Z
+  Updated: 2026-08-11T08:13:06Z
   Vendor: Artisan Furniture
   Product Type: Entertainment Centers & TV Stands
   Availability: Available
@@ -367,7 +367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_d171bda7-6ae1-4e26-9c03-c012b3b74f69.jpg?v=1778041157
     Price: R 1,275.00 ZAR
 - [Black & Gold Coffee Table CT-302 | 4 Drawers | South Africa](https://www.artisansa.co.za/products/black-and-gold-coffee-table-ct-302): Shop the CT-302 Black & Gold coffee table in SA. 4 drawers, 120x60x40cm, Super Wood & MDF. Delivered nationwide by Artisan Furniture. From ZAR 1,230.
-  Updated: 2026-07-30T09:55:56Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Zhongli Furniture
   Product Type: Coffee Tables
   Availability: Available
@@ -381,7 +381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CT-302_20_1.jpg?v=1778041091
     Price: R 1,230.00 ZAR
 - [Durian Coffee Table CT-218 | White & Black Storage Coffee Table SA](https://www.artisansa.co.za/products/durian-coffee-table): Shop the Durian CT-218 coffee table in South Africa. White & black, 1 drawer, 1 door, 120x60x43cm. Delivered nationwide. From ZAR 855.
-  Updated: 2026-07-28T09:57:17Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Zhongli Furniture
   Product Type: Coffee Tables
   Availability: Available
@@ -395,7 +395,7 @@
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CT-A19_20_1.png?v=1764661847
   Price: R 2,850.00 ZAR
 - [Massage Recliner Chair with Power Lift & Heat | ArtisanSA](https://www.artisansa.co.za/products/massage-recliner-chair-power-lift-heat): Upgrade your comfort with our premium massage recliner chair. Features electric power lift, heat therapy, and secure delivery across South Africa.
-  Updated: 2026-08-02T11:52:57Z
+  Updated: 2026-08-11T12:03:43Z
   Vendor: Zhongli Furniture
   Product Type: Recliner Chair
   Availability: Available
@@ -439,7 +439,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-001_20_13.jpg?v=1778040536
     Price: R 465.00 ZAR
 - [Della Velvet Bar Stool Set of 4 CR-BC028 | Retro Bar Chairs](https://www.artisansa.co.za/products/della-velvet-bar-stool): Set of 4 Della velvet bar stools with black steel legs. Retro-modern design, plush seating, 90kg capacity. 102cm height. Perfect for home bars and islands.
-  Updated: 2026-07-30T09:55:47Z
+  Updated: 2026-08-11T08:12:47Z
   Vendor: Zhongli Furniture
   Product Type: bar chair
   Availability: Available
@@ -449,7 +449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/5a_3_1.jpg?v=1778040361
     Price: R 1,888.00 ZAR
   - [Grey](https://www.artisansa.co.za/products/della-velvet-bar-stool?variant=43661166084315)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/5a_2.jpg?v=1778040358
     Price: R 1,888.00 ZAR
   - [Dark Blue](https://www.artisansa.co.za/products/della-velvet-bar-stool?variant=45037207879899)
@@ -457,29 +457,29 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/5a.jpg?v=1778040344
     Price: R 1,888.00 ZAR
   - [Black](https://www.artisansa.co.za/products/della-velvet-bar-stool?variant=45037225705691)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/5a_5.jpg?v=1778040346
     Price: R 1,888.00 ZAR
   - [Green](https://www.artisansa.co.za/products/della-velvet-bar-stool?variant=45037225738459)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/5a_4.jpg?v=1778040352
     Price: R 1,888.00 ZAR
 - [Full Motion TV Wall Mount TV-01 | 32"-55" | South Africa](https://www.artisansa.co.za/products/full-motion-wall-mount-bracket-tv-01): Shop the TV-01 Full Motion Wall Mount in SA. Fits 32"-55", 35kg capacity, ±15° tilt, matte black steel. Delivered nationwide by Artisan Furniture. ZAR 249.
-  Updated: 2026-08-01T09:09:28Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan Furniture
   Product Type: Entertainment Centers & TV Stands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/25.png?v=1778040116
   Price: R 249.00 ZAR
 - [TV Wall Mount TV-02 | 14"-42" Flat Screen | South Africa](https://www.artisansa.co.za/products/wall-mount-flat-screen-up-14-42-tv-02): Shop the TV-02 Wall Mount in SA. Fits 14"-42", 25kg capacity, VESA compatible, tool-free tilt, reinforced steel. Delivered nationwide. ZAR 150.
-  Updated: 2026-07-13T06:15:27Z
+  Updated: 2026-08-11T08:13:01Z
   Vendor: Artisan Furniture
   Product Type: Entertainment Centers & TV Stands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/24.png?v=1778040069
   Price: R 150.00 ZAR
 - [Low Back Leather Bar Stool - Stylish & Functional Design](https://www.artisansa.co.za/products/low-back-leather-bar-stool-2-in-1-box-cr-b02): Discover the Low Back Leather Bar Stool, with a sleek design and comfortable PU leather seat. Perfect for modern homes and commercial spaces.
-  Updated: 2026-07-13T09:23:12Z
+  Updated: 2026-08-11T10:24:24Z
   Vendor: Artisan Furniture
   Product Type: bar chair
   Availability: Available
@@ -490,7 +490,7 @@
     Price: R 1,050.00 ZAR
   - [Pale](https://www.artisansa.co.za/products/low-back-leather-bar-stool-2-in-1-box-cr-b02?variant=43881226174683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/17.jpg?v=1778039929
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/17.jpg?v=1786443846
     Price: R 1,050.00 ZAR
   - [Brown](https://www.artisansa.co.za/products/low-back-leather-bar-stool-2-in-1-box-cr-b02?variant=43881226207451)
     Availability: Available
@@ -501,7 +501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/11_450f63cd-305f-4f6d-9c70-82392e5ef8d2.jpg?v=1778039918
     Price: R 1,050.00 ZAR
 - [Cosmic Bar Stool Multipurpose 2-in-1 Space-Saver - CR-B04](https://www.artisansa.co.za/products/cosmic-bar-stool-2-in-1-box): Transform your area with the Cosmic Bar Stool. This modern, durable stool features a swivel design and leg rest for perfect comfort in any kitchen or bar.
-  Updated: 2026-07-29T01:52:49Z
+  Updated: 2026-08-11T10:24:08Z
   Vendor: Artisan Furniture
   Product Type: bar chair
   Availability: Available
@@ -519,7 +519,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/6_35471b60-3e28-4b68-b6c6-4314ceae0177.jpg?v=1778039825
     Price: R 1,050.00 ZAR
 - [Adjustable Bar Stool Set - 2 Stylish CR-B11 Stools for Home](https://www.artisansa.co.za/products/bar-stool-kitchen-chair-set-of-2): Discover our adjustable bar stool set of 2 - CR-B11. Sleek design, height adjustable, and 360-degree swivel for perfect comfort in any space.
-  Updated: 2026-07-29T01:52:51Z
+  Updated: 2026-08-11T10:30:25Z
   Vendor: Artisan Furniture
   Product Type: bar chair
   Availability: Available
@@ -555,13 +555,13 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/products/ZMC_1020_0014-1.jpg?v=1778039519
     Price: R 1,026.00 ZAR
 - [Iron Frame Nightstand with Drawer - Modern Side Table](https://www.artisansa.co.za/products/iron-frame-nightstand-with-drawer): Discover the Iron Frame Nightstand with Drawer, a stylish and functional addition to your home, featuring a durable design and convenient storage.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:12:57Z
   Vendor: Artisan Furniture
   Product Type: Nightstands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/b006e507-4ba3-4d4c-8d21-998f97bf1ae2.png?v=1780389395
   - [Black](https://www.artisansa.co.za/products/iron-frame-nightstand-with-drawer?variant=45120989003995)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/b006e507-4ba3-4d4c-8d21-998f97bf1ae2.png?v=1780389395
     Price: R 476.00 ZAR
   - [White](https://www.artisansa.co.za/products/iron-frame-nightstand-with-drawer?variant=45120989036763)
@@ -569,7 +569,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/Untitleddesign-2024-03-27T151508.870_d8f18539-c479-4df9-97c4-c4ae7fb8a967.png?v=1778039052
     Price: R 476.00 ZAR
 - [two tier square glass coffee table - Stylish Modern Design](https://www.artisansa.co.za/products/two-tier-square-glass-coffee-table): Discover the elegance of our two tier square glass coffee table, featuring a modern design with tempered glass and sturdy MDF legs in sleek white or black.
-  Updated: 2026-07-25T09:01:32Z
+  Updated: 2026-08-11T08:12:52Z
   Vendor: Artisan Furniture
   Product Type: Coffee Tables
   Availability: Available
@@ -583,14 +583,14 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/ETA08W_2_2af2bdc0-121b-4284-9fd6-2a1ac7abc6a9.jpg?v=1778039035
     Price: R 746.00 ZAR
 - [Mobile Kitchen Shelf 5 Tiers - Efficient Storage Solution](https://www.artisansa.co.za/products/mobile-kitchen-shelf-5-tiers-sf-110): Discover the mobile kitchen shelf 5 tiers SF-110, a sturdy, space-saving solution perfect for storage and showcasing decor in any room.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Artisan Furniture
   Product Type: Shelving
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_7455b2be-9adb-42fd-b720-3f3c255551a0.jpg?v=1778038870
   Price: R 433.00 ZAR
 - [3-5 Tier Rolling Cart Round Storage Trolley](https://www.artisansa.co.za/products/3-5-tier-rolling-cart-round-storage-trolley): Organize with our Round Storage Trolley. Available in 3, 4 & 5 tiers. Durable rolling design, perfect for kitchen or office. Fast delivery in South Africa.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Artisan Furniture
   Product Type: Storage
   Availability: Available
@@ -616,25 +616,25 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SF-105_20_4.jpg?v=1778038815
     Price: R 784.00 ZAR
 - [Mobile Kitchen Shelf | Multi-Tier Rack | ArtisanSA](https://www.artisansa.co.za/products/mobile-kitchen-shelf-sf101-storage): Organize your home effortlessly with our Mobile Kitchen Shelf. Available in 3, 4, and 5 tiers. Perfect for small spaces. Local SA stock. Shop ArtisanSA!
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T10:29:56Z
   Vendor: Artisan Furniture
   Product Type: Shelving
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/50ac2cc2-a174-47ea-92f3-6bfcf93767bd.png?v=1780389330
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/50ac2cc2-a174-47ea-92f3-6bfcf93767bd.png?v=1786439722
   - [5 Tier](https://www.artisansa.co.za/products/mobile-kitchen-shelf-sf101-storage?variant=45120337510619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_8c70e35b-066b-49ef-a83a-735f45678afa.jpg?v=1780389332
     Price: R 759.00 ZAR
   - [4 Tier](https://www.artisansa.co.za/products/mobile-kitchen-shelf-sf101-storage?variant=45120337477851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/50ac2cc2-a174-47ea-92f3-6bfcf93767bd.png?v=1780389330
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/50ac2cc2-a174-47ea-92f3-6bfcf93767bd.png?v=1786439722
     Price: R 655.00 ZAR
   - [3 Tier](https://www.artisansa.co.za/products/mobile-kitchen-shelf-sf101-storage?variant=45120337445083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_5_2f9838a9-ebc7-428b-a1ec-eb8994a13835.jpg?v=1780389354
     Price: R 598.00 ZAR
 - [4 Tier Cubic Storage Cart SF-106 | Premium Furniture - Artisan SA](https://www.artisansa.co.za/products/4-tier-cubic-storage-cart-sf-106): Discover the 4 Tier Cubic Storage Cart SF-106 at Artisan SA. Elevate your space with our premium design and high-quality materials. Shop now for fast shipping in SA.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:13:06Z
   Vendor: Artisan Furniture
   Product Type: Shelving
   Availability: Available
@@ -647,7 +647,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/Untitleddesign-2024-03-27T143327.622.png?v=1778038633
     Price: R 604.00 ZAR
 - [modern teak computer desk - Stylish & Functional Workspace](https://www.artisansa.co.za/products/modern-teak-computer-work-desk-sd-s03): Transform your workspace with a modern teak computer desk that offers spacious storage and a stylish design perfect for productivity and comfort.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan Furniture
   Product Type: Office Desk
   Availability: Available
@@ -657,7 +657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/e6601101-441a-4e92-8bfc-2b63535c95b5.png?v=1780389319
     Price: R 708.00 ZAR
   - [Black](https://www.artisansa.co.za/products/modern-teak-computer-work-desk-sd-s03?variant=44195228975323)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SD-S03_20_20.jpg?v=1764735964
     Price: R 708.00 ZAR
   - [Brown](https://www.artisansa.co.za/products/modern-teak-computer-work-desk-sd-s03?variant=48015201992923)
@@ -665,7 +665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SD-S03_1_1.png?v=1778038486
     Price: R 708.00 ZAR
 - [Teak Computer Desk with Shelves | Artisan SA](https://www.artisansa.co.za/products/modern-teak-computer-desk-with-top-shelfing): Upgrade your home office with our Modern Teak Computer Desk featuring top shelving. Enjoy durable materials and ample storage space. Shop at Artisan SA.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:12:58Z
   Vendor: Artisan Furniture
   Product Type: Office Desk
   Availability: Available
@@ -675,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SD-S02_20_4.jpg?v=1778038351
     Price: R 689.00 ZAR
   - [Black](https://www.artisansa.co.za/products/modern-teak-computer-desk-with-top-shelfing?variant=44195242475739)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SD-S02_20_9.jpg?v=1778038356
     Price: R 689.00 ZAR
   - [Berlin Rustic](https://www.artisansa.co.za/products/modern-teak-computer-desk-with-top-shelfing?variant=48015223685339)
@@ -683,7 +683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SD-S02_20_13.jpg?v=1778038344
     Price: R 689.00 ZAR
 - [Portable Teak Wood Computer Desk SD-S01](https://www.artisansa.co.za/products/portable-teak-wood-computer-desk): Upgrade your workspace with our portable teak wood computer desk. Features a durable wood top, sturdy steel frame, and space-saving design. Shop Artisansa!
-  Updated: 2026-08-03T10:02:17Z
+  Updated: 2026-08-11T08:12:57Z
   Vendor: Artisan Furniture
   Product Type: Office Desk
   Availability: Available
@@ -700,22 +700,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SD-S01-3_4.jpg?v=1778038204
     Price: R 651.00 ZAR
-- [Foldable Teak Wood Computer Desk - Space-Saving Elegance](https://www.artisansa.co.za/products/foldable-teak-wood-computer-desk-sd-2086): Shop the Foldable Teak Wood Computer Desk for a stylish, portable workspace. Its sturdy design and easy setup make it perfect for any office.
-  Updated: 2026-07-30T09:56:01Z
-  Vendor: Artisan Furniture
-  Product Type: Office Desk
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SD-2086_20_1.jpg?v=1764741680
-  - [Teak](https://www.artisansa.co.za/products/foldable-teak-wood-computer-desk-sd-2086?variant=44195478175963)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SD-2086_20_1.jpg?v=1764741680
-    Price: R 690.00 ZAR
-  - [Black](https://www.artisansa.co.za/products/foldable-teak-wood-computer-desk-sd-2086?variant=44195478208731)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SD-2086_20_4.jpg?v=1764741680
-    Price: R 690.00 ZAR
 - [Scandinavian Kitchen Bar Chairs Set of 4](https://www.artisansa.co.za/products/scandinavian-bar-kitchen-chair-4-in-1-set): Elevate your space with our modern Scandinavian kitchen bar chairs. This set of 4 features durable seats, wood-effect legs, and iron footrests. Order today!
-  Updated: 2026-07-30T09:55:52Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Artisan SA
   Product Type: bar chair
   Availability: Available
@@ -751,7 +737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/HL-1623_20_24.jpg?v=1778037998
     Price: R 600.00 ZAR
 - [collapsible storage shelf – Revamp Your Space Efficiently](https://www.artisansa.co.za/products/collapsible-storage-shelf): Discover our collapsible storage shelf for your bathroom or bedroom. Easy to store, fits perfectly in any corner for a tidier space!
-  Updated: 2026-07-28T09:57:28Z
+  Updated: 2026-08-11T08:12:57Z
   Vendor: Artisan Furniture
   Product Type: Shelving
   Availability: Available
@@ -769,7 +755,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/HL-1673_20_16.jpg?v=1764744675
     Price: R 585.00 ZAR
 - [Artist Office Chair 5 chairs BX-002×5 | Premium Furniture - Artisan SA](https://www.artisansa.co.za/products/artist-office-chair-5-chairs): Discover the Artist Office Chair 5 chairs BX-002×5 at Artisan SA. Elevate your space with our premium design and high-quality materials. Shop now for fast shipping in SA.
-  Updated: 2026-07-30T09:55:52Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Artisan Furniture
   Product Type: Office Chairs
   Availability: Available
@@ -791,7 +777,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-BX001_20_14.jpg?v=1778037828
     Price: R 3,500.00 ZAR
   - [Red](https://www.artisansa.co.za/products/artist-office-chair-5-chairs?variant=44322938126555)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-BX001_20_11.jpg?v=1778037819
     Price: R 3,500.00 ZAR
   - [Light Blue](https://www.artisansa.co.za/products/artist-office-chair-5-chairs?variant=44322938159323)
@@ -819,11 +805,11 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-BX001_20_3.jpg?v=1778037851
     Price: R 3,500.00 ZAR
   - [Pink](https://www.artisansa.co.za/products/artist-office-chair-5-chairs?variant=48015404466395)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-BX001_20_9.jpg?v=1778037869
     Price: R 3,500.00 ZAR
   - [Blue](https://www.artisansa.co.za/products/artist-office-chair-5-chairs?variant=48015406334171)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-BX001_20_16.jpg?v=1778037837
     Price: R 3,500.00 ZAR
 - [Marble Coffee Table with Storage SA | Artisan SA](https://www.artisansa.co.za/products/marble-storage-coffee-table): Marble-top coffee table with hidden storage. Flatpack, tool-free assembly. Modern lounge design. Shop now at Artisan SA.
@@ -841,7 +827,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CT-288-A_20_1.jpg?v=1778037608
     Price: R 855.00 ZAR
 - [Tiered Shoe Rack Stand Organizer KJZ3192 (3-9 Layers)](https://www.artisansa.co.za/products/tiered-shoe-rack-stand-organizer-kjz3192): Shop the Tiered Shoe Rack Stand KJZ3192. Modular 3-9 tier design, 5kg load per shelf, and waterproof material. Perfect for SA homes. Fast shipping. Buy now!
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan Furniture
   Product Type: Shelving
   Availability: Available
@@ -875,7 +861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/KJZ3192_20_13.jpg?v=1764749811
     Price: R 180.00 ZAR
 - [3-Tier Metal Plant Stand | Indoor & Outdoor Flower Shelf](https://www.artisansa.co.za/products/3-tier-metal-plant-stand-indoor-outdoor): Display your plants with our 3-tier metal plant stand. Weather-resistant, easy flatpack assembly, perfect for indoor or outdoor use. Shop at Artisansa.
-  Updated: 2026-07-28T12:19:41Z
+  Updated: 2026-08-06T09:08:32Z
   Vendor: Artisan Furniture
   Product Type: Storage
   Availability: Available
@@ -914,7 +900,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/ZMC_1020_0020-1.jpg?v=1778036931
     Price: R 864.00 ZAR
 - [Nesting Coffee Table Set Round 2 Piece | Artisan SA](https://www.artisansa.co.za/products/nesting-coffee-table): Round nesting coffee table set with 70 & 50 cm diameter tables. Melamine top, metal frame, child-safe edges. Fast SA delivery. Shop now at Artisan SA.
-  Updated: 2026-07-30T09:55:58Z
+  Updated: 2026-08-11T08:12:47Z
   Vendor: Artisan SA
   Product Type: Coffee Tables
   Availability: Available
@@ -944,7 +930,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CT-002_20_4.jpg?v=1764752804
     Price: R 739.00 ZAR
 - [2 Tier Side Coffee Table CT-015](https://www.artisansa.co.za/products/two-tier-side-coffee-table): Two-tier side coffee table CT-015 by Artisansa. Metal frame with removable reversible trays. Ideal for living room or bedroom. Shop online in South Africa.
-  Updated: 2026-07-30T09:55:55Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Artisan SA
   Product Type: Coffee Tables
   Availability: Available
@@ -1028,8 +1014,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CT-A1819_20_2.jpg?v=1764914308
   Price: R 2,850.00 ZAR
+- [Extendable TV Stand and Media Console with Storage | Artisan SA](https://www.artisansa.co.za/products/extendable-tv-stand-and-media-console-with-storage): Extendable TV stand and media console adjustable from 1.4m to 2.2m. 2 drawers, 1 door cabinet, open shelf, melamine board. Black. Fast SA delivery. Artisan SA.
+  Updated: 2026-08-11T06:50:11Z
+  Vendor: Artisan SA
+  Product Type: Entertainment Centers & TV Stands
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/TV-218_20_3.jpg?v=1764827582
+  Price: R 930.00 ZAR
 - [Electric Power Lift Recliner in Chenille Fabric | ArtisanSA](https://www.artisansa.co.za/products/electric-power-lift-recliner-chair-massage-kj-8819): Relax in our soft chenille Electric Power Lift Recliner. Features 8-point massage, heating, and full 180° flat recline. Local SA stock. Shop ArtisanSA!
-  Updated: 2026-08-01T12:05:42Z
+  Updated: 2026-08-11T15:26:16Z
   Vendor: Artisan SA
   Product Type: Recliner Chair
   Availability: Available
@@ -1055,7 +1048,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/KJ-8819_20_8.jpg?v=1778036386
     Price: R 5,852.00 ZAR
   - [Grey](https://www.artisansa.co.za/products/electric-power-lift-recliner-chair-massage-kj-8819?variant=45598654595291)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/KJ-8819_20_1.jpg?v=1778036406
     Price: R 5,852.00 ZAR
   - [Black](https://www.artisansa.co.za/products/electric-power-lift-recliner-chair-massage-kj-8819?variant=48061526212827)
@@ -1063,7 +1056,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/KJ-8819_20_34.jpg?v=1778036296
     Price: R 5,852.00 ZAR
 - [Swivel Rocker Glider Couch with Phone Holder - Modern Luxury](https://www.artisansa.co.za/products/swivel-rocker-glider-couch-with-phone-holder-cr-kj2026): Transform your space with the swivel rocker glider couch with phone holder. Enjoy rotating comfort and convenience in modern style.
-  Updated: 2026-07-13T06:20:04Z
+  Updated: 2026-08-11T10:11:26Z
   Vendor: Artisan Furniture
   Product Type: Couch
   Availability: Available
@@ -1085,21 +1078,21 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-KJ2026_20_13.jpg?v=1778036095
     Price: R 6,525.00 ZAR
 - [twin-over-twin metal bunk bed: Space-Saving and Durable](https://www.artisansa.co.za/products/twin-over-twin-metal-bunk-bed-bd-c03): Discover the twin-over-twin metal bunk bed, perfect for maximizing space while ensuring comfort and safety for two sleepers.
-  Updated: 2026-07-30T09:55:41Z
+  Updated: 2026-08-11T08:12:26Z
   Vendor: Artisan Furniture
   Product Type: Bunk Bed
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/c7ccef2b-197e-4087-ba81-d9b647b7bb1e.png?v=1780389296
   Price: R 1,789.00 ZAR
 - [Triple Bunk Bed Metal | 3-Sleeper Frame – Artisan SA](https://www.artisansa.co.za/products/triple-bunk-bed-metal-bd-c04): Shop the metal triple bunk bed. 150kg lower, 100kg upper capacity, dual ladders, anti-rust frame. Kids bedroom or guest room. Shop now at Artisan SA.
-  Updated: 2026-07-30T09:55:46Z
+  Updated: 2026-08-11T08:12:34Z
   Vendor: Artisan Furniture
   Product Type: Bunk Bed
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/front-product-shot.png?v=1785376620
   Price: R 2,939.00 ZAR
 - [Retractable Telescopic Foot Stool KJ-01 – Folding Stool](https://www.artisansa.co.za/products/retractable-telescopic-foot-stool-kj-01): Retractable telescopic foot stool KJ-01 by Artisansa. Colourful folding stool for home, portable and space-saving. Shop online in South Africa.
-  Updated: 2026-07-30T09:56:02Z
+  Updated: 2026-08-11T08:12:53Z
   Vendor: Artisan Furniture
   Product Type: Outdoor Chairs
   Availability: Available
@@ -1117,7 +1110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/KJ-01_20_19.jpg?v=1778035905
     Price: R 124.00 ZAR
 - [Multipurpose Computer Desk Combo for Work and Study](https://www.artisansa.co.za/products/work-study-combo-bx002-kjt2703): Discover the perfect Multipurpose Computer Desk Combo, featuring a spacious 150cm workspace and a comfortable ergonomic chair for all your work and study needs.
-  Updated: 2026-07-30T09:55:57Z
+  Updated: 2026-08-11T08:12:43Z
   Vendor: Artisan Furniture
   Product Type: Computer Desk
   Availability: Available
@@ -1165,7 +1158,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/C2.jpg?v=1778035691
     Price: R 6,075.00 ZAR
 - [Zero Gravity Recliner Chairs Set of 2 BSC-012 - ArtisanSA](https://www.artisansa.co.za/products/zero-gravity-recliner-chairs-set-of-2-bsc-012): Shop our Zero Gravity Recliner Chairs Set of 2. Supports 150kg, 160° recline, and includes utility trays. Fully assembled. Fast SA shipping. Buy now!
-  Updated: 2026-07-28T09:57:06Z
+  Updated: 2026-08-11T08:12:38Z
   Vendor: Artisan Furniture
   Product Type: Outdoor Chairs
   Availability: Available
@@ -1175,11 +1168,11 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/a2_ed2f8076-3b92-498b-b776-d8d3bfe59728.jpg?v=1778035485
     Price: R 1,327.00 ZAR
   - [Brown](https://www.artisansa.co.za/products/zero-gravity-recliner-chairs-set-of-2-bsc-012?variant=45912666112219)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/3_04a70b3c-f347-404a-8fd6-2ca450322df5.jpg?v=1778035497
     Price: R 1,327.00 ZAR
   - [Black](https://www.artisansa.co.za/products/zero-gravity-recliner-chairs-set-of-2-bsc-012?variant=45912666144987)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/ff.jpg?v=1778035480
     Price: R 1,327.00 ZAR
   - [Red](https://www.artisansa.co.za/products/zero-gravity-recliner-chairs-set-of-2-bsc-012?variant=45912666177755)
@@ -1187,24 +1180,17 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/h2_5b2b65be-0d65-4314-a6ff-a1e22150b3d5.jpg?v=1778035526
     Price: R 1,327.00 ZAR
   - [Green](https://www.artisansa.co.za/products/zero-gravity-recliner-chairs-set-of-2-bsc-012?variant=45912666210523)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/s1.jpg?v=1778035554
     Price: R 1,327.00 ZAR
   - [Blue](https://www.artisansa.co.za/products/zero-gravity-recliner-chairs-set-of-2-bsc-012?variant=45912666243291)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/l3.jpg?v=1778035546
     Price: R 1,327.00 ZAR
   - [Beige](https://www.artisansa.co.za/products/zero-gravity-recliner-chairs-set-of-2-bsc-012?variant=45912666276059)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/z4.jpg?v=1778035600
     Price: R 1,327.00 ZAR
-- [Portable Bluetooth Party Speaker - SP-816 with Lights & TWS](https://www.artisansa.co.za/products/tws-wireless-bluetooth-speaker-portable-party-speaker-816): Experience the ultimate party with the portable bluetooth party speaker SP-816! Enjoy vibrant lights and TWS pairing for an unforgettable atmosphere.
-  Updated: 2026-07-23T10:10:28Z
-  Vendor: Artisan Furniture
-  Product Type: Bluetooth audio
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_e74c23ee-664b-427a-93da-d97014916382.jpg?v=1778035420
-  Price: R 378.00 ZAR
 - [TWS Wireless Bluetooth Speaker - SP-818 with Microphone](https://www.artisansa.co.za/products/tws-wireless-bluetooth-speaker-with-microphone-818): Discover the TWS wireless bluetooth speaker for outdoor fun. With Bluetooth 5.0, connect easily and enjoy high-quality sound anywhere!
   Updated: 2026-07-13T06:20:04Z
   Vendor: Artisan Furniture
@@ -1227,35 +1213,28 @@
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/4_43c34b55-2e7a-4e5e-bacf-9955d6b4c184.jpg?v=1778035261
   Price: R 3,554.00 ZAR
 - [Space-Saving Folding Office Desk: Efficient Work Solutions](https://www.artisansa.co.za/products/modern-office-desk-with-top-shelfing-sd-s06): Discover the ultimate space-saving folding office desk that sets up in seconds, ideal for small apartments and versatile enough for any workspace.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan Furniture
   Product Type: Computer Desk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_0088c04d-a79c-413d-aba9-414fabcbb99b.jpg?v=1778034937
   Price: R 708.00 ZAR
 - [Ergonomic Executive Office Chair BX124 | ArtisanSA](https://www.artisansa.co.za/products/ergonomic-executive-office-chair-bx124): Work in comfort with the BX124 Ergonomic Executive Office Chair. Features premium PU leather, lumbar support, and a 200kg capacity. Shop ArtisanSA today!
-  Updated: 2026-07-31T11:47:59Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Artisan Furniture
   Product Type: Office Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/20240320101459.jpg?v=1778034780
   - [Black](https://www.artisansa.co.za/products/ergonomic-executive-office-chair-bx124?variant=48020526727387)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_1993e5c2-6931-4f27-980c-242b9599390a.jpg?v=1778034794
     Price: R 1,395.00 ZAR
   - [Brown](https://www.artisansa.co.za/products/ergonomic-executive-office-chair-bx124?variant=48020526760155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/BX124_20_4.jpg?v=1764837016
     Price: R 1,395.00 ZAR
-- [Bar Table Stool Set - Stylish Dining Room Solution BT-02](https://www.artisansa.co.za/products/bar-table-stool-set-home-dining-room-table-chairs-bt-02): Enhance your dining space with our bar table stool set. Made with premium materials for durability and style, perfect for home dining rooms.
-  Updated: 2026-07-30T09:56:07Z
-  Vendor: Artisan SA
-  Product Type: dining table
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/3_638925d0-676d-419f-8e31-1ba92eb3924e.jpg?v=1778034628
-  Price: R 1,809.00 ZAR
 - [Modern 150cm Large Home Office Desk | Sturdy Workstation](https://www.artisansa.co.za/products/modern-150cm-large-home-office-desk): Upgrade your workspace with our modern 150cm home office desk. Features a sturdy metal frame, large desktop for dual monitors, and easy flatpack setup.
-  Updated: 2026-07-30T01:56:59Z
+  Updated: 2026-08-04T11:15:10Z
   Vendor: Artisan Furniture
   Product Type: Office Desk
   Availability: Available
@@ -1269,28 +1248,56 @@
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CDR-02_20_1.jpg?v=1764837329
   Price: R 290.00 ZAR
 - [Ergonomic Gaming Chair with Mesh Back - Ultimate Comfort](https://www.artisansa.co.za/products/ergonomic-office-chair-gamer-chair-home-recliner-gaming-chair-mesh-back-black): Upgrade your setup with our Ergonomic Gaming Chair with Mesh Back. Enjoy optimal comfort and support for long hours of gaming or working.
-  Updated: 2026-07-23T10:10:17Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Zhongli Furniture
   Product Type: Office Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/10001.jpg?v=1778034410
   Price: R 1,197.00 ZAR
+- [PU leather sleeper couch bed - Stylish Sofa Bed SA-858](https://www.artisansa.co.za/products/sleeper-couch-pu-leather-sofa-bed-loveseat-matte-black): Discover the ultimate PU leather sleeper couch bed. This stylish, multifunctional sofa bed is perfect for small spaces and offers comfort and elegance.
+  Updated: 2026-08-11T08:12:56Z
+  Vendor: Artisan SA
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SA-858_20_13.jpg?v=1764838208
+  - [Black](https://www.artisansa.co.za/products/sleeper-couch-pu-leather-sofa-bed-loveseat-matte-black?variant=46353400692955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SA-858_20_2.jpg?v=1778034386
+    Price: R 3,021.00 ZAR
+  - [Brown](https://www.artisansa.co.za/products/sleeper-couch-pu-leather-sofa-bed-loveseat-matte-black?variant=48020654096603)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SA-858_20_3.jpg?v=1778034389
+    Price: R 3,021.00 ZAR
+- [ergonomic office chair | Adjustable Mesh Desk Chair | Artisan SA](https://www.artisansa.co.za/products/ergonomic-office-chair-cr-w1): Shop the ergonomic office chair with adjustable headrest, breathable mesh, and 180kg capacity, ideal for long work sessions.
+  Updated: 2026-08-11T08:12:46Z
+  Vendor: Artisan SA
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-W01_20_4.jpg?v=1778034198
+  - [Gray](https://www.artisansa.co.za/products/ergonomic-office-chair-cr-w1?variant=48025200918747)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-W01_20_4.jpg?v=1778034198
+    Price: R 1,292.00 ZAR
+  - [Black](https://www.artisansa.co.za/products/ergonomic-office-chair-cr-w1?variant=48025200951515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/CR-W01_20_1.jpg?v=1778034226
+    Price: R 1,292.00 ZAR
 - [Computer Desk Student Table - Stylish & Space-Saving Design](https://www.artisansa.co.za/products/computer-desk-student-table-sd-24-grey-wood): Discover the Computer Desk Student Table, featuring 6 open shelves for easy access and a tidy workspace. Perfect for students and home offices.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan SA
   Product Type: Office Desk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_2f393b7f-bfba-4166-b0c8-411f18f3aacb.jpg?v=1778034055
   Price: R 1,069.00 ZAR
 - [4 Drawers Storage Cabinet OT-120 | Premium Furniture - Artisan SA](https://www.artisansa.co.za/products/4-drawers-storage-cabinet-ot-120): Discover the 4 Drawers Storage Cabinet OT-120 at Artisan SA. Elevate your space with our premium design and high-quality materials. Shop now for fast shipping in SA.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T09:54:04Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_34de7724-982b-430f-9a9f-d8b7cbcdca79.jpg?v=1778033911
   Price: R 784.00 ZAR
 - [L shaped gaming desk - Elegant and Functional](https://www.artisansa.co.za/products/computer-desk-work-gaming-desk-sd-23-black): This L shaped gaming desk offers ample space and organization for gaming and work. Ideal for enhancing productivity and comfort.
-  Updated: 2026-07-30T09:56:12Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
@@ -1303,85 +1310,78 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_d197ca18-a8c8-4d3e-a97a-900f69a0f92e.jpg?v=1778033709
   Price: R 1,107.00 ZAR
-- [Compact Computer Desk for Students - Optimize Small Spaces](https://www.artisansa.co.za/products/computer-desk-student-table-sd-12-berlin-rustic): Shop a stylish and practical compact computer desk for students. Perfect for small spaces, sturdy, chic, and easy to assemble.
-  Updated: 2026-07-30T09:56:06Z
-  Vendor: Artisan SA
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_47c8bdc6-2eda-43df-912c-bf8ad0931a01.jpg?v=1778033650
-  Price: R 594.00 ZAR
 - [Coffee Table Sofa Side Table - Modern Industrial Elegance](https://www.artisansa.co.za/products/coffee-table-sofa-side-table-ct-112-black): Discover the perfect Coffee Table Sofa Side Table with a sleek black design and modern industrial style, ideal for any living space.
-  Updated: 2026-07-30T09:55:55Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_62918217-fbc1-4066-8316-f0080cabd4e1.jpg?v=1778033584
   Price: R 870.00 ZAR
 - [Rustic TV Stand 160cm with Fabric Drawers | Artisan SA](https://www.artisansa.co.za/products/tv-stand-media-console-with-storage-shelves-tv-17-berlin-rustic): Rustic TV stand 160cm wide with 2 fabric drawers & open shelves. MDF + metal frame, adjustable feet. Supports large TVs. Fast SA delivery. Artisan SA.
-  Updated: 2026-07-30T09:56:15Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Artisan SA
   Product Type: TV Stands & Media Consoles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_e384947e-998e-4859-b49a-dea45c03b918.jpg?v=1778033516
   Price: R 1,039.00 ZAR
 - [Coffee Table Side Table - Stylish Rustic Industrial Design](https://www.artisansa.co.za/products/coffee-table-side-table-ct-113-berlin-rustic): Elevate your space with our Coffee Table Side Table CT-113 Berlin, a stylish mix of rustic and industrial design perfect for any room.
-  Updated: 2026-07-30T09:55:55Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_e7ee6abd-446e-4550-afb2-dadcc3e474b3.jpg?v=1778033396
   Price: R 879.00 ZAR
 - [Industrial Rustic Coffee Table with 2-Tier Storage](https://www.artisansa.co.za/products/industrial-rustic-coffee-table): Upgrade your space with our industrial rustic coffee table. Features a 2-tier storage shelf, sturdy X-shaped metal frame, and wood finish. Fast SA delivery!
-  Updated: 2026-07-28T09:57:27Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Artisan SA
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/4_9f517254-a30f-4fcf-8167-599e7d4435d7.jpg?v=1778033314
   Price: R 1,022.00 ZAR
 - [LED Nightstand with Drawers | USB Light & Storage | Artisan SA](https://www.artisansa.co.za/products/nightstand-led-side-table-2-drawers-bsd-07-black): LED nightstand with 2 drawers, USB-powered LED strip with 3 colour modes & open shelves. MDF, 40.5×35×60cm. Fast SA delivery. Shop now at Artisan SA.
-  Updated: 2026-07-30T09:55:41Z
+  Updated: 2026-08-11T08:12:36Z
   Vendor: Artisan SA
   Product Type: Nightstands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/BSD-07_20_3.jpg?v=1778033231
   Price: R 784.00 ZAR
 - [LED Nightstand Bedside Table with Smart Lighting & Storage](https://www.artisansa.co.za/products/nightstand-side-end-table-led-bedside-table-bsd-06-black): Modern LED nightstand bedside table with app-controlled color-changing lights. 2 drawers, crystal handles, perfect for organization.
-  Updated: 2026-07-30T09:55:40Z
+  Updated: 2026-08-11T08:12:36Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/11.png?v=1778033153
   Price: R 822.00 ZAR
 - [Nesting Coffee Table Set with Drawer - 2-Piece Glass & Stone Tables](https://www.artisansa.co.za/products/nesting-coffee-table-set-2-side-tables-ct-011): Elegant 2-piece nesting coffee table set with storage drawer. Tempered glass, sintered stone, metal frame. Space-saving design, 100kg capacity. 70cm & 60cm.
-  Updated: 2026-07-30T09:55:55Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/6_d96f30a7-7d8a-4432-8752-5e35eae06ffb.jpg?v=1778033127
   Price: R 1,653.00 ZAR
 - [Computer Desk with Monitor Stand & Storage Shelves | Artisan SA](https://www.artisansa.co.za/products/computer-desk-with-monitor-stand-storage-shelves): Computer desk with monitor stand, reversible storage shelves & adjustable feet. 120×50×75cm. MDF + metal frame. Fast SA delivery. Shop now at Artisan SA.
-  Updated: 2026-07-29T15:05:57Z
+  Updated: 2026-08-11T09:50:18Z
   Vendor: Artisan SA
   Product Type: Computer Desks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_042ce00b-a411-4fa9-bfc6-100f0dd022e9.jpg?v=1778032867
   Price: R 993.00 ZAR
 - [Coffee Table with Drawers and Storage CT-110 - Artisansa](https://www.artisansa.co.za/products/coffee-table-with-drawers-and-storage-ct-110): Coffee Table with Drawers and Storage CT-110: Features 2 drawers, 2-tier shelf, and rustic metal frame. Size: L100xW55xH45cm. Premium quality by Artisansa.
-  Updated: 2026-07-30T09:55:55Z
+  Updated: 2026-08-11T08:12:46Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/4_fb899833-6cf7-4d09-b69b-ea33654cf006.jpg?v=1778032791
   Price: R 1,259.00 ZAR
 - [Dressing Table with Mirror and Stool Set DR-15 - ArtisanSA](https://www.artisansa.co.za/products/dressing-table-with-mirror-stool-set-vanity-desk-dr-15-white): Shop our Dressing Table with Mirror DR-15. Featuring a sliding mirror, hidden storage, and a comfy stool. Perfect for SA bedrooms. Fast shipping. Buy now!
-  Updated: 2026-08-02T22:51:32Z
+  Updated: 2026-08-11T11:19:57Z
   Vendor: Artisan SA
   Product Type: Dressing Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/3be4522c-6f03-4723-93f1-0eed66416d6b.png?v=1780389275
   Price: R 1,470.00 ZAR
 - [Coffee Table Sofa Side Table - Luxury Design & Style](https://www.artisansa.co.za/products/coffee-table-sofa-side-table-ct-ch07): Discover the Coffee Table Sofa Side Table CT-CH07, a luxury piece with a marble pattern design that enhances your living space beautifully.
-  Updated: 2026-07-30T09:55:56Z
+  Updated: 2026-08-11T09:49:24Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
@@ -1391,7 +1391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/b2_71392d55-2d05-4dee-8e15-86a06b577680.jpg?v=1778032498
     Price: R 727.00 ZAR
   - [Grey](https://www.artisansa.co.za/products/coffee-table-sofa-side-table-ct-ch07?variant=48023817388251)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_f040150c-ac79-423c-bf55-d5e16e2d9742.jpg?v=1778032520
     Price: R 727.00 ZAR
   - [Brown](https://www.artisansa.co.za/products/coffee-table-sofa-side-table-ct-ch07?variant=48023817421019)
@@ -1403,7 +1403,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/a1_f07ea514-ca64-43fc-b8b6-f930a76786e7.jpg?v=1778032511
     Price: R 727.00 ZAR
 - [Bookcase Industrial Storage Rack Shelf SF-01](https://www.artisansa.co.za/products/bookcase-industrial-storage-rack-shelf-sf-01): Great Addition to Your Home: The staggered open back design with different height shelf . Allows you to show off a number of different collectibles and small art pieces to really bring the area to life. Industrial Chic Bookshelf: The vintage book case is simple and classic. You can put the rack in the living room, bedroom, reading nook, study room and office, compatibles well with almost any style room decorations. Thoughtful and Considerate: This storage shelf comes with side bars to prevent items from falling off. Adjustable feet keep the bookcase balanced even on slightly uneven floors. Sturdy Step Shelving: Crafted of a sturdy metal frame combined with high-grade rustic particle board which guarantees durability and stability. Provide ample spaces to showcase or storage your decor books and plants. Great as gift for your family, relatives, friends and etc. Easy to Clean and Assemble: All required accessories and instructions are in the package. It is easy to finish the assembly under the guidance of instructions. Easy to clean the shelf with a soft cloth. Specifications: - Size: L74 x W30 x H155 cm - Material: Sturdy metal frame and High-grade rustic particle board What's in the box1 x Storage shelvesOther components for assembly
-  Updated: 2026-07-29T01:55:42Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
@@ -1417,14 +1417,14 @@
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/4_049d71e1-647d-4542-b8ad-a77ce1b1f44d.jpg?v=1778032366
   Price: R 1,219.00 ZAR
 - [4-Tier Shelf Ladder Bookshelf with Drawer](https://www.artisansa.co.za/products/4-tier-shelf-ladder-bookshelf-with-drawer): Upgrade your space with our 4-tier ladder bookshelf with drawer. Featuring a hidden fabric drawer and sturdy industrial design. Shop now at Artisansa!
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:12:57Z
   Vendor: Artisan SA
   Product Type: Storage Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_22ca09d0-7a4a-434b-b1fb-ffd9f973ce64.jpg?v=1778032297
   Price: R 746.00 ZAR
 - [Modern 3-Drawer Side Table BST-01 | ArtisanSA](https://www.artisansa.co.za/products/modern-3-drawer-side-table-bst-01): Upgrade your space with this elegant Modern 3-Drawer Side Table. Features gold hardware, smooth drawers, and local SA stock. Shop ArtisanSA today!
-  Updated: 2026-07-28T09:57:07Z
+  Updated: 2026-08-11T08:12:36Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
@@ -1437,62 +1437,34 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_c0adfeab-c7d3-453c-abac-6fa7452e33b3.jpg?v=1778032294
     Price: R 566.00 ZAR
-- [Storage Rack Kitchen Shelf with Basket & Cabinet](https://www.artisansa.co.za/products/storage-rack-kitchen-shelf-ot-114): Organize your space with our premium storage rack kitchen shelf. Features open shelves, a wire basket, and a 2-door cabinet. Perfect for your coffee station!
-  Updated: 2026-07-30T09:55:56Z
-  Vendor: Artisan SA
-  Product Type: Chest Of Drawers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_9b4e18b0-b7a5-4837-8829-a0d1a2d272f1.jpg?v=1778032113
-  Price: R 1,117.00 ZAR
-- [Coffee Table Lift Top Side Table CT-007 | Premium Furniture - Artisan SA](https://www.artisansa.co.za/products/coffee-table-lift-top-side-table-ct-007): Discover the Coffee Table Lift Top Side Table CT-007 at Artisan SA. Elevate your space with our premium design and high-quality materials. Shop now for fast shipping in SA.
-  Updated: 2026-07-15T09:59:17Z
-  Vendor: Artisan SA
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/a12_e1fc3873-629e-49a4-ae4e-a925fc8c2e6e.jpg?v=1778032041
-  - [Antique Wood](https://www.artisansa.co.za/products/coffee-table-lift-top-side-table-ct-007?variant=48024154702043)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/a12_e1fc3873-629e-49a4-ae4e-a925fc8c2e6e.jpg?v=1778032041
-    Price: R 1,126.00 ZAR
-  - [Black](https://www.artisansa.co.za/products/coffee-table-lift-top-side-table-ct-007?variant=48024154734811)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_5752ec1b-87f5-4e47-8683-1e06a925ed71.jpg?v=1778032108
-    Price: R 1,126.00 ZAR
 - [Storage Cabinet Wardrobe - Stylish Solutions for Every Space](https://www.artisansa.co.za/products/storage-cabinet-wardrobe-wd-203): Discover the ultimate Storage Cabinet Wardrobe, featuring a stylish walnut finish and versatile compartments for all your organizational needs.
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:06Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/4_e77be42c-531b-4d3b-b06f-12be7c3e8f97.jpg?v=1778031980
   Price: R 1,399.00 ZAR
 - [white 3-tier bookshelf for home office - Stylish & Versatile](https://www.artisansa.co.za/products/white-3-tier-bookshelf-for-home-office): Elevate your space with the white 3-tier bookshelf for home office. Perfect for organization, décor display, and maximizing storage in style.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/4_4e8147e3-b76d-4347-a5a5-ccedbcb101ba.jpg?v=1778031963
   Price: R 689.00 ZAR
 - [Discover the 3 Door Wardrobe Closet Armoire Storage Cabinet WD-116 at Artisan SA.](https://www.artisansa.co.za/products/3-door-wardrobe-closet-armoire-storage-cabinet-wd-116): Discover the 3 Door Wardrobe Closet Armoire Storage Cabinet WD-116 at Artisan SA. Elevate your space with our premium design and high-quality materials. Shop now for fast shipping in SA.
-  Updated: 2026-07-13T06:20:04Z
+  Updated: 2026-08-11T08:13:06Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_eaf443bc-52b7-46da-86f3-f33724517454.jpg?v=1778031819
   Price: R 2,125.50 ZAR
 - [Wardrobe Closet 2 Door Storage Cabinet 4 Drawers WD-113](https://www.artisansa.co.za/products/wardrobe-closet-2-door-storage-cabinet-4-drawers-wd-113): 2-door wardrobe closet with 4 drawers and hanging rod WD-113 by Artisansa. Ample storage for bedroom. Shop online in South Africa.
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T09:47:26Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/3_3c0a6de0-a68c-409f-a9c3-4a960bb9682b.jpg?v=1778032157
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/3_3c0a6de0-a68c-409f-a9c3-4a960bb9682b.jpg?v=1786441645
   Price: R 1,427.00 ZAR
-- [White 2-Door Bedroom Wardrobe | WD-112 – Artisan SA](https://www.artisansa.co.za/products/2-door-wardrobe-storage-cabinet-wd-112): Shop the 2-door wardrobe in white MDF. 80×50×165cm, hanging rail, upper shelf, bottom storage. Flatpack delivery across SA. Shop now at Artisan SA.
-  Updated: 2026-07-30T09:56:16Z
-  Vendor: Artisan SA
-  Product Type: Wardrobes & Cupboards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/3_0dc5f0a8-31e4-4c09-bea2-7fa4d76443cd.jpg?v=1778031515
-  Price: R 1,639.00 ZAR
 - [Kitchen Storage Rack with Wire Baskets & Wheels | Artisan SA](https://www.artisansa.co.za/products/kitchen-storage-rack-wire-baskets-wheels): Multi-tier kitchen storage rack with 4 wire baskets, 360° swivel wheels & 90×30×130cm footprint. Steel frame. Fast SA delivery. Shop now at Artisan SA.
   Updated: 2026-07-29T13:56:18Z
   Vendor: Artisan SA
@@ -1501,14 +1473,14 @@
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/SF-119_20_1.jpg?v=1778031367
   Price: R 609.00 ZAR
 - [Dressing Table with Mirror & Storage | DR-14](https://www.artisansa.co.za/products/dressing-table-with-mirror-dr-14): Dressing table with mirror, 3 shelves, drawer & side cabinet. Multi-functional design as vanity, desk or bedside table. Easy assembly. | Artisansa SA
-  Updated: 2026-07-30T09:55:52Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/985e11a2-0c3c-44b6-9770-0384797d1fb5_1.png?v=1785376562
   Price: R 1,283.00 ZAR
 - [Dressing Table with Mirror & Stool | DR-12 | Artisan SA](https://www.artisansa.co.za/products/dressing-table-with-mirror-dr-12): Dressing table with mirror DR-12: large mirror, 3 drawers, dual-height tabletops, upholstered stool. Black or white. Shop online in South Africa.
-  Updated: 2026-07-30T09:55:55Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
@@ -1522,14 +1494,14 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/ChatGPT_Image_Mar_31_2026_09_14_36_AM.png?v=1778031331
     Price: R 1,368.00 ZAR
 - [Side End Table Coffee Table Bedside Table OT-115](https://www.artisansa.co.za/products/side-end-table-coffee-table-bedside-table-ot-115): Discover the versatile Side End Table Coffee Table Bedside Table OT-115 with a unique c-shaped design and rolling casters for ultimate convenience.
-  Updated: 2026-07-30T09:56:06Z
+  Updated: 2026-08-11T09:45:16Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_09d8773a-eb45-4fba-9c4d-39e67a130584.jpg?v=1778031173
   Price: R 357.00 ZAR
 - [Modern Two-Tone End Table OT-106 | ArtisanSA](https://www.artisansa.co.za/products/modern-two-tone-end-table-ot-106): Upgrade your space with the OT-106 Modern Two-Tone End Table. Compact, stylish, and perfect for any room. Local SA stock with fast delivery. Shop ArtisanSA!
-  Updated: 2026-07-30T09:55:56Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
@@ -1543,7 +1515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/23_6730dbe3-f160-4e86-8dc7-6be3b204a7e3.jpg?v=1776503251
     Price: R 238.00 ZAR
 - [Computer Desk Work Gaming Desk: Elevate Your Work Space](https://www.artisansa.co.za/products/computer-desk-work-gaming-desk-od-59): Upgrade your WFH setup with our Computer Desk Work Gaming Desk. Features ample space for a UPS, sturdy frame, and local SA stock. Shop ArtisanSA!
-  Updated: 2026-07-28T09:57:38Z
+  Updated: 2026-08-11T08:12:56Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
@@ -1557,32 +1529,32 @@
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/ChatGPTImageFeb5_2026_01_32_11PM.png?v=1776503230
   Price: R 3,000.00 ZAR
 - [Round Side Table with Storage & Sliding Doors](https://www.artisansa.co.za/products/round-side-table-with-storage): Upgrade your space with our round side table with storage. Features elegant sliding tambour doors and a minimalist wood design. Perfect as a bedside nightstand!
-  Updated: 2026-07-25T09:01:37Z
+  Updated: 2026-08-11T08:12:57Z
   Vendor: Artisan SA
   Product Type: Oval Side Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/36783355-66e5-4704-bfde-403adb89ea1e.png?v=1780389218
   Price: R 1,359.00 ZAR
-- [Modern Nightstand 3 Drawer | Set of 2 – Artisan SA](https://www.artisansa.co.za/products/modern-3-drawer-nightstand-set-of-2): Shop the modern 3-drawer nightstand set of 2. Gold handles, smooth glide, White Oak, Brown or Grey. Flatpack delivery across SA. Shop now at Artisan SA.
-  Updated: 2026-07-28T09:57:48Z
+- [3 Drawer Bedside Table Set of 2 With Gold Handles | ArtisanSA](https://www.artisansa.co.za/products/3-drawer-bedside-table-set-of-2-gold-handles): Upgrade your bedroom with our modern 3 drawer bedside table set of 2. Gold handles, smooth-glide drawers, 3 colour options. Fast delivery across South Africa.
+  Updated: 2026-08-06T17:43:43Z
   Vendor: Artisan SA
   Product Type: Nightstands & Bedside Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/b87add96-edb0-44a7-a70e-4ffd89a942f8.png?v=1780389206
-  - [WHT OAK](https://www.artisansa.co.za/products/modern-3-drawer-nightstand-set-of-2?variant=48729088852187)
+  - [WHT OAK](https://www.artisansa.co.za/products/3-drawer-bedside-table-set-of-2-gold-handles?variant=48729088852187)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/b87add96-edb0-44a7-a70e-4ffd89a942f8.png?v=1780389206
     Price: R 1,139.00 ZAR
-  - [Brown](https://www.artisansa.co.za/products/modern-3-drawer-nightstand-set-of-2?variant=48729088884955)
+  - [Brown](https://www.artisansa.co.za/products/3-drawer-bedside-table-set-of-2-gold-handles?variant=48729088884955)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/a13_27c087f0-6b01-4154-8df1-e5886543b03d.jpg?v=1778030922
     Price: R 1,139.00 ZAR
-  - [Grey](https://www.artisansa.co.za/products/modern-3-drawer-nightstand-set-of-2?variant=48729088917723)
+  - [Grey](https://www.artisansa.co.za/products/3-drawer-bedside-table-set-of-2-gold-handles?variant=48729088917723)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/2_f2e3fc89-d26b-419f-afb4-3240c835d768.jpg?v=1778030933
     Price: R 1,139.00 ZAR
 - [Modern LED Pedestal Set of 2 | Open Shelf Bedroom Storage](https://www.artisansa.co.za/products/modern-led-pedestal-with-open-shelf-set-of-2): Upgrade your bedroom with our Modern LED Pedestal set. Featuring 3-colour ambient lighting, smooth drawers, and an open shelf. Shop ArtisanSA today!
-  Updated: 2026-07-30T09:56:15Z
+  Updated: 2026-08-11T08:13:18Z
   Vendor: Artisan SA
   Product Type: Nightstands
   Availability: Available
@@ -1596,27 +1568,27 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_a9073445-f151-4e85-8d28-6f3ffc38d421.jpg?v=1778030811
     Price: R 1,519.00 ZAR
 - [Rustic Tilt-Out Shoe Cabinet with 2 Drawers | ArtisanSA](https://www.artisansa.co.za/products/rustic-tilt-out-shoe-cabinet-with-2-drawers): Organize your entryway with this Rustic Tilt-Out Shoe Cabinet. Features adjustable dividers, anti-tip safety, and local SA stock. Shop ArtisanSA today!
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:17Z
   Vendor: Artisan SA
   Product Type: Shoe Cabinets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/4d4c4a6d-c798-4939-8334-a3274a61505d.png?v=1780389193
   Price: R 1,889.00 ZAR
 - [Boho Rattan Storage Cabinet | Buffet & Sideboard – Artisan SA](https://www.artisansa.co.za/products/boho-rattan-storage-cabinet-buffet-sideboard-artisansa): Shop the Boho Rattan Storage Cabinet. Woven-panel sideboard for your modern lounge. Flatpack, easy assembly. Shop now at Artisan SA.
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:16Z
   Vendor: Artisan SA
   Product Type: Sideboards & Buffets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/e0450e22-6bbc-41b6-b034-893e1b6bae46.png?v=1780389184
   Price: R 1,699.00 ZAR
 - [Bedside Table with Drawers Set of 2 | Artisan SA](https://www.artisansa.co.za/products/white-bedside-table-with-drawers-set-of-2): Set of 2 bedside tables with drawers, crystal handles & open shelf. MDF construction, 3 colours. Fast SA delivery. Shop now at Artisan SA.
-  Updated: 2026-07-30T09:56:17Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Artisan SA
   Product Type: Nightstands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/3f94c528-729d-498b-ba5b-b40322dafd5a.png?v=1780389052
   - [White](https://www.artisansa.co.za/products/white-bedside-table-with-drawers-set-of-2?variant=48748610617563)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/b5_f0b2d095-8796-4503-aeb6-0da3fbfc7e00.jpg?v=1780389056
     Price: R 1,459.00 ZAR
   - [Grey](https://www.artisansa.co.za/products/white-bedside-table-with-drawers-set-of-2?variant=48748610650331)
@@ -1628,7 +1600,7 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/9_5759180f-54b0-46ff-9d65-b5f978171897.jpg?v=1780389116
     Price: R 1,459.00 ZAR
 - [Modern LED Bedside Table | Set of 2 | ArtisanSA](https://www.artisansa.co.za/products/modern-led-bedside-table-with-drawers-set-of-2): Upgrade your bedroom with this Modern LED Bedside Table set. Features USB RGB lights, 2 drawers, and comes in White or Grey Oak. Shop ArtisanSA today!
-  Updated: 2026-07-30T09:56:17Z
+  Updated: 2026-08-11T08:13:16Z
   Vendor: Artisan SA
   Product Type: Nightstands
   Availability: Available
@@ -1638,18 +1610,18 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_7a6c4706-4688-4237-ab64-23e243ed3f41.jpg?v=1780389024
     Price: R 1,619.00 ZAR
   - [Gray](https://www.artisansa.co.za/products/modern-led-bedside-table-with-drawers-set-of-2?variant=48748681789659)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_1.jpg?v=1780389035
     Price: R 1,619.00 ZAR
 - [Oval Black Marble Coffee Table | Modern Center Table](https://www.artisansa.co.za/products/oval-black-marble-coffee-table): Upgrade your living room with our elegant Oval Black Marble Coffee Table. Features child-safe rounded edges and sturdy steel legs. Local SA stock. Shop now!
-  Updated: 2026-07-30T09:56:26Z
+  Updated: 2026-08-11T08:13:16Z
   Vendor: Artisan SA
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/ba10b547-c59e-4b22-b3c0-43e4be3326eb.png?v=1780388992
   Price: R 729.00 ZAR
 - [100cm Minimalist X-Frame Computer Desk | Home Office Desk](https://www.artisansa.co.za/products/minimalist-computer-desk-with-x-frame-design): Compact 100 × 45 × 75 cm X-frame computer desk with engineered wood top and powder-coated steel frame. Ideal for home offices and study spaces in South Africa.
-  Updated: 2026-08-03T18:11:34Z
+  Updated: 2026-08-11T08:13:17Z
   Vendor: Artisan SA
   Product Type: Computer Desks
   Availability: Available
@@ -1663,14 +1635,14 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_3_6bb50d8f-d544-42cb-9e5b-65e9a1fdc61e.jpg?v=1780388930
     Price: R 669.00 ZAR
 - [Bar Table & Stools Set | 5-Piece Rustic – Artisan SA](https://www.artisansa.co.za/products/bar-table-and-stools-set): Shop the 5-piece bar table and stools set. Rustic industrial design, 120cm table, 4 stools. Flatpack delivery across SA. Shop now at Artisan SA.
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:17Z
   Vendor: Artisan SA
   Product Type: Bar Tables & Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_358caa90-7d6e-48b8-9efe-6d2e7b7f46f6.jpg?v=1780388903
   Price: R 1,699.00 ZAR
 - [Farmhouse Sliding TV Stand | 150kg | SA – Artisan SA](https://www.artisansa.co.za/products/farmhouse-sliding-tv-stand): Shop the farmhouse sliding TV stand. Barn doors, 150kg support, 137cm wide, fits 60" TVs. Brown, Grey or White. Flatpack delivery across SA. Shop now.
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:17Z
   Vendor: Artisan SA
   Product Type: TV Stand
   Availability: Available
@@ -1688,26 +1660,33 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/5_3_b04288ac-9441-401c-82b1-a6b84cfb87c4.jpg?v=1778207968
     Price: R 2,149.00 ZAR
 - [LED Vanity Desk with Charging Station & RGB Lights](https://www.artisansa.co.za/products/led-vanity-desk-with-charging-station-rgb-glass-top-dr-17): Upgrade your room with the DR-17 LED Vanity Desk. Features a built-in Charging Station, Hollywood mirror, RGB glass display & massive storage. Shop ArtisanSA!
-  Updated: 2026-07-30T01:55:21Z
+  Updated: 2026-08-10T07:42:22Z
   Vendor: Artisan SA
   Product Type: Dressing Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/51da8240-a7b3-4df6-a294-996e4446969d.jpg?v=1785376520
   Price: R 3,029.00 ZAR
 - [Baker's Rack & Microwave Stand | Coffee Station – Artisan SA](https://www.artisansa.co.za/products/kitchen-bakers-rack-with-microwave-stand-wire-basket): Shop the Baker's Rack with microwave stand, 4-tier shelves & wire basket. Free-standing coffee station for SA kitchens. Shop now at Artisan SA.
-  Updated: 2026-07-28T09:57:47Z
+  Updated: 2026-08-11T08:13:16Z
   Vendor: Artisan SA
   Product Type: Kitchen Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/8a51b224-e433-42df-8eac-9e41abe24bad.png?v=1780388679
   Price: R 889.00 ZAR
 - [Rustic Storage Trunk Shoe Bench | ArtisanSA](https://www.artisansa.co.za/products/rustic-storage-trunk-shoe-bench): Declutter your space with the ArtisanSA rustic storage trunk shoe bench. Featuring louvered doors, a flip-top lid, and 100kg seating capacity. Shop now!
-  Updated: 2026-07-30T09:56:26Z
+  Updated: 2026-08-11T08:13:16Z
   Vendor: Artisan SA
   Product Type: Storage Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/c945828b-9f26-4e04-994f-6db2e831bfa3.png?v=1780388674
   Price: R 1,069.00 ZAR
+- [Rustic Shoe Storage Bench with Cushion | ArtisanSA](https://www.artisansa.co.za/products/rustic-shoe-storage-bench-cushion): Discover the Rustic Shoe Storage Bench with Cushion, featuring a stylish design, hidden storage, and comfortable seating for an organized entryway.
+  Updated: 2026-08-04T10:08:08Z
+  Vendor: Artisan SA
+  Product Type: Shoe Storage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/66040826-67e1-4984-a7d7-0eef2c1540ef.png?v=1780388614
+  Price: R 1,029.00 ZAR
 - [Cubby Shoe Storage Bench with Cushion | ArtisanSA](https://www.artisansa.co.za/products/10-cubby-shoe-storage-bench-cushion): Organize your home with the ArtisanSA 10-Cubby Shoe Storage Bench. Features adjustable shelves, a washable padded cushion, and versatile entryway design.
   Updated: 2026-07-13T06:27:08Z
   Vendor: Artisan SA
@@ -1715,50 +1694,43 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1dede4e5-549e-41fc-a414-5661fcaf369f.png?v=1780388555
   Price: R 1,369.00 ZAR
-- [Boho 3-Door Shoe Cabinet & Sideboard | ArtisanSA](https://www.artisansa.co.za/products/boho-3-door-shoe-cabinet-sideboard): Discover the Boho 3-Door Shoe Cabinet, a stylish storage solution for shoes or as a beautiful sideboard, enhancing your home's rustic charm.
-  Updated: 2026-07-13T06:27:07Z
-  Vendor: Artisan SA
-  Product Type: Shoe Storage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/ae862111-165c-4697-a68f-a3cd83f00642.png?v=1780388496
-  Price: R 2,649.00 ZAR
 - [Double Hammock with Steel Stand & Bag | ArtisanSA](https://www.artisansa.co.za/products/double-hammock-steel-stand-bag): Relax anywhere with the ArtisanSA Double Hammock. Features a heavy-duty steel stand, 200kg capacity for two, and a portable carry bag. Perfect for patios!
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:17Z
   Vendor: Artisan SA
   Product Type: outdoor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/deab84d2-c38e-4e90-82e3-f1e43cbca50f.png?v=1780388460
   Price: R 1,029.00 ZAR
 - [Heavy-Duty Folding Camping Chair | ArtisanSA](https://www.artisansa.co.za/products/heavy-duty-folding-camping-chair-with-cup-holder-travel-bag): Enjoy the outdoors with the ArtisanSA Heavy-Duty Folding Camping Chair. Supports up to 150kg, features a waterproof seat, cup holder, and portable travel bag.
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:16Z
   Vendor: Artisan SA
   Product Type: Outdoor Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/9b8ca35e-cf9a-4e86-b4ed-7f5ed18502d9.png?v=1780388433
   Price: R 289.00 ZAR
 - [3-Compartment Laundry Sorter with Wood Shelf | ArtisanSA](https://www.artisansa.co.za/products/3-compartment-laundry-sorter-wood-shelf): Discover the stylish 3-Compartment Laundry Sorter, perfect for organizing your laundry with a chic wood shelf and sturdy design.
-  Updated: 2026-07-28T09:57:48Z
+  Updated: 2026-08-11T08:13:17Z
   Vendor: Artisan SA
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/d204b33e-5a1f-47ef-a31d-dcf549c3bc4a.png?v=1780388334
   Price: R 899.00 ZAR
 - [Industrial 4-in-1 Hall Tree & Shoe Bench | ArtisanSA](https://www.artisansa.co.za/products/industrial-4-in-1-hall-tree-shoe-bench): Organize your entryway with the ArtisanSA 4-in-1 Hall Tree. Features a sturdy shoe bench, 9 removable coat hooks, and a 2-tier shoe rack. Shop now!
-  Updated: 2026-07-30T09:56:11Z
+  Updated: 2026-08-11T08:13:16Z
   Vendor: Artisan SA
   Product Type: shoe rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/c027edf0-6118-4666-85bc-b37cedc555f9.png?v=1780388292
   Price: R 939.00 ZAR
 - [Heavy-Duty Baker's Rack - Ultimate Kitchen Storage Solution](https://www.artisansa.co.za/products/heavy-duty-kitchen-bakers-rack-wood-top): Explore the Heavy-Duty Baker's Rack for ultimate kitchen efficiency. Boost storage and prep space with its robust design and wood top.
-  Updated: 2026-07-23T10:10:37Z
+  Updated: 2026-08-11T08:13:16Z
   Vendor: Artisan SA
   Product Type: Kitchen Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/1_9_5c695d71-5370-4d07-bc65-ef2f7edc06de.jpg?v=1780388260
   Price: R 987.00 ZAR
 - [3-Tier Rolling Storage Cart with Wood Top | ArtisanSA](https://www.artisansa.co.za/products/3-tier-rolling-storage-cart-wood-top): Organize any room with the ArtisanSA 3-Tier Rolling Storage Cart. Features a solid wood top, anti-rust steel frame, and lockable 360-degree wheels. Shop now!
-  Updated: 2026-07-28T09:57:47Z
+  Updated: 2026-08-11T09:18:03Z
   Vendor: Artisan SA
   Product Type: Storage Cart
   Availability: Available
@@ -1772,70 +1744,56 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/5_6_40f28600-1259-4b79-b020-d990de5e4e91.jpg?v=1780388164
     Price: R 319.00 ZAR
 - [Ergonomic Gaming Office Chair | High Back Desk Chair](https://www.artisansa.co.za/products/ergonomic-gaming-office-chair-high-back-desk-chair): Upgrade your workspace with Ergonomic Gaming Office Chair. Features space-saving flip-up arms, 120° rocking tilt, and premium PU leather. Shop local ZA stock!
-  Updated: 2026-07-30T09:56:12Z
+  Updated: 2026-08-11T08:13:17Z
   Vendor: Artisan SA
   Product Type: Office Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/fb8f446f-ebe4-4cb7-ad7f-e957e1798381.png?v=1780388094
   Price: R 1,483.00 ZAR
 - [Standing Desk Converter | Sit-to-Stand Riser | ArtisanSA](https://www.artisansa.co.za/products/standing-desk-converter-adjustable-riser): Upgrade your workspace with our Standing Desk Converter. Features smooth sit-to-stand adjustment, dual tiers, and holds up to 15kg. Shop local ZA stock!
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:03Z
   Vendor: Artisan SA
   Product Type: Office Desk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/9b75e003-2b60-4ea5-a006-f4ede4be43ff.png?v=1780388060
   Price: R 789.00 ZAR
 - [Kitchen Storage Cabinet | Farmhouse Coffee Bar | ArtisanSA](https://www.artisansa.co.za/products/kitchen-storage-cabinet-farmhouse-coffee-bar): Upgrade your home with our Kitchen Storage Cabinet. Features a built-in coffee bar, LED lighting, rustic barn doors, and ample shelving. Shop local ZA stock!
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T09:17:36Z
   Vendor: Artisan SA
   Product Type: Kitchen Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/7cc42651-b73c-4e73-bba9-31a6e1404707.png?v=1780388002
   Price: R 2,259.00 ZAR
 - [Kitchen Storage Cabinet | White Buffet with LED | ArtisanSA](https://www.artisansa.co.za/products/kitchen-storage-cabinet-white-led-buffet): Organize your home with our White Kitchen Storage Cabinet. Features a built-in coffee bar, LED light, adjustable shelves (L120xW38xH190cm). Shop local ZA stock!
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Artisan SA
   Product Type: Kitchen Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/8a9ccb82-626e-4778-abcb-b7498e35ffa0.png?v=1780387946
   Price: R 2,389.00 ZAR
 - [Nesting Coffee Table Set | White Stone & Glass | ArtisanSA](https://www.artisansa.co.za/products/nesting-coffee-table-set-white-stone-and-glass): Upgrade your living room with our Nesting Coffee Table Set. Features a white sintered stone top, tempered glass, and a hidden storage drawer. Shop local ZA stock!
-  Updated: 2026-07-28T09:57:48Z
+  Updated: 2026-08-11T08:13:02Z
   Vendor: Artisan SA
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/9297b289-2219-4170-90b1-d821169f3b75.png?v=1780387907
   Price: R 1,389.00 ZAR
-- [Console Table | 2-Tier Rustic Entryway | ArtisanSA](https://www.artisansa.co.za/products/console-table-2-tier-rustic-entryway): Elevate your hallway with our 2-Tier Rustic Console Table. Features a durable wood top, metal grid shelf, and adjustable feet. Shop local ZA stock!
-  Updated: 2026-07-31T08:20:17Z
-  Vendor: Artisan SA
-  Product Type: Office Desk
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/c805eb3b-9084-48d5-bb30-1c1fe559af6e.png?v=1780387826
-  Price: R 839.00 ZAR
 - [Bedroom Wardrobe | 3 Door LED Mirror | ArtisanSA](https://www.artisansa.co.za/products/bedroom-wardrobe-3-door-light-beige-led-mirror): Discover the perfect Bedroom Wardrobe. Featuring a chic light beige finish, LED mirror, and functional design for modern living. Elevate your space today!
-  Updated: 2026-07-30T01:55:21Z
+  Updated: 2026-08-11T08:13:06Z
   Vendor: Artisan SA
   Product Type: Wardrobe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/f56e3de7-b53d-4fa8-bad1-67aae5551a49.png?v=1780387735
   Price: R 3,359.00 ZAR
-- [Modern White TV Stand with Storage Shelves | Artisansa](https://www.artisansa.co.za/products/modern-white-tv-stand-with-storage-shelves): Upgrade your living room with the Artisansa minimalist white TV stand. Fits up to 50" TVs. Features hidden storage and fast SA delivery. Shop now!
-  Updated: 2026-07-25T09:01:46Z
-  Vendor: Artisan SA
-  Product Type: TV Stand
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/0f00724a-f090-46f6-a9a5-3a69bf6a63dd.png?v=1780387570
-  Price: R 1,119.00 ZAR
 - [Folding All-Terrain Trolley with Brakes 100kg South Africa](https://www.artisansa.co.za/products/collapsible-outdoor-cart-with-brakes): Folding all-terrain trolley with brakes, 100kg capacity. Tackles grass, sand & gravel. Folds flat. Free delivery across South Africa.
-  Updated: 2026-07-30T09:56:17Z
+  Updated: 2026-08-11T08:13:07Z
   Vendor: Artisan SA
   Product Type: Collapsible Outdoor Cart
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/7b554a3a-4925-4b57-b927-b8b529e1edf3.png?v=1780387529
   Price: R 979.00 ZAR
 - [Folding Camping Cot with Mattress | 200kg Capacity](https://www.artisansa.co.za/products/folding-camping-cot-with-mattress): Experience comfort with our 200kg heavy-duty folding camping cot with mattress. Features an ergonomic tilt and quick setup for camping or home guests.
-  Updated: 2026-07-30T09:56:15Z
+  Updated: 2026-08-11T08:13:03Z
   Vendor: Artisan SA
   Product Type: Folding Camping Cot
   Availability: Available
@@ -1849,28 +1807,85 @@
     Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/a9ca4955-35f8-4c9c-ac76-8b7e4cece725.png?v=1780387457
     Price: R 759.00 ZAR
 - [Marble Effect Nesting Coffee Table Set](https://www.artisansa.co.za/products/nesting-coffee-table-set-tt-05): Upgrade your living room with our elegant nesting coffee table set. Features a space-saving design, stunning marble-effect finish, and sturdy metal legs.
-  Updated: 2026-07-30T09:56:16Z
+  Updated: 2026-08-11T08:13:06Z
   Vendor: Artisan SA
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/96ab403c-6556-49d4-83e8-aff950d9f4b5.png?v=1780387429
   Price: R 349.00 ZAR
-[List Continued](https://www.artisansa.co.za/a/llms-agent/llms.txt?shop=zhongli-furniture.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzU4NDQxMzgyMTA3LCJsYXN0X3ZhbHVlIjoiOTM1ODQ0MTM4MjEwNyJ9)
+- [Computer Desk with Storage Shelves & Outlets](https://www.artisansa.co.za/products/computer-desk-with-storage-shelves-power-outlets): Maximize your workspace with our computer desk with storage shelves. Features a reversible setup, built-in power outlets, and a monitor stand. Buy online today!
+  Updated: 2026-08-11T08:13:07Z
+  Vendor: Artisan SA
+  Product Type: Computer Workstations
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/a06a4693-736f-45f3-81aa-0d14bdf874ec.png?v=1780387268
+  - [White](https://www.artisansa.co.za/products/computer-desk-with-storage-shelves-power-outlets?variant=48809435726043)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/a06a4693-736f-45f3-81aa-0d14bdf874ec.png?v=1780387268
+    Price: R 1,449.00 ZAR
+  - [Black](https://www.artisansa.co.za/products/computer-desk-with-storage-shelves-power-outlets?variant=48809435758811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/d6b2e716-ffa9-4165-8e50-c59589db168f.png?v=1780387273
+    Price: R 1,449.00 ZAR
+- [Industrial TV Stand Console with Open Shelves](https://www.artisansa.co.za/products/industrial-tv-stand-console-with-open-shelves): Upgrade your living room with our industrial TV stand console. Features open storage shelves, a 100kg weight capacity, and a sturdy metal frame. Shop now!
+  Updated: 2026-08-11T08:13:07Z
+  Vendor: Artisan SA
+  Product Type: TV Stand
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/7f884011-2fc3-473a-8137-25ce20327f8a.png?v=1780387220
+  Price: R 959.00 ZAR
+- [Rustic Wooden Storage Bench for Stylish Organization](https://www.artisansa.co.za/products/rustic-wooden-storage-bench): Hide clutter with our rustic wooden storage bench. Available in retro grey and white. Features a safe U-shape cutout and easy flatpack assembly. Shop now!
+  Updated: 2026-08-11T08:13:07Z
+  Vendor: Artisan SA
+  Product Type: Shoe Storage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_543f8ea0-7c9e-4b00-8d52-f07db4d62bfc.jpg?v=1785376342
+  - [Black](https://www.artisansa.co.za/products/rustic-wooden-storage-bench?variant=48842954277083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_543f8ea0-7c9e-4b00-8d52-f07db4d62bfc.jpg?v=1785376342
+    Price: R 1,069.00 ZAR
+  - [Brown](https://www.artisansa.co.za/products/rustic-wooden-storage-bench?variant=48842954309851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_1_73156313-8bff-495a-a698-1c69b4c4fc26.jpg?v=1785376344
+    Price: R 1,069.00 ZAR
+  - [White](https://www.artisansa.co.za/products/rustic-wooden-storage-bench?variant=48842954342619)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_2.jpg?v=1785376347
+    Price: R 1,069.00 ZAR
+  - [Grey](https://www.artisansa.co.za/products/rustic-wooden-storage-bench?variant=48842954375387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_3.jpg?v=1785376350
+    Price: R 1,069.00 ZAR
+- [Farmhouse Sideboard Storage: Stylish & Versatile Solutions](https://www.artisansa.co.za/products/farmhouse-sideboard-storage-cabinet): Organize your kitchen with our farmhouse sideboard storage cabinet. Available in brown and white. Features ample storage and easy flatpack assembly. Shop now!
+  Updated: 2026-08-11T08:13:07Z
+  Vendor: Artisan SA
+  Product Type: Storage Cabinet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/ef87ecbe-eccf-4981-921d-eaafc4d4c365_1.png?v=1785376274
+  - [White](https://www.artisansa.co.za/products/farmhouse-sideboard-storage-cabinet?variant=48851142344923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/ef87ecbe-eccf-4981-921d-eaafc4d4c365_1.png?v=1785376274
+    Price: R 2,119.00 ZAR
+  - [Grey](https://www.artisansa.co.za/products/farmhouse-sideboard-storage-cabinet?variant=48851142377691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0651/8793/8523/files/imgi_4_s-zoom_e0eabf38-a4bd-460f-9a58-fab4e2c43e40.jpg?v=1785376277
+    Price: R 2,119.00 ZAR
+[List Continued](https://www.artisansa.co.za/a/llms-agent/llms.txt?shop=zhongli-furniture.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzY4NDY1MDgwNTM5LCJsYXN0X3ZhbHVlIjoiOTM2ODQ2NTA4MDUzOSJ9)
 
 ## Collections
 
 - [Sofas & Couches](https://www.artisansa.co.za/collections/sofas-and-couches): Upgrade your living room with our premium sofas & couches. Shop luxury leather, velvet, and sleeper couches at ArtisanSA. Fast delivery across South Africa!
-  Updated: 2026-08-02T11:14:05Z
+  Updated: 2026-08-11T11:13:41Z
   Total Products: 6
 - [Recliners](https://www.artisansa.co.za/collections/recliners): Explore our exclusive Recliners collection at Artisan SA. Discover premium quality, modern designs, and elevate your home aesthetic.
-  Updated: 2026-08-03T11:12:48Z
+  Updated: 2026-08-11T11:13:41Z
   Total Products: 13
 - [Coffee Tables](https://www.artisansa.co.za/collections/coffee-tables): Explore our exclusive Coffee Tables collection at Artisan SA. Discover premium quality, modern designs, and elevate your home aesthetic.
-  Updated: 2026-08-03T06:13:20Z
+  Updated: 2026-08-05T11:15:47Z
   Total Products: 40
 - [TV Stands & Media](https://www.artisansa.co.za/collections/tv-units-stands): Discover stylish TV Stands that combine smart media storage with modern design. Elevate your living space with Artisansa's sleek collection.
-  Updated: 2026-08-01T11:16:08Z
-  Total Products: 37
+  Updated: 2026-08-07T11:14:57Z
+  Total Products: 38
 - [Dining Tables](https://www.artisansa.co.za/collections/dining-tables): Explore our exclusive Dining Tables collection at Artisan SA. Discover premium quality, modern designs, and elevate your home aesthetic.
   Updated: 2026-07-24T08:28:17Z
   Total Products: 4
@@ -1878,32 +1893,32 @@
   Updated: 2026-07-11T05:57:14Z
   Total Products: 5
 - [Ergonomic Office Chairs](https://www.artisansa.co.za/collections/ergonomic-office-chairs): Shop ergonomic office chairs in South Africa. Adjustable lumbar support, mesh & foam options. Free nationwide delivery. From R999.
-  Updated: 2026-08-03T11:12:48Z
+  Updated: 2026-08-06T11:15:03Z
   Total Products: 14
 - [Storage & Organizers | Artisansa](https://www.artisansa.co.za/collections/organizers): Storage & Organizers designed to enhance your home's beauty while keeping everything tidy and in its place. Discover stylish solutions today!
-  Updated: 2026-08-03T03:01:25Z
-  Total Products: 29
+  Updated: 2026-08-09T11:13:42Z
+  Total Products: 30
 - [Living Room](https://www.artisansa.co.za/collections/living-room): Explore our exclusive Living Room collection at Artisan SA. Discover premium quality, modern designs, and elevate your home aesthetic.
-  Updated: 2026-08-03T11:12:48Z
-  Total Products: 86
+  Updated: 2026-08-11T11:13:41Z
+  Total Products: 87
 - [Kitchen & Dining](https://www.artisansa.co.za/collections/kitchen-dining): Shop kitchen sets, dining furniture, bar stools & kitchen racks in South Africa. Flatpack delivery nationwide. From R499. Free delivery over R3,000.
-  Updated: 2026-08-01T11:16:08Z
-  Total Products: 63
+  Updated: 2026-08-09T11:13:42Z
+  Total Products: 64
 - [Office Furniture](https://www.artisansa.co.za/collections/office-furniture): Shop office furniture in South Africa. Ergonomic chairs, standing desks, gaming chairs & storage. Flatpack delivery nationwide. From R799.
-  Updated: 2026-08-03T11:12:48Z
-  Total Products: 48
+  Updated: 2026-08-06T11:15:03Z
+  Total Products: 49
 - [Office Desks](https://www.artisansa.co.za/collections/desks): Explore our exclusive Office Desks collection at Artisan SA. Discover premium quality, modern designs, and elevate your home aesthetic.
-  Updated: 2026-08-03T11:12:48Z
-  Total Products: 21
+  Updated: 2026-08-06T11:15:03Z
+  Total Products: 22
 - [Outdoor Furniture](https://www.artisansa.co.za/collections/outdoor-chairs): Explore our exclusive Outdoor Chairs collection at Artisan SA. Discover premium quality, modern designs, and elevate your home aesthetic.
-  Updated: 2026-07-21T11:14:51Z
+  Updated: 2026-08-10T11:13:27Z
   Total Products: 22
 - [Bunk Beds](https://www.artisansa.co.za/collections/bunk-beds-1): Explore our exclusive Bunk Beds collection at Artisan SA. Discover premium quality, modern designs, and elevate your home aesthetic.
   Updated: 2026-07-20T10:08:35Z
   Total Products: 1
 - [Best Sellers](https://www.artisansa.co.za/collections/best--products): Explore the best  furniture South Africa at ArtisanSA. Elevate your space with our most-loved designs and enjoy fast shipping across the country!
-  Updated: 2026-08-03T11:12:48Z
-  Total Products: 303
+  Updated: 2026-08-11T11:13:41Z
+  Total Products: 306
 - [Bluetooth audio](https://www.artisansa.co.za/collections/bluetooth-audio): Explore our exclusive Bluetooth audio collection at Artisan SA. Discover premium quality, modern designs, and elevate your home aesthetic.
   Updated: 2026-07-08T03:13:44Z
   Total Products: 4
@@ -1911,70 +1926,67 @@
   Updated: 2026-07-27T11:13:25Z
   Total Products: 14
 - [AVADA - Best Sellers](https://www.artisansa.co.za/collections/avada-best-sellers): Explore our exclusive AVADA - Best Sellers collection at Artisan SA. Discover premium quality, modern designs, and elevate your home aesthetic.
-  Updated: 2026-08-03T11:12:48Z
-  Total Products: 302
+  Updated: 2026-08-11T11:13:41Z
+  Total Products: 305
 - [Bar Stools](https://www.artisansa.co.za/collections/bar-chairs): Discover our stylish Bar Stools collection for your kitchen island, featuring modern designs and adjustable options for everyday comfort.
   Updated: 2026-07-29T01:52:48Z
   Total Products: 24
 - [New Arrivals](https://www.artisansa.co.za/collections/new-arrivals): Shop the latest premium furniture arrivals at ArtisanSA. Discover modern, high-quality pieces for your home with fast delivery across South Africa. Shop new!
-  Updated: 2026-08-03T11:12:48Z
-  Total Products: 303
-- [ ](https://www.artisansa.co.za/collections/): Shop our  Furniture  for incredible discounts on ex-display and open-box furniture. Unbeatable prices, limited stock—grab yours now!
-  Updated: 2026-07-30T11:15:08Z
-  Total Products: 10
+  Updated: 2026-08-11T11:13:41Z
+  Total Products: 305
 - [Bedroom](https://www.artisansa.co.za/collections/bedroom): Explore our Bedroom collection featuring stylish designs that enhance comfort and functionality. Perfect for creating your dream bedroom.
-  Updated: 2026-08-03T11:12:48Z
+  Updated: 2026-08-06T05:43:39Z
   Total Products: 25
-- [Nightstands](https://www.artisansa.co.za/collections/bedside-table): Discover stylish Nightstands to elevate your bedroom organization. Shop modern bedside tables at Artisansa for a beautifully curated space.
-  Updated: 2026-07-31T09:09:02Z
-  Total Products: 15
+- [Bedside Table](https://www.artisansa.co.za/collections/bedside-table): Discover stylish Nightstands to elevate your bedroom organization. Shop modern bedside tables at Artisansa for a beautifully curated space.
+  Updated: 2026-08-06T11:15:03Z
+  Total Products: 14
 - [Shoe Storage](https://www.artisansa.co.za/collections/shoe-storage): Discover stylish and practical Shoe Storage solutions to organize your footwear and maximize space in your home.
-  Updated: 2026-07-24T04:11:30Z
+  Updated: 2026-08-10T07:32:19Z
   Total Products: 16
 - [Bookshelf](https://www.artisansa.co.za/collections/bookshelf): Discover stylish Bookshelf options at Artisansa. Smart storage solutions that elevate your space and organize your favorite stories.
   Updated: 2026-07-29T02:55:48Z
   Total Products: 10
 - [Dressing Tables with Mirror](https://www.artisansa.co.za/collections/dressing-table): Shop dressing tables with mirror in South Africa. LED light mirrors, white & glass options. Flatpack delivery nationwide. From R1,299.
-  Updated: 2026-08-03T11:12:48Z
+  Updated: 2026-08-08T11:15:37Z
   Total Products: 8
 - [Kitchen Racks](https://www.artisansa.co.za/collections/kitchen-racks): Discover our stylish Kitchen Racks to keep your space organized and enhance your kitchen decor effortlessly.
-  Updated: 2026-07-11T08:55:13Z
+  Updated: 2026-08-09T11:13:42Z
   Total Products: 14
 - [Chest Of Drawers](https://www.artisansa.co.za/collections/chest-of-drawers): Maximize your home storage without compromising on style. The Artisansa Chest of Drawers collection offers the perfect blend of Scandinavian minimalism and practical organization. Whether you need a spacious 6-drawer dresser for your bedroom wardrobe or a sleek cabinet for your living area, our thoughtfully designed pieces feature smooth-gliding drawers and durable wood finishes. Keep your space effortlessly clutter-free and beautifully curated.
   Updated: 2026-07-27T11:13:25Z
   Total Products: 7
 - [Outdoor Furniture](https://www.artisansa.co.za/collections/outdoor-furniture): Shop outdoor furniture in South Africa. Patio sets, garden chairs, beach loungers & stoep furniture. Nationwide delivery. From R599.
-  Updated: 2026-07-21T11:14:51Z
+  Updated: 2026-08-10T11:13:27Z
   Total Products: 20
 - [New products](https://www.artisansa.co.za/collections/new-collection)
-  Updated: 2026-07-24T11:16:10Z
-  Total Products: 3
+  Updated: 2026-08-07T09:47:48Z
+  Total Products: 2
 - [Best  products](https://www.artisansa.co.za/collections/best--collection)
-  Updated: 2026-07-24T11:16:10Z
-  Total Products: 3
+  Updated: 2026-08-07T09:47:48Z
+  Total Products: 2
 - [Side Tables](https://www.artisansa.co.za/collections/side-tables)
   Updated: 2026-07-14T09:38:58Z
   Total Products: 2
 - [Clothes Racks](https://www.artisansa.co.za/collections/clothes-racks)
-  Updated: 2026-07-28T09:08:25Z
+  Updated: 2026-08-04T11:13:32Z
   Total Products: 4
 - [Shop All Seating](https://www.artisansa.co.za/collections/shop-all-seating): Shop all seating in South Africa. Sofas, recliners, ergonomic chairs, gaming chairs & bar stools. Nationwide delivery. From R299.
-  Updated: 2026-08-03T11:12:48Z
+  Updated: 2026-08-11T11:13:41Z
   Total Products: 68
 - [Shop All Tables & Desks](https://www.artisansa.co.za/collections/shop-all-tables-desks): Shop all tables and desks in South Africa. Dining tables, computer desks, standing desks & coffee tables. Nationwide delivery. From R499.
-  Updated: 2026-08-03T11:12:48Z
-  Total Products: 77
+  Updated: 2026-08-11T07:05:51Z
+  Total Products: 78
 - [Gaming Chairs](https://www.artisansa.co.za/collections/gaming-chairs): Shop gaming chairs in South Africa. Ergonomic, high-back & racing style. Adjustable lumbar support. Nationwide delivery. From R1,299.
-  Updated: 2026-08-03T11:12:48Z
+  Updated: 2026-08-11T07:05:57Z
   Total Products: 6
 - [Entryway](https://www.artisansa.co.za/collections/entryway): Shop entryway furniture in South Africa. Shoe cabinets, hall tables, coat racks & storage benches. Nationwide delivery. From R499.
-  Updated: 2026-07-31T11:15:51Z
-  Total Products: 15
+  Updated: 2026-08-11T07:05:44Z
+  Total Products: 16
 - [Bathroom](https://www.artisansa.co.za/collections/bathroom): Shop bathroom storage in South Africa. Towel racks, rolling carts, laundry sorters & organisers. Nationwide delivery. From R299.
-  Updated: 2026-08-03T03:01:25Z
+  Updated: 2026-08-11T07:06:09Z
   Total Products: 11
 - [Wardrobes & Clothing Storage](https://www.artisansa.co.za/collections/wardrobes-clothing-storage): Shop wardrobes, garment racks & clothing storage in South Africa. Mirrored wardrobes, clothes rails & chest of drawers. Nationwide delivery. From R799.
-  Updated: 2026-07-29T08:46:55Z
+  Updated: 2026-08-11T07:06:03Z
   Total Products: 25
 
 ## Blogs
@@ -2065,9 +2077,10 @@
   - [Maximizing Space and Style: Integrating Entertainment Centers & TV Stands with Your Velvet Furnishings | ArtisanSA Blog](https://www.artisansa.co.za/blogs/caring-for-your-velvet-furniture/maximizing-space-and-style-integrating-entertainment-centers-tv-stands-with-your-velvet-furnishings): Maximizing Space and Style: Integrating Entertainment Centers & TV Stands with Your Velvet Furnishings | ArtisanSA Blog
     Updated: 2026-05-06T01:39:27Z
     Author: Artisan Furniture
-  - [Revolutionize Your Space: The Ultimate Guide to Interior Design in South Africa | ArtisanSA Blog](https://www.artisansa.co.za/blogs/caring-for-your-velvet-furniture/elevate-your-living-space-expert-tips-on-caring-for-your-coffee-table-velvet-accents): Revolutionize Your Space: The Ultimate Guide to Interior Design in South Africa | ArtisanSA Blog
-    Updated: 2026-05-06T01:39:34Z
+  - [Outdoor Furniture South Africa: How to Use Your Patio All Year | ArtisanSA](https://www.artisansa.co.za/blogs/caring-for-your-velvet-furniture/outdoor-furniture-south-africa): Outdoor Furniture South Africa: How to Use Your Patio All Year | ArtisanSA
+    Updated: 2026-08-11T07:42:42Z
     Author: Artisan Furniture
+    Tags: garden furniture SA, hammock south africa, outdoor furniture south africa, patio furniture SA, rattan patio set
   - [Space-Saving Marvels: Coffee Tables That Double as TV Stands in South Africa | ArtisanSA Blog](https://www.artisansa.co.za/blogs/caring-for-your-velvet-furniture/maximize-your-space-entertainment-centers-tv-stands-for-stylish-living): Space-Saving Marvels: Coffee Tables That Double as TV Stands in South Africa | ArtisanSA Blog
     Updated: 2026-05-06T01:39:47Z
     Author: Artisan Furniture
@@ -2101,19 +2114,19 @@
     Author: Zhongli Furniture
     Tags: chair, ergonomic, furniture, office chair, office design, office furniture, velvet
   - [Swing & Egg Chairs South Africa | Buying Guide 2026 | Artisan SA](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/swing-egg-chairs-south-africa-2026): Swing & Egg Chairs South Africa | Buying Guide 2026 | Artisan SA
-    Updated: 2026-07-08T04:11:04Z
+    Updated: 2026-08-11T07:40:16Z
     Author: Artisan Furniture
     Tags: egg chair, garden furniture South Africa, hanging chair, outdoor furniture SA, rattan chair, swing chair South Africa
   - [Outdoor Round Coffee Tables South Africa – ArtisanSA](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/outdoor-round-coffee-tables-south-africa): Outdoor Round Coffee Tables South Africa – ArtisanSA
-    Updated: 2026-07-20T02:38:47Z
+    Updated: 2026-08-11T07:40:54Z
     Author: Artisan Furniture
     Tags: garden furniture Johannesburg, Outdoor Coffee Table SA, outdoor furniture Cape Town, patio furniture SA, round coffee table South Africa
   - [Modern TV Stand South Africa: 3 Picks for Every Lounge | ArtisanSA](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/modern-tv-stand-south-africa): Modern TV Stand South Africa: 3 Picks for Every Lounge | ArtisanSA
-    Updated: 2026-07-30T02:16:31Z
+    Updated: 2026-08-11T07:41:00Z
     Author: Artisan Furniture
     Tags: floating tv stand, LED tv stand, lounge furniture SA, modern tv stand south africa, tv stand south africa
   - [Outdoor Furniture South Africa – Patio, Garden & Lounge Guide](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/outdoor-furniture-south-africa-guide): Outdoor Furniture South Africa – Patio, Garden & Lounge Guide
-    Updated: 2026-07-20T08:13:18Z
+    Updated: 2026-08-11T07:41:21Z
     Author: Artisan Furniture
     Tags: garden furniture Johannesburg, outdoor furniture South Africa, outdoor living SA, outdoor lounge Cape Town, patio furniture SA
   - [The Perfect Blend: Combining Functionality and Aesthetics in South African Bedroom Storage | ArtisanSA Blog](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/maximize-your-home-office-space-choosing-the-perfect-coffee-table-for-your-14-42-flat-screen-tv): The Perfect Blend: Combining Functionality and Aesthetics in South African Bedroom Storage | ArtisanSA Blog
@@ -2134,9 +2147,10 @@
   - [Why the Stamford TV Stand is a Must-Have for Your South African Workspace Environment | ArtisanSA Blog](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/enhancing-your-home-office-the-comfort-and-elegance-of-bar-and-swing-chairs): Why the Stamford TV Stand is a Must-Have for Your South African Workspace Environment | ArtisanSA Blog
     Updated: 2026-05-06T01:28:59Z
     Author: Artisan Furniture
-  - [Revolutionize Your Space: Why Comfortable Bar Chairs Are a Must-Have in South Africa | ArtisanSA Blog](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/transform-your-remote-workspace-selecting-the-perfect-bar-chair-and-high-back-options): Revolutionize Your Space: Why Comfortable Bar Chairs Are a Must-Have in South Africa | ArtisanSA Blog
-    Updated: 2026-05-06T01:29:55Z
+  - [Bar Stool South Africa: 3 Adjustable Sets | ArtisanSA](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/bar-stool-south-africa): Bar Stool South Africa: 3 Adjustable Sets | ArtisanSA
+    Updated: 2026-08-11T07:42:16Z
     Author: Artisan Furniture
+    Tags: adjustable bar stool, bar chair south africa, bar stool south africa, counter stool SA, kitchen stool SA
   - [Maximize Comfort: The Ultimate Guide to Push Back Chairs in South Africa | ArtisanSA Blog](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/optimizing-your-home-office-the-best-entertainment-centers-tv-stands-for-your-remote-work-haven): Maximize Comfort: The Ultimate Guide to Push Back Chairs in South Africa | ArtisanSA Blog
     Updated: 2026-05-06T01:30:03Z
     Author: Artisan Furniture
@@ -2179,9 +2193,10 @@
   - [Create Your Perfect Workstation: Ergonomic Solutions for South African Professionals | ArtisanSA Blog](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/elevating-your-home-office-the-ultimate-guide-to-choosing-the-perfect-coffee-table-for-productivity): Create Your Perfect Workstation: Ergonomic Solutions for South African Professionals | ArtisanSA Blog
     Updated: 2026-05-06T01:36:15Z
     Author: Artisan Furniture
-  - [Revolutionize Your Relaxation: Folding Moon Chairs and Portable Velvet Seating for South African Homes | ArtisanSA Blog](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/transform-your-remote-work-experience-choosing-the-perfect-bar-chair-and-armchairs-for-your-home-office): Revolutionize Your Relaxation: Folding Moon Chairs and Portable Velvet Seating for South African Homes | ArtisanSA Blog
-    Updated: 2026-05-06T01:36:32Z
+  - [Coffee Table South Africa: 4 Picks for Every Lounge | ArtisanSA](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/coffee-table-south-africa): Coffee Table South Africa: 4 Picks for Every Lounge | ArtisanSA
+    Updated: 2026-08-11T07:42:26Z
     Author: Artisan Furniture
+    Tags: coffee table south africa, glass coffee table, lounge table SA, marble coffee table, rustic coffee table SA
   - [Gray Chairs: The Versatile Home Decor Trend Taking South Africa by Storm | ArtisanSA Blog](https://www.artisansa.co.za/blogs/furnishing-your-home-office-for-remote-work/elevate-your-home-office-comfort-with-stylish-bar-chairs-and-sf-112-pot-plant-stands): Gray Chairs: The Versatile Home Decor Trend Taking South Africa by Storm | ArtisanSA Blog
     Updated: 2026-05-06T01:36:54Z
     Author: Artisan Furniture
@@ -2241,27 +2256,27 @@
     Author: Artisan Furniture
 - [Sales Promotions | Artisansa Furniture](https://www.artisansa.co.za/blogs/sales-promotions): Explore our latest Sales Promotions at Artisan SA. Read expert advice, industry news, and premium furniture styling tips for your home.
   - [Outdoor Furniture South Africa: Patio Chairs Guide 2026 | Artisan SA](https://www.artisansa.co.za/blogs/sales-promotions/outdoor-furniture-south-africa-patio-camping-chairs-2026): Outdoor Furniture South Africa: Patio Chairs Guide 2026 | Artisan SA
-    Updated: 2026-07-08T04:09:21Z
+    Updated: 2026-08-11T07:39:53Z
     Author: Artisan Furniture
     Tags: camping chair South Africa, folding chair SA, garden furniture SA, outdoor furniture South Africa, patio furniture SA, PE rattan furniture
   - [Storage Shelves South Africa | 4-Tier Shelf Guide 2026 | Artisan SA](https://www.artisansa.co.za/blogs/sales-promotions/storage-shelves-south-africa-buying-guide-2026): Storage Shelves South Africa | 4-Tier Shelf Guide 2026 | Artisan SA
-    Updated: 2026-07-08T04:10:33Z
+    Updated: 2026-08-11T07:40:20Z
     Author: Artisan Furniture
     Tags: bookshelf SA, foldable shelf, home organisation, industrial shelf, ladder shelf, storage shelves South Africa
   - [White Coffee Tables South Africa | Artisan SA](https://www.artisansa.co.za/blogs/sales-promotions/white-coffee-tables-south-africa): White Coffee Tables South Africa | Artisan SA
-    Updated: 2026-07-10T08:19:17Z
+    Updated: 2026-08-11T07:40:35Z
     Author: Artisan Furniture
     Tags: coffee table, flatpack furniture, home decor South Africa, living room furniture, marble coffee table, modern living room, Scandinavian design, South Africa furniture, storage coffee table, white coffee table
   - [Coffee Tables South Africa | Nesting & Storage Guide 2026 | Artisan SA](https://www.artisansa.co.za/blogs/sales-promotions/coffee-tables-south-africa-buying-guide-2026): Coffee Tables South Africa | Nesting & Storage Guide 2026 | Artisan SA
-    Updated: 2026-07-08T04:10:47Z
+    Updated: 2026-08-11T07:40:47Z
     Author: Artisan Furniture
     Tags: coffee table South Africa, glass coffee table, living room furniture SA, marble coffee table, multifunctional furniture, nesting coffee table
   - [Nesting Coffee Table Set SA: Round Design | Artisansa SA](https://www.artisansa.co.za/blogs/sales-promotions/nesting-coffee-table-set-sa): Nesting Coffee Table Set SA: Round Design | Artisansa SA
-    Updated: 2026-07-23T05:38:20Z
+    Updated: 2026-08-11T07:41:27Z
     Author: Artisan Furniture
     Tags: ArtisanSA, coffee table SA, CT-002, living room furniture SA, nesting coffee table set SA
   - [Kitchen Shelf South Africa: Storage Rack OT-114 | ArtisanSA](https://www.artisansa.co.za/blogs/sales-promotions/kitchen-shelf-south-africa): Kitchen Shelf South Africa: Storage Rack OT-114 | ArtisanSA
-    Updated: 2026-07-28T06:37:44Z
+    Updated: 2026-08-11T07:42:02Z
     Author: Artisan Furniture
     Tags: freestanding shelf, kitchen shelf south africa, kitchen storage, OT-114, storage rack SA
   - [Elevate Your Living Room Decor: Must-Have Furniture for South African Homes | ArtisanSA Blog](https://www.artisansa.co.za/blogs/sales-promotions/upgrade-your-living-space-exclusive-deals-on-tt-01-coffee-tables-and-more): Elevate Your Living Room Decor: Must-Have Furniture for South African Homes | ArtisanSA Blog
@@ -2389,19 +2404,19 @@
     Author: Artisan Furniture
 - [Customer Stories | Artisansa Furniture](https://www.artisansa.co.za/blogs/customer-stories): Explore our latest Customer Stories at Artisan SA. Read expert advice, industry news, and premium furniture styling tips for your home.
   - [Dressing Area Ideas for SA Bedrooms 2026 | Artisan SA](https://www.artisansa.co.za/blogs/customer-stories/dressing-area-ideas-south-african-bedrooms-2026): Dressing Area Ideas for SA Bedrooms 2026 | Artisan SA
-    Updated: 2026-07-08T04:09:12Z
+    Updated: 2026-08-11T07:39:58Z
     Author: Artisan Furniture
     Tags: bedroom organisation South Africa, dressing area ideas South Africa, dressing table ideas, Hollywood mirror vanity, makeup area ideas SA, vanity setup SA
   - [Dressing Tables South Africa | Vanity Desk Guide 2026 | Artisan SA](https://www.artisansa.co.za/blogs/customer-stories/dressing-tables-south-africa-buying-guide-2026): Dressing Tables South Africa | Vanity Desk Guide 2026 | Artisan SA
-    Updated: 2026-07-08T04:09:56Z
+    Updated: 2026-08-11T07:40:25Z
     Author: Artisan Furniture
     Tags: bedroom furniture South Africa, dressing table South Africa, LED vanity mirror, makeup table, mirror dressing table, vanity desk SA
   - [Bar Stools South Africa: CR-B02 Set of 2 | ArtisanSA](https://www.artisansa.co.za/blogs/customer-stories/bar-stools-south-africa): Bar Stools South Africa: CR-B02 Set of 2 | ArtisanSA
-    Updated: 2026-07-27T02:40:04Z
+    Updated: 2026-08-11T07:41:35Z
     Author: Artisan Furniture
     Tags: adjustable bar stool, bar stool SA, bar stools south africa, CR-B02, kitchen bar stool
   - [Recliner Chair South Africa: Corduroy CR | ArtisanSA](https://www.artisansa.co.za/blogs/customer-stories/recliner-chair-south-africa): Recliner Chair South Africa: Corduroy CR | ArtisanSA
-    Updated: 2026-07-28T05:55:21Z
+    Updated: 2026-08-11T07:41:55Z
     Author: Artisan Furniture
     Tags: corduroy recliner, lounge chair SA, manual recliner, recliner chair south africa, recliner with cup holders
   - [Elevate Your Home Bar: Discover the Dahlia Bar Stool, South Africa's Must-Have Furniture Piece | ArtisanSA Blog](https://www.artisansa.co.za/blogs/customer-stories/elevating-comfort-real-life-experiences-with-the-cr-b11-bar-chairs): Elevate Your Home Bar: Discover the Dahlia Bar Stool, South Africa's Must-Have Furniture Piece | ArtisanSA Blog
@@ -2464,9 +2479,10 @@
   - [Upgrade Your Entertainment: Choosing the Right TV Wall Mount for Your 65-70 Inch TV in South Africa | ArtisanSA Blog](https://www.artisansa.co.za/blogs/customer-stories/maximizing-comfort-in-small-spaces-customer-stories-on-entertainment-centers-tv-stands): Upgrade Your Entertainment: Choosing the Right TV Wall Mount for Your 65-70 Inch TV in South Africa | ArtisanSA Blog
     Updated: 2026-05-06T01:36:36Z
     Author: Artisan Furniture
-  - [The South African Guide to Creating a Modern, Productive Workspace at Home | ArtisanSA Blog](https://www.artisansa.co.za/blogs/customer-stories/transforming-living-spaces-customer-tales-of-rustic-tv-stand-elegance): The South African Guide to Creating a Modern, Productive Workspace at Home | ArtisanSA Blog
-    Updated: 2026-05-06T01:37:25Z
+  - [Office Desk South Africa: 3 Picks for Every Setup | ArtisanSA](https://www.artisansa.co.za/blogs/customer-stories/office-desk-south-africa): Office Desk South Africa: 3 Picks for Every Setup | ArtisanSA
+    Updated: 2026-08-11T07:42:35Z
     Author: Artisan Furniture
+    Tags: computer desk SA, folding desk, home office desk, office desk south africa, student desk SA
   - [Boost Your Productivity: Why a White Ergonomic Office Chair is Essential in South Africa | ArtisanSA Blog](https://www.artisansa.co.za/blogs/customer-stories/how-our-coffee-tables-transformed-customer-living-spaces-real-life-stories): Boost Your Productivity: Why a White Ergonomic Office Chair is Essential in South Africa | ArtisanSA Blog
     Updated: 2026-05-06T01:37:34Z
     Author: Artisan Furniture
@@ -2508,23 +2524,24 @@
     Author: Artisan Furniture
 - [News Blog | Artisansa Furniture](https://www.artisansa.co.za/blogs/news): Explore our latest News at Artisan SA. Read expert advice, industry news, and premium furniture styling tips for your home.
   - [Best Folding Wagon South Africa 2026 | Artisan SA](https://www.artisansa.co.za/blogs/news/rolling-into-style-the-rise-of-the-4-tier-round-storage-cart): Best Folding Wagon South Africa 2026 | Artisan SA
-    Updated: 2026-07-10T03:04:38Z
+    Updated: 2026-08-11T07:40:04Z
     Author: Artisan Furniture
   - [How to Choose a TV Stand for Your South African Home – ArtisanSA](https://www.artisansa.co.za/blogs/news/modern-tv-stands-south-africa): How to Choose a TV Stand for Your South African Home – ArtisanSA
-    Updated: 2026-07-20T04:03:13Z
+    Updated: 2026-08-11T07:41:05Z
     Author: Artisan Furniture
     Tags: living room furniture SA, media unit SA, modern TV stand Cape Town, TV furniture Johannesburg, TV stand South Africa
   - [TV Stand South Africa: Smart LED TV Stand | ArtisanSA](https://www.artisansa.co.za/blogs/news/tv-stand-south-africa): TV Stand South Africa: Smart LED TV Stand | ArtisanSA
-    Updated: 2026-07-27T05:50:47Z
+    Updated: 2026-08-11T07:41:45Z
     Author: Artisan Furniture
     Tags: floating tv stand, LED tv stand, smart tv stand SA, tv stand south africa, TV-11
   - [Wardrobe South Africa: 2 & 3 Door Options | ArtisanSA](https://www.artisansa.co.za/blogs/news/wardrobe-south-africa): Wardrobe South Africa: 2 & 3 Door Options | ArtisanSA
-    Updated: 2026-07-27T09:24:30Z
+    Updated: 2026-08-11T07:41:50Z
     Author: Artisan Furniture
     Tags: 2 door wardrobe, 3 door wardrobe, bedroom wardrobe, wardrobe cabinet SA, wardrobe south africa
-  - [Game Room Glam: Modern Pool Table Lights to Transform Your South African Man Cave | ArtisanSA Blog](https://www.artisansa.co.za/blogs/news/revolutionizing-your-living-room-the-rise-of-entertainment-centers-tv-stands-for-14-42-screens): Game Room Glam: Modern Pool Table Lights to Transform Your South African Man Cave | ArtisanSA Blog
-    Updated: 2026-05-06T01:26:52Z
+  - [Bunk Bed South Africa: Double or Triple? How to Choose | ArtisanSA](https://www.artisansa.co.za/blogs/news/bunk-bed-south-africa): Bunk Bed South Africa: Double or Triple? How to Choose | ArtisanSA
+    Updated: 2026-08-11T07:42:09Z
     Author: Artisan Furniture
+    Tags: bunk bed south africa, kids bunk bed SA, metal bunk bed, space saving bed SA, triple bunk bed SA
   - [Maximize Your Living Space: The Ultimate Multi-Functional Coffee Table TV Stand | ArtisanSA Blog](https://www.artisansa.co.za/blogs/news/advancements-in-home-entertainment-the-evolution-of-entertainment-centers-tv-stands): Maximize Your Living Space: The Ultimate Multi-Functional Coffee Table TV Stand | ArtisanSA Blog
     Updated: 2026-05-06T01:27:01Z
     Author: Artisan Furniture
@@ -2629,22 +2646,22 @@
     Author: Artisan Furniture
 - [Industry Trends | Artisan SA](https://www.artisansa.co.za/blogs/industry-trends): Explore our latest Industry Trends at Artisan SA. Read expert advice, industry news, and premium furniture styling tips for your home.
   - [Ergonomic Desk Chair South Africa | Modern Setup](https://www.artisansa.co.za/blogs/industry-trends/ergonomic-desk-chair-south-africa): Ergonomic Desk Chair South Africa | Modern Setup
-    Updated: 2026-07-08T04:12:17Z
+    Updated: 2026-08-11T07:40:11Z
     Author: Artisan Furniture
     Tags: Ergonomic Chair, Minimalist Setup, office furniture
   - [Recliners and Coffee Tables South Africa 2026 | Artisan SA](https://www.artisansa.co.za/blogs/industry-trends/style-south-african-living-room-recliners-coffee-tables-2026): Recliners and Coffee Tables South Africa 2026 | Artisan SA
-    Updated: 2026-07-08T04:09:38Z
+    Updated: 2026-08-11T07:40:30Z
     Author: Artisan Furniture
     Tags: coffee table South Africa, home cinema chair, living room furniture South Africa, living room styling SA, recliner sofa SA
   - [High Back Executive Office Chairs South Africa 2026 | Artisan SA](https://www.artisansa.co.za/blogs/industry-trends/high-back-executive-office-chairs-south-africa-2026): High Back Executive Office Chairs South Africa 2026 | Artisan SA
-    Updated: 2026-07-08T04:10:12Z
+    Updated: 2026-08-11T07:40:41Z
     Author: Artisan Furniture
   - [Modern Dining Room Design South Africa – ArtisanSA](https://www.artisansa.co.za/blogs/industry-trends/modern-dining-space-south-africa): Modern Dining Room Design South Africa – ArtisanSA
-    Updated: 2026-07-20T05:35:16Z
+    Updated: 2026-08-11T07:41:13Z
     Author: Artisan Furniture
     Tags: dining furniture SA, dining room South Africa, dining space Cape Town, kitchen dining furniture Johannesburg, modern dining table SA
   - [Round Walnut Dining Tables South Africa | Artisansa](https://www.artisansa.co.za/blogs/industry-trends/round-walnut-dining-table-south-africa): Round Walnut Dining Tables South Africa | Artisansa
-    Updated: 2026-07-14T09:19:17Z
+    Updated: 2026-08-11T07:41:39Z
     Author: Artisan Furniture
     Tags: bar stools, bar table, dining room furniture, dining table, flatpack furniture, home decor, industrial style, kitchen furniture, rustic industrial, South Africa
   - [Mesh Backpacks: The Ultimate Comfort and Style for South African Adventures | ArtisanSA Blog](https://www.artisansa.co.za/blogs/industry-trends/redefining-workspaces-the-rise-of-teak-desks-and-modern-work-desks-in-industry-trends): Mesh Backpacks: The Ultimate Comfort and Style for South African Adventures | ArtisanSA Blog
@@ -2653,9 +2670,10 @@
   - [Reflecting Style: How Mirror Surface Coffee Tables are Redefining Living Spaces | ArtisanSA Blog](https://www.artisansa.co.za/blogs/industry-trends/reflecting-style-how-mirror-surface-coffee-tables-are-redefining-living-spaces): Reflecting Style: How Mirror Surface Coffee Tables are Redefining Living Spaces | ArtisanSA Blog
     Updated: 2026-05-06T01:27:14Z
     Author: Artisan Furniture
-  - [Versatile Elegance: How a White Table Can Revolutionize Your South African Home Decor | ArtisanSA Blog](https://www.artisansa.co.za/blogs/industry-trends/adapting-spaces-the-rise-of-wall-mounted-bar-chairs-tv-brackets-for-26-65-screens-in-industry-trends): Versatile Elegance: How a White Table Can Revolutionize Your South African Home Decor | ArtisanSA Blog
-    Updated: 2026-05-06T01:27:19Z
+  - [Bar Stools South Africa: Sets & Styles for Every Kitchen | ArtisanSA](https://www.artisansa.co.za/blogs/industry-trends/bar-stools-south-africa): Bar Stools South Africa: Sets & Styles for Every Kitchen | ArtisanSA
+    Updated: 2026-08-11T09:44:32Z
     Author: Artisan Furniture
+    Tags: bar stools south africa, bar table set SA, counter stools SA, kitchen bar stools SA, velvet bar stool
   - [Revolutionize Your Space: Modular and Eco-Friendly Storage Solutions for South African Living | ArtisanSA Blog](https://www.artisansa.co.za/blogs/industry-trends/navigating-the-latest-trends-in-bar-seating-spotlight-on-leather-bar-stools-and-innovative-designs): Revolutionize Your Space: Modular and Eco-Friendly Storage Solutions for South African Living | ArtisanSA Blog
     Updated: 2026-05-06T01:27:39Z
     Author: Artisan Furniture
@@ -2719,9 +2737,10 @@
   - [Maximize Your Space: Small Room Organization Hacks for South African Apartments | ArtisanSA Blog](https://www.artisansa.co.za/blogs/industry-trends/exploring-the-charm-of-rustic-coffee-tables-in-modern-decor-trends-and-insights): Maximize Your Space: Small Room Organization Hacks for South African Apartments | ArtisanSA Blog
     Updated: 2026-05-06T01:37:16Z
     Author: Artisan Furniture
-  - [The Rise of Entertainment Centers & TV Stands: Redefining the Living Space | ArtisanSA Blog](https://www.artisansa.co.za/blogs/industry-trends/the-rise-of-entertainment-centers-tv-stands-redefining-the-living-space): The Rise of Entertainment Centers & TV Stands: Redefining the Living Space | ArtisanSA Blog
-    Updated: 2026-05-06T01:37:20Z
+  - [Shoe Cabinet South Africa: 3 Options for Every Entryway | ArtisanSA](https://www.artisansa.co.za/blogs/industry-trends/shoe-cabinet-south-africa): Shoe Cabinet South Africa: 3 Options for Every Entryway | ArtisanSA
+    Updated: 2026-08-11T07:42:30Z
     Author: Artisan Furniture
+    Tags: entryway storage, rattan shoe cabinet, shoe bench SA, shoe cabinet south africa, shoe storage SA
   - [Space-Saving Solutions: How to Revolutionize Your South African Home with Smart Furniture Choices | ArtisanSA Blog](https://www.artisansa.co.za/blogs/industry-trends/redefining-elegance-the-rise-of-dahlia-gold-barstools-2-in-1-bar-stools-in-modern-decor): Space-Saving Solutions: How to Revolutionize Your South African Home with Smart Furniture Choices | ArtisanSA Blog
     Updated: 2026-05-06T01:38:02Z
     Author: Artisan Furniture
