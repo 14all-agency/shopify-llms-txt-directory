@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-01-06T07:45:28Z
 - Contact Email: info@dreambeauty.com.au
-- Updated At: 2026-07-29T00:00:40.385Z
+- Updated At: 2026-08-12T00:00:47.268Z
 
 ## Products
 
@@ -1180,7 +1180,7 @@
   Image: https://cdn.shopify.com/s/files/1/0736/5269/9387/files/L_orealLPMetalDetoxLeave-inMoisturizer100ml.webp?v=1775880660
   Price: $59.99 AUD
 - [Collagen Miracle Mask 500ml | Intensive Hair Repair ](https://dreambeauty.com.au/products/kerasmooth-collagen-miracle-mask-500ml): Shop Collagen Miracle Mask 500ml — an intensive collagen hair  that restores strength, shine, and moisture to dry and damaged hair.
-  Updated: 2026-07-25T00:44:36Z
+  Updated: 2026-08-07T21:32:47Z
   Vendor: Kerasmooth
   Product Type: Hair 
   Availability: Available
@@ -1691,7 +1691,7 @@
   Updated: 2026-04-10T22:36:29Z
   Total Products: 1
 - [New Arrivals](https://dreambeauty.com.au/collections/new-arrivals): Discover our new arrivals in hair, beauty, and skincare products at amazing discounts! Shop now for premium formulas that nourish and enhance your natural glow. - Dream Beauty
-  Updated: 2026-07-26T11:24:23Z
+  Updated: 2026-08-08T11:23:50Z
   Total Products: 509
 - [Skin Care](https://dreambeauty.com.au/collections/skin-care): Discover premium skincare products for healthy, glowing skin. Hydrating cleansers, rejuvenating serums, and moisturizers to enhance your skincare routine. - Dream Beauty
   Updated: 2026-06-04T01:42:08Z
@@ -1763,7 +1763,7 @@
   Updated: 2026-06-04T01:43:47Z
   Total Products: 2
 - [Hair ](https://dreambeauty.com.au/collections/hair-): Shop hair  products for restored, healthy hair. Nourishing treatments for all hair types to repair, hydrate, and strengthen. Buy now for soft, vibrant hair! - Dream Beauty
-  Updated: 2026-07-25T11:24:39Z
+  Updated: 2026-08-08T11:23:50Z
   Total Products: 51
 - [Hair Wash](https://dreambeauty.com.au/collections/hair-wash): Shop premium hair wash products for clean, healthy hair. Gentle formulas for all hair types that nourish and refresh. Buy now for shiny, soft hair every day! - Dream Beauty
   Updated: 2026-06-04T01:43:47Z
@@ -1784,7 +1784,7 @@
   Updated: 2026-06-04T01:43:48Z
   Total Products: 5
 - [LUNAR NEW YEAR OFFERS | Upto 50% off](https://dreambeauty.com.au/collections/lunar-new-year-offers-upto-50-off): Shine this Lunar New Year with top-tier hair care! Dream Beauty offers up to 50% off luxury shampoos, conditioners, and styling products. Limited time only - Dream Beauty
-  Updated: 2026-07-26T11:24:23Z
+  Updated: 2026-08-08T11:23:50Z
   Total Products: 491
 - [Moroccanoil](https://dreambeauty.com.au/collections/moroccanoil): - Dream Beauty
   Updated: 2026-06-04T01:44:24Z
@@ -1808,7 +1808,7 @@
   Updated: 2026-06-04T01:48:54Z
   Total Products: 17
 - [Kerasmooth](https://dreambeauty.com.au/collections/kerasmooth): - Dream Beauty
-  Updated: 2026-07-25T11:24:39Z
+  Updated: 2026-08-08T11:23:50Z
   Total Products: 6
 - [Evo](https://dreambeauty.com.au/collections/evo): - Dream Beauty
   Updated: 2026-06-04T01:50:54Z
@@ -1856,13 +1856,13 @@
   Updated: 2026-06-04T02:54:53Z
   Total Products: 35
 - [Trending Now](https://dreambeauty.com.au/collections/trending-now): - Dream Beauty
-  Updated: 2026-07-26T11:24:23Z
+  Updated: 2026-08-08T11:23:50Z
   Total Products: 485
 - [ ](https://dreambeauty.com.au/collections/-): - Dream Beauty
   Updated: 2026-07-20T11:22:17Z
   Total Products: 24
 - [Valentine's Day ](https://dreambeauty.com.au/collections/valentines-day-): - Dream Beauty
-  Updated: 2026-07-26T11:24:23Z
+  Updated: 2026-08-08T11:23:50Z
   Total Products: 491
 
 ## Blogs
