@@ -6,12 +6,12 @@
 - Timezone: America/Phoenix
 - Created At: 2026-06-21T13:13:20Z
 - Contact Email: legend1apparel@gmail.com
-- Updated At: 2026-08-06T05:05:51.499Z
+- Updated At: 2026-08-13T08:00:43.429Z
 
 ## Products
 
 - [American Muscle T-Shirt – 1966 Ford Mustang Hardtop Car Graphic Tee](https://legend1apparel.com/products/american-muscle-t-shirt-1966-ford-mustang-hardtop-car-graphic-tee-copy-copy-copy-copy-copy): American Muscle T-Shirt – 1966 Ford Mustang Hardtop Car Graphic Tee
-  Updated: 2026-07-30T22:02:05Z
+  Updated: 2026-08-06T14:48:24Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -161,7 +161,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1923 Ford T Bucket American Muscle T-Shirt – 23 Ford Car Graphic Tee](https://legend1apparel.com/products/american-muscle-t-shirt-1966-ford-mustang-hardtop-car-graphic-tee-copy): 1923 Ford T Bucket American Muscle T-Shirt – 23 Ford Car Graphic Tee
-  Updated: 2026-07-30T23:58:54Z
+  Updated: 2026-08-06T14:48:23Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -311,7 +311,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1932 Ford Coupe American Muscle T-Shirt – 32 Deuce Coupe Ford Car Graphic Tee](https://legend1apparel.com/products/1923-ford-t-bucket-american-muscle-t-shirt-23-ford-car-graphic-tee-copy): 1932 Ford Coupe American Muscle T-Shirt – 32 Deuce Coupe Ford Car Graphic Tee
-  Updated: 2026-08-05T05:51:33Z
+  Updated: 2026-08-06T14:48:23Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -461,7 +461,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1933 Pontiac Coupe American Muscle T-Shirt – 33 5 Window Coupe Ford Car Graphic Tee](https://legend1apparel.com/products/1932-ford-coupe-american-muscle-t-shirt-32-deuce-coupe-ford-car-graphic-tee-copy): 1933 Pontiac Coupe American Muscle T-Shirt – 33 5 Window Coupe Ford Car Graphic Tee
-  Updated: 2026-08-04T06:30:44Z
+  Updated: 2026-08-06T14:46:02Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -611,7 +611,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1940 Ford Coupe American Muscle T-Shirt –40 Ford Coupe Car Graphic Tee](https://legend1apparel.com/products/1933-pontiac-coupe-american-muscle-t-shirt-33-5-window-coupe-ford-car-graphic-tee-copy): 1940 Ford Coupe American Muscle T-Shirt –40 Ford Coupe Car Graphic Tee
-  Updated: 2026-08-04T06:35:52Z
+  Updated: 2026-08-06T14:43:19Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -761,7 +761,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1947 Ford Coupe American Muscle T-Shirt –47 Ford Coupe Car Graphic Tee](https://legend1apparel.com/products/1940-ford-coupe-american-muscle-t-shirt-40-ford-coupe-car-graphic-tee-copy): 1947 Ford Coupe American Muscle T-Shirt –47 Ford Coupe Car Graphic Tee
-  Updated: 2026-08-04T06:42:57Z
+  Updated: 2026-08-06T14:43:18Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -911,7 +911,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1954 Chevy Bel Air American Muscle T-Shirt –54 Chevrolet Bel Air Classic Car Graphic Tee](https://legend1apparel.com/products/1947-ford-coupe-american-muscle-t-shirt-47-ford-coupe-car-graphic-tee-copy): 1954 Chevy Bel Air American Muscle T-Shirt –54 Chevrolet Bel Air Classic Car Graphic Tee
-  Updated: 2026-08-04T06:48:11Z
+  Updated: 2026-08-06T14:43:14Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1061,7 +1061,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1955 Chevy Bel Air American Muscle T-Shirt –55 Chevrolet Bel Air Classic Car Graphic Tee](https://legend1apparel.com/products/1954-chevy-bel-air-american-muscle-t-shirt-54-chevrolet-bel-air-classic-car-graphic-tee-copy): 1955 Chevy Bel Air American Muscle T-Shirt –55 Chevrolet Bel Air Classic Car Graphic Tee
-  Updated: 2026-08-04T07:16:32Z
+  Updated: 2026-08-06T14:43:05Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1211,7 +1211,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1955 Chevy Bel Air Nomad American Muscle T-Shirt –55 Chevrolet Nomad Classic Car Graphic Tee](https://legend1apparel.com/products/1955-chevy-bel-air-american-muscle-t-shirt-55-chevrolet-bel-air-classic-car-graphic-tee-copy): 1955 Chevy Bel Air Nomad American Muscle T-Shirt –55 Chevrolet Nomad Classic Car Graphic Tee
-  Updated: 2026-08-04T07:18:56Z
+  Updated: 2026-08-06T14:43:05Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1361,7 +1361,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1955 Chevy Truck American Muscle T-Shirt –55 Chevrolet Pick up Classic Truck Graphic Tee](https://legend1apparel.com/products/1955-chevy-bel-air-american-muscle-t-shirt-55-chevrolet-bel-air-classic-car-graphic-tee-copy-1): 1955 Chevy Truck American Muscle T-Shirt –55 Chevrolet Pick up Classic Truck Graphic Tee
-  Updated: 2026-08-04T07:21:03Z
+  Updated: 2026-08-06T14:43:13Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1511,7 +1511,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1955 Ford Thunderbird American Muscle T-Shirt –55 Ford Classic Car Graphic Tee](https://legend1apparel.com/products/1947-ford-coupe-american-muscle-t-shirt-47-ford-coupe-car-graphic-tee-copy-1): 1955 Ford Thunderbird American Muscle T-Shirt –55 Ford Classic Car Graphic Tee
-  Updated: 2026-08-04T07:22:59Z
+  Updated: 2026-08-06T14:43:11Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1661,7 +1661,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Chevy Bel Air American Muscle T-Shirt –56 Chevrolet Bel Air Classic Car Graphic Tee](https://legend1apparel.com/products/1955-chevy-bel-air-american-muscle-t-shirt-55-chevrolet-bel-air-classic-car-graphic-tee-copy-2): 1956 Chevy Bel Air American Muscle T-Shirt –56 Chevrolet Bel Air Classic Car Graphic Tee
-  Updated: 2026-08-04T07:57:00Z
+  Updated: 2026-08-06T14:43:08Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1811,7 +1811,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Chevy Bel Air American Muscle T-Shirt –56 Chevrolet Bel Air Classic Car Graphic Tee](https://legend1apparel.com/products/1956-chevy-bel-air-american-muscle-t-shirt-56-chevrolet-bel-air-classic-car-graphic-tee-copy-copy): 1956 Chevy Bel Air American Muscle T-Shirt –56 Chevrolet Bel Air Classic Car Graphic Tee
-  Updated: 2026-08-04T07:59:05Z
+  Updated: 2026-08-06T14:43:03Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1961,7 +1961,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Chevy Bel Air Nomad American Muscle T-Shirt –56 Chevrolet Nomad Classic Car Graphic Tee](https://legend1apparel.com/products/1956-chevy-bel-air-american-muscle-t-shirt-56-chevrolet-bel-air-classic-car-graphic-tee-copy): 1956 Chevy Bel Air Nomad American Muscle T-Shirt –56 Chevrolet Nomad Classic Car Graphic Tee
-  Updated: 2026-08-04T08:00:31Z
+  Updated: 2026-08-06T14:43:05Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2111,7 +2111,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Chevy Truck American Muscle T-Shirt – 56 Chevrolet Pick up Classic Truck Graphic Tee](https://legend1apparel.com/products/1955-chevy-truck-american-muscle-t-shirt-55-chevrolet-pick-up-classic-truck-graphic-tee-copy): 1956 Chevy Truck American Muscle T-Shirt – 56 Chevrolet Pick up Classic Truck Graphic Tee
-  Updated: 2026-08-04T08:02:31Z
+  Updated: 2026-08-06T14:42:55Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2261,7 +2261,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Ford F100 Truck American Muscle T-Shirt –56 Ford Pick up Graphic Tee](https://legend1apparel.com/products/1947-ford-coupe-american-muscle-t-shirt-47-ford-coupe-car-graphic-tee-copy-2): 1956 Ford F100 Truck American Muscle T-Shirt –56 Ford Pick up Graphic Tee
-  Updated: 2026-08-04T08:11:36Z
+  Updated: 2026-08-06T14:32:23Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2411,7 +2411,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Pontiac Safari American Muscle T-Shirt – 56 Pontiac Wagon Classic Car Graphic Tee](https://legend1apparel.com/products/1933-pontiac-coupe-american-muscle-t-shirt-33-5-window-coupe-ford-car-graphic-tee-copy-1): 1956 Pontiac Safari American Muscle T-Shirt – 56 Pontiac Wagon Classic Car Graphic Tee
-  Updated: 2026-08-04T08:15:23Z
+  Updated: 2026-08-06T14:32:19Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2561,7 +2561,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1957 Chevy Bel Air American Muscle T-Shirt – 57 Chevrolet Bel Air Classic Car Graphic Tee](https://legend1apparel.com/products/1956-chevy-bel-air-american-muscle-t-shirt-56-chevrolet-bel-air-classic-car-graphic-tee-copy-1): 1957 Chevy Bel Air American Muscle T-Shirt – 57 Chevrolet Bel Air Classic Car Graphic Tee
-  Updated: 2026-08-04T09:04:51Z
+  Updated: 2026-08-06T14:32:23Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2711,7 +2711,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1957 Chevrolet Truck American Muscle T-Shirt – 57 Chevy Classic Pick Up Graphic Tee](https://legend1apparel.com/products/1957-chevy-bel-air-american-muscle-t-shirt-57-chevrolet-bel-air-classic-car-graphic-tee-copy-copy): 1957 Chevrolet Truck American Muscle T-Shirt – 57 Chevy Classic Pick Up Graphic Tee
-  Updated: 2026-08-04T09:02:25Z
+  Updated: 2026-08-06T14:32:20Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2861,7 +2861,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1957 Chevrolet Corvette C1 American Muscle T-Shirt – 57 Chevy Classic Car Graphic Tee](https://legend1apparel.com/products/1957-chevrolet-truck-american-muscle-t-shirt-57-chevy-classic-pick-up-graphic-tee-copy): 1957 Chevrolet Corvette C1 American Muscle T-Shirt – 57 Chevy Classic Car Graphic Tee
-  Updated: 2026-08-04T08:36:55Z
+  Updated: 2026-08-06T14:27:35Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3011,7 +3011,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1960 Chevrolet Corvette C1 American Muscle T-Shirt – 60 Chevy Classic Car Graphic Tee](https://legend1apparel.com/products/1957-chevrolet-corvette-c1-american-muscle-t-shirt-57-chevy-classic-car-graphic-tee-copy): 1960 Chevrolet Corvette C1 American Muscle T-Shirt – 60 Chevy Classic Car Graphic Tee
-  Updated: 2026-08-04T10:05:54Z
+  Updated: 2026-08-06T14:27:37Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3161,7 +3161,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1960 Chevrolet Truck American Muscle T-Shirt – 60 Chevy Classic Pick Up Graphic Tee](https://legend1apparel.com/products/1957-chevrolet-truck-american-muscle-t-shirt-57-chevy-classic-pick-up-graphic-tee-copy-1): Rev up your style with our classic car graphic T-shirt. Featuring premium vintage designs and ultimate comfort, it's the perfect gift for auto enthusiasts. Buy yours!
-  Updated: 2026-08-04T10:24:31Z
+  Updated: 2026-08-06T14:27:34Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3315,10 +3315,10 @@
 ## Collections
 
 - [Home page](https://legend1apparel.com/collections/frontpage)
-  Updated: 2026-08-03T11:23:41Z
+  Updated: 2026-08-11T11:27:17Z
   Total Products: 404
 - [Route 66 Centennial T-Shirt](https://legend1apparel.com/collections/route-66-centennial-t-shirt): Route 66 Centennial T-Shirt. Featuring Different Classic cars or Trucks on Route 66 100 Year anniversary. All watermarks will be removed on the final print on shirt.
-  Updated: 2026-08-03T11:23:41Z
+  Updated: 2026-08-09T11:26:52Z
   Total Products: 173
 - [American Muscle T-shirt](https://legend1apparel.com/collections/american-muscle-t-shirt): American Muscle T-shirt, Featuring Classic cars or Trucks. All watermarks will be removed from final print on shirt
   Updated: 2026-07-30T22:02:05Z
@@ -3327,7 +3327,7 @@
   Updated: 2026-07-30T22:02:05Z
   Total Products: 62
 - [American Classic T-shirt](https://legend1apparel.com/collections/american-classic-t-shirt): Shop American Classic graphic tees with bold retro Americana designs. Premium quality t-shirts for car and vintage culture enthusiasts.
-  Updated: 2026-08-03T11:23:41Z
+  Updated: 2026-08-11T11:27:17Z
   Total Products: 86
 
 ## Store Pages
@@ -3341,10 +3341,14 @@
 
 - [Privacy Policy](https://legend1apparel.com/policies/privacy-policy)
   Updated: 2026-06-21T06:13:31-07:00
+- [Shipping Policy](https://legend1apparel.com/policies/shipping-policy)
+  Updated: 2026-08-07T05:19:48-07:00
 - [Refund Policy](https://legend1apparel.com/policies/refund-policy)
   Updated: 2026-07-30T15:34:42-07:00
 - [Terms of Service](https://legend1apparel.com/policies/terms-of-service)
   Updated: 2026-07-30T15:35:28-07:00
+- [Contact Information](https://legend1apparel.com/policies/contact-information)
+  Updated: 2026-08-07T05:20:54-07:00
 
 ## Optional
 
