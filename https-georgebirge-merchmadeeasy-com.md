@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-31T19:06:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-30T21:16:55.139Z
+- Updated At: 2026-08-13T00:00:34.715Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Availability: Available
     Price: $35.00 USD
 - [It Ain't Austin Tee](https://georgebirge.merchmadeeasy.com/products/aint-it-austin-tee): It Ain't Austin tee Unisex tee in Charcoal 100% ring-spun cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-07-14T17:32:00Z
+  Updated: 2026-07-31T18:42:31Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Longhorn Tee](https://georgebirge.merchmadeeasy.com/products/longhorn-tee): Longhorn Tee Unisex tee in Natural 100% ring-spun cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-07-15T21:28:22Z
+  Updated: 2026-08-05T19:15:27Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -95,14 +95,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Cowboy Songs Hat | Official George Birge Merch](https://georgebirge.merchmadeeasy.com/products/cowboy-songs-hat): Only dances to cowboy songs Red puff embroidery on the front Embroidered logo on the side Mid profile baseball hat in Red/Natural
-  Updated: 2026-07-30T06:23:47Z
+  Updated: 2026-08-05T19:14:17Z
   Vendor: George Birge
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBCowboySongsHat.png?v=1748370054
   Price: $40.00 USD
 - [Longhorn Tallboy Koozie](https://georgebirge.merchmadeeasy.com/products/damn-right-i-do-koozie): Damn Right I Do Longhorn graphic on one side George Birge graphic on the other Made for tallboy cans
-  Updated: 2026-06-17T02:51:17Z
+  Updated: 2026-07-31T18:42:31Z
   Vendor: George Birge
   Product Type: Koozie
   Availability: Available
@@ -165,7 +165,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Longhorn Crewneck](https://georgebirge.merchmadeeasy.com/products/longhorn-crewneck): Longhorn graphic with Cowboy Songs on the front Unisex sweatshirt in Sand 80% cotton, 20% polyester 8.4 oz. SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 20 M 29 22 L 30 24 XL 31 26 2XL 32 27
-  Updated: 2026-07-24T04:10:57Z
+  Updated: 2026-08-08T13:46:48Z
   Vendor: George Birge
   Product Type: Sweatshirt
   Availability: Available
@@ -213,26 +213,47 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBSaddleUpHat.png?v=1768236303
   Price: $35.00 USD
+- [Longhorn Skull Tee](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee): Vintage-style graphic of a longhorn skull with 'GEORGE BIRGE' in blue letters and 'AUSTIN TEXAS 1987' on the front 100% cotton tee in Charcoal Unisex
+  Updated: 2026-08-10T17:43:47Z
+  Vendor: George Birge
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/0001_GB_Longhorn-Skull-Tee_1b17d8c1-eace-4aad-bbd6-a2b3fa703f69.png?v=1785252265
+  - [S](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee?variant=44266937483329)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee?variant=44266937516097)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee?variant=44266937548865)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee?variant=44266937581633)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee?variant=44266937614401)
+    Availability: Available
+    Price: $35.00 USD
 
 ## Collections
 
 - [New Arrivals](https://georgebirge.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-07-30T11:12:47Z
+  Updated: 2026-08-10T15:39:03Z
   Total Products: 15
 - [All](https://georgebirge.merchmadeeasy.com/collections/all)
-  Updated: 2026-07-30T19:53:05Z
-  Total Products: 16
+  Updated: 2026-08-11T11:14:50Z
+  Total Products: 17
 - [Apparel](https://georgebirge.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-07-28T15:26:29Z
+  Updated: 2026-08-11T11:14:50Z
   Total Products: 11
 - [Music](https://georgebirge.merchmadeeasy.com/collections/music)
   Updated: 2026-05-26T16:58:26Z
   Total Products: 0
 - [Accessories](https://georgebirge.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-07-30T11:12:47Z
+  Updated: 2026-08-06T11:15:41Z
   Total Products: 6
 - [2026 Tour Merch](https://georgebirge.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-07-30T19:54:17Z
+  Updated: 2026-08-11T11:14:50Z
   Total Products: 7
 
 ## Store Pages
