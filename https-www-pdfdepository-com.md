@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-09T00:13:32Z
 - Contact Email: pdfdepository.shopify@gmail.com
-- Updated At: 2026-08-02T00:00:39.564Z
+- Updated At: 2026-08-13T00:00:41.820Z
 
 ## Products
 
@@ -335,6 +335,26 @@
     Updated: 2026-07-31T01:33:00Z
     Author: PDF Depository
     Tags: budgeting, budgeting & finance, enhance relationships through finance, finance, financial wellness strategies, money, parenting & family, personal finance, relationship tips, relationships, smart budgeting, well-being, what are career growth strategies, what is the difference between health an
+  - [Career Growth Strategies for Balancing Finances and Family Needs](https://www.pdfdepository.com/blogs/news/career-growth-strategies-for-balancing-finances-and-family-needs): Career Growth Strategies for Balancing Finances and Family Needs
+    Updated: 2026-08-03T01:53:02Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, career, family finance, financial planning, money, parenting & family, personal finance management, relationships, self-help tips, wellness, what are career growth strategies, what is the difference between health an, work-life balance strategies
+  - [Parenting Budgets: Building a Prosperous Family Environment](https://www.pdfdepository.com/blogs/news/parenting-budgets-building-a-prosperous-family-environment): Parenting Budgets: Building a Prosperous Family Environment
+    Updated: 2026-08-05T02:06:34Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, create a prosperous family environment, family budget, financial planning, how to budget effectively, money, parenting, parenting & family, relationships, self-help techniques, well-being, what are career growth strategies, what is the difference between health an
+  - [Developing Holistic Wellness Goals through Financial and Career Planning](https://www.pdfdepository.com/blogs/news/developing-holistic-wellness-goals-through-financial-and-career-planning): Developing Holistic Wellness Goals through Financial and Career Planning
+    Updated: 2026-08-07T01:42:49Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, budgeting for well-being, career planning, finance, financial goals, holistic wellness strategies, money, parenting & family, relationships, self-help tips, wellness, what are career growth strategies, what is the difference between health an
+  - [Understanding the Intersection of Relationships Money and Family Well-being](https://www.pdfdepository.com/blogs/news/understanding-the-intersection-of-relationships-money-and-family-well-being): Understanding the Intersection of Relationships Money and Family Well-being
+    Updated: 2026-08-10T02:04:32Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, family budget, finance, improving family well-being, money, money management tips, parenting & family, personal growth, relationship health, relationships, wellness, what are career growth strategies, what is the difference between health an
+  - [The Role of Budgeting and Finance in Fostering Healthy Parenting and Family Relationships](https://www.pdfdepository.com/blogs/news/the-role-of-budgeting-and-finance-in-fostering-healthy-parenting-and-family-relationships): The Role of Budgeting and Finance in Fostering Healthy Parenting and Family Relationships
+    Updated: 2026-08-12T01:42:28Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, budgeting for families, family budgeting, finance, financial well-being strategies, healthy parenting, money, parenting & family, personal finance tips, relationships, wellness, what are career growth strategies, what is the difference between health an
 
 ## Store Pages
 
