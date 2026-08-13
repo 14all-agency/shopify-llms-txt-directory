@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2016-12-13T17:20:00Z
 - Contact Email: virgilio@great-mini.mx
-- Updated At: 2026-08-03T00:00:39.684Z
+- Updated At: 2026-08-13T00:00:47.076Z
 
 # GREAT + MINI · Mobiliario Corporativo y Equipamiento Integral
 
@@ -1609,33 +1609,33 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/82001638883358.webp?v=1750206477
   Price: 94.999,00 $ MXN
 - [❄️ WWCCF05145LHWSD / Congelador Horizontal 5 pies 145 Litros](https://great-mini.mx/products/wwccf05145lhwsd-congelador-horizontal-5-pies-145-litros): Congelador horizontal White-Westinghouse 5 pies 145L color blanco con control dual de temperatura y cerradura. Ideal para hogar o negocio.
-  Updated: 2026-05-05T03:40:11Z
+  Updated: 2026-08-04T16:26:32Z
   Vendor: WHITE-WESTINHOUSE
   Product Type: CONGELADOR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/WWCCF05145LHWSD_1.png?v=1777910478
-  Price: 5999,00 $ MXN
+  Price: 5399,00 $ MXN
 - [🧺 WWXCTT11703BK / Lavadora Doble Tina 11 kg](https://great-mini.mx/products/wwxctt11703bk-lavadora-doble-tina-11-kg): Lavadora doble tina White-Westinghouse 11 kg, eficiente y ahorradora de agua y energía. Ideal para hogar o negocio.
-  Updated: 2026-05-05T03:40:11Z
+  Updated: 2026-08-04T16:26:33Z
   Vendor: WHITE-WESTINHOUSE
   Product Type: LAVADORA
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/WWXCTT11703BK_-_1.png?v=1777835348
   Price: 3699,00 $ MXN
 - [🍽️ WWCR3011OOMIRWE / Horno de Microondas 1.1 pies Espejo](https://great-mini.mx/products/wwcr3011oomirwe-horno-microondas-1-1-pies-espejo): Horno de microondas White-Westinghouse 1.1 pies acabado espejo, 900W, 10 niveles de potencia. Diseño moderno y elegante para cocina u oficina.
-  Updated: 2026-05-05T03:40:11Z
+  Updated: 2026-08-04T16:26:33Z
   Vendor: WHITE-WESTINHOUSE
   Product Type: MICROONDAS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/WWCR3011OOMIRWE-1.png?v=1777835039
-  Price: 2899,00 $ MXN
+  Price: 2499,00 $ MXN
 - [🍽️ WWCMV10028WE / Horno de Microondas 0.9 pies Acero Inoxidable](https://great-mini.mx/products/wwcmv10028we-horno-microondas-0-9-pies-acero-inoxidable): Horno de microondas White-Westinghouse 0.9 pies color negro/acero, 900W, 5 niveles de potencia. Ideal para hogar u oficina.
-  Updated: 2026-05-05T03:40:11Z
+  Updated: 2026-08-04T16:26:29Z
   Vendor: WHITE-WESTINHOUSE
   Product Type: MICROONDAS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/WWCMV10028WE_-_1.png?v=1777834644
-  Price: 2899,00 $ MXN
+  Price: 2199,00 $ MXN
 - [MDC12A2 / 🍱⚡ - Microondas Menumaster® de Alto Volumen (1200W)](https://great-mini.mx/products/microondas-menumaster-heavy-volume-mdc12a2): Maximiza la eficiencia de tu cocina industrial con el Horno Microondas Menumaster MDC12A2 de 1200W. Alta potencia, durabilidad industrial y diseño compacto. ¡Cómpralo aquí!
   Updated: 2026-04-25T10:03:18Z
   Vendor: MENUMASTER
@@ -1795,8 +1795,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-07-01T00:30:45Z
   Total Products: 15
 - [SILLAS DE CAPACITACIÓN](https://great-mini.mx/collections/pupitres)
-  Updated: 2026-07-01T04:53:14Z
-  Total Products: 15
+  Updated: 2026-08-04T17:19:36Z
+  Total Products: 16
 - [SILLAS EJECUTIVAS](https://great-mini.mx/collections/sillas-ejecutivas-ergonomicas): En Great+Mini encontrarás una gran variedad de sillas ejecutivas con excelentes precios, calidad y servicio.
   Updated: 2026-07-01T05:28:09Z
   Total Products: 23
@@ -1846,7 +1846,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-16T01:34:06Z
   Total Products: 8
 - [BÁSICOS FOOD SERVICE](https://great-mini.mx/collections/food-service)
-  Updated: 2026-07-24T15:11:09Z
+  Updated: 2026-08-04T11:01:18Z
   Total Products: 50
 - [FREGADEROS](https://great-mini.mx/collections/fregaderos)
   Updated: 2026-06-08T18:28:04Z
@@ -1855,8 +1855,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:28:06Z
   Total Products: 5
 - [REFRIGERADORES](https://great-mini.mx/collections/refrigeradores)
-  Updated: 2026-07-20T15:10:59Z
-  Total Products: 24
+  Updated: 2026-08-08T05:49:07Z
+  Total Products: 25
 - [ESTUFAS](https://great-mini.mx/collections/estufas)
   Updated: 2026-06-29T20:30:58Z
   Total Products: 12
@@ -1876,8 +1876,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:46:47Z
   Total Products: 22
 - [KITCHEN AID](https://great-mini.mx/collections/kitchen-aid)
-  Updated: 2026-07-20T15:10:59Z
-  Total Products: 3
+  Updated: 2026-08-08T05:49:07Z
+  Total Products: 4
 - [IMPERIAL](https://great-mini.mx/collections/imperial)
   Updated: 2026-06-08T18:46:59Z
   Total Products: 7
@@ -1915,16 +1915,16 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:50:18Z
   Total Products: 5
 - [GLOBE](https://great-mini.mx/collections/globe)
-  Updated: 2026-06-29T20:30:58Z
+  Updated: 2026-08-04T11:01:18Z
   Total Products: 19
 - [LYNX GRILLS](https://great-mini.mx/collections/lynx-grills-mexico-asadores-de-lujo): Cree la cocina exterior perfecta con Lynx Grills en México. Asadores integrados, tecnología ProSear™ y acabados premium en acero inoxidable. Disponibles en GREAT+MINI para proyectos residenciales de lujo. ¡Cotice su terraza hoy!
   Updated: 2026-06-08T18:59:23Z
   Total Products: 15
 - [JVC](https://great-mini.mx/collections/jvc)
-  Updated: 2026-05-03T19:58:48Z
-  Total Products: 0
+  Updated: 2026-08-06T05:02:05Z
+  Total Products: 9
 - [WHITE-WESTINHOUSE](https://great-mini.mx/collections/white-westinghouse-electrodomesticos): Compra electrodomésticos White-Westinghouse: refrigeradores, lavadoras, congeladores y más. Calidad, eficiencia y excelente precio para hogar o negocio. Considera mínimos de compra en esta marca.
-  Updated: 2026-06-08T19:09:38Z
+  Updated: 2026-08-04T04:34:56Z
   Total Products: 13
 - [JOSPER](https://great-mini.mx/collections/josper)
   Updated: 2026-06-08T23:48:11Z
@@ -1944,6 +1944,9 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
 - [HATCO](https://great-mini.mx/collections/hatco)
   Updated: 2026-07-03T22:13:11Z
   Total Products: 1
+- [Pantallas Smart TV JVC Roku](https://great-mini.mx/collections/pantallas-jvc-smart-tv): 📺 Compra tu Pantalla JVC Smart TV con Roku integrado en Great Mini. Envíos a todo México, tecnología 4K UHD, sonido Dolby Audio y las mejores ofertas. ¡Elige la tuya hoy! 🚀
+  Updated: 2026-08-06T05:09:49Z
+  Total Products: 9
 
 ## Blogs
 
