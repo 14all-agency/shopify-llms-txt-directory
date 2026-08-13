@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-09T19:39:10Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-05T00:00:43.636Z
+- Updated At: 2026-08-13T00:00:43.228Z
 
 ## Products
 
 - [Sad Songs Text Hoodie](https://kameronmarlowe.merchmadeeasy.com/products/sad-songs-text-hoodie): Printed on a relaxed mid-weight 80% cotton/20% recycled polyester CVC fleece hoodie in green. Back design features puff ink.
-  Updated: 2026-07-20T00:57:28Z
+  Updated: 2026-08-11T15:32:16Z
   Vendor: Kameron Marlowe
   Product Type: Hoodie
   Availability: Available
@@ -74,14 +74,14 @@
     Availability: Available
     Price: $75.00 USD
 - [Sad Songs Hat](https://kameronmarlowe.merchmadeeasy.com/products/sad-songs-hat): Embroidered front and side design on a 65/35 poly/cotton 5-panel, structured, mid-profile baseball hat in green/natural. Front design features puff embroidery.
-  Updated: 2026-07-26T16:26:56Z
+  Updated: 2026-08-07T18:00:18Z
   Vendor: Kameron Marlowe
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_Sad_Songs_Hat.png?v=1761324791
   Price: $40.00 USD
 - [Sad Songs for the Soul Vinyl](https://kameronmarlowe.merchmadeeasy.com/products/sad-songs-for-the-soul-vinyl): May take 1-2 weeks to ship Tracklist:1. Burning House2. Friend of Mine3. Hello Whiskey4. Here Lies the Fool5. Hungover You6. The Basement7. Highway Song8. How's the Leaving Going9. Dear God10. If You Stay Release Date: February 21, 2025
-  Updated: 2026-08-02T02:40:08Z
+  Updated: 2026-08-12T12:50:35Z
   Vendor: Kameron Marlowe
   Product Type: Vinyl
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_Seventeen_Hat.png?v=1761324791
   Price: $40.00 USD
 - [Keepin' the Lights On Tour Tee](https://kameronmarlowe.merchmadeeasy.com/products/keepin-the-lights-on-tour-tee): 100% cotton t-shirt in black or white Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 1/4 M 28 20 1/4 L 29 1/2 22 XL 30 3/4 24 2XL 31 1/2 26
-  Updated: 2026-07-27T17:42:09Z
+  Updated: 2026-08-11T16:20:39Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -125,7 +125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KMAR_Keppin_Tour_Tee_Black.png?v=1775597895
     Price: $25.00 USD
 - [Keepin' The Lights On - Signed Vinyl](https://kameronmarlowe.merchmadeeasy.com/products/keepin-the-lights-on-signed-vinyl): Signed by Kameron Tracklist: 911 Nothin' Slowin' Us Down On My Way Out Never Really Know Tennessee Don't Mind Leaning On You I Can Run High Hopes One That I Don't Call Lock Me Up Will It Be There in the Morning Quit You Smaller Strangers by Kameron Marlowe & Ella Langley Broke Down in a Truck Keepin' The Lights On Release Date: May 31, 2024
-  Updated: 2026-08-02T14:17:37Z
+  Updated: 2026-08-12T12:50:36Z
   Vendor: Kameron Marlowe
   Product Type: Vinyl
   Availability: Available
@@ -174,7 +174,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Marlowe Tee](https://kameronmarlowe.merchmadeeasy.com/products/marlowe-tee): 100% heavyweight cotton, garment-dyed t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 1/4 M 28 20 1/4 L 29 1/2 22 XL 30 3/4 24 2XL 31 1/2 26
-  Updated: 2026-07-18T00:47:20Z
+  Updated: 2026-08-12T17:26:27Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -228,7 +228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_Unsigned_Lights_Vinyl.png?v=1767380672
   Price: $30.00 USD
 - [We Were Cowboys - Vinyl](https://kameronmarlowe.merchmadeeasy.com/products/we-were-cowboys-vinyl): Tracklist: We Were Cowboys Country Boy's Prayer Girl On Fire Giving You Up Does It Have to Be Over This Old Town Money Ain't $hit Fool Me Again Burn 'Em All Steady Heart Over Now Saying Goodbye Ain't Enough Whiskey Runnin' Out On You Granny's Got a Garden (For G'maw Jan) Long Way Down Release Date: August 26, 2022
-  Updated: 2026-08-01T02:40:04Z
+  Updated: 2026-08-11T15:18:11Z
   Vendor: Kameron Marlowe
   Product Type: Vinyl
   Availability: Available
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KMAR_Est_1997_Tee.png?v=1775596461
   Price: $20.00 USD
 - [Race Car Tee](https://kameronmarlowe.merchmadeeasy.com/products/race-car-tee): 100% cotton t-shirt in black
-  Updated: 2026-07-18T12:28:04Z
+  Updated: 2026-08-12T21:09:19Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -309,7 +309,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Marlowe's Bait & Tackle Tee](https://kameronmarlowe.merchmadeeasy.com/products/marlowes-bait-tackle-tee): Open year round! 100% cotton, heavyweight unisex t-shirt in cream Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-08-02T23:22:45Z
+  Updated: 2026-08-12T17:26:32Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -330,10 +330,10 @@
     Availability: Available
     Price: $40.00 USD
   - [3XL](https://kameronmarlowe.merchmadeeasy.com/products/marlowes-bait-tackle-tee?variant=46147548348569)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
 - [Marlowe's Garage Tee](https://kameronmarlowe.merchmadeeasy.com/products/marlowes-garage-tee): 100% cotton, heavyweight unisex t-shirt in navy Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26
-  Updated: 2026-08-01T23:06:12Z
+  Updated: 2026-08-11T18:20:18Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -354,13 +354,13 @@
     Availability: Available
     Price: $40.00 USD
 - [Duck Hoodie - Army Green](https://kameronmarlowe.merchmadeeasy.com/products/duck-hoodie-army-green): 80/20 ring-spun cotton/polyester hoodie in army green Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 28 38
-  Updated: 2026-07-31T21:44:47Z
+  Updated: 2026-08-11T01:50:27Z
   Vendor: Kameron Marlowe
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_Duck_Hoodie_Green.png?v=1771429828
   - [S](https://kameronmarlowe.merchmadeeasy.com/products/duck-hoodie-army-green?variant=46147630661785)
-    Availability: Not Available
+    Availability: Available
     Price: $80.00 USD
   - [M](https://kameronmarlowe.merchmadeeasy.com/products/duck-hoodie-army-green?variant=46147630694553)
     Availability: Available
@@ -375,7 +375,7 @@
     Availability: Available
     Price: $80.00 USD
 - [Duck Hoodie - Brown](https://kameronmarlowe.merchmadeeasy.com/products/duck-hoodie-brown): 80/20 ring-spun cotton/polyester hoodie in cocoa brown Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 28 38
-  Updated: 2026-07-17T07:13:42Z
+  Updated: 2026-08-12T14:33:07Z
   Vendor: Kameron Marlowe
   Product Type: Hoodie
   Availability: Available
@@ -410,14 +410,14 @@
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_0000_166929_1_307045_d.png?v=1770665909
   Price: $35.00 USD
 - [Duck Koozie](https://kameronmarlowe.merchmadeeasy.com/products/duck-koozie): Neoprene koozie featuring duck design on both front and back
-  Updated: 2026-07-31T13:56:42Z
+  Updated: 2026-08-12T12:50:27Z
   Vendor: Kameron Marlowe
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_0001_166822_1_306839_d.png?v=1770665908
   Price: $5.00 USD
 - [Vs. Everybody Koozie](https://kameronmarlowe.merchmadeeasy.com/products/vs-everybody-koozie): Neoprene koozie featuring VS EVERYBODY design on both front and back
-  Updated: 2026-07-31T13:56:42Z
+  Updated: 2026-08-12T12:50:36Z
   Vendor: Kameron Marlowe
   Product Type: Koozie
   Availability: Available
@@ -443,7 +443,7 @@
     Availability: Not Available
     Price: $60.00 USD
 - [We Were Cowboys Tour Tee - Black](https://kameronmarlowe.merchmadeeasy.com/products/we-were-cowboys-tour-tee): 100% cotton t-shirt in black
-  Updated: 2026-07-08T21:07:10Z
+  Updated: 2026-08-11T15:18:17Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -461,7 +461,7 @@
     Availability: Available
     Price: $25.00 USD
 - [North Carolina Tee](https://kameronmarlowe.merchmadeeasy.com/products/north-carolina-tee): 100% cotton t-shirt in black
-  Updated: 2026-07-18T18:12:14Z
+  Updated: 2026-08-12T17:26:27Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -476,7 +476,7 @@
     Availability: Not Available
     Price: $30.00 USD
   - [XL](https://kameronmarlowe.merchmadeeasy.com/products/north-carolina-tee?variant=46926375059609)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
   - [2XL](https://kameronmarlowe.merchmadeeasy.com/products/north-carolina-tee?variant=46926375092377)
     Availability: Available
@@ -503,14 +503,14 @@
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KMAR_Logo_Koozie.png?v=1775834440
   Price: $5.00 USD
 - [Keepin' The Lights On - CD](https://kameronmarlowe.merchmadeeasy.com/products/keepin-the-lights-on-cd): Tracklist: 911 Nothin' Slowin' Us Down On My Way Out Never Really Know Tennessee Don't Mind Leaning On You I Can Run High Hopes One That I Don't Call Lock Me Up Will It Be There in the Morning Quit You Smaller Strangers by Kameron Marlowe & Ella Langley Broke Down in a Truck Keepin' The Lights On Release Date: May 31, 2024
-  Updated: 2026-07-23T23:12:34Z
+  Updated: 2026-08-09T15:23:56Z
   Vendor: Kameron Marlowe
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KMAR_Light_On_Cd.png?v=1775835783
   Price: $10.00 USD
 - [Girl on Fire Hat](https://kameronmarlowe.merchmadeeasy.com/products/girl-on-fire-hat): 55% cotton / 45% polyester 5-panel, mid-profile hat in natural/red. Features an embroidered design.
-  Updated: 2026-07-30T16:46:09Z
+  Updated: 2026-08-11T16:20:42Z
   Vendor: Kameron Marlowe
   Product Type: Hat
   Availability: Available
@@ -585,7 +585,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/DSC06033.jpg?v=1784394358
   Price: $42.00 USD
 - [Cannon Ballers x Kameron Marlowe Jersey](https://kameronmarlowe.merchmadeeasy.com/products/cannon-ballers-x-kameron-marlowe-jersey): Baseball-style jersey in black
-  Updated: 2026-07-30T15:38:38Z
+  Updated: 2026-08-12T17:23:18Z
   Vendor: Kameron Marlowe
   Product Type: Jersey
   Availability: Available
@@ -609,49 +609,49 @@
 ## Collections
 
 - [Home page](https://kameronmarlowe.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-04T11:19:47Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 51
 - [Apparel](https://kameronmarlowe.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-03T11:19:57Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 31
 - [Accessories](https://kameronmarlowe.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-04T11:19:47Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 14
 - [All](https://kameronmarlowe.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-04T11:19:47Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 52
 - [Best Sellers](https://kameronmarlowe.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-08-04T11:19:47Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 52
 - [](https://kameronmarlowe.merchmadeeasy.com/collections/)
-  Updated: 2026-08-04T11:19:47Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 52
 - [Music](https://kameronmarlowe.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-03T11:19:57Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 5
 - [Sad Songs for the Soul](https://kameronmarlowe.merchmadeeasy.com/collections/sad-songs-for-the-soul)
-  Updated: 2026-08-02T11:20:09Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 6
 - [$10 & Under](https://kameronmarlowe.merchmadeeasy.com/collections/20-26)
-  Updated: 2026-08-01T11:20:20Z
+  Updated: 2026-08-10T11:19:32Z
   Total Products: 4
 - [2026 Tour Merch](https://kameronmarlowe.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-08-03T11:19:57Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 10
 - [$20](https://kameronmarlowe.merchmadeeasy.com/collections/10-under-copy)
   Updated: 2026-07-08T21:17:07Z
   Total Products: 3
 - [$30](https://kameronmarlowe.merchmadeeasy.com/collections/20-copy)
-  Updated: 2026-08-04T11:19:47Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 14
 - [$40 & Above](https://kameronmarlowe.merchmadeeasy.com/collections/30-copy)
-  Updated: 2026-08-03T11:19:57Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 24
 - [Birthday Drop](https://kameronmarlowe.merchmadeeasy.com/collections/birthday-drop)
-  Updated: 2026-07-21T11:20:02Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 4
 - [Kameron Marlowe x Kannapolis Cannon Ballers](https://kameronmarlowe.merchmadeeasy.com/collections/kameron-marlowe-x-kannapolis-cannon-ballers)
-  Updated: 2026-07-25T11:20:46Z
+  Updated: 2026-08-12T11:18:39Z
   Total Products: 4
 
 ## Store Pages
