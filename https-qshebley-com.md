@@ -9,7 +9,7 @@
 - Created At: 2014-06-06T22:31:25Z
 - Contact Email: info@shopqbyqs.com
 - Contact Phone: 18883188144
-- Updated At: 2026-08-04T00:01:10.864Z
+- Updated At: 2026-08-14T00:01:13.274Z
 
 Que Shebley is an independent artisan brand specializing in handcrafted footwear. We provide a human-connected alternative to mass-market luxury, offering superior craftsmanship and a unique rationale for Millennial and Gen X shoppers who value quality over brand names. Our heritage is rooted in Lebanese craftsmanship, moving to the beat of our own drum to provide truly unique dress shoes and boots.
 
@@ -100,7 +100,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/bowie-high-top-sneakers-men-casual-shoes-two-tone-leather-high-top-748.webp?v=1760107140
   Price: $350.00 USD
 - [Jackson Chukka Boots for Men Dress Style](https://qshebley.com/products/jackson-chukka-boots): Jackson Chukka boots feature dark brown lux suede and beige calf leather, offering comfort and versatility for a stylish yet casual look.
-  Updated: 2026-08-02T14:59:33Z
+  Updated: 2026-08-12T20:57:40Z
   Vendor: Que Shebley
   Product Type: Men Dress Boots
   Availability: Available
@@ -331,7 +331,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/testino-2-derby-patina-men-casual-shoes-two-toned-leather-dress-254.webp?v=1760148546
   Price: $550.00 USD
 - [Mary Woman Double Monk Stylish Dress Shoes for Women](https://qshebley.com/products/mary-double-monk): Mary Woman Double Monk shoes feature a modern design with two straps, crafted in croco brown and lux suede, offering an elegant twist on classic style.
-  Updated: 2026-08-02T15:17:44Z
+  Updated: 2026-08-12T20:27:46Z
   Vendor: Que Shebley
   Product Type: women dress shoes
   Availability: Available
@@ -345,7 +345,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/maryet-kiltie-unisex-monk-strap-women-dress-shoes-pair-leather-180.webp?v=1760149464
   Price: $450.00 USD
 - [Elizabeth Ladies Brogue Boots for Elegant Style](https://qshebley.com/products/elizabeth-borgue-boots): Elizabeth Ladies Brogue Boots feature a classic silhouette with a beautiful brogue pattern, crafted from grey lux suede and calf leather for a refined yet rugged look.
-  Updated: 2026-08-02T15:17:43Z
+  Updated: 2026-08-12T21:44:06Z
   Vendor: Que Shebley
   Product Type: women dress boots
   Availability: Available
@@ -513,7 +513,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/johndow-double-monk-men-casual-shoes-beige-strap-579.webp?v=1741885497
   Price: $450.00 USD
 - [Robins Loafers for Comfort and Style in Dress Shoes](https://qshebley.com/products/robins-loafers): Robins Loafers offer a blend of comfort and style, featuring a rounded toe design, premium materials, and versatile appeal for both office and weekend wear.
-  Updated: 2026-08-02T15:17:48Z
+  Updated: 2026-08-12T20:38:17Z
   Vendor: Que Shebley
   Product Type: Men Dress Shoes
   Availability: Available
@@ -1040,7 +1040,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/abril-trainer-patina-sneaker-men-casual-shoes-burgundy-leather-989.webp?v=1741888358
   Price: $475.00 USD
 - [Victoria Ladies Military Brogue Stylish Dress Boots](https://qshebley.com/products/victoria-ladies-military-brogue): Victoria Ladies Military Brogue boots feature a brogue pattern and classic silhouette, blending ruggedness with refinement in luxurious brown calf leather.
-  Updated: 2026-08-02T15:34:56Z
+  Updated: 2026-08-13T01:30:22Z
   Vendor: Que Shebley
   Product Type: women dress boots
   Availability: Available
@@ -1591,21 +1591,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/euclid-wellington-patina-slip-on-men-dress-shoes-pair-purple-leather-829.webp?v=1741890463
   Price: $550.00 USD
-- [Euphemia Top Sider Sneaker Black Leather Suede](https://qshebley.com/products/euphemia-top-sider-sneaker): Euphemia Top Sider Sneaker features luxurious black leather and suede materials, offering a stylish and comfortable option for cupsole trainer enthusiasts.
-  Updated: 2026-08-02T15:44:22Z
-  Vendor: Que Shebley
-  Product Type: Men Casual Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/euphemia-top-sider-sneaker-men-casual-shoes-black-leather-suede-172.webp?v=1741890508
-  Price: $350.00 USD
-- [Pelagios Belgian Patina Monk Slipper for Men](https://qshebley.com/products/pelagios-belgian-patina-monk-slipper): Pelagios Belgian Patina Monk Slipper features a contrasting double monk strap, combining classic style with formal elegance in brown camo patina leather.
-  Updated: 2026-08-02T15:44:21Z
-  Vendor: Que Shebley
-  Product Type: Men Dress Shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0528/4177/files/pelagios-belgian-patina-monk-slipper-men-dress-shoes-camouflage-237.webp?v=1741890552
-  Price: $550.00 USD
-[List Continued](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo0MDk0NDg3MTAxNTUxLCJsYXN0X3ZhbHVlIjoiNDA5NDQ4NzEwMTU1MSJ9)
+[List Continued](https://qshebley.com/a/llms-agent/llms.txt?shop=que-shebley.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo0MDkzOTAwMDYyODMxLCJsYXN0X3ZhbHVlIjoiNDA5MzkwMDA2MjgzMSJ9)
 
 ## Collections
 
@@ -1619,11 +1605,11 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:36Z
   Total Products: 385
 - [Women Shoes+Boots](https://qshebley.com/collections/women-dress-shoes): Women Shoes+Boots offers an elegant collection featuring luxury high heels like Emitra Florance, Rinata Barcelona, and more with free shipping on orders over $500.
-  Updated: 2026-08-02T01:32:03Z
-  Total Products: 109
+  Updated: 2026-08-12T02:56:54Z
+  Total Products: 111
 - [](https://qshebley.com/collections/on-):  collection offers unisex boots, oxford shoes, and ladies loafers with discounts. Enjoy luxury footwear including Brooklyn Patina Moc Boot II and more.
-  Updated: 2026-07-26T02:02:56Z
-  Total Products: 57
+  Updated: 2026-08-12T23:05:45Z
+  Total Products: 58
 - [Mike Dopud Collection](https://qshebley.com/collections/the-mike-dopud-collection): The Mike Dopud Collection features high-end footwear for men and women, including exclusive loafers, heels, booties, sneakers, and hiking boots.
   Updated: 2026-07-26T02:01:21Z
   Total Products: 313
@@ -1637,8 +1623,8 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:36Z
   Total Products: 46
 - [SHOP WOMEN](https://qshebley.com/collections/shop-women): Explore the SHOP WOMEN collection featuring elegant high heels, stylish holdall gym bags, and luxurious duffle bags, all available for online shopping.
-  Updated: 2026-08-02T01:32:03Z
-  Total Products: 223
+  Updated: 2026-08-12T02:56:54Z
+  Total Products: 225
 - [Exotic Skin Shoes](https://qshebley.com/collections/exotic-skin-shoes): Explore luxurious footwear in the Exotic Skin Shoes collection, featuring Amiri Alligator Double Monk, Karma Alligator Loafers, and TheDon Alligator Loafers.
   Updated: 2026-07-22T02:18:36Z
   Total Products: 154
@@ -1652,17 +1638,17 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:36Z
   Total Products: 28
 - [SHOP MEN](https://qshebley.com/collections/shop-men): Explore the diverse SHOP MEN collection featuring luxury footwear including Nab Loafers, Olimpia Oxford Sneaker, and exotic Amiri Alligator Double Monk.
-  Updated: 2026-07-22T02:18:36Z
+  Updated: 2026-08-12T23:05:45Z
   Total Products: 1700
 - [Moccasins + Drivers](https://qshebley.com/collections/moccasins-drivers): Explore the Moccasins + Drivers collection featuring luxurious options like Lincoln RD Driver, Kalma Driver, and Patina series, with shoes priced from $325 to $450.
   Updated: 2026-07-22T02:18:36Z
   Total Products: 53
 - [Hand Painted Patina](https://qshebley.com/collections/hand-painted-patina): Discover the Hand Painted Patina collection featuring limited-edition, award-winning wholecut shoes and boots with unique patina designs, available for both men and women.
-  Updated: 2026-07-22T02:18:36Z
+  Updated: 2026-08-12T23:02:13Z
   Total Products: 305
 - [Recommended Products](https://qshebley.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-08-02T01:32:03Z
-  Total Products: 1801
+  Updated: 2026-08-12T23:02:13Z
+  Total Products: 1803
 - [Sneakers](https://qshebley.com/collections/sneakers): Discover the exquisite Sneakers collection featuring premium choices like Olimpia Oxford, Markof Longwing, and FT19 Chunky Trainer, starting at $325.
   Updated: 2026-07-22T02:18:36Z
   Total Products: 293
@@ -1670,19 +1656,19 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:37Z
   Total Products: 13
 - [Limited Edition Shoes](https://qshebley.com/collections/limited-edition-shoes): Discover the Limited Edition Shoes collection featuring unique designs like Quswa Noir, Arabic Matrix, and award-winning Egyptian Patina Wholecut Shoes.
-  Updated: 2026-07-22T02:18:37Z
+  Updated: 2026-08-12T23:02:13Z
   Total Products: 44
 - [New Releases](https://qshebley.com/collections/new-releases): Explore our New Releases collection featuring luxury bespoke shoes for men, including Jorgo Double Monk Shoes and Gall Chelsea Boots. Enjoy exclusive styles and rush shipping.
-  Updated: 2026-08-03T03:12:31Z
+  Updated: 2026-08-12T02:56:54Z
   Total Products: 20
 - [The Culture Collection](https://qshebley.com/collections/the-culture-collection): The Culture Collection offers limited-edition, award-winning patina wholecut shoes, including Script 2, Quswa 2, Egyptian, and Lapis designs, starting at $625.
-  Updated: 2026-07-22T02:18:37Z
-  Total Products: 19
+  Updated: 2026-08-12T23:05:38Z
+  Total Products: 20
 - [OrderlyEmails - Recommended Products](https://qshebley.com/collections/orderlyemails-recommended-products-1): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-08-02T01:32:03Z
-  Total Products: 1801
+  Updated: 2026-08-12T23:02:13Z
+  Total Products: 1803
 - [Best Sellers](https://qshebley.com/collections/best-sellers): Discover the Best Sellers collection featuring award-winning Arabic Matrix Patina Shoes, elegant Givario Single Monk designs, and luxurious Lima travel totes.
-  Updated: 2026-07-22T02:18:37Z
+  Updated: 2026-08-12T23:02:13Z
   Total Products: 109
 - [Limited Edition Belts](https://qshebley.com/collections/limited-edition-belts): Discover our Limited Edition Belts collection featuring exclusive designs like the Gezzle, Cygnus, and Spartan Patina Hamptons Belt, each priced at $300.
   Updated: 2026-07-22T02:18:37Z
@@ -1697,7 +1683,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:37Z
   Total Products: 197
 - [Designers Pick](https://qshebley.com/collections/designers-pick): Designers Pick offers exclusive collections of finely crafted footwear and accessories, including limited-edition Arabic Matrix Patina Wholecut Shoes.
-  Updated: 2026-07-22T02:18:37Z
+  Updated: 2026-08-12T23:05:45Z
   Total Products: 30
 - [The Gibran Collection](https://qshebley.com/collections/the-gibran-collection): The Gibran Collection offers limited-edition footwear including Wholecut Shoes, Patina loafers, and Wellington Slip-ons, with prices starting at $485.
   Updated: 2026-07-22T02:18:37Z
@@ -1748,7 +1734,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:38Z
   Total Products: 25
 - [Men’s Whole cut Shoes](https://qshebley.com/collections/mens-whole-cut-shoes): Discover premium Men’s Wholecut Shoes featuring unique Patina designs, including limited editions and award-winning styles, with prices starting from $525.
-  Updated: 2026-07-22T02:18:38Z
+  Updated: 2026-08-12T23:05:45Z
   Total Products: 61
 - [Womens Full brogue shoes + boots](https://qshebley.com/collections/womens-full-brogue-shoes-boots): Discover elegant women's full brogue shoes and boots, including styles like Lila Military Brogue Boots and Gaya Unisex Full Brogue Shoes, with options on .
   Updated: 2026-07-26T02:01:23Z
@@ -1835,20 +1821,17 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:39Z
   Total Products: 6
 - [New! Shopify performance sharing is now turned on](https://qshebley.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-08-03T20:29:26Z
-  Total Products: 2858
+  Updated: 2026-08-12T23:05:38Z
+  Total Products: 2870
 - [Spring/Summer 2026](https://qshebley.com/collections/spring-summer-2026): Discover Que Shebley Spring Summer 2026, a refined fusion of artistry and comfort showcasing luxury bespoke shoes for men and hand-painted patina styles.
   Updated: 2026-07-22T02:18:39Z
   Total Products: 41
 - [Wholesale](https://qshebley.com/collections/wholesale)
-  Updated: 2026-07-30T11:00:30Z
-  Total Products: 990
-- [Google Shopping — Active Wholesale](https://qshebley.com/collections/google-shopping-active-wholesale): Auto-synced to Google Merchant Center. Contains all active wholesale/variant products only.
-  Updated: 2026-07-30T11:00:30Z
-  Total Products: 865
+  Updated: 2026-08-12T23:05:38Z
+  Total Products: 991
 - [Q Couture](https://qshebley.com/collections/q-couture): Q Couture holds our occasion-ready heels — pieces built for evenings that ask for more than quiet elegance. Every silhouette in the collection takes its name from Al-Andalus, the centuries when Arab and Iberian art shared the same rooftops — the pointed arches of Córdoba, the bow and strap born of Sevilla's flamenco tradition. It's a lineage that echoes our own: a house shaped by a father's eye for fine leather across the Middle East, now speaking in a new register — sculptural, considered, unmistakably Que Shebley.
-  Updated: 2026-08-02T01:32:03Z
-  Total Products: 5
+  Updated: 2026-08-12T02:56:54Z
+  Total Products: 7
 
 ## Blogs
 
@@ -2796,6 +2779,15 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
     Author: Que Shebley
   - [Oxblood: The One Shoe Colour That Refuses to Behave](https://qshebley.com/blogs/news/oxblood-the-one-shoe-colour-that-refuses-to-behave): Why oxblood — that deep, bruised red between burgundy and brown — is the most versatile and most underrated colour in a man's shoe wardrobe.
     Updated: 2026-08-03T13:01:10Z
+    Author: Que Shebley
+  - [The Blank Canvas: How Crust Leather and the Art of Patina Turned Shoemaking Into Painting](https://qshebley.com/blogs/news/the-blank-canvas-how-crust-leather-and-the-art-of-patina-turned-shoemaking-into-painting): How undyed crust leather and the art of hand-applied patina turned the world's finest shoemakers into painters — a deep dive into craft, colour and character.
+    Updated: 2026-08-07T13:01:16Z
+    Author: Que Shebley
+  - [The Driving Shoe: How a Rubber-Studded Loafer Escaped the Car and Took Over Summer](https://qshebley.com/blogs/news/the-driving-shoe-how-a-rubber-studded-loafer-escaped-the-car-and-took-over-summer): The history of the driving moccasin — from Italian sports cars to holiday wardrobes — and why the rubber-nubbed driver became menswear's easiest luxury.
+    Updated: 2026-08-10T13:01:08Z
+    Author: Que Shebley
+  - [The Case for Suede: How Menswear's Most Distrusted Leather Became a Badge of Ease](https://qshebley.com/blogs/news/the-case-for-suede-how-menswears-most-distrusted-leather-became-a-badge-of-ease): Suede was once the leather of cads and dandies. Now it signals taste and ease. A style journalist's case for the most misunderstood shoe in your rotation.
+    Updated: 2026-08-12T13:01:20Z
     Author: Que Shebley
 
 ## Store Pages
