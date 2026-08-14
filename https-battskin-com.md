@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2026-02-10T08:47:42Z
 - Contact Email: sales@battskin.com
-- Updated At: 2026-08-07T00:00:35.771Z
+- Updated At: 2026-08-14T00:00:38.110Z
 
 Home Battery Covers - Protect Your Solar Battery
 Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, BYD and GoodWe Home Solar Battery from heat, UV and harsh weather — extending the life of your Solar Batteries.
