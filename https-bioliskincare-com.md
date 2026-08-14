@@ -12,7 +12,7 @@ Beyond its products, Bioli publishes Bionotes, an educational knowledge hub feat
 - Timezone: Europe/Copenhagen
 - Created At: 2022-01-14T11:41:51Z
 - Contact Email: info@bioliskincare.com
-- Updated At: 2026-08-05T00:00:34.784Z
+- Updated At: 2026-08-14T00:00:37.615Z
 
 Bioli is a Danish biotech skincare company founded in 2021. Our mission is to improve skin health while minimizing environmental impact through biotechnology.
 
@@ -33,7 +33,7 @@ https://bioliskincare.com/blogs/bionotes
 ## Products
 
 - [Moisturizing and Protecting Day Cream – Antioxidant & 8hr Moisture | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream): Rich yet airy cream with antioxidant protection, anti-inflammatory properties, and 8-hour moisturization. Leaves skin smooth and balanced throughout the day. 100% biodegradable packaging.
-  Updated: 2026-07-13T13:08:22Z
+  Updated: 2026-08-07T12:22:47Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
@@ -68,7 +68,7 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Bioli_Face_Towel_196c8dce-f067-4de9-8934-7bc0fbcbdd66.png?v=1767553438
   Price: kr 125.00 DKK
 - [Skincare Trio Set – Cleanser, Serum & Cream | Bioli](https://bioliskincare.com/products/trio-cleanser-serum-day-cream): Mindful skincare gift set with cleanser, day cream and serum. Fragrance-free, allergy- and gentle on sensitive skin. Beautifully gift-ready.
-  Updated: 2026-07-29T06:49:18Z
+  Updated: 2026-08-10T05:46:48Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
@@ -116,10 +116,10 @@ https://bioliskincare.com/blogs/bionotes
   Updated: 2026-06-05T19:40:30Z
   Total Products: 2
 - [Bioli Products](https://bioliskincare.com/collections/bioli-products): Everyday biotech skincare with targeted efficacy and silky textures. Fragrance-free, dermatologically , made in Denmark. 100% biodegradable packaging.
-  Updated: 2026-07-29T11:09:14Z
+  Updated: 2026-08-08T11:07:18Z
   Total Products: 4
 - [Routine Sets](https://bioliskincare.com/collections/routine-sets): Complete daily skincare routines with bioactive enzyme technology. Gentle, effective, and eco-friendly.
-  Updated: 2026-07-29T11:09:14Z
+  Updated: 2026-08-10T11:07:58Z
   Total Products: 4
 
 ## Blogs
@@ -209,7 +209,7 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2025-09-04T17:16:25Z
     Author: Nina Wiberg Møller
   - [Inflammation – The hidden issue behind five major skin disorders](https://bioliskincare.com/blogs/bionotes/inflammation-the-hidden-issue-behind-five-major-skin-disorders): <p><meta charset="utf-8">Did you know that many of the most common skin conditions — <meta charset="utf-8">perioral dermatitis, acne, eczema, psoriasis, and rosacea  — are all connected by one root cause: chronic inflammation? In this article, we take a closer look at their triggers, oxidative stress, and why conventional solutions often fall short. We’ll also explore a new approach: enzyme-based antioxidants like Superoxide Dismutase — a powerful yet gentle option that's better for your skin and the planet.</p>
-    Updated: 2026-03-07T13:12:49Z
+    Updated: 2026-08-13T08:12:11Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Ingredient spotlight
   - [Skincare packaging and regulation: A blind spot in EU's new packaging legislation](https://bioliskincare.com/blogs/bionotes/skincare-packaging-and-regulation-a-blind-spot-in-eus-new-packaging-legislation): <p>When we talk about packaging waste, the spotlight usually falls on food and beverages — plastic bottles, supermarket bags, shrink-wrapped fruit. But what about household care, pharmaceuticals, and personal care products? These industries are just as packaging-heavy, yet rarely part of the sustainability conversation.</p>
@@ -240,7 +240,7 @@ https://bioliskincare.com/blogs/bionotes
     Tags: Article, Well-being
   - [Guide: What to eat for better skin, combating acne and eczema](https://bioliskincare.com/blogs/bionotes/guide-what-to-eat-for-better-skin-combating-acne-and-eczema): <p><em>High-quality, gentle skincare is essential for troubled skin—but your diet matters too. Many skin issues, like acne and eczema, are influenced by what you eat.</em></p>
 <p><em>In this guide, we’ll share our skin-supportive plate, a 3-day meal plan, and everyday tips for better eating, crafted from our years of expertise and experience to help you achieve healthier skin.</em></p>
-    Updated: 2026-04-12T07:06:55Z
+    Updated: 2026-08-13T08:02:46Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Well-being
   - [Skincare packaging evolution: from plastic and glass to sustainable alternatives](https://bioliskincare.com/blogs/bionotes/skincare-packaging-evolution-from-plastic-and-glass-to-sustainable-alternatives): <p><meta charset="utf-8"><meta charset="utf-8">Your skincare packaging might look beautiful and eco-friendly, but even for conscious consumers, it can be hard to know if it’s really the best choice in terms of its environmental impact. Most packaging is never recycled and can persist for decades. Fortunately, new types of packaging are on the way. In this article, we go through both conventional and next-generation packaging types, so you know what to look for and why it matters.<br></p>
@@ -248,7 +248,7 @@ https://bioliskincare.com/blogs/bionotes
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight
   - [Organic skincare: Why it’s not better for your skin – or the planet](https://bioliskincare.com/blogs/bionotes/organic-skincare-why-it-s-not-better-for-your-skin-or-the-planet): <p><meta charset="utf-8">“Organic” has become one of the most powerful words in skincare. Like in food, it signals purity, safety, and sustainability. But organic skincare is not inherently better skincare—neither for sensitive skin nor for the planet. When you look<span data--index="1" class="discussion-id-2f889eb4-b19e-80f3-8908-001c99f56d31 suggestion-remove notion-enable-hover"> </span>closely at how organic ingredients are developed, how they behave on skin, and how they impact natural resources, a very different picture emerges. In this Bionotes article, we challenge the organic skincare narrative using dermatological science, safety-assessment expertise, and environmental research.<!-- notionvc: 2076c53b-36a6-43ed-933f-09d5d533d1bb --></p>
-    Updated: 2026-06-16T07:04:34Z
+    Updated: 2026-08-13T07:55:58Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Industry spotlight
   - [Cleansing and exfoliation: From acids (AHA, BHA) and scrubs to gentle enzymes](https://bioliskincare.com/blogs/bionotes/cleansing-and-exfoliation-from-acids-aha-bha-and-scrubs-to-gentle-enzymes): <p>Cleansing and exfoliation are essential for healthy skin—they remove impurities, support cell turnover, and help maintain a clear, balanced complexion. But not all methods are created equal, and some can be unnecessarily harsh, especially for sensitive or reactive skin.</p>
@@ -271,7 +271,7 @@ https://bioliskincare.com/blogs/bionotes
     Tags: Industry spotlight, Interview
   - [How perimenopause and menopause affect your skin: causes, symptoms and skincare](https://bioliskincare.com/blogs/bionotes/how-perimenopause-and-menopause-affect-your-skin-causes-symptoms-and-skincare): <p>Perimenopause and menopause begin with hormones, but for many women the first indication that she may be in perimenopause comes from her skin. Motivated by personal experience navigating challenges related to the (suspected) onset of perimenopause, our Comms Lead Elizabeth has compiled an overview of skin-related symptoms associated with perimenopause and menopause, their underlying drivers, and steps you can take to manage these symptoms. The research guiding this article has been vetted by Bioli’s Scientific Researcher Andreia.</p>
 <p><!-- notionvc: ae67825d-4701-42ce-8494-8d68c687aab6 --></p>
-    Updated: 2026-07-31T01:31:41Z
+    Updated: 2026-08-13T08:25:07Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Well-being
 - [Media](https://bioliskincare.com/blogs/media): Explore the latest media mentions, press releases, and announcements on research, development, and new product releases.
@@ -357,7 +357,7 @@ https://bioliskincare.com/blogs/bionotes
 - [Bioli Guides](https://bioliskincare.com/pages/bioli-guides): Ever changing, our skin reflects multiple influences acting on us from the inside, and out. This means that effective skincare goes beyond the prod...
   Updated: 2026-04-09T06:26:06Z
 - [Fermented Niacinamide](https://bioliskincare.com/pages/ingredients-fermented-niacinamide): Fermented niacinamide helps even skin tone, reduce visible imperfections including hyperpigmentation and balance sebum production. Produced using b...
-  Updated: 2026-07-27T22:14:21Z
+  Updated: 2026-08-13T08:42:52Z
 - [Superoxide Dismutase](https://bioliskincare.com/pages/ingredients-superoxide-dismutase): Superoxide Dismutase (SOD) is an antioxidant enzyme naturally found in living organisms, including human skin. It forms part of the skin’s natural ...
   Updated: 2026-07-27T22:14:21Z
 - [Bioactive Peptides](https://bioliskincare.com/pages/ingredients-bioactive-peptides): Bioactive peptides are short chains of amino acids designed to interact with biological processes in the skin. Their targeted functions allow them ...
@@ -366,12 +366,12 @@ https://bioliskincare.com/blogs/bionotes
   Updated: 2026-07-27T22:14:21Z
 - [Acetylated Hyaluronic Acid](https://bioliskincare.com/pages/ingredients-acetylated-hyaluronic-acid): Acetylated hyaluronic acid is an advanced form of hyaluronic acid designed to provide long-lasting hydration while strengthening the skin barrier. ...
   Updated: 2026-07-27T22:14:21Z
-- [Biotech-Derived Cellulose](https://bioliskincare.com/pages/ingredients-biotech-derived-cellulose): Biotech-derived cellulose is a functional ingredient that helps create the desired texture, consistency and sensory experience in skincare products...
-  Updated: 2026-07-27T22:14:22Z
+- [Biotech-Derived Cellulose](https://bioliskincare.com/pages/ingredients-biotech-derived-cellulose): Biotech-derived cellulose is a helper ingredient that improves the absorption of formulas, reduces oiliness on the skin, and is also used as a sens...
+  Updated: 2026-08-13T08:50:09Z
 - [Bioactive Emollient](https://bioliskincare.com/pages/ingredients-bioactive-emollient): A bioactive emollient is an ingredient that helps soften and smooth the skin while improving the texture and application experience of skincare pro...
   Updated: 2026-08-02T13:02:18Z
-- [Protease and Lipase](https://bioliskincare.com/pages/ingredients-protease-and-lipase): Lipase and protease are enzymes that naturally break down specific components found on the skin’s surface. Protease enzymes help break down protein...
-  Updated: 2026-07-27T22:14:05Z
+- [Protease and Lipase](https://bioliskincare.com/pages/ingredients-protease-and-lipase): Protease and lipase are enzymes that naturally break down specific components found on the skin’s surface. Protease enzymes help break down protein...
+  Updated: 2026-08-13T08:43:31Z
 - [Ingredient Glossary](https://bioliskincare.com/pages/ingredient-glossary)
   Updated: 2026-07-27T23:06:49Z
 
