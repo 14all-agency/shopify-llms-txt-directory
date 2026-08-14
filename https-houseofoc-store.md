@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-21T21:57:07Z
 - Contact Email: hoopulentcreations@gmail.com
-- Updated At: 2026-08-11T16:00:25.118Z
+- Updated At: 2026-08-14T08:00:26.160Z
 
 ## Products
 
@@ -199,8 +199,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/f9a29a1515510da564673e7e7a4c957b99a503422f0b668938bda3d0d5fd8f69.jpg?v=1767920278
     Price: £22.32 GBP
-- [D14554 FAUX CRUSHED LEATHER MIDI DRESS](https://houseofoc.store/products/d14554-faux-crushed-leather-midi-dress): - FAUX CRUSHED LEATHER MIDI DRESS - Colors: Black, Mocha - Style: Elegant, Clubwear, Night Out, Cocktail, Holiday - Pattern Type: Solid - Length: Mini - Season: Fall/Winter - Type: Bodycon - Details: - Fit Type: Slim Fit - Neckline: Regular - Sleeve Length: Long Sleeve - Sheer: NO - Fabric: Stretch - 96%POLYESTER 4%SPANDEX
-  Updated: 2026-07-18T10:04:39Z
+- [FAUX CRUSHED LEATHER MIDI DRESS](https://houseofoc.store/products/d14554-faux-crushed-leather-midi-dress): - FAUX CRUSHED LEATHER MIDI DRESS - Colors: Black, Mocha - Style: Elegant, Clubwear, Night Out, Cocktail, Holiday - Pattern Type: Solid - Length: Mini - Season: Fall/Winter - Type: Bodycon - Details: - Fit Type: Slim Fit - Neckline: Regular - Sleeve Length: Long Sleeve - Sheer: NO - Fabric: Stretch - 96%POLYESTER 4%SPANDEX
+  Updated: 2026-08-12T04:49:14Z
   Vendor: House of OC
   Product Type: House of OC
   Availability: Available
@@ -236,11 +236,11 @@
     Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/a49709e13c30444265e4318422a37670a226e11b4a14cd5811679b44439f14f6.jpg?v=1767920289
     Price: £23.81 GBP
 - [Cowl Neck Midi Dress](https://houseofoc.store/products/d13233-cowl-neck-midi-dress): - Cowl Neck Midi Dress - Colors: Ash Rose, Black, Sage - Style: Elegant, Clubwear, Night Out, Party, Holiday, Cocktail, Valentine's Day - Pattern Type: Solid - Length: Midi - Season: Spring, Summer, Fall, Winter - Type: Bodycon - Details: Double Layer - Fit Type: Regular Fit - Neckline: Cowl Neck - Sleeve Length: Long Sleeve - Sheer: NO - Fabric: Stretch
-  Updated: 2026-07-15T16:19:34Z
+  Updated: 2026-08-11T16:52:32Z
   Vendor: House of OC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7880.png?v=1768979729
+  Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7881.png?v=1768979730
   - [BLACK / S](https://houseofoc.store/products/d13233-cowl-neck-midi-dress?variant=53097410265415)
     Availability: Available
     Price: £22.32 GBP
@@ -249,18 +249,15 @@
     Price: £22.32 GBP
   - [ASH ROSE / L](https://houseofoc.store/products/d13233-cowl-neck-midi-dress?variant=53097410330951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7880.png?v=1768979729
     Price: £22.32 GBP
   - [BLACK / L](https://houseofoc.store/products/d13233-cowl-neck-midi-dress?variant=53097410363719)
     Availability: Available
     Price: £22.32 GBP
   - [ASH ROSE / M](https://houseofoc.store/products/d13233-cowl-neck-midi-dress?variant=53097410396487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7880.png?v=1768979729
     Price: £22.32 GBP
   - [ASH ROSE / S](https://houseofoc.store/products/d13233-cowl-neck-midi-dress?variant=53097410429255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0938/1059/0023/files/IMG_7880.png?v=1768979729
     Price: £22.32 GBP
 - [Halter Cowl Neck Jumpsuit](https://houseofoc.store/products/j7412-halter-cowl-neck-jumpsuit): – Halter Cowl Neck Jumpsuit – Color : Grey, Multi – Style: Clubwear, Cocktail, Night Out, Holiday, Western – Pattern Type: Print – Length: Long, Full – Fit Type: Bodycon – Season: Spring, Summer, Fall, Winter, S/S, F/W – Details: Halter Tie Neck – Sleeve Length: Sleeveless – Neckline: Halter – Sheer: NO – Fabric: Stretch
   Updated: 2026-07-16T23:14:32Z
@@ -1018,7 +1015,7 @@
   Updated: 2026-05-26T22:13:19Z
   Total Products: 13
 - [Dress](https://houseofoc.store/collections/dress)
-  Updated: 2026-07-14T01:03:45Z
+  Updated: 2026-08-11T16:49:10Z
   Total Products: 20
 - [Clothing](https://houseofoc.store/collections/co-ords)
   Updated: 2026-05-26T22:13:19Z
