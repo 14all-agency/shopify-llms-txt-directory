@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-02-12T02:53:18Z
 - Contact Email: info@collectionbynp.com
-- Updated At: 2026-08-06T00:00:28.139Z
+- Updated At: 2026-08-14T00:00:27.892Z
 
 ## Products
 
@@ -357,7 +357,7 @@
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Sabina1.jpg?v=1779995598
   Price: $20.00 USD
 - [Adele Earrings – Oversized Gold Tone Dangle Hoop Earrings with Pink Bead | Percacciolo Collection](https://collectionbynp.com/products/adele-earrings): Make a statement with the Adele Earrings. Oversized gold tone hoops with a neutral pink bead center. Lightweight, nickel-free, and handmade in the USA.
-  Updated: 2026-07-07T23:14:01Z
+  Updated: 2026-08-07T11:20:36Z
   Vendor: Percacciolo Collection
   Product Type: Earrings
   Availability: Available
@@ -392,7 +392,7 @@
   Updated: 2026-05-06T19:58:22Z
   Total Products: 2
 - [All Products](https://collectionbynp.com/collections/all-products): Discover the latest All Products from Percacciolo Collection.
-  Updated: 2026-07-28T21:52:07Z
+  Updated: 2026-08-08T11:08:27Z
   Total Products: 42
 - [Bridal](https://collectionbynp.com/collections/bridal): Discover the latest Bridal from Percacciolo Collection.
   Updated: 2026-07-28T21:52:07Z
@@ -404,16 +404,16 @@
   Updated: 2026-06-23T07:58:50Z
   Total Products: 2
 - [Jewelry](https://collectionbynp.com/collections/jewelry): Discover the latest Jewelry from Percacciolo Collection.
-  Updated: 2026-07-02T18:17:11Z
+  Updated: 2026-08-08T11:08:27Z
   Total Products: 16
 - [Darkwear Accessories](https://collectionbynp.com/collections/darkwear-accessories): Discover the latest Darkwear Accessories from Percacciolo Collection.
-  Updated: 2026-07-20T11:08:23Z
+  Updated: 2026-08-08T11:08:27Z
   Total Products: 35
 - [Desert Veil Collection](https://collectionbynp.com/collections/desert-veil-collection): Discover the latest Desert Veil Collection from Percacciolo Collection.
   Updated: 2026-07-28T20:43:55Z
   Total Products: 3
 - [Earrings](https://collectionbynp.com/collections/earrings): LIMITED TIME - all earrings are buy 3 for $50.
-  Updated: 2026-07-07T23:24:09Z
+  Updated: 2026-08-08T11:08:27Z
   Total Products: 11
 - [Moody Blooms Collection](https://collectionbynp.com/collections/moody-blooms-collection): New Moody Blooms Veil Collection, coming soon.
   Updated: 2026-08-03T02:36:39Z
