@@ -8,7 +8,7 @@
 - Contact Email: art@grahamwatts.art
 - Contact Phone: (604) 200-0170
 - Address: 1704 Charles Street, Vancouver, BC 
-- Updated At: 2026-08-05T00:00:36.398Z
+- Updated At: 2026-08-14T00:00:40.072Z
 
 ## Products
 
@@ -368,8 +368,8 @@
   Updated: 2026-07-29T17:33:03Z
   Total Products: 7
 - [Limited Edition Canvas Prints](https://www.grahamwattsart.com/collections/fine-art-limited-editions): Shop limited edition canvas prints by Canadian artist Graham Watts, featuring wildlife art, Whistler mountains, Vancouver cityscapes, and BC landscapes.
-  Updated: 2026-07-28T23:05:26Z
-  Total Products: 15
+  Updated: 2026-08-10T23:53:12Z
+  Total Products: 16
 - [Fine Art Cards by Graham Watts](https://www.grahamwattsart.com/collections/buy-fine-art-cards): Shop fine art cards by Canadian artist Graham Watts, featuring colourful wildlife, mountain, Vancouver, and Whistler artwork.
   Updated: 2026-07-29T17:34:32Z
   Total Products: 9
@@ -380,8 +380,8 @@
   Updated: 2026-07-30T18:06:12Z
   Total Products: 9
 - [Canadian Wildlife Art](https://www.grahamwattsart.com/collections/canadian-wildlife-art): Shop Canadian wildlife paintings and prints by Graham Watts, including original grizzly bear, wolf and eagle art inspired by Western Canada.
-  Updated: 2026-07-30T02:30:25Z
-  Total Products: 44
+  Updated: 2026-08-10T23:53:12Z
+  Total Products: 45
 - [Whistler Mountain Art & Prints](https://www.grahamwattsart.com/collections/whistler-mountain-art-prints): Shop Whistler mountain art and prints by Graham Watts, including Black Tusk, Fissile Peak, ski art, and Sea-to-Sky landscape paintings.
   Updated: 2026-07-29T17:33:53Z
   Total Products: 29
@@ -401,12 +401,6 @@
   Updated: 2026-05-19T22:21:25Z
 - [About Graham Watts — Vancouver Artist & Studio Practice](https://www.grahamwattsart.com/pages/about-graham-watts): Graham Watts is a Canadian artist based in British Columbia, known for his bold original oil paintings of Canadian wildlife, mountain landscapes, V...
   Updated: 2026-07-02T23:06:30Z
-- [html sitemap products](https://www.grahamwattsart.com/pages/html-sitemap-products): Products Mountain Landscape Art: “Tanta... Mountain Landscape Art: "Peak ... Vancouver On Canvas: Stanley P... "O Canada" Canadian Flag "Burrard Br...
-  Updated: 2026-06-30T22:21:34Z
-- [html sitemap collections](https://www.grahamwattsart.com/pages/html-sitemap-collections): Collections Fine Art Limited Editions Buy Fine Art Cards Buy Original Oil Paintings - F... Fine Art Commissions - For col... Buy Art By Canadian Ar...
-  Updated: 2026-06-30T22:20:46Z
-- [html sitemap pages](https://www.grahamwattsart.com/pages/html-sitemap-pages): Pages Contact Graham Watts (Vancouve... html sitemap products html sitemap collections html sitemap blogs
-  Updated: 2026-06-30T22:20:20Z
 - [Graham Watts Art Shop | Sitemap](https://www.grahamwattsart.com/pages/html-sitemap): Graham Watts Art Store | Original Canadian Wildlife & Landscape Paintings Products Mountain Landscape Art: “Tanta... Mountain Landscape Art: "Peak ...
   Updated: 2026-07-15T23:52:15Z
 - [Canadian Artist Graham Watts](https://www.grahamwattsart.com/pages/canadian-artist-graham-watts): Canadian Artist Graham Watts About Graham Watts Graham Watts is a Canadian artist based in British Columbia, known for his bold original oil painti...
