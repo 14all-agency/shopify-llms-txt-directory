@@ -6,7 +6,7 @@
 - Timezone: Asia/Taipei
 - Created At: 2020-05-06T12:41:58Z
 - Contact Email: evan5471@gmail.com
-- Updated At: 2026-07-29T08:09:55.154Z
+- Updated At: 2026-08-14T00:00:38.682Z
 
 ## Products
 
@@ -1600,11 +1600,11 @@
 - [ALL COLLECTION](https://aprilmint.com/collections/frontpage)
   Updated: 2026-07-08T21:37:45Z
   Total Products: 90
-- [ONE PIECE](https://aprilmint.com/collections/swimsuit-one-piece)
-  Updated: 2026-07-08T21:37:45Z
+- [Signature One-Piece Swimsuits](https://aprilmint.com/collections/swimsuit-one-piece): NAKED — Second-Skin ComfortSmooth, soft and highly flexible fabrics create a barely-there feel that moves naturally with the body. SUPPORTED — Considered SupportThoughtful construction provides a secure, flattering fit while allowing the body to move freely and confidently. SHAPED — Sculpted by DesignCouture-inspired seams, strategic coverage and contouring cuts visually define the waist, smooth the midsection and enhance natural proportions.
+  Updated: 2026-07-30T07:00:08Z
   Total Products: 14
-- [BIKINI](https://aprilmint.com/collections/swimsuit-bikini)
-  Updated: 2026-07-08T21:37:44Z
+- [Sculpting Bikinis](https://aprilmint.com/collections/swimsuit-bikini): NAKED — Second-Skin ComfortSmooth, soft and highly flexible fabrics create a barely-there feel that moves naturally with the body. SUPPORTED — Considered SupportThoughtful construction provides a secure, flattering fit while allowing the body to move freely and confidently. SHAPED — Sculpted by DesignCouture-inspired seams, strategic coverage and contouring cuts visually define the waist, smooth the midsection and enhance natural proportions.
+  Updated: 2026-07-30T07:01:11Z
   Total Products: 15
 - [ACTIVE WEAR](https://aprilmint.com/collections/sport-wear)
   Updated: 2026-07-08T21:37:44Z
@@ -1670,10 +1670,10 @@
   Updated: 2021-02-03T15:48:04Z
 - [Delivery & Returns](https://aprilmint.com/pages/shipping-and-returns): SHIPPING Orders are processed and shipped during the regular business days of Monday through Friday. Orders placed on Fridays, weekends or holidays...
   Updated: 2021-02-03T15:44:15Z
-- [Our Story](https://aprilmint.com/pages/our-story): Brand Story Sun, beach, sand, waves, and a gentle salty sea breeze—yes, we’re already in the mood for a vacation. But with just a few creative fash...
-  Updated: 2020-11-21T19:31:54Z
-- [Contact Us](https://aprilmint.com/pages/contact-us)
-  Updated: 2024-10-26T10:27:22Z
+- [Our Story | APRIL MINT Los Angeles Designer Swimwear](https://aprilmint.com/pages/our-story): /* Remove the Shopify theme's native page-title banner on this page only. The hero below becomes the first visual immediately after navigation. */ ...
+  Updated: 2026-07-30T20:50:08Z
+- [Contact APRIL MINT | Styling, Fit & Customer Care](https://aprilmint.com/pages/contact-us): /* APRIL MINT — CONTACT PAGE Paste this entire file into the page HTML editor. */ /* Hide only the theme's original title and duplicate contact for...
+  Updated: 2026-07-30T06:12:36Z
 - [Offline Page](https://aprilmint.com/pages/offline-page): Sorry, You are offline right now. You do not have an internet connection. Please check your network connection and try again.
   Updated: 2020-09-18T11:59:05Z
 - [Size Chart](https://aprilmint.com/pages/real-april-mint-size-chart): Bust/Cup US EUR/JP Aus UK XS 32-34 / A-B 70-75 / B-C 10-12 / A-B 10-12 / A-B S 36 / B-C 80 / C-D 14 / B-C 14 / B-C M 38 / C-D 85 / D-E 16 / C-D 16 ...
