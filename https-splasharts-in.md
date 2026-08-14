@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-08T14:30:33Z
 - Contact Email: info@splasharts.in
-- Updated At: 2026-07-28T09:41:46.037Z
+- Updated At: 2026-08-14T00:00:42.019Z
 
 ## Products
 
 - [Naruto DIY Wood Painting Kit | Sasuke & Kakashi Wooden Cutouts](https://splasharts.in/products/naruto-diy-kit-for-kids): Naruto DIY kit wood painting kit with Sasuke & Kakashi cutouts, paints & brushes. Fun, creative art activity for kids and perfect gift idea
-  Updated: 2026-07-10T12:12:35Z
+  Updated: 2026-08-11T04:54:37Z
   Vendor: splashdiy
   Product Type: 
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/unicorn-diy-kit-paint-your-own-wooden-craft-for-kids-splash-by-arts-286.webp?v=1779699623
   Price: ₹450.00 INR
 - [One Piece Luffy DIY Wooden Paint Kit for Kids Splash Arts](https://splasharts.in/products/onepiece-monkey-d-luffy-diy-kit): Monkey D. Luffy DIY Kit features pre-marked wooden cutouts with watercolors and brushes. This Splash Arts India set uses safe materials for child craft projects.
-  Updated: 2026-07-10T12:12:36Z
+  Updated: 2026-08-11T04:54:36Z
   Vendor: splashdiy
   Product Type: 
   Availability: Available
@@ -271,11 +271,11 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/splash-diy-christmas-plantable-ornament-santa-figurine-coloring-kit-445.webp?v=1779700383
   Price: ₹299.00 INR
 - [Leaf Ganesha Wooden Effect Nameplate Home Decor](https://splasharts.in/products/ganesha-wooden-effect-nameplate): The Leaf Ganesha Wooden Effect Nameplate features durable MDF marine wood construction. This customized door plaque displays family names and house numbers.
-  Updated: 2026-07-10T12:12:40Z
+  Updated: 2026-07-29T05:40:31Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/leaf-ganesha-wooden-effect-nameplate-925.webp?v=1779700401
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/leaf-ganesha-wooden-effect-nameplate-925.webp?v=1785303598
   Price: ₹2,199.00 INR
 - [Ganesha Wooden Effect Nameplate Spiritual Door Decor](https://splasharts.in/products/ganesha-wooden-effect-nameplate-copy): The Ganesha Wooden Effect Nameplate features premium MDF marine wood construction. This entrance accessory provides durability and a wood appearance for homes.
   Updated: 2026-07-15T02:35:08Z
@@ -285,11 +285,11 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/ganesha-wooden-effect-nameplate-606.webp?v=1779700423
   Price: ₹1,899.00 INR
 - [Lotus Nameplate Elegant Floral Entrance Decor](https://splasharts.in/products/lotus-nameplate): The SplashArts Lotus Nameplate features MDF marine wood construction and Vastu principles. This door plate provides durability plus symbols of purity and harmony.
-  Updated: 2026-07-10T12:12:40Z
+  Updated: 2026-07-29T12:24:48Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/lotus-nameplate-903.webp?v=1779700450
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/lotus-nameplate-903.webp?v=1785327854
   Price: ₹2,299.00 INR
 - [Elegant Peacock Nameplate for Sophisticated Entrances](https://splasharts.in/products/peacock-nameplate-1): The Peacock Nameplate features a majestic motif on high-quality MDF marine wood. This personalized door accessory provides a durable finish for home entrances.
   Updated: 2026-07-10T12:12:40Z
@@ -306,63 +306,63 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/divine-ganesha-nameplate-984.webp?v=1779700545
   Price: ₹1,899.00 INR
 - [Tree of Life Nameplate for Home Entrance Decor](https://splasharts.in/products/tree-of-life-nameplate): The Tree of Life Nameplate features MDF marine wood construction for home entrances. This Vastu item symbolizes harmony and prosperity with a durable finish.
-  Updated: 2026-07-10T12:12:41Z
+  Updated: 2026-07-29T12:22:59Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/tree-of-life-nameplate-237.webp?v=1779700588
+  Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/tree-of-life-nameplate-237.webp?v=1785327651
   Price: ₹2,199.00 INR
 - [Pichawai Nameplate Traditional Indian Door Decor](https://splasharts.in/products/pichawai-nameplate): The Pichawai Nameplate features traditional Indian motifs and contemporary design. This door accessory reflects identity and brings positive energy to home facades.
-  Updated: 2026-07-10T12:12:41Z
+  Updated: 2026-07-29T12:40:43Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/pichawai-nameplate-360.webp?v=1779700682
   Price: ₹3,799.00 INR
 - [Banana Leaf Nameplate for Artistic Office Door Decor](https://splasharts.in/products/banana-leaf-nameplate): Banana Leaf Nameplate features a nature motif for home entrances. This Vastu compliant door plate represents growth and prosperity through functional artistry.
-  Updated: 2026-07-15T00:32:38Z
+  Updated: 2026-07-29T12:44:16Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/banana-leaf-nameplate-198.webp?v=1779700725
   Price: ₹2,399.00 INR
 - [Love in the Air Nameplate for Elegant Office Doors](https://splasharts.in/products/love-in-the-air-nameplate): The Love in the Air Nameplate features premium canvas board construction for home entrances and interiors. This product provides door identification and decor.
-  Updated: 2026-07-10T12:12:42Z
+  Updated: 2026-07-29T12:46:05Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/love-in-the-air-nameplate-468.webp?v=1779700750
   Price: ₹2,499.00 INR
 - [Love Birds Nameplate for Office Door Decor SplashArts](https://splasharts.in/products/love-birds-nameplate): The Love Birds Nameplate features a canvas board measuring 17.3cm by 53cm. This customized door sign includes a bird motif and weighs little for easy installation.
-  Updated: 2026-07-10T12:12:42Z
+  Updated: 2026-07-29T12:53:27Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/love-birds-nameplate-749.webp?v=1779700878
   Price: ₹2,499.00 INR
 - [Tree Branch Nameplate Personalized Nature Door Decor](https://splasharts.in/products/tree-branch-nameplate): The Tree Branch Nameplate features 8mm MDF Marine Wood for durability. This personalized door decor identifies homes using nature themes and rustic attributes.
-  Updated: 2026-07-10T12:12:42Z
+  Updated: 2026-07-29T12:26:15Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/tree-branch-nameplate-726.webp?v=1779700937
   Price: ₹2,299.00 INR
 - [Kalash Nameplate Vastu Door Decor for Prosperity](https://splasharts.in/products/kalash-nameplate): The Kalash Nameplate features 8mm MDF Marine Wood construction. This personalized door sign incorporates Vastu symbols for abundance and prosperity at home entrances.
-  Updated: 2026-07-10T12:12:43Z
+  Updated: 2026-07-29T12:26:57Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/kalash-nameplate-131.webp?v=1779700975
   Price: ₹2,299.00 INR
 - [Floral Nameplate with Vibrant Botanical Designs](https://splasharts.in/products/floral-nameplate): Floral Nameplate features floral motifs on 8mm MDF Marine Wood. This door nameplate provides durability and nature themes for home entrances and office decor.
-  Updated: 2026-07-10T12:12:43Z
+  Updated: 2026-07-29T12:28:17Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-nameplate-462.webp?v=1779701043
   Price: ₹2,299.00 INR
 - [Welcome Ganesha Nameplate Spiritual Door Decor Entrance](https://splasharts.in/products/welcome-ganesha-nameplate): The Welcome Ganesha Nameplate features a Lord Ganesha depiction on a door name plate. This item provides spiritual symbolism and prosperity for home entrances.
-  Updated: 2026-07-10T12:12:43Z
+  Updated: 2026-07-29T12:30:06Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -441,14 +441,14 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/cars-kids-nameplate-289.webp?v=1779701238
   Price: ₹999.00 INR
 - [Divine Ganesha Blessing Nameplate for Home Entrance](https://splasharts.in/products/divine-ganesha-blessing-nameplate): The Divine Ganesha Blessing Nameplate features Lord Ganesha symbols for prosperity. This door accessory uses durable materials to enhance home entrance spaces.
-  Updated: 2026-07-10T12:12:44Z
+  Updated: 2026-07-29T12:32:15Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/divine-ganesha-blessing-nameplate-592.webp?v=1779701354
   Price: ₹2,699.00 INR
 - [Handcrafted Wooden Bark Nameplate for Office Doors](https://splasharts.in/products/wooden-bark-nameplate): The Handcrafted Wooden Bark Nameplate features MDF Marine Wood and a hut design. This nameplate displays family names and house numbers on home entrance doors.
-  Updated: 2026-07-13T06:43:26Z
+  Updated: 2026-07-29T12:50:46Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -470,56 +470,56 @@
     Availability: Available
     Price: ₹200.00 INR
 - [Sweet Home Nameplate Decorative Door Decor Welcome Sign](https://splasharts.in/products/sweet-home-nameplate): Elevate your home's charm with our customizable Sweet Home Nameplate, a perfect symbol of love and togetherness.
-  Updated: 2026-07-10T12:12:45Z
+  Updated: 2026-07-29T12:52:36Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/sweet-home-nameplate-667.webp?v=1779701458
   Price: ₹2,299.00 INR
 - [Blossom Nameplate Elegant Floral Office Door Decor](https://splasharts.in/products/blossom-nameplate): Enhance your home with the Blossom Nameplate, featuring customizable love birds design, perfect for celebrating love and togetherness.
-  Updated: 2026-07-10T12:12:45Z
+  Updated: 2026-07-29T12:33:15Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/blossom-nameplate-867.webp?v=1779701497
   Price: ₹1,799.00 INR
 - [Royal Charm Nameplate Elegant Office Door Decor](https://splasharts.in/products/royal-charm): Discover the Moonshine Love Nameplate, a romantic canvas piece perfect for celebrating love with customizable designs.
-  Updated: 2026-07-10T12:12:45Z
+  Updated: 2026-07-29T12:35:15Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/royal-charm-nameplate-981.webp?v=1779701561
   Price: ₹1,399.00 INR
 - [Sunflower Blossom Nameplate Premium Wood Office Decor](https://splasharts.in/products/sunflower-blossom-nameplate): Brighten your home with our customizable Sunflower Blossom Nameplate, perfect for adding a cheerful touch to any space.
-  Updated: 2026-07-10T12:12:45Z
+  Updated: 2026-07-29T12:37:19Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/sunflower-blossom-nameplate-963.webp?v=1779701602
   Price: ₹1,599.00 INR
 - [Royal Touch Nameplate Luxury Office Door Decor SplashArts](https://splasharts.in/products/royal-touch-nameplate): Enhance your entrance with the Royal Touch Nameplate, a customizable MDF masterpiece that radiates elegance and charm.
-  Updated: 2026-07-10T12:12:46Z
+  Updated: 2026-07-29T12:39:17Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/royal-touch-nameplate-182.webp?v=1779701649
   Price: ₹1,799.00 INR
 - [Personalized Blossom Wood Nameplate for Elegant Doors](https://splasharts.in/products/blossom-on-wood-nameplate): Elevate your entrance with the Blossom on Wood Nameplate, a personalized, durable, and elegantly designed home décor piece.
-  Updated: 2026-07-10T12:12:46Z
+  Updated: 2026-07-29T12:14:14Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/blossom-on-wood-nameplate-680.webp?v=1779701685
   Price: ₹1,999.00 INR
 - [Sunrise Boho Style Nameplate Modern Office Door Decor](https://splasharts.in/products/sunrise-boho-style-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-07-10T12:12:46Z
+  Updated: 2026-07-29T12:47:32Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/sunrise-boho-style-nameplate-505.webp?v=1779701778
   Price: ₹1,799.00 INR
 - [Peacock Feather Nameplate for Luxury Office Entrances](https://splasharts.in/products/peacock-feather-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-07-15T13:33:56Z
+  Updated: 2026-07-29T12:18:34Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -533,14 +533,14 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/natural-wood-finish-nameplate-799.webp?v=1779701860
   Price: ₹1,399.00 INR
 - [Rustic Brick Wall Nameplate Office Door Sign Decor](https://splasharts.in/products/brick-wall-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-07-10T12:12:46Z
+  Updated: 2026-07-29T12:55:28Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/brick-wall-nameplate-330.webp?v=1779701910
   Price: ₹1,399.00 INR
 - [Buddha Blessing Nameplate Serene Spiritual Door Decor](https://splasharts.in/products/buddha-blessing-nameplate): Discover serenity with the Buddha Blessing Nameplate, a beautifully crafted symbol of peace and positivity for your home or office decor.
-  Updated: 2026-07-10T12:12:47Z
+  Updated: 2026-07-29T12:56:36Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -561,7 +561,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-blue-nameplate-531.webp?v=1779702055
   Price: ₹1,399.00 INR
 - [Personalized Family Surname Door Nameplate SplashArts](https://splasharts.in/products/family-surname-nameplate): Add a personal touch to your home with our Family Surname Nameplate, crafted for elegance and durability—perfect for welcoming guests!
-  Updated: 2026-07-10T12:12:47Z
+  Updated: 2026-08-10T11:09:27Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -575,18 +575,21 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/classy-brown-nameplate-387.webp?v=1779702174
   Price: ₹1,399.00 INR
 - [Naruto DIY Keychain Kit Paint Your Own Anime Craft](https://splasharts.in/products/naruto-diy-keychain-kit): Create your own unique Naruto DIY Keychain Kit and unleash your creativity with fun designs featuring your favorite characters!
-  Updated: 2026-07-10T12:12:47Z
+  Updated: 2026-08-11T04:54:37Z
   Vendor: SplashArts
   Product Type: Fridge Magnets,returngift
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/naruto-diy-keychain-kit-paint-your-own-splash-by-arts-fridge-243.webp?v=1779702213
-  - [1](https://splasharts.in/products/naruto-diy-keychain-kit?variant=46771835732125)
+  - [Pack of 1](https://splasharts.in/products/naruto-diy-keychain-kit?variant=46771835732125)
     Availability: Available
     Price: ₹119.00 INR
-  - [3](https://splasharts.in/products/naruto-diy-keychain-kit?variant=46771835764893)
+  - [Pack of 3](https://splasharts.in/products/naruto-diy-keychain-kit?variant=46771835764893)
     Availability: Available
     Price: ₹299.00 INR
-  - [10](https://splasharts.in/products/naruto-diy-keychain-kit?variant=46771835797661)
+  - [Pack of 5](https://splasharts.in/products/naruto-diy-keychain-kit?variant=48759820779677)
+    Availability: Available
+    Price: ₹425.00 INR
+  - [Pack of 10](https://splasharts.in/products/naruto-diy-keychain-kit?variant=46771835797661)
     Availability: Available
     Price: ₹850.00 INR
 - [Squid Game DIY Keychain Kit |Paint Your Own Fridge Magnet](https://splasharts.in/products/squid-game-diy-keychain-kit): Craft your own unique accessories with the Squid Game DIY Keychain Kit, perfect for fans seeking a fun and creative project!
@@ -992,7 +995,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/divine-grace-cross-nameplate-personalized-wooden-name-plate-977.webp?v=1779702797
   Price: ₹1,599.00 INR
 - [Personalized Om Wooden Nameplate for Home Entrance](https://splasharts.in/products/om-nameplate-personalized): Enhance your home entrance with the Om Nameplate – a personalized wooden name plate featuring a sacred Om symbol. Handcrafted design perfect for adding peace, positivity, and elegance to your home décor.
-  Updated: 2026-07-10T12:12:52Z
+  Updated: 2026-07-29T12:49:17Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -1013,7 +1016,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/nanaks-grace-nameplate-handcrafted-personalized-wooden-name-plate-736.webp?v=1779702891
   Price: ₹1,599.00 INR
 - [Love Nest Wooden Nameplate Handcrafted Heart Decor](https://splasharts.in/products/love-nest-nameplate): Buy Love Nest Nameplate online. Personalized couple name plate for home entrance, perfect for newlyweds, housewarming gifts, and romantic home décor.
-  Updated: 2026-07-10T12:12:53Z
+  Updated: 2026-07-29T12:58:08Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -1062,7 +1065,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/minecraft-photo-frame-diy-kit-for-kids-paint-your-own-pixel-splash-541.webp?v=1779703153
   Price: ₹599.00 INR
 - [3 Layer Rainbow Photo Frame Fridge Magnet DIY Kit for Kids](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit): 3 layer rainbow photo frame fridge magnet DIY kit for kids. Paint your own colorful magnet, perfect for birthday return gifts, party favors & creative fun.
-  Updated: 2026-07-26T04:12:35Z
+  Updated: 2026-07-30T03:18:20Z
   Vendor: splashdiy
   Product Type: photoframe
   Availability: Available
@@ -1408,7 +1411,7 @@
     Availability: Available
     Price: ₹1,250.00 INR
 - [Peppa Pig Nameboard DIY Kit| Personalized Paint Your Own Kit](https://splasharts.in/products/peppa-pig-nameboard-diy-kit): Create a fun Peppa Pig themed nameboard with this DIY kit for kids. Includes pre-marked MDF design, paints, brush & accessories. Perfect for room décor, return gifts & creative play.
-  Updated: 2026-07-24T08:46:37Z
+  Updated: 2026-07-29T20:13:31Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -1928,211 +1931,211 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/holi-fridge-magnet-diy-kit-for-kids-paint-your-own-festival-craft-277.jpg?v=1779697892
     Price: ₹599.00 INR
 - [Theme Personalised Fridge Magnet DIY Kit |Paint Your Own Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit): Personalized fridge magnet in themes like Unicorn, Spiderman, Roblox, Peppa Pig, Minion, Teddy, Mermaid, Fairy, Ronaldo & Rumi. Perfect birthday return gift.
-  Updated: 2026-07-26T07:15:11Z
+  Updated: 2026-08-13T16:19:36Z
   Vendor: SplashArts
   Product Type: returngift, nameboard, fridge magnet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
-  - [Unicorn / Pack of 1 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675060387997)
+  - [Unicorn / Pack of 1 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675060387997)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
     Price: ₹129.00 INR
-  - [Unicorn / Pack of 1 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675247689885)
+  - [Unicorn / Pack of 1 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553068701)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
-    Price: ₹129.00 INR
-  - [Unicorn / Pack of 2 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447049891997)
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
+    Price: ₹179.00 INR
+  - [Unicorn / Pack of 2 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447049891997)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
     Price: ₹249.00 INR
-  - [Unicorn / Pack of 2 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447049924765)
+  - [Unicorn / Pack of 2 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553101469)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
-    Price: ₹249.00 INR
-  - [Unicorn / Pack of 3 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412043421)
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
+    Price: ₹349.00 INR
+  - [Unicorn / Pack of 3 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412043421)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
     Price: ₹375.00 INR
-  - [Unicorn / Pack of 3 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412076189)
+  - [Unicorn / Pack of 3 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553134237)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
-    Price: ₹375.00 INR
-  - [Unicorn / Pack of 4 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447049957533)
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
+    Price: ₹540.00 INR
+  - [Unicorn / Pack of 4 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447049957533)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
     Price: ₹499.00 INR
-  - [Unicorn / Pack of 4 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447049990301)
+  - [Unicorn / Pack of 4 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553167005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
-    Price: ₹499.00 INR
-  - [Unicorn / Pack of 5 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675060420765)
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
+    Price: ₹799.00 INR
+  - [Unicorn / Pack of 5 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675060420765)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
     Price: ₹599.00 INR
-  - [Unicorn / Pack of 5 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675247722653)
+  - [Unicorn / Pack of 5 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553199773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
-    Price: ₹599.00 INR
-  - [Unicorn / Pack of 10 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412108957)
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
+    Price: ₹945.00 INR
+  - [Unicorn / Pack of 10 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412108957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
     Price: ₹1,150.00 INR
-  - [Unicorn / Pack of 10 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412141725)
+  - [Unicorn / Pack of 10 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553232541)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-619.jpg?v=1783664280
-    Price: ₹1,150.00 INR
-  - [Dino / Pack of 1 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582616221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
-    Price: ₹129.00 INR
-  - [Dino / Pack of 1 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582648989)
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-731.jpg?v=1783664261
+    Price: ₹1,699.00 INR
+  - [Dino / Pack of 1 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582616221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
     Price: ₹129.00 INR
-  - [Dino / Pack of 2 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582681757)
+  - [Dino / Pack of 1 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553265309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
+    Price: ₹179.00 INR
+  - [Dino / Pack of 2 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582681757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
     Price: ₹249.00 INR
-  - [Dino / Pack of 2 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582714525)
+  - [Dino / Pack of 2 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553298077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
-    Price: ₹249.00 INR
-  - [Dino / Pack of 3 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582747293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
-    Price: ₹375.00 INR
-  - [Dino / Pack of 3 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582780061)
+    Price: ₹349.00 INR
+  - [Dino / Pack of 3 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582747293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
     Price: ₹375.00 INR
-  - [Dino / Pack of 4 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582812829)
+  - [Dino / Pack of 3 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553330845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
+    Price: ₹540.00 INR
+  - [Dino / Pack of 4 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582812829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
     Price: ₹499.00 INR
-  - [Dino / Pack of 4 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582845597)
+  - [Dino / Pack of 4 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553363613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
-    Price: ₹499.00 INR
-  - [Dino / Pack of 5 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582878365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
-    Price: ₹599.00 INR
-  - [Dino / Pack of 5 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582911133)
+    Price: ₹799.00 INR
+  - [Dino / Pack of 5 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582878365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
     Price: ₹599.00 INR
-  - [Dino / Pack of 10 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582943901)
+  - [Dino / Pack of 5 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553396381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
+    Price: ₹945.00 INR
+  - [Dino / Pack of 10 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582943901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
     Price: ₹1,150.00 INR
-  - [Dino / Pack of 10 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48614582976669)
+  - [Dino / Pack of 10 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553429149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-389.jpg?v=1783664358
-    Price: ₹1,150.00 INR
-  - [Spiderman / Pack of 1 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675060453533)
+    Price: ₹1,699.00 INR
+  - [Spiderman / Pack of 1 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675060453533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
     Price: ₹129.00 INR
-  - [Spiderman / Pack of 1 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675247755421)
+  - [Spiderman / Pack of 1 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553461917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
-    Price: ₹129.00 INR
-  - [Spiderman / Pack of 2 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050023069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
-    Price: ₹249.00 INR
-  - [Spiderman / Pack of 2 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050055837)
+    Price: ₹179.00 INR
+  - [Spiderman / Pack of 2 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050023069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
     Price: ₹249.00 INR
-  - [Spiderman / Pack of 3 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412174493)
+  - [Spiderman / Pack of 2 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553494685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
+    Price: ₹349.00 INR
+  - [Spiderman / Pack of 3 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412174493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
     Price: ₹375.00 INR
-  - [Spiderman / Pack of 3 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412207261)
+  - [Spiderman / Pack of 3 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553527453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
-    Price: ₹375.00 INR
-  - [Spiderman / Pack of 4 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050088605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
-    Price: ₹499.00 INR
-  - [Spiderman / Pack of 4 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050121373)
+    Price: ₹540.00 INR
+  - [Spiderman / Pack of 4 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050088605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
     Price: ₹499.00 INR
-  - [Spiderman / Pack of 5 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675060486301)
+  - [Spiderman / Pack of 4 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553560221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
+    Price: ₹799.00 INR
+  - [Spiderman / Pack of 5 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675060486301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
     Price: ₹599.00 INR
-  - [Spiderman / Pack of 5 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47675247788189)
+  - [Spiderman / Pack of 5 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553592989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
-    Price: ₹599.00 INR
-  - [Spiderman / Pack of 10 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412240029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
-    Price: ₹1,150.00 INR
-  - [Spiderman / Pack of 10 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412272797)
+    Price: ₹945.00 INR
+  - [Spiderman / Pack of 10 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412240029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
     Price: ₹1,150.00 INR
-  - [Kpop Demon Hunter / Pack of 1 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47876493705373)
+  - [Spiderman / Pack of 10 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553625757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
-    Price: ₹129.00 INR
-  - [Kpop Demon Hunter / Pack of 1 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47876493738141)
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-889.jpg?v=1783664271
+    Price: ₹1,699.00 INR
+  - [Kpop Demon Hunter / Pack of 1 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47876493705373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
     Price: ₹129.00 INR
-  - [Kpop Demon Hunter / Pack of 2 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050154141)
+  - [Kpop Demon Hunter / Pack of 1 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553658525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
+    Price: ₹179.00 INR
+  - [Kpop Demon Hunter / Pack of 2 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050154141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
     Price: ₹249.00 INR
-  - [Kpop Demon Hunter / Pack of 2 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050186909)
+  - [Kpop Demon Hunter / Pack of 2 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553691293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
-    Price: ₹249.00 INR
-  - [Kpop Demon Hunter / Pack of 3 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412305565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
-    Price: ₹375.00 INR
-  - [Kpop Demon Hunter / Pack of 3 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412338333)
+    Price: ₹349.00 INR
+  - [Kpop Demon Hunter / Pack of 3 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412305565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
     Price: ₹375.00 INR
-  - [Kpop Demon Hunter / Pack of 4 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050219677)
+  - [Kpop Demon Hunter / Pack of 3 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553724061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
+    Price: ₹540.00 INR
+  - [Kpop Demon Hunter / Pack of 4 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050219677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
     Price: ₹499.00 INR
-  - [Kpop Demon Hunter / Pack of 4 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48447050252445)
+  - [Kpop Demon Hunter / Pack of 4 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553756829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
-    Price: ₹499.00 INR
-  - [Kpop Demon Hunter / Pack of 5 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47876493770909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
-    Price: ₹599.00 INR
-  - [Kpop Demon Hunter / Pack of 5 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47876493803677)
+    Price: ₹799.00 INR
+  - [Kpop Demon Hunter / Pack of 5 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=47876493770909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
     Price: ₹599.00 INR
-  - [Kpop Demon Hunter / Pack of 10 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412371101)
+  - [Kpop Demon Hunter / Pack of 5 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553789597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
+    Price: ₹945.00 INR
+  - [Kpop Demon Hunter / Pack of 10 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412371101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
     Price: ₹1,150.00 INR
-  - [Kpop Demon Hunter / Pack of 10 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48364412403869)
+  - [Kpop Demon Hunter / Pack of 10 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553822365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/personalised-theme-fridge-magnet-diy-kit-paint-your-own-birthday-782.png?v=1783664212
-    Price: ₹1,150.00 INR
-  - [Kpop Demon Hunter - Boy / Pack of 1 / Fridge Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48638028578973)
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/kpop.webp?v=1786103747
+    Price: ₹1,699.00 INR
+  - [Kpop Demon Hunter - Boy / Pack of 1 / Poly Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48638028578973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/kpop_demon_hunter_-_boy.webp?v=1784027857
     Price: ₹129.00 INR
-  - [Kpop Demon Hunter - Boy / Pack of 1 / Stick on Wall or Drawer](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48638028611741)
+  - [Kpop Demon Hunter - Boy / Pack of 1 / Box Packing](https://splasharts.in/products/name-fridge-magnet-diy-kit?variant=48764553855133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/kpop_demon_hunter_-_boy.webp?v=1784027857
-    Price: ₹129.00 INR
+    Price: ₹179.00 INR
 - [Football Theme Nameboard DIY Kit | Personalized Paint Your Own Kit](https://splasharts.in/products/football-nameboard-diy-kit): Spark creativity with the football Nameplate DIY Kit, a 9x4 inch wooden football nameboard for kids 5+, with colors, brush, and pen for personalized decor.
   Updated: 2026-07-22T19:32:51Z
   Vendor: SplashArts
@@ -2344,14 +2347,14 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Multiple Theme Name board DIY kit I Personalized Paint Your Own Kit](https://splasharts.in/products/theme-name-board-diy-kit): Personalized paint your own wooden nameboard themes like Astronaut, Car, Mermaid, Football, Spiderman and more. Perfect for birthday return gifts.
-  Updated: 2026-07-10T12:13:04Z
+  Updated: 2026-08-06T11:24:58Z
   Vendor: SplashArts
   Product Type: returngift, nameboard, fridge magnet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-425.png?v=1779962937
   - [Astronaut / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619362973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-425.png?v=1779962937
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-748.png?v=1781001324
     Price: ₹150.00 INR
   - [Astronaut / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619395741)
     Availability: Available
@@ -2359,95 +2362,143 @@
     Price: ₹150.00 INR
   - [Astronaut / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619428509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-425.png?v=1779962937
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-748.png?v=1781001324
     Price: ₹750.00 INR
   - [Astronaut / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619461277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-748.png?v=1781001324
     Price: ₹750.00 INR
+  - [Astronaut / Pack of 10 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078163613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-748.png?v=1781001324
+    Price: ₹1,150.00 INR
+  - [Astronaut / Pack of 10 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078196381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-748.png?v=1781001324
+    Price: ₹1,150.00 INR
   - [Roblo / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619494045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-576.png?v=1779698079
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-656.png?v=1786011552
     Price: ₹150.00 INR
   - [Roblo / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619526813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-656.png?v=1779698082
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-656.png?v=1786011552
     Price: ₹150.00 INR
   - [Roblo / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619559581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-576.png?v=1779698079
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-656.png?v=1786011552
     Price: ₹750.00 INR
   - [Roblo / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619592349)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-656.png?v=1779698082
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-656.png?v=1786011552
     Price: ₹750.00 INR
+  - [Roblo / Pack of 10 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078229149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-656.png?v=1786011552
+    Price: ₹1,150.00 INR
+  - [Roblo / Pack of 10 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078261917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-656.png?v=1786011552
+    Price: ₹1,150.00 INR
   - [Peppa / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619625117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-222.png?v=1779698086
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-222.png?v=1786011574
     Price: ₹150.00 INR
   - [Peppa / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619657885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-820.png?v=1779698090
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-222.png?v=1786011574
     Price: ₹150.00 INR
   - [Peppa / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619690653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-222.png?v=1779698086
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-222.png?v=1786011574
     Price: ₹750.00 INR
   - [Peppa / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619723421)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-820.png?v=1779698090
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-222.png?v=1786011574
     Price: ₹750.00 INR
+  - [Peppa / Pack of 10 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078294685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-222.png?v=1786011574
+    Price: ₹1,150.00 INR
+  - [Peppa / Pack of 10 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078327453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-222.png?v=1786011574
+    Price: ₹1,150.00 INR
   - [Car / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619756189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-369.png?v=1779698094
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-879.png?v=1786014073
     Price: ₹150.00 INR
   - [Car / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619788957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-967.png?v=1779698098
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-879.png?v=1786014073
     Price: ₹150.00 INR
   - [Car / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619821725)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-879.png?v=1779698101
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-879.png?v=1786014073
     Price: ₹750.00 INR
   - [Car / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619854493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-967.png?v=1779698098
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-879.png?v=1786014073
     Price: ₹750.00 INR
+  - [Car / Pack of 10 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078360221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-879.png?v=1786014073
+    Price: ₹1,150.00 INR
+  - [Car / Pack of 10 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078392989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-879.png?v=1786014073
+    Price: ₹1,150.00 INR
   - [K pop Hunter / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619887261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-213.png?v=1779698105
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-213.png?v=1786014074
     Price: ₹129.00 INR
   - [K pop Hunter / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619920029)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-955.png?v=1779698109
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-213.png?v=1786014074
     Price: ₹129.00 INR
   - [K pop Hunter / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619952797)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-213.png?v=1779698105
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-213.png?v=1786014074
     Price: ₹750.00 INR
   - [K pop Hunter / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719619985565)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-955.png?v=1779698109
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-213.png?v=1786014074
     Price: ₹750.00 INR
+  - [K pop Hunter / Pack of 10 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078425757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-213.png?v=1786014074
+    Price: ₹1,150.00 INR
+  - [K pop Hunter / Pack of 10 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078458525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-213.png?v=1786014074
+    Price: ₹1,150.00 INR
   - [Minion / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620149405)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-837.jpg?v=1779698112
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-837.jpg?v=1786014094
     Price: ₹150.00 INR
   - [Minion / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620182173)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-495.jpg?v=1779698116
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-837.jpg?v=1786014094
     Price: ₹150.00 INR
   - [Minion / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620214941)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-837.jpg?v=1779698112
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-837.jpg?v=1786014094
     Price: ₹750.00 INR
   - [Minion / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620247709)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-495.jpg?v=1779698116
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-837.jpg?v=1786014094
     Price: ₹750.00 INR
+  - [Minion / Pack of 10 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078491293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-837.jpg?v=1786014094
+    Price: ₹1,150.00 INR
+  - [Minion / Pack of 10 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078524061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-837.jpg?v=1786014094
+    Price: ₹1,150.00 INR
   - [Mermaid / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620280477)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-308.png?v=1779698120
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-692.png?v=1779698123
     Price: ₹150.00 INR
   - [Mermaid / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620313245)
     Availability: Available
@@ -2455,92 +2506,52 @@
     Price: ₹150.00 INR
   - [Mermaid / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620346013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-308.png?v=1779698120
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-692.png?v=1779698123
     Price: ₹750.00 INR
   - [Mermaid / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620378781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-692.png?v=1779698123
     Price: ₹750.00 INR
+  - [Mermaid / Pack of 10 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078556829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-692.png?v=1779698123
+    Price: ₹1,150.00 INR
+  - [Mermaid / Pack of 10 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078589597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-692.png?v=1779698123
+    Price: ₹1,150.00 INR
   - [Aeroplane / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620411549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-588.png?v=1779698126
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-464.png?v=1786014178
     Price: ₹150.00 INR
   - [Aeroplane / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620444317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-464.png?v=1779698130
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-464.png?v=1786014178
     Price: ₹150.00 INR
   - [Aeroplane / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620477085)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-588.png?v=1779698126
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-464.png?v=1786014178
     Price: ₹750.00 INR
   - [Aeroplane / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719620509853)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-735.png?v=1779698134
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-464.png?v=1786014178
     Price: ₹750.00 INR
+  - [Aeroplane / Pack of 10 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078622365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-464.png?v=1786014178
+    Price: ₹1,150.00 INR
+  - [Aeroplane / Pack of 10 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=48757078655133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-464.png?v=1786014178
+    Price: ₹1,150.00 INR
   - [Football / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627686045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-297.png?v=1779698137
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-297.png?v=1786014294
     Price: ₹150.00 INR
   - [Football / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627718813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-666.png?v=1779698141
+    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-297.png?v=1786014294
     Price: ₹150.00 INR
-  - [Football / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627751581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-297.png?v=1779698137
-    Price: ₹750.00 INR
-  - [Football / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627784349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-666.png?v=1779698141
-    Price: ₹750.00 INR
-  - [Trophy / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627817117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-355.png?v=1779698144
-    Price: ₹150.00 INR
-  - [Trophy / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627849885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-515.png?v=1779698147
-    Price: ₹150.00 INR
-  - [Trophy / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627882653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-355.png?v=1779698144
-    Price: ₹750.00 INR
-  - [Trophy / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627915421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-515.png?v=1779698147
-    Price: ₹750.00 INR
-  - [Spiderman / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627948189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-402.jpg?v=1779698151
-    Price: ₹150.00 INR
-  - [Spiderman / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719627980957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-812.jpg?v=1779698153
-    Price: ₹150.00 INR
-  - [Spiderman / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719628013725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-812.jpg?v=1779698153
-    Price: ₹750.00 INR
-  - [Spiderman / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47719628046493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-402.jpg?v=1779698151
-    Price: ₹750.00 INR
-  - [Controller / Pack of 1 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47722227957917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-240.png?v=1779698160
-    Price: ₹150.00 INR
-  - [Controller / Pack of 1 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47722227990685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-696.png?v=1779698163
-    Price: ₹150.00 INR
-  - [Controller / Pack of 5 / Hanging](https://splasharts.in/products/theme-name-board-diy-kit?variant=47722228023453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-240.png?v=1779698160
-    Price: ₹750.00 INR
-  - [Controller / Pack of 5 / Stick on Wall](https://splasharts.in/products/theme-name-board-diy-kit?variant=47722228056221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/multiple-theme-name-board-diy-kit-personalized-paint-your-own-696.png?v=1779698163
-    Price: ₹750.00 INR
 - [3 Layer Car DIY Photo Frame Paint Your Own Magnet Kit](https://splasharts.in/products/3-layer-rainbow-photo-frame-fridge-magnet-diy-kit-copy): Create a personalized rainbow photo magnet with this kid-friendly DIY kit—includes MDF rainbow magnet, 6 paints, brush, and sketch pen for gift-worthy fun.
   Updated: 2026-07-10T12:13:04Z
   Vendor: splashdiy
@@ -2800,7 +2811,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/diy-mandala-clock-kit-paint-your-own-wooden-splash-by-arts-386.png?v=1783664523
   Price: ₹799.00 INR
 - [Butterfly Rainbow Nameboard DIY Kit for Kids | Personalized Paint Your Own Kit](https://splasharts.in/products/butterfly-rainbow-nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board-birthday-return-gift-i-splash-diy-by-splash-arts): Rainbow Nameboard DIY Kit for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts, creative play, and kids room decor.
-  Updated: 2026-07-22T19:32:55Z
+  Updated: 2026-08-11T06:15:27Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -2815,7 +2826,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Kpop Demon Hunter Nameboard DIY Kit | Personalized Paint Your Own Kit](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board): Kpop Demon Hunter Nameplate DIY Kit for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts.
-  Updated: 2026-07-24T08:51:24Z
+  Updated: 2026-08-12T08:02:26Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -2863,7 +2874,7 @@
   - [Unicorn / Pack of 5](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674737193117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/unicorn-nameboard-diy-kit-for-kids-personalized-paint-your-own-name-549_90c28e02-9b5d-4ece-b05a-d9f822f860d4.webp?v=1784619449
-    Price: ₹899.00 INR
+    Price: ₹999.00 INR
   - [Unicorn / Pack of 10](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674737225885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/unicorn-nameboard-diy-kit-for-kids-personalized-paint-your-own-name-549_90c28e02-9b5d-4ece-b05a-d9f822f860d4.webp?v=1784619449
@@ -2887,7 +2898,7 @@
   - [Rainbow / Pack of 5](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674737389725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/rainbow-nameboard-diy-kit-for-kids-personalized-paint-your-own-name-588.webp?v=1784619527
-    Price: ₹899.00 INR
+    Price: ₹999.00 INR
   - [Rainbow / Pack of 10](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674737422493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/rainbow-nameboard-diy-kit-for-kids-personalized-paint-your-own-name-588.webp?v=1784619527
@@ -2911,7 +2922,7 @@
   - [Butterfly / Pack of 5](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674737586333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/butterfly-rainbow-nameboard-diy-kit-for-kids-personalized-paint-106.webp?v=1784619540
-    Price: ₹899.00 INR
+    Price: ₹999.00 INR
   - [Butterfly / Pack of 10](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674737619101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/butterfly-rainbow-nameboard-diy-kit-for-kids-personalized-paint-106.webp?v=1784619540
@@ -2935,7 +2946,7 @@
   - [Mermaid / Pack of 5](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674737782941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/mermaid-nameboard-diy-kit-for-kids-personalized-paint-your-own-name-708_bddf3376-41b4-45c4-9d3d-126024398fde.webp?v=1784619557
-    Price: ₹899.00 INR
+    Price: ₹999.00 INR
   - [Mermaid / Pack of 10](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674737815709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/mermaid-nameboard-diy-kit-for-kids-personalized-paint-your-own-name-708_bddf3376-41b4-45c4-9d3d-126024398fde.webp?v=1784619557
@@ -2959,7 +2970,7 @@
   - [Cinderella / Pack of 5](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674737979549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/cinderalla-nameboard-diy-kit-personalized-paint-your-own-name-board-291_a737d0b1-5337-4a65-b44a-1bf85534bdc3.webp?v=1784619622
-    Price: ₹899.00 INR
+    Price: ₹999.00 INR
   - [Cinderella / Pack of 10](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674738012317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/cinderalla-nameboard-diy-kit-personalized-paint-your-own-name-board-291_a737d0b1-5337-4a65-b44a-1bf85534bdc3.webp?v=1784619622
@@ -2983,7 +2994,7 @@
   - [Dinosaur / Pack of 5](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674738176157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/dinosaur-theme-nameboard-diy-kit-for-kids-personalized-paint-902.webp?v=1784619638
-    Price: ₹899.00 INR
+    Price: ₹999.00 INR
   - [Dinosaur / Pack of 10](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674738208925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/dinosaur-theme-nameboard-diy-kit-for-kids-personalized-paint-902.webp?v=1784619638
@@ -3007,7 +3018,7 @@
   - [Car / Pack of 5](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674738372765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/car-theme-nameboard-diy-kit-for-kids-personalized-paint-your-own-414.webp?v=1784619654
-    Price: ₹899.00 INR
+    Price: ₹999.00 INR
   - [Car / Pack of 10](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board?variant=48674738405533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/car-theme-nameboard-diy-kit-for-kids-personalized-paint-your-own-414.webp?v=1784619654
@@ -3021,7 +3032,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/aeroplane-nameboard-diy-kit-for-kids-personalized-paint-your-own-474.webp?v=1784619677
     Price: ₹399.00 INR
 - [Floral Royal Nameplate Personalized Wooden Nameplate for Home Entrance](https://splasharts.in/products/floral-royal-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy): Floral Royal Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-07-11T05:19:17Z
+  Updated: 2026-08-13T05:31:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3045,7 +3056,7 @@
     Availability: Available
     Price: ₹2,299.00 INR
 - [Lotus Pond Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/lotus-pond-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-1): Lotus Pond Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-07-10T12:13:07Z
+  Updated: 2026-08-13T16:19:15Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3081,7 +3092,7 @@
     Availability: Available
     Price: ₹2,399.00 INR
 - [Blooming Roses Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/berry-floral-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-copy-copy): Blooming Roses Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-07-15T17:52:19Z
+  Updated: 2026-08-08T08:44:36Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3139,10 +3150,10 @@
 ## Collections
 
 - [Theme DIY kit](https://splasharts.in/collections/charcaters): SplashArts Theme DIY kits feature wooden airplane crafts, Barbie painting sets, tote bags, and nameboards. The collection includes magnets, keychains, and coasters.
-  Updated: 2026-07-28T09:39:13Z
+  Updated: 2026-08-11T11:10:42Z
   Total Products: 12
 - [Fridge Magnets and Key Chain DIY Kit](https://splasharts.in/collections/fridge-magnets): SplashArts offers Splash DIY kits for fridge magnets and keychains. The collection includes animal themes, nameboards, tote painting, coasters, and photo frames.
-  Updated: 2026-07-28T09:39:13Z
+  Updated: 2026-08-13T11:12:30Z
   Total Products: 33
 - [Bookmarks Making DIY Kit](https://splasharts.in/collections/bookmarks): SplashArts offers the Butterfly Bookmark DIY Kit featuring paintable wooden bookmarks. This Splash DIY collection includes creative art and craft activities for kids.
   Updated: 2026-07-28T09:39:13Z
@@ -3151,13 +3162,13 @@
   Updated: 2026-07-28T09:39:13Z
   Total Products: 3
 - [Kids Nameboard DIY kit](https://splasharts.in/collections/diy-kids-nameboard): SplashArts offers personalized SPLASH DIY nameboard kits for kids featuring themes like Aeroplane and Aqua World alongside tote painting and fridge magnet sets.
-  Updated: 2026-07-28T09:39:13Z
-  Total Products: 25
+  Updated: 2026-08-12T11:10:39Z
+  Total Products: 23
 - [NAMEPLATES](https://splasharts.in/collections/house-nameplates): SplashArts offers handcrafted personalized wooden nameplates for home entrances including the Royale Luxe, Elegance Edge, Love Nest, and Nanaks Grace collections.
-  Updated: 2026-07-28T09:39:13Z
-  Total Products: 61
+  Updated: 2026-08-13T11:12:30Z
+  Total Products: 62
 - [DIY KIT](https://splasharts.in/collections/diy-kits): SplashArts offers Splash DIY kits for fridge magnets, nameboards, tote painting, coasters, and bookmarks. This collection features themed and festival gift sets.
-  Updated: 2026-07-28T09:39:13Z
+  Updated: 2026-08-13T11:12:30Z
   Total Products: 91
 - [Tote Painting DIY Kit](https://splasharts.in/collections/block-painting-diy-kit): SplashArts offers a diverse collection of Tote Painting DIY Kits and themed sets including Squid Game designs, Bird and Bee block painting, and fridge magnets.
   Updated: 2026-07-28T09:39:13Z
@@ -3172,16 +3183,16 @@
   Updated: 2026-07-28T09:39:13Z
   Total Products: 19
 - [Festival Collection](https://splasharts.in/collections/festival-collection): SplashArts Festival Collection features DIY kits for rangoli designs, Holi magnets, tote painting, and coasters. These craft sets include nameboards and bookmarks.
-  Updated: 2026-07-28T09:39:13Z
+  Updated: 2026-08-09T11:09:53Z
   Total Products: 19
 - [Best Sellers DIY](https://splasharts.in/collections/best-sellers-diy): SplashArts offers best  DIY kits including fridge magnets, nameboards, tote painting, coasters, and festive rangoli designs from the Splash DIY brand.
-  Updated: 2026-07-28T09:39:13Z
-  Total Products: 16
+  Updated: 2026-08-13T11:12:30Z
+  Total Products: 15
 - [Clock DIY Kit](https://splasharts.in/collections/clock)
   Updated: 2026-07-28T09:39:14Z
   Total Products: 5
 - [Rakhi DIY Kit](https://splasharts.in/collections/rakhi-diy-kits): Shop Rakhi DIY Kits for kids with rakhis, sketch pens, paints, diya craft & festive essentials. Fun, creative Raksha Bandhan activity by SplashArts.
-  Updated: 2026-07-28T09:39:14Z
+  Updated: 2026-08-09T11:09:53Z
   Total Products: 6
 
 ## Blogs
