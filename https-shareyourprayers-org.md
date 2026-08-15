@@ -6,12 +6,12 @@
 - Timezone: America/Indiana/Indianapolis
 - Created At: 2026-07-20T20:58:02Z
 - Contact Email: psychicheartstm@gmail.com
-- Updated At: 2026-08-07T00:00:35.031Z
+- Updated At: 2026-08-15T00:00:37.901Z
 
 ## Products
 
 - [Prayer Request — Add Your Prayer to the Community Wall | Share Your Prayers](https://shareyourprayers.org/products/prayer-request-1): Submit your prayer request for just $3 and join a 24/7 community of faith lifting each other up. Every 10th prayer is free. You are not alone.
-  Updated: 2026-08-03T15:39:05Z
+  Updated: 2026-08-07T14:31:46Z
   Vendor: Share Your Prayers
   Product Type: 
   Availability: Available
@@ -31,7 +31,7 @@
   Updated: 2026-07-25T18:48:35Z
   Total Products: 0
 - [Prayer Community](https://shareyourprayers.org/collections/prayer-community): Join a 24/7 faith community lifting each other up in prayer. Submit your prayer request for just $3 and let the community pray for you.
-  Updated: 2026-07-25T18:48:35Z
+  Updated: 2026-08-08T11:24:30Z
   Total Products: 1
 
 ## Blogs
@@ -59,6 +59,15 @@
   - [How Meditation and Prayer Can Deepen Your Faith Journey](https://shareyourprayers.org/blogs/news/how-meditation-and-prayer-can-deepen-your-faith-journey): How Meditation and Prayer Can Deepen Your Faith Journey
     Updated: 2026-08-06T13:03:32Z
     Author: User
+  - [Exploring the Role of Jesus and the Bible in Spiritual Growth](https://shareyourprayers.org/blogs/news/exploring-the-role-of-jesus-and-the-bible-in-spiritual-growth): Exploring the Role of Jesus and the Bible in Spiritual Growth
+    Updated: 2026-08-08T13:03:20Z
+    Author: User
+  - [The Importance of a Prayer Partner in Your Ministry](https://shareyourprayers.org/blogs/news/the-importance-of-a-prayer-partner-in-your-ministry): The Importance of a Prayer Partner in Your Ministry
+    Updated: 2026-08-11T13:02:48Z
+    Author: User
+  - [Gratitude and Grace: How Reflection Can Lead to Spiritual Enlightenment](https://shareyourprayers.org/blogs/news/gratitude-and-grace-how-reflection-can-lead-to-spiritual-enlightenment): Gratitude and Grace: How Reflection Can Lead to Spiritual Enlightenment
+    Updated: 2026-08-13T13:01:36Z
+    Author: User
 
 ## Store Pages
 
@@ -66,8 +75,8 @@
   Updated: 2026-07-25T04:50:31Z
 - [Your Privacy Choices - Share Your Prayers](https://shareyourprayers.org/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-07-25T04:50:41Z
-- [Prayer Wall - Share Your Prayers](https://shareyourprayers.org/pages/prayer-wall): Welcome to the Prayer Wall. Here you will find prayers shared by our community. Read them, lift them up, and know that you are not alone. ✦ Please ...
-  Updated: 2026-08-06T21:31:19Z
+- [Prayer Wall - Share Your Prayers](https://shareyourprayers.org/pages/prayer-wall): ✦ May you find peace in every quiet moment.Grace | August 12, 2026 Welcome to the Prayer Wall. Here you will find prayers shared by our community. ...
+  Updated: 2026-08-12T15:30:01Z
 - [Prayer Partners — Join Us | Share Your Prayers](https://shareyourprayers.org/pages/prayer-partners): Join Us as a Prayer Partner “The prayer of a righteous person is powerful and effective.” — James 5:16 At Share Your Prayers, we believe in the pow...
   Updated: 2026-07-27T22:57:45Z
 - [Prayer for Healing | Share Your Prayers](https://shareyourprayers.org/pages/prayer-for-healing): Prayer for Healing Whether you're facing physical illness, emotional pain, or spiritual weariness, God hears every prayer for healing. You are not ...
