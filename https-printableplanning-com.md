@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-08-08T04:00:34.950Z
+- Updated At: 2026-08-15T08:00:33.888Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -84,8 +84,8 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SpecialDeliveryfromSantaClaus-PersonalizedGiftTags-PrintablePlanning2.jpg?v=1687844036
   Price: $5.95 USD
-- [Collections and Debts to be Paid - Tracking Sheet - Printable](https://printableplanning.com/products/collections-and-debts-to-be-paid-tracking-sheet-printable): A printable Collections and Debts to be Paid - Tracking Sheet to help you keep track of paying your debts that have fallen into collections, to help you get back into a good financial standing. Have you had a financial crisis that caused you to fall behind on bills to where they wound up in collections? Are you ready to get back on track and improve your situation, thus helping your credit score? This tracking sheet will help you keep all of your collections and debts in one organized place, as you work to pay off your debts. This printable collections and debts page allows you to organize up to four creditors per page. You keep track of the Original Creditor, the Collection Agency (if applicable), the payment address, phone number, the total amount owed, the credit reporting agencies the to which the debt is reported, any payment arrangements or settlement amount, and a checkbox for whether or not the debt has been paid off. SPECIFICATIONS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch for binder inclusion. Simple and clean. Easily keep track of your debts and collections as you pay them. Print a new printable Collections and Debts to be Paid - Tracking Sheet as needed.
-  Updated: 2026-07-08T20:45:35Z
+- [Debt & Collections Tracker for Creditors | Printable PDF](https://printableplanning.com/products/collections-and-debts-to-be-paid-tracking-sheet-printable): Organize collection accounts, creditors, balances, payment arrangements, credit reporting, contact details, and paid-in-full status.
+  Updated: 2026-08-13T03:01:16Z
   Vendor: Artistically Invited
   Product Type: Financial Sheets
   Availability: Available
@@ -414,7 +414,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PlannerTealLeftMonthlyWeeklyPage-PrintablePlanning.jpg?v=1687190193
   Price: $5.95 USD
 - [Pink Monthly and Weekly Calendar Planner Pages - Printable](https://printableplanning.com/products/pink-monthly-weekly-calendar-planner-pages-printable): Blank printable Pink Monthly and Weekly Calendar Planner Pages designed in a black, pink, and gray color scheme. These 4 pages in this bundle are made to fit any month or week by filling in the dates by yourself. The are designed for you to print them front and back to get maximum use with facing pages. They are full size 8.5" x 11" pages and the designs are offset to the side to allow room for you to use a 3-hole punch so they can be put in a binder. Print as many as you need for every week and every month, for every year. NOTE: Your PDF pages are combined into (1) ZIP file/folder. You will need to unzip this file after purchase. SPECIFICATIONS: (4) 8.5" x 11" printable PDF pages in (1) ZIP file. Designed for front and back, facing pages. Blank Weekly and Monthly pages. Clean, modern, and professional design. Print new Pink Monthly and Weekly Calendar Planner Pages every week, month, year, or as needed.
-  Updated: 2026-07-08T20:45:47Z
+  Updated: 2026-08-11T18:09:52Z
   Vendor: Artistically Invited
   Product Type: Planner Pages
   Availability: Available
@@ -511,50 +511,50 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Pet_Report_Card_-_Daily_Care_Sheet_BUNDLE_-_Printable_Planning_9757c425-b857-4a57-9794-cfc24c00043a.jpg?v=1564705777
   Price: $7.95 USD
-- [Modern Blank Monthly Calendar - 6 Full Page BUNDLE - Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-6-full-page-bundle-printable): Printable Modern Blank Monthly Calendar - 6 Full Page BUNDLE in a modern and stylish rounded corners full page design. The 6 pages in this bundle are made to fit any month by filling in the month and dates by yourself. They are full size 8.5" x 11" pages. There is a small 2-line notes section along the bottom. Print as many as you need for every month, for every year. Print your favorite color(s) or every color. The choice is yours. You get six pages for the price of less than two! The calendar is centered to the page, so you can have it on your desktop, your refrigerator, your magnetic whiteboard, and more. You may use a 3-hole punch to include these in a binder (the holes may cut into the month label). SPECIFICATIONS: (6) 8.5" x 11" printable PDF pages. Monthly pages. 6 colors are included: Teal, Pink, Green, Orange, Purple, and Yellow. Clean, modern, and professional design. Print new pages from this printable Modern Blank Monthly Calendar - 6 Full Page BUNDLE every month or year, or as needed.
-  Updated: 2026-07-26T22:43:06Z
+- [Undated Monthly Calendar Bundle | 6 Printable Colors](https://printableplanning.com/products/modern-blank-monthly-calendar-6-full-page-bundle-printable): Choose from 6 reusable monthly calendar colors with Sunday start, six full rows, large writing boxes, and notes space for any month or year.
+  Updated: 2026-08-14T12:47:40Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthCalendar-6FullPages-PrintablePlanning.jpg?v=1687197371
   Price: $7.95 USD
-- [BUNDLE: Modern Blank Monthly Calendar - Rainbow Full Page and Yearly Dates to Remember - Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-rainbow-full-page-printable-bundle): Printable BUNDLE: Modern Blank Monthly Calendar - Rainbow Full Page and Yearly Dates to Remember in a modern and stylish rounded corners full page design. This page is made to fit any month by filling in the month and dates by yourself. It is a full size 8.5" x 11" page. There is a small 2-line notes section along the bottom. Print as many as you need for every month, for every year. It is designed with each day of the week represented with a different color of the rainbow, for bright and happy organization. The calendar is centered to the page, so you can have it on your desktop, refrigerator, magnetic whiteboard, and more. You may use a 3-hole punch to include these in a binder (the holes may cut into the month label). This bundle listing includes a 3-page Yearly Dates to Remember printable. Write down your important monthly dates that you need to remember for easy reference. Use these pages when filling out your blank monthly calendar, so that you never miss an important date. Fill in the occasion, such as birthday, anniversary, or holiday, and the date of the month on which it occurs every year. Your printable PDF pages are compressed into (1) ZIP file. You will need to extract them after you purchase. SPECIFICATIONS: (4) 8.5" x 11" printable pages in (2) PDF files in (1) ZIP file. The 3-page Yearly Dates to Remember page is in (1) PDF file. Monthly pages. 7-colored rainbow calendar. Clean, modern, and professional design. Print new BUNDLE: Modern Blank Monthly Calendar - Rainbow Full Page and Yearly Dates to Remember pages every month or year, or as needed.
-  Updated: 2026-07-08T20:45:51Z
+- [Undated Monthly Calendar & Important Dates Tracker | Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-rainbow-full-page-printable-bundle): Plan any month with a reusable rainbow-colored calendar plus 3 yearly important-dates pages for birthdays, anniversaries, holidays, and reminders.
+  Updated: 2026-08-14T01:12:30Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthlyCalendarRAINBOWwithYearlyDatestoRemember-PrintablePlanning.jpg?v=1687190195
   Price: $7.95 USD
-- [Modern Blank Monthly Calendar - Pink, Full Page - Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-pink-full-page-printable): Printable Modern Blank Monthly Calendar - Pink, Full Page in a modern and stylish rounded corners full page design. This page is made to fit any month by filling in the month and dates by yourself. It is a full size 8.5" x 11" page. There is a small 2-line notes section along the bottom. Print as many as you need for every month, for every year. It is designed with each day of the week in pink for colored organization. The calendar is centered to the page, so you can have it on your desktop, refrigerator, magnetic whiteboard, and more. You may use a 3-hole punch to include these in a binder (the holes may cut into the month label). SPECIFICATIONS: 8.5" x 11" printable PDF page. Monthly pages. Pink calendar. Clean, modern, and professional design. Print a new printable Modern Blank Monthly Calendar - Pink, Full Page every month or year, or as needed.
-  Updated: 2026-07-08T20:45:51Z
+- [Pink Undated Monthly Calendar | Printable Planner](https://printableplanning.com/products/modern-blank-monthly-calendar-pink-full-page-printable): Plan any month with this reusable pink monthly calendar featuring six full weeks, large writing boxes, Sunday start, and a notes section.
+  Updated: 2026-08-14T05:13:08Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthlyCalendar-Pink-FullPage-PrintablePlanning.jpg?v=1687190232
   Price: $5.95 USD
-- [Modern Blank Monthly Calendar - Teal, Full Page - Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-teal-full-page-printable): Printable Modern Blank Monthly Calendar - Teal, Full Page in a modern and stylish rounded corners full page design. This page is made to fit any month by filling in the month and dates by yourself. It is a full size 8.5" x 11" page. There is a small 2-line notes section along the bottom. Print as many as you need for every month, for every year. It is designed with each day of the week in teal for colored organization. The calendar is centered to the page, so you can have it on your desktop, refrigerator, magnetic whiteboard, and more. You may use a 3-hole punch to include these in a binder (the holes may cut into the month label). SPECIFICATIONS: 8.5" x 11" printable PDF page. Monthly pages. Teal calendar. Clean, modern, and professional design. Print a new printable Modern Blank Monthly Calendar - Teal, Full Page every month or year, or as needed.
-  Updated: 2026-07-08T20:45:51Z
+- [Teal Undated Monthly Calendar | Printable Planner](https://printableplanning.com/products/modern-blank-monthly-calendar-teal-full-page-printable): Plan any month with this reusable teal monthly calendar featuring six full weeks, roomy writing boxes, Sunday start, and a notes section.
+  Updated: 2026-08-14T08:15:12Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthlyCalendar-Teal-FullPage-PrintablePlanning.jpg?v=1687190179
   Price: $5.95 USD
-- [Modern Blank Monthly Calendar - Green, Full Page - Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-green-full-page-printable): Printable Modern Blank Monthly Calendar - Green, Full Page in a modern and stylish rounded corners full page design. This page is made to fit any month by filling in the month and dates by yourself. It is a full size 8.5" x 11" page. There is a small 2-line notes section along the bottom. Print as many as you need for every month, for every year. It is designed with each day of the week in green for colored organization. The calendar is centered to the page, so you can have it on your desktop, refrigerator, magnetic whiteboard, and more. You may use a 3-hole punch to include these in a binder (the holes may cut into the month label). SPECIFICATIONS: 8.5" x 11" printable PDF page. Monthly pages. Green calendar. Clean, modern, and professional design. Print a new printable Modern Blank Monthly Calendar - Green, Full Page every month or year, or as needed.
-  Updated: 2026-07-08T20:45:52Z
+- [Green Undated Monthly Calendar | Printable Planner](https://printableplanning.com/products/modern-blank-monthly-calendar-green-full-page-printable): Plan every month, any year, with this reusable green monthly calendar featuring six full weeks, large writing boxes, Sunday start, and a notes section.
+  Updated: 2026-08-14T08:36:42Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthlyCalendar-Green-FullPage-PrintablePlanning.jpg?v=1687190224
   Price: $5.95 USD
-- [Modern Blank Monthly Calendar - Purple, Full Page - Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-purple-full-page-printable): Printable Modern Blank Monthly Calendar - Purple, Full Page in a modern and stylish rounded corners full page design. This page is made to fit any month by filling in the month and dates by yourself. It is a full size 8.5" x 11" page. There is a small 2-line notes section along the bottom. Print as many as you need for every month, for every year. It is designed with each day of the week in purple for colored organization. The calendar is centered to the page, so you can have it on your desktop, refrigerator, magnetic whiteboard, and more. You may use a 3-hole punch to include these in a binder (the holes may cut into the month label). SPECIFICATIONS: 8.5" x 11" printable PDF page. Monthly pages. Purple calendar. Clean, modern, and professional design. Print a new printable Modern Blank Monthly Calendar - Purple, Full Page every month or year, or as needed.
-  Updated: 2026-07-08T20:45:52Z
+- [Purple Undated Monthly Calendar | Printable Planner](https://printableplanning.com/products/modern-blank-monthly-calendar-purple-full-page-printable): Create a clear month-at-a-glance plan with this reusable purple undated calendar, featuring six full calendar rows, Sunday start, and extra notes space.
+  Updated: 2026-08-14T09:05:07Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthlyCalendar-Purple-FullPage-PrintablePlanning.jpg?v=1687190234
   Price: $5.95 USD
-- [Modern Blank Monthly Calendar - Yellow, Full Page - Printable](https://printableplanning.com/products/modern-blank-monthly-calendar-yellow-full-page-printable): Printable Modern Blank Monthly Calendar - Yellow, Full Page in a modern and stylish rounded corners full page design. This page is made to fit any month by filling in the month and dates by yourself. It is a full size 8.5" x 11" page. There is a small 2-line notes section along the bottom. Print as many as you need for every month, for every year. It is designed with each day of the week in yellow for colored organization. The calendar is centered to the page, so you can have it on your desktop, refrigerator, magnetic whiteboard, and more. You may use a 3-hole punch to include these in a binder (the holes may cut into the month label). SPECIFICATIONS: 8.5" x 11" printable PDF page. Monthly pages. Yellow calendar. Clean, modern, and professional design. Print a new printable Modern Blank Monthly Calendar - Yellow, Full Page every month or year, or as needed.
-  Updated: 2026-07-29T14:55:08Z
+- [Yellow Undated Monthly Calendar | Printable Planner](https://printableplanning.com/products/modern-blank-monthly-calendar-yellow-full-page-printable): Keep monthly plans visible with this yellow undated calendar featuring six full rows, Sunday start, roomy daily boxes, and a space for notes.
+  Updated: 2026-08-14T12:34:16Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
@@ -602,15 +602,15 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/NameLabelsBlueandGrayforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497629
   Price: $4.95 USD
-- [Modern Yearly Dates to Remember Pages - Printable](https://printableplanning.com/products/modern-yearly-dates-to-remember-pages-printable): Printable Modern Yearly Dates to Remember Pages in a modern and stylish rounded corners full page design. Write down your important monthly dates that you need to remember every year for easy reference. Use these pages when filling out a blank monthly calendar or your dated calendars, so that you never miss an important date. Fill in the occasion, such as birthday, anniversary, or holiday, and the date of the month that it occurs every year. Your 3 printable pages are combined into (1) PDF file. SPECIFICATIONS: (3) 8.5" x 11" printable pages in (1) PDF file. Multicolored month headers. 7 colors rotating in a rainbow progression. Write the occasion or birthday on the line, and the date it falls on in the oval to the right. Clean, modern, and professional design. Print new printable Modern Yearly Dates to Remember Pages as needed.
-  Updated: 2026-07-08T20:45:54Z
+- [Yearly Important Dates Tracker | Birthdays & Anniversaries](https://printableplanning.com/products/modern-yearly-dates-to-remember-pages-printable): Keep birthdays, anniversaries, holidays, renewals, appointments, and other recurring dates organized with this 3-page yearly reminder printable.
+  Updated: 2026-08-14T13:11:11Z
   Vendor: Artistically Invited
   Product Type: Calendar Pages
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankYearlyDatestoRemember-RAINBOW-PrintablePlanning.jpg?v=1687190177
-  Price: $3.95 USD
-- [Weekly School Assignments and Tests Sheet - Printable](https://printableplanning.com/products/weekly-school-assignments-and-tests-sheet-printable): Printable weekly school assignments and tests sheet designed to help students and teachers stay organized with their school work. Each sheet displays 5 days of the week on the front and the weekend days on the back with columns for Homework assigned, test and quiz dates, and a column for any projects due that week. Each day of the week has 5 rows for writing assignments. Write the month at the top, and the dates for those dates of the week on the left above each day of the week. The back side has lines for any use printed below the weekend days. Print as many sheets as you need, or a new sheet every time you need one. Use this sheet for every class, every week, and every school year. The margins are designed so that when these pages are printed on the front and back of one page, that there is room for a 3-hole punch for binder inclusion. ASSIGNMENT SHEET INCLUDES: Print pages as front and back. 7 days of the week: Monday - Friday on the front. Saturday and Sunday on the back, if needed. Columns: Homework Assigned, Quiz and Test Dates, and Project Due Dates. Place to write the month, and boxes to write the dates for each day. Additional lines for any use on the backside. SPECIFICATIONS & BENEFITS: (2) 8.5" x 11" printable pages in (1) PDF file. With the margins, the pages are intended to be printed as front and back with room for a 3-hole punch. (Can be printed as 2 sheets instead). Full-page weekly school assignments sheet. Visually appealing and gives a clear view of what and when work is assigned or due. Print a new printable weekly school assignments and tests sheet every time you need more, or for every year.
-  Updated: 2026-07-08T20:45:54Z
+  Price: $5.95 USD
+- [Weekly Student Assignment Tracker | Printable School Planner](https://printableplanning.com/products/weekly-school-assignments-and-tests-sheet-printable): Track weekly homework, quizzes, tests, and project due dates with this 2-page printable student assignment planner for Monday through Sunday.
+  Updated: 2026-08-12T12:47:34Z
   Vendor: Artistically Invited
   Product Type: School and Teachers
   Availability: Available
@@ -1267,60 +1267,102 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/RainbowGinghamDailyOrganizationCategoryTaskSheet-PrintablePlanning.jpg?v=1687023392
   Price: $5.95 USD
-[List Continued](https://printableplanning.com/a/llms-agent/llms.txt?shop=printable-planning.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzQ1ODkyNTE2NzksImxhc3RfdmFsdWUiOiI3NzQ1ODkyNTE2NzkifQ%3D%3D)
+- [Simple Color-Coded Financial Transaction Register - PDF](https://printableplanning.com/products/simple-color-coded-financial-transaction-register-printable): Printable color-coded transaction register PDF for kids, teens, and beginners learning to track dates, credits, debits, totals, and money habits.
+  Updated: 2026-07-09T02:15:12Z
+  Vendor: Artistically Invited
+  Product Type: Financial Sheets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Simple_Color_Financial_Transaction_Register_2_-_Printable_Planning.jpg?v=1558039012
+  Price: $5.95 USD
+- [Name Labels Green and Gray for School Supplies - Printable](https://printableplanning.com/products/name-labels-green-and-gray-for-school-supplies-printable): Printable 8.5" x 11" page of Name Labels Green and Gray for School Supplies designed in a green and gray on white color scheme and personalized with your first and last name. These name labels are perfect for putting your child's name on school supplies for back to school. This page was programmed that when you update the names on one label, the rest then all update to the same. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 name lines. Green and gray colors. Edit one label and it updates every label. Print a new printable Name Labels Green and Gray for School Supplies page every time you need more back-to-school (or other use) name labels.
+  Updated: 2026-07-08T20:46:17Z
+  Vendor: Artistically Invited
+  Product Type: Name Labels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/NameLabelsGreenandGrayforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497594
+  Price: $4.95 USD
+- [Name Labels Orange and Gray for School Supplies - Printable](https://printableplanning.com/products/name-labels-orange-and-gray-for-school-supplies-printable): Printable 8.5" x 11" page of Name Labels Orange and Gray for School Supplies designed in an orange and gray on white color scheme and personalized with your first and last name. These name labels are perfect for putting your child's name on school supplies for back to school. This page was programmed that when you update the names on one label, the rest then all update to the same. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 name lines. Orange and gray colors. Edit one label and it updates every label. Print a new printable Name Labels Orange and Gray for School Supplies page every time you need more back-to-school (or other use) name labels.
+  Updated: 2026-07-08T20:46:18Z
+  Vendor: Artistically Invited
+  Product Type: Name Labels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/NameLabelsOrangeandGrayforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497602
+  Price: $4.95 USD
+- [Name Labels Red and Gray for School Supplies - Printable](https://printableplanning.com/products/name-labels-red-and-gray-for-school-supplies-printable): Printable 8.5" x 11" page of Name Labels Red and Gray for School Supplies designed in a red and gray on white color scheme and personalized with your first and last name. These name labels are perfect for putting your child's name on school supplies for back to school. This page was programmed that when you update the names on one label, the rest then all update to the same. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 name lines. Red and gray colors. Edit one label and it updates every label. Print a new printable Name Labels Red and Gray for School Supplies page every time you need more back-to-school (or other use) name labels.
+  Updated: 2026-07-08T20:46:18Z
+  Vendor: Artistically Invited
+  Product Type: Name Labels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/NameLabelsRedandGrayforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497625
+  Price: $4.95 USD
+- [Name Labels Black and Gray for School Supplies - Printable](https://printableplanning.com/products/name-labels-black-and-gray-for-school-supplies-printable): Printable 8.5" x 11" page of Name Labels Black and Gray for School Supplies designed in a black and gray on white color scheme and personalized with your first and last name. These name labels are perfect for putting your child's name on school supplies for back to school. This page was programmed that when you update the names on one label, the rest then all update to the same. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 name lines. Black and gray colors. Edit one label and it updates every label. Print a new printable Name Labels Black and Gray for School Supplies page every time you need more back-to-school (or other use) name labels.
+  Updated: 2026-08-14T12:47:46Z
+  Vendor: Artistically Invited
+  Product Type: Name Labels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/NameLabelsBlackandGrayforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497582
+  Price: $4.95 USD
+- [Name Labels Yellow and Gray for School Supplies - Printable](https://printableplanning.com/products/name-labels-yellow-and-gray-for-school-supplies-printable): Printable 8.5" x 11" page of Name Labels Yellow and Gray for School Supplies designed in a yellow and gray on white color scheme and personalized with your first and last name. These name labels are perfect for putting your child's name on school supplies for back to school. This page was programmed that when you update the names on one label, the rest then all update to the same. This page matches Avery template #5160 (not included). Adobe Acrobat is recommended for printing these pages, as editing the name works best with this program. Make sure you print on the correct label paper and choose "Actual Size" in your printing settings. ► You cannot change the size of the font for the names, so please use good judgement based on the examples shown to determine if your name will fit. Fonts and colors are only available as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Use Avery template 5160 (or comparable). Label size: 2 5/8" x 1" 30 Labels per page. Edit the names (every time you print). 2 name lines (Yellow and Gray colors). Edit one label and it updates every label. Print a new printable Name Labels Yellow and Gray for School Supplies page every time you need more back-to-school (or other use) name labels.
+  Updated: 2026-07-08T20:46:23Z
+  Vendor: Artistically Invited
+  Product Type: Name Labels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1004/0126/files/NameLabelsYellowandGrayforSchoolSupplies-EXAMPLE-PrintablePlanning.jpg?v=1687497598
+  Price: $4.95 USD
+[List Continued](https://printableplanning.com/a/llms-agent/llms.txt?shop=printable-planning.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMzU4NjExNTc4OTgyLCJsYXN0X3ZhbHVlIjoiMTM1ODYxMTU3ODk4MiJ9)
 
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-08-07T13:23:24Z
+  Updated: 2026-08-14T11:01:30Z
   Total Products: 425
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-07-31T14:07:41Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-08-07T13:23:24Z
+  Updated: 2026-08-14T11:01:30Z
   Total Products: 425
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-07-29T17:01:36Z
+  Updated: 2026-08-13T11:04:02Z
   Total Products: 14
 - [Caregiver, Health, and Housekeeping Forms](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-08-07T11:53:57Z
+  Updated: 2026-08-12T13:53:19Z
   Total Products: 47
 - [Financial Sheets](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
-  Updated: 2026-08-07T13:23:24Z
+  Updated: 2026-08-13T11:04:02Z
   Total Products: 44
 - [Holiday and Occasion Printable Pages](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Holiday and occasion printables like gift tags, RSVP and guest list pages, gift planning lists, and more for organized celebrations.
-  Updated: 2026-07-31T11:01:04Z
+  Updated: 2026-08-12T13:53:19Z
   Total Products: 66
 - [Calendars and Planner Pages](https://printableplanning.com/collections/calendars-and-planner-pages): Printable calendars and planner pages with blank, undated layouts for monthly and weekly planning. Print as needed and organize your schedule your way.
-  Updated: 2026-08-04T11:01:51Z
+  Updated: 2026-08-14T11:01:30Z
   Total Products: 29
 - [Address Labels](https://printableplanning.com/collections/address-labels): Personalized printable return address labels in many designs. Sized for Avery 5160 and compatible sheets. Print as needed for mail and gifts.
-  Updated: 2026-07-08T20:20:47Z
+  Updated: 2026-08-12T13:53:19Z
   Total Products: 54
 - [Meal Planning and Grocery Lists](https://printableplanning.com/collections/meal-planning-and-grocery-lists): Meal planning printables with grocery lists, weekly meal planners, and recipe pages. Simple layouts to plan meals, shop faster, and stay organized.
-  Updated: 2026-07-26T17:04:46Z
+  Updated: 2026-08-12T14:11:13Z
   Total Products: 27
 - [Bookmarks and Bookplates](https://printableplanning.com/collections/bookmarks-and-bookplates): Printable bookmarks and bookplates for kids and adults. Personalize names, label book ownership, and create easy gifts for readers and teachers.
-  Updated: 2026-07-08T20:47:17Z
+  Updated: 2026-08-12T13:53:19Z
   Total Products: 53
 - [School and Teachers](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-08-04T14:16:26Z
+  Updated: 2026-08-14T11:01:30Z
   Total Products: 45
 - [Children's Printable Pages](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
-  Updated: 2026-07-26T11:01:59Z
+  Updated: 2026-08-12T13:53:19Z
   Total Products: 30
 - [Diet and Exercise Sheets](https://printableplanning.com/collections/diet-and-exercise-sheets): Diet and exercise printables for tracking meals, workouts, habits, and progress. Simple logs and goal sheets to support healthy routines.
-  Updated: 2026-07-31T14:07:41Z
+  Updated: 2026-08-12T13:53:19Z
   Total Products: 8
 - [Small Business Sheets and Forms](https://printableplanning.com/collections/small-business-sheets-and-forms): Small business printables for invoices, scheduling, bookkeeping, and tracking. Simple forms and sheets to organize work and clients.
-  Updated: 2026-07-31T19:44:31Z
+  Updated: 2026-08-13T11:04:02Z
   Total Products: 20
 - [To-Do Lists and Task Checklists](https://printableplanning.com/collections/to-do-lists-and-task-checklists): Printable to-do lists and task checklists for daily planning, weekly routines, and project tracking. Simple pages to keep tasks organized.
-  Updated: 2026-07-30T19:23:07Z
+  Updated: 2026-08-12T13:53:19Z
   Total Products: 37
 - [Low-Energy Planning Pages](https://printableplanning.com/collections/low-energy-planning-pages): Explore low-energy planning pages and gentle printable tools for overwhelming days, brain dumps, task sorting, life admin catch-up, home resets, and realistic daily planning.
-  Updated: 2026-07-26T14:21:24Z
+  Updated: 2026-08-12T13:53:19Z
   Total Products: 11
 
 ## Store Pages
