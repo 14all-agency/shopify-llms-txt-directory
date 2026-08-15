@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-21T05:22:02Z
 - Contact Email: ascorenutra@gmail.com
-- Updated At: 2026-08-08T00:00:36.333Z
+- Updated At: 2026-08-15T00:00:39.038Z
 
 ## Products
 
@@ -128,6 +128,9 @@
     Author: Manan Mehta
   - [Best Anti-Inflammatory Supplements & Herbs (Evidence-Based)](https://allovedaai.com/blogs/alloveda-ai/best-anti-inflammatory-supplements-and-herbs-backed-by-real-research): Best Anti-Inflammatory Supplements & Herbs (Evidence-Based)
     Updated: 2026-08-07T12:10:49Z
+    Author: Manan Mehta
+  - [The Gut-Inflammation Connection Explained (2026 Guide)](https://allovedaai.com/blogs/alloveda-ai/gut-health-and-inflammation): The Gut-Inflammation Connection Explained (2026 Guide)
+    Updated: 2026-08-11T12:48:14Z
     Author: Manan Mehta
 
 ## Store Pages
