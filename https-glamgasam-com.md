@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-02-21T03:08:43Z
 - Contact Email: Info@GlamGasam.com
-- Updated At: 2026-08-06T00:00:44.083Z
+- Updated At: 2026-08-15T00:00:47.164Z
 
 ## Products
 
@@ -1697,14 +1697,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/0712/0211/files/LGBT610.jpg?v=1772230018
   Price: $17.14 USD
-- [Glow Stick Heart](https://glamgasam.com/products/glow-stick-heart): Illuminate your pleasure experience with the Glow Stick Heart, a playful addition to any collection that's both functional and fun. This toy, perfect for those who enjoy a touch of whimsy in their intimate moments, combines the luxurious feel of ultra-soft, pliable Satin Finish Silicone with an exciting glow-in-the-dark heart pattern. It's an ideal choice for anyone looking to add a spark of joy and novelty to their personal play. Features * Made of Silicone * Waterproof * Suction Cup Base * Harness Compatible Package Weight 9.10 Ounces Package Dimensions 2.50W by 11.00H by 4.50L inches
-  Updated: 2026-07-13T20:37:11Z
-  Vendor: CAL EXOTICS
-  Product Type: Dildos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/0712/0211/files/SE0309-00-2.jpg?v=1772230019
-  Price: $28.20 USD
-[List Continued](https://glamgasam.com/a/llms-agent/llms.txt?shop=5qfrkq-qu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODk0MzUzNzcyNjI3LCJsYXN0X3ZhbHVlIjoiNzg5NDM1Mzc3MjYyNyJ9)
+[List Continued](https://glamgasam.com/a/llms-agent/llms.txt?shop=5qfrkq-qu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODk0MzUzNzM5ODU5LCJsYXN0X3ZhbHVlIjoiNzg5NDM1MzczOTg1OSJ9)
 
 ## Collections
 
@@ -1712,8 +1705,8 @@
   Updated: 2026-07-01T18:57:08Z
   Total Products: 1
 - [The Glam Gasam Featured Products](https://glamgasam.com/collections/the-glam-gasam-featured-products)
-  Updated: 2026-08-05T11:18:02Z
-  Total Products: 53848
+  Updated: 2026-08-07T20:20:33Z
+  Total Products: 54284
 - [Anal Toys](https://glamgasam.com/collections/anal-toys): Explore a curated selection of premium anal play essentials designed for comfort, confidence, and elevated experiences. From beginner-friendly designs to advanced luxury pieces, each item is crafted with quality and discretion in mind.
   Updated: 2026-07-12T11:18:24Z
   Total Products: 2401
@@ -1736,8 +1729,8 @@
   Updated: 2026-07-01T18:57:08Z
   Total Products: 3
 - [Dildos](https://glamgasam.com/collections/dildos): Classic and contemporary designs crafted from body-safe materials, blending beauty, comfort, and sophistication.
-  Updated: 2026-07-21T11:17:57Z
-  Total Products: 4813
+  Updated: 2026-08-07T20:20:49Z
+  Total Products: 4820
 - [Dildos & Dongs](https://glamgasam.com/collections/dildos-dongs): From sleek modern styles to bold statement pieces, discover premium selections designed for confident exploration.
   Updated: 2026-07-01T18:57:08Z
   Total Products: 1
@@ -1760,8 +1753,8 @@
   Updated: 2026-07-01T18:57:09Z
   Total Products: 126
 - [Gift Sets](https://glamgasam.com/collections/gift-sets): Curated luxury collections that make gifting effortless. Thoughtfully paired selections perfect for celebration or indulgence.
-  Updated: 2026-07-11T11:18:35Z
-  Total Products: 256
+  Updated: 2026-08-07T20:20:50Z
+  Total Products: 257
 - [Glass Toys](https://glamgasam.com/collections/glass-toys): Elegant, body-safe glass designs crafted for beauty, durability, and refined sensation.
   Updated: 2026-07-01T18:57:09Z
   Total Products: 351
@@ -1769,11 +1762,11 @@
   Updated: 2026-07-01T18:57:09Z
   Total Products: 31
 - [Lingerie](https://glamgasam.com/collections/lingerie): Luxe fabrics, flattering silhouettes, and refined details that celebrate confidence and sensual elegance.
-  Updated: 2026-07-16T11:18:19Z
-  Total Products: 11288
+  Updated: 2026-08-07T20:20:50Z
+  Total Products: 11297
 - [Lubricants](https://glamgasam.com/collections/lubricants): Silky, premium formulas designed for comfort, performance, and seamless pleasure.
-  Updated: 2026-07-28T11:18:45Z
-  Total Products: 2022
+  Updated: 2026-08-07T20:20:50Z
+  Total Products: 2028
 - [Lubricants, Creams & Glides](https://glamgasam.com/collections/lubricants-creams-glides): Explore specialized formulas crafted to enhance sensation, support intimacy, and elevate comfort.
   Updated: 2026-07-01T18:57:09Z
   Total Products: 2
@@ -1820,11 +1813,11 @@
   Updated: 2026-07-01T18:57:10Z
   Total Products: 71
 - [Vibrators](https://glamgasam.com/collections/vibrators): Luxury vibration technology crafted for precision, performance, and unforgettable experiences.
-  Updated: 2026-07-28T11:18:45Z
-  Total Products: 5685
+  Updated: 2026-08-07T20:20:50Z
+  Total Products: 5687
 - [lingerie](https://glamgasam.com/collections/lingerie-1): Fun and flirty or sassy and sexy - huge selection of colors and styles of lingerie. The perfect fit - find sizes designed to accentuate any body type.
-  Updated: 2026-07-01T18:57:10Z
-  Total Products: 515
+  Updated: 2026-08-07T21:28:33Z
+  Total Products: 518
 
 ## Blogs
 
@@ -2199,6 +2192,18 @@
   - [The Silky Secret: Why Our Plus Size Lingerie Collection Is Worth the Hype](https://glamgasam.com/blogs/theglamgasamdiary/the-silky-secret-why-our-plus-size-lingerie-collection-is-worth-the-hype)
     Updated: 2026-08-05T19:01:47Z
     Author: Jason Marsh
+  - [Glam Gasam Is Not Just Another Lingerie Brand : Here's What Sets Us Apart](https://glamgasam.com/blogs/theglamgasamdiary/glam-gasam-is-not-just-another-lingerie-brand-heres-what-sets-us-apart)
+    Updated: 2026-08-06T23:01:40Z
+    Author: Jason Marsh
+  - [A Brief History of How  Toys Went Mainstream](https://glamgasam.com/blogs/theglamgasamdiary/a-brief-history-of-how--toys-went-mainstream): A Brief History of How  Toys Went Mainstream
+    Updated: 2026-08-08T18:02:06Z
+    Author: Violet P.
+  - [Tips for Discreetly Storing and Maintaining Your  Toys](https://glamgasam.com/blogs/theglamgasamdiary/tips-for-discreetly-storing-and-maintaining-your--toys): Tips for Discreetly Storing and Maintaining Your  Toys
+    Updated: 2026-08-10T18:05:40Z
+    Author: Violet P.
+  - [The Pros and Cons of Battery Operated Versus Rechargeable  Toys](https://glamgasam.com/blogs/theglamgasamdiary/the-pros-and-cons-of-battery-operated-versus-rechargeable--toys): The Pros and Cons of Battery Operated Versus Rechargeable  Toys
+    Updated: 2026-08-12T18:05:04Z
+    Author: Violet P.
 
 ## Store Pages
 
