@@ -6,42 +6,42 @@
 - Timezone: Australia/Brisbane
 - Created At: 2025-03-14T01:25:46Z
 - Contact Email: connor8387@gmail.com
-- Updated At: 2026-08-08T22:58:30.434Z
+- Updated At: 2026-08-16T00:00:25.579Z
 
 ## Products
 
-- [Mx grips](https://ampracing.shop/products/mx-grips): Silicone Handlebars]: Motorcycle handlebar grips are made of high quality silicone, bike grips feels very comfortable, durable in use and grips is low temperature resistant
-  Updated: 2026-06-17T06:37:51Z
+- [AMP MX Grips](https://ampracing.shop/products/mx-grips): Get a softer, more secure contact point at the bars.These MX-style silicone grips are designed for comfort, durability and a controlled feel on compatible e-bike handlebars. Silicone grip construction Comfort-focused surface Durable and low-temperature resistant MX-style profile Fitment: Confirm handlebar and throttle-side dimensions before ordering.
+  Updated: 2026-08-13T17:43:35Z
   Vendor: Voltage
-  Product Type: 
+  Product Type: E-Bike Cockpit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/6D99DD04-53BE-4DE7-A254-7CE6102CB91A.png?v=1742000060
   Price: $13.00 AUD
-- [E-bike throttle](https://ampracing.shop/products/e-bike-throttle): E-bike throttle for riders that want to not use half throttle Better for wheelies more control of the bike feels better
-  Updated: 2026-06-17T06:37:52Z
+- [AMP E-Bike Thumb Throttle](https://ampracing.shop/products/e-bike-throttle): Switch to thumb control for a more deliberate throttle input.This e-bike thumb throttle is an alternative to a half-twist setup for riders who prefer separate thumb actuation. Thumb-operated control Compact handlebar layout Designed for compatible e-bike systems Fitment: Connector type and electrical compatibility must match your bike. Compare your current plug before ordering or contact AMP Racing for help.
+  Updated: 2026-08-13T19:03:40Z
   Vendor: Voltage
-  Product Type: 
+  Product Type: E-Bike Controls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/IMG-5535.png?v=1777110579
   Price: $30.00 AUD
-- [High quality light for e-bikes](https://ampracing.shop/products/untitled-mar26_19-42): This e-bike light is designed to be stealthy and provide quality this light shines extremely bright for those enjoyable night rides
-  Updated: 2026-06-17T06:37:52Z
+- [AMP High-Output E-Bike Headlight](https://ampracing.shop/products/untitled-mar26_19-42): Add strong nighttime output without a bulky front-end look.This compact e-bike headlight is designed for riders who want a stealthier lighting upgrade for low-light rides. High-output beam Compact, low-profile design Built for e-bike use Fitment: Confirm connector type, voltage compatibility, mounting points and  before ordering.
+  Updated: 2026-08-13T19:33:07Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/CF99A953-3917-4AE7-B301-1CD00E454D35.jpg?v=1742978639
   Price: $50.00 AUD
-- [Grey fx grips](https://ampracing.shop/products/grey-mx-grips): Perfect for riders that want long lasting high quality grips that last
-  Updated: 2026-06-17T06:37:52Z
+- [AMP Grey MX Grips](https://ampracing.shop/products/grey-mx-grips): Refresh your cockpit with a clean grey MX-style grip.Designed for riders who want a comfortable, durable contact point and a sharper bar setup. MX-style grip pattern Comfort-focused rubber feel Durable everyday construction Grey colourway Fitment: Confirm your handlebar and throttle-side grip dimensions before ordering.
+  Updated: 2026-08-13T18:42:43Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Cockpit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/69ABF1FE-E495-4241-980C-134BFE51AAAD.jpg?v=1744066919
   Price: $20.00 AUD
-- [Top of the line cnc surron throttle plug and play](https://ampracing.shop/products/top-of-the-line-cnc-surron-throttle-plug-and-play): The most advanced technology on the market this throttle is extremely high quality works with 3pin connectors please note it doesn’t work for fatboy scrambler v3
-  Updated: 2026-07-11T23:03:37Z
+- [AMP CNC Sur-Ron Throttle – Plug & Play](https://ampracing.shop/products/top-of-the-line-cnc-surron-throttle-plug-and-play): Upgrade your Sur-Ron cockpit with a CNC throttle built for a cleaner feel and plug-and-play fitment.Choose the colour and male or female 3-pin connector option that matches your existing harness. CNC-machined throttle body 3-pin plug connection Male and female connector options Red, Bronze, Navy, Silver and Black Plug-and-play on compatible setups Important: Not compatible with the Fatboy Scrambler V3. Compare the connector direction and pin layout with your current throttle before ordering.Need a fitment check? Send AMP Racing a clear photo of your connector.
+  Updated: 2026-08-13T17:44:39Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Controls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/D5EA1209-12FF-4CC3-A0BA-D6BE824252B7.jpg?v=1777206524
   - [Red / Female](https://ampracing.shop/products/top-of-the-line-cnc-surron-throttle-plug-and-play?variant=42003350093872)
@@ -74,38 +74,38 @@
   - [Black / Male](https://ampracing.shop/products/top-of-the-line-cnc-surron-throttle-plug-and-play?variant=42657030733872)
     Availability: Available
     Price: $80.00 AUD
-- [Key ignition wired up to a Surron throttle](https://ampracing.shop/products/key-ignition-wired-up-to-a-surron-throttle): Upgrade your bike with a key ignition locks and unlocks throttle from use (disclaimer will need to pre order parts)
-  Updated: 2026-06-17T06:37:52Z
+- [AMP Sur-Ron Throttle + Key Ignition Kit](https://ampracing.shop/products/key-ignition-wired-up-to-a-surron-throttle): Combine throttle control and key-operated access in one Sur-Ron upgrade.The key ignition enables or disables throttle use, giving the bike a more deliberate start-up process. Throttle and key-ignition combination Physical key control Designed for compatible Sur-Ron builds Availability: Some components may require pre-order lead time. Check current dispatch timing before purchasing.Fitment: Connector and wiring compatibility must match your bike. Contact AMP Racing with a harness photo before ordering if unsure.
+  Updated: 2026-08-13T18:43:24Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Controls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/9BF7F276-F295-42BA-B540-4BB363196D20.png?v=1777109552
   Price: $90.00 AUD
-- [Key ignition only](https://ampracing.shop/products/key-ignition-only)
-  Updated: 2026-06-17T06:37:52Z
+- [AMP Sur-Ron Key Ignition](https://ampracing.shop/products/key-ignition-only): Add key-controlled throttle access to a compatible Sur-Ron setup.The ignition switch lets you enable or disable throttle use with a physical key. Key-operated control Helps prevent unintended throttle activation Compact Sur-Ron upgrade Fitment: Wiring and connector compatibility must match your bike. Compare your existing harness before ordering or contact AMP Racing for a fitment check.
+  Updated: 2026-08-13T19:49:01Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Controls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/B75277BF-B36C-4DEE-B495-5E1B382FB117.jpg?v=1746099847
   Price: $29.00 AUD
-- [Front plate](https://ampracing.shop/products/front-plate): Hide away those messy cables and get our high quality front plate
-  Updated: 2026-06-17T06:37:52Z
+- [AMP E-Bike Cable-Hiding Front Plate](https://ampracing.shop/products/front-plate): Hide exposed front-end wiring and give your e-bike a cleaner cockpit profile.This cable-hiding front plate covers visual clutter around the front of compatible builds. Cleaner front-end appearance Helps conceal loose wiring Compact protective plate Fitment: Check your mounting points, cable routing and available  before ordering. Contact AMP Racing with a front photo of your bike if you are unsure.
+  Updated: 2026-08-13T19:52:01Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/654EB076-336E-400B-84ED-43CD88E63CF7.png?v=1748597692
   Price: $30.00 AUD
-- [Valve caps](https://ampracing.shop/products/valve-caps): Change up the look to give your bike an aesthetic look
-  Updated: 2026-06-17T06:37:53Z
+- [AMP CNC Valve Caps](https://ampracing.shop/products/valve-caps): Finish the small details with a clean CNC valve-cap upgrade.An easy way to sharpen the look of your wheels and replace plain stock caps. CNC-style finish Compact wheel detail Quick screw-on installation Fitment: Confirm your valve type matches the caps shown before ordering.
+  Updated: 2026-08-13T18:29:50Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/37B30B79-B867-4C7F-BDB7-CCDE50B20FFA.png?v=1777193829
   Price: $20.00 AUD
-- [V1 Lite Baja – Designed for Fatboy-plug and play](https://ampracing.shop/products/plug-and-play-baja-light): Built to Dominate. Ride brighter, ride harder. 💡 Ultra-bright output for max visibility 💧 Waterproof & weatherproof 🛡 Shock-resistant for tough riding ⚡ Plug & play install Perfect for Surron & e-bike builds — whether you’re hitting trails or riding at night. 🚨 Limited stock – don’t miss out 🛒 Upgrade your setup now. Own the night works for fatboy bikes
-  Updated: 2026-08-08T12:52:24Z
+- [AMP V1 Lite Baja Light – Fatboy Plug & Play](https://ampracing.shop/products/plug-and-play-baja-light): Upgrade a compatible Fatboy e-bike with a compact Baja light that plugs into the existing setup.The V1 Lite keeps installation simple while giving you a choice of yellow or white output. Plug-and-play connection on compatible bikes Compact Baja-style design Yellow or White light options Built for e-bike use Fitment: Designed for compatible Fatboy setups. Confirm your connector, voltage and mounting points before ordering.Not sure it fits? Contact AMP Racing with your bike model and a clear connector photo.
+  Updated: 2026-08-14T07:13:10Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/DE40FDEF-9926-4E5E-A0A2-C29BCE2912E3.png?v=1777107897
   - [Yellow](https://ampracing.shop/products/plug-and-play-baja-light?variant=42097898160176)
@@ -114,10 +114,10 @@
   - [White](https://ampracing.shop/products/plug-and-play-baja-light?variant=42155016486960)
     Availability: Available
     Price: $40.00 AUD
-- [Cable management](https://ampracing.shop/products/cable-management): Clean up your cables with our zip cable sleeve perfect to clean up the messy wires on your bike
-  Updated: 2026-06-17T06:37:53Z
+- [AMP E-Bike Cable Management Sleeve](https://ampracing.shop/products/cable-management): Turn loose cockpit wiring into one clean, organised cable run.The zip-style sleeve wraps exposed e-bike cables without needing to disconnect the full loom. Zip-up cable-management design Helps protect and organise exposed wiring Cleaner cockpit appearance Grey, Black and White options Fitment: Check the cable bundle length and diameter against the sleeve shown before ordering.
+  Updated: 2026-08-13T20:25:31Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/31D59EB3-4AC0-4092-BCAC-0B15154E088D.jpg?v=1753515123
   - [Gray](https://ampracing.shop/products/cable-management?variant=42211789013040)
@@ -129,10 +129,10 @@
   - [White](https://ampracing.shop/products/cable-management?variant=42211789078576)
     Availability: Available
     Price: $25.00 AUD
-- [V2 Factory Grade AA v2 Baja Light Kit ( ends soon)](https://ampracing.shop/products/factory-grade-aa-battery-powered-baja-light): 🔥 V2 Factory Grade Baja Light – Battery Powered Upgrade your ride with the AMP Racing V2 Baja Light — built for maximum visibility, easy install, and durability. Perfect for night rides, off-road, or leveling up your setup. ⚡ WHY RIDERS LOVE IT 💡 Ultra-Bright Output – Ride safely with powerful lighting 🔋 Battery Powered – No wiring, clean setup 🔌 Plug & Play – Install in minutes 💪 Built Tough – Water & shock resistant 🏍️ Universal Fit – Works with most e-bikes (Sur-Ron, Talaria, fat tyre)
-  Updated: 2026-08-08T22:30:44Z
+- [AMP V2 Battery-Powered Baja Light Kit](https://ampracing.shop/products/factory-grade-aa-battery-powered-baja-light): Get the Baja-light look and stronger front visibility without hard-wiring into your bike.This battery-powered dual-light kit is designed for a clean, quick installation on compatible e-bike builds. Independent battery-powered setup No hard-wiring required Compact dual-light design White or Yellow light options Availability: Currently available to order; check dispatch timing before purchase.Fitment: Confirm mounting space and battery requirements before ordering. Contact AMP Racing if you need help.
+  Updated: 2026-08-14T07:04:29Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/1BF55B94-CD26-496A-B841-AB9135A23D31.png?v=1786228232
   - [White](https://ampracing.shop/products/factory-grade-aa-battery-powered-baja-light?variant=42500638539824)
@@ -141,46 +141,45 @@
   - [Yellow](https://ampracing.shop/products/factory-grade-aa-battery-powered-baja-light?variant=42500638572592)
     Availability: Available
     Price: $40.00 AUD
-- [CNC Ultra Stem](https://ampracing.shop/products/cnc-ultralight-bicycle-stem): Made from 6061-T6 aluminum for maximum strength without extra weight. The short 35mm length improves handling and responsiveness, giving you better control on trails, jumps, and technical terrain. Specs: 31.8mm handlebar clamp 28.6mm (1-1/8”) steerer 35mm length High-grade 10.9 chromoly bolts Corrosion-resistant finish Easy to install. Strong, direct, and built to last.
-  Updated: 2026-06-17T06:37:53Z
+- [AMP CNC Ultra-Short E-Bike Stem](https://ampracing.shop/products/cnc-ultralight-bicycle-stem): Sharpen your cockpit with a compact 35 mm stem built for direct, responsive control.The 6061-T6 aluminium body keeps the setup strong without unnecessary bulk. 35 mm length 31.8 mm handlebar clamp 28.6 mm (1-1/8-inch) steerer fitment 6061-T6 aluminium construction 10.9-grade chromoly bolts Corrosion-resistant finish Fitment: Verify both your handlebar and steerer diameters before ordering.
+  Updated: 2026-08-13T17:53:00Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Cockpit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/7B28DF24-6553-42D9-9558-39F4D4A09825.jpg?v=1766732283
   Price: $35.00 AUD
-- [Battery Powered Surron Horn
-Risk-Free — 100% Money-Back Guarantee](https://ampracing.shop/products/battery-powered-aa-surron-horn)
-  Updated: 2026-06-17T06:37:54Z
+- [AMP Battery-Powered Sur-Ron Horn](https://ampracing.shop/products/battery-powered-aa-surron-horn): Add a dedicated audible warning to your Sur-Ron setup.This compact battery-powered horn is made for riders who want a simple horn upgrade without relying on the bike's main lighting circuit. Battery-powered design Compact Sur-Ron accessory Independent warning control Clean mounting setup Before ordering: Confirm mounting space, control placement and battery requirements for your bike. Contact AMP Racing if you need a fitment check.
+  Updated: 2026-08-13T19:03:05Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/BA2FCE82-ED4F-4A93-B5B7-2FF1DCFB18A6.png?v=1777077713
   Price: $100.00 AUD
-- [Upgraded Baja light for v2 Aa battery powered](https://ampracing.shop/products/upgraded-baja-light-for-v2-aa-battery-powered): our Baja light features two high-intensity LEDs housed in a heavy-duty aluminium casing with cooling fins for efficient heat dissipation and long service life. The clear lens provides a strong, focused beam, giving excellent visibility for night riding, racing, or trail use. pre-order
-  Updated: 2026-07-14T02:31:20Z
+- [AMP Upgraded V2 AA Battery-Powered Baja Light](https://ampracing.shop/products/upgraded-baja-light-for-v2-aa-battery-powered): Add a tougher Baja-style light without tying into the bike's wiring loom.This upgraded V2 model combines dual LEDs, an aluminium housing and a battery-powered setup for low-light riding. Dual high-intensity LEDs Heavy-duty aluminium housing Cooling-fin design AA battery-powered setup Compact Baja-style profile Fitment: Confirm mounting space and battery requirements before ordering.
+  Updated: 2026-08-14T08:35:06Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/C8FECD18-D4A1-4EE7-B691-17B6085F7B3B.jpg?v=1783996207
   Price: $50.00 AUD
-- [4pin upgraded  Baja light for fatboy e-bikes](https://ampracing.shop/products/4pin-upgraded-baja-light-for-fatboy-e-bikes): Brighter. Tougher. Built for Fatboy. Upgrade your ride with a 4-pin plug & play Baja light — no wiring, no hassle. 💡 High-output brightness – ride confidently at night 💧 IP68 waterproof – built for rain, mud & trails ⚡ Plug & play – installs in minutes 🛡 Built tough – made for real riding 🚨 Only a few left –  fast
-  Updated: 2026-07-14T02:30:31Z
+- [AMP 4-Pin Baja Light – Fatboy E-Bikes](https://ampracing.shop/products/4pin-upgraded-baja-light-for-fatboy-e-bikes): Give a compatible Fatboy e-bike a brighter Baja-style front end without custom wiring.This 4-pin lighting upgrade is built for a clean plug-and-play install on matching Fatboy setups. 4-pin plug connection Plug-and-play installation on compatible bikes High-output dual-light design Compact e-bike-ready setup Fitment: For compatible Fatboy e-bikes using a matching 4-pin light connection. Compare your existing connector with the product photo before ordering.Not sure it fits? Contact AMP Racing with your bike model and a clear connector photo.
+  Updated: 2026-08-15T09:26:16Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/C8FECD18-D4A1-4EE7-B691-17B6085F7B3B.jpg?v=1783996207
   Price: $80.00 AUD
-- [Surron Throttle factory-grade V2](https://ampracing.shop/products/manufactured-surron-throttle-pre-orders): 🔌 3-Pin Male Connector ⚡ Install in minutes — no wiring needed 🎯 Smooth, instant throttle response 💪 Built for high torque & fat tyre setups ⭐️⭐️⭐️⭐️⭐️ Rated 4.8/5 by 120+ riders 🔥 Limited Stock Available Only 7 left —  fast 🚚 Ships in 24–48 hours 🔒 Secure checkout ↩️ 30-day guarantee
-  Updated: 2026-08-03T03:34:13Z
+- [AMP Factory-Grade Sur-Ron Throttle V2 – 3-Pin](https://ampracing.shop/products/manufactured-surron-throttle-pre-orders): Restore a clean factory-style throttle feel without DIY wiring.This V2 throttle is designed as a plug-and-play replacement for compatible 3-pin Sur-Ron setups. 3-pin plug connection Plug-and-play installation on compatible harnesses Smooth throttle response Factory-grade construction Fitment: Confirm the connector shape, pin layout and plug direction match your existing throttle before ordering.Not sure it fits? Send AMP Racing a clear connector photo for a compatibility check.
+  Updated: 2026-08-14T07:18:45Z
   Vendor: amp racing
-  Product Type: 
+  Product Type: E-Bike Controls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/F7D583C5-0599-423D-94CB-8144F4F25BDC.png?v=1777091795
   Price: $45.00 AUD
-- [Cnc pedals Limited stock](https://ampracing.shop/products/cnc-pedals-limited-stock): CNC machined pedals. Limited stock — don't sleep on these.These aren't your average stamped-steel pedals. CNC machined for precision and built from quality aluminum, these pedals give you a solid, grippy platform that holds your feet exactly where they need to be — whether you're navigating tight singletrack or pinning it on the street.Why these pedals stand out ✅ CNC machined aluminum — lightweight, strong, and precision built ✅ Aggressive pin grip — your feet stay planted no matter the terrain ✅ Wide platform — better power transfer and control ✅ Durable finish — resists scratches and corrosion ⚠️ Limited stock — grab them before they're gone FAQWhat size are these pedals?Standard 9/16" thread — compatible with most e-bikes and electric dirt bikes.Are they easy to install?Yes — standard pedal thread, installs in minutes with a pedal wrench.How long does shipping take?We ship from Australia — most orders arrive within 3–7 business days.
-  Updated: 2026-06-17T06:37:54Z
+- [AMP CNC E-Bike Pedals – 9/16″](https://ampracing.shop/products/cnc-pedals-limited-stock): Get a wider, more planted platform under your feet.These CNC-machined aluminium pedals add grip, support and a clean performance look to compatible e-bike builds. CNC-machined aluminium body Aggressive grip pins Wide platform for added support Standard 9/16-inch thread Black, Bronze and Silver options Fitment: Confirm your crank uses a standard 9/16-inch pedal thread before ordering.
+  Updated: 2026-08-14T07:04:13Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Cockpit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/7BF52DF4-6BA4-475B-AB82-35018FA4573A.jpg?v=1768430086
   - [Black](https://ampracing.shop/products/cnc-pedals-limited-stock?variant=42707085459504)
@@ -192,10 +191,10 @@ Risk-Free — 100% Money-Back Guarantee](https://ampracing.shop/products/battery
   - [Silver](https://ampracing.shop/products/cnc-pedals-limited-stock?variant=42707085525040)
     Availability: Available
     Price: $69.99 AUD
-- [Sur-Ron Light Bee CNC Aluminum Foot Pegs - Grip & Stability Boost](https://ampracing.shop/products/cnc-aluminum-foot-pegs-for-sur-ron-light-bee-x-light-bee-s-heavy-duty-motorcycle-footpegs): Unleash Your Ride: Revolutionize Your Sur-Ron Experience Transform your trail rides with the CNC Aluminum Foot Pegs for Sur Ron Light Bee X & Light Bee S. These aren't just upgrades; they're game-changers. With precision engineering, these motorcycle foot pegs offer an expansive, stable platform ensuring your feet remain planted even on the most rugged terrains. For the passionate rider who refuses to compromise on quality, these foot pegs provide unmatched grip and control, turning every ride into an exhilarating adventure. Elevate your off-road experience and conquer trails with renewed confidence. Master Crafted Durability: Built for the Bold Rider Say goodbye to stock foot pegs that falter under pressure. Crafted from CNC machined billet aluminum, these foot pegs boast a lightweight yet robust construction, offering exceptional durability without the excess weight. Designed for intense trail challenges, the aggressive tread pattern ensures maximum traction in every condition, granting you the freedom to tackle any obstacle. Built for the adventurer in you, they're ready to endure all that you throw at them, providing peace of mind with every ride. Seamless Perfection: Effortless Installation, Ultimate Performance Experience the simplicity of a hassle-free upgrade. These foot pegs are tailored specifically for the Sur Ron Light Bee X and S, ensuring a direct bolt-on fitment that requires no modifications. Designed for both form and function, they blend seamlessly with your bike's existing setup. Whether you're an experienced rider or just beginning your off-road journey, these foot pegs deliver the stability, control, and performance you need to ride with fearless precision.
-  Updated: 2026-06-18T17:17:34Z
+- [AMP Sur-Ron Light Bee CNC Foot Pegs](https://ampracing.shop/products/cnc-aluminum-foot-pegs-for-sur-ron-light-bee-x-light-bee-s-heavy-duty-motorcycle-footpegs): Stand more planted with a wider, grippier foot-peg platform.These CNC-machined aluminium pegs are designed as a direct bolt-on upgrade for compatible Sur-Ron Light Bee models. CNC-machined aluminium construction Aggressive tread profile Wide support platform Direct bolt-on fitment on compatible models Red, White and Black options Fitment: Designed for Sur-Ron Light Bee X and Light Bee S. Confirm your model and mounting points before ordering.
+  Updated: 2026-08-14T06:54:29Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Cockpit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/IMG-4619.png?v=1773410679
   - [Red](https://ampracing.shop/products/cnc-aluminum-foot-pegs-for-sur-ron-light-bee-x-light-bee-s-heavy-duty-motorcycle-footpegs?variant=42842379157552)
@@ -207,24 +206,24 @@ Risk-Free — 100% Money-Back Guarantee](https://ampracing.shop/products/battery
   - [Black](https://ampracing.shop/products/cnc-aluminum-foot-pegs-for-sur-ron-light-bee-x-light-bee-s-heavy-duty-motorcycle-footpegs?variant=42842379223088)
     Availability: Available
     Price: $80.00 AUD
-- [Surron-keychain](https://ampracing.shop/products/surron-keychain): Small detail. Big statement.You've upgraded your throttle. You've dialled in your grips. Now finish the build with something that shows you care about every detail — even the one dangling from your keys.This Sur-Ron leather keychain is the kind of thing other riders notice. Crafted from high-grade leather with a solid metal keyring, it's built to last as long as your bike — and look good doing it.What makes it worth carrying 🔑 High-grade leather — supple, durable, and gets better with age 🔑 Heavy-duty metal keyring — no cheap clips that snap after a month 🔑 Reinforced stitching — built for the long haul 🔑 Compact & lightweight — sits flat in your pocket, no bulk 🔑 Sur-Ron rider design — rep the brand every time you reach for your keys The perfect gift for any Sur-Ron rider — including yourself. At $15, it's the easiest upgrade you'll make all year.
-  Updated: 2026-08-01T00:50:11Z
+- [AMP Sur-Ron Keychain](https://ampracing.shop/products/surron-keychain): Carry a small piece of the build wherever you ride.This Sur-Ron rider keychain pairs a compact leather strap with a metal keyring for a clean everyday accessory. Leather strap Metal keyring Reinforced stitching Compact, lightweight design A simple add-on for your own keys or a gift for a Sur-Ron rider.
+  Updated: 2026-08-13T19:53:43Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/843C5814-9E5D-4937-B81D-E6C22D76E4E7.png?v=1777079274
   Price: $15.00 AUD
-- [Rear Passenger Foot Peg](https://ampracing.shop/products/rear-passenger-foot-peg): Take a passenger. Don't take shortcuts. Most rear passenger foot pegs are either overpriced brand-name parts or cheap units that flex and rattle. This one hits the sweet spot — solid construction, secure fitment, and fair pricing. Exactly what you need to ride two-up with confidence. Why riders choose this foot peg ✅ Strong, durable build — engineered for real-world riding loads ✅ Proper passenger foot support — comfortable and secure for your passenger ✅ Improves passenger safety — stable platform reduces shifting and discomfort ✅ Simple bolt-on installation — secure mounting bracket, no fabrication needed ✅ Great value — same reliable design as expensive branded options, without the markup FAQ Is this easy to install?Yes — bolt-on fitment with a secure mounting bracket. Basic tools and 5 minutes is all you need. Will it hold up with a passenger?Absolutely. Built for everyday riding loads — strong and reliable construction throughout. How long does shipping take?We ship from Australia — most orders arrive within 3–7 business days.
-  Updated: 2026-06-17T06:37:55Z
+- [AMP Rear Passenger Foot Pegs](https://ampracing.shop/products/rear-passenger-foot-peg): Give a passenger a dedicated place to position their feet on a compatible build.This rear foot-peg setup adds a compact support platform with bolt-on mounting. Rear passenger foot support Durable metal construction Bolt-on mounting design Compact folding-style profile Important: Fitment and safe load capacity depend on the bike and mounting structure. Confirm compatibility and installation requirements before carrying a passenger.
+  Updated: 2026-08-13T18:29:14Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Cockpit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/7598F212-B7CD-46F2-9853-AFA516AAE42C.jpg?v=1773411989
   Price: $35.00 AUD
-- [ODI grips](https://ampracing.shop/products/odi-grips): The grip that pros trust. Now on your e-bike.ODI has been the benchmark for grip performance for decades — and for good reason. These grips are built to absorb vibration, lock your hands in place, and hold up through thousands of kilometres of riding. Whether you're ripping trails on your Sur-Ron or commuting hard, your hands will thank you.Why upgrade to ODI grips? ✅ Premium rubber compound — soft enough for comfort, tough enough to last ✅ Vibration damping — reduces hand fatigue on long rides ✅ Superior grip pattern — locked-in feel in wet or dry conditions ✅ Easy installation — swap them out in minutes, no special tools needed ✅ Ships fast from Australia Compatible with Sur-Ron Light Bee X & S Segway X160 / X260 Most e-bikes with standard 22.2mm handlebars FAQWill these fit my e-bike?Fits standard 22.2mm handlebars — compatible with most e-bikes and electric dirt bikes.How do I install them?Slide off your old grips, clean the bars, and slide these on. Done in under 10 minutes.How long will they last?ODI grips are built for durability — expect well over a year of solid performance with normal use.
-  Updated: 2026-07-15T00:17:52Z
+- [AMP ODI Grips](https://ampracing.shop/products/odi-grips): Reduce hand fatigue and stay connected to the bars with proven ODI grip performance.The rubber compound and grip pattern are designed to absorb vibration while maintaining a secure feel in wet or dry riding conditions. Premium rubber compound Vibration-damping design Textured grip pattern Fits standard 22.2 mm handlebars Compatible with Sur-Ron Light Bee X/S and Segway X160/X260 Fitment: Confirm both bar and throttle-side dimensions before ordering.
+  Updated: 2026-08-13T19:43:04Z
   Vendor: Cyclone 
-  Product Type: 
+  Product Type: E-Bike Cockpit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/1E905DF5-4A4E-4BC7-8BCE-F984DC7FFF2F.jpg?v=1774398144
   - [Black](https://ampracing.shop/products/odi-grips?variant=42868318208048)
@@ -233,18 +232,17 @@ Risk-Free — 100% Money-Back Guarantee](https://ampracing.shop/products/battery
   - [Grey](https://ampracing.shop/products/odi-grips?variant=42868318240816)
     Availability: Available
     Price: $24.99 AUD
-- [Baja Switch kit compatible for fat-boy](https://ampracing.shop/products/baja-switch-kit-compatible-for-fat-boy): 🔥 WHY RIDERS LOVE IT ⚡ Plug & Play Install No wiring headaches — connect and ride in minutes 💡 Ultra Bright Output Ride safer at night with strong, clear visibility 🌧️ Waterproof & Durable Built to handle rain, mud, and real riding conditions 🎯 Handlebar Switch Control Easy on/off access right at your fingertips 💪 Built for Fat Tyre E-Bikes Made to handle high power setups and rough riding 🔧 PRODUCT DETAILS • Plug & Play System • Waterproof Connectors • High Output LED Lights • Handlebar Mounted Switch • Strong, Durable Build • Universal Fit for Fat Tyre E-Bikes
-  Updated: 2026-07-01T23:05:36Z
+- [AMP Fatboy Baja Light Switch Kit](https://ampracing.shop/products/baja-switch-kit-compatible-for-fat-boy): Add handlebar control to a compatible Fatboy Baja-light setup with a clean plug-and-play kit.Built for riders who want easy light access without custom wiring. Handlebar-mounted on/off control Plug-and-play connection on compatible setups Weather-resistant connectors Designed for Fatboy and fat-tyre e-bike lighting Durable riding-ready construction Fitment: Compare every connector and mounting point with your existing bike before ordering. Contact AMP Racing if you need help confirming compatibility.
+  Updated: 2026-08-13T17:51:48Z
   Vendor: amp racing
-  Product Type: 
+  Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/2852A429-B8D6-4010-9B54-AD7C10A000AA.png?v=1777433146
   Price: $60.00 AUD
-- [Ultra Hydraulic Brake Kit (Light Bee / Talaria / Ultra Bee)
-Engineered for performance. Backed by a 100% Money-Back Guarantee.](https://ampracing.shop/products/untitled-may2_10-42): ⚡ WHY THIS UPGRADE ✔ Instant Stopping Power Stronger, more responsive braking when it matters most ✔ Smooth, Controlled Feel No harsh grabbing — just clean, predictable braking ✔ Built for Real Riding Durable alloy construction designed for daily use ✔ Easy Install Simple fitment with no unnecessary hassle ✔ Clean Performance Look Upgrades both your braking and your build 🔥 🔧 WHAT YOU GET Hydraulic brake lever & master cylinder Reinforced brake line High-performance caliper with pads installed 🏍️ COMPATIBILITY Designed to fit: Ultra Bee Light Bee (Surron LBX) Talaria Sting X3 Talaria Sting MX3 Talaria Sting MX4 79Bike Falcon (79GT) ⚠️ IMPORTANT Sold as a single brake (front OR rear) Brake disc/rotor not included Please confirm fitment before purchase 🚚 SHIPPING Fast worldwide shipping available Tracking provided on all orders 🛡️ ZERO RISK Try it on your bike — if you’re not satisfied, you’re covered by our 100% Money-Back Guarantee.
-  Updated: 2026-06-17T06:37:55Z
+- [AMP Hydraulic Brake Kit – Sur-Ron / Talaria / Ultra Bee](https://ampracing.shop/products/untitled-may2_10-42): Build a firmer, more controlled braking setup on compatible electric dirt bikes.This listing is for one complete hydraulic brake assembly—choose a front or rear option. Hydraulic lever and master cylinder Reinforced brake line Caliper with pads installed Front or rear variants Compatibility: Sur-Ron Light Bee X, Ultra Bee, Talaria Sting X3/MX3/MX4 and 79Bike Falcon 79GT.Important: Sold as a single brake, not a pair. Disc/rotor is not included. Confirm model, front/rear position and mounting compatibility before ordering.
+  Updated: 2026-08-14T09:19:13Z
   Vendor: amp racing
-  Product Type: 
+  Product Type: E-Bike Brakes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/IMG-6080.png?v=1777683831
   - [Rear brake](https://ampracing.shop/products/untitled-may2_10-42?variant=43000715182128)
@@ -253,24 +251,24 @@ Engineered for performance. Backed by a 100% Money-Back Guarantee.](https://ampr
   - [Front brake](https://ampracing.shop/products/untitled-may2_10-42?variant=43000715214896)
     Availability: Available
     Price: $350.00 AUD
-- [AMP foot lock for surron Light bee X](https://ampracing.shop/products/untitled-may2_11-51): 🔥 Talaria / Sur-Ron Foot peg Bracket Upgrade Kit Upgrade your ride with a stronger, cleaner footpeg setup built for better control, durability, and style. Designed for riders who want a solid feel underfoot, this bracket and peg combo improves stability whether you’re riding hard or cruising. ⚡ WHY YOU’LL LOVE IT ✔ Stronger Riding Control Stable foot position for better balance and confidence ✔ CNC Machined Alloy Bracket High-strength metal built to handle real riding ✔ Anti-Slip Footpeg Knurled design gives maximum grip in all conditions ✔ Clean Upgrade Look Gives your bike a more aggressive, premium setup ✔ Bolt-On Fitment Easy install with no complicated mods 🏍️ COMPATIBILITY Sur-Ron Light Bee X 🔧 WHAT’S INCLUDED Foot-peg bracket Footpeg Mounting bolts Spacers 🚚 SHIPPING Fast shipping available Tracking provided on all orders 🛡️ ZERO RISK Try it on your bike — if you’re not satisfied, you’re covered by our 100% Money-Back Guarantee.
-  Updated: 2026-07-19T08:40:32Z
+- [AMP Sur-Ron Light Bee X Foot Peg Bracket](https://ampracing.shop/products/untitled-may2_11-51): Rebuild the foot-peg mounting point with a stronger, cleaner bolt-on setup.This bracket kit is made for the Sur-Ron Light Bee X and combines a CNC-machined alloy bracket with a grip-focused foot peg. CNC-machined alloy bracket Anti-slip foot-peg surface Bolt-on installation Includes bracket, foot peg, mounting bolts and spacers Fitment: Sur-Ron Light Bee X only. Confirm your model and mounting points before ordering.
+  Updated: 2026-08-13T17:42:12Z
   Vendor: amp racing
-  Product Type: 
+  Product Type: E-Bike Cockpit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/CD27545B-001C-49C3-8F1B-CB08DF2F4F14.png?v=1777687057
   Price: $70.00 AUD
-- [CNC Battery Side Protection Bracke For Surron Ultra Bee Accessories Side Battery Frame Protection](https://ampracing.shop/products/cnc-battery-side-protection-bracke-for-surron-ultra-bee-accessories-side-battery-frame-protection): 🔥 Sur-Ron Light Bee Frame Guards (Carbon Style) Upgrade your ride with a sleek carbon-style frame guard set designed to protect and elevate the look of your Sur-Ron. Built for riders who want both style and durability, these guards give your bike a clean, aggressive finish while protecting key frame areas. ⚡ WHY YOU’LL LOVE IT ✔ Premium Carbon Look Gives your bike a high-end, custom appearance ✔ Frame Protection Helps prevent scratches, scuffs, and wear ✔ Lightweight & Strong Durable construction without adding bulk ✔ Perfect Fit Designed specifically for Sur-Ron Light Bee ✔ Easy Install Simple bolt-on setup — no modifications needed 🔧 WHAT YOU GET 2x Frame guards (left + right) 🛡️ ZERO RISK Try it on your bike — if you’re not satisfied, you’re covered by our 100% Money-Back Guarantee.
-  Updated: 2026-07-20T16:30:36Z
+- [AMP Sur-Ron Ultra Bee CNC Battery Side Guards](https://ampracing.shop/products/cnc-battery-side-protection-bracke-for-surron-ultra-bee-accessories-side-battery-frame-protection): Protect the battery-side area of your Sur-Ron Ultra Bee with a clean CNC guard upgrade.Built to add coverage around exposed side sections while giving the bike a sharper, more finished look. CNC-machined construction Battery-side and frame-area protection Low-profile bolt-on design Made for the Sur-Ron Ultra Bee Fitment: Sur-Ron Ultra Bee only. Confirm your model, mounting points and the included pieces shown in the product photos before ordering.
+  Updated: 2026-08-13T17:46:58Z
   Vendor: amp racing
-  Product Type: 
+  Product Type: E-Bike Protection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/B843451A-BA1B-4CDF-86B9-ABB1419825AD.png?v=1777688704
   Price: $45.00 AUD
-- [Sur-Ron Light Bee X Frame Guard Kit – Premium Injection Molded Body Protection](https://ampracing.shop/products/sur-ron-light-bee-x-frame-guard-kit-premium-injection-molded-body-protection): Upgrade your Sur-Ron with a sleek, aggressive look while protecting your frame from scratches, wear, and daily riding damage. Built for riders who actually ride — not just look good. ⚡ WHY THIS PRODUCT ✔ Full Frame Protection Shields your Sur-Ron frame from scratches, impacts, and wear over time ✔ Aggressive “Combat” Look Transforms your bike from stock → clean, stealth, premium build ✔ Perfect OEM Fit Designed specifically for Sur-Ron Light Bee X for a tight, factory-style fit ✔ High-Quality ABS Material Lightweight, durable, and built to handle real riding conditions ✔ Easy Install (No Tools Needed) Just peel, stick, and ride — strong adhesive backing keeps it secure 🔧 WHAT YOU GET Full frame guard kit (multiple pieces) Pre-applied adhesive backing Clean, seamless fitment across frame ⚠️ IMPORTANT Fits Sur-Ron Light Bee X only Clean surface before installing for best adhesion Not designed for other bikes 🚀 RESULT Before → Exposed frame, scratches, basic look After → Protected, aggressive, premium build
-  Updated: 2026-07-19T10:00:27Z
+- [AMP Sur-Ron Light Bee X Frame Guard Kit](https://ampracing.shop/products/sur-ron-light-bee-x-frame-guard-kit-premium-injection-molded-body-protection): Protect the exposed frame of your Sur-Ron Light Bee X while giving the bike a sharper, more finished look.This multi-piece ABS guard kit uses adhesive backing for a close, model-specific fit. Full multi-piece frame guard kit Durable lightweight ABS construction Pre-applied adhesive backing Helps reduce scratches, scuffs and everyday wear Designed for the Sur-Ron Light Bee X Fitment: Light Bee X only. Clean and dry the frame thoroughly before installation; align every piece before applying pressure.
+  Updated: 2026-08-14T07:18:19Z
   Vendor: amp racing
-  Product Type: 
+  Product Type: E-Bike Protection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/IMG-6119.png?v=1777690652
   - [Carbon fibre](https://ampracing.shop/products/sur-ron-light-bee-x-frame-guard-kit-premium-injection-molded-body-protection?variant=42999708123184)
@@ -279,37 +277,62 @@ Engineered for performance. Backed by a 100% Money-Back Guarantee.](https://ampr
   - [Black](https://ampracing.shop/products/sur-ron-light-bee-x-frame-guard-kit-premium-injection-molded-body-protection?variant=42999708155952)
     Availability: Available
     Price: $120.00 AUD
-- [3pin Baja light](https://ampracing.shop/products/3pin-baja-light): 3Pin baja light Dual-Beam Yellow LED Light Upgrade your ride with a compact LED light built for stronger visibility in low-light, dusty, rainy and foggy conditions. The dual-beam lens combines focused distance lighting with a wider spread, helping you see more of the track or road ahead. Why Riders Choose It Bright 20W LED output for improved nighttime visibility Spot and flood beam combination for distance and width Yellow lens helps improve contrast in rain, fog and dust Vibration-resistant connector helps maintain a stable, flicker-free connection Adjustable metal mounting bracket lets you position the beam where needed Weather-resistant construction designed for outdoor riding conditions Specifications Power: 20W Light colour: Yellow Beam pattern: Spot and flood combination Approximate width: 7.7 cm Housing: Black protective housing Mounting: Adjustable bolt-on bracket Connector: Plug-style waterproof connector Approximate weight: 200 g Package Includes 1 × LED light 1 × Adjustable mounting bracket Mounting hardware
-  Updated: 2026-08-02T20:38:08Z
+- [AMP 3-Pin Baja Light](https://ampracing.shop/products/3pin-baja-light): See farther in low light with a compact 20W yellow dual-beam upgrade.The spot-and-flood lens balances forward reach with a wider beam, while the yellow output helps improve contrast in dust, rain and fog. 20W LED output Spot + flood beam pattern Yellow light output Adjustable metal mounting bracket Weather-resistant housing and plug-style connector Approx. 7.7 cm wide and 200 g Included: LED light, adjustable bracket and mounting hardware.Fitment: Confirm your bike's 3-pin connector and available mounting space before ordering. Need help? Contact AMP Racing with a photo of your existing plug.
+  Updated: 2026-08-13T18:58:37Z
   Vendor: amp racing
-  Product Type: 
+  Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/IMG-8399.png?v=1785659651
   Price: $45.00 AUD
+- [FACTORY-GRADE SUR-RON THROTTLE—NO MORE DIY WIRING 🔥](https://ampracing.shop/products/factory-grade-sur-ron-throttle-no-more-diy-wiring-🔥): Ditch the DIY wiring and go factory grade 🔥 The AMP Racing Sur-Ron replacement throttle gives you a clean plug connection without the messy homemade setup. Built for a clean installation and ready for fast dispatch. ✅ Factory-grade construction ✅ Clean plug connection ✅ Fitment help available ✅ In stock now Check your current plug against the photo before ordering. Not sure about fitment? DM us a photo and we’ll help. Shop now at Ampracing.shop
+  Updated: 2026-08-15T15:10:02Z
+  Vendor: amp racing
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/BE85B1EE-035A-4F60-8897-3BAB96E6C935.png?v=1786682119
+  Price: $0.00 AUD
 
 ## Collections
 
-- [Home page](https://ampracing.shop/collections/frontpage)
-  Updated: 2026-06-17T06:37:51Z
-  Total Products: 0
-- [shop now](https://ampracing.shop/collections/shop-now)
-  Updated: 2026-08-03T03:34:14Z
+- [New & Featured](https://ampracing.shop/collections/frontpage): Fresh AMP Racing upgrades and proven rider favourites. Worldwide shipping available. Check plug type and fitment before ordering.
+  Updated: 2026-08-15T11:22:30Z
+  Total Products: 7
+- [Popular Upgrades Under $100](https://ampracing.shop/collections/shop-now): High-impact AMP upgrades at an easy entry price—from grips and controls to lighting and cockpit parts. Worldwide shipping available.
+  Updated: 2026-08-15T11:22:30Z
   Total Products: 19
-- [products](https://ampracing.shop/collections/products)
-  Updated: 2026-08-03T03:34:14Z
-  Total Products: 15
-- [PRODUCTS](https://ampracing.shop/collections/products-1)
-  Updated: 2026-08-03T03:34:14Z
+- [AMP Starter Upgrades](https://ampracing.shop/collections/products): Start with the upgrades riders feel immediately: brighter lighting, sharper controls and cleaner cockpit essentials. Fitment help available before you order.
+  Updated: 2026-08-15T11:22:30Z
+  Total Products: 16
+- [Top 5 Rider Favourites](https://ampracing.shop/collections/products-1): The five AMP upgrades riders choose first—best- Baja lights and Sur-Ron throttle upgrades in one fast-shopping collection.
+  Updated: 2026-08-15T11:22:30Z
   Total Products: 5
-- [high end Emoto/e-bike parts](https://ampracing.shop/collections/high-end-emoto-e-bike-parts)
-  Updated: 2026-08-03T03:34:14Z
+- [Premium E-Moto Parts](https://ampracing.shop/collections/high-end-emoto-e-bike-parts): Purpose-built AMP Racing parts for riders who want a cleaner build, stronger control and dependable performance. Worldwide shipping available.
+  Updated: 2026-08-15T11:22:30Z
   Total Products: 26
-- [products](https://ampracing.shop/collections/products-2)
-  Updated: 2026-08-03T03:34:14Z
-  Total Products: 26
-- [products](https://ampracing.shop/collections/products-3)
-  Updated: 2026-08-03T03:34:14Z
+- [Build Your Dream E-Bike](https://ampracing.shop/collections/products-2): Upgrade lighting, controls, cockpit and protection in one place. Built for Sur-Ron, FatBoy and compatible e-bike builds. Check fitment before ordering.
+  Updated: 2026-08-15T11:22:30Z
   Total Products: 27
+- [Complete AMP Collection](https://ampracing.shop/collections/products-3): Explore the complete AMP Racing upgrade range—lighting, throttles, grips, cockpit parts, protection and accessories. Worldwide shipping available.
+  Updated: 2026-08-15T11:22:30Z
+  Total Products: 28
+- [AMP Best Sellers](https://ampracing.shop/collections/amp-best-sellers): The AMP upgrades riders choose first—proven lighting, throttles and plug-and-play parts for sharper builds.
+  Updated: 2026-08-15T11:22:30Z
+  Total Products: 7
+- [Baja Lights & E-Bike Lighting](https://ampracing.shop/collections/baja-lights-e-bike-lighting): Battery-powered, plug-and-play and high-output lighting upgrades for night rides and cleaner builds.
+  Updated: 2026-08-15T11:22:30Z
+  Total Products: 7
+- [Sur-Ron Throttles & Controls](https://ampracing.shop/collections/sur-ron-throttles-controls): Factory-grade and CNC throttle upgrades, ignition controls and cockpit components for compatible Sur-Ron and e-bike setups.
+  Updated: 2026-08-13T01:53:31Z
+  Total Products: 5
+- [Cockpit, Grips & Foot Controls](https://ampracing.shop/collections/cockpit-grips-foot-controls): Grips, pedals, stems and foot controls that improve contact, control and the finished look of your build.
+  Updated: 2026-08-13T01:53:31Z
+  Total Products: 8
+- [Small Upgrades, Big Difference](https://ampracing.shop/collections/small-upgrades-big-difference): Affordable finishing upgrades—from cable management and valve caps to horns and rider accessories.
+  Updated: 2026-08-13T01:53:31Z
+  Total Products: 5
+- [Protection & Braking](https://ampracing.shop/collections/protection-braking): Frame protection, battery guards and hydraulic braking upgrades for hard-ridden electric bikes.
+  Updated: 2026-08-13T01:53:31Z
+  Total Products: 3
 
 ## Store Pages
 
