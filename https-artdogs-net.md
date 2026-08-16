@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-22T16:28:59Z
 - Contact Email: ArtDog@ArtDogs.co
-- Updated At: 2026-08-07T12:12:13.190Z
+- Updated At: 2026-08-16T00:00:31.018Z
 
 ## Products
 
