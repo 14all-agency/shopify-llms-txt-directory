@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-04-23T15:00:02Z
 - Contact Email: grownature211@gmail.com
-- Updated At: 2026-08-07T00:00:36.973Z
+- Updated At: 2026-08-16T00:00:40.124Z
 
 ## Products
 
 - [Grow Nature Hair Care Oil – Reduce Hair Fall India](https://grownatureofficial.com/products/grow-nature-hair-care-oil): Grow Nature Hair Care Oil helps reduce hair fall, support new growth & strengthen roots. 100% natural formula. Shop now with free shipping across India.
-  Updated: 2026-08-03T08:47:36Z
+  Updated: 2026-08-13T13:38:46Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: ₹555.00 INR
 - [Anti Dandruff Oil – Soothe Scalp & Remove Dandruff](https://grownatureofficial.com/products/grow-nature-anti-dandruff-oil): Say goodbye to dandruff with Grow Nature Anti Dandruff Oil. Relieves itching, soothes scalp irritation & supports a clean, healthy scalp. Order online.
-  Updated: 2026-07-24T10:12:31Z
+  Updated: 2026-08-14T14:18:56Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -71,7 +71,7 @@
     Availability: Available
     Price: ₹865.00 INR
 - [Hair Care Combo – Oil & Shampoo for Hair Fall Control](https://grownatureofficial.com/products/hair-care-oil-herbal-shampoo-combo): Reduce hair fall & support new growth with Grow Nature's Hair Care Oil + Herbal Shampoo Combo. Complete hair care routine. Free shipping across India.
-  Updated: 2026-08-04T15:21:13Z
+  Updated: 2026-08-14T06:04:26Z
   Vendor: Grow nature
   Product Type: 
   Availability: Available
@@ -143,10 +143,10 @@
 ## Collections
 
 - [All Products](https://grownatureofficial.com/collections/products): Shop all 100% natural hair care oils, herbal shampoos, skin care combos & more by Grow Nature. Free shipping across India. Order now.
-  Updated: 2026-08-05T11:18:32Z
+  Updated: 2026-08-15T11:19:27Z
   Total Products: 12
 - [Haircare](https://grownatureofficial.com/collections/haircare): Shop Grow Nature's herbal hair care range – hair oils, shampoos & more. 100% natural, free shipping across India. Reduce hair fall & nourish your scalp.
-  Updated: 2026-08-03T11:15:26Z
+  Updated: 2026-08-15T11:19:27Z
   Total Products: 4
 - [Skin care](https://grownatureofficial.com/collections/skin-care): Discover Grow Nature's natural skin care range – fairness oils, face wash & combos. Reduce tan, control acne & glow naturally. Free shipping in India.
   Updated: 2026-07-24T10:33:20Z
@@ -158,14 +158,14 @@
   Updated: 2026-07-24T10:34:04Z
   Total Products: 2
 - [Hair care Combo](https://grownatureofficial.com/collections/hair-care-combo): Shop Grow Nature's hair care combo packs – hair oil & herbal shampoo bundles for hair fall control. Best value, free shipping across India.
-  Updated: 2026-08-05T11:18:32Z
+  Updated: 2026-08-14T11:22:01Z
   Total Products: 4
 
 ## Blogs
 
 - [Hair Care Tips](https://grownatureofficial.com/blogs/hair-care-tips)
-  - [How to Stop Hair Fall Naturally with Herbal Oils | Grow Nature](https://grownatureofficial.com/blogs/hair-care-tips/how-to-stop-hair-fall-naturally-with-herbal-oils): How to Stop Hair Fall Naturally with Herbal Oils | Grow Nature
-    Updated: 2026-07-18T08:31:49Z
+  - [How to Stop Hair Fall Naturally: 7 Herbal Oils That Actually Work](https://grownatureofficial.com/blogs/hair-care-tips/how-to-stop-hair-fall-naturally-with-herbal-oils)
+    Updated: 2026-08-10T17:53:37Z
     Author: Grow Nature
     Tags: ayurveda, chemical free, grow nature story, herbal, natural ingredients
   - [Why We Use Only Herbal Ingredients at Grow Nature](https://grownatureofficial.com/blogs/hair-care-tips/why-we-use-only-herbal-ingredients-at-grow-nature): Why We Use Only Herbal Ingredients at Grow Nature
@@ -176,20 +176,20 @@
     Updated: 2026-07-20T08:38:03Z
     Author: Grow Nature
     Tags: ayurveda, chemical free, hair care, hair growth, herbal hair oil, natural
-  - [How to Get Rid of Dandruff Permanently — 7 Natural Remedies | Grow Nature](https://grownatureofficial.com/blogs/hair-care-tips/how-to-get-rid-of-dandruff-permanently-natural-remedies-that-actually-work): How to Get Rid of Dandruff Permanently — 7 Natural Remedies | Grow Nature
-    Updated: 2026-07-21T08:45:05Z
+  - [How to Get Rid of Dandruff Permanently: Natural Remedies That Work](https://grownatureofficial.com/blogs/hair-care-tips/how-to-get-rid-of-dandruff-permanently-natural-remedies-that-actually-work): How to Get Rid of Dandruff Permanently: Natural Remedies That Work
+    Updated: 2026-08-10T17:55:43Z
     Author: Grow Nature
     Tags: anti dandruff, ayurveda, dandruff, herbal hair care, natural remedies, neem oil, scalp care
-  - [How Often Should You Oil Your Hair? A Complete Guide | Grow Nature](https://grownatureofficial.com/blogs/hair-care-tips/how-often-should-you-oil-your-hair-a-complete-guide): How Often Should You Oil Your Hair? A Complete Guide | Grow Nature
-    Updated: 2026-07-22T09:43:03Z
+  - [How Often Should You Oil Your Hair? Expert Guide for Indian Hair](https://grownatureofficial.com/blogs/hair-care-tips/how-often-should-you-oil-your-hair-a-complete-guide): How Often Should You Oil Your Hair? Expert Guide for Indian Hair
+    Updated: 2026-08-10T17:57:40Z
     Author: Grow Nature
     Tags: ayurveda, hair care tips, hair growth, hair oiling, herbal hair oil, how often to oil hair, scalp care
-  - [Natural Shampoo for Hair Growth in India: A Complete Guide to Herbal Ingredients](https://grownatureofficial.com/blogs/hair-care-tips/natural-shampoo-for-hair-growth-in-india-a-complete-guide-to-herbal-ingredients): Natural Shampoo for Hair Growth in India: A Complete Guide to Herbal Ingredients
-    Updated: 2026-07-23T14:30:05Z
+  - [Best Natural Shampoo for Hair Growth in India: Herbal Ingredients Guide](https://grownatureofficial.com/blogs/hair-care-tips/natural-shampoo-for-hair-growth-in-india-a-complete-guide-to-herbal-ingredients): Best Natural Shampoo for Hair Growth in India: Herbal Ingredients Guide
+    Updated: 2026-08-10T17:58:56Z
     Author: Grow Nature
     Tags: anti dandruff, dandruff, hair care, hair care tips, hair growth, herbal, herbal hair care
-  - [Best Herbal Hair Oil for Hair Fall & Growth in India | Grow Nature](https://grownatureofficial.com/blogs/hair-care-tips/best-herbal-hair-oil-for-hair-fall-growth-india): Best Herbal Hair Oil for Hair Fall & Growth in India | Grow Nature
-    Updated: 2026-07-20T17:57:49Z
+  - [Best Herbal Hair Oil for Hair Fall & Growth in India (2026 Guide)](https://grownatureofficial.com/blogs/hair-care-tips/best-herbal-hair-oil-for-hair-fall-growth-india): Best Herbal Hair Oil for Hair Fall & Growth in India (2026 Guide)
+    Updated: 2026-08-10T17:55:02Z
     Author: Grow Nature
     Tags: anti dandruff, hair fall, hair growth, hair oil, herbal hair oil, natural hair care
   - [Chemical Free Hair Oil in India — Natural & Paraben Free | Grow Nature](https://grownatureofficial.com/blogs/hair-care-tips/chemical-free-hair-oil-india): Chemical Free Hair Oil in India — Natural & Paraben Free | Grow Nature
@@ -200,8 +200,11 @@
     Updated: 2026-07-24T10:42:02Z
     Author: Grow Nature
     Tags: anti dandruff, ayurveda, chemical free, chemical free hair oil, dandruff, hair care
-  - [Dry Scalp: Causes, Symptoms & Complete  Guide | Grow Nature](https://grownatureofficial.com/blogs/hair-care-tips/dry-scalp-causes-symptoms-complete--guide): Dry Scalp: Causes, Symptoms & Complete  Guide | Grow Nature
-    Updated: 2026-07-24T12:51:05Z
+  - [Top 7 Herbal Oils to Stop Hair Fall Naturally (Indian Ingredients)](https://grownatureofficial.com/blogs/hair-care-tips/top-7-herbal-oils-to-stop-hair-fall-naturally-with-indian-ingredients): Top 7 Herbal Oils to Stop Hair Fall Naturally (Indian Ingredients)
+    Updated: 2026-08-10T17:57:00Z
+    Author: Grow Nature
+  - [Dry Scalp: Causes, Symptoms & Best Natural Treatments in India](https://grownatureofficial.com/blogs/hair-care-tips/dry-scalp-causes-symptoms-complete--guide): Dry Scalp: Causes, Symptoms & Best Natural Treatments in India
+    Updated: 2026-08-10T17:58:21Z
     Author: Grow Nature
     Tags: dry flaky scalp, dry scalp, dry scalp causes, dry scalp , herbal hair care, itchy dry scalp
 
