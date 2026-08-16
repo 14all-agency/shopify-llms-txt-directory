@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-20T15:23:14Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-30T21:17:57.028Z
+- Updated At: 2026-08-16T00:00:36.348Z
 
 ## Products
 
 - [Hot and Healed Tote Bag](https://jvn.merchmadeeasy.com/products/hot-and-healed-tote-bag): Hot & Healed graphic printed on the front 100% cotton canvas 20" self-fabric handles
-  Updated: 2026-06-08T21:45:49Z
+  Updated: 2026-08-10T19:20:21Z
   Vendor: Jonathan Van Ness
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_Hot-and-Healed-Tote.png?v=1777397821
   Price: $20.00 USD
 - [Hot and Healed Tour Tee](https://jvn.merchmadeeasy.com/products/hot-and-healed-tour-tee): Hot and Healed graphic on the front chest Jonathan Van Ness photo on the back 100% cotton tee in natural SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-07-15T13:44:45Z
+  Updated: 2026-08-10T19:20:27Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -41,8 +41,8 @@
   - [3XL](https://jvn.merchmadeeasy.com/products/hot-and-healed-tour-tee?variant=47809675624666)
     Availability: Available
     Price: $35.00 USD
-- [Hot Slut University Hoodie](https://jvn.merchmadeeasy.com/products/hot-slut-university-hoodie)
-  Updated: 2026-07-20T02:44:00Z
+- [Hot Slut University Hoodie](https://jvn.merchmadeeasy.com/products/hot-slut-university-hoodie): Hot Slut University graphic on the front Black hoodie Unisex
+  Updated: 2026-08-11T07:21:02Z
   Vendor: Jonathan Van Ness
   Product Type: Hoodie
   Availability: Available
@@ -68,8 +68,8 @@
   - [4X](https://jvn.merchmadeeasy.com/products/hot-slut-university-hoodie?variant=47835571683546)
     Availability: Available
     Price: $50.00 USD
-- [Fun and Slutty Tee](https://jvn.merchmadeeasy.com/products/fun-and-slutty-tee): Fun and Slutty graphic on the front 100% cotton tee
-  Updated: 2026-07-17T12:39:00Z
+- [Fun and Slutty Tee](https://jvn.merchmadeeasy.com/products/fun-and-slutty-tee): Fun and Slutty graphic on the front 100% cotton tee in Grey Unisex
+  Updated: 2026-08-11T07:21:18Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -95,8 +95,8 @@
   - [4XL](https://jvn.merchmadeeasy.com/products/fun-and-slutty-tee?variant=47835574993114)
     Availability: Available
     Price: $35.00 USD
-- [Ice Cream Tee](https://jvn.merchmadeeasy.com/products/ice-cream-tee): 100% cotton tee
-  Updated: 2026-07-16T15:36:52Z
+- [Ice Cream Tee](https://jvn.merchmadeeasy.com/products/ice-cream-tee): Ice Cream graphic on the front and back 100% cotton tee in Tan Unisex
+  Updated: 2026-08-11T07:23:03Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -122,43 +122,43 @@
   - [4XL](https://jvn.merchmadeeasy.com/products/ice-cream-tee?variant=47836403728602)
     Availability: Available
     Price: $35.00 USD
-- [Hot Slut University Tote](https://jvn.merchmadeeasy.com/products/hot-slut-university-tote): 100% cotton canvas
-  Updated: 2026-06-25T20:42:07Z
+- [Hot Slut University Tote](https://jvn.merchmadeeasy.com/products/hot-slut-university-tote): 100% cotton canvas tote in Black Hot Slut University graphic on the front
+  Updated: 2026-08-11T07:23:35Z
   Vendor: Jonathan Van Ness
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198560-jvn-2a2a3623.png?v=1779120944
   Price: $20.00 USD
-- [Olympian Tote](https://jvn.merchmadeeasy.com/products/olympian-tote): 100% cotton canvas
-  Updated: 2026-06-25T20:32:02Z
+- [Olympian Tote](https://jvn.merchmadeeasy.com/products/olympian-tote): 100% cotton canvas tote in Black Imaginary living room olympian graphic on the front
+  Updated: 2026-08-11T07:25:15Z
   Vendor: Jonathan Van Ness
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198564-jvn-2a2a3626.png?v=1779121007
   Price: $20.00 USD
-- [Olympian Water Bottle](https://jvn.merchmadeeasy.com/products/olympian-water-bottle): Reusable metal water bottle in black
-  Updated: 2026-05-26T16:40:10Z
+- [Olympian Water Bottle](https://jvn.merchmadeeasy.com/products/olympian-water-bottle): Reusable metal water bottle in black Jonathan Van Ness logo printed on the front
+  Updated: 2026-08-11T07:26:55Z
   Vendor: Jonathan Van Ness
   Product Type: Water Bottle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198516-jvn-2a2a3548.png?v=1779121017
-  Price: $15.00 USD
+  Price: $10.00 USD
 - [Valentine Card](https://jvn.merchmadeeasy.com/products/valentine-cards)
-  Updated: 2026-05-26T16:40:10Z
+  Updated: 2026-08-10T19:26:26Z
   Vendor: Jonathan Van Ness
   Product Type: Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198513-jvn-2a2a3542.png?v=1779121049
   Price: $3.00 USD
-- [Stun Queen Mask](https://jvn.merchmadeeasy.com/products/stun-queen-mask): Cotton face mask with Stun Queen on the front
-  Updated: 2026-07-17T14:27:56Z
+- [Stun Queen Mask](https://jvn.merchmadeeasy.com/products/stun-queen-mask): Cotton face mask with Stun Queen on the front Made of 100% cotton in black
+  Updated: 2026-08-11T07:27:17Z
   Vendor: Jonathan Van Ness
   Product Type: Face Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198546-jvn-2a2a3603.png?v=1779121117
-  Price: $5.00 USD
+  Price: $3.00 USD
 - [Stun Queen Tee](https://jvn.merchmadeeasy.com/products/stun-queen-tee): Stun Queen graphic with photo of Jonathan on the front 100% cotton tee
-  Updated: 2026-07-18T11:35:10Z
+  Updated: 2026-08-11T23:01:40Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -172,6 +172,9 @@
   - [L / Blue](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=47836721610970)
     Availability: Available
     Price: $20.00 USD
+  - [L / Purple](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=48320678494426)
+    Availability: Not Available
+    Price: $20.00 USD
   - [XL / Black](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=47836718596314)
     Availability: Available
     Price: $20.00 USD
@@ -181,8 +184,11 @@
   - [XL / Blue](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=47836721774810)
     Availability: Available
     Price: $20.00 USD
-- [Stun Queen Crop Hoodie](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie): Stun Queen graphic with photo of Jonathan on the front Unisex
-  Updated: 2026-07-16T14:47:41Z
+  - [XL / Purple](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=48320678527194)
+    Availability: Available
+    Price: $20.00 USD
+- [Stun Queen Crop Hoodie](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie): Stun Queen graphic with photo of Jonathan on the front Cropped hoodie Unisex
+  Updated: 2026-08-11T07:28:26Z
   Vendor: Jonathan Van Ness
   Product Type: Hoodie
   Availability: Available
@@ -199,8 +205,8 @@
   - [2X / Beige](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie?variant=47836723413210)
     Availability: Not Available
     Price: $50.00 USD
-- [Stun Queen Crop Tee](https://jvn.merchmadeeasy.com/products/stun-queen-crop-tee): Stun Queen graphic on the front with photo of Jonathan 100% cotton tee
-  Updated: 2026-07-17T19:40:27Z
+- [Stun Queen Crop Tee](https://jvn.merchmadeeasy.com/products/stun-queen-crop-tee): Stun Queen graphic on the front with photo of Jonathan 100% cotton tee, cropped Unisex
+  Updated: 2026-08-11T07:30:46Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
@@ -211,8 +217,8 @@
   - [XL / Gray](https://jvn.merchmadeeasy.com/products/stun-queen-crop-tee?variant=47893903868122)
     Availability: Available
     Price: $20.00 USD
-- [Stun Queen Crewneck](https://jvn.merchmadeeasy.com/products/stun-queen-crewneck): Stun Queen graphic with photo of Jonathan on the front Unisex
-  Updated: 2026-07-15T06:27:10Z
+- [Stun Queen Crewneck](https://jvn.merchmadeeasy.com/products/stun-queen-crewneck): Stun Queen graphic with photo of Jonathan on the front Unisex sweatshirt available in medium length or cropped
+  Updated: 2026-08-11T07:24:27Z
   Vendor: Jonathan Van Ness
   Product Type: Sweatshirt
   Availability: Available
@@ -236,11 +242,11 @@
   Updated: 2026-06-09T11:25:09Z
   Total Products: 6
 - [Apparel](https://jvn.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-07-29T20:21:31Z
-  Total Products: 9
+  Updated: 2026-08-10T19:23:59Z
+  Total Products: 12
 - [Accessories](https://jvn.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-06-04T08:54:26Z
-  Total Products: 6
+  Updated: 2026-08-10T19:27:05Z
+  Total Products: 10
 - [Hats](https://jvn.merchmadeeasy.com/collections/hats)
   Updated: 2026-06-03T15:43:39Z
   Total Products: 0
@@ -248,8 +254,11 @@
   Updated: 2026-06-03T15:43:39Z
   Total Products: 0
 - [All](https://jvn.merchmadeeasy.com/collections/all)
-  Updated: 2026-07-20T11:25:45Z
-  Total Products: 14
+  Updated: 2026-08-10T19:27:05Z
+  Total Products: 20
+- [Tour](https://jvn.merchmadeeasy.com/collections/tour)
+  Updated: 2026-08-06T19:52:37Z
+  Total Products: 7
 
 ## Store Pages
 
