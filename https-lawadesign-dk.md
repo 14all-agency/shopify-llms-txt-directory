@@ -6,7 +6,7 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2014-08-30T11:01:31Z
 - Contact Email: mail@lawadesign.dk
-- Updated At: 2026-08-08T00:00:41.941Z
+- Updated At: 2026-08-17T00:00:44.171Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/ARC_WHITE_Lightgreybg_02_lowres.jpg?v=1714044658
   Price: kr 1,999.00 DKK
 - [Delta Clock Oak](https://lawadesign.dk/products/delta-oak): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-08-05T08:30:50Z
+  Updated: 2026-08-13T08:30:21Z
   Vendor: LAWA DESIGN
   Product Type: Wall Clocks
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/DELTA_WHITE_LIGHTGREYBG_lowres_33edffc0-239c-4480-8a3e-a4332cc1dd3c.jpg?v=1713978661
   Price: kr 899.00 DKK
 - [Arc Pendant - Plywood - LAWA DESIGN](https://lawadesign.dk/products/arc-plywood): Arc Pendant by LAWA DESIGN
-  Updated: 2026-08-01T11:32:41Z
+  Updated: 2026-08-14T20:16:12Z
   Vendor: LAWA DESIGN
   Product Type: Ceiling Light Fixtures
   Availability: Available
@@ -53,7 +53,7 @@
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/ARC_PLYWOOD_LIGHTGREYBG_whitecord_lowres.jpg?v=1713971943
     Price: kr 2,599.00 DKK
 - [Arc Pendant Black Plywood](https://lawadesign.dk/products/arc-black): Arc Pendant by LAWA DESIGN
-  Updated: 2026-07-11T00:02:47Z
+  Updated: 2026-08-13T21:26:02Z
   Vendor: LAWA DESIGN
   Product Type: Ceiling Light Fixtures
   Availability: Available
@@ -61,7 +61,7 @@
   Price: kr 2,599.00 DKK
 - [Twist Shelf](https://lawadesign.dk/products/twist-shelf): 2-in-1 wooden shelf and magnetic board.
 Two functions united by a simple twist, turning them into a sculptural object.
-  Updated: 2026-08-06T21:41:38Z
+  Updated: 2026-08-13T11:30:47Z
   Vendor: LAWA DESIGN
   Product Type: Shelves
   Availability: Available
@@ -153,21 +153,21 @@ Two functions united by a simple twist, turning them into a sculptural object.
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/TS_SM_frontal_kitchen_square_lightgreybg_lowres_15bee999-07a4-464d-8862-a98929282e02.jpg?v=1713981571
   Price: kr 2,049.00 DKK
 - [Twist Shelf Black](https://lawadesign.dk/products/twist-shelf-black-1): Description 2-in-1 shelf and magnetic board in black oiled oak.Two functions united by a simple twist. Ideal for kitchens with the magnetic board serving as a knife strip and the shelf as storage for spices. Also applicable in other settings, like in entrance halls, as a magnetic key holder and storage space for accessories. How will you use yours? The shelf comes in 3 colours: Natural oak, smoked oak, and black oiled oak. Materials and size Size 70x6x6 cm Material Black Oiled Oak Weight 0.6 kg The wood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.
-  Updated: 2026-07-11T00:02:55Z
+  Updated: 2026-08-08T10:01:16Z
   Vendor: LAWA DESIGN
   Product Type: Shelves
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/TS_SM_frontal_kitchen_square_lightgreybg_lowres.jpg?v=1713981133
   Price: kr 2,049.00 DKK
 - [Spira Bowl](https://lawadesign.dk/products/spira-bowl): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-07-27T21:45:26Z
+  Updated: 2026-08-11T09:54:03Z
   Vendor: LAWA DESIGN
   Product Type: Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/02_SQUARE_light_lowres.jpg?v=1713974027
   Price: kr 499.00 DKK
 - [Squiggle Organizer](https://lawadesign.dk/products/squiggle-organizer): Description Inspired by the curvy lines of a doodle, the Squiggle Organizer twists and turns from top to bottom. Bent from a single piece of premium grade plywood, its four compartments allow you to store and separate items of different sizes. Squiggle not only serves a practical purpose, but also aspires to spark joy and encourage creativity with its playful geometry. The top is made of birch plywood while the base is made of solid beech wood. Both are FSC  and locally harvested in Europe. Materials and size Size 16 cm (width) x 15 cm (depth) x 12 cm (height) Material Top: Birch plywood (untreated)Base: Solid beech wood (untreated) Weight 0.2 kg The wood and plywood used for this product is locally harvested in Europe. Our suppliers only use FSC®  wood which is sourced from forests that are responsibly managed in the most environmentally sustainable way possible.
-  Updated: 2026-07-31T02:25:26Z
+  Updated: 2026-08-11T09:53:51Z
   Vendor: LAWA DESIGN
   Product Type: Desk Organizers
   Availability: Available
@@ -195,7 +195,7 @@ Two functions united by a simple twist, turning them into a sculptural object.
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/UTS_MOVEMENT_01_FRONT_819f9207-6360-4a27-9121-b4ae5d4868bf.jpg?v=1742990971
   Price: kr 99.00 DKK
 - [Hands for Delta Clock - Black](https://lawadesign.dk/products/hands-for-delta-clock): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-07-11T00:02:59Z
+  Updated: 2026-08-09T21:46:42Z
   Vendor: LAWA DESIGN
   Product Type: Spare parts
   Availability: Available
@@ -244,7 +244,7 @@ Two functions united by a simple twist, turning them into a sculptural object.
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/ARCPENDANTCABLE_WHITE_01.jpg?v=1743099323
   Price: kr 129.00 DKK
 - [Gradient Watch Black](https://lawadesign.dk/products/gradient-watch-black): Gradient Watch is a minimalist analog timepiece that translates time into visual patterns - a wearable piece of art that doesn’t just tell time, but expresses it.
-  Updated: 2026-08-07T09:21:37Z
+  Updated: 2026-08-16T20:55:26Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
@@ -258,7 +258,7 @@ Two functions united by a simple twist, turning them into a sculptural object.
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_BLACK_1010_MESH_SQUARE_01_lowres.jpg?v=1751035658
     Price: kr 1,499.00 DKK
 - [Gradient Watch Navy Blue](https://lawadesign.dk/products/gradient-watch-navy-blue): Gradient Watch is a minimalist analog timepiece that translates time into visual patterns - a wearable piece of art that doesn’t just tell time, but expresses it.
-  Updated: 2026-08-06T21:57:55Z
+  Updated: 2026-08-14T14:22:28Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
@@ -272,28 +272,28 @@ Two functions united by a simple twist, turning them into a sculptural object.
     Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_NAVY_LEATHER_CROP_01_lowres.jpg?v=1751110885
     Price: kr 1,499.00 DKK
 - [Gradient Watch Silver](https://lawadesign.dk/products/gradient-watch-silver): Gradient Watch is a minimalist analog timepiece that translates time into visual patterns - a wearable piece of art that doesn’t just tell time, but expresses it.
-  Updated: 2026-07-24T11:30:18Z
+  Updated: 2026-08-11T11:48:57Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_SILVER_1010_SQUARE_01_lowres.jpg?v=1747167362
   Price: kr 1,499.00 DKK
 - [Gradient Watch Gold](https://lawadesign.dk/products/gradient-watch-gold): Gradient Watch is a minimalist analog timepiece that translates time into visual patterns - a wearable piece of art that doesn’t just tell time, but expresses it.
-  Updated: 2026-07-31T20:16:05Z
+  Updated: 2026-08-15T21:32:27Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_GOLD_1010_SQUARE_01_lowres.jpg?v=1747168050
   Price: kr 1,499.00 DKK
 - [Gradient Watch Rose Gold](https://lawadesign.dk/products/gradient-watch-rose-gold): Gradient Watch is a minimalist analog timepiece that translates time into visual patterns - a wearable piece of art that doesn’t just tell time, but expresses it.
-  Updated: 2026-08-07T08:29:24Z
+  Updated: 2026-08-08T15:43:11Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/FRONTAL_01_ROSE_GOLD_1010_SQUARE_01_lowres.jpg?v=1747168265
   Price: kr 1,499.00 DKK
 - [Leather Strap Black](https://lawadesign.dk/products/leather-strap-black): Delta is a minimalistic wall clock that interacts with light. The folds in the surface indicate the hours of the day while creating various tones of shadow.
-  Updated: 2026-08-03T16:58:05Z
+  Updated: 2026-08-09T21:46:46Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
@@ -335,7 +335,7 @@ Two functions united by a simple twist, turning them into a sculptural object.
   Image: https://cdn.shopify.com/s/files/1/0638/2041/files/STRAP_01_BEIGE_lowres.jpg?v=1749215689
   Price: kr 299.00 DKK
 - [Mesh Band Black](https://lawadesign.dk/products/mesh-band-black): Black mesh band for Gradient Watch.
-  Updated: 2026-08-03T16:58:06Z
+  Updated: 2026-08-14T08:49:15Z
   Vendor: LAWA DESIGN
   Product Type: Watches
   Availability: Available
@@ -380,22 +380,22 @@ Two functions united by a simple twist, turning them into a sculptural object.
 ## Collections
 
 - [Clocks](https://lawadesign.dk/collections/wall-clocks)
-  Updated: 2026-07-31T11:00:17Z
+  Updated: 2026-08-10T11:00:09Z
   Total Products: 5
 - [Lamps](https://lawadesign.dk/collections/lamps)
-  Updated: 2026-08-01T11:00:12Z
+  Updated: 2026-08-15T11:00:17Z
   Total Products: 3
 - [Shelves](https://lawadesign.dk/collections/shelves)
-  Updated: 2026-08-07T11:00:16Z
+  Updated: 2026-08-08T11:00:16Z
   Total Products: 3
 - [Accessories](https://lawadesign.dk/collections/accessories)
   Updated: 2026-07-10T13:10:10Z
   Total Products: 4
 - [All products](https://lawadesign.dk/collections/all)
-  Updated: 2026-08-07T11:00:16Z
+  Updated: 2026-08-16T11:00:09Z
   Total Products: 42
 - [Desk Organizers](https://lawadesign.dk/collections/desk-organizers)
-  Updated: 2026-07-28T11:00:21Z
+  Updated: 2026-08-11T11:00:20Z
   Total Products: 10
 - [Outlet](https://lawadesign.dk/collections/outlet): Welcome to our Sample Store! On this page you can find discounted prototype items that are not in our regular collection. Sample items work completely fine and come in standard packaging. All Delta Clock models come with either black or white hands. Please contact us if you have any questions!
   Updated: 2026-06-03T20:40:50Z
@@ -404,25 +404,25 @@ Two functions united by a simple twist, turning them into a sculptural object.
   Updated: 2026-06-03T20:41:23Z
   Total Products: 3
 - [Smoked Oak Collection](https://lawadesign.dk/collections/smoked-oak-collection): Traditionally, dark woods were imported from the tropics, making them rather unsustainable to source. But with smoked oak we can give locally harvested European wood the same rich and dark colour as its exotic counterpart. Fuming (smoking) oak is a natural way of darkening it: once exposed to ammonia, the tannins in the oak change its colour to greyish-brown, giving it a deep and intense glow.
-  Updated: 2026-08-07T11:00:16Z
+  Updated: 2026-08-16T11:00:09Z
   Total Products: 49
 - [Watches](https://lawadesign.dk/collections/watches)
-  Updated: 2026-08-07T11:00:16Z
+  Updated: 2026-08-16T11:00:09Z
   Total Products: 7
 - [Stack Organizer](https://lawadesign.dk/collections/stack-organizer)
   Updated: 2026-07-11T00:02:54Z
   Total Products: 6
 - [Disable  codes](https://lawadesign.dk/collections/disable--codes)
-  Updated: 2026-08-07T11:00:16Z
+  Updated: 2026-08-16T11:00:09Z
   Total Products: 49
 - [Spare parts](https://lawadesign.dk/collections/spare-parts)
-  Updated: 2026-07-11T00:03:11Z
+  Updated: 2026-08-10T11:00:09Z
   Total Products: 9
 - [All products](https://lawadesign.dk/collections/all-products): For filtering on collections page.
-  Updated: 2026-08-07T11:00:16Z
+  Updated: 2026-08-16T11:00:09Z
   Total Products: 43
 - [Straps](https://lawadesign.dk/collections/straps)
-  Updated: 2026-08-04T11:00:18Z
+  Updated: 2026-08-14T11:00:18Z
   Total Products: 10
 
 ## Blogs
