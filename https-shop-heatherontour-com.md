@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-09-26T19:01:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-10T00:00:32.923Z
+- Updated At: 2026-08-17T00:00:36.405Z
 
 ## Products
 
@@ -38,13 +38,6 @@
   - [XXL (W 12/13)](https://shop.heatherontour.com/products/absolutely-not-slides?variant=40772682416284)
     Availability: Available
     Price: $15.00 USD
-- [Tiramisu Bitch Trucker Hat | Official Heather McMahan Merch](https://shop.heatherontour.com/products/tiramisu-bitch-trucker): Tiramisu Bitch Trucker Hat in pink with adjustable sizing and snapback closure. 65% Cotton, 35% Polyester
-  Updated: 2026-07-18T06:26:25Z
-  Vendor: Heather McMahan
-  Product Type: Accessory
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HM-TIRAMISU-BITCH-PINK-TRUCKER.png?v=1734381852
-  Price: $30.00 USD
 - [Arrivederci Crewneck](https://shop.heatherontour.com/products/arrivederci-crewneck): Arrivederci Crewneck in blue with front print. 100% Cotton
   Updated: 2026-07-17T08:52:52Z
   Vendor: Heather McMahan
@@ -70,7 +63,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Absolutely Not Trucker Hat](https://shop.heatherontour.com/products/absolutely-not-trucker-hat): Absolutely Not Trucker Hat in camo with pink print. Adjustable sizing with snapback closure
-  Updated: 2026-07-18T15:15:05Z
+  Updated: 2026-08-16T17:31:56Z
   Vendor: Heather McMahan
   Product Type: Accessory
   Availability: Available
@@ -124,30 +117,6 @@
   - [3XL](https://shop.heatherontour.com/products/bamboozled-tour-tee?variant=49123404972261)
     Availability: Available
     Price: $30.00 USD
-- [Bamboozled Face Tee | Official Heather McMahan Merch Store](https://shop.heatherontour.com/products/bamboozled-face-tee): Bamboozled Face Tee in faded cream with front and back print. 100% Cotton / American Apparel tee
-  Updated: 2026-08-08T02:55:36Z
-  Vendor: Heather McMahan
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HM-TAN-TOUR-TEE-FRONT.png?v=1754577923
-  - [S](https://shop.heatherontour.com/products/bamboozled-face-tee?variant=46494779965669)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://shop.heatherontour.com/products/bamboozled-face-tee?variant=46494779998437)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://shop.heatherontour.com/products/bamboozled-face-tee?variant=46494780031205)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://shop.heatherontour.com/products/bamboozled-face-tee?variant=46494780063973)
-    Availability: Available
-    Price: $35.00 USD
-  - [2XL](https://shop.heatherontour.com/products/bamboozled-face-tee?variant=46494780096741)
-    Availability: Available
-    Price: $35.00 USD
-  - [3XL](https://shop.heatherontour.com/products/bamboozled-face-tee?variant=48424971600101)
-    Availability: Available
-    Price: $35.00 USD
 - [Heavenly Hogs Tee](https://shop.heatherontour.com/products/heavenly-hogs-tee): Heavenly Hogs Tee in ice blue with front and back print. 100% Cotton / Comfort Colors tee
   Updated: 2026-07-15T09:32:33Z
   Vendor: Heather McMahan
@@ -172,6 +141,13 @@
   - [3XL](https://shop.heatherontour.com/products/heavenly-hogs-tee?variant=46494800216293)
     Availability: Not Available
     Price: $45.00 USD
+- [Ciao Bella Koozie](https://shop.heatherontour.com/products/ciao-bella-koozie): Ciao Bella Koozie in red with double sided print. Holds 12 oz. can
+  Updated: 2026-08-15T06:04:10Z
+  Vendor: Heather McMahan
+  Product Type: Koozie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HM-CIAO-BELLA-KOOZIE.png?v=1738691272
+  Price: $5.00 USD
 - [Absolutely Not Tote](https://shop.heatherontour.com/products/absolutely-not-tote): Absolutely Not Tote in canvas with red print. Size: 14" W x 10" H x 5" D
   Updated: 2026-07-16T02:29:06Z
   Vendor: Heather McMahan
@@ -354,6 +330,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/VacationCigHat.png?v=1751471167
   Price: $40.00 USD
+- [Chateau McMahan Keychain](https://shop.heatherontour.com/products/chateau-mcmahan-keychain): Welcome to Chateau McMahan Vintage motel style keychain 1.5" tall
+  Updated: 2026-08-14T23:01:52Z
+  Vendor: Heather McMahan
+  Product Type: Keychain
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HeatherMcMahanKeychain_447a40a9-45cc-4d2d-bd49-f9e7fbd19dc4.png?v=1754505322
+  Price: $5.00 USD
 - [Absolutely Not Crewneck](https://shop.heatherontour.com/products/absolutely-not-crewneck): Unisex crewneck in light grey with martini graphic Absolutely Not graphic with martini glasses on the front 50/50 cotton/polyester SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30
   Updated: 2026-07-17T05:14:06Z
   Vendor: Heather McMahan
@@ -385,13 +368,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/Hotline-Hat.png?v=1762294777
   Price: $40.00 USD
-- [Gift Tag Sticker Sheets](https://shop.heatherontour.com/products/gift-tag-sticker-sheets): Set of 2 sticker pages 8x10" sheets
-  Updated: 2026-07-28T21:08:35Z
-  Vendor: Heather McMahan
-  Product Type: Stickers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/StickerSheet.png?v=1762535041
-  Price: $15.00 USD
 - [McMahan Can Hat](https://shop.heatherontour.com/products/mcmahan-can-hat): McMahan Can and She Will
 
 Baseball Hat in black
@@ -433,52 +409,52 @@ Adjustable closure
 ## Collections
 
 - [Shop All](https://shop.heatherontour.com/collections/shop-all)
-  Updated: 2026-08-08T11:08:12Z
-  Total Products: 71
+  Updated: 2026-08-14T16:53:34Z
+  Total Products: 72
 - [Apparel](https://shop.heatherontour.com/collections/apparel)
-  Updated: 2026-08-08T11:08:12Z
-  Total Products: 28
+  Updated: 2026-08-14T16:53:34Z
+  Total Products: 29
 - [Accessories](https://shop.heatherontour.com/collections/accessories)
-  Updated: 2026-07-30T19:54:35Z
-  Total Products: 30
+  Updated: 2026-08-14T16:53:34Z
+  Total Products: 31
 - [Classics Collection](https://shop.heatherontour.com/collections/classics)
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-11T21:16:49Z
   Total Products: 21
 - [](https://shop.heatherontour.com/collections/shop-)
-  Updated: 2026-08-08T11:08:12Z
-  Total Products: 25
+  Updated: 2026-08-14T16:53:34Z
+  Total Products: 26
 - [Bamboozled Tour Collection](https://shop.heatherontour.com/collections/bamboozled-tour-collection)
-  Updated: 2026-08-08T11:08:12Z
+  Updated: 2026-08-13T19:28:07Z
   Total Products: 16
 - [EasyGift All Products](https://shop.heatherontour.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-08T11:08:12Z
-  Total Products: 71
+  Updated: 2026-08-14T16:53:34Z
+  Total Products: 72
 - [Mother's Day ](https://shop.heatherontour.com/collections/mothers-day-)
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-13T19:27:57Z
   Total Products: 16
 - [Under $10](https://shop.heatherontour.com/collections/under-10)
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-11T21:16:49Z
   Total Products: 12
 - [Absolutely Knot Cruise](https://shop.heatherontour.com/collections/absolutely-knot-cruise)
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-11T21:16:13Z
   Total Products: 9
 - [Summer Abroad Collection](https://shop.heatherontour.com/collections/summer-abroad)
-  Updated: 2026-07-12T11:08:24Z
+  Updated: 2026-08-11T21:16:49Z
   Total Products: 13
 - [New Arrivals](https://shop.heatherontour.com/collections/new-arrivals)
-  Updated: 2026-08-08T11:08:12Z
+  Updated: 2026-08-13T19:30:44Z
   Total Products: 11
 - [Bracelets](https://shop.heatherontour.com/collections/bracelets)
-  Updated: 2026-07-08T22:24:06Z
+  Updated: 2026-08-11T21:16:13Z
   Total Products: 4
 - [New Merch Sleigh](https://shop.heatherontour.com/collections/holiday)
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-13T19:30:44Z
   Total Products: 3
 - [Black Friday ](https://shop.heatherontour.com/collections/all-but-5-bin)
-  Updated: 2026-08-08T11:08:12Z
-  Total Products: 54
+  Updated: 2026-08-14T16:53:34Z
+  Total Products: 55
 - [$5 bin](https://shop.heatherontour.com/collections/5-bin)
-  Updated: 2026-07-30T11:09:09Z
+  Updated: 2026-08-13T19:27:57Z
   Total Products: 14
 
 ## Store Pages
