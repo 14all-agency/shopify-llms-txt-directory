@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-05T20:56:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-10T00:00:35.015Z
+- Updated At: 2026-08-17T00:00:37.217Z
 
 ## Products
 
-- [Diamond Eye Tee](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee): Diamond Eye design on a 100% cotton tee
-  Updated: 2026-08-06T23:01:52Z
+- [Diamond Eye Tee](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee): Diamond Eye design on a 100% cotton tee Unisex
+  Updated: 2026-08-11T05:02:40Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -34,8 +34,8 @@
   - [2XL](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee?variant=52178688180507)
     Availability: Not Available
     Price: $35.00 USD
-- [Star Child Tee](https://passionpit.merchmadeeasy.com/products/star-child-tee): Star child design on a 100% cotton tee in Black
-  Updated: 2026-08-06T21:43:37Z
+- [Star Child Tee](https://passionpit.merchmadeeasy.com/products/star-child-tee): Star child design on a 100% cotton tee in Black Unisex
+  Updated: 2026-08-11T05:02:40Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -56,7 +56,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Teeth Tee](https://passionpit.merchmadeeasy.com/products/teeth-tee): Teeth design on a 100% cotton tee in Kelly Green or Olive Green
-  Updated: 2026-08-06T21:33:46Z
+  Updated: 2026-08-14T05:43:31Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -77,7 +77,7 @@
     Availability: Available
     Price: $35.00 USD
   - [L / Olive](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694340891)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XL / Green](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694144283)
     Availability: Available
@@ -85,8 +85,8 @@
   - [XL / Olive](https://passionpit.merchmadeeasy.com/products/teeth-tee?variant=52178694373659)
     Availability: Not Available
     Price: $35.00 USD
-- [Lifted Tee](https://passionpit.merchmadeeasy.com/products/lifted-tee): 100% cotton tee in Black
-  Updated: 2026-08-06T21:31:40Z
+- [Lifted Tee](https://passionpit.merchmadeeasy.com/products/lifted-tee): 100% cotton tee in Black Unisex
+  Updated: 2026-08-11T05:01:50Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -106,8 +106,8 @@
   - [XL](https://passionpit.merchmadeeasy.com/products/lifted-tee?variant=52178694734107)
     Availability: Not Available
     Price: $35.00 USD
-- [Orb Tee](https://passionpit.merchmadeeasy.com/products/orb-tee-copy): 100% cotton tee in Black
-  Updated: 2026-08-06T21:30:40Z
+- [Orb Tee](https://passionpit.merchmadeeasy.com/products/orb-tee-copy): 100% cotton tee in Black Unisex
+  Updated: 2026-08-14T05:43:35Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -125,21 +125,21 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Bottle Opener Keychain](https://passionpit.merchmadeeasy.com/products/bottle-opener-keychain): Passion Pit design on a bottle opener keychain
-  Updated: 2026-08-06T21:29:54Z
+  Updated: 2026-08-10T17:01:03Z
   Vendor: Passion Pit
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion-Pit-Bottle-opener.png?v=1779310995
   Price: $5.00 USD
-- [Faces Tote Bag](https://passionpit.merchmadeeasy.com/products/faces-tote-bag)
-  Updated: 2026-08-06T21:28:36Z
+- [Faces Tote Bag](https://passionpit.merchmadeeasy.com/products/faces-tote-bag): Cotton canvas tote bag with faces graphic on the front
+  Updated: 2026-08-11T05:00:50Z
   Vendor: Passion Pit
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0001_PP-Tote.png?v=1778188737
   Price: $20.00 USD
-- [Gossamer CD](https://passionpit.merchmadeeasy.com/products/gossamer-cd): Tracklist: Take a Walk I'll Be Alright Carried Away Constant Conversations Mirrored Sea Cry Like A Ghost On My Way Hideaway Two Veils To Hide My Face Love Is Greed It's Not My Fault, I'm Happy Where We Belong
-  Updated: 2026-08-06T21:28:09Z
+- [Gossamer CD](https://passionpit.merchmadeeasy.com/products/gossamer-cd): Gossamer CD by Passion Pit
+  Updated: 2026-08-13T21:10:16Z
   Vendor: Passion Pit
   Product Type: CD
   Availability: Available
@@ -152,8 +152,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0000_Chunk-of-Change-Vinyl.png?v=1778188939
   Price: $29.98 USD
-- [2026 Tour Photo Tee](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee): Passion Pit graphic on the front 2026 tour dates on the back SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-06T21:25:15Z
+- [2026 Tour Photo Tee](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee): Passion Pit graphic on the front 2026 tour dates on the back 100% cotton tee in Black
+  Updated: 2026-08-14T05:43:31Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -165,7 +165,7 @@
     Availability: Available
     Price: $35.00 USD
   - [L](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee?variant=52211732513051)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XL](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee?variant=52211732545819)
     Availability: Available
@@ -173,8 +173,10 @@
   - [2XL](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee?variant=52211732578587)
     Availability: Available
     Price: $35.00 USD
-- [Captcha Tee](https://passionpit.merchmadeeasy.com/products/captcha-tee): Passion Pit captcha graphic on the front SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-09T04:35:03Z
+- [Captcha Tee](https://passionpit.merchmadeeasy.com/products/captcha-tee): Passion Pit captcha graphic on the front 
+100% cotton tee in White
+Unisex
+  Updated: 2026-08-14T07:54:05Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -194,8 +196,10 @@
   - [2XL](https://passionpit.merchmadeeasy.com/products/captcha-tee?variant=52211742507291)
     Availability: Available
     Price: $35.00 USD
-- [Smile Upon Me Tee](https://passionpit.merchmadeeasy.com/products/smile-tee): you'll always smile upon me and i'll smile upon you too SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-06T19:29:11Z
+- [Smile Upon Me Tee](https://passionpit.merchmadeeasy.com/products/smile-tee): you'll always smile upon me and i'll smile upon you too
+100% cotton tee in Beige
+Unisex
+  Updated: 2026-08-14T16:40:56Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -230,20 +234,20 @@
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Mockup_0007_Passion-Pit-Tote.png?v=1778791414
   Price: $25.00 USD
 - [Sticker Pack](https://passionpit.merchmadeeasy.com/products/sticker-pack): Set of 5 stickers
-  Updated: 2026-08-06T19:22:22Z
+  Updated: 2026-08-11T04:57:01Z
   Vendor: Passion Pit
   Product Type: Stickers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Mockup_0006_Passion-Pit-Stickers.png?v=1778791504
+  Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion-Pit-Sticker-Pack.jpg?v=1778791506
   Price: $14.00 USD
 
 ## Collections
 
 - [Home page](https://passionpit.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-05T20:25:30Z
+  Updated: 2026-08-14T11:29:02Z
   Total Products: 10
 - [Apparel](https://passionpit.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-09T11:22:26Z
+  Updated: 2026-08-15T11:39:47Z
   Total Products: 9
 - [Accessories](https://passionpit.merchmadeeasy.com/collections/accessories)
   Updated: 2026-08-07T11:29:11Z
@@ -252,13 +256,13 @@
   Updated: 2026-08-05T20:25:30Z
   Total Products: 2
 - [Pretty Penny Tour](https://passionpit.merchmadeeasy.com/collections/tour)
-  Updated: 2026-08-09T11:22:26Z
+  Updated: 2026-08-15T11:39:47Z
   Total Products: 6
 - [Hats](https://passionpit.merchmadeeasy.com/collections/hats)
   Updated: 2026-08-05T20:25:30Z
   Total Products: 0
 - [All](https://passionpit.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-09T11:22:26Z
+  Updated: 2026-08-15T11:39:47Z
   Total Products: 15
 
 ## Store Pages
