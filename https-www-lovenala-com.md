@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2019-07-12T02:01:02Z
 - Contact Email: hello@lovenala.com
-- Updated At: 2026-08-10T00:00:42.335Z
+- Updated At: 2026-08-17T00:00:44.483Z
 
 Welcome to Love, Nala where we are guided by Nala's devotion to uniting us—with love that heals the mind, the love that provides a home, and the love that heals the earth—through Unconditional Nutrition™. Nala is Instagram's most famous cat, with more than 4 million followers. 
 Founded in 2019 by Pookie and Shannon, two passionate cat lovers inspired by the heartwarming journey of Nala, "Love, Nala" stands as a testament to the transformative power of love and compassion in the world of pet care. Our brand is more than just a name; it embodies a profound commitment to providing the best for our feline companions and fostering lasting connections with pet owners like you.
@@ -23,7 +23,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
 ## Products
 
 - [Tuna & Salmon Recipe Wet Cat Food 2.8oz (12) | Love, Nala](https://www.lovenala.com/products/flaked-tuna-salmon-recipe): Our Tuna & Salmon wet cat food recipe features essential nutrients to support health and well-being with no fillers or artificial preservatives, colors or flavors.
-  Updated: 2026-08-09T13:21:06Z
+  Updated: 2026-08-16T13:09:25Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -44,7 +44,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Can_Flaked_Tuna_Salmon_1b444445-27ea-4d7f-aa8a-da1b5ba222ff.png?v=1663428415
   Price: $20.89 USD
 - [Air Dried Beef Cat Food, 1lb Bag - Love Nala](https://www.lovenala.com/products/love-nala-lamb-salmon-grain-free-recipe-air-dried--cat-food): Love Nala’s air-dried beef cat food is a wholesome way to give Kitty yummy, ultimate nutrition. Our grain-free recipe supports their natural cravings.
-  Updated: 2026-08-09T22:32:47Z
+  Updated: 2026-08-10T12:50:56Z
   Vendor: nala_cp
   Product Type: Dry Food
   Availability: Available
@@ -58,49 +58,49 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Chicken_air-dried_1.webp?v=1784327766
   Price: $28.99 USD
 - [Salmon & Tuna Cat Food | Shop - Love Nala](https://www.lovenala.com/products/love-nala-tuna-recipe-plus--cat-treats-pack-of-4): Introduce your cat to Love Nala's Tuna Recipe, a hint of salmon & tuna cat food essence in treat style. Shop now for a four-pack of nutritious joy!
-  Updated: 2026-08-03T19:42:56Z
+  Updated: 2026-08-16T12:49:06Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Tuna_Mousse_Plus_1.webp?v=1784397125
   Price: $4.79 USD
 - [Healthiest Kitten Treats - 4 Pack | Shop - Love Nala](https://www.lovenala.com/products/love-nala-chicken-recipe-plus-cat-treats-pack-of-4): Offer your kitten Love Nala's Chicken Recipe Plus, packed with the healthiest kitten treats. Shop & delight your furry friend with nourishing nibbles!
-  Updated: 2026-08-08T07:16:47Z
+  Updated: 2026-08-16T12:37:16Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Chicken_Mousse_Plus_1.webp?v=1784396505
   Price: $4.79 USD
 - [Best Moist Cat Treats - 4 Pack | Shop - Love Nala](https://www.lovenala.com/products/love-nala-tuna-salmon-recipe--cat-treats-pack-of-4): Spoil your cat with Love Nala's Tuna & Salmon recipe, offering the best moist cat treats. Shop now for a tasty & nutritious treat time!
-  Updated: 2026-08-08T06:27:27Z
+  Updated: 2026-08-16T22:09:05Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Tuna_and_Salmon_Mousse_1.webp?v=1784396178
   Price: $4.29 USD
 - [Canned Tuna For Cats | Shop - Love Nala](https://www.lovenala.com/products/love-nala-tuna-recipe--cat-treats-pack-of-4): Indulge your feline with Love Nala's Tuna Recipe, a choice closer to canned tuna for cats in a treat format. Shop now for a bundle of four delights!
-  Updated: 2026-08-08T06:27:28Z
+  Updated: 2026-08-16T00:33:35Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Tuna_Mousse_1.webp?v=1784395754
   Price: $4.29 USD
 - [Natural Chicken Cat Treats - 4 Pack | Shop - Love Nala](https://www.lovenala.com/products/love-nala-chicken-recipe-cat-treats-pack-of-4): Treat your feline to Love Nala's Chicken Recipe, a pack of four delightful chicken cat treats. Shop to add a sprinkle of joy to your cat's treat time!
-  Updated: 2026-07-28T07:06:47Z
+  Updated: 2026-08-10T07:06:47Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Chicke_Mousse_1.webp?v=1784395190
   Price: $4.29 USD
 - [Tuna & Salmon Cat Food | Shop - Love Nala](https://www.lovenala.com/products/love-nala-tuna-salmon-recipe-plus-cat-treats-pack-of-4): Treat your cat to Love Nala's Tuna & Salmon Recipe, a blend of tuna & salmon cat food in treat form. Shop now for a quartet of feline delight!
-  Updated: 2026-07-30T21:35:12Z
+  Updated: 2026-08-10T12:25:46Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Tuna_Salmon_Mousse_Plus_3.webp?v=1784397010
   Price: $4.79 USD
 - [Chicken & Sweet Potato Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/love-nal-chicken-flaked-with-sweet-potato-tomato-recipe-dinner-in-broth--cat-food-2-8-oz-case-of-12): Your cat will savor every bite of Love Nala's chicken & sweet potato cat food, crafted with a delicious mix of chicken, veggies & broth in a 12-case bundle.
-  Updated: 2026-08-08T06:27:28Z
+  Updated: 2026-08-16T21:32:35Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -112,7 +112,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Salmon Wet Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/love-nala-salmon-dinner-flaked-in-broth--cat-food-2-8-oz-case-of-12): Your cat deserves the best – give them Love Nala's salmon wet cat food, a harmonious blend of flaked salmon in broth that provides both taste and nutrition
-  Updated: 2026-08-08T20:11:47Z
+  Updated: 2026-08-16T12:17:05Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -124,7 +124,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Tuna Flakes for Cats | Shop - Love Nala](https://www.lovenala.com/products/love-nala-tuna-flaked-with-carrot-green-pea-recipe-dinner-in-broth--cat-food-2-8-oz-case-of-12): Dive into Love Nala's tuna flakes for cats, a gourmet mix with carrots & green peas in a delicious broth, for a meal as nutritious as it is tasty.
-  Updated: 2026-08-08T06:52:36Z
+  Updated: 2026-08-16T00:33:35Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -136,7 +136,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Chicken Wet Cat Food | 12 Case Bundle - Love Nala](https://www.lovenala.com/products/love-nal-chicken-flaked-with-carrot-sweet-potato-recipe-dinner-in-broth--cat-food-2-8-oz-case-of-12): Feast your cat on Love Nala's chicken wet cat food, a savory 12-case bundle with carrots & sweet potatoes, for a complete & balanced diet.
-  Updated: 2026-08-09T14:32:47Z
+  Updated: 2026-08-16T10:54:35Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -148,7 +148,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Tuna & Salmon Cat Food | Shop - Love Nala](https://www.lovenala.com/products/love-nala-tuna-salmon-recipe-flaked-dinner-in-broth--cat-food-2-8-oz-case-of-12): Indulge your cat with Love Nala's Tuna & Salmon cat food, a flaked dinner delight. Shop now for a savory, nutritious feast your feline will adore!
-  Updated: 2026-08-09T13:13:18Z
+  Updated: 2026-08-16T13:09:25Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -160,7 +160,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Chicken & Pumpkin Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/love-nala-chicken-flaked-with-pumpkin-recipe-dinner-in-broth--cat-food-2-8-oz-case-of-12): Elevate mealtime with Love Nala's chicken & pumpkin cat food, expertly flaked & bathed in savory broth, for a delightfully balanced  cat diet.
-  Updated: 2026-08-09T13:43:28Z
+  Updated: 2026-08-16T00:38:26Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -172,7 +172,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Mackerel for Cats | Bundle - Love Nala](https://www.lovenala.com/products/love-nal-mackerel-with-carrot-pumpkin-recipe-pate-dinner-in-broth--cat-food-2-8-oz-case-of-12): Indulge your cat with Love Nala's mackerel for cats, a pâté bursting with flavor from fresh mackerel, carrots, & pumpkin in a savory broth.
-  Updated: 2026-08-05T22:45:09Z
+  Updated: 2026-08-16T13:01:25Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -187,7 +187,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Canned Salmon Cat Food | Shop - Love Nala](https://www.lovenala.com/products/love-nala-tuna-carrot-salmon-recipe-pate-dinner-in-broth--cat-food-2-8-oz-case-of-12): Love Nala's canned salmon cat food offers a delicious pâté blend with tuna & carrot, drenched in broth for a delectable meal in every can.
-  Updated: 2026-08-08T06:27:28Z
+  Updated: 2026-08-16T22:17:06Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -199,7 +199,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Chicken Pate Cat Food with Carrot & Pumpkin Recipe, 2.8-oz - Love Nala](https://www.lovenala.com/products/love-nal-chicken-with-carrot-pumpkin-recipe-pate-dinner-in-broth--cat-food-2-8-oz-case-of-12): Love Nala's chicken pate cat food offers a tasty wet meal blending chicken with carrot & pumpkin. Crafted for a cat’s natural cravings, it’s healthy and tasty.
-  Updated: 2026-08-08T06:27:26Z
+  Updated: 2026-08-16T22:30:36Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -214,7 +214,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Tuna Fish Cat Food | Shop - Love Nala](https://www.lovenala.com/products/love-nal-tuna-with-spinach-recipe-pate-dinner-in-broth--cat-food-2-8-oz-case-of-12): Shop for Love Nala's tuna fish cat food, a creamy pâté with spinach, served in a savory broth for the ultimate  cat feast.
-  Updated: 2026-08-08T06:28:37Z
+  Updated: 2026-08-16T12:28:46Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -226,7 +226,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Flaked Variety Pack 2.8 oz, Case of 12 or 24 | Love, Nala](https://www.lovenala.com/products/love-nala-flaked-variety-pack-2-8-oz-case-of-12): Treat your feline to Love Nala's Flaked Variety Pack. Twelve delicious meals with chicken, a favorite meal for cats, ensuring flavor & nourishment!
-  Updated: 2026-08-09T19:33:47Z
+  Updated: 2026-08-16T12:45:06Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -238,7 +238,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Cat Food Variety Pack | Shop - Love Nala](https://www.lovenala.com/products/love-nala-pate-variety-pack-2-8-oz-case-of-12): Shop Love Nala's cat food variety pack for a gourmet selection of pâté meals, offering your cat a delectable taste adventure in every case.
-  Updated: 2026-08-09T19:23:26Z
+  Updated: 2026-08-16T21:56:51Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -313,7 +313,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/png3imgs_fd7abf1c-8fc6-4901-8627-77a07fa644b8.png?v=1661874016
   Price: $4.08 USD
 - [Love, Nala Tuna Flaked With Carrot & Green Pea Recipe Dinner In Broth  Cat Food, 2.8-oz, Case of 12 5.00% Off Auto renew](https://www.lovenala.com/products/love-nala-tuna-flaked-with-carrot-green-pea-recipe-dinner-in-broth--cat-food-2-8-oz-case-of-14): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T06:28:33Z
+  Updated: 2026-08-16T00:33:35Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -327,49 +327,49 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Frame18_f368a430-0ce4-4e98-8462-b8e305ecc904.png?v=1661874178
   Price: $3.79 USD
 - [Canned Chicken for Cats | Bundle - Love Nala](https://www.lovenala.com/products/chicken-pate-bundle): Savor the taste of Love Nala's canned chicken for cats with our enticing Chicken Paté Bundle. Order now for a delightful & nutritious feline feast!
-  Updated: 2026-08-08T07:16:47Z
+  Updated: 2026-08-16T12:37:16Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/1x_Case_Chicken_Pate_With_Carrot_and_Pumpkin_3x_Packs_Chicken_Mousse_Bundle_1.webp?v=1784667907
   Price: $33.99 USD
 - [Tuna Broth for Cats | Shop - Love Nala](https://www.lovenala.com/products/tuna-with-spinach-pate-tuna-mousse-bundle): Indulge your furry friend with Love Nala's tuna broth for cats, blended with nutritious spinach paté & smooth tuna mousse. Shop a gourmet cat feast!
-  Updated: 2026-08-08T06:28:37Z
+  Updated: 2026-08-16T12:28:45Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/1x_Case_Tuna_Pate_with_Spinach_3x_Packs_Tuna_Mousse_Bundle_1.webp?v=1784660477
   Price: $33.99 USD
 - [Best Tuna & Salmon Cat Food | 12 Case Bundle - Love Nala](https://www.lovenala.com/products/tuna-and-salmon-pate-tuna-and-salmon-mousse-bundle): Satisfy your cat's cravings with the best tuna & salmon cat food bundle at Love Nala. Shop now for a gourmet blend of paté and mousse!
-  Updated: 2026-08-03T19:42:55Z
+  Updated: 2026-08-16T22:17:06Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/1x_Case_Tuna_and_Salmon_Pate_With_Carrot_3_Packs_Tuna_Plus_Mousse_Bundle_1.webp?v=1784661118
   Price: $33.99 USD
 - [1x Case Tuna and Salmon Paté  With Carrot & 3x Packs Tuna and Salmon Mousse Bundle 5.00% Off Auto renew](https://www.lovenala.com/products/tuna-and-salmon-pate-tuna-and-salmon-mousse-bundle-1): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T06:27:28Z
+  Updated: 2026-08-16T22:17:05Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/TunawCarrotandSalmonPate_TunaandSalmonMousse_51a6601f-81c2-4d5b-ab02-84e72727ab63.png?v=1687385395
   Price: $32.29 USD
 - [Tuna & Salmon Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/mackerel-w-carrot-and-pumpkin-salmon-and-tuna-mousse-bundle): Dive into Love Nala's Tuna & Mackerel cat food bundle with added carrot & pumpkin for a nutritious meal. Grab this delightful mix for your cat!
-  Updated: 2026-08-08T06:27:28Z
+  Updated: 2026-08-15T20:24:45Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/1x_Case_Mackerel_Pate_With_Carrot_and_Pumpkin_3x_Packs_Tuna_Mousse_Bundle_1.webp?v=1784588276
   Price: $33.99 USD
 - [Flaked Chicken Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/chicken-flaked-w-carrot-and-sweet-potato-chicken-mousse-bundle): Treat your cat to our flaked chicken cat food bundle, paired with tasty carrot & sweet potato mousse. Shop now on Love Nala for a feline feast!
-  Updated: 2026-08-08T07:06:37Z
+  Updated: 2026-08-16T12:37:16Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/1x_Case_Chicken_Flaked_with_Carrot_and_Sweet_Potato_3x_Packs_Chicken_Mousse_Bundle_1.webp?v=1784587412
   Price: $33.99 USD
 - [1x Case Salmon Flaked In Broth & 3x Packs Tuna Mousse Bundle | Love, Nala](https://www.lovenala.com/products/salmon-flaked-tuna-and-salmon-mousse-bundle): Indulge your cat with the best wet salmon cat food bundle at Love Nala, featuring flaked salmon & a tuna-salmon mousse combo. Shop now!
-  Updated: 2026-08-03T19:33:41Z
+  Updated: 2026-08-16T12:49:00Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -383,21 +383,21 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/ChickenFlakedwCarrotandSweetPotato_ChickenMousse_6f7f54fc-57c8-4f27-8f3d-24aecec73821.png?v=1687385310
   Price: $32.29 USD
 - [Flaked Tuna Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/tuna-flaked-w-carrot-tuna-mousse-bundle): Dive into a sea of flavors with Love Nala's flaked tuna cat food bundle, combined with a delightful tuna mousse. Give your cat a taste of adventure!
-  Updated: 2026-08-08T06:27:28Z
+  Updated: 2026-08-16T00:32:36Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/TunaFlakedwCarrotandGreenPea_TunaMousse_37189767-3a6f-46ae-89f0-3594b55390da.png?v=1687385370
   Price: $33.99 USD
 - [1x Case Salmon Flaked & 3x Packs Tuna and Salmon Mousse Bundle 5.00% Off Auto renew](https://www.lovenala.com/products/salmon-flaked-tuna-and-salmon-mousse-bundle-1): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-03T19:42:56Z
+  Updated: 2026-08-16T12:49:06Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/SalmonFlaked_TunaandSalmonMousse_b45c3bdb-4500-4314-a2f4-adede6c54dd7.png?v=1687385349
   Price: $32.29 USD
 - [Tuna & Salmon Cat Food | Shop - Love Nala](https://www.lovenala.com/products/tuna-and-salmon-flaked-tuna-and-salmon-mousse-bundle): Indulge in Love Nala's Tuna & Salmon cat food bundle, a blend of flaked tuna & salmon with a delightful mousse. Shop now for a nutritious meal!
-  Updated: 2026-08-03T19:42:55Z
+  Updated: 2026-08-16T12:49:05Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -446,7 +446,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/TunaRecipePlus_5bc47b2a-24cd-46b1-8370-82e70ecc2e73.png?v=1669076945
   Price: $4.04 USD
 - [Tuna Recipe 10.00% Off Auto renew](https://www.lovenala.com/products/tuna-recipe-wet-cat-treat-1): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T06:27:27Z
+  Updated: 2026-08-16T00:33:35Z
   Vendor: Love, Nala
   Product Type: Treats
   Availability: Available
@@ -460,42 +460,42 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Tuna_SalmonRecipePlus_51226816-de3a-4fad-b643-39d0a9ec3569.png?v=1669076973
   Price: $4.04 USD
 - [Tuna & Salmon Recipe 10.00% Off Auto renew](https://www.lovenala.com/products/tuna-salmon-recipe-wet-cat-treat-1): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T06:27:28Z
+  Updated: 2026-08-16T22:09:03Z
   Vendor: Love, Nala
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Tuna_SalmonRecipe_76dcf01b-2c33-4ee2-b227-ba0c96921184.png?v=1669076975
   Price: $3.59 USD
 - [Love, Nala Tuna & Salmon Recipe Plus Cat Treats, Pack of 4 10.00% Off Auto renew](https://www.lovenala.com/products/love-nala-tuna-salmon-recipe-plus-cat-treats-pack-of-5): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-07-30T21:35:18Z
+  Updated: 2026-08-10T12:25:46Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/png3imgs_c6a638c5-45e9-4aaf-b0d7-77ba82c3c970.png?v=1669076976
   Price: $3.86 USD
 - [Love, Nala Tuna & Salmon Cat Treats, Pack of 4 10.00% Off Auto renew](https://www.lovenala.com/products/love-nala-tuna-salmon-recipe--cat-treats-pack-of-5): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T06:27:28Z
+  Updated: 2026-08-16T22:09:01Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Frame16_b6e55c46-f4b7-4b05-b370-c5294b8a6f7a.png?v=1669076978
   Price: $3.59 USD
 - [Tuna & Salmon Recipe Plus Cat Treats, Pack of 4 10.00% Off Auto renew](https://www.lovenala.com/products/tuna-salmon-recipe-plus-wet-cat-treat-2): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-07-30T21:35:14Z
+  Updated: 2026-08-10T12:25:45Z
   Vendor: Love, Nala
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Tuna_SalmonRecipePlus_6b66eac4-426d-4f7a-9a11-a253cee8baef.png?v=1669076995
   Price: $4.04 USD
 - [Tuna Recipe Cat Treats, Pack of 4 10.00% Off Auto renew](https://www.lovenala.com/products/love-nala-tuna-recipe--cat-treats-pack-of-5): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T06:27:27Z
+  Updated: 2026-08-16T00:33:35Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Frame18_951a8daf-e573-48f1-9a97-5cd8542c31c8.png?v=1669077000
   Price: $3.59 USD
 - [Love, Nala Tuna Recipe Plus Cat Treats, Pack of 4 10.00% Off Auto renew](https://www.lovenala.com/products/love-nala-tuna-recipe-plus--cat-treats-pack-of-5): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-03T19:42:51Z
+  Updated: 2026-08-16T12:49:05Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
@@ -509,21 +509,21 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Can_Pate_MackerelWithCarrot_Pumpkin_7203947c-84b1-41fb-a55c-25660db892f4.webp?v=1717705460
   Price: $19.79 USD
 - [Chicken Recipe Plus Cat Treats, Pack of 4 10.00% Off Auto renew](https://www.lovenala.com/products/love-nala-chicken-recipe-plus-cat-treats-pack-of-5): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T07:16:47Z
+  Updated: 2026-08-16T12:37:16Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Frame19_5bd311f8-b8fa-4056-a089-2892b940f42c.png?v=1669078531
   Price: $3.86 USD
 - [Chicken Recipe Plus Cat Treats, Pack of 4 10.00% Off Auto renew](https://www.lovenala.com/products/love-nala-chicken-recipe-plus-cat-treats-pack-of-6): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T07:16:48Z
+  Updated: 2026-08-16T12:37:16Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Frame19_219370b2-7179-4440-9e5b-6e85b1105bb8.png?v=1669078532
   Price: $3.86 USD
 - [Love, Nala Chicken Recipe Cat Treats, Pack of 4 10.00% Off Auto renew](https://www.lovenala.com/products/love-nala-chicken-recipe-cat-treats-pack-of-5): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-07-28T07:16:48Z
+  Updated: 2026-08-10T07:16:46Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
@@ -558,28 +558,28 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/products/Can_Flaked_Tuna_Salmon_a26e9b10-aa39-4781-b80a-b3f172ae2a13.png?v=1669078603
   Price: $19.79 USD
 - [Mousse Cat Food | 12 Pack (48 Tube) Bundle - Love Nala](https://www.lovenala.com/products/48-tubes-mousse-bundle-1): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T07:16:47Z
+  Updated: 2026-08-16T12:49:05Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/MousseBundle48Tubes_c772f96c-6b9e-43f7-936c-0ebd6a84cb0f.png?v=1687385276
   Price: $44.71 USD
 - [6x Packs (24 Tubes) Variety Mousse Bundle 10.00% Off Auto renew](https://www.lovenala.com/products/24-tubes-mousse-bundle-1): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T07:16:47Z
+  Updated: 2026-08-16T12:49:05Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/MousseBundle24Tubes_d789ba3c-a539-416f-97f4-535a72098b6a.webp?v=1701121945
   Price: $22.36 USD
 - [Variety Pack Mousse Treats Recipes, Pack of 24 Tubes | Love, Nala](https://www.lovenala.com/products/pack-of-24-mousse-recipes): Use our yummy Variety Pack Mousse Treats Recipes as a tempting meal topper for extra moisture & flavor, or hand-feed it as a treat!  Pack of 24 tubes.
-  Updated: 2026-08-08T07:10:08Z
+  Updated: 2026-08-16T00:34:35Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Variety_Mousse__24_pack_1.webp?v=1784397670
   Price: $23.99 USD
 - [Variety Pack Mousse Treats Plus Recipes, Pack of 24 Tubes | Love, Nala](https://www.lovenala.com/products/pack-of-24-mousse-plus-recipes): Use our yummy Variety Pack Mousse Treats Plus Recipes as a tempting meal topper for extra moisture & flavor, or hand-feed it as a treat!  Pack of 24 tubes.
-  Updated: 2026-08-05T22:17:07Z
+  Updated: 2026-08-16T07:06:05Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
@@ -593,14 +593,14 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Supplement_Skin_Coat_1.webp?v=1784336833
   Price: $14.99 USD
 - [Calming Supplements for Cats, 3.2-oz, 90 Soft Chews - Love Nala](https://www.lovenala.com/products/calming-health-supplement-3-2-oz-90-soft-chews-1): Unwind your cat's stress with Love Nala's calming cat food supplement, packed with natural ingredients. Shop now for a serene & healthy experience!
-  Updated: 2026-08-08T01:53:18Z
+  Updated: 2026-08-16T10:54:35Z
   Vendor: nala_cp
   Product Type: Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Supplement_Calming_1.webp?v=1784336262
   Price: $14.99 USD
 - [Digestion Health Supplement for Cats, 3.2-oz, 90 Soft Chews - Love Nala](https://www.lovenala.com/products/digestion-health-supplement-3-2-oz-90-soft-chews): Boost your cat's gut health with Love Nala's Digestion Health Supplement, a remarkable cat digestion supplement. Shop 90 soft chews of digestive ease!
-  Updated: 2026-08-09T19:18:36Z
+  Updated: 2026-08-10T18:49:57Z
   Vendor: nala_cp
   Product Type: Supplements
   Availability: Available
@@ -614,14 +614,14 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Mousse_VarietyBox_Angle.webp?v=1731601286
   Price: $20.69 USD
 - [Variety Pack Mousse Treats recipes, Pack of 24 Tubes 10.00% Off Auto renew](https://www.lovenala.com/products/pack-of-24-mousse-recipes-2): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-08T07:10:09Z
+  Updated: 2026-08-16T00:34:36Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Mousse_VarietyBox_Angle.webp?v=1731601286
   Price: $20.69 USD
 - [Variety Pack Mousse Treats Plus recipes, Pack of 24 Tubes 10.00% Off Auto renew](https://www.lovenala.com/products/pack-of-24-mousse-plus-recipes-1): WARNING: This product is for Recharge Subscriptions use only, do not publish or delete this product. Customers will not see this message.
-  Updated: 2026-08-05T22:17:07Z
+  Updated: 2026-08-16T07:17:05Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
@@ -992,14 +992,14 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Chicken_Mousse_24_Pack.webp?v=1784397943
   Price: $23.99 USD
 - [Pack of 24 Tubes Tuna Mousse Treats Recipes | Love, Nala](https://www.lovenala.com/products/tuna-mousse-treats-recipes-pack-of-24-tubes): Our Tuna Mousse Treats Recipes makes a tempting meal topper for kitty, adding extra moisture & flavor. Or hand-feed it as a treat!  Pack of 24 tubes.
-  Updated: 2026-08-03T22:24:45Z
+  Updated: 2026-08-14T18:09:16Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Tuna_Mousse_24_pack_1.webp?v=1784397722
   Price: $23.99 USD
 - [Pack of 24 Tubes Tuna & Salmon Mousse Treats Recipes | Love, Nala](https://www.lovenala.com/products/tuna-and-salmon-mousse-treats-recipes-pack-of-24-tubes): Use our tasty Tuna and Salmon Mousse Treats Recipes as a tempting meal topper for extra moisture & flavor, or hand-feed it as a treat!  Pack of 24 tubes.
-  Updated: 2026-07-20T00:49:12Z
+  Updated: 2026-08-13T06:39:26Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
@@ -1020,35 +1020,35 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Tuna_Mousse_Plus_24_pack.webp?v=1784402289
   Price: $24.99 USD
 - [Pack of 24 Tubes Tuna & Salmon Mousse Treats Plus Recipes | Love, Nala](https://www.lovenala.com/products/tuna-and-salmon-mousse-treats-plus-recipes-pack-of-24-tubes): Use our yummy Tuna and Salmon Mousse Treats Plus Recipes as a tempting meal topper for extra moisture & flavor, or hand-feed it as a treat!  Pack of 24 tubes.
-  Updated: 2026-07-26T00:37:07Z
+  Updated: 2026-08-15T18:28:56Z
   Vendor: nala_cp
   Product Type: Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Tuna_Salmon_Mousse_Plus_24_Pack.webp?v=1784402315
   Price: $24.99 USD
 - [Flaked Chicken Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/24-cans-of-flaked-chicken-variety-pack-2-8-oz): Your kitty will crave every one of Love, Nala’s 24 cans of Flaked Chicken Pack bundle. Each is 2.8-oz of a nourishing blend with carrots & sweet potato.
-  Updated: 2026-08-09T20:55:16Z
+  Updated: 2026-08-15T22:04:41Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Flaked_Chicken_Variety_24_Pack_1.webp?v=1784582205
   Price: $45.98 USD
 - [Flaked Chicken Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/24-cans-of-flaked-fish-variety-pack-2-8-oz): Treat your cat to Love, Nala’s 24 cans of Flaked Fish Variety Pack bundle. Each 2.8-oz can is a tasty, healthy blend of fish with carrot & sweet potato.
-  Updated: 2026-08-08T07:10:08Z
+  Updated: 2026-08-16T13:21:15Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Flaked_Fish_Variety_1.webp?v=1784579898
   Price: $45.98 USD
 - [Flaked Chicken Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/24-cans-of-flaked-chicken-and-fish-variety-pack-2-8-oz): Treat your cat to Love, Nala’s 24 cans of Flaked Chicken and Fish Variety Pack bundle. Each is 2.8-oz of yummy, healthy blends with carrot & sweet potato.
-  Updated: 2026-08-08T07:10:08Z
+  Updated: 2026-08-15T00:37:45Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/Flaked_Chicken_Fish_24_pack_1.webp?v=1784574341
   Price: $45.98 USD
 - [Flaked Chicken Cat Food | Bundle - Love Nala](https://www.lovenala.com/products/24-cans-of-pate-variety-pack-2-8-oz): With Love, Nala’s 24 cans of Pate Variety Pack, your kitty gets all their yummy favorites. Each 2.8-oz can provides a feline feast of taste and nutrition.
-  Updated: 2026-08-09T19:09:18Z
+  Updated: 2026-08-16T21:32:45Z
   Vendor: nala_cp
   Product Type: Wet Food
   Availability: Available
@@ -1373,7 +1373,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Image: https://cdn.shopify.com/s/files/1/0236/6685/1920/files/unisex-premium-hoodie-sky-blue-front-67a153f3e9bb2.png?v=1738626048
     Price: $42.99 USD
 - [Cat Food Variety Pack | Shop - Love Nala](https://www.lovenala.com/products/pate-party-variety-pack-2-8-oz): Shop Love Nala's cat food variety pack for a gourmet selection of pâté meals, offering your cat a delectable taste adventure in every case.
-  Updated: 2026-08-09T19:23:26Z
+  Updated: 2026-08-15T17:38:50Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -1385,7 +1385,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $44.99 USD
 - [Flaked Variety Pack, 2.8-oz](https://www.lovenala.com/products/flaked-party-variety-pack-2-8-oz): Treat your feline to Love Nala's Flaked Variety Pack. Twelve delicious meals with chicken, a favorite meal for cats, ensuring flavor & nourishment!
-  Updated: 2026-08-09T19:33:47Z
+  Updated: 2026-08-15T17:38:40Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -1409,7 +1409,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Cat Food Variety Pack | Shop - Love Nala](https://www.lovenala.com/products/single-protein-chicken-recipe-2-8-oz): Shop Love Nala's cat food variety pack for a gourmet selection of pâté meals, offering your cat a delectable taste adventure in every case.
-  Updated: 2026-08-08T06:27:28Z
+  Updated: 2026-08-16T00:37:46Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -1421,7 +1421,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Cat Food Variety Pack | Shop - Love Nala](https://www.lovenala.com/products/single-protein-tuna-recipe-2-8-oz): Shop Love Nala's cat food variety pack for a gourmet selection of pâté meals, offering your cat a delectable taste adventure in every case.
-  Updated: 2026-08-08T06:52:47Z
+  Updated: 2026-08-16T00:36:01Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -1433,7 +1433,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
     Availability: Available
     Price: $45.98 USD
 - [Cat Food Variety Pack | Shop - Love Nala](https://www.lovenala.com/products/single-protein-ocean-white-fish-in-broth-2-8-oz): Shop Love Nala's cat food variety pack for a gourmet selection of pâté meals, offering your cat a delectable taste adventure in every case.
-  Updated: 2026-08-08T06:29:33Z
+  Updated: 2026-08-16T00:38:55Z
   Vendor: Love, Nala
   Product Type: Wet Food
   Availability: Available
@@ -1449,88 +1449,88 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
 ## Collections
 
 - [Love, Nala Cat-a-logue](https://www.lovenala.com/collections/frontpage): Shop our featured collection of high-quality cat products. From food to toys & accessories, we have everything your feline friend needs to thrive.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 78
 - [Dry Cat Food](https://www.lovenala.com/collections/bagged-food): Treat your feline friend to our bagged cat food collection, crafted with natural ingredients for a healthy & satisfying meal.
   Updated: 2026-07-08T20:31:43Z
   Total Products: 5
 - [Wet Cat Food](https://www.lovenala.com/collections/canned): Discover our collection of high-quality canned cat food. Made with natural high-quality proteins, our canned food is perfect for any cat.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-15T11:08:41Z
   Total Products: 29
 - [SPO-filter-3f960fec865dab23adfdf47ad0079f8a](https://www.lovenala.com/collections/spo-filter-3f960fec865dab23adfdf47ad0079f8a)
   Updated: 2026-06-06T04:55:01Z
   Total Products: 1
 - [SPO-filter-cee5b992b0d8b661e96cfd7c427e3b13](https://www.lovenala.com/collections/spo-filter-cee5b992b0d8b661e96cfd7c427e3b13)
-  Updated: 2026-08-04T11:08:23Z
+  Updated: 2026-08-15T11:08:41Z
   Total Products: 30
 - [Cat Treats](https://www.lovenala.com/collections/mousse-treats-collection): Spoil your cat with our collection of delicious cat treats. Made with natural ingredients, our treats are perfect for any occasion.
   Updated: 2026-08-01T11:08:58Z
   Total Products: 6
 - [Pate Wet Cat Food](https://www.lovenala.com/collections/pate-cat-food): Our Pete the Cat collection of inspired wet, grain-free cat food recipes will tempt Kitty! This pate cat food spoils them with high-quality, yummy nutrition.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 28
 - [Flaked Wet Cat Food](https://www.lovenala.com/collections/flaked-cat-food): Discover our collection of delicious flaked cat food recipes. Made with high-quality proteins & natural ingredients, sure to keep your cat satisfied.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 47
 - [Wet Cat Food](https://www.lovenala.com/collections/wet-cat-food): Our wet cat foods are a step above. We’re grain-free and meat-first to provide  cats the healthy, high-quality nutrition they crave to be their best.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 38
 - [Cat Supplements](https://www.lovenala.com/collections/cat-supplements): We make it easy to make your cat’s health a priority with exceptional food and cat nutrition supplements. From joint health to immunity, help your cat thrive!
-  Updated: 2026-08-08T11:09:14Z
+  Updated: 2026-08-11T11:07:37Z
   Total Products: 7
 - [Air Dried Cat Food](https://www.lovenala.com/collections/dry-food-collection): Explore our collection of air-dried cat food made with natural ingredients. Keep your feline friend healthy & satisfied with our delicious options.
-  Updated: 2026-08-08T11:09:14Z
+  Updated: 2026-08-11T11:07:37Z
   Total Products: 8
 - [Cat Treats](https://www.lovenala.com/collections/cat-treats): Our delicious, healthy cat tube treats in tasty mousse form indulge your cat. Shop our healthy food for , but don’t forget to spoil them a little bit!
-  Updated: 2026-08-08T11:09:14Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 20
 - [All Cat Food](https://www.lovenala.com/collections/shop-all): Shop our collection of quality cat products. From food to toys & accessories, we have everything you need to keep your feline friend happy & healthy.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 61
 - [All Products](https://www.lovenala.com/collections/all-products): Explore a variety of healthy cat food at Love Nala's online store. Shop now to give your lovely feline a nutritious & delicious meal!
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 219
 - [Buy With Prime Cat Food](https://www.lovenala.com/collections/buy-with-prime): Discover a variety of high protein canned cat food on Love, Nala's Buy With Prime page. Shop now to pamper your feline with nutritious meals!
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 36
 - [Healthy Cat Food](https://www.lovenala.com/collections/shopall): From toys & accessories to healthy food for cats (we’re meat first and grain free), it’s everything needed for your cat to live their best life. Love, Nala.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 207
 - [Bundle & Save](https://www.lovenala.com/collections/bundle-save): Save more with Love, Nala’s Bundle & Save collection. Enjoy discounts on high-quality cat food combos that promote health & wellness.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 37
 - [Brand Merchandise](https://www.lovenala.com/collections/merch): Explore exclusive merchandise, featuring a range of pet-friendly products that blend style & functionality for cat lovers & their feline friends
   Updated: 2026-07-08T20:31:46Z
   Total Products: 8
 - [Single Product Cat Food](https://www.lovenala.com/collections/single-product-collection): Explore Love, Nala's single product collection for premium cat nutrition. Featuring high-quality ingredients perfect for supporting your cat’s health
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 34
 - [All](https://www.lovenala.com/collections/all): Explore Love, Nala's complete collection, featuring a range of premium cat foods, treats, & supplements. Find products to support your cat's health
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 43
 - [Subscribe by Usage](https://www.lovenala.com/collections/subscription-by-usage)
-  Updated: 2026-08-08T11:09:14Z
+  Updated: 2026-08-12T11:08:38Z
   Total Products: 2
 - [Variety Pack of 24 cans](https://www.lovenala.com/collections/variety-pack-of-24-cans)
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-15T11:08:41Z
   Total Products: 4
 - [Single Protein Recipes](https://www.lovenala.com/collections/single-protein-recipes): Introducing our newest Love, Nala recipes—crafted with single-source animal protein for a simple, wholesome, and delicious meal your cat will love! Perfect for sensitive tummies, each recipe features high-quality, real meat as the first ingredient, providing essential nutrients for a happy, healthy kitty. Because every cat deserves the best—pure, simple, and full of love.
   Updated: 2026-07-08T20:31:19Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on](https://www.lovenala.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 219
 - [Cat Supplements](https://www.lovenala.com/collections/supplement-collections): Love, Nala natural supplements that offer extra digestion support, calming support for stress and anxiety, and skin and coat support for cats.
-  Updated: 2026-08-08T11:09:14Z
+  Updated: 2026-08-11T11:07:37Z
   Total Products: 3
 - [Air dried collection](https://www.lovenala.com/collections/air-dried-collection): Air-dried cat food gives your cat premium, meat-first nutrition in a convenient dry form. Love, Nala’s air-dried cat food contains no preservatives, fillers, or additives.
-  Updated: 2026-08-08T11:09:14Z
+  Updated: 2026-08-11T11:07:37Z
   Total Products: 6
 - [Wet cat food collection](https://www.lovenala.com/collections/wet-cat-food-collection): Cats instinctively like wet cat food because it’s closest to what they would eat in the wild. Meat-first, grain-free wet food for cats is the healthiest, most natural option.
-  Updated: 2026-08-09T11:08:38Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 27
 - [Cat Treats Collection](https://www.lovenala.com/collections/cat-treats-collection): Watch your cat’s eyes light up over Love, Nala’s delicious tube treats! We make these whipped treats from high-quality, natural ingredients. They’re great as a treat or a cat food topper.
-  Updated: 2026-08-08T11:09:14Z
+  Updated: 2026-08-16T11:07:30Z
   Total Products: 14
 
 ## Blogs
@@ -2426,7 +2426,7 @@ We invite you to discover our Air-dried cat food, Cat Treats, Canned Wet Flaked 
 - [Events | Love, Nala](https://www.lovenala.com/pages/events): 
   Updated: 2025-02-26T06:43:31Z
 - [Store Locator | Love, Nala](https://www.lovenala.com/pages/store-locator): 
-  Updated: 2025-02-26T06:46:04Z
+  Updated: 2026-08-11T22:29:52Z
 - [Store Request](https://www.lovenala.com/pages/store-locator-1): Store Locator Radius 50 Find Store Find my location Tag Countries List Map Stores
   Updated: 2024-11-10T22:15:04Z
 - [Subscribe by usage](https://www.lovenala.com/pages/subscription-by-usage): // @media only screen and (min-width:991px){#bottomless-app{padding:2rem}}h1,h2,h3,h4,h5,h6{font-family:"Argy Regular"}body,p,span,div{font-family:...
