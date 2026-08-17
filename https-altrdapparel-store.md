@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-30T09:23:54Z
 - Contact Email: altrdco.support@gmail.com
-- Updated At: 2026-08-10T00:00:36.840Z
+- Updated At: 2026-08-17T00:00:40.276Z
 
 ## Products
 
@@ -841,7 +841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e84e972e05a54db3b232ac1d1128a981.png?v=1783395830
     Price: $63.40 USD
 - [Misery II Oversize Fleeced Hoodie | ALTRD Apparel](https://altrdapparel.store/products/oversize-fleeced-hoodie-1): Thick cotton-poly fleece hoodie in a relaxed oversized drop-shoulder silhouette. Built heavy for cold-weather street style — effortless, dark, and durable.
-  Updated: 2026-08-08T16:05:26Z
+  Updated: 2026-08-16T12:19:33Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1093,7 +1093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a387ca0c991442d68a08dd644fe48b52.png?v=1783495534
     Price: $47.94 USD
 - [Off-the-Shoulder Bell Sleeve Crop Top for Women | ALTRD Apparel](https://altrdapparel.store/products/women-s-off-the-shoulder-bell-sleeve-crop-t-shirt): Bodycon rayon-spandex crop top with off-shoulder neckline and flared bell sleeves. Feminine streetwear with a bold graphic and a sleek, stretchy fit.
-  Updated: 2026-08-07T03:30:42Z
+  Updated: 2026-08-16T12:19:14Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1147,7 +1147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/540172bd66834f7f918c12f15053a2db.png?v=1783495804
     Price: $33.96 USD
 - [Flared Leg Quarter-Zip Jumpsuit for Women | ALTRD Apparel](https://altrdapparel.store/products/womens-tight-flared-leg-quarter-zip-jumpsuit): Nylon-spandex bodycon jumpsuit with a quarter-zip front and flared leg silhouette. Sleek, stretchy, and versatile — from street to studio.
-  Updated: 2026-08-07T03:32:11Z
+  Updated: 2026-08-16T12:18:58Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1169,7 +1169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/81867dad439e4e31a8b86229a3e30b21.png?v=1783495999
     Price: $50.00 USD
 - [Solid Color Knit Maxi Skirt for Women | ALTRD Apparel](https://altrdapparel.store/products/women-s-solid-color-knit-maxi-skirt): Bodycon rayon-spandex maxi skirt with a mid-waist fit and a clean, minimal silhouette. Effortless streetwear that transitions from day to night.
-  Updated: 2026-08-07T03:33:28Z
+  Updated: 2026-08-16T12:18:41Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1191,7 +1191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/28633f7b5dcd4b05b71bca69375c2314.png?v=1783496149
     Price: $40.00 USD
 - [Ruched Cropped Tube Top for Women | ALTRD Apparel](https://altrdapparel.store/products/womens-ruched-cropped-yoga-tube-top): Nylon-spandex ruched crop tube top with a bodycon fit and a sleek, minimal look. Built for yoga, sport, or street — versatile and form-fitting.
-  Updated: 2026-08-07T03:35:09Z
+  Updated: 2026-08-16T12:18:25Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1259,7 +1259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/f91ecea142f24306983cfd81906a4223.png?v=1783496689
     Price: $53.94 USD
 - [Chaos Drawstring Mini Skirt for Women | ALTRD Apparel](https://altrdapparel.store/products/essential-drawstring-skirt): Cotton-poly mini skirt with an elastic drawstring waist and a cropped silhouette. Pairs with the Chaos Hoodie — effortless streetwear from waist down.
-  Updated: 2026-08-09T04:05:13Z
+  Updated: 2026-08-16T12:17:55Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1281,7 +1281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6959d925f11f4369904b11dd48cf4615.png?v=1785195021
     Price: $32.34 USD
 - [Women's Wide Leg Denim Jeans | ALTRD Apparel](https://altrdapparel.store/products/womens-wide-leg-denim-jeans): 430gsm wide-leg denim jeans in a loose mid-waist fit with patchwork detailing. Heavy cotton-blend construction — street-ready bottoms with a relaxed, editorial silhouette.
-  Updated: 2026-08-09T04:05:15Z
+  Updated: 2026-08-16T12:17:39Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1327,7 +1327,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e29fcb8e64b949049bd5e5110363eca2.png?v=1785195708
     Price: $118.34 USD
 - [Chaos Cropped Hoodie for Women | ALTRD Apparel](https://altrdapparel.store/products/essential-cropped-hoodie): Oversized cropped hoodie in cotton-poly blend with a drop-shoulder cut and drawstring waist. Part of the Chaos set — made to mix, match, and move.
-  Updated: 2026-08-09T03:46:02Z
+  Updated: 2026-08-16T12:17:19Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1349,7 +1349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/altrd-apparel-black-cropped-hoodie.jpg?v=1786203961
     Price: $51.14 USD
 - [Punk Vintage Wash Wide Leg Denim Shorts | ALTRD Apparel](https://altrdapparel.store/products/mens-vintage-wash-wide-leg-denim-shorts): Heavy 420gsm wide-leg denim shorts with a vintage wash and loose mid-waist fit. Street-ready bottoms with a punk edge for warm-weather fits.
-  Updated: 2026-08-09T04:05:14Z
+  Updated: 2026-08-16T12:16:46Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1375,7 +1375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3a64dcd334c64e178aba5ab43dd12e6c.png?v=1785196068
     Price: $88.56 USD
 - [Silence Snow Washed Oversized T-Shirt | ALTRD Apparel](https://altrdapparel.store/products/snow-washed-oversized-cotton-t-shirt): 100% cotton snow-washed oversized tee with subtle embroidery and a faded drop-shoulder silhouette. Quiet on the outside, loud in the details.
-  Updated: 2026-08-08T16:05:21Z
+  Updated: 2026-08-16T12:16:29Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1581,7 +1581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/4767c02476eb49e8833fbb43fee983ff.png?v=1785196372
     Price: $53.90 USD
 - [Parental Advisory Heavyweight Hoodie | ALTRD Apparel](https://altrdapparel.store/products/parental-advisory-essential-heavyweight-hoodie): 430gsm cotton-blend oversized hoodie with a raw Parental Advisory graphic. Drop-shoulder silhouette, kangaroo pocket — built heavy for the streets.
-  Updated: 2026-08-09T04:36:29Z
+  Updated: 2026-08-16T12:16:11Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1747,7 +1747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/5bca3219fba4475bbcf564d06d1d0566.png?v=1785312333
     Price: $90.50 USD
 - [Parental Advisory Boxy Oversized T-Shirt | ALTRD Apparel](https://altrdapparel.store/products/boxy-oversized-t-shirt): Heavy 400gsm pure cotton tee with a boxy drop-shoulder cut and bold Parental Advisory graphic. Unisex streetwear built for those who don't ask permission.
-  Updated: 2026-08-09T04:36:30Z
+  Updated: 2026-08-16T12:15:49Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1873,7 +1873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/693203aa452c4a558c760cdb47e5ce51.png?v=1785312693
     Price: $60.00 USD
 - [Silence Mineral Wash Crop T-Shirt for Women | ALTRD Apparel](https://altrdapparel.store/products/women-s-mineral-wash-cotton-crop-t-shirt): Slim-fit 100% cotton crop tee with a mineral wash finish and a clean round neck. Understated streetwear with a soft, worn-in feel.
-  Updated: 2026-08-08T16:10:22Z
+  Updated: 2026-08-16T12:15:29Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1959,7 +1959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/1b34567aea944809a37328d7930293c7.png?v=1785312903
     Price: $42.34 USD
 - [Women's Vintage Wash Distressed Wide Leg Jeans](https://altrdapparel.store/products/women-s-vintage-wash-distressed-wide-leg-jeans): Distressed. Faded. Built to stand out.The ALTRD Vintage Wash Distressed Wide Leg Jeans bring a worn-in, rebellious energy to a wide-leg silhouette. Heavyweight cotton-blend denim with a vintage wash and intentional distressing — every pair carries its own character. The loose, wide-leg cut and mid-waist fit give you a relaxed, confident stance that works with cropped tops, oversized hoodies, or anything in between.These aren’t jeans that try to look lived-in. They just are.Details Cotton blend denim Vintage wash with distressed detailing Wide leg, loose fit Mid-waist Women’s sizing — S through 2XL Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Do not iron over distressed areas
-  Updated: 2026-08-09T04:05:17Z
+  Updated: 2026-08-16T12:15:10Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -1980,8 +1980,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a155223700104b84ae563eb1c08179b1.png?v=1785578163
     Price: $102.52 USD
-- [Fleeced Jogger Sweatpants](https://altrdapparel.store/products/fleeced-jogger-sweatpants): Comfort that doesn't compromise.The ALTRD Fleeced Jogger Sweatpants are built for the days when you want to move easy but still look intentional. Cotton-poly fleece with a relaxed jogger fit, elastic waist, and tapered leg — the kind of sweatpants that work as hard off the couch as they do on the street. Pair them with an oversized hoodie or a graphic tee and you’re done.Soft, warm, and built to last through heavy rotation.Details Cotton-polyester fleece blend Elastic waist with drawstring Relaxed jogger fit, tapered leg Unisex sizing Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print
-  Updated: 2026-08-09T04:05:16Z
+- [Fleeced Jogger Sweatpants](https://altrdapparel.store/products/fleeced-jogger-sweatpants): Comfort that doesn't compromise. The ALTRD Fleeced Jogger Sweatpants are built for the days when you want to move easy but still look intentional. Cotton-poly fleece with a relaxed jogger fit, elastic waist, and tapered leg — the kind of sweatpants that work as hard off the couch as they do on the street. Pair them with an oversized hoodie or a graphic tee and you’re done. Soft, warm, and built to last through heavy rotation. Details Cotton-polyester fleece blend Elastic waist with drawstring Relaxed jogger fit, tapered leg Unisex sizing Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print
+  Updated: 2026-08-16T12:29:17Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2087,7 +2087,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6b7c1a2ce9394063a95374e838d15ae2.png?v=1785578628
     Price: $84.56 USD
 - [Chaos Sun Fade Raw Edge Cotton Shorts](https://altrdapparel.store/products/chaos-sun-fade-raw-edge-cotton-shorts): Faded. Raw. Ready.The ALTRD Chaos Sunfade Raw Edge Cotton Shorts are cut from 100% cotton with a sunfade wash and raw, unfinished hem that gives them a deconstructed, streetwear edge. The kind of shorts that look like they’ve been through something — because that’s the aesthetic. Pair them with the Chaos Cropped Hoodie for a full set, or mix into your rotation with any oversized top.Slight length variation from the raw hem is intentional and part of the design.Details 100% cotton Sunfade wash finish Raw, unfinished hem — slight variation is natural Relaxed fit Unisex sizing Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print or raw hem
-  Updated: 2026-08-08T16:36:32Z
+  Updated: 2026-08-16T12:14:30Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2113,7 +2113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0f01ecd62e8146f89d638e0f44956d32.png?v=1785985759
     Price: $59.52 USD
 - [Women’s U-Neck Yoga Romper](https://altrdapparel.store/products/womens-u-neck-yoga-romper): One piece. All movement.The ALTRD U-Neck Yoga Romper is a streamlined, bodycon one-piece built for movement and versatility. The U-neck cut adds an open, editorial quality to a sporty silhouette — wear it to the gym, a shoot, or anywhere you want a clean, put-together look without the effort of coordinating separates.Soft, stretchy fabric moves with you and holds its shape through long wear.Details Stretch fabric blend U-neck neckline Bodycon, one-piece romper fit Women’s sizing — S through XL Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print
-  Updated: 2026-08-09T01:32:13Z
+  Updated: 2026-08-16T12:13:37Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2151,7 +2151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ddef22a1d3d42e7a22cb305773164c6.png?v=1785988728
     Price: $84.26 USD
 - [Women's Boxy Batwing Sleeve T-Shirt](https://altrdapparel.store/products/women-s-boxy-batwing-sleeve-t-shirt): Dramatic sleeves. Effortless fit.The ALTRD Boxy Batwing Sleeve T-Shirt is a statement silhouette that wears easy. The batwing sleeves create a sweeping, dramatic drape while the boxy cut keeps the overall look relaxed and wearable. 100% cotton construction with a drop shoulder — the kind of top that looks intentional without trying.Wear it tucked into wide-leg pants or let it hang loose over a bodycon skirt for contrast.Details 100% cotton Batwing sleeves with boxy, drop shoulder fit Relaxed, oversized silhouette Women’s sizing — S through XL Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print
-  Updated: 2026-08-09T03:33:50Z
+  Updated: 2026-08-16T12:13:24Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2205,7 +2205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/fb825cd669d54cc9b606afca6497ffeb.png?v=1785989208
     Price: $47.94 USD
 - [Unisex Heavyweight Boxy T-Shirt](https://altrdapparel.store/products/unisex-heavyweight-boxy-t-shirt): The foundation piece.The ALTRD Unisex Heavyweight Boxy T-Shirt is the workhorse of the lineup. 100% cotton at 11.8 oz — substantial, structured, and built to hold a graphic or stand alone. The boxy, drop-shoulder cut gives it a relaxed, oversized silhouette that works across genders and styling approaches.This is the tee you reach for first. Wash after wash, it holds its shape and weight.Details 100% cotton Fabric weight: 11.8 oz/yd² (400 g/m²) — heavyweight Drop shoulder, boxy oversized fit Round neck Unisex sizing — S through 2XL Care Machine wash cold, gentle cycle Do not bleach Tumble dry low Iron on low heat — do not iron over print
-  Updated: 2026-08-09T03:38:31Z
+  Updated: 2026-08-16T12:12:57Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
@@ -2290,6 +2290,724 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/2b392d8b6b9f4d04b432865f939d29bd.png?v=1785990168
     Price: $55.14 USD
+- [Essential Heavyweight Hoodie](https://altrdapparel.store/products/essential-heavyweight-hoodie): Item Number: RW0016Gender: UnisexFabric: 56.44% cotton, 43.56% polyesterFabric Weight: 12.7 oz/yd² (430 g/m²)Fabric Thickness: ThickCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Sporty, Street, Daily Casual, Outdoor, School, Office, Sport, Cotton Blend, Pocket, Long Sleeve, Drop Shoulder, Hooded, Regular, Oversized, Spring, AutumnPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 27.56 70 28.35 72 29.13 74 29.92 76 30.71 78 Shoulder 25.20 64 25.98 66 26.77 68 27.56 70 28.35 72 Chest 25.59 65 26.38 67 27.17 69 27.95 71 28.74 73 Sleeve length 20.87 53 21.26 54 21.65 55 22.05 56 22.44 57
+  Updated: 2026-08-16T12:12:39Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ed03403b7c774eb097e7dfd7664f0867.png?v=1786351158
+  - [Oat Gray / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076179633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dcf9a2631f01493784f55382047c00b5.png?v=1786351158
+    Price: $90.50 USD
+  - [Oat Gray / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076212401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dcf9a2631f01493784f55382047c00b5.png?v=1786351158
+    Price: $90.50 USD
+  - [Oat Gray / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076245169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dcf9a2631f01493784f55382047c00b5.png?v=1786351158
+    Price: $90.50 USD
+  - [Oat Gray / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076277937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dcf9a2631f01493784f55382047c00b5.png?v=1786351158
+    Price: $90.50 USD
+  - [Oat Gray / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076310705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dcf9a2631f01493784f55382047c00b5.png?v=1786351158
+    Price: $90.50 USD
+  - [Blackish Green / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076343473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/914f7ca862fb45658086a85fbed4fc7f.png?v=1786351158
+    Price: $90.50 USD
+  - [Blackish Green / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076376241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/914f7ca862fb45658086a85fbed4fc7f.png?v=1786351158
+    Price: $90.50 USD
+  - [Blackish Green / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076409009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/914f7ca862fb45658086a85fbed4fc7f.png?v=1786351158
+    Price: $90.50 USD
+  - [Blackish Green / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076441777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/914f7ca862fb45658086a85fbed4fc7f.png?v=1786351158
+    Price: $90.50 USD
+  - [Blackish Green / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076474545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/914f7ca862fb45658086a85fbed4fc7f.png?v=1786351158
+    Price: $90.50 USD
+  - [Pink / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076507313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0156b12568fd4b2c965c66da3b1c43dd.png?v=1786351158
+    Price: $90.50 USD
+  - [Pink / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076540081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0156b12568fd4b2c965c66da3b1c43dd.png?v=1786351158
+    Price: $90.50 USD
+  - [Pink / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076572849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0156b12568fd4b2c965c66da3b1c43dd.png?v=1786351158
+    Price: $90.50 USD
+  - [Pink / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076605617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0156b12568fd4b2c965c66da3b1c43dd.png?v=1786351158
+    Price: $90.50 USD
+  - [Pink / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076638385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0156b12568fd4b2c965c66da3b1c43dd.png?v=1786351158
+    Price: $90.50 USD
+  - [White / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076671153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ed03403b7c774eb097e7dfd7664f0867.png?v=1786351158
+    Price: $90.50 USD
+  - [White / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076703921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ed03403b7c774eb097e7dfd7664f0867.png?v=1786351158
+    Price: $90.50 USD
+  - [White / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076736689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ed03403b7c774eb097e7dfd7664f0867.png?v=1786351158
+    Price: $90.50 USD
+  - [White / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076769457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ed03403b7c774eb097e7dfd7664f0867.png?v=1786351158
+    Price: $90.50 USD
+  - [White / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076802225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ed03403b7c774eb097e7dfd7664f0867.png?v=1786351158
+    Price: $90.50 USD
+  - [Dull Red / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076834993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ea2ef6dedc5441482699610f84e76a3.png?v=1786351158
+    Price: $90.50 USD
+  - [Dull Red / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076867761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ea2ef6dedc5441482699610f84e76a3.png?v=1786351158
+    Price: $90.50 USD
+  - [Dull Red / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076900529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ea2ef6dedc5441482699610f84e76a3.png?v=1786351158
+    Price: $90.50 USD
+  - [Dull Red / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076933297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ea2ef6dedc5441482699610f84e76a3.png?v=1786351158
+    Price: $90.50 USD
+  - [Dull Red / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076966065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ea2ef6dedc5441482699610f84e76a3.png?v=1786351158
+    Price: $90.50 USD
+  - [Blue / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836076998833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/2a610038b8054fedb98e412ef524d249.png?v=1786351158
+    Price: $90.50 USD
+  - [Blue / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077031601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/2a610038b8054fedb98e412ef524d249.png?v=1786351158
+    Price: $90.50 USD
+  - [Blue / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077064369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/2a610038b8054fedb98e412ef524d249.png?v=1786351158
+    Price: $90.50 USD
+  - [Blue / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077097137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/2a610038b8054fedb98e412ef524d249.png?v=1786351158
+    Price: $90.50 USD
+  - [Blue / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077129905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/2a610038b8054fedb98e412ef524d249.png?v=1786351158
+    Price: $90.50 USD
+  - [Flower Gray / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077162673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/196ca1dac9d94e239ef54cf6b12cbc57.png?v=1786351158
+    Price: $90.50 USD
+  - [Flower Gray / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077195441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/196ca1dac9d94e239ef54cf6b12cbc57.png?v=1786351158
+    Price: $90.50 USD
+  - [Flower Gray / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077228209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/196ca1dac9d94e239ef54cf6b12cbc57.png?v=1786351158
+    Price: $90.50 USD
+  - [Flower Gray / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077260977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/196ca1dac9d94e239ef54cf6b12cbc57.png?v=1786351158
+    Price: $90.50 USD
+  - [Flower Gray / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077293745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/196ca1dac9d94e239ef54cf6b12cbc57.png?v=1786351158
+    Price: $90.50 USD
+  - [Apricot / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077326513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a3962298bac549fc99dbc1c9ea04ce96.png?v=1786351158
+    Price: $90.50 USD
+  - [Apricot / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077359281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a3962298bac549fc99dbc1c9ea04ce96.png?v=1786351158
+    Price: $90.50 USD
+  - [Apricot / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077392049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a3962298bac549fc99dbc1c9ea04ce96.png?v=1786351158
+    Price: $90.50 USD
+  - [Apricot / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077424817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a3962298bac549fc99dbc1c9ea04ce96.png?v=1786351158
+    Price: $90.50 USD
+  - [Apricot / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077457585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a3962298bac549fc99dbc1c9ea04ce96.png?v=1786351158
+    Price: $90.50 USD
+  - [Light Gray / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077490353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/096e21fb9775445884dc0cfc60cad497.png?v=1786351158
+    Price: $90.50 USD
+  - [Light Gray / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077523121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/096e21fb9775445884dc0cfc60cad497.png?v=1786351158
+    Price: $90.50 USD
+  - [Light Gray / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077555889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/096e21fb9775445884dc0cfc60cad497.png?v=1786351158
+    Price: $90.50 USD
+  - [Light Gray / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077588657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/096e21fb9775445884dc0cfc60cad497.png?v=1786351158
+    Price: $90.50 USD
+  - [Light Gray / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077621425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/096e21fb9775445884dc0cfc60cad497.png?v=1786351158
+    Price: $90.50 USD
+  - [Navy Blue / S](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077654193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e0b534e1784744b08194fa48cca22c2c.png?v=1786351159
+    Price: $90.50 USD
+  - [Navy Blue / M](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077686961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e0b534e1784744b08194fa48cca22c2c.png?v=1786351159
+    Price: $90.50 USD
+  - [Navy Blue / L](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077719729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e0b534e1784744b08194fa48cca22c2c.png?v=1786351159
+    Price: $90.50 USD
+  - [Navy Blue / XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077752497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e0b534e1784744b08194fa48cca22c2c.png?v=1786351159
+    Price: $90.50 USD
+  - [Navy Blue / 2XL](https://altrdapparel.store/products/essential-heavyweight-hoodie?variant=47836077785265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e0b534e1784744b08194fa48cca22c2c.png?v=1786351159
+    Price: $90.50 USD
+- [Oversized Unisex Long Sleeve T-Shirt](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1): Item Number: R00281Gender: UnisexFabric: 100% cottonFabric Weight: 9.0 oz/yd² (305 g/m²)Fabric Thickness: ThinFabric Stretch: Non-StretchCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Casual, Street, Daily Casual, Pure Cotton, Long Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Loose, Autumn, Winter, SpringPrint Size: 40*52cmNotes: Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. XS S M L XL inch cm inch cm inch cm inch cm inch cm Length 27.95 71 28.74 73 29.53 75 30.31 77 31.10 79 Chest 24.02 61 24.80 63 25.59 65 26.38 67 27.17 69 Shoulder 22.44 57 23.23 59 24.02 61 24.80 63 25.59 65 Sleeve length 22.44 57 22.83 58 23.23 59 23.62 60 24.02 61
+  Updated: 2026-08-16T12:12:01Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/bc5449fa29764091b08030a8787526e5.png?v=1786351893
+  - [Brown / XS](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080373937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6ee7bd9e4327422e8b5eacd0549dc639.png?v=1786351893
+    Price: $63.40 USD
+  - [Brown / S](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080406705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6ee7bd9e4327422e8b5eacd0549dc639.png?v=1786351893
+    Price: $63.40 USD
+  - [Brown / M](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080439473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6ee7bd9e4327422e8b5eacd0549dc639.png?v=1786351893
+    Price: $63.40 USD
+  - [Brown / L](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080472241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6ee7bd9e4327422e8b5eacd0549dc639.png?v=1786351893
+    Price: $63.40 USD
+  - [Brown / XL](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080505009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6ee7bd9e4327422e8b5eacd0549dc639.png?v=1786351893
+    Price: $63.40 USD
+  - [Watermalon Red / XS](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080537777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/d6c140123c7548758c57c649e6584185.png?v=1786351894
+    Price: $63.40 USD
+  - [Watermalon Red / S](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080570545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/d6c140123c7548758c57c649e6584185.png?v=1786351894
+    Price: $63.40 USD
+  - [Watermalon Red / M](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080603313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/d6c140123c7548758c57c649e6584185.png?v=1786351894
+    Price: $63.40 USD
+  - [Watermalon Red / L](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080636081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/d6c140123c7548758c57c649e6584185.png?v=1786351894
+    Price: $63.40 USD
+  - [Watermalon Red / XL](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080668849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/d6c140123c7548758c57c649e6584185.png?v=1786351894
+    Price: $63.40 USD
+  - [Navy / XS](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080701617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0b6a5ad5e36948f289bb84c27da3e049.png?v=1786351893
+    Price: $63.40 USD
+  - [Navy / S](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080734385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0b6a5ad5e36948f289bb84c27da3e049.png?v=1786351893
+    Price: $63.40 USD
+  - [Navy / M](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080767153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0b6a5ad5e36948f289bb84c27da3e049.png?v=1786351893
+    Price: $63.40 USD
+  - [Navy / L](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080799921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0b6a5ad5e36948f289bb84c27da3e049.png?v=1786351893
+    Price: $63.40 USD
+  - [Navy / XL](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080832689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0b6a5ad5e36948f289bb84c27da3e049.png?v=1786351893
+    Price: $63.40 USD
+  - [Blackish Green / XS](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080865457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0c33c0edd4734477b6c6458936b6a9db.png?v=1786351893
+    Price: $63.40 USD
+  - [Blackish Green / S](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080898225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0c33c0edd4734477b6c6458936b6a9db.png?v=1786351893
+    Price: $63.40 USD
+  - [Blackish Green / M](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080930993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0c33c0edd4734477b6c6458936b6a9db.png?v=1786351893
+    Price: $63.40 USD
+  - [Blackish Green / L](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080963761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0c33c0edd4734477b6c6458936b6a9db.png?v=1786351893
+    Price: $63.40 USD
+  - [Blackish Green / XL](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836080996529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/0c33c0edd4734477b6c6458936b6a9db.png?v=1786351893
+    Price: $63.40 USD
+  - [Black / XS](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081029297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/bc5449fa29764091b08030a8787526e5.png?v=1786351893
+    Price: $63.40 USD
+  - [Black / S](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081062065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/bc5449fa29764091b08030a8787526e5.png?v=1786351893
+    Price: $63.40 USD
+  - [Black / M](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081094833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/bc5449fa29764091b08030a8787526e5.png?v=1786351893
+    Price: $63.40 USD
+  - [Black / L](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081127601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/bc5449fa29764091b08030a8787526e5.png?v=1786351893
+    Price: $63.40 USD
+  - [Black / XL](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081160369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/bc5449fa29764091b08030a8787526e5.png?v=1786351893
+    Price: $63.40 USD
+  - [Gray Camel / XS](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081193137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6482ac6f4ee0489795f5256a3e143d71.png?v=1786351893
+    Price: $63.40 USD
+  - [Gray Camel / S](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081225905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6482ac6f4ee0489795f5256a3e143d71.png?v=1786351893
+    Price: $63.40 USD
+  - [Gray Camel / M](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081258673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6482ac6f4ee0489795f5256a3e143d71.png?v=1786351893
+    Price: $63.40 USD
+  - [Gray Camel / L](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081291441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6482ac6f4ee0489795f5256a3e143d71.png?v=1786351893
+    Price: $63.40 USD
+  - [Gray Camel / XL](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081324209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/6482ac6f4ee0489795f5256a3e143d71.png?v=1786351893
+    Price: $63.40 USD
+  - [Carbon Gray / XS](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081356977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/1eb5e5b1fdf74feeaf24d5907c36bbad.png?v=1786351893
+    Price: $63.40 USD
+  - [Carbon Gray / S](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081389745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/1eb5e5b1fdf74feeaf24d5907c36bbad.png?v=1786351893
+    Price: $63.40 USD
+  - [Carbon Gray / M](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081422513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/1eb5e5b1fdf74feeaf24d5907c36bbad.png?v=1786351893
+    Price: $63.40 USD
+  - [Carbon Gray / L](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081455281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/1eb5e5b1fdf74feeaf24d5907c36bbad.png?v=1786351893
+    Price: $63.40 USD
+  - [Carbon Gray / XL](https://altrdapparel.store/products/oversized-unisex-long-sleeve-t-shirt-1?variant=47836081488049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/1eb5e5b1fdf74feeaf24d5907c36bbad.png?v=1786351893
+    Price: $63.40 USD
+- [Unisex Oversized T-Shirt](https://altrdapparel.store/products/unisex-oversized-t-shirt): Item Number: RT0086Gender: UnisexFabric: 100% cottonFabric Weight: 8.8 oz/yd² (300 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Sporty, Daily Casual, Outdoor, Sport, Running, School, Office, Pure Cotton, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, SummerPrint Size: 40*52cmEmbroidery Size: 4*4cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 27.95 71 28.74 73 29.53 75 30.31 77 31.10 79 Shoulder 19.69 50 20.87 53 22.05 56 23.23 59 24.41 62 Chest 20.87 53 22.05 56 23.23 59 24.41 62 25.59 65 Sleeve length 8.66 22 8.86 22.5 9.06 23 9.25 23.5 9.45 24
+  Updated: 2026-08-16T12:11:12Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dabcf9d953c24d9fa71e8f4ba7013929.png?v=1786352283
+  - [Sky Blue / S](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088271025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/23f87295e7f740e58d14bea910b83d34.png?v=1786352283
+    Price: $49.50 USD
+  - [Sky Blue / M](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088303793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/23f87295e7f740e58d14bea910b83d34.png?v=1786352283
+    Price: $49.50 USD
+  - [Sky Blue / L](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088336561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/23f87295e7f740e58d14bea910b83d34.png?v=1786352283
+    Price: $49.50 USD
+  - [Sky Blue / XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088369329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/23f87295e7f740e58d14bea910b83d34.png?v=1786352283
+    Price: $49.50 USD
+  - [Sky Blue / 2XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088402097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/23f87295e7f740e58d14bea910b83d34.png?v=1786352283
+    Price: $49.50 USD
+  - [Mild Apricot / S](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088434865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/98075db92da74c98a3a0559c498985ed.png?v=1786352283
+    Price: $49.50 USD
+  - [Mild Apricot / M](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088467633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/98075db92da74c98a3a0559c498985ed.png?v=1786352283
+    Price: $49.50 USD
+  - [Mild Apricot / L](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088500401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/98075db92da74c98a3a0559c498985ed.png?v=1786352283
+    Price: $49.50 USD
+  - [Mild Apricot / XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088533169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/98075db92da74c98a3a0559c498985ed.png?v=1786352283
+    Price: $49.50 USD
+  - [Mild Apricot / 2XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088565937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/98075db92da74c98a3a0559c498985ed.png?v=1786352283
+    Price: $49.50 USD
+  - [White / S](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088598705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dabcf9d953c24d9fa71e8f4ba7013929.png?v=1786352283
+    Price: $49.50 USD
+  - [White / M](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088631473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dabcf9d953c24d9fa71e8f4ba7013929.png?v=1786352283
+    Price: $49.50 USD
+  - [White / L](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088664241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dabcf9d953c24d9fa71e8f4ba7013929.png?v=1786352283
+    Price: $49.50 USD
+  - [White / XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088697009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dabcf9d953c24d9fa71e8f4ba7013929.png?v=1786352283
+    Price: $49.50 USD
+  - [White / 2XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088729777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/dabcf9d953c24d9fa71e8f4ba7013929.png?v=1786352283
+    Price: $49.50 USD
+  - [Apricot / S](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088762545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ea90c738d8844a9bb9772d4b5f180e04.png?v=1786352283
+    Price: $49.50 USD
+  - [Apricot / M](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088795313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ea90c738d8844a9bb9772d4b5f180e04.png?v=1786352283
+    Price: $49.50 USD
+  - [Apricot / L](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088828081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ea90c738d8844a9bb9772d4b5f180e04.png?v=1786352283
+    Price: $49.50 USD
+  - [Apricot / XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088860849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ea90c738d8844a9bb9772d4b5f180e04.png?v=1786352283
+    Price: $49.50 USD
+  - [Apricot / 2XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088893617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/ea90c738d8844a9bb9772d4b5f180e04.png?v=1786352283
+    Price: $49.50 USD
+  - [Coffee / S](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088926385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a44d4e9e525b4091bbbff13aad554d93.png?v=1786352283
+    Price: $49.50 USD
+  - [Coffee / M](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088959153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a44d4e9e525b4091bbbff13aad554d93.png?v=1786352283
+    Price: $49.50 USD
+  - [Coffee / L](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836088991921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a44d4e9e525b4091bbbff13aad554d93.png?v=1786352283
+    Price: $49.50 USD
+  - [Coffee / XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836089024689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a44d4e9e525b4091bbbff13aad554d93.png?v=1786352283
+    Price: $49.50 USD
+  - [Coffee / 2XL](https://altrdapparel.store/products/unisex-oversized-t-shirt?variant=47836089057457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a44d4e9e525b4091bbbff13aad554d93.png?v=1786352283
+    Price: $49.50 USD
+- [Feel Vintage Wash Baggy Denim Shorts](https://altrdapparel.store/products/feel-vintage-wash-baggy-denim-shorts): Item Number: RK0057Gender: UnisexFabric: 91% cotton, 7% polyester, 2% viscoseFabric Weight: 11.4 oz/yd² (385 g/m²)Care Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Vintage, Daily Casual, Holiday, Outdoor, Party, Office, Cotton Blend, Washed, Pocket, Mid Long, Loose, Mid Waist, Autumn, Summer, SpringPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 30.71 78 31.10 79 31.50 80 31.89 81 32.28 82 Waist 14.17 36 14.96 38 15.75 40 16.54 42 17.32 44 Hip 20.47 52 21.26 54 22.05 56 22.83 58 23.62 60
+  Updated: 2026-08-16T19:05:37Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c3dbc551257a46f5b8455fee98985de3.png?v=1786863933
+  - [Blue / S](https://altrdapparel.store/products/feel-vintage-wash-baggy-denim-shorts?variant=47849733488817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c3dbc551257a46f5b8455fee98985de3.png?v=1786863933
+    Price: $94.56 USD
+  - [Blue / M](https://altrdapparel.store/products/feel-vintage-wash-baggy-denim-shorts?variant=47849733521585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c3dbc551257a46f5b8455fee98985de3.png?v=1786863933
+    Price: $94.56 USD
+  - [Blue / L](https://altrdapparel.store/products/feel-vintage-wash-baggy-denim-shorts?variant=47849733554353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c3dbc551257a46f5b8455fee98985de3.png?v=1786863933
+    Price: $94.56 USD
+  - [Blue / XL](https://altrdapparel.store/products/feel-vintage-wash-baggy-denim-shorts?variant=47849733587121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c3dbc551257a46f5b8455fee98985de3.png?v=1786863933
+    Price: $94.56 USD
+  - [Blue / 2XL](https://altrdapparel.store/products/feel-vintage-wash-baggy-denim-shorts?variant=47849733619889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c3dbc551257a46f5b8455fee98985de3.png?v=1786863933
+    Price: $94.56 USD
+- [Stay altrd Snow Washed Sleeveless Hoodie](https://altrdapparel.store/products/stay-altrd-snow-washed-sleeveless-hoodie): Item Number: RU0093Gender: MenFabric: 100% cottonFabric Weight: 9.4 oz/yd² (320 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Street, Vintage, Daily Casual, Outdoor, School, Pure Cotton, Drawstring, Washed, Sleeveless, Hooded, Regular, Loose, Spring, Summer, AutumnPrint Size: 40*52cmNotes: Batch variations are normal due to factors like temperature and materials, and we strive to minimize these differences as much as possible. We appreciate your understanding. S M L XL inch cm inch cm inch cm inch cm Length 27.17 69 27.95 71 28.74 73 29.53 75 Shoulder 21.26 54 22.05 56 22.83 58 23.62 60 Chest 22.05 56 22.83 58 23.62 60 24.41 62
+  Updated: 2026-08-16T19:14:40Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/054fdf8f60c04cf29762ae1930f7f209.png?v=1786864473
+  - [Black / S](https://altrdapparel.store/products/stay-altrd-snow-washed-sleeveless-hoodie?variant=47849741156529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/054fdf8f60c04cf29762ae1930f7f209.png?v=1786864473
+    Price: $71.14 USD
+  - [Black / M](https://altrdapparel.store/products/stay-altrd-snow-washed-sleeveless-hoodie?variant=47849741189297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/054fdf8f60c04cf29762ae1930f7f209.png?v=1786864473
+    Price: $71.14 USD
+  - [Black / L](https://altrdapparel.store/products/stay-altrd-snow-washed-sleeveless-hoodie?variant=47849741222065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/054fdf8f60c04cf29762ae1930f7f209.png?v=1786864473
+    Price: $71.14 USD
+  - [Black / XL](https://altrdapparel.store/products/stay-altrd-snow-washed-sleeveless-hoodie?variant=47849741254833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/054fdf8f60c04cf29762ae1930f7f209.png?v=1786864473
+    Price: $71.14 USD
+- [Parental Advisory Women’s Tencel Wide Leg Pants](https://altrdapparel.store/products/parental-advisory-womens-tencel-wide-leg-pants): Item Number: WB0082Gender: WomenFabric: 30% tencel, 25% cotton, 25% bamboo fiber, 20% linenFabric Weight: 8.8 oz/yd² (300 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Daily Casual, Home, Outdoor, Holiday, Washed, Button, Regular, Loose, Spring, Summer, AutumnPrint Size: 40*52cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 39.37 100 39.76 101 40.16 102 40.55 103 40.94 104 Waist 12.80 32.5 13.39 34 13.98 35.5 14.57 37 15.16 38.5 Hip 18.70 47.5 19.29 49 19.88 50.5 20.47 52 21.06 53.5
+  Updated: 2026-08-16T19:38:38Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ce7ed5317f44cbb95bac4280045bd6e.png?v=1786865913
+  - [Black / S](https://altrdapparel.store/products/parental-advisory-womens-tencel-wide-leg-pants?variant=47849757474993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ce7ed5317f44cbb95bac4280045bd6e.png?v=1786865913
+    Price: $106.96 USD
+  - [Black / M](https://altrdapparel.store/products/parental-advisory-womens-tencel-wide-leg-pants?variant=47849757507761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ce7ed5317f44cbb95bac4280045bd6e.png?v=1786865913
+    Price: $106.96 USD
+  - [Black / L](https://altrdapparel.store/products/parental-advisory-womens-tencel-wide-leg-pants?variant=47849757540529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ce7ed5317f44cbb95bac4280045bd6e.png?v=1786865913
+    Price: $106.96 USD
+  - [Black / XL](https://altrdapparel.store/products/parental-advisory-womens-tencel-wide-leg-pants?variant=47849757573297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ce7ed5317f44cbb95bac4280045bd6e.png?v=1786865913
+    Price: $106.96 USD
+  - [Black / 2XL](https://altrdapparel.store/products/parental-advisory-womens-tencel-wide-leg-pants?variant=47849757606065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/3ce7ed5317f44cbb95bac4280045bd6e.png?v=1786865913
+    Price: $106.96 USD
+- [Radioactive Boxy Oversized T-Shirt](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt): Item Number: RT0080Gender: UnisexFabric: 100% cottonFabric Weight: 11.8 oz/yd² (400 g/m²)Fabric Thickness: ModerateCare Instructions: Machine wash at 30°C (gentle cycle); Do not bleach; Tumble dry low; Iron at low temperature, avoid ironing on print; Do not dry cleanFeatures: Basics, Casual, Sporty, Daily Casual, Outdoor, Sport, School, Office, Pure Cotton, Short Sleeve, Drop Shoulder, Round Neck / O-Neck, Regular, Oversized, SummerPrint Size: 40*52cmEmbroidery Size: 4*4cmNotes: Minor batch differences can occur during blank garment production due to variations in fabric, dye and processing. This is common in apparel manufacturing, and we work hard to keep every item consistent. S M L XL 2XL inch cm inch cm inch cm inch cm inch cm Length 25.59 65 26.38 67 27.17 69 27.95 71 28.74 73 Shoulder 22.44 57 23.23 59 24.02 61 24.80 63 25.59 65 Chest 24.02 61 24.80 63 25.59 65 26.38 67 27.17 69 Sleeve length 8.86 22.5 9.06 23 9.25 23.5 9.45 24 9.65 24.5
+  Updated: 2026-08-16T19:45:40Z
+  Vendor: ODMPOD
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/5cd13ff4f5264369811df131b54a45c9.png?v=1786866561
+  - [Sky Blue / S](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759375537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c42c421c36e7417bb80121aaf0290c22.png?v=1786866561
+    Price: $67.10 USD
+  - [Sky Blue / M](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759408305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c42c421c36e7417bb80121aaf0290c22.png?v=1786866561
+    Price: $67.10 USD
+  - [Sky Blue / L](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759441073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c42c421c36e7417bb80121aaf0290c22.png?v=1786866561
+    Price: $67.10 USD
+  - [Sky Blue / XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759473841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c42c421c36e7417bb80121aaf0290c22.png?v=1786866561
+    Price: $67.10 USD
+  - [Sky Blue / 2XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759506609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/c42c421c36e7417bb80121aaf0290c22.png?v=1786866561
+    Price: $67.10 USD
+  - [Oat Gray / S](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759539377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/8b832ce318de4a9e8598b6a1c791abdb.png?v=1786866561
+    Price: $67.10 USD
+  - [Oat Gray / M](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759572145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/8b832ce318de4a9e8598b6a1c791abdb.png?v=1786866561
+    Price: $67.10 USD
+  - [Oat Gray / L](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759604913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/8b832ce318de4a9e8598b6a1c791abdb.png?v=1786866561
+    Price: $67.10 USD
+  - [Oat Gray / XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759637681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/8b832ce318de4a9e8598b6a1c791abdb.png?v=1786866561
+    Price: $67.10 USD
+  - [Oat Gray / 2XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759670449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/8b832ce318de4a9e8598b6a1c791abdb.png?v=1786866561
+    Price: $67.10 USD
+  - [Mild Apricot / S](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759703217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a8668fbd4b5d4e509539e5a741c84c65.png?v=1786866561
+    Price: $67.10 USD
+  - [Mild Apricot / M](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759735985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a8668fbd4b5d4e509539e5a741c84c65.png?v=1786866561
+    Price: $67.10 USD
+  - [Mild Apricot / L](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759768753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a8668fbd4b5d4e509539e5a741c84c65.png?v=1786866561
+    Price: $67.10 USD
+  - [Mild Apricot / XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759801521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a8668fbd4b5d4e509539e5a741c84c65.png?v=1786866561
+    Price: $67.10 USD
+  - [Mild Apricot / 2XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759834289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a8668fbd4b5d4e509539e5a741c84c65.png?v=1786866561
+    Price: $67.10 USD
+  - [White / S](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759867057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/5cd13ff4f5264369811df131b54a45c9.png?v=1786866561
+    Price: $67.10 USD
+  - [White / M](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759899825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/5cd13ff4f5264369811df131b54a45c9.png?v=1786866561
+    Price: $67.10 USD
+  - [White / L](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759932593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/5cd13ff4f5264369811df131b54a45c9.png?v=1786866561
+    Price: $67.10 USD
+  - [White / XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759965361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/5cd13ff4f5264369811df131b54a45c9.png?v=1786866561
+    Price: $67.10 USD
+  - [White / 2XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849759998129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/5cd13ff4f5264369811df131b54a45c9.png?v=1786866561
+    Price: $67.10 USD
+  - [Flower Gray / S](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760030897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/00062ce7cd0b464f8b284130b9a3cee8.png?v=1786866561
+    Price: $67.10 USD
+  - [Flower Gray / M](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760063665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/00062ce7cd0b464f8b284130b9a3cee8.png?v=1786866561
+    Price: $67.10 USD
+  - [Flower Gray / L](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760096433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/00062ce7cd0b464f8b284130b9a3cee8.png?v=1786866561
+    Price: $67.10 USD
+  - [Flower Gray / XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760129201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/00062ce7cd0b464f8b284130b9a3cee8.png?v=1786866561
+    Price: $67.10 USD
+  - [Flower Gray / 2XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760161969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/00062ce7cd0b464f8b284130b9a3cee8.png?v=1786866561
+    Price: $67.10 USD
+  - [Army Green / S](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760194737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a6ba207ba388478783a65194b2063005.png?v=1786866561
+    Price: $67.10 USD
+  - [Army Green / M](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760227505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a6ba207ba388478783a65194b2063005.png?v=1786866561
+    Price: $67.10 USD
+  - [Army Green / L](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760260273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a6ba207ba388478783a65194b2063005.png?v=1786866561
+    Price: $67.10 USD
+  - [Army Green / XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760293041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a6ba207ba388478783a65194b2063005.png?v=1786866561
+    Price: $67.10 USD
+  - [Army Green / 2XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760325809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/a6ba207ba388478783a65194b2063005.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Gray / S](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760358577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/db72e07a61ab45baa0bcb0f638ea61fd.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Gray / M](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760391345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/db72e07a61ab45baa0bcb0f638ea61fd.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Gray / L](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760424113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/db72e07a61ab45baa0bcb0f638ea61fd.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Gray / XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760456881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/db72e07a61ab45baa0bcb0f638ea61fd.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Gray / 2XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760489649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/db72e07a61ab45baa0bcb0f638ea61fd.png?v=1786866561
+    Price: $67.10 USD
+  - [Olive Yellow / S](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760522417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e7c323a9141d46158cfb6fcc025bba03.png?v=1786866561
+    Price: $67.10 USD
+  - [Olive Yellow / M](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760555185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e7c323a9141d46158cfb6fcc025bba03.png?v=1786866561
+    Price: $67.10 USD
+  - [Olive Yellow / L](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760587953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e7c323a9141d46158cfb6fcc025bba03.png?v=1786866561
+    Price: $67.10 USD
+  - [Olive Yellow / XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760620721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e7c323a9141d46158cfb6fcc025bba03.png?v=1786866561
+    Price: $67.10 USD
+  - [Olive Yellow / 2XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760653489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/e7c323a9141d46158cfb6fcc025bba03.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Red / S](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760686257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/02e73cdc04e84ec19b83dd8230cb29d6.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Red / M](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760719025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/02e73cdc04e84ec19b83dd8230cb29d6.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Red / L](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760751793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/02e73cdc04e84ec19b83dd8230cb29d6.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Red / XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760784561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/02e73cdc04e84ec19b83dd8230cb29d6.png?v=1786866561
+    Price: $67.10 USD
+  - [Dark Red / 2XL](https://altrdapparel.store/products/radioactive-boxy-oversized-t-shirt?variant=47849760817329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0738/1572/0113/files/02e73cdc04e84ec19b83dd8230cb29d6.png?v=1786866561
+    Price: $67.10 USD
 
 ## Collections
 
@@ -2312,8 +3030,8 @@
   Updated: 2026-08-06T02:53:56Z
   Total Products: 6
 - [All Products (ChatGPT-AI Product Description)](https://altrdapparel.store/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-08-06T12:57:26Z
-  Total Products: 31
+  Updated: 2026-08-16T07:46:05Z
+  Total Products: 38
 
 ## Blogs
 
@@ -2341,6 +3059,15 @@
     Author: ALTRD Apparel
   - [FAQs About Alternative Fashion and Choosing the Right Goth Apparel](https://altrdapparel.store/blogs/news/faqs-about-alternative-fashion-and-choosing-the-right-goth-apparel): FAQs About Alternative Fashion and Choosing the Right Goth Apparel
     Updated: 2026-08-09T00:12:54Z
+    Author: ALTRD Apparel
+  - [Essential Checklists for Embracing Alternative Fashion and Goth Apparel](https://altrdapparel.store/blogs/news/essential-checklists-for-embracing-alternative-fashion-and-goth-apparel): Essential Checklists for Embracing Alternative Fashion and Goth Apparel
+    Updated: 2026-08-10T03:03:07Z
+    Author: ALTRD Apparel
+  - [Debunking Myths: Understanding Goth Apparel in the Alternative Fashion World](https://altrdapparel.store/blogs/news/debunking-myths-understanding-goth-apparel-in-the-alternative-fashion-world): Debunking Myths: Understanding Goth Apparel in the Alternative Fashion World
+    Updated: 2026-08-13T00:26:39Z
+    Author: ALTRD Apparel
+  - [Trending Now: Alternative Fashion and the Rise of Goth Apparel in 2026](https://altrdapparel.store/blogs/news/trending-now-alternative-fashion-and-the-rise-of-goth-apparel-in-2026): Trending Now: Alternative Fashion and the Rise of Goth Apparel in 2026
+    Updated: 2026-08-16T00:12:41Z
     Author: ALTRD Apparel
 
 ## Store Pages
