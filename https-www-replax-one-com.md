@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2026-05-18T17:02:00Z
 - Contact Email: replaxstore@gmail.com
-- Updated At: 2026-08-10T00:00:39.944Z
+- Updated At: 2026-08-17T00:00:44.007Z
 
 REPLAX-ONE es una tienda online especializada en productos para el cuidado, bienestar, higiene y comodidad de perros y gatos en Colombia.
 
