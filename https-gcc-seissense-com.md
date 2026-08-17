@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-12-01T14:08:17Z
 - Contact Email: hello@seissense.com
-- Updated At: 2026-08-10T16:00:27.443Z
+- Updated At: 2026-08-17T16:00:27.961Z
 
 ## Products
 
@@ -73,7 +73,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126214_Pollock_Legging_Charcoal_02_1200x1800_e8c4350e-2b9c-4c7c-8135-db4e480ff70d.webp?v=1781070149
     Price: AED 260.00 AED
 - [Marshall Basic Tee](https://gcc.seissense.com/products/marshall-basic-tee): Blending classic design with high-performance features, the MARSHALL Basic Tee is crafted from a soft Supima cotton and modal blend to provide comfort, breathability, and all-day wear. The lightweight fabric offers moisture-wicking and quick-dry technology, keeping you cool and comfortable throughout your day. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance without compromising the environment. With Fuze™, you can enjoy benefits such as antimicrobial protection, odour control, UV refraction, faster drying, and cooling power. The fabric also features four-way stretch for ease of movement and a perfect fit.
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-12T16:07:03Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
@@ -271,7 +271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012613_MARSHALL_BASIC_TEE_SUMMER_SUN_BOYS_04_1200x1800_7253fb9a-9eb3-4dac-b450-95622c4e8483.webp?v=1781071012
     Price: AED 120.00 AED
 - [Marshall Relaxed Hooded Tee](https://gcc.seissense.com/products/marshall-relaxed-hooded-tee): Blending relaxed design with high-performance features, the MARSHALL Relaxed Hooded Tee is crafted from a soft Supima cotton and modal blend to provide all-day comfort, breathability, and effortless style. The lightweight fabric offers moisture-wicking and quick-dry technology to keep you comfortable whether you’re training, lounging, or on the move. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance without compromising the environment. With Fuze™, you can enjoy benefits such as antimicrobial protection, odour control, UV refraction, faster drying, and cooling power. The fabric also features four-way stretch for ease of movement and a relaxed, comfortable fit.
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-12T16:07:04Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
@@ -373,7 +373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012614_MARSHALL_HOODED_TEE_GLACIER_GIRLS_02_1200x1800_c60511f2-fc3f-41c4-9b30-ffd6ba70f32d.webp?v=1781071217
     Price: AED 200.00 AED
 - [Marshall Relaxed Shorts](https://gcc.seissense.com/products/marshall-relaxed-shorts): Blending relaxed design with high-performance features, the MARSHALL Relaxed Shorts are crafted from a soft Supima cotton and modal blend to provide comfort, breathability, and effortless movement. The lightweight fabric offers moisture-wicking and quick-dry technology to keep you comfortable during workouts, lounging, or daily activities. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance without compromising the environment. With Fuze™, you can enjoy benefits such as antimicrobial protection, odour control, UV refraction, faster drying, and cooling power. The fabric also features four-way stretch for ease of movement and a relaxed, comfortable fit.
-  Updated: 2026-08-06T09:56:03Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
@@ -571,7 +571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012615_MARSHALL_SHORTS_SUMMER_SUN_BOYS_02_1200x1800_3df7a8a0-1a8e-4748-a14a-710a2f7247d4.webp?v=1781071436
     Price: AED 160.00 AED
 - [Kids UV Hoodie](https://gcc.seissense.com/products/kids-uv-hoodie): Blending sleek design with high-performance features, the UV Hoodie is crafted from recycled fibers to provide comfort, flexibility, and sustainability in every movement. The lightweight fabric offers moisture-wicking and quick-dry technology to keep you comfortable and fresh during workouts or outdoor activities. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance while protecting the environment. With Fuze™, you can enjoy benefits such as antimicrobial protection, odour control, UV refraction, faster drying, cooling power, and built-in UV protection. The hoodie is made from recycled fibers for a sustainable, eco-conscious choice.
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
@@ -601,7 +601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012631_KIDS_UV_HOODIE_SAND_GIRLS_02_1200x1800_6b6b3cb6-5d6f-415c-a454-a6908e3ad736.webp?v=1781071468
     Price: AED 20.00 AED
 - [Kids Jogger](https://gcc.seissense.com/products/kids-jogger): Blending comfort with high-performance features, the Kids Jogger is crafted from a soft Supima cotton and modal blend to provide all-day comfort, breathability, and flexibility for active kids. The lightweight fabric offers moisture-wicking and quick-dry technology to keep little ones fresh and comfortable during play, sports, or everyday activities. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that enhances performance without compromising the environment. With Fuze™, the fabric delivers antimicrobial protection, odour control, UV refraction, faster drying, cooling power, and four-way stretch for ease of movement and a comfortable fit.
-  Updated: 2026-08-06T09:55:58Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
@@ -631,7 +631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012632_KIDS_JOGGER_SAND_BOYS_01_1200x1800_8ffee246-c1b5-42d7-a333-5016c01d3948.webp?v=1781071485
     Price: AED 20.00 AED
 - [Morisot Men's Endurance Fitted Jacket](https://gcc.seissense.com/products/morisot-mens-endurance-fitted-jacket): A fitted training jacket built to move, breathe, and last.Made from recycled fibers with FUZE™ technology, the Morisot is designed for training and outdoor sessions that push into every direction. Four-way stretch keeps the fit close without restricting, while moisture-wicking fabric dries fast and stays fresh between wears. Recycled fibers — Performance construction with a lower footprint FUZE™ technology — Antimicrobial protection and odour control UV refraction — Added protection during outdoor sessions Four-way stretch — Full freedom of movement Quick-dry — Stays fresh through back-to-back sessions Perfect for: Training, outdoor workouts, layering, everyday wearMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-08-06T09:55:57Z
+  Updated: 2026-08-12T16:07:07Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -693,7 +693,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012632MarisotFittedJacketCharcoal_02_1200x1800_b4dba620-cffd-4044-8017-6edcb8a8374a.jpg?v=1781071552
     Price: AED 400.00 AED
 - [Takashi Jacket](https://gcc.seissense.com/products/takashi-jacket): A modern jacket built for performance and everyday wear.Made from recycled fibers, viscose and elastane with FUZE™ technology, the Takashi is designed for training and casual wear alike. Moisture-wicking fabric keeps you fresh through the session, and quick-dry performance means it's ready to wear again sooner. Recycled fibers, viscose and elastane — Comfort, stretch and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control UV refraction — Extra protection outdoors Quick-dry — Fresh and ready faster Durable construction — Built to hold up wear after wear Perfect for: Training, casual wear, layering, everyday useMaterials: Recycled fibers, viscose, elastane with FUZE™ 
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-16T06:29:08Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -727,7 +727,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012643TakashiJacketClay_2_1200x1800_9fee267f-6ee9-4398-82e1-07f29cbd76e7.webp?v=1781071594
     Price: AED 430.00 AED
 - [Vincente Long Sleeve](https://gcc.seissense.com/products/vincente-long-sleeve): A slim-fit long sleeve built for runs that demand full coverage.Made from recycled nylon and elastane, the Vincente is designed for training and running sessions where stretch and coverage matter equally. The slim fit stays aerodynamic without restricting, and moisture-wicking fabric manages sweat mile after mile. Recycled nylon and elastane — Stretch and sustainability built in Slim fit — Aerodynamic without restriction Long sleeve — Full arm coverage for cooler conditions Moisture-wicking — Manages sweat through the run Sepia colourway — A warm tone that stands apart from standard kit Perfect for: Running, training, cooler weather sessionsMaterials: Recycled nylon and elastane
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -760,8 +760,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012648VincenteLongSleeveSepia_02_1200x1800_dff27c78-4f27-4bd5-a5d0-e6fe46bc5965.webp?v=1781071640
     Price: AED 340.00 AED
-- [Carter Shorts](https://gcc.seissense.com/products/carter-shorts): Durable training shorts built for performance and everyday wear.Made from recycled fibers and elastane with a ripstop structure, the Carter is designed for training and outdoor activity that demands durability. FUZE™ technology keeps them fresh through every session, and quick-dry fabric means less time waiting between wears. Recycled fibers and elastane — Comfort and sustainability together Ripstop fabric — Built to handle wear and tear FUZE™ technology — Antimicrobial protection and odour control Quick-dry — Ready again sooner UV refraction — Added protection outdoors Perfect for: Training, outdoor activity, everyday wearMaterials: Recycled fibers and elastane, ripstop structure with FUZE™ 
-  Updated: 2026-08-06T09:56:02Z
+- [Carter Shorts](https://gcc.seissense.com/products/carter-shorts): Durable training shorts built for performance and everyday wear. Made from recycled fibers and elastane with a ripstop structure, the Carter is designed for training and outdoor activity that demands durability. FUZE™ technology keeps them fresh through every session, and quick-dry fabric means less time waiting between wears. Recycled fibers and elastane — Comfort and sustainability together Ripstop fabric — Built to handle wear and tear FUZE™ technology — Antimicrobial protection and odour control Quick-dry — Ready again sooner UV refraction — Added protection outdoors Perfect for: Training, outdoor activity, everyday wear Materials: Recycled fibers and elastane, ripstop structure with FUZE™ treatmentDisclaimer: The top worn by the model is not yet launched.
+  Updated: 2026-08-17T09:08:24Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -795,7 +795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012649CarterShortsSepia_02_1200x1800_78232609-b247-4de7-bd3f-7d60f6b491e3.webp?v=1781071654
     Price: AED 300.00 AED
 - [Francis Active Fitted Long Sleeve Tee](https://gcc.seissense.com/products/francis-active-fitted-long-sleeve-tee): A fitted long sleeve built for training in every condition.Made from recycled fibers and elastane with FUZE™ technology, the Francis is designed for training sessions and active days that need full coverage. Moisture-wicking fabric keeps you fresh, and the fitted cut moves with you without getting in the way. Recycled fibers and elastane — Performance and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control Fitted cut — Moves with you, not against you Quick-dry — Fresh and ready faster UV refraction — Extra protection during outdoor sessions Perfect for: Training, active days, layeringMaterials: Recycled fibers and elastane with FUZE™ 
-  Updated: 2026-08-06T09:55:57Z
+  Updated: 2026-08-12T16:07:07Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -857,7 +857,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012672FrancisActiveTeeCharcoal_02_1200x1800_85ef204a-2fd0-4365-b868-6d50355c1446.webp?v=1781071704
     Price: AED 170.00 AED
 - [Hirst Running Slim Fit Short Sleeve Tee](https://gcc.seissense.com/products/hirst-running-slim-fit-short-sleeve-tee): A slim-fit running tee built for the miles that matter.Made from recycled fibers and elastane, the Hirst Short Sleeve is designed for runners who want stretch without extra weight. The slim fit stays out of the way on every stride, and moisture-wicking fabric pulls sweat away on hot runs. Part of the Valentine collection in six bold colourways. Recycled fibers and elastane — Stretch and sustainability together Slim fit — Aerodynamic without restricting the stride Moisture-wicking — Manages sweat on hot runs Short sleeve — Lightweight coverage for warmer sessions Six colourways — Fiery Red, Spicy Mustard, Cobalt Blue and more Perfect for: Running, training, warm weather sessionsMaterials: Recycled fibers and elastane
-  Updated: 2026-08-06T09:56:03Z
+  Updated: 2026-08-16T06:29:11Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1031,7 +1031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012673_Hirst_Short_Sleeve_Tee_Dark_Suntan_01.jpg?v=1781071784
     Price: AED 160.00 AED
 - [Hirst Running Slim Fit Long Sleeve Tee](https://gcc.seissense.com/products/hirst-running-slim-fit-long-sleeve-tee): A slim-fit running tee built for full coverage on every run.Made from recycled fibers and elastane, the Hirst Long Sleeve delivers a second-skin fit that never restricts your stride. Moisture-wicking fabric manages sweat over distance, and long sleeves add coverage for cooler conditions. Part of the Valentine collection. Recycled fibers and elastane — Stretch and sustainability in one fabric Slim fit — Close to the body without restricting movement Moisture-wicking — Manages sweat on long runs Long sleeve — Full arm coverage for cooler conditions Valentine collection colourways — Fiery Red, Spicy Mustard, Cobalt Blue and more Perfect for: Running, training, cooler weatherMaterials: Recycled fibers and elastane
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1239,7 +1239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126118_Jackson_Mid_Impact_Bra_Merlot_06_1200x1800_6b4e9555-df79-4371-ae4c-70ddc16714cd.webp?v=1781071878
     Price: AED 170.00 AED
 - [Morisot Endurance Fitted Jacket](https://gcc.seissense.com/products/morisot-endurance-fitted-jacket-2): A fitted jacket built to move with you through every session.Made from recycled fibers and elastane with FUZE™ technology, the Morisot delivers four-way stretch and tested stretch-recovery for training and outdoor workouts. Moisture-wicking, quick-dry fabric keeps you supported and fresh throughout. Recycled fibers and elastane — Performance and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control Four-way stretch — Full freedom of movement Stretch-and-recovery tested — Holds its shape wear after wear Quick-dry — Fresh through back-to-back sessions Perfect for: Training, outdoor workouts, layeringMaterials: Recycled fibers and elastane with FUZE™ 
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-12T16:07:04Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1273,7 +1273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126120_Morisot_Jacket_Charcoal_02_1200x1800_f047107b-de33-4267-bcf6-ac14d701d7af.webp?v=1781071893
     Price: AED 390.00 AED
 - [Nelson Sports Cap](https://gcc.seissense.com/products/nelson-sports-cap-1): A sports cap built to match everything you own.Made from recycled fibers, the Nelson has a structured front panel and adjustable back strap for a fit that actually works. Nine colourways, including the full Valentine collection run. Recycled fibers — Sustainable construction from brim to strap Structured front panel — Holds its shape through use and wash Adjustable back strap — One size that actually fits Nine colourways — Core colours plus Valentine collection tones Unisex — Works for everyone Perfect for: Training, running, everyday wearMaterials: Recycled fibers
-  Updated: 2026-08-06T10:22:47Z
+  Updated: 2026-08-16T06:29:10Z
   Vendor: Seissense
   Product Type: Accessories
   Availability: Available
@@ -1315,7 +1315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605_Cobalt_Blue_Cap_01.jpg?v=1781071972
     Price: AED 100.00 AED
 - [Bernard Men's Tight](https://gcc.seissense.com/products/bernard-mens-tight-): Blending sleek design with high-performance features, the BERNARD Men's Tight is crafted from recycled fibers to provide comfort, flexibility, and sustainability in every movement. The lightweight fabric offers moisture-wicking and quick-dry technology, keeping you fresh and supported during workouts or daily activities. Can be worn on its own or layered underneath shorts. Best for all types of workouts. Fuze™ Technology – Made for people and the planetFuze™ is a sustainable textile  that combines performance with environmental responsibility. With Fuze™, you can enjoy benefits such as antimicrobial protection, odour control, UV refraction, faster drying, and cooling power. The fabric also features four-way stretch and has been tested for stretch and recovery to ensure a supportive, high-performance fit wear after wear.
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1377,7 +1377,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012607_Bernard_Tights_Cobalt_Blue_02.jpg?v=1781072055
     Price: AED 190.00 AED
 - [Granary Men's Basic Short](https://gcc.seissense.com/products/granary-mens-basic-short-x): The short you wear when you're not thinking about what to wear. The Granary Men's Basic Short is built from recycled fibers, lightweight and breathable, and comes in seven colourways including the Valentine collection colours. Nothing complicated about it. Recycled fibers. Performance fabric that doesn't cost the environment. Lightweight and breathable. Stays comfortable through heat and intensity. Elastic waist with drawcord. Adjustable fit that holds. Seven colourways. Includes Fiery Red, Spicy Mustard, Cobalt Blue and more from the Valentine collection.
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-12T16:07:07Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1551,7 +1551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012624_Granary_Basic_Short_Spicy_Mustard_02.jpg?v=1781072134
     Price: AED 200.00 AED
 - [Sense Zebra Reflective Running Leggings](https://gcc.seissense.com/products/sense-zebra-reflective-running-leggings): Reflective running leggings built to move and hold their shape.Made from recycled fibers and elastane with FUZE™ technology, the Sense Zebra is designed for runs and high-intensity training in low light. Four-way stretch and tested stretch-recovery keep the fit consistent wear after wear, while moisture-wicking fabric keeps you dry through the distance. Recycled fibers and elastane — Performance and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control Four-way stretch — Full freedom of movement Stretch-and-recovery tested — Holds its shape wear after wear Moisture-wicking — Manages sweat through the run Perfect for: Running, high-intensity training, low-light sessionsMaterials: Recycled fibers and elastane with FUZE™ 
-  Updated: 2026-08-06T09:56:03Z
+  Updated: 2026-08-12T16:07:07Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1585,7 +1585,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012675SenseZebraReflectiveLeggingsCharcoal_02_1200x1800_8fd8e2a2-1dec-4bd7-80ec-bab09cf7876a.webp?v=1781072155
     Price: AED 250.00 AED
 - [Sanzio Kaftan Abstract Ivy Print](https://gcc.seissense.com/products/sanzio-kaftan-ivy-deconstructed-print): A limited-edition kaftan with a print you won't find twice.Made from recycled fibers, the Sanzio brings an abstract, in-house illustrated ivy print to a flowing kaftan silhouette. Relaxed and free-moving, it's built for warm climates, and once it's gone, it won't be back. Limited edition Ivy Deconstructed print — Illustrated in-house, exclusive to Seissense Recycled fibers — Sustainable construction throughout Flowing kaftan silhouette — Relaxed and free-moving One colourway — Not being restocked Perfect for: Beach days, travel, warm climatesMaterials: Recycled fibers
-  Updated: 2026-08-06T09:56:02Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1633,51 +1633,39 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012519HOCKNEYCREWSOCKCORESTRIPE7.jpg?v=1781072221
     Price: AED 70.00 AED
 - [Auguste Striped Beanie](https://gcc.seissense.com/products/auguste-beanie-striped): A limited-edition beanie with a story of its own.The Striped is a limited-edition version of the core Auguste beanie, made from 100% wool with a signature stripe. One size, one colourway, while it lasts. 100% wool — Real insulation, not just warmth on paper Limited edition stripe — Not coming back once it's gone Free size — Fits everyone Unisex — No exceptions Perfect for: Cold mornings, travel, everyday wearMaterials: 100% wool
-  Updated: 2026-08-06T09:55:58Z
+  Updated: 2026-08-12T16:07:07Z
   Vendor: Seissense
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012518AUGUSTEBEANIECORESTRIPE7.jpg?v=1781072233
   Price: AED 170.00 AED
-- [Seissense Gift Card](https://gcc.seissense.com/products/seissense-gift-card): If you are shopping for someone else but not sure what to give them, give them the gift of choice with a Seissense Gift Card. Please be aware, we do not send physical Gift Cards. Seissense Gift Cards are delivered by email and contain instructions to redeem them at checkout. Available in £10, £25, £50, £100 and £200 options.  codes cannot be used to purchase gift cards. Gift cards can be used to purchase full price and  items. Gift cards are non-refundable. Gift cards are valid for 12 months from the date of purchase and can only be redeemed on seissense.com.
-  Updated: 2026-07-12T06:50:58Z
+- [Seissense Gift Card](https://gcc.seissense.com/products/seissense-gift-card): If you are shopping for someone else but not sure what to give them, give them the gift of choice with a Seissense Gift Card. Please be aware, we do not send physical Gift Cards. Seissense Gift Cards are delivered by email and contain instructions to redeem them at checkout. Available in AED 250, AED 500, AED 750, AED 1000, AED 1500, AED 2000 and AED 2500 options.  codes cannot be used to purchase gift cards. Gift cards can be used to purchase full price and  items. Gift cards are non-refundable. Gift cards are valid for 12 months from the date of purchase and can only be redeemed on gcc.seissense.com.
+  Updated: 2026-08-17T10:59:47Z
   Vendor: Seissense
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/Rectangle4731.jpg?v=1781077246
-  - [£50.00](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304841957)
+  - [AED 250](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304841957)
     Availability: Available
-    Price: AED 46.12 AED
-  - [£100.00](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304874725)
+    Price: AED 250.00 AED
+  - [AED 500](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304874725)
     Availability: Available
-    Price: AED 96.12 AED
-  - [£150.00](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304907493)
+    Price: AED 500.00 AED
+  - [AED 750](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304907493)
     Availability: Available
-    Price: AED 146.12 AED
-  - [£200.00](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304940261)
+    Price: AED 750.00 AED
+  - [AED 1000](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304940261)
     Availability: Available
-    Price: AED 196.12 AED
-  - [£300.00](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304973029)
+    Price: AED 1,000.00 AED
+  - [AED 1500](https://gcc.seissense.com/products/seissense-gift-card?variant=49510304973029)
     Availability: Available
-    Price: AED 296.12 AED
-  - [£400.00](https://gcc.seissense.com/products/seissense-gift-card?variant=49510305005797)
+    Price: AED 1,500.00 AED
+  - [AED 2000](https://gcc.seissense.com/products/seissense-gift-card?variant=49510305005797)
     Availability: Available
-    Price: AED 396.12 AED
-  - [£500.00](https://gcc.seissense.com/products/seissense-gift-card?variant=49510305038565)
+    Price: AED 2,000.00 AED
+  - [AED 2500](https://gcc.seissense.com/products/seissense-gift-card?variant=49510305038565)
     Availability: Available
-    Price: AED 496.12 AED
-  - [BHD 1.000](https://gcc.seissense.com/products/seissense-gift-card?variant=49509860442341)
-    Availability: Available
-    Price: AED 1.00 AED
-  - [BHD 25.000](https://gcc.seissense.com/products/seissense-gift-card?variant=49509860475109)
-    Availability: Available
-    Price: AED 25.00 AED
-  - [BHD 50.000](https://gcc.seissense.com/products/seissense-gift-card?variant=49509860507877)
-    Availability: Available
-    Price: AED 50.00 AED
-  - [BHD 100.000](https://gcc.seissense.com/products/seissense-gift-card?variant=49509860540645)
-    Availability: Available
-    Price: AED 100.00 AED
+    Price: AED 2,500.00 AED
 - [Lail Compression Bra](https://gcc.seissense.com/products/lail-compression-bra): The bra built to align, not just support.Made from recycled fibers with FUZE™ technology, the Lail Bra sits right at your waist to align perfectly with the Lail legging line, no gap, no roll, no readjusting. The compression fit holds without digging in, through every session. Waistband-aligned design — Built to meet the Lail leggings exactly Recycled fibers — Sustainable construction that performs FUZE™ technology — Antimicrobial and odour control Compression fit — Holds without digging in PFAS-free — No forever chemicals against your skin Perfect for: Training, running, high-intensity sessionsMaterials: Recycled fibers with FUZE™ 
   Updated: 2026-08-06T09:56:27Z
   Vendor: Seissense
@@ -1787,7 +1775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/61_SEIW012502_LAIL-COMPRESSION-CLASSIC-LEGGING_CHARCOAL_2.webp?v=1781072619
     Price: AED 220.00 AED
 - [Lail Compression Bra With Mesh](https://gcc.seissense.com/products/lail-compression-bra-with-mesh): The Lail Bra, built to breathe where you need it most.Made from recycled fibers with FUZE™ technology, this version of the Lail adds mesh panels for ventilation exactly where heat builds. Same waistband-aligned design as the original, just cooler for studios and sessions that run hot. Mesh panels — Ventilation in the highest heat zones Waistband-aligned design — Pairs with the Lail legging line Recycled fibers — Sustainable construction throughout FUZE™ technology — Antimicrobial and odour control Compression fit — Supportive without restricting movement Perfect for: Hot studios, high-intensity trainingMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-08-06T09:56:26Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1817,7 +1805,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012503_LAIL-COMPRESSION-BRA_MESH_CHARCOAL_8.webp?v=1781072637
     Price: AED 200.00 AED
 - [Lail Compression Legging With Mesh](https://gcc.seissense.com/products/lail-compression-legging-with-mesh): The Lail Legging, built to breathe where it matters most.Made from recycled fibers with FUZE™ technology, this version of the Lail Classic adds mesh panels for ventilation in the zones that need it most. Same high waist, same construction, built for hot climates and heated studios. Mesh panels — Ventilation where heat concentrates Recycled fibers — Sustainable performance throughout FUZE™ technology — Antimicrobial and odour control High waistband — Aligns with the Lail Compression Bra Moisture-wicking — Keeps you dry inside or out Perfect for: Hot studios, high-intensity trainingMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-08-06T09:56:26Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1907,7 +1895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/63_SEIW012506_SIGNAE-COLOUR-BLOCKED-CROPPED-LEGGING_CHARCOAL-GRANITE_3.webp?v=1781072726
     Price: AED 200.00 AED
 - [Emile Short Sleeve Pima Hoodie](https://gcc.seissense.com/products/emile-short-sleeve-pima-hoodie): A hoodie built for warmth without the extra coverage.Made from Supima cotton and Modal with FUZE™ technology, the Emile Short Sleeve gives you the softness and hood of the long sleeve version, cropped for warmer climates. The relaxed fit makes it easy to wear all day. Supima cotton and Modal — Noticeably softer than standard cotton blends FUZE™ technology — Antimicrobial and odour control Short sleeve with hood — Warmth where you need it Relaxed fit — Easy to wear all day PFAS-free — No forever chemicals against your skin Perfect for: Studio sessions, warm climates, everyday wearMaterials: Supima cotton and Modal blend
-  Updated: 2026-08-06T09:56:26Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1937,7 +1925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/64_SEIW012507_EMILE-SHORT-SLEEVE-PIMA-HOODIE_GRANITE_7.webp?v=1781072756
     Price: AED 420.00 AED
 - [Emile Long Sleeve Pima Hoodie](https://gcc.seissense.com/products/emile-long-sleeve-pima-hoodie): A hoodie that feels genuinely good, not just functional.Made from a rare blend of Supima cotton and Modal with FUZE™ technology, the Emile Long Sleeve is built for recovery days and early mornings. The relaxed fit is generous through the body and tapered at the cuff for full coverage without weight. Supima cotton and Modal — Ultra-soft blend that improves with wash FUZE™ technology — Antimicrobial and odour control Long sleeve with hood — Full coverage without extra weight Relaxed fit — Generous body, tapered cuff Perfect for: Recovery days, early mornings, layeringMaterials: Supima cotton and Modal blend
-  Updated: 2026-08-06T09:56:26Z
+  Updated: 2026-08-11T13:32:31Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1967,7 +1955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012508_EMILE_LONG_SLEEVE_PIMA_HOODIE_GRANITE_2.webp?v=1781072794
     Price: AED 430.00 AED
 - [Collagen Performance Tee](https://gcc.seissense.com/products/collagen-performance-tee): A performance tee with a story unlike anything else in activewear.Woven with collagen yarn sourced from the ocean floor, the Collagen Tee gets softer with every wash and actively supports skin while you wear it. FUZE™ technology and recycled fibers round out a fabric with a genuine point of difference. Collagen-infused yarn — Sourced from the ocean floor, softens with washing FUZE™ technology — Antimicrobial and odour control Recycled fibers — Performance with a lower footprint Moisture-wicking — Manages sweat through the session PFAS-free — No forever chemicals against your skin Perfect for: Training, everyday wearMaterials: Collagen-infused yarn with recycled fibers
-  Updated: 2026-08-06T09:56:27Z
+  Updated: 2026-08-11T13:32:31Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2093,7 +2081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/65_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_BURNT-AMBER_2_5455fe79-31ce-45fe-9fa9-b5fb644598b2.jpg?v=1781072915
     Price: AED 300.00 AED
 - [Bayuda Crossover WB Legging](https://gcc.seissense.com/products/bayuda-crossover-wb-legging): A high-waist legging built to stay exactly in place.Made from recycled fibers with FUZE™ technology, the Bayuda's crossover waistband holds through every squat, lunge and downward dog without a readjust. Moisture-wicking and quick-dry fabric keeps you comfortable start to finish. Crossover waistband — High coverage that holds its position Recycled fibers — Performance fabric with a lower footprint FUZE™ technology — Antimicrobial and odour control Moisture-wicking and quick-dry — Comfortable warm-up to cool-down PFAS-free — No forever chemicals against your skin Perfect for: Training, yoga, high-intensity sessionsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-08-06T09:56:28Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2147,7 +2135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/66_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_BURNT-AMBER_2_218fd7c3-d672-4d39-b11b-fb90aed842a3.jpg?v=1781072946
     Price: AED 230.00 AED
 - [Gustave Long Sleeve Tee](https://gcc.seissense.com/products/gustave-long-sleeve-tee): A long sleeve built to layer without the bulk.Made from a recycled polyester and organic cotton blend, the Gustave Long Sleeve sits light against the skin with just enough structure to wear alone. FUZE™ technology keeps it fresh through training and the rest of the day. Recycled polyester and organic cotton — Two sustainable materials, one lightweight layer FUZE™ technology — Antimicrobial and odour control Long sleeve — Covers without overheating Relaxed fit — Not too slim, not too loose PFAS-free — No forever chemicals against your skin Perfect for: Training, layering, everyday wearMaterials: Recycled polyester and organic cotton blend
-  Updated: 2026-08-06T09:56:27Z
+  Updated: 2026-08-12T16:07:07Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2531,7 +2519,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/80_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_BURNT-AMBER_3_bc5e7224-e728-402c-b579-cb8ecdd40b40.jpg?v=1781073292
     Price: AED 200.00 AED
 - [Gerard Basic Tee](https://gcc.seissense.com/products/gerard-basic-tee): A basic tee that's actually worth buying.Made from 100% organic cotton with FUZE™ technology, the Gerard handles odour and moisture the way a standard cotton tee simply can't. The relaxed fit works with everything, in eight colourways. 100% organic cotton — Grown without synthetic pesticides or fertilisers FUZE™ technology — Antimicrobial and odour control Moisture-wicking — Keeps you dry through training and beyond Relaxed fit — Neither boxy nor tight Eight colourways — Willow, Sand, Glacier and more Perfect for: Training, everyday wear, layeringMaterials: 100% organic cotton
-  Updated: 2026-08-06T09:56:57Z
+  Updated: 2026-08-12T16:07:06Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2729,7 +2717,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/155_SEIW012517_GERARD-BASIC-TEE_CAROTENE_2.jpg?v=1781073382
     Price: AED 200.00 AED
 - [Bayuda Oversized Tee](https://gcc.seissense.com/products/bayuda-oversized-tee): The oversized tee you never take off.Made from recycled fibers with FUZE™ technology, the Bayuda is relaxed enough for the sofa and built well enough for the session. Moisture-wicking fabric works through the workout, not just after it. Relaxed oversized fit — Drapes well, doesn't cling Recycled fibers — Feels good, does less damage getting here FUZE™ technology — Antimicrobial and odour control post-session Moisture-wicking — Works through the workout PFAS-free — No forever chemicals against your skin Perfect for: Post-training, everyday wear, travelMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-08-06T09:56:57Z
+  Updated: 2026-08-12T16:07:07Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2766,7 +2754,7 @@
   Updated: 2026-07-12T06:50:53Z
   Total Products: 0
 - [Summer Collection](https://gcc.seissense.com/collections/summer-collection)
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-15T11:29:59Z
   Total Products: 64
 - [Organic cotton-blend | Women](https://gcc.seissense.com/collections/organic-cotton-blend-women)
   Updated: 2026-07-12T06:50:53Z
@@ -2802,22 +2790,22 @@
   Updated: 2026-07-12T06:50:54Z
   Total Products: 2
 - [FUZE™ Treated](https://gcc.seissense.com/collections/fuze™-treated-women)
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-15T11:29:59Z
   Total Products: 63
 - [Shop The Look](https://gcc.seissense.com/collections/shop-the-look)
   Updated: 2026-07-27T09:05:31Z
   Total Products: 34
 - [New In](https://gcc.seissense.com/collections/new-in): The latest drop from Seissense. Fresh styles, core colours, designed to move.
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 81
 - [All Women](https://gcc.seissense.com/collections/all-women): Every Seissense piece for women — activewear, loungewear, swim and more.
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 122
 - [Women's Leggings](https://gcc.seissense.com/collections/womens-leggings): Compression and high-stretch leggings built for training, running and everyday movement.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-14T11:22:46Z
   Total Products: 21
 - [Women's Sports Bras](https://gcc.seissense.com/collections/womens-sports-bras): Low to high impact sports bras with supportive compression fits.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 12
 - [Women's Tanks](https://gcc.seissense.com/collections/womens-tanks): Lightweight tanks for training, yoga and warm-weather days.
   Updated: 2026-08-10T05:36:25Z
@@ -2829,149 +2817,149 @@
   Updated: 2026-07-17T11:22:58Z
   Total Products: 4
 - [Dresses & Kaftans](https://gcc.seissense.com/collections/dresses-kaftans): Maxis, midis and kaftans — effortless silhouettes in breathable fabrics.
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 13
 - [Women's Hoodies & Sweaters](https://gcc.seissense.com/collections/womens-hoodies-sweaters): Hoodies, sweaters and half zips for cooler evenings and layering.
-  Updated: 2026-07-12T06:50:55Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 6
 - [Women's Jackets & Vests](https://gcc.seissense.com/collections/womens-jackets-vests): Bombers, vests and performance jackets for layering.
-  Updated: 2026-07-12T06:50:55Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 7
 - [Women's Swimwear](https://gcc.seissense.com/collections/womens-swimwear): Swim bras, bottoms and one pieces in ECONYL® recycled fibers.
-  Updated: 2026-08-01T11:23:18Z
+  Updated: 2026-08-13T06:38:36Z
   Total Products: 11
 - [All Men](https://gcc.seissense.com/collections/all-men): Every Seissense piece for men — training, running and lounge.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-16T11:21:43Z
   Total Products: 55
 - [Kids](https://gcc.seissense.com/collections/kids): Sustainable, PFAS-free essentials for kids who move.
   Updated: 2026-07-12T12:40:09Z
   Total Products: 7
 - [All Accessories](https://gcc.seissense.com/collections/all-accessories): Socks, beanies, scarves, towels and yoga mats — the finishing touches.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-16T11:21:43Z
   Total Products: 20
 - [Women's Gym & Training](https://gcc.seissense.com/collections/womens-gym-training): Compression fits and supportive layers built for the gym.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-14T11:22:46Z
   Total Products: 48
 - [Women's Yoga & Pilates](https://gcc.seissense.com/collections/womens-yoga-pilates): Soft, flexible fits for yoga, pilates and low-impact movement.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-14T11:22:46Z
   Total Products: 49
 - [Women's Running](https://gcc.seissense.com/collections/womens-running): Reflective details, compression support and breathable layers for every run.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-14T11:22:46Z
   Total Products: 56
 - [Women's Lounge](https://gcc.seissense.com/collections/womens-lounge): Soft loungewear sets, dresses and easy layers for downtime.
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 29
 - [Men's Gym & Training](https://gcc.seissense.com/collections/mens-gym-training): Performance training gear engineered for the gym, the mat and everything in between.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 24
 - [Men's Running](https://gcc.seissense.com/collections/mens-running): Technical running gear built for speed, endurance and the heat of Bahrain.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 31
 - [Men's Yoga](https://gcc.seissense.com/collections/mens-yoga): Flexible, breathable pieces designed to move with you through every pose and stretch.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 25
 - [All Products](https://gcc.seissense.com/collections/all-products): The full Seissense range — activewear, loungewear, swim, kids and accessories.
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 185
-- [Men's Bottoms](https://gcc.seissense.com/collections/mens-bottoms): Performance shorts, joggers and tights built for the gym, the track and everything in between.
-  Updated: 2026-08-06T11:22:23Z
-  Total Products: 18
 - [Men's Hoodies & Half Zips](https://gcc.seissense.com/collections/mens-hoodies-half-zips-1): Lightweight hoodies and technical half zips designed to layer up without slowing you down.
-  Updated: 2026-07-12T06:50:56Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 4
 - [Men's Jackets](https://gcc.seissense.com/collections/mens-jackets): Technical outerwear built for Bahrain's climate and beyond. From performance jackets to windbreakers.
-  Updated: 2026-07-12T06:50:56Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 4
 - [Men's Swim](https://gcc.seissense.com/collections/mens-swim): Recycled swim shorts and UV shirts crafted for the pool, the sea and the GCC sun.
-  Updated: 2026-07-12T06:50:56Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 3
 - [Caps & Beanies](https://gcc.seissense.com/collections/caps-beanies): Sport caps and beanies built for training, running and everything the elements throw at you.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-16T11:21:43Z
   Total Products: 6
 - [Socks](https://gcc.seissense.com/collections/socks): Bamboo-blend and performance socks in the core Seissense palette. Designed for training, running and everyday wear.
-  Updated: 2026-07-22T11:24:40Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 9
 - [Bags & Towels](https://gcc.seissense.com/collections/bags-towels): Performance towels and carry bags made for the gym, the pool and travel.
   Updated: 2026-07-27T09:05:31Z
   Total Products: 5
 - [Best Seller](https://gcc.seissense.com/collections/best-seller)
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 4
 - [The Dress Edit](https://gcc.seissense.com/collections/the-dress-edit): Our most-loved dresses, from flowing maxis to elegant kaftans. Crafted in sustainable fabrics for the modern GCC woman.
   Updated: 2026-08-01T11:23:18Z
   Total Products: 5
 - [Women's Outerwear](https://gcc.seissense.com/collections/womens-outerwear): Hoodies, sweaters, jackets and vests for every layer.
-  Updated: 2026-07-17T11:22:58Z
+  Updated: 2026-08-16T11:21:43Z
   Total Products: 11
 - [Men's Outerwear](https://gcc.seissense.com/collections/mens-outerwear): Hoodies, half zips and jackets for every condition.
-  Updated: 2026-07-12T06:50:56Z
+  Updated: 2026-08-16T11:21:43Z
   Total Products: 9
 - [Men's Swim & Lounge](https://gcc.seissense.com/collections/mens-swim-lounge): Swim shorts and lounge essentials for rest and recovery.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 5
 - [Best Sellers](https://gcc.seissense.com/collections/best-sellers): Our most-loved pieces — tried, tested and trusted by the Seissense community.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-15T11:29:59Z
   Total Products: 14
 - [Swim & Beach](https://gcc.seissense.com/collections/swim-beach): From pool to shore — swimwear, rashguards and beach essentials for the GCC summer.
-  Updated: 2026-08-01T11:23:18Z
+  Updated: 2026-08-13T06:38:36Z
   Total Products: 16
 - [The Lounge](https://gcc.seissense.com/collections/the-lounge): Effortless pieces for in between — tracksuits, dresses, hoodies and everything made for slow days done right.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-15T11:29:59Z
   Total Products: 22
 - [Run Collection](https://gcc.seissense.com/collections/run-collection): Built for pace — performance tees, leggings, shorts and windbreakers for men and women who run.
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-16T11:21:43Z
   Total Products: 15
 - [Men's Tees & Tanks](https://gcc.seissense.com/collections/mens-tees-tanks)
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-16T11:21:43Z
   Total Products: 13
 - [Women's Tees & Tanks](https://gcc.seissense.com/collections/womens-tees-tanks)
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 15
 - [Men's Lounge](https://gcc.seissense.com/collections/mens-lounge-1)
-  Updated: 2026-07-12T06:50:57Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 2
-- [Women's Leggings & Bottoms](https://gcc.seissense.com/collections/womens-bottoms)
-  Updated: 2026-08-07T23:14:07Z
-  Total Products: 34
 - [Bundle & Sets](https://gcc.seissense.com/collections/bundles-sets): Discover curated bundles designed for performance, comfort, and value. Shop complete outfits and essential sets built for training, travel, and everyday wear.
   Updated: 2026-07-27T09:05:31Z
   Total Products: 10
 - [Women Summer Collection](https://gcc.seissense.com/collections/women-summer-collection)
-  Updated: 2026-08-01T11:23:18Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 15
 - [Women New In](https://gcc.seissense.com/collections/women-new-in)
-  Updated: 2026-08-10T05:36:25Z
+  Updated: 2026-08-13T06:38:36Z
   Total Products: 29
 - [New Arrivals](https://gcc.seissense.com/collections/active-essesntials)
-  Updated: 2026-08-10T05:36:25Z
+  Updated: 2026-08-16T11:21:43Z
   Total Products: 25
 - [Women New Arrivals](https://gcc.seissense.com/collections/women-new-arrivals)
   Updated: 2026-08-10T05:36:25Z
   Total Products: 13
 - [Men New Arrivals](https://gcc.seissense.com/collections/men-new-arrivals)
-  Updated: 2026-07-12T06:50:57Z
+  Updated: 2026-08-16T11:21:43Z
   Total Products: 9
 - [Buy 2 Get 1 – Men](https://gcc.seissense.com/collections/buy-2-get-1-men): The Ultimate Wardrobe Upgrade: Buy 2, Get 1 FREE! Refresh your daily rotation without breaking the bank. Dive into our Exclusive Selection of premium men's essentials, tailored fits, and versatile styles. Mix, match, and level up your look. Add any 3 items to your cart, and the lowest-priced item is automatically free at checkout!
-  Updated: 2026-08-06T11:22:23Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 38
 - [Buy 2 Get 1 – Women](https://gcc.seissense.com/collections/buy-2-get-1-women): The Style Edit You Deserve: Buy 2, Get 1 FREE! Treat yourself to the ultimate closet refresh. Explore our Exclusive Selection of stunning silhouettes, must-have statement pieces, and everyday favorites hand-picked just for you. Mix and match your top 3 picks, and watch the third one drop to £0 instantly at checkout!
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 75
 - [Buy 2 Get 1 – All](https://gcc.seissense.com/collections/buy-2-get-1-all): Because you deserve the best. We’ve hand-crafted a special Exclusive Selection of premium items available only to our insiders. Explore this unique collection today and secure your favorites before the offer expires.
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 98
 - [Best  Products](https://gcc.seissense.com/collections/best--products)
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 212
 - [Newest Products](https://gcc.seissense.com/collections/newest-products)
-  Updated: 2026-08-10T11:20:13Z
+  Updated: 2026-08-17T11:20:37Z
   Total Products: 212
 - [Mega Menu - Featured Products](https://gcc.seissense.com/collections/mega-menu-featured-products)
   Updated: 2026-07-26T05:42:13Z
   Total Products: 1
 - [Vacation With No More Forever Chemicals](https://gcc.seissense.com/collections/vacation-with-no-more-forever-chemicals): Vacation without compromise. Discover chlorine-resistant, non-toxic swimwear for men and women, thoughtfully designed to move effortlessly from ocean waves to poolside lounges.
-  Updated: 2026-08-06T07:42:49Z
+  Updated: 2026-08-12T11:23:09Z
   Total Products: 12
+- [Women's Shorts](https://gcc.seissense.com/collections/womens-shorts-1): Shop women's shorts built for training, running and everyday movement. From bike shorts to relaxed fits, every pair is made with breathable, flexible fabric designed to move with you — perfect for the gym, a run, or lounging in between.
+  Updated: 2026-08-12T07:36:56Z
+  Total Products: 5
+- [Men's Shorts](https://gcc.seissense.com/collections/mens-shorts): Shop men's shorts for training, running and swim. Built from lightweight, breathable fabrics with performance stretch, these shorts are designed for the gym, the trail, the pool and everyday wear.
+  Updated: 2026-08-12T11:23:09Z
+  Total Products: 8
 
 ## Blogs
 
