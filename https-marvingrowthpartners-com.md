@@ -6,7 +6,7 @@
 - Timezone: America/Detroit
 - Created At: 2026-03-22T15:27:01Z
 - Contact Email: eric@marvingrowthpartners.com
-- Updated At: 2026-08-06T00:00:38.988Z
+- Updated At: 2026-08-17T00:00:45.888Z
 
 ## Collections
 
