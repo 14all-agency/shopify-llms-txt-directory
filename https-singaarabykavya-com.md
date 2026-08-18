@@ -6,16 +6,16 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-02T05:40:43Z
 - Contact Email: kavya.aaradhya@gmail.com
-- Updated At: 2026-08-09T00:00:32.520Z
+- Updated At: 2026-08-18T00:00:35.537Z
 
 ## Products
 
 - [Black and White Pure Cotton Poplin Ambika Dress for Women](https://singaarabykavya.com/products/black-white-pure-cotton-poplin-ambika-dress): Shop Black and White Pure Cotton Poplin Ambika Dress for Women for breathable comfort, timeless style & handcrafted elegance. Order today!
-  Updated: 2026-08-08T07:26:42Z
+  Updated: 2026-08-10T23:54:25Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06462.jpg?v=1770617291
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06931.jpg?v=1770617542
   - [S](https://singaarabykavya.com/products/black-white-pure-cotton-poplin-ambika-dress?variant=47374923825373)
     Availability: Available
     Price: ₹3,200.00 INR
@@ -79,11 +79,11 @@
     Availability: Available
     Price: ₹1,900.00 INR
 - [Black and White Cotton Seersucker Neelambari Maxi Dress For Women](https://singaarabykavya.com/products/black-white-cotton-seersucker-neelambari-maxi-dress): Discover Black and White Cotton Seersucker Neelambari Maxi Dress For Women for breathable comfort & timeless elegance. Shop now today!
-  Updated: 2026-08-08T07:23:02Z
+  Updated: 2026-08-10T03:19:54Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06736.jpg?v=1770635106
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/2FE33224-2B83-4DEA-9355-BB362AA0F2AC.jpg?v=1786288491
   - [S](https://singaarabykavya.com/products/black-white-cotton-seersucker-neelambari-maxi-dress?variant=47375245443293)
     Availability: Available
     Price: ₹2,200.00 INR
@@ -163,11 +163,11 @@
     Availability: Not Available
     Price: ₹3,500.00 INR
 - [Black Cotton Mul Kasthuri Jamdani Dress For Women](https://singaarabykavya.com/products/black-cotton-mul-kasthuri-jamdani-dress): Shop Black Cotton Mul Kasthuri Jamdani Dress For Women handcrafted with breathable cotton mul & authentic Jamdani artistry. Buy today!
-  Updated: 2026-08-08T07:34:06Z
+  Updated: 2026-08-10T03:11:03Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06663.jpg?v=1770638702
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/91845956-468E-4C89-8033-1A12B0E6499C.jpg?v=1786287177
   - [S](https://singaarabykavya.com/products/black-cotton-mul-kasthuri-jamdani-dress?variant=47375330410717)
     Availability: Available
     Price: ₹3,900.00 INR
@@ -184,7 +184,7 @@
     Availability: Not Available
     Price: ₹3,900.00 INR
 - [Black Cotton Mul Krishna Jamdani Dress For Women](https://singaarabykavya.com/products/black-cotton-mul-krishna-jamdani-dress): Discover Black Cotton Mul Krishna Jamdani Dress For Women with handcrafted Jamdani weaving, breathable comfort & timeless elegance. Shop now!
-  Updated: 2026-08-08T07:52:47Z
+  Updated: 2026-08-09T20:38:54Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
@@ -257,11 +257,11 @@
     Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06392.jpg?v=1770634501
     Price: ₹1,900.00 INR
 - [Orange Cotton Padma Midi Dress For Women](https://singaarabykavya.com/products/orange-cotton-padma-midi-dress): Discover Orange Cotton Padma Midi Dress For Women crafted from breathable cotton for effortless elegance. Shop yours before it sells out!
-  Updated: 2026-08-08T07:57:02Z
+  Updated: 2026-08-10T02:51:33Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06580.jpg?v=1770634932
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/ACC6B15A-0743-4BD9-A202-69EBF5A141CF.jpg?v=1786287029
   - [S](https://singaarabykavya.com/products/orange-cotton-padma-midi-dress?variant=47378552193245)
     Availability: Available
     Price: ₹2,499.00 INR
@@ -551,11 +551,11 @@
     Availability: Available
     Price: ₹1,600.00 INR
 - [Blue Mul Jamdani Navilu Dress For Women](https://singaarabykavya.com/products/blue-mul-jamdani-navilu-dress): Shop Blue Mul Jamdani Navilu Dress For Women crafted with breathable mul cotton & elegant Jamdani artistry. Order yours before it's gone!
-  Updated: 2026-08-08T07:45:22Z
+  Updated: 2026-08-09T14:30:02Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/38CBEE8B-658E-4845-9048-0E016980AA3A.jpg?v=1783692738
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/CA7429AA-92B5-43DD-BA37-ED082E6E1773.jpg?v=1786285733
   - [S](https://singaarabykavya.com/products/blue-mul-jamdani-navilu-dress?variant=48154847707357)
     Availability: Available
     Price: ₹3,900.00 INR
@@ -572,11 +572,11 @@
     Availability: Not Available
     Price: ₹3,900.00 INR
 - [Blue Mul Cotton Neeli Chowka Jamdani Dress For Women](https://singaarabykavya.com/products/blue-mul-cotton-neeli-chowka-jamdani-dress): Shop Blue Mul Cotton Neeli Chowka Jamdani Dress For Women handcrafted with breathable mul cotton & timeless Jamdani elegance. Buy now!
-  Updated: 2026-08-08T07:43:29Z
+  Updated: 2026-08-10T02:13:57Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DD8135B3-F19F-4E8D-8EF0-4B7228A7E0F7.jpg?v=1783693241
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/F26FCBCE-0A8C-4E18-86DA-C21F18E7A6B1.jpg?v=1786284575
   - [S](https://singaarabykavya.com/products/blue-mul-cotton-neeli-chowka-jamdani-dress?variant=48154997686493)
     Availability: Available
     Price: ₹3,900.00 INR
@@ -593,11 +593,11 @@
     Availability: Not Available
     Price: ₹3,900.00 INR
 - [White Cotton Mul Jamdani Dhavala Chowka Dress For Women](https://singaarabykavya.com/products/white-cotton-mul-jamdani-dhavala-chowka-dress): Discover White Cotton Mul Jamdani Dhavala Chowka Dress for Women crafted with authentic Jamdani artistry. Shop today for timeless elegance!
-  Updated: 2026-08-08T09:16:21Z
+  Updated: 2026-08-10T02:21:37Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/Dhavala.webp?v=1784891918
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/3CE58798-802D-41E6-BB10-10016B4B26F7.jpg?v=1786285179
   - [S](https://singaarabykavya.com/products/white-cotton-mul-jamdani-dhavala-chowka-dress?variant=48155071840477)
     Availability: Available
     Price: ₹3,900.00 INR
@@ -614,11 +614,11 @@
     Availability: Not Available
     Price: ₹3,900.00 INR
 - [White Cotton Mul Jamdani Shubra Dress For Women](https://singaarabykavya.com/products/white-cotton-mul-jamdani-shubra-dress): Discover White Cotton Mul Jamdani Shubra Dress For Women handcrafted with authentic Jamdani weaving. Order yours before it's gone today!
-  Updated: 2026-08-08T09:18:36Z
+  Updated: 2026-08-09T14:34:35Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/Shubra.webp?v=1784891877
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/120071C2-721C-468C-B0BA-4CCDBED687F9.jpg?v=1786286038
   - [S](https://singaarabykavya.com/products/white-cotton-mul-jamdani-shubra-dress?variant=48155107229917)
     Availability: Available
     Price: ₹3,900.00 INR
@@ -634,52 +634,97 @@
   - [2XL](https://singaarabykavya.com/products/white-cotton-mul-jamdani-shubra-dress?variant=48155107360989)
     Availability: Not Available
     Price: ₹3,900.00 INR
+- [Multicolor Cotton Poplin Yaana Dress for Women](https://singaarabykavya.com/products/multicolor-cotton-poplin-yaana-dress-for-women): Shop Multicolor Cotton Poplin Yaana Dress for Women for breathable comfort, timeless style & handcrafted elegance. Order today!
+  Updated: 2026-08-10T03:43:29Z
+  Vendor: Singaara By Kavya
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/D4D5B05A-833C-4FF5-9B1C-06E4B6DFE11E.jpg?v=1786290118
+  - [S](https://singaarabykavya.com/products/multicolor-cotton-poplin-yaana-dress-for-women?variant=48352468828381)
+    Availability: Available
+    Price: ₹3,200.00 INR
+  - [M](https://singaarabykavya.com/products/multicolor-cotton-poplin-yaana-dress-for-women?variant=48352468861149)
+    Availability: Available
+    Price: ₹3,200.00 INR
+  - [L](https://singaarabykavya.com/products/multicolor-cotton-poplin-yaana-dress-for-women?variant=48352468893917)
+    Availability: Available
+    Price: ₹3,200.00 INR
+  - [XL](https://singaarabykavya.com/products/multicolor-cotton-poplin-yaana-dress-for-women?variant=48352468926685)
+    Availability: Available
+    Price: ₹3,200.00 INR
+  - [2XL](https://singaarabykavya.com/products/multicolor-cotton-poplin-yaana-dress-for-women?variant=48352468959453)
+    Availability: Not Available
+    Price: ₹3,200.00 INR
+- [Beige and Black Cotton Poplin Payana Dress for Women](https://singaarabykavya.com/products/beige-and-black-cotton-poplin-payana-dress-for-women): Shop Beige and Black Cotton Poplin Payana Dress for Women for breathable comfort, timeless style & handcrafted elegance. Order today!
+  Updated: 2026-08-10T11:51:35Z
+  Vendor: Singaara By Kavya
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/A0624279-F85B-4308-8C84-5F2442C1FB59.jpg?v=1786291044
+  - [S](https://singaarabykavya.com/products/beige-and-black-cotton-poplin-payana-dress-for-women?variant=48352499237085)
+    Availability: Available
+    Price: ₹3,200.00 INR
+  - [M](https://singaarabykavya.com/products/beige-and-black-cotton-poplin-payana-dress-for-women?variant=48352499269853)
+    Availability: Available
+    Price: ₹3,200.00 INR
+  - [L](https://singaarabykavya.com/products/beige-and-black-cotton-poplin-payana-dress-for-women?variant=48352499302621)
+    Availability: Available
+    Price: ₹3,200.00 INR
+  - [XL](https://singaarabykavya.com/products/beige-and-black-cotton-poplin-payana-dress-for-women?variant=48352499335389)
+    Availability: Available
+    Price: ₹3,200.00 INR
+  - [2XL](https://singaarabykavya.com/products/beige-and-black-cotton-poplin-payana-dress-for-women?variant=48352499368157)
+    Availability: Not Available
+    Price: ₹3,200.00 INR
 
 ## Collections
 
-- [Home page](https://singaarabykavya.com/collections/frontpage)
-  Updated: 2026-08-04T10:50:12Z
-  Total Products: 12
-- [Top Wear](https://singaarabykavya.com/collections/top-wear)
-  Updated: 2026-08-01T03:04:54Z
+- [Handcrafted Tops](https://singaarabykavya.com/collections/handcrafted-tops-for-women): Discover handcrafted tops for women by Singaara By Kavya, made with natural fabrics, comfortable fits, thoughtful details, and timeless everyday style.
+  Updated: 2026-08-17T14:02:34Z
   Total Products: 7
-- [Bottom Wear](https://singaarabykavya.com/collections/bottom-wear)
-  Updated: 2026-08-01T03:04:54Z
+- [Handcrafted Bottom Wear](https://singaarabykavya.com/collections/handcrafted-bottom-wear-for-women): Discover handcrafted bottom wear for women by Singaara By Kavya, featuring comfortable skirts and versatile styles made with natural fabrics and timeless silhouettes.
+  Updated: 2026-08-17T14:03:23Z
   Total Products: 6
-- [Dresses](https://singaarabykavya.com/collections/dresses)
-  Updated: 2026-08-04T10:50:12Z
-  Total Products: 16
-- [Featured](https://singaarabykavya.com/collections/featured)
-  Updated: 2026-08-01T03:04:54Z
-  Total Products: 4
-- [Top ](https://singaarabykavya.com/collections/all)
-  Updated: 2026-08-04T10:50:12Z
-  Total Products: 29
-- [Products ₹2499 & Below](https://singaarabykavya.com/collections/products-2499-below)
-  Updated: 2026-08-01T03:04:54Z
+- [Handcrafted Dresses for Women](https://singaarabykavya.com/collections/handcrafted-dresses-for-women): Discover handcrafted dresses for women by Singaara By Kavya, made with natural fabrics, comfortable silhouettes, thoughtful details, and timeless style.
+  Updated: 2026-08-17T14:04:42Z
+  Total Products: 18
+- [Featured Clothing for Women](https://singaarabykavya.com/collections/featured-clothing-for-women): Explore featured clothing for women from Singaara By Kavya, thoughtfully crafted with natural fabrics, elegant silhouettes, and distinctive handcrafted details.
+  Updated: 2026-08-17T14:05:17Z
+  Total Products: 6
+- [Top  Dresses for Women](https://singaarabykavya.com/collections/top--dresses-for-women): Shop Top  dresses for women by Singaara By Kavya, featuring handcrafted designs, natural fabrics, comfortable fits, and timeless everyday style.
+  Updated: 2026-08-17T14:07:55Z
+  Total Products: 31
+- [Clothing for Women Under ₹2499](https://singaarabykavya.com/collections/clothing-for-women-under-2499): Shop clothing for women under ₹2499 from Singaara By Kavya, featuring handcrafted tops, dresses, and skirts made for comfort and effortless style.
+  Updated: 2026-08-17T14:04:08Z
   Total Products: 20
-- [New Arrival](https://singaarabykavya.com/collections/new-arrival)
-  Updated: 2026-08-01T03:04:55Z
-  Total Products: 3
+- [New Arrival Dresses for Women](https://singaarabykavya.com/collections/new-arrival-dresses-for-women): Discover new arrival dresses for women by Singaara By Kavya, featuring handcrafted styles made with natural fabrics, thoughtful details, and timeless elegance.
+  Updated: 2026-08-17T14:09:00Z
+  Total Products: 5
+
+## Blogs
+
+- [News & Insights](https://singaarabykavya.com/blogs/insights): Explore fashion insights, styling tips, clothing guides, and expert ideas to make everyday dressing more stylish and comfortable.
+  - [How To Choose Comfortable Western Wear For Women](https://singaarabykavya.com/blogs/insights/how-to-choose-comfortable-western-wear-for-women): How To Choose Comfortable Western Wear For Women
+    Updated: 2026-08-17T16:17:26Z
+    Author: kavyashree A R
+    Tags: best western wear for women, breathable womens clothing, casual western wear for women, comfortable dresses for women, comfortable fashion for women, comfortable outfits for women, comfortable western wear for women, comfortable womens clothing, everyday western outfits, everyday womens wear, how to choose comfortable western wear, stylish comfortable womens wear, stylish womens clothing, trendy western wear for women, western fashion for women, western outfits for women, western wear for women, womens casual wear, womens fashion clothing, womens western clothing
 
 ## Store Pages
 
-- [Contact](https://singaarabykavya.com/pages/contact)
-  Updated: 2026-02-02T05:40:48Z
-- [About Us](https://singaarabykavya.com/pages/about-us)
-  Updated: 2026-07-24T06:49:57Z
-- [Privacy Policy](https://singaarabykavya.com/pages/privacy-policy): Effective Date: 23 February 2026 Privacy Notice At Singaara by Kavya, your privacy is important to us. We collect and use your personal information...
-  Updated: 2026-08-01T03:04:11Z
-- [Exchange, Return & Refund Policy](https://singaarabykavya.com/pages/exchange-return-policy): At Singaara by Kavya, each garment is thoughtfully handcrafted and made with care. Therefore, we do not accept returns, refunds, or order cancellat...
-  Updated: 2026-08-01T02:43:59Z
-- [Shipping Policy](https://singaarabykavya.com/pages/shipping-policy): Processing Time Please allow 2–4 business days for your order to be processed before it is dispatched. Shipping Within India We offer pan-India shi...
-  Updated: 2026-08-01T03:04:28Z
-- [Size Guide](https://singaarabykavya.com/pages/size-guide): .size-chart { border-collapse: collapse; width: 100%; max-width: 600px; font-family: sans-serif; } .size-chart th { background-color: #000; color: ...
-  Updated: 2026-07-23T11:12:49Z
-- [Home New](https://singaarabykavya.com/pages/home-new)
-  Updated: 2026-07-23T12:17:44Z
-- [Terms & Conditions](https://singaarabykavya.com/pages/terms-conditions): Effective Date: 23 February 2026 Welcome to Singaara by Kavya. By accessing or using our website and placing an order, you agree to be bound by the...
-  Updated: 2026-08-01T02:46:10Z
+- [Contact Singaara By Kavya | Get In Touch With Us](https://singaarabykavya.com/pages/contact): 
+  Updated: 2026-08-17T13:27:39Z
+- [About Singaara By Kavya | Handcrafted Women’s Western Wear](https://singaarabykavya.com/pages/about-us): 
+  Updated: 2026-08-17T13:24:18Z
+- [Privacy Policy | Singaara By Kavya](https://singaarabykavya.com/pages/privacy-policy): Effective Date: 23 February 2026 Privacy Notice At Singaara by Kavya, your privacy is important to us. We collect and use your personal information...
+  Updated: 2026-08-17T13:26:10Z
+- [Exchange, Return & Refund Policy | Singaara By Kavya](https://singaarabykavya.com/pages/exchange-return-policy): At Singaara by Kavya, each garment is thoughtfully handcrafted and made with care. Therefore, we do not accept returns, refunds, or order cancellat...
+  Updated: 2026-08-17T13:27:18Z
+- [Shipping Policy | Singaara By Kavya](https://singaarabykavya.com/pages/shipping-policy): Processing Time Please allow 2–4 business days for your order to be processed before it is dispatched. Shipping Within India We offer pan-India shi...
+  Updated: 2026-08-17T13:25:47Z
+- [Size Guide | Singaara By Kavya](https://singaarabykavya.com/pages/size-guide): .size-chart { border-collapse: collapse; width: 100%; max-width: 600px; font-family: sans-serif; } .size-chart th { background-color: #000; color: ...
+  Updated: 2026-08-17T13:25:26Z
+- [Terms & Conditions | Singaara By Kavya](https://singaarabykavya.com/pages/terms-conditions): Effective Date: 23 February 2026 Welcome to Singaara by Kavya. By accessing or using our website and placing an order, you agree to be bound by the...
+  Updated: 2026-08-17T13:26:44Z
 
 ## Policies
 
