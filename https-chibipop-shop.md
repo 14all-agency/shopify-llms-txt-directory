@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-07-03T08:31:58Z
 - Contact Email: service.client@chibipop.shop
-- Updated At: 2026-08-08T00:00:41.652Z
+- Updated At: 2026-08-18T00:00:44.642Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/1060/4583/3561/files/7D93D789-8B1F-4135-96E8-D67F6359B944.png?v=1783421031
   Price: 4,99 € EUR
 - [Booster à l'unité sous Blister ME05 — Méga-Évolutions : Nuit Noire VF](https://chibipop.shop/products/booster-sous-blister-cartonne-me05-mega-evolutions-nuit-noire-vf): Booster officiel sous blister cartonné ME05 Méga-Evolutions Nuit Noire protecteur ! Cinquième extension majeure du bloc Méga-Évolution.
-  Updated: 2026-08-01T07:07:27Z
+  Updated: 2026-08-13T07:11:21Z
   Vendor: Pokémon
   Product Type: Booster Pokémon
   Availability: Available
@@ -87,13 +87,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1060/4583/3561/files/Gemini_Generated_Image_6q5tpe6q5tpe6q5t.png?v=1783518986
   Price: 9,99 € EUR
-- [Display de 36 Boosters Écarlate et Violet : Flammes Obsidiennes (EV03)](https://chibipop.shop/products/display-de-36-boosters-ecarlate-et-violet-flammes-obsidiennes-ev03-jcc-pokemon-vf): Display de 36 boosters officielle Flammes Obsidiennes Pokémon ! Ce Display scellé de 36 boosters est le format ultime pour maximiser vos chances.
-  Updated: 2026-07-22T07:19:56Z
-  Vendor: Pokémon
-  Product Type: Display Pokémon
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1060/4583/3561/files/C313112B-CA3A-4260-8666-2662B16099EB.png?v=1783690481
-  Price: 244,99 € EUR
 - [Porte-Clés Peluche Stitch YuYus Disney | Boîte Mystère 12cm](https://chibipop.shop/products/porte-cles-peluche-disney-yuyus-stitch-serie-animaux-figurine-mystere-boite-surprise-12-cm): Craquez pour la collection mystère de porte-clés peluche Disney YuYus Stitch ! 9 adorables figurines de 12cm déguisées en animaux à collectionner d'urgence.
   Updated: 2026-07-26T17:31:06Z
   Vendor: YuYus Disney
@@ -101,13 +94,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1060/4583/3561/files/visuel-1-stitch-yuyus-disney-boite-mystere-12cm.png?v=1784191068
   Price: 19,99 € EUR
-- [Display Pokémon Faille Paradoxe EV04 | 36 Boosters VF](https://chibipop.shop/products/display-de-36-boosters-ecarlate-et-violet-faille-paradoxe-ev04-jcc-pokemon-vf): Achetez votre Display scellé de 36 boosters Pokémon Faille Paradoxe (EV04) en version française ! Découvrez les Pokémon du Temps passé et Temps futur.
-  Updated: 2026-07-22T07:20:46Z
-  Vendor: Pokémon
-  Product Type: Display Pokémon
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1060/4583/3561/files/1FBE7479-0C69-4B68-90CB-271F2EC30ACC.png?v=1784191896
-  Price: 259,99 € EUR
 - [Coffret Pokémon Premiers Partenaires Série 2 (VF) | Illustration Rare](https://chibipop.shop/products/coffret-collection-illustration-premiers-partenaires-serie-2-3-boosters-jcc-pokemon-vf): Achetez le Coffret Pokémon Collection Illustration Premiers Partenaires Série 2 en français. 3 cartes promo Illustration Rare 30 ans & 3 boosters inclus !
   Updated: 2026-07-24T14:52:31Z
   Vendor: Pokémon
@@ -227,13 +213,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1060/4583/3561/files/visuel-1-Blind-Box-Lucky-Emma-Rua-Rua-Zoo-Bubble-Puff-Series.png?v=1784729558
   Price: 12,99 € EUR
-- [Booster Pokémon Évolutions Prismatiques (EV8.5) — Cartes Pokémon FR](https://chibipop.shop/products/booster-pokemon-evolutions-prismatiques-illustration-aleatoire-ev-8-5): Découvrez le booster Pokémon Évolutions Prismatiques (EV8.5) en français. 10 cartes à collectionner dont Évoli et ses évolutions ! Illustration aléatoire.
-  Updated: 2026-08-01T07:05:22Z
-  Vendor: Pokémon
-  Product Type: Booster Pokémon
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1060/4583/3561/files/visuel-1-booster-evolutions-prismatiques-pokemon.png?v=1784964379
-  Price: 14,99 € EUR
 - [Booster My Little Pony KAYOU - Cartes Friendship Eternal S2](https://chibipop.shop/products/booster-my-little-pony-cartes-friendship-eternal-kayou-serie-2-uk): Découvrez le booster de cartes My Little Pony par KAYOU (Série 2 - Rainbow Edition). Contient 5 cartes à collectionner. Livraison rapide et produit officiel.
   Updated: 2026-07-31T06:50:38Z
   Vendor: Kayou
