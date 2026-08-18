@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2024-06-17T20:31:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-07-30T21:15:49.812Z
+- Updated At: 2026-08-18T00:00:36.451Z
 
 ## Products
 
 - [Mid-Twenties Crisis Vinyl](https://dylanmarlowe.merchmadeeasy.com/products/pre-order-mid-twenties-crisis-vinyl): The Mid-Twenties Crisis vinyl is back in stock with a limited number available! Order now.
-  Updated: 2026-07-24T12:09:07Z
+  Updated: 2026-08-13T16:52:17Z
   Vendor: Dylan Marlowe Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DM_MTC_Vinyl_mockup_2000x2000_e8cbbb71-9d0e-4dcb-84d1-5dd3b43dd08c.png?v=1726776327
-  Price: $35.00 USD
-- [Mid-Twenties Crisis CD](https://dylanmarlowe.merchmadeeasy.com/products/pre-order-mid-twenties-crisis-cd): Heaven’s Sake Deer On The Wall Mid-Twenties Crisis Heart Brakes Stick to My  Hungover In A Deer Stand Hang It Up Shop Radio Devil On My Shoulder I Never Miss There Goes That Boys Back Home You Did It Too Bat Outta Hell The Fence **This will not ship till after September 27th, This item is a pre order**
-  Updated: 2026-07-28T06:48:47Z
+  Price: $34.98 USD
+- [Mid-Twenties Crisis CD](https://dylanmarlowe.merchmadeeasy.com/products/pre-order-mid-twenties-crisis-cd): Tracklist: Heaven’s Sake Deer On The Wall Mid-Twenties Crisis Heart Brakes Stick to My  Hungover In A Deer Stand Hang It Up Shop Radio Devil On My Shoulder I Never Miss There Goes That Boys Back Home You Did It Too Bat Outta Hell The Fence
+  Updated: 2026-08-14T04:51:26Z
   Vendor: Dylan Marlowe Store
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DM_MTC_CD_1080x1080_21cac1e5-ca8c-49e5-9abd-c395259e104b.png?v=1726776277
-  Price: $13.99 USD
+  Price: $13.98 USD
 - [Deer Tee](https://dylanmarlowe.merchmadeeasy.com/products/deer-tee): Deer Tee in natural with front print only. 100% Cotton
-  Updated: 2026-07-23T11:45:07Z
+  Updated: 2026-08-13T16:50:58Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -46,7 +46,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Eagle Tee](https://dylanmarlowe.merchmadeeasy.com/products/eagle-tee): American Made Country Music. Eagle Tee in navy with American graphic on the front. 100% Cotton, Unisex.
-  Updated: 2026-07-18T13:23:42Z
+  Updated: 2026-08-13T16:50:35Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -66,19 +66,12 @@
   - [XXL](https://dylanmarlowe.merchmadeeasy.com/products/eagle-tee?variant=45278768332958)
     Availability: Available
     Price: $35.00 USD
-- [Duck Koozie](https://dylanmarlowe.merchmadeeasy.com/products/duck-koozie): Here's to the boys back home. Khaki koozie with duck graphic on the front
-  Updated: 2026-07-24T12:09:06Z
-  Vendor: Dylan Marlowe Store
-  Product Type: Accessory
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0659/1352/0286/files/DMKOOZIE.png?v=1743104397
-  Price: $5.00 USD
 - [Duck Tee](https://dylanmarlowe.merchmadeeasy.com/products/duck-tee): Here's to the boys back home
 
 Unisex tee in natural with duck graphic on the front and back
 
 100% Cotton, unisex
-  Updated: 2026-07-19T04:15:27Z
+  Updated: 2026-08-13T16:49:40Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -99,7 +92,7 @@ Unisex tee in natural with duck graphic on the front and back
     Availability: Available
     Price: $35.00 USD
 - [2025 Tour Tee | Dylan Marlowe Official Merch Store](https://dylanmarlowe.merchmadeeasy.com/products/2025-tour-tee): Live on tour duck tee in black with 2025 Tour cities on the back! Shop now
-  Updated: 2026-07-18T00:05:13Z
+  Updated: 2026-08-13T16:42:20Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -141,7 +134,7 @@ Unisex tee in natural with duck graphic on the front and back
     Availability: Not Available
     Price: $55.00 USD
 - [Acres Quarter Zip Sweatshirt](https://dylanmarlowe.merchmadeeasy.com/products/acres-quarter-zip): Premium black quarter zip fleece sweatshirt ACRES logo patch embroidered on the front chest Dylan Marlowe logo embroidered on the back neck 80% Cotton, 20% Recycled Polyester 8.25 oz SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-07-17T16:23:20Z
+  Updated: 2026-08-15T19:57:02Z
   Vendor: Dylan Marlowe Store
   Product Type: Outerwear
   Availability: Available
@@ -161,12 +154,8 @@ Unisex tee in natural with duck graphic on the front and back
   - [XXL](https://dylanmarlowe.merchmadeeasy.com/products/acres-quarter-zip?variant=46228482818206)
     Availability: Available
     Price: $65.00 USD
-- [Turkey Stamp Tee](https://dylanmarlowe.merchmadeeasy.com/products/turkey-stamp-tee): Here's to the boys back home
-
-Unisex tee in natural with duck graphic on the front and back
-
-100% Cotton, unisex
-  Updated: 2026-07-28T10:35:16Z
+- [Turkey Stamp Tee](https://dylanmarlowe.merchmadeeasy.com/products/turkey-stamp-tee): Turkey graphic on the front and back 100% Cotton tee in Natural Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
+  Updated: 2026-08-13T16:40:51Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -187,14 +176,10 @@ Unisex tee in natural with duck graphic on the front and back
     Availability: Available
     Price: $35.00 USD
   - [3XL](https://dylanmarlowe.merchmadeeasy.com/products/turkey-stamp-tee?variant=46499648602270)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
-- [Black Deer Tee](https://dylanmarlowe.merchmadeeasy.com/products/deer-tee-1): Here's to the boys back home
-
-Unisex tee in natural with duck graphic on the front and back
-
-100% Cotton, unisex
-  Updated: 2026-07-18T02:54:24Z
+- [Black Deer Tee](https://dylanmarlowe.merchmadeeasy.com/products/deer-tee-1): Deer graphic on the front and back 100% Cotton tee in Black Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
+  Updated: 2026-08-13T16:40:02Z
   Vendor: Dylan Marlowe Store
   Product Type: T-Shirt
   Availability: Available
@@ -215,7 +200,7 @@ Unisex tee in natural with duck graphic on the front and back
     Availability: Available
     Price: $35.00 USD
 - [Embroidered Duck Hat](https://dylanmarlowe.merchmadeeasy.com/products/embroidered-duck-hat): Specialty patch on the front Forest/Walnut hat with rope detail 100% cotton Adjustable sizing with snapback closure
-  Updated: 2026-07-15T23:01:26Z
+  Updated: 2026-08-13T16:39:04Z
   Vendor: Dylan Marlowe Store
   Product Type: Hat
   Availability: Available
@@ -225,29 +210,29 @@ Unisex tee in natural with duck graphic on the front and back
 ## Collections
 
 - [ALL](https://dylanmarlowe.merchmadeeasy.com/collections/all-1)
-  Updated: 2026-07-28T11:14:09Z
+  Updated: 2026-08-16T11:15:02Z
   Total Products: 39
 - [APPAREL](https://dylanmarlowe.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-07-28T11:14:09Z
+  Updated: 2026-08-16T11:15:02Z
   Total Products: 13
 - [ACCESSORIES](https://dylanmarlowe.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-07-25T11:13:08Z
+  Updated: 2026-08-13T16:38:29Z
   Total Products: 7
 - [Music](https://dylanmarlowe.merchmadeeasy.com/collections/music)
-  Updated: 2026-07-25T11:13:08Z
+  Updated: 2026-08-13T16:52:09Z
   Total Products: 3
 - [NEW ARRIVALS](https://dylanmarlowe.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-07-28T11:14:09Z
+  Updated: 2026-08-16T11:15:02Z
   Total Products: 16
 - [All excluding Music](https://dylanmarlowe.merchmadeeasy.com/collections/all-excluding-music)
-  Updated: 2026-07-28T11:14:09Z
+  Updated: 2026-08-16T11:15:02Z
   Total Products: 35
 - [Mid-Twenties Crisis Anniversary](https://dylanmarlowe.merchmadeeasy.com/collections/mid-twenties-crisis-anniversary)
-  Updated: 2026-07-11T11:15:02Z
+  Updated: 2026-08-02T11:15:48Z
   Total Products: 5
 - [Black Friday ](https://dylanmarlowe.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-07-28T11:14:09Z
-  Total Products: 12
+  Updated: 2026-08-16T11:15:02Z
+  Total Products: 11
 
 ## Store Pages
 
