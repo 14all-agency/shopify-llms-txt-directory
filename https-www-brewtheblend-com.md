@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-28T19:48:55Z
 - Contact Email: info@brewtheblend.com
-- Updated At: 2026-08-11T00:00:28.047Z
+- Updated At: 2026-08-18T00:00:29.051Z
 
 ## Products
 
@@ -137,7 +137,7 @@
     Availability: Available
     Price: $94.00 USD
 - [60 Pack Single Serve Coffee Capsules | EveryCup Original Convenient & Fresh](https://www.brewtheblend.com/products/60-capsules): EveryCup Original: 60-pack specialty-grade coffee capsules with rich, balanced flavor and fresher, smoother brews. Crafted for consistent satisfaction.
-  Updated: 2026-08-10T09:00:45Z
+  Updated: 2026-08-11T15:05:16Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
