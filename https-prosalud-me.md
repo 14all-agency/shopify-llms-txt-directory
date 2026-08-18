@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2026-07-11T13:41:51Z
 - Contact Email: contacto@prosalud.me
-- Updated At: 2026-08-06T00:00:37.472Z
+- Updated At: 2026-08-18T00:00:43.827Z
 
 ## Products
 
@@ -967,14 +967,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-omron-monitor-de-presion-arterial-autom-54722443935855.png?v=1784297424
   Price: 1348,95 $ MXN
-- [Arco Sanitizante Economicos, Mxbwe-008, 40l, Adultos, 800 A](https://prosalud.me/products/arco-sanitizante-economicos-mxbwe-008-40l-adultos-800-a): Equipamiento y Sanitización: Tipo Arco ó Pared; DESCRIPCIÓN ESPECIFICA: 40L, Adultos, 800 a 1040 Personas, 10 Boquillas, 1x2x0.5m, Baja Presión, 120W 110V, Con Sensor.; DIMENSIÓN DE EMPAQUE: 215,150,150 cm; PESO CON EMPAQUE: 10 kg; 7.- GARANTIA: 1 Años; TIEMPO ESTIMADO DE FABRICACIÓN: 4 Días; CARACTERÍSTICAS GENERALES DEL ARCO DE DESINFECCIÓN, BOWSAFE. Son Arcos de Bajo costo diseñados para una Desinfección Total de una persona, en todo el cuerpo ya sea por bacterias o  en el medio ambiente que pueden resultar peligrosos para el ser humano. Ya que no solo están en las manos si no en las prendas que usamos día a día. Esto minimiza riesgos de contagio o enfermedades. Creadas en estructura de Tubería PVC de ø75mm. Disponibles en tamaños para niños y adultos Son de Fácil Instalación sin necesidad de utilizar herramientas. Trabaja por medio de un Nebulizador de baja presión que es a base de mangueras Distribuidas en la parte superior y laterales de la cabina por medio de boquillas. Disponibles en 8 y 10 boquillas aspersores de Acero Inoxidable 304, para niños y adultos respectivamente. La nebulización es constante y densa para que la desinfección sea completa en un solo giro lento debajo del arco. Diseñado para descontaminar 3 personas por minuto. Se requiere un Sanitizante Médico que no contiene ningún químico invasivo o peligroso, ya que es un desinfectante potenciado con esencias naturales con propiedades antivirales. El Kit Incluye alfombra, tubería, limpiador, pegamento, cinchos, sanitizante médico de 1L, depósito de plástico para agua de 20L y su soporte. La cabina viene desarmada lista para instalarse. Viene con nuestro sanitizante concentrado VirusCOP de 1 ó 2L, el cual tiene un rendimiento 1/ 20 es decir, (1L de Sanitizante es para 20 L y 2L para 40L de agua respectivamente incluye bidón de 20 o 40L para diluirlo con agua). Esta cabina requiere un depósito o toma directa de agua para trabajar. El color del deposito de agua puede variar dependiendo del stock disponible. ; APLICACIONES DEL ARCO DE DESINFECCIÓN, BOWSAFE. Los Arcos de Desinfección BowSafe, son recomendables utilizar en espacios como Empresas, Recepciones, Escuelas. Hoteles, Hospitales, Comedores, Restaurantes. Oficinas, Módulos. Los Arcos de Desinfección BowSafe, tiene una garantía de un año, sujeto a cláusulas VentDepot. CARACTERÍSTICAS GENERALES DEL ARCO DE DESINFECCIÓN, BOWSAFE. Se requiere un Sanitizante Médico que no contiene ningún químico invasivo o peligroso, ya que es un desinfectante potenciado con esencias naturales con propiedades antivirales. El Kit Incluye alfombra, tubería, limpiador, pegamento, cinchos, sanitizante médico de 1L, depósito de plástico para agua de 20L y su soporte. La cabina viene desarmada lista para instalarse. Viene con nuestro sanitizante concentrado VirusCOP de 1 ó 2L, el cual tiene un rendimiento 1/ 20 es decir, (1L de Sanitizante es para 20 L y 2L para 40L de agua respectivamente incluye bidón de 20 o 40L para diluirlo con agua). Esta cabina requiere un depósito o toma directa de agua para trabajar.
-  Updated: 2026-07-29T14:58:20Z
-  Vendor: Prosalud.me
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0740/0298/9167/files/prosalud-me-default-title-arco-sanitizante-economicos-mxbwe-008-40l-adultos-800-a-54722444296303.png?v=1784297424
-  Price: 16.490,00 $ MXN
-[List Continued](https://prosalud.me/a/llms-agent/llms.txt?shop=ekunft-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM2MTc4MDcxMTUzNSwibGFzdF92YWx1ZSI6IjE1MzYxNzgwNzExNTM1In0%3D)
+[List Continued](https://prosalud.me/a/llms-agent/llms.txt?shop=ekunft-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM2MTc4MDYxMzIzMSwibGFzdF92YWx1ZSI6IjE1MzYxNzgwNjEzMjMxIn0%3D)
 
 ## Collections
 
@@ -1636,6 +1629,28 @@
     Updated: 2026-08-05T19:51:55Z
     Author: Eduardo campos
     Tags: prosalud, Querétaro Salud, Regulación Sanitaria, Riesgo Sanitario
+  - [Cómo elegir una báscula médica para su clínica](https://prosalud.me/blogs/noticias/como-elegir-una-bascula-medica-para-su-clinica): Cómo elegir una báscula médica para su clínica
+    Updated: 2026-08-07T03:58:10Z
+    Author: Admin
+  - [Limpieza hospitalaria para una operación segura](https://prosalud.me/blogs/noticias/limpieza-hospitalaria-para-una-operacion-segura): Limpieza hospitalaria para una operación segura
+    Updated: 2026-08-09T01:44:56Z
+    Author: Admin
+  - [Bioseguridad sanitaria: control operativo clínico](https://prosalud.me/blogs/noticias/bioseguridad-sanitaria-control-operativo-clinico): Bioseguridad sanitaria: control operativo clínico
+    Updated: 2026-08-10T07:31:04Z
+    Author: Admin
+  - [El Consultorio Minimalista e "Instagrameable"](https://prosalud.me/blogs/noticias/el-consultorio-minimalista-e-instagrameable)
+    Updated: 2026-08-11T18:07:23Z
+    Author: Eduardo campos
+    Tags: Diseño de Consultorios, Equipamiento Hospitalario, Equipamiento Médico, Experiencia del Paciente, Mobiliario Clínico, Reputación Médica, Retención de Pacientes
+  - [Compras hospitalarias con control y respaldo](https://prosalud.me/blogs/noticias/compras-hospitalarias-con-control-y-respaldo): Compras hospitalarias con control y respaldo
+    Updated: 2026-08-13T01:46:36Z
+    Author: Admin
+  - [Guía para comprar desfibriladores en México](https://prosalud.me/blogs/noticias/guia-para-comprar-desfibriladores-en-mexico): Guía para comprar desfibriladores en México
+    Updated: 2026-08-15T01:45:54Z
+    Author: Admin
+  - [Electrocardiógrafos portátiles para uso clínico](https://prosalud.me/blogs/noticias/electrocardiografos-portatiles-para-uso-clinico): Electrocardiógrafos portátiles para uso clínico
+    Updated: 2026-08-17T01:49:44Z
+    Author: Admin
 
 ## Store Pages
 
