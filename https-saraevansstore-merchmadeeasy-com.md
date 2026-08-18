@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-02-18T18:16:29Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-09T00:00:34.349Z
+- Updated At: 2026-08-18T00:00:37.588Z
 
 ## Products
 
@@ -31,6 +31,48 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/CDWORDS.png?v=1752868898
   Price: $9.98 USD
+- [Hair Back Photo Navy Tee](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee): Limited sizes + quantities available!
+  Updated: 2026-08-15T06:02:41Z
+  Vendor: SaraEvans
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/Navy_Blue_Photo_Tee_c36d95d1-3fde-4d63-8cee-085bae7c0cab.png?v=1550856658
+  - [S](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015576130)
+    Availability: Available
+    Price: $10.00 USD
+  - [M](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015608898)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [L](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015641666)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [XL](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015674434)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [XXL](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015707202)
+    Availability: Not Available
+    Price: $10.00 USD
+- [Live Country Music Tee](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee): Limited sizes + quantities available! White Unisex Softstyle Tee
+  Updated: 2026-08-15T06:03:35Z
+  Vendor: SaraEvans
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/Live_Country_Tee.png?v=1550856750
+  - [S](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016100418)
+    Availability: Available
+    Price: $10.00 USD
+  - [M](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016133186)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [L](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016165954)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [XL](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016198722)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [XXL](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016231490)
+    Availability: Not Available
+    Price: $10.00 USD
 - [Copy That - CD](https://saraevansstore.merchmadeeasy.com/products/copy-that-cd): Copy That - The 13-song collection, spanning six decades, finds Evans putting her distinctive creative stamp on some of the most iconic songs in country and pop music, songs that have inspired her life and career, as well as shining a spotlight on some little-known gems.
   Updated: 2026-07-08T20:12:24Z
   Vendor: Sara Evans Store
@@ -45,8 +87,32 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/saraevansautographedbook.png?v=1680645354
   Price: $45.00 USD
+- [Photo Tour Tee](https://saraevansstore.merchmadeeasy.com/products/photo-tour-t-shirt): Limited sizes + quantities available!
+  Updated: 2026-08-15T06:05:05Z
+  Vendor: SaraEvans
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/image.png?v=1669229694
+  - [S](https://saraevansstore.merchmadeeasy.com/products/photo-tour-t-shirt?variant=43025477107867)
+    Availability: Not Available
+    Price: $8.00 USD
+  - [M](https://saraevansstore.merchmadeeasy.com/products/photo-tour-t-shirt?variant=43025477140635)
+    Availability: Available
+    Price: $8.00 USD
+  - [L](https://saraevansstore.merchmadeeasy.com/products/photo-tour-t-shirt?variant=43025477173403)
+    Availability: Not Available
+    Price: $8.00 USD
+  - [XL](https://saraevansstore.merchmadeeasy.com/products/photo-tour-t-shirt?variant=43025477238939)
+    Availability: Not Available
+    Price: $8.00 USD
+  - [XXL](https://saraevansstore.merchmadeeasy.com/products/photo-tour-t-shirt?variant=43025477271707)
+    Availability: Not Available
+    Price: $8.00 USD
+  - [XXXL](https://saraevansstore.merchmadeeasy.com/products/photo-tour-t-shirt?variant=44169397436571)
+    Availability: Not Available
+    Price: $8.00 USD
 - [Beige Beanie](https://saraevansstore.merchmadeeasy.com/products/beige-beanie): Beige knit beanie with Sara Evans patch!
-  Updated: 2026-07-18T07:45:19Z
+  Updated: 2026-08-12T21:13:41Z
   Vendor: SaraEvans
   Product Type: Beanie
   Availability: Available
@@ -109,7 +175,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [[Fan Club] Collegiate Tee](https://saraevansstore.merchmadeeasy.com/products/fan-club-collegiate-tee): Fan Club exclusive-- Sara Evans Collegiate Tee! 100% Cotton
-  Updated: 2026-08-03T19:28:01Z
+  Updated: 2026-08-09T15:54:26Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -172,7 +238,7 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SEFlag.png?v=1699285501
   Price: $10.00 USD
 - [[Fan Club] Laminate](https://saraevansstore.merchmadeeasy.com/products/fan-club-laminate): The official Fan Club laminate is here!
-  Updated: 2026-08-03T19:28:06Z
+  Updated: 2026-08-13T05:14:06Z
   Vendor: Sara Evans Store
   Product Type: 
   Availability: Available
@@ -269,8 +335,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-TOTE-BAG-BLACK.png?v=1714404379
   Price: $15.00 USD
+- [Sara Evans Print](https://saraevansstore.merchmadeeasy.com/products/sara-evans-print): The new Sara Evans photo print! 8 x 10 inches
+  Updated: 2026-08-14T02:27:01Z
+  Vendor: Sara Evans Store
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-PHOTO-PRINT.png?v=1718902703
+  Price: $10.00 USD
 - [Suds In The Bucket Tee](https://saraevansstore.merchmadeeasy.com/products/suds-in-the-bucket-tee-1): Suds In The Bucket Tee with front and back print! 100% Cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-07-18T13:28:46Z
+  Updated: 2026-08-09T19:10:06Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -343,14 +416,14 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SEWORDSVINYLPNG.png?v=1745940225
   Price: $25.00 USD
 - [Saints & Angels - Saints](https://saraevansstore.merchmadeeasy.com/products/saints-angels-saints): Be the first to grab tickets with presale access Stay in the know with insider updates straight from Sara Go behind the scenes with exclusive content and past performances Join the community and engage with BTS moments
-  Updated: 2026-08-02T02:21:38Z
+  Updated: 2026-08-16T14:22:17Z
   Vendor: Sara Evans Store
   Product Type: Membership
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/artworka6d9064a-9bd3-4ed1-b3db-50753876e982.png?v=1738866776
   Price: $25.00 USD
 - [Saints & Angels - Angels](https://saraevansstore.merchmadeeasy.com/products/saints-angels-angels): Includes everything from Saints, plus: Exclusive fan merch designed just for Angels One fan chosen each month for (2) tickets and M&Gs to a show of your choice Save 10% on official Sara Evans merch
-  Updated: 2026-07-09T03:08:45Z
+  Updated: 2026-08-13T05:06:56Z
   Vendor: Sara Evans Store
   Product Type: Membership
   Availability: Available
@@ -385,29 +458,29 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/WordsCD.png?v=1752261621
   Price: $12.98 USD
 - [2025 Tour Photo Tee](https://saraevansstore.merchmadeeasy.com/products/2025-tour-photo-tee): Sara Evans Photo tour tee with 2025 cities on the back 100% Cotton Unisex
-  Updated: 2026-07-17T06:16:46Z
+  Updated: 2026-08-13T05:14:06Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE2025TOURTEE.png?v=1772135026
   - [S](https://saraevansstore.merchmadeeasy.com/products/2025-tour-photo-tee?variant=46795312038043)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.00 USD
   - [M](https://saraevansstore.merchmadeeasy.com/products/2025-tour-photo-tee?variant=46795312070811)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.00 USD
   - [L](https://saraevansstore.merchmadeeasy.com/products/2025-tour-photo-tee?variant=46795312103579)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.00 USD
   - [XL](https://saraevansstore.merchmadeeasy.com/products/2025-tour-photo-tee?variant=46795312136347)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.00 USD
   - [2X](https://saraevansstore.merchmadeeasy.com/products/2025-tour-photo-tee?variant=46795312169115)
     Availability: Available
-    Price: $30.00 USD
+    Price: $25.00 USD
   - [3X](https://saraevansstore.merchmadeeasy.com/products/2025-tour-photo-tee?variant=46795314397339)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $25.00 USD
 - [Stronger Horse Tee](https://saraevansstore.merchmadeeasy.com/products/stronger-horse-tee): Horses graphic on the front with Sara Evans and Stronger text 100% combed tee in Espresso Unisex tee SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26
   Updated: 2026-07-19T23:37:20Z
   Vendor: Sara Evans Store
@@ -481,7 +554,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Suds in the Bucket Sketch Tee](https://saraevansstore.merchmadeeasy.com/products/suds-in-the-bucket-sketch-tee): Sara Evans graphic on the front Suds in the Bucket title and sketch graphics on the back Unisex tee in Ivory 100% Cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-08-04T17:38:52Z
+  Updated: 2026-08-09T19:10:06Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -546,19 +619,19 @@
 ## Collections
 
 - [Accessories](https://saraevansstore.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-03T14:44:57Z
+  Updated: 2026-08-13T11:01:55Z
   Total Products: 64
 - [Apparel](https://saraevansstore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-13T11:01:55Z
   Total Products: 56
 - [Music](https://saraevansstore.merchmadeeasy.com/collections/music)
   Updated: 2026-07-08T20:12:51Z
   Total Products: 18
 - [Last Chance](https://saraevansstore.merchmadeeasy.com/collections/on-)
-  Updated: 2026-08-03T14:44:57Z
+  Updated: 2026-08-12T21:14:26Z
   Total Products: 40
 - [Fan Club Exclusives](https://saraevansstore.merchmadeeasy.com/collections/fan-club-exclusives)
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-13T11:01:55Z
   Total Products: 6
 - [Unbroke Collection](https://saraevansstore.merchmadeeasy.com/collections/unbroke-collection)
   Updated: 2026-08-03T14:44:57Z
@@ -570,28 +643,28 @@
   Updated: 2026-07-08T20:12:23Z
   Total Products: 9
 - [ALL](https://saraevansstore.merchmadeeasy.com/collections/all): Shop all merchandise from the Official Sara Evans store!
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-13T11:01:55Z
   Total Products: 58
 - [](https://saraevansstore.merchmadeeasy.com/collections/)
-  Updated: 2026-07-28T04:00:06Z
-  Total Products: 15
+  Updated: 2026-08-13T11:01:55Z
+  Total Products: 16
 - [Under $10](https://saraevansstore.merchmadeeasy.com/collections/under-10)
-  Updated: 2026-07-28T23:02:02Z
+  Updated: 2026-08-12T21:14:26Z
   Total Products: 16
 - [The Lake Day](https://saraevansstore.merchmadeeasy.com/collections/the-lake-day)
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-12T21:13:09Z
   Total Products: 14
 - [Cozy Collection](https://saraevansstore.merchmadeeasy.com/collections/cozy-collection)
-  Updated: 2026-07-08T20:12:49Z
+  Updated: 2026-08-12T21:12:55Z
   Total Products: 15
 - [Lyric Collection](https://saraevansstore.merchmadeeasy.com/collections/lyric-collection)
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-10T11:02:36Z
   Total Products: 20
 - [Unbroke Music](https://saraevansstore.merchmadeeasy.com/collections/unbroke-music)
   Updated: 2026-07-08T20:12:45Z
   Total Products: 7
 - [BEST SELLERS](https://saraevansstore.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-13T11:01:55Z
   Total Products: 16
 - [Words Anniversary](https://saraevansstore.merchmadeeasy.com/collections/words-anniversary)
   Updated: 2026-07-08T20:12:51Z
@@ -600,34 +673,34 @@
   Updated: 2026-07-19T11:02:24Z
   Total Products: 14
 - [Restless Anniversary](https://saraevansstore.merchmadeeasy.com/collections/restless)
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-13T11:01:55Z
   Total Products: 65
 - [$10](https://saraevansstore.merchmadeeasy.com/collections/10): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-07-26T11:03:37Z
+  Updated: 2026-08-10T11:02:36Z
   Total Products: 10
 - [$5 and Under](https://saraevansstore.merchmadeeasy.com/collections/5-and-under): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-08-03T14:44:57Z
+  Updated: 2026-08-12T21:13:09Z
   Total Products: 32
 - [$15 and up](https://saraevansstore.merchmadeeasy.com/collections/15-and-up): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-13T11:01:55Z
   Total Products: 81
 - [Sticker ](https://saraevansstore.merchmadeeasy.com/collections/sticker-): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-17T11:02:53Z
   Total Products: 156
 - [Born To Fly](https://saraevansstore.merchmadeeasy.com/collections/born-to-fly)
   Updated: 2026-08-04T11:02:33Z
   Total Products: 10
 - [](https://saraevansstore.merchmadeeasy.com/collections/-1)
-  Updated: 2026-07-08T20:12:25Z
+  Updated: 2026-08-12T21:13:09Z
   Total Products: 21
 - [We Got The Beat Tour](https://saraevansstore.merchmadeeasy.com/collections/we-got-the-beat-tour)
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-10T11:02:36Z
   Total Products: 8
 - [Gifts for Mom](https://saraevansstore.merchmadeeasy.com/collections/gifts-for-mom)
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-10T11:02:36Z
   Total Products: 14
 - [Summer Picks](https://saraevansstore.merchmadeeasy.com/collections/summer-picks)
-  Updated: 2026-08-05T11:03:30Z
+  Updated: 2026-08-10T11:02:36Z
   Total Products: 11
 
 ## Blogs
