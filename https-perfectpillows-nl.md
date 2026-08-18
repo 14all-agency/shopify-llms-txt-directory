@@ -10,20 +10,20 @@
 - Contact Email: info@perfectpillows.nl
 - Contact Phone: 06-14567151
 - Address: Jarmuiden 30-b, 1046 AD Amsterdam
-- Updated At: 2026-06-29T00:00:44.438Z
+- Updated At: 2026-08-18T19:11:27.021Z
 
 ## Products
 
 - [Strak kussen](https://perfectpillows.nl/products/strak-kussen): Strak gevormd kussen met schuimvulling, stevige afwerking.
-  Updated: 2026-06-28T20:29:56Z
+  Updated: 2026-08-18T18:54:35Z
 - [Strak kussen met schuine  kanten](https://perfectpillows.nl/products/strak-kussen-met-schuine-kanten): Strak kussen met één of twee schuine zijden.
-  Updated: 2026-06-28T14:46:57Z
+  Updated: 2026-08-17T09:20:29Z
 - [Rugkussen schuin](https://perfectpillows.nl/products/rugkussen-schuin): Schuin gevormd rugkussen strak afgewerkt voor ondersteuning.
-  Updated: 2026-06-28T10:55:10Z
+  Updated: 2026-08-17T09:22:09Z
 - [Plof kussen met zijband](https://perfectpillows.nl/products/plof-kussen-met-zijband): Zacht kussen met vlokvulling en hogere kern
-  Updated: 2026-06-28T18:46:36Z
+  Updated: 2026-08-18T19:05:46Z
 - [Plof kussen zonder zijband](https://perfectpillows.nl/products/plof-kussen-zonder-zijband): Rond plofkussen met losse vlokvulling, tot 100 cm
-  Updated: 2026-06-28T10:37:35Z
+  Updated: 2026-08-18T15:38:35Z
 - [Sunbrella Natté](https://perfectpillows.nl/products/sunbrella-furniture-natte)
   Updated: 2026-05-03T14:30:26Z
 - [Sunbrella Solids](https://perfectpillows.nl/products/sunbrella-furniture-solids)
@@ -85,34 +85,34 @@
 
 ## Collections
 
-- [Kussens op maat zakelijk | B2B maatwerk oplossingen](https://perfectpillows.nl/collections/b2b): Maatwerk kussens voor bedrijven. Van horeca tot interieurprojecten. Hoge kwaliteit, snelle levering en persoonlijk advies. Je bent welkom in onze showroom.
+- [B2B](https://perfectpillows.nl/collections/b2b): Maatwerk kussens voor bedrijven. Van horeca tot interieurprojecten. Hoge kwaliteit, snelle levering en persoonlijk advies. Je bent welkom in onze showroom.
   Updated: 2026-04-11T09:33:42Z
   Total Products: 0
-- [Binnenkussens op maat | Comfort en perfecte pasvorm](https://perfectpillows.nl/collections/kussens-op-maat-voor-binnen): Binnenkussens op maat laten maken. Comfortabel, stijlvol en perfect passend voor jouw interieur. Ontdek alle mogelijkheden.
+- [Kussens op maat voor binnen](https://perfectpillows.nl/collections/kussens-op-maat-voor-binnen): Binnenkussens op maat laten maken. Comfortabel, stijlvol en perfect passend voor jouw interieur. Ontdek alle mogelijkheden.
   Updated: 2026-05-05T19:36:24Z
   Total Products: 0
-- [Buitenkussens op maat | Weerbestendig & duurzaam](https://perfectpillows.nl/collections/kussens-op-maat-voor-buiten): Buitenkussens op maat voor tuin en lounge. Weerbestendig, kleurvast en perfect passend. Binnen 7 dagen geleverd.
+- [Kussens op maat voor buiten](https://perfectpillows.nl/collections/kussens-op-maat-voor-buiten): Buitenkussens op maat voor tuin en lounge. Weerbestendig, kleurvast en perfect passend. Binnen 7 dagen geleverd.
   Updated: 2026-05-05T19:36:49Z
   Total Products: 0
-- [Caravan en camper kussens op maat | Perfect passend maatwerk](https://perfectpillows.nl/collections/caravans): Caravankussens op maat voor optimaal comfort. Perfect passend, duurzaam en snel geleverd. Ideaal voor camper en caravan. Bestel gemakkelijk online.
+- [Caravan en Camper](https://perfectpillows.nl/collections/caravans): Caravankussens op maat voor optimaal comfort. Perfect passend, duurzaam en snel geleverd. Ideaal voor camper en caravan. Bestel gemakkelijk online.
   Updated: 2026-04-11T09:35:50Z
   Total Products: 0
-- [Bootkussens op maat | Specialist in maatwerk](https://perfectpillows.nl/collections/bootkussens): Bootkussens op maat laten maken. Wij meten op locatie en zorgen voor een perfecte pasvorm of kom langs in onze showroom en bekijk al onze verschillende stoffen.
+- [Bootkussens](https://perfectpillows.nl/collections/bootkussens): Bootkussens op maat laten maken. Wij meten op locatie en zorgen voor een perfecte pasvorm of kom langs in onze showroom en bekijk al onze verschillende stoffen.
   Updated: 2026-04-11T09:37:07Z
   Total Products: 0
-- [Ligbed kussens op maat | Comfort & perfecte pasvorm](https://perfectpillows.nl/collections/ligbedden): Ligbed kussens op maat laten maken bij Perfect Pillows. Perfect passend en snel geleverd. Kies jouw stof en geniet van optimaal comfort. Bestel vandaag nog.
-  Updated: 2026-04-11T09:32:07Z
+- [Kussens op maat voor ligbedden](https://perfectpillows.nl/collections/ligbedden): Ligbed kussens op maat laten maken bij Perfect Pillows. Perfect passend en snel geleverd. Kies jouw stof en geniet van optimaal comfort. Bestel vandaag nog.
+  Updated: 2026-08-05T08:58:25Z
   Total Products: 0
-- [Stoffen voor kussens | Sunbrella & premium kwaliteit](https://perfectpillows.nl/collections/stoffen): Kies uit hoogwaardige stoffen zoals Sunbrella. Duurzaam, kleurvast en perfect voor kussens op maat binnen en buiten.
+- [Stoffen](https://perfectpillows.nl/collections/stoffen): Kies uit hoogwaardige stoffen zoals Sunbrella. Duurzaam, kleurvast en perfect voor kussens op maat binnen en buiten.
   Updated: 2026-05-05T11:43:11Z
   Total Products: 29
-- [Kussens op maat | Perfect passend en snel geleverd](https://perfectpillows.nl/collections/kussens): Kussens op maat laten maken voor binnen en buiten. Kies jouw stof, maat en afwerking. Binnen 7 dagen geleverd uit eigen atelier.
-  Updated: 2026-06-28T11:24:12Z
+- [Kussens](https://perfectpillows.nl/collections/kussens): Kussens op maat laten maken voor binnen en buiten. Kies jouw stof, maat en afwerking. Binnen 7 dagen geleverd uit eigen atelier.
+  Updated: 2026-08-18T13:38:15Z
   Total Products: 5
-- [Alle kussens op maat | Stel jouw kussen samen](https://perfectpillows.nl/collections/all): Ontdek al onze kussens op maat en stel eenvoudig jouw ideale kussen samen. Voor binnen en buiten, perfect passend en binnen 7 dagen geleverd.
-  Updated: 2026-06-28T11:24:12Z
+- [Alle producten](https://perfectpillows.nl/collections/all): Ontdek al onze kussens op maat en stel eenvoudig jouw ideale kussen samen. Voor binnen en buiten, perfect passend en binnen 7 dagen geleverd.
+  Updated: 2026-08-18T13:38:15Z
   Total Products: 5
-- [Kussenhoezen op maat bestellen | Duurzame outdoor & Sunbrella stoffen](https://perfectpillows.nl/collections/kussenhoezen-op-maat): Bestel kussenhoezen op maat in elke gewenste stof en kleur. Duurzame outdoor en Sunbrella stoffen, perfect passend gemaakt voor jouw tuin of interieur.
+- [Kussenhoezen op maat](https://perfectpillows.nl/collections/kussenhoezen-op-maat): Bestel kussenhoezen op maat in elke gewenste stof en kleur. Duurzame outdoor en Sunbrella stoffen, perfect passend gemaakt voor jouw tuin of interieur.
   Updated: 2026-05-05T19:35:08Z
   Total Products: 0
 
@@ -166,6 +166,15 @@
     Author: Ali Temiz
   - [Camperkussens op maat kopen? l Perfectpillows](https://perfectpillows.nl/blogs/news/camperkussens-op-maat): Camperkussens op maat kopen? l Perfectpillows
     Updated: 2026-06-28T10:29:18Z
+    Author: Ali Temiz
+  - [Strakke Zitkussens & Strakke Rugkussens op Maat voor Jouw Tuinbank](https://perfectpillows.nl/blogs/news/strakke-kussens-op-maat): Strakke Zitkussens & Strakke Rugkussens op Maat voor Jouw Tuinbank
+    Updated: 2026-07-03T19:13:30Z
+    Author: Ali Temiz
+  - [Zomertuin inspiratie: comfortabele kussens op maat voor buiten](https://perfectpillows.nl/blogs/news/zomertuin-kussens-op-maat): Zomertuin inspiratie: comfortabele kussens op maat voor buiten
+    Updated: 2026-08-01T08:44:59Z
+    Author: Ali Temiz
+  - [Kussens op maat voor binnen: De ultieme gids | Perfect Pillowsm kussens op maat de geheime sfeermaker in jouw interieur zijn](https://perfectpillows.nl/blogs/news/kussens-op-maat-binnen): Kussens op maat voor binnen: De ultieme gids | Perfect Pillowsm kussens op maat de geheime sfeermaker in jouw interieur zijn
+    Updated: 2026-08-08T11:27:09Z
     Author: Ali Temiz
 
 ## Store Pages
