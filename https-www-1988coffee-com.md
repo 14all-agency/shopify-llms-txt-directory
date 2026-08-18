@@ -8,12 +8,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-20T04:00:01Z
 - Contact Email: vistar.wang@gmail.com
-- Updated At: 2026-08-09T09:47:41.109Z
+- Updated At: 2026-08-18T00:00:27.614Z
 
 ## Products
 
-- [Dawn 160ml Double-Walled Espresso Cups Set](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml): Stainless steel double-walled espresso cups keep shots hot, cool to the touch. 160ml capacity, set of 2.
-  Updated: 2026-08-09T03:50:58Z
+- [Dawn 160ml Double-Walled Espresso Cup | 1988 Coffee](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml): Choose a 160ml double-walled stainless steel espresso cup in seven colors. Sized for double espresso, cortado, flat white, and other small drinks. Shop now.
+  Updated: 2026-08-12T17:36:52Z
   Vendor: 1988 Coffee
   Product Type: Espresso Cup
   Availability: Available
@@ -368,8 +368,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_2-100_720e1a9e-cde8-46c4-aa19-0d6e3dba8ce4.jpg?v=1780470933
     Price: $9.99 USD
-- [Vertical Striped Gravity Distributor Steel](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set): Stainless steel vertical-striped gravity espresso distributor. Self-leveling, no calibration, adjustable depth.
-  Updated: 2026-08-09T03:51:17Z
+- [Vertical-Striped Gravity Espresso Distributor](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set): Shop black or silver vertical-striped gravity espresso distributor options in 51mm, 53/54mm, and 58mm. Check current variant pricing and availability.
+  Updated: 2026-08-13T21:45:12Z
   Vendor: 1988 Coffee
   Product Type: Espresso Distributor
   Availability: Available
@@ -422,8 +422,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/s51.png?v=1780471050
     Price: $41.99 USD
-- [Volcano Espresso Shot Glass 100ml](https://www.1988coffee.com/products/espresso-measuring-cup-volcano-extraction-cup-coffee-shot-glass-milk-pitcher-stainless-steel-measuring-cup): Stainless steel espresso shot glass with measurement scale. Volcano profile, 100ml capacity, under $6.
-  Updated: 2026-08-09T03:51:22Z
+- [100ml Espresso Measuring Cup with Spout | 1988 Coffee](https://www.1988coffee.com/products/espresso-measuring-cup-volcano-extraction-cup-coffee-shot-glass-milk-pitcher-stainless-steel-measuring-cup): Measure espresso volume in a 100ml stainless steel cup with a visible scale, stable base, side handle, and pour spout. Available in four finishes. Shop now.
+  Updated: 2026-08-12T17:36:55Z
   Vendor: 1988 Coffee
   Product Type: Espresso Shot Glass
   Availability: Available
@@ -521,7 +521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327165134_653_496.jpg?v=1780474693
     Price: $23.99 USD
 - [Airtight Coffee Canister – Vacuum Seal Valve](https://www.1988coffee.com/products/coffee-canister-coffee-bean-storage-airtight-coffee-container-one-way-valve-coffee-jar): Keep coffee beans fresh 3x longer. Stainless steel vacuum-seal canister with one-way CO2 valve. 1.2L & 1.5L, under $12.
-  Updated: 2026-08-09T03:51:26Z
+  Updated: 2026-08-12T06:28:25Z
   Vendor: 1988 Coffee
   Product Type: Coffee Storage
   Availability: Available
@@ -629,9 +629,9 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260326172024_536_496.jpg?v=1780474723
     Price: $24.99 USD
 - [Coffee Vacuum 3.0 Cordless Dual-Use Cleaner](https://www.1988coffee.com/products/coffee-vacuum-3-0-cordless-handheld-blow-suck-dual-use-high-power-ultra-strong-suction): Cordless dual-mode coffee cleaner — blow & suction. High-power motor, 5 nozzles, USB-C rechargeable. For espresso setups.
-  Updated: 2026-07-28T09:01:52Z
+  Updated: 2026-08-13T16:01:16Z
   Vendor: 1988 Coffee
-  Product Type: 
+  Product Type: Coffee Equipment Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/800-1.jpg?v=1778815779
   - [灰色](https://www.1988coffee.com/products/coffee-vacuum-3-0-cordless-handheld-blow-suck-dual-use-high-power-ultra-strong-suction?variant=42871718248525)
@@ -647,8 +647,8 @@
   - [Silver](https://www.1988coffee.com/products/coffee-vacuum-3-0-cordless-handheld-blow-suck-dual-use-high-power-ultra-strong-suction?variant=42928328802381)
     Availability: Not Available
     Price: $52.00 USD
-- [Manual Coffee Press 350ml — Glass Coffee Maker](https://www.1988coffee.com/products/household-coffee-press-manual-coffee-pot): Brew rich coffee at home with this 350ml manual coffee press — borosilicate glass body, 304 stainless steel filter, no pods or paper filters. Includes bean spoon and cleaning brush. Ships in 5–11 days.
-  Updated: 2026-08-09T03:51:31Z
+- [350ml Glass French Press | 1988 Coffee](https://www.1988coffee.com/products/household-coffee-press-manual-coffee-pot): Brew full-bodied coffee with a compact 350ml glass French press and reusable metal mesh filter. A simple single-serve brewer for home or office. Shop online.
+  Updated: 2026-08-17T07:01:45Z
   Vendor: 1988 Coffee
   Product Type: Coffee Maker
   Availability: Available
@@ -661,40 +661,40 @@
   Updated: 2026-07-24T08:07:14Z
   Total Products: 0
 - [Tamping & Distribution Tools](https://www.1988coffee.com/collections/tamping-distribution-tools): Shop gravity coffee distributors, constant force tampers, and walnut-base espresso tools. Eliminate channeling and pull consistent shots with every puck preparation.
-  Updated: 2026-07-24T08:07:54Z
+  Updated: 2026-08-11T12:49:04Z
   Total Products: 11
 - [Latte Art & Milk Frothing Tools dd](https://www.1988coffee.com/collections/latte-art-milk-frothing-tools): Stainless steel milk pitchers for latte art — bell shape for beginners, eagle beak for precision pours. 304 stainless steel in 350ml, 400ml, 500ml, and 600ml sizes.
   Updated: 2026-07-24T08:08:25Z
   Total Products: 4
 - [Cups & Storage Containers](https://www.1988coffee.com/collections/cups-storage-containers-1): Shop professional latte art cups, airtight coffee bean storage canisters, and accessories. Designed for specialty coffee lovers who care about freshness and.
-  Updated: 2026-07-24T08:08:24Z
+  Updated: 2026-08-12T05:41:34Z
   Total Products: 4
 - [Dosing & Extraction Accessories](https://www.1988coffee.com/collections/dosing-extraction-accessories): Magnetic dosing rings, portafilter filter papers, and extraction accessories for consistent espresso. Fits 51mm, 53mm, 54mm, and 58mm portafilter baskets.
   Updated: 2026-07-24T08:09:15Z
   Total Products: 4
 - [Cleaning & Helper Tools](https://www.1988coffee.com/collections/cleaning-helper-tools): Keep your espresso setup clean and performing at its best. Shop portafilter brushes, group head tools, and maintenance accessories for home and café espresso.
-  Updated: 2026-07-24T08:09:14Z
-  Total Products: 3
+  Updated: 2026-08-12T07:27:40Z
+  Total Products: 1
 - [OPEN - Best Sellers](https://www.1988coffee.com/collections/avada-best-sellers): Discover the OPEN best sellers collection featuring top-rated products loved by customers worldwide. Explore quality and popularity all in one place.
-  Updated: 2026-07-29T09:06:55Z
-  Total Products: 89
+  Updated: 2026-08-13T04:01:12Z
+  Total Products: 26
 - [Breville Barista Express Accessories | 54mm Upgrades](https://www.1988coffee.com/collections/breville-barista-express): Upgrade your Breville Barista Express with 54mm-compatible tampers, gravity distributors, WDT tools, and puck prep accessories.
-  Updated: 2026-07-28T12:08:55Z
-  Total Products: 44
+  Updated: 2026-08-13T04:01:12Z
+  Total Products: 25
 - [Breville Bambino Accessories | 54mm Tampers & Espresso Tools](https://www.1988coffee.com/collections/breville-bambino): Shop 54mm tampers, distributors, and WDT tools for Breville Bambino and Bambino Plus. Better puck prep for better shots.
-  Updated: 2026-07-28T12:08:55Z
-  Total Products: 44
+  Updated: 2026-08-13T04:01:12Z
+  Total Products: 25
 - [DeLonghi Dedica Accessories | 51mm Tampers & Upgrade Kit](https://www.1988coffee.com/collections/delonghi-dedica): Upgrade your DeLonghi Dedica with 51mm tampers, WDT tools, puck screens, and espresso accessories for cleaner shots.
-  Updated: 2026-07-28T12:08:55Z
-  Total Products: 44
+  Updated: 2026-08-13T04:01:12Z
+  Total Products: 25
 - [58mm Portafilter Accessories | Precision Tampers, Distributors & WDT Tools](https://www.1988coffee.com/collections/58mm-portafilter): Shop 58mm portafilter accessories: precision tampers, WDT tools, gravity distributors, and puck screens for better espresso.
-  Updated: 2026-07-28T12:08:55Z
-  Total Products: 44
+  Updated: 2026-08-13T04:01:12Z
+  Total Products: 25
 - [Smart Products Filter Index - Do not delete](https://www.1988coffee.com/collections/globofilter-best--products-index): Browse COFFEECONCEPT coffee tools, espresso accessories, brewing gear, tampers, distributors, WDT tools, milk pitchers, and manual coffee makers.
-  Updated: 2026-08-09T09:18:41Z
-  Total Products: 91
+  Updated: 2026-08-13T04:01:12Z
+  Total Products: 26
 - [Manual Coffee Press & Glass Coffee Makers](https://www.1988coffee.com/collections/cjcoffee): Discover the 350ml coffee press for smooth, rich coffee at home. A compact manual brewer with glass design, ideal for daily use and easy cleanup.
-  Updated: 2026-07-24T08:12:44Z
+  Updated: 2026-08-12T05:41:27Z
   Total Products: 1
 
 ## Blogs
@@ -946,6 +946,10 @@
   - [Best Coffee Tampers 2025: Reviews & Buying Guide](https://www.1988coffee.com/blogs/coffee-tool/best-coffee-tampers-espresso): Best Coffee Tampers 2025: Reviews & Buying Guide
     Updated: 2026-07-24T08:35:04Z
     Author: COFFEECONCEPT
+- [test](https://www.1988coffee.com/blogs/test)
+  - [Xiaomi 13 Series: Specs, Performance & Upgrades Explained](https://www.1988coffee.com/blogs/test/xiaomi-13-series-specs-performance-upgrades-explained): Xiaomi 13 Series: Specs, Performance & Upgrades Explained
+    Updated: 2026-08-15T00:11:43Z
+    Author: 1988coffee.com
 
 ## Store Pages
 
