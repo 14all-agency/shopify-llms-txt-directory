@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2018-08-24T17:42:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-11T00:00:36.482Z
+- Updated At: 2026-08-18T00:00:38.116Z
 
 ## Products
 
@@ -251,7 +251,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/autographedposter.png?v=1694024765
   Price: $45.00 USD
 - [Terri Clark Koozie](https://terriclarkmusic.merchmadeeasy.com/products/terri-clark-koozie): "Terri Clark" logo purple and black drink koozie.
-  Updated: 2026-07-28T23:00:37Z
+  Updated: 2026-08-13T19:48:04Z
   Vendor: Terri Clark
   Product Type: Accessories
   Availability: Available
@@ -299,6 +299,13 @@
   - [2XL](https://terriclarkmusic.merchmadeeasy.com/products/terri-clark-grey-zip-hoodie?variant=22657156382802)
     Availability: Not Available
     Price: $45.00 USD
+- [Limited Edition Signed ‘Raising the Bar’ Vinyl](https://terriclarkmusic.merchmadeeasy.com/products/signed-raising-the-bar-vinyl-featuring-one-drink-ago-with-dallas-smith): Order the signed, double vinyl release of 'Raising the Bar.' In addition to the full studio album, this limited edition release includes the hit duet “One Drink Ago” with Dallas Smith. Release date: 10/4/19 Side 11. Givin' Up Givin' A Damn 2. Cowboys In This Town 3. Weddings, Funerals, and Empty Hotel Bars 4. Young As We Are Tonight Side 25. Half A Bottle Down6. Bloody Mary Morning7. Watered Down Whiskey Side 38. As Long As There’s A Bar9. Right Where You Left Me10. You Can have this Town11. The One That Got Away Featuring Drake White Side 412. The Encore13. Better Than I Was14. One Drink Ago with Dallas Smith
+  Updated: 2026-08-15T05:26:20Z
+  Vendor: Terri Clark
+  Product Type: No 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/products/0-1.jpg?v=1560801902
+  Price: $35.00 USD
 - [Hat Brats Club Tee](https://terriclarkmusic.merchmadeeasy.com/products/hat-brat-club-tee): Join the club! Rep Terri Clark's Hat Brats Vintage Purple Tee made of 50/25/25 poly/cotton/rayon blend. Unisex fit!
   Updated: 2026-08-06T23:00:38Z
   Vendor: Terri Clark
@@ -475,14 +482,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Size Don't Matter Koozie](https://terriclarkmusic.merchmadeeasy.com/products/size-dont-matter-koozie): Black Fits 12oz cans
-  Updated: 2026-07-08T22:11:58Z
+  Updated: 2026-08-13T19:48:04Z
   Vendor: Terri Clark
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/size.png?v=1694024798
   Price: $5.00 USD
 - [Vintage Tour Tee](https://terriclarkmusic.merchmadeeasy.com/products/2022-photo-tour-tee): Color: Black Unisex
-  Updated: 2026-07-24T18:23:16Z
+  Updated: 2026-08-13T20:43:38Z
   Vendor: Terri Clark Music
   Product Type: Apparel
   Availability: Available
@@ -500,7 +507,7 @@
     Availability: Not Available
     Price: $25.00 USD
   - [2XL](https://terriclarkmusic.merchmadeeasy.com/products/2022-photo-tour-tee?variant=41906602639542)
-    Availability: Not Available
+    Availability: Available
     Price: $25.00 USD
   - [3XL](https://terriclarkmusic.merchmadeeasy.com/products/2022-photo-tour-tee?variant=41970451808438)
     Availability: Not Available
@@ -537,7 +544,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/dIRTYGirlHat.png?v=1706286836
   Price: $30.00 USD
 - [Promoting Bad Behavior Koozie](https://terriclarkmusic.merchmadeeasy.com/products/promoting-bad-behavior-koozie): Black Fits 12oz cans
-  Updated: 2026-07-08T22:11:59Z
+  Updated: 2026-08-13T19:48:04Z
   Vendor: Terri Clark
   Product Type: Koozie
   Availability: Available
@@ -627,7 +634,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/tc_b1bb9ded-69ba-4f14-96e2-41f4147d2bd6.png?v=1706215006
   Price: $15.00 USD
 - [Terri Clark x Paul Brandt Homecoming Cozy Koozie](https://terriclarkmusic.merchmadeeasy.com/products/cozy-koozie): "Terri Clark" logo purple and black drink koozie.
-  Updated: 2026-07-14T22:26:31Z
+  Updated: 2026-08-13T19:48:03Z
   Vendor: Terri Clark
   Product Type: Accessories
   Availability: Available
@@ -697,7 +704,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Clark In Script Hat Brat Fan Club Tee](https://terriclarkmusic.merchmadeeasy.com/products/clark-in-script-hat-brat-fan-club-tee)
-  Updated: 2026-07-16T03:07:35Z
+  Updated: 2026-08-14T23:00:36Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -775,7 +782,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Classic CD (Signed)](https://terriclarkmusic.merchmadeeasy.com/products/classic-cd-signed): Signed by Terri! Limited quantity available "This is the type of "timeless" project I've wanted to do my whole life. It signifies so many things for me - my family roots, the Opry, my history and influences as an artist, and the songs that make up so much of the fabric of country music." - Terri Release Date: November 13, 2012 Tracklist: It Wasn't God Who Made Honky Tonk Angels Love Is A Rose How Blue feat. Reba Don't Come Home A Drinkin' (With Lovin' On Your Mind) Gentle On My Mind Golden Ring feat. Dierks Bentley Two More Bottles of Wine Leavin' On Your Mind feat. Jann Arden Swinging Doors Delta Dawn feat. Tanya Tucker I'm Movin' On feat. Dean Brody
-  Updated: 2026-07-17T21:20:32Z
+  Updated: 2026-08-13T19:44:02Z
   Vendor: Terri Clark
   Product Type: Music
   Availability: Available
@@ -789,7 +796,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/LifeGoesOnCdSIGNED.png?v=1761918640
   Price: $20.00 USD
 - [Greatest Hits Guitar Tee](https://terriclarkmusic.merchmadeeasy.com/products/greatest-hits-guitar-tee): TC hits photo black tee.
-  Updated: 2026-08-06T23:00:37Z
+  Updated: 2026-08-17T20:18:23Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -826,8 +833,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/TC-Classic-Hat.png?v=1759344891
   Price: $25.00 USD
-- [Lightning Vintage Photo Tee](https://terriclarkmusic.merchmadeeasy.com/products/lightning-vintage-photo-tee): TC hits photo black tee.
-  Updated: 2026-08-09T00:22:56Z
+- [Lightning Vintage Photo Tee](https://terriclarkmusic.merchmadeeasy.com/products/lightning-vintage-photo-tee): Terri Clark photo in black and white with lightning graphic 100% cotton Unisex fit SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
+  Updated: 2026-08-17T18:36:35Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -847,11 +854,8 @@
   - [2XL](https://terriclarkmusic.merchmadeeasy.com/products/lightning-vintage-photo-tee?variant=45243829911734)
     Availability: Not Available
     Price: $35.00 USD
-  - [3XL](https://terriclarkmusic.merchmadeeasy.com/products/lightning-vintage-photo-tee?variant=45243829944502)
-    Availability: Not Available
-    Price: $35.00 USD
 - [Just The Same Tour Tee](https://terriclarkmusic.merchmadeeasy.com/products/just-the-same-tour-tee): TC hits photo black tee.
-  Updated: 2026-08-01T12:27:07Z
+  Updated: 2026-08-13T19:42:03Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -871,9 +875,6 @@
   - [2XL](https://terriclarkmusic.merchmadeeasy.com/products/just-the-same-tour-tee?variant=45244664676534)
     Availability: Not Available
     Price: $35.00 USD
-  - [3XL](https://terriclarkmusic.merchmadeeasy.com/products/just-the-same-tour-tee?variant=45244664709302)
-    Availability: Not Available
-    Price: $35.00 USD
 - [Girls Lie Too Hat](https://terriclarkmusic.merchmadeeasy.com/products/girls-lie-too-hat): Embroidered Hat with Girls Lie Too graphic on the front 'Terri Clark' embroidered on the back Mossy Oak/Natural Hat
   Updated: 2026-07-28T08:11:43Z
   Vendor: Terri Clark
@@ -881,39 +882,46 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/Mockups_0000_Girls-Lie-Too-Hat.png?v=1783523953
   Price: $45.00 USD
+- [Terri and Paul Tour Koozie](https://terriclarkmusic.merchmadeeasy.com/products/terri-and-paul-tour-koozie): Black Fits 12oz cans
+  Updated: 2026-08-13T20:37:42Z
+  Vendor: Terri Clark
+  Product Type: Koozie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/PBxTCkoozie.png?v=1786650420
+  Price: $5.00 USD
 
 ## Collections
 
 - [Official Merch](https://terriclarkmusic.merchmadeeasy.com/collections/official-merch)
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 90
+  Updated: 2026-08-13T19:47:46Z
+  Total Products: 91
 - [Apparel](https://terriclarkmusic.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 46
+  Updated: 2026-08-17T17:13:19Z
+  Total Products: 49
 - [Accessories](https://terriclarkmusic.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-07-22T11:06:32Z
-  Total Products: 43
+  Updated: 2026-08-17T17:16:06Z
+  Total Products: 48
 - [Music](https://terriclarkmusic.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-05T20:38:41Z
+  Updated: 2026-08-13T19:43:13Z
   Total Products: 23
 - [Hats](https://terriclarkmusic.merchmadeeasy.com/collections/hats)
-  Updated: 2026-07-22T11:06:32Z
-  Total Products: 14
+  Updated: 2026-08-17T16:19:48Z
+  Total Products: 15
 - [Featured](https://terriclarkmusic.merchmadeeasy.com/collections/featured)
-  Updated: 2026-08-09T11:06:27Z
+  Updated: 2026-08-13T19:42:44Z
   Total Products: 18
 - [All Products](https://terriclarkmusic.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 122
+  Updated: 2026-08-17T17:16:38Z
+  Total Products: 129
 - [T-Shirts](https://terriclarkmusic.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 40
+  Updated: 2026-08-17T17:13:19Z
+  Total Products: 41
 - [Hoodies](https://terriclarkmusic.merchmadeeasy.com/collections/hoodies)
   Updated: 2026-07-08T22:12:19Z
   Total Products: 5
 - [Drinkware](https://terriclarkmusic.merchmadeeasy.com/collections/drinkware)
-  Updated: 2026-07-15T11:06:27Z
-  Total Products: 10
+  Updated: 2026-08-13T19:47:46Z
+  Total Products: 11
 - [Posters](https://terriclarkmusic.merchmadeeasy.com/collections/posters)
   Updated: 2026-07-20T11:06:57Z
   Total Products: 2
@@ -930,26 +938,26 @@
   Updated: 2026-07-08T20:17:30Z
   Total Products: 0
 - [All](https://terriclarkmusic.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 122
+  Updated: 2026-08-17T17:16:06Z
+  Total Products: 130
 - [](https://terriclarkmusic.merchmadeeasy.com/collections/)
-  Updated: 2026-07-23T11:06:14Z
-  Total Products: 39
+  Updated: 2026-08-13T19:47:46Z
+  Total Products: 40
 - [ Collection](https://terriclarkmusic.merchmadeeasy.com/collections/-collection)
   Updated: 2026-07-30T11:07:46Z
   Total Products: 33
 - [ NOT Exempt](https://terriclarkmusic.merchmadeeasy.com/collections/-not-exempt)
-  Updated: 2026-08-05T19:12:58Z
+  Updated: 2026-08-13T19:42:44Z
   Total Products: 73
 - [2022 Tour Collection](https://terriclarkmusic.merchmadeeasy.com/collections/2022-tour-collection)
-  Updated: 2026-07-30T11:07:46Z
-  Total Products: 15
+  Updated: 2026-08-13T19:47:46Z
+  Total Products: 16
 - [Merch](https://terriclarkmusic.merchmadeeasy.com/collections/merch)
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 103
+  Updated: 2026-08-17T17:16:38Z
+  Total Products: 111
 - [Best Sellers](https://terriclarkmusic.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 22
+  Updated: 2026-08-13T19:47:46Z
+  Total Products: 23
 - [Cold Weather Collection](https://terriclarkmusic.merchmadeeasy.com/collections/cold-weather-collection)
   Updated: 2026-07-15T11:06:27Z
   Total Products: 7
@@ -966,11 +974,11 @@
   Updated: 2026-07-23T11:06:14Z
   Total Products: 20
 - [EasyGift All Products](https://terriclarkmusic.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 122
+  Updated: 2026-08-17T17:16:38Z
+  Total Products: 129
 - [Koozies](https://terriclarkmusic.merchmadeeasy.com/collections/koozies)
-  Updated: 2026-07-15T11:06:27Z
-  Total Products: 7
+  Updated: 2026-08-17T17:16:38Z
+  Total Products: 9
 - [Summer  $5](https://terriclarkmusic.merchmadeeasy.com/collections/summer--5)
   Updated: 2026-08-05T19:15:09Z
   Total Products: 42
@@ -981,20 +989,20 @@
   Updated: 2026-08-03T19:54:10Z
   Total Products: 6
 - [Signed Media](https://terriclarkmusic.merchmadeeasy.com/collections/signed-cds)
-  Updated: 2026-08-05T20:38:41Z
+  Updated: 2026-08-13T19:42:44Z
   Total Products: 10
 - [Stocking Stuffers](https://terriclarkmusic.merchmadeeasy.com/collections/stocking-stuffers-1)
-  Updated: 2026-08-05T20:38:41Z
-  Total Products: 52
+  Updated: 2026-08-17T17:16:38Z
+  Total Products: 57
 - [NEW ARRIVALS](https://terriclarkmusic.merchmadeeasy.com/collections/new-arrivals)
   Updated: 2026-08-09T11:06:27Z
   Total Products: 14
 - [Spring BOGO ](https://terriclarkmusic.merchmadeeasy.com/collections/spring-)
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 99
+  Updated: 2026-08-17T17:16:39Z
+  Total Products: 107
 - [Tour Merch](https://terriclarkmusic.merchmadeeasy.com/collections/tour-merch)
-  Updated: 2026-08-09T11:06:27Z
-  Total Products: 12
+  Updated: 2026-08-17T16:19:48Z
+  Total Products: 13
 - [Live From The Ryman](https://terriclarkmusic.merchmadeeasy.com/collections/live-from-the-ryman)
   Updated: 2026-08-05T20:38:49Z
   Total Products: 2
