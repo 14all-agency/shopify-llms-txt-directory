@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2015-09-23T17:57:14Z
 - Contact Email: info@intouchclothing.net
-- Updated At: 2026-08-11T04:46:01.620Z
+- Updated At: 2026-08-19T00:00:34.851Z
 
 ## Products
 
@@ -37,7 +37,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/DSC05168_BACK.jpg?v=1541457568
     Price: $22.95 USD
 - [High Impact Capri Legging | Supplex Activewear | Intouch Clothing](https://intouchclothing.net/products/premium-supplex-mid-calf-legging): Shop our form-fitting Supplex capri legging. 4-way stretch, quick-dry, and made in the USA. Built for high-impact workouts and maximum support.
-  Updated: 2026-08-11T04:41:16Z
+  Updated: 2026-08-16T17:39:35Z
   Vendor: 0
   Product Type: Activewear
   Availability: Available
@@ -213,7 +213,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/DSC04228_FRONT_fc0b6533-f924-416e-9e5e-12e6590cec20.jpg?v=1516732476
     Price: $32.99 USD
 - [Cotton Spandex Capri Legging | Women's Activewear | Intouch Clothing](https://intouchclothing.net/products/cotton-spandex-capri-legging): Lightweight combed cotton capri, 90% cotton 10% spandex, moisture-wicking, breathable, USA-made — great for yoga or gym.
-  Updated: 2026-08-11T04:41:17Z
+  Updated: 2026-08-12T20:58:29Z
   Vendor: In Touch Clothing
   Product Type: Activewear
   Availability: Available
@@ -627,7 +627,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/DSC07917.jpg?v=1736920290
     Price: $22.50 USD
 - [Organic Cotton Spandex Bra - Eco-Friendly Activewear | Intouch Clothing](https://intouchclothing.net/products/mockingbird-organic-cotton-spandex-bra): Shop the Mockingbird Organic Cotton Spandex Bra. Breathable, sustainable, and made in California with 88% non-GMO organic cotton.
-  Updated: 2026-08-11T04:41:18Z
+  Updated: 2026-08-12T22:30:40Z
   Vendor: Intouch Clothing
   Product Type: Casual
   Availability: Available
@@ -2604,7 +2604,7 @@
     Availability: Available
     Price: $29.00 USD
 - [Racerback Sports Bra | Women's Activewear | Intouch Clothing](https://intouchclothing.net/products/racerback-sports-bra): Shop our racerback sports bra. Designed for support and comfort during any workout. Made in the USA with premium activewear fabric.
-  Updated: 2026-08-09T04:22:32Z
+  Updated: 2026-08-12T23:44:30Z
   Vendor: Intouch Clothing
   Product Type: 
   Availability: Available
@@ -3036,7 +3036,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/3195-CrystalWashFront.jpg?v=1588527306
     Price: $20.00 USD
 - [Neo-Leggings with Waist Band Support | Sculpting | Intouch Clothing](https://intouchclothing.net/products/neo-leggings): Sculpting leggings with integrated Neo-Waist Band, flexible, breathable, flattering silhouette, made in Los Angeles.
-  Updated: 2026-08-09T12:15:57Z
+  Updated: 2026-08-17T05:49:25Z
   Vendor: Intouch Clothing
   Product Type: Activewear
   Availability: Available
@@ -3162,7 +3162,7 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Stylish Crop Tank Top - Organic Cotton Comfort](https://intouchclothing.net/products/crop-tank-top): Discover the perfect blend of style and comfort with our organic cotton crop tank top. Ideal for layering or a casual chic look.
-  Updated: 2026-08-09T12:16:06Z
+  Updated: 2026-08-17T05:49:36Z
   Vendor: Intouch Clothing
   Product Type: fitwear
   Availability: Available
@@ -3354,7 +3354,7 @@
     Availability: Not Available
     Price: $37.99 USD
 - [Relax Hoodie - Cozy Comfort for Everyday Calm](https://intouchclothing.net/products/relax-hoodie): Discover the Relax Hoodie, designed for a comforting embrace that alleviates anxiety and stress with its soft cotton fabric and spacious pockets.
-  Updated: 2026-08-09T12:16:16Z
+  Updated: 2026-08-17T05:49:47Z
   Vendor: Intouch Clothing
   Product Type: orgnic
   Availability: Available
@@ -3440,7 +3440,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/DSC07963.jpg?v=1757388386
     Price: $40.50 USD
 - [Sexy straps leggings](https://intouchclothing.net/products/sexy-straps-leggings): These sexy straps leggings blend design and comfort, crafted from soft, breathable cotton for all-day wear. The unique strap details add a bold, fashionable edge, enhancing your silhouette while offering flexibility and support. Perfect for both casual outings and active moments, they combine expert construction with stylish appeal.
-  Updated: 2026-08-09T12:16:20Z
+  Updated: 2026-08-17T05:49:50Z
   Vendor: Intouch Clothing
   Product Type: 
   Availability: Available
@@ -3462,7 +3462,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/dc7cf4e6-6b07-44f7-93fe-82e18c6245cf.jpg?v=1758926528
     Price: $60.00 USD
 - [Sirene Mesh Bra](https://intouchclothing.net/products/sirene-mesh-bra): Elevate your swimwear collection with our stunning black bikini top, expertly crafted from a high-quality stretchy fabric that ensures a comfortable and flattering fit for all body types. This swimwear bra features a chic mesh sirene design, adding a touch of elegance and sophistication to your beach or poolside look. The breathable material allows for optimal movement and flexibility, making it perfect for swimming, sunbathing, or beach volleyball. With its versatile black hue, this bikini top pairs effortlessly with any bottom, allowing you to mix and match for a personalized style. Embrace confidence and comfort this summer with a bikini top that combines functionality with fashion.
-  Updated: 2026-08-09T12:16:22Z
+  Updated: 2026-08-17T05:49:55Z
   Vendor: Atletike
   Product Type: Swimwear
   Availability: Available
@@ -3500,7 +3500,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/bra-red.jpg?v=1769292644
     Price: $80.00 USD
 - [Marina one piece Swimwear](https://intouchclothing.net/products/marina-one-piece-swimwear): Elevate your swimwear collection with our stunning yellow one-piece swimsuit, designed for a clean finish that flatters every figure. This vibrant piece not only exudes confidence and style but also offers exceptional comfort and support, making it perfect for both lounging by the pool and active beach days. Crafted with high-quality materials, it ensures durability and a perfect fit, allowing you to make a splash in style. Embrace the sun and stand out effortlessly in this must-have swimsuit.
-  Updated: 2026-08-09T12:16:30Z
+  Updated: 2026-08-17T05:50:06Z
   Vendor: Ondine
   Product Type: ONE PIECE
   Availability: Available
@@ -3570,7 +3570,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/The-New-Black_12.png?v=1774650190
     Price: $60.00 USD
 - [100% Organic Cotton Racer Tank Top | Intouch Clothing](https://intouchclothing.net/products/100-organic-cotton-racer-tank-top): Shop our 100% GOTS- organic cotton racer tank top in White and Pale Yellow. Made in LA, designed for movement and everyday wear.
-  Updated: 2026-08-09T12:16:37Z
+  Updated: 2026-08-17T05:50:06Z
   Vendor: Intouch Clothing
   Product Type: Tank Top
   Availability: Available
@@ -3607,53 +3607,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/pale-yellow-racer-tank-top-front.png?v=1784501143
     Price: $38.00 USD
-- [Organic Cotton Spandex Leggings | Intouch Clothing](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1): Shop our 95% organic cotton, 5% spandex leggings in Black and Mocha. Soft, stretchy, and sustainably made in Los Angeles.
-  Updated: 2026-08-09T12:16:39Z
-  Vendor: Intouch Clothing
-  Product Type: Leggings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1003/0520/files/leggings_blk.jpg?v=1785125545
-  - [Black / Small](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1?variant=54348715557148)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1003/0520/files/leggings_blk.jpg?v=1785125545
-    Price: $59.00 USD
-  - [Black / Medium](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1?variant=54348715589916)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1003/0520/files/leggings_blk.jpg?v=1785125545
-    Price: $59.00 USD
-  - [Black / Large](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1?variant=54348715622684)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1003/0520/files/leggings_blk.jpg?v=1785125545
-    Price: $59.00 USD
-  - [Black / X-Large](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1?variant=54348715655452)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1003/0520/files/leggings_blk.jpg?v=1785125545
-    Price: $59.00 USD
-  - [Mocha / Small](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1?variant=54348715688220)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1003/0520/files/mocha.jpg?v=1785125543
-    Price: $59.00 USD
-  - [Mocha / Medium](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1?variant=54348715720988)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1003/0520/files/mocha.jpg?v=1785125543
-    Price: $59.00 USD
-  - [Mocha / Large](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1?variant=54348715753756)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1003/0520/files/mocha.jpg?v=1785125543
-    Price: $59.00 USD
-  - [Mocha / X-Large](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1?variant=54348715786524)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1003/0520/files/mocha.jpg?v=1785125543
-    Price: $59.00 USD
-[List Continued](https://intouchclothing.net/a/llms-agent/llms.txt?shop=intouchclothing.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDkxMzk4MDc3NjczMiwibGFzdF92YWx1ZSI6IjEwOTEzOTgwNzc2NzMyIn0%3D)
+[List Continued](https://intouchclothing.net/a/llms-agent/llms.txt?shop=intouchclothing.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDkwNTcwOTU3NjQ3NiwibGFzdF92YWx1ZSI6IjEwOTA1NzA5NTc2NDc2In0%3D)
 
 ## Collections
 
 - [Active Bras](https://intouchclothing.net/collections/active-bras): Our active bras fit your active lifestyle! The Intouch collection of sport bras cover just about any physical activity you participate in.
-  Updated: 2026-08-08T11:01:07Z
+  Updated: 2026-08-15T11:01:13Z
   Total Products: 23
 - [Active Pants](https://intouchclothing.net/collections/active-pants): Intouch Clothing carries a vast line of active pants for the active woman. Yoga, running, the gym are just a few of the things covered in our collection. Shop yoga pants, yoga capris, organic pants, leggings.
-  Updated: 2026-07-29T02:34:09Z
+  Updated: 2026-08-17T11:01:23Z
   Total Products: 106
 - [Active Shorts](https://intouchclothing.net/collections/active-shorts): Intouch Clothing carries a full line of women's athletic shorts, bike shorts and gym shorts for a variety of activities including yoga, biking, gym, and running
   Updated: 2026-07-29T02:42:07Z
@@ -3665,13 +3627,13 @@
   Updated: 2026-07-08T20:25:21Z
   Total Products: 1
 - [All](https://intouchclothing.net/collections/all)
-  Updated: 2026-08-08T11:01:07Z
+  Updated: 2026-08-17T11:01:23Z
   Total Products: 291
 - [SWIMWEAR](https://intouchclothing.net/collections/swimwear)
   Updated: 2026-07-08T21:22:38Z
   Total Products: 15
 - [ACTIVEWEAR](https://intouchclothing.net/collections/activewear): Our Activewear Collection is designed for movement, confidence, and everyday performance. Crafted in Los Angeles using high-quality, breathable fabrics, each piece blends comfort with a sleek, modern aesthetic. From sculpting leggings to supportive tops, every design is made to move with your body—whether you're training, stretching, or on the go. With a focus on clean lines, durable construction, and flattering fits, this collection delivers both functionality and elevated style. Thoughtfully produced with attention to detail, our activewear transitions effortlessly from workout to lifestyle, empowering you to feel strong, confident, and unstoppable.
-  Updated: 2026-07-08T21:22:30Z
+  Updated: 2026-08-17T11:01:23Z
   Total Products: 12
 - [Default example products](https://intouchclothing.net/collections/asset-pack-68113072130-example-products)
   Updated: 2026-07-08T20:25:21Z
@@ -3737,6 +3699,24 @@
     Author: Intouchclothing.net Staff
   - [Why Beyond Clean Karma Organic Shorts Are Revolutionizing Sustainable Fashion](https://intouchclothing.net/blogs/news/why-beyond-clean-karma-organic-shorts-are-revolutionizing-sustainable-fashion): Why Beyond Clean Karma Organic Shorts Are Revolutionizing Sustainable Fashion
     Updated: 2026-08-11T04:35:30Z
+    Author: intouch clothing
+  - [The Evolution of Athletic Comfort with INTOUCH Organic Cotton High-Waisted Bike Shorts](https://intouchclothing.net/blogs/news/the-evolution-of-athletic-comfort-with-intouch-organic-cotton-high-waisted-bike-shorts): The Evolution of Athletic Comfort with INTOUCH Organic Cotton High-Waisted Bike Shorts
+    Updated: 2026-08-13T12:01:09Z
+    Author: intouch clothing
+  - [Discover Unmatched Comfort and Eco-Friendly Style with an Organic Cotton Spandex Bra](https://intouchclothing.net/blogs/news/discover-unmatched-comfort-and-eco-friendly-style-with-an-organic-cotton-spandex-bra): Discover Unmatched Comfort and Eco-Friendly Style with an Organic Cotton Spandex Bra
+    Updated: 2026-08-14T12:00:25Z
+    Author: intouch clothing
+  - [Discover Ultimate Comfort with the Relax Hoodie Your Everyday Essential](https://intouchclothing.net/blogs/news/discover-ultimate-comfort-with-the-relax-hoodie-your-everyday-essential): Discover Ultimate Comfort with the Relax Hoodie Your Everyday Essential
+    Updated: 2026-08-15T12:00:54Z
+    Author: intouch clothing
+  - [10 Ways a Vintage Denim Wash Hoodie Elevates Your Everyday Wardrobe](https://intouchclothing.net/blogs/news/10-ways-a-vintage-denim-wash-hoodie-elevates-your-everyday-wardrobe): 10 Ways a Vintage Denim Wash Hoodie Elevates Your Everyday Wardrobe
+    Updated: 2026-08-16T12:00:25Z
+    Author: intouch clothing
+  - [5 Reasons the Organic Cotton Muscle Tank is Your Summer Workout Essential](https://intouchclothing.net/blogs/news/5-reasons-the-organic-cotton-muscle-tank-is-your-summer-workout-essential): 5 Reasons the Organic Cotton Muscle Tank is Your Summer Workout Essential
+    Updated: 2026-08-17T12:01:53Z
+    Author: intouch clothing
+  - [Why the Organic Cotton Long V-Neck Tee is a Sustainable Fashion Game-Changer](https://intouchclothing.net/blogs/news/why-the-organic-cotton-long-v-neck-tee-is-a-sustainable-fashion-game-changer): Why the Organic Cotton Long V-Neck Tee is a Sustainable Fashion Game-Changer
+    Updated: 2026-08-18T12:00:25Z
     Author: intouch clothing
 
 ## Store Pages
