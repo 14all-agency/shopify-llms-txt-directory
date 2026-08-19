@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-06-24T21:50:49Z
 - Contact Email: shopify@luxurybeautydistribution.co.uk
-- Updated At: 2026-08-05T00:00:41.024Z
+- Updated At: 2026-08-19T00:00:45.289Z
 
 ## Collections
 
