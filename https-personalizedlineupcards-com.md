@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2013-07-12T18:13:34Z
 - Contact Email: marketing@personalizedlineupcards.com
-- Updated At: 2026-08-12T00:00:37.930Z
+- Updated At: 2026-08-19T00:00:40.118Z
 
 ## Products
 
 - [Personalized Baseball & Softball Lineup Cards | Lineup Card V1](https://personalizedlineupcards.com/products/lineup-card-v1-logo-left): Custom baseball and softball lineup cards. Four part repeating lineup card sheets that are personalized with your team's name and logo.
-  Updated: 2026-08-11T13:09:56Z
+  Updated: 2026-08-18T17:27:56Z
   Vendor: Personalized Lineup Cards
   Product Type: Lineup Card
   Availability: Available
@@ -49,6 +49,9 @@
   - [3000](https://personalizedlineupcards.com/products/lineup-card-v1-logo-left?variant=39586093727842)
     Availability: Available
     Price: $1,600.00 USD
+  - [100](https://personalizedlineupcards.com/products/lineup-card-v1-logo-left?variant=43222607822946)
+    Availability: Available
+    Price: $77.00 USD
 - [Personalized Baseball & Softball Lineup & Dugout Cards With Your Logo](https://personalizedlineupcards.com/products/lineup-card-v2-center-logo): Custom baseball and softball lineup cards. Forms that are used by baseball and softball coaches to track line-up changes during games. Submit logo and team name for printing.
   Updated: 2026-08-10T18:50:17Z
   Vendor: Personalized Lineup Cards
@@ -128,7 +131,7 @@
     Availability: Available
     Price: $1,600.00 USD
 - [Personalized Baseball & Softball Lineup & Dugout Cards With Your Logo](https://personalizedlineupcards.com/products/lineup-card-v4-with-game-notes): Custom baseball and softball lineup cards with your logo. Forms that are used by baseball and softball coaches to track line-up changes during games. Submit logo and team name for printing.
-  Updated: 2026-08-10T18:56:32Z
+  Updated: 2026-08-18T03:57:17Z
   Vendor: Personalized Lineup Cards
   Product Type: Lineup Card
   Availability: Available
@@ -167,7 +170,7 @@
     Availability: Available
     Price: $1,600.00 USD
 - [Lineup Cards Made Custom for Baseball and Softball Teams & Leagues](https://personalizedlineupcards.com/products/lineup-card-v5-with-game-notes): Custom baseball and softball lineup cards. Forms that are used by baseball and softball coaches to track line-up changes during games. Submit logo and team name for printing.
-  Updated: 2026-08-11T15:35:56Z
+  Updated: 2026-08-18T20:50:26Z
   Vendor: Personalized Lineup Cards
   Product Type: Lineup Card
   Availability: Available
@@ -302,7 +305,7 @@
     Availability: Available
     Price: $350.00 USD
 - [Lineup Cards Made Custom for Baseball and Softball Teams & Leagues](https://personalizedlineupcards.com/products/lineup-card-version-8): Custom baseball and softball lineup cards. Forms that are used by baseball and softball coaches to track line-up changes during games. Submit logo and team name for printing.
-  Updated: 2026-08-10T19:06:43Z
+  Updated: 2026-08-15T02:39:17Z
   Vendor: Personalized Lineup Cards
   Product Type: Lineup Card
   Availability: Available
@@ -515,7 +518,7 @@
     Availability: Available
     Price: $1,100.00 USD
 - [Personalized Hockey Lineup Cards](https://personalizedlineupcards.com/products/hockey-lineup-cards-v2): Hockey Lineup Cards Keep your bench organized with PLC Sports Custom Hockey Lineup Cards — fully personalized with your team or organization's name and/or logo. Each card is printed on 4-part NCR carbonless paper, so one entry instantly creates three copies — no carbon paper, no smudging, no hassle. At 5½" x 8½", you'll have plenty of room to clearly write player names, numbers, and positions for coaches, scorekeepers, and officials.
-  Updated: 2026-08-08T06:15:01Z
+  Updated: 2026-08-16T22:16:57Z
   Vendor: Personalized Lineup Cards
   Product Type: Lineup Card
   Availability: Available
@@ -606,7 +609,7 @@
   Image: https://cdn.shopify.com/s/files/1/0249/2616/files/PLCWhiteClipboard.jpg?v=1682627382
   Price: $5.00 USD
 - [Personalized Dugout Cards](https://personalizedlineupcards.com/products/dugout-card-version-3): Custom Dugout Cards for coaches to manage game situations
-  Updated: 2026-07-21T14:44:06Z
+  Updated: 2026-08-16T21:39:36Z
   Vendor: Personalized Lineup Cards
   Product Type: Dugout Card
   Availability: Available
@@ -696,7 +699,7 @@
     Availability: Available
     Price: $312.00 USD
 - [Umpire Cards - 5.5"x 4" - Printed on Cardstock](https://personalizedlineupcards.com/products/umpire-cards): Baseball Umpire Cards for Baseball & Softball Tournaments & Leagues At the request of Baseball Tournament organizers, umpires, and high school coaches, we customize baseball umpire cards! Custom, pocket-sized umpire card meets the needs of various leagues and competitions. Pricing is based on branding, printed 2-sided on cardstock!
-  Updated: 2026-08-06T20:32:46Z
+  Updated: 2026-08-17T18:18:56Z
   Vendor: Personalized Lineup Cards
   Product Type: Umpire Card
   Availability: Available
@@ -1214,7 +1217,7 @@
   Image: https://cdn.shopify.com/s/files/1/0249/2616/files/PLCSportsCustomLockerSticker.png?v=1754077494
   Price: $5.97 USD
 - [Custom Helmet Stickers - 30 Stickers Per Sheet](https://personalizedlineupcards.com/products/custom-helmet-stickers): Numbered Helmet Stickers are perfect for baseball, softball, hockey, lacrosse and football. Customize with your team colors. 30 stickers per sheet, just $12!
-  Updated: 2026-07-13T21:12:17Z
+  Updated: 2026-08-14T20:21:27Z
   Vendor: Personalized Lineup Cards
   Product Type: Helmet Sticker
   Availability: Available
@@ -1453,7 +1456,7 @@
     Availability: Available
     Price: $1,600.00 USD
 - [Carrier Fuel Surcharge](https://personalizedlineupcards.com/products/carrier-fuel-surcharge)
-  Updated: 2026-08-11T20:15:09Z
+  Updated: 2026-08-16T18:04:27Z
   Vendor: Personalized Lineup Cards
   Product Type: Fee
   Availability: Available
@@ -1465,7 +1468,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Carrier Fuel Surcharge](https://personalizedlineupcards.com/products/carrier-fuel-surcharge-1)
-  Updated: 2026-08-11T11:02:27Z
+  Updated: 2026-08-17T21:38:48Z
   Vendor: Personalized Lineup Cards
   Product Type: Fee
   Availability: Available
@@ -1477,7 +1480,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Custom Team License Plate V1](https://personalizedlineupcards.com/products/custom-license-plate-v1): Customized Aluminum Team License Plate Show your team pride everywhere you drive! Perfect for High School, Travel Teams, and Youth Associations.
-  Updated: 2026-08-08T05:55:48Z
+  Updated: 2026-08-14T20:26:42Z
   Vendor: Personalized Lineup Cards
   Product Type: 
   Availability: Available
@@ -1494,13 +1497,13 @@
 ## Collections
 
 - [Custom Lineup Cards](https://personalizedlineupcards.com/collections/custom-lineup-cards): Create custom baseball, softball Lineup Cards. Add your own personalized touch to your lineup cards by using your team colors, logo and roster. Shop Today
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 18
 - [Logo Design](https://personalizedlineupcards.com/collections/logo-design)
   Updated: 2026-07-08T21:31:02Z
   Total Products: 1
 - [Personalized Dugout Cards](https://personalizedlineupcards.com/collections/dugout-cards): Create custom Baseball and Softball Dugout Cards for Little league to college level. Customize with your team's logo and colors, printed on quality paper.
-  Updated: 2026-08-09T11:01:36Z
+  Updated: 2026-08-17T11:01:58Z
   Total Products: 5
 - [Clipboards](https://personalizedlineupcards.com/collections/clipboards): 6 x 9 Clipboard to hold your lineup cards. Comes with extended hanger to easily put on a push pin. Easily fits into a coaches bag or backpack.
   Updated: 2024-09-18T20:02:13Z
@@ -1511,16 +1514,16 @@
 - [Custom Baseball Collection -  Lineup Cards, Dugout Cards, Bag Tags and Helmet Stickers](https://personalizedlineupcards.com/collections/baseball): Win big with a great selection of personalized lineup cards, dugout cards, and lanyards for your Baseball Team. 
 
 You just upload your LOGO for use on the lineup cards and lanyards as well as the Roster & Numbers, (Coaches too) and we will show you a real-time proof to approve.  Let’s get started.
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 26
 - [Softball](https://personalizedlineupcards.com/collections/softball): Win big with a great selection of personalized lineup cards, dugout cards, and lanyards for your Softball Team. You just upload your LOGO for use on the lineup cards and lanyards as well as the Roster & Numbers, (Coaches too) and we will show you a real-time proof to approve. Let’s get started.
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 25
 - [Lacrosse](https://personalizedlineupcards.com/collections/lacrosse): Win big with a great selection of personalized lanyards for your Lacrosse Team. Make substitutions faster, compete better, and show your opponents your team is here to win! Just upload your team's information and we will show you a real-time proof to approve.
-  Updated: 2026-08-07T18:31:17Z
+  Updated: 2026-08-15T11:01:40Z
   Total Products: 5
 - [Football](https://personalizedlineupcards.com/collections/football): Win big with a great selection of personalized lineup cards and lanyards for your Football Team. Make substitutions faster, compete better, and show your opponents your team is here to win! You just upload your team's information, (Coaches too) and we will show you a real-time proof to approve.
-  Updated: 2026-08-07T18:27:06Z
+  Updated: 2026-08-15T11:01:40Z
   Total Products: 5
 - [Soccer](https://personalizedlineupcards.com/collections/soccer): Win big with a great selection of personalized lineup cards and lanyards for your Soccer Team. 
 Make substitutions faster, compete better, and show your opponents your team is here to win!
@@ -1534,10 +1537,10 @@ You just upload your team information and we will show you a real-time proof to 
   Updated: 2024-09-18T20:02:14Z
   Total Products: 0
 - [Custom Hockey Lineup Cards, Bag Tags, Helmet Stickers](https://personalizedlineupcards.com/collections/hockey): PLC Sports introduces a new product line for Hockey with Custom Lineup Cards and Travel Sports Bag Tags.  Personalize for your in-house, travel, or high school or college team today.
-  Updated: 2026-07-14T11:01:34Z
+  Updated: 2026-08-17T11:01:58Z
   Total Products: 7
 - [All Products](https://personalizedlineupcards.com/collections/all-products)
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 45
 - [Basketball](https://personalizedlineupcards.com/collections/basketball)
   Updated: 2026-08-11T11:01:04Z
@@ -1552,22 +1555,22 @@ You just upload your team information and we will show you a real-time proof to 
   Updated: 2026-08-11T11:01:04Z
   Total Products: 22
 - [Personalized Lineup Cards](https://personalizedlineupcards.com/collections/lineup-cards): Customize sports lineup cards for your baseball or softball team today. Add your team name, logos and roster. 10+ templates to choose from.
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 14
 - [Baseball Lineup Cards](https://personalizedlineupcards.com/collections/baseball-lineup-cards): Customize your Baseball Team's Lineup cards today! Youth, Travel, High School -- Baseball Coaches personalize lineup cards to meet the needs of their teams.
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 14
 - [Softball Lineup Cards](https://personalizedlineupcards.com/collections/softball-lineup-cards): Customize your Softball Team's Lineup cards today! No more off-the shelf boring lineup cards. Pick a template that works for your softball team. If we can help you with a custom order, please complete the Contact Us form and submit your request.
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 14
 - [Products](https://personalizedlineupcards.com/collections/all)
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 86
 - [Fees products](https://personalizedlineupcards.com/collections/fees-products)
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 86
 - [Umpire Cards](https://personalizedlineupcards.com/collections/umpire-cards): Custom Umpire Cards for Baseball & Softball Tournaments & Leagues By request from Umpires and High School Coaches at the American Baseball Association Annual Convention we are now printing Umpire Cards! We are excited to provide a customizable Umpire Card to meet the needs of various leagues and competitions.Pricing is based on one-color, printed 2-sided on card stock! Here's how to get started: Review the Umpire Card Decide on the Content that is Best for your League or Tournament Order a Quantity After we receive payment, we will gather your custom content, show you a proof, make one round of necessary changes and print! After your proof is , fulfillment is about 2 weeks.
-  Updated: 2026-08-07T11:01:32Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 2
 - [Travel Dugout Cards and Bag Tags](https://personalizedlineupcards.com/collections/promo)
   Updated: 2026-07-22T11:01:40Z
@@ -1579,10 +1582,10 @@ You just upload your team information and we will show you a real-time proof to 
   Updated: 2026-07-08T21:31:04Z
   Total Products: 9
 - [10th Anniversary Custom Lineup Card by PLC Sports](https://personalizedlineupcards.com/collections/10th-anniversary-lineup-card): PLC Sports V10 Lineup Card Template was designed to celebrate 10 years of personalizing line up cards of our clients. See the Patriot's logo? Replace it with your team's branding! If we can help you with a customize lineup card order, please email us at marketing@personalizedlineupcards.com
-  Updated: 2026-08-09T11:01:36Z
+  Updated: 2026-08-12T11:01:18Z
   Total Products: 4
 - [Hockey Lineup Cards](https://personalizedlineupcards.com/collections/hockey-lineup-cards): Each PLC Sports Custom Hockey Lineup Card is fully customized with your team or organization's name and/or logo. Each Lineup card is printed on 4-part NCR carbonless paper, allowing you to write on one copy and have three others instantly. PLC Sports Custom Hockey Lineup Cards are 5 1/2 x 8 1/2. Add a coach clipboard to your order!
-  Updated: 2026-07-08T21:31:05Z
+  Updated: 2026-08-17T11:01:58Z
   Total Products: 2
 - [Hockey Bag Tags](https://personalizedlineupcards.com/collections/hockey-bag-tags): Personalized bag tags for your hockey team! Add your team colors, logo and player name and number. Multiple sizes and templates to choose from.
   Updated: 2026-07-08T21:46:23Z
@@ -1636,10 +1639,10 @@ You just upload your team information and we will show you a real-time proof to 
   Updated: 2026-07-08T21:46:30Z
   Total Products: 2
 - [Custom Stickers by PLC Sports](https://personalizedlineupcards.com/collections/helmet-stickers): Custom helmet and locker stickers from PLC Sports. Choose your colors, add your team's logo and more!
-  Updated: 2026-07-14T11:01:34Z
+  Updated: 2026-08-15T11:01:40Z
   Total Products: 3
 - [Custom Helmet Stickers](https://personalizedlineupcards.com/collections/custom-helmet-stickers)
-  Updated: 2026-07-14T11:01:34Z
+  Updated: 2026-08-15T11:01:40Z
   Total Products: 2
 - [Custom Locker Stickers](https://personalizedlineupcards.com/collections/custom-locker-stickers)
   Updated: 2026-07-08T21:31:07Z
@@ -1648,16 +1651,16 @@ You just upload your team information and we will show you a real-time proof to 
   Updated: 2026-07-08T21:31:07Z
   Total Products: 3
 - [Coach & Umpire Customized Score Cards](https://personalizedlineupcards.com/collections/scorecards)
-  Updated: 2026-08-07T11:01:32Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 2
 - [Baseball](https://personalizedlineupcards.com/collections/baseball-1)
-  Updated: 2026-08-11T11:01:04Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 25
 - [Hockey](https://personalizedlineupcards.com/collections/hockey-1)
-  Updated: 2026-08-07T18:27:07Z
+  Updated: 2026-08-17T11:01:58Z
   Total Products: 10
 - [Mandatory Fees](https://personalizedlineupcards.com/collections/mandatory-fees)
-  Updated: 2026-08-10T11:01:08Z
+  Updated: 2026-08-18T11:00:52Z
   Total Products: 3
 - [Custom License Plates](https://personalizedlineupcards.com/collections/custom-license-plates)
   Updated: 2026-08-07T18:25:25Z
@@ -1692,6 +1695,15 @@ You just upload your team information and we will show you a real-time proof to 
     Author: User
   - [Proven Strategies to Enhance Communication in Sports Teams](https://personalizedlineupcards.com/blogs/plc-sports-blog/proven-strategies-to-enhance-communication-in-sports-teams): Proven Strategies to Enhance Communication in Sports Teams
     Updated: 2026-08-11T10:04:13Z
+    Author: User
+  - [The Benefits of Seasonal Team Sports on Physical and Mental Health](https://personalizedlineupcards.com/blogs/plc-sports-blog/the-benefits-of-seasonal-team-sports-on-physical-and-mental-health): The Benefits of Seasonal Team Sports on Physical and Mental Health
+    Updated: 2026-08-13T10:03:23Z
+    Author: User
+  - [Overcoming Common Challenges Faced by New Sports Coaches](https://personalizedlineupcards.com/blogs/plc-sports-blog/overcoming-common-challenges-faced-by-new-sports-coaches): Overcoming Common Challenges Faced by New Sports Coaches
+    Updated: 2026-08-15T10:05:40Z
+    Author: User
+  - [Exploring the Seasonal Benefits of Team Sports for Athletes](https://personalizedlineupcards.com/blogs/plc-sports-blog/exploring-the-seasonal-benefits-of-team-sports-for-athletes): Exploring the Seasonal Benefits of Team Sports for Athletes
+    Updated: 2026-08-18T10:05:42Z
     Author: User
 
 ## Store Pages
