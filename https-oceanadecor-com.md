@@ -6,38 +6,34 @@
 - Timezone: America/Guyana
 - Created At: 2026-07-09T19:01:47Z
 - Contact Email: oceanadecor@gmail.com
-- Updated At: 2026-08-08T00:00:43.983Z
+- Updated At: 2026-08-19T08:17:06.156Z
+
+A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts chosen for how they wear into.
 
 ## Products
 
-- [Inis Scented Candle](https://oceanadecor.com/products/inis-scented-candle)
-  Updated: 2026-08-02T10:58:49Z
-  Vendor: Fragrances Of Ireland
-  Product Type: 
-  Availability: Available
-  Price: $32.99 USD
 - [Inis Home And Linen](https://oceanadecor.com/products/inis-home-and-linen)
   Updated: 2026-08-02T23:12:57Z
   Vendor: Fragrances Of Ireland
   Product Type: 
   Availability: Available
   Price: $34.99 USD
-- [Inis Cologne Spray 100ml](https://oceanadecor.com/products/inis-cologne-spray-100ml): Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the feeling of a sunny day by the sea. Clean, Energising & Unisex – A light yet lasting scent loved by both women and men for its fresh, uplifting character. Feel Close to the Sea – Instantly refreshes and evokes the freedom, energy and happiness of the ocean.
-  Updated: 2026-08-02T10:58:45Z
+- [Inis Cologne Spray 100ml / 3.3 fl. oz](https://oceanadecor.com/products/inis-cologne-spray-100ml-3-3-fl-oz): Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the feeling of a sunny day by the sea. Clean, Energising & Unisex – A light yet lasting scent loved by both women and men for its fresh, uplifting character. Feel Close to the Sea – Instantly refreshes and evokes the freedom, energy and happiness of the ocean.
+  Updated: 2026-08-09T04:10:23Z
   Vendor: Fragrances Of Ireland
   Product Type: Spray Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/71hIW-apWlL._SL1500.jpg?v=1785199680
   Price: $73.99 USD
 - [Inis Travel Size Body Lotion 85ml / 2.9 fl. oz.](https://oceanadecor.com/products/inis-travel-size-body-lotion-85ml-2-9-fl-oz-1): Deep Ocean Hydration – Nutrient-rich seaweed extracts and shea butter deliver lasting moisture to leave skin soft, smooth and replenished. Softens & Conditions Skin – Antioxidant-rich Vitamin E and Provitamin B5 help keep skin supple, silky and beautifully conditioned. Fresh, Lightweight Feel – Fast-absorbing daily moisture infused with the sparkling ocean fresh scent of Inis.
-  Updated: 2026-08-06T02:43:09Z
+  Updated: 2026-08-14T18:14:57Z
   Vendor: Fragrances Of Ireland
   Product Type: Body Lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Body-Lotion-85ml.webp?v=1785170692
   Price: $9.99 USD
 - [Inis Travel Size Hand Cream 30ml /1 fl. oz. | Oceana Decor](https://oceanadecor.com/products/inis-travel-size-hand-cream-30ml-1-fl-oz-1): Deeply Nourishes – A rich blend of shea butter, argan oil and seaweed extracts deeply moisturises and soothes dry hands.Softens & Protects Skin – Sea minerals plus antioxidant-rich Vitamins B and E help leave hands smoother, softer and beautifully conditioned.Fast-Absorbing Daily Care – Concentrated yet non-greasy formula absorbs quickly with the refreshing ocean-fresh scent of Inis.
-  Updated: 2026-08-02T10:58:45Z
+  Updated: 2026-08-17T20:06:41Z
   Vendor: Fragrances Of Ireland
   Product Type: Hand Cream
   Availability: Available
@@ -57,14 +53,14 @@
   Availability: Available
   Price: $22.99 USD
 - [Inis Revt Body Lotion Large Pump Bot 16.9 fl. oz.](https://oceanadecor.com/products/inis-revt-body-lotion-large-pump-bot-16-9-fl-oz): Deep Ocean Hydration – Nutrient-rich seaweed extracts and shea butter deliver lasting moisture to leave skin soft, smooth and replenished. Softens & Conditions Skin – Antioxidant-rich Vitamin E and Provitamin B5 help keep skin supple, silky and beautifully conditioned. Fresh, Lightweight Feel – Fast-absorbing daily moisture infused with the sparkling ocean fresh scent of Inis.
-  Updated: 2026-08-02T23:12:52Z
+  Updated: 2026-08-08T18:36:15Z
   Vendor: Fragrances Of Ireland
   Product Type: Body Lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/71LDCa85O6L._SL1500.jpg?v=1785210460
   Price: $44.99 USD
 - [Inis Fragrance-Diffuser 100ml / 3.3 fl. oz.](https://oceanadecor.com/products/inis-fragrance-diffuser-100ml-3-3-fl-oz)
-  Updated: 2026-08-05T16:04:26Z
+  Updated: 2026-08-18T00:44:16Z
   Vendor: Fragrances Of Ireland
   Product Type: 
   Availability: Available
@@ -82,8 +78,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Refresher-Oil.webp?v=1785214167
   Price: $21.99 USD
-- [Inis Large Sea Mineral Soap 3.5 oz. | Oceana Decor](https://oceanadecor.com/products/inis-large-sea-mineral-soap-212-grams): Gently Cleanses & Refreshes – Triple milled soap creates a rich, creamy lather that leaves the skin feeling clean and refreshed.Nourishes While You Wash – Shea butter, sea minerals and seaweed extracts help soften and condition the skin.Fresh Ocean Inspired Scent – Infused with the sparkling fragrance of Inis for an uplifting everyday escape to the sea.
-  Updated: 2026-08-02T23:01:06Z
+- [Inis Large Sea Mineral Soap 3.5 oz. | Oceana Decor](https://oceanadecor.com/products/inis-large-sea-mineral-soap-7-4-oz): Gently Cleanses & Refreshes – Triple milled soap creates a rich, creamy lather that leaves the skin feeling clean and refreshed.Nourishes While You Wash – Shea butter, sea minerals and seaweed extracts help soften and condition the skin.Fresh Ocean Inspired Scent – Infused with the sparkling fragrance of Inis for an uplifting everyday escape to the sea.
+  Updated: 2026-08-17T12:55:49Z
   Vendor: Fragrances Of Ireland
   Product Type: Body Soap
   Availability: Available
@@ -103,27 +99,27 @@
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Shower-Gel-85ml.webp?v=1785170158
   Price: $9.99 USD
 - [Inis Cologne Spray 50ml / 1.7 fl. oz | Oceana Decor](https://oceanadecor.com/products/inis-cologne-spray-50ml): Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the feeling of a sunny day by the sea. Clean, Energising & Unisex – A light yet lasting scent loved by both women and men for its fresh, uplifting character. Feel Close to the Sea – Instantly refreshes and evokes the freedom, energy and happiness of the ocean.
-  Updated: 2026-08-02T10:58:48Z
+  Updated: 2026-08-12T07:06:12Z
   Vendor: Fragrances Of Ireland
-  Product Type: 
+  Product Type: Spray Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/71MHzg27DZL._SL1500.jpg?v=1785201548
   Price: $58.99 USD
-- [Inis Roll On 8ml / .27 fl. oz | Oceana Decor](https://oceanadecor.com/products/inis-roll-on-8ml): Concentrated Eau de Parfum – A more concentrated fragrance that delivers a long-lasting scent throughout the day. Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the uplifting feeling of a sunny day by the sea. Refresh On the Go – The compact roll-on design makes it easy to enjoy the energising scent of Inis anytime, anywhere. Light, Clean & Lasting – A beautifully balanced unisex fragrance that refreshes and lingers gently on the skin.
-  Updated: 2026-08-02T10:58:44Z
+- [Inis Roll On 8ml / .27 fl. oz | Oceana Decor](https://oceanadecor.com/products/inis-roll-on-8ml-27-fl-oz): Concentrated Eau de Parfum – A more concentrated fragrance that delivers a long-lasting scent throughout the day. Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the uplifting feeling of a sunny day by the sea. Refresh On the Go – The compact roll-on design makes it easy to enjoy the energising scent of Inis anytime, anywhere. Light, Clean & Lasting – A beautifully balanced unisex fragrance that refreshes and lingers gently on the skin.
+  Updated: 2026-08-15T11:41:19Z
   Vendor: Fragrances Of Ireland
   Product Type: Roll On Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/714PsFmVqnL._SL1500.jpg?v=1785198240
   Price: $29.99 USD
 - [Inis Sea Nutrient Lip Balm 15ml / 0.5 fl. oz](https://oceanadecor.com/products/inis-sea-nutrient-lip-balm-15ml-0-5-fl-oz)
-  Updated: 2026-08-02T10:58:46Z
+  Updated: 2026-08-08T21:45:35Z
   Vendor: Fragrances Of Ireland
   Product Type: 
   Availability: Available
   Price: $14.99 USD
 - [Inis Sea Mineral Soap 100g / 3.5 oz | Oceana Decor](https://oceanadecor.com/products/inis-sea-mineral-soap-100g-3-5-oz-1): Gently Cleanses & Refreshes – Triple milled soap creates a rich, creamy lather that leaves the skin feeling clean and refreshed.Nourishes While You Wash – Shea butter, sea minerals and seaweed extracts help soften and condition the skin.Fresh Ocean Inspired Scent – Infused with the sparkling fragrance of Inis for an uplifting everyday escape to the sea.
-  Updated: 2026-08-02T11:13:35Z
+  Updated: 2026-08-17T00:56:07Z
   Vendor: Fragrances Of Ireland
   Product Type: Body Soap
   Availability: Available
@@ -197,7 +193,7 @@
   Availability: Available
   Price: $71.99 USD
 - [HANDCAST GOLD LONG CROSS ON FRESHWATER PEARL TOGGLE NECKLACE](https://oceanadecor.com/products/handcast-gold-long-cross-on-freshwater-pearl-toggle-necklace)
-  Updated: 2026-08-03T16:46:00Z
+  Updated: 2026-08-16T21:02:26Z
   Vendor: Susan Shaw Wholesale
   Product Type: 
   Availability: Available
@@ -239,8 +235,8 @@
   Product Type: 
   Availability: Available
   Price: $46.99 USD
-- [GOLD CHAIN W/AQUA VENETIAN GLASS BEE NECKLACE](https://oceanadecor.com/products/gold-chain-w-aqua-venetian-glass-bee-necklace): Lobster claw clasp 16 inches with 3 inch extender Triple-plated 24k Gold, Genuine Venetian Glass Handmade in San Antonio, Texas
-  Updated: 2026-08-05T11:45:53Z
+- [Venetian Glass Bee Necklace](https://oceanadecor.com/products/gold-chain-w-aqua-venetian-glass-bee-necklace): Lobster claw clasp 16 inches with 3 inch extender Triple-plated 24k Gold, Genuine Venetian Glass Handmade in San Antonio, Texas
+  Updated: 2026-08-13T05:33:04Z
   Vendor: Susan Shaw Wholesale
   Product Type: 
   Availability: Available
@@ -277,25 +273,25 @@
   Availability: Available
   Price: $93.99 USD
 - [Enewton Extends - Classic Gold 3Mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-3mm-bead-bracelet)
-  Updated: 2026-08-05T00:06:27Z
+  Updated: 2026-08-12T17:38:35Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $48.50 USD
 - [Enewton Extends - Classic Gold 4Mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-4mm-bead-bracelet)
-  Updated: 2026-08-03T16:31:42Z
+  Updated: 2026-08-12T17:38:35Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $55.00 USD
 - [Enewton Extends - Hope Unwritten 5Mm Bead Bracelet - Gold](https://oceanadecor.com/products/enewton-extends-hope-unwritten-5mm-bead-bracelet-gold)
-  Updated: 2026-08-03T16:31:40Z
+  Updated: 2026-08-12T17:38:33Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $66.00 USD
 - [Enewton Extends - Signature Cross Gold Pattern 3Mm Bead Bracelet-Turquoise](https://oceanadecor.com/products/enewton-extends-signature-cross-gold-pattern-3mm-bead-bracelet-turquoise)
-  Updated: 2026-08-03T16:31:40Z
+  Updated: 2026-08-12T17:38:33Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
@@ -397,7 +393,7 @@
   Availability: Available
   Price: $56.99 USD
 - [HANDCAST GOLD OYSTER W/ FRESHWATER PEARL EARRINGS](https://oceanadecor.com/products/handcast-gold-oyster-w-freshwater-pearl-earrings)
-  Updated: 2026-08-01T05:05:05Z
+  Updated: 2026-08-18T18:44:46Z
   Vendor: Susan Shaw Wholesale
   Product Type: 
   Availability: Available
@@ -469,7 +465,7 @@
   Availability: Available
   Price: $173.99 USD
 - [Gold Small Hoop w/ Center Balls Earring](https://oceanadecor.com/products/gold-small-hoop-w-center-balls-earring)
-  Updated: 2026-08-03T16:45:58Z
+  Updated: 2026-08-16T21:02:17Z
   Vendor: Susan Shaw Wholesale
   Product Type: 
   Availability: Available
@@ -522,149 +518,137 @@
   Product Type: 
   Availability: Available
   Price: $40.99 USD
-- [Enewton Extends - Dignity Sincerity Pattern 5mm Bead Bracelet - Gold](https://oceanadecor.com/products/enewton-extends-dignity-sincerity-pattern-5mm-bead-bracelet-gold)
-  Updated: 2026-08-03T16:31:38Z
-  Vendor: Enewton
-  Product Type: 
-  Availability: Available
-  Price: $78.50 USD
 - [Enewton Extends - Hope Unwritten Dignity 5mm Bead Bracelet - Gold](https://oceanadecor.com/products/enewton-extends-hope-unwritten-dignity-5mm-bead-bracelet-gold)
-  Updated: 2026-08-03T16:31:38Z
+  Updated: 2026-08-12T17:38:32Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $78.50 USD
 - [Enewton Extends - Dignity Grateful Pattern 5mm Bead Bracelet - Gold](https://oceanadecor.com/products/enewton-extends-dignity-grateful-pattern-5mm-bead-bracelet-gold)
-  Updated: 2026-08-03T16:31:37Z
+  Updated: 2026-08-12T17:38:31Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $98.00 USD
 - [Enewton Extends - Dignity Gold 6mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-dignity-gold-6mm-bead-bracelet)
-  Updated: 2026-08-03T16:31:36Z
+  Updated: 2026-08-12T17:38:30Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $113.50 USD
 - [Enewton Extends - Signature Cross Gold Pattern 3mm Bead Bracelet - Navy](https://oceanadecor.com/products/enewton-extends-signature-cross-gold-pattern-3mm-bead-bracelet-navy)
-  Updated: 2026-08-03T16:31:36Z
+  Updated: 2026-08-16T17:53:46Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $42.00 USD
 - [Enewton Extends - Signature Cross 3mm Bead Bracelet - Charcoal](https://oceanadecor.com/products/enewton-extends-signature-cross-3mm-bead-bracelet-charcoal)
-  Updated: 2026-08-03T16:31:35Z
+  Updated: 2026-08-12T17:41:45Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $42.00 USD
-- [Enewton Extends - Hope Unwritten Dignity 4mm Bead Bracelet - Gold](https://oceanadecor.com/products/enewton-extends-hope-unwritten-dignity-4mm-bead-bracelet-gold)
-  Updated: 2026-08-03T16:31:35Z
-  Vendor: Enewton
-  Product Type: 
-  Availability: Available
-  Price: $66.50 USD
 - [Enewton Extends - 2.5mm Bead Bracelet - Love Gold Charm](https://oceanadecor.com/products/enewton-extends-2-5mm-bead-bracelet-love-gold-charm)
-  Updated: 2026-08-03T16:31:35Z
+  Updated: 2026-08-12T17:38:29Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $60.00 USD
 - [Enewton Extends - Hope Unwritten Dignity 6mm Bead Bracelet - Gold](https://oceanadecor.com/products/enewton-extends-hope-unwritten-dignity-6mm-bead-bracelet-gold)
-  Updated: 2026-08-03T16:31:34Z
+  Updated: 2026-08-12T17:38:29Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $89.50 USD
 - [Enewton Extends - Dignity Sincerity Pattern 6mm - Gold](https://oceanadecor.com/products/enewton-extends-dignity-sincerity-pattern-6mm-gold)
-  Updated: 2026-08-03T16:31:34Z
+  Updated: 2026-08-12T17:38:29Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $89.50 USD
 - [Enewton Extends - Classic Gold 8mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-8mm-bead-bracelet)
-  Updated: 2026-08-03T16:31:34Z
+  Updated: 2026-08-12T17:38:29Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $191.50 USD
 - [Enewton Extends - Signature Cross 3mm Bead Bracelet - Onyx](https://oceanadecor.com/products/enewton-extends-signature-cross-3mm-bead-bracelet-onyx)
-  Updated: 2026-08-03T16:31:33Z
+  Updated: 2026-08-12T17:38:28Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $42.00 USD
 - [Enewton Extends - Signature Cross Pearl Pattern 4m](https://oceanadecor.com/products/enewton-extends-signature-cross-pearl-pattern-4m)
-  Updated: 2026-08-03T16:31:33Z
+  Updated: 2026-08-12T17:38:27Z
   Vendor: Enewton
   Product Type: Enewton Bracelets
   Availability: Available
   Price: $90.00 USD
-- [Enewton Extends - Signature Cross Gold Pattern 3mm | Enewton Sarasota](https://oceanadecor.com/products/enewton-extends-signature-cross-gold-pattern-3mm): Made with 3mm, 14kt gold-filled beads and our 8mm gold-filled signature cross. enewton's first piece Worry-free wear‚ which means sleep, shower and sweat in it Hand beaded on high performance elastic for a slight stretch to easily roll on and off your wrist Measures (7.25") Stacks well with all bracelets
-  Updated: 2026-08-03T16:31:33Z
+- [Enewton Extends - Signature Cross Gold Pattern 3mm | Enewton Sarasota](https://oceanadecor.com/products/enewton-extends-signature-cross-gold-pattern-3mm): enewton's first piece Worry-free wear‚ which means sleep, shower and sweat in it Hand beaded on high performance elastic for a slight stretch to easily roll on and off your wrist
+  Updated: 2026-08-18T22:30:28Z
   Vendor: Enewton
   Product Type: Enewton Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/IMG_9326-1_SQ_1.webp?v=1785220943
   Price: $89.50 USD
 - [Enewton Extends - Classic Sterling 4mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-sterling-4mm-bead-bracelet)
-  Updated: 2026-08-06T00:33:58Z
+  Updated: 2026-08-12T17:38:26Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $49.00 USD
 - [Enewton Extends - Classic Gold 7mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-7mm-bead-bracelet)
-  Updated: 2026-08-03T16:31:31Z
+  Updated: 2026-08-12T17:38:25Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $144.50 USD
 - [Enewton Extends - Classic Sterling 3mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-sterling-3mm-bead-bracelet)
-  Updated: 2026-08-03T16:31:31Z
+  Updated: 2026-08-12T17:38:25Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $44.00 USD
 - [Enewton Extends - Classic Sterling 5mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-sterling-5mm-bead-bracelet)
-  Updated: 2026-08-03T16:31:31Z
+  Updated: 2026-08-12T17:38:25Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $79.00 USD
 - [Enewton Extends - Hope Unwritten 4mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-hope-unwritten-4mm-bead-bracelet)
-  Updated: 2026-08-06T00:33:59Z
+  Updated: 2026-08-12T17:38:25Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $44.00 USD
 - [Enewton Extends - Classic Gold 6mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-6mm-bead-bracelet)
-  Updated: 2026-08-03T16:31:30Z
+  Updated: 2026-08-12T17:38:25Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $99.00 USD
-- [Inis Sea Mineral Shampoo 300ml](https://oceanadecor.com/products/inis-sea-mineral-shampoo-300ml): Gently Cleanses Without Stripping – The sulphate-free formula removes buildup while helping maintain a healthy moisture balance. Nourishes & Strengthens Hair – Shea butter, jojoba oil, argan oil and seaweed extracts help leave hair soft, smooth and revitalised. Fresh, Healthy Looking Shine – Sea minerals and botanicals condition and boost vitality, all with the sparkling scent of Inis.
-  Updated: 2026-08-02T10:58:47Z
+- [Inis Sea Mineral Shampoo 300ml / 10 fl oz](https://oceanadecor.com/products/inis-sea-mineral-shampoo-300ml-10-fl-oz): Gently Cleanses Without Stripping – The sulphate-free formula removes buildup while helping maintain a healthy moisture balance. Nourishes & Strengthens Hair – Shea butter, jojoba oil, argan oil and seaweed extracts help leave hair soft, smooth and revitalised. Fresh, Healthy Looking Shine – Sea minerals and botanicals condition and boost vitality, all with the sparkling scent of Inis.
+  Updated: 2026-08-18T12:44:32Z
   Vendor: Fragrances Of Ireland
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/71MbmWarRYL._SL1500.jpg?v=1785211859
   Price: $32.99 USD
-- [Inis Sea Mineral Conditioner 250ml | Oceana Decor](https://oceanadecor.com/products/inis-sea-mineral-conditioner-250ml): Deeply Nourishes & Smooths – Shea butter, sea minerals and nutrient-rich seaweed extracts help soften, smooth and condition dry hair. Locks In Moisture & Shine – Hyaluronic acid and antioxidant-rich Vitamin E help boost hydration and enhance healthy-looking shine. Silicone-Free Lightweight Care – Jojoba oil and botanical moisturisers leave hair silky, manageable and refreshed with the sparkling scent of Inis.
-  Updated: 2026-08-02T10:58:48Z
+- [Inis Sea Mineral Conditioner 250ml | Oceana Decor](https://oceanadecor.com/products/inis-sea-mineral-conditioner-250ml-8-45-fl-oz): Deeply Nourishes & Smooths – Shea butter, sea minerals and nutrient-rich seaweed extracts help soften, smooth and condition dry hair. Locks In Moisture & Shine – Hyaluronic acid and antioxidant-rich Vitamin E help boost hydration and enhance healthy-looking shine. Silicone-Free Lightweight Care – Jojoba oil and botanical moisturisers leave hair silky, manageable and refreshed with the sparkling scent of Inis.
+  Updated: 2026-08-18T12:44:34Z
   Vendor: Fragrances Of Ireland
   Product Type: Hair Conditioner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Hair-Conditioner.webp?v=1785214522
   Price: $32.99 USD
 - [Hope Unwritten Sterling Bracelet - Shell We Dance?](https://oceanadecor.com/products/hope-unwritten-sterling-bracelet-shell-we-dance)
-  Updated: 2026-08-03T16:31:30Z
+  Updated: 2026-08-12T17:38:25Z
   Vendor: Enewton
   Product Type: 
   Availability: Available
   Price: $20.00 USD
 - [True Ocean Body Spray - Pocket Size](https://oceanadecor.com/products/true-ocean-body-spray-pocket-size)
-  Updated: 2026-08-07T00:44:16Z
+  Updated: 2026-08-18T20:53:47Z
   Vendor: True Ocean
   Product Type: 
   Availability: Available
@@ -676,17 +660,11 @@
   Availability: Available
   Price: $19.99 USD
 - [True Ocean: Body Spray - 3.4oz.](https://oceanadecor.com/products/true-ocean-body-spray-3-4oz)
-  Updated: 2026-08-05T18:18:16Z
+  Updated: 2026-08-16T00:17:56Z
   Vendor: True Ocean
   Product Type: 
   Availability: Available
   Price: $27.99 USD
-- [Gold Shell On Aqua Fire Agate Necklace](https://oceanadecor.com/products/gold-shell-on-aqua-fire-agate-necklace)
-  Updated: 2026-08-01T05:08:22Z
-  Vendor: Susan Shaw Wholesale
-  Product Type: 
-  Availability: Available
-  Price: $98.99 USD
 - [Handcst Gld Beads, Fleur Lapis Nk](https://oceanadecor.com/products/handcst-gld-beads-fleur-lapis-nk)
   Updated: 2026-08-01T05:08:22Z
   Vendor: Susan Shaw Wholesale
@@ -724,13 +702,13 @@
   Availability: Available
   Price: $148.99 USD
 - [True Ocean Salt Scrub - 6 oz.](https://oceanadecor.com/products/true-ocean-salt-scrub-6-oz)
-  Updated: 2026-08-02T11:18:57Z
+  Updated: 2026-08-08T18:48:07Z
   Vendor: True Ocean
   Product Type: 
   Availability: Available
   Price: $27.99 USD
 - [True Ocean Mineral Lotion - 3.4oz.](https://oceanadecor.com/products/true-ocean-mineral-lotion-3-4oz): A Coastal collection favorite. Infused with nourishing shea butter, aloe and ocean minerals, our hand and body lotion deeply hydrates without feeling heavy or greasy. Apply all over the body after a day by the beach to enjoy soft, moisturized skin and our seaside Coastal scent.
-  Updated: 2026-08-02T23:20:06Z
+  Updated: 2026-08-17T23:39:57Z
   Vendor: True Ocean
   Product Type: Body Lotion
   Availability: Available
@@ -743,7 +721,7 @@
   Availability: Available
   Price: $19.99 USD
 - [True Ocean: Beach Hair - 3.4oz.](https://oceanadecor.com/products/true-ocean-beach-hair-3-4oz)
-  Updated: 2026-08-02T11:18:56Z
+  Updated: 2026-08-13T17:16:49Z
   Vendor: True Ocean
   Product Type: 
   Availability: Available
@@ -755,13 +733,13 @@
   Availability: Available
   Price: $27.99 USD
 - [True Ocean Body Wash - 8.5oz](https://oceanadecor.com/products/true-ocean-body-wash-8-5oz)
-  Updated: 2026-08-03T20:10:47Z
+  Updated: 2026-08-15T15:54:18Z
   Vendor: True Ocean
   Product Type: 
   Availability: Available
   Price: $29.99 USD
 - [True Ocean Seasoap - 7.5oz.](https://oceanadecor.com/products/true-ocean-seasoap-7-5oz)
-  Updated: 2026-08-02T11:18:57Z
+  Updated: 2026-08-15T15:54:17Z
   Vendor: True Ocean
   Product Type: 
   Availability: Available
@@ -915,16 +893,16 @@
   Updated: 2026-07-28T14:57:11Z
   Total Products: 0
 - [Bath and Body Best Sellers](https://oceanadecor.com/collections/all-best-sellers)
-  Updated: 2026-08-05T14:43:06Z
-  Total Products: 10
+  Updated: 2026-08-17T00:55:46Z
+  Total Products: 11
 - [Enewton Handmade Jewelry Collection](https://oceanadecor.com/collections/enewton-collections)
-  Updated: 2026-08-06T00:34:32Z
-  Total Products: 51
+  Updated: 2026-08-16T17:54:24Z
+  Total Products: 46
 - [Inis Energy of the Sea Collection](https://oceanadecor.com/collections/inis-essence-of-the-sea-essentials)
-  Updated: 2026-08-05T19:14:19Z
-  Total Products: 52
+  Updated: 2026-08-18T00:45:15Z
+  Total Products: 47
 - [Inis Spray Cologne](https://oceanadecor.com/collections/inis-spray-cologne)
-  Updated: 2026-07-30T01:02:52Z
+  Updated: 2026-08-11T19:06:06Z
   Total Products: 3
 - [Inis Revitalizing Lotion](https://oceanadecor.com/collections/inis-revitalizing-lotion)
   Updated: 2026-08-05T14:43:06Z
@@ -933,26 +911,26 @@
   Updated: 2026-07-28T14:57:12Z
   Total Products: 0
 - [Pandora Charm Collection](https://oceanadecor.com/collections/pandora-charm-collection)
-  Updated: 2026-08-07T18:54:00Z
-  Total Products: 903
+  Updated: 2026-08-11T19:14:20Z
+  Total Products: 0
 - [Susan Shaw Jewelry](https://oceanadecor.com/collections/susan-shaw-jewelry)
-  Updated: 2026-08-05T16:07:20Z
-  Total Products: 135
+  Updated: 2026-08-18T18:45:15Z
+  Total Products: 130
 - [All Collections](https://oceanadecor.com/collections/all-collections)
   Updated: 2026-07-31T03:31:29Z
   Total Products: 0
 - [Inis Mineral Soap](https://oceanadecor.com/collections/inis-mineral-soap)
-  Updated: 2026-08-02T11:07:10Z
-  Total Products: 2
+  Updated: 2026-08-17T00:56:31Z
+  Total Products: 1
 - [All Jewelry Collection](https://oceanadecor.com/collections/all-jewelry-collection)
-  Updated: 2026-08-06T00:34:32Z
-  Total Products: 100
+  Updated: 2026-08-18T22:30:53Z
+  Total Products: 91
 - [Body Care Essentials](https://oceanadecor.com/collections/body-care-essentials)
   Updated: 2026-08-03T17:22:45Z
   Total Products: 0
 - [True Ocean Body Collection](https://oceanadecor.com/collections/true-ocean-body-collection)
-  Updated: 2026-08-05T18:18:22Z
-  Total Products: 8
+  Updated: 2026-08-15T15:54:53Z
+  Total Products: 4
 
 ## Blogs
 
@@ -970,8 +948,6 @@
   Updated: 2026-07-09T19:32:48Z
 - [About Us](https://oceanadecor.com/pages/about-us)
   Updated: 2026-07-18T15:13:28Z
-- [Enewton Sarasota | Where to Buy Genuine Enewton Jewelry](https://oceanadecor.com/pages/where-to-buy-enewton): 
-  Updated: 2026-07-21T22:16:02Z
 - [html sitemap products](https://oceanadecor.com/pages/html-sitemap-products): Products Test Product 1 Test Product 2 Test Product 3 Test Product 4 Test Product 5 Test Product 6 Purpose Gold 4mm Bracelet Huggie Gold 0.5" Hoop ...
   Updated: 2026-07-21T22:55:19Z
 - [html sitemap collections](https://oceanadecor.com/pages/html-sitemap-collections): Collections All New Arrivals All Best Sellers Home page Test Collection 1 Test Multi Collection .seoant-html-sitemap-row { margin-bottom: 2.1rem; }...
@@ -986,10 +962,14 @@
   Updated: 2026-07-21T22:55:25Z
 - [FAQs](https://oceanadecor.com/pages/faqs): General What is Oceana Decor? Oceana Decor is a curated lifestyle boutique offering jewelry, home décor, bath and body products, and thoughtful gif...
   Updated: 2026-08-02T14:00:56Z
-- [Artisans Sarasota | Enewton Sarasota, 301 John Ringling Blvd,](https://oceanadecor.com/pages/artisans-enewton-sarasota)
-  Updated: 2026-08-05T20:05:30Z
-- [Oceana Decor | Enewton Sarsota, 7782 N Tamiami Trl](https://oceanadecor.com/pages/oceana-decor-enewton-sarasota)
-  Updated: 2026-08-05T20:06:28Z
+- [Coastal Furniture & eNewton Jewelry | Oceana Decor, Tamiami Trail](https://oceanadecor.com/pages/oceana-decor-enewton-sarasota): 
+  Updated: 2026-08-19T07:05:27Z
+- [Pandora & eNewton Sarasota | Artisans, St. Armands Circle](https://oceanadecor.com/pages/artisans-enewton-sarasota): 
+  Updated: 2026-08-19T07:58:49Z
+- [About Artisans Sarasota | eNewton Sarasota Retailer](https://oceanadecor.com/pages/about-artisans-sarasota-enewton-sarasota-retailer)
+  Updated: 2026-08-17T13:35:19Z
+- [About Oceana | Siesta Key Home Decor and Furniture](https://oceanadecor.com/pages/about-oceana-siesta-key-home-decor-and-furniture)
+  Updated: 2026-08-17T13:35:42Z
 
 ## Policies
 
@@ -1085,3 +1065,5 @@ your agent can transact everywhere.
 - Shopify developer platform: https://shopify.dev
 - UCP specification: https://ucp.dev
 - Shop skill (recommended for personal shopping agents): https://shop.app/SKILL.md
+
+You go-to destination for Enewton Sarasota products.
