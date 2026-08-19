@@ -10,7 +10,7 @@ Kurostash es una tienda en línea que vende figuras de acción, peluches, cajas 
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-18T04:03:56Z
 - Contact Email: denicezura@kurostash.com
-- Updated At: 2026-08-11T00:00:38.496Z
+- Updated At: 2026-08-19T00:00:42.244Z
 
 KURO STASH
 Kurostash es una tienda en línea que vende figuras de acción, peluches, cajas sorpresa, sets armables y accesorios de escritorio/setup, todos inspirados en videojuegos y anime. La tienda está conectada a varios proveedores y los productos están inspirados en franquicias populares de videojuegos y anime — ninguno es mercancía licenciada. La tienda envía desde varios proveedores, con la mayoría de los pedidos llegando en 2-3 semanas. Kurostash atiende principalmente a coleccionistas y gamers en Estados Unidos, con contenido disponible en inglés y español.
