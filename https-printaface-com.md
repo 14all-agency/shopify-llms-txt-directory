@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-30T18:18:37Z
 - Contact Email: info@getpowerflow.com
-- Updated At: 2026-08-06T02:02:33.531Z
+- Updated At: 2026-08-20T00:00:36.257Z
 
 ## Products
 
 - [Custom Photo Print T-Shirt — "Print it your way"](https://printaface.com/products/custom-photo-print-t-shirt-print-it-your-way): This relaxed, garment-dyed tee feels lived-in from the first wear. The medium-weight 100% ring‑spun cotton softens through washing and keeps its color depth thanks to post-construction dyeing. Tubular knit and double-needle stitching give the shirt a clean, unfussy silhouette that sits comfortably on the shoulders and drapes casually over jeans or layering pieces. The simple front print space lends itself to personal photos or minimalist designs, so it becomes a quiet statement piece in everyday outfits — whether you’re wandering city streets, grabbing coffee with friends, or photographing a weekend escape. Available in many colors and sizes, it’s built to wear and re-wear without losing shape or comfort.Product features- Sizes S–4XL (select partners) with Comfort Colors 1717 size chart- 100% ring-spun US cotton, medium weight (6.1 oz/yd²) and pre-shrunk- Garment-dyed for soft color and lived-in texture- Tubular (no side seams) construction with double-needle stitched seams- Relaxed fit, sewn-in label; made in Honduras; available in 58 colorsCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2026-08-02T23:56:36Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -44,15 +44,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/7561177119130165506_2048.jpg?v=1773759347
     Price: $29.92 USD
-- [Custom Photo Cushioned Crew Socks — Personalized Face Portrait Socks](https://printaface.com/products/custom-photo-cushioned-crew-socks-personalized-face-portrait-socks): White Length, in 15.50 Width, in 3.25 These cushioned crew socks bring bold, personal style to everyday wear. The smooth, stretchy knit holds vivid all-over prints that wrap the sock’s shaft while leaving a solid black toe and heel for contrast. Built with a dense 200-needle construction and cushioned bottoms, they feel supportive underfoot whether you’re on your feet all day or kicking back at home. The fabric blend (polyester, nylon, cotton, spandex) keeps colors crisp and the fit comfortably elastic from women’s US 5 through men’s US 12. Wear them with cropped pants, sneakers, or loungewear to add an unexpected, wearable statement to your rotation.Product features- Crew length that works with casual, dress, or active outfits- All-over printed shaft with solid black toe and heel- Smooth, stretchy fabric for bright, detailed prints- Cushioned bottom and 200-needle knit for comfort and durability- One-size fits most (W5–M12) with a polyester/nylon/cotton/spandex blendCare instructions- Do not dryclean- Do not iron- Do not tumble dry- Do not bleach- Machine wash: cold (max 30C or 90F)Shipping from United States
-  Updated: 2026-07-16T22:21:33Z
+- [Custom Face Pattern Cushioned Crew Socks — Personalized Photo Repeat Socks](https://printaface.com/products/custom-photo-cushioned-crew-socks-personalized-face-portrait-socks): These cushioned crew socks bring personality and comfort to everyday wear. Soft, stretchy knit hugs your feet while the vibrant all-over print keeps your look lively — faces float across a deep black background with solid black toe and heel panels for a clean finish. The plush, cushioned bottoms add shock-absorbing comfort for long days on your feet or cozy evenings at home. Durable 200-needle construction and bright, fade-resistant inks hold up through wear and washes, and the stretchy one-size design fits a wide range of feet so they slide easily into your rotation.Product features- All-over vibrant print with solid black toe and heel- Cushioned bottoms for added comfort- 200-needle premium knit for durability- Stretchy blended fabric (73% polyester, 18% nylon, 3% cotton, 6% spandex)- One-size fits women’s 5 to men’s 12 (crew length)Care instructions- Do not dryclean- Do not iron- Do not tumble dry- Do not bleach- Machine wash: cold (max 30C or 90F)
+  Updated: 2026-08-10T16:38:48Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11323117349607109870_2048.jpg?v=1768193086
-  Price: $18.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/17056284783319571248_2048.jpg?v=1786336722
+  Price: $15.58 USD
 - [Portrait Tough Phone Case — Custom Photo Protective Phone Cover](https://printaface.com/products/portrait-tough-phone-case-custom-photo-protective-phone-cover): A slim, glossy phone case that merges everyday defense with quiet elegance. The sturdy polycarbonate shell and flexible TPU liner work together to absorb shocks and disperse impacts, while the lay-flat bezel guards the screen from light scratches. The high-gloss finish brings rich, full-color imagery to life and resists fading thanks to UV protection — so photographed portraits and detailed artwork stay vivid outdoors. Lightweight and supportive of wireless charging, this case is built for adults who want reliable protection without hiding the phone’s style. It fits seamlessly into daily routines, whether commuting, traveling, or simply capturing moments on the go.Product features- Durable polycarbonate shell with flexible TPU liner for impact resistance- Lay-flat bezel protects screen from surface scratches- Glossy full-color finish with UV protection to prevent fading- Two-piece design for shock dispersion and reinforced corner protection- Supports wireless charging (MagSafe not included)Care instructions- Clean with damp cotton or microfiber cloth. Add a drop of dish soap to the cloth if needed.
-  Updated: 2026-07-16T22:21:33Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
@@ -82,7 +82,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12591295682185158565_4096.jpg?v=1765728612
     Price: $21.27 USD
 - [Face Mug — Personalized Portrait Ceramic Coffee Cup (11oz/15oz)](https://printaface.com/products/face-mug-personalized-portrait-ceramic-coffee-cup-11oz-15oz): 11oz Height, in 3.74 Diameter, in 3.15 A simple, heartfelt ceramic mug that quietly celebrates everyday moments. The glossy white surface makes printed images pop with vibrant, true-to-color detail, while a sturdy C-handle feels familiar and secure in your hand. Warm coffee or tea, reheat in the microwave when mornings run long, and clean up quickly in the dishwasher — this mug fits into a busy routine without fuss. The lead- and BPA-free ceramic gives peace of mind for daily use, whether it sits on a home desk, a bedside table, or in a communal kitchen. The photographic print framed on the face of the mug lends a personal, intimate touch — a small, steady presence that turns a morning sip into a quiet, connected moment.Product features- Glossy ceramic finish for bright, sharp prints- Available in 11oz and 15oz sizes- Microwave-safe for convenient reheating- Dishwasher-safe for easy cleanup- Lead- and BPA-free, with a comfortable C-handleCare instructions- Clean in dishwasher or wash by hand with warm water and dish soap
-  Updated: 2026-07-16T22:21:33Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
@@ -96,7 +96,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/69435316706876795_2048.jpg?v=1768194148
     Price: $19.99 USD
 - [Santa Portrait Scented Candle — Coconut Apricot (4oz & 9oz)](https://printaface.com/products/santa-portrait-scented-candle-coconut-apricot-wax-4oz-9oz): 4oz 9oz Diameter, in 2.30 2.80 Height, in 2.50 3.50 Light this Santa portrait scented candle to bring a quiet, cozy ritual to cold evenings and holiday moments. Hand-poured in the USA with clean coconut apricot wax, the small amber or clear glass vessel casts a warm glow as fragrant notes unfold. Choose Fraser Fir for a woodsy, evergreen hush that settles like fresh-cut boughs; Cinnamon Chai when you want spicy, tea-like comfort with orange and clove; Cashmere Musk for a soft, velvety warmth; Beachwood for a bright, sea-breeze lift; Mango Coconut for a sunny, tropical sweetness; Vanilla Bean or Blackberry Vanilla for rich, familiar indulgence; Lavender for a calming floral pause; or Unscented when you prefer light without scent. The gold lid and reusable glass vessel make it feel like a thoughtful detail on your mantel or a companion on quiet nights, and the clean-burning cotton wick and non-toxic wax keep the air clear as the scent fills the room.Product features- Clean, non-toxic coconut apricot wax — free from lead, plastics, parabens, synthetic dyes, and phthalates- Long-lasting burn: up to 20 hours (4oz) or up to 50 hours (9oz)- Wide scent selection including Fraser Fir, Cinnamon Chai, Cashmere Musk, Beachwood, Mango Coconut, Vanilla Bean, Lavender, Blackberry Vanilla, and Unscented- Reusable amber or clear glass vessel with gold lid — easily cleaned and repurposed- Made in the USA with coconut apricot wax and cotton wick; ASTM safety compliantCare instructions- Before burning, always trim the wick to ¼ inch. Keep the wax pool clear. Always use a candle holder, it should be heat resistant, sturdy, and large enough to contain any drips or melted wax. Burn candles in a well-ventilated room. Never burn a candle for longer than three hours, cool for at least two hours before relighting. Never leave a candle unattended, keep it away from anything that can catch fire. Keep candles out of the reach of children and pets. Don't burn a candle all the way down. Use a candle snuffer to extinguish a candle, it's the safest way to prevent wax from splattering
-  Updated: 2026-07-16T22:21:33Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -246,14 +246,14 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/3162775790248783793_2048.jpg?v=1767121525
     Price: $34.57 USD
 - [Custom Ceramic Ornament – “Print it your way” Round Keepsake](https://printaface.com/products/custom-ceramic-ornament-print-it-your-way-round-keepsake): Circle Heart Oval Star Length, in 2.87 3.07 3.27 3.15 Width, in 2.87 2.87 2.32 2.99 Thickness, in 0.16 0.16 0.16 0.16 A simple, glossy ceramic ornament that carries a personal touch. Smooth white ceramic holds vibrant, crisp printing so names, dates, illustrations, or small photos read clearly against a clean background. Lightweight yet sturdy, it arrives ready to hang with a slender gold cord and is available in multiple classic shapes to match your aesthetic. Tucks easily into stockings, hangs from branches or window sills, and becomes a quiet memory marker in seasonal or everyday displays.Product features- 100% ceramic construction for durability and a glossy finish- High‑vibrancy print for bright, crisp colors and fine detail- Includes a gold hanging cord ready for display- Choose from four classic shapes to suit your design- Single‑side print — clear, focused artwork on the frontCare instructions- Clean by wiping with a soft, damp cloth.
-  Updated: 2026-07-16T22:21:33Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/3910893362636453272_2048.jpg?v=1765393343
   Price: $9.18 USD
 - [Canvas Portrait Print — Matte Stretched 1.25"](https://printaface.com/products/canvas-portrait-print-matte-stretched-1-25): This stretched matte canvas brings a calm, intimate presence into any room. The soft, neutral tones and finely detailed print sit flush against the frame, creating a quiet focal point that feels like a gentle conversation. Lightweight yet sturdy, the print’s satin-matte coating mutes glare and deepens skin tones for a warm, lifelike appearance. Small rubber feet on the back keep the canvas steady when leaning on a shelf, and the included hanging hardware makes mounting effortless. Crafted from a cotton-poly canvas stretched over responsibly sourced radiata pine, and printed with non-toxic latex inks, this piece blends lasting quality with thoughtful materials. Whether displayed in a hallway, reading nook, or home office, it adds an understated, personal layer to everyday spaces and moments.Product features- Matte-finish stretched canvas on radiata pine frame- Printed with non-toxic, UL Greenguard Gold latex inks- Soft rubber dots on back to prevent slipping when leaned- Back-hanging hardware included for easy wall display- Available in multiple orientations and a wide range of sizesCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.
-  Updated: 2026-07-16T22:21:33Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -283,7 +283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/3295743777382688491_2048.jpg?v=1765422591
     Price: $34.80 USD
 - [Puppy Tank Top — "We Love You ..." Pet Shirt](https://printaface.com/products/puppy-tank-top-we-love-you-pet-shirt): M L Length, in 10.00 12.00 Height, in 7.24 8.23 Collar width, in 5.37 6.50 Chest width (laid flat), in 7.25 8.25 Weight, lb 23.00 45.00 You can personalize this. A soft, stretch-fit pet tank that carries a warm, homey vibe — a small wardrobe piece that brings your pup closer to family moments. The lightweight, smooth knit sits comfortably against fur and moves with your dog, while the clean ribbed neckline and armholes keep the silhouette neat through play and naps. The front print area lets a beloved photo or message take center stage, turning this simple tank into a wearable keepsake that feels like a quiet hug. It’s especially fitting for dog parents who treasure everyday snaps, cozy indoor afternoons, and casual visits to friends or family.Product features- Soft combed ringspun cotton for smooth print surface- 1x1 rib knit for stretch and shape retention- Double-needle ribbed binding at neck and armholes for clean edges- Medium-weight fabric (5 oz/yd²) with EasyTear™ label- Runs small — size up for broader-chested breeds; size variance ±1"–2"Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2026-07-16T22:21:33Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: Pets
   Availability: Available
@@ -307,7 +307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1814989360376006658_2048.jpg?v=1774068928
     Price: $37.71 USD
 - [Custom Clip-On Pet Collar – "Print It Your Way" Personalized Safety Strap](https://printaface.com/products/custom-clip-on-pet-collar-print-it-your-way-personalized-safety-strap): A simple, sturdy clip-on collar that brings practical style to everyday walks and adventures. Lightweight polyester fabric paired with heavy-duty black nylon webbing keeps the collar durable without weighing your pet down. The low-profile clip design makes it easy to attach and remove, so harnessing up or bringing your pup in from the yard is quick and fuss-free. Clean lines and a narrow band let any printed design or custom message stand out, while the reliable materials stand up to tugging, weather, and frequent use. Small, medium, and large sizes let you find a snug, comfortable fit for tiny terriers or medium-sized companions. This collar belongs on routine outings, quick errands, and relaxed afternoons at the park — the kind of everyday piece that quietly makes life easier.Product features- Durable polyester fabric with strong color retention- Heavy-duty black nylon webbing for reinforcement- Clip-on hardware for fast attachment and removal- Available in three sizes to fit different pets- Lightweight, low-profile design ideal for everyday wearCare instructions
-  Updated: 2026-07-16T22:21:34Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: Pets
   Availability: Available
@@ -325,7 +325,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10574751798043801400_2048.jpg?v=1765417669
     Price: $22.60 USD
 - [Pet Bandana Collar - Custom "Print it your way" Dog Bandana Collar](https://printaface.com/products/pet-bandana-collar-custom-print-it-your-way-dog-bandana-collar): S M L XL Bandana width, in 7.00 9.25 12.00 14.50 Bandana height, in 3.25 5.25 6.00 7.25 Collar circumference, in 10.00 - 17.00 12.00 - 20.25 14.25 - 23.00 15.50 - 23.50 Collar width, in 0.38 0.63 0.75 1.00 Lightweight and cheerful, this pet bandana collar slips over your dog or cat’s neck to add instant personality to walks, photos, and everyday moments. The triangular bandana is printed on one side with your chosen design and hemmed for a neat, long-lasting finish. An adjustable black strap with a quick-release buckle keeps the bandana secure and comfortable while the polyester fabric resists wrinkles and dries fast after outdoor play. Available in four sizes, it fits growing pups and seasoned companions alike — style that stays put and looks fresh from park runs to cuddle time on the couch.Product features- 100% polyester: durable, shape-retaining, quick-drying fabric- One-sided, all-over print covers the bandana face- Adjustable black collar with plastic buckle for secure fit- Hemmed edges and pre-constructed shape for durability- Available in four sizes to fit small to large petsCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
-  Updated: 2026-07-16T22:21:34Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: Pets
   Availability: Available
@@ -339,7 +339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/989595604808350681_2048.jpg?v=1774069663
     Price: $23.99 USD
 - [R.I.P. Twenties Tank Top — Funny 30th Birthday Retirement of Your 20s Tee](https://printaface.com/products/r-i-p-twenties-tank-top-funny-30th-birthday-retirement-of-your-20s-tee): XS S M L XL 2XL 3XL Width, in 16.50 17.50 19.50 21.25 23.00 25.00 27.00 Length, in 25.25 26.62 28.00 29.37 30.75 31.62 32.50 This garment-dyed tank brings a quiet, tongue-in-cheek statement to warm days and late-night patios. Clean, serif lettering—R.I.P TWENTIES—sits centered on a soft, lived-in white tank that drapes with a relaxed fit. The medium-weight ringspun cotton feels substantial yet broken-in from the first wear, and the garment-dye gives the fabric a muted tone and gentle texture that ages beautifully. Wear it to backyard barbecues, rooftop hangs, or lazy mornings with coffee when you want your outfit to speak with a wry smile. The seamless tubular knit and self-fabric binding keep the silhouette smooth, so it layers easily under shirts or stands alone as a simple, confident statement.Product features- 100% ringspun US cotton for a smooth, durable hand- Garment-dyed after construction for a soft, vintage-ready color and texture- Tubular knit without side seams for a cleaner drape and reduced fabric waste- Medium-weight fabric (6.1 oz/yd²) with a relaxed, comfortable fit- Self-fabric binding and sewn-in twill label for a neat, lasting finishCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2026-07-16T22:21:34Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -542,7 +542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/13680210634604703249_2048.jpg?v=1765728592
     Price: $29.02 USD
 - [Toddler T-Shirt — Cute Customizable Face Print “Print it your way”](https://printaface.com/products/toddler-t-shirt-cute-customizable-face-print-print-it-your-way): This soft, lightweight toddler tee brings simple, sweet style to everyday wear. The classic fit and gentle fabric feel comfortable for playful days at preschool, park adventures, and cozy afternoons at home. A clean, centered graphic gives a modern, friendly look without overwhelming tiny proportions — it sits neatly on the chest and keeps the design readable as your little one moves. Thoughtful construction details like side seams, taped shoulders and neck, and double-stitched hems help the shirt hold its shape through washes and tumbles. Dress it up under a cardigan or keep it casual with leggings and sneakers — this tee blends into busy family life while staying quietly stylish.Product features- 100% preshrunk ringspun cotton (varies by color) for a soft, breathable feel- Lightweight fabric (4.5 oz/yd²) that won’t overheat active toddlers- Side seams and classic fit maintain shape and structure- Twill-taped shoulders and neck prevent stretching- Double-needle sleeve and bottom hems for durabilityCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
-  Updated: 2026-07-16T22:21:34Z
+  Updated: 2026-08-09T16:23:28Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -556,7 +556,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/13408807566397493348_2048.jpg?v=1765728607
     Price: $13.00 USD
 - [Mom Snapback Trucker Cap — Minimal Embroidered Mom Hat, Mother’s Day Gift](https://printaface.com/products/mom-snapback-trucker-cap-minimal-embroidered-mom-hat-mother-s-day-gift): Lightweight and quietly confident, this structured trucker cap brings simple, everyday style to the people who run the show. The mid-profile silhouette and hard-buckram front hold their shape, while the breathable mesh back keeps you cool through errands, school pickups, weekend projects, and backyard hangouts. Subtle embroidered lettering sits clean and centered on the front — understated but unmistakable. The pre-curved Permacurv® visor and matching underbill reduce glare and add a finished look, while the adjustable snap closure makes it easy to get a comfortable fit. Wear it with a lived-in tee, your favorite denim, or while stepping out for a coffee with the kids — it’s the kind of cap that settles into your day and feels right fast.Product features- Structured mid-profile six-panel construction with hard buckram front panels- Breathable 100% polyester mesh back for reduced sweating- Pre-curved Permacurv® visor with matching underbill and eight-row stitching- Comfortable 60/40 cotton-poly front and 100% cotton sweatband- Adjustable plastic snap closure and sewn-in Yupoong labelCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2026-07-16T22:21:34Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -606,7 +606,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1779837318834189512_2048.jpg?v=1773759528
     Price: $22.17 USD
 - [My First Christmas! Infant Bodysuit – Baby First Christmas Onesie](https://printaface.com/products/my-first-christmas-infant-bodysuit-baby-first-christmas-onesie): NB (0-3M) 6M 12M 18M 24M Width, in 7.50 9.00 10.00 11.00 12.00 Length, in 10.75 11.76 12.75 13.75 14.75 Sleeve length, in 2.52 2.76 2.99 3.23 3.50 Soft, lightweight bodysuit made for tiny firsts and cozy holiday moments. The smooth, combed ringspun cotton feels gentle against newborn skin while the ribbed knit binding at the neck and sleeves gives stretch for easy dressing. Side seams keep the shape through repeated wear and washes. Practical snaps at the crotch make changing straightforward so parents can focus on cuddles and photos. The simple “My First Christmas!” print sits small and sweet on the chest, letting the little one’s milestone shine in family gatherings and quiet mornings under twinkle lights.Product features- 100% combed ringspun cotton for solid colors; light 4.5 oz fabric- Ribbed knit binding for soft stretch and comfortable movement- Side seams for added structure and longer-lasting shape- Matching plastic snaps at the crotch for easy diaper changes- Tear-away label; REACH ; made in IndiaCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not dry clean- Do not iron
-  Updated: 2026-07-18T00:11:36Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -736,7 +736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1681374624070258821_2048_fe4532e2-e212-4eb0-8f24-d030e5d3fbdd.jpg?v=1765728648
     Price: $18.58 USD
 - [Birthday Girl Youth Tee — Floral Daisy Kids Birthday Shirt](https://printaface.com/products/birthday-girl-youth-tee-floral-daisy-kids-birthday-shirt): S M L XL Width, in 15.24 16.26 17.24 18.23 Length, in 20.87 22.13 23.39 24.37 Size tolerance, in 1.00 1.00 1.00 1.00 A lightweight, soft youth tee designed to celebrate a little one's special day with gentle charm. The clean crew neckline and retail fit let the shirt sit naturally while keeping movement easy—perfect for energetic birthday play. A simple, hand-drawn daisy sits below warm, handwritten text that reads “Birthday Girl,” creating a sweet, understated look that feels personal, tender, and celebratory rather than flashy. The airy cotton and neat construction make it comfortable for a day of cake, games, and family photos, and the tear-away DTF label keeps the neck itch-free. Ethically made blanks mean you can feel good about what they wear as they run around and make memories.Product features- Extra lightweight airlume-combed ring-spun cotton for a soft, breathable feel- Retail fit with crew neckline for a modern, comfortable silhouette- Side seams and shoulder tape for shape retention and stretch prevention- DTF inner neck labels and tear-away tag for comfort and clean finish- Available fabric blends: solid 100% cotton; heathers 52/48 cotton/poly; black/athletic 90/10 cotton/polyCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dry cleanStandard Shipping — Calculated at checkout.
-  Updated: 2026-07-31T00:40:12Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -837,7 +837,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/7068018961621871011_2048.jpg?v=1774069152
     Price: $17.40 USD
 - [Personalized 50th Birthday “Birthday Crew” Long Sleeve Shirt with Custom Photo](https://printaface.com/products/personalized-50th-birthday-birthday-crew-long-sleeve-shirt-with-custom-photo): S M L XL 2XL 3XL 4XL 5XL Width, in 17.99 20.00 22.01 23.98 25.98 28.00 30.00 32.00 Length, in 27.99 28.98 30.00 30.98 32.01 33.00 34.00 35.00 Sleeve length, in 25.00 25.51 25.98 26.50 27.01 27.52 28.03 28.54 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 This long-sleeve crew tee brings a warm, personal touch to group celebrations. Crafted from a thicker, vintage-feel cotton knit, it holds printed images and text with clarity while feeling substantial on cooler evenings. The clean, classic silhouette showcases a centered photo above a simple, elegant caption — a low-key way for friends and family to show up together for milestone birthdays or casual reunions. Soft ribbing at the collar and taped shoulders keep the shirt comfortable and shaped through wear. Sized in a classic fit with a bit of room in the sleeves, it’s a wearable keepsake that reads like a shared memory.Product features- Thicker vintage-feel cotton (medium weight 6.0 oz/yd²)- Tubular knit without side seams to reduce waste- Ribbed knit collar with shoulder tape for shape retention- Classic fit with sewn-in label; runs smaller than usual- Color-dependent fiber blends (solid 100% cotton; heather/safety blends)Care instructions- Non-chlorine: bleach as needed- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: medium heat- Do not iron
-  Updated: 2026-07-16T22:21:34Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
@@ -1043,7 +1043,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10358634897561201899_2048.jpg?v=1765728568
     Price: $24.58 USD
 - [Don't Be Late! Funny Face Wall Clock — Humorous Home Office Decor - Upload Your Own Picture and text !](https://printaface.com/products/dont-be-late-funny-face-wall-clock-humorous-home-office-decor-upload-your-own-picture-and-text): White Base Black Base Wooden Base Width, in 10.00 10.00 10.00 Length, in 10.00 10.00 10.00 Thickness, in 2.00 2.00 2.00 A quirky, personality-filled wall clock that blends function with a wink. This 10" wooden-framed clock features a bold face with a surprised, wide-eyed expression and the playful reminder “Don't be Late!”—a lighthearted nudge for busy kitchens, home offices, or dorm rooms. The plexiglass face and crisp, vibrant printing keep the image clear and lively, while the silent metal mechanism ensures quiet timekeeping. Easy to hang with the pre-installed backside hook, it runs on one AA battery and comes in natural wood, black, or white frame options with matching hands to suit your decor.Product features- Available in natural wood, black or white frames with matching hands- Pre-installed backside hook for easy hanging- Vibrant, high-quality printing on plexiglass face- 100% wood frame, plexiglass face, and silent metal mechanism- One size: 10" x 10" (25.4 x 25.4 cm); requires 1 AA battery (not included)Care instructions- Wipe the dust off gently with a clean, dry microfiber cloth
-  Updated: 2026-07-31T12:27:55Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -1073,7 +1073,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/13143786088050532950_2048.jpg?v=1785458025
     Price: $39.84 USD
 - [Wall Clock](https://printaface.com/products/wall-clock): Every second counts! An exciting and practical accent in any room, this unique high quality Wall Clock serves as a statement piece, creating a personalized environment..: Materials: 100% wood (frame), 100% plexiglass (face), 100% metal (mechanism).: One size: 10" x 10" (25.4 x 25.4 cm).: Pre-installed backside hook.: For indoor use.: Requires one AA battery (NOT included).: Silent clock mechanism
-  Updated: 2026-07-16T22:21:35Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -1103,7 +1103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/896898027863078861_2048.jpg?v=1765728526
     Price: $43.38 USD
 - [Wooden Cutting Board (Engraving)](https://printaface.com/products/wooden-cutting-board-engraving): Perfect for serving or light prep, it features custom laser engraving for a unique and thoughtful touch..: Decoration method: Engraving.: Premium walnut or maple wood.: Please note: Hand wash only
-  Updated: 2026-07-16T22:21:35Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -1117,7 +1117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/16897314268704448199_2048.jpg?v=1765728606
     Price: $36.13 USD
 - [Mom & Dad’s Favorite Custom Baby Bodysuit | Write Your Own Text](https://printaface.com/products/mom-dad-s-favorite-custom-baby-bodysuit-write-your-own-text): NB (0-3M) 6M 12M 18M 24M Width, in 7.50 9.00 10.00 11.00 12.00 Length, in 10.75 11.76 12.75 13.75 14.75 Sleeve length, in 2.52 2.76 2.99 3.23 3.50 Soft, lightweight infant bodysuit designed for everyday cuddles and easy changes. The smooth, tightly spun fabric holds print detail gently against baby’s skin while ribbed knit binding at the neck and sleeves lets little arms move freely. Side seams keep the shape wash after wash, and matching plastic snaps at the cross closure make diaper changes quick and quiet. A tear-away label adds comfort for sensitive skin. REACH  and made with high-quality combed ringspun cotton, this onesie is made to sit close to baby’s body without weighing them down.Product features- 100% combed ringspun cotton for solid colors; light 4.5 oz fabric- Side seams for improved shape retention- Ribbed knit binding for comfortable movement- Matching plastic snaps at cross closure for easy diaper changes- Tear-away label and REACH  materialsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not dry clean- Do not iron
-  Updated: 2026-07-23T13:21:55Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -1267,7 +1267,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/15815132789877193196_2048_ad8a6ff5-e1e8-4f9f-90b3-bebec29e244f.jpg?v=1765772488
     Price: $18.58 USD
 - [Personalized Photo Wall Clock — Custom Kids’ Face Clock for Nursery & Family Room](https://printaface.com/products/personalized-photo-wall-clock-custom-kids-face-clock-for-nursery-family-room): A warm, personal wall clock crafted to hold a favorite face or photo in crisp, vibrant color. This 10" wooden clock brings a photo to life behind a clear plexiglass face, with a silent mechanism that lets treasured moments mark time without ticking noise. The subtle wood frame and choice of black or white hands keep the image front-and-center, while a built-in hook makes it quick to hang in a hallway, nursery, or family room. It’s made for indoor spaces where memories live and everyday routines feel a little gentler.Product features- 10" (25.4 x 25.4 cm) single size — easy-to-read display- Frame options: natural wood, black or white with matching hands- Printed in vivid, long-lasting color on plexiglass face- Silent metal clock mechanism; requires 1 AA battery (not included)- Pre-installed backside hook for simple hanging; for indoor use onlyCare instructions- Wipe the dust off gently with a clean, dry microfiber cloth
-  Updated: 2026-07-22T21:58:38Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -1297,7 +1297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12854552647924664828_2048.jpg?v=1767061415
     Price: $30.03 USD
 - [Embroidered "Douglass" Cuffed Beanie — Classic Knit Winter Hat](https://printaface.com/products/embroidered-douglass-cuffed-beanie-classic-knit-winter-hat): A soft, cuffed beanie embroidered with a simple name-style script. The 12" cuff gives this beanie a clean, structured look that sits comfortably over ears while the tightly knitted 100% turbo acrylic keeps warmth without itching. Embroidered lettering adds a subtle, long-lasting detail that reads like a quiet statement — easy to layer under a coat or wear alone on a cool morning. Hypoallergenic fibers and careful manufacturing meet safety standards, so it’s comfortable for sensitive skin and built to last season after season. The minimalist design slips into everyday wardrobes: city streets, early walks, and cozy evenings by the window.Product features- 12" cuffed design for a snug, structured fit- Durable embroidery for lasting, detailed decoration- 100% turbo acrylic — warm, lightweight knit- Hypoallergenic fibers gentle on sensitive skin- One size fits most () with compliant manufacturing originCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2026-07-22T21:58:38Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -1327,21 +1327,21 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/16461422245701291986_2048.jpg?v=1765773791
     Price: $30.64 USD
 - [11oz Coffee Mug — "You Are Literally the Only Person I Like" Love Gift  - Add Your Own Text](https://printaface.com/products/11oz-coffee-mug-you-are-literally-the-only-person-i-like-love-gift-add-your-own-text): 11oz Height, in 3.74 Diameter, in 3.15 This white ceramic 11oz mug carries a playful, slightly sassy love note in a bold red heart: “you are literally the only person I like” with “I Love you” beneath. It’s the kind of cup that makes quiet mornings brighter and shared coffee moments a little more intimate and funny. Lightweight but sturdy, it feels familiar in the hand and brings a warm, personal touch to everyday rituals — morning coffee, afternoon tea, or late-night cocoa while laughing over private jokes. The clean white background makes the graphic pop, so the message reads loud and clear across the kitchen table or on a home office desk.Product features- 11 oz white ceramic — comfortable daily size- Microwave-safe for quick reheats- Dishwasher-safe for easy cleaning- C-handle with rounded edges for a comfortable grip- Lead- and BPA-free, food-safe materialsCare instructions- Clean in dishwasher or wash by hand with warm water and dish soapStandard US ( 4 - 8 Days) and International (10 - 30 Days) Shipping. Price calculated at checkout.
-  Updated: 2026-07-22T21:58:38Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2188785470601234622_2048.jpg?v=1767390342
   Price: $13.83 USD
 - [15oz Photo Face Mug — Personalized Funny Repeating Portrait Coffee Cup](https://printaface.com/products/15oz-photo-face-mug-personalized-funny-repeating-portrait-coffee-cup): 15oz Height, in 4.72 Diameter, in 3.39 Diameter (with handle), in 4.92 This 15oz ceramic mug brings a playful, personal vibe to morning routines. Rows of expressive faces wrap around the mug, turning a simple coffee pause into a moment of private amusement. The glossy white ceramic keeps the printed pattern vivid, while the comfortable C-handle and rounded rim make each sip easy and familiar. It feels like a little nod to personality on your kitchen counter or desk — something to smile at when you need a tiny lift.Product features- 15 oz (0.44 l) white ceramic capacity- Microwave-safe for reheating beverages- Dishwasher-safe for easy cleaning- Comfortable C-handle with rounded rim- Lead- and BPA-free, food-safe materialCare instructions- Clean in dishwasher or wash by hand with warm water and dish soapShipping calculated during checkout.
-  Updated: 2026-07-22T21:58:38Z
+  Updated: 2026-08-09T16:23:29Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/13508458079484047506_2048.jpg?v=1768584567
   Price: $18.59 USD
 - [Our First Mother's Day Photo Tee — Personalized Floral Mother's Day T-Shirt](https://printaface.com/products/our-first-mothers-day-photo-tee-personalized-floral-mothers-day-t-shirt): XS S M L XL 2XL 3XL 4XL Width, in 16.50 18.00 20.00 22.00 24.00 26.00 28.00 30.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 34.00 Sleeve length, in 8.60 8.90 9.20 9.50 9.70 10.00 10.40 10.80 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Light, soft, and quietly sentimental — this cotton jersey tee wears the memory of a first Mother’s Day like a warm, familiar hug. A framed floral print cradles your favorite photo above a gentle script that reads “Our First Mother’s Day,” creating a keepsake you can wear to family brunches, stroller walks, or slow mornings at home. The lightweight Airlume cotton breathes through busy days with baby, while the clean crew neckline and retail fit make it easy to layer under cardigans or pair with jeans. Every time you pull it on, it brings back that close, calm moment between parent and child.Product features- 100% Airlume combed and ring-spun cotton — lightweight (4.2 oz) and breathable- Side seams and shoulder tape for lasting shape and stable fit- Ribbed knit collar with seam and tear-away label for comfort- High-quality sleeve and label printing options (DTF/DTG) for crisp, vibrant designs- REACH ; blanks sourced from Honduras; ethical Bella+Canvas manufacturingCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from Honduras Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2026-08-02T23:57:06Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1547,7 +1547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/15692066377513660397_2048.jpg?v=1773983097
     Price: $17.73 USD
 - [Infant Tee — "Our First Mother's Day" Floral Photo Baby Shirt](https://printaface.com/products/infant-tee-our-first-mothers-day-floral-photo-baby-shirt): 6M 12M 18M 24M Width, in 10.00 11.00 12.00 13.00 Length, in 12.50 13.50 14.50 15.50 Sleeve length, in 3.75 4.00 4.25 4.75 Size tolerance, in 1.00 1.00 1.00 1.00 A soft, light jersey tee made for little ones and stitched with gentle details that keep shape and comfort at the forefront. The shirt features a delicate floral frame printed around a central photo area with subtle scripted text beneath, creating a tender keepsake look that feels like a whisper of home. The ribbed collar and shoulder tape help the tee hold up to everyday wear, while the smooth, tightly spun fabric keeps printed images crisp and colors soft. Let this tee be the quiet outfit for a cozy morning together, a photographed moment, or a tiny wardrobe staple you reach for when you want a simple, sentimental look.Product features- Lightweight 4.5 oz combed ring-spun cotton for soft, breathable wear- Smooth, strong fabric for clear, lasting prints- Ribbed knit collar and shoulder tape to maintain shape- Side seams and classic fit for durable structure- Runs true to size with gentle stretch in heather blendsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
-  Updated: 2026-07-22T21:58:39Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -1753,7 +1753,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/6601729535144288782_2048.jpg?v=1767061484
     Price: $11.80 USD
 - [Personalized Pet Bowl — 18oz Ceramic Bowl with Pink Paw Print & Custom Name](https://printaface.com/products/personalized-pet-bowl-18oz-ceramic-bowl-with-pink-paw-print-custom-name): 18oz Height, in 3.11 Diameter, in 6.81 This stainless steel pet bowl brings quiet reliability and a touch of charm to daily feeding. The double-wall insulation holds water or food at a steady temperature while preventing condensation on the outside. A smooth, power-coated finish keeps the bowl looking clean and resists scratches, and the 18oz size fits most cats and small dogs. Dishwasher-safe construction and  material compliance offer practical peace of mind for pet parents who want something safe, long-lasting, and easy to care for. Add your pet’s name above the subtle paw-print motif for a gentle, personalized touch that sits comfortably in a cozy kitchen or on a travel mat.Product features- Durable 100% stainless steel construction — rust and corrosion resistant- Double-wall insulation keeps contents hot or cold longer- Dishwasher-safe for easy cleanup- Power-coated finish for scratch resistance and lasting appearance-  safe materials — meets heavy metals and phthalate limitsCare instructions- Hand wash
-  Updated: 2026-07-22T21:58:39Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: Pets
   Availability: Available
@@ -1783,14 +1783,14 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/17983326139419482867_2048.jpg?v=1767061401
     Price: $39.09 USD
 - [Personalized Photo Sherpa Blanket – Custom Couples Name & Heart Design](https://printaface.com/products/personalized-photo-sherpa-blanket-custom-couples-name-heart-design): 50" × 60" Width, in 50.00 Height, in 60.00 A warm, personalized sherpa fleece blanket designed to hold a moment close. One side features a soft cream background with scattered taupe hearts, a centered photo slot, and scripted names beneath — all printed with gentle, muted tones to keep the focus on the image and the people in it. The reverse is plush, velvety sherpa fleece that cushions against the skin and traps warmth. Lightweight yet insulating, this throw wraps evening conversations, movie nights, and slow Sundays in a quiet, intimate glow.This blanket reads like a keepsake: the photograph becomes part of the fabric of daily life, and the neutral palette blends with cozy living rooms, bedrooms, and cabin couches. It’s crafted for anyone who collects memories — couples marking an anniversary, newlyweds settling into a home, or family members who want a tactile reminder of a favorite moment. The finished hem and durable polyester construction mean the blanket stays soft and present through repeated use and washes, while compliance testing adds peace of mind for long-term wear.Bring it out when the light softens: drape it across a sofa, tuck it around shoulders during a road trip, or spread it over a bed for an added layer of comfort. It’s meant to be touched, looked at, and lived with — a small ritual of warmth that makes familiar spaces feel more intimate.Product features- Velvety sherpa backside for plush warmth- 100% polyester, 3mm thickness for soft, insulating feel- Hemmed edges for durability and long-lasting use- One-sided print with centered photo area and scripted name line- Available in three sizes; pre-constructed with ±3" size varianceCare instructions- Wash the item only cold machine wash with similar colors garments using a gentle cycle. Tumble dry on low settings or hang dry. Do not bleach or dry clean.
-  Updated: 2026-07-22T21:58:40Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/15633531442905106947_2048.jpg?v=1767061391
   Price: $37.43 USD
 - [Personalized Photo Sherpa Blanket with Hearts, Your own Picture — Custom Name & Est. Date](https://printaface.com/products/personalized-photo-sherpa-blanket-with-hearts-your-own-picture-custom-name-est-date): 30'' × 40'' 50" × 60" 60" × 80" Width, in 30.00 50.00 60.00 Length, in 40.00 60.00 80.00 A plush sherpa blanket that brings warmth and quiet charm to evenings at home. One side shows a smooth, vibrant printed face—deep navy with soft beige heart motifs framing a central photo and name line—while the reverse is thick beige sherpa fleece that invites sinking into its softness. The weighty, durable polyester weave holds color and shape, and rounded corners with decorative stitching give a finished, cozy look. It slips over laps during movie nights, spreads across the foot of a bed for an extra layer of comfort, or folds into a chair for slow mornings with coffee and a good book.Product features- 100% polyester face and backing for durable, colorfast printing- Thick 12.8 oz/yd² (435 g/m²) construction for substantial warmth- Soft sherpa fleece backside for plush, cozy comfort- Vibrant, crisp printed front in navy with beige heart accents- Rounded corners with decorative stitching; available in three sizes and two color optionsCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Do not bleach- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2026-07-22T21:58:40Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -1820,14 +1820,14 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/17827231333975596661_2048_f78bb41b-a0e6-441a-af99-e38691953b3c.jpg?v=1767061528
     Price: $48.33 USD
 - [Embroidered Premium Jersey Baby Blanket — Personalized Infant Swaddle](https://printaface.com/products/embroidered-premium-jersey-baby-blanket-personalized-infant-swaddle): Soft, simple, and made for gentle moments. This infant blanket wraps little ones in breathable combed ring‑spun cotton that feels smooth against newborn skin. The sturdy double‑needle stitching and ribbed binding hold up to wash after wash, while the tear‑away and EasyTear™ labels keep tiny necks scratch‑free. It’s lightweight yet cozy — great for stroller rides, nap time, and close cuddles during quiet evenings.Designed for caregivers who value safe, durable basics, the blanket blends practical safety features with a calm, minimalist look. It carries CPSIA tracking for peace of mind, and the tight, premium jersey knit keeps its shape and softness through everyday use. Bring this blanket to feedings, naps, and short outings where comfort and safety matter most.Product features- 100% combed ring‑spun cotton, 5.5 oz/yd² for soft, breathable comfort- Double‑needle stitching and ribbed binding for long‑lasting durability- CPSIA compliant with side‑seam tracking label for safety assurance- Tear‑away / EasyTear™ label to prevent irritation on delicate skin- Lightweight jersey knit that holds shape after repeated washingCare instructions
-  Updated: 2026-07-22T21:58:40Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/13192006974850409558_2048.jpg?v=1766357995
   Price: $34.13 USD
 - [Embroidered Infant Blanket — Soft Combed Cotton Baby Swaddle - Pink or White](https://printaface.com/products/embroidered-infant-blanket-soft-combed-cotton-baby-swaddle-pink-or-white): A soft, breathable infant blanket made from premium combed ring-spun cotton. Lightweight yet cozy, it drapes gently over tiny shoulders and lays smooth against delicate skin. The neatly stitched ribbed binding frames the blanket, while reinforced double-needle seams keep it looking fresh after washes. Labels are designed to be removed or sit quietly out of the way for scratch-free comfort. Subtle enough to complement nursery decor, this blanket works well as a daily snuggle layer during naps, stroller walks, or quiet cuddle time at home.Product features- 100% combed ring-spun cotton, 5.5 oz/yd² — soft and breathable- Double-needle stitching on all seams for long-lasting durability- Double-needle ribbed binding for a clean, stable edge- CPSIA compliant with tracking label for safety and traceability- Tear-away / EasyTear™ labels for irritation-free comfortCare instructions
-  Updated: 2026-07-22T21:58:41Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -1841,28 +1841,28 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/15722460280134223159_2048_48d12851-baf5-4f0d-b33d-d71d2c3213e9.jpg?v=1766358307
     Price: $26.48 USD
 - [Personalized Pet Photo Sherpa Blanket — "Furever my best friend" Custom Name](https://printaface.com/products/personalized-pet-photo-sherpa-blanket-furever-my-best-friend-custom-name): 50" × 60" Width, in 50.00 Height, in 60.00 Soft, warm, and quietly personal — this sherpa fleece blanket brings a gentle hug to evenings at home. A plush velvety front showcases a photo and warm, handwritten-style lettering that reads like a small love note: “Fareever my best friend” with a name tucked beneath. The reverse is thick, fluffy sherpa that feels cloud-like against skin, perfect for curling up on the couch, staying cozy during late-night walks with a pet, or draping across a favorite chair as a comforting reminder of a beloved companion.The neutral palette and simple layout keep the focus on the photo and name, so memories remain front and center. It’s the kind of blanket you reach for when you want quiet comfort — for movie nights, rainy afternoons, or the slow ritual of remembering. Thoughtful and understated, it settles into everyday life and becomes a small, constant comfort.Product features- Velvety printed front with one-sided photo and custom name- Thick sherpa fleece backside for extra warmth and softness- 100% polyester, 3mm (1/8") pile for a supremely soft feel- Hemmed edges for durability; available in three sizes (±3" size variance)- Meets safety and chemical compliance standards;  useCare instructions- Wash the item only cold machine wash with similar colors garments using a gentle cycle. Tumble dry on low settings or hang dry. Do not bleach or dry clean.
-  Updated: 2026-07-22T21:58:41Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2843679305008112127_2048.jpg?v=1767061408
   Price: $37.43 USD
 - [Personalized 'Love Every Day' Sherpa Blanket — Cozy Pink Fleece Throw, Custom Name Gift](https://printaface.com/products/personalized-love-every-day-sherpa-blanket-cozy-pink-fleece-throw-custom-name-gift): 50" × 60" Width, in 50.00 Height, in 60.00 Wrap yourself in a daily reminder of warmth and care. This plush sherpa fleece blanket pairs a smooth, printed front with a cloud-soft, velvety sherpa backside that invites slow mornings, cozy movie nights, and keyboard-break cuddles. The large, friendly typography and soft pink palette bring a gentle, uplifting vibe to a bedroom or living room, while the durable hemmed edges hold up to regular use. Lightweight enough to drape over shoulders yet thick enough to hold comforting heat, it’s the kind of blanket you reach for when you want a familiar, calming pause in a busy day.Product features- Velvety sherpa backside for extra plush comfort- 100% polyester, 3mm thickness for warmth and softness- Durable hemmed edges to extend product life- Available in three sizes; one-sided print with plush reverse- Compliant with safety standards;  use, slight size variance possibleCare instructions- Wash the item only cold machine wash with similar colors garments using a gentle cycle. Tumble dry on low settings or hang dry. Do not bleach or dry clean.
-  Updated: 2026-07-22T21:58:41Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10758126296298010446_2048.jpg?v=1766377803
   Price: $41.95 USD
 - [Gold Heart Cutout Necklace — Personalized Engraved Heart Pendant](https://printaface.com/products/gold-heart-cutout-necklace-personalized-engraved-heart-pendant): One Size Chain length, in 18.00 - 20.00 A warm, wearable keepsake that feels like a quiet conversation between two hearts. This delicate heart cutout necklace layers a hollowed ring with a small engraved heart charm, both polished to a soft, luminous finish. Lightweight on the chest and steady on the chain, it sits close enough to carry private meanings — initials, a short date, or a tiny symbol — that catch the light with every turn. Built from surgical-grade 316L stainless steel with an optional PVD coating, it resists tarnish and stays gentle against sensitive skin. Wear it tucked beneath a sweater or over a blouse; it settles into daily rhythms and grows more meaningful with every wear.Product features- 316L surgical-grade stainless steel for long-lasting wear- Optional PVD coating for enhanced finish and color stability- Hypoallergenic construction suitable for sensitive skin- Durable, break-resistant design made for daily use- Features a heart cutout ring plus a small engraved heart charmCare instructions
-  Updated: 2026-07-22T21:58:41Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/17169930604411527552_2048.jpg?v=1767308793
   Price: $16.60 USD
 - [Photo-Print Bikini Briefs with Heart Pattern](https://printaface.com/products/photo-print-bikini-briefs-with-heart-pattern): Soft, playful, and made to move with you — these printed underwear bring everyday comfort into something a little cheeky. The lightweight, breathable fabric stretches four ways so it keeps its shape through motion, while a plush elastic waistband sits smoothly against your skin. The all-over print keeps colors bright and crisp, and the antimicrobial finish helps you feel fresh. Wear them under skirts, jeans, or loungewear when you want a private pop of personality that’s comfy enough for all-day wear.These are for someone who enjoys bold, cheeky prints and comfortable, reliable basics that still feel personal. They work well for casual self-care moments, fun date nights, or anytime you want a small, whimsical surprise in your wardrobe.Product features- 97% polyester, 3% spandex — strong, stretchy fabric- 4-way stretch for freedom of movement- Plush elastic waistband for comfortable fit- Breathable, antimicrobial material to stay fresh- Vibrant all-over print with sewn-in label; medium weight (180 g/m²)Care instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F)
-  Updated: 2026-07-22T21:58:42Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1888,20 +1888,20 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/13553521670870160784_2048.jpg?v=1774067476
     Price: $16.39 USD
 - [Photo Collage Heart Boxer Shorts  Custom Face Print Men’s Boxers](https://printaface.com/products/photo-collage-heart-boxer-shorts-custom-face-print-men-s-boxers): L Width (circumference), in 32.00 Length, in 12.50 Inseam, in 4.00 These personalized boxer briefs bring a playful, intimate energy to everyday wear. Soft, stretchy fabric wraps close to the body while printed portraits and bold red hearts repeat across a deep black field, creating a cheeky, photo-collage look that feels both personal and graphic. They sit low on the hips with a smooth elastic waistband and a regular, supportive cut — easy to wear under jeans or lounging at home. Breathable, antimicrobial polyester-spandex keeps things fresh through long days, and the vibrant all-over print stays sharp wash after wash. Wear them as a private joke, a keepsake, or a cozy reminder of someone you love.Product features- 92% polyester / 8% spandex for stretch and shape retention- Elastic, soft waistband for comfortable all-day wear- Breathable, antimicrobial fabric to reduce odor- Medium-weight (6.5 oz/yd²) with vibrant all-over print- Regular fit with sewn-in size label; assembled in USACare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F)
-  Updated: 2026-06-21T14:24:39Z
+  Updated: 2026-08-09T16:23:30Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Price: $0.00 USD
 - [Custom Photo Heart Print Thong  Personalized Women's Lingerie for Gifts and Valentine’s](https://printaface.com/products/custom-photo-heart-print-thong-personalized-womens-lingerie-for-gifts-and-valentine-s): Soft, playful thong designed for someone who wants a cheeky, personalized touch under their everyday wardrobe. Lightweight, breathable fabric feels smooth against the skin and moves with you thanks to 4-way stretch. The black elastic trim frames the printed panel with contrast, while antimicrobial properties keep things fresh. Wear it to bring a private smile—whether slipping into jeans for a date night or layering under a dress for a concert. The sewn-in label and regular fit make it uncomplicated and reliable for daily wear.Product features- 97% polyester, 3% spandex blend for strength and stretch- 4-way stretch for freedom of movement- Wide elastic waistband and black trim for comfort and contrast- Breathable antimicrobial fabric to help keep things fresh- Medium-weight fabric (180 g/m²) with sewn-in label; assembled in the USACare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F)
-  Updated: 2026-07-22T21:58:42Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12578408785423465769_2048.jpg?v=1767061496
   Price: $16.39 USD
 - [Personalized Photo Pajama Pants  'I Love Me' Collage Women's Sleepwear](https://printaface.com/products/personalized-photo-pajama-pants-i-love-me-collage-womens-sleepwear): XS S M L XL 2XL 3XL 4XL Waist width, in 12.99 - 14.02 14.02 - 15.00 15.00 - 15.98 17.01 - 18.50 18.50 - 19.49 19.49 - 20.51 20.51 - 21.50 21.50 - 22.52 Hips width, in 16.50 17.52 19.02 22.52 24.49 26.50 28.50 30.51 Outseam length, in 39.21 40.00 40.20 40.79 41.18 42.01 42.01 42.01 These lightweight pajama pants wrap you in a soft, breathable layer that feels like a quiet, cozy morning. The all-over print shows scattered polaroid-style photos, hand-drawn hearts, tiny crowns and playful handwritten notes — a warm, personal collage that reads like a keepsake. Wear them lounging with a mug on the couch, curled up for an afternoon read, or during slow weekend mornings when comfort and sentiment matter. The elastic waistband and smooth brushed polyester keep movement effortless and the print vivid through washes, so the pants stay both comfortable and familiar night after night.Product features- 100% brushed polyester for a soft, smooth feel and durable print surface- Lightweight fabric (5.6 oz/yd²) — airy and breathable for lounging- Elastic waistband with printed-in size and care label for comfort and no scratchy tags- High stitch density and matched seam thread for a neat, finished look- Assembled in the USA from globally sourced parts; quick-drying and shape-retaining fabricCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F)
-  Updated: 2026-07-22T21:58:42Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1939,7 +1939,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/7572508330534457745_2048.jpg?v=1767061501
     Price: $43.75 USD
 - [Personalized Photo Pet Pajama Pants . Custom Couple and  Dog Print Sleepwear](https://printaface.com/products/personalized-photo-pet-pajama-pants-custom-couple-and-dog-print-sleepwear): XS S M L XL 2XL 3XL 4XL Waist width, in 14.02 - 15.00 15.00 - 15.98 17.01 - 18.50 18.50 - 19.49 19.49 - 20.51 20.51 - 21.50 21.50 - 22.52 22.52 - 23.50 Hips width, in 17.52 19.02 22.52 24.49 26.50 28.50 30.51 32.52 Outseam length, in 40.00 40.20 40.79 41.18 42.01 42.01 42.01 42.01 Slide into evening comfort with these printed pajama pants that carry a quiet, personal charm. The soft brushed polyester drapes lightly, tracing relaxed shapes as you move from couch to kitchen for late-night snacks or morning coffee. A muted gray background keeps the pattern gentle while scattered paw prints, fishbone silhouettes and framed photos add a warm, homey rhythm — like a cozy scrapbook for someone who lives for furred companions and familiar faces. The elastic waistband and smooth hand-feel make them easy to wear all night or lounge in on slow weekends. These pants feel like staying in with the people (and pets) you love: calm, familiar, and a little playful.Product features- 100% brushed polyester for a soft, durable finish- Lightweight fabric (5.6 oz/yd²) that breathes and dries quickly- Elastic waistband with printed size and care label inside- High stitch density for a smooth printing surface and soft hand-feel- Assembled in the USA from globally sourced parts; seam thread color matched to designCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: warm (max 30C or 90F)
-  Updated: 2026-07-22T21:58:43Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1977,7 +1977,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/9999286047734581875_2048.jpg?v=1774068842
     Price: $45.58 USD
 - [Mom of the K-pop Girl T-Shirt  Cute K-Pop Mom Tee, K Pop theme birthday T shirt for Mom](https://printaface.com/products/mom-of-the-k-pop-girl-t-shirt-cute-k-pop-mom-tee-k-pop-theme-birthday-t-shirt-for-mom): S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.23 8.50 8.74 9.02 9.25 9.49 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 Soft, simple, and full of quiet pride — this lightweight tee reads like a note from a mom who cheerfully supports late-night streams, dance practices, and concert countdowns. The delicate script and tiny heart accents sit low on the chest, keeping the look understated but personal. It layers easily under hoodies or jackets, and the breathable cotton keeps you comfortable whether you’re cheering from the living room or waiting in line for merch.Wear it to rehearsals, fan meetups, or casual family outings. It matches the everyday rhythms of a K-pop family: early mornings, late-night listens, and all the little in-between moments where fandom becomes part of home life. The design speaks to pride without shouting — a soft, familiar way to say you’re on their team.Product features- 100% ring-spun cotton (lightweight 153 g/m²) — soft, smooth hand feel- Tubular knit construction — fewer side seams for a cleaner look- Ribbed, elastic collar with shoulder taping — retains shape and prevents stretching- Pearlized tear-away label and Oeko-Tex  materials — comfortable and safe- DTF/DTG printed designs; sleeve and neck prints done with Direct-to-Film where applicableCare instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 64000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Bangladesh Care instructions: Machine wash: cold (max 30C or 90F), with similar colors , Do not bleach, Tumble dry: low heat, Iron, steam or dry: low heat, Do not dryclean
-  Updated: 2026-06-21T14:24:39Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -2060,7 +2060,7 @@
     Availability: Available
     Price: $16.67 USD
 - [Corduroy Cap  Embroidered "PRINT IT YOUR WAY" Vintage Baseball Hat](https://printaface.com/products/corduroy-cap-embroidered-print-it-your-way-vintage-baseball-hat): One size Circumference, in 20.00 - 22.05 Height, in 5.98 Width, in 7.01 Panel height, in 2.99 A soft, lived-in corduroy cap that brings old-school warmth to everyday wear. The low-profile, unstructured crown sits comfortably and subtly, while the textured cotton ribs add depth and vintage character. Neat, white embroidery across the front gives a handcrafted feel without shouting. An adjustable strap with a brass-colored buckle lets you fine-tune the fit, and a cotton twill sweatband keeps the cap breathable during long days on the go. Wear it on walks through town, while running errands, or layered with a cozy jacket for cooler mornings — it ages well and folds easily into your routine.Product features- 100% cotton corduroy for textured, durable feel- Unstructured 6-panel low-profile crown for a relaxed fit- Adjustable strap with gold-colored metal buckle for custom sizing- Cotton twill sweatband and taped seams for comfort and breathability- Six embroidered eyelets for ventilation; sourced blanks from China/VietnamCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2026-07-22T21:58:43Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -2086,14 +2086,14 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/17250323337154635886_2048.jpg?v=1767061518
     Price: $25.77 USD
 - [Personalized Heart Ceramic Ornament – Custom Name & 2026 Keepsake](https://printaface.com/products/personalized-heart-ceramic-ornament-custom-name-2026-keepsake): Round Diameter, in 2.80 A delicate ceramic ornament that keeps a moment close all year long. Smooth white ceramic holds a soft matte print—centered text and four small hearts—so names and dates sit gently against the glossy background. Hung by the included gold string, this round keepsake slips easily onto a tree branch, a doorknob, or a special hook in the home. It feels personal and understated: a small, tactile reminder of someone or something worth remembering in 2026.Product features- 100% white ceramic for durability and a smooth finish- Matte UV-printed design on a glossy surface (print on one side)- Comes with a gold-colored hanging string attached- Round shape with a pre-drilled hole (hole position may vary slightly)- Sold individually — each package contains one ornamentCare instructions- Use a microfiber cloth to gently remove any dust or dirt build-up. Avoid harsh chemicals or cleaners. Instead, dampen a cotton wool swab in warm water (just a few drops per liter of water) and gently roll the swab over the ornament and refrain from scrubbing
-  Updated: 2026-07-22T21:58:43Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/7079197408953332560_2048.jpg?v=1774067395
   Price: $6.35 USD
 - [Soy Candle — 'Be Mine' Photo Scented Jar (4oz & 9oz)](https://printaface.com/products/soy-candle-be-mine-photo-scented-jar-4oz-9oz): Warm, hand-poured soy candles that bring a gentle, familiar comfort to small moments. Each candle is made from 100% USA-farmed soy wax with a cotton wick and poured into a reusable amber or clear glass jar with a black lid. Choose from seasonal and floral blends — from creamy Vanilla Bean and cozy Comfort Spice to bright Pink Grapefruit and cool Fresh Balsam — or go unscented for soft, natural light. The clean, non-toxic formula (no parabens, plastics, synthetic dyes, phthalates, or lead) burns evenly for hours and leaves a simple glass vessel you can reuse as décor or storage once the wax is gone. Available in two sizes, these candles fit beside a bathtub, on a bedside table, or grouped on a mantel for slow evenings and welcoming scents.Product features- Hand-poured 100% natural soy wax (USA-farmed)- 100% cotton eco wick for clean burn- Two sizes: 9oz (50–60 hr) or 4oz (25–30 hr)- Choose from 10 scents (including Unscented) and amber or clear glass- Reusable glass container; eco-friendly, non-toxic ingredientsCare instructions- Keep the burning candle within sight, and keep away from children and pets. Never burn the candle near flammable items. For best results, burn the candle for 3 - 4 hours in each lighting and trim the wick to 1/4" before lighting. Discontinue use with 1/2" of wax remaining.
-  Updated: 2026-07-22T21:58:43Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -2171,7 +2171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/8289952287090089011_2048.jpg?v=1767117965
     Price: $23.80 USD
 - [Monogram Holiday Ornament Crewneck Sweatshirt — Personalized 'Your Family Holiday Home'](https://printaface.com/products/monogram-holiday-ornament-crewneck-sweatshirt-personalized-your-family-holiday-home): S M L XL 2XL 3XL Width, in 20.00 22.01 24.00 26.00 28.00 30.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 Sleeve length (from center back), in 33.50 34.50 35.50 36.50 37.50 38.50 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 A soft, cozy crewneck that carries a quiet, festive charm. The wreath-and-ornament design, centered on a clean white background, feels like a handwritten holiday note — gentle greens, warm reds, and delicate berry accents framing a single initial. It settles easily into slow mornings with hot drinks, family photos by the tree, or evenings lighting candles and sharing stories. The classic fit and midweight fabric drape comfortably, so the sweatshirt becomes part of those small seasonal rituals rather than shouting for attention. Subtle personalization options (initial and small line of text) make it feel like a family heirloom folded into everyday wear during the holiday season.Product features- Medium-heavy 50/50 cotton-polyester blend for balanced warmth and breathability- Classic crewneck fit with double-needle stitching for durability- Tubular knit construction (no side seams) for a clean look- Embroidery and printed label options; personalization available with initial and line of text- OEKO-TEX  dyes and ethically sourced U.S. cotton; made in NicaraguaCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 18000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Nicaragua, For adults Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean
-  Updated: 2026-07-22T21:58:43Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -2201,213 +2201,213 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1241652229073612982_2048.jpg?v=1774067604
     Price: $26.47 USD
 - [Hypnotic Spiral Tee – Customizable Purple Spiral T-Shirt](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt): XS S M L XL 2XL 3XL 4XL Width, in 18.50 20.00 21.50 23.00 24.50 26.00 28.00 30.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 32.50 33.00 Sleeve Length from Center Back, in 17.75 18.50 19.25 20.00 20.75 21.50 22.25 23.00 Lightweight, breathable, and built for movement — this moisture-wicking tee keeps you cool while carrying a calm, graphic energy. The soft, extra-light polyester feels barely there against skin and pulls sweat away fast, so you can stay focused on the run, the studio, or the long summer walk. A bold spiral sits centered on the chest, balanced by a small line of customizable text beneath it. The shape is straightforward and flattering: regular fit, clean self-fabric collar, and side seams that hold structure wash after wash. The DTF print maintains crisp color and detail without adding bulk. Toss it on for morning training, outdoor chores, or laid-back weekend plans when you want comfort that moves with you and a design that quietly draws the eye.Product features- 100% polyester — extremely durable, quick-drying fabric- Extra-light weight (3.8 oz/yd²) for breathable comfort- DTF print for sharp, lasting graphic detail- Double-needle hems and side seams for reinforced durability- Tear-away label and self-fabric collar for itch-free wearCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
-  Updated: 2026-08-02T23:56:53Z
+  Updated: 2026-08-10T16:17:28Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/662405709876682794_2048.jpg?v=1784841586
+  Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/20260810041453-1f194720-9721-6bc4-9123-42a67909f4ac.png?v=1786335426
   - [XS / Kelly Green](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666600833264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2350264521094799965_2048.jpg?v=1784841592
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2350264521094799965_2048.jpg?v=1786335448
     Price: $27.02 USD
   - [XS / Maroon](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666600866032)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/4405743657438078594_2048.jpg?v=1784841596
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/4405743657438078594_2048.jpg?v=1786335467
     Price: $27.02 USD
   - [XS / Silver](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666600898800)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/15580062099838725982_2048.jpg?v=1784841587
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/20260810041453-1f194720-9721-6bc4-9123-42a67909f4ac.png?v=1786335426
     Price: $27.02 USD
   - [XS / True Red](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666600931568)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2889290872262906649_2048.jpg?v=1784841594
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2889290872262906649_2048.jpg?v=1786335460
     Price: $27.02 USD
   - [XS / True Royal](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666600964336)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11740396944287626134_2048.jpg?v=1784841594
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11740396944287626134_2048.jpg?v=1786335456
     Price: $27.02 USD
   - [XS / White](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666600997104)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/662405709876682794_2048.jpg?v=1784841586
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/662405709876682794_2048.jpg?v=1786335429
     Price: $27.02 USD
   - [XS / Cardinal](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601029872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18215019790526263067_2048.jpg?v=1784841596
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18215019790526263067_2048.jpg?v=1786335464
     Price: $27.02 USD
   - [XS / Grey Concrete](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601062640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2251201818068655960_2048.jpg?v=1784841591
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2251201818068655960_2048.jpg?v=1786335445
     Price: $27.02 USD
   - [XS / Tropic Blue](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601095408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10580787875509707112_2048.jpg?v=1784841593
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10580787875509707112_2048.jpg?v=1786335453
     Price: $27.02 USD
   - [XS / Sand](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601128176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10883377976599843964_2048.jpg?v=1784841590
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10883377976599843964_2048.jpg?v=1786335439
     Price: $27.02 USD
   - [XS / Coyote Brown](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601160944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11718963966178760657_2048.jpg?v=1784841588
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11718963966178760657_2048.jpg?v=1786335432
     Price: $27.02 USD
   - [XS / Woodland Brown](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601226480)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12311949464565325957_2048.jpg?v=1784841589
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12311949464565325957_2048.jpg?v=1786335435
     Price: $27.02 USD
   - [S / Kelly Green](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601259248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2350264521094799965_2048.jpg?v=1784841592
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2350264521094799965_2048.jpg?v=1786335448
     Price: $27.02 USD
   - [S / Maroon](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601292016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/4405743657438078594_2048.jpg?v=1784841596
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/4405743657438078594_2048.jpg?v=1786335467
     Price: $27.02 USD
   - [S / Silver](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601324784)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/15580062099838725982_2048.jpg?v=1784841587
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/20260810041453-1f194720-9721-6bc4-9123-42a67909f4ac.png?v=1786335426
     Price: $27.02 USD
   - [S / True Red](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601357552)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2889290872262906649_2048.jpg?v=1784841594
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2889290872262906649_2048.jpg?v=1786335460
     Price: $27.02 USD
   - [S / True Royal](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601390320)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11740396944287626134_2048.jpg?v=1784841594
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11740396944287626134_2048.jpg?v=1786335456
     Price: $27.02 USD
   - [S / White](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601423088)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/662405709876682794_2048.jpg?v=1784841586
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/662405709876682794_2048.jpg?v=1786335429
     Price: $27.02 USD
   - [S / Cardinal](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601455856)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18215019790526263067_2048.jpg?v=1784841596
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18215019790526263067_2048.jpg?v=1786335464
     Price: $27.02 USD
   - [S / Grey Concrete](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601488624)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2251201818068655960_2048.jpg?v=1784841591
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2251201818068655960_2048.jpg?v=1786335445
     Price: $27.02 USD
   - [S / Tropic Blue](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601521392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10580787875509707112_2048.jpg?v=1784841593
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10580787875509707112_2048.jpg?v=1786335453
     Price: $27.02 USD
   - [S / Sand](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601554160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10883377976599843964_2048.jpg?v=1784841590
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10883377976599843964_2048.jpg?v=1786335439
     Price: $27.02 USD
   - [S / Coyote Brown](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601586928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11718963966178760657_2048.jpg?v=1784841588
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11718963966178760657_2048.jpg?v=1786335432
     Price: $27.02 USD
   - [S / Olive Drab Green](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601619696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18399714478876110432_2048.jpg?v=1784841590
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18399714478876110432_2048.jpg?v=1786335442
     Price: $27.02 USD
   - [S / Woodland Brown](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601652464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12311949464565325957_2048.jpg?v=1784841589
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12311949464565325957_2048.jpg?v=1786335435
     Price: $27.02 USD
   - [M / Kelly Green](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601685232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2350264521094799965_2048.jpg?v=1784841592
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2350264521094799965_2048.jpg?v=1786335448
     Price: $27.02 USD
   - [M / Maroon](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601718000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/4405743657438078594_2048.jpg?v=1784841596
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/4405743657438078594_2048.jpg?v=1786335467
     Price: $27.02 USD
   - [M / Silver](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601750768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/15580062099838725982_2048.jpg?v=1784841587
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/20260810041453-1f194720-9721-6bc4-9123-42a67909f4ac.png?v=1786335426
     Price: $27.02 USD
   - [M / True Red](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601783536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2889290872262906649_2048.jpg?v=1784841594
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2889290872262906649_2048.jpg?v=1786335460
     Price: $27.02 USD
   - [M / True Royal](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601816304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11740396944287626134_2048.jpg?v=1784841594
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11740396944287626134_2048.jpg?v=1786335456
     Price: $27.02 USD
   - [M / White](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601849072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/662405709876682794_2048.jpg?v=1784841586
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/662405709876682794_2048.jpg?v=1786335429
     Price: $27.02 USD
   - [M / Cardinal](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601881840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18215019790526263067_2048.jpg?v=1784841596
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18215019790526263067_2048.jpg?v=1786335464
     Price: $27.02 USD
   - [M / Grey Concrete](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601914608)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2251201818068655960_2048.jpg?v=1784841591
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2251201818068655960_2048.jpg?v=1786335445
     Price: $27.02 USD
   - [M / Tropic Blue](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601947376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10580787875509707112_2048.jpg?v=1784841593
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10580787875509707112_2048.jpg?v=1786335453
     Price: $27.02 USD
   - [M / Sand](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666601980144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10883377976599843964_2048.jpg?v=1784841590
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10883377976599843964_2048.jpg?v=1786335439
     Price: $27.02 USD
   - [M / Coyote Brown](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602012912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11718963966178760657_2048.jpg?v=1784841588
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11718963966178760657_2048.jpg?v=1786335432
     Price: $27.02 USD
   - [M / Olive Drab Green](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602045680)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18399714478876110432_2048.jpg?v=1784841590
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18399714478876110432_2048.jpg?v=1786335442
     Price: $27.02 USD
   - [M / Woodland Brown](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602078448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12311949464565325957_2048.jpg?v=1784841589
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12311949464565325957_2048.jpg?v=1786335435
     Price: $27.02 USD
   - [L / Kelly Green](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602111216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2350264521094799965_2048.jpg?v=1784841592
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2350264521094799965_2048.jpg?v=1786335448
     Price: $27.02 USD
   - [L / Maroon](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602143984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/4405743657438078594_2048.jpg?v=1784841596
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/4405743657438078594_2048.jpg?v=1786335467
     Price: $27.02 USD
   - [L / Silver](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602176752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/15580062099838725982_2048.jpg?v=1784841587
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/20260810041453-1f194720-9721-6bc4-9123-42a67909f4ac.png?v=1786335426
     Price: $27.02 USD
   - [L / True Red](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602209520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2889290872262906649_2048.jpg?v=1784841594
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2889290872262906649_2048.jpg?v=1786335460
     Price: $27.02 USD
   - [L / True Royal](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602242288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11740396944287626134_2048.jpg?v=1784841594
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11740396944287626134_2048.jpg?v=1786335456
     Price: $27.02 USD
   - [L / White](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602275056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/662405709876682794_2048.jpg?v=1784841586
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/662405709876682794_2048.jpg?v=1786335429
     Price: $27.02 USD
   - [L / Cardinal](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602307824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18215019790526263067_2048.jpg?v=1784841596
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18215019790526263067_2048.jpg?v=1786335464
     Price: $27.02 USD
   - [L / Grey Concrete](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602340592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2251201818068655960_2048.jpg?v=1784841591
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2251201818068655960_2048.jpg?v=1786335445
     Price: $27.02 USD
   - [L / Tropic Blue](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602373360)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10580787875509707112_2048.jpg?v=1784841593
-    Price: $27.02 USD
-  - [L / Sand](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602406128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10883377976599843964_2048.jpg?v=1784841590
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/10580787875509707112_2048.jpg?v=1786335453
     Price: $27.02 USD
   - [L / Coyote Brown](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602438896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11718963966178760657_2048.jpg?v=1784841588
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/11718963966178760657_2048.jpg?v=1786335432
     Price: $27.02 USD
   - [L / Olive Drab Green](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602471664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18399714478876110432_2048.jpg?v=1784841590
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/18399714478876110432_2048.jpg?v=1786335442
+    Price: $27.02 USD
+  - [L / Woodland Brown](https://printaface.com/products/hypnotic-spiral-tee-customizable-purple-spiral-t-shirt?variant=48666602504432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/12311949464565325957_2048.jpg?v=1786335435
     Price: $27.02 USD
 - [Personalized Magnetic Impact-Resistant Phone Case  Custom Photo Love Typography](https://printaface.com/products/personalized-magnetic-impact-resistant-phone-case-custom-photo-love-typography): A slim, impact-resistant phone case that blends protective engineering with a soft, personal aesthetic. The dual-layer construction cushions against drops while the rigid polycarbonate shell resists scratches. A full-wrap, photo-quality print gives vivid color and crisp detail — choose glossy or matte finishes to match your style. Built-in interior magnets offer MagSafe® compatibility for easy attachment to chargers and accessories. Lightweight and comfortable in hand, this case keeps your phone safe while showcasing a gentle, portrait-focused design that feels both personal and polished.Product features- Dual-layer protection: rigid polycarbonate exterior with cushioned TPU liner for shock absorption- High-resolution full-wrap print: 300+ DPI photo-realistic color reproduction- Finish options: available in glossy or matte premium surface- MagSafe® compatible: embedded interior magnets for use with MagSafe accessories (compatibility not  with non-Apple chargers)- Durable and impact resistant: lightweight, flexible materials made for everyday useCare instructions- Clean the case with soft, damp cotton or microfiber cloth. Avoid using chemicals.
-  Updated: 2026-07-22T21:58:44Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
@@ -2425,7 +2425,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/17683557516114692026_2048.jpg?v=1767330251
     Price: $24.28 USD
 - [Personalized Face Print Pajama Pants — Custom Couples Photo All-Over Print](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print): XS S M L XL 2XL 3XL 4XL Waist width, in 12.99 - 14.02 14.02 - 15.00 15.00 - 15.98 17.01 - 18.50 18.50 - 19.49 19.49 - 20.51 20.51 - 21.50 21.50 - 22.52 Hips width, in 16.50 17.52 19.02 22.52 24.49 26.50 28.50 30.51 Outseam length, in 39.21 40.00 40.20 40.79 41.18 42.01 42.01 42.01 These lightweight pajama pants bring familiar faces and playful doodles to your downtime. The all-over print features smiling portraits, little crowns, hearts, and handwritten notes that read like inside jokes. Soft brushed polyester drapes easily, moves with you, and keeps colors bright wash after wash. An elastic waistband and printed care label keep the fit simple and fuss-free. Wear them for cozy nights in, long lazy mornings, or when you want a fun, personal touch to your loungewear rotation.Product features- 100% brushed polyester — durable, shape-retaining, quick-drying- Lightweight fabric (5.6 oz/yd² | 190 g/m²) with soft hand-feel- Elastic waistband for easy, comfortable fit- Size and care printed on inner waistband — no scratchy tags- Seam color matched to design; assembled in the USA from global partsCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F)
-  Updated: 2026-07-22T21:58:44Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -2463,7 +2463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/1690854728793505118_2048.jpg?v=1774068976
     Price: $47.46 USD
 - [Sherpa Fleece Blanket](https://printaface.com/products/sherpa-fleece-blanket): Wrap yourself—or someone you love—in warmth with our ultra-soft Sherpa Fleece Blanket. Designed for snuggling, this plush blanket is perfect for chilly nights on the couch or staying cozy at outdoor events. Featuring thick, high-quality fleece with vibrant, one-sided printing and neatly hemmed edges, it combines luxurious comfort with personalized style. The reverse side offers irresistibly fluffy sherpa texture that feels like a warm hug—perfect for any occasion..: Made with 100% polyester that's 1/8'' (3mm) thick for extra warmth and a feel that is supremely soft to the touch.: Available in 3 sizes.: All fleeces come with a one-sided print and a velvety, plush backside for extra coziness.: Please note: This is a pre-constructed item. A size variance of +/- 3" is possible
-  Updated: 2026-07-16T22:21:39Z
+  Updated: 2026-08-09T16:23:31Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -2481,22 +2481,22 @@
   Updated: 2026-07-16T22:21:32Z
   Total Products: 0
 - [Woman](https://printaface.com/collections/women)
-  Updated: 2026-08-02T23:57:07Z
+  Updated: 2026-08-10T04:38:37Z
   Total Products: 17
 - [Home & Living](https://printaface.com/collections/home)
-  Updated: 2026-08-02T11:26:04Z
+  Updated: 2026-08-14T11:25:53Z
   Total Products: 11
 - [Accessories](https://printaface.com/collections/accessories)
   Updated: 2026-07-16T22:21:32Z
   Total Products: 5
 - [Personalization](https://printaface.com/collections/personalization)
-  Updated: 2026-07-16T22:21:32Z
+  Updated: 2026-08-10T04:38:37Z
   Total Products: 3
 - [Pets](https://printaface.com/collections/pets)
   Updated: 2026-07-16T22:21:32Z
   Total Products: 4
 - [Men](https://printaface.com/collections/men)
-  Updated: 2026-08-02T23:56:55Z
+  Updated: 2026-08-10T04:38:37Z
   Total Products: 12
 - [Gifts](https://printaface.com/collections/gifts)
   Updated: 2026-08-02T23:57:07Z
@@ -2517,14 +2517,14 @@
   Updated: 2026-08-02T23:57:02Z
   Total Products: 2
 - [Mug](https://printaface.com/collections/mug)
-  Updated: 2026-08-02T11:26:04Z
+  Updated: 2026-08-14T11:25:53Z
   Total Products: 3
 - [Candles](https://printaface.com/collections/candles)
   Updated: 2026-07-16T22:21:33Z
   Total Products: 2
 - [Jewelry](https://printaface.com/collections/jewelry)
-  Updated: 2026-08-02T16:22:55Z
-  Total Products: 3
+  Updated: 2026-08-06T21:02:06Z
+  Total Products: 4
 - [Engraving](https://printaface.com/collections/engraving)
   Updated: 2026-07-16T22:21:33Z
   Total Products: 0
@@ -2538,8 +2538,8 @@
   Updated: 2026-07-16T22:21:33Z
   Total Products: 0
 - [Mouse Pad](https://printaface.com/collections/mouse-pad)
-  Updated: 2026-07-16T22:21:34Z
-  Total Products: 0
+  Updated: 2026-08-10T04:46:18Z
+  Total Products: 1
 - [Underwear](https://printaface.com/collections/underwear)
   Updated: 2026-07-16T22:21:34Z
   Total Products: 0
@@ -2580,11 +2580,11 @@
   Updated: 2026-07-16T22:21:34Z
   Total Products: 2
 - [Bags](https://printaface.com/collections/bags)
-  Updated: 2026-07-16T22:21:35Z
-  Total Products: 0
+  Updated: 2026-08-10T04:32:24Z
+  Total Products: 1
 - [Socks](https://printaface.com/collections/socks)
-  Updated: 2026-07-16T22:21:35Z
-  Total Products: 0
+  Updated: 2026-08-10T04:38:37Z
+  Total Products: 1
 - [Hats](https://printaface.com/collections/hats)
   Updated: 2026-07-16T22:21:35Z
   Total Products: 3
@@ -2598,8 +2598,8 @@
   Updated: 2026-07-16T22:21:35Z
   Total Products: 0
 - [Tech Accessories](https://printaface.com/collections/tech-accessories)
-  Updated: 2026-07-16T22:21:35Z
-  Total Products: 0
+  Updated: 2026-08-10T04:55:25Z
+  Total Products: 1
 - [Travel Accessories](https://printaface.com/collections/travel-accessories)
   Updated: 2026-07-16T22:21:35Z
   Total Products: 0
@@ -2679,8 +2679,8 @@
   Updated: 2026-07-16T22:21:37Z
   Total Products: 1
 - [Abstract](https://printaface.com/collections/abstract)
-  Updated: 2026-07-31T19:19:55Z
-  Total Products: 1
+  Updated: 2026-08-10T04:16:50Z
+  Total Products: 2
 - [Trending](https://printaface.com/collections/trending)
   Updated: 2026-07-16T22:21:37Z
   Total Products: 0
@@ -2727,6 +2727,31 @@
   - [The Ultimate Gift Guide: Why Personalized Face Print Pajama Pants Are Perfect for Couples](https://printaface.com/blogs/news/the-ultimate-gift-guide-why-personalized-face-print-pajama-pants-are-perfect-for-couples): The Ultimate Gift Guide: Why Personalized Face Print Pajama Pants Are Perfect for Couples
     Updated: 2026-08-05T03:38:12Z
     Author: Sarah
+  - [10 Wow Worthy Personalized Photo Gifts for Birthdays That Spark Joy!](https://printaface.com/blogs/news/10-wow-worthy-personalized-photo-gifts-for-birthdays-that-spark-joy): 10 Wow Worthy Personalized Photo Gifts for Birthdays That Spark Joy!
+    Updated: 2026-08-06T20:45:37Z
+    Author: Tapita
+    Tags: birthday gift ideas, custom gifts, personalized photo gifts, photo keepsakes, unique birthday gifts
+  - [Custom Printed Apparel: Guide to Ordering Online](https://printaface.com/blogs/news/custom-printed-apparel-14199-96): Custom Printed Apparel: Guide to Ordering Online
+    Updated: 2026-08-06T19:19:01Z
+    Author: Baikuntha Kafle
+  - [Top Ten Custom Print on Demand Creative Gift Ideas for Birthdays](https://printaface.com/blogs/news/top-ten-custom-print-on-demand-creative-gift-ideas-for-birthdays): Top Ten Custom Print on Demand Creative Gift Ideas for Birthdays
+    Updated: 2026-08-07T01:50:19Z
+    Author: Sachi
+  - [A Beginner's Guide to Custom Face Prints for the Perfect Birthday Gift](https://printaface.com/blogs/news/a-beginners-guide-to-custom-face-prints-for-the-perfect-birthday-gift): A Beginner's Guide to Custom Face Prints for the Perfect Birthday Gift
+    Updated: 2026-08-08T01:27:16Z
+    Author: Sachi
+  - [Why Custom Face Prints Make the Ultimate Personalized Gift](https://printaface.com/blogs/news/why-custom-face-prints-make-the-ultimate-personalized-gift): Why Custom Face Prints Make the Ultimate Personalized Gift
+    Updated: 2026-08-12T00:29:11Z
+    Author: Sachi
+  - [10 Problems Solved by Custom Face Prints for Birthday Surprises](https://printaface.com/blogs/news/10-problems-solved-by-custom-face-prints-for-birthday-surprises): 10 Problems Solved by Custom Face Prints for Birthday Surprises
+    Updated: 2026-08-15T18:58:38Z
+    Author: Sachi
+  - [Step by Step: How to Design Your Own Custom Face Print Gifts](https://printaface.com/blogs/news/step-by-step-how-to-design-your-own-custom-face-print-gifts): Step by Step: How to Design Your Own Custom Face Print Gifts
+    Updated: 2026-08-15T01:20:56Z
+    Author: Sachi
+  - [Custom Print on Demand Gifting 101: What You Need to Know](https://printaface.com/blogs/news/custom-print-on-demand-gifting-101-what-you-need-to-know): Custom Print on Demand Gifting 101: What You Need to Know
+    Updated: 2026-08-19T00:30:21Z
+    Author: Sachi
 
 ## Store Pages
 
