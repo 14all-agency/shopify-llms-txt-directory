@@ -6,12 +6,12 @@
 - Timezone: Europe/Budapest
 - Created At: 2026-08-09T18:18:48Z
 - Contact Email: marcirtv@gmail.com
-- Updated At: 2026-08-11T21:40:09.146Z
+- Updated At: 2026-08-20T00:00:30.747Z
 
 ## Products
 
 - [Ceramic Donut Vase](https://laranadecoration.myshopify.com/products/ceramic-donut-vase): 🏺 Introducing the Ceramic Donut Flower Vase – a modern masterpiece designed to elevate your decor. ✨ Handcrafted Artistry ✨ 👐 Crafted with care from high-quality ceramic materials, each vase is handmade by skilled artisans, ensuring durability and longevity. The round, donut-like shape with a hollow center adds a striking artistic touch to any space. 🌟 Modern Elegance for Any Room 🌟 🏡 Perfect for enhancing your living room, dining room, office, or any other space in need of a stylish accent. Available in three sizes, you can mix and match these vases to create a creative display that complements your decor. 💧 Easy Maintenance 💧 🧽 Designed for convenience, our vases feature a non-staining surface that requires minimal upkeep. Simply wipe them with a damp cloth regularly to keep them looking pristine and fresh. 🎀 Form Meets Function 🎀 🌸 Enhance your space with the unique charm of the Ceramic Donut Flower Vase. Choose your preferred size – small, medium, or large – and indulge in the perfect blend of artistic form and practical function. Elevate your decor today! 📝 Note: 🔍 Due to variations in monitors, the color of the actual item may differ from the pictures. 📏 Please allow slight dimension differences due to manual measurements. 📦 Includes: 1x Vase (Small) or 1x Vase (Medium) or 1x Vase (Large)
-  Updated: 2026-08-11T17:04:07Z
+  Updated: 2026-08-12T14:37:27Z
   Vendor: Home Decor Images V2
   Product Type: 
   Availability: Available
@@ -49,7 +49,7 @@
     Availability: Available
     Price: 23,99 $ USD
 - [Glass Vase Decor](https://laranadecoration.myshopify.com/products/glass-vase-decor): 🌿 Introducing Our Contemporary Elegance Glass Vase Collection 🌟 Where modern aesthetics meet timeless sophistication, transforming your home decor into a masterpiece! Elevate your living space with these exquisite glass vases, meticulously crafted to seamlessly blend style and functionality. 💎 Crafted with Precision 🏺 Our Modern Home Glass Vase Decor is a delightful addition to any room. The sleek, transparent glass construction showcases the beauty of your floral arrangements, infusing your home with refined charm. 🖼️ Versatile Design for Every Taste 🌸 With a range of shapes and sizes, our collection caters to diverse preferences, allowing you to express your individuality in every corner of your home. Whether a single statement piece or a curated ensemble, these vases complement styles from contemporary to classic. 📦 Product Details: 📝 Product Name: Modern Home Glass Vase Decor 🔮 Material: Glass 🎨 Style: Nordic Style 📦 Package: 1x Vase (flowers not included), each in a solid and safe package box 🏡 Occasions: Living room, TV cabinet, bedroom, office, wine cabinet, entrance, study ✨ Features: 🌟 100% Brand New And High Quality 💚 Crafted with cutting-edge technology and ecological consciousness, boasting exquisite workmanship 🎁 Ideal gifts for Christmas, birthdays, and more, perfect for children, lovers, and friends ⚜️ Hand-blown vases may exhibit slight bubbles, adding unique charm and character 📝 Note: 🖥️ Due to monitor differences, the actual color of the item may vary. 📏 Please allow for minor measurement variations due to manual handling. 🌺 Transform your living space into a haven of style and sophistication with our Contemporary Elegance Glass Vase Collection. Elevate your decor and make a statement that lasts a lifetime.
-  Updated: 2026-08-11T17:04:08Z
+  Updated: 2026-08-12T14:37:28Z
   Vendor: Home Decor Images V2
   Product Type: 
   Availability: Available
@@ -184,7 +184,7 @@
   Image: https://cdn.shopify.com/s/files/1/1032/7221/8959/files/f9jB48jTNx4TFey.webp?v=1786345319
   Price: 25,99 $ USD
 - [Chinese Vase](https://laranadecoration.myshopify.com/products/chinese-vase): Enhance your decor with the timeless beauty of our Chinese Ceramic Vase, a traditional yet elegant addition to your home.🈴 Classic Chinese Design: Features intricate patterns and a classic shape for a touch of traditional elegance.🏺 Handcrafted Beauty: Each vase is meticulously crafted, showcasing the artistry of ceramic craftsmanship.🌸 Versatile Decor: Perfect for displaying flowers, branches, or as a standalone decorative piece.⏳ Timeless Appeal: Blends seamlessly with various decor styles, adding a timeless charm to your space.
-  Updated: 2026-08-11T17:04:09Z
+  Updated: 2026-08-12T14:37:27Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -210,7 +210,7 @@
     Image: https://cdn.shopify.com/s/files/1/1032/7221/8959/files/xdhUKGIClMpMlGG.webp?v=1786345320
     Price: 20,99 $ USD
 - [Glass and Wood Vase Planter Table Desktop](https://laranadecoration.myshopify.com/products/glass-and-wood-vase-planter-table-desktop): Bring the beauty of nature indoors with our Glass and Wood Vase Planter Table Desktop, a stylish fusion of glass, wood, and greenery.🌿 Dual Material Design: Combines a glass vase, wooden base, and greenery for a visually appealing composition.🪴 Indoor Greenery: Perfect for small plants or decorative branches, adding a touch of nature to your table.🌟 Stylish Decor: Enhances the aesthetics of your tabletop or desktop with its modern and natural design.🏡 Versatile Placement: Ideal for living rooms, offices, or any space in need of a refreshing and elegant accent.
-  Updated: 2026-08-11T17:04:09Z
+  Updated: 2026-08-12T14:37:28Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -228,7 +228,7 @@
     Image: https://cdn.shopify.com/s/files/1/1032/7221/8959/files/zSxh5upDuzWAqxx.webp?v=1786345321
     Price: 14,99 $ USD
 - [Ceramic Vase](https://laranadecoration.myshopify.com/products/ceramic-vase): Embrace modern minimalism with our White Hemp Rope Ceramic Vase, a sleek and versatile accent for your contemporary decor.🌀 Minimalist Design: Clean lines and a white finish create a modern and sophisticated look for your space.🌿 Hemp Rope Detail: Adds a touch of texture and natural element to the ceramic vase.🌸 Versatile Decor: Perfect for showcasing flowers, branches, or as a standalone decorative piece.🌐 Stylish Simplicity: Elevates your decor with a minimalist aesthetic, suitable for various settings.
-  Updated: 2026-08-11T17:04:10Z
+  Updated: 2026-08-12T14:37:27Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -302,7 +302,7 @@
     Image: https://cdn.shopify.com/s/files/1/1032/7221/8959/files/X0yiXVMgbd7hCjQ.webp?v=1786345323
     Price: 6,99 $ USD
 - [Disco Ball Flower Hanging Vase](https://laranadecoration.myshopify.com/products/disco-ball-flower-hanging-vase): Turn your space into a dance of light and flowers with our Disco Ball Flower Hanging Vase, a unique and vibrant addition to your decor.🎉 Disco Ball Vase: Features a hanging vase with a disco ball design, adding a touch of fun and flair.🌈 Vibrant Decor: Perfect for showcasing colorful flowers or greenery, creating a lively and dynamic display.🎊 Playful Design: Adds a sense of celebration and joy to your space, making it a conversation starter.🎀 Versatile Hanging: Ideal for ceilings, porches, or any area where you want to elevate your decor.
-  Updated: 2026-08-11T17:04:10Z
+  Updated: 2026-08-12T14:37:28Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -322,7 +322,7 @@
     Availability: Available
     Price: 23,99 $ USD
 - [3D Moving Sand Art Decor](https://laranadecoration.myshopify.com/products/3d-moving-sand-art-decor): Bring the beauty of shifting sands into your space with our 3D Moving Sand Art Decor, a mesmerizing and meditative addition to your decor.🌊🏜️ 3D Sand Art: Dynamic and ever-changing sand patterns create a visual spectacle that captivates the senses.😌 Relaxing Motion: Watching the sands shift and settle provides a calming and meditative experience.🎨 Decorative Accent: Enhances the aesthetics of your desk, shelf, or tabletop with its artistic and fluid design.🏡 Suitable for All Spaces: Fits well in homes, offices, or any space where a touch of artistry is desired.
-  Updated: 2026-08-11T17:04:10Z
+  Updated: 2026-08-12T14:37:26Z
   Vendor: My Store
   Product Type: 
   Availability: Available
