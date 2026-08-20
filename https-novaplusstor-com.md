@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-27T22:45:08Z
 - Contact Email: support@novaplusstor.com
-- Updated At: 2026-08-09T00:00:36.726Z
+- Updated At: 2026-08-20T00:00:40.254Z
 
 Nova+ est une boutique française spécialisée dans les genouillères et supports de genou pour la récupération, le sport et le quotidien. Site : novaplusstor.com
 
@@ -14,11 +14,11 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
 ## Products
 
 - [Genouillère Kuangmi® Nova+ — Soulager la douleur au genou | Maintien réglable](https://novaplusstor.com/products/genouillere-kuangmi-nova-plus): Genouillère réglable et respirante pour soulager la douleur au genou, l'arthrose et la reprise du sport. Tailles M à XL. Livraison rapide.
-  Updated: 2026-08-01T04:30:23Z
+  Updated: 2026-08-16T11:59:16Z
   Vendor: Nova+
   Product Type: Genouillère
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/rn-image_picker_lib_temp_d06a51c9-0867-4e69-a973-1a6bbcb50756.png?v=1782846184
+  Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/c15aeea2-2824-4074-aff9-cc8e1b797e9f.png?v=1786838303
   - [Noir Gauche / L](https://novaplusstor.com/products/genouillere-kuangmi-nova-plus?variant=58109071753597)
     Availability: Available
     Price: 27,99 € EUR
@@ -290,30 +290,106 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/654adec2-c5bd-4f69-9eb1-e046755d28b4.jpg?v=1781893857
     Price: 14,99 € EUR
+- [Genouillère Articulée avec Renforts Latéraux - Maintien Rotule](https://novaplusstor.com/products/genouillere-articulee-avec-renforts-lateraux-maintien-rotule): Dimensions : 15,5 x 31 x 21 cm
+  Updated: 2026-08-12T05:55:33Z
+  Vendor: Nova+
+  Product Type: Genouillère
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/2801118069314.jpg?v=1786470927
+  Price: 49,90 € EUR
 
 ## Collections
 
-- [Page d’accueil](https://novaplusstor.com/collections/frontpage)
-  Updated: 2026-07-31T11:49:22Z
+- [Genouillère Rotulienne](https://novaplusstor.com/collections/genouillere-rotulienne): Découvrez nos genouillères rotuliennes pour soulager les douleurs de la rotule, syndrome rotulien et chondromalacie. Maintien optimal et confort.
+  Updated: 2026-08-11T17:55:28Z
+  Total Products: 1
+- [Genouillère Arthrose](https://novaplusstor.com/collections/genouillere-arthrose): Genouillères spéciales arthrose pour soulager les douleurs articulaires, réduire l'inflammation et retrouver de la mobilité au quotidien.
+  Updated: 2026-08-09T23:21:19Z
+  Total Products: 0
+- [Genouillère Ligamentaire](https://novaplusstor.com/collections/genouillere-ligamentaire): Genouillères ligamentaires pour stabiliser le genou après entorse, rupture du LCA ou LCL. Maintien fort et protection optimale.
+  Updated: 2026-08-09T23:23:09Z
+  Total Products: 0
+- [Genouillère Ménisque](https://novaplusstor.com/collections/genouillere-menisque): Genouillères spéciales ménisque pour protéger et soulager les douleurs liées aux lésions méniscales. Maintien stable et confort durable.
+  Updated: 2026-08-09T23:26:25Z
+  Total Products: 0
+- [Genouillère Tendinite](https://novaplusstor.com/collections/genouillere-tendinite): Genouillères pour tendinite rotulienne et tendinopathie du genou. Compression ciblée pour soulager la douleur et accélérer la récupération.
+  Updated: 2026-08-09T23:29:45Z
+  Total Products: 0
+- [Orthèse de Genou](https://novaplusstor.com/collections/orthese-de-genou): Orthèses de genou rigides et semi-rigides pour stabilisation médicale, rééducation et protection après blessure ou opération.
+  Updated: 2026-08-09T23:31:37Z
+  Total Products: 0
+- [Toutes Genouillères Sport](https://novaplusstor.com/collections/genouillere-sport): Toutes nos genouillères de sport pour toutes les disciplines. Protection, maintien et performance pour vos activités sportives.
+  Updated: 2026-08-09T23:33:23Z
+  Total Products: 0
+- [Genouillère Volleyball](https://novaplusstor.com/collections/genouillere-volleyball): Genouillères spéciales volleyball pour protéger vos genoux lors des chutes et réceptions. Amorti optimal et maintien pour le volley.
+  Updated: 2026-08-09T23:35:28Z
+  Total Products: 0
+- [Genouillère Danse](https://novaplusstor.com/collections/genouillere-danse): Genouillères pour la danse, discrètes et souples pour protéger vos genoux sans limiter vos mouvements. Idéales pour tous styles de danse.
+  Updated: 2026-08-09T23:37:12Z
+  Total Products: 0
+- [Genouillère Moto Motocross](https://novaplusstor.com/collections/genouillere-moto-motocross): Genouillères moto et motocross pour protéger vos genoux des chocs et torsions. Robustes, légères et compatibles avec toutes tenues de pilote.
+  Updated: 2026-08-09T23:38:48Z
+  Total Products: 0
+- [Genouillère Vélo VTT](https://novaplusstor.com/collections/genouillere-velo-vtt): Genouillères vélo et VTT pour protéger vos genoux en cyclisme et enduro. Légères, respirantes et résistantes aux chocs.
+  Updated: 2026-08-09T23:40:39Z
+  Total Products: 0
+- [Genouillère Musculation](https://novaplusstor.com/collections/genouillere-musculation): Genouillères pour la musculation et la salle de sport. Compression et maintien optimal pour squats, leg press et tous exercices jambes.
+  Updated: 2026-08-09T23:42:19Z
+  Total Products: 0
+- [Genouillère Roller Skate Trottinette](https://novaplusstor.com/collections/genouillere-roller-skate-trottinette): Genouillères pour roller, skate et trottinette. Protection efficace contre les chocs et chutes pour pratiquer en toute sécurité.
+  Updated: 2026-08-09T23:44:17Z
+  Total Products: 0
+- [Genouillère Handball](https://novaplusstor.com/collections/genouillere-handball): Genouillères pour le handball, conçues pour absorber les chocs et stabiliser le genou lors des sauts et changements de direction.
+  Updated: 2026-08-09T23:45:54Z
+  Total Products: 0
+- [Genouillère Football](https://novaplusstor.com/collections/genouillere-football): Genouillères pour le football, légères et discrètes pour protéger vos genoux des chocs et torsions sur le terrain.
+  Updated: 2026-08-09T23:47:59Z
+  Total Products: 0
+- [Genouillère Basketball](https://novaplusstor.com/collections/genouillere-basketball): Genouillères pour le basketball, conçues pour amortir les réceptions et stabiliser le genou lors des sauts et accélérations.
+  Updated: 2026-08-09T23:49:58Z
+  Total Products: 0
+- [Genouillère MMA Lutte Grappling](https://novaplusstor.com/collections/genouillere-mma-lutte-grappling): Genouillères pour MMA, lutte et grappling. Robustes et flexibles pour protéger vos genoux lors des combats au sol et projections.
+  Updated: 2026-08-09T23:54:34Z
+  Total Products: 0
+- [Genouillère Course Running](https://novaplusstor.com/collections/genouillere-course-running): Genouillères pour la course à pied et le running. Légères et respirantes pour soulager les douleurs et protéger vos genoux km après km.
+  Updated: 2026-08-09T23:56:53Z
+  Total Products: 0
+- [Genouillère Ski Neige](https://novaplusstor.com/collections/genouillere-ski-neige): Genouillères pour le ski et les sports de neige. Maintien et protection optimale contre les torsions et chocs sur les pistes.
+  Updated: 2026-08-09T23:59:08Z
+  Total Products: 0
+- [Genouillère Travail](https://novaplusstor.com/collections/genouillere-travail): Genouillères pour le travail, idéales pour les métiers en position accroupie ou à genoux. Confort et protection toute la journée.
+  Updated: 2026-08-16T10:55:42Z
   Total Products: 2
-- [Vivre avec, bouger quand même](https://novaplusstor.com/collections/vivre-avec-bouger-quand-meme): Genouillères et manchons pour continuer à marcher, travailler et bouger malgré la gêne au genou. Solutions NOVA+ adaptées à votre quotidien.
-  Updated: 2026-07-31T11:49:22Z
-  Total Products: 6
-- [Soulager ma douleur](https://novaplusstor.com/collections/soulager-ma-douleur): Genouillères et solutions NOVA+ pour soulager rapidement la douleur au genou : compression, chaleur, maintien ciblé. Retrouvez confort et mobilité au quotidien.
-  Updated: 2026-07-31T11:49:22Z
-  Total Products: 6
-- [Calmer les crises](https://novaplusstor.com/collections/calmer-les-crises): Patch thermique et genouillère chaud/froid pour calmer une crise de douleur au genou. Solutions NOVA+ pour un soulagement rapide et ciblé.
-  Updated: 2026-07-25T20:05:00Z
+- [Genouillère Médicale](https://novaplusstor.com/collections/genouillere-medicale): Genouillères médicales pour arthrose, rotule, ligaments, ménisque et tendinite. Trouvez la genouillère adaptée à votre pathologie sur Nova+.
+  Updated: 2026-08-12T16:19:31Z
+  Total Products: 0
+- [Genouillère Sport](https://novaplusstor.com/collections/genouillere-sport-hub): Genouillères sport pour running, musculation, football, basketball, ski et tous les sports. Protection et maintien optimaux sur Nova+
+  Updated: 2026-08-12T16:24:29Z
+  Total Products: 0
+- [Genouillère Travail](https://novaplusstor.com/collections/genouillere-travail-hub): Genouillères de travail pour carreleurs, bricoleurs et jardiniers. Protection maximale des genoux pour tous vos travaux professionnels sur Nova+.
+  Updated: 2026-08-16T10:55:42Z
   Total Products: 2
-- [Reprendre sans forcer](https://novaplusstor.com/collections/reprendre-sans-forcer): Genouillères et manchons NOVA+ pour reprendre progressivement le sport et la marche après une blessure ou douleur au genou. Bougez à nouveau, sans forcer.
-  Updated: 2026-07-31T11:49:22Z
-  Total Products: 4
-- [Tous nos produits](https://novaplusstor.com/collections/tous-nos-produits): Découvrez toute la gamme NOVA+ : genouillères réglables, thermiques, sport, sangle rotulienne, manchon et patch. Trouvez le produit adapté à votre situation.
-  Updated: 2026-07-31T11:49:22Z
-  Total Products: 6
-- [Bestsellers Genou Nova+](https://novaplusstor.com/collections/bestsellers-genou): Découvrez nos bestsellers pour le genou : genouillères, sangle rotulienne, patch et manchon de compression. Soulagement rapide et maintien optimal.
-  Updated: 2026-07-31T11:49:22Z
-  Total Products: 6
+- [Genouillère Entorse](https://novaplusstor.com/collections/genouillere-entorse): Genouillères pour entorse du genou : stabilisation, maintien ligamentaire et reprise d'activité. Trouvez la solution adaptée sur Nova+.
+  Updated: 2026-08-12T16:36:37Z
+  Total Products: 0
+- [Genouillère LCA LCP](https://novaplusstor.com/collections/genouillere-lca-lcp): Genouillères pour LCA et LCP : stabilisation du genou après rupture ligamentaire. Solutions de maintien et rééducation sur Nova+.
+  Updated: 2026-08-12T16:39:20Z
+  Total Products: 0
+- [Genouillère Carreleur](https://novaplusstor.com/collections/genouillere-carreleur): Genouillères pour carreleurs : protection et confort pour travailler à genoux sur chantier. Modèles professionnels durables sur Nova+.
+  Updated: 2026-08-12T16:41:12Z
+  Total Products: 0
+- [Genouillère Bricolage](https://novaplusstor.com/collections/genouillere-bricolage): Genouillères pour le bricolage : protection et confort pour tous vos travaux à domicile. Modèles résistants et ergonomiques sur Nova+.
+  Updated: 2026-08-12T16:44:16Z
+  Total Products: 0
+- [Genouillère Jardinage](https://novaplusstor.com/collections/genouillere-jardinage): Genouillères pour le jardinage : protection et confort pour planter, désherber et entretenir votre jardin sans douleur aux genoux. Nova+.
+  Updated: 2026-08-12T16:46:31Z
+  Total Products: 0
+- [Genouillère Gel](https://novaplusstor.com/collections/genouillere-gel): Genouillères à gel pour travailler à genoux sans douleur. Absorption des chocs et confort maximal pour carreleurs, bricoleurs et jardiniers. Nova+.
+  Updated: 2026-08-12T16:48:35Z
+  Total Products: 0
+- [Genouillère Protection Coque](https://novaplusstor.com/collections/genouillere-protection-coque): Genouillères à coque rigide pour protection maximale des genoux sur chantier et travaux intensifs. Résistantes et durables sur Nova+.
+  Updated: 2026-08-12T16:50:52Z
+  Total Products: 0
 
 ## Blogs
 
