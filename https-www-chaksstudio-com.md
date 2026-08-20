@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-02T16:18:26Z
 - Contact Email: info@chaksstudio.com
-- Updated At: 2026-08-13T00:00:37.120Z
+- Updated At: 2026-08-20T00:00:40.355Z
 
 ## Products
 
@@ -158,11 +158,11 @@
     Availability: Available
     Price: ₹1,399.00 INR
 - [NISHAAN SHIRT](https://www.chaksstudio.com/products/nishaan-shirt): The NISHAAN SHIRT is an exploration of the traces left by the maker's hand. Inspired by the irregular rhythm of traditional Kantha embroidery, each stitched detail is intentionally placed across the garment, creating a composition of quiet marks rather than a repeating pattern. Crafted from breathable cotton-linen in a deep navy hue, the shirt features a relaxed silhouette, tonal buttons, and thoughtfully embroidered details that bring texture without overwhelming the design.
-  Updated: 2026-08-01T06:23:27Z
+  Updated: 2026-08-14T18:43:49Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/1_00ad1249-36b1-49ec-81f7-98d211648767.jpg?v=1783786237
+  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/file_0000000025e881fa85285b7fe422dfa1_jpg.jpg?v=1786617281
   - [XS](https://www.chaksstudio.com/products/nishaan-shirt?variant=49729769308298)
     Availability: Available
     Price: ₹1,599.00 INR
