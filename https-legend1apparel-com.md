@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2026-06-21T13:13:20Z
 - Contact Email: legend1apparel@gmail.com
-- Updated At: 2026-08-13T08:00:43.429Z
+- Updated At: 2026-08-20T12:00:38.107Z
 
 ## Products
 
@@ -3315,19 +3315,19 @@
 ## Collections
 
 - [Home page](https://legend1apparel.com/collections/frontpage)
-  Updated: 2026-08-11T11:27:17Z
+  Updated: 2026-08-20T11:27:25Z
   Total Products: 404
 - [Route 66 Centennial T-Shirt](https://legend1apparel.com/collections/route-66-centennial-t-shirt): Route 66 Centennial T-Shirt. Featuring Different Classic cars or Trucks on Route 66 100 Year anniversary. All watermarks will be removed on the final print on shirt.
-  Updated: 2026-08-09T11:26:52Z
+  Updated: 2026-08-16T11:29:47Z
   Total Products: 173
 - [American Muscle T-shirt](https://legend1apparel.com/collections/american-muscle-t-shirt): American Muscle T-shirt, Featuring Classic cars or Trucks. All watermarks will be removed from final print on shirt
-  Updated: 2026-07-30T22:02:05Z
+  Updated: 2026-08-19T11:31:24Z
   Total Products: 83
 - [Bowtie Nation T-shirt](https://legend1apparel.com/collections/bowtie-nation-t-shirt): Shop the Bowtie Nation T-shirt collection at Legend 1 Apparel.
-  Updated: 2026-07-30T22:02:05Z
+  Updated: 2026-08-20T11:27:25Z
   Total Products: 62
 - [American Classic T-shirt](https://legend1apparel.com/collections/american-classic-t-shirt): Shop American Classic graphic tees with bold retro Americana designs. Premium quality t-shirts for car and vintage culture enthusiasts.
-  Updated: 2026-08-11T11:27:17Z
+  Updated: 2026-08-18T11:26:30Z
   Total Products: 86
 
 ## Store Pages
