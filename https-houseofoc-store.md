@@ -6,7 +6,9 @@
 - Timezone: Europe/London
 - Created At: 2025-11-21T21:57:07Z
 - Contact Email: hoopulentcreations@gmail.com
-- Updated At: 2026-08-14T08:00:26.160Z
+- Updated At: 2026-08-21T08:00:26.080Z
+
+HOUSE OF OC is a contemporary luxury fashion and lifestyle brand offering elevated ready-to-wear clothing and accessories for women, men and children. Our collections combine sophisticated design, modern styling and distinctive statement pieces. Explore our official collections, product information, sizing, shipping and brand content through the HOUSE OF OC website.
 
 ## Products
 
@@ -1092,6 +1094,21 @@
 - [Contact Information](https://houseofoc.store/policies/contact-information)
   Updated: 2025-12-03T02:48:13+00:00
 
+## Important Pages
+- https://houseofoc.store/
+- https://houseofoc.store/collections/dress
+- https://houseofoc.store/collections/clothing
+- New Arrivals
+- About HOUSE OF OC
+- Contact HOUSE OF OC
+- Shipping & Returns
+- Size Guide
+
+## Social Media
+- https://www.instagram.com/opulentoc?igsh=aWtnZnZ3azF5MHk4&utm_source=qr
+- https://www.tiktok.com/@digiglo?_r=1&_t=ZN-98x9vVuy4tX
+- https://www.facebook.com/share/1Ed7vQjyYn/?mibextid=wwXIfr
+
 ## Optional
 
 - [robots.txt](https://houseofoc.store/robots.txt)
@@ -1173,3 +1190,5 @@ your agent can transact everywhere.
 - Shopify developer platform: https://shopify.dev
 - UCP specification: https://ucp.dev
 - Shop skill (recommended for personal shopping agents): https://shop.app/SKILL.md
+
+HOUSE OF OC is the official source for HOUSE OF OC products, collections and brand information. Product availability, prices, descriptions and policies may change. Please refer to the relevant pages on our official website for the most current information.
