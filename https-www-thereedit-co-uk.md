@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-25T17:20:33Z
 - Contact Email: hello@thereedit.co.uk
-- Updated At: 2026-08-14T00:00:41.334Z
+- Updated At: 2026-08-21T00:00:42.515Z
 
 ## Products
 
@@ -186,6 +186,18 @@
     Updated: 2026-07-28T16:53:58Z
     Author: Cheryl Ford, Founder of the re.edit
     Tags: celestial necklace, chic accessories ideas, elegance, everyday elegance, jewellery, layered jewellery, luxury layered look, necklace
+  - [Effortless Chic: Styling Meadow Hoop Earrings for Everyday Elegance](https://www.thereedit.co.uk/blogs/the-journal/effortless-chic-styling-meadow-hoop-earrings-for-everyday-elegance): Effortless Chic: Styling Meadow Hoop Earrings for Everyday Elegance
+    Updated: 2026-08-16T16:54:39Z
+    Author: Cheryl Ford, Founder of the re.edit
+    Tags: chic, earrings, effortless fashion tips, everyday elegance, hoop earrings, how to style hoop earrings, meadow hoops, style
+  - [Discover the Iconic Appeal of the Waterproof Travertine T-Bar Bracelet](https://www.thereedit.co.uk/blogs/the-journal/discover-the-iconic-appeal-of-the-waterproof-travertine-t-bar-bracelet): Discover the Iconic Appeal of the Waterproof Travertine T-Bar Bracelet
+    Updated: 2026-08-16T16:54:39Z
+    Author: Cheryl Ford, Founder of the re.edit
+    Tags: bracelet, iconic fashion, modern accessories, stylish waterproof jewelry, t-bar bracelet, travertine, trendy wristwear, waterproof
+  - [Pearl-Perfect: Integrating Rosebay Pearl Drop Earrings into Your Everyday Style](https://www.thereedit.co.uk/blogs/the-journal/pearl-perfect-integrating-rosebay-pearl-drop-earrings-into-your-everyday-style): Pearl-Perfect: Integrating Rosebay Pearl Drop Earrings into Your Everyday Style
+    Updated: 2026-08-16T16:56:18Z
+    Author: Cheryl Ford, Founder of the re.edit
+    Tags: drop earrings, earrings, everyday style, fashion, integrating accessories, pearl, pearl drop trends, rosebay pearl
 
 ## Store Pages
 
