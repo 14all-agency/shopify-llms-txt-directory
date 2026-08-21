@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-03-01T03:47:21Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-14T00:00:36.031Z
+- Updated At: 2026-08-21T00:00:38.153Z
 
 ## Products
 
@@ -124,7 +124,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Black Snake Zip Hoodie](https://livetheband.com/products/black-snake-zip-hoodie): LIVE logo on the front LIVE graphic and rattlesnake on the back Rattlesnake design on both sleeves Full-Zip Hooded Sweatshirt Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30
-  Updated: 2026-08-07T20:32:06Z
+  Updated: 2026-08-19T15:36:37Z
   Vendor: +LIVE+
   Product Type: Hoodie
   Availability: Available
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0727/6452/2817/files/LIVETurntable.png?v=1751903964
   Price: $350.00 USD
 - [The Distance to Here Special Edition Double Vinyl | Official LIVE Merch Store](https://livetheband.com/products/the-distance-to-here-special-edition-double-vinyl): Back in print on vinyl for the first time in years, this exclusive 2LP release is pressed on opaque, 2-color Apple Red and Orange vinyl. This version has a bonus 5 song Acoustic Session recorded live in Brussels, Belgium, April 2000.
-  Updated: 2026-08-12T21:01:41Z
+  Updated: 2026-08-19T02:37:16Z
   Vendor: +LIVE+
   Product Type: Vinyl
   Availability: Available
@@ -228,21 +228,21 @@
   Image: https://cdn.shopify.com/s/files/1/0727/6452/2817/files/SlipmatonTurntable.png?v=1754412136
   Price: $20.00 USD
 - [The Distance to Here Keychain](https://livetheband.com/products/the-distance-to-here-keychain): Carry a piece of your favorite album wherever you go with this keychain featuring artwork from The Distance to Here. 2" with a 1" split ring and chain Made from durable acrylic Double-sided, full color Perfect for keys, backpacks, or display
-  Updated: 2026-08-06T20:01:23Z
+  Updated: 2026-08-17T14:59:33Z
   Vendor: +LIVE+
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0727/6452/2817/files/LIVEKeychain_5ba4abf0-080a-42f8-8894-f0a0136cbace.png?v=1753809951
   Price: $12.00 USD
 - [The Distance to Here Special Edition Double Vinyl | Official LIVE Merch Store](https://livetheband.com/products/throwing-copper-double-vinyl-25th-anniversary-edition): Back in print on vinyl for the first time in years, this exclusive 2LP release is pressed on opaque, 2-color Apple Red and Orange vinyl. This version has a bonus 5 song Acoustic Session recorded live in Brussels, Belgium, April 2000.
-  Updated: 2026-08-12T20:48:16Z
+  Updated: 2026-08-19T05:44:02Z
   Vendor: +LIVE+
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0727/6452/2817/files/LIVETCVinyl.png?v=1755808806
   Price: $34.98 USD
 - [The Distance to Here Special Edition Double Vinyl | Official LIVE Merch Store](https://livetheband.com/products/mental-jewelry-vinyl): Back in print on vinyl for the first time in years, this exclusive 2LP release is pressed on opaque, 2-color Apple Red and Orange vinyl. This version has a bonus 5 song Acoustic Session recorded live in Brussels, Belgium, April 2000.
-  Updated: 2026-07-13T21:28:11Z
+  Updated: 2026-08-17T13:06:16Z
   Vendor: +LIVE+
   Product Type: Vinyl
   Availability: Available
@@ -383,7 +383,7 @@
   Image: https://cdn.shopify.com/s/files/1/0727/6452/2817/files/Tour-Cord-Hat.png?v=1771279630
   Price: $39.00 USD
 - [Rollin' Thunder Koozie](https://livetheband.com/products/rollin-thunder-koozie): Thunder graphic with LIVE logo printed on both sides Black koozie
-  Updated: 2026-07-16T15:34:28Z
+  Updated: 2026-08-19T20:52:50Z
   Vendor: +LIVE+
   Product Type: Koozie
   Availability: Available
@@ -420,10 +420,10 @@
   Updated: 2026-07-08T20:16:57Z
   Total Products: 3
 - [Apparel](https://livetheband.com/collections/apparel)
-  Updated: 2026-08-13T11:09:36Z
+  Updated: 2026-08-20T11:08:43Z
   Total Products: 24
 - [Accessories](https://livetheband.com/collections/accessories)
-  Updated: 2026-08-12T11:07:56Z
+  Updated: 2026-08-17T11:08:02Z
   Total Products: 14
 - [Tees](https://livetheband.com/collections/tees)
   Updated: 2026-08-13T11:09:36Z
@@ -432,40 +432,40 @@
   Updated: 2026-08-13T11:09:36Z
   Total Products: 8
 - [Memorial Day ](https://livetheband.com/collections/memorial-day-)
-  Updated: 2026-08-13T11:09:36Z
+  Updated: 2026-08-20T11:08:43Z
   Total Products: 40
 - [Unity Tour](https://livetheband.com/collections/summer-unity-tour)
-  Updated: 2026-08-13T11:09:36Z
+  Updated: 2026-08-20T11:08:43Z
   Total Products: 12
 - [All](https://livetheband.com/collections/all)
-  Updated: 2026-08-13T11:09:36Z
+  Updated: 2026-08-20T11:08:43Z
   Total Products: 28
 - [The Distance to Here](https://livetheband.com/collections/the-distance-to-here)
-  Updated: 2026-08-11T11:09:00Z
+  Updated: 2026-08-19T11:08:05Z
   Total Products: 6
 - [Outerwear](https://livetheband.com/collections/outerwear)
-  Updated: 2026-08-08T11:08:01Z
+  Updated: 2026-08-20T11:08:43Z
   Total Products: 6
 - [Music](https://livetheband.com/collections/music)
-  Updated: 2026-08-13T11:09:36Z
+  Updated: 2026-08-19T11:08:05Z
   Total Products: 3
 - [Stocking Stuffers](https://livetheband.com/collections/stocking-stuffers)
-  Updated: 2026-08-08T11:08:01Z
+  Updated: 2026-08-17T11:08:02Z
   Total Products: 9
 - [$10 Bin](https://livetheband.com/collections/10-bin)
   Updated: 2026-08-08T11:08:01Z
   Total Products: 6
 - [$20 Bin](https://livetheband.com/collections/20-bin)
-  Updated: 2026-08-13T11:09:36Z
+  Updated: 2026-08-14T11:08:20Z
   Total Products: 10
 - [$30 Bin](https://livetheband.com/collections/30-bin)
   Updated: 2026-08-01T11:08:46Z
   Total Products: 8
 - [EG All Products - DO NOT EDIT](https://livetheband.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-08-13T11:09:36Z
+  Updated: 2026-08-20T11:08:43Z
   Total Products: 43
 - [Best Sellers](https://livetheband.com/collections/best-sellers)
-  Updated: 2026-08-13T11:09:36Z
+  Updated: 2026-08-20T11:08:43Z
   Total Products: 15
 
 ## Store Pages
