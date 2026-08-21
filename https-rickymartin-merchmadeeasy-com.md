@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-28T20:31:13Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-13T16:38:21.698Z
+- Updated At: 2026-08-21T00:00:31.412Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RM_MAS_AMOR_HAT-3.png?v=1771514293
   Price: $30.00 USD
 - [Angle Logo Tee](https://rickymartin.merchmadeeasy.com/products/sinfonico-tee): Ricky Martin Angle Logo Tee in black with front print only.
-  Updated: 2026-08-12T15:01:57Z
+  Updated: 2026-08-19T00:27:23Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Photo Book](https://rickymartin.merchmadeeasy.com/products/photo-book)
-  Updated: 2026-08-04T16:11:26Z
+  Updated: 2026-08-19T00:27:32Z
   Vendor: Ricky Martin Merch
   Product Type: Accessories
   Availability: Available
@@ -92,7 +92,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Livin' La Vida Crop Hoodie](https://rickymartin.merchmadeeasy.com/products/livin-la-vida-crop-hoodie): Livin' La Vida Crop Hoodie in white with front print only.
-  Updated: 2026-08-04T16:11:20Z
+  Updated: 2026-08-18T14:47:25Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -149,21 +149,42 @@
   - [2XL](https://rickymartin.merchmadeeasy.com/products/mas-amor-hoodie-copy?variant=47810490564862)
     Availability: Not Available
     Price: $60.00 USD
+- [Photo Tee Ricky Martin 2026](https://rickymartin.merchmadeeasy.com/products/photo-tee): Ricky Martin 2026 Photo Tee in black with front and back print. 100% Cotton
+  Updated: 2026-08-19T00:27:19Z
+  Vendor: Ricky Martin Merch
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RM2026PHOTOTEE-2.png?v=1787010287
+  - [S](https://rickymartin.merchmadeeasy.com/products/photo-tee?variant=48731433337086)
+    Availability: Available
+    Price: $30.00 USD
+  - [M](https://rickymartin.merchmadeeasy.com/products/photo-tee?variant=48731433369854)
+    Availability: Available
+    Price: $30.00 USD
+  - [L](https://rickymartin.merchmadeeasy.com/products/photo-tee?variant=48731433402622)
+    Availability: Available
+    Price: $30.00 USD
+  - [XL](https://rickymartin.merchmadeeasy.com/products/photo-tee?variant=48731433435390)
+    Availability: Available
+    Price: $30.00 USD
+  - [2XL](https://rickymartin.merchmadeeasy.com/products/photo-tee?variant=48731433468158)
+    Availability: Available
+    Price: $30.00 USD
 
 ## Collections
 
 - [Home page](https://rickymartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-13T11:21:53Z
-  Total Products: 12
+  Updated: 2026-08-19T11:18:00Z
+  Total Products: 13
 - [Apparel](https://rickymartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-13T11:21:53Z
-  Total Products: 6
+  Updated: 2026-08-19T11:18:00Z
+  Total Products: 7
 - [Accessories](https://rickymartin.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-13T11:21:53Z
+  Updated: 2026-08-19T11:18:00Z
   Total Products: 4
 - [All](https://rickymartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-13T11:21:53Z
-  Total Products: 10
+  Updated: 2026-08-19T17:27:23Z
+  Total Products: 11
 
 ## Store Pages
 
