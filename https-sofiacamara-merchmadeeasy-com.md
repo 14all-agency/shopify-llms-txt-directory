@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-16T19:14:07Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-13T00:00:31.603Z
+- Updated At: 2026-08-21T00:00:36.358Z
 
 ## Products
 
 - [Photo Tee](https://sofiacamara.merchmadeeasy.com/products/photo-tee): Sofia Camara Photo Tee in white with front print only. 100% ring-spun heavyweight cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 33 26
-  Updated: 2026-08-06T07:59:46Z
+  Updated: 2026-08-18T11:14:21Z
   Vendor: Sofia Camara Official Store
   Product Type: Apparel
   Availability: Available
@@ -60,14 +60,14 @@
     Availability: Not Available
     Price: $70.00 USD
 - [The Healing Hearts Club Tote](https://sofiacamara.merchmadeeasy.com/products/the-healing-hearts-club-tote): The Healing Hearts Club Tote in natural with front and back print.
-  Updated: 2026-08-06T07:46:32Z
+  Updated: 2026-08-17T20:19:16Z
   Vendor: Sofia Camara Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/6320/6644/files/SCTOTE-2.png?v=1761753420
   Price: $25.00 USD
 - [Healing Hearts Poster (SIGNED)](https://sofiacamara.merchmadeeasy.com/products/healing-hearts-poster-signed): Sofia Camara Healing Hearts Tour Poster! 11x17
-  Updated: 2026-08-12T02:49:26Z
+  Updated: 2026-08-20T18:21:45Z
   Vendor: Sofia Camara Official Store
   Product Type: Accessories
   Availability: Available
@@ -77,10 +77,10 @@
 ## Collections
 
 - [Home page](https://sofiacamara.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-12T11:23:50Z
+  Updated: 2026-08-19T11:23:42Z
   Total Products: 5
 - [Apparel](https://sofiacamara.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-08T11:23:00Z
+  Updated: 2026-08-19T11:23:42Z
   Total Products: 2
 - [Accessories](https://sofiacamara.merchmadeeasy.com/collections/accessories)
   Updated: 2026-08-12T11:23:50Z
@@ -92,7 +92,7 @@
   Updated: 2026-08-05T20:01:12Z
   Total Products: 0
 - [All](https://sofiacamara.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-12T11:23:50Z
+  Updated: 2026-08-19T11:23:42Z
   Total Products: 5
 
 ## Store Pages
