@@ -12,7 +12,7 @@ Beyond its products, Bioli publishes Bionotes, an educational knowledge hub feat
 - Timezone: Europe/Copenhagen
 - Created At: 2022-01-14T11:41:51Z
 - Contact Email: info@bioliskincare.com
-- Updated At: 2026-08-14T00:00:37.615Z
+- Updated At: 2026-08-21T00:00:39.428Z
 
 Bioli is a Danish biotech skincare company founded in 2021. Our mission is to improve skin health while minimizing environmental impact through biotechnology.
 
@@ -33,7 +33,7 @@ https://bioliskincare.com/blogs/bionotes
 ## Products
 
 - [Moisturizing and Protecting Day Cream – Antioxidant & 8hr Moisture | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream): Rich yet airy cream with antioxidant protection, anti-inflammatory properties, and 8-hour moisturization. Leaves skin smooth and balanced throughout the day. 100% biodegradable packaging.
-  Updated: 2026-08-07T12:22:47Z
+  Updated: 2026-08-20T06:43:05Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
@@ -47,14 +47,14 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-facial-towel-sensitive-skin-soft.png?v=1780754115
   Price: kr 549.00 DKK
 - [Strengthening Serum – Silky soft for a healthy skin | Bioli](https://bioliskincare.com/products/strengthening-serum): Silky-smooth serum filled with bioactives to provide protection, soothe, and support the skin barrier. Leaves skin strong and resilient. 100% biodegradable packaging.
-  Updated: 2026-07-29T06:49:17Z
+  Updated: 2026-08-16T01:55:02Z
   Vendor: Bioli
   Product Type: Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-strengthening_serum-30ml-grey-background.jpg?v=1776617996
   Price: kr 625.00 DKK
 - [Clarifying Cleanser and Exfoliator – 2-in-1 for all skin types | Bioli](https://bioliskincare.com/products/clarifying-cleanser-and-exfoliator): A velvety 2-in-1 gel cleanser that gently cleanses and moisturizes. When left on the skin for longer, it also exfoliates. Leaves skin clean, soft and refreshed. 100% biodegradable packaging.
-  Updated: 2026-07-08T07:11:26Z
+  Updated: 2026-08-19T21:29:51Z
   Vendor: Bioli
   Product Type: Cleanser
   Availability: Available
@@ -116,7 +116,7 @@ https://bioliskincare.com/blogs/bionotes
   Updated: 2026-06-05T19:40:30Z
   Total Products: 2
 - [Bioli Products](https://bioliskincare.com/collections/bioli-products): Everyday biotech skincare with targeted efficacy and silky textures. Fragrance-free, dermatologically , made in Denmark. 100% biodegradable packaging.
-  Updated: 2026-08-08T11:07:18Z
+  Updated: 2026-08-20T11:08:43Z
   Total Products: 4
 - [Routine Sets](https://bioliskincare.com/collections/routine-sets): Complete daily skincare routines with bioactive enzyme technology. Gentle, effective, and eco-friendly.
   Updated: 2026-08-10T11:07:58Z
@@ -177,8 +177,8 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-01-31T08:58:48Z
     Author: Nina Wiberg Rosenquist
     Tags: Ingredient spotlight, Skincare routines
-  - [Questioning natural skincare: Stop using sunflower, avocado oils, aloe vera and other natural ingredients](https://bioliskincare.com/blogs/bionotes/questioning-natural-skincare-stop-using-sunflower-avocado-oils-aloe-vera-and-other-natural-ingredients): <p><meta charset="utf-8"><meta charset="utf-8"><em>In recent years, natural skincare has surged in popularity, with ingredients like avocado and sunflower oil, as well as aloe vera and green tea extract to mention a few, being embraced as the healthier, more sustainable choice. These "all-natural" products are often marketed as safer for skin health and the environment. In this article, we challenge these assumptions, based on interviews with professionals, data and science, highlighting eight key issues that suggest natural skincare may not be as "green" or skin-safe as it appears.</em><br></p>
-    Updated: 2026-02-12T13:08:03Z
+  - [Questioning natural skincare: Stop using sunflower, avocado oils, aloe vera and other natural ingredients](https://bioliskincare.com/blogs/bionotes/questioning-natural-skincare-stop-using-sunflower-avocado-oils-aloe-vera-and-other-natural-ingredients): <p><meta charset="utf-8"><meta charset="utf-8">In recent years, natural skincare has surged in popularity, with ingredients like avocado and sunflower oil, as well as aloe vera and green tea extract to mention a few, being embraced as the healthier, more sustainable choice. These "all-natural" products are often marketed as safer for skin health and the environment. In this article, we challenge these assumptions, based on interviews with professionals, data and science, highlighting eight key issues that suggest natural skincare may not be as "green" or skin-safe as it appears.<br></p>
+    Updated: 2026-08-20T15:18:09Z
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight, Ingredient spotlight, Sensitive skin, Skincare routines, Skincare trends, Sustainable care
   - [Biological rhythm deep dive: Why you need both a day and night cream](https://bioliskincare.com/blogs/bionotes/biological-rhythm-deep-dive-why-you-need-both-a-day-and-night-cream): <p><em>Did you know that your skin follows its own biological rhythm, influencing how it functions throughout the day and night? During the day, it focuses on defending against environmental stressors, while at night, it shifts to repair and renewal. That’s why using a dedicated day cream and night cream—rather than one product for both—is essential. It's also important that the ingredients in these products are tailored to your skin’s needs at the right time. In this article, our scientist explains much more and provides tips on which product types and ingredients to use to support your skin's natural rhythm, keeping it healthy and radiant.</em></p>
@@ -187,13 +187,13 @@ https://bioliskincare.com/blogs/bionotes
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight, Skincare routines
   - [Gentler antioxidants: Why choose enzymes over vitamin C and plant extracts](https://bioliskincare.com/blogs/bionotes/gentler-antioxidants-why-choose-enzymes-over-vitamin-c-and-plant-extracts): <p>While antioxidants are often associated with nutrition and wellness, their role in skincare is just as vital. Antioxidants not only protect the skin but also help combat the effects of environmental aggressors like pollution, UV rays, and stress. H<span data--index="1" class="notion-enable-hover">owever, while this all sounds good, the conventional antioxidants such as Ascorbic acid (vitamin C), Tocopherol (vitamin E), and plant extracts with antioxidant claims like green tea that can irritate the skin and require high volumes to </span>work, which takes a toll on both the skin and the environment, and with skin issues of the rise, it’s time we look beyond conventional choices. In this article, we explore pros and cons of popular antioxidants and lesser-known yet highly promising alternatives: biotech and enzyme-based antioxidants.<!-- notionvc: 53e8a47a-298d-4238-8c0b-85d1c69ebbe2 --></p>
-    Updated: 2026-04-30T08:59:22Z
+    Updated: 2026-08-20T14:31:41Z
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight, Ingredient spotlight, Sustainable care
-  - [Biotech skincare: Next generation skincare](https://bioliskincare.com/blogs/bionotes/biotech-skincare-next-generation-skincare): <p><meta charset="utf-8"><em>The skincare industry has evolved significantly, shifting from synthetic ingredients to natural skincare, clean beauty, and cosmeceuticals. But are these alternatives better? While "natural" may sound inherently better, the reality is that many natural ingredients—despite being legally —can be allergenic or environmentally resource-intensive. And what does "clean" really mean? There is no clear definition, and regulation is minimal. Enter biotech skincare—a new approach that offers mild yet effective and more sustainable solutions.</em></p>
+  - [Biotech skincare: Next generation skincare](https://bioliskincare.com/blogs/bionotes/biotech-skincare-next-generation-skincare): <p><meta charset="utf-8">The skincare industry has evolved significantly, shifting from synthetic ingredients to natural skincare, clean beauty, and cosmeceuticals. But are these alternatives better? While "natural" may sound inherently better, the reality is that many natural ingredients – despite being legally  – can be allergenic or environmentally resource-intensive. And what does "clean" really mean? There is no clear definition, and regulation is minimal. Enter biotech skincare – a new approach that offers mild yet effective and more sustainable solutions.</p>
 <p><!-- notionvc: 7ab297b7-7c61-4136-aa59-abd9d33b00b7 --></p>
 <p><!-- notionvc: 23d11f32-0119-41b3-9a9c-3744472c3f5f --></p>
-    Updated: 2026-01-31T08:48:38Z
+    Updated: 2026-08-20T15:31:45Z
     Author: Nina Wiberg Møller
     Tags: Industry spotlight, Sustainable care
   - [What are enzymes in skincare? 8 quick benefits](https://bioliskincare.com/blogs/bionotes/what-are-enzymes-in-skincare-8-quick-benefits): <p><meta charset="utf-8"><meta charset="utf-8"><em><span class="notion-enable-hover" data--index="0">Skincare has evolved beyond traditional ingredients, and enzymes are emerging as a game-changer. These nature derived powerhouses offer a gentle yet effective approach to skincare, enhancing exfoliation and antioxidant protection—all while being environmentally friendly. What makes lab-made enzymes stand out? Let’s dive into 8 quick benefits and why they might be the future of skincare.</span><!-- notionvc: bdbd8f48-1da0-4da8-a34b-069aec8e062e --></em><br></p>
@@ -215,11 +215,11 @@ https://bioliskincare.com/blogs/bionotes
   - [Skincare packaging and regulation: A blind spot in EU's new packaging legislation](https://bioliskincare.com/blogs/bionotes/skincare-packaging-and-regulation-a-blind-spot-in-eus-new-packaging-legislation): <p>When we talk about packaging waste, the spotlight usually falls on food and beverages — plastic bottles, supermarket bags, shrink-wrapped fruit. But what about household care, pharmaceuticals, and personal care products? These industries are just as packaging-heavy, yet rarely part of the sustainability conversation.</p>
 <p>But skincare is booming. More products, more consumers — and inevitably, more packaging. It’s easy to be swayed by a beautiful flacon on the bathroom shelf, but it’s time to ask: what happens after that flacon is empty? In this article, we dive into it all, highlight new legislation, and share practical tips on what to look for in more sustainable skincare packaging.</p>
 <p><!-- notionvc: 0642b1c8-8818-4c7f-83d0-46b7778671e9 --></p>
-    Updated: 2026-03-13T11:03:17Z
+    Updated: 2026-08-20T15:02:34Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Industry spotlight
-  - [Autumn dryness and season shift: What your skin needs now](https://bioliskincare.com/blogs/bionotes/autumn-dryness-and-season-shift-what-your-skin-needs-now): <p><meta charset="utf-8">As summer winds down and the crisp air of early autumn sets in, your skin starts to feel the change. Cooler temperatures, lower humidity, and indoor heating can all lead to dryness, tightness, and irritation—especially for sensitive or reactive skin. In this article, we explore what your skin needs this season, including the key ingredient hyaluronic acid, and break down the different types so you know what to look for.</p>
-    Updated: 2026-01-30T08:39:15Z
+  - [Autumn dryness and season shift: What your skin needs now](https://bioliskincare.com/blogs/bionotes/autumn-dryness-and-season-shift-what-your-skin-needs-now): <p><meta charset="utf-8">As summer winds down and the crisp air of early autumn sets in, your skin starts to feel the change. Cooler temperatures, lower humidity, and indoor heating can all lead to dryness, tightness, and irritation – especially for sensitive or reactive skin. In this article, we explore what your skin needs this season, including the key ingredient hyaluronic acid, and break down the different types so you know what to look for.</p>
+    Updated: 2026-08-20T14:08:50Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Ingredient spotlight, Skincare routines
   - [Bionotes Interview #1 – Yume, Founder of THE CARE](https://bioliskincare.com/blogs/bionotes/bionotes-interview-no1): <p><span data--index="0" class="notion-enable-hover"> </span><span data--index="0" class="notion-enable-hover">Through <meta charset="utf-8"> <em data-start="221" data-end="242">Bionotes Interviews</em>, we share stories from people we admire—those who care, live, and work with intention. <meta charset="utf-8"> <span style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; font-style: normal; font-size: 14px; color: rgb(74, 71, 69);">Each interview gives a peek into their daily routines, what inspires them, and their approach to life and skincare.</span></span></p>
@@ -227,15 +227,17 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-01-30T08:47:50Z
     Author: Nina Wiberg Rosenquist
     Tags: Interview
-  - [Fermented Niacinamide: A better form of Vitamin B3](https://bioliskincare.com/blogs/bionotes/fermented-niacinamide-a-better-form-of-vitamin-b3): <p><meta charset="utf-8"><span lang="EN-US" style="mso-ansi-language: EN-US;">Niacinamide has become a favourite in many skincare routines, valued for its ability to strengthen the skin barrier, improve hydration, balance sebum production, and reduce inflammation. It’s even used to support conditions like atopic dermatitis. However, recent insights show that some synthetically produced niacinamide can contain impurities that irritate the skin. Learn as our scientist, Andreia, explores a new form of niacinamide—fermented niacinamide, a gentler, effective, and more sustainable form of vitamin B3.</span></p>
-    Updated: 2026-04-30T08:39:49Z
+  - [Fermented Niacinamide: A better form of Vitamin B3](https://bioliskincare.com/blogs/bionotes/fermented-niacinamide-a-better-form-of-vitamin-b3): <p><meta charset="utf-8"><span lang="EN-US" style="mso-ansi-language: EN-US;">Niacinamide has become a favourite in many skincare routines, valued for its ability to strengthen the skin barrier, improve hydration, balance sebum production, and reduce inflammation. It’s even used to support conditions like atopic dermatitis. However, recent insights show that some synthetically produced niacinamide can contain impurities that irritate the skin. Learn as our scientist, Andreia, explores a new form of niacinamide—fermented niacinamide, a gentler, effective, and more sustainable form of vitamin B3.<br></span></p>
+<p><span lang="EN-US" style="mso-ansi-language: EN-US;"><meta charset="utf-8">
+<strong>Author: Andreia Lopes – Research Scientist</strong></span></p>
+    Updated: 2026-08-14T15:03:13Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Ingredient spotlight
   - [Gut-skin axis: How gut health affects your skin](https://bioliskincare.com/blogs/bionotes/gut-skin-axis-how-gut-health-affects-your-skin): <p>The <a href="https://www.tandfonline.com/doi/full/10.1080/19490976.2025.2473524">gut–skin axis</a> describes the connection between gut health and skin health. As inflammatory skin conditions such as acne, eczema, and psoriasis continue to rise, research increasingly shows that skin health is influenced not only by topical care, but also by what happens inside the body.</p>
 <p><meta charset="utf-8">In this article, our scientist, Andreia, takes a deep dive into the biological mechanisms behind the gut–skin axis. Learn about the role of the microbiome and how gut health and skincare work together to support long-term skin health.</p>
-<p> </p>
-<p data-start="334" data-end="587"><br></p>
-    Updated: 2026-01-31T09:22:05Z
+<p><meta charset="utf-8"><strong>Author: Andreia Lopes – Research Scientist</strong></p>
+<p><br></p>
+    Updated: 2026-08-20T14:54:45Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Well-being
   - [Guide: What to eat for better skin, combating acne and eczema](https://bioliskincare.com/blogs/bionotes/guide-what-to-eat-for-better-skin-combating-acne-and-eczema): <p><em>High-quality, gentle skincare is essential for troubled skin—but your diet matters too. Many skin issues, like acne and eczema, are influenced by what you eat.</em></p>
@@ -244,22 +246,23 @@ https://bioliskincare.com/blogs/bionotes
     Author: Nina Wiberg Rosenquist
     Tags: Article, Well-being
   - [Skincare packaging evolution: from plastic and glass to sustainable alternatives](https://bioliskincare.com/blogs/bionotes/skincare-packaging-evolution-from-plastic-and-glass-to-sustainable-alternatives): <p><meta charset="utf-8"><meta charset="utf-8">Your skincare packaging might look beautiful and eco-friendly, but even for conscious consumers, it can be hard to know if it’s really the best choice in terms of its environmental impact. Most packaging is never recycled and can persist for decades. Fortunately, new types of packaging are on the way. In this article, we go through both conventional and next-generation packaging types, so you know what to look for and why it matters.<br></p>
-    Updated: 2026-01-25T13:51:53Z
+    Updated: 2026-08-20T15:47:20Z
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight
   - [Organic skincare: Why it’s not better for your skin – or the planet](https://bioliskincare.com/blogs/bionotes/organic-skincare-why-it-s-not-better-for-your-skin-or-the-planet): <p><meta charset="utf-8">“Organic” has become one of the most powerful words in skincare. Like in food, it signals purity, safety, and sustainability. But organic skincare is not inherently better skincare—neither for sensitive skin nor for the planet. When you look<span data--index="1" class="discussion-id-2f889eb4-b19e-80f3-8908-001c99f56d31 suggestion-remove notion-enable-hover"> </span>closely at how organic ingredients are developed, how they behave on skin, and how they impact natural resources, a very different picture emerges. In this Bionotes article, we challenge the organic skincare narrative using dermatological science, safety-assessment expertise, and environmental research.<!-- notionvc: 2076c53b-36a6-43ed-933f-09d5d533d1bb --></p>
-    Updated: 2026-08-13T07:55:58Z
+    Updated: 2026-08-20T15:10:01Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Industry spotlight
-  - [Cleansing and exfoliation: From acids (AHA, BHA) and scrubs to gentle enzymes](https://bioliskincare.com/blogs/bionotes/cleansing-and-exfoliation-from-acids-aha-bha-and-scrubs-to-gentle-enzymes): <p>Cleansing and exfoliation are essential for healthy skin—they remove impurities, support cell turnover, and help maintain a clear, balanced complexion. But not all methods are created equal, and some can be unnecessarily harsh, especially for sensitive or reactive skin.</p>
+  - [Cleansing and exfoliation: From harsh acids (AHA, BHA) and scrubs to gentle enzymes](https://bioliskincare.com/blogs/bionotes/cleansing-and-exfoliation-from-acids-aha-bha-and-scrubs-to-gentle-enzymes): <p>Cleansing and exfoliation are essential for healthy skin—they remove impurities, support cell turnover, and help maintain a clear, balanced complexion. But not all methods are created equal, and some can be unnecessarily harsh, especially for sensitive or reactive skin.</p>
 <p>In this article, our scientist Andreia breaks down the most common approaches from acids (AHA, BHA) and physical scrubs with their pros and cons, and and introduces enzyme-based exfoliation as a gentler, effective alternative.</p>
-    Updated: 2026-07-25T15:37:02Z
+<p><strong>Author: Andreia Lopes – Research Scientist</strong></p>
+    Updated: 2026-08-20T15:54:17Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Ingredient spotlight, Scientist perspective, Sensitive skin
   - [A guide to sustainable, thoughtful gifts](https://bioliskincare.com/blogs/bionotes/a-guide-to-sustainable-thoughtful-gifts): <p>No matter how well you know someone, selecting the right gift can be difficult. These days, you may also want it to feel thoughtful and long-lasting. <a href="https://www.theguardian.com/lifeandstyle/2026/mar/27/lessons-from-enoughfluencers-how-to-live-happier-simpler-life">The rise of “enoughfluencers”</a> reflects a growing interest in conscious consumption as a way to improve our day-to-day lives – and the world.</p>
 <p>So how do you pick a gift that feels relevant and personal, maybe even a bit luxe, without adding to the pile? While gift-giving is often associated with indulgence, thoughtfully chosen, sustainable gifts offer an impactful way to show you care for both the recipient and the planet.</p>
-<p>But how do you find those? We’ve put together a guide to sustainable, quality gifts that don’t cost the Earth, including a few tips for getting started.</p>
-    Updated: 2026-04-23T17:33:05Z
+<p>But how do you find those? We’ve put together a guide to sustainable, quality gifts that don’t cost the Earth, including a few tips for getting started.<br><br><meta charset="utf-8"><strong>Author: Elizabeth Grant – <span>Comms Lead </span></strong><br></p>
+    Updated: 2026-08-14T13:58:09Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Sustainable care
   - [Interview in Elle – Changing the direction of skincare with biotech](https://bioliskincare.com/blogs/bionotes/interview-in-elle-changing-the-direction-of-skincare-with-biotech): <h5>
@@ -269,9 +272,9 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2026-04-30T09:21:24Z
     Author: Nina Wiberg Rosenquist
     Tags: Industry spotlight, Interview
-  - [How perimenopause and menopause affect your skin: causes, symptoms and skincare](https://bioliskincare.com/blogs/bionotes/how-perimenopause-and-menopause-affect-your-skin-causes-symptoms-and-skincare): <p>Perimenopause and menopause begin with hormones, but for many women the first indication that she may be in perimenopause comes from her skin. Motivated by personal experience navigating challenges related to the (suspected) onset of perimenopause, our Comms Lead Elizabeth has compiled an overview of skin-related symptoms associated with perimenopause and menopause, their underlying drivers, and steps you can take to manage these symptoms. The research guiding this article has been vetted by Bioli’s Scientific Researcher Andreia.</p>
+  - [How perimenopause and menopause affect your skin: causes, symptoms and skincare](https://bioliskincare.com/blogs/bionotes/how-perimenopause-and-menopause-affect-your-skin-causes-symptoms-and-skincare): <p>Perimenopause and menopause begin with hormones, but for many women the first indication that she may be in perimenopause comes from her skin. Motivated by personal experience navigating challenges related to the (suspected) onset of perimenopause, our Comms Lead Elizabeth has compiled an overview of skin-related symptoms associated with perimenopause and menopause, their underlying drivers, and steps you can take to manage these symptoms. The research guiding this article has been vetted by Bioli’s Scientific Researcher Andreia.<br><br><strong>Author: Elizabeth Grant – <span>Comms Lead </span></strong></p>
 <p><!-- notionvc: ae67825d-4701-42ce-8494-8d68c687aab6 --></p>
-    Updated: 2026-08-13T08:25:07Z
+    Updated: 2026-08-14T13:58:26Z
     Author: Nina Wiberg Rosenquist
     Tags: Article, Well-being
 - [Media](https://bioliskincare.com/blogs/media): Explore the latest media mentions, press releases, and announcements on research, development, and new product releases.
@@ -372,8 +375,8 @@ https://bioliskincare.com/blogs/bionotes
   Updated: 2026-08-02T13:02:18Z
 - [Protease and Lipase](https://bioliskincare.com/pages/ingredients-protease-and-lipase): Protease and lipase are enzymes that naturally break down specific components found on the skin’s surface. Protease enzymes help break down protein...
   Updated: 2026-08-13T08:43:31Z
-- [Ingredient Glossary](https://bioliskincare.com/pages/ingredient-glossary)
-  Updated: 2026-07-27T23:06:49Z
+- [Hero Ingredients](https://bioliskincare.com/pages/hero-ingredients)
+  Updated: 2026-08-20T15:12:57Z
 
 ## Policies
 
