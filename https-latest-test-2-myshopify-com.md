@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-09T12:18:15Z
 - Contact Email: mahfuzar@smartdatasoft.net
-- Updated At: 2026-08-13T07:11:37.419Z
+- Updated At: 2026-08-21T00:00:24.769Z
 
 ## Products
 
@@ -23,7 +23,7 @@
   Availability: Available
   Price: $899.95 USD
 - [Gift Card edited](https://latest-test-2.myshopify.com/products/gift-card-edited): Four denominations, from $10 to $100. Sent straight to the recipient's inbox.
-  Updated: 2026-08-11T17:15:40Z
+  Updated: 2026-08-14T21:54:17Z
   Vendor: Latest Test
   Product Type: Gift Card
   Availability: Available
@@ -39,8 +39,8 @@
   - [$100](https://latest-test-2.myshopify.com/products/gift-card-edited?variant=54093486653713)
     Availability: Available
     Price: $100.00 USD
-- [ Plans Ski Wax](https://latest-test-2.myshopify.com/products/-plans-ski-wax): Three tins on a repeating plan: standard, special and sample. Skip or cancel any cycle.
-  Updated: 2026-08-11T17:33:18Z
+- [Boom boom pao](https://latest-test-2.myshopify.com/products/-plans-ski-wax): Three tins on a repeating plan: standard, special and sample. Skip or cancel any cycle. download image 502 from here
+  Updated: 2026-08-20T01:52:49Z
   Vendor: Frostline Labs
   Product Type: Snowboard Accessories
   Availability: Available
@@ -57,13 +57,13 @@
 ## Collections
 
 - [Some another collection [CC-Day-2026-05-14]](https://latest-test-2.myshopify.com/collections/some-another-collection): Auto-updated by tester on 2026-05-14 12:56:10. Seed: 20261511
-  Updated: 2026-08-10T09:46:37Z
+  Updated: 2026-08-19T12:22:53Z
   Total Products: 3
 - [Smart collection v1 [SC-Day-2026-05-14]](https://latest-test-2.myshopify.com/collections/smart-collection)
   Updated: 2026-08-10T09:46:13Z
   Total Products: 1
 - [Random v3 [CC-Day-2026-06-10]](https://latest-test-2.myshopify.com/collections/random-v3): Auto-updated by tester on 2026-06-10 12:56:10. Seed: 20261511
-  Updated: 2026-08-10T09:46:37Z
+  Updated: 2026-08-19T12:22:53Z
   Total Products: 3
 
 ## Blogs
@@ -93,6 +93,11 @@
     Updated: 2026-08-04T08:00:20Z
     Author: Auto Post AI
     Tags: kid, story
+- [New Blog Title [Blog-Day-2026-05-14]](https://latest-test-2.myshopify.com/blogs/new-blog-title-12)
+  - [Eco Article](https://latest-test-2.myshopify.com/blogs/new-blog-title-12/eco-article): This is a summary of the article.
+    Updated: 2026-08-13T10:34:01Z
+    Author: Eco demon
+    Tags: Tag1, Tag2
 
 ## Store Pages
 
