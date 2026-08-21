@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-27T14:18:53Z
 - Contact Email: ridrida644@gmail.com
-- Updated At: 2026-08-04T00:00:38.622Z
+- Updated At: 2026-08-21T00:00:42.497Z
 
 ## Products
 
@@ -270,6 +270,30 @@
     Tags: gentle parenting, mom burnout, parenting, tantrums, toddler tantrums
   - [Handling Toddler Tantrums Gently: A New Age Parenting Approach](https://vilmami.store/blogs/news/handling-toddler-tantrums-gently-a-new-age-parenting-approach): Handling Toddler Tantrums Gently: A New Age Parenting Approach
     Updated: 2026-08-03T20:02:39Z
+    Author: vilmami
+    Tags: gentle parenting, mom burnout, parenting, tantrums, toddler tantrums
+  - [Gentle Parenting Tips for Overcoming Toddler Tantrums](https://vilmami.store/blogs/news/gentle-parenting-tips-for-overcoming-toddler-tantrums): Gentle Parenting Tips for Overcoming Toddler Tantrums
+    Updated: 2026-08-07T20:01:46Z
+    Author: vilmami
+    Tags: gentle parenting, mom burnout, parenting, tantrums, toddler tantrums
+  - [Unpacking Toddler Tantrums: Gentle Parenting for Relief](https://vilmami.store/blogs/news/unpacking-toddler-tantrums-gentle-parenting-for-relief): Unpacking Toddler Tantrums: Gentle Parenting for Relief
+    Updated: 2026-08-09T20:00:18Z
+    Author: vilmami
+    Tags: gentle parenting, mom burnout, parenting, tantrums, toddler tantrums
+  - [Resilient Parenting during Toddler Tantrums without Mom Burnout](https://vilmami.store/blogs/news/resilient-parenting-during-toddler-tantrums-without-mom-burnout): Resilient Parenting during Toddler Tantrums without Mom Burnout
+    Updated: 2026-08-10T20:02:53Z
+    Author: vilmami
+    Tags: gentle parenting, mom burnout, parenting, tantrums, toddler tantrums
+  - [Secrets to Managing Toddler Tantrums with Gentle Parenting](https://vilmami.store/blogs/news/secrets-to-managing-toddler-tantrums-with-gentle-parenting): Secrets to Managing Toddler Tantrums with Gentle Parenting
+    Updated: 2026-08-14T20:01:36Z
+    Author: vilmami
+    Tags: gentle parenting, mom burnout, parenting, tantrums, toddler tantrums
+  - [Gentle Parenting Hacks to Survive Toddler Tantrums](https://vilmami.store/blogs/news/gentle-parenting-hacks-to-survive-toddler-tantrums): Gentle Parenting Hacks to Survive Toddler Tantrums
+    Updated: 2026-08-16T20:00:21Z
+    Author: vilmami
+    Tags: gentle parenting, mom burnout, parenting, tantrums, toddler tantrums
+  - [Toddler Tantrums: Gentle Parenting Tips to Ease Mom Burnout](https://vilmami.store/blogs/news/toddler-tantrums-gentle-parenting-tips-to-ease-mom-burnout): Toddler Tantrums: Gentle Parenting Tips to Ease Mom Burnout
+    Updated: 2026-08-17T20:02:37Z
     Author: vilmami
     Tags: gentle parenting, mom burnout, parenting, tantrums, toddler tantrums
 - [Vilmami Parenting Blog](https://vilmami.store/blogs/vilmami-parenting-blog)
