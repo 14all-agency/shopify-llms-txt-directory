@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-08-04T00:00:51.016Z
+- Updated At: 2026-08-21T00:00:53.101Z
 
 ## Products
 
@@ -356,7 +356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-6099.jpg?v=1739987617
     Price: $28.00 USD
 - [Textured High Waist Yoga Pants - Brinxx Couture](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings): Elevate your yoga practice with our Textured High Waist Yoga Pants. The high waist provides support while the textured fabric adds a touch of style. Move with confidence and comfort, while enhancing your silhouette. Perfect for any active lifestyle.
-  Updated: 2026-07-31T06:41:06Z
+  Updated: 2026-08-14T10:26:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -774,7 +774,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sterling-Silver-Cross-Moissanite-Necklace-Brinxx-Couture-8258.jpg?v=1709274798
   Price: $99.99 USD
 - [Fringe Hem Short Sleeve Deep V Cover Up Dress](https://www.brinxxcouture.com/products/fringe-hem-short-sleeve-deep-v-cover-up-dress): Wrap yourself in style with our Fringe Hem Cover Up Dress! Short sleeves, openwork neckline, slightly stretchy, and made of 100% polyester. Perfect for any occasion!
-  Updated: 2026-07-17T11:14:09Z
+  Updated: 2026-08-16T14:20:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1063,7 +1063,7 @@
     Availability: Available
     Price: $28.00 USD
 - [Crisscross Halter Neck Openwork Cover-Up Dress](https://www.brinxxcouture.com/products/crisscross-halter-neck-openwork-cover-up-dress): Get ready for summer in this sexy crisscross halter cover-up dress! Perfect for the beach or pool, shop now at Brinxx Couture.
-  Updated: 2026-07-17T12:47:07Z
+  Updated: 2026-08-17T20:43:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1739,7 +1739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lace-Detail-Zip-Up-Under-Bust-Shaping-Bodysuit-Brinxx-Couture-4899.jpg?v=1709288390
     Price: $40.00 USD
 - [Pull-On Lace Trim Shaping Shorts](https://www.brinxxcouture.com/products/full-size-pull-on-lace-trim-shaping-shorts): Sexy and slimming! These shaping shorts with lace trim are a must-have for any wardrobe. Shop now at www.brinxxcouture.com.
-  Updated: 2026-07-29T21:15:37Z
+  Updated: 2026-08-12T15:49:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -1859,7 +1859,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Spaghetti-Strap-Lace-Trim-Shaping-Bodysuit-Brinxx-Couture-8701.jpg?v=1709288525
     Price: $39.00 USD
 - [Cutout Under-Bust Shaping Bodysuit - Brinxx Couture](https://www.brinxxcouture.com/products/full-size-cutout-under-bust-shaping-bodysuit): Shape up your wardrobe with our Cutout Under-Bust Shaping Bodysuit! Zipper closure, slightly stretchy and available in sizes S-6XL. Shop now at Brinxx Couture!
-  Updated: 2026-07-17T00:06:57Z
+  Updated: 2026-08-17T20:43:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -2200,7 +2200,7 @@
   Updated: 2026-07-08T20:15:34Z
   Total Products: 0
 - [Dresses](https://www.brinxxcouture.com/collections/dresses): Discover elegant dresses for every occasion. From casual day dresses to formal evening gowns, find your perfect fit and style.
-  Updated: 2026-07-23T11:15:17Z
+  Updated: 2026-08-10T19:13:52Z
   Total Products: 241
 - [Beauty](https://www.brinxxcouture.com/collections/beauty): Discover curated beauty essentials from prestige brands. Premium skincare, makeup, and fragrances that elevate your daily ritual. Free shipping.
   Updated: 2026-07-08T21:35:27Z
@@ -2218,7 +2218,7 @@
   Updated: 2026-07-08T21:35:48Z
   Total Products: 35
 - [Jackets](https://www.brinxxcouture.com/collections/womens-jackets): Discover refined jackets and outerwear for every season. From tailored blazers to cozy coats, find the perfect layer to elevate your style.
-  Updated: 2026-07-08T21:34:56Z
+  Updated: 2026-08-07T02:11:08Z
   Total Products: 25
 - [Tops](https://www.brinxxcouture.com/collections/womens-tops): Discover refined tops and blouses for every occasion. From casual tees to elegant blouses, find versatile pieces that elevate your wardrobe.
   Updated: 2026-07-31T13:23:32Z
@@ -2290,7 +2290,7 @@
   Updated: 2026-07-08T21:35:01Z
   Total Products: 3
 - [New Arrivals – Latest Fashion, Jewelry & Accessories](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they  out.
-  Updated: 2026-07-23T20:48:08Z
+  Updated: 2026-08-10T19:13:52Z
   Total Products: 35
 - [Best Sellers](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
   Updated: 2026-07-08T21:35:36Z
