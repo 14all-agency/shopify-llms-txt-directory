@@ -9,7 +9,7 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-08-15T12:00:34.752Z
+- Updated At: 2026-08-22T12:00:37.304Z
 
 ## Products
 
@@ -153,24 +153,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/DAY-BY-DAY-Hair-Fitness-Highlighting-System-With-Keratin-_-Macadamia-Oil-Platinum-Blond-DAY-BY-DAY-JOLIE-S-1696938295732.jpg?v=1696938296
   Price: AED 50.00 AED
-- [BAAS Brazilian Keratin Spray 280 ml | JOLIES UAE](https://www.jolies.ae/products/baas-brazilian-spray-hair--280-ml): Shop BAAS Brazilian Keratin Spray Hair  280 ml for convenient smoothing and conditioning care that helps frizz-prone hair feel manageable at JOLIES UAE.
-  Updated: 2026-08-10T06:57:02Z
-  Vendor: BAAS
-  Product Type: Hair Straighteners
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BAAS-Brazilian-Keratin-Spray-Hair--280-ML-BAAS-JOLIE-S-1696938312453.jpg?v=1696938313
-  - [PURE PROTIN](https://www.jolies.ae/products/baas-brazilian-spray-hair--280-ml?variant=45553670226241)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BAAS-Brazilian-Keratin-Spray-Hair--280-ML-BAAS-JOLIE-S-1696938315407.jpg?v=1696938317
-    Price: AED 150.00 AED
-  - [PURE CRYSTAL](https://www.jolies.ae/products/baas-brazilian-spray-hair--280-ml?variant=45553670259009)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BAAS-Brazilian-Keratin-Spray-Hair--280-ML-BAAS-JOLIE-S-1696938322297.jpg?v=1696938323
-    Price: AED 150.00 AED
-  - [PURE BOTOX](https://www.jolies.ae/products/baas-brazilian-spray-hair--280-ml?variant=45553670291777)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BAAS-Brazilian-Keratin-Spray-Hair--280-ML-BAAS-JOLIE-S-1696938318690.jpg?v=1696938320
-    Price: AED 150.00 AED
 - [MAXINE Black Hair Bleaching Powder 1000g | JOLIES UAE](https://www.jolies.ae/products/maxine-bleaching-powder-black-1000-g): Shop MAXINE Black Hair Bleaching Powder 1000g, made in Italy for trained professional colourists performing controlled hair-lightening services at JOLIES UAE.
   Updated: 2026-08-10T06:57:03Z
   Vendor: MAXINE
@@ -293,7 +275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PAW-Satchel-Bag-ARASH-LEATHER-JOLIE_S-77600540.jpg?v=1724964750
     Price: AED 475.00 AED
 - [Brazilian Organic Protein  | Honey Liss 1000 ML](https://www.jolies.ae/products/abpnatural-cosmetics-honey-liss-organic-hair-straightening-protein-1000-ml): Shop Honey Liss brazilian organic protein  1000 ML for smoother, shinier, more manageable hair with salon-style results.
-  Updated: 2026-08-10T06:57:12Z
+  Updated: 2026-08-18T06:10:07Z
   Vendor: ABPNATURAL
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -492,7 +474,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Turquoise-and-Tiger-Eye-Natural-Stone-JOLIE_S-JOLIE_S-118228176.jpg?v=1724965371
   Price: AED 220.00 AED
 - [Sally's Choice Bio Protein 6-Piece Set | JOLIES UAE](https://www.jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set): Shop Sally's Choice Bio Protein Natural Hair Therapy 6-piece set for a coordinated professional routine addressing frizz and manageability at JOLIES UAE.
-  Updated: 2026-08-10T06:59:57Z
+  Updated: 2026-08-17T08:46:32Z
   Vendor: SALLY'S CHOICE
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -1723,13 +1705,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Bio-Collagen-Real-Deep-Mask-34-gm-BIODANCE-JOLIE_S-165528868.jpg?v=1728669686
   Price: AED 100.00 AED
-- [KARSEELL Keratin Collagen  500 ml | JOLIES UAE](https://www.jolies.ae/products/karseell-brazilian-keratin--complex-blowout-collagen-biotin-organic-hair-straightening-conditioner-500-ml): Shop KARSEELL Keratin  with collagen and biotin 500 ml for smoothing care that helps dry or frizz-prone hair feel more manageable at JOLIES UAE.
-  Updated: 2026-08-10T07:02:22Z
-  Vendor: KARSEELL
-  Product Type: Hair Conditioner
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/KARSEELL-Brazilian-Keratin--Complex-Blowout-Collagen-Biotin-Organic-Hair-Straightening-Conditioner-500-ml-KARSEELL-JOLIE_S-165626822.jpg?v=1729264390
-  Price: AED 200.00 AED
 - [KARSEELL Argan Shampoo & Conditioner Set 500 ml | JOLIES UAE](https://www.jolies.ae/products/karseell-argan-oil-collagen-biotin-organic-nourishing-shampoo-super-detangle-conditioner-set-500-ml-each): Shop the KARSEELL Argan Oil, Collagen and Biotin Shampoo and Conditioner Set for cleansing and conditioning dry or damaged hair.
   Updated: 2026-08-10T07:02:22Z
   Vendor: KARSEELL
@@ -3045,19 +3020,40 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Deep-Lifting-Peptide-Eye-Cream-_30ml_-Renewal-Medicube-JOLIE_S-201540824.jpg?v=1751805363
   Price: AED 75.00 AED
-[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTY4MzM0NTA0MjU3LCJsYXN0X3ZhbHVlIjoiOTk2ODMzNDUwNDI1NyJ9)
+- [Shiseido Fino Airy Smooth Hair Oil 70 ml | JOLIES UAE](https://www.jolies.ae/products/fino-premium-touch-penetrating-essence-hair-oil-airy-smooth-70ml-hair-care-damage-day-repair-gloss-fino): Shop Shiseido Fino Premium Touch Airy Smooth Hair Oil 70 ml for lightweight conditioning that helps dry, damaged-looking hair feel smoother at JOLIES UAE.
+  Updated: 2026-08-10T07:02:53Z
+  Vendor: SHISEIDO FINO
+  Product Type: Hair Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Shiseido-Fino-Premium-Touch-Penetrating-Essence-Hair-Oil-Airy-Smooth-70ml-Damage-Repair-SHISEIDO-JOLIE_S-201844295.jpg?v=1752355264
+  Price: AED 70.00 AED
+- [BIODANCE Collagen Gel Toner Pads 60 Pads | JOLIES UAE](https://www.jolies.ae/products/biodance-collagen-gel-toner-pads-60-pads): Shop BIODANCE Collagen Gel Toner Pads, 60 pads, for convenient hydration and cosmetic care of smoother, firmer-looking skin.
+  Updated: 2026-08-10T07:02:55Z
+  Vendor: BIODANCE
+  Product Type: Toners
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Collagen-Gel-Toner-Pads-_-60-Pads-_-Medicube-JOLIE_S-202019799.avif?v=1753442770
+  Price: AED 90.00 AED
+- [BIODANCE Cera-nol Gel Toner Pads 60 Pads | JOLIES UAE](https://www.jolies.ae/products/biodance-cera-nol-gel-toner-pads-60-pads): Shop BIODANCE Cera-nol Gel Toner Pads, 60 pads, for convenient hydration and soothing daily toner-pad care.
+  Updated: 2026-08-10T07:02:55Z
+  Vendor: BIODANCE
+  Product Type: Toners
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Cera-nol-Gel-Toner-Pads-_-60-pads-_-Medicube-JOLIE_S-202019657.avif?v=1753442832
+  Price: AED 90.00 AED
+[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgwNTgzNzM5NzEzLCJsYXN0X3ZhbHVlIjoiOTk4MDU4MzczOTcxMyJ9)
 
 ## Collections
 
 - [Hair ](https://www.jolies.ae/collections/hair-): Shop professional hair treatments, Brazilian protein and conditioning formulas online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-08-09T19:04:50Z
-  Total Products: 30
+  Updated: 2026-08-18T11:10:40Z
+  Total Products: 29
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-08-12T21:40:36Z
+  Updated: 2026-08-16T20:04:48Z
   Total Products: 115
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
-  Updated: 2026-08-09T19:15:06Z
-  Total Products: 569
+  Updated: 2026-08-15T21:53:39Z
+  Total Products: 584
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
   Updated: 2026-08-09T19:04:19Z
   Total Products: 40
@@ -3068,8 +3064,8 @@
   Updated: 2026-06-02T00:11:26Z
   Total Products: 12
 - [Best Sellers](https://www.jolies.ae/collections/best-sellers): Shop popular skincare, hair care, treatments and beauty sets online in the UAE. Explore selected in-stock products available from JOLIE'S.
-  Updated: 2026-08-15T11:11:23Z
-  Total Products: 141
+  Updated: 2026-08-17T16:42:56Z
+  Total Products: 152
 - [Hair Dryer](https://www.jolies.ae/collections/hair-dryer): Shop professional hair dryers online in the UAE. Compare available wattages, designs and features for everyday or salon-style drying.
   Updated: 2026-08-09T18:57:00Z
   Total Products: 4
@@ -3077,8 +3073,8 @@
   Updated: 2026-08-09T18:57:07Z
   Total Products: 34
 - [Skin Care Kit](https://www.jolies.ae/collections/skin-care-travel-kit): Shop skincare kits, starter sets and travel-size routines for cleansing, hydration and targeted care, with delivery across the UAE.
-  Updated: 2026-08-09T19:15:05Z
-  Total Products: 125
+  Updated: 2026-08-15T20:40:14Z
+  Total Products: 128
 - [Hair Care Gift Set](https://www.jolies.ae/collections/hair-care-gift-set): Shop hair care gift sets in the UAE with shampoos, conditioners, masks and treatments. Compare curated sets and order online from JOLIE'S.
   Updated: 2026-08-09T19:02:18Z
   Total Products: 4
@@ -3089,11 +3085,11 @@
   Updated: 2026-08-09T19:04:18Z
   Total Products: 8
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-08-15T11:11:23Z
-  Total Products: 502
+  Updated: 2026-08-18T11:10:40Z
+  Total Products: 507
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
-  Updated: 2026-08-12T21:40:36Z
-  Total Products: 323
+  Updated: 2026-08-16T20:04:48Z
+  Total Products: 331
 
 ## Blogs
 
@@ -3209,6 +3205,8 @@
   Updated: 2026-08-07T12:37:21Z
 - [Jolies FAQ | Orders, Delivery & Product Information](https://www.jolies.ae/pages/frequently-asked-questions): What does Jolies ? Jolies is an online beauty store offering skincare, haircare, body-care, makeup, and related beauty products. Where is Jolie...
   Updated: 2026-08-09T07:06:11Z
+- [Request Account Delete](https://www.jolies.ae/pages/request-account-delete): Please fill in your data request to delete your account if you are not interested to purchase from our website anymore. Account will be deleted in ...
+  Updated: 2026-08-20T19:15:06Z
 
 ## Policies
 
