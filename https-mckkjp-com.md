@@ -6,19 +6,19 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-08-14T00:00:30.473Z
+- Updated At: 2026-08-22T00:00:34.710Z
 
 ## Products
 
 - [天然由来96.9% スクラブ入りハンドウォッシュ｜ヒノキ天然精油の香り](https://mckkjp.com/products/handwash_hinoki): 天然由来成分96.9%。酒蔵で生まれた米ぬかエキスと、ヒノキの天然精油で作ったスクラブ入りハンドウォッシュ。手を洗う所作が、静かに感覚をひらいていきます。
-  Updated: 2026-08-13T04:59:12Z
+  Updated: 2026-08-20T04:06:23Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/MCKK_Hand_Wash_be6694b0-8357-422b-bf1f-adb490d4fcca.jpg?v=1772281755
   Price: ￥4,675.00 JPY
 - [淡路島の職人が手仕事で仕上げた天然由来100%のお香｜安息・活力・集中](https://mckkjp.com/products/incense_3set): 淡路島の職人がつくる、人工香料不使用・植物性100％の日本製お香。3種の香りで、集中・安息・活力の“寄り道”体験をお楽しみください。
-  Updated: 2026-08-12T19:15:32Z
+  Updated: 2026-08-21T23:43:26Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
@@ -75,8 +75,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/2026-05-2015.02.17_2d919ab6-e575-4b8f-a360-23f73dc6f557.png?v=1779256965
   Price: ￥0.00 JPY
-- [【7/16〜8/17限定販売】まどか｜MCKK 1st Anniversary ブレンド煎茶](https://mckkjp.com/products/madoka): 茶審査技術最高位・十段の平岡佑太氏が、MCKK1周年のために仕立てた限定ブレンド煎茶「まどか」。富士山麓で育った静岡茶二品種を重ね、煎茶らしいわずかな渋みと、やわらかな甘い余韻に仕上げました。気軽に楽しめるティーバッグ7包入り。2026年8月17日までの期間限定販売です。
-  Updated: 2026-08-09T05:08:53Z
+- [【期間限定販売】まどか｜MCKK 1st Anniversary ブレンド煎茶](https://mckkjp.com/products/madoka): 茶審査技術最高位・十段の平岡佑太氏が、MCKK1周年のために仕立てた限定ブレンド煎茶「まどか」。富士山麓で育った静岡茶二品種を重ね、煎茶らしいわずかな渋みと、やわらかな甘い余韻に仕上げました。気軽に楽しめるティーバッグ7包入り。期間限定販売です。
+  Updated: 2026-08-21T15:29:37Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お茶
   Availability: Available
@@ -86,7 +86,7 @@
 ## Collections
 
 - [すべての商品](https://mckkjp.com/collections/all)
-  Updated: 2026-08-13T11:16:09Z
+  Updated: 2026-08-21T11:14:22Z
   Total Products: 7
 
 ## Blogs
