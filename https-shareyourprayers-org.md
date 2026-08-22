@@ -6,7 +6,7 @@
 - Timezone: America/Indiana/Indianapolis
 - Created At: 2026-07-20T20:58:02Z
 - Contact Email: psychicheartstm@gmail.com
-- Updated At: 2026-08-15T00:00:37.901Z
+- Updated At: 2026-08-22T00:00:39.984Z
 
 ## Products
 
@@ -68,6 +68,15 @@
   - [Gratitude and Grace: How Reflection Can Lead to Spiritual Enlightenment](https://shareyourprayers.org/blogs/news/gratitude-and-grace-how-reflection-can-lead-to-spiritual-enlightenment): Gratitude and Grace: How Reflection Can Lead to Spiritual Enlightenment
     Updated: 2026-08-13T13:01:36Z
     Author: User
+  - [Faith and Community: How the Church Supports Spiritual Growth](https://shareyourprayers.org/blogs/news/faith-and-community-how-the-church-supports-spiritual-growth): Faith and Community: How the Church Supports Spiritual Growth
+    Updated: 2026-08-15T13:03:41Z
+    Author: User
+  - [Understanding the Universe: An Episcopalian Perspective on Spirituality](https://shareyourprayers.org/blogs/news/understanding-the-universe-an-episcopalian-perspective-on-spirituality): Understanding the Universe: An Episcopalian Perspective on Spirituality
+    Updated: 2026-08-18T13:02:52Z
+    Author: User
+  - [How to Strengthen Your Faith Through Prayer and Meditation](https://shareyourprayers.org/blogs/news/how-to-strengthen-your-faith-through-prayer-and-meditation): How to Strengthen Your Faith Through Prayer and Meditation
+    Updated: 2026-08-20T13:02:01Z
+    Author: User
 
 ## Store Pages
 
@@ -75,8 +84,8 @@
   Updated: 2026-07-25T04:50:31Z
 - [Your Privacy Choices - Share Your Prayers](https://shareyourprayers.org/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-07-25T04:50:41Z
-- [Prayer Wall - Share Your Prayers](https://shareyourprayers.org/pages/prayer-wall): ✦ May you find peace in every quiet moment.Grace | August 12, 2026 Welcome to the Prayer Wall. Here you will find prayers shared by our community. ...
-  Updated: 2026-08-12T15:30:01Z
+- [Prayer Wall - Share Your Prayers](https://shareyourprayers.org/pages/prayer-wall): ✦ May you find peace in every quiet moment.Grace | August 19, 2026Welcome to the Prayer Wall. Here you will find prayers shared by our community. R...
+  Updated: 2026-08-19T15:30:01Z
 - [Prayer Partners — Join Us | Share Your Prayers](https://shareyourprayers.org/pages/prayer-partners): Join Us as a Prayer Partner “The prayer of a righteous person is powerful and effective.” — James 5:16 At Share Your Prayers, we believe in the pow...
   Updated: 2026-07-27T22:57:45Z
 - [Prayer for Healing | Share Your Prayers](https://shareyourprayers.org/pages/prayer-for-healing): Prayer for Healing Whether you're facing physical illness, emotional pain, or spiritual weariness, God hears every prayer for healing. You are not ...
