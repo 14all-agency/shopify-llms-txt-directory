@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2024-01-15T16:17:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-13T20:45:21.312Z
+- Updated At: 2026-08-22T00:00:31.006Z
 
 ## Products
 
 - [Bear Tee - Black](https://drinkporosos.store/products/por-osos-black-bear-t-shirt): Made of 100% airlume combed and ring-spun cotton Blank: Bella Canvas 3001Weight: 4.2 oz./yd²32 Singles Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
-  Updated: 2026-08-12T21:28:45Z
+  Updated: 2026-08-14T02:20:01Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Por Osos™ Recovery Club™ Dickies Jacket](https://drinkporosos.store/products/por-osos-dickies-jacket): Por Osos exclusive Dickies jacket: Slash front welt pockets Heavy duty brass zipper front closure Adjustable tab at waistband Made of 65% polyester, 35% cotton vat dyed twill Size Neck Sleeve Length (in) Chest S 14 1/2 32 1/4 34-37 M 15 1/2 33 1/2 38-41 L 16 1/2 34 1/4 42-45 XL 17 1/2 35 46-49 2XL 18 1/2 35 3/4 50-53 3XL 19 1/2 36 1/2 54-57
-  Updated: 2026-08-06T01:21:09Z
+  Updated: 2026-08-14T19:41:05Z
   Vendor: Por Osos
   Product Type: Hoodie
   Availability: Available
@@ -218,7 +218,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POVODKACOTRUCKER.png?v=1763654387
   Price: $40.00 USD
 - [Logo Hat - Two Tone](https://drinkporosos.store/products/logo-hat-two-tone): Tried and true Por Osos Vodka Co. Logo Trucker Hat now with available in Black/Natural. Structured with adjustable snapback closure
-  Updated: 2026-08-13T18:42:57Z
+  Updated: 2026-08-14T23:01:26Z
   Vendor: Por Osos
   Product Type: Hat
   Availability: Available
@@ -256,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/8926/6901/files/POPATCHHAT.png?v=1778779739
   Price: $40.00 USD
 - [Camo Long Sleeve](https://drinkporosos.store/products/camo-long-sleeve): Por Osos Camo Longsleeve in print "vintage wood camo" with front and back print.
-  Updated: 2026-07-22T19:55:48Z
+  Updated: 2026-08-21T17:29:25Z
   Vendor: Por Osos
   Product Type: T-Shirt
   Availability: Available
@@ -280,43 +280,43 @@
 ## Collections
 
 - [Featured Products](https://drinkporosos.store/collections/frontpage)
-  Updated: 2026-08-06T11:16:47Z
+  Updated: 2026-08-15T11:18:07Z
   Total Products: 39
 - [Apparel](https://drinkporosos.store/collections/apparel)
-  Updated: 2026-08-06T11:16:47Z
+  Updated: 2026-08-15T11:18:07Z
   Total Products: 22
 - [Accessories](https://drinkporosos.store/collections/accessories)
-  Updated: 2026-08-06T11:16:47Z
+  Updated: 2026-08-14T11:17:16Z
   Total Products: 17
 - [Hats](https://drinkporosos.store/collections/hats)
-  Updated: 2026-08-06T11:16:47Z
+  Updated: 2026-08-14T11:17:16Z
   Total Products: 13
 - [Music](https://drinkporosos.store/collections/music)
   Updated: 2026-07-08T21:44:42Z
   Total Products: 0
 - [Outerwear](https://drinkporosos.store/collections/outerwear)
-  Updated: 2026-08-06T11:16:47Z
+  Updated: 2026-08-15T11:18:07Z
   Total Products: 5
 - [T-Shirts](https://drinkporosos.store/collections/t-shirts)
-  Updated: 2026-08-06T11:16:47Z
+  Updated: 2026-08-14T11:17:16Z
   Total Products: 14
 - [Jerseys](https://drinkporosos.store/collections/jerseys)
   Updated: 2026-07-30T19:25:49Z
   Total Products: 2
 - [Drops Of Summer](https://drinkporosos.store/collections/drops-of-summer)
-  Updated: 2026-07-30T19:25:53Z
+  Updated: 2026-08-14T11:17:16Z
   Total Products: 8
 - [Vodka Collection](https://drinkporosos.store/collections/vodka-collection)
-  Updated: 2026-07-30T19:25:51Z
+  Updated: 2026-08-14T11:17:16Z
   Total Products: 4
 - [ALL](https://drinkporosos.store/collections/all)
-  Updated: 2026-08-06T11:16:47Z
+  Updated: 2026-08-15T11:18:07Z
   Total Products: 17
 - [Just Added](https://drinkporosos.store/collections/just-added)
   Updated: 2026-07-30T19:25:52Z
   Total Products: 2
 - [LAST CHANCE](https://drinkporosos.store/collections/liquidation-)
-  Updated: 2026-08-06T11:16:47Z
+  Updated: 2026-08-15T11:18:07Z
   Total Products: 12
 - [2 BEARS 5K](https://drinkporosos.store/collections/3-bears-5k)
   Updated: 2026-07-30T19:25:53Z
@@ -325,13 +325,13 @@
   Updated: 2026-07-30T19:25:53Z
   Total Products: 2
 - [Tallahassee Merch](https://drinkporosos.store/collections/tallahassee-merch)
-  Updated: 2026-07-20T11:17:43Z
+  Updated: 2026-08-14T11:17:16Z
   Total Products: 3
 - [UPSELL](https://drinkporosos.store/collections/upsell)
-  Updated: 2026-07-30T19:25:52Z
+  Updated: 2026-08-14T11:17:16Z
   Total Products: 5
 - [POR OSOS PALOOZA](https://drinkporosos.store/collections/por-osos-palooza)
-  Updated: 2026-08-06T11:16:47Z
+  Updated: 2026-08-15T11:18:07Z
   Total Products: 21
 
 ## Store Pages
