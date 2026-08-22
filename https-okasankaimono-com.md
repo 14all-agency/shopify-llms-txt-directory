@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-29T10:32:58Z
 - Contact Email: alphafofanah440@gmail.com
-- Updated At: 2026-08-11T00:00:38.824Z
+- Updated At: 2026-08-22T00:00:43.376Z
 
 ## Products
 
@@ -3102,189 +3102,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/9692c716-1b9f-4d52-800a-f914f6bc1bd8.jpg?v=1783736887
     Price: $49.99 USD
-- [Quick Dry Seamless Yoga Sportswear | Okasankaimono](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear): Quick Dry Seamless Yoga Sportswear offers moisture-wicking fabric, breathable design, and high elasticity for unrestricted movement.
-  Updated: 2026-08-02T20:58:15Z
-  Vendor: Okasankaimono
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/915ac30f-149a-4003-ba2b-bb8299023360-_1.jpg?v=1785015840
-  - [XS / black](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973033656)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/46dffa63-687d-4798-a3d0-4fd4ecfe9593-_5.jpg?v=1785015856
-    Price: $60.99 USD
-  - [S / black](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973066424)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/0b79de4a-715d-4876-a7fc-a9c0add1ad6e-_6.jpg?v=1785015860
-    Price: $60.99 USD
-  - [M / black](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973099192)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/801d355a-f2aa-4dce-af10-020aceb94897-_7.jpg?v=1785015864
-    Price: $60.99 USD
-  - [L / black](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973131960)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/945c5dbe-ad0b-4c72-afad-822fb3009e01-_8.jpg?v=1785015869
-    Price: $60.99 USD
-  - [XS / Jam color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973164728)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/2a26630d-c054-4386-968c-9955aec96f88-_9.jpg?v=1785015873
-    Price: $60.99 USD
-  - [S / Jam color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973197496)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/304a4e26-3356-4c22-84c4-f650bc65f569-_10.jpg?v=1785015876
-    Price: $60.99 USD
-  - [M / Jam color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973230264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/065969c4-3a8c-43d3-a657-c5a60c9e9159-_11.jpg?v=1785015881
-    Price: $60.99 USD
-  - [L / Jam color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973263032)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/f1a37be9-b374-4834-8563-eac3506178df-_12.jpg?v=1785015885
-    Price: $60.99 USD
-  - [XS / Pine color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973295800)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/c63aa1e8-f9d1-47cd-8b6b-5ebe94f2c442-_13.jpg?v=1785015889
-    Price: $60.99 USD
-  - [S / Pine color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973328568)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/15aa4b7c-6098-4191-a8e4-b7c5aae2269b-_14.jpg?v=1785015894
-    Price: $60.99 USD
-  - [M / Pine color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973361336)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/a518240c-45d6-4daf-bd7c-43110d879945-_15.jpg?v=1785015899
-    Price: $60.99 USD
-  - [L / Pine color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973394104)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/abb62f6a-db01-4f69-9f77-c66b635e2624-_16.jpg?v=1785015904
-    Price: $60.99 USD
-  - [XS / Royal blue](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973426872)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/c661d7fc-bb22-4a7f-85a3-99f463abe072.jpg?v=1783780038
-    Price: $60.99 USD
-  - [S / Royal blue](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973459640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/343687bc-8f1b-47d0-802a-78f5adbfd530.jpg?v=1783780038
-    Price: $60.99 USD
-  - [M / Royal blue](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973492408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/1613770c-84c6-4d91-b17d-a6b61a7e6ec8.jpg?v=1783780037
-    Price: $60.99 USD
-  - [L / Royal blue](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973525176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/014fcacc-0e0a-445f-b234-5ada140c760c.jpg?v=1783780037
-    Price: $60.99 USD
-  - [XS / Yellow camphor purple](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973557944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/02c2aa9b-5efd-498e-90cb-7ad4da276f69.jpg?v=1783780038
-    Price: $60.99 USD
-  - [S / Yellow camphor purple](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973590712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/d6729aa3-e0c7-499b-9b2f-4d49f56ceb92.jpg?v=1783780038
-    Price: $60.99 USD
-  - [M / Yellow camphor purple](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973623480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/59133d2b-0ec1-401c-bc1d-88404799cffc.jpg?v=1783780037
-    Price: $60.99 USD
-  - [L / Yellow camphor purple](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973656248)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/c5c9adcc-9f86-44e2-b996-341175678647.jpg?v=1783780038
-    Price: $60.99 USD
-  - [XS / Ink color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973689016)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/54425c9f-eac0-4ded-8256-a0ab5f5ab7ad.jpg?v=1783780038
-    Price: $60.99 USD
-  - [S / Ink color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973721784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/1091899b-dbb7-4bc1-b53f-8bedf8520140.jpg?v=1783780038
-    Price: $60.99 USD
-  - [M / Ink color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973754552)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/7b074fd9-3463-4a5f-b35b-6aa309a1c53d.jpg?v=1783780038
-    Price: $60.99 USD
-  - [L / Ink color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973787320)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/0dc820e3-b05f-491c-b956-9f3d581662c3.jpg?v=1783780038
-    Price: $60.99 USD
-  - [XS / Pink](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973820088)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/6522807c-c9ea-4587-b6fa-e05452c07e1f.jpg?v=1783780038
-    Price: $60.99 USD
-  - [S / Pink](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973852856)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/367563a1-7ad5-4e57-99f5-c5283883df3e.jpg?v=1783780038
-    Price: $60.99 USD
-  - [M / Pink](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973885624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/960a240e-882a-44b2-911f-5095145f32c7.jpg?v=1783780038
-    Price: $60.99 USD
-  - [L / Pink](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973918392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/6afcf5fe-9ce2-41e3-82de-502effde6eef.jpg?v=1783780038
-    Price: $60.99 USD
-  - [XS / Pigeon color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973951160)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/9d391426-2c69-4680-8d13-c089a82d4612.jpg?v=1783780038
-    Price: $60.99 USD
-  - [S / Pigeon color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752973983928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/bc93c128-c233-4e52-a23d-dceb23e3a588.jpg?v=1783780038
-    Price: $60.99 USD
-  - [M / Pigeon color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974016696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/70792fbd-0de4-43df-a1e2-ac1f8d421d43.jpg?v=1783780038
-    Price: $60.99 USD
-  - [L / Pigeon color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974049464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/284a80a1-c6d9-486c-b899-083184b5f45d.jpg?v=1783780038
-    Price: $60.99 USD
-  - [XS / Maroon red](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974082232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/1b93932c-929d-4605-945d-031ecd287cb0.png?v=1783780038
-    Price: $60.99 USD
-  - [S / Maroon red](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974115000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/2920de1e-87af-4a2b-87ab-6471971af3a5.png?v=1783780037
-    Price: $60.99 USD
-  - [M / Maroon red](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974147768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/33f0ba5e-a358-46fe-a364-c47a31fbfd10.png?v=1783780038
-    Price: $60.99 USD
-  - [L / Maroon red](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974180536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/123dcb32-8cc8-47b1-8309-f16c45ad1d80.png?v=1783780038
-    Price: $60.99 USD
-  - [XS / Copper color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974213304)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/c9205f08-e60c-4cae-bd50-d2d2e0e30d95.jpg?v=1783780037
-    Price: $60.99 USD
-  - [S / Copper color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974246072)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/a67c6be8-e19c-4f55-bfe9-24241eaed1cb.jpg?v=1783780037
-    Price: $60.99 USD
-  - [M / Copper color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974278840)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/7f3cfda0-90ac-42ca-af65-3c59345bff36.jpg?v=1783780038
-    Price: $60.99 USD
-  - [L / Copper color](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974311608)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/0236e6f3-b374-4580-b872-45d15a689cc4.jpg?v=1783780038
-    Price: $60.99 USD
-  - [XS / Cornflower](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974344376)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/64cc9171-e889-484c-b162-c43cc09e1dd4.jpg?v=1783780038
-    Price: $60.99 USD
-  - [S / Cornflower](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974377144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/6239ffcb-e0a6-47e6-8da9-c2301e401a53.jpg?v=1783780038
-    Price: $60.99 USD
-  - [M / Cornflower](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974409912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/0ab187b7-fb82-4543-a5f9-b4da63be1214.jpg?v=1783780038
-    Price: $60.99 USD
-  - [L / Cornflower](https://okasankaimono.com/products/quick-dry-seamless-yoga-sportswear?variant=53752974442680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/0161/2216/files/330e9f8c-9d7c-4d79-b844-630d1a8f5816.jpg?v=1783780038
-    Price: $60.99 USD
-[List Continued](https://okasankaimono.com/a/llms-agent/llms.txt?shop=bys-store-2421009-520252.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQ3NTk1MjE0NDU2OCwibGFzdF92YWx1ZSI6IjEwNDc1OTUyMTQ0NTY4In0%3D)
+[List Continued](https://okasankaimono.com/a/llms-agent/llms.txt?shop=bys-store-2421009-520252.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQ3NTE2MjA3NTMyMCwibGFzdF92YWx1ZSI6IjEwNDc1MTYyMDc1MzIwIn0%3D)
 
 ## Collections
 
@@ -3377,6 +3195,21 @@
     Author: User
   - [Transform Your Home Workouts with a Wall Mounted Pull Up Bar: A Comprehensive Guide](https://okasankaimono.com/blogs/news/transform-your-home-workouts-with-a-wall-mounted-pull-up-bar-a-comprehensive-guide): Transform Your Home Workouts with a Wall Mounted Pull Up Bar: A Comprehensive Guide
     Updated: 2026-08-10T00:48:10Z
+    Author: User
+  - [The Benefits of Moringa Leaf Weight Management Drops for Natural Weight Loss](https://okasankaimono.com/blogs/news/the-benefits-of-moringa-leaf-weight-management-drops-for-natural-weight-loss): The Benefits of Moringa Leaf Weight Management Drops for Natural Weight Loss
+    Updated: 2026-08-11T01:10:15Z
+    Author: User
+  - [Understanding DIM Supplements: Potential Health Benefits and How to Use Them](https://okasankaimono.com/blogs/news/understanding-dim-supplements-potential-health-benefits-and-how-to-use-them): Understanding DIM Supplements: Potential Health Benefits and How to Use Them
+    Updated: 2026-08-12T02:48:55Z
+    Author: User
+  - [The Essential Guide to Maximizing Muscle Recovery with an Electric Fascia Muscle Massager](https://okasankaimono.com/blogs/news/the-essential-guide-to-maximizing-muscle-recovery-with-an-electric-fascia-muscle-massager): The Essential Guide to Maximizing Muscle Recovery with an Electric Fascia Muscle Massager
+    Updated: 2026-08-17T00:50:01Z
+    Author: User
+  - [Enhance Your Post-Workout Recovery with the Massage Gun Mini](https://okasankaimono.com/blogs/news/enhance-your-post-workout-recovery-with-the-massage-gun-mini): Enhance Your Post-Workout Recovery with the Massage Gun Mini
+    Updated: 2026-08-18T01:09:45Z
+    Author: User
+  - [Unleashing Your Inner Energy: How Body Energy Capsules Can Revitalize Your Day](https://okasankaimono.com/blogs/news/unleashing-your-inner-energy-how-body-energy-capsules-can-revitalize-your-day): Unleashing Your Inner Energy: How Body Energy Capsules Can Revitalize Your Day
+    Updated: 2026-08-19T02:49:11Z
     Author: User
 
 ## Store Pages
