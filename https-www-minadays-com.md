@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-08-31T08:07:01Z
 - Contact Email: info@minadays.com
-- Updated At: 2026-08-15T00:00:35.209Z
+- Updated At: 2026-08-22T00:00:37.108Z
 
 ## Products
 
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-08-14T10:29:17Z
+  Updated: 2026-08-19T10:16:30Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
@@ -45,7 +45,7 @@
   Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Slipeinlagen-bambusviskose.webp?v=1785443531
   Price: 7,50 € EUR
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-mit-cbd-kamille-normal): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-08-14T20:32:47Z
+  Updated: 2026-08-21T14:39:51Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
@@ -55,7 +55,7 @@
 ## Collections
 
 - [Produkte](https://www.minadays.com/collections/all): Mit CBD-Tampons & Bambus-Binden durch deine Tage
-  Updated: 2026-08-14T11:22:21Z
+  Updated: 2026-08-21T11:19:15Z
   Total Products: 11
 - [Intimpflege](https://www.minadays.com/collections/intimpflege)
   Updated: 2026-08-13T11:18:28Z
@@ -73,7 +73,7 @@
   Updated: 2026-08-13T11:18:28Z
   Total Products: 2
 - [Tampons](https://www.minadays.com/collections/tampons)
-  Updated: 2026-08-14T11:22:21Z
+  Updated: 2026-08-21T11:19:15Z
   Total Products: 2
 - [Binden](https://www.minadays.com/collections/binden)
   Updated: 2026-08-13T11:18:28Z
@@ -102,6 +102,10 @@
     Updated: 2026-07-31T19:32:14Z
     Author: Patrick Meier
     Tags: Kamillen-Tampons, Organische Tampons, Viskose-Tampons
+  - [Die Vorteile von CBD-Tampons: Eine natürliche Alternative für die Periode](https://www.minadays.com/blogs/news/cbd-tampons-natuerliche-menstruationspflege): Die Vorteile von CBD-Tampons: Eine natürliche Alternative für die Periode
+    Updated: 2026-08-20T14:08:34Z
+    Author: Patrick Meier
+    Tags: CBD, CBD-Tampons
   - [Toxisches Schocksyndrom durch Tampons](https://www.minadays.com/blogs/news/toxisches-schocksyndrom-durch-tampons)
     Updated: 2026-08-04T07:38:23Z
     Author: Thomas Wrobel
@@ -207,6 +211,8 @@
   Updated: 2026-08-14T09:16:06Z
 - [Jubiläumsaktion Bedingungen](https://www.minadays.com/pages/jubilaumsaktion): Zu unserem 2-jährigen Jubiläum schenken wir euch eine Packung mit 16 CBD-Tampons Normal nur gegen Versand. Hier findet ihr die Bedingungen: * Aktio...
   Updated: 2026-08-12T08:56:56Z
+- [Umfrage](https://www.minadays.com/pages/umfrage)
+  Updated: 2026-08-21T09:11:23Z
 
 ## Policies
 
