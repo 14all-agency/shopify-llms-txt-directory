@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-02-21T03:08:43Z
 - Contact Email: Info@GlamGasam.com
-- Updated At: 2026-08-15T00:00:47.164Z
+- Updated At: 2026-08-22T00:00:47.408Z
 
 ## Products
 
@@ -1690,14 +1690,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/0712/0211/files/KNG1717.jpg?v=1772230017
   Price: $12.00 USD
-- [Numb AF Anal Desensitizer Gel-Cherry](https://glamgasam.com/products/numb-af-anal-desensitizer-gel-cherry): NUMB AF Cherry flavored is specially formulated to make your anal experience more pleasurable. Numb AF anal desensitizing gel gently numbs on contact creating a comfortable sensation for anal play. For best results rub a generous amount around anal opening and wait 5 minutes for full activation before engaging in intercourse. Numb AF - Anal Desensitizing Gel is a pleasure positive product and was created with the intention of creating a more pleasurable and comfortable  experience for lovers. Features Flavored Anal Numbing Cream Package Weight 2.20 Ounces Package Dimensions 1.50W by 6.30H by 1.50L inches
-  Updated: 2026-07-13T20:37:16Z
-  Vendor: Little Genie
-  Product Type: Enhancers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/0712/0211/files/LGBT610.jpg?v=1772230018
-  Price: $17.14 USD
-[List Continued](https://glamgasam.com/a/llms-agent/llms.txt?shop=5qfrkq-qu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODk0MzUzNzM5ODU5LCJsYXN0X3ZhbHVlIjoiNzg5NDM1MzczOTg1OSJ9)
+[List Continued](https://glamgasam.com/a/llms-agent/llms.txt?shop=5qfrkq-qu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODk0MzUzNzA3MDkxLCJsYXN0X3ZhbHVlIjoiNzg5NDM1MzcwNzA5MSJ9)
 
 ## Collections
 
@@ -1705,7 +1698,7 @@
   Updated: 2026-07-01T18:57:08Z
   Total Products: 1
 - [The Glam Gasam Featured Products](https://glamgasam.com/collections/the-glam-gasam-featured-products)
-  Updated: 2026-08-07T20:20:33Z
+  Updated: 2026-08-15T11:18:55Z
   Total Products: 54284
 - [Anal Toys](https://glamgasam.com/collections/anal-toys): Explore a curated selection of premium anal play essentials designed for comfort, confidence, and elevated experiences. From beginner-friendly designs to advanced luxury pieces, each item is crafted with quality and discretion in mind.
   Updated: 2026-07-12T11:18:24Z
@@ -2203,6 +2196,15 @@
     Author: Violet P.
   - [The Pros and Cons of Battery Operated Versus Rechargeable  Toys](https://glamgasam.com/blogs/theglamgasamdiary/the-pros-and-cons-of-battery-operated-versus-rechargeable--toys): The Pros and Cons of Battery Operated Versus Rechargeable  Toys
     Updated: 2026-08-12T18:05:04Z
+    Author: Violet P.
+  - [Examining the Myths Versus the Facts about  Toys in the Bedroom](https://glamgasam.com/blogs/theglamgasamdiary/examining-the-myths-versus-the-facts-about--toys-in-the-bedroom): Examining the Myths Versus the Facts about  Toys in the Bedroom
+    Updated: 2026-08-15T18:01:50Z
+    Author: Violet P.
+  - [An Educational Look at the Benefits of Silicone Versus Latex  Toys](https://glamgasam.com/blogs/theglamgasamdiary/an-educational-look-at-the-benefits-of-silicone-versus-latex--toys): An Educational Look at the Benefits of Silicone Versus Latex  Toys
+    Updated: 2026-08-17T18:04:56Z
+    Author: Violet P.
+  - [Exploring Effective Solutions to Common  Toy Dilemmas](https://glamgasam.com/blogs/theglamgasamdiary/exploring-effective-solutions-to-common--toy-dilemmas): Exploring Effective Solutions to Common  Toy Dilemmas
+    Updated: 2026-08-19T18:04:49Z
     Author: Violet P.
 
 ## Store Pages
