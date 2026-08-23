@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2016-12-13T17:20:00Z
 - Contact Email: virgilio@great-mini.mx
-- Updated At: 2026-08-13T00:00:47.076Z
+- Updated At: 2026-08-23T00:00:48.570Z
 
 # GREAT + MINI · Mobiliario Corporativo y Equipamiento Integral
 
@@ -19,15 +19,15 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
 
 ## Products
 
-- [BARI | Silla Ejecutiva Ergonómica con Soporte Lumbar Giratorio y Mecanismo de 5 Posiciones 🛋️](https://great-mini.mx/products/sillas-ejecutivas-silla-mecanismo-rodilla-bari): Maximiza tu productividad con la Silla BARI. Mecanismo de rodilla de 5 posiciones, asiento inyectado y soporte lumbar ajustable. 🛡️ Garantía y calidad BIFMA.
-  Updated: 2026-06-30T23:47:59Z
+- [BARI | Silla Ejecutiva Ergonómica con Soporte Lumbar Giratorio y Mecanismo de 5 Posiciones](https://great-mini.mx/products/sillas-ejecutivas-silla-mecanismo-rodilla-bari): Maximiza tu productividad con la Silla BARI. Mecanismo de rodilla de 5 posiciones, asiento inyectado y soporte lumbar ajustable. 🛡️ Garantía y calidad BIFMA.
+  Updated: 2026-08-13T14:51:12Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/2013/files/SILLABARI1.png?v=1776476998
   Price: 8949,00 $ MXN
-- [BARI E | Silla Ejecutiva Ergonómica con Mecanismo de Bloqueo y Soporte Lumbar ⚙️](https://great-mini.mx/products/sillas-ejecutivas-silla-ergonomica-bloqueo-bari-e): Optimiza tu rendimiento con la BARI E: silla ejecutiva con mecanismo de bloqueo, soporte lumbar ajustable y certificación BIFMA. 🛡️ ¡Calidad y confort garantizados en México!
-  Updated: 2026-06-30T23:46:52Z
+- [BARI E | Silla Ejecutiva Ergonómica con Mecanismo de Bloqueo y Soporte Lumbar](https://great-mini.mx/products/sillas-ejecutivas-silla-ergonomica-bloqueo-bari-e): Optimiza tu rendimiento con la BARI E: silla ejecutiva con mecanismo de bloqueo, soporte lumbar ajustable y certificación BIFMA. 🛡️ ¡Calidad y confort garantizados en México!
+  Updated: 2026-08-13T14:50:52Z
   Vendor: ERGO
   Product Type: Sillas
   Availability: Available
@@ -1777,10 +1777,10 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-07-01T04:58:08Z
   Total Products: 100
 - [SILLAS DE VISITAS](https://great-mini.mx/collections/sillas-para-oficina-de-visitas): En Great+Mini encontrarás la solución completa de tus proyectos y contarás con entregas completas de sillas para oficina como lo son las de visitantes.
-  Updated: 2026-07-01T05:21:04Z
+  Updated: 2026-08-13T02:51:05Z
   Total Products: 19
 - [SILLAS DIRECTIVAS](https://great-mini.mx/collections/sillas-directivas-para-oficinas): Presentamos una parte de una gran variedad de sillas directivas que podrás encontrar en Great+Mini para entregar en cualquier parte de México.
-  Updated: 2026-07-01T05:28:09Z
+  Updated: 2026-08-13T02:51:06Z
   Total Products: 25
 - [ESCRITORIOS Y MESAS](https://great-mini.mx/collections/mesas-y-escritorios): En esta colección reunimos todos los escritorios directivos, mesas multusos, mesas de visita, etc
   Updated: 2026-06-19T23:56:57Z
@@ -1798,7 +1798,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-08-04T17:19:36Z
   Total Products: 16
 - [SILLAS EJECUTIVAS](https://great-mini.mx/collections/sillas-ejecutivas-ergonomicas): En Great+Mini encontrarás una gran variedad de sillas ejecutivas con excelentes precios, calidad y servicio.
-  Updated: 2026-07-01T05:28:09Z
+  Updated: 2026-08-13T02:50:45Z
   Total Products: 23
 - [SILLAS LÍNEA ITALIA](https://great-mini.mx/collections/sillas-linea-italia)
   Updated: 2026-06-08T06:48:08Z
@@ -1822,7 +1822,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-07-01T05:28:09Z
   Total Products: 9
 - [PROMOS SILLAS](https://great-mini.mx/collections/promos-sillas)
-  Updated: 2026-07-01T04:53:14Z
+  Updated: 2026-08-13T02:50:45Z
   Total Products: 5
 - [PROMOS OFICINAS](https://great-mini.mx/collections/promos-oficinas)
   Updated: 2026-01-29T19:45:12Z
@@ -1855,8 +1855,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:28:06Z
   Total Products: 5
 - [REFRIGERADORES](https://great-mini.mx/collections/refrigeradores)
-  Updated: 2026-08-08T05:49:07Z
-  Total Products: 25
+  Updated: 2026-08-19T05:17:42Z
+  Total Products: 27
 - [ESTUFAS](https://great-mini.mx/collections/estufas)
   Updated: 2026-06-29T20:30:58Z
   Total Products: 12
@@ -1876,8 +1876,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:46:47Z
   Total Products: 22
 - [KITCHEN AID](https://great-mini.mx/collections/kitchen-aid)
-  Updated: 2026-08-08T05:49:07Z
-  Total Products: 4
+  Updated: 2026-08-19T05:17:42Z
+  Total Products: 6
 - [IMPERIAL](https://great-mini.mx/collections/imperial)
   Updated: 2026-06-08T18:46:59Z
   Total Products: 7
@@ -1947,6 +1947,9 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
 - [Pantallas Smart TV JVC Roku](https://great-mini.mx/collections/pantallas-jvc-smart-tv): 📺 Compra tu Pantalla JVC Smart TV con Roku integrado en Great Mini. Envíos a todo México, tecnología 4K UHD, sonido Dolby Audio y las mejores ofertas. ¡Elige la tuya hoy! 🚀
   Updated: 2026-08-06T05:09:49Z
   Total Products: 9
+- [Cocinetas](https://great-mini.mx/collections/cocinetas)
+  Updated: 2026-08-19T01:24:25Z
+  Total Products: 8
 
 ## Blogs
 
