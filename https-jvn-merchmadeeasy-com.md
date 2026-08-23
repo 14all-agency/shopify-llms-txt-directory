@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-20T15:23:14Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-16T00:00:36.348Z
+- Updated At: 2026-08-23T00:00:39.015Z
 
 ## Products
 
@@ -254,8 +254,8 @@
   Updated: 2026-06-03T15:43:39Z
   Total Products: 0
 - [All](https://jvn.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-10T19:27:05Z
-  Total Products: 20
+  Updated: 2026-08-17T16:04:32Z
+  Total Products: 21
 - [Tour](https://jvn.merchmadeeasy.com/collections/tour)
   Updated: 2026-08-06T19:52:37Z
   Total Products: 7
