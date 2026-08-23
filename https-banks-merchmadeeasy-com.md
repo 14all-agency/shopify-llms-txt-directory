@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-23T15:53:03Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-14T00:00:35.418Z
+- Updated At: 2026-08-23T00:00:37.829Z
 
 ## Products
 
 - [Serpentina Vinyl](https://banks.merchmadeeasy.com/products/serpentina-lp-white-pre-order): BANKS' 2022 vinyl, pressed on opaque white vinyl
-  Updated: 2026-08-13T03:49:26Z
+  Updated: 2026-08-20T20:16:56Z
   Vendor: BANKS
   Product Type: Vinyl
   Availability: Available
@@ -211,7 +211,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Serpentina Sticker](https://banks.merchmadeeasy.com/products/serpentina-sticker): Serpentina album art sticker.
-  Updated: 2026-08-12T15:31:02Z
+  Updated: 2026-08-17T22:34:23Z
   Vendor: BANKS
   Product Type: Sticker
   Availability: Available
@@ -339,7 +339,7 @@
 - [Mineral Wash Photo Tee](https://banks.merchmadeeasy.com/products/goddess-anniversary-tee): BANKS photo tee in black and white
 
 100% pre-shrunk heavyweight cotton
-  Updated: 2026-08-11T03:50:45Z
+  Updated: 2026-08-15T06:26:16Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -470,7 +470,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Off With Her Head - CD (Signed)](https://banks.merchmadeeasy.com/products/off-with-her-head-cd-copy): Limited signed quantity now available. The brand new studio album from BANKS. The CD edition features exclusive artwork and lyrics. Tracklist: Guillotine I  Your Ex-Girlfriend (feat. Doechii) Love Is Unkind Delulu Move Stay Best Friends Meddle In The Mold Direction Make It Up River Off With Her Head Release Date: February 28, 2025
-  Updated: 2026-08-12T18:53:57Z
+  Updated: 2026-08-17T22:34:26Z
   Vendor: BANKS
   Product Type: CD
   Availability: Available
@@ -594,7 +594,7 @@
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/Road-Case-Polaroid_70214fbd-8dbb-4edc-8108-796cecbc2f9a.png?v=1784149624
   Price: $8.00 USD
 - [Backstage Polaroid Sticker](https://banks.merchmadeeasy.com/products/backstage-polaroid-sticker): Polaroid-style photo sticker of BANKS wearing a white dress and hat backstage
-  Updated: 2026-08-11T03:42:58Z
+  Updated: 2026-08-14T15:30:46Z
   Vendor: Banks Official Store
   Product Type: Sticker
   Availability: Available
@@ -611,16 +611,16 @@
 ## Collections
 
 - [Home page](https://banks.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-13T14:29:44Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 58
 - [Apparel](https://banks.merchmadeeasy.com/collections/apparel)
   Updated: 2026-08-13T14:29:44Z
   Total Products: 24
 - [Music](https://banks.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-13T11:21:53Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 14
 - [Accessories](https://banks.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-13T14:29:22Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 31
 - [Digital Albums](https://banks.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:56:27Z
@@ -629,10 +629,10 @@
   Updated: 2026-07-08T20:56:27Z
   Total Products: 0
 - [All](https://banks.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-13T14:29:44Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 76
 - [NEW](https://banks.merchmadeeasy.com/collections/new)
-  Updated: 2026-08-13T11:21:53Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 10
 - [FROM THE VAULT](https://banks.merchmadeeasy.com/collections/from-the-vault-drop-1)
   Updated: 2026-06-10T16:22:49Z
@@ -662,7 +662,7 @@
   Updated: 2026-08-13T11:21:53Z
   Total Products: 16
 - [EasyGift All Products](https://banks.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-13T14:29:44Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 74
 - [Goddess 10th Anniversary Collection](https://banks.merchmadeeasy.com/collections/goddess-10th-anniversary-collection)
   Updated: 2026-08-10T20:06:18Z
@@ -671,16 +671,16 @@
   Updated: 2026-07-08T20:56:28Z
   Total Products: 0
 - [Off With Her Head](https://banks.merchmadeeasy.com/collections/off-with-her-head)
-  Updated: 2026-08-13T14:29:44Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 16
 - [Off With Her Head Tour Merch](https://banks.merchmadeeasy.com/collections/off-with-her-head-tour-merch)
   Updated: 2026-08-13T14:29:44Z
   Total Products: 8
 - [Music & Prints](https://banks.merchmadeeasy.com/collections/music-prints)
-  Updated: 2026-08-13T11:21:53Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 24
 - [Signature Collection](https://banks.merchmadeeasy.com/collections/signature-collection)
-  Updated: 2026-08-13T11:21:53Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 12
 - [](https://banks.merchmadeeasy.com/collections/)
   Updated: 2026-08-13T14:29:44Z
@@ -692,7 +692,7 @@
   Updated: 2026-08-13T11:21:53Z
   Total Products: 8
 - [Black Friday ](https://banks.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-08-13T14:29:44Z
+  Updated: 2026-08-18T11:19:19Z
   Total Products: 72
 
 ## Store Pages
