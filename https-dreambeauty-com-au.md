@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-01-06T07:45:28Z
 - Contact Email: info@dreambeauty.com.au
-- Updated At: 2026-08-12T00:00:47.268Z
+- Updated At: 2026-08-23T00:00:46.960Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0736/5269/9387/files/MUVO_Copper_500ml.jpg?v=1736309220
   Price: $35.95 AUD
 - [MUVO Ultra Blonde Signature Set Limited Edition - Ultimate Hair Care](https://dreambeauty.com.au/products/muvo-ultra-blonde-signature-set-limited-edition): Experience the MUVO Ultra Blonde Signature Set Limited Edition for vibrant blonde hair. Perfect for maintaining color and shine. Limited stock available!
-  Updated: 2026-04-29T00:55:10Z
+  Updated: 2026-08-16T04:43:16Z
   Vendor: Muvo
   Product Type: Hair 
   Availability: Available
@@ -536,7 +536,7 @@
   Image: https://cdn.shopify.com/s/files/1/0736/5269/9387/files/ColorWowSpeedDryBlowDrySpray.webp?v=1775876390
   Price: $42.90 AUD
 - [Nak Blonde Plus Shampoo 1L - Pure Hair Care Solution](https://dreambeauty.com.au/products/nak-blonde-plus-shampoo-1l): Discover Nak Blonde Plus Shampoo 1L for vibrant, healthy blonde hair. This shampoo neutralizes brassiness while nourishing your hair for a stunning look.
-  Updated: 2026-06-30T09:48:29Z
+  Updated: 2026-08-15T23:20:51Z
   Vendor: NAK
   Product Type: Shampoo
   Availability: Available
@@ -1180,7 +1180,7 @@
   Image: https://cdn.shopify.com/s/files/1/0736/5269/9387/files/L_orealLPMetalDetoxLeave-inMoisturizer100ml.webp?v=1775880660
   Price: $59.99 AUD
 - [Collagen Miracle Mask 500ml | Intensive Hair Repair ](https://dreambeauty.com.au/products/kerasmooth-collagen-miracle-mask-500ml): Shop Collagen Miracle Mask 500ml — an intensive collagen hair  that restores strength, shine, and moisture to dry and damaged hair.
-  Updated: 2026-08-07T21:32:47Z
+  Updated: 2026-08-15T23:20:57Z
   Vendor: Kerasmooth
   Product Type: Hair 
   Availability: Available
@@ -1691,7 +1691,7 @@
   Updated: 2026-04-10T22:36:29Z
   Total Products: 1
 - [New Arrivals](https://dreambeauty.com.au/collections/new-arrivals): Discover our new arrivals in hair, beauty, and skincare products at amazing discounts! Shop now for premium formulas that nourish and enhance your natural glow. - Dream Beauty
-  Updated: 2026-08-08T11:23:50Z
+  Updated: 2026-08-16T11:25:45Z
   Total Products: 509
 - [Skin Care](https://dreambeauty.com.au/collections/skin-care): Discover premium skincare products for healthy, glowing skin. Hydrating cleansers, rejuvenating serums, and moisturizers to enhance your skincare routine. - Dream Beauty
   Updated: 2026-06-04T01:42:08Z
@@ -1703,16 +1703,16 @@
   Updated: 2026-06-04T01:42:09Z
   Total Products: 44
 - [NAK](https://dreambeauty.com.au/collections/nak): Explore NAK Products for premium hair care solutions. Offering professional-grade shampoos, conditioners, treatments, and styling products designed to nourish and protect all hair types. Discover the perfect NAK product for healthier, more vibrant hair. - Dream Beauty
-  Updated: 2026-07-19T11:25:13Z
+  Updated: 2026-08-16T11:25:45Z
   Total Products: 35
 - [Muvo](https://dreambeauty.com.au/collections/muvo): Explore Muvo by NAK for vibrant, healthy hair. Professional-grade shampoos, conditioners, and treatments designed to enhance and protect all hair types. - Dream Beauty
-  Updated: 2026-06-04T01:43:44Z
+  Updated: 2026-08-16T11:25:45Z
   Total Products: 27
 - [Color WOW](https://dreambeauty.com.au/collections/color-wow): Shop Color WOW products for vibrant, long-lasting hair color. Innovative formulas for shine, protection, and color maintenance. Buy now for color-treated hair that stays fresh and beautiful! - Dream Beauty
   Updated: 2026-06-04T01:43:44Z
   Total Products: 12
 - [Shampoo](https://dreambeauty.com.au/collections/shampoo): Discover the perfect shampoo for healthy, shiny hair! Shop a wide range of nourishing formulas with up to 50% off. Get yours today! - Dream Beauty
-  Updated: 2026-07-21T11:24:41Z
+  Updated: 2026-08-16T11:25:45Z
   Total Products: 107
 - [Conditioner](https://dreambeauty.com.au/collections/conditioner): Shop premium conditioners for soft, nourished hair. Formulas for all hair types to hydrate, detangle, and enhance shine. Buy now for smooth, healthy hair every day! - Dream Beauty
   Updated: 2026-07-19T11:25:13Z
@@ -1763,7 +1763,7 @@
   Updated: 2026-06-04T01:43:47Z
   Total Products: 2
 - [Hair ](https://dreambeauty.com.au/collections/hair-): Shop hair  products for restored, healthy hair. Nourishing treatments for all hair types to repair, hydrate, and strengthen. Buy now for soft, vibrant hair! - Dream Beauty
-  Updated: 2026-08-08T11:23:50Z
+  Updated: 2026-08-16T11:25:45Z
   Total Products: 51
 - [Hair Wash](https://dreambeauty.com.au/collections/hair-wash): Shop premium hair wash products for clean, healthy hair. Gentle formulas for all hair types that nourish and refresh. Buy now for shiny, soft hair every day! - Dream Beauty
   Updated: 2026-06-04T01:43:47Z
@@ -1784,7 +1784,7 @@
   Updated: 2026-06-04T01:43:48Z
   Total Products: 5
 - [LUNAR NEW YEAR OFFERS | Upto 50% off](https://dreambeauty.com.au/collections/lunar-new-year-offers-upto-50-off): Shine this Lunar New Year with top-tier hair care! Dream Beauty offers up to 50% off luxury shampoos, conditioners, and styling products. Limited time only - Dream Beauty
-  Updated: 2026-08-08T11:23:50Z
+  Updated: 2026-08-16T11:25:45Z
   Total Products: 491
 - [Moroccanoil](https://dreambeauty.com.au/collections/moroccanoil): - Dream Beauty
   Updated: 2026-06-04T01:44:24Z
@@ -1808,16 +1808,16 @@
   Updated: 2026-06-04T01:48:54Z
   Total Products: 17
 - [Kerasmooth](https://dreambeauty.com.au/collections/kerasmooth): - Dream Beauty
-  Updated: 2026-08-08T11:23:50Z
+  Updated: 2026-08-16T11:25:45Z
   Total Products: 6
 - [Evo](https://dreambeauty.com.au/collections/evo): - Dream Beauty
   Updated: 2026-06-04T01:50:54Z
   Total Products: 27
 - [Redken](https://dreambeauty.com.au/collections/redken): - Dream Beauty
-  Updated: 2026-07-23T11:26:57Z
+  Updated: 2026-08-15T11:27:20Z
   Total Products: 42
 - [REDKEN](https://dreambeauty.com.au/collections/redken-1): - Dream Beauty
-  Updated: 2026-07-23T11:26:57Z
+  Updated: 2026-08-15T11:27:20Z
   Total Products: 42
 - [Exclusive Valentine's Bundles](https://dreambeauty.com.au/collections/exclusive-valentines-bundles): Celebrate love this Valentine’s Day with the ultimate Curly Hair Care Bundle! 💖 Achieve hydrated, frizz-free, soft, and bouncy curls—perfect for a romantic date night. This exclusive set includes nourishing shampoos, deep treatments, defining creams, and styling essentials for glossy, touchable curls that last. Plus, enjoy limited-edition gift wrapping with pink & red ribbons for the perfect Valentine's gift! 💝 Shop now at Dream Beauty and make every curl shine this Valentine’s Day! ✨ - Dream Beauty
   Updated: 2026-04-10T22:36:48Z
@@ -1856,13 +1856,13 @@
   Updated: 2026-06-04T02:54:53Z
   Total Products: 35
 - [Trending Now](https://dreambeauty.com.au/collections/trending-now): - Dream Beauty
-  Updated: 2026-08-08T11:23:50Z
+  Updated: 2026-08-16T11:25:45Z
   Total Products: 485
 - [ ](https://dreambeauty.com.au/collections/-): - Dream Beauty
   Updated: 2026-07-20T11:22:17Z
   Total Products: 24
 - [Valentine's Day ](https://dreambeauty.com.au/collections/valentines-day-): - Dream Beauty
-  Updated: 2026-08-08T11:23:50Z
+  Updated: 2026-08-16T11:25:45Z
   Total Products: 491
 
 ## Blogs
