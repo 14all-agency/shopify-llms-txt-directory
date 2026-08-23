@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-03-17T20:12:10Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-06T21:47:36.019Z
+- Updated At: 2026-08-23T00:00:35.951Z
 
 ## Products
 
@@ -352,7 +352,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $35.00 USD
 - [Setlist Tee - Black](https://wohz.merchmadeeasy.com/products/2025-titles-tee-black): 100% combed cotton t-shirt in Black Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-21T02:06:47Z
+  Updated: 2026-08-12T18:03:07Z
   Vendor: The World of Hans Zimmer
   Product Type: T-Shirt
   Availability: Available
@@ -456,7 +456,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/WOHZ_0007_165575_1_303918_d.png?v=1755115788
   Price: $20.00 USD
 - [WOHZ Admat Poster](https://wohz.merchmadeeasy.com/products/wohz-admat-poster): 11x17" holo-foil poster
-  Updated: 2026-06-26T14:40:21Z
+  Updated: 2026-08-12T01:35:06Z
   Vendor: The World of Hans Zimmer
   Product Type: Poster
   Availability: Available
@@ -466,7 +466,7 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://wohz.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-07-30T11:24:26Z
+  Updated: 2026-08-13T11:24:41Z
   Total Products: 29
 - [HZL Apparel](https://wohz.merchmadeeasy.com/collections/apparel)
   Updated: 2026-06-26T15:55:57Z
@@ -478,13 +478,13 @@ your agent can transact everywhere.
   Updated: 2026-07-30T11:24:26Z
   Total Products: 18
 - [WOHZ Apparel](https://wohz.merchmadeeasy.com/collections/wohz-apparel)
-  Updated: 2026-07-21T11:22:55Z
+  Updated: 2026-08-13T11:24:41Z
   Total Products: 4
 - [WOHZ Accessories](https://wohz.merchmadeeasy.com/collections/wohz)
-  Updated: 2026-07-04T11:23:20Z
+  Updated: 2026-08-12T11:23:11Z
   Total Products: 7
 - [All WOHZ Merch](https://wohz.merchmadeeasy.com/collections/all-wohz-merch)
-  Updated: 2026-07-21T11:22:55Z
+  Updated: 2026-08-13T11:24:41Z
   Total Products: 11
 
 ## Store Pages
