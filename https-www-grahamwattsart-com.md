@@ -8,19 +8,19 @@
 - Contact Email: art@grahamwatts.art
 - Contact Phone: (604) 200-0170
 - Address: 1704 Charles Street, Vancouver, BC 
-- Updated At: 2026-08-14T00:00:40.072Z
+- Updated At: 2026-08-23T00:00:45.870Z
 
 ## Products
 
 - [O Canada Flag Painting | Graham Watts](https://www.grahamwattsart.com/products/o-canada-canadian-flag): Discover O Canada, a framed 36 × 30-inch original Canadian flag oil painting with a luminous resin finish, created by Graham Watts.
-  Updated: 2026-07-19T10:55:15Z
+  Updated: 2026-08-20T20:27:11Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/original_oil_painting_Canadian_Flag.jpg?v=1784415385
   Price: $1,599.00 CAD
-- [Whistler Blackcomb Art:  7th Heaven Whistler Print | Graham Watts](https://www.grahamwattsart.com/products/whistler-blackcomb-art-7th-heaven-whistler-bc-limited-edition-print): Bring Blackcomb Mountain home with 7th Heaven, a signed 18 × 24-inch limited-edition Whistler canvas print by Canadian artist Graham Watts.
-  Updated: 2026-07-25T09:24:54Z
+- [7th Heaven Whistler Canvas Print | Graham Watts](https://www.grahamwattsart.com/products/whistler-blackcomb-art-7th-heaven-whistler-bc-limited-edition-print): Bring Blackcomb Mountain home with 7th Heaven, a signed limited-edition Whistler canvas print by Canadian artist Graham Watts, available in multiple sizes.
+  Updated: 2026-08-20T20:27:12Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -38,7 +38,7 @@
     Availability: Available
     Price: $599.00 CAD
 - [Gastown Vancouver Print Last Call](https://www.grahamwattsart.com/products/last-call-gastown-vancouver-bc-limited-edition-print): Limited edition print of Gastown, Vancouver cityscape Gas town canvas print by Graham Watts.
-  Updated: 2026-07-01T04:51:51Z
+  Updated: 2026-08-20T20:27:12Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -56,14 +56,14 @@
     Availability: Available
     Price: $599.00 CAD
 - [Cityscape oil painting | Vancouver's Burrard Bridge](https://www.grahamwattsart.com/products/burrard-bridge-vancouver-bc): Vancouver's Burrard Bridge – A Cityscape oil painting on canvas capturing the vibrant skyline and winter sunset over Granville Island. Size 24x36 inches
-  Updated: 2026-07-07T06:21:27Z
+  Updated: 2026-08-20T20:26:54Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/burrard-bridge-vancouver-bc-3712803.jpg?v=1779917205
   Price: $1,587.00 CAD
 - [Cityscape Art - Vancouver, BC | Buy Prints Online Canada](https://www.grahamwattsart.com/products/seasons-of-contemplation-limited-edition-print): Vancouver Cityscape Art by G. Watts Painted by Vancouver Artist, Professionally Prints Online.
-  Updated: 2026-07-02T00:30:54Z
+  Updated: 2026-08-20T20:27:31Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -81,28 +81,28 @@
     Availability: Available
     Price: $599.00 CAD
 - [Fissile Peak Whistler Painting | Graham Watts](https://www.grahamwattsart.com/products/overlord-mountain-and-fissile-peak-whistler-bc): Discover an original 40 × 30-inch oil painting of Overlord Mountain and Fissile Peak near Whistler, created in Prussian blue and titanium white.
-  Updated: 2026-07-19T10:32:30Z
+  Updated: 2026-08-20T20:27:31Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/overlord-mountain-fissile-peak-whistler-bc-9656746.png?v=1779917225
   Price: $2,999.00 CAD
 - [Rocky Grizzly Bear Painting | Graham Watts](https://www.grahamwattsart.com/products/wildlife-artwork-rocky-grizzly-bear): Discover Rocky, a one-of-a-kind 40 × 30-inch grizzly bear oil painting by Canadian artist Graham Watts. Signed, ready to hang and available.
-  Updated: 2026-07-30T09:07:05Z
+  Updated: 2026-08-20T20:27:31Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/rocky-grizzly-bear-8371158.jpg?v=1779917235
   Price: $2,999.00 CAD
 - [Chinook Winds Canmore Painting | Graham Watts](https://www.grahamwattsart.com/products/chinook-winds-canmore-alberta-buy-original-canadian-art): Discover Chinook Winds, an original 18 × 24-inch oil painting of a vibrant Rocky Mountain sunset near Canmore, Alberta, by Graham Watts.
-  Updated: 2026-07-19T10:22:41Z
+  Updated: 2026-08-20T20:26:56Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/chinook-winds-canmore-alberta-buy-original-canadian-art-4019038.jpg?v=1779917238
   Price: $599.00 CAD
 - [Black Tusk – Whistler BC. - Limited Edition Print](https://www.grahamwattsart.com/products/black-tusk-whistler-bc-limited-edition-print): Discover the beauty of Black Tusk – Whistler BC. - Limited Edition Print. Choose your size and own this stunning artwork today!
-  Updated: 2026-07-01T21:15:20Z
+  Updated: 2026-08-20T20:26:54Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -120,7 +120,7 @@
     Availability: Available
     Price: $699.00 CAD
 - [Framed prints wall art  Polar Solitude - Limited Edition](https://www.grahamwattsart.com/products/framed-prints-wall-art-polar-solitude-limited-edition-print): Discover Framed prints wall art  the beauty of 'Polar Solitude' - Limited Edition featuring a polar bear. Choose from multiple sizes for your perfect piece.
-  Updated: 2026-07-01T21:14:39Z
+  Updated: 2026-08-20T20:27:33Z
   Vendor: Graham Watts Art
   Product Type: Framed Art Print
   Availability: Available
@@ -138,7 +138,7 @@
     Availability: Available
     Price: $599.00 CAD
 - [Bella Black Bear Limited Edition Print | Graham Watts](https://www.grahamwattsart.com/products/bella-limited-edition-print): Bella is a limited edition black bear canvas print by Canadian artist Graham Watts, inspired by fall colour, wildlife, and BC nature.
-  Updated: 2026-07-01T20:30:52Z
+  Updated: 2026-08-20T20:26:54Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -156,7 +156,7 @@
     Availability: Available
     Price: $599.00 CAD
 - [Grizzly Bear Print Grizz](https://www.grahamwattsart.com/products/grizz-majestic-grizzly-bear-limited-edition-art-print): Limited edition grizzly bear canvas print by Graham Watts.
-  Updated: 2026-07-01T04:52:32Z
+  Updated: 2026-08-20T20:27:33Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -174,7 +174,7 @@
     Availability: Available
     Price: $599.00 CAD
 - [Grizzly Bear Print Felix](https://www.grahamwattsart.com/products/felix-grizzly-bear-limited-edition-print): Limited edition grizzly bear canvas print by Graham Watts.
-  Updated: 2026-07-01T04:52:32Z
+  Updated: 2026-08-20T20:26:57Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -192,7 +192,7 @@
     Availability: Available
     Price: $599.00 CAD
 - [Grizzly Bear Print Teddy](https://www.grahamwattsart.com/products/teddy-whimsical-grizzly-bear-limited-edition-print): Limited edition grizzly bear canvas print by Graham Watts.
-  Updated: 2026-07-01T04:52:33Z
+  Updated: 2026-08-20T20:27:33Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -207,7 +207,7 @@
     Availability: Available
     Price: $599.00 CAD
 - [Mona Grizzly Bear Limited Edition Print | Graham Watts](https://www.grahamwattsart.com/products/mona-playful-grizzly-bear-limited-edition-print): Mona is a limited edition grizzly bear canvas print by Canadian artist Graham Watts, full of movement, colour, and West Coast wildlife energy.
-  Updated: 2026-07-01T19:34:39Z
+  Updated: 2026-08-20T20:27:33Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -225,7 +225,7 @@
     Availability: Available
     Price: $723.00 CAD
 - [OH SH*T Limited Edition Print](https://www.grahamwattsart.com/products/oh-sh-t-limited-edition-print): Limited edition wildlife print by Graham Watts.
-  Updated: 2026-07-01T04:55:26Z
+  Updated: 2026-08-20T20:27:33Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -243,119 +243,119 @@
     Availability: Available
     Price: $599.00 CAD
 - [Holiday Greeting Cards: Santa Skis Whistler, BC](https://www.grahamwattsart.com/products/order-santa-skis-whistler-bc-fine-art-greeting-cards): Order Santa Skis Whistler, BC Holiday Greeting Cards to share holiday joy! Handcrafted, blank inside for your message. Special pricing available!
-  Updated: 2026-07-01T17:50:37Z
+  Updated: 2026-08-20T20:27:34Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-santa-skis-whistler-bc-fine-art-greeting-cards-6608377.jpg?v=1779917293
   Price: $6.00 CAD
-- [Art Greeting Cards Whistler, BC Fine Art Greeting Cards](https://www.grahamwattsart.com/products/special-whistler-bc-fine-art-greeting-cards): Shop Special Whistler, BC Fine Art Greeting Cards! Enjoy 10 cards for $40 with free shipping. Perfect for spreading holiday cheer!
-  Updated: 2026-07-01T20:33:43Z
+- [Whistler Fine Art Greeting Cards | Graham Watts](https://www.grahamwattsart.com/products/special-whistler-bc-fine-art-greeting-cards): Set of 10 Whistler fine art greeting cards by Canadian artist Graham Watts for C$46. Blank inside with envelopes included.
+  Updated: 2026-08-20T20:27:34Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/special-whistler-bc-fine-art-greeting-cards-9542658.jpg?v=1779917301
   Price: $46.00 CAD
 - [Grizzly Bear Cards Felix](https://www.grahamwattsart.com/products/order-felix-grizzly-bear-fine-art-greeting-cards): Fine art grizzly bear greeting cards by Graham Watts.
-  Updated: 2026-07-01T21:57:30Z
+  Updated: 2026-08-20T20:27:34Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-felix-grizzly-bear-fine-art-greeting-cards-1007863.jpg?v=1779917378
   Price: $6.00 CAD
 - [Fine Art Greeting Cards"Black Tusk" Whistler, BC  - Artist](https://www.grahamwattsart.com/products/order-black-tusk-whistler-bc-fine-art-greeting-cards): Order "Black Tusk" Whistler, BC Fine Art Greeting Cards for just $6 each or 5 for $20. Perfect for personal messages and holiday greetings!
-  Updated: 2026-07-03T17:28:01Z
+  Updated: 2026-08-20T20:27:35Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-black-tusk-whistler-bc-fine-art-greeting-cards-9989651.jpg?v=1779917387
   Price: $6.00 CAD
 - [Fine Art Greeting Cards: Snow Art. By artist Graham Watts](https://www.grahamwattsart.com/products/order-shot-gun-skiing-fine-art-greeting-cards): Order "SHOT GUN” Skiing Fine Art Greeting Cards to send love and holiday cheer. Available in affordable packs today!
-  Updated: 2026-07-03T17:28:21Z
+  Updated: 2026-08-20T20:27:35Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-shot-gun-skiing-fine-art-greeting-cards-2263248.jpg?v=1779917392
   Price: $7.00 CAD
 - [Art Greeting Cards "GRIZZ" Grizzly Bear - Local Artist](https://www.grahamwattsart.com/products/order-grizz-grizzly-bear-fine-art-greeting-cards): Order "GRIZZ" Grizzly Bear Fine Art Greeting Cards to spread love and cheer. Available individually or in packs for great value!
-  Updated: 2026-07-03T17:28:11Z
+  Updated: 2026-08-20T20:27:35Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-grizz-grizzly-bear-fine-art-greeting-cards-3520220.jpg?v=1779917396
   Price: $6.00 CAD
 - [Order "TEDDY" Grizzly Bear Fine Art Greeting Cards - Artist Graham](https://www.grahamwattsart.com/products/order-teddy-grizzly-bear-fine-art-greeting-cards): Order "TEDDY" Grizzly Bear Fine Art Greeting Cards today for heartfelt notes and holiday cheer! Available individually or in a set.
-  Updated: 2026-07-03T17:28:31Z
+  Updated: 2026-08-20T20:27:35Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-teddy-grizzly-bear-fine-art-greeting-cards-3918418.jpg?v=1779917400
   Price: $6.00 CAD
 - [Art Greeting Cards Polar Bear original art](https://www.grahamwattsart.com/products/order-polar-bear-fine-art-greeting-cards): Order Polar Bear Fine Art Greeting Cards today! Perfect for spreading love and cheer, these cards are blank inside for your personal message.
-  Updated: 2026-07-03T17:28:41Z
+  Updated: 2026-08-20T20:27:51Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-polar-bear-fine-art-greeting-cards-5644500.jpg?v=1779917406
   Price: $7.00 CAD
 - [Tantalus Range Painting Squamish | Graham Watts](https://www.grahamwattsart.com/products/mountain-peaks-of-tantalus-squamish-bc): Discover Mountain Peaks of Tantalus, a one-of-a-kind 40 × 30-inch Squamish mountain oil painting by Canadian artist Graham Watts.
-  Updated: 2026-07-19T09:58:25Z
+  Updated: 2026-08-20T20:27:51Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/mountain_art-peaks-of-tantalus-squamish-bc-2195138.jpg?v=1779917409
   Price: $2,999.00 CAD
 - [Luminous Guardian Wolf Painting | Graham Watts](https://www.grahamwattsart.com/products/wildlife-art-luminous-guardian-wolf): Discover Luminous Guardian, a one-of-a-kind 30 × 40-inch wolf oil painting by Canadian artist Graham Watts. Signed, ready to hang and available.
-  Updated: 2026-07-19T06:24:59Z
+  Updated: 2026-08-20T20:27:52Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/Wildlife_oil_painting_by_Graham_Watts_Wolf.jpg?v=1779917457
   Price: $2,999.00 CAD
 - [Soul of an Eagle Bald Eagle Painting | Graham Watts](https://www.grahamwattsart.com/products/eagle-artwork-soul-of-an-eagle-bold-bald-eagle): Discover Soul of an Eagle, a one-of-a-kind 30 × 40-inch bald eagle oil painting by Canadian artist Graham Watts. Signed and ready to hang.
-  Updated: 2026-07-19T09:24:29Z
+  Updated: 2026-08-20T20:26:56Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/Wildlife_oil_painting_by_Graham_Watts_Eagle.gif?v=1780447485
   Price: $2,999.00 CAD
 - [Black Tusk Whistler Painting | Graham Watts](https://www.grahamwattsart.com/products/mountain-landscape-art-black-tusk-whistler-bc): Discover Black Tusk, a one-of-a-kind 40 × 30-inch Whistler mountain oil painting by Canadian artist Graham Watts. Signed and ready to hang.
-  Updated: 2026-07-19T09:12:42Z
+  Updated: 2026-08-20T20:27:52Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/black-tusk-whistler-bc-5034195.jpg?v=1779917468
   Price: $2,999.00 CAD
 - [Snowcat Serenity Winter Painting | Graham Watts](https://www.grahamwattsart.com/products/winter-art-snowcat-serenity): Discover Snowcat Serenity, an original 16 × 12-inch oil painting of a red snow groomer crossing a quiet winter landscape at twilight.
-  Updated: 2026-07-19T10:46:54Z
+  Updated: 2026-08-20T20:27:54Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/snowcat-serenity-5402984.jpg?v=1779917510
   Price: $369.00 CAD
 - [Grizzly Bear Painting “Grizz” | Graham Watts](https://www.grahamwattsart.com/products/wildlife-painting-grizz-grizzly-bear): Meet Grizz, a one-of-a-kind 30 × 40-inch grizzly bear oil painting by Canadian artist Graham Watts. Signed, ready to hang and available.
-  Updated: 2026-07-30T06:43:47Z
+  Updated: 2026-08-20T20:27:55Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/wildlife_oil_painting_by_graham_Watts_grizz-grizzly-bear-2321187.jpg?v=1779917522
   Price: $2,999.00 CAD
 - [Wolf Art - Limited Edition Print of "Luminous Guardian"](https://www.grahamwattsart.com/products/wolf-limited-edition-print-luminous-guardian): Explore the stunning "Luminous Guardian" Wolf Art- Limited Edition Print by Graham Watts. A radiant piece that captivates and enlivens any space.
-  Updated: 2026-07-01T20:35:30Z
+  Updated: 2026-08-20T20:27:56Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/luminous-guardian-wolf-limited-edition-print-3936051.jpg?v=1779917537
   Price: $499.00 CAD
 - [Jack Poole Plaza Vancouver Painting | Graham Watts](https://www.grahamwattsart.com/products/rain-and-reflections-at-jack-poole-vancouver-cityscapes): Discover an original 48 × 36-inch oil painting of rainy Jack Poole Plaza and the Fairmont Pacific Rim in downtown Vancouver by Graham Watts.
-  Updated: 2026-07-19T10:40:55Z
+  Updated: 2026-08-20T20:28:10Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/vancouver-cityscapes-rain-and-reflections-at-jack-poole-6681962.jpg?v=1779917543
   Price: $2,499.00 CAD
 - [Spirit of the North Grizzly Bear Painting | Graham Watts](https://www.grahamwattsart.com/products/grizzly-bear-painting-spirit-of-the-north): Discover Spirit of the North, a one-of-a-kind 30 × 40-inch grizzly bear oil painting by Canadian artist Graham Watts. Signed and ready to hang.
-  Updated: 2026-07-30T20:26:46Z
+  Updated: 2026-08-22T18:46:17Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
@@ -374,8 +374,8 @@
   Updated: 2026-07-29T17:34:32Z
   Total Products: 9
 - [Original Canadian Oil Paintings](https://www.grahamwattsart.com/collections/buy-original-art): Shop original Canadian oil paintings by Graham Watts, featuring wildlife, Whistler mountains, Vancouver scenes and bold West Coast landscapes.
-  Updated: 2026-07-30T02:30:25Z
-  Total Products: 14
+  Updated: 2026-08-17T04:13:18Z
+  Total Products: 13
 - [Custom Oil Painting Commissions by Graham Watts](https://www.grahamwattsart.com/collections/fine-art-commissions):  a custom oil painting from Vancouver artist Graham Watts. Wildlife, Whistler, Vancouver and landscape art created personally for your space.
   Updated: 2026-07-30T18:06:12Z
   Total Products: 9
@@ -389,8 +389,8 @@
   Updated: 2026-07-29T17:34:11Z
   Total Products: 20
 - [Sold Original Paintings](https://www.grahamwattsart.com/collections/sold-original-paintings): Explore sold original Canadian oil paintings by Graham Watts, then discover available artwork or  a new wildlife, mountain or cityscape painting.
-  Updated: 2026-07-30T18:06:13Z
-  Total Products: 40
+  Updated: 2026-08-17T04:13:18Z
+  Total Products: 41
 - [Grizzly Bear Paintings & Prints](https://www.grahamwattsart.com/collections/grizzly-bear-paintings-prints): Shop grizzly bear paintings and signed limited-edition prints by Canadian wildlife artist Graham Watts. Original art in CAD with shipping available.
   Updated: 2026-07-30T02:30:25Z
   Total Products: 26
