@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2026-02-10T08:47:42Z
 - Contact Email: sales@battskin.com
-- Updated At: 2026-08-14T00:00:38.110Z
+- Updated At: 2026-08-23T00:00:40.645Z
 
 Home Battery Covers - Protect Your Solar Battery
 Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, BYD and GoodWe Home Solar Battery from heat, UV and harsh weather — extending the life of your Solar Batteries.
@@ -27,6 +27,13 @@ Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, B
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/8406/9691/files/Frame18_6.png?v=1770806992
   Price: $335.00 AUD
+- [Tuya WiFi/Zigbee Smart Temperature Humidity Sensor Outdoor IP65 Waterproof APP Remote Monitoring Works With Alexa Google Home](https://battskin.com/products/tuya-wifi-zigbee-smart-temperature-humidity-sensor-outdoor-ip65-waterproof-app-remote-monitoring-works-with-alexa-google-home): Smart Home Compatibility Works seamlessly with Amazon Alexa and Google Home for voice control. Integrates with the Smart Life or Tuya Smart app for full remote monitoring and smart automation. Battery Surface Temperature Monitoring is designed to monitor temperature around battery surfaces, helping users keep track of battery temperature and identify excessive heat. This makes it a useful solution for battery thermal protection applications across Australia. Accurate Environmental Monitoring Measures temperature from -15℃ to +60℃ and humidity from 0-99%RH with high precision, ideal for indoor and outdoor climate tracking. IP65 Waterproof Design Rated IP65, this sensor is dustproof and protected against water jets, making it suitable for outdoor use in harsh weather conditions. Wireless Connectivity Options Supports both 2.4G WiFi and Tuya Zigbee for flexible smart home integration. Choose the best connection type based on your existing setup. Low Power Consumption Features a quiescent current of ≤10uA and alarm current of ≤15mA, ensuring long battery life with just 2 x AAA batteries. Compact and Durable Build Compact dimensions of 9 x 4 x 4 cm and a lightweight 0.040 kg package make it easy to install and transport. Available in Black or White for versatile placement. Trusted Certification & Brand  with CE, FCC, RoHS standards. Built by Aessy, this sensor ensures safety, reliability, and compliance with international regulations.
+  Updated: 2026-08-17T03:55:47Z
+  Vendor: Battskin
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0659/8406/9691/files/S37eeb60ccb4941afb5e004acd6359897g.avif?v=1786424156
+  Price: $25.52 AUD
 
 ## Collections
 
@@ -45,6 +52,9 @@ Beautifully designed Battery Covers that shield your Tesla Powerwall, Sungrow, B
     Author: Ian Boake
   - [Fox ESS Battery Protection: Why Installers Recommend](https://battskin.com/blogs/news/why-professional-installers-recommend-fox-ess-battery-sun-protection-for-all-homes): Fox ESS Battery Protection: Why Installers Recommend
     Updated: 2026-08-03T03:55:10Z
+    Author: Ian Boake
+  - [Australia’s Home Battery Boom Has a Hidden Enemy: Heat](https://battskin.com/blogs/news/australia-s-home-battery-boom-has-a-hidden-enemy-heat)
+    Updated: 2026-08-18T07:08:36Z
     Author: Ian Boake
 
 ## Store Pages
