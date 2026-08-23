@@ -6,27 +6,22 @@
 - Timezone: Europe/Prague
 - Created At: 2026-05-19T16:44:51Z
 - Contact Email: jogaspetrem@gmail.com
-- Updated At: 2026-08-12T00:00:39.120Z
+- Updated At: 2026-08-23T00:00:44.499Z
 
 ## Products
 
-- [Hormonální jógová terapie pro muže podle Dinah Rodrigues](https://online.jogaspetrem.cz/products/hormonalni-jogova-terapie-pro-muze-podle-dinah-rodrigues): Kompletní online kurz Hormonální jógové terapie pro muže podle Dinah Rodrigues. 6 lekcí, které Vás krok za krokem provedu celým systémem. Od zahřívací části až po samotné cvičení. Přirozená cesta k optimální hladině testosteronu, vitalitě a zdraví.
-  Updated: 2026-08-07T16:14:22Z
+- [Testosteron yoga terapie podle Dinah Rodrigues](https://online.jogaspetrem.cz/products/hormonalni-jogova-terapie-pro-muze-podle-dinah-rodrigues): Kompletní online kurz Hormonální jógové terapie pro muže podle metody vytvořené Dinah Rodrigues. 6 lekcí, které vás krok za krokem provedou celým systémem – od zahřívacích cvičení až po samotnou sestavu. Přirozená cesta k podpoře zdravé hladiny testosteronu, vitality a celkové pohody.
+  Updated: 2026-08-22T21:38:02Z
   Vendor: Můj obchod
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8218/5290/files/658757613_18365426926206935_7018853831073952484_n.jpg?v=1779656742
-  - [6 měsíců](https://online.jogaspetrem.cz/products/hormonalni-jogova-terapie-pro-muze-podle-dinah-rodrigues?variant=61908188823882)
-    Availability: Available
-    Price: 3 850,00 Kč CZK
-  - [12 měsíců](https://online.jogaspetrem.cz/products/hormonalni-jogova-terapie-pro-muze-podle-dinah-rodrigues?variant=61908188856650)
-    Availability: Available
-    Price: 5 500,00 Kč CZK
+  Price: 4 990,00 Kč CZK
 
 ## Collections
 
 - [Domovská stránka](https://online.jogaspetrem.cz/collections/frontpage)
-  Updated: 2026-07-28T12:17:45Z
+  Updated: 2026-08-22T21:38:03Z
   Total Products: 1
 
 ## Store Pages
