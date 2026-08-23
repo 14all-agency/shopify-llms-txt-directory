@@ -5,27 +5,27 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2023-01-10T17:18:42Z
-- Updated At: 2026-08-14T00:00:43.541Z
+- Updated At: 2026-08-23T00:00:45.551Z
 
 ## Products
 
-- [NOT Snake Oil Adaptogen Elixir | Dumb Healthy](https://dumbhealthy.com/products/t-s-not-snake-oil-pain-relief-adaptogen-elixer): A dropper-style botanical elixir with mushroom ingredients, available in 15 ml, 30 ml and 60 ml sizes.
-  Updated: 2026-08-09T15:14:20Z
+- [NOT Snake Oil Adaptogen Elixir | Dumb Healthy](https://dumbhealthy.com/products/not-snake-oil-adaptogen-elixir): A dropper-style botanical elixir with mushroom ingredients, available in 15 ml, 30 ml and 60 ml sizes.
+  Updated: 2026-08-22T16:36:53Z
   Vendor: Dumb Healthy
   Product Type: Elixir
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/products/TeddStanleyBig.jpg?v=1675118120
-  - [LARGE 30ml](https://dumbhealthy.com/products/t-s-not-snake-oil-pain-relief-adaptogen-elixer?variant=44174128742691)
+  - [LARGE 30ml](https://dumbhealthy.com/products/not-snake-oil-adaptogen-elixir?variant=44174128742691)
     Availability: Available
     Price: $65.00 USD
-  - [XXL 60ml](https://dumbhealthy.com/products/t-s-not-snake-oil-pain-relief-adaptogen-elixer?variant=44174128775459)
+  - [XXL 60ml](https://dumbhealthy.com/products/not-snake-oil-adaptogen-elixir?variant=44174128775459)
     Availability: Available
     Price: $110.00 USD
-  - [SMALL 15ml](https://dumbhealthy.com/products/t-s-not-snake-oil-pain-relief-adaptogen-elixer?variant=44174132871459)
+  - [SMALL 15ml](https://dumbhealthy.com/products/not-snake-oil-adaptogen-elixir?variant=44174132871459)
     Availability: Available
     Price: $35.00 USD
 - [Dumb Healthy Coffee - Bean Stashe Roast](https://dumbhealthy.com/products/dumb-healthy-coffee-bean-stashe-roast): Dumb Healthy Coffee - Bean Stashe Roast, available in 12 oz and 5 lb sizes with Ethiopian beans listed in the product copy.
-  Updated: 2026-08-09T15:12:39Z
+  Updated: 2026-08-22T12:30:32Z
   Vendor: Dumb Healthy
   Product Type: Coffee
   Availability: Available
@@ -36,15 +36,15 @@
   - [SMALL 12oz](https://dumbhealthy.com/products/dumb-healthy-coffee-bean-stashe-roast?variant=44174232289571)
     Availability: Available
     Price: $25.00 USD
-- [Elderberry Wellness Syrup | Dumb Healthy](https://dumbhealthy.com/products/elderberyy-syrup): A 32 oz elderberry wellness syrup made with elderberries, botanicals, local raw honey, and simple daily-use guidance.
-  Updated: 2026-08-09T15:12:23Z
+- [Elderberry Wellness Syrup | Dumb Healthy](https://dumbhealthy.com/products/elderberry-wellness-syrup): A 32 oz elderberry wellness syrup made with elderberries, botanicals, local raw honey, and simple daily-use guidance.
+  Updated: 2026-08-22T15:54:29Z
   Vendor: Dumb Healthy
   Product Type: Syrup
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ChatGPT_Image_Mar_22_2026_06_13_16_PM.png?v=1774217660
   Price: $45.00 USD
 - [Blue MITnight Blue Lotus Extract | Dumb Healthy](https://dumbhealthy.com/products/blue-mitnight): Blue MITnight is a 15 ml Blue Lotus extract in a dropper bottle for a simple botanical product format.
-  Updated: 2026-08-09T15:14:31Z
+  Updated: 2026-08-22T13:43:05Z
   Vendor: Dumb Healthy
   Product Type: Natural Extracts
   Availability: Available
@@ -58,7 +58,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260329155602-chatgpt-image-mar-29--2026--03-55-49-pm.png?v=1774814189
   Price: $35.00 USD
 - [Lion's Mane Mushroom Capsules | Dumb Healthy](https://dumbhealthy.com/products/lions-mane-mushroom): Lion's Mane mushroom capsules with organic fruiting body and mycelium powder, clear serving directions, and label details.
-  Updated: 2026-08-09T15:13:13Z
+  Updated: 2026-08-22T13:27:30Z
   Vendor: Dumb Healthy
   Product Type: Natural Extracts
   Availability: Available
@@ -72,7 +72,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/1769138437600-generated-label-image-0.jpg?v=1769549884
   Price: $62.00 USD
 - [10X Mushroom Complex Capsules | Dumb Healthy](https://dumbhealthy.com/products/10-x-mushroom-complex): A 10-mushroom capsule blend with cordyceps, reishi, shiitake, lion's mane, maitake, turkey tail, chaga and more.
-  Updated: 2026-08-09T15:12:30Z
+  Updated: 2026-08-22T11:15:29Z
   Vendor: Dumb Healthy
   Product Type: Natural Extracts
   Availability: Available
@@ -86,14 +86,14 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ChatGPT_Image_Mar_29_2026_04_54_26_PM.png?v=1774817765
   Price: $24.99 USD
 - [Diet Consultation & Coaching | Dumb Healthy](https://dumbhealthy.com/products/diet-consultation-and-coaching): Practical nutrition, routine and lifestyle coaching from Dumb Healthy for structure, accountability and clearer daily choices.
-  Updated: 2026-08-09T15:14:14Z
+  Updated: 2026-08-22T13:17:04Z
   Vendor: Dumb Healthy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/ChatGPT_Image_Mar_29_2026_05_42_16_PM.png?v=1774820625
   Price: $500.00 USD
 - [Organic Irish Sea Moss Capsules | Dumb Healthy](https://dumbhealthy.com/products/organic-irish-sea-moss): Organic Irish Sea Moss capsules with bladderwrack, burdock and BioPerine in a simple daily supplement format.
-  Updated: 2026-08-09T15:13:36Z
+  Updated: 2026-08-22T13:47:36Z
   Vendor: Dumb Healthy
   Product Type: Natural Extracts
   Availability: Available
@@ -107,7 +107,7 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/products/honeyjar.webp?v=1677545917
   Price: $30.00 USD
 - [Pasture Raised Beef Liver Dog Treats | Dumb Healthy](https://dumbhealthy.com/products/dog-treats-pasture-raised-beef-liver): Simple pasture-raised beef liver dog treats from Dumb Healthy for ingredient-forward treating without  pet claims.
-  Updated: 2026-08-09T15:19:05Z
+  Updated: 2026-08-22T15:54:06Z
   Vendor: Dumb Healthy
   Product Type: Dog Treats
   Availability: Available
@@ -135,8 +135,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260329160405-chatgpt-image-mar-29--2026--04-01-36-pm.png?v=1774814663
   Price: $26.90 USD
-- [Hangover Oral Strips | Dumb Healthy](https://dumbhealthy.com/products/hangover-strips): Convenient oral strips made with a blend of vitamins, minerals and botanicals for simple after-party routine support.
-  Updated: 2026-08-08T01:13:47Z
+- [Hangover Oral Strips | Dumb Healthy](https://dumbhealthy.com/products/date-palm-turmeric-oral-strips): Convenient oral strips made with a blend of vitamins, minerals and botanicals for simple after-party routine support.
+  Updated: 2026-08-22T11:14:47Z
   Vendor: Dumb Healthy
   Product Type: Specialty Supplements
   Availability: Available
@@ -149,29 +149,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260329175703-chatgpt-image-mar-29--2026--05-55-19-pm.png?v=1774821438
   Price: $39.00 USD
-- [Max Detox Acai Supplement | Dumb Healthy](https://dumbhealthy.com/products/max-detox-acai-detox): Max Detox is a dietary supplement with acai and other ingredients, made for people building a simple daily wellness routine.
-  Updated: 2026-08-09T03:19:31Z
+- [Max Detox Acai Supplement | Dumb Healthy](https://dumbhealthy.com/products/acai-fiber-botanical-blend): Max Detox is a dietary supplement with acai and other ingredients, made for people building a simple daily wellness routine.
+  Updated: 2026-08-22T13:23:23Z
   Vendor: Dumb Healthy
   Product Type: Digestive Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260329160513-chatgpt-image-mar-29--2026--04-03-38-pm.png?v=1774814730
   Price: $29.90 USD
 - [Fruits and Veggies Superfood Capsules | Dumb Healthy](https://dumbhealthy.com/products/fruits-and-veggies): A fruits and veggies supplement with plant-based ingredients for simple daily nutrient support and practical wellness routines.
-  Updated: 2026-08-09T03:19:40Z
+  Updated: 2026-08-22T15:57:44Z
   Vendor: Dumb Healthy
   Product Type: Greens & Superfoods
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260329160904-chatgpt-image-mar-29--2026--04-08-48-pm.png?v=1774814981
   Price: $49.95 USD
 - [Ginkgo Biloba + Ginseng Capsules | Dumb Healthy](https://dumbhealthy.com/products/ginkgo-biloba-ginseng): A specialty supplement combining ginkgo biloba and ginseng for people looking for simple botanical support in their daily routine.
-  Updated: 2026-08-09T03:19:49Z
+  Updated: 2026-08-22T11:32:47Z
   Vendor: Dumb Healthy
   Product Type: Specialty Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260329154549-chatgpt-image-mar-29--2026--03-45-34-pm.png?v=1774813580
   Price: $29.90 USD
 - [Liver Support Supplement | Dumb Healthy](https://dumbhealthy.com/products/liver-support): A liver support supplement with turmeric, beetroot and other ingredients designed to support everyday wellness routines.
-  Updated: 2026-08-09T03:20:01Z
+  Updated: 2026-08-22T15:54:52Z
   Vendor: Dumb Healthy
   Product Type: Digestive Support
   Availability: Available
@@ -192,14 +192,14 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260402175049-chatgpt-image-apr-2--2026--05-50-40-pm.png?v=1775166676
   Price: $27.69 USD
 - [Beetroot Capsules | Dumb Healthy](https://dumbhealthy.com/products/beetroot): Organic beetroot powder capsules with simple serving directions, label details, and a straightforward plant-based supplement format.
-  Updated: 2026-08-09T15:14:05Z
+  Updated: 2026-08-22T11:29:03Z
   Vendor: Dumb Healthy
   Product Type: Post-Workout Recovery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260402171428-chatgpt-image-apr-2--2026--05-14-21-pm.png?v=1775164480
   Price: $20.90 USD
 - [Reishi Relax Mushroom Gummies | Dumb Healthy](https://dumbhealthy.com/products/reishi-relax-gummies): Reishi Relax Gummies combine functional mushrooms and botanicals in an easy gummy format for simple relaxation support.
-  Updated: 2026-08-09T03:25:08Z
+  Updated: 2026-08-22T16:28:04Z
   Vendor: Dumb Healthy
   Product Type: Mushroom Products
   Availability: Available
@@ -227,21 +227,21 @@
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260403151054-chatgpt-image-apr-3--2026--03-10-21-pm.png?v=1775243471
   Price: $39.09 USD
 - [Chaga Mushroom Capsules | Dumb Healthy](https://dumbhealthy.com/products/chaga-mushroom): Chaga mushroom capsules made for simple daily functional mushroom support, with clear ingredients and practical use instructions.
-  Updated: 2026-08-08T01:01:58Z
+  Updated: 2026-08-22T11:11:38Z
   Vendor: Dumb Healthy
   Product Type: Mushroom Products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260403135157-chatgpt-image-apr-3--2026--01-51-46-pm.png?v=1775245151
   Price: $29.90 USD
 - [GOOD STUFF Cognitive Support | Dumb Healthy](https://dumbhealthy.com/products/good-stuff-cognitive-support): GOOD STUFF Cognitive Support combines vitamins, amino acids and botanicals in a simple supplement for focus-minded daily routines.
-  Updated: 2026-08-09T03:25:47Z
+  Updated: 2026-08-22T15:55:19Z
   Vendor: Dumb Healthy
   Product Type: Brain & Cognitive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/20260403140613-chatgpt-image-apr-3--2026--02-06-00-pm.png?v=1775239616
   Price: $29.90 USD
-- [5x Peptide Hair Growth Serum | Dumb Healthy](https://dumbhealthy.com/products/peptide-hair-growth-serum): A cosmetic hair serum with five peptides and botanical extracts, made for simple scalp and hair-care support.
-  Updated: 2026-08-09T03:25:53Z
+- [5x Peptide Hair Growth Serum | Dumb Healthy](https://dumbhealthy.com/products/peptide-hair-scalp-serum): A cosmetic hair serum with five peptides and botanical extracts, made for simple scalp and hair-care support.
+  Updated: 2026-08-22T10:56:59Z
   Vendor: Dumb Healthy
   Product Type: Hair Care
   Availability: Available
@@ -3043,7 +3043,7 @@
   Updated: 2026-08-09T03:14:45Z
   Total Products: 39
 - [Supplements](https://dumbhealthy.com/collections/supplements): Shop Dumb Healthy supplements, including capsules, gummies, powders, drops, strips, and simple wellness products organized for everyday routines.
-  Updated: 2026-08-10T00:46:31Z
+  Updated: 2026-08-22T00:01:09Z
   Total Products: 26
 - [Coffee & Beverages](https://dumbhealthy.com/collections/coffee-beverages): Shop Dumb Healthy coffee, mushroom coffee, teas, and beverage-friendly wellness products for simple daily routines.
   Updated: 2026-08-09T03:12:45Z
@@ -3063,16 +3063,19 @@
 - [Hobe Sound Jewelers Merch](https://dumbhealthy.com/collections/hobe-sound-jewelers-merch): Shop official Hobe Sound Jewelers merch — tees, long sleeves, jackets, and more. Wear the HSJ legacy.
   Updated: 2026-08-11T00:19:31Z
   Total Products: 1
+- [Road Trip Merch](https://dumbhealthy.com/collections/road-trip-merch): Wear your American pride. Road Trip merch featuring license plate collage designs — hoodies, shorts, totes, and more for the free-spirited.
+  Updated: 2026-08-20T21:59:26Z
+  Total Products: 17
 
 ## Blogs
 
 - [News](https://dumbhealthy.com/blogs/news)
   - [How to Add Sea Moss to a Simple Routine](https://dumbhealthy.com/blogs/news/dive-into-your-day-with-the-power-of-organic-irish-sea-moss): A practical guide to adding sea moss to a routine by comparing formats, reading labels, and keeping expectations realistic.
-    Updated: 2026-08-09T03:18:23Z
+    Updated: 2026-08-21T02:34:41Z
     Author: Dumb Healthy LLC
     Tags: Healthy, Irish Sea Moss, Organic
   - [Irish Sea Moss: What It Is and How to Read the Label](https://dumbhealthy.com/blogs/news/supercharge-your-wellness-with-irish-sea-moss-5-reasons-its-the-oceans-mvp): A plain-English guide to Irish sea moss that focuses on product format, label reading, ingredients, serving directions, and safety notes.
-    Updated: 2026-08-09T03:18:12Z
+    Updated: 2026-08-21T02:34:52Z
     Author: Dumb Healthy LLC
     Tags: easy, happy, Healthy, Irish Sea Moss, new, Organic, Simple, wellness
   - [Microgreens: Tiny Greens, Simple Food Logic](https://dumbhealthy.com/blogs/news/what-makes-micro-greens-a-superfood): A simple, no-hype guide to microgreens: what they are, why people use them, and how to add them to everyday meals.
@@ -3093,10 +3096,6 @@
     Updated: 2026-02-05T07:01:04Z
     Author: A
     Tags: eating habits, emotional, health, mindful eating, overcoming food cravings, strategies for emotional eating, weight management, wellness
-  - [The Importance of Mental Health in Children: Signs and Solutions](https://dumbhealthy.com/blogs/news/the-importance-of-mental-health-in-children-signs-and-solutions): The Importance of Mental Health in Children: Signs and Solutions
-    Updated: 2026-02-08T07:00:52Z
-    Author: A
-    Tags: child mental, education, emotional support, health awareness, mental, signs of anxiety, solutions for stress, wellness
   - [A Beginner’s Guide to Mindful Meditation for Stress Relief](https://dumbhealthy.com/blogs/news/a-beginner-s-guide-to-mindful-meditation-for-stress-relief): A Beginner’s Guide to Mindful Meditation for Stress Relief
     Updated: 2026-02-09T07:05:13Z
     Author: A
@@ -3157,10 +3156,6 @@
     Updated: 2026-03-15T07:01:10Z
     Author: A
     Tags: cultivate mindful practices, health, healthy habits, improve nutrition habits, mindful eating, mindfulness, nutrition tips, wellness
-  - [Key Practices for Enhancing Brain Health](https://dumbhealthy.com/blogs/news/key-practices-for-enhancing-brain-health): Key Practices for Enhancing Brain Health
-    Updated: 2026-03-16T07:05:46Z
-    Author: A
-    Tags: boost brain function, brain, cognitive training, health, improve brain health, mental exercises, nutrition tips, wellness
   - [The Influence of Social Connections on Mental and Physical Health](https://dumbhealthy.com/blogs/news/the-influence-of-social-connections-on-mental-and-physical-health): The Influence of Social Connections on Mental and Physical Health
     Updated: 2026-03-19T07:01:15Z
     Author: A
@@ -3169,26 +3164,14 @@
     Updated: 2026-03-22T07:00:49Z
     Author: A
     Tags: benefits of plant-based nutrition, health, healthy eating, holistic approach, nutrition, plant-based diet, plant-based lifestyle advantages, wellness
-  - [Understanding the Basics of Heart Health Education](https://dumbhealthy.com/blogs/news/understanding-the-basics-of-heart-health-education): Understanding the Basics of Heart Health Education
-    Updated: 2026-03-23T07:06:22Z
-    Author: A
-    Tags: health, health basics, heart, heart education, heart health information, understanding heart health, wellness, wellness education
   - [Strategies for Overcoming Emotional Barriers to Exercising](https://dumbhealthy.com/blogs/news/strategies-for-overcoming-emotional-barriers-to-exercising): Strategies for Overcoming Emotional Barriers to Exercising
     Updated: 2026-03-26T07:01:19Z
     Author: A
     Tags: emotional barriers, exercise tips, fitness, health education, motivation, overcoming exercise challenges, strategies for physical activity, wellness
-  - [The Power of Mental Wellness in Overall Health](https://dumbhealthy.com/blogs/news/the-power-of-mental-wellness-in-overall-health): The Power of Mental Wellness in Overall Health
-    Updated: 2026-03-29T07:01:03Z
-    Author: A
-    Tags: benefits of mental wellness, health education, improving overall health, mental, mental health, self-care practices, well-being, wellness
   - [Effective Ways to Manage Screen Time for Better Sleep](https://dumbhealthy.com/blogs/news/effective-ways-to-manage-screen-time-for-better-sleep): Effective Ways to Manage Screen Time for Better Sleep
     Updated: 2026-03-30T07:07:08Z
     Author: A
     Tags: better sleep, digital wellness, effective strategies for sleep, health, managing screen time for health, screen time, sleep management, wellness
-  - [Exploring the Connection Between Nutrition and Mood](https://dumbhealthy.com/blogs/news/exploring-the-connection-between-nutrition-and-mood): Exploring the Connection Between Nutrition and Mood
-    Updated: 2026-04-02T07:01:15Z
-    Author: A
-    Tags: emotional wellbeing, healthy eating, mental health, mood, nutrition, nutrition and mood connection, relationship between food and emotion, wellness
   - [Tips for Building a Customized Self-Care Routine](https://dumbhealthy.com/blogs/news/tips-for-building-a-customized-self-care-routine): Tips for Building a Customized Self-Care Routine
     Updated: 2026-04-05T07:01:40Z
     Author: A
@@ -3201,10 +3184,6 @@
     Updated: 2026-04-09T07:01:12Z
     Author: A
     Tags: community, community wellness initiatives, educational resources, fostering health in communities, health, health workshops, wellness, wellness programs
-  - [Identifying Beneficial Supplements for Athletic Performance](https://dumbhealthy.com/blogs/news/identifying-beneficial-supplements-for-athletic-performance): Identifying Beneficial Supplements for Athletic Performance
-    Updated: 2026-04-12T07:02:02Z
-    Author: A
-    Tags: athletic performance, beneficial supplements, best supplements for athletes, health, nutrition for athletes, performance enhancement, supplements, wellness
   - [Embracing Mindfulness to Improve Workplace Well-Being](https://dumbhealthy.com/blogs/news/embracing-mindfulness-to-improve-workplace-well-being): Embracing Mindfulness to Improve Workplace Well-Being
     Updated: 2026-04-13T07:07:32Z
     Author: A
@@ -3217,46 +3196,10 @@
     Updated: 2026-04-19T07:01:39Z
     Author: A
     Tags: education, ethical health practices, health, health information, improving personal health, misinformation prevention, wellness, wellness tips
-  - [Practical Solutions for Managing Seasonal Allergies](https://dumbhealthy.com/blogs/news/practical-solutions-for-managing-seasonal-allergies): Practical Solutions for Managing Seasonal Allergies
-    Updated: 2026-04-20T07:08:03Z
-    Author: A
-    Tags: allergies, allergy management, health tips, immunity, natural remedies for seasonal allergies, practical solutions for allergies, seasonal allergies, wellness
-  - [An In-depth Exploration of Bone Health and Nutrition](https://dumbhealthy.com/blogs/news/an-in-depth-exploration-of-bone-health-and-nutrition): An In-depth Exploration of Bone Health and Nutrition
-    Updated: 2026-04-23T07:01:14Z
-    Author: A
-    Tags: bone health, bone health tips, health, healthy bones, importance of calcium, nutrition, nutritional education, wellness
-  - [How to Educate Children on Self-Care and Hygiene Practices](https://dumbhealthy.com/blogs/news/how-to-educate-children-on-self-care-and-hygiene-practices): How to Educate Children on Self-Care and Hygiene Practices
-    Updated: 2026-04-26T07:01:40Z
-    Author: A
-    Tags: children wellness, education, healthy habits, hygiene, hygiene practices for children, parent guidance, self-care, teaching kids self-care
-  - [Innovative Tools for Teaching Nutrition to Young Adults](https://dumbhealthy.com/blogs/news/innovative-tools-for-teaching-nutrition-to-young-adults): Innovative Tools for Teaching Nutrition to Young Adults
-    Updated: 2026-04-27T07:08:36Z
-    Author: A
-    Tags: education, healthy eating, interactive nutrition resources, nutrition, nutritional tools, teaching nutrition methods, wellness, young adults nutrition
-  - [Mastering the Basics of Cardiovascular Health](https://dumbhealthy.com/blogs/news/mastering-the-basics-of-cardiovascular-health): Mastering the Basics of Cardiovascular Health
-    Updated: 2026-04-30T07:01:17Z
-    Author: A
-    Tags: basics of cardiovascular wellness, cardio, cardiovascular education, fitness tips, health, heart health, improve cardiovascular health, wellness
   - [How to Create a Successful Health and Wellness Workshop](https://dumbhealthy.com/blogs/news/how-to-create-a-successful-health-and-wellness-workshop): How to Create a Successful Health and Wellness Workshop
     Updated: 2026-05-03T07:01:57Z
     Author: A
     Tags: effective wellness programs, fitness, health, health workshops, successful health and wellness, wellness, wellness education, workshop planning
-  - [Preventing Occupational Burnout: Strategies You Need to Know](https://dumbhealthy.com/blogs/news/preventing-occupational-burnout-strategies-you-need-to-know): Preventing Occupational Burnout: Strategies You Need to Know
-    Updated: 2026-05-04T07:08:13Z
-    Author: A
-    Tags: burnout, employee wellness programs, health, mental health resources, occupational stress, preventing burnout tips, wellness, workplace strategies
-  - [How to Educate People on Effective And Safe Exercise Techniques](https://dumbhealthy.com/blogs/news/how-to-educate-people-on-effective-and-safe-exercise-techniques): How to Educate People on Effective And Safe Exercise Techniques
-    Updated: 2026-05-07T07:01:13Z
-    Author: A
-    Tags: educating about fitness, effective training, exercise techniques, fitness, health, learn proper exercise, safe workout, wellness
-  - [The Benefits of Integrating Yoga into Your Daily Routine](https://dumbhealthy.com/blogs/news/the-benefits-of-integrating-yoga-into-your-daily-routine): The Benefits of Integrating Yoga into Your Daily Routine
-    Updated: 2026-05-10T07:02:18Z
-    Author: A
-    Tags: benefits of yoga, daily routine, fitness benefits, health, integrating yoga daily, mindfulness practices, wellness, yoga
-  - [How Outdoor Exercise Improves Mental Health](https://dumbhealthy.com/blogs/news/how-outdoor-exercise-improves-mental-health): How Outdoor Exercise Improves Mental Health
-    Updated: 2026-05-11T07:08:41Z
-    Author: A
-    Tags: benefits of outdoor exercise, exercise, fitness, improve mental wellbeing, mental health, outdoor activity, stress relief, wellness
   - [Revitalize Your Lifestyle: Detoxifying Superfoods for Energy Support and Gut Health](https://dumbhealthy.com/blogs/news/revitalize-your-lifestyle-detoxifying-superfoods-for-energy-support-and-gut-health): Revitalize Your Lifestyle: Detoxifying Superfoods for Energy Support and Gut Health
     Updated: 2026-08-09T03:29:47Z
     Author: A.
@@ -3264,7 +3207,7 @@
     Updated: 2026-08-09T03:17:35Z
     Author: A.
   - [Elderberry and Beetroot: Can They Help with Inflammation and Liver Support?](https://dumbhealthy.com/blogs/news/elderberry-and-beetroot-can-they-help-with-inflammation-and-liver-support): Elderberry and Beetroot: Can They Help with Inflammation and Liver Support?
-    Updated: 2026-08-09T03:17:21Z
+    Updated: 2026-08-21T02:35:18Z
     Author: A.
   - [Enhance Your Sleep and Gut Health with Mushroom Supplements and Healthy Habits](https://dumbhealthy.com/blogs/news/enhance-your-sleep-and-gut-health-with-mushroom-supplements-and-healthy-habits): Enhance Your Sleep and Gut Health with Mushroom Supplements and Healthy Habits
     Updated: 2026-08-09T03:29:46Z
@@ -3302,8 +3245,62 @@
   - [From Bloat to Bliss: Detoxifying Ingredients That May Aid Gut Health](https://dumbhealthy.com/blogs/news/from-bloat-to-bliss-detoxifying-ingredients-that-may-aid-gut-health): From Bloat to Bliss: Detoxifying Ingredients That May Aid Gut Health
     Updated: 2026-08-09T03:17:46Z
     Author: A.
-  - [Enhance Your Daily Energy with Adaptogens and Elderberry: A Guide](https://dumbhealthy.com/blogs/news/enhance-your-daily-energy-with-adaptogens-and-elderberry-a-guide): Enhance Your Daily Energy with Adaptogens and Elderberry: A Guide
-    Updated: 2026-08-13T07:00:37Z
+  - [Elevate Your Focus: Non-Toxic Eating with Magnesium and Superfoods](https://dumbhealthy.com/blogs/news/elevate-your-focus-non-toxic-eating-with-magnesium-and-superfoods): Elevate Your Focus: Non-Toxic Eating with Magnesium and Superfoods
+    Updated: 2026-08-21T02:31:55Z
+    Author: A.
+  - [What Is Lion's Mane?](https://dumbhealthy.com/blogs/news/what-is-lions-mane): A plain-English guide to lion's mane mushroom, supplement formats, label reading, and where Dumb Healthy shoppers should start.
+    Updated: 2026-08-21T03:38:17Z
+    Author: Dumb Healthy
+    Tags: Learning Center, Mushrooms, Supplement Basics
+  - [What Is Chaga?](https://dumbhealthy.com/blogs/news/what-is-chaga): A simple guide to chaga mushroom products, supplement formats, and label details worth checking before buying.
+    Updated: 2026-08-21T03:38:17Z
+    Author: Dumb Healthy
+    Tags: Learning Center, Mushrooms
+  - [What Is Reishi?](https://dumbhealthy.com/blogs/news/what-is-reishi): A straightforward guide to reishi mushroom, drops, gummies, blends, and what to compare on the label.
+    Updated: 2026-08-21T03:38:17Z
+    Author: Dumb Healthy
+    Tags: Learning Center, Mushrooms
+  - [What Is Mushroom Coffee?](https://dumbhealthy.com/blogs/news/what-is-mushroom-coffee): A buyer-friendly guide to mushroom coffee, caffeine context, ingredients, serving size, and routine fit.
+    Updated: 2026-08-21T03:38:17Z
+    Author: Dumb Healthy
+    Tags: Coffee, Learning Center, Mushrooms
+  - [Single Mushroom vs Mushroom Blend](https://dumbhealthy.com/blogs/news/single-mushroom-vs-mushroom-blend): How to compare single-mushroom supplements with mushroom blends without getting hypnotized by a long ingredient list.
+    Updated: 2026-08-21T03:38:17Z
+    Author: Dumb Healthy
+    Tags: Buying Guides, Learning Center, Mushrooms
+  - [How to Read Supplement Facts](https://dumbhealthy.com/blogs/news/how-to-read-supplement-facts): A practical guide to Supplement Facts panels, serving size, ingredient amounts, other ingredients, directions, and warnings.
+    Updated: 2026-08-21T03:38:17Z
+    Author: Dumb Healthy
+    Tags: Buying Guides, Learning Center, Supplement Basics
+  - [What Does Serving Size Mean?](https://dumbhealthy.com/blogs/news/what-does-serving-size-mean): A simple explanation of serving size, servings per container, daily use directions, and why one label number can be misunderstood.
+    Updated: 2026-08-21T03:38:17Z
+    Author: Dumb Healthy
+    Tags: Learning Center, Supplement Basics
+  - [Capsules vs Gummies vs Drops](https://dumbhealthy.com/blogs/news/capsules-vs-gummies-vs-drops): How supplement formats differ by convenience, taste, serving control, sugar, portability, and label comparison.
+    Updated: 2026-08-21T03:38:18Z
+    Author: Dumb Healthy
+    Tags: Buying Guides, Learning Center, Supplement Basics
+  - [What Is Beetroot?](https://dumbhealthy.com/blogs/news/what-is-beetroot): A no-hype guide to beetroot as food, powder, capsule ingredient, and label-reading topic.
+    Updated: 2026-08-21T03:38:18Z
+    Author: Dumb Healthy
+    Tags: Ingredients, Learning Center
+  - [What Is Elderberry Syrup?](https://dumbhealthy.com/blogs/news/what-is-elderberry-syrup): What elderberry syrup is, how liquid supplement formats work, and what to check before buying.
+    Updated: 2026-08-21T03:38:18Z
+    Author: Dumb Healthy
+    Tags: Elixirs, Ingredients, Learning Center
+  - [How to Compare Supplements](https://dumbhealthy.com/blogs/news/how-to-compare-supplements): A practical buying guide for comparing supplement ingredients, formats, serving size, warnings, testing, and routine fit.
+    Updated: 2026-08-21T03:38:18Z
+    Author: Dumb Healthy
+    Tags: Buying Guides, Learning Center, Supplement Basics
+  - [How Dumb Healthy Subscriptions Work](https://dumbhealthy.com/blogs/news/how-dumb-healthy-subscriptions-work): A simple explanation of one-time purchases, subscription options, recurring delivery, and where to get help.
+    Updated: 2026-08-21T03:38:18Z
+    Author: Dumb Healthy
+    Tags: Answers, Learning Center, Subscriptions
+  - [Navigating Environmental Wellness: Detox Foods to Consider for Your Home](https://dumbhealthy.com/blogs/news/navigating-environmental-wellness-detox-foods-to-consider-for-your-home): Navigating Environmental Wellness: Detox Foods to Consider for Your Home
+    Updated: 2026-08-21T07:04:11Z
+    Author: A.
+  - [Healthy Kind of Home: How to Integrate Detoxifying Superfoods in Daily Life](https://dumbhealthy.com/blogs/news/healthy-kind-of-home-how-to-integrate-detoxifying-superfoods-in-daily-life): Healthy Kind of Home: How to Integrate Detoxifying Superfoods in Daily Life
+    Updated: 2026-08-22T07:02:38Z
     Author: A.
 
 ## Store Pages
@@ -3316,6 +3313,18 @@
   Updated: 2024-09-16T21:34:22Z
 - [Clothing | Dumb Healthy](https://dumbhealthy.com/pages/clothing): DUMB Merch Ranch Merch
   Updated: 2026-08-08T01:11:36Z
+- [Learn](https://dumbhealthy.com/pages/learn): Dumb Healthy Learn is the home for stupid simple health education: ingredient basics, supplement label literacy, mushroom basics, coffee, adaptogen...
+  Updated: 2026-08-21T03:48:31Z
+- [About Dumb Healthy](https://dumbhealthy.com/pages/about-dumb-healthy): Dumb Healthy exists because health and wellness became unnecessarily complicated. The brand helps people understand health in stupid-simple language.
+  Updated: 2026-08-21T23:30:27Z
+- [Coaching](https://dumbhealthy.com/pages/coaching): Practical wellness coaching for nutrition, routines, accountability, family support, virtual or in-person guidance, and corporate wellness education.
+  Updated: 2026-08-21T03:48:31Z
+- [Wholesale and B2B](https://dumbhealthy.com/pages/wholesale): Wholesale, retail partnership, corporate gifting, bulk order, and corporate wellness inquiries for Dumb Healthy.
+  Updated: 2026-08-21T03:48:31Z
+- [Testing & Transparency](https://dumbhealthy.com/pages/testing-transparency): Dumb Healthy believes people should know what they are buying. This page explains how to read product labels, what documentation can support produc...
+  Updated: 2026-08-21T03:48:31Z
+- [Answers](https://dumbhealthy.com/pages/answers): Short, direct Dumb Healthy answers for supplement labels, product formats, mushrooms, coffee, subscriptions, coaching, wholesale, and common shoppi...
+  Updated: 2026-08-21T03:48:31Z
 
 ## Policies
 
