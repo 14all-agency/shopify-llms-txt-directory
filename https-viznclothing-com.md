@@ -6,112 +6,160 @@
 - Timezone: Europe/London
 - Created At: 2023-10-26T02:53:14Z
 - Contact Email: info@viznclothing.com
-- Updated At: 2026-08-14T01:07:16.638Z
+- Updated At: 2026-08-23T00:00:32.204Z
 
 ## Products
 
-- [VIZN X MONEY PLAY](https://viznclothing.com/products/vizn-x-money-play-white-1): Experience the vibrant energy of the VIZN X MONEY PLAY tee. The sleek white design is elevated by a dynamic money graphic that inspires success and prosperity. Make a statement and stand out in this bold and empowering piece. Perfect for those who are passionate about achieving their goals and embracing success!
-  Updated: 2026-07-24T16:12:25Z
-  Vendor: VIZN
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/vizn-x-money-play-8609378.png?v=1766084844
-  - [XS / White](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=49541034213715)
-    Availability: Available
-    Price: £25.00 GBP
-  - [S / White](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=49541034246483)
-    Availability: Available
-    Price: £25.00 GBP
-  - [M / White](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=49541034279251)
-    Availability: Available
-    Price: £25.00 GBP
-  - [L / White](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=49541034312019)
-    Availability: Available
-    Price: £25.00 GBP
-  - [XL / White](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=49541034344787)
-    Availability: Available
-    Price: £25.00 GBP
-  - [2XL / White](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=49541034377555)
-    Availability: Available
-    Price: £25.00 GBP
-  - [XS / Black](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=52558071759187)
-    Availability: Available
-    Price: £25.00 GBP
-  - [S / Black](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=52558071791955)
-    Availability: Available
-    Price: £25.00 GBP
-  - [M / Black](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=52558071824723)
-    Availability: Available
-    Price: £25.00 GBP
-  - [L / Black](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=52558071857491)
-    Availability: Available
-    Price: £25.00 GBP
-  - [XL / Black](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=52558071890259)
-    Availability: Available
-    Price: £25.00 GBP
-  - [2XL / Black](https://viznclothing.com/products/vizn-x-money-play-white-1?variant=52558071923027)
-    Availability: Available
-    Price: £25.00 GBP
 - [LOST YOUTH CLUB HOODIE](https://viznclothing.com/products/lostyouthclubhoodie): Discover the Lost Youth Club Hoodie by VIZN — the perfect blend of comfort, style, and streetwear attitude.
-  Updated: 2026-08-12T14:16:58Z
+  Updated: 2026-08-19T05:52:44Z
   Vendor: VIZN
   Product Type: Hoodie
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-hoodie-5077411.jpg?v=1768829889
+  Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-drop-bundle-9496725.png?v=1786752139
   - [Black / XS](https://viznclothing.com/products/lostyouthclubhoodie?variant=52350475862355)
     Availability: Available
-    Price: £40.00 GBP
+    Price: £50.00 GBP
   - [Black / S](https://viznclothing.com/products/lostyouthclubhoodie?variant=52540234137939)
     Availability: Available
-    Price: £40.00 GBP
+    Price: £50.00 GBP
   - [Black / M](https://viznclothing.com/products/lostyouthclubhoodie?variant=52540234170707)
     Availability: Available
-    Price: £40.00 GBP
+    Price: £50.00 GBP
   - [Black / L](https://viznclothing.com/products/lostyouthclubhoodie?variant=52540234203475)
     Availability: Available
-    Price: £40.00 GBP
+    Price: £50.00 GBP
   - [Black / XL](https://viznclothing.com/products/lostyouthclubhoodie?variant=52540234236243)
     Availability: Available
-    Price: £40.00 GBP
+    Price: £50.00 GBP
 - [LOST YOUTH CLUB TEE](https://viznclothing.com/products/lost-youth-club-tee): The Lost Youth Club Boxy T-Shirt by VIZN delivers premium streetwear style with its oversized boxy fit, heavyweight 100% cotton (305GSM), and bold graphic print. Designed with dropped shoulders and a structured silhouette, it offers a modern, relaxed look while maintaining exceptional comfort and durability. The heavyweight cotton provides a soft, premium feel that holds its shape wear after wear. For an oversized fit, choose your usual size, or size down for a more regular fit. To preserve the colour and print quality, wash inside out on a cold cycle. Perfect for everyday wear and anyone who wants a clean yet expressive streetwear essential.
-  Updated: 2026-07-25T11:38:58Z
+  Updated: 2026-08-15T00:02:19Z
   Vendor: ODMPOD
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-tee-2859903.png?v=1784929093
+  Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-drop-bundle-9241985.png?v=1786752138
   - [Black / XS](https://viznclothing.com/products/lost-youth-club-tee?variant=54397988700499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-tee-2859903.png?v=1784929093
     Price: £25.00 GBP
   - [Black / S](https://viznclothing.com/products/lost-youth-club-tee?variant=54397988733267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-tee-2859903.png?v=1784929093
     Price: £25.00 GBP
   - [Black / M](https://viznclothing.com/products/lost-youth-club-tee?variant=54397988766035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-tee-2859903.png?v=1784929093
     Price: £25.00 GBP
   - [Black / L](https://viznclothing.com/products/lost-youth-club-tee?variant=54397988798803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-tee-2859903.png?v=1784929093
     Price: £25.00 GBP
   - [Black / XL](https://viznclothing.com/products/lost-youth-club-tee?variant=54397988831571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-tee-2859903.png?v=1784929093
     Price: £25.00 GBP
   - [Black / XXL](https://viznclothing.com/products/lost-youth-club-tee?variant=54397988864339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-tee-2859903.png?v=1784929093
     Price: £25.00 GBP
+- [Lost Youth Club Drop Bundle](https://viznclothing.com/products/lyc-drop-bundle): Curated collection from the Lost Youth Club drop. Premium pieces designed to work together to elevate your rotation with this complete set. Limited availability.
+  Updated: 2026-08-18T21:29:38Z
+  Vendor: VIZN
+  Product Type: Bundle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0787/8603/6051/files/lost-youth-club-drop-bundle-3414522.png?v=1786752141
+  - [XS / XS](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166551379)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XS / S](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166584147)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XS / M](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166616915)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XS / L](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166649683)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XS / XL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166682451)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XS / XXL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166715219)
+    Availability: Available
+    Price: £65.00 GBP
+  - [S / XS](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166747987)
+    Availability: Available
+    Price: £65.00 GBP
+  - [S / S](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166780755)
+    Availability: Available
+    Price: £65.00 GBP
+  - [S / M](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166813523)
+    Availability: Available
+    Price: £65.00 GBP
+  - [S / L](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166846291)
+    Availability: Available
+    Price: £65.00 GBP
+  - [S / XL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166879059)
+    Availability: Available
+    Price: £65.00 GBP
+  - [S / XXL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166911827)
+    Availability: Available
+    Price: £65.00 GBP
+  - [M / XS](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166944595)
+    Availability: Available
+    Price: £65.00 GBP
+  - [M / S](https://viznclothing.com/products/lyc-drop-bundle?variant=54589166977363)
+    Availability: Available
+    Price: £65.00 GBP
+  - [M / M](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167010131)
+    Availability: Available
+    Price: £65.00 GBP
+  - [M / L](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167042899)
+    Availability: Available
+    Price: £65.00 GBP
+  - [M / XL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167075667)
+    Availability: Available
+    Price: £65.00 GBP
+  - [M / XXL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167108435)
+    Availability: Available
+    Price: £65.00 GBP
+  - [L / XS](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167141203)
+    Availability: Available
+    Price: £65.00 GBP
+  - [L / S](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167173971)
+    Availability: Available
+    Price: £65.00 GBP
+  - [L / M](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167206739)
+    Availability: Available
+    Price: £65.00 GBP
+  - [L / L](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167239507)
+    Availability: Available
+    Price: £65.00 GBP
+  - [L / XL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167272275)
+    Availability: Available
+    Price: £65.00 GBP
+  - [L / XXL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167305043)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XL / XS](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167337811)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XL / S](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167370579)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XL / M](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167403347)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XL / L](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167436115)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XL / XL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167468883)
+    Availability: Available
+    Price: £65.00 GBP
+  - [XL / XXL](https://viznclothing.com/products/lyc-drop-bundle?variant=54589167501651)
+    Availability: Available
+    Price: £65.00 GBP
 
 ## Collections
 
 - [Home page](https://viznclothing.com/collections/frontpage)
-  Updated: 2026-07-24T09:04:40Z
+  Updated: 2026-08-14T17:48:45Z
   Total Products: 0
 - [Lost Youth Club Drop](https://viznclothing.com/collections/lost-youth-club)
-  Updated: 2026-08-12T14:16:59Z
-  Total Products: 2
+  Updated: 2026-08-19T05:52:45Z
+  Total Products: 3
 
 ## Blogs
 
@@ -133,6 +181,15 @@
     Tags: en, summer streetwear outfits
   - [Exploring Top UK Streetwear Brands For Minimalistic Fashion Enthusiasts](https://viznclothing.com/blogs/news/exploring-top-uk-streetwear-brands-for-minimalistic-fashion-enthusiasts): Exploring Top UK Streetwear Brands For Minimalistic Fashion Enthusiasts
     Updated: 2026-08-14T01:04:42Z
+    Author: Jake Swindells
+  - [Top 5 UK Streetwear Brands Every Minimalist Should Know](https://viznclothing.com/blogs/news/top-5-uk-streetwear-brands-every-minimalist-should-know): Top 5 UK Streetwear Brands Every Minimalist Should Know
+    Updated: 2026-08-16T22:00:11Z
+    Author: Jake Swindells
+  - [How to Style a Boxy Fit Hoodie for a Luxury Streetwear Look](https://viznclothing.com/blogs/news/how-to-style-a-boxy-fit-hoodie-for-a-luxury-streetwear-look): How to Style a Boxy Fit Hoodie for a Luxury Streetwear Look
+    Updated: 2026-08-21T17:05:09Z
+    Author: Jake Swindells
+  - [Why Minimalistic Streetwear Is Dominating UK Fashion](https://viznclothing.com/blogs/news/why-minimalistic-streetwear-is-dominating-uk-fashion): Why Minimalistic Streetwear Is Dominating UK Fashion
+    Updated: 2026-08-22T16:06:10Z
     Author: Jake Swindells
 
 ## Store Pages
