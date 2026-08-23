@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-05-22T15:25:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-14T00:00:34.745Z
+- Updated At: 2026-08-23T00:00:39.614Z
 
 ## Products
 
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $30.00 USD
 - [2023 Tour Pocket Tee](https://coldwarkids.merchmadeeasy.com/products/2023-tour-pocket-tee): 100% Pre-shrunk cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-08-12T16:22:01Z
+  Updated: 2026-08-19T16:27:54Z
   Vendor: Cold War Kids
   Product Type: T-Shirt
   Availability: Available
@@ -119,7 +119,7 @@
   Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/Untitleddesign-2.png?v=1692132750
   Price: $11.98 USD
 - [Cold War Kids Patch](https://coldwarkids.merchmadeeasy.com/products/cold-war-kids-patch): Rough cut Cold War Kids patch approximately 3 inches square
-  Updated: 2026-08-12T15:53:50Z
+  Updated: 2026-08-14T23:01:17Z
   Vendor: Cold War Kids
   Product Type: Patch
   Availability: Available
@@ -257,14 +257,14 @@
     Availability: Available
     Price: $30.00 USD
 - [New Age Norms 3 Vinyl (SIGNED)](https://coldwarkids.merchmadeeasy.com/products/new-age-norms-3-vinyl-signed): Signed by Nathan Willett and Matt Maust Release Date: November 19, 2021 Tracklist I Can't Walk Away What You Say Always Underground Times Have Changed Worlds Nowhere To Be Wasted All Night
-  Updated: 2026-08-13T19:25:32Z
+  Updated: 2026-08-14T14:05:23Z
   Vendor: Cold War Kids
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/NAN-3-Signed-Vinyl.png?v=1755631335
   Price: $29.98 USD
 - [CWK Hat](https://coldwarkids.merchmadeeasy.com/products/cwk-hat): CWK embroidered on the front Black baseball cap
-  Updated: 2026-08-13T15:58:09Z
+  Updated: 2026-08-22T23:01:23Z
   Vendor: Cold War Kids
   Product Type: Hat
   Availability: Available
@@ -278,7 +278,7 @@
   Image: https://cdn.shopify.com/s/files/1/0761/6557/9041/files/Sketch-Tote.png?v=1778703606
   Price: $25.00 USD
 - [Push My Luck Tee | Cold War Kids Official Merchandise](https://coldwarkids.merchmadeeasy.com/products/push-my-luck-tee): Cold War Kids logo on the front Push My Luck design on the back 100% cotton tee in Green Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-08-13T19:23:25Z
+  Updated: 2026-08-19T17:26:56Z
   Vendor: Cold War Kids
   Product Type: T-Shirt
   Availability: Available
@@ -299,7 +299,7 @@
     Availability: Available
     Price: $35.00 USD
 - [2026 Tour Tee](https://coldwarkids.merchmadeeasy.com/products/2026-tour-tee): Cold War Kids hearts card design on the front Summer 2026 tour cities on the back
-  Updated: 2026-08-13T15:51:56Z
+  Updated: 2026-08-20T17:56:05Z
   Vendor: Cold War Kids
   Product Type: T-Shirt
   Availability: Available
@@ -344,22 +344,22 @@
 ## Collections
 
 - [Home page](https://coldwarkids.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-09T11:11:50Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 17
 - [Apparel](https://coldwarkids.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-12T15:24:37Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 35
 - [Accessories](https://coldwarkids.merchmadeeasy.com/collections/accessories)
   Updated: 2026-08-09T11:11:50Z
   Total Products: 17
 - [Music](https://coldwarkids.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-03T14:14:30Z
+  Updated: 2026-08-15T11:14:10Z
   Total Products: 14
 - [All](https://coldwarkids.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-13T15:39:21Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 26
 - [On ](https://coldwarkids.merchmadeeasy.com/collections/on-)
-  Updated: 2026-08-12T15:54:22Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 10
 - [Digital Albums](https://coldwarkids.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:13:16Z
@@ -368,7 +368,7 @@
   Updated: 2026-07-08T20:13:16Z
   Total Products: 0
 - [](https://coldwarkids.merchmadeeasy.com/collections/)
-  Updated: 2026-08-09T11:11:50Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 24
 - [20 Years Tour](https://coldwarkids.merchmadeeasy.com/collections/20-years-tour)
   Updated: 2026-08-10T11:10:38Z
@@ -377,13 +377,13 @@
   Updated: 2026-08-09T11:11:50Z
   Total Products: 2
 - [7 Years of LA Divine](https://coldwarkids.merchmadeeasy.com/collections/save-7-for-the-7th)
-  Updated: 2026-07-08T20:58:27Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 12
 - [$5 Collection](https://coldwarkids.merchmadeeasy.com/collections/5-collection)
   Updated: 2026-08-09T11:11:50Z
   Total Products: 6
 - [$15 Collection](https://coldwarkids.merchmadeeasy.com/collections/15-collection)
-  Updated: 2026-08-10T11:10:38Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 16
 - [$25 Collection](https://coldwarkids.merchmadeeasy.com/collections/25-collection)
   Updated: 2026-07-08T20:13:17Z
@@ -398,25 +398,25 @@
   Updated: 2026-08-09T11:11:50Z
   Total Products: 12
 - [Last Chance](https://coldwarkids.merchmadeeasy.com/collections/last-chance)
-  Updated: 2026-08-12T15:24:37Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 60
 - [Signed Vinyl](https://coldwarkids.merchmadeeasy.com/collections/signed-vinyl)
-  Updated: 2026-08-03T14:14:30Z
+  Updated: 2026-08-15T11:14:10Z
   Total Products: 3
 - [EasyGift All Products](https://coldwarkids.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-12T15:24:37Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 72
 - [$15 Tees](https://coldwarkids.merchmadeeasy.com/collections/15-tees)
-  Updated: 2026-08-10T11:10:38Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 16
 - [Best Sellers](https://coldwarkids.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-08-12T15:24:37Z
+  Updated: 2026-08-15T11:14:10Z
   Total Products: 10
 - [](https://coldwarkids.merchmadeeasy.com/collections/-1)
   Updated: 2026-07-30T19:26:53Z
   Total Products: 15
 - [2026 Tour](https://coldwarkids.merchmadeeasy.com/collections/2026-tour)
-  Updated: 2026-08-11T11:11:02Z
+  Updated: 2026-08-20T11:14:22Z
   Total Products: 5
 
 ## Store Pages
