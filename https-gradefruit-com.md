@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-08-28T15:17:32Z
 - Contact Email: contact@gradefruit.com
-- Updated At: 2026-08-03T00:00:27.187Z
+- Updated At: 2026-08-24T00:00:27.296Z
 
 ## Products
 
