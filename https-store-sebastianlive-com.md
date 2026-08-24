@@ -83,55 +83,31 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-08-30T20:50:56Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-06T21:54:31.578Z
+- Updated At: 2026-08-24T00:00:36.327Z
 
 ## Products
 
 - [Aren't You Embarrassed? - Signed DVD](https://store.sebastianlive.com/products/arent-you-embarrased-dvd): Sebastian's 2014 live comedy special on DVD in a hard cover case. Hand-signed by Sebastian Maniscalco!
-  Updated: 2026-07-11T16:36:37Z
+  Updated: 2026-08-23T19:03:27Z
   Vendor: Sebastian Maniscalco
   Product Type: DVD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/SMAYEDVD.png?v=1692195989
   Price: $15.00 USD
 - [What's Wrong With People Signed DVD](https://store.sebastianlive.com/products/whats-wrong-with-people-cd): Sebastian's 2012 live comedy special on DVD.
-  Updated: 2026-07-11T16:36:37Z
+  Updated: 2026-08-23T19:03:27Z
   Vendor: Sebastian Maniscalco
   Product Type: DVD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/SMWWWPDVD_735860e3-4435-49af-81e4-cea6d6ce9837.png?v=1692196592
   Price: $12.00 USD
 - [Why Would You Do That? Signed DVD](https://store.sebastianlive.com/products/why-would-you-do-that-dvd): Sebastian's 2016 live comedy special on DVD.
-  Updated: 2026-07-11T16:36:38Z
+  Updated: 2026-08-23T19:03:27Z
   Vendor: Sebastian Maniscalco
   Product Type: DVD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/SMWWYDTDVDflat.png?v=1692196295
   Price: $12.00 USD
-- [You Bother Me Hoodie](https://store.sebastianlive.com/products/you-bother-me-hoodie-1): 70% Cotton/30% Polyester with 100% cotton face yarn Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 1/2 21 34 1/2 M 29 1/2 23 35 1/2 L 30 1/2 24 1/2 36 1/2 XL 31 1/2 26 1/2 37 1/2 2XL 32 1/2 27 1/2 38 1/2 3XL 33 1/2 28 1/5 39 1/2
-  Updated: 2026-07-14T21:04:04Z
-  Vendor: Sebastian Maniscalco
-  Product Type: Hoodie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/159191_1_289242_d_1.png?v=1689622386
-  - [Small](https://store.sebastianlive.com/products/you-bother-me-hoodie-1?variant=41080846221346)
-    Availability: Not Available
-    Price: $60.00 USD
-  - [Medium](https://store.sebastianlive.com/products/you-bother-me-hoodie-1?variant=41080846254114)
-    Availability: Available
-    Price: $60.00 USD
-  - [Large](https://store.sebastianlive.com/products/you-bother-me-hoodie-1?variant=41080846286882)
-    Availability: Available
-    Price: $60.00 USD
-  - [X-Large](https://store.sebastianlive.com/products/you-bother-me-hoodie-1?variant=41080846319650)
-    Availability: Available
-    Price: $60.00 USD
-  - [2X-Large](https://store.sebastianlive.com/products/you-bother-me-hoodie-1?variant=41080846352418)
-    Availability: Available
-    Price: $60.00 USD
-  - [3X-Large](https://store.sebastianlive.com/products/you-bother-me-hoodie-1?variant=41080846385186)
-    Availability: Not Available
-    Price: $60.00 USD
 - [It Ain't Right Tour Hoodie](https://store.sebastianlive.com/products/it-aint-right-tour-hoodie): 100% cotton face exterior made from a 60/40 cotton/polyester blend, heavyweight hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 27 38 3XL 33 28 39
   Updated: 2026-07-18T13:45:01Z
   Vendor: Sebastian Maniscalco
@@ -229,7 +205,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $60.00 USD
 - [Italian Basketball Tee](https://store.sebastianlive.com/products/italian-basketball-tee): Who says Italians can't play basketball?? 100% combed ringspun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-07-17T15:15:07Z
+  Updated: 2026-08-16T03:01:48Z
   Vendor: Sebastian Maniscalco
   Product Type: T-Shirt
   Availability: Available
@@ -253,7 +229,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $35.00 USD
 - [It Ain't Right Tour Tee - 2024](https://store.sebastianlive.com/products/it-aint-right-tour-tee-2024): 100% combed ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-07-20T23:36:17Z
+  Updated: 2026-08-18T00:51:56Z
   Vendor: Sebastian Maniscalco
   Product Type: T-Shirt
   Availability: Available
@@ -319,12 +295,75 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Full House Koozie](https://store.sebastianlive.com/products/full-house-koozie): Now that's a good hand Neoprene koozie, fits standard size can
-  Updated: 2026-06-17T23:10:48Z
+  Updated: 2026-08-16T15:37:17Z
   Vendor: Sebastian Maniscalco
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/SMAC_0001_165829_1_304460_d.png?v=1758128253
   Price: $5.00 USD
+- [Club Cefalù Tee](https://store.sebastianlive.com/products/club-cefalu-tee): 100% combed ringspun cotton t-shirt in bone Size Chart Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
+  Updated: 2026-08-20T15:18:57Z
+  Vendor: Sebastian Maniscalco
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/SEBM_Cefalu_Tee.png?v=1786558596
+  - [Small](https://store.sebastianlive.com/products/club-cefalu-tee?variant=46391035559970)
+    Availability: Available
+    Price: $40.00 USD
+  - [Medium](https://store.sebastianlive.com/products/club-cefalu-tee?variant=46391035592738)
+    Availability: Available
+    Price: $40.00 USD
+  - [Large](https://store.sebastianlive.com/products/club-cefalu-tee?variant=46391035625506)
+    Availability: Available
+    Price: $40.00 USD
+  - [X-Large](https://store.sebastianlive.com/products/club-cefalu-tee?variant=46391035658274)
+    Availability: Available
+    Price: $40.00 USD
+  - [2X-Large](https://store.sebastianlive.com/products/club-cefalu-tee?variant=46391035691042)
+    Availability: Available
+    Price: $40.00 USD
+- [Face Tee](https://store.sebastianlive.com/products/face-tee): 100% combed ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
+  Updated: 2026-08-18T15:08:16Z
+  Vendor: Sebastian Maniscalco
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/SEBM_Face_Tee.png?v=1786558596
+  - [Small](https://store.sebastianlive.com/products/face-tee?variant=46391062331426)
+    Availability: Available
+    Price: $40.00 USD
+  - [Medium](https://store.sebastianlive.com/products/face-tee?variant=46391062364194)
+    Availability: Available
+    Price: $40.00 USD
+  - [Large](https://store.sebastianlive.com/products/face-tee?variant=46391062396962)
+    Availability: Available
+    Price: $40.00 USD
+  - [X-Large](https://store.sebastianlive.com/products/face-tee?variant=46391062429730)
+    Availability: Available
+    Price: $40.00 USD
+  - [2X-Large](https://store.sebastianlive.com/products/face-tee?variant=46391062462498)
+    Availability: Available
+    Price: $40.00 USD
+- [Athletic Club Hoodie](https://store.sebastianlive.com/products/athletic-hoodie): 60/40 ring spun cotton/recycled polyester in light heather grey Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 1/2 21 3/4 35 1/4 M 29 1/2 23 1/4 35 7/8 L 30 1/2 24 3/4 36 1/2 XL 31 1/2 26 1/4 37 1/8 2XL 32 1/2 27 3/4 37 3/4 3XL 33 29 3/4 38 1/2
+  Updated: 2026-08-16T15:37:13Z
+  Vendor: Sebastian Maniscalco
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/SEBMAthleticHoodiecomp.png?v=1786558254
+  - [Small](https://store.sebastianlive.com/products/athletic-hoodie?variant=46391070457890)
+    Availability: Available
+    Price: $75.00 USD
+  - [Medium](https://store.sebastianlive.com/products/athletic-hoodie?variant=46391070490658)
+    Availability: Available
+    Price: $75.00 USD
+  - [Large](https://store.sebastianlive.com/products/athletic-hoodie?variant=46391070523426)
+    Availability: Available
+    Price: $75.00 USD
+  - [X-Large](https://store.sebastianlive.com/products/athletic-hoodie?variant=46391070556194)
+    Availability: Available
+    Price: $75.00 USD
+  - [2X-Large](https://store.sebastianlive.com/products/athletic-hoodie?variant=46391070588962)
+    Availability: Available
+    Price: $75.00 USD
 
 ## Collections
 
@@ -332,14 +371,14 @@ your agent can transact everywhere.
   Updated: 2026-04-14T21:02:30Z
   Total Products: 0
 - [All Products](https://store.sebastianlive.com/collections/all-products)
-  Updated: 2026-08-06T11:09:34Z
-  Total Products: 77
+  Updated: 2026-08-20T11:08:46Z
+  Total Products: 81
 - [Apparel](https://store.sebastianlive.com/collections/apparel)
-  Updated: 2026-08-06T11:09:34Z
-  Total Products: 45
+  Updated: 2026-08-20T11:08:46Z
+  Total Products: 48
 - [Accessories](https://store.sebastianlive.com/collections/accessories)
-  Updated: 2026-07-12T11:06:33Z
-  Total Products: 26
+  Updated: 2026-08-17T11:08:55Z
+  Total Products: 27
 - [Outerwear](https://store.sebastianlive.com/collections/outerwear)
   Updated: 2026-06-12T14:40:26Z
   Total Products: 5
@@ -350,7 +389,7 @@ your agent can transact everywhere.
   Updated: 2026-06-12T14:46:18Z
   Total Products: 23
 - [Media](https://store.sebastianlive.com/collections/media)
-  Updated: 2026-07-12T11:06:33Z
+  Updated: 2026-08-18T11:08:48Z
   Total Products: 6
 - [Nobody Does This Merchandise](https://store.sebastianlive.com/collections/nobody-does-this)
   Updated: 2026-06-12T14:40:25Z
@@ -359,59 +398,62 @@ your agent can transact everywhere.
   Updated: 2026-06-12T14:40:28Z
   Total Products: 21
 - [The Classics Collection](https://store.sebastianlive.com/collections/the-classics-collection)
-  Updated: 2026-07-12T11:06:33Z
+  Updated: 2026-08-19T19:03:38Z
   Total Products: 7
 - [Totes](https://store.sebastianlive.com/collections/totes)
   Updated: 2026-06-12T14:40:27Z
   Total Products: 2
 - [Full House](https://store.sebastianlive.com/collections/atlantic-city)
-  Updated: 2026-07-12T11:06:33Z
+  Updated: 2026-08-17T11:08:55Z
   Total Products: 9
 - [](https://store.sebastianlive.com/collections/)
-  Updated: 2026-08-06T11:09:34Z
+  Updated: 2026-08-19T19:03:38Z
   Total Products: 23
 - [$10](https://store.sebastianlive.com/collections/10)
-  Updated: 2026-06-22T15:40:44Z
-  Total Products: 12
+  Updated: 2026-08-17T11:08:55Z
+  Total Products: 11
 - [$20](https://store.sebastianlive.com/collections/20)
-  Updated: 2026-07-12T11:06:33Z
-  Total Products: 14
+  Updated: 2026-08-12T18:43:15Z
+  Total Products: 15
 - [$30](https://store.sebastianlive.com/collections/30)
-  Updated: 2026-06-22T15:40:42Z
-  Total Products: 13
+  Updated: 2026-08-12T18:07:36Z
+  Total Products: 12
 - [$50](https://store.sebastianlive.com/collections/50)
-  Updated: 2026-08-06T11:09:34Z
-  Total Products: 5
+  Updated: 2026-08-19T19:03:38Z
+  Total Products: 6
 - [$40](https://store.sebastianlive.com/collections/40)
-  Updated: 2026-08-05T11:09:22Z
-  Total Products: 5
+  Updated: 2026-08-20T11:08:46Z
+  Total Products: 7
 - [It Ain't Right Tour](https://store.sebastianlive.com/collections/it-aint-right-tour)
-  Updated: 2026-08-06T11:09:34Z
+  Updated: 2026-08-18T11:08:48Z
   Total Products: 8
 - [EasyGift All Products](https://store.sebastianlive.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-06T11:09:34Z
-  Total Products: 79
+  Updated: 2026-08-20T11:08:46Z
+  Total Products: 81
 - [$20.24](https://store.sebastianlive.com/collections/20-24)
   Updated: 2026-04-14T21:02:31Z
   Total Products: 0
 - [Tour Merch](https://store.sebastianlive.com/collections/tour-merch)
-  Updated: 2026-08-06T11:09:34Z
-  Total Products: 23
+  Updated: 2026-08-20T11:08:46Z
+  Total Products: 27
 - [$5](https://store.sebastianlive.com/collections/5-bin)
-  Updated: 2026-06-18T11:08:26Z
+  Updated: 2026-08-17T11:08:55Z
   Total Products: 8
 - [Best Sellers](https://store.sebastianlive.com/collections/best-sellers)
-  Updated: 2026-08-06T11:09:34Z
-  Total Products: 79
+  Updated: 2026-08-20T11:08:46Z
+  Total Products: 81
 - [New Arrivals](https://store.sebastianlive.com/collections/new-arrivals)
-  Updated: 2026-08-06T11:09:34Z
-  Total Products: 79
+  Updated: 2026-08-20T11:08:46Z
+  Total Products: 81
 - [$20.25](https://store.sebastianlive.com/collections/20-25)
   Updated: 2026-04-14T21:02:31Z
   Total Products: 0
 - [Bundles](https://store.sebastianlive.com/collections/bundles)
-  Updated: 2026-06-22T15:40:44Z
-  Total Products: 2
+  Updated: 2026-08-12T18:07:37Z
+  Total Products: 0
+- [2026 Tour Merch](https://store.sebastianlive.com/collections/2026-tour-merch)
+  Updated: 2026-08-20T11:08:46Z
+  Total Products: 4
 
 ## Store Pages
 
