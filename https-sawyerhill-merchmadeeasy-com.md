@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-28T20:28:03Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-13T16:30:36.202Z
+- Updated At: 2026-08-24T00:00:35.645Z
 
 ## Products
 
-- [Everybody's Home, Nobody's Happy - Exclusive Ghost Vinyl](https://sawyerhill.merchmadeeasy.com/products/everybodys-home-nobodys-happy-exclusive-vinyl): Everybody's Home, Nobody's Happy Exclusive Ghost Vinyl This item is a pre-order that will ship upon release on August 21, 2026.
-  Updated: 2026-08-13T14:10:16Z
+- [Everybody's Home, Nobody's Happy - Exclusive Ghost Vinyl](https://sawyerhill.merchmadeeasy.com/products/everybodys-home-nobodys-happy-exclusive-vinyl): Everybody's Home, Nobody's Happy Exclusive Ghost Vinyl
+  Updated: 2026-08-23T00:09:46Z
   Vendor: Sawyer Hill
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1019/5501/0928/files/SHEVERYBODY_SHOMEVINYL.png?v=1780324797
   Price: $34.99 USD
-- [Everybody's Home, Nobody's Happy - CD](https://sawyerhill.merchmadeeasy.com/products/everybodys-home-nobodys-happy-cd): Sawyer Hill's upcoming album, Everybody's Home, Nobody's Happy available on CD. This item is a pre-order that will ship upon release on August 21, 2026.
-  Updated: 2026-08-13T14:34:06Z
+- [Everybody's Home, Nobody's Happy - CD](https://sawyerhill.merchmadeeasy.com/products/everybodys-home-nobodys-happy-cd): Sawyer Hill's upcoming album, Everybody's Home, Nobody's Happy available on CD.
+  Updated: 2026-08-23T19:57:55Z
   Vendor: Sawyer Hill
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1019/5501/0928/files/SHEVERYBODY_SHOMECD.png?v=1780325340
   Price: $14.99 USD
 - [Everybody's Home, Nobody's Happy Tee](https://sawyerhill.merchmadeeasy.com/products/everybodys-home-nobodys-happy-tee): Sawyer Hill Album Tee in black with front and back print. All orders that include the new album, Everybody's Home, Nobody's Happy, will ship upon release in August. 100% cotton, wide collar, relaxed fit tee. Please note this tee is cropped about an inch shorter than standard tees. See size chart for details.
-  Updated: 2026-08-13T12:57:16Z
+  Updated: 2026-08-21T18:59:26Z
   Vendor: Sawyer Hill
   Product Type: T-Shirt
   Availability: Available
@@ -46,7 +46,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Ozark Boy Tee](https://sawyerhill.merchmadeeasy.com/products/ozark-boy-tee): Sawyer Hill Ozark Boy Tee in burgundy with front and back print. All orders that include the new album, Everybody's Home, Nobody's Happy, will ship upon release in August. 100% cotton, wide collar, relaxed fit tee. Please note this tee is cropped about an inch shorter than standard tees. See size chart for details.
-  Updated: 2026-08-05T20:48:08Z
+  Updated: 2026-08-22T02:28:27Z
   Vendor: Sawyer Hill
   Product Type: T-Shirt
   Availability: Available
@@ -67,7 +67,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Cult Hoodie](https://sawyerhill.merchmadeeasy.com/products/cult-hoodie): Sawyer Hill Cult Hoodie in black with front and back print. All orders that include the new album, Everybody's Home, Nobody's Happy, will ship upon release in August. 80/20 cotton/recycled polyester
-  Updated: 2026-08-10T04:30:17Z
+  Updated: 2026-08-22T18:10:27Z
   Vendor: Sawyer Hill
   Product Type: Hoodie
   Availability: Available
@@ -88,28 +88,28 @@
     Availability: Available
     Price: $85.00 USD
 - [Enamel Pin Set](https://sawyerhill.merchmadeeasy.com/products/enamel-pin-set): Set of 4 enamel pins on cardstock backing
-  Updated: 2026-08-13T05:27:26Z
+  Updated: 2026-08-22T02:28:27Z
   Vendor: Sawyer Hill
   Product Type: Pin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1019/5501/0928/files/SHPINSET.png?v=1780496844
   Price: $20.00 USD
 - [Album Poster](https://sawyerhill.merchmadeeasy.com/products/album-poster): 17x11" poster All orders that include the new album, Everybody's Home, Nobody's Happy, will ship upon release in August.
-  Updated: 2026-08-03T18:51:57Z
+  Updated: 2026-08-22T02:28:26Z
   Vendor: Sawyer Hill
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1019/5501/0928/files/SHPOSTER-2.png?v=1780498908
   Price: $10.00 USD
-- [Heartbreak Hysteria - Deluxe Green Vinyl](https://sawyerhill.merchmadeeasy.com/products/heartbreak-hysteria-deluxe-green-vinyl): Heartbreak Hysteria (Deluxe) on Green Vinyl. Mini poster included with each purchase! All orders that include the new album, Everybody's Home, Nobody's Happy, will ship upon release in August.
-  Updated: 2026-08-12T14:21:19Z
+- [Heartbreak Hysteria - Deluxe Green Vinyl](https://sawyerhill.merchmadeeasy.com/products/heartbreak-hysteria-deluxe-green-vinyl): Heartbreak Hysteria (Deluxe) on Green Vinyl. Mini poster included with each purchase!
+  Updated: 2026-08-22T18:10:23Z
   Vendor: Sawyer Hill
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1019/5501/0928/files/SHHEARTBREAKHYSTERIAVINYL_9c4eda63-fa1c-4cce-9e87-5ceb4889203b.png?v=1781030342
   Price: $29.98 USD
-- [Everybody's Home, Nobody's Happy - Exclusive Ghost Vinyl (SIGNED)](https://sawyerhill.merchmadeeasy.com/products/everybodys-home-nobodys-happy-exclusive-ghost-vinyl-signed): Everybody's Home, Nobody's Happy on Exclusive Ghost Vinyl with SIGNED insert. Limited quantity available. This item is a pre-order that will ship upon release on August 21, 2026.
-  Updated: 2026-08-13T16:05:22Z
+- [Everybody's Home, Nobody's Happy - Exclusive Ghost Vinyl (SIGNED)](https://sawyerhill.merchmadeeasy.com/products/everybodys-home-nobodys-happy-exclusive-ghost-vinyl-signed): Everybody's Home, Nobody's Happy on Exclusive Ghost Vinyl with SIGNED insert. Limited quantity available.
+  Updated: 2026-08-23T20:57:51Z
   Vendor: Sawyer Hill
   Product Type: Vinyl
   Availability: Available
@@ -119,22 +119,22 @@
 ## Collections
 
 - [Home page](https://sawyerhill.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-13T11:18:14Z
+  Updated: 2026-08-23T11:15:45Z
   Total Products: 5
 - [Apparel](https://sawyerhill.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-10T11:15:47Z
+  Updated: 2026-08-23T11:15:45Z
   Total Products: 3
 - [Accessories](https://sawyerhill.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-13T11:18:14Z
+  Updated: 2026-08-22T11:17:40Z
   Total Products: 2
 - [Everybody’s Home, Nobody’s Happy](https://sawyerhill.merchmadeeasy.com/collections/everybody-s-home-nobody-s-happy)
-  Updated: 2026-08-13T11:18:14Z
+  Updated: 2026-08-23T11:15:45Z
   Total Products: 9
 - [All](https://sawyerhill.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-13T11:18:14Z
+  Updated: 2026-08-23T11:15:45Z
   Total Products: 10
 - [Music](https://sawyerhill.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-13T11:18:14Z
+  Updated: 2026-08-23T11:15:45Z
   Total Products: 4
 
 ## Store Pages
