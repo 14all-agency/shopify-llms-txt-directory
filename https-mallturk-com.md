@@ -6,1004 +6,1079 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-02-18T10:06:25Z
 - Contact Email: info@mallturk.com
-- Updated At: 2026-08-15T15:03:11.679Z
+- Updated At: 2026-08-24T00:00:32.752Z
 
 ## Products
 
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:21:20Z
+  Updated: 2026-08-17T15:19:54Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778126462_44c50829-0915-41e5-ad4f-92dabffe61d7.jpg?v=1771422816
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778126462_44c50829-0915-41e5-ad4f-92dabffe61d7.jpg?v=1786825146
   - [Multicolor](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm?variant=47518394908724)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778126462_44c50829-0915-41e5-ad4f-92dabffe61d7.jpg?v=1771422816
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778126462_44c50829-0915-41e5-ad4f-92dabffe61d7.jpg?v=1786825146
     Price: $48.90 USD
   - [Gold](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm?variant=48088199364660)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390_7202a120-c4d6-4a95-b234-cce3b9303898.jpg?v=1785511530
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390_7202a120-c4d6-4a95-b234-cce3b9303898.jpg?v=1786825146
     Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm-kopya): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:21:23Z
+  Updated: 2026-08-18T08:28:51Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390.jpg?v=1771423554
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm-kopya-kopya): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:21:21Z
+  Updated: 2026-08-17T15:19:55Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814030452.jpg?v=1771423906
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814030452.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm1): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:03:38Z
+  Updated: 2026-08-17T15:19:55Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777990221_05c22d4e-3e8a-457f-93ac-bb712721b257.jpg?v=1771429478
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777990221_05c22d4e-3e8a-457f-93ac-bb712721b257.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm3): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:03:40Z
+  Updated: 2026-08-17T15:19:55Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8824577106_735138de-7eb6-48c1-95b4-2c1a7ede6b9e.jpg?v=1771429479
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8824577106_735138de-7eb6-48c1-95b4-2c1a7ede6b9e.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm6): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:03:43Z
+  Updated: 2026-08-17T15:19:55Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814345392_f922c353-3499-48c9-90ff-2018cd5ef5b7.jpg?v=1771429480
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814345392_f922c353-3499-48c9-90ff-2018cd5ef5b7.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm8): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:03:46Z
+  Updated: 2026-08-17T15:19:56Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814010182_b7bfacc0-88ba-4ce1-8f98-916b7bf2c57d.jpg?v=1771429480
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814010182_b7bfacc0-88ba-4ce1-8f98-916b7bf2c57d.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm11): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:03:49Z
+  Updated: 2026-08-17T15:19:56Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813997211_2746f2d0-881d-486b-9d1c-cc6e8eb0d697.jpg?v=1771429481
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813997211_2746f2d0-881d-486b-9d1c-cc6e8eb0d697.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm14): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:03:59Z
+  Updated: 2026-08-17T15:19:56Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778021060_eea6f36d-3a4b-4dcd-97eb-bd435b03bf11.jpg?v=1771429482
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778021060_eea6f36d-3a4b-4dcd-97eb-bd435b03bf11.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm16): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:03:55Z
+  Updated: 2026-08-17T15:19:57Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813609179_b97a4d3a-3181-4684-bcc6-d53aaef1e817.jpg?v=1771429483
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813609179_b97a4d3a-3181-4684-bcc6-d53aaef1e817.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm18): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:00Z
+  Updated: 2026-08-17T15:19:57Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814036454_041d4b35-1176-4d7e-8d8a-b41ef34f5f8f.jpg?v=1771429484
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814036454_041d4b35-1176-4d7e-8d8a-b41ef34f5f8f.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm21): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:02Z
+  Updated: 2026-08-17T15:19:57Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814045607_cbdeb7fd-306a-4a47-a90d-df8c6373fe25.jpg?v=1771429484
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814045607_cbdeb7fd-306a-4a47-a90d-df8c6373fe25.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm24): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:06Z
+  Updated: 2026-08-17T15:19:57Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778112546_b9d31c4d-6291-4920-a302-c3bbc637d4aa.jpg?v=1771429485
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778112546_b9d31c4d-6291-4920-a302-c3bbc637d4aa.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm26): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:09Z
+  Updated: 2026-08-17T15:19:57Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814004289_7cc443ef-cbf4-4895-86ad-c925efde7851.jpg?v=1771429486
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814004289_7cc443ef-cbf4-4895-86ad-c925efde7851.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm29): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:16Z
+  Updated: 2026-08-17T15:19:57Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813987093_c0f5f00b-258d-4c36-95ec-9d26a02737ba.jpg?v=1771429487
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813987093_c0f5f00b-258d-4c36-95ec-9d26a02737ba.jpg?v=1786825146
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm32): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:16Z
+  Updated: 2026-08-17T15:19:57Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778065594_3c019a5b-84f2-4632-a47c-a738a975299d.jpg?v=1771429487
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778065594_3c019a5b-84f2-4632-a47c-a738a975299d.jpg?v=1786825087
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm34): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:19Z
+  Updated: 2026-08-17T15:19:58Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814951134_27c973b9-904d-4276-ad2e-8d7ecfe43c44.jpg?v=1771429487
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814951134_27c973b9-904d-4276-ad2e-8d7ecfe43c44.jpg?v=1786825087
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm37): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:23Z
+  Updated: 2026-08-17T15:19:58Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8824636886_2256f7b1-ef52-475e-b600-9bde1e30d43d.jpg?v=1771429489
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8824636886_2256f7b1-ef52-475e-b600-9bde1e30d43d.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm39): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:32Z
+  Updated: 2026-08-17T15:19:58Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778169464_36f76ebe-7252-4005-9c8c-950dab07f78c.jpg?v=1771429489
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778169464_36f76ebe-7252-4005-9c8c-950dab07f78c.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm41): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:29Z
+  Updated: 2026-08-17T15:19:58Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777779669_82b99690-c3fd-48f8-90ba-eb35d4e464db.jpg?v=1771429490
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777779669_82b99690-c3fd-48f8-90ba-eb35d4e464db.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm44): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:32Z
+  Updated: 2026-08-17T15:19:58Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814017765_dd1f5fcb-831e-4b77-9310-d856e465ef64.jpg?v=1771429491
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814017765_dd1f5fcb-831e-4b77-9310-d856e465ef64.jpg?v=1786825087
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm47): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:36Z
+  Updated: 2026-08-17T15:19:58Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813583862_93da60e1-dae2-45b9-81ff-5fce2d04efcc.jpg?v=1771429491
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813583862_93da60e1-dae2-45b9-81ff-5fce2d04efcc.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm49): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:04:39Z
+  Updated: 2026-08-17T15:19:59Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778584165_4cbcac1a-0ba0-4de8-b622-2553e97c1860.jpg?v=1771429492
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778584165_4cbcac1a-0ba0-4de8-b622-2553e97c1860.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm51): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:31Z
+  Updated: 2026-08-17T15:19:59Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777930226_99aae250-5857-4181-abd7-89e52aa2e513.jpg?v=1771429493
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777930226_99aae250-5857-4181-abd7-89e52aa2e513.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm54): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:32Z
+  Updated: 2026-08-17T15:19:59Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778155071_da820bb7-7c9a-44f8-9d73-48f22b46d202.jpg?v=1771429494
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778155071_da820bb7-7c9a-44f8-9d73-48f22b46d202.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm56): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:38Z
+  Updated: 2026-08-17T15:19:59Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778613921_d1b99fc2-b561-4cf0-b0bb-c6663db4041e.jpg?v=1771429494
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778613921_d1b99fc2-b561-4cf0-b0bb-c6663db4041e.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm58): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:30Z
+  Updated: 2026-08-17T15:19:59Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777966638_8c74691f-5628-463b-92d7-ed42ca3fbd6d.jpg?v=1771429495
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777966638_8c74691f-5628-463b-92d7-ed42ca3fbd6d.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm60): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:32Z
+  Updated: 2026-08-17T15:19:59Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814332445_67d3b411-b1fc-4ab8-b88b-9734089fc4d4.jpg?v=1771429496
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814332445_67d3b411-b1fc-4ab8-b88b-9734089fc4d4.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm63): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:31Z
+  Updated: 2026-08-17T15:20:00Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813569493_3a656f9a-6ee7-4d7b-86c2-e11b84c58bb0.jpg?v=1771429496
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813569493_3a656f9a-6ee7-4d7b-86c2-e11b84c58bb0.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm65): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:37Z
+  Updated: 2026-08-17T15:20:00Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778632381_43e71713-8265-4ef3-8a07-3d4aa159556a.jpg?v=1771429497
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778632381_43e71713-8265-4ef3-8a07-3d4aa159556a.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm67): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:30Z
+  Updated: 2026-08-17T15:20:00Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814030452_fe462bbe-ae86-4800-a5db-f401934aa8b7.jpg?v=1771429498
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814030452_fe462bbe-ae86-4800-a5db-f401934aa8b7.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm70): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:30Z
+  Updated: 2026-08-17T15:20:00Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777792656_1ee5f081-8b36-4de2-b2fd-abd615acbe3e.jpg?v=1771429498
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777792656_1ee5f081-8b36-4de2-b2fd-abd615acbe3e.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm72): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:33Z
+  Updated: 2026-08-17T15:20:00Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777895352_b1fd47e5-c0f8-447e-a30d-ee6169e80501.jpg?v=1771429499
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777895352_b1fd47e5-c0f8-447e-a30d-ee6169e80501.jpg?v=1786825086
   Price: $48.90 USD
 - [Turkish Mosaic Table Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm74): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:36Z
+  Updated: 2026-08-17T15:20:00Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390_6a7f14a0-c120-49ee-a81a-b4fe17e9728b.jpg?v=1771429500
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390_6a7f14a0-c120-49ee-a81a-b4fe17e9728b.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:31Z
+  Updated: 2026-08-17T15:20:01Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1.jpg?v=1775221885
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-400): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:29Z
+  Updated: 2026-08-17T15:20:01Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2.jpg?v=1775222403
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-1): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:28Z
+  Updated: 2026-08-17T15:20:01Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3.jpg?v=1775480168
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-2): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:29Z
+  Updated: 2026-08-17T15:20:01Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4.jpg?v=1775552653
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-3): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:36Z
+  Updated: 2026-08-17T15:20:01Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6.jpg?v=1775718710
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-4): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:28Z
+  Updated: 2026-08-17T15:20:01Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7.jpg?v=1775718791
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-5): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:29Z
+  Updated: 2026-08-17T15:20:01Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8.jpg?v=1775718847
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-6): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:28Z
+  Updated: 2026-08-17T15:20:02Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9.jpg?v=1775718895
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-7): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:27Z
+  Updated: 2026-08-17T15:20:02Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10.jpg?v=1775719143
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-8): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:29Z
+  Updated: 2026-08-17T15:20:02Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11.jpg?v=1775719268
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-9): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:26Z
+  Updated: 2026-08-17T15:20:02Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12.jpg?v=1775719367
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-10): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:27Z
+  Updated: 2026-08-17T15:20:02Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/13.jpg?v=1775720147
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/13.jpg?v=1786825086
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-11): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:27Z
+  Updated: 2026-08-17T15:20:02Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/14.jpg?v=1775720244
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/14.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-12): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:26Z
+  Updated: 2026-08-17T15:20:03Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/15.jpg?v=1775720454
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/15.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-13): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:26Z
+  Updated: 2026-08-17T15:20:03Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/16.jpg?v=1775720495
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/16.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-14): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:29Z
+  Updated: 2026-08-17T15:20:03Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/17.jpg?v=1775720793
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/17.jpg?v=1786825027
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-15): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:27Z
+  Updated: 2026-08-17T15:20:03Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/19.jpg?v=1775721062
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/19.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-16): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:25Z
+  Updated: 2026-08-17T15:20:03Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/20.jpg?v=1775721114
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/20.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-17): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:29Z
+  Updated: 2026-08-17T15:20:03Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/21.jpg?v=1775721171
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/21.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-18): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:24Z
+  Updated: 2026-08-17T15:20:04Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/22.jpg?v=1775721217
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/22.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-19): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:24Z
+  Updated: 2026-08-17T15:20:04Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/23.jpg?v=1775721262
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/23.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-20): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:25Z
+  Updated: 2026-08-17T15:20:04Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/24.jpg?v=1775721311
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/24.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-21): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:24Z
+  Updated: 2026-08-17T15:20:04Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/25.jpg?v=1775721378
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/25.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-22): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:24Z
+  Updated: 2026-08-17T15:20:04Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/26.jpg?v=1775721423
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/26.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-23): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:28Z
+  Updated: 2026-08-17T15:20:04Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/27.jpg?v=1775721470
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/27.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-24): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:24Z
+  Updated: 2026-08-17T15:20:05Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/28.jpg?v=1775721517
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/28.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-25): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:24Z
+  Updated: 2026-08-17T15:20:05Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/29.jpg?v=1775721559
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/29.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-26): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:23Z
+  Updated: 2026-08-17T15:20:05Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/30.jpg?v=1775721598
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/30.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-27): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:23Z
+  Updated: 2026-08-17T15:20:05Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/31.jpg?v=1775721635
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/31.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-28): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:26Z
+  Updated: 2026-08-17T15:20:05Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/32.jpg?v=1775721685
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/32.jpg?v=1786825026
   Price: $48.90 USD
 - [Table lamp, bedside table, bedside lighting, Turkish lamp night light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-29): Authentic Colored Glass Mosaic Lampshade, Table LampArtisans use colorful hand-cut glass pieces and glass beads to create beautiful patterns on the lampshades, placing them on a 1x1 glass globe.HIGH QUALITY - This unique Turkish mosaic lamp is crafted from a hand-forged antique brass metal body that consistently shines, is rust-resistant, and is highly durable.BEAUTIFUL DECORATION - For exquisite home decoration, living room, bedroom, or office. The light pattern, when turned on, is breathtaking. Accentuate your home decor and enchant yourself and your guests with this conversation piece.BEAUTIFUL GIFT - Turkish lamps are a wonderful gift for any occasion. These bohemian lamps are the perfect size and will look stunning in any room. They will definitely leave the recipient in awe. This elegant gift will surely be appreciated by business colleagues, clients, friends, and lovers.The length is approximately 35 cm, depending on the model.Glass width: 18 cm(Glass diameters of 12 cm-14 cm are not comparable to small lamps)Cable length: 130 cmEnsures ease of use with an on/off switch on the cable.This is an authentic decorative product.Can be used as a night light.Incomparable to low-quality imitations.This is a special product.The glass is glued with silicone; imitations are usually covered with plaster.Plaster fades and becomes dull over time.You can easily clean this product by wiping it with a cloth.220W E14 bulb.For sufficient illumination, use a powerful E14 LED bulb.Visit our store to see more different types of lamps and decor.Note: Bulb not included.
-  Updated: 2026-08-09T07:20:22Z
+  Updated: 2026-08-17T15:20:05Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/65214.jpg?v=1775721723
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/65214.jpg?v=1786825026
   Price: $48.90 USD
 - [Turkish Mosaic Floor Lamp – 5 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp): Turkish Floor Lamp – 5 GlobesHandmade Mosaic Glass Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful glass pieces and beads. Each piece is carefully placed by hand, creating unique and eye-catching patterns. The lamp has a sturdy metal body with an antique brass finish, ensuring durability and resistance to rust. Decorative & FunctionalPerfect for living rooms, bedrooms, or offices. When lit, it creates a warm and beautiful lighting effect, adding a stylish touch to any space. It can also be used as a night lamp. Specifications: Height: Approx. 130 cm (varies by model) Width: 30 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm) Cable Length: Approx. 130 cm Material:Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone (unlike imitations that use plaster, which may fade over time). Care:Wipe with a soft cloth to clean. Note: Bulbs are not included.
-  Updated: 2026-08-09T07:20:22Z
+  Updated: 2026-08-17T15:20:06Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/545.jpg?v=1775764432
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/545.jpg?v=1786825026
   Price: $159.90 USD
 - [Turkish Mosaic Floor Lamp – 5 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp-kopya): Turkish Floor Lamp – 5 GlobesHandmade Mosaic Glass Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful glass pieces and beads. Each piece is carefully placed by hand, creating unique and eye-catching patterns. The lamp has a sturdy metal body with an antique brass finish, ensuring durability and resistance to rust. Decorative & FunctionalPerfect for living rooms, bedrooms, or offices. When lit, it creates a warm and beautiful lighting effect, adding a stylish touch to any space. It can also be used as a night lamp. Specifications: Height: Approx. 130 cm (varies by model) Width: 30 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm) Cable Length: Approx. 130 cm Material:Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone (unlike imitations that use plaster, which may fade over time). Care:Wipe with a soft cloth to clean. Note: Bulbs are not included.
-  Updated: 2026-08-09T07:20:23Z
+  Updated: 2026-08-17T15:20:06Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/555.jpg?v=1775764668
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/555.jpg?v=1786825026
   Price: $159.90 USD
 - [Turkish Mosaic Floor Lamp – 5 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp-1): Turkish Floor Lamp – 5 GlobesHandmade Mosaic Glass Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful glass pieces and beads. Each piece is carefully placed by hand, creating unique and eye-catching patterns. The lamp has a sturdy metal body with an antique brass finish, ensuring durability and resistance to rust. Decorative & FunctionalPerfect for living rooms, bedrooms, or offices. When lit, it creates a warm and beautiful lighting effect, adding a stylish touch to any space. It can also be used as a night lamp. Specifications: Height: Approx. 130 cm (varies by model) Width: 30 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm) Cable Length: Approx. 130 cm Material:Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone (unlike imitations that use plaster, which may fade over time). Care:Wipe with a soft cloth to clean. Note: Bulbs are not included.
-  Updated: 2026-08-09T07:20:22Z
+  Updated: 2026-08-17T15:20:06Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5410.jpg?v=1775764735
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5410.jpg?v=1786825026
   Price: $159.90 USD
 - [Turkish Mosaic Floor Lamp – 5 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp-2): Turkish Floor Lamp – 5 GlobesHandmade Mosaic Glass Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful glass pieces and beads. Each piece is carefully placed by hand, creating unique and eye-catching patterns. The lamp has a sturdy metal body with an antique brass finish, ensuring durability and resistance to rust. Decorative & FunctionalPerfect for living rooms, bedrooms, or offices. When lit, it creates a warm and beautiful lighting effect, adding a stylish touch to any space. It can also be used as a night lamp. Specifications: Height: Approx. 130 cm (varies by model) Width: 30 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm) Cable Length: Approx. 130 cm Material:Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone (unlike imitations that use plaster, which may fade over time). Care:Wipe with a soft cloth to clean. Note: Bulbs are not included.
-  Updated: 2026-08-09T07:20:21Z
+  Updated: 2026-08-17T15:20:06Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2.jpg?v=1775764790
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2.jpg?v=1786825026
   Price: $159.90 USD
 - [Turkish Mosaic Floor Lamp – 5 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp-3): Turkish Floor Lamp – 5 GlobesHandmade Mosaic Glass Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful glass pieces and beads. Each piece is carefully placed by hand, creating unique and eye-catching patterns. The lamp has a sturdy metal body with an antique brass finish, ensuring durability and resistance to rust. Decorative & FunctionalPerfect for living rooms, bedrooms, or offices. When lit, it creates a warm and beautiful lighting effect, adding a stylish touch to any space. It can also be used as a night lamp. Specifications: Height: Approx. 130 cm (varies by model) Width: 30 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm) Cable Length: Approx. 130 cm Material:Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone (unlike imitations that use plaster, which may fade over time). Care:Wipe with a soft cloth to clean. Note: Bulbs are not included.
-  Updated: 2026-08-09T07:20:22Z
+  Updated: 2026-08-17T15:20:06Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_3633ffd7-100b-41f7-b2ce-4322dbe2a28b.jpg?v=1775764912
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_3633ffd7-100b-41f7-b2ce-4322dbe2a28b.jpg?v=1786825026
   Price: $159.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:20:22Z
+  Updated: 2026-08-17T15:20:07Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/555_ba897adb-7ee4-4e11-bb96-842219bae33a.jpg?v=1775807245
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/555_ba897adb-7ee4-4e11-bb96-842219bae33a.jpg?v=1786825026
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-1): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:20:24Z
+  Updated: 2026-08-17T15:20:07Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5454.jpg?v=1775807428
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5454.jpg?v=1786825026
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-2): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:50Z
+  Updated: 2026-08-17T15:20:07Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/121231.jpg?v=1775807468
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/121231.jpg?v=1786825026
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-3): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:50Z
+  Updated: 2026-08-17T15:20:07Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_1_666.jpg?v=1775807538
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_1_666.jpg?v=1786825026
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-4): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:49Z
+  Updated: 2026-08-17T15:20:07Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2_9a98ef55-065c-46da-9e8b-c059e8cad0df.jpg?v=1775807689
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2_9a98ef55-065c-46da-9e8b-c059e8cad0df.jpg?v=1786825026
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-5): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:51Z
+  Updated: 2026-08-17T15:20:08Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2_111.jpg?v=1775807767
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2_111.jpg?v=1786825026
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-6): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:51Z
+  Updated: 2026-08-17T15:20:08Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_3.jpg?v=1775807877
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_3.jpg?v=1786825026
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-7): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:49Z
+  Updated: 2026-08-17T15:20:08Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_4.jpg?v=1775807920
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_4.jpg?v=1786824966
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-8): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:51Z
+  Updated: 2026-08-17T15:20:08Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_5.jpg?v=1775807959
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_5.jpg?v=1786824966
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-9): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:50Z
+  Updated: 2026-08-17T15:20:08Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_6.jpg?v=1775807999
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_6.jpg?v=1786824967
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-10): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:48Z
+  Updated: 2026-08-17T15:20:08Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_8.jpg?v=1775808053
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_8.jpg?v=1786824967
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-11): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:54Z
+  Updated: 2026-08-17T15:20:09Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2203d53f-6a36-4aeb-a966-c2d5eb734a82.jpg?v=1775808092
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2203d53f-6a36-4aeb-a966-c2d5eb734a82.jpg?v=1786824966
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-12): Turkish Mosaic Floor Lamp – 7 Globe Custom Design Handmade Mosaic Lamp This uniquely designed Turkish floor lamp features handcrafted stained glass mosaic shades decorated with colorful glass pieces and beads. It is easy to assemble and suitable for use in homes or offices. Each lampshade is carefully handmade, requiring significant time and craftsmanship. Skilled artisans place hand-cut glass pieces and glass beads one by one onto glass globes to create intricate and eye-catching patterns. When illuminated, the lamp produces a truly artistic and mesmerizing light effect. High Quality This authentic Turkish mosaic lamp is made with a hand-forged metal body in an antique brass finish, offering long-lasting shine, rust resistance, and durability. Elegant Decoration Perfect for enhancing the atmosphere of living rooms, bedrooms, or offices. Its stunning light patterns create a warm and inviting ambiance, making it a true statement piece for your interior. Specifications: Height: Approximately 160 cm (may vary by model) Width: 35 cm Glass Shade Size: 17 cm (Diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 240 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic and specially crafted decorative product. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Usage & Care: For sufficient lighting, use a powerful E14 LED bulb Easy to clean with a soft cloth Customization: This product can be customized. Simply send us your preferred decor numbers via message. Note: Bulbs are not included Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:48Z
+  Updated: 2026-08-17T15:20:09Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed55.jpg?v=1775808124
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed55.jpg?v=1786824967
   Price: $189.90 USD
 - [Turkish Mosaic Floor Lamp – 9 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp): Turkish Mosaic Floor Lamp – 9 Globe Handmade Stained Glass Beaded Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful hand-cut glass pieces and beads. It is easy to assemble and suitable for use in both home and office environments. Each lampshade is carefully handmade, requiring time and skilled craftsmanship. Artisans place each glass piece and bead one by one onto glass globes, creating unique and eye-catching patterns. When illuminated, the lamp produces a stunning and artistic lighting effect. High Quality The lamp is made with a durable, hand-forged metal body in an antique brass finish, ensuring long-lasting shine, rust resistance, and strength. Elegant Decoration Perfect for living rooms, bedrooms, or offices. It adds a warm and stylish atmosphere to any space and serves as a beautiful statement piece. Specifications: Height: Approximately 195 cm (may vary by model) Width: 40 cm Glass Shade Size: 17 cm (Glass diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 130 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic decorative product. The glass pieces are fixed with silicone, while imitation products are typically coated with plaster, which may fade over time. Usage & Care: Use an E14 LED bulb for strong and efficient lighting Easy to clean with a soft cloth Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:48Z
+  Updated: 2026-08-17T15:20:09Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_ffab9171-17ef-4cac-a215-232c54c024b7.jpg?v=1775809825
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_ffab9171-17ef-4cac-a215-232c54c024b7.jpg?v=1786824966
   Price: $269.90 USD
 - [Turkish Mosaic Floor Lamp – 9 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-1): Turkish Mosaic Floor Lamp – 9 Globe Handmade Stained Glass Beaded Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful hand-cut glass pieces and beads. It is easy to assemble and suitable for use in both home and office environments. Each lampshade is carefully handmade, requiring time and skilled craftsmanship. Artisans place each glass piece and bead one by one onto glass globes, creating unique and eye-catching patterns. When illuminated, the lamp produces a stunning and artistic lighting effect. High Quality The lamp is made with a durable, hand-forged metal body in an antique brass finish, ensuring long-lasting shine, rust resistance, and strength. Elegant Decoration Perfect for living rooms, bedrooms, or offices. It adds a warm and stylish atmosphere to any space and serves as a beautiful statement piece. Specifications: Height: Approximately 195 cm (may vary by model) Width: 40 cm Glass Shade Size: 17 cm (Glass diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 130 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic decorative product. The glass pieces are fixed with silicone, while imitation products are typically coated with plaster, which may fade over time. Usage & Care: Use an E14 LED bulb for strong and efficient lighting Easy to clean with a soft cloth Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:52Z
+  Updated: 2026-08-17T15:20:09Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_426c7d91-b409-4697-a4c5-05b2c5077264.jpg?v=1775809918
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_426c7d91-b409-4697-a4c5-05b2c5077264.jpg?v=1786824966
   Price: $269.90 USD
 - [Turkish Mosaic Floor Lamp – 9 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-kopya): Turkish Mosaic Floor Lamp – 9 Globe Handmade Stained Glass Beaded Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful hand-cut glass pieces and beads. It is easy to assemble and suitable for use in both home and office environments. Each lampshade is carefully handmade, requiring time and skilled craftsmanship. Artisans place each glass piece and bead one by one onto glass globes, creating unique and eye-catching patterns. When illuminated, the lamp produces a stunning and artistic lighting effect. High Quality The lamp is made with a durable, hand-forged metal body in an antique brass finish, ensuring long-lasting shine, rust resistance, and strength. Elegant Decoration Perfect for living rooms, bedrooms, or offices. It adds a warm and stylish atmosphere to any space and serves as a beautiful statement piece. Specifications: Height: Approximately 195 cm (may vary by model) Width: 40 cm Glass Shade Size: 17 cm (Glass diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 130 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic decorative product. The glass pieces are fixed with silicone, while imitation products are typically coated with plaster, which may fade over time. Usage & Care: Use an E14 LED bulb for strong and efficient lighting Easy to clean with a soft cloth Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:51Z
+  Updated: 2026-08-17T15:20:09Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_786e2e31-47f0-4cbc-8460-e2a39db7289a.jpg?v=1775811429
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_786e2e31-47f0-4cbc-8460-e2a39db7289a.jpg?v=1786824966
   Price: $269.90 USD
 - [Turkish Mosaic Floor Lamp – 9 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-2): Turkish Mosaic Floor Lamp – 9 Globe Handmade Stained Glass Beaded Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful hand-cut glass pieces and beads. It is easy to assemble and suitable for use in both home and office environments. Each lampshade is carefully handmade, requiring time and skilled craftsmanship. Artisans place each glass piece and bead one by one onto glass globes, creating unique and eye-catching patterns. When illuminated, the lamp produces a stunning and artistic lighting effect. High Quality The lamp is made with a durable, hand-forged metal body in an antique brass finish, ensuring long-lasting shine, rust resistance, and strength. Elegant Decoration Perfect for living rooms, bedrooms, or offices. It adds a warm and stylish atmosphere to any space and serves as a beautiful statement piece. Specifications: Height: Approximately 195 cm (may vary by model) Width: 40 cm Glass Shade Size: 17 cm (Glass diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 130 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic decorative product. The glass pieces are fixed with silicone, while imitation products are typically coated with plaster, which may fade over time. Usage & Care: Use an E14 LED bulb for strong and efficient lighting Easy to clean with a soft cloth Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:47Z
+  Updated: 2026-08-17T15:20:09Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_79f23e99-b24c-48b7-93b4-67994efa7362.jpg?v=1775811476
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_79f23e99-b24c-48b7-93b4-67994efa7362.jpg?v=1786824967
   Price: $269.90 USD
 - [Turkish Mosaic Floor Lamp – 9 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-3): Turkish Mosaic Floor Lamp – 9 Globe Handmade Stained Glass Beaded Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful hand-cut glass pieces and beads. It is easy to assemble and suitable for use in both home and office environments. Each lampshade is carefully handmade, requiring time and skilled craftsmanship. Artisans place each glass piece and bead one by one onto glass globes, creating unique and eye-catching patterns. When illuminated, the lamp produces a stunning and artistic lighting effect. High Quality The lamp is made with a durable, hand-forged metal body in an antique brass finish, ensuring long-lasting shine, rust resistance, and strength. Elegant Decoration Perfect for living rooms, bedrooms, or offices. It adds a warm and stylish atmosphere to any space and serves as a beautiful statement piece. Specifications: Height: Approximately 195 cm (may vary by model) Width: 40 cm Glass Shade Size: 17 cm (Glass diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 130 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic decorative product. The glass pieces are fixed with silicone, while imitation products are typically coated with plaster, which may fade over time. Usage & Care: Use an E14 LED bulb for strong and efficient lighting Easy to clean with a soft cloth Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:47Z
+  Updated: 2026-08-17T15:20:10Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/655.jpg?v=1775811552
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/655.jpg?v=1786824966
   Price: $269.90 USD
 - [Turkish Mosaic Floor Lamp – 9 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-4): Turkish Mosaic Floor Lamp – 9 Globe Handmade Stained Glass Beaded Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful hand-cut glass pieces and beads. It is easy to assemble and suitable for use in both home and office environments. Each lampshade is carefully handmade, requiring time and skilled craftsmanship. Artisans place each glass piece and bead one by one onto glass globes, creating unique and eye-catching patterns. When illuminated, the lamp produces a stunning and artistic lighting effect. High Quality The lamp is made with a durable, hand-forged metal body in an antique brass finish, ensuring long-lasting shine, rust resistance, and strength. Elegant Decoration Perfect for living rooms, bedrooms, or offices. It adds a warm and stylish atmosphere to any space and serves as a beautiful statement piece. Specifications: Height: Approximately 195 cm (may vary by model) Width: 40 cm Glass Shade Size: 17 cm (Glass diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 130 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic decorative product. The glass pieces are fixed with silicone, while imitation products are typically coated with plaster, which may fade over time. Usage & Care: Use an E14 LED bulb for strong and efficient lighting Easy to clean with a soft cloth Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:48Z
+  Updated: 2026-08-17T15:20:10Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/555555_9723dbab-d93e-40d8-87bd-94ad61bee00b.jpg?v=1775811625
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/555555_9723dbab-d93e-40d8-87bd-94ad61bee00b.jpg?v=1786824966
   Price: $269.90 USD
 - [Turkish Mosaic Floor Lamp – 9 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-5): Turkish Mosaic Floor Lamp – 9 Globe Handmade Stained Glass Beaded Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful hand-cut glass pieces and beads. It is easy to assemble and suitable for use in both home and office environments. Each lampshade is carefully handmade, requiring time and skilled craftsmanship. Artisans place each glass piece and bead one by one onto glass globes, creating unique and eye-catching patterns. When illuminated, the lamp produces a stunning and artistic lighting effect. High Quality The lamp is made with a durable, hand-forged metal body in an antique brass finish, ensuring long-lasting shine, rust resistance, and strength. Elegant Decoration Perfect for living rooms, bedrooms, or offices. It adds a warm and stylish atmosphere to any space and serves as a beautiful statement piece. Specifications: Height: Approximately 195 cm (may vary by model) Width: 40 cm Glass Shade Size: 17 cm (Glass diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 130 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic decorative product. The glass pieces are fixed with silicone, while imitation products are typically coated with plaster, which may fade over time. Usage & Care: Use an E14 LED bulb for strong and efficient lighting Easy to clean with a soft cloth Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:46Z
+  Updated: 2026-08-17T15:20:10Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/44444444444444.jpg?v=1775811674
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/44444444444444.jpg?v=1786824966
   Price: $269.90 USD
 - [Turkish Mosaic Floor Lamp – 9 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-6): Turkish Mosaic Floor Lamp – 9 Globe Handmade Stained Glass Beaded Lamp This elegant Turkish floor lamp features handcrafted mosaic glass shades decorated with colorful hand-cut glass pieces and beads. It is easy to assemble and suitable for use in both home and office environments. Each lampshade is carefully handmade, requiring time and skilled craftsmanship. Artisans place each glass piece and bead one by one onto glass globes, creating unique and eye-catching patterns. When illuminated, the lamp produces a stunning and artistic lighting effect. High Quality The lamp is made with a durable, hand-forged metal body in an antique brass finish, ensuring long-lasting shine, rust resistance, and strength. Elegant Decoration Perfect for living rooms, bedrooms, or offices. It adds a warm and stylish atmosphere to any space and serves as a beautiful statement piece. Specifications: Height: Approximately 195 cm (may vary by model) Width: 40 cm Glass Shade Size: 17 cm (Glass diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 130 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic decorative product. The glass pieces are fixed with silicone, while imitation products are typically coated with plaster, which may fade over time. Usage & Care: Use an E14 LED bulb for strong and efficient lighting Easy to clean with a soft cloth Visit our store to explore more unique lighting and decorative products.
-  Updated: 2026-08-09T07:17:47Z
+  Updated: 2026-08-17T15:20:10Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed54.jpg?v=1775811737
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed54.jpg?v=1786824967
   Price: $269.90 USD
 - [Turkish Mosaic Floor Lamp – 11 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-11-globe-authentic-handmade-bohemian-lamp): Turkish Mosaic Floor Lamp – 11 Globe Handmade Stained Glass Beaded Lamp This elegant Turkish floor lamp features 11 handcrafted mosaic glass globes decorated with colorful hand-cut glass pieces and beads. It is easy to assemble and suitable for both home and office use. Create a stunning focal point in your interior and impress your guests with this unique and eye-catching statement piece. When illuminated, it adds a warm and artistic atmosphere to any space. Specifications: Height: Approximately 210–220 cm (may vary by model) Width: 40 cm Glass Shade Size: 17 cm (Glass diameter: 12–13 cm, larger than standard small lamps) Cable Length: Approximately 130 cm Material: Glass mosaic with beadwork on clear glass. This is an authentic decorative product. The glass pieces are fixed with silicone, while imitation products are typically coated with plaster, which may fade over time. Usage & Care: Use a powerful E14 LED bulb for sufficient lighting Easy to clean with a soft cloth Customization: We can combine different lamp designs for you. After placing your order, simply send us your preferred model numbers via message. Note: Bulbs are not included
-  Updated: 2026-08-09T07:17:46Z
+  Updated: 2026-08-17T15:20:10Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_02387732-9395-44fc-aa38-1d380d2604ab.jpg?v=1775813857
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_02387732-9395-44fc-aa38-1d380d2604ab.jpg?v=1786824966
   Price: $289.90 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:48Z
+  Updated: 2026-08-17T15:20:10Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_45af444e-6f37-43ee-b1a7-55d408ab614e.jpg?v=1776085865
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_45af444e-6f37-43ee-b1a7-55d408ab614e.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-1): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:47Z
+  Updated: 2026-08-17T15:20:11Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_dd74cb97-b88f-46da-92ce-e42234423b35.jpg?v=1776085993
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_dd74cb97-b88f-46da-92ce-e42234423b35.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-2): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:50Z
+  Updated: 2026-08-17T15:20:11Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_586b5b13-4601-45df-8df6-0235086b0f87.jpg?v=1776086040
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_586b5b13-4601-45df-8df6-0235086b0f87.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-3): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:47Z
+  Updated: 2026-08-17T15:20:11Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_ff0a8203-979c-4a89-bbe2-eb691f62d8e2.jpg?v=1776086246
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_ff0a8203-979c-4a89-bbe2-eb691f62d8e2.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-4): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:45Z
+  Updated: 2026-08-17T15:20:11Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5.jpg?v=1776096947
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-5): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:46Z
+  Updated: 2026-08-17T15:20:11Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_be131725-df6a-4f21-b40a-b452739d0a86.jpg?v=1776098486
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_be131725-df6a-4f21-b40a-b452739d0a86.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-6): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:44Z
+  Updated: 2026-08-17T15:20:11Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_13e5607c-fb0e-4a04-8511-6db84b72637a.jpg?v=1776150892
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_13e5607c-fb0e-4a04-8511-6db84b72637a.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-7): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:44Z
+  Updated: 2026-08-17T15:20:12Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_c291dc2e-a29a-49c5-846c-ab7cf90c0904.jpg?v=1776150923
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_c291dc2e-a29a-49c5-846c-ab7cf90c0904.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-8): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:46Z
+  Updated: 2026-08-17T15:20:12Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10_db8082e6-8d81-4b2c-8b2f-914346b3448d.jpg?v=1776150957
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10_db8082e6-8d81-4b2c-8b2f-914346b3448d.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-9): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:44Z
+  Updated: 2026-08-17T15:20:12Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/65465.jpg?v=1776150992
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/65465.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-10): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:43Z
+  Updated: 2026-08-17T15:20:12Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_5_1a7d3153-ab2f-450c-8340-227cdf9f932f.jpg?v=1776151027
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_5_1a7d3153-ab2f-450c-8340-227cdf9f932f.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-11): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:43Z
+  Updated: 2026-08-17T15:20:12Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_6_9dfacc7c-3d25-4f9a-91c2-031a3ca916bd.jpg?v=1776151060
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_6_9dfacc7c-3d25-4f9a-91c2-031a3ca916bd.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-12): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:44Z
+  Updated: 2026-08-17T15:20:13Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_7.jpg?v=1776151098
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_7.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-13): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:45Z
+  Updated: 2026-08-17T15:20:13Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_8_375682b4-8c16-4934-9ade-68d8e16b931b.jpg?v=1776151136
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_8_375682b4-8c16-4934-9ade-68d8e16b931b.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-14): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:42Z
+  Updated: 2026-08-17T15:20:13Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_9.jpg?v=1776151167
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_9.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-15): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:43Z
+  Updated: 2026-08-17T15:20:13Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_10.jpg?v=1776151203
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_10.jpg?v=1786824966
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-16): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:44Z
+  Updated: 2026-08-17T15:20:13Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_11.jpg?v=1776151248
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_11.jpg?v=1786824907
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-17): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:44Z
+  Updated: 2026-08-17T15:20:13Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_12.jpg?v=1776151291
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_12.jpg?v=1786824906
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-18): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:41Z
+  Updated: 2026-08-17T15:20:14Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_13.jpg?v=1776151328
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_13.jpg?v=1786824906
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-19): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:41Z
+  Updated: 2026-08-17T15:20:14Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_14.jpg?v=1776151377
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_14.jpg?v=1786824906
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-20): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:43Z
+  Updated: 2026-08-17T15:20:14Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_15.jpg?v=1776151413
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_15.jpg?v=1786824907
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-21): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:41Z
+  Updated: 2026-08-17T15:20:14Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_16.jpg?v=1776151450
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_16.jpg?v=1786824906
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lightin): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:40Z
+  Updated: 2026-08-17T15:20:14Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_19.jpg?v=1776151492
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_19.jpg?v=1786824906
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lightin-1): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:41Z
+  Updated: 2026-08-17T15:20:15Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_24.jpg?v=1776151537
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_24.jpg?v=1786824906
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-22): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:40Z
+  Updated: 2026-08-17T15:20:15Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_25.jpg?v=1776151580
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_25.jpg?v=1786824906
   Price: $49.92 USD
 - [Turkish Mosaic Wall Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-23): Turkish Mosaic Wall Lamp Handmade Authentic Decorative Lighting This elegant Turkish wall lamp features a handcrafted mosaic glass shade made with colorful hand-cut glass pieces and glass beads. Each piece is carefully placed one by one by skilled artisans, creating unique and eye-catching patterns. High Quality This authentic mosaic lamp is made with a durable, hand-forged metal body in an antique brass finish. It offers long-lasting shine, rust resistance, and excellent durability. Elegant Decoration Perfect for living rooms, bedrooms, hallways, balconies, or gardens. When illuminated, it creates a stunning light pattern that adds a warm and artistic atmosphere to any space. A true statement piece that will impress your guests. Perfect Gift A beautiful and unique gift for any occasion. These bohemian-style lamps are ideal for home décor and will surely impress friends, family, clients, or loved ones. Specifications: Wall Bracket Height: 39 cm Lamp Width: 11 cm Glass Shade Width: 17 cm (Glass diameter: 13 cm – larger than standard small lamps) Features: On/Off switch on the cable for easy use Can also be used as a night light Material: Glass mosaic with beadwork on clear glass. The glass pieces are fixed with silicone, while imitation products are usually coated with plaster, which may fade over time. Care Instructions: Easily cleaned with a soft cloth. Usage: Use a powerful E14 LED bulb for sufficient lighting. Visit our store to explore more unique lighting and decorative products. Note: Bulb is not included
-  Updated: 2026-08-09T07:17:40Z
+  Updated: 2026-08-17T15:20:15Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_26.jpg?v=1776151615
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_26.jpg?v=1786824906
   Price: $49.92 USD
 - [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:41:03Z
+  Updated: 2026-08-17T15:20:15Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_36a2f939-da03-4741-bf4a-7dc94dc37351.jpg?v=1776154324
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_36a2f939-da03-4741-bf4a-7dc94dc37351.jpg?v=1786824906
   Price: $48.90 USD
 - [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-1): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:40:57Z
+  Updated: 2026-08-17T15:20:15Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_41cc0d92-5571-4a95-aed9-bad7f5e3a012.jpg?v=1776154412
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_41cc0d92-5571-4a95-aed9-bad7f5e3a012.jpg?v=1786824906
   Price: $48.90 USD
 - [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-2): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:41:27Z
+  Updated: 2026-08-17T15:20:15Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_d65882b3-1f16-4637-a9e4-789c33ad94ee.jpg?v=1776154446
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_d65882b3-1f16-4637-a9e4-789c33ad94ee.jpg?v=1786824906
   Price: $48.90 USD
 - [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-3): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:41:20Z
+  Updated: 2026-08-17T15:20:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_4d2eef03-5136-4006-9e6b-ff44cfdcb299.jpg?v=1776154477
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_4d2eef03-5136-4006-9e6b-ff44cfdcb299.jpg?v=1786824906
   Price: $48.90 USD
 - [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-4): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:40:30Z
+  Updated: 2026-08-17T15:20:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5_41e526ec-5585-45d9-acd3-e32128ca61a4.jpg?v=1776154507
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5_41e526ec-5585-45d9-acd3-e32128ca61a4.jpg?v=1786824906
   Price: $48.90 USD
 - [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-5): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:40:06Z
+  Updated: 2026-08-17T15:20:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_48949f91-a7c6-4ed0-b90b-7264f342d4da.jpg?v=1776154552
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_48949f91-a7c6-4ed0-b90b-7264f342d4da.jpg?v=1786824906
   Price: $48.90 USD
 - [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-6): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:40:24Z
+  Updated: 2026-08-17T15:20:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_b9f034ae-4df3-4774-97c4-dd32ef08d98c.jpg?v=1776154597
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_b9f034ae-4df3-4774-97c4-dd32ef08d98c.jpg?v=1786824906
   Price: $48.90 USD
 - [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-7): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:39:05Z
+  Updated: 2026-08-17T15:20:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_03422222-be68-498b-9243-d2e3ccbefe73.jpg?v=1776154629
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_03422222-be68-498b-9243-d2e3ccbefe73.jpg?v=1786824906
   Price: $48.90 USD
-- [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-8): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-09T07:15:38Z
-  Vendor: AURALAMP
-  Product Type: Pendant
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9_33cc514f-af4c-4322-872b-780bac5aa460.jpg?v=1776154719
-  Price: $48.90 USD
-- [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-9): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:40:00Z
-  Vendor: AURALAMP
-  Product Type: Pendant
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10_afd316a3-a73b-49f6-bfe9-f960e3bad7be.jpg?v=1776154750
-  Price: $48.90 USD
-- [Turkish Mosaic Pendant Lamp](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-10): 100% Handmade Turkish Mosaic Pendant Lamp Bring warmth and character into your space with this beautifully handcrafted Turkish mosaic lamp. Each piece is carefully made by skilled artisans using hand-cut glass and glass beads, placed one by one to create unique and captivating patterns. Designed to be both decorative and functional, this lamp creates a stunning play of light when illuminated, adding an elegant and artistic atmosphere to any interior. A Statement Decorative Piece Perfect for living rooms, bedrooms, or workspaces, this lamp enhances your décor with its authentic and timeless design. It can also be used as a soft ambient or night light. Product Details Total Height: Approx. 57 cm (from ceiling to bottom, may vary by model) Glass Shade Width: 18 cm Glass Diameter: 12–14 cm Materials & Craftsmanship Made from mosaic glass and beadwork on clear glass. Each piece is assembled using silicone for durability. Unlike low-quality imitations, this method ensures long-lasting color and quality. Care & Usage Easy to clean with a soft cloth Use an E14 LED bulb for optimal lighting Explore our collection for more unique handmade lighting designs. Note Bulb is not included
-  Updated: 2026-08-13T10:38:49Z
-  Vendor: AURALAMP
-  Product Type: Pendant
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11_75c51fd4-d8bc-467f-b272-57b5b66e5a73.jpg?v=1776154791
-  Price: $48.90 USD
-[List Continued](https://mallturk.com/a/llms-agent/llms.txt?shop=ur75zc-yy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzkzODU3NjIyMDY4LCJsYXN0X3ZhbHVlIjoiODc5Mzg1NzYyMjA2OCJ9)
+[List Continued](https://mallturk.com/a/llms-agent/llms.txt?shop=ur75zc-yy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzkzODU3MzkyNjkyLCJsYXN0X3ZhbHVlIjoiODc5Mzg1NzM5MjY5MiJ9)
 
 ## Collections
 
 - [Home page](https://mallturk.com/collections/frontpage)
-  Updated: 2026-08-08T19:21:17Z
+  Updated: 2026-08-17T15:19:54Z
   Total Products: 3
 - [Turkish mosaic Chandelier](https://mallturk.com/collections/chandelier): Bring the enchanting glow of authentic craftsmanship into your living space. Our Turkish mosaic chandeliers are meticulously handcrafted to blend traditional Ottoman artistry with contemporary design. Available in a stunning array of colors and unique spiral designs, each piece serves as a timeless masterpiece that transforms any corner into an illuminated sanctuary.
-  Updated: 2026-08-11T15:59:16Z
+  Updated: 2026-08-18T09:23:59Z
   Total Products: 65
 - [Turkish mosaic floor lamps](https://mallturk.com/collections/floor-lamp): Bring the enchanting glow of authentic craftsmanship into your living space. Our Turkish mosaic floor lamps are meticulously handcrafted to blend traditional Ottoman artistry with contemporary design. Available in a stunning array of colors and unique spiral designs, each piece serves as a timeless masterpiece that transforms any corner into an illuminated sanctuary.
-  Updated: 2026-08-11T15:59:47Z
+  Updated: 2026-08-18T09:18:25Z
   Total Products: 27
 - [Turkish Coffee Machines](https://mallturk.com/collections/turkish-coffee-machines)
-  Updated: 2026-08-10T13:46:24Z
-  Total Products: 78
+  Updated: 2026-08-18T15:12:10Z
+  Total Products: 83
 - [Cookware](https://mallturk.com/collections/cookware)
-  Updated: 2026-08-08T19:12:09Z
-  Total Products: 5
+  Updated: 2026-08-18T15:42:56Z
+  Total Products: 596
 - [Women's Clothing](https://mallturk.com/collections/womens-clothing)
-  Updated: 2026-08-04T14:59:23Z
+  Updated: 2026-08-17T15:19:54Z
   Total Products: 4
-- [Coffee Machines](https://mallturk.com/collections/coffee-machines)
-  Updated: 2026-08-08T19:12:07Z
-  Total Products: 5
 - [Turkish coffee set](https://mallturk.com/collections/turkish-coffee-set)
-  Updated: 2026-08-10T10:09:14Z
-  Total Products: 70
+  Updated: 2026-08-21T14:25:15Z
+  Total Products: 135
 - [Automatic Coffee Machine](https://mallturk.com/collections/automatic-coffee-machine)
-  Updated: 2026-08-10T12:30:47Z
+  Updated: 2026-08-17T15:19:54Z
   Total Products: 29
 - [Ground Coffee](https://mallturk.com/collections/ground-coffee)
-  Updated: 2026-08-12T11:55:01Z
-  Total Products: 1063
+  Updated: 2026-08-22T10:47:51Z
+  Total Products: 1116
 - [Mosaic Wall Lamp](https://mallturk.com/collections/mosaic-wall-lamp): Handmade Turkish mosaic wall sconces. Premium products with special designs for wall lighting at MALLTURK
-  Updated: 2026-08-11T16:02:01Z
+  Updated: 2026-08-18T09:23:39Z
   Total Products: 26
 - [Turkish Mosaic Table Lamp, Bedside Lamp](https://mallturk.com/collections/turkish-mosaic-table-lamp-bedside-lamp): Handmade Turkish mosaic table lamp collection. Premium lamps with special design for Handmade Turkish mosaic table lamps. Premium products for lighting tables and bedside tables at MALLTURK tables and bedside tables.
-  Updated: 2026-08-11T16:01:22Z
+  Updated: 2026-08-18T09:21:26Z
   Total Products: 65
 - [Turkish Delight](https://mallturk.com/collections/turkish-delight)
-  Updated: 2026-08-13T13:48:14Z
-  Total Products: 1672
+  Updated: 2026-08-22T10:48:12Z
+  Total Products: 1769
 - [TEA](https://mallturk.com/collections/tea-1)
-  Updated: 2026-08-12T09:08:47Z
+  Updated: 2026-08-17T15:19:55Z
   Total Products: 1353
 - [Bathrobe Sets](https://mallturk.com/collections/bathrobe-sets)
-  Updated: 2026-08-15T11:26:23Z
+  Updated: 2026-08-17T15:19:55Z
   Total Products: 133
 - [Bedding](https://mallturk.com/collections/bedding)
-  Updated: 2026-08-15T13:56:20Z
+  Updated: 2026-08-18T09:22:15Z
   Total Products: 1268
 - [Towels](https://mallturk.com/collections/towels)
-  Updated: 2026-08-13T11:56:29Z
+  Updated: 2026-08-17T15:19:55Z
   Total Products: 104
 - [Tea Makers](https://mallturk.com/collections/tea-makers)
-  Updated: 2026-08-13T15:19:08Z
+  Updated: 2026-08-17T15:19:55Z
   Total Products: 347
 - [Teapot Set](https://mallturk.com/collections/teapot-set)
-  Updated: 2026-08-14T08:40:40Z
-  Total Products: 412
+  Updated: 2026-08-17T15:19:55Z
+  Total Products: 431
 - [Cutlery](https://mallturk.com/collections/cutlery)
-  Updated: 2026-08-13T15:48:23Z
+  Updated: 2026-08-18T09:34:03Z
   Total Products: 897
 - [Pressure Cookers](https://mallturk.com/collections/pressure-cookers)
-  Updated: 2026-08-14T11:47:57Z
-  Total Products: 105
+  Updated: 2026-08-17T15:19:55Z
+  Total Products: 111
 - [Men's Jeans](https://mallturk.com/collections/mens-jeans)
-  Updated: 2026-08-15T14:48:19Z
-  Total Products: 215
+  Updated: 2026-08-18T10:27:21Z
+  Total Products: 206
 - [Home & Living](https://mallturk.com/collections/home-living)
-  Updated: 2026-08-14T14:39:17Z
+  Updated: 2026-08-17T15:19:55Z
   Total Products: 0
 - [Rose Products](https://mallturk.com/collections/rose-products)
-  Updated: 2026-08-14T14:50:09Z
+  Updated: 2026-08-17T15:19:55Z
   Total Products: 86
 - [Boys' Clothing](https://mallturk.com/collections/boys-clothing)
-  Updated: 2026-08-15T14:13:04Z
+  Updated: 2026-08-17T15:19:55Z
   Total Products: 2
+- [Women's Jeans](https://mallturk.com/collections/womens-jeans)
+  Updated: 2026-08-18T10:27:21Z
+  Total Products: 81
+- [Juicers](https://mallturk.com/collections/juicers)
+  Updated: 2026-08-18T08:17:15Z
+  Total Products: 6
+- [Lipstick](https://mallturk.com/collections/lipstick)
+  Updated: 2026-08-18T09:33:01Z
+  Total Products: 0
+- [Nail Polish](https://mallturk.com/collections/nail-polish)
+  Updated: 2026-08-18T09:32:01Z
+  Total Products: 0
+- [Nail Care](https://mallturk.com/collections/nail-care)
+  Updated: 2026-08-18T09:31:37Z
+  Total Products: 0
+- [Makeup Supplies](https://mallturk.com/collections/makeup-supplies)
+  Updated: 2026-08-18T11:49:50Z
+  Total Products: 159
+- [Agricultural Pumps](https://mallturk.com/collections/agricultural-pumps)
+  Updated: 2026-08-18T08:38:07Z
+  Total Products: 22
+- [Women's Bags](https://mallturk.com/collections/womens-bags)
+  Updated: 2026-08-20T13:20:09Z
+  Total Products: 1253
+- [Spices & Seasonings](https://mallturk.com/collections/spices-seasonings)
+  Updated: 2026-08-18T10:42:46Z
+  Total Products: 129
+- [Hair Care](https://mallturk.com/collections/hair-care)
+  Updated: 2026-08-18T12:15:47Z
+  Total Products: 90
+- [Lip Makeup & Care](https://mallturk.com/collections/lip-makeup-care)
+  Updated: 2026-08-19T09:31:00Z
+  Total Products: 84
+- [Turkish Pestemal](https://mallturk.com/collections/turkish-pestemal)
+  Updated: 2026-08-18T14:05:01Z
+  Total Products: 4
+- [Mavi Jeans](https://mallturk.com/collections/mavi-jeans): Discover all Mavi Jeans products at MALLTURK. The high-quality and stylish Mavi collection.
+  Updated: 2026-08-18T15:24:44Z
+  Total Products: 292
+- [Men's Shoes](https://mallturk.com/collections/mens-shoes)
+  Updated: 2026-08-19T09:32:13Z
+  Total Products: 2
+- [Men's Boots](https://mallturk.com/collections/mens-boots)
+  Updated: 2026-08-19T13:43:28Z
+  Total Products: 27
+- [Women's Boots](https://mallturk.com/collections/womens-boots)
+  Updated: 2026-08-19T10:32:47Z
+  Total Products: 7
+- [Unisex Boots](https://mallturk.com/collections/unisex-boots)
+  Updated: 2026-08-19T09:37:09Z
+  Total Products: 1
+- [Women's Wallet](https://mallturk.com/collections/womens-wallet)
+  Updated: 2026-08-20T07:44:52Z
+  Total Products: 69
+- [Vitamins and Supplements](https://mallturk.com/collections/vitamins-and-supplements)
+  Updated: 2026-08-20T12:17:26Z
+  Total Products: 365
+- [Women's Backpack](https://mallturk.com/collections/womens-backpack)
+  Updated: 2026-08-20T07:49:01Z
+  Total Products: 18
+- [Men's Outerwear](https://mallturk.com/collections/mens-outerwear)
+  Updated: 2026-08-19T15:13:23Z
+  Total Products: 24
+- [Rugs](https://mallturk.com/collections/rugs)
+  Updated: 2026-08-21T06:53:06Z
+  Total Products: 188
+- [Bee Products](https://mallturk.com/collections/bee-products)
+  Updated: 2026-08-19T16:37:51Z
+  Total Products: 55
+- [Women's Outerwear](https://mallturk.com/collections/womens-outerwear)
+  Updated: 2026-08-20T11:58:20Z
+  Total Products: 22
+- [Sports Nutrition](https://mallturk.com/collections/sports-nutrition)
+  Updated: 2026-08-20T13:32:33Z
+  Total Products: 136
+- [Wool Rugs](https://mallturk.com/collections/wool-rugs)
+  Updated: 2026-08-21T12:54:06Z
+  Total Products: 2378
+- [Bamboo Rugs](https://mallturk.com/collections/bamboo-rugs)
+  Updated: 2026-08-21T06:52:50Z
+  Total Products: 221
+- [Turkish Ceramic Vases](https://mallturk.com/collections/turkish-ceramic-vases)
+  Updated: 2026-08-21T13:09:12Z
+  Total Products: 0
+- [Porcelain Vases](https://mallturk.com/collections/porcelain-vases)
+  Updated: 2026-08-21T13:16:17Z
+  Total Products: 0
+- [Handmade cini Vases & Decoration](https://mallturk.com/collections/handmade-vases)
+  Updated: 2026-08-22T08:53:27Z
+  Total Products: 250
+- [Handmade cini](https://mallturk.com/collections/home-decor)
+  Updated: 2026-08-22T13:12:02Z
+  Total Products: 633
+- [Turkish Baklava](https://mallturk.com/collections/turkish-baklava)
+  Updated: 2026-08-21T16:35:58Z
+  Total Products: 94
+- [Garden Equipment](https://mallturk.com/collections/garden-equipment)
+  Updated: 2026-08-22T09:07:52Z
+  Total Products: 0
 
 ## Store Pages
 
-- [Contact Us](https://mallturk.com/pages/contact): If you have any questions, concerns, or inquiries regarding our products, services, or your orders, please do not hesitate to contact us. Our custo...
-  Updated: 2026-07-06T14:48:34Z
+- [Contact Us](https://mallturk.com/pages/contactus): Email: info@mallturk.com Phone: Mr.Mehmet Okatan +90 5465821660 (English - عربي) Ms.Fatmagul Akkavim +90 5446583608 (Русский - English - 한국인) Worki...
+  Updated: 2026-08-19T13:26:16Z
 - [Return & Refund Policy](https://mallturk.com/pages/refund-policy): Return & Refund Policy We gladly accept returns on unused, unwashed, and original-packaged items. Return Period1. Please contact us at info@malltur...
   Updated: 2026-07-14T09:50:51Z
 - [Shipping Policy](https://mallturk.com/pages/shipping-policy): We aim to process and ship orders as quickly and safely as possible. Worldwide Shipping from TurkeyTo ensure the highest product quality and direct...
@@ -1036,18 +1111,24 @@
   Updated: 2026-05-15T12:41:16Z
 - [11 Globe Floor Lamps](https://mallturk.com/pages/11-globe-floor-lamps)
   Updated: 2026-05-15T12:41:33Z
-- [About Us](https://mallturk.com/pages/about): Welcome to MallTurk, a leading lighting manufacturer and designer inspired by the timeless elegance of Ottoman Culture and Art. Our mission is to p...
-  Updated: 2026-08-13T12:10:45Z
+- [About Us](https://mallturk.com/pages/about): MALLTURK LLC As MallTurk LLC, we make global trade more efficient, transparent, and accessible with our innovative technologies and robust infrastr...
+  Updated: 2026-08-19T14:31:35Z
 - [Frequently Asked Questions](https://mallturk.com/pages/frequently-asked-questions): Delivery & Tracking Our money-back guarantee is outside the timeframe for non-delivery.The product must be delivered within 45 days, including ship...
   Updated: 2026-08-13T16:29:13Z
 - [Your Privacy Choices](https://mallturk.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-07-08T14:39:09Z
 - [Warranty](https://mallturk.com/pages/warranty): Customer Satisfaction & Delivery Guarantee All orders are professionally packaged to ensure maximum protection. MallTurk LLC is fully responsible f...
-  Updated: 2026-08-13T13:50:28Z
+  Updated: 2026-08-19T15:02:40Z
 - [Help centre](https://mallturk.com/pages/help-centre-kopyasi): Delivery & Tracking Our money-back guarantee is outside the timeframe for non-delivery.The product must be delivered within 45 days, including ship...
   Updated: 2026-08-13T16:27:14Z
 - [Search Results](https://mallturk.com/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
   Updated: 2026-08-15T12:47:42Z
+- [Contact Us - MALLTURK](https://mallturk.com/pages/whosale-contact-us): Email: info@mallturk.com Phone: Mr.Mehmet Okatan +90 5465821660 (English - عربي) Ms.Fatmagul Akkavim +90 5446583608 (Русский - English - 한국인) Worki...
+  Updated: 2026-08-19T14:24:04Z
+- [](https://mallturk.com/pages/afillite)
+  Updated: 2026-08-19T15:01:09Z
+- [Whosale](https://mallturk.com/pages/whosale)
+  Updated: 2026-08-19T14:58:08Z
 
 ## Policies
 
