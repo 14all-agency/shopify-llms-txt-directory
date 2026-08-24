@@ -6,7 +6,7 @@
 - Timezone: Asia/Taipei
 - Created At: 2020-05-06T12:41:58Z
 - Contact Email: evan5471@gmail.com
-- Updated At: 2026-08-14T00:00:38.682Z
+- Updated At: 2026-08-24T00:00:41.228Z
 
 ## Products
 
@@ -131,315 +131,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/products/69.png?v=1590869034
   Price: $150.00 USD
-- [Black Rose Lace & Underwired Soft Bra](https://aprilmint.com/products/black-rose-pretty-lace-bralette): EDITOR'S NOTE APRIL MINT's goal is to make you feel good getting dressed, which is why its lingerie is always so flattering. This soft-cup 'Black Rose' soft bra is made from stretch-jersey trimmed in satin and fitted with underwire for gentle support. DETAILS & CARE Matching color stretch-tulle and jersey 84% polyamide, 16% Elastane Imported SIZE & FIT Fits true to size, take your normal size Triangle style Fully adjustable shoulder straps Model is 175cm / 5'9", bra size 32B and is wearing a size 32B View Product measurements DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-17T21:18:38Z
-  Vendor: April Mint
-  Product Type: lingerie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/products/82.png?v=1594147451
-  - [70b / 32b / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271597701)
-    Availability: Available
-    Price: $99.00 USD
-  - [70b / 32b / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271630469)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [70c / 32c / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271663237)
-    Availability: Available
-    Price: $99.00 USD
-  - [70c / 32c / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271696005)
-    Availability: Available
-    Price: $99.00 USD
-  - [75b / 34b / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271728773)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [75b / 34b / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271761541)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [75c / 34c / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271794309)
-    Availability: Available
-    Price: $99.00 USD
-  - [75c / 34c / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271827077)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [75d / 34d / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271859845)
-    Availability: Available
-    Price: $99.00 USD
-  - [75d / 34d / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271925381)
-    Availability: Available
-    Price: $99.00 USD
-  - [80b / 36b / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271958149)
-    Availability: Available
-    Price: $99.00 USD
-  - [80b / 36b / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464271990917)
-    Availability: Available
-    Price: $99.00 USD
-  - [80c / 36c / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272023685)
-    Availability: Available
-    Price: $99.00 USD
-  - [80c / 36c / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272056453)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [80d / 36d / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272089221)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [80d / 36d / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272121989)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [85b / 38b / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272154757)
-    Availability: Available
-    Price: $99.00 USD
-  - [85b / 38b / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272187525)
-    Availability: Available
-    Price: $99.00 USD
-  - [85c / 38c / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272220293)
-    Availability: Available
-    Price: $99.00 USD
-  - [85c / 38c / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272253061)
-    Availability: Available
-    Price: $99.00 USD
-  - [85d / 38d / Black](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272285829)
-    Availability: Available
-    Price: $99.00 USD
-  - [85d / 38d / Green](https://aprilmint.com/products/black-rose-pretty-lace-bralette?variant=34464272318597)
-    Availability: Available
-    Price: $99.00 USD
-- [Black Cherry Stretch-Tulle and Lace Underwired Bra](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie): EDITOR'S NOTE APRIL MINT's 'Black Cherry' bra stretch-lace underwired soft-cup bra ensures maximum support and comfort, especially for those with fuller busts. Made from smooth stretch-tulle and lace, it offers medium coverage and has adjustable straps that are carefully centered on your shoulders to prevent them from sliding off. DETAILS & CARE Matching color stretch-tulle and jersey 84% polyamide, 16% Elastane Imported SIZE & FIT Fits true to size, take your normal size Triangle style Fully adjustable shoulder straps Model is 175cm / 5'9", bra size 32B and is wearing a size 32B View Product measurements DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-17T09:36:01Z
-  Vendor: April Mint
-  Product Type: lingerie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/products/88.png?v=1674125955
-  - [70b / 32b / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226688133)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [70b / 32b / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226720901)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [70b / 32b / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226753669)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [70c / 32c / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226786437)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [70c / 32c / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226819205)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [70c / 32c / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226851973)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [75b / 34b / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226884741)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [75b / 34b / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226917509)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [75b / 34b / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226950277)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [75c / 34c / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650226983045)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [75c / 34c / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227015813)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [75c / 34c / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227048581)
-    Availability: Available
-    Price: $99.00 USD
-  - [75d / 34d / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227081349)
-    Availability: Available
-    Price: $99.00 USD
-  - [75d / 34d / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227114117)
-    Availability: Available
-    Price: $99.00 USD
-  - [75d / 34d / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227146885)
-    Availability: Available
-    Price: $99.00 USD
-  - [80b / 36b / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227179653)
-    Availability: Available
-    Price: $99.00 USD
-  - [80b / 36b / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227212421)
-    Availability: Available
-    Price: $99.00 USD
-  - [80b / 36b / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227245189)
-    Availability: Available
-    Price: $99.00 USD
-  - [80c / 36c / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227277957)
-    Availability: Available
-    Price: $99.00 USD
-  - [80c / 36c / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227310725)
-    Availability: Available
-    Price: $99.00 USD
-  - [80c / 36c / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227343493)
-    Availability: Available
-    Price: $99.00 USD
-  - [80d / 36d / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227376261)
-    Availability: Available
-    Price: $99.00 USD
-  - [80d / 36d / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227409029)
-    Availability: Available
-    Price: $99.00 USD
-  - [80d / 36d / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227441797)
-    Availability: Available
-    Price: $99.00 USD
-  - [85b / 38b / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227474565)
-    Availability: Available
-    Price: $99.00 USD
-  - [85b / 38b / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227507333)
-    Availability: Available
-    Price: $99.00 USD
-  - [85b / 38b / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227540101)
-    Availability: Available
-    Price: $99.00 USD
-  - [85c / 38c / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227572869)
-    Availability: Available
-    Price: $99.00 USD
-  - [85c / 38c / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227605637)
-    Availability: Available
-    Price: $99.00 USD
-  - [85c / 38c / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227638405)
-    Availability: Available
-    Price: $99.00 USD
-  - [85d / 38d / Black](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227671173)
-    Availability: Available
-    Price: $99.00 USD
-  - [85d / 38d / Grey](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227703941)
-    Availability: Available
-    Price: $99.00 USD
-  - [85d / 38d / Pink](https://aprilmint.com/products/black-cherry-3-4-top-lace-lingerie?variant=34650227736709)
-    Availability: Available
-    Price: $99.00 USD
-- [Black Swan Lace and Tulle Underwired Bra](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra): EDITOR'S NOTE Lingerie is the starting point of any good outfit, which is why you feel so put-together in a matching set, APRIL MINT's bra is a chic option to add to your collection. Cut from lace and tulle, this half-cup style is underwired for support and has two straps for details. DETAILS & CARE Matching color stretch-tulle and jersey 84% polyamide, 16% Elastane Imported SIZE & FIT Fits true to size, take your normal size Triangle style Fully adjustable shoulder straps Model is 175cm / 5'9", bra size 32B and is wearing a size 32B View Product measurements DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-18T07:15:03Z
-  Vendor: April Mint
-  Product Type: lingerie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/products/32_270810d9-a32d-4218-852a-1cc620473efa.png?v=1605623315
-  - [Black / 70b / 32b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797013637)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 70c / 32c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797046405)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 75b / 34b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797079173)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 75c / 34c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797111941)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 75d / 34d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797144709)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 80b / 36b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797177477)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 80c / 36c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797210245)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 80d / 36d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797243013)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 85b / 38b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797275781)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 85c / 38c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797308549)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Black / 85d / 38d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797341317)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 70b / 32b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797374085)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 70c / 32c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797406853)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 75b / 34b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797439621)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 75c / 34c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797472389)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 75d / 34d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797505157)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 80b / 36b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797537925)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 80c / 36c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797570693)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 80d / 36d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797603461)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 85b / 38b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797636229)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 85c / 38c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797668997)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 85d / 38d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465797701765)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 70b / 32b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798455429)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 70c / 32c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798488197)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 75b / 34b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798520965)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 75c / 34c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798553733)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 75d / 34d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798586501)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 80b / 36b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798619269)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 80c / 36c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798652037)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 80d / 36d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798684805)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 85b / 38b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798717573)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 85c / 38c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798750341)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 85d / 38d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34465798783109)
-    Availability: Available
-    Price: $99.00 USD
-  - [Black / 90b / 40b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34719887851653)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Green / 90b / 40b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34719889850501)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 90b / 40b](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34719890047109)
-    Availability: Available
-    Price: $99.00 USD
-  - [Black / 90c / 40c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34719890342021)
-    Availability: Available
-    Price: $99.00 USD
-  - [Green / 90c / 40c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34719891030149)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 90c / 40c](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34719891193989)
-    Availability: Available
-    Price: $99.00 USD
-  - [Black / 90d / 40d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34719891587205)
-    Availability: Available
-    Price: $99.00 USD
-  - [Green / 90d / 40d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34719891685509)
-    Availability: Not Available
-    Price: $99.00 USD
-  - [Champagne / 90d / 40d](https://aprilmint.com/products/black-swan-sexy-hollow-out-lace-bra?variant=34719892308101)
-    Availability: Available
-    Price: $99.00 USD
 - [Garvin Floral Lace Front Closure Bra with Under-Wire](https://aprilmint.com/products/garvin-under-wire-floral-lace-bra): EDITOR'S NOTE APRIL MINT's 'Garvin' floral bra is made with molded cups to give you a complete push-up look. It’s cut in a triangle shape and unhooks at the front. This non-underwired style is finished with flexible lace back and adjustable shoulder straps. DETAILS & CARE Matching color stretch-tulle and jersey Slips on 84% polyamide, 16% Elastane Imported SIZE & FIT Fits true to size, take your normal size Triangle style Fully adjustable shoulder straps Model is 175cm / 5'9", bra size 32B and is wearing a size 32B View Product measurements DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
   Updated: 2026-07-18T00:35:15Z
   Vendor: April Mint
@@ -647,13 +338,6 @@
   - [L/XL / BROWN](https://aprilmint.com/products/copy-of-gina-power-sculpting-bike-short?variant=39509264793733)
     Availability: Available
     Price: $69.00 USD
-- [Bianka Hand Made Wheat Hat](https://aprilmint.com/products/bianka-straw-hat): EDITOR'S NOTE "Bianka " hat is woven from lightweight wheat in a CURVE-brimmed silhouette - perfect for keeping your face and décolletage protected from the sun. It's simple drapes elegantly over a loose waves. DETAILS & CARE Material : Wheat Straw DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-17T08:20:35Z
-  Vendor: April Mint
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/products/Biance-d3.jpg?v=1657323214
-  Price: $149.00 USD
 - [Fiona Hand Made Resort Wheat Hat](https://aprilmint.com/products/fiona-hat): EDITOR'S NOTE "Fiona" hat is meticulously woven from wheat in a structured wide-brim silhouette that's chic and protective. It's finished with black trim that's intricately folded and tied in an sculptural bow. DETAILS & CARE Material : Wheat straw DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
   Updated: 2026-07-17T11:29:53Z
   Vendor: April Mint
@@ -901,13 +585,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/products/PHOTO-2022-07-08-00-30-032.jpg?v=1753648638
   Price: $128.00 USD
-- [Bianka Plus Hand Made Wheat Hat with Ribbon](https://aprilmint.com/products/bianka-hand-made-wheat-hat-with-ribbon): EDITOR'S NOTE "Bianka Plus" hat is woven from lightweight wheat in a CURVE-brimmed silhouette - perfect for keeping your face and décolletage protected from the sun. It's simple drapes elegantly over a loose waves and with ribbon. DETAILS & CARE Material : Wheat straw DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-15T17:35:53Z
-  Vendor: April Mint
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/products/886aef7f-e9e5-4467-938e-3e755c8f3740.jpg?v=1657323619
-  Price: $149.00 USD
 - [Miranda Power Sculpting Shape Short](https://aprilmint.com/products/miranda-power-sculpting-shape-short): EDITOR'S NOTE: Invisible under everything, this Miranda high waist power sculpting shape short provides core support while shaping and lifting your butt. The whisper-soft and seamless construction makes this high waist sculpting short an everyday staple for enhancing your body's natural shape. If you prefer more comfort for everyday wear, we recommend selecting a size up. DETAILS & CARE High Waist , Full Back, Seamless Construction Machine Wash Cold, Do Not Bleach Imported SIZE & FIT Harper is 5'5" And Wearing Size S/M 78% Nylon / 22% Spandex DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
   Updated: 2026-07-15T04:41:37Z
   Vendor: April Mint
@@ -1039,7 +716,7 @@
   Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/IMG_7311.jpg?v=1682409479
   Price: $149.00 USD
 - [Harper High Waisted Tummy Control Butt Lifter Short](https://aprilmint.com/products/harper-power-sculpting-short): EDITOR'S NOTE Invisible under everything, this Harper power sculpting short provides core support while shaping and lifting your butt. The whisper-soft and seamless construction makes this sculpting short an everyday staple for enhancing your body's natural shape. DETAILS & CARE 4 way-stretch technology material to provide highest compression on the belly/waist/back and stable non-slip technology to keep everything in place while being comfortable 90% Nylon, 10% Spandex Pull-On closure SIZE & FIT 6 different sizes. From XS/S to 5XL Llook at our sizing chart for more measurement details. DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-15T12:46:53Z
+  Updated: 2026-08-22T12:59:49Z
   Vendor: April Mint
   Product Type: shapewear
   Availability: Available
@@ -1215,153 +892,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/IMG_6781.jpg?v=1708452083
     Price: $119.00 USD
-- [Garvin Floral Lace Brief](https://aprilmint.com/products/garvin-floral-lace-brief-2): EDITOR'S NOTE APRIL MINT's 'Garvin' floral brief is match the lace bra. DETAILS & CARE Matching color stretch-tulle and jersey Slips on 84% polyamide, 16% Elastane Imported SIZE & FIT Fits true to size, take your normal size Model is 175cm / 5'9", bra size 32B and is wearing a size 32B View Product measurements DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-18T00:53:02Z
-  Vendor: April Mint
-  Product Type: lingerie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/34_43c99eec-aead-409e-a6e3-60ec0e4e8444.png?v=1708453022
-  - [Black / S](https://aprilmint.com/products/garvin-floral-lace-brief-2?variant=40499090391173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/37_37eeb302-0ec8-4e66-a51a-4c22fa977432.png?v=1708453022
-    Price: $29.00 USD
-  - [Black / M](https://aprilmint.com/products/garvin-floral-lace-brief-2?variant=40499111854213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/37_37eeb302-0ec8-4e66-a51a-4c22fa977432.png?v=1708453022
-    Price: $29.00 USD
-  - [Black / L](https://aprilmint.com/products/garvin-floral-lace-brief-2?variant=40499111886981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/37_37eeb302-0ec8-4e66-a51a-4c22fa977432.png?v=1708453022
-    Price: $29.00 USD
-  - [White / S](https://aprilmint.com/products/garvin-floral-lace-brief-2?variant=40499091570821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/shopify3_327ed9c6-2046-4364-ac1b-beed00c80bea.png?v=1708453023
-    Price: $29.00 USD
-  - [White / M](https://aprilmint.com/products/garvin-floral-lace-brief-2?variant=40499111919749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/shopify3_327ed9c6-2046-4364-ac1b-beed00c80bea.png?v=1708453023
-    Price: $29.00 USD
-  - [White / L](https://aprilmint.com/products/garvin-floral-lace-brief-2?variant=40499111952517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/shopify3_327ed9c6-2046-4364-ac1b-beed00c80bea.png?v=1708453023
-    Price: $29.00 USD
-  - [Green / S](https://aprilmint.com/products/garvin-floral-lace-brief-2?variant=40499092422789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/46_1b924a7f-d43c-46ed-ac4c-920b12f91410.png?v=1708453022
-    Price: $29.00 USD
-  - [Green / M](https://aprilmint.com/products/garvin-floral-lace-brief-2?variant=40499111985285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/46_1b924a7f-d43c-46ed-ac4c-920b12f91410.png?v=1708453022
-    Price: $29.00 USD
-  - [Green / L](https://aprilmint.com/products/garvin-floral-lace-brief-2?variant=40499112018053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/46_1b924a7f-d43c-46ed-ac4c-920b12f91410.png?v=1708453022
-    Price: $29.00 USD
-- [Black Swan Lace and Tulle Brief](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2): EDITOR'S NOTE Lingerie is the starting point of any good outfit, which is why you feel so put-together in a matching set, APRIL MINT's Black Swan Lace and Tulle Brief is a chic option to add to your collection. Cut from lace and tulle, this half-cup style is underwired for support and has two straps for details. DETAILS & CARE Matching color stretch-tulle and jersey 84% polyamide, 16% Elastane Imported SIZE & FIT Fits true to size, take your normal size Model is 175cm / 5'9", bra size 32B and is wearing a size 32B View Product measurements DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-14T19:35:05Z
-  Vendor: April Mint
-  Product Type: lingerie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/32_9c3fa85e-0523-4ee1-95c5-12ab6162dbdb.png?v=1708453499
-  - [Black / S](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2?variant=40499154059397)
-    Availability: Available
-    Price: $29.00 USD
-  - [Black / M](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2?variant=40499171328133)
-    Availability: Available
-    Price: $29.00 USD
-  - [Black / L](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2?variant=40499171360901)
-    Availability: Available
-    Price: $29.00 USD
-  - [Green / S](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2?variant=40499154092165)
-    Availability: Available
-    Price: $29.00 USD
-  - [Green / M](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2?variant=40499171393669)
-    Availability: Available
-    Price: $29.00 USD
-  - [Green / L](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2?variant=40499171426437)
-    Availability: Available
-    Price: $29.00 USD
-  - [Champagne / S](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2?variant=40499154124933)
-    Availability: Available
-    Price: $29.00 USD
-  - [Champagne / M](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2?variant=40499171459205)
-    Availability: Available
-    Price: $29.00 USD
-  - [Champagne / L](https://aprilmint.com/products/black-swan-lace-and-tulle-brief-2?variant=40499171491973)
-    Availability: Available
-    Price: $29.00 USD
-- [Black Cherry Stretch-Tulle and Lace Brief](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief): EDITOR'S NOTE APRIL MINT's 'Black Cherry' bra stretch-lace underwired soft-cup bra ensures maximum support and comfort, especially for those with fuller busts. Made from smooth stretch-tulle and lace, it offers medium coverage and has adjustable straps that are carefully centered on your shoulders to prevent them from sliding off. DETAILS & CARE Matching color stretch-tulle and jersey 84% polyamide, 16% Elastane Imported SIZE & FIT Fits true to size, take your normal size Triangle style Fully adjustable shoulder straps Model is 175cm / 5'9", bra size 32B and is wearing a size 32B View Product measurements DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-16T22:46:58Z
-  Vendor: April Mint
-  Product Type: lingerie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/88_70d5ca7d-fec2-4e51-b056-7694c11fc743.png?v=1708454527
-  - [S / Black](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief?variant=40499269238917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/88_70d5ca7d-fec2-4e51-b056-7694c11fc743.png?v=1708454527
-    Price: $29.00 USD
-  - [S / Grey](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief?variant=40499269271685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/90_121ce986-e6db-4b04-8c3b-c43682253444.png?v=1708454527
-    Price: $29.00 USD
-  - [S / Pink](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief?variant=40499269304453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/blackcherrypink_f4ae81df-0d47-413d-b19f-a1fe1a7c99cd.png?v=1708454527
-    Price: $29.00 USD
-  - [M / Black](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief?variant=40499288146053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/88_70d5ca7d-fec2-4e51-b056-7694c11fc743.png?v=1708454527
-    Price: $29.00 USD
-  - [M / Grey](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief?variant=40499288178821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/90_121ce986-e6db-4b04-8c3b-c43682253444.png?v=1708454527
-    Price: $29.00 USD
-  - [M / Pink](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief?variant=40499288211589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/blackcherrypink_f4ae81df-0d47-413d-b19f-a1fe1a7c99cd.png?v=1708454527
-    Price: $29.00 USD
-  - [L / Black](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief?variant=40499288244357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/88_70d5ca7d-fec2-4e51-b056-7694c11fc743.png?v=1708454527
-    Price: $29.00 USD
-  - [L / Grey](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief?variant=40499288277125)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/90_121ce986-e6db-4b04-8c3b-c43682253444.png?v=1708454527
-    Price: $29.00 USD
-  - [L / Pink](https://aprilmint.com/products/black-cherry-stretch-tulle-and-lace-brief?variant=40499288309893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/blackcherrypink_f4ae81df-0d47-413d-b19f-a1fe1a7c99cd.png?v=1708454527
-    Price: $29.00 USD
-- [APRIL MINT Lexi Wild V-Neck Bra Light Support, B/C/D Cup](https://aprilmint.com/products/april-mint-lexi-wild-v-neck-bra-light-support-b-c-d-cup): EDITOR'S NOTE Breathe some newness into your workout routine with APRIL MINT's "Lexi Wild " sports bra. Made in the label's breathable and super soft 'Cloudy Nude' fabric, it's effortlessly ruched at the front and fitted with removable padding for light support. DETAILS & CARE Pockets for optional, removable cups Intended for low-impact activities So buttery soft, it feels weightless Four-way stretch Sweat-wicking Breathable Bra:75% Nylon,25% Lycra® spandex Wash with like colours Machine wash cold Do not bleach Do not iron Do not dry clean Tumble dry low Imported SIZE & FIT Fits true to size, take your normal size Designed for Yoga Light-weight, four way stretchy fabric Model is 177cm/5'10" Height 177cm; Bust 87cm; Waist 61cm; Hips 89cm and is wearing a size Small View Product measurements DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-07-17T18:37:20Z
-  Vendor: April Mint Los Angeles
-  Product Type: active wear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/files/9c3fc591-0cdd-4549-b030-c518e26f2f0b.jpg?v=1721691860
-  - [BLACK / S](https://aprilmint.com/products/april-mint-lexi-wild-v-neck-bra-light-support-b-c-d-cup?variant=40824194924677)
-    Availability: Available
-    Price: $48.00 USD
-  - [BLACK / M](https://aprilmint.com/products/april-mint-lexi-wild-v-neck-bra-light-support-b-c-d-cup?variant=40824194957445)
-    Availability: Available
-    Price: $48.00 USD
-  - [BLACK / L](https://aprilmint.com/products/april-mint-lexi-wild-v-neck-bra-light-support-b-c-d-cup?variant=40824194990213)
-    Availability: Available
-    Price: $48.00 USD
-  - [BLACK / XL](https://aprilmint.com/products/april-mint-lexi-wild-v-neck-bra-light-support-b-c-d-cup?variant=40824195022981)
-    Availability: Available
-    Price: $48.00 USD
-  - [BABY BLUE / S](https://aprilmint.com/products/april-mint-lexi-wild-v-neck-bra-light-support-b-c-d-cup?variant=40824195055749)
-    Availability: Available
-    Price: $48.00 USD
-  - [BABY BLUE / M](https://aprilmint.com/products/april-mint-lexi-wild-v-neck-bra-light-support-b-c-d-cup?variant=40824195088517)
-    Availability: Available
-    Price: $48.00 USD
-  - [BABY BLUE / L](https://aprilmint.com/products/april-mint-lexi-wild-v-neck-bra-light-support-b-c-d-cup?variant=40824195121285)
-    Availability: Available
-    Price: $48.00 USD
-  - [BABY BLUE / XL](https://aprilmint.com/products/april-mint-lexi-wild-v-neck-bra-light-support-b-c-d-cup?variant=40824195154053)
-    Availability: Available
-    Price: $48.00 USD
 - [Chloe Bikini Top](https://aprilmint.com/products/chloe-bikini-top): Editor's Note Twirls of fabric that render instant balletcore. Chloe offers infinite styling potential that translates seamlessly from barre to Swim & Active wear. In our ultra-soft and flexible 4 way strech brushed active fabric. ALL ABOUT MINT ECO LUXE Super soft & breathable, all made from recycled materials and ocean-friendly. Ocean biodegradable materials Made from recycled PET bottles Chlorine resistant and antibacterial SPF 50+ protection 80% nylon / 20% spandex DETAILS & CARE Hand wash or dry clean Lotion, sunscreen, oil, and chlorine can cause discoloration of this item; this is not a manufacturing defect. Please follow the care instructions to keep your swimwear in the best condition. Imported SIZE & FIT Fits true to size, take your normal size View Product measurements DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
   Updated: 2026-07-18T14:37:56Z
   Vendor: April Mint Los Angeles
@@ -1598,28 +1128,28 @@
 ## Collections
 
 - [ALL COLLECTION](https://aprilmint.com/collections/frontpage)
-  Updated: 2026-07-08T21:37:45Z
+  Updated: 2026-08-22T07:56:51Z
   Total Products: 90
 - [Signature One-Piece Swimsuits](https://aprilmint.com/collections/swimsuit-one-piece): NAKED — Second-Skin ComfortSmooth, soft and highly flexible fabrics create a barely-there feel that moves naturally with the body. SUPPORTED — Considered SupportThoughtful construction provides a secure, flattering fit while allowing the body to move freely and confidently. SHAPED — Sculpted by DesignCouture-inspired seams, strategic coverage and contouring cuts visually define the waist, smooth the midsection and enhance natural proportions.
   Updated: 2026-07-30T07:00:08Z
   Total Products: 14
 - [Sculpting Bikinis](https://aprilmint.com/collections/swimsuit-bikini): NAKED — Second-Skin ComfortSmooth, soft and highly flexible fabrics create a barely-there feel that moves naturally with the body. SUPPORTED — Considered SupportThoughtful construction provides a secure, flattering fit while allowing the body to move freely and confidently. SHAPED — Sculpted by DesignCouture-inspired seams, strategic coverage and contouring cuts visually define the waist, smooth the midsection and enhance natural proportions.
-  Updated: 2026-07-30T07:01:11Z
+  Updated: 2026-08-22T07:56:51Z
   Total Products: 15
 - [ACTIVE WEAR](https://aprilmint.com/collections/sport-wear)
-  Updated: 2026-07-08T21:37:44Z
+  Updated: 2026-08-21T18:39:28Z
   Total Products: 5
 - [COVER-UPS](https://aprilmint.com/collections/cover-ups-coming-soon)
   Updated: 2026-07-08T21:37:27Z
   Total Products: 3
 - [LINGERIE](https://aprilmint.com/collections/lingerie)
-  Updated: 2026-07-08T21:37:44Z
+  Updated: 2026-08-21T19:28:56Z
   Total Products: 40
 - [Front Page Collection](https://aprilmint.com/collections/front-page-collection)
-  Updated: 2026-07-08T21:37:35Z
+  Updated: 2026-08-21T18:38:54Z
   Total Products: 9
 - [ACCESSORIES & HATS](https://aprilmint.com/collections/accessories)
-  Updated: 2026-07-08T21:37:41Z
+  Updated: 2026-08-22T07:55:58Z
   Total Products: 32
 - [Body Sharp Shorts](https://aprilmint.com/collections/body-sharp-shorts)
   Updated: 2025-07-07T20:38:02Z
@@ -1628,10 +1158,10 @@
   Updated: 2026-07-08T21:37:44Z
   Total Products: 1
 - [Summer Vibes](https://aprilmint.com/collections/summer-vibes)
-  Updated: 2026-07-08T21:37:45Z
+  Updated: 2026-08-22T07:56:51Z
   Total Products: 38
 - [Mint ECO Luxe](https://aprilmint.com/collections/mint-eco-luxe): ALL ABOUT MINT ECO LUXE Super soft & breathable, all made from recycled materials and ocean-friendly. - Ocean biodegradable materials - Made from recycled PET bottles - Chlorine resistant and antibacterial - SPF 50+ protection - 80% nylon / 20% spandex
-  Updated: 2026-07-08T21:37:45Z
+  Updated: 2026-08-22T07:56:51Z
   Total Products: 22
 - [New to April Mint](https://aprilmint.com/collections/new-to-april-mint)
   Updated: 2026-07-08T21:37:44Z
@@ -1640,7 +1170,7 @@
   Updated: 2026-07-08T21:37:39Z
   Total Products: 6
 - [Black & White](https://aprilmint.com/collections/black-white)
-  Updated: 2026-07-08T21:37:43Z
+  Updated: 2026-08-22T07:56:51Z
   Total Products: 17
 - [Beach towel](https://aprilmint.com/collections/beach-towel)
   Updated: 2026-07-28T09:16:06Z
