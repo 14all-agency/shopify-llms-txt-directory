@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-06-05T07:31:59Z
 - Contact Email: stevemar@stevestonmarine.com
-- Updated At: 2026-08-10T00:00:44.726Z
+- Updated At: 2026-08-24T00:00:44.695Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/00-CAR2B_00.png?v=1777119295
   Price: $2,454.39 CAD
 - [Dickinson Mediterranean 3-Burner Propane St | Steveston Marine](https://www.stevestonmarine.com/products/dickinson-mediterranean-3-burner-propane-stove): Shop Dickinson Mediterranean 3-Burner Propane Stove (00-MED3B) at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-08-07T19:28:48Z
+  Updated: 2026-08-10T17:30:29Z
   Vendor: Dickinson
   Product Type: MAP
   Availability: Available
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/sport-marine-tec-hydro-foil-se-sport-300-wht-44437.jpg?v=1777117562
   Price: $131.43 CAD
 - [Sport Marine Tec Hydro Foil Se Sport 300 Gr | Steveston Marine](https://www.stevestonmarine.com/products/sport-marine-tec-hydro-foil-se-sport-300-gray): Shop Sport Marine Tec Hydro Foil Se Sport 300 Gray at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-07-21T08:27:16Z
+  Updated: 2026-08-15T06:48:36Z
   Vendor: Sport Marine Tec
   Product Type: 
   Availability: Available
@@ -690,7 +690,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/kuuma-60e-rod-holder-grill-mount-44216_c29a5707-26e1-4b6f-81d7-d40c72212f16.jpg?v=1777117606
   Price: $121.99 CAD
 - [Kuuma 11 Gallon Stainless Steel Water Heate | Steveston Marine](https://www.stevestonmarine.com/products/kuuma-11-gallon-stainless-steel-water-heater-120-volt-front-exchanger): Shop Kuuma 11 Gallon Stainless Steel Water Heater 120 Volt Front Exchanger at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-08-07T19:33:10Z
+  Updated: 2026-08-22T14:18:17Z
   Vendor: Kuuma
   Product Type: 
   Availability: Available
@@ -1060,709 +1060,709 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/turning-point-propellers-hub-masterguard-rnd-2-5-gc-mer-44126.jpg?v=1777117644
   Price: $46.39 CAD
-- [ITT Jabsco Impeller - Nitrile - 1414-0003-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-nitrile): ITT Jabsco Impeller - Nitrile - 1414-0003-P - Flexible Impeller Engine Driven Pumps, Impellers and Parts - ITT Jabsco Impeller - Nitrile Insert: BR Size: 1-1/4" Shaft: 5/16" Type: Nitrile Depth: 15/32" Blades: 6 Weight: 0.01kg See Jabsco Im
-  Updated: 2026-08-03T03:00:57Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/1414-0003-P_ae4fde99-81bf-4702-a0a7-32281905b59e.jpg?v=1777117645
-  Price: $79.16 CAD
-- [ITT Jabsco Impeller Neoprene 11870 Series - 836-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-neoprene-11870-series): ITT Jabsco Impeller Neoprene 11870 Series - 836-0001-P - Impellers - ITT Jabsco Impeller Neoprene 11870 Series Includes Spline Plug, Neoprene impeller 9 blades, 95mm x 63mm, 25mm Shaft Diameter See Jabsco Impeller Cross Reference and Impeller Identificati
-  Updated: 2026-08-03T03:24:33Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-impeller-neoprene-11870-series-44078.jpg?v=1777117646
-  Price: $153.34 CAD
-- [ITT Jabsco Pump Washdown Hotshot5 12V - 825050092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pump-washdown-hotshot5-12v): ITT Jabsco Pump Washdown Hotshot5 12V 354-3271611 Volts : 12 GPM : 5
-  Updated: 2026-07-21T08:27:38Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-pump-washdown-hotshot5-12v-44077.jpg?v=1777117646
-  Price: $318.38 CAD
-- [ITT Jabsco Pump Watersys5 Parmax Plus 12V - 825000092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pump-watersys5-parmax-plus-12v): ITT Jabsco Pump Watersys5 Parmax Plus 12V 29-2435A Volts : 12 GPM : 5 PSI : 50
-  Updated: 2026-07-21T08:27:39Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-pump-watersys5-parmax-plus-12v-44076.jpg?v=1777117646
-  Price: $404.79 CAD
 - [ITT Jabsco Pedestal Cooling Pump - 7779003 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pedestal-cooling-pump): ITT Jabsco Pedestal Cooling Pump 29-27D Shaft : Std. Ports : 1 NPT GPM : 23 Seal : Lip Impeller : Nitrile Cam : Full
-  Updated: 2026-07-21T08:27:39Z
+  Updated: 2026-08-11T11:33:38Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-pedestal-cooling-pump-44074.jpg?v=1777117646
   Price: $805.59 CAD
-- [ITT Jabsco Pump Engine Cooling - 777-9001 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pump-engine-cooling): ITT Jabsco Pump Engine Cooling - 777-9001 - Flexible Impeller Engine Driven Pumps - ITT Jabsco Pump Engine Cooling Flexible impeller pumps are self-priming to 10' and are ideal for engine cooling, wash-down, circulation, and many general-purpose on-board
-  Updated: 2026-08-03T01:35:34Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-pump-engine-cooling-43966.jpg?v=1777117648
-  Price: $732.79 CAD
-- [ITT Jabsco Cooling Pump V8 - 375 HP - 7420-1001 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-cooling-pump-v8-375-hp): ITT Jabsco Cooling Pump V8 - 375 HP - 7420-1001 - Flexible Impeller Engine Driven Pumps - ITT Jabsco Cooling Pump V8 - 375 HP Mid-size pump with vertical oriented ports. Self-priming to 10 ft vertical lift Full thickness cam, mechanical seal, short stainl
-  Updated: 2026-08-03T04:16:03Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-cooling-pump-v8-375-hp-44072.jpg?v=1777117647
-  Price: $1,718.11 CAD
-- [ITT Jabsco Par 5 12V Sealed Beam - 672960000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-5-12v-sealed-beam): ITT Jabsco Par 5 12V Sealed Beam 50-45201 Head : Volts : Replacement Sealed Beam - fits models: 620223002and#44; 620264002and#44; 620404002 - 100/50and#44;000
-  Updated: 2026-07-21T08:27:39Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-5-12v-sealed-beam-44070.jpg?v=1777117648
-  Price: $132.87 CAD
-- [ITT Jabsco Par 7 12V Sealed Beam - 672620000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-7-12v-sealed-beam): ITT Jabsco Par 7 12V Sealed Beam 50-45051 Head : Volts : Replacement Sealed Beam - fits models: 620404002and#44; 620404006 - 200/500and#44;000 CP - use with 7
-  Updated: 2026-07-21T08:27:39Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-7-12v-sealed-beam-44069.jpg?v=1777117648
-  Price: $234.55 CAD
 - [ITT Jabsco Pump-Cat 3208 V8 210&260 Hp - 64001051 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pump-cat-3208-v8-210-amp-260-hp): ITT Jabsco Pump-Cat 3208 V8 210and260 Hp 189-0750300 Shaft : Short Ports : 1-1/4 NPT GPM : 62 Seal : Mechanical Impeller : Neoprene Cam : Half
-  Updated: 2026-07-21T08:27:40Z
+  Updated: 2026-08-11T11:33:39Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-pump-cat-3208-v8-210-and-260-hp-44068.jpg?v=1777117649
   Price: $1,041.03 CAD
-- [ITT Jabsco 233Sl 2Nd Control Dual Voltage - 632331224 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-233sl-2nd-control-dual-voltage): ITT Jabsco 233Sl 2Nd Control Dual Voltage 762-14240 Description : Wireless Second Control
-  Updated: 2026-07-21T08:27:40Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-233sl-2nd-control-dual-voltage-44067.jpg?v=1777117649
-  Price: $460.23 CAD
-- [ITT Jabsco Impeller Green - 6303-0007-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-green): ITT Jabsco Impeller Green - 6303-0007-P - Flexible Impeller Engine Driven Pumps, Impellers and Parts - ITT Jabsco Impeller Green (6303-0123) Impeller Silhouette: H Type: Green Polyurethane Blades: 6 Impeller Diameter: 2" Drive Type: 4 See Jabsco Impe
-  Updated: 2026-08-03T03:12:59Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-impeller-green-44066.jpg?v=1777117648
-  Price: $109.17 CAD
 - [ITT Jabsco Green Impeller 63030007 24/Bx - 6303000724 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-green-impeller-63030007-24-bx): ITT Jabsco Green Impeller 63030007 24/Bx 50-89391 Insert : PL Size : 2 Shaft : 5/16 Type : Grn. Polyurethane Depth : 7/8 Blades : 6
-  Updated: 2026-07-21T08:27:40Z
+  Updated: 2026-08-11T11:33:39Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-green-impeller-63030007-24-bx-44065.jpg?v=1777117649
   Price: $1,987.24 CAD
-- [ITT Jabsco Impeller Kit - Nitrile - 6303-0003-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-nitrile-6303-0003-p): ITT Jabsco Impeller Kit - Nitrile - 6303-0003-P - Impellers - ITT Jabsco Impeller Kit - Nitrile Insert: PL Size: 2" Shaft: 5/16" Type: Nitrile Depth: 7/8" Blades: 6 See Jabsco Impeller Cross Reference and Impeller Identification Guide for i
-  Updated: 2026-08-03T02:58:58Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-impeller-nitrile-44064.jpg?v=1777117651
-  Price: $75.50 CAD
-- [ITT Jabsco Impeller Kit - Neoprene - 6303-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-neoprene-6303-0001-p): ITT Jabsco Impeller Kit - Neoprene - 6303-0001-P - Impellers - ITT Jabsco Impeller Kit - Neoprene - 6303-0001-P Insert: PL Size: 2" Shaft: 5/16" Type: Neoprene Depth: 7/8" Blades: 6 See Jabsco Impeller Cross Reference and Impeller Identific
-  Updated: 2026-08-03T02:59:24Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/6303-0001-P.jpg?v=1777117651
-  Price: $76.20 CAD
 - [ITT Jabsco Impeller Nitrile For #6050 Pmp - 60560003P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-nitrile-for-6050-pmp): ITT Jabsco Impeller Nitrile For #6050 Pmp 1-HO5112 Insert : BR Size : 2-9/16Type : Nitrile Depth : 2 Blades : 8
-  Updated: 2026-07-21T08:27:41Z
+  Updated: 2026-08-11T11:33:40Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-impeller-nitrile-for-6050-pmp-44057.jpg?v=1777117650
   Price: $244.39 CAD
-- [ITT Jabsco 146Sl Remote Cont Searchlight - 600800012 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-146sl-remote-cont-searchlight): ITT Jabsco 146Sl Remote Cont Searchlight 50-11771 Size : 10-1/8 L x 8-1/2 W x 8-15/16 H Volts : 12 Description : 175and#44;000 CP Amps : 4
-  Updated: 2026-07-21T08:27:41Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-146sl-remote-cont-searchlight-44055.jpg?v=1777117652
-  Price: $1,017.83 CAD
-- [ITT Jabsco Control Panel - 60030-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-control-panel-60030-0000): ITT Jabsco Control Panel - 60030-0000 - Remote Control Spotlights - ITT Jabsco Control Panel Description: CONTROL UNIT Weight: 0.12 kg Model: 60030-0000
-  Updated: 2026-07-21T08:27:41Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/60030-0000.jpg?v=1777117653
-  Price: $276.63 CAD
-- [ITT Jabsco Impeller Nitrile For #11810 - 5929-0003-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-nitrile-for-11810): ITT Jabsco Impeller Nitrile For #11810 - 5929-0003-P - Impellers - ITT Jabsco Impeller Nitrile For #11810 Insert: BR Size: 2-1/4" Shaft: 1/2" Type: Nitrile Depth: 1-1/4" Blades: 12 See Jabsco Impeller Cross Reference and Impeller Identifica
-  Updated: 2026-08-03T03:39:18Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-impeller-nitrile-for-11810-44052.jpg?v=1777117652
-  Price: $259.75 CAD
-- [ITT Jabsco Straight Fresh Dlx Flush 1/4 1 - 582801012 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-straight-fresh-dlx-flush-1-4-1): ITT Jabsco Straight Fresh Dlx Flush 1/4 1 627-1901120 Description : Straight Back/Raw Rinse Water
-  Updated: 2026-07-21T08:27:41Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-straight-fresh-dlx-flush-1-4-1-44048.jpg?v=1777117654
-  Price: $1,500.03 CAD
-- [ITT Jabsco Angle Raw Water Flush 1/4 12V - 582601012 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-angle-raw-water-flush-1-4-12v): ITT Jabsco Angle Raw Water Flush 1/4 12V 47-3671 Description : Slant Back/Raw Rinse Water
-  Updated: 2026-07-21T08:27:41Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-angle-raw-water-flush-1-4-12v-44049.jpg?v=1777117654
-  Price: $1,416.78 CAD
-- [ITT Jabsco Angle Fresh Dlx Flush 1/4 12V - 580601012 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-angle-fresh-dlx-flush-1-4-12v): ITT Jabsco Angle Fresh Dlx Flush 1/4 12V 32-6216 Description : Slant Back/Fresh Rinse Water
-  Updated: 2026-07-21T08:27:41Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-angle-fresh-dlx-flush-1-4-12v-44047.jpg?v=1777117654
-  Price: $1,025.58 CAD
-- [ITT Jabsco Waste/Shower Drain Pump 1-1/2" Filterless - 50890-1000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-waste-shower-drain-pump-1-1-2-quot-filterless-50890-1000): ITT Jabsco Waste/Shower Drain Pump 1-1/2" Filterless - 50890-1000 - Macerator and Waste Pumps - ITT Jabsco Waste/Shower Drain Pump 1-1/2" Filterless 5 GPM Output Self-priming up to 10 ft. Capable of extensive dry running Quiet running Flexible I
-  Updated: 2026-08-03T04:06:35Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/50890-1000.jpg?v=1777117655
-  Price: $825.30 CAD
-- [ITT Jabsco Waste/Shower Drain Pump 12V - 50880-1000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-waste-shower-drain-pump-12v-50880-1000): ITT Jabsco Waste/Shower Drain Pump 12V - 50880-1000 - Electric Bilge Pumps - ITT Jabsco Waste/Shower Drain Pump 12V The robust, single diaphragm pump features no filter requirement and a compact design. The pump head and ports rotate for flexible installa
-  Updated: 2026-08-03T04:02:43Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/50880x.jpg?v=1777117656
-  Price: $662.49 CAD
-- [ITT Jabsco Cyclone Centrifugal Pump 12V - Low Pressure - 50840-0012 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-cyclone-centrifugal-pump-12v-low-pressure-50840-0012): ITT Jabsco Cyclone Centrifugal Pump 12V - Low Pressure - 50840-0012 - Livewell - Aerator Pumps - ITT Jabsco Cyclone Centrifugal Pump 12V - Low Pressure This long-life, continuously rated centrifugal pump delivers high flows up to 29 GPM (110 LPM) with a m
-  Updated: 2026-08-03T01:35:37Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/50840-0012.jpg?v=1777117657
-  Price: $789.59 CAD
-- [ITT Jabsco Pump Eng Cool Full Cam - 504101201 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pump-eng-cool-full-cam): ITT Jabsco Pump Eng Cool Full Cam 500-404A05 Fits : 454 C.I. Chevrolet Block GPM : 14
-  Updated: 2026-07-21T08:27:42Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-pump-eng-cool-full-cam-44041.jpg?v=1777117655
-  Price: $889.99 CAD
-- [ITT Jabsco Impeller Puller - Large - 50070-0200 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-puller-large-50070-0200): ITT Jabsco Impeller Puller - Large - 50070-0200 - Flexible Impeller Engine Driven Pumps, Impellers and Parts - ITT Jabsco Impeller Puller - Large This tool is the easiest way to remove impellers, especially when the pump is mounted in tight, cramped condi
-  Updated: 2026-08-03T03:51:30Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/50070-0200.jpg?v=1777117656
-  Price: $421.73 CAD
-- [ITT Jabsco Impeller Puller - Small - 50070-0040 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-puller-small-50070-0040): ITT Jabsco Impeller Puller - Small - 50070-0040 - Flexible Impeller Engine Driven Pumps, Impellers and Parts - ITT Jabsco Impeller Puller - Small This tool is the easiest way to remove impellers, especially when the pump is mounted in tight, cramped condi
-  Updated: 2026-08-03T03:49:21Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/50070-0040.jpg?v=1777117659
-  Price: $385.82 CAD
-- [ITT Jabsco Pump Guard 1/2" Hose - 46400-0002 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pump-guard-1-2-quot-hose-46400-0002): ITT Jabsco Pump Guard 1/2" Hose - 46400-0002 - Sea Strainers - ITT Jabsco Pump Guard 1/2" Hose Description: Fresh Water Pump Inlet Strainer - HoseProtects all electric diaphragm fresh water pumpsQuick in-place cleaning of the mesh screen. Preven
-  Updated: 2026-08-03T02:56:39Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/46400-0002.jpg?v=1777117658
-  Price: $70.81 CAD
-- [ITT Jabsco Pump Guard 3/4" Hose 40-Mesh - 46400-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pump-guard-3-4-quot-hose-40-mesh-46400-0000): ITT Jabsco Pump Guard 3/4" Hose 40-Mesh - 46400-0000 - Sea Strainers - ITT Jabsco Pump Guard 3/4" Hose 40-Mesh Description: Toilet Pump Inlet Strainer - Hose Protects manual or electric toilets Quick in-place cleaning of the mesh screen. Prevent
-  Updated: 2026-08-03T02:56:39Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/46400-0000.jpg?v=1777117658
-  Price: $70.81 CAD
-- [ITT Jabsco Pump Guard 3/4" Hose 20-Mesh - 46200-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pump-guard-3-4-quot-hose-20-mesh-46200-0000): ITT Jabsco Pump Guard 3/4" Hose 20-Mesh - 46200-0000 - Sea Strainers - ITT Jabsco Pump Guard 3/4" Hose 20-Mesh Description: Bilge Pump Inlet Strainer - Hose Protects all electric diaphragm bilge pumps Prevents unnecessary pump breakdowns caused
-  Updated: 2026-08-07T19:24:25Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-pumpguard-strainer-f-3-4-hose-44036.jpg?v=1777117657
-  Price: $69.27 CAD
-- [ITT Jabsco 12V Par-Mate Water Press Sys - 460102900 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-12v-par-mate-water-press-sys): On  In Canada! Itt Jabsco Par Mate Water System Pumps for Your Boat! 12 Volt Power Input. Need water for your faucet, shower or toilet? This is the best solution in Canada!
-  Updated: 2026-07-21T08:27:43Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-12v-par-mate-water-press-sys-43984.jpg?v=1777117658
-  Price: $236.79 CAD
-- [ITT Jabsco Bulb For 45900-0000 - 459030000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-bulb-for-45900-0000): ITT Jabsco Bulb For 45900-0000 114-07151 Size : Spare 50W 4 Amp Bulb - 12V for ITT 45900 series
-  Updated: 2026-07-21T08:27:43Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-bulb-for-45900-0000-44034.jpg?v=1777117658
-  Price: $103.75 CAD
-- [ITT Jabsco 4X6 12V Halo Floodlight Black - 459002000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-4x6-12v-halo-floodlight-black): ITT Jabsco 4X6 12V Halo Floodlight Black 218-G4Y Size : 4 x 6 Volts : 12
-  Updated: 2026-07-21T08:27:43Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-4x6-12v-halo-floodlight-black-44033.jpg?v=1777117658
-  Price: $142.71 CAD
-- [ITT Jabsco 3X5 12V Halo Floodlight White - 459001000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-3x5-12v-halo-floodlight-white): ITT Jabsco 3X5 12V Halo Floodlight White 69-6360CRN Size : 3 x 5 Volts : 12
-  Updated: 2026-07-21T08:27:44Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-3x5-12v-halo-floodlight-white-44032.jpg?v=1777117659
-  Price: $107.99 CAD
-- [ITT Jabsco 4X6 12V Halo Floodlight White - 459000000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-4x6-12v-halo-floodlight-white): ITT Jabsco 4X6 12V Halo Floodlight White 815-F50INRPS Size : 4 x 6 Volts : 12
-  Updated: 2026-07-21T08:27:44Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-4x6-12v-halo-floodlight-white-44031.jpg?v=1777117660
-  Price: $160.33 CAD
-- [ITT Jabsco Diverter Valve - 45490-1000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-diverter-valve-45490-1000): ITT Jabsco Diverter Valve - 45490-1000 - Y and Diverter Valves - ITT Jabsco Diverter ValveDesigned for installation in waste discharge and bilge pumpout systems. Allows waste to be pumped directly into the holding tank or diverted to an overboard discharg
-  Updated: 2026-08-03T03:36:45Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-y-waste-valve-454900000-44030.jpg?v=1777117660
-  Price: $235.45 CAD
 - [ITT Jabsco Water Pres Regulator 45 Psi - 444122045 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-water-pres-regulator-45-psi): ITT Jabsco Water Pres Regulator 45 Psi 23-665513 Ports : 90Â° Type : FlushRating : 45 psi
-  Updated: 2026-07-21T08:27:44Z
+  Updated: 2026-08-11T11:33:40Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-water-pres-regulator-45-psi-44028.jpg?v=1777117660
   Price: $88.47 CAD
-- [ITT Jabsco Flush Pressure Regulator-White - 444101000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-flush-pressure-regulator-white): ITT Jabsco Flush Pressure Regulator-White 32-5002 Ports : Straight Type : FlushRating : 35 psi
-  Updated: 2026-07-21T08:27:44Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-flush-pressure-regulator-white-44025.jpg?v=1777117662
-  Price: $68.15 CAD
-- [ITT Jabsco 15' Cable Extension Harness - 43990-0014 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-15-cable-extension-harness-43990-0014): ITT Jabsco 15' Cable Extension Harness - 43990-0014 - Remote Control Spotlights - ITT Jabsco 15' Cable Extension Harness Enables remote controls to be fitted further from the light than standard cables allow, and are needed to install secondary remote con
-  Updated: 2026-07-21T08:27:45Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-15-wiring-cable-assembly-44024.jpg?v=1777117662
-  Price: $266.82 CAD
-- [ITT Jabsco Directional Switch - 439900000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-directional-switch): ITT Jabsco Directional Switch 47-22451
-  Updated: 2026-07-21T08:27:45Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-directional-switch-44023.jpg?v=1777117662
-  Price: $165.83 CAD
-- [ITT Jabsco Replacement Control/Switch - 43670-0003 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-replacement-control-switch-43670-0003): ITT Jabsco Replacement Control/Switch - 43670-0003 - Remote Control Spotlights - ITT Jabsco Replacement Control/Switch Description: CONTROL/SWITCH For the 146SL 60080 Series (12V and 24V), 255SL 60010-2012 (12V ONLY), and 62040-4002 7" (12V) Weight:
-  Updated: 2026-07-21T08:27:45Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/43670-0003.jpg?v=1777117662
-  Price: $850.45 CAD
-- [ITT Jabsco Merc Replacement Pump - 43210-0001 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-merc-replacement-pump-43210-0001): ITT Jabsco Merc Replacement Pump - 43210-0001 - Engine Cooling Pumps and Accessories - ITT Jabsco Merc Replacement Pump Replacement for the Quicksilver Pump Model 46-72774-A32 Installed with either the cast iron (clamp type) mounting bracket or the stampe
-  Updated: 2026-08-03T04:18:03Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/43210-0001.jpg?v=1777117663
-  Price: $2,188.80 CAD
-- [ITT Jabsco Crusader Replacement Pump - 42730-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-crusader-replacement-pump-42730-0000): ITT Jabsco Crusader Replacement Pump - 42730-0000 - Engine Cooling Pumps and Accessories - ITT Jabsco Crusader Replacement Pump A direct-fit, bolt-on replacement for most models of popular Crusader (Thermo Electron) gasoline V-8 engines. Direct replacemen
-  Updated: 2026-08-03T04:17:26Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-crusader-replacement-pump-44019.jpg?v=1777117663
-  Price: $2,026.41 CAD
-- [ITT Jabsco Par-Max 1 Manual 12 Vdc - 426312900 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-max-1-manual-12-vdc): ITT Jabsco Par-Max 1 Manual 12 Vdc 4-313C Size : 6.4 L x 3-1/2 W x 2.3 H Volts : 12 GPM : 1.1 Manual Amps : 1.9
-  Updated: 2026-07-21T08:27:46Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-max-1-manual-12-vdc-44018.jpg?v=1777117663
-  Price: $146.47 CAD
-- [ITT Jabsco Waste Management System 10-GAL 12V - 38110-0092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-waste-management-system-10-gal-12v-38110-0092): ITT Jabsco Waste Management System 10-GAL 12V - 38110-0092 - Holding Tanks and Waste  Systems - ITT Jabsco Waste Management System 10-GAL 12V Provides an easy-to-install, all-inclusive solution consisting of a compact polyethylene holding tank an
-  Updated: 2026-08-03T01:36:52Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-waste-holding-tank-12v-44013.jpg?v=1777117664
-  Price: $2,103.19 CAD
-- [ITT Jabsco Pressure Switch Kit - 37121-0010 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pressure-switch-kit-37121-0010): ITT Jabsco Pressure Switch Kit - 37121-0010 - Water Pressure System Pumps - ITT Jabsco Pressure Switch Kit Popular, quiet, dependable belt-driven diaphragm pump serves up to 4 outlets simultaneously, runs dry for extended periods, and self-priming up to 5
-  Updated: 2026-08-03T03:24:27Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/37121-0010.jpg?v=1777117665
-  Price: $152.86 CAD
-- [ITT Jabsco Compact Quiet Flush Toilet 12V - 370450092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-compact-quiet-flush-toilet-12v): ITT Jabsco Compact Quiet Flush Toilet 12V - 370450092 - Toilets, Manual and Electric, Fixed Mount and Parts - ITT Jabsco Compact Quiet Flush Toilet 12V Very quiet flush cycle - like a household toilet Single button flush actuator - with dual function wate
-  Updated: 2026-07-21T08:27:46Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-compact-quiet-flush-toilet-12v-44009.jpg?v=1777117665
-  Price: $903.99 CAD
-- [ITT Jabsco 12V Toilet Macerator Pump Kit - 37041-0010 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-12v-toilet-macerator-pump-kit-37041-0010): ITT Jabsco 12V Toilet Macerator Pump Kit - 37041-0010 - Toilets, Manual and Electric, Fixed Mount and Parts - ITT Jabsco 12V Toilet Macerator Pump Kit Description: COMPLETE PUMP AND MOTOR ASSY 12V (Keys 14-31) For the 37010 series electric toilet with sin
-  Updated: 2026-08-03T04:02:58Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/37041-0010.jpg?v=1777117665
-  Price: $671.16 CAD
-- [ITT Jabsco Par 12V Water Pres Sys - 369502000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-12v-water-pres-sys): ITT Jabsco Par 12V Water Pres Sys 232-WDHBR15BBDP Volts : 12 GPM : 3 Rating : 20-40 psi Amps : 6
-  Updated: 2026-07-21T08:27:46Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-12v-water-pres-sys-44005.jpg?v=1777117666
-  Price: $826.79 CAD
-- [ITT Jabsco Par 12V-Water Pressure System - 368001000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-12v-water-pressure-system): ITT Jabsco Par 12V-Water Pressure System 272-20381002 Volts : 12 GPM : 3.3 PSI : 20-40 Outlets : 42009 Amps : 6
-  Updated: 2026-07-21T08:27:47Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-12v-water-pressure-system-44004.jpg?v=1777117666
-  Price: $1,056.39 CAD
 - [ITT Jabsco In-Line Strainer 1/2 Pipe - 364001000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-in-line-strainer-1-2-pipe): ITT Jabsco In-Line Strainer 1/2 Pipe 47-5707 Ports : 1/2 IPS
-  Updated: 2026-07-21T08:27:47Z
+  Updated: 2026-08-11T11:33:41Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-in-line-strainer-1-2-pipe-44003.jpg?v=1777117666
   Price: $42.71 CAD
 - [ITT Jabsco In-Line Strainer 1/2 Hose - 364000000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-in-line-strainer-1-2-hose): ITT Jabsco In-Line Strainer 1/2 Hose 47-5853 Ports : 1/2 ID Hose
-  Updated: 2026-07-21T08:27:47Z
+  Updated: 2026-08-11T11:33:41Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-in-line-strainer-1-2-hose-44002.jpg?v=1777117666
   Price: $42.71 CAD
 - [ITT Jabsco Pumpguard Strainer F/3/4 Hose - 362000000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pumpguard-strainer-f-3-4-hose): ITT Jabsco Pumpguard Strainer F/3/4 Hose 11-TG40320 Hose : 3/4 Description : In-Line Strainer
-  Updated: 2026-07-21T08:27:47Z
+  Updated: 2026-08-11T11:33:42Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-pumpguard-strainer-f-3-4-hose-44001.jpg?v=1777117667
   Price: $41.75 CAD
 - [ITT Jabsco Replacement Screen - Coarse - 361390000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-replacement-screen-coarse): ITT Jabsco Replacement Screen - Coarse 47-3067 Ports : Coarse
-  Updated: 2026-07-21T08:27:47Z
+  Updated: 2026-08-11T11:33:42Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-replacement-screen-coarse-44000.jpg?v=1777117667
   Price: $19.11 CAD
 - [ITT Jabsco Hd Cont. Blower Flexmount - 357700092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-hd-cont-blower-flexmount): ITT Jabsco Hd Cont. Blower Flexmount 686-91562F Size : 9-1/4 L x 9-3/16 W x 9-5/8 H Mount : FlexVolts : 12
-  Updated: 2026-07-21T08:27:48Z
+  Updated: 2026-08-11T11:33:43Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-hd-cont-blower-flexmount-43999.jpg?v=1777117668
   Price: $484.55 CAD
-- [ITT Jabsco Par 12V Flexmount Blower 3" Hose 105CFM - 35515-0010 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-12v-flexmount-blower-3-quot-hose-105cfm-35515-0010): ITT Jabsco Par 12V Flexmount Blower 3" Hose 105CFM - 35515-0010 - Blowers - ITT Jabsco Par 12V Flexmount Blower 3" Hose 105CFM Offers safe, efficient, and high-volume evacuation of hazardous vapors on vessels equipped with gasoline-powered engin
-  Updated: 2026-08-03T03:43:35Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/35515x.jpg?v=1777117668
-  Price: $305.96 CAD
-- [ITT Jabsco 24V Blower Flangemount 4" Hose - 35400-0010 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-24v-blower-flangemount-4-quot-hose-35400-0010): ITT Jabsco 24V Blower Flangemount 4" Hose - 35400-0010 - Blowers - ITT Jabsco 24V Blower Flangemount 4" Hose Offers safe, efficient, and high-volume evacuation of hazardous vapors on vessels equipped with gasoline-powered engines. Satisfy requir
-  Updated: 2026-08-03T04:00:44Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/35400x.jpg?v=1777117670
-  Price: $605.32 CAD
-- [ITT Jabsco 12V Blower Flangemount 4" Hose - 35400-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-12v-blower-flangemount-4-quot-hose-35400-0000): ITT Jabsco 12V Blower Flangemount 4" Hose - 35400-0000 - Blowers - ITT Jabsco 12V Blower Flangemount 4" Hose Offers safe, efficient, and high-volume evacuation of hazardous vapors on vessels equipped with gasoline-powered engines. Satisfy requir
-  Updated: 2026-08-03T03:56:26Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/35400x_5fa9965a-e407-40df-a88d-3fddeefb6b96.jpg?v=1777117670
-  Price: $514.93 CAD
 - [ITT Jabsco 12 Volt Blower Flangemount - 351150020 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-12-volt-blower-flangemount): ITT Jabsco 12 Volt Blower Flangemount 282-531060060 Fuse : 6A Size : 3 Hose Volts : 12 CFM : 105 Amps : 4.3
-  Updated: 2026-07-21T08:27:48Z
+  Updated: 2026-08-11T11:33:43Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-12-volt-blower-flangemount-43995.jpg?v=1777117669
   Price: $160.95 CAD
 - [ITT Jabsco Par 12V Blower Flangemount - 347390010 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-12v-blower-flangemount): ITT Jabsco Par 12V Blower Flangemount 282-531060050 Fuse : 10A Size : 3 Hose Volts : 12 CFM : 150 Amps : 10
-  Updated: 2026-07-21T08:27:48Z
+  Updated: 2026-08-11T11:33:44Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-12v-blower-flangemount-43994.jpg?v=1777117669
   Price: $264.71 CAD
-- [ITT Jabsco Oil Drain Pump - 34060-0130 | Steveston Marine](https://www.stevestonmarine.com/products/itt-jabsco-oil-drain-pump-34060-0130): Shop ITT Jabsco Oil Drain Pump - 34060-0130 at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-08-03T01:33:02Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/34060-0130.jpg?v=1777117671
-  Price: $155.19 CAD
-- [ITT Jabsco Par Handy Boy Pump - 33799-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-handy-boy-pump-33799-0000): ITT Jabsco Par Handy Boy Pump - 33799-0000 - Oil Change Systems and Pumps - ITT Jabsco Par Handy Boy Pump Description: Utility Hand Pump A versatile, polished brass, multi-purpose hand pump. Drain, fill or top up engine and gearbox oil. Overcomes problem
-  Updated: 2026-08-03T01:33:54Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/33799-0000.jpg?v=1777117671
-  Price: $235.19 CAD
-- [ITT Jabsco Par Max 3.0 Washdown W/Hose Kt - 329010092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-max-3-0-washdown-w-hose-kt): ITT Jabsco Par Max 3.0 Washdown W/Hose Kt 29-20RS Volts : 12 GPM : 3 PSI : 50 Amps : 10 @ 12 psi
-  Updated: 2026-07-21T08:27:49Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-max-3-0-washdown-w-hose-kt-43988.jpg?v=1777117671
-  Price: $240.78 CAD
-- [ITT Jabsco Washdown Pump Kit-4 Gpm 12 V - 329000092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-washdown-pump-kit-4-gpm-12-v): ITT Jabsco Washdown Pump Kit-4 Gpm 12 V 23-45057 GPM : 4 Description : Kit w/ Hose PSI : 60 Amps : 9 @ 10 psi
-  Updated: 2026-07-21T08:27:49Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-washdown-pump-kit-4-gpm-12-v-43987.jpg?v=1777117672
-  Price: $293.83 CAD
-- [ITT Jabsco Par-Max 4 Rinse Pump 12V 3.8GPM - 31631-0092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-max-4-washdown-pump-60psi): ITT Jabsco Par-Max 4 Rinse Pump 12V 3.8GPM - 31631-0092 - Flexible Impeller Engine Driven Pumps, Impellers and Parts - ITT Jabsco Par-Max 4 Rinse Pump 12V 3.8GPM (16.3 litres/minute) Runs dry without damage Self-priming up to 3,0m Model: 31631-0092
-  Updated: 2026-07-21T08:27:49Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-max-4-washdown-pump-60psi-43986.jpg?v=1777117672
-  Price: $371.79 CAD
 - [ITT Jabsco General Purpose 3.5 Gpm 12V - 326010092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-general-purpose-3-5-gpm-12v): ITT Jabsco General Purpose 3.5 Gpm 12V 189-64534 Volts : 12 GPM : 3.5 Amps : 10
-  Updated: 2026-07-21T08:27:49Z
+  Updated: 2026-08-11T11:33:44Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-general-purpose-3-5-gpm-12v-43985.jpg?v=1777117672
   Price: $270.71 CAD
-- [ITT Jabsco Par-Max 4 Bilge/Livewell Pump 12V 4.3GPM - 31705-0092 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-max-4-bilge-livewell-pump-12v-4-3gpm-31705-0092): ITT Jabsco Par-Max 4 Bilge/Livewell Pump 12V 4.3GPM - 31705-0092 - Livewell - Aerator Pumps - ITT Jabsco Par-Max 4 Bilge/Livewell Pump 12V 4.3GPM This glass-filled polypropylene body, self-priming 4-piston diaphragm pump will produce a self-prime suction
-  Updated: 2026-07-21T08:27:50Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/31705-0092.jpg?v=1777117673
-  Price: $380.10 CAD
-- [ITT Jabsco Accumulator Tank 1-QT w/ Diaphragm - 30573-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-accumulator-tank-1-qt-w-diaphragm-30573-0000): ITT Jabsco Accumulator Tank 1-QT w/ Diaphragm - 30573-0000 - Accumulator Tanks - ITT Jabsco Accumulator Tank 1-QT w/ Diaphragm The tank is intended for installation in any pumped water system controlled by a pressure switch and can serve as a storage vess
-  Updated: 2026-08-03T03:35:50Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/30573-0000.jpg?v=1777117674
-  Price: $226.82 CAD
-- [ITT Jabsco Par 12 Volt Motor Kit - 302020000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-12-volt-motor-kit): ITT Jabsco Par 12 Volt Motor Kit 760-317H4C Description : 12 VDC Motor Kit
-  Updated: 2026-07-21T08:27:50Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-12-volt-motor-kit-43977.jpg?v=1777117674
-  Price: $299.98 CAD
-- [ITT Jabsco Par 12V Motor Kit - 30200-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-par-12v-motor-kit-30200-0000): ITT Jabsco Par 12V Motor Kit - 30200-0000 - Electric Bilge Pumps - ITT Jabsco Par 12V Motor Kit Please call our Sales Department for complete ITT spare parts stock and information.SPARE PARTS that are stock items are listed below for Jabsco bilge pumps. D
-  Updated: 2026-08-03T03:50:26Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-12-volt-motor-kit-43976.jpg?v=1777117674
-  Price: $404.62 CAD
-- [ITT Jabsco 12V Electric Conversion Kit 25 amp - 29200-0120 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-12v-electric-conversion-kit-25-amp-29200-0120): ITT Jabsco 12V Electric Conversion Kit 25 amp - 29200-0120 - Toilets, Manual and Electric, Fixed Mount and Parts - ITT Jabsco 12V Electric Conversion Kit 25Amp Easily converts all PAR manually operated toilets to convenient electric operation. Complete fo
-  Updated: 2026-08-03T04:13:01Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-par-12v-conversion-kit-25amp-43975.jpg?v=1777117675
-  Price: $1,308.48 CAD
-- [ITT Jabsco Joker Valve - 29092-1000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-joker-valve-29092-1000): ITT Jabsco Joker Valve - 29092-1000 - Toilets, Manual and Electric, Fixed Mount and Parts - ITT Jabsco Joker Valve Triadic full-flow valve gasket to avoid accidental blockage. Fits Jabsco Par toilets 29090, 29120, 37010, 37045, 37055, 37075, 37085, 37245,
-  Updated: 2026-08-03T02:33:54Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/29092-1000.jpg?v=1777117675
-  Price: $38.28 CAD
-- [ITT Jabsco Base Assembly - 29041-1000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-base-assembly-29041-1000): ITT Jabsco Base Assembly - 29041-1000 - Toilets, Manual and Electric, Fixed Mount and Parts - ITT Jabsco Base Assembly Manual Toilet - Base Assembly Weight: 0.69kg Model: 29041-1000
-  Updated: 2026-08-03T03:30:53Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-base-43971.jpg?v=1777117676
-  Price: $189.63 CAD
 - [ITT Jabsco Impeller - 227990001P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller): ITT Jabsco Impeller 4-0195 Insert : BR Size : 2 Shaft : 1/2 Type : Neoprene Depth : 7/8 Blades : 6
-  Updated: 2026-07-21T08:27:51Z
+  Updated: 2026-08-11T11:33:45Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-impeller-43969.jpg?v=1777117676
   Price: $110.39 CAD
-- [ITT Jabsco Impeller Kit - Neoprene - 22405-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-neoprene-22405-0001-p): ITT Jabsco Impeller Kit - Neoprene - 22405-0001-P - Impellers - ITT Jabsco Impeller Kit - Neoprene Insert: BR Size: 1-9/16" Shaft: 15/32" Type: Neoprene Depth: 3/4" Blades: 6 See Jabsco Impeller Cross Reference and Impeller Identification G
-  Updated: 2026-08-03T03:00:15Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/22405-0001-P.jpg?v=1777117679
-  Price: $78.04 CAD
-- [ITT Jabsco Impeller Kit - Neoprene - 18948-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-neoprene-18948-0001-p): ITT Jabsco Impeller Kit - Neoprene - 18948-0001-P - Flexible Impeller Engine Driven Pumps, Impellers and Parts - ITT Jabsco Impeller Kit - Neoprene Silhouette: X Type: Neoprene Depth: 1-5/8" Blades: 12 Diameter: 2-9/16" Drive Type: 3 See Jabsco
-  Updated: 2026-08-03T03:22:00Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/18948-0001-P.jpg?v=1777117679
-  Price: $141.68 CAD
-- [ITT Jabsco Pressure Switch Kit 40 PSI - 189 | Steveston Marine](https://www.stevestonmarine.com/products/itt-jabsco-pressure-switch-kit-40-psi-18916-0040): Shop ITT Jabsco Pressure Switch Kit 40 PSI - 18916-0040 at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-08-03T03:04:19Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-kit-switch-40-psi-43965.jpg?v=1777117680
-  Price: $86.72 CAD
-- [ITT Jabsco 12V Vane Puppy Pump - 186800920 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-12v-vane-puppy-pump): ITT Jabsco 12V Vane Puppy Pump 50-28871 Ports : 1/2 NPT Int./1 Ext. Barb Volts : 12 GPM : 6 Amps : 8
-  Updated: 2026-07-21T08:27:51Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-12v-vane-puppy-pump-43963.jpg?v=1777117680
-  Price: $658.95 CAD
-- [ITT Jabsco Impeller Kit - Nitrile - 18673-0003-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-nitrile-18673-0003-p): ITT Jabsco Impeller Kit - Nitrile - 18673-0003-P - Impellers - ITT Jabsco Impeller Kit - Nitrile Insert: BR Size: 2" Shaft: 1/2" Type: Nitrile Depth: 7/8" Blades: 10 See Jabsco Impeller Cross Reference and Impeller Identification Guide for
-  Updated: 2026-08-03T03:16:19Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/18673-0001-P.jpg?v=1777117682
-  Price: $118.72 CAD
-- [ITT Jabsco Impeller Kit - Neoprene - 18673-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-neoprene-18673-0001-p): ITT Jabsco Impeller Kit - Neoprene - 18673-0001-P - Impellers - ITT Jabsco Impeller Kit - Neoprene Insert: Brass Size: 2" Shaft: 1/2" Type: Neoprene Depth: 7/8" Blades: 10 See Jabsco Impeller Cross Reference and Impeller Identification Guid
-  Updated: 2026-08-03T03:21:27Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/18673-0001-P_1382e505-f170-42e0-86e7-67ea426ed024.jpg?v=1777117682
-  Price: $138.76 CAD
-- [ITT Jabsco Pump 12V Com Duty Water Puppy Pump - 18670-0123 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-pump-12v-com-duty-water-puppy-pump-18670-0123): ITT Jabsco Pump 12V Com Duty Water Puppy Pump - 18670-0123 - Electric Bilge Pumps - ITT Jabsco Pump 12V Com Duty Water Puppy Pump This bronze body, self-priming impeller pump will produce a dry prime suction lift of about 6' and has a maximum head of 20'.
-  Updated: 2026-08-03T04:06:36Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/18670x.jpg?v=1777117683
-  Price: $826.50 CAD
-- [ITT Jabsco 12V Water Puppy Pump 6.3GPM - 18 | Steveston Marine](https://www.stevestonmarine.com/products/itt-jabsco-12v-water-puppy-pump-6-3gpm-18660-0121): Shop ITT Jabsco 12V Water Puppy Pump 6.3GPM - 18660-021 at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-08-03T01:34:34Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/18660x.jpg?v=1777117683
-  Price: $427.51 CAD
-- [ITT Jabsco Macerator Pump Heavy Duty 24V 13GPM - 18590-2094 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-macerator-pump-heavy-duty-24v-13gpm-18590-2094): ITT Jabsco Macerator Pump Heavy Duty 24V 13GPM - 18590-2094 - Macerator and Waste Pumps - ITT Jabsco Macerator Pump Heavy Duty 24V 13GPM Details Self priming pump with run-dry protection Triple-sealed motor to prevent both internal & external motor co
-  Updated: 2026-08-03T03:57:12Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-pump-macerator-h-d-24v-c-e-43958.jpg?v=1777117684
-  Price: $531.71 CAD
-- [ITT Jabsco Wakeboard Ballast 12 VDC Pump - 18220-1127 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-wakeboard-ballast-12-vdc-pump-18220-1127): ITT Jabsco Wakeboard Ballast 12 VDC Pump - 18220-1127 - Wakeboard Ballast Pumps - ITT Jabsco Wakeboard Ballast 12 VDC Pump This self-priming pump can deliver almost 80 lbs of water per minute and is reversible to both fill and empty ballast tanks. Run-dry
-  Updated: 2026-08-03T04:06:41Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/18220-1127.jpg?v=1777117684
-  Price: $832.85 CAD
-- [ITT Jabsco Permanent Oil Kit - 18080-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-permanent-oil-kit-18080-0000): ITT Jabsco Permanent Oil Kit - 18080-0000 - Oil Change Systems and Pumps - ITT Jabsco Permanent Oil Kit Includes 1/2"-20 drain plug fitting, oil drain hose, cap, and hose hanger clamp. Not recommended for cars with drain plugs exposed to potential ro
-  Updated: 2026-08-03T03:32:35Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-perm-oil-drain-hose-and-fitt-kit-43955.jpg?v=1777117686
-  Price: $200.10 CAD
-- [ITT Jabsco Impeller Kit - Neoprene - 17937-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-neoprene-17937-0001-p): ITT Jabsco Impeller Kit - Neoprene - 17937-0001-P - Engine Cooling Pumps and Accessories - ITT Jabsco Impeller Kit - Neoprene Impeller Type: Neoprene Drive Type: 7 Blades: 10 Dimensions: 2-9/16" Diameter, 2" Width, 5/8" Shaft Brass Insert S
-  Updated: 2026-08-03T03:07:45Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/10-Blade.jpg?v=1777117687
-  Price: $95.74 CAD
-- [ITT Jabsco Multi-Blade Impeller Kit - Neoprene - 17936-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-multi-blade-impeller-kit-neoprene): ITT Jabsco Multi-Blade Impeller Kit - Neoprene - 17936-0001-P - Impellers - ITT Jabsco Multi-Blade Impeller Kit - Neoprene Insert: BR Size: 3-3/4" Shaft: 1" Type: Neoprene Depth: 3-1/2" Blades: 12 See Jabsco Impeller Cross Reference and Imp
-  Updated: 2026-08-03T03:43:09Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/12-Blade.jpg?v=1777117688
-  Price: $301.94 CAD
-- [ITT Jabsco Multi-Blade Impeller Kit - Neoprene - 17935-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-multi-blade-impeller-kit-neoprene-17935-0001-p): ITT Jabsco Multi-Blade Impeller Kit - Neoprene - 17935-0001-P - Impellers - ITT Jabsco Multi-Blade Impeller Kit - Neoprene Insert: BR Size: 3-3/4" Shaft: 1" Type: Neoprene Depth: 2-1/2" Blades: 12 See Jabsco Impeller Cross Reference and Imp
-  Updated: 2026-08-03T03:31:19Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/12-Blade_67d132cd-bef8-47ab-b2f8-ce0510b2b099.jpg?v=1777117688
-  Price: $192.58 CAD
-- [ITT Jabsco Oil Changer System 12V - 178200012 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-oil-changer-system-12v): ITT Jabsco Oil Changer System 12V 626-11119 Size : 5-1/4 H x 10-7/8 W x 11 D
-  Updated: 2026-07-21T08:27:53Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-oil-changer-system-12v-43950.jpg?v=1777117689
-  Price: $922.71 CAD
-- [ITT Jabsco Porta-Quick Oil Changer 12V - 17800-2000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-porta-quick-oil-changer-12v): ITT Jabsco Porta-Quick Oil Changer 12V - 17800-2000 - Oil Change Systems and Pumps - ITT Jabsco Porta-Quick Oil Changer 12V Self-contained engine oil change kit, ready to use Reversible pump with FORWARD/OFF/REVERSE switch. Pump from engine sump to PORTAQ
-  Updated: 2026-08-03T01:35:16Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-porta-quick-oil-changer-43949.jpg?v=1777117689
-  Price: $530.39 CAD
-- [ITT Jabsco Impeller Kit - Neoprene - 17370-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-neoprene-17370-0001-p): ITT Jabsco Impeller Kit - Neoprene - 17370-0001-P - Impellers - ITT Jabsco Impeller Kit - Neoprene Insert: PL Size : 3-3/4" Shaft: 1" Type: Neoprene Depth : 3-1/2" Blades: 12 See Jabsco Impeller Cross Reference and Impeller Identification G
-  Updated: 2026-08-03T03:49:23Z
-  Vendor: ITT Jabsco
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-impeller-neoprene-43948.jpg?v=1777117690
-  Price: $386.34 CAD
 - [ITT Jabsco Spare Impeller And Shaft - 172550003P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-spare-impeller-and-shaft): ITT Jabsco Spare Impeller And Shaft 4-0312 Insert : None Size : 1-9/16 Shaft : 1/4 Type : Nitrile Depth : 3/4 Blades : 6
-  Updated: 2026-07-21T08:27:53Z
+  Updated: 2026-08-11T11:33:45Z
   Vendor: ITT Jabsco
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-spare-impeller-and-shaft-43947.jpg?v=1777117690
   Price: $47.91 CAD
-- [ITT Jabsco Self-Priming Drill Pump Only - 17250-0003 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-self-priming-drill-pump-only): ITT Jabsco Self-Priming Drill Pump Only - 17250-0003 - Oil Change Systems and Pumps - ITT Jabsco Self-Priming Drill Pump Only Provides a very versatile means of transferring fluid almost anywhere an electric drill with a 1/4" to 3/8" chuck can b
-  Updated: 2026-08-03T01:30:23Z
-  Vendor: ITT Jabsco
+- [Interlux Brushing Liquid Quart | Steveston Marine](https://www.stevestonmarine.com/products/interlux-brushing-liquid-quart): Shop Interlux Brushing Liquid Quart at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:27:55Z
+  Vendor: Interlux
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-self-priming-drill-pump-only-43946.jpg?v=1777117692
-  Price: $71.99 CAD
-- [ITT Jabsco Drill Pump Kit - 17215-0000 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-drill-pump-kit): ITT Jabsco Drill Pump Kit - 17215-0000 - Oil Change Systems and Pumps - ITT Jabsco Drill Pump Kit Provides a very versatile means of transferring fluid almost anywhere an electric drill with a 1/4" to 3/8" chuck can be operated. Pumps up to 3.5
-  Updated: 2026-08-03T01:31:45Z
-  Vendor: ITT Jabsco
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/interlux-brushing-liquid-quart-43874.jpg?v=1777117707
+  Price: $39.86 CAD
+- [Interlux Fiberglass Solvent Wash Quart - 202QTCA | Steveston Marine Canada](https://www.stevestonmarine.com/products/interlux-fiberglass-solvent-wash-quart): Interlux Fiberglass Solvent Wash Quart 189-38703 Case : 6 Size : Quart
+  Updated: 2026-07-21T08:27:55Z
+  Vendor: Interlux
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-drill-pump-kit-43945.jpg?v=1777117692
-  Price: $97.59 CAD
-- [ITT Jabsco Impeller Kit - Neoprene - 17018-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-neoprene-17018-0001-p): ITT Jabsco Impeller Kit - Neoprene - 17018-0001-P - Impellers - ITT Jabsco Impeller Kit - Neoprene Insert: BR Size: 2-9/16" Type: NeopreneÂ  Depth : 3" Blades: 8 See Jabsco Impeller Cross Reference and Impeller Identification Guide for impeller s
-  Updated: 2026-08-03T03:30:55Z
-  Vendor: ITT Jabsco
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/interlux-fiberglass-solvent-wash-quart-43870.jpg?v=1777117707
+  Price: $39.09 CAD
+- [Pacer Electronics 10 Ga Orange Tinned Wire 100' - 532 | Steveston Marine Canada](https://www.stevestonmarine.com/products/pacer-electronics-10-ga-orange-tinned-wire-100): Pacer Electronics 10 Ga Orange Tinned Wire 100 1-031800 Gauge : 10 Color : Orange Length : 100
+  Updated: 2026-07-21T08:27:55Z
+  Vendor: Pacer Electronics
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/17018-0001-P.jpg?v=1777117695
-  Price: $190.01 CAD
-- [ITT Jabsco Impeller Kit - Nitrile - 14750-0003-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-nitrile-14750-0003-p): ITT Jabsco Impeller Kit - Nitrile - 14750-0003-P - Impellers - ITT Jabsco Impeller Kit - Nitrile Insert: BR Size: 1-1/4" Shaft: 5/16" Type: Nitrile Depth: 15/32" Blades: 8 See Jabsco Impeller Cross Reference and Impeller Identification Guid
-  Updated: 2026-08-03T03:08:13Z
-  Vendor: ITT Jabsco
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/pacer-electronics-10-ga-orange-tinned-wire-100-43578.jpg?v=1777117708
+  Price: $165.97 CAD
+- [Pacer Electronics Nyl Cable Clamps 1/2 C/Pk - 254 | Steveston Marine Canada](https://www.stevestonmarine.com/products/pacer-electronics-nyl-cable-clamps-1-2-c-pk): Pacer Electronics Nyl Cable Clamps 1/2 C/Pk 6-926000060 Pack : 100 Size : 1/2 ID
+  Updated: 2026-07-21T08:27:56Z
+  Vendor: Pacer Electronics
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-impeller-nitrile-43942.jpg?v=1777117694
-  Price: $96.48 CAD
-- [ITT Jabsco Impeller Kit - Neoprene - 13554-0001-P | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-kit-neoprene-13554-0001-p): ITT Jabsco Impeller Kit - Neoprene - 13554-0001-P - Flexible Impeller Engine Driven Pumps, Impellers and Parts - ITT Jabsco Impeller Kit - Neoprene Impeller Silhouette: K Type: Neoprene Depth: 1-29/32" Blades: 12 Impeller Diameter: 2-1/4" Drive
-  Updated: 2026-08-03T03:24:59Z
-  Vendor: ITT Jabsco
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/pacer-electronics-nyl-cable-clamps-1-2-c-pk-43538.jpg?v=1777117708
+  Price: $32.66 CAD
+- [Pacer Electronics Blu 1/4 Tab Fem Term 16-1 C - 178 | Steveston Marine Canada](https://www.stevestonmarine.com/products/pacer-electronics-blu-1-4-tab-fem-term-16-1-c): Pacer Electronics Blu 1/4 Tab Fem Term 16-1 C 18-44677 Pack : 100 Wire Range : 16-14Connection : Female
+  Updated: 2026-07-21T08:27:56Z
+  Vendor: Pacer Electronics
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/itt-jabsco-impeller-neoprene-43938.jpg?v=1777117695
-  Price: $155.84 CAD
-- [Itt Jabsco Impeller Neoprene - 63030001 | Steveston Marine Canada](https://www.stevestonmarine.com/products/itt-jabsco-impeller-neopreme): Itt Jabsco Impeller Neoprene - 63030001 - Boat supplies, equipment and replacement parts. Powerboat and Sailboat. Vancouver, Toronto, Victoria
-  Updated: 2026-07-21T08:27:54Z
-  Vendor: ITT Jabsco
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/pacer-electronics-blu-1-4-tab-fem-term-16-1-c-43531.jpg?v=1777117709
+  Price: $20.77 CAD
+- [Pacer Electronics Red 1/4 Tab Fem Term 22-1 C - 177 | Steveston Marine Canada](https://www.stevestonmarine.com/products/pacer-electronics-red-1-4-tab-fem-term-22-1-c): Pacer Electronics Red 1/4 Tab Fem Term 22-1 C 6-354000000 Pack : 100 Wire Range : 22-18Connection : Female
+  Updated: 2026-07-21T08:27:56Z
+  Vendor: Pacer Electronics
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/1210-0001-P.jpg?v=1777117696
-  Price: $67.58 CAD
-[List Continued](https://www.stevestonmarine.com/a/llms-agent/llms.txt?shop=002zcd-xr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjA5NzI5NjQ2ODIxLCJsYXN0X3ZhbHVlIjoiOTIwOTcyOTY0NjgyMSJ9)
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/pacer-electronics-red-1-4-tab-fem-term-22-1-c-43530.jpg?v=1777117710
+  Price: $19.78 CAD
+- [Pacer Electronics Yel 1/4 Tab Male Term 12-10 C - 176 | Steveston Marine Canada](https://www.stevestonmarine.com/products/pacer-electronics-yel-1-4-tab-male-term-12-10-c): Pacer Electronics Yel 1/4 Tab Male Term 12-10 C 74-91622C Pack : 100 Wire Range : 42348Connection : Male
+  Updated: 2026-07-21T08:27:56Z
+  Vendor: Pacer Electronics
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/pacer-electronics-yel-1-4-tab-male-term-12-10-c-43529.jpg?v=1777117709
+  Price: $21.99 CAD
+- [Pacer Electronics Blu 1/4 Tab Male Term 16-14 C - 175 | Steveston Marine Canada](https://www.stevestonmarine.com/products/pacer-electronics-blu-1-4-tab-male-term-16-14-c): Pacer Electronics Blu 1/4 Tab Male Term 16-14 C 199-12024 Pack : 100 Wire Range : 16-14Connection : Male
+  Updated: 2026-07-21T08:27:56Z
+  Vendor: Pacer Electronics
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/pacer-electronics-blu-1-4-tab-male-term-16-14-c-43528.jpg?v=1777117710
+  Price: $17.80 CAD
+- [CRC/Marykate On & Off Hull & Bottom Cleaner - 76203 | Steveston Marine Canada](https://www.stevestonmarine.com/products/crc-marykate-on-amp-off-hull-amp-bottom-cleaner): CRC/Marykate On and Off Hull and Bottom Cleaner 11-MP39590 Case : 12 Size : 946 ml
+  Updated: 2026-07-21T08:27:56Z
+  Vendor: CRC/Marykate
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/crc-marykate-on-and-off-hull-and-bottom-cleaner-43501.jpg?v=1777117710
+  Price: $40.99 CAD
+- [CRC/Marykate Engine Stor 369G Aerosol Can - 76068 | Steveston Marine Canada](https://www.stevestonmarine.com/products/crc-marykate-engine-stor-369g-aerosol-can): CRC/Marykate Engine Stor 369G Aerosol Can 94-HT9000G Case : 12 Size : 369 grams/ 13 oz.
+  Updated: 2026-07-21T08:27:57Z
+  Vendor: CRC/Marykate
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/crc-marykate-engine-stor-369g-aerosol-can-43500.jpg?v=1777117711
+  Price: $15.29 CAD
+- [CRC/Marykate Carb & Choke Cleaner 312G - 76064 | Steveston Marine Canada](https://www.stevestonmarine.com/products/crc-marykate-carb-amp-choke-cleaner-312g): CRC/Marykate Carb and Choke Cleaner 312G 94-77901CA Case : 12 Size : 340 grams
+  Updated: 2026-07-21T08:27:57Z
+  Vendor: CRC/Marykate
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/crc-marykate-carb-and-choke-cleaner-312g-43499.jpg?v=1777117712
+  Price: $17.19 CAD
+- [CRC/Marykate Stor-X Commercial Grade - 76063 | Steveston Marine Canada](https://www.stevestonmarine.com/products/crc-marykate-stor-x-commercial-grade): CRC/Marykate Stor-X Commercial Grade 50-43050 Case : 12 Treats : 150 Litres Size : 237 ml
+  Updated: 2026-07-21T08:27:57Z
+  Vendor: CRC/Marykate
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/crc-marykate-stor-x-commercial-grade-43498.jpg?v=1777117712
+  Price: $19.29 CAD
+- [CRC/Marykate Marine Fuel Stabilizer 237 - 76062 | Steveston Marine Canada](https://www.stevestonmarine.com/products/crc-marykate-marine-fuel-stabilizer-237): CRC/Marykate Marine Fuel Stabilizer 237 216-A75 Case : 12 Size : 236 ml
+  Updated: 2026-07-21T08:27:57Z
+  Vendor: CRC/Marykate
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/crc-marykate-marine-fuel-stabilizer-237-43497.jpg?v=1777117712
+  Price: $17.99 CAD
+- [CRC/Marykate White Lithium Grease 248G Can - 76037 | Steveston Marine Canada](https://www.stevestonmarine.com/products/crc-marykate-white-lithium-grease-248g-can): CRC/Marykate White Lithium Grease 248G Can 194-CM6644537101A Case : 12 Size : 284 grams
+  Updated: 2026-08-07T22:49:59Z
+  Vendor: CRC/Marykate
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/crc-marykate-white-lithium-grease-248g-can-43496.jpg?v=1777117713
+  Price: $15.99 CAD
+- [CRC/Marykate Crc Cleaner & Degreaser 539G - 76019 | Steveston Marine Canada](https://www.stevestonmarine.com/products/crc-marykate-crc-cleaner-amp-degreaser-539g): CRC/Marykate Crc Cleaner and Degreaser 539G 32-3718 Case : 12 Size : 539 grams
+  Updated: 2026-07-21T08:27:57Z
+  Vendor: CRC/Marykate
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/crc-marykate-crc-cleaner-and-degreaser-539g-43495.jpg?v=1777117713
+  Price: $19.78 CAD
+- [CRC/Marykate 6-56 Lubricant 312G - 76007 | Steveston Marine Canada](https://www.stevestonmarine.com/products/crc-marykate-6-56-lubricant-312g): CRC/Marykate 6-56 Lubricant 312G 686-2504WF Size : 312 grams
+  Updated: 2026-07-21T08:27:58Z
+  Vendor: CRC/Marykate
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/crc-marykate-6-56-lubricant-312g-43494.jpg?v=1777117713
+  Price: $21.09 CAD
+- [Boatlife Adhesive/Sealant Remover 16Oz - 1288 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-adhesive-sealant-remover-16oz): Boatlife Adhesive/Sealant Remover 16Oz 194-CM872793Z Case : 12 Size : Pint spray
+  Updated: 2026-08-08T05:25:33Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-adhesive-sealant-remover-16oz-43493.jpg?v=1777117713
+  Price: $107.16 CAD
+- [Boatlife Teak Deck Sealant Cart.-Black - 1252 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-teak-deck-sealant-cart-black): Boatlife Teak Deck Sealant Cart.-Black 88-2205000 Case : 12 Size : 10.6 oz cart.
+  Updated: 2026-08-17T20:50:38Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/1252.jpg?v=1777117715
+  Price: $41.35 CAD
+- [Boatlife Fix Repair Putty 3Oz Kit - 1197 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-fix-repair-putty-3oz-kit): Boatlife Fix Repair Putty 3Oz Kit 500-95121P Case : 18 Size : 3 oz. kit
+  Updated: 2026-08-08T05:26:13Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-fix-repair-putty-3oz-kit-43491.jpg?v=1777117715
+  Price: $49.42 CAD
+- [Boatlife Fiber Powder Clean Stain Remv - 1190 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-fiber-powder-clean-stain-remv): Boatlife Fiber Powder Clean Stain Remv 702-970100110 Case : 12 Size : 26 oz.
+  Updated: 2026-08-08T05:26:31Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-fiber-powder-clean-stain-remv-43489.jpg?v=1777117715
+  Price: $33.59 CAD
+- [Boatlife Liquid Life Seal 5.2 Oz Clear - 1159 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-liquid-life-seal-5-2-oz-clear): Boatlife Liquid Life Seal 5.2 Oz Clear 50-13501 Case : 12 Size : 5.2 oz. Cartridge
+  Updated: 2026-08-08T05:26:25Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-liquid-life-seal-5-2-oz-clear-43488.jpg?v=1777117715
+  Price: $46.39 CAD
+- [Boatlife Silicone Cartridge-Black - 1152 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-silicone-cartridge-black): Boatlife Silicone Cartridge-Black 88-220S5000 Case : 12 Size : 10.6 oz. cart.
+  Updated: 2026-08-08T05:26:41Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-silicone-cartridge-black-43487.jpg?v=1777117715
+  Price: $31.99 CAD
+- [Boatlife Silicone Cartridge-Clear - 1150 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-silicone-cartridge-clear): Boatlife Silicone Cartridge-Clear 71-20435 Case : 12 Size : 10.6 oz. cart.
+  Updated: 2026-08-08T05:24:33Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-silicone-cartridge-clear-43485.jpg?v=1777117716
+  Price: $44.46 CAD
+- [Boatlife Silicone Tube-White - 1141 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-silicone-tube-white): Boatlife Silicone Tube-White 27-1358710 Case : 12 Size : 2.8 oz. tube
+  Updated: 2026-08-08T10:26:21Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-silicone-tube-white-43484.jpg?v=1777117716
+  Price: $22.36 CAD
+- [Boatlife Mildew Remover - 1137 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-mildew-remover): Boatlife Mildew Remover 32-45604 Case : 12 Size : 16 oz. Spray
+  Updated: 2026-08-08T05:24:28Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-mildew-remover-43483.jpg?v=1777117716
+  Price: $46.71 CAD
+- [Boatlife Life Seal Clear 1 Oz - 1109 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-life-seal-clear-1-oz): Boatlife Life Seal Clear 1 Oz 71-62335 Case : 12 Size : 1 oz. tube
+  Updated: 2026-08-08T10:26:12Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-life-seal-clear-1-oz-43482.jpg?v=1777117717
+  Price: $20.46 CAD
+- [Boatlife Brightener Teak Brite Quart - 1087 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-brightener-teak-brite-quart): Boatlife Brightener Teak Brite Quart 9-0757DP0CHR Case : 12 Size : Quart
+  Updated: 2026-08-08T05:26:20Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-brightener-teak-brite-quart-43480.jpg?v=1777117718
+  Price: $45.09 CAD
+- [boatlife git rot kit 4oz - 1063 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-git-rot-kit-quart): boatlife git rot kit 4oz - 1063 - Caulks and Sealants - Unique two-part liquid epoxy saturates and restores original strength to wood by penetrating the rot. Actually works with the loose rotted fibers.
+  Updated: 2026-08-08T05:26:08Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-git-rot-kit-quart-43479.jpg?v=1777117718
+  Price: $43.35 CAD
+- [Boatlife Life Calk Primer - 1059 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-life-calk-primer): Boatlife Life Calk Primer 62-PFF5510 Case : 12 Size : 8 oz.
+  Updated: 2026-08-23T18:00:38Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-life-calk-primer-43478.jpg?v=1777117718
+  Price: $52.29 CAD
+- [Boatlife Pt Solvent/Cleaner - 1056 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-pt-solvent-cleaner): Boatlife Pt Solvent/Cleaner 194-CM89949Z Case : 12 Size : Pint
+  Updated: 2026-08-08T05:26:46Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-pt-solvent-cleaner-43477.jpg?v=1777117719
+  Price: $59.03 CAD
+- [Boatlife Liquid Life Calk Tube-Black - 1055 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-liquid-life-calk-tube-black): Boatlife Liquid Life Calk Tube-Black 50-35921 Case : 12 Size : 3 oz. tube
+  Updated: 2026-08-08T05:23:45Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-liquid-life-calk-tube-black-43476.jpg?v=1777117720
+  Price: $23.19 CAD
+- [Boatlife Liquid Life Calk Tube-White - 1052 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-liquid-life-calk-tube-white): Boatlife Liquid Life Calk Tube-White 354-521130 Case : 12 Size : 3 oz. tube
+  Updated: 2026-08-08T05:26:02Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-liquid-life-calk-tube-white-43475.jpg?v=1777117719
+  Price: $22.39 CAD
+- [Boatlife Life Calk Tube - Teak Brown - 1037 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-life-calk-tube-teak-brown): Boatlife Life Calk Tube - Teak Brown 122-RP504 Case : 12 Size : 2.8 oz. tube
+  Updated: 2026-08-08T05:25:57Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-life-calk-tube-teak-brown-43474.jpg?v=1777117720
+  Price: $18.95 CAD
+- [Boatlife Life Calk Cartridge-Teak Brow - 1036 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-life-calk-cartridge-teak-brow): Boatlife Life Calk Cartridge-Teak Brow 122-RP5 Case : 12 Size : 10.6 oz. cart.
+  Updated: 2026-08-08T05:25:51Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-life-calk-cartridge-teak-brow-43473.jpg?v=1777117720
+  Price: $49.99 CAD
+- [Boatlife Life Calk Cartridge-White - 1033 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-life-calk-cartridge-white): Boatlife Life Calk Cartridge-White 50-13631 Case : 12 Size : 10.6 oz. cart.
+  Updated: 2026-08-08T05:25:45Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-life-calk-cartridge-white-43472.jpg?v=1777117720
+  Price: $49.99 CAD
+- [Boatlife Life Calk Tube Black - 1031 | Steveston Marine Canada](https://www.stevestonmarine.com/products/boatlife-life-calk-tube-black): Boatlife Life Calk Tube Black 9-1016DP0BLK Case : 12 Size : 2.8 oz. tube
+  Updated: 2026-08-08T05:25:39Z
+  Vendor: Boatlife
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/boatlife-life-calk-tube-black-43471.jpg?v=1777117721
+  Price: $27.19 CAD
+- [Starbrite Corrosion Blocker 22 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-corrosion-blocker-22-oz): Shop Starbrite Corrosion Blocker 22 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:01Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-corrosion-blocker-22-oz-43470.jpg?v=1777117721
+  Price: $29.27 CAD
+- [Starbrite Odor Guard Clnr Freshr 22 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-odor-guard-clnr-freshr-22-oz): Shop Starbrite Odor Guard Clnr Freshr 22 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:01Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-odor-guard-clnr-freshr-22-oz-43469.jpg?v=1777117721
+  Price: $19.91 CAD
+- [Starbrite View Guard Clr Plastic Trtmnt | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-view-guard-clr-plastic-trtmnt): Shop Starbrite View Guard Clr Plastic Trtmnt at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:02Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-view-guard-clr-plastic-trtmnt-43468.jpg?v=1777117723
+  Price: $22.38 CAD
+- [Starbrite Spider Amp Bird Stain Remover 22 | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-spider-amp-bird-stain-remover-22): Shop Starbrite Spider Amp Bird Stain Remover 22 at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:02Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-spider-and-bird-stain-remover-22-43467.jpg?v=1777117722
+  Price: $25.59 CAD
+- [Starbrite Super Orange Degreaser 22 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-super-orange-degreaser-22-oz): Shop Starbrite Super Orange Degreaser 22 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:02Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-super-orange-degreaser-22-oz-43465.jpg?v=1777117723
+  Price: $16.78 CAD
+- [Starbrite Salt Off Protect W Ptef 32Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-salt-off-protect-w-ptef-32oz): Shop Starbrite Salt Off Protect W Ptef 32Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:02Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-salt-off-protect-w-ptef-32oz-43464.jpg?v=1777117722
+  Price: $23.18 CAD
+- [Starbrite Bilge Cleaner Power Pine 32 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-bilge-cleaner-power-pine-32-oz): Shop Starbrite Bilge Cleaner Power Pine 32 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:02Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-bilge-cleaner-power-pine-32-oz-43461.jpg?v=1777117723
+  Price: $36.23 CAD
+- [Starbrite Star Tron Diesel Additive 32Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-star-tron-diesel-additive-32oz): Shop Starbrite Star Tron Diesel Additive 32Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:02Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-star-tron-diesel-additive-32oz-43454.jpg?v=1777117724
+  Price: $76.63 CAD
+- [Starbrite Star Tron Diesel Additive 16Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-star-tron-diesel-additive-16oz): Shop Starbrite Star Tron Diesel Additive 16Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:02Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-star-tron-diesel-additive-16oz-43453.jpg?v=1777117724
+  Price: $45.35 CAD
+- [Starbrite Star Tron Diesel Additive 8 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-star-tron-diesel-additive-8-oz): Shop Starbrite Star Tron Diesel Additive 8 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:03Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-star-tron-diesel-additive-8-oz-43452.jpg?v=1777117725
+  Price: $28.63 CAD
+- [Starbrite Star Tron Diesel Additive 5Gl | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-star-tron-diesel-additive-5gl): Shop Starbrite Star Tron Diesel Additive 5Gl at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:03Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-star-tron-diesel-additive-5gl-43451.jpg?v=1777117725
+  Price: $933.99 CAD
+- [Starbrite Star Tron Gas Additive 32 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-star-tron-gas-additive-32-oz): Shop Starbrite Star Tron Gas Additive 32 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:03Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-star-tron-gas-additive-32-oz-43450.jpg?v=1777117726
+  Price: $60.15 CAD
+- [Starbrite Star Tron Gas Additive 16Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-star-tron-gas-additive-16oz): Shop Starbrite Star Tron Gas Additive 16Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:03Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-star-tron-gas-additive-16oz-43449.jpg?v=1777117725
+  Price: $37.99 CAD
+- [Starbrite Star Tron Gas Additive 8 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-star-tron-gas-additive-8-oz): Shop Starbrite Star Tron Gas Additive 8 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:03Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-star-tron-gas-additive-8-oz-43448.jpg?v=1777117726
+  Price: $23.19 CAD
+- [Starbrite Star Tron Gas Additive 5Gal | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-star-tron-gas-additive-5gal): Shop Starbrite Star Tron Gas Additive 5Gal at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:03Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-star-tron-gas-additive-5gal-43447.jpg?v=1777117726
+  Price: $941.59 CAD
+- [Starbrite Ez On Ez Off Hull Clnr 32 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-ez-on-ez-off-hull-clnr-32-oz): Shop Starbrite Ez On Ez Off Hull Clnr 32 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:04Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-ez-on-ez-off-hull-clnr-32-oz-43446.jpg?v=1777117726
+  Price: $24.06 CAD
+- [STARBRITE Caulk Rite | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-caulk-rite): Shop STARBRITE Caulk Rite at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-08-03T02:19:19Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-caulk-rite-43445.jpg?v=1777117727
+  Price: $24.20 CAD
+- [STARBRITE Caulk-A-Way | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-caulk-a-way): Shop STARBRITE Caulk-A-Way at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-08-03T02:19:19Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-caulk-a-way-43444.jpg?v=1777117728
+  Price: $24.20 CAD
+- [Starbrite Boat Bottom Cleaner Gallon | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-boat-bottom-cleaner-gallon): Shop Starbrite Boat Bottom Cleaner Gallon at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:04Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-boat-bottom-cleaner-gallon-43443.jpg?v=1777117727
+  Price: $89.03 CAD
+- [STARBRITE Bilge Oil Pads 3/8 5Pk -17X19 | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-bilge-oil-pads-3-8-5pk-17x19): Shop STARBRITE Bilge Oil Pads 3/8 5Pk -17X19 at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-08-03T02:20:19Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-bilge-oil-pads-3-8-5pk-17x19-43440.jpg?v=1777117728
+  Price: $25.03 CAD
+- [STARBRITE Bilge Pads 18In X 19In 200/Bg | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-bilge-pads-18in-x-19in-200-bg): Shop STARBRITE Bilge Pads 18In X 19In 200/Bg at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-08-03T03:57:02Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-bilge-pads-18in-x-19in-200-bg-43439.jpg?v=1777117728
+  Price: $528.14 CAD
+- [Starbrite Cleaner Super Green 22 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-cleaner-super-green-22-oz): Shop Starbrite Cleaner Super Green 22 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:05Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-cleaner-super-green-22-oz-43438.jpg?v=1777117729
+  Price: $15.98 CAD
+- [Starbrite Water Conditioner 4 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-water-conditioner-4-oz): Shop Starbrite Water Conditioner 4 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:05Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-water-conditioner-4-oz-43437.jpg?v=1777117729
+  Price: $15.82 CAD
+- [Starbrite Vinyl Cleaner Amp Polish 16 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-vinyl-cleaner-amp-polish-16-oz): Shop Starbrite Vinyl Cleaner Amp Polish 16 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:05Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-vinyl-cleaner-and-polish-16-oz-43436.jpg?v=1777117730
+  Price: $28.55 CAD
+- [Starbrite Boat Wash Amp Wax Pt | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-boat-wash-amp-wax-pt): Shop Starbrite Boat Wash Amp Wax Pt at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:05Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/89816.A1_fb24ccf9-3e2b-4bcc-981b-8d3c15059c80.webp?v=1777119554
+  Price: $20.58 CAD
+- [Starbrite Sea Safe Waterproofing 22 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-sea-safe-waterproofing-22-oz): Shop Starbrite Sea Safe Waterproofing 22 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:05Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-sea-safe-waterproofing-22-oz-43434.jpg?v=1777117730
+  Price: $29.27 CAD
+- [Starbrite Sea Safe Bottom Cleaner 32 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-sea-safe-bottom-cleaner-32-oz): Shop Starbrite Sea Safe Bottom Cleaner 32 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:05Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-sea-safe-bottom-cleaner-32-oz-43433.jpg?v=1777117731
+  Price: $25.88 CAD
+- [Starbrite Teak Oil Sea Safe Low Voc 32Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-teak-oil-sea-safe-low-voc-32oz): Shop Starbrite Teak Oil Sea Safe Low Voc 32Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:05Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-teak-oil-sea-safe-low-voc-32oz-43432.jpg?v=1777117731
+  Price: $47.43 CAD
+- [Starbrite Sea Safe Hull Cleaner Qt | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-sea-safe-hull-cleaner-qt): Shop Starbrite Sea Safe Hull Cleaner Qt at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:06Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-sea-safe-hull-cleaner-qt-43429.jpg?v=1777117732
+  Price: $35.59 CAD
+- [Star brite Sea Safe Boat Wash (32 oz / 946 | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-sea-safe-boat-wash-qt): Shop Star brite Sea Safe Boat Wash (32 oz / 946 mL) at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:06Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/WhatsAppImage2026-03-01at10.28.25PM.jpg?v=1777117732
+  Price: $24.95 CAD
+- [Starbrite Sea Safe Cleaner Degreaser 22 | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-sea-safe-cleaner-degreaser-22): Shop Starbrite Sea Safe Cleaner Degreaser 22 at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:06Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-sea-safe-cleaner-degreaser-22-43424.jpg?v=1777117733
+  Price: $23.67 CAD
+- [Starbrite Cleaner Wax Prem One Step 16Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-cleaner-wax-prem-one-step-16oz): Shop Starbrite Cleaner Wax Prem One Step 16Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:06Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/950-_-sta-89632-256px-256px.jpg?v=1777117732
+  Price: $33.59 CAD
+- [Starbrite Rust Stain Remover 22 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-rust-stain-remover-22-oz): Shop Starbrite Rust Stain Remover 22 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:06Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-rust-stain-remover-22-oz-43421.jpg?v=1777117733
+  Price: $25.99 CAD
+- [Starbrite Snap Amp Zipper Lubricant 2 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-snap-amp-zipper-lubricant-2-oz): Shop Starbrite Snap Amp Zipper Lubricant 2 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:06Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-snap-and-zipper-lubricant-2-oz-43420.jpg?v=1777117733
+  Price: $19.11 CAD
+- [Starbrite Window Saver 7 8In 6 Cd | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-window-saver-7-8in-6-cd): Shop Starbrite Window Saver 7 8In 6 Cd at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:06Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-window-saver-7-8in-6-cd-43416.jpg?v=1777117733
+  Price: $29.03 CAD
+- [Starbrite Window Saver 1In 6 Cd | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-window-saver-1in-6-cd): Shop Starbrite Window Saver 1In 6 Cd at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:07Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-window-saver-1in-6-cd-43415.jpg?v=1777117733
+  Price: $29.03 CAD
+- [Starbrite Epoxy Putty Stick 4 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-epoxy-putty-stick-4-oz): Shop Starbrite Epoxy Putty Stick 4 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:07Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-epoxy-putty-stick-4-oz-43411.jpg?v=1777117735
+  Price: $37.43 CAD
+- [STARBRITE Oil Absorbant Maxi Boom | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-oil-absorbant-maxi-boom): Shop STARBRITE Oil Absorbant Maxi Boom at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-08-03T02:43:08Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-oil-absorbant-maxi-boom-43409.jpg?v=1777117735
+  Price: $49.52 CAD
+- [Starbrite Deck Cleaner Non Skid 22 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-deck-cleaner-non-skid-22-oz): Shop Starbrite Deck Cleaner Non Skid 22 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:07Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-deck-cleaner-non-skid-22-oz-43408.jpg?v=1777117735
+  Price: $17.58 CAD
+- [Starbrite Polish Premium W Ptfe 32 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-polish-premium-w-ptfe-32-oz): Shop Starbrite Polish Premium W Ptfe 32 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-08-10T14:27:10Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/images_11.jpg?v=1777117735
+  Price: $66.07 CAD
+- [Starbrite Polish Premium W Ptfe 16Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-polish-premium-w-ptfe-16oz): Shop Starbrite Polish Premium W Ptfe 16Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-08-07T21:09:31Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-polish-premium-w-ptfe-16oz-43406.jpg?v=1777117735
+  Price: $42.79 CAD
+- [Starbrite Mildew Stain Remover 22 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-mildew-stain-remover-22-oz): Shop Starbrite Mildew Stain Remover 22 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:08Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-mildew-stain-remover-22-oz-43404.jpg?v=1777117736
+  Price: $23.75 CAD
+- [Starbrite No Damp Ultra Dome 24 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-no-damp-ultra-dome-24-oz): Shop Starbrite No Damp Ultra Dome 24 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:08Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-no-damp-ultra-dome-24-oz-43403.jpg?v=1777117737
+  Price: $29.27 CAD
+- [Starbrite No Damp Refill 12 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-no-damp-refill-12-oz): Shop Starbrite No Damp Refill 12 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:08Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-no-damp-refill-12-oz-43402.jpg?v=1777117738
+  Price: $7.35 CAD
+- [Starbrite Fogging Oil 12 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-fogging-oil-12-oz): Shop Starbrite Fogging Oil 12 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:08Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-fogging-oil-12-oz-43399.jpg?v=1777117738
+  Price: $12.44 CAD
+- [Starbrite Diesel Water Absorber 16 Oz | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-diesel-water-absorber-16-oz): Shop Starbrite Diesel Water Absorber 16 Oz at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:08Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-diesel-water-absorber-16-oz-43398.jpg?v=1777117741
+  Price: $28.95 CAD
+- [Starbrite Diesel Storage Additive 8 W | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-diesel-storage-additive-8-w): Shop Starbrite Diesel Storage Additive 8 W at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:08Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-diesel-storage-additive-8-w-43397.jpg?v=1777117741
+  Price: $14.24 CAD
+- [Starbrite Gas Storage Additive 8 Oz W | Steveston Marine](https://www.stevestonmarine.com/products/starbrite-gas-storage-additive-8-oz-w): Shop Starbrite Gas Storage Additive 8 Oz W at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
+  Updated: 2026-07-21T08:28:08Z
+  Vendor: STARBRITE
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-gas-storage-additive-8-oz-w-43396.jpg?v=1777117742
+  Price: $18.95 CAD
+[List Continued](https://www.stevestonmarine.com/a/llms-agent/llms.txt?shop=002zcd-xr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjA5NzM0MDcwNTAxLCJsYXN0X3ZhbHVlIjoiOTIwOTczNDA3MDUwMSJ9)
 
 ## Collections
 
 - [Best  Products](https://www.stevestonmarine.com/collections/best--products): Shop our most popular marine gear PFDs, VHF radios, BBQs & foul weather wear from Mustang, Garmin, Grundens & more. Trusted by boaters since 1941.
-  Updated: 2026-08-08T11:20:58Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 53
 - [Newest Products](https://www.stevestonmarine.com/collections/newest-products): Browse the newest marine products at Steveston Marine — fresh arrivals across boats, electronics, hardware & fishing gear. Ships Canada-wide.
-  Updated: 2026-08-09T11:20:23Z
-  Total Products: 42557
+  Updated: 2026-08-23T11:20:04Z
+  Total Products: 42873
 - [Coolers](https://www.stevestonmarine.com/collections/coolers): Shop Igloo Cooler and Coleman Cooler, mounting kits at Steveston Marine.Trusted performance for fishing, cruising, and marine use.
   Updated: 2026-06-19T18:56:44Z
   Total Products: 7
@@ -1776,31 +1776,31 @@
   Updated: 2026-08-03T04:19:16Z
   Total Products: 18
 - [Barbeques](https://www.stevestonmarine.com/collections/barbeques): Shop Online Steveston Marine premium boat BBQ equipment in Canada. We providing  Dickinson, Kuuma, and Magma Newport marine grills built for boating life.
-  Updated: 2026-08-07T19:26:28Z
+  Updated: 2026-08-11T11:20:18Z
   Total Products: 13
 - [BBQ Mounts and Parts](https://www.stevestonmarine.com/collections/bbq-mounts-and-parts): Shop Marine Barbecue Mounts, Magma grill mounts, boat BBQ grill mounts, and genuine Magma & Dickinson BBQ parts at Steveston Marine. Top Quality marine hardware.
-  Updated: 2026-08-08T11:20:58Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 229
 - [Cabin Heaters](https://www.stevestonmarine.com/collections/cabin-heaters): Shop Dickinson Heater, Propane Heaters  & Webasto Heaters from Electric Boat Heaters, including Dickinson Newport. Reliable marine heating at Steveston Marine.
-  Updated: 2026-08-04T11:21:11Z
+  Updated: 2026-08-16T11:20:29Z
   Total Products: 119
 - [Boat Generators](https://www.stevestonmarine.com/collections/boat-generators): Shop Firman generators at Steveston Marine. Endurance, inverter, dual fuel & tri fuel generators—reliable power for marine, RV, camping & backup needs.
   Updated: 2026-06-19T18:56:44Z
   Total Products: 22
 - [Refrigirators](https://www.stevestonmarine.com/collections/refrigirators): Shop Dometic Fridges and Vitrifrigo fridges and Nova Kool refrigerators at Steveston Marine. Trusted marine and RV cooling solutions in Canada.
-  Updated: 2026-08-07T11:22:51Z
+  Updated: 2026-08-22T11:20:32Z
   Total Products: 91
 - [Stoves and Cooktops](https://www.stevestonmarine.com/collections/stoves-and-cooktops): Shop Dickinson Stoves, Force 10, diesel & gimballed stoves at Steveston Marine. Buy Online stainless steel stove pipe and marine heating solutions in Canada.
   Updated: 2026-06-26T16:20:06Z
   Total Products: 61
 - [Water Heaters](https://www.stevestonmarine.com/collections/water-heaters): Shop Online marine water heaters from Johnson Pump, Kuuma, Quick, Seaward & Torrid. Reliable cylindrical water heaters for boats yachts at Steveston Marine.
-  Updated: 2026-08-03T04:10:45Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 19
 - [Watermakers](https://www.stevestonmarine.com/collections/watermakers): Buy Online Marine HRO, Head Hunter Mach5 115V, Village Marine Watermakers, Little Wonder & pumps. Trusted marine watermaker experts at Steveston Marine.
-  Updated: 2026-08-03T04:09:00Z
+  Updated: 2026-08-18T11:20:50Z
   Total Products: 237
 - [All Boat Covers](https://www.stevestonmarine.com/collections/all-boat-covers): Buy Online quality boat covers from Attwood, Lalizas, and Walker Bay. Durable mooring and storage covers designed for protection and long-lasting marine use.
-  Updated: 2026-08-07T17:31:34Z
+  Updated: 2026-08-17T11:19:21Z
   Total Products: 237
 - [Boat Cover Supports](https://www.stevestonmarine.com/collections/boat-cover-supports): Shop boat cover supports, Attwood, Carver & Taylor boat covers, plus SeaDog rail mount bow sockets. Durable marine-grade protection for boats.
   Updated: 2026-08-03T01:53:06Z
@@ -1809,7 +1809,7 @@
   Updated: 2026-08-03T02:41:33Z
   Total Products: 105
 - [Canvas Fasteners Accessories](https://www.stevestonmarine.com/collections/canvas-fasteners-accessories): Shop online canvas fastener accessories from Attwood, Ennis, Osborne, Perko, SeaDog & Taylor at Steveston Marine. Durable marine curtain fasteners, eyelets and hardware.
-  Updated: 2026-08-03T01:58:58Z
+  Updated: 2026-08-11T16:46:14Z
   Total Products: 46
 - [Canvas Snap and Zipper Lubricant](https://www.stevestonmarine.com/collections/canvas-snap-and-zipper-lubricant): Shop Boat Canvas Snap tools and zipper lubricant for snaps. Keep your marine canvas smooth, rust-free, and easy to use all season long.
   Updated: 2026-06-19T18:56:45Z
@@ -1824,13 +1824,13 @@
   Updated: 2026-06-19T18:56:45Z
   Total Products: 4
 - [Tarps and Accessories](https://www.stevestonmarine.com/collections/tarps-and-accessories): Shop boat tarps, Scotty Tarp, blue vinyl tarps and TH Marine Aqua covers. Durable, waterproof protection for boats in all weather. Buy online today.
-  Updated: 2026-07-24T04:18:44Z
+  Updated: 2026-08-13T11:22:54Z
   Total Products: 44
 - [Inflatable Boats](https://www.stevestonmarine.com/collections/inflatable-boats): Buy Online inflatable boats from Quicksilver, Aqua Marina, Kwik Tek & Crewsaver at steveston marine. Perfect for fishing, leisure & marine adventures.
-  Updated: 2026-08-08T11:20:58Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 36
 - [Battery And Wire Hardware](https://www.stevestonmarine.com/collections/battery-and-wire-hardware): Buy Online Ancor battery cable, Attwood battery, Cobra wire & Cole Hersee. Find the best marine battery and 12V deep cycle boat battery at Steveston Marine.
-  Updated: 2026-08-08T11:20:58Z
+  Updated: 2026-08-22T11:20:32Z
   Total Products: 682
 - [Battery Meters and Gauges](https://www.stevestonmarine.com/collections/battery-meters-and-gauges): Buy Online Victron, Blue Sea, BEP, Xantrex & more battery meters at Steveston Marine. Monitor boat battery performance with trusted marine brands.
   Updated: 2026-08-05T11:21:08Z
@@ -1842,10 +1842,10 @@
   Updated: 2026-07-17T21:05:00Z
   Total Products: 21
 - [Liferafts](https://www.stevestonmarine.com/collections/liferafts): Shop inflatable life rafts, Crewsaver liferafts, rescue boats and life rafts for . Trusted marine safety solutions for crews and vessels.
-  Updated: 2026-07-01T11:21:47Z
+  Updated: 2026-08-18T11:20:50Z
   Total Products: 81
 - [Oarlock and Sockets](https://www.stevestonmarine.com/collections/oarlock-and-sockets): Shop quality oarlocks and oars brand boat producat at Attwood, Perko, Kobelt, Seadog & Scotty. Durable rowlock sockets, bronze oarlocks and collars for boats.
-  Updated: 2026-08-03T03:03:13Z
+  Updated: 2026-08-11T16:55:56Z
   Total Products: 29
 - [Oars](https://www.stevestonmarine.com/collections/oars): Shop boat oars at Steveston Marine — varnished wooden and aluminum oars from Caviness and Seachoice in 5 to 8 ft lengths. Visit Vancouver or Langley or shop online.
   Updated: 2026-07-18T11:22:48Z
@@ -1875,13 +1875,13 @@
   Updated: 2026-06-19T18:56:46Z
   Total Products: 25
 - [Rope and Swim Floats](https://www.stevestonmarine.com/collections/rope-and-swim-floats): Buy floating rope for boats including Kwik Tek rope float At Steveston Marine. Durable, lightweight, high-visibility rope floats for docking, towing, and marine safety.
-  Updated: 2026-06-19T18:56:46Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 6
 - [Ski Flags and Holders](https://www.stevestonmarine.com/collections/ski-flags-and-holders): Buy Online Kwik Tek ski flag holders and watersports flags for safe towing. Durable, easy-mount ski flags meet boating laws and visibility needs.
   Updated: 2026-07-18T11:22:48Z
   Total Products: 2
 - [Ski Rope Accessories](https://www.stevestonmarine.com/collections/ki-rope-accessories): Shop Online Boat Kwik Tek Giant Snap Hook, Jet Logic Airline Line Winder & Kwik Tek accessories. Durable marine gear designed for secure lines and easy handling.
-  Updated: 2026-06-19T18:56:46Z
+  Updated: 2026-08-17T11:19:21Z
   Total Products: 2
 - [Ski Ropes](https://www.stevestonmarine.com/collections/ski-ropes): Shop premium ski ropes from Hydroslide and Body Glove at Steveston Marine. Durable, high-performance water ski ropes for beginners to pros. Fast shipping available.
   Updated: 2026-07-18T11:22:47Z
@@ -1911,16 +1911,16 @@
   Updated: 2026-06-19T18:56:47Z
   Total Products: 0
 - [Wakeboard Ropes](https://www.stevestonmarine.com/collections/wakeboard-ropes): Shop Online the best wakeboard rope and premium wakeboard ropes for smooth pulls, strong grip, and pro-level performance on every ride.
-  Updated: 2026-06-19T18:56:47Z
+  Updated: 2026-08-18T11:20:50Z
   Total Products: 13
 - [Wakeboards](https://www.stevestonmarine.com/collections/wakeboards): Shop boat wakeboards and wakeboard boats for  at Steveston Marine. Find top wake boats, premium wakeboards, and gear for smooth rides and ultimate water fun.
   Updated: 2026-06-19T18:56:47Z
   Total Products: 3
 - [Water Skis and WakeSkis](https://www.stevestonmarine.com/collections/water-skis-and-wakeskis): Shop wakeskis and the best wakeboard ropes for smooth rides, strong grip, and pro performance at Steveston Marine. Perfect for beginners and pros on the water.
-  Updated: 2026-06-19T18:56:47Z
+  Updated: 2026-08-10T11:18:50Z
   Total Products: 7
 - [Bimini Top Accessories](https://www.stevestonmarine.com/collections/bimini-top-accessories): Shop quality Seadog Bimini Strap and Taylor Bimini from Attwood, Epco, Perko at Steveston Marine. Durable marine hardware for secure Bimini tops.
-  Updated: 2026-08-03T02:55:13Z
+  Updated: 2026-08-11T16:51:16Z
   Total Products: 101
 - [Bimini Tops](https://www.stevestonmarine.com/collections/bimini-tops): Shop premium bimini tops for boats, including durable Attwood bimini tops at Steveston Marine.UV-resistant boat tops designed for comfort, protection, and easy installation.
   Updated: 2026-06-19T18:56:47Z
@@ -1929,19 +1929,19 @@
   Updated: 2026-06-19T18:56:47Z
   Total Products: 3
 - [Windshield Hardware](https://www.stevestonmarine.com/collections/windshield-hardware): Shop now marine windshield hardware & windows from Perko, Seadog, Camco, Starbrite, Taylor, TH Marine & Tear Aid fabric repair.
-  Updated: 2026-08-03T03:57:16Z
+  Updated: 2026-08-11T16:46:32Z
   Total Products: 32
 - [Batteries](https://www.stevestonmarine.com/collections/batteries): Shop Marine Battery and Boat Battery options at Steveston Marine. Find the best marine battery for reliable power, long life, and top performance.
   Updated: 2026-08-07T19:27:03Z
   Total Products: 65
 - [What is the best marine battery charger for your boat?](https://www.stevestonmarine.com/collections/battery-chargers): Shop 200+ marine battery chargers for boats & RVs. Victron, Xantrex, Promariner & more. 12V, 24V, multi-bank & waterproof options. Free shipping over $99 across Canada.
-  Updated: 2026-08-03T04:22:18Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 200
 - [Inverter](https://www.stevestonmarine.com/collections/inverter): Buy Online Boat Inverters Samlex, Victron, Xantrex & Newmar Energy batteries and battery isolators at Steveston Marine.
-  Updated: 2026-08-07T19:27:03Z
+  Updated: 2026-08-22T11:20:32Z
   Total Products: 156
 - [Isolators and Relays](https://www.stevestonmarine.com/collections/isolators-and-relays): Buy Online Blue Sea Systems relays, Cole Hersee isolators, Newmar integrators, ProMariner and SurePower battery isolators at Steveston Marine.
-  Updated: 2026-08-03T03:39:22Z
+  Updated: 2026-08-11T17:07:05Z
   Total Products: 58
 - [Battery Boxes and Trays](https://www.stevestonmarine.com/collections/battery-boxes-and-trays): Buy Online marine battery boxes from Attwood, Camco & Moeller at Steveston Marine. Durable, secure and corrosion-resistant marine battery box options.
   Updated: 2026-08-03T03:56:59Z
@@ -1959,64 +1959,64 @@
   Updated: 2026-06-19T18:56:48Z
   Total Products: 0
 - [Shore Power Adapters](https://www.stevestonmarine.com/collections/shore-power-adapters): Buy Online 50 amp and 30 amp shore power cords, Marinco shore power, and shore power adapters at Steveston Marine. Reliable power solutions for your boat.
-  Updated: 2026-08-03T03:38:51Z
+  Updated: 2026-08-16T11:20:29Z
   Total Products: 32
 - [Shorepower Accessories](https://www.stevestonmarine.com/collections/shorepower-accessories): Shop shore power accessories, dock power pedestal solutions, and durable shore power cords at Steveston Marine for safe, reliable dockside power.
   Updated: 2026-06-23T11:27:55Z
   Total Products: 3
 - [Marine Breaker Panels](https://www.stevestonmarine.com/collections/breaker-panels): Buy Online marine breaker panels and marine switch panels at Steveston Marine. Reliable boat electrical control panels built for safety, durability, and performance.
-  Updated: 2026-08-03T04:22:02Z
+  Updated: 2026-08-11T16:43:26Z
   Total Products: 250
 - [Ignition Kill Switches](https://www.stevestonmarine.com/collections/ignition-kill-switches): Shop boat Ignition and marine ignition kill switches for safety and engine protection. Reliable emergency stop switches at competitive prices.
   Updated: 2026-08-03T02:52:32Z
   Total Products: 17
 - [Push Button Switches](https://www.stevestonmarine.com/collections/push-button-switches): Buy Online boat push button switches, marine push button switches & Cole Hersee push button switches. Durable, waterproof & reliable for marine use.
-  Updated: 2026-08-03T02:46:50Z
+  Updated: 2026-08-12T11:21:34Z
   Total Products: 27
 - [Solar Panels](https://www.stevestonmarine.com/collections/solar-panels): Searching boat solar panels for Davis, Ganz, Lalizas, Xantrex Solar Panels at Steveston Marine. Reliable marine solar kits for charging batteries onboard.
   Updated: 2026-06-19T18:56:48Z
   Total Products: 8
 - [Battery Switches - Manual](https://www.stevestonmarine.com/collections/battery-switches-manual-1): Buy Online marine battery switches and boat battery switches for safe power control. Durable, reliable battery switches for all marine applications.
-  Updated: 2026-08-03T04:19:31Z
+  Updated: 2026-08-11T17:00:12Z
   Total Products: 36
 - [Circuit Breakers](https://www.stevestonmarine.com/collections/circuit-breakers-1): Shop Marine Circuit Breakers for Blue Sea, Ancor & Seachoice and breaker panels. Reliable boat circuit protection for safe, efficient onboard power systems.
-  Updated: 2026-08-03T04:13:30Z
+  Updated: 2026-08-11T17:01:39Z
   Total Products: 145
 - [Ignition Switches](https://www.stevestonmarine.com/collections/ignition-switches-1): Shop Online boat ignition switches and marine ignition switches at Steveston Marine. Reliable, durable replacements for outboards and inboards.
-  Updated: 2026-08-03T03:09:06Z
+  Updated: 2026-08-11T16:58:38Z
   Total Products: 33
 - [Push-Pull Switches](https://www.stevestonmarine.com/collections/push-pull-switches-1): Buy Online push switches, pull switches & push button light switches for boats. Durable, waterproof marine-grade switches. Fast shipping available.
-  Updated: 2026-08-03T02:41:57Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 22
 - [Rocker Switches](https://www.stevestonmarine.com/collections/rocker-switches): Shop Online marine rocker switches from Cole Hersee, SeaDog & Sierra. Durable boat switches for reliable marine electrical control. Fast shipping available.
-  Updated: 2026-08-03T02:45:18Z
+  Updated: 2026-08-11T17:04:08Z
   Total Products: 47
 - [Rotary Switches](https://www.stevestonmarine.com/collections/rotary-switches): Buy Online boat rotary switches from Sierra, Seadog & more. Durable marine rotary and rocker switches for reliable onboard electrical control.
-  Updated: 2026-08-03T03:32:46Z
+  Updated: 2026-08-11T16:58:50Z
   Total Products: 13
 - [Switch Panels](https://www.stevestonmarine.com/collections/switch-panels): Shop Boat Switch Panels and Marine Switch Panels & electrical panels at Steveston Marine. Durable, waterproof marine control panels for safe wiring.
-  Updated: 2026-08-03T03:55:37Z
+  Updated: 2026-08-11T16:54:28Z
   Total Products: 19
 - [Toggle Switches](https://www.stevestonmarine.com/collections/toggle-switches): Buy Online marine toggle switches & Cole Hersee boat toggle switches. Durable, waterproof & reliable electrical switches for marine applications.
-  Updated: 2026-08-03T03:08:08Z
+  Updated: 2026-08-11T16:58:14Z
   Total Products: 80
 - [Wire](https://www.stevestonmarine.com/collections/wire): Steveston Marine & Hardware has a large selection of Electrical Wires for all your electrical needs! We have wires from Ancor, Pacer Electronics, Sierra, and more. Shop in one of our stores located in Vancouver or Langley! You can contact us if you have any questions. Order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
-  Updated: 2026-08-03T11:21:24Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 46
 - [Cabin Lighting](https://www.stevestonmarine.com/collections/cabin-lighting): Buy your boat with premium marine cabin lighting. Shop marine LED cabin lights and boat interior lighting at Steveston Marine for durability and style.
-  Updated: 2026-08-03T04:06:58Z
+  Updated: 2026-08-11T16:53:24Z
   Total Products: 237
 - [Courtesy Lights](https://www.stevestonmarine.com/collections/courtesy-lights): Shop Online Attwood boat courtesy lights & marine LED courtesy lights at Steveston Marine. Durable, waterproof lighting for boats. Fast shipping Canada.
-  Updated: 2026-08-03T03:39:26Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 70
 - [Deck and Floodlights](https://www.stevestonmarine.com/collections/deck-and-floodlights): Buy Online Deck Flood Lights for boats. High-performance seadog led and boat flood lights built for durability and bright marine use.
-  Updated: 2026-08-03T03:53:48Z
+  Updated: 2026-08-11T16:53:13Z
   Total Products: 313
 - [Engine Room Lights](https://www.stevestonmarine.com/collections/engine-room-lights): Steveston Marine & Hardware has Engine Room Lights from Seamaster Lights! Shop in one of our stores located in Vancouver or Langley. Order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-06-19T18:56:49Z
   Total Products: 0
 - [Flashlights](https://www.stevestonmarine.com/collections/flashlights): Shop marine flashlights and waterproof boat torch lights at Steveston Marine. Reliable, high-brightness lighting and harsh marine conditions.
-  Updated: 2026-08-07T11:22:51Z
+  Updated: 2026-08-20T11:22:25Z
   Total Products: 29
 - [Handheld Spotlights and Accessories](https://www.stevestonmarine.com/collections/handheld-spotlights-and-accessories): Steveston Marine & Hardware has a large selection of Handheld Spotlights and Accessories available! We have a number of spotlights from brands like Mariner, Stevemar, SEADOG, and more. We have stores all across British Columbia. You can find these products in one of our stores located in Vancouver or Langley!
   Updated: 2026-08-03T03:26:52Z
@@ -2028,19 +2028,19 @@
   Updated: 2026-07-14T11:28:45Z
   Total Products: 46
 - [Light Bulbs](https://www.stevestonmarine.com/collections/light-bulbs): Shop Boat Light Bulbs and Marine Light bulbs from Ancor, Seachoice, Anderson & Attwood. Durable, reliable bulbs for navigation and interior use.
-  Updated: 2026-08-03T03:02:19Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 324
 - [Light Sockets](https://www.stevestonmarine.com/collections/light-sockets): Shop marine light sockets and boat navigation light socket, anchor light sockets from Attwood and Perko. Durable boat navigation light sockets at Steveston Marine.
   Updated: 2026-08-03T02:01:39Z
   Total Products: 11
 - [Boat Navigation Lights &amp; Marine Nav Lights](https://www.stevestonmarine.com/collections/navigation-lights): Shop boat navigation lights from Perko, Attwood, Hella & Seadog. LED & traditional nav lights for powerboats, sailboats & pontoons. Free shipping over $99 across Canada.
-  Updated: 2026-08-03T03:55:15Z
+  Updated: 2026-08-20T11:22:24Z
   Total Products: 297
 - [Pole Light Clips and Holders](https://www.stevestonmarine.com/collections/pole-light-clips-and-holders): Buy Boat Pole Light Holders, Attwood pole light storage clips and durable pole light holders. Secure your boat pole lights with quality clips at Steveston Marine.
   Updated: 2026-08-03T02:02:35Z
   Total Products: 7
 - [Remote Control Spotlights for Boats](https://www.stevestonmarine.com/collections/remote-control-spotlights): Buy high-quality remote control spotlights for boats at Steveston Marine. Powerful beam, wireless control, and durable marine-grade design.
-  Updated: 2026-08-03T04:23:55Z
+  Updated: 2026-08-11T11:36:05Z
   Total Products: 78
 - [Rope Lights](https://www.stevestonmarine.com/collections/rope-lights): Shop Ship Rope Lights, marine & boat rope lights. Waterproof, flexible LED lighting perfect for decks, cabins & navigation. Buy online today!
   Updated: 2026-06-19T18:56:50Z
@@ -2058,40 +2058,40 @@
   Updated: 2026-08-03T02:44:21Z
   Total Products: 18
 - [Battery Lugs](https://www.stevestonmarine.com/collections/battery-lugs): Buy Online durable marine battery lugs and battery cable lugs at Steveston Marine. Corrosion-resistant, secure fit, and built for reliable boat power connections.
-  Updated: 2026-08-03T03:20:00Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 90
 - [Cable Ties and Mounts](https://www.stevestonmarine.com/collections/cable-ties-and-mounts): Buy online Ancor Cable Ties and Perko cable ties, Raymarine & SEADOG cable ties at Steveston Marine. Durable marine-grade ties for secure.
-  Updated: 2026-08-03T03:50:49Z
+  Updated: 2026-08-11T16:43:29Z
   Total Products: 23
 - [Electrical Tape](https://www.stevestonmarine.com/collections/electrical-tape): Shop Online 3M electrical tape and 3M marine solutions for boats at steveston marine. Durable, waterproof, and reliable electrical tape for marine and outdoor use.
-  Updated: 2026-06-19T18:56:50Z
+  Updated: 2026-08-11T16:49:24Z
   Total Products: 5
 - [Fuse Blocks](https://www.stevestonmarine.com/collections/fuse-blocks): You Are Looking Blue Sea Systems, Victron, and Littelfuse marine fuse blocks, fuse holders, and mega fuses. Reliable power protection for every boat at Steveston Marine.
-  Updated: 2026-08-03T03:20:33Z
+  Updated: 2026-08-17T11:19:21Z
   Total Products: 69
 - [Fuses](https://www.stevestonmarine.com/collections/fuses): Buy Online marine fuse and boat fuse from Ancor, Cole Hersee, SEADOG, Sierra, Vetus, Victron & Sleipner. Reliable protection for marine electrical systems.
   Updated: 2026-08-07T19:40:20Z
   Total Products: 104
 - [Heat Shrink Tubing and Connectors](https://www.stevestonmarine.com/collections/heat-shrink-tubing-and-connectors): Buy Online marine heat shrink tubing, heat shrink connectors & Ancor heat shrink tubing. Waterproof, durable wiring protection at Steveston Marine.
-  Updated: 2026-08-03T02:47:13Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 71
 - [Split Loom and Spiral Wrap](https://www.stevestonmarine.com/collections/split-loom-and-spiral-wrap): Buy Online boat split loom and marine spiral wrap shields from Ancor, TH Marine & Techflex. Protect wiring with durable, flexible cable protection solutions.
-  Updated: 2026-08-03T02:50:40Z
+  Updated: 2026-08-11T16:59:44Z
   Total Products: 146
 - [Terminal Blocks and Bus Bars](https://www.stevestonmarine.com/collections/terminal-blocks-and-bus-bars): Shop marine terminal blocks and marine bus bars for safe, reliable boat wiring. Corrosion-resistant power distribution solutions at Steveston Marine.
-  Updated: 2026-08-03T03:51:58Z
+  Updated: 2026-08-11T16:56:28Z
   Total Products: 76
 - [Wire Connectors and Disconnects](https://www.stevestonmarine.com/collections/wire-connectors-and-disconnects): Buy marine wire connectors and boat wire disconnects at Steveston Marine. Durable, corrosion-resistant electrical fittings for reliable wiring.
-  Updated: 2026-08-03T04:20:13Z
+  Updated: 2026-08-11T16:59:39Z
   Total Products: 1581
 - [Wire Strippers, Crimpers and Misc Wire and Cable Tools](https://www.stevestonmarine.com/collections/wire-strippers-crimpers-and-misc-wire-and-cable-tools): Buy Online wire strippers, electric wire strippers, cable strippers & automatic wire stripper tools. Precise cutting & stripping for marine & electrical jobs.
-  Updated: 2026-08-03T03:58:37Z
+  Updated: 2026-08-11T16:50:01Z
   Total Products: 43
 - [Boat Hook and Paddle Holders](https://www.stevestonmarine.com/collections/boat-hook-and-paddle-holders): We have Boat Hooks and Paddle Holders of different sizes from Seachoice, SEADOG, Th Marine, and more! Order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-08-03T02:42:17Z
   Total Products: 3
 - [Boat Hooks](https://www.stevestonmarine.com/collections/boat-hooks): Shop marine boat hooks at Steveston Marine — SEADOG aluminum hooks, Davis adjustable poles and Shurhold extending handles. Free shipping over $120 in Canada.
-  Updated: 2026-08-08T11:20:58Z
+  Updated: 2026-08-11T16:55:43Z
   Total Products: 48
 - [Electric Horns](https://www.stevestonmarine.com/collections/electric-horns): Steveston Marine & Hardware has Electric Horns ready for you! We have horns from Victory, SEADOG, AFI, and more. Shop in one of our stores located in Vancouver ! Or order online and receive FREE SHIPPING on orders over $120! (Some exceptions may apply)
   Updated: 2026-08-03T03:51:17Z
@@ -2103,22 +2103,22 @@
   Updated: 2026-07-13T11:20:00Z
   Total Products: 8
 - [Flares](https://www.stevestonmarine.com/collections/flares): Buy marine flares and boat flares for  at Steveston Marine. Transport Canada  safety flares with fast shipping across Canada.
-  Updated: 2026-08-05T11:21:08Z
+  Updated: 2026-08-19T11:21:01Z
   Total Products: 19
 - [Hand Held Air Signal Horns](https://www.stevestonmarine.com/collections/hand-held-air-signal-horns): Buy Online Attwood bellow air horns and Lalizas Signal Horn at Steveston Marine. Reliable, manual marine signal horn for boats. Durable, loud, and safety compliant.
   Updated: 2026-06-29T11:20:56Z
   Total Products: 10
 - [Horseshoe Buoys and Ring Buoys](https://www.stevestonmarine.com/collections/horseshoe-buoys-and-ring-buoys): Steveston Marine & Hardware has a huge selection of Horseshoe Buoys and Ring Buoys to keep you prepared in case of emergencies. We carry ring buoys from trusted brands like Dock Edge and Taylor, as well as hooks from Seachoice and Garelick. Order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply.)
-  Updated: 2026-08-07T11:22:51Z
+  Updated: 2026-08-19T11:21:00Z
   Total Products: 58
 - [Radar Reflectors](https://www.stevestonmarine.com/collections/radar-reflectors): Steveston Marine & Hardware has an assortment of Radar Reflectors ready for you! We have radar reflectors from Victory, Davis, Echomax, Mobri, and more. Order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-08-03T02:50:41Z
   Total Products: 10
 - [Throw Bags/Safety Kits](https://www.stevestonmarine.com/collections/throw-bags-safety-kits): Steveston Marine & Hardware has Throw Bags and Safety Kits ready to make sure you stay safe out on the water. We have inflation rings from Victory, throwing lines from Kwik Tek, fill plugs from SEADOG, and more. Shop in one of our stores located in Vancouver or Langley! Or order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
-  Updated: 2026-08-03T03:57:24Z
+  Updated: 2026-08-16T11:20:29Z
   Total Products: 22
 - [Whistles](https://www.stevestonmarine.com/collections/whistles): Steveston Marine & Hardware has a large assortment of Whistles to help keep everyone around you alert at all times. We have whistles from Scotty, safety whistles from Seachoice, life jacket whistles from SEADOG, and many more!
-  Updated: 2026-08-03T03:18:40Z
+  Updated: 2026-08-11T16:42:03Z
   Total Products: 39
 - [Marine Atlas](https://www.stevestonmarine.com/collections/marine-atlas): Discover a range of nautical charts and marine atlas navigation guides at Steveston Marine. We provide top-notch boating references.
   Updated: 2026-06-19T18:56:51Z
@@ -2127,7 +2127,7 @@
   Updated: 2026-06-19T18:56:51Z
   Total Products: 4
 - [Paper Charts](https://www.stevestonmarine.com/collections/paper-charts): Steveston Marine & Hardware has Paper Charts available for ! We have a variety of charts from Canadian Hydro Graphics. Contact us if you have any questions about paper charts.
-  Updated: 2026-08-04T11:21:11Z
+  Updated: 2026-08-22T19:49:47Z
   Total Products: 159
 - [WaterProof Charts](https://www.stevestonmarine.com/collections/waterproof-charts): Steveston Marine & Hardware has Water Proof Charts from Canadian Hydrographic Services available for you! We have a large selection of charts from various locations for you! You can find these products in one of our stores located in Vancouver, Richmond, or Langley!
   Updated: 2026-06-19T18:56:52Z
@@ -2139,8 +2139,8 @@
   Updated: 2026-06-19T18:56:52Z
   Total Products: 5
 - [Rainwear and Foul Weather Gear](https://www.stevestonmarine.com/collections/rainwear-and-foul-weather-gear): Professional waterproof rainwear and foul weather gear available at Steveston Marine & Hardware. Quality protection for Canadian boaters and fishermen.
-  Updated: 2026-06-19T18:56:52Z
-  Total Products: 1
+  Updated: 2026-08-14T04:18:36Z
+  Total Products: 0
 - [Sunglasses](https://www.stevestonmarine.com/collections/sunglasses): Polarized fishing sunglasses at Steveston Marine. Quality marine eyewear. UV protection glasses. Shop brands. Fast shipping Canada wide. Order now.
   Updated: 2026-06-19T18:56:52Z
   Total Products: 0
@@ -2157,7 +2157,7 @@
   Updated: 2026-06-19T18:56:52Z
   Total Products: 0
 - [Life Vests-Inflatables](https://www.stevestonmarine.com/collections/life-vests-inflatables): Discover premium life vests and inflatable safety gear at Steveston Marine. Our products are Coast Guard-. Shop for high-quality marine safety today!
-  Updated: 2026-08-03T02:44:40Z
+  Updated: 2026-08-11T16:42:26Z
   Total Products: 10
 - [Neoprene Ski Vests](https://www.stevestonmarine.com/collections/neoprene-ski-vests): Neoprene ski vests for water sports from Steveston Marine & Hardware. Quality personal flotation devices for boating and water activities in Canada.
   Updated: 2026-06-19T18:56:52Z
@@ -2172,40 +2172,40 @@
   Updated: 2026-06-19T18:56:52Z
   Total Products: 3
 - [Rope Clutches](https://www.stevestonmarine.com/collections/rope-clutches): Buy online premium rope clutches from Spinlock, Barton & Lewmar at Steveston Marine. Durable, reliable sailing gear—order online today!
-  Updated: 2026-08-03T04:20:27Z
+  Updated: 2026-08-18T11:20:50Z
   Total Products: 136
 - [Sailboat Blocks](https://www.stevestonmarine.com/collections/sailboat-blocks): Shop Online sailboat blocks & Harken sailing blocks at Steveston Marine. Shop durable, high-performance blocks for smooth sailing. Order now online!
-  Updated: 2026-08-09T11:20:23Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 220
 - [Sailboat Hardware](https://www.stevestonmarine.com/collections/sailboat-hardware): Buy Online sailboat hardware and Harken sailboat hardware at Steveston Marine. Shop high-quality marine parts, fast shipping & great prices today
-  Updated: 2026-08-03T04:23:54Z
+  Updated: 2026-08-11T17:06:29Z
   Total Products: 407
 - [Sailboat Steering Parts](https://www.stevestonmarine.com/collections/sailboat-steering-parts): Buy Online sailboat steering wheels, autopilot wheel systems & Edson pedestals at Steveston Marine. Buy premium boat steering wheels online today.
-  Updated: 2026-08-03T03:58:06Z
+  Updated: 2026-08-11T16:50:03Z
   Total Products: 90
 - [Sailing Rope](https://www.stevestonmarine.com/collections/sailing-rope): Buy Online sailing rope for  at Steveston Marine. Buy premium sailboat halyards and sheets with top performance, durability, and fast shipping in Canada.
-  Updated: 2026-08-09T11:20:23Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 39
 - [Rigging Knives and Marlin Spikes](https://www.stevestonmarine.com/collections/rigging-knives-and-marlin-spikes): Shop Online rigging knives & marlin spikes at Steveston Marine. Durable, reliable tools for boating—shop now for top marine gear.
-  Updated: 2026-07-29T11:24:54Z
+  Updated: 2026-08-22T11:20:32Z
   Total Products: 30
 - [Rope Splicing Tools](https://www.stevestonmarine.com/collections/rope-splicing-tools): Shop Online rope splicing tools and kits at Steveston Marine. Buy high-quality gear for strong, secure rope work—perfect for marine and boating needs.
   Updated: 2026-06-19T18:56:53Z
   Total Products: 2
 - [Clevis, Cotter and Quick Release Pins](https://www.stevestonmarine.com/collections/clevis-cotter-and-quick-release-pins): Shop Marine & Boat Pins, clevis pins, cotter pins, quick release pins, Aerofast pins at Steveston Marine. Buy high-quality marine pins online today.
-  Updated: 2026-08-03T02:15:37Z
+  Updated: 2026-08-11T16:40:45Z
   Total Products: 121
 - [Track and Car Hardware](https://www.stevestonmarine.com/collections/track-and-car-hardware): Shop Now premium car hardware and track systems at Steveston Marine. Shop durable, marine-grade solutions designed for performance and reliability.
-  Updated: 2026-06-19T18:56:53Z
+  Updated: 2026-08-12T11:21:34Z
   Total Products: 299
 - [Sail Track Stops](https://www.stevestonmarine.com/collections/sail-track-stops): Shop Online sail track stops and sail track online at Steveston Marine. Shop high-quality marine hardware for smooth sailing. Order now with fast shipping!
   Updated: 2026-06-25T11:22:46Z
   Total Products: 3
 - [Turnbuckles and Boots](https://www.stevestonmarine.com/collections/turnbuckles-and-boots): Shop Online heavy duty turnbuckles and stainless steel turnbuckles at Steveston Marine. Built for strength and durability. Buy now for secure marine rigging solutions.
-  Updated: 2026-08-07T11:22:51Z
+  Updated: 2026-08-22T11:20:32Z
   Total Products: 1345
 - [Anodes](https://www.stevestonmarine.com/collections/anodes): Find reliable Anodes marine equipment, parts, and accessories at Steveston Marine. We offer trusted products, fast Canadian shipping, and support for boat owners looking for dependable Anodes solutions. Browse our selection for quality gear built for the water.
-  Updated: 2026-08-05T23:29:45Z
+  Updated: 2026-08-20T23:27:58Z
   Total Products: 748
 - [Adhesive Cleaner and Remover](https://www.stevestonmarine.com/collections/adhesive-cleaner-and-remover): Easily remove sticky residue, glue, and sealants with our Adhesive Cleaners and Removers. Perfect for boat maintenance and surface prep.
   Updated: 2026-06-19T18:56:53Z
@@ -2223,16 +2223,16 @@
   Updated: 2026-07-24T04:18:52Z
   Total Products: 5
 - [Canvas and Fabric Cleaners and Waterproofing](https://www.stevestonmarine.com/collections/canvas-and-fabric-cleaners-and-waterproofing): Steveston Marine & Hardware has Canvas, Fabric Cleaners, and Waterproofing products for you! We carry items from 3M Marine, Captain Phab, STARBRITE, and more! You can find these products in one of our stores located in Vancouver!
-  Updated: 2026-08-03T03:26:28Z
+  Updated: 2026-08-12T11:21:34Z
   Total Products: 16
 - [Carpet, Vinyl and Upholstery Products](https://www.stevestonmarine.com/collections/carpet-vinyl-and-upholstery-products): Premium boat interior carpeting, vinyl, and upholstery products available at Steveston Marine & Hardware. Quality materials for Canadian marine vessels.
-  Updated: 2026-08-03T03:06:50Z
+  Updated: 2026-08-15T11:28:34Z
   Total Products: 13
 - [Deck and Hull Cleaners](https://www.stevestonmarine.com/collections/deck-and-hull-cleaners): Steveston Marine & Hardware has a huge selection of Deck and Hull Cleaners for you to choose from! We carry products from Captain Phab, SEADOG, STARBRITE, and more! You can find these products in one of our stores located in Vancouver !
-  Updated: 2026-08-03T02:35:35Z
+  Updated: 2026-08-16T11:20:29Z
   Total Products: 29
 - [Fiberglass and General Purpose Cleaners](https://www.stevestonmarine.com/collections/fiberglass-and-general-purpose-cleaners): Steveston Marine & Hardware has Fiberglass and General Purpose Cleaners for you to choose from! We have products from Boatlife, Davis, STARBRITE, and more. You can find these products in one of our stores located in Vancouver or Langley!
-  Updated: 2026-07-24T04:18:54Z
+  Updated: 2026-08-13T11:22:54Z
   Total Products: 47
 - [Fiberglass Color Restorers](https://www.stevestonmarine.com/collections/fiberglass-color-restorers): Steveston Marine & Hardware has a selection of Fiberglass Color Restorers for you! Bring back the shine and brilliance of your boat’s fiberglass surfaces with high-quality products from 3M Marine and STARBRITE. These restorers are specially formulated to remove oxidation, chalking, and fading while restoring your vessel’s original color and gloss. Perfect for both professional and DIY use, they provide long-lasting protection against UV rays and harsh marine environments. Visit our stores in Vancouver or Langley to explore our full range of fiberglass care products, or shop online for easy ordering and fast delivery.
   Updated: 2026-06-19T18:56:54Z
@@ -2253,7 +2253,7 @@
   Updated: 2026-06-19T18:56:54Z
   Total Products: 5
 - [Mops, Deck Brushes, Squeegees and Handles](https://www.stevestonmarine.com/collections/mops-deck-brushes-squeegees-and-handles): Steveston Marine & Hardware has a large selection of Mops, Deck Brushes, Squeegees, and Handles for you to choose from! Make sure you always have one of these items on hand to keep your boat clean. We have products from Camco, Shurhold, Attwood, and many more. You can find these products in one of our stores located in Vancouver!
-  Updated: 2026-08-09T11:20:23Z
+  Updated: 2026-08-11T16:56:15Z
   Total Products: 121
 - [One Step Cleaner/Waxes](https://www.stevestonmarine.com/collections/one-step-cleaner-waxes): Steveston Marine & Hardware has a variety of One Step Cleaners/Waxes for you to choose from! We carry top-quality products from trusted brands like 3M Marine, Osborne, and STARBRITE. These all-in-one solutions clean, polish, and protect your boat’s surface, restoring shine while removing oxidation and stains. Visit our stores in Vancouver or Langley, or shop online to keep your vessel looking its best with professional-grade marine care products.
   Updated: 2026-06-19T18:56:54Z
@@ -2265,10 +2265,10 @@
   Updated: 2026-08-03T02:25:26Z
   Total Products: 13
 - [Salt Removers and Protectors](https://www.stevestonmarine.com/collections/salt-removers-and-protectors): Steveston Marine & Hardware has a selection of Salt Removers and Protectors you can choose from! We have products from STARBRITE and Salt-Away. We have shops all across British Columbia where you can shop from. Visit one of our stores located in Vancouver or Langley!
-  Updated: 2026-06-19T18:56:54Z
+  Updated: 2026-08-13T16:50:35Z
   Total Products: 9
 - [Specialty Cleaners](https://www.stevestonmarine.com/collections/specialty-cleaners): Steveston Marine & Hardware has a large selection of Specialty Cleaners for you to choose from! We have a variety of products from Captain Phab, STARBRITE, Meguiars, and many more. Shop in one of our stores located in Vancouver or Langley! You can contact us if you have any questions. Order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
-  Updated: 2026-08-07T19:44:48Z
+  Updated: 2026-08-11T16:58:42Z
   Total Products: 64
 - [Teak Products](https://www.stevestonmarine.com/collections/teak-products): Steveston Marine & Hardware has a large selection of Teak Products for you! We have a wide variety of products from Boatlife, Semco, STARBRITE, and many more. You can find these products in one of our stores located in Vancouver or Langley!
   Updated: 2026-08-09T11:20:23Z
@@ -2277,17 +2277,17 @@
   Updated: 2026-08-03T04:02:07Z
   Total Products: 42
 - [Epoxy Putties and Putty](https://www.stevestonmarine.com/collections/epoxy-putties-and-putty): Steveston Marine & Hardware has a selection of Epoxy Putties for you to choose from! We have putties from Boatlife, Travaco, STARBRITE, and many more. We have shops all across British Columbia where you can shop from. You can find these products in one of our stores located in Vancouver or Langley!
-  Updated: 2026-08-03T02:04:25Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 22
 - [Epoxy Resin](https://www.stevestonmarine.com/collections/epoxy-resin): Steveston Marine & Hardware has a large selection of Epoxy Resin for you! We have a variety of products from Epifanes, Interlux, System Three, and many more. Shop in one of our stores located in Vancouver or Langley! Order online and receive FREE SHIPPING on orders over $120! (Some exceptions may apply)
-  Updated: 2026-08-07T11:22:51Z
-  Total Products: 166
+  Updated: 2026-08-23T04:52:19Z
+  Total Products: 158
 - [Fillers](https://www.stevestonmarine.com/collections/fillers): Shop marine body fillers and epoxy fillers at Steveston Marine. 3M Marine premium and lightweight fillers, Interlux Watertite and West System graphite powder. Ships Canada-wide.
   Updated: 2026-07-16T11:24:45Z
   Total Products: 7
 - [Gel-Coat and Fiberglass Compounds](https://www.stevestonmarine.com/collections/gel-coat-and-fiberglass-compounds): Steveston Marine & Hardware has a large selection of Gel-Coat and Fiberglass Compounds for you! We have products from 3M Marine, STARBRITE, Yacht Brite, and more. You can find these products in one of our stores located in Vancouver or Langley!
-  Updated: 2026-07-26T11:22:32Z
-  Total Products: 78
+  Updated: 2026-08-18T11:20:50Z
+  Total Products: 71
 - [Penetrating and Sealing Epoxies](https://www.stevestonmarine.com/collections/penetrating-and-sealing-epoxies): Steveston Marine & Hardware has Penetrating and Sealing Epoxies from Boatlife and System Three! These products offer a reliable, long-lasting sealing solution for marine applications. Shop in one of our stores located in Vancouver or Langley.
   Updated: 2026-06-19T18:56:55Z
   Total Products: 1
@@ -2295,22 +2295,22 @@
   Updated: 2026-06-19T18:56:55Z
   Total Products: 5
 - [West System Products](https://www.stevestonmarine.com/collections/west-system-products): Steveston Marine & Hardware has a huge selection of items from West System! We have brushes, mixing pots, fabrics, rollers, and many more. Shop in one of our stores located in Vancouver or Langley! Or order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
-  Updated: 2026-08-03T03:32:38Z
+  Updated: 2026-08-22T11:20:32Z
   Total Products: 60
 - [Boat Stands](https://www.stevestonmarine.com/collections/boat-stands): Shop new and used boat stands in Canada at Steveston Marine. Find Brownell boat stands and boat jack stands for  with expert support.
-  Updated: 2026-08-03T04:24:03Z
+  Updated: 2026-08-11T17:07:40Z
   Total Products: 110
 - [Boat Striping Tape](https://www.stevestonmarine.com/collections/boat-striping-tape): Steveston Marine & Hardware has a large selection of Boat Striping Tape for you. We have tape from 3M Marine and Incom. We have stores in Vancouver and Langley! Shop online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-06-19T18:56:55Z
   Total Products: 27
 - [Buckets](https://www.stevestonmarine.com/collections/buckets): Shop marine buckets and deck pails at Steveston Marine — collapsible, galvanized and fabric options from Camco, Shurhold and more. Ships Canada-wide. Free shipping over $120.
-  Updated: 2026-07-01T18:02:42Z
+  Updated: 2026-08-11T16:49:20Z
   Total Products: 7
 - [Buffers and Polishers](https://www.stevestonmarine.com/collections/buffers-and-polishers): Steveston Marine & Hardware has Buffers and Polishers for you! We carry buffers and polishers from top brands like 3M Marine, Shurhold, and Meguiars. Visit our stores in Vancouver and Langley! Shop online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-06-19T18:56:55Z
   Total Products: 35
 - [Caulking and Sealants](https://www.stevestonmarine.com/collections/caulking-and-sealants): Steveston Marine & Hardware has a large selection of Caulking and Sealants for you! We carry great options from brands like 3M Marine, Boatlife, Sikaflex, and many more. You can find these products in one of our stores located in Vancouver or Langley!
-  Updated: 2026-08-09T11:20:23Z
+  Updated: 2026-08-22T11:20:32Z
   Total Products: 98
 - [Caulking  and Tools](https://www.stevestonmarine.com/collections/caulking--and-tools): Steveston Marine & Hardware has a large selection of Caulking  and Tools for you! These products make it easy to apply caulking and sealants. We have many options from brands like Boatline, 3M Marine, STARBRITE, and more. You can find these products in one of our stores located in Vancouver or Langley!
   Updated: 2026-08-03T02:19:21Z
@@ -2328,25 +2328,25 @@
   Updated: 2026-08-09T11:20:23Z
   Total Products: 18
 - [Fishing Lures](https://www.stevestonmarine.com/collections/fishing-lures): Shop Online premium fishing lures including Gibb Fishing Lures and Gibbs Delta Lures. Durable, high-performance options for successful fishing trips.
-  Updated: 2026-08-06T11:21:02Z
-  Total Products: 50
+  Updated: 2026-08-23T11:20:04Z
+  Total Products: 87
 - [Fishing Reels](https://www.stevestonmarine.com/collections/fishing-reels): Shop Online premium fishing reels at Steveston Marine. Explore Daiwa, Penn & Fenwick Fishing reels built for performance, durability, and smooth casting.
-  Updated: 2026-08-03T11:21:24Z
+  Updated: 2026-08-22T11:20:32Z
   Total Products: 33
 - [Fishing Tools](https://www.stevestonmarine.com/collections/fishing-tools): Shop Big Chief smokers, commercial fishing supplies, and marine gear at Steveston Marine. Trusted Vancouver fishing store serving professionals and anglers.
-  Updated: 2026-08-03T02:11:04Z
+  Updated: 2026-08-11T16:53:00Z
   Total Products: 23
 - [ Deals - Limited Quantities Available](https://www.stevestonmarine.com/collections/): Check back often for great deals on Marine Electronics, Marine Hardware, Fishing Gear, and many other boating gadgets. These items are limited in stock, so act fast! Steveston Marine & Hardware has the best boating deals in Canada! You can find these products in one of our stores located in Vancouver !
-  Updated: 2026-08-03T11:21:24Z
-  Total Products: 56
+  Updated: 2026-08-23T11:20:04Z
+  Total Products: 60
 - [AIS Receivers and Transponders](https://www.stevestonmarine.com/collections/ais-receivers-and-transponders): Buy Online AIS receivers, marine AIS transponders & Raymarine AIS transceivers for safer navigation. Improve vessel tracking & collision avoidance today.
-  Updated: 2026-08-05T11:21:08Z
+  Updated: 2026-08-18T11:20:50Z
   Total Products: 15
 - [AM/FM Stereo Antennas](https://www.stevestonmarine.com/collections/am-fm-stereo-antennas): Shop Online boat antennas including Shakespeare boat antennas, VHF radio antennas, marine band and stereo antennas for clear, reliable communication on water.
   Updated: 2026-08-03T03:35:46Z
   Total Products: 2
 - [Antenna Mounts](https://www.stevestonmarine.com/collections/antenna-mounts): Shop Online boat antenna mounts from SEADOG, Raymarine, Ancor & Lalizas. Durable marine antenna mounts built for secure, reliable onboard performance.
-  Updated: 2026-08-03T03:30:18Z
+  Updated: 2026-08-11T17:08:14Z
   Total Products: 50
 - [Cable Covers, Outlets and Thru-Deck Fittings](https://www.stevestonmarine.com/collections/cable-covers-outlets-and-thru-deck-fittings): Buy Online Blue Sea Systems CableClam boat cable covers and marine deck fittings. Waterproof boat power cord covers for secure, clean deck installations.
   Updated: 2026-08-03T01:54:07Z
@@ -2355,58 +2355,58 @@
   Updated: 2026-08-03T03:13:22Z
   Total Products: 1
 - [Boat Autopilots & Marine Autopilot Systems](https://www.stevestonmarine.com/collections/autopilots): Shop boat autopilots & marine autopilot systems from Garmin, Raymarine & Simrad. Hydraulic & mechanical options for powerboats, sailboats & outboards. NMEA 2000 ready. Free shipping over $99 Canada.
-  Updated: 2026-08-08T11:20:58Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 158
 - [VHF Antennas](https://www.stevestonmarine.com/collections/vhf-antennas): Buy Online VHF antennas, boat VHF antennas & marine VHF antennas at Steveston Marine. Reliable range, durable build & fast Canadian shipping.
-  Updated: 2026-08-03T04:14:46Z
+  Updated: 2026-08-11T17:06:11Z
   Total Products: 29
 - [Electronic Charts](https://www.stevestonmarine.com/collections/electronic-charts): Buy Online marine chart plotters, Raymarine & Garmin units plus Navionics electronic charts. Reliable boat navigation systems at great prices.
-  Updated: 2026-08-06T11:21:02Z
+  Updated: 2026-08-20T11:22:25Z
   Total Products: 32
 - [EPIRB and PLB Devices](https://www.stevestonmarine.com/collections/epirb-and-plb-devices): Shop Online or Offline ACR Electronics PLB and EPIRB devices for marine safety. Reliable emergency beacons with GPS for boats and offshore protection in Canada.
-  Updated: 2026-08-05T11:21:08Z
+  Updated: 2026-08-18T11:20:50Z
   Total Products: 21
 - [Cables and Replacement Parts](https://www.stevestonmarine.com/collections/cables-and-replacement-parts): Buy Online boat replacement parts at Steveston Marine. Find Garmin cables parts, Lowrance cables parts & Humminbird cables parts with fast shipping.
-  Updated: 2026-08-03T04:17:32Z
+  Updated: 2026-08-22T21:08:13Z
   Total Products: 256
 - [Radar and Electronics Mounts](https://www.stevestonmarine.com/collections/radar-and-electronics-mounts): Shop boat radar and marine electronics mounts at Steveston Marine. Durable, secure mounting solutions for GPS, chartplotters & displays.
-  Updated: 2026-08-03T04:20:32Z
+  Updated: 2026-08-11T17:05:44Z
   Total Products: 41
 - [Remote Sounder Modules](https://www.stevestonmarine.com/collections/remote-sounder-modules): Buy Online remote sounder modules for boats at Steveston Marine. Reliable marine remote sounder modules for accurate sonar performance and easy integration.
-  Updated: 2026-08-03T04:20:45Z
+  Updated: 2026-08-11T17:06:53Z
   Total Products: 11
 - [Standard Horizon Accessories](https://www.stevestonmarine.com/collections/standard-horizon-accessories): Shop Horizon Accessories and Standard Horizon accessories including microphones, mounts, batteries & more. Genuine marine parts for reliable VHF performance.
-  Updated: 2026-06-19T18:56:56Z
+  Updated: 2026-08-11T11:20:18Z
   Total Products: 7
 - [Transducers and Mounts](https://www.stevestonmarine.com/collections/transducers-and-mounts): Shop online boat transducers and marine mounts for reliable sonar performance. Durable, easy-install solutions for every boating setup at Steveston Marine.
-  Updated: 2026-08-05T11:21:08Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 341
 - [Fishfinders](https://www.stevestonmarine.com/collections/fishfinders): Looking for the ultimate fishing system? Steveston Marine & Hardware has a great selection of digital depth sounders and fish finders to suit every angler’s needs. If you just want to know the depth, we carry reliable basic models. But if you’re ready to take your fishing game to the next level, explore our advanced options from trusted brands like Lowrance, Humminbird, Raymarine, and Garmin. Our selection includes the latest technology such as CHIRP, Side Imaging, Down Imaging, Forward Scan, and Downscan — everything you need for the ultimate fishing experience. Did you know you can even control your Cannon downriggers directly from your fish finder? Discover all the possibilities at Steveston Marine & Hardware.
-  Updated: 2026-08-03T04:21:35Z
+  Updated: 2026-08-16T11:20:29Z
   Total Products: 27
 - [GPS Chartplotters and Fishfinder Combo MFD](https://www.stevestonmarine.com/collections/gps-chartplotters-and-fishfinder-combo-mfd): Shop 220+ marine GPS chartplotters & fishfinder combos from Garmin, Raymarine, Simrad, Lowrance & Humminbird. 5" to 12" MFD displays. NMEA 2000 ready. Free shipping over $99 across Canada.
-  Updated: 2026-08-03T04:23:49Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 194
 - [Handheld GPS](https://www.stevestonmarine.com/collections/handheld-gps): Buy Online boat handheld GPS and marine handheld GPS units including Garmin handheld GPS. Reliable navigation, waterproof design fast satellite lock and great prices.
-  Updated: 2026-08-03T04:23:20Z
-  Total Products: 20
+  Updated: 2026-08-18T02:30:09Z
+  Total Products: 18
 - [In-Dash Digital Depth Sounders](https://www.stevestonmarine.com/collections/in-dash-digital-depth-sounders): Shop boat sounders and marine digital depth sounders at Steveston Marine. Accurate depth reading, reliable performance, and top brands.
   Updated: 2026-07-05T11:18:32Z
   Total Products: 14
 - [Instrument Displays](https://www.stevestonmarine.com/collections/instrument-displays): Shop high-quality boat instrument and marine instrument displays for accurate navigation and performance monitoring. Durable, reliable and ready for any vessel.
-  Updated: 2026-08-05T11:21:08Z
+  Updated: 2026-08-11T17:08:08Z
   Total Products: 90
 - [NMEA Network](https://www.stevestonmarine.com/collections/nmea-network): Shop Garmin, Maretron & Ancor NMEA network cables, connectors and marine networking systems for reliable onboard data communication and integration.
-  Updated: 2026-08-05T11:21:08Z
-  Total Products: 162
+  Updated: 2026-08-13T11:22:54Z
+  Total Products: 163
 - [Radar](https://www.stevestonmarine.com/collections/radar): Buy Online boat radar systems including Raymarine Quantum radar and Garmin marine radar. Reliable navigation, clear target tracking & safety at sea.
-  Updated: 2026-08-03T04:24:09Z
+  Updated: 2026-08-18T11:20:50Z
   Total Products: 76
 - [Sirius/XM Satellite Antennas](https://www.stevestonmarine.com/collections/sirius-xm-satellite-antennas): Shop online marine satellite antennas & SiriusXM boat antennas. Reliable offshore signal, weather & entertainment solutions at Steveston Marine.
-  Updated: 2026-06-19T18:56:57Z
+  Updated: 2026-08-11T17:01:10Z
   Total Products: 1
 - [Stereos and Speakers](https://www.stevestonmarine.com/collections/stereos-and-speakers): Buy Online Fusion stereos, Fusion speakers, Garmin speakers, Boss speakers and Dual stereos. Premium marine audio systems for boats at great prices.
-  Updated: 2026-08-03T04:10:01Z
+  Updated: 2026-08-12T11:21:34Z
   Total Products: 16
 - [TV Antennas](https://www.stevestonmarine.com/collections/tv-antennas): Shop for TV antennas for boats, including Raymarine TV antennas. Enjoy clear marine TV reception with premium boat TV antennas at Steveston Marine.
   Updated: 2026-08-03T04:09:57Z
@@ -2418,67 +2418,67 @@
   Updated: 2026-06-19T18:56:57Z
   Total Products: 5
 - [VHF Radios - Fixed Mount](https://www.stevestonmarine.com/collections/vhf-radios-fixed-mount): Buy Marine VHF Radios and Boat VHF Radios for clear, reliable communication on the water. Fixed and handheld VHF radios at great prices. Buy online today.
-  Updated: 2026-08-06T11:21:02Z
+  Updated: 2026-08-18T11:20:50Z
   Total Products: 50
 - [VHF Radios - Handheld](https://www.stevestonmarine.com/collections/vhf-radios-handheld): Shop online VHF radios handheld and handheld marine radio for boating safety. Waterproof, floating & reliable models at Steveston Marine.
-  Updated: 2026-08-08T11:20:58Z
+  Updated: 2026-08-22T11:20:32Z
   Total Products: 13
 - [Wifi Products](https://www.stevestonmarine.com/collections/wifi-products): Buy Online marine WiFi booster, marine WiFi router & best marine WiFi antenna. Improve boat internet range and signal strength with reliable marine internet boosters.
   Updated: 2026-06-19T18:56:57Z
   Total Products: 1
 - [Alternators](https://www.stevestonmarine.com/collections/alternators): Shop high-quality boat alternators from Balmar, Sierra, and Arco at stevestonmarine. Reliable marine charging solutions for boats with durable performance and fast shipping.
-  Updated: 2026-08-03T04:18:07Z
+  Updated: 2026-08-11T17:08:04Z
   Total Products: 26
 - [Electronic Ignition Conversion Kits](https://www.stevestonmarine.com/collections/electronic-ignition-conversion-kits): Steveston Marine & Hardware has a selection of Electronic Ignition Conversion Kits from Sierra for you! These high-quality kits are designed to replace traditional points and condensers with a reliable electronic ignition system, improving starting performance and fuel efficiency. Ideal for upgrading your marine engine, they ensure smoother operation, reduced maintenance, and long-lasting dependability. Visit our stores in Vancouver or Langley, or shop online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-08-03T04:13:47Z
   Total Products: 4
 - [Generator Spare Parts](https://www.stevestonmarine.com/collections/generator-spare-parts): Steveston Marine & Hardware has a selection of Generator Spare Parts from Sierra for you! We have alternator belts, air filters, carburetor kits, distributor caps, and many more. You can find these products in one of our stores located in Vancouver or Langley!
-  Updated: 2026-08-03T03:05:58Z
+  Updated: 2026-08-11T16:49:25Z
   Total Products: 61
 - [Hourmeters](https://www.stevestonmarine.com/collections/hourmeters): Shop marine hour meters from Faria and Sierra at Steveston Marine. Digital and analog options for 12-32V systems. Chesapeake and Euro series in stock. Ships Canada-wide.
   Updated: 2026-08-03T03:07:14Z
   Total Products: 7
 - [Ignition Repair Parts](https://www.stevestonmarine.com/collections/ignition-repair-parts): Check ignition coil replacement cost, ignition switch replacement near you, ignition replacement cost, and lock cylinder replacement at Steveston Marine.
-  Updated: 2026-08-08T11:20:58Z
+  Updated: 2026-08-11T17:08:19Z
   Total Products: 102
 - [Ignition/Repair Tools](https://www.stevestonmarine.com/collections/ignition-repair-tools): Shop CDI Elec Ignition Repair Tools and Sierra ignition repair tools at Steveston Marine. Reliable marine engine ignition tools for maintenance, diagnostics, and repair.
   Updated: 2026-08-03T03:57:32Z
   Total Products: 3
 - [Bow and Stern Thrusters](https://www.stevestonmarine.com/collections/bow-and-stern-thrusters): Shop marine stern thrusters and boat bow thrusters at Steveston Marine. Improve boat maneuverability with reliable, high-performance thrusters.
-  Updated: 2026-08-03T04:24:11Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 232
 - [Electric Outboards](https://www.stevestonmarine.com/collections/electric-outboards): Shop torqeedo electric outboards and electric boat motor at Steveston Marine. Explore Torqeedo electric outboards for quiet, efficient and eco-friendly boating power.
   Updated: 2026-06-19T18:56:58Z
   Total Products: 13
 - [Crab and Prawn Traps](https://www.stevestonmarine.com/collections/crab-and-prawn-traps): Shop Online durable crab traps, prawn traps, crab pots & nets at Steveston Marine. Premium quality gear for reliable catches. Order online today!
-  Updated: 2026-07-30T11:22:45Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 59
 - [Sinking Rope](https://www.stevestonmarine.com/collections/sinking-rope): Shop Online durable rope that sinks in water, ideal for crab traps and marine use. Reliable sinking crab rope built for strength and safety. Shop now!
   Updated: 2026-06-30T02:00:32Z
   Total Products: 4
 - [Downrigger Weights and Accessories](https://www.stevestonmarine.com/collections/downrigger-and-accessories): Steveston Marine & Hardware has Downrigger Weights and Accessories for you! We have downriggers from our most trusted manufacturers like Scotty, Westcoast Fishing Tackle, Cannon, and Greenfield. Shop in one of our stores located in Vancouver! Or order online and receive FREE SHIPPING on orders over $120! (Some exceptions may apply)
-  Updated: 2026-07-21T11:24:07Z
+  Updated: 2026-08-18T11:20:50Z
   Total Products: 26
 - [Downriggers Accessories](https://www.stevestonmarine.com/collections/downriggers-and-accessories): Buy downrigger accessories, Scotty and Cannon Downrigger Parts at Steveston Marine. Durable, reliable gear to keep your fishing setup running smoothly.
-  Updated: 2026-08-07T11:22:51Z
+  Updated: 2026-08-23T11:20:04Z
   Total Products: 141
 - [Scotty Other Fishing Gear](https://www.stevestonmarine.com/collections/scotty-other-fishing-gear): Shop Online premium fishing gear and Scotty fishing gear at Steveston Marine. Durable, reliable equipment for every angler. Explore top-quality gear now!
-  Updated: 2026-08-04T11:21:11Z
+  Updated: 2026-08-20T11:22:25Z
   Total Products: 9
 - [Saltwater Trolling Lures](https://www.stevestonmarine.com/collections/saltwater-trolling-lures): Steveston Marine & Hardware offers a premium selection of Saltwater Trolling Lures designed for serious anglers who demand performance and durability. Whether you’re chasing salmon, tuna, or other pelagic species, our trolling lures are engineered to mimic natural bait movement and withstand the harsh marine environment. Choose from a wide range of colors, sizes, and styles to match your fishing conditions and target species. Perfect for deep-sea fishing or coastal trolling, these lures deliver exceptional results trip after trip. Shop online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-06-19T18:56:58Z
   Total Products: 0
 - [Rod and Reel Storage Racks](https://www.stevestonmarine.com/collections/rod-and-reel-storage-racks): Shop rod and reel holders, reel storage racks & surf fishing rod holders at Steveston Marine. Durable, space-saving solutions for boats, docks & garages.
-  Updated: 2026-08-03T02:32:27Z
+  Updated: 2026-08-11T16:48:21Z
   Total Products: 8
 - [Rod Hold Downs](https://www.stevestonmarine.com/collections/rod-hold-downs): Shop Online durable boat buckle straps and boat buckles at Steveston Marine. Secure your boat safely with high-quality, reliable tie-down solutions.
   Updated: 2026-06-19T18:56:58Z
   Total Products: 5
 - [Rod Holders](https://www.stevestonmarine.com/collections/rod-holders): Buy Online boat buckle rod straps & holders at Steveston Marine. Secure, durable solutions to protect your fishing rods during transport. Buy now!
-  Updated: 2026-08-05T11:21:08Z
+  Updated: 2026-08-20T11:22:25Z
   Total Products: 132
 - [Fishing Tools, Gaffs, Nets and Miscellaneous](https://www.stevestonmarine.com/collections/fishing-tools-gaffs-nets-and-miscellaneous): Buy premium fishing tools and fishing tackle at Steveston Marine. Durable gear, trusted brands, and everything you need for a successful day on the water.
-  Updated: 2026-08-03T02:11:04Z
+  Updated: 2026-08-11T16:53:00Z
   Total Products: 23
 - [Tackle Boxes](https://www.stevestonmarine.com/collections/tackle-boxes): Buy fishing tackle boxes for durable, organized gear storage. Keep your equipment secure on every trip with Steveston Marine quality solutions.
   Updated: 2026-06-19T18:56:59Z
@@ -2493,10 +2493,10 @@
   Updated: 2026-08-03T02:34:20Z
   Total Products: 41
 - [Livewell - Aerator Pumps](https://www.stevestonmarine.com/collections/livewell-aerator-pumps): Steveston Marine & Hardware has Aerator Pumps for you! We have a large selection of pumps from ITT Jabsco, Flojet, Rule, and Attwood. Shop in one of our stores located in Vancouver or Langley! Or order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
-  Updated: 2026-08-03T03:54:35Z
+  Updated: 2026-08-11T11:37:22Z
   Total Products: 37
 - [Livewell Lights](https://www.stevestonmarine.com/collections/livewell-lights): Buy now for top performance Livewell Lights from Attwood, Lumitec & TH Marine at Steveston Marine and Bright, durable, and efficient marine lighting.
-  Updated: 2026-06-19T18:56:59Z
+  Updated: 2026-08-21T11:21:32Z
   Total Products: 2
 - [Livewell Switches and Panels](https://www.stevestonmarine.com/collections/livewell-switches-and-panels): Shop Livewell Switches, Panels, Attwood, TH Marine & Johnson Marine switches at Steveston Marine. Reliable, durable marine control solutions—buy now for fast performance!
   Updated: 2026-06-19T18:56:59Z
