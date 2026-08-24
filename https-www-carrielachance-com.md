@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-08-17T00:00:52.668Z
+- Updated At: 2026-08-24T00:00:53.437Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2321,55 +2321,7 @@ File Size: 5 MB
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Metallic_Gold_Photo_Set.jpg?v=1744587752
   Price: $30.00 USD
-- [Black Pantyhose Photo Set](https://www.carrielachance.com/products/black-pantyhose-photo-set-download): It's always been my opinion that the less Carrie LaChance wears, the more incredible she looks. In this set, all she’s wearing is black pantyhose and sexy high heels, and yes, that means this hottie topless the whole time, a  point on its own. Carrie gets into some sexy poses and shows off her perfect body with that signature seductive Carrie look in her eyes. Make sure to check out every pic in this set to get a glimpse of every amazing feature of Carrie’s body.
-
-Carrie LaChance – Gallery #151 🔞
-Total Images: 17 Photos
-Year: 2014
-File Size: 3 MB
-  Updated: 2026-04-26T20:05:37Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Black_Pantyhose_Photo_Set.jpg?v=1744587588
-  Price: $50.00 USD
-- [Pink & Blue Photo Set](https://www.carrielachance.com/products/pink-blue-photo-set-download): I’ve said this before and I’ll say it again, Carrie LaChance’s body was made for latex and I think this pink and blue latex outfit from Latex and Lovers should prove that once and for all. The top and bottom are so tight that they make Carrie’s already amazing breasts look just phenomenal and her booty is enough to want to make you cry. The soft colors make her tan skin stand out and she tops the outfit off with some very sexy high heels.
-
-Carrie LaChance – Gallery #152 🔞
-Total Images: 30 Photos
-Year: 2014
-File Size: 5 MB
-  Updated: 2026-04-26T20:05:38Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Pink_Blue_Photo_Set.jpg?v=1744587365
-  Price: $50.00 USD
-- [Little Leprechaun Photo Set](https://www.carrielachance.com/products/little-leprechaun-photo-set-download): Little Leprechaun Photo Set - Carrie has been known to shoot with a sexy lady or two but never a little leprechaun. I guess stranger things have happened but one thing is for certain, I’m jealous of the little bastard who gets to hang out with Carrie and even ends up inside one of her Christian Louboutin heels, a place many men have fantasized about being. Other Carrie looks amazing as usual wearing a tight skirt and even tighter white button-down shirt.
-
-- Carrie LaChance – Gallery #153
-- Total Images: 19 Photos
-- Year: 2014
-- File Size: 6 MB
-  Updated: 2026-05-05T03:04:27Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Little_Leprechaun_Photo_Set.jpg?v=1744587295
-  Price: $25.00 USD
-- [Christmas Lights Photo Set](https://www.carrielachance.com/products/christmas-lights-photo-set-download): Carrie needs to be careful she doesn’t catch fire in this set and it isn’t just because of the string of Christmas tree lights wrapped around her, it’s also because she looks smoking hot in her holiday latex lingerie, not to mention her sexy white heels and latex thigh highs. Judging by this set, it’s hard to tell if Carrie will go on Santa’s naughty or nice list but one thing is for sure if we were in charge of that list Carrie would have a whole lot of presents under her tree.
-
-Carrie LaChance – Gallery #154
-Total Images: 41 Photos
-Year: 2014
-File Size: 15 MB
-  Updated: 2026-04-26T20:05:38Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Christmas_Lights_Photo_Set.jpg?v=1744587201
-  Price: $40.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NDkxMjc4MjgyOTE5LCJsYXN0X3ZhbHVlIjoiNTQ5MTI3ODI4MjkxOSJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NDg1MjM5OTI2OTUxLCJsYXN0X3ZhbHVlIjoiNTQ4NTIzOTkyNjk1MSJ9)
 
 ## Collections
 
@@ -2380,8 +2332,8 @@ File Size: 15 MB
   Updated: 2026-06-01T23:10:54Z
   Total Products: 5
 - [Carries Closet Collection](https://www.carrielachance.com/collections/carries-closet): Carrie LaChance Memorabilia autographed from my personal own wardrobe, pantyhose, skirts, tops, high heels, boots, panties and autographed photos.
-  Updated: 2026-07-19T08:51:35Z
-  Total Products: 31
+  Updated: 2026-08-18T02:57:27Z
+  Total Products: 32
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
   Updated: 2026-08-08T11:09:34Z
   Total Products: 331
@@ -2401,8 +2353,8 @@ File Size: 15 MB
   Updated: 2026-07-18T14:11:51Z
   Total Products: 167
 - [Pantyhose Collection](https://www.carrielachance.com/collections/pantyhose): Step into my Pantyhose Collection, featuring all of my favorite shoots in silky, sheer pantyhose. From glossy, ultra-smooth finishes to timeless styling, every look highlights my love for legs, heels, and that signature shine that makes each set so irresistible.
-  Updated: 2026-07-18T20:49:41Z
-  Total Products: 107
+  Updated: 2026-08-18T02:57:27Z
+  Total Products: 108
 - [Nude Collection](https://www.carrielachance.com/collections/nude): Step into my Artistic Nudes Collection, featuring some of my most revealing and tastefully risqué shoots. These images celebrate confidence, form, and elegance, blending sensuality with a more refined, artistic edge.
   Updated: 2026-07-06T20:33:50Z
   Total Products: 256
@@ -3041,6 +2993,33 @@ File Size: 15 MB
     Updated: 2026-08-16T00:03:57Z
     Author: Carrie LaChance
     Tags: allure,  diary,  storytelling, glamour diaries, glamour stories, high heels, intimate narratives, passion, seduction, seductive blog posts, seductive stories
+  - [Stiletto Sorcery My Fascinating Life and Photoshoots as a Glamour and Latex Model](https://www.carrielachance.com/blogs/carrie-lachance/stiletto-sorcery-my-fascinating-life-and-photoshoots-as-a-glamour-and-latex-model): Stiletto Sorcery My Fascinating Life and Photoshoots as a Glamour and Latex Model
+    Updated: 2026-08-17T08:00:44Z
+    Author: Carrie LaChance
+    Tags: adventures in modeling, behind the scense, carrie lachance, fashion photography, glamour, glamour model, heels, high heels, latex, latex model, life of a model, lifestyle blog, modeling, outfit of the day, pantyhose, photoshoot experiences, pinup model, sexy model, stiletto style tips, stilettos
+  - [Own Your Spotlight: A Guide to Building Confidence in Over-the-Knee High Heels](https://www.carrielachance.com/blogs/carrie-lachance/own-your-spotlight-a-guide-to-building-confidence-in-over-the-knee-high-heels): Own Your Spotlight: A Guide to Building Confidence in Over-the-Knee High Heels
+    Updated: 2026-08-18T00:02:05Z
+    Author: Carrie LaChance
+    Tags: confidence, fashion tips, glamour model, heels, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, model confidence guide, modeling, modeling tips, over-the-knee, photography, photoshoot, posing tips, social media model, styling high heels, taking good selfies, walk confidently
+  - [Choosing the Right Platform for Your Content Optimized](https://www.carrielachance.com/blogs/carrie-lachance/choosing-the-right-platform-for-your-content-optimized): Choosing the Right Platform for Your Content Optimized
+    Updated: 2026-08-19T10:00:42Z
+    Author: Carrie LaChance
+  - [Lustrous Heights: A Psychological Dive Into Why Men Adore Women in Heels](https://www.carrielachance.com/blogs/carrie-lachance/lustrous-heights-a-psychological-dive-into-why-men-adore-women-in-heels): Lustrous Heights: A Psychological Dive Into Why Men Adore Women in Heels
+    Updated: 2026-08-20T00:02:03Z
+    Author: Carrie LaChance
+    Tags: attraction, heels, high heels, psychological effects of heels, psychology, psychology of high heels, social perception, why men love heels, why men love women in heels, women's fashion
+  - [Glamorous Interactions: Achieving Romance with Carrie’s Intriguing Connection Tips](https://www.carrielachance.com/blogs/carrie-lachance/glamorous-interactions-achieving-romance-with-carrie-s-intriguing-connection-tips): Glamorous Interactions: Achieving Romance with Carrie’s Intriguing Connection Tips
+    Updated: 2026-08-21T00:01:44Z
+    Author: Carrie LaChance
+    Tags: charming conversation strategies, connection, dating, dating advice, dating tips, how to find a high heel girl, how to find right girl, men’s dating guidance, relationship advice, romance, romantic interactions
+  - [Discovering Femininity in Oil Shine Stockings](https://www.carrielachance.com/blogs/carrie-lachance/discovering-femininity-in-oil-shine-stockings): Discovering Femininity in Oil Shine Stockings
+    Updated: 2026-08-22T00:00:53Z
+    Author: Carrie LaChance
+    Tags: enhancing feminine allure, feminine style, glossy legs, nylons, oil shine, pantyhose, shiny leg wear, stockings
+  - [Sensual Mystique: Unraveling My Fashion Secrets in an  Diary](https://www.carrielachance.com/blogs/carrie-lachance/sensual-mystique-unraveling-my-fashion-secrets-in-an--diary): Sensual Mystique: Unraveling My Fashion Secrets in an  Diary
+    Updated: 2026-08-23T00:03:54Z
+    Author: Carrie LaChance
+    Tags: captivating narratives, diary entries,  diary,  storytelling, fashion secrets, glamour, glamour stories, seduction, seductive stories, sensuality, unraveling desire
 
 ## Store Pages
 
