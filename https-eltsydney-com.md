@@ -6,16 +6,16 @@
 - Timezone: Australia/Sydney
 - Created At: 2026-05-13T01:02:49Z
 - Contact Email: morripierre@gmail.com
-- Updated At: 2026-08-16T12:35:44.121Z
+- Updated At: 2026-08-24T00:00:33.127Z
 
 ## Products
 
-- [ELT CloudForm Ergonomic Pillow | Cervical Memory Foam Sleep Pillow | ELT SYDNEY](https://eltsydney.com/products/elt-dream-align-rebound-pillow): Ergonomic cervical memory foam pillow for deep, restorative sleep. Supports neck alignment, reduces morning stiffness. Zero compromise on comfort. Free AU express shipping.
-  Updated: 2026-08-13T06:14:25Z
+- [CloudForm Ergonomic Pillow | Contoured Cervical Memory Foam | ELT Sydney](https://eltsydney.com/products/elt-dream-align-rebound-pillow): Contoured memory-foam pillow for side and back sleepers, with cervical support, airflow channels and a washable cover. Worldwide shipping; free over AUD 100.
+  Updated: 2026-08-22T22:30:26Z
   Vendor: ELT Sydney
   Product Type: Sleep & Recovery
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/3332/9346/files/6b0af7c44a109878e3198001d177_45877caf-bcc2-49f0-a4c8-aa800a975b57.png?v=1786601632
+  Image: https://cdn.shopify.com/s/files/1/0752/3332/9346/files/hf_20260821_031132_bb9dfe2f-80f9-4c14-ba46-aa68a4b67cfb.png?v=1787283311
   - [Gray / 64×40×13cm](https://eltsydney.com/products/elt-dream-align-rebound-pillow?variant=47659875926210)
     Availability: Available
     Price: $44.99 AUD
@@ -34,21 +34,21 @@
   - [Colorful / 64×38×13cm with Pillowcase](https://eltsydney.com/products/elt-dream-align-rebound-pillow?variant=47659876090050)
     Availability: Available
     Price: $44.99 AUD
-- [ELT Eclipse Deep Sleep Blackout Eye Mask | Total Darkness Recovery | ELT SYDNEY](https://eltsydney.com/products/elt-deep-sleep-black-out-mask): 3D contoured blackout sleep mask for total darkness and deep sleep. Blocks 100% of light, zero pressure on eyelids. Perfect for travel, shift work and insomnia.
-  Updated: 2026-08-11T07:21:53Z
+- [Eclipse 3D Blackout Sleep Mask | Contoured Eye Cups | ELT Sydney](https://eltsydney.com/products/elt-deep-sleep-black-out-mask): 3D contoured sleep mask designed to reduce light leakage without pressing on the eyelids. For travel, shift work and daytime sleep. Worldwide shipping; free over AUD 100.
+  Updated: 2026-08-22T22:10:22Z
   Vendor: ELT Sydney
   Product Type: Sleep & Recovery
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/3332/9346/files/e08f28044735854adab7b727ae47.png?v=1779847870
-  Price: $29.99 AUD
+  Image: https://cdn.shopify.com/s/files/1/0752/3332/9346/files/hf_20260821_033501_78ef1995-d1f5-41c7-9e13-7cbe583eefc8.png?v=1787283397
+  Price: $44.99 AUD
 
 ## Collections
 
 - [Best Sellers](https://eltsydney.com/collections/frontpage): Our most popular products — the ones our customers keep coming back to. Each one engineered for performance, designed for the executive who refuses to compromise.
-  Updated: 2026-08-05T08:01:24Z
+  Updated: 2026-08-23T11:19:43Z
   Total Products: 10
 - [Sleep & Recovery](https://eltsydney.com/collections/sleep-recovery): Engineer your recovery. Because the highest performers know rest is not a reward — it is part of the system. Every product here is built to help you sleep deeper, recover faster, and wake up ready to operate at 100%.
-  Updated: 2026-08-05T08:01:24Z
+  Updated: 2026-08-23T11:19:43Z
   Total Products: 3
 
 ## Store Pages
