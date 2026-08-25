@@ -6,16 +6,16 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-02T05:40:43Z
 - Contact Email: kavya.aaradhya@gmail.com
-- Updated At: 2026-08-18T00:00:35.537Z
+- Updated At: 2026-08-25T00:00:38.230Z
 
 ## Products
 
 - [Black and White Pure Cotton Poplin Ambika Dress for Women](https://singaarabykavya.com/products/black-white-pure-cotton-poplin-ambika-dress): Shop Black and White Pure Cotton Poplin Ambika Dress for Women for breathable comfort, timeless style & handcrafted elegance. Order today!
-  Updated: 2026-08-10T23:54:25Z
+  Updated: 2026-08-21T02:33:12Z
   Vendor: Singaarabykavya
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/DSC06931.jpg?v=1770617542
+  Image: https://cdn.shopify.com/s/files/1/0810/0105/4429/files/FDFB07BD-9317-42C1-BB87-ADEBC5B06D1B.jpg?v=1786289333
   - [S](https://singaarabykavya.com/products/black-white-pure-cotton-poplin-ambika-dress?variant=47374923825373)
     Availability: Available
     Price: ₹3,200.00 INR
@@ -691,8 +691,8 @@
 - [Featured Clothing for Women](https://singaarabykavya.com/collections/featured-clothing-for-women): Explore featured clothing for women from Singaara By Kavya, thoughtfully crafted with natural fabrics, elegant silhouettes, and distinctive handcrafted details.
   Updated: 2026-08-17T14:05:17Z
   Total Products: 6
-- [Top  Dresses for Women](https://singaarabykavya.com/collections/top--dresses-for-women): Shop Top  dresses for women by Singaara By Kavya, featuring handcrafted designs, natural fabrics, comfortable fits, and timeless everyday style.
-  Updated: 2026-08-17T14:07:55Z
+- [Top  Garments for Women](https://singaarabykavya.com/collections/top--garments-for-women): Shop Top  Garments for women by Singaara By Kavya, featuring handcrafted designs, natural fabrics, comfortable fits, and timeless everyday style.
+  Updated: 2026-08-20T14:20:07Z
   Total Products: 31
 - [Clothing for Women Under ₹2499](https://singaarabykavya.com/collections/clothing-for-women-under-2499): Shop clothing for women under ₹2499 from Singaara By Kavya, featuring handcrafted tops, dresses, and skirts made for comfort and effortless style.
   Updated: 2026-08-17T14:04:08Z
@@ -705,9 +705,17 @@
 
 - [News & Insights](https://singaarabykavya.com/blogs/insights): Explore fashion insights, styling tips, clothing guides, and expert ideas to make everyday dressing more stylish and comfortable.
   - [How To Choose Comfortable Western Wear For Women](https://singaarabykavya.com/blogs/insights/how-to-choose-comfortable-western-wear-for-women): How To Choose Comfortable Western Wear For Women
-    Updated: 2026-08-17T16:17:26Z
+    Updated: 2026-08-24T02:08:07Z
     Author: kavyashree A R
     Tags: best western wear for women, breathable womens clothing, casual western wear for women, comfortable dresses for women, comfortable fashion for women, comfortable outfits for women, comfortable western wear for women, comfortable womens clothing, everyday western outfits, everyday womens wear, how to choose comfortable western wear, stylish comfortable womens wear, stylish womens clothing, trendy western wear for women, western fashion for women, western outfits for women, western wear for women, womens casual wear, womens fashion clothing, womens western clothing
+  - [Best Natural Fabrics For Comfortable Women’s Clothing](https://singaarabykavya.com/blogs/insights/best-natural-fabrics-for-comfortable-womens-clothing): <p>Learn how to choose natural fabrics for comfortable women’s clothing, from cotton and handloom cotton to Kora cotton, Kala cotton, and linen.</p>
+    Updated: 2026-08-24T02:10:16Z
+    Author: kavyashree A R
+    Tags: best fabrics for women, breathable fabrics for women, comfortable western wear for women, comfortable women’s clothing, cotton clothing for women, handcrafted clothing for women, handloom cotton, Kala cotton, Kora cotton, linen clothing, natural fabric clothing, natural fabrics for women’s clothing, Singaara By Kavya
+  - [Kora Cotton: What Is It & Why Is It Popular?](https://singaarabykavya.com/blogs/insights/https-singaarabykavya-com-products-white-indigo-handloom-kora-cotton-avani-shibori-top): Kora Cotton: What Is It & Why Is It Popular?
+    Updated: 2026-08-24T02:12:04Z
+    Author: kavyashree A R
+    Tags: comfortable western wear for women, cotton clothing for women, handcrafted clothing for women, handloom cotton clothing, handloom Kora Cotton, Kora Cotton clothing, Kora Cotton dress, Kora Cotton fabric, Kora Cotton for women, Kora Cotton summer wear, Kora Cotton top, natural fabric clothing, natural fabrics for women, Singaara By Kavya, what is Kora Cotton
 
 ## Store Pages
 
