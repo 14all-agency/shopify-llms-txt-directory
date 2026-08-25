@@ -18,30 +18,12 @@ Experience the MANDOTOS difference - where quality meets variety in every produc
 - Created At: 2024-10-20T13:54:11Z
 - Contact Email: armando.me68@outlook.com
 - Address: Online
-- Updated At: 2026-08-17T00:00:59.011Z
+- Updated At: 2026-08-25T00:00:56.705Z
 
 MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
 
 ## Products
 
-- [Luminous Gaming Keyboard Floating Keys | Wired Gear](https://www.mandotos.com/products/luminous-gaming-keyboard): Experience responsive feedback with this luminous gaming keyboard floating keys design. The mechanical feel ensures precision during intense play sessions.
-  Updated: 2026-08-16T01:57:21Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-rgb-backlit-gaming-keyboard-with-floating-keys-55155209994608.jpg?v=1786726286
-  - [Mouse](https://www.mandotos.com/products/luminous-gaming-keyboard?variant=51662469628272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-rgb-backlit-gaming-keyboard-with-floating-keys-55155213795696.jpg?v=1786726291
-    Price: $29.99 USD
-  - [T20 BLACK](https://www.mandotos.com/products/luminous-gaming-keyboard?variant=51662469661040)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-rgb-backlit-gaming-keyboard-with-floating-keys-55155212091760.jpg?v=1786726288
-    Price: $39.99 USD
-  - [T20 BLACK with mouse](https://www.mandotos.com/products/luminous-gaming-keyboard?variant=51662469693808)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-rgb-backlit-gaming-keyboard-with-floating-keys-55155212878192.jpg?v=1786726289
-    Price: $49.39 USD
 - [CMOS Surveillance Camera With Night Vision](https://www.mandotos.com/products/1000tvl-infrared-night-vision-security-camera): CMOS surveillance camera with night vision delivers clear security footage day or night, 1000 TV lines, infrared LEDs, and efficient 12V operation.
   Updated: 2026-08-04T05:45:40Z
   Vendor: MANDOTOS
@@ -395,76 +377,6 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-home-security-camera-55155341656432.jpg?v=1784618973
     Price: $125.05 USD
-- [Smart Android 10.1 Inch Tablet PC with 3G Calling](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch): Discover the Smart Android Entertainment 3G Calling Tablet PC 10.1 Inch, featuring a 1.5GHz processor, 13MP camera, and over 9 hours of battery life.
-  Updated: 2026-08-09T21:27:18Z
-  Vendor: MANDOTOS
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155347358064.jpg?v=1784619019
-  - [Black / AU](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017443696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155349717360.jpg?v=1784619017
-    Price: $199.99 USD
-  - [Black / EU](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017476464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155349717360.jpg?v=1784619017
-    Price: $199.99 USD
-  - [Black / UK](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017509232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155349717360.jpg?v=1784619017
-    Price: $199.99 USD
-  - [Black / US](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017542000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155349717360.jpg?v=1784619017
-    Price: $199.99 USD
-  - [Green / AU](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017574768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155350864240.jpg?v=1784618970
-    Price: $199.99 USD
-  - [Green / EU](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017607536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155350864240.jpg?v=1784618970
-    Price: $199.99 USD
-  - [Green / UK](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017640304)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155350864240.jpg?v=1784618970
-    Price: $199.99 USD
-  - [Green / US](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017673072)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155350864240.jpg?v=1784618970
-    Price: $199.99 USD
-  - [Purple / AU](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017705840)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155351683440.jpg?v=1784619003
-    Price: $199.99 USD
-  - [Purple / EU](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017738608)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155351683440.jpg?v=1784619003
-    Price: $199.99 USD
-  - [Purple / UK](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017771376)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155351683440.jpg?v=1784619003
-    Price: $199.99 USD
-  - [Purple / US](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017804144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155351683440.jpg?v=1784619003
-    Price: $199.99 USD
-  - [Silver / AU](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017836912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155348636016.jpg?v=1784618980
-    Price: $199.99 USD
-  - [Silver / EU](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017869680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155348636016.jpg?v=1784618980
-    Price: $199.99 USD
-  - [Silver / UK](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017902448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155348636016.jpg?v=1784618980
-    Price: $199.99 USD
-  - [Silver / US](https://www.mandotos.com/products/smart-android-entertainment-3g-calling-tablet-pc-10-1-inch?variant=51663017935216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/3798/1552/files/mandotos-smart-android-entertainment-3g-calling-tablet-pc-10-1-inch-55155348636016.jpg?v=1784618980
-    Price: $199.99 USD
 - [Heated Jacket Coat USB Electric Thermal Clothing Men](https://www.mandotos.com/products/new-heated-jacket-coat-usb-electric-jacket-cotton-coat-heater-thermal-clothing-heating-vest-mens-clothes-winter): Stay warm this winter with our heated jacket, featuring adjustable temperatures, a removable hood, and lightweight, stylish design for all occasions.
   Updated: 2026-08-13T00:17:57Z
   Vendor: MANDOTOS
@@ -2353,74 +2265,74 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
 ## Collections
 
 - [Shop Stylish Clothing Accessories - Mandotos](https://www.mandotos.com/collections/stylish-clothing-accessories): Discover trendy stylish clothing accessories at Mandotos. Enhance your look and make a statement with our unique collections.
-  Updated: 2026-08-15T20:03:24Z
-  Total Products: 106
-- [Baby & Toddler Essentials | Shop Mandotos](https://www.mandotos.com/collections/baby-kids-toys-essentials): Explore our curated collection of Baby essentials and engaging kids' toys at Mandotos. From cozy clothing to developmental playthings for every stage of growth.
-  Updated: 2026-08-15T20:11:28Z
-  Total Products: 79
+  Updated: 2026-08-22T03:04:19Z
+  Total Products: 141
+- [Children Essentials | Shop Mandotos](https://www.mandotos.com/collections/baby-kids-toys-essentials): Explore our curated collection of Baby essentials and engaging kids' toys at Mandotos. From cozy clothing to developmental playthings for every stage of growth.
+  Updated: 2026-08-23T01:41:47Z
+  Total Products: 74
 - [Handbags, Wallets & Backpacks | Shop Mandotos Collection](https://www.mandotos.com/collections/handbags-wallets-backpacks): Explore the Mandotos collection: backpacks, handbags, and wallets crafted for style and durability. Find functional, high-quality pieces for your daily life.
-  Updated: 2026-08-15T19:58:27Z
-  Total Products: 150
+  Updated: 2026-08-19T14:46:05Z
+  Total Products: 148
 - [Shop Fitness & Exercise Gear - Mandotos](https://www.mandotos.com/collections/fitness-exercise-gear): Shop Fitness & Exercise Gear - Mandotos delivers durable, affordable home workout equipment for strength, cardio, yoga, and more with expert support.
-  Updated: 2026-08-13T21:26:16Z
-  Total Products: 161
+  Updated: 2026-08-18T20:57:51Z
+  Total Products: 159
 - [Fine Jewelry, Watches & Eyewear](https://www.mandotos.com/collections/mandotos-fine-jewelry-watches-eyewear): Explore Mandotos for a curated selection of fine jewelry and luxury watches. Find elegant eyewear and timeless pieces designed for every style and occasion.
-  Updated: 2026-08-15T19:51:25Z
-  Total Products: 120
+  Updated: 2026-08-18T02:36:05Z
+  Total Products: 119
 - [Electronics And Accessories](https://www.mandotos.com/collections/electronics-accessories-collection): Explore the Electronics And Accessories Mandotos Collection—a curated, affordable range of gadgets, chargers, cases, and headphones for everyday use.
-  Updated: 2026-08-16T11:13:06Z
-  Total Products: 75
+  Updated: 2026-08-20T03:48:08Z
+  Total Products: 69
 - [HEALTH BEAUTY AND PERSONAL CARE](https://www.mandotos.com/collections/beauty-personal-care): Shop Health & Beauty, Cosmetics, and personal care products at Mandotos. Find skincare, cosmetics, hair care, vitamins, and wellness essentials.
-  Updated: 2026-08-16T11:13:06Z
-  Total Products: 204
+  Updated: 2026-08-18T04:38:31Z
+  Total Products: 196
 - [Shop Mandotos' Winter Collection | Stay Warm & Stylish](https://www.mandotos.com/collections/mandotos-winter-collection): Explore Mandotos' winter collection to stay warm and stylish all season long. Discover cozy styles for everyone today! Shop now!
-  Updated: 2026-08-15T19:56:10Z
+  Updated: 2026-08-17T07:15:39Z
   Total Products: 114
 - [Shop Mandotos Leather Collection](https://www.mandotos.com/collections/shop-mandotos-leather-collection): Explore the Mandotos LEATHER COLLECTION, featuring timeless designs and premium materials. Find high-quality, handcrafted pieces to elevate your everyday style.
-  Updated: 2026-08-15T19:56:18Z
+  Updated: 2026-08-19T14:46:05Z
   Total Products: 100
 - [New Clothing And Accessories](https://www.mandotos.com/collections/new-clothing-accessories-arrivals): Explore New Clothing And Accessories Fresh Arrivals: trend-led dresses, versatile pieces, and chic accessories for any season and occasion.
-  Updated: 2026-08-08T14:13:52Z
-  Total Products: 130
+  Updated: 2026-08-22T03:04:19Z
+  Total Products: 184
 - [Shop Mandotos' Exclusive Summer Collection](https://www.mandotos.com/collections/summer-collection-clothing-gear): Explore the Summer Collection Shop Clothing And Gear-Manndotos for bright, comfortable beach-ready outfits and durable gear travels well for sunny adventures.
-  Updated: 2026-08-14T15:22:10Z
-  Total Products: 156
+  Updated: 2026-08-22T11:13:23Z
+  Total Products: 155
 - [AVADA - MANDOTOS-STORE-PRODUCTS](https://www.mandotos.com/collections/all-store-products): Browse ALL STORE PRODUCTS at Mandotos. Discover a wide selection of quality essentials curated for your lifestyle with fast shipping on every order.
-  Updated: 2026-08-16T11:13:06Z
-  Total Products: 2646
+  Updated: 2026-08-24T11:11:45Z
+  Total Products: 2621
 - [Mans Shoe Collection](https://www.mandotos.com/collections/mens-shoes-collection): Shop men's shoes at Mandotos. Find dress shoes, casual footwear, boots, and sneakers in various styles for every occasion.
-  Updated: 2026-08-13T23:59:22Z
-  Total Products: 111
+  Updated: 2026-08-18T05:11:06Z
+  Total Products: 110
 - [Mandotos: Women's Shoes for Every Style & Occasion](https://www.mandotos.com/collections/womens-shoes): Shop women's shoes at Mandotos. Find heels, flats, boots, sandals, and sneakers for every style and occasion. Various sizes available.
-  Updated: 2026-08-15T19:56:24Z
+  Updated: 2026-08-24T11:11:45Z
   Total Products: 117
 - [Mandotos: Comfortable & Stylish Shoes for Kids & Toddlers](https://www.mandotos.com/collections/toddler-shoes-kids-footwear): Discover supportive Toddler Shoes and stylish footwear at Mandotos. Shop our durable collection designed for growing feet and active play. Browse today.
-  Updated: 2026-08-09T00:49:13Z
+  Updated: 2026-08-17T07:15:45Z
   Total Products: 22
 - [Shop Women's Fashion & Apparel - Mandotos Collection](https://www.mandotos.com/collections/womens-fashion-apparel): Discover the latest in women's fashion with the Mandotos Trendy Women's  Collection. Shop stylish apparel for every occasion.
-  Updated: 2026-08-15T20:10:40Z
-  Total Products: 213
+  Updated: 2026-08-19T05:36:42Z
+  Total Products: 222
 - [Men's Clothing Collection, Shop Mandotos](https://www.mandotos.com/collections/mens-clothing-collection): Explore our premium Men's collection at Mandotos. From versatile shirts and pants to activewear, find high-quality apparel for work and leisure in every size.
-  Updated: 2026-08-16T11:13:06Z
-  Total Products: 151
+  Updated: 2026-08-21T05:33:57Z
+  Total Products: 165
 - [Body Suits Lingerie And Under Wear Collection](https://www.mandotos.com/collections/bodysuits-lingerie-underwear): Shop Body Suits Lingerie And Under Wear Collection at Mandotos. Find intimate apparel in various styles and sizes for comfort and confidence.
-  Updated: 2026-08-13T04:15:28Z
+  Updated: 2026-08-18T20:57:51Z
   Total Products: 106
 - [MANDOTOS SHOP ONLINE: Premium Health & Wellness Supplements](https://www.mandotos.com/collections/health-wellness-supplements): Shop health & wellness supplements at Mandotos. Find vitamins, minerals, and dietary supplements to support your wellness journey and health goals.
-  Updated: 2026-08-15T20:07:58Z
-  Total Products: 23
+  Updated: 2026-08-18T05:07:39Z
+  Total Products: 21
 - [Communication & Smartphone Accessories | Shop Mandotos](https://www.mandotos.com/collections/smartphone-accessories-mandotos): Discover Communication & Smartphone Accessories | Shop Mandotos for durable cables, cases, and gadgets designed for reliability and connectivity—shop now.
-  Updated: 2026-08-14T23:05:58Z
-  Total Products: 122
+  Updated: 2026-08-24T04:28:06Z
+  Total Products: 111
 - [Holidays, Parties, & Gifts-Mandotos](https://www.mandotos.com/collections/holidays-parties-gifts): Make every celebration unforgettable with Mandotos. Browse our unique selection for holidays parties and gifts, featuring creative ideas to suit any occasion.
-  Updated: 2026-08-16T11:13:06Z
-  Total Products: 297
+  Updated: 2026-08-23T22:49:06Z
+  Total Products: 284
 - [Formal Gowns & Dresses for Parties Weddings & Quinceañeras](https://www.mandotos.com/collections/formal-gowns-dresses-parties-weddings): Browse an elegant selection of formal gowns and dresses perfect for weddings, parties, and Quinceañeras. Find the ideal fit for your next special occasion.
-  Updated: 2026-08-15T19:53:22Z
-  Total Products: 175
+  Updated: 2026-08-19T01:30:10Z
+  Total Products: 176
 - [Sports & Outdoors](https://www.mandotos.com/collections/sports-outdoor-gear): Shop premium sports and outdoor gear at MANDOTOS. Athletic apparel, camping equipment, fitness tools, and more — built for performance and adventure.
-  Updated: 2026-08-15T20:15:17Z
-  Total Products: 151
+  Updated: 2026-08-18T05:38:29Z
+  Total Products: 136
 - [Boys Clothing](https://www.mandotos.com/collections/boys-clothing-collection): Shop our curated boys clothing collection. Comfortable, durable, and stylish outfits for boys of every age. Free worldwide shipping available.
   Updated: 2026-08-15T19:51:34Z
   Total Products: 59
@@ -2719,6 +2631,12 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
   - [Best Resistance Bands for Beginners at Home](https://www.mandotos.com/blogs/news/best-resistance-bands-for-beginners): Best Resistance Bands for Beginners at Home
     Updated: 2026-08-15T05:10:04Z
     Author: Admin
+  - [Camping Tents That Match Your Weekend Plans](https://www.mandotos.com/blogs/news/camping-tents-weekend-plans): Camping Tents That Match Your Weekend Plans
+    Updated: 2026-08-17T05:12:54Z
+    Author: Admin
+  - [Wearable Fitness Tech Trends Worth Watching](https://www.mandotos.com/blogs/news/wearable-fitness-tech-trends): Wearable Fitness Tech Trends Worth Watching
+    Updated: 2026-08-17T07:36:27Z
+    Author: Admin
 
 ## Store Pages
 
@@ -2749,7 +2667,7 @@ MANDOTOS Online Shopping, At Mandotos You Buy, We Ship, and You Enjoy
 - [Optimized HTML Sitemap for Enhanced SEO Performance](https://www.mandotos.com/pages/mandotos-international-html-sitemap-for-better-navigation): Products Brushed Plaid Long Coat with P... RGB Backlit Gaming Keyboard wi... 1000TVL Infrared Night Vision ... Portable Bluetooth Thermal Pho... Ga...
   Updated: 2026-07-24T02:54:00Z
 - [About Us Learn About Our Mission Team And History](https://www.mandotos.com/pages/about-us-2): Welcome to MANDOTOS MANDOTOS is a curated lifestyle destination where premium quality meets everyday luxury. We believe that the products you choos...
-  Updated: 2026-08-07T05:46:46Z
+  Updated: 2026-08-19T17:07:29Z
 - [Frequently Asked Questions | MANDOTOS INTERNATIONAL](https://www.mandotos.com/pages/frequently-asked-questions): Frequently Asked Questions Ordering & Payment What payment methods do you accept? We accept all major credit cards (Visa, Mastercard, American Expr...
   Updated: 2026-07-21T04:09:19Z
 - [Earn rewards with our referral program. Join now!](https://www.mandotos.com/pages/spread-the-word-earn-rewards-for-sharing-our-products-and-services): Unlock exclusive rewards Join our referral program and start earning rewards today. Share your unique referral link with friends and family to earn...
