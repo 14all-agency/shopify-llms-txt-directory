@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-01T05:49:08Z
 - Contact Email: info@inflorescencenaturals.com
-- Updated At: 2026-07-30T16:04:27.439Z
+- Updated At: 2026-08-25T00:00:39.345Z
 
 ## Products
 
 - [Whispers of Five – Luxury Natural EDP Discovery Set | Inflorescence Naturals](https://inflorescencenaturals.com/products/whispers-of-five-luxury-perfume-set): Whispers of Five – a luxury Eau de Parfum discovery set with 5 natural, attar-based fragrances from Kannauj. The perfect gift for fragrance lovers.
-  Updated: 2026-07-30T16:02:17Z
+  Updated: 2026-07-30T16:14:17Z
   Vendor: Inflorescence Naturals 
   Product Type: 
   Availability: Available
@@ -42,10 +42,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/bakhoor-bloom-eau-de-parfum-inflorescence-naturals-8291411.jpg?v=1785427332
     Price: ₹599.00 INR
-- [Musk Shadow | Natural Eau de Parfum — Botanical Musk Perfume from Kannauj](https://inflorescencenaturals.com/products/musk-shadow-eau-de-parfum): Musk Shadow EDP — botanical, grain-based denatured ethanol Eau de Parfum. Soft, warm & skin-close botanical musk. Cruelty-free & long-lasting. Zero harsh synthetics.
-  Updated: 2026-07-30T16:03:10Z
+- [Musk Shadow | Natural Eau de Parfum — Botanical Musk Perfume from Kannauj](https://inflorescencenaturals.com/products/musk-shadow-eau-de-parfum): Musk Shadow — a skin-close, all-natural botanical musk EDP from Kannauj. Soft, warm & deeply personal. Zero synthetics. Cruelty-free. Shop 10ml, 30ml & 50ml.
+  Updated: 2026-08-08T05:15:10Z
   Vendor: Inflorescence Naturals
-  Product Type: 
+  Product Type: Eau de Parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/musk-shadow-eau-de-parfum-inflorescence-naturals-8540089.png?v=1785427331
   - [50 ml](https://inflorescencenaturals.com/products/musk-shadow-eau-de-parfum?variant=45538898641069)
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/rose-petal-dew-eau-de-parfum-inflorescence-naturals-3014911.jpg?v=1785427333
     Price: ₹599.00 INR
 - [Oud Drift | Natural Eau de Parfum — Real Indian Oud Agarwood Perfume Kannauj](https://inflorescencenaturals.com/products/oud-drift-eau-de-parfum): Oud Drift EDP — botanical, grain-based denatured ethanol Eau de Parfum. Smoky, dark & magnificently powerful oud from Kannauj. Zero harsh synthetics. Long-lasting.
-  Updated: 2026-07-30T16:03:08Z
+  Updated: 2026-08-21T03:55:36Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -151,7 +151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/majmua-opus-eau-de-parfum-inflorescence-naturals-7095731.jpg?v=1785427331
     Price: ₹599.00 INR
 - [Rijali Noir | Natural Eau de Parfum — Floral Oriental Perfume from Kannauj](https://inflorescencenaturals.com/products/rijali-noir-eau-de-parfum): Rijali Noir EDP — botanical, grain-based denatured ethanol Eau de Parfum from Kannauj. Dark florals, smoky oud & sandalwood. Zero harsh synthetics. Long-lasting.
-  Updated: 2026-07-30T16:02:28Z
+  Updated: 2026-08-10T10:55:27Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -204,7 +204,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/shamama-prestige-eau-de-parfum-inflorescence-naturals-6699170.jpg?v=1785427328
     Price: ₹599.00 INR
 - [Gili Mitti | Wet Earth | Natural Eau de Parfum — Petrichor Perfume India](https://inflorescencenaturals.com/products/wet-earth-eau-de-parfum): Gili Mitti EDP — botanical, grain-based denatured ethanol petrichor Eau de Parfum. The scent of rain on earth, elevated. Zero harsh synthetics. Uniquely Indian.
-  Updated: 2026-07-30T15:10:18Z
+  Updated: 2026-08-11T17:11:38Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -222,7 +222,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/wet_earth_with_box.png?v=1779467621
     Price: ₹599.00 INR
 - [Mitti Attar | Gilli Mitti Perfume Oil | Petrichor Attar from Kannauj](https://inflorescencenaturals.com/products/mitti-indian-attar): Mitti attar – pure gilli mitti fragrance, distilled from baked clay in Kannauj. Alcohol-free petrichor oil. The scent of rain on earth, bottled forever.
-  Updated: 2026-07-30T16:02:52Z
+  Updated: 2026-08-04T13:37:33Z
   Vendor: Inflorescence Naturals 
   Product Type: 
   Availability: Available
@@ -236,7 +236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/mitti-indian-attar-inflorescence-naturals-5943426.png?v=1785427334
     Price: ₹1,099.00 INR
 - [Sandalwood | Chandan | Pure Indian Attar – Natural Sandalwood Oil Kannauj](https://inflorescencenaturals.com/products/sandalwood-indian-attar): Pure sandalwood attar from Kannauj – the root of all Indian perfumery. Alcohol-free, undiluted & deeply creamy. Wear alone or layer with any attar.
-  Updated: 2026-07-30T16:02:20Z
+  Updated: 2026-08-04T13:38:56Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -248,7 +248,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Gulab | Rose | Pure Indian Attar – Natural Rose Perfume Oil from Kannauj](https://inflorescencenaturals.com/products/gulab-rose-pure-indian-attar): Gulab rose attar – pure, alcohol-free & distilled in Kannauj. Rich, velvety & deeply floral. Mughal heritage in every drop. Zero synthetics.
-  Updated: 2026-07-30T16:02:20Z
+  Updated: 2026-08-04T13:39:19Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -260,7 +260,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Bela | Jasmine Sambac | Pure Indian Attar – Natural Jasmine Perfume Oil](https://inflorescencenaturals.com/products/bela-jasmine-pure-indian-attar): Bela attar – pure Jasminum sambac oil, alcohol-free & distilled in Kannauj. Heady, floral & long-lasting. India's most sacred jasmine. One drop lasts all day.
-  Updated: 2026-07-30T16:02:20Z
+  Updated: 2026-08-04T13:39:41Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -272,7 +272,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Ruh Khus | Pure Indian Attar – Natural Vetiver Oil of Tranquility](https://inflorescencenaturals.com/products/khus-pure-indian-attar): Ruh Khus – pure vetiver attar from Kannauj. Alcohol-free, undiluted & deeply grounding. The ancient oil of tranquility. One drop lasts all day.
-  Updated: 2026-07-30T16:02:20Z
+  Updated: 2026-08-04T13:40:06Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -284,7 +284,7 @@
     Availability: Available
     Price: ₹1,199.00 INR
 - [Rajnigandha | Tuberose | Pure Indian Attar – Natural Tuberose Perfume Oil](https://inflorescencenaturals.com/products/rajnigandha-pure-indian-attar): Rajnigandha attar – pure tuberose oil, alcohol-free & distilled in Kannauj. Creamy, heady & intensely floral. One drop lasts all day.
-  Updated: 2026-07-30T16:02:26Z
+  Updated: 2026-08-04T13:40:28Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -296,7 +296,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Dahn Al Oud | Pure Indian Attar – Rare Agarwood Oil from Kannauj](https://inflorescencenaturals.com/products/dahn-al-oud-pure-indian-attar): Dahn Al Oud – pure, undiluted agarwood oil. Alcohol-free & crafted in Kannauj. Intense, resinous & transcendent. The connoisseur's attar.
-  Updated: 2026-07-30T16:02:20Z
+  Updated: 2026-08-04T13:40:52Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -308,7 +308,7 @@
     Availability: Available
     Price: ₹1,699.00 INR
 - [Bakhoor | Pure Indian Attar – Natural Smoky Resinous Perfume Oil](https://inflorescencenaturals.com/products/bakhoor-pure-indian-attar): Bakhoor attar – pure, alcohol-free & crafted in Kannauj. Smoky, sweet & resinous. The ritual of bakhoor on your skin. One drop lasts all day.
-  Updated: 2026-07-30T16:02:20Z
+  Updated: 2026-08-04T13:41:14Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -320,7 +320,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Shamama | Pure Indian Attar – Natural Spiced Perfume Oil from Kannauj](https://inflorescencenaturals.com/products/shamama-pure-indian-attar): Shamama attar – a pure blend of 40+ botanicals, alcohol-free & crafted in Kannauj. Spicy, warm & deeply complex. One drop lasts all day.
-  Updated: 2026-07-30T16:02:20Z
+  Updated: 2026-08-04T13:41:37Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -332,7 +332,7 @@
     Availability: Available
     Price: ₹1,499.00 INR
 - [Rijali | Pure Indian Attar – Natural Floral Perfume Oil from Kannauj](https://inflorescencenaturals.com/products/rijali-pure-indian-attar): Rijali attar – pure, alcohol-free floral attar from Kannauj. Soft, luminous & long-lasting. Zero synthetics. One drop lasts all day.
-  Updated: 2026-07-30T16:02:20Z
+  Updated: 2026-08-04T13:41:59Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -344,7 +344,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Patchouli | Pure Indian Attar – Natural Earthy Perfume Oil from Kannauj](https://inflorescencenaturals.com/products/patchouli-pure-indian-attar): Patchouli attar – pure, alcohol-free & distilled in Kannauj. Dark, woody & magnetic. A bold natural fragrance that lasts all day. Zero synthetics.
-  Updated: 2026-07-30T16:02:27Z
+  Updated: 2026-08-04T13:42:22Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -356,7 +356,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Majmua | Pure Indian Attar – Natural Floral Woody Perfume Oil](https://inflorescencenaturals.com/products/majmua-pure-indian-attar): Majmua – a pure, alcohol-free Indian attar blending florals, woods & earth. Crafted in Kannauj. Complex, layered & long-lasting. One drop all day.
-  Updated: 2026-07-30T16:02:21Z
+  Updated: 2026-08-04T13:42:47Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -368,7 +368,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Kastoori Musk | Pure Indian Attar – Natural Botanical Musk Perfume Oil](https://inflorescencenaturals.com/products/kastoori-musk-pure-indian-attar): Kastoori Musk – a pure, cruelty-free botanical attar from Kannauj. Warm, powdery & skin-close. Alcohol-free. One drop lasts all day.
-  Updated: 2026-07-30T16:02:23Z
+  Updated: 2026-08-06T16:15:32Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -380,7 +380,7 @@
     Availability: Available
     Price: ₹1,699.00 INR
 - [Assam Oud | Pure Indian Attar – Rare Natural Oud Perfume Oil](https://inflorescencenaturals.com/products/oud-asami-pure-indian-attar): Assam Oud – a pure, alcohol-free attar from the forests of Northeast India. Rich, woody & long-lasting. Crafted in Kannauj. One drop lasts all day.
-  Updated: 2026-07-30T16:02:24Z
+  Updated: 2026-08-04T13:43:47Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -392,7 +392,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Oud Drift | Pure Indian Attar – Natural Oud Perfume Oil](https://inflorescencenaturals.com/products/oud-drift-pure-indian-attar): Experience Oud Drift – a pure, alcohol-free Indian attar crafted in Kannauj. Deep, woody, and long-lasting. One drop lasts all day. No synthetics.
-  Updated: 2026-07-30T16:02:21Z
+  Updated: 2026-08-04T13:44:10Z
   Vendor: Inflorescence Naturals
   Product Type: 
   Availability: Available
@@ -404,7 +404,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Sandalwood | Natural Eau de Parfum — Chandan Perfume from Kannauj](https://inflorescencenaturals.com/products/sandalwood-eau-de-parfum): Sandalwood EDP — botanical, grain-based denatured ethanol Eau de Parfum. Warm, creamy & timeless. The root of Indian perfumery for 5,000 years. Zero harsh synthetics.
-  Updated: 2026-07-30T16:02:20Z
+  Updated: 2026-08-05T14:31:38Z
   Vendor: Inflorescence Naturals 
   Product Type: 
   Availability: Available
@@ -428,21 +428,21 @@
   Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/ruh-khus-eau-de-parfum-inflorescence-naturals-5923229.png?v=1785427328
   Price: ₹2,199.00 INR
 - [Ruh Khus & Mitti Attar Gift Set 6ml | Kannauj Heritage | Inflorescence Naturals](https://inflorescencenaturals.com/products/ruh-khus-mitti-attar-gift-set-6ml-each-pack-of-two): Gift the essence of Kannauj — a premium leather box with Ruh Khus and Mitti Indian attars 6ml each. Alcohol-free, handcrafted, beautifully gift-wrapped.
-  Updated: 2026-07-30T16:02:32Z
+  Updated: 2026-08-05T16:13:16Z
   Vendor: Inflorescence Naturals
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/ruh-khus-mitti-attar-gift-set-6ml-each-pack-of-two-gift-set-inflorescence-naturals-2011047.png?v=1785427331
   Price: ₹1,899.00 INR
 - [Gulab & Bela Mogra Attar Gift Set | Pure Indian Attar 6ml Each - Inflorescence Naturals](https://inflorescencenaturals.com/products/gulab-bela-mogra-attar-gift-set-6ml-each-pack-of-two): Gift set with 6ml Gulab (Rose) & Bela (Mogra/Jasmine) pure Indian attars from Kannauj. Alcohol-free, long-lasting, in a premium wooden box.
-  Updated: 2026-07-30T16:02:24Z
+  Updated: 2026-08-05T16:13:52Z
   Vendor: Inflorescence Naturals
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/gulab-bela-mogra-attar-gift-set-6ml-each-pack-of-two-gift-set-inflorescence-naturals-7081612.png?v=1785427330
   Price: ₹1,599.00 INR
 - [Assam Oud & Bakhoor Attar Gift Set | Pure Indian Attar 6ml Each - Inflorescence Naturals](https://inflorescencenaturals.com/products/assam-oud-bakhoor-attar-gift-set-6ml-each-pack-of-two): Gift set with 6ml Assam Oud & Bakhoor pure Indian attars from Kannauj. Alcohol-free, long-lasting, presented in a premium wooden gift box.
-  Updated: 2026-07-30T16:02:16Z
+  Updated: 2026-08-04T14:40:35Z
   Vendor: Inflorescence Naturals
   Product Type: Gift Set
   Availability: Available
@@ -452,28 +452,25 @@
 ## Collections
 
 - [Eau de Parfum](https://inflorescencenaturals.com/collections/eau-de-parfum): Shop our Eau de Parfum range — grain-based denatured ethanol spray perfumes inspired by Kannauj botanicals. Distinct from attars. Shop online India.
-  Updated: 2026-07-30T15:56:15Z
+  Updated: 2026-08-21T11:23:30Z
   Total Products: 13
 - [For Her](https://inflorescencenaturals.com/collections/for-her): Shop natural fragrances for her — Indian attars & EDPs crafted in Kannauj. Rose, jasmine, tuberose & more. Pure botanicals, zero harsh synthetics.
-  Updated: 2026-07-30T15:56:19Z
+  Updated: 2026-08-06T11:25:04Z
   Total Products: 9
 - [For Him](https://inflorescencenaturals.com/collections/for-him): Shop natural fragrances for him — Indian attars & EDPs crafted in Kannauj. Oud, sandalwood, vetiver & more. Pure botanicals, zero harsh synthetics.
-  Updated: 2026-07-30T15:56:21Z
+  Updated: 2026-08-21T11:23:30Z
   Total Products: 11
 - [Unisex](https://inflorescencenaturals.com/collections/unisex): Shop unisex natural fragrances — pure Indian attars & EDPs crafted in Kannauj. 100% natural, zero synthetics. Beautiful fragrances for everyone.
-  Updated: 2026-07-30T15:56:25Z
+  Updated: 2026-08-06T11:25:04Z
   Total Products: 9
 - [Gifting](https://inflorescencenaturals.com/collections/gifting): Gift the art of Kannauj. Shop premium attar gift sets and natural perfume hampers for birthdays, weddings & festivals. Beautifully packaged, delivered across India.
   Updated: 2026-07-30T15:56:28Z
-  Total Products: 5
-- [Bestselling](https://inflorescencenaturals.com/collections/bestselling): Shop our most-loved Kannauj attars and natural perfumes. Customer favourites with proven longevity, rich sillage & authentic botanical ingredients.
-  Updated: 2026-07-30T15:56:31Z
   Total Products: 5
 - [Indian Attars | Kannauj Attars](https://inflorescencenaturals.com/collections/indian-attars): Shop pure Kannauj attars handcrafted using traditional deg-bhapka distillation. Natural, long-lasting Indian attars for men & women. Free shipping on orders above ₹999.
   Updated: 2026-07-30T15:56:34Z
   Total Products: 15
 - [All Products](https://inflorescencenaturals.com/collections/all-products): Shop all natural Indian perfumes from Inflorescence Naturals — pure Kannauj attars & EDPs. Pure botanicals, zero harsh synthetics. Find your signature scent.
-  Updated: 2026-07-30T15:56:37Z
+  Updated: 2026-08-21T11:23:30Z
   Total Products: 30
 
 ## Blogs
@@ -540,6 +537,18 @@
     Updated: 2026-07-30T15:56:48Z
     Author: Ravindra kumar
     Tags: bakhoor, incense perfume, Indian attar, Kannauj, oud
+  - [Best Attar Gifts for Rakhi 2026 — Natural Indian Fragrances | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/best-attar-gifts-for-rakhi-2026-thoughtful-natural-fragrances-for-brothers-sisters): Best Attar Gifts for Rakhi 2026 — Natural Indian Fragrances | Inflorescence Naturals
+    Updated: 2026-08-02T17:26:42Z
+    Author: Ravindra kumar
+    Tags: Attar, Deg-Bhapka, Gifting, Kannauj, Natural Perfume, Rakhi
+  - [Natural Perfume for Sophisticated Men | Attar & EDP Guide | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/the-man-who-prefers-sophistication-a-natural-fragrance-guide-for-men): Natural Perfume for Sophisticated Men | Attar & EDP Guide | Inflorescence Naturals
+    Updated: 2026-08-05T16:36:12Z
+    Author: Ravindra kumar
+    Tags: attar, attar for men, buying guide, eau de parfum, fragrance guide, Kannauj, men, musk, natural fragrance, natural perfume, oud, perfume for men, saffron, sandalwood, sophistication
+  - [What Fragrance Do Women Want Men to Wear? | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/what-fragrance-do-women-actually-want-men-to-wear): What Fragrance Do Women Want Men to Wear? | Inflorescence Naturals
+    Updated: 2026-08-06T15:49:24Z
+    Author: Ravindra kumar
+    Tags: attar, fragrance, gifting, kannauj, men
 
 ## Store Pages
 
