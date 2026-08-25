@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-01-31T15:52:43Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-18T00:00:34.461Z
+- Updated At: 2026-08-25T00:00:36.142Z
 
 ## Products
 
@@ -253,7 +253,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $30.00 USD
 - [Pistol Tour Tee - Black](https://us.mporium.org/products/pistol-tour-tee-black): Morrissey Tour T-Shirt with event dates on the back. 100% cotton t-shirt
-  Updated: 2026-08-17T13:04:27Z
+  Updated: 2026-08-22T15:34:45Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -731,7 +731,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Suedehead Crewneck](https://us.mporium.org/products/suedehead-crewneck): Cotton/polyester crewneck in black. Features Suedehead design on front. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-08-17T01:01:11Z
+  Updated: 2026-08-19T01:03:46Z
   Vendor: Morrissey US
   Product Type: Crewneck
   Availability: Available
@@ -752,7 +752,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $60.00 USD
 - [Deluxe Notre-Dame – Yellow 12" Vinyl](https://us.mporium.org/products/deluxe-notre-dame-yellow-12-vinyl): Deluxe Notre-Dame Vinyl featuring additional tracks. If you are shopping outside the US, please head to the UK/EU store to pre-order the album and merch. Track Listing Side ANotre-Dame Side BHello HellHappy New TearsNotre-Dame (Orchestrated Version) Release Date: June 26, 2026
-  Updated: 2026-08-16T17:54:04Z
+  Updated: 2026-08-23T01:44:26Z
   Vendor: Morrissey US
   Product Type: Vinyl
   Availability: Available
@@ -828,7 +828,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [The Queen Is Dead Tee](https://us.mporium.org/products/the-queen-is-dead-tee): 100% cotton t-shirt in forest green Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-08-12T17:19:26Z
+  Updated: 2026-08-22T15:34:32Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -910,10 +910,10 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://us.mporium.org/collections/frontpage)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 89
 - [T-Shirts](https://us.mporium.org/collections/t-shirts)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 52
 - [Sweatshirts](https://us.mporium.org/collections/sweatshirts)
   Updated: 2026-07-22T15:09:34Z
@@ -922,28 +922,28 @@ your agent can transact everywhere.
   Updated: 2026-08-12T11:21:15Z
   Total Products: 25
 - [](https://us.mporium.org/collections/)
-  Updated: 2026-08-13T11:23:21Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 28
 - [New](https://us.mporium.org/collections/new)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 55
 - [Apparel](https://us.mporium.org/collections/apparel)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 58
 - [Event Merch](https://us.mporium.org/collections/event-merch)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 26
 - [Music](https://us.mporium.org/collections/music)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 8
 - [North America 2025 Tour Merch](https://us.mporium.org/collections/north-america-2025-tour-merch)
   Updated: 2026-08-17T11:22:18Z
   Total Products: 6
 - [Best Sellers](https://us.mporium.org/collections/best-sellers)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 94
 - [New Arrivals](https://us.mporium.org/collections/new-arrivals)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 94
 - [World Animal Day](https://us.mporium.org/collections/world-animal-day)
   Updated: 2026-08-17T11:22:18Z
@@ -955,25 +955,25 @@ your agent can transact everywhere.
   Updated: 2026-08-11T14:16:12Z
   Total Products: 9
 - [$40](https://us.mporium.org/collections/40)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 32
 - [$20.25](https://us.mporium.org/collections/20-25)
   Updated: 2026-04-28T19:14:16Z
   Total Products: 0
 - [Make-up Is A Lie](https://us.mporium.org/collections/make-up-is-a-lie)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 12
 - [All](https://us.mporium.org/collections/all)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 94
 - [2026 Tour Merch](https://us.mporium.org/collections/2026-tour-merch)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 19
 - [Make-up is a Lie Fan Packs](https://us.mporium.org/collections/make-up-is-a-lie-fan-packs)
   Updated: 2026-07-22T15:09:27Z
   Total Products: 3
 - [BOGO Tees](https://us.mporium.org/collections/bogo-tees)
-  Updated: 2026-08-17T11:22:18Z
+  Updated: 2026-08-23T11:17:42Z
   Total Products: 26
 
 ## Store Pages
