@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-09-26T19:01:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-17T00:00:36.405Z
+- Updated At: 2026-08-25T00:00:38.783Z
 
 ## Products
 
@@ -63,7 +63,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Absolutely Not Trucker Hat](https://shop.heatherontour.com/products/absolutely-not-trucker-hat): Absolutely Not Trucker Hat in camo with pink print. Adjustable sizing with snapback closure
-  Updated: 2026-08-16T17:31:56Z
+  Updated: 2026-08-23T00:19:56Z
   Vendor: Heather McMahan
   Product Type: Accessory
   Availability: Available
@@ -194,7 +194,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Absolutely Knot Cruise Tee - Green](https://shop.heatherontour.com/products/absolutely-knot-cruise-tee-green): Missing the Absolutely Knot cruise? Order the tee in island reef green as your keepsake!
-  Updated: 2026-07-16T20:18:42Z
+  Updated: 2026-08-20T17:41:47Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
@@ -212,7 +212,7 @@
     Availability: Available
     Price: $30.00 USD
   - [2XL](https://shop.heatherontour.com/products/absolutely-knot-cruise-tee-green?variant=46731422630117)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
   - [3XL](https://shop.heatherontour.com/products/absolutely-knot-cruise-tee-green?variant=46731422662885)
     Availability: Available
@@ -324,7 +324,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Vacation Cig Hat](https://shop.heatherontour.com/products/vacation-cig-hat): Take the cruise home with you in this Captains Trucker Hat! This classic black style goes with any outfit and the gold embellishments elevate your style.
-  Updated: 2026-07-15T15:27:15Z
+  Updated: 2026-08-21T00:22:27Z
   Vendor: Heather McMahan
   Product Type: Hats
   Availability: Available
@@ -338,7 +338,7 @@
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HeatherMcMahanKeychain_447a40a9-45cc-4d2d-bd49-f9e7fbd19dc4.png?v=1754505322
   Price: $5.00 USD
 - [Absolutely Not Crewneck](https://shop.heatherontour.com/products/absolutely-not-crewneck): Unisex crewneck in light grey with martini graphic Absolutely Not graphic with martini glasses on the front 50/50 cotton/polyester SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30
-  Updated: 2026-07-17T05:14:06Z
+  Updated: 2026-08-19T19:10:54Z
   Vendor: Heather McMahan
   Product Type: Sweatshirt
   Availability: Available
@@ -362,7 +362,7 @@
     Availability: Not Available
     Price: $55.00 USD
 - [Hotline Hat](https://shop.heatherontour.com/products/hotline-hat): Trucker Hat in maroon Absolutely Not production's number embroidered on the front Heather McMahan embroidered on the back Adjustable sizing with snapback closure
-  Updated: 2026-07-29T14:24:37Z
+  Updated: 2026-08-24T15:53:05Z
   Vendor: Heather McMahan
   Product Type: Hats
   Availability: Available
@@ -382,7 +382,7 @@ Adjustable closure
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/Mockup_0012_HRMM-BALCP8-167357-2-13-R.png?v=1778768894
   Price: $40.00 USD
 - [A Special Night Tee](https://shop.heatherontour.com/products/a-special-night-tee): I had a special night with Heather McMahan Tee from the taping of Heather's special in Knoxville, Tn Garment-dyed for soft, lived-in feel Relaxed fit on a watermelon comfort colors pocket tee 100% cotton Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-07-29T14:24:38Z
+  Updated: 2026-08-21T14:17:36Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
@@ -397,7 +397,7 @@ Adjustable closure
     Availability: Available
     Price: $40.00 USD
   - [XL](https://shop.heatherontour.com/products/a-special-night-tee?variant=49500066021605)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [2XL](https://shop.heatherontour.com/products/a-special-night-tee?variant=49500066054373)
     Availability: Not Available
@@ -405,56 +405,80 @@ Adjustable closure
   - [3XL](https://shop.heatherontour.com/products/a-special-night-tee?variant=49500066087141)
     Availability: Not Available
     Price: $40.00 USD
+- [Mystery Bag](https://shop.heatherontour.com/products/mystery-bag): $80 VALUE! For a limited time only, get 3 items for $39! Includes: 1 x apparel item 2 x accessories *This item does not come in special packaging, for  purposes only
+  Updated: 2026-08-24T17:37:07Z
+  Vendor: Heather McMahan
+  Product Type: Bundle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HMMysteryBag_613c0d38-cfe0-4f0a-b32a-94dd73cb1cf7.png?v=1787149902
+  - [S](https://shop.heatherontour.com/products/mystery-bag?variant=52092976791781)
+    Availability: Available
+    Price: $39.00 USD
+  - [M](https://shop.heatherontour.com/products/mystery-bag?variant=52092976824549)
+    Availability: Available
+    Price: $39.00 USD
+  - [L](https://shop.heatherontour.com/products/mystery-bag?variant=52092976857317)
+    Availability: Available
+    Price: $39.00 USD
+  - [XL](https://shop.heatherontour.com/products/mystery-bag?variant=52092976890085)
+    Availability: Available
+    Price: $39.00 USD
+  - [2XL](https://shop.heatherontour.com/products/mystery-bag?variant=52092976922853)
+    Availability: Not Available
+    Price: $39.00 USD
+  - [3XL](https://shop.heatherontour.com/products/mystery-bag?variant=52092976955621)
+    Availability: Available
+    Price: $39.00 USD
 
 ## Collections
 
 - [Shop All](https://shop.heatherontour.com/collections/shop-all)
-  Updated: 2026-08-14T16:53:34Z
+  Updated: 2026-08-23T11:08:46Z
   Total Products: 72
 - [Apparel](https://shop.heatherontour.com/collections/apparel)
-  Updated: 2026-08-14T16:53:34Z
+  Updated: 2026-08-22T11:08:27Z
   Total Products: 29
 - [Accessories](https://shop.heatherontour.com/collections/accessories)
-  Updated: 2026-08-14T16:53:34Z
+  Updated: 2026-08-23T11:08:46Z
   Total Products: 31
 - [Classics Collection](https://shop.heatherontour.com/collections/classics)
-  Updated: 2026-08-11T21:16:49Z
+  Updated: 2026-08-23T11:08:46Z
   Total Products: 21
 - [](https://shop.heatherontour.com/collections/shop-)
-  Updated: 2026-08-14T16:53:34Z
+  Updated: 2026-08-22T11:08:27Z
   Total Products: 26
 - [Bamboozled Tour Collection](https://shop.heatherontour.com/collections/bamboozled-tour-collection)
-  Updated: 2026-08-13T19:28:07Z
+  Updated: 2026-08-23T11:08:46Z
   Total Products: 16
 - [EasyGift All Products](https://shop.heatherontour.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-14T16:53:34Z
+  Updated: 2026-08-23T11:08:46Z
   Total Products: 72
 - [Mother's Day ](https://shop.heatherontour.com/collections/mothers-day-)
-  Updated: 2026-08-13T19:27:57Z
+  Updated: 2026-08-22T11:08:27Z
   Total Products: 16
 - [Under $10](https://shop.heatherontour.com/collections/under-10)
   Updated: 2026-08-11T21:16:49Z
   Total Products: 12
 - [Absolutely Knot Cruise](https://shop.heatherontour.com/collections/absolutely-knot-cruise)
-  Updated: 2026-08-11T21:16:13Z
+  Updated: 2026-08-19T14:35:56Z
   Total Products: 9
 - [Summer Abroad Collection](https://shop.heatherontour.com/collections/summer-abroad)
-  Updated: 2026-08-11T21:16:49Z
+  Updated: 2026-08-21T14:31:23Z
   Total Products: 13
 - [New Arrivals](https://shop.heatherontour.com/collections/new-arrivals)
-  Updated: 2026-08-13T19:30:44Z
-  Total Products: 11
+  Updated: 2026-08-23T11:08:46Z
+  Total Products: 12
 - [Bracelets](https://shop.heatherontour.com/collections/bracelets)
-  Updated: 2026-08-11T21:16:13Z
+  Updated: 2026-08-19T14:35:56Z
   Total Products: 4
 - [New Merch Sleigh](https://shop.heatherontour.com/collections/holiday)
-  Updated: 2026-08-13T19:30:44Z
+  Updated: 2026-08-22T11:08:27Z
   Total Products: 3
 - [Black Friday ](https://shop.heatherontour.com/collections/all-but-5-bin)
-  Updated: 2026-08-14T16:53:34Z
+  Updated: 2026-08-23T11:08:46Z
   Total Products: 55
 - [$5 bin](https://shop.heatherontour.com/collections/5-bin)
-  Updated: 2026-08-13T19:27:57Z
+  Updated: 2026-08-22T11:08:27Z
   Total Products: 14
 
 ## Store Pages
