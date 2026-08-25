@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-21T05:22:02Z
 - Contact Email: ascorenutra@gmail.com
-- Updated At: 2026-08-15T00:00:39.038Z
+- Updated At: 2026-08-25T00:00:44.502Z
 
 ## Products
 
@@ -131,6 +131,12 @@
     Author: Manan Mehta
   - [The Gut-Inflammation Connection Explained (2026 Guide)](https://allovedaai.com/blogs/alloveda-ai/gut-health-and-inflammation): The Gut-Inflammation Connection Explained (2026 Guide)
     Updated: 2026-08-11T12:48:14Z
+    Author: Manan Mehta
+  - [The Gut-Immune Axis: 70% of Immunity Lives in Your Gut](https://allovedaai.com/blogs/alloveda-ai/gut-immune-axis): The Gut-Immune Axis: 70% of Immunity Lives in Your Gut
+    Updated: 2026-08-17T09:34:22Z
+    Author: Manan Mehta
+  - [9 Daily Habits That Support a Healthy Immune System](https://allovedaai.com/blogs/alloveda-ai/daily-habits-immune-support): 9 Daily Habits That Support a Healthy Immune System
+    Updated: 2026-08-19T11:01:57Z
     Author: Manan Mehta
 
 ## Store Pages
