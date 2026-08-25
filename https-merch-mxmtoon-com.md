@@ -83,19 +83,19 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2020-10-13T16:00:09Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-06T21:53:01.949Z
+- Updated At: 2026-08-25T00:00:37.026Z
 
 ## Products
 
 - [the adventures of mxmtoon: dawn & dusk](https://merch.mxmtoon.com/products/the-adventures-of-mxmtoon-dawn-dusk): the adventures of mxmtoon: dawn & dusk
-  Updated: 2026-07-08T20:19:34Z
+  Updated: 2026-08-11T11:39:56Z
   Vendor: mxmtoon
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_adventures_dawn-dusk.png?v=1650412514
   Price: $8.00 USD
 - [the adventures of mxmtoon: the masquerade](https://merch.mxmtoon.com/products/the-adventures-of-mxmtoon-the-masquerade): the adventures of mxmtoon: the masquerade is the first chapter in the epic saga of mxmtoon. Maia reckons with the forces of love, insecurity, and heartbreak in this 40 page graphic novel. Listen to mxmtoon’s debut album "the masquerade," while reading along for the full immersive experience. Contains two doodle pages to spark creativity. Illustrations by The New Yorker's Ellie Black.
-  Updated: 2026-07-08T20:19:35Z
+  Updated: 2026-08-11T11:39:56Z
   Vendor: mxmtoon
   Product Type: Book
   Availability: Available
@@ -109,7 +109,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtmerch-36.jpg?v=1603554540
   Price: $15.00 USD
 - [rising - cd](https://merch.mxmtoon.com/products/rising-cd): mxmtoon's second full-length LP, rising. Standard CD Release Date: May 20, 2022Record Label: AWAL Recordings America, Inc.Format + Color: CD Tracklist: 1. mona lisa2. learn to love you3. victim of nostalgia4. sad disco5. frown6. florida7. scales8. growing pains9. dizzy10. haze11. dance (end of the world)12. coming of age
-  Updated: 2026-07-08T20:19:36Z
+  Updated: 2026-08-22T18:14:16Z
   Vendor: mxmtoon
   Product Type: CD
   Availability: Available
@@ -192,7 +192,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMT_notebook.png?v=1763155449
   Price: $15.00 USD
 - [rising  *signed* cd](https://merch.mxmtoon.com/products/rising-signed-cd): mxmtoon's second full-length LP, rising. Signed CD Release Date: May 20, 2022Record Label: AWAL Recordings America, Inc.Format + Color: CD Tracklist: 1. mona lisa2. learn to love you3. victim of nostalgia4. sad disco5. frown6. florida7. scales8. growing pains9. dizzy10. haze11. dance (end of the world)12. coming of age
-  Updated: 2026-08-05T04:02:26Z
+  Updated: 2026-08-22T13:02:17Z
   Vendor: mxmtoon
   Product Type: CD
   Availability: Available
@@ -261,7 +261,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [plum blossom - limited edition vinyl](https://merch.mxmtoon.com/products/plum-blossom-limited-edition-vinyl): 2 sided LP featuring mxmtoon's latest EP, plum blossom (revisited) on side a, and debut EP, plum blossom, on side b. Pressed in purple and white dual color vinyl. SIDE A the idea of you (revisited) cliché (revisited) feelings are fatal (revisited) stuck (revisited) temporary nothing (revisited) hong kong (revisited) 1-800-DATEME (revisited) SIDE B cliché i feel like chet feelings are fatal the idea of you porcelain temporary nothing i miss you Release Date: march 2024
-  Updated: 2026-07-08T21:02:34Z
+  Updated: 2026-08-09T15:58:26Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
@@ -392,7 +392,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMTbumperstickerset.png?v=1722365355
   Price: $15.00 USD
 - [liminal space - exclusive cloudy green vinyl](https://merch.mxmtoon.com/products/liminal-space-exclusive-cloudy-green-vinyl): Exclusive cloudy green pressing release date: november 1st, 2024
-  Updated: 2026-08-01T02:48:26Z
+  Updated: 2026-08-22T16:51:37Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
@@ -434,7 +434,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt_0001_163884_1_299887_d.png?v=1744142035
   Price: $30.00 USD
 - [liminal space tour hoodie](https://merch.mxmtoon.com/products/liminal-space-tour-hoodie): 80% cotton, 20% recycled polyester hoodie in black size chart size body length (in) chest width (in) sleeve length (in) s 28 1/2 21 35 1/2 m 29 1/2 23 36 1/2 l 30 1/2 24 1/2 37 1/2 xl 31 1/2 26 1/2 38 1/2 xxl 32 1/2 27 1/2 39 1/2 3xl 33 1/2 28 1/5 40
-  Updated: 2026-07-18T02:30:22Z
+  Updated: 2026-08-21T12:44:37Z
   Vendor: mxmtoon
   Product Type: Hoodie
   Availability: Available
@@ -476,14 +476,14 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMTOON_0002_Rising-Blue-Vinyl.png?v=1783614937
   Price: $30.00 USD
 - [true colors (from Life is Strange) - picture disc vinyl](https://merch.mxmtoon.com/products/true-colors-from-life-is-strange-picture-disc-vinyl): mxmtoon's EP, true colors, from Life Is Strange. Pressed to 12" custom picture disc Release Date: September 10, 2021Record Label: AWAL Recordings America, Inc.Format + Color: 12" Picture Disc Vinyl
-  Updated: 2026-07-29T20:47:36Z
+  Updated: 2026-08-17T16:51:26Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/0000_Mxmtoon-Picture-disc-w-cover.png?v=1783714255
   Price: $30.00 USD
 - [plum blossom (revisited) tour hoodie](https://merch.mxmtoon.com/products/plum-blossom-revisited-tour-hoodie): 50% cotton, 50% polyester hoodie in purple *please note that color and blank may vary and differ from the product photo size chart size body length (in) chest width (in) sleeve length (in) s 27 20 33 1/2 m 28 22 34 1/2 l 29 24 35 1/2 xl 30 26 36 1/2 xxl 31 28 37 1/2
-  Updated: 2026-08-06T21:38:26Z
+  Updated: 2026-08-07T17:44:36Z
   Vendor: mxmtoon
   Product Type: Hoodie
   Availability: Available
@@ -507,7 +507,7 @@ your agent can transact everywhere.
 ## Collections
 
 - [home page](https://merch.mxmtoon.com/collections/frontpage)
-  Updated: 2026-08-06T21:21:40Z
+  Updated: 2026-08-23T11:07:11Z
   Total Products: 110
 - [shirts](https://merch.mxmtoon.com/collections/shirts)
   Updated: 2026-07-20T11:04:32Z
@@ -516,13 +516,13 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:26Z
   Total Products: 14
 - [music](https://merch.mxmtoon.com/collections/music)
-  Updated: 2026-08-05T11:04:01Z
+  Updated: 2026-08-23T11:07:11Z
   Total Products: 43
 - [headwear](https://merch.mxmtoon.com/collections/headwear)
   Updated: 2026-07-08T20:17:26Z
   Total Products: 9
 - [accessories](https://merch.mxmtoon.com/collections/accessories)
-  Updated: 2026-07-30T11:05:11Z
+  Updated: 2026-08-12T11:06:04Z
   Total Products: 56
 - [vintage](https://merch.mxmtoon.com/collections/vintage)
   Updated: 2026-07-08T20:17:26Z
@@ -534,7 +534,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:26Z
   Total Products: 0
 - [All](https://merch.mxmtoon.com/collections/all)
-  Updated: 2026-08-06T21:21:40Z
+  Updated: 2026-08-23T11:07:11Z
   Total Products: 182
 - [posters](https://merch.mxmtoon.com/collections/posters)
   Updated: 2026-07-08T20:17:26Z
@@ -552,31 +552,31 @@ your agent can transact everywhere.
   Updated: 2023-09-20T19:37:07Z
   Total Products: 6
 - [apparel](https://merch.mxmtoon.com/collections/apparel)
-  Updated: 2026-08-06T21:21:40Z
+  Updated: 2026-08-22T11:07:05Z
   Total Products: 73
 - [Spotify Fans First](https://merch.mxmtoon.com/collections/spotify-fans-first)
   Updated: 2026-07-08T20:17:27Z
   Total Products: 0
 - [rising](https://merch.mxmtoon.com/collections/rising)
-  Updated: 2026-08-05T11:04:01Z
+  Updated: 2026-08-23T11:07:11Z
   Total Products: 18
 - [Misc](https://merch.mxmtoon.com/collections/misc)
-  Updated: 2026-07-30T11:05:11Z
+  Updated: 2026-08-12T11:06:04Z
   Total Products: 35
 - [rising (the tour) merch](https://merch.mxmtoon.com/collections/rising-tour)
   Updated: 2026-07-08T20:17:27Z
   Total Products: 13
 - [new arrivals](https://merch.mxmtoon.com/collections/new-arrivals)
-  Updated: 2026-08-05T11:04:01Z
+  Updated: 2026-08-23T11:07:11Z
   Total Products: 34
 - [bittersweet daze tour merch](https://merch.mxmtoon.com/collections/bittersweet-daze-tour-merch)
   Updated: 2026-07-08T21:03:25Z
   Total Products: 6
 - [plum blossom (revisited)](https://merch.mxmtoon.com/collections/plum-blossom-revisited)
-  Updated: 2026-07-08T21:03:28Z
+  Updated: 2026-08-10T11:04:06Z
   Total Products: 7
 - [graphic novels](https://merch.mxmtoon.com/collections/graphic-novels)
-  Updated: 2026-07-08T20:19:36Z
+  Updated: 2026-08-12T11:06:04Z
   Total Products: 2
 - [valentine's gift guide](https://merch.mxmtoon.com/collections/valentines-gift-guide)
   Updated: 2026-07-08T21:03:28Z
@@ -585,16 +585,16 @@ your agent can transact everywhere.
   Updated: 2026-07-08T21:03:30Z
   Total Products: 7
 - [$40](https://merch.mxmtoon.com/collections/40)
-  Updated: 2026-08-06T21:21:40Z
+  Updated: 2026-08-22T11:07:05Z
   Total Products: 29
 - [$35](https://merch.mxmtoon.com/collections/30)
   Updated: 2026-07-09T20:14:13Z
   Total Products: 11
 - [$20](https://merch.mxmtoon.com/collections/20)
-  Updated: 2026-08-05T11:04:01Z
+  Updated: 2026-08-23T11:07:11Z
   Total Products: 26
 - [$10 & under](https://merch.mxmtoon.com/collections/smart-collection)
-  Updated: 2026-07-30T11:05:11Z
+  Updated: 2026-08-23T11:07:11Z
   Total Products: 41
 - [the signed section](https://merch.mxmtoon.com/collections/the-signed-section)
   Updated: 2026-07-09T14:45:38Z
@@ -603,13 +603,13 @@ your agent can transact everywhere.
   Updated: 2026-08-06T21:19:46Z
   Total Products: 3
 - [all](https://merch.mxmtoon.com/collections/all-1)
-  Updated: 2026-08-06T21:21:40Z
+  Updated: 2026-08-23T11:07:11Z
   Total Products: 182
 - [i  texas](https://merch.mxmtoon.com/collections/i--texas)
   Updated: 2026-07-08T21:03:31Z
   Total Products: 4
 - [liminal space](https://merch.mxmtoon.com/collections/liminal-space)
-  Updated: 2026-08-01T11:04:40Z
+  Updated: 2026-08-23T11:07:11Z
   Total Products: 7
 - [liminal space collection](https://merch.mxmtoon.com/collections/liminal-space-collection)
   Updated: 2026-07-08T20:17:28Z
@@ -618,10 +618,10 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:28Z
   Total Products: 1
 - [cold weather gear](https://merch.mxmtoon.com/collections/cold-weather-gear)
-  Updated: 2026-08-06T21:21:40Z
+  Updated: 2026-08-22T11:07:05Z
   Total Products: 6
 - [liminal space tour](https://merch.mxmtoon.com/collections/liminal-space-tour)
-  Updated: 2026-07-08T21:03:33Z
+  Updated: 2026-08-22T11:07:05Z
   Total Products: 5
 - [](https://merch.mxmtoon.com/collections/)
   Updated: 2026-07-09T15:13:49Z
@@ -630,7 +630,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:28Z
   Total Products: 4
 - [Stocking Stuffers](https://merch.mxmtoon.com/collections/stocking-stuffers)
-  Updated: 2026-07-30T11:05:11Z
+  Updated: 2026-08-12T11:06:04Z
   Total Products: 9
 
 ## Store Pages
