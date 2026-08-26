@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2020-09-26T02:08:02Z
 - Contact Email: enquiries@podorganics.com.au
-- Updated At: 2026-08-17T23:21:18.718Z
+- Updated At: 2026-08-26T00:00:28.966Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/barrier-balm.png?v=1767743191
   Price: $35.95 AUD
 - [Blue Tansy & Rosehip Pregnancy Oil](https://www.podorganics.com.au/products/belly-oil): A silky, nutrient-rich body and belly oil designed to deeply hydrate, support elasticity, and soothe stretching skin during pregnancy.
-  Updated: 2026-08-16T05:08:20Z
+  Updated: 2026-08-19T06:57:05Z
   Vendor: Pod Organics
   Product Type: Pregnancy Oil
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/GuaSha.jpg?v=1744695947
   Price: $29.95 AUD
 - [Vitamin C Baby Wash: Gentle 2-in-1 Wash for Delicate Skin & Hair](https://www.podorganics.com.au/products/baby-wash): A naturally nourishing 2-in-1 hair and body wash designed to cleanse, soothe, and support baby’s delicate skin.
-  Updated: 2026-08-13T10:18:38Z
+  Updated: 2026-08-21T21:21:45Z
   Vendor: Pod Organics
   Product Type: Baby wash
   Availability: Available
@@ -67,28 +67,28 @@
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/Baby_Oil_with_Vitamin_E.jpg?v=1753254307
   Price: $29.95 AUD
 - [Vitamin C+E Baby Lotion](https://www.podorganics.com.au/products/soothing-baby-lotion): A gentle, fast-absorbing baby lotion enriched with Vitamin C, Vitamin E, and antioxidant-rich botanicals to hydrate, soothe, and protect sensitive skin.
-  Updated: 2026-08-15T03:19:06Z
+  Updated: 2026-08-21T21:21:58Z
   Vendor: Pod Organics
   Product Type: Baby Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/Natural_Baby_Lotion_with_Vitamin_E.jpg?v=1753845879
   Price: $29.95 AUD
 - [Vitamin A+E Baby Butter](https://www.podorganics.com.au/products/nappy-rash-cream): A silky, nutrient-rich baby cream to hydrate, calm & protect dry or sensitive skin. Enriched with Vitamins A + E, Kakadu Plum & soothing botanicals to soothe.
-  Updated: 2026-08-13T10:18:38Z
+  Updated: 2026-08-25T13:34:37Z
   Vendor: Pod Organics
   Product Type: Baby Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/Nappy_Rash_Cream.jpg?v=1746147955
   Price: $18.95 AUD
 - [Newborn Gift Set | Award-Winning Baby Skincare & Plush Toy](https://www.podorganics.com.au/products/newborn-essentials): An award-winning newborn gift set with baby wash, baby butter, bamboo wash cloths and a plush platypus. Australian made and vegan. Free shipping.
-  Updated: 2026-08-16T05:08:20Z
+  Updated: 2026-08-25T13:34:48Z
   Vendor: Pod Organics
   Product Type: Gift Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/Newborn-skincare-gift-set.png?v=1767829902
   Price: $79.95 AUD
 - [Natural Bamboo Wash Cloths - For Baby and Mum](https://www.podorganics.com.au/products/organic-bamboo-wash-cloths): Discover our bamboo wash cloths. Perfect for sensitive skin, these eco-friendly cloths ensure gentle cleansing for you and your little one.
-  Updated: 2026-08-16T05:08:20Z
+  Updated: 2026-08-25T13:34:37Z
   Vendor: Pod Organics
   Product Type: wash cloth
   Availability: Available
@@ -102,70 +102,70 @@
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/Untitled_design_24.jpg?v=1744696016
   Price: $29.95 AUD
 - [Stretch Mark Oil – For Pregnancy, Postpartum & Beyond](https://www.podorganics.com.au/products/stretch-mark-oil): A nutrient-rich stretch mark oil to deeply hydrate, improve elasticity, and reduce the appearance of stretch marks during pregnancy and postpartum.
-  Updated: 2026-08-10T02:17:17Z
+  Updated: 2026-08-24T23:31:56Z
   Vendor: Pod Organics
   Product Type: Stretch Mark Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/stretch_mark_oil.jpg?v=1753959958
   Price: $35.95 AUD
 - [Vitamin C + White Tea Intimate Wash](https://www.podorganics.com.au/products/feminine-wash): A gentle, pH-balanced intimate wash with antioxidant-rich Vitamin C & soothing White Tea to cleanse & protect delicate areas during pregnancy & postpartum.
-  Updated: 2026-08-13T10:18:38Z
+  Updated: 2026-08-24T23:31:46Z
   Vendor: Pod Organics
   Product Type: feminine wash
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/feminine-wash.jpg?v=1746080695
   Price: $29.95 AUD
 - [Magnesium Body Cream | Rich Comfort for Dry, Tight Skin](https://www.podorganics.com.au/products/magnesium-body-lotion): A rich, fast-absorbing magnesium body cream for skin that feels dry or tight. Made for pregnancy and beyond. Australian made, vegan and cruelty-free.
-  Updated: 2026-08-14T17:39:39Z
+  Updated: 2026-08-24T23:31:46Z
   Vendor: Pod Organics
   Product Type: Body Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/Magnesium-body-rub.jpg?v=1744696029
   Price: $29.95 AUD
 - [Rich Butter for Pregnancy, Breastfeeding & Beyond](https://www.podorganics.com.au/products/nipple-cream-and-belly-butter): A deeply nourishing, fragrance-free cream designed to comfort, hydrate, and restore sensitive skin from stretching bellies to sore, breastfeeding nipples.
-  Updated: 2026-08-13T10:18:38Z
+  Updated: 2026-08-25T13:34:38Z
   Vendor: Pod Organics
   Product Type: Soothing Balm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/Nipple-and-Belly-Butter-Naturopath-_-Doula-.jpg?v=1744696043
   Price: $18.95 AUD
 - [Postpartum Gift Set | Gentle Essentials After Birth](https://www.podorganics.com.au/products/womens-wellness): Three gentle essentials for the weeks after birth. Comforting, fragrance-considered and safe while breastfeeding. Australian made and vegan.
-  Updated: 2026-08-16T05:08:20Z
+  Updated: 2026-08-25T13:34:47Z
   Vendor: Pod Organics
   Product Type: Gift Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/postpartum_recovery_gift.png?v=1764720099
   Price: $68.95 AUD
 - [Pregnancy Gift Set | Daily Skincare for a Changing Body](https://www.podorganics.com.au/products/pregnancy-essentials-set): Four pregnancy essentials to nourish and soothe skin as it stretches and changes. Australian made, vegan, safe for every trimester. Free shipping.
-  Updated: 2026-08-16T05:08:20Z
+  Updated: 2026-08-25T13:34:48Z
   Vendor: Pod Organics
   Product Type: Gift Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/pregnancy-ritual-set.png?v=1786596313
   Price: $103.45 AUD
 - [Make it a gift](https://www.podorganics.com.au/products/gift-box): Make your gift extra special with our specialised gifting options. Add our beautiful gift box and gift options to your order for that special touch.
-  Updated: 2026-08-16T05:08:20Z
+  Updated: 2026-08-25T13:34:36Z
   Vendor: Wrapped: Gift Blocks
   Product Type: Gift Option
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/Exampleonly.Productnotincluded..png?v=1780297216
   Price: $7.95 AUD
 - [Small Baby Gift | Award-Winning Balm Duo for Mum & Bub](https://www.podorganics.com.au/products/the-little-gift): One for her, one for bub. Two award-winning butters in a gift-ready duo. Gentle, Australian made and vegan. The easy new baby gift.
-  Updated: 2026-08-16T05:08:21Z
+  Updated: 2026-08-25T13:34:47Z
   Vendor: Pod Organics
   Product Type: Gift Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/little-gift-set.png?v=1786581432
   Price: $34.95 AUD
 - [Baby Bath Gift Set | Award-Winning Wash & Lotion for Bub](https://www.podorganics.com.au/products/first-bath-set): An award-winning baby wash and baby lotion with three soft bamboo cloths. Gentle enough for newborn skin, Australian made and vegan.
-  Updated: 2026-08-16T05:08:21Z
+  Updated: 2026-08-25T13:34:47Z
   Vendor: Pod Organics
   Product Type: Gift Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0494/4746/9210/files/first-bath-set.png?v=1786586848
   Price: $68.95 AUD
 - [The Whole Journey Gift Set | Pregnancy to Newborn](https://www.podorganics.com.au/products/the-whole-journey): Eight essentials for pregnancy, birth and the first weeks with bub. Australian made, vegan and gentle from day one. Free shipping.
-  Updated: 2026-08-16T05:08:21Z
+  Updated: 2026-08-25T13:34:47Z
   Vendor: Pod Organics
   Product Type: Gift Bundle
   Availability: Available
@@ -187,11 +187,11 @@
   Updated: 2026-08-14T09:55:11Z
   Total Products: 12
 - [Pod Organics Natural Skincare](https://www.podorganics.com.au/collections/all): - Pod Organics
-  Updated: 2026-08-15T11:11:47Z
-  Total Products: 32
+  Updated: 2026-08-21T07:04:10Z
+  Total Products: 35
 - [Shop Mum](https://www.podorganics.com.au/collections/pregnancy-skincare): Discover our Pregnancy Collection – organic skincare designed to soothe, hydrate, and protect your changing body. Safe for all trimesters, powered by nature.
-  Updated: 2026-08-15T11:11:47Z
-  Total Products: 7
+  Updated: 2026-08-21T06:29:34Z
+  Total Products: 8
 - [International - Available for Export](https://www.podorganics.com.au/collections/everyday-baby): Discover our range of meticulously crafted skincare solutions designed exclusively for your baby's needs. Available for domestic and international distribution.
   Updated: 2026-08-15T11:11:47Z
   Total Products: 11
@@ -202,13 +202,13 @@
   Updated: 2026-08-15T11:11:47Z
   Total Products: 6
 - [AVADA - Best Sellers](https://www.podorganics.com.au/collections/avada-best-sellers)
-  Updated: 2026-08-15T11:11:47Z
+  Updated: 2026-08-19T11:09:11Z
   Total Products: 41
 - [New! Shopify performance sharing is now turned on](https://www.podorganics.com.au/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-08-15T11:11:47Z
+  Updated: 2026-08-19T11:09:11Z
   Total Products: 42
 - [Mother’s Day Buy One Get One ](https://www.podorganics.com.au/collections/mothers-day-bogo-): Celebrate Mother’s Day with our Buy One Get One Free offer on selected mum essentials. Thoughtful care for every stage of her journey, with an added gift when you spend $50 or more.
-  Updated: 2026-08-15T11:11:47Z
+  Updated: 2026-08-19T11:09:11Z
   Total Products: 7
 
 ## Blogs
