@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2026-07-11T13:41:51Z
 - Contact Email: contacto@prosalud.me
-- Updated At: 2026-08-18T00:00:43.827Z
+- Updated At: 2026-08-26T00:00:47.718Z
 
 ## Products
 
@@ -1587,69 +1587,89 @@
     Updated: 2026-07-20T16:33:42Z
     Author: Admin
   - [Cómo elegir guantes de nitrilo médicos](https://prosalud.me/blogs/noticias/como-elegir-guantes-de-nitrilo-medicos): Cómo elegir guantes de nitrilo médicos
-    Updated: 2026-07-21T07:03:22Z
+    Updated: 2026-08-23T13:19:58Z
     Author: Admin
   - [Cómo elegir equipo de protección personal hospitalario](https://prosalud.me/blogs/noticias/como-elegir-equipo-de-proteccion-personal-hospitalario): Cómo elegir equipo de protección personal hospitalario
-    Updated: 2026-07-29T17:25:47Z
+    Updated: 2026-08-23T13:19:57Z
     Author: Admin
   - [Cómo elegir un compresor de aire médico](https://prosalud.me/blogs/noticias/como-elegir-un-compresor-de-aire-medico): Cómo elegir un compresor de aire médico
-    Updated: 2026-07-29T17:25:47Z
+    Updated: 2026-08-23T13:20:00Z
     Author: Admin
   - [¿Cómo el diseño de tu clínica impacta en la retención de pacientes?](https://prosalud.me/blogs/noticias/como-el-diseno-de-tu-clinica-impacta-en-la-retencion-de-pacientes)
-    Updated: 2026-07-23T21:36:17Z
+    Updated: 2026-08-23T13:20:43Z
     Author: Eduardo campos
     Tags: Diseño de Consultorios, Equipamiento Médico, Experiencia del Paciente, Mobiliario Clínico, Reputación Médica, Retención de Pacientes
   - [Cómo elegir un sistema para transporte de vacunas](https://prosalud.me/blogs/noticias/como-elegir-un-sistema-para-transporte-de-vacunas): Cómo elegir un sistema para transporte de vacunas
-    Updated: 2026-07-29T17:25:49Z
+    Updated: 2026-08-23T13:20:02Z
     Author: Admin
   - [Mejores termómetros clínicos para uso profesional](https://prosalud.me/blogs/noticias/mejores-termometros-clinicos-para-uso-profesional): Mejores termómetros clínicos para uso profesional
-    Updated: 2026-08-02T17:18:12Z
+    Updated: 2026-08-23T13:20:22Z
     Author: Admin
   - [¿Qué exige COFEPRIS para autorizar una clínica de cirugía estética y evitar sanciones por intrusismo?](https://prosalud.me/blogs/noticias/que-exige-cofepris-para-autorizar-una-clinica-de-cirugia-estetica-y-evitar-sanciones-por-intrusismo)
-    Updated: 2026-07-28T19:52:37Z
+    Updated: 2026-08-23T13:20:48Z
     Author: Eduardo campos
     Tags: COFEPRIS, Equipamiento Hospitalario, Intrusismo Médico, prosalud, Querétaro Salud, Regulación Sanitaria
   - [Purificador de aire para clínica según su área](https://prosalud.me/blogs/noticias/purificador-de-aire-para-clinica-segun-su-area): Purificador de aire para clínica según su área
-    Updated: 2026-08-02T17:18:07Z
+    Updated: 2026-08-23T13:20:30Z
     Author: Admin
   - [Protección radiológica para rayos X clínica](https://prosalud.me/blogs/noticias/proteccion-radiologica-para-rayos-x-clinica): Protección radiológica para rayos X clínica
-    Updated: 2026-07-31T06:46:06Z
+    Updated: 2026-08-23T13:20:28Z
     Author: Admin
   - [¿Cuáles son los riesgos de comprar equipo médico usado o reacondicionado?](https://prosalud.me/blogs/noticias/cuales-son-los-riesgos-de-comprar-equipo-medico-usado-o-reacondicionado)
-    Updated: 2026-07-31T18:46:22Z
+    Updated: 2026-08-23T13:20:39Z
     Author: Eduardo campos
     Tags: Equipamiento Gris, Equipamiento Hospitalario, Querétaro Salud, Regulación COFEPRIS, Riesgo Sanitario
   - [Cómo elegir contenedores para residuos biológicos](https://prosalud.me/blogs/noticias/como-elegir-contenedores-para-residuos-biologicos): Cómo elegir contenedores para residuos biológicos
-    Updated: 2026-08-05T17:08:03Z
+    Updated: 2026-08-23T13:19:56Z
     Author: Admin
   - [Electrocirugía para procedimientos quirúrgicos](https://prosalud.me/blogs/noticias/electrocirugia-para-procedimientos-quirurgicos): Electrocirugía para procedimientos quirúrgicos
-    Updated: 2026-08-04T05:21:48Z
+    Updated: 2026-08-23T13:20:12Z
     Author: Admin
   - [¿Médicos en TikTok o Explotación del Paciente?](https://prosalud.me/blogs/noticias/medicos-en-tiktok-o-explotacion-del-paciente)
-    Updated: 2026-08-05T19:51:55Z
+    Updated: 2026-08-23T13:20:45Z
     Author: Eduardo campos
     Tags: prosalud, Querétaro Salud, Regulación Sanitaria, Riesgo Sanitario
   - [Cómo elegir una báscula médica para su clínica](https://prosalud.me/blogs/noticias/como-elegir-una-bascula-medica-para-su-clinica): Cómo elegir una báscula médica para su clínica
-    Updated: 2026-08-07T03:58:10Z
+    Updated: 2026-08-23T13:20:05Z
     Author: Admin
   - [Limpieza hospitalaria para una operación segura](https://prosalud.me/blogs/noticias/limpieza-hospitalaria-para-una-operacion-segura): Limpieza hospitalaria para una operación segura
-    Updated: 2026-08-09T01:44:56Z
+    Updated: 2026-08-23T13:20:20Z
     Author: Admin
   - [Bioseguridad sanitaria: control operativo clínico](https://prosalud.me/blogs/noticias/bioseguridad-sanitaria-control-operativo-clinico): Bioseguridad sanitaria: control operativo clínico
-    Updated: 2026-08-10T07:31:04Z
+    Updated: 2026-08-23T13:19:48Z
     Author: Admin
   - [El Consultorio Minimalista e "Instagrameable"](https://prosalud.me/blogs/noticias/el-consultorio-minimalista-e-instagrameable)
-    Updated: 2026-08-11T18:07:23Z
+    Updated: 2026-08-23T13:20:08Z
     Author: Eduardo campos
     Tags: Diseño de Consultorios, Equipamiento Hospitalario, Equipamiento Médico, Experiencia del Paciente, Mobiliario Clínico, Reputación Médica, Retención de Pacientes
   - [Compras hospitalarias con control y respaldo](https://prosalud.me/blogs/noticias/compras-hospitalarias-con-control-y-respaldo): Compras hospitalarias con control y respaldo
-    Updated: 2026-08-13T01:46:36Z
+    Updated: 2026-08-23T13:19:51Z
     Author: Admin
   - [Guía para comprar desfibriladores en México](https://prosalud.me/blogs/noticias/guia-para-comprar-desfibriladores-en-mexico): Guía para comprar desfibriladores en México
-    Updated: 2026-08-15T01:45:54Z
+    Updated: 2026-08-23T13:20:16Z
     Author: Admin
   - [Electrocardiógrafos portátiles para uso clínico](https://prosalud.me/blogs/noticias/electrocardiografos-portatiles-para-uso-clinico): Electrocardiógrafos portátiles para uso clínico
-    Updated: 2026-08-17T01:49:44Z
+    Updated: 2026-08-23T13:20:09Z
+    Author: Admin
+  - [Qué incluye un carro rojo para emergencias](https://prosalud.me/blogs/noticias/que-incluye-un-carro-rojo-para-emergencias): Qué incluye un carro rojo para emergencias
+    Updated: 2026-08-23T13:20:34Z
+    Author: Admin
+  - [Qué certificaciones requiere un autoclave](https://prosalud.me/blogs/noticias/que-certificaciones-requiere-un-autoclave): Qué certificaciones requiere un autoclave
+    Updated: 2026-08-23T13:20:32Z
+    Author: Admin
+  - [Clínicas de biohacking y longevidad en México](https://prosalud.me/blogs/noticias/clinicas-de-biohacking-y-longevidad-en-mexico)
+    Updated: 2026-08-23T13:19:50Z
+    Author: Eduardo campos
+    Tags: prosalud
+  - [Hospitales Boutique en Querétaro](https://prosalud.me/blogs/noticias/hospitales-boutique-en-queretaro)
+    Updated: 2026-08-23T13:20:17Z
+    Author: Eduardo campos
+    Tags: Diseño de Consultorios, Equipamiento Hospitalario, Equipamiento Médico, Mobiliario Clínico, Querétaro Salud, Regulación COFEPRIS
+  - [Cómo desinfectar camillas clínicas sin dañar materiales](https://prosalud.me/blogs/noticias/como-desinfectar-camillas-clinicas-sin-danar-materiales): Cómo desinfectar camillas clínicas sin dañar materiales
+    Updated: 2026-08-23T13:19:54Z
+    Author: Admin
+  - [Monitor fetal versus Doppler portátil: cuál elegir](https://prosalud.me/blogs/noticias/monitor-fetal-versus-doppler-portatil-cual-elegir): Monitor fetal versus Doppler portátil: cuál elegir
+    Updated: 2026-08-25T01:51:32Z
     Author: Admin
 
 ## Store Pages
