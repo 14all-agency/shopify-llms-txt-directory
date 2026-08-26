@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2018-08-24T17:42:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-18T00:00:38.116Z
+- Updated At: 2026-08-26T00:00:41.930Z
 
 ## Products
 
@@ -489,7 +489,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/size.png?v=1694024798
   Price: $5.00 USD
 - [Vintage Tour Tee](https://terriclarkmusic.merchmadeeasy.com/products/2022-photo-tour-tee): Color: Black Unisex
-  Updated: 2026-08-13T20:43:38Z
+  Updated: 2026-08-22T22:31:32Z
   Vendor: Terri Clark Music
   Product Type: Apparel
   Availability: Available
@@ -796,7 +796,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/LifeGoesOnCdSIGNED.png?v=1761918640
   Price: $20.00 USD
 - [Greatest Hits Guitar Tee](https://terriclarkmusic.merchmadeeasy.com/products/greatest-hits-guitar-tee): TC hits photo black tee.
-  Updated: 2026-08-17T20:18:23Z
+  Updated: 2026-08-20T05:57:45Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -855,7 +855,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Just The Same Tour Tee](https://terriclarkmusic.merchmadeeasy.com/products/just-the-same-tour-tee): TC hits photo black tee.
-  Updated: 2026-08-13T19:42:03Z
+  Updated: 2026-08-22T16:57:17Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -882,6 +882,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/Mockups_0000_Girls-Lie-Too-Hat.png?v=1783523953
   Price: $45.00 USD
+- [Live From The Ryman Vinyl 2LP (Signed)](https://terriclarkmusic.merchmadeeasy.com/products/live-from-the-ryman-vinyl-signed): ONLY 100 AVAILABLE. Live album recorded at The Ryman in Nashville, Tn. Signed by Terri Clark.
+  Updated: 2026-08-24T21:08:20Z
+  Vendor: Terri Clark
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/Mockup_0001_TC-mock-2-disc-white-signed.png?v=1787599344
+  Price: $50.00 USD
+- [Live From The Ryman Double CD (Signed)](https://terriclarkmusic.merchmadeeasy.com/products/live-from-the-ryman-signed-cd): ONLY 100 AVAILABLE. Live album recorded at The Ryman in Nashville, Tn. Insert signed by Terri Clark.
+  Updated: 2026-08-24T21:08:20Z
+  Vendor: Terri Clark
+  Product Type: Music
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/Mockup_0002_TC-live-from-the-ryman-double-cd-signed.png?v=1787599393
+  Price: $25.00 USD
 - [Terri and Paul Tour Koozie](https://terriclarkmusic.merchmadeeasy.com/products/terri-and-paul-tour-koozie): Black Fits 12oz cans
   Updated: 2026-08-13T20:37:42Z
   Vendor: Terri Clark
@@ -893,28 +907,28 @@
 ## Collections
 
 - [Official Merch](https://terriclarkmusic.merchmadeeasy.com/collections/official-merch)
-  Updated: 2026-08-13T19:47:46Z
+  Updated: 2026-08-23T11:05:58Z
   Total Products: 91
 - [Apparel](https://terriclarkmusic.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-17T17:13:19Z
+  Updated: 2026-08-23T11:05:58Z
   Total Products: 49
 - [Accessories](https://terriclarkmusic.merchmadeeasy.com/collections/accessories)
   Updated: 2026-08-17T17:16:06Z
   Total Products: 48
 - [Music](https://terriclarkmusic.merchmadeeasy.com/collections/music)
-  Updated: 2026-08-13T19:43:13Z
+  Updated: 2026-08-24T20:15:48Z
   Total Products: 23
 - [Hats](https://terriclarkmusic.merchmadeeasy.com/collections/hats)
   Updated: 2026-08-17T16:19:48Z
   Total Products: 15
 - [Featured](https://terriclarkmusic.merchmadeeasy.com/collections/featured)
-  Updated: 2026-08-13T19:42:44Z
+  Updated: 2026-08-24T20:15:39Z
   Total Products: 18
 - [All Products](https://terriclarkmusic.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-08-17T17:16:38Z
+  Updated: 2026-08-24T20:15:48Z
   Total Products: 129
 - [T-Shirts](https://terriclarkmusic.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-08-17T17:13:19Z
+  Updated: 2026-08-23T11:05:58Z
   Total Products: 41
 - [Hoodies](https://terriclarkmusic.merchmadeeasy.com/collections/hoodies)
   Updated: 2026-07-08T22:12:19Z
@@ -929,7 +943,7 @@
   Updated: 2026-07-08T20:17:29Z
   Total Products: 3
 - [CDs](https://terriclarkmusic.merchmadeeasy.com/collections/cds)
-  Updated: 2026-08-05T20:38:41Z
+  Updated: 2026-08-24T20:15:48Z
   Total Products: 15
 - [Digital Albums](https://terriclarkmusic.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:17:29Z
@@ -938,7 +952,7 @@
   Updated: 2026-07-08T20:17:30Z
   Total Products: 0
 - [All](https://terriclarkmusic.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-17T17:16:06Z
+  Updated: 2026-08-24T20:15:48Z
   Total Products: 130
 - [](https://terriclarkmusic.merchmadeeasy.com/collections/)
   Updated: 2026-08-13T19:47:46Z
@@ -950,13 +964,13 @@
   Updated: 2026-08-13T19:42:44Z
   Total Products: 73
 - [2022 Tour Collection](https://terriclarkmusic.merchmadeeasy.com/collections/2022-tour-collection)
-  Updated: 2026-08-13T19:47:46Z
+  Updated: 2026-08-23T11:05:58Z
   Total Products: 16
 - [Merch](https://terriclarkmusic.merchmadeeasy.com/collections/merch)
-  Updated: 2026-08-17T17:16:38Z
+  Updated: 2026-08-24T20:15:39Z
   Total Products: 111
 - [Best Sellers](https://terriclarkmusic.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-08-13T19:47:46Z
+  Updated: 2026-08-23T11:05:58Z
   Total Products: 23
 - [Cold Weather Collection](https://terriclarkmusic.merchmadeeasy.com/collections/cold-weather-collection)
   Updated: 2026-07-15T11:06:27Z
@@ -965,7 +979,7 @@
   Updated: 2026-08-07T11:06:51Z
   Total Products: 9
 - [Buy One, Get One 50% Off](https://terriclarkmusic.merchmadeeasy.com/collections/buy-one-get-one-50-off)
-  Updated: 2026-07-20T11:06:57Z
+  Updated: 2026-08-23T11:05:58Z
   Total Products: 15
 - [Hat Brat Fan Club](https://terriclarkmusic.merchmadeeasy.com/collections/hat-brat-fan-club)
   Updated: 2026-07-22T11:06:32Z
@@ -974,7 +988,7 @@
   Updated: 2026-07-23T11:06:14Z
   Total Products: 20
 - [EasyGift All Products](https://terriclarkmusic.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-08-17T17:16:38Z
+  Updated: 2026-08-24T20:15:48Z
   Total Products: 129
 - [Koozies](https://terriclarkmusic.merchmadeeasy.com/collections/koozies)
   Updated: 2026-08-17T17:16:38Z
@@ -986,26 +1000,26 @@
   Updated: 2026-07-08T22:12:15Z
   Total Products: 3
 - [Greatest Hits Anniversary](https://terriclarkmusic.merchmadeeasy.com/collections/greatest-hits-anniversary)
-  Updated: 2026-08-03T19:54:10Z
+  Updated: 2026-08-20T11:05:50Z
   Total Products: 6
 - [Signed Media](https://terriclarkmusic.merchmadeeasy.com/collections/signed-cds)
-  Updated: 2026-08-13T19:42:44Z
+  Updated: 2026-08-24T20:15:48Z
   Total Products: 10
 - [Stocking Stuffers](https://terriclarkmusic.merchmadeeasy.com/collections/stocking-stuffers-1)
-  Updated: 2026-08-17T17:16:38Z
-  Total Products: 57
+  Updated: 2026-08-24T14:53:33Z
+  Total Products: 56
 - [NEW ARRIVALS](https://terriclarkmusic.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-08-09T11:06:27Z
+  Updated: 2026-08-23T11:05:58Z
   Total Products: 14
 - [Spring BOGO ](https://terriclarkmusic.merchmadeeasy.com/collections/spring-)
-  Updated: 2026-08-17T17:16:39Z
+  Updated: 2026-08-23T11:05:58Z
   Total Products: 107
-- [Tour Merch](https://terriclarkmusic.merchmadeeasy.com/collections/tour-merch)
-  Updated: 2026-08-17T16:19:48Z
-  Total Products: 13
-- [Live From The Ryman](https://terriclarkmusic.merchmadeeasy.com/collections/live-from-the-ryman)
-  Updated: 2026-08-05T20:38:49Z
+- [Live From The Ryman](https://terriclarkmusic.merchmadeeasy.com/collections/live-from-the-ryman): Terri Clark Live From The Ryman on double vinyl & CD with special guests Ashley McBryde & Trisha Yearwood. Available 10.30.26
+  Updated: 2026-08-24T20:15:48Z
   Total Products: 2
+- [Tour](https://terriclarkmusic.merchmadeeasy.com/collections/tour)
+  Updated: 2026-08-24T15:32:20Z
+  Total Products: 13
 
 ## Store Pages
 
