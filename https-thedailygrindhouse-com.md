@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-04-18T14:51:11Z
 - Contact Email: thedailygrindhouse2026@gmail.com
-- Updated At: 2026-08-18T00:00:40.198Z
+- Updated At: 2026-08-26T00:00:47.310Z
 
 ## Products
 
-- [Candy Cane Flavored Ground Coffee | Peppermint Holiday Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/candy-cane): Sweet peppermint meets bold coffee in our Candy Cane roast. A festive, refreshing flavored coffee perfect for the holiday season.
-  Updated: 2026-08-08T17:26:00Z
+- [Candy Cane Flavored Ground Coffee | Peppermint Holiday Medium Roast |](https://thedailygrindhouse.com/products/candy-cane): Unwrap the magic of the holidays in every cup. Our Candy Cane flavored coffee blends bold, smooth roasted beans with the cool, sweet essence of peppermint — a
+  Updated: 2026-08-22T15:11:22Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -67,29 +67,29 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/candy-cane?variant=49110408560882)
     Availability: Available
     Price: $84.99 USD
-- [Matcha Ceremonial Grade Green Tea Powder | Premium Japanese Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/matcha): Stone-milled, shade-grown matcha with smooth umami flavor and vibrant green color. Perfect for lattes, traditional prep, and baking.
-  Updated: 2026-08-08T14:56:35Z
+- [Matcha Ceremonial Grade Green Tea Powder | Premium Japanese Loose](https://thedailygrindhouse.com/products/matcha): Refined, vibrant, and deeply grounding — our Matcha is crafted for those who approach their daily ritual with intention. Stone-milled from shade-grown tea
+  Updated: 2026-08-22T15:11:23Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest.jpg?v=1785320557
   Price: $18.39 USD
-- [Hojicha Roasted Japanese Green Tea | Smooth Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/hojicha): Stone-milled hojicha with toasty caramel notes and low caffeine. Perfect for lattes and evening rituals. Premium quality from The Daily Grindhouse.
-  Updated: 2026-08-08T15:51:39Z
+- [Hojicha Roasted Japanese Green Tea | Smooth Loose Leaf | The Daily](https://thedailygrindhouse.com/products/hojicha): Warm, toasty, and wonderfully comforting — our Hojicha is roasted green tea at its finest. Crafted from carefully selected leaves and stems, then stone-milled
+  Updated: 2026-08-22T15:11:23Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest_b5a35108-4495-4a3a-8528-1f2df380c830.jpg?v=1785320689
   Price: $18.39 USD
-- [Moroccan Mint Green Tea | Refreshing Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/moroccan-mint): Classic Moroccan Mint green tea — bold, refreshing, and smooth. Perfect hot or iced. Premium loose leaf from The Daily Grindhouse.
-  Updated: 2026-08-08T12:53:42Z
+- [Moroccan Mint Green Tea | Refreshing Loose Leaf | The Daily](https://thedailygrindhouse.com/products/moroccan-mint): Bold green tea meets cool, fresh mint in a blend that's been a cornerstone of North African hospitality for centuries. Our Moroccan Mint is vibrant, smooth
+  Updated: 2026-08-22T15:11:24Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest_b456cba2-23f8-4d26-be7e-7a6a5961d185.jpg?v=1785320817
   Price: $17.24 USD
-- [Mint Flavored Ground Coffee | Cool Refreshing Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/mint): Mint flavored coffee — cool, refreshing, and smooth. Single origin specialty-grade base with all-natural mint flavoring. Great hot or iced.
-  Updated: 2026-08-08T17:16:40Z
+- [Mint Flavored Ground Coffee | Cool Refreshing Medium Roast | The](https://thedailygrindhouse.com/products/mint): Cool, refreshing, and surprisingly smooth — our Mint flavored coffee is a clean, invigorating cup that wakes up your senses from the very first sip. A
+  Updated: 2026-08-22T15:11:24Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -145,8 +145,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/mint?variant=49110409740530)
     Availability: Available
     Price: $84.99 USD
-- [French Vanilla Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/french-vanilla): French Vanilla flavored coffee — rich, creamy, and silky smooth. Medium roast Arabica with natural vanilla flavoring. No added sugar. A timeless classic.
-  Updated: 2026-08-08T14:12:56Z
+- [French Vanilla Flavored Ground Coffee | Medium Roast | The Daily](https://thedailygrindhouse.com/products/french-vanilla): Rich, creamy, and perfectly smooth — our French Vanilla flavored coffee is a classic for a reason. The silky, well-rounded vanilla flavor blends seamlessly
+  Updated: 2026-08-22T15:11:25Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -211,8 +211,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/french-vanilla?variant=49110410428658)
     Availability: Available
     Price: $169.99 USD
-- [Hazelnut Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/hazelnut): Hazelnut flavored coffee — warm, nutty, and naturally sweet. Brazilian Arabica base with natural hazelnut flavoring. No added sugar. A timeless classic.
-  Updated: 2026-08-08T17:28:38Z
+- [Hazelnut Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/hazelnut): A timeless classic — our Hazelnut flavored coffee is the one that started it all for flavored coffee lovers everywhere. Nutty, smooth, and naturally sweet, it
+  Updated: 2026-08-22T15:11:26Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -277,8 +277,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/hazelnut?variant=49110411149554)
     Availability: Available
     Price: $169.99 USD
-- [Mexican Chocolate Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/mexican-chocolate): Mexican Chocolate flavored coffee — chocolate, cinnamon, and vanilla in a smooth medium roast. Natural flavoring, no added sugar. Perfect with Kahlua or Tequila.
-  Updated: 2026-08-08T13:08:53Z
+- [Mexican Chocolate Flavored Ground Coffee | Medium Roast | The Daily](https://thedailygrindhouse.com/products/mexican-chocolate): Bold, spiced, and beautifully complex — our Mexican Chocolate flavored coffee is inspired by the rich tradition of Mexican hot chocolate. Hints of chocolate
+  Updated: 2026-08-22T15:11:27Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -343,8 +343,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/mexican-chocolate?variant=49110411837682)
     Availability: Available
     Price: $169.99 USD
-- [Chocolate Hazelnut Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/chocolate-hazelnut): Chocolate Hazelnut flavored coffee — rich chocolate and warm hazelnut in a smooth medium roast. Natural flavoring, no added sugar. The ultimate dessert coffee.
-  Updated: 2026-08-08T17:26:59Z
+- [Chocolate Hazelnut Flavored Ground Coffee | Medium Roast | The Daily](https://thedailygrindhouse.com/products/chocolate-hazelnut): Can’t decide between hazelnut and mocha? Now you don’t have to. Our Chocolate Hazelnut flavored coffee brings together the rich depth of chocolate and the warm
+  Updated: 2026-08-22T15:11:27Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -409,8 +409,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/chocolate-hazelnut?variant=49110412525810)
     Availability: Available
     Price: $169.99 USD
-- [Cinnabun Flavored Ground Coffee | Sweet Cinnamon Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/cinnabun): Cinnabun flavored coffee — all the taste of a cinnamon roll with no added sugar. Smooth medium roast with natural cinnamon roll flavoring. Guilt-free indulgence.
-  Updated: 2026-08-08T14:35:23Z
+- [Cinnabun Flavored Ground Coffee | Sweet Cinnamon Medium Roast | The](https://thedailygrindhouse.com/products/cinnabun): All the flavor of a fresh-baked cinnamon roll — zero calories, zero guilt. Our Cinnabun flavored coffee captures the warm, sweet, doughy magic of your favorite
+  Updated: 2026-08-22T15:11:28Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -475,8 +475,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/cinnabun?variant=49110413508850)
     Availability: Available
     Price: $169.99 USD
-- [Cinnamon Hazelnut Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/cinnamon-hazelnut): Cinnamon Hazelnut flavored coffee — warm spice and nutty sweetness in a smooth medium roast. Natural flavoring, no added sugar. Cozy and aromatic.
-  Updated: 2026-08-08T14:34:47Z
+- [Cinnamon Hazelnut Flavored Ground Coffee | Medium Roast | The Daily](https://thedailygrindhouse.com/products/cinnamon-hazelnut): Warm spice meets nutty sweetness — our Cinnamon Hazelnut flavored coffee is a smooth, mellow cup that’s as comforting as it is delicious. The combination of
+  Updated: 2026-08-22T15:11:29Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -541,8 +541,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/cinnamon-hazelnut?variant=49110414196978)
     Availability: Available
     Price: $169.99 USD
-- [Caramel Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/caramel): Caramel flavored coffee — sweet, buttery, and smooth. Medium roast Arabica with all-natural caramel flavoring. No added sugar. Perfect for lattes and drip.
-  Updated: 2026-08-08T18:36:10Z
+- [Caramel Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/caramel): Sweet, buttery, and irresistibly smooth — our Caramel flavored coffee wraps a medium roast specialty-grade Arabica in a rich, all-natural caramel flavor that’s
+  Updated: 2026-08-22T15:11:29Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -607,8 +607,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/caramel?variant=49110415048946)
     Availability: Available
     Price: $169.99 USD
-- [Pumpkin Spice Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/pumpkin-spice-1): Pumpkin Spice flavored coffee available year round — pumpkin, cinnamon, and nutmeg in a smooth medium roast. All-natural, no added sugar.
-  Updated: 2026-08-08T13:17:50Z
+- [Pumpkin Spice Flavored Ground Coffee | Medium Roast | The Daily](https://thedailygrindhouse.com/products/pumpkin-spice-1): The seasonal favorite that’s too good to limit to one season — our Pumpkin Spice flavored coffee is available year round. Warm hints of pumpkin, cinnamon, and
+  Updated: 2026-08-22T15:11:30Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -673,8 +673,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/pumpkin-spice-1?variant=49110416654578)
     Availability: Available
     Price: $169.99 USD
-- [Turtle Flavored Ground Coffee | Caramel Pecan Chocolate Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/turtle): Turtle flavored coffee — chocolate, caramel, and hazelnut. Single origin specialty-grade base with all-natural flavoring. Rich, indulgent, and smooth.
-  Updated: 2026-08-08T13:05:39Z
+- [Turtle Flavored Ground Coffee | Caramel Pecan Chocolate Medium Roast](https://thedailygrindhouse.com/products/turtle): Indulgent, rich, and utterly irresistible — our Turtle flavored coffee brings together the classic combination of chocolate, caramel, and hazelnut in one
+  Updated: 2026-08-22T15:11:31Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -730,8 +730,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/turtle?variant=49110417277170)
     Availability: Available
     Price: $84.99 USD
-- [Mocha Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/mocha): Mocha flavored coffee — rich chocolate infused into a smooth medium roast Arabica. All-natural, no added sugar. The coffee shop mocha in your own kitchen.
-  Updated: 2026-08-08T14:32:09Z
+- [Mocha Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/mocha): For those who want the best of both worlds — our Mocha flavored coffee delivers rich chocolate decadence gently infused into a smooth, medium roast
+  Updated: 2026-08-22T15:11:32Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -796,8 +796,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/mocha?variant=49110417965298)
     Availability: Available
     Price: $169.99 USD
-- [Pecan Pie Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/pecan-pie-1): Pecan Pie flavored coffee — roasted pecans, caramelized sugar, and browned butter. All-natural, gluten free, vegan, no added sugar. Roasted to order.
-  Updated: 2026-08-08T16:17:19Z
+- [Pecan Pie Flavored Ground Coffee | Medium Roast | The Daily](https://thedailygrindhouse.com/products/pecan-pie-1): Warm, buttery, and deeply satisfying — our Pecan Pie flavored coffee captures the essence of a freshly baked pecan pie in every cup. Roasted pecans
+  Updated: 2026-08-22T15:11:32Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -850,8 +850,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/pecan-pie-1?variant=49110419177714)
     Availability: Available
     Price: $84.99 USD
-- [S'mores Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/smores): S'mores flavored coffee — toasted marshmallow, chocolate, and graham cracker. Single origin specialty-grade base with all-natural flavoring. Roasted to order.
-  Updated: 2026-08-08T18:30:21Z
+- [S'mores Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/smores): Campfire nostalgia in a cup — our S’mores flavored coffee captures the magic of toasted marshmallow, rich chocolate, and graham cracker in every sip. A blend
+  Updated: 2026-08-22T15:11:33Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -904,8 +904,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/smores?variant=49110419734770)
     Availability: Available
     Price: $84.99 USD
-- [Dubai Chocolate Flavored Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/dubai-chocolate): Dubai Chocolate flavored coffee — rich, indulgent, and smooth. Single origin specialty-grade base with all-natural chocolate flavoring. Roasted to order.
-  Updated: 2026-08-08T12:30:50Z
+- [Dubai Chocolate Flavored Ground Coffee | Medium Roast | The Daily](https://thedailygrindhouse.com/products/dubai-chocolate): Inspired by the viral Dubai chocolate sensation — our Dubai Chocolate flavored coffee delivers that same indulgent, exotic richness in every cup. A blend of
+  Updated: 2026-08-22T15:11:34Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -958,8 +958,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/dubai-chocolate?variant=49110420291826)
     Availability: Available
     Price: $84.99 USD
-- [Blonde Light Roast Ground Coffee | Smooth & Mellow Blend | The Daily Grindhouse](https://thedailygrindhouse.com/products/blonde): Blonde light roast coffee from Central America and Africa. Sweet, bright, and floral — perfect for sweet espresso and delicate pour-overs.
-  Updated: 2026-08-08T14:13:38Z
+- [Blonde Light Roast Ground Coffee | Smooth & Mellow Blend | The Daily](https://thedailygrindhouse.com/products/blonde): Light, sweet, and surprisingly complex — our Blonde is a light roast blend that lets the natural character of Central American and African coffees shine
+  Updated: 2026-08-22T15:11:35Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1015,8 +1015,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/blonde?variant=49110423994610)
     Availability: Available
     Price: $84.99 USD
-- [Italian Roast Ground Coffee | Extra Dark Bold Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/italian-roast): A bold, intensely dark roast with a rich, smoky finish. Our Italian Roast is built for espresso lovers and dark roast devotees.
-  Updated: 2026-08-08T12:16:47Z
+- [Italian Roast Ground Coffee | Extra Dark Bold Roast | The Daily](https://thedailygrindhouse.com/products/italian-roast): For those who demand the boldest cup in the room. Our Italian Roast is a slow-roasted blend of specialty-grade Arabica and Robusta beans, pushed to their
+  Updated: 2026-08-22T15:11:35Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1072,22 +1072,22 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/italian-roast?variant=49110424584434)
     Availability: Available
     Price: $84.99 USD
-- [12 Pack Single Serve Coffee Capsules | K-Cup Compatible | The Daily Grindhouse](https://thedailygrindhouse.com/products/12-pack-single-serve-coffee-capsules): 12-pack K-Cup coffee pods for Keurig — our signature Original Roast blend. Rich, smooth, and freshness-sealed for the perfect single serve cup.
-  Updated: 2026-08-08T14:52:21Z
+- [12 Pack Single Serve Coffee Capsules | K-Cup Compatible | The Daily](https://thedailygrindhouse.com/products/12-pack-single-serve-coffee-capsules): Our signature Original Roast — a premium blend of specialty gourmet coffees crafted for a rich, full-bodied cup — now in a 12-pack of K-Cups compatible with
+  Updated: 2026-08-22T15:11:36Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $15.99 USD
-- [60 Pack Single Serve Coffee Capsules | K-Cup Compatible | The Daily Grindhouse](https://thedailygrindhouse.com/products/60-pack-single-serve-coffee-capsules): 60-pack K-Cup coffee pods for Keurig — our signature Original Roast blend. Rich, smooth, and freshness-sealed. Best value single serve coffee.
-  Updated: 2026-08-08T16:45:43Z
+- [60 Pack Single Serve Coffee Capsules | K-Cup Compatible | The Daily](https://thedailygrindhouse.com/products/60-pack-single-serve-coffee-capsules): Our signature Original Roast — a premium blend of specialty gourmet coffees crafted for a rich, full-bodied cup — now in a 60-pack of K-Cups compatible with
+  Updated: 2026-08-22T15:11:37Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $56.99 USD
-- [6 Bean Blend Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/6-bean-blend): Six origin coffee blend — Ethiopia, Uganda, Nicaragua, Mexico, Peru, and Brazil. Complex, layered, and balanced. The ultimate multi-origin cup.
-  Updated: 2026-08-08T17:00:40Z
+- [6 Bean Blend Ground Coffee | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/6-bean-blend): Six origins. One extraordinary cup. Our 6 Bean Blend brings together some of the world’s most celebrated coffee-growing regions — Ethiopia, Uganda, Nicaragua
+  Updated: 2026-08-22T15:11:37Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1155,8 +1155,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/6-bean-blend?variant=49110426550514)
     Availability: Available
     Price: $169.99 USD
-- [Breakfast Blend Ground Coffee | Light Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/breakfast-blend): Smooth medium roast Breakfast Blend from Brazil, Mexico, and Peru. Clean, balanced, and crowd-pleasing — the perfect everyday morning coffee.
-  Updated: 2026-08-08T12:55:30Z
+- [Breakfast Blend Ground Coffee | Light Medium Roast | The Daily](https://thedailygrindhouse.com/products/breakfast-blend): The perfect start to any morning — our Breakfast Blend is a smooth, approachable medium roast that delivers consistent, satisfying flavor without any fuss. A
+  Updated: 2026-08-22T15:11:38Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1224,8 +1224,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/breakfast-blend?variant=49110427435250)
     Availability: Available
     Price: $169.99 USD
-- [Breakfast Blend Plus Ground Coffee | Upgraded Light Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/breakfast-blend-1): Everything you love about our Breakfast Blend, elevated. More depth, more complexity — the perfect upgraded morning cup.
-  Updated: 2026-08-08T14:10:44Z
+- [Breakfast Blend Plus Ground Coffee | Upgraded Light Medium Roast |](https://thedailygrindhouse.com/products/breakfast-blend-1): Everything you love about a classic morning cup — turned up a notch. Breakfast Blend + is our house medium roast elevated with a Robusta boost for extra
+  Updated: 2026-08-22T15:11:39Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1290,8 +1290,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/breakfast-blend-1?variant=49110428221682)
     Availability: Available
     Price: $169.99 USD
-- [African Espresso Blend Ground Coffee | Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/african-espresso): African Espresso blend from Kenya, Tanzania, and Ethiopia. Medium-dark roast with bright citrus, floral, and dark fruit notes. Perfect for espresso.
-  Updated: 2026-08-08T14:49:03Z
+- [African Espresso Blend Ground Coffee | Dark Roast | The Daily](https://thedailygrindhouse.com/products/african-espresso): Bold, bright, and unmistakably African — our African Espresso blend brings together the finest coffee-growing regions on the continent for a medium-dark
+  Updated: 2026-08-22T15:11:39Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1356,8 +1356,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/african-espresso?variant=49110429139186)
     Availability: Available
     Price: $169.99 USD
-- [Cowboy Blend Ground Coffee | Bold Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/cowboy-blend): Cowboy Blend — dark and medium roast coffee with cocoa, caramel, and vanilla tones. Bold, smooth, and built for serious coffee drinkers.
-  Updated: 2026-08-08T13:41:42Z
+- [Cowboy Blend Ground Coffee | Bold Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/cowboy-blend): Rugged, bold, and built for those who like their coffee with character — Cowboy Blend combines the intensity of a dark roast with the approachability of a
+  Updated: 2026-08-22T15:11:40Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1425,8 +1425,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/cowboy-blend?variant=49110429991154)
     Availability: Available
     Price: $169.99 USD
-- [Latin American Blend Ground Coffee | Smooth Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/latin-american-blend): Medium-dark Latin American coffee blend — nutty, fruity, and cocoa-finished. Shade-grown, environmentally friendly, and full-flavored.
-  Updated: 2026-08-08T16:59:24Z
+- [Latin American Blend Ground Coffee | Smooth Medium Roast | The Daily](https://thedailygrindhouse.com/products/latin-american-blend): Rich, full-flavored, and grown with purpose — our Latin American Blend is a medium-dark roast that brings together the finest shade-grown coffees from Central
+  Updated: 2026-08-22T15:11:41Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1467,8 +1467,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/latin-american-blend?variant=49110430417138)
     Availability: Available
     Price: $84.99 USD
-- [Asian Plateau Blend Ground Coffee | Medium Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/asian-plateau-blend): Medium roast Asian Plateau coffee blend — herbal, heavy body, and strong aroma. Southeast Asian highlands, full sun grown and washed processed.
-  Updated: 2026-08-08T14:06:29Z
+- [Asian Plateau Blend Ground Coffee | Medium Dark Roast | The Daily](https://thedailygrindhouse.com/products/asian-plateau-blend): Deep, herbal, and unmistakably Southeast Asian — our Asian Plateau Blend is a medium roast that captures the bold, earthy character of coffees grown under the
+  Updated: 2026-08-22T15:11:41Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1509,8 +1509,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/asian-plateau-blend?variant=49110430941426)
     Availability: Available
     Price: $84.99 USD
-- [African Kahawa Blend Ground Coffee | Medium Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/african-kahawa-blend): African Kahawa medium-dark roast blend — toffee, caramel, chocolate, and red fruit with a soft floral finish. Hand-processed, sun dried African coffees.
-  Updated: 2026-08-08T14:05:36Z
+- [African Kahawa Blend Ground Coffee | Medium Dark Roast | The Daily](https://thedailygrindhouse.com/products/african-kahawa-blend): Complex, vibrant, and grown with extraordinary care — our African Kahawa Blend is a medium-dark roast that showcases the incredible diversity of African-grown
+  Updated: 2026-08-22T15:11:42Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1551,8 +1551,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/african-kahawa-blend?variant=49110431727858)
     Availability: Available
     Price: $84.99 USD
-- [House Blend Ground Coffee | Smooth Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/house-blend): The Daily Grindhouse House Blend — smooth, clean medium roast from Central and South America. Nutty, chocolate, and citrus notes. Consistently excellent.
-  Updated: 2026-08-08T12:00:17Z
+- [House Blend Ground Coffee | Smooth Medium Roast | The Daily](https://thedailygrindhouse.com/products/house-blend): This is the one. Our House Blend is the coffee we’re most proud of — a medium roast blend of select coffees from Central and South America that delivers a
+  Updated: 2026-08-22T15:11:42Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1593,8 +1593,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/house-blend?variant=49110433038578)
     Availability: Available
     Price: $84.99 USD
-- [Gourmet Donut Shop Ground Coffee | Medium Roast Blend | The Daily Grindhouse](https://thedailygrindhouse.com/products/gourmet-donut-shop): Gourmet Donut Shop light-medium roast — cocoa, caramel, toffee, and mild fruit. A perfectly balanced morning coffee with classic coffee shop flavor.
-  Updated: 2026-08-08T14:17:27Z
+- [Gourmet Donut Shop Ground Coffee | Medium Roast Blend | The Daily](https://thedailygrindhouse.com/products/gourmet-donut-shop): The coffee shop experience, right in your kitchen. Our Gourmet Donut Shop blend is a light-medium roast crafted to deliver that classic, comforting coffee shop
+  Updated: 2026-08-22T15:11:43Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1635,8 +1635,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/gourmet-donut-shop?variant=49110434054386)
     Availability: Available
     Price: $84.99 USD
-- [Holiday Blend Ground Coffee | Festive Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/holiday-blend): Festive Holiday Blend from Brazil, Peru, and India. Warm, rich, and comforting — the perfect seasonal coffee for sharing and gifting.
-  Updated: 2026-08-08T11:41:26Z
+- [Holiday Blend Ground Coffee | Festive Medium Roast | The Daily](https://thedailygrindhouse.com/products/holiday-blend): Warm, festive, and crafted to bring people together — our Holiday Blend is a seasonal celebration in every cup. Sourced from Brazil, Peru, and India, this
+  Updated: 2026-08-22T15:11:44Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1692,8 +1692,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/holiday-blend?variant=49110435496178)
     Availability: Available
     Price: $84.99 USD
-- [Cold Brew Ground Coffee | Coarse Grind Dark Roast Blend | The Daily Grindhouse](https://thedailygrindhouse.com/products/cold-brew-coffee-1): Cold Brew coffee blend with chocolate, toffee, and floral notes. Medium roast optimized for cold brew and nitro. Smooth, naturally sweet, and full-bodied.
-  Updated: 2026-08-08T14:15:31Z
+- [Cold Brew Ground Coffee | Coarse Grind Dark Roast Blend | The Daily](https://thedailygrindhouse.com/products/cold-brew-coffee-1): Smooth, rich, and built for cold — our Cold Brew Coffee blend is specifically crafted to shine when brewed low and slow. A medium roast with chocolate, toffee
+  Updated: 2026-08-22T15:11:45Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1758,8 +1758,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/cold-brew-coffee-1?variant=49110436184306)
     Availability: Available
     Price: $169.99 USD
-- [Whiskey Barrel Aged Ground Coffee | Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/whiskey-barrel-aged): Single origin Guatemala coffee aged 30 days in a Bourbon barrel and roasted to order. Warm, complex, and unlike anything else. A truly unique coffee.
-  Updated: 2026-08-08T12:43:51Z
+- [Whiskey Barrel Aged Ground Coffee | Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/whiskey-barrel-aged): Where craft coffee meets craft spirits — our Whiskey Barrel Aged coffee is a one-of-a-kind experience. We take single origin Guatemala beans and age them for
+  Updated: 2026-08-22T15:11:45Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1824,8 +1824,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/whiskey-barrel-aged?variant=49110436872434)
     Availability: Available
     Price: $169.99 USD
-- [Max Caf High Caffeine Ground Coffee | Dark Roast Blend | The Daily Grindhouse](https://thedailygrindhouse.com/products/max-caf-blend): Max Caf high caffeine coffee blend — Tanzania Arabica and India Robusta for maximum energy. Bold, full-bodied, and intense.
-  Updated: 2026-08-08T13:29:16Z
+- [Max Caf High Caffeine Ground Coffee | Dark Roast Blend | The Daily](https://thedailygrindhouse.com/products/max-caf-blend): Not for the faint of heart — Max Caf is our highest-caffeine blend, engineered for those who need serious fuel. By combining the brightness of Tanzania Arabica
+  Updated: 2026-08-22T15:11:46Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1890,8 +1890,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/max-caf-blend?variant=49110438871282)
     Availability: Available
     Price: $169.99 USD
-- [Kopi Safari Ground Coffee | Medium Dark Roast Blend | The Daily Grindhouse](https://thedailygrindhouse.com/products/kopi-safari): Kopi Safari post-roast coffee blend — lively, grounding, and perfectly balanced. A bright and adventurous cup from The Daily Grindhouse.
-  Updated: 2026-08-08T11:42:06Z
+- [Kopi Safari Ground Coffee | Medium Dark Roast Blend | The Daily](https://thedailygrindhouse.com/products/kopi-safari): An adventure in every cup — Kopi Safari is a post-roast blend that captures the spirit of discovery. Lively and grounding, it strikes a perfect harmony between
+  Updated: 2026-08-22T15:11:47Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -1944,36 +1944,36 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/kopi-safari?variant=49110439690482)
     Availability: Available
     Price: $84.99 USD
-- [Premium Instant Coffee | Single Serve Packets | The Daily Grindhouse](https://thedailygrindhouse.com/products/instant-coffee): Premium instant coffee in a 30-serving resealable pouch. Freeze-dried for rich, smooth flavor. Perfect for travel, office, and on-the-go brewing.
-  Updated: 2026-08-08T14:08:01Z
+- [Premium Instant Coffee | Single Serve Packets | The Daily Grindhouse](https://thedailygrindhouse.com/products/instant-coffee): All the flavor of a freshly brewed cup — in seconds. Our Instant Coffee is crafted from premium specialty-grade beans, freeze-dried to lock in the rich, smooth
+  Updated: 2026-08-22T15:11:47Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $18.39 USD
-- [Mushroom Coffee Ground | Dark Roast Functional Blend | The Daily Grindhouse](https://thedailygrindhouse.com/products/coffee-with-mushrooms-dark-roast): Bold dark roast coffee blended with Lion's Mane, Cordyceps, and Reishi mushrooms. Specialty-grade Arabica with rich, full-bodied flavor and a clean finish.
-  Updated: 2026-08-09T04:10:42Z
+- [Mushroom Coffee Ground | Dark Roast Functional Blend | The Daily](https://thedailygrindhouse.com/products/coffee-with-mushrooms-dark-roast): Your morning ritual, elevated. Our Mushroom Coffee Ground Dark Roast combines specialty-grade dark roast coffee with a thoughtfully sourced blend of functional
+  Updated: 2026-08-22T15:11:48Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $17.84 USD
-- [Mushroom Coffee Ground | Medium Roast Functional Blend | The Daily Grindhouse](https://thedailygrindhouse.com/products/coffee-with-mushrooms-medium-roast): Medium roast coffee blended with Lion's Mane, Cordyceps, and Reishi mushrooms. Smooth, balanced, specialty-grade Arabica with an earthy depth and clean finish.
-  Updated: 2026-08-09T02:35:33Z
+- [Mushroom Coffee Ground | Medium Roast Functional Blend | The Daily](https://thedailygrindhouse.com/products/coffee-with-mushrooms-medium-roast): Your morning ritual, elevated. Our Mushroom Coffee Ground Medium Roast combines specialty-grade medium roast coffee with a thoughtfully sourced blend of
+  Updated: 2026-08-22T15:11:49Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $17.84 USD
-- [Instant Mushroom Coffee | Functional Single Serve Packets | The Daily Grindhouse](https://thedailygrindhouse.com/products/instant-coffee-with-mushroom): Premium instant coffee blended with Lion's Mane, Cordyceps, and Reishi mushrooms. Smooth, satisfying, and ready in seconds — approximately 42 servings per pack.
-  Updated: 2026-08-09T03:00:45Z
+- [Instant Mushroom Coffee | Functional Single Serve Packets | The Daily](https://thedailygrindhouse.com/products/instant-coffee-with-mushroom): Your morning ritual, simplified. Our Instant Mushroom Coffee blends premium instant coffee with a thoughtfully sourced trio of mushrooms — Lion's Mane
+  Updated: 2026-08-22T15:11:49Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $18.39 USD
-- [Bali Blue Single Origin Coffee Beans | Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/bali-blue): Single origin Bali Blue coffee from Kintamani — dark chocolate, molasses, and brown sugar. Medium-dark roast, wet-hulled from volcanic highlands.
-  Updated: 2026-08-08T15:49:44Z
+- [Bali Blue Single Origin Coffee Beans | Dark Roast | The Daily](https://thedailygrindhouse.com/products/bali-blue): Bold, rich, and rooted in the volcanic highlands of Kintamani — our Bali Blue single origin is Indonesian coffee at its finest. Grown by smallholder farmers at
+  Updated: 2026-08-22T15:11:50Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2038,8 +2038,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/bali-blue?variant=49110441066738)
     Availability: Available
     Price: $169.99 USD
-- [Brazil Santos Single Origin Coffee Beans | Medium Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/brazil-santos): Single origin Brazil Santos coffee from Parana and Sao Paulo — cocoa, smooth, and silky. Medium roast, pulped natural process from Fazenda Santa Barbara.
-  Updated: 2026-08-08T18:23:01Z
+- [Brazil Santos Single Origin Coffee Beans | Medium Dark Roast | The](https://thedailygrindhouse.com/products/brazil-santos): Smooth, elegant, and effortlessly drinkable — our Brazil Santos single origin is the definition of a reliable, high-quality everyday coffee. Sourced from the
+  Updated: 2026-08-22T15:11:50Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2104,8 +2104,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/brazil-santos?variant=49110441820402)
     Availability: Available
     Price: $169.99 USD
-- [Colombia Single Origin Coffee Beans | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/colombia): Single origin Colombia coffee from Medellin — dried orange, berry, and chocolate. Medium roast, fully washed and solar dried from Antioquia.
-  Updated: 2026-08-08T12:33:59Z
+- [Colombia Single Origin Coffee Beans | Medium Roast | The Daily](https://thedailygrindhouse.com/products/colombia): Colombia is synonymous with great coffee, and this single origin from Medellin's Antioquia region lives up to every expectation. Grown by smallholder farmers
+  Updated: 2026-08-22T15:11:51Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2170,8 +2170,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/colombia?variant=49110442508530)
     Availability: Available
     Price: $169.99 USD
-- [Costa Rica Single Origin Coffee Beans | Medium Light Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/costa-rica): Single origin Costa Rica coffee from Alajuela — sweet apple, raisin, and honey. Medium roast, eco-pulped and sun dried on volcanic loam.
-  Updated: 2026-08-08T12:36:02Z
+- [Costa Rica Single Origin Coffee Beans | Medium Light Roast | The](https://thedailygrindhouse.com/products/costa-rica): Sweet, clean, and beautifully nuanced — our Costa Rica single origin comes from micro farms in Alajuela, a region celebrated for its ideal coffee-growing
+  Updated: 2026-08-22T15:11:52Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2236,8 +2236,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/costa-rica?variant=49110443229426)
     Availability: Available
     Price: $169.99 USD
-- [Ethiopia Natural Single Origin Coffee Beans | Light Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/ethiopia-natural): Single origin Ethiopia Natural coffee from Sidama — milk chocolate, fruity, and caramel. Medium-light roast, full natural process, heirloom cultivars.
-  Updated: 2026-08-08T11:58:11Z
+- [Ethiopia Natural Single Origin Coffee Beans | Light Roast | The Daily](https://thedailygrindhouse.com/products/ethiopia-natural): Ethiopia is the birthplace of coffee, and this natural-processed single origin from the Sidama Zone is a testament to why. Grown by smallholder farmers at
+  Updated: 2026-08-22T15:11:53Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2302,8 +2302,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/ethiopia-natural?variant=49110444081394)
     Availability: Available
     Price: $169.99 USD
-- [Guatemala Single Origin Coffee Beans | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/guatemala): Single origin Guatemala coffee from Antigua — dark chocolate, bright fruit, and butterscotch. Medium roast on volcanic loam from smallholder farmers.
-  Updated: 2026-08-08T16:40:05Z
+- [Guatemala Single Origin Coffee Beans | Medium Roast | The Daily](https://thedailygrindhouse.com/products/guatemala): Grown in the shadow of volcanoes on some of the most fertile soil on earth — our Guatemala single origin from Antigua is a classic for good reason. Smallholder
+  Updated: 2026-08-22T15:11:53Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2368,8 +2368,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/guatemala?variant=49110444966130)
     Availability: Available
     Price: $169.99 USD
-- [Honduras Single Origin Coffee Beans | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/honduras): Single origin Honduras coffee from Marcala — caramel, spice, and brown sugar. Medium-dark roast from Cafe Organics Marcala cooperative.
-  Updated: 2026-08-08T15:47:17Z
+- [Honduras Single Origin Coffee Beans | Medium Roast | The Daily](https://thedailygrindhouse.com/products/honduras): Rich, warming, and built for those who love a coffee with substance — our Honduras single origin comes from Cafe Organics Marcala, a cooperative of over 1,500
+  Updated: 2026-08-22T15:11:54Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2434,8 +2434,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/honduras?variant=49110445818098)
     Availability: Available
     Price: $169.99 USD
-- [Mexico Single Origin Coffee Beans | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/mexico): Single origin Mexico coffee from Chiapas and Oaxaca — chocolate, cinnamon, and green apple. Medium roast, fully washed and sun dried.
-  Updated: 2026-08-08T15:24:35Z
+- [Mexico Single Origin Coffee Beans | Medium Roast | The Daily](https://thedailygrindhouse.com/products/mexico): Comforting, complex, and deeply satisfying — our Mexico single origin brings together the best of Chiapas and Oaxaca, two of Mexico's most storied
+  Updated: 2026-08-22T15:11:54Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2500,8 +2500,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/mexico?variant=49110446735602)
     Availability: Available
     Price: $169.99 USD
-- [Nicaragua Single Origin Coffee Beans | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/nicaragua): Single origin Nicaragua coffee from Matagalpa — cocoa, floral, and citrus. Fully washed and fermented, grown by smallholder farmers in Molino Norte.
-  Updated: 2026-08-08T17:08:59Z
+- [Nicaragua Single Origin Coffee Beans | Medium Roast | The Daily](https://thedailygrindhouse.com/products/nicaragua): Bright, nuanced, and grown with care — our Nicaragua single origin comes from smallholder farmers in the Molino Norte community of Matagalpa, one of Central
+  Updated: 2026-08-22T15:11:55Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2566,8 +2566,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/nicaragua?variant=49110447423730)
     Availability: Available
     Price: $169.99 USD
-- [Papua New Guinea Single Origin Coffee Beans | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/papua-new-guinea): Single origin Papua New Guinea coffee from Chimbu Province — caramel, honey, and fruit. Medium roast Bourbon and Typica on volcanic loam.
-  Updated: 2026-08-08T12:44:09Z
+- [Papua New Guinea Single Origin Coffee Beans | Medium Roast | The](https://thedailygrindhouse.com/products/papua-new-guinea): Warm, sweet, and wonderfully exotic — our Papua New Guinea single origin is a hidden gem from the remote Chimbu Province highlands. Grown by small agricultural
+  Updated: 2026-08-22T15:11:56Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2632,8 +2632,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/papua-new-guinea?variant=49110448111858)
     Availability: Available
     Price: $169.99 USD
-- [Peru Single Origin Coffee Beans | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/peru): Single origin Peru coffee — salted caramel, silky sweet, and citrusy. Medium roast from Piura and Amazonas, gully washed and sun dried.
-  Updated: 2026-08-08T12:31:26Z
+- [Peru Single Origin Coffee Beans | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/peru): Smooth, sweet, and beautifully balanced — our Peru single origin is a crowd-pleaser with serious depth. Sourced from the Cooperativa Agricola de Servicios
+  Updated: 2026-08-22T15:11:56Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2767,8 +2767,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/peru-decaf?variant=49110449520882)
     Availability: Available
     Price: $169.99 USD
-- [Tanzania Single Origin Coffee Beans | Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/tanzania): Single origin Tanzania coffee from Mbeya — pear, jasmine, and strawberry notes. Medium light roast, fully washed Bourbon and Kent varietals.
-  Updated: 2026-08-08T19:37:47Z
+- [Tanzania Single Origin Coffee Beans | Medium Roast | The Daily](https://thedailygrindhouse.com/products/tanzania): Delicate, aromatic, and surprisingly complex — our Tanzania single origin is a medium-light roast that rewards the curious palate. Grown by small cooperative
+  Updated: 2026-08-22T15:11:57Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2833,8 +2833,8 @@
   - [Whole Bean / 12 LB](https://thedailygrindhouse.com/products/tanzania?variant=49110450209010)
     Availability: Available
     Price: $169.99 USD
-- [French Roast Ground Coffee | Bold Dark Roast Blend | The Daily Grindhouse](https://thedailygrindhouse.com/products/french-roast-1): Bold French Roast dark coffee — smoky, bittersweet, and full-bodied. Specialty grade Central American blend. Perfect for espresso and French press.
-  Updated: 2026-08-08T13:37:08Z
+- [French Roast Ground Coffee | Bold Dark Roast Blend | The Daily](https://thedailygrindhouse.com/products/french-roast-1): Dark, bold, and unapologetically intense — our French Roast is for those who want their coffee to mean business. Crafted from a blend of specialty-grade
+  Updated: 2026-08-22T15:11:58Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2887,8 +2887,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/french-roast-1?variant=49110450766066)
     Availability: Available
     Price: $84.99 USD
-- [Sumatra Single Origin Coffee Beans | Bold Dark Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/sumatra): Single origin Sumatra coffee from Aceh — dark chocolate, earthy, syrupy body. Wet-hulled Giling Basah process from the Takengon highlands.
-  Updated: 2026-08-08T13:27:11Z
+- [Sumatra Single Origin Coffee Beans | Bold Dark Roast | The Daily](https://thedailygrindhouse.com/products/sumatra): Bold, earthy, and unmistakably Indonesian — our Sumatra single origin is a coffee of deep character. Sourced from the Aceh region's Takengon highlands through
+  Updated: 2026-08-22T15:11:58Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2941,8 +2941,8 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/sumatra?variant=49110451355890)
     Availability: Available
     Price: $84.99 USD
-- [Kenya Single Origin Coffee Beans | Bright Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/kenya): Single origin Kenya coffee from Nyeri County — bright citrus, floral, and effervescent. Fully washed SL28 and SL34 varietals.
-  Updated: 2026-08-08T11:48:38Z
+- [Kenya Single Origin Coffee Beans | Bright Medium Roast | The Daily](https://thedailygrindhouse.com/products/kenya): Kenya produces some of the most vibrant and complex coffees in the world, and this single origin from Othaya in Nyeri County is a shining example. Grown at
+  Updated: 2026-08-22T15:11:59Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -2995,29 +2995,29 @@
   - [Whole Bean / 5 LB](https://thedailygrindhouse.com/products/kenya?variant=49110451912946)
     Availability: Available
     Price: $84.99 USD
-- [Mexico Single Origin Coffee Pods | Medium Roast K-Cup Compatible | The Daily Grindhouse](https://thedailygrindhouse.com/products/mexico-coffee-pods): Mexico single origin K-Cup coffee pods for Keurig — dark chocolate, brown sugar, and lemon. Medium roast from Chiapas, washed and sun dried.
-  Updated: 2026-08-08T17:27:52Z
+- [Mexico Single Origin Coffee Pods | Medium Roast K-Cup Compatible |](https://thedailygrindhouse.com/products/mexico-coffee-pods): The warm, chocolatey comfort of our Mexico single origin — now in a convenient K-Cup for your Keurig brewer. Sourced from coffee growers in Chiapas, these
+  Updated: 2026-08-22T15:12:00Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $17.99 USD
-- [Peru Single Origin Coffee Pods | Medium Roast K-Cup Compatible | The Daily Grindhouse](https://thedailygrindhouse.com/products/peru-coffee-pods): Peru single origin K-Cup coffee pods for Keurig — salted caramel, silky sweet, and citrusy. Medium roast from Piura and Amazonas.
-  Updated: 2026-08-08T13:27:10Z
+- [Peru Single Origin Coffee Pods | Medium Roast K-Cup Compatible | The](https://thedailygrindhouse.com/products/peru-coffee-pods): The smooth, caramel sweetness of our Peru single origin — now in a convenient K-Cup for your Keurig brewer. Sourced from the Cooperativa Agricola de Servicios
+  Updated: 2026-08-22T15:12:00Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $17.99 USD
-- [Bali Single Origin Coffee Pods | Dark Roast K-Cup Compatible | The Daily Grindhouse](https://thedailygrindhouse.com/products/bali-coffee-pods): Bali single origin K-Cup coffee pods for Keurig — dark chocolate, molasses, and brown sugar. Medium-dark roast from Kintamani highlands.
-  Updated: 2026-08-08T13:05:07Z
+- [Bali Single Origin Coffee Pods | Dark Roast K-Cup Compatible | The](https://thedailygrindhouse.com/products/bali-coffee-pods): The bold, indulgent character of our Bali Blue single origin — now in a convenient K-Cup for your Keurig brewer. Sourced from smallholder farmers in the
+  Updated: 2026-08-22T15:12:01Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $17.99 USD
-- [Uganda Single Origin Coffee Beans | Light Medium Roast | The Daily Grindhouse](https://thedailygrindhouse.com/products/uganda): Single origin Uganda coffee from Sipi Falls — floral, dark chocolate, and dark fruit notes. Fully washed, grown at 1,500–2,500M.
-  Updated: 2026-08-08T13:54:34Z
+- [Uganda Single Origin Coffee Beans | Light Medium Roast | The Daily](https://thedailygrindhouse.com/products/uganda): From the misty highlands of Sipi Falls in Uganda's Kapchorwa District, this single origin coffee is a quiet revelation. Grown at elevations between 1,500 and
+  Updated: 2026-08-22T15:12:02Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -3091,57 +3091,57 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/coffee-bag-3-4-angle.png?v=1786055558
   Price: $19.99 USD
-- [Jasmine Green Tea | Delicate Floral Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/jasmine): Hand-picked jasmine green tea, naturally scented with fresh blossoms. Sweet, silky, and perfect for multiple steepings. Premium loose leaf tea.
-  Updated: 2026-08-08T16:00:22Z
+- [Jasmine Green Tea | Delicate Floral Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/jasmine): Delicate, floral, and timelessly elegant — our Jasmine tea is a masterclass in patience and craft. Hand-picked green tea leaves are carefully paired with
+  Updated: 2026-08-22T15:12:02Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest_0edebcf9-d44c-4013-8a6b-b55c9a00bc71.jpg?v=1785327333
   Price: $17.24 USD
-- [Masala Chai Spiced Black Tea | Warming Loose Leaf Blend | The Daily Grindhouse](https://thedailygrindhouse.com/products/masala-chai): Bold, spiced Masala Chai with cardamom, cinnamon, and ginger. Full-bodied and perfect for traditional milk tea or chai lattes.
-  Updated: 2026-08-08T17:35:00Z
+- [Masala Chai Spiced Black Tea | Warming Loose Leaf Blend | The Daily](https://thedailygrindhouse.com/products/masala-chai): Bold, aromatic, and unapologetically spiced — our Masala Chai is the real thing. Inspired by the traditional Indian preparation, this full-bodied blend
+  Updated: 2026-08-22T15:12:03Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest_f6c9a3c2-4003-4608-8ddc-1d1495c63e5b.jpg?v=1785327452
   Price: $17.24 USD
-- [English Breakfast Black Tea | Bold Classic Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/english-breakfast): Classic English Breakfast black tea — malty, full-bodied, and perfect with milk. A blend of African and Indian teas for the ideal morning cup.
-  Updated: 2026-08-08T17:40:27Z
+- [English Breakfast Black Tea | Bold Classic Loose Leaf | The Daily](https://thedailygrindhouse.com/products/english-breakfast): Breakfast tea as it was meant to be — no fuss, no frills, just a deeply satisfying cup that starts your day right. Our English Breakfast is a classic blend of
+  Updated: 2026-08-22T15:12:04Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest_69905920-3613-4455-813f-79dcc3118b7b.jpg?v=1785327565
   Price: $17.24 USD
-- [Peach Paradise Herbal Tea | Caffeine Free Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/peach-paradise): Fruity herbal tea with peach, cranberry, and rose. Naturally caffeine-free and perfect hot or iced. Premium loose leaf from The Daily Grindhouse.
-  Updated: 2026-08-08T17:25:54Z
+- [Peach Paradise Herbal Tea | Caffeine Free Loose Leaf | The Daily](https://thedailygrindhouse.com/products/peach-paradise): Close your eyes and you’re there — sun-warmed peaches, a hint of tart cranberry, and the soft whisper of rose petals. Peach Paradise is a fruity, aromatic
+  Updated: 2026-08-22T15:12:04Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest_f01e0e81-ea1f-4e98-806a-93444a184203.jpg?v=1785327682
   Price: $17.24 USD
-- [Mango Treat Herbal Tea | Tropical Caffeine Free Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/mango-treat): Sweet and tropical Mango Treat tea — smooth, fruity, and perfect hot or iced. A naturally flavored loose leaf tea from The Daily Grindhouse.
-  Updated: 2026-08-08T12:41:33Z
+- [Mango Treat Herbal Tea | Tropical Caffeine Free Loose Leaf | The](https://thedailygrindhouse.com/products/mango-treat): Sweet, smooth, and bursting with tropical sunshine — Mango Treat is summer in a cup, any time of year. A naturally fruity tea base is elevated with the lush
+  Updated: 2026-08-22T15:12:05Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest_503f6a12-5e95-4677-8224-baa7297c8a24.jpg?v=1785327800
   Price: $17.24 USD
-- [Apple Cider Rooibos Tea | Caffeine Free Herbal Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/apple-cider-rooibos): Spiced Apple Cider Rooibos — caffeine-free, naturally sweet, with cinnamon and orange. A cozy fall-inspired tea you can enjoy year-round.
-  Updated: 2026-08-08T15:20:24Z
+- [Apple Cider Rooibos Tea | Caffeine Free Herbal Loose Leaf | The Daily](https://thedailygrindhouse.com/products/apple-cider-rooibos): Spiced, sweet, and naturally caffeine-free — Apple Cider Rooibos is the cozy cup you reach for when the air turns crisp. Built on a base of South African
+  Updated: 2026-08-22T15:12:06Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest_823f6d6f-74be-4849-af6d-ca4b99af14ae.jpg?v=1785327918
   Price: $17.24 USD
-- [Hibiscus Berry Herbal Tea | Caffeine Free Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/hibiscus-berry-tea): Organic Hibiscus Berry Tea with blueberry, passionfruit, and mango. Caffeine-free, tart, and stunning iced. Premium loose leaf from The Daily Grindhouse.
-  Updated: 2026-08-08T12:45:55Z
+- [Hibiscus Berry Herbal Tea | Caffeine Free Loose Leaf | The Daily](https://thedailygrindhouse.com/products/hibiscus-berry-tea): Tart, vibrant, and bursting with berry goodness — our Hibiscus Berry Tea is as stunning in the cup as it is on the palate. Built on a base of organic hibiscus
+  Updated: 2026-08-22T15:12:06Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/kraft_blank_final_latest_71c636e3-748a-48d7-ab48-98dcc34ee838.jpg?v=1785328034
   Price: $17.24 USD
-- [Earl Grey Black Tea | Classic Bergamot Loose Leaf | The Daily Grindhouse](https://thedailygrindhouse.com/products/earl-grey): Premium Earl Grey with Ceylon black tea, bergamot oil, and blue cornflowers. Floral, citrusy, and timeless. Loose leaf tea from The Daily Grindhouse.
-  Updated: 2026-08-08T18:47:06Z
+- [Earl Grey Black Tea | Classic Bergamot Loose Leaf | The Daily](https://thedailygrindhouse.com/products/earl-grey): Timeless, refined, and unmistakably elegant — our Earl Grey is a love letter to the classic. We blend premium Ceylon OP black tea with hand-selected blue
+  Updated: 2026-08-22T15:12:07Z
   Vendor: The Daily Grindhouse
   Product Type: tea
   Availability: Available
@@ -3353,8 +3353,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-garment-dyed-heavyweight-t-shirt-bay-front-2-69eb96a04f018.jpg?v=1785328594
     Price: $31.00 USD
-- [Men’s Box Tee](https://thedailygrindhouse.com/products/men-s-box-tee): Want a tee with a flattering fit and sturdy construction? Look no further. Men’s boxy tee is the best choice for relaxed streetwear looks and layering. With a reinforced neckline and luxe feel, this shirt will be your go-to choice season after season. • 100% combed ring-spun cotton • Fabric weight: 7 oz./yd.² (237.34 g/m²) • Oversized relaxed fit • Drop shoulder sleeves • Ribbed collar reinforced neckline • Blank product sourced from Bangladesh
-  Updated: 2026-08-06T00:49:28Z
+- [Men’s Box Tee - The Daily Grindhouse](https://thedailygrindhouse.com/products/men-s-box-tee): Want a tee with a flattering fit and sturdy construction? Look no further. Men’s boxy tee is the best choice for relaxed streetwear looks and layering. With a
+  Updated: 2026-08-22T15:12:08Z
   Vendor: The Daily Grindhouse
   Product Type: T-SHIRT
   Availability: Available
@@ -3499,8 +3499,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/mens-box-tee-white-front-69eb96ad3b187.jpg?v=1785328745
     Price: $45.00 USD
-- [Unisex Midweight Hoodie](https://thedailygrindhouse.com/products/unisex-midweight-hoodie): Looking for the perfect high-quality hoodie? This unisex hoodie is a mix of comfort and function. Soft and cozy on the inside, sleek and stylish on the outside. • Unisex fit • 80% cotton, 20% polyester blend fleece • 100% cotton face • Fabric weight: 8.5 oz./yd² (280 g/m²) • Jersey-lined hood • Split stitch double-needle sewing on all seams • Twill neck tape • 1 × 1 ribbing for cuffs and waistband • Metal eyelets • Blank product sourced from Pakistan
-  Updated: 2026-08-06T00:49:28Z
+- [Unisex Midweight Hoodie - The Daily Grindhouse](https://thedailygrindhouse.com/products/unisex-midweight-hoodie): Looking for the perfect high-quality hoodie? This unisex hoodie is a mix of comfort and function. Soft and cozy on the inside, sleek and stylish on the
+  Updated: 2026-08-22T15:12:09Z
   Vendor: The Daily Grindhouse
   Product Type: T-SHIRT
   Availability: Available
@@ -3685,8 +3685,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-midweight-hoodie-white-front-69eb96bda2feb.jpg?v=1785328898
     Price: $67.50 USD
-- [Unisex Eco Sweatshirt](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt): Elevate your style with this unisex eco sweatshirt. The shirt has a chic, crisp look and will go great with both casual and more dressed up outfits. Made of organic cotton, this sweatshirt is durable, comfy, and extra soft. • 100% organic ring-spun combed cotton • Fabric weight: 350 g/m² (10.3 oz./yd.²) • Regular fit • Set-in sleeves • 1×1 rib at neck collar, sleeve hem, and bottom hem • Double-needle topstitch at the neck collar, on the sleeves, and on the bottom hems • Inside herringbone back neck tape • Self-fabric half moon at back neck • Blank product sourced from Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up.
-  Updated: 2026-08-06T00:49:28Z
+- [Unisex Eco Sweatshirt - The Daily Grindhouse](https://thedailygrindhouse.com/products/unisex-eco-sweatshirt): Elevate your style with this unisex eco sweatshirt. The shirt has a chic, crisp look and will go great with both casual and more dressed up outfits. Made of
+  Updated: 2026-08-22T15:12:10Z
   Vendor: The Daily Grindhouse
   Product Type: T-SHIRT
   Availability: Available
@@ -3999,7 +3999,7 @@
     Author: Matthew Pacharis
     Tags: coffee, coffee education, coffee freshness, coffee storage, fresh coffee, roast to order, whole bean
   - [Meet the Founder of The Daily Grindhouse | Matthew Pacharis](https://thedailygrindhouse.com/blogs/coffee/meet-the-founder-matthew-pacharis-the-daily-grindhouse): Meet the Founder of The Daily Grindhouse | Matthew Pacharis
-    Updated: 2026-08-17T23:54:24Z
+    Updated: 2026-08-22T01:19:38Z
     Author: Matthew Pacharis
     Tags: about us, coffee passion, coffee story, founder, Matthew Pacharis, roast to order, The Daily Grindhouse
 - [Lifestyle & Guides](https://thedailygrindhouse.com/blogs/lifestyle-guides)
