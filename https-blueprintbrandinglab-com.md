@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-23T19:40:11Z
 - Contact Email: Contactus@blueprintbrandinglab.com
-- Updated At: 2026-08-17T00:00:35.766Z
+- Updated At: 2026-08-26T00:00:38.304Z
 
 ## Products
 
