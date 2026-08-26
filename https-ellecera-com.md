@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2026-07-30T14:53:40Z
 - Contact Email: hello@ellecera.com
-- Updated At: 2026-08-19T00:00:37.348Z
+- Updated At: 2026-08-26T00:00:38.424Z
 
 ## Products
 
