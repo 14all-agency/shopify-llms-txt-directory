@@ -6,12 +6,12 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-08-13T19:51:43.130Z
+- Updated At: 2026-08-26T00:00:35.261Z
 
 ## Products
 
-- [Asics Gel-Kayano 14 - Performance et Confort](https://gelnext.click/products/asics-gel-kayano-14): Découvrez les Asics Gel-Kayano 14 : confort exceptionnel et performance accrue pour les coureurs et un style idéaliser pour les fashion. Monter de niveau dès aujourd'hui !
-  Updated: 2026-08-10T04:58:08Z
+- [Asics Gel-Kayano 14 : Performance et Confort Élevés](https://gelnext.click/products/asics-gel-kayano-14): Améliorez vos performances avec les Asics Gel-Kayano 14. Confort, amorti optimal et style moderne pour coureurs passionnés ou débutants. Commandez maintenant !
+  Updated: 2026-08-15T07:25:57Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -110,7 +110,7 @@
     Availability: Available
     Price: 18 000,00 FCFA XAF
 - [Asics Gel-Kayano 14 - Performance de Course Élevée](https://gelnext.click/products/asics-gel-kayano-17): Découvrez les Asics Gel-Kayano 14 pour un confort et une performance inégalés. Idéales pour réduire les blessures et optimiser chaque foulée.
-  Updated: 2026-08-13T18:55:30Z
+  Updated: 2026-08-15T03:46:51Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -1445,7 +1445,7 @@
     Availability: Available
     Price: 20 000,00 FCFA XAF
 - [Birkenstock arizona](https://gelnext.click/products/birkenstock-arizona)
-  Updated: 2026-08-04T02:00:43Z
+  Updated: 2026-08-22T22:04:49Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -1544,7 +1544,7 @@
     Availability: Available
     Price: 23 500,00 FCFA XAF
 - [Birkenstock arizona](https://gelnext.click/products/birkenstock-arizona-3)
-  Updated: 2026-08-04T02:04:57Z
+  Updated: 2026-08-17T20:58:06Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -1940,11 +1940,11 @@
     Availability: Available
     Price: 15 000,00 FCFA XAF
 - [Air Max 95 Neon - Confort et Style Incontournables](https://gelnext.click/products/air-max-95-neon): Découvrez les Air Max 95 Neon, des chaussures qui allient style audacieux et confort optimal pour votre quotidien. Faites l'expérience d'un amorti exceptionnel!
-  Updated: 2026-08-13T17:59:47Z
+  Updated: 2026-08-20T14:50:37Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_13-8-2026_193532_www.lesitedelasneaker.com.jpg?v=1786642872
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_13-8-2026_193532_www.lesitedelasneaker.com.jpg?v=1787237419
   - [37](https://gelnext.click/products/air-max-95-neon?variant=52692111720730)
     Availability: Available
     Price: 16 000,00 FCFA XAF
@@ -1972,11 +1972,44 @@
   - [45](https://gelnext.click/products/air-max-95-neon?variant=52692111982874)
     Availability: Available
     Price: 16 000,00 FCFA XAF
+- [Air Max 95 Corteiz Green : Confort et Style à Chaque Pas](https://gelnext.click/products/air-max-95-corteiz-green): Découvrez le style audacieux des Air Max 95 Corteiz Green. Confort et look tendance pour sublimer vos sorties. Commandez maintenant et marchez avec élégance !
+  Updated: 2026-08-15T08:18:40Z
+  Vendor: GelNext
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1001/2367/2858/files/Captured_ecran_14-8-2026_1853_www.lesitedelasneaker.com.jpg?v=1786662647
+  - [37](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693378892058)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [38](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693378924826)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [39](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693378957594)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [40](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693378990362)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [41](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693379023130)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [42](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693379055898)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [43](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693379088666)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [44](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693379121434)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
+  - [45](https://gelnext.click/products/air-max-95-corteiz-green?variant=52693379154202)
+    Availability: Available
+    Price: 16 000,00 FCFA XAF
 
 ## Collections
 
 - [Asics gel-kayano 14](https://gelnext.click/collections/asics-gel-kayano-14): - GelNext
-  Updated: 2026-08-13T18:55:31Z
+  Updated: 2026-08-13T23:26:37Z
   Total Products: 7
 - [Asics gel-NYC](https://gelnext.click/collections/asics-gel-nyc): - GelNext
   Updated: 2026-08-08T18:42:26Z
@@ -1991,22 +2024,22 @@
   Updated: 2026-08-08T18:42:27Z
   Total Products: 6
 - [Icone tendance](https://gelnext.click/collections/nouvelle-tendance): - GelNext
-  Updated: 2026-08-09T17:50:51Z
+  Updated: 2026-08-13T23:26:37Z
   Total Products: 16
 - [Spécial world cup](https://gelnext.click/collections/special-world-cup): - GelNext
   Updated: 2026-08-08T18:42:27Z
   Total Products: 23
 - [Sandale](https://gelnext.click/collections/sandale): - GelNext
-  Updated: 2026-08-08T18:42:28Z
+  Updated: 2026-08-18T11:23:15Z
   Total Products: 4
 - [Asics](https://gelnext.click/collections/asics): - GelNext
-  Updated: 2026-08-13T18:55:31Z
+  Updated: 2026-08-13T23:26:37Z
   Total Products: 12
 - [New Balance](https://gelnext.click/collections/new-balance-1): - GelNext
   Updated: 2026-08-03T21:48:59Z
   Total Products: 4
 - [Birkenstock](https://gelnext.click/collections/birkenstock): - GelNext
-  Updated: 2026-08-03T21:48:59Z
+  Updated: 2026-08-18T11:23:15Z
   Total Products: 10
 - [Adidas](https://gelnext.click/collections/adidas): - GelNext
   Updated: 2026-08-03T21:49:00Z
