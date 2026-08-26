@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2020-02-25T10:19:46Z
 - Contact Email: support@paisleyautocare.com
-- Updated At: 2026-08-18T00:00:38.035Z
+- Updated At: 2026-08-26T00:00:40.188Z
 
 ## Products
 
 - [Major Service - | Paisley Autocare](https://paisleyautocare.co.uk/products/major-service): A major service is the highest level in terms of car servicing packages, some garages also call a major service a master service or a gold service. The overall check which is necessary after 24k miles of driving is important at this point because certain parts of the car will have experienced wear and tear over time.
-  Updated: 2026-08-04T17:16:12Z
+  Updated: 2026-08-24T08:00:19Z
   Vendor: Paisley Autocare LTD
   Product Type: 
   Availability: Available
@@ -43,21 +43,21 @@
   Image: https://cdn.shopify.com/s/files/1/0336/7403/5338/products/Coolant-Antifreeze-Change-Paisley-Autocare-LTD-1655382544.jpg?v=1736271421
   Price: £49.99 GBP
 - [Expert ADAS Calibration Services for Reliable Performance](https://paisleyautocare.co.uk/products/adas-calibration): Ensure your vehicle's safety with expert ADAS calibration. Get precise calibration for optimal performance and safety features.
-  Updated: 2026-06-15T07:44:11Z
+  Updated: 2026-08-24T08:00:21Z
   Vendor: Paisley Autocare LTD
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0336/7403/5338/products/ADAS-Camera-Calibration-CSC-Paisley-Autocare-LTD-1655382567.jpg?v=1736271421
   Price: £399.99 GBP
 - [Essential Motorcycle MOT Guide](https://paisleyautocare.co.uk/products/motorcycle-mot): Learn all about Motorcycle MOT requirements, benefits, and procedures to keep your ride safe and legal on the road.
-  Updated: 2026-08-17T09:55:16Z
+  Updated: 2026-08-24T08:00:20Z
   Vendor: Paisley Autocare LTD
   Product Type: MOT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0336/7403/5338/files/Motorcycle-MOT-Paisley-Autocare-LTD-305114066.png?v=1780400687
   Price: £29.65 GBP
 - [Car Diagnostics: Everything You Need to Know](https://paisleyautocare.co.uk/products/vehicle-diagnostics): Learn everything there is to know about car diagnostics, including what it is, how it works, and what tools are needed. Read on for more information!
-  Updated: 2026-07-14T23:40:11Z
+  Updated: 2026-08-24T08:00:20Z
   Vendor: Paisley Autocare LTD
   Product Type: 
   Availability: Available
@@ -93,7 +93,7 @@
     Availability: Available
     Price: £92.00 GBP
 - [MOT Paisley - Paisley Autocare](https://paisleyautocare.co.uk/products/mot): Looking for MOT Paisley services that can stand against all challenges? Discover our superior and reliable MOT testing and inspection services today. Providing top-notch vehicle safety checks against all odds. We ensure your vehicle is roadworthy and safe.
-  Updated: 2026-08-17T20:08:07Z
+  Updated: 2026-08-24T21:29:45Z
   Vendor: Paisley Autocare
   Product Type: MOT
   Availability: Available
@@ -111,7 +111,7 @@
     Availability: Available
     Price: £59.99 GBP
 - [Standard Service - Affordable Car Service Near You](https://paisleyautocare.co.uk/products/full-service): Book a reliable and affordable standard car service near you. Regular car maintenance will ensure your vehicle runs smoothly and prolong its lifespan. Schedule an appointment today.
-  Updated: 2026-08-16T08:38:08Z
+  Updated: 2026-08-25T23:54:15Z
   Vendor: Paisley Autocare LTD
   Product Type: Car Service
   Availability: Available
@@ -129,7 +129,7 @@
     Availability: Available
     Price: £204.99 GBP
 - [Air Con Regas (R134A) - Paisley Autocare](https://paisleyautocare.co.uk/products/air-con-regas-r134a): Air Con Regas If you're like most people, you rely on your car to get you where you need to go. But what happens when your car's air conditioning stops working? It can be a major inconvenience, especially in the middle of summer. That's why it's important to keep your air con recharged and operating at peak efficiency.Car Air Con Regas offers a convenient online booking system
-  Updated: 2026-08-10T06:46:46Z
+  Updated: 2026-08-24T08:00:21Z
   Vendor: Cars up to 2017
   Product Type: 
   Availability: Available
@@ -153,7 +153,7 @@
     Availability: Available
     Price: £114.98 GBP
 - [Air Con Regas (R1234YF) - Paisley Autocare](https://paisleyautocare.co.uk/products/air-con-regas-r1234yf): Air Con Regas If you're like most people, you rely on your car to get you where you need to go. But what happens when your car's air - Paisley Autocare
-  Updated: 2026-07-07T18:30:31Z
+  Updated: 2026-08-24T08:00:20Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -177,7 +177,7 @@
     Availability: Available
     Price: £174.98 GBP
 - [DPF Cleaning - Paisley Autocare](https://paisleyautocare.co.uk/products/dpf-cleaning): Coming Soon best  from  - Paisley Autocare
-  Updated: 2026-07-09T12:40:46Z
+  Updated: 2026-08-24T08:00:20Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -207,7 +207,7 @@
     Availability: Available
     Price: £184.99 GBP
 - [Standard Service And MOT  - Save £20 Now!](https://paisleyautocare.co.uk/products/std-service-mot-): Save £20 on Standard Service And MOT . Was £239.99, now only £219.99. Get your car serviced and MOT done at an unbeatable price. Book today!
-  Updated: 2026-08-17T21:32:42Z
+  Updated: 2026-08-25T07:31:57Z
   Vendor: Paisley Autocare LTD
   Product Type: Car Service
   Availability: Available
@@ -239,7 +239,7 @@
   Image: https://cdn.shopify.com/s/files/1/0336/7403/5338/files/Exhaust-System-Check-Paisley-Autocare-200223810.jpg?v=1745488919
   Price: £72.00 GBP
 - [Brake Check - Paisley Autocare](https://paisleyautocare.co.uk/products/brake-check): Noticed squeaking, grinding, or a spongy pedal? For just £59.99, our Brake Check service gives you  - Paisley Autocare
-  Updated: 2026-07-03T14:59:23Z
+  Updated: 2026-08-24T08:00:20Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -257,7 +257,7 @@
     Availability: Available
     Price: £91.99 GBP
 - [Suspension and Steering Check - Paisley Autocare](https://paisleyautocare.co.uk/products/suspension-and-steering-check): Is your ride feeling bumpy, uneven, or hard to handle? For just £59.99, our Suspension &amp;  - Paisley Autocare
-  Updated: 2026-07-07T21:52:20Z
+  Updated: 2026-08-24T08:00:20Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -292,7 +292,7 @@
 ## Collections
 
 - [Car Servicing Paisley](https://paisleyautocare.co.uk/collections/car-servicing-paisley): Get top-quality car servicing paisley. Our experienced team ensures your vehicle runs smoothly and safely.
-  Updated: 2026-08-17T11:16:37Z
+  Updated: 2026-08-25T11:15:30Z
   Total Products: 18
 - [Car Brakes](https://paisleyautocare.co.uk/collections/car-brakes): Want to know more about car brakes? This guide covers everything you need to know about car brakes, from types to maintenance.
   Updated: 2026-06-06T20:36:32Z
@@ -301,7 +301,7 @@
   Updated: 2026-05-06T16:42:36Z
   Total Products: 1
 - [Car Servicing](https://paisleyautocare.co.uk/collections/service): Discover the essential aspects of car servicing. Learn how regular car servicing enhances performance and extends your vehicle's lifespan.
-  Updated: 2026-08-17T11:16:37Z
+  Updated: 2026-08-25T11:15:30Z
   Total Products: 4
 - [Tyres](https://paisleyautocare.co.uk/collections/tyres): Looking for new car tyres? Find a wide range of tyres at unbeatable prices. Get free delivery & fitting. Order now online or visit us in-store.
   Updated: 2026-04-20T16:41:01Z
@@ -715,7 +715,7 @@
     Author: Stuart Ross
     Tags: Alpine A110 R Le Mans Limited Edition
   - [Wood Gas Generators on Vehicles: The Surprising Legacy](https://paisleyautocare.co.uk/blogs/news/wood-gas-generators-on-vehicles-the-surprising-legacy-of-wwii): Wood Gas Generators on Vehicles: The Surprising Legacy
-    Updated: 2026-05-02T12:32:57Z
+    Updated: 2026-08-25T12:15:19Z
     Author: Stuart Ross
   - [Unveiling the Future: A Sneak Peek into the Alpine](https://paisleyautocare.co.uk/blogs/news/unveiling-the-future-a-sneak-peek-into-the-alpine-a424-beta-concept): Unveiling the Future: A Sneak Peek into the Alpine
     Updated: 2026-05-02T12:32:58Z
@@ -1111,7 +1111,7 @@
     Author: Stuart Ross
     Tags: Hyundai Ioniq 5 XRT
   - [Car Buying Checklist: Your Ultimate Guide for 2023](https://paisleyautocare.co.uk/blogs/news/car-buying-advice-your-ultimate-car-buying-checklist): Car Buying Checklist: Your Ultimate Guide for 2023
-    Updated: 2026-06-15T07:44:07Z
+    Updated: 2026-08-24T16:01:19Z
     Author: Stuart Ross
     Tags: Car buying checklist, used car checklist
   - [Bold Ban on Chinese Technology: US Saves Us from Connected Cars](https://paisleyautocare.co.uk/blogs/news/the-us-government-s-mission-to-save-us-from-connected-cars-a-bold-ban-on-chinese-technology): Bold Ban on Chinese Technology: US Saves Us from Connected Cars
