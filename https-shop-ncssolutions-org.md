@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-07-07T19:04:04Z
 - Contact Email: shopify@ncssolutions.org
-- Updated At: 2026-08-16T00:00:40.849Z
+- Updated At: 2026-08-26T00:00:42.704Z
 
 ## Products
 
@@ -1406,7 +1406,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Special Offering Envelope - Design 3](https://shop.ncssolutions.org/products/special-offering-envelope-design-3)
-  Updated: 2026-04-15T16:28:12Z
+  Updated: 2026-08-18T15:23:56Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -2032,7 +2032,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Christmas Flowers Offering Envelope - w/ In Memory Of Lines](https://shop.ncssolutions.org/products/christmas-flowers-offering-envelope-w-in-memory-of-lines): Celebrate the Christmas season with our beautiful, full color church offering envelopes! Our special bulk / pew envelopes start at just $6.95 per 100!
-  Updated: 2026-04-15T16:28:27Z
+  Updated: 2026-08-24T17:02:18Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -2044,7 +2044,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Easter Flower Offering Envelope - w/ In Memory Of Lines](https://shop.ncssolutions.org/products/easter-flower-offering-envelope-w-in-memory-of-lines): Prepare your church for the Easter season with pre-printed Easter offering and tithe envelopes. Our bulk / pew envelopes feature full color with affordable pricing and easy online ordering!
-  Updated: 2026-04-15T16:28:27Z
+  Updated: 2026-08-24T17:02:17Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -2279,7 +2279,7 @@
   Updated: 2026-04-15T16:27:32Z
   Total Products: 0
 - [All](https://shop.ncssolutions.org/collections/all)
-  Updated: 2026-08-14T11:45:57Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 230
 - [Communion Cups](https://shop.ncssolutions.org/collections/communion-cups)
   Updated: 2026-07-13T14:58:26Z
@@ -2288,22 +2288,22 @@
   Updated: 2026-04-15T16:27:33Z
   Total Products: 1
 - [Specialty Envelopes](https://shop.ncssolutions.org/collections/specialty-envelopes)
-  Updated: 2026-08-14T11:45:57Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 129
 - [DipJar](https://shop.ncssolutions.org/collections/dipjar)
   Updated: 2026-04-15T16:27:33Z
   Total Products: 5
 - [Christmas Collection](https://shop.ncssolutions.org/collections/christmas)
-  Updated: 2026-08-14T11:45:57Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 22
 - [Push Pay Box Sets](https://shop.ncssolutions.org/collections/push-pay-box-sets)
   Updated: 2026-04-15T16:27:33Z
   Total Products: 3
 - [Spring Collection](https://shop.ncssolutions.org/collections/spring-collection)
-  Updated: 2026-08-06T11:18:16Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 24
 - [OrderlyEmails - Recommended Products](https://shop.ncssolutions.org/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-08-14T11:45:57Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 214
 - [Spanish Collection](https://shop.ncssolutions.org/collections/specialty-envelopes-spanish)
   Updated: 2026-08-07T11:16:42Z
@@ -2312,7 +2312,7 @@
   Updated: 2026-08-14T11:45:57Z
   Total Products: 15
 - [Most Popular](https://shop.ncssolutions.org/collections/most-popular)
-  Updated: 2026-08-05T00:26:19Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 24
 - [Church Welcome Packets](https://shop.ncssolutions.org/collections/church-welcome-packets)
   Updated: 2026-04-15T16:27:34Z
@@ -2330,7 +2330,7 @@
   Updated: 2026-04-15T16:27:34Z
   Total Products: 4
 - [Seasonal Envelopes](https://shop.ncssolutions.org/collections/seasonal-envelopes)
-  Updated: 2026-08-14T11:45:57Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 25
 - [Seasonal](https://shop.ncssolutions.org/collections/seasonal)
   Updated: 2026-04-15T16:27:34Z
@@ -2339,7 +2339,7 @@
   Updated: 2026-06-29T18:56:08Z
   Total Products: 12
 - [Easter Collection](https://shop.ncssolutions.org/collections/easter)
-  Updated: 2026-08-06T11:18:16Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 35
 - [Easter Greeting Cards](https://shop.ncssolutions.org/collections/easter-greeting-cards)
   Updated: 2026-04-15T16:27:34Z
@@ -2372,25 +2372,25 @@
   Updated: 2026-07-17T11:14:56Z
   Total Products: 16
 - [Easter Envelopes](https://shop.ncssolutions.org/collections/easter-envelopes)
-  Updated: 2026-08-06T11:18:16Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 22
 - [Field Trips/School Money Envelopes](https://shop.ncssolutions.org/collections/field-trips-school-envelopes): School envelopes are ideal for both teachers and parents! They are used for school money, field trips and notes to the teacher!
   Updated: 2026-04-15T16:27:35Z
   Total Products: 10
 - [New Specialty Envelope Designs](https://shop.ncssolutions.org/collections/new-specialty-envelope-designs)
-  Updated: 2026-08-14T11:45:57Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 96
 - [Christmas Envelopes](https://shop.ncssolutions.org/collections/christmas-envelopes)
-  Updated: 2026-08-14T11:45:57Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 16
 - [Catholic Collection](https://shop.ncssolutions.org/collections/catholic-collection)
-  Updated: 2026-08-14T11:45:57Z
+  Updated: 2026-08-25T11:14:09Z
   Total Products: 102
 - [Improvement, Building and Energy Needs](https://shop.ncssolutions.org/collections/improvement-building-and-energy-needs)
   Updated: 2026-08-07T11:16:42Z
   Total Products: 13
 - [Special Offerings](https://shop.ncssolutions.org/collections/special-offerings)
-  Updated: 2026-04-15T16:27:36Z
+  Updated: 2026-08-19T11:18:41Z
   Total Products: 4
 - [Favorites](https://shop.ncssolutions.org/collections/favorites)
   Updated: 2026-07-31T11:15:53Z
