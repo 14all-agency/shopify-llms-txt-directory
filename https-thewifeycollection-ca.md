@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-27T01:53:23Z
 - Contact Email: admin@thewifeycollection.ca
-- Updated At: 2026-08-18T00:00:40.295Z
+- Updated At: 2026-08-27T00:00:43.259Z
 
 he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abayas, kaftans, gowns, cloaks, and outerwear in Canada. Our pieces are made to order, modest in silhouette, and designed for the woman who dresses with intention and grace.
 
@@ -175,6 +175,22 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Updated: 2026-08-15T13:34:47Z
     Author: The Wifey Collection
     Tags: adapt modest trends, contemporary modesty, fashion, modest, modest clothing, modest fashion ideas, style, timeless elegance
+  - [A Palette of Serenity: Crafting Tranquility in Modest Attire](https://thewifeycollection.ca/blogs/news/a-palette-of-serenity-crafting-tranquility-in-modest-attire): A Palette of Serenity: Crafting Tranquility in Modest Attire
+    Updated: 2026-08-18T09:07:40Z
+    Author: The Wifey Collection
+    Tags: calming looks, elegant modest wear, fashion, modest, modest attire, serene, tranquil clothing, versatile outfits
+  - [Whispers of Elegance: Unveiling The Wifey Collection's Timeless Designs](https://thewifeycollection.ca/blogs/news/whispers-of-elegance-unveiling-the-wifey-collections-timeless-designs): Whispers of Elegance: Unveiling The Wifey Collection's Timeless Designs
+    Updated: 2026-08-20T09:05:01Z
+    Author: The Wifey Collection
+    Tags: elegance, fashion, modest, modest attire, modest fashion trends, stylish modest clothing, timeless designs, wifey collection
+  - [From Tradition to Boutique: The Evolution of Modest Wardrobes](https://thewifeycollection.ca/blogs/news/from-tradition-to-boutique-the-evolution-of-modest-wardrobes): From Tradition to Boutique: The Evolution of Modest Wardrobes
+    Updated: 2026-08-22T09:07:55Z
+    Author: The Wifey Collection
+    Tags: boutique style, evolution of modest fashion, fashion, hijab, modest, modest outfits, modest wardrobe trends, traditional clothing
+  - [Refined Connotations: The Discreet Allure of Modesty in Fashion](https://thewifeycollection.ca/blogs/news/refined-connotations-the-discreet-allure-of-modesty-in-fashion): Refined Connotations: The Discreet Allure of Modesty in Fashion
+    Updated: 2026-08-25T09:08:03Z
+    Author: The Wifey Collection
+    Tags: chic modesty, contemporary modest style, elegant attire, fashion, modest clothing, modest fashion trends, modesty, style
 
 ## Store Pages
 
