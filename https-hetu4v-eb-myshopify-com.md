@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-19T15:43:14Z
 - Contact Email: shopifyadmin@futureshirts.com
-- Updated At: 2026-08-19T19:22:57.869Z
+- Updated At: 2026-08-27T00:00:30.207Z
 
 ## Collections
 
@@ -20,6 +20,8 @@
   Updated: 2026-08-19T15:43:18Z
 - [Your Privacy Choices](https://hetu4v-eb.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-08-19T15:43:19Z
+- [Withdrawal form](https://hetu4v-eb.myshopify.com/pages/eu-withdrawal-form)
+  Updated: 2026-08-19T19:24:36Z
 
 ## Policies
 
