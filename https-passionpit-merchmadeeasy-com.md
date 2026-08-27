@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-05T20:56:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-17T00:00:37.217Z
+- Updated At: 2026-08-27T00:00:40.337Z
 
 ## Products
 
 - [Diamond Eye Tee](https://passionpit.merchmadeeasy.com/products/diamond-eye-tee): Diamond Eye design on a 100% cotton tee Unisex
-  Updated: 2026-08-11T05:02:40Z
+  Updated: 2026-08-20T01:30:20Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Star Child Tee](https://passionpit.merchmadeeasy.com/products/star-child-tee): Star child design on a 100% cotton tee in Black Unisex
-  Updated: 2026-08-11T05:02:40Z
+  Updated: 2026-08-20T01:30:29Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -56,7 +56,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Teeth Tee](https://passionpit.merchmadeeasy.com/products/teeth-tee): Teeth design on a 100% cotton tee in Kelly Green or Olive Green
-  Updated: 2026-08-14T05:43:31Z
+  Updated: 2026-08-20T01:30:29Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -86,7 +86,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Lifted Tee](https://passionpit.merchmadeeasy.com/products/lifted-tee): 100% cotton tee in Black Unisex
-  Updated: 2026-08-11T05:01:50Z
+  Updated: 2026-08-20T01:30:20Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -107,7 +107,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Orb Tee](https://passionpit.merchmadeeasy.com/products/orb-tee-copy): 100% cotton tee in Black Unisex
-  Updated: 2026-08-14T05:43:35Z
+  Updated: 2026-08-20T01:30:21Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -125,35 +125,35 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Bottle Opener Keychain](https://passionpit.merchmadeeasy.com/products/bottle-opener-keychain): Passion Pit design on a bottle opener keychain
-  Updated: 2026-08-10T17:01:03Z
+  Updated: 2026-08-20T01:30:19Z
   Vendor: Passion Pit
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion-Pit-Bottle-opener.png?v=1779310995
   Price: $5.00 USD
 - [Faces Tote Bag](https://passionpit.merchmadeeasy.com/products/faces-tote-bag): Cotton canvas tote bag with faces graphic on the front
-  Updated: 2026-08-11T05:00:50Z
+  Updated: 2026-08-20T01:30:20Z
   Vendor: Passion Pit
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0001_PP-Tote.png?v=1778188737
   Price: $20.00 USD
 - [Gossamer CD](https://passionpit.merchmadeeasy.com/products/gossamer-cd): Gossamer CD by Passion Pit
-  Updated: 2026-08-13T21:10:16Z
+  Updated: 2026-08-20T01:30:20Z
   Vendor: Passion Pit
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0005_Passion_Pit_Gossamer_CD_5000x_6a3f3803-6aa0-4947-a282-5572f04e81c1.png?v=1779983108
   Price: $14.98 USD
 - [Chunk of Change Vinyl](https://passionpit.merchmadeeasy.com/products/chunk-of-change-vinyl): Tracklist: I've Got Your Number Smile Upon Me Cuddle Fuddle Live to Tell the Tale Better Things Sleepyhead
-  Updated: 2026-08-06T21:26:32Z
+  Updated: 2026-08-20T01:30:19Z
   Vendor: Passion Pit
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0000_Chunk-of-Change-Vinyl.png?v=1778188939
   Price: $29.98 USD
 - [2026 Tour Photo Tee](https://passionpit.merchmadeeasy.com/products/2026-tour-photo-tee): Passion Pit graphic on the front 2026 tour dates on the back 100% cotton tee in Black
-  Updated: 2026-08-14T05:43:31Z
+  Updated: 2026-08-26T16:40:05Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -176,7 +176,7 @@
 - [Captcha Tee](https://passionpit.merchmadeeasy.com/products/captcha-tee): Passion Pit captcha graphic on the front 
 100% cotton tee in White
 Unisex
-  Updated: 2026-08-14T07:54:05Z
+  Updated: 2026-08-26T16:36:33Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -199,7 +199,7 @@ Unisex
 - [Smile Upon Me Tee](https://passionpit.merchmadeeasy.com/products/smile-tee): you'll always smile upon me and i'll smile upon you too
 100% cotton tee in Beige
 Unisex
-  Updated: 2026-08-14T16:40:56Z
+  Updated: 2026-08-26T16:40:58Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -220,21 +220,21 @@ Unisex
     Availability: Available
     Price: $35.00 USD
 - [Sleepyhead Hat](https://passionpit.merchmadeeasy.com/products/sleepyhead-hat): Sleepyhead embroidered in blue on the front Passion Pit embroidered on the back Tan baseball cap
-  Updated: 2026-08-06T19:27:34Z
+  Updated: 2026-08-26T16:40:58Z
   Vendor: Passion Pit
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Sleepyhead-Hat-A.png?v=1778791339
   Price: $40.00 USD
 - [Passion Pit Tote](https://passionpit.merchmadeeasy.com/products/passion-pit-tote): Passion Pit graphic in orange printed on the front 100% cotton canvas
-  Updated: 2026-08-07T18:04:48Z
+  Updated: 2026-08-21T16:40:39Z
   Vendor: Passion Pit
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Mockup_0007_Passion-Pit-Tote.png?v=1778791414
   Price: $25.00 USD
 - [Sticker Pack](https://passionpit.merchmadeeasy.com/products/sticker-pack): Set of 5 stickers
-  Updated: 2026-08-11T04:57:01Z
+  Updated: 2026-08-25T18:49:46Z
   Vendor: Passion Pit
   Product Type: Stickers
   Availability: Available
@@ -247,22 +247,22 @@ Unisex
   Updated: 2026-08-14T11:29:02Z
   Total Products: 10
 - [Apparel](https://passionpit.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-15T11:39:47Z
+  Updated: 2026-08-26T16:40:01Z
   Total Products: 9
 - [Accessories](https://passionpit.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-07T11:29:11Z
+  Updated: 2026-08-26T11:20:54Z
   Total Products: 5
 - [Music](https://passionpit.merchmadeeasy.com/collections/music)
   Updated: 2026-08-05T20:25:30Z
   Total Products: 2
 - [Pretty Penny Tour](https://passionpit.merchmadeeasy.com/collections/tour)
-  Updated: 2026-08-15T11:39:47Z
+  Updated: 2026-08-26T16:40:01Z
   Total Products: 6
 - [Hats](https://passionpit.merchmadeeasy.com/collections/hats)
   Updated: 2026-08-05T20:25:30Z
   Total Products: 0
 - [All](https://passionpit.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-15T11:39:47Z
+  Updated: 2026-08-26T16:40:01Z
   Total Products: 15
 
 ## Store Pages
