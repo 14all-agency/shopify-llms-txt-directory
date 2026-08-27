@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-30T18:18:37Z
 - Contact Email: info@getpowerflow.com
-- Updated At: 2026-08-20T00:00:36.257Z
+- Updated At: 2026-08-27T00:00:38.917Z
 
 ## Products
 
@@ -2484,8 +2484,8 @@
   Updated: 2026-08-10T04:38:37Z
   Total Products: 17
 - [Home & Living](https://printaface.com/collections/home)
-  Updated: 2026-08-14T11:25:53Z
-  Total Products: 11
+  Updated: 2026-08-21T11:23:28Z
+  Total Products: 12
 - [Accessories](https://printaface.com/collections/accessories)
   Updated: 2026-07-16T22:21:32Z
   Total Products: 5
@@ -2517,8 +2517,8 @@
   Updated: 2026-08-02T23:57:02Z
   Total Products: 2
 - [Mug](https://printaface.com/collections/mug)
-  Updated: 2026-08-14T11:25:53Z
-  Total Products: 3
+  Updated: 2026-08-21T11:23:28Z
+  Total Products: 5
 - [Candles](https://printaface.com/collections/candles)
   Updated: 2026-07-16T22:21:33Z
   Total Products: 2
@@ -2598,7 +2598,7 @@
   Updated: 2026-07-16T22:21:35Z
   Total Products: 0
 - [Tech Accessories](https://printaface.com/collections/tech-accessories)
-  Updated: 2026-08-10T04:55:25Z
+  Updated: 2026-08-20T19:42:17Z
   Total Products: 1
 - [Travel Accessories](https://printaface.com/collections/travel-accessories)
   Updated: 2026-07-16T22:21:35Z
@@ -2676,8 +2676,8 @@
   Updated: 2026-07-16T22:21:37Z
   Total Products: 5
 - [Back to School](https://printaface.com/collections/back-to-school)
-  Updated: 2026-07-16T22:21:37Z
-  Total Products: 1
+  Updated: 2026-08-20T16:27:59Z
+  Total Products: 2
 - [Abstract](https://printaface.com/collections/abstract)
   Updated: 2026-08-10T04:16:50Z
   Total Products: 2
@@ -2707,6 +2707,9 @@
   Total Products: 0
 - [Others](https://printaface.com/collections/others)
   Updated: 2026-07-16T22:21:38Z
+  Total Products: 0
+- [Halloween](https://printaface.com/collections/halloween)
+  Updated: 2026-08-20T19:37:40Z
   Total Products: 0
 
 ## Blogs
@@ -2751,6 +2754,15 @@
     Author: Sachi
   - [Custom Print on Demand Gifting 101: What You Need to Know](https://printaface.com/blogs/news/custom-print-on-demand-gifting-101-what-you-need-to-know): Custom Print on Demand Gifting 101: What You Need to Know
     Updated: 2026-08-19T00:30:21Z
+    Author: Sachi
+  - [Frequently Asked Questions About Custom Face Print Gift Ideas](https://printaface.com/blogs/news/frequently-asked-questions-about-custom-face-print-gift-ideas): Frequently Asked Questions About Custom Face Print Gift Ideas
+    Updated: 2026-08-21T00:41:29Z
+    Author: Sachi
+  - [The Evolution of Custom Face Prints in Personalized Gifting](https://printaface.com/blogs/news/the-evolution-of-custom-face-prints-in-personalized-gifting): The Evolution of Custom Face Prints in Personalized Gifting
+    Updated: 2026-08-22T01:25:40Z
+    Author: Sachi
+  - [Five Must-Have Tips for Creating Unique Custom Print Gifts](https://printaface.com/blogs/news/five-must-have-tips-for-creating-unique-custom-print-gifts): Five Must-Have Tips for Creating Unique Custom Print Gifts
+    Updated: 2026-08-26T00:32:23Z
     Author: Sachi
 
 ## Store Pages
