@@ -6,7 +6,7 @@
 - Timezone: Australia/Brisbane
 - Created At: 2026-08-16T12:41:22Z
 - Contact Email: alexmichaelrichards1995@gmail.com
-- Updated At: 2026-08-20T00:00:19.647Z
+- Updated At: 2026-08-27T00:00:28.029Z
 
 Richo Systems is an Australian digital products company specialising in AI workflow automation tools for small and medium businesses. Our product range includes structured AI workflow templates, QA and review toolkits, operations bundles, and pilot programs designed to help business operators implement reliable, auditable AI systems at scale. All products are digital downloads, built for practical deployment without requiring deep technical expertise.
 
@@ -48,17 +48,16 @@ Richo Systems is an Australian digital products company specialising in AI workf
   Image: https://cdn.shopify.com/s/files/1/0677/9191/3023/files/richo-operations-template-bundle_e232f846-9727-4e6c-8470-4a1d5fd30366.png?v=1786892133
   Price: $129.00 AUD
 - [R.I.C.H.O. Starter Membership — Monthly AI Workflow Templates | Richo Systems](https://httpsrichosystems.com/products/r-i-c-h-o-membership-starter): Keep your AI workflow toolkit current with fresh templates every month. Member library, priority support & early access. From A$29/month. Cancel anytime.
-  Updated: 2026-08-19T16:48:23Z
+  Updated: 2026-08-22T03:58:36Z
   Vendor: Richo Systems
   Product Type: Membership
   Availability: Available
   Price: $29.00 AUD
 - [R.I.C.H.O. Pro Membership — Advanced AI Workflow Templates Australia | Richo Systems](https://httpsrichosystems.com/products/r-i-c-h-o-membership-pro): Pro-level AI workflow membership with QA Toolkit, Operations frameworks & 2 new templates/month. Auditable, structured automation for Australian operators. From A$59/month.
-  Updated: 2026-08-19T12:59:21Z
+  Updated: 2026-08-22T16:17:13Z
   Vendor: Richo Systems
   Product Type: Membership
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0677/9191/3023/files/ChatGPTImageAug19_2026_12_20_15AM_f89f619d-f73d-44ad-89d8-0d64f5f9b1a9.png?v=1787092668
   Price: $59.00 AUD
 - [R.I.C.H.O. Operator Membership — Elite AI Operations Access | Richo Systems](https://httpsrichosystems.com/products/r-i-c-h-o-membership-operator): Full R.I.C.H.O. library, 3 templates/month, live Q&A, beta access & annual AI architecture review. The elite membership for serious Australian AI operators. From A$99/month.
   Updated: 2026-08-19T12:53:58Z
@@ -101,7 +100,7 @@ Richo Systems is an Australian digital products company specialising in AI workf
   Updated: 2026-08-18T15:31:51Z
   Total Products: 4
 - [Digital Products](https://httpsrichosystems.com/collections/digital-products): Browse AI workflow templates, automation toolkits and operations resources. Practical digital products for Australian businesses. From AU$49.
-  Updated: 2026-08-19T10:01:16Z
+  Updated: 2026-08-22T04:17:07Z
   Total Products: 7
 - [Assessments](https://httpsrichosystems.com/collections/assessments): Get a structured AI operations assessment for your business. Understand your readiness, identify opportunities and get a clear action plan. AU$199.
   Updated: 2026-08-18T15:31:51Z
@@ -116,7 +115,7 @@ Richo Systems is an Australian digital products company specialising in AI workf
   Updated: 2026-08-18T15:31:51Z
   Total Products: 5
 - [R.I.C.H.O. Memberships](https://httpsrichosystems.com/collections/r-i-c-h-o-memberships): Monthly AI workflow memberships for Australian small businesses. Starter, Pro, and Operator tiers. Cancel anytime. From A$29/month — R.I.C.H.O. Systems.
-  Updated: 2026-08-19T10:01:16Z
+  Updated: 2026-08-22T04:17:07Z
   Total Products: 3
 
 ## Blogs
