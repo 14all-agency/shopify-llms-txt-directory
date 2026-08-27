@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-07-03T08:31:58Z
 - Contact Email: service.client@chibipop.shop
-- Updated At: 2026-08-18T00:00:44.642Z
+- Updated At: 2026-08-27T00:00:44.836Z
 
 ## Products
 
@@ -260,6 +260,12 @@
 - [Idées Cadeaux Kawaii & Geek](https://chibipop.shop/collections/idees-cadeaux-kawaii): Blind boxes, figurines kawaii et peluches mystère à offrir. Cadeaux originaux geek & kawaii livrés depuis la France. Chibi Pop.
   Updated: 2026-07-30T19:15:34Z
   Total Products: 39
+- [Cartes Kayou : KPop Demon Hunters & My Little Poney](https://chibipop.shop/collections/cartes-kayou-kpop-demon-hunters-my-little-poney)
+  Updated: 2026-08-25T14:01:54Z
+  Total Products: 2
+- [Accessoires et Protections pour cartes à collectionner](https://chibipop.shop/collections/accessoires-et-protections-pour-cartes-a-collectionner)
+  Updated: 2026-08-25T14:06:46Z
+  Total Products: 2
 
 ## Blogs
 
@@ -293,6 +299,8 @@
   Updated: 2026-07-07T13:56:34Z
 - [Vendre ses Cartes Pokémon : Dépôt-Vente Facile | Chibi Pop](https://chibipop.shop/pages/vente-cartes-pokemon-service-depot-vente-cle-en-main): Vous possédez des cartes Pokémon qui dorment dans vos classeurs ou vos tiroirs ? Qu'il s'agisse de cartes vintage de votre enfance, de cartes ultra...
   Updated: 2026-07-15T08:37:44Z
+- [Toutes nos cartes à collectionner : Pokémon, One Piece, Magic, Kayou...](https://chibipop.shop/pages/toutes-nos-cartes-a-collectionner-pokemon-one-piece-magic-kayou)
+  Updated: 2026-08-25T13:56:16Z
 
 ## Policies
 
