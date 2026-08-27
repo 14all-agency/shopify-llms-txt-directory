@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-09T21:12:30Z
 - Contact Email: contact@vr7fragrance.in
-- Updated At: 2026-08-19T19:42:40.499Z
+- Updated At: 2026-08-27T00:00:29.142Z
 
 ## Products
 
@@ -67,7 +67,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/morning_star_20ml_box_and_bottle_vr7_fragrance.jpg?v=1776676334
     Price: ₹349.00 INR
 - [VR7 Discovery Set – 7 Extrait de Parfum Sprays Sampler](https://vr7fragrance.in/products/vr7-perfume-discovery-set-7x3ml-extrait-de-parfum): Sample 7 luxury extrait de parfum sprays—oud, vanilla, aquatic, and more. High-concentration, unisex, premium gift. Only ₹499.
-  Updated: 2026-08-16T20:58:56Z
+  Updated: 2026-08-26T17:51:01Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -288,77 +288,77 @@
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-fragrance-tropical-extrait-de-parfum.png?v=1785577684
   Price: ₹80.00 INR
 - [Perfume Formulation eBook Bundle | 10 Perfumery Books](https://vr7fragrance.in/products/perfumers-formula-vault): Learn perfume formulation, raw materials, accords, blending and troubleshooting with The Perfumer’s Formula Vault — a complete 10-book digital perfumery collection.
-  Updated: 2026-08-19T18:20:43Z
+  Updated: 2026-08-20T05:11:35Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/10_perfume_e-book_bundle.jpg?v=1787163628
   Price: ₹299.00 INR
 - [Perfume Formulation Secrets](https://vr7fragrance.in/products/perfume-formulation-secrets): A practical introduction to building perfume formulas.Learn fragrance structure, formula construction, ingredient balance, accords and practical formulation concepts.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:55:25Z
+  Updated: 2026-08-20T03:36:40Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/perfumeformulationsecretsebook.jpg?v=1787162121
   Price: ₹99.00 INR
 - [The Perfumer’s Ingredient Bible](https://vr7fragrance.in/products/the-perfumer-s-ingredient-bible): A reference guide to the materials perfumers work with.Explore aroma chemicals, naturals, musks, woods, fixatives, bases, functions and pairing ideas.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:54:54Z
+  Updated: 2026-08-20T03:40:15Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/theperfumersingredientsbible.jpg?v=1787162088
   Price: ₹99.00 INR
 - [From Oil to Perfume](https://vr7fragrance.in/products/from-oil-to-perfume): A practical guide to moving from fragrance materials to a finished perfume.Learn blending, dilution, concentrate structure, balance and the stages between raw materials and finished fragrance.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:54:20Z
+  Updated: 2026-08-20T03:35:29Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Fromoiltoperfumeebook.jpg?v=1787162055
   Price: ₹99.00 INR
 - [Perfume Raw Materials Explained](https://vr7fragrance.in/products/perfume-raw-materials-explained): A beginner-friendly guide to understanding perfume raw materials.Learn what key ingredients smell like, what roles they play, how they behave and how perfumers combine them.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:53:46Z
+  Updated: 2026-08-20T03:37:25Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/perfumerawmaterialsexplainedebook.jpg?v=1787162022
   Price: ₹99.00 INR
 - [The Perfume Formula Handbook](https://vr7fragrance.in/products/the-perfume-formula-handbook): A hands-on handbook for perfume formula development.Explore accords, ratios, fixatives, boosters, balance, trial structure and practical blending techniques.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:53:18Z
+  Updated: 2026-08-20T03:39:43Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/theperfumeformulahandbook.jpg?v=1787161992
   Price: ₹99.00 INR
 - [100 Essential Perfume Ingredients](https://vr7fragrance.in/products/100-essential-perfume-ingredients): A practical reference to 100 important perfumery materials.Learn characteristic odor profiles, common functions, families and pairing concepts across widely used fragrance materials.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:52:48Z
+  Updated: 2026-08-20T03:19:47Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/100essentialperfumeingredientsebook.jpg?v=1787161962
   Price: ₹99.00 INR
 - [The Art of Perfume Blending](https://vr7fragrance.in/products/the-art-of-perfume-blending): A practical guide to creating balanced fragrance blends.Learn how to combine materials, build accords, control contrast, improve harmony and refine blends through structured trials.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:52:13Z
+  Updated: 2026-08-20T03:38:54Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/theartofperfumeblendingebook.jpg?v=1787161928
   Price: ₹99.00 INR
 - [Modern Perfumery for Beginners](https://vr7fragrance.in/products/modern-perfumery-for-beginners): A clear starting point for learning modern perfumery.Understand aroma chemicals, naturals, accords, concentration, evaluation and the basic workflow of fragrance creation.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:51:21Z
+  Updated: 2026-08-20T03:36:03Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/modernperfumeryforbeginners.jpg?v=1787161875
   Price: ₹99.00 INR
 - [Perfume Troubleshooting Manual](https://vr7fragrance.in/products/perfume-troubleshooting-manual): A diagnostic guide for improving perfume formulas.Learn how to identify and correct harshness, weak diffusion, poor longevity, excess sweetness and other common formulation problems.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:50:52Z
+  Updated: 2026-08-20T03:38:15Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/perfumetroubleshootingmanualebook.jpg?v=1787161843
   Price: ₹99.00 INR
 - [Build Your Own Perfume Formula](https://vr7fragrance.in/products/build-your-own-perfume-formula): A step-by-step workbook for creating an original perfume formula.Move from concept and material selection through accord building, trial modification, evaluation and final formula development.Digital eBook: instant downloadable educational content. No physical item will be shipped.
-  Updated: 2026-08-19T17:50:13Z
+  Updated: 2026-08-20T03:35:00Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook
   Availability: Available
@@ -380,7 +380,7 @@
   Updated: 2026-08-06T13:57:10Z
   Total Products: 2
 - [Latest arrivals by VR7 Fragrance](https://vr7fragrance.in/collections/latest-arrivals-by-vr7fragrance): Explore the new extrait de parfum arrivals by VR7 Fragrance—luxury scents with 33% oil concentration for lasting, sophisticated impressions. Find your signature today.
-  Updated: 2026-08-17T11:17:54Z
+  Updated: 2026-08-21T11:18:46Z
   Total Products: 12
 - [Men's collection by VR7 Fragrance](https://vr7fragrance.in/collections/mens-collection-by-vr7fragrance): Explore men’s extrait de parfum by VR7 Fragrance—luxury scents with 33% oil for lasting impression. Shop top-rated, signature perfumes online.
   Updated: 2026-07-26T19:08:04Z
@@ -389,7 +389,7 @@
   Updated: 2026-07-26T19:08:04Z
   Total Products: 8
 - [Discovery sets by VR7 Fragrance](https://vr7fragrance.in/collections/discovery-sets-by-vr7-fragrance): Explore 7 luxury extrait de parfum sprays by VR7 in one premium gift set for men and women. Long-lasting, unisex, travel-ready, just ₹499.
-  Updated: 2026-08-17T11:17:54Z
+  Updated: 2026-08-21T11:18:46Z
   Total Products: 1
 - [Everyday Perfumes](https://vr7fragrance.in/collections/everyday-perfumes): Shop VR7 Extrait de Parfum selected for everyday wear—fresh, versatile and long-lasting fragrances for daily confidence.
   Updated: 2026-08-11T20:13:11Z
@@ -407,10 +407,10 @@
   Updated: 2026-08-11T20:13:12Z
   Total Products: 4
 - [Perfume Gifts](https://vr7fragrance.in/collections/perfume-gifts): Shop VR7 perfume gifts, Discovery Sets and luxury Extrait de Parfum gift sets for birthdays, celebrations and special occasions.
-  Updated: 2026-08-17T11:17:54Z
+  Updated: 2026-08-21T11:18:46Z
   Total Products: 7
 - [All Perfumes](https://vr7fragrance.in/collections/all-perfumes): Explore VR7 Fragrance perfumes and fragrance gift collections. Sample-size 3 ml products and digital education products are shown separately.
-  Updated: 2026-08-19T18:48:55Z
+  Updated: 2026-08-21T11:18:46Z
   Total Products: 18
 
 ## Blogs
