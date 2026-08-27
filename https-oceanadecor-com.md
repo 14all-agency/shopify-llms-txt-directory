@@ -6,7 +6,7 @@
 - Timezone: America/Guyana
 - Created At: 2026-07-09T19:01:47Z
 - Contact Email: oceanadecor@gmail.com
-- Updated At: 2026-08-19T08:17:06.156Z
+- Updated At: 2026-08-27T00:00:49.452Z
 
 A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts chosen for how they wear into.
 
@@ -19,14 +19,14 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $34.99 USD
 - [Inis Cologne Spray 100ml / 3.3 fl. oz](https://oceanadecor.com/products/inis-cologne-spray-100ml-3-3-fl-oz): Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the feeling of a sunny day by the sea. Clean, Energising & Unisex – A light yet lasting scent loved by both women and men for its fresh, uplifting character. Feel Close to the Sea – Instantly refreshes and evokes the freedom, energy and happiness of the ocean.
-  Updated: 2026-08-09T04:10:23Z
+  Updated: 2026-08-21T22:30:54Z
   Vendor: Fragrances Of Ireland
   Product Type: Spray Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/71hIW-apWlL._SL1500.jpg?v=1785199680
   Price: $73.99 USD
 - [Inis Travel Size Body Lotion 85ml / 2.9 fl. oz.](https://oceanadecor.com/products/inis-travel-size-body-lotion-85ml-2-9-fl-oz-1): Deep Ocean Hydration – Nutrient-rich seaweed extracts and shea butter deliver lasting moisture to leave skin soft, smooth and replenished. Softens & Conditions Skin – Antioxidant-rich Vitamin E and Provitamin B5 help keep skin supple, silky and beautifully conditioned. Fresh, Lightweight Feel – Fast-absorbing daily moisture infused with the sparkling ocean fresh scent of Inis.
-  Updated: 2026-08-14T18:14:57Z
+  Updated: 2026-08-26T17:19:26Z
   Vendor: Fragrances Of Ireland
   Product Type: Body Lotion
   Availability: Available
@@ -39,8 +39,8 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Hand-Cream-30ml.webp?v=1785171579
   Price: $8.99 USD
-- [Inis Rejuvenating Body Butter 300ml /10.1 oz. | Oceana Decor](https://oceanadecor.com/products/inis-rejuvenating-body-butter-300ml): Deep Lasting Moisture - Rich shea butter, coconut oil and seaweed extracts intensely nourish dry skin and lock in hydration. Smooths & Rejuvenates – Sea minerals and antioxidant-rich botanical oils help leave skin soft, supple and beautifully conditioned. Perfect After the Beach – Luxuriously rich cream soothes skin after a day in the sun.
-  Updated: 2026-08-02T10:58:47Z
+- [Inis Rejuvenating Body Butter 300ml /10.1 oz. | Oceana Decor](https://oceanadecor.com/products/inis-rejuvenating-body-butter-300ml-10-1-oz): Deep Lasting Moisture - Rich shea butter, coconut oil and seaweed extracts intensely nourish dry skin and lock in hydration. Smooths & Rejuvenates – Sea minerals and antioxidant-rich botanical oils help leave skin soft, supple and beautifully conditioned. Perfect After the Beach – Luxuriously rich cream soothes skin after a day in the sun.
+  Updated: 2026-08-21T17:22:37Z
   Vendor: Fragrances Of Ireland
   Product Type: Body Butter
   Availability: Available
@@ -60,15 +60,15 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/71LDCa85O6L._SL1500.jpg?v=1785210460
   Price: $44.99 USD
 - [Inis Fragrance-Diffuser 100ml / 3.3 fl. oz.](https://oceanadecor.com/products/inis-fragrance-diffuser-100ml-3-3-fl-oz)
-  Updated: 2026-08-18T00:44:16Z
+  Updated: 2026-08-21T22:22:22Z
   Vendor: Fragrances Of Ireland
-  Product Type: 
+  Product Type: Fragrance
   Availability: Available
   Price: $47.99 USD
 - [Inis Fragrance Diffuser Refill 3.3 fl. oz.](https://oceanadecor.com/products/inis-fragrance-diffuser-refill-3-3-fl-oz)
-  Updated: 2026-08-02T21:20:56Z
+  Updated: 2026-08-22T01:22:05Z
   Vendor: Fragrances Of Ireland
-  Product Type: 
+  Product Type: Fragrance
   Availability: Available
   Price: $28.99 USD
 - [Inis Home Fragrance Refresher Oil 19ml | Oceana Decor](https://oceanadecor.com/products/inis-eots-home-fragrance-refresher-oil-19ml): Instantly Brightens - Uplifts your surroundings with the sparkling, clean scent of Inis. Versatile Fragrance Use - perfect for electric diffusers, oil burners, potpourri, and porous ceramic home fragrance items. Easy To Refresh - With just a few drops added to water or onto scented object, ideal for maintaining continuous ocean‑fresh scent at home.
@@ -79,7 +79,7 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Refresher-Oil.webp?v=1785214167
   Price: $21.99 USD
 - [Inis Large Sea Mineral Soap 3.5 oz. | Oceana Decor](https://oceanadecor.com/products/inis-large-sea-mineral-soap-7-4-oz): Gently Cleanses & Refreshes – Triple milled soap creates a rich, creamy lather that leaves the skin feeling clean and refreshed.Nourishes While You Wash – Shea butter, sea minerals and seaweed extracts help soften and condition the skin.Fresh Ocean Inspired Scent – Infused with the sparkling fragrance of Inis for an uplifting everyday escape to the sea.
-  Updated: 2026-08-17T12:55:49Z
+  Updated: 2026-08-22T01:22:01Z
   Vendor: Fragrances Of Ireland
   Product Type: Body Soap
   Availability: Available
@@ -91,31 +91,31 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Product Type: 
   Availability: Available
   Price: $39.99 USD
-- [Inis Travel Size Shower Gel 2.9 fl. oz. | Oceana Decor](https://oceanadecor.com/products/inis-travel-size-shower-gel-85-ml): Refreshes & Revives Skin – Invigorating shower gel leaves skin feeling clean, energised and refreshed from head to toe. Hydrating and Cleansing – Seaweed extracts, sea minerals and glycerin help maintain soft, hydrated skin. Ocean-Fresh Everyday Escape – Infused with the sparkling scent of Inis for the uplifting feeling of a day by the sea.
-  Updated: 2026-08-02T10:58:44Z
+- [Inis Travel Size Shower Gel 2.9 fl. oz. | Oceana Decor](https://oceanadecor.com/products/inis-travel-size-shower-gel-2-9-fl-oz-1): Refreshes & Revives Skin – Invigorating shower gel leaves skin feeling clean, energised and refreshed from head to toe. Hydrating and Cleansing – Seaweed extracts, sea minerals and glycerin help maintain soft, hydrated skin. Ocean-Fresh Everyday Escape – Infused with the sparkling scent of Inis for the uplifting feeling of a day by the sea.
+  Updated: 2026-08-22T01:22:16Z
   Vendor: Fragrances Of Ireland
   Product Type: Body Wash
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Shower-Gel-85ml.webp?v=1785170158
   Price: $9.99 USD
-- [Inis Cologne Spray 50ml / 1.7 fl. oz | Oceana Decor](https://oceanadecor.com/products/inis-cologne-spray-50ml): Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the feeling of a sunny day by the sea. Clean, Energising & Unisex – A light yet lasting scent loved by both women and men for its fresh, uplifting character. Feel Close to the Sea – Instantly refreshes and evokes the freedom, energy and happiness of the ocean.
-  Updated: 2026-08-12T07:06:12Z
+- [Inis Cologne Spray 50ml / 1.7 fl. oz | Oceana Decor](https://oceanadecor.com/products/inis-cologne-spray-50ml-1-7-fl-oz): Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the feeling of a sunny day by the sea. Clean, Energising & Unisex – A light yet lasting scent loved by both women and men for its fresh, uplifting character. Feel Close to the Sea – Instantly refreshes and evokes the freedom, energy and happiness of the ocean.
+  Updated: 2026-08-21T10:33:07Z
   Vendor: Fragrances Of Ireland
   Product Type: Spray Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/71MHzg27DZL._SL1500.jpg?v=1785201548
-  Price: $58.99 USD
+  Price: $62.99 USD
 - [Inis Roll On 8ml / .27 fl. oz | Oceana Decor](https://oceanadecor.com/products/inis-roll-on-8ml-27-fl-oz): Concentrated Eau de Parfum – A more concentrated fragrance that delivers a long-lasting scent throughout the day. Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the uplifting feeling of a sunny day by the sea. Refresh On the Go – The compact roll-on design makes it easy to enjoy the energising scent of Inis anytime, anywhere. Light, Clean & Lasting – A beautifully balanced unisex fragrance that refreshes and lingers gently on the skin.
-  Updated: 2026-08-15T11:41:19Z
+  Updated: 2026-08-20T16:25:09Z
   Vendor: Fragrances Of Ireland
   Product Type: Roll On Perfume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/714PsFmVqnL._SL1500.jpg?v=1785198240
   Price: $29.99 USD
 - [Inis Sea Nutrient Lip Balm 15ml / 0.5 fl. oz](https://oceanadecor.com/products/inis-sea-nutrient-lip-balm-15ml-0-5-fl-oz)
-  Updated: 2026-08-08T21:45:35Z
+  Updated: 2026-08-20T04:16:21Z
   Vendor: Fragrances Of Ireland
-  Product Type: 
+  Product Type: Fragrance
   Availability: Available
   Price: $14.99 USD
 - [Inis Sea Mineral Soap 100g / 3.5 oz | Oceana Decor](https://oceanadecor.com/products/inis-sea-mineral-soap-100g-3-5-oz-1): Gently Cleanses & Refreshes – Triple milled soap creates a rich, creamy lather that leaves the skin feeling clean and refreshed.Nourishes While You Wash – Shea butter, sea minerals and seaweed extracts help soften and condition the skin.Fresh Ocean Inspired Scent – Infused with the sparkling fragrance of Inis for an uplifting everyday escape to the sea.
@@ -126,21 +126,21 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Sea-Mineral-Soap-100g.png?v=1785100213
   Price: $9.99 USD
 - [HANDCAST GOLD HOOP EARRING](https://oceanadecor.com/products/handcast-gold-hoop-earring)
-  Updated: 2026-08-01T05:05:07Z
+  Updated: 2026-08-20T04:16:19Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $51.99 USD
 - [HANDCAST GOLD HEART EARRING](https://oceanadecor.com/products/handcast-gold-heart-earring)
-  Updated: 2026-08-03T16:45:57Z
+  Updated: 2026-08-20T04:16:25Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $41.99 USD
 - [HANDCAST GOLD HEART TOGGLE NECKLACE](https://oceanadecor.com/products/handcast-gold-heart-toggle-necklace)
-  Updated: 2026-08-03T16:45:56Z
+  Updated: 2026-08-20T04:16:18Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $86.99 USD
 - [HANDCAST GOLD,WHITE PEARL CAB ER](https://oceanadecor.com/products/handcast-gold-white-pearl-cab-er)
@@ -168,21 +168,21 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $62.99 USD
 - [GOLD STARFISH SHELL TOGGLE & AQUA SEAGLASS & AGATE BRACELET](https://oceanadecor.com/products/gold-starfish-shell-toggle-aqua-seaglass-agate-bracelet)
-  Updated: 2026-08-03T16:46:00Z
+  Updated: 2026-08-20T04:16:17Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $62.99 USD
 - [GOLD 36" SANDOLLAR,AQUA SEAGLASS NK](https://oceanadecor.com/products/gold-36-sandollar-aqua-seaglass-nk)
-  Updated: 2026-08-01T05:05:06Z
+  Updated: 2026-08-20T04:16:19Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $98.99 USD
-- [Turquoise Tall Cross Necklace](https://oceanadecor.com/products/handcast-long-gold-cross-on-matte-turquoise-necklace): Susan's latest cross design is an elongated, handmade depiction symbolizing far reaching love. Please note: our jewelry is crafted using genuine pearls and stones; as a result, slight variations in color, shape, and size may occur. These natural differences are part of their unique beauty and contribute to the one-of-a-kind nature of each piece.
-  Updated: 2026-08-03T16:45:55Z
+- [HANDCAST LONG GOLD CROSS ON MATTE TURQUOISE NECKLACE](https://oceanadecor.com/products/handcast-long-gold-cross-on-matte-turquoise-necklace): Susan's latest cross design is an elongated, handmade depiction symbolizing far reaching love. Please note: our jewelry is crafted using genuine pearls and stones; as a result, slight variations in color, shape, and size may occur. These natural differences are part of their unique beauty and contribute to the one-of-a-kind nature of each piece.
+  Updated: 2026-08-22T06:45:20Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/3245TQ_2000x_5951b507-f0b9-4271-a45c-66cfd7a0bc49.webp?v=1785559256
   Price: $86.99 USD
@@ -192,34 +192,28 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Product Type: 
   Availability: Available
   Price: $71.99 USD
-- [HANDCAST GOLD LONG CROSS ON FRESHWATER PEARL TOGGLE NECKLACE](https://oceanadecor.com/products/handcast-gold-long-cross-on-freshwater-pearl-toggle-necklace)
-  Updated: 2026-08-16T21:02:26Z
-  Vendor: Susan Shaw Wholesale
-  Product Type: 
-  Availability: Available
-  Price: $91.99 USD
 - [HANDCAST GOLD LONG CROSS ON WIRE EARRING](https://oceanadecor.com/products/handcast-gold-long-cross-on-wire-earring)
-  Updated: 2026-08-03T16:46:00Z
+  Updated: 2026-08-24T14:48:31Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $46.99 USD
 - [HANDCAST GOLD MEDIUM CROSS EARRING](https://oceanadecor.com/products/handcast-gold-medium-cross-earring)
-  Updated: 2026-08-01T05:05:06Z
+  Updated: 2026-08-20T04:16:15Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $46.99 USD
 - [SMALL GOLD CHAIN HOOP EARRING](https://oceanadecor.com/products/small-gold-chain-hoop-earring)
-  Updated: 2026-08-01T05:05:06Z
+  Updated: 2026-08-20T04:16:14Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $45.99 USD
 - [Pearl Paperclip Necklace](https://oceanadecor.com/products/gold-freshwater-pearl-drop-on-paperclip-necklace): The Pearl Paperclip Necklace is a everyday basic that makes a subtle, classic statement. It features a freshwater pearl on our medium paperclip chain, perfect for layering with other necklaces. Make this unique and cheerful necklace part of your everyday style. Please note: our jewelry is crafted using genuine pearls and stones; as a result, slight variations in color, shape, and size may occur. These natural differences are part of their unique beauty and contribute to the one-of-a-kind nature of each piece.
-  Updated: 2026-08-03T16:45:56Z
+  Updated: 2026-08-20T04:16:17Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/3132W_2000x_7577a816-37b9-417f-aa02-9a0c8c374e2a.webp?v=1785560536
   Price: $81.99 USD
@@ -236,22 +230,22 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $46.99 USD
 - [Venetian Glass Bee Necklace](https://oceanadecor.com/products/gold-chain-w-aqua-venetian-glass-bee-necklace): Lobster claw clasp 16 inches with 3 inch extender Triple-plated 24k Gold, Genuine Venetian Glass Handmade in San Antonio, Texas
-  Updated: 2026-08-13T05:33:04Z
+  Updated: 2026-08-21T09:53:36Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/3580aq_2000x_f5c54911-5686-45c6-98e0-6f8db93920eb.webp?v=1785558343
   Price: $123.99 USD
 - [GOLD,AQUA VENETIAN GLASS BEE EARRING](https://oceanadecor.com/products/gold-aqua-venetian-glass-bee-earring)
-  Updated: 2026-08-03T16:45:59Z
+  Updated: 2026-08-20T04:16:15Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $71.99 USD
 - [GOLD, AQUA VENETIAN GLASS BEE ON CHAIN BRACELET](https://oceanadecor.com/products/gold-aqua-venetian-glass-bee-on-chain-bracelet)
-  Updated: 2026-08-03T16:45:59Z
+  Updated: 2026-08-20T04:16:12Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $71.99 USD
 - [HANDCAST GOLD W/MOTHER OF PEARL STARFISH POST EARRING](https://oceanadecor.com/products/handcast-gold-w-mother-of-pearl-starfish-post-earring)
@@ -261,9 +255,9 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $64.99 USD
 - [GOLD 3-ROW FRESHWATER COIN PEARL BRACLET](https://oceanadecor.com/products/gold-3-row-freshwater-coin-pearl-braclet)
-  Updated: 2026-08-03T16:45:59Z
+  Updated: 2026-08-20T04:16:11Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $106.99 USD
 - [GOLD CHAIN, MEDIUM PEARL CHAIN](https://oceanadecor.com/products/gold-chain-medium-pearl-chain)
@@ -273,63 +267,63 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $93.99 USD
 - [Enewton Extends - Classic Gold 3Mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-3mm-bead-bracelet)
-  Updated: 2026-08-12T17:38:35Z
+  Updated: 2026-08-20T04:16:16Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $48.50 USD
 - [Enewton Extends - Classic Gold 4Mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-4mm-bead-bracelet)
-  Updated: 2026-08-12T17:38:35Z
+  Updated: 2026-08-20T04:16:10Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $55.00 USD
 - [Enewton Extends - Hope Unwritten 5Mm Bead Bracelet - Gold](https://oceanadecor.com/products/enewton-extends-hope-unwritten-5mm-bead-bracelet-gold)
-  Updated: 2026-08-12T17:38:33Z
+  Updated: 2026-08-20T04:16:18Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $66.00 USD
 - [Enewton Extends - Signature Cross Gold Pattern 3Mm Bead Bracelet-Turquoise](https://oceanadecor.com/products/enewton-extends-signature-cross-gold-pattern-3mm-bead-bracelet-turquoise)
-  Updated: 2026-08-12T17:38:33Z
+  Updated: 2026-08-20T04:16:10Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $42.00 USD
 - [HANDCAST GOLD OPEN CROSS BRACELET](https://oceanadecor.com/products/handcast-gold-open-cross-bracelet)
-  Updated: 2026-08-01T05:05:06Z
+  Updated: 2026-08-20T04:16:09Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $66.99 USD
 - [HANDCAST GOLD CROSS, TURQ BEADED NECKLACE](https://oceanadecor.com/products/handcast-gold-cross-turq-beaded-necklace)
-  Updated: 2026-08-04T23:58:27Z
+  Updated: 2026-08-20T04:16:09Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $61.99 USD
 - [HANDCAST GOLD CABACHON, COTTON PEARL NECKLACE](https://oceanadecor.com/products/handcast-gold-cabachon-cotton-pearl-necklace)
-  Updated: 2026-08-01T05:05:05Z
+  Updated: 2026-08-20T04:16:17Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $106.99 USD
 - [HANDCAT GOLD BEADS & BLUE TURQUOISE CHOKER NECKLACE](https://oceanadecor.com/products/handcat-gold-beads-blue-turquoise-choker-necklace)
-  Updated: 2026-08-03T16:45:59Z
+  Updated: 2026-08-20T04:16:08Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $96.99 USD
 - [GOLD SMALL TEXAS X'S W/FRESHW ATER PEARL ER](https://oceanadecor.com/products/gold-small-texas-xs-w-freshw-ater-pearl-er)
-  Updated: 2026-08-03T16:45:58Z
+  Updated: 2026-08-20T04:16:10Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $56.99 USD
 - [GOLD PAPERCLIP CHAIN PEARL CHOKER NECKLACE](https://oceanadecor.com/products/gold-paperclip-chain-pearl-choker-necklace)
-  Updated: 2026-08-03T16:45:58Z
+  Updated: 2026-08-20T04:16:08Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $66.99 USD
 - [GOLD TOP W/ SINGLE COTTON PE ARL EARRING](https://oceanadecor.com/products/gold-top-w-single-cotton-pe-arl-earring)
@@ -339,9 +333,9 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $46.99 USD
 - [GOLD BEE WIRE EARRING](https://oceanadecor.com/products/gold-bee-wire-earring)
-  Updated: 2026-08-03T16:45:56Z
+  Updated: 2026-08-20T04:16:09Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $41.99 USD
 - [HANDCAST GOLD BEAD,TURQ ER](https://oceanadecor.com/products/handcast-gold-bead-turq-er)
@@ -357,9 +351,9 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $66.99 USD
 - [GOLD 10MM BEADED STRETCH BRACELET](https://oceanadecor.com/products/gold-10mm-beaded-stretch-bracelet)
-  Updated: 2026-08-01T05:05:05Z
+  Updated: 2026-08-20T04:16:07Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $66.99 USD
 - [HANDCAST GOLD W/MOTHER OF PEARL NECKLACE](https://oceanadecor.com/products/handcast-gold-w-mother-of-pearl-necklace)
@@ -393,9 +387,9 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $56.99 USD
 - [HANDCAST GOLD OYSTER W/ FRESHWATER PEARL EARRINGS](https://oceanadecor.com/products/handcast-gold-oyster-w-freshwater-pearl-earrings)
-  Updated: 2026-08-18T18:44:46Z
+  Updated: 2026-08-20T04:16:07Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $56.99 USD
 - [Handcast Gold Jerusalem Cross 30" Chain Necklace](https://oceanadecor.com/products/handcast-gold-jerusalem-cross-30-chain-necklace)
@@ -411,21 +405,21 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $41.99 USD
 - [Handcast Gold Heart w/ Mother Pearl Necklace](https://oceanadecor.com/products/handcast-gold-heart-w-mother-pearl-necklace)
-  Updated: 2026-08-03T16:45:58Z
+  Updated: 2026-08-20T04:16:10Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $116.99 USD
 - [Gold w/Bee Italian Coin Earring](https://oceanadecor.com/products/gold-w-bee-italian-coin-earring)
-  Updated: 2026-08-03T16:45:56Z
+  Updated: 2026-08-20T04:16:05Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $51.99 USD
 - [Handcast Gold & Teal French Glass & Freshwater Pearl Earring](https://oceanadecor.com/products/handcast-gold-teal-french-glass-freshwater-pearl-earring)
-  Updated: 2026-08-01T05:05:05Z
+  Updated: 2026-08-20T04:16:05Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $73.99 USD
 - [18" Large Toggle Double Chain Gold Necklace](https://oceanadecor.com/products/18-large-toggle-double-chain-gold-necklace)
@@ -435,9 +429,9 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $116.99 USD
 - [Gold Double Loop Chain Bracelet](https://oceanadecor.com/products/gold-double-loop-chain-bracelet)
-  Updated: 2026-08-01T05:05:05Z
+  Updated: 2026-08-20T04:16:04Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $81.99 USD
 - [Handcast Gold Jerusalem Cross Earring](https://oceanadecor.com/products/handcast-gold-jerusalem-cross-earring)
@@ -453,21 +447,21 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $73.99 USD
 - [Handcast Gold Mother of Pearl Rectangle Bracelet](https://oceanadecor.com/products/handcast-gold-mother-of-pearl-rectangle-bracelet)
-  Updated: 2026-08-01T05:05:05Z
+  Updated: 2026-08-20T04:16:04Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $123.99 USD
 - [Handcast Gold Mother of Pearl Rectangle Choker Necklace](https://oceanadecor.com/products/handcast-gold-mother-of-pearl-rectangle-choker-necklace)
-  Updated: 2026-08-01T05:05:05Z
+  Updated: 2026-08-20T04:16:04Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $173.99 USD
 - [Gold Small Hoop w/ Center Balls Earring](https://oceanadecor.com/products/gold-small-hoop-w-center-balls-earring)
-  Updated: 2026-08-16T21:02:17Z
+  Updated: 2026-08-20T04:16:02Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $46.99 USD
 - [Handcast Gold Clover w/ 30" Gold Chain Necklace](https://oceanadecor.com/products/handcast-gold-clover-w-30-gold-chain-necklace)
@@ -477,21 +471,21 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $116.99 USD
 - [Handcast Gold Adjustable Size Rectangle Ring](https://oceanadecor.com/products/handcast-gold-adjustable-size-rectangle-ring)
-  Updated: 2026-08-03T16:46:07Z
+  Updated: 2026-08-20T04:16:02Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Rings
   Availability: Available
   Price: $46.99 USD
 - [Handcast Gold Adjustable Round Ring](https://oceanadecor.com/products/handcast-gold-adjustable-round-ring)
-  Updated: 2026-08-03T16:46:07Z
+  Updated: 2026-08-20T04:16:04Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Rings
   Availability: Available
   Price: $51.99 USD
 - [Handcast Gold Cross Ring](https://oceanadecor.com/products/handcast-gold-cross-ring)
-  Updated: 2026-08-03T16:46:06Z
+  Updated: 2026-08-20T04:16:04Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Rings
   Availability: Available
   Price: $51.99 USD
 - [Handcast Gold Bee Intaglio Ring](https://oceanadecor.com/products/handcast-gold-bee-intaglio-ring)
@@ -507,9 +501,9 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $123.99 USD
 - [Gold Octagon, Starfish, Pearl Earring](https://oceanadecor.com/products/gold-octagon-starfish-pearl-earring)
-  Updated: 2026-08-03T16:45:57Z
+  Updated: 2026-08-21T18:43:55Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $51.99 USD
 - [Handcast Gold Coral Branch Dangle Earrings](https://oceanadecor.com/products/handcast-gold-coral-branch-dangle-earrings)
@@ -525,27 +519,27 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $78.50 USD
 - [Enewton Extends - Dignity Grateful Pattern 5mm Bead Bracelet - Gold](https://oceanadecor.com/products/enewton-extends-dignity-grateful-pattern-5mm-bead-bracelet-gold)
-  Updated: 2026-08-12T17:38:31Z
+  Updated: 2026-08-20T04:16:03Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $98.00 USD
 - [Enewton Extends - Dignity Gold 6mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-dignity-gold-6mm-bead-bracelet)
-  Updated: 2026-08-12T17:38:30Z
+  Updated: 2026-08-20T04:16:00Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $113.50 USD
 - [Enewton Extends - Signature Cross Gold Pattern 3mm Bead Bracelet - Navy](https://oceanadecor.com/products/enewton-extends-signature-cross-gold-pattern-3mm-bead-bracelet-navy)
-  Updated: 2026-08-16T17:53:46Z
+  Updated: 2026-08-20T04:15:59Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $42.00 USD
 - [Enewton Extends - Signature Cross 3mm Bead Bracelet - Charcoal](https://oceanadecor.com/products/enewton-extends-signature-cross-3mm-bead-bracelet-charcoal)
-  Updated: 2026-08-12T17:41:45Z
+  Updated: 2026-08-20T04:16:02Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $42.00 USD
 - [Enewton Extends - 2.5mm Bead Bracelet - Love Gold Charm](https://oceanadecor.com/products/enewton-extends-2-5mm-bead-bracelet-love-gold-charm)
@@ -561,21 +555,21 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $89.50 USD
 - [Enewton Extends - Dignity Sincerity Pattern 6mm - Gold](https://oceanadecor.com/products/enewton-extends-dignity-sincerity-pattern-6mm-gold)
-  Updated: 2026-08-12T17:38:29Z
+  Updated: 2026-08-20T04:15:57Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $89.50 USD
 - [Enewton Extends - Classic Gold 8mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-8mm-bead-bracelet)
-  Updated: 2026-08-12T17:38:29Z
+  Updated: 2026-08-20T04:15:57Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $191.50 USD
 - [Enewton Extends - Signature Cross 3mm Bead Bracelet - Onyx](https://oceanadecor.com/products/enewton-extends-signature-cross-3mm-bead-bracelet-onyx)
-  Updated: 2026-08-12T17:38:28Z
+  Updated: 2026-08-20T04:15:56Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $42.00 USD
 - [Enewton Extends - Signature Cross Pearl Pattern 4m](https://oceanadecor.com/products/enewton-extends-signature-cross-pearl-pattern-4m)
@@ -592,33 +586,33 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/IMG_9326-1_SQ_1.webp?v=1785220943
   Price: $89.50 USD
 - [Enewton Extends - Classic Sterling 4mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-sterling-4mm-bead-bracelet)
-  Updated: 2026-08-12T17:38:26Z
+  Updated: 2026-08-20T04:15:57Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $49.00 USD
 - [Enewton Extends - Classic Gold 7mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-7mm-bead-bracelet)
-  Updated: 2026-08-12T17:38:25Z
+  Updated: 2026-08-20T04:15:57Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $144.50 USD
 - [Enewton Extends - Classic Sterling 3mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-sterling-3mm-bead-bracelet)
-  Updated: 2026-08-12T17:38:25Z
+  Updated: 2026-08-20T04:15:56Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $44.00 USD
 - [Enewton Extends - Classic Sterling 5mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-sterling-5mm-bead-bracelet)
-  Updated: 2026-08-12T17:38:25Z
+  Updated: 2026-08-20T04:15:55Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $79.00 USD
 - [Enewton Extends - Hope Unwritten 4mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-hope-unwritten-4mm-bead-bracelet)
-  Updated: 2026-08-12T17:38:25Z
+  Updated: 2026-08-20T04:15:55Z
   Vendor: Enewton
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $44.00 USD
 - [Enewton Extends - Classic Gold 6mm Bead Bracelet](https://oceanadecor.com/products/enewton-extends-classic-gold-6mm-bead-bracelet)
@@ -648,21 +642,21 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $20.00 USD
 - [True Ocean Body Spray - Pocket Size](https://oceanadecor.com/products/true-ocean-body-spray-pocket-size)
-  Updated: 2026-08-18T20:53:47Z
+  Updated: 2026-08-24T14:51:47Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Coastal Decor
   Availability: Available
   Price: $19.99 USD
 - [True Ocean Pillow Mist - Pocket Size](https://oceanadecor.com/products/true-ocean-pillow-mist-pocket-size)
-  Updated: 2026-08-05T15:14:36Z
+  Updated: 2026-08-20T04:15:54Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Pillows
   Availability: Available
   Price: $19.99 USD
 - [True Ocean: Body Spray - 3.4oz.](https://oceanadecor.com/products/true-ocean-body-spray-3-4oz)
-  Updated: 2026-08-16T00:17:56Z
+  Updated: 2026-08-20T17:47:47Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Coastal Decor
   Availability: Available
   Price: $27.99 USD
 - [Handcst Gld Beads, Fleur Lapis Nk](https://oceanadecor.com/products/handcst-gld-beads-fleur-lapis-nk)
@@ -678,21 +672,21 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $65.99 USD
 - [Hndcst Gld & Turq French Glass Earring W/Genuine Freshwater Pearl Drop](https://oceanadecor.com/products/hndcst-gld-turq-french-glass-earring-w-genuine-freshwater-pearl-drop)
-  Updated: 2026-08-03T16:45:57Z
+  Updated: 2026-08-20T04:15:53Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $73.99 USD
 - [Gold 36" Starfish & Aqua Seaglass Necklace](https://oceanadecor.com/products/gold-36-starfish-aqua-seaglass-necklace)
-  Updated: 2026-08-03T16:45:57Z
+  Updated: 2026-08-20T04:15:51Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $110.00 USD
 - [Set 5 Colored Crystal Pendants, Freshwater Pearl Nks](https://oceanadecor.com/products/set-5-colored-crystal-pendants-freshwater-pearl-nks)
-  Updated: 2026-08-03T16:45:55Z
+  Updated: 2026-08-20T04:15:51Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $93.99 USD
 - [Gold Fleur /Cross ,3-Strand Turq Necklace](https://oceanadecor.com/products/gold-fleur-cross-3-strand-turq-necklace)
@@ -702,52 +696,52 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $148.99 USD
 - [True Ocean Salt Scrub - 6 oz.](https://oceanadecor.com/products/true-ocean-salt-scrub-6-oz)
-  Updated: 2026-08-08T18:48:07Z
+  Updated: 2026-08-24T12:43:16Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Coastal Decor
   Availability: Available
   Price: $27.99 USD
 - [True Ocean Mineral Lotion - 3.4oz.](https://oceanadecor.com/products/true-ocean-mineral-lotion-3-4oz): A Coastal collection favorite. Infused with nourishing shea butter, aloe and ocean minerals, our hand and body lotion deeply hydrates without feeling heavy or greasy. Apply all over the body after a day by the beach to enjoy soft, moisturized skin and our seaside Coastal scent.
-  Updated: 2026-08-17T23:39:57Z
+  Updated: 2026-08-24T12:43:25Z
   Vendor: True Ocean
   Product Type: Body Lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/MineralLotion13.5_49fa3e2c-b15a-4401-9761-71a17f790bd6.webp?v=1785669559
   Price: $27.99 USD
 - [True Ocean: Reed Diffuser Refill](https://oceanadecor.com/products/true-ocean-reed-diffuser-refill)
-  Updated: 2026-08-02T11:18:56Z
+  Updated: 2026-08-20T04:15:51Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Coastal Decor
   Availability: Available
   Price: $19.99 USD
 - [True Ocean: Beach Hair - 3.4oz.](https://oceanadecor.com/products/true-ocean-beach-hair-3-4oz)
-  Updated: 2026-08-13T17:16:49Z
+  Updated: 2026-08-24T12:43:31Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Coastal Decor
   Availability: Available
   Price: $27.99 USD
 - [True Ocean Face Spritz - 2.7oz.](https://oceanadecor.com/products/true-ocean-face-spritz-2-7oz)
-  Updated: 2026-08-02T11:18:58Z
+  Updated: 2026-08-24T14:50:49Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Coastal Decor
   Availability: Available
   Price: $27.99 USD
 - [True Ocean Body Wash - 8.5oz](https://oceanadecor.com/products/true-ocean-body-wash-8-5oz)
-  Updated: 2026-08-15T15:54:18Z
+  Updated: 2026-08-24T12:43:16Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Coastal Decor
   Availability: Available
   Price: $29.99 USD
 - [True Ocean Seasoap - 7.5oz.](https://oceanadecor.com/products/true-ocean-seasoap-7-5oz)
-  Updated: 2026-08-15T15:54:17Z
+  Updated: 2026-08-20T04:15:49Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Coastal Decor
   Availability: Available
   Price: $27.99 USD
 - [True Ocean: Reed Diffuser](https://oceanadecor.com/products/true-ocean-reed-diffuser)
-  Updated: 2026-08-02T11:18:58Z
+  Updated: 2026-08-25T17:40:03Z
   Vendor: True Ocean
-  Product Type: 
+  Product Type: Coastal Decor
   Availability: Available
   Price: $27.99 USD
 - [Mother Of Pearl Cross, Small Oblong Chain, 15" Necklace](https://oceanadecor.com/products/mother-of-pearl-cross-small-oblong-chain-15-necklace)
@@ -763,15 +757,15 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $81.99 USD
 - [Small Gold Jerusalem Cross On Wire Ear](https://oceanadecor.com/products/small-gold-jerusalem-cross-on-wire-ear)
-  Updated: 2026-08-03T16:46:06Z
+  Updated: 2026-08-20T04:15:50Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $51.99 USD
 - [Gold Jerusalem Cross Intaglio, Freshwater Pearl Nk](https://oceanadecor.com/products/gold-jerusalem-cross-intaglio-freshwater-pearl-nk)
-  Updated: 2026-08-03T16:46:06Z
+  Updated: 2026-08-20T04:15:48Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $116.99 USD
 - [Gold Small Cross Post Earring](https://oceanadecor.com/products/gold-small-cross-post-earring)
@@ -781,9 +775,9 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $46.99 USD
 - [Gold Modern Cross, Fresh-Water Pearl Necklace](https://oceanadecor.com/products/gold-modern-cross-fresh-water-pearl-necklace)
-  Updated: 2026-08-03T16:46:06Z
+  Updated: 2026-08-20T04:15:47Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $116.99 USD
 - [Handcast Gold Bee Intaglio Bracelet](https://oceanadecor.com/products/handcast-gold-bee-intaglio-bracelet)
@@ -793,81 +787,81 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $71.99 USD
 - [Handcast Gold Octagon W/ Silv Coin & Freshwater Pearl Er](https://oceanadecor.com/products/handcast-gold-octagon-w-silv-coin-freshwater-pearl-er)
-  Updated: 2026-08-03T16:46:05Z
+  Updated: 2026-08-20T04:15:47Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $61.99 USD
 - [Handcast Gold & Silver Coin Er](https://oceanadecor.com/products/handcast-gold-silver-coin-er)
-  Updated: 2026-08-03T16:46:05Z
+  Updated: 2026-08-20T04:15:47Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $51.99 USD
 - [Gold W/ Bee & Italian Coin Chain Necklace](https://oceanadecor.com/products/gold-w-bee-italian-coin-chain-necklace)
-  Updated: 2026-08-03T16:46:05Z
+  Updated: 2026-08-20T04:15:46Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $121.99 USD
 - [Handcast Gold & Silver Coin Nk](https://oceanadecor.com/products/handcast-gold-silver-coin-nk)
-  Updated: 2026-08-03T16:46:05Z
+  Updated: 2026-08-20T04:15:45Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $121.99 USD
 - [Gold/Silver Coin Freshwater-Pearl 23 Loop Nk](https://oceanadecor.com/products/gold-silver-coin-freshwater-pearl-23-loop-nk)
-  Updated: 2026-08-03T16:46:04Z
+  Updated: 2026-08-20T04:15:45Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $121.99 USD
 - [Handcast Gold Coins Charm Bracelet](https://oceanadecor.com/products/handcast-gold-coins-charm-bracelet)
-  Updated: 2026-08-03T16:46:04Z
+  Updated: 2026-08-20T04:15:44Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $96.99 USD
 - [Gold Handcast Heart & Beaded Top Earring](https://oceanadecor.com/products/gold-handcast-heart-beaded-top-earring)
-  Updated: 2026-08-03T16:46:04Z
+  Updated: 2026-08-20T04:15:45Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $46.99 USD
 - [Handcast Gold 15" Heart Necklace](https://oceanadecor.com/products/handcast-gold-15-heart-necklace)
-  Updated: 2026-08-03T16:46:04Z
+  Updated: 2026-08-20T04:15:43Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $91.99 USD
 - [Gold Mother Of Pearl Cross Necklace On 16 Inch Rope Chain](https://oceanadecor.com/products/gold-mother-of-pearl-cross-necklace-on-16-inch-rope-chain)
-  Updated: 2026-08-03T16:46:03Z
+  Updated: 2026-08-20T04:15:45Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Price: $111.99 USD
 - [Handcast Gold Cross W/ Mother Of Pearl Earring](https://oceanadecor.com/products/handcast-gold-cross-w-mother-of-pearl-earring)
-  Updated: 2026-08-03T16:46:03Z
+  Updated: 2026-08-20T04:15:48Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Earrings
   Availability: Available
   Price: $61.99 USD
 - [Gold W/ Mother Of Pearl Jerusalem Cross On Large Chain Nk](https://oceanadecor.com/products/gold-w-mother-of-pearl-jerusalem-cross-on-large-chain-nk)
-  Updated: 2026-08-03T16:46:03Z
+  Updated: 2026-08-20T04:15:48Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $131.99 USD
 - [Gld/Sil "Shell Coin", Freshwater Pearl Nk](https://oceanadecor.com/products/gld-sil-shell-coin-freshwater-pearl-nk)
-  Updated: 2026-08-03T16:46:03Z
+  Updated: 2026-08-20T04:15:42Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Jewelry
   Availability: Available
   Price: $116.99 USD
 - [Handcst Gold Turtle Intaglio Bracelet](https://oceanadecor.com/products/handcst-gold-turtle-intaglio-bracelet)
-  Updated: 2026-08-03T16:46:02Z
+  Updated: 2026-08-20T04:15:41Z
   Vendor: Susan Shaw Wholesale
-  Product Type: 
+  Product Type: Bracelets
   Availability: Available
   Price: $61.99 USD
 - [Clear Venetian Glass, Cross, 23 Loop Chain Nk](https://oceanadecor.com/products/clear-venetian-glass-cross-23-loop-chain-nk)
@@ -877,32 +871,251 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Availability: Available
   Price: $123.99 USD
 - [Gold, Clear Venetian Glass Cross Er](https://oceanadecor.com/products/gold-clear-venetian-glass-cross-er)
-  Updated: 2026-08-03T16:46:02Z
+  Updated: 2026-08-20T04:15:41Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: Jewelry
+  Availability: Available
+  Price: $61.99 USD
+- [Aqua Venetian Glass & Coin, Freshwater Pearl Necklace](https://oceanadecor.com/products/aqua-venetian-glass-coin-freshwater-pearl-necklace)
+  Updated: 2026-08-20T04:15:45Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: Necklaces
+  Availability: Available
+  Price: $123.99 USD
+- [Gold, Aqua Ventetian Glass Coin Freshwater Pearl Bracelet](https://oceanadecor.com/products/gold-aqua-ventetian-glass-coin-freshwater-pearl-bracelet)
+  Updated: 2026-08-20T04:15:39Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: Bracelets
+  Availability: Available
+  Price: $71.99 USD
+- [Gold, Clear Venetian Glass Cross Bracelet](https://oceanadecor.com/products/gold-clear-venetian-glass-cross-bracelet)
+  Updated: 2026-08-20T04:15:41Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: Bracelets
+  Availability: Available
+  Price: $71.99 USD
+- [Handcast Gold & Silver Coin Ring](https://oceanadecor.com/products/handcast-gold-silver-coin-ring)
+  Updated: 2026-08-01T05:08:24Z
   Vendor: Susan Shaw Wholesale
   Product Type: 
   Availability: Available
-  Price: $61.99 USD
-[List Continued](https://oceanadecor.com/a/llms-agent/llms.txt?shop=6adbzv-vn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDM5Nzg4MTUwODc0LCJsYXN0X3ZhbHVlIjoiODAzOTc4ODE1MDg3NCJ9)
+  Price: $51.99 USD
+- [Handcast Octagon Gld/Silv Coin & Freshwater Pearl Ring](https://oceanadecor.com/products/handcast-octagon-gld-silv-coin-freshwater-pearl-ring)
+  Updated: 2026-08-20T04:15:39Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: Rings
+  Availability: Available
+  Price: $56.99 USD
+- [Handcast Gold & Silver Bee Ring](https://oceanadecor.com/products/handcast-gold-silver-bee-ring)
+  Updated: 2026-08-01T05:08:25Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: 
+  Availability: Available
+  Price: $41.99 USD
+- [Gold/Silver St. Benedict Cross Ring](https://oceanadecor.com/products/gold-silver-st-benedict-cross-ring)
+  Updated: 2026-08-20T04:15:38Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: Rings
+  Availability: Available
+  Price: $51.99 USD
+- [Gold W/ Italian Bee Coin Ring](https://oceanadecor.com/products/gold-w-italian-bee-coin-ring)
+  Updated: 2026-08-01T05:08:25Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: 
+  Availability: Available
+  Price: $51.99 USD
+- [Handcast Gold & Silver Cross Ring](https://oceanadecor.com/products/handcast-gold-silver-cross-ring)
+  Updated: 2026-08-20T04:15:41Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: Rings
+  Availability: Available
+  Price: $56.99 USD
+- [Handcast Gold Vintage W/ Freshwater Pearl Ring](https://oceanadecor.com/products/handcast-gold-vintage-w-freshwater-pearl-ring)
+  Updated: 2026-08-20T04:15:39Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: Rings
+  Availability: Available
+  Price: $51.99 USD
+- [Small Susan Shaw Jewelry Pouch](https://oceanadecor.com/products/small-susan-shaw-jewelry-pouch): For rings, earrings, bracelets and dainty necklaces.
+  Updated: 2026-08-03T16:45:55Z
+  Vendor: Susan Shaw Wholesale
+  Product Type: Pouch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/cf0f30ecbaabd605a83fcd9400195627cd8401378cd2dd62b0675e93210502c9_1024x1024_2x_11e18b33-9c70-469e-af7f-852822243e26.webp?v=1785557929
+  Price: $2.99 USD
+- [True Ocean Pillow Mist - 2.7oz.](https://oceanadecor.com/products/true-ocean-pillow-mist-2-7oz)
+  Updated: 2026-08-20T04:15:40Z
+  Vendor: True Ocean
+  Product Type: Pillows
+  Availability: Available
+  Price: $27.99 USD
+- [Inis Travel Size Spray 15ml | Oceana Decor](https://oceanadecor.com/products/inis-travel-size-spray-15ml-0-5-fl-oz): Fresh Ocean-Inspired Fragrance – Sparkling citrus and marine notes capture the feeling of a sunny day by the sea. Clean, Energising & Unisex – A light yet lasting scent loved by both women and men for its fresh, uplifting character. Feel Close to the Sea – Instantly refreshes and evokes the freedom, energy and happiness of the ocean.
+  Updated: 2026-08-21T10:33:07Z
+  Vendor: Fragrances Of Ireland
+  Product Type: Spray Perfume
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Cologne-Spray-travel-size-15ml_c1132c83-23aa-41d2-bb59-f5d3ef62e9dd.webp?v=1785184669
+  Price: $29.99 USD
+- [Inis Hand Care Caddy 2 x 300ml | Oceana Decor](https://oceanadecor.com/products/inis-hand-care-caddy-2-x-300ml-10-fl-oz): Complete Hand Care Ritual – Includes our nourishing Hand Wash and Hand Lotion for beautifully cleansed, hydrated hands. Softens & Protects Skin – Sea minerals, seaweed extracts and botanical moisturisers help keep hands smooth and conditioned. Beautifully Giftable – Presented in an unstated caddy, perfect for any bathroom or kitchen.
+  Updated: 2026-08-06T07:14:22Z
+  Vendor: Fragrances Of Ireland
+  Product Type: Hand Hygiene
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0748/0341/3082/files/PDP-Hand-Care-Caddy.webp?v=1785213794
+  Price: $49.99 USD
+- [Sun Face Wall Decor](https://oceanadecor.com/products/sun-face-wall-decor)
+  Updated: 2026-08-20T04:15:36Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $126.99 USD
+- [Blueheron Cpz/Metal Wall Art](https://oceanadecor.com/products/blueheron-cpz-metal-wall-art)
+  Updated: 2026-08-20T04:15:38Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $95.99 USD
+- [Seaturtle Capiz W. D. Brown](https://oceanadecor.com/products/seaturtle-capiz-w-d-brown)
+  Updated: 2026-08-20T04:15:34Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $107.99 USD
+- [Seaturtle Wd Brown](https://oceanadecor.com/products/seaturtle-wd-brown)
+  Updated: 2026-08-20T04:15:34Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $71.99 USD
+- [Seaturtle Capiz W D](https://oceanadecor.com/products/seaturtle-capiz-w-d)
+  Updated: 2026-08-20T22:40:47Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $60.00 USD
+- [Flamingo Capiz W. D.](https://oceanadecor.com/products/flamingo-capiz-w-d)
+  Updated: 2026-08-20T04:15:33Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $98.99 USD
+- [White Fish Wall Decor](https://oceanadecor.com/products/white-fish-wall-decor)
+  Updated: 2026-08-20T04:15:35Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $125.00 USD
+- [Starfish Wall Decor](https://oceanadecor.com/products/starfish-wall-decor)
+  Updated: 2026-08-20T04:15:33Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $86.99 USD
+- [Seaturtle Med.Capiz Wd](https://oceanadecor.com/products/seaturtle-med-capiz-wd)
+  Updated: 2026-08-20T04:15:32Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $65.99 USD
+- [Pelican Capiz W.D.](https://oceanadecor.com/products/pelican-capiz-w-d)
+  Updated: 2026-08-20T04:15:33Z
+  Vendor: Kubla Craft
+  Product Type: Glass Art
+  Availability: Available
+  Price: $71.99 USD
+- [Semiprecious Stone with Pearl Earring - Blue](https://oceanadecor.com/products/semiprecious-stone-with-pearl-earring-blue)
+  Updated: 2026-08-20T04:15:33Z
+  Vendor: Emerald Inc
+  Product Type: Earrings
+  Availability: Available
+  Price: $17.99 USD
+- [Natural Stone Beaded Necklace - Mix](https://oceanadecor.com/products/natural-stone-beaded-necklace-mix)
+  Updated: 2026-08-22T23:29:55Z
+  Vendor: Emerald Inc
+  Product Type: Necklaces
+  Availability: Available
+  Price: $17.99 USD
+- [Natural Stone Beaded Necklace - Purple](https://oceanadecor.com/products/natural-stone-beaded-necklace-purple)
+  Updated: 2026-08-20T04:15:32Z
+  Vendor: Emerald Inc
+  Product Type: Necklaces
+  Availability: Available
+  Price: $17.99 USD
+- [Clover Crystal Earring - Black Grey](https://oceanadecor.com/products/clover-crystal-earring-black-grey)
+  Updated: 2026-08-20T04:15:31Z
+  Vendor: Emerald Inc
+  Product Type: Earrings
+  Availability: Available
+  Price: $13.99 USD
+- [Clover Crystal Earring - Blue](https://oceanadecor.com/products/clover-crystal-earring-blue)
+  Updated: 2026-08-20T04:15:30Z
+  Vendor: Emerald Inc
+  Product Type: Earrings
+  Availability: Available
+  Price: $13.99 USD
+- [Clover Crystal Earring - Pink Purple](https://oceanadecor.com/products/clover-crystal-earring-pink-purple)
+  Updated: 2026-08-20T04:15:29Z
+  Vendor: Emerald Inc
+  Product Type: Earrings
+  Availability: Available
+  Price: $13.99 USD
+- [Statement Post Earring - Beige Pink](https://oceanadecor.com/products/statement-post-earring-beige-pink)
+  Updated: 2026-08-20T04:15:30Z
+  Vendor: Emerald Inc
+  Product Type: Earrings
+  Availability: Available
+  Price: $11.99 USD
+- [Double Half Circle w inlay Stud Earring - Grey](https://oceanadecor.com/products/double-half-circle-w-inlay-stud-earring-grey)
+  Updated: 2026-08-20T04:15:29Z
+  Vendor: Emerald Inc
+  Product Type: Earrings
+  Availability: Available
+  Price: $9.99 USD
+- [Double Half Circle w inlay Stud Earring - Pink](https://oceanadecor.com/products/double-half-circle-w-inlay-stud-earring-pink)
+  Updated: 2026-08-20T04:15:27Z
+  Vendor: Emerald Inc
+  Product Type: Earrings
+  Availability: Available
+  Price: $9.99 USD
+- [Multi Sil Pearl Drop Earring - Grey](https://oceanadecor.com/products/multi-sil-pearl-drop-earring-grey)
+  Updated: 2026-08-20T04:15:29Z
+  Vendor: Emerald Inc
+  Product Type: Earrings
+  Availability: Available
+  Price: $14.99 USD
+- [Classic Everyday 459](https://oceanadecor.com/products/classic-everyday-459)
+  Updated: 2026-08-20T04:15:28Z
+  Vendor: Leanin' Tree Inc.
+  Product Type: Greeting Cards
+  Availability: Available
+  Price: $4.59 USD
+- [Willow & Ivy](https://oceanadecor.com/products/willow-ivy)
+  Updated: 2026-08-20T04:15:29Z
+  Vendor: Leanin' Tree Inc.
+  Product Type: Greeting Cards
+  Availability: Available
+  Price: $6.00 USD
+[List Continued](https://oceanadecor.com/a/llms-agent/llms.txt?shop=6adbzv-vn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDU0OTI3Njg3NzcwLCJsYXN0X3ZhbHVlIjoiODA1NDkyNzY4Nzc3MCJ9)
 
 ## Collections
 
 - [Home page](https://oceanadecor.com/collections/frontpage)
-  Updated: 2026-07-28T14:57:11Z
-  Total Products: 1
+  Updated: 2026-08-20T16:24:58Z
+  Total Products: 0
 - [All New Arrivals](https://oceanadecor.com/collections/all-new-arrivals)
   Updated: 2026-07-28T14:57:11Z
   Total Products: 0
 - [Bath and Body Best Sellers](https://oceanadecor.com/collections/all-best-sellers)
-  Updated: 2026-08-17T00:55:46Z
+  Updated: 2026-08-20T23:37:34Z
   Total Products: 11
 - [Enewton Handmade Jewelry Collection](https://oceanadecor.com/collections/enewton-collections)
-  Updated: 2026-08-16T17:54:24Z
-  Total Products: 46
+  Updated: 2026-08-20T16:25:07Z
+  Total Products: 45
 - [Inis Energy of the Sea Collection](https://oceanadecor.com/collections/inis-essence-of-the-sea-essentials)
-  Updated: 2026-08-18T00:45:15Z
-  Total Products: 47
+  Updated: 2026-08-20T23:38:19Z
+  Total Products: 8
 - [Inis Spray Cologne](https://oceanadecor.com/collections/inis-spray-cologne)
-  Updated: 2026-08-11T19:06:06Z
+  Updated: 2026-08-21T10:33:42Z
   Total Products: 3
 - [Inis Revitalizing Lotion](https://oceanadecor.com/collections/inis-revitalizing-lotion)
   Updated: 2026-08-05T14:43:06Z
@@ -914,8 +1127,8 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Updated: 2026-08-11T19:14:20Z
   Total Products: 0
 - [Susan Shaw Jewelry](https://oceanadecor.com/collections/susan-shaw-jewelry)
-  Updated: 2026-08-18T18:45:15Z
-  Total Products: 130
+  Updated: 2026-08-24T14:49:02Z
+  Total Products: 127
 - [All Collections](https://oceanadecor.com/collections/all-collections)
   Updated: 2026-07-31T03:31:29Z
   Total Products: 0
@@ -923,14 +1136,14 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
   Updated: 2026-08-17T00:56:31Z
   Total Products: 1
 - [All Jewelry Collection](https://oceanadecor.com/collections/all-jewelry-collection)
-  Updated: 2026-08-18T22:30:53Z
-  Total Products: 91
+  Updated: 2026-08-24T14:49:02Z
+  Total Products: 87
 - [Body Care Essentials](https://oceanadecor.com/collections/body-care-essentials)
   Updated: 2026-08-03T17:22:45Z
   Total Products: 0
 - [True Ocean Body Collection](https://oceanadecor.com/collections/true-ocean-body-collection)
-  Updated: 2026-08-15T15:54:53Z
-  Total Products: 4
+  Updated: 2026-08-24T12:43:29Z
+  Total Products: 2
 
 ## Blogs
 
@@ -961,15 +1174,11 @@ A curated home for eNewton, Pandora, Inis, and Susan Shaw — jewelry and gifts 
 - [html sitemap](https://oceanadecor.com/pages/html-sitemap): Products Test Product 1 Test Product 2 Test Product 3 Test Product 4 Test Product 5 Test Product 6 Purpose Gold 4mm Bracelet Huggie Gold 0.5" Hoop ...
   Updated: 2026-07-21T22:55:25Z
 - [FAQs](https://oceanadecor.com/pages/faqs): General What is Oceana Decor? Oceana Decor is a curated lifestyle boutique offering jewelry, home décor, bath and body products, and thoughtful gif...
-  Updated: 2026-08-02T14:00:56Z
-- [Coastal Furniture & eNewton Jewelry | Oceana Decor, Tamiami Trail](https://oceanadecor.com/pages/oceana-decor-enewton-sarasota): 
-  Updated: 2026-08-19T07:05:27Z
+  Updated: 2026-08-20T16:29:46Z
+- [Coastal Furniture & eNewton Jewelry | Oceana Decor, Tamiami Trail](https://oceanadecor.com/pages/oceana-decor-sarasota): 
+  Updated: 2026-08-19T19:09:10Z
 - [Pandora & eNewton Sarasota | Artisans, St. Armands Circle](https://oceanadecor.com/pages/artisans-enewton-sarasota): 
-  Updated: 2026-08-19T07:58:49Z
-- [About Artisans Sarasota | eNewton Sarasota Retailer](https://oceanadecor.com/pages/about-artisans-sarasota-enewton-sarasota-retailer)
-  Updated: 2026-08-17T13:35:19Z
-- [About Oceana | Siesta Key Home Decor and Furniture](https://oceanadecor.com/pages/about-oceana-siesta-key-home-decor-and-furniture)
-  Updated: 2026-08-17T13:35:42Z
+  Updated: 2026-08-19T08:24:52Z
 
 ## Policies
 
