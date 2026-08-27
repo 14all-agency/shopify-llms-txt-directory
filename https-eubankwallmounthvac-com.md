@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-27T20:48:35Z
 - Contact Email: sales@eubankwallmounthvac.com
-- Updated At: 2026-08-19T00:00:38.907Z
+- Updated At: 2026-08-27T00:00:40.969Z
 
 Eubank HVAC Wallmount sells genuine Marvair/Eubank wall mount package air
 conditioners for commercial and industrial applications, including telecom
@@ -20,193 +20,193 @@ refrigerant.
 ## Products
 
 - [SAH1024AA050N 2 Ton Wall Mount AC | Eubank HVAC](https://eubankwallmounthvac.com/products/sah1024aa050n-wall-mount-hvac-unit): 2-ton wall mount air conditioner, R454B refrigerant, 5kW heat. Ground freight included, ships fast. Order online now.
-  Updated: 2026-07-30T22:25:01Z
+  Updated: 2026-08-26T23:12:58Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A.png?v=1785186911
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sah1024aa050n-wall-mount-hvac-unit?variant=46930853855405)
     Availability: Available
-    Price: $6,616.05 USD
+    Price: $6,600.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sah1024aa050n-wall-mount-hvac-unit?variant=46932536393901)
     Availability: Available
-    Price: $7,141.05 USD
+    Price: $7,200.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1024aa050n-wall-mount-hvac-unit?variant=46997709947053)
     Availability: Available
-    Price: $7,666.05 USD
+    Price: $7,660.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1024aa050n-wall-mount-hvac-unit?variant=46997709979821)
     Availability: Available
-    Price: $8,191.05 USD
+    Price: $8,200.00 USD
 - [SAH1036AA100N 3 Ton Wall Mount AC | Eubank HVAC](https://eubankwallmounthvac.com/products/sah1036aa100n-wall-mount-hvac-unit): 3-ton wall mount air conditioner, R454B refrigerant, 10kW heat. Ground freight included, ships fast. Order online now.
-  Updated: 2026-07-30T22:25:05Z
+  Updated: 2026-08-26T23:12:58Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A_cb175b0e-3130-4652-a8c3-14bb0085e5ed.png?v=1785186922
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sah1036aa100n-wall-mount-hvac-unit?variant=46930854609069)
     Availability: Available
-    Price: $6,828.15 USD
+    Price: $6,900.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sah1036aa100n-wall-mount-hvac-unit?variant=46932536459437)
     Availability: Available
-    Price: $7,353.15 USD
+    Price: $7,400.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1036aa100n-wall-mount-hvac-unit?variant=46997718171821)
     Availability: Available
-    Price: $7,878.15 USD
+    Price: $7,900.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1036aa100n-wall-mount-hvac-unit?variant=46997718204589)
     Availability: Available
-    Price: $8,403.15 USD
+    Price: $8,500.00 USD
 - [SAH1048AA100N 4 Ton Wall Mount AC | Eubank HVAC](https://eubankwallmounthvac.com/products/sah1048aa100n-wall-mount-hvac-unit): 4-ton wall mount air conditioner, R454B refrigerant, 10kW heat. Ground freight included, ships fast. Order online now.
-  Updated: 2026-07-30T22:25:11Z
+  Updated: 2026-08-26T23:12:57Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A_dbfcba08-a59f-463c-986b-2639caef4554.png?v=1785186930
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sah1048aa100n-wall-mount-hvac-unit?variant=46930862014637)
     Availability: Available
-    Price: $7,556.85 USD
+    Price: $7,600.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sah1048aa100n-wall-mount-hvac-unit?variant=46932536492205)
     Availability: Available
-    Price: $8,081.85 USD
+    Price: $8,100.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1048aa100n-wall-mount-hvac-unit?variant=46997742715053)
     Availability: Available
-    Price: $8,606.85 USD
+    Price: $8,600.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1048aa100n-wall-mount-hvac-unit?variant=46997742747821)
     Availability: Available
-    Price: $9,131.85 USD
+    Price: $9,200.00 USD
 - [SAH1060AA150N 5 Ton Wall Mount AC | Eubank HVAC](https://eubankwallmounthvac.com/products/sah1060aa150n-wall-mount-hvac-unit): 5-ton wall mount air conditioner, R454B refrigerant, 15kW heat. Ground freight included, ships fast. Order online now.
-  Updated: 2026-07-30T22:25:15Z
+  Updated: 2026-08-26T23:12:57Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A_506693f5-fb8a-47a4-b07b-8a5b65a43981.png?v=1785186939
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sah1060aa150n-wall-mount-hvac-unit?variant=46930869092525)
     Availability: Available
-    Price: $8,244.60 USD
+    Price: $8,300.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sah1060aa150n-wall-mount-hvac-unit?variant=46932536590509)
     Availability: Available
-    Price: $8,769.60 USD
+    Price: $8,800.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1060aa150n-wall-mount-hvac-unit?variant=46997759099053)
     Availability: Available
-    Price: $9,294.60 USD
+    Price: $9,300.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1060aa150n-wall-mount-hvac-unit?variant=46997759131821)
     Availability: Available
-    Price: $9,819.60 USD
+    Price: $9,900.00 USD
 - [SGH1072AD090N 6 Ton Wall Mount AC | Eubank HVAC](https://eubankwallmounthvac.com/products/sgh1072ad090n-wall-mount-hvac-unit): 6-ton 2-stage wall mount air conditioner, R454B refrigerant, 9kW heat. Ground freight included, ships fast. Order now.
-  Updated: 2026-07-30T22:25:20Z
+  Updated: 2026-08-26T23:12:57Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A_3086d633-34a7-425f-9d80-7efdf00a29c3.png?v=1785186948
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sgh1072ad090n-wall-mount-hvac-unit?variant=46930876104877)
     Availability: Available
-    Price: $10,683.75 USD
+    Price: $10,700.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sgh1072ad090n-wall-mount-hvac-unit?variant=46932536623277)
     Availability: Available
-    Price: $11,208.75 USD
+    Price: $11,200.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,500)](https://eubankwallmounthvac.com/products/sgh1072ad090n-wall-mount-hvac-unit?variant=46997775548589)
     Availability: Available
-    Price: $12,258.75 USD
+    Price: $12,250.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,500)](https://eubankwallmounthvac.com/products/sgh1072ad090n-wall-mount-hvac-unit?variant=46997775581357)
     Availability: Available
-    Price: $12,783.75 USD
+    Price: $12,800.00 USD
 - [SAH1024AA050C 2 Ton AC w/ Economizer | Eubank HVAC](https://eubankwallmounthvac.com/products/sah1024aa050c-wall-mount-hvac-unit): 2-ton wall mount AC with factory economizer for free cooling. R454B refrigerant, 5kW heat. Ground freight included.
-  Updated: 2026-07-30T22:25:26Z
+  Updated: 2026-08-26T23:12:57Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A_a3c2d76e-dc49-4587-8436-ea1d611e5f13.png?v=1785186958
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sah1024aa050c-wall-mount-hvac-unit?variant=46930884165805)
     Availability: Available
-    Price: $7,477.05 USD
+    Price: $7,500.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sah1024aa050c-wall-mount-hvac-unit?variant=46932536688813)
     Availability: Available
-    Price: $8,002.05 USD
+    Price: $8,100.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1024aa050c-wall-mount-hvac-unit?variant=46997800747181)
     Availability: Available
-    Price: $8,527.05 USD
+    Price: $8,527.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1024aa050c-wall-mount-hvac-unit?variant=46997800779949)
     Availability: Available
-    Price: $9,052.05 USD
+    Price: $9,100.00 USD
 - [SAH1036AA100C 3 Ton AC w/ Economizer | Eubank HVAC](https://eubankwallmounthvac.com/products/sah1036aa100c-wall-mount-hvac-unit): 3-ton wall mount AC with factory economizer for free cooling. R454B refrigerant, 10kW heat. Ground freight included.
-  Updated: 2026-07-30T22:25:31Z
+  Updated: 2026-08-26T23:12:57Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A_443dc48f-d3df-4b00-b334-516ee72dd128.png?v=1785186968
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sah1036aa100c-wall-mount-hvac-unit?variant=46930892587181)
     Availability: Available
-    Price: $7,692.30 USD
+    Price: $7,690.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sah1036aa100c-wall-mount-hvac-unit?variant=46932536787117)
     Availability: Available
-    Price: $8,217.30 USD
+    Price: $8,200.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1036aa100c-wall-mount-hvac-unit?variant=46997817589933)
     Availability: Available
-    Price: $8,742.30 USD
+    Price: $8,800.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1036aa100c-wall-mount-hvac-unit?variant=46997817622701)
     Availability: Available
-    Price: $9,267.30 USD
+    Price: $9,300.00 USD
 - [SAH1048AA100C 4 Ton AC w/ Economizer | Eubank HVAC](https://eubankwallmounthvac.com/products/sah1048aa100c-wall-mount-hvac-unit): 4-ton wall mount AC with factory economizer for free cooling. R454B refrigerant, 10kW heat. Ground freight included.
-  Updated: 2026-07-30T22:25:37Z
+  Updated: 2026-08-26T23:12:57Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A_823b9f60-4470-402f-b54d-f605b4a36702.png?v=1785186977
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sah1048aa100c-wall-mount-hvac-unit?variant=46930900418733)
     Availability: Available
-    Price: $8,516.55 USD
+    Price: $8,500.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sah1048aa100c-wall-mount-hvac-unit?variant=46932536819885)
     Availability: Available
-    Price: $9,041.55 USD
+    Price: $9,100.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1048aa100c-wall-mount-hvac-unit?variant=46997850980525)
     Availability: Available
-    Price: $9,566.55 USD
+    Price: $9,560.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1048aa100c-wall-mount-hvac-unit?variant=46997851013293)
     Availability: Available
-    Price: $10,091.55 USD
+    Price: $11,000.00 USD
 - [SAH1060AA100C 5 Ton AC w/ Economizer | Eubank HVAC](https://eubankwallmounthvac.com/products/sah1060aa100c-wall-mount-hvac-unit): 5-ton wall mount AC with factory economizer for free cooling. R454B refrigerant, 10kW heat. Ground freight included.
-  Updated: 2026-07-30T22:25:41Z
+  Updated: 2026-08-26T23:12:57Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A_a4a0d2e9-95a3-4ec5-826e-e087860f4c9e.png?v=1785186987
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sah1060aa100c-wall-mount-hvac-unit?variant=46930908315821)
     Availability: Available
-    Price: $9,094.05 USD
+    Price: $9,100.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sah1060aa100c-wall-mount-hvac-unit?variant=46932537180333)
     Availability: Available
-    Price: $9,619.05 USD
+    Price: $9,600.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1060aa100c-wall-mount-hvac-unit?variant=46997862056109)
     Availability: Available
-    Price: $10,144.05 USD
+    Price: $10,200.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,000)](https://eubankwallmounthvac.com/products/sah1060aa100c-wall-mount-hvac-unit?variant=46997862088877)
     Availability: Available
-    Price: $10,669.05 USD
+    Price: $10,770.00 USD
 - [SGH1072AD090C 6 Ton AC w/ Economizer | Eubank HVAC](https://eubankwallmounthvac.com/products/sgh1072ad090c-wall-mount-hvac-unit): 6-ton 2-stage wall mount AC with factory economizer. R454B refrigerant, 9kW heat. Ground freight included, ships fast.
-  Updated: 2026-07-30T22:25:46Z
+  Updated: 2026-08-26T23:12:57Z
   Vendor: Marvair/Eubank
   Product Type: Wall Mount HVAC Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/7369/2333/files/EAA1020A-EAA1060A_02eb4e87-b5bb-4d60-97c7-b8cc89cdcb0b.png?v=1785186997
   - [Standard Manufacturer Warranty / No Crate](https://eubankwallmounthvac.com/products/sgh1072ad090c-wall-mount-hvac-unit?variant=46930915721389)
     Availability: Available
-    Price: $11,170.95 USD
+    Price: $11,200.00 USD
   - [Gold Service Warranty (+$500) / No Crate](https://eubankwallmounthvac.com/products/sgh1072ad090c-wall-mount-hvac-unit?variant=46932537278637)
     Availability: Available
-    Price: $11,695.95 USD
+    Price: $12,000.00 USD
   - [Standard Manufacturer Warranty / Optional Protective Crate (+$1,500)](https://eubankwallmounthvac.com/products/sgh1072ad090c-wall-mount-hvac-unit?variant=46997880209581)
     Availability: Available
-    Price: $12,745.95 USD
+    Price: $12,750.00 USD
   - [Gold Service Warranty (+$500) / Optional Protective Crate (+$1,500)](https://eubankwallmounthvac.com/products/sgh1072ad090c-wall-mount-hvac-unit?variant=46997880242349)
     Availability: Available
-    Price: $13,270.95 USD
+    Price: $13,275.00 USD
 
 ## Collections
 
 - [Home page](https://eubankwallmounthvac.com/collections/frontpage)
-  Updated: 2026-07-30T22:25:02Z
+  Updated: 2026-08-26T23:12:59Z
   Total Products: 1
 - [Wall Mount HVAC Units](https://eubankwallmounthvac.com/collections/wall-mount-hvac-units): Shop in-stock Marvair/Eubank wall mount AC units, 2-6 tons, R454B refrigerant. Ground freight included. Standard or economizer models ship fast.
-  Updated: 2026-07-30T22:25:47Z
+  Updated: 2026-08-26T23:13:12Z
   Total Products: 10
 
 ## Blogs
@@ -264,6 +264,22 @@ refrigerant.
     Updated: 2026-08-17T02:45:05Z
     Author: Eubank HVAC Wallmount
     Tags: air conditioner, bard hvac, commercial hvac, commercial hvac solutions, cooling, energy efficiency, hvac, indoor climate, modular building hvac, telecom, telecom shelter cooling, telecom shelter cooling systems, wall mount air conditioner
+  - [Effective Telecom Shelter Cooling & Modular Building HVAC with the SAH1060AA100C Wall Mount Air Conditioner Featuring Economizer](https://eubankwallmounthvac.com/blogs/news/effective-telecom-shelter-cooling-modular-building-hvac-with-the-sah1060aa100c-wall-mount-air-conditioner-featuring-economizer): Effective Telecom Shelter Cooling & Modular Building HVAC with the SAH1060AA100C Wall Mount Air Conditioner Featuring Economizer
+    Updated: 2026-08-19T02:23:56Z
+    Author: Eubank HVAC Wallmount
+    Tags: air conditioner, bard hvac, commercial hvac, cooling, energy efficiency solutions, hvac, modular building, modular building hvac, telecom, telecom shelter climate control, telecom shelter cooling, wall mount, wall mount air conditioner
+  - [Enhance Your Facility's Efficiency with the SAH1048AA100N 4 Ton Wall Mount Air Conditioner for Telecom Shelters and Modular Building HVAC](https://eubankwallmounthvac.com/blogs/news/enhance-your-facilitys-efficiency-with-the-sah1048aa100n-4-ton-wall-mount-air-conditioner-for-telecom-shelters-and-modular-building-hvac): Enhance Your Facility's Efficiency with the SAH1048AA100N 4 Ton Wall Mount Air Conditioner for Telecom Shelters and Modular Building HVAC
+    Updated: 2026-08-22T00:49:15Z
+    Author: Eubank HVAC Wallmount
+    Tags: 4 ton air conditioning unit, air conditioner, bard hvac, commercial hvac, efficiency, enhance facility efficiency, hvac systems, modular building hvac, telecom shelter cooling, telecom shelters, wall mount air conditioner
+  - [Maximize Commercial HVAC Efficiency with the SGH1072AD090N 6 Ton Wall Mount Air Conditioner](https://eubankwallmounthvac.com/blogs/news/maximize-commercial-hvac-efficiency-with-the-sgh1072ad090n-6-ton-wall-mount-air-conditioner): Maximize Commercial HVAC Efficiency with the SGH1072AD090N 6 Ton Wall Mount Air Conditioner
+    Updated: 2026-08-24T02:44:42Z
+    Author: Eubank HVAC Wallmount
+    Tags: 6 ton ac unit, air conditioner, bard hvac, commercial cooling, commercial hvac, efficiency, energy savings, hvac, maximize hvac performance, modular building hvac, telecom shelter cooling, wall mount, wall mount air conditioner
+  - [Maximizing Telecom Shelter Cooling and Modular Building HVAC with the SGH1072AD090C 6 Ton Wall Mount Air Conditioner with Economizer](https://eubankwallmounthvac.com/blogs/news/maximizing-telecom-shelter-cooling-and-modular-building-hvac-with-the-sgh1072ad090c-6-ton-wall-mount-air-conditioner-with-economizer): Maximizing Telecom Shelter Cooling and Modular Building HVAC with the SGH1072AD090C 6 Ton Wall Mount Air Conditioner with Economizer
+    Updated: 2026-08-26T02:29:01Z
+    Author: Eubank HVAC Wallmount
+    Tags: air conditioning, bard hvac, commercial hvac, cooling solutions, economizer systems, effective shelter cooling, hvac systems, modular building hvac, modular buildings, telecom shelter cooling, telecom shelters, wall mount ac units, wall mount air conditioner
 
 ## Store Pages
 
@@ -275,6 +291,8 @@ refrigerant.
   Updated: 2026-07-27T21:54:35Z
 - [Gold Service Warranty Terms](https://eubankwallmounthvac.com/pages/gold-service-warranty): Marvair, Inc. Gold Service™ WarrantyMarvair, Inc. warrants its products to be free from defects in materials and workmanship under normal use to th...
   Updated: 2026-07-28T01:49:45Z
+- [2 Ton Wall Mount Air Conditioner | 24,000 BTU In Stock](https://eubankwallmounthvac.com/pages/2-ton-wall-mount-air-conditioners): A 2 ton wall mount air conditioner delivers roughly 24,000 BTU/h of cooling from a single self-contained cabinet that bolts to the outside wall of ...
+  Updated: 2026-08-20T00:44:30Z
 
 ## Policies
 
