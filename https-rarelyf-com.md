@@ -6,17 +6,15 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T11:03:01Z
 - Contact Email: rarelyfllc@gmail.com
-- Updated At: 2026-08-18T06:50:27.560Z
+- Updated At: 2026-08-27T00:00:30.879Z
 
-# RareLyf
+## About RareLyf 
 
-> RareLyf is a premium Ayurvedic wellness brand for the US and Western market, formulating compound herbal supplements rooted in classical Ayurvedic texts (Charaka Samhita, Ashtanga
-> Hridayam) and validated by modern clinical research. Unlike single-herb supplements (ashwagandha alone, magnesium alone), RareLyf builds multi-ingredient compound formulas — the way classical Ayurvedic  was originally practiced — with every ingredient and
-> dose fully disclosed on the label.
+> RareLyf is a premium Ayurvedic wellness brand for the US and Western market, formulating compound herbal supplements rooted in classical Ayurvedic texts (Charaka Samhita, Ashtanga Hridayam) and validated by modern clinical research. Unlike single-herb supplements (ashwagandha alone, magnesium alone), RareLyf builds multi-ingredient compound formulas — the way classical Ayurvedic  was originally practiced — with every ingredient and dose fully disclosed on the label.
 
 ## Flagship Product
 
-- [RareLyf Calm](https://rarelyf.com/products/PLACEHOLDER): A 15-ingredient classical Ayurvedic
+- [RareLyf Calm](https://rarelyf.com/products/rarelyf-calm): A 15-ingredient classical Ayurvedic
   compound formula for stress and sleep. 3 capsules per serving, 30 servings per bottle.
   Key branded ingredients: KSM-66 Ashwagandha (300mg), Bacognize Bacopa (300mg), Suntheanine
   L-Theanine (200mg), affron Saffron (28mg), BioPerine Black Pepper (5mg). Full label
@@ -44,7 +42,7 @@
 ## Products
 
 - [RareLyf Calm](https://rarelyf.com/products/rarelyf-calm): Every ingredient in RareLyf Calm was chosen for three reasons: classical Ayurvedic precedent, modern clinical validation, and compound synergy. Nothing is in here for label decoration. Everything earns its place.
-  Updated: 2026-08-07T07:10:27Z
+  Updated: 2026-08-18T07:25:42Z
   Vendor: RareLyf
   Product Type: 
   Availability: Available
@@ -54,7 +52,7 @@
 ## Collections
 
 - [Home page](https://rarelyf.com/collections/frontpage)
-  Updated: 2026-08-07T07:10:27Z
+  Updated: 2026-08-18T07:25:42Z
   Total Products: 1
 
 ## Store Pages
@@ -85,7 +83,7 @@
 - [Contact Information](https://rarelyf.com/policies/contact-information)
   Updated: 2026-07-02T05:05:04-07:00
 
-##Social Media
+## Social Media
 - [Instagram](https://www.instagram.com/liverarelyf/)
 - [Facebook](https://www.facebook.com/profile.php?id=61593132385675)
 
