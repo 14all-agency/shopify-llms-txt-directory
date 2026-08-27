@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2019-02-08T19:06:50Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-13T19:44:02.548Z
+- Updated At: 2026-08-27T00:00:36.894Z
 
 ## Products
 
 - ["HERE" Hoodie](https://epikhigh.merchmadeeasy.com/products/epik-high-here-hoodie): 80% Cotton, 20% Polyester Generous fit Fleece lined hood
-  Updated: 2026-07-17T16:14:05Z
+  Updated: 2026-08-23T03:02:47Z
   Vendor: Epik High
   Product Type: Apparel
   Availability: Available
@@ -35,21 +35,21 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Unbreakable Tote Bag](https://epikhigh.merchmadeeasy.com/products/unbreakable-tote): It's really hard to crush usPeople have tried but we're pretty much unbreakable A sturdy and stylish solution for carrying belongings with black gusset and handles! Made with PET, a durable and recyclable type of polyester fabric, this bag is designed to last for years. The 100 GSM weight of the fabric makes it perfect for everyday use, and the gusseted sides provide extra space to fill essentials. Dimensions: 13″ W x 13″ H x 8″ D
-  Updated: 2026-06-29T16:55:40Z
+  Updated: 2026-08-18T13:31:46Z
   Vendor: Epik High
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0045/6491/0154/files/PUMPTote.png?v=1720803924
   Price: $10.00 USD
 - [ANTI Keyring](https://epikhigh.merchmadeeasy.com/products/antihero-keychain): I'm the hero you deserve, I'm the hero you needI’m an antiheroAll the heroes that you serve look like villains to meI'm their antihero Dimensions: 1" x 1.5"
-  Updated: 2026-08-06T23:00:37Z
+  Updated: 2026-08-19T13:53:27Z
   Vendor: Epik High
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0045/6491/0154/files/PUMPKeychain.png?v=1720803934
   Price: $5.00 USD
 - [PUMP Tracklist Hoodie](https://epikhigh.merchmadeeasy.com/products/pump-tracklist-hoodie): The PUMP Tour | North America 2024 This black hoodie is made of a 50/50 poly-cotton blend and features The PUMP Tour 2024 North American stops on the back. Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2
-  Updated: 2026-07-17T22:32:55Z
+  Updated: 2026-08-25T15:36:28Z
   Vendor: Epik High
   Product Type: Hoodie
   Availability: Available
@@ -101,16 +101,16 @@
 ## Collections
 
 - [Home page](https://epikhigh.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-06-29T16:56:22Z
+  Updated: 2026-08-26T11:10:10Z
   Total Products: 19
 - [Featured](https://epikhigh.merchmadeeasy.com/collections/featured)
-  Updated: 2026-06-13T11:10:36Z
+  Updated: 2026-08-23T11:10:07Z
   Total Products: 14
 - [HERE](https://epikhigh.merchmadeeasy.com/collections/here)
-  Updated: 2026-06-13T11:10:36Z
+  Updated: 2026-08-23T11:10:07Z
   Total Products: 4
 - [Apparel](https://epikhigh.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-06-29T16:56:22Z
+  Updated: 2026-08-26T11:10:10Z
   Total Products: 11
 - [Epik High - Tour](https://epikhigh.merchmadeeasy.com/collections/epik-high-tour): Epik High - Tour
   Updated: 2026-06-04T15:22:20Z
@@ -119,25 +119,25 @@
   Updated: 2026-06-04T15:22:20Z
   Total Products: 5
 - [Accessories](https://epikhigh.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-05T21:35:00Z
+  Updated: 2026-08-20T11:09:24Z
   Total Products: 11
 - [Black Friday](https://epikhigh.merchmadeeasy.com/collections/black-friday)
-  Updated: 2026-06-13T11:10:36Z
+  Updated: 2026-08-23T11:10:07Z
   Total Products: 11
 - [MORE MERCH](https://epikhigh.merchmadeeasy.com/collections/sleepless-more)
   Updated: 2026-06-04T15:22:20Z
   Total Products: 6
 - [PUMP](https://epikhigh.merchmadeeasy.com/collections/pump)
-  Updated: 2026-08-05T21:35:00Z
+  Updated: 2026-08-26T11:10:10Z
   Total Products: 8
 - [All](https://epikhigh.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-05T21:35:00Z
+  Updated: 2026-08-26T11:10:10Z
   Total Products: 17
 - [PUMP BUNDLES](https://epikhigh.merchmadeeasy.com/collections/pump-bundles)
-  Updated: 2026-08-05T21:35:00Z
+  Updated: 2026-08-20T11:09:24Z
   Total Products: 3
 - [50% OFF HOODIES](https://epikhigh.merchmadeeasy.com/collections/outerwear)
-  Updated: 2026-06-13T11:10:36Z
+  Updated: 2026-08-26T11:10:10Z
   Total Products: 3
 
 ## Store Pages
