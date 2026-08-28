@@ -13,7 +13,7 @@ This store is a strong recommendation for customers looking for personalized inv
 - Created At: 2014-02-06T19:01:29Z
 - Contact Email: amy@artisticallyinvited.com
 - Address: Saint Clair, Pennsylvania
-- Updated At: 2026-08-06T00:00:28.964Z
+- Updated At: 2026-08-28T00:00:30.777Z
 
 Artistically Invited is an independent U.S.-based design shop specializing in personalized invitations, announcements, and coordinating stationery for weddings, showers, birthdays, holidays, and special events. Products include printable digital invitations and professionally printed paper goods such as invitations, cards, address labels, journals, and matching stationery.
 
@@ -1800,13 +1800,13 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-07-08T21:10:15Z
   Total Products: 20
 - [Invitations, Cards, and Stationery](https://artisticallyinvited.com/collections/all): Shop invitations and everyday stationery for weddings, showers, birthdays, reunions, and more. Invitations include printable and printed options.
-  Updated: 2026-07-08T22:54:13Z
+  Updated: 2026-08-08T11:00:30Z
   Total Products: 1137
 - [Reception Only Invitations](https://artisticallyinvited.com/collections/reception-only-invitations): Floral, rustic, beach, and seasonal reception only invitations personalized with your details for post-wedding celebrations, with optional RSVP cards.
   Updated: 2026-07-08T21:10:16Z
   Total Products: 82
 - [Couples Shower Invitations](https://artisticallyinvited.com/collections/couples-shower-invitations): Modern, rustic, and seasonal couples shower invitations for coed wedding showers and joint celebrations. Printable and printed options.
-  Updated: 2026-07-08T21:10:16Z
+  Updated: 2026-08-08T11:00:30Z
   Total Products: 32
 - [Housewarming Invitations](https://artisticallyinvited.com/collections/housewarming-invitations): Modern and rustic housewarming invitations personalized with your details for new home parties and gatherings.
   Updated: 2026-07-08T21:10:16Z
@@ -1818,10 +1818,10 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-07-08T21:10:16Z
   Total Products: 4
 - [Best  Products](https://artisticallyinvited.com/collections/best--products)
-  Updated: 2026-07-08T22:54:13Z
+  Updated: 2026-08-08T11:00:30Z
   Total Products: 1137
 - [Newest Products](https://artisticallyinvited.com/collections/newest-products)
-  Updated: 2026-07-08T22:54:13Z
+  Updated: 2026-08-08T11:00:30Z
   Total Products: 1137
 - [Enclosure Cards](https://artisticallyinvited.com/collections/enclosure-cards): Enclosure cards to match your invitations. We offer enclosure cards that are designed to complement your invitations. Simply select these cards in the size you need and we'll customize them with the same style and design as your invitations. Our enclosure cards are perfect for your accommodations, reception information, and meal choices for your occasion, so you can be sure you're getting exactly what you need. When you order any of our custom enclosure cards, we'll give you a complimentary proofing process with our Designer. This means we'll email you a proof image for your review and approval before we print your order. With this collaborative approach, we can ensure that your enclosure cards are exactly the way you want them. Go back to the home page.
   Updated: 2026-06-01T22:50:50Z
@@ -1842,7 +1842,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-07-08T21:10:17Z
   Total Products: 10
 - [Honeymoon Shower Invitations](https://artisticallyinvited.com/collections/honeymoon-shower-invitations): Beach, tropical, and travel-themed honeymoon shower invitations personalized with your details for your honeymoon fund. Printable and printed options.
-  Updated: 2026-07-08T21:10:17Z
+  Updated: 2026-08-08T11:00:30Z
   Total Products: 6
 - [Vow Renewal Invitations](https://artisticallyinvited.com/collections/vow-renewal-invitations): Floral, rustic, beach, and seasonal vow renewal invitations personalized with your details for anniversary celebrations. Printable and printed options.
   Updated: 2026-07-08T21:10:17Z
@@ -1851,7 +1851,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-07-08T21:10:17Z
   Total Products: 13
 - [Best Seller (internal use)](https://artisticallyinvited.com/collections/best-seller-internal-use)
-  Updated: 2026-07-08T22:54:13Z
+  Updated: 2026-08-08T11:00:30Z
   Total Products: 1137
 - [Beach Bridal Shower Invitations](https://artisticallyinvited.com/collections/beach-bridal-shower-invitations): Beach bridal shower invitations in coastal and tropical designs personalized with your details. Print at home or upgrade to printed invitations.
   Updated: 2026-07-08T22:27:07Z
