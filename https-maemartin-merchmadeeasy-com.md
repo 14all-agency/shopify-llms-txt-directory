@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-02-20T20:48:59Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-06T21:51:25.540Z
+- Updated At: 2026-08-28T00:00:37.593Z
 
 ## Products
 
 - [Bear Portal Hoodie](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie): 80/20 cotton/recycled polyester hoodie in army green
-  Updated: 2026-08-03T15:33:38Z
+  Updated: 2026-08-27T17:35:16Z
   Vendor: Mae Martin
   Product Type: Hoodie
   Availability: Available
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $65.00 USD
 - [Bear Portal Tour Tee](https://maemartin.merchmadeeasy.com/products/bear-portal-tour-tee): 50% cotton / 50% polyester tee in black
-  Updated: 2026-08-03T15:33:38Z
+  Updated: 2026-08-27T17:35:16Z
   Vendor: Mae Martin
   Product Type: T-Shirt
   Availability: Available
@@ -136,14 +136,14 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Bear Portal Hat](https://maemartin.merchmadeeasy.com/products/bear-portal-hat): 100% cotton twill 6-panel hat with adjustable hook-and-loop closure
-  Updated: 2026-08-03T15:33:38Z
+  Updated: 2026-08-27T17:35:16Z
   Vendor: Mae Martin
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9081/0102/files/MAEM_0004_166965_1_307101_d-_1.png?v=1772646832
   Price: $40.00 USD
 - [The Possum Tour Poster](https://maemartin.merchmadeeasy.com/products/the-possum-tour-poster): 18x24" poster
-  Updated: 2026-08-03T15:33:38Z
+  Updated: 2026-08-27T17:35:16Z
   Vendor: Mae Martin
   Product Type: Poster
   Availability: Available
@@ -153,16 +153,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://maemartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-07-19T11:29:23Z
+  Updated: 2026-08-08T11:30:03Z
   Total Products: 4
 - [Apparel](https://maemartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-07-19T11:29:23Z
+  Updated: 2026-08-08T11:30:03Z
   Total Products: 2
 - [Accessories](https://maemartin.merchmadeeasy.com/collections/accessories)
   Updated: 2026-06-16T12:24:35Z
   Total Products: 2
 - [All](https://maemartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-07-19T11:29:23Z
+  Updated: 2026-08-08T11:30:03Z
   Total Products: 4
 
 ## Store Pages
