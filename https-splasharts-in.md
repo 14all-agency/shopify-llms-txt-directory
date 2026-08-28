@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-08T14:30:33Z
 - Contact Email: info@splasharts.in
-- Updated At: 2026-08-14T00:00:42.019Z
+- Updated At: 2026-08-28T00:00:48.002Z
 
 ## Products
 
@@ -278,14 +278,14 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/leaf-ganesha-wooden-effect-nameplate-925.webp?v=1785303598
   Price: ₹2,199.00 INR
 - [Ganesha Wooden Effect Nameplate Spiritual Door Decor](https://splasharts.in/products/ganesha-wooden-effect-nameplate-copy): The Ganesha Wooden Effect Nameplate features premium MDF marine wood construction. This entrance accessory provides durability and a wood appearance for homes.
-  Updated: 2026-07-15T02:35:08Z
+  Updated: 2026-08-24T06:02:03Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/ganesha-wooden-effect-nameplate-606.webp?v=1779700423
-  Price: ₹1,899.00 INR
+  Price: ₹1,999.00 INR
 - [Lotus Nameplate Elegant Floral Entrance Decor](https://splasharts.in/products/lotus-nameplate): The SplashArts Lotus Nameplate features MDF marine wood construction and Vastu principles. This door plate provides durability plus symbols of purity and harmony.
-  Updated: 2026-07-29T12:24:48Z
+  Updated: 2026-08-17T11:05:23Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -299,21 +299,21 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/peacock-nameplate-593.webp?v=1779700473
   Price: ₹3,899.00 INR
 - [Divine Ganesha Nameplate for Home Entrance Decor](https://splasharts.in/products/divine-ganesha-nameplate): The Divine Ganesha Nameplate features MDF marine wood construction for durability. This entrance accessory displays spiritual symbols to represent enlightenment.
-  Updated: 2026-07-10T12:12:41Z
+  Updated: 2026-08-17T10:49:06Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/divine-ganesha-nameplate-984.webp?v=1779700545
-  Price: ₹1,899.00 INR
+  Price: ₹1,999.00 INR
 - [Tree of Life Nameplate for Home Entrance Decor](https://splasharts.in/products/tree-of-life-nameplate): The Tree of Life Nameplate features MDF marine wood construction for home entrances. This Vastu item symbolizes harmony and prosperity with a durable finish.
-  Updated: 2026-07-29T12:22:59Z
+  Updated: 2026-08-17T11:06:13Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/tree-of-life-nameplate-237.webp?v=1785327651
-  Price: ₹2,199.00 INR
+  Price: ₹2,299.00 INR
 - [Pichawai Nameplate Traditional Indian Door Decor](https://splasharts.in/products/pichawai-nameplate): The Pichawai Nameplate features traditional Indian motifs and contemporary design. This door accessory reflects identity and brings positive energy to home facades.
-  Updated: 2026-07-29T12:40:43Z
+  Updated: 2026-08-17T10:58:57Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -334,40 +334,40 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/love-in-the-air-nameplate-468.webp?v=1779700750
   Price: ₹2,499.00 INR
 - [Love Birds Nameplate for Office Door Decor SplashArts](https://splasharts.in/products/love-birds-nameplate): The Love Birds Nameplate features a canvas board measuring 17.3cm by 53cm. This customized door sign includes a bird motif and weighs little for easy installation.
-  Updated: 2026-07-29T12:53:27Z
+  Updated: 2026-08-17T10:54:26Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/love-birds-nameplate-749.webp?v=1779700878
   Price: ₹2,499.00 INR
 - [Tree Branch Nameplate Personalized Nature Door Decor](https://splasharts.in/products/tree-branch-nameplate): The Tree Branch Nameplate features 8mm MDF Marine Wood for durability. This personalized door decor identifies homes using nature themes and rustic attributes.
-  Updated: 2026-07-29T12:26:15Z
+  Updated: 2026-08-17T11:04:52Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/tree-branch-nameplate-726.webp?v=1779700937
   Price: ₹2,299.00 INR
 - [Kalash Nameplate Vastu Door Decor for Prosperity](https://splasharts.in/products/kalash-nameplate): The Kalash Nameplate features 8mm MDF Marine Wood construction. This personalized door sign incorporates Vastu symbols for abundance and prosperity at home entrances.
-  Updated: 2026-07-29T12:26:57Z
+  Updated: 2026-08-17T11:04:26Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/kalash-nameplate-131.webp?v=1779700975
   Price: ₹2,299.00 INR
 - [Floral Nameplate with Vibrant Botanical Designs](https://splasharts.in/products/floral-nameplate): Floral Nameplate features floral motifs on 8mm MDF Marine Wood. This door nameplate provides durability and nature themes for home entrances and office decor.
-  Updated: 2026-07-29T12:28:17Z
+  Updated: 2026-08-17T11:03:27Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-nameplate-462.webp?v=1779701043
   Price: ₹2,299.00 INR
 - [Welcome Ganesha Nameplate Spiritual Door Decor Entrance](https://splasharts.in/products/welcome-ganesha-nameplate): The Welcome Ganesha Nameplate features a Lord Ganesha depiction on a door name plate. This item provides spiritual symbolism and prosperity for home entrances.
-  Updated: 2026-07-29T12:30:06Z
+  Updated: 2026-08-17T11:02:44Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/welcome-ganesha-nameplate-695.webp?v=1779701121
-  Price: ₹1,199.00 INR
+  Price: ₹1,599.00 INR
 - [Aquatic Kids Nameplate Personalized Ocean Room Decor](https://splasharts.in/products/aquatic-kids-nameplate): The Aquatic Kids Nameplate features handcrafted wood construction with illustrations of fish, starfish, and dolphins to display a child name on bedroom walls.
   Updated: 2026-07-10T12:12:43Z
   Vendor: splashdiy
@@ -448,7 +448,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/divine-ganesha-blessing-nameplate-592.webp?v=1779701354
   Price: ₹2,699.00 INR
 - [Handcrafted Wooden Bark Nameplate for Office Doors](https://splasharts.in/products/wooden-bark-nameplate): The Handcrafted Wooden Bark Nameplate features MDF Marine Wood and a hut design. This nameplate displays family names and house numbers on home entrance doors.
-  Updated: 2026-07-29T12:50:46Z
+  Updated: 2026-08-17T10:42:58Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -477,103 +477,103 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/sweet-home-nameplate-667.webp?v=1779701458
   Price: ₹2,299.00 INR
 - [Blossom Nameplate Elegant Floral Office Door Decor](https://splasharts.in/products/blossom-nameplate): Enhance your home with the Blossom Nameplate, featuring customizable love birds design, perfect for celebrating love and togetherness.
-  Updated: 2026-07-29T12:33:15Z
+  Updated: 2026-08-17T11:01:09Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/blossom-nameplate-867.webp?v=1779701497
-  Price: ₹1,799.00 INR
+  Price: ₹1,999.00 INR
 - [Royal Charm Nameplate Elegant Office Door Decor](https://splasharts.in/products/royal-charm): Discover the Moonshine Love Nameplate, a romantic canvas piece perfect for celebrating love with customizable designs.
-  Updated: 2026-07-29T12:35:15Z
+  Updated: 2026-08-17T11:00:25Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/royal-charm-nameplate-981.webp?v=1779701561
-  Price: ₹1,399.00 INR
+  Price: ₹1,999.00 INR
 - [Sunflower Blossom Nameplate Premium Wood Office Decor](https://splasharts.in/products/sunflower-blossom-nameplate): Brighten your home with our customizable Sunflower Blossom Nameplate, perfect for adding a cheerful touch to any space.
-  Updated: 2026-07-29T12:37:19Z
+  Updated: 2026-08-17T10:59:50Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/sunflower-blossom-nameplate-963.webp?v=1779701602
-  Price: ₹1,599.00 INR
+  Price: ₹1,999.00 INR
 - [Royal Touch Nameplate Luxury Office Door Decor SplashArts](https://splasharts.in/products/royal-touch-nameplate): Enhance your entrance with the Royal Touch Nameplate, a customizable MDF masterpiece that radiates elegance and charm.
-  Updated: 2026-07-29T12:39:17Z
+  Updated: 2026-08-17T10:59:22Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/royal-touch-nameplate-182.webp?v=1779701649
-  Price: ₹1,799.00 INR
+  Price: ₹1,999.00 INR
 - [Personalized Blossom Wood Nameplate for Elegant Doors](https://splasharts.in/products/blossom-on-wood-nameplate): Elevate your entrance with the Blossom on Wood Nameplate, a personalized, durable, and elegantly designed home décor piece.
-  Updated: 2026-07-29T12:14:14Z
+  Updated: 2026-08-17T11:08:29Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/blossom-on-wood-nameplate-680.webp?v=1779701685
   Price: ₹1,999.00 INR
 - [Sunrise Boho Style Nameplate Modern Office Door Decor](https://splasharts.in/products/sunrise-boho-style-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-07-29T12:47:32Z
+  Updated: 2026-08-17T10:58:28Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/sunrise-boho-style-nameplate-505.webp?v=1779701778
-  Price: ₹1,799.00 INR
+  Price: ₹1,999.00 INR
 - [Peacock Feather Nameplate for Luxury Office Entrances](https://splasharts.in/products/peacock-feather-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-07-29T12:18:34Z
+  Updated: 2026-08-17T11:06:59Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/peacock-feather-nameplate-625.webp?v=1779701821
-  Price: ₹2,199.00 INR
+  Price: ₹2,299.00 INR
 - [Natural Wood Finish Nameplate Elegant Office Decor](https://splasharts.in/products/natural-wood-finish-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-07-10T12:12:46Z
+  Updated: 2026-08-17T10:57:25Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/natural-wood-finish-nameplate-799.webp?v=1779701860
-  Price: ₹1,399.00 INR
+  Price: ₹1,999.00 INR
 - [Rustic Brick Wall Nameplate Office Door Sign Decor](https://splasharts.in/products/brick-wall-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-07-29T12:55:28Z
+  Updated: 2026-08-17T10:56:49Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/brick-wall-nameplate-330.webp?v=1779701910
-  Price: ₹1,399.00 INR
+  Price: ₹1,899.00 INR
 - [Buddha Blessing Nameplate Serene Spiritual Door Decor](https://splasharts.in/products/buddha-blessing-nameplate): Discover serenity with the Buddha Blessing Nameplate, a beautifully crafted symbol of peace and positivity for your home or office decor.
-  Updated: 2026-07-29T12:56:36Z
+  Updated: 2026-08-17T10:56:11Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/buddha-blessing-nameplate-469.webp?v=1779701961
-  Price: ₹1,399.00 INR
+  Price: ₹1,899.00 INR
 - [Lippan Mud Mirror Nameplate Traditional Kutch Decor](https://splasharts.in/products/mud-mirror-work-nameplate): Discover the elegance of the Mud Mirror Work Nameplate, a handcrafted piece that adds charm and personalization to your home’s entrance.
-  Updated: 2026-07-10T12:12:47Z
+  Updated: 2026-08-17T10:49:29Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/lippan-art-mud-mirror-work-nameplate-632.webp?v=1779702010
   Price: ₹2,999.00 INR
 - [Floral Blue Nameplate Elegant Door Decor for Home](https://splasharts.in/products/floral-blue-nameplate): Discover the Floral Blue Nameplate, a stylish and personalized decor piece to elevate your home with vibrant colors and a boho flair!
-  Updated: 2026-07-10T12:12:47Z
+  Updated: 2026-08-17T10:55:39Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-blue-nameplate-531.webp?v=1779702055
-  Price: ₹1,399.00 INR
+  Price: ₹1,899.00 INR
 - [Personalized Family Surname Door Nameplate SplashArts](https://splasharts.in/products/family-surname-nameplate): Add a personal touch to your home with our Family Surname Nameplate, crafted for elegance and durability—perfect for welcoming guests!
-  Updated: 2026-08-10T11:09:27Z
+  Updated: 2026-08-17T11:07:28Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/family-surname-nameplate-197.webp?v=1779702136
   Price: ₹1,999.00 INR
 - [Classy Brown Nameplate Elegant Office Door Decor](https://splasharts.in/products/classy-brown-nameplate): Enhance your home’s charm with our Classy Brown Nameplate, a personalized and elegant addition that welcomes guests with style.
-  Updated: 2026-07-26T15:38:36Z
+  Updated: 2026-08-17T10:52:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/classy-brown-nameplate-387.webp?v=1779702174
-  Price: ₹1,399.00 INR
+  Price: ₹1,999.00 INR
 - [Naruto DIY Keychain Kit Paint Your Own Anime Craft](https://splasharts.in/products/naruto-diy-keychain-kit): Create your own unique Naruto DIY Keychain Kit and unleash your creativity with fun designs featuring your favorite characters!
   Updated: 2026-08-11T04:54:37Z
   Vendor: SplashArts
@@ -914,7 +914,7 @@
     Availability: Available
     Price: ₹1,250.00 INR
 - [Cinderalla Nameboard DIY Kit | Personalized Paint Your Own Name Board](https://splasharts.in/products/cinderella-nameboard-diy-kit): Cinderella Nameboard DIY Kit for kids personalized paint your own wooden name board. Fun and creative activity, perfect for birthday return gifts and kids’ craft time.
-  Updated: 2026-07-20T07:53:07Z
+  Updated: 2026-08-22T07:35:07Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -959,7 +959,7 @@
     Availability: Available
     Price: ₹1,250.00 INR
 - [Unicorn Nameboard DIY Kit for Kids | Personalized Nameboard Kit](https://splasharts.in/products/unicorn-nameboard-diy-kit-for-kids): Make creativity magical with the Unicorn Nameboard DIY Kit for kids. A fun and engaging personalized Diy kit designed for kids. Perfect for Birthday Return gift
-  Updated: 2026-07-10T12:12:52Z
+  Updated: 2026-08-22T07:35:07Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -981,12 +981,12 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/frosty-flotilla-yacht-painting-hand-painted-seascape-artwork-luxury-665.webp?v=1779702726
   Price: ₹2,999.00 INR
 - [Bird on Branch Nameplate | Personalized Wooden Name Plate for Home](https://splasharts.in/products/bird-on-branch-nameplate): Add a touch of nature to your home with the Bird on Branch Nameplate. A personalized wooden name plate featuring a charming bird design, handcrafted to create a warm and elegant entrance décor.
-  Updated: 2026-07-10T12:12:52Z
+  Updated: 2026-08-17T10:54:01Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/bird-on-branch-nameplate-personalized-wooden-name-plate-for-home-640.webp?v=1779702735
-  Price: ₹1,599.00 INR
+  Price: ₹1,899.00 INR
 - [Divine Grace Cross Nameplate | Personalized Wooden Name Plate for Home](https://splasharts.in/products/divine-grace-cross-nameplate): Bring faith and elegance to your home with the Divine Grace Cross Nameplate. A personalized wooden name plate featuring a beautiful cross design, handcrafted to add a spiritual and graceful touch to your entrance.
   Updated: 2026-07-10T12:12:52Z
   Vendor: splasharts
@@ -995,12 +995,12 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/divine-grace-cross-nameplate-personalized-wooden-name-plate-977.webp?v=1779702797
   Price: ₹1,599.00 INR
 - [Personalized Om Wooden Nameplate for Home Entrance](https://splasharts.in/products/om-nameplate-personalized): Enhance your home entrance with the Om Nameplate – a personalized wooden name plate featuring a sacred Om symbol. Handcrafted design perfect for adding peace, positivity, and elegance to your home décor.
-  Updated: 2026-07-29T12:49:17Z
+  Updated: 2026-08-17T10:57:59Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/om-nameplate-personalized-wooden-name-plate-for-home-entrance-414.webp?v=1779702829
-  Price: ₹1,599.00 INR
+  Price: ₹1,899.00 INR
 - [Cozy Hut Nameplate | Personalized Wooden Name Plate for Home Entrance](https://splasharts.in/products/cozy-hut-nameplate): Shop Cozy Hut Nameplate – a personalized wooden name plate for home entrance. Handcrafted with premium finish, perfect for adding a warm, cozy and stylish touch to your front door décor.
   Updated: 2026-07-10T12:12:52Z
   Vendor: splasharts
@@ -1009,19 +1009,19 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/cozy-hut-nameplate-personalized-wooden-name-plate-for-home-entrance-283.webp?v=1779702859
   Price: ₹1,599.00 INR
 - [Nanak’s Grace Nameplate | Personalized Wooden Name Plate for Home](https://splasharts.in/products/nanak-s-grace-nameplate): Bring blessings and elegance to your home with the Nanak’s Grace Nameplate. A handcrafted personalized wooden name plate inspired by Sikh spirituality, perfect for a peaceful and divine entrance.
-  Updated: 2026-07-10T12:12:53Z
+  Updated: 2026-08-17T10:50:29Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/nanaks-grace-nameplate-handcrafted-personalized-wooden-name-plate-736.webp?v=1779702891
-  Price: ₹1,599.00 INR
+  Price: ₹1,899.00 INR
 - [Love Nest Wooden Nameplate Handcrafted Heart Decor](https://splasharts.in/products/love-nest-nameplate): Buy Love Nest Nameplate online. Personalized couple name plate for home entrance, perfect for newlyweds, housewarming gifts, and romantic home décor.
-  Updated: 2026-07-29T12:58:08Z
+  Updated: 2026-08-17T10:50:07Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/love-nest-nameplate-handcrafted-personalized-wooden-name-plate-154.webp?v=1779702920
-  Price: ₹1,599.00 INR
+  Price: ₹1,899.00 INR
 - [Royale Luxe Handcrafted Personalized Wooden Home Sign](https://splasharts.in/products/royale-luxe-nameplate-handcrafted-personalized): Royale Luxe Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
   Updated: 2026-07-10T12:12:53Z
   Vendor: splasharts
@@ -1030,19 +1030,19 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/royale-luxe-nameplate-handcrafted-personalized-wooden-for-home-984.webp?v=1779703007
   Price: ₹2,299.00 INR
 - [Elegance Edge Nameplate | Handcrafted Personalized Nameplate for Home](https://splasharts.in/products/elegance-edge-nameplate): Add a personal touch to your entrance with this handcrafted wooden nameplate. Customizable with your name, perfect for home décor, gifting, and housewarming. Durable, stylish, and easy to install.
-  Updated: 2026-07-10T12:12:53Z
+  Updated: 2026-08-17T10:42:25Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/elegance-edge-nameplate-handcrafted-personalized-wooden-for-home-563.webp?v=1779703031
-  Price: ₹1,899.00 INR
+  Price: ₹1,999.00 INR
 - [Welcome Home Nameplate  | Handcrafted Personalized Nameplate for Home](https://splasharts.in/products/welcome-home-nameplate): Add a personal touch to your entrance with this handcrafted wooden nameplate. Customizable with your name, perfect for home decor, gifting, and housewarming. Durable, stylish, and easy to install.
-  Updated: 2026-07-10T12:12:53Z
+  Updated: 2026-08-17T10:52:14Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/welcome-home-nameplate-handcrafted-personalized-wooden-for-entrance-993.webp?v=1779703072
-  Price: ₹1,599.00 INR
+  Price: ₹1,999.00 INR
 - [Cinderella Theme Photo Frame DIY Kit | Paint Your Own Princess Frame](https://splasharts.in/products/cinderella-theme-photo-frame-diy-kit): Create magical memories with the Cinderella Theme Photo Frame DIY Kit, a perfect craft activity and return gift for kids' birthday parties!
   Updated: 2026-07-10T12:12:54Z
   Vendor: splashdiy
@@ -1065,7 +1065,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/minecraft-photo-frame-diy-kit-for-kids-paint-your-own-pixel-splash-541.webp?v=1779703153
   Price: ₹599.00 INR
 - [3 Layer Rainbow Photo Frame Fridge Magnet DIY Kit for Kids](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit): 3 layer rainbow photo frame fridge magnet DIY kit for kids. Paint your own colorful magnet, perfect for birthday return gifts, party favors & creative fun.
-  Updated: 2026-07-30T03:18:20Z
+  Updated: 2026-08-27T14:18:57Z
   Vendor: splashdiy
   Product Type: photoframe
   Availability: Available
@@ -1077,23 +1077,23 @@
   - [Kpop demon hunter / Pack of 2 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48447060869277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM.webp?v=1785037047
-    Price: ₹279.00 INR
+    Price: ₹298.00 INR
   - [Kpop demon hunter / Pack of 3 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=46935761027229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM.webp?v=1785037047
-    Price: ₹399.00 INR
+    Price: ₹444.00 INR
   - [Kpop demon hunter / Pack of 4 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48447060902045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM.webp?v=1785037047
-    Price: ₹499.00 INR
+    Price: ₹592.00 INR
   - [Kpop demon hunter / Pack of 5 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48447060934813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM.webp?v=1785037047
-    Price: ₹599.00 INR
+    Price: ₹735.00 INR
   - [Kpop demon hunter / Pack of 10 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=46935761059997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM.webp?v=1785037047
-    Price: ₹1,199.00 INR
+    Price: ₹1,450.00 INR
   - [Princess / Pack of 1 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373545117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_1.webp?v=1785036881
@@ -1101,23 +1101,23 @@
   - [Princess / Pack of 2 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373577885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_1.webp?v=1785036881
-    Price: ₹279.00 INR
+    Price: ₹298.00 INR
   - [Princess / Pack of 3 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373610653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_1.webp?v=1785036881
-    Price: ₹399.00 INR
+    Price: ₹444.00 INR
   - [Princess / Pack of 4 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373643421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_1.webp?v=1785036881
-    Price: ₹499.00 INR
+    Price: ₹592.00 INR
   - [Princess / Pack of 5 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373676189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_1.webp?v=1785036881
-    Price: ₹599.00 INR
+    Price: ₹735.00 INR
   - [Princess / Pack of 10 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373708957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_1.webp?v=1785036881
-    Price: ₹1,199.00 INR
+    Price: ₹1,450.00 INR
   - [Unicorn / Pack of 1 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373741725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_2.webp?v=1785038346
@@ -1125,23 +1125,23 @@
   - [Unicorn / Pack of 2 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373774493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_2.webp?v=1785038346
-    Price: ₹279.00 INR
+    Price: ₹298.00 INR
   - [Unicorn / Pack of 3 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373807261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_2.webp?v=1785038346
-    Price: ₹399.00 INR
+    Price: ₹444.00 INR
   - [Unicorn / Pack of 4 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373840029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_2.webp?v=1785038346
-    Price: ₹499.00 INR
+    Price: ₹592.00 INR
   - [Unicorn / Pack of 5 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373872797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_2.webp?v=1785038346
-    Price: ₹599.00 INR
+    Price: ₹735.00 INR
   - [Unicorn / Pack of 10 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373905565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_2.webp?v=1785038346
-    Price: ₹1,199.00 INR
+    Price: ₹1,450.00 INR
   - [Peppa Pig / Pack of 1 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373938333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_3.webp?v=1785038447
@@ -1149,23 +1149,23 @@
   - [Peppa Pig / Pack of 2 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708373971101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_3.webp?v=1785038447
-    Price: ₹279.00 INR
+    Price: ₹298.00 INR
   - [Peppa Pig / Pack of 3 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374003869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_3.webp?v=1785038447
-    Price: ₹399.00 INR
+    Price: ₹444.00 INR
   - [Peppa Pig / Pack of 4 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374036637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_3.webp?v=1785038447
-    Price: ₹499.00 INR
+    Price: ₹592.00 INR
   - [Peppa Pig / Pack of 5 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374069405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_3.webp?v=1785038447
-    Price: ₹599.00 INR
+    Price: ₹735.00 INR
   - [Peppa Pig / Pack of 10 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374102173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_3.webp?v=1785038447
-    Price: ₹1,199.00 INR
+    Price: ₹1,450.00 INR
   - [Football / Pack of 1 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374134941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_5.jpg?v=1785038568
@@ -1173,23 +1173,23 @@
   - [Football / Pack of 2 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374167709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_5.jpg?v=1785038568
-    Price: ₹279.00 INR
+    Price: ₹298.00 INR
   - [Football / Pack of 3 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374200477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_5.jpg?v=1785038568
-    Price: ₹399.00 INR
+    Price: ₹444.00 INR
   - [Football / Pack of 4 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374233245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_5.jpg?v=1785038568
-    Price: ₹499.00 INR
+    Price: ₹592.00 INR
   - [Football / Pack of 5 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374266013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_5.jpg?v=1785038568
-    Price: ₹599.00 INR
+    Price: ₹735.00 INR
   - [Football / Pack of 10 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374298781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_5.jpg?v=1785038568
-    Price: ₹1,199.00 INR
+    Price: ₹1,450.00 INR
   - [Car / Pack of 1 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374331549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_6.webp?v=1785038687
@@ -1197,23 +1197,23 @@
   - [Car / Pack of 2 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374364317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_6.webp?v=1785038687
-    Price: ₹279.00 INR
+    Price: ₹298.00 INR
   - [Car / Pack of 3 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374397085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_6.webp?v=1785038687
-    Price: ₹399.00 INR
+    Price: ₹444.00 INR
   - [Car / Pack of 4 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374429853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_6.webp?v=1785038687
-    Price: ₹499.00 INR
+    Price: ₹592.00 INR
   - [Car / Pack of 5 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374462621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_6.webp?v=1785038687
-    Price: ₹599.00 INR
+    Price: ₹732.00 INR
   - [Car / Pack of 10 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374495389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_6.webp?v=1785038687
-    Price: ₹1,199.00 INR
+    Price: ₹1,450.00 INR
   - [Aeroplane / Pack of 1 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374528157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_7.webp?v=1785036963
@@ -1221,23 +1221,23 @@
   - [Aeroplane / Pack of 2 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374560925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_7.webp?v=1785036963
-    Price: ₹279.00 INR
+    Price: ₹298.00 INR
   - [Aeroplane / Pack of 3 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374593693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_7.webp?v=1785036963
-    Price: ₹399.00 INR
+    Price: ₹444.00 INR
   - [Aeroplane / Pack of 4 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374626461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_7.webp?v=1785036963
-    Price: ₹499.00 INR
+    Price: ₹592.00 INR
   - [Aeroplane / Pack of 5 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374659229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_7.webp?v=1785036963
-    Price: ₹599.00 INR
+    Price: ₹735.00 INR
   - [Aeroplane / Pack of 10 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374691997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_7.webp?v=1785036963
-    Price: ₹1,199.00 INR
+    Price: ₹1,450.00 INR
   - [Naruto / Pack of 1 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374724765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_8.webp?v=1785036978
@@ -1245,23 +1245,23 @@
   - [Naruto / Pack of 2 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374757533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_8.webp?v=1785036978
-    Price: ₹279.00 INR
+    Price: ₹298.00 INR
   - [Naruto / Pack of 3 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374790301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_8.webp?v=1785036978
-    Price: ₹399.00 INR
+    Price: ₹444.00 INR
   - [Naruto / Pack of 4 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374823069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_8.webp?v=1785036978
-    Price: ₹499.00 INR
+    Price: ₹592.00 INR
   - [Naruto / Pack of 5 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374855837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_8.webp?v=1785036978
-    Price: ₹599.00 INR
+    Price: ₹735.00 INR
   - [Naruto / Pack of 10 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374888605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_8.webp?v=1785036978
-    Price: ₹1,199.00 INR
+    Price: ₹1,450.00 INR
   - [Gabby / Pack of 1 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374921373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_9.webp?v=1785038937
@@ -1269,7 +1269,7 @@
   - [Gabby / Pack of 2 / 4.5"](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit?variant=48708374954141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-24_at_2.50.44_PM_9.webp?v=1785038937
-    Price: ₹279.00 INR
+    Price: ₹298.00 INR
 - [Floral Frames Set of 3 MDF Leaf Wall Decor Artwork](https://splasharts.in/products/harmony-trio-set-of-3-wall-hanging): Elevate your space with the Floral Frame, a set of 3 handcrafted wooden botanical wall hangings, perfect for modern home décor and thoughtful gifts.
   Updated: 2026-07-10T12:12:54Z
   Vendor: SplashArts
@@ -1354,7 +1354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/ray-of-hope-custom-family-crossword-photo-frame-wall-hanging-173.webp?v=1779703345
   Price: ₹2,899.00 INR
 - [Rainbow Nameboard DIY Kit for Kids | Personalized Paint Your Own Kit](https://splasharts.in/products/rainbow-nameboard-diy-kit): Rainbow Nameboard DIY Kit for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts, creative play, and kids room decor.
-  Updated: 2026-07-21T16:41:07Z
+  Updated: 2026-08-27T07:35:32Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -1369,7 +1369,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Gaming Controller Nameboard DIY Kit  | Personalized Paint Your Own Kit](https://splasharts.in/products/controller-nameboard-diy-kit): Gaming Controller Nameboard DIY Kit for kids personalized paint your own wooden name board. Fun gaming-themed activity, perfect for birthday return gifts.
-  Updated: 2026-07-14T05:58:06Z
+  Updated: 2026-08-17T15:11:27Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -1931,7 +1931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/holi-fridge-magnet-diy-kit-for-kids-paint-your-own-festival-craft-277.jpg?v=1779697892
     Price: ₹599.00 INR
 - [Theme Personalised Fridge Magnet DIY Kit |Paint Your Own Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit): Personalized fridge magnet in themes like Unicorn, Spiderman, Roblox, Peppa Pig, Minion, Teddy, Mermaid, Fairy, Ronaldo & Rumi. Perfect birthday return gift.
-  Updated: 2026-08-13T16:19:36Z
+  Updated: 2026-08-27T14:55:35Z
   Vendor: SplashArts
   Product Type: returngift, nameboard, fridge magnet
   Availability: Available
@@ -2583,7 +2583,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Dinosaur Theme Nameboard DIY Kit | Personalized Paint Your Own Kit](https://splasharts.in/products/dinosaur-nameboard-diy-kit): Dinosaur theme nameboard DIY kit for kids with paints & brush. Personalised craft for room décor, birthday return gifts & fun creative activity.
-  Updated: 2026-07-10T12:13:04Z
+  Updated: 2026-08-22T07:35:07Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -2811,7 +2811,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/diy-mandala-clock-kit-paint-your-own-wooden-splash-by-arts-386.png?v=1783664523
   Price: ₹799.00 INR
 - [Butterfly Rainbow Nameboard DIY Kit for Kids | Personalized Paint Your Own Kit](https://splasharts.in/products/butterfly-rainbow-nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board-birthday-return-gift-i-splash-diy-by-splash-arts): Rainbow Nameboard DIY Kit for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts, creative play, and kids room decor.
-  Updated: 2026-08-11T06:15:27Z
+  Updated: 2026-08-22T07:35:05Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -2826,7 +2826,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Kpop Demon Hunter Nameboard DIY Kit | Personalized Paint Your Own Kit](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board): Kpop Demon Hunter Nameplate DIY Kit for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts.
-  Updated: 2026-08-12T08:02:26Z
+  Updated: 2026-08-27T15:24:07Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -3032,84 +3032,84 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/aeroplane-nameboard-diy-kit-for-kids-personalized-paint-your-own-474.webp?v=1784619677
     Price: ₹399.00 INR
 - [Floral Royal Nameplate Personalized Wooden Nameplate for Home Entrance](https://splasharts.in/products/floral-royal-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy): Floral Royal Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-13T05:31:56Z
+  Updated: 2026-08-19T10:07:00Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-royal-nameplate-i-handcrafted-personalized-wooden-for-home-719.webp?v=1783664571
   - [Black-Copper / 12 inch](https://splasharts.in/products/floral-royal-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy?variant=48480631521437)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹2,199.00 INR
   - [Black-Copper / 15 inch](https://splasharts.in/products/floral-royal-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy?variant=48480631554205)
     Availability: Available
-    Price: ₹2,299.00 INR
+    Price: ₹2,499.00 INR
 - [Classic Lotus Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/classic-lotus-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance): Classic Lotus Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-07-10T12:13:07Z
+  Updated: 2026-08-20T15:26:47Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/classic-lotus-nameplate-i-handcrafted-personalized-wooden-for-home-159.webp?v=1783664589
   - [12 inch](https://splasharts.in/products/classic-lotus-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance?variant=48480771244189)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹2,199.00 INR
   - [15 inch](https://splasharts.in/products/classic-lotus-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance?variant=48480771276957)
     Availability: Available
-    Price: ₹2,299.00 INR
+    Price: ₹2,499.00 INR
 - [Lotus Pond Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/lotus-pond-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-1): Lotus Pond Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-13T16:19:15Z
+  Updated: 2026-08-19T10:05:08Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/lotus-pond-nameplate-i-handcrafted-personalized-wooden-for-home-354.webp?v=1783664605
   - [12 inch](https://splasharts.in/products/lotus-pond-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-1?variant=48481179205789)
     Availability: Available
-    Price: ₹1,999.00 INR
+    Price: ₹2,199.00 INR
   - [15 inch](https://splasharts.in/products/lotus-pond-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-1?variant=48481179238557)
     Availability: Available
-    Price: ₹2,399.00 INR
+    Price: ₹2,599.00 INR
 - [Tulip Elegance  Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/classic-lotus-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance): Tulip Elegance Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-07-10T12:13:07Z
+  Updated: 2026-08-26T10:11:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/tulips-elegance-nameplate-i-handcrafted-personalized-wooden-for-home-155.webp?v=1783664627
   - [12 inch](https://splasharts.in/products/classic-lotus-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance?variant=48484557521053)
     Availability: Available
-    Price: ₹1,999.00 INR
+    Price: ₹2,199.00 INR
   - [15 inch](https://splasharts.in/products/classic-lotus-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance?variant=48484557553821)
     Availability: Available
-    Price: ₹2,399.00 INR
+    Price: ₹2,599.00 INR
 - [Blooming Roses Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/blooming-roses-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance): Blooming Roses Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-07-10T12:13:07Z
+  Updated: 2026-08-23T07:25:07Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/blooming-roses-nameplate-i-handcrafted-personalized-wooden-for-home-504.webp?v=1783664644
   - [12 inch](https://splasharts.in/products/blooming-roses-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance?variant=48484744495261)
     Availability: Available
-    Price: ₹1,999.00 INR
+    Price: ₹2,199.00 INR
   - [15 inch](https://splasharts.in/products/blooming-roses-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance?variant=48484744528029)
     Availability: Available
-    Price: ₹2,399.00 INR
+    Price: ₹2,599.00 INR
 - [Blooming Roses Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/berry-floral-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-copy-copy): Blooming Roses Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-08T08:44:36Z
+  Updated: 2026-08-20T10:22:38Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/berry-floral-nameplate-i-handcrafted-personalized-wooden-for-home-676.webp?v=1783664660
   - [13 inch](https://splasharts.in/products/berry-floral-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-copy-copy?variant=48486136152221)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹2,199.00 INR
   - [15 inch](https://splasharts.in/products/berry-floral-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-copy-copy?variant=48486136184989)
     Availability: Available
-    Price: ₹2,399.00 INR
+    Price: ₹2,599.00 INR
 - [My Sweet Home Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/my-sweet-home-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy): My Sweet Home Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-07-10T12:13:07Z
+  Updated: 2026-08-19T10:07:51Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/my-sweet-home-nameplate-i-handcrafted-personalized-wooden-for-entrance-367.png?v=1783664674
-  Price: ₹2,399.00 INR
+  Price: ₹2,499.00 INR
 - [Little God Rakhi DIY Kit I Paint Your Own Rakhi Kit | SplashArts](https://splasharts.in/products/rakhi-diy-kit-paint-your-own-rakhi-kit-splasharts): DIY Rakhi Celebration Kit – Paint, Create & Celebrate! Make this Raksha Bandhan extra special with the DIY Rakhi Celebration Kit!
   Updated: 2026-07-10T12:13:08Z
   Vendor: SplashArts
@@ -3153,7 +3153,7 @@
   Updated: 2026-08-11T11:10:42Z
   Total Products: 12
 - [Fridge Magnets and Key Chain DIY Kit](https://splasharts.in/collections/fridge-magnets): SplashArts offers Splash DIY kits for fridge magnets and keychains. The collection includes animal themes, nameboards, tote painting, coasters, and photo frames.
-  Updated: 2026-08-13T11:12:30Z
+  Updated: 2026-08-25T11:10:40Z
   Total Products: 33
 - [Bookmarks Making DIY Kit](https://splasharts.in/collections/bookmarks): SplashArts offers the Butterfly Bookmark DIY Kit featuring paintable wooden bookmarks. This Splash DIY collection includes creative art and craft activities for kids.
   Updated: 2026-07-28T09:39:13Z
@@ -3162,13 +3162,13 @@
   Updated: 2026-07-28T09:39:13Z
   Total Products: 3
 - [Kids Nameboard DIY kit](https://splasharts.in/collections/diy-kids-nameboard): SplashArts offers personalized SPLASH DIY nameboard kits for kids featuring themes like Aeroplane and Aqua World alongside tote painting and fridge magnet sets.
-  Updated: 2026-08-12T11:10:39Z
+  Updated: 2026-08-27T11:10:42Z
   Total Products: 23
 - [NAMEPLATES](https://splasharts.in/collections/house-nameplates): SplashArts offers handcrafted personalized wooden nameplates for home entrances including the Royale Luxe, Elegance Edge, Love Nest, and Nanaks Grace collections.
-  Updated: 2026-08-13T11:12:30Z
+  Updated: 2026-08-26T11:10:06Z
   Total Products: 62
 - [DIY KIT](https://splasharts.in/collections/diy-kits): SplashArts offers Splash DIY kits for fridge magnets, nameboards, tote painting, coasters, and bookmarks. This collection features themed and festival gift sets.
-  Updated: 2026-08-13T11:12:30Z
+  Updated: 2026-08-27T11:10:42Z
   Total Products: 91
 - [Tote Painting DIY Kit](https://splasharts.in/collections/block-painting-diy-kit): SplashArts offers a diverse collection of Tote Painting DIY Kits and themed sets including Squid Game designs, Bird and Bee block painting, and fridge magnets.
   Updated: 2026-07-28T09:39:13Z
@@ -3186,7 +3186,7 @@
   Updated: 2026-08-09T11:09:53Z
   Total Products: 19
 - [Best Sellers DIY](https://splasharts.in/collections/best-sellers-diy): SplashArts offers best  DIY kits including fridge magnets, nameboards, tote painting, coasters, and festive rangoli designs from the Splash DIY brand.
-  Updated: 2026-08-13T11:12:30Z
+  Updated: 2026-08-25T11:10:40Z
   Total Products: 15
 - [Clock DIY Kit](https://splasharts.in/collections/clock)
   Updated: 2026-07-28T09:39:14Z
