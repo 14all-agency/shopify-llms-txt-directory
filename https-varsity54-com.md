@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-05-07T16:14:32Z
 - Contact Email: hello@varsity54.com
-- Updated At: 2026-08-21T12:01:22.421Z
+- Updated At: 2026-08-28T16:01:22.057Z
 
 Varsity54 is a premium multi-brand fashion retailer and independent designer label. The store offers a curated selection of luxury and contemporary designer apparel, accessories, and footwear — including exclusive pieces from the Varsity54 house brand alongside a vetted roster of external designer partners. The shopping experience is editorial-driven, with a focus on authenticity, curation, and premium aesthetics.
 
@@ -2814,10 +2814,10 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
 ## Collections
 
 - [Where Sport Meets Story. Africa’s Athletic Heritage, Reimagined.](https://varsity54.com/collections/athletics): Showcase your athletic pride with Varsity54’s Athletics Collection—apparel inspired by Africa's rich sports heritage. Celebrate champions and iconic sports from across the continent in style
-  Updated: 2026-07-10T11:14:28Z
+  Updated: 2026-08-25T11:08:40Z
   Total Products: 71
 - [RUGBY](https://varsity54.com/collections/rugby): Shop African rugby apparel at Varsity54. Springbok-inspired tees, hoodies &amp; shorts celebrating South Africa's rugby heritage. Officially licensed, premium cotton. Free shipping.
-  Updated: 2026-07-10T11:14:28Z
+  Updated: 2026-08-25T11:08:40Z
   Total Products: 8
 - [BASKETBALL](https://varsity54.com/collections/basketball): African basketball apparel at Varsity54. Graphic tees & tanks celebrating Africa's basketball heritage. University-style athletic streetwear. Shop now.
   Updated: 2026-04-10T11:55:14Z
@@ -2859,14 +2859,14 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-04-10T11:55:15Z
   Total Products: 0
 - [TEES + POLOS](https://varsity54.com/collections/mens-tees-polos)
-  Updated: 2026-08-20T10:45:26Z
-  Total Products: 1976
+  Updated: 2026-08-27T19:10:15Z
+  Total Products: 1975
 - [SWEATSHIRTS](https://varsity54.com/collections/mens-sweatshirt)
   Updated: 2026-06-08T07:12:46Z
   Total Products: 21
 - [SHORTS](https://varsity54.com/collections/mens-shorts)
-  Updated: 2026-08-20T12:10:48Z
-  Total Products: 752
+  Updated: 2026-08-28T14:16:09Z
+  Total Products: 746
 - [SWEATPANTS](https://varsity54.com/collections/mens-sweatpant)
   Updated: 2026-06-08T07:12:37Z
   Total Products: 7
@@ -2880,17 +2880,17 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-07-11T11:10:43Z
   Total Products: 44
 - [ACCESSORIES](https://varsity54.com/collections/mens-accessories)
-  Updated: 2026-08-20T11:46:17Z
-  Total Products: 2147
+  Updated: 2026-08-27T13:51:33Z
+  Total Products: 2145
 - [WOMENS TEES + POLOS](https://varsity54.com/collections/womens-tees-polos)
-  Updated: 2026-06-08T07:22:26Z
+  Updated: 2026-08-25T11:08:40Z
   Total Products: 28
 - [WOMENS SWEATPANT](https://varsity54.com/collections/womens-sweatpant)
   Updated: 2026-06-08T07:22:34Z
   Total Products: 4
 - [WOMEN](https://varsity54.com/collections/women)
-  Updated: 2026-08-20T12:10:50Z
-  Total Products: 6292
+  Updated: 2026-08-27T13:52:31Z
+  Total Products: 6186
 - [WOMENS SWEATSHIRT](https://varsity54.com/collections/womens-sweatshirt)
   Updated: 2026-06-08T07:22:37Z
   Total Products: 2
@@ -2925,8 +2925,8 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-08-13T11:14:53Z
   Total Products: 101
 - [HEADWEAR](https://varsity54.com/collections/headwear)
-  Updated: 2026-08-20T11:46:17Z
-  Total Products: 2107
+  Updated: 2026-08-27T13:51:33Z
+  Total Products: 2105
 - [WOMEN'S SHORTS](https://varsity54.com/collections/womens-shorts)
   Updated: 2026-08-08T21:34:12Z
   Total Products: 30
@@ -2946,8 +2946,8 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-04-10T11:55:18Z
   Total Products: 1
 - [OrderlyEmails - Recommended Products](https://varsity54.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-08-21T11:18:07Z
-  Total Products: 56919
+  Updated: 2026-08-28T15:17:09Z
+  Total Products: 56828
 - [Beach Towels](https://varsity54.com/collections/beach-towels)
   Updated: 2026-04-10T11:55:18Z
   Total Products: 1
@@ -2958,17 +2958,17 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-05-07T11:16:18Z
   Total Products: 5
 - [New In](https://varsity54.com/collections/new-in): Shop our latest drops — tees, sweatshirts, jackets, caps & more. Bold designs rooted in culture and heritage. Free shipping available.
-  Updated: 2026-08-21T11:12:24Z
-  Total Products: 2008
+  Updated: 2026-08-28T14:31:18Z
+  Total Products: 2002
 - [Collegiate Sweatshirts](https://varsity54.com/collections/collegiate-sweatshirts)
-  Updated: 2026-08-20T05:03:41Z
+  Updated: 2026-08-21T18:32:00Z
   Total Products: 180
 - [RACING](https://varsity54.com/collections/racing)
   Updated: 2026-04-13T11:13:50Z
   Total Products: 12
 - [New! Shopify performance sharing is now turned on](https://varsity54.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-08-21T11:12:24Z
-  Total Products: 77735
+  Updated: 2026-08-28T15:17:09Z
+  Total Products: 77529
 - [BRANDS](https://varsity54.com/collections/world-merch)
   Updated: 2026-08-17T21:29:41Z
   Total Products: 82
@@ -2985,7 +2985,7 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-08-07T11:11:02Z
   Total Products: 76
 - [UPSIDE](https://varsity54.com/collections/upside)
-  Updated: 2026-08-20T05:03:41Z
+  Updated: 2026-08-25T16:27:39Z
   Total Products: 230
 - [ABLISS](https://varsity54.com/collections/abliss)
   Updated: 2026-07-22T10:11:51Z
@@ -3009,8 +3009,8 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-08-06T11:08:36Z
   Total Products: 354
 - [COLLECTIVE BRANDS](https://varsity54.com/collections/collective-brands): Explore our curated collection of brands — hoodies, tees, jackets, fitted hats, shorts & accessories. From collegiate to streetwear, all in one place.
-  Updated: 2026-08-21T11:12:24Z
-  Total Products: 2145
+  Updated: 2026-08-28T11:10:28Z
+  Total Products: 2144
 - [Japanese Denim Jeans](https://varsity54.com/collections/japanese-denim-jeans)
   Updated: 2026-06-08T16:55:32Z
   Total Products: 916
@@ -3033,8 +3033,8 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-07-04T02:30:12Z
   Total Products: 1035
 - [Good & Well Supply Co.](https://varsity54.com/collections/good-well-supply-co): Our candles celebrate the beauty of the great outdoors and spark the spirit of exploration.
-  Updated: 2026-08-09T11:35:31Z
-  Total Products: 208
+  Updated: 2026-08-24T14:35:05Z
+  Total Products: 207
 - [Heights District](https://varsity54.com/collections/heights-district): Shop Heights District — handmade luxury streetwear designed and produced in Dallas, TX. Premium fabrics, limited drops. Available now on Varsity54.
   Updated: 2026-06-08T16:58:48Z
   Total Products: 223
@@ -3042,14 +3042,14 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-08-13T12:01:44Z
   Total Products: 22
 - [Love to Kleep](https://varsity54.com/collections/love-to-kleep)
-  Updated: 2026-08-09T08:57:53Z
+  Updated: 2026-08-27T19:15:40Z
   Total Products: 706
 - [THE GEOPROJECT](https://varsity54.com/collections/the-geoproject): THE GEOPROJECT — TRAVEL DESIGN STUDIO We honor the spirit of adventure through hand-crafted designs that share your stories, and inspire your next exploration.
   Updated: 2026-07-22T10:14:06Z
   Total Products: 6
 - [Luetti 1980](https://varsity54.com/collections/luetti-1980)
-  Updated: 2026-07-28T13:04:45Z
-  Total Products: 144
+  Updated: 2026-08-25T10:34:05Z
+  Total Products: 143
 - [DIALLO](https://varsity54.com/collections/diallo): Shop Diallo on Varsity54 — a lifestyle brand founded by Tyrod Taylor and Dex Robinson, blending classic American sportswear with modern athletic design. Based in the US and available to ship nationwide.
   Updated: 2026-07-15T11:10:38Z
   Total Products: 17
@@ -3060,37 +3060,37 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-07-15T08:13:51Z
   Total Products: 11
 - [Grassroots California](https://varsity54.com/collections/grassroots-california-1): Shop Grassroots California — bold fitted hats, hemp headwear & streetwear apparel. Eco-friendly designs rooted in creativity and self-expression.
-  Updated: 2026-08-09T11:35:46Z
-  Total Products: 191
+  Updated: 2026-08-24T14:33:49Z
+  Total Products: 190
 - [Footxo](https://varsity54.com/collections/footxo): Shop Footxo — Football fashion blending sport and street culture. Jerseys, tees & statement pieces designed for on and off the pitch.
-  Updated: 2026-08-21T11:12:24Z
+  Updated: 2026-08-28T11:10:28Z
   Total Products: 414
 - [Luosophy](https://varsity54.com/collections/luosophy): Shop Luosophy designer clothing, bags, and shoes from top luxury brands like Gucci, Fendi, Saint Laurent, Bottega and Prada. Authentic pieces at accessible prices.
-  Updated: 2026-08-20T12:10:50Z
-  Total Products: 5762
+  Updated: 2026-08-27T13:52:31Z
+  Total Products: 5571
 - [Shoes](https://varsity54.com/collections/shoes)
-  Updated: 2026-08-20T12:10:38Z
-  Total Products: 1911
+  Updated: 2026-08-27T13:52:24Z
+  Total Products: 1900
 - [findmenowthelabel](https://varsity54.com/collections/findmenowthelabel): Thoughtfully designed women's apparel for the woman who's always evolving. Fabrics built for character, silhouettes that adapt between life stages. From NYC, with love.
-  Updated: 2026-08-06T13:29:50Z
+  Updated: 2026-08-28T15:17:09Z
   Total Products: 33
 - [HYER GOODS](https://varsity54.com/collections/hyer-goods): Luxury Italian leather bags, wallets, and accessories made from deadstock materials. Small-batch, sustainably crafted. As seen in Vogue, Harper's Bazaar & WSJ. Free U.S. shipping over $100.
-  Updated: 2026-08-13T18:06:35Z
+  Updated: 2026-08-25T18:43:17Z
   Total Products: 21
 - [Bags & Totes](https://varsity54.com/collections/bags-totes)
-  Updated: 2026-08-20T12:10:37Z
-  Total Products: 1191
+  Updated: 2026-08-27T13:52:18Z
+  Total Products: 1170
 - [Del Toro Shoes](https://varsity54.com/collections/del-toro-shoes)
-  Updated: 2026-08-14T15:41:17Z
-  Total Products: 102
+  Updated: 2026-08-27T16:02:26Z
+  Total Products: 98
 - [Quirks!](https://varsity54.com/collections/quirks)
   Updated: 2026-08-02T10:24:13Z
   Total Products: 0
 - [HOME DECOR](https://varsity54.com/collections/home)
-  Updated: 2026-08-17T21:35:57Z
-  Total Products: 867
+  Updated: 2026-08-24T14:32:37Z
+  Total Products: 866
 - [Project Capri](https://varsity54.com/collections/project-capri)
-  Updated: 2026-07-22T18:10:29Z
+  Updated: 2026-08-24T14:33:07Z
   Total Products: 15
 - [Buki](https://varsity54.com/collections/buki)
   Updated: 2026-07-10T22:06:46Z
@@ -3105,13 +3105,13 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-08-09T20:41:40Z
   Total Products: 230
 - [Malo Kai](https://varsity54.com/collections/malo-kai): Shop Malo Kai for sustainably made swimwear and beach accessories. Ethically manufactured and built for the ocean — because style and conscience belong together.
-  Updated: 2026-06-08T17:15:35Z
+  Updated: 2026-08-24T19:34:27Z
   Total Products: 103
 - [Sun Bleached](https://varsity54.com/collections/sun-bleached): Sun Bleached is Hawaii's sustainable and ethical swimwear brand for the free-spirited. Shop bikinis and beach apparel made for wild hair, salty skin, and sun-kissed souls.
   Updated: 2026-06-08T17:15:35Z
   Total Products: 124
 - [Swimwear](https://varsity54.com/collections/swimwear): Shop sustainable and ethical swimwear from independent brands like Malo Kai and Sun Bleached. Bikinis, one-pieces, and beach apparel made to wear and feel good about.
-  Updated: 2026-06-08T17:15:42Z
+  Updated: 2026-08-24T19:34:27Z
   Total Products: 227
 - [Kids Swimwear](https://varsity54.com/collections/kids-swimwear)
   Updated: 2026-06-08T17:15:36Z
@@ -3123,8 +3123,8 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-06-08T17:15:40Z
   Total Products: 336
 - [AsiaBeautyMall](https://varsity54.com/collections/asiabeautymall)
-  Updated: 2026-08-19T00:21:24Z
-  Total Products: 607
+  Updated: 2026-08-25T17:42:56Z
+  Total Products: 604
 - [Lion Pose](https://varsity54.com/collections/lion-pose)
   Updated: 2026-08-07T10:48:29Z
   Total Products: 7
@@ -3138,11 +3138,14 @@ Varsity54 is a premium multi-brand fashion retailer and independent designer lab
   Updated: 2026-08-09T11:55:52Z
   Total Products: 11
 - [TAKEASY](https://varsity54.com/collections/takeasy)
-  Updated: 2026-08-10T11:49:46Z
+  Updated: 2026-08-22T06:40:59Z
   Total Products: 68
 - [Phenom Elite Brand](https://varsity54.com/collections/phenom-elite-brand)
-  Updated: 2026-08-20T15:07:12Z
-  Total Products: 102
+  Updated: 2026-08-28T14:31:18Z
+  Total Products: 96
+- [Banlieue91](https://varsity54.com/collections/banlieue91)
+  Updated: 2026-08-23T11:08:44Z
+  Total Products: 8424
 
 ## Blogs
 
