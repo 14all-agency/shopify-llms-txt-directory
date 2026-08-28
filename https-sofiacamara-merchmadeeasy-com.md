@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-16T19:14:07Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-21T00:00:36.358Z
+- Updated At: 2026-08-28T00:00:39.139Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [It's Complicated Hat](https://sofiacamara.merchmadeeasy.com/products/logo-hat): Sofia Camara It's Complicated two tone Hat in white/black. Snapback closure / one size fits most
-  Updated: 2026-08-06T07:56:48Z
+  Updated: 2026-08-25T16:31:58Z
   Vendor: Sofia Camara Official Store
   Product Type: Accessories
   Availability: Available
@@ -77,22 +77,22 @@
 ## Collections
 
 - [Home page](https://sofiacamara.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-19T11:23:42Z
+  Updated: 2026-08-26T11:22:35Z
   Total Products: 5
 - [Apparel](https://sofiacamara.merchmadeeasy.com/collections/apparel)
   Updated: 2026-08-19T11:23:42Z
   Total Products: 2
 - [Accessories](https://sofiacamara.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-12T11:23:50Z
+  Updated: 2026-08-26T11:22:35Z
   Total Products: 3
 - [Hats](https://sofiacamara.merchmadeeasy.com/collections/hats)
-  Updated: 2026-08-05T20:01:12Z
+  Updated: 2026-08-26T11:22:35Z
   Total Products: 1
 - [Music](https://sofiacamara.merchmadeeasy.com/collections/music)
   Updated: 2026-08-05T20:01:12Z
   Total Products: 0
 - [All](https://sofiacamara.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-19T11:23:42Z
+  Updated: 2026-08-26T11:22:35Z
   Total Products: 5
 
 ## Store Pages
