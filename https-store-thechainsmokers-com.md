@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-03-07T18:46:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-21T00:00:23.886Z
+- Updated At: 2026-08-28T00:00:34.986Z
 
 ## Products
 
@@ -123,7 +123,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Oval Tee](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-08-17T19:42:09Z
+  Updated: 2026-08-22T13:16:07Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
@@ -143,8 +143,8 @@
   - [2XL](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720471102)
     Availability: Available
     Price: $20.16 USD
-- [TCS Tote](https://store.thechainsmokers.com/products/the-chainsmokers-tcs-tote-bag): Select quantities of this item are signed and will be shipped at random. 100% Cotton canvas
-  Updated: 2026-08-17T19:42:09Z
+- [TCS Tote](https://store.thechainsmokers.com/products/the-chainsmokers-tcs-tote-bag): 100% Cotton canvas
+  Updated: 2026-08-27T16:33:15Z
   Vendor: The Chainsmokers
   Product Type: Tote Bag
   Availability: Available
@@ -417,7 +417,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Stamp Tee](https://store.thechainsmokers.com/products/stamp-tee): The Chainsmokers Stamp Tee in black with front print only.
-  Updated: 2026-08-18T01:29:21Z
+  Updated: 2026-08-21T23:40:23Z
   Vendor: The Chainsmokers Store
   Product Type: T-Shirt
   Availability: Available
@@ -426,7 +426,7 @@
     Availability: Available
     Price: $20.16 USD
   - [M](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546721569)
-    Availability: Available
+    Availability: Not Available
     Price: $20.16 USD
   - [L](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546754337)
     Availability: Not Available
@@ -437,32 +437,11 @@
   - [2XL](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546819873)
     Availability: Available
     Price: $20.16 USD
-- [Closer Anniversary White Comfort Colors Tee The Chainsmokers](https://store.thechainsmokers.com/products/closer-anniversary-tee): The Chainsmokers 10 Year Anniversary Closer Tee 100% cotton Comfort Colors tee in white with front print only. This item is a pre-order that will ship in early September.
-  Updated: 2026-08-20T13:42:27Z
-  Vendor: The Chainsmokers Store
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCSCloserTeeBlue.png?v=1786120806
-  - [S](https://store.thechainsmokers.com/products/closer-anniversary-tee?variant=53204222902561)
-    Availability: Available
-    Price: $40.00 USD
-  - [M](https://store.thechainsmokers.com/products/closer-anniversary-tee?variant=53204222935329)
-    Availability: Available
-    Price: $40.00 USD
-  - [L](https://store.thechainsmokers.com/products/closer-anniversary-tee?variant=53204222968097)
-    Availability: Available
-    Price: $40.00 USD
-  - [XL](https://store.thechainsmokers.com/products/closer-anniversary-tee?variant=53204223000865)
-    Availability: Available
-    Price: $40.00 USD
-  - [2XL](https://store.thechainsmokers.com/products/closer-anniversary-tee?variant=53204223033633)
-    Availability: Available
-    Price: $40.00 USD
 
 ## Collections
 
 - [Home page](https://store.thechainsmokers.com/collections/frontpage)
-  Updated: 2026-08-20T11:03:33Z
+  Updated: 2026-08-27T11:02:30Z
   Total Products: 61
 - [New & Featured](https://store.thechainsmokers.com/collections/new-featured)
   Updated: 2026-08-10T15:18:12Z
@@ -471,10 +450,10 @@
   Updated: 2026-08-10T15:18:12Z
   Total Products: 4
 - [APPAREL](https://store.thechainsmokers.com/collections/apparel)
-  Updated: 2026-08-20T11:03:33Z
+  Updated: 2026-08-26T19:55:23Z
   Total Products: 79
 - [ACCESSORIES](https://store.thechainsmokers.com/collections/accessories)
-  Updated: 2026-08-18T14:18:14Z
+  Updated: 2026-08-27T11:02:30Z
   Total Products: 33
 - [MUSIC](https://store.thechainsmokers.com/collections/music)
   Updated: 2026-07-08T21:52:47Z
@@ -486,10 +465,10 @@
   Updated: 2026-08-12T11:02:52Z
   Total Products: 8
 - [](https://store.thechainsmokers.com/collections/salecollection)
-  Updated: 2026-08-18T11:02:43Z
+  Updated: 2026-08-23T11:02:06Z
   Total Products: 22
 - [All](https://store.thechainsmokers.com/collections/all)
-  Updated: 2026-08-20T11:03:33Z
+  Updated: 2026-08-27T11:02:30Z
   Total Products: 136
 - [The Party Never Ends](https://store.thechainsmokers.com/collections/the-party-never-ends)
   Updated: 2026-08-18T14:18:14Z
@@ -498,10 +477,10 @@
   Updated: 2026-08-12T11:02:52Z
   Total Products: 8
 - [No Hard Feelings](https://store.thechainsmokers.com/collections/no-hard-feelings)
-  Updated: 2026-08-18T11:02:43Z
+  Updated: 2026-08-27T11:02:30Z
   Total Products: 7
 - [T-Shirts](https://store.thechainsmokers.com/collections/t-shirts)
-  Updated: 2026-08-20T11:03:33Z
+  Updated: 2026-08-26T19:55:23Z
   Total Products: 48
 - [Outerwear](https://store.thechainsmokers.com/collections/outerwear)
   Updated: 2026-08-18T11:02:43Z
@@ -513,7 +492,7 @@
   Updated: 2026-08-11T17:14:50Z
   Total Products: 4
 - [Echo Collection](https://store.thechainsmokers.com/collections/echo-collection)
-  Updated: 2026-08-18T11:02:43Z
+  Updated: 2026-08-22T11:02:28Z
   Total Products: 3
 
 ## Store Pages
