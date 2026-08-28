@@ -10,7 +10,7 @@
 - Contact Email: care@nubokind.com
 - Contact Phone: +919403892248
 - Address: B-838 G.F Back Portion Right Green Field Colony, Nhpc Colony, Faridabad, Haryana 121010, India
-- Updated At: 2026-08-07T00:00:28.200Z
+- Updated At: 2026-08-28T00:00:28.681Z
 
 ## About us
   Nubokind (also known as nubo) was founded in May 2025 by Aditya Chopra (LinkedIn:
@@ -38,7 +38,7 @@
 ## Products
 
 - [Ele Ring Silicone Teether for Babies | Pack of 2](https://nubokind.com/products/ele-ring-teether-set-green-and-blue): Ele Ring Silcione teether is made from 100% food-grade, BPA-free and BIS  for Indian babies aged 3–12 months. Pack of 2, safe to chew and sterilise.
-  Updated: 2026-08-06T19:45:11Z
+  Updated: 2026-08-27T17:54:17Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
@@ -66,13 +66,13 @@
   - [sage green & slate grey](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=43755867897971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/2_17380a48-64d2-40eb-9c98-19ee7592c018.png?v=1777510506
-    Price: ₹599.00 INR
+    Price: ₹499.00 INR
   - [sage green & oat beige](https://nubokind.com/products/ele-ring-teether-set-green-and-blue?variant=44413558587507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/5_ab296e40-9242-4d7f-81a3-130bd79a626a.png?v=1777510506
     Price: ₹599.00 INR
 - [Kiko No-Drop Silicone Teether | BPA-Free | BIS ](https://nubokind.com/products/kiko-no-drop-newborn-teether): Nubokind Kiko No-Drop Silicone Teether features a unique anti-drop design that keeps the teether with your baby at all times no more floor pickups.
-  Updated: 2026-08-06T19:42:09Z
+  Updated: 2026-08-27T20:01:27Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
@@ -83,42 +83,41 @@
     Price: ₹649.00 INR
   - [cloud white](https://nubokind.com/products/kiko-no-drop-newborn-teether?variant=43747723280499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/kiko_teether_white.jpg?v=1775462377
+    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/kiko_white_teether_e19bf1d9-6267-4e6d-ac86-713fd966eb70.jpg?v=1787453705
     Price: ₹549.00 INR
   - [light blue](https://nubokind.com/products/kiko-no-drop-newborn-teether?variant=45116043001971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/kiko_teether_blue_88f2d419-f511-4a7c-ac62-e34e33c0f402.png?v=1781902025
     Price: ₹649.00 INR
 - [Infant Cloth Book | High Contrast Books Pack of 3](https://nubokind.com/products/high-contrast-cloth-book-set): Infant cloth book set with newborn high-contrast images. Pack of 3, BIS-, crinkle pages, baby mirror. Safe from birth. Free shipping India.
-  Updated: 2026-08-06T19:13:15Z
+  Updated: 2026-08-27T18:06:30Z
   Vendor: Nubokind
   Product Type: Baby Toys > Cloth Books > High Contrast Cloth Books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/cloth-book-1.webp?v=1784885045
   Price: ₹549.00 INR
 - [Newborn Gift Set | Montessori Kit | Tummy Time](https://nubokind.com/products/high-contrast-newborn-essential-kit): BIS- newborn gift set - Montessori flashcards, cloth book and tummy time banner. 3 tools, gift-ready packaging. Free shipping India.
-  Updated: 2026-08-06T19:13:15Z
+  Updated: 2026-08-27T21:38:18Z
   Vendor: Nubokind
   Product Type: high contrat flashcards, tummy time toy, newborn gift
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/Sensory_Kit.png?v=1777924753
   Price: ₹449.00 INR
 - [High Contrast Flashcards for Newborn | Tummy Time](https://nubokind.com/products/high-contrast-flashcards-tummy-time-banner): BIS- high contrast flashcards for newborns with self-standing tummy time banner. 10 double-sided cards. Safe from birth. Free shipping India.
-  Updated: 2026-08-06T19:13:10Z
+  Updated: 2026-08-27T18:36:23Z
   Vendor: Nubokind
   Product Type: high contrast flashcards, tummy time toy, newborn gift
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/1.webp?v=1779033600
   Price: ₹299.00 INR
 - [Orbi Ball Silicone Sensory Teether | BIS  Baby Toy](https://nubokind.com/products/orbi-ball-silicone-sensory-teether): Orbi Ball is a BIS-, 100% food-grade silicone ball teether and sensory toy for babies aged 3–12 months. BPA-free, no plastic, open-lattice design.
-  Updated: 2026-08-06T19:42:08Z
+  Updated: 2026-08-27T20:01:29Z
   Vendor: Nubokind
   Product Type: dental, teething, toy
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/1_72ca8ae6-fb10-42e1-80b7-afc1ef486e0a.webp?v=1785438869
+  Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/orbi_teether_white_bg.png?v=1787039411
   - [navy blue](https://nubokind.com/products/orbi-ball-silicone-sensory-teether?variant=45124539514995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0618/9944/0243/files/1_72ca8ae6-fb10-42e1-80b7-afc1ef486e0a.webp?v=1785438869
     Price: ₹599.00 INR
   - [mustard yellow](https://nubokind.com/products/orbi-ball-silicone-sensory-teether?variant=45124539547763)
     Availability: Available
@@ -128,8 +127,8 @@
 ## Collections
 
 - [Newborn Essentials](https://nubokind.com/collections/newborn-essentials): Shop BIS  infant teethers, Montessori newborn kits & high contrast books for babies 0-12 months. Made in India. Free shipping. Shop now!
-  Updated: 2026-08-06T11:19:22Z
-  Total Products: 5
+  Updated: 2026-08-27T11:22:50Z
+  Total Products: 8
 
 ## Blogs
 
@@ -176,9 +175,6 @@
   - [Why BIS Certification Matters for Baby Teethers](https://nubokind.com/blogs/early-learning-sensory-development/why-bis-certification-matters): Why BIS Certification Matters for Baby Teethers
     Updated: 2026-07-03T10:18:56Z
     Author: nubo Baby
-  - [what makes a great newborn teether? It’s not just silicone](https://nubokind.com/blogs/early-learning-sensory-development/what-makes-a-great-teether): what makes a great newborn teether? It’s not just silicone
-    Updated: 2025-12-31T02:47:11Z
-    Author: nubo Baby
   - [why silicone is the safest choice for a newborn teether](https://nubokind.com/blogs/early-learning-sensory-development/why-silicone-is-the-safest-choice-for-a-newborn-teether): why silicone is the safest choice for a newborn teether
     Updated: 2025-12-31T02:47:12Z
     Author: nubo Baby
@@ -222,8 +218,8 @@
   - [Why Silicone Is the Gold Standard for Safe Baby Products](https://nubokind.com/blogs/early-learning-sensory-development/why-silicone-is-the-gold-standard-for-safe-baby-products): Why Silicone Is the Gold Standard for Safe Baby Products
     Updated: 2026-06-04T12:24:06Z
     Author: Nubokind Experts
-  - [Best Baby Teethers in India 2026: Top 5 BIS- Picks](https://nubokind.com/blogs/early-learning-sensory-development/top-5-safe-and-functional-baby-teethers-in-india-2025-list): Best Baby Teethers in India 2026: Top 5 BIS- Picks
-    Updated: 2026-07-30T12:37:21Z
+  - [Best Baby Teethers in India 2026: Which Are BIS ?](https://nubokind.com/blogs/early-learning-sensory-development/top-5-safe-and-functional-baby-teethers-in-india-2025-list): Best Baby Teethers in India 2026: Which Are BIS ?
+    Updated: 2026-08-27T20:55:46Z
     Author: Nubokind Experts
     Tags: baby teether, baby teethers India, best baby teethers, kiko no drop teether, safe baby products, teething baby, teething relief
   - [What Parents Often Miss About Baby Teething Safety (India)](https://nubokind.com/blogs/early-learning-sensory-development/what-parents-often-miss-about-teething-safety): What Parents Often Miss About Baby Teething Safety (India)
@@ -330,7 +326,7 @@
     Updated: 2026-06-02T14:27:47Z
     Author: Nubokind Experts
   - [What to Gift a Newborn Baby in India (2026): Real Picks](https://nubokind.com/blogs/early-learning-sensory-development/what-to-gift-newborn-baby-india): What to Gift a Newborn Baby in India (2026): Real Picks
-    Updated: 2026-07-30T19:35:16Z
+    Updated: 2026-08-27T20:42:06Z
     Author: Nubokind Experts
   - [Best Teether Brands in India 2026:  Nubokind vs Munchkin vs Nuby](https://nubokind.com/blogs/early-learning-sensory-development/best-teether-brands-india-2026): Best Teether Brands in India 2026:  Nubokind vs Munchkin vs Nuby
     Updated: 2026-06-02T14:27:50Z
@@ -363,7 +359,7 @@
     Author: Nubokind Experts
     Tags: cloth books
   - [Top 5 Tummy Time Activities for 0–3 Month Babies (India Guide)](https://nubokind.com/blogs/early-learning-sensory-development/top-5-tummy-time-activities-0-3-months-india): Top 5 Tummy Time Activities for 0–3 Month Babies (India Guide)
-    Updated: 2026-06-04T12:17:53Z
+    Updated: 2026-08-07T18:37:14Z
     Author: Nubokind Experts
     Tags: cloth books
   - [Best Tummy Time Toys for 0 to 6 Months India (2026)](https://nubokind.com/blogs/early-learning-sensory-development/best-tummy-time-toys-newborns-india-2026): Best Tummy Time Toys for 0 to 6 Months India (2026)
@@ -391,7 +387,7 @@
     Author: Nubokind Experts
     Tags: montessori, montessori kit
   - [High Contrast Flashcards for Newborns: Month-by-Month Guide](https://nubokind.com/blogs/early-learning-sensory-development/how-to-use-high-contrast-flashcards-with-your-newborn-a-stage-by-stage-guide-0-6-months): High Contrast Flashcards for Newborns: Month-by-Month Guide
-    Updated: 2026-07-31T04:55:51Z
+    Updated: 2026-08-07T11:43:55Z
     Author: Nubokind Experts
     Tags: flashcards, montessori kit
   - [Sensory Play vs Sensory Overload: How to Calm a Fussy Baby](https://nubokind.com/blogs/early-learning-sensory-development/sensory-play-or-sensory-overload-how-to-use-textures-to-calm-a-fussy-baby): Sensory Play vs Sensory Overload: How to Calm a Fussy Baby
@@ -570,6 +566,38 @@
     Tags: cloth books
   - [How to Choose the Right Teether for Kids | Nubokind Guide](https://nubokind.com/blogs/early-learning-sensory-development/how-to-choose-the-right-teether-for-kids-nubokind-guide): <p>Your baby won't stop gnawing on their fist, and you're not sure if a teether will help—or if it's even safe. Here's what every Indian parent should know about choosing a teether that's both effective and trustworthy.</p>
     Updated: 2026-08-06T19:36:15Z
+    Author: Nubokind Experts
+    Tags: kiko no drop teether
+  - [Newborn High Contrast Images: How They Support Early Visual Development](https://nubokind.com/blogs/early-learning-sensory-development/newborn-high-contrast-images-how-they-support-early-visual-development): <p>Newborns see black-and-white patterns better than colors. Learn why high contrast images support early visual development, motor skills, and brain growth—and how to use them during tummy time and play.</p>
+    Updated: 2026-08-12T13:42:10Z
+    Author: Nubokind Experts
+    Tags: cloth books
+  - [Tummy Time for Newborns: Simple Ways to Make It Easier | Nubokind](https://nubokind.com/blogs/early-learning-sensory-development/tummy-time-for-newborns-simple-ways-to-make-it-easier-nubokind): <p>Your newborn cries during tummy time, and you're convinced it's pointless. It's not—and it doesn't have to be stressful. Here's how to build a tummy time routine that works, plus which toys actually keep newborns engaged.</p>
+    Updated: 2026-08-12T13:42:11Z
+    Author: Nubokind Experts
+    Tags: kiko no drop teether
+  - [Best Baby Shower Gifts Parents Use Daily | Nubokind](https://nubokind.com/blogs/early-learning-sensory-development/best-baby-shower-gifts-parents-use-daily-nubokind): Best Baby Shower Gifts Parents Use Daily | Nubokind
+    Updated: 2026-08-12T13:42:13Z
+    Author: Nubokind Experts
+    Tags: montessori kit
+  - [Best Teether for Baby in India: Safe First Teether Guide](https://nubokind.com/blogs/early-learning-sensory-development/best-teether-for-baby-in-india-safe-first-teether-guide): <p>Finding the right teether for your baby doesn't have to be stressful. Learn when to introduce a newborn teether, what safety features matter most, and which silicone options parents in India trust most.</p>
+    Updated: 2026-08-23T02:53:11Z
+    Author: Nubokind Experts
+    Tags: kiko no drop teether
+  - [Teether for Kids: Safe Teething Guide at Every Stage](https://nubokind.com/blogs/early-learning-sensory-development/teether-for-kids-safe-teething-guide-at-every-stage): <p>Teething doesn't have to be a guessing game. This guide walks you through choosing the right teether for your baby at every stage—from newborn soft designs to firmer sensory options. Includes safety tips, material breakdown, and why parents trust silicone teethers.</p>
+    Updated: 2026-08-23T02:53:12Z
+    Author: Nubokind Experts
+    Tags: ele ring teether set
+  - [Baby Teether Guide: Safe Choices for Infant Teething Relief](https://nubokind.com/blogs/early-learning-sensory-development/baby-teether-guide-safe-choices-for-infant-teething-relief): <p>Teething is uncomfortable for your baby—and stressful for you. Our guide breaks down exactly what makes a safe, soothing teether and shows you how to pick the right one for your baby's age and needs. Includes expert tips on silicone safety, cleaning, and developmental benefits.</p>
+    Updated: 2026-08-23T02:53:14Z
+    Author: Nubokind Experts
+    Tags: kiko no drop teether
+  - [Teethers for Babies: Types, Materials & How to Choose](https://nubokind.com/blogs/early-learning-sensory-development/teethers-for-babies-types-materials-how-to-choose): <p>Teething starts around 3–6 months, and the right teether makes all the difference. Discover which materials are safest, how to choose based on your baby's age, and expert tips for keeping teethers clean and effective.</p>
+    Updated: 2026-08-23T02:53:16Z
+    Author: Nubokind Experts
+    Tags: kiko no drop teether
+  - [Silicone Teether for Baby: Safety, Design & What to Look For](https://nubokind.com/blogs/early-learning-sensory-development/silicone-teether-for-baby-safety-design-what-to-look-for): Silicone Teether for Baby: Safety, Design & What to Look For
+    Updated: 2026-08-23T02:53:17Z
     Author: Nubokind Experts
     Tags: kiko no drop teether
 
