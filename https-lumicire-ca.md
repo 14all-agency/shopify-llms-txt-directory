@@ -6,33 +6,33 @@
 - Timezone: America/Toronto
 - Created At: 2026-06-10T19:18:29Z
 - Contact Email: lumicirebougie@gmail.com
-- Updated At: 2026-08-18T00:00:30.316Z
+- Updated At: 2026-08-28T00:00:37.995Z
 
 ## Products
 
 - [Bougie parfumée aux agrumes Cœur d'agrume](https://lumicire.ca/products/mandarine): Découvrez la bougie parfumée aux agrumes Cœur d'agrume : une fragrance fraîche, lumineuse et élégante pour parfumer votre intérieur.
-  Updated: 2026-08-11T21:07:07Z
+  Updated: 2026-08-24T21:10:26Z
   Vendor: Lumicire
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0755/2951/9258/files/IMG-5292.png?v=1784058365
   Price: 24,99 $ CAD
 - [Chandelle lavande artisanale apaisante et élégante](https://lumicire.ca/products/lavande): Découvrez notre chandelle lavande artisanale : une bougie élégante, parfumée et apaisante, idéale pour créer une ambiance douce et raffinée.
-  Updated: 2026-08-13T01:21:06Z
+  Updated: 2026-08-24T21:10:26Z
   Vendor: Lumicire
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0755/2951/9258/files/IMG-5291.png?v=1784058377
   Price: 24,99 $ CAD
 - [Bougie mûre vanille parfumée et élégante](https://lumicire.ca/products/mure-vanille): Découvrez la bougie mûre vanille, une senteur douce et fruitée qui crée une ambiance chaleureuse, raffinée et apaisante dans votre intérieur.
-  Updated: 2026-08-06T20:06:37Z
+  Updated: 2026-08-24T21:10:26Z
   Vendor: Lumicire
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0755/2951/9258/files/IMG-5293.png?v=1784058391
   Price: 24,99 $ CAD
 - [Bougie parfumée boisée Bois de Teck élégante](https://lumicire.ca/products/teakwood): Découvrez Bois de Teck, une bougie parfumée boisée au parfum raffiné, chaleureux et durable, idéale pour créer une ambiance apaisante.
-  Updated: 2026-08-04T05:25:32Z
+  Updated: 2026-08-25T00:57:37Z
   Vendor: Lumicire
   Product Type: 
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0755/2951/9258/files/IMG-5297.png?v=1784058413
   Price: 24,99 $ CAD
 - [Bougie senteur marine Bord de mer apaisante](https://lumicire.ca/products/bord-de-mer): Découvrez Bord de mer, une bougie senteur marine raffinée qui apporte fraîcheur, détente et ambiance côtière à votre intérieur.
-  Updated: 2026-08-11T19:40:10Z
+  Updated: 2026-08-24T21:10:26Z
   Vendor: Lumicire
   Product Type: 
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0755/2951/9258/files/eco-tote-bag-oyster-back-6a373c556beb5.jpg?v=1784059179
   Price: 35,00 $ CAD
 - [Bougie ancienne | Décoration vintage authentique](https://lumicire.ca/products/sans-titre-23juil-_16-49-53): Découvrez cette bougie ancienne au style vintage et classique. Idéale pour décorer ou collectionner. Ajoutez une touche authentique dès maintenant.
-  Updated: 2026-08-17T20:28:36Z
+  Updated: 2026-08-24T21:11:31Z
   Vendor: Lumicire
   Product Type: 
   Availability: Available
@@ -89,7 +89,7 @@
     Availability: Available
     Price: 15,99 $ CAD
   - [Chai latte caramel](https://lumicire.ca/products/sans-titre-23juil-_16-49-53?variant=48806872023194)
-    Availability: Available
+    Availability: Not Available
     Price: 15,99 $ CAD
   - [Tombée de neige](https://lumicire.ca/products/sans-titre-23juil-_16-49-53?variant=48806883721370)
     Availability: Available
@@ -110,7 +110,7 @@
   Updated: 2026-07-31T11:17:57Z
   Total Products: 2
 - [Bougie intemporelle](https://lumicire.ca/collections/bougie-intemporelle)
-  Updated: 2026-08-10T11:18:04Z
+  Updated: 2026-08-25T11:18:05Z
   Total Products: 6
 
 ## Blogs
@@ -170,6 +170,18 @@
     Author: Lumicire
   - [Les bienfaits insoupçonnés des bougies pour la méditation et le yoga](https://lumicire.ca/blogs/actualites/les-bienfaits-insoupconnes-des-bougies-pour-la-meditation-et-le-yoga): Les bienfaits insoupçonnés des bougies pour la méditation et le yoga
     Updated: 2026-08-17T12:08:50Z
+    Author: Lumicire
+  - [L'évolution des techniques de fabrication des bougies à travers le temps](https://lumicire.ca/blogs/actualites/levolution-des-techniques-de-fabrication-des-bougies-a-travers-le-temps): L'évolution des techniques de fabrication des bougies à travers le temps
+    Updated: 2026-08-20T12:02:08Z
+    Author: Lumicire
+  - [Conseils pour utiliser les bougies sans danger dans votre intérieur](https://lumicire.ca/blogs/actualites/conseils-pour-utiliser-les-bougies-sans-danger-dans-votre-interieur): Conseils pour utiliser les bougies sans danger dans votre intérieur
+    Updated: 2026-08-23T12:01:23Z
+    Author: Lumicire
+  - [Guide complet pour organiser une soirée thématique autour des bougies](https://lumicire.ca/blogs/actualites/guide-complet-pour-organiser-une-soiree-thematique-autour-des-bougies): Guide complet pour organiser une soirée thématique autour des bougies
+    Updated: 2026-08-24T12:09:44Z
+    Author: Lumicire
+  - [Pourquoi les couleurs et les arômes des bougies influencent votre humeur](https://lumicire.ca/blogs/actualites/pourquoi-les-couleurs-et-les-aromes-des-bougies-influencent-votre-humeur): Pourquoi les couleurs et les arômes des bougies influencent votre humeur
+    Updated: 2026-08-27T12:02:26Z
     Author: Lumicire
 
 ## Store Pages
