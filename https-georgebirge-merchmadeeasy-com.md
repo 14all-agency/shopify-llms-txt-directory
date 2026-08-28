@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-31T19:06:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-13T00:00:34.715Z
+- Updated At: 2026-08-28T00:00:41.248Z
 
 ## Products
 
-- [Stone Armadillo Tee](https://georgebirge.merchmadeeasy.com/products/stone-armadillo-tee): Armadillo Tee in Stone 100% ring spun cotton SIZE CHART Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-17T06:21:15Z
+- [Stone Armadillo Tee](https://georgebirge.merchmadeeasy.com/products/stone-armadillo-tee): Armadillo Tee in Stone 100% ring spun cotton gildan tee SIZE CHART Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
+  Updated: 2026-08-14T09:13:40Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -31,8 +31,8 @@
   - [2X](https://georgebirge.merchmadeeasy.com/products/stone-armadillo-tee?variant=42120973025345)
     Availability: Available
     Price: $35.00 USD
-- [It Ain't Austin Tee](https://georgebirge.merchmadeeasy.com/products/aint-it-austin-tee): It Ain't Austin tee Unisex tee in Charcoal 100% ring-spun cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-07-31T18:42:31Z
+- [It Ain't Austin Tee](https://georgebirge.merchmadeeasy.com/products/aint-it-austin-tee): It Ain't Austin tee Unisex tee in Charcoal 100% ring-spun cotton comfort colors tee SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
+  Updated: 2026-08-14T09:14:44Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -52,8 +52,8 @@
   - [2X](https://georgebirge.merchmadeeasy.com/products/aint-it-austin-tee?variant=42120973353025)
     Availability: Available
     Price: $30.00 USD
-- [Longhorn Tee](https://georgebirge.merchmadeeasy.com/products/longhorn-tee): Longhorn Tee Unisex tee in Natural 100% ring-spun cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-08-05T19:15:27Z
+- [Longhorn Tee](https://georgebirge.merchmadeeasy.com/products/longhorn-tee): Longhorn Tee Unisex tee in Natural 100% ring-spun cotton comfort colors SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
+  Updated: 2026-08-15T00:13:38Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -73,12 +73,12 @@
   - [2X-Large](https://georgebirge.merchmadeeasy.com/products/longhorn-tee?variant=42160769204289)
     Availability: Available
     Price: $35.00 USD
-- [Horseshoe Tour Tee](https://georgebirge.merchmadeeasy.com/products/horseshoe-tour-tee): Cowboy Songs graphic on the front 2025 Tour dates on the back 100% cotton tee in color Brown Savana SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-18T00:31:06Z
+- [Horseshoe Tour Tee](https://georgebirge.merchmadeeasy.com/products/horseshoe-tour-tee): Cowboy Songs graphic on the front 2025 Tour dates on the back 100% cotton tee in Brown gildan SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
+  Updated: 2026-08-15T00:13:41Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBTourTee.png?v=1748369960
+  Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBTourTee_2.png?v=1748369960
   - [S](https://georgebirge.merchmadeeasy.com/products/horseshoe-tour-tee?variant=42199152558145)
     Availability: Available
     Price: $35.00 USD
@@ -95,35 +95,35 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Cowboy Songs Hat | Official George Birge Merch](https://georgebirge.merchmadeeasy.com/products/cowboy-songs-hat): Only dances to cowboy songs Red puff embroidery on the front Embroidered logo on the side Mid profile baseball hat in Red/Natural
-  Updated: 2026-08-05T19:14:17Z
+  Updated: 2026-08-22T22:08:17Z
   Vendor: George Birge
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBCowboySongsHat.png?v=1748370054
   Price: $40.00 USD
 - [Longhorn Tallboy Koozie](https://georgebirge.merchmadeeasy.com/products/damn-right-i-do-koozie): Damn Right I Do Longhorn graphic on one side George Birge graphic on the other Made for tallboy cans
-  Updated: 2026-07-31T18:42:31Z
+  Updated: 2026-08-13T21:18:16Z
   Vendor: George Birge
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBKoozie2.png?v=1748898464
   Price: $10.00 USD
 - [Roper Hat](https://georgebirge.merchmadeeasy.com/products/roper-hat): Mid profile baseball hat in Khaki/Green Cream embroidery on the front, back, and side
-  Updated: 2026-07-17T12:38:25Z
+  Updated: 2026-08-13T21:19:26Z
   Vendor: George Birge
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBRoperHat.png?v=1749590820
   Price: $40.00 USD
 - [TX Longhorn Koozie](https://georgebirge.merchmadeeasy.com/products/tx-longhorn-koozie): Longhorn graphic on one side George Birge graphic on the other Made for tallboy cans
-  Updated: 2026-06-17T02:51:19Z
+  Updated: 2026-08-13T21:22:01Z
   Vendor: George Birge
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBKoozie_ab62a2f9-b9d6-4d86-89d7-2ce0a88cf390.png?v=1750090669
   Price: $10.00 USD
 - [Cowboy Songs Baby Tee | Official George Birge Merch Store](https://georgebirge.merchmadeeasy.com/products/cowboy-songs-baby-tee): Only dances to cowboy songs on a LA Apparel women's baby style tee in white Mid-length cropped fit Cowboy Songs lyrics on the front George Birge logo on the back neck
-  Updated: 2026-07-24T23:00:37Z
+  Updated: 2026-08-13T21:27:36Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -143,12 +143,12 @@
   - [2X](https://georgebirge.merchmadeeasy.com/products/cowboy-songs-baby-tee?variant=42335328075841)
     Availability: Available
     Price: $35.00 USD
-- [George Birge Photo Tee | Official George Birge Merch Store](https://georgebirge.merchmadeeasy.com/products/country-club-tee): George Birge photo on the front Unisex tee in Black 100% ring-spun cotton
-  Updated: 2026-07-18T09:12:13Z
+- [Country Club Tee | Official George Birge Merch Store](https://georgebirge.merchmadeeasy.com/products/country-club-tee): Birge's Country Club golfer graphic on the front chest Horseback riding on golf course graphic on the back Unisex tee in Black 100% ring-spun cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
+  Updated: 2026-08-13T21:29:16Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GB-Country-Club-Tee_ea6bacba-daab-4ac1-bf90-b1c998871e5a.png?v=1754667630
+  Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/164552_2_304096_d_caa9d5bb-57f5-49f8-b0ce-bcb05f4f57a1.png?v=1754667630
   - [Small](https://georgebirge.merchmadeeasy.com/products/country-club-tee?variant=42356995031105)
     Availability: Available
     Price: $35.00 USD
@@ -164,8 +164,8 @@
   - [2X-Large](https://georgebirge.merchmadeeasy.com/products/country-club-tee?variant=42356995162177)
     Availability: Available
     Price: $35.00 USD
-- [Longhorn Crewneck](https://georgebirge.merchmadeeasy.com/products/longhorn-crewneck): Longhorn graphic with Cowboy Songs on the front Unisex sweatshirt in Sand 80% cotton, 20% polyester 8.4 oz. SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 20 M 29 22 L 30 24 XL 31 26 2XL 32 27
-  Updated: 2026-08-08T13:46:48Z
+- [Longhorn Crewneck](https://georgebirge.merchmadeeasy.com/products/longhorn-crewneck): Longhorn graphic with Cowboy Songs on the front Unisex sweatshirt in Sand 80% cotton, 20% polyester SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 20 M 29 22 L 30 24 XL 31 26 2XL 32 27
+  Updated: 2026-08-24T17:27:17Z
   Vendor: George Birge
   Product Type: Sweatshirt
   Availability: Available
@@ -186,7 +186,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Cowboy Songs Tour Tee](https://georgebirge.merchmadeeasy.com/products/cowboy-songs-tour-tee): Cowboy Songs graphic on the front 2026 tour dates on the back 100% cotton tee in color Natural SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-29T18:46:45Z
+  Updated: 2026-08-21T00:45:17Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -207,14 +207,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Saddle Up Hat](https://georgebirge.merchmadeeasy.com/products/saddle-up-hat): Mid profile baseball hat in Ivory / Realtree Camo Embroidery on the front and side
-  Updated: 2026-07-15T11:03:31Z
+  Updated: 2026-08-14T09:32:33Z
   Vendor: George Birge
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0647/3537/9521/files/GBSaddleUpHat.png?v=1768236303
   Price: $35.00 USD
 - [Longhorn Skull Tee](https://georgebirge.merchmadeeasy.com/products/longhorn-skull-tee): Vintage-style graphic of a longhorn skull with 'GEORGE BIRGE' in blue letters and 'AUSTIN TEXAS 1987' on the front 100% cotton tee in Charcoal Unisex
-  Updated: 2026-08-10T17:43:47Z
+  Updated: 2026-08-13T21:32:51Z
   Vendor: George Birge
   Product Type: T-Shirt
   Availability: Available
@@ -238,22 +238,22 @@
 ## Collections
 
 - [New Arrivals](https://georgebirge.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-10T15:39:03Z
+  Updated: 2026-08-25T11:14:48Z
   Total Products: 15
 - [All](https://georgebirge.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-11T11:14:50Z
+  Updated: 2026-08-25T11:14:48Z
   Total Products: 17
 - [Apparel](https://georgebirge.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-11T11:14:50Z
+  Updated: 2026-08-25T11:14:48Z
   Total Products: 11
 - [Music](https://georgebirge.merchmadeeasy.com/collections/music)
   Updated: 2026-05-26T16:58:26Z
   Total Products: 0
 - [Accessories](https://georgebirge.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-06T11:15:41Z
+  Updated: 2026-08-23T11:14:26Z
   Total Products: 6
 - [2026 Tour Merch](https://georgebirge.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-08-11T11:14:50Z
+  Updated: 2026-08-25T11:14:48Z
   Total Products: 7
 
 ## Store Pages
