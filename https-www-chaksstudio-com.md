@@ -6,138 +6,210 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-02T16:18:26Z
 - Contact Email: info@chaksstudio.com
-- Updated At: 2026-08-20T00:00:40.355Z
+- Updated At: 2026-08-29T00:00:42.070Z
 
 ## Products
 
 - [Manchitra Black Kantha Shirt – Handcrafted Embroidered Shirt | CHAKS](https://www.chaksstudio.com/products/manchitra-black-shirt-mens): A classic black cotton shirt with intricate white color Kantha hand stitches. Crafted in Bengal, merging heritage craftsmanship with everyday ease.
-  Updated: 2026-07-19T09:49:37Z
+  Updated: 2026-08-22T13:37:59Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/Black_Kantha-stitched_cotton_shirt.jpg?v=1755159758
   - [XS](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=46543599337610)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
   - [S](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=46543599370378)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
   - [M](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=46543599403146)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
   - [L](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=46543599435914)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
   - [XL](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=46543599468682)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
+  - [2XL](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=50074819821706)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [3XL](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=50074819854474)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [4XL](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=50074819887242)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [5XL](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=50074819920010)
+    Availability: Available
+    Price: ₹3,500.00 INR
 - [Chhaya Black Kantha Shirt – Kantha Embroidered Shirt | CHAKS](https://www.chaksstudio.com/products/chhaya-black-shirt-mens): A black Kantha-stitched cotton shirt with subtle contrast detailing. Handcrafted in Bengal, designed for comfort and timeless appeal.
-  Updated: 2026-07-19T09:49:24Z
+  Updated: 2026-08-22T13:36:49Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/1_2103c423-aa5c-43b5-bdcc-78931bdc3280.jpg?v=1783779917
   - [XS](https://www.chaksstudio.com/products/chhaya-black-shirt-mens?variant=46547574423690)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
   - [S](https://www.chaksstudio.com/products/chhaya-black-shirt-mens?variant=46547574456458)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
   - [M](https://www.chaksstudio.com/products/chhaya-black-shirt-mens?variant=46547574489226)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
   - [L](https://www.chaksstudio.com/products/chhaya-black-shirt-mens?variant=46547574521994)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
   - [XL](https://www.chaksstudio.com/products/chhaya-black-shirt-mens?variant=46547574554762)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
+  - [2XL](https://www.chaksstudio.com/products/chhaya-black-shirt-mens?variant=50074819690634)
+    Availability: Available
+    Price: ₹2,999.00 INR
+  - [3XL](https://www.chaksstudio.com/products/chhaya-black-shirt-mens?variant=50074819723402)
+    Availability: Available
+    Price: ₹2,999.00 INR
+  - [4XL](https://www.chaksstudio.com/products/chhaya-black-shirt-mens?variant=50074819756170)
+    Availability: Available
+    Price: ₹2,999.00 INR
+  - [5XL](https://www.chaksstudio.com/products/chhaya-black-shirt-mens?variant=50074819788938)
+    Availability: Available
+    Price: ₹2,999.00 INR
 - [NOOR WHITE SHIRT - MENS](https://www.chaksstudio.com/products/noor-white-shirt-mens): A crisp white cotton shirt with hand-done Kantha stitches. Handmade in Bengal, perfect for understated elegance and everyday wear.
-  Updated: 2026-07-19T09:49:09Z
+  Updated: 2026-08-22T13:35:47Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/Noor_white_Kantha-stitched_cotton_linen_shirt_men_s_relaxed_fit.jpg?v=1755159799
   - [XS](https://www.chaksstudio.com/products/noor-white-shirt-mens?variant=46544029057162)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
   - [S](https://www.chaksstudio.com/products/noor-white-shirt-mens?variant=46544029089930)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
   - [M](https://www.chaksstudio.com/products/noor-white-shirt-mens?variant=46544029122698)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
   - [L](https://www.chaksstudio.com/products/noor-white-shirt-mens?variant=46544029155466)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
   - [XL](https://www.chaksstudio.com/products/noor-white-shirt-mens?variant=46544029188234)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
+  - [2XL](https://www.chaksstudio.com/products/noor-white-shirt-mens?variant=50074816512138)
+    Availability: Available
+    Price: ₹2,650.00 INR
+  - [3XL](https://www.chaksstudio.com/products/noor-white-shirt-mens?variant=50074816544906)
+    Availability: Available
+    Price: ₹2,650.00 INR
+  - [4XL](https://www.chaksstudio.com/products/noor-white-shirt-mens?variant=50074816577674)
+    Availability: Available
+    Price: ₹2,650.00 INR
+  - [5XL](https://www.chaksstudio.com/products/noor-white-shirt-mens?variant=50074816610442)
+    Availability: Available
+    Price: ₹2,650.00 INR
 - [Manchitra Black – Kantha-stitched Handmade Cotton Shirt | CHAKS](https://www.chaksstudio.com/products/manchitra-black-shirt-women): Classic black cotton Kantha shirt with intricate white hand-stitching. Handmade in Bengal, blending heritage craftsmanship with modern comfort.
-  Updated: 2026-08-10T15:33:06Z
+  Updated: 2026-08-22T13:34:36Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/1_0612e99d-098c-40aa-8cc7-87a4a35c7351.jpg?v=1783780358
   - [XS](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=46544167305354)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
   - [S](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=46544167338122)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
   - [M](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=46544167370890)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
   - [L](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=46544167403658)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
   - [XL](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=46544167436426)
     Availability: Available
-    Price: ₹1,750.00 INR
+    Price: ₹3,500.00 INR
+  - [2XL](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=50074807632010)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [3XL](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=50074807664778)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [4XL](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=50074807697546)
+    Availability: Available
+    Price: ₹3,500.00 INR
+  - [5XL](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=50074807730314)
+    Availability: Available
+    Price: ₹3,500.00 INR
 - [Chhaya Black – Kantha-stitched Handcrafted Cotton Shirt | CHAKS](https://www.chaksstudio.com/products/chhaya-black-shirt-women): Black Kantha cotton shirt with subtle contrast details. Handmade in Bengal, offering heritage craftsmanship with timeless comfort.
-  Updated: 2026-07-19T09:48:33Z
+  Updated: 2026-08-22T13:33:58Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/1_ad3951c9-0617-4f27-af97-fe69ff6eb73e.jpg?v=1783780562
   - [XS](https://www.chaksstudio.com/products/chhaya-black-shirt-women?variant=46544335339658)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
   - [S](https://www.chaksstudio.com/products/chhaya-black-shirt-women?variant=46544335372426)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
   - [M](https://www.chaksstudio.com/products/chhaya-black-shirt-women?variant=46544335405194)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
   - [L](https://www.chaksstudio.com/products/chhaya-black-shirt-women?variant=46544335437962)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
   - [XL](https://www.chaksstudio.com/products/chhaya-black-shirt-women?variant=46544335470730)
     Availability: Available
-    Price: ₹1,699.00 INR
+    Price: ₹2,999.00 INR
+  - [2XL](https://www.chaksstudio.com/products/chhaya-black-shirt-women?variant=50074803372170)
+    Availability: Available
+    Price: ₹2,999.00 INR
+  - [3XL](https://www.chaksstudio.com/products/chhaya-black-shirt-women?variant=50074803404938)
+    Availability: Available
+    Price: ₹2,999.00 INR
+  - [4XL](https://www.chaksstudio.com/products/chhaya-black-shirt-women?variant=50074803437706)
+    Availability: Available
+    Price: ₹2,999.00 INR
+  - [5XL](https://www.chaksstudio.com/products/chhaya-black-shirt-women?variant=50074803470474)
+    Availability: Available
+    Price: ₹2,999.00 INR
 - [NOOR WHITE SHIRT - WOMEN](https://www.chaksstudio.com/products/noor-white-shirt-women): White Kantha cotton shirt, handmade in Bengal with fine hand stitches. Minimal, elegant design crafted for timeless everyday wear.
-  Updated: 2026-07-19T09:48:19Z
+  Updated: 2026-08-22T13:32:24Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/3_ac7c77db-53d0-434a-a861-1f65b96e51b0.jpg?v=1758097358
   - [XS](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=46544347889802)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
   - [S](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=46544347922570)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
   - [M](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=46544347955338)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
   - [L](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=46544347988106)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
   - [XL](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=46544348020874)
     Availability: Available
-    Price: ₹2,250.00 INR
+    Price: ₹2,650.00 INR
+  - [2XL](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=50074783645834)
+    Availability: Available
+    Price: ₹2,650.00 INR
+  - [3XL](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=50074783678602)
+    Availability: Available
+    Price: ₹2,650.00 INR
+  - [4XL](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=50074783711370)
+    Availability: Available
+    Price: ₹2,650.00 INR
+  - [5XL](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=50074783744138)
+    Availability: Available
+    Price: ₹2,650.00 INR
 - [REKHA SHIRT - KANTHA EMBROIDERY SHIRT](https://www.chaksstudio.com/products/rekha-shirt): The REKHA shirt is built around an uninterrupted hand-embroidered kantha zigzag line, a quiet detail inspired by the rhythm of traditional Kantha stitching. The embroidery acts as a subtle mark of the maker's hand, bringing warmth and character to an otherwise minimal silhouette. Crafted from a 100% cotton-linen blend, it delivers a breathable, relaxed fit ideal for year-round wear. Designed to move effortlessly between everyday wear and special occasions, Rekha celebrates the beauty of restraint, where every stitch has a purpose.
-  Updated: 2026-08-01T06:17:27Z
+  Updated: 2026-08-22T13:31:08Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -157,41 +229,65 @@
   - [XL](https://www.chaksstudio.com/products/rekha-shirt?variant=49729599504522)
     Availability: Available
     Price: ₹1,399.00 INR
+  - [2XL](https://www.chaksstudio.com/products/rekha-shirt?variant=50074779648138)
+    Availability: Available
+    Price: ₹1,399.00 INR
+  - [3XL](https://www.chaksstudio.com/products/rekha-shirt?variant=50074779680906)
+    Availability: Available
+    Price: ₹1,399.00 INR
+  - [4XL](https://www.chaksstudio.com/products/rekha-shirt?variant=50074779713674)
+    Availability: Available
+    Price: ₹1,399.00 INR
+  - [5XL](https://www.chaksstudio.com/products/rekha-shirt?variant=50074779746442)
+    Availability: Available
+    Price: ₹1,399.00 INR
 - [NISHAAN SHIRT](https://www.chaksstudio.com/products/nishaan-shirt): The NISHAAN SHIRT is an exploration of the traces left by the maker's hand. Inspired by the irregular rhythm of traditional Kantha embroidery, each stitched detail is intentionally placed across the garment, creating a composition of quiet marks rather than a repeating pattern. Crafted from breathable cotton-linen in a deep navy hue, the shirt features a relaxed silhouette, tonal buttons, and thoughtfully embroidered details that bring texture without overwhelming the design.
-  Updated: 2026-08-14T18:43:49Z
+  Updated: 2026-08-22T13:38:45Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/file_0000000025e881fa85285b7fe422dfa1_jpg.jpg?v=1786617281
   - [XS](https://www.chaksstudio.com/products/nishaan-shirt?variant=49729769308298)
     Availability: Available
-    Price: ₹1,599.00 INR
+    Price: ₹1,799.00 INR
   - [S](https://www.chaksstudio.com/products/nishaan-shirt?variant=49729769341066)
     Availability: Available
-    Price: ₹1,599.00 INR
+    Price: ₹1,799.00 INR
   - [M](https://www.chaksstudio.com/products/nishaan-shirt?variant=49729769373834)
     Availability: Available
-    Price: ₹1,599.00 INR
+    Price: ₹1,799.00 INR
   - [L](https://www.chaksstudio.com/products/nishaan-shirt?variant=49729769406602)
     Availability: Available
-    Price: ₹1,599.00 INR
+    Price: ₹1,799.00 INR
   - [XL](https://www.chaksstudio.com/products/nishaan-shirt?variant=49729769439370)
     Availability: Available
-    Price: ₹1,599.00 INR
+    Price: ₹1,799.00 INR
+  - [2XL](https://www.chaksstudio.com/products/nishaan-shirt?variant=50074779353226)
+    Availability: Available
+    Price: ₹1,799.00 INR
+  - [3XL](https://www.chaksstudio.com/products/nishaan-shirt?variant=50074779385994)
+    Availability: Available
+    Price: ₹1,799.00 INR
+  - [4XL](https://www.chaksstudio.com/products/nishaan-shirt?variant=50074779418762)
+    Availability: Available
+    Price: ₹1,799.00 INR
+  - [5XL](https://www.chaksstudio.com/products/nishaan-shirt?variant=50074779451530)
+    Availability: Available
+    Price: ₹1,799.00 INR
 
 ## Collections
 
 - [MENSWEAR](https://www.chaksstudio.com/collections/frontpage): Explore ‘Transit’ by CHAKS – handmade Kantha cotton shirts from Bengal. Inspired by migration, nostalgia, and timeless everyday craftsmanship.
-  Updated: 2026-08-01T11:20:34Z
+  Updated: 2026-08-22T13:38:46Z
   Total Products: 7
 - [WOMENSWEAR](https://www.chaksstudio.com/collections/womenswear): Discover ‘Transit’, CHAKS’ debut collection of hand-stitched Kantha cotton shirts. Handmade in Bengal, inspired by migration, nostalgia, and everyday craft.
-  Updated: 2026-08-11T11:20:29Z
+  Updated: 2026-08-22T13:33:49Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.chaksstudio.com/collections/avada-best-sellers)
-  Updated: 2026-08-11T11:20:29Z
+  Updated: 2026-08-22T13:38:46Z
   Total Products: 12
 - [REKHA SHIRT](https://www.chaksstudio.com/collections/rekha-shirt)
-  Updated: 2026-08-11T11:20:29Z
+  Updated: 2026-08-22T13:38:46Z
   Total Products: 8
 
 ## Blogs
