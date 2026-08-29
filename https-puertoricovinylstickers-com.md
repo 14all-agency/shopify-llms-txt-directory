@@ -6,144 +6,12 @@
 - Timezone: America/Puerto_Rico
 - Created At: 2026-07-21T14:50:35Z
 - Contact Email: gamerzonepuertorico@gmail.com
-- Updated At: 2026-08-22T00:00:41.759Z
+- Updated At: 2026-08-29T00:00:46.020Z
 
 ## Products
 
-- [Sticker personalizado - Snapchat](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background)
-  Updated: 2026-08-11T15:13:26Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/snapchat_personalizado_pad_1000x1000_773ab5ed-c221-4aa6-bff4-9d97d614c53b.jpg?v=1786315393
-  - [4" / Black](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606166917399)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606166950167)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606166982935)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606167015703)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606167048471)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006026519)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006059287)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006092055)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006124823)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006157591)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006190359)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006223127)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006255895)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006288663)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006321431)
-    Availability: Available
-    Price: $8.99 USD
-  - [12" / Black](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006354199)
-    Availability: Available
-    Price: $12.99 USD
-  - [12" / White](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006386967)
-    Availability: Available
-    Price: $12.99 USD
-  - [12" / Red](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006419735)
-    Availability: Available
-    Price: $12.99 USD
-  - [12" / Blue](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006452503)
-    Availability: Available
-    Price: $12.99 USD
-  - [12" / Holographic](https://puertoricovinylstickers.com/products/white-snapchat-name-decal-w-background-w-background?variant=54606006485271)
-    Availability: Available
-    Price: $12.99 USD
-- [Sticker personalizado - Instagram](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram)
-  Updated: 2026-08-11T15:13:30Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/instagram_personalizado_pad_1000x1000_5c5c2c03-8210-43b4-b140-806b7dbe5841.jpg?v=1786315398
-  - [4" / Black](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173208855)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173241623)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173274391)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173307159)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173339927)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173372695)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173405463)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173438231)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173470999)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173503767)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173536535)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173569303)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173602071)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173634839)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173667607)
-    Availability: Available
-    Price: $8.99 USD
-  - [12" / Black](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173700375)
-    Availability: Available
-    Price: $12.99 USD
-  - [12" / White](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173733143)
-    Availability: Available
-    Price: $12.99 USD
-  - [12" / Red](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173765911)
-    Availability: Available
-    Price: $12.99 USD
-  - [12" / Blue](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173798679)
-    Availability: Available
-    Price: $12.99 USD
-  - [12" / Holographic](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram?variant=54606173831447)
-    Availability: Available
-    Price: $12.99 USD
 - [Sticker personalizado](https://puertoricovinylstickers.com/products/sticker-personalizado-instagram-copia)
-  Updated: 2026-08-11T15:13:34Z
+  Updated: 2026-08-22T16:37:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -209,7 +77,7 @@
     Availability: Available
     Price: $12.99 USD
 - [Fur Mama Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/vinyl-decal-car-window-laptop-sticker-4-in): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-19T21:38:48Z
+  Updated: 2026-08-22T16:37:09Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -275,7 +143,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Creepy Smile Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/fur-mama-vinyl-decal-car-window-laptop-sticker-copia): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:22:50Z
+  Updated: 2026-08-22T16:37:11Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -341,7 +209,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Sassy Ghost Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/creepy-smile-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:22:50Z
+  Updated: 2026-08-22T16:37:07Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -406,74 +274,8 @@
   - [10" / Holographic](https://puertoricovinylstickers.com/products/creepy-smile-vinyl-decal-car-window-laptop-sticker?variant=54640558637335)
     Availability: Available
     Price: $10.99 USD
-- [Casper Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:22:50Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/004.png?v=1786312331
-  - [4" / Black](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640582852887)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640582885655)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640582918423)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640582951191)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640582983959)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583016727)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583049495)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583082263)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583115031)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583147799)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583180567)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583213335)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583246103)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583278871)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583311639)
-    Availability: Available
-    Price: $8.99 USD
-  - [10" / Black](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583344407)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / White](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583377175)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Blue](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583409943)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Red](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583442711)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Holographic](https://puertoricovinylstickers.com/products/casper-vinyl-decal-car-window-laptop-sticker?variant=54640583475479)
-    Availability: Available
-    Price: $10.99 USD
 - [Tuning Is Not A Crime Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/tuning-is-not-a-crime-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:22:57Z
+  Updated: 2026-08-22T16:37:07Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -538,206 +340,8 @@
   - [10" / Holographic](https://puertoricovinylstickers.com/products/tuning-is-not-a-crime-vinyl-decal-car-window-laptop-sticker?variant=54640584163607)
     Availability: Available
     Price: $10.99 USD
-- [Eating Hondas Shittin Nissans Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:35:24Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/006.png?v=1786312331
-  - [4" / Black](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585048343)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585081111)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585113879)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585146647)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585179415)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585212183)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585244951)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585277719)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585310487)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585343255)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585376023)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585408791)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585441559)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585474327)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585507095)
-    Availability: Available
-    Price: $8.99 USD
-  - [10" / Black](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585539863)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / White](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585572631)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Blue](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585605399)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Red](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585638167)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Holographic](https://puertoricovinylstickers.com/products/eating-hondas-shittin-nissans-vinyl-decal-car-window-laptop-sticker?variant=54640585670935)
-    Availability: Available
-    Price: $10.99 USD
-- [Skull Toyota Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:22:58Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/007.png?v=1786312331
-  - [4" / Black](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586457367)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586490135)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586522903)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586555671)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586588439)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586621207)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586653975)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586686743)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586719511)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586752279)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586785047)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586817815)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586850583)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586883351)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586916119)
-    Availability: Available
-    Price: $8.99 USD
-  - [10" / Black](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586948887)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / White](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640586981655)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Blue](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640587014423)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Red](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640587047191)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Holographic](https://puertoricovinylstickers.com/products/skull-toyota-vinyl-decal-car-window-laptop-sticker?variant=54640587079959)
-    Availability: Available
-    Price: $10.99 USD
-- [I Love My VW Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:22:58Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/008.png?v=1786312331
-  - [4" / Black](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587112727)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587145495)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587178263)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587211031)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587243799)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587276567)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587309335)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587342103)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587374871)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587407639)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587440407)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587473175)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587505943)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587538711)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587571479)
-    Availability: Available
-    Price: $8.99 USD
-  - [10" / Black](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587604247)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / White](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587637015)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Blue](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587669783)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Red](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587702551)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Holographic](https://puertoricovinylstickers.com/products/i-love-my-vw-vinyl-decal-car-window-laptop-sticker?variant=54640587735319)
-    Availability: Available
-    Price: $10.99 USD
 - [Badass Women Drive Badass Trucks Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/badass-women-drive-badass-trucks-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:23:03Z
+  Updated: 2026-08-22T16:37:11Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -803,7 +407,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Girls Drive Fast Too Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/girls-drive-fast-too-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:23:03Z
+  Updated: 2026-08-22T16:37:11Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -869,7 +473,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Caffeine Queen Rock On Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/caffeine-queen-rock-on-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:23:03Z
+  Updated: 2026-08-22T16:37:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -935,7 +539,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Caffeine And Bones Dead Tired Club Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/caffeine-and-bones-dead-tired-club-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:23:03Z
+  Updated: 2026-08-22T16:37:11Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1000,74 +604,8 @@
   - [10" / Holographic](https://puertoricovinylstickers.com/products/caffeine-and-bones-dead-tired-club-vinyl-decal-car-window-laptop-sticker?variant=54640591175959)
     Availability: Available
     Price: $10.99 USD
-- [I Love My Audi Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:22:57Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/013.png?v=1786312331
-  - [4" / Black](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640591831319)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640591864087)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640591896855)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640591929623)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640591962391)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640591995159)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592027927)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592060695)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592093463)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592126231)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592158999)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592191767)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592224535)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592257303)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592290071)
-    Availability: Available
-    Price: $8.99 USD
-  - [10" / Black](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592322839)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / White](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592355607)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Blue](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592388375)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Red](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592421143)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Holographic](https://puertoricovinylstickers.com/products/i-love-my-audi-vinyl-decal-car-window-laptop-sticker?variant=54640592453911)
-    Availability: Available
-    Price: $10.99 USD
 - [Skull And Crossbones Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/skull-and-crossbones-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:22:50Z
+  Updated: 2026-08-22T16:37:06Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1133,7 +671,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Skater Skull Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/skater-skull-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:23:03Z
+  Updated: 2026-08-22T16:37:07Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1199,7 +737,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Three Black Cats Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/three-black-cats-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T20:22:50Z
+  Updated: 2026-08-22T16:37:11Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1264,74 +802,8 @@
   - [10" / Holographic](https://puertoricovinylstickers.com/products/three-black-cats-vinyl-decal-car-window-laptop-sticker?variant=54640604512535)
     Availability: Available
     Price: $10.99 USD
-- [Kaws Companion Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:35:07Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/017.png?v=1786312656
-  - [4" / Black](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604545303)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604578071)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604610839)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604643607)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604676375)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604709143)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604741911)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604774679)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604807447)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604840215)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604872983)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604905751)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604938519)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640604971287)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640605004055)
-    Availability: Available
-    Price: $8.99 USD
-  - [10" / Black](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640605036823)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / White](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640605069591)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Blue](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640605102359)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Red](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640605135127)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Holographic](https://puertoricovinylstickers.com/products/kaws-companion-vinyl-decal-car-window-laptop-sticker?variant=54640605167895)
-    Availability: Available
-    Price: $10.99 USD
 - [Peeking Panda Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/peeking-panda-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:35:07Z
+  Updated: 2026-08-22T16:37:11Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1396,74 +868,8 @@
   - [10" / Holographic](https://puertoricovinylstickers.com/products/peeking-panda-vinyl-decal-car-window-laptop-sticker?variant=54640605823255)
     Availability: Available
     Price: $10.99 USD
-- [Dabbing Marshmello Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:35:07Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/019.png?v=1786312656
-  - [4" / Black](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640605987095)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606019863)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606052631)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606085399)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606118167)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606150935)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606183703)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606216471)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606249239)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606282007)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606314775)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606347543)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606380311)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606413079)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606445847)
-    Availability: Available
-    Price: $8.99 USD
-  - [10" / Black](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606478615)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / White](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606511383)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Blue](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606544151)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Red](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606576919)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Holographic](https://puertoricovinylstickers.com/products/dabbing-marshmello-vinyl-decal-car-window-laptop-sticker?variant=54640606609687)
-    Availability: Available
-    Price: $10.99 USD
 - [Respect For Bikers Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/respect-for-bikers-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:39:08Z
+  Updated: 2026-08-22T16:37:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1529,7 +935,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Eat Sleep Drift Repeat Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/eat-sleep-drift-repeat-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-11T15:15:20Z
+  Updated: 2026-08-22T16:37:09Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1595,7 +1001,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Drift King Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/drift-king-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-11T15:15:23Z
+  Updated: 2026-08-22T16:37:12Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1661,7 +1067,7 @@
     Availability: Available
     Price: $10.99 USD
 - [If It Shifts It Drifts Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/if-it-shifts-it-drifts-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-11T15:15:26Z
+  Updated: 2026-08-22T16:37:10Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1727,7 +1133,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Dead Tree Circle Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/dead-tree-circle-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-19T21:40:43Z
+  Updated: 2026-08-22T16:37:12Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1793,7 +1199,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Scratching Cat Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/scratching-cat-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-11T15:15:33Z
+  Updated: 2026-08-22T16:37:09Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1859,7 +1265,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Limited Edition Premium Quality Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/limited-edition-premium-quality-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-11T15:15:37Z
+  Updated: 2026-08-22T16:37:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1925,7 +1331,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Duck It Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/duck-it-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:36:54Z
+  Updated: 2026-08-22T16:37:07Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -1991,7 +1397,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Angry At Gas Pump Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/angry-at-gas-pump-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:38:55Z
+  Updated: 2026-08-22T16:37:06Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2057,7 +1463,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Watch For Finger Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/watch-for-finger-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-11T15:16:01Z
+  Updated: 2026-08-22T16:37:07Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2123,7 +1529,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Peek A Boo Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/peek-a-boo-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:35:07Z
+  Updated: 2026-08-22T16:37:11Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2189,7 +1595,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Honk If You Want A Blowjob Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/honk-if-you-want-a-blowjob-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:36:04Z
+  Updated: 2026-08-22T16:37:06Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2254,74 +1660,8 @@
   - [10" / Holographic](https://puertoricovinylstickers.com/products/honk-if-you-want-a-blowjob-vinyl-decal-car-window-laptop-sticker?variant=54640626106647)
     Availability: Available
     Price: $10.99 USD
-- [Snoopy Peeking Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:35:07Z
-  Vendor: Puerto Rico Vinyl Stickers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/029.png?v=1786313038
-  - [4" / Black](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626139415)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / White](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626172183)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Blue](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626204951)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Red](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626237719)
-    Availability: Available
-    Price: $4.99 USD
-  - [4" / Holographic](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626270487)
-    Availability: Available
-    Price: $4.99 USD
-  - [6" / Black](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626303255)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / White](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626336023)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Blue](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626368791)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Red](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626401559)
-    Availability: Available
-    Price: $6.99 USD
-  - [6" / Holographic](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626434327)
-    Availability: Available
-    Price: $6.99 USD
-  - [8" / Black](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626467095)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / White](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626499863)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Blue](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626532631)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Red](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626565399)
-    Availability: Available
-    Price: $8.99 USD
-  - [8" / Holographic](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626598167)
-    Availability: Available
-    Price: $8.99 USD
-  - [10" / Black](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626630935)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / White](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626663703)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Blue](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626696471)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Red](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626729239)
-    Availability: Available
-    Price: $10.99 USD
-  - [10" / Holographic](https://puertoricovinylstickers.com/products/snoopy-peeking-vinyl-decal-car-window-laptop-sticker?variant=54640626762007)
-    Availability: Available
-    Price: $10.99 USD
 - [Panty Dropper Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/panty-dropper-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-20T07:21:36Z
+  Updated: 2026-08-22T16:37:09Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2387,7 +1727,7 @@
     Availability: Available
     Price: $10.99 USD
 - [I Love Sushi Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/i-love-sushi-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-19T21:38:56Z
+  Updated: 2026-08-22T16:37:12Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2453,7 +1793,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Hawk Tuah Spit On That Thang Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/hawk-tuah-spit-on-that-thang-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:35:24Z
+  Updated: 2026-08-22T16:37:10Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2519,7 +1859,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Dope Ghost Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/dope-ghost-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-19T21:40:43Z
+  Updated: 2026-08-22T16:37:09Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2585,7 +1925,7 @@
     Availability: Available
     Price: $10.99 USD
 - [No Free Rides Gas Or Ass Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/no-free-rides-gas-or-ass-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:36:04Z
+  Updated: 2026-08-22T16:37:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2651,7 +1991,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Baddie Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/baddie-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:18:18Z
+  Updated: 2026-08-22T16:37:10Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2717,7 +2057,7 @@
     Availability: Available
     Price: $10.99 USD
 - [She Wants The Diesel Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/she-wants-the-diesel-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-19T21:40:59Z
+  Updated: 2026-08-22T16:37:14Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2783,7 +2123,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Fuel Gauge Girl Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/fuel-gauge-girl-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:39:08Z
+  Updated: 2026-08-22T16:38:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2849,7 +2189,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Behind Every Bad Bitch Is A Car Seat Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/behind-every-bad-bitch-is-a-car-seat-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:35:24Z
+  Updated: 2026-08-22T16:38:04Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2915,7 +2255,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Dirty Diesel Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/dirty-diesel-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:38:55Z
+  Updated: 2026-08-22T16:38:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -2981,7 +2321,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Bitch Inside Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/bitch-inside-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:35:24Z
+  Updated: 2026-08-22T16:38:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3047,7 +2387,7 @@
     Availability: Available
     Price: $10.99 USD
 - [She Wants The D Diesel Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/she-wants-the-d-diesel-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:39:08Z
+  Updated: 2026-08-22T16:38:09Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3113,7 +2453,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Blow Me Turbo Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/blow-me-turbo-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:38:55Z
+  Updated: 2026-08-22T16:38:09Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3179,7 +2519,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Tits Or Tires Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/tits-or-tires-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-19T21:40:59Z
+  Updated: 2026-08-22T16:38:04Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3245,7 +2585,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Haters Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/haters-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:37:00Z
+  Updated: 2026-08-22T16:38:07Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3311,7 +2651,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Dont Park Too Close Im Chunky Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/dont-park-too-close-im-chunky-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:36:54Z
+  Updated: 2026-08-22T16:38:07Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3377,7 +2717,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Morning Noon Night Midnight Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/morning-noon-night-midnight-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-11T15:20:46Z
+  Updated: 2026-08-22T16:38:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3443,7 +2783,7 @@
     Availability: Available
     Price: $10.99 USD
 - [You Dirty Bumper Humper Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/you-dirty-bumper-humper-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-19T21:40:59Z
+  Updated: 2026-08-22T16:38:09Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3509,7 +2849,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Around And Find Out Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/around-and-find-out-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:19:10Z
+  Updated: 2026-08-22T16:38:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3575,7 +2915,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Off Road Princess Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/off-road-princess-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-11T15:20:56Z
+  Updated: 2026-08-22T16:38:08Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3641,7 +2981,7 @@
     Availability: Available
     Price: $10.99 USD
 - [You Just Got Passed By A Girl Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/you-just-got-passed-by-a-girl-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-11T15:21:00Z
+  Updated: 2026-08-22T16:38:07Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3707,7 +3047,7 @@
     Availability: Available
     Price: $10.99 USD
 - [My Driving Scares Me Too Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/my-driving-scares-me-too-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
-  Updated: 2026-08-18T21:39:08Z
+  Updated: 2026-08-22T16:38:09Z
   Vendor: Puerto Rico Vinyl Stickers
   Product Type: 
   Availability: Available
@@ -3772,40 +3112,634 @@
   - [10" / Holographic](https://puertoricovinylstickers.com/products/my-driving-scares-me-too-vinyl-decal-car-window-laptop-sticker?variant=54640646160663)
     Availability: Available
     Price: $10.99 USD
-[List Continued](https://puertoricovinylstickers.com/a/llms-agent/llms.txt?shop=fc7eph-0w.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQ4Nzc2ODc3Njk4MywibGFzdF92YWx1ZSI6IjEwNDg3NzY4Nzc2OTgzIn0%3D)
+- [Dont Touch My Car Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
+  Updated: 2026-08-22T16:38:08Z
+  Vendor: Puerto Rico Vinyl Stickers
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/059.png?v=1786313284
+  - [4" / Black](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646226199)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / White](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646258967)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Blue](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646291735)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Red](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646324503)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Holographic](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646357271)
+    Availability: Available
+    Price: $4.99 USD
+  - [6" / Black](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646390039)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / White](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646422807)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Blue](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646455575)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Red](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646488343)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Holographic](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646521111)
+    Availability: Available
+    Price: $6.99 USD
+  - [8" / Black](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646553879)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / White](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646586647)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Blue](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646619415)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Red](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646652183)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Holographic](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646684951)
+    Availability: Available
+    Price: $8.99 USD
+  - [10" / Black](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646717719)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / White](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646750487)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Blue](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646783255)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Red](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646816023)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Holographic](https://puertoricovinylstickers.com/products/dont-touch-my-car-vinyl-decal-car-window-laptop-sticker?variant=54640646848791)
+    Availability: Available
+    Price: $10.99 USD
+- [It Before It Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
+  Updated: 2026-08-22T16:38:08Z
+  Vendor: Puerto Rico Vinyl Stickers
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/060.png?v=1786313283
+  - [4" / Black](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647012631)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / White](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647045399)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Blue](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647078167)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Red](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647110935)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Holographic](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647143703)
+    Availability: Available
+    Price: $4.99 USD
+  - [6" / Black](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647176471)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / White](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647209239)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Blue](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647242007)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Red](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647274775)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Holographic](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647307543)
+    Availability: Available
+    Price: $6.99 USD
+  - [8" / Black](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647340311)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / White](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647373079)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Blue](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647405847)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Red](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647438615)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Holographic](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647471383)
+    Availability: Available
+    Price: $8.99 USD
+  - [10" / Black](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647504151)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / White](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647536919)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Blue](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647569687)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Red](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647602455)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Holographic](https://puertoricovinylstickers.com/products/it-before-it-vinyl-decal-car-window-laptop-sticker?variant=54640647635223)
+    Availability: Available
+    Price: $10.99 USD
+- [Look But Please Dont Touch Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
+  Updated: 2026-08-22T16:38:07Z
+  Vendor: Puerto Rico Vinyl Stickers
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/061.png?v=1786313284
+  - [4" / Black](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647667991)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / White](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647700759)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Blue](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647733527)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Red](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647766295)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Holographic](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647799063)
+    Availability: Available
+    Price: $4.99 USD
+  - [6" / Black](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647831831)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / White](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647864599)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Blue](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647897367)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Red](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647930135)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Holographic](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647962903)
+    Availability: Available
+    Price: $6.99 USD
+  - [8" / Black](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640647995671)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / White](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640648028439)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Blue](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640648061207)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Red](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640648093975)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Holographic](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640648126743)
+    Availability: Available
+    Price: $8.99 USD
+  - [10" / Black](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640648159511)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / White](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640648192279)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Blue](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640648225047)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Red](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640648257815)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Holographic](https://puertoricovinylstickers.com/products/look-but-please-dont-touch-vinyl-decal-car-window-laptop-sticker?variant=54640648290583)
+    Availability: Available
+    Price: $10.99 USD
+- [I See Your Butthole Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
+  Updated: 2026-08-22T16:38:10Z
+  Vendor: Puerto Rico Vinyl Stickers
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/062.png?v=1786313284
+  - [4" / Black](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648323351)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / White](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648356119)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Blue](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648388887)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Red](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648421655)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Holographic](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648454423)
+    Availability: Available
+    Price: $4.99 USD
+  - [6" / Black](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648487191)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / White](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648519959)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Blue](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648552727)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Red](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648585495)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Holographic](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648618263)
+    Availability: Available
+    Price: $6.99 USD
+  - [8" / Black](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648651031)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / White](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648683799)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Blue](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648716567)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Red](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648749335)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Holographic](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648782103)
+    Availability: Available
+    Price: $8.99 USD
+  - [10" / Black](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648814871)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / White](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648847639)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Blue](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648880407)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Red](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648913175)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Holographic](https://puertoricovinylstickers.com/products/i-see-your-butthole-vinyl-decal-car-window-laptop-sticker?variant=54640648945943)
+    Availability: Available
+    Price: $10.99 USD
+- [Watch Out For The Idiot Behind Me Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
+  Updated: 2026-08-22T16:38:10Z
+  Vendor: Puerto Rico Vinyl Stickers
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/063.png?v=1786313284
+  - [4" / Black](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649699607)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / White](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649732375)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Blue](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649765143)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Red](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649797911)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Holographic](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649830679)
+    Availability: Available
+    Price: $4.99 USD
+  - [6" / Black](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649863447)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / White](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649896215)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Blue](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649928983)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Red](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649961751)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Holographic](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640649994519)
+    Availability: Available
+    Price: $6.99 USD
+  - [8" / Black](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650027287)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / White](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650060055)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Blue](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650092823)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Red](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650125591)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Holographic](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650158359)
+    Availability: Available
+    Price: $8.99 USD
+  - [10" / Black](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650191127)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / White](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650223895)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Blue](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650256663)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Red](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650289431)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Holographic](https://puertoricovinylstickers.com/products/watch-out-for-the-idiot-behind-me-vinyl-decal-car-window-laptop-sticker?variant=54640650322199)
+    Availability: Available
+    Price: $10.99 USD
+- [The Closer You Get The Slower I Drive Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
+  Updated: 2026-08-22T16:38:07Z
+  Vendor: Puerto Rico Vinyl Stickers
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/064.png?v=1786313284
+  - [4" / Black](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651010327)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / White](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651043095)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Blue](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651075863)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Red](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651108631)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Holographic](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651141399)
+    Availability: Available
+    Price: $4.99 USD
+  - [6" / Black](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651174167)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / White](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651206935)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Blue](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651239703)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Red](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651272471)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Holographic](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651305239)
+    Availability: Available
+    Price: $6.99 USD
+  - [8" / Black](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651338007)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / White](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651370775)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Blue](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651403543)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Red](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651436311)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Holographic](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651469079)
+    Availability: Available
+    Price: $8.99 USD
+  - [10" / Black](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651501847)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / White](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651534615)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Blue](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651567383)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Red](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651600151)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Holographic](https://puertoricovinylstickers.com/products/the-closer-you-get-the-slower-i-drive-vinyl-decal-car-window-laptop-sticker?variant=54640651632919)
+    Availability: Available
+    Price: $10.99 USD
+- [Flamingo Head Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
+  Updated: 2026-08-22T16:38:08Z
+  Vendor: Puerto Rico Vinyl Stickers
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/065.png?v=1786313283
+  - [4" / Black](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651698455)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / White](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651731223)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Blue](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651763991)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Red](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651796759)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Holographic](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651829527)
+    Availability: Available
+    Price: $4.99 USD
+  - [6" / Black](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651862295)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / White](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651895063)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Blue](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651927831)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Red](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651960599)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Holographic](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640651993367)
+    Availability: Available
+    Price: $6.99 USD
+  - [8" / Black](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652026135)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / White](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652058903)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Blue](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652091671)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Red](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652124439)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Holographic](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652157207)
+    Availability: Available
+    Price: $8.99 USD
+  - [10" / Black](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652189975)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / White](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652222743)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Blue](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652255511)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Red](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652288279)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Holographic](https://puertoricovinylstickers.com/products/flamingo-head-vinyl-decal-car-window-laptop-sticker?variant=54640652321047)
+    Availability: Available
+    Price: $10.99 USD
+- [Dont Rush Me Im Waiting For The Last Minute Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
+  Updated: 2026-08-22T16:38:07Z
+  Vendor: Puerto Rico Vinyl Stickers
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/066.png?v=1786313284
+  - [4" / Black](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652353815)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / White](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652386583)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Blue](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652419351)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Red](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652452119)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Holographic](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652484887)
+    Availability: Available
+    Price: $4.99 USD
+  - [6" / Black](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652517655)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / White](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652550423)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Blue](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652583191)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Red](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652615959)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Holographic](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652648727)
+    Availability: Available
+    Price: $6.99 USD
+  - [8" / Black](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652681495)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / White](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652714263)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Blue](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652747031)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Red](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652779799)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Holographic](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652812567)
+    Availability: Available
+    Price: $8.99 USD
+  - [10" / Black](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652845335)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / White](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652878103)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Blue](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652910871)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Red](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652943639)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Holographic](https://puertoricovinylstickers.com/products/dont-rush-me-im-waiting-for-the-last-minute-vinyl-decal-car-window-laptop-sticker?variant=54640652976407)
+    Availability: Available
+    Price: $10.99 USD
+- [Creative Vibes Vinyl Decal Car Window Laptop Sticker](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker): ✔ Premium Oracal 651 outdoor vinyl ✔ Weatherproof & UV resistant ✔ Long lasting adhesive ✔ Easy to apply ✔ Precision cut silhouette ✔ Made in Puerto Rico
+  Updated: 2026-08-22T16:38:10Z
+  Vendor: Puerto Rico Vinyl Stickers
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/8700/9303/files/creativevibes.png?v=1786328441
+  - [4" / Black](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192567063)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / White](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192599831)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Blue](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192632599)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Red](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192665367)
+    Availability: Available
+    Price: $4.99 USD
+  - [4" / Holographic](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192698135)
+    Availability: Available
+    Price: $4.99 USD
+  - [6" / Black](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192730903)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / White](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192763671)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Blue](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192796439)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Red](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192829207)
+    Availability: Available
+    Price: $6.99 USD
+  - [6" / Holographic](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192861975)
+    Availability: Available
+    Price: $6.99 USD
+  - [8" / Black](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192894743)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / White](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192927511)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Blue](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192960279)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Red](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641192993047)
+    Availability: Available
+    Price: $8.99 USD
+  - [8" / Holographic](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641193025815)
+    Availability: Available
+    Price: $8.99 USD
+  - [10" / Black](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641193058583)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / White](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641193091351)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Blue](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641193124119)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Red](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641193156887)
+    Availability: Available
+    Price: $10.99 USD
+  - [10" / Holographic](https://puertoricovinylstickers.com/products/creative-vibes-vinyl-decal-car-window-laptop-sticker?variant=54641193189655)
+    Availability: Available
+    Price: $10.99 USD
+[List Continued](https://puertoricovinylstickers.com/a/llms-agent/llms.txt?shop=fc7eph-0w.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQ4ODE1NjAyOTIwNywibGFzdF92YWx1ZSI6IjEwNDg4MTU2MDI5MjA3In0%3D)
 
 ## Collections
 
 - [Custome Decals](https://puertoricovinylstickers.com/collections/personalizados): Stickers personalizados
-  Updated: 2026-08-10T15:58:27Z
-  Total Products: 3
+  Updated: 2026-08-26T19:01:08Z
+  Total Products: 1
 - [Funny Decals](https://puertoricovinylstickers.com/collections/decals): Stickers diseño regulares
-  Updated: 2026-08-20T11:21:56Z
-  Total Products: 62
+  Updated: 2026-08-26T19:01:07Z
+  Total Products: 92
 - [Quotes decals](https://puertoricovinylstickers.com/collections/quotes-decals): Stickers diseño quotes
   Updated: 2026-08-18T21:47:21Z
   Total Products: 816
 - [Puerto Rico Decals](https://puertoricovinylstickers.com/collections/puerto-rico-decals)
-  Updated: 2026-08-18T21:46:31Z
-  Total Products: 115
+  Updated: 2026-08-26T19:00:27Z
+  Total Products: 114
 - [Car Logo Decals](https://puertoricovinylstickers.com/collections/car-logo-decals)
-  Updated: 2026-08-21T11:22:20Z
+  Updated: 2026-08-27T19:52:42Z
   Total Products: 42
 - [Music Bands Decals](https://puertoricovinylstickers.com/collections/music-bands-decals)
-  Updated: 2026-08-21T11:22:20Z
-  Total Products: 49
+  Updated: 2026-08-27T19:53:21Z
+  Total Products: 50
 - [Ebooks](https://puertoricovinylstickers.com/collections/ebooks)
   Updated: 2026-08-20T00:37:19Z
   Total Products: 2
 - [Dog Lover Decals](https://puertoricovinylstickers.com/collections/dog-lover-decals)
   Updated: 2026-08-16T11:44:36Z
   Total Products: 82
-- [T-shirt](https://puertoricovinylstickers.com/collections/t-shirt)
-  Updated: 2026-08-21T00:03:18Z
-  Total Products: 20
-- [Digital Artwork](https://puertoricovinylstickers.com/collections/digital-artwork)
-  Updated: 2026-08-21T22:50:25Z
-  Total Products: 0
+- [Full Color Stickers](https://puertoricovinylstickers.com/collections/full-color-stickers)
+  Updated: 2026-08-26T19:00:16Z
+  Total Products: 323
+- [Full Color Stickers](https://puertoricovinylstickers.com/collections/full-color-stickers-1)
+  Updated: 2026-08-26T19:00:16Z
+  Total Products: 323
 
 ## Blogs
 
