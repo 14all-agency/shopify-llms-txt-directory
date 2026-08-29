@@ -6,12 +6,12 @@
 - Timezone: Africa/Lagos
 - Created At: 2026-07-11T00:13:24Z
 - Contact Email: emotionalsuspense36@gmail.com
-- Updated At: 2026-08-15T00:00:36.702Z
+- Updated At: 2026-08-29T00:00:45.061Z
 
 ## Products
 
 - [Motivational Lion V-Neck Tee | VELORA Fashion](https://velora-fashion-2035.myshopify.com/products/motivational-lion-v-neck-tee-focus-your-goals-never-give-up): Shop the VELORA Motivational Lion V-Neck Tee. Premium quality, bold design — perfect for driven men who refuse to give up. Order yours today.
-  Updated: 2026-07-29T18:05:03Z
+  Updated: 2026-08-28T21:52:29Z
   Vendor: Printify
   Product Type: V-neck
   Availability: Available
@@ -37,14 +37,14 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0984/3827/files/10953357930659641644_2048.jpg?v=1784912761
     Price: $39.40 USD
 - [Coffee. Hustle. Repeat. Ceramic Mug | VELORA](https://velora-fashion-2035.myshopify.com/products/coffee-hustle-repeat-ceramic-mug-motivational-coffee-mug-for-entrepreneurs-11oz-15oz): The VELORA entrepreneur mug — 11oz & 15oz. Bold motivational design for hustlers and go-getters. Premium ceramic, dishwasher safe. Shop now.
-  Updated: 2026-07-29T22:13:29Z
+  Updated: 2026-08-28T21:52:29Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0984/3827/files/11258285568186895816_2048.jpg?v=1785075448
   Price: $16.99 USD
 - [Born to Lead Lion Graphic T-Shirt | VELORA Fashion](https://velora-fashion-2035.myshopify.com/products/born-to-lead-lion-graphic-t-shirt-bold-motivational-tee): VELORA Born to Lead Lion Tee — bold motivational graphic tee for men who lead. Premium fabric, striking design. Free shipping available. Shop now.
-  Updated: 2026-07-30T00:19:01Z
+  Updated: 2026-08-28T21:52:29Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -74,7 +74,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0984/3827/files/16499476858270868616_2048.jpg?v=1784913776
     Price: $29.99 USD
 - [Blue Lion Moon iPhone Case | VELORA — Courageous Warrior](https://velora-fashion-2035.myshopify.com/products/blue-lion-moon-iphone-case-courageous-warrior-phone-case): VELORA Blue Lion Moon iPhone Case — premium protective phone case with bold warrior artwork. Slim fit, durable design. Shop the full collection.
-  Updated: 2026-07-30T04:53:35Z
+  Updated: 2026-08-28T21:52:30Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
@@ -88,7 +88,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0984/3827/files/9745801366374461083_2048.jpg?v=1785077515
     Price: $29.99 USD
 - [Lion Portrait Velveteen Plush Blanket | VELORA](https://velora-fashion-2035.myshopify.com/products/lion-portrait-velveteen-plush-blanket-majestic-sunset-mane-throw): VELORA Majestic Lion Plush Blanket — ultra-soft velveteen throw with stunning sunset mane artwork. Perfect gift for lion lovers. Order yours today.
-  Updated: 2026-07-29T18:03:20Z
+  Updated: 2026-08-28T21:52:30Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
