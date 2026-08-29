@@ -6,12 +6,12 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2026-07-17T10:31:35Z
 - Contact Email: apexevlabs@gmail.com
-- Updated At: 2026-08-21T00:00:39.538Z
+- Updated At: 2026-08-29T00:00:43.322Z
 
 ## Products
 
 - [Tesla Touchscreen Swivel Mount – 360° Tilt & Rotate | Apex EV Labs](https://apexevlabs.com/products/apex-360-cockpit-swivel-screen-mount-kit): Eliminate sun glare and improve ergonomics with the Apex 360° swivel screen mount for Tesla. Aerospace-grade aluminum, zero wobble, no permanent modifications.
-  Updated: 2026-08-19T13:43:28Z
+  Updated: 2026-08-27T10:15:16Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -87,11 +87,11 @@
     Availability: Available
     Price: $1,260.00 USD
 - [Model Y Aero Conversion Bodykit – Full Exterior Upgrade | Apex EV Labs](https://apexevlabs.com/products/model-y-aero-conversion-bodykit): Upgrade your Tesla Model Y with the Apex Aero Conversion Bodykit. Lightweight, precision-fit aero components engineered for performance and style. Ships across the USA.
-  Updated: 2026-08-06T11:09:02Z
+  Updated: 2026-08-24T01:44:56Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/front-3-4.png?v=1784623614
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/a3e761be-3bd9-4fab-a997-17e10094598c.jpg?v=1787491711
   - [Gloss Black](https://apexevlabs.com/products/model-y-aero-conversion-bodykit?variant=52358666485991)
     Availability: Available
     Price: $1,109.00 USD
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/E0897737-772E-4EA9-9053-E70038738238.jpg?v=1785854888
   Price: $289.00 USD
 - [Apex Screen-Edge Pro™ – Foldable MagSafe EV Phone Mount | Apex EV Labs](https://apexevlabs.com/products/apex-screen-edge-pro-magsafe-ev-mount): The cleanest MagSafe phone mount for Tesla Model 3/Y & modern EVs. Folds flat behind your screen. No vents, no clutter. Ships in 24hrs. Shop now.
-  Updated: 2026-08-19T18:40:05Z
+  Updated: 2026-08-21T21:39:57Z
   Vendor: Apex EV Labs
   Product Type: 
   Availability: Available
@@ -253,7 +253,7 @@
     Availability: Available
     Price: $309.00 USD
 - [Apex Pure Black Wheel Covers for Tesla | Apex EV Labs](https://apexevlabs.com/products/apex-wheel-covers-pure-black): Elevate your Tesla with Apex Pure Black wheel covers. Sleek, stealthy aftermarket design, easy no-drill fit, no permanent modifications. Apex EV Labs.
-  Updated: 2026-08-19T15:49:18Z
+  Updated: 2026-08-28T11:30:24Z
   Vendor: Apex EV Labs
   Product Type: Wheels
   Availability: Available
@@ -624,21 +624,27 @@
   - [Model Juniper](https://apexevlabs.com/products/automatic-power-frunk-one-touch-electric-front-trunk-tesla-model-3-y?variant=52474170441959)
     Availability: Available
     Price: $339.99 USD
-- [Automatic Retractable Windshield Sunshade — Tesla & Any Car](https://apexevlabs.com/products/apex-autoshade-pro): Open the door to a cool cabin, not an oven. An automatic shade covers the whole windshield in one touch, then vanishes as you drive — cut to your model.
-  Updated: 2026-08-20T22:10:27Z
+- [Apex AutoShade Pro™ | Automatic Retractable Windshield Sunshade for Tesla & Any Car](https://apexevlabs.com/products/apex-autoshade-pro): Block heat before it builds. The Apex AutoShade Pro deploys in one touch, retracts flush when you drive, and is custom-cut for Tesla Model 3, Model Y, Model S, Model X — or any car. No tools, no folding, no oven cabin.
+  Updated: 2026-08-28T23:26:59Z
   Vendor: Apex EV Labs
   Product Type: Sunshade
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/IMG-6048.png?v=1787123671
-  - [Model 3 / Highland](https://apexevlabs.com/products/apex-autoshade-pro?variant=52477311942887)
+  - [Model 3](https://apexevlabs.com/products/apex-autoshade-pro?variant=52477311942887)
     Availability: Available
-    Price: $219.00 USD
-  - [Model Y / Juniper](https://apexevlabs.com/products/apex-autoshade-pro?variant=52477311975655)
+    Price: $199.00 USD
+  - [Model Y](https://apexevlabs.com/products/apex-autoshade-pro?variant=52477311975655)
     Availability: Available
-    Price: $219.00 USD
+    Price: $199.00 USD
+  - [Model S](https://apexevlabs.com/products/apex-autoshade-pro?variant=52511701663975)
+    Availability: Available
+    Price: $199.00 USD
+  - [Model X](https://apexevlabs.com/products/apex-autoshade-pro?variant=52511701696743)
+    Availability: Available
+    Price: $199.00 USD
   - [Other — custom-fit to my car](https://apexevlabs.com/products/apex-autoshade-pro?variant=52489393078503)
     Availability: Available
-    Price: $219.00 USD
+    Price: $199.00 USD
 - [Apex Wheel Covers - Batman](https://apexevlabs.com/products/apex-wheel-covers-batman): Factory-look wheels, without the factory-look price of forged rims. Custom-designed at a 1:1 scale for Tesla Model 3 and Model Y wheel hubs — full-coverage, center-lock install, no adhesive and no permanent modification. Fits both models across 18"–21" wheel sizes. What it does 1:1 factory fit — precision-moulded to your hub size, not a universal clip-on Center-lock installation — secure, no adhesive, removes cleanly Hurricane pattern — a real style statement, not a stock aero cap Fits more than Tesla Sized to a standard center-lock wheel hub, so these covers fit any vehicle with a matching bolt pattern and wheel size — not exclusive to Tesla. On a Tesla specifically, closing off the open-spoke wheel with a smooth-faced cover measurably reduces aerodynamic drag compared to bare alloy spokes — the same principle behind Tesla's own factory aero caps — which translates to a small but real gain in efficiency and helps preserve battery range, especially at highway speeds. Fitment Select your wheel size — Hurricane fits Model 3 and Model Y equally at each size. What's in the box Set of 4 wheel covers. Shipping & returns 30-day free returns, we cover return shipping Free shipping — no minimum
   Updated: 2026-08-19T13:22:57Z
   Vendor: Apex EV Labs
@@ -729,6 +735,80 @@
   - [21"](https://apexevlabs.com/products/apex-wheel-covers-spokes?variant=52496905437415)
     Availability: Available
     Price: $309.00 USD
+- [Magnetic Mini Head Buddy - Tesla Car Interior Figurine](https://apexevlabs.com/products/magnetic-mini-head-buddy): Fun magnetic mini head figurine for your car's interior. Snaps onto Tesla and most vehicle dashboards. A quirky collectible gift for car lovers.
+  Updated: 2026-08-28T17:18:27Z
+  Vendor: Apex EV Labs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPT_Image_Aug_23_2026_05_51_29_PM.png?v=1787478870
+  - [Ronaldo](https://apexevlabs.com/products/magnetic-mini-head-buddy?variant=52511696683239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPT_Image_Aug_23_2026_05_45_29_PM.png?v=1787478868
+    Price: $26.99 USD
+  - [Messi](https://apexevlabs.com/products/magnetic-mini-head-buddy?variant=52511696716007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPT_Image_Aug_23_2026_05_46_23_PM.png?v=1787478869
+    Price: $26.99 USD
+  - [Neymar](https://apexevlabs.com/products/magnetic-mini-head-buddy?variant=52513339015399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/IMG_2144.jpg?v=1787515715
+    Price: $26.99 USD
+  - [Mbappé](https://apexevlabs.com/products/magnetic-mini-head-buddy?variant=52513339048167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/IMG_2148.jpg?v=1787515726
+    Price: $26.99 USD
+  - [Trump](https://apexevlabs.com/products/magnetic-mini-head-buddy?variant=52511696748775)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPT_Image_Aug_23_2026_05_47_26_PM.png?v=1787478869
+    Price: $26.99 USD
+  - [Mcgregor](https://apexevlabs.com/products/magnetic-mini-head-buddy?variant=52511696781543)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPT_Image_Aug_23_2026_06_02_37_PM.png?v=1787479511
+    Price: $26.99 USD
+  - [Khabib](https://apexevlabs.com/products/magnetic-mini-head-buddy?variant=52511696814311)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPT_Image_Aug_23_2026_06_03_26_PM.png?v=1787479511
+    Price: $26.99 USD
+  - [Customize Your own toy](https://apexevlabs.com/products/magnetic-mini-head-buddy?variant=52513697202407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/FullSizeRender.jpg?v=1787522655
+    Price: $69.99 USD
+- [Tesla Yoke Steering Wheel for Model 3 Highland & Model Y Juniper](https://apexevlabs.com/products/tesla-yoke-steering-wheel-for-model-3-highland-new-model-y): Upgrade your Tesla’s interior with the Apex Yoke Steering Wheel 2.0, designed specifically for the Tesla Model 3 Highland and New Model Y. Built for drivers who want a more modern, sporty driving experience, this yoke-style steering wheel combines a sleek, performance-inspired design with a premium factory-style finish. The integrated controls help maintain the functionality you expect while giving your cabin a completely different look and feel. Key Features Sporty Yoke DesignA modern yoke shape gives your Tesla a distinctive, performance-inspired appearance and a more open view of the instrument area. Premium FinishHigh-quality materials and a refined matte finish create an OEM-inspired look that integrates naturally with the Tesla interior. Integrated ControlsDesigned with the steering-wheel controls positioned for convenient access while driving. Direct-Fit DesignEngineered specifically for compatible Model 3 Highland and New Model Y applications for a clean, factory-style installation. Comfortable GripThick, ergonomically shaped grips provide a solid and comfortable feel in your hands. Premium Interior UpgradeA simple way to give your Tesla a more aggressive, modern, and customized appearance. Compatibility ✅ Tesla Model 3 Highland✅ New Tesla Model Y Please verify your vehicle model and configuration before ordering. What’s Included 1 × Apex Yoke Steering Wheel Installation hardware as applicable Important: Professional installation is recommended. This product is intended for compatible Tesla vehicles only. Always verify compatibility before installation.
+  Updated: 2026-08-28T08:00:21Z
+  Vendor: Apex EV Labs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPTImageAug25_2026_01_13_28AM.png?v=1787591760
+  - [Model 3 24-26](https://apexevlabs.com/products/tesla-yoke-steering-wheel-for-model-3-highland-new-model-y?variant=52515828302055)
+    Availability: Available
+    Price: $289.99 USD
+  - [Model Y 25-26](https://apexevlabs.com/products/tesla-yoke-steering-wheel-for-model-3-highland-new-model-y?variant=52515828334823)
+    Availability: Available
+    Price: $289.99 USD
+- [Cybertruck-Style Steering Wheel for Tesla Model 3 Highland & Model Y Juniper](https://apexevlabs.com/products/cybertruck-style-steering-wheel-for-tesla-model-3-highland-model-y-juniper): Transform your Tesla interior with the Apex Cybertruck-Style Steering Wheel. Designed specifically for the 2024+ Tesla Model 3 Highland and 2025+ Model Y Juniper, this premium aftermarket steering wheel gives your cabin a bold, futuristic look inspired by Tesla's Cybertruck design language. Current competitors similarly position these wheels specifically for Highland and Juniper vehicles. Built for Tesla enthusiasts who want something different from the factory wheel, it combines an aggressive Cyber-inspired shape with a premium, comfortable grip and a clean factory-style appearance. Why you'll love it: Cybertruck-inspired design — Gives your Tesla a distinctive futuristic cockpit appearance. Model-specific fitment — Designed for Model 3 Highland (2024+) and Model Y Juniper (2025+). Premium materials — Designed for a refined look and comfortable hand feel. Integrated controls — Designed to retain the steering-wheel control functionality of the compatible vehicle configuration. Sportier appearance — A dramatic upgrade over the standard factory steering wheel. Direct replacement design — Intended for installation using the vehicle's compatible steering-wheel components. Compatibility Tesla Model 3 Highland — 2024+Tesla Model Y Juniper — 2025+ Please verify your exact vehicle generation and configuration before ordering. This wheel is not intended for pre-Highland Model 3 or pre-Juniper Model Y vehicles. Comparable manufacturers explicitly separate these generations because the newer vehicles use different fitment. Important safety note Because this is a steering-wheel replacement, I'd strongly recommend professional installation and having the airbag, controls, wiring/connectors, and steering-wheel alignment checked after installation. Don't advertise it as “plug-and-play” unless your supplier has specifically confirmed that for the exact version you're .
+  Updated: 2026-08-28T11:20:20Z
+  Vendor: Apex EV Labs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPTImageAug28_2026_04_11_02PM.png?v=1787904951
+  - [Model 3 (24-26)](https://apexevlabs.com/products/cybertruck-style-steering-wheel-for-tesla-model-3-highland-model-y-juniper?variant=52529387077863)
+    Availability: Available
+    Price: $399.99 USD
+  - [Model Y (25-26)](https://apexevlabs.com/products/cybertruck-style-steering-wheel-for-tesla-model-3-highland-model-y-juniper?variant=52529387110631)
+    Availability: Available
+    Price: $399.99 USD
+- [Yoke-Style Carbon Fiber Steering Wheel – Ellipse Nappa Leather](https://apexevlabs.com/products/yoke-style-carbon-fiber-steering-wheel-ellipse-nappa-leather): Transform your Tesla interior with a custom-built yoke steering wheel. The Apex Carbon Fiber Yoke Steering Wheel combines a futuristic yoke-style design with premium carbon fiber and genuine Nappa leather for a more personalized, performance-inspired driving experience. Designed for Tesla enthusiasts who want their interior to stand out, this wheel offers a sleek custom appearance while maintaining the familiar controls and functionality of the compatible Tesla steering-wheel configuration. Key Features Yoke-style design for a futuristic cockpit look Premium carbon fiber finish for a high-end performance aesthetic Nappa leather wrapping for a soft, luxurious grip Personalized/custom design options Integrated steering controls Sport-inspired shape Premium craftsmanship and materials Designed for compatible Tesla Model 3 & Model Y Compatibility Tesla Model 3 17-23Tesla Model Y 20-24 Please verify your exact model year and configuration before ordering, as steering-wheel compatibility can vary between vehicle generations. Important This is an aftermarket steering-wheel replacement. Professional installation is strongly recommended, particularly because the installation involves the vehicle's steering-wheel electronics and airbag system.
+  Updated: 2026-08-28T11:42:49Z
+  Vendor: Apex EV Labs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0799/7695/6135/files/ChatGPTImageAug28_2026_04_50_47PM.png?v=1787907071
+  - [Model 3 (17-23)](https://apexevlabs.com/products/yoke-style-carbon-fiber-steering-wheel-ellipse-nappa-leather?variant=52529504452839)
+    Availability: Available
+    Price: $449.99 USD
+  - [Model Y (20-24)](https://apexevlabs.com/products/yoke-style-carbon-fiber-steering-wheel-ellipse-nappa-leather?variant=52529504485607)
+    Availability: Available
+    Price: $449.99 USD
 
 ## Collections
 
@@ -739,17 +819,17 @@
   Updated: 2026-08-05T14:45:43Z
   Total Products: 0
 - [Tesla Model 3](https://apexevlabs.com/collections/tesla-model-3): Shop premium interior/exterior upgrades for Tesla Model 3. Precision-crafted components for a luxury cabin experience.
-  Updated: 2026-08-20T11:26:47Z
-  Total Products: 7
+  Updated: 2026-08-28T08:16:59Z
+  Total Products: 9
 - [Tesla Model X](https://apexevlabs.com/collections/tesla-model-x): Shop premium carbon fiber and Alcantara interior upgrades for Tesla Model X. Precision-crafted components for a luxury SUV cabin experience.
   Updated: 2026-08-05T14:45:44Z
   Total Products: 0
 - [Tesla Model Y](https://apexevlabs.com/collections/tesla-model-y): Shop premium interior/exterior upgrades for Tesla Model Y. Precision-crafted components for a luxury crossover cabin experience.
-  Updated: 2026-08-20T11:26:47Z
-  Total Products: 8
+  Updated: 2026-08-28T08:16:59Z
+  Total Products: 10
 - [Upgrades Under $200](https://apexevlabs.com/collections/upgrades-under-200): Shop the best Tesla upgrades under $200. Affordable interior mods, accessories, and lighting for Model 3 & Model Y. Free 30-day returns.
-  Updated: 2026-08-20T11:26:47Z
-  Total Products: 5
+  Updated: 2026-08-28T11:26:54Z
+  Total Products: 7
 - [Lighting](https://apexevlabs.com/collections/lighting): Shop RGB ambient lighting, BSD alert strips, and illuminated door handles for Tesla Model 3 & Model Y. Premium lighting upgrades from Apex.
   Updated: 2026-08-05T14:45:44Z
   Total Products: 0
@@ -763,8 +843,11 @@
   Updated: 2026-08-19T13:44:44Z
   Total Products: 28
 - [Best Sellers](https://apexevlabs.com/collections/best-sellers): Our best- upgrades, ranked by real sales.
-  Updated: 2026-08-20T11:26:47Z
+  Updated: 2026-08-28T11:26:54Z
   Total Products: 9
+- [Steering Wheels](https://apexevlabs.com/collections/steering-wheels): Upgrade your Tesla interior with our collection of premium aftermarket steering wheels, featuring sporty yoke designs, carbon fiber finishes, and luxurious Nappa leather options. Designed for Tesla enthusiasts who want a more personalized and performance-inspired driving experience.
+  Updated: 2026-08-28T08:58:07Z
+  Total Products: 3
 
 ## Blogs
 
@@ -823,7 +906,7 @@
 ## Policies
 
 - [Privacy Policy](https://apexevlabs.com/policies/privacy-policy)
-  Updated: 2026-07-17T18:31:39+08:00
+  Updated: 2026-08-26T00:29:05+08:00
 - [Shipping Policy](https://apexevlabs.com/policies/shipping-policy)
   Updated: 2026-08-10T17:30:37+08:00
 - [Refund Policy](https://apexevlabs.com/policies/refund-policy)
@@ -831,7 +914,7 @@
 - [Terms of Service](https://apexevlabs.com/policies/terms-of-service)
   Updated: 2026-07-18T16:03:38+08:00
 - [Contact Information](https://apexevlabs.com/policies/contact-information)
-  Updated: 2026-07-18T16:05:31+08:00
+  Updated: 2026-08-26T00:29:45+08:00
 
 ## Optional
 
