@@ -6,7 +6,7 @@
 - Timezone: Africa/Maseru
 - Created At: 2026-07-23T09:10:02Z
 - Contact Email: phirilineo2003@gmail.com
-- Updated At: 2026-08-19T00:00:30.770Z
+- Updated At: 2026-08-29T00:00:35.833Z
 
 ## Products
 
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0819/9762/7615/files/fbf7642e-cfc9-46bd-aefd-0a89deea6864.jpg?v=1786413296
     Price: $44.33 USD
 - [GlowHaven Cordless Auto Ceramic Hair Curler - GlowHaven](https://glowhavenshop.store/products/rechargeable-automatic-hair-curler-women-portable-hair-curling-iron-lcd-display-ceramic-curly-rotating-curling-wave-styer): Perfect Curls. Zero Effort. Anywhere. Imagine waking up, grabbing your GlowHaven Cordless Auto Ceramic Hair Curler, and having salon worthy curls in minutes no cords, no fuss, no skill required. Whether you're getting ready at home or touching up on the go, this curler delivers flawless results every single time. Key Benefits Effortless curls — automatic curling action does the work for you 60-minute cord-free run time — style anywhere, anytime Tourmaline ceramic barrel — seals the hair cuticle for smooth, frizz-free curls Anti-scalding design — safe for everyday use Multi-directional curling — left, right, or mixed for natural-looking waves Constant temperature control — protects hair from heat damage Features 25W power with tourmaline ceramic heat conductor 3 heat settings for fine, normal, and thick hair Digital internal display for precise temperature control Anti-tangle protection USB rechargeable — charge overnight before first use Compact and travel-friendly Available in Black, Pink, Pink-Grey, and White How to Use Charge fully via USB before first use Select your preferred heat setting using the digital display Section dry hair and place near the barrel opening Choose curl direction (left, right, or mixed) and let the auto-curl mechanism do the work Hold for 5–10 seconds, then release for a perfect curl Style and finish with your favorite hairspray Shipping Information We ship to Lesotho, Australia, New Zealand, the United Kingdom, the United States, Canada, and the European Union. Orders are processed within 1–3 business days. Estimated delivery: 7–20 business days depending on your location. Frequently Asked Questions Is it suitable for all hair types?Yes — the 3 heat settings make it suitable for fine, normal, and thick hair. Always start on a lower setting if you have fine or damaged hair. How long does the battery last?Up to 60 minutes on a full charge. Run time may vary based on heat setting and hair type. Can I use it on wet hair?No — always use on completely dry hair for best results and safety. - GlowHaven
-  Updated: 2026-08-11T10:59:34Z
+  Updated: 2026-08-22T14:46:56Z
   Vendor: GlowHaven
   Product Type: Beauty Device
   Availability: Available
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0819/9762/7615/files/2216497574802.jpg?v=1786413458
     Price: $83.15 USD
 - [GlowHaven Cordless Facial Shaver - GlowHaven](https://glowhavenshop.store/products/mini-portable-face-cordless-shavers-rechargeable-usb-electric-shaver-wet-dry-painless-small-size-machine-shaving-for-men): Overview: Precise and Painless Shaving. The motor speed is as high as 6600rpm, which is twice that of electric shavers, and the shaving is accurate and safe. Even in the case of low power, the motor speed can be stabilized, effectively preventing the beard from getting stuck in the shaver, and realizing painless shaving. Wide Range of Applications. Shaving, and removing leg hair, armpit hair, chest hair, body hair, etc. can be done in one machine, only one Mini Portable Electric Shaver is needed at home to take care of men and women. Wet and Dry Use & Low-Noise.It is IPX7 waterproof and supports full body wash. Immersion waterproof performance, never worry about bacterial residues, dry and wet dual-use, sterile and hygienic. Micro-vibration bass motor, continuous power, fast speed, and low noise. Pocket Shaver. Small in size, you can easily slip it into your jeans pocket and take it. Aluminum metal body, durable and comfortable. Suitable for air travel, business travel, office, car, on-the-go, camping, and more. Fast Charging.60 mins fast charging, can be used for more than 6h, 60 days of long use. Using the USB interface, charging is convenient, and the computer, notebook, mobile power supply, etc. can be charged. Product information: Product name: Mini shaver Function：Facial adjustment Razor head: rotary 1-blade head Cleaning method: the head can be removed water wash Life time: 1 month Color: small waist electroplated silver razor, small waist gradient blue razor, small waist green razor, small waist black razor Power mode: DC power Motor type: brush motor Endurance: 60 minutes or more Built-in battery capacity: 100mAh-300mAh (included) Noise: 36-45db Packing list: Shaver x1 - GlowHaven
-  Updated: 2026-08-13T13:46:47Z
+  Updated: 2026-08-26T07:46:57Z
   Vendor: GlowHaven
   Product Type: facial Device
   Availability: Available
@@ -453,10 +453,22 @@
 
 ## Store Pages
 
-- [Contact](https://glowhavenshop.store/pages/contact)
-  Updated: 2026-07-23T09:10:05Z
+- [Contact](https://glowhavenshop.store/pages/contact): Get in TouchWe'd love to hear from you! Whether you have a question about a product, need help with your order, or just want to say hello — we're h...
+  Updated: 2026-08-19T14:04:54Z
 - [Your Privacy Choices](https://glowhavenshop.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-07-23T10:11:08Z
+- [FAQ – GlowHaven](https://glowhavenshop.store/pages/faq): Orders & Shipping How long does delivery take? Orders are typically processed within 1–3 business days. Delivery times vary by destination — please...
+  Updated: 2026-08-19T13:58:42Z
+- [About Us – GlowHaven](https://glowhavenshop.store/pages/about-us): About GlowHaven Your at-home beauty sanctuary. At GlowHaven, we believe that salon-quality results should not require a salon visit. We’re a beauty...
+  Updated: 2026-08-19T13:59:32Z
+- [Refund Policy – GlowHaven](https://glowhavenshop.store/pages/refund-policy): Refund PolicyLast updated: July 2026Our CommitmentAt GlowHaven, your satisfaction is our priority. If you’re not completely happy with your purchas...
+  Updated: 2026-08-19T13:59:19Z
+- [Shipping Policy – GlowHaven](https://glowhavenshop.store/pages/shipping-policy): Shipping PolicyLast updated: July 2026Processing TimeAll orders are processed within 1–3 business days. Orders placed on weekends or public holiday...
+  Updated: 2026-08-19T13:59:07Z
+- [Terms of Service – GlowHaven](https://glowhavenshop.store/pages/terms-of-service): Terms of ServiceLast updated: July 20261. OverviewBy visiting and shopping at GlowHaven (glowhavenshop.store), you agree to be bound by the followi...
+  Updated: 2026-08-19T13:58:55Z
+- [FAQ – GlowHaven](https://glowhavenshop.store/pages/glowhavenshop-store-pages-faq): Frequently Asked QuestionsWhat products does GlowHaven ?GlowHaven specialises in premium beauty and wellness gadgets including skincare tools, ...
+  Updated: 2026-08-19T14:04:23Z
 
 ## Policies
 
