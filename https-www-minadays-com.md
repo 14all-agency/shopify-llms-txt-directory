@@ -6,18 +6,19 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-08-31T08:07:01Z
 - Contact Email: info@minadays.com
-- Updated At: 2026-08-22T00:00:37.108Z
+- Updated At: 2026-08-29T00:00:39.481Z
 
 ## Products
 
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-08-19T10:16:30Z
+  Updated: 2026-08-24T17:58:58Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/cbd-tampons_1a9f15c0-ebf4-4cb0-abb5-76af519252e0.png?v=1785443515
+  Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Warum_Sie_auf_ein_Gratisaktion.jpg?v=1787551144
   - [16 Stück / Normal](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex?variant=52014220902732)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/CBD-Tampons-Normal-16stueck.png?v=1786644959
     Price: 19,80 € EUR
   - [16 Stück / Super](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex?variant=53425008869708)
     Availability: Available
@@ -31,21 +32,21 @@
     Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Minadays-tampons-1_-_Normal_-_4Pack_1992585f-4c97-4e82-83a5-dc8ef314e796.webp?v=1785443514
     Price: 6,70 € EUR
 - [Damenbinden mit Bambusviskose | MinaDays](https://www.minadays.com/products/bambusfaser-binden): Erlebe natürlichen Komfort und Schutz mit MinaDays Binden ♥ Ultraleicht, dünn und extrem saugfähig – ideal für jeden Tag ♥ Hier klicken
-  Updated: 2026-08-13T06:21:23Z
+  Updated: 2026-08-27T09:55:46Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/bambus-binden-fur-damen.webp?v=1785443514
+  Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Bambusbinden-kaufen.webp?v=1787550836
   Price: 8,50 € EUR
 - [Bambus-Slipeinlagen vegan | MinaDays®](https://www.minadays.com/products/bambus-slipeinlagen): 45 Premium-Slipeinlagen aus Bambus mit weicher Oberfläche und ultradünn. Vegan, chlorfrei und für ein angenehmes Tragegefühl entwickelt. Nicht jeder Tag der Periode ist gleich – und auch an den Tagen davor oder danach wünschst du dir ein gutes Gefühl im Alltag. Genau dafür wurden die MinaDays® Slipeinlagen entwickelt. Die weiche Oberfläche aus Bambusviskose sorgt für ein angenehmes Tragegefühl und begleitet dich unauffällig durch den Tag. Dank ihrer ultradünnen Form schmiegen sich die Slipeinlagen komfortabel an, ohne aufzutragen für ein sicheres Gefühl im Alltag. Ob als täglicher Begleiter oder als Ergänzung deiner Periodenroutine – MinaDays® Slipeinlagen verbinden Komfort mit sorgfältig ausgewählten Materialien und einem durchdachten Produktkonzept. So kannst du dich auf das konzentrieren, was wirklich zählt. Warum MinaDays®? MinaDays® steht für eine neue Generation von Perioden- und Intimpflegeprodukten. Wir glauben, dass auch die kleinen Begleiter des Alltags mit derselben Sorgfalt entwickelt werden sollten wie jedes andere Produkt, das täglich mit dem Körper in Berührung kommt. Unsere Slipeinlagen aus Bambusviskose sind Ausdruck dieses Anspruchs. Sorgfältig ausgewählte Materialien, ein angenehmes Tragegefühl und eine durchdachte Verarbeitung machen sie zu einem unauffälligen Begleiter. Leicht. Unauffällig. Für deinen Alltag gemacht.
-  Updated: 2026-08-13T06:21:22Z
+  Updated: 2026-08-27T09:55:41Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Slipeinlagen-bambusviskose.webp?v=1785443531
+  Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Slipeinlagen-Bambusviskose-kaufen.webp?v=1787550792
   Price: 7,50 € EUR
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-mit-cbd-kamille-normal): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-08-21T14:39:51Z
+  Updated: 2026-08-28T05:15:25Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
@@ -55,10 +56,10 @@
 ## Collections
 
 - [Produkte](https://www.minadays.com/collections/all): Mit CBD-Tampons & Bambus-Binden durch deine Tage
-  Updated: 2026-08-21T11:19:15Z
+  Updated: 2026-08-28T11:23:53Z
   Total Products: 11
 - [Intimpflege](https://www.minadays.com/collections/intimpflege)
-  Updated: 2026-08-13T11:18:28Z
+  Updated: 2026-08-27T11:20:25Z
   Total Products: 3
 - [Körperpflege & Entspannung](https://www.minadays.com/collections/korperpflege-entspannung)
   Updated: 2026-03-30T08:15:51Z
@@ -70,16 +71,16 @@
   Updated: 2026-02-16T12:44:49Z
   Total Products: 0
 - [Damenhygiene](https://www.minadays.com/collections/damenhygiene)
-  Updated: 2026-08-13T11:18:28Z
+  Updated: 2026-08-27T11:20:25Z
   Total Products: 2
 - [Tampons](https://www.minadays.com/collections/tampons)
-  Updated: 2026-08-21T11:19:15Z
+  Updated: 2026-08-28T11:23:53Z
   Total Products: 2
 - [Binden](https://www.minadays.com/collections/binden)
-  Updated: 2026-08-13T11:18:28Z
+  Updated: 2026-08-27T11:20:25Z
   Total Products: 1
 - [Slipeinlagen](https://www.minadays.com/collections/slipeinlagen)
-  Updated: 2026-08-13T11:18:28Z
+  Updated: 2026-08-27T11:20:25Z
   Total Products: 1
 
 ## Blogs
@@ -104,6 +105,10 @@
     Tags: Kamillen-Tampons, Organische Tampons, Viskose-Tampons
   - [Die Vorteile von CBD-Tampons: Eine natürliche Alternative für die Periode](https://www.minadays.com/blogs/news/cbd-tampons-natuerliche-menstruationspflege): Die Vorteile von CBD-Tampons: Eine natürliche Alternative für die Periode
     Updated: 2026-08-20T14:08:34Z
+    Author: Patrick Meier
+    Tags: CBD, CBD-Tampons
+  - [Slipeinlagen: Wann sind sie sinnvoll und wie verwendet man sie richtig?](https://www.minadays.com/blogs/news/slipeinlagen-ratgeber)
+    Updated: 2026-08-27T06:21:53Z
     Author: Patrick Meier
     Tags: CBD, CBD-Tampons
   - [Toxisches Schocksyndrom durch Tampons](https://www.minadays.com/blogs/news/toxisches-schocksyndrom-durch-tampons)
@@ -213,6 +218,18 @@
   Updated: 2026-08-12T08:56:56Z
 - [Umfrage](https://www.minadays.com/pages/umfrage)
   Updated: 2026-08-21T09:11:23Z
+- [html sitemap products](https://www.minadays.com/pages/html-sitemap-products): Products Tampons mit CBD & Kamille | Mi... Bambus-Binden atmungsaktiv | M... Bambus-Slipeinlagen vegan | Mi... 16 Tampons mit CBD & Kamille N... .s...
+  Updated: 2026-08-25T08:38:41Z
+- [html sitemap collections](https://www.minadays.com/pages/html-sitemap-collections): Collections Produkte Intimpflege Körperpflege & Entspannung Nahrungsergänzung & Vitalstoff... Nachhaltige Hygiene Damenhygiene Tampons Binden Slipe...
+  Updated: 2026-08-25T08:38:43Z
+- [html sitemap blogs](https://www.minadays.com/pages/html-sitemap-blogs): Blogs Magazin Vlog Podcasts .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap...
+  Updated: 2026-08-25T08:38:44Z
+- [html sitemap articles](https://www.minadays.com/pages/html-sitemap-articles): Blog Posts Wie kläre ich meine Tochter üb... Nein sagen lernen: Warum Grenz... Tampons oder Binden? Der große... Wie führt man einen Tampon ric... ...
+  Updated: 2026-08-25T08:38:46Z
+- [html sitemap pages](https://www.minadays.com/pages/html-sitemap-pages): Pages Kontaktiere uns Über uns Landing page FAQ Impressum Datenschutzerklärung Bambusfaser-Binden Beipackzett... CBD Tampons Normal Produktbros... ...
+  Updated: 2026-08-25T08:38:48Z
+- [html sitemap](https://www.minadays.com/pages/html-sitemap): Products Tampons mit CBD & Kamille | Mi... Bambus-Binden atmungsaktiv | M... Bambus-Slipeinlagen vegan | Mi... 16 Tampons mit CBD & Kamille N... Co...
+  Updated: 2026-08-25T08:38:49Z
 
 ## Policies
 
