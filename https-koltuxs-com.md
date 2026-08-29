@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-06-10T10:24:28Z
 - Contact Email: info@koltuxs.com
-- Updated At: 2026-08-21T11:29:25.685Z
+- Updated At: 2026-08-29T00:00:33.590Z
 
 ## Products
 
@@ -451,6 +451,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1417.52.49.png?v=1786719800
   Price: ₺0,00 TRY
+- [Omairat Orta Sehpa 4115](https://koltuxs.com/products/omairat-orta-sehpa-4115): Omairat Orta Sehpa (Kod: 4115) Kısa Açıklama Ahşap/mermer desenli zarif tablası ve iç içe geçebilen pratik zigon sehpa modülleriyle dikkat çeken Omairat Orta Sehpa, salonunuza hem şıklık hem de fonksiyonellik kazandırır. Ürün Açıklaması Zarif ve modern çizgileriyle yaşam alanınıza estetik bir dokunuş katan Omairat Orta Sehpa (Kod: 4115), merkezi orta sehpa ve etrafına konumlandırılan tamamlayıcı yan sehpalardan oluşan modüler bir tasarıma sahiptir. Kaliteli metal iskelet yapısı ve uyumlu tabla yüzeyi sayesinde hem dayanıklı hem de uzun ömürlü bir kullanım sunar. Ürün Özellikleri Zarif ahşap/mermer desenli üst tabla yüzeyi İç içe geçebilen pratik ve fonksiyonel yan sehpalar Dayanıklı ve modern metal ayak/iskelet yapısı Geniş ve kullanışlı oturma alanı uyumu
+  Updated: 2026-08-24T16:12:47Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1417.57.45.png?v=1786720118
+  Price: ₺0,00 TRY
 - [Omairat Orta Sehpa 4022](https://koltuxs.com/products/omairat-orta-sehpa-4022): Omairat Orta Sehpa (Kod: 4022) Ürün Açıklaması Özgün üçgen formlu parçaları sayesinde bir araya geldiğinde şık bir bütün oluşturan, ayrı ayrı kullanıldığında ise fonksiyonellik sunan bu orta sehpa seti, yaşam alanınıza modern bir dokunuş katar. Doğal ahşap ayakları ve kullanışlı raf/bölme detaylarıyla hem estetik hem de uzun ömürlü bir kullanım deneyimi sağlar. Ürün Özellikleri Üçgen formlu, iç içe geçebilen modüler tasarım Doğal ahşap ve krem renk yüzey kombinasyonu Pratik kullanım sunan alt raf/bölme detayları Dayanıklı ahşap ayak yapısı Teknik Ölçüler ve Bilgiler Ürün Kodu: 4022 Ağırlık: 23 Kg Hacim: 0,095 $m^3$ Ölçü: G: 85 cm – Y: 45 cm – D: 85 cm
   Updated: 2026-08-15T15:13:36Z
   Vendor: Koltuxs
@@ -802,13 +809,363 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-2101.20.34.png?v=1787264490
   Price: ₺0,00 TRY
 - [Lotus TV Ünitesi](https://koltuxs.com/products/lotus-tv-unitesi): Ürün Açıklaması Lotus TV Ünitesi, modern tasarım çizgilerini zarif detaylarla buluşturarak yaşam alanlarına estetik ve fonksiyonel bir dokunuş kazandırır. Minimal hatları, kaliteli malzeme yapısı ve şık renk kombinasyonu sayesinde salon dekorasyonunun tamamlayıcı parçası olur. Geniş üst yüzeyi ve kullanışlı depolama alanlarıyla elektronik cihazlar ve dekoratif aksesuarlar için ideal bir kullanım sunarken, sade tasarımı sayesinde farklı dekorasyon stilleriyle kolayca uyum sağlar. Öne Çıkan Özellikler Modern ve minimalist tasarım Geniş kullanım alanı sunan fonksiyonel üst tabla Kapaklı ve raflı depolama bölmeleri Dayanıklı ve uzun ömürlü malzeme yapısı Kaliteli yüzey kaplaması ile şık görünüm Kolay temizlenebilen yüzey Düzenli kablo yönetimine uygun tasarım Sağlam ayak ve gövde yapısı Dekoratif objeler ve medya ekipmanları için ideal kullanım Modern, çağdaş ve endüstriyel dekorasyon tarzlarıyla uyumlu tasarı
-  Updated: 2026-08-21T03:47:50Z
+  Updated: 2026-08-21T12:34:47Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-2101.21.47.png?v=1787264561
   Price: ₺0,00 TRY
-[List Continued](https://koltuxs.com/a/llms-agent/llms.txt?shop=htqbz3-g9.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTk4MDY2MTA2NTk2LCJsYXN0X3ZhbHVlIjoiOTE5ODA2NjEwNjU5NiJ9)
+- [ZUS 2001 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2001-kafe-restoran-sandalyesi): ZUS 2001, modern tasarımı doğal ahşabın sıcaklığıyla buluşturan zarif bir sandalyedir. Akıcı hatlara sahip özgün sırt ve kol desteği, hem estetik bir görünüm hem de ergonomik oturum konforu sunar. Masif ahşap iskeleti dayanıklılığı artırırken, döşemeli oturma yüzeyi uzun süreli kullanımlarda rahatlık sağlar. Yemek odaları, restoranlar, kafeler ve otel projeleri için şık ve fonksiyonel bir seçimdir. Özellikler: Masif ahşap gövde Ergonomik sırt ve kol desteği Konforlu döşemeli oturum Modern ve zamansız tasarım Ev ve ticari kullanım için uygun
+  Updated: 2026-08-28T21:43:35Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zuss2001.png?v=1787953229
+  Price: ₺0,00 TRY
+- [ZUS 2002 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2001-kafe-restoran-sandalyesi-1): ZUS 2002, yumuşak geçişlere sahip kıvrımlı formu ve kusursuz işçiliğiyle modern yaşam alanlarına zarafet katan bir sandalyedir. Tek parça görünümündeki sırt ve kol desteği, kullanıcıyı doğal bir şekilde kavrayarak üst düzey oturum konforu sunar. Masif ahşap gövdesi dayanıklılığı ön plana çıkarırken, döşemeli oturma alanı uzun süreli kullanımlarda rahatlık sağlar. Kafe, restoran, otel ve seçkin yaşam alanları için estetik ve fonksiyonelliği bir araya getiren ideal bir tercihtir. Özellikler: Masif ahşap gövde Ergonomik sırt ve kol desteği Konforlu döşemeli oturum Akıcı ve zamansız tasarım Ev ve ticari kullanıma uygun Sağlam ve uzun ömürlü yapı
+  Updated: 2026-08-28T21:42:08Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zuss2002.png?v=1787953278
+  Price: ₺0,00 TRY
+- [ZUS 2003 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2003-kafe-restoran-sandalyesi): ZUS 2003, yumuşak geçişlere sahip kıvrımlı formu ve kusursuz işçiliğiyle modern yaşam alanlarına zarafet katan bir sandalyedir. Tek parça görünümündeki sırt ve kol desteği, kullanıcıyı doğal bir şekilde kavrayarak üst düzey oturum konforu sunar. Masif ahşap gövdesi dayanıklılığı ön plana çıkarırken, döşemeli oturma alanı uzun süreli kullanımlarda rahatlık sağlar. Kafe, restoran, otel ve seçkin yaşam alanları için estetik ve fonksiyonelliği bir araya getiren ideal bir tercihtir. Özellikler: Masif ahşap gövde Ergonomik sırt ve kol desteği Konforlu döşemeli oturum Akıcı ve zamansız tasarım Ev ve ticari kullanıma uygun Sağlam ve uzun ömürlü yapı
+  Updated: 2026-08-28T21:43:10Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zuss2003.png?v=1787953361
+  Price: ₺0,00 TRY
+- [ZUS 2004 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2004-kafe-restoran-sandalyesi): ZUS 2004, klasik çizgileri modern tasarım anlayışıyla yeniden yorumlayan zarif bir sandalyedir. Estetik oyma detaylara sahip sırt yapısı, ürüne karakter kazandırırken ergonomik formu sayesinde konforlu bir oturum deneyimi sunar. Masif ahşap gövdesi dayanıklılığı ön plana çıkarırken, döşemeli oturma alanı uzun süreli kullanımlarda rahatlık sağlar. Restoran, otel, kafe ve seçkin yaşam alanları için şıklık ve işlevselliği bir araya getiren özel bir tasarımdır. Özellikler: Masif ahşap gövde Özgün oyma detaylı sırt tasarımı Ergonomik sırt ve kol desteği Konforlu döşemeli oturum Dayanıklı ve uzun ömürlü yapı Ev ve ticari kullanıma uygun
+  Updated: 2026-08-28T21:44:46Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2004.png?v=1787953469
+  Price: ₺0,00 TRY
+- [ZUS 2005 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2004-kafe-restoran-sandalyesi-1): ZUS 2005, doğal hasır sırt detayı ile masif ahşabın sıcaklığını buluşturan zamansız bir tasarıma sahiptir. Geniş sırt yapısı ve ergonomik kolçakları, estetik görünümün yanı sıra üstün oturum konforu sunar. El işçiliğini öne çıkaran hasır yüzey, döşemeli oturma alanıyla tamamlanarak yaşam alanlarına doğal ve sofistike bir karakter kazandırır. Restoran, kafe, otel ve prestijli iç mekân projeleri için ideal bir seçimdir. Özellikler: Masif ahşap gövde Doğal hasır sırt tasarımı Ergonomik kolçaklı yapı Konforlu döşemeli oturum Dayanıklı ve uzun ömürlü kullanım Ev ve ticari projeler için uygun
+  Updated: 2026-08-28T21:47:31Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2005.png?v=1787953568
+  Price: ₺0,00 TRY
+- [ZUS 2006 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2006-kafe-restoran-sandalyesi): ZUS 2006, modern çizgileri yumuşak formlarla buluşturan zarif ve konfor odaklı bir koltuk sandalyesidir. Tam döşemeli sırt ve oturma alanı üstün ergonomi sunarken, masif ahşaptan üretilen ince profilli kolçaklar tasarıma hafif ve estetik bir görünüm kazandırır. Konfor, dayanıklılık ve şıklığı bir araya getiren ZUS 2006; restoran, otel, kafe ve prestijli yaşam alanları için ideal bir tercihtir. Özellikler: Masif ahşap gövde Tam döşemeli sırt ve oturma alanı Ergonomik kolçak tasarımı Yüksek oturum konforu Dayanıklı ve uzun ömürlü yapı Ev ve ticari kullanıma uygun
+  Updated: 2026-08-28T21:48:55Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2006.png?v=1787953716
+  Price: ₺0,00 TRY
+- [ZUS 2006 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2006-kafe-restoran-sandalyesi-1): ZUS 2007, ikonik silueti ve zarif ahşap işçiliğiyle öne çıkan zamansız bir tasarımdır. Kavisli sırt formu, ergonomik yapısıyla vücudu desteklerken hafif ve dengeli yapısı kullanım kolaylığı sağlar. Masif ahşap gövdesi ve döşemeli oturma alanı; estetik, dayanıklılık ve konforu bir araya getirir. Modern, İskandinav ve klasik dekorasyon anlayışına uyum sağlayan ZUS 2007; restoran, kafe, otel ve yaşam alanları için ideal bir seçimdir. Özellikler: Masif ahşap gövde İkonik kavisli sırt tasarımı Ergonomik oturum desteği Konforlu döşemeli oturma alanı Sağlam ve uzun ömürlü yapı Ev ve ticari kullanıma uygun
+  Updated: 2026-08-28T21:50:12Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2007.png?v=1787953802
+  Price: ₺0,00 TRY
+- [ZUS 2008 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2008-kafe-restoran-sandalyesi): ZUS 2008, ikonik tasarımını doğal hasır oturma yüzeyiyle tamamlayan zamansız bir sandalyedir. Masif ahşap gövdesi ve zarif kavisli sırt formu, estetik görünümün yanı sıra ergonomik destek sunarken, el işçiliğiyle örülen hasır oturma alanı doğal bir dokunuş ve yüksek konfor sağlar. Hafif yapısı ve dayanıklı iskeleti sayesinde hem yaşam alanlarında hem de profesyonel projelerde uzun yıllar güvenle kullanılabilir. Özellikler: Masif ahşap gövde El işçiliği doğal hasır oturma yüzeyi İkonik kavisli sırt tasarımı Ergonomik ve konforlu oturum Dayanıklı ve uzun ömürlü yapı Ev, restoran, kafe ve otel projelerine uygun
+  Updated: 2026-08-28T21:51:26Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2008.png?v=1787953871
+  Price: ₺0,00 TRY
+- [ZUS 2009 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2009-kafe-restoran-sandalyesi): ZUS 2009, yalın tasarım anlayışını zarif detaylarla buluşturan modern bir ahşap sandalyedir. İnce profilli masif ahşap gövdesi ve karakteristik çapraz sırt destekleri, ürüne hem estetik bir görünüm hem de sağlam bir yapı kazandırır. Kavisli sırt formu ergonomik destek sunarken, geniş oturma yüzeyi günlük kullanımlarda konfor sağlar. Minimal ve zamansız tasarımı sayesinde restoran, kafe, otel ve yaşam alanlarına doğal bir şıklık katar. Özellikler: Masif ahşap gövde Ergonomik kavisli sırt tasarımı Karakteristik çapraz sırt destekleri Geniş ve konforlu oturma alanı Dayanıklı ve uzun ömürlü yapı Ev ve ticari kullanıma uygun
+  Updated: 2026-08-28T21:53:15Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2009.png?v=1787953975
+  Price: ₺0,00 TRY
+- [ZUS 2010 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2010-kafe-restoran-sandalyesi): ZUS 2010, cesur tasarım çizgileri ve dikkat çekici döşeme detaylarıyla modern mekânlara karakter kazandıran özel bir koltuk sandalyesidir. Kavisli masif ahşap gövdesi, güçlü duruşunu zarif hatlarla tamamlarken; kapitone döşemeli oturma alanı ve sırt desteği üstün konfor sunar. Ergonomik kolçak yapısı sayesinde uzun süreli kullanımlarda rahatlık sağlayan ZUS 2010, restoran, otel, lounge ve seçkin yaşam alanları için estetik ile fonksiyonelliği bir araya getirir. Özellikler: Masif ahşap gövde Kapitone döşemeli oturma ve sırt desteği Ergonomik kolçak tasarımı Yüksek oturum konforu Dayanıklı ve uzun ömürlü yapı Ev ve ticari projeler için uygun
+  Updated: 2026-08-28T21:54:32Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2010.png?v=1787954029
+  Price: ₺0,00 TRY
+- [ZUS 2011 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2011-kafe-restoran-sandalyesi): ZUS 2011, akıcı hatları ve tek parça formuyla modern tasarım anlayışını doğal ahşabın sıcaklığıyla buluşturan zarif bir koltuk sandalyesidir. Kavisli sırt ve kolçak yapısı vücudu ergonomik şekilde desteklerken, geniş döşemeli oturma alanı üstün konfor sunar. Masif ahşap gövdesi, sağlamlığı estetik bir görünümle birleştirerek restoran, otel, kafe ve seçkin yaşam alanları için uzun ömürlü ve şık bir çözüm oluşturur. Özellikler: Masif ahşap gövde Tek parça ergonomik sırt ve kolçak tasarımı Konforlu döşemeli oturma alanı Modern ve zamansız görünüm Dayanıklı ve uzun ömürlü yapı Ev ve ticari projeler için uygun
+  Updated: 2026-08-28T21:55:50Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2011.png?v=1787954118
+  Price: ₺0,00 TRY
+- [ZUS 2012 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2012-kafe-restoran-sandalyesi): ZUS 2012, doğal hasır sırt tasarımı ve yumuşak hatlara sahip masif ahşap gövdesiyle estetik ve konforu bir araya getiren modern bir koltuk sandalyesidir. Kullanıcıyı çevreleyen geniş hasır sırtlık, ferah bir görünüm sunarken ergonomik destek sağlar. Döşemeli oturma alanı uzun süreli kullanımlarda yüksek konfor sunar. Doğal malzeme kullanımı ve zamansız tasarımı sayesinde restoran, kafe, otel ve seçkin yaşam alanlarına sıcak ve zarif bir atmosfer kazandırır. Özellikler: Masif ahşap gövde Doğal hasır sırt tasarımı Ergonomik kolçaklı yapı Konforlu döşemeli oturma alanı Dayanıklı ve uzun ömürlü kullanım Ev ve ticari projeler için uygun
+  Updated: 2026-08-28T21:57:05Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2012.png?v=1787954188
+  Price: ₺0,00 TRY
+- [ZUS 2013 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2013-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T21:57:35Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2013.png?v=1787954244
+  Price: ₺0,00 TRY
+- [ZUS 2014 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2014-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T21:58:15Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2014.png?v=1787954277
+  Price: ₺0,00 TRY
+- [ZUS 2015 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2015-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T21:59:16Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2015.png?v=1787954339
+  Price: ₺0,00 TRY
+- [ZUS 2016 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2016-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:00:05Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2016.png?v=1787954386
+  Price: ₺0,00 TRY
+- [ZUS 2017 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2017-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:00:32Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2017.png?v=1787954424
+  Price: ₺0,00 TRY
+- [ZUS 2018 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2018-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:01:47Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2018.png?v=1787954481
+  Price: ₺0,00 TRY
+- [ZUS 2019 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2019-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:03:16Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2019.png?v=1787954577
+  Price: ₺0,00 TRY
+- [ZUS 2020 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2020-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:04:16Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2020.png?v=1787954645
+  Price: ₺0,00 TRY
+- [ZUS 2021 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2021-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:05:15Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2021.png?v=1787954693
+  Price: ₺0,00 TRY
+- [ZUS 2022 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2022-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:05:56Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2022.png?v=1787954737
+  Price: ₺0,00 TRY
+- [ZUS 2023 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2023-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:06:37Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2023.png?v=1787954776
+  Price: ₺0,00 TRY
+- [ZUS 2024 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2024-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:07:55Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2024.png?v=1787954859
+  Price: ₺0,00 TRY
+- [ZUS 2025 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2025-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:10:12Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2025.png?v=1787955002
+  Price: ₺0,00 TRY
+- [ZUS 2027 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2027-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:11:07Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2027.png?v=1787955046
+  Price: ₺0,00 TRY
+- [ZUS 2028 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2028-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:12:51Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2028.png?v=1787955161
+  Price: ₺0,00 TRY
+- [ZUS 2030 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2030-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:14:05Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2030.png?v=1787955214
+  Price: ₺0,00 TRY
+- [ZUS 2031 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2031-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:14:43Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2031.png?v=1787955273
+  Price: ₺0,00 TRY
+- [ZUS 2032 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2032-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:16:07Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2032.png?v=1787955350
+  Price: ₺0,00 TRY
+- [ZUS 2034 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2034-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:16:56Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2034.png?v=1787955395
+  Price: ₺0,00 TRY
+- [ZUS 2035 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2035-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:18:06Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2035.png?v=1787955473
+  Price: ₺0,00 TRY
+- [ZUS 2035 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2035-kafe-restoran-sandalyesi-1)
+  Updated: 2026-08-28T22:18:36Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-2901.18.09.png?v=1787955504
+  Price: ₺0,00 TRY
+- [ZUS 2036 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2036-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:19:47Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2036.png?v=1787955569
+  Price: ₺0,00 TRY
+- [ZUS 2037 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2037-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:21:02Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2037.png?v=1787955647
+  Price: ₺0,00 TRY
+- [ZUS 2038 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2038-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:21:43Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2038.png?v=1787955694
+  Price: ₺0,00 TRY
+- [ZUS 2039 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2039-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:23:45Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2039.png?v=1787955814
+  Price: ₺0,00 TRY
+- [ZUS 2040 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2040-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:24:46Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2040.png?v=1787955872
+  Price: ₺0,00 TRY
+- [ZUS 2042 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2042-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:25:27Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2042.png?v=1787955918
+  Price: ₺0,00 TRY
+- [ZUS 2043 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2043-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:26:25Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2043.png?v=1787955971
+  Price: ₺0,00 TRY
+- [ZUS 2044 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2044-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:28:36Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2044.png?v=1787956098
+  Price: ₺0,00 TRY
+- [ZUS 2044 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2044-kafe-restoran-sandalyesi-1)
+  Updated: 2026-08-28T22:32:26Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2044_1de666dd-60a5-4a9a-a827-754422cff348.png?v=1787956325
+  Price: ₺0,00 TRY
+- [ZUS 2045 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2045-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:34:51Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2045.png?v=1787956479
+  Price: ₺0,00 TRY
+- [ZUS 2046 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2046-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:35:56Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2046.png?v=1787956532
+  Price: ₺0,00 TRY
+- [ZUS 2049 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2049-kafe-restoran-sandalyesi)
+  Updated: 2026-08-28T22:37:16Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2049.png?v=1787956626
+  Price: ₺0,00 TRY
+- [Mazzero M1001 Kafe-Restoran Sehpası](https://koltuxs.com/products/mazzer0-m1001-kafe-restoran-sehpasi)
+  Updated: 2026-08-28T22:51:54Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/m1001.png?v=1787957447
+  Price: ₺0,00 TRY
+- [Mazzero M1002 Kafe-Restoran Sehpası](https://koltuxs.com/products/mazzero-m1002-kafe-restoran-sehpasi)
+  Updated: 2026-08-28T22:52:36Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/m1002.png?v=1787957540
+  Price: ₺0,00 TRY
+- [Mazzero M1003 Kafe-Restoran Sehpası](https://koltuxs.com/products/mazzero-m1003-kafe-restoran-sehpasi-1)
+  Updated: 2026-08-28T23:09:41Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/m1003_086479a4-825d-4661-b9aa-c732e2113dc3.png?v=1787958570
+  Price: ₺0,00 TRY
+- [Mazzero M1004 Kafe-Restoran Sehpası](https://koltuxs.com/products/mazzero-m1004-kafe-restoran-sehpasi)
+  Updated: 2026-08-28T23:11:18Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/m1004.png?v=1787958659
+  Price: ₺0,00 TRY
+- [Mazzero M1005 Kafe-Restoran Sehpası](https://koltuxs.com/products/mazzero-m1005-kafe-restoran-sehpasi)
+  Updated: 2026-08-28T23:25:46Z
+  Vendor: Koltuxs
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/m1005.png?v=1787959530
+  Price: ₺0,00 TRY
+[List Continued](https://koltuxs.com/a/llms-agent/llms.txt?shop=htqbz3-g9.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjA3OTE5Mzc4NjYwLCJsYXN0X3ZhbHVlIjoiOTIwNzkxOTM3ODY2MCJ9)
 
 ## Collections
 
@@ -816,14 +1173,14 @@
   Updated: 2026-08-20T22:25:35Z
   Total Products: 73
 - [Oturma Odası](https://koltuxs.com/collections/oturma-odasi)
-  Updated: 2026-08-20T21:53:40Z
-  Total Products: 34
+  Updated: 2026-08-24T16:13:25Z
+  Total Products: 14
 - [Koltuk Takımı](https://koltuxs.com/collections/koltuk-takimi)
   Updated: 2026-08-20T22:21:37Z
   Total Products: 12
 - [Köşe Koltuk Takımı](https://koltuxs.com/collections/kose-koltuk-takimi)
-  Updated: 2026-08-20T22:21:37Z
-  Total Products: 7
+  Updated: 2026-08-24T16:09:00Z
+  Total Products: 6
 - [Berjer](https://koltuxs.com/collections/berjer)
   Updated: 2026-08-15T10:49:00Z
   Total Products: 0
@@ -930,8 +1287,8 @@
   Updated: 2026-08-15T10:49:02Z
   Total Products: 0
 - [Kafe/Restoran Masa](https://koltuxs.com/collections/masa)
-  Updated: 2026-08-15T10:49:02Z
-  Total Products: 2
+  Updated: 2026-08-28T23:10:20Z
+  Total Products: 3
 - [Masa Tablası](https://koltuxs.com/collections/masa-tablasi)
   Updated: 2026-08-15T10:49:02Z
   Total Products: 0
@@ -939,8 +1296,8 @@
   Updated: 2026-08-15T10:49:02Z
   Total Products: 0
 - [Kafe/Restoran Sehpa](https://koltuxs.com/collections/sehpalar)
-  Updated: 2026-08-15T10:49:02Z
-  Total Products: 0
+  Updated: 2026-08-28T23:25:40Z
+  Total Products: 5
 - [Tamamlayıcı Ürünler](https://koltuxs.com/collections/tamamlayici-urunler)
   Updated: 2026-08-15T10:49:02Z
   Total Products: 0
@@ -966,14 +1323,14 @@
   Updated: 2026-08-15T10:49:03Z
   Total Products: 0
 - [Kafe/Restoran](https://koltuxs.com/collections/kafe-restoran)
-  Updated: 2026-08-15T10:49:03Z
-  Total Products: 12
+  Updated: 2026-08-28T23:25:40Z
+  Total Products: 61
 - [Düğün Paketi](https://koltuxs.com/collections/dugun-paketi)
   Updated: 2026-08-15T10:49:03Z
   Total Products: 1
 - [Kafe/Restoran Sandalye](https://koltuxs.com/collections/kafe-restoran-sandalye)
-  Updated: 2026-08-15T10:49:03Z
-  Total Products: 12
+  Updated: 2026-08-28T23:10:02Z
+  Total Products: 57
 
 ## Store Pages
 
