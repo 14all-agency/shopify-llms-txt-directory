@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-04-25T16:37:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-13T16:23:03.823Z
+- Updated At: 2026-08-30T00:00:34.392Z
 
 ## Products
 
@@ -98,7 +98,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Black Checkered Peach Tee](https://samhuntofficialstore.merchmadeeasy.com/products/black-checkered-peach-tee): Unisex black 100% cotton tee with the 'Sam Hunt Tour 2022' checker peach logo printed on the front chest.
-  Updated: 2026-07-18T08:35:57Z
+  Updated: 2026-08-14T23:01:07Z
   Vendor: Sam Hunt Official Store
   Product Type: Apparel
   Availability: Available
@@ -194,7 +194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0642/4562/9155/products/StudioSession-239.png?v=1666879001
   Price: $12.98 USD
 - [Montevallo Cassette](https://samhuntofficialstore.merchmadeeasy.com/products/montevallo-cassette): Montevallo Cassette tape
-  Updated: 2026-07-08T21:51:16Z
+  Updated: 2026-08-26T14:23:26Z
   Vendor: Sam Hunt
   Product Type: Music
   Availability: Available
@@ -319,7 +319,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Classic Trucker Patch Hat](https://samhuntofficialstore.merchmadeeasy.com/products/classic-trucker-patch-hat): This 6-panel structured black patch snapback hat has a firm front panel featuring Sam Hunt's name and is made of a 65/35 poly-cotton blend.
-  Updated: 2026-07-17T10:43:58Z
+  Updated: 2026-08-18T13:33:47Z
   Vendor: Sam Hunt Official Store
   Product Type: Hat
   Availability: Available
@@ -441,7 +441,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Photo Koozie](https://samhuntofficialstore.merchmadeeasy.com/products/sam-hunt-photo-koozie): Cheers to Sam Hunt with this 12 oz. koozie!
-  Updated: 2026-07-08T21:51:21Z
+  Updated: 2026-08-25T21:19:17Z
   Vendor: Sam Hunt Official Store
   Product Type: Koozie
   Availability: Available
@@ -455,7 +455,7 @@
   Image: https://cdn.shopify.com/s/files/1/0642/4562/9155/files/HairofTheDogKoozie.png?v=1719426708
   Price: $5.00 USD
 - [Sam Hunt Trucker Hat](https://samhuntofficialstore.merchmadeeasy.com/products/sam-hunt-red-block-trucker-hat): This structured red & beige trucker hat has a firm front panel featuring Sam Hunt's name in red block lettering as well as the following: 4 Sewn Eyelets Matching Visor Color Pro Stitch on Crown Matching Color Sweatband Plastic Adjustable Snap
-  Updated: 2026-07-15T06:30:11Z
+  Updated: 2026-08-13T23:31:27Z
   Vendor: Sam Hunt Official Store
   Product Type: Hat
   Availability: Available
@@ -625,7 +625,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Liberty Tee](https://samhuntofficialstore.merchmadeeasy.com/products/liberty-tee): Sam Hunt Liberty Tee in "old gold" with front and back print. 100% cotton Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-18T00:48:26Z
+  Updated: 2026-08-14T23:01:06Z
   Vendor: Sam Hunt Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -658,19 +658,19 @@
   Updated: 2026-08-07T11:18:26Z
   Total Products: 45
 - [Accessories](https://samhuntofficialstore.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-07-08T21:57:50Z
+  Updated: 2026-08-26T11:15:42Z
   Total Products: 16
 - [All](https://samhuntofficialstore.merchmadeeasy.com/collections/all)
-  Updated: 2026-08-07T11:18:26Z
+  Updated: 2026-08-27T11:18:42Z
   Total Products: 99
 - [2022 Tour Collection](https://samhuntofficialstore.merchmadeeasy.com/collections/2022-tour)
   Updated: 2026-07-26T11:20:02Z
   Total Products: 7
 - [Vintage](https://samhuntofficialstore.merchmadeeasy.com/collections/vintage)
-  Updated: 2026-07-26T11:20:02Z
+  Updated: 2026-08-27T11:18:42Z
   Total Products: 54
 - [Music](https://samhuntofficialstore.merchmadeeasy.com/collections/music)
-  Updated: 2026-07-08T21:57:45Z
+  Updated: 2026-08-27T11:18:42Z
   Total Products: 2
 - [Outskirts](https://samhuntofficialstore.merchmadeeasy.com/collections/summer-on-the-outskirts-tour)
   Updated: 2026-07-24T11:17:49Z
@@ -682,19 +682,19 @@
   Updated: 2026-07-08T21:57:51Z
   Total Products: 4
 - [Hats](https://samhuntofficialstore.merchmadeeasy.com/collections/hats)
-  Updated: 2026-07-08T21:57:50Z
+  Updated: 2026-08-19T11:18:49Z
   Total Products: 5
 - [Locked Up](https://samhuntofficialstore.merchmadeeasy.com/collections/locked-up)
-  Updated: 2026-08-07T11:18:26Z
+  Updated: 2026-08-26T11:15:42Z
   Total Products: 10
 - [LAST CHANCE TOUR MERCH](https://samhuntofficialstore.merchmadeeasy.com/collections/last-chance-tour-merch)
-  Updated: 2026-08-07T11:18:26Z
+  Updated: 2026-08-26T11:15:42Z
   Total Products: 22
 - [Mystery Bags](https://samhuntofficialstore.merchmadeeasy.com/collections/mystery-bags)
   Updated: 2026-07-08T21:42:46Z
   Total Products: 3
 - [FIVE DAYS FIVE DOLLARS](https://samhuntofficialstore.merchmadeeasy.com/collections/five-days-five-dollars)
-  Updated: 2026-07-08T21:57:56Z
+  Updated: 2026-08-27T11:18:42Z
   Total Products: 14
 - [Last Chance](https://samhuntofficialstore.merchmadeeasy.com/collections/last-chance)
   Updated: 2026-07-26T11:20:02Z
@@ -703,7 +703,7 @@
   Updated: 2026-08-07T11:18:26Z
   Total Products: 21
 - [UPSELL](https://samhuntofficialstore.merchmadeeasy.com/collections/upsell)
-  Updated: 2026-07-08T21:57:50Z
+  Updated: 2026-08-27T11:18:42Z
   Total Products: 8
 
 ## Store Pages
