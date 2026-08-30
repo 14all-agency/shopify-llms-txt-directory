@@ -6,12 +6,12 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-06-25T13:38:55Z
 - Contact Email: infopawcentral@gmail.com
-- Updated At: 2026-08-21T11:28:56.988Z
+- Updated At: 2026-08-30T00:00:32.342Z
 
 ## Products
 
 - [PawPartner Self-Cleaning Pet Comb with Mist Humidifier | PawCentral](https://pawcentral.co.za/products/pawpartner-dog-cat-comb-self-cleaning-pets-hair-remover-brush-for-pets-grooming-tools-dematting-comb-built-in-mist-humidifier): Self-cleaning pet dematting comb with built-in mist humidifier. 304 steel pins, one-button hair ejection, USB rechargeable. For dogs & cats. PawCentral SA.
-  Updated: 2026-08-15T15:44:02Z
+  Updated: 2026-08-29T20:18:53Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/C3C0D852955CCA28BCCFA16C33354429.jpg?v=1786122554
     Price: R 440.00 ZAR
 - [Banana Shape Steam Pet Grooming Brush – Hair Removal | PawCentral](https://pawcentral.co.za/products/grooming-brush-for-pets-multifunctional-pet-grooming-tool-banana-shape-steamy-cat-brush-for-hair-removal-grooming-pet-for-pets): Steam pet grooming brush with rounded pins. Removes loose hair, massages skin & reduces shedding. USB rechargeable. For cats & dogs. Shop PawCentral SA.
-  Updated: 2026-08-07T17:14:42Z
+  Updated: 2026-08-29T20:18:49Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -55,7 +55,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/1734BE2A02D918722FC4F0E3BD9D9F3D.jpg?v=1786122877
     Price: R 280.00 ZAR
 - [Large Plush Squeaky Dog Toys – Elephant, Bear & Pig | PawCentral](https://pawcentral.co.za/products/large-letter-toy-elephant-bear-pig-animal-sound-toys-for-pets): Large plush squeaky dog toys in elephant, bear & pig designs. Soft, safe & fun for medium-large dogs. Shop PawCentral South Africa.
-  Updated: 2026-08-07T17:17:48Z
+  Updated: 2026-08-29T20:18:44Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -70,7 +70,7 @@
     Availability: Available
     Price: R 350.00 ZAR
 - [Interactive Slow Feeder Dog Bowl – Puzzle Toy | PawCentral](https://pawcentral.co.za/products/interactive-slow-feeder-dog-bowl-puzzle-toy-for-pets): Slow feeder puzzle bowl for dogs & cats. Reduces bloat, improves digestion & provides mental stimulation. Multiple styles & colours. Shop PawCentral SA.
-  Updated: 2026-08-07T17:30:52Z
+  Updated: 2026-08-29T20:18:31Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -200,7 +200,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/05C6543C59D39FAB873BEE27E9DA3939.jpg?v=1786123820
     Price: R 420.00 ZAR
 - [Durable Rubber Dog Chew & Bounce Ball – 3 Sizes | PawCentral](https://pawcentral.co.za/products/durable-chewing-toy-ball-for-pets-rubber-bouncing-ball): Solid rubber dog ball for chewing & fetch. 3 sizes (5-7cm), 7 colours, non-toxic & durable. For dogs of all breeds. Shop PawCentral South Africa.
-  Updated: 2026-08-07T17:34:49Z
+  Updated: 2026-08-29T20:18:26Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -287,7 +287,7 @@
     Availability: Available
     Price: R 320.00 ZAR
 - [Interactive Tumbler Treat Ball for Dogs & Cats – IQ Feeder Toy | PawCentral](https://pawcentral.co.za/products/fun-dog-pet-toy-interactive-tumbler-treat-ball-for-pets): PVC tumbler treat ball for dogs & cats. Fill with treats for interactive play. Reduces boredom & slows eating. Shop PawCentral South Africa.
-  Updated: 2026-08-07T17:37:30Z
+  Updated: 2026-08-29T20:18:22Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -301,7 +301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3A7B31805D14D2D002C605255DC209FC.jpg?v=1786124141
     Price: R 280.00 ZAR
 - [3-in-1 Pet Dematting Comb – Unknotting & Deshedding | PawCentral](https://pawcentral.co.za/products/3in1-pets-hair-unknotting-comb-hair-device-cat-pet-products): 3-in-1 pet dematting comb for cats & dogs. Removes tangles, knots & loose hair. ABS & stainless steel, ergonomic grip. Shop PawCentral South Africa.
-  Updated: 2026-08-07T17:41:31Z
+  Updated: 2026-08-29T20:18:17Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -315,7 +315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/0F06082F9D9F47031702DC258FDC63CF.jpg?v=1786124434
     Price: R 400.00 ZAR
 - [Quick-Dry Microfiber Pet Bath Towel – Soft & Absorbent | PawCentral](https://pawcentral.co.za/products/pet-bath-towel-quick-drying-and-absorbent-for-dogs-and-cats-bath-towel-soft-and-quick-drying-pet-supplies): Ultra-absorbent microfiber pet towel for dogs & cats. 60x100cm & 70x100cm, soft, machine washable. Perfect for baths & outdoor use. Shop PawCentral SA.
-  Updated: 2026-08-07T17:44:37Z
+  Updated: 2026-08-29T20:18:12Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -337,7 +337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3EEEAED6DFA564FCC80E5A82AB660B8A.jpg?v=1786124674
     Price: R 299.00 ZAR
 - [Portable Pet Travel Water Bottle 300ml & 500ml | PawCentral](https://pawcentral.co.za/products/pet-travel-water-bottle-for-dogs-and-cats-portable-outdoor-drinking-cup-for-pets-convenient-for-walks-and-travel): Portable pet water bottle with built-in drinking trough. 300ml & 500ml, leak-proof, food-grade plastic. For dogs & cats on the go. Shop PawCentral SA.
-  Updated: 2026-08-07T17:48:05Z
+  Updated: 2026-08-29T20:18:08Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -367,7 +367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/1D5365ECBE8EA6AB98A4EA8617907CF5.jpg?v=1786124881
     Price: R 299.00 ZAR
 - [Plush Non-Slip Pet Mat & Bed – 60x80cm & 80x90cm | PawCentral](https://pawcentral.co.za/products/plush-thick-non-slip-sofa-pet-mat-dog-bed-pet-pad-for-cats-and-dogs): Thick plush non-slip pet mat for dogs & cats. Two sizes, 3 colours, stays put on all floors. Soft & supportive. Shop PawCentral South Africa.
-  Updated: 2026-08-07T17:52:45Z
+  Updated: 2026-08-29T20:18:03Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -397,7 +397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/DF31A5E001677A73F5C4718001D1E08F.jpg?v=1786125164
     Price: R 550.00 ZAR
 - [Plush Squeaky Pet Toys – Fruit & Vegetable Shapes | PawCentral](https://pawcentral.co.za/products/pet-plush-sound-toys-fruits-and-vegetables-dogs-and-cats-educational-toys-supplies-cactus-corn-eggplant): Squeaky plush pet toys in cactus, corn & eggplant shapes. Double-layer nylon, PP cotton fill, embroidered detail. For dogs & cats. Shop PawCentral SA.
-  Updated: 2026-08-07T18:06:52Z
+  Updated: 2026-08-29T20:17:59Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -427,14 +427,14 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/69CC431D6CA9A8D46C6300FB4FDE6CBF__E4_B8_BB_E5_9B_BE-06.jpg?v=1786126011
     Price: R 249.00 ZAR
 - [Wooden Pet Nail Scratcher Board – Natural Nail Filing | PawCentral](https://pawcentral.co.za/products/wooden-retractable-pet-nail-scratcher-and-grooming-board-for-cats-and-dogs): Wooden pet nail scratcher board for cats & dogs. Natural nail filing through scratching. No clippers needed. Enrichment toy. Shop PawCentral SA.
-  Updated: 2026-08-07T18:09:22Z
+  Updated: 2026-08-29T20:17:54Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/0EAEA2ECCDF3EE455BF13271DBEA68B0.jpg?v=1786126035
   Price: R 400.00 ZAR
 - [Silicone Pet Bath Massage Glove – Grooming Brush | PawCentral](https://pawcentral.co.za/products/bathroom-puppy-big-dog-cat-bath-massage-gloves-brush-soft-safety-silicone-pet-accessories-for-dogs-cats-tools-mascotas-products): Soft silicone pet grooming glove for bath & dry brushing. Massages skin, removes loose hair. For dogs & cats. Shop PawCentral South Africa.
-  Updated: 2026-08-07T18:15:58Z
+  Updated: 2026-08-29T20:17:49Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -452,7 +452,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/822F185422E5323C136D21EB048CAAE2.jpg?v=1786126557
     Price: R 240.00 ZAR
 - [Stainless Steel Non-Slip Pet Bowl – Food & Water Feeder | PawCentral](https://pawcentral.co.za/products/durable-pet-dog-bowl-stainless-steel-non-slip-drinking-feeding-dual-use-food-feeder-for-small-medium-dogs-cats-pet-accessories): Durable stainless steel pet bowl with rubber non-slip base. For dry food, wet food & water. Safe for dogs & cats. Shop PawCentral South Africa.
-  Updated: 2026-08-07T18:19:51Z
+  Updated: 2026-08-29T20:17:44Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -470,7 +470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/47E69B9B3DB2D8A099126C3916F83598.jpg?v=1786126790
     Price: R 256.00 ZAR
 - [Electric Steam Pet Grooming Comb – Mist Hair Removal | PawCentral](https://pawcentral.co.za/products/upgraded-pet-electric-grooming-comb-steam-hair-removal-cleaning-set-styling-accessories-for-dogs-cats): Electric grooming comb with steam mist for dogs & cats. Stainless steel pins, 28ml reservoir, USB rechargeable. Detangles & softens fur. PawCentral SA.
-  Updated: 2026-08-07T18:24:18Z
+  Updated: 2026-08-29T20:17:40Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -488,7 +488,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5CBD6EBB7BBA3AAC33C10F3F9B62B311.jpg?v=1786126866
     Price: R 350.00 ZAR
 - [Starfish Dog Molar Chew Toy – Squeaky TPR Dental Toy | PawCentral](https://pawcentral.co.za/products/dog-toys-dogs-accessories-toys-for-dogs-starfishs-shape-dog-molar-stick-durable-healthy-toothbrush-biting-toy-pet-supplies-): Durable starfish-shaped dog chew toy with squeaker. TPR material cleans teeth & massages gums. For small-medium dogs. Shop PawCentral South Africa.
-  Updated: 2026-08-07T18:31:58Z
+  Updated: 2026-08-29T20:17:35Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -506,7 +506,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/H99311c0b137f41738466ef8a5e85f3a33_67450848-c200-4e8c-88e2-b76fc9be20cc.webp?v=1786127514
     Price: R 350.00 ZAR
 - [Remote Dog Training Collar 1000ft – Waterproof E-Collar | PawCentral](https://pawcentral.co.za/products/1000ft-range-dog-training-collar-waterproof-electric-shock-vibration-sound-dogs-bark-collar-for-small-medium-large-dogs-trainer): Waterproof remote dog training collar with 1000ft range. Beep, vibration & static modes. 5 intensity levels. For small, medium & large dogs. PawCentral SA.
-  Updated: 2026-08-07T18:35:18Z
+  Updated: 2026-08-29T20:17:31Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -520,7 +520,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/1B3C5350D6E746ECA48FC88291477AD7.jpg?v=1786127717
     Price: R 700.00 ZAR
 - [Reflective Dog Leash 150cm with Waste Bag Dispenser | PawCentral](https://pawcentral.co.za/products/reflective-pet-leash-medium-and-large-dogs-small-dogs-rope-dog-leash-golden-hair-satsuma-garbage-bag-traction-belt): Reflective nylon dog leash 150cm with built-in waste bag dispenser. Thick, durable & stylish. For all dog sizes. Shop PawCentral South Africa.
-  Updated: 2026-08-07T18:39:40Z
+  Updated: 2026-08-29T20:17:25Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -542,7 +542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/367B59047245956DA23C0B49D4E9B35F.jpg?v=1786127897
     Price: R 299.00 ZAR
 - [Flat Nylon Dog Leash – M & L Width for All Dog Sizes | PawCentral](https://pawcentral.co.za/products/pet-supplies-original-rope-flat-rope-walking-dog-medium-and-large-dogs-small-dogs-light-big-dog-traction-leash): Durable flat rope nylon dog leash in M & L widths. Fixed length, comfortable grip, suits small to large dogs. Shop PawCentral South Africa.
-  Updated: 2026-08-07T18:44:21Z
+  Updated: 2026-08-29T20:17:20Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -595,142 +595,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/73C9EDF9BF7CC4DDDF9B4DF7B9BE0469.jpg?v=1786128134
     Price: R 320.00 ZAR
-- [Waterproof Dog Jacket – Winter Coat for Dogs | PawCentral](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes): Waterproof polyester dog jacket with zipper. Keeps dogs warm & dry in autumn & winter. Fits small, medium & large dogs. Shop PawCentral South Africa.
-  Updated: 2026-08-07T18:48:42Z
-  Vendor: eprolo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5BE01D18CF9B1E185B824DD16B6D9A19.jpg?v=1786128283
-  - [Red / S](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016064311)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/B36D305BB0A4C9A7A5195978AA59CA69.jpg?v=1786128440
-    Price: R 400.00 ZAR
-  - [Red / M](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016097079)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/B36D305BB0A4C9A7A5195978AA59CA69.jpg?v=1786128440
-    Price: R 400.00 ZAR
-  - [Red / L](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016129847)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/B36D305BB0A4C9A7A5195978AA59CA69.jpg?v=1786128440
-    Price: R 400.00 ZAR
-  - [Red / XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016162615)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/B36D305BB0A4C9A7A5195978AA59CA69.jpg?v=1786128440
-    Price: R 400.00 ZAR
-  - [Red / XXL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016195383)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/B36D305BB0A4C9A7A5195978AA59CA69.jpg?v=1786128440
-    Price: R 400.00 ZAR
-  - [Red / XXXL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016228151)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/B36D305BB0A4C9A7A5195978AA59CA69.jpg?v=1786128440
-    Price: R 400.00 ZAR
-  - [Red / 4XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016260919)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/B36D305BB0A4C9A7A5195978AA59CA69.jpg?v=1786128440
-    Price: R 400.00 ZAR
-  - [Red / 5XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016293687)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/B36D305BB0A4C9A7A5195978AA59CA69.jpg?v=1786128440
-    Price: R 400.00 ZAR
-  - [Blue / S](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016326455)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3219F4796BEA054284623F9E16FCF4F2.jpg?v=1786128466
-    Price: R 400.00 ZAR
-  - [Blue / M](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016359223)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3219F4796BEA054284623F9E16FCF4F2.jpg?v=1786128466
-    Price: R 400.00 ZAR
-  - [Blue / L](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016391991)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3219F4796BEA054284623F9E16FCF4F2.jpg?v=1786128466
-    Price: R 400.00 ZAR
-  - [Blue / XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016424759)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3219F4796BEA054284623F9E16FCF4F2.jpg?v=1786128466
-    Price: R 400.00 ZAR
-  - [Blue / XXL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016457527)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3219F4796BEA054284623F9E16FCF4F2.jpg?v=1786128466
-    Price: R 400.00 ZAR
-  - [Blue / XXXL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016490295)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3219F4796BEA054284623F9E16FCF4F2.jpg?v=1786128466
-    Price: R 400.00 ZAR
-  - [Blue / 4XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016523063)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3219F4796BEA054284623F9E16FCF4F2.jpg?v=1786128466
-    Price: R 400.00 ZAR
-  - [Blue / 5XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016555831)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/3219F4796BEA054284623F9E16FCF4F2.jpg?v=1786128466
-    Price: R 400.00 ZAR
-  - [Pink / S](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016588599)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/30E57696A9B87BE043C7B89EE1B98C1C.jpg?v=1786128492
-    Price: R 400.00 ZAR
-  - [Pink / M](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016621367)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/30E57696A9B87BE043C7B89EE1B98C1C.jpg?v=1786128492
-    Price: R 400.00 ZAR
-  - [Pink / L](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016654135)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/30E57696A9B87BE043C7B89EE1B98C1C.jpg?v=1786128492
-    Price: R 400.00 ZAR
-  - [Pink / XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016686903)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/30E57696A9B87BE043C7B89EE1B98C1C.jpg?v=1786128492
-    Price: R 400.00 ZAR
-  - [Pink / XXL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016719671)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/30E57696A9B87BE043C7B89EE1B98C1C.jpg?v=1786128492
-    Price: R 400.00 ZAR
-  - [Pink / XXXL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016752439)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/30E57696A9B87BE043C7B89EE1B98C1C.jpg?v=1786128492
-    Price: R 400.00 ZAR
-  - [Pink / 4XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016785207)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/30E57696A9B87BE043C7B89EE1B98C1C.jpg?v=1786128492
-    Price: R 400.00 ZAR
-  - [Pink / 5XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016817975)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/30E57696A9B87BE043C7B89EE1B98C1C.jpg?v=1786128492
-    Price: R 400.00 ZAR
-  - [Bright Green / S](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016850743)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5A1CB026326F2B852521836CBA7078CF.jpg?v=1786128518
-    Price: R 400.00 ZAR
-  - [Bright Green / M](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016883511)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5A1CB026326F2B852521836CBA7078CF.jpg?v=1786128518
-    Price: R 400.00 ZAR
-  - [Bright Green / L](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016916279)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5A1CB026326F2B852521836CBA7078CF.jpg?v=1786128518
-    Price: R 400.00 ZAR
-  - [Bright Green / XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016949047)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5A1CB026326F2B852521836CBA7078CF.jpg?v=1786128518
-    Price: R 400.00 ZAR
-  - [Bright Green / XXL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701016981815)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5A1CB026326F2B852521836CBA7078CF.jpg?v=1786128518
-    Price: R 400.00 ZAR
-  - [Bright Green / XXXL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701017014583)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5A1CB026326F2B852521836CBA7078CF.jpg?v=1786128518
-    Price: R 400.00 ZAR
-  - [Bright Green / 4XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701017047351)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5A1CB026326F2B852521836CBA7078CF.jpg?v=1786128518
-    Price: R 400.00 ZAR
-  - [Bright Green / 5XL](https://pawcentral.co.za/products/zipper-jacket-coat-for-small-medium-large-dogs-waterproof-dog-clothes?variant=52701017080119)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/5A1CB026326F2B852521836CBA7078CF.jpg?v=1786128518
-    Price: R 400.00 ZAR
 - [Retractable Dog Leash 5M & 8M – Medium & Large Dogs | PawCentral](https://pawcentral.co.za/products/automatic-retractable-pet-leash-dog-leash-medium-and-large-dogs-available): Automatic retractable dog leash in 5M & 8M. ABS & nylon, one-button lock, tangle-free. For medium & large dogs. Shop PawCentral South Africa.
-  Updated: 2026-08-07T18:55:57Z
+  Updated: 2026-08-29T20:17:16Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -864,7 +730,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/CB37FDBA1B671C8FA67DD75323B4FD85.jpg?v=1786128624
     Price: R 550.00 ZAR
 - [Foldable Pet Car Seat Booster Bed – Travel Carrier | PawCentral](https://pawcentral.co.za/products/foldable-pet-car-seat-hammock-for-dogs-and-cats-safe-travel-carrier): Portable pet car seat booster for cats & small dogs. Plush interior, foam base, foldable with storage bag. Sizes S & L. Shop PawCentral South Africa.
-  Updated: 2026-08-07T19:00:22Z
+  Updated: 2026-08-29T20:17:11Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -902,7 +768,7 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/ABAD4BC72F6C91BADE6DA4FE6E0DC148.jpg?v=1786128981
     Price: R 750.00 ZAR
 - [Breathable All-Season Pet Bed for Cats & Dogs | PawCentral](https://pawcentral.co.za/products/pet-marching-bed-for-dogs-and-cats-suitable-for-all-seasons): Lightweight breathable pet bed for cats & dogs. Comfortable all year round, easy to move & maintain. Shop PawCentral South Africa.
-  Updated: 2026-08-07T19:06:25Z
+  Updated: 2026-08-29T20:17:06Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -948,21 +814,21 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/7FEA4EA5DA54D59A37A77CCE41D4F24E.jpg?v=1786129582
     Price: R 1,400.00 ZAR
 - [Stainless Steel Pet Flea Comb – Detangling & Delousing | PawCentral](https://pawcentral.co.za/products/pet-flea-combs-are-available-for-delousing-and-flea-removal-for-cats-and-dogs): 3-in-1 stainless steel flea comb for cats & dogs. Removes fleas, loose hair & tangles. Durable, easy to clean. Shop PawCentral South Africa.
-  Updated: 2026-08-07T19:08:45Z
+  Updated: 2026-08-29T20:17:01Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/21253B167A232F59857A5363F3118741.jpg?v=1786129608
   Price: R 320.00 ZAR
 - [Pet Grooming Glove – Hair Removal & Massage Brush | PawCentral](https://pawcentral.co.za/products/pet-gloves-for-grooming-cats-bathing-pets-brushing-cats-and-dogs-hair-removal-and-massage-glove): Silicone pet grooming glove for dogs & cats. Removes loose hair, massages skin & works wet or dry. Easy to clean. Shop PawCentral South Africa.
-  Updated: 2026-08-07T19:10:59Z
+  Updated: 2026-08-29T20:16:56Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/C241AD572B921723495694594F114A80.jpg?v=1786129746
   Price: R 350.00 ZAR
 - [Pet Grooming Hammock & Nail Trimming Kit – Cats & Dogs | PawCentral](https://pawcentral.co.za/products/pet-grooming-hammock-cats-and-dogs-nail-trimming-small-and-medium-size-cats-and-dogs-pet-supplies): Complete pet grooming hammock kit with nail clippers, file & comb. Keeps pets calm during nail trims. For cats & small-medium dogs. Shop PawCentral SA.
-  Updated: 2026-08-07T19:14:53Z
+  Updated: 2026-08-29T20:16:53Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -1040,196 +906,196 @@
     Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/15CDB02FCCF24D0DE71C4A409B6C03B8.jpg?v=1786130089
     Price: R 450.00 ZAR
 - [Pet Grooming Soap – Anti-Mite, Itch Relief & Coat Care | PawCentral](https://pawcentral.co.za/products/pet-soap-relieve-itchy-skin-for-cats-and-dogs-smooth-hair-care-anti-mite-cleaning-soap-for-pets): Gentle pet soap with coconut oil & glycerin. Relieves itchy skin, fights mites & bacteria. Leaves coats soft & clean. For dogs & cats. Shop PawCentral SA.
-  Updated: 2026-08-07T19:25:51Z
+  Updated: 2026-08-29T20:16:48Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/4F49AA14EBA6C7B52E6AFC430C03064C.jpg?v=1786130571
   Price: R 450.00 ZAR
 - [Pet Tooth Cleaning Spray – Fresh Breath & Plaque Control | PawCentral](https://pawcentral.co.za/products/tooth-cleaning-spray-for-cats-and-dogs-remove-tooth-stains-fresh-breath-pets-oral-care-spray): No-brush pet oral care spray with gallnut, menthol & propolis. Fights bad breath, plaque & gum disease in dogs & cats. 30ml. Shop at PawCentral SA.
-  Updated: 2026-08-07T19:29:24Z
+  Updated: 2026-08-29T20:16:42Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/456D8523B05256566665E14E72E9C53E.jpg?v=1786130774
   Price: R 450.00 ZAR
 - [Foldable Pet Bowl | Collapsible Travel Bowl for Dogs & Cats | PawCentral](https://pawcentral.co.za/products/foldable-pet-bowl): Foldable silicone pet bowl for dogs and cats. BPA-free, lightweight, and perfect for travel, walks, and hikes. Easy to clean. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:16:37Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202202032252garden-outdoor-foldable-pet-bowl-perfect-dealz-21519112044727.jpg?v=1786130983
   Price: R 249.00 ZAR
 - [5-in-1 Pet Walking Unit | All-in-One Dog Walking Accessories | PawCentral](https://pawcentral.co.za/products/5-pet-essentials-all-in-one-walking-unit): 5-in-1 all-in-one pet walking unit with retractable leash, waste bag dispenser, and more. Compact and lightweight. Shop dog walking gear at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:16:33Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202112020313s-pdpxl--70.jpg?v=1786131059
   Price: R 299.00 ZAR
 - [Pet Grooming Brush for Dogs & Cats | Daily Coat Care | PawCentral](https://pawcentral.co.za/products/pet-grooming-brush): Soft-bristle pet grooming brush for dogs and cats. Removes loose fur and distributes coat oils. Ergonomic handle. Shop grooming tools at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:16:29Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/20220111215455357465-1-zoom-425x425.jpg?v=1784960061
   Price: R 350.00 ZAR
 - [Portable Pet Playpen Medium | Dog & Cat Enclosure | PawCentral](https://pawcentral.co.za/products/portable-dog-cat-playpen-medium): Medium portable pet playpen for dogs and cats. Foldable, ventilated mesh panels, secure door. Ideal for indoor and outdoor use. Shop at PawCentral.
-  Updated: 2026-08-07T19:33:55Z
+  Updated: 2026-08-29T20:16:24Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202202080922garden-outdoor-portable-dog-cat-playpen-perfect-dealz-30602202218679.jpg?v=1786131232
   Price: R 849.00 ZAR
 - [Ultrasonic Dog Chaser | Dog Repeller & Training Device | PawCentral](https://pawcentral.co.za/products/ultrasonic-dog-chaser): Ultrasonic dog chaser and repeller. Safe, humane, and effective against aggressive dogs. Compact pocket size with LED light. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:26Z
+  Updated: 2026-08-29T20:16:20Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202202080834garden-outdoor-ultrasonic-dog-chaser-perfect-dealz-30618960134327.jpg?v=1786131257
   Price: R 269.00 ZAR
 - [Pet Car Back Seat Cover | Waterproof Dog Car Seat Protector | PawCentral](https://pawcentral.co.za/products/pet-car-back-seat-cover): Waterproof pet car back seat cover with non-slip backing and side flaps. Protects against fur, dirt, and scratches. Fits most cars. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:26Z
+  Updated: 2026-08-29T20:16:16Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202202051957r-pet-car-alz-3863491608610.png?v=1786131282
   Price: R 449.00 ZAR
 - [Aqua Dog Water Bottle | Portable Dog Water Bottle with Trough | PawCentral](https://pawcentral.co.za/products/aqua-dog-water-bottle): Portable dog water bottle with built-in drinking trough. Leak-proof, BPA-free, one-handed use. Perfect for walks and hikes. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:26Z
+  Updated: 2026-08-29T20:16:12Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202202062254garden-outdoor-aqua-dog-water-bottle-perfect-dealz-4087278010402.png?v=1786131433
   Price: R 199.00 ZAR
 - [Portable Pet Playpen Large | Dog & Cat Enclosure | PawCentral](https://pawcentral.co.za/products/portable-dog-cat-playpen-large): Large portable pet playpen for dogs and cats. Foldable, ventilated mesh panels, secure door. Ideal for indoor and outdoor use. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:16:07Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202202041939garden-outdoor-portable-dog-cat-playpen-perfect-dealz-30602202218679.jpg?v=1786131497
   Price: R 849.00 ZAR
 - [Pet Dryer for Dogs | Gentle Warm Air Dog Hair Dryer | PawCentral](https://pawcentral.co.za/products/dryer): Gentle pet dryer for dogs with low noise and warm airflow. Multiple heat and speed settings. Suitable for all coat types. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:15:22Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202206042226Dog-Dryer.jpg?v=1786131524
   Price: R 349.00 ZAR
 - [2 in 1 Retractable Dog Leash & Collar | PawCentral](https://pawcentral.co.za/products/2-in-1-retractable-leash-collar): 2-in-1 retractable leash and collar for dogs. Adjustable fit, one-handed lock, comfortable grip. Ideal for small to medium dogs. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:26Z
+  Updated: 2026-08-29T20:15:18Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202206042224Retractable-collar-Leash-2-in1--1.jpg?v=1786131548
   Price: R 249.00 ZAR
 - [Collapsible Pet Bowl for Food & Water | Travel Dog & Cat Bowl | PawCentral](https://pawcentral.co.za/products/collapsible-pet-bowl-for-food-and-water): Foldable silicone pet bowl for food and water. BPA-free, lightweight, and perfect for travel, hiking, and outings. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:31Z
+  Updated: 2026-08-29T20:15:12Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202206042145Collapsible-Pet-Bowl-for-Food-and-Water-2.jpg?v=1786131572
   Price: R 399.00 ZAR
 - [Pet Toothbrush for Dogs & Cats | Dental Care | PawCentral](https://pawcentral.co.za/products/pet-toothbrush): Soft-bristle pet toothbrush for dogs and cats. Prevents plaque, tartar, and bad breath. Easy to use and clean. Shop dental care at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:15:08Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202206021732Dog-Toothbrush-Rubber-Molar-Rod-Pet-Dog-Cat-Cleaning-Tartar-Clean-Supplies-Bad-Breath-Dental-Care.webpp.jpg?v=1786131600
   Price: R 199.00 ZAR
 - [Smart Bluetooth Pet Tracker Tag Pink | Anti-Lost Alarm | PawCentral](https://pawcentral.co.za/products/smart-tag-wireless-bluetooth-tracker-and-locator-anti-lost-alarm-pink): Wireless Bluetooth smart tag for pets. Anti-lost alarm, two-way locating, iOS and Android compatible. Lightweight collar attachment. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:28Z
+  Updated: 2026-08-29T20:15:04Z
   Vendor: PawCentral
   Product Type: Tracker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202205100745Tracker-Tag-Pink.jpg?v=1786131627
   Price: R 249.00 ZAR
 - [Rechargeable Automatic Tennis Ball Launcher for Dogs | PawCentral](https://pawcentral.co.za/products/rechargeable-automatic-tennis-ball-launcher-for-pets): Automatic rechargeable tennis ball launcher for dogs. Adjustable distance, auto-rest mode, indoor and outdoor use. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:14:59Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202601130542Screenshot_56.jpg?v=1786131654
   Price: R 1,699.00 ZAR
 - [Seresto Flea & Tick Collar for Small Dogs Under 8kg | PawCentral](https://pawcentral.co.za/products/seresto-collar-for-dogs-8kg): Seresto collar for dogs under 8kg. 8 months of flea and tick protection. Odourless, water-resistant, and vet-recommended. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:26Z
+  Updated: 2026-08-29T20:14:54Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202512180917Screenshot_17.jpg?v=1786131810
   Price: R 949.00 ZAR
 - [Stainless Steel Pet Bowl 23CM | Dog & Cat Food Bowl | PawCentral](https://pawcentral.co.za/products/stainless-steel-pet-bowl-23cm): 23CM food-grade stainless steel pet bowl with non-slip base. Rust-resistant, dishwasher safe. Suitable for dogs and cats. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:14:35Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202508140918Screenshot_40.jpg?v=1786131835
   Price: R 299.00 ZAR
 - [6pcs Pet Lint Hair Remover Kit | Dog & Cat Hair Removal | PawCentral](https://pawcentral.co.za/products/6pcs-pet-lint-hair-remover-kit): 6-piece reusable pet lint and hair remover kit for clothing, furniture, and carpets. Works on all fabrics. No refills needed. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:28Z
+  Updated: 2026-08-29T20:14:31Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202509220807Screenshot_75.jpg?v=1786131859
   Price: R 299.00 ZAR
 - [Pet Intelligent Water Dispenser 3.2L | Dog & Cat Water Fountain | PawCentral](https://pawcentral.co.za/products/pet-intelligent-water-dispenser-3-2l): 3.2L intelligent pet water dispenser with multi-stage filtration and quiet motor. Keeps dogs and cats hydrated. Easy to clean. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:26Z
+  Updated: 2026-08-29T20:14:27Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202505230906Screenshot_104.jpg?v=1786131993
   Price: R 1,299.00 ZAR
 - [Self-Cleaning Pet Comb with Mist Humidifier for Dogs & Cats | PawCentral](https://pawcentral.co.za/products/dog-cat-comb-self-cleaning-pets-hair-remover-brush-with-comb-built-in-mist-humidifier): Self-cleaning grooming comb with built-in mist humidifier for dogs and cats. Detangles, hydrates, and removes loose fur. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:32Z
+  Updated: 2026-08-29T20:14:23Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202504230644Screenshot_32.jpg?v=1786132174
   Price: R 699.00 ZAR
 - [3.2L Stainless Steel Cat Water Fountain with Water Level Window | PawCentral](https://pawcentral.co.za/products/3-2l-stainless-cat-water-fountain-with-water-level-window): 3.2L stainless cat water fountain with water level window and multi-layer filtration. Quiet pump. Encourages healthy hydration. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:14:19Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202505230803Screenshot_91.jpg?v=1786132369
   Price: R 1,149.00 ZAR
 - [Automatic 360° Pet Rolling Ball Blue | Interactive Cat & Dog Toy | PawCentral](https://pawcentral.co.za/products/usb-charging-automatic-360-degree-automatic-pet-rolling-ball-for-puppy-cats-kitten-blue): USB rechargeable automatic rolling ball toy for cats and dogs. 360° random movement, auto-obstacle detection. Keeps pets active and entertained.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:14:15Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202403280903Screenshot_16.jpg?v=1786132530
   Price: R 349.00 ZAR
 - [Automatic 360° Pet Rolling Ball Pink | Interactive Cat & Dog Toy | PawCentral](https://pawcentral.co.za/products/usb-charging-automatic-360-degree-automatic-pet-rolling-ball-for-puppy-cats-kitten-pink): USB rechargeable automatic rolling ball toy for cats and dogs. 360° random movement, auto-obstacle detection. Keeps pets active and entertained.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:12:31Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202403280905Screenshot_11_62f0893b-6ad3-48d3-b95f-0334834093e8.jpg?v=1786132684
+  Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202403280905Screenshot_11_62f0893b-6ad3-48d3-b95f-0334834093e8.jpg?v=1788034348
   Price: R 349.00 ZAR
 - [Dematting Comb & Grooming Tool for Cats & Dogs | PawCentral](https://pawcentral.co.za/products/dematting-comb-grooming-tool-for-cats-dogs): Dual-sided dematting comb for dogs and cats. Removes knots, mats, and loose fur gently. Ergonomic handle. Shop grooming tools at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:14:11Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202305230948pet-comb.jpg?v=1786132842
   Price: R 199.00 ZAR
 - [Fur Pet Hair Remover | Remove Dog & Cat Hair Easily | PawCentral](https://pawcentral.co.za/products/fur-pet-hair-remover): Reusable pet hair remover for furniture, clothing, and car seats. Works on dogs and cats. No batteries or refills needed. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:28Z
+  Updated: 2026-08-29T20:14:07Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202309050449Screenshot-2023-09-05-124652.png?v=1786132870
   Price: R 349.00 ZAR
 - [LickiMat Mini Soother Dog Feeder - Turquoise | PawCentral](https://pawcentral.co.za/products/lickimat-mini-soother-dog-feeder-turquoise): Slow-feeder lick mat for dogs. Reduces anxiety, promotes calm eating, and supports digestion. Food-safe and dishwasher safe. Shop at PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:14:04Z
   Vendor: PawCentral
   Product Type: ZADropship
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/1892/2551/files/202607030640Screenshot-2026-07-03-at-2.35.08_E2_80_AFAM.png?v=1786132924
   Price: R 299.00 ZAR
 - [Portable Dog Water Bottle | On-the-Go Hydration | PawCentral](https://pawcentral.co.za/products/portable-water-bottle-for-dogs-going-out): Leak-proof 285ml stainless steel dog water bottle for walks, hikes & travel. One-handed use, zero spill design. Shop PawCentral.
-  Updated: 2026-08-20T17:20:27Z
+  Updated: 2026-08-29T20:13:59Z
   Vendor: eprolo
   Product Type: Pet Accessories
   Availability: Available
@@ -1254,34 +1120,34 @@
 ## Collections
 
 - [Home page](https://pawcentral.co.za/collections/frontpage): - PawCentral
-  Updated: 2026-08-07T06:05:44Z
+  Updated: 2026-08-29T20:18:00Z
   Total Products: 9
 - [Home](https://pawcentral.co.za/collections/home): - PawCentral
-  Updated: 2026-08-07T06:05:44Z
+  Updated: 2026-08-29T20:17:55Z
   Total Products: 9
 - [Pet Supplies](https://pawcentral.co.za/collections/pet-supplies): - PawCentral
-  Updated: 2026-08-10T14:38:19Z
+  Updated: 2026-08-29T20:16:38Z
   Total Products: 12
 - [Hot Sellers](https://pawcentral.co.za/collections/hot-sellers): - PawCentral
-  Updated: 2026-08-07T06:05:45Z
-  Total Products: 10
+  Updated: 2026-08-29T20:18:00Z
+  Total Products: 9
 - [Grooming](https://pawcentral.co.za/collections/grooming): Keep your pet looking and feeling their best with our premium grooming tools. From self-cleaning combs and deshedding brushes to bath gloves and nail care kits — everything you need for a happy, healthy coat. - PawCentral
-  Updated: 2026-08-07T06:05:45Z
+  Updated: 2026-08-29T20:18:55Z
   Total Products: 18
 - [Beds](https://pawcentral.co.za/collections/beds): Give your pet the rest they deserve. Our range of pet beds includes plush mats, fleece beds, sofa cushion covers and car seat boosters — cosy options for every size and sleeping style. - PawCentral
-  Updated: 2026-08-07T06:05:46Z
+  Updated: 2026-08-29T20:17:17Z
   Total Products: 16
 - [Toys](https://pawcentral.co.za/collections/toys): Keep your pet entertained and mentally stimulated with our range of fun toys. From squeaky plush toys and chew balls to interactive treat dispensers and automatic rolling balls — playtime sorted. - PawCentral
-  Updated: 2026-08-07T06:05:46Z
+  Updated: 2026-08-29T20:18:46Z
   Total Products: 11
 - [Feeding](https://pawcentral.co.za/collections/feeding): Keep your pet well-fed and hydrated with our range of feeding essentials. From slow feeder bowls and automatic feeders to water fountains and collapsible travel bowls — mealtime made easy. - PawCentral
-  Updated: 2026-08-07T06:05:46Z
+  Updated: 2026-08-29T20:17:46Z
   Total Products: 12
 - [Travel](https://pawcentral.co.za/collections/travel): Adventure awaits — bring your pet along for the ride. Our travel essentials include leashes, harnesses, car seat covers, portable water bottles, pet jackets and GPS trackers to keep your pet safe and comfortable on the go. - PawCentral
-  Updated: 2026-08-07T06:05:47Z
+  Updated: 2026-08-29T20:17:26Z
   Total Products: 11
 - [Wellness](https://pawcentral.co.za/collections/wellness): Support your pet's health from the inside out. Our wellness range includes multivitamins, dental care, flea collars, training aids and more — because a healthy pet is a happy pet. - PawCentral
-  Updated: 2026-08-07T06:05:47Z
+  Updated: 2026-08-29T20:17:37Z
   Total Products: 8
 
 ## Blogs
@@ -1485,19 +1351,29 @@
   - [10 Easy Ways to Keep Your Pet Healthy and Happy](https://pawcentral.co.za/blogs/news/10-easy-ways-to-keep-your-pet-healthy-and-happy): 10 Easy Ways to Keep Your Pet Healthy and Happy
     Updated: 2026-08-21T10:58:56Z
     Author: PawCentral
+  - [Understanding Your Pet's Body Language](https://pawcentral.co.za/blogs/news/understanding-your-pets-body-language): Understanding Your Pet's Body Language
+    Updated: 2026-08-22T01:28:31Z
+    Author: PawCentral
+  - [How to Create a Safe and Comfortable Space for Your New Puppy](https://pawcentral.co.za/blogs/news/how-to-create-a-safe-and-comfortable-space-for-your-new-puppy): How to Create a Safe and Comfortable Space for Your New Puppy
+    Updated: 2026-08-24T02:51:18Z
+    Author: PawCentral
+  - [The Ultimate Checklist for Pet-Proofing Your Home](https://pawcentral.co.za/blogs/news/the-ultimate-checklist-for-pet-proofing-your-home): The Ultimate Checklist for Pet-Proofing Your Home
+    Updated: 2026-08-26T02:32:27Z
+    Author: PawCentral
+  - [Common Pet Health Issues and How to Address Them](https://pawcentral.co.za/blogs/news/common-pet-health-issues-and-how-to-address-them): Common Pet Health Issues and How to Address Them
+    Updated: 2026-08-29T01:03:24Z
+    Author: PawCentral
 
 ## Store Pages
 
-- [Contact](https://pawcentral.co.za/pages/contact)
-  Updated: 2026-06-25T13:38:58Z
+- [Contact](https://pawcentral.co.za/pages/contact): Get in TouchWe'd love to hear from you! Reach out to us using any of the details below. Business Name: PawCentral Registration Number: 2026/507669/...
+  Updated: 2026-08-25T18:17:49Z
 - [FAQ](https://pawcentral.co.za/pages/faq): Frequently Asked Questions What payment methods do you accept? We accept payments via PayFast, which supports major South African payment options i...
   Updated: 2026-07-14T14:09:58Z
 - [About PawCentral | South Africa's Pet Store](https://pawcentral.co.za/pages/about-us): About PawCentralWelcome to PawCentral — South Africa's dedicated online pet store, proudly operated by PawCentral (Pty) Ltd (Reg No: 2026/507669/07...
   Updated: 2026-07-04T13:44:58Z
 - [Search Results](https://pawcentral.co.za/pages/search-results): Search requires JavaScript.
   Updated: 2026-07-01T21:34:10Z
-- [About PawCentral | South Africa's Pet Store](https://pawcentral.co.za/pages/about-pawcentral): About PawCentralWelcome to PawCentral — South Africa's dedicated online pet store, proudly operated by PawCentral (Pty) Ltd (Reg No: 2026/507669/07...
-  Updated: 2026-07-04T14:29:05Z
 - [Your Privacy Choices](https://pawcentral.co.za/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-07-09T05:43:49Z
 
