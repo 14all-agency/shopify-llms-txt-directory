@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-28T19:48:55Z
 - Contact Email: info@brewtheblend.com
-- Updated At: 2026-08-18T00:00:29.051Z
+- Updated At: 2026-08-30T04:11:10.748Z
 
 ## Products
 
@@ -262,7 +262,7 @@
     Availability: Available
     Price: $94.00 USD
 - [Enjoy Bourbon Amber Coffee | A Unique Brew Just for You!](https://www.brewtheblend.com/products/bourbon-amber): Get the rich, smooth taste of barrel and bean coffee. Our whiskey barrel-aged Guatemalan coffee delivers a delightful whiskey flavor in every sip. Order now!
-  Updated: 2026-08-07T05:12:25Z
+  Updated: 2026-08-30T03:34:13Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -344,7 +344,7 @@
     Availability: Available
     Price: $94.00 USD
 - [Get Delicious Cinnamon Hazelnut Coffee | Hazarella Perfect at any Time](https://www.brewtheblend.com/products/hazarella): Hazarella (Cinnamon Hazelnut) is a delightful way to add warmth to your day, perfect for those who enjoy a cinnamon, spiced, nutty flavor in their coffee.
-  Updated: 2026-07-29T22:40:42Z
+  Updated: 2026-08-30T03:32:10Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
@@ -453,18 +453,18 @@
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Mango_Wink_Kraft.jpg?v=1769753998
   Price: $18.00 USD
 - [Buy Authentic Masala Chai Tea | Spiced & Flavorful Blend](https://www.brewtheblend.com/products/sassy-chai): Looking for the best masala chai tea? Get rich, aromatic flavors delivered to your door—no need to search for masala chai near me. Order now!
-  Updated: 2026-07-30T02:07:16Z
+  Updated: 2026-08-30T03:31:46Z
   Vendor: BREW THE BLEND
   Product Type: TEA
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sassy_Charm_Chai_-_New.webp?v=1784785795
   Price: $18.00 USD
 - [Get Brazilian Coffee | Brew the Best with Brazela](https://www.brewtheblend.com/products/brazela): Brazela is a medium roast from Brazil’s highland farms, offering a smooth, toasted flavor with gentle complexity and an easy, balanced finish. Born of Brazil’s Soil. Brewed for Any Moment.
-  Updated: 2026-08-07T05:15:56Z
+  Updated: 2026-08-30T03:18:59Z
   Vendor: BREW THE BLEND
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brazela.webp?v=1782965412
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Brazela-_1.webp?v=1788059937
   - [12oz / Drip Grind](https://www.brewtheblend.com/products/brazela?variant=46160895967484)
     Availability: Available
     Price: $22.80 USD
@@ -654,11 +654,11 @@
     Availability: Available
     Price: $21.00 USD
 - [Six‑Bean Standoff](https://www.brewtheblend.com/products/six-bean-standoff): Six‑Bean Standoff Blend is a global flavor face-off. Sourced from six coffee-growing regions across South America, Central America, Africa, and Asia.
-  Updated: 2026-08-07T05:37:08Z
+  Updated: 2026-08-30T03:18:56Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sin-Beans_Standoff.webp?v=1782966557
+  Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/Sin-Beans-Standoff-_1.webp?v=1788059934
   - [12oz / Drip Ground](https://www.brewtheblend.com/products/six-bean-standoff?variant=46644740096252)
     Availability: Available
     Price: $21.00 USD
@@ -723,7 +723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0696/6021/3500/files/7125363012841985107_2048.jpg?v=1750063796
     Price: $22.99 USD
 - [Spook Me Up Coffee | Pumpkin Spice Halloween Brew](https://www.brewtheblend.com/products/spook-me-up): 🎃 Hauntingly delicious pumpkin spice coffee! Medium roast with cinnamon, nutmeg & clove. Perfect for spooky season mornings & cozy autumn nights.
-  Updated: 2026-08-08T11:07:50Z
+  Updated: 2026-08-30T03:31:30Z
   Vendor: Brew the Blend
   Product Type: COFFEE, CAFÉ
   Availability: Available
