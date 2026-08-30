@@ -83,26 +83,26 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-06-14T16:33:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-06T21:50:54.642Z
+- Updated At: 2026-08-30T00:00:37.472Z
 
 ## Products
 
 - [First Heartbreak Blanket](https://shopus.lauvsongs.com/products/first-heartbreak-blanket): 50x60" woven blanket
-  Updated: 2026-07-27T02:17:25Z
+  Updated: 2026-08-19T12:51:11Z
   Vendor: Lauv
   Product Type: Blanket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUVFHBlanket.png?v=1726071667
   Price: $55.00 USD
 - [Lauv = Love Hat](https://shopus.lauvsongs.com/products/lauv-love-hat): Mesh-back trucker hat
-  Updated: 2026-07-18T02:21:00Z
+  Updated: 2026-08-19T12:51:11Z
   Vendor: Lauv
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUVlovehat_ae8ec62c-f582-41ce-9f94-1859e4284b47.png?v=1726172757
   Price: $25.00 USD
 - [Lauv = Love Tee](https://shopus.lauvsongs.com/products/lauv-love-tee): Heavyweight, garment-dyed t-shirt. 100% USA cotton, made in Los Angeles. Size Chart Size Body Length (in) Chest Width (in) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
-  Updated: 2026-07-18T00:01:57Z
+  Updated: 2026-08-23T03:26:45Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
@@ -123,7 +123,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [First Heartbreak Tee](https://shopus.lauvsongs.com/products/first-heartbreak-tee): Heavyweight, garment-dyed t-shirt. 100% USA cotton, made in Los Angeles. Size Chart Size Body Length (in) Chest Width (in) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
-  Updated: 2026-07-14T18:36:15Z
+  Updated: 2026-08-19T12:51:11Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
@@ -144,7 +144,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $25.00 USD
 - [First Heartbreak Hoodie](https://shopus.lauvsongs.com/products/first-heartbreak-hoodie): 70% combed ringspun US cotton / 30% recycled polyester hoodie Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 28 38 3XL 33 30 39
-  Updated: 2026-07-15T03:11:17Z
+  Updated: 2026-08-19T12:51:12Z
   Vendor: Lauv
   Product Type: Hoodie
   Availability: Available
@@ -165,7 +165,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $60.00 USD
 - [Overlap Tee](https://shopus.lauvsongs.com/products/overlap-tee): Heavyweight, garment-dyed t-shirt in mushroom. 100% USA cotton, made in Los Angeles. Size Chart Size Body Length (in) Chest Width (in) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
-  Updated: 2026-08-05T11:15:06Z
+  Updated: 2026-08-19T12:51:12Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
@@ -186,7 +186,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Blush Logo Hoodie](https://shopus.lauvsongs.com/products/blush-logo-hoodie): 70% combed ringspun US cotton / 30% recycled polyester hoodie in blush Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 28 38 3XL 33 30 39
-  Updated: 2026-07-15T11:19:39Z
+  Updated: 2026-08-19T12:51:12Z
   Vendor: Lauv
   Product Type: Hoodie
   Availability: Available
@@ -207,14 +207,14 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $80.00 USD
 - [Cassette Keychain](https://shopus.lauvsongs.com/products/cassette-keychain): Metal and enamel keychain
-  Updated: 2026-08-05T17:04:18Z
+  Updated: 2026-08-19T12:51:12Z
   Vendor: Lauv
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_0000_Cassette-Keychain.png?v=1774290890
   Price: $15.00 USD
 - [Charm Tee](https://shopus.lauvsongs.com/products/charm-tee): 100% cotton t-shirt in powder blue. Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/4 26
-  Updated: 2026-07-17T10:44:44Z
+  Updated: 2026-08-19T12:51:12Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
@@ -235,7 +235,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Heart Tee](https://shopus.lauvsongs.com/products/heart-tee): 100% cotton t-shirt in cream. Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/4 26
-  Updated: 2026-07-17T12:39:33Z
+  Updated: 2026-08-19T12:51:13Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
@@ -256,7 +256,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Logo Hoodie](https://shopus.lauvsongs.com/products/logo-hoodie): 80/20 cotton/recycled polyester hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 20 24 M 28 22 24 1/2 L 29 24 25 XL 30 26 25 1/2 2XL 31 28 26
-  Updated: 2026-07-27T07:36:35Z
+  Updated: 2026-08-19T12:51:13Z
   Vendor: Lauv
   Product Type: Hoodie
   Availability: Available
@@ -277,14 +277,14 @@ your agent can transact everywhere.
     Availability: Available
     Price: $70.00 USD
 - [Charm Bracelet](https://shopus.lauvsongs.com/products/charm-bracelet): Metal and enamel charm bracelet in silver with 3 custom charms
-  Updated: 2026-08-06T05:04:23Z
+  Updated: 2026-08-19T12:51:13Z
   Vendor: Lauv
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUV_Charm_Bracelet.png?v=1778621345
   Price: $30.00 USD
 - [Likes Hat](https://shopus.lauvsongs.com/products/likes-hat): 100% cotton twill dad hat in black with embroidered design
-  Updated: 2026-08-02T15:40:57Z
+  Updated: 2026-08-19T12:51:13Z
   Vendor: Lauv
   Product Type: Hat
   Availability: Available
@@ -294,10 +294,10 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://shopus.lauvsongs.com/collections/frontpage)
-  Updated: 2026-08-06T11:11:38Z
+  Updated: 2026-08-23T11:10:15Z
   Total Products: 8
 - [Apparel](https://shopus.lauvsongs.com/collections/apparel)
-  Updated: 2026-08-06T11:11:38Z
+  Updated: 2026-08-23T11:10:15Z
   Total Products: 10
 - [Accessories](https://shopus.lauvsongs.com/collections/accessories)
   Updated: 2026-08-06T11:11:38Z
@@ -309,16 +309,16 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:19:36Z
   Total Products: 0
 - [All](https://shopus.lauvsongs.com/collections/all)
-  Updated: 2026-08-06T11:11:38Z
+  Updated: 2026-08-23T11:10:15Z
   Total Products: 13
 - [First Heartbreak](https://shopus.lauvsongs.com/collections/first-heartbreak)
-  Updated: 2026-07-27T11:11:10Z
+  Updated: 2026-08-23T11:10:15Z
   Total Products: 5
 - [Potential](https://shopus.lauvsongs.com/collections/potential)
   Updated: 2026-07-08T20:19:37Z
   Total Products: 0
 - [New](https://shopus.lauvsongs.com/collections/new)
-  Updated: 2026-08-06T11:11:38Z
+  Updated: 2026-08-23T11:10:15Z
   Total Products: 16
 - [2026 Tour Merch](https://shopus.lauvsongs.com/collections/songs-i-couldnt-forget-collection)
   Updated: 2026-08-06T11:11:38Z
