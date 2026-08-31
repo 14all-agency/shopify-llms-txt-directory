@@ -6,40 +6,40 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-08-22T00:00:34.710Z
+- Updated At: 2026-08-31T00:00:36.599Z
 
 ## Products
 
 - [天然由来96.9% スクラブ入りハンドウォッシュ｜ヒノキ天然精油の香り](https://mckkjp.com/products/handwash_hinoki): 天然由来成分96.9%。酒蔵で生まれた米ぬかエキスと、ヒノキの天然精油で作ったスクラブ入りハンドウォッシュ。手を洗う所作が、静かに感覚をひらいていきます。
-  Updated: 2026-08-20T04:06:23Z
+  Updated: 2026-08-28T01:26:13Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/MCKK_Hand_Wash_be6694b0-8357-422b-bf1f-adb490d4fcca.jpg?v=1772281755
   Price: ￥4,675.00 JPY
 - [淡路島の職人が手仕事で仕上げた天然由来100%のお香｜安息・活力・集中](https://mckkjp.com/products/incense_3set): 淡路島の職人がつくる、人工香料不使用・植物性100％の日本製お香。3種の香りで、集中・安息・活力の“寄り道”体験をお楽しみください。
-  Updated: 2026-08-21T23:43:26Z
+  Updated: 2026-08-30T04:33:57Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/mckk-incense-front.jpg?v=1766459217
   Price: ￥2,970.00 JPY
 - [オリジナルショッパー](https://mckkjp.com/products/shopper): サイズ： 高さ200mm×横幅250mm×マチ90mm オリジナルショッパー（紙袋） です。 贈り物でお渡しする際にご利用ください。
-  Updated: 2026-07-27T13:50:39Z
+  Updated: 2026-08-28T01:25:48Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/IMG_4203_d841006b-56fe-479c-8061-ee3cf384a791.jpg?v=1749368602
   Price: ￥220.00 JPY
 - [【 86400" 揺れるお香立て】　- 踊る煙を見つめる、真鍮のお香立て -](https://mckkjp.com/products/incenseholder_86400): 〈揺れるお香立て〉は振り子のように左右にスウィングする真鍮製のお香立てです。お香立ての愛らしい揺れと、部屋に広がる煙。それらをぼーっと眺める、くつろぎのひとときを演出します。灰受けには、お手持ちのお皿をご使用ください。合わせるお皿によって印象が変わるため、お香立てとのコーディネートをお楽しみいただけます。
-  Updated: 2026-07-27T13:50:20Z
+  Updated: 2026-08-28T01:25:47Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/a8fcc40905c16fb5f9549a87774ce229.jpg?v=1764573108
   Price: ￥10,000.00 JPY
 - [【メンバー限定】淡路島の職人が手仕事で仕上げたお香_1種類](https://mckkjp.com/products/incense_one): 【こちらはお香3種をご購入いただいたメンバーさま専用商品となります】 安息・活力・集中よりお好きな香りのみが25本入りとなります。 毎日のルーティンとして、お気に入りの『聞香』を続けられます。お気に入りの香りで自分をブランディングすることも可能です。 毎週末の朝に同じ『聞香』で始まる大切な時間。自分の好きな香りを聞くことで、忙しさから解放されたり、無理しなくて良い時間を体験したり・・・ お部屋のフレグランスとして、自分らしさを楽しんだり、お好きな香で自分というブランドを作れます。
-  Updated: 2026-07-27T13:50:05Z
+  Updated: 2026-08-28T01:25:47Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お香
   Availability: Available
@@ -54,7 +54,7 @@
     Availability: Available
     Price: ￥2,640.00 JPY
 - [アロマミスト 100ml｜植物由来100%（※ 水を除く）](https://mckkjp.com/products/aromamist): 香りを「効かせるもの」ではなく、ひとつの行為に入る前の切り替えの所作としてのアロマミストです。 その場の空気が静かに切り替わるような気配を残します。香りが消えていく余韻も楽しんでみてください。 読書や思考、作業に入る前、次の時間へ移るための合図として。
-  Updated: 2026-07-20T09:19:07Z
+  Updated: 2026-08-28T01:26:13Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: 
   Availability: Available
@@ -69,14 +69,14 @@
     Availability: Available
     Price: ￥3,300.00 JPY
 - [メッセージカード | MCKK](https://mckkjp.com/products/メッセージカード): ギフトに添えるメッセージカード。大切な方へのギフトにお気持ちを添えてお届けします。
-  Updated: 2026-07-27T13:49:49Z
+  Updated: 2026-08-28T01:25:48Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: ギフトオプション
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/2026-05-2015.02.17_2d919ab6-e575-4b8f-a360-23f73dc6f557.png?v=1779256965
   Price: ￥0.00 JPY
 - [【期間限定販売】まどか｜MCKK 1st Anniversary ブレンド煎茶](https://mckkjp.com/products/madoka): 茶審査技術最高位・十段の平岡佑太氏が、MCKK1周年のために仕立てた限定ブレンド煎茶「まどか」。富士山麓で育った静岡茶二品種を重ね、煎茶らしいわずかな渋みと、やわらかな甘い余韻に仕上げました。気軽に楽しめるティーバッグ7包入り。期間限定販売です。
-  Updated: 2026-08-21T15:29:37Z
+  Updated: 2026-08-28T01:26:13Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お茶
   Availability: Available
@@ -86,7 +86,7 @@
 ## Collections
 
 - [すべての商品](https://mckkjp.com/collections/all)
-  Updated: 2026-08-21T11:14:22Z
+  Updated: 2026-08-30T11:12:14Z
   Total Products: 7
 
 ## Blogs
@@ -116,6 +116,10 @@
     Updated: 2026-02-28T13:10:16Z
     Author: UrumaErika
     Tags: 文化をひもとく
+  - [【遠い土地の暮らしを思う】旨い蓮根が育つのを、じっと待つ夏。長野・小林農園さんとのやりとり](https://mckkjp.com/blogs/column/watauchi-renkon-kobayashi-farm)
+    Updated: 2026-08-29T05:21:01Z
+    Author: UrumaErika
+    Tags: 自然とともにある暮らし
 - [お知らせ](https://mckkjp.com/blogs/news)
   - [MCKKの公式WEBサイトを公開しました](https://mckkjp.com/blogs/news/20250501)
     Updated: 2025-07-01T10:28:27Z
