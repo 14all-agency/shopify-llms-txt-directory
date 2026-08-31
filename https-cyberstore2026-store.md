@@ -83,13 +83,13 @@ your agent can transact everywhere.
 - Timezone: America/Regina
 - Created At: 2026-07-29T04:24:32Z
 - Contact Email: support@cyberstore2026.store
-- Updated At: 2026-08-24T08:00:24.136Z
+- Updated At: 2026-08-31T12:00:24.378Z
 
 ## Products
 
-- [ZenStand 3-in-1 MagSafe Wireless Charging Stand | Real Wood](https://cyberstore2026.store/products/zenstand-3-in-1-wood-magsafe-compatible-wireless-charging-stand): Charge your iPhone, Apple Watch & AirPods simultaneously. ZenStand's real wood MagSafe-compatible stand — the premium desk upgrade you've been waiting for.
-  Updated: 2026-08-24T03:53:07Z
-  Vendor: Footnote Accessories Co.
+- [ZenStand 3-in-1 Wood MagSafe Wireless Charging Stand | iPhone, Watch & AirPods | Cyber Store](https://cyberstore2026.store/products/zenstand-3-in-1-wood-magsafe-compatible-wireless-charging-stand): ZenStand real wood MagSafe stand charges iPhone, Apple Watch & AirPods at once. StandBy mode ready. With or without 30W GaN adapter. Free shipping.
+  Updated: 2026-08-31T08:21:10Z
+  Vendor: Cyber Store
   Product Type: wireless charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/FTNTWC02_Amazon_Hero_Award2_ea11cce9-1f63-4159-9c2d-54476870dd26.jpg?v=1786555880
@@ -101,206 +101,120 @@ your agent can transact everywhere.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/FTNTWC02AmazonHero2_13fc3a48-675a-4dcf-b0f4-da425416fd3d.jpg?v=1786555880
     Price: $99.99 CAD
-- [ZenStand 3-in-1 Wood MagSafe Charger with 30W GaN Adapter](https://cyberstore2026.store/products/zenstand-3-in-1-wood-magsafe-compatible-charging-dock-with-30w-gan-adapter): Charge your iPhone, Apple Watch & AirPods at once with the ZenStand wood MagSafe dock. Includes a fast 30W GaN adapter for efficient, clutter-free charging.
-  Updated: 2026-08-24T03:53:07Z
-  Vendor: Footnote Accessories Co.
+- [ZenStand 3-in-1 Wood MagSafe Charging Dock | 30W GaN | iPhone, Watch & AirPods | Cyber Store](https://cyberstore2026.store/products/zenstand-3-in-1-wood-magsafe-compatible-charging-dock-with-30w-gan-adapter): ZenStand wood MagSafe dock charges iPhone, Apple Watch & AirPods simultaneously. Includes 30W GaN adapter. Walnut finish, StandBy mode ready.
+  Updated: 2026-08-31T08:20:47Z
+  Vendor: Cyber Store
   Product Type: wireless charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/FTNTWC02_Amazon_Bundle.jpg?v=1785349641
   Price: $99.99 CAD
-- [OneSnap Wireless MagSafe Charger for iPhone — Cyber Store](https://cyberstore2026.store/products/onesnap-magnetic-wireless-charger-for-iphone-magsafe-compatible): OneSnap MagSafe-compatible magnetic wireless charger for iPhone. Fast, cable-free charging with a clean minimal design. Ships free in Canada. — Cyber Store
-  Updated: 2026-08-24T03:53:04Z
-  Vendor: Footnote Accessories Co.
-  Product Type: wireless charger
+- [OneSnap MagSafe-Compatible Wireless Charger for iPhone | Cyber Store](https://cyberstore2026.store/products/onesnap-magnetic-wireless-charger-for-iphone-magsafe-compatible): OneSnap magnetic wireless charger for iPhone — snap-on alignment, up to 15W fast charge, compact & portable. Only $29.99. Ships from Canada.
+  Updated: 2026-08-30T14:24:07Z
+  Vendor: Cyber Store
+  Product Type: Wireless Charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/FTNTWC01_Amazon_Hero_compatible_with_Apple_Watch.jpg?v=1785391053
   Price: $29.99 CAD
-- [4K AI Smart Glasses IP65 290mAh | Cyber Store](https://cyberstore2026.store/products/plunthorn-ai-smart-glasses-with-camera-4k-hd-video-photo-capture-real-time-translation-recording-glasses-with-ai-assistant-open-ear-audio-object-recognition-bluetooth-for-travel): Plunthorn AI smart glasses with 4K camera, IP65 rating, 290mAh battery, translation, and open-ear Bluetooth audio. Learn more today.
-  Updated: 2026-08-24T03:53:10Z
-  Vendor: Plunthorn
-  Product Type: Wearable Technology
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/41F4dH9Te6L.jpg?v=1785399884
-  - [Black Lens](https://cyberstore2026.store/products/plunthorn-ai-smart-glasses-with-camera-4k-hd-video-photo-capture-real-time-translation-recording-glasses-with-ai-assistant-open-ear-audio-object-recognition-bluetooth-for-travel?variant=53997005177150)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/71YdXyD-O1L.jpg?v=1785399884
-    Price: $154.57 CAD
-  - [Transparent Lens](https://cyberstore2026.store/products/plunthorn-ai-smart-glasses-with-camera-4k-hd-video-photo-capture-real-time-translation-recording-glasses-with-ai-assistant-open-ear-audio-object-recognition-bluetooth-for-travel?variant=53997005668670)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/71YdXyD-O1L.jpg?v=1785399884
-    Price: $154.57 CAD
-- [RENPHO Lynx Smart Ring | Heart Rate, Sleep & Activity Tracker – Sizes 6–11](https://cyberstore2026.store/products/renpho-lynx-smart-ring): RENPHO Lynx Smart Ring tracks heart rate, sleep & activity 24/7. Lightweight, discreet design in Black & Silver, sizes 6–11. Long battery life.
-  Updated: 2026-08-24T03:53:11Z
-  Vendor: RENPHO
-  Product Type: Wearable Technology
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/61wPXTWjgtL.jpg?v=1785400427
-  - [Black / 6](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064257854)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/61wPXTWjgtL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Black / 8](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064356158)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/61wPXTWjgtL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Black / 9](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064388926)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/61wPXTWjgtL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Black / 10](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064421694)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/61wPXTWjgtL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Black / 11](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064454462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/61wPXTWjgtL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Silver / 6](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064487230)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/616PmKQLjiL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Silver / 7](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064519998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/616PmKQLjiL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Silver / 8](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064552766)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/616PmKQLjiL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Silver / 9](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064585534)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/616PmKQLjiL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Silver / 10](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064618302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/616PmKQLjiL.jpg?v=1785400427
-    Price: $307.62 CAD
-  - [Silver / 11](https://cyberstore2026.store/products/renpho-lynx-smart-ring?variant=53997064651070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/616PmKQLjiL.jpg?v=1785400427
-    Price: $307.62 CAD
-- [Quican Smartwatch 1.8 HD 120 Sports Modes | Cyber Store](https://cyberstore2026.store/products/quican-smartwatch-for-women-men-compatible-with-android-iphone-fitness-tracker-watch-with-alexa-call-notification-alerts-heart-rate-sleep-monitor-120-sports-modes): Quican smartwatch for Android & iPhone with built-in Alexa, heart rate, sleep & blood oxygen monitoring, 120 sports modes, IP68 waterproof, and 7-day battery.
-  Updated: 2026-08-24T03:53:08Z
-  Vendor: Quican
-  Product Type: Wearable Technology
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/71UOgj8DSCL.jpg?v=1785400987
-  - [Rose Purple / 1.8 inches](https://cyberstore2026.store/products/quican-smartwatch-for-women-men-compatible-with-android-iphone-fitness-tracker-watch-with-alexa-call-notification-alerts-heart-rate-sleep-monitor-120-sports-modes?variant=53997088571710)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/619hIVe2ogL.jpg?v=1785400987
-    Price: $92.74 CAD
-  - [Baby Pink / 1.8 inches](https://cyberstore2026.store/products/quican-smartwatch-for-women-men-compatible-with-android-iphone-fitness-tracker-watch-with-alexa-call-notification-alerts-heart-rate-sleep-monitor-120-sports-modes?variant=53997088637246)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/71UOgj8DSCL.jpg?v=1785400987
-    Price: $92.74 CAD
-  - [Blue / 1.8 inches](https://cyberstore2026.store/products/quican-smartwatch-for-women-men-compatible-with-android-iphone-fitness-tracker-watch-with-alexa-call-notification-alerts-heart-rate-sleep-monitor-120-sports-modes?variant=53997088670014)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/61g7xXefhfL.jpg?v=1785400987
-    Price: $92.74 CAD
-  - [Galaxy Black / 1.8 inches](https://cyberstore2026.store/products/quican-smartwatch-for-women-men-compatible-with-android-iphone-fitness-tracker-watch-with-alexa-call-notification-alerts-heart-rate-sleep-monitor-120-sports-modes?variant=53997088702782)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/71plAT6c7dL.jpg?v=1785400987
-    Price: $92.74 CAD
-  - [Green / 1.8 inches](https://cyberstore2026.store/products/quican-smartwatch-for-women-men-compatible-with-android-iphone-fitness-tracker-watch-with-alexa-call-notification-alerts-heart-rate-sleep-monitor-120-sports-modes?variant=53997088735550)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/71-JVcmyGhL.jpg?v=1785400987
-    Price: $77.28 CAD
-  - [Ivory White / 1.8 inches](https://cyberstore2026.store/products/quican-smartwatch-for-women-men-compatible-with-android-iphone-fitness-tracker-watch-with-alexa-call-notification-alerts-heart-rate-sleep-monitor-120-sports-modes?variant=53997088768318)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/71COojLLzUL.jpg?v=1785400987
-    Price: $92.74 CAD
-  - [Khaki / 1.83 inches](https://cyberstore2026.store/products/quican-smartwatch-for-women-men-compatible-with-android-iphone-fitness-tracker-watch-with-alexa-call-notification-alerts-heart-rate-sleep-monitor-120-sports-modes?variant=53997088801086)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/71UOgj8DSCL.jpg?v=1785400987
-    Price: $92.74 CAD
-  - [Sky Blue / 1.8 inches](https://cyberstore2026.store/products/quican-smartwatch-for-women-men-compatible-with-android-iphone-fitness-tracker-watch-with-alexa-call-notification-alerts-heart-rate-sleep-monitor-120-sports-modes?variant=53997088833854)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/717LOFYKgtL.jpg?v=1785400987
-    Price: $92.74 CAD
-- [Lite-up Play<br> sound by JBL](https://cyberstore2026.store/products/lite-up-play-br-sound-by-jbl): JBL-Powered Lite-up Play by Kooduu: A Symphony of Sound and Light The JBL-powered Lite-up Play by Kooduu is an epitome of advanced audio technology housed within a mesmerizing speaker lamp. This Scandinavian masterpiece showcases not just exceptional JBL sound brilliance but also emits a warm white adjustable ambiance. Its elegant, minimalist design is accentuated by soft rounded edges, a comfy wooden handle, and sophisticated brass highlights, making it a premium aesthetic statement. Pair it effortlessly via Bluetooth, and let the Lite-up Play illuminate your spaces with its charming radiance. As you bask in its captivating glow, allow JBL's superior audio technology to amplify your cherished tunes, setting the perfect ambiance for relaxation, celebration, or sheer aesthetic pleasure. SOUND BY JBL - kooduu is proud of its partnership with JBL for the design of the Lite-up Play loudspeaker. JBL is renowned for delivering clear, detailed, and robust sound. JBL's unwavering commitment to sound quality, innovation, and understanding its audience's needs has solidified its position as a premier sound brand in the global audio market, and that's what you'll find in the Lite-up Play by kooduu. Features Sound by JBL LED light, 3000 Kelvin Wooden handle Wood feet with silicon rubber surface PE main body Battery, up to 10 hours playtime & up to 18 hours using lamp only Speaker, 10W full range / 360 sound 24W peak music power output Bluetooth, v 4.2 & 10 meter range Dimensions 11.4" x 15.7" / 29cm x 40cm 4.5lbs / 2.03kg total weight Instructions & cleaning This product comes with a charging cable, but without an adapter. The charging cable has a USB connection. Use the adapter of your mobile phone, or connect the USB cable to your computer. Adapter max. 5 Volts 2 Amp. If you charge your product with an adapter that does not meet these conditions, this may affect the delivery time of the battery. Charge must be a minimum of 12 hours. Clean carefully with a dampened soft cloth, adding a little soap only if necessary. Do not use any cleaning materials containing harsh chemicals. Treat the Lite-up Play like regular Bluetooth transmitters and store it indoors when it rains and is not used. Assembly is required. You must follow the instructions included in the box. Product colours may vary slightly from those shown on your display. Shipping Shipments are processed from Monday to Friday. Orders are shipped from our Canadian warehouse.
-  Updated: 2026-08-24T03:53:07Z
-  Vendor: Nüline Distribution
-  Product Type: Bluetooth Transmitters
+- [Kooduu Lite-up Play | JBL Speaker Lamp | 10W 360 Sound | Cyber Store](https://cyberstore2026.store/products/lite-up-play-sound-by-jbl): Kooduu Lite-up Play with JBL sound — 10W 360° Bluetooth speaker lamp, warm LED light, 10-hr battery. 4 colours. Scandinavian design. Shop now.
+  Updated: 2026-08-30T14:11:02Z
+  Vendor: Cyber Store
+  Product Type: Bluetooth Speaker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/LightUpPlay_Earth_03_KO06-0101LS012-02_KO06-0103LS012-00.jpg?v=1787318402
-  - [earth](https://cyberstore2026.store/products/lite-up-play-br-sound-by-jbl?variant=54164637286718)
+  - [earth](https://cyberstore2026.store/products/lite-up-play-sound-by-jbl?variant=54164637286718)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/LiteUp_Play_Earth_JBL_05_KO06-0103LS012-00.jpg?v=1787318402
     Price: $479.00 CAD
-  - [ocean blue](https://cyberstore2026.store/products/lite-up-play-br-sound-by-jbl?variant=54164637319486)
+  - [ocean blue](https://cyberstore2026.store/products/lite-up-play-sound-by-jbl?variant=54337155531070)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/LiteUp_Play_OceanBlue_JBL_05_KO06-0103LS010-00.jpg?v=1787318402
     Price: $479.00 CAD
-  - [petroleum](https://cyberstore2026.store/products/lite-up-play-br-sound-by-jbl?variant=54164637352254)
+  - [petroleum](https://cyberstore2026.store/products/lite-up-play-sound-by-jbl?variant=54164637352254)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/LiteUp_Play_Petroleum_JBL_05_KO06-0103LS001-00.jpg?v=1787318402
     Price: $479.00 CAD
-  - [sand](https://cyberstore2026.store/products/lite-up-play-br-sound-by-jbl?variant=54164637385022)
+  - [sand](https://cyberstore2026.store/products/lite-up-play-sound-by-jbl?variant=54164637385022)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/LiteUp_Play_Sand_JBL_05_KO06-0103LS011-00.jpg?v=1787318402
     Price: $479.00 CAD
-- [Chargeur Sans Fil Mighty Mount Qi2 & Support de Ventilation](https://cyberstore2026.store/products/chargeur-sans-fil-mighty-mount-qi2-support-de-ventilation): Charge Plus Intelligente : Interrupteur intégré marche/arrêt pour une gestion efficace de la batterie.Charge Rapide : Jusqu’à 2x plus rapide grâce à la technologie Qi2 et à une puissance de 15 W.Indicateur LED : Une lumière ambiante confirme la connexion sécurisée.Fixation Sécurisée : Installation facile et conduite en toute tranquillité.Précision Magnétique : Les aimants N52 assurent un alignement solide et une utilisation à une main.Vision Flexible : Modes portrait et paysage pour plus de confort.Large Compatibilité : Compatible avec les séries iPhone 12 à 16 et les coques MagSafe.Design Élégant : Style fin et élégant qui s’harmonise parfaitement avec votre iPhone.
-  Updated: 2026-08-24T03:58:47Z
-  Vendor: oboxliquidation
-  Product Type: Accessoires pour téléphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/Mighty_Mount_22.png?v=1787543506
-  Price: $59.99 CAD
-- [Armour Rugged with MagSafe Case Black for iPhone 15 Pro Max](https://cyberstore2026.store/products/armour-rugged-with-magsafe-case-black-for-iphone-15-pro-max): Whether you're into extreme sports or just extremely clumsy, you deserve the same protection. Military-grade durability, shockproof dual layer, and comfortable anti-slip texture make unexpected drops laughable, drop tested from 10 ft high. Drop tested from 10ft high MagSafe compatible Dual layer shock absorbing inner with exterior hard shell Rugged profile and light weight Quick response electroplate buttons Shockproof Recyclable packaging
-  Updated: 2026-08-24T03:59:12Z
-  Vendor: Accessory Direct
+- [Armour Rugged MagSafe Case — iPhone 15 Pro Max | Military Drop Protection | Cyber Store](https://cyberstore2026.store/products/armour-rugged-with-magsafe-case-black-for-iphone-15-pro-max): Military-grade MagSafe case for iPhone 15 Pro Max. 10ft drop tested, dual-layer shockproof, anti-slip grip. Recyclable packaging. Only $24.99.
+  Updated: 2026-08-30T14:07:49Z
+  Vendor: Cyber Store
   Product Type: iPhone Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/120-7209-BluElement-BEA2XIP15PRMMB-1.jpg?v=1787543530
   Price: $24.99 CAD
-- [Wireless Presenter with Red Laser Pointers Pen USB](https://cyberstore2026.store/products/wireless-presenter-with-red-laser-pointers-pen-usb): Features:PortableThis 2.4 GHz wireless remote red laser pointer is small and exquisite, portable and with richer applications.ConvenientNo hassle setup, the USB receiver is plug and play ,simply plug into your computer's USB port, it has no driver required.PracticalThe receiver is power saving, lightweight and suitable for putting in your pocket or handbags.Presentations from up to 10 meters away.High quality and high technologyThis high quality laser pointer adopts the latest technology green laser optics and microelectronics.Scope of pplicationThe wireless presenter supports MS Word, excel, Power Point, ACD See, website and so on, with page up and down function.Specification:Type: Wireless PresenterMaterial: PlasticQuantity: 1 pcsColor: BlackTransmitting Frequency: 2.4GHzWorking Voltage: 1.5VBattery: 1*AA battery (NOT included)System Supported: Windows 2000/XP/VistaSize: 10.5*4*2.5cm / 4.1*1.6*1 "Net Weight: 0.03kg / 1.1ozPackage:1*Wireless presenter1*USB wireless receiver1*User manualCannot ship to PO boxes.International orders (Outside of USA) will be shipped from our China warehouse.
-  Updated: 2026-08-24T04:26:21Z
-  Vendor: Teal Simba
-  Product Type: Tech Accessories
+- [PEJE Smart Watch 1.83" | Heart Rate, Blood Oxygen & Fitness Tracker | Cyber Store](https://cyberstore2026.store/products/peje-smartwatch-1-83-fitness-tracker): PEJE Smart Watch with 1.83" display, 24H heart rate & SpO2 monitoring, Bluetooth calling, 100+ sport modes & 200+ watch faces. CE & FCC .
+  Updated: 2026-08-31T03:37:00Z
+  Vendor: Cyber Store
+  Product Type: Smart Watch
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/data_a46a07ac-f0ad-4d9a-ba52-c6834dbb2c08.jpg?v=1787545480
-  Price: $17.19 CAD
-- [15w Magnetic Magsafe QI Wireless Charger for Iphone 12 Huawei Samsung](https://cyberstore2026.store/products/15w-magnetic-magsafe-qi-wireless-charger-for-iphone-12-huawei-samsung): Features: Wireless Charger It comes with its own wireless charging cable, which wont block your hands any more at playing games, watching video, video chat, or daily charging. 15w Fast Charging Built-in High-grade Qi Wireless Charging Smart Chip,the 15W wireless charging stand can recognize your phone intelligently and charge quickly. More Compatible The 15w wireless charger fits for all QI-enabled smart phones For Huawei Mate P20/P30; for Samsung Galaxy S10/S10+/10e/S9/S9 Plus; for iPhone 11/11 Pro/11 Pro/XS MAX,etc. Portable This fast charger is very easy to hold or carry due to its light and slim shape. Specifications: Type: Iphone 12 Magsafe Wireless Charger Input voltage: 5V/3A 9V/2.22A Output power: 5W/7.5W/10W/15W Output port: USB-C Transmission distance: ≤6MM Charging efficiency: ≥73% Size:60x60x7.5mm Color: white Packages: 1* Magsafe Wireless charger
-  Updated: 2026-08-24T04:26:22Z
-  Vendor: Teal Simba
-  Product Type: Mobile & Laptop Accessories
+  Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/S56e5dff60027479b8b173d9e2e2a29a2W.webp?v=1787806797
+  - [Black](https://cyberstore2026.store/products/peje-smartwatch-1-83-fitness-tracker?variant=54336810058046)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/S6afd3de6b8bd46c9bae45fff61a9f833y.webp?v=1787806797
+    Price: $91.99 CAD
+  - [Pink](https://cyberstore2026.store/products/peje-smartwatch-1-83-fitness-tracker?variant=54336810090814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/Sb9bb6e9268ae44618f9faf5faae08bbfx.webp?v=1787806797
+    Price: $88.99 CAD
+  - [Purple](https://cyberstore2026.store/products/peje-smartwatch-1-83-fitness-tracker?variant=54336810123582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/Sd543890dd42b489d969049d7aa6365f08.webp?v=1787806797
+    Price: $89.99 CAD
+  - [Silvery](https://cyberstore2026.store/products/peje-smartwatch-1-83-fitness-tracker?variant=54336810156350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/S90a7201818b94d79bc3addf1d36293c3o.webp?v=1787806797
+    Price: $91.99 CAD
+- [72W USB-C Multi-Port Fast Charging Station | QC3.0 & PD | Cyber Store](https://cyberstore2026.store/products/72w-multi-port-usb-c-charging-station): Charge 4 devices simultaneously with this 72W USB-C charging station. QC3.0 & PD fast charging. EU, UK, AU & US plug options. CE, RoHS & FCC .
+  Updated: 2026-08-30T00:26:08Z
+  Vendor: Cyber Store
+  Product Type: Charging Station
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/data_91034957-832c-4380-b2cc-387c95a3b796.jpg?v=1787545480
-  Price: $25.00 CAD
-- [2 in 1 Bluetooth 4.1 Audio Transmitter & Receiver](https://cyberstore2026.store/products/2-in-1-bluetooth-4-1-audio-transmitter-receiver): This item is a Bluetooth Transmitter & Receiver in one model with Toslink. When it works as a Bluetooth Transmitter, the unit can Transmit the music on your mobile phone, walkman, TV set, computer equipment to your Bluetooth receiver such as Bluetooth stereo headset, Bluetooth speakers, Bluetooth car stereo and other Bluetooth equipments through wireless transmission. When it works as a Bluetooth Receiver, it can add Bluetooth receiving capability to your headphones, home stereo, car stereo, etc. Features: Dual connect mode: This item is a Bluetooth Transmitter & Receiver in one model. Transform any devices (eg: TV, computer, MP3 player, speaker, headphone.) with 3.5mm jack into a Bluetooth-capable devices. Bluetooth 4.0 technology for enhanced audio quality , improved connection stability and faster pairing. Easy to use, no additional drivers required, mini size, ideal for home, car or other outdoor activities use. Flexible connection: Built-in two 3.5mm jacks for input and output, meanwhile package includes a 3.5mm female to 2 RCA male cable, which provides a wide compatibility to a various of devices. Built-in 600mAh Li-ion battery allows for convenient recharging, long working time is more than 8 hours. Compatible with Android and iOS system and all Bluetooth audio devices such as TV, speaker, PC, CD player, iPhone, iPod, iPad, tablets, MP3 player or car stereo and more. Specification: Type 2 in 1 Bluetooth Transmitter Receiver Material Plastic Quantity 1pc Item Color Black and white Bluetooth Version V4.0 Profile A2DP, AVRCP Transmit Range >10m / 33ft I/O 1*3.5mm audio output jack, 1*3.5mm audio input jack,1*Micro USB charging port Battery Built-in 3.7V 600mAh Li-ion battery Working Time >8 hours Charging Time About 2 hours Charging Input DC 5V Work Temp. -10~55 degree Centigrade Certification CE Size 9.8*5.8*1.3cm / 3.9*2.3*0.5" (L*W*H) Net Weight 0.08kg / 2.8oz Package 1*Bluetooth Transmitter/Receiver 1*3.5mm Male to Male Cable 1*3.5mm to 2 RCA Audio Cable 1*USB Charging Cable 1*English and Chinese User Manual 1*Package Box Cannot ship to PO boxes.International orders (Outside of USA) will be shipped from our China warehouse.
-  Updated: 2026-08-24T04:26:22Z
-  Vendor: Teal Simba
-  Product Type: Tech Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/AO-Lemyb502aab8-4097-43e2-801a-6876520759ba.jpg?v=1787545480
-  Price: $23.44 CAD
+  Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/O1CN01l2O6rm2MHphFdZ9ye__1991939803-0-cib.jpg?v=1787820721
+  - [European regulations](https://cyberstore2026.store/products/72w-multi-port-usb-c-charging-station?variant=54337195049278)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/O1CN01l2O6rm2MHphFdZ9ye__1991939803-0-cib.jpg?v=1787820721
+    Price: $139.99 CAD
+  - [British regulations](https://cyberstore2026.store/products/72w-multi-port-usb-c-charging-station?variant=54337195082046)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/O1CN01l2O6rm2MHphFdZ9ye__1991939803-0-cib.jpg?v=1787820721
+    Price: $139.99 CAD
+  - [Australian regulations](https://cyberstore2026.store/products/72w-multi-port-usb-c-charging-station?variant=54337195114814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/O1CN01l2O6rm2MHphFdZ9ye__1991939803-0-cib.jpg?v=1787820721
+    Price: $139.99 CAD
+  - [Us regulations](https://cyberstore2026.store/products/72w-multi-port-usb-c-charging-station?variant=54337195147582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0991/6416/0318/files/O1CN01l2O6rm2MHphFdZ9ye__1991939803-0-cib.jpg?v=1787820721
+    Price: $139.99 CAD
 
 ## Collections
 
-- [Home page](https://cyberstore2026.store/collections/frontpage): Shop wireless chargers, power banks, Bluetooth speakers, microphones & smart car mounts. Premium tech accessories at Cyber Store.
-  Updated: 2026-08-23T09:30:04Z
+- [Featured Collection](https://cyberstore2026.store/collections/frontpage): Shop wireless chargers, power banks, Bluetooth speakers, microphones & smart car mounts. Premium tech accessories at Cyber Store.
+  Updated: 2026-08-31T03:36:56Z
   Total Products: 3
 - [Charging & Accessories](https://cyberstore2026.store/collections/charging-accessories): Shop premium charging docks, fast GaN adapters, wireless earbuds, and tech accessories to power your entire setup at Cyber Store.
-  Updated: 2026-08-23T05:57:49Z
+  Updated: 2026-08-31T03:36:56Z
   Total Products: 3
 - [Smartwatches](https://cyberstore2026.store/collections/smartwatches): Shop premium smartwatches with Bluetooth calling, fitness tracking, sleep monitoring, and more. Compatible with Android and iPhone.
-  Updated: 2026-08-20T07:49:47Z
+  Updated: 2026-08-29T12:46:18Z
   Total Products: 1
 - [Smart Rings](https://cyberstore2026.store/collections/smart-rings): Shop premium smart rings including the Oura Ring 5. Track sleep, heart rate, SpO2, and activity with the world's smallest health tracker.
-  Updated: 2026-08-22T08:27:14Z
-  Total Products: 1
+  Updated: 2026-08-30T14:18:01Z
+  Total Products: 0
 - [Wearables](https://cyberstore2026.store/collections/wearables): Shop premium smartwatches and fitness trackers with health monitoring, notifications, and long battery life at Cyber Store.
-  Updated: 2026-08-22T08:27:14Z
-  Total Products: 3
+  Updated: 2026-08-30T14:21:47Z
+  Total Products: 0
 - [Audio & Sound](https://cyberstore2026.store/collections/audio-sound): Shop wireless Bluetooth speakers, induction speakers, and wireless microphones. Premium audio gear for creators, home, and on the go.
-  Updated: 2026-08-23T09:30:04Z
-  Total Products: 0
-- [StoreRank.ai All Products](https://cyberstore2026.store/collections/storerank-ai-all-products)
-  Updated: 2026-08-24T04:25:12Z
-  Total Products: 12
+  Updated: 2026-08-30T02:10:58Z
+  Total Products: 1
+- [Best Sellers](https://cyberstore2026.store/collections/best-sellers): Shop Cyber Store's best- smart rings, MagSafe chargers, smartwatches & wireless audio. Premium tech curated for performance and design.
+  Updated: 2026-08-31T08:20:39Z
+  Total Products: 4
 - [Desk & Workspace](https://cyberstore2026.store/collections/desk-workspace): Shop premium desk and workspace accessories — wireless charging pads, cable organizers, LED lighting, and more. Built for clean, high-performance setups.
-  Updated: 2026-08-23T09:35:26Z
-  Total Products: 0
+  Updated: 2026-08-31T08:20:39Z
+  Total Products: 2
 
 ## Blogs
 
@@ -346,6 +260,27 @@ your agent can transact everywhere.
     Updated: 2026-08-22T21:20:19Z
     Author: Cyber Store
     Tags: 3-in-1 charger review, charging, dock, magsafe dock, simplify charging routine, wireless charger, wood charging station, zenstand
+  - [Maximize Your Charging Efficiency with the OneSnap Magnetic Wireless Charger for iPhone](https://cyberstore2026.store/blogs/news/maximize-your-charging-efficiency-with-the-onesnap-magnetic-wireless-charger-for-iphone): Maximize Your Charging Efficiency with the OneSnap Magnetic Wireless Charger for iPhone
+    Updated: 2026-08-24T09:27:40Z
+    Author: Cyber Store
+    Tags: best wireless charger for iphone, charger, charging efficiency, fast charging, iphone, magnetic charger, maximize charging performance, wireless
+  - [How the RENPHO Lynx Smart Ring Enhances Your Daily Fitness Routine](https://cyberstore2026.store/blogs/news/how-the-renpho-lynx-smart-ring-enhances-your-daily-fitness-routine): How the RENPHO Lynx Smart Ring Enhances Your Daily Fitness Routine
+    Updated: 2026-08-26T09:23:16Z
+    Author: Cyber Store
+    Tags: daily activity tracker, fitness, health tracker, improve workouts, ring, smart technology, wearable fitness devices, wellness
+  - [Brighten Your Music Experience with Lite-up Play by JBL](https://cyberstore2026.store/blogs/news/brighten-your-music-experience-with-lite-up-play-by-jbl): Brighten Your Music Experience with Lite-up Play by JBL
+    Updated: 2026-08-29T09:05:41Z
+    Author: Cyber Store
+    Tags: audio gear, colorful sound features, connect with friends, jbl, music, music experience, portable speakers, sound
+  - [Keep Your Gadgets Charged and Ready with the 72W USB-C Multi-Port Charging Station](https://cyberstore2026.store/blogs/news/keep-your-gadgets-charged-and-ready-with-the-72w-usb-c-multi-port-charging-station): Keep Your Gadgets Charged and Ready with the 72W USB-C Multi-Port Charging Station
+    Updated: 2026-08-31T09:40:23Z
+    Author: Cyber Store
+    Tags: charging, fast charging station, gadgets, multi-port charger, power up devices, station, universal charging solution, usb-c charger
+- [Cyber Guide](https://cyberstore2026.store/blogs/cyber-guide)
+  - [MagSafe Wireless Charging Guide 2026 – Everything You Need to Know | Cyber Store](https://cyberstore2026.store/blogs/cyber-guide/magsafe-wireless-charging-guide): MagSafe Wireless Charging Guide 2026 – Everything You Need to Know | Cyber Store
+    Updated: 2026-08-26T20:22:21Z
+    Author: Shawn Diederichs
+    Tags: buying guide, charging accessories, iPhone, MagSafe, wireless charging
 
 ## Store Pages
 
@@ -373,7 +308,7 @@ your agent can transact everywhere.
 - [Shipping Policy](https://cyberstore2026.store/policies/shipping-policy)
   Updated: 2026-07-29T15:19:02-06:00
 - [Refund Policy](https://cyberstore2026.store/policies/refund-policy)
-  Updated: 2026-08-22T18:59:33-06:00
+  Updated: 2026-08-30T20:04:55-06:00
 - [Terms of Service](https://cyberstore2026.store/policies/terms-of-service)
   Updated: 2026-08-16T15:46:59-06:00
 - [Contact Information](https://cyberstore2026.store/policies/contact-information)
