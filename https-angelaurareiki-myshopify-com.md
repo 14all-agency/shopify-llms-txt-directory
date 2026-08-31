@@ -6,16 +6,16 @@
 - Timezone: America/New_York
 - Created At: 2026-07-20T22:42:23Z
 - Contact Email: theangelaurareiki@gmail.com
-- Updated At: 2026-08-20T00:00:35.853Z
+- Updated At: 2026-08-31T00:00:40.706Z
 
 ## Products
 
 - [Pure Earth Foaming Hand Soap - Vegan & Organic Custom Hand Wash angelaurareiki](https://angelaurareiki.myshopify.com/products/pure-earth-custom-foaming-hand-soap): angelaurareiki
-  Updated: 2026-08-17T10:43:57Z
+  Updated: 2026-08-29T01:57:24Z
   Vendor: angelaurareiki
   Product Type: hand wash
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/566F9EC0-742C-4392-B378-09E01AFF49B2.webp?v=1786888238
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/pure-earth-foaming-hand-soap-vegan-organic-custom-hand-wash-angelaurareiki-cRF.webp?v=1787501309
   - [Christmas Tree / Eco Friendly Box / 16 oz](https://angelaurareiki.myshopify.com/products/pure-earth-custom-foaming-hand-soap?variant=44405777858648)
     Availability: Available
     Price: $24.00 USD
@@ -167,11 +167,11 @@
     Availability: Available
     Price: $22.00 USD
 - [Custom Scented Botanical Blend Shampoo | Organic & Vegan Shampoo for Frizz Control angelaurareiki](https://angelaurareiki.myshopify.com/products/pure-earth-custom-hand-soap-vegan-organic-scented-hand-wash-effective-cleaning-raw-plant-extracts-copy): angelaurareiki
-  Updated: 2026-08-17T05:26:37Z
+  Updated: 2026-08-29T01:57:25Z
   Vendor: angelaurareiki
   Product Type: shampoo
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/4A5593F8-E734-4769-AC9A-B24AF51363CF.webp?v=1786888336
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/custom-scented-botanical-blend-shampoo-organic-vegan-shampoo-for-frizz-control-angelaurareiki-tue.webp?v=1787501576
   - [Christmas Tree / Eco Friendly Box / 16 oz](https://angelaurareiki.myshopify.com/products/pure-earth-custom-hand-soap-vegan-organic-scented-hand-wash-effective-cleaning-raw-plant-extracts-copy?variant=44407845584984)
     Availability: Available
     Price: $24.00 USD
@@ -323,18 +323,18 @@
     Availability: Available
     Price: $22.00 USD
 - [Wildcrafted Dish Soap  CUSTOM SCENTS  Ultra Concentrated  Organic Raw Plant-Based Ingredients - Botanical Cleansing angelaurareiki](https://angelaurareiki.myshopify.com/products/wildcrafted-dish-soap-custom-scents-ultra-concentrated-organic-raw-plant-based-ingredients-botanical-cleansing): angelaurareiki
-  Updated: 2026-08-17T09:33:34Z
+  Updated: 2026-08-29T01:57:25Z
   Vendor: Etsy
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8264583959_kcl4.webp?v=1786888629
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/wildcrafted-dish-soap-custom-scents-ultra-concentrated-organic-raw-plant-based-ingredients-botanical-cleansing-angelaurareiki-2gi.webp?v=1787501033
   Price: $22.00 USD
 - [Rainwash Face Cleanser / Makeup Remover, Vegan & Organic Face Wash, Clarifying, Raw Ingredients, Advanced 2-in-1 Formula, Choose Your Scent angelaurareiki](https://angelaurareiki.myshopify.com/products/rainwash-face-cleanser-makeup-remover-vegan-organic-face-wash-clarifying-raw-ingredients-advanced-2-in-1-formula-choose-your-scent): angelaurareiki
-  Updated: 2026-08-17T12:58:58Z
+  Updated: 2026-08-29T01:57:25Z
   Vendor: angelaurareiki
   Product Type: Face Cleanser Herbal
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8312448965_4vy7.webp?v=1786888367
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/rainwash-face-cleanser-makeup-remover-vegan-organic-face-wash-clarifying-raw-ingredients-advanced-2-in-1-formula-choose-your-scent-angelaurareiki-v1z.webp?v=1787501431
   - [16 / Tomato](https://angelaurareiki.myshopify.com/products/rainwash-face-cleanser-makeup-remover-vegan-organic-face-wash-clarifying-raw-ingredients-advanced-2-in-1-formula-choose-your-scent?variant=44408116314200)
     Availability: Available
     Price: $26.00 USD
@@ -486,11 +486,11 @@
     Availability: Available
     Price: $18.00 USD
 - [Rainwash Toner, Clarifying Facial Toner, Organic & Vegan Face Cleanser, Natural Hydrating Botanical Toner Custom angelaurareiki](https://angelaurareiki.myshopify.com/products/rainwash-toner-clarifying-facial-toner-organic-vegan-face-cleanser-natural-hydrating-botanical-toner-custom): angelaurareiki
-  Updated: 2026-08-17T10:52:32Z
+  Updated: 2026-08-29T01:57:26Z
   Vendor: angelaurareiki
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8309730911_sb0z.webp?v=1786888378
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/rainwash-toner-clarifying-facial-toner-organic-vegan-face-cleanser-natural-hydrating-botanical-toner-custom-angelaurareiki-pNj.webp?v=1787501523
   - [Christmas Tree / 4](https://angelaurareiki.myshopify.com/products/rainwash-toner-clarifying-facial-toner-organic-vegan-face-cleanser-natural-hydrating-botanical-toner-custom?variant=44408119853144)
     Availability: Available
     Price: $18.00 USD
@@ -642,11 +642,11 @@
     Availability: Available
     Price: $25.00 USD
 - [Moss & Manitou Face Mask - All Natural, Herbal, and Rejuvenating angelaurareiki](https://angelaurareiki.myshopify.com/products/moss-manitou-face-mask-all-natural-herbal-and-rejuvenating): angelaurareiki
-  Updated: 2026-08-17T05:37:17Z
+  Updated: 2026-08-29T01:57:26Z
   Vendor: angelaurareiki
   Product Type: Clay Face Mask
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.7764225270_iow2.webp?v=1786888628
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/moss-manitou-face-mask-all-natural-herbal-and-rejuvenating-angelaurareiki-o6C.webp?v=1787501130
   - [2](https://angelaurareiki.myshopify.com/products/moss-manitou-face-mask-all-natural-herbal-and-rejuvenating?variant=44408123654232)
     Availability: Available
     Price: $25.00 USD
@@ -657,11 +657,11 @@
     Availability: Available
     Price: $15.00 USD
 - [Ko-Ko Cream- clarifying , moisturizes and hydrates angelaurareiki](https://angelaurareiki.myshopify.com/products/ko-ko-cream-clarifying-moisturizes-and-hydrates): angelaurareiki
-  Updated: 2026-08-17T06:55:33Z
+  Updated: 2026-08-29T01:57:26Z
   Vendor: angelaurareiki
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.7815762245_iq4r.webp?v=1786888632
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/ko-ko-cream-clarifying-moisturizes-and-hydrates-angelaurareiki-kok.webp?v=1787501031
   - [4 oz](https://angelaurareiki.myshopify.com/products/ko-ko-cream-clarifying-moisturizes-and-hydrates?variant=44408127193176)
     Availability: Available
     Price: $23.00 USD
@@ -675,11 +675,11 @@
     Availability: Not Available
     Price: $34.00 USD
 - [Herbal Hide Body Wash | CUSTOM SCENTS | Vegan & Organic | Botanical Body Wash | Choose Your Scent | Plant-Based Body Soap | angelaurareiki](https://angelaurareiki.myshopify.com/products/herbal-hide-body-wash-custom-scents-vegan-organic-botanical-body-wash-choose-your-scent-plant-based-body-soap): angelaurareiki
-  Updated: 2026-08-17T10:44:41Z
+  Updated: 2026-08-29T01:57:27Z
   Vendor: angelaurareiki
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8270533893_vlkd.webp?v=1786888641
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/herbal-hide-body-wash-custom-scents-vegan-organic-botanical-body-wash-choose-your-scent-plant-based-body-soap-angelaurareiki-GOK.webp?v=1787501431
   - [16 / Christmas Tree](https://angelaurareiki.myshopify.com/products/herbal-hide-body-wash-custom-scents-vegan-organic-botanical-body-wash-choose-your-scent-plant-based-body-soap?variant=44408131977304)
     Availability: Available
     Price: $22.00 USD
@@ -830,19 +830,19 @@
   - [8 / Hot Cross Buns](https://angelaurareiki.myshopify.com/products/herbal-hide-body-wash-custom-scents-vegan-organic-botanical-body-wash-choose-your-scent-plant-based-body-soap?variant=44408133582936)
     Availability: Available
     Price: $18.00 USD
-- [Rare Lilac Amethyst Crystal | Rough Natural Stone (5-6g), Reiki infused, AAA gemstone angelaurareiki](https://angelaurareiki.myshopify.com/products/rare-lilac-amethyst-crystal-rough-natural-stone-5-6g-reiki-infused-aaa-gemstone): angelaurareiki
-  Updated: 2026-08-13T16:00:28Z
+- [Rare Lilac Amethyst Crystal | Reiki Infused Gemstone](https://angelaurareiki.myshopify.com/products/rare-lilac-amethyst-crystal-rough-natural-stone-5-6g-reiki-infused-aaa-gemstone): Shop our Rare Lilac Amethyst Crystal, Reiki infused for enhanced intuition & communication. A must-have for spiritual wellness!
+  Updated: 2026-08-29T01:57:27Z
   Vendor: Etsy
   Product Type: Lilac  amethyst
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.7994375370_fafh.jpg?v=1786241083
   Price: $8.08 USD
 - [Knockers Kismet Chapstick CUSTOM CHAPSTICK | Organic Lip Balm | Choose Your Scent | Botanical | All Natural Hydrating angelaurareiki](https://angelaurareiki.myshopify.com/products/knockers-kismet-chapstick-custom-chapstick-organic-lip-balm-choose-your-scent-botanical-all-natural-hydrating): angelaurareiki
-  Updated: 2026-08-17T08:17:28Z
+  Updated: 2026-08-29T01:57:27Z
   Vendor: angelaurareiki
   Product Type: Chapstick/Lip balm
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8263685639_957r.webp?v=1786888639
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/knockers-kismet-chapstick-custom-chapstick-organic-lip-balm-choose-your-scent-botanical-all-natural-hydrating-angelaurareiki-3dx.webp?v=1787501039
   - [Christmas Tree](https://angelaurareiki.myshopify.com/products/knockers-kismet-chapstick-custom-chapstick-organic-lip-balm-choose-your-scent-botanical-all-natural-hydrating?variant=44408145346648)
     Availability: Available
     Price: $11.49 USD
@@ -961,22 +961,22 @@
     Availability: Available
     Price: $13.00 USD
 - [Raw Hide Tinted Chapstick | Nude and/or Pink | Organic Plant-Based Moisturizer | Lip Balm | Botanical Sheer Tint | Gift Idea angelaurareiki](https://angelaurareiki.myshopify.com/products/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea): angelaurareiki
-  Updated: 2026-08-17T10:55:51Z
+  Updated: 2026-08-29T01:57:28Z
   Vendor: angelaurareiki
   Product Type: Tinted Chapstick
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8155340595_s35x.webp?v=1786888722
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea-angelaurareiki-bp1.webp?v=1787501124
   - [1 Nude / Custom](https://angelaurareiki.myshopify.com/products/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea?variant=44408149082200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8107435128_efqz.webp?v=1786888307
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea-angelaurareiki-CAm.webp?v=1787501351
     Price: $10.00 USD
   - [1 Pink / Custom](https://angelaurareiki.myshopify.com/products/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea?variant=44408149114968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8155340587_o7ed.webp?v=1786888466
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea-angelaurareiki-os5.webp?v=1787500870
     Price: $10.00 USD
   - [1 Nude + 1 Pink / Custom](https://angelaurareiki.myshopify.com/products/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea?variant=44408149147736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8155340595_s35x.webp?v=1786888722
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea-angelaurareiki-bp1.webp?v=1787501124
     Price: $20.00 USD
   - [2 Nude + 2 Pink / Custom](https://angelaurareiki.myshopify.com/products/raw-hide-tinted-chapstick-nude-and-or-pink-organic-plant-based-moisturizer-lip-balm-botanical-sheer-tint-gift-idea?variant=44408149180504)
     Availability: Available
@@ -991,18 +991,18 @@
     Availability: Available
     Price: $90.00 USD
 - [Mascara, Milky Way Manifold Mascara | Botanical, Natural, Volume for Lashes Makeup angelaurareiki](https://angelaurareiki.myshopify.com/products/mascara-milky-way-manifold-mascara-botanical-natural-volume-lash-makeup): angelaurareiki
-  Updated: 2026-08-17T08:13:27Z
+  Updated: 2026-08-29T01:57:28Z
   Vendor: Etsy
   Product Type: Mascara
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Facetune_28-07-2026-03-37-15_heic.webp?v=1786888112
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/mascara-milky-way-manifold-mascara-botanical-natural-volume-for-lashes-makeup-angelaurareiki-paG.webp?v=1787501228
   Price: $15.50 USD
 - [Botanical Vegan Liquid Soap | Prosperity Vanilla Edition, Organic Cleansing Hydrating Hand Soap, Pick Your Scent angelaurareiki](https://angelaurareiki.myshopify.com/products/botanical-vegan-liquid-soap-prosperity-vanilla-edition-organic-cleansing-hydrating-hand-soap-pick-your-scent): angelaurareiki
-  Updated: 2026-08-17T06:53:58Z
+  Updated: 2026-08-29T01:57:28Z
   Vendor: angelaurareiki
   Product Type: disenfecting hand wash
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8078608647_62hi.webp?v=1786888461
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/botanical-vegan-liquid-soap-prosperity-vanilla-edition-organic-cleansing-hydrating-hand-soap-pick-your-scent-angelaurareiki-Y1I.webp?v=1787500893
   - [Strawberry Chocolate](https://angelaurareiki.myshopify.com/products/botanical-vegan-liquid-soap-prosperity-vanilla-edition-organic-cleansing-hydrating-hand-soap-pick-your-scent?variant=44408158322776)
     Availability: Available
     Price: $18.00 USD
@@ -1085,18 +1085,18 @@
     Availability: Available
     Price: $22.00 USD
 - [Marshmallow Mud Face Mask | Organic Botanical Clay, Depuffing, Clarifying, Exfoliating Formula angelaurareiki](https://angelaurareiki.myshopify.com/products/marshmallow-mud-face-mask-organic-botanical-clay-depuffing-clarifying-exfoliating-formula): angelaurareiki
-  Updated: 2026-08-17T10:45:43Z
+  Updated: 2026-08-29T01:57:29Z
   Vendor: Etsy
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8193846546_kote.webp?v=1786888484
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/marshmallow-mud-face-mask-organic-botanical-clay-depuffing-clarifying-exfoliating-formula-angelaurareiki-ZAd.webp?v=1787500884
   Price: $14.00 USD
 - [Smoky Quartz Point Crystal | Raw Lemurian Reiki Morion Cuarzo Crystal | Brazil Natural Smoky Quartz angelaurareiki](https://angelaurareiki.myshopify.com/products/smoky-quartz-point-crystal-raw-lemurian-reiki-morion-cuarzo-crystal-brazil-natural-smoky-quartz): angelaurareiki
-  Updated: 2026-08-17T08:31:14Z
+  Updated: 2026-08-29T01:57:29Z
   Vendor: angelaurareiki
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.7994581618_h41j.webp?v=1786888662
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/smoky-quartz-point-crystal-raw-lemurian-reiki-morion-cuarzo-crystal-brazil-natural-smoky-quartz-angelaurareiki-SoM.webp?v=1787501071
   - [12 grams](https://angelaurareiki.myshopify.com/products/smoky-quartz-point-crystal-raw-lemurian-reiki-morion-cuarzo-crystal-brazil-natural-smoky-quartz?variant=44408189616216)
     Availability: Available
     Price: $12.00 USD
@@ -1107,55 +1107,55 @@
     Availability: Available
     Price: $8.00 USD
 - [Mini Soap Bars | Organic Botanical Travel Airbnb Soaps: Wedding, Bridal + Baby Shower, Birthday, Thank You Gift, Guest Soap, angelaurareiki angelaurareiki](https://angelaurareiki.myshopify.com/products/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki): angelaurareiki
-  Updated: 2026-08-17T05:25:15Z
+  Updated: 2026-08-29T01:57:29Z
   Vendor: angelaurareiki
   Product Type: mini gift soap
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8110975628_2ap3.webp?v=1786888721
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki-angelaurareiki-RwY.webp?v=1787501151
   - [1 Set (2 Mini Soaps) / Custom](https://angelaurareiki.myshopify.com/products/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki?variant=44408195579992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8110975628_2ap3.webp?v=1786888721
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki-angelaurareiki-RwY.webp?v=1787501151
     Price: $10.00 USD
   - [2 Set (4 Mini Soaps) / Custom](https://angelaurareiki.myshopify.com/products/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki?variant=44408195612760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8110975628_2ap3.webp?v=1786888721
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki-angelaurareiki-RwY.webp?v=1787501151
     Price: $15.00 USD
   - [3 Set (6 Mini Soaps) / Custom](https://angelaurareiki.myshopify.com/products/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki?variant=44408195645528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8110975628_2ap3.webp?v=1786888721
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki-angelaurareiki-RwY.webp?v=1787501151
     Price: $23.00 USD
   - [5 Set (10 Mini Soap) / Custom](https://angelaurareiki.myshopify.com/products/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki?variant=44408195678296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8110975628_2ap3.webp?v=1786888721
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki-angelaurareiki-RwY.webp?v=1787501151
     Price: $35.00 USD
   - [10 Set(20 Mini Soap) / Custom](https://angelaurareiki.myshopify.com/products/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki?variant=44408195711064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8110975628_2ap3.webp?v=1786888721
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki-angelaurareiki-RwY.webp?v=1787501151
     Price: $50.00 USD
   - [20 Set(40 Mini Soap) / Custom](https://angelaurareiki.myshopify.com/products/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki?variant=44408195743832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8110975628_2ap3.webp?v=1786888721
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/mini-soap-bars-organic-botanical-travel-airbnb-soaps-wedding-bridal-baby-shower-birthday-thank-you-gift-guest-soap-angelaurareiki-angelaurareiki-RwY.webp?v=1787501151
     Price: $75.00 USD
 - [angelaurareiki Botanical Lipstick Collection | BareBeat (Nude) Heartbeat (Red) - Organic Natural | Titanium Dioxide Free | Carmine Free angelaurareiki](https://angelaurareiki.myshopify.com/products/angelaurareiki-botanical-lipstick-collection-barebeat-nude-heartbeat-red-organic-natural-titanium-dioxide-free-carmine-free): angelaurareiki
-  Updated: 2026-08-17T08:29:23Z
+  Updated: 2026-08-29T01:57:30Z
   Vendor: angelaurareiki
   Product Type: Lipstick set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8109630046_1mu9.webp?v=1786888509
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/angelaurareiki-botanical-lipstick-collection-barebeat-nude-heartbeat-red-organic-natural-titanium-dioxide-free-carmine-free-angelaurareiki-zwj.webp?v=1787500916
   - [BareBeat + Heartbeat](https://angelaurareiki.myshopify.com/products/angelaurareiki-botanical-lipstick-collection-barebeat-nude-heartbeat-red-organic-natural-titanium-dioxide-free-carmine-free?variant=44408196366424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8109630046_1mu9.webp?v=1786888509
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/angelaurareiki-botanical-lipstick-collection-barebeat-nude-heartbeat-red-organic-natural-titanium-dioxide-free-carmine-free-angelaurareiki-zwj.webp?v=1787500916
     Price: $6.00 USD
   - [BareBeat (Nude)](https://angelaurareiki.myshopify.com/products/angelaurareiki-botanical-lipstick-collection-barebeat-nude-heartbeat-red-organic-natural-titanium-dioxide-free-carmine-free?variant=44408196399192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8109630038_cuju.webp?v=1786888502
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/angelaurareiki-botanical-lipstick-collection-barebeat-nude-heartbeat-red-organic-natural-titanium-dioxide-free-carmine-free-angelaurareiki-0Gq.webp?v=1787500949
     Price: $3.50 USD
   - [Heartbeat (Red)](https://angelaurareiki.myshopify.com/products/angelaurareiki-botanical-lipstick-collection-barebeat-nude-heartbeat-red-organic-natural-titanium-dioxide-free-carmine-free?variant=44408196431960)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8157536367_sk9j.webp?v=1786888543
+    Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/angelaurareiki-botanical-lipstick-collection-barebeat-nude-heartbeat-red-organic-natural-titanium-dioxide-free-carmine-free-angelaurareiki-nuP.webp?v=1787500941
     Price: $3.50 USD
 - [Distant Shamanic Reiki Session for Healing and Balance Today angelaurareiki](https://angelaurareiki.myshopify.com/products/reiki-session-now-distant-shamanic-reiki): angelaurareiki
-  Updated: 2026-08-13T16:00:37Z
+  Updated: 2026-08-29T01:57:30Z
   Vendor: angelaurareiki
   Product Type: shaman reiki session
   Availability: Available
@@ -1167,11 +1167,11 @@
     Availability: Available
     Price: $60.00 USD
 - [Shadow Chakra Lip Gloss -Muldhara Red/Pink angelaurareiki](https://angelaurareiki.myshopify.com/products/shadow-chakra-lip-gloss-muldhara-red-pink): angelaurareiki
-  Updated: 2026-08-17T08:31:57Z
+  Updated: 2026-08-29T01:57:30Z
   Vendor: angelaurareiki
   Product Type: Lip Plumper
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.7858837360_dj8x.webp?v=1786888722
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/shadow-chakra-lip-gloss-muldhara-red-pink-angelaurareiki-UuI.webp?v=1787501125
   - [.5 oz](https://angelaurareiki.myshopify.com/products/shadow-chakra-lip-gloss-muldhara-red-pink?variant=44408217796696)
     Availability: Available
     Price: $18.00 USD
@@ -1182,11 +1182,11 @@
     Availability: Available
     Price: $26.00 USD
 - [Lip Tint | Cosmo Ki Rosy Lip Tint  Herbal Hydrating Sheer Pink Balm angelaurareiki](https://angelaurareiki.myshopify.com/products/lip-tint-cosmo-ki-rosy-lip-tint-herbal-hydrating-sheer-pink-balm): angelaurareiki
-  Updated: 2026-08-17T09:47:32Z
+  Updated: 2026-08-29T01:57:31Z
   Vendor: Etsy
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.7844520292_bzf6.webp?v=1786888522
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/lip-tint-cosmo-ki-rosy-lip-tint-herbal-hydrating-sheer-pink-balm-angelaurareiki-E2t.webp?v=1787500920
   - [.5 oz](https://angelaurareiki.myshopify.com/products/lip-tint-cosmo-ki-rosy-lip-tint-herbal-hydrating-sheer-pink-balm?variant=44408218386520)
     Availability: Available
     Price: $8.00 USD
@@ -1197,11 +1197,11 @@
     Availability: Available
     Price: $8.00 USD
 - [Raw Amethyst Crystals | Natural Brazilian Gemstone, Intuitive, Tranquil (24 cm) angelaurareiki](https://angelaurareiki.myshopify.com/products/raw-amethyst-crystals-natural-brazilian-gemstone-intuitive-tranquil-24-cm): angelaurareiki
-  Updated: 2026-08-17T09:59:48Z
+  Updated: 2026-08-29T01:57:31Z
   Vendor: Etsy
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8014821983_ju3n.webp?v=1786888522
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/raw-amethyst-crystals-natural-brazilian-gemstone-intuitive-tranquil-24-cm-angelaurareiki-ZBx.webp?v=1787501558
   - [1](https://angelaurareiki.myshopify.com/products/raw-amethyst-crystals-natural-brazilian-gemstone-intuitive-tranquil-24-cm?variant=44408229036120)
     Availability: Available
     Price: $6.00 USD
@@ -1239,18 +1239,18 @@
     Availability: Available
     Price: $8.00 USD
 - [Totem Guard Pore Blurring Primer - Clarifying Face Makeup Primer angelaurareiki](https://angelaurareiki.myshopify.com/products/totem-guard-makeup-primer-pore-blurring-clarifying-face-primer): angelaurareiki
-  Updated: 2026-08-17T14:26:54Z
+  Updated: 2026-08-29T01:57:31Z
   Vendor: angelaurareiki
   Product Type: Makeup
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/721A8993-D2E8-4EF1-AE9C-29A91A548F42.webp?v=1786888529
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/totem-guard-pore-blurring-primer-clarifying-face-makeup-primer-angelaurareiki-nek.webp?v=1787500926
   Price: $15.00 USD
 - [White Bear Creamy Concealer | Natural Herbal Mineral Makeup, Full Coverage Foundation |.5g angelaurareiki](https://angelaurareiki.myshopify.com/products/white-bear-creamy-concealer-natural-herbal-mineral-makeup-full-coverage-foundation-5g): angelaurareiki
-  Updated: 2026-08-17T08:16:47Z
+  Updated: 2026-08-29T01:57:32Z
   Vendor: Etsy
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.8068770249_ldyq.webp?v=1786888547
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/white-bear-creamy-concealer-natural-herbal-mineral-makeup-full-coverage-foundation-5g-angelaurareiki-s8N.webp?v=1787500945
   - [Fair](https://angelaurareiki.myshopify.com/products/white-bear-creamy-concealer-natural-herbal-mineral-makeup-full-coverage-foundation-5g?variant=44408230117464)
     Availability: Available
     Price: $15.00 USD
@@ -1261,11 +1261,11 @@
     Availability: Available
     Price: $15.00 USD
 - [Organic Velvet Garden Soap Bar | Handmade Herbal Body Face Cleanser angelaurareiki](https://angelaurareiki.myshopify.com/products/organic-velvet-garden-soap-bar-handmade-herbal-body-face-cleanser): angelaurareiki
-  Updated: 2026-08-17T10:46:35Z
+  Updated: 2026-08-29T01:57:32Z
   Vendor: Etsy
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.7984568140_rzcx.webp?v=1786888553
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/organic-velvet-garden-soap-bar-handmade-herbal-body-face-cleanser-angelaurareiki-ks2.webp?v=1787501018
   - [Square / Custom](https://angelaurareiki.myshopify.com/products/organic-velvet-garden-soap-bar-handmade-herbal-body-face-cleanser?variant=44408230510680)
     Availability: Available
     Price: $25.00 USD
@@ -1273,11 +1273,11 @@
     Availability: Available
     Price: $25.00 USD
 - [Labradorite Reiki Infused Polished Labradorite Tumbled Authentic Crystal angelaurareiki](https://angelaurareiki.myshopify.com/products/labradorite-reiki-infused-polished-labradorite-tumbled-authentic-crystal): angelaurareiki
-  Updated: 2026-08-17T10:47:49Z
+  Updated: 2026-08-29T01:57:32Z
   Vendor: Etsy
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.7909390258_cl02.webp?v=1786888680
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/labradorite-reiki-infused-polished-labradorite-tumbled-authentic-crystal-angelaurareiki-S5q.webp?v=1787501095
   - [Small—6 grams(1)](https://angelaurareiki.myshopify.com/products/labradorite-reiki-infused-polished-labradorite-tumbled-authentic-crystal?variant=44408230969432)
     Availability: Available
     Price: $1.15 USD
@@ -1291,11 +1291,11 @@
     Availability: Available
     Price: $40.00 USD
 - [Authentic Moldavite Raw Crystal,  Czech Tektite Stone 2.5 g angelaurareiki](https://angelaurareiki.myshopify.com/products/authentic-moldavite-raw-crystal--czech-tektite-stone-1825-mm): angelaurareiki
-  Updated: 2026-08-17T10:00:14Z
+  Updated: 2026-08-29T01:57:33Z
   Vendor: angelaurareiki
   Product Type: Moldavite Crystal
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/il_fullxfull.7968753213_hf4g.webp?v=1786888572
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/authentic-moldavite-raw-crystal--czech-tektite-stone-2-5-g-angelaurareiki-6Xt.webp?v=1787500976
   - [#1](https://angelaurareiki.myshopify.com/products/authentic-moldavite-raw-crystal--czech-tektite-stone-1825-mm?variant=44408233001048)
     Availability: Available
     Price: $70.00 USD
@@ -1312,7 +1312,7 @@
     Availability: Available
     Price: $90.00 USD
 - [World Tree Custom Hand Soap | Handcrafted Organic & Vegan Soap | Holistic Cleaning angelaurareiki](https://angelaurareiki.myshopify.com/products/world-tree-custom-hand-soap-handcrafted-organic-vegan-soap-holistic-cleaning): angelaurareiki
-  Updated: 2026-08-13T16:00:48Z
+  Updated: 2026-08-29T01:57:33Z
   Vendor: angelaurareiki
   Product Type: anti bacterial hand soap
   Availability: Available
@@ -1467,11 +1467,11 @@
     Availability: Available
     Price: $20.00 USD
 - [Koko Cream: Clarifying Skin Lotion, Vegan Herbal Infusion for Oily Complexions, Custom Scents, Spot Corrector angelaurareiki](https://angelaurareiki.myshopify.com/products/koko-cream-clarifying-skin-lotion-vegan-herbal-infusion-for-oily-complexions-custom-scents-spot-corrector): angelaurareiki
-  Updated: 2026-08-17T08:30:16Z
+  Updated: 2026-08-29T01:57:33Z
   Vendor: angelaurareiki
   Product Type: Acne Cream
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Add-Clarifies-to-Hydrates-Label-_1.webp?v=1786888579
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/koko-cream-clarifying-skin-lotion-vegan-herbal-infusion-for-oily-complexions-custom-scents-spot-corrector-angelaurareiki-fCm.webp?v=1787500998
   - [Christmas Tree / 8 oz](https://angelaurareiki.myshopify.com/products/koko-cream-clarifying-skin-lotion-vegan-herbal-infusion-for-oily-complexions-custom-scents-spot-corrector?variant=44454203195480)
     Availability: Available
     Price: $18.00 USD
@@ -1623,11 +1623,11 @@
     Availability: Available
     Price: $20.00 USD
 - [Venus Crystal Infused Body Oil - Botanical Love Spell Ritual Custom Scent angelaurareiki](https://angelaurareiki.myshopify.com/products/venus-crystal-infused-body-oil-botanical-love-spell-ritual-custom-scent): angelaurareiki
-  Updated: 2026-08-17T12:44:28Z
+  Updated: 2026-08-29T01:57:34Z
   Vendor: angelaurareiki
   Product Type: body oil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Facetune_25-07-2026-23-45-532_44da06a0-bec2-41a3-86fb-7f205dcf05e5.webp?v=1786888585
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/venus-crystal-infused-body-oil-botanical-love-spell-ritual-custom-scent-angelaurareiki-8yy.webp?v=1787501486
   - [Christmas Tree / 2 oz](https://angelaurareiki.myshopify.com/products/venus-crystal-infused-body-oil-botanical-love-spell-ritual-custom-scent?variant=44471638589528)
     Availability: Available
     Price: $16.00 USD
@@ -1779,11 +1779,11 @@
     Availability: Available
     Price: $24.00 USD
 - [Honey & Thyme Clarifying Face Soap for Acne | Organic angelaurareiki](https://angelaurareiki.myshopify.com/products/honey-thyme-clarifying-soap-bar-organic-face-cleanser): angelaurareiki
-  Updated: 2026-08-17T10:19:57Z
+  Updated: 2026-08-29T01:57:34Z
   Vendor: angelaurareiki
   Product Type: Acne Face Soap Bar
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Facetune_24-07-2026-15-07-44.webp?v=1786888688
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/honey-thyme-clarifying-face-soap-for-acne-organic-angelaurareiki-w8n.webp?v=1787501088
   - [Christmas Tree](https://angelaurareiki.myshopify.com/products/honey-thyme-clarifying-soap-bar-organic-face-cleanser?variant=44472974245976)
     Availability: Available
     Price: $17.00 USD
@@ -1905,11 +1905,11 @@
     Availability: Available
     Price: $17.00 USD
 - [Wildwoods Organic Beard Oil & Growth Serum for Itchy Skin angelaurareiki](https://angelaurareiki.myshopify.com/products/wildwoods-growth-beard-oil-for-itchy-skin-organic-conditioning-grooming-serum-gift-for-him): angelaurareiki
-  Updated: 2026-08-17T14:05:11Z
+  Updated: 2026-08-29T01:57:34Z
   Vendor: angelaurareiki
   Product Type: Beard Growth OIl
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Facetune_30-07-2026-19-41-23.webp?v=1786888215
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/wildwoods-organic-beard-oil-growth-serum-for-itchy-skin-angelaurareiki-xgo.webp?v=1787501395
   - [Christmas Tree](https://angelaurareiki.myshopify.com/products/wildwoods-growth-beard-oil-for-itchy-skin-organic-conditioning-grooming-serum-gift-for-him?variant=44483453517912)
     Availability: Available
     Price: $17.00 USD
@@ -2031,11 +2031,11 @@
     Availability: Available
     Price: $19.00 USD
 - [Golden Solar Glow Balm | Vegan & Organic Highlighter Makeup angelaurareiki](https://angelaurareiki.myshopify.com/products/golden-solar-glow-balm-vegan-organic-highlighter-makeup): angelaurareiki
-  Updated: 2026-08-17T03:52:54Z
+  Updated: 2026-08-29T01:57:35Z
   Vendor: angelaurareiki
   Product Type: Highlighter Makeup Face Balm
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/AirElementColor-D9A441-_1.webp?v=1786888374
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/golden-solar-glow-balm-vegan-organic-highlighter-makeup-angelaurareiki-nAb.webp?v=1787501438
   - [Christmas Tree / Cool Pink / Subtle Glow](https://angelaurareiki.myshopify.com/products/golden-solar-glow-balm-vegan-organic-highlighter-makeup?variant=44496996401240)
     Availability: Available
     Price: $24.00 USD
@@ -2187,11 +2187,11 @@
     Availability: Available
     Price: $24.00 USD
 - [Thymes All Natural Deodorant for Men | Long-Lasting Organic | angelaurareiki](https://angelaurareiki.myshopify.com/products/thymes-deodorant-all-natural): angelaurareiki
-  Updated: 2026-08-17T09:33:23Z
+  Updated: 2026-08-29T01:57:35Z
   Vendor: angelaurareiki
   Product Type: Natural Deodorant
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Facetune_01-08-2026-03-27-37_heic.webp?v=1786888609
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/thymes-all-natural-deodorant-for-men-long-lasting-organic-angelaurareiki-rZP.webp?v=1787501005
   - [Christmas Tree / Spray Deodorant](https://angelaurareiki.myshopify.com/products/thymes-deodorant-all-natural?variant=44503919362136)
     Availability: Available
     Price: $14.00 USD
@@ -2343,18 +2343,18 @@
     Availability: Available
     Price: $14.00 USD
 - [Natural Cast Iron Cleaner & Cauldron Scrub Paste angelaurareiki](https://angelaurareiki.myshopify.com/products/cast-iron-safe-cleaner-herbal-all-natural-scrub-paste-soap-antibacterial): angelaurareiki
-  Updated: 2026-08-17T16:25:06Z
+  Updated: 2026-08-29T01:57:35Z
   Vendor: angelaurareiki
   Product Type: Cast iron cleaner
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Facetune_05-08-2026-16-43-04_heic.webp?v=1786888617
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/natural-cast-iron-cleaner-cauldron-scrub-paste-angelaurareiki-vNT.webp?v=1787501109
   Price: $13.00 USD
 - [Herbal Hawthorn Vegan Body Scrub, Emulsified & Exfoliating angelaurareiki](https://angelaurareiki.myshopify.com/products/herbal-hawthorn-vegan-body-scrub-emulsified-exfoliating): angelaurareiki
-  Updated: 2026-08-17T09:41:09Z
+  Updated: 2026-08-29T01:57:36Z
   Vendor: angelaurareiki
   Product Type: body scrub
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/JarLabelPlacementEdit_36857267-9f64-4885-9ebe-d6ffe44d5b1e.webp?v=1786887844
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/herbal-hawthorn-vegan-body-scrub-emulsified-exfoliating-angelaurareiki-W8o.webp?v=1787501171
   - [Christmas Tree](https://angelaurareiki.myshopify.com/products/herbal-hawthorn-vegan-body-scrub-emulsified-exfoliating?variant=44507814756440)
     Availability: Available
     Price: $17.00 USD
@@ -2476,14 +2476,14 @@
     Availability: Available
     Price: $19.00 USD
 - [Vegan Neptunes Lash Growth Serum | Organic Eye Lash Length Enhancing & Conditioning Formula angelaurareiki](https://angelaurareiki.myshopify.com/products/vegan-neptunes-lash-growth-serum-condition-longer-lashes): angelaurareiki
-  Updated: 2026-08-16T13:47:13Z
+  Updated: 2026-08-29T01:57:36Z
   Vendor: angelaurareiki
   Product Type: Lash growth Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/vegan-neptunes-lash-growth-serum-organic-eye-lash-length-enhancing-conditioning-formula-angelaurareiki-yg5.webp?v=1786888022
   Price: $23.00 USD
 - [Reiki Infused Herbal Lip Plumper Balm | Shamanic Ha Breath angelaurareiki](https://angelaurareiki.myshopify.com/products/lip-plumper-herbal-ha-breath-lip-plumping-balm-shamanic-reiki-infused): angelaurareiki
-  Updated: 2026-08-13T16:00:58Z
+  Updated: 2026-08-29T01:57:36Z
   Vendor: angelaurareiki
   Product Type: Lip Plumper
   Availability: Available
@@ -2609,18 +2609,18 @@
     Availability: Available
     Price: $19.00 USD
 - [Authentic Moldavite Crystal, Genuine Raw Moldavite, Moldavite Gemstone angelaurareiki](https://angelaurareiki.myshopify.com/products/authentic-moldavite-crystal-genuine-raw-moldavite-moldavite-gemstone): angelaurareiki
-  Updated: 2026-08-16T16:00:10Z
+  Updated: 2026-08-29T01:57:37Z
   Vendor: angelaurareiki
   Product Type: Moldavite Crystal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/authentic-moldavite-crystal-genuine-raw-moldavite-moldavite-gemstone-angelaurareiki-2Pw.webp?v=1786888687
   Price: $30.00 USD
 - [Custom Botanical Eye Serum with Real Crystals for Brightening, Anti-Aging, & Reducing Puffiness angelaurareiki](https://angelaurareiki.myshopify.com/products/custom-botanical-eye-serum-with-real-crystals-for-brightening-anti-aging-reducing-puffiness): angelaurareiki
-  Updated: 2026-08-17T13:17:42Z
+  Updated: 2026-08-29T01:57:37Z
   Vendor: angelaurareiki
   Product Type: Eye Serum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/crystalserum2.webp?v=1786887877
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/custom-botanical-eye-serum-with-real-crystals-for-brightening-anti-aging-reducing-puffiness-angelaurareiki-w9u.webp?v=1787501513
   - [Amethyst](https://angelaurareiki.myshopify.com/products/custom-botanical-eye-serum-with-real-crystals-for-brightening-anti-aging-reducing-puffiness?variant=44594728239192)
     Availability: Available
     Price: $12.50 USD
@@ -2642,12 +2642,12 @@
   - [Howlie](https://angelaurareiki.myshopify.com/products/custom-botanical-eye-serum-with-real-crystals-for-brightening-anti-aging-reducing-puffiness?variant=44594728435800)
     Availability: Available
     Price: $12.50 USD
-- [Herbal Liquid Hand Soap, Gift Idea, Lake Maidens Soap angelaurareiki](https://angelaurareiki.myshopify.com/products/herbal-liquid-hand-soap-gift-idea-lake-maidens-soap): angelaurareiki
-  Updated: 2026-08-17T05:14:50Z
+- [Herbal Liquid Hand Soap, Gift Idea, Lake Maidens Soap - Angelaurareiki - anti bacterial hand soap](https://angelaurareiki.myshopify.com/products/herbal-liquid-hand-soap-gift-idea-lake-maidens-soap): 🌿 Herbal Liquid Hand Soap - Lake Maidens Soap Transform your daily routine into a delightful ritual with our Herbal Liquid Hand Soap, expertly crafted from all-natural ingredients. This isn't just soap; it's a lavish herbal infusion that envelops your senses in the soothing aroma of lavender forests while gently cleansing your body, hair, and even your dishes. Experience the perfect blend of luxury and sustainability, all in one bottle! ✨ Key Features: 🌱 **All-Natural Ingredients:** Enjoy peace of mind with our 100% natural formulation, free from harmful additives. 🌼 **Versatile Use:** Ideal for body, hair, dishes, and surfaces, making it a multitasking must-have for every home. 💧 **Moisturizing & Hydrating:** Infused with skin-loving properties to keep your skin soft, nourished, and rejuvenated. 🌸 **Customizable Options:** Personalize your scent and label for a unique touch that matches your style. 🎁 **Gift-Ready Packaging:** Complete with a cap, pump, and a crystal, making it an exquisite gift for any occasion. 📏 Specifications: Size: 4 oz or 8 oz 🌟 Customer Reviews: "Absolutely love this soap! The aroma is heavenly and the ingredients are transparent. This is a game-changer for my skincare routine!" 🛒 Act Now - Limited Stock! Don't miss out on the enchanting benefits of Lake Maidens Herbal Liquid Hand Soap! Perfect for treating yourself or gifting to someone special. Elevate your cleansing experience and give your home the natural touch it deserves. Order yours today before they're gone! - Angelaurareiki - Herbal Liquid Hand Soap, Gift Idea, Lake Maidens Soap
+  Updated: 2026-08-29T01:57:37Z
   Vendor: angelaurareiki
   Product Type: anti bacterial hand soap
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/275BA37B-04B6-4E65-8A2B-77AF4BF4F073.webp?v=1786887923
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/herbal-liquid-hand-soap-gift-idea-lake-maidens-soap-angelaurareiki-5ql.webp?v=1787580346
   - [Christmas Tree](https://angelaurareiki.myshopify.com/products/herbal-liquid-hand-soap-gift-idea-lake-maidens-soap?variant=44605394157656)
     Availability: Available
     Price: $17.00 USD
@@ -2768,18 +2768,18 @@
   - [Custom](https://angelaurareiki.myshopify.com/products/herbal-liquid-hand-soap-gift-idea-lake-maidens-soap?variant=44605395435608)
     Availability: Available
     Price: $19.00 USD
-- [Aragonite Star Cluster, Natural Raw Aragonite Crystal angelaurareiki](https://angelaurareiki.myshopify.com/products/aragonite-star-cluster-natural-raw-aragonite-crystal): angelaurareiki
-  Updated: 2026-08-17T09:08:55Z
+- [Aragonite Star Cluster, Natural Raw Aragonite Crystal - Angelaurareiki - crystal](https://angelaurareiki.myshopify.com/products/aragonite-star-cluster-natural-raw-aragonite-crystal): Bring balance, grounding energy, and radiant natural warmth into your space with this authentic raw Aragonite Star Cluster. Featuring vibrant honey-amber and red prismatic crystal points radiating outward, each specimen offers a unique geometric formation celebrated for its soothing, clarifying presence.Key Features & Benefits Deep Earth Grounding: Connects with the Root and Sacral chakras to help release stress, tension, and emotional stagnation while stabilizing personal energy. Radiant Prismatic Growth: Natural starburst cluster formation with multifaceted, terminated crystals that catch light and display rich amber-orange hues. Focus & Emotional Balance: Renowned as a stone of patience and centering, making it an ideal companion for busy workdays, mindful breathing, or creative focus. Recommended Use Cases Meditation & Breathwork: Hold during grounding rituals or place nearby to anchor your focus and cultivate tranquility. Sacred Space & Altar Decor: Elevate your crystal altar, desk, or nightstand with an organic sculptural centerpiece. Crystal Healing Grids: Anchor intention grids with its multi-directional radial energy flow. Product Details Origin: Molina de Aragón, Spain Weight: Approx. 2.65 oz (75g) Dimensions: Approx. 2" x 1.25" Specimen: 100% natural, untreated raw aragonite cluster - Angelaurareiki - Aragonite Star Cluster, Natural Raw Aragonite Crystal
+  Updated: 2026-08-29T01:57:37Z
   Vendor: angelaurareiki
   Product Type: crystal
   Availability: Available
   Price: $8.00 USD
-- [Earth Conscious Liquid Contour - Vegan & Organic Sculpting angelaurareiki](https://angelaurareiki.myshopify.com/products/organic-vegan-liquid-contour): angelaurareiki
-  Updated: 2026-08-17T06:37:24Z
+- [Organic Vegan Liquid Contour - Sculpting Made Easy- Earth Conscious Contour - Angelaurareiki - Vegan Contour](https://angelaurareiki.myshopify.com/products/organic-vegan-liquid-contour): Elevate Your Look with Organic Vegan Liquid Contour Transform your makeup routine with our Organic Vegan Liquid Contour. This incredible sculpting tool allows you to define and enhance your facial features naturally, resulting in a polished look that radiates confidence. With a blend of real cacao powder and mineral pigments, this contour provides a seamless shade that mimics natural shadows, ensuring you achieve a flawless finish. Easy to use and mess-free, the twist-flow brush applicator lets you apply with precision—perfect for those busy mornings or last-minute touch-ups. Get ready to boost your confidence while keeping your skin healthy! Natural Ingredients: Made with organic cacao powder and botanical extracts, it’s gentle on your skin and the planet. Easy Application: The built-in brush allows for quick, on-the-go sculpting, saving you precious time! Variety of Shades: Choose from four stunning shades designed to suit every skin tone. Eco-Friendly: Low-waste production means you can look good while feeling good about your choices. With our Organic Vegan Liquid Contour, you’re not just applying makeup; you’re enhancing your natural beauty sustainably. Experience effortless sculpting that feels as good as it looks. Don’t wait—grab yours today for a radiant, sculpted glow that lasts! - Angelaurareiki - Organic Vegan Liquid Contour - Sculpting Made Easy- Earth Conscious Contour
+  Updated: 2026-08-29T01:57:38Z
   Vendor: angelaurareiki
   Product Type: Vegan Contour
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Facetune_08-08-2026-20-14-41_heic.webp?v=1786887955
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/earth-conscious-liquid-contour-vegan-organic-sculpting-angelaurareiki-pZO.webp?v=1787501178
   - [Fair Taupe](https://angelaurareiki.myshopify.com/products/organic-vegan-liquid-contour?variant=44607289655384)
     Availability: Available
     Price: $6.50 USD
@@ -2792,8 +2792,8 @@
   - [Deep Cocoa](https://angelaurareiki.myshopify.com/products/organic-vegan-liquid-contour?variant=44607289753688)
     Availability: Not Available
     Price: $6.50 USD
-- [Herbal Liquid Hand Soap, Gift Idea, Lake Maidens Soap angelaurareiki](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented): Earth Body Wash is  a completely plant-based, organic herbal custom scented body wash that actually cleans. Carefully crafted for those who love clean beauty.
-  Updated: 2026-08-19T05:20:01Z
+- [Organic Earth Body Wash- Vegan Custom Scented - Angelaurareiki - Body wash](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented): ✨ Organic Earth Body Wash - Vegan Custom Scented Step into a world of luxury and self-care with our Organic Earth Body Wash. Designed for the luxury shopper who seeks both quality and sustainability, this exclusive vegan body wash transforms your daily shower into a rejuvenating escape. Infused with rich botanicals and your choice of over 40 custom scents, it not only cleanses but also nourishes your skin, enveloping you in a soothing aromatic experience. Elevate your skincare routine with a product that promises to pamper your body and invigorate your senses. 🌿 Why You'll Adore It: Deeply Purifying: Enjoy a refreshing cleanse that banishes dirt and sweat, leaving your skin feeling revitalized and clear. Exfoliation Option: Opt for our gentle exfoliating formula to achieve irresistibly smooth skin. Cooling & Soothing: Formulated with real aloe vera gel, it calms irritation and hydrates dry skin. 100% Vegan & Organic: Ethical ingredients sourced with care for both you and the planet. Gentle Formula: Free from sulfates, synthetic fragrances, and artificial dyes, perfect for sensitive skin. 📋 Specifications: Size: 12 fl. oz. Scent Options: Choose from over 40 unique custom scents Usage: Suitable for all skin types 💬 Customer Reviews: "The aloe vera makes my skin feel luxurious! Customizing my scent is a game changer." - Sarah M. "It’s the perfect blend of luxury and nature. I feel pampered every day!" - David R. 🛒 Don't Miss Out on This Exclusive Experience! Indulge in our limited edition Organic Earth Body Wash today. Enhance your shower routine and treat your skin to the luxurious nourishment it deserves. Act now for a transformative experience that is just a click away! - Angelaurareiki - Organic Earth Body Wash- Vegan Custom Scented
+  Updated: 2026-08-29T01:57:38Z
   Vendor: angelaurareiki
   Product Type: Body wash
   Availability: Available
@@ -2918,6 +2918,273 @@
   - [Custom](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented?variant=44609459257432)
     Availability: Available
     Price: $19.00 USD
+- [Elemental Vegan Setting Face Mist - Organic Clarifying Spray for Hydration and Primer Use - Angelaurareiki - Face Mist](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy): Transform your skincare routine with our Elemental Setting & Primer Mist—a revolutionary 3-in-1 vegan and organic spray that hydrates, clarifies, and sets your makeup. Infused with 40 unique scents, including a custom option, this herbal mist elevates your beauty regimen by not only perfecting your makeup but also refreshing your skin throughout the day. Key Features: 3-in-1 Functionality: Acts as a makeup setting spray, primer, and refreshing face mist. Hydrating Formula: Deeply hydrates the skin, leaving it soft and smooth. Clarifying Benefits: Ideal for blemish-prone skin, promoting a clearer complexion. Custom Scents: Choose from 40 naturally sourced fragrances or create your own. Multi-functional: Use as a body mist, hair mist, or room spray. Eco-Friendly: Made with organic, botanical ingredients and no harsh chemicals. Specifications: Size 2 oz Type Vegan, Organic, Botanical Production Low-Waste, Eco-Friendly Scent 100% Naturally Scented Customer Reviews: "I love how refreshing this mist is! It keeps my makeup looking flawless all day!" - Sarah M. "The custom scent option makes it feel personal, and my skin has never looked better!" - Jenna R. Why Wait? Experience the transformative power of our Elemental Setting & Primer Mist. Hydrate, clarify, and set your makeup with one versatile spray. Order now and give your skin the care it deserves! - Angelaurareiki - Elemental Vegan Setting Face Mist - Organic Clarifying Spray for Hydration and Primer Use
+  Updated: 2026-08-30T01:58:43Z
+  Vendor: angelaurareiki
+  Product Type: Face Mist
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Firefly_2_copy5.png?v=1787184315
+  - [Christmas Tree](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625784897624)
+    Availability: Available
+    Price: $12.00 USD
+  - [Gingerbread Cookies](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625784930392)
+    Availability: Available
+    Price: $12.00 USD
+  - [Vanilla Bean](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625784963160)
+    Availability: Available
+    Price: $12.00 USD
+  - [Candy Cane](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625784995928)
+    Availability: Available
+    Price: $12.00 USD
+  - [Frankincense & Myrrh](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785028696)
+    Availability: Available
+    Price: $12.00 USD
+  - [Eggnog](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785061464)
+    Availability: Available
+    Price: $12.00 USD
+  - [Pumpkin Spice](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785094232)
+    Availability: Available
+    Price: $12.00 USD
+  - [Toasted Marshmallow](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785127000)
+    Availability: Available
+    Price: $12.00 USD
+  - [Witch’s Brew](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785159768)
+    Availability: Available
+    Price: $12.00 USD
+  - [Easter Basket](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785192536)
+    Availability: Available
+    Price: $12.00 USD
+  - [Hot Cross Buns](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785225304)
+    Availability: Available
+    Price: $12.00 USD
+  - [Spring Lily Garden](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785258072)
+    Availability: Available
+    Price: $12.00 USD
+  - [Chocolate Easter Egg](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785290840)
+    Availability: Available
+    Price: $12.00 USD
+  - [Strawberry Chocolate](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785323608)
+    Availability: Available
+    Price: $12.00 USD
+  - [Peach](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785356376)
+    Availability: Available
+    Price: $12.00 USD
+  - [Tomato](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785389144)
+    Availability: Available
+    Price: $12.00 USD
+  - [Carrot Cake](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785421912)
+    Availability: Available
+    Price: $12.00 USD
+  - [Buttercream](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785454680)
+    Availability: Available
+    Price: $12.00 USD
+  - [Chocolate pie](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785487448)
+    Availability: Available
+    Price: $12.00 USD
+  - [Sweet Vanilla](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785520216)
+    Availability: Available
+    Price: $12.00 USD
+  - [Rose Earth](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785552984)
+    Availability: Available
+    Price: $12.00 USD
+  - [Herbal Earthy](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785585752)
+    Availability: Available
+    Price: $12.00 USD
+  - [Lavender](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785618520)
+    Availability: Available
+    Price: $12.00 USD
+  - [Spicy Ginger](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785651288)
+    Availability: Available
+    Price: $12.00 USD
+  - [Rainstorm](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785684056)
+    Availability: Available
+    Price: $12.00 USD
+  - [Rose](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785716824)
+    Availability: Available
+    Price: $12.00 USD
+  - [Crisp Lemon](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785749592)
+    Availability: Available
+    Price: $12.00 USD
+  - [Flower Garden](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785782360)
+    Availability: Available
+    Price: $12.00 USD
+  - [Sun Drenched](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785815128)
+    Availability: Available
+    Price: $12.00 USD
+  - [Herbal Mocha Latte](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785847896)
+    Availability: Available
+    Price: $12.00 USD
+  - [Cinnamon Bun](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785880664)
+    Availability: Available
+    Price: $12.00 USD
+  - [Vanilla Choclate](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785913432)
+    Availability: Available
+    Price: $12.00 USD
+  - [Gumdrop](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785946200)
+    Availability: Available
+    Price: $12.00 USD
+  - [Cranberry](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625785978968)
+    Availability: Available
+    Price: $12.00 USD
+  - [Poundcake](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625786011736)
+    Availability: Available
+    Price: $12.00 USD
+  - [Blueberry pie](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625786044504)
+    Availability: Available
+    Price: $12.00 USD
+  - [Lucky Charms](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625786077272)
+    Availability: Available
+    Price: $12.00 USD
+  - [Fruit Loops](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625786110040)
+    Availability: Available
+    Price: $12.00 USD
+  - [Unscented](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625786142808)
+    Availability: Available
+    Price: $12.00 USD
+  - [Custom](https://angelaurareiki.myshopify.com/products/organic-earth-body-wash-vegan-custom-scented-copy?variant=44625786175576)
+    Availability: Available
+    Price: $14.00 USD
+- [Authentic Moldavite Crystal, Raw Green Tektite Gemstone (1.8-2.5g), Czech Republic](https://angelaurareiki.myshopify.com/products/authentic-moldavite-crystal-raw-green-tektite-gemstone-1-8-2-5g-czech-republic): Moldavite gleams in vibrant hues of various green & the cosmos, sourced directly from the mystical landscapes of the Czech Republic.
+  Updated: 2026-08-29T01:57:39Z
+  Vendor: angelaurareiki
+  Product Type: Moldavite Crystal
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Firefly_6_copy5.jpg?v=1787290170
+  Price: $55.00 USD
+- [Bare Organic Makeup Remover & Vegan Cleanser | angelaurareiki](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner): Gently dissolve waterproof makeup with Bare Organic Makeup Remover. Infused with botanical herbs, aloe, and rose water to clarify, soothe, and cleanse naturally.
+  Updated: 2026-08-29T01:57:39Z
+  Vendor: angelaurareiki
+  Product Type: Makeup Remover
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Firefly_6_copy_3.jpg?v=1787296948
+  - [Christmas Tree](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632652906584)
+    Availability: Available
+    Price: $17.00 USD
+  - [Gingerbread Cookies](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632652939352)
+    Availability: Available
+    Price: $17.00 USD
+  - [Vanilla Bean](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632652972120)
+    Availability: Available
+    Price: $17.00 USD
+  - [Candy Cane](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653004888)
+    Availability: Not Available
+    Price: $17.00 USD
+  - [Frankincense & Myrrh](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653037656)
+    Availability: Not Available
+    Price: $17.00 USD
+  - [Eggnog](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653070424)
+    Availability: Not Available
+    Price: $17.00 USD
+  - [Pumpkin Spice](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653103192)
+    Availability: Not Available
+    Price: $17.00 USD
+  - [Toasted Marshmallow](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653135960)
+    Availability: Not Available
+    Price: $17.00 USD
+  - [Witch’s Brew](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653168728)
+    Availability: Not Available
+    Price: $17.00 USD
+  - [Easter Basket](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653201496)
+    Availability: Not Available
+    Price: $17.00 USD
+  - [Hot Cross Buns](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653234264)
+    Availability: Not Available
+    Price: $17.00 USD
+  - [Spring Lily Garden](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653267032)
+    Availability: Not Available
+    Price: $17.00 USD
+  - [Chocolate Easter Egg](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653299800)
+    Availability: Available
+    Price: $17.00 USD
+  - [Strawberry Chocolate](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653332568)
+    Availability: Available
+    Price: $17.00 USD
+  - [Peach](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653365336)
+    Availability: Available
+    Price: $17.00 USD
+  - [Tomato](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653398104)
+    Availability: Available
+    Price: $17.00 USD
+  - [Carrot Cake](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653430872)
+    Availability: Available
+    Price: $17.00 USD
+  - [Buttercream](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653463640)
+    Availability: Available
+    Price: $17.00 USD
+  - [Chocolate pie](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653496408)
+    Availability: Available
+    Price: $17.00 USD
+  - [Sweet Vanilla](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653529176)
+    Availability: Available
+    Price: $17.00 USD
+  - [Rose Earth](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653561944)
+    Availability: Available
+    Price: $17.00 USD
+  - [Herbal Earthy](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653594712)
+    Availability: Available
+    Price: $17.00 USD
+  - [Lavender](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653627480)
+    Availability: Available
+    Price: $17.00 USD
+  - [Spicy Ginger](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653660248)
+    Availability: Available
+    Price: $17.00 USD
+  - [Rainstorm](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653693016)
+    Availability: Available
+    Price: $17.00 USD
+  - [Rose](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653725784)
+    Availability: Available
+    Price: $17.00 USD
+  - [Crisp Lemon](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653758552)
+    Availability: Available
+    Price: $17.00 USD
+  - [Flower Garden](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653791320)
+    Availability: Available
+    Price: $17.00 USD
+  - [Sun Drenched](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653824088)
+    Availability: Available
+    Price: $17.00 USD
+  - [Herbal Mocha Latte](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653856856)
+    Availability: Available
+    Price: $17.00 USD
+  - [Cinnamon Bun](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653889624)
+    Availability: Available
+    Price: $17.00 USD
+  - [Vanilla Choclate](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653922392)
+    Availability: Available
+    Price: $17.00 USD
+  - [Gumdrop](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653955160)
+    Availability: Available
+    Price: $17.00 USD
+  - [Cranberry](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632653987928)
+    Availability: Available
+    Price: $17.00 USD
+  - [Poundcake](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654020696)
+    Availability: Available
+    Price: $17.00 USD
+  - [Blueberry pie](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654053464)
+    Availability: Available
+    Price: $17.00 USD
+  - [Lucky Charms](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654086232)
+    Availability: Available
+    Price: $17.00 USD
+  - [Fruit Loops](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654119000)
+    Availability: Available
+    Price: $17.00 USD
+  - [Unscented](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654151768)
+    Availability: Available
+    Price: $17.00 USD
+  - [Custom](https://angelaurareiki.myshopify.com/products/bare-organic-makeup-remover-vegan-cleanser-for-waterproof-makeup-botanical-clarifying-toner?variant=44632654184536)
+    Availability: Available
+    Price: $19.00 USD
+- [Selenite Crystal Wand for Cleansing and Charging |](https://angelaurareiki.myshopify.com/products/selenite-crystal-wand-6-cleansing-charging-wands-reiki-infused): Experience the healing power of our reiki infused selenite crystal wand, a crystal cleansing wand that amplifies energy and promotes natural purification and
+  Updated: 2026-08-29T01:57:39Z
+  Vendor: angelaurareiki
+  Product Type: Selenite Crystal Wand
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/4656/2648/files/Firefly_Gemini_Flash_morning_light_572929.png?v=1787307977
+  Price: $7.50 USD
+[List Continued](https://angelaurareiki.myshopify.com/a/llms-agent/llms.txt?shop=cwphch-tu.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTQzMDk4NjI2MTM2LCJsYXN0X3ZhbHVlIjoiODk0MzA5ODYyNjEzNiJ9)
 
 ## Collections
 
@@ -2925,25 +3192,25 @@
   Updated: 2026-08-16T13:44:29Z
   Total Products: 7
 - [Organic Skincare](https://angelaurareiki.myshopify.com/collections/organic-skincare): Organic Skincare angelaurareiki
-  Updated: 2026-08-16T22:55:06Z
-  Total Products: 10
+  Updated: 2026-08-27T02:47:57Z
+  Total Products: 16
 - [Reiki-Infused Soap](https://angelaurareiki.myshopify.com/collections/reiki-infused-soap): Reiki-Infused Soap angelaurareiki
-  Updated: 2026-08-16T13:44:24Z
-  Total Products: 7
+  Updated: 2026-08-27T15:27:56Z
+  Total Products: 10
 - [Herbal Cleaning](https://angelaurareiki.myshopify.com/collections/herbal-cleaning): Herbal Cleaning angelaurareiki
-  Updated: 2026-08-16T22:54:40Z
+  Updated: 2026-08-21T07:26:39Z
   Total Products: 3
 - [Natural Makeup](https://angelaurareiki.myshopify.com/collections/natural-makeup): Natural Makeup angelaurareiki
-  Updated: 2026-08-16T15:32:04Z
-  Total Products: 7
+  Updated: 2026-08-28T07:15:46Z
+  Total Products: 14
 - [All Products (ChatGPT-AI Product Description)](https://angelaurareiki.myshopify.com/collections/all-products-chatgpt-ai-product-description): All Products (ChatGPT-AI Product Description) angelaurareiki
-  Updated: 2026-08-16T22:55:06Z
-  Total Products: 46
+  Updated: 2026-08-28T13:14:06Z
+  Total Products: 62
 - [Shamanic Reiki Sessions](https://angelaurareiki.myshopify.com/collections/reiki-sessions): Shamanic Reiki Sessions angelaurareiki
-  Updated: 2026-08-16T13:44:00Z
-  Total Products: 2
+  Updated: 2026-08-21T10:32:24Z
+  Total Products: 4
 - [Best  Products](https://angelaurareiki.myshopify.com/collections/best--products): Best  Products angelaurareiki
-  Updated: 2026-08-16T22:54:40Z
+  Updated: 2026-08-21T07:26:39Z
   Total Products: 10
 
 ## Blogs
