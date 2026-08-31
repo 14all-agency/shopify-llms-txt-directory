@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-10-25T18:08:38Z
 - Contact Email: hello@mrgenki.com
-- Updated At: 2026-08-15T00:00:31.704Z
+- Updated At: 2026-08-31T00:00:36.713Z
 
 ## Products
 
 - [Mushroom Blend + Prebiotics and Vitamin C - Repair Gut Health | MrGenki](https://www.mrgenki.com/products/mushroom-blend-prebiotics-vitamin-c-repair-gut-health): Discover the secret to gut repair with our Mushroom Blend with Prebiotics and Vitamin C. Boost your gut health naturally. Try it now for a healthier you.
-  Updated: 2026-08-08T04:52:38Z
+  Updated: 2026-08-28T23:28:16Z
   Vendor: mrgenki
   Product Type: Natural Extracts
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0670/9195/5993/files/Untitleddesign_14.jpg?v=1767709671
     Price: $139.00 USD
 - [Lion’s Mane & Chaga Mushroom Coffee - No Jitters, Smooth Energy - 4oz](https://www.mrgenki.com/products/lions-mane-chaga-mushroom-coffee-no-jitters-4oz): Explore the clarity of Lion's Mane & Chaga mushroom coffee, crafted for focus without jitters. Experience the difference today. Shop now.
-  Updated: 2026-08-08T04:52:36Z
+  Updated: 2026-08-28T23:28:16Z
   Vendor: mrgenki
   Product Type: Food & Beverages
   Availability: Available
