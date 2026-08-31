@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-03-17T20:12:10Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-23T00:00:35.951Z
+- Updated At: 2026-08-31T00:00:37.687Z
 
 ## Products
 
 - [Admat Tour Tee](https://wohz.merchmadeeasy.com/products/admat-tour-t-shirt-black-zim): 100% combed cotton t-shirt in Black Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-07-16T12:00:35Z
+  Updated: 2026-08-28T22:23:56Z
   Vendor: Hans Zimmer Live
   Product Type: T-Shirt
   Availability: Available
@@ -142,7 +142,7 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/162491_7_299772_d.png?v=1744062601
     Price: $30.00 USD
 - [Deco Tour Tee](https://wohz.merchmadeeasy.com/products/deco-tour-t-shirt-black-zim): 100% combed cotton t-shirt in Black Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-07-17T16:28:49Z
+  Updated: 2026-08-28T22:23:56Z
   Vendor: Hans Zimmer Live
   Product Type: T-Shirt
   Availability: Available
@@ -166,7 +166,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Logo Tour Tee](https://wohz.merchmadeeasy.com/products/white-logo-tour-t-shirt-black-zim): 100% combed cotton t-shirt in Black Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-07-16T11:16:01Z
+  Updated: 2026-08-28T22:23:56Z
   Vendor: Hans Zimmer Live
   Product Type: T-Shirt
   Availability: Available
@@ -220,7 +220,7 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/162492_6_299163_d.png?v=1744062597
     Price: $30.00 USD
 - [Titles Tee](https://wohz.merchmadeeasy.com/products/titles-t-shirt-black-zim): 100% cotton tee in Black
-  Updated: 2026-07-18T12:12:27Z
+  Updated: 2026-08-28T22:23:56Z
   Vendor: Hans Zimmer Live
   Product Type: T-Shirt
   Availability: Available
@@ -244,7 +244,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Tracklist Zip Hoodie](https://wohz.merchmadeeasy.com/products/titles-hooded-sweatshirt-black-zim): 80% cotton / 20% polyester zip hoodie in Black Size Guide Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/2 M 29 22 35 1/2 L 30 24 36 1/2 XL 31 26 37 1/2 2XL 32 28 38 1/2 3XL 33 30 39 1/2
-  Updated: 2026-07-17T01:08:29Z
+  Updated: 2026-08-28T22:23:56Z
   Vendor: Hans Zimmer Live
   Product Type: Hoodie
   Availability: Available
@@ -268,70 +268,70 @@ your agent can transact everywhere.
     Availability: Available
     Price: $65.00 USD
 - [Photo Poster](https://wohz.merchmadeeasy.com/products/photo-poster-zim): 11x17 poster
-  Updated: 2026-06-19T14:09:55Z
+  Updated: 2026-08-28T22:23:57Z
   Vendor: Hans Zimmer Live
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/HANSPOSTER.png?v=1742418905
   Price: $15.00 USD
 - [Live Audience Poster](https://wohz.merchmadeeasy.com/products/live-audience-poster-zim): 11x17" poster
-  Updated: 2026-06-19T14:09:56Z
+  Updated: 2026-08-28T22:23:57Z
   Vendor: Hans Zimmer Live
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/ARENAPOSTER.png?v=1742418909
   Price: $15.00 USD
 - [Sheet Music White Mug](https://wohz.merchmadeeasy.com/products/sheet-music-white-mug-zim): 12oz ceramic mug in White, featuring Hans Zimmer sheet music.
-  Updated: 2026-07-30T04:51:59Z
+  Updated: 2026-08-28T22:23:57Z
   Vendor: Hans Zimmer Live
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/INTERSTELLAMUG.png?v=1742418914
   Price: $15.00 USD
 - [Logo Trucker Hat](https://wohz.merchmadeeasy.com/products/logo-trucker-hat-black-zim): Mid-profile, mesh-back trucker hat in Black
-  Updated: 2026-07-17T11:56:24Z
+  Updated: 2026-08-28T22:23:57Z
   Vendor: Hans Zimmer Live
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/TRUCKER.png?v=1742418931
   Price: $30.00 USD
 - [Logo Beanie](https://wohz.merchmadeeasy.com/products/logo-beanie-black-zim): 100% acrylic beanie in Black with embroidered design
-  Updated: 2026-07-14T18:34:45Z
+  Updated: 2026-08-28T22:23:57Z
   Vendor: Hans Zimmer Live
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/BEANIE.png?v=1742418937
   Price: $30.00 USD
 - [Bottle Opener Keychain](https://wohz.merchmadeeasy.com/products/keychainbottle-opener-silver-zim): Silver-colored keychain with guitar pick design. Doubles as a bottle opener!
-  Updated: 2026-06-19T14:10:00Z
+  Updated: 2026-08-28T22:23:58Z
   Vendor: Hans Zimmer Live
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/BOTTLEOPENER.png?v=1742418948
   Price: $7.50 USD
 - [Logo Koozie](https://wohz.merchmadeeasy.com/products/logo-koozie-black-zim): Neoprene koozie in Black
-  Updated: 2026-06-26T14:40:10Z
+  Updated: 2026-08-28T22:23:58Z
   Vendor: Hans Zimmer Live
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/KOOZIE.png?v=1742418954
   Price: $4.00 USD
 - [Logo Tote Bag](https://wohz.merchmadeeasy.com/products/logo-tote-bag-black-zim): 100% cotton tote bag in Black
-  Updated: 2026-06-26T14:40:11Z
+  Updated: 2026-08-28T22:23:58Z
   Vendor: Hans Zimmer Live
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/LOGOTOTE.png?v=1742418959
   Price: $20.00 USD
 - [Logo Notebook](https://wohz.merchmadeeasy.com/products/logo-notebook): Black notebook with logo print
-  Updated: 2026-06-26T14:40:13Z
+  Updated: 2026-08-28T22:23:58Z
   Vendor: Hans Zimmer Live
   Product Type: Notebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/HZ_notebook.png?v=1744135068
   Price: $10.00 USD
 - [2025 WOHZ Admat Tour Tee - Black](https://wohz.merchmadeeasy.com/products/2025-the-world-of-hans-zimmer-tour-tee): 100% combed cotton t-shirt in Black Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-17T23:02:28Z
+  Updated: 2026-08-28T22:23:58Z
   Vendor: The World of Hans Zimmer
   Product Type: T-Shirt
   Availability: Available
@@ -352,7 +352,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $35.00 USD
 - [Setlist Tee - Black](https://wohz.merchmadeeasy.com/products/2025-titles-tee-black): 100% combed cotton t-shirt in Black Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-08-12T18:03:07Z
+  Updated: 2026-08-28T22:23:59Z
   Vendor: The World of Hans Zimmer
   Product Type: T-Shirt
   Availability: Available
@@ -376,13 +376,13 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Sheet Music Tee - White](https://wohz.merchmadeeasy.com/products/sheet-music-tee-white): 100% combed cotton t-shirt in white Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-14T18:34:34Z
+  Updated: 2026-08-28T22:23:59Z
   Vendor: The World of Hans Zimmer
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/WOHZ_0010_165573_1_303916_d_f108485a-afb7-4447-acb8-53496a051af7.png?v=1756495066
   - [Small](https://wohz.merchmadeeasy.com/products/sheet-music-tee-white?variant=42407899332742)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [Medium](https://wohz.merchmadeeasy.com/products/sheet-music-tee-white?variant=42407899365510)
     Availability: Available
@@ -397,7 +397,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Setlist Hoodie - Black](https://wohz.merchmadeeasy.com/products/titles-hoodie-black): 80% cotton / 20% polyester zip hoodie in black Size Guide Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/2 M 29 22 35 1/2 L 30 24 36 1/2 XL 31 26 37 1/2 2XL 32 28 38 1/2
-  Updated: 2026-07-15T04:33:33Z
+  Updated: 2026-08-28T22:23:59Z
   Vendor: The World of Hans Zimmer
   Product Type: Hoodie
   Availability: Available
@@ -421,42 +421,42 @@ your agent can transact everywhere.
     Availability: Available
     Price: $70.00 USD
 - [2025 Tour Program](https://wohz.merchmadeeasy.com/products/2025-tour-program): 310 × 180 mm tour program
-  Updated: 2026-07-03T23:09:17Z
+  Updated: 2026-08-28T22:23:59Z
   Vendor: The World of Hans Zimmer
   Product Type: Program
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/HZ_BOOK_2025_2.png?v=1756495852
   Price: $15.00 USD
 - [Spatter Koozie](https://wohz.merchmadeeasy.com/products/admat-koozie): Neoprene koozie, fits standard drink can
-  Updated: 2026-06-26T14:40:18Z
+  Updated: 2026-08-28T22:23:59Z
   Vendor: The World of Hans Zimmer
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/WOHZ_0004_165578_1_303921_d.png?v=1755115788
   Price: $4.00 USD
 - [WOHZ Mug](https://wohz.merchmadeeasy.com/products/wohz-mug): Dye sublimated 11oz ceramic mug
-  Updated: 2026-06-19T14:10:10Z
+  Updated: 2026-08-28T22:24:00Z
   Vendor: The World of Hans Zimmer
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/WOHZ_0003_165579_1_303922_d.png?v=1755115788
   Price: $15.00 USD
 - [WOHZ Hat](https://wohz.merchmadeeasy.com/products/wohz-hat): 100% cotton twill embroidered baseball cap in black with adjustable strap
-  Updated: 2026-07-18T11:22:40Z
+  Updated: 2026-08-28T22:24:00Z
   Vendor: The World of Hans Zimmer
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/WOHZ_0006_165576_1_303919_d.png?v=1755115788
   Price: $30.00 USD
 - [WOHZ Tote - Black](https://wohz.merchmadeeasy.com/products/wohz-tote-black): 100% cotton tote bag in black
-  Updated: 2026-06-26T14:40:21Z
+  Updated: 2026-08-28T22:24:00Z
   Vendor: The World of Hans Zimmer
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/WOHZ_0007_165575_1_303918_d.png?v=1755115788
   Price: $20.00 USD
 - [WOHZ Admat Poster](https://wohz.merchmadeeasy.com/products/wohz-admat-poster): 11x17" holo-foil poster
-  Updated: 2026-08-12T01:35:06Z
+  Updated: 2026-08-28T22:24:00Z
   Vendor: The World of Hans Zimmer
   Product Type: Poster
   Availability: Available
@@ -466,25 +466,25 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://wohz.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-08-13T11:24:41Z
+  Updated: 2026-08-29T11:22:05Z
   Total Products: 29
 - [HZL Apparel](https://wohz.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-06-26T15:55:57Z
+  Updated: 2026-08-29T11:22:05Z
   Total Products: 5
 - [HZL Accessories](https://wohz.merchmadeeasy.com/collections/accessories)
   Updated: 2026-07-30T11:24:26Z
   Total Products: 13
 - [All HZL Merch](https://wohz.merchmadeeasy.com/collections/all)
-  Updated: 2026-07-30T11:24:26Z
+  Updated: 2026-08-29T11:22:05Z
   Total Products: 18
 - [WOHZ Apparel](https://wohz.merchmadeeasy.com/collections/wohz-apparel)
-  Updated: 2026-08-13T11:24:41Z
+  Updated: 2026-08-29T11:22:05Z
   Total Products: 4
 - [WOHZ Accessories](https://wohz.merchmadeeasy.com/collections/wohz)
   Updated: 2026-08-12T11:23:11Z
   Total Products: 7
 - [All WOHZ Merch](https://wohz.merchmadeeasy.com/collections/all-wohz-merch)
-  Updated: 2026-08-13T11:24:41Z
+  Updated: 2026-08-29T11:22:05Z
   Total Products: 11
 
 ## Store Pages
