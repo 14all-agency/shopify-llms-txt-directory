@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-07-23T22:55:25Z
 - Contact Email: matusiakjalub@gmail.com
-- Updated At: 2026-08-21T00:00:39.984Z
+- Updated At: 2026-08-31T00:00:43.244Z
 
 ## Products
 
 - [Memory Foam Neck Pillow | Orthopedic Neck Support - Pillotex](https://pillotex.com/products/memory-foam-neck-pillow-orthopedic-neck-support-pillow): Memory foam neck pillow with orthopedic support to cradle your neck, align your spine, and ease tension. Shop Pillotex with free shipping.
-  Updated: 2026-07-29T17:58:55Z
+  Updated: 2026-08-29T01:06:13Z
   Vendor: DreamCurve
   Product Type: Pillow
   Availability: Available
