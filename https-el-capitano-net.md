@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2025-11-02T16:10:48Z
-- Updated At: 2026-08-24T00:00:38.831Z
+- Updated At: 2026-08-31T00:00:41.099Z
 
 ## Products
 
@@ -84,7 +84,7 @@
   - [3XL](https://el-capitano.net/products/el-capitano-tee-f-u-c-k-y-o-u?variant=56156225700226)
     Availability: Available
 - [CTC Bikers Best Zip Hoodie – Señoras](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-bikers-best): Gemacht für kühle Tage und lange Abende. Der CTC Bikers Best Zip Hoodie – Señoras kombiniert angenehmen Tragekomfort mit einem markanten Rückenprint im klassischen Oldschool-Look. Der feminine Schnitt sitzt bequem, ohne einzuengen, während das weiche Material angenehm warm hält und sich unkompliziert im Alltag tragen lässt. Vorne bewusst reduziert, hinten mit klarer Präsenz. Der durchgehende 2-Wege-Reißverschluss, die Kapuze mit Kordelzug und die praktischen Taschen machen den Hoodie alltagstauglich, ohne den klaren Look zu verlieren. Teil der originalen CTC Community Series. Details Damen Fit mit dezenter Taillierung angenehm weiches Tragegefühl Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -100,7 +100,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-bikers-best?variant=56161654571394)
     Availability: Available
 - [CTC Buffalo Rider Zip Hoodie – Señoras](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider): Angenehm zu tragen. Klar im Look. Der CTC Buffalo Rider Zip Hoodie – Señoras verbindet weichen Tragekomfort mit einem markanten Rückenprint im klassischen Buffalo Rider Design. Der feminine Schnitt sitzt bequem und alltagstauglich, ohne einzuengen. Das Material hält angenehm warm, während Kapuze, 2-Wege-Reißverschluss und praktische Taschen den Hoodie vielseitig tragbar machen. Vorne bewusst reduziert, hinten mit deutlicher Präsenz. Ein Hoodie für kühle Tage, spontane Touren und lange Abende draußen. Ohne übertriebenen Look, aber mit genug Charakter, um nicht beliebig zu wirken. Teil der originalen CTC Community Series. Details Damen Fit mit dezenter Taillierung angenehm weiches Tragegefühl Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -116,7 +116,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider?variant=56161727381890)
     Availability: Available
 - [DILLIGAF Zip Hoodie – Señoras](https://el-capitano.net/products/el-capitano-zip-hoodie-dilligaf): Für Tage, an denen Diskussionen überbewertet sind. Der DILLIGAF Zip Hoodie – Señoras bringt genau die richtige Mischung aus Komfort, Haltung und klarer Ansage mit. Ohne künstlich laut zu sein. Menschen versuchen ständig, jedem zu gefallen. Anstrengendes Hobby eigentlich. 😏 Der taillierte Damen Fit sitzt angenehm körpernah, ohne einzuengen. Das weiche Material sorgt für hohen Tragekomfort, während Kapuze, robuster 2-Wege-Reißverschluss und zusätzliche Reißverschlusstasche den Hoodie alltagstauglich machen. Vorne bewusst clean gehalten, hinten mit markantem DILLIGAF-Print und klassischem CTC-Style. Für kalte Tage, lange Nächte und alle Wege, die du lieber selbst gehst. Details Damen Fit mit dezenter Taillierung super weich und angenehm zu tragen Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche durchgehender, verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint im Oldschool-Style Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -132,7 +132,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-zip-hoodie-dilligaf?variant=56161734754690)
     Availability: Available
 - [F.U.C.K. Y.O.U. Zip Hoodie – Señoras](https://el-capitano.net/products/el-capitano-zip-hoodie-f-u-c-k-y-o-u): Für Menschen mit Haltung. Keine Regeln. Kein Plan B.Nicht für die Masse. Der F.U.C.K. Y.O.U. Zip Hoodie ist nichts für angepasste Sonntagslächeln und weichgespültes Gelaber. Klare Kante, schwerer Stoff und ein Rückenprint, der nicht um Erlaubnis fragt. Für Frauen, die lieber anecken als hinterherlaufen. Anziehen. Reißverschluss hoch. Eigenen Weg fahren.Der Rest kann diskutieren, posten oder motivierende Kalenderspüche teilen. 🏴 Details: Passform: Damen Fit mit dezenter Taillierung Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Kapuze: Kapuze mit Kordelzug Taschen: Zwei seitliche Taschen sowie eine zusätzliche Reißverschlusstasche Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -148,7 +148,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-zip-hoodie-f-u-c-k-y-o-u?variant=56161926480258)
     Availability: Not Available
 - [CTC Bikers Best Sweat Jacke – Señoras](https://el-capitano.net/products/el-capitano-sweat-jacke-ctc-bikers-best-kopie): Für Menschen mit Haltung. Bleibt, wenn's ernst wird.Nicht für die Masse. Die CTC Bikers Best Sweat Jacke ist keine Deko für Instagram-Kaffeeausfahrten. Sie ist für kalte Morgen, lange Strecken und Menschen, die lieber fahren als reden. Cleaner Schnitt vorne, kompromissloser Backprint hinten. Genau die Mischung aus Haltung und Straße, die zu El Capitano passt. 🏴 Kein Fashion-Zirkus.Keine Hochglanz-Lifestyle-Nummer.Einfach ehrliche Streetwear für Frauen, die ihren eigenen Kurs fahren und sich dafür nicht erklären müssen. Teil der originalen CTC Community Series. Details: Passform: Damen Fit mit dezenter Taillierung Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Taschen: Zwei seitliche Taschen mit Reißverschluss Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Jacke
   Availability: Available
@@ -164,7 +164,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-sweat-jacke-ctc-bikers-best-kopie?variant=56162687254914)
     Availability: Not Available
 - [CTC Buffalo Rider Sweat Jacke – Señoras](https://el-capitano.net/products/el-capitano-sweat-jacke-ctc-buffalo-biker): Kein Hochglanz. Kein Theater. Die Buffalo Rider Sweat Jacke steht für Frauen,, die ihren eigenen Kurs gehen, ohne ständig Aufmerksamkeit zu brauchen. Der große Buffalo auf dem Rücken macht klar, worum's geht: ruhig bleiben, Haltung behalten und nicht jedem Trend hinterherrennen. 🦸 Gemacht für draußen, lange Tage und genau die Sorte Freiheit, die man nicht erklären muss. Nicht für die Masse. Part of the original CTC community series. Details: Passform: Damen Fit mit dezenter Taillierung Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Taschen: Zwei seitliche Taschen mit Reißverschluss Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:46Z
   Vendor: El Capitano
   Product Type: Jacke
   Availability: Available
@@ -180,7 +180,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-sweat-jacke-ctc-buffalo-biker?variant=56162779660674)
     Availability: Not Available
 - [DILLIGAF Sweat Jacke – Señoras](https://el-capitano.net/products/el-capitano-sweat-jacke-dilligaf): Nicht jede Frau will "nur" gefallen. Manche tragen lieber klare Ansagen auf dem Rücken. ☠️ Die DILLIGAF Sweat Jacke ist nichts für Menschen, die ständig Erklärung oder Zustimmung brauchen. Schwarzer Stoff, harter Kontrast, schwere Attitüde. Direkt, unbequem und genau deshalb richtig.Der große Rückenprint schreit nicht nach Aufmerksamkeit.Er macht einfach klar, dass dir fremde Meinungen ziemlich egal sind. Straight 'n Free.Nicht für die Masse. Details: Passform: Damen Fit mit dezenter Taillierung Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Taschen: Zwei seitliche Taschen mit Reißverschluss Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:28Z
+  Updated: 2026-08-24T03:27:44Z
   Vendor: El Capitano
   Product Type: Jacke
   Availability: Available
@@ -196,7 +196,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-sweat-jacke-dilligaf?variant=56162803548546)
     Availability: Not Available
 - [F.U.C.K. Y.O.U. Sweat Jacke – Señoras](https://el-capitano.net/products/el-capitano-sweat-jacke-f-u-c-k-y-o-u): Nicht jede Frau will "nur" gefallen. Manche wollen einfach ihre Ruhe. ☠️ Die F.U.C.K. Y.O.U. Sweat Jacke für Damen verbindet einen cleanen, taillierten Look mit einer klaren Botschaft. Vorne zurückhaltend. Hinten kompromisslos. Genau dieser Gegensatz macht die Jacke so stark.Der feminine Schnitt sitzt körpernah, ohne unbequem zu werden. Der große Backprint liefert die eigentliche Ansage: kein Mitlaufen, kein Dauerlächeln, kein Verbiegen für fremde Erwartungen. Für Frauen, die lieber Haltung tragen als Trends. Nicht für die Masse. Details: Passform: Damen Fit mit dezenter Taillierung Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Taschen: Zwei seitliche Taschen mit Reißverschluss Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Jacke
   Availability: Available
@@ -316,7 +316,7 @@
   - [7XL](https://el-capitano.net/products/el-capitano-tee-a-f-u-c-k-y-o-u?variant=56185582813570)
     Availability: Not Available
 - [CTC Bikers Best Zip Hoodie – Caballeros](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-bikers-best-1): Wärmend, bequem und klar im Look. Der CTC Bikers Best Zip Hoodie – Caballeros verbindet einen geraden Regular Fit mit einem markanten Rückenprint und alltagstauglichen Details ohne unnötigen Schnickschnack. Das weiche Material sorgt für ein angenehmes Tragegefühl, während Kapuze, 2-Wege-Reißverschluss und die zusätzlichen Taschen den Hoodie praktisch und vielseitig machen. Vorne bewusst reduziert, hinten mit deutlicher Oldschool-Optik. Ein Hoodie für kühle Tage, lange Abende und Menschen, die lieber auf langlebigen Stil setzen als auf kurzlebige Trends. Teil der originalen CTC Community Series. Details Regular Fit mit geradem Schnitt angenehm weiches Tragegefühl Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -338,7 +338,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-bikers-best-1?variant=56185685639554)
     Availability: Available
 - [CTC Buffalo Rider Zip Hoodie – Caballeros](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider-1): Gemacht für draußen. Der CTC Buffalo Rider Zip Hoodie – Caballeros kombiniert angenehmen Tragekomfort mit einem markanten Buffalo Rider Rückenprint und klarer Oldschool-Optik. Der Regular Fit sitzt bequem und unkompliziert, ohne weit oder unförmig zu wirken. Das weiche Material hält angenehm warm und bleibt auch im Alltag robust. Mit Kapuze, stabilem 2-Wege-Reißverschluss und zusätzlicher Reißverschlusstasche ist der Hoodie nicht nur fürs Rumstehen an der Tanke gedacht. Menschen bauen erstaunlich viele kleine Rituale um Kleidung herum. Dieser hier macht wenigstens praktisch mit. 😏 Vorne bewusst reduziert, hinten mit deutlicher Präsenz. Für Touren, kühle Abende und alles, was nicht geschniegelt wirken soll. Teil der originalen CTC Community Series. Details Regular Fit mit geradem, bequemem Schnitt angenehm weiches Tragegefühl Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -360,7 +360,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider-1?variant=56185797542274)
     Availability: Available
 - [DILLIGAF Zip Hoodie – Caballeros](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider-dilligaf): Manche Ansagen brauchen keine Erklärung. Der DILLIGAF Zip Hoodie – Caballeros steht für klare Haltung, ehrliche Streetwear und kompromisslosen Oldschool-Style. Nicht geschniegelt. Nicht geschniegelt tun als wäre man rebellisch. Einfach direkt. Selten geworden heutzutage. 😏 Der Regular Fit sitzt bequem und unkompliziert, während das weiche Material angenehm warm hält, ohne schwer zu wirken. Mit Kapuze, stabilem 2-Wege-Reißverschluss und zusätzlicher Reißverschlusstasche ist der Hoodie gemacht für Alltag, Touren und lange Abende draußen. Vorne bewusst reduziert, hinten mit markantem DILLIGAF Rückenprint im klassischen CTC-Look. Genau richtig für Leute, die ihren eigenen Weg gehen und dabei nicht ständig Applaus brauchen. Details Regular Fit mit geradem, bequemem Schnitt super weich und angenehm zu tragen Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche durchgehender, verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint im Oldschool-Style Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -382,7 +382,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider-dilligaf?variant=56185872810370)
     Availability: Available
 - [F.U.C.K. Y.O.U. Zip Hoodie – Caballeros](https://el-capitano.net/products/el-capitano-zip-hoodie-f-u-c-k-y-o-u-1): Für Menschen mit Haltung. Keine Regeln. Kein Plan B.Nicht für die Masse. Der F.U.C.K. Y.O.U. Zip Hoodie ist für Männer, die nicht jeden Trend mitmachen müssen, um Haltung zu zeigen. Schwerer Stoff, cleaner Frontprint und ein Rückenprint, der ziemlich deutlich sagt, was Sache ist. Keine bunte Influencer-Kostümierung. Kein weichgespülter Lifestyle-Müll. Ein Hoodie für kalte Straßen, lange Fahrten und Menschen, die lieber anecken als dazugehören.Reißverschluss hoch. Kopf runter. Weiterfahren. 🏴 Details: • Passform: Regular Fit mit geradem, bequemem Schnitt• Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen• Kapuze: Kapuze mit Kordelzug• Taschen: Zwei seitliche Taschen sowie eine zusätzliche Reißverschlusstasche• Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss• Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen• Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -404,7 +404,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-zip-hoodie-f-u-c-k-y-o-u-1?variant=56185960137090)
     Availability: Available
 - [CTC Bikers Best Sweat Jacke  – Caballeros](https://el-capitano.net/products/el-capitano-sweat-jacke-ctc-bikers-best): Für Menschen mit Haltung. Bleibt, wenn's ernst wird.Nicht für die Masse. Die CTC Bikers Best Sweat Jacke ist für Männer, die keinen Applaus brauchen, um ihren Weg zu gehen. Klare Linie, schwerer Stoff und ein Rückenprint, der mehr Haltung hat als der meiste Einheitsbrei da draußen. 🏴 Kein aufgesetzter Luxus.Kein glattgebügelter Mainstream.Nur ehrlicher Stoff für Menschen, die Freiheit nicht erst erklären müssen. Die Jacke trägt sich bequem, wirkt aber nicht weichgespült. Genau das macht sie aus. Für Tage, an denen du einfach dein Ding machst und den Rest reden lässt. Teil der originalen CTC Community Series. Details: Passform: Regular Fit mit geradem, bequemem Schnitt Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Taschen: Zwei seitliche Taschen mit Reißverschluss Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Jacke
   Availability: Available
@@ -426,7 +426,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-sweat-jacke-ctc-bikers-best?variant=56186729759106)
     Availability: Not Available
 - [CTC Buffalo Rider Sweat Jacke – Caballeros](https://el-capitano.net/products/el-capitano-sweat-jacke-ctc-buffalo-rider): Manche reden laut über Freiheit. Andere ziehen einfach ihre Jacke an und verschwinden aus dem Sichtfeld. 🦸 Die Buffalo Rider Sweat Jacke ist gemacht für genau diese Sorte Mensch. Kein aufgesetzter Lifestyle, kein glattgebügelter Trend-Kram. Nur ein schwerer Rückenprint, klarer Charakter und ein Teil, das auch dann funktioniert, wenn das Wetter oder das Leben mal ungemütlich werden. Der Buffalo steht nicht für Show.Er steht für Ruhe, Stärke und den sturen Willen, seinen eigenen Weg zu gehen.Nicht für die Masse. Part of the original CTC community series. Details: Passform: Regular Fit mit geradem, bequemem Schnitt Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Taschen: Zwei seitliche Taschen mit Reißverschluss Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:46Z
   Vendor: El Capitano
   Product Type: Jacke
   Availability: Available
@@ -448,7 +448,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-sweat-jacke-ctc-buffalo-rider?variant=56186730807682)
     Availability: Not Available
 - [DILLIGAF Sweat Jacke – Caballeros](https://el-capitano.net/products/el-capitano-sweat-jacke-dilligaf-1): Man wird ruhiger mit den Jahren. Nur toleriert man weniger Bullshit. Die DILLIGAF Sweat Jacke trägt keine großen Reden nach vorne. Schwarz auf Schwarz. Tief, dreckig, reduziert.Bis du dich umdrehst.Dann knallt dir der Rückenprint mitten ins Gesicht: Totenkopf, rote Kante, Straight 'n Free. Kein Lifestyle für Likes. Eher eine Erinnerung daran, dass Freiheit selten bequem ist. Für Kerle, die ihren eigenen Kurs fahren, ohne dauernd Zustimmung einzusammeln. Nicht für die Masse. Details: Passform: Regular Fit mit geradem, bequemem Schnitt Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Taschen: Zwei seitliche Taschen mit Reißverschluss Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:28Z
+  Updated: 2026-08-24T03:27:44Z
   Vendor: El Capitano
   Product Type: Jacke
   Availability: Available
@@ -470,7 +470,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-sweat-jacke-dilligaf-1?variant=56186740015490)
     Availability: Not Available
 - [F.U.C.K. Y.O.U. Sweat Jacke – Caballeros](https://el-capitano.net/products/el-capitano-sweat-jacke-f-u-c-k-y-o-u-1): Nicht jeder Typ muss sympathisch wirken. Respekt reicht völlig. ⚔️ Die F.U.C.K. Y.O.U. Sweat Jacke für Herren setzt auf klare Linien, dunkle Optik und einen Rückenprint, der keine Übersetzung braucht. Vorne reduziert mit dezentem Brustlogo. Hinten eine kompromisslose Ansage im Military-Style.Der gerade Regular Fit sorgt für eine starke, maskuline Silhouette, ohne steif zu wirken. Genau das passt zu den Bildern: breit, ruhig, kontrolliert. Keine hektische Rockstar-Show. Mehr Typ, der einfach stehen bleibt, wenn andere nervös werden. Schwarze Sweat Jacke für Männer mit Haltung.Ohne Dauergrinsen. Ohne Mitläufer-Energie. Nicht für die Masse. Details: Passform: Regular Fit mit geradem, bequemem Schnitt Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Taschen: Zwei seitliche Taschen mit Reißverschluss Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:45Z
   Vendor: El Capitano
   Product Type: Jacke
   Availability: Available
@@ -616,7 +616,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/rout-66-schluesselanhanger-4.webp?v=1773583361
 - [No Comfort Tee – Señoras](https://el-capitano.net/products/klassisches-unisex-t-shirt): Nicht gemacht für Komfortzonen. Gemacht für Frauen, die Druck aushalten und trotzdem weitergehen. Das No Comfort Tee – Señoras kombiniert einen geraden, klaren Schnitt mit einem kompromisslosen Design. Vorne reduziert. Hinten BUILT UNDER PRESSURE. Kein überladener Fashion-Print, sondern eine klare Ansage. Der Stoff trägt sich angenehm und stabil, ohne dünn oder beliebig zu wirken. Ob unterwegs, auf Treffen oder einfach im Alltag. Das Shirt passt zu Frauen, die ihren eigenen Kopf behalten, auch wenn’s unbequem wird. Teil der Capitano Crew Line Edition. Details • Gerader Schnitt mit klarer Linie• angenehmes und stabiles Tragegefühl• Frontprint „NO COMFORT“ mit vertikalem GRIT-Design• Rückenprint „BUILT UNDER PRESSURE“ im Distressed-Look• mehrere Farbvarianten erhältlichTeil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:46Z
   Vendor: El Capitano
   Product Type: Shirt
   Availability: Available
@@ -772,7 +772,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/navy_nocomfort_front_frau.webp?v=1775565717
 - [No Comfort Tee – Caballeros](https://el-capitano.net/products/unisex-classic-tee): Nicht gemacht für Komfortzonen. Gemacht für Männer, die auch unter Druck ihren eigenen Kurs halten. Das No Comfort Tee – Caballeros kombiniert einen geraden, klaren Schnitt mit einem kompromisslosen Design. Vorne reduziert. Hinten BUILT UNDER PRESSURE. Kein überladener Fashion-Print, sondern eine klare Ansage. Der Stoff trägt sich angenehm und stabil, ohne dünn oder beliebig zu wirken. Ob unterwegs, auf Treffen oder einfach im Alltag. Das Shirt passt zu Männern, die lieber Haltung zeigen als jedem Trend hinterherzulaufen. Teil der Capitano Crew Line Edition. Details • Gerader Schnitt mit klarer Linie• angenehmes und stabiles Tragegefühl• Frontprint „NO COMFORT“ mit vertikalem GIT-Design• Rückenprint „BUILT UNDER PRESSURE“ im Distressed-Look• mehrere Farbvarianten erhältlich Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-08-23T03:25:29Z
+  Updated: 2026-08-24T03:27:46Z
   Vendor: El Capitano
   Product Type: Shirt
   Availability: Available
@@ -1216,7 +1216,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_dilligaffu_front_mann.webp?v=1781456367
 - [DILLIFU Hoodie - Caballeros](https://el-capitano.net/products/dillifu-hoodie): DILLIGAF FU Hoodie – Caballeros Man muss nicht jedem gefallen. Der DILLIGAF FU Hoodie – Caballeros verbindet ein klares Utility-Design mit einem angenehmen, robusten Tragegefühl. Vorne der markante DILLIGAF-Print, hinten die technische Foxtrot-Uniform-Grafik. Der Barcode-Print auf dem linken Ärmel setzt den letzten Akzent und macht den Look komplett. Für kühle Tage, lange Touren und alle, die lieber ihren eigenen Weg gehen, als sich nach der Meinung anderer zu richten. Teil der Capitano Crew Line Edition. Details • angenehmes und robustes Tragegefühl• Kapuze mit Kordelzug• Kängurutasche vorne• vertikaler DILLIGAF Frontprint im Industrial-Look• großer Foxtrot Uniform Rückenprint• Barcode-Print auf dem linken Ärmel• mehrere Farbvarianten erhältlich• Hinweis: Wer es etwas weicher und leichter mag, findet bei der Señoras-Version eine angenehm softere Stoffqualität. Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-08-23T03:25:30Z
+  Updated: 2026-08-30T15:39:37Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -1264,10 +1264,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_dilligaffu_front_mann.webp?v=1784907874
   - [Dark Gray / 4XL](https://el-capitano.net/products/dillifu-hoodie?variant=56748404146562)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_dilligaffu_front_mann.webp?v=1784907874
   - [Dark Gray / 5XL](https://el-capitano.net/products/dillifu-hoodie?variant=56748404179330)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_dilligaffu_front_mann.webp?v=1784907874
   - [Military Green / S](https://el-capitano.net/products/dillifu-hoodie?variant=56748404474242)
     Availability: Available
@@ -1288,10 +1288,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_dilligaffu_front_mann.webp?v=1784907874
   - [Military Green / 4XL](https://el-capitano.net/products/dillifu-hoodie?variant=56748404670850)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_dilligaffu_front_mann.webp?v=1784907874
   - [Military Green / 5XL](https://el-capitano.net/products/dillifu-hoodie?variant=56748404703618)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_dilligaffu_front_mann.webp?v=1784907874
   - [Punch Pink / S](https://el-capitano.net/products/dillifu-hoodie?variant=56748404212098)
     Availability: Available
@@ -1372,7 +1372,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/red_dilligaffu_front_mann_f6973dc4-571e-4063-b1fe-3475eec37585.webp?v=1784907875
 - [DILLIFU Hoodie - Señoras](https://el-capitano.net/products/unisex-kapuzenpullover): Haltung trägt man nicht nur im Sommer. Der DILLIGAF FU Hoodie – Señoras verbindet ein klares Utility-Design mit einem angenehm weichen Tragegefühl. Vorne der markante DILLIGAF-Print, hinten die technische Foxtrot-Uniform-Grafik. Der Barcode auf dem linken Ärmel setzt den letzten Akzent und macht den Look komplett. Für kühle Tage, lange Abende und alle, die lieber ihren eigenen Weg gehen als jedem Trend hinterherzulaufen. Teil der Capitano Crew Line Edition. Details • angenehm weiches Tragegefühl• Kapuze mit Kordelzug• Kängurutasche vorne• vertikaler DILLIGAF Frontprint im Industrial-Look• großer Foxtrot Uniform Rückenprint• Barcode-Print auf dem linken Ärmel• mehrere Farbvarianten erhältlich Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-08-23T03:25:30Z
+  Updated: 2026-08-30T15:39:46Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -1420,10 +1420,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_dilligaffu_front_frau.webp?v=1784907226
   - [Dark Grey / 4XL](https://el-capitano.net/products/unisex-kapuzenpullover?variant=56763130708354)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_dilligaffu_front_frau.webp?v=1784907226
   - [Dark Grey / 5XL](https://el-capitano.net/products/unisex-kapuzenpullover?variant=56763130741122)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/dark-grey_dilligaffu_front_frau.webp?v=1784907226
   - [Military Green / S](https://el-capitano.net/products/unisex-kapuzenpullover?variant=56763131036034)
     Availability: Available
@@ -1444,10 +1444,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_dilligaffu_front_frau_bd4606a9-9c29-48f6-b6e8-ff10577b90f3.webp?v=1784907227
   - [Military Green / 4XL](https://el-capitano.net/products/unisex-kapuzenpullover?variant=56763131232642)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_dilligaffu_front_frau_bd4606a9-9c29-48f6-b6e8-ff10577b90f3.webp?v=1784907227
   - [Military Green / 5XL](https://el-capitano.net/products/unisex-kapuzenpullover?variant=56763131265410)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/military-green_dilligaffu_front_frau_bd4606a9-9c29-48f6-b6e8-ff10577b90f3.webp?v=1784907227
   - [Punch Pink / S](https://el-capitano.net/products/unisex-kapuzenpullover?variant=56763130773890)
     Availability: Available
