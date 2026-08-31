@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-01-29T15:35:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-13T19:50:30.018Z
+- Updated At: 2026-08-31T00:00:35.083Z
 
 ## Products
 
 - [Futurebirds x Howler Bros Snapfront Shirt](https://store.futurebirdsmusic.com/products/futurebirds-x-howler-bros-snapfront-shirt): The Futurebirds x Howler Brothers collaboration, exclusively available online. Futurebirds rainbow Birdhead embroidered on the chest with the band name on the back left shoulder Quick drying cotton, polyester, & spandex blendVented backPearl snapsSunglass cleaning microfiber at hemRegular fit
-  Updated: 2026-07-30T04:58:51Z
+  Updated: 2026-08-21T02:12:57Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Birdhead Mug](https://store.futurebirdsmusic.com/products/birdhead-mug): Navy mug with red birdhead logo on one side.
-  Updated: 2026-07-28T15:08:26Z
+  Updated: 2026-08-21T04:26:15Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
@@ -54,13 +54,13 @@
     Availability: Available
     Price: $20.00 USD
 - [Rainbow Onesie](https://store.futurebirdsmusic.com/products/rainbow-onesie): Green short sleeve onesie with rainbow logo on the front.
-  Updated: 2026-07-31T01:42:36Z
+  Updated: 2026-08-14T11:37:33Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSRAINOWONESIE.png?v=1746463200
   - [3-6M](https://store.futurebirdsmusic.com/products/rainbow-onesie?variant=46302343692437)
-    Availability: Available
+    Availability: Not Available
     Price: $20.00 USD
   - [6-12M](https://store.futurebirdsmusic.com/products/rainbow-onesie?variant=45999687041173)
     Availability: Available
@@ -105,7 +105,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Futurebirds x Howler Bros Terry Polo](https://store.futurebirdsmusic.com/products/futurebirds-x-howler-bros-terry-polo): Blue terry cloth polo shirt with rainbow embroidered on the front right pocket.
-  Updated: 2026-07-22T16:36:29Z
+  Updated: 2026-08-21T02:13:07Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -126,21 +126,21 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Bloomin' - Green Vinyl](https://store.futurebirdsmusic.com/products/bloomin-green-vinyl): Futurebirds' 2021 EP Bloomin' pressed on green vinyl. TRACKLIST College Try Sedan Man Put Up, Keep Up Blue Eyed Girl
-  Updated: 2026-07-27T15:04:29Z
+  Updated: 2026-08-28T02:12:10Z
   Vendor: Futurebirds Merch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBLOOMINGREENVINYL.png?v=1746471606
   Price: $24.99 USD
 - [Easy Co. Camo Hat](https://store.futurebirdsmusic.com/products/easy-co-camo-hat): Camo hat / One size fits most
-  Updated: 2026-08-10T06:21:25Z
+  Updated: 2026-08-28T02:13:04Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDS_CAMO_HAT.png?v=1748886731
   Price: $35.00 USD
 - [Birdhead Joggers](https://store.futurebirdsmusic.com/products/birdhead-joggers): Black joggers with red birdhead embroidery.
-  Updated: 2026-07-17T23:33:12Z
+  Updated: 2026-08-25T21:12:57Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -171,14 +171,14 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBLOOMINGORANGEVINYL.png?v=1746474825
   Price: $24.99 USD
 - [Birdhead Tote](https://store.futurebirdsmusic.com/products/birdhead-tote): Futurebirds Birdhead Tote with front print only.
-  Updated: 2026-07-08T20:49:54Z
+  Updated: 2026-08-25T21:12:55Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBIRDHEADTOTE.png?v=1748382699
   Price: $10.00 USD
 - [Easy Co. Rainbow Tee](https://store.futurebirdsmusic.com/products/easy-co-rainbow-tee): Futurebirds Easy Co. Rainbow Tee in cream with front pocket and front and back print.
-  Updated: 2026-07-17T21:01:21Z
+  Updated: 2026-08-29T02:22:47Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -199,14 +199,14 @@
     Availability: Not Available
     Price: $10.00 USD
 - [Birdhead Keychain](https://store.futurebirdsmusic.com/products/birdhead-keychain)
-  Updated: 2026-07-16T15:37:57Z
+  Updated: 2026-08-25T21:12:54Z
   Vendor: Futurebirds Merch
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBIRDHEADKEYCHAIN.png?v=1748885676
   Price: $5.00 USD
 - [Mystery Bin (RESTOCKED!)](https://store.futurebirdsmusic.com/products/mystery-bin): $15 Mystery Bin! All items in this bin are t-shirts of a $35 value. All you need to do is pick your size! FINAL 
-  Updated: 2026-08-10T01:44:16Z
+  Updated: 2026-08-28T02:12:10Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -232,27 +232,6 @@
   - [3X](https://store.futurebirdsmusic.com/products/mystery-bin?variant=47110244139157)
     Availability: Available
     Price: $15.00 USD
-- [Heron Tee](https://store.futurebirdsmusic.com/products/crane-tee): Futurebirds Heron Tee in "blue spruce" with front print only.
-  Updated: 2026-08-11T17:17:16Z
-  Vendor: Futurebirds Merch
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSCRANETEE-2.png?v=1752606744
-  - [S](https://store.futurebirdsmusic.com/products/crane-tee?variant=46210798321813)
-    Availability: Available
-    Price: $15.00 USD
-  - [M](https://store.futurebirdsmusic.com/products/crane-tee?variant=46210798354581)
-    Availability: Not Available
-    Price: $15.00 USD
-  - [L](https://store.futurebirdsmusic.com/products/crane-tee?variant=46210798846101)
-    Availability: Not Available
-    Price: $15.00 USD
-  - [XL](https://store.futurebirdsmusic.com/products/crane-tee?variant=46210798878869)
-    Availability: Not Available
-    Price: $15.00 USD
-  - [2XL](https://store.futurebirdsmusic.com/products/crane-tee?variant=46210798387349)
-    Availability: Not Available
-    Price: $15.00 USD
 - [Summer Tour Tee](https://store.futurebirdsmusic.com/products/summer-tour-tee): Futurebirds Summer 2025 Tour Tee in sage with front print only.
   Updated: 2026-08-10T20:25:16Z
   Vendor: Futurebirds Merch
@@ -275,28 +254,28 @@
     Availability: Available
     Price: $40.00 USD
 - [Corduroy Birdhead Hat](https://store.futurebirdsmusic.com/products/corduroy-birdhead-hat): Corduroy hat with red birdhead logo embroidered on the front and band name on the back. Snapback closure / One size fits most
-  Updated: 2026-07-16T13:41:07Z
+  Updated: 2026-08-17T21:10:17Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSLOGOHAT.png?v=1761254150
   Price: $35.00 USD
 - [Birdhead Patch Hat](https://store.futurebirdsmusic.com/products/birdhead-patch-hat): Two-tone hat with birdhead patch on the front. One size fits most
-  Updated: 2026-08-11T17:56:08Z
+  Updated: 2026-08-25T21:12:57Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSPATCHHAT.png?v=1761254201
   Price: $35.00 USD
 - [Rodeo Hat](https://store.futurebirdsmusic.com/products/rodeo-hat): Two-tone Rodeo Hat in red/natural. One size fits most
-  Updated: 2026-08-08T01:05:07Z
+  Updated: 2026-08-23T23:57:46Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSRODEOHAT.png?v=1762290718
   Price: $40.00 USD
 - [Trippin' Tee](https://store.futurebirdsmusic.com/products/trippin-tee): Futurebirds Trippin' Tee on Realtree APX Camo with front print only.
-  Updated: 2026-07-20T16:05:00Z
+  Updated: 2026-08-30T21:29:35Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -316,40 +295,22 @@
   - [2XL](https://store.futurebirdsmusic.com/products/trippin-tee?variant=46573167509653)
     Availability: Not Available
     Price: $40.00 USD
-- [Athens Youth Tee](https://store.futurebirdsmusic.com/products/athens-youth-tee): Futurebirds Athens Youth Tee in red with front print only. This is a youth sized tee.
-  Updated: 2026-08-10T06:21:19Z
-  Vendor: Futurebirds Merch
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSATHENSYOUTHTEE.png?v=1762291282
-  - [S](https://store.futurebirdsmusic.com/products/athens-youth-tee?variant=46573169639573)
-    Availability: Not Available
-    Price: $10.00 USD
-  - [YM](https://store.futurebirdsmusic.com/products/athens-youth-tee?variant=46573172457621)
-    Availability: Not Available
-    Price: $10.00 USD
-  - [YL](https://store.futurebirdsmusic.com/products/athens-youth-tee?variant=46573172490389)
-    Availability: Available
-    Price: $10.00 USD
-  - [YXL](https://store.futurebirdsmusic.com/products/athens-youth-tee?variant=46573172523157)
-    Availability: Available
-    Price: $10.00 USD
 - [Rainbow Sticker](https://store.futurebirdsmusic.com/products/rainbow-sticker): Die Cut Vinyl Sticker
-  Updated: 2026-07-25T00:45:37Z
+  Updated: 2026-08-27T17:55:26Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTNDSRAINBOWSTICKER.png?v=1769444456
   Price: $5.00 USD
 - [Keyhole Sticker](https://store.futurebirdsmusic.com/products/staircase-sticker): Die Cut Vinyl Sticker
-  Updated: 2026-08-11T17:17:16Z
+  Updated: 2026-08-30T21:29:37Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSSTAIRCASESTICKER.png?v=1769444533
   Price: $5.00 USD
 - [Logo Koozie](https://store.futurebirdsmusic.com/products/logo-koozie): Futurebirds Logo Koozie in black. Double sided
-  Updated: 2026-07-30T16:40:49Z
+  Updated: 2026-08-28T02:13:13Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
@@ -363,7 +324,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBIRDHEADKOOZIE.png?v=1769444855
   Price: $5.00 USD
 - [Sold Out Windjammer Poster - SIGNED](https://store.futurebirdsmusic.com/products/sold-out-windjammer-poster-signed): Sold Out Windjammer Poster signed by the band!
-  Updated: 2026-07-08T20:49:58Z
+  Updated: 2026-08-24T02:36:57Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
@@ -391,7 +352,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSTEXSPOSTER.png?v=1773261444
   Price: $10.00 USD
 - [Howlin' Summer II Poster](https://store.futurebirdsmusic.com/products/howlin-summer-poster): Unsigned Howlin' Summer II Poster
-  Updated: 2026-07-08T20:49:59Z
+  Updated: 2026-08-28T02:12:07Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
@@ -412,28 +373,28 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBLACKDIAMON4POSTER.png?v=1773261687
   Price: $10.00 USD
 - [Trucker Hat](https://store.futurebirdsmusic.com/products/trucker-hat): White Futurebirds Trucker Hat with black rope and snap closure. One size fits most
-  Updated: 2026-08-10T06:21:25Z
+  Updated: 2026-08-26T16:59:57Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSWHITETRUCKER.png?v=1775679240
   Price: $35.00 USD
 - [Logo Tote](https://store.futurebirdsmusic.com/products/logo-tote): Futurebirds Logo Tote with front print only in shade natural / red.
-  Updated: 2026-07-09T17:39:51Z
+  Updated: 2026-08-18T21:46:06Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSLOGOTOTE.png?v=1775679411
   Price: $15.00 USD
 - [Carabiner Bottle Opener](https://store.futurebirdsmusic.com/products/carabiner-bottle-opener): Red Carabiner Bottle Opener!
-  Updated: 2026-07-26T16:14:38Z
+  Updated: 2026-08-25T21:12:58Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBOTTLEOPENER.png?v=1775679506
   Price: $5.00 USD
 - [Sea Bass Tee](https://store.futurebirdsmusic.com/products/sea-bass-tee): Futurebirds Sea Bass Tee in emerald gree with front and back print.
-  Updated: 2026-08-11T19:38:36Z
+  Updated: 2026-08-26T16:59:45Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -454,7 +415,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Palm Tree Tee](https://store.futurebirdsmusic.com/products/palm-tree-tee): Futurebirds Palm Tree Tee in ivory with front print only.
-  Updated: 2026-08-10T21:42:27Z
+  Updated: 2026-08-28T02:11:58Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -469,34 +430,27 @@
     Availability: Available
     Price: $40.00 USD
   - [XL](https://store.futurebirdsmusic.com/products/palm-tree-tee?variant=47434679746709)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [2XL](https://store.futurebirdsmusic.com/products/palm-tree-tee?variant=47434679779477)
     Availability: Not Available
     Price: $40.00 USD
 - [Floaty Keychain](https://store.futurebirdsmusic.com/products/floaty-keychain): Futurebirds Floaty Keychain in royal blue. Double sided floating keychain
-  Updated: 2026-08-10T21:42:36Z
+  Updated: 2026-08-28T02:12:06Z
   Vendor: Futurebirds Merch
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSFLOATYKEYCHAIN.png?v=1781205020
   Price: $10.00 USD
 - [Palm Tree Koozie](https://store.futurebirdsmusic.com/products/palm-tree-koozie): Futurebirds Palm Tree Koozie in royal blue. Double sided sublimated koozie
-  Updated: 2026-08-10T21:42:36Z
+  Updated: 2026-08-28T02:12:07Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSPALMTREEKOOZIE.png?v=1781205197
   Price: $5.00 USD
-- [Follow Me Bumper Sticker](https://store.futurebirdsmusic.com/products/follow-me-bumper-sticker): Futurebirds Follow Me to Far Our Country Bumper Sticker This item is a pre-order that will ship mid-August. 11in x 3in
-  Updated: 2026-08-11T17:17:17Z
-  Vendor: Futurebirds Merch
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSFAROUTCOUNTRYBUMPERSTICKER.png?v=1784126696
-  Price: $5.00 USD
 - [Far Out Country Tour Tee](https://store.futurebirdsmusic.com/products/far-out-country-tour-tee): Futurebirds Far Out Country Tour Tee in online exclusive colorway with front and back print. Tour dates on back! 100% Cotton
-  Updated: 2026-08-11T19:38:36Z
+  Updated: 2026-08-21T04:26:16Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -516,64 +470,99 @@
   - [2XL](https://store.futurebirdsmusic.com/products/far-out-country-tour-tee?variant=47572641775765)
     Availability: Available
     Price: $40.00 USD
-- [Far Out Country Hat](https://store.futurebirdsmusic.com/products/far-out-country-hat): Futurebirds Far Out Country Dad Hat in navy with embroidery on the front. One size fits most
-  Updated: 2026-07-17T14:08:57Z
+- [Map Tee](https://store.futurebirdsmusic.com/products/map-tee): Futurebirds Far Out Country Map Tee in ivory with front and back print. 100% Cotton
+  Updated: 2026-08-25T21:12:56Z
   Vendor: Futurebirds Merch
-  Product Type: Accessories
+  Product Type: Apparel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSFAROUTCOUNTRYHAT.png?v=1784127064
-  Price: $35.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSIVORYMAPTEE-2.png?v=1787237087
+  - [S](https://store.futurebirdsmusic.com/products/map-tee?variant=47757616775317)
+    Availability: Available
+    Price: $40.00 USD
+  - [M](https://store.futurebirdsmusic.com/products/map-tee?variant=47757616808085)
+    Availability: Available
+    Price: $40.00 USD
+  - [L](https://store.futurebirdsmusic.com/products/map-tee?variant=47757616840853)
+    Availability: Available
+    Price: $40.00 USD
+  - [XL](https://store.futurebirdsmusic.com/products/map-tee?variant=47757616873621)
+    Availability: Available
+    Price: $40.00 USD
+  - [2XL](https://store.futurebirdsmusic.com/products/map-tee?variant=47757616906389)
+    Availability: Available
+    Price: $40.00 USD
+- [Logo Crewneck](https://store.futurebirdsmusic.com/products/logo-crewneck): Futurebirds Logo Crewneck in forest green with front print only.
+  Updated: 2026-08-21T14:12:07Z
+  Vendor: Futurebirds Merch
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSLOGOCREWNECK.png?v=1787238148
+  - [S](https://store.futurebirdsmusic.com/products/logo-crewneck?variant=47757655867541)
+    Availability: Not Available
+    Price: $65.00 USD
+  - [M](https://store.futurebirdsmusic.com/products/logo-crewneck?variant=47757655900309)
+    Availability: Available
+    Price: $65.00 USD
+  - [L](https://store.futurebirdsmusic.com/products/logo-crewneck?variant=47757655933077)
+    Availability: Not Available
+    Price: $65.00 USD
+  - [XL](https://store.futurebirdsmusic.com/products/logo-crewneck?variant=47757655965845)
+    Availability: Not Available
+    Price: $65.00 USD
+  - [2XL](https://store.futurebirdsmusic.com/products/logo-crewneck?variant=47757655998613)
+    Availability: Available
+    Price: $65.00 USD
 
 ## Collections
 
 - [Home page](https://store.futurebirdsmusic.com/collections/frontpage)
-  Updated: 2026-08-12T11:13:00Z
-  Total Products: 56
+  Updated: 2026-08-29T11:14:16Z
+  Total Products: 58
 - [Apparel](https://store.futurebirdsmusic.com/collections/apparel)
-  Updated: 2026-08-12T11:13:00Z
-  Total Products: 28
+  Updated: 2026-08-29T11:14:16Z
+  Total Products: 30
 - [Accessories](https://store.futurebirdsmusic.com/collections/accessories)
-  Updated: 2026-08-12T11:13:00Z
+  Updated: 2026-08-28T11:12:06Z
   Total Products: 36
 - [All](https://store.futurebirdsmusic.com/collections/all)
-  Updated: 2026-08-12T11:13:00Z
+  Updated: 2026-08-29T11:14:16Z
   Total Products: 40
 - [Music](https://store.futurebirdsmusic.com/collections/music)
-  Updated: 2026-07-29T11:13:29Z
+  Updated: 2026-08-28T11:12:06Z
   Total Products: 5
 - [Summer Collection](https://store.futurebirdsmusic.com/collections/summer-collection)
-  Updated: 2026-08-10T11:12:33Z
+  Updated: 2026-08-29T11:14:16Z
   Total Products: 12
 - [Fall Collection](https://store.futurebirdsmusic.com/collections/fall-collection)
-  Updated: 2026-08-10T11:12:33Z
+  Updated: 2026-08-27T11:11:42Z
   Total Products: 5
 - [Black Friday ](https://store.futurebirdsmusic.com/collections/black-friday-)
-  Updated: 2026-08-12T11:13:00Z
+  Updated: 2026-08-29T11:14:16Z
   Total Products: 29
 - [Hats](https://store.futurebirdsmusic.com/collections/hats)
-  Updated: 2026-08-12T11:13:00Z
+  Updated: 2026-08-28T11:12:06Z
   Total Products: 7
 - [UPSELL](https://store.futurebirdsmusic.com/collections/upsell)
-  Updated: 2026-08-12T11:13:00Z
+  Updated: 2026-08-28T11:12:06Z
   Total Products: 7
 - [The Red Collection](https://store.futurebirdsmusic.com/collections/trippin)
-  Updated: 2026-08-10T11:12:33Z
+  Updated: 2026-08-27T11:11:42Z
   Total Products: 11
 - [Posters](https://store.futurebirdsmusic.com/collections/posters)
-  Updated: 2026-08-11T11:13:52Z
+  Updated: 2026-08-24T11:10:59Z
   Total Products: 8
 - [Spring Collection](https://store.futurebirdsmusic.com/collections/spring-collection)
-  Updated: 2026-08-10T11:12:33Z
+  Updated: 2026-08-26T11:12:30Z
   Total Products: 4
 - [EG All Products - DO NOT EDIT](https://store.futurebirdsmusic.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-08-12T11:13:00Z
-  Total Products: 69
+  Updated: 2026-08-29T11:14:16Z
+  Total Products: 71
 - [Summer Kickoff](https://store.futurebirdsmusic.com/collections/summer-kickoff)
-  Updated: 2026-08-12T11:13:00Z
+  Updated: 2026-08-29T11:14:16Z
   Total Products: 16
 - [Far Out Country](https://store.futurebirdsmusic.com/collections/far-out-country)
-  Updated: 2026-08-12T11:13:00Z
-  Total Products: 3
+  Updated: 2026-08-26T11:12:30Z
+  Total Products: 4
 
 ## Store Pages
 
