@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-09-27T14:55:39Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-06T21:49:26.912Z
+- Updated At: 2026-09-01T00:00:37.119Z
 
 ## Products
 
 - [Casualty Hoodie](https://shop.kenzieofficial.com/products/casualty-hoodie): 80/20 cotton/polyester hoodie in black Size Chart Size Body Length (in) Chest Width (Laid Flat) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2 3XL 32 30 38 1/2
-  Updated: 2026-07-15T02:27:51Z
+  Updated: 2026-08-22T23:43:57Z
   Vendor: Kenzie
   Product Type: Hoodie
   Availability: Available
@@ -109,7 +109,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $50.00 USD
 - [Bow Tee](https://shop.kenzieofficial.com/products/portrait-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-07-15T03:24:21Z
+  Updated: 2026-08-22T23:43:58Z
   Vendor: Kenzie
   Product Type: T-Shirt
   Availability: Available
@@ -155,21 +155,21 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/Kenzie_Bow_Tee_Back.png?v=1749154355
     Price: $20.00 USD
 - [Bow Tote](https://shop.kenzieofficial.com/products/bow-tote): 100% cotton tote bag in natural
-  Updated: 2026-07-08T21:10:48Z
+  Updated: 2026-08-22T23:43:57Z
   Vendor: Kenzie
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/P1010112.jpg?v=1731946597
   Price: $20.00 USD
 - [Logo Sticker](https://shop.kenzieofficial.com/products/logo-sticker): Black die-cut vinyl sticker featuring Kenzie's logo
-  Updated: 2026-07-16T23:01:18Z
+  Updated: 2026-08-22T23:43:57Z
   Vendor: Kenzie
   Product Type: Sticker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KNZIE_Logo_Sticker.png?v=1738882332
   Price: $5.00 USD
 - [Cat Crop Tank](https://shop.kenzieofficial.com/products/cat-crop-tank): 100% combed cotton, baby rib cropped tank top in white. stretches up to 2x its original size. made in the USA. Size Chart Size Body Length (in) Chest Width (in) XS 15 1/4 11 3/4 S 15 3/4 12 3/4 M 16 1/4 13 3/4 L 16 5/8 15 3/4 XL 17 1/8 16 3/4
-  Updated: 2026-07-16T22:30:12Z
+  Updated: 2026-08-22T23:43:57Z
   Vendor: Kenzie
   Product Type: T-Shirt
   Availability: Available
@@ -190,7 +190,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Logo Boxer Shorts](https://shop.kenzieofficial.com/products/logo-boxer-shorts): 100% woven cotton shorts in blue stripe with woven label. Single button fly opening. Size Chart Size Half Waist (in) Full Length (in) S 12 1/2 13 3/4 M 13 3/4 14 L 14 3/4 14 1/2 XL 15 3/4 15 2XL 16 3/4 15 1/4
-  Updated: 2026-08-06T19:25:56Z
+  Updated: 2026-08-22T23:43:57Z
   Vendor: Kenzie
   Product Type: Shorts
   Availability: Available
@@ -211,14 +211,14 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Embroidered Dad Hat](https://shop.kenzieofficial.com/products/embroidered-dad-hat): 100% cotton twill dad hat in brown.
-  Updated: 2026-07-17T13:00:21Z
+  Updated: 2026-08-31T21:42:53Z
   Vendor: Kenzie
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/KENZIE_Embroidered_Dad_Hat.png?v=1748626673
   Price: $30.00 USD
 - [Mutual Destruction Baby Tee](https://shop.kenzieofficial.com/products/mutual-destruction-baby-tee): Please note: this is a pre-order item and will ship in 3-4 weeks if we got to loving, it would end up in our mutual destruction ❤️🔥 100% combed cotton baby rib t-shirt in crème; stretches up to 2 times its original size Size Chart Size Body Length (in) Chest Width (in) S 20 7/8 12 1/8 M 21 3/8 13 1/8 L 21 7/8 14 XL 22 3/8 15 2XL 22 7/8 16
-  Updated: 2026-07-17T13:49:45Z
+  Updated: 2026-08-22T23:43:58Z
   Vendor: Kenzie
   Product Type: T-Shirt
   Availability: Available
@@ -242,16 +242,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://shop.kenzieofficial.com/collections/frontpage)
-  Updated: 2026-07-08T21:23:23Z
+  Updated: 2026-08-15T11:26:36Z
   Total Products: 9
 - [Apparel](https://shop.kenzieofficial.com/collections/apparel)
   Updated: 2026-07-08T21:23:23Z
   Total Products: 6
 - [All](https://shop.kenzieofficial.com/collections/all)
-  Updated: 2026-07-08T21:23:22Z
+  Updated: 2026-08-15T11:26:36Z
   Total Products: 7
 - [Accessories](https://shop.kenzieofficial.com/collections/accessories)
-  Updated: 2026-07-08T21:23:21Z
+  Updated: 2026-08-15T11:26:36Z
   Total Products: 4
 - [Hats](https://shop.kenzieofficial.com/collections/hats)
   Updated: 2026-07-08T20:52:14Z
