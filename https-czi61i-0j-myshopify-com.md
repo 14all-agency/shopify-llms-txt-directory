@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-08-05T05:52:41Z
 - Contact Email: christowelman4@gmail.com
-- Updated At: 2026-08-21T13:12:38.056Z
+- Updated At: 2026-09-01T00:00:31.775Z
 
 ## Products
 
@@ -495,6 +495,21 @@
     Tags: car safety, driving tips, emergency tool, product highlights
   - [How to Choose the Perfect Vacuum Suction Phone Holder for Your Car](https://czi61i-0j.myshopify.com/blogs/news/how-to-choose-the-perfect-vacuum-suction-phone-holder-for-your-car): How to Choose the Perfect Vacuum Suction Phone Holder for Your Car
     Updated: 2026-08-21T13:09:23Z
+    Author: Velocity
+  - [The Ultimate Guide to Choosing the Best Windstopper Gloves for Winter Sports](https://czi61i-0j.myshopify.com/blogs/news/the-ultimate-guide-to-choosing-the-best-windstopper-gloves-for-winter-sports): The Ultimate Guide to Choosing the Best Windstopper Gloves for Winter Sports
+    Updated: 2026-08-23T00:29:10Z
+    Author: Velocity
+  - [Top 5 Reasons Why Magnetic Tool Holder Bars Are Essential for Your Garage and Workshop](https://czi61i-0j.myshopify.com/blogs/news/top-5-reasons-why-magnetic-tool-holder-bars-are-essential-for-your-garage-and-workshop): Top 5 Reasons Why Magnetic Tool Holder Bars Are Essential for Your Garage and Workshop
+    Updated: 2026-08-24T03:05:54Z
+    Author: Velocity
+  - [How the Motorcycle Handlebar Bike Mobile Holder Enhances Your Ride Safety and Convenience](https://czi61i-0j.myshopify.com/blogs/news/how-the-motorcycle-handlebar-bike-mobile-holder-enhances-your-ride-safety-and-convenience): How the Motorcycle Handlebar Bike Mobile Holder Enhances Your Ride Safety and Convenience
+    Updated: 2026-08-27T00:32:15Z
+    Author: Velocity
+  - [Restore Your Car's Headlights to Their Former Glory with the Cross-border Headlight Restoration Kit](https://czi61i-0j.myshopify.com/blogs/news/restore-your-cars-headlights-to-their-former-glory-with-the-cross-border-headlight-restoration-kit): Restore Your Car's Headlights to Their Former Glory with the Cross-border Headlight Restoration Kit
+    Updated: 2026-08-30T00:12:57Z
+    Author: Velocity
+  - [How to Revitalize Your Leather Furniture and Car Interior with Jakehoe Leather Repair Kit](https://czi61i-0j.myshopify.com/blogs/news/how-to-revitalize-your-leather-furniture-and-car-interior-with-jakehoe-leather-repair-kit): How to Revitalize Your Leather Furniture and Car Interior with Jakehoe Leather Repair Kit
+    Updated: 2026-08-31T03:46:32Z
     Author: Velocity
 
 ## Store Pages
