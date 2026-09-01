@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2020-10-13T16:00:09Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-25T00:00:37.026Z
+- Updated At: 2026-09-01T00:00:39.213Z
 
 ## Products
 
@@ -268,7 +268,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmtplumblossomfront.png?v=1774462988
   Price: $27.00 USD
 - [the masquerade - transparent blue vinyl](https://merch.mxmtoon.com/products/the-masquerade-transparent-blue-vinyl): Experience the triumphant return of singer-songwriter mxmtoon's iconic masterpiece and debut album, the masquerade, as it celebrates its 5th anniversary. Out now via AWAL Recordings, this special edition pays homage to the unwavering passion and raw emotion that captured hearts worldwide upon its initial release. This original 10-track album is now being released alongside an intimate collection of acoustic recordings, inviting you to rediscover the soulful essence of mxmtoon's musical genius. "i can’t believe it’s been five years of this record! the masquerade forever changed my life when i first released it, and it continues to find new meaning and life every day since thanks to the people who support it. i’m so grateful for the journey i’ve embarked on these past five years and i owe so much to these songs for getting me here. i’m so thankful for your continuous support too as i’ve not only released more music, but grown up alongside you. it’s the greatest privilege of my life to learn about who i am and share the songs i write with such good company. happy birthday to the masquerade :) much love, maia" Release Date: may 7th, 2024
-  Updated: 2026-07-08T21:02:34Z
+  Updated: 2026-08-26T14:59:37Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
@@ -385,7 +385,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [i  texas bumper sticker set](https://merch.mxmtoon.com/products/i--texas-bumper-sticker): set of 3 bumper stickers, each sticker measures 13.75" wide
-  Updated: 2026-07-09T03:57:12Z
+  Updated: 2026-08-29T19:37:46Z
   Vendor: mxmtoon
   Product Type: Sticker
   Availability: Available
@@ -507,7 +507,7 @@ your agent can transact everywhere.
 ## Collections
 
 - [home page](https://merch.mxmtoon.com/collections/frontpage)
-  Updated: 2026-08-23T11:07:11Z
+  Updated: 2026-08-30T11:04:28Z
   Total Products: 110
 - [shirts](https://merch.mxmtoon.com/collections/shirts)
   Updated: 2026-07-20T11:04:32Z
@@ -516,13 +516,13 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:26Z
   Total Products: 14
 - [music](https://merch.mxmtoon.com/collections/music)
-  Updated: 2026-08-23T11:07:11Z
+  Updated: 2026-08-26T11:04:27Z
   Total Products: 43
 - [headwear](https://merch.mxmtoon.com/collections/headwear)
   Updated: 2026-07-08T20:17:26Z
   Total Products: 9
 - [accessories](https://merch.mxmtoon.com/collections/accessories)
-  Updated: 2026-08-12T11:06:04Z
+  Updated: 2026-08-30T11:04:28Z
   Total Products: 56
 - [vintage](https://merch.mxmtoon.com/collections/vintage)
   Updated: 2026-07-08T20:17:26Z
@@ -534,7 +534,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:26Z
   Total Products: 0
 - [All](https://merch.mxmtoon.com/collections/all)
-  Updated: 2026-08-23T11:07:11Z
+  Updated: 2026-08-30T11:04:28Z
   Total Products: 182
 - [posters](https://merch.mxmtoon.com/collections/posters)
   Updated: 2026-07-08T20:17:26Z
@@ -561,7 +561,7 @@ your agent can transact everywhere.
   Updated: 2026-08-23T11:07:11Z
   Total Products: 18
 - [Misc](https://merch.mxmtoon.com/collections/misc)
-  Updated: 2026-08-12T11:06:04Z
+  Updated: 2026-08-30T11:04:28Z
   Total Products: 35
 - [rising (the tour) merch](https://merch.mxmtoon.com/collections/rising-tour)
   Updated: 2026-07-08T20:17:27Z
@@ -582,7 +582,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T21:03:28Z
   Total Products: 11
 - [the spring line](https://merch.mxmtoon.com/collections/the-spring-line)
-  Updated: 2026-07-08T21:03:30Z
+  Updated: 2026-08-26T11:04:27Z
   Total Products: 7
 - [$40](https://merch.mxmtoon.com/collections/40)
   Updated: 2026-08-22T11:07:05Z
@@ -603,10 +603,10 @@ your agent can transact everywhere.
   Updated: 2026-08-06T21:19:46Z
   Total Products: 3
 - [all](https://merch.mxmtoon.com/collections/all-1)
-  Updated: 2026-08-23T11:07:11Z
+  Updated: 2026-08-30T11:04:28Z
   Total Products: 182
 - [i  texas](https://merch.mxmtoon.com/collections/i--texas)
-  Updated: 2026-07-08T21:03:31Z
+  Updated: 2026-08-30T11:04:28Z
   Total Products: 4
 - [liminal space](https://merch.mxmtoon.com/collections/liminal-space)
   Updated: 2026-08-23T11:07:11Z
@@ -630,7 +630,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:28Z
   Total Products: 4
 - [Stocking Stuffers](https://merch.mxmtoon.com/collections/stocking-stuffers)
-  Updated: 2026-08-12T11:06:04Z
+  Updated: 2026-08-30T11:04:28Z
   Total Products: 9
 
 ## Store Pages
