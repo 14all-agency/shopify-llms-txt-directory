@@ -6,14 +6,14 @@
 - Timezone: America/Vancouver
 - Created At: 2026-08-05T07:59:33Z
 - Contact Email: wayitwent9877@outlook.com
-- Updated At: 2026-08-24T00:00:37.256Z
+- Updated At: 2026-09-01T00:00:38.982Z
 
 Quality electronics that won’t break the bank 
 
 ## Products
 
 - [Bone Conduction Headphones – Open Ear](https://electronicsplus987.myshopify.com/products/bone-conduction-headphones-open-ear-koptelefoon-lange-batterijduur): Bone Conduction Headphones – Open Ear
-  Updated: 2026-08-15T10:38:54Z
+  Updated: 2026-08-28T21:18:54Z
   Vendor: WireHaven
   Product Type: Headphones
   Availability: Available
@@ -31,14 +31,14 @@ Quality electronics that won’t break the bank
     Image: https://cdn.shopify.com/s/files/1/1002/1172/0555/files/67b52be35246d9386aaa789281192655.jpg?v=1785942486
     Price: $40.53 CAD
 - [Wireless Earbuds, 50H Bluetooth 5.4 Headphones Sport, Hifi Stereo Sound | ENC Noise Canceling Bluetooth Earbuds, Wireless Earphones with Earhooks, IP7 Waterproof Ear Buds for Sports/Workout/Running](https://electronicsplus987.myshopify.com/products/wireless-earbuds-50h-bluetooth-5-4-headphones-sport-hifi-stereo-sound-enc-noise-canceling-bluetooth-earbuds-wireless-earphones-with-earhooks-ip7-waterproof-ear-buds-for-sports-workout-running): Product Description The video showcases the product in use.The video guides you through product setup.The video compares multiple products.The video shows the product being unpacked. aplus content video 2026 Bluetooth 5.4 Technology Wireless headphones use advanced Bluetooth 5.4 technology, which greatly extends the transmission distance and improves the speed. One-Step Pairing After the first pairing, simply open the headset case and the Bluetooth headset will connect automatically. Lightweight Design The wireless headphones adopt a lightweight design, fitting comfortably in your ears. Universal Compatibility The Bluetooth headphones are compatible with most Bluetooth-enabled devices. Bluetooth 5.4 Technology: These wireless earbuds feature the latest Bluetooth 5.4 technology. Compared with Bluetooth 5.3, they have been optimized in several aspects and introduced support for LE Audio (a low-power, low-latency audio technology) to ensure stable call quality and high-fidelity audio performance in complex environments. The Bluetooth earbuds also utilize Hall effect technology, allowing them to quickly pair and connect to the last connected device when you open the charging case Immersive Stereo Sound, ENC Noise Reduction: Our wireless earphones are equipped with 13mm three-layer graphene TPU diaphragm drivers, providing a detailed soundscape and a wide frequency range that allow you to fully enjoy the richness of musical scenes and immerse yourself in the music. These Bluetooth earphones also feature ENC noise reduction, effectively filtering out background noise during calls. Whether commuting, shopping, or partying, you can enjoy every call with clarity. Comfortable to Wear, IP7 Waterproof: These sports headphones feature an ergonomic design with ultra-soft and lightweight silicone ear hooks that adapt to different ear shapes, providing a perfect fit and ensuring long-term comfort and stability. These sports earbuds meet IP7 dust-proof and waterproof standards, effectively preventing damage to the ear buds from rain and sweat. They are ideal for work, travel, meetings, driving, sports, and other activities. Dual Real-Time LED Display, 50 Hours of Playback: Our in-ear wireless headphones feature dual LED displays that clearly display the battery status of the charging case and earbuds. Additionally, these earphones offer 6 to 10 hours of playback on a single charge, which can be extended to 50 hours with the charging case. This makes them suitable for a variety of daily activities, such as sports, meetings, movies, and entertainment, while also alleviating your worries about low battery power. Touch Controls, Broad Compatibility: These wireless ear buds feature high-sensitivity touch sensors for easy control of music and calls—just one tap to switch songs, adjust volume, or answer and reject calls during activities like exercising, biking, driving, or running. They are very convenient to use. Additionally, these Bluetooth headphones offer excellent compatibility, connecting seamlessly to a variety of Bluetooth-enabled devices, including Android and iOS phones and tablets.
-  Updated: 2026-08-15T10:38:55Z
+  Updated: 2026-08-28T21:18:54Z
   Vendor: WireHaven
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1002/1172/0555/files/71f729d4d3dbc9718810c02067a02304.jpg?v=1785961748
   Price: $37.41 CAD
 - [Electric Air Duster Chargeable,Compressed Air Cans Usb,Cordless Air Blower Cleaning Dust,Laptop Cleaner, Computer PC Canned Air](https://electronicsplus987.myshopify.com/products/electric-air-duster-chargeable-compressed-air-cans-usb-cordless-air-blower-cleaning-dust-laptop-cleaner-computer-pc-canned-air): 한국 5일 빨른 배송 혜택$20 이상 - $3 할인;$50 이상 - $5 할인;$100 - $10 할인.클릭하고 쿠폰을 받을자! Following countries Following countriesYou can fill in the code and enjoy the  WHAT ARE WE PROUD OF? We assure this easy-to-use rechargeable air blower is the right one you're looking for! 【ICANZUO Powerful Electric Air Duster】 The ICANZUO Electric Duster produces a powerful airflow for endless applications with various nozzle attachments.Thin and long nozzle makes it easier to clean corners or place where hand cannot reach. The nozzle is removable for better space utilization. Perfect for Keyboards, computer case, car seats, or even your le go toys. 【JUST OHE MINUTE Clean up the Keyboard】 This air duster is a gadget perfectly designed to clean your bumpy keyboards full of crannies. The super strong thrust of air can blow away the hidden dirt and go deep into the narrowest. A safe way to clean your keyboard without worrying about any chemical left behind when you type on it after the cleaning. 【Environment Friendly】 An alternative to compressed air gas. With landfills overflowing with non-biodegradable waste including compressed air cans, our computer cleaner is safe for the environment and for the cost of 8-12 cans of air cans you can own a ICANZUO Air Blower. ✅Quick Charge Tech & Long Battery Life Please forget the disposable cleaning duster. The built-in 8000mAh(4000mAh*2) rechargeable batteries can be for thousands of re-uses. 10W fast charge greatly reduces the charging time (5 hours fully charged). Even in a high output state, this cordless air duster can work for up to 30 minutes after a full charge.
-  Updated: 2026-08-15T10:38:55Z
+  Updated: 2026-08-28T21:18:55Z
   Vendor: WireHaven
   Product Type: 
   Availability: Available
@@ -72,14 +72,14 @@ Quality electronics that won’t break the bank
     Image: https://cdn.shopify.com/s/files/1/1002/1172/0555/files/Sb2e3d1fc064947cfa2a198631ced0937d.webp?v=1786396063
     Price: $43.30 CAD
 - [3 in 1 Magnetic Foldable Wireless Charger Charging Station Multi-Device Folding Cell Phone Wireless Charger Gadgets](https://electronicsplus987.myshopify.com/products/3-in-1-magnetic-foldable-wireless-charger-charging-station-multi-device-folding-cell-phone-wireless-charger-gadgets): Overview: *Upgrade 3-in-1 wireless charger FD-308, high quality, full-speed charging with a case, 15W fast charging, stop when full, low-temperature charging is safer *Compatible with all kinds of mobile phone products, Android, Apple, Samsung, easy to store, built-in strong magnetic precise alignment *Upgrade the coil, the charging speed is more amazing, and the thick coil has a wider induction area *Trickle mode, small battery health guard, automatic power off, fully charged, more assured without charging *15W high-speed low-temperature fast charging, safe and convenient, travel. Great little guy for the outdoors Product information:Article No.: FD-308Input parameter: 9Output parameter: 9 (V)Type: wireless chargingCharging current: 2000 (mA)Battery type: lithium batteryIndication function: no indication functionInterface: TYPE-CProduct certification: ceProduct material: PU microfiber leather+ABSHeadphone output: 3WProduct material: PU microfiber leather+ABSWatch output: 2WMobile phone output: 1 5W/10W/7.5W/5WProduct input: 9V2A Advantages:1.Full of strength2.Light and compact3.Safe power offzz4.low temperature Packing list:Wireless charging x1pc, data cable x1pc
-  Updated: 2026-08-15T10:38:55Z
+  Updated: 2026-08-28T21:18:55Z
   Vendor: WireHaven
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1002/1172/0555/files/c5e623f7-0349-4528-8b22-e32d0339c1c1.jpg?v=1786396180
   Price: $27.55 CAD
 - [New KZ EDX Pro Earphones Bass Earbuds in Ear Monitor Headphones Sport Noise Cancelling HIFI Headset](https://electronicsplus987.myshopify.com/products/new-kz-edx-pro-earphones-bass-earbuds-in-ear-monitor-headphones-sport-noise-cancelling-hifi-headset): New KZ EDX Pro Earphones Bass Earbuds In Ear Monitor Headphones Sport Noise Cancelling HIFI Headset
-  Updated: 2026-08-15T10:38:55Z
+  Updated: 2026-08-28T21:18:55Z
   Vendor: WireHaven
   Product Type: 
   Availability: Available
@@ -113,7 +113,7 @@ Quality electronics that won’t break the bank
     Image: https://cdn.shopify.com/s/files/1/1002/1172/0555/files/aedac669-8026-498d-8f5d-c4cc6de3043b.jpg?v=1786397131
     Price: $19.79 CAD
 - [P9 Wireless Bluetooth Headphones with Mic – Noise Isolation, Over-Ear](https://electronicsplus987.myshopify.com/products/p9-wireless-bluetooth-headphones-with-mic-noise-cancelling-headsets-stereo-sound-earphones-sports-gaming-headphones-supports-tf): Shop P9 Wireless Bluetooth Headphones with Mic. Over-ear design, noise isolation earmuffs, stereo sound, built-in memory card support, ideal for gaming, sports, and mobile use.
-  Updated: 2026-08-16T02:46:39Z
+  Updated: 2026-08-28T21:18:56Z
   Vendor: WireHaven
   Product Type: 
   Availability: Available
@@ -158,14 +158,21 @@ Quality electronics that won’t break the bank
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1002/1172/0555/files/8d14f7c0cd161bd6922212a34b5db6ac.jpg?v=1786397204
     Price: $28.34 CAD
+- [HD 560S Open-Back 120 Ohm Studio Monitor Headphones for Recording Mixing DJ HiFi Audio](https://electronicsplus987.myshopify.com/products/hd-560s-open-back-120-ohm-studio-monitor-headphones-for-recording-mixing-dj-hifi-audio): SPECIFICATIONSActive Noise-Cancellation: NoAudio latency: noneBrand Name: sanpusenCategory: Earphones & HeadphonesCharging Time: 0Choice: yesCommunication: WiredControl Button: NoControl Method: OthersDepartment: Unisex-adultHigh-concerned chemical: noneMaterial: ABSOrigin: Mainland ChinaSpeaker maximum output power: noneStyle: Wired headphone & headsetVocalism Principle: DynamicVolume Control: NoWireless Type: Nonesemi_Choice: yeswhether electrical: No
+  Updated: 2026-08-29T15:27:56Z
+  Vendor: WireHaven
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1002/1172/0555/files/Sd8a6c1a40e384a35a4b6bd7452e30aa8Z.webp?v=1787798454
+  Price: $113.15 CAD
 
 ## Collections
 
 - [Home page](https://electronicsplus987.myshopify.com/collections/frontpage)
-  Updated: 2026-08-15T10:38:54Z
+  Updated: 2026-08-25T13:59:04Z
   Total Products: 0
 - [Electronics and Accessories example products](https://electronicsplus987.myshopify.com/collections/electronics-and-accessories-example-products)
-  Updated: 2026-08-15T10:38:54Z
+  Updated: 2026-08-25T13:59:04Z
   Total Products: 2
 
 ## Store Pages
