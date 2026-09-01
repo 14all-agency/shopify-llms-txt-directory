@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-02-18T18:16:29Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-08-18T00:00:37.588Z
+- Updated At: 2026-09-01T00:00:45.800Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/Sara_Evans_Greatest_Hits_CD.png?v=1550856554
   Price: $10.00 USD
 - [Words - CD](https://saraevansstore.merchmadeeasy.com/products/words-audio-cd): Tracklist: Long Way Down Marquee Sign Diving in Deep All the Love You Left Me Like the Way You Love Me Rain and Fire Night Light I Need a River I Don't Trust Myself Make Room at the Bottom Words I Want You Letting You Go A Little Bit Stronger (Acoustic)
-  Updated: 2026-07-08T20:12:23Z
+  Updated: 2026-08-29T02:52:26Z
   Vendor: SaraEvans
   Product Type: CD
   Availability: Available
@@ -245,7 +245,7 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SEFANCLUBLAMINATE.png?v=1708370155
   Price: $5.00 USD
 - [2023 Tour Tee](https://saraevansstore.merchmadeeasy.com/products/2023-christmas-tee): 2023 Christmas tour tee Front and back print 100% Cotton
-  Updated: 2026-07-16T18:21:54Z
+  Updated: 2026-08-27T13:16:07Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -367,7 +367,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Pink Lemonade Koozie](https://saraevansstore.merchmadeeasy.com/products/unbroke-tour-poster-copy): The new Pink Lemonade Koozie! 12 oz skinny koozie
-  Updated: 2026-07-25T15:12:21Z
+  Updated: 2026-08-27T13:16:15Z
   Vendor: Sara Evans Store
   Product Type: Koozie
   Availability: Available
@@ -381,7 +381,7 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-BORN-TO-FLY-PAPERBACK.png?v=1725467834
   Price: $18.99 USD
 - [Born To Fly - Paperback [with signed bookplate]](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-paperback-with-signed-bookplate): Country music star Sara Evans’s “humble but incredible life story” (Publishers Weekly) about her rise to stardom, her roundabout path to love, and how her faith brings daily joy no matter the circumstances is an inspiring and “warm, approachable read” (Booklist).Sara Evans—a Billboard, ACM, and CMA Award–winning country music star who’s been named one of People’s “50 Most Beautiful People” and competed on ABC’s Dancing with the Stars—has been inspiring fans throughout her successful music career.In this powerful, personal, and often humorous book, Sara opens up and shares stories from her professional and personal life, describing what it’s like living in the spotlight and how her faith keeps her strong. She writes about overcoming life’s most challenging experiences, from a childhood accident that nearly took her life, to the loss she experienced when her parents divorced, and from her own painful and very public divorce, to finding incredible love when she least expected it with former pro-quarterback-turned-sportscaster Jay Barker. Now, after over a decade of marriage, Sara and Jay’s blended family of nine is thriving, filling her life with focus and meaning.As she weaves the narrative of her life, Sara candidly reveals the things that are most important to her and her family now, her favorite tips about staying true to herself and her faith, knowing when to ask for help, abandoning perfectionism, and the importance of a strong support group of friends and family. “She was ‘born to fly’ and you will fly too as you read each page” (Joe Galante, former president of RCA Records).
-  Updated: 2026-07-08T20:12:35Z
+  Updated: 2026-08-24T17:02:19Z
   Vendor: SaraEvans
   Product Type: Book
   Availability: Available
@@ -416,14 +416,14 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SEWORDSVINYLPNG.png?v=1745940225
   Price: $25.00 USD
 - [Saints & Angels - Saints](https://saraevansstore.merchmadeeasy.com/products/saints-angels-saints): Be the first to grab tickets with presale access Stay in the know with insider updates straight from Sara Go behind the scenes with exclusive content and past performances Join the community and engage with BTS moments
-  Updated: 2026-08-16T14:22:17Z
+  Updated: 2026-08-31T22:21:35Z
   Vendor: Sara Evans Store
   Product Type: Membership
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/artworka6d9064a-9bd3-4ed1-b3db-50753876e982.png?v=1738866776
   Price: $25.00 USD
 - [Saints & Angels - Angels](https://saraevansstore.merchmadeeasy.com/products/saints-angels-angels): Includes everything from Saints, plus: Exclusive fan merch designed just for Angels One fan chosen each month for (2) tickets and M&Gs to a show of your choice Save 10% on official Sara Evans merch
-  Updated: 2026-08-13T05:06:56Z
+  Updated: 2026-08-25T19:45:19Z
   Vendor: Sara Evans Store
   Product Type: Membership
   Availability: Available
@@ -458,7 +458,7 @@
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/WordsCD.png?v=1752261621
   Price: $12.98 USD
 - [2025 Tour Photo Tee](https://saraevansstore.merchmadeeasy.com/products/2025-tour-photo-tee): Sara Evans Photo tour tee with 2025 cities on the back 100% Cotton Unisex
-  Updated: 2026-08-13T05:14:06Z
+  Updated: 2026-08-25T17:09:19Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -505,8 +505,8 @@
   - [3XL](https://saraevansstore.merchmadeeasy.com/products/stronger-horse-tee?variant=48719163195547)
     Availability: Available
     Price: $35.00 USD
-- [We Got The Beat Tour Tee](https://saraevansstore.merchmadeeasy.com/products/orange-suds-in-the-bucket-tee-copy): Please note: orders containing this item will ship by August 17th Sara Evans graphic on the front We Got The Beat tour cities on the back Unisex tee in charcoal 100% Cotton
-  Updated: 2026-08-08T23:14:16Z
+- [We Got The Beat Tour Tee](https://saraevansstore.merchmadeeasy.com/products/orange-suds-in-the-bucket-tee-copy): Sara Evans graphic on the front We Got The Beat tour cities on the back Unisex tee in charcoal 100% Cotton
+  Updated: 2026-08-29T02:52:26Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -530,7 +530,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Hit Songs Tee](https://saraevansstore.merchmadeeasy.com/products/hits-tee): Sara Evans graphic on the front Sara's hit songs on the back Unisex tee in graphite 100% Cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-07-15T01:52:33Z
+  Updated: 2026-08-28T18:54:28Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -554,7 +554,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Suds in the Bucket Sketch Tee](https://saraevansstore.merchmadeeasy.com/products/suds-in-the-bucket-sketch-tee): Sara Evans graphic on the front Suds in the Bucket title and sketch graphics on the back Unisex tee in Ivory 100% Cotton SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-08-09T19:10:06Z
+  Updated: 2026-08-23T02:25:05Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -602,7 +602,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Stronger Koozie](https://saraevansstore.merchmadeeasy.com/products/stronger-koozie): I like it a little bit stronger koozie fits standard size cans
-  Updated: 2026-07-11T07:52:52Z
+  Updated: 2026-08-28T18:54:38Z
   Vendor: Sara Evans Store
   Product Type: Koozie
   Availability: Available
@@ -619,13 +619,13 @@
 ## Collections
 
 - [Accessories](https://saraevansstore.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-08-13T11:01:55Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 64
 - [Apparel](https://saraevansstore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-08-13T11:01:55Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 56
 - [Music](https://saraevansstore.merchmadeeasy.com/collections/music)
-  Updated: 2026-07-08T20:12:51Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 18
 - [Last Chance](https://saraevansstore.merchmadeeasy.com/collections/on-)
   Updated: 2026-08-12T21:14:26Z
@@ -634,73 +634,73 @@
   Updated: 2026-08-13T11:01:55Z
   Total Products: 6
 - [Unbroke Collection](https://saraevansstore.merchmadeeasy.com/collections/unbroke-collection)
-  Updated: 2026-08-03T14:44:57Z
+  Updated: 2026-08-28T11:04:06Z
   Total Products: 12
 - [Last Call On Tour Merch Collection](https://saraevansstore.merchmadeeasy.com/collections/eoy-)
-  Updated: 2026-08-03T14:44:57Z
+  Updated: 2026-08-28T11:04:06Z
   Total Products: 9
 - [Hats](https://saraevansstore.merchmadeeasy.com/collections/hats)
   Updated: 2026-07-08T20:12:23Z
   Total Products: 9
 - [ALL](https://saraevansstore.merchmadeeasy.com/collections/all): Shop all merchandise from the Official Sara Evans store!
-  Updated: 2026-08-13T11:01:55Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 58
 - [](https://saraevansstore.merchmadeeasy.com/collections/)
-  Updated: 2026-08-13T11:01:55Z
+  Updated: 2026-08-28T11:04:06Z
   Total Products: 16
 - [Under $10](https://saraevansstore.merchmadeeasy.com/collections/under-10)
-  Updated: 2026-08-12T21:14:26Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 16
 - [The Lake Day](https://saraevansstore.merchmadeeasy.com/collections/the-lake-day)
   Updated: 2026-08-12T21:13:09Z
   Total Products: 14
 - [Cozy Collection](https://saraevansstore.merchmadeeasy.com/collections/cozy-collection)
-  Updated: 2026-08-12T21:12:55Z
+  Updated: 2026-08-25T11:04:02Z
   Total Products: 15
 - [Lyric Collection](https://saraevansstore.merchmadeeasy.com/collections/lyric-collection)
-  Updated: 2026-08-10T11:02:36Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 20
 - [Unbroke Music](https://saraevansstore.merchmadeeasy.com/collections/unbroke-music)
   Updated: 2026-07-08T20:12:45Z
   Total Products: 7
 - [BEST SELLERS](https://saraevansstore.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-08-13T11:01:55Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 16
 - [Words Anniversary](https://saraevansstore.merchmadeeasy.com/collections/words-anniversary)
-  Updated: 2026-07-08T20:12:51Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 6
 - [Signed Media](https://saraevansstore.merchmadeeasy.com/collections/signed)
-  Updated: 2026-07-19T11:02:24Z
+  Updated: 2026-08-25T11:04:02Z
   Total Products: 14
 - [Restless Anniversary](https://saraevansstore.merchmadeeasy.com/collections/restless)
-  Updated: 2026-08-13T11:01:55Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 65
 - [$10](https://saraevansstore.merchmadeeasy.com/collections/10): Due to high volume of orders, sticker  products may take up to a week to ship.
   Updated: 2026-08-10T11:02:36Z
   Total Products: 10
 - [$5 and Under](https://saraevansstore.merchmadeeasy.com/collections/5-and-under): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-08-12T21:13:09Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 32
 - [$15 and up](https://saraevansstore.merchmadeeasy.com/collections/15-and-up): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-08-13T11:01:55Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 81
 - [Sticker ](https://saraevansstore.merchmadeeasy.com/collections/sticker-): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-08-17T11:02:53Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 156
 - [Born To Fly](https://saraevansstore.merchmadeeasy.com/collections/born-to-fly)
-  Updated: 2026-08-04T11:02:33Z
+  Updated: 2026-08-25T11:04:02Z
   Total Products: 10
 - [](https://saraevansstore.merchmadeeasy.com/collections/-1)
   Updated: 2026-08-12T21:13:09Z
   Total Products: 21
 - [We Got The Beat Tour](https://saraevansstore.merchmadeeasy.com/collections/we-got-the-beat-tour)
-  Updated: 2026-08-10T11:02:36Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 8
 - [Gifts for Mom](https://saraevansstore.merchmadeeasy.com/collections/gifts-for-mom)
-  Updated: 2026-08-10T11:02:36Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 14
 - [Summer Picks](https://saraevansstore.merchmadeeasy.com/collections/summer-picks)
-  Updated: 2026-08-10T11:02:36Z
+  Updated: 2026-08-29T11:02:43Z
   Total Products: 11
 
 ## Blogs
